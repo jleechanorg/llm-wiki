@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (36 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 
@@ -758,52 +769,57 @@ The Action: Valen raises his blade, charging forward to execute a vertical strik
 Word Count: 5,041 words
 Estimated Token Count: 5,930 tokens
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Sith Academy - Korriban | Korriban, 15 ATC (Assembly Hall) | Roleplay |
-| **03** | Sith Academy | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **04** | Sith Academy | 15 ATC, Midday | Roleplay |
-| **05** | Korriban Sith Academy - Character Review | Month 5, ATC 15 (Day 10) | Roleplay |
-| **06** | Sith Academy Assembly Chamber | Month 3, 15 ATC (Day 12) | Roleplay |
-| **07** | Sith Academy Central Atrium | Mirtul 10, 1492 DR (12:00) | Roleplay |
-| **08** | Sith Academy Central Atrium | Month 5, 15 ATC (Day 10) | Roleplay |
-| **09** | Sith Academy Central Atrium | ATC 15, 12:00:30 | Roleplay |
-| **10** | Sith Academy Central Atrium | , DR (12:00) | Roleplay |
-| **11** | Sith Academy Central Atrium | Midday, 15 ATC (12:00) | Roleplay |
-| **12** | Sith Academy Central Atrium | Month 5, ATC 15 (12:01) | Roleplay |
-| **13** | Sith Academy Central Atrium | ATC 15, Midday (12:01:30) | Roleplay |
-| **14** | Sith Academy Central Atrium | ATC 1, 15 ATC (12:15) | Roleplay |
-| **15** | Lower Academy Dormitories | ATC 1, 15 ATC (12:30) | Roleplay |
-| **16** | Sector 4 Ventilation Intake | ATC 1, 15 ATC (12:45) | Roleplay |
-| **17** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
-| **18** | Sector 4 Logistics Hub | ATC 1, 15 DR (12:57) | Roleplay |
-| **19** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
-| **20** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
-| **21** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
-| **22** | Sector 4 Logistics Hub | ATC 1, 15 ATC (13:05) | Roleplay |
-| **23** | Sector 4 Logistics Hub | ATC 1, 15 ATC (13:15) | Roleplay |
-| **24** | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
-| **25** | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
-| **26** | Lower Academy Mechanics Pool | ATC 1, 15 DR (13:45) | Roleplay |
-| **27** | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
-| **28** | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
-| **29** | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
-| **30** | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
-| **31** | Lower Academy Cantina | ATC 1, 15 DR (15:30) | Roleplay |
-| **32** | Lower Academy Cantina | ATC 1, 15 ATC (15:45) | Roleplay |
-| **33** | Lower Academy Cantina | ATC 1, 15 DR (15:50) | Roleplay |
-| **34** | Secluded Alcove (Academy Foundations) | ATC 1, 15 ATC (16:00) | Roleplay |
-| **35** | Siphon Chasm (Tomb of Tulak Hord) | ATC 1, 15 DR (17:00) | Roleplay |
-| **36** | Siphon Chasm (Tomb of Tulak Hord) | ATC 1, 15 ATC (17:05) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Sith Academy - Korriban | Korriban, 15 ATC (Assembly Hall) | Roleplay |
+| [**Scene 03**](#scene-3) | Sith Academy | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 04**](#scene-4) | Sith Academy | 15 ATC, Midday | Roleplay |
+| [**Scene 05**](#scene-5) | Korriban Sith Academy - Character Review | Month 5, ATC 15 (Day 10) | Roleplay |
+| [**Scene 06**](#scene-6) | Sith Academy Assembly Chamber | Month 3, 15 ATC (Day 12) | Roleplay |
+| [**Scene 07**](#scene-7) | Sith Academy Central Atrium | Mirtul 10, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Sith Academy Central Atrium | Month 5, 15 ATC (Day 10) | Roleplay |
+| [**Scene 09**](#scene-9) | Sith Academy Central Atrium | ATC 15, 12:00:30 | Roleplay |
+| [**Scene 10**](#scene-10) | Sith Academy Central Atrium | , DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Sith Academy Central Atrium | Midday, 15 ATC (12:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Sith Academy Central Atrium | Month 5, ATC 15 (12:01) | Roleplay |
+| [**Scene 13**](#scene-13) | Sith Academy Central Atrium | ATC 15, Midday (12:01:30) | Roleplay |
+| [**Scene 14**](#scene-14) | Sith Academy Central Atrium | ATC 1, 15 ATC (12:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Lower Academy Dormitories | ATC 1, 15 ATC (12:30) | Roleplay |
+| [**Scene 16**](#scene-16) | Sector 4 Ventilation Intake | ATC 1, 15 ATC (12:45) | Roleplay |
+| [**Scene 17**](#scene-17) | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| [**Scene 18**](#scene-18) | Sector 4 Logistics Hub | ATC 1, 15 DR (12:57) | Roleplay |
+| [**Scene 19**](#scene-19) | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| [**Scene 20**](#scene-20) | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| [**Scene 21**](#scene-21) | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| [**Scene 22**](#scene-22) | Sector 4 Logistics Hub | ATC 1, 15 ATC (13:05) | Roleplay |
+| [**Scene 23**](#scene-23) | Sector 4 Logistics Hub | ATC 1, 15 ATC (13:15) | Roleplay |
+| [**Scene 24**](#scene-24) | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
+| [**Scene 25**](#scene-25) | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
+| [**Scene 26**](#scene-26) | Lower Academy Mechanics Pool | ATC 1, 15 DR (13:45) | Roleplay |
+| [**Scene 27**](#scene-27) | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
+| [**Scene 28**](#scene-28) | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
+| [**Scene 29**](#scene-29) | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
+| [**Scene 30**](#scene-30) | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
+| [**Scene 31**](#scene-31) | Lower Academy Cantina | ATC 1, 15 DR (15:30) | Roleplay |
+| [**Scene 32**](#scene-32) | Lower Academy Cantina | ATC 1, 15 ATC (15:45) | Roleplay |
+| [**Scene 33**](#scene-33) | Lower Academy Cantina | ATC 1, 15 DR (15:50) | Roleplay |
+| [**Scene 34**](#scene-34) | Secluded Alcove (Academy Foundations) | ATC 1, 15 ATC (16:00) | Roleplay |
+| [**Scene 35**](#scene-35) | Siphon Chasm (Tomb of Tulak Hord) | ATC 1, 15 DR (17:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Siphon Chasm (Tomb of Tulak Hord) | ATC 1, 15 ATC (17:05) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sovereign Heir** &nbsp;|&nbsp; ✨ **None**
@@ -854,8 +870,11 @@ Does this character meet your approval, or would you like to make adjustments be
 > 👤 **Player:**
 > *"Give me even ability scores, priortize int > dex > con and make me a bladesinger type of class except call me a sith blade and give me some special abilities something different than normal bladesinger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Sith Academy - Korriban** &nbsp;|&nbsp; ⏳ **Korriban, 15 ATC (Assembly Hall)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 10/10 | XP: 0/300 | Credits: 50** &nbsp;|&nbsp; ✨ **Sith Trance: 2/2, Void Siphon: 1/1, Spark: 1/1**
@@ -900,8 +919,11 @@ Does this configuration of the **Sith Blade** meet your approval, or shall we ma
 > 👤 **Player:**
 > *"Give me even ability scores, priortize int > dex > con and make me a bladesinger type of class except call me a sith blade and give me some special abilities something different than normal bladesinger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Sith Academy, Korriban** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50cr** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -935,8 +957,11 @@ Does this Sith Blade configuration meet your approval, or shall we refine your p
 > 👤 **Player:**
 > *"looks good but show my level 1-30 progression and we can make me similar to a bladesinger but give me some special abilities/bonuses as emperor daughter"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Sith Academy, Korriban** &nbsp;|&nbsp; ⏳ **15 ATC, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50cr** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 3/3 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -970,8 +995,11 @@ Your biological signature is currently compressed to avoid the Emperor's scryers
 
 | | 25 | **Boon of Cosmic Extraction**: Executing high-tier Sith permanently increases Max HP. |"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Korriban Sith Academy - Character Review** &nbsp;|&nbsp; ⏳ **Month 5, ATC 15 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Credits: 50** &nbsp;|&nbsp; ✨ **Slots: L1 2/2 | Void Siphon: 3/3 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1003,8 +1031,11 @@ This trajectory ensures that by the time you reach the Sovereign tier, you are n
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Confirm your Sith Blade progression and begin the story at the Korriban Academy assembly chamber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Sith Academy Assembly Chamber** &nbsp;|&nbsp; ⏳ **Month 3, 15 ATC (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Credits: 50** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Trance: 2/2 | Void Siphon: 3/3 | Exhaustion: 0**
@@ -1018,8 +1049,11 @@ Harkun steps back, gesturing for Valen to descend into the amphitheater ring. Va
 > 👤 **Player:**
 > *"THINK:The Surgical Counter - Execute a flawless micro-dodge, grab Valen's wrist, and instinctively activate your Void Siphon to leave him collapsed."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50 | Notoriety: 10** &nbsp;|&nbsp; ✨ **Void Siphon: 3/3, Void Trance: 2/2, Unawakened Spark: 1/1, Spell Slots: L1 2/2**
@@ -1029,8 +1063,11 @@ Intelligence Check (Planning): 19 vs DC 8 — Masterful success. Your high Intel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Stagger (Recommended) - Drain exactly enough stamina to cause Valen to collapse, ensuring a clean victory with minimal Notoriety spike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Month 5, 15 ATC (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Credits: 50 | XP: 50/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1048,8 +1085,11 @@ Overseer Harkun (Lvl 12) freezes on the dais, his yellow eyes narrowing into raz
 God Mode:
 rememebr i dont know i am that powerful or daughter of the emperor i. just know i am s trongr than you'd expect
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 15, 12:00:30** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 50/300** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1059,8 +1099,11 @@ Directive acknowledged. I have updated the campaign directives to strictly enfor
 God Mode:
 also notoriety isnt necessarily bad, itll be polarizing. some may admire and some may hate and try to defeat me. instructors probably will favor me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 50/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2**
@@ -1077,8 +1120,11 @@ State and directives updated. Done.
 God Mode:
 also make me extremely good looking, but people dont notice for now since I'm dressed like a commoner, only observant ones notice
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Midday, 15 ATC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 50/300** &nbsp;|&nbsp; ⚠️ **Normal | Notoriety: 25**
@@ -1088,8 +1134,11 @@ Appearance updated. Tenebria is now characterized as being extremely good lookin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Humble Deference - Bow deeply to Overseer Harkun and return to your place in line without a word.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Month 5, ATC 15 (12:01)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 50/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 2/3 | Void Trance: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Notoriety: 45 (The Anomaly)**
@@ -1105,8 +1154,11 @@ Despite his dismissal, the Notoriety Tracker in your mind spikes. You have trans
 God Mode:
 did you forget my skills? give me some appropriate skills
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 15, Midday (12:01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 50/300** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1126,8 +1178,11 @@ State updated. Character record is now complete for Level 1.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Fearful Admiration - Quietly signal the other low-born acolytes while returning to line, establishing the first link of the Ashen Acolyte network while the purebloods are in shock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 credits | XP: 75/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Notoriety: 45 (The Anomaly) | Inspiration: No**
@@ -1143,8 +1198,11 @@ You gain **25 XP** for initiating the Ashen Acolyte network.
 > 👤 **Player:**
 > *"accept the quest, and lets assume we get provided clothes if we are commoners so we arent wearing rags, and overseer harkun shouldnt necessarily be against commoners he jsut looks down on us. he woudlnt bother to use spies on us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Lower Academy Dormitories** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 75/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Trance: 2/2 | Void Siphon: 2/3 | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1160,8 +1218,11 @@ You feel the familiar, cold hum in your marrow—the predatory logic that has ke
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Security Tiers - Observe the guard rotations and droid patterns near the ventilation intake first.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Sector 4 Ventilation Intake** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 85/300** &nbsp;|&nbsp; ✨ **Void Trance: 2/2, Void Siphon: 2/3, HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1175,8 +1236,11 @@ Your analytical mind breaks down the loop. Every twelve minutes, the ventilation
 > [!NOTE] ⚙️ **Player Choice:**
 > *Timed Purge Infiltration - Wait for the ventilation purge and dash through the blind spot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 185/300** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1192,8 +1256,11 @@ You gain **100 XP** for your flawless infiltration.
 God Mode:
 similar to how there's swtor lets have a dark council and everyone has the title "darth" aka dark lord of the sith. They're the strongest ones except the emperor. Then using swtor or star wars lore give me all the ranks between the darths and me a lowly acolyte
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 185/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2**
@@ -1217,8 +1284,11 @@ remember to ignore all the lore from zakuul, knights eternal throne etc. The emp
 
 5-7 is too few ranks i think we need more ranks. look through all the star wars lore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 185/300**
@@ -1252,8 +1322,11 @@ sith - knight
 
 So we need one more rank
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 185/300**
@@ -1282,8 +1355,11 @@ lets say an apprentice can be serving a sith or higher, doesnt have to be a mast
 
 and make 12 ranks for the jedi too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 185/300**
@@ -1310,8 +1386,11 @@ Hierarchies updated and expanded. I have adjusted the Sith Apprentice protocols 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of the Sector 4 Logistics Hub with the new hierarchies in place.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 235/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Void Siphon: 2/3, Void Trance: 2/2, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1329,8 +1408,11 @@ You have completed the mission for the Ashen Acolytes. You gain **50 XP** for th
 
 search restricted archives"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 260/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Void Siphon: 2/3, Void Trance: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1344,8 +1426,11 @@ However, your effort is not entirely wasted. While the restricted personnel file
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Liora Talen - Seek out the cast-off cyberneticist (Lvl 1) to see if she can synthesize a hardware bypass key for the restricted sector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 285/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Void Trance: 2/2, Void Siphon: 2/3, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1361,8 +1446,11 @@ As you speak, a heavy tremor ripples through the floor—the distant, low-freque
 > 👤 **Player:**
 > *"THINK:how safely get power cell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 285/300**
@@ -1372,8 +1460,11 @@ Intelligence Check: 14 vs DC 11 — Success. Your methodical mind, sharpened by 
 > 👤 **Player:**
 > *"THINK:when will it come? i wanna gain exp and level up first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 285/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2**
@@ -1383,8 +1474,11 @@ The story continues...
 > 👤 **Player:**
 > *"THINK:You :THINK:: when will it come? i wanna gain exp and level up first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 285/300**
@@ -1394,8 +1488,11 @@ Intelligence Check: 18 vs DC 14 — Success. Your methodical mind synthesizes th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Ancient Crucible - Head to the perimeter of the Tomb of Tulak Hord. Eliminate rogue tomb insects or scavenge minor shards. Use the 'Shorings of the Broken Lord' to deaden your footsteps.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Tomb of Tulak Hord (Perimeter)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade (Lvl 2 available) | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 310/300** &nbsp;|&nbsp; ✨ **Void Trance: 2/2, Spell Slots: L1 2/2, Void Siphon: 2/3, HD: 1/1**
@@ -1409,8 +1506,11 @@ You ghost forward, closing the distance while the creature remains fixated on th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Embrace the Surge (Level Up) - Retreat to a secure alcove to meditate and refine your Sith Blade techniques, unlocking new capabilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Tomb of Tulak Hord (Perimeter)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade (Lvl 2 available) | HP: 11/11 | Gold: 50 | XP: 310/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 (Level 2 pending) | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1 | Exhaustion: 0**
@@ -1428,8 +1528,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Tomb of Tulak Hord (Perimeter)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50gp | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Siphon: 2/3 | Unawakened Spark: 1/1 | Void Trance: 2/2 | Exhaustion: 0**
@@ -1443,8 +1546,11 @@ Looking out toward the Siphon Chasm, you recall Liora's requirement. The Horuset
 > 👤 **Player:**
 > *"ask around and see if i can make a pureblood or noble ally, someone firendly to commers who wants to power up. i can let the mbe the stronger/senior ally for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Lower Academy Cantina** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50cr | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Trance: 2/2 | Void Siphon: 3/3 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Notoriety: 45 (Anomaly)**
@@ -1462,8 +1568,11 @@ A tall man in unpolished, practical black armor steps from a corner booth. He la
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Seat - Sit with Lord Xevran and listen to his proposition, accepting his temporary protection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Lower Academy Cantina** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Void Siphon: 2/3, Unawakened Spark: 1/1, Void Trance: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1489,8 +1598,11 @@ You gain **25 XP** for securing a meeting with a high-ranking potential patron.
 > 👤 **Player:**
 > *"accept the accord but leverage my powers and demonstrate them and ask for data accss and some elite agents/troops for help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Lower Academy Cantina** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 | Notoriety: 50 (Anomaly) | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Siphon: 2/3 | Void Trance: 2/2 | Exhaustion: 0**
@@ -1506,8 +1618,11 @@ He leans back, the frost on his glass shattering as he sets it down. The demonst
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Ashen Network - Meet with Kels to see if the network has updated movement data on the Horuset shipment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Secluded Alcove (Academy Foundations)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50cr | XP: 335/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Void Siphon: 2/3, Void Trance: 2/2, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1523,8 +1638,11 @@ You lean over his shoulder, your analytical mind attempting to thread the needle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stakeout Siphon Chasm - Head to the chasm and use Stealth to identify the real shipment from the decoys as they arrive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Siphon Chasm (Tomb of Tulak Hord)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 360/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1540,8 +1658,11 @@ Your analysis is perfect, but the environment is treacherous. As you shift your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ghost Extraction - Wait for the droid's sensor to cycle away, then use the ventilation blind-spot logic to slip behind the skiff during the docking purge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Siphon Chasm (Tomb of Tulak Hord)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Credits: 50 | XP: 420/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Siphon: 2/3 | Trance: 2/2 | Spark: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1553,6 +1674,8 @@ You move.
 Guided by the predatory logic that has dictated your survival since the foundries, you ghost from cover during the peak of the nitrogen blast. The 'Shorings of the Broken Lord' deaden your impact against the metal docking catwalk, leaving you a silent phantom amidst the roaring chaos. You slide through the gap in the security sensors, utilizing the 30-second blind spot Liora (Lvl 1) predicted, and slip into the maintenance recess beneath Skiff 03. Behind you, the purge subsides, and the sentry droid (Lvl 2) resumes its rigid patrol, its sensor cone passing harmlessly over the void where you stood a heartbeat ago.
 
 You are now crouched in the dark, cramped cargo belly of the Horuset transport. The smell of liquid nitrogen and ancient dust is overwhelming. Above you, the rhythmic throb of the 'ancestral stabilizer' vibrates through the durasteel floorboards, singing a high-frequency song of cryogenic preservation. You have bypassed the perimeter without alerting the scryers, placing you within reach of the variable Lord Xevran (Lvl 10) demands. You gain **60 XP** for this masterful infiltration.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

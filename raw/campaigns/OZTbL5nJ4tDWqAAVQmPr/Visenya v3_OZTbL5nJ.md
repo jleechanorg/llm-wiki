@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (173 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
@@ -54,189 +65,194 @@ The Action: Gerrick takes a hesitant step forward to protect you, but Vermithor�
  * C) The Illusory Echo: Use Minor Illusion to recreate the sound of King Jaehaerys’s old voice (Vermithor's previous rider). In his confusion, you and Gerrick rush the gap. (Risky; relies on Deception).
 What is your command, Dragon Lord?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | The Dragonmont | The Sowing, 129 AC (10:00) | Skill Check / Combat |
-| **03** | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
-| **04** | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
-| **05** | The Dragonmont | The Sowing 1, 129 AC (10:05) | Skill Check / Combat |
-| **06** | The Dragonmont | The Sowing 1, 129 AC (10:10) | Roleplay |
-| **07** | The Dragonmont | The Sowing 1, 129 AC (10:12) | Skill Check / Combat |
-| **08** | The Dragonmont | The Sowing 1, 129 AC (10:14) | Skill Check / Combat |
-| **09** | Above The Dragonmont | The Sowing 1, 129 AC (10:20) | Skill Check / Combat |
-| **10** | Above The Dragonmont | The Sowing 1, 129 DR (10:25) | Skill Check / Combat |
-| **11** | Above The Dragonmont | The Sowing 1, 129 AC (10:25) | Roleplay |
-| **12** | Above The Dragonmont | The Sowing 1, 129 AC (10:25) | Roleplay |
-| **13** | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
-| **14** | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
-| **15** | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
-| **16** | The Dragonmont | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
-| **17** | The Dragonmont Plateau | The Sowing 1, 129 DR (10:30) | Skill Check / Combat |
-| **18** | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
-| **19** | The Dragonmont Plateau | The Sowing 1, 129 AC (10:00) | Skill Check / Combat |
-| **20** | The Dragonmont Plateau | The Sowing 1, 129 AC (10:07) | Skill Check / Combat |
-| **21** | The Dragonmont Plateau | The Sowing 1, 129 AC (10:07) | Roleplay |
-| **22** | Skies above the Dragonmont | The Sowing 1, 129 AC (10:15) | Skill Check / Combat |
-| **23** | Skies above the Dragonmont | The Sowing 1, 129 AC (10:22) | Skill Check / Combat |
-| **24** | Skies above the Dragonmont | The Sowing 1, 129 DR (10:24) | Skill Check / Combat |
-| **25** | Skies above the Dragonmont | The Sowing 1, 129 AC (10:24) | Roleplay |
-| **26** | Unknown | The Sowing 1, 129 DR (10:24) | Roleplay |
-| **27** | The Dragonmont Landing Plateau | The Sowing 1, 129 DR (10:30) | Skill Check / Combat |
-| **28** | The Dragonmont Landing Plateau | The Sowing 1, 129 DR (10:35) | Skill Check / Combat |
-| **29** | The Dragonmont Landing Plateau | The Sowing 1, 129 AC (10:40) | Skill Check / Combat |
-| **30** | The Dragonmont Landing Plateau | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
-| **31** | The Dragonmont Landing Plateau | The Sowing 1, 129 AC (10:50) | Skill Check / Combat |
-| **32** | Unknown | The Sowing 1, 129 DR (10:50) | Roleplay |
-| **33** | The Dragonmont Landing Plateau | The Sowing 1, 129 AC (10:50) | Roleplay |
-| **34** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (11:20) | Skill Check / Combat |
-| **35** | Unknown | The Sowing 1, 129 DR (11:20) | Roleplay |
-| **36** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (11:30) | Skill Check / Combat |
-| **37** | The Dragonmont - Private Courtyard | The Sowing 1, 129 DR (11:45) | Skill Check / Combat |
-| **38** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (11:45) | Roleplay |
-| **39** | The Dragonmont - Private Courtyard | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
-| **40** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:00) | Skill Check / Combat |
-| **41** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Skill Check / Combat |
-| **42** | Unknown | The Sowing 1, 129 DR (12:05) | Roleplay |
-| **43** | Unknown | The Sowing 1, 129 DR (12:05) | Roleplay |
-| **44** | Unknown | The Sowing 1, 129 DR (12:05) | Roleplay |
-| **45** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Roleplay |
-| **46** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Roleplay |
-| **47** | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Skill Check / Combat |
-| **48** | Dragonmont Courtyard | The Sowing 1, 129 AC (12:15) | Skill Check / Combat |
-| **49** | Dragonmont Courtyard | The Sowing 1, 129 DR (12:20) | Skill Check / Combat |
-| **50** | Dragonmont Courtyard | The Sowing 1, 129 AC (15:30) | Skill Check / Combat |
-| **51** | Dragonmont Courtyard | The Sowing 1, 129 AC (15:30) | Roleplay |
-| **52** | The Obsidian Cliffs of Dragonstone | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
-| **53** | Unknown | The Sowing 1, 129 DR (16:15) | Roleplay |
-| **54** | Unknown | The Sowing 1, 129 DR (16:15) | Skill Check / Combat |
-| **55** | Unknown | The Sowing 1, 129 DR (16:15) | Roleplay |
-| **56** | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 AC (16:15) | Roleplay |
-| **57** | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 AC (16:20) | Roleplay |
-| **58** | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 AC (16:15) | Roleplay |
-| **59** | The Obsidian Cliffs of Dragonstone | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
-| **60** | Unknown | The Sowing 1, 129 DR (16:30) | Roleplay |
-| **61** | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 DR (16:40) | Skill Check / Combat |
-| **62** | The Painted Table | The Sowing 2, 129 AC (06:00) | Skill Check / Combat |
-| **63** | The Painted Table | The Sowing 2, 129 AC (06:00) | Roleplay |
-| **64** | The Painted Table to Dragonmont | The Sowing 2, 129 DR (06:10) | Skill Check / Combat |
-| **65** | The Dragonmont | The Sowing 2, 129 AC (06:25) | Skill Check / Combat |
-| **66** | The Chamber of the Painted Table | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
-| **67** | The Dragonmont Forges / The Chamber of the Painted Table | The Sowing 23, 129 DR (09:15) | Skill Check / Combat |
-| **68** | Unknown | The Sowing 23, 129 DR (09:00) | Skill Check / Combat |
-| **69** | The Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Roleplay |
-| **70** | The Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Roleplay |
-| **71** | Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Skill Check / Combat |
-| **72** | Chamber of the Painted Table | The Sowing 23, 129 AC (09:10) | Skill Check / Combat |
-| **73** | Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Skill Check / Combat |
-| **74** | Chamber of the Painted Table | The Sowing 23, 129 AC (09:20) | Skill Check / Combat |
-| **75** | The Skies above the Gullet | The Sowing 23, 129 AC (09:35) | Skill Check / Combat |
-| **76** | The Skies above the Gullet | The Sowing 23, 129 AC (09:45) | Skill Check / Combat |
-| **77** | The Skies above the Gullet | The Sowing 23, 129 AC (09:55) | Skill Check / Combat |
-| **78** | The Skies above the Gullet | The Sowing 23, 129 AC (09:55) | Skill Check / Combat |
-| **79** | The Skies above the Gullet | The Sowing 23, 129 AC (10:00) | Skill Check / Combat |
-| **80** | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:10) | Skill Check / Combat |
-| **81** | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:15) | Skill Check / Combat |
-| **82** | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:15) | Skill Check / Combat |
-| **83** | The Southern Shore of the Gullet | The Sowing 23, 129 DR (10:25) | Skill Check / Combat |
-| **84** | The Southern Shore of the Gullet | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
-| **85** | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:35) | Skill Check / Combat |
-| **86** | Whispering Cliffs | The Sowing 23, 129 AC (11:00) | Skill Check / Combat |
-| **87** | Whispering Cliffs | The Sowing 23, 129 AC (11:00) | Roleplay |
-| **88** | Whispering Cliffs | The Sowing 23, 129 AC (11:00) | Roleplay |
-| **89** | Whispering Cliffs | The Sowing 23, 129 AC (11:05) | Skill Check / Combat |
-| **90** | Sea-Caves | The Sowing 23, 129 AC (11:10) | Skill Check / Combat |
-| **91** | Sea-Caves | The Sowing 23, 129 AC (11:10) | Social Challenge |
-| **92** | Sea-Caves | The Sowing 23, 129 AC (11:15) | Skill Check / Combat |
-| **93** | Sea-Caves | The Sowing 23, 129 AC (11:20) | Skill Check / Combat |
-| **94** | Sea-Caves | The Sowing 23, 129 AC (11:25) | Skill Check / Combat |
-| **95** | Sea-Caves | The Sowing 23, 129 AC (11:25) | Roleplay |
-| **96** | Sea-Caves | The Sowing 23, 129 AC (11:35) | Skill Check / Combat |
-| **97** | Sea-Caves | The Sowing 23, 129 AC (11:35) | Skill Check / Combat |
-| **98** | Whispering Cliffs | The Sowing 23, 129 AC (11:55) | Skill Check / Combat |
-| **99** | Sea-Caves | The Sowing 23, 129 AC (11:55) | Roleplay |
-| **100** | Whispering Cliffs | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
-| **101** | Whispering Cliffs | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
-| **102** | Whispering Cliffs | The Sowing 23, 129 AC (12:05) | Skill Check / Combat |
-| **103** | Whispering Cliffs | The Sowing 23, 129 AC (12:15) | Skill Check / Combat |
-| **104** | The Dragonmont | The Sowing 23, 129 AC (12:55) | Skill Check / Combat |
-| **105** | The Dragonmont | The Sowing 23, 129 AC (12:55) | Roleplay |
-| **106** | Chamber of the Painted Table | The Sowing 23, 129 AC (13:25) | Skill Check / Combat |
-| **107** | Unknown | The Sowing 23, 129 DR (13:25) | Skill Check / Combat |
-| **108** | Unknown | The Sowing 23, 129 DR (13:25) | Skill Check / Combat |
-| **109** | Chamber of the Painted Table | The Sowing 23, 129 AC (14:15) | Skill Check / Combat |
-| **110** | Chamber of the Painted Table | The Sowing 23, 129 AC (14:15) | Skill Check / Combat |
-| **111** | Chamber of the Painted Table | The Sowing 23, 129 AC (14:30) | Skill Check / Combat |
-| **112** | Dragonmont Landing Plateau | The Sowing 23, 129 AC (14:45) | Skill Check / Combat |
-| **113** | The High Watch | The Sowing 23, 129 AC (15:00) | Skill Check / Combat |
-| **114** | The High Watch | The Sowing 23, 129 DR (15:05) | Skill Check / Combat |
-| **115** | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
-| **116** | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
-| **117** | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
-| **118** | Skies above the Gullet | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
-| **119** | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
-| **120** | Skies above the Gullet | The Sowing 23, 129 DR (15:07) | Skill Check / Combat |
-| **121** | Skies above the Gullet | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
-| **122** | Skies above the Gullet | The Sowing 23, 129 DR (15:07) | Skill Check / Combat |
-| **123** | Skies above the Gullet | The Sowing 23, 129 DR (15:08) | Skill Check / Combat |
-| **124** | Skies above the Gullet | The Sowing 23, 129 DR (15:08) | Skill Check / Combat |
-| **125** | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:08) | Skill Check / Combat |
-| **126** | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 DR (15:09) | Skill Check / Combat |
-| **127** | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 DR (15:09) | Skill Check / Combat |
-| **128** | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:09) | Roleplay |
-| **129** | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:10) | Skill Check / Combat |
-| **130** | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:10) | Roleplay |
-| **131** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **132** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **133** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **134** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **135** | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:10) | Roleplay |
-| **136** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **137** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **138** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **139** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **140** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **141** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **142** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **143** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **144** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **145** | Dragonmont | The Sowing 23, 129 AC (02:35) | Roleplay |
-| **146** | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
-| **147** | Dragonmont | The Sowing 23, 129 AC (15:10) | Roleplay |
-| **148** | Chamber of the Painted Table | The Sowing 23, 129 AC (17:30) | Skill Check / Combat |
-| **149** | Chamber of the Painted Table | The Sowing 23, 129 AC (17:40) | Skill Check / Combat |
-| **150** | Chamber of the Painted Table | The Sowing 23, 129 AC (17:50) | Skill Check / Combat |
-| **151** | Chamber of the Painted Table | The Sowing 23, 129 DR (17:55) | Skill Check / Combat |
-| **152** | Stone Drum | The Sowing 23, 129 AC (18:05) | Skill Check / Combat |
-| **153** | Stone Drum | The Sowing 26, 129 AC (18:00) | Skill Check / Combat |
-| **154** | Stone Drum | The Sowing 26, 129 DR (18:30) | Skill Check / Combat |
-| **155** | Stone Drum | The Sowing 26, 129 AC (18:35) | Skill Check / Combat |
-| **156** | Dragonmont Forges / Skies of the Blackwater | The Sowing 30, 129 AC (06:00) | Skill Check / Combat |
-| **157** | Skies above King's Landing | The Sowing 30, 129 AC (06:00) | Skill Check / Combat |
-| **158** | Skies above the Mud Gate | The Sowing 30, 129 AC (06:05) | Skill Check / Combat |
-| **159** | Skies above the Mud Gate | The Sowing 30, 129 AC (06:06) | Skill Check / Combat |
-| **160** | Skies above the Mud Gate | The Sowing 30, 129 AC (06:07) | Skill Check / Combat |
-| **161** | Skies above the Mud Gate | The Sowing 30, 129 DR (06:08) | Skill Check / Combat |
-| **162** | Skies above the Red Keep | The Sowing 30, 129 AC (06:10) | Skill Check / Combat |
-| **163** | Skies above the Red Keep | The Sowing 30, 129 AC (06:11) | Skill Check / Combat |
-| **164** | Skies above the Red Keep | The Sowing 30, 129 AC (06:13) | Skill Check / Combat |
-| **165** | Skies above the Red Keep | The Sowing 30, 129 DR (06:15) | Skill Check / Combat |
-| **166** | Skies above the Red Keep | The Sowing 30, 129 AC (06:15) | Roleplay |
-| **167** | Skies above the Red Keep / Deck of The Sea Snake | The Sowing 30, 129 DR (06:20) | Skill Check / Combat |
-| **168** | Outer Ward | The Sowing 30, 129 DR (06:20) | Skill Check / Combat |
-| **169** | Outer Ward | The Sowing 30, 129 AC (06:21) | Skill Check / Combat |
-| **170** | Outer Ward | The Sowing 30, 129 DR (06:30) | Skill Check / Combat |
-| **171** | Outer Ward | The Sowing 30, 129 DR (06:40) | Skill Check / Combat |
-| **172** | Throne Room Entrance | The Sowing 30, 129 DR (06:45) | Skill Check / Combat |
-| **173** | Throne Room Entrance | The Sowing 30, 129 AC (06:45) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | The Dragonmont | The Sowing, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 03**](#scene-3) | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
+| [**Scene 05**](#scene-5) | The Dragonmont | The Sowing 1, 129 AC (10:05) | Skill Check / Combat |
+| [**Scene 06**](#scene-6) | The Dragonmont | The Sowing 1, 129 AC (10:10) | Roleplay |
+| [**Scene 07**](#scene-7) | The Dragonmont | The Sowing 1, 129 AC (10:12) | Skill Check / Combat |
+| [**Scene 08**](#scene-8) | The Dragonmont | The Sowing 1, 129 AC (10:14) | Skill Check / Combat |
+| [**Scene 09**](#scene-9) | Above The Dragonmont | The Sowing 1, 129 AC (10:20) | Skill Check / Combat |
+| [**Scene 10**](#scene-10) | Above The Dragonmont | The Sowing 1, 129 DR (10:25) | Skill Check / Combat |
+| [**Scene 11**](#scene-11) | Above The Dragonmont | The Sowing 1, 129 AC (10:25) | Roleplay |
+| [**Scene 12**](#scene-12) | Above The Dragonmont | The Sowing 1, 129 AC (10:25) | Roleplay |
+| [**Scene 13**](#scene-13) | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
+| [**Scene 14**](#scene-14) | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
+| [**Scene 15**](#scene-15) | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
+| [**Scene 16**](#scene-16) | The Dragonmont | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | The Dragonmont Plateau | The Sowing 1, 129 DR (10:30) | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | The Dragonmont | The Sowing 1, 129 AC (10:00) | Roleplay |
+| [**Scene 19**](#scene-19) | The Dragonmont Plateau | The Sowing 1, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | The Dragonmont Plateau | The Sowing 1, 129 AC (10:07) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | The Dragonmont Plateau | The Sowing 1, 129 AC (10:07) | Roleplay |
+| [**Scene 22**](#scene-22) | Skies above the Dragonmont | The Sowing 1, 129 AC (10:15) | Skill Check / Combat |
+| [**Scene 23**](#scene-23) | Skies above the Dragonmont | The Sowing 1, 129 AC (10:22) | Skill Check / Combat |
+| [**Scene 24**](#scene-24) | Skies above the Dragonmont | The Sowing 1, 129 DR (10:24) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | Skies above the Dragonmont | The Sowing 1, 129 AC (10:24) | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown | The Sowing 1, 129 DR (10:24) | Roleplay |
+| [**Scene 27**](#scene-27) | The Dragonmont Landing Plateau | The Sowing 1, 129 DR (10:30) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | The Dragonmont Landing Plateau | The Sowing 1, 129 DR (10:35) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | The Dragonmont Landing Plateau | The Sowing 1, 129 AC (10:40) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | The Dragonmont Landing Plateau | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | The Dragonmont Landing Plateau | The Sowing 1, 129 AC (10:50) | Skill Check / Combat |
+| [**Scene 32**](#scene-32) | Unknown | The Sowing 1, 129 DR (10:50) | Roleplay |
+| [**Scene 33**](#scene-33) | The Dragonmont Landing Plateau | The Sowing 1, 129 AC (10:50) | Roleplay |
+| [**Scene 34**](#scene-34) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (11:20) | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | Unknown | The Sowing 1, 129 DR (11:20) | Roleplay |
+| [**Scene 36**](#scene-36) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (11:30) | Skill Check / Combat |
+| [**Scene 37**](#scene-37) | The Dragonmont - Private Courtyard | The Sowing 1, 129 DR (11:45) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (11:45) | Roleplay |
+| [**Scene 39**](#scene-39) | The Dragonmont - Private Courtyard | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:00) | Skill Check / Combat |
+| [**Scene 41**](#scene-41) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Skill Check / Combat |
+| [**Scene 42**](#scene-42) | Unknown | The Sowing 1, 129 DR (12:05) | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown | The Sowing 1, 129 DR (12:05) | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown | The Sowing 1, 129 DR (12:05) | Roleplay |
+| [**Scene 45**](#scene-45) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Roleplay |
+| [**Scene 46**](#scene-46) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Roleplay |
+| [**Scene 47**](#scene-47) | The Dragonmont - Private Courtyard | The Sowing 1, 129 AC (12:05) | Skill Check / Combat |
+| [**Scene 48**](#scene-48) | Dragonmont Courtyard | The Sowing 1, 129 AC (12:15) | Skill Check / Combat |
+| [**Scene 49**](#scene-49) | Dragonmont Courtyard | The Sowing 1, 129 DR (12:20) | Skill Check / Combat |
+| [**Scene 50**](#scene-50) | Dragonmont Courtyard | The Sowing 1, 129 AC (15:30) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | Dragonmont Courtyard | The Sowing 1, 129 AC (15:30) | Roleplay |
+| [**Scene 52**](#scene-52) | The Obsidian Cliffs of Dragonstone | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
+| [**Scene 53**](#scene-53) | Unknown | The Sowing 1, 129 DR (16:15) | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown | The Sowing 1, 129 DR (16:15) | Skill Check / Combat |
+| [**Scene 55**](#scene-55) | Unknown | The Sowing 1, 129 DR (16:15) | Roleplay |
+| [**Scene 56**](#scene-56) | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 AC (16:15) | Roleplay |
+| [**Scene 57**](#scene-57) | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 AC (16:20) | Roleplay |
+| [**Scene 58**](#scene-58) | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 AC (16:15) | Roleplay |
+| [**Scene 59**](#scene-59) | The Obsidian Cliffs of Dragonstone | The Sowing, 129 AC (Day 1) | Skill Check / Combat |
+| [**Scene 60**](#scene-60) | Unknown | The Sowing 1, 129 DR (16:30) | Roleplay |
+| [**Scene 61**](#scene-61) | The Obsidian Cliffs of Dragonstone | The Sowing 1, 129 DR (16:40) | Skill Check / Combat |
+| [**Scene 62**](#scene-62) | The Painted Table | The Sowing 2, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 63**](#scene-63) | The Painted Table | The Sowing 2, 129 AC (06:00) | Roleplay |
+| [**Scene 64**](#scene-64) | The Painted Table to Dragonmont | The Sowing 2, 129 DR (06:10) | Skill Check / Combat |
+| [**Scene 65**](#scene-65) | The Dragonmont | The Sowing 2, 129 AC (06:25) | Skill Check / Combat |
+| [**Scene 66**](#scene-66) | The Chamber of the Painted Table | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
+| [**Scene 67**](#scene-67) | The Dragonmont Forges / The Chamber of the Painted Table | The Sowing 23, 129 DR (09:15) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | Unknown | The Sowing 23, 129 DR (09:00) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | The Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Roleplay |
+| [**Scene 70**](#scene-70) | The Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Roleplay |
+| [**Scene 71**](#scene-71) | Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | Chamber of the Painted Table | The Sowing 23, 129 AC (09:10) | Skill Check / Combat |
+| [**Scene 73**](#scene-73) | Chamber of the Painted Table | The Sowing 23, 129 AC (09:15) | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | Chamber of the Painted Table | The Sowing 23, 129 AC (09:20) | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | The Skies above the Gullet | The Sowing 23, 129 AC (09:35) | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | The Skies above the Gullet | The Sowing 23, 129 AC (09:45) | Skill Check / Combat |
+| [**Scene 77**](#scene-77) | The Skies above the Gullet | The Sowing 23, 129 AC (09:55) | Skill Check / Combat |
+| [**Scene 78**](#scene-78) | The Skies above the Gullet | The Sowing 23, 129 AC (09:55) | Skill Check / Combat |
+| [**Scene 79**](#scene-79) | The Skies above the Gullet | The Sowing 23, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 80**](#scene-80) | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:10) | Skill Check / Combat |
+| [**Scene 81**](#scene-81) | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:15) | Skill Check / Combat |
+| [**Scene 82**](#scene-82) | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:15) | Skill Check / Combat |
+| [**Scene 83**](#scene-83) | The Southern Shore of the Gullet | The Sowing 23, 129 DR (10:25) | Skill Check / Combat |
+| [**Scene 84**](#scene-84) | The Southern Shore of the Gullet | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
+| [**Scene 85**](#scene-85) | The Southern Shore of the Gullet | The Sowing 23, 129 AC (10:35) | Skill Check / Combat |
+| [**Scene 86**](#scene-86) | Whispering Cliffs | The Sowing 23, 129 AC (11:00) | Skill Check / Combat |
+| [**Scene 87**](#scene-87) | Whispering Cliffs | The Sowing 23, 129 AC (11:00) | Roleplay |
+| [**Scene 88**](#scene-88) | Whispering Cliffs | The Sowing 23, 129 AC (11:00) | Roleplay |
+| [**Scene 89**](#scene-89) | Whispering Cliffs | The Sowing 23, 129 AC (11:05) | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Sea-Caves | The Sowing 23, 129 AC (11:10) | Skill Check / Combat |
+| [**Scene 91**](#scene-91) | Sea-Caves | The Sowing 23, 129 AC (11:10) | Social Challenge |
+| [**Scene 92**](#scene-92) | Sea-Caves | The Sowing 23, 129 AC (11:15) | Skill Check / Combat |
+| [**Scene 93**](#scene-93) | Sea-Caves | The Sowing 23, 129 AC (11:20) | Skill Check / Combat |
+| [**Scene 94**](#scene-94) | Sea-Caves | The Sowing 23, 129 AC (11:25) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Sea-Caves | The Sowing 23, 129 AC (11:25) | Roleplay |
+| [**Scene 96**](#scene-96) | Sea-Caves | The Sowing 23, 129 AC (11:35) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Sea-Caves | The Sowing 23, 129 AC (11:35) | Skill Check / Combat |
+| [**Scene 98**](#scene-98) | Whispering Cliffs | The Sowing 23, 129 AC (11:55) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Sea-Caves | The Sowing 23, 129 AC (11:55) | Roleplay |
+| [**Scene 100**](#scene-100) | Whispering Cliffs | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Whispering Cliffs | The Sowing, 129 AC (Day 23) | Skill Check / Combat |
+| [**Scene 102**](#scene-102) | Whispering Cliffs | The Sowing 23, 129 AC (12:05) | Skill Check / Combat |
+| [**Scene 103**](#scene-103) | Whispering Cliffs | The Sowing 23, 129 AC (12:15) | Skill Check / Combat |
+| [**Scene 104**](#scene-104) | The Dragonmont | The Sowing 23, 129 AC (12:55) | Skill Check / Combat |
+| [**Scene 105**](#scene-105) | The Dragonmont | The Sowing 23, 129 AC (12:55) | Roleplay |
+| [**Scene 106**](#scene-106) | Chamber of the Painted Table | The Sowing 23, 129 AC (13:25) | Skill Check / Combat |
+| [**Scene 107**](#scene-107) | Unknown | The Sowing 23, 129 DR (13:25) | Skill Check / Combat |
+| [**Scene 108**](#scene-108) | Unknown | The Sowing 23, 129 DR (13:25) | Skill Check / Combat |
+| [**Scene 109**](#scene-109) | Chamber of the Painted Table | The Sowing 23, 129 AC (14:15) | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Chamber of the Painted Table | The Sowing 23, 129 AC (14:15) | Skill Check / Combat |
+| [**Scene 111**](#scene-111) | Chamber of the Painted Table | The Sowing 23, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 112**](#scene-112) | Dragonmont Landing Plateau | The Sowing 23, 129 AC (14:45) | Skill Check / Combat |
+| [**Scene 113**](#scene-113) | The High Watch | The Sowing 23, 129 AC (15:00) | Skill Check / Combat |
+| [**Scene 114**](#scene-114) | The High Watch | The Sowing 23, 129 DR (15:05) | Skill Check / Combat |
+| [**Scene 115**](#scene-115) | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
+| [**Scene 117**](#scene-117) | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | Skies above the Gullet | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | High Watch | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
+| [**Scene 120**](#scene-120) | Skies above the Gullet | The Sowing 23, 129 DR (15:07) | Skill Check / Combat |
+| [**Scene 121**](#scene-121) | Skies above the Gullet | The Sowing 23, 129 AC (15:07) | Skill Check / Combat |
+| [**Scene 122**](#scene-122) | Skies above the Gullet | The Sowing 23, 129 DR (15:07) | Skill Check / Combat |
+| [**Scene 123**](#scene-123) | Skies above the Gullet | The Sowing 23, 129 DR (15:08) | Skill Check / Combat |
+| [**Scene 124**](#scene-124) | Skies above the Gullet | The Sowing 23, 129 DR (15:08) | Skill Check / Combat |
+| [**Scene 125**](#scene-125) | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:08) | Skill Check / Combat |
+| [**Scene 126**](#scene-126) | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 DR (15:09) | Skill Check / Combat |
+| [**Scene 127**](#scene-127) | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 DR (15:09) | Skill Check / Combat |
+| [**Scene 128**](#scene-128) | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:09) | Roleplay |
+| [**Scene 129**](#scene-129) | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:10) | Skill Check / Combat |
+| [**Scene 130**](#scene-130) | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:10) | Roleplay |
+| [**Scene 131**](#scene-131) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 132**](#scene-132) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 133**](#scene-133) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 135**](#scene-135) | Skies above the Gullet (Sea Surface) | The Sowing 23, 129 AC (15:10) | Roleplay |
+| [**Scene 136**](#scene-136) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 137**](#scene-137) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 138**](#scene-138) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 139**](#scene-139) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 140**](#scene-140) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 141**](#scene-141) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 142**](#scene-142) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 143**](#scene-143) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 144**](#scene-144) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 145**](#scene-145) | Dragonmont | The Sowing 23, 129 AC (02:35) | Roleplay |
+| [**Scene 146**](#scene-146) | Unknown | The Sowing 23, 129 DR (15:10) | Skill Check / Combat |
+| [**Scene 147**](#scene-147) | Dragonmont | The Sowing 23, 129 AC (15:10) | Roleplay |
+| [**Scene 148**](#scene-148) | Chamber of the Painted Table | The Sowing 23, 129 AC (17:30) | Skill Check / Combat |
+| [**Scene 149**](#scene-149) | Chamber of the Painted Table | The Sowing 23, 129 AC (17:40) | Skill Check / Combat |
+| [**Scene 150**](#scene-150) | Chamber of the Painted Table | The Sowing 23, 129 AC (17:50) | Skill Check / Combat |
+| [**Scene 151**](#scene-151) | Chamber of the Painted Table | The Sowing 23, 129 DR (17:55) | Skill Check / Combat |
+| [**Scene 152**](#scene-152) | Stone Drum | The Sowing 23, 129 AC (18:05) | Skill Check / Combat |
+| [**Scene 153**](#scene-153) | Stone Drum | The Sowing 26, 129 AC (18:00) | Skill Check / Combat |
+| [**Scene 154**](#scene-154) | Stone Drum | The Sowing 26, 129 DR (18:30) | Skill Check / Combat |
+| [**Scene 155**](#scene-155) | Stone Drum | The Sowing 26, 129 AC (18:35) | Skill Check / Combat |
+| [**Scene 156**](#scene-156) | Dragonmont Forges / Skies of the Blackwater | The Sowing 30, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 157**](#scene-157) | Skies above King's Landing | The Sowing 30, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 158**](#scene-158) | Skies above the Mud Gate | The Sowing 30, 129 AC (06:05) | Skill Check / Combat |
+| [**Scene 159**](#scene-159) | Skies above the Mud Gate | The Sowing 30, 129 AC (06:06) | Skill Check / Combat |
+| [**Scene 160**](#scene-160) | Skies above the Mud Gate | The Sowing 30, 129 AC (06:07) | Skill Check / Combat |
+| [**Scene 161**](#scene-161) | Skies above the Mud Gate | The Sowing 30, 129 DR (06:08) | Skill Check / Combat |
+| [**Scene 162**](#scene-162) | Skies above the Red Keep | The Sowing 30, 129 AC (06:10) | Skill Check / Combat |
+| [**Scene 163**](#scene-163) | Skies above the Red Keep | The Sowing 30, 129 AC (06:11) | Skill Check / Combat |
+| [**Scene 164**](#scene-164) | Skies above the Red Keep | The Sowing 30, 129 AC (06:13) | Skill Check / Combat |
+| [**Scene 165**](#scene-165) | Skies above the Red Keep | The Sowing 30, 129 DR (06:15) | Skill Check / Combat |
+| [**Scene 166**](#scene-166) | Skies above the Red Keep | The Sowing 30, 129 AC (06:15) | Roleplay |
+| [**Scene 167**](#scene-167) | Skies above the Red Keep / Deck of The Sea Snake | The Sowing 30, 129 DR (06:20) | Skill Check / Combat |
+| [**Scene 168**](#scene-168) | Outer Ward | The Sowing 30, 129 DR (06:20) | Skill Check / Combat |
+| [**Scene 169**](#scene-169) | Outer Ward | The Sowing 30, 129 AC (06:21) | Skill Check / Combat |
+| [**Scene 170**](#scene-170) | Outer Ward | The Sowing 30, 129 DR (06:30) | Skill Check / Combat |
+| [**Scene 171**](#scene-171) | Outer Ward | The Sowing 30, 129 DR (06:40) | Skill Check / Combat |
+| [**Scene 172**](#scene-172) | Throne Room Entrance | The Sowing 30, 129 DR (06:45) | Skill Check / Combat |
+| [**Scene 173**](#scene-173) | Throne Room Entrance | The Sowing 30, 129 AC (06:45) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord (Sorcerer) | HP: 8/8** &nbsp;|&nbsp; ✨ **None**
@@ -265,8 +281,11 @@ How would you like to proceed, My Lady?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Edit Character - Modify your attributes, spells, or background details.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0, Ascension: 0/100**
@@ -278,8 +297,11 @@ The sulfurous air of the Dragonmont tastes of ancient ash and impending fire. Yo
 > 👤 **Player:**
 > *"Give me even number stays and 18 cha 16 dex 14 con spresd out the ready"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0, Ascension: 0/100**
@@ -289,8 +311,11 @@ The magic in your blood shifts, aligning with the lethal grace of your ancestors
 > 👤 **Player:**
 > *"Design my class show me what I get level 1 to 30"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Sorcery Points: 0/0 | Ascension: 0/100** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -302,8 +327,11 @@ As you stand before the glowing maw of Vermithor, the weight of your destiny fee
 > 👤 **Player:**
 > *"Start campaign command dragon to let me ride it but try to be subtlez also I am 16 years old"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Ascension: 2/100** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0 | Ascension: 2/100**
@@ -325,8 +353,11 @@ You stepped closer, your hand trembling not with fear, but with the sheer effort
 > [!NOTE] ⚙️ **Player Choice:**
 > *Play the Lucky Peasant - Appear shocked by your own luck. Call Gerrick over to help you, keeping the &#x27;Silver&#x27; persona intact for Rhaenyra.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/2, Sorcery Points: 0/0, Ascension: 2/100** &nbsp;|&nbsp; ⚠️ **Subtle Aura (Low) | Exhaustion: 0 | Inspiration: No**
@@ -342,8 +373,11 @@ From the ridge, Queen Rhaenyra (Lvl 15) leans so far forward that Ser Erryk (Lvl
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hesitant Touch - Delay the mounting. Spend a moment &#x27;comforting&#x27; the dragon as if you&#x27;re a beast-whisperer rather than a sorcerous queen. High RP value.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:12)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -363,8 +397,11 @@ High above, Rhaenyra Targaryen (Lvl 15) watches with an intensity that feels lik
 > 👤 **Player:**
 > *"Narrate Rhaenyra internal thoughts. She thinks I'm a Targaryen bastard and is very inpressed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:14)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0** &nbsp;|&nbsp; ⚠️ **Silver Persona | Ascension: 2/100**
@@ -384,8 +421,11 @@ On the ridge, Rhaenyra turns to Ser Erryk (Lvl 12). "Find out who she is," she w
 > [!NOTE] ⚙️ **Player Choice:**
 > *The First Ascent - Lean forward and whisper &#x27;Sōvegon&#x27; (Fly). A short flight around the Dragonmont will seal your status as a rider, even if it looks like the dragon &#x27;carried&#x27; you away.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Above The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0 | Exhaustion: 0**
@@ -402,8 +442,11 @@ But the flight is far from graceful. Without a saddle or the strength to truly g
 > 👤 **Player:**
 > *"Walk off normally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Above The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0 | Exhaustion: 0**
@@ -421,8 +464,11 @@ You cling to Gerrick's soot-stained tunic, your breath coming in ragged, feigned
 God Mode:
 lets brainstorm some story changes. i want visenya to be a minor bastard cousin and people think I'm a bastard targaryen but they don't realize i am a great bastard ie. targaryen and baelrys. everyone in the dance dragons book/show know me from the royal family but have a low opinion of me since t hey think i'm a flirt and a drunk and a loose woman. they like me but dont respect me. lets also assume i dont realize i am a baelrys. i am the lowest statsu targaryen because i am a bastard but people are somehwat fond of me. dont strat the story yet brainstorm some interesting arcs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Above The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -447,8 +493,11 @@ Understood. We are freezing the narrative to adjust the campaign architecture. B
 God Mode:
 lets assume i stil have my apex looks and stand a tier above but i dont usually dress well and i am often drunk, so lets have people gradually notice. I also am not consciously hiding something anymore and have low self esteem until level 6
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Above The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 10gp**
@@ -466,8 +515,11 @@ lets assume my grooming is fine and i dont have soot, but i can only afford mid 
 
 Lets restart the scene. Due to my low status i never had the chance to claim a dragon. My family is unsure and kind of worried i'll get killed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunk, Low Self-Esteem**
@@ -483,8 +535,11 @@ Campaign state successfully refactored for the 'Disreputable Bastard' reset.
 God Mode:
 make sure every main chracter in hte show does know me and has some type of positive or negative relaitonship and opinion of me. then lets restart the campaign when i am trying to claim a dragon with all the commoners and other targaryen bastards etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 8/8 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem**
@@ -508,8 +563,11 @@ Campaign environment successfully restructured for the 'Disreputable Bastard' re
 God Mode:
 lets assuem my family is fond of me and is genuinely worried i will die, but wont stop me because tehy are desperate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 10gp**
@@ -525,8 +583,11 @@ Campaign directives and family dynamics successfully updated.
 > 👤 **Player:**
 > *"start the scene, I'm drunk, but i say i wanna claim a dragon. narrate everyones reactions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0** &nbsp;|&nbsp; ⚠️ **Drunk (Advantage vs Frightened) | Low Self-Esteem**
@@ -549,8 +610,11 @@ You ignore them all, stumbling forward into the heat. You don't feel like a quee
 > 👤 **Player:**
 > *"drunken persona is not a deception, i really am a drunk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Dragonmont Plateau, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0** &nbsp;|&nbsp; ⚠️ **Drunk | Exhaustion: 0 | Inspiration: No**
@@ -568,8 +632,11 @@ Daemon (Lvl 18) stands behind her, his Dark Sister's pommel glinting in the pale
 God Mode:
 wait dont do that, restart the scene. i am genuinely drunk, no reception, and its before i do anything
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -585,8 +652,11 @@ Campaign state successfully rewound to the start of the Sowing. The previous fli
 > 👤 **Player:**
 > *"lets have the whole family of rhaenrya here. i ask if i can try and rhaenrya says no, and her sons try to get me to change my mind. finally rhaeyra relents because she is desperate but feels guilty since seh thinks i will die"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Dragonmont Plateau, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0**
@@ -619,8 +689,11 @@ But as you approach the Bronze Fury, a strange, silent resonance begins to thrum
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Calm (Animal Handling) - Use your innate connection to dragons to keep him peaceful as you approach, making it look like you&#x27;re just &#x27;talking&#x27; to him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Dragonmont Plateau, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0**
@@ -642,8 +715,11 @@ Rhaenyra (Lvl 15) watches, her hand pressed to her mouth in a silent prayer. Dae
 God Mode:
 remember my drunkeness is real, not a persona, this won't be a deception campaig nit will be an awakening one where i realize im stronger than i expect and more than just a drunk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Dragonmont Plateau, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience (Active), Low Self-Esteem (Active) | Exhaustion: 0 | Inspiration: No**
@@ -659,8 +735,11 @@ Directive confirmed and state-level constraints updated. Your character's strugg
 God Mode:
 climb on the dragon and fly him around. narrate in detail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Skies above the Dragonmont** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication, Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -681,8 +760,11 @@ High above the Dragonmont, the cold air hits you like a slap. You are not 'ridin
 > 👤 **Player:**
 > *"ask teh dragon to slow down. lets assume its an easy DC because the dragon recognizes my apex baelyrs heritage even if i dont. lets make the dragon easy DC to listen to me for this one and all others."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Skies above the Dragonmont** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:22)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Sorcery Points: 0/0 | Exhaustion: 0**
@@ -700,8 +782,11 @@ Vermithor (Lvl 20) lets out a rumble that you feel in your very teeth—a sound 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Raise the Flask - Take a victory swig and wave to the Queen from a thousand feet up, leaning into the &#x27;Lucky Drunk&#x27; persona.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Skies above the Dragonmont** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (10:24)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Sorcery Points: 0/0 | Exhaustion: 0**
@@ -720,8 +805,11 @@ Vermithor emits a low, vibrating rumble—a sound that could be a purr or a warn
 God Mode:
 lets make all dragons have apex instinct and respect me. like even if a king was drunk a peasant would respect and listen to them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Skies above the Dragonmont** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:24)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Drunkenness (Genuine), Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -731,8 +819,11 @@ Administrative directive applied: All dragons now possess a primal 'Apex Instinc
 God Mode:
 remove the silver nickname, i am just visenya
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (10:24)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord (Sorcerer) | HP: 8/8** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -742,8 +833,11 @@ Administrative update complete. The nickname 'Silver' has been removed from all 
 > 👤 **Player:**
 > *"land gracefully and narrate how the dragon treats me very wlel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Dragonmont Landing Plateau** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | SP: 0/0 | Exhaustion: 0**
@@ -762,8 +856,11 @@ Vermithor lets out a low, protective rumble, his massive head swinging around to
 > 👤 **Player:**
 > *"drunken whisperer but narrate evereyones internal thoughts and reaction in more detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Dragonmont Landing Plateau** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 250/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | SP: 0/0 | Exhaustion: 0**
@@ -788,8 +885,11 @@ You hiccup again, the sound echoing in the silence of the stunned Dragonkeepers.
 > 👤 **Player:**
 > *"narrate everyones external dialog, rhaenrya shold be overjoyed but worried because another dragon rider is a huge benefit to her faction but she knows she need tro train me to be more reliable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Dragonmont Landing Plateau** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 250/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication, Low Self-Esteem | Exhaustion: 0**
@@ -811,8 +911,11 @@ You simply hiccup, the sound echoing embarrassingly in the sudden silence of the
 > 👤 **Player:**
 > *"accept training and say i'll genuinely cut back on training. rhanerya should be overjoyed. narrate her dialog in detail externally and then narrate internal thoughts. she remembers that I've always been loyal to her, even tough she didnt always ttreat me well. She also remembers as soon as I heard about the red vs green split i sided with her, so I am truly loyal, just maybe not fully capable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Dragonmont Landing Plateau** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Visenya Belaerys (Lvl 1) | HP: 8/8 | XP: 250/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Intoxicated (Genuine), Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -832,8 +935,11 @@ Daemon (Lvl 18) remains in the background, his eyes narrowing as he watches the 
 > 👤 **Player:**
 > *"aask for sobering draught. queen is happy and assigns her sons to train me. she is worried but  also hopefully. she also externally tells me she truly appreciates my loyalty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Dragonmont Landing Plateau** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 250/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, SP: 0/0, Exhaustion: 0**
@@ -853,8 +959,11 @@ Jacaerys nods solemnly, his face alight with pride, while Lucerys beams, already
 God Mode:
 leets define an expectations meter. whenever i fail publically it lowers and if i succeed publically it raises. at 90 no one will thik i'm a drunk anymore but under 50 people will be resistant to listening to me and think i'm a drunk or liability. start me at 25, i got +25 for claiming the dragon and started at 0 but now am at 25
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord (Sorcerer) | HP: 8/8** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -864,8 +973,11 @@ Invalid JSON response received. Please try again.
 God Mode:
 leets define an expectations meter. whenever i fail publically it lowers and if i succeed publically it raises. at 90 no one will thik i'm a drunk anymore but under 50 people will be resistant to listening to me and think i'm a drunk or liability. start me at 25, i got +25 for claiming the dragon and started at 0 but now am at 25
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Dragonmont Landing Plateau** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Lord | HP: 8/8 | XP: 250/300 | Expectations: 25/100**
@@ -881,8 +993,11 @@ Administrative Change Successful: 'Expectations Meter' system initialized.
 > 👤 **Player:**
 > *"narrate a private moment where her sons are training me. lets assume they have a good relationship with me. even if they dont respect me they're very fond of me. in the past I've always defended them right away if someone called them a bastard, and it shows genuine humilty because I am an actual bastard, yet defend their honor. they are fully loyal to me, even if they dont respect my capabilies, but they are hopefu;"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 14/14 | XP: 400/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, SP: 0/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication, Low Self-Esteem | Exhaustion: 0 | Expectations: 30/100**
@@ -912,8 +1027,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Apply level 2 Dragon Lord (Sorcerer) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11** &nbsp;|&nbsp; ✨ **Spells: L1 3/3**
@@ -935,8 +1053,11 @@ Your current standing within Rhaenyra's host is stabilizing. You command a basel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss Dragon Tactics with Jace - Listen to Jace&#x27;s experience with Vermax to understand how to guide Vermithor&#x27;s massive bulk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, SP: 2/2, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Intoxicated | Exhaustion: 0 | Inspiration: No**
@@ -958,8 +1079,11 @@ High above, a bronze shadow passes over the courtyard, the sun momentarily eclip
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate the Mounting Grip - Show the boys you&#x27;ve understood the weight distribution Jace described by practicing on the training rig.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, SP: 2/2, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication | Exhaustion: 0 | Inspiration: No**
@@ -983,8 +1107,11 @@ High above, Vermithor (Lvl 20) lets out a long, echoing roar of approval that sh
 God Mode:
 give me proficiency in cha skills and expertise in all dragon related skills. I am a dragon prodigy
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication | Exhaustion: 0 | Inspiration: No**
@@ -1001,8 +1128,11 @@ Your current power is confirmed at 15,827 FP. You are currently Rank #186, sitti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Share a Moment of Vulnerability - Thank the boys for their help and confess how much their faith means to you, deepening the relationship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, SP: 2/2, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication (Clearing), Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -1027,8 +1157,11 @@ Beneath the sincerity of their words, your mind still struggles. You see their l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Advanced Harness Drills - Push your physical limits while your mind is clear, practicing high-speed maneuvers on the training rig.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, SP: 2/2** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication | Exhaustion: 0**
@@ -1048,8 +1181,11 @@ You look at your scraped palms, the sting of the stone matching the familiar, ho
 > 👤 **Player:**
 > *"reroll lets use my dragon expertise and cha for all dragon related things, including this traiing 1d20+3 = 6 vs DC 14 - Failure (Advanced Harness Drills (DEX))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication, Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -1069,8 +1205,11 @@ He’s lying to be kind. You can see it in the way the Dragonkeepers exchange am
 God Mode:
 i should have no faction power i only have a dragon and are you using code execution for the dice?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11** &nbsp;|&nbsp; ✨ **Spells: L1 3/3**
@@ -1091,8 +1230,11 @@ I confirm that **code_execution is mandatory for all dice rolls**. I do not esti
 God Mode:
 why do i hae dragonkeeprs and 800 soliders? i only hve a dragon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11** &nbsp;|&nbsp; ✨ **Spells: L1 3/3**
@@ -1119,8 +1261,11 @@ I confirm that all dice results are generated via **Python code_execution**. The
 God Mode:
 wait anyone who claims the dragon geets this? is that accurae in the book and tv show?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11** &nbsp;|&nbsp; ✨ **Spells: L1 3/3**
@@ -1141,8 +1286,11 @@ If you want to stick closer to the 'Disreputable Bastard' theme where you have *
 God Mode:
 totally wrong, i have zero command authoriy and where in system instructions does it say tactical umbrella? it should onyl be about whwat military assets i truly control. disbale faction management
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11 | XP: 450/900 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication, Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -1159,8 +1307,11 @@ Note: The backend results provided for the previous calculation have been acknow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the courtyard where Visenya is currently recovering from her clumsy fall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sorcery Points: 2/2** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication, Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -1176,8 +1327,11 @@ You feel the familiar, hollow ache of the 'Black Sheep' in your chest. You look 
 > 👤 **Player:**
 > *"THINK:how can i do it properly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Dragonmont - Private Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 450/900 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication**
@@ -1189,8 +1343,11 @@ You remain in the ash for a heartbeat longer than necessary, the gritty obsidian
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mimic Drunken Fluidity - Utilize your body&#x27;s natural reactive grace. Stop &#x27;steering&#x27; and start &#x27;flowing&#x27; with the rig&#x27;s simulated movements.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Dragonmont Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sorcery Points: 2/2** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Intoxicated | Exhaustion: 0**
@@ -1210,8 +1367,11 @@ From the edge of the courtyard, the Dragonkeepers whisper. Their words are muffl
 > [!NOTE] ⚙️ **Player Choice:**
 > *One Last Try (High Risk) - Demand the boys let you try again immediately. Use your Sorcery Points to fuel a &#x27;Subtle&#x27; physical enhancement to ensure you don&#x27;t fall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Dragonmont Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11 | XP: 700/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sorcery Points: 1/2** &nbsp;|&nbsp; ⚠️ **Low Self-Esteem (Disadv. on Self-Worth), Genuine Intoxication (Recovering) | Exhaustion: 0 | Inspiration: No**
@@ -1231,8 +1391,11 @@ High above, Vermithor (Lvl 20) lets out a roar that sounds like a peal of laught
 > 👤 **Player:**
 > *"lets timeskip for a few hours and assume i do well with the drills. the boys are impressed and start realizing i am a prodigy and internally they think without jealousy i am making faster progress than they did. also tell me how old they are again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Dragonmont Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11 | XP: 850/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sorcery Points: 1/2** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication (Receding), Low Self-Esteem | Sorcery Points: 1/2 | Inspiration: No**
@@ -1257,8 +1420,11 @@ You gain **150 XP** for the successful mastery of the harness drills!
 God Mode:
 is thsi the right modifier for exterpise dragon training and cha based roll? 1d20+8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Dragonmont Courtyard** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 850/900 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication | Expectations: 36/100**
@@ -1276,8 +1442,11 @@ Regarding the Faction Power: As requested, your command authority has been strip
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest at the Cliffs - Take a moment of quiet with the boys to look over the sea. A chance for deep RP and bonding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Obsidian Cliffs of Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord | HP: 11/11 | XP: 1000/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Sorcery Points: 1/2, Spells: L1 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Tired, Clear-headed | Exhaustion: 0 | Inspiration: No**
@@ -1309,8 +1478,11 @@ Jace (Lvl 15) places a hand on his brother's shoulder, but his eyes remain fixed
 
 also are you double rewarding exp?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11** &nbsp;|&nbsp; ✨ **Spells: L1 3/3**
@@ -1342,8 +1514,11 @@ Per your directive to disable command authority, your FP is confirmed at **0**. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the cliffs with the corrected levels and status.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Lord (Sorcerer) | HP: 11/11** &nbsp;|&nbsp; ✨ **Spells: L1 3/3**
@@ -1371,8 +1546,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Level 3 Now - Increase Visenya&#x27;s level to 3, gaining new Sorcerer features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord (Sorcerer) | HP: 19/19** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -1400,8 +1578,11 @@ If you continue adventuring, you remain Level 3 and defer these benefits until y
 God Mode:
 give me twin spell and careful spell and assume i already have subtle spell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **The Obsidian Cliffs of Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1000/2700 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Low Self-Esteem, Intoxicated | Expectations: 36/100**
@@ -1411,8 +1592,11 @@ Metamagic features updated. Added Twinned Spell and Careful Spell to your active
 God Mode:
 for spells give me hold person
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **The Obsidian Cliffs of Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1000/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication**
@@ -1426,8 +1610,11 @@ Administrative Change Successful: Spell list updated. Visenya has learned **Hold
 God Mode:
 remove shatter
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **The Obsidian Cliffs of Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1000/900 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication**
@@ -1437,8 +1624,11 @@ Administrative removal of the spell 'Shatter' is confirmed. Your spellbook has b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the cliffs where you are discussing Vhagar with Jace and Luke.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **The Obsidian Cliffs of Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord (Sorcerer) | HP: 19/19 | XP: 1000/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Sorcery Points: 3/3, Spells: L1 4/4, L2 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication | Exhaustion: 0 | Inspiration: No**
@@ -1460,8 +1650,11 @@ stop talking about factions until i turn the mode back on You are UNRANKED, poss
 
 Then lets analyze the threat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord (Sorcerer) | HP: 19/19** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -1483,8 +1676,11 @@ Administrative directives finalized. Faction status reporting and military asset
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Threat - Use Dragon Expertise (+8) to ask Jace for specific tactical details on Vhagar&#x27;s size and blind spots.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **The Obsidian Cliffs of Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 1, 129 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1150/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Sorcery Points: 3/3, Spells: L1 4/4, L2 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication, Low Self-Esteem, Drunken Resilience**
@@ -1508,8 +1704,11 @@ You gain **150 XP** for your masterful tactical analysis!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Rest, Plan Dawn Flight (Synergistic) - Order the boys to get some sleep while you spend the evening studying the old maps of the Gullet to find the best clouds for an ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **The Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 2, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1300/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Sorcery Points: 2/3, Spells: L1 4/4, L2 2/2, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1), Genuine Intoxication | Exhaustion: 1 | Inspiration: No**
@@ -1535,8 +1734,11 @@ You simply let out a hollow, exhausted laugh, reaching for the bottle only to fi
 God Mode:
 I didn't mean to pull an all nigter retcon that and remove exhaustion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **The Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 2, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1150/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1546,8 +1748,11 @@ Administrative Retcon: The all-nighter has been erased from the timeline. Viseny
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at dawn, preparing for the first flight of the day.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Painted Table to Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 2, 129 DR (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1000/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Sorcery Points: 3/3 | Metamagic: Subtle, Twinned, Careful** &nbsp;|&nbsp; ⚠️ **Genuine Intoxication (Lingering), Low Self-Esteem | Exhaustion: 0 | Inspiration: No**
@@ -1567,8 +1772,11 @@ You let out a shaky, self-deprecating laugh, pulling your tattered grey cloak ti
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Imperial Ascent - Attempt a synchronized takeoff with Jace and Luke, using your &#x27;resonance&#x27; to show them a level of control that looks like impossible luck.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 2, 129 AC (06:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 1150/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Sorcery Points: 3/3, Metamagic: Subtle, Twinned, Careful** &nbsp;|&nbsp; ⚠️ **Drunken Resilience, Low Self-Esteem, Genuine Intoxication | Exhaustion: 0 | Expectations: 46/100**
@@ -1590,8 +1798,11 @@ At the exact microsecond Jace’s knees lock, and before he can even shout the c
 > 👤 **Player:**
 > *"Let's time skip for a few weeks and have This campaign follow events from TV show and narrate every day. Assume I continue to train with my dragon expertise and narrate my progress and everyone's reaction  s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The Chamber of the Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 23)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Lord | HP: 19/19 | XP: 2650/2700 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Sorcery Points: 3/3, Metamagic: Subtle, Twinned, Careful** &nbsp;|&nbsp; ⚠️ **Sober (Struggling), Clear-Headed | Inspiration: Yes**
@@ -1615,8 +1826,11 @@ You stand before the Painted Table, your ruined silks replaced by a high-collare
 > 👤 **Player:**
 > *"Give me proper exp for my training and let's assume I also learned how to craft Valyrian steel weapons but they're only +1 for now and later when I am level 6 I can make +3 ones. I use dragon fire and get a smith to help me. I present the first +1 finesse weapon to my queen. She's extremely impressed even if it's not a top tier blade yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Dragonmont Forges / The Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 25/25 | XP: 4150/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sorcery Points: 4/4 | Metamagic: Subtle, Twinned, Careful** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1655,8 +1869,11 @@ If you continue adventuring, you remain Level 4 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 4 - Apply level 4 Dragon Lord (Sorcerer) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -1682,8 +1899,11 @@ Rhaenyra (Lvl 15) reaches out to touch your shoulder, her eyes shimmering. "Leve
 God Mode:
 Pick ASI cha +2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 82/100**
@@ -1693,8 +1913,11 @@ Administrative Update: Your Charisma has been set to 20 (+5 modifier), reflectin
 God Mode:
 lets retcon the the valyrian steel dagger and make it a rapier. lets instead say i found it in the armory, making everyone imrpessed by my luck. rhaenrya is honored i gave itto her as a gift since she doesnt possess a rapier or valyrian steel blade. Then lets make a plot hook where i got familiar with valyrian steel from the find and can start to learn to craft it at level 6 and eventualyl at level 9 i can craft +1 and level 12 +3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 82/100**
@@ -1708,8 +1931,11 @@ lets retcon the the valyrian steel dagger and make it a rapier. lets instead say
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene at the Painted Table after Rhaenyra accepts the &#x27;found&#x27; gift.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Sorcery Points: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 85/100**
@@ -1730,8 +1956,11 @@ As she lifts the rapier, the weight of the metal feels strange to you—not beca
 > 👤 **Player:**
 > *"narrate everyones reaction. rhaenrya is overjoyed and tells me to sit beside her. since i am technically a dragon rider i now sit on the war council. listen as eveyrone decides what to do. lets assume i dont make decisions and just take orders but i can gie suggestions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1759,8 +1988,11 @@ Rhaenyra turns to you, her violet eyes soft but demanding. "Visenya, I need you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Orders Silently - Nod and take the draught for the road, playing the part of the obedient, &#x27;lucky&#x27; cousin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/4 | Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1790,8 +2022,11 @@ As you turn to leave the chamber, the 'Black Sheep' in your soul whispers that t
 > 👤 **Player:**
 > *"narrate the queen talking to the council about me after i've left and i'm not in the scene. she says another dragon rider changes everything, and she says she underestimated me and didn't properly look after me when i was younger. she reminds everyone i am actualyl a great bastard, targaryen blood on both sides, and i am a prodigy with the dragon, outpacing even her own learning velocity. In this campaign lets not have the queen be jealous of me until i become level 16 or somehow people start saying is hould rule intsead of her. otherwise she is not jealous"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/4 | Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1811,8 +2046,11 @@ Daemon (Lvl 18) watches his niece with a predatory stillness, his eyes flicking 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fly to the Gullet - Meet Jacaerys at the landing ledge and begin the intimidation patrol over the blockade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Sorcery Points: 4/4 | Ascension: 16/100** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1833,8 +2071,11 @@ You feel the tremors in your hands—the lingering ghost of the blackberry wine�
 God Mode:
 Scout the Cloud Bank - Lead Vermithor into the heavy mist to look for Green scouts hiding in the sun&#x27;s shadow.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Sorcery Points: 4/4 | Ascension: 16/100** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1850,8 +2091,11 @@ As the mist thins for a fleeting second, you catch a glimpse of it: a Green scou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Let Jace Handle the Strike - Stay in reserve and signal Jacaerys to lead the intercept, maintaining your &#x27;lucky observer&#x27; status.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 15gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/4, Spells: L1 4/4, L2 2/2, HD: 4/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 93/100 | Ascension: 16/100**
@@ -1875,8 +2119,11 @@ Below, the Green Scout (Lvl 4) is desperately trying to regain control, banking 
 God Mode:
 lets assume i still drink at night and evenings but i am mostly competent. as i level up i drink less and less and start to truly show me apex beauity and noble and regal bearing. make it narrative without mechanics
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4150/6500 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 93/100**
@@ -1898,8 +2145,11 @@ Below, the Green Scout (Lvl 4) is desperately trying to regain control, banking 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Dragonet - Use a Subtle Command (&#x27;Lykirī&#x27;) to momentarily stall the enemy dragonet without Jace realizing it was you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4150/6500 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, SP: 4/4, Ascension: 18/100** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1922,8 +2172,11 @@ You assume it was just a stroke of 'lucky timing,' a divine coincidence that the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pursue to Shore - Follow the falling scout to ensure they don&#x27;t regroup or send a signal from the coast.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Southern Shore of the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4250/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **SP: 4/4, Spells: L1 4/4, L2 2/2, HD: 4/4, Ascension: 20/100** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -1945,8 +2198,11 @@ You assume it was just a stroke of divine coincidence that you found the gap in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Land Vermithor near the wreckage and use your presence to force the scout to yield for questioning.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **The Southern Shore of the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4350/6500 | Gold: 15gp** &nbsp;|&nbsp; ✨ **SP: 4/4, Spells: L1 4/4, L2 2/2, HD: 4/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 96/100 | Ascension: 20/100**
@@ -1975,8 +2231,11 @@ Jacaerys (Lvl 5) lands Vermax (Lvl 3) nearby, leaping from the saddle with his s
 God Mode:
 i shoudlnt have apex needle, the queen has it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **The Southern Shore of the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4350/6500 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2003,8 +2262,11 @@ Jacaerys (Lvl 5) steps forward, his hand tightening on his sword hilt, but his e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure for Transport - Have Jace bind the scout while you maintain overwatch on Vermithor, playing it safe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Southern Shore of the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4450/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Sorcery Points: 4/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2033,8 +2295,11 @@ Jacaerys (Lvl 5) binds the man tightly, but his violet eyes linger on you with a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Interrogation - Try a different approach—perhaps empathy or a subtle suggestion—to break his silence before the flight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Southern Shore of the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 23)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4550/6500 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2064,8 +2329,11 @@ Jacaerys (Lvl 5) stands perfectly still, his hand on his sword hilt, watching yo
 > 👤 **Player:**
 > *"ask jace what we should do. we should probably take the scout home since w are supposed to just patrol"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Southern Shore of the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4550/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Sorcery Points: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 98/100**
@@ -2087,8 +2355,11 @@ You let out a shaky, self-deprecating giggle, the 'Silver' persona flaring up li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Jace&#x27;s Lead - Nod and prepare to mount Vermithor. If Jace thinks you can do it, you&#x27;ll try to prove him right.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4550/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Sorcery Points: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2113,8 +2384,11 @@ You assume the perfect timing was just the mist masking your clumsy approach, bu
 God Mode:
 are dragonets part of the tv show or book? i dont remember flying small dragons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4550/6500 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2143,8 +2417,11 @@ Going forward, I will refer to enemy scouts as riding **'Young Dragons'** or spe
 God Mode:
 i dont want flying scouts or anything thats not lore appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4550/6500 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2165,8 +2442,11 @@ Administrative audit complete. I have synchronized the game state with the lore-
 God Mode:
 just  give them horses
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4550/6500 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2182,8 +2462,11 @@ You stumble into the cave, your boots skidding on the wet kelp as you play the p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate on the Spot - Press the scouts for immediate information about Aemond&#x27;s specific patrol patterns before moving them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4550/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Sorcery Points: 4/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2211,8 +2494,11 @@ Jacaerys (Lvl 5) steps into the cave, his hand resting on the pommel of his swor
 God Mode:
 didnt my roll succeed? 1d20+7 = 18 vs DC 14 - Success (Persuasion (Interrogation))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4550/6500 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2238,8 +2524,11 @@ Social HP functions like combat HP for significant NPCs. Unless the NPC only has
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the interrogation now that the math is settled. The scout is visibly shaken but still holding onto his secrets for another moment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4550/6500 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Sorcery Points: 4/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2269,8 +2558,11 @@ Jacaerys (Lvl 5) shifts his weight behind you, his hand tightening on his sword 
 > 👤 **Player:**
 > *"let Jacaerys  try to wear him down"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 4550/6500 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Sorcery Points: 4/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2300,8 +2592,11 @@ Jacaerys (Lvl 5) stiffens, his frustration palpable as the interrogation stalls.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Silent Voice (Sorcery) - Use a Sorcery Point for a Subtle Command (&#x27;Ñuhor&#x27; - Mine) to force the truth, making it look like a sudden lapse in his own resolve.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4700/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4, SP: 3/4, Slots: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Low Self-Esteem (Lvl 1-6)**
@@ -2331,8 +2626,11 @@ You gain **150 XP** for the successful interrogation and forcing the scout's tot
 God Mode:
 make my alignment neutral and ill choose if i wanna go evil or good
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 4850/6500 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2349,8 +2647,11 @@ Administrative alignment shift completed. Your internal profile has been updated
 > 👤 **Player:**
 > *"persuade jace to  return now after we kill these scouts and then we give his mother the intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 5150/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Sorcery Points: 3/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2370,8 +2671,11 @@ You let out a shaky, frustrated sigh, the 'Silver' persona failing to find a wit
 God Mode:
 dont advance narrative. is hould not have a vaalryian steel dagger
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 5150/6500 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Inspiration: No**
@@ -2389,8 +2693,11 @@ You feel the weight of your own low self-esteem pressing down. You want to hide,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow to Rook&#x27;s Rest - Mount Vermithor and follow Jace to the sea-caves near Rook&#x27;s Rest to eliminate the remaining scouts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 5150/6500 | Expectations: 100/100** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | SP: 3/4 | Ascension: 24/100 | Exhaustion: 0**
@@ -2411,8 +2718,11 @@ You land Vermithor (Lvl 20) with a tectonic thud that sends a shower of sparks a
 God Mode:
 give me normal/reaosnable weapons melee dagger and ranged and armor/items etc.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Sea-Caves, Whispering Cliffs** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 5150/6500 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2424,8 +2734,11 @@ give me normal/reaosnable weapons melee dagger and ranged and armor/items etc.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command: Dracarys - Order Vermithor to incinerate the horses and the cave mouth to prevent escape.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 23)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 5150/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Sorcery Points: 3/4 | Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2451,8 +2764,11 @@ You gain **150 XP** for the masterful tactical command!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Total Surrender - Utilize your 20 Charisma and the dragon&#x27;s presence to break their remaining will*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing, 129 AC (Day 23)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 5300/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Sorcery Points: 3/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2482,8 +2798,11 @@ You gain **250 XP** for the masterful display of authority and securing a total 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Scouts - Question them immediately about the specific timing of Aemond&#x27;s arrival and any other hidden wings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 5800/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4, SP: 3/4, Slots: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 100/100**
@@ -2511,8 +2830,11 @@ Jacaerys (Lvl 5) watches you from Vermax's (Lvl 3) side, his expression one of g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Young Dragons - Attempt to use your Apex Instinct to calm and secure the three young dragons chained in the fissure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Whispering Cliffs, Rook's Rest** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 6000/6500 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2538,8 +2860,11 @@ You assume it was just a stroke of 'lucky beast-whispering,' a divine coincidenc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Prisoners and Return - Have Jacaerys help you bind the scouts to their horses and return to Dragonstone with the prisoners and the young dragons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord | HP: 22/22 | XP: 6100/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Sorcery Points: 3/4** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2565,8 +2890,11 @@ You simply shrug, reaching for an empty flask out of habit before remembering th
 God Mode:
 lets adjust my low self esteem, by level 6 it should be very small and just a general lack of confidence and level 9 it should be fully gone
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **The Dragonmont, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Lord (Sorcerer) | HP: 22/22 | XP: 6100/6500 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2585,8 +2913,11 @@ All current attributes and active effects remain synchronized with this new prog
 
 However, narrate a scene without me where Jace explains how much i accomlished and how i tamed 3 dragons. the queen should be overjoyed and everyone else astounded. And the queen realizes I didn't even come to make the report, so i am truly humble and loyal*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Chamber of the Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 28/28 | XP: 6600/14000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors (Manual tasks) | Exhaustion: 0 | Inspiration: No**
@@ -2624,8 +2955,11 @@ If you continue adventuring, you remain Level 5 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 5 - Apply level 5 Dragon Lord (Sorcerer) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -2651,8 +2985,11 @@ Outside the pits, Jacaerys and the Queen are heralding your name to a council th
 > 👤 **Player:**
 > *"jace further explains I am already level 5, the same skill as him, in weeks.  he's proud and not jealous"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -2674,8 +3011,11 @@ Jacaerys nods fervently. "She doesn't even see it. She still thinks she's 'lucky
 > 👤 **Player:**
 > *"lets have them summon me and everyone congratulates me and treats me like a hero. the queen tells me not to be modest. then the queen thinks about the best strategy and considers going herself with me and her son and rhaenys to ambush aemond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Chamber of the Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 6600/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sorcery Points: 5/5** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2698,8 +3038,11 @@ Daemon (Lvl 18) watches from the shadows, his hand resting on Dark Sister. He do
 God Mode:
 give me better armor, and this should be on the queen not me The Apex Needle (+1 Valyrian Steel Rapier)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Chamber of the Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 6600/14000 | AC: 16** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors**
@@ -2728,8 +3071,11 @@ You offer a small, shaky nod, the tremors in your hands momentarily quelled by t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review the Vertical Spiral - Spend the remaining time with Rhaenys and Jace to ensure the timing of the spiral maneuver is synchronized to Vhagar&#x27;s slow climb.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Chamber of the Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 6600/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2751,8 +3097,11 @@ As you explain the timing, a crystalline clarity fills your mind—a resonance f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Harness Check &amp; Fleet Signal (Synergistic) - Personally inspect the Prince&#x27;s harness while the Dragonkeepers signal the fleet to hold positions—ensuring safety and coordination happen simultaneously. (+0 DC)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Dragonmont Landing Plateau, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 6600/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2775,8 +3124,11 @@ You offer a small, shaky nod, the 'Black Sheep' in you still whispering that thi
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Imperial Ascent - Lead the four-dragon formation into a vertical climb, utilizing Vermithor&#x27;s bulk to shield the smaller dragons from early detection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The High Watch, Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 6900/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sorcery Points: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety | Exhaustion: 0 | Inspiration: No**
@@ -2803,8 +3155,11 @@ You gain **300 XP** for the high-risk successful coordination of the Imperial As
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sorcerous Acceleration - Cast Haste on Vermithor as you dive, pushing his ancient bulk to speeds Aemond cannot possibly anticipate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The High Watch, Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 7500/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/2, Sorcery Points: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety | Exhaustion: 0 | Inspiration: No**
@@ -2825,8 +3180,11 @@ You gain **600 XP** for the masterful execution of the Hasted Ambush!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order the Fleet Strike - Signal Jace and Rhaenys to rake Vhagar&#x27;s underbelly while you use Vermithor&#x27;s bulk to block her line of sight to the smaller dragons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **High Watch, Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 8000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | SP: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Ascension: 7/100**
@@ -2853,8 +3211,11 @@ You gain **500 XP** for the masterful coordination of the multi-dragon pincer st
 > 👤 **Player:**
 > *"THINK:What's the best plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **High Watch, Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 8000/14000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2870,8 +3231,11 @@ Your individual influence remains a shadow on the ledgers of the realm. While yo
 > 👤 **Player:**
 > *"Use high valerian to confuse vhagar and then point blank dracrys. I also cast hold person on Vhagar rider"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **High Watch, Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 8000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 1/2, Sorcery Points: 5/5** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2899,8 +3263,11 @@ Because Aemond isn't held, he reacts with the lethal speed of a veteran. Just as
 > 👤 **Player:**
 > *"THINK:Best plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 8000/14000** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Expectations: 100/100**
@@ -2914,8 +3281,11 @@ You pause as the scream of the wind and the grinding of scales become a singular
 > 👤 **Player:**
 > *"Apex aura and then all dragon dive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **High Watch, Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 8500/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 1/2, SP: 5/5, Ascension: 42/100** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2946,8 +3316,11 @@ Syrax and Meleys strike her wing-joints with a surgical precision that defies th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apex Command: &#x27;Pāsagon&#x27; - Use another Sorcery Point to demand Vhagar &#x27;Obey&#x27; the descent, targeting her primitive survival instinct.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 1/2, SP: 4/5** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2975,8 +3348,11 @@ You gain **500 XP** for the successful tactical completion of the Sea-Drive mile
 > 👤 **Player:**
 > *"THINK:Best move?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 1/2, SP: 4/5** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -2990,8 +3366,11 @@ You see the Hoar Huntress not just as a beast, but as a sinking mountain. The bl
 > 👤 **Player:**
 > *"Hold person on aemond and continue to apex command vhagar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9,000/14,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/3, L3 1/2 | SP: 4/5 | Ascension: 40/100** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3012,8 +3391,11 @@ The impact is a tectonic event. A wall of water three hundred feet high erupts i
 > 👤 **Player:**
 > *"Signal capture attempt and command vhagar to surrender. Let's not use DC 8 anymore for hostile adult dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:08)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/3, L3 1/2 | SP: 4/5 | Ascension: 45/100** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3038,8 +3420,11 @@ Queen Rhaenyra (Lvl 15) glides Syrax low over the waves, her violet eyes fixed o
 > 👤 **Player:**
 > *"Have my dragon kill Aemond while helpless and try to command Vhagar again to obey me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Skies above the Gullet** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:08)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/3, L3 1/2, SP: 4/5** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3064,8 +3449,11 @@ Queen Rhaenyra (Lvl 15) glides Syrax low over the impact site, her face a mask o
 > 👤 **Player:**
 > *"Command Vhagar using full apex and guard Jace"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Skies above the Gullet (Sea Surface)** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:08)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/3, L3 1/2, SP: 4/5** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety | Exhaustion: 0 | Inspiration: No**
@@ -3095,8 +3483,11 @@ Jacaerys (Lvl 5) pulls Vermax (Lvl 5) into a banking turn, his face a mask of pa
 > 👤 **Player:**
 > *"Maintain apex aura. Tell her a more worthy master has appeared"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Skies above the Gullet (Sea Surface)** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:09)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/3, L3 1/2, SP: 4/5** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3121,8 +3512,11 @@ Around the impact site, the Velaryon fleet moves in with a silent, disciplined t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Board Vhagar - Leap from Vermithor onto the elder dragon&#x27;s back to personally oversee the securing of the harness. (High RP)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Skies above the Gullet (Sea Surface)** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:09)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Lord | HP: 36/36 | XP: 9000/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/3, L3 1/2, SP: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Withdrawal Tremors | Ascension: 80/100**
@@ -3144,8 +3538,11 @@ Jacaerys (Lvl 5) pulls Vermax (Lvl 5) into a banking hover, his face a pale mask
 God Mode:
 I should gain massive exp for this victory
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Skies above the Gullet (Sea Surface)** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:09)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord | HP: 36/36 | XP: 37000/48000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3174,8 +3571,11 @@ Massive XP award processed for the historic defeat and capture of Vhagar and the
 God Mode:
 Command Extraction &amp; Project Calm (Synergistic) - Coordinate the fleet while maintaining the Apex Aura—utilizing your total dominance of the scene to secure the dragon in record time.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Skies above the Gullet (Sea Surface)** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord | HP: 36/36 | XP: 37,000/48,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3203,8 +3603,11 @@ Despite your command, the grandmother of dragons does not fully settle. She bows
 God Mode:
 ASI dex+2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Skies above the Gullet (Sea Surface)** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord | HP: 36/36 | XP: 37,000/48,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3214,8 +3617,11 @@ Ability Score Improvement finalized. Visenya's Dexterity has been increased to 1
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reassert Apex Command - Project a more focused aura directly into Vhagar&#x27;s mind to suppress her grief-fueled thrashing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3235,8 +3641,11 @@ Jacaerys (Lvl 5) banks Vermax lower, his face a mask of pure, unadulterated awe.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Blood-Communion - Attempt to deepen the bond with Vhagar directly, seeking to understand her ancient mind and potentially claiming her as a secondary mount.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3256,8 +3665,11 @@ High above, Queen Rhaenyra (Lvl 15) glides Syrax in a watchful circle, her gaze 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Humble Whisper - Stop projecting authority and instead offer a simple, wordless hum of comfort to acknowledge her grief without demanding submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3280,8 +3692,11 @@ You pull your hand back, your fingers tingling with the residual heat of the dra
 > 👤 **Player:**
 > *"Finalize the extraction and when she's chained up everyone e is overjoyed and celebrating and congratulating me but I stay humble to reduce my AP"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3317,8 +3732,11 @@ Queen Rhaenyra (Lvl 15) steps forward, her violet eyes searching your face. She 
 God Mode:
 Am I level 8 or 9?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Skies above the Gullet (Sea Surface)** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord | HP: 36/36 | XP: 38,000/48,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Withdrawal Tremors | Exhaustion: 0 | Inspiration: No**
@@ -3337,8 +3755,11 @@ Your current Faction Power is **0 FP**, which leaves you **UNRANKED** among the 
 > 👤 **Player:**
 > *"Narrate everyone congratulating me. The expectation meter is gone and I have permanent respecf"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3365,8 +3786,11 @@ Rhaenyra laughs, a bright, clear sound that carries over the water. She takes yo
 > 👤 **Player:**
 > *"Narrate the queens internal thoughts. She's afraid of me now but she does trust me. She just wonders what will happen to the world  since someone as powerful as me exists and I've barely even started as a dragon rider and might have two dragons now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3386,8 +3810,11 @@ You take the cup, your fingers steady but your mind clouded by the sheer scale o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest and Recover - Accept the water and the silence, allowing the adrenaline to fade and the Blood-Strain to settle before the ship reaches Dragonstone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3406,8 +3833,11 @@ You lean back, your breath coming in rhythmic, shallow huffs. You feel the prese
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hero&#x27;s Arrival - The fleet enters the harbor. Face the full Black Council and the garrison with the captured Hoar Huntress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3432,8 +3862,11 @@ You offer a small, steady nod to the kneeling lords, your face a mask of crystal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tending the Titan - Leave the lords to their politics and personally oversee the movement of Vhagar to the Dragonmont to ensure the chains hold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 1/2**
@@ -3456,8 +3889,11 @@ You lean against a cooling stone pillar, your silver-blonde hair damp with sea-s
 > 👤 **Player:**
 > *"Primary bond and long rest with vermithor. While I sleep narrate scene without me where the queen says she's basically won and will provide surrender terms or consider dragon usage. She's won the dragon side of the war which is all that matters. Her allied lords are happy but they question why I am so powerful and ask the queen if I'm loyal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -3488,8 +3924,11 @@ Morning (02:00:00): You wake as the first grey light touches the high vents. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *The First Morning of the New Age - Descend to the pits to check on Vhagar. She is currently riderless and bound; your presence is the only thing keeping her calm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -3510,8 +3949,11 @@ The Dragonkeepers tense, their knuckles white on their poles. You stand in the s
 > 👤 **Player:**
 > *"Try to calm Vhagar down. She's no longer a hostile dragon since rider dead so she goes back to DC 8"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -3543,8 +3985,11 @@ The Dragonkeepers (Lvl 6) on the ledges exhale a collective breath they seem to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Final Claim - Attempt a deep Blood-Communion to fully break the last of her grief and bind her as your secondary ward. (DC 8)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Lord (Sorcerer) | HP: 36/36** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -3578,8 +4023,11 @@ The Dragonkeepers (Lvl 6) fall to their knees on the ledges, their poles clatter
 God Mode:
 I should get way more exp than that. Don't think anyone has ever claimed two dragons like this in known history?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Dragonmont** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 36/36 | XP: 49,650/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Permanent Respect, Heroic Composure, Apex Sovereign | Exhaustion: 0 | Inspiration: No**
@@ -3613,8 +4061,11 @@ Per your established progression, reaching Level 9 triggers the full removal of 
 > 👤 **Player:**
 > *"Level up to 9 and pick hold monster"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord (Sorcerer) | HP: 42/42** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -3633,8 +4084,11 @@ You glance toward the Dragonkeepers (Lvl 6) on the high ledges. They are no long
 God Mode:
 Let's assume I no longer have low self esteem at all and I now am obviously a tier above the Targaryens in beauty realness and abilities. Maybe multiple tiers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Dragonmont** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 49,650/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign | Exhaustion: 0 | Inspiration: No**
@@ -3650,8 +4104,11 @@ Administrative directives finalized and state-level psychological profiles updat
 > 👤 **Player:**
 > *"Sovereigns return but still kneel to rhaenerya to show my loyalty and respect. Narrative everyone's reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Chamber of the Painted Table, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 49,650/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -3675,8 +4132,11 @@ Daemon Targaryen (Lvl 18) watches from the periphery, his eyes narrowed to slits
 > 👤 **Player:**
 > *"Assure my queen that I am loyal as always. Then say with vhagar her victory is absolute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 49,650/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -3705,8 +4165,11 @@ Lord Corlys (Lvl 14) and Princess Rhaenys (Lvl 16) exhale as one, the suffocatin
 > 👤 **Player:**
 > *"Privately ask the queen if she can adopt me. I wish to be a Targaryen."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 49,850/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Transcendent Presence, Apex Sovereign**
@@ -3740,8 +4203,11 @@ Queen Rhaenyra (Lvl 15) freezes, her hand tightening on the Apex Needle at her h
 > 👤 **Player:**
 > *"Smile and embrace her and show my genuine happiness. They depart to tell my brothers the good news"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Chamber of the Painted Table** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 50050/64000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence, Heroic Composure**
@@ -3774,8 +4240,11 @@ You gain **200 XP** for the successful legitimization!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find Your Brothers - Depart to find Jace and Luke to share the moment of your shared name and strengthen the family bond.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Stone Drum, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 23, 129 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Princess | HP: 42/42 | XP: 50250/64000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence, Permanent Respect**
@@ -3806,8 +4275,11 @@ You gain **200 XP** for the successful family bonding and shared milestone!
 > 👤 **Player:**
 > *"Begin smithing training and let vhagar lose her chains becuse I've claimed her. Take turns riding her and my primary dragon. Time skip for a de days while thee queen plans the surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Stone Drum, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 26, 129 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 50,750/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -3826,8 +4298,11 @@ Now, Evening (18:00:00) on the twenty-sixth day, you return to the Stone Drum. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review Surrender Terms - Listen to Rhaenyra&#x27;s plan for King&#x27;s Landing and offer your tactical insights.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Stone Drum, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 26, 129 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 51,000/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -3847,8 +4322,11 @@ Lord Corlys (Lvl 14) nods, his weathered face reflecting a grim approval. "A dem
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Blockade &amp; Patrol (Synergistic) - Coordinate with Lord Corlys to tighten the blockade while you maintain a constant, terrifying patrol route with both titans. (+0 DC)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Stone Drum, Dragonstone** &nbsp;|&nbsp; ⏳ **The Sowing 26, 129 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 51,250/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence, Valyrian Smithing Training | Exhaustion: 0 | Inspiration: No**
@@ -3868,8 +4346,11 @@ You gain **250 XP** for the successful synergistic coordination of the Total Blo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Patrol &amp; Technical Training (Synergistic) - Keep the dragons on a high-cycle patrol rotation while using the downtime between flights to refine your technical understanding of Valyrian Steel at the forge. (+0 DC)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Dragonmont Forges / Skies of the Blackwater** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 51,750/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, SP: 4/5, Exhaustion: 0**
@@ -3888,8 +4369,11 @@ Now, as the deadline for Aegon's surrender looms with the rising sun, you stand 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead the Dual-Titan Demonstration - Fly both Vermithor and Vhagar (leading the second via bond) over the Red Keep as the sun rises to demand immediate surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Skies above King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,500/64,000**
@@ -3908,8 +4392,11 @@ From the flagship *The Sea Snake* in the bay below, Queen Rhaenyra (Lvl 15) watc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee Envoy Landing - Maintain your position in the sky while the Queen&#x27;s envoy lands at the Mud Gate to deliver the formal surrender terms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Skies above the Mud Gate, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,500/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, SP: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence, Heroic Composure | Exhaustion: 0 | Inspiration: No**
@@ -3925,8 +4412,11 @@ You feel the double-weight of the dragons' ancient minds, a tectonic pressure in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aura of Submission (Synergistic) - Maintain the hover while projecting your 20 Charisma to cast a Subtle &#x27;Friends&#x27; or &#x27;Charm Person&#x27; effect over the harbor district to ensure total smallfolk compliance. (+0 DC)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Skies above the Mud Gate, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:06)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,500/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5, Ascension: 87/100** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Heroic Composure, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -3948,8 +4438,11 @@ Your presence ripples through the Weave, a massive projection of Apex authority 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dragon Roar &amp; Envoy Protection (Synergistic) - Have both dragons let out a low, coordinated rumble to silence the city while the envoy speaks—using physical sound to ground the magical aura. (+0 DC)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Skies above the Mud Gate, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:07)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord (Sorcerer) | HP: 42/42 | XP: 52,800/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -3971,8 +4464,11 @@ Beneath you, the Queen's envoy stands alone on the quay, their voice now carryin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mask Apex Aura - Slowly recede the magical projection, allowing the physical presence of the dragons to do the work while you hide your sorcerous signature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Skies above the Mud Gate, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 DR (06:08)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,800/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -3992,8 +4488,11 @@ Queen Rhaenyra (Lvl 15) watches from the flagship *The Sea Snake*, her glass fix
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scan the Keep for Treachery - Use your heightened senses to look for hidden ballistae or signs of Aegon attempting a desperate counter-move.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Skies above the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,800/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -4011,8 +4510,11 @@ Below, the envoy's voice continues to ring out across the harbor, a small, lonel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Direct Response - Use the Noblest Dialect to command Aegon himself to appear on the battlements and acknowledge the terms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Skies above the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:11)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,800/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -4041,8 +4543,11 @@ You feel the sorcerous scream of your blood flare to a blinding intensity as you
 > 👤 **Player:**
 > *"Wait for response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Skies above the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:13)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,800/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Inspiration: No**
@@ -4060,8 +4565,11 @@ A strange, subtle distortion ripples through the air—not a sound, but a locali
 > 👤 **Player:**
 > *"Act humble and ask rhaenrya what to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Skies above the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,800/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Heroic Composure, Transcendent Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -4085,8 +4593,11 @@ A strange, subtle prickling at the base of your neck intensifies—a cold finger
 God Mode:
 Whenever I act humble we should reduce AP and in session header always show my hp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Skies above the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,800/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Ascension: 85/100**
@@ -4102,8 +4613,11 @@ The story remains frozen at dawn over the Blackwater as Rhaenyra considers your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as Rhaenyra prepares to issue her command to the new Princess of the Realm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Skies above the Red Keep / Deck of The Sea Snake** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 52,800/64,000 | Ascension: 85/100** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Heroic Composure, Apex Sovereign**
@@ -4123,8 +4637,11 @@ You offer a slow, steady nod, your silver-blonde hair whipping around your face 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Descent (Synergistic) - Land Vermithor in the courtyard while Vhagar maintains a low, subsonic rumble above the Keep to vibrate the stone—suppressing all resistance simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Outer Ward, Red Keep** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 53,300/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Ascension Meter: 80/100**
@@ -4154,8 +4671,11 @@ You slide down Vermithor's wing, your boots hitting the stone with a sharp, heav
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Ward &amp; Signal Queen (Synergistic) - Direct Gerrick to secure the main gate while you signal the Queen&#x27;s safe landing via High Valyrian roar—coordinating ground and sea simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Outer Ward, Red Keep** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:21)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 53550/64000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Apex Sovereign, Transcendent Presence | AP: 75/100**
@@ -4180,8 +4700,11 @@ The synergy between the ground seizure and the aerial signal is absolute. Becaus
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Queen at the Gate - Form a guard of honor with Gerrick to welcome Rhaenyra into the castle*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Outer Ward, Red Keep** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 53,550/64,000 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Heroic Composure | Exhaustion: 0 | Inspiration: No**
@@ -4207,8 +4730,11 @@ Rhaenyra (Lvl 15) stops before you, her violet eyes shimmering with an unshielde
 > [!NOTE] ⚙️ **Player Choice:**
 > *Procession &amp; Gate Overwatch (Synergistic) - Gerrick maintains the gate with the Gold Cloaks while you lead the Queen to the Throne—securing the entrance and the destination simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Outer Ward, Red Keep** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 53,700/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, Sorcery Points: 2/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Transcendent Presence | Exhaustion: 0 | Inspiration: No**
@@ -4231,8 +4757,11 @@ You feel a sharp, violent surge of heat in your blood—the Ascension Meter (65/
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defer to the Queen - Step aside and let Rhaenyra demand entry as their sovereign*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Throne Room Entrance, Red Keep** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 53,700/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 2/5 | Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Genuine Sobriety, Apex Sovereign, Transcendent Presence | Ascension: 60/100**
@@ -4263,8 +4792,11 @@ The standoff remains a jagged, uninsulated wall. The knights see your humility a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dual Pressure (Synergistic) - Command Vhagar to vibrate the stones while you project a Subtle &#x27;Suggestion&#x27; that their Prince is truly gone and resistance is sacrilege. (+0 DC)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Throne Room Entrance, Red Keep** &nbsp;|&nbsp; ⏳ **The Sowing 30, 129 AC (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Lord | HP: 42/42 | XP: 53,700/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, SP: 2/5** &nbsp;|&nbsp; ⚠️ **Apex Sovereign, Heroic Composure | Exhaustion: 0 | Inspiration: No**
@@ -4290,6 +4822,8 @@ The effect is tectonic. The physical vibration of the titans, reinforced by the 
 > **Resistance:** *"The Prince is... truly gone?"*
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

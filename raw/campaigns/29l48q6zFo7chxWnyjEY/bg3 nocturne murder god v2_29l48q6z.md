@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (36 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 
@@ -482,52 +493,57 @@ Leaning into your emergency command over Baldur's Gate, reprimand Ontharr for qu
 Choice D (Custom Action):
 Declare your own specific dialogue, spell, or tactical action.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
-| **02** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
-| **03** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
-| **04** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
-| **05** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
-| **06** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
-| **07** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Skill Check / Combat |
-| **08** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Skill Check / Combat |
-| **09** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:13) | Skill Check / Combat |
-| **10** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:28) | Skill Check / Combat |
-| **11** | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:45) | Skill Check / Combat |
-| **12** | Wyrm's Rock Fortress - Private Sanctum | Mirtul 15, 1492 DR (16:05) | Skill Check / Combat |
-| **13** | Wyrm's Rock Fortress - Private Sanctum & High Parapet | Mirtul 15, 1492 DR (16:20) | Skill Check / Combat |
-| **14** | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Skill Check / Combat |
-| **15** | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **16** | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **17** | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **18** | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Boss Surrender |
-| **19** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **20** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **21** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Skill Check / Combat |
-| **22** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **23** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **24** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **25** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **26** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **27** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **28** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **29** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **30** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **31** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **32** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **33** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Social Challenge |
-| **34** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **35** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
-| **36** | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
+| [**Scene 02**](#scene-2) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
+| [**Scene 03**](#scene-3) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
+| [**Scene 04**](#scene-4) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
+| [**Scene 05**](#scene-5) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
+| [**Scene 06**](#scene-6) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Roleplay |
+| [**Scene 07**](#scene-7) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Skill Check / Combat |
+| [**Scene 08**](#scene-8) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:03) | Skill Check / Combat |
+| [**Scene 09**](#scene-9) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:13) | Skill Check / Combat |
+| [**Scene 10**](#scene-10) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:28) | Skill Check / Combat |
+| [**Scene 11**](#scene-11) | Wyrm's Rock Fortress - High Audience Chamber | Mirtul 15, 1492 DR (15:45) | Skill Check / Combat |
+| [**Scene 12**](#scene-12) | Wyrm's Rock Fortress - Private Sanctum | Mirtul 15, 1492 DR (16:05) | Skill Check / Combat |
+| [**Scene 13**](#scene-13) | Wyrm's Rock Fortress - Private Sanctum & High Parapet | Mirtul 15, 1492 DR (16:20) | Skill Check / Combat |
+| [**Scene 14**](#scene-14) | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 16**](#scene-16) | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 17**](#scene-17) | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 18**](#scene-18) | Wyrm's Rock Fortress - High Parapet | Mirtul 15, 1492 DR (16:25) | Boss Surrender |
+| [**Scene 19**](#scene-19) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 20**](#scene-20) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 21**](#scene-21) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 23**](#scene-23) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 24**](#scene-24) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 25**](#scene-25) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 26**](#scene-26) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 27**](#scene-27) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 28**](#scene-28) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 29**](#scene-29) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 30**](#scene-30) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 31**](#scene-31) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 32**](#scene-32) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 33**](#scene-33) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Social Challenge |
+| [**Scene 34**](#scene-34) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 35**](#scene-35) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Roleplay |
+| [**Scene 36**](#scene-36) | Baldur's Gate (Heapside Market) | Mirtul 15, 1492 DR (16:25) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 100,000gp | XP: 0/300** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -541,8 +557,11 @@ You draw in a slow, calculated breath, letting your natural High Elf grace and t
 God Mode:
 go through the original campaign material and review to see if anything looks too easy or unbalanced
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 136/136 | AC: 20 | Gold: 100,000gp | XP: 0/300**
@@ -552,8 +571,11 @@ Reviewed campaign material and mechanics balance. As designed in 'The Sanguine A
 God Mode:
 explain all the material in full detail dont truncate use thousands of words
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 136/136 | AC: 20 | Gold: 100,000gp | XP: 0/300**
@@ -661,8 +683,11 @@ As requested, here is a full, untruncated breakdown of the campaign's structural
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story Mode - Resume the campaign narrative at Wyrm's Rock*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -680,8 +705,11 @@ Ontharr’s pale eyes lock onto yours, searching for a tremor of guilt or a flic
 God Mode:
 why is he suspecting me? maybe he should just be wondering whats going on but doesnt have a reason to suspect me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -716,8 +744,11 @@ If you would like to tone this down so the scene feels more like a concerned fri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -731,8 +762,11 @@ Ontharr Frume's righteous fury remains a wall of gilded steel before you. The 'S
 > 👤 **Player:**
 > *"THINK:whats the best mover"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -744,8 +778,11 @@ Wisdom Check (Intuition): 18 vs DC 9 — Success. Your preternatural intuition i
 > 👤 **Player:**
 > *"THINK:any lower DC ideas"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:03)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -757,8 +794,11 @@ Wisdom Check: 19 vs DC 5 — Success (Masterful). Your preternatural intuition (
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Absolution (Synergistic) - Offer the Grief Tithe (25,000gp) WHILE volunteering for the Zone of Truth. The tithe softens his heart, and the truth-spell theater secures his mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:13)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -786,8 +826,11 @@ Ontharr Frume (Lvl 15) freezes. The righteous fire in his eyes falters, replaced
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Mandate (Synergistic) - Dismiss the audience while ordering Minthara to begin the integration of the Order of the Gauntlet into the city's defense grid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:28)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -817,8 +860,11 @@ However, as the chamber settles into a quiet victory, a faint, rhythmic tapping 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Blackstaff's Gift - Have Gale or Araj Oblodra perform a deep arcane scan on the statuette before bringing it inside.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Wyrm's Rock Fortress - High Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -840,8 +886,11 @@ Unbeknownst to you, the corvid scout that watched from the balcony was not a mer
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Sanctum (Synergistic) - Place the statuette in the High Hall (public_display) while ordering Shadowheart to begin weaving a permanent Sharran 'Shroud of Silence' around your private quarters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Wyrm's Rock Fortress - Private Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -861,8 +910,11 @@ She steps closer, her dark plate cool against your silk as she traces the line o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Corvid Network - Use your Sanguine Pulse and telepathic Voice to track the specific frequency of the recording raven that fled the balcony.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Wyrm's Rock Fortress - Private Sanctum & High Parapet** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -884,8 +936,11 @@ The intelligence has not left the city yet. The bird is making its handoff to an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Overload & Misdirection - Use the Voice of the Inheritor to blast the raven's psychic matrix from afar, frying the memory crystal with feedback and replacing the audio with infernal whispers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Wyrm's Rock Fortress - High Parapet** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -903,8 +958,11 @@ Shadowheart (Lvl 12) reaches for your shoulder, her own eyes widening as she sen
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Architect's Pincer (Synergistic) - You personally intercept the handler (surgical_strike_heapside) while Shadowheart weaves a Sharran 'Cloak of Night' over the district to mask the combat from the Flaming Fist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Wyrm's Rock Fortress - High Parapet** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -928,8 +986,11 @@ You gain 3,000 XP!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Story - Let the story continue from the current scene.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Wyrm's Rock Fortress - High Parapet** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,120gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -945,8 +1006,11 @@ Beyond the parapet, the first stars of Mirtul begin to pierce the smog. The inte
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Silence (Synergistic) - Order Sarevok to purge the cell (interrogate_shadow_cell) while you publicly launch the Order of Divine Justice, using the 'cleanup of devil cultists' as proof of your new Order's efficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Wyrm's Rock Fortress - High Parapet** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,120gp | XP: 102400/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -971,8 +1035,11 @@ However, as you finish your speech, a sudden, blinding flash of violet light eru
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Inquisition (Synergistic) - Launch the Inquisition Mandate (the_inquisition_mandate) while Shadowheart uses her Sharran cell to plant 'Hellish Ash' at the beacon site, framing the Harpers' own signal as diabolical sabotage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Wyrm's Rock Fortress - High Parapet** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | AC: 20 | Gold: 75,120gp | XP: 102400/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1000,8 +1067,11 @@ Minthara steps forward, her voice a low, lethal rasp. "The Inquisition begins, M
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Lockdown (Synergistic) - Seize the statuette (consolidate_arcane_audit) while you lead the public purge (harvest_the_lower_city), using the 'Devil Threat' to justify both moves simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,120gp | XP: 120000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1021,8 +1091,11 @@ You step onto the speakers' dais at the Heapside market, intending to rally the 
 > 👤 **Player:**
 > *"THINK:Brainstorm how to continue to grow wealth, influence, power, exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | XP: 120000/120000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -1036,8 +1109,11 @@ Before you can reply, Shadowheart steps forward, her dark armor whispering again
 > 👤 **Player:**
 > *"THINK:Brainstorm how to continue to grow wealth, influence, power, exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/136 | XP: 120000/120000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1049,8 +1125,11 @@ Wisdom Check (Planning): 24 vs DC 15 — Success (Brilliant). Your preternatural
 > 👤 **Player:**
 > *"THINK:CHOICE:level_up_review"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt (Lvl 13 available) | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/120000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1076,8 +1155,11 @@ Do NOT include any `level_up_*`, `level_up_now`, or
 `finish_level_up_return_to_game`, and do NOT rely on fallback/meta choices.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/120000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1093,8 +1175,11 @@ Ontharr Frume (Lvl 15) watches the crowd with a heavy brow, his hand resting on 
 God Mode:
 I feel kind of bored. Who are all these stakeholders? Harpers are ok but I wanna focus on stakeholders/characters/factions who were actually in bg3 as opponents/allies/neutral
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) (Lvl 13 available) | HP: 136/136 | XP: 120000/120000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -1126,8 +1211,11 @@ I have added a directive to prioritize these legacy characters in future narrati
 God Mode:
 whats blackstaff? there should be zhentarium and perhaps other factions in baldurs gate or beyond?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 145/145 | XP: 120000/140000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -1152,8 +1240,11 @@ The **Zhentarim** are absolutely active in Baldur's Gate and the surrounding Hea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story Mode - Resume the campaign narrative at Heapside Market.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1169,8 +1260,11 @@ As she speaks, your *Sanguine Pulse* thrums. Amidst the biological rhythm of the
 God Mode:
 lets brainstorm some interesting campaign arcs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/140000**
@@ -1221,8 +1315,11 @@ As the architect of this dark-fantasy power fantasy, we are at the pivot point b
 God Mode:
 did i kill wyll and karlach? mizora plot is good. gale plot is good. shar plot is good but maybe after viconia some stronger shar forces can be our opponent? astarion plot is good. do you see the companion arc system instructions? I want my main character to have arcs/quests focused on building exp/godhood, wealth, power, influence, and all companions should have companion arcs/subarcs quests.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1252,8 +1349,11 @@ Per your request, I have updated the Shar plot to include high-tier opposition:
 God Mode:
 whats my main char arc right now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 145/145 | XP: 120000/140000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -1281,8 +1381,11 @@ Following your success in Heapside, a new tactical thread has opened: **The Serp
 God Mode:
 who are some good murder targets for me? who's sitll alive thats "good" jaheira, minsc, ravenguard, anyone else?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/140000**
@@ -1318,8 +1421,11 @@ If you seek to maximize **Essence and Power**, hunting **Dame Aylin** allows you
 God Mode:
 ltees build some campaign arcs/subarcs around their murders so i can gain exp and stronger god powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/140000** &nbsp;|&nbsp; ✨ **Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -1363,8 +1469,11 @@ executing ravenguard in public is dumb, we can pick another more private setting
 lunar eclipse: lets see if i can use this to gain ketheric immortal power by murdering dame
 for arc 3 lets do jaheira, minsc murder arc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/140000**
@@ -1389,8 +1498,11 @@ As the architect of the Sanguine Architecture, I have applied your structural re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story Mode - Resume the campaign narrative at Heapside Market with the redesigned arcs active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 75,120gp | XP: 120000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1418,8 +1530,11 @@ More troubling is the murmur rising from the few commoners who remain. A fishmon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Consolidation (Synergistic) - Order Shadowheart to pull the watcher into a Shroud of Silence (confront_zhent_watcher) while you perform Theatrical Mercy on the dais.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 74,620gp | XP: 120000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1450,8 +1565,11 @@ However, as you bask in the renewed adoration of the crowd, your elven eyes catc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Neutralized Watcher - Retreat to the shadows to oversee Shadowheart's interrogation of the captured Zhentarim agent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 74,620gp | XP: 120000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1473,8 +1591,11 @@ Shadowheart looks to you, her expression a mix of wary respect and growing fanat
 > 👤 **Player:**
 > *"THINK:what if i just make my own deal with jackal and negotiate some better rates and build toward alliance? i could use allies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Baldur's Gate (Heapside Market)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | AC: 20 | Gold: 74,620gp | XP: 120000/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1482,6 +1603,8 @@ Shadowheart looks to you, her expression a mix of wary respect and growing fanat
 > 🎲 **Check:** `1d20+4` ➔ **22** &nbsp;*(Wisdom Check (Strategic Planning))*
 
 Wisdom Check (Planning): 22 vs DC 9 — Success (Brilliant). Your preternatural intuition identifies that the Zhentarim are purely transactional; by pivoting from 'Sovereign' to 'Business Partner,' you can bypass their immediate hostility. Your high Wisdom (18) allows you to see that an alliance here is not a concession, but a strategic outsourcing of your city's inevitable corruption.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

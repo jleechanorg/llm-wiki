@@ -12,71 +12,87 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (50 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Boudica | Setting: Play as Boudica who rebelled against romans. Make me a combat and military prodigy and extremely beautiful and charismatic. Make me a swords bard and start me at level 6.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Character Creation | Ches 20, 1492 DR (09:51) | Roleplay |
-| **02** | Character Creation | Ches 20, 1492 DR (09:51) | Roleplay |
-| **03** | Character Creation | 60 AD, 12 Kalends of October (12:00) | Roleplay |
-| **04** | Sacred Hill | 60 AD, 12 Kalends of October (12:00) | Roleplay |
-| **05** | Sacred Hill | 60 AD, 12 Kalends of October (12:00) | Roleplay |
-| **06** | Sacred Hill | 60 AD, 12 Kalends of October (12:15) | Roleplay |
-| **07** | Ruins of Boudica's Villa | 60 AD, 12 Kalends of October (12:15) | Roleplay |
-| **08** | Ruins of Boudica's Villa | 60 AD, 12 Kalends of October (12:20) | Roleplay |
-| **09** | Ruins of Boudica's Villa | 60 AD, 12 Kalends of October (12:20) | Roleplay |
-| **10** | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:20) | Roleplay |
-| **11** | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:25) | Roleplay |
-| **12** | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:25) | Roleplay |
-| **13** | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:30) | Roleplay |
-| **14** | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:30) | Roleplay |
-| **15** | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:30) | Roleplay |
-| **16** | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:35) | Roleplay |
-| **17** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:35) | Roleplay |
-| **18** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **19** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **20** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **21** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **22** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **23** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **24** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **25** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **26** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
-| **27** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
-| **28** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
-| **29** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
-| **30** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
-| **31** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
-| **32** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
-| **33** | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:50) | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Forward Camp | 60 AD, 12 Kalends of October (12:50) | Roleplay |
-| **36** | Forward Camp | 60 AD, 12 Kalends of October (13:00) | Roleplay |
-| **37** | Forward Camp | 60 AD, 12 Kalends of October (13:00) | Roleplay |
-| **38** | Forward Camp | 60 AD, 12 Kalends of October (13:00) | Roleplay |
-| **39** | Forward Camp | 60 AD, 12 Kalends of October (13:10) | Roleplay |
-| **40** | Forward Camp | 60 AD, 12 Kalends of October (13:10) | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Forward Camp | 60 AD, 12 Kalends of October (13:10) | Roleplay |
-| **43** | Forward Camp | 60 AD, 12 Kalends of October (13:20) | Roleplay |
-| **44** | Forward Camp | 60 AD, 12 Kalends of October (13:20) | Roleplay |
-| **45** | Forward Camp | 60 AD, 12 Kalends of October (13:30) | Roleplay |
-| **46** | Forward Camp | 60 AD, 12 Kalends of October (13:30) | Roleplay |
-| **47** | Forward Camp | 60 AD, 12 Kalends of October (13:40) | Roleplay |
-| **48** | Forward Camp | 60 AD, 12 Kalends of October (13:40) | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Forward Camp | 60 AD, 12 Kalends of October (14:40) | Roleplay |
+| [**Scene 01**](#scene-1) | Character Creation | Ches 20, 1492 DR (09:51) | Roleplay |
+| [**Scene 02**](#scene-2) | Character Creation | Ches 20, 1492 DR (09:51) | Roleplay |
+| [**Scene 03**](#scene-3) | Character Creation | 60 AD, 12 Kalends of October (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Sacred Hill | 60 AD, 12 Kalends of October (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Sacred Hill | 60 AD, 12 Kalends of October (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Sacred Hill | 60 AD, 12 Kalends of October (12:15) | Roleplay |
+| [**Scene 07**](#scene-7) | Ruins of Boudica's Villa | 60 AD, 12 Kalends of October (12:15) | Roleplay |
+| [**Scene 08**](#scene-8) | Ruins of Boudica's Villa | 60 AD, 12 Kalends of October (12:20) | Roleplay |
+| [**Scene 09**](#scene-9) | Ruins of Boudica's Villa | 60 AD, 12 Kalends of October (12:20) | Roleplay |
+| [**Scene 10**](#scene-10) | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:20) | Roleplay |
+| [**Scene 11**](#scene-11) | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:25) | Roleplay |
+| [**Scene 12**](#scene-12) | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:25) | Roleplay |
+| [**Scene 13**](#scene-13) | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:30) | Roleplay |
+| [**Scene 14**](#scene-14) | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:30) | Roleplay |
+| [**Scene 15**](#scene-15) | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:30) | Roleplay |
+| [**Scene 16**](#scene-16) | Overgrown Track East of the Ruins | 60 AD, 12 Kalends of October (12:35) | Roleplay |
+| [**Scene 17**](#scene-17) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:35) | Roleplay |
+| [**Scene 18**](#scene-18) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 19**](#scene-19) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 20**](#scene-20) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 21**](#scene-21) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 22**](#scene-22) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 23**](#scene-23) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 24**](#scene-24) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 25**](#scene-25) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 26**](#scene-26) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:40) | Roleplay |
+| [**Scene 27**](#scene-27) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
+| [**Scene 28**](#scene-28) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
+| [**Scene 29**](#scene-29) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
+| [**Scene 30**](#scene-30) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
+| [**Scene 31**](#scene-31) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
+| [**Scene 32**](#scene-32) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:45) | Roleplay |
+| [**Scene 33**](#scene-33) | Marshland Trail East of the Forward Camp | 60 AD, 12 Kalends of October (12:50) | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Forward Camp | 60 AD, 12 Kalends of October (12:50) | Roleplay |
+| [**Scene 36**](#scene-36) | Forward Camp | 60 AD, 12 Kalends of October (13:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Forward Camp | 60 AD, 12 Kalends of October (13:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Forward Camp | 60 AD, 12 Kalends of October (13:00) | Roleplay |
+| [**Scene 39**](#scene-39) | Forward Camp | 60 AD, 12 Kalends of October (13:10) | Roleplay |
+| [**Scene 40**](#scene-40) | Forward Camp | 60 AD, 12 Kalends of October (13:10) | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Forward Camp | 60 AD, 12 Kalends of October (13:10) | Roleplay |
+| [**Scene 43**](#scene-43) | Forward Camp | 60 AD, 12 Kalends of October (13:20) | Roleplay |
+| [**Scene 44**](#scene-44) | Forward Camp | 60 AD, 12 Kalends of October (13:20) | Roleplay |
+| [**Scene 45**](#scene-45) | Forward Camp | 60 AD, 12 Kalends of October (13:30) | Roleplay |
+| [**Scene 46**](#scene-46) | Forward Camp | 60 AD, 12 Kalends of October (13:30) | Roleplay |
+| [**Scene 47**](#scene-47) | Forward Camp | 60 AD, 12 Kalends of October (13:40) | Roleplay |
+| [**Scene 48**](#scene-48) | Forward Camp | 60 AD, 12 Kalends of October (13:40) | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Forward Camp | 60 AD, 12 Kalends of October (14:40) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (09:51)** &nbsp;|&nbsp; 🛡️ **Pending Character Approval | Conditions: None | Exhaustion: 0 | Inspiration: No** &nbsp;|&nbsp; ✨ **Awaiting character creation**
@@ -104,8 +120,11 @@ Which option would you prefer? (1, 2, or 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Choose AI-Generated - Let the AI design a complete D&amp;D character sheet for Boudica based on her lore*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (09:51)** &nbsp;|&nbsp; 🛡️ **Pending Character Approval | Conditions: None | Exhaustion: 0 | Inspiration: No** &nbsp;|&nbsp; ✨ **Awaiting character creation**
@@ -176,8 +195,11 @@ Would you like to play as this character, or would you like me to make some chan
 God Mode:
 Play as the character but use the Roman calendar and not D&D
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Warlock/Bard (Oath of Vengeance / College of Valor) | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -193,8 +215,11 @@ With a swift motion, she raises her war drum. The first thunderous beat echoes a
 God Mode:
 Make her a full swords bard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Sacred Hill, Iceni Territory** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -208,8 +233,11 @@ The figure known as Unknown watches silently from the edge of the stone circle, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke the Druidic Pact for Guidance - Seek communion with the spirit world through ritual, asking the druids’ ancient powers to reveal the first true path to war.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Sacred Hill, Iceni Territory** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Swords Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -237,8 +265,11 @@ The drum waits. But the time for rallying will come. First—there is a broken s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Journey to the Ruins of My Villa - Travel to the burned remains of your former home, where the broken shield may lie hidden, and where your personal war truly began.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Sacred Hill, Iceni Territory** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 45 minutes remaining** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -272,8 +303,11 @@ The first true relic of the rebellion has been recovered.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Broken Shield Closely - Inspect the shield for hidden messages, engravings, or clues left behind by survivors or enemies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Ruins of Boudica's Villa** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 45 minutes remaining** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -299,8 +333,11 @@ The wind stirs. Somewhere in the distance, a wolf howls.
 > [!NOTE] ⚙️ **Player Choice:**
 > *March on Camulodunum Immediately - Rally your warriors and strike fast toward the Roman settlement where the prisoners are held, while the trail is hot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Ruins of Boudica's Villa** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 40 minutes remaining** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -320,8 +357,11 @@ Boudica does not wait for an answer. She tucks the broken shield into her backpa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rally the Iceni En Route - March toward Camulodunum while calling on scattered Iceni clans to join your growing force, using the broken shield as a sacred standard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Ruins of Boudica's Villa** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 40 minutes remaining** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -347,8 +387,11 @@ From the treeline, a flicker in the mist—Unknown watches, silent as ever. Then
 > 👤 **Player:**
 > *"Do every option in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Overgrown Track East of the Ruins** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 40 minutes remaining** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -366,8 +409,11 @@ The warband advances, the broken shield of the boar carried high. The road to Ca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appoint Clan Leaders to Council - Gather Taran, Medea, and other leaders to form a war council, assigning roles and planning the assault.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Overgrown Track East of the Ruins** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 35 minutes remaining** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -393,8 +439,11 @@ From the treeline, a distant howl echoes—long, wild, and free. Fenrir? A porte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send War Cantors Ahead - Dispatch bardic allies to run ahead and spread the call to arms, summoning even more warriors before reaching Camulodunum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Overgrown Track East of the Ruins** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 35 minutes remaining** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -418,8 +467,11 @@ The march resumes, slower now, more deliberate. The war is no longer a spark. It
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Ahead with Taran - Leave the main column and move swiftly with Taran’s scouts to reconnoiter Camulodunum’s defenses before dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Overgrown Track East of the Ruins** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 35 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -437,8 +489,11 @@ Boudica watches them go, the rhythm of the marching host a steady pulse behind h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Forward Camp - Find a concealed clearing to rest the host, tend to the wounded, and await Taran&#x27;s scouts&#x27; return.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Overgrown Track East of the Ruins** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 35 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -454,8 +509,11 @@ From the edge of the camp, Unknown stands motionless, their form flickering like
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Medea for Vision - Ask Medea to enter a trance and divine the fate of Taran&#x27;s mission and the prisoners in Camulodunum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Overgrown Track East of the Ruins** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 35 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -481,8 +539,11 @@ After a long moment, Medea gasps, her eyes snapping open. They shimmer with unsh
 > 👤 **Player:**
 > *"Dispatch mystic guard to aid Taran and go with them myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Overgrown Track East of the Ruins** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 30 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -506,8 +567,11 @@ The hidden dell empties. Hooves crunch on moss. The firestorm rides anew.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lure the Watcher into Ambush - Use Boudica’s presence as bait, slowing the advance to draw the unseen entity into a trap where the mystic guard can strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 30 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -529,8 +593,11 @@ The trap is set.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Bardic Inspiration to Taunt - Invoke a surge of charismatic energy to mock the watcher, provoking it into a reckless attack within the ambush zone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -552,8 +619,11 @@ The trap is sprung.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Pact Magic to Hinder - Cast &#x27;Hold Person&#x27; on the watcher to paralyze it mid-charge, making it an easier target for the mystic guard&#x27;s nets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -571,8 +641,11 @@ The trap is complete. The watcher is captured.
 God Mode:
 Why aren't you showing the dice rolls?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -592,8 +665,11 @@ Medea’s presence is felt in the stillness—the healer remains in command of t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind It for Medea’s Analysis - Secure the creature with additional druidic bindings and transport it back to Medea at the forward camp for spiritual study.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -609,8 +685,11 @@ Medea’s presence is felt in the stillness—the healer remains in command of t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Captured Watcher - Demand answers from the bound entity about Taran&#x27;s scouts, the prisoners at Camulodunum, and the ancient presence beneath the Roman settlement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -630,8 +709,11 @@ The unseen entity shudders, as if hearing her words. But it cannot resist. The f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Watcher Now - Begin questioning the bound entity immediately on the marshland trail, demanding information about Taran, the prisoners, and the dream beneath Camulodunum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -651,8 +733,11 @@ Boudica holds the entity's form with her gaze, her will unyielding. "Answer me,"
 God Mode:
 Are you doing dice rolls?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -673,8 +758,11 @@ Medea’s presence is felt in the stillness—the healer remains in command of t
 > 👤 **Player:**
 > *"Use zone of truth on it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 2/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -694,8 +782,11 @@ Executing the `Zone of Truth` spell to force the interrogation:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Zone of Truth - Activate the spell to create a 15-foot radius of truth, ensuring the bound entity must answer your questions honestly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -705,8 +796,11 @@ Executing code for Zone of Truth spell activation within the marshland ambush si
 > 👤 **Player:**
 > *"Actually let's just bring it back first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -724,8 +818,11 @@ The magical circle is complete. The entity is bound by paralysis, silver, and no
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Watcher Immediately - Demand answers about Taran&#x27;s location and the prisoners&#x27; condition while the entity is magically compelled to tell the truth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -743,8 +840,11 @@ The magical circle is complete. The entity is bound by paralysis, silver, and no
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Watcher Immediately - Demand answers about Taran&#x27;s location and the prisoners&#x27; condition while the entity is magically compelled to tell the truth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -764,8 +864,11 @@ The unseen entity shudders, as if hearing her words. But it cannot resist. The f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Bindings During Transport - Continuously empower the silvered nets with bardic energy or mystical focus to ensure the entity doesn&#x27;t break free during the journey back to camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword’s Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -775,8 +878,11 @@ The unseen watcher remains suspended within the shimmering dome of *Zone of Trut
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Mental Link with Medea - Send a spirit-message to Medea at the forward camp to prepare her sanctified space for receiving and holding the entity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Swords Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -792,8 +898,11 @@ The unseen watcher shudders violently for a moment, then stills, as if recognizi
 > 👤 **Player:**
 > *"Just bring it back to Medea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Swords Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 2/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -813,8 +922,11 @@ The watcher does not stir. The firestorm rides home.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Respond to Medea&#x27;s Chant - Have Boudica or a bardic guard sing a counter-harmony to strengthen the spiritual connection and bolster morale.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Marshland Trail East of the Forward Camp** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Swords Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -834,8 +946,11 @@ The firestorm sings as it marches home.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Arrive at Forward Camp - Enter the sanctified space where Medea awaits and transfer the prisoner into her care.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -845,8 +960,11 @@ The firestorm sings as it marches home.
 > 👤 **Player:**
 > *"Try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Swords Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -864,8 +982,11 @@ At the edge of the circle, **Unknown** stands silent, a flicker in the air betwe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Unknown Before Proceeding - Ask the silent observer if they sense any danger or have any insight into how best to question this entity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Swords Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2 | Torch Duration: 25 minutes (unavailable)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -887,8 +1008,11 @@ The silent presence fades back to its usual, watchful state, leaving Boudica wit
 God Mode:
 You're showing rolls unrelated to the current scene
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -910,8 +1034,11 @@ The silent presence fades back to its usual, watchful state, leaving Boudica wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order Immediate Interrogation - Command Medea to proceed with the questioning, using the new insight to guide her spiritual approach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -935,8 +1062,11 @@ The visions fade. The entity hangs suspended in the net, its form now placid, it
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Fragment Further - Ask Medea to probe the captive entity for more details about the &#x27;Dreamer&#x27;—its nature, weaknesses, and connection to the Roman presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -958,8 +1088,11 @@ The captive entity shudders, a ripple passing through its placid form. A new vis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aid the Fragment - Consider helping this lost entity find peace or return to the greater power it came from, potentially gaining a powerful supernatural ally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -969,8 +1102,11 @@ The captive entity shudders, a ripple passing through its placid form. A new vis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Fragment Further - Ask the entity one last thing: how can the &#x27;Dreamer&#x27; be contacted respectfully, without bloodshed?*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -980,8 +1116,11 @@ The captive entity shudders, a ripple passing through its placid form. A new vis
 > 👤 **Player:**
 > *"Ally with the fragment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1001,8 +1140,11 @@ From the edge of the circle, **Unknown** makes a final, slow gesture. They trace
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perform Ritual of Return - Allow Medea to lead the ritual that sends the fragment back to its source, creating a supernatural bond with the &#x27;Dreamer&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1026,8 +1168,11 @@ From the treeline at the edge of the dell, the camp warriors watch in silence, u
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meet Rider at Perimeter - Walk out to meet the rider at the camp&#x27;s edge to receive their news quickly and privately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1047,8 +1192,11 @@ She looks back toward the sanctified circle, where Medea stands guard over the n
 > [!NOTE] ⚙️ **Player Choice:**
 > *Contact the Dreamer Directly - Use the knowledge gained to attempt the peaceful contact ritual now, appealing to the &#x27;Dreamer&#x27; to call off its watcher as a sign of good faith.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1070,8 +1218,11 @@ Boudica unslings the War Drum from her back, the boar painted on its hide seemin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Contact the Dreamer Directly - Begin the ritual immediately, using the sanctified circle and your War Drum to send a plea to the &#x27;Dreamer&#x27; to recall its watcher.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 1/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1103,8 +1254,11 @@ The plea has been answered. Taran has a chance. But the cost was one of Bardic I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Guide Taran&#x27;s scouts back - Send a small party or a spirit messenger to help guide Taran&#x27;s group back through the terrain, ensuring they return swiftly and safely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 0/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1126,8 +1280,11 @@ Medea closes her eyes, a faint smile touching her lips. "The spirit of the land 
 > 👤 **Player:**
 > *"Ask the dreamer for power or aid to go against romans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 0) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 0/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1149,8 +1306,11 @@ Boudica feels the air, now free of the oppressive shadow, and knows that the bal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perform Ritual of the Boar&#x27;s Strength - Conduct a new ritual to replenish your spiritual energy and prepare your warriors for the Coming battle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -1198,8 +1358,11 @@ Boudica stands guard over the captive in Medea's sanctified circle, ready for in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Taran - Hold position for a short time to allow Taran to return safely and rejoin the warband before the march.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Forward Camp, Sanctified Space** &nbsp;|&nbsp; ⏳ **60 AD, 12 Kalends of October (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword's Bard | HP: 57/57 (Temp: 12) | XP: 7500/9000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Bardic Inspiration: 3/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2** &nbsp;|&nbsp; ⚠️ **Boar's Strength (Temp HP) | Exhaustion: 0 | Inspiration: Yes**
@@ -1219,6 +1382,8 @@ As the red light fades, leaving a lingering warmth in their veins, a rustle come
 Taran steps into the clearing, his armor stained with marsh mud, but his eyes bright. He sees the lingering energy of the ritual, the gathered host, and finally, his Queen. He nods, a grim smile touching his lips.
 
 "The moth led us true," he rasps, clasping arms with the nearest warrior. "The shadow that hunted us... it simply vanished. The way is clear, my Queen. And I have seen the walls of Camulodunum. They are not as high as they think."
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

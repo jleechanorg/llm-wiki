@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (490 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Character: Personality
@@ -359,506 +370,511 @@ The Action: You are standing in Piso's command tent. He has just given the order
 What do you do?
 A. The Tyrant: Use The Emperor's Voice. Terrify Piso into giving you better troops. B. The Seducer: Bribe the Centurions with your personal wealth to bypass Piso’s authority. C. The Warlord: Accept the mission with a smile, march out, and turn the "suicide mission" into a legendary victory using your Auctoritas.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Northern Hispania | March 1, 40 BCE (06:00) | Roleplay |
-| **03** | Northern Hispania | March 1, 40 BCE (06:00) | Roleplay |
-| **04** | Capua | March 5, 40 BCE (14:00) | Roleplay |
-| **05** | Capua | March 5, 40 BCE (14:00) | Roleplay |
-| **06** | Capua | March 5, 40 BCE (14:00) | Roleplay |
-| **07** | Capua | March 5, 40 BCE (14:05) | Roleplay |
-| **08** | Capua | March 5, 40 BCE (14:05) | Roleplay |
-| **09** | Capua | March 5, 40 BCE (14:05) | Roleplay |
-| **10** | Capua | March 5, 40 DR (14:05) | Roleplay |
-| **11** | Capua | March 5, 40 BCE (14:05) | Roleplay |
-| **12** | Capua | March 5, 40 BCE (14:06) | Roleplay |
-| **13** | Capua | March 5, 40 BCE (14:06) | Roleplay |
-| **14** | Capua | March 5, 40 BCE (14:06) | Roleplay |
-| **15** | Capua | March 5, 40 BCE (14:06) | Roleplay |
-| **16** | Capua | March 5, 40 BCE (14:06) | Roleplay |
-| **17** | Capua | March 5, 40 BCE (14:06) | Roleplay |
-| **18** | Capua | March 5, 40 BCE (14:07) | Roleplay |
-| **19** | Capua | March 5, 40 BCE (14:07) | Roleplay |
-| **20** | Capua | March 5, 40 BCE (14:07) | Roleplay |
-| **21** | Capua | March 5, 40 BCE (14:10) | Roleplay |
-| **22** | Capua | March 5, 40 BCE (14:12) | Roleplay |
-| **23** | Capua | March 5, 40 BCE (14:13) | Roleplay |
-| **24** | Capua | March 5, 40 BCE (14:14) | Roleplay |
-| **25** | Capua | March 5, 40 DR (14:15) | Roleplay |
-| **26** | Capua | March 5, 40 BCE (14:15) | Roleplay |
-| **27** | Capua | March 5, 40 BCE (14:15) | Roleplay |
-| **28** | Capua | March 5, 40 BCE (14:15) | Roleplay |
-| **29** | Capua | March 5, 40 BCE (14:15) | Roleplay |
-| **30** | Capua | March 5, 40 BCE (14:15) | Roleplay |
-| **31** | Capua | March 5, 40 BCE (14:15) | Roleplay |
-| **32** | Capua | March 5, 40 BCE (14:16) | Roleplay |
-| **33** | Capua | March 5, 40 BCE (14:17) | Roleplay |
-| **34** | Capua | March 5, 40 BCE (14:17) | Social Challenge |
-| **35** | Capua | March 5, 40 BCE (14:20) | Roleplay |
-| **36** | Capua | March 5, 40 DR (14:22) | Roleplay |
-| **37** | Capua | March 5, 40 BCE (14:22) | Roleplay |
-| **38** | Capua | March 5, 40 BCE (14:22) | Roleplay |
-| **39** | Capua | March 5, 40 DR (14:35) | Roleplay |
-| **40** | Capua | March 5, 40 BCE (14:35) | Roleplay |
-| **41** | Capua | March 5, 40 BCE (14:40) | Roleplay |
-| **42** | Capua | March 5, 40 DR (14:45) | Roleplay |
-| **43** | Capua | March 5, 40 BCE (14:50) | Roleplay |
-| **44** | Capua | March 5, 40 DR (14:55) | Roleplay |
-| **45** | Capua | March 5, 40 BCE (15:10) | Roleplay |
-| **46** | Capua | March 5, 40 DR (15:15) | Roleplay |
-| **47** | Capua | March 5, 40 BCE (15:15) | Roleplay |
-| **48** | Capua | March 5, 40 BCE (15:15) | Roleplay |
-| **49** | Capua | March 5, 40 DR (15:30) | Roleplay |
-| **50** | Capua | March 5, 40 BCE (15:30) | Roleplay |
-| **51** | Capua | March 5, 40 BCE (15:35) | Roleplay |
-| **52** | Capua | March 5, 40 BCE (15:35) | Roleplay |
-| **53** | Capua | March 5, 40 BCE (15:45) | Roleplay |
-| **54** | Capua | March 5, 40 BCE (15:45) | Roleplay |
-| **55** | Capua | March 5, 40 BCE (15:45) | Roleplay |
-| **56** | Capua | March 5, 40 BCE (15:55) | Roleplay |
-| **57** | Capua | March 5, 40 BCE (16:15) | Roleplay |
-| **58** | Capua | March 5, 40 DR (16:30) | Roleplay |
-| **59** | Villa of Batiatus (Atrium) | March 5, 40 BCE (16:45) | Roleplay |
-| **60** | Capua | March 5, 40 BCE (17:00) | Roleplay |
-| **61** | Capua | March 5, 40 BCE (17:05) | Roleplay |
-| **62** | Capua | March 5, 40 DR (17:10) | Roleplay |
-| **63** | Capua | March 5, 40 DR (17:15) | Roleplay |
-| **64** | Capua | March 5, 40 DR (19:30) | Roleplay |
-| **65** | Capua | March 5, 40 BCE (21:00) | Roleplay |
-| **66** | Capua | March 5, 40 BCE (21:00) | Boss Surrender |
-| **67** | Capua | March 5, 40 BCE (21:00) | Roleplay |
-| **68** | Capua | March 5, 40 BCE (21:45) | Roleplay |
-| **69** | Capua | March 5, 40 BCE (22:30) | Roleplay |
-| **70** | Capua | March 6, 40 BCE (00:15) | Roleplay |
-| **71** | Capua | March 6, 40 DR (00:30) | Roleplay |
-| **72** | Capua | March 6, 40 DR (06:15) | Roleplay |
-| **73** | Capua | March 6, 40 BCE (06:30) | Roleplay |
-| **74** | Capua | March 6, 40 DR (06:45) | Boss Surrender |
-| **75** | Capua | March 6, 40 BCE (06:45) | Roleplay |
-| **76** | Capua | March 6, 40 BCE (06:45) | Roleplay |
-| **77** | Capua | March 6, 40 BCE (07:00) | Roleplay |
-| **78** | Villa of Licinia (Private Dining Solar) | March 6, 40 BCE (08:30) | Roleplay |
-| **79** | Capua | March 6, 40 BCE (08:35) | Roleplay |
-| **80** | Capua | March 6, 40 DR (08:40) | Roleplay |
-| **81** | Capua | March 6, 40 BCE (08:40) | Roleplay |
-| **82** | Capua | March 6, 40 BCE (08:40) | Roleplay |
-| **83** | Capua | March 6, 40 BCE (08:45) | Roleplay |
-| **84** | Capua | March 6, 40 BCE (08:45) | Roleplay |
-| **85** | Capua | March 6, 40 BCE (09:15) | Roleplay |
-| **86** | Rome | March 8, 40 DR (08:30) | Roleplay |
-| **87** | Rome | March 8, 40 BCE (08:30) | Roleplay |
-| **88** | Rome | March 8, 40 BCE (08:30) | Roleplay |
-| **89** | Rome | March 8, 40 BCE (08:30) | Roleplay |
-| **90** | Rome | March 8, 40 DR (09:15) | Roleplay |
-| **91** | Rome | March 8, 40 BCE (09:20) | Roleplay |
-| **92** | Rome | March 8, 40 BCE (09:35) | Roleplay |
-| **93** | Rome | March 8, 40 DR (09:45) | Roleplay |
-| **94** | Rome | March 8, 40 BCE (10:00) | Roleplay |
-| **95** | Rome | March 8, 40 BCE (10:00) | Roleplay |
-| **96** | Rome | March 8, 40 BCE (10:05) | Roleplay |
-| **97** | Rome | March 8, 40 BCE (10:10) | Roleplay |
-| **98** | Rome | March 8, 40 BCE (10:15) | Roleplay |
-| **99** | Rome | March 8, 40 BCE (10:20) | Roleplay |
-| **100** | Rome | March 8, 40 DR (10:25) | Roleplay |
-| **101** | Northern Hispania | March 20, 40 DR (14:00) | Roleplay |
-| **102** | Northern Hispania | March 20, 40 BCE (14:00) | Roleplay |
-| **103** | Northern Hispania | March 20, 40 DR (14:15) | Roleplay |
-| **104** | Northern Hispania | March 20, 40 BCE (14:15) | Roleplay |
-| **105** | Northern Hispania | March 20, 40 DR (14:30) | Roleplay |
-| **106** | Northern Hispania | March 20, 40 DR (15:30) | Roleplay |
-| **107** | Northern Hispania | March 20, 40 DR (16:30) | Roleplay |
-| **108** | Northern Hispania | March 20, 40 DR (16:45) | Roleplay |
-| **109** | Northern Hispania | March 20, 40 DR (18:45) | Roleplay |
-| **110** | Northern Hispania | March 20, 40 DR (20:00) | Roleplay |
-| **111** | Northern Hispania | March 20, 40 DR (20:30) | Social Challenge |
-| **112** | Northern Hispania | March 20, 40 BCE (20:30) | Roleplay |
-| **113** | Northern Hispania | March 20, 40 BCE (20:35) | Roleplay |
-| **114** | Northern Hispania | March 20, 40 BCE (20:35) | Roleplay |
-| **115** | Northern Hispania | March 20, 40 DR (20:45) | Social Challenge |
-| **116** | Northern Hispania | March 20, 40 DR (21:00) | Boss Surrender |
-| **117** | Northern Hispania | March 20, 40 DR (23:45) | Roleplay |
-| **118** | Northern Hispania | March 20, 40 BCE (23:55) | Roleplay |
-| **119** | The Black Forest | March 21, 40 BCE (00:00) | Boss Surrender |
-| **120** | The Black Forest | March 21, 40 BCE (00:00) | Roleplay |
-| **121** | The Black Forest | March 21, 40 BCE (00:00) | Roleplay |
-| **122** | Camp of Legio IX Hispana | March 24, 40 DR (06:00) | Roleplay |
-| **123** | Camp of Legio IX Hispana | March 24, 40 BCE (06:00) | Roleplay |
-| **124** | Command Tent | March 24, 40 DR (06:15) | Roleplay |
-| **125** | Command Tent | March 24, 40 BCE (06:20) | Social Challenge |
-| **126** | Command Tent | March 24, 40 DR (06:45) | Social Challenge |
-| **127** | Tagus River Perimeter | March 24, 40 DR (07:15) | Roleplay |
-| **128** | The Black Forest | March 24, 40 DR (10:15) | Roleplay |
-| **129** | Legio IX Hispana | June 24, 40 DR (08:00) | Roleplay |
-| **130** | Legio IX Hispana | June 24, 40 BCE (08:00) | Roleplay |
-| **131** | Legio IX Hispana | June 24, 40 BCE (08:00) | Roleplay |
-| **132** | Legio IX Hispana | June 24, 40 DR (08:30) | Boss Surrender |
-| **133** | Rome | July 6, 40 DR (14:00) | Roleplay |
-| **134** | Rome | July 6, 40 DR (14:15) | Roleplay |
-| **135** | Rome | July 6, 40 DR (14:35) | Roleplay |
-| **136** | Rome | July 6, 40 DR (14:40) | Roleplay |
-| **137** | Rome | July 6, 40 DR (14:45) | Roleplay |
-| **138** | Rome | July 6, 40 DR (15:00) | Roleplay |
-| **139** | Rome | July 6, 40 DR (15:15) | Roleplay |
-| **140** | Rome | July 6, 40 DR (15:30) | Roleplay |
-| **141** | Rome | July 6, 40 BCE (15:30) | Roleplay |
-| **142** | Rome | July 6, 40 DR (15:35) | Roleplay |
-| **143** | Rome | July 6, 40 BCE (15:35) | Roleplay |
-| **144** | Rome | July 6, 40 DR (15:40) | Roleplay |
-| **145** | Rome | July 6, 40 DR (16:15) | Roleplay |
-| **146** | Rome | July 7, 40 DR (10:00) | Roleplay |
-| **147** | Rome | July 7, 40 DR (11:15) | Boss Surrender |
-| **148** | Rome | July 7, 40 DR (12:30) | Roleplay |
-| **149** | Rome | July 7, 40 BCE (12:35) | Roleplay |
-| **150** | Rome | July 7, 40 BCE (12:35) | Social Challenge |
-| **151** | Rome | July 7, 40 BCE (12:35) | Roleplay |
-| **152** | Rome | July 7, 40 BCE (12:35) | Roleplay |
-| **153** | Rome | July 7, 40 BCE (12:45) | Roleplay |
-| **154** | Rome | July 7, 40 BCE (12:45) | Roleplay |
-| **155** | Rome | July 7, 40 DR (13:30) | Roleplay |
-| **156** | Rome | July 7, 40 BCE (12:45) | Roleplay |
-| **157** | Rome | July 7, 40 BCE (12:45) | Roleplay |
-| **158** | Rome | July 7, 40 DR (16:45) | Roleplay |
-| **159** | Rome | July 7, 40 BCE (16:45) | Roleplay |
-| **160** | Rome | July 7, 40 DR (18:45) | Roleplay |
-| **161** | Rome | July 7, 40 BCE (18:45) | Roleplay |
-| **162** | Rome | July 7, 40 BCE (18:45) | Roleplay |
-| **163** | Rome | July 7, 40 BCE (18:45) | Roleplay |
-| **164** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **165** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **166** | Rome | 7, 38 July (18:45) | Roleplay |
-| **167** | Rome | July 7, 38 Pax Caesara (18:45) | Roleplay |
-| **168** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **169** | Rome | 38 July 7, 18:45:00 | Roleplay |
-| **170** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **171** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **172** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **173** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **174** | Rome | Day 7, 38 July (18:45) | Roleplay |
-| **175** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **176** | Rome | July 7, 38 Pax Caesara (18:45) | Roleplay |
-| **177** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **178** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **179** | Rome | July 7, 38 DR (18:45) | Roleplay |
-| **180** | Rome | July 7, 38 BCE (18:45) | Roleplay |
-| **181** | Rome | July 7, 38 BCE (19:15) | Roleplay |
-| **182** | Rome | July 7, 38 DR (19:45) | Roleplay |
-| **183** | Rome | July 7, 38 DR (19:55) | Roleplay |
-| **184** | Rome | July 8, 38 DR (10:00) | Roleplay |
-| **185** | Rome | October 10, 38 DR (10:00) | Roleplay |
-| **186** | Rome | October 10, 38 DR (10:00) | Roleplay |
-| **187** | Capua | October 15, 38 DR (14:00) | Roleplay |
-| **188** | Capua | October 10, 38 BCE (14:00) | Roleplay |
-| **189** | Capua | October 10, 38 DR (14:05) | Roleplay |
-| **190** | Capua | October 10, 38 BCE (14:00) | Social Challenge |
-| **191** | Capua | October 10, 38 Imperial Era (14:05) | Roleplay |
-| **192** | Capua | October 10, 38 BCE (14:05) | Roleplay |
-| **193** | Capua | October 10, 38 BCE (14:15) | Roleplay |
-| **194** | Capua | October 10, 38 DR (14:05) | Roleplay |
-| **195** | Capua | October 10, 38 DR (14:05) | Roleplay |
-| **196** | Capua | October 10, 38 DR (14:05) | Roleplay |
-| **197** | Capua | October 10, 38 DR (14:15) | Roleplay |
-| **198** | Vesuvius | October 10, 38 DR (14:15) | Roleplay |
-| **199** | Vesuvius | October 10, 38 DR (14:15) | Roleplay |
-| **200** | Capua | October 10, 38 BCE (14:15) | Roleplay |
-| **201** | Capua | October 10, 38 DR (14:15) | Roleplay |
-| **202** | Capua | October 10, 38 DR (14:15) | Roleplay |
-| **203** | Capua | October 10, 38 DR (14:15) | Roleplay |
-| **204** | Capua | October 10, 38 DR (14:18) | Roleplay |
-| **205** | Capua | October 10, 38 DR (14:20) | Roleplay |
-| **206** | Capua | October 10, 38 DR (14:22) | Social Challenge |
-| **207** | Capua | October 10, 38 DR (14:25) | Roleplay |
-| **208** | Capua | October 10, 38 DR (14:25) | Roleplay |
-| **209** | Capua | October 10, 38 BCE (14:30) | Roleplay |
-| **210** | Capua | October 10, 38 DR (14:35) | Boss Surrender |
-| **211** | Capua | October 10, 38 DR (14:45) | Roleplay |
-| **212** | Capua | October 10, 38 BCE (15:00) | Roleplay |
-| **213** | Capua | October 10, 38 BCE (20:30) | Roleplay |
-| **214** | Capua | October 10, 38 BCE (21:15) | Roleplay |
-| **215** | Capua | October 10, 38 BCE (21:30) | Roleplay |
-| **216** | Capua | October 10, 38 DR (21:30) | Roleplay |
-| **217** | Capua | October 10, 38 BCE (21:30) | Roleplay |
-| **218** | Capua | October 10, 38 DR (21:30) | Roleplay |
-| **219** | Capua | October 10, 38 BCE (21:45) | Social Challenge |
-| **220** | Capua | October 10, 38 DR (21:45) | Roleplay |
-| **221** | Capua | October 10, 38 BCE (21:45) | Roleplay |
-| **222** | Capua | October 10, Year 38 (21:45) | Roleplay |
-| **223** | Capua | October 10, 38 BCE (22:15) | Roleplay |
-| **224** | Capua | October 10, 38 DR (22:30) | Social Challenge |
-| **225** | Capua | October 10, 38 DR (22:15) | Roleplay |
-| **226** | Capua | October 10, 38 DR (22:45) | Boss Surrender |
-| **227** | Capua | October 10, 38 DR (22:45) | Boss Surrender |
-| **228** | Capua | October 10, 38 BCE (22:50) | Roleplay |
-| **229** | Capua | October 10, 38 BCE (22:55) | Boss Surrender |
-| **230** | Capua | October 10, 38 DR (23:05) | Boss Surrender |
-| **231** | Capua | October 10, 38 BCE (23:15) | Roleplay |
-| **232** | Capua | October 10, 38 BCE (23:25) | Boss Surrender |
-| **233** | Capua | October 10, 38 DR (23:45) | Roleplay |
-| **234** | Capua | October 10, 38 DR (23:50) | Boss Surrender |
-| **235** | Capua | October 10, 38 DR (23:55) | Roleplay |
-| **236** | Capua | October 10, 38 BCE (00:30) | Roleplay |
-| **237** | Capua | October 10, 38 DR (00:30) | Roleplay |
-| **238** | Capua | October 10, 38 BCE (00:45) | Roleplay |
-| **239** | Capua | October 11, 38 DR (01:15) | Roleplay |
-| **240** | Capua | October 12, 38 BCE (01:45) | Roleplay |
-| **241** | The Julian Villa | October 13, 38 BCE (02:30) | Roleplay |
-| **242** | The Julian Villa | October 13, 38 DR (02:30) | Roleplay |
-| **243** | The Julian Villa | October 13, 38 BCE (02:45) | Roleplay |
-| **244** | The Julian Villa | October 14, 38 BCE (03:15) | Roleplay |
-| **245** | The Julian Villa | October 13, 38 DR (03:15) | Roleplay |
-| **246** | The Julian Villa | October 13, 38 DR (03:30) | Roleplay |
-| **247** | The Julian Villa | October 13, 38 (11:30) | Roleplay |
-| **248** | The Julian Villa | October 13, 38 (03:45) | Roleplay |
-| **249** | The Julian Villa | October 13, 38 (03:50) | Roleplay |
-| **250** | The Julian Villa | October 13, 38 (03:55) | Roleplay |
-| **251** | The Julian Villa | October 14, 38 (11:55) | Roleplay |
-| **252** | Rebel Camp | October 15, 38 DR (14:00) | Roleplay |
-| **253** | Rebel Camp | October 15, 38 (14:15) | Roleplay |
-| **254** | Rebel Camp | October 15, 38 DR (14:20) | Roleplay |
-| **255** | Rebel Camp | October 15, 38 (14:20) | Social Challenge |
-| **256** | Rebel Camp | October 15, 38 DR (14:25) | Roleplay |
-| **257** | Rebel Camp | October 15, 38 DR (14:35) | Roleplay |
-| **258** | Rebel Camp | October 15, 38 (14:50) | Social Challenge |
-| **259** | Rebel Camp | October 15, 38 (14:55) | Roleplay |
-| **260** | Rebel Camp | October 15, 38 (14:55) | Roleplay |
-| **261** | Rebel Camp | October 15, 38 (15:05) | Roleplay |
-| **262** | Rebel Camp | October 15, 38 (15:10) | Roleplay |
-| **263** | The Julian Villa | October 15, 38 DR (16:30) | Roleplay |
-| **264** | The Julian Villa | October 15, 38 DR (21:00) | Roleplay |
-| **265** | The Julian Villa | October 15, 38 (21:00) | Roleplay |
-| **266** | The Julian Villa | October 13, 38 (21:15) | Roleplay |
-| **267** | The Julian Villa | October 15, 38 (21:30) | Roleplay |
-| **268** | The Ludus of Batiatus | October 15, 38 (23:30) | Roleplay |
-| **269** | The Ludus of Batiatus | October 15, 38 (23:45) | Roleplay |
-| **270** | The Ludus of Batiatus | October 13, 38 (23:55) | Roleplay |
-| **271** | The Ludus of Batiatus | October 15, 38 (23:50) | Roleplay |
-| **272** | The Ludus of Batiatus | October 15, 38 (23:55) | Roleplay |
-| **273** | The Julian Villa | October 13, 38 (03:45) | Roleplay |
-| **274** | The Julian Villa | October 13, 38 (03:45) | Roleplay |
-| **275** | The Julian Townhouse | October 27, 38 (21:00) | Roleplay |
-| **276** | Northern Auxiliary Camp (Vesuvius Perimeter) | October 28, 38 DR (06:15) | Roleplay |
-| **277** | The Northern Auxiliary Camp | October 28, 38 Imperial Era (06:15) | Roleplay |
-| **278** | The Northern Auxiliary Camp | October 28, 38 (06:15) | Roleplay |
-| **279** | The Northern Auxiliary Camp | October 28, 38 AD (06:20) | Roleplay |
-| **280** | The Northern Auxiliary Camp / Maedi Frontier | October 28, 38 (06:45) | Roleplay |
-| **281** | The Maedi Frontier / High King's Hold | October 28, 38 (06:50) | Roleplay |
-| **282** | The Maedi Frontier / High King's Hold | October 28, 38 (07:15) | Roleplay |
-| **283** | The Maedi Frontier / High King's Hold | October 28, 38 (07:15) | Roleplay |
-| **284** | The Maedi Frontier / High King's Hold | October 28, 38 DR (07:30) | Roleplay |
-| **285** | The Maedi Frontier / Smoke-Choked Valley | October 28, 38 (09:30) | Roleplay |
-| **286** | The Maedi Frontier / High King's Hold | October 28, 38 (12:30) | Roleplay |
-| **287** | The Maedi Frontier / High King's Hold | 38 October 28, 12:30:00 | Roleplay |
-| **288** | The Maedi Frontier / High King's Hold | Day 28, 38 October (12:30) | Roleplay |
-| **289** | The Maedi Frontier / High King's Hold | 38 Oct 29, 12:30:00 | Roleplay |
-| **290** | The Maedi Frontier / High King's Hold | October 28, 38 DR (12:30) | Roleplay |
-| **291** | The Maedi Frontier / High King's Hold | 28, 38 October (12:30) | Roleplay |
-| **292** | The Maedi Frontier / High King's Hold | 38 October 28, 12:30:00 | Roleplay |
-| **293** | High King's Hold | October 28, 38 DR (20:30) | Boss Surrender |
-| **294** | High King's Hold | October 28, 38 DR (20:45) | Roleplay |
-| **295** | High King's Hold | October 28, 38 DR (20:35) | Roleplay |
-| **296** | High King's Hold | October 28, 38 DR (20:30) | Roleplay |
-| **297** | High King's Hold | November 12, 38 (09:30) | Roleplay |
-| **298** | High King's Hold | November 12, 38 (09:30) | Boss Surrender |
-| **299** | High King's Hold | November 12, 38 DR (09:35) | Roleplay |
-| **300** | Maedi Frontier / Road to Rome | November 12, 38 (10:00) | Roleplay |
-| **301** | Maedi Frontier / Road to Rome | November 12, 38 DR (10:00) | Roleplay |
-| **302** | Rome | November 14, 38 (13:30) | Roleplay |
-| **303** | Rome | November 14, 38 CE (14:00) | Boss Surrender |
-| **304** | Rome | November 14, 38 BCE (14:00) | Roleplay |
-| **305** | Rome | November 14, 38 (14:00) | Roleplay |
-| **306** | Rome | November 14, 38 (14:00) | Roleplay |
-| **307** | Rome | November 14, 38 (14:05) | Roleplay |
-| **308** | Rome | November 14, 38 (14:05) | Roleplay |
-| **309** | Rome | November 14, 38 (14:15) | Roleplay |
-| **310** | Rome | November 15, 38 BCE (14:30) | Roleplay |
-| **311** | Rome | November 15, 38 (14:30) | Roleplay |
-| **312** | Rome | November 15, 38 (15:00) | Roleplay |
-| **313** | Rome | November 15, 38 BCE (16:00) | Roleplay |
-| **314** | Rome | November 15, 38 (16:00) | Roleplay |
-| **315** | The Julian Townhouse | 38 November 15, 21:00:00 | Roleplay |
-| **316** | The Palatine Hill | November 15, 38 DR (22:15) | Roleplay |
-| **317** | The Palatine Hill | November 15, 38 BCE (23:00) | Roleplay |
-| **318** | Domus Solis | November 16, 38 DR (23:00) | Roleplay |
-| **319** | Domus Solis | November 15, 38 BCE (23:05) | Roleplay |
-| **320** | Domus Solis | November 16, 38 BCE (23:20) | Roleplay |
-| **321** | Domus Solis | November 17, 38 DR (01:15) | Roleplay |
-| **322** | Domus Solis | November 17, 38 DR (23:45) | Roleplay |
-| **323** | Domus Solis | November 17, 38 DR (01:30) | Roleplay |
-| **324** | Domus Solis | November 17, 38 BCE (23:20) | Roleplay |
-| **325** | Domus Solis | November 17, 38 DR (01:20) | Roleplay |
-| **326** | Domus Solis | 38 November 17, 01:20:00 | Roleplay |
-| **327** | Domus Solis | November 17, 38 (01:40) | Roleplay |
-| **328** | Domus Solis | November 17, 38 DR (01:50) | Roleplay |
-| **329** | Domus Solis | November 17, 38 DR (01:50) | Roleplay |
-| **330** | Domus Solis | November 17, 38 DR (01:55) | Roleplay |
-| **331** | Domus Solis | November 18, 38 (08:00) | Roleplay |
-| **332** | Domus Solis | November 18, 38 DR (08:30) | Roleplay |
-| **333** | Puteoli (Southern Shipping Hub) | 38 November 19, 09:15:00 | Roleplay |
-| **334** | Puteoli (Southern Shipping Hub) | November 20, 38 DR (09:15) | Roleplay |
-| **335** | Puteoli (House of Vindex Terrace) | 38 November 20, 09:20:00 | Roleplay |
-| **336** | The Domus Solis | February 18, 37 BCE (14:00) | Roleplay |
-| **337** | The Domus Solis | February 18, 37 DR (14:05) | Roleplay |
-| **338** | The Domus Solis | 18, 37 February (14:05) | Roleplay |
-| **339** | Parthian Frontier - Satrap Regional Estates | 19, 37 February (14:05) | Roleplay |
-| **340** | Parthian Frontier - Satrap Regional Estates | February 20, 37 DR (14:05) | Boss Surrender |
-| **341** | Parthian Frontier - Satrap Regional Estates | February 20, 37 (14:15) | Roleplay |
-| **342** | Parthian Frontier - Satrap Regional Estates | 20, 37 February (14:15) | Roleplay |
-| **343** | Parthian Heartland - Road to Ctesiphon | 20 Day, 37 February (15:30) | Roleplay |
-| **344** | Gates of Ctesiphon | 21, 37 February (15:30) | Roleplay |
-| **345** | Gates of Ctesiphon | February 21, 37 DR (15:45) | Boss Surrender |
-| **346** | Gates of Ctesiphon | February 21, 37 (15:45) | Roleplay |
-| **347** | Ctesiphon | February 21, 37 DR (15:55) | Boss Surrender |
-| **348** | Royal Palace | February 22, 37 DR (14:00) | Roleplay |
-| **349** | Royal Palace | February 22, 37 DR (14:00) | Roleplay |
-| **350** | Royal Palace | March 1, 37 DR (14:00) | Roleplay |
-| **351** | Royal Palace | 37 March 1, 14:00:00 | Roleplay |
-| **352** | The Via Sacra | April 15, 37 DR (10:00) | Roleplay |
-| **353** | The Via Sacra | 37 April 15, 10:00:00 | Roleplay |
-| **354** | The Via Sacra | 37 April 15, 10:00:00 | Roleplay |
-| **355** | The Via Sacra | 37 April 15, 10:15:00 | Roleplay |
-| **356** | The Via Sacra | 15, 37 April (10:15) | Roleplay |
-| **357** | The Via Sacra | 15, 37 April (10:15) | Roleplay |
-| **358** | The Domus Aurea | April 15, 37 DR (12:00) | Roleplay |
-| **359** | The Domus Aurea | April 15, 37 DR (12:00) | Roleplay |
-| **360** | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
-| **361** | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
-| **362** | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
-| **363** | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
-| **364** | The Domus Aurea | 37 April 15, 12:00:00 | Roleplay |
-| **365** | The Domus Aurea | 37 April 15, 12:00:00 | Roleplay |
-| **366** | The Domus Aurea | April 15, 37 DR (12:00) | Roleplay |
-| **367** | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
-| **368** | The Domus Aurea | April 15, 37 BCE (12:15) | Roleplay |
-| **369** | The Imperial Solar | April 15, 37 (12:45) | Roleplay |
-| **370** | The Imperial Solar | April 15, 35 BCE (12:45) | Roleplay |
-| **371** | The Domus Aurea | April 15, 35 BCE (12:45) | Roleplay |
-| **372** | The Domus Solis | April 15, 35 BCE (13:30) | Roleplay |
-| **373** | The Domus Solis | April 15, 35 DR (13:30) | Roleplay |
-| **374** | The Domus Solis | April 15, 35 DR (13:40) | Roleplay |
-| **375** | The Villa of Crassus | April 15, 35 BCE (15:40) | Roleplay |
-| **376** | The Villa of Crassus | April 15, 35 BCE (15:40) | Roleplay |
-| **377** | The Villa of Crassus | 35 April 15, 15:40:00 | Social Challenge |
-| **378** | The Villa of Crassus | 35 April 15, 15:40:00 | Roleplay |
-| **379** | The Villa of Crassus | April 15, 35 BCE (15:50) | Social Challenge |
-| **380** | The Villa of Crassus | April 15, 35 BCE (16:00) | Roleplay |
-| **381** | The Villa of Crassus | 15, 35 April (16:05) | Boss Surrender |
-| **382** | Domus Solis (Sub-Vaults) | April 15, 35 BCE (16:30) | Roleplay |
-| **383** | Domus Solis (Sub-Vaults) | April 15, 35 BCE (17:30) | Roleplay |
-| **384** | Domus Solis (Sub-Vaults) | 35 April 15, 17:30:00 | Roleplay |
-| **385** | Domus Solis (Sub-Vaults) | 16, 35 April (17:30) | Roleplay |
-| **386** | Domus Solis (Sub-Vaults) | April 17, 35 BCE (17:30) | Roleplay |
-| **387** | Domus Solis (Sub-Vaults) | April 16, 35 DR (17:30) | Roleplay |
-| **388** | Domus Solis (Sub-Vaults) | April 16, 35 BCE (17:35) | Roleplay |
-| **389** | Domus Solis (Sub-Vaults) | April 16, 35 DR (17:35) | Boss Surrender |
-| **390** | Domus Solis (Sub-Vaults) | April 17, 35 DR (17:35) | Roleplay |
-| **391** | Domus Solis (Sub-Vaults) | April 19, 35 (17:35) | Roleplay |
-| **392** | Domus Solis (Sub-Vaults) | April 20, 35 AD (17:40) | Roleplay |
-| **393** | Domus Solis (Sub-Vaults) | April 21, 35 (17:40) | Roleplay |
-| **394** | Domus Solis (Sub-Vaults) | April 21, 35 BCE (17:40) | Roleplay |
-| **395** | Domus Solis (Sub-Vaults) | April 21, 35 BCE (17:40) | Roleplay |
-| **396** | Domus Solis (Sub-Vaults) | April 22, 35 BCE (01:40) | Roleplay |
-| **397** | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:40) | Roleplay |
-| **398** | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:40) | Roleplay |
-| **399** | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:50) | Roleplay |
-| **400** | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:40) | Roleplay |
-| **401** | Domus Solis (Imperial Sanctuary) | April 22, 37 (10:40) | Roleplay |
-| **402** | Domus Solis (Sub-Vaults) | April 22, 37 DR (10:40) | Roleplay |
-| **403** | Domus Solis (Sub-Vaults) | April 24, 37 BCE (10:40) | Roleplay |
-| **404** | Domus Solis (Sub-Vaults) | April 24, 37 DR (10:40) | Roleplay |
-| **405** | Domus Solis (Sub-Vaults) | April 24, 35 BCE (10:40) | Roleplay |
-| **406** | Domus Solis (Sub-Vaults) | April 26, 35 BCE (10:40) | Roleplay |
-| **407** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:40) | Roleplay |
-| **408** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Social Challenge |
-| **409** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
-| **410** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
-| **411** | Domus Solis (Sub-Vaults) | May 12, 35 BCE (10:55) | Roleplay |
-| **412** | Domus Solis (Sub-Vaults) | May 12, 35 BCE (11:10) | Roleplay |
-| **413** | Domus Solis (Sub-Vaults) | May 12, 35 BCE (11:10) | Social Challenge |
-| **414** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (11:10) | Roleplay |
-| **415** | Domus Solis (Sub-Vaults) | May 14, 35 BCE (11:10) | Roleplay |
-| **416** | Domus Solis (Sub-Vaults) | May 30, 37 DR (11:10) | Roleplay |
-| **417** | Domus Solis (Sub-Vaults) | May 30, 35 BCE (11:10) | Roleplay |
-| **418** | Domus Solis (Sub-Vaults) | May 30, 37 (11:25) | Roleplay |
-| **419** | Domus Solis (Sub-Vaults) | May 31, 37 (11:25) | Roleplay |
-| **420** | Domus Solis (Sub-Vaults) | April 29, 35 (10:55) | Roleplay |
-| **421** | Domus Solis (Sub-Vaults) | April 30, 35 BCE (10:55) | Roleplay |
-| **422** | Domus Solis (Sub-Vaults) | May 2, 35 BCE (10:55) | Roleplay |
-| **423** | Domus Solis (Sub-Vaults) | May 3, 35 BCE (10:55) | Roleplay |
-| **424** | Domus Solis (Sub-Vaults) | May 3, 35 BCE (10:55) | Roleplay |
-| **425** | Domus Solis (Sub-Vaults) | May 3, 35 BCE (10:55) | Roleplay |
-| **426** | Domus Solis (Sub-Vaults) | May 5, 35 BCE (10:55) | Roleplay |
-| **427** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (10:55) | Roleplay |
-| **428** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (11:55) | Roleplay |
-| **429** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (11:55) | Roleplay |
-| **430** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
-| **431** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
-| **432** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
-| **433** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
-| **434** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
-| **435** | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
-| **436** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
-| **437** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (12:10) | Roleplay |
-| **438** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
-| **439** | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
-| **440** | Domus Solis (Imperial Solar) | May 6, 35 BCE (12:15) | Roleplay |
-| **441** | Domus Solis (Imperial Solar) | May 6, 35 BCE (12:15) | Roleplay |
-| **442** | Domus Solis (Imperial Solar) | April 28, 35 BCE (10:55) | Roleplay |
-| **443** | Domus Solis (Imperial Solar) | May 6, 35 (12:15) | Social Challenge |
-| **444** | Domus Solis (Imperial Solar) | May 6, 35 (12:20) | Roleplay |
-| **445** | Domus Solis (Imperial Solar) | May 6, 35 DR (12:20) | Roleplay |
-| **446** | Domus Solis (Imperial Solar) | May 6, 35 BCE (12:20) | Roleplay |
-| **447** | The Imperial Solar / Rome (City-wide Projection) | May 6, 35 BCE (13:20) | Boss Surrender |
-| **448** | The Imperial Solar | May 6, 37 (13:20) | Roleplay |
-| **449** | Domus Aurea | May 6, 37 (13:20) | Roleplay |
-| **450** | Domus Aurea | May 6, 37 (13:20) | Roleplay |
-| **451** | Domus Aurea | May 6, 37 (13:20) | Roleplay |
-| **452** | Domus Aurea | May 6, 37 (13:20) | Roleplay |
-| **453** | Domus Aurea | May 6, 41 DR (13:20) | Roleplay |
-| **454** | Temple of Venus Genetrix | May 6, 37 DR (15:45) | Roleplay |
-| **455** | Temple of Venus Genetrix | May 6, 37 (15:50) | Boss Surrender |
-| **456** | Temple of Venus Genetrix | May 6, 37 (16:30) | Roleplay |
-| **457** | Great Atrium | May 13, 37 (14:00) | Roleplay |
-| **458** | Great Atrium | May 20, 37 DR (14:00) | Roleplay |
-| **459** | Great Atrium | May 27, 37 (14:00) | Roleplay |
-| **460** | Great Atrium | May 27, 37 (14:15) | Roleplay |
-| **461** | Great Atrium | May 27, 35 BCE (14:15) | Boss Surrender |
-| **462** | Great Atrium | May 27, 35 BCE (14:15) | Roleplay |
-| **463** | Great Atrium | May 27, 35 (14:15) | Roleplay |
-| **464** | Great Atrium | May 27, 35 BCE (14:15) | Boss Surrender |
-| **465** | Great Atrium | May 27, 35 BCE (14:20) | Roleplay |
-| **466** | Great Atrium | May 27, 35 BCE (14:20) | Roleplay |
-| **467** | Great Atrium | May 27, 35 DR (14:25) | Roleplay |
-| **468** | Great Atrium | May 27, 35 DR (14:30) | Roleplay |
-| **469** | Great Atrium | May 6, 35 BCE (14:30) | Boss Surrender |
-| **470** | Great Atrium | May 6, 35 DR (14:45) | Boss Surrender |
-| **471** | The Great Atrium | May 6, 35 DR (18:00) | Boss Surrender |
-| **472** | Great Atrium | May 6, 35 BCE (18:00) | Roleplay |
-| **473** | Elysium Iulium (Pavilion of Eternal Bloom) | May 6, 35 (21:00) | Boss Surrender |
-| **474** | Elysium Iulium (Pavilion of Eternal Bloom) | May 6, 35 DR (21:15) | Roleplay |
-| **475** | Unknown | May 6, 35 DR (21:15) | Roleplay |
-| **476** | Elysium Iulium (Pavilion of Eternal Bloom) | May 6, 35 DR (21:45) | Boss Surrender |
-| **477** | Unknown | May 6, 35 DR (21:45) | Roleplay |
-| **478** | Elysium Iulium (Pavilion of Eternal Bloom) |  | Roleplay |
-| **479** | Elysium Iulium (Pavilion of Eternal Bloom) | May 13, 35 BCE (21:45) | Roleplay |
-| **480** | Elysium Iulium (Pavilion of Eternal Bloom) | May 20, 35 BCE (21:45) | Roleplay |
-| **481** | Elysium Iulium (Pavilion of Eternal Bloom) |  | Roleplay |
-| **482** | Unknown | May 13, 35 DR (21:50) | Roleplay |
-| **483** | Elysium Iulium (Pavilion of Eternal Bloom) |  | Boss Surrender |
-| **484** | Elysium Iulium (Pavilion of Eternal Bloom) | May 13, 35 DR (06:45) | Boss Surrender |
-| **485** | Elysium Iulium (Pavilion of Eternal Bloom) | May 13, 35 (07:15) | Boss Surrender |
-| **486** | Unknown | May 13, 35 DR (07:15) | Roleplay |
-| **487** | Elysium Iulium (Pavilion of Eternal Bloom) |  | Boss Surrender |
-| **488** | Elysium Iulium (Pavilion of Eternal Bloom) | May 20, 35 DR (08:00) | Boss Surrender |
-| **489** | Elysium Iulium (Pavilion of Eternal Bloom) | May 20, 35 DR (08:15) | Boss Surrender |
-| **490** | Elysium Iulium (Pavilion of Eternal Bloom) | May 21, 35 BCE (08:30) | Boss Surrender |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Northern Hispania | March 1, 40 BCE (06:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Northern Hispania | March 1, 40 BCE (06:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Capua | March 5, 40 BCE (14:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Capua | March 5, 40 BCE (14:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Capua | March 5, 40 BCE (14:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Capua | March 5, 40 BCE (14:05) | Roleplay |
+| [**Scene 08**](#scene-8) | Capua | March 5, 40 BCE (14:05) | Roleplay |
+| [**Scene 09**](#scene-9) | Capua | March 5, 40 BCE (14:05) | Roleplay |
+| [**Scene 10**](#scene-10) | Capua | March 5, 40 DR (14:05) | Roleplay |
+| [**Scene 11**](#scene-11) | Capua | March 5, 40 BCE (14:05) | Roleplay |
+| [**Scene 12**](#scene-12) | Capua | March 5, 40 BCE (14:06) | Roleplay |
+| [**Scene 13**](#scene-13) | Capua | March 5, 40 BCE (14:06) | Roleplay |
+| [**Scene 14**](#scene-14) | Capua | March 5, 40 BCE (14:06) | Roleplay |
+| [**Scene 15**](#scene-15) | Capua | March 5, 40 BCE (14:06) | Roleplay |
+| [**Scene 16**](#scene-16) | Capua | March 5, 40 BCE (14:06) | Roleplay |
+| [**Scene 17**](#scene-17) | Capua | March 5, 40 BCE (14:06) | Roleplay |
+| [**Scene 18**](#scene-18) | Capua | March 5, 40 BCE (14:07) | Roleplay |
+| [**Scene 19**](#scene-19) | Capua | March 5, 40 BCE (14:07) | Roleplay |
+| [**Scene 20**](#scene-20) | Capua | March 5, 40 BCE (14:07) | Roleplay |
+| [**Scene 21**](#scene-21) | Capua | March 5, 40 BCE (14:10) | Roleplay |
+| [**Scene 22**](#scene-22) | Capua | March 5, 40 BCE (14:12) | Roleplay |
+| [**Scene 23**](#scene-23) | Capua | March 5, 40 BCE (14:13) | Roleplay |
+| [**Scene 24**](#scene-24) | Capua | March 5, 40 BCE (14:14) | Roleplay |
+| [**Scene 25**](#scene-25) | Capua | March 5, 40 DR (14:15) | Roleplay |
+| [**Scene 26**](#scene-26) | Capua | March 5, 40 BCE (14:15) | Roleplay |
+| [**Scene 27**](#scene-27) | Capua | March 5, 40 BCE (14:15) | Roleplay |
+| [**Scene 28**](#scene-28) | Capua | March 5, 40 BCE (14:15) | Roleplay |
+| [**Scene 29**](#scene-29) | Capua | March 5, 40 BCE (14:15) | Roleplay |
+| [**Scene 30**](#scene-30) | Capua | March 5, 40 BCE (14:15) | Roleplay |
+| [**Scene 31**](#scene-31) | Capua | March 5, 40 BCE (14:15) | Roleplay |
+| [**Scene 32**](#scene-32) | Capua | March 5, 40 BCE (14:16) | Roleplay |
+| [**Scene 33**](#scene-33) | Capua | March 5, 40 BCE (14:17) | Roleplay |
+| [**Scene 34**](#scene-34) | Capua | March 5, 40 BCE (14:17) | Social Challenge |
+| [**Scene 35**](#scene-35) | Capua | March 5, 40 BCE (14:20) | Roleplay |
+| [**Scene 36**](#scene-36) | Capua | March 5, 40 DR (14:22) | Roleplay |
+| [**Scene 37**](#scene-37) | Capua | March 5, 40 BCE (14:22) | Roleplay |
+| [**Scene 38**](#scene-38) | Capua | March 5, 40 BCE (14:22) | Roleplay |
+| [**Scene 39**](#scene-39) | Capua | March 5, 40 DR (14:35) | Roleplay |
+| [**Scene 40**](#scene-40) | Capua | March 5, 40 BCE (14:35) | Roleplay |
+| [**Scene 41**](#scene-41) | Capua | March 5, 40 BCE (14:40) | Roleplay |
+| [**Scene 42**](#scene-42) | Capua | March 5, 40 DR (14:45) | Roleplay |
+| [**Scene 43**](#scene-43) | Capua | March 5, 40 BCE (14:50) | Roleplay |
+| [**Scene 44**](#scene-44) | Capua | March 5, 40 DR (14:55) | Roleplay |
+| [**Scene 45**](#scene-45) | Capua | March 5, 40 BCE (15:10) | Roleplay |
+| [**Scene 46**](#scene-46) | Capua | March 5, 40 DR (15:15) | Roleplay |
+| [**Scene 47**](#scene-47) | Capua | March 5, 40 BCE (15:15) | Roleplay |
+| [**Scene 48**](#scene-48) | Capua | March 5, 40 BCE (15:15) | Roleplay |
+| [**Scene 49**](#scene-49) | Capua | March 5, 40 DR (15:30) | Roleplay |
+| [**Scene 50**](#scene-50) | Capua | March 5, 40 BCE (15:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Capua | March 5, 40 BCE (15:35) | Roleplay |
+| [**Scene 52**](#scene-52) | Capua | March 5, 40 BCE (15:35) | Roleplay |
+| [**Scene 53**](#scene-53) | Capua | March 5, 40 BCE (15:45) | Roleplay |
+| [**Scene 54**](#scene-54) | Capua | March 5, 40 BCE (15:45) | Roleplay |
+| [**Scene 55**](#scene-55) | Capua | March 5, 40 BCE (15:45) | Roleplay |
+| [**Scene 56**](#scene-56) | Capua | March 5, 40 BCE (15:55) | Roleplay |
+| [**Scene 57**](#scene-57) | Capua | March 5, 40 BCE (16:15) | Roleplay |
+| [**Scene 58**](#scene-58) | Capua | March 5, 40 DR (16:30) | Roleplay |
+| [**Scene 59**](#scene-59) | Villa of Batiatus (Atrium) | March 5, 40 BCE (16:45) | Roleplay |
+| [**Scene 60**](#scene-60) | Capua | March 5, 40 BCE (17:00) | Roleplay |
+| [**Scene 61**](#scene-61) | Capua | March 5, 40 BCE (17:05) | Roleplay |
+| [**Scene 62**](#scene-62) | Capua | March 5, 40 DR (17:10) | Roleplay |
+| [**Scene 63**](#scene-63) | Capua | March 5, 40 DR (17:15) | Roleplay |
+| [**Scene 64**](#scene-64) | Capua | March 5, 40 DR (19:30) | Roleplay |
+| [**Scene 65**](#scene-65) | Capua | March 5, 40 BCE (21:00) | Roleplay |
+| [**Scene 66**](#scene-66) | Capua | March 5, 40 BCE (21:00) | Boss Surrender |
+| [**Scene 67**](#scene-67) | Capua | March 5, 40 BCE (21:00) | Roleplay |
+| [**Scene 68**](#scene-68) | Capua | March 5, 40 BCE (21:45) | Roleplay |
+| [**Scene 69**](#scene-69) | Capua | March 5, 40 BCE (22:30) | Roleplay |
+| [**Scene 70**](#scene-70) | Capua | March 6, 40 BCE (00:15) | Roleplay |
+| [**Scene 71**](#scene-71) | Capua | March 6, 40 DR (00:30) | Roleplay |
+| [**Scene 72**](#scene-72) | Capua | March 6, 40 DR (06:15) | Roleplay |
+| [**Scene 73**](#scene-73) | Capua | March 6, 40 BCE (06:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Capua | March 6, 40 DR (06:45) | Boss Surrender |
+| [**Scene 75**](#scene-75) | Capua | March 6, 40 BCE (06:45) | Roleplay |
+| [**Scene 76**](#scene-76) | Capua | March 6, 40 BCE (06:45) | Roleplay |
+| [**Scene 77**](#scene-77) | Capua | March 6, 40 BCE (07:00) | Roleplay |
+| [**Scene 78**](#scene-78) | Villa of Licinia (Private Dining Solar) | March 6, 40 BCE (08:30) | Roleplay |
+| [**Scene 79**](#scene-79) | Capua | March 6, 40 BCE (08:35) | Roleplay |
+| [**Scene 80**](#scene-80) | Capua | March 6, 40 DR (08:40) | Roleplay |
+| [**Scene 81**](#scene-81) | Capua | March 6, 40 BCE (08:40) | Roleplay |
+| [**Scene 82**](#scene-82) | Capua | March 6, 40 BCE (08:40) | Roleplay |
+| [**Scene 83**](#scene-83) | Capua | March 6, 40 BCE (08:45) | Roleplay |
+| [**Scene 84**](#scene-84) | Capua | March 6, 40 BCE (08:45) | Roleplay |
+| [**Scene 85**](#scene-85) | Capua | March 6, 40 BCE (09:15) | Roleplay |
+| [**Scene 86**](#scene-86) | Rome | March 8, 40 DR (08:30) | Roleplay |
+| [**Scene 87**](#scene-87) | Rome | March 8, 40 BCE (08:30) | Roleplay |
+| [**Scene 88**](#scene-88) | Rome | March 8, 40 BCE (08:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Rome | March 8, 40 BCE (08:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Rome | March 8, 40 DR (09:15) | Roleplay |
+| [**Scene 91**](#scene-91) | Rome | March 8, 40 BCE (09:20) | Roleplay |
+| [**Scene 92**](#scene-92) | Rome | March 8, 40 BCE (09:35) | Roleplay |
+| [**Scene 93**](#scene-93) | Rome | March 8, 40 DR (09:45) | Roleplay |
+| [**Scene 94**](#scene-94) | Rome | March 8, 40 BCE (10:00) | Roleplay |
+| [**Scene 95**](#scene-95) | Rome | March 8, 40 BCE (10:00) | Roleplay |
+| [**Scene 96**](#scene-96) | Rome | March 8, 40 BCE (10:05) | Roleplay |
+| [**Scene 97**](#scene-97) | Rome | March 8, 40 BCE (10:10) | Roleplay |
+| [**Scene 98**](#scene-98) | Rome | March 8, 40 BCE (10:15) | Roleplay |
+| [**Scene 99**](#scene-99) | Rome | March 8, 40 BCE (10:20) | Roleplay |
+| [**Scene 100**](#scene-100) | Rome | March 8, 40 DR (10:25) | Roleplay |
+| [**Scene 101**](#scene-101) | Northern Hispania | March 20, 40 DR (14:00) | Roleplay |
+| [**Scene 102**](#scene-102) | Northern Hispania | March 20, 40 BCE (14:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Northern Hispania | March 20, 40 DR (14:15) | Roleplay |
+| [**Scene 104**](#scene-104) | Northern Hispania | March 20, 40 BCE (14:15) | Roleplay |
+| [**Scene 105**](#scene-105) | Northern Hispania | March 20, 40 DR (14:30) | Roleplay |
+| [**Scene 106**](#scene-106) | Northern Hispania | March 20, 40 DR (15:30) | Roleplay |
+| [**Scene 107**](#scene-107) | Northern Hispania | March 20, 40 DR (16:30) | Roleplay |
+| [**Scene 108**](#scene-108) | Northern Hispania | March 20, 40 DR (16:45) | Roleplay |
+| [**Scene 109**](#scene-109) | Northern Hispania | March 20, 40 DR (18:45) | Roleplay |
+| [**Scene 110**](#scene-110) | Northern Hispania | March 20, 40 DR (20:00) | Roleplay |
+| [**Scene 111**](#scene-111) | Northern Hispania | March 20, 40 DR (20:30) | Social Challenge |
+| [**Scene 112**](#scene-112) | Northern Hispania | March 20, 40 BCE (20:30) | Roleplay |
+| [**Scene 113**](#scene-113) | Northern Hispania | March 20, 40 BCE (20:35) | Roleplay |
+| [**Scene 114**](#scene-114) | Northern Hispania | March 20, 40 BCE (20:35) | Roleplay |
+| [**Scene 115**](#scene-115) | Northern Hispania | March 20, 40 DR (20:45) | Social Challenge |
+| [**Scene 116**](#scene-116) | Northern Hispania | March 20, 40 DR (21:00) | Boss Surrender |
+| [**Scene 117**](#scene-117) | Northern Hispania | March 20, 40 DR (23:45) | Roleplay |
+| [**Scene 118**](#scene-118) | Northern Hispania | March 20, 40 BCE (23:55) | Roleplay |
+| [**Scene 119**](#scene-119) | The Black Forest | March 21, 40 BCE (00:00) | Boss Surrender |
+| [**Scene 120**](#scene-120) | The Black Forest | March 21, 40 BCE (00:00) | Roleplay |
+| [**Scene 121**](#scene-121) | The Black Forest | March 21, 40 BCE (00:00) | Roleplay |
+| [**Scene 122**](#scene-122) | Camp of Legio IX Hispana | March 24, 40 DR (06:00) | Roleplay |
+| [**Scene 123**](#scene-123) | Camp of Legio IX Hispana | March 24, 40 BCE (06:00) | Roleplay |
+| [**Scene 124**](#scene-124) | Command Tent | March 24, 40 DR (06:15) | Roleplay |
+| [**Scene 125**](#scene-125) | Command Tent | March 24, 40 BCE (06:20) | Social Challenge |
+| [**Scene 126**](#scene-126) | Command Tent | March 24, 40 DR (06:45) | Social Challenge |
+| [**Scene 127**](#scene-127) | Tagus River Perimeter | March 24, 40 DR (07:15) | Roleplay |
+| [**Scene 128**](#scene-128) | The Black Forest | March 24, 40 DR (10:15) | Roleplay |
+| [**Scene 129**](#scene-129) | Legio IX Hispana | June 24, 40 DR (08:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Legio IX Hispana | June 24, 40 BCE (08:00) | Roleplay |
+| [**Scene 131**](#scene-131) | Legio IX Hispana | June 24, 40 BCE (08:00) | Roleplay |
+| [**Scene 132**](#scene-132) | Legio IX Hispana | June 24, 40 DR (08:30) | Boss Surrender |
+| [**Scene 133**](#scene-133) | Rome | July 6, 40 DR (14:00) | Roleplay |
+| [**Scene 134**](#scene-134) | Rome | July 6, 40 DR (14:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Rome | July 6, 40 DR (14:35) | Roleplay |
+| [**Scene 136**](#scene-136) | Rome | July 6, 40 DR (14:40) | Roleplay |
+| [**Scene 137**](#scene-137) | Rome | July 6, 40 DR (14:45) | Roleplay |
+| [**Scene 138**](#scene-138) | Rome | July 6, 40 DR (15:00) | Roleplay |
+| [**Scene 139**](#scene-139) | Rome | July 6, 40 DR (15:15) | Roleplay |
+| [**Scene 140**](#scene-140) | Rome | July 6, 40 DR (15:30) | Roleplay |
+| [**Scene 141**](#scene-141) | Rome | July 6, 40 BCE (15:30) | Roleplay |
+| [**Scene 142**](#scene-142) | Rome | July 6, 40 DR (15:35) | Roleplay |
+| [**Scene 143**](#scene-143) | Rome | July 6, 40 BCE (15:35) | Roleplay |
+| [**Scene 144**](#scene-144) | Rome | July 6, 40 DR (15:40) | Roleplay |
+| [**Scene 145**](#scene-145) | Rome | July 6, 40 DR (16:15) | Roleplay |
+| [**Scene 146**](#scene-146) | Rome | July 7, 40 DR (10:00) | Roleplay |
+| [**Scene 147**](#scene-147) | Rome | July 7, 40 DR (11:15) | Boss Surrender |
+| [**Scene 148**](#scene-148) | Rome | July 7, 40 DR (12:30) | Roleplay |
+| [**Scene 149**](#scene-149) | Rome | July 7, 40 BCE (12:35) | Roleplay |
+| [**Scene 150**](#scene-150) | Rome | July 7, 40 BCE (12:35) | Social Challenge |
+| [**Scene 151**](#scene-151) | Rome | July 7, 40 BCE (12:35) | Roleplay |
+| [**Scene 152**](#scene-152) | Rome | July 7, 40 BCE (12:35) | Roleplay |
+| [**Scene 153**](#scene-153) | Rome | July 7, 40 BCE (12:45) | Roleplay |
+| [**Scene 154**](#scene-154) | Rome | July 7, 40 BCE (12:45) | Roleplay |
+| [**Scene 155**](#scene-155) | Rome | July 7, 40 DR (13:30) | Roleplay |
+| [**Scene 156**](#scene-156) | Rome | July 7, 40 BCE (12:45) | Roleplay |
+| [**Scene 157**](#scene-157) | Rome | July 7, 40 BCE (12:45) | Roleplay |
+| [**Scene 158**](#scene-158) | Rome | July 7, 40 DR (16:45) | Roleplay |
+| [**Scene 159**](#scene-159) | Rome | July 7, 40 BCE (16:45) | Roleplay |
+| [**Scene 160**](#scene-160) | Rome | July 7, 40 DR (18:45) | Roleplay |
+| [**Scene 161**](#scene-161) | Rome | July 7, 40 BCE (18:45) | Roleplay |
+| [**Scene 162**](#scene-162) | Rome | July 7, 40 BCE (18:45) | Roleplay |
+| [**Scene 163**](#scene-163) | Rome | July 7, 40 BCE (18:45) | Roleplay |
+| [**Scene 164**](#scene-164) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 165**](#scene-165) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 166**](#scene-166) | Rome | 7, 38 July (18:45) | Roleplay |
+| [**Scene 167**](#scene-167) | Rome | July 7, 38 Pax Caesara (18:45) | Roleplay |
+| [**Scene 168**](#scene-168) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 169**](#scene-169) | Rome | 38 July 7, 18:45:00 | Roleplay |
+| [**Scene 170**](#scene-170) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 171**](#scene-171) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 172**](#scene-172) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 173**](#scene-173) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 174**](#scene-174) | Rome | Day 7, 38 July (18:45) | Roleplay |
+| [**Scene 175**](#scene-175) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 176**](#scene-176) | Rome | July 7, 38 Pax Caesara (18:45) | Roleplay |
+| [**Scene 177**](#scene-177) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 178**](#scene-178) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 179**](#scene-179) | Rome | July 7, 38 DR (18:45) | Roleplay |
+| [**Scene 180**](#scene-180) | Rome | July 7, 38 BCE (18:45) | Roleplay |
+| [**Scene 181**](#scene-181) | Rome | July 7, 38 BCE (19:15) | Roleplay |
+| [**Scene 182**](#scene-182) | Rome | July 7, 38 DR (19:45) | Roleplay |
+| [**Scene 183**](#scene-183) | Rome | July 7, 38 DR (19:55) | Roleplay |
+| [**Scene 184**](#scene-184) | Rome | July 8, 38 DR (10:00) | Roleplay |
+| [**Scene 185**](#scene-185) | Rome | October 10, 38 DR (10:00) | Roleplay |
+| [**Scene 186**](#scene-186) | Rome | October 10, 38 DR (10:00) | Roleplay |
+| [**Scene 187**](#scene-187) | Capua | October 15, 38 DR (14:00) | Roleplay |
+| [**Scene 188**](#scene-188) | Capua | October 10, 38 BCE (14:00) | Roleplay |
+| [**Scene 189**](#scene-189) | Capua | October 10, 38 DR (14:05) | Roleplay |
+| [**Scene 190**](#scene-190) | Capua | October 10, 38 BCE (14:00) | Social Challenge |
+| [**Scene 191**](#scene-191) | Capua | October 10, 38 Imperial Era (14:05) | Roleplay |
+| [**Scene 192**](#scene-192) | Capua | October 10, 38 BCE (14:05) | Roleplay |
+| [**Scene 193**](#scene-193) | Capua | October 10, 38 BCE (14:15) | Roleplay |
+| [**Scene 194**](#scene-194) | Capua | October 10, 38 DR (14:05) | Roleplay |
+| [**Scene 195**](#scene-195) | Capua | October 10, 38 DR (14:05) | Roleplay |
+| [**Scene 196**](#scene-196) | Capua | October 10, 38 DR (14:05) | Roleplay |
+| [**Scene 197**](#scene-197) | Capua | October 10, 38 DR (14:15) | Roleplay |
+| [**Scene 198**](#scene-198) | Vesuvius | October 10, 38 DR (14:15) | Roleplay |
+| [**Scene 199**](#scene-199) | Vesuvius | October 10, 38 DR (14:15) | Roleplay |
+| [**Scene 200**](#scene-200) | Capua | October 10, 38 BCE (14:15) | Roleplay |
+| [**Scene 201**](#scene-201) | Capua | October 10, 38 DR (14:15) | Roleplay |
+| [**Scene 202**](#scene-202) | Capua | October 10, 38 DR (14:15) | Roleplay |
+| [**Scene 203**](#scene-203) | Capua | October 10, 38 DR (14:15) | Roleplay |
+| [**Scene 204**](#scene-204) | Capua | October 10, 38 DR (14:18) | Roleplay |
+| [**Scene 205**](#scene-205) | Capua | October 10, 38 DR (14:20) | Roleplay |
+| [**Scene 206**](#scene-206) | Capua | October 10, 38 DR (14:22) | Social Challenge |
+| [**Scene 207**](#scene-207) | Capua | October 10, 38 DR (14:25) | Roleplay |
+| [**Scene 208**](#scene-208) | Capua | October 10, 38 DR (14:25) | Roleplay |
+| [**Scene 209**](#scene-209) | Capua | October 10, 38 BCE (14:30) | Roleplay |
+| [**Scene 210**](#scene-210) | Capua | October 10, 38 DR (14:35) | Boss Surrender |
+| [**Scene 211**](#scene-211) | Capua | October 10, 38 DR (14:45) | Roleplay |
+| [**Scene 212**](#scene-212) | Capua | October 10, 38 BCE (15:00) | Roleplay |
+| [**Scene 213**](#scene-213) | Capua | October 10, 38 BCE (20:30) | Roleplay |
+| [**Scene 214**](#scene-214) | Capua | October 10, 38 BCE (21:15) | Roleplay |
+| [**Scene 215**](#scene-215) | Capua | October 10, 38 BCE (21:30) | Roleplay |
+| [**Scene 216**](#scene-216) | Capua | October 10, 38 DR (21:30) | Roleplay |
+| [**Scene 217**](#scene-217) | Capua | October 10, 38 BCE (21:30) | Roleplay |
+| [**Scene 218**](#scene-218) | Capua | October 10, 38 DR (21:30) | Roleplay |
+| [**Scene 219**](#scene-219) | Capua | October 10, 38 BCE (21:45) | Social Challenge |
+| [**Scene 220**](#scene-220) | Capua | October 10, 38 DR (21:45) | Roleplay |
+| [**Scene 221**](#scene-221) | Capua | October 10, 38 BCE (21:45) | Roleplay |
+| [**Scene 222**](#scene-222) | Capua | October 10, Year 38 (21:45) | Roleplay |
+| [**Scene 223**](#scene-223) | Capua | October 10, 38 BCE (22:15) | Roleplay |
+| [**Scene 224**](#scene-224) | Capua | October 10, 38 DR (22:30) | Social Challenge |
+| [**Scene 225**](#scene-225) | Capua | October 10, 38 DR (22:15) | Roleplay |
+| [**Scene 226**](#scene-226) | Capua | October 10, 38 DR (22:45) | Boss Surrender |
+| [**Scene 227**](#scene-227) | Capua | October 10, 38 DR (22:45) | Boss Surrender |
+| [**Scene 228**](#scene-228) | Capua | October 10, 38 BCE (22:50) | Roleplay |
+| [**Scene 229**](#scene-229) | Capua | October 10, 38 BCE (22:55) | Boss Surrender |
+| [**Scene 230**](#scene-230) | Capua | October 10, 38 DR (23:05) | Boss Surrender |
+| [**Scene 231**](#scene-231) | Capua | October 10, 38 BCE (23:15) | Roleplay |
+| [**Scene 232**](#scene-232) | Capua | October 10, 38 BCE (23:25) | Boss Surrender |
+| [**Scene 233**](#scene-233) | Capua | October 10, 38 DR (23:45) | Roleplay |
+| [**Scene 234**](#scene-234) | Capua | October 10, 38 DR (23:50) | Boss Surrender |
+| [**Scene 235**](#scene-235) | Capua | October 10, 38 DR (23:55) | Roleplay |
+| [**Scene 236**](#scene-236) | Capua | October 10, 38 BCE (00:30) | Roleplay |
+| [**Scene 237**](#scene-237) | Capua | October 10, 38 DR (00:30) | Roleplay |
+| [**Scene 238**](#scene-238) | Capua | October 10, 38 BCE (00:45) | Roleplay |
+| [**Scene 239**](#scene-239) | Capua | October 11, 38 DR (01:15) | Roleplay |
+| [**Scene 240**](#scene-240) | Capua | October 12, 38 BCE (01:45) | Roleplay |
+| [**Scene 241**](#scene-241) | The Julian Villa | October 13, 38 BCE (02:30) | Roleplay |
+| [**Scene 242**](#scene-242) | The Julian Villa | October 13, 38 DR (02:30) | Roleplay |
+| [**Scene 243**](#scene-243) | The Julian Villa | October 13, 38 BCE (02:45) | Roleplay |
+| [**Scene 244**](#scene-244) | The Julian Villa | October 14, 38 BCE (03:15) | Roleplay |
+| [**Scene 245**](#scene-245) | The Julian Villa | October 13, 38 DR (03:15) | Roleplay |
+| [**Scene 246**](#scene-246) | The Julian Villa | October 13, 38 DR (03:30) | Roleplay |
+| [**Scene 247**](#scene-247) | The Julian Villa | October 13, 38 (11:30) | Roleplay |
+| [**Scene 248**](#scene-248) | The Julian Villa | October 13, 38 (03:45) | Roleplay |
+| [**Scene 249**](#scene-249) | The Julian Villa | October 13, 38 (03:50) | Roleplay |
+| [**Scene 250**](#scene-250) | The Julian Villa | October 13, 38 (03:55) | Roleplay |
+| [**Scene 251**](#scene-251) | The Julian Villa | October 14, 38 (11:55) | Roleplay |
+| [**Scene 252**](#scene-252) | Rebel Camp | October 15, 38 DR (14:00) | Roleplay |
+| [**Scene 253**](#scene-253) | Rebel Camp | October 15, 38 (14:15) | Roleplay |
+| [**Scene 254**](#scene-254) | Rebel Camp | October 15, 38 DR (14:20) | Roleplay |
+| [**Scene 255**](#scene-255) | Rebel Camp | October 15, 38 (14:20) | Social Challenge |
+| [**Scene 256**](#scene-256) | Rebel Camp | October 15, 38 DR (14:25) | Roleplay |
+| [**Scene 257**](#scene-257) | Rebel Camp | October 15, 38 DR (14:35) | Roleplay |
+| [**Scene 258**](#scene-258) | Rebel Camp | October 15, 38 (14:50) | Social Challenge |
+| [**Scene 259**](#scene-259) | Rebel Camp | October 15, 38 (14:55) | Roleplay |
+| [**Scene 260**](#scene-260) | Rebel Camp | October 15, 38 (14:55) | Roleplay |
+| [**Scene 261**](#scene-261) | Rebel Camp | October 15, 38 (15:05) | Roleplay |
+| [**Scene 262**](#scene-262) | Rebel Camp | October 15, 38 (15:10) | Roleplay |
+| [**Scene 263**](#scene-263) | The Julian Villa | October 15, 38 DR (16:30) | Roleplay |
+| [**Scene 264**](#scene-264) | The Julian Villa | October 15, 38 DR (21:00) | Roleplay |
+| [**Scene 265**](#scene-265) | The Julian Villa | October 15, 38 (21:00) | Roleplay |
+| [**Scene 266**](#scene-266) | The Julian Villa | October 13, 38 (21:15) | Roleplay |
+| [**Scene 267**](#scene-267) | The Julian Villa | October 15, 38 (21:30) | Roleplay |
+| [**Scene 268**](#scene-268) | The Ludus of Batiatus | October 15, 38 (23:30) | Roleplay |
+| [**Scene 269**](#scene-269) | The Ludus of Batiatus | October 15, 38 (23:45) | Roleplay |
+| [**Scene 270**](#scene-270) | The Ludus of Batiatus | October 13, 38 (23:55) | Roleplay |
+| [**Scene 271**](#scene-271) | The Ludus of Batiatus | October 15, 38 (23:50) | Roleplay |
+| [**Scene 272**](#scene-272) | The Ludus of Batiatus | October 15, 38 (23:55) | Roleplay |
+| [**Scene 273**](#scene-273) | The Julian Villa | October 13, 38 (03:45) | Roleplay |
+| [**Scene 274**](#scene-274) | The Julian Villa | October 13, 38 (03:45) | Roleplay |
+| [**Scene 275**](#scene-275) | The Julian Townhouse | October 27, 38 (21:00) | Roleplay |
+| [**Scene 276**](#scene-276) | Northern Auxiliary Camp (Vesuvius Perimeter) | October 28, 38 DR (06:15) | Roleplay |
+| [**Scene 277**](#scene-277) | The Northern Auxiliary Camp | October 28, 38 Imperial Era (06:15) | Roleplay |
+| [**Scene 278**](#scene-278) | The Northern Auxiliary Camp | October 28, 38 (06:15) | Roleplay |
+| [**Scene 279**](#scene-279) | The Northern Auxiliary Camp | October 28, 38 AD (06:20) | Roleplay |
+| [**Scene 280**](#scene-280) | The Northern Auxiliary Camp / Maedi Frontier | October 28, 38 (06:45) | Roleplay |
+| [**Scene 281**](#scene-281) | The Maedi Frontier / High King's Hold | October 28, 38 (06:50) | Roleplay |
+| [**Scene 282**](#scene-282) | The Maedi Frontier / High King's Hold | October 28, 38 (07:15) | Roleplay |
+| [**Scene 283**](#scene-283) | The Maedi Frontier / High King's Hold | October 28, 38 (07:15) | Roleplay |
+| [**Scene 284**](#scene-284) | The Maedi Frontier / High King's Hold | October 28, 38 DR (07:30) | Roleplay |
+| [**Scene 285**](#scene-285) | The Maedi Frontier / Smoke-Choked Valley | October 28, 38 (09:30) | Roleplay |
+| [**Scene 286**](#scene-286) | The Maedi Frontier / High King's Hold | October 28, 38 (12:30) | Roleplay |
+| [**Scene 287**](#scene-287) | The Maedi Frontier / High King's Hold | 38 October 28, 12:30:00 | Roleplay |
+| [**Scene 288**](#scene-288) | The Maedi Frontier / High King's Hold | Day 28, 38 October (12:30) | Roleplay |
+| [**Scene 289**](#scene-289) | The Maedi Frontier / High King's Hold | 38 Oct 29, 12:30:00 | Roleplay |
+| [**Scene 290**](#scene-290) | The Maedi Frontier / High King's Hold | October 28, 38 DR (12:30) | Roleplay |
+| [**Scene 291**](#scene-291) | The Maedi Frontier / High King's Hold | 28, 38 October (12:30) | Roleplay |
+| [**Scene 292**](#scene-292) | The Maedi Frontier / High King's Hold | 38 October 28, 12:30:00 | Roleplay |
+| [**Scene 293**](#scene-293) | High King's Hold | October 28, 38 DR (20:30) | Boss Surrender |
+| [**Scene 294**](#scene-294) | High King's Hold | October 28, 38 DR (20:45) | Roleplay |
+| [**Scene 295**](#scene-295) | High King's Hold | October 28, 38 DR (20:35) | Roleplay |
+| [**Scene 296**](#scene-296) | High King's Hold | October 28, 38 DR (20:30) | Roleplay |
+| [**Scene 297**](#scene-297) | High King's Hold | November 12, 38 (09:30) | Roleplay |
+| [**Scene 298**](#scene-298) | High King's Hold | November 12, 38 (09:30) | Boss Surrender |
+| [**Scene 299**](#scene-299) | High King's Hold | November 12, 38 DR (09:35) | Roleplay |
+| [**Scene 300**](#scene-300) | Maedi Frontier / Road to Rome | November 12, 38 (10:00) | Roleplay |
+| [**Scene 301**](#scene-301) | Maedi Frontier / Road to Rome | November 12, 38 DR (10:00) | Roleplay |
+| [**Scene 302**](#scene-302) | Rome | November 14, 38 (13:30) | Roleplay |
+| [**Scene 303**](#scene-303) | Rome | November 14, 38 CE (14:00) | Boss Surrender |
+| [**Scene 304**](#scene-304) | Rome | November 14, 38 BCE (14:00) | Roleplay |
+| [**Scene 305**](#scene-305) | Rome | November 14, 38 (14:00) | Roleplay |
+| [**Scene 306**](#scene-306) | Rome | November 14, 38 (14:00) | Roleplay |
+| [**Scene 307**](#scene-307) | Rome | November 14, 38 (14:05) | Roleplay |
+| [**Scene 308**](#scene-308) | Rome | November 14, 38 (14:05) | Roleplay |
+| [**Scene 309**](#scene-309) | Rome | November 14, 38 (14:15) | Roleplay |
+| [**Scene 310**](#scene-310) | Rome | November 15, 38 BCE (14:30) | Roleplay |
+| [**Scene 311**](#scene-311) | Rome | November 15, 38 (14:30) | Roleplay |
+| [**Scene 312**](#scene-312) | Rome | November 15, 38 (15:00) | Roleplay |
+| [**Scene 313**](#scene-313) | Rome | November 15, 38 BCE (16:00) | Roleplay |
+| [**Scene 314**](#scene-314) | Rome | November 15, 38 (16:00) | Roleplay |
+| [**Scene 315**](#scene-315) | The Julian Townhouse | 38 November 15, 21:00:00 | Roleplay |
+| [**Scene 316**](#scene-316) | The Palatine Hill | November 15, 38 DR (22:15) | Roleplay |
+| [**Scene 317**](#scene-317) | The Palatine Hill | November 15, 38 BCE (23:00) | Roleplay |
+| [**Scene 318**](#scene-318) | Domus Solis | November 16, 38 DR (23:00) | Roleplay |
+| [**Scene 319**](#scene-319) | Domus Solis | November 15, 38 BCE (23:05) | Roleplay |
+| [**Scene 320**](#scene-320) | Domus Solis | November 16, 38 BCE (23:20) | Roleplay |
+| [**Scene 321**](#scene-321) | Domus Solis | November 17, 38 DR (01:15) | Roleplay |
+| [**Scene 322**](#scene-322) | Domus Solis | November 17, 38 DR (23:45) | Roleplay |
+| [**Scene 323**](#scene-323) | Domus Solis | November 17, 38 DR (01:30) | Roleplay |
+| [**Scene 324**](#scene-324) | Domus Solis | November 17, 38 BCE (23:20) | Roleplay |
+| [**Scene 325**](#scene-325) | Domus Solis | November 17, 38 DR (01:20) | Roleplay |
+| [**Scene 326**](#scene-326) | Domus Solis | 38 November 17, 01:20:00 | Roleplay |
+| [**Scene 327**](#scene-327) | Domus Solis | November 17, 38 (01:40) | Roleplay |
+| [**Scene 328**](#scene-328) | Domus Solis | November 17, 38 DR (01:50) | Roleplay |
+| [**Scene 329**](#scene-329) | Domus Solis | November 17, 38 DR (01:50) | Roleplay |
+| [**Scene 330**](#scene-330) | Domus Solis | November 17, 38 DR (01:55) | Roleplay |
+| [**Scene 331**](#scene-331) | Domus Solis | November 18, 38 (08:00) | Roleplay |
+| [**Scene 332**](#scene-332) | Domus Solis | November 18, 38 DR (08:30) | Roleplay |
+| [**Scene 333**](#scene-333) | Puteoli (Southern Shipping Hub) | 38 November 19, 09:15:00 | Roleplay |
+| [**Scene 334**](#scene-334) | Puteoli (Southern Shipping Hub) | November 20, 38 DR (09:15) | Roleplay |
+| [**Scene 335**](#scene-335) | Puteoli (House of Vindex Terrace) | 38 November 20, 09:20:00 | Roleplay |
+| [**Scene 336**](#scene-336) | The Domus Solis | February 18, 37 BCE (14:00) | Roleplay |
+| [**Scene 337**](#scene-337) | The Domus Solis | February 18, 37 DR (14:05) | Roleplay |
+| [**Scene 338**](#scene-338) | The Domus Solis | 18, 37 February (14:05) | Roleplay |
+| [**Scene 339**](#scene-339) | Parthian Frontier - Satrap Regional Estates | 19, 37 February (14:05) | Roleplay |
+| [**Scene 340**](#scene-340) | Parthian Frontier - Satrap Regional Estates | February 20, 37 DR (14:05) | Boss Surrender |
+| [**Scene 341**](#scene-341) | Parthian Frontier - Satrap Regional Estates | February 20, 37 (14:15) | Roleplay |
+| [**Scene 342**](#scene-342) | Parthian Frontier - Satrap Regional Estates | 20, 37 February (14:15) | Roleplay |
+| [**Scene 343**](#scene-343) | Parthian Heartland - Road to Ctesiphon | 20 Day, 37 February (15:30) | Roleplay |
+| [**Scene 344**](#scene-344) | Gates of Ctesiphon | 21, 37 February (15:30) | Roleplay |
+| [**Scene 345**](#scene-345) | Gates of Ctesiphon | February 21, 37 DR (15:45) | Boss Surrender |
+| [**Scene 346**](#scene-346) | Gates of Ctesiphon | February 21, 37 (15:45) | Roleplay |
+| [**Scene 347**](#scene-347) | Ctesiphon | February 21, 37 DR (15:55) | Boss Surrender |
+| [**Scene 348**](#scene-348) | Royal Palace | February 22, 37 DR (14:00) | Roleplay |
+| [**Scene 349**](#scene-349) | Royal Palace | February 22, 37 DR (14:00) | Roleplay |
+| [**Scene 350**](#scene-350) | Royal Palace | March 1, 37 DR (14:00) | Roleplay |
+| [**Scene 351**](#scene-351) | Royal Palace | 37 March 1, 14:00:00 | Roleplay |
+| [**Scene 352**](#scene-352) | The Via Sacra | April 15, 37 DR (10:00) | Roleplay |
+| [**Scene 353**](#scene-353) | The Via Sacra | 37 April 15, 10:00:00 | Roleplay |
+| [**Scene 354**](#scene-354) | The Via Sacra | 37 April 15, 10:00:00 | Roleplay |
+| [**Scene 355**](#scene-355) | The Via Sacra | 37 April 15, 10:15:00 | Roleplay |
+| [**Scene 356**](#scene-356) | The Via Sacra | 15, 37 April (10:15) | Roleplay |
+| [**Scene 357**](#scene-357) | The Via Sacra | 15, 37 April (10:15) | Roleplay |
+| [**Scene 358**](#scene-358) | The Domus Aurea | April 15, 37 DR (12:00) | Roleplay |
+| [**Scene 359**](#scene-359) | The Domus Aurea | April 15, 37 DR (12:00) | Roleplay |
+| [**Scene 360**](#scene-360) | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
+| [**Scene 361**](#scene-361) | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
+| [**Scene 362**](#scene-362) | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
+| [**Scene 363**](#scene-363) | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
+| [**Scene 364**](#scene-364) | The Domus Aurea | 37 April 15, 12:00:00 | Roleplay |
+| [**Scene 365**](#scene-365) | The Domus Aurea | 37 April 15, 12:00:00 | Roleplay |
+| [**Scene 366**](#scene-366) | The Domus Aurea | April 15, 37 DR (12:00) | Roleplay |
+| [**Scene 367**](#scene-367) | The Domus Aurea | 15, 37 April (12:00) | Roleplay |
+| [**Scene 368**](#scene-368) | The Domus Aurea | April 15, 37 BCE (12:15) | Roleplay |
+| [**Scene 369**](#scene-369) | The Imperial Solar | April 15, 37 (12:45) | Roleplay |
+| [**Scene 370**](#scene-370) | The Imperial Solar | April 15, 35 BCE (12:45) | Roleplay |
+| [**Scene 371**](#scene-371) | The Domus Aurea | April 15, 35 BCE (12:45) | Roleplay |
+| [**Scene 372**](#scene-372) | The Domus Solis | April 15, 35 BCE (13:30) | Roleplay |
+| [**Scene 373**](#scene-373) | The Domus Solis | April 15, 35 DR (13:30) | Roleplay |
+| [**Scene 374**](#scene-374) | The Domus Solis | April 15, 35 DR (13:40) | Roleplay |
+| [**Scene 375**](#scene-375) | The Villa of Crassus | April 15, 35 BCE (15:40) | Roleplay |
+| [**Scene 376**](#scene-376) | The Villa of Crassus | April 15, 35 BCE (15:40) | Roleplay |
+| [**Scene 377**](#scene-377) | The Villa of Crassus | 35 April 15, 15:40:00 | Social Challenge |
+| [**Scene 378**](#scene-378) | The Villa of Crassus | 35 April 15, 15:40:00 | Roleplay |
+| [**Scene 379**](#scene-379) | The Villa of Crassus | April 15, 35 BCE (15:50) | Social Challenge |
+| [**Scene 380**](#scene-380) | The Villa of Crassus | April 15, 35 BCE (16:00) | Roleplay |
+| [**Scene 381**](#scene-381) | The Villa of Crassus | 15, 35 April (16:05) | Boss Surrender |
+| [**Scene 382**](#scene-382) | Domus Solis (Sub-Vaults) | April 15, 35 BCE (16:30) | Roleplay |
+| [**Scene 383**](#scene-383) | Domus Solis (Sub-Vaults) | April 15, 35 BCE (17:30) | Roleplay |
+| [**Scene 384**](#scene-384) | Domus Solis (Sub-Vaults) | 35 April 15, 17:30:00 | Roleplay |
+| [**Scene 385**](#scene-385) | Domus Solis (Sub-Vaults) | 16, 35 April (17:30) | Roleplay |
+| [**Scene 386**](#scene-386) | Domus Solis (Sub-Vaults) | April 17, 35 BCE (17:30) | Roleplay |
+| [**Scene 387**](#scene-387) | Domus Solis (Sub-Vaults) | April 16, 35 DR (17:30) | Roleplay |
+| [**Scene 388**](#scene-388) | Domus Solis (Sub-Vaults) | April 16, 35 BCE (17:35) | Roleplay |
+| [**Scene 389**](#scene-389) | Domus Solis (Sub-Vaults) | April 16, 35 DR (17:35) | Boss Surrender |
+| [**Scene 390**](#scene-390) | Domus Solis (Sub-Vaults) | April 17, 35 DR (17:35) | Roleplay |
+| [**Scene 391**](#scene-391) | Domus Solis (Sub-Vaults) | April 19, 35 (17:35) | Roleplay |
+| [**Scene 392**](#scene-392) | Domus Solis (Sub-Vaults) | April 20, 35 AD (17:40) | Roleplay |
+| [**Scene 393**](#scene-393) | Domus Solis (Sub-Vaults) | April 21, 35 (17:40) | Roleplay |
+| [**Scene 394**](#scene-394) | Domus Solis (Sub-Vaults) | April 21, 35 BCE (17:40) | Roleplay |
+| [**Scene 395**](#scene-395) | Domus Solis (Sub-Vaults) | April 21, 35 BCE (17:40) | Roleplay |
+| [**Scene 396**](#scene-396) | Domus Solis (Sub-Vaults) | April 22, 35 BCE (01:40) | Roleplay |
+| [**Scene 397**](#scene-397) | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:40) | Roleplay |
+| [**Scene 398**](#scene-398) | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:40) | Roleplay |
+| [**Scene 399**](#scene-399) | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:50) | Roleplay |
+| [**Scene 400**](#scene-400) | Domus Solis (Sub-Vaults) | April 22, 35 BCE (02:40) | Roleplay |
+| [**Scene 401**](#scene-401) | Domus Solis (Imperial Sanctuary) | April 22, 37 (10:40) | Roleplay |
+| [**Scene 402**](#scene-402) | Domus Solis (Sub-Vaults) | April 22, 37 DR (10:40) | Roleplay |
+| [**Scene 403**](#scene-403) | Domus Solis (Sub-Vaults) | April 24, 37 BCE (10:40) | Roleplay |
+| [**Scene 404**](#scene-404) | Domus Solis (Sub-Vaults) | April 24, 37 DR (10:40) | Roleplay |
+| [**Scene 405**](#scene-405) | Domus Solis (Sub-Vaults) | April 24, 35 BCE (10:40) | Roleplay |
+| [**Scene 406**](#scene-406) | Domus Solis (Sub-Vaults) | April 26, 35 BCE (10:40) | Roleplay |
+| [**Scene 407**](#scene-407) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:40) | Roleplay |
+| [**Scene 408**](#scene-408) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Social Challenge |
+| [**Scene 409**](#scene-409) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
+| [**Scene 410**](#scene-410) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
+| [**Scene 411**](#scene-411) | Domus Solis (Sub-Vaults) | May 12, 35 BCE (10:55) | Roleplay |
+| [**Scene 412**](#scene-412) | Domus Solis (Sub-Vaults) | May 12, 35 BCE (11:10) | Roleplay |
+| [**Scene 413**](#scene-413) | Domus Solis (Sub-Vaults) | May 12, 35 BCE (11:10) | Social Challenge |
+| [**Scene 414**](#scene-414) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (11:10) | Roleplay |
+| [**Scene 415**](#scene-415) | Domus Solis (Sub-Vaults) | May 14, 35 BCE (11:10) | Roleplay |
+| [**Scene 416**](#scene-416) | Domus Solis (Sub-Vaults) | May 30, 37 DR (11:10) | Roleplay |
+| [**Scene 417**](#scene-417) | Domus Solis (Sub-Vaults) | May 30, 35 BCE (11:10) | Roleplay |
+| [**Scene 418**](#scene-418) | Domus Solis (Sub-Vaults) | May 30, 37 (11:25) | Roleplay |
+| [**Scene 419**](#scene-419) | Domus Solis (Sub-Vaults) | May 31, 37 (11:25) | Roleplay |
+| [**Scene 420**](#scene-420) | Domus Solis (Sub-Vaults) | April 29, 35 (10:55) | Roleplay |
+| [**Scene 421**](#scene-421) | Domus Solis (Sub-Vaults) | April 30, 35 BCE (10:55) | Roleplay |
+| [**Scene 422**](#scene-422) | Domus Solis (Sub-Vaults) | May 2, 35 BCE (10:55) | Roleplay |
+| [**Scene 423**](#scene-423) | Domus Solis (Sub-Vaults) | May 3, 35 BCE (10:55) | Roleplay |
+| [**Scene 424**](#scene-424) | Domus Solis (Sub-Vaults) | May 3, 35 BCE (10:55) | Roleplay |
+| [**Scene 425**](#scene-425) | Domus Solis (Sub-Vaults) | May 3, 35 BCE (10:55) | Roleplay |
+| [**Scene 426**](#scene-426) | Domus Solis (Sub-Vaults) | May 5, 35 BCE (10:55) | Roleplay |
+| [**Scene 427**](#scene-427) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (10:55) | Roleplay |
+| [**Scene 428**](#scene-428) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (11:55) | Roleplay |
+| [**Scene 429**](#scene-429) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (11:55) | Roleplay |
+| [**Scene 430**](#scene-430) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
+| [**Scene 431**](#scene-431) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
+| [**Scene 432**](#scene-432) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
+| [**Scene 433**](#scene-433) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
+| [**Scene 434**](#scene-434) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
+| [**Scene 435**](#scene-435) | Domus Solis (Sub-Vaults) | May 6, 35 BCE (12:10) | Roleplay |
+| [**Scene 436**](#scene-436) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
+| [**Scene 437**](#scene-437) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (12:10) | Roleplay |
+| [**Scene 438**](#scene-438) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
+| [**Scene 439**](#scene-439) | Domus Solis (Sub-Vaults) | April 28, 35 BCE (10:55) | Roleplay |
+| [**Scene 440**](#scene-440) | Domus Solis (Imperial Solar) | May 6, 35 BCE (12:15) | Roleplay |
+| [**Scene 441**](#scene-441) | Domus Solis (Imperial Solar) | May 6, 35 BCE (12:15) | Roleplay |
+| [**Scene 442**](#scene-442) | Domus Solis (Imperial Solar) | April 28, 35 BCE (10:55) | Roleplay |
+| [**Scene 443**](#scene-443) | Domus Solis (Imperial Solar) | May 6, 35 (12:15) | Social Challenge |
+| [**Scene 444**](#scene-444) | Domus Solis (Imperial Solar) | May 6, 35 (12:20) | Roleplay |
+| [**Scene 445**](#scene-445) | Domus Solis (Imperial Solar) | May 6, 35 DR (12:20) | Roleplay |
+| [**Scene 446**](#scene-446) | Domus Solis (Imperial Solar) | May 6, 35 BCE (12:20) | Roleplay |
+| [**Scene 447**](#scene-447) | The Imperial Solar / Rome (City-wide Projection) | May 6, 35 BCE (13:20) | Boss Surrender |
+| [**Scene 448**](#scene-448) | The Imperial Solar | May 6, 37 (13:20) | Roleplay |
+| [**Scene 449**](#scene-449) | Domus Aurea | May 6, 37 (13:20) | Roleplay |
+| [**Scene 450**](#scene-450) | Domus Aurea | May 6, 37 (13:20) | Roleplay |
+| [**Scene 451**](#scene-451) | Domus Aurea | May 6, 37 (13:20) | Roleplay |
+| [**Scene 452**](#scene-452) | Domus Aurea | May 6, 37 (13:20) | Roleplay |
+| [**Scene 453**](#scene-453) | Domus Aurea | May 6, 41 DR (13:20) | Roleplay |
+| [**Scene 454**](#scene-454) | Temple of Venus Genetrix | May 6, 37 DR (15:45) | Roleplay |
+| [**Scene 455**](#scene-455) | Temple of Venus Genetrix | May 6, 37 (15:50) | Boss Surrender |
+| [**Scene 456**](#scene-456) | Temple of Venus Genetrix | May 6, 37 (16:30) | Roleplay |
+| [**Scene 457**](#scene-457) | Great Atrium | May 13, 37 (14:00) | Roleplay |
+| [**Scene 458**](#scene-458) | Great Atrium | May 20, 37 DR (14:00) | Roleplay |
+| [**Scene 459**](#scene-459) | Great Atrium | May 27, 37 (14:00) | Roleplay |
+| [**Scene 460**](#scene-460) | Great Atrium | May 27, 37 (14:15) | Roleplay |
+| [**Scene 461**](#scene-461) | Great Atrium | May 27, 35 BCE (14:15) | Boss Surrender |
+| [**Scene 462**](#scene-462) | Great Atrium | May 27, 35 BCE (14:15) | Roleplay |
+| [**Scene 463**](#scene-463) | Great Atrium | May 27, 35 (14:15) | Roleplay |
+| [**Scene 464**](#scene-464) | Great Atrium | May 27, 35 BCE (14:15) | Boss Surrender |
+| [**Scene 465**](#scene-465) | Great Atrium | May 27, 35 BCE (14:20) | Roleplay |
+| [**Scene 466**](#scene-466) | Great Atrium | May 27, 35 BCE (14:20) | Roleplay |
+| [**Scene 467**](#scene-467) | Great Atrium | May 27, 35 DR (14:25) | Roleplay |
+| [**Scene 468**](#scene-468) | Great Atrium | May 27, 35 DR (14:30) | Roleplay |
+| [**Scene 469**](#scene-469) | Great Atrium | May 6, 35 BCE (14:30) | Boss Surrender |
+| [**Scene 470**](#scene-470) | Great Atrium | May 6, 35 DR (14:45) | Boss Surrender |
+| [**Scene 471**](#scene-471) | The Great Atrium | May 6, 35 DR (18:00) | Boss Surrender |
+| [**Scene 472**](#scene-472) | Great Atrium | May 6, 35 BCE (18:00) | Roleplay |
+| [**Scene 473**](#scene-473) | Elysium Iulium (Pavilion of Eternal Bloom) | May 6, 35 (21:00) | Boss Surrender |
+| [**Scene 474**](#scene-474) | Elysium Iulium (Pavilion of Eternal Bloom) | May 6, 35 DR (21:15) | Roleplay |
+| [**Scene 475**](#scene-475) | Unknown | May 6, 35 DR (21:15) | Roleplay |
+| [**Scene 476**](#scene-476) | Elysium Iulium (Pavilion of Eternal Bloom) | May 6, 35 DR (21:45) | Boss Surrender |
+| [**Scene 477**](#scene-477) | Unknown | May 6, 35 DR (21:45) | Roleplay |
+| [**Scene 478**](#scene-478) | Elysium Iulium (Pavilion of Eternal Bloom) |  | Roleplay |
+| [**Scene 479**](#scene-479) | Elysium Iulium (Pavilion of Eternal Bloom) | May 13, 35 BCE (21:45) | Roleplay |
+| [**Scene 480**](#scene-480) | Elysium Iulium (Pavilion of Eternal Bloom) | May 20, 35 BCE (21:45) | Roleplay |
+| [**Scene 481**](#scene-481) | Elysium Iulium (Pavilion of Eternal Bloom) |  | Roleplay |
+| [**Scene 482**](#scene-482) | Unknown | May 13, 35 DR (21:50) | Roleplay |
+| [**Scene 483**](#scene-483) | Elysium Iulium (Pavilion of Eternal Bloom) |  | Boss Surrender |
+| [**Scene 484**](#scene-484) | Elysium Iulium (Pavilion of Eternal Bloom) | May 13, 35 DR (06:45) | Boss Surrender |
+| [**Scene 485**](#scene-485) | Elysium Iulium (Pavilion of Eternal Bloom) | May 13, 35 (07:15) | Boss Surrender |
+| [**Scene 486**](#scene-486) | Unknown | May 13, 35 DR (07:15) | Roleplay |
+| [**Scene 487**](#scene-487) | Elysium Iulium (Pavilion of Eternal Bloom) |  | Boss Surrender |
+| [**Scene 488**](#scene-488) | Elysium Iulium (Pavilion of Eternal Bloom) | May 20, 35 DR (08:00) | Boss Surrender |
+| [**Scene 489**](#scene-489) | Elysium Iulium (Pavilion of Eternal Bloom) | May 20, 35 DR (08:15) | Boss Surrender |
+| [**Scene 490**](#scene-490) | Elysium Iulium (Pavilion of Eternal Bloom) | May 21, 35 BCE (08:30) | Boss Surrender |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Domination) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2 | Lay On Hands: 25/25 | Channel Divinity: 1/1 | Divine Sense: 4/4**
@@ -874,8 +890,11 @@ I have prepared your character based on your divine lineage and your path as a S
 
 give me proper equipment and starting spells based on the prompt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Northern Hispania, Camp of Legio IX** &nbsp;|&nbsp; ⏳ **March 1, 40 BCE (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 2,000 denarii**
@@ -891,8 +910,11 @@ Main Character: give me 18 cha (assume +2 asi was used on cha), 18 int (assume i
 
 give me proper equipment and starting spells based on the prompt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Northern Hispania, Camp of Legio IX** &nbsp;|&nbsp; ⏳ **March 1, 40 BCE (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2,000 denarii** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -918,8 +940,11 @@ lets start me somewhere different and do this scene later, I'm visiting batianus
 
 However, I have an elite escort of 10 level 9 gloomstalker 5 rogue 4 spies and 10 level 9 legionnaires, and they have a level 12 commander (one of my companions). They aren't loyal to me but the emperor and will handle most reasonable requests but not everything since they aren't personaly loyal. I also have 10 slaves 5 men 5 men extremely attractive but not as good lookign as me. My men are dressed down to sell the narrative of mid tier noble, but people may roll insight and notice they're elite. I'm having some fun and may try to build a power base in capua before i progress down the cursus honorum. Lets place me on the cursus for now at a reasonable level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Capua, Villa of Batiatus** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000gp** &nbsp;|&nbsp; ⚠️ **Disguised (Noble), Level Masked (Lvl 1)**
@@ -944,8 +969,11 @@ Your current Faction Power is **0 FP** and you are **UNRANKED**. Your new retinu
 God Mode:
 give me a military rank too and my spies arent in plain sight but blend in crowds or hide in shadows and permanently scout for threats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Capua, Villa of Batiatus** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000gp** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1)**
@@ -967,8 +995,11 @@ Administrative update complete: Military rank assigned, spy protocols refined, a
 God Mode:
 Batianius should not know I am a julian and son of the emperor, he can roll to gain insight but it should take multiple rolls to fully realize my identity. glabbus and his wife and licinia and 3 female friend are also there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Capua, Villa of Batiatus** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000dn** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Lvl 1)**
@@ -987,8 +1018,11 @@ The stage in Capua is set. You have successfully transitioned from the muddy fro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as you enter the atrium to be greeted by Batiatus and his distinguished guests.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 2,000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Noble), Level Masked (Lvl 1) | Inspiration: No**
@@ -1002,8 +1036,11 @@ Quintus Lentulus Batiatus rushes forward, his face a mask of practiced, oily hos
 God Mode:
 make me 16 years old, i should stand out as a prodigy based on my rank
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Capua, Villa of Batiatus** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 2,000gp**
@@ -1018,8 +1055,11 @@ Age adjusted to 16 years old. Your status as a 'prodigy' is now a core pillar of
 God Mode:
 give me 50k gold since i am emperors son
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Capua, Villa of Batiatus** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000gp** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1) | Exhaustion: 0 | Inspiration: No**
@@ -1036,8 +1076,11 @@ This capital provides you with massive leverage for bribes, recruitment, and the
 > 👤 **Player:**
 > *"say that you enjoy watching gladiators and you've heard his house has great pleasures (imply sexual pleasures but be subtle)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Capua, Villa of Batiatus** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Lvl 1) | Inspiration: No**
@@ -1053,8 +1096,11 @@ Batiatus’s smile widens, a glint of predatory greed entering his eyes. He misi
 God Mode:
 make the narrative and dialog longer, its to short
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Capua, Villa of Batiatus** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1)**
@@ -1064,8 +1110,11 @@ I have successfully calibrated the narrative engine for high-fidelity prose and 
 > 👤 **Player:**
 > *"request gladiator tour"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:06)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000 Denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1) | Exhaustion: 0 | Inspiration: No**
@@ -1081,8 +1130,11 @@ As you begin to move, the ten legionnaires of your escort shift in perfect, sile
 > 👤 **Player:**
 > *"have batiatus introduce me to everyone else here first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:06)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1) | Exhaustion: 0 | Inspiration: No**
@@ -1100,8 +1152,11 @@ Licinia steps forward, her silk stola rustling softly. "A 'Tribune' of sixteen?"
 God Mode:
 lets assuem that even though crassus is powerful my family is like 10x more powerful vs the second place family
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:06)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000gp**
@@ -1118,8 +1173,11 @@ Your family sits at the pinnacle of this list with a power score that dwarfs all
 God Mode:
 who are the top 10 families
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:06)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp**
@@ -1171,8 +1229,11 @@ In the current political climate, the Julian family maintains a absolute hegemon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Licinia - Keep the wealthy socialite close; her connection to Crassus is a direct line to Roman financial power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:06)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1) | Exhaustion: 0 | Inspiration: No**
@@ -1190,8 +1251,11 @@ Batiatus hovers at the periphery, sensing the slight friction. Glaber's jaw tigh
 God Mode:
 Stop mentioning my faction power every entry
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:06)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp**
@@ -1203,8 +1267,11 @@ I have documented this as a permanent directive to ensure narrative focus remain
 > 👤 **Player:**
 > *"Laugh and say my charm is purely innocent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4**
@@ -1222,8 +1289,11 @@ Batiatus watches the exchange with wide-eyed fascination, his mental calculation
 God Mode:
 She shouldn't know I'm a Julian.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp**
@@ -1244,8 +1314,11 @@ Administrative update complete. A new active constraint has been established to 
 God Mode:
 Let's make it so multiple successful rolls are needed to pierce the disguise and track on game state that these characters don't know who i am so you stop forgetting. She shouldn't reference my Julian line
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp**
@@ -1260,8 +1333,11 @@ Administrative protocols updated for identity preservation. The following change
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead to the Training Pits - Signal Batiatus to lead the way to the pits, ensuring Licinia stays at your side while you transition to a display of martial authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -1279,8 +1355,11 @@ Ilithyia giggles, a sharp, nervous sound, while Licinia remains silent, her ambe
 > 👤 **Player:**
 > *"Let's have batiatus wife here too and narrate dialog from everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000gp**
@@ -1300,8 +1379,11 @@ Ilithyia giggles, leaning into her husband’s arm while keeping her gaze fixed 
 > 👤 **Player:**
 > *"Subtly ignore Glabber remark and ask to see Spartacus spar to first blood with the strongest contender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:13)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000dn** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1)**
@@ -1319,8 +1401,11 @@ Batiatus’s eyes widen, his oily skin glistening with a fresh sheen of sweat. H
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Wager - Offer a playful but massive wager to Licinia on the outcome, further cementing your financial dominance and playful charm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:14)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4**
@@ -1342,8 +1427,11 @@ Below, the lanista barks a command. The wooden swords are tossed aside, replaced
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Strategist&#x27;s Gaze - Focus entirely on Spartacus&#x27;s combat form to identify his specific strengths and weaknesses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1) | Exhaustion: 0 | Inspiration: No**
@@ -1359,8 +1447,11 @@ Licinia watches you as much as the fight, her pulse visible at the hollow of her
 > 👤 **Player:**
 > *"THINK:Assess spartacus level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000 denarii** &nbsp;|&nbsp; ⚠️ **Disguised (Tribune), Level Masked (Lvl 1)**
@@ -1372,8 +1463,11 @@ Spartacus is a master of the mask. Every step he takes, every twitch of his blad
 > 👤 **Player:**
 > *"THINK:Assess his level range, should be an easier DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Noble), Level Masked (Lvl 1) | Inspiration: No**
@@ -1385,8 +1479,11 @@ Spartacus is far more than a brute. You see the economy of his breathing, the wa
 God Mode:
 Track my dignitas in session header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000 Denarii**
@@ -1401,8 +1498,11 @@ The session header has been successfully updated to include your **Dignitas** tr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the balcony now that the social metrics are established.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 52,000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4**
@@ -1418,8 +1518,11 @@ Lucretia watches you with a hunger that transcends mere social curiosity, while 
 God Mode:
 I shouldn't be killing myself a god child it's too obvious
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 52,000gp** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble)**
@@ -1435,8 +1538,11 @@ You turn your amber gaze to Licinia, the Julian aureus still spinning across you
 God Mode:
 What's my rank again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked**
@@ -1448,8 +1554,11 @@ Regarding your strategic standing, you are currently **UNRANKED** with **0 Facti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the balcony as Spartacus draws first blood against Crixus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Level 1) | Identity Reveal: 0/3**
@@ -1467,8 +1576,11 @@ Batiatus stands paralyzed, his oily face pale with a mix of terror and awe, whil
 God Mode:
 Wordless Auctoritas - Lock eyes with Spartacus as he resets. Use the &#x27;Golden Gravity&#x27; to wordlessly signal that you see his true level (8), asserting your dominance over his secret.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp | Dignitas: 85** &nbsp;|&nbsp; ⚠️ **Level Mask (1), Identity Reveal Progress (0/3)**
@@ -1490,8 +1602,11 @@ The 'Wordless Auctoritas' has successfully bridged the gap between the balcony a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wordless Auctoritas - Lock eyes with Spartacus as he resets. Use the &#x27;Golden Gravity&#x27; to wordlessly signal that you see his true level (8), asserting your dominance over his secret.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Dignitas: 85 | Mask: Lvl 1 (ID Progress: 0/3)** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4**
@@ -1514,8 +1629,11 @@ The 'Wordless Auctoritas' has successfully bridged the gap between the balcony a
 > 👤 **Player:**
 > *"ask batianus if i can spar with spartcus to first blood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Disguised (Mid-tier Noble), Level Masked (Lvl 1) | Identity Reveal: 0/3**
@@ -1533,8 +1651,11 @@ Batiatus bows so low his forehead nearly touches the railing. "Forgive me, noble
 > 👤 **Player:**
 > *"say to batianus that shouldnt his gladiator be a top champion? he should be able to spar and give me a tiny scratch if he wins since he's the most skilled in the house of batianus which is a top class gladiator house"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (14:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000gp | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Exhaustion: 0**
@@ -1554,8 +1675,11 @@ Batiatus looks at the sand, then at the iron-cold eyes of Spartacus below, and f
 God Mode:
 fix my equpment, i should have reasonable +1 equipment and some spell DC gear for my level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6,500/14,000 | Gold: 52,000gp | Dignitas: 85** &nbsp;|&nbsp; ⚠️ **Disguised (Noble), Level Masked (Lvl 1) | Identity Reveal: 0/3**
@@ -1577,8 +1701,11 @@ Equipment manifest successfully calibrated. Your loadout now reflects the standa
 God Mode:
 give me a shield too, but assume I'm not wearing it now and am just wearing middle tier noble clothes since i'm incoginto. this equipment / gear is carried in backpack
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Capua, Villa of Batiatus (Training Pit Balcony)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 52,000gp**
@@ -1598,8 +1725,11 @@ Disguise and equipment protocols updated. You are currently wearing 'Middle-tier
 > 👤 **Player:**
 > *"descend to training pits and equip my real sword, greet spartacus politely, and show respect and say I'd like to learn from his combat skill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Capua, Villa of Batiatus (Training Pits)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Exhaustion: 0**
@@ -1617,8 +1747,11 @@ On the balcony above, Batiatus looks as though he is watching a child play with 
 God Mode:
 how much does my weapon cost vs the villa?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Capua, Villa of Batiatus (Training Pits)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 52,000gp**
@@ -1632,8 +1765,11 @@ On the balcony above, Batiatus wipes a bead of sweat from his upper lip, his bre
 > 👤 **Player:**
 > *"buff myself with everything i have and then spar with the purpose of learning. do not mask and use my full level 5 combat ability and spells as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 52,000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Shield of Faith (+2 AC), Identity Masked (DC 25), Level Masked (Lvl 1 - BROKEN/DROPPED)**
@@ -1649,8 +1785,11 @@ On the balcony, the silence is absolute. Batiatus has forgotten to breathe. Lici
 > 👤 **Player:**
 > *"continue to spar and the goal is to gain as much exp as possible. whenever i am about to lose or start losing i use subtle spell command, but to most it should just look like I'm ordering someone around vs magic unless I fail a CHA deception roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85 | Mask: Tribune (0/3 Reveal)** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Shield of Faith (+2 AC) | Golden Gravity Active**
@@ -1668,8 +1807,11 @@ Licinia gasps, her fingers digging into the marble railing as she watches you ef
 > 👤 **Player:**
 > *"talk to spartacus and assess if he respects me now. help restore his ego and say he could've won in a real battle but i appreciate him holding back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Gold: 57,000**
@@ -1685,8 +1827,11 @@ On the balcony, Licinia is leaning so far over the railing her silk stola is bru
 > 👤 **Player:**
 > *"spartacus should be the only one to realize he actually "lost" because my yield was a spell, not a simple command and i coudl've used  that in the arena in a real fight, the others think I did amazing and then commanded spartacus to yield like a master which is an impressive victory ovrall, but not a pure martial one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4 | Gold: 57,000** &nbsp;|&nbsp; ⚠️ **Shield of Faith Active (+2 AC), Identity Masked (Insight DC 25)**
@@ -1704,8 +1849,11 @@ You remain a golden pillar in the center of the pit, the 'Golden Gravity' of you
 God Mode:
 shake spartacus hand as a sign of respect and say Batiatus and spartacus have my respect and favor. Explain to everyone I prob would've lost in a real arena fight. tell batiatus i might like to rent spartacus for private dinner entertainment or private sparring, for proper compensation of course, and ask batiatus if there's anything i can help him with, as a modest middle tier noble (however, they should all realize I am more than i seem but not fully undestand). Glabber should be astounded at my combat  prowess and try to probe me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp** &nbsp;|&nbsp; ⚠️ **Dignitas: 85 | Mask: Tribune (Level 1) | Identity Progress: 0/3**
@@ -1723,8 +1871,11 @@ Batiatus fidgets, caught between greed and the sheer absurdity of your request. 
 > 👤 **Player:**
 > *"shake spartacus hand as a sign of respect and say Batiatus and spartacus have my respect and favor. Explain to everyone I prob would've lost in a real arena fight. tell batiatus i might like to rent spartacus for private dinner entertainment or private sparring, for proper compensation of course, and ask batiatus if there's anything i can help him with, as a modest middle tier noble (however, they should all realize I am more than i seem but not fully undestand). Glabber should be astounded at my combat  prowess and try to probe me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 8,200/14,000 | Gold: 57,000gp | Dignitas: 85**
@@ -1742,8 +1893,11 @@ Meanwhile, Glaber leans over the railing, his face a dark mask of military suspi
 God Mode:
 Don't advance narrative. How much does my sword cost vs the villa? Probably a plus one sword is rare
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp**
@@ -1775,8 +1929,11 @@ Your sword, **Veritas**, is worth approximately **5-10% of the entire villa's ph
 God Mode:
 Spartacus should still have respect and fear. I fought like a level 5 which is crazy for a 16 year old
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 57,000**
@@ -1801,8 +1958,11 @@ The valuation gap and NPC psychological shifts are confirmed.
 > 👤 **Player:**
 > *"Tell glaber that my family is of modest standing but successful merchants. I have trained very diligently with combat and my studies since I was a child. However in a way this is kind of a flex since almost no Romans act modest and call themselves of modest standing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 8,200/14,000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4 | Gold: 57,000**
@@ -1820,8 +1980,11 @@ Glaber’s eyes narrow, his jaw setting as he recognizes the performance but can
 God Mode:
 I thought you said my sword is worth more than the villa?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,350/14,000 | Gold: 57,000gp**
@@ -1845,8 +2008,11 @@ You currently carry **57,000 Gold Denarii** in liquid assets. You could effectiv
 > 👤 **Player:**
 > *"Thank Glabber for the favor and now give him the respect of his legatus rank by asking for a favor and his help. After my display he should realize it's a large compliment if I defer to him. Explain that there's a legate in the north I report to who's incompetent and we lose many battles. Say we should confer in private and if he helps my father would be very grateful and can perhaps help him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Shield of Faith (Active), Level Mask (Lvl 1), Identity Mask (0/3 Reveal)**
@@ -1864,8 +2030,11 @@ Glaber's jaw, previously set in a mask of loathing, twitches. The logic of your 
 God Mode:
 Go somewhere private with Glabber and explain the situation in more detail and ask what he would do. It shouldn't be a hard DC because he should see the quality of my sword and know my father is probably loaded
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Capua, Villa of Batiatus (The Training Pit)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | XP: 7,350/14,000 | Gold: 57,000gp**
@@ -1882,8 +2051,11 @@ The attempt to draw Glaber into a private conference has met with a tactical del
 > 👤 **Player:**
 > *"Let's make it similar to the TV shows glabber is stuck in the north and wants to go back to Rome. I explain that he's stuck because the legion i am a part of is incompetent and holding him back to my legatus and give him some solid proof. He should be furious and realize the incompetent legate is holding him back. Let's assume Glabber is medium competence and the other mmm legate is low competence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Capua, Villa of Batiatus (Private Solar)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85 | Mask: Tribune (Identity 0/3)** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4**
@@ -1901,8 +2073,11 @@ Glaber’s eyes dart from the sword to the scroll, his breath coming in shallow,
 God Mode:
 lets assume the proof is real and not forged, varinius is actually incompetent and glabber hates him like on the tv show
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Capua, Villa of Batiatus (Private Solar)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,350/14,000 | Gold: 57,000gp | Dignitas: 85** &nbsp;|&nbsp; ⚠️ **Identity Masked (Insight DC 25), Level Masked (Perceived Lvl 1)**
@@ -1922,8 +2097,11 @@ The campaign narrative has been successfully realigned with the 'Varinius Incomp
 > 👤 **Player:**
 > *"give glaber a small smile. explain that with a proper legate we can win in the north and when he returns to rome he may make small mention of me to my father and how useful i was and perhaps recommend i command the northern forces de facto, whenever the real legatus is away on important business in rome. i still need to improve my own standing etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Capua, Villa of Batiatus (Private Solar)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4**
@@ -1941,8 +2119,11 @@ Glaber's eyes fix on the Damascus blade of Veritas, the golden light from the sh
 God Mode:
 lets assume i told my real father the emperor that I will remain incognito and rise through the ranks without usingthe julian name. if i gain equal station or higher to my brothers then he should make me the heir, and  the emperor didnt fully agree but is humoring it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Capua, Villa of Batiatus (Private Solar)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,350/14,000 | Gold: 57,000gp**
@@ -1965,8 +2146,11 @@ The administrative correction regarding your Imperial standing and the terms of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Pact - Discuss the specific logistical &#x27;failures&#x27; of Varinius that Glaber will document in his next report.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Capua, Villa of Batiatus (Private Solar)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4, Inspiration: No**
@@ -1984,8 +2168,11 @@ Glaber looks at you, the Damascus ripples of your gladius reflecting in his dark
 > 👤 **Player:**
 > *"glaber should start t o grow fond of me and respect me and start thinking of me as his future right hand man, virtually no 16 year old is capable of this. have him give me a public compliment and in his internal thoughts he should be astounded and think that if I am his second in command he can ascend to great heights"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Capua, Villa of Batiatus (Private Solar)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4 | Inspiration: No** &nbsp;|&nbsp; ⚠️ **Shield of Faith (+2 AC), Identity Masked (Insight DC 25, 0/3) | Mask: Lvl 1 Noble**
@@ -2005,8 +2192,11 @@ He offers you a formal, military salute—the first one he has given you that fe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Atrium - Exit the solar with Glaber, projecting a new air of mutual respect that will baffle Batiatus and intoxicate Licinia.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | XP: 7,350/14,000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4, Inspiration: No**
@@ -2022,8 +2212,11 @@ Batiatus stands paralyzed, his oily smile frozen. To see a Legatus of Glaber's s
 > 👤 **Player:**
 > *"lets have glabber take his wife aside privately where no one else can hear and explain his good fortune in meeting me, and tell her to support me as well and not to antagonize me. likely my family is in the upper echelons of wealth and i am incognito, but if i am his right hand he will rise far"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4, Inspiration: No** &nbsp;|&nbsp; ⚠️ **Identity Masked (Insight DC 25 - 0/3) | Level Masked | Shield of Faith Active (+2 AC)**
@@ -2041,8 +2234,11 @@ Ilithyia looks at her husband, then back at you. The 'Golden Gravity' of your pr
 > 👤 **Player:**
 > *"reply to licinia and say i don't command glabber we just get along well, and then ask for a a private dinner as a favor. should be  easy DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Inspiration: No**
@@ -2060,8 +2256,11 @@ Licinia’s fan stops entirely. A flush—not of embarrassment, but of genuine, 
 > 👤 **Player:**
 > *"have glabber continue to impress my importantance to his wife. he says although technically he is higher ranked, the combined wealth and influence of my family may even rival her father's family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 8,200/14,000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Gold: 57,000gp**
@@ -2077,8 +2276,11 @@ You remain at the center of the atrium with Licinia, whose breath is still shall
 > 👤 **Player:**
 > *"delegate cinnamon to fix batiatus tax problem"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Capua, Villa of Batiatus (Atrium)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,350/14,000 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Gold: 57,000gp** &nbsp;|&nbsp; ⚠️ **Shield of Faith Active (+2 AC), Identity Masked (Insight DC 25)**
@@ -2098,8 +2300,11 @@ As you begin to lead her toward the exit, Glaber offers a stiff military salute,
 > 👤 **Player:**
 > *"Go to licinia villa for a private dinner since she invited me, just bring my retinue and my 10 beautiful slaves (i tink i already mentioend them). I will also bring a higher tier wine than falernian"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Capua, Villa of Licinia (Peristyle Garden)** &nbsp;|&nbsp; ⏳ **March 5, 40 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,350/14,000 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Gold: 57,000gp**
@@ -2117,8 +2322,11 @@ You signal your legionnaires to take their positions at the garden's perimeter. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Social Devotion - Utilize your Golden Gravity and the intimate setting to solidify her as a permanent Julian asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Capua, Villa of Licinia (Peristyle Garden)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Gold: 57,000gp**
@@ -2134,8 +2342,11 @@ Licinia's eyes study you, searching for the predatory edge she felt just moments
 God Mode:
 is licinia single in this timeline, how old is she. would she be a top marriage candidate for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Capua, Villa of Licinia (Peristyle Garden)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp | Dignitas: 85**
@@ -2167,8 +2378,11 @@ Maintaining the romantic 'Navigator' dynamic is the most efficient path to secur
 God Mode:
 lets make her 20 so she's closer in age
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Capua, Villa of Licinia (Peristyle Garden)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85 | Gold: 57,000gp**
@@ -2187,8 +2401,11 @@ Licinia's age has been successfully adjusted to 20 years old, making her only fo
 > 👤 **Player:**
 > *"Flirt with her and turn her on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Capua, Villa of Licinia (Peristyle Garden)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp | Dignitas: 85** &nbsp;|&nbsp; ⚠️ **Identity Masked (Insight DC 25) | Reveal: 0/3**
@@ -2202,8 +2419,11 @@ Licinia’s poise, usually a masterwork of Roman sophistication, shatters. As yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Indulge in Total Conquest - Ignore the tactical objectives for the moment and fully commit to the romantic victory to maximize her devotion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Capua, Villa of Licinia (Peristyle Garden)** &nbsp;|&nbsp; ⏳ **March 5, 40 BCE (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Gold: 57,000gp**
@@ -2217,8 +2437,11 @@ There is no more negotiation. No more 'navigation.' By committing fully to this 
 > 👤 **Player:**
 > *"Give her the best sex of her life and utilize my 10 beautiful slaves. Although she has great beauty my slaves are even more so and I am a level above the slaves. This should overwhelm her and have her orgasm like 10 times until she's exhausted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Capua, Villa of Licinia (Private Chamber)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Gold: 57,000gp**
@@ -2250,8 +2473,11 @@ Scene setup:
 Begin the scene right at [specific moment you want to start from, e.g. "the moment he pins her wrists above her head against the wall" or "as she kneels between his thighs in the dimly lit hotel room"].
 Do not summarize. Do not skip ahead. Immerse me fully in the moment-by-moment experience."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Capua, Villa of Licinia (Private Chamber)** &nbsp;|&nbsp; ⏳ **March 6, 40 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 8,200/14,000 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4**
@@ -2265,8 +2491,11 @@ As the night deepens, you descend into the fray. When your skin meets hers, the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Staff via Slaves - Send your beautiful slaves to mingle with Licinia&#x27;s domestic staff in the early morning to gather gossip about Crassus&#x27;s private debts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Capua, Villa of Licinia** &nbsp;|&nbsp; ⏳ **March 6, 40 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | XP: 7350/14000 | Gold: 57000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Inspiration: No**
@@ -2280,8 +2509,11 @@ However, the financial secrets of Marcus Licinius Crassus are not so easily surr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Licinia&#x27;s Alliance - Return to the private chamber to greet the waking Licinia, translating her social surrender into concrete financial leads.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Capua, Villa of Licinia (Private Chamber)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7350/14000 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Inspiration: No**
@@ -2297,8 +2529,11 @@ A sharp, calculating light enters her eyes, cutting through the haze of exhausti
 > 👤 **Player:**
 > *"offer her marriage and explain my incognito situation and needing to prove myself to become the heir. however do not tell her I am a julian, just explain i am from a top family. Once I prove myself to father he will leet me marry anyone I choose and we can officially be married. for now let us act married and support each other and propose merging household resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Capua, Villa of Licinia (Private Chamber)** &nbsp;|&nbsp; ⏳ **March 6, 40 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4**
@@ -2324,8 +2559,11 @@ Licinia's breath hitches, her pulse fluttering against your palm like a trapped 
 God Mode:
 i should have massive exp for socially dominating everyone so far. check all interactions and calc it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Capua, Villa of Licinia (Private Chamber)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 12,650/14,000 | Gold: 57,000gp**
@@ -2364,8 +2602,11 @@ Your XP has been updated from **7,850** to **12,650**. You are now only **1,350 
 God Mode:
 make sure licinia doesnt know i am a julian, just a top famlily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Capua, Villa of Licinia (Private Chamber)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 12,650/14,000 | Gold: 57,000gp**
@@ -2381,8 +2622,11 @@ The 'Top Family' identity shroud has been absolute-locked for Licinia. Her cogni
 > 👤 **Player:**
 > *"have cinn integrate her household resources and summarize them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Capua, Villa of Licinia (Private Chamber)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 13,050/14,000 | Gold: 65,500gp | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4**
@@ -2407,8 +2651,11 @@ Licinia sits up, leaning against the silken pillows as she watches Cinnaminus wi
 
 Host Breakfast Salutation: Invite Glaber and Ilithyia to a private breakfast to reinforce the pact and leverage their military authority."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Dignitas: 85 | Gold: 65,500** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4**
@@ -2424,8 +2671,11 @@ Glaber takes his seat, his eyes fixed on the silver goblet Licinia places before
 > 👤 **Player:**
 > *"lets have glabber take his wife aside again in private and note how my standing accelerates beyond anything i've seen. i've successfully acquired licinia without even revealing my family name. once the name is revealted all who stood with me will experience great elevation likely"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Capua, Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 13,050/14,000 | Gold: 65,500gp | Dignitas: 85**
@@ -2441,8 +2691,11 @@ Ilithyia offers a slow, trembling nod, her predatory gaze shifting back to you w
 > 👤 **Player:**
 > *"have glabber explain further it is a dangerous game, for the disfavor of the powerful is lethal as well, we must say on his good side"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Capua, Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 12,650/14,000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | LoH: 25/25 | Divine Sense: 4/4 | Exhaustion: 0**
@@ -2460,8 +2713,11 @@ No redo this scene. Glabber istalking to his wife about the dangers of associati
 
 "It is a dangerous game we play, Aurelius," Glaber begins, his voice dropping into a low, gravelly rasp that barely carries over the tinkle of the garden fountain outside. "Varinius is a fool, yes, but he is a fool with the Senate's mandate and the ear of men who view a merchant’s success as a personal affront. The disfavor of the powerful in Rome is not a social slight; it is a lethal condition. One poorly placed word in a report, one audit that finds a Julian coin in a 'modest' merchant's pocket, and the ravens will be feasting on our reputations before the week is out."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Capua, Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 13,050/14,000 | Gold: 65,500gp**
@@ -2479,8 +2735,11 @@ The story is paused at the conclusion of Glaber's warning.
 God Mode:
 dont mention julian coin and glabber is privately talking ot his wife
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Capua, Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 12,650/14,000 | Gold: 65,500gp**
@@ -2505,8 +2764,11 @@ The timeline and narrative logic have been successfully sanitized.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the breakfast in the solar as Glaber and Ilithyia return to the table with newfound, terrified loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Capua, Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 12,650/14,000 | Gold: 65,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Exhaustion: 0**
@@ -2524,8 +2786,11 @@ Licinia leans into your space, her shoulder a warm, devoted pressure against you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify Varinius&#x27;s Financial Weakpoint - Consult with Licinia to find the specific eastern assets Varinius has failed to protect, creating a direct legal hook for the Senate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Capua, Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 12,650/14,000 | Gold: 65,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Exhaustion: 0**
@@ -2541,8 +2806,11 @@ You offer a slow, imperious nod to Glaber. The hook is no longer just a suspicio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draft the Tactical Audit - Formally assist Glaber in drafting the report, ensuring the tactical failure is perfectly mapped to Metellus&#x27;s financial loss.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Capua, Villa of Licinia (Private Dining Solar)** &nbsp;|&nbsp; ⏳ **March 6, 40 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 13,050/14,000 | Gold: 65,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Exhaustion: 0**
@@ -2562,8 +2830,11 @@ Licinia leans over your shoulder, her scent of lilies mixing with the metallic t
 > 👤 **Player:**
 > *"go with my retinue and companions to rome with the report dispatch and perosnally ensure it gets into the right hands. my fathers contacts will not give away my identity and the report is written in a way implying glabber doest nkow who i am. and bring glabber and his wife with me. leave licinia here. before i leave resolve batiatus rax problem"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Rome, The Aventine Hill (Private Julian Townhouse)** &nbsp;|&nbsp; ⏳ **March 8, 40 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 14,000/14,000 | Gold: 65,500** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, LoH: 25/25, Divine Sense: 4/4, Exhaustion: 0**
@@ -2588,8 +2859,11 @@ If you continue adventuring, you remain Level 5 and defer these benefits until y
 God Mode:
 Level Up to Level 6 - Apply level 6 Paladin (Oath of Domination) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Rome, The Aventine Hill (Private Julian Townhouse)** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14000/23000 | Dignitas: 85**
@@ -2613,8 +2887,11 @@ Level Up Processed: Aurelius Julia Caesar has ascended to Level 6 (Legate Tier).
 God Mode:
 lets give me aura of domination instead of protection, unless i get it later. -4 saving throws to all enemies or those i target with my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Rome, The Aventine Hill (Private Julian Townhouse)** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,000/23,000 | Dignitas: 85**
@@ -2636,8 +2913,11 @@ Feature Swapped: Aura of Protection has been replaced with Aura of Domination.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Aventine townhouse as the Imperial Courier waits for the Varinius indictment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Rome, Aventine Hill (Private Julian Townhouse)** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,000/23,000 | Gold: 65,500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, LoH: 30/30, Divine Sense: 4/4, Exhaustion: 0**
@@ -2655,8 +2935,11 @@ You feel the Damascus ripples of *Veritas* at your hip, a portable fortune that 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Personal Delivery to Metellus - Visit the Palatine Hill as the &#x27;Merchant&#x27;s Son&#x27; to show Metellus the &#x27;financial autopsy&#x27; of his ruin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Rome, The Palatine Hill (Villa of Senator Metellus)** &nbsp;|&nbsp; ⏳ **March 8, 40 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | Dignitas: 85 | XP: 14,000/23,000 | Gold: 65,500gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 2/4, L2 3/3 | LoH: 30/30 | Divine Sense: 4/4 | Exhaustion: 0**
@@ -2683,8 +2966,11 @@ Metellus’s hand trembles as he reaches for the scroll, his eyes dilated with a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Financial Ruin - Verbally dissect the exact moments Varinius failed him, forcing Metellus to acknowledge his total dependence on your favor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Rome, The Palatine Hill (Villa of Senator Metellus)** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | Dignitas: 85 | Gold: 65,500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, LoH: 30/30, Divine Sense: 4/4**
@@ -2702,8 +2988,11 @@ Metellus’s face drains of all color, his skin turning the shade of old parchme
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer the Golden Lifeline - Propose that your &#x27;House&#x27; will settle his debts with Crassus in exchange for his total political obedience and the chairing of the Varinius indictment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Rome, The Palatine Hill (Villa of Senator Metellus)** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,000/23,000 | Gold: 50,500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, LoH: 30/30, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Masked (0/3) | Dignitas: 85 | Aura of Domination Active**
@@ -2730,8 +3019,11 @@ The Senator stares at the Damascus ripples of Veritas, then back at your porcela
 > 👤 **Player:**
 > *"have glaber escort metellus to senate and hang back and let glaber be the face of this maneuver, read to help if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Rome, The Roman Forum (Outside the Curia Julia)** &nbsp;|&nbsp; ⏳ **March 8, 40 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,300/23,000 | Gold: 50,500gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 2/4, L2 3/3 | LoH: 30/30 | Divine Sense: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Identity Masked (0/3) | Dignitas: 85 | Aura: Domination (-4)**
@@ -2749,8 +3041,11 @@ You gain **300 XP** for the successful tactical positioning and the advancement 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Silent Pillar - Stand directly behind Metellus during his speech, using your Aura of Domination to suppress any hecklers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Rome, The Curia Julia (Floor of the Senate)** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,600/23,000 | Dignitas: 85** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 2/4, L2 3/3 | LoH: 30/30 | Divine Sense: 4/4 | Exhaustion: 0**
@@ -2770,8 +3065,11 @@ A sharp intake of breath ripples through the Curia. The name 'Varinius' acts lik
 > 👤 **Player:**
 > *"lets assume i am wearing a disguise because prob some senator would recognize me. i wil legates shield strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Rome, The Curia Julia** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,000/23,000 | Gold: 50,500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, LoH: 30/30, Divine Sense: 4/4, Exhaustion: 0**
@@ -2787,8 +3085,11 @@ A ripple of uneasy silence follows Glaber's roar. The back benches, usually a hi
 > 👤 **Player:**
 > *"allow things to proceed and tell me if my intervention might be needed. i will pretend i am silk house and a normal military tribune if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Rome, The Curia Julia** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,600/23,000 | Gold: 50,500** &nbsp;|&nbsp; ⚠️ **Aura of Domination Active, Identity Masked (Progress: 0/3), Dignitas: 85**
@@ -2802,8 +3103,11 @@ Metellus looks back at you, his hands trembling so violently that the tactical a
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Silk House Rebuttal - Step forward and speak as the &#x27;Silk House&#x27; representative, providing the specific audit details that Piso cannot ignore.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Rome, The Curia Julia** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,600/23,000 | Gold: 50,500 Denarii** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, LoH: 30/30, Divine Sense: 4/4, Exhaustion: 0**
@@ -2823,8 +3127,11 @@ Piso’s face drains of all color, his indignation replaced by a sharp, jagged r
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Legate&#x27;s Testimony - Have Glaber step forward to provide the &#x27;military truth&#x27; that validates the financial autopsy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Rome, The Curia Julia** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,600/23,000 | Gold: 50,500gp** &nbsp;|&nbsp; ✨ **Spells: L1 2/4, L2 3/3 | LoH: 30/30 | Divine Sense: 4/4 | Aura: Domination (-4 Sav)**
@@ -2842,8 +3149,11 @@ The effect is devastating. The back benches, once a hive of heckling, have turne
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Broken Senator&#x27;s Closing - Signal Metellus to deliver the final sentencing recommendation while maintaining the Aura of Domination.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Rome, The Curia Julia** &nbsp;|&nbsp; ⏳ **March 8, 40 BCE (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,600/23,000 | Gold: 50,500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, LoH: 30/30, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Shield of Faith Active (+2 AC), Identity Masked (Insight DC 25), Dignitas: 85**
@@ -2859,8 +3169,11 @@ The Curia explodes. The roar of agreement is a physical wave that shatters Senat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Glaber&#x27;s Command - Have Metellus formally propose Glaber as the immediate replacement for Varinius to secure your &#x27;right hand&#x27; in the North.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Rome, The Curia Julia** &nbsp;|&nbsp; ⏳ **March 8, 40 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 14,600/23,000 | Gold: 57,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 2/4, L2 3/3 | LoH: 30/30 | Divine Sense: 4/4**
@@ -2880,8 +3193,11 @@ The transition is seamless. Your intervention has successfully salvaged Metellus
 > 👤 **Player:**
 > *"march to the frontier and let glabber personally give varinius the news and have cinn and my agents and metellus seize varinius assets but be subtle about it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 15,400/23,000 | Gold: 65,500gp**
@@ -2901,8 +3217,11 @@ Varinius collapses into his chair, the Falernian spilling across his purple-bord
 God Mode:
 now that i have licinia household and varinius give me the appropriate new liquid gold and calculate my monthly income
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 15,400/23,000 | Gold: 89,000gp** &nbsp;|&nbsp; ⚠️ **Identity Masked (Insight DC 25), Secretly Betrothed (Licinia) | Dignitas: 88**
@@ -2932,8 +3251,11 @@ With 89,000gp liquid and 11,500gp monthly, your wealth is now a tectonic force. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrate the IX Hispana - Begin the process of winning over the centurions and integrating the legion into your strategic administration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | Dignitas: 88 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 2/4, L2 3/3 | LoH: 30/30 | Aura: Domination**
@@ -2949,8 +3271,11 @@ Glaber stands nearby, his jaw tightening as he senses the lack of immediate fric
 God Mode:
 give me my monthly gold divided daily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 15,400/23,000 | Gold: 89,000gp**
@@ -2976,8 +3301,11 @@ Starting with the dawn of March 21, your liquid gold will automatically increase
 > 👤 **Player:**
 > *"have glabber command the legion and vouch for me. he should explain that i uncovered the incompetence of varinius. they should be grateful because they know he;'s incompetent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 16,600/23,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 2/4, L2 3/3 | Lay on Hands: 30/30 | Aura: Domination**
@@ -2993,8 +3321,11 @@ The effect is electric. The centurions, men who have long whispered of Varinius'
 > 👤 **Player:**
 > *"buff myself with everything i have and start subverting imperial assets, utilize my aura and any buffs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 18,100/23,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/4, L2 3/3 | Lay on Hands: 30/30 | Aura: Domination (-4 saves)**
@@ -3012,8 +3343,11 @@ You have successfully subverted the Imperial Escort. They remain your father's t
 > 👤 **Player:**
 > *"have my elite legionnaires drill with me and the army. the army and glabber should be very impressed by how they're now personally loyal to me and level 9 or whatever level they are. remind me their level again. give me some training exp too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 18,100 / 23,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/4, L2 3/3 | Lay on Hands: 30/30 | Aura: Domination (-4 saves)**
@@ -3033,8 +3367,11 @@ You finish the drill with a sharp, imperious flourish of Veritas, leaving the ca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Economic Enclosure - Formally sign the Silk House contracts to replace all legion supply lines, making you the de facto owner of every meal in camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Northern Hispania, The Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 19,600/23,000 | Gold: 89,000gp | Dignitas: 88** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/4, L2 3/3 | Lay on Hands: 30/30 | Aura: Domination (-4 saves)**
@@ -3050,8 +3387,11 @@ Glaber watches from the shadows of the doorway, his eyes shimmering with a mix o
 > 👤 **Player:**
 > *"Tagus pre emption and use my cc spells to engage and assume I have stealth friendly armor for myself and the men and try to trigger surprise rounds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Northern Hispania, Banks of the River Tagus** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 21,100/23,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/4, L2 2/3 | Lay on Hands: 30/30 | Aura: Domination (-4 saves)**
@@ -3071,8 +3411,11 @@ You gain **1,500 XP** for the flawless execution and the first blooding of your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Triumphant Return - Return to the IX Hispana with the heads of the Suebi scouts to solidify your legend and push Legion morale to &#x27;Fanatic&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Northern Hispania, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 22,600/23,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/4, L2 2/3 | Lay on Hands: 30/30 | Aura: Domination (-4 saves)** &nbsp;|&nbsp; ⚠️ **Shield of Faith Active (+2 AC), Identity Masked (Insight DC 25), Imperial Escort Subverted (Fanatic)**
@@ -3092,8 +3435,11 @@ A rhythmic thud begins at the far end of the Via Principalis—the sound of five
 > 👤 **Player:**
 > *"lets assume i captured the warlord instad of killing and by default ill capture when its feasible. then interrogate the warlord in private with glabber"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Northern Hispania, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 55/55 | XP: 23,100/34,000 | Dignitas: 90** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, Lay on Hands: 30/30, Aura: Domination (-4 saves)**
@@ -3124,8 +3470,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Level Up to Level 7 - Apply level 7 Paladin (Oath of Domination) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Northern Hispania, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Dignitas: 90 | Lvl 7 Paladin | HP: 66/66 | XP: 23,100/34,000 | Gold: 89,000gp** &nbsp;|&nbsp; ⚠️ **Aura of Domination (-4 saves), Aura of Gravity (10ft Difficult Terrain), Shield of Faith Active (+2 AC)**
@@ -3145,8 +3494,11 @@ Level Up Processed: Aurelius Julia Caesar has ascended to Level 7 (Legate Tier).
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the interrogation of the Suebi Warlord with your newly ascended Auctoritas*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Northern Hispania, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 BCE (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 66/66 | XP: 23,600/34,000 | Gold: 89,000gp | Dignitas: 90** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 2/3, Lay on Hands: 30/30, Aura: Domination (-4 saves), Aura: Gravity (10ft DT)**
@@ -3175,8 +3527,11 @@ Glaber exhales a breath he didn't know he was holding, his face illuminated by a
 > 👤 **Player:**
 > *"THINK:what if i get the warlord to lure out the high king and capture the king?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Northern Hispania, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 BCE (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 66/66 | XP: 23,600 / 34,000 | Gold: 89,000 | Dignitas: 90**
@@ -3186,8 +3541,11 @@ You pause, the flickering tallow candles casting long, predatory shadows against
 > [!NOTE] ⚙️ **Player Choice:**
 > *The False Mutiny - Shadow-Spies stage a loud, visible &#x27;mutiny&#x27; in the Roman camp. The Warlord tells the King the Legion is killing its own officers and is ripe for a quick strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Northern Hispania, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 66/66 | XP: 23,600 / 34,000 | Dignitas: 90**
@@ -3216,8 +3574,11 @@ You step into his space, the Aura of Domination crushing his remaining mental re
 > 👤 **Player:**
 > *"golden ultimatium, but i will tail the warlord with my elite units, companions, and myself. I will be ready to trigger surprise round the minute the king leaaves the main army. Instruct the warlord to use a spy cipher to get the king to leave the army because he usually doesnt read secret intel in the middle of everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Northern Hispania, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 66/66 | XP: 24,600 / 34,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 2/3, Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Identity Masked (DC 25), Aura of Domination (-4 saves), Aura of Gravity (10ft DT) | Dignitas: 90**
@@ -3246,8 +3607,11 @@ You gain **1,000 XP** for the masterful tactical subversion and the final breaki
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Shadow Tail - Lead the elite unit and companions to follow the Warlord at a tactical distance, using the Shadow-Spies to mask your movement through the Black Forest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Northern Hispania, The Black Forest** &nbsp;|&nbsp; ⏳ **March 20, 40 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 66/66 | XP: 25,350 / 34,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 2/3 | Lay on Hands: 30/30 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Identity Masked (Insight DC 25), Dignitas: 90 | Mask Status: 0/3 Progress**
@@ -3265,8 +3629,11 @@ You gain **750 XP** for the successful tail, though the complication has shatter
 > 👤 **Player:**
 > *"shadow the hunters, and after they both engage, trigger surprise round, cast hold person on the king, have me and my men surprise attack and overwhelm both parties"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Northern Hispania, The Black Forest** &nbsp;|&nbsp; ⏳ **March 20, 40 BCE (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 66/66 | XP: 24,600/34,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, Lay on Hands: 30/30, Exhaustion: 0**
@@ -3288,8 +3655,11 @@ It is not a battle; it is a masterwork of Julian preemption. The Magistrate's ag
 > 👤 **Player:**
 > *"i intimidate everyone to surrender and usem y aura"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **The Black Forest, Stone of Wotan** &nbsp;|&nbsp; ⏳ **March 21, 40 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 66/66 | XP: 36,600/48,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 1/3 | Lay on Hands: 30/30 | Exhaustion: 0**
@@ -3330,8 +3700,11 @@ If you continue adventuring, you remain Level 8 and defer these benefits until y
 God Mode:
 Level Up to Level 8 - Apply level 8 Paladin (Oath of Domination) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Black Forest, Stone of Wotan** &nbsp;|&nbsp; ⏳ **March 21, 40 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin (Oath of Domination) | HP: 77/77 | XP: 36,600/48,000 | Gold: 89,000gp** &nbsp;|&nbsp; ⚠️ **Identity Masked (0/3 Reveal) | Dignitas: 90 | Masked Level: 1 | Exhaustion: 0 | Inspiration: No**
@@ -3360,8 +3733,11 @@ Class Resources
 
 also fix my gear. i should have my combat gear equipped now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **The Black Forest, Stone of Wotan** &nbsp;|&nbsp; ⏳ **March 21, 40 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 36,600/48,000 | Gold: 89,000gp**
@@ -3394,8 +3770,11 @@ As a Level 8 Paladin, you have access to 2nd-level spells. I have updated your r
 > 👤 **Player:**
 > *"make sure the king is secured/binded first, then bind everyone else and transport the mback to our military camp. Also assume i cast find greater steed before and the horse I'm riding should look like the best horse anyone has ever seen, impressing/intimidating everyone. Glabbus should be astounded that I return with the king and the magistrate assassins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Camp of Legio IX Hispana, Northern Hispania** &nbsp;|&nbsp; ⏳ **March 24, 40 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 36,600 / 48,000 | Gold: 90,149gp | Dignitas: 90** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3 | Lay on Hands: 40/40 | Divine Sense: 6/6 | Exhaustion: 0**
@@ -3483,8 +3862,11 @@ Mechanically, at level 8 your *prepared list size* is: **Charisma modifier + 4**
 
 Your Oath of Domination’s oath spells are on top of that and always prepared, once we know exactly which homebrew list your DM is using.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 24, 40 BCE (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 36,600/48,000 | Gold: 90,149gp**
@@ -3511,8 +3893,11 @@ Administrative update complete. Your spell repertoire has been fully expanded to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the High King - Utilize the Aura of Domination and Zone of Truth to extract the locations of all Suebi wealth and the names of their Roman financiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Command Tent, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 24, 40 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 36,600/48,000 | Gold: 90,532gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3 | Lay on Hands: 40/40 | Divine Sense: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Identity Masked (DC 25), Aura of Domination Active, Aura of Gravity Active | Dignitas: 90**
@@ -3532,8 +3917,11 @@ Legatus Glaber stands in the corner, his hand white-knuckling the pommel of his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analytical Dissection - Switch to a cold, logical approach. Use the data from the Varinius audit to &#x27;guess&#x27; the financiers, forcing the King to confirm them under the truth-spell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Command Tent, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 24, 40 BCE (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 36,600/48,000 | Gold: 89,000gp** &nbsp;|&nbsp; ✨ **L1 Spells: 4/4, L2 Spells: 3/3, Lay on Hands: 40/40, Channel Divinity: 1/1**
@@ -3562,8 +3950,11 @@ Legatus Glaber lets out a sharp, jagged intake of breath. The name 'Piso' hits t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Gold Cache Coordinates - Force the King to reveal the specific &#x27;Red Oak&#x27; markers for the Suebi war-chest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Command Tent, Camp of Legio IX Hispana** &nbsp;|&nbsp; ⏳ **March 24, 40 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 36,600/48,000 | Gold: 90,532gp**
@@ -3590,8 +3981,11 @@ Legatus Glaber lets out a sharp, jagged laugh of triumph. "The war-chest," he wh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Crush the Raiders - Lead a counter-sweep with Glaber to protect the supply lines and assert Julian dominance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Tagus River Perimeter, Northern Hispania** &nbsp;|&nbsp; ⏳ **March 24, 40 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 38,600/48,000 | Gold: 90,915gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Identity Masked (Insight DC 25 - Progress: 0/3), Shield of Faith Active, Aura of Domination, Aura of Gravity | Dignitas: 90**
@@ -3607,8 +4001,11 @@ Behind you, the Legionnaires are reapers. They move with a speed that mocks the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the War-Chest - Lead your elites immediately to the &#x27;Red Oaks&#x27; to claim the Suebi gold before the clans can regroup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **The Black Forest, 'Red Oaks' Cache Site** &nbsp;|&nbsp; ⏳ **March 24, 40 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 39,600/48,000 | Gold: 131,300gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3626,8 +4023,11 @@ Legatus Glaber dismounts, his heavy military boots crunching on the excavated so
 > 👤 **Player:**
 > *"long rest and lets just time skip since vicotry seems certain. Time skip for 3 months and narrate every week in detail. We utilize the king's intel, secure the north, and the main northen tribes are either destroyed, enslaved, or vassals. Glory is brought to me and glabber but I graciously let him take the majority of public glory, however people also know I am an amazing military commander. Give me proper exp for the victories"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Legio IX Hispana, Command Praetorium** &nbsp;|&nbsp; ⏳ **June 24, 40 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 88/88 | XP: 50,850/64,000 | Gold: 261,570gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3654,8 +4054,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 God Mode:
 At this point I think I should be more accomplished than my brothers ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Legio IX Hispana, Command Praetorium** &nbsp;|&nbsp; ⏳ **June 24, 40 BCE (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 88/88 | XP: 50,850/64,000 | Gold: 261,570gp**
@@ -3689,8 +4092,11 @@ Your assessment is technically and narratively correct. At sixteen, you have sur
 God Mode:
 Level Up to Level 9 - Apply level 9 Paladin (Oath of Domination) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Legio IX Hispana, Command Praetorium** &nbsp;|&nbsp; ⏳ **June 24, 40 BCE (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 50,850/64,000 | Dignitas: 115**
@@ -3718,8 +4124,11 @@ Your combat gear remains fully equipped: Lorica Aurea, The Aegis of Julia, and V
 > 👤 **Player:**
 > *"Reaffirm the deal with Glabber. He will get majority of the public credit but in private with my father he must fully speak to my accomplishments. We can both be elevated this way. Should be easy DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Legio IX Hispana, Command Praetorium** &nbsp;|&nbsp; ⏳ **June 24, 40 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 50,850/64,000 | Gold: 261,570gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3748,8 +4157,11 @@ Glaber sinks to one knee, the mud of the frontier still clinging to his boots as
 > 👤 **Player:**
 > *"Let's return to Rome for the trimuph but we don't start it yet. Also this is a vassal trimuph. The northern kings will be paraded and then go back to "ruling" vassal kingdoms. The domination is so complete we can do that. First though I will bring glabber and his wife to meet my real father the emperor and honor his deal. Now Glabber will learn who I truly am. Narrate the scene in detail as Glabber and his wife get more and more afraid as we approach the emperors throne room and wondering why we meet my father there. Hold on the special triumph for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Rome, The Domus Aurea (Throne Room of Divus Iulius)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 52,350/64,000 | Gold: 261,570gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3773,8 +4185,11 @@ A sharp, collective intake of breath echoes from behind you. Glaber and Ilithyia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Glaber&#x27;s Testimony - Have the terrified Glaber recount your martial and tactical supremacy to the Emperor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Rome, The Domus Aurea (Throne Room)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 53,850/64,000 | Gold: 261,570gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3803,8 +4218,11 @@ Your father's expression does not shift, but you see a microscopic flicker of am
 > 👤 **Player:**
 > *"Let's narrate a scene with Glabber and his wife internal thoughts. They finally remember who I reminded them off as I resemble the emperor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Rome, The Domus Aurea (Throne Room)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 53,850/64,000 | Dignitas: 145** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3822,8 +4240,11 @@ Your father finally shifts, the slight movement of his hand causing Glaber to fl
 > 👤 **Player:**
 > *"Bring in the high king as the vassal trimph. This should be very impressive because usually triumphs don't get displayed and go back to role the kingdom. The domination I have is supreme. The emperor should be amused and give him some dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Rome, The Domus Aurea (Throne Room)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 55,350/64,000 | Dignitas: 155 | Identity: UNMASKED (Family)** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3845,8 +4266,11 @@ You gain 1,500 XP for the supreme display of Julian domination and the Emperor's
 > 👤 **Player:**
 > *"Explain piso betrayal and offer it as another gift to my father. Ask if he wants the pleasure of handling it or leave it to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Rome, The Domus Aurea (Throne Room)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 56,850/64,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3877,8 +4301,11 @@ You gain **1,500 XP** for the masterful revelation and securing the Emperor's pe
 > 👤 **Player:**
 > *"Ask to be named heir and consul. Then promise will conquer Britain and present him with its gold and magical artifacts and power auxiliaries. And ask that Glabber be made praetor and help handle my interests in Rome"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Rome, The Domus Aurea (Throne Room)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 56,850/64,000 | Dignitas: 175** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3907,8 +4334,11 @@ He shifts his gaze to Glaber, the Legatus flinching under the divine scrutiny. "
 > 👤 **Player:**
 > *"Give father a smile knowing it was a bold request. How about allow me to be praetor and let me evolve the next phase of the game so I am not incognito. Either way I can take Britain but this will help me do it faster. This should be an easy DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Rome, The Domus Aurea (Throne Room)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 95/95 | XP: 56,850/64,000 | Gold: 261,953gp | Dignitas: 185** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3928,8 +4358,11 @@ You gain **1,500 XP** for the successful negotiation and the elevation to Praeto
 > 👤 **Player:**
 > *"Leave and confer with Glabber and his wife in private politely apologize for the necessary deception and ask Glabber if he's happy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Rome, Private Chambers of the Domus Aurea** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Praetor | HP: 95/95 | XP: 56,850/64,000 | Dignitas: 185** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -3947,8 +4380,11 @@ You step closer, the 'Golden Gravity' of your presence warm and inviting. You re
 God Mode:
 Give me massive xp for all those social wins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Rome, The Domus Aurea (Private Antechamber)** &nbsp;|&nbsp; ⏳ **July 6, 40 BCE (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 76,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ⚠️ **Identity Masked (Insight DC 25), Praetor of the North, Mandate of Britain | Dignitas: 185**
@@ -3971,8 +4407,11 @@ Your trajectory has officially surpassed both Octavian and Caesarion in terms of
 > 👤 **Player:**
 > *"Wait for their reply. They should be groveling to me now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Rome, The Domus Aurea (Private Antechamber)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 76,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 50/50, Channel Divinity: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Identity Revealed (Glaber/Ilithyia), Praetorship Secured, Aura of Courage | Dignitas: 185**
@@ -3992,8 +4431,11 @@ You look down at them, the two most powerful tools you have successfully subvert
 God Mode:
 Why is my modifier +21
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Rome, The Domus Aurea (Private Antechamber)** &nbsp;|&nbsp; ⏳ **July 6, 40 BCE (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 76,350/85,000 | Gold: 261,953gp**
@@ -4031,8 +4473,11 @@ Your Spell Attack Modifier is currently **+11**, not +21. If you are seeing a +2
 > 👤 **Player:**
 > *"Tell them to rise and say they are friends and no need for this. Let's narrate their internal thoughts and they recall how I've always been polite and never needed to talk down to them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Rome, The Domus Aurea (Private Antechamber)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 76,350/85,000 | Dignitas: 185** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Exhaustion: 0**
@@ -4048,8 +4493,11 @@ Ilithyia gazes up at you, her eyes wet with a fanatical devotion as she smooths 
 > 👤 **Player:**
 > *"Let's assume licinia is here. I will go and privately meet her and explain the victory and who I am. Then bring her to meet the emperor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Rome, The Domus Aurea (Private Apartments)** &nbsp;|&nbsp; ⏳ **July 6, 40 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 76,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Lord of the Northern Reaches, Praetor of the North, Mandate of Britain | Dignitas: 185**
@@ -4071,8 +4519,11 @@ Your father, Gaius Julius Caesar, looks up from his hand of Latrunculi. His dark
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Piso&#x27;s Indictment - Utilize your new Praetorian rank and Metellus&#x27;s &#x27;obedience&#x27; to trigger the public collapse of Senator Piso in the Curia.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Rome, The Curia Julia** &nbsp;|&nbsp; ⏳ **July 7, 40 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 76,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Praetor of the North, Mandate of Britain | Dignitas: 185**
@@ -4092,8 +4543,11 @@ Piso collapses. It is not a graceful surrender; it is the physical and mental di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Interrogation of Piso - Seize the broken Senator before the lictors can take him, using Zone of Truth to extract any remaining secrets about Octavian&#x27;s administrative traps.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Rome, Private Holding Cell (Curia Julia Annex)** &nbsp;|&nbsp; ⏳ **July 7, 40 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 77,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Praetor of the North, Mandate of Britain | Dignitas: 185**
@@ -4118,8 +4572,11 @@ You lean in, your liquid amber eyes locking onto his with a terrifying, unblinki
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Octavian - Utilize your new Praetorian rank and your father&#x27;s current amusement to intimidate Octavian into surrendering the ledger.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Rome, The Tabularium (Administrative Office)** &nbsp;|&nbsp; ⏳ **July 7, 40 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 77,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Exhaustion: 0**
@@ -4150,8 +4607,11 @@ As the tension reaches a breaking point, Cinnaminus glides to your side, his Gre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Father&#x27;s Amusement - Remind Octavian that Caesar has already humored your rise, making his secret audit a direct challenge to the Emperor&#x27;s judgment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Rome, The Tabularium (Octavian's Office)** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 77,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Exhaustion: 0**
@@ -4176,8 +4636,11 @@ Octavian's gaze does not waver, but you feel the subtle, rhythmic tremor in the 
 > 👤 **Player:**
 > *"Cast command on Octavian and use aura domination to get him to hand it over and use subtle spell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 77,350/85,000 | Dignitas: 185** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 3/3, L3 2/2, LOH: 50/50, Divine Sense: 6/6**
@@ -4205,8 +4668,11 @@ You pick up the ledger, the weight of Octavian's secret audits and administrativ
 God Mode:
 My spell DC should be higher than 16
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 77,350/85,000 | Gold: 261,953gp**
@@ -4235,8 +4701,11 @@ Your current `game_state` correctly reflects these values. No further state modi
 > 👤 **Player:**
 > *"THINK:How much would father let me get away with? Could i kidnap Octavian and slowly dominate him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Rome, The Tabularium (Octavian's Office)** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 77,350/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 3/3, L3 2/2, LOH: 50/50, Divine Sense: 6/6**
@@ -4248,8 +4717,11 @@ Father humors the rise of the 'Golden Vanity' because I deliver results that sta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Administrative Decapitation - Utilize the Red Ledger to frame Octavian&#x27;s key clerks for treason, replacing them with your own slaves and spies to blind him before the strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 79,850/85,000 | Gold: 261,953gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 3/3, L3 2/2, LOH: 50/50, Divine Sense: 6/6** &nbsp;|&nbsp; ⚠️ **Praetor of the North | Dignitas: 185**
@@ -4265,8 +4737,11 @@ By the time the sun begins its slow descent over the Palatine, Octavian is a gen
 God Mode:
 Let's assume my father rewarded me with +3 armor and weapons and gear in every slot for taking the north and give me some solid spell DC gear too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 79850/85000 | Gold: 261,953gp**
@@ -4300,8 +4775,11 @@ Your father, the Living God, has recognized your 'meritocratic' conquest of the 
 > 👤 **Player:**
 > *"Use red ledger to arrest cinnamon rival and convince the lawyers to allow trial by combat. Then let Cinammon kill his nemesis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 82,350/85,000 | Dignitas: 185**
@@ -4323,8 +4801,11 @@ You gain **2,500 XP** for the masterful legal subversion and the completion of y
 > 👤 **Player:**
 > *"THINK:Think about how to neutralize agrippa first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | Dignitas: 185 | Gold: 89,383gp**
@@ -4334,8 +4815,11 @@ You pause in the frigid, scroll-lined silence of the Tabularium, the Red Ledger 
 > 👤 **Player:**
 > *"THINK:Logistical Starvation - Use the Silk House contracts to divert pay and grain meant for the II Augusta. Trigger &#x27;unrest&#x27; that forces Agrippa to return to the camp to maintain order."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 82,350/85,000 | Gold: 89,383gp**
@@ -4345,8 +4829,11 @@ Coordinating all the pieces to neutralize a commander of Agrippa's caliber is ge
 > 👤 **Player:**
 > *"Wait and see if a better plan forms. Have my shadows and spies scout"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 82,350/85,000 | Gold: 89,766gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 3/4, L2 3/3, L3 2/2 | LOH: 50/50 | Divine Sense: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of Domination (-4 saves), Aura of Courage**
@@ -4362,8 +4849,11 @@ The scouting has provided the outlines of the threat, but the 'better plan' you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Suborn the II Augusta - Divert the grain and pay meant for Agrippa&#x27;s men to your own storage, then &#x27;rescue&#x27; the starving legion with Silk House charity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 82350/85000 | Gold: 89766gp | Dignitas: 185** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 3/3, L3 2/2, LOH: 50/50, Divine Sense: 6/6**
@@ -4379,8 +4869,11 @@ The 'Gilded Kennel' project has hit a wall of iron. You have the Red Ledger, but
 > [!NOTE] ⚙️ **Player Choice:**
 > *Launch the Vassal Triumph - Pivot to raw public popularity. Parade the Suebi King now to make yourself &#x27;untouchable&#x27; by Agrippa&#x27;s military logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Rome, The Via Sacra** &nbsp;|&nbsp; ⏳ **July 7, 40 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 84,350/85,000 | Gold: 89,383gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Lord of the Northern Reaches, Praetor of the North, Mandate of Britain | Dignitas: 200 | Masking: Level Mask (10), Identity (3/3 for Inner Circle, 0/public)**
@@ -4398,8 +4891,11 @@ A roar of 'Aurelius! Caesar!' rises from the mob, a wave of sound so potent it m
 > 👤 **Player:**
 > *"THINK:Would my father be angry if I just killed aggrippa and took over? As long as order is kept?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Rome, The Via Sacra** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 84350/85000 | Gold: 89383gp**
@@ -4409,8 +4905,11 @@ You pause atop Aurelian, the blood-orange sun painting your porcelain skin in sh
 > 👤 **Player:**
 > *"THINK:What if I provoke a reason to duel Agrippa? What level is he?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Rome, The Via Sacra** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 84350/85000 | Gold: 89,383gp**
@@ -4420,8 +4919,11 @@ You pause atop Aurelian, the blood-orange sun painting your porcelain skin in sh
 > 👤 **Player:**
 > *"THINK:Consolidate Triumph - Finish the parade and use the momentum to formally petition for your British mandate."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Rome, The Via Sacra** &nbsp;|&nbsp; ⏳ **July 7, 40 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 106/106 | XP: 84,350/85,000 | Gold: 89,383gp**
@@ -4431,8 +4933,11 @@ As the roar of the Roman mob washes over you like a warm tide, you pause atop Au
 > 👤 **Player:**
 > *"Let's just time skip two years and narrate each month. Assume I conquer Britain and then return to Rome victorious. Octavian and Agrippa recover to some degree and caesarion remains a rival"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 117/117 | XP: 135,000/120,000 | Dignitas: 350**
@@ -4455,8 +4960,11 @@ If you continue adventuring, you remain Level 11 and defer these benefits until 
 God Mode:
 Make me level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 122/122 | XP: 135,000/120,000 | Dignitas: 350** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Praetor of the North, Conqueror of Britain | Mask: Revealed | Identity Reveal: 3/3**
@@ -4483,8 +4991,11 @@ Character level has been set to 12.
 God Mode:
 Assume I gained magic items in Britain each one +3 spell DC and attack and 3 of them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **7, 38 July (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 122/122 | XP: 135,000/120,000 | Dignitas: 350**
@@ -4505,8 +5016,11 @@ These stats reflect your status as a Regional Tier Paladin (Level 12) wielding a
 God Mode:
 Nvm make me level 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 Pax Caesara (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 139,383gp**
@@ -4533,8 +5047,11 @@ Character level has been successfully updated to 14.
 God Mode:
 Let's assume at level 12 I picked +2 int asi and auto pick my prepared spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 139,383gp**
@@ -4569,8 +5086,11 @@ As a Level 14 Paladin with 20 Charisma, you have 12 spells prepared (plus your O
 God Mode:
 Give me command of reasonable forces for controlling the north and Britain. And proper gold and income
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **38 July 7, 18:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4600,8 +5120,11 @@ Strategic forces and imperial wealth updated to reflect the absolute conquest of
 God Mode:
 Make sure I prepared cc spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4635,8 +5158,11 @@ Your **Spell Save DC is 28**. With **Aura of Domination** applied (-4 penalty to
 God Mode:
 I should have multiple legions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4672,8 +5198,11 @@ The strategic military audit is complete. Your command of multiple legions and s
 God Mode:
 Let's return to story where I return to Rome to do a vassal triumph. I also now have 100 elite specialists (every class in d&d) and 100 elite gloomstalkers (level 5 gloom rest assassin). These elites will always be two levels below me. Same as my companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4698,8 +5227,11 @@ Administrative transition to Rome and strategic unit deployment complete. You ha
 God Mode:
 Register everything I have with my faction
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4723,8 +5255,11 @@ Your 200 Elite Specialists and Gloomstalkers are confirmed at **Level 12** (PC -
 God Mode:
 Make me rank 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **Day 7, 38 July (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4740,8 +5275,11 @@ Faction ranking successfully manually synchronized to Rank #1. The tool result i
 God Mode:
 Give me enough troops and land etc to make rank 1 make sense. What's the faction power of the top 10?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Praetor of the North, Conqueror of Britain, Recognized Heir-Apparent (De Facto)**
@@ -4778,8 +5316,11 @@ Strategic assets and faction power have been synchronized to justify your Rank #
 God Mode:
 Maybe make my number 2 since my father controls everything else in Rome? Also my brothers shoukd be in the top 10
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 Pax Caesara (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4825,8 +5366,11 @@ This is often what people mean when asking about “Rome’s troops at the time 
 In short: The entire Roman state’s military manpower during Caesar’s era hovered in the low to mid hundreds of thousands when fully mobilized (legions + allies/auxiliaries), but active field armies were much smaller. Caesar himself never commanded more than about 10–12 legions (~50,000–70,000 men including supports) at any one time.
 For deeper reading, sources like Caesar’s own Commentarii de Bello Gallico, Appian, Plutarch, and modern historians (e.g., Adrian Goldsworthy’s works on the Roman army) provide the basis for these estimates.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4859,8 +5403,11 @@ Strategic landscape and faction rankings have been synchronized to reflect the R
 God Mode:
 Give me direct command of 100k and assume that was used to conquer Britain and the north and now spread out among Roman core north and britain
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4885,8 +5432,11 @@ Britain and the North are officially designated as subjugated provinces under yo
 God Mode:
 Let's have me mask as level 5 by default for now except if I'm months who know who I am
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4910,8 +5460,11 @@ Masking protocols successfully initialized. You are now administratively and nar
 God Mode:
 Let's assume my 20k elites are level 9 and only 100 specialists and 100 gloomstalkers are level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Rome, The Imperial Rostra** &nbsp;|&nbsp; ⏳ **July 7, 38 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -4943,8 +5496,11 @@ Elite unit scaling and command structures successfully recalibrated to reflect y
 > 👤 **Player:**
 > *"Narrate a scene where I return victorious to my father with my wife licinia and ask to be heir and officially a consul. I ask in a respectful way but there's a lot of power in my voice and presence. I am 18 now and level 14 a trajectory that has actually exceeded my father at the same age even if he's level 20 now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Rome, The Domus Aurea - Throne Room of Divus Iulius** &nbsp;|&nbsp; ⏳ **July 7, 38 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Dignitas: 500** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, LOH: 70/70, Cleansing Touch: 5/5**
@@ -4964,8 +5520,11 @@ Your father, Gaius Julius Caesar, remains motionless, his chin resting on a hand
 > 👤 **Player:**
 > *"The emperor smiles more and tells me and licinia to walk with him. Narrate dialog in detail. He says he wishes for Rome to control the whole world. He says he has a new deal for me. Conquer 70% of the world and he will give me the empire and retire or advise me if i like. Or find a way to achieve immortality and he will grant me the empire if we both share it. He's capped at level 20 so can't become immortal. He gives me a smile and says he's still a god in name only and  too old to campaign, but make our family gods in reality and I can have everything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Rome, The Domus Aurea - Imperial Peristyle** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Dignitas: 500** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | LOH: 70/70 | Cleansing Touch: 5/5**
@@ -4989,8 +5548,11 @@ Licinia watches you, her breath hitched in her throat, her devotion now a total,
 > 👤 **Player:**
 > *"i have genuine respect for my father and would never take the throne from him by force. I accept his deal and say he honors me and humbly say my ascent was greatly accelerated as his son"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Rome, The Domus Aurea - Imperial Peristyle** &nbsp;|&nbsp; ⏳ **July 7, 38 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, LOH: 70/70, Cleansing Touch: 5/5**
@@ -5017,8 +5579,11 @@ The Emperor stops, his predatory grace momentarily stilled. He turns to you full
 > 👤 **Player:**
 > *"lets narrate my triumph and my wife is beside me sharing the glory, then my father announces me heir and commands my brothers to respect me and serve me. they will no longer openly move against me and need to be careful even if they silently move"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Rome, The Imperial Rostra & Forum Romanum** &nbsp;|&nbsp; ⏳ **July 8, 38 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | LOH: 70/70 | Cleansing Touch: 5/5**
@@ -5042,8 +5607,11 @@ You stand as the golden axis of the Republic, your wife at your side and your ri
 > 👤 **Player:**
 > *"i train licinia until she's level 12 bard college of eloquence and i trust her to run my faction non military. then i appoint a loyal general to run the miliary faction and bot hare autonomous and can make decisions while i pursue other matters"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Rome, The Private Julian Apartments (Aventine Hill)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -5057,8 +5625,11 @@ Your registered power sits at 268,410 FP, a weight that has finally forced the S
 God Mode:
 lets assume i dont need to actively work against my brothers and they have truly submitted to me for now while father is alive
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Rome, The Private Julian Apartments (Aventine Hill)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 135,000 / 140,000 | Dignitas: 650**
@@ -5087,8 +5658,11 @@ Administrative Directive processed: The political and familial landscape has bee
 God Mode:
 lets start a new arc. it'll be like spartacus tv show. lets make it a combo of season 2 and season 3. we will start a scene in season 2 where glabbus is attacked in the square by spartacus and his men but this time lets say he almost dies but i save him incognito and masked as a level 5, spartacus remembers me, and doesn't know i am a caesar, but he realizes a real threat has appeared far beyond glabber. rather than outright crush the slave rebellion my goal is to make it a crucible and see if a worrthy general arises from either side
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 15, 38 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp**
@@ -5110,8 +5684,11 @@ You offer a slow, predatory smile, your liquid amber eyes tracing the tactical g
 God Mode:
 lets give spartacus the power of an army from season 3 and glabber is getting desperate. also anyone level 12+ now has 3 legendary resistance and everyone level 16+ has 6 legendary resistance. Make spartacus the same level as me but a champion fighter
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Dignitas: 650** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Recognized Heir-Apparent (De Facto), Masked Level: 5 (Default)**
@@ -5129,8 +5706,11 @@ In the high balconies and shaded alleys, your 1700 registered elites and the 10,
 > 👤 **Player:**
 > *"as soon as spartcus sees me he realizes true danger is here and he tells everyone to retreat. I stand between him and glabus. have my level 12 shadows and specialists hang back to not fully reveal our power and just kil a few rebels. i just hypnotic pattern and cc everyone except spartcus who loses a legendary resistance but is intimidated by the power since magic is rare. lets have spartacus companions be -2 levels below him ie. all the stronger gladiators on the show like gatticus, crixus, omenus."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Cleansing Touch: 5/5, Lay on Hands: 70/70**
@@ -5150,8 +5730,11 @@ You stand between the paralyzed Thracian and the dying Glaber, a golden pillar o
 > 👤 **Player:**
 > *"have my men kill half of the rebels but leave spartcus and his companions alone. then lets assume spartacus is trying to save varro wife like the tv show. i diplomatically say to spartacus that not all romans are evil and i will prove it. i explain i can only cast one spell at a time (lie) and i will release the hypnotic pattern to heal varro wife since I remember her from bachianus house and was fond of her. I then heal her and see how spartacus reacts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | Dignitas: 650 | Level Mask: 5** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | Lay on Hands: 70/70 | Cleansing Touch: 5/5**
@@ -5181,8 +5764,11 @@ You gain 12,500 XP for the tactical execution and divine intervention.
 God Mode:
 varro wife is Aurelia not Sura.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 Imperial Era (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Heir-Apparent, Consul-Elect, Masked Level: 5 | Dignitas: 650**
@@ -5198,8 +5784,11 @@ High above, your Level 12 Gloomstalkers and Specialists remain poised on the roo
 God Mode:
 i already am level 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp**
@@ -5209,8 +5798,11 @@ Level 14 synchronization confirmed. Registered Faction Power 268,410 FP (Rank #1
 > 👤 **Player:**
 > *"heal glabber too, which should also be intidmating to everyone. Then tell spartacus he take take aurelia and retreat with his men for now but there is a deal. We will have an armstice for a week. No killing on each side. And he and I will negotiate. Explain that even though glabber is my superior in title my family is strong and influential in rome, so i can negotiate in glabber's place for now. Spartacus should hate glabber just like on the tv show, but saving aurelia is more important to him, just like the tv show, so should be an easy DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Dignitas: 650** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 0/70 | Cleansing Touch: 5/5**
@@ -5230,8 +5822,11 @@ Spartacus stares at you, his flint-grey eyes darting from his breathing wife to 
 God Mode:
 no again dont tell people my family name i am incognito House of Caesar is the bedrock upon which Rome is built. My family’s influence transcends the fasces he carries.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp**
@@ -5253,8 +5848,11 @@ I have also addressed the system correction: the rewards for the Market Square c
 God Mode:
 also aurelia is his dead friend varro wife, not his wife
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp**
@@ -5270,8 +5868,11 @@ Spartacus nods, a short, sharp movement of his head that marks the beginning of 
 God Mode:
 wtf glabber knows who I am, the other peopel dont
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147500/165000 | Gold: 1,500,000gp**
@@ -5301,8 +5902,11 @@ I have confirmed all strategic metrics and identity constraints. The narrative i
 > 👤 **Player:**
 > *"narrate the armstice deal and let them retreat, then take glabber aside privately and tell him his men cannot break the armstice. Explain that i could end things instantly with my 100,000 men and multiple legions or my 20k elites, but i would lose dignitas for using them on slaves. So I will work incognito and see if i can get them to surrender or surgically kill them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Capua, The Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Dignitas: 650** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default)**
@@ -5324,8 +5928,11 @@ Glaber bows his head, a gesture of total, biological submission. "It shall be as
 > 👤 **Player:**
 > *"lets narrate a scene witohut where me spartacus is talking to his council. he explains our history and says that I am the true threat not glabber, everything has changed  now. have him speculate about my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Vesuvius, Rebel War Council** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Dignitas: 650** &nbsp;|&nbsp; ⚠️ **Julian Identity Masked (Lvl 5), Armistice Active (7 Days) | Identity Reveal (Glaber/Licinia/Ilithyia): 3/3**
@@ -5341,8 +5948,11 @@ Crixus slams a fist onto the table, the wood groaning. 'He killed half our broth
 God Mode:
 he is a praetor now, not just a legatus. also remind him not to break my identity and treat me as a military tribune, if it was known the heir of caesar personally came to put down slaves i would lose dignitas.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Vesuvius, Rebel War Council** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 147,500/165,000 | Dignitas: 650** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Praetor of the North, Consul-Elect | Masked Level: 5 (Default) | Identity Reveal: 3/3 (Glaber, Ilithyia, Licinia)**
@@ -5375,8 +5985,11 @@ Administrative update complete. The hierarchy and narrative logic for the 'Rebel
 > 👤 **Player:**
 > *"i also remind glabbus that his dignitas is my own since i'm his patron. so if i secretly resovle this he can take credit andi ts bettert that way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -5401,8 +6014,11 @@ stop screwing up this faction stuff, keep me at rank 2
 - **Territory**: 50,000 Acres
 - **Standing**: You are currently positioned below the **Shadow Enclave** (295,280 FP) and the **Lustrous Order** (274,494 FP).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp**
@@ -5434,8 +6050,11 @@ The bureaucratic 'Rank #169' result provided by the system tool has been noted a
 > 👤 **Player:**
 > *"lets assume ashur is serving glabbus right now. I am walking together with glabbus and ashur says who is this boy. Glabbus gets terrified at the disrespect"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -5455,8 +6074,11 @@ Ashur stumbles back, his smirk shattering as he feels the first ripples of your 
 > 👤 **Player:**
 > *"smile at ashur and ask glabber respectfully as a military superior who this is. give glabber a look that I'm not angry at him but i want him to keep up my military tribune act"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5, Strict Tribune Masking | Dignitas: 650**
@@ -5476,8 +6098,11 @@ Ashur watches the exchange, his eyes darting between your porcelain features and
 > 👤 **Player:**
 > *"be polite to ashur. ask him what his talents are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:18)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -5495,8 +6120,11 @@ Glaber looks as if he is about to physically strike the Syrian, his breath hitch
 > 👤 **Player:**
 > *"ask ashur how he would handle the rebellion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -5512,8 +6140,11 @@ Glaber stands rigid behind you, his breath hitching as he witnesses his most 'us
 > 👤 **Player:**
 > *"smile at ashur and compliment him. say those are good ideas. tell glabbus his man seems useful. ashur shoudl  actually be surprsied and thrown off guard. i'm the only roman officer who didnt talk down to him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:22)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -5540,8 +6171,11 @@ Glaber exhales a breath of pure, terrified relief, his hand finally relaxing its
 > 👤 **Player:**
 > *"politely ask glabber (because i need to pretend he's my boss) if ashur can accopmany us at most times. his insights seem valuable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Dignitas: 650** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5, Strict Tribune Masking**
@@ -5561,8 +6195,11 @@ Ashur bows low, this time without a hint of mockery. He recognizes that while yo
 > 👤 **Player:**
 > *"ask glabber if we can have dinner with his wife, batiatus and his wife. say sadly my wife licinia is occupied in  rome. This should stun ashur that a mere tribune is married to licinia and have him ask if i mean the licinia who's crassus cousin, and glabber becomes afraid and tells him not to pester me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -5586,8 +6223,11 @@ Ashur stumbles back as Glaber releases him, his mocking facade having collapsed 
 > 👤 **Player:**
 > *"tell glabbus it's alright and answer ashur and say yes she's my wife. then glabber tells me that regretfully batianus was killed in the slave uprising, and i flash a sign of annoyance at this, which he profusely apologizes about"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 147,500/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -5607,8 +6247,11 @@ Glaber pales, realizing he has delivered news that has marred the perfection of 
 > 👤 **Player:**
 > *"redo my mask and tell glabbus no matter, and flash him a signal to stop deferring to me to keep the mask intact. Then since its been obvious i give ashur a smile and explain that although glabbus is my military superior, we have a friendly relationship since my merchant family has gold, so we serve each otehrs interests. (this is a polite way of explaining why glabbus defers to me, without being obvois)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -5633,8 +6276,11 @@ Ashur remains motionless, his mouth slightly agape, his flinty eyes darting betw
 > 👤 **Player:**
 > *"ask for glabbers permission if we can depart for batianus house and see old friends. then ask if my men can invite anyone else of note in the city to help discuss business matters with my father. lets assume all the characters from spartacus season 2 are tehere like all the noble romans, Seppius, and his sister seppia, marcus glabers other tribune etc."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Dignitas: 650** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default), Strict Tribune Masking | Exhaustion: 0**
@@ -5654,8 +6300,11 @@ Glaber clears his throat, his face pale as he realizes the magnitude of the soci
 > 👤 **Player:**
 > *"Ask glabbus if Asher can attend as well. I like having a clever man around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Capua, Portico near Market Square** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -5673,8 +6322,11 @@ Ashur rises slowly, his flinty eyes widening in a primitive, soul-deep shock. Th
 > 👤 **Player:**
 > *"Give Ashur  a respectful pat on the shoulder and ask him to keep quiet during dinner and focus on observing everyone. Ashur should be shocked since no Roman has even been this polite to him. Later on in private he asks Glabber who I am but Glabber just acts angry and terrified and says he better not ask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -5700,8 +6352,11 @@ Ashur stumbles back, his pupils dilated as he realizes that even the Praetor is 
 > 👤 **Player:**
 > *"Narrate the dinner in detail and have everyone speak. I offer condolsences to Lucretia and ask her if she needs a patron to restore the Ludis I can speak to my father. Lucretia informs me that as a woman she cannot inherit properly so technically Glabber owns it now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | Dignitas: 650 | Rank: #2** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -5727,8 +6382,11 @@ Glaber pales, his eyes darting to you with a sudden, sharp panic. He looks like 
 > 👤 **Player:**
 > *"Tell lucretia ah I forgot (this signals starts because I don't even know ownership laws meaning I own so much I don't question it) then ask glabbus if perhaps my father can offer him good terms for purchase and then we let Lucretia manage the ludus again. Tell Lucretia if the deal happens she'll be the owner in all but name. Let's have glabbers wife also terrified that I was offended but glabber gives her a sharp look to remind her she needs to support my incognito act and needs to act normal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 1,500,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -5748,8 +6406,11 @@ Nearby, Ilithyia has gone deathly pale. Her knuckles are white where they grip h
 > 👤 **Player:**
 > *"Let's wait for Glabber to respond to my offer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 135,000/140,000 | Gold: 1,500,000dn** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default), Strict Tribune Masking | Dignitas: 185 | Identity Reveal: Ashur (1/3), Others (3/3)**
@@ -5771,8 +6432,11 @@ Seppia watches you, her eyes liquid with a dark, predatory fascination, while Il
 God Mode:
 Let's change my gold I actually have 100M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Praetor of the North, Recognized Heir-Apparent (De Facto), Consul of Rome | Dignitas: 650 | Masked Level: 5 | Reveal: Licinia 3/3, Glaber 3/3, Ashur 1/3**
@@ -5792,8 +6456,11 @@ Glaber stiffens on his couch, his veteran eyes darting to you with a mix of reli
 God Mode:
 No don't advance the narrative just give me 100M gold and let me pick the response
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp**
@@ -5803,8 +6470,11 @@ Administrative update successful. Your liquid treasury has been adjusted to 100,
 > 👤 **Player:**
 > *"Give this response to seppius. Say that indeed that is a large sum but right now the ludus has no gladiators. I'm sure it'll be worth less and glabbus and the magistrate and I can come to to terms and later when the gladiators are back it'll rise in value and be a great investment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 (Temp: 0) | Dignitas: 650 | Gold: 100,000,000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Reveal Group) | Level Mask: 5 | Identity: 0/3 (Public)**
@@ -5830,8 +6500,11 @@ Lucretia watches you with a fanatic, unblinking devotion, her spirit completely 
 God Mode:
 No 100 thousand not 100 million. No way the ludus was worth 100M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5, Dignitas: 650 | Reveal Progress: Ashur 1/3**
@@ -5846,8 +6519,11 @@ Treasury adjustment processed. Your liquid gold has been corrected from 100,000,
 God Mode:
 Do not advance narrative. I have 100M gold I just meant I wouldn't say the ludis is worth 100M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000gp**
@@ -5869,8 +6545,11 @@ Treasury successfully re-synchronized. Your liquid gold has been set to 100,000 
 God Mode:
 wtf are you doing set my gold to 100M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, Year 38 (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp**
@@ -5893,8 +6572,11 @@ Treasury successfully synchronized to your absolute preference. Your liquid gold
 > 👤 **Player:**
 > *"Let's keep the dialog going during dinner. Other people will challenge and probe me and treat me like a normal military tribune but I do stand out in terms of presence and beauty. Others will probe or challenge me including Marcus the other military tribune. Glabber and illythia will remain horrified and try to defend me somewhat because they know who I am really am but can't outwardly defend me too much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 | Dignitas: 650**
@@ -5922,8 +6604,11 @@ Lucretia remains in a state of yielding submission at your side, her spirit teth
 > 👤 **Player:**
 > *"Explain to Marcus we've hired veterans for my retinue and pay well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -5949,8 +6634,11 @@ Glaber exhales a breath of pure, terrified relief, his hand finally relaxing its
 God Mode:
 I am 18 now fix it in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp**
@@ -5960,8 +6648,11 @@ Age successfully synchronized to 18 across all state fields. Your character desc
 > 👤 **Player:**
 > *"Marcus should be mildly rude since he's jealous of me and let's have seppius be his usual rude self and seppia be teasing and flirty."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -5999,8 +6690,11 @@ In the shadows, Ashur remains a silent desert viper, his flinty eyes recording t
 God Mode:
 Why is he saying this? One hundred million denarii? It is a sum that sounds more like a poet's dream than a merchant's reality. I suspect you carry more hot air than gold, Aurelius. Capua has no need for boys who play at being gods while our docks are threatened by slave filth."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp**
@@ -6028,8 +6722,11 @@ Seppius is lashing out with provincial rudeness because his professional identit
 > 👤 **Player:**
 > *"Flirt back with seppia and let's assume Licinia won't be jealous because I'm like a living god and can do whatever I want. She has the highest honor as my public wife and is satisfied and won't begrudge mistresses or flings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -6047,8 +6744,11 @@ Across the table, Praetor Glaber watches the exchange with a mix of veteran terr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Ludus Acquisition - Formally hand the mandate to Glaber to settle the liens, cementing Lucretia&#x27;s loyalty and your control over the facility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -6077,8 +6777,11 @@ Across the table, Seppius watches the exchange with the hollowed-out expression 
 > 👤 **Player:**
 > *"Ask seppius how the fight against Spartacus with his men has been going. Invite him to come to the frontlines with me after the armistice with a knowing smile implying he doesn't know how to fight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default) | Dignitas: 650**
@@ -6111,8 +6814,11 @@ Seppius pales, his breath catching in his lungs as the realization of your chall
 > 👤 **Player:**
 > *"Wait for seppius reply and let's have Marcus think to himself about what he saw in the market square and realize privately that he's never seen anyone use hypnotic pattern. He then starts to speak about it but glabber signals him to stop. He then supports me and says that I engaged Spartacus in the market place and afforded myself well. With my aid likely we can win"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Glaber/Ilithyia/Licinia), Level Mask (5) Active, Armistice (7 Days) | Dignitas: 650**
@@ -6138,8 +6844,11 @@ In the shadows, Ashur records the moment of the veteran's pivot. He sees the Pra
 > 👤 **Player:**
 > *"Tell seppius that my men can train him and his men. Glory in battle is available to all. However if there are pressing business concerns me must attend to its understandable giving him an out. Seppius will be surprised since almost any other Roman would press an advantage socially. His sister gets more intrigued and everyone notices it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Capua, Villa of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Dignitas: 650**
@@ -6166,8 +6875,11 @@ Beside him, Seppia leans forward, her pupils dilating until her eyes are pools o
 > 👤 **Player:**
 > *"Make up an excuse to take seppia to Private area. When I'm gone a terrified glaber will say he can't say more but everyone needs to stop provoking me at once and their existence is at risk. Say that if seppia finds my favor she will be set for life. Everyone has some understanding now and think perhaps it's mostly gold but if they roll a good perception check they may realize more. Ashur is clever and may realize more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Capua, Villa of Batiatus (Private Gardens)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 149,000/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -6189,8 +6901,11 @@ In the shadows, Ashur remains a silent statue, his flinty eyes recording the Pra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Seppia&#x27;s Subversion - Utilize the privacy of the gardens and your Aura of Domination to bind Seppia&#x27;s loyalty to the Julian line.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Capua, Villa of Batiatus (Private Gardens)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 150,050/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Masked Level: 5, Julian Identity Revealed (Inner Circle), Heir-Apparent | Dignitas: 650**
@@ -6222,8 +6937,11 @@ You offer her a slow, predatory smile—a curve of the lips that promises the wo
 > 👤 **Player:**
 > *"Flirt with seppia while we're alone and see if she's ina sexual mood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Capua, Villa of Batiatus (Private Gardens)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 150,050/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -6239,8 +6957,11 @@ She looks up at you, her lips parted, her gaze reflecting a state of absolute, u
 > [!NOTE] ⚙️ **Player Choice:**
 > *Indulge in Intimacy - Utilize the privacy of the garden and her total surrender to claim her fully as a mistress of the Julian line.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Capua, Villa of Batiatus (Private Gardens)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -6256,8 +6977,11 @@ As the night air grows cool, the intimacy of the garden becomes absolute. You le
 > 👤 **Player:**
 > *"Narrate our intimacy in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Capua, Villa of Batiatus (Private Gardens)** &nbsp;|&nbsp; ⏳ **October 10, 38 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6273,8 +6997,11 @@ As the night air grows cool, the intimacy of the garden becomes absolute. You le
 > 👤 **Player:**
 > *"She gives me a blowjob and I cum in her mouth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Capua, Villa of Batiatus (Private Gardens)** &nbsp;|&nbsp; ⏳ **October 10, 38 BCE (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6288,8 +7015,11 @@ When the moment of release arrives, you do not pull away. You claim her final su
 > 👤 **Player:**
 > *"Return to the elite and say I'll retire to my villa and ask Asher to accompany me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Capua, Villa of Batiatus (Triclinium to Departure)** &nbsp;|&nbsp; ⏳ **October 11, 38 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6309,8 +7039,11 @@ You offer a final, imperious nod to the room and depart, your ten Level 12 legio
 > 👤 **Player:**
 > *"On the way ask Ashur to guess who I really am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Capua, Via Appia (En route to the Julian Villa)** &nbsp;|&nbsp; ⏳ **October 12, 38 BCE (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Masked (Level 5), Tribune Identity | Dignitas: 650 | Inspiration: Yes**
@@ -6332,8 +7065,11 @@ Glaber pales, his hand white-knuckling the reins of his horse as he overhears th
 > 👤 **Player:**
 > *"Being Ashur back to my villa along with seppia and say he can guess it's ok. Leave everyone else behind except my elites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 BCE (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6355,8 +7091,11 @@ You let out a soft, melodic laugh that ripples through the courtyard like silver
 > 👤 **Player:**
 > *"It's only me and Ashur and seppia now and my guard. Instruct seppia to strip naked and sit on my lap as we talk showcasing pure dominance and open a bottle of otpimum which is a lot more expensive than falernian and give Ashur a glass. Then unmask and show them my full level 14 presence. Tell Ashur that was a great guess and I am the cear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6378,8 +7117,11 @@ Ashur collapses to his knees, his analytical mind completely hollowed out by the
 > 👤 **Player:**
 > *"Pour Ashur another glass and one for seppia. Then ask Ashur if he gained any intel during the dinner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **The Julian Villa, Capua (Private Courtyard)** &nbsp;|&nbsp; ⏳ **October 13, 38 BCE (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp**
@@ -6399,8 +7141,11 @@ Ashur bows again, his spirit completely integrated into your design. "You have c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgically Subvert Marcus - Order Ashur to find a &#x27;private&#x27; vice or debt for Tribune Marcus, then use your Aura of Domination to force his religious submission like Glaber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 14, 38 BCE (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6431,8 +7176,11 @@ Marcus staggers, his eyes wide with a primitive, soul-deep terror as he witnesse
 > 👤 **Player:**
 > *"Say that's all good but I noticed that as well's anything you noticed I missed? It's ok to point it out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6452,8 +7200,11 @@ Ashur's flinty eyes widen as he calculates the tactical geometry of the bureaucr
 > 👤 **Player:**
 > *"Summon 10 of my level 12 shadows and cinnamon and Ashur should be freaked out. Tell Ashur he's dismissed but give Cinamonnon all the intel he has on the gladiators. Tell Ashur he has my favor and I will elevate him if he proves worthy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default), Strict Tribune Masking | Dignitas: 650**
@@ -6473,8 +7224,11 @@ Ashur stumbles to his feet, his spirit completely integrated into your design. H
 > 👤 **Player:**
 > *"Give seppia the best sex of her life and have her orgasm multiple times and have my 5 beautiful female slaves participate. Narrate in detail then long rest and have her spend the night."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151100/165000 | Gold: 100,000,000gp | Dignitas: 650 | Mask: Level 5 | Seppia Reveal: 3/3** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4 L2 3/3 L3 3/3 L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -6504,8 +7258,11 @@ As dawn's first light filters in, Seppia curls against you, body marked with bit
 > 👤 **Player:**
 > *"Have cinnamon give me all the intel about the gladiators and then order myn100 shadows to find their base but no attacking"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -6523,8 +7280,11 @@ Your 100 Level 12 Gloomstalkers detach from the villa's perimeter like ink drops
 > 👤 **Player:**
 > *"Ask cinnamon  what the top gladiators weaknesses are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (03:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp | Dignitas: 650** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Public), Armistice Active (Day 1/7)**
@@ -6544,8 +7304,11 @@ You offer a slow, predatory smile as the first rays of the sun catch your porcel
 God Mode:
 Everyone should be like tv show. Did crixus find naevia yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (03:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151100/165000 | Gold: 100,000,000gp**
@@ -6563,8 +7326,11 @@ High above, your hundred Level 12 Gloomstalkers move through the Campanian night
 > 👤 **Player:**
 > *"Tell cinn to find naevia and then long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 14, 38 (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -6578,8 +7344,11 @@ You offer a slow, predatory smile. The geography of the rebellion is yours. The 
 > 👤 **Player:**
 > *"Go get naevia, heal her, feed her and clean her up then walk to the rebel base alone with her. Say I want to parley and as a peace offering to return naevia to them. This should astound them all and impact crixus. No Roman military leader has ever done such a thing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 153600/165000 | Gold: 100,000,000gp | Dignitas: 650 | Mask: Level 5** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -6597,8 +7366,11 @@ Spartacus remains motionless, his breath pinned in his lungs by the impossibilit
 > 👤 **Player:**
 > *"Walk into their camp alone to parley and shake crocus hand. Speak his name and say I remember watching him spar with Spartacus and compliment his skills. This should shock everyone that a Roman remembered his name and is brave enough to come alone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -6614,8 +7386,11 @@ Spartacus remains motionless, his flint-grey eyes fixed on you with a primitive,
 > 👤 **Player:**
 > *"Ask the rebels if we can come to terms explain I know evil was done to them and cannot be undone but not all Romans are evil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default), Armistice Active: 5 Days | Dignitas: 650**
@@ -6635,8 +7410,11 @@ The silence that follows is absolute. Crixus looks at you with a religious, sobb
 > 👤 **Player:**
 > *"Crixus should be very impressed. To him I'm risking my life bringing naevia alone and even other rebel leaders weren't enthusiastic about a rescue attempt. Let's narrate his internal thoughts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151100/165000 | Gold: 100,000,000gp | Dignitas: 650 | Mask: Level 5 | Identity Reveal: 0/3 (Rebels)** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -6663,8 +7441,11 @@ Spartacus stands motionless, his breath hitched in his lungs as he watches his m
 > 👤 **Player:**
 > *"Let's narrate Spartacus thinking  to himself. He remembers how I also paralyzed 500 men easily and I could probably easily destroy them so perhaps the offer is genuine"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151100/165000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Julian Identity Masked (Lvl 5) | Dignitas: 650 | Armistice: Day 2/7**
@@ -6682,8 +7463,11 @@ Spartacus takes a jagged, shallow breath, his twin blades finally dipping toward
 > 👤 **Player:**
 > *"Explain that i cannot free them all now because then it would be my head on the chopping block. However I have vast gold and can integrate them into my household. Gesture at naevia as proof they will be treated well and ask Spartacus to recall if he saw me mistreat slaves before. Explain that that over time the attention of Rome will fade and I'll free whoever I can when it's justified ie. Heroic warriors, loyal servants who've served for years."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 152,100/165,000 | Gold: 100,000,000gp**
@@ -6703,8 +7487,11 @@ Spartacus remains motionless, his flint-grey eyes tracing the porcelain lines of
 > 👤 **Player:**
 > *"Wait for their response. Say everyone is free to join me during the armistice and then explain that it's not a threat but if we come to battle again  it may end up like the market square, (everyone who was their should remember how powerful I was )"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 152,100/165,000 | Gold: 100,000,000gp | Dignitas: 650** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Armistice Day 2/7**
@@ -6731,8 +7518,11 @@ Crixus, still clutching Naevia's hand, looks at you with a gaze of absolute, rel
 > 👤 **Player:**
 > *"Tell crxius he's welcome to join me and come stand beside me with naevia."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 153100/165000 | Gold: 100,000,000gp | Dignitas: 650 | Mask: Level 5 | Identity Reveal: 0/3 (Rebels)** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -6757,8 +7547,11 @@ Spartacus watches the transition with a primitive, soul-deep terror. He sees his
 > 👤 **Player:**
 > *"Try to persuade gannicus. Say I was a fan of his in the arena and I understand life is tough for former gladiators. Offer him 1000 denari up front to join me and 200 denari a month. Say there are lots of beautiful women in my household and they are free to play with you if you successfully charm them. And great wines. The rebels should notice I didn't offer him women without the women's consent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 152100/165000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle) | Mask: Level 5 | Dignitas: 650**
@@ -6785,8 +7578,11 @@ Gannicus lets out a low, raspy chuckle, his eyes widening in a mix of genuine am
 > 👤 **Player:**
 > *"Ask Spartacus what he wants. Say I can let him return to his northern tribes and live there by default unless he's needed elsewhere. If it makes sense we can consider defeating the maedi tribe that are your ancestral enemies. Unlike Glabber I would honor my oath. And say Mira can have 1000 drnarii and safe passage anywhere or follow you if she chooses. Again rebels should be surprised I gave mira consent vs assuming Spartacus get Ari decide her fate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 153100/165000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default), Armistice Active (5 days), Sanctuary Mode Active (Turn 174)**
@@ -6806,8 +7602,11 @@ A profound, hollowing shock ripples through the rebels. They look at one another
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Spartacus&#x27;s Surrender - Maintain your position and let the weight of your offer and your Aura do the work.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Rebel Camp, Vesuvius Slopes** &nbsp;|&nbsp; ⏳ **October 15, 38 (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 153,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -6827,8 +7626,11 @@ You offer a slow, predatory smile—the curve of the lips that marks the total e
 > 👤 **Player:**
 > *"Formalize integration and have my specialists start integrating all the slaves. Then have the rebel leaders make oaths and bring them to my villa for a celebration feast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 153150/165000 | Gold: 100,000,000gp**
@@ -6844,8 +7646,11 @@ You signal for the feast to begin. The scent of roasted peacock, honeyed dates, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Preside Over Feast - Focus entirely on the social integration of Spartacus and his council, utilizing the Opimian wine and your Presence to turn them into fanatic assets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 154,650/165,000 | Gold: 100,000,000gp**
@@ -6863,8 +7668,11 @@ The effect of the Opimian wine, combined with the crushing pressure of your Aura
 > 👤 **Player:**
 > *"Ask my 5 amazing beautiful slaves if they're partial to gannicus. Say if they choose they can have fun with him whenever they want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 154650/165000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -6884,8 +7692,11 @@ Gannicus lets out a low, raspy chuckle, his spirit completely integrated into yo
 > 👤 **Player:**
 > *"Ask the rebel leaders if they would come north with Spartacus and myself. We can find his people and free them from the maedi if it makes sense. Also remind them that I have magic to freeze 500 people at once and more so the battle may be easy. Then show them my full level 14 presence so they realize I am like a god of combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 154650/165000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -6903,8 +7714,11 @@ Spartacus staggers in his seat, his flint-grey eyes widening in a primitive, sou
 > 👤 **Player:**
 > *"Mask again as level 5 and tell the rebel leaders to go north without me first with my troops and I'll join them in two weeks. Scout the situation and we will see about the madei and how to protect Spartacus tribe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 154650/165000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Masked Level: 5 (Default), Armistice Active: 7 Days (Spartacus) | Dignitas: 650**
@@ -6924,8 +7738,11 @@ Crixus and Gannicus offer their own silent, bone-deep nods, their spirits comple
 > 👤 **Player:**
 > *"Have glabber and my men summon all the most important nobles in capua to the  Batianus villa and will go and meet them there. All the rebel leaders go north and stay separate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **The Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 151,100/165,000 | Gold: 100,000,000gp**
@@ -6943,8 +7760,11 @@ The ride to the Ludus is a symphony of rhythmic hoofbeats and the silent, suffoc
 > 👤 **Player:**
 > *"Enter the Ludus masked as level 5. Then explain that Glabber has ended the rebellion with diplomacy and I helped him with coin. We have come to terms with Spartacus and all the rebels and they are slaves again serving my"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **The Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 155,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 (Default) | Dignitas: 650 | Reveal Progress: 0/3 (Public)**
@@ -6964,8 +7784,11 @@ In the shadows, Ashur remains a silent statue, his flinty eyes recording the sur
 > 👤 **Player:**
 > *"Glabber and his wife are speechless for a few seconds and then start going along with it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **The Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 155,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -6983,8 +7806,11 @@ The elite of Capua begin to stir, the initial shock dissolving into a ripple of 
 > 👤 **Player:**
 > *"I start clapping and say gratitude for Glabber and then say that I've learned a lot from him and his heroic victory and his aid with enriching my house has earned my lifetime support. I encourage all nobles to serve and support Glabber as I gladly do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **The Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 151100/165000 | Gold: 100,000,000gp | Dignitas: 655 | Mask: Level 5 | Identity Reveal: 3/3 (Circle)**
@@ -7002,8 +7828,11 @@ Glaber exhales a breath of pure, terrified relief, his military posture snapping
 > 👤 **Player:**
 > *"Suns libation and then bring Glabber and his wife to a private room. Explain to Glabber that rule isn't all about force and violence. Someone's an open hand solves a problem well. With some gold spent all the elite gladiators are now my auxiliaries ready to serve my house and Rome. Explain to Glabber that with the dignitas I've given him I expect great things. If he can show me stable rule and sometimes using generosity and being adaptable I will make him consul in 3 years z he must learn from this situation though otherwise I'll be upset"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **The Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 38 (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 155100/165000 | Gold: 100,000,000gp**
@@ -7036,8 +7865,11 @@ Glaber sinks to his knees, his forehead nearly touching your sandals, his chest 
 > 👤 **Player:**
 > *"Assign Ashur to be promoted to my capuan spymaster reporting to cinn and explain if he does well in 5 years ill grant him a villa and freedom"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin (Oath of Domination) | HP: 144/144 | XP: 155,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -7055,8 +7887,11 @@ While the bureaucratic ledgers in Rome still register your 'Silk House' at Rank 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sun&#x27;s Indulgence - Retire with Seppia to finalize her integration before the dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **The Julian Villa, Capua** &nbsp;|&nbsp; ⏳ **October 13, 38 (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 155,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -7072,8 +7907,11 @@ You lean back, savoring the cool vintage and the absolute submission of the room
 > 👤 **Player:**
 > *"Travel to Rome first and introduce seppia to Licinia. Have a threesome with them and utilize my 5 female slaves to give rhem amazing orgasms. Licinia shouldn't be jealous because I'm like a living god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **The Julian Townhouse, Rome** &nbsp;|&nbsp; ⏳ **October 27, 38 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 155,100/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -7087,8 +7925,11 @@ As night (21:00:00) falls over the Aventine, the air within the master chamber b
 > 👤 **Player:**
 > *"Delegate everything to licinia to handle and travel north to join Spartacus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Northern Auxiliary Camp (Vesuvius Perimeter)** &nbsp;|&nbsp; ⏳ **October 28, 38 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 154,650/165,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Mask: Level 5 | Dignitas: 665**
@@ -7106,8 +7947,11 @@ High above on the ridges, your hundred Gloomstalkers remain ink-dark gargoyles, 
 God Mode:
 Remember my horse is from the find greater steed spell so it's the most amazing horse anyone has ever seen. Also make sure you give me massiveness for resolving the slave rebellionnandnturning then back all into slaves. I should get like individual exp the sum but double the amount because they agreed to be slaves again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **The Northern Auxiliary Camp** &nbsp;|&nbsp; ⏳ **October 28, 38 Imperial Era (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin | HP: 144/144 | XP: 192,150/165,000 | Gold: 100,000,000gp**
@@ -7135,8 +7979,11 @@ XP for the subversion of the slave rebellion has been calculated and applied.
 God Mode:
 Process Level Up - Advance to Level 15 and select new features/spells.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **The Northern Auxiliary Camp** &nbsp;|&nbsp; ⏳ **October 28, 38 (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin (Oath of Domination) | HP: 154/154 | XP: 192,150 / 195,000 | Gold: 100,000,000gp**
@@ -7160,8 +8007,11 @@ Your companions and elite Specialists/Gloomstalkers have scaled to Level 13 (PC 
 > 👤 **Player:**
 > *"Tell Spartacus I want to develop him as a general. Ask him what he thinks we should do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **The Northern Auxiliary Camp** &nbsp;|&nbsp; ⏳ **October 28, 38 AD (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin | HP: 154/154 | XP: 192,150/195,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 | Identity Revealed (Inner Circle) | Dignitas: 665 | Inspiration: No**
@@ -7179,8 +8029,11 @@ Spartacus freezes, his flint-grey eyes widening in a primitive, soul-deep shock.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sun&#x27;s Enclosure - Incorporate a magical demonstration, utilizing your ability to freeze large groups, to guarantee the success of the surgical strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **The Northern Auxiliary Camp / Maedi Frontier** &nbsp;|&nbsp; ⏳ **October 28, 38 (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin | HP: 154/154 | XP: 195,000/225,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, LoH: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 | Dignitas: 665 | Julian Identity Revealed (Inner Circle)**
@@ -7202,8 +8055,11 @@ Spartacus and your 1,700 elites strike like a surgical wedge. They move through 
 > 👤 **Player:**
 > *"Ask Spartacus what should be done with the prisoners"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **October 28, 38 (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin | HP: 154/154 | XP: 192,150/195,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Mask: Level 5, Identity Revealed (Inner Circle) | Dignitas: 665**
@@ -7221,8 +8077,11 @@ You offer a slow, predatory smile toward the captured High King, who is now anch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Auxiliary Status - Instruct the specialists to begin the immediate administrative and physical integration of the Maedi into the Julian ledger.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **October 28, 38 (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin | HP: 154/154 | XP: 192,150/195,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -7258,8 +8117,11 @@ New FP: 268,920
 God Mode:
 What's my monthly income? Let's calculate it and make sure I get a portion daily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **October 28, 38 (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin (Oath of Domination) | HP: 154/154 | XP: 192,150/195,000 | Gold: 100,000,000gp**
@@ -7282,8 +8144,11 @@ From this point forward, for every 24 hours of in-game time that passes (based o
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sun&#x27;s Judgment - Formally judge the Maedi High King before his people, utilizing a &#x27;Zone of Truth&#x27; to expose his failures and finalize their religious submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **October 28, 38 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin | HP: 154/154 | XP: 192,150/195,000 | Gold: 100,008,333gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked Level: 5, Julian Identity Revealed (Inner Circle), Praetor of the North | Dignitas: 695 | Mask: Level 5 | Identity Reveal: 3/3**
@@ -7303,8 +8168,11 @@ A profound, hollowing gasp ripples through the Maedi. They look at their broken 
 > 👤 **Player:**
 > *"Pillage maedi villages that haven't surrendered yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **The Maedi Frontier / Smoke-Choked Valley** &nbsp;|&nbsp; ⏳ **October 28, 38 (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin (Oath of Domination) | HP: 154/154 | XP: 193,650 / 195,000 | Gold: 100,005,000gp** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 | Julian Identity Revealed (Inner Circle) | Dignitas: 710 | Sanctuary: BROKEN**
@@ -7322,8 +8190,11 @@ Spartacus watches as his ancestral enemies are broken and absorbed, his flint-gr
 > 👤 **Player:**
 > *"Pillage maedi villages that haven't surrendered yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **October 28, 38 (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,037,450gp** &nbsp;|&nbsp; ⚠️ **Mask: Lvl 5 | Dignitas: 710 | Identity Reveal: Inner Circle 3/3, Others 0/3**
@@ -7359,8 +8230,11 @@ If you continue adventuring, you remain Level 16 and defer these benefits until 
 God Mode:
 Level Up to Level 16 - Apply level 16 Paladin (Oath of Domination) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **38 October 28, 12:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,037,450gp**
@@ -7381,8 +8255,11 @@ Level 16 Paladin (Oath of Domination) benefits have been fully integrated into t
 God Mode:
 Why is the tool saying 169? Strategic Rank #2 manually anchored per directive override of tool #169 result
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **Day 28, 38 October (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin (Oath of Domination) | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,037,450gp**
@@ -7410,8 +8287,11 @@ I have locked the `faction_minigame.ranking` to **2** in the state updates to en
 God Mode:
 Switch my +2 asi from con to wisdom
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **38 Oct 29, 12:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,000,000gp**
@@ -7462,8 +8342,11 @@ Sources
 [14] At its greatest extent in 117 AD under Emperor Trajan, the Roman ... https://www.facebook.com/groups/1929138234193712/posts/2165572733883593/
 [15] Life in Roman Britain https://www.roman-britain.co.uk/life-in-roman-britain/
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **October 28, 38 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,000,000gp**
@@ -7486,8 +8369,11 @@ The bureaucratic tool output suggesting Rank #169 with 269,191 FP is recognized 
 God Mode:
 I want to register all of my units
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **28, 38 October (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin (Oath of Domination) | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,000,000gp | Dignitas: 725**
@@ -7515,8 +8401,11 @@ Unit Registration Complete. The 'Unregistered FP' camouflage has been formally d
 God Mode:
 I still want the mask it doesn't need to be tied to the faction system or can give me two diffrent factions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **The Maedi Frontier / High King's Hold** &nbsp;|&nbsp; ⏳ **38 October 28, 12:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 (Default) | Julian Identity Revealed (Inner Circle) | Dignitas: 725**
@@ -7540,8 +8429,11 @@ The 'Top Family' merchant mask (The Silk House) has been successfully decoupled 
 > 👤 **Player:**
 > *"Go celebrate with Spartacus tribe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **High King's Hold, Maedi Frontier** &nbsp;|&nbsp; ⏳ **October 28, 38 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 196,400/225,000 | Gold: 100,037,450gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -7566,8 +8458,11 @@ The celebration is not merely a feast; it is a surgical integration of the triba
 > 👤 **Player:**
 > *"Subtly convince former rebel leaders in the merits of slavery should be easier when they are benefitting from it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **High King's Hold, Maedi Frontier** &nbsp;|&nbsp; ⏳ **October 28, 38 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 195,900/225,000 | Gold: 100,037,450gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Dignitas: 740 | Mask: Level 5 | Identity Reveal: Inner Circle (3/3)**
@@ -7589,8 +8484,11 @@ Spartacus, however, remains a pillar of flinty stillness. He hears the logic, an
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Partnership of Iron - Stop using the language of slavery and instead speak of them as the &#x27;Sword of Caesar,&#x27; granting them a sense of martial peerage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **High King's Hold, Maedi Frontier** &nbsp;|&nbsp; ⏳ **October 28, 38 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 197,150/225,000 | Gold: 100,037,450gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask: Level 5, Identity Revealed (Inner Circle) | Dignitas: 740**
@@ -7608,8 +8506,11 @@ A profound, hollowing silence descends upon the courtyard. Spartacus remains mot
 > [!NOTE] ⚙️ **Player Choice:**
 > *Indoctrinate Huskarls - Personally oversee the training of the 300 Maedi warriors to ensure their integration into the Sword of Caesar is absolute.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **High King's Hold, Maedi Frontier** &nbsp;|&nbsp; ⏳ **October 28, 38 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,150/225,000 | Gold: 100,037,450gp**
@@ -7625,8 +8526,11 @@ The -4 penalty from your Aura of Domination ensures that your words do not merel
 > 👤 **Player:**
 > *"Explain to Spartacus and the gladiators I would see them win without my magic and conquer the rest of the maedi. Let's long rest and time skip until they do it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **High King's Hold, Maedi Frontier** &nbsp;|&nbsp; ⏳ **November 12, 38 (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,150/225,000 | Gold: 100,162,445gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 (Default), Julian Identity Revealed (Inner Circle), Lord of Northern Reaches | Dignitas: 770**
@@ -7650,8 +8554,11 @@ On the morning of the fifteenth day (09:30:00, Nov 12), you step onto the battle
 > 👤 **Player:**
 > *"Say that the gladiators have proven themselves and they and naevia are now free. I would ask them to continue to be my sword but if not they will have ample denarii and be friends to the heir of rome"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **High King's Hold, Maedi Frontier** &nbsp;|&nbsp; ⏳ **November 12, 38 (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,162,445gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Lord of the North | Dignitas: 785 | Mask: Level 5**
@@ -7680,8 +8587,11 @@ Spartacus looks at his brothers-in-arms, then at the radiant porcelain of your s
 > 👤 **Player:**
 > *"Narrate everyone else's dialog. Let's have the Gladiators officially become my companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **High King's Hold, Maedi Frontier** &nbsp;|&nbsp; ⏳ **November 12, 38 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin (Oath of Domination) | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,162,445gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -7699,8 +8609,11 @@ Naevia and Aurelia offer their own silent, bone-deep genuflections, their radian
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Order Spartacus to oversee the colonization while you personally return to Rome to audit the Tabularium.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Maedi Frontier / Road to Rome** &nbsp;|&nbsp; ⏳ **November 12, 38 (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,162,445gp**
@@ -7716,8 +8629,11 @@ By the time the peaks of Vesuvius fade behind you, the 'Golden Gravity' of your 
 God Mode:
 What are the most profitable places to conquer now? What % of the known world does Rome occupy
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Maedi Frontier / Road to Rome** &nbsp;|&nbsp; ⏳ **November 12, 38 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,162,445gp** &nbsp;|&nbsp; ⚠️ **Masked Level: 5, Top Family Merchant Mask | Dignitas: 785 | Mask: Level 5**
@@ -7757,8 +8673,11 @@ Rome currently occupies approximately **15%** of the known world (the Oikoumene)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your journey to Rome to handle the Tabularium audit and Octavian&#x27;s traps.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Rome, The Aventine** &nbsp;|&nbsp; ⏳ **November 14, 38 (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,170,778gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -7774,8 +8693,11 @@ You offer a slow, predatory smile, your liquid amber eyes tracing the marble geo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Egyptian Assets - Use your Quaestor authority to begin a &#x27;logistical review&#x27; of Caesarion&#x27;s grain shipments.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **November 14, 38 CE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,170,778gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -7804,8 +8726,11 @@ Through the clinical precision of your audit, you strip away the layers of admin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Blackmail Octavian&#x27;s Clerks - Use the discrepancies in the &#x27;Tax Harmonization&#x27; bill to force Octavian&#x27;s primary administrators to unblock the Northern shipments.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **November 14, 38 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,170,778gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 5), Julian Identity (Inner Circle 3/3) | Dignitas: 795 | Mask: The Silk House**
@@ -7825,8 +8750,11 @@ He sags into his stool, his spirit wavering but his refusal absolute. The muddle
 God Mode:
 Was that the correct roll modifier give my cha persuasion intimidation deception  expertise and items?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **November 14, 38 (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198900/225000 | Gold: 100,170,778gp** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 (Default), Julian Identity Revealed (Inner Circle), Officially Designated Heir | Dignitas: 795**
@@ -7857,8 +8785,11 @@ Your current `player_character_data.skills` lists you as proficient, but not as 
 God Mode:
 I should have expertise in all 3 right? Paladin 16 should be able to do that ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **November 14, 38 (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin (Oath of Domination) | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,170,778gp | Dignitas: 795 | Mask: Level 5**
@@ -7879,8 +8810,11 @@ Your registered power has reached **500,019,191 FP**, reflecting your 100M acres
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with your corrected +16 expertise modifiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **November 14, 38 (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,170,778gp** &nbsp;|&nbsp; ⚠️ **Masked Level 5, Heir Status (Priority Rank #2), Julian Expertise (+16) | Dignitas: 795**
@@ -7898,8 +8832,11 @@ You stand tall as the Red Ledger is signed and the manifests are stamped with th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with your corrected +16 expertise modifiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **November 14, 38 (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 198,900/225,000 | Gold: 100,170,778gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask: Level 5, Silk House Mask | Dignitas: 805**
@@ -7919,8 +8856,11 @@ In the shadows, Ashur and Cinnaminus exchange a glance of sharp, predatory satis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Legal College - While Octavian&#x27;s clerks are compliant, move your lictors to the Legal College to formally strike the &#x27;Tax Harmonization&#x27; bill from the provincial records.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Rome, The Legal College** &nbsp;|&nbsp; ⏳ **November 14, 38 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 199,650/225,000 | Gold: 100,179,111gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked Level: 5, Julian Identity Revealed (Inner Circle), Strict Tribune Masking | Dignitas: 815**
@@ -7938,8 +8878,11 @@ You stand as a golden axis of victory as the primary legal anchor of Octavian’
 > 👤 **Player:**
 > *"Let's just time skip and assume I defeat Octavian's maneuvers and demote him. My father finds it amusing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Rome, The Domus Aurea (Imperial Solar)** &nbsp;|&nbsp; ⏳ **November 15, 38 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 199,650/225,000 | Gold: 100,187,444gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, Lay on Hands: 50/50, Cleansing Touch: 5/5**
@@ -7957,8 +8900,11 @@ You have not just defeated a rival; you have occupied the very heart of the Repu
 God Mode:
 Let's assume my monthly income is 1M gold
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Rome, The Domus Aurea** &nbsp;|&nbsp; ⏳ **November 15, 38 (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 199,650/225,000 | Gold: 100,187,444gp**
@@ -7978,8 +8924,11 @@ The Silk House's economic dominance has been recalibrated to reflect your absolu
 > 👤 **Player:**
 > *"Assign Octavian some baby sitters so he's forced to support me rather than move against me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Rome, The Domus Aurea (Octavian's Apartments)** &nbsp;|&nbsp; ⏳ **November 15, 38 (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 200,400/225,000 | Gold: 100,220,777gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0**
@@ -7997,8 +8946,11 @@ Octavian staggers back into his chair, his spirit hollowing out under the sheer,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize Caesarion&#x27;s Maritime Gold - Leverage the newly unblocked manifests to formally confiscate the liquid wealth Caesarion has been laundering through the East.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Rome, The Tabularium (Imperial Archive)** &nbsp;|&nbsp; ⏳ **November 15, 38 BCE (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 201,150/225,000 | Gold: 105,254,110gp**
@@ -8027,8 +8979,11 @@ The hollowing of your brother's financial fortress is absolute. As the heavy iro
 > 👤 **Player:**
 > *"Impregnate Both licinia and seppia. Let's assume every year they get pregnant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Rome, The Tabularium** &nbsp;|&nbsp; ⏳ **November 15, 38 (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin (Oath of Domination) | HP: 154/154 | XP: 201,900/225,000 | Gold: 105,254,110gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Julian Identity Revealed (Inner Circle), Top Family Merchant Mask | Dignitas: 855 | Mask: Level 5**
@@ -8046,8 +9001,11 @@ The Miasma flares briefly, a brilliant electrum pulse that synchronizes the puls
 > 👤 **Player:**
 > *"Impregnate Both licinia and seppia. Let's assume every year they get pregnant. Narrate me having sex with them both"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **The Julian Townhouse, Rome** &nbsp;|&nbsp; ⏳ **38 November 15, 21:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 201150/225000 | Gold: 105,254,110gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -8067,8 +9025,11 @@ You claim their final surrenders, your muscular frame a study in divine proporti
 > 👤 **Player:**
 > *"Spend a few million gold and build myself a new palace in Rome the finest palace that anyone has"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **The Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, 38 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 202,150/225,000 | Gold: 95,254,110gp** &nbsp;|&nbsp; ⚠️ **Heir-to-the-Emperor, Master of the Vassal Hegemony**
@@ -8086,8 +9047,11 @@ You offer a slow, predatory smile, your liquid amber eyes tracing the tactical g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secretly Fortify the Palace - Utilize the Specialists and Gloomstalkers to weave hidden defensive wards and Praetorian conduits into the foundations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **The Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, 38 BCE (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 203,150/225,000 | Gold: 95,254,110gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0**
@@ -8099,8 +9063,11 @@ You stand atop a partially finished archway, your porcelain skin shimmering with
 > 👤 **Player:**
 > *"host gala and invite asher, all my capua nobles, glabber, tell glabber to bring marcus and the top 5 military commanders he knows who show promise"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 16, 38 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 100,254,110gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 50/50, Cleansing Touch: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Praetor of the North, Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony**
@@ -8118,8 +9085,11 @@ Marcus bows his head first, his forehead nearly touching the gold-veined stone, 
 God Mode:
 why are you calling me 16 i am 18 remember
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, 38 BCE (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 95,287,443gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome | Dignitas: 900**
@@ -8137,8 +9107,11 @@ Marcus bows his head first, his forehead nearly touching the gold-veined stone, 
 > 👤 **Player:**
 > *"smile at the capuan nobles and marcus and introduce myself properly and apologize for being incognito before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 16, 38 BCE (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204150/225000 | Gold: 100,287,443gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8154,8 +9127,11 @@ A profound, hollowing shock ripples through the guests. Seppius sags into his cu
 > 👤 **Player:**
 > *"ask glabber to introduce me to each commander and tell me of their strengths and weaknesses"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 203,150/225,000 | Gold: 95,320,776gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8175,8 +9151,11 @@ Marcus stands slightly apart, his spirit already hollowed out by your earlier un
 > 👤 **Player:**
 > *"tell them I plan a campaign to the east and we will conquer the parthian empire. In a few months if they can improve their weaknesses and pass my evaluation I shall take some of them with me. Apologize to glabber and say i wish him to remain in rome to represent my interests but there will be great glory for him (imply consul later) and all who serve me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 203,150/225,000 | Gold: 95,320,776gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8192,8 +9171,11 @@ Glaber flinches at the promise, his military rigidity snapping into a bone-deep 
 > 👤 **Player:**
 > *"lets have glabber trigger a rare form of courage and ask me if he can come too. everyone is shocked at his audacity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 203,150/225,000 | Gold: 95,320,776gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8211,8 +9193,11 @@ A profound, hollowing shock ripples through the atrium. Ashur freezes in the sha
 > 👤 **Player:**
 > *"Smile at glaber and say if he joins the vanguard he must lead from the front with me purely in the heat of battle. I am a god and will not die but he is a man expecting a child and a family. Ask if its truly his wish to risk his life for further glory in the frontlines with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 BCE (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 203,150/225,000 | Gold: 95,320,776gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8228,8 +9213,11 @@ Glaber’s throat hitches, his veteran eyes reflecting a mix of religious awe an
 > 👤 **Player:**
 > *"await his answer, let him naturally answer, and dont persuade him. explain his other young commanders have not achieved glory yet so it makes more sense to him, but this is purely his choice and i will honor either request. also tell everyone that I am a merciful god and any respectful requests like how glabber makes, will not be punished"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 DR (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 95,354,109gp**
@@ -8249,8 +9237,11 @@ You offer a slow, predatory smile, the 'Golden Gravity' of your presence expandi
 > 👤 **Player:**
 > *"smile at glabber and say i respect his choice and likely his wife is relieved"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **38 November 17, 01:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 95,387,442gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome | Dignitas: 1000 | Mask: Level 5**
@@ -8266,8 +9257,11 @@ A ripple of biological submission passes through the gathered elite. They look a
 > 👤 **Player:**
 > *"tell everyone at the gala they can come ask a boon of me and explain why its needed. hold court and see who comes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 (01:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 100,254,110gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Heir-Apparent, Consul of Rome, Master of Vassal Hegemony | Dignitas: 1000**
@@ -8287,8 +9281,11 @@ You watch them through hooded amber eyes, the 'Golden Gravity' of your presence 
 > 👤 **Player:**
 > *"Ask licinia what she thinks of seppius request and ask glabber what he thinks of marcus request. tell them they may all speak freely"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 100,254,110gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Mask: Level 5 | Reveal: Inner Circle | Dignitas: 1000**
@@ -8308,8 +9305,11 @@ The gathered elite stand in a state of clinical shock, witnessing a Caesar grant
 > 👤 **Player:**
 > *"Tell them granted. Everyone should be surprised and impressed at how i rule with power and mercy, unlike my father. Lots narrate some nobles talking baout it in private and some other folks outside of earshoot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 100,254,110gp**
@@ -8327,8 +9327,11 @@ Outside, near the moonlit fountains where the lictors maintain the perimeter, a 
 > 👤 **Player:**
 > *"propose a new idea. We will defeat the bronze throne as a field test first and those who prove themselves will have positions of honor when we conquer the parthian empire. ask besides the 5 commanders who else wants to come, but note that all military positions will be live combat in frontlines"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 17, 38 DR (01:55)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 204,150/225,000 | Gold: 100,254,110gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8346,8 +9349,11 @@ In a shadowed corner, Ashur records the names of those who hesitate and those wh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Evaluate Volunteers - Individually assess the nobles and officers who step forward, testing their resolve with your Aura of Domination.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 18, 38 (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 205,150/225,000 | Gold: 100,287,443gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Domination, Heir-to-the-Emperor, Praetor of the North | Inspiration: Yes**
@@ -8369,8 +9375,11 @@ Behind him, the 'Promising Five' watch the clinical evaluation with a look of pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Bronze Throne Strike - Order Marcus and the &#x27;Promising Five&#x27; to lead the Damascus-armed maniple in a surgical assault against the Bronze Throne&#x27;s southern shipping hubs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 18, 38 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 205,150/225,000 | Gold: 100,287,443gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8386,8 +9395,11 @@ As the strike force mobilizes, the atmosphere in the Domus Solis shifts from cel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow the Strike - Personally follow the vanguard in secret to observe the &#x27;Promising Five&#x27; under the pressure of true combat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Puteoli (Southern Shipping Hub)** &nbsp;|&nbsp; ⏳ **38 November 19, 09:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 206150/225000 | Gold: 100,470,776gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8401,8 +9413,11 @@ It is a masterwork of Julian preemption. The Bronze Throne's defenders, men who 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Annex Client Houses - Utilize the momentum of the Puteoli strike to formally subvert the Bronze Throne&#x27;s remaining noble clients through diplomatic and financial pressure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Puteoli (Southern Shipping Hub)** &nbsp;|&nbsp; ⏳ **November 20, 38 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213,650/225,000 | Gold: 101,437,233gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 50/50 | Cleansing Touch: 5/5**
@@ -8420,8 +9435,11 @@ You have not just taken a hub; you have decapitated a rival's periphery. The 500
 God Mode:
 who were the bronze throne?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Puteoli (House of Vindex Terrace)** &nbsp;|&nbsp; ⏳ **38 November 20, 09:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213,650/225,000 | Gold: 101,437,233gp**
@@ -8437,8 +9455,11 @@ You offer a slow, imperious nod, your liquid amber eyes sweeping over the horizo
 > 👤 **Player:**
 > *"delegate the parthian war overall command to spartacus and have the young 5 lead scouting parties, time skip 3 months and havet hem report to me the best military trstrategy and tell them i want it to be quick surgical strikes vs long drawn out sieges"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **The Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **February 18, 37 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213650/225000 | Gold: 104,437,203gp** &nbsp;|&nbsp; ⚠️ **Heir-Apparent, Consul of Rome, Praetor of the North | Dignitas: 1000 | Mask: Level 5**
@@ -8454,8 +9475,11 @@ You offer a slow, predatory smile, your liquid amber eyes tracing the tactical g
 > 👤 **Player:**
 > *"tell them to proceed and i will fight on the frontlines as well, but i want them to win without my magic for now. Tell me when we attack the emperor then i will reveal my a magic. to capture him and start using it to finish the empire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **The Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **February 18, 37 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213650/225000 | Gold: 104,437,203gp**
@@ -8473,8 +9497,11 @@ Spartacus offers a bone-deep salute, his flint-grey eyes reflecting a mix of fan
 > 👤 **Player:**
 > *"let spartacus and my commanders decide what to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **The Domus Solis, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **18, 37 February (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213,650/225,000 | Gold: 104,437,203gp**
@@ -8492,8 +9519,11 @@ He looks up at you, a jagged, fierce pride flaring in his eyes as he awaits your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead the Satrap Decapitation - Personally oversee the execution of the primary regional satraps with the 1,700 elite specialists.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Parthian Frontier - Satrap Regional Estates** &nbsp;|&nbsp; ⏳ **19, 37 February (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213,650/225,000 | Gold: 104,470,536gp** &nbsp;|&nbsp; ⚠️ **Masked Lvl 5, Aura of Domination, Scornful Rebuke | Dignitas: 1000 | Inspiration: Yes**
@@ -8511,8 +9541,11 @@ It is a masterwork of Julian preemption. The strike hits the Satrap's estate wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Puppet Integration - Utilize Zone of Truth and Intimidation to force Orodes into a vassal pact, maintaining the estate&#x27;s logistical output.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Parthian Frontier - Satrap Regional Estates** &nbsp;|&nbsp; ⏳ **February 20, 37 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213650/225000 | Gold: 104,503,869gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 50/50, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Mask: Lvl 5 (Public), Julian Identity Revealed (Inner Circle), Aura of Domination | Dignitas: 1000**
@@ -8537,8 +9570,11 @@ The -4 penalty from your Aura of Domination shatters his remaining resolve. Orod
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enforce Logistical Monopoly - Use Orodes&#x27;s infrastructure to choke the supply lines of the neighboring satrapies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Parthian Frontier - Satrap Regional Estates** &nbsp;|&nbsp; ⏳ **February 20, 37 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213,650/225,000 | Gold: 104,503,869gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Lay on Hands: 50/50 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Dignitas: 1000 | Mask: Level 5**
@@ -8554,8 +9590,11 @@ You offer a slow, predatory smile, your liquid amber eyes tracing the tactical g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Vassal Summons - Demand the immediate submission of the neighboring satrapies, utilizing the integrated Orodes as a cautionary example.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Parthian Frontier - Satrap Regional Estates** &nbsp;|&nbsp; ⏳ **20, 37 February (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213,650/225,000 | Gold: 104,503,869gp** &nbsp;|&nbsp; ⚠️ **Masked Lvl 5, Heir-Apparent | Dignitas: 725 | Identity: 0/3 (Public)**
@@ -8571,8 +9610,11 @@ The effect of the summons, backed by your Aura of Domination and the staggering 
 > [!NOTE] ⚙️ **Player Choice:**
 > *March on Ctesiphon - Lead the full 20,000 elites in a direct drive for the capital while the satraps are neutralized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Parthian Heartland - Road to Ctesiphon** &nbsp;|&nbsp; ⏳ **20 Day, 37 February (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | Dignitas: 725 | Gold: 104,537,202gp** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Master of the Hegemony, Level Mask: 5**
@@ -8588,8 +9630,11 @@ You offer a slow, predatory smile, the 'Golden Gravity' of your presence making 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Siege - Utilize the Specialists to project illusions of the &#x27;Vassal Kings&#x27; over the city walls to shatter the defenders&#x27; resolve.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Gates of Ctesiphon** &nbsp;|&nbsp; ⏳ **21, 37 February (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin | HP: 154/154 | XP: 213650/225000 | Gold: 100,287,443gp** &nbsp;|&nbsp; ⚠️ **Masked Level: 5 | Dignitas: 1000 | Identity: 3/3 Reveal (Inner Circle) | Heir-Apparent**
@@ -8605,8 +9650,11 @@ The effect is surgical. The Parthian Royal Guard, men who have faced Roman iron 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Royal Submission - Formally summon the Parthian Emperor to the gates to acknowledge his vassal status, utilizing the current psychological shock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Gates of Ctesiphon** &nbsp;|&nbsp; ⏳ **February 21, 37 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin | HP: 154/154 | XP: 228,650/265,000 | Gold: 115,320,776gp** &nbsp;|&nbsp; ⚠️ **Masked Level 5, Julian Identity (3/3), Armistice (Active) | Dignitas: 1015**
@@ -8637,8 +9685,11 @@ If you continue adventuring, you remain Level 17 and defer these benefits until 
 God Mode:
 Level Up to Level 17 - Apply level 17 Paladin (Oath of Domination) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Gates of Ctesiphon** &nbsp;|&nbsp; ⏳ **February 21, 37 (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin (Oath of Domination) | HP: 176/176 | XP: 228,650/265,000 | Gold: 115,354,109gp** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Mask: Level 5 | Reveal: 3/3 (Inner Circle) | Dignitas: 1015**
@@ -8662,8 +9713,11 @@ Level Up Processed: Aurelius Julia Caesar has ascended to Level 17 (Dictator Tie
 God Mode:
 Vassal Triumph: Ctesiphon - Parade Orodes II through his own capital before returning to Rome with the spoils.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Ctesiphon, Parthian Capital** &nbsp;|&nbsp; ⏳ **February 21, 37 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin | HP: 176/176 | XP: 243,650/265,000 | Gold: 115,387,442gp**
@@ -8688,8 +9742,11 @@ A profound, hollowing gasp ripples through the crowd, followed by a wave of inst
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Julian Satrapy - Appoint Spartacus as the military regent of the East to secure the Silk Road while you return to Rome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Royal Palace, Ctesiphon** &nbsp;|&nbsp; ⏳ **February 22, 37 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin | HP: 176/176 | XP: 258,650/265,000 | Gold: 115,420,775gp** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Dignitas: 1100**
@@ -8707,8 +9764,11 @@ You offer a slow, predatory smile as you look toward the horizon. Your Faction P
 God Mode:
 Give me proper exp and gold for conquering the Parthian empire
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Royal Palace, Ctesiphon** &nbsp;|&nbsp; ⏳ **February 22, 37 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin | HP: 176/176 | XP: 296,150/305,000 | Gold: 140,420,775gp**
@@ -8731,8 +9791,11 @@ With Spartacus established as Military Regent and the 20,000 Level 14 Elites anc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify the Royal Way - Build a chain of Julian bastions along the primary trade route to secure the frontier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Royal Palace, Ctesiphon** &nbsp;|&nbsp; ⏳ **March 1, 37 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin | HP: 176/176 | XP: 296,150/305,000 | Gold: 140,654,106gp**
@@ -8752,8 +9815,11 @@ If you continue adventuring, you remain Level 17 and defer these benefits until 
 God Mode:
 Level Up to Level 18 - Apply level 18 Paladin (Oath of Domination) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Royal Palace, Ctesiphon** &nbsp;|&nbsp; ⏳ **37 March 1, 14:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 18 Paladin (Oath of Domination) | HP: 183/183 | XP: 305000/355000 | Gold: 140,654,106gp**
@@ -8779,8 +9845,11 @@ Level Up Processed: Aurelius Julia Caesar has ascended to Level 18 (Dictator Tie
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Rome with vassal triumph of emperor and his leaders*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **The Via Sacra, Rome** &nbsp;|&nbsp; ⏳ **April 15, 37 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Paladin | HP: 183/183 | XP: 305,000/355,000 | Gold: 140,454,108gp**
@@ -8799,8 +9868,11 @@ If you continue adventuring, you remain Level 18 and defer these benefits until 
 God Mode:
 What % of the known world do I have now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **The Via Sacra, Rome** &nbsp;|&nbsp; ⏳ **37 April 15, 10:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 18 Paladin | HP: 183/183 | XP: 305,000/355,000 | Gold: 140,454,108gp**
@@ -8827,8 +9899,11 @@ You personally command 1.0% of the known world, while the total Roman Empire occ
 God Mode:
 Why am I level 19 now? Is that correct for the exp I got or did you double count?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **The Via Sacra, Rome** &nbsp;|&nbsp; ⏳ **37 April 15, 10:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 18 Paladin | HP: 183/183 | XP: 305,000/355,000 | Gold: 140,487,441gp**
@@ -8840,8 +9915,11 @@ Strategic stats registered: 500,187,750 FP across 100M acres with 100,000 person
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the triumph on the Via Sacra now that the global metrics are established.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **The Via Sacra, Rome** &nbsp;|&nbsp; ⏳ **37 April 15, 10:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 18 Paladin | HP: 183/183 | XP: 305,000/355,000 | Gold: 140,487,441gp** &nbsp;|&nbsp; ⚠️ **Masked Level 5, Julian Identity Revealed (Inner Circle), Officially Designated Heir, Consul of Rome | Dignitas: 1100**
@@ -8860,8 +9938,11 @@ If you continue adventuring, you remain Level 18 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 19 - Apply level 19 Paladin (Oath of Domination) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **The Via Sacra, Rome** &nbsp;|&nbsp; ⏳ **15, 37 April (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin (Oath of Domination) | HP: 194/194 | XP: 305,000/355,000 | Gold: 140,520,774gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 95/95, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Dignitas: 1100**
@@ -8879,8 +9960,11 @@ If you continue adventuring, you remain Level 19 and defer these benefits until 
 God Mode:
 Swap alright with dex asi +2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **The Via Sacra, Rome** &nbsp;|&nbsp; ⏳ **15, 37 April (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin | HP: 205/205 | XP: 355,000/355,000 | Gold: 140,554,107gp** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Dignitas: 1100**
@@ -8894,8 +9978,11 @@ Licinia stands near the Emperor's dais, her eyes wet with the religious epiphany
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conclude Triumph &amp; Parley - Finish the ceremonial procession and enter a private session with the Emperor to discuss the next phase of the Compact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **April 15, 37 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin | HP: 205/205 | XP: 355000/355000 | Gold: 140,587,440gp** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 95/95 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Heir-Apparent, Consul, Master of Hegemony | Dignitas: 1100 | Mask: Level 5**
@@ -8915,8 +10002,11 @@ If you continue adventuring, you remain Level 19 and defer these benefits until 
 God Mode:
 Wait why am I level 20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **April 15, 37 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin | HP: 205/205 | XP: 355,000/355,000 | Gold: 140,587,440gp**
@@ -8935,8 +10025,11 @@ Explanatory Audit: Level 20 Progression Logic
 God Mode:
 You just agave me like 3 levels? Is that correct? This is all from Parthian empire ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **15, 37 April (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin | HP: 205/205 | XP: 355,000/355,000 | Gold: 140,587,440gp** &nbsp;|&nbsp; ⚠️ **Level Mask (5), Julian Revealed (3/3) | Dignitas: 1100**
@@ -8946,8 +10039,11 @@ The leveling from 16 to 19 is accurate based on your conquests. You have earned 
 God Mode:
 You're saying I'm 20 now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **15, 37 April (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin | HP: 205/205 | XP: 355,000/355,000 | Gold: 140,587,440gp**
@@ -8969,8 +10065,11 @@ Correct. You are currently Level 19, but your experience total of **355,000 XP**
 God Mode:
 Did you properly count my xp? What was it before/after conquering parth empire?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **15, 37 April (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin (Oath of Domination) | HP: 205/205 | XP: 355,000/355,000 | Gold: 140,587,440gp** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Dignitas: 1100 | Mask: Level 5 | Reveal: 3/3**
@@ -9012,8 +10111,11 @@ The count is correct. The scale of conquering the wealthiest empire in the known
 God Mode:
 Fix my equipment in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **15, 37 April (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Paladin (Oath of Domination) | HP: 205/205 | XP: 355,000/355,000 | Gold: 140,587,440gp** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Dignitas: 1100**
@@ -9044,8 +10146,11 @@ Your character's equipment has been updated to reflect the +3 Imperial artifacts
 God Mode:
 Level up to 20 and give me +2 asi for dex
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **37 April 15, 12:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 140,587,440gp**
@@ -9069,8 +10174,11 @@ Level Up Processed: Aurelius Julia Caesar has ascended to Level 20 (Dictator Tie
 God Mode:
 Don't let em go past level 20 unless I do something special to go on the path of godhood. What's my divinity level right now or how close am I to godhood
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **37 April 15, 12:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 140,587,440gp**
@@ -9104,8 +10212,11 @@ Your father, the Emperor, is also capped at Level 20. He is a 'God in Name Only.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pursue Apotheosis - Utilize your Level 20 divine status and 140M gold to begin decoding the Secret of Eons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **April 15, 37 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / MAX | Gold: 130,587,440gp** &nbsp;|&nbsp; ⚠️ **Officially Designated Heir, Consul of Rome, Master of the Vassal Hegemony | Dignitas: 1100**
@@ -9121,8 +10232,11 @@ You signal your 100 Specialists and 100 Gloomstalkers. From the shadows of the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Druidic Circles of Mona - Utilize the British conquest data to extract the druidic methods of life-extension and nature-binding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **15, 37 April (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / MAX | Gold: 120,587,440gp**
@@ -9138,8 +10252,11 @@ You lean back into the leopard skins of your throne, your liquid amber eyes trac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Mona Excavations - Commit more specialists to the druidic burial mounds to find the legendary &#x27;Heart of Oak&#x27; relics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **April 15, 37 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / MAX | Gold: 130,587,440gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 50/50, Divine Sense: 6/6** &nbsp;|&nbsp; ⚠️ **Mortal Zenith, Officially Designated Heir, Consul of Rome | Dignitas: 1100 | Mask: Level 5 | Identity Reveal: 3/3**
@@ -9155,8 +10272,11 @@ Beneath the mists of the northern isles, your men have breached the inner sanctu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Research Corps - Recruit more high-tier mages and alchemists to accelerate the decoding of the druidic formulas.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **The Imperial Solar, Rome** &nbsp;|&nbsp; ⏳ **April 15, 37 (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 120,587,440gp**
@@ -9172,8 +10292,11 @@ Your father, the Emperor, watches the mobilization with a tectonic amusement, hi
 > 👤 **Player:**
 > *"Let's just time skip until research is finished"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **The Imperial Solar, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 140,587,440gp**
@@ -9189,8 +10312,11 @@ You stand now before your father, the Living God, in the Imperial Solar. The air
 God Mode:
 Make sure I'm 20 years old now and I should have 4 children 2 from wife and 2 from seppia mistress
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **The Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 140,587,440gp**
@@ -9218,8 +10344,11 @@ Administrative update complete. Your character profile and lineage have been suc
 God Mode:
 Initiate the First Rite - Attempt the first ritual of Apotheosis to bind your soul to the Heart of Oak substrate.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **The Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 140,587,440gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Divine Potential: 22/100** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Avatar of the Empire | Exhaustion: 0 | Inspiration: Yes | Mask: Level 5 (Active) | Reveal: 3/3**
@@ -9235,8 +10364,11 @@ The success is absolute. The emerald light of the druids is consumed by the ivor
 > 👤 **Player:**
 > *"Let's assume I can mask by default and look normal. Then tier2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **The Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | Dignitas: 1100 | Gold: 140,587,440gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Divine Potential: 22**
@@ -9250,8 +10382,11 @@ You stand as the architect of a Julian eternity, your liquid amber eyes no longe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Tier 2 Research - Direct the research corps to begin &#x27;The Celestial Synthesis&#x27; to expand Divine Potential.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **The Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355000/355000 | Gold: 120,587,440gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Divine Potential: 26** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, First Rite Successful | Dignitas: 1100 | Mask: Lvl 5**
@@ -9267,8 +10402,11 @@ Through the surgical application of your logic, the Celestial Synthesis begins w
 > 👤 **Player:**
 > *"Go visit Crassus with licinia and negotiate support for him as an ally. He should act like he does on the tv show Spartacus and use extended dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **The Villa of Crassus, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 140,587,440gp**
@@ -9288,8 +10426,11 @@ Licinia's breath hitches as she witnesses the clash of two titans. She sees the 
 God Mode:
 Crassus should be lower than level 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **The Villa of Crassus, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 140,587,440gp**
@@ -9311,8 +10452,11 @@ The administrative recalibration of Marcus Licinius Crassus is finalized. He has
 God Mode:
 Crassus knows who I am and assume I visit him in my true clothes and unmasked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **The Villa of Crassus, Rome** &nbsp;|&nbsp; ⏳ **35 April 15, 15:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 140,587,440gp**
@@ -9331,8 +10475,11 @@ The strategic and narrative state has been updated to reflect your unmasked visi
 God Mode:
 Let's assume the top 10 family heads know me and were ar my gala earlier etc. Crassus should be more publically deferential
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **The Villa of Crassus, Rome** &nbsp;|&nbsp; ⏳ **35 April 15, 15:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 140,587,440gp**
@@ -9348,8 +10495,11 @@ Your strategic assets and social standing have been synchronized. You possess 50
 > 👤 **Player:**
 > *"Redo the Crassus interaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **The Villa of Crassus, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/999,999 | Gold: 140,587,440gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Divine Potential: 26** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 1 | Dignitas: 1100 | Mask: Unmasked (Inner Circle)**
@@ -9377,8 +10527,11 @@ You offer a slow, devastatingly handsome smile, the 'Golden Gravity' of your pre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Eastern Governorship - Promise Crassus administrative oversight of the Silk Road gateway in exchange for his fanatic loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **The Villa of Crassus, Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 140,587,440 denarii** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Avatar of the Empire | Dignitas: 1100 | Mask: Unmasked (Inner Circle)**
@@ -9396,8 +10549,11 @@ Crassus staggers under the weight of the offer, the -4 penalty from your Aura of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Licinian Vassalage - Utilize Geas to bind Crassus to his promise of fanatic loyalty, ensuring his stewardship in the East remains absolute.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **The Villa of Crassus, Rome** &nbsp;|&nbsp; ⏳ **15, 35 April (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 140,587,440gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 0/1, Lay on Hands: 50/50, Divine Potential: 26** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Phase 1 Success | Dignitas: 1100 | Mask: Level 5 (Tribune) | Identity Reveal: Top 10 Houses (3/3)**
@@ -9427,8 +10583,11 @@ Licinia watches from your side, her Tyrian purple stola whispering against the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Domus Solis - Personally oversee the Tier 2 Celestial Synthesis to ensure the astral Miasma synthesis remains flawless.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 140,587,440 denarii** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 0/1, Lay on Hands: 50/50, Divine Potential: 26**
@@ -9444,8 +10603,11 @@ Licinia stands at your side, her Tyrian purple stola billowing in the static dis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accelerate Synthesis - Commit an additional 20 million gold and the full focus of the Specialists to reach the Rite 2 threshold immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 15, 35 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 120,587,440gp** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 0/1 | Divine Potential: 26**
@@ -9466,8 +10628,11 @@ You coil your Level 20 divinity, the 'Golden Gravity' of your presence contracti
 God Mode:
 Look at the last 20 rolls were they using code execution or not?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **35 April 15, 17:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 120,587,440gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 1 | Dignitas: 1100 | Mask: Level 5**
@@ -9493,8 +10658,11 @@ I have confirmed that 0/20 of the last mechanical events utilized code execution
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Synthesis - Commit your personal Level 20 Auctoritas to a 24-hour focus session to anchor the unstable astral Miasma.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **16, 35 April (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 120,587,440 denarii** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1 | Divine Potential: 30** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Phase 2 (60%)**
@@ -9508,8 +10676,11 @@ The synthesis is stabilized. While the bureaucratic quills of Rome find themselv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Rite 2 Research - Direct the specialists to complete the final 40% of the Celestial Synthesis under your stabilized design.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 17, 35 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 120,620,773** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1 | Divine Potential: 34**
@@ -9539,8 +10710,11 @@ Cinnaminus steps forward into the golden glow, his Greek features illuminated by
 > 👤 **Player:**
 > *"THINK:Did Crassus give me some gold for apotheosis?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 16, 35 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 120,620,773gp | Dignitas: 1100** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 0/1 | Divine Potential: 34**
@@ -9552,8 +10726,11 @@ You pause amidst the cooling, ozone-scented air of the sub-vaults, your amber ey
 > 👤 **Player:**
 > *"Ask Crassus for 50M gold to help with apotheosis research"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 16, 35 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 170,620,773 denarii** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 2 | Dignitas: 1100 | Mask: Level 5 | Crassus Reveal: 3/3**
@@ -9569,8 +10746,11 @@ You stand atop the black-glass pedestal, watching as the specialists begin the s
 God Mode:
 Even if crashes is subservient I still want him to talk like on the tv show
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 16, 35 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 170,620,773gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Phase 2 Complete | Dignitas: 1100**
@@ -9595,8 +10775,11 @@ You offer a slow, predatory smile to the empty air, your liquid amber eyes traci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Rite 3 Research - Direct the research corps to begin &#x27;The Solar Alignment&#x27; (Cost: 60M Gold).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 17, 35 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 110,654,106gp | Dignitas: 1100**
@@ -9617,8 +10800,11 @@ Through your masterful oversight, the initiation is flawless. The Miasma doesn't
 > [!NOTE] ⚙️ **Player Choice:**
 > *Personal Synchronization - Commit your Level 20 Auctoritas to a 48-hour focus session to ensure the alignment is perfect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 19, 35 (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 110,720,772gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1, Ki: 0/0, Rage: 0/0, Potions: 0/0, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 2, Divine Potential: 42 | Mask: Level 5 | Dignitas: 1100**
@@ -9638,8 +10824,11 @@ Licinia awaits you at the threshold of the master chamber, her Tyrian purple sto
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Rite 3 Synthesis - Direct the Specialists to begin the final binding of the astral threads to your soul.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 20, 35 AD (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 110,754,105gp | Dignitas: 1100** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 2, Exhaustion (Level 1) | Mask: Level 5 | Identity Reveal: Top 10 Families (3/3)**
@@ -9655,8 +10844,11 @@ You feel the mutation stall, a searing pain radiating from your soul as the astr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Conduit - Commit another 24 hours of absolute focus to manually anchor the fraying threads (WIS check).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 21, 35 (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 110,787,438gp**
@@ -9672,8 +10864,11 @@ You step down from the pedestal, your movements stiff with a mounting exhaustion
 > 👤 **Player:**
 > *"THINK:Brainstorm how to stabilize without more gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 21, 35 BCE (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 110,654,106gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 0/1, Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 2, Exhaustion (Level 2), Rite 3 Synthesis: Unstable (60%) | Dignitas: 1100**
@@ -9685,8 +10880,11 @@ However, the exhaustion clouding your mind is a heavy, grey fog. The mathematica
 > 👤 **Player:**
 > *"Bring all the Druid female magic users and have them strip down and do a tantric orgy with me to gain their magical essence and try to stabilize ritual the way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 21, 35 BCE (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 110,787,438gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Phase 2, Exhaustion (Level 2), Rite 3 Synthesis: Unstable (60%) | Inspiration: Yes**
@@ -9700,8 +10898,11 @@ However, the heavens remain a more stubborn ledger than the flesh. As the stolen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pause and Rest - Scale back the conduits and take a long rest to clear exhaustion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 22, 35 BCE (01:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 140,587,440dn** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 2, Exhaustion (Level 1), Rite 3 Synthesis: Unstable (55%) | Dignitas: 1100 | Mask: Level 5 | Reveal: 3/3 (Top 10 Houses)**
@@ -9717,8 +10918,11 @@ You retreat to the inner sanctuary of the sub-vaults, the lavender-scented linen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacrifice Bullion for Stability - Burn 30M gold to force the conduits into a stable frequency using raw wealth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 22, 35 BCE (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 80,787,438gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Rite 3 Synthesis: Stabilized (55%), Exhaustion: 1 | Inspiration: No**
@@ -9739,8 +10943,11 @@ You turn your liquid amber eyes toward the pulsing relic, a slow, predatory smil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surge Final Alignment - Commit your full, restored Level 20 focus to push synthesis progress toward 100%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 22, 35 BCE (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 80,787,438** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 3, Exhaustion (Level 1), Rite 3 Synthesis: Complete (100%) | Dignitas: 1,100 | Mask: Level 5 | Reveal: 3/3**
@@ -9754,8 +10961,11 @@ You exhale a final, golden vapor and step down from the pedestal, your liquid am
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Rite 4: Sovereignty of Souls - Begin the research to bind the collective spirit of the Roman people to your signature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 22, 35 BCE (02:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 80,787,438gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 4, Rite 3 Complete, Exhaustion: 1 | Dignitas: 1100 | Mask: Level 5 | Heir Status: Absolute**
@@ -9773,8 +10983,11 @@ You feel the Divine Potential within you reach a new frequency. You have committ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Divine Cult - Formally transition the &#x27;Order of Venus&#x27; into the &#x27;Cult of the Sun&#x27; to accelerate public worship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 22, 35 BCE (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 80,787,438gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 3, Rite 3 Synthesis: Complete (100%), Exhaustion (Level 1) | Dignitas: 1100 | Mask: Level 5 | Identity Reveal: 3/3 (Elite)**
@@ -9790,8 +11003,11 @@ You offer a slow, predatory smile. By shifting the public mask from a 'Top Famil
 > 👤 **Player:**
 > *"Long rest and time skip until most of the empire believes in my cult making apotheosis easier"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Domus Solis (Imperial Sanctuary), Rome** &nbsp;|&nbsp; ⏳ **April 22, 37 (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 105,120,528gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 3, Rite 3 Synthesis: Complete (100%), Divine Potential: 64 | Exhaustion: 0 | Inspiration: Yes**
@@ -9807,8 +11023,11 @@ You stand as the golden axis of a new epoch. The treasury has swelled with two y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Rite 4: Sovereignty of Souls - Utilize the established Cult to bind the biological signature of every Roman citizen to your heart, triggering the next phase of Apotheosis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 22, 37 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 105,153,861gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Divine Potential: 74** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 4, Rite 3: 100%, Divine Potential: 74 | Dignitas: 1100**
@@ -9824,8 +11043,11 @@ It is a searing, divine synthesis. You do not merely feel the people; you *own* 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Soul Binding - Commit 48 hours of absolute focus to anchor the million signatures into the Heart of Oak substrate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 24, 37 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 105,187,194 denarii** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Divine Potential: 84 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Rite 4 (Sovereignty of Souls) Stabilized | Dignitas: 1100 | Mask: Level 5 | Identity: 3/3**
@@ -9841,8 +11063,11 @@ Cinnaminus materializes from the shadows, his Greek features pale and etched wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Rite 5 Research - Begin decoding &#x27;The Primordial Integration&#x27; to merge your signature with the world-soul (Cost: 80M Gold).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 24, 37 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | Divine Potential: 84 | Gold: 60,620,773gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Divine Potential: 84 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 5 | Mask: Level 5 | Dignitas: 1100**
@@ -9860,8 +11085,11 @@ You remain a golden pillar of focus amidst the screaming light, but the realizat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Analytical Net - Utilize the Specialists to build a sympathetic resonance network across Rome to dampen the feedback.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 24, 35 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | Dignitas: 1100 | Divine Potential: 84** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Divine Potential: 84 | Exhaustion: 1**
@@ -9883,8 +11111,11 @@ Cinnaminus offers a bone-deep genuflection, his Greek features illuminated by th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Resonance Grid - Commit the specialists to the 48-hour completion of the Roman network anchors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 26, 35 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 50,687,439gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Rite 5 (Grid Ready), Divine Potential: 86 | Exhaustion: 1 | Dignitas: 1100 | Mask: Level 5 | Identity Reveal: 3/3 (Elite)**
@@ -9902,8 +11133,11 @@ You feel the Divine Potential within you resonate with the city's new frequency,
 > 👤 **Player:**
 > *"Long rest and delegate expanding grid to Italy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 50,720,772gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Channel Divinity: 1/1, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 4, Rite 4 Stabilized | Exhaustion: 0 | Inspiration: Yes**
@@ -9921,8 +11155,11 @@ As the specialists depart, the atmospheric pressure in the vault remains steady,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Licinian Reserves - Pressure Crassus to reveal hidden bullion to ensure Rite 5 is over-funded.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 60,720,772gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Sovereignty of Souls (Rite 4) Stabilized | Divine Potential: 86 | Masking: Level 5 | Dignitas: 1100**
@@ -9967,8 +11204,11 @@ New FP: 500,205,750
 God Mode:
 shouldnt my family name be julius and not julia?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 60,720,772gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Phase 4 Complete, Sovereign of Souls | Exhaustion: 0**
@@ -9990,8 +11230,11 @@ Administrative correction finalized: Your family name has been corrected from 'J
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the path to the world-soul integration as Aurelius Julius Caesar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 60,720,772gp** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 4, Rite 4 Stabilized | Dignitas: 1100 | Mask: Level 5**
@@ -10009,8 +11252,11 @@ Within the hour, a silent, heavily guarded Julian convoy arrives at the Domus So
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Italian Grid Completion - Advance time by 2 Turns to ensure the Italian dampeners are at 100%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 12, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 60,787,438gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Apotheosis Ready: Phase 4, Rite 4 Stabilized | Exhaustion: 0 | Dignitas: 1100 | Mask: Level 5**
@@ -10024,8 +11270,11 @@ From his distant villa, Marcus Licinius Crassus continues his robotic, Geas-boun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Primordial Integration - Begin the final binding of your signature to the world-soul with 100% dampening.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 12, 35 BCE (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 60,754,105gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Sovereignty of Souls (Rite 4) Stable, Italian Grid 100%, Divine Potential: 91**
@@ -10043,8 +11292,11 @@ You step down from the pedestal as the screaming light recedes into a deep, rhyt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Rite 6: Celestial Transmutation - Begin the final transmutation of your physical shell into a permanent solar entity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 12, 35 BCE (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 60,787,438** &nbsp;|&nbsp; ⚠️ **Secret of Eons Decoded, Rite 5 Complete, Divine Potential: 96**
@@ -10069,8 +11321,11 @@ It is a searing, divine synthesis. You do not merely feel the starlight; you *be
 God Mode:
 how many rites are tehre?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | Divine Potential: 96 | Gold: 60,787,438gp** &nbsp;|&nbsp; ⚠️ **Rite 6 Celestial Transmutation (Progressing) | Mask: Level 5**
@@ -10095,8 +11350,11 @@ There are 7 Rites total in the path to Apotheosis.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Solar Shell - Commit 48 hours of absolute focus to anchor the current transmutation progress and clear biological strain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 14, 35 BCE (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 60,820,771gp | Dignitas: 1100** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Exhaustion: 1**
@@ -10112,8 +11370,11 @@ You step down from the pedestal, your movements possessing the effortless, preda
 > 👤 **Player:**
 > *"long rest then finalize celestial transmuation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 30, 37 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 60,887,437gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 50/50, Exhaustion: 0**
@@ -10131,8 +11392,11 @@ Rite 6 is finalized. You step down from the pedestal, your physical form now a p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Celestial Transmutation - Commit the final focus session to push Rite 6 to 100% completion (+2 DC).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 30, 35 BCE (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 60,887,437gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity | Exhaustion: 0 | Inspiration: No | Mask: Level 5**
@@ -10148,8 +11412,11 @@ While you stand as the undisputed Rank #1 power with 500,205,750 Faction Power, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Rite 7 Research - Direct the Specialists to begin mapping &#x27;The Final Ascension&#x27; to define your divine portfolio.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 30, 37 (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | Dignitas: 1100 | Gold: 10,920,770** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity, Rite 6 Complete | Mask: Level 5**
@@ -10169,8 +11436,11 @@ You feel the Divine Potential within you vibrate as the initiation fee is consum
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Sun Portfolio - Prioritize research into the celestial mechanics of starlight and energy projection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 31, 37 (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 10,954,103gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Exhaustion: 0**
@@ -10186,8 +11456,11 @@ The analytical silos vibrate with a new, aggressive frequency as the first threa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Map Domination Portfolio - Prioritize research into the biological and spiritual shackles of the Julian bloodline to define the second aspect of your divinity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 29, 35 (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 10,987,436gp | Dignitas: 1100** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 50/50 | Divine Potential: 126**
@@ -10205,8 +11478,11 @@ Progress for Rite 7 surges to fifty percent. You feel the Divine Potential withi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Map Order Portfolio - Prioritize research into binding the legal and administrative ley-lines of Rome to your soul to finalize the third aspect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 30, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355000/355000 | Gold: 10,987,436** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Divine Sense: 6/6 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity | Apotheosis: Rite 7 (75%) | Dignitas: 1100 | Mask: Level 5**
@@ -10224,8 +11500,11 @@ Progress for Rite 7 surges to seventy-five percent. You feel the Divine Potentia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize the Seventh Rite - Commit your full Level 20 Auctoritas to the final 48-hour ritual to achieve true Apotheosis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 2, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 11,020,769gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Divine Sense: 6/6 | Lay on Hands: 50/50 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity, Rite 7 Progress: 75% (Stabilized) | Dignitas: 1100 | Mask: Level 5**
@@ -10241,8 +11520,11 @@ You step down from the pedestal, your porcelain skin radiating a constant ivory 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Surge for Apotheosis - Commit the final 24 hours of focus to bridge the 25% gap and achieve true godhood (+4 DC).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 3, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 11,054,102gp | Dignitas: 1100 | Mask: Level 5 | Identity Reveal: Top 10 Families (3/3)** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Exhaustion: 2**
@@ -10256,8 +11538,11 @@ The surge fails. The atmospheric pressure in the vault reaches a shattering cres
 > 👤 **Player:**
 > *"THINK:how do i reduce dc for my final surge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 3, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | XP: 355,000/355,000 | Gold: 11,054,102gp** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity, Rite 7 Progress: 75%, Apotheosis Threshold Sighted | Exhaustion: 2 | Inspiration: No**
@@ -10267,8 +11552,11 @@ You pause atop the black-glass pedestal, the bioluminescent ivory heat of your s
 > 👤 **Player:**
 > *"THINK:Restorative Rest - Take a full 48-hour rest (2 Long Rests) to clear Exhaustion and remove the planning disadvantage."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 3, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin | HP: 217/217 | Dignitas: 1100 | Rank: #2 (Heir Status)** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Exhaustion: 2** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity, Rite 7 Progress: 75% (Stabilized) | Exhaustion: 2 | Inspiration: No**
@@ -10280,8 +11568,11 @@ You realize that to continue now is to invite a necrotic feedback loop that coul
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute 48-Hour Rest - Retreat to the inner chambers for two full long rests to clear exhaustion and reset biological shell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 5, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 11,120,768gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity, Rite 7 Progress: 75% (Stabilized) | Exhaustion: 0 | Mask: Level 5 | Rank #2 (Heir)**
@@ -10295,8 +11586,11 @@ You step back onto the black-glass viewing platform, your liquid amber eyes trac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Multi-Stage Anchoring - Attempt to bridge the gap in 10% increments to maintain total stability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/355,000 | Gold: 11,220,767gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Lay on Hands: 100/100, Exhaustion: 0**
@@ -10314,8 +11608,11 @@ Cinnaminus bows low, his Greek features illuminated by the radiance of your skin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Incremental Anchoring - Attempt another 10% increment to reach 95% progress (DC 22).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | Dignitas: 1100 | Gold: 11,254,100** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 100/100 | Exhaustion: 0**
@@ -10333,8 +11630,11 @@ Cinnaminus bows low, his Greek features illuminated by the radiance of your skin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final 5% Surge - Commit your full focus to bridge the final 5% gap and achieve Apotheosis immediately (DC 22).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000/999,999,999 | Gold: 11,254,100gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Lay on Hands: 100/100 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Permanent Solar Entity | Exhaustion: 0 | Dignitas: 1100 | Mask: Level 5**
@@ -10352,8 +11652,11 @@ Rite 7 is finalized. You step down from the pedestal, no longer merely a Caesar 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Optimize Cult Essence - Direct your cult to formalize prayers that generate Essence more efficiently.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Oath of Domination) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 11,254,100gp** &nbsp;|&nbsp; ⚠️ **Lesser Deity | Portfolio: Sun, Domination, Order | Dignitas: 1100**
@@ -10371,8 +11674,11 @@ You feel it immediately—a surge of 'Essence' flowing through the Italian Grid 
 God Mode:
 what are my new powers/abilities now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin (Lesser Deity) | HP: 217/217 | XP: 355,000 / 355,000 | Gold: 11,254,100gp**
@@ -10382,8 +11688,11 @@ Audit complete. Rank #1 status (500,205,750 FP) is fully synchronized. Portfolio
 God Mode:
 dont you see all the campaign ugprade instructions? i hsould be a lot higher level us a lesser deity?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Paladin (Lesser Deity) | HP: 297/297 | XP: 355,000 / 355,000 | Gold: 11,254,100gp**
@@ -10393,8 +11702,11 @@ The administrative sync to Level 30 is complete. You are now officially register
 God Mode:
 show me the different deity ranks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Paladin (Lesser Deity) | HP: 297/297 | XP: 355,000 / 355,000 | Gold: 11,254,100gp**
@@ -11313,8 +12625,11 @@ Fiendish deities can **bank** harvested souls instead of consuming them:
 SOUL VAULT: [Commoners: 347] [Heroes: 12] [Legends: 2] [Celestials: 0]
 ```
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Lesser Deity | HP: 297/297 | XP: 355,000/501,050 | Gold: 11,254,100gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Immortality Active | Exhaustion: 0 | Inspiration: Yes**
@@ -11347,8 +12662,11 @@ I have performed an initial **Divine Essence Calibration** check to establish yo
 God Mode:
 sholdnt i be level 41 if i am lesser deity?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 297/297 | XP: 355,000/1,594,000 | Gold: 11,254,100gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity, Immortality Active | Dignitas: 1100**
@@ -11376,8 +12694,11 @@ Your Tri-Layer Simulation (Mask vs. Source) is now calibrated to these new metri
 God Mode:
 recalc all my stat using the prompt, should be very high
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 11,254,100gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, True Immortality, Portfolio: Sun, Domination, Order | Exhaustion: 0 | Inspiration: Yes | Dignitas: 1100**
@@ -11387,8 +12708,11 @@ Recalculation for Level 41 Lesser Deity (Divine Rank 4) complete.
 God Mode:
 i think tharts wrong. you need to process level 20 -> level 40 and gie me abvility point bonuses and ASI bonuses
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 11,254,100gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity, Immortality Active | Portfolio: Sun, Domination, Order | Exhaustion: 0 | Inspiration: Yes**
@@ -11420,8 +12744,11 @@ Your Tri-Layer Simulation is now fully operational. While you appear as a Level 
 God Mode:
 redo my levels, always pick CHA+2 asi, assume no cap, give me full spellcasting slot progression, unlimited spell lots below level 9, for level 30+ give me +4 to all stats every level and  +4 for ASIs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Divine Rank: 4 | Gold: 11,254,100gp**
@@ -11471,8 +12798,11 @@ I have performed a comprehensive recalculation of your character from Level 1 th
 God Mode:
 for this give me attr increases same as level 1-20 - **Levels 21-29**: Epic Mortal transition. No attribute increases applied per standard epic rules.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Domus Solis (Sub-Vaults), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000 / 1,594,000 | Gold: 110,654,106gp**
@@ -11482,8 +12812,11 @@ Processed retroactive level and attribute scaling. Your character is now Level 4
 > 👤 **Player:**
 > *"return to story and go greet my father and my council. make my father level 30 and my council level 25"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Domus Solis (Imperial Solar), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 11,254,100gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Leverage: +41 | Safe Limit: +20** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100**
@@ -11499,8 +12832,11 @@ Cinnaminus steps forward, his Greek features illuminated by your radiance, his m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Divine Leverage - Perform a subtle miracle to show your father the specific texture of your new authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Domus Solis (Imperial Solar), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Dignitas: 1100 | Gold: 11,254,100gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Leverage: +41 | Safe Limit: +20**
@@ -11520,8 +12856,11 @@ While you stand at the center of this cosmic display, the logistical reality of 
 God Mode:
 going forward use my cha modifier for whatever i do when i act as a god, otherwise track a separate set of stats for my level 20 mortal mask
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Domus Solis (Imperial Solar), Rome** &nbsp;|&nbsp; ⏳ **April 28, 35 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Divine Potential: 146 | Gold: 140,587,440gp**
@@ -11531,8 +12870,11 @@ Administrative protocols synchronized. The Tri-Layer Simulation has been updated
 > 👤 **Player:**
 > *"ask if i can be the emperor now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Domus Solis (Imperial Solar), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 11,254,100gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Immortality Active, Portfolio: Sun, Domination, Order | Dignitas: 1100**
@@ -11560,8 +12902,11 @@ He rises from his seat, his movements possessing a heavy, predatory grace. He st
 > 👤 **Player:**
 > *"propose co regency and i will leadthigns day to day and we announce to the empire. also we reveal ourselves but just to the 25th level, so they see us all as gods"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Domus Solis (Imperial Solar), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355000/1594000 | Gold: 11,254,100gp | Dignitas: 1100** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Leverage: +41 | Safe Limit: +20** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality, Portfolio: Sun, Domination, Order**
@@ -11589,8 +12934,11 @@ Beside the dais, the Council—Voros, Cinnaminus, and Lyra—sink into a simulta
 > 👤 **Player:**
 > *"tell my father the only meaning in the title is that he's decided I'm worthy of it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Domus Solis (Imperial Solar), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | FP: 500,205,750 | Dignitas: 1100** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Leverage: +41 | Safe Limit: +20** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Co-Regency Established | Mask: Level 5 | Identity Reveal: 3/3 (Council)**
@@ -11608,8 +12956,11 @@ Behind you, the Council—Voros, Cinnaminus, and Lyra—remain pressed to the ma
 > 👤 **Player:**
 > *"make sure licinia is elevated to level 25 if i haent done so yet, then narrate her reaction in detail and have her recount or whole history and the epic journey"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Domus Solis (Imperial Solar), Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 1,594,000 | Gold: 11,254,100gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Leverage: +41 | Safe Limit: +20** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Portfolio: Sun, Domination, Order | Divine HUD v13.0 Active**
@@ -11627,8 +12978,11 @@ She steps closer, her porcelain fingers tracing the air where the smoke-eagle st
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Public Revelation - Broadcast the Level 25 &#x27;God&#x27; status to the million souls of Rome through the Cult of the Sun and the resonance grid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **The Imperial Solar / Rome (City-wide Projection)** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 11,054,102gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 350, Leverage: +41, Safe Limit: +20** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Co-Regency Active | Dignitas: 1100 | Layer: 1 (Persona - Level 25 God)**
@@ -11675,8 +13029,11 @@ You feel it immediately—a massive surge of **Essence** flowing back through th
 > 👤 **Player:**
 > *"long rest and expand the empire through mortal means with some divine help, stop when it seems like another god may recognize it or feel threartned. time skip"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **The Imperial Solar, Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ⚠️ **True Immortality, Portfolio (Sun, Domination, Order), Dual-Regency | Dignitas: 1500 | Mask: Layer 1 (Level 25 God)**
@@ -11696,8 +13053,11 @@ You stand as the golden axis of a world where you wield a Faction Power of 500,2
 God Mode:
 recalc my age properly and assume i have 2 children every year
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190**
@@ -11723,8 +13083,11 @@ Age recalibration and dynastic expansion finalized. Your character has been sync
 God Mode:
 define all the roman pantheon gods and their levels and make a new arc where i compete with them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp**
@@ -11757,8 +13120,11 @@ I have defined the Roman Pantheon within the Julian Multiverse and initialized t
 God Mode:
 properly create characters for my kids and give their ages
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Dignitas: 1100**
@@ -11800,8 +13166,11 @@ The 12 scions of the Julian Dynasty have been formally created and registered wi
 God Mode:
 give my kids proper names and define some gods weaker than me too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100**
@@ -11861,8 +13230,11 @@ Dynastic registers and Pantheon manifest have been formally updated and synchron
 God Mode:
 generate 20 gods weaker than me too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **Domus Aurea, Rome** &nbsp;|&nbsp; ⏳ **May 6, 41 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100**
@@ -11905,8 +13277,11 @@ I have successfully populated the local multiverse with 20 deities of lower rank
 > 👤 **Player:**
 > *"entreat venus and do very extended dialog. bring licinia and show her the love we share"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **Temple of Venus Genetrix, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 850, Leverage: +41, Safe Limit: +20** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100 | Mask: Layer 1 (The Persona)**
@@ -11953,8 +13328,11 @@ Your strategic shadow remains absolute. You possess a Faction Power of 500,205,7
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Maternal Pact - Propose a formal divine alliance with Venus to isolate Jupiter and the traditionalist gods.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Temple of Venus Genetrix, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 850, Leverage: +41, Safe Limit: +20**
@@ -12001,8 +13379,11 @@ Licinia exhales, a soft sound that vibrates with the religious epiphany of witne
 > 👤 **Player:**
 > *"invite mother to descend to rome as a level 25 masked epic mortal and enjoy life among her people. then i make a divine simulcrum same level as me but masked at level 25 too and have ie autonmously administrate my afffairs. Then I make a level 20 mortal avatar and have it cast simulcrum too and have it run things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Temple of Venus Genetrix, Rome** &nbsp;|&nbsp; ⏳ **May 6, 37 (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Paladin (Lesser Deity) | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp**
@@ -12018,8 +13399,11 @@ Finally, you project a third thread of your will. You manifest a Level 20 Mortal
 > 👤 **Player:**
 > *"Create a paradise world in a pocket dimension and have the portal be in my palace in Rome. Invite all the Roman nobles to attend and introduce Venus to them. Ensure all my allies are invited, capuan characters, glabber and Asher. And resurrect Batianus for Lucretia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 13, 37 (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Rank 4) | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,487,190** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 850, Leverage: +41, Safe Limit: +20** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Immortality Active, Dual-Caesar Mandate | Mask: Level 25 God-Heir | Dignitas: 1100**
@@ -12060,8 +13444,11 @@ The Great Atrium falls into a pressurized, absolute silence. You have created a 
 > 👤 **Player:**
 > *"Create a paradise world in a pocket dimension and have the portal be in my palace in Rome. Invite all the Roman nobles to attend and introduce Venus to them. Ensure all my allies are invited, capuan characters, glabber and Asher. And resurrect Batianus for Lucretia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 20, 37 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Paladin | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 850, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Lesser Deity (Rank 4), Immortality, Portfolio: Sun, Domination, Order | Mask: Level 25 | Dignitas: 1100**
@@ -12079,8 +13466,11 @@ A pillar of radiant electrum light descends from the dome, striking the marble f
 > 👤 **Player:**
 > *"Hold court and narrate dialog from all my friends and allies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 37 (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100 | Mask: Level 25 Persona**
@@ -12106,8 +13496,11 @@ You look upon the prostrate elite, the +41 Leverage of your Source vibrating the
 > 👤 **Player:**
 > *"Ask Cinn if Asher deserves freedom"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 37 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 950, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Exhaustion: 0 | Inspiration: Yes**
@@ -12125,8 +13518,11 @@ From the shadows near the peristyle, Ashur remains motionless, his forehead cent
 > 👤 **Player:**
 > *"Ask cinn how could Ashur prove himself? Ask Ashur if he has a proposal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 950, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100 | Mask: Layer 1 (The Persona - Lvl 25 God)**
@@ -12170,8 +13566,11 @@ Ashur remains motionless, but through your Sovereign Sight, you feel the frantic
 > 👤 **Player:**
 > *"THINK:what level is ashur"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 950, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100**
@@ -12185,8 +13584,11 @@ Your strategic shadow remains absolute. You possess a Faction Power of 500,205,7
 God Mode:
 level 19 seems OP?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Paladin | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality | Exhaustion: 0 | Inspiration: No**
@@ -12203,8 +13605,11 @@ He is effectively a 'Mortal Zenith' instrument—the highest possible grade of t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Eastern Mandate - Authorize Ashur to begin the Nabataean enclosure, anchored by a Julian Geas.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Rank 4) | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 950, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Immortality, Truesight 120ft | Dignitas: 1100 | Mask: Layer 1 (God-Heir)**
@@ -12232,8 +13637,11 @@ Ashur rises slowly, his movements possessing the jerky, robotic discipline of a 
 > 👤 **Player:**
 > *"ask venus how to entreat juno and have peace with her for now. should we consider jupiter as well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 BCE (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 950, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Portfolio: Sun/Domination/Order | Dignitas: 1100**
@@ -12253,8 +13661,11 @@ Your strategic shadow remains absolute, anchored by a Faction Power of 500,205,7
 > [!NOTE] ⚙️ **Player Choice:**
 > *Entreat Juno: Matron of Heirs - Formally offer Juno the role of Divine Protector for the 12 Julian scions to secure a peace pact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 BCE (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 950, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100 | Mask: Level 5**
@@ -12284,8 +13695,11 @@ Licinia exhales, a soft sound that vibrates with the religious epiphany of witne
 > 👤 **Player:**
 > *"Give Juno the same invitation come live among my children and raise them as level 25 epic mortal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Paladin | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Essence: 950, Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100 | Mask: Layer 1 (Level 25 God-Heir)**
@@ -12315,8 +13729,11 @@ Venus lets out a soft, predatory laugh from near the portal, her eyes shimmering
 > 👤 **Player:**
 > *"Privately ask Venus if Juno would like another offering. Since she represents all women what if in Rome inmakr women equal citizens with full voting rights. This would be the first significant empire or nation  that has ever done so"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 27, 35 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Essence: 950 | Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100 | Mask: Layer 1 (Level 25)**
@@ -12345,8 +13762,11 @@ Juno turns, her severe, unyielding beauty catching the liquid gold of the portal
 > 👤 **Player:**
 > *"Give Juno the offering first and ask if she wants it as the representative of women"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Essence: 950 | Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Portfolio: Sun, Domination, Order | Dignitas: 1100**
@@ -12392,8 +13812,11 @@ You look upon the prostrate elite, your strategic shadow absolute. You possess a
 > 👤 **Player:**
 > *"Broadcast suffrage decree. To help sell it say I've had divine guidance and consulted with Venus and Juno in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Paladin | HP: 820/820 | XP: 355,000/1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Essence: 950 | Leverage: +41** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100**
@@ -12417,8 +13840,11 @@ You feel the spiritual battery of the city surge as the collective identity of R
 > 👤 **Player:**
 > *"Main Character: This should give me some levels and give Juno and Venus levels. The worship for them increases significantly from women for all three of us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **The Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Paladin | HP: 860/860 | XP: 2,136,000/2,470,000 | Gold: 35,587,190** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Co-Regent, Dual-Reign**
@@ -12454,8 +13880,11 @@ As the elite of Rome step through the portal into Elysium Iulium, the 'Apex Atte
 God Mode:
 Process new levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **Great Atrium, Domus Solis, Rome** &nbsp;|&nbsp; ⏳ **May 6, 35 BCE (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | HP: 900/900 | XP: 355,000 / 1,594,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active, Portfolio: Sun, Domination, Order | Exhaustion: 0 | Inspiration: No**
@@ -12480,8 +13909,11 @@ Processed new levels from 43 to 45 (Lesser Deity Rank 4). Applied Divine Directi
 > 👤 **Player:**
 > *"Propose to Juno and Venus we have a divine fertility celebrations we will have an orgy with Venus Juno licinia seppia and my 5 female slaves. I will impregnate all the women to bring new life into the world. If they accept we will focus on Juno and Venus pleasure and give them 100 organisms. Narrate in detail if they accept"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 6, 35 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | HP: 900/900 | Essence: 1650 | Dignitas: 1100** &nbsp;|&nbsp; ✨ **Slots: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Leverage: +53 | Dissonance: 60%**
@@ -12535,8 +13967,11 @@ Scene setup:
 Begin the scene right at [specific moment you want to start from, e.g. "the moment he pins her wrists above her head against the wall" or "as she kneels between his thighs in the dimly lit hotel room"].
 Do not summarize. Do not skip ahead. Immerse me fully in the moment-by-moment experience."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 6, 35 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Paladin (Oath of Domination) | HP: 900/900 | Dignitas: 1100 | Mask: Layer 2 (Source) | Identity Reveal: Top 10 Houses 3/3** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Lay on Hands: 50/50, Channel Divinity: 0/1, Exhaustion: 0**
@@ -12562,8 +13997,11 @@ They collapse in a tangled heap of slick limbs and heaving breasts, bodies marke
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extend Celestial Pact - Propose further divine alliances to Juno and Venus, leveraging their submission for pantheon isolation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **May 6, 35 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Paladin (Oath of Domination) | HP: 900/900** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 1/1, L10 4/4, L11 2/2 | Channel Divinity: 1/1 | Divine Sense: 6/6 | Cleansing Touch: 5/5 | Lay On Hands: 50/50**
@@ -12573,8 +14011,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extend Celestial Pact - Propose further divine alliances to Juno and Venus, leveraging their submission for pantheon isolation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 6, 35 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Paladin | HP: 900/900 | XP: 2,136,000/2,470,000 | Gold: 35,587,190** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Lay on Hands: 50/50, Channel Divinity: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Portfolio: Sun, Domination, Order | Dignitas: 1100**
@@ -12628,8 +14069,11 @@ Licinia and Seppia, reclining at your feet as Level 25 Epic Mortals, watch the r
 > 👤 **Player:**
 > *"Let's have the triumvirate power up through a week of sex and fertility rites. Assume that Venus and Juno both enjoy rough sex. I fuck then so hard and make them orgasm so much that they keep dying and resurrecting multiple times a dayZ since I have TJ portfolio of domination and nothing can except dominating  a goddess I gain massive levels but I then transfer some levels back to them to keep sharing power and launder my power ups so it's less notable. All of us should gain  3 - 5 levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **May 6, 35 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Paladin (Oath of Domination) | HP: 900/900** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 1/1, L10 4/4, L11 2/2 | Channel Divinity: 1/1 | Divine Sense: 6/6 | Cleansing Touch: 5/5 | Lay On Hands: 50/50**
@@ -12639,8 +14083,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"THINK:How can we avoid scrutiny And then strike at Jupiter? What if I teach them Level 2 and  3 god masks?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Paladin (Oath of Domination) | Layer 2 (Source) | HP: 900/900 | Dignitas: 1100 | Dissonance: 60% (Investigation) | Apex: 35% (Charged)**
@@ -12650,8 +14097,11 @@ You pause amidst the eternal twilight of Elysium Iulium, the bruised-purple sky 
 > 👤 **Player:**
 > *"Let's have the triumvirate power up through a week of sex and fertility rites. Assume that Venus and Juno both enjoy rough sex. I fuck then so hard and make them orgasm so much that they keep dying and resurrecting multiple times a dayZ since I have TJ portfolio of domination and nothing can except dominating  a goddess I gain massive levels but I then transfer some levels back to them to keep sharing power and launder my power ups so it's less notable. All of us should gain  3 - 5 levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 13, 35 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | HP: 900/900 | XP: 2,136,000/2,470,000 | Gold: 11,020,769gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Lay on Hands: 50/50, Channel Divinity: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active, Portfolio: Sun, Domination, Order | Dissonance: 60%**
@@ -12667,8 +14117,11 @@ Your strategic shadow remains absolute. You possess a Faction Power of 500,205,7
 > 👤 **Player:**
 > *"Let's have the triumvirate power up through a week of sex and fertility rites. Assume that Venus and Juno both enjoy rough sex. I fuck then so hard and make them orgasm so much that they keep dying and resurrecting multiple times a dayZ since I have TJ portfolio of domination and nothing can except dominating  a goddess I gain massive levels but I then transfer some levels back to them to keep sharing power and launder my power ups so it's less notable. All of us should gain  3 - 5 levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 20, 35 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin (Oath of Domination) | HP: 960/960 | XP: 2,136,000/3,000,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apotheosis (Lesser Deity - Rank 4) | Dignitas: 1100 | Mask: Level 25 | Identity Reveal: 3/3 (Inner Circle)**
@@ -12686,8 +14139,11 @@ Your strategic shadow remains absolute, anchored by a Faction Power of 500,205,7
 > 👤 **Player:**
 > *"Redo narration with full detail of the sex acts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin | HP: 960/960 | XP: 2136000/2470000 | Gold: 35,587,190gp | Dignitas: 1100 | Mask: Level 5 | Identity Reveal: Top 10 Houses 3/3** &nbsp;|&nbsp; ✨ **HD: 16/20 | Spells: L1-L8 Unlimited | Lay on Hands: 50/50 | Exhaustion: 0**
@@ -12711,8 +14167,11 @@ Hours blur—ten orgasms for each, bodies convulsing in endless waves, cunts and
 > 👤 **Player:**
 > *"Fertility rite needs Juno and Venus as well. Add them in should be one big orgy where they get fucked hard enough to die and resurrect and drown in cum for real"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **May 13, 35 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin (Oath of Domination) | HP: 960/960** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 1/1, L10 4/4, L11 2/2 | Channel Divinity: 1/1 | Divine Sense: 6/6 | Cleansing Touch: 5/5 | Lay On Hands: 50/50**
@@ -12722,8 +14181,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Fertility rite needs Juno and Venus as well. Add them in should be one big orgy where they get fucked hard enough to die and resurrect and drown in cum for real"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin (Oath of Domination) | HP: 960/960 | Dignitas: 1100 | Mask: Layer 2 (Source) | Identity Reveal: Top 10 Houses 3/3** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-8 Unlimited | Lay on Hands: 50/50 | Exhaustion: 0**
@@ -12763,8 +14225,11 @@ Dawn breaks faintly (06:15:00), women spent vessels, pavilion reeking divine exc
 > 👤 **Player:**
 > *"I cum in massive pools on the floor and each woman and goddess lick it up in a unique way suited to their personality. Describe it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 13, 35 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin | HP: 960/960 | XP: 2,136,000/2,470,000 | Gold: 35,587,190gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Lay on Hands: 50/50, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active | Dignitas: 1100 | Mask: Layer 2 (The Source)**
@@ -12817,8 +14282,11 @@ As the last of the ivory tide is consumed, the pavilion falls into a heavy, ozon
 > 👤 **Player:**
 > *"Extend the rite. Have all nine women and the goddesses get dog colllared and fresh cum all over their bodies. I then walk them around paradise. I trade lords their wives or mistressss if the lord wants to fuck one of my women and impregnate even more women"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 13, 35 (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Lesser Deity | HP: 960/960 | XP: 2,136,000/2,470,000 | Gold: 35,587,190** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Lay on Hands: 50/50, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Triumvirate Active, Immortality, Portfolio: Sun/Domination/Order | Dignitas: 1100**
@@ -12858,8 +14326,11 @@ Your strategic shadow remains absolute, anchored by a Faction Power of 500,205,7
 > 👤 **Player:**
 > *"Narrate Juno and Venus getting roughly gangbanged in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **May 13, 35 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin (Oath of Domination) | HP: 960/960** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 1/1, L10 4/4, L11 2/2 | Channel Divinity: 1/1 | Divine Sense: 6/6 | Cleansing Touch: 5/5 | Lay On Hands: 50/50**
@@ -12869,8 +14340,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Narrate Juno and Venus getting roughly gangbanged in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin (Oath of Domination) | HP: 960/960 | XP: 2136000/2470000 | Gold: 35,587,190gp | Dignitas: 1100 | Mask: Level 5 (Non-Revealed) | Identity Reveal: Top 10 Houses 3/3** &nbsp;|&nbsp; ✨ **HD: 16/20, Spells: L1-8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Lay on Hands: 50/50, Exhaustion: 0**
@@ -12890,8 +14364,11 @@ Hours blur ten orgasms each convulsing endless waves cunts asses gaping leaking 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Celestial Pact - Deepen the triumvirate bond with Juno and Venus through divine communion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 20, 35 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin (Oath of Domination) | HP: 960/960 | XP: 2,136,000/2,470,000 | Gold: 35,820,521gp | Dignitas: 1100** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Immortality Active, Portfolio: Sun/Domination/Order | Mask: Layer 2 (The Source) | Identity Reveal: 3/3 (Inner Circle)**
@@ -12924,8 +14401,11 @@ With the masks anchored, you turn your clinical focus toward the clouds of Olymp
 > 👤 **Player:**
 > *"Brainstorm with my goddesses how to reduce scrutiny"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 20, 35 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin (Oath of Domination) | HP: 960/960 | XP: 2,136,000/2,470,000 | Gold: 35,820,521gp** &nbsp;|&nbsp; ✨ **HD: 16/20, Spells: L1-8 Unlimited, L9 1/1, L10 4/4, L11 2/2, Lay on Hands: 50/50, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apotheosis Complete, Lesser Deity (Rank 4), Portfolio: Sun, Domination, Order | Exhaustion: 0 | Inspiration: Yes**
@@ -12961,8 +14441,11 @@ Your strategic shadow remains absolute, anchored by a Faction Power of 500,205,7
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mentor Mask Protocols - Formally teach Juno and Venus the Level 2 and Level 3 Mask techniques to lower the Triumvirate&#x27;s collective Dissonance signature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **Elysium Iulium (Pavilion of Eternal Bloom)** &nbsp;|&nbsp; ⏳ **May 21, 35 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 48 Paladin | HP: 960/960 | XP: 2,136,000/2,470,000 | Dignitas: 1100** &nbsp;|&nbsp; ✨ **HD: 16/20 | Spells: L1-8 Unlimited, L9 1/1, L10 4/4, L11 2/2 | Lay on Hands: 50/50 | Exhaustion: 0**
@@ -12989,6 +14472,8 @@ Juno shudders as the Julian frequency rewrites her celestial DNA, her storm-gold
 > Social HP: 0/15 | Status: SURRENDERED / MASKED
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

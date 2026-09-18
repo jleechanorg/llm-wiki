@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (130 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 # THE RUST-BOUND BLADE: A GROUNDED GEOPOLITICAL CAMPAIGN BIBLE
@@ -232,146 +243,151 @@ Because Vaelen is a **Gestalt** character, he advances in **both classes simulta
 | **19** | Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **Final Optimization:** Complete maximization of physical and mental resilience. |
 | **20** | Perfect Self (Ki Restoration) | **Extra Attack (3)** | **THE CRIMSON CHILD RECLAIMED:** Vaelen achieves **4 weapon strikes per Attack Action**. Combined with *Flurry of Blows* and *Action Surge*, he outputs **10 to 14 attacks per round**, operating completely as an apex predator. |
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Unknown | , DR (00:00) | Roleplay |
-| **03** | Vaelen's Dojo (Rural Outskirts) | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **04** | Vaelen's Dojo (Rural Western Heartlands) | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **05** | Vaelen's Dojo | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **06** | Master Vaelen's Dojo | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **07** | Vaelen's Dojo (Outskirts) | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **08** | Vaelen's Rural Dojo | Mirtul 20, 1492 DR (08:00) | Roleplay |
-| **09** | Vaelen's Dojo | Mirtul 10, 1492 DR (12:00) | Roleplay |
-| **10** | Oakhaven Outskirts | Mirtul 18, 1492 DR (15:30) | Roleplay |
-| **11** | Oakhaven Village Square | Mirtul 18, 1492 DR (15:35) | Roleplay |
-| **12** | Oakhaven Village Square | Mirtul 18, 1492 DR (15:35) | Roleplay |
-| **13** | Oakhaven Village Square | Mirtul 18, 1492 DR (15:35) | Roleplay |
-| **14** | Oakhaven Village Square | Mirtul 18, 1492 DR (15:36) | Roleplay |
-| **15** | Oakhaven Village Square | Mirtul 18, 1492 DR (15:36) | Roleplay |
-| **16** | Oakhaven Village Square | Mirtul 18, 1492 DR (15:41) | Roleplay |
-| **17** | Master Vaelen's Dojo | Mirtul 28, 1492 DR (08:30) | Roleplay |
-| **18** | Master Vaelen's Dojo | Mirtul 28, 1492 DR (08:45) | Roleplay |
-| **19** | Master Vaelen's Dojo | Mirtul 28, 1492 DR (08:45) | Roleplay |
-| **20** | The High Road toward the Capital | Mirtul 28, 1492 DR (09:15) | Roleplay |
-| **21** | The High Road toward the Capital | Mirtul 28, 1492 DR (09:30) | Roleplay |
-| **22** | The High Road toward the Capital | Mirtul 28, 1492 DR (09:45) | Roleplay |
-| **23** | The High Road toward the Capital | Mirtul 28, 1492 DR (10:45) | Roleplay |
-| **24** | The High Road toward the Capital | Mirtul 28, 1492 DR (11:15) | Social Challenge |
-| **25** | The High Road toward the Capital | Mirtul 28, 1492 DR (11:15) | Roleplay |
-| **26** | The High Road toward the Capital | Mirtul 28, 1492 DR (19:30) | Roleplay |
-| **27** | The High Road toward the Capital | Mirtul 28, 1492 DR (19:35) | Social Challenge |
-| **28** | The High Road toward the Capital | Mirtul 28, 1492 DR (19:35) | Roleplay |
-| **29** | The High Road toward the Capital | Mirtul 28, 1492 DR (19:35) | Social Challenge |
-| **30** | The High Road Waypoint | Mirtul 28, 1492 DR (19:35) | Roleplay |
-| **31** | The High Road Waypoint | Mirtul 28, 1492 DR (19:50) | Roleplay |
-| **32** | The High Road Waypoint | Mirtul 28, 1492 DR (20:15) | Roleplay |
-| **33** | The High Road Waypoint | Mirtul 28, 1492 DR (20:15) | Roleplay |
-| **34** | Grand Citadel of the Heartlands | Mirtul 32, 1492 DR (09:00) | Roleplay |
-| **35** | Grand Citadel of the Heartlands | Mirtul 32, 1492 DR (09:00) | Roleplay |
-| **36** | The Grand Citadel of the Heartlands - Great Northern Gate | Mirtul 32, 1492 DR (09:05) | Roleplay |
-| **37** | The Grand Citadel - Lower City Streets | Mirtul 32, 1492 DR (09:20) | Roleplay |
-| **38** | The High Court | Mirtul 32, 1492 DR (12:00) | Roleplay |
-| **39** | The High Court | Mirtul 32, 1492 DR (12:00) | Roleplay |
-| **40** | The High Court | Mirtul 32, 1492 DR (12:05) | Roleplay |
-| **41** | The High Court | Mirtul 32, 1492 DR (12:15) | Social Challenge |
-| **42** | The High Court | Mirtul 32, 1492 DR (12:15) | Roleplay |
-| **43** | The High Court | Mirtul 32, 1492 DR (12:20) | Roleplay |
-| **44** | The High Court | Mirtul 32, 1492 DR (12:25) | Social Challenge |
-| **45** | The High Court | Mirtul 32, 1492 DR (12:35) | Social Challenge |
-| **46** | The High Court | Mirtul 32, 1492 DR (12:40) | Social Challenge |
-| **47** | The High Court | Mirtul 32, 1492 DR (12:40) | Roleplay |
-| **48** | The High Court | Mirtul 32, 1492 DR (12:45) | Social Challenge |
-| **49** | The High Court | Mirtul 32, 1492 DR (12:50) | Boss Surrender |
-| **50** | The High Court | Mirtul 32, 1492 DR (12:50) | Roleplay |
-| **51** | Elite Training Grounds | Mirtul 32, 1492 DR (13:20) | Roleplay |
-| **52** | Elite Training Grounds | Mirtul 32, 1492 DR (13:20) | Roleplay |
-| **53** | Elite Training Grounds | Mirtul 32, 1492 DR (13:25) | Roleplay |
-| **54** | Elite Training Grounds | Mirtul 32, 1492 DR (13:25) | Roleplay |
-| **55** | Elite Training Grounds | Mirtul 32, 1492 DR (13:30) | Social Challenge |
-| **56** | Elite Training Grounds | Mirtul 32, 1492 DR (14:15) | Social Challenge |
-| **57** | Elite Training Grounds | Mirtul 32, 1492 DR (14:30) | Social Challenge |
-| **58** | Private Sparring Chamber | Mirtul 32, 1492 DR (18:30) | Roleplay |
-| **59** | Private Sparring Chamber | Mirtul 32, 1492 DR (19:15) | Social Challenge |
-| **60** | Private Sparring Chamber | Mirtul 32, 1492 DR (19:15) | Roleplay |
-| **61** | Private Sparring Chamber | Mirtul 32, 1492 DR (19:20) | Social Challenge |
-| **62** | Special Instructor's Quarters | Kythorn 23, 1492 DR (06:00) | Roleplay |
-| **63** | Special Instructor's Quarters | Kythorn 23, 1492 DR (06:00) | Roleplay |
-| **64** | The High Garden | Kythorn 23, 1492 DR (08:30) | Roleplay |
-| **65** | The High Garden | Kythorn 23, 1492 DR (08:35) | Roleplay |
-| **66** | The High Garden | Kythorn 23, 1492 DR (08:35) | Roleplay |
-| **67** | The High Garden | Kythorn 23, 1492 DR (08:35) | Roleplay |
-| **68** | The High Throne | Kythorn 23, 1492 DR (12:45) | Social Challenge |
-| **69** | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
-| **70** | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
-| **71** | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
-| **72** | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
-| **73** | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
-| **74** | The High Throne | Kythorn 23, 1492 DR (12:46) | Social Challenge |
-| **75** | The High Throne | Kythorn 23, 1492 DR (12:50) | Social Challenge |
-| **76** | The High Throne | Kythorn 23, 1492 DR (12:50) | Roleplay |
-| **77** | The High Throne | Kythorn 23, 1492 DR (12:50) | Roleplay |
-| **78** | Elite Training Grounds | Flamerule 14, 1492 DR (09:00) | Social Challenge |
-| **79** | Elite Training Grounds | Flamerule 14, 1492 DR (09:15) | Social Challenge |
-| **80** | Elite Training Grounds | Flamerule 14, 1492 DR (10:30) | Social Challenge |
-| **81** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Social Challenge |
-| **82** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Social Challenge |
-| **83** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Roleplay |
-| **84** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Roleplay |
-| **85** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:45) | Social Challenge |
-| **86** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:15) | Social Challenge |
-| **87** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:30) | Social Challenge |
-| **88** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:30) | Roleplay |
-| **89** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:30) | Roleplay |
-| **90** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:45) | Social Challenge |
-| **91** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (21:00) | Social Challenge |
-| **92** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (21:30) | Social Challenge |
-| **93** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:15) | Roleplay |
-| **94** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:25) | Social Challenge |
-| **95** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:25) | Roleplay |
-| **96** | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:25) | Roleplay |
-| **97** | Private Study | Flamerule 14, 1492 DR (22:30) | Social Challenge |
-| **98** | Elite Training Grounds | Flamerule 18, 1492 DR (09:45) | Social Challenge |
-| **99** | Elite Training Grounds | Flamerule 18, 1492 DR (09:45) | Roleplay |
-| **100** | Elite Training Grounds | Flamerule 18, 1492 DR (09:45) | Roleplay |
-| **101** | Elite Training Grounds | Flamerule 19, 1492 DR (10:00) | Roleplay |
-| **102** | Elite Training Grounds | Flamerule 19, 1492 DR (10:00) | Roleplay |
-| **103** | Elite Training Grounds | Flamerule 19, 1492 DR (10:05) | Roleplay |
-| **104** | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
-| **105** | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
-| **106** | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
-| **107** | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
-| **108** | Elite Training Grounds | Flamerule 26, 1492 DR (10:30) | Roleplay |
-| **109** | Elite Training Grounds | Flamerule 26, 1492 DR (10:45) | Roleplay |
-| **110** | The Vault of Echoes | Flamerule 26, 1492 DR (11:15) | Social Challenge |
-| **111** | The Vault of Echoes | Flamerule 26, 1492 DR (11:20) | Social Challenge |
-| **112** | The Vault of Echoes | Flamerule 26, 1492 DR (11:25) | Social Challenge |
-| **113** | The Vault of Echoes | Flamerule 26, 1492 DR (11:27) | Social Challenge |
-| **114** | The Vault of Echoes | Flamerule 26, 1492 DR (11:29) | Roleplay |
-| **115** | The Vault of Echoes | Flamerule 26, 1492 DR (11:30) | Roleplay |
-| **116** | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Boss Surrender |
-| **117** | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Roleplay |
-| **118** | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Roleplay |
-| **119** | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Roleplay |
-| **120** | The Grand Courtyard | Flamerule 26, 1492 DR (11:55) | Roleplay |
-| **121** | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:30) | Roleplay |
-| **122** | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:31) | Social Challenge |
-| **123** | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:32) | Social Challenge |
-| **124** | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:35) | Social Challenge |
-| **125** | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:36) | Roleplay |
-| **126** | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:37) | Boss Surrender |
-| **127** | Grand Citadel | Flamerule 26, 1492 DR (21:00) | Roleplay |
-| **128** | High Security Inquisitorial Ward | Flamerule 26, 1492 DR (22:30) | Social Challenge |
-| **129** | High Security Inquisitorial Ward |  | Social Challenge |
-| **130** | High Security Inquisitorial Ward | Flamerule 26, 1492 DR (23:00) | Boss Surrender |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Vaelen's Dojo (Rural Outskirts) | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Vaelen's Dojo (Rural Western Heartlands) | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Vaelen's Dojo | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Master Vaelen's Dojo | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Vaelen's Dojo (Outskirts) | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Vaelen's Rural Dojo | Mirtul 20, 1492 DR (08:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Vaelen's Dojo | Mirtul 10, 1492 DR (12:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Oakhaven Outskirts | Mirtul 18, 1492 DR (15:30) | Roleplay |
+| [**Scene 11**](#scene-11) | Oakhaven Village Square | Mirtul 18, 1492 DR (15:35) | Roleplay |
+| [**Scene 12**](#scene-12) | Oakhaven Village Square | Mirtul 18, 1492 DR (15:35) | Roleplay |
+| [**Scene 13**](#scene-13) | Oakhaven Village Square | Mirtul 18, 1492 DR (15:35) | Roleplay |
+| [**Scene 14**](#scene-14) | Oakhaven Village Square | Mirtul 18, 1492 DR (15:36) | Roleplay |
+| [**Scene 15**](#scene-15) | Oakhaven Village Square | Mirtul 18, 1492 DR (15:36) | Roleplay |
+| [**Scene 16**](#scene-16) | Oakhaven Village Square | Mirtul 18, 1492 DR (15:41) | Roleplay |
+| [**Scene 17**](#scene-17) | Master Vaelen's Dojo | Mirtul 28, 1492 DR (08:30) | Roleplay |
+| [**Scene 18**](#scene-18) | Master Vaelen's Dojo | Mirtul 28, 1492 DR (08:45) | Roleplay |
+| [**Scene 19**](#scene-19) | Master Vaelen's Dojo | Mirtul 28, 1492 DR (08:45) | Roleplay |
+| [**Scene 20**](#scene-20) | The High Road toward the Capital | Mirtul 28, 1492 DR (09:15) | Roleplay |
+| [**Scene 21**](#scene-21) | The High Road toward the Capital | Mirtul 28, 1492 DR (09:30) | Roleplay |
+| [**Scene 22**](#scene-22) | The High Road toward the Capital | Mirtul 28, 1492 DR (09:45) | Roleplay |
+| [**Scene 23**](#scene-23) | The High Road toward the Capital | Mirtul 28, 1492 DR (10:45) | Roleplay |
+| [**Scene 24**](#scene-24) | The High Road toward the Capital | Mirtul 28, 1492 DR (11:15) | Social Challenge |
+| [**Scene 25**](#scene-25) | The High Road toward the Capital | Mirtul 28, 1492 DR (11:15) | Roleplay |
+| [**Scene 26**](#scene-26) | The High Road toward the Capital | Mirtul 28, 1492 DR (19:30) | Roleplay |
+| [**Scene 27**](#scene-27) | The High Road toward the Capital | Mirtul 28, 1492 DR (19:35) | Social Challenge |
+| [**Scene 28**](#scene-28) | The High Road toward the Capital | Mirtul 28, 1492 DR (19:35) | Roleplay |
+| [**Scene 29**](#scene-29) | The High Road toward the Capital | Mirtul 28, 1492 DR (19:35) | Social Challenge |
+| [**Scene 30**](#scene-30) | The High Road Waypoint | Mirtul 28, 1492 DR (19:35) | Roleplay |
+| [**Scene 31**](#scene-31) | The High Road Waypoint | Mirtul 28, 1492 DR (19:50) | Roleplay |
+| [**Scene 32**](#scene-32) | The High Road Waypoint | Mirtul 28, 1492 DR (20:15) | Roleplay |
+| [**Scene 33**](#scene-33) | The High Road Waypoint | Mirtul 28, 1492 DR (20:15) | Roleplay |
+| [**Scene 34**](#scene-34) | Grand Citadel of the Heartlands | Mirtul 32, 1492 DR (09:00) | Roleplay |
+| [**Scene 35**](#scene-35) | Grand Citadel of the Heartlands | Mirtul 32, 1492 DR (09:00) | Roleplay |
+| [**Scene 36**](#scene-36) | The Grand Citadel of the Heartlands - Great Northern Gate | Mirtul 32, 1492 DR (09:05) | Roleplay |
+| [**Scene 37**](#scene-37) | The Grand Citadel - Lower City Streets | Mirtul 32, 1492 DR (09:20) | Roleplay |
+| [**Scene 38**](#scene-38) | The High Court | Mirtul 32, 1492 DR (12:00) | Roleplay |
+| [**Scene 39**](#scene-39) | The High Court | Mirtul 32, 1492 DR (12:00) | Roleplay |
+| [**Scene 40**](#scene-40) | The High Court | Mirtul 32, 1492 DR (12:05) | Roleplay |
+| [**Scene 41**](#scene-41) | The High Court | Mirtul 32, 1492 DR (12:15) | Social Challenge |
+| [**Scene 42**](#scene-42) | The High Court | Mirtul 32, 1492 DR (12:15) | Roleplay |
+| [**Scene 43**](#scene-43) | The High Court | Mirtul 32, 1492 DR (12:20) | Roleplay |
+| [**Scene 44**](#scene-44) | The High Court | Mirtul 32, 1492 DR (12:25) | Social Challenge |
+| [**Scene 45**](#scene-45) | The High Court | Mirtul 32, 1492 DR (12:35) | Social Challenge |
+| [**Scene 46**](#scene-46) | The High Court | Mirtul 32, 1492 DR (12:40) | Social Challenge |
+| [**Scene 47**](#scene-47) | The High Court | Mirtul 32, 1492 DR (12:40) | Roleplay |
+| [**Scene 48**](#scene-48) | The High Court | Mirtul 32, 1492 DR (12:45) | Social Challenge |
+| [**Scene 49**](#scene-49) | The High Court | Mirtul 32, 1492 DR (12:50) | Boss Surrender |
+| [**Scene 50**](#scene-50) | The High Court | Mirtul 32, 1492 DR (12:50) | Roleplay |
+| [**Scene 51**](#scene-51) | Elite Training Grounds | Mirtul 32, 1492 DR (13:20) | Roleplay |
+| [**Scene 52**](#scene-52) | Elite Training Grounds | Mirtul 32, 1492 DR (13:20) | Roleplay |
+| [**Scene 53**](#scene-53) | Elite Training Grounds | Mirtul 32, 1492 DR (13:25) | Roleplay |
+| [**Scene 54**](#scene-54) | Elite Training Grounds | Mirtul 32, 1492 DR (13:25) | Roleplay |
+| [**Scene 55**](#scene-55) | Elite Training Grounds | Mirtul 32, 1492 DR (13:30) | Social Challenge |
+| [**Scene 56**](#scene-56) | Elite Training Grounds | Mirtul 32, 1492 DR (14:15) | Social Challenge |
+| [**Scene 57**](#scene-57) | Elite Training Grounds | Mirtul 32, 1492 DR (14:30) | Social Challenge |
+| [**Scene 58**](#scene-58) | Private Sparring Chamber | Mirtul 32, 1492 DR (18:30) | Roleplay |
+| [**Scene 59**](#scene-59) | Private Sparring Chamber | Mirtul 32, 1492 DR (19:15) | Social Challenge |
+| [**Scene 60**](#scene-60) | Private Sparring Chamber | Mirtul 32, 1492 DR (19:15) | Roleplay |
+| [**Scene 61**](#scene-61) | Private Sparring Chamber | Mirtul 32, 1492 DR (19:20) | Social Challenge |
+| [**Scene 62**](#scene-62) | Special Instructor's Quarters | Kythorn 23, 1492 DR (06:00) | Roleplay |
+| [**Scene 63**](#scene-63) | Special Instructor's Quarters | Kythorn 23, 1492 DR (06:00) | Roleplay |
+| [**Scene 64**](#scene-64) | The High Garden | Kythorn 23, 1492 DR (08:30) | Roleplay |
+| [**Scene 65**](#scene-65) | The High Garden | Kythorn 23, 1492 DR (08:35) | Roleplay |
+| [**Scene 66**](#scene-66) | The High Garden | Kythorn 23, 1492 DR (08:35) | Roleplay |
+| [**Scene 67**](#scene-67) | The High Garden | Kythorn 23, 1492 DR (08:35) | Roleplay |
+| [**Scene 68**](#scene-68) | The High Throne | Kythorn 23, 1492 DR (12:45) | Social Challenge |
+| [**Scene 69**](#scene-69) | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
+| [**Scene 70**](#scene-70) | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
+| [**Scene 71**](#scene-71) | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
+| [**Scene 72**](#scene-72) | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
+| [**Scene 73**](#scene-73) | The High Throne | Kythorn 23, 1492 DR (12:45) | Roleplay |
+| [**Scene 74**](#scene-74) | The High Throne | Kythorn 23, 1492 DR (12:46) | Social Challenge |
+| [**Scene 75**](#scene-75) | The High Throne | Kythorn 23, 1492 DR (12:50) | Social Challenge |
+| [**Scene 76**](#scene-76) | The High Throne | Kythorn 23, 1492 DR (12:50) | Roleplay |
+| [**Scene 77**](#scene-77) | The High Throne | Kythorn 23, 1492 DR (12:50) | Roleplay |
+| [**Scene 78**](#scene-78) | Elite Training Grounds | Flamerule 14, 1492 DR (09:00) | Social Challenge |
+| [**Scene 79**](#scene-79) | Elite Training Grounds | Flamerule 14, 1492 DR (09:15) | Social Challenge |
+| [**Scene 80**](#scene-80) | Elite Training Grounds | Flamerule 14, 1492 DR (10:30) | Social Challenge |
+| [**Scene 81**](#scene-81) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Social Challenge |
+| [**Scene 82**](#scene-82) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Social Challenge |
+| [**Scene 83**](#scene-83) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Roleplay |
+| [**Scene 84**](#scene-84) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:30) | Roleplay |
+| [**Scene 85**](#scene-85) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (19:45) | Social Challenge |
+| [**Scene 86**](#scene-86) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:15) | Social Challenge |
+| [**Scene 87**](#scene-87) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:30) | Social Challenge |
+| [**Scene 88**](#scene-88) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (20:45) | Social Challenge |
+| [**Scene 91**](#scene-91) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (21:00) | Social Challenge |
+| [**Scene 92**](#scene-92) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (21:30) | Social Challenge |
+| [**Scene 93**](#scene-93) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:15) | Roleplay |
+| [**Scene 94**](#scene-94) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:25) | Social Challenge |
+| [**Scene 95**](#scene-95) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:25) | Roleplay |
+| [**Scene 96**](#scene-96) | Special Grand Instructor's Manor | Flamerule 14, 1492 DR (22:25) | Roleplay |
+| [**Scene 97**](#scene-97) | Private Study | Flamerule 14, 1492 DR (22:30) | Social Challenge |
+| [**Scene 98**](#scene-98) | Elite Training Grounds | Flamerule 18, 1492 DR (09:45) | Social Challenge |
+| [**Scene 99**](#scene-99) | Elite Training Grounds | Flamerule 18, 1492 DR (09:45) | Roleplay |
+| [**Scene 100**](#scene-100) | Elite Training Grounds | Flamerule 18, 1492 DR (09:45) | Roleplay |
+| [**Scene 101**](#scene-101) | Elite Training Grounds | Flamerule 19, 1492 DR (10:00) | Roleplay |
+| [**Scene 102**](#scene-102) | Elite Training Grounds | Flamerule 19, 1492 DR (10:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Elite Training Grounds | Flamerule 19, 1492 DR (10:05) | Roleplay |
+| [**Scene 104**](#scene-104) | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
+| [**Scene 105**](#scene-105) | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
+| [**Scene 106**](#scene-106) | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
+| [**Scene 107**](#scene-107) | Elite Training Grounds | Flamerule 19, 1492 DR (10:10) | Roleplay |
+| [**Scene 108**](#scene-108) | Elite Training Grounds | Flamerule 26, 1492 DR (10:30) | Roleplay |
+| [**Scene 109**](#scene-109) | Elite Training Grounds | Flamerule 26, 1492 DR (10:45) | Roleplay |
+| [**Scene 110**](#scene-110) | The Vault of Echoes | Flamerule 26, 1492 DR (11:15) | Social Challenge |
+| [**Scene 111**](#scene-111) | The Vault of Echoes | Flamerule 26, 1492 DR (11:20) | Social Challenge |
+| [**Scene 112**](#scene-112) | The Vault of Echoes | Flamerule 26, 1492 DR (11:25) | Social Challenge |
+| [**Scene 113**](#scene-113) | The Vault of Echoes | Flamerule 26, 1492 DR (11:27) | Social Challenge |
+| [**Scene 114**](#scene-114) | The Vault of Echoes | Flamerule 26, 1492 DR (11:29) | Roleplay |
+| [**Scene 115**](#scene-115) | The Vault of Echoes | Flamerule 26, 1492 DR (11:30) | Roleplay |
+| [**Scene 116**](#scene-116) | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Boss Surrender |
+| [**Scene 117**](#scene-117) | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Roleplay |
+| [**Scene 118**](#scene-118) | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Roleplay |
+| [**Scene 119**](#scene-119) | The Vault of Echoes | Flamerule 26, 1492 DR (11:35) | Roleplay |
+| [**Scene 120**](#scene-120) | The Grand Courtyard | Flamerule 26, 1492 DR (11:55) | Roleplay |
+| [**Scene 121**](#scene-121) | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:30) | Roleplay |
+| [**Scene 122**](#scene-122) | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:31) | Social Challenge |
+| [**Scene 123**](#scene-123) | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:32) | Social Challenge |
+| [**Scene 124**](#scene-124) | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:35) | Social Challenge |
+| [**Scene 125**](#scene-125) | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:36) | Roleplay |
+| [**Scene 126**](#scene-126) | Ruins of the Old Watchtower | Flamerule 26, 1492 DR (15:37) | Boss Surrender |
+| [**Scene 127**](#scene-127) | Grand Citadel | Flamerule 26, 1492 DR (21:00) | Roleplay |
+| [**Scene 128**](#scene-128) | High Security Inquisitorial Ward | Flamerule 26, 1492 DR (22:30) | Social Challenge |
+| [**Scene 129**](#scene-129) | High Security Inquisitorial Ward |  | Social Challenge |
+| [**Scene 130**](#scene-130) | High Security Inquisitorial Ward | Flamerule 26, 1492 DR (23:00) | Boss Surrender |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei)** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -403,8 +419,11 @@ I have integrated your specific mechanical requirements, including the Wisdom-ba
 > 👤 **Player:**
 > *"lets not spoil me, dont tell me which are the infiltrators until later in the campaign. lets jsut give me 1000g, I am lower middle class because most students churn"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 124/124** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -430,8 +449,11 @@ Your character is now fully calibrated for the 'lower middle class' start you've
 > 👤 **Player:**
 > *"also dont tell me if Elara is good or evil until later in the campaign when it is revealed. For the evil characters you can consider subtle hints but you also need to do red herrings from good charaters so I truly cannot tell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Vaelen's Dojo (Rural Outskirts)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 124/124 | XP: 64000/85000 | Gold: 1000gp** &nbsp;|&nbsp; ✨ **Ki: 12/12 | Spells: L1 4/4, L2 3/3 | HD: 12/12 | Exhaustion: 0**
@@ -461,8 +483,11 @@ Your psychological anchor is set. The world sees a simple farmer with a practice
 > 👤 **Player:**
 > *"i should have more spells/cantrips since I am level 12. Make sure you follow full class for Ek and monk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Vaelen's Dojo (Rural Western Heartlands)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | XP: 64,000/85,000 | Gold: 1,000gp** &nbsp;|&nbsp; ✨ **Ki: 12/12 | Spells: L1 4/4, L2 3/3 | HD: 12/12 | Gold: 1,000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -484,8 +509,11 @@ We have ensured that Elara Vance and the identities of your students remain a my
 > 👤 **Player:**
 > *"shouldnt i have level 3 spells like haste etc?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Vaelen's Dojo** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | XP: 34,000/48,000 | Gold: 1,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 12/12 | Exhaustion: 0**
@@ -503,8 +531,11 @@ If we maintain the strict Level 12 'Mortal Ceiling,' *Haste* remains just beyond
 > 👤 **Player:**
 > *"ok nvm thats fine then, give me some sample average damage per turn breakdowns to ensure you got my idea right and give me normal 1d8 finesse rapier and a normal crossbowa nd show me the damage per round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Master Vaelen's Dojo** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | XP: 64,000/85,000 | Gold: 1,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Ki: 12/12 | Spells: L1 4/4, L2 3/3 | Exhaustion: 0**
@@ -538,8 +569,11 @@ I have added the **Finesse Rapier** and **Light Crossbow** to your equipment. Yo
 > 👤 **Player:**
 > *"i should have multiple attacks with crossbow as. a fighter and maybe monk? lets assume i have dual hand crossbow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Vaelen's Dojo (Outskirts)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | XP: 64000/85000 | Gold: 1000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Ki: 12/12, Spells: L1 4/4, L2 3/3**
@@ -560,8 +594,11 @@ I have updated your equipment and added the necessary feats to your profile. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Vaelen's Rural Dojo, Western Kingdom Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | Gold: 1,000gp | XP: 64000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Ki: 12/12 | Spells: L1 4/4, L2 3/3 | Gold: 1,000gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -575,8 +612,11 @@ Behind you, the modest thatch-roofed dojo sits silent. Most of the new recruits 
 God Mode:
 lets stop the moldy potatoe stuff, I am not that poor. and lets not have thay directly intervene for awhile
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Vaelen's Dojo** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 124/124 | Gold: 1,000gp | XP: 64000/120000**
@@ -589,8 +629,11 @@ Administrative Summary:
 > 👤 **Player:**
 > *"lets time skip until the village attacked by bandits, narrate in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Oakhaven Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | Gold: 1,000gp | XP: 64000/120000** &nbsp;|&nbsp; ✨ **Ki: 12/12, Spells: L1 4/4, L2 3/3, HD: 12/12**
@@ -610,8 +653,11 @@ You feel the familiar, sickening pull in your gut—the Crimson Child's instinct
 > [!NOTE] ⚙️ **Player Choice:**
 > *Step Forward - Intervene Directly - Walk down the ridge and confront Harkin. Use the iron-wood blade to disarm and disable without lethal force.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Oakhaven Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | Gold: 1,000gp | XP: 64000/120000** &nbsp;|&nbsp; ✨ **Ki: 12/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -635,8 +681,11 @@ Harkin: 45 → 35 [Non-lethal]
 God Mode:
 remember i am not a farmer i am a sword dojo instructor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Oakhaven Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | Gold: 1000gp | XP: 64000/120000**
@@ -646,8 +695,11 @@ Administrative correction applied. Your background and primary identity have bee
 God Mode:
 lets remove this clumsy stuff narrative. i just fight and think its normal and forget how weak people are, havent been in a real life or death fight in 20 years
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Oakhaven Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | Gold: 1,000gp | XP: 64000/120000**
@@ -662,8 +714,11 @@ Administrative Update: The 'Calibration Crisis' has been recalibrated.
 > 👤 **Player:**
 > *"back to story and tell them to surrender and if they resist knock out and disarm more. i have 3 attacks and bonus action attacks do dont forget to use them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Oakhaven Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 124/124 | Gold: 1,000gp | XP: 64000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 11/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Ki: 11/12 | Inspiration: No**
@@ -687,8 +742,11 @@ NPC Bandit Group: 100 → 58 [Non-lethal]
 God Mode:
 also make me very good looing like top 1% of men. i dont realize it but even as a 40 year old I look younger and am in great shape etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Oakhaven Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 124/124 | Gold: 1000gp | XP: 64000/120000**
@@ -701,8 +759,11 @@ Administrative Summary:
 > 👤 **Player:**
 > *"issue final warning and if they get a turn make sure you dont forget to roll their attacks against my AC. Dont forget beyond my armor i have all the special monk wisdom AC etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Oakhaven Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:41)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt Fighter/Monk | HP: 121/124 | Gold: 1,000gp | XP: 65100/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 10/12, Rage: 0/0, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -730,8 +791,11 @@ NPC Bandit Group: 58 → 0 HP [Defeated/Non-lethal]
 > 👤 **Player:**
 > *"nararte everyones reaction and lets timeskip and wait for elara to visit me and invite me. lets assume she used the heroic tale of my village defense to finally convince the king to invite me, and she's been trying for years"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Master Vaelen's Dojo** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 124/124 | Gold: 1,120gp | XP: 101100/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -757,8 +821,11 @@ She glances at Mina and Finnian, then back to you, her expression softening for 
 > 👤 **Player:**
 > *"accept and ask if my current students can come with me. Say i haven't had new students for awhile so it should be fine to leave for awhile."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Master Vaelen's Dojo** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 101100/120000** &nbsp;|&nbsp; ✨ **Ki: 10/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -780,8 +847,11 @@ Mina's face flushes with a mixture of determination and wounded pride, while Fin
 God Mode:
 stop this turnip talk and remember i am not a farmer
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Master Vaelen's Dojo** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 101100/120000**
@@ -798,8 +868,11 @@ The world now recognizes you exclusively as a master of the blade who chose a hu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin the Journey - Close the dojo and join the Imperial escort for the trek toward the heart of the Western Kingdom.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 101100/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Ki: 10/12 | Spells: L1 4/4, L2 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -815,8 +888,11 @@ As the column begins to move, the rhythmic thud of hooves and the creak of wagon
 > 👤 **Player:**
 > *"lets assume i have a horse too, would be weird if i talked. Congratulre Elara on her position and say I'm proud of her. Also observe the imperial guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 101100/120000** &nbsp;|&nbsp; ✨ **Ki: 10/12 | Spells: L1 4/4, L2 3/3 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -838,8 +914,11 @@ You notice several of the younger guards glancing at you with a mix of suspicion
 > 👤 **Player:**
 > *"explain that though i am above average in skill i am rusty, hope i wont disappoint her. Its been 20 years since i've been in a real battle and well past my prime. Lets narrate peoples external/internal reaction to this comment. They realize i actually just forgot about subduing 20 bandits or didnt count it as a real battle. Lets have the knights be mixed, some of them doubt the strength of the bandits etc, but still they respect me for being grave even if the bandits were "weak""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1,165gp | XP: 101100/120000** &nbsp;|&nbsp; ✨ **Ki: 10/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -859,8 +938,11 @@ Even as they doubt the strength of your recent foes, they cannot deny the physic
 > 👤 **Player:**
 > *"lets change this a bit. I don't perceive peoples reactions to me unless obvious. most people doubt me at first, but after enough time with me they'll learn my power. also everyone does respect i confronted the bandits but of course mixed reactions as to how strong the bandits were"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1000gp | XP: 101100/120000** &nbsp;|&nbsp; ✨ **Ki: 10/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -878,8 +960,11 @@ Elara remains silent at your side, her eyes fixed on the road, though the way sh
 > 👤 **Player:**
 > *"give elara some advice on how her knights can improve, say even if i am rusty and past my prime, i still remember things. Then check on my students and train them if they're up for it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 101550/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Ki: 10/12, Spells: L1 4/4, L2 3/3, Action Surge: 1/1, Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -914,8 +999,11 @@ Finnian: Lvl 1
 God Mode:
 lets assume elara and my former students always listen to my advice but i roll for their emotional reaction to it. failed roll could mean their spirit/pride is hurt etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1165gp | XP: 101550/120000**
@@ -931,8 +1019,11 @@ Administrative Rule Established: NPC Advice Compliance & Emotional Resonance.
 > 👤 **Player:**
 > *"lets time skip until we reach capital or osmething happens. lets also assume my two students have level 12 potential and let them do a hidden roll for good/evil, and dont tell me outcome"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 101550/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Ki: 10/12, Spells: L1 4/4, L2 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -950,8 +1041,11 @@ Behind them, the treeline shudders. The 'scrap'—a jagged fragment of Nautiloid
 > 👤 **Player:**
 > *"ask Elara for orders. les assume she mostly makes decisions and not me by default, but in a serious situation she will defer to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 101550/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 10/12, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -982,8 +1076,11 @@ From the darkness beyond the torchlight, a series of wet, chittering clicks echo
 
 also lets make all enemies sentient vs mindless monsters. Change these ones."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 101550/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 10/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1001,8 +1098,11 @@ You step back toward the baggage train, positioning yourself between your studen
 > 👤 **Player:**
 > *"ready defense strike and time skip until we win or i am forced to act since someone in true danger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The High Road toward the Capital** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 101550/120000** &nbsp;|&nbsp; ✨ **Ki: 7/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1039,8 +1139,11 @@ Commander Elara Vance (Lvl 10) stares at your back, her sword lowered for a frac
 > 👤 **Player:**
 > *"dont forget to use my war maigc, lets just kill them all and try to contain resonance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The High Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 103650/120000** &nbsp;|&nbsp; ✨ **Ki: 3/12, Spells: L1 4/4, L2 2/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Spirit Shroud (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1070,8 +1173,11 @@ You gain **2100 XP** for the decisive victory and containment of the Nautiloid s
 > 👤 **Player:**
 > *"aid wounded and narrate internal/external reactions, lets assume Elara has never seen me in real lethal combat so is shocked actually, even though she believes in my strength. I explain my performanec was poor and all the mistakes i made. While technically correct they are shocked that something higher level even exists and at least these knights there aren o doubters anymore"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The High Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 105750/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 3/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1091,8 +1197,11 @@ Mina (Lvl 3) and Finnian (Lvl 1) remain huddled by the wagons, their eyes fixed 
 > 👤 **Player:**
 > *"address the students and explain the battle to them and assume i leave the knights for awhile. lets narrate how elara and the knghts talk about me when I'm not there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The High Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 105750/120000** &nbsp;|&nbsp; ✨ **Ki: 0/12 | Spells: L1 4/4, L2 3/3 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1116,8 +1225,11 @@ The knights disperse like ghosts, their pride wounded and their world-view funda
 God Mode:
 If that creature had been a trained Thayan legionnaire, - dont have myself leak all this thayan stuff. its a secret and I dont talk about it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The High Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 105750/120000**
@@ -1133,8 +1245,11 @@ Administrative Summary: Secrecy protocols enforced.
 > 👤 **Player:**
 > *"deep meditation and tie skip until soemthing happens. Lets assume i try to accelerate my leveling by removing the "rust" and remembering my old training"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Grand Citadel of the Heartlands** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Ki: 12/12 | Spells: L1 4/4, L2 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1154,8 +1269,11 @@ The gate guards, two Level 5 veterans in heavy crimson surcoats, step forward to
 God Mode:
 dont overdo my youthful features. I am 40 but very good looking and people might think i was in my early 30s
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Grand Citadel of the Heartlands** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 107950/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -1165,8 +1283,11 @@ Appearance calibration updated. Master Vaelen's visual age has been adjusted fro
 > 👤 **Player:**
 > *"addres guards humbly and lets stop this presence detection stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Grand Citadel of the Heartlands - Great Northern Gate** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 0/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (Nautiloid Crisis) | Exhaustion: 0 | Inspiration: No**
@@ -1187,8 +1308,11 @@ Finnian is struggling with the transition from the rural dojo to the imperial ca
 > 👤 **Player:**
 > *"reassure finian, ecnourage mina, and consult Elara on protocol. Lets ensure i stay humble when i meet the high court"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Grand Citadel - Lower City Streets** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 12/12 | Resonance: 0/5** &nbsp;|&nbsp; ⚠️ **Sanctuary (Turn 45) | Exhaustion: 0 | Inspiration: No**
@@ -1212,8 +1336,11 @@ Elara Vance (Lvl 10) doesn't look at you, but her jaw sets with a sudden, jagged
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Absolute Humility - Act as a simple, slightly confused country teacher during the audience, letting Elara handle the talking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 0/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1246,8 +1373,11 @@ Elara's jaw tightens, her hand hovering near her hilt. "His results in Oakhaven 
 God Mode:
 I think these shouldnt be deception rolls as I am not trying to deceive. Maybe perception rolls from observers? 1d20 = 8 vs DC 18 - Failure (Deception (Facade of a simple country teacher))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000**
@@ -1266,8 +1396,11 @@ Administrative Summary: Mechanical Retcon for Social Humility.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the audience with Chancellor Peryn and the High Lords' Council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1302,8 +1435,11 @@ Elara’s jaw sets, her hand white-knuckled on her hilt. The Persuasion has fail
 > 👤 **Player:**
 > *"narrate another scene. elara explains what happened during the battle on the wy here to provide additional proof"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 0/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1337,8 +1473,11 @@ Yet, the visual evidence on the knights and the sheer conviction in Elara's voic
 God Mode:
 update this scene, ih ave a real longsword 1d8 normal one
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 107950/120000**
@@ -1352,8 +1491,11 @@ Your combat capabilities now reflect the use of a standard martial longsword. Th
 > 👤 **Player:**
 > *"wait and see how it goes and wait give me the finesse rapier, i mean they shouldnt act like i just only have a wooden sword"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1371,8 +1513,11 @@ Elara's jaw tightens, her hand twitching toward her hilt. She senses the shift i
 > 👤 **Player:**
 > *"say i could show some sparring, and ask elara if one of hte knights should spar with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 107950/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Ki: 0/12 | Spells: L1 4/4, L2 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1407,8 +1552,11 @@ Elara's (Lvl 10) hand tightens on her sword pommel, her jaw setting with a prote
 > 👤 **Player:**
 > *"remedial demonstration, dont go all out and focus on teaching kaelen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,165gp | XP: 108050/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Absolute Humility | Exhaustion: 0 | Inspiration: No**
@@ -1452,8 +1600,11 @@ You gain **100 XP** for the instructional demonstration.
 > 👤 **Player:**
 > *"deepen the lessen, lets assume i actually forgot kalen was using live steel, and continue to do barehanded blocks of it. i used to do it with wooden swords which was still imrpessive to elara and eveyrone but no one has ever seen me d it before with live steel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt Master | HP: 121/124 | Gold: 1,165gp | XP: 108300/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Ki: 12/12, Spells: L1 4/4, L2 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1495,8 +1646,11 @@ You gain **250 XP** for the decisive demonstration of mastery before the High Lo
 God Mode:
 lets not do this breaking hte floor stuff, i just catch weapons bare handed, and it looks crazy to people
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 108300/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1513,8 +1667,11 @@ Administrative Summary: Kinetic Grounding Recalibrated.
 > 👤 **Player:**
 > *"give kaelen a few more tips and then apologize for forgetting he was using steel and give him the advice that differs when its steel vs wooden practice, then ask the council if the simple lesson suffices. everyone should be shocked"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 108350/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1551,8 +1708,11 @@ High Chancellor Peryn (Lvl 12) does not answer. He remains gripped to the edge o
 > 👤 **Player:**
 > *"wait for council verdict but they should obviously approve, then narrate elara internal thoughts. After she saw my lethal combats tyle and live steel catching she realizes there is a higher level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 108350/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 0/12 (Meditating), Gold: 1165** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1577,8 +1737,11 @@ You offer one final, respectful bow to the dais—a movement you're certain was 
 God Mode:
 calculate my daily income as special grand instructor, it shoudl be pretty high and the title should be prestigious. people who have seen my skills should haven o doubts but others should doubt me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The High Court, Royal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 108350/120000**
@@ -1605,8 +1768,11 @@ Your salary is drawn from the newly authorized Elite Training Budget. At the Mor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Training Grounds - Examine the facilities and meet the first batch of elite recruits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1165gp | XP: 108350/120000** &nbsp;|&nbsp; ✨ **Ki: 12/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1628,8 +1794,11 @@ Your Insight (1d20+10 = 28) catches the jagged edges of Brom's pride. He feels t
 God Mode:
 what is elara income? its hould be higher than mine. Lets also assume she is landed nobility nowand was promoted for great military victories, and make her a baron
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 108350/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -1647,8 +1816,11 @@ Elara Vance is now canonically established as **Baroness Elara Vance**. She is a
 > 👤 **Player:**
 > *"correct equipment, request demonstration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,265gp | XP: 108350/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12, Salary: 100gp/day** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1678,8 +1850,11 @@ Brom (Lvl 7) stands frozen, his spear held out in a position that should have be
 God Mode:
 maybe the income for me and elara are too much? lets calibrate it in terms of D&D terms. What woudl a baron equivalent have daily, monthly, annual? then givee me like half of that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1,265gp | XP: 108350/120000**
@@ -1705,8 +1880,11 @@ This adjustment aligns your character with the 'Skilled Hireling' and 'Aristocra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Technical Critique - Gently explain the openings in Brom's thrust while apologizing for your own 'sluggish' evasion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1265gp | XP: 108350/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 0/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1732,8 +1910,11 @@ Baroness Elara Vance (Lvl 10) watches from the edge of the ring, her hand restin
 > 👤 **Player:**
 > *"recruits should not be level 6, calibrate them properly. Then deepen the lesson for brom and start taking everyone through drills. lets assume many cant keep up but the imperial knights are actually elites so more of them understand me than my usual students"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,265gp | XP: 108800/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 12/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1763,8 +1944,11 @@ You gain **450 XP** for the intensive elite training session.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Spar with Sergeant Garrick - Demonstrate the forms against a higher-level target to inspire the struggling recruits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1285gp | XP: 109250/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1798,8 +1982,11 @@ You gain **450 XP** for the advanced sparring demonstration.
 > 👤 **Player:**
 > *"lets time skip until end of training then elara requests private training and i agree and train her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Private Sparring Chamber, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,285gp | XP: 109550/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (Medium) | Exhaustion: 0 | Inspiration: No**
@@ -1821,8 +2008,11 @@ Elara (Lvl 10) halts, her breathing heavy. She looks at her sword, then at you, 
 > 👤 **Player:**
 > *"explain that there is risk since its live steel but if she's able to catch live steel like me itll power her up bare handed and with a weapon. lets assume this may take her months or even years to learn though and give her initial training. she needs to catch high velocity wooden sword strikes first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Private Sparring Chamber, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,285gp | XP: 110000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 0/12, Daily Income: 20gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1862,8 +2052,11 @@ this clumsy modest viewpoint narration is just overdone. lets stop it or greatly
 
 You move. To your eyes, the strike is a fumbling catastrophe—a heavy, uncoordinated lunge that telegraphs your intent by a full three heartbeats. You swing the heavy oak stave with what you perceive as a pathetic, 'rusty' speed.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Private Sparring Chamber, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,285gp | XP: 110000/120000**
@@ -1880,8 +2073,11 @@ Administrative Summary: Internal Perspective Recalibrated.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Increase Velocity - Attempt to push through your 'rust' and deliver a series of faster wooden strikes to test her consistency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Private Sparring Chamber, Grand Citadel** &nbsp;|&nbsp; ⏳ **Mirtul 32, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1285gp | XP: 110450/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1917,8 +2113,11 @@ You gain **450 XP** for the intensive instructional breakthrough.
 > 👤 **Player:**
 > *"long rest and time skip until something big happens, maybe a few weeks. narrate each day in detail. Lets assume if elara succeeds the high velocity wood catch she can add half her t raditional spellcasting modifier to AC and hit, and full modifier later on when she can catch steel but lock this progresion behind at least a year of game time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Special Instructor's Quarters, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk [Gestalt] | HP: 124/124 | Gold: 1,705gp | XP: 110450/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 12/12, Daily Income: +20gp** &nbsp;|&nbsp; ⚠️ **Long Rested | Exhaustion: 0 | Inspiration: No**
@@ -1943,8 +2142,11 @@ You stand, your joints popping with a clarity that feels almost decent for your 
 God Mode:
 deep kinetic mediation and remember the elites/higher ups from thay are instructed to not engage me, so this thayan envoy is low ranking and doesnt know. I'm not his main purpose here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Special Instructor's Quarters, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1705gp | XP: 110950/120000**
@@ -1959,8 +2161,11 @@ Administrative Summary:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the morning of the cultural demonstration in the High Garden.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The High Garden, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,705gp | XP: 111450/120000** &nbsp;|&nbsp; ✨ **Ki: 12/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Sanctuary (Nautiloid Crisis) | Exhaustion: 0 | Inspiration: No**
@@ -1980,8 +2185,11 @@ You bow your head slightly, a movement you perceive as a decent, functional disp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Basic Katas - Perform a sequence of standard, telegraphed martial forms that look impressive to a layman but hide your true power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The High Garden, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,705gp | XP: 112250/120000** &nbsp;|&nbsp; ✨ **Ki: 12/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2011,8 +2219,11 @@ Theres hould be fallen kingdoms ie. all the kingdoms/countries/areas one region 
 
 Lets narrate a scene after this thayan thing where i get to meet the king and he asks me to spar with captain of royal guard, who is level 12 and capped
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The High Garden, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 112250/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2031,8 +2242,11 @@ no dont spoil who the daughter is. it could be mina or it could be an imperial k
 
 Give me a better title than crimson child, that was my old title but now maybe call me god of war or sword of the apocalypse. Gie me multiple titles
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The High Garden, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 112250/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2056,8 +2270,11 @@ Administrative Summary: Daughter Candidate Mystery and Mythic Titles Synchronize
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Proceed to the royal audience and the spar with the Captain of the Royal Guard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1,705gp | XP: 112250/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 12/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2097,8 +2314,11 @@ i think he actually did get a hit? 1d20+9 = 29 vs DC 20 - Success (Hestor Attack
 
 I wanna usually win these but how come i didnt get initiative with my 20 dex? sometimes it might be ok to lose but very likely people shouldb e impressed either way
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1,705gp | XP: 112250/120000**
@@ -2125,8 +2345,11 @@ I have explicitly added `initiative_modifier: 5` to your `combat_stats` to ensur
 God Mode:
 lets make thes mechanically accurate. if he hits me maybe i can use shield or something?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1705gp | XP: 112250/120000**
@@ -2155,8 +2378,11 @@ From this point forward, every 'Reaction Victory' will be accompanied by a resou
 God Mode:
 Let’s narrate hits differently like total miss is barehand or easy dodge but making me use shield or one of my abilities looks diffrent and the attacker did better. Also make sure it’s mechanically accurate like besides shield what other reactions do I have
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 112250/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2185,8 +2411,11 @@ Besides `Shield`, you have the following reactions available:
 God Mode:
 Is that reduce damage ability a standard monk thing or special?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Ki: 11/12 | Gold: 1,705gp | XP: 112250/120000**
@@ -2208,8 +2437,11 @@ Standard Monks **cannot** do this for melee strikes (swords, axes, etc.). Howeve
 God Mode:
 Let’s make it a true deflect melee strike. If I choose I can damage the opponent or just negate it. It looks like a bare handed catch if negated or using their own weapon to damage if I reflect it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 112250/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2237,8 +2469,11 @@ Your custom **Deflect Melee Strike** has been upgraded to a true reflection mech
 > 👤 **Player:**
 > *"Return to story and let’s assume I reflect the melee attack back at him but don’t hurt him too much and use non lethals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1705gp | XP: 112250/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 10/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2270,8 +2505,11 @@ Behind him, the five trainees—Lysette, Tamsin, Juna, Orla, and Calista (all Lv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Further Instruction - Ask Hestor if he wishes to analyze the transition further before the court.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,705gp | XP: 112250/120000** &nbsp;|&nbsp; ✨ **Ki: 10/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2299,8 +2537,11 @@ King Alisaunder (Lvl 15 Noble) leans back in the Lion Throne, his gaze heavy and
 God Mode:
 Let’s add a new mechanic twisted polarity. Any student who I teach for a few months rolls a d10 and if they get a 1 they turn secretly evil. The encounter with my powers make them hunger for power for understandable reasons make it justifiable vs black and white. Don’t tell me make it a secret too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 1,705gp | XP: 112250/120000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2329,8 +2570,11 @@ FIRST SENTENCE: God mode NEVER advances the narrative; the story is frozen while
 God Mode:
 Make sure everyone only rolls twisted polarity once. Also when people win the emotional rolls they get bonus exp if not at cap yet otherwise they just feel bad
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The High Throne, Grand Citadel** &nbsp;|&nbsp; ⏳ **Kythorn 23, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,705gp | XP: 112250/120000**
@@ -2348,8 +2592,11 @@ Administrative Summary: Mechanic Refinements Applied.
 > 👤 **Player:**
 > *"Return to story and narrate duel outcome then time skip a few weeks until a student reunites with me or something big happens. Narrate in detail. Let’s assume my old students have heard special instructor news. Also before time skip narrate a scene where king privately asks his royal guard captain how this is possible and if he’s ever seen anyone as strong as me and assume I’m not there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 112300/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 11/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2384,8 +2631,11 @@ As you lead the morning drill for the five trainees—Lysette, Tamsin, Juna, Orl
 > 👤 **Player:**
 > *"Public reunion with Gideon. Say he has grown strong and perhaps he can help teach a bit. Let’s narrate a scene where we both teach and Gideon gives me advice that my training is sometimes too tough and I need to calibrate to the student. He says right now certain students benefit but others don’t. Elara agrees. I take this advice seriously and led shave me roll every time I train with a modifier now for potentially better outcomes for students"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 112300/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 11/12, Daily Income: 20gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2416,8 +2666,11 @@ You take the advice with a somber nod, feeling a pang of genuine self-reproach. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate to Gideon and let’s not call them outcasts. Let’s call my good students inheritors and the bad ones dark inheritors*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2,125gp | XP: 112850/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2446,8 +2699,11 @@ The Imperial Knights (Lvl 4) look between you and Gideon, their porcelain discip
 > 👤 **Player:**
 > *"Do my best to keep training them and then affterwaeds invite my original students and the knights to my house for dinner and drinks. Let’s assume I was given a nice place and since I’m rich now it’s fancy . Invite Gideon and Elara. My students live with me the original two and all daughter candidates come. Narrate individual dialog from every daughter candidate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2,125gp | XP: 113350/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2487,8 +2743,11 @@ Mina (Lvl 3) sits beside Finnian, her posture rigid. She looks at the other girl
 God Mode:
 Stop these narrative leaks these people shouldn’t know sword apocalypse
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 113350/120000**
@@ -2517,8 +2776,11 @@ World frozen. Secrecy protocols active.
 God Mode:
 Also did you leak Mina is my daughter? Remember you’re not supposed to
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2125gp | XP: 113350/120000**
@@ -2540,8 +2802,11 @@ World frozen. Mystery protocols fully restored.
 God Mode:
 Make sure in general characters can’t reference info they don’t know
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 113350/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2564,8 +2829,11 @@ FIRST SENTENCE: God mode NEVER advances the narrative; the story is frozen while
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the dinner at the Manor with strict knowledge silos in place.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2,125gp | XP: 113350/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12 | Spells: L1 4/4, L2 3/3 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2598,8 +2866,11 @@ Mina (Lvl 3) sits beside Finnian, her posture rigid and her gaze guarded as she 
 > 👤 **Player:**
 > *"Let’s assume in these lavish surroundings I start to remember my noble mannerisms becuse I was the military leader of thay before. Narrate how people say I seem to fit in better now. Also I am a man of great physical attractiveness status and combat powers so most women should be very attracted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 113350/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2630,8 +2901,11 @@ You remain largely oblivious to the romantic tension, interpreting their gazes a
 > 👤 **Player:**
 > *"Address weight of power then ask Gideon and elara about merchant massacre. Let’s assume I don’t know it’s my old student and we haven’t coined the name dark inheritor yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 113350/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 11/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2666,8 +2940,11 @@ You listen, your Insight (Total 16 vs DC 15) tracing the kinetic signature in th
 God Mode:
 Let’s change this. I don’t think every random person should know it’s my methods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2125gp | XP: 113350/120000**
@@ -2681,8 +2958,11 @@ Administrative Summary: Martial Attribution Silo Enforced.
 God Mode:
 High council vipers should only know if they know combat or magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 113350/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2709,8 +2989,11 @@ I have added a directive to ensure the 'Viper' interactions reflect this divide.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the dinner at the Manor with the refined knowledge silos for the High Council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2,125gp | XP: 113850/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2739,8 +3022,11 @@ Only Mina (Lvl 3) seems to feel the true weight of the air. She sits close to yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reassure the Candidates - Pivot the conversation back to the 'fragility of the world' to calm the trainees and re-establish your humble teacher persona.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 113850/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2769,8 +3055,11 @@ Baroness Elara Vance (Lvl 10) catches your eye, a subtle nod of appreciation pas
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provide Individual Guidance - Speak personally to each trainee to address their specific doubts or hunger for power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2,125gp | XP: 113850/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2820,8 +3109,11 @@ Mina looks at the other girls, her protective suspicion only deepening. She does
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conclude the Evening - Dismiss the trainees and spend a private moment with Elara and Gideon to discuss the vipers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 1,705gp | XP: 114050/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 11/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2843,8 +3135,11 @@ You feel the familiar, heavy pull of the 'Uncalibrated Rhythm' in your blood. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Sketches - Ask Gideon to show you the sketches of the impact zones to confirm if the technique belongs to one of the twenty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 114050/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Ki: 11/12 | Daily Income: 20gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2877,8 +3172,11 @@ Baroness Elara Vance (Lvl 10) watches you, her midnight-blue armor catching the 
 God Mode:
 Something kind of doesn’t make sense. If people realize I have dsrk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 114050/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2907,8 +3205,11 @@ I have added a **Directive** to ensure that NPC 'Vipers' prioritize **leverage a
 God Mode:
 Let’s just remove this plot line and all the signature stuff. Signatures are forbidden. No one knows this is my student or suspects. It doesn’t make sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Special Grand Instructor's Manor, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 114050/120000**
@@ -2923,8 +3224,11 @@ Administrative Summary: 'Dark Inheritor' Signature Plot Line Purged.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the evening discussion with Elara and Gideon, now focused on the massacre as a tragic mystery rather than a political threat to Vaelen's cover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Private Study, Special Grand Instructor's Manor** &nbsp;|&nbsp; ⏳ **Flamerule 14, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 114050/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 11/12, Gold: 2,125gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2951,8 +3255,11 @@ You look back at the sketches, seeing not a technical signature, but the sheer w
 > 👤 **Player:**
 > *"Keep training and let’s see if Elara is ordered to look into it. Don’t forget to give her missions etc as narrative progresses from the king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 18, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,125gp | XP: 115050/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Ki: 11/12, Spells: L1 4/4, L2 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2992,8 +3299,11 @@ She looks at the trainees, then back to you, her eyes burning with a fierce, pro
 God Mode:
 I am not sure if this viper villain thing makes sense.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 18, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2205gp | XP: 115050/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3024,8 +3334,11 @@ You are correct to question the 'Viper' plotline. Given that we have purged the 
 God Mode:
 They know I am super strong so that doesn’t make sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 18, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2205gp | XP: 115050/120000**
@@ -3052,8 +3365,11 @@ You are absolutely correct. The previous 'Skeptical Bureaucrat' framing was inco
 > 👤 **Player:**
 > *"Ok this is better and let’s also have them try to entice me to join their side at least some of them. This makes more sense. They wanna control my power as they fear it or sense opportunity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 19, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,225gp | XP: 115050/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 11/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3089,8 +3405,11 @@ Your Insight (Total 18 vs DC 18) pierces her polished mask with a veteran's clar
 God Mode:
 Again this sword apocalypse title shouldn’t be known
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 19, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2225gp | XP: 115050/120000**
@@ -3107,8 +3426,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"Politely decline her offer saying I have no mind for politics"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 19, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,225gp | XP: 115050/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 11/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3138,8 +3460,11 @@ From the high balcony overlooking the yard, you catch a glimpse of a small, chil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Acknowledge the Archmage - Offer a polite bow to Archmage Selina on the balcony to signal you know you're being watched.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 19, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2,225gp | XP: 115050/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3167,8 +3492,11 @@ Below the balcony, the trainees—Lysette, Tamsin, Juna, Orla, and Calista (all 
 God Mode:
 Let’s just stop my modest internal thoughts i am tired of them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 19, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,225gp | XP: 115050/120000**
@@ -3183,8 +3511,11 @@ Administrative Summary: Internal Monologue Overhaul.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Instruct and Acknowledge (Synergistic) - Directly instruct a trainee to demonstrate a form specifically for the Archmage's 'cultural' curiosity while politely dismissing Mirabelle's offer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 19, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) / Monk (Way of the Kensei) | HP: 121/124 | XP: 115050/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -3194,8 +3525,11 @@ The story continues...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Instruct and Acknowledge (Synergistic) - Directly instruct a trainee to demonstrate a form specifically for the Archmage's 'cultural' curiosity while politely dismissing Mirabelle's offer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 19, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,225gp | XP: 115050/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3224,8 +3558,11 @@ Countess Mirabelle steps back a fraction, her melodic purr silenced by the weigh
 > 👤 **Player:**
 > *"Time skip and see what happens maybe few days. Let’s ensure my students are all gaining reasonable exp and I think by now original students should’ve leveled?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,365gp | XP: 117150/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, Ki: 11/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3243,8 +3580,11 @@ The silence of the yard is broken as the sapphire-robed figure of Archmage Selin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Archmage's Duel - Agree to a private duel to test the Archmage's technical insight and your own calibration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Elite Training Grounds, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,365gp | XP: 117150/120000** &nbsp;|&nbsp; ✨ **Ki: 11/12, Spells: L1 4/4, L2 3/3, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3273,8 +3613,11 @@ As you prepare to follow her, the heavy iron gates of the yard groan open. A Hig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Arcane Audit - Proceed with the duel in the Vault of Echoes with the Council's auditors present, relying on your 'Absolute Humility' to mask your true tier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,365gp | XP: 117150/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Ki: 11/12 | Daily Income: 20gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3313,8 +3656,11 @@ High Chancellor Peryn (Lvl 12) scribbles furiously in his ledger, his eyes narro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Counter with Technical Critique - Analyze Selina's pulse-weave aloud to frame the exchange as a lesson rather than a duel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,365gp | XP: 117650/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Ki: 11/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3351,8 +3697,11 @@ You gain **500 XP** for the successful technical reframe of the audit.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Challenge Selina's Focus - Ask the Archmage to tighten her weave for the next strike, proving you can handle her 'true' power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 121/124 | Gold: 2,365gp | XP: 117650/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Ki: 11/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3385,8 +3734,11 @@ Archmage Selina remains motionless, her child-like frame looking impossibly smal
 > 👤 **Player:**
 > *"Let her attack me and see how I handle it but I shoukd use real rolls and mechanics"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:27)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2365gp | XP: 117650/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/4, L2 3/3, Ki: 11/12, Income: 20gp/day** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3421,8 +3773,11 @@ High Chancellor Peryn (Lvl 12) stands paralyzed, his crystal monitoring rod show
 > 👤 **Player:**
 > *"Demand purer weave. Encourage her to use her strongest attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:29)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,365gp | XP: 118650/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 1/4, L2 3/3, Ki: 11/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3459,8 +3814,11 @@ High Chancellor Peryn (Lvl 12) stands paralyzed, his monitoring rod vibrating so
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Further Testing - Challenge the Archmage or the Auditors to find a line that can actually touch you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter/Monk | HP: 121/124 | Gold: 2,365gp | XP: 118650/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 1/4, L2 3/3, Ki: 11/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3493,8 +3851,11 @@ High Chancellor Peryn (Lvl 12) is no longer looking at his monitoring rods. He i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Challenge: The Unmoving Anchor - Challenge them to use a physical weapon or a collective strike to prove the absolute nature of your grounding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Master (Lvl 13 available) | HP: 121/124 | Gold: 2,365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 1/4, L2 3/3, Ki: 10/13, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3533,8 +3894,11 @@ Master Vaelen: Level 12 → Level 13 (Mythic Awakening).
 > [!NOTE] ⚙️ **Player Choice:**
 > *Embrace the Awakening (Level Up) - Meditate on the breaking of the Mortal Ceiling to finalize your Level 13 transition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 (Lvl 13 available) | HP: 121/124 | Gold: 2,365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 1/4, L2 3/3, Ki: 11/13, Daily Income: 20gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3554,8 +3918,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 1/4, L2 3/3, L3 2/2 | Ki: 12/14 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3579,8 +3946,11 @@ We can start arc 1 now where elara is in trouble from dark inheritor
 
 Before arc 3 prob its unlikely I am truly threatened but lets create threats to others or people i care about and someetimes in eed to make a tough decision on who to save since I cannot teleport. Lets also do the arc similar to the anime where assassins trying to kill the princess of this country and lets have a prince from another country/area she's engaged to are they are both targeted. Lets do baldurs gate and assume ravenguard becomes arch duke and controls the council of 4 and is kind of like royalty. he remarries and wyll gets a younger brother, this younger brother is engaged to princess of my country. They wanna do marraige alliance because despite being diminished baldurs gate is still a create place for trade/commerce and has military power and would benefit my country
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **The Vault of Echoes, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 132/132 | Gold: 2365gp | XP: 120650/140000**
@@ -3608,8 +3978,11 @@ Administrative Summary: Campaign Roadmap and Geopolitical Calibration Synchroniz
 > 👤 **Player:**
 > *"return to story lets narrate elara in trouble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Grand Courtyard, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 1/4, L2 3/3, L3 2/2 | Ki: 12/14 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3625,8 +3998,11 @@ Your Insight (Total 24 vs DC 18) pierces the messenger's frantic delivery. You d
 > 👤 **Player:**
 > *"ride alone southern trade way, tell the rest to guard students"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Ruins of the Old Watchtower, Southern Trade Way** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 1/4, L2 3/3, L3 2/2, Ki: 12/14** &nbsp;|&nbsp; ⚠️ **Mythic Awakening | Exhaustion: 0 | Inspiration: No**
@@ -3646,8 +4022,11 @@ At the base of the tower, you see the wreckage of the vanguard. Royal Guard armo
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Silent Intervention - Approach with Absolute Humility, entering the duel barehanded to catch Marek's staff and prove the absolute nature of your restraint.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Ruins of the Old Watchtower, Southern Trade Way** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (15:31)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 12/13, Ki: 12/14, Spells: L1 1/4, L2 3/3, L3 2/2, Chrono-Anchor: Active** &nbsp;|&nbsp; ⚠️ **Mythic Awakening | Exhaustion: 0 | Inspiration: No**
@@ -3676,8 +4055,11 @@ Marek stumbles, his own kinetic force reflected into his lead shoulder, forcing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Technical Dissection - Analyze Marek's failures aloud while neutralizing his next strikes barehanded to break his will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Ruins of the Old Watchtower, Southern Trade Way** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (15:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Ki: 11/14 | Spells: L1 1/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3706,8 +4088,11 @@ Marek stumbles back, his eyes wide with a radiant, terrified awe. He has glimpse
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Absolute Surrender - Use the weight of your Lvl 13 Mythic Awakening to command him to drop the wood, utilizing your 'God of War' presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Ruins of the Old Watchtower, Southern Trade Way** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 1/4, L2 3/3, L3 2/2, Ki: 11/14, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3734,8 +4119,11 @@ He resets his stance, the silvered-reed staff humming with a twisted, anchored f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subdue Non-lethally - Engage in full combat using your Level 13 Mythic features to knock him out.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Ruins of the Old Watchtower, Southern Trade Way** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (15:36)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 120650/140000** &nbsp;|&nbsp; ✨ **HD: 12/13 | Ki: 10/14 | Spells: L1 0/4, L2 3/3, L3 1/2** &nbsp;|&nbsp; ⚠️ **Hasted | Exhaustion: 0 | Inspiration: No**
@@ -3760,8 +4148,11 @@ Baroness Elara Vance (Lvl 10) watches from the shadows, her eyes wide with a rad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Non-lethally - Execute a final kinetic grounding to knock Marek unconscious before he can recover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Ruins of the Old Watchtower, Southern Trade Way** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (15:37)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2365gp | XP: 123150/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 0/4, L2 2/3, L3 1/2 | Ki: 9/14 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Haste, Spirit Shroud | Exhaustion: 0 | Inspiration: No**
@@ -3794,8 +4185,11 @@ Baroness Elara Vance (Lvl 10) staggers to her feet, her midnight-blue armor crac
 > 👤 **Player:**
 > *"secure marek, speak to elara, heal her, inspect wreckage, then return captial"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 123650/140000** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -3819,8 +4213,11 @@ Night (21:00:00) at the Great Northern Gate of the Grand Citadel—the air is co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Marek - Attempt to wake Marek in a secure location to learn of the other Dark Inheritors' plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **High Security Inquisitorial Ward, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 125150/140000** &nbsp;|&nbsp; ⚠️ **Mythic Awakening (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3849,8 +4246,11 @@ He sags against the manacles, his spirit yielding to the absolute geometry of yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Protection for Truth - Use the Citadel's wards and your own power to promise safety from Xanthia's Hand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **High Security Inquisitorial Ward, Grand Citadel** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 125150/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 0/4, L2 2/3, L3 1/2 | Ki: 8/14 | Gold: 2,365** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3883,8 +4283,11 @@ Marek (Lvl 12) looks at you, his breathing hitching as the weight of your promis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for the Signal - Ask Marek what the signal is and when it is expected to be given.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **High Security Inquisitorial Ward, Grand Citadel** &nbsp;|&nbsp; ⏳ **Flamerule 26, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter/Monk | HP: 129/132 | Gold: 2,365gp | XP: 125650/140000** &nbsp;|&nbsp; ✨ **HD: 12/13 | Spells: L1 0/4, L2 2/3, L3 1/2 | Ki: 8/14** &nbsp;|&nbsp; ⚠️ **Mythic Awakening | Exhaustion: 0 | Inspiration: No**
@@ -3909,6 +4312,8 @@ Before you can respond, the heavy iron door of the ward groans open. A Royal Mes
 > **Resistance:** *Marek's spirit has been completely grounded; he has provided the technical roadmap of the catastrophe.*
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

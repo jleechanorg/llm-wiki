@@ -12,6 +12,19 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)
+- [🗺️ Scene Index & Timeline (25 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -102,6 +115,7 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 ---
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -171,6 +185,7 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="special-mechanics"></a>
 ## 🔮 Part III: Special Mechanics & Artifacts
 <details>
 <summary><b>Campaign Mechanics</b></summary>
@@ -491,41 +506,46 @@ This reward represents the *third path* — neither relying on Aurum's protectio
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
-| **02** | The King's Ribbon | Frost-Fall 12, 95 AC (09:00) | Roleplay |
-| **03** | The King's Ribbon | Frost-Fall 12, 95 DR (09:00) | Roleplay |
-| **04** | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
-| **05** | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:15) | Roleplay |
-| **06** | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:18) | Social Challenge |
-| **07** | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:25) | Roleplay |
-| **08** | Winter-Mourn Gatehouse Checkpoint |  | Roleplay |
-| **09** | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 Frost-Fall (09:25) | Roleplay |
-| **10** | Winter-Mourn Gatehouse Checkpoint |  | Roleplay |
-| **11** | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:35) | Boss Surrender |
-| **12** | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:40) | Roleplay |
-| **13** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (09:45) | Roleplay |
-| **14** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 AF (09:45) | Roleplay |
-| **15** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 AG (09:45) | Roleplay |
-| **16** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 Frost-Fall (09:45) | Roleplay |
-| **17** | Winter-Mourn Solar | Frost-Fall 12, 95 DR (09:50) | Roleplay |
-| **18** | Winter-Mourn Solar | Frost-Fall 12, 95 DR (09:55) | Roleplay |
-| **19** | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:05) | Social Challenge |
-| **20** | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:15) | Roleplay |
-| **21** | Winter-Mourn Solar | Frost-Fall 12, 95 AG (10:15) | Roleplay |
-| **22** | Winter-Mourn Solar | Frost-Fall 12, 95 (10:15) | Roleplay |
-| **23** | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:15) | Roleplay |
-| **24** | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:25) | Roleplay |
-| **25** | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:35) | Boss Surrender |
+| [**Scene 01**](#scene-1) | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | The King's Ribbon | Frost-Fall 12, 95 AC (09:00) | Roleplay |
+| [**Scene 03**](#scene-3) | The King's Ribbon | Frost-Fall 12, 95 DR (09:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:15) | Roleplay |
+| [**Scene 06**](#scene-6) | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:18) | Social Challenge |
+| [**Scene 07**](#scene-7) | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:25) | Roleplay |
+| [**Scene 08**](#scene-8) | Winter-Mourn Gatehouse Checkpoint |  | Roleplay |
+| [**Scene 09**](#scene-9) | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 Frost-Fall (09:25) | Roleplay |
+| [**Scene 10**](#scene-10) | Winter-Mourn Gatehouse Checkpoint |  | Roleplay |
+| [**Scene 11**](#scene-11) | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:35) | Boss Surrender |
+| [**Scene 12**](#scene-12) | Winter-Mourn Gatehouse Checkpoint | Frost-Fall 12, 95 DR (09:40) | Roleplay |
+| [**Scene 13**](#scene-13) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (09:45) | Roleplay |
+| [**Scene 14**](#scene-14) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 AF (09:45) | Roleplay |
+| [**Scene 15**](#scene-15) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 AG (09:45) | Roleplay |
+| [**Scene 16**](#scene-16) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 Frost-Fall (09:45) | Roleplay |
+| [**Scene 17**](#scene-17) | Winter-Mourn Solar | Frost-Fall 12, 95 DR (09:50) | Roleplay |
+| [**Scene 18**](#scene-18) | Winter-Mourn Solar | Frost-Fall 12, 95 DR (09:55) | Roleplay |
+| [**Scene 19**](#scene-19) | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:05) | Social Challenge |
+| [**Scene 20**](#scene-20) | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:15) | Roleplay |
+| [**Scene 21**](#scene-21) | Winter-Mourn Solar | Frost-Fall 12, 95 AG (10:15) | Roleplay |
+| [**Scene 22**](#scene-22) | Winter-Mourn Solar | Frost-Fall 12, 95 (10:15) | Roleplay |
+| [**Scene 23**](#scene-23) | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:15) | Roleplay |
+| [**Scene 24**](#scene-24) | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:25) | Roleplay |
+| [**Scene 25**](#scene-25) | Winter-Mourn Solar | Frost-Fall 12, 95 DR (10:35) | Boss Surrender |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -549,8 +569,11 @@ Before the first gate of Winter-Mourn Keep appears on the horizon, we must final
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Accept the provided build for Ser Arion (STR 16, CON 14, CHA 16, Lvl 1 Paladin) and begin the mission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -566,8 +589,11 @@ As the road bends toward the valley entrance, the first Imperial checkpoint loom
 God Mode:
 every successful or failed dice roll give me 34% of exp to the next level. Do not do it during god mode or turns where. time doesn't advance. If level 2 is at 300 xp and level 3 is what we're moving toward and is 700 exp it hsould be 0.34 * (600-300) = 102
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp**
@@ -586,8 +612,11 @@ Continuity Note: This change is now a persistent directive and will be respected
 God Mode:
 Approach Openly - Ride directly to the gatehouse and demand entry in the Empress's name.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp**
@@ -597,8 +626,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Openly - Ride directly to the gatehouse and demand entry in the Empress's name.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 102/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Lay on Hands: 5/5 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -616,8 +648,11 @@ Behind you, Ser Vespera's hand tightens on her pommel. "They defy a direct Imper
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Harlen's Honor - Remind him of his service with your father and the stability the Imperium provides.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:18)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 204/300** &nbsp;|&nbsp; ✨ **Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -644,8 +679,11 @@ Ser Vespera snorts, her hand still white-knuckled on her sword hilt, but she hol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Diplomatic Pressure - Continue the conversation, asking about the current state of the refugees to show empathy while emphasizing the legal necessity of the Mandate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **Divine Sense: 4/4, Lay on Hands: 5/5, Spells: L1 0/0 (L2 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -670,8 +708,11 @@ You gain 102 XP. A surge of clarity washes over you—the weight of your oath an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Reflect on your experiences and claim the power of a Level 2 Paladin (Fighting Style, Spellcasting, Divine Smite).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2 pending), Divine Sense: 4/4, Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -683,8 +724,11 @@ As you stand before the gates of Winter-Mourn, the weight of your duty and the m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fighting Style: Defense - Gain a +1 bonus to AC while wearing armor (Recommended).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Lay on Hands: 5/5 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -702,8 +746,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 306/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -715,8 +762,11 @@ You remain at the gates of Winter-Mourn, the freezing wind still whipping at you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait Patiently - Maintain your position and wait for the seneschal's response, showing respect for the local chain of command.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 510/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -746,8 +796,11 @@ You gain 204 XP.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Instruct Soldiers to Wait (Tactical) - Before entering, give secret orders to your detachment to prepare for a breach if you don't return by a certain time.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Winter-Mourn Gatehouse Checkpoint** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 714/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -765,8 +818,11 @@ You gain 204 XP.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter the Inner Ward - Ride through the gatehouse and into the keep's courtyard to seek your audience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/2700** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -780,8 +836,11 @@ The inner ward is a hive of quiet, desperate activity. Refugee families huddle i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - The lessons of diplomacy and tactical caution have matured your spirit. Claim the power of a Level 3 Paladin (Sacred Oath, Divine Health).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AF (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/2700** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Lay on Hands: 10/10 | Divine Sense: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -795,8 +854,11 @@ As you stand in the inner ward of Winter-Mourn, the hollow eyes of the refugees 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacred Oath: Crown - Oath of the Crown (Recommended). Focuses on law, loyalty, and the protection of the realm. Grants Champion's Challenge and Turn the Tide Channel Divinity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/2700** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Divine Sense: 4/4, Lay on Hands: 10/10 (Level 3 benefits pending)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -816,8 +878,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 918/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -831,8 +896,11 @@ You remain in the inner ward of Winter-Mourn, the freezing wind still whipping a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Seneschal - Dismount and follow the Seneschal to the Solar to meet Lady Ashwood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 918/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -850,8 +918,11 @@ The room is bathed in the weak, amber glow of a dying fire. Lady Annalise Ashwoo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Family Ties - Acknowledge the kinship between your houses and emphasize that you come seeking a solution, not a slaughter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 1530/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -878,8 +949,11 @@ You gain **612 XP** for your diplomatic resolve and the strength of your convict
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire About the 'Threat' - Ask her directly why she feels the settlement's existence is worth the risk of treason and what she has seen in the south.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 2142/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -904,8 +978,11 @@ You gain **612 XP** for uncovering the grim reality of the southern blight and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose a Secret Compromise - Suggest a way to 'disperse' the refugees to a safer, hidden location that satisfies the letter of the Mandate without slaughter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **Slots: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -933,8 +1010,11 @@ You gain **612 XP**. The clarity of your purpose resonates through your Empyrean
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 4 - You have reached 2,754 XP. Reflect on your growth to claim Level 4 Paladin benefits (Ability Score Improvement or Feat).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4 | Exhaustion: 0**
@@ -948,8 +1028,11 @@ As you stand within the Solar of Winter-Mourn, the weight of the truths Lady Ann
 > [!NOTE] ⚙️ **Player Choice:**
 > *ASI: +2 Strength - Increase Strength from 16 to 18 (+4 mod). Boosts attack/damage (Recommended).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -969,8 +1052,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -984,8 +1070,11 @@ You remain in the Solar, the freezing wind still whipping at the narrow window. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Logistics - Discuss the timing of the next storm and how to mask the refugees' departure from Imperial eyes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 4046/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1011,8 +1100,11 @@ You gain **1292 XP**. The friction of this failure sharpens your focus; you real
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rework Scout Timing - Propose using your authority as a Valerion to alter the scout rotation or assign them to a different sector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Winter-Mourn Solar** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 5338/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1032,6 +1124,8 @@ Annalise studies your face, the suspicion in her eyes finally replaced by a grim
 
 
 You gain 1292 XP. The weight of your deception feels heavy, yet the resonance in your blood confirms that protecting these lives is a duty higher than any bureaucratic mandate.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

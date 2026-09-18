@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (400 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Purpose: This is the canonical, single-source-of-truth for the God of Murder / Sanguine Architecture BG3 campaign and its underlying god-mechanics framework. It contains the campaign bible, the V1 general god-mechanics spec, the V2 general spec, and the Nocturne V2 specialized spec — stitched together in reading order so you can review, share, and play without flipping between files.
@@ -1960,416 +1971,421 @@ Ingest into Firestore — extract god_of_murder_canonical_description.txt for cr
 
 This Doc is the canonical state anchor for the God of Murder / Sanguine Architecture campaign as of 2026-07-21. All four source files are live on origin/main (V1) or PR #8488 (V2 overlay).
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
-| **03** | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
-| **04** | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
-| **05** | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
-| **06** | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
-| **07** | Baldur's Gate (Sanguine Court) | Post-Apotheosis, 1492 DR (Midday (12:30) | Skill Check / Combat |
-| **08** | Baldur's Gate (Sanguine Court) | Post-Apotheosis, 1492 DR (Midday (12:30) | Roleplay |
-| **09** | Baldur's Gate (Sanguine Court) | Post-Apotheosis, 1492 DR (Midday (12:30) | Roleplay |
-| **10** | Baldur's Gate (Sanguine Court) | , DR (12:30) | Roleplay |
-| **11** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Skill Check / Combat |
-| **12** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
-| **13** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
-| **14** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
-| **15** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
-| **16** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
-| **17** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:45) | Skill Check / Combat |
-| **18** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Skill Check / Combat |
-| **19** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Roleplay |
-| **20** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Roleplay |
-| **21** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Roleplay |
-| **22** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (16:15) | Skill Check / Combat |
-| **23** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (16:15) | Roleplay |
-| **24** | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (16:15) | Roleplay |
-| **25** | Elfsong Tavern (Upper City) | Mirtul 20, 1492 DR (19:30) | Skill Check / Combat |
-| **26** | Elfsong Tavern (Upper City) | Mirtul 20, 1492 DR (19:30) | Roleplay |
-| **27** | Elfsong Tavern (Upper City) / Temple of Bhaal | Mirtul 20, 1492 DR (21:00) | Skill Check / Combat |
-| **28** | Elfsong Tavern (Upper City) / Temple of Bhaal | Mirtul 20, 1492 DR (21:00) | Skill Check / Combat |
-| **29** | Grey Harbor Warehouses | Mirtul 21, 1492 DR (01:30) | Skill Check / Combat |
-| **30** | Grey Harbor (Upper City) / Basilisk Gate Sewers | Mirtul 20, 1492 DR (23:30) | Skill Check / Combat |
-| **31** | Grey Harbor (Upper City) / Basilisk Gate Sewers | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **32** | Grey Harbor (Upper City) / Basilisk Gate Sewers | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **33** | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Skill Check / Combat |
-| **34** | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Roleplay |
-| **35** | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Roleplay |
-| **36** | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Roleplay |
-| **37** | The Bloom-Market (Lower City) / Undercity | Mirtul 21, 1492 DR (09:15) | Roleplay |
-| **38** | The Emerald Grove | Mirtul 21, 1492 DR (13:30) | Skill Check / Combat |
-| **39** | Shadow Druid Encampment (Emerald Grove Periphery) | Mirtul 21, 1492 DR (14:15) | Skill Check / Combat |
-| **40** | The Emerald Grove (Inner Sanctum) | Mirtul 22, 1492 DR (06:00) | Skill Check / Combat |
-| **41** | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:00) | Skill Check / Combat |
-| **42** | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:15) | Skill Check / Combat |
-| **43** | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:45) | Skill Check / Combat |
-| **44** | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:45) | Roleplay |
-| **45** | The Emerald Grove (Sanguine Shrine) | Mirtul 23, 1492 DR (06:00) | Skill Check / Combat |
-| **46** | The Emerald Grove (Sanguine Shrine) | Mirtul 23, 1492 DR (06:00) | Roleplay |
-| **47** | The Emerald Grove (Sanguine Shrine) | Mirtul 23, 1492 DR (06:00) | Roleplay |
-| **48** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Skill Check / Combat |
-| **49** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
-| **50** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
-| **51** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
-| **52** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
-| **53** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
-| **54** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
-| **55** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
-| **56** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Skill Check / Combat |
-| **57** | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Skill Check / Combat |
-| **58** | Baldur's Gate (Outskirts / Sanguine Court) | Mirtul 24, 1492 DR (00:00) | Skill Check / Combat |
-| **59** | Baldur's Gate (Outskirts / Sanguine Court) | Mirtul 24, 1492 DR (00:00) | Roleplay |
-| **60** | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:00) | Skill Check / Combat |
-| **61** | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:00) | Roleplay |
-| **62** | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:15) | Skill Check / Combat |
-| **63** | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:15) | Roleplay |
-| **64** | North Road Waypoint | Mirtul 24, 1492 DR (03:45) | Skill Check / Combat |
-| **65** | North Road Waypoint | Mirtul 24, 1492 DR (04:00) | Skill Check / Combat |
-| **66** | North Road Waypoint | Mirtul 24, 1492 DR (04:00) | Roleplay |
-| **67** | North Road Waypoint | Mirtul 24, 1492 DR (04:00) | Skill Check / Combat |
-| **68** | North Road Waypoint | Mirtul 24, 1492 DR (05:00) | Skill Check / Combat |
-| **69** | North Road Waypoint | Mirtul 24, 1492 DR (13:00) | Skill Check / Combat |
-| **70** | North Road Waypoint | Mirtul 24, 1492 DR (13:00) | Roleplay |
-| **71** | North Road Waypoint | Mirtul 24, 1492 DR (13:45) | Skill Check / Combat |
-| **72** | Elturel Outskirts | Mirtul 29, 1492 DR (14:00) | Skill Check / Combat |
-| **73** | Elturel Outskirts | Mirtul 29, 1492 DR (14:00) | Skill Check / Combat |
-| **74** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:30) | Skill Check / Combat |
-| **75** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:30) | Roleplay |
-| **76** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:40) | Skill Check / Combat |
-| **77** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Skill Check / Combat |
-| **78** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
-| **79** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
-| **80** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
-| **81** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
-| **82** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
-| **83** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Skill Check / Combat |
-| **84** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **85** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **86** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **87** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:01) | Social Challenge |
-| **88** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:06) | Skill Check / Combat |
-| **89** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:11) | Skill Check / Combat |
-| **90** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:16) | Skill Check / Combat |
-| **91** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:16) | Skill Check / Combat |
-| **92** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:16) | Roleplay |
-| **93** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:21) | Skill Check / Combat |
-| **94** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:26) | Skill Check / Combat |
-| **95** | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:56) | Skill Check / Combat |
-| **96** | High Road (En Route to Baldur's Gate) | Mirtul 29, 1492 DR (16:26) | Skill Check / Combat |
-| **97** | Baldur's Gate (Wyrm's Rock Fortress) | Mirtul 29, 1492 DR (20:26) | Skill Check / Combat |
-| **98** | Baldur's Gate (Wyrm's Rock Fortress) | Mirtul 29, 1492 DR (20:26) | Skill Check / Combat |
-| **99** | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Skill Check / Combat |
-| **100** | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Skill Check / Combat |
-| **101** | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Roleplay |
-| **102** | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Roleplay |
-| **103** | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Skill Check / Combat |
-| **104** | Baldur's Gate (The High Hall) | Mirtul 30, 1492 DR (08:00) | Skill Check / Combat |
-| **105** | Baldur's Gate (The High Hall) | Mirtul 30, 1492 DR (08:00) | Roleplay |
-| **106** | Baldur's Gate (The House of Grief / Undercity) | Mirtul 31, 1492 DR (02:00) | Skill Check / Combat |
-| **107** | Baldur's Gate (The House of Grief / Undercity) | Mirtul 31, 1492 DR (05:00) | Skill Check / Combat |
-| **108** | Baldur's Gate (The House of Grief / Undercity) | Mirtul 31, 1492 DR (05:00) | Skill Check / Combat |
-| **109** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (14:00) | Skill Check / Combat |
-| **110** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (14:00) | Skill Check / Combat |
-| **111** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (15:00) | Skill Check / Combat |
-| **112** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (18:00) | Skill Check / Combat |
-| **113** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (18:00) | Roleplay |
-| **114** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (18:00) | Roleplay |
-| **115** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (20:00) | Skill Check / Combat |
-| **116** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
-| **117** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
-| **118** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
-| **119** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Roleplay |
-| **120** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
-| **121** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:45) | Skill Check / Combat |
-| **122** | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (23:00) | Skill Check / Combat |
-| **123** | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Skill Check / Combat |
-| **124** | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Roleplay |
-| **125** | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Roleplay |
-| **126** | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Roleplay |
-| **127** | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:15) | Roleplay |
-| **128** | Baldur's Gate (The High Hall) | Kythorn 2, 1492 DR (10:00) | Skill Check / Combat |
-| **129** | Baldur's Gate (The High Hall) | Kythorn 2, 1492 DR (10:00) | Roleplay |
-| **130** | Baldur's Gate (The High Hall) | Kythorn 2, 1492 DR (10:00) | Social Challenge |
-| **131** | Avernus (Sanguine Cathedral of Divine Justice) | Kythorn 3, 1492 DR (09:00) | Skill Check / Combat |
-| **132** | Avernus (The Iron Gavel Pass) | Kythorn 3, 1492 DR (10:00) | Skill Check / Combat |
-| **133** | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Skill Check / Combat |
-| **134** | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Roleplay |
-| **135** | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Roleplay |
-| **136** | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Roleplay |
-| **137** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (14:00) | Skill Check / Combat |
-| **138** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (14:00) | Roleplay |
-| **139** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Skill Check / Combat |
-| **140** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
-| **141** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
-| **142** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
-| **143** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
-| **144** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
-| **145** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
-| **146** | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
-| **147** | The City of Dis (The Iron Embassy) | Kythorn 3, 1492 DR (22:00) | Skill Check / Combat |
-| **148** | The City of Dis (The Iron Embassy) | Kythorn 3, 1492 DR (22:15) | Skill Check / Combat |
-| **149** | The City of Dis (The Iron Embassy) | Kythorn 3, 1492 DR (22:30) | Skill Check / Combat |
-| **150** | The City of Dis (The Obsidian Promenade) | Kythorn 3, 1492 DR (23:15) | Skill Check / Combat |
-| **151** | The City of Dis (The Obsidian Spire Ballroom) | Kythorn 4, 1492 DR (00:15) | Skill Check / Combat |
-| **152** | The City of Dis (The Obsidian Spire Ballroom) | Kythorn 4, 1492 DR (00:30) | Skill Check / Combat |
-| **153** | The City of Dis (The Obsidian Spire Ballroom) | Kythorn 4, 1492 DR (00:30) | Skill Check / Combat |
-| **154** | The Spire of Penance (Sub-Level 1) | Kythorn 4, 1492 DR (00:45) | Skill Check / Combat |
-| **155** | The Spire of Penance (Sub-Level 1) | Kythorn 4, 1492 DR (01:00) | Skill Check / Combat |
-| **156** | The Spire of Penance (Sub-Level 1) | Kythorn 4, 1492 DR (01:15) | Skill Check / Combat |
-| **157** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Skill Check / Combat |
-| **158** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **159** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **160** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **161** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **162** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **163** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **164** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **165** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **166** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Skill Check / Combat |
-| **167** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **168** | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
-| **169** | Avernus Outskirts (Zariel's Core Stronghold) | Kythorn 4, 1492 DR (03:30) | Skill Check / Combat |
-| **170** | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:00) | Skill Check / Combat |
-| **171** | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:00) | Roleplay |
-| **172** | Zariel's Core Stronghold (Logic-Core Perimeter) | Kythorn 4, 1492 DR (04:30) | Skill Check / Combat |
-| **173** | Zariel's Core Stronghold (Logic-Core Perimeter) | Kythorn 4, 1492 DR (04:30) | Roleplay |
-| **174** | Zariel's Core Stronghold (Logic-Core Perimeter) | Kythorn 4, 1492 DR (04:30) | Roleplay |
-| **175** | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:35) | Skill Check / Combat |
-| **176** | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:35) | Roleplay |
-| **177** | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Skill Check / Combat |
-| **178** | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Skill Check / Combat |
-| **179** | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Roleplay |
-| **180** | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Roleplay |
-| **181** | Nessus | Kythorn 11, 1492 DR (13:00) | Skill Check / Combat |
-| **182** | Nessus | Kythorn 11, 1492 DR (14:00) | Skill Check / Combat |
-| **183** | Nessus | Kythorn 11, 1492 DR (14:00) | Roleplay |
-| **184** | Nessus | Kythorn 11, 1492 DR (20:00) | Skill Check / Combat |
-| **185** | Nessus | Kythorn 11, 1492 DR (20:00) | Roleplay |
-| **186** | Nessus | Kythorn 11, 1492 DR (20:00) | Roleplay |
-| **187** | Nessus | Kythorn 11, 1492 DR (20:00) | Social Challenge |
-| **188** | Nessus | Kythorn 11, 1492 DR (23:00) | Skill Check / Combat |
-| **189** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Skill Check / Combat |
-| **190** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Roleplay |
-| **191** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Social Challenge |
-| **192** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Roleplay |
-| **193** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Skill Check / Combat |
-| **194** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Roleplay |
-| **195** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Skill Check / Combat |
-| **196** | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Roleplay |
-| **197** | Baldur's Gate (Upper City Counting-House) | Kythorn 13, 1492 DR (01:00) | Skill Check / Combat |
-| **198** | Baldur's Gate (Upper City Counting-House) | Kythorn 13, 1492 DR (01:00) | Roleplay |
-| **199** | Baldur's Gate (Sanguine Bastion) | Eleint 13, 1492 DR (01:00) | Skill Check / Combat |
-| **200** | Baldur's Gate (Sanguine Bastion) | Ches 13, 1493 DR (08:00) | Roleplay |
-| **201** | Baldur's Gate (Sanguine Bastion) | Ches 13, 1493 DR (08:00) | Skill Check / Combat |
-| **202** | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
-| **203** | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
-| **204** | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
-| **205** | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
-| **206** | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
-| **207** | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
-| **208** | Baldur's Gate (Szarr Palace) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
-| **209** | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
-| **210** | Baldur's Gate (Sanguine Bastion) | Ches 14, 1493 DR (03:00) | Skill Check / Combat |
-| **211** | Baldur's Gate (Sanguine Bastion) | Ches 14, 1493 DR (03:00) | Roleplay |
-| **212** | Baldur's Gate (Sanguine Bastion) | Ches 14, 1493 DR (03:00) | Roleplay |
-| **213** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (12:00) | Skill Check / Combat |
-| **214** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (14:00) | Skill Check / Combat |
-| **215** | Baldur's Gate (The Wide / Bloomridge Estate) | Ches 15, 1493 DR (18:00) | Skill Check / Combat |
-| **216** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Skill Check / Combat |
-| **217** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **218** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **219** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **220** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **221** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **222** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **223** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **224** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **225** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Skill Check / Combat |
-| **226** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **227** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Skill Check / Combat |
-| **228** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **229** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **230** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **231** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **232** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **233** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **234** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **235** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **236** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **237** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **238** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **239** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
-| **240** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:05) | Roleplay |
-| **241** | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (23:05) | Roleplay |
-| **242** | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (00:05) | Skill Check / Combat |
-| **243** | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (00:35) | Skill Check / Combat |
-| **244** | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (00:35) | Roleplay |
-| **245** | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (01:00) | Skill Check / Combat |
-| **246** | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (03:00) | Skill Check / Combat |
-| **247** | Baldur's Gate (Bloomridge Estate) / Avernus (Forge of Dis) | Ches 16, 1493 DR (04:00) | Skill Check / Combat |
-| **248** | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Skill Check / Combat |
-| **249** | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Roleplay |
-| **250** | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Roleplay |
-| **251** | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Roleplay |
-| **252** | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:05) | Roleplay |
-| **253** | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:05) | Skill Check / Combat |
-| **254** | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:15) | Skill Check / Combat |
-| **255** | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:15) | Roleplay |
-| **256** | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:15) | Skill Check / Combat |
-| **257** | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:30) | Skill Check / Combat |
-| **258** | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:40) | Skill Check / Combat |
-| **259** | Baldur's Gate (Lower City - The Blushing Mermaid) | Ches 16, 1493 DR (09:55) | Skill Check / Combat |
-| **260** | Baldur's Gate (Lower City - The Blushing Mermaid) | Ches 16, 1493 DR (10:10) | Skill Check / Combat |
-| **261** | Baldur's Gate (Lower City - The Blushing Mermaid) | Ches 16, 1493 DR (10:20) | Skill Check / Combat |
-| **262** | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (11:10) | Skill Check / Combat |
-| **263** | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (11:15) | Skill Check / Combat |
-| **264** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (11:50) | Roleplay |
-| **265** | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (12:00) | Skill Check / Combat |
-| **266** | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (12:15) | Skill Check / Combat |
-| **267** | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (12:15) | Roleplay |
-| **268** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (12:30) | Skill Check / Combat |
-| **269** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (12:45) | Skill Check / Combat |
-| **270** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:00) | Skill Check / Combat |
-| **271** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:10) | Skill Check / Combat |
-| **272** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:20) | Skill Check / Combat |
-| **273** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Skill Check / Combat |
-| **274** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Roleplay |
-| **275** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Roleplay |
-| **276** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Roleplay |
-| **277** | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Boss Surrender |
-| **278** | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (19:00) | Skill Check / Combat |
-| **279** | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:00) | Skill Check / Combat |
-| **280** | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:15) | Skill Check / Combat |
-| **281** | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:15) | Roleplay |
-| **282** | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:15) | Roleplay |
-| **283** | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:00) | Skill Check / Combat |
-| **284** | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:00) | Roleplay |
-| **285** | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:00) | Roleplay |
-| **286** | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:15) | Skill Check / Combat |
-| **287** | Baldur's Gate (The Sanguine Bastion - War Room) | Tarsakh 7, 1493 DR (07:00) | Skill Check / Combat |
-| **288** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
-| **289** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
-| **290** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
-| **291** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
-| **292** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
-| **293** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
-| **294** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
-| **295** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
-| **296** | Baldur's Gate (High Hall) | Tarsakh 7, 1493 DR (09:00) | Skill Check / Combat |
-| **297** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (09:15) | Skill Check / Combat |
-| **298** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (09:30) | Skill Check / Combat |
-| **299** | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (17:30) | Skill Check / Combat |
-| **300** | Baldur's Gate (The High Hall) | Tarsakh 7, 1493 DR (19:30) | Skill Check / Combat |
-| **301** | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Skill Check / Combat |
-| **302** | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Roleplay |
-| **303** | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Roleplay |
-| **304** | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Roleplay |
-| **305** | Baldur's Gate (High Hall Council Chamber) | Tarsakh 8, 1494 DR (07:30) | Skill Check / Combat |
-| **306** | Neverwinter (Protector's Enclave) | Tarsakh 29, 1494 DR (14:00) | Skill Check / Combat |
-| **307** | Neverwinter (Protector's Enclave) | Mirtul 20, 1494 DR (14:00) | Skill Check / Combat |
-| **308** | Neverwinter (Protector's Enclave) | Mirtul 20, 1494 DR (14:00) | Roleplay |
-| **309** | Neverwinter (Protector's Enclave) | Mirtul 20, 1494 DR (14:00) | Roleplay |
-| **310** | Neverwinter (The High Castle) | Mirtul 20, 1494 DR (20:00) | Skill Check / Combat |
-| **311** | Neverwinter (The High Castle) | Kythorn 11, 1494 DR (14:00) | Skill Check / Combat |
-| **312** | Waterdeep (The Dock Ward - The Muzzled Mermaid) | Kythorn 12, 1494 DR (10:30) | Skill Check / Combat |
-| **313** | Waterdeep (The Dock Ward - The Muzzled Mermaid) | Kythorn 11, 1494 DR (14:00) | Skill Check / Combat |
-| **314** | Waterdeep (The Dock Ward) | Kythorn 11, 1494 DR (14:30) | Skill Check / Combat |
-| **315** | Waterdeep (The Castle Ward) | Flamerule 2, 1494 DR (10:00) | Skill Check / Combat |
-| **316** | Waterdeep (The High Castle) | Flamerule 23, 1494 DR (11:00) | Skill Check / Combat |
-| **317** | Waterdeep (The High Castle) | Flamerule 23, 1494 DR (11:05) | Skill Check / Combat |
-| **318** | Waterdeep (The High Castle) | Flamerule 24, 1494 DR (06:00) | Skill Check / Combat |
-| **319** | Waterdeep (The High Castle) | Flamerule 24, 1494 DR (06:10) | Skill Check / Combat |
-| **320** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (06:10) | Skill Check / Combat |
-| **321** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Skill Check / Combat |
-| **322** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **323** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **324** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **325** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **326** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **327** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **328** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **329** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **330** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **331** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **332** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **333** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **334** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **335** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **336** | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
-| **337** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **338** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **339** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **340** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **341** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **342** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **343** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **344** | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
-| **345** | Waterdeep (High Castle) | Eleasias 15, 1494 DR (12:00) | Skill Check / Combat |
-| **346** | Waterdeep (High Castle) | Eleasias 15, 1494 DR (12:00) | Roleplay |
-| **347** | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Skill Check / Combat |
-| **348** | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Roleplay |
-| **349** | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Roleplay |
-| **350** | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Skill Check / Combat |
-| **351** | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Roleplay |
-| **352** | Waterdeep (High Castle) | Eleasias 16, 1494 DR (07:00) | Skill Check / Combat |
-| **353** | Waterdeep (High Castle) | Eleasias 16, 1494 DR (07:00) | Roleplay |
-| **354** | Waterdeep (High Castle) | Eleasias 16, 1494 DR (07:30) | Roleplay |
-| **355** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
-| **356** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
-| **357** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
-| **358** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
-| **359** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
-| **360** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
-| **361** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
-| **362** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
-| **363** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
-| **364** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
-| **365** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:30) | Skill Check / Combat |
-| **366** | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:30) | Skill Check / Combat |
-| **367** | Waterdeep (The Gilded Sanctum) | Marpenoth 23, 1494 DR (07:30) | Skill Check / Combat |
-| **368** | Waterdeep (The Gilded Sanctum) | Uktar 7, 1494 DR (07:30) | Skill Check / Combat |
-| **369** | Waterdeep (The Gilded Sanctum) | Uktar 7, 1494 DR (07:30) | Roleplay |
-| **370** | Waterdeep (The Gilded Sanctum) | Uktar 7, 1494 DR (07:30) | Roleplay |
-| **371** | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (07:30) | Skill Check / Combat |
-| **372** | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (07:30) | Roleplay |
-| **373** | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (07:30) | Roleplay |
-| **374** | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (08:00) | Roleplay |
-| **375** | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (08:00) | Skill Check / Combat |
-| **376** | Baldur's Gate (The Wide) | Uktar 7, 1495 DR (12:00) | Skill Check / Combat |
-| **377** | Baldur's Gate (The Wide /High Hall) | Uktar 7, 1495 DR (12:30) | Skill Check / Combat |
-| **378** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Skill Check / Combat |
-| **379** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **380** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **381** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **382** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **383** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **384** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **385** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **386** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **387** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **388** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **389** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **390** | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
-| **391** | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (08:00) | Skill Check / Combat |
-| **392** | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (08:00) | Skill Check / Combat |
-| **393** | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (09:00) | Skill Check / Combat |
-| **394** | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (09:00) | Skill Check / Combat |
-| **395** | Westgate (The Motherhouse of Night - Ritual Sanctum) | Nightal 1, 1495 DR (10:00) | Skill Check / Combat |
-| **396** | Westgate (The Motherhouse of Night - Ritual Sanctum) | Nightal 1, 1495 DR (10:00) | Roleplay |
-| **397** | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Skill Check / Combat |
-| **398** | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Roleplay |
-| **399** | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Roleplay |
-| **400** | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
+| [**Scene 03**](#scene-3) | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
+| [**Scene 04**](#scene-4) | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
+| [**Scene 05**](#scene-5) | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
+| [**Scene 06**](#scene-6) | Baldur's Gate (The Apex of the Balduran Statue) | 1492 DR, Post-Apotheosis | Roleplay |
+| [**Scene 07**](#scene-7) | Baldur's Gate (Sanguine Court) | Post-Apotheosis, 1492 DR (Midday (12:30) | Skill Check / Combat |
+| [**Scene 08**](#scene-8) | Baldur's Gate (Sanguine Court) | Post-Apotheosis, 1492 DR (Midday (12:30) | Roleplay |
+| [**Scene 09**](#scene-9) | Baldur's Gate (Sanguine Court) | Post-Apotheosis, 1492 DR (Midday (12:30) | Roleplay |
+| [**Scene 10**](#scene-10) | Baldur's Gate (Sanguine Court) | , DR (12:30) | Roleplay |
+| [**Scene 11**](#scene-11) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Skill Check / Combat |
+| [**Scene 12**](#scene-12) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 13**](#scene-13) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 14**](#scene-14) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 15**](#scene-15) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 16**](#scene-16) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 17**](#scene-17) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (13:45) | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Roleplay |
+| [**Scene 20**](#scene-20) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Roleplay |
+| [**Scene 21**](#scene-21) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (15:45) | Roleplay |
+| [**Scene 22**](#scene-22) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (16:15) | Skill Check / Combat |
+| [**Scene 23**](#scene-23) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (16:15) | Roleplay |
+| [**Scene 24**](#scene-24) | The Temple of Bhaal (Undercity) | Mirtul 20, 1492 DR (16:15) | Roleplay |
+| [**Scene 25**](#scene-25) | Elfsong Tavern (Upper City) | Mirtul 20, 1492 DR (19:30) | Skill Check / Combat |
+| [**Scene 26**](#scene-26) | Elfsong Tavern (Upper City) | Mirtul 20, 1492 DR (19:30) | Roleplay |
+| [**Scene 27**](#scene-27) | Elfsong Tavern (Upper City) / Temple of Bhaal | Mirtul 20, 1492 DR (21:00) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Elfsong Tavern (Upper City) / Temple of Bhaal | Mirtul 20, 1492 DR (21:00) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Grey Harbor Warehouses | Mirtul 21, 1492 DR (01:30) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | Grey Harbor (Upper City) / Basilisk Gate Sewers | Mirtul 20, 1492 DR (23:30) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | Grey Harbor (Upper City) / Basilisk Gate Sewers | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 32**](#scene-32) | Grey Harbor (Upper City) / Basilisk Gate Sewers | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 33**](#scene-33) | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Skill Check / Combat |
+| [**Scene 34**](#scene-34) | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Roleplay |
+| [**Scene 35**](#scene-35) | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Baldur's Gate (Lower City / Undercity) | Mirtul 21, 1492 DR (09:00) | Roleplay |
+| [**Scene 37**](#scene-37) | The Bloom-Market (Lower City) / Undercity | Mirtul 21, 1492 DR (09:15) | Roleplay |
+| [**Scene 38**](#scene-38) | The Emerald Grove | Mirtul 21, 1492 DR (13:30) | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | Shadow Druid Encampment (Emerald Grove Periphery) | Mirtul 21, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | The Emerald Grove (Inner Sanctum) | Mirtul 22, 1492 DR (06:00) | Skill Check / Combat |
+| [**Scene 41**](#scene-41) | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:00) | Skill Check / Combat |
+| [**Scene 42**](#scene-42) | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:15) | Skill Check / Combat |
+| [**Scene 43**](#scene-43) | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:45) | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | The Emerald Grove (Sacred Pool) | Mirtul 22, 1492 DR (12:45) | Roleplay |
+| [**Scene 45**](#scene-45) | The Emerald Grove (Sanguine Shrine) | Mirtul 23, 1492 DR (06:00) | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | The Emerald Grove (Sanguine Shrine) | Mirtul 23, 1492 DR (06:00) | Roleplay |
+| [**Scene 47**](#scene-47) | The Emerald Grove (Sanguine Shrine) | Mirtul 23, 1492 DR (06:00) | Roleplay |
+| [**Scene 48**](#scene-48) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 49**](#scene-49) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
+| [**Scene 50**](#scene-50) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
+| [**Scene 51**](#scene-51) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
+| [**Scene 52**](#scene-52) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
+| [**Scene 54**](#scene-54) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
+| [**Scene 55**](#scene-55) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Roleplay |
+| [**Scene 56**](#scene-56) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | Baldur's Gate (Sanguine Court) | Mirtul 23, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 58**](#scene-58) | Baldur's Gate (Outskirts / Sanguine Court) | Mirtul 24, 1492 DR (00:00) | Skill Check / Combat |
+| [**Scene 59**](#scene-59) | Baldur's Gate (Outskirts / Sanguine Court) | Mirtul 24, 1492 DR (00:00) | Roleplay |
+| [**Scene 60**](#scene-60) | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:00) | Skill Check / Combat |
+| [**Scene 61**](#scene-61) | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:00) | Roleplay |
+| [**Scene 62**](#scene-62) | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:15) | Skill Check / Combat |
+| [**Scene 63**](#scene-63) | Baldur's Gate (Sanguine Court) | Mirtul 24, 1492 DR (03:15) | Roleplay |
+| [**Scene 64**](#scene-64) | North Road Waypoint | Mirtul 24, 1492 DR (03:45) | Skill Check / Combat |
+| [**Scene 65**](#scene-65) | North Road Waypoint | Mirtul 24, 1492 DR (04:00) | Skill Check / Combat |
+| [**Scene 66**](#scene-66) | North Road Waypoint | Mirtul 24, 1492 DR (04:00) | Roleplay |
+| [**Scene 67**](#scene-67) | North Road Waypoint | Mirtul 24, 1492 DR (04:00) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | North Road Waypoint | Mirtul 24, 1492 DR (05:00) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | North Road Waypoint | Mirtul 24, 1492 DR (13:00) | Skill Check / Combat |
+| [**Scene 70**](#scene-70) | North Road Waypoint | Mirtul 24, 1492 DR (13:00) | Roleplay |
+| [**Scene 71**](#scene-71) | North Road Waypoint | Mirtul 24, 1492 DR (13:45) | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | Elturel Outskirts | Mirtul 29, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 73**](#scene-73) | Elturel Outskirts | Mirtul 29, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:30) | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:30) | Roleplay |
+| [**Scene 76**](#scene-76) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:40) | Skill Check / Combat |
+| [**Scene 77**](#scene-77) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Skill Check / Combat |
+| [**Scene 78**](#scene-78) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
+| [**Scene 79**](#scene-79) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
+| [**Scene 80**](#scene-80) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
+| [**Scene 81**](#scene-81) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
+| [**Scene 82**](#scene-82) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (14:50) | Roleplay |
+| [**Scene 83**](#scene-83) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Skill Check / Combat |
+| [**Scene 84**](#scene-84) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 85**](#scene-85) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 86**](#scene-86) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 87**](#scene-87) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:01) | Social Challenge |
+| [**Scene 88**](#scene-88) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:06) | Skill Check / Combat |
+| [**Scene 89**](#scene-89) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:11) | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:16) | Skill Check / Combat |
+| [**Scene 91**](#scene-91) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:16) | Skill Check / Combat |
+| [**Scene 92**](#scene-92) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:16) | Roleplay |
+| [**Scene 93**](#scene-93) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:21) | Skill Check / Combat |
+| [**Scene 94**](#scene-94) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:26) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Elturel Outskirts (The Ravine) | Mirtul 29, 1492 DR (15:56) | Skill Check / Combat |
+| [**Scene 96**](#scene-96) | High Road (En Route to Baldur's Gate) | Mirtul 29, 1492 DR (16:26) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Baldur's Gate (Wyrm's Rock Fortress) | Mirtul 29, 1492 DR (20:26) | Skill Check / Combat |
+| [**Scene 98**](#scene-98) | Baldur's Gate (Wyrm's Rock Fortress) | Mirtul 29, 1492 DR (20:26) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Skill Check / Combat |
+| [**Scene 100**](#scene-100) | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Roleplay |
+| [**Scene 102**](#scene-102) | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Roleplay |
+| [**Scene 103**](#scene-103) | Baldur's Gate (Sanguine Court / Patriar Estates) | Mirtul 29, 1492 DR (23:56) | Skill Check / Combat |
+| [**Scene 104**](#scene-104) | Baldur's Gate (The High Hall) | Mirtul 30, 1492 DR (08:00) | Skill Check / Combat |
+| [**Scene 105**](#scene-105) | Baldur's Gate (The High Hall) | Mirtul 30, 1492 DR (08:00) | Roleplay |
+| [**Scene 106**](#scene-106) | Baldur's Gate (The House of Grief / Undercity) | Mirtul 31, 1492 DR (02:00) | Skill Check / Combat |
+| [**Scene 107**](#scene-107) | Baldur's Gate (The House of Grief / Undercity) | Mirtul 31, 1492 DR (05:00) | Skill Check / Combat |
+| [**Scene 108**](#scene-108) | Baldur's Gate (The House of Grief / Undercity) | Mirtul 31, 1492 DR (05:00) | Skill Check / Combat |
+| [**Scene 109**](#scene-109) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 111**](#scene-111) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (15:00) | Skill Check / Combat |
+| [**Scene 112**](#scene-112) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (18:00) | Skill Check / Combat |
+| [**Scene 113**](#scene-113) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (18:00) | Roleplay |
+| [**Scene 114**](#scene-114) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (18:00) | Roleplay |
+| [**Scene 115**](#scene-115) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
+| [**Scene 117**](#scene-117) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Roleplay |
+| [**Scene 120**](#scene-120) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:30) | Skill Check / Combat |
+| [**Scene 121**](#scene-121) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (22:45) | Skill Check / Combat |
+| [**Scene 122**](#scene-122) | Avernus (Stygian Outpost) | Mirtul 31, 1492 DR (23:00) | Skill Check / Combat |
+| [**Scene 123**](#scene-123) | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Skill Check / Combat |
+| [**Scene 124**](#scene-124) | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Roleplay |
+| [**Scene 125**](#scene-125) | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Roleplay |
+| [**Scene 126**](#scene-126) | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:00) | Roleplay |
+| [**Scene 127**](#scene-127) | Avernus (Stygian Outpost) | Kythorn 1, 1492 DR (00:15) | Roleplay |
+| [**Scene 128**](#scene-128) | Baldur's Gate (The High Hall) | Kythorn 2, 1492 DR (10:00) | Skill Check / Combat |
+| [**Scene 129**](#scene-129) | Baldur's Gate (The High Hall) | Kythorn 2, 1492 DR (10:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Baldur's Gate (The High Hall) | Kythorn 2, 1492 DR (10:00) | Social Challenge |
+| [**Scene 131**](#scene-131) | Avernus (Sanguine Cathedral of Divine Justice) | Kythorn 3, 1492 DR (09:00) | Skill Check / Combat |
+| [**Scene 132**](#scene-132) | Avernus (The Iron Gavel Pass) | Kythorn 3, 1492 DR (10:00) | Skill Check / Combat |
+| [**Scene 133**](#scene-133) | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Roleplay |
+| [**Scene 135**](#scene-135) | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Roleplay |
+| [**Scene 136**](#scene-136) | Avernus (Iron Gavel Pass) | Kythorn 3, 1492 DR (12:00) | Roleplay |
+| [**Scene 137**](#scene-137) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 138**](#scene-138) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (14:00) | Roleplay |
+| [**Scene 139**](#scene-139) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Skill Check / Combat |
+| [**Scene 140**](#scene-140) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 141**](#scene-141) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 142**](#scene-142) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 143**](#scene-143) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 144**](#scene-144) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 145**](#scene-145) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 146**](#scene-146) | Avernus (The Forge of Dis) | Kythorn 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 147**](#scene-147) | The City of Dis (The Iron Embassy) | Kythorn 3, 1492 DR (22:00) | Skill Check / Combat |
+| [**Scene 148**](#scene-148) | The City of Dis (The Iron Embassy) | Kythorn 3, 1492 DR (22:15) | Skill Check / Combat |
+| [**Scene 149**](#scene-149) | The City of Dis (The Iron Embassy) | Kythorn 3, 1492 DR (22:30) | Skill Check / Combat |
+| [**Scene 150**](#scene-150) | The City of Dis (The Obsidian Promenade) | Kythorn 3, 1492 DR (23:15) | Skill Check / Combat |
+| [**Scene 151**](#scene-151) | The City of Dis (The Obsidian Spire Ballroom) | Kythorn 4, 1492 DR (00:15) | Skill Check / Combat |
+| [**Scene 152**](#scene-152) | The City of Dis (The Obsidian Spire Ballroom) | Kythorn 4, 1492 DR (00:30) | Skill Check / Combat |
+| [**Scene 153**](#scene-153) | The City of Dis (The Obsidian Spire Ballroom) | Kythorn 4, 1492 DR (00:30) | Skill Check / Combat |
+| [**Scene 154**](#scene-154) | The Spire of Penance (Sub-Level 1) | Kythorn 4, 1492 DR (00:45) | Skill Check / Combat |
+| [**Scene 155**](#scene-155) | The Spire of Penance (Sub-Level 1) | Kythorn 4, 1492 DR (01:00) | Skill Check / Combat |
+| [**Scene 156**](#scene-156) | The Spire of Penance (Sub-Level 1) | Kythorn 4, 1492 DR (01:15) | Skill Check / Combat |
+| [**Scene 157**](#scene-157) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Skill Check / Combat |
+| [**Scene 158**](#scene-158) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 159**](#scene-159) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 160**](#scene-160) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 161**](#scene-161) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 162**](#scene-162) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 163**](#scene-163) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 164**](#scene-164) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 165**](#scene-165) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 166**](#scene-166) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Skill Check / Combat |
+| [**Scene 167**](#scene-167) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 168**](#scene-168) | The Forge of Dis | Kythorn 4, 1492 DR (01:30) | Roleplay |
+| [**Scene 169**](#scene-169) | Avernus Outskirts (Zariel's Core Stronghold) | Kythorn 4, 1492 DR (03:30) | Skill Check / Combat |
+| [**Scene 170**](#scene-170) | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:00) | Skill Check / Combat |
+| [**Scene 171**](#scene-171) | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:00) | Roleplay |
+| [**Scene 172**](#scene-172) | Zariel's Core Stronghold (Logic-Core Perimeter) | Kythorn 4, 1492 DR (04:30) | Skill Check / Combat |
+| [**Scene 173**](#scene-173) | Zariel's Core Stronghold (Logic-Core Perimeter) | Kythorn 4, 1492 DR (04:30) | Roleplay |
+| [**Scene 174**](#scene-174) | Zariel's Core Stronghold (Logic-Core Perimeter) | Kythorn 4, 1492 DR (04:30) | Roleplay |
+| [**Scene 175**](#scene-175) | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:35) | Skill Check / Combat |
+| [**Scene 176**](#scene-176) | Zariel's Core Stronghold (Command Center) | Kythorn 4, 1492 DR (04:35) | Roleplay |
+| [**Scene 177**](#scene-177) | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Skill Check / Combat |
+| [**Scene 178**](#scene-178) | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Skill Check / Combat |
+| [**Scene 179**](#scene-179) | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Roleplay |
+| [**Scene 180**](#scene-180) | The Sanguine Bastion (Avernus) | Kythorn 11, 1492 DR (09:00) | Roleplay |
+| [**Scene 181**](#scene-181) | Nessus | Kythorn 11, 1492 DR (13:00) | Skill Check / Combat |
+| [**Scene 182**](#scene-182) | Nessus | Kythorn 11, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 183**](#scene-183) | Nessus | Kythorn 11, 1492 DR (14:00) | Roleplay |
+| [**Scene 184**](#scene-184) | Nessus | Kythorn 11, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 185**](#scene-185) | Nessus | Kythorn 11, 1492 DR (20:00) | Roleplay |
+| [**Scene 186**](#scene-186) | Nessus | Kythorn 11, 1492 DR (20:00) | Roleplay |
+| [**Scene 187**](#scene-187) | Nessus | Kythorn 11, 1492 DR (20:00) | Social Challenge |
+| [**Scene 188**](#scene-188) | Nessus | Kythorn 11, 1492 DR (23:00) | Skill Check / Combat |
+| [**Scene 189**](#scene-189) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Skill Check / Combat |
+| [**Scene 190**](#scene-190) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Roleplay |
+| [**Scene 191**](#scene-191) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Social Challenge |
+| [**Scene 192**](#scene-192) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (06:00) | Roleplay |
+| [**Scene 193**](#scene-193) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 194**](#scene-194) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Roleplay |
+| [**Scene 195**](#scene-195) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 196**](#scene-196) | Baldur's Gate (High Hall) | Kythorn 12, 1492 DR (20:00) | Roleplay |
+| [**Scene 197**](#scene-197) | Baldur's Gate (Upper City Counting-House) | Kythorn 13, 1492 DR (01:00) | Skill Check / Combat |
+| [**Scene 198**](#scene-198) | Baldur's Gate (Upper City Counting-House) | Kythorn 13, 1492 DR (01:00) | Roleplay |
+| [**Scene 199**](#scene-199) | Baldur's Gate (Sanguine Bastion) | Eleint 13, 1492 DR (01:00) | Skill Check / Combat |
+| [**Scene 200**](#scene-200) | Baldur's Gate (Sanguine Bastion) | Ches 13, 1493 DR (08:00) | Roleplay |
+| [**Scene 201**](#scene-201) | Baldur's Gate (Sanguine Bastion) | Ches 13, 1493 DR (08:00) | Skill Check / Combat |
+| [**Scene 202**](#scene-202) | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
+| [**Scene 203**](#scene-203) | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
+| [**Scene 204**](#scene-204) | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
+| [**Scene 205**](#scene-205) | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
+| [**Scene 206**](#scene-206) | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Roleplay |
+| [**Scene 207**](#scene-207) | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
+| [**Scene 208**](#scene-208) | Baldur's Gate (Szarr Palace) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
+| [**Scene 209**](#scene-209) | Baldur's Gate (House of Grief) | Ches 13, 1493 DR (22:00) | Skill Check / Combat |
+| [**Scene 210**](#scene-210) | Baldur's Gate (Sanguine Bastion) | Ches 14, 1493 DR (03:00) | Skill Check / Combat |
+| [**Scene 211**](#scene-211) | Baldur's Gate (Sanguine Bastion) | Ches 14, 1493 DR (03:00) | Roleplay |
+| [**Scene 212**](#scene-212) | Baldur's Gate (Sanguine Bastion) | Ches 14, 1493 DR (03:00) | Roleplay |
+| [**Scene 213**](#scene-213) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (12:00) | Skill Check / Combat |
+| [**Scene 214**](#scene-214) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (14:00) | Skill Check / Combat |
+| [**Scene 215**](#scene-215) | Baldur's Gate (The Wide / Bloomridge Estate) | Ches 15, 1493 DR (18:00) | Skill Check / Combat |
+| [**Scene 216**](#scene-216) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Skill Check / Combat |
+| [**Scene 217**](#scene-217) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 218**](#scene-218) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 219**](#scene-219) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 220**](#scene-220) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 221**](#scene-221) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 222**](#scene-222) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 223**](#scene-223) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 224**](#scene-224) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 225**](#scene-225) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Skill Check / Combat |
+| [**Scene 226**](#scene-226) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 227**](#scene-227) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Skill Check / Combat |
+| [**Scene 228**](#scene-228) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 229**](#scene-229) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 230**](#scene-230) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 231**](#scene-231) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 232**](#scene-232) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 233**](#scene-233) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 234**](#scene-234) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 235**](#scene-235) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 236**](#scene-236) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 237**](#scene-237) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 238**](#scene-238) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 239**](#scene-239) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:00) | Roleplay |
+| [**Scene 240**](#scene-240) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (22:05) | Roleplay |
+| [**Scene 241**](#scene-241) | Baldur's Gate (Bloomridge Estate) | Ches 15, 1493 DR (23:05) | Roleplay |
+| [**Scene 242**](#scene-242) | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (00:05) | Skill Check / Combat |
+| [**Scene 243**](#scene-243) | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (00:35) | Skill Check / Combat |
+| [**Scene 244**](#scene-244) | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (00:35) | Roleplay |
+| [**Scene 245**](#scene-245) | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (01:00) | Skill Check / Combat |
+| [**Scene 246**](#scene-246) | Baldur's Gate (Bloomridge Estate) | Ches 16, 1493 DR (03:00) | Skill Check / Combat |
+| [**Scene 247**](#scene-247) | Baldur's Gate (Bloomridge Estate) / Avernus (Forge of Dis) | Ches 16, 1493 DR (04:00) | Skill Check / Combat |
+| [**Scene 248**](#scene-248) | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Skill Check / Combat |
+| [**Scene 249**](#scene-249) | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Roleplay |
+| [**Scene 250**](#scene-250) | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Roleplay |
+| [**Scene 251**](#scene-251) | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:00) | Roleplay |
+| [**Scene 252**](#scene-252) | Baldur's Gate (Bloomridge Estate - Solar) | Ches 16, 1493 DR (08:05) | Roleplay |
+| [**Scene 253**](#scene-253) | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:05) | Skill Check / Combat |
+| [**Scene 254**](#scene-254) | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:15) | Skill Check / Combat |
+| [**Scene 255**](#scene-255) | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:15) | Roleplay |
+| [**Scene 256**](#scene-256) | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:15) | Skill Check / Combat |
+| [**Scene 257**](#scene-257) | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:30) | Skill Check / Combat |
+| [**Scene 258**](#scene-258) | Baldur's Gate (Bloomridge Estate - Dining Refectory) | Ches 16, 1493 DR (09:40) | Skill Check / Combat |
+| [**Scene 259**](#scene-259) | Baldur's Gate (Lower City - The Blushing Mermaid) | Ches 16, 1493 DR (09:55) | Skill Check / Combat |
+| [**Scene 260**](#scene-260) | Baldur's Gate (Lower City - The Blushing Mermaid) | Ches 16, 1493 DR (10:10) | Skill Check / Combat |
+| [**Scene 261**](#scene-261) | Baldur's Gate (Lower City - The Blushing Mermaid) | Ches 16, 1493 DR (10:20) | Skill Check / Combat |
+| [**Scene 262**](#scene-262) | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (11:10) | Skill Check / Combat |
+| [**Scene 263**](#scene-263) | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (11:15) | Skill Check / Combat |
+| [**Scene 264**](#scene-264) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (11:50) | Roleplay |
+| [**Scene 265**](#scene-265) | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (12:00) | Skill Check / Combat |
+| [**Scene 266**](#scene-266) | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (12:15) | Skill Check / Combat |
+| [**Scene 267**](#scene-267) | Baldur's Gate (High Hall - Coronation Stage) | Ches 16, 1493 DR (12:15) | Roleplay |
+| [**Scene 268**](#scene-268) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (12:30) | Skill Check / Combat |
+| [**Scene 269**](#scene-269) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (12:45) | Skill Check / Combat |
+| [**Scene 270**](#scene-270) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:00) | Skill Check / Combat |
+| [**Scene 271**](#scene-271) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:10) | Skill Check / Combat |
+| [**Scene 272**](#scene-272) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:20) | Skill Check / Combat |
+| [**Scene 273**](#scene-273) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Skill Check / Combat |
+| [**Scene 274**](#scene-274) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Roleplay |
+| [**Scene 275**](#scene-275) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Roleplay |
+| [**Scene 276**](#scene-276) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Roleplay |
+| [**Scene 277**](#scene-277) | Baldur's Gate (High Hall - Staging Solar) | Ches 16, 1493 DR (13:25) | Boss Surrender |
+| [**Scene 278**](#scene-278) | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (19:00) | Skill Check / Combat |
+| [**Scene 279**](#scene-279) | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:00) | Skill Check / Combat |
+| [**Scene 280**](#scene-280) | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:15) | Skill Check / Combat |
+| [**Scene 281**](#scene-281) | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:15) | Roleplay |
+| [**Scene 282**](#scene-282) | Baldur's Gate (High Hall - Grand Ballroom) | Ches 16, 1493 DR (20:15) | Roleplay |
+| [**Scene 283**](#scene-283) | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:00) | Skill Check / Combat |
+| [**Scene 284**](#scene-284) | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:00) | Roleplay |
+| [**Scene 285**](#scene-285) | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:00) | Roleplay |
+| [**Scene 286**](#scene-286) | Baldur's Gate (The Sanguine Bastion) | Tarsakh 7, 1493 DR (06:15) | Skill Check / Combat |
+| [**Scene 287**](#scene-287) | Baldur's Gate (The Sanguine Bastion - War Room) | Tarsakh 7, 1493 DR (07:00) | Skill Check / Combat |
+| [**Scene 288**](#scene-288) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
+| [**Scene 289**](#scene-289) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
+| [**Scene 290**](#scene-290) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
+| [**Scene 291**](#scene-291) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
+| [**Scene 292**](#scene-292) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
+| [**Scene 293**](#scene-293) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Skill Check / Combat |
+| [**Scene 294**](#scene-294) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
+| [**Scene 295**](#scene-295) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (07:15) | Roleplay |
+| [**Scene 296**](#scene-296) | Baldur's Gate (High Hall) | Tarsakh 7, 1493 DR (09:00) | Skill Check / Combat |
+| [**Scene 297**](#scene-297) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (09:15) | Skill Check / Combat |
+| [**Scene 298**](#scene-298) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (09:30) | Skill Check / Combat |
+| [**Scene 299**](#scene-299) | Avernus (The Sanguine Bastion - Sanitization Chamber) | Tarsakh 7, 1493 DR (17:30) | Skill Check / Combat |
+| [**Scene 300**](#scene-300) | Baldur's Gate (The High Hall) | Tarsakh 7, 1493 DR (19:30) | Skill Check / Combat |
+| [**Scene 301**](#scene-301) | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Skill Check / Combat |
+| [**Scene 302**](#scene-302) | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Roleplay |
+| [**Scene 303**](#scene-303) | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Roleplay |
+| [**Scene 304**](#scene-304) | Baldur's Gate (The High Hall) | Tarsakh 8, 1494 DR (07:00) | Roleplay |
+| [**Scene 305**](#scene-305) | Baldur's Gate (High Hall Council Chamber) | Tarsakh 8, 1494 DR (07:30) | Skill Check / Combat |
+| [**Scene 306**](#scene-306) | Neverwinter (Protector's Enclave) | Tarsakh 29, 1494 DR (14:00) | Skill Check / Combat |
+| [**Scene 307**](#scene-307) | Neverwinter (Protector's Enclave) | Mirtul 20, 1494 DR (14:00) | Skill Check / Combat |
+| [**Scene 308**](#scene-308) | Neverwinter (Protector's Enclave) | Mirtul 20, 1494 DR (14:00) | Roleplay |
+| [**Scene 309**](#scene-309) | Neverwinter (Protector's Enclave) | Mirtul 20, 1494 DR (14:00) | Roleplay |
+| [**Scene 310**](#scene-310) | Neverwinter (The High Castle) | Mirtul 20, 1494 DR (20:00) | Skill Check / Combat |
+| [**Scene 311**](#scene-311) | Neverwinter (The High Castle) | Kythorn 11, 1494 DR (14:00) | Skill Check / Combat |
+| [**Scene 312**](#scene-312) | Waterdeep (The Dock Ward - The Muzzled Mermaid) | Kythorn 12, 1494 DR (10:30) | Skill Check / Combat |
+| [**Scene 313**](#scene-313) | Waterdeep (The Dock Ward - The Muzzled Mermaid) | Kythorn 11, 1494 DR (14:00) | Skill Check / Combat |
+| [**Scene 314**](#scene-314) | Waterdeep (The Dock Ward) | Kythorn 11, 1494 DR (14:30) | Skill Check / Combat |
+| [**Scene 315**](#scene-315) | Waterdeep (The Castle Ward) | Flamerule 2, 1494 DR (10:00) | Skill Check / Combat |
+| [**Scene 316**](#scene-316) | Waterdeep (The High Castle) | Flamerule 23, 1494 DR (11:00) | Skill Check / Combat |
+| [**Scene 317**](#scene-317) | Waterdeep (The High Castle) | Flamerule 23, 1494 DR (11:05) | Skill Check / Combat |
+| [**Scene 318**](#scene-318) | Waterdeep (The High Castle) | Flamerule 24, 1494 DR (06:00) | Skill Check / Combat |
+| [**Scene 319**](#scene-319) | Waterdeep (The High Castle) | Flamerule 24, 1494 DR (06:10) | Skill Check / Combat |
+| [**Scene 320**](#scene-320) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (06:10) | Skill Check / Combat |
+| [**Scene 321**](#scene-321) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Skill Check / Combat |
+| [**Scene 322**](#scene-322) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 323**](#scene-323) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 324**](#scene-324) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 325**](#scene-325) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 326**](#scene-326) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 327**](#scene-327) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 328**](#scene-328) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 329**](#scene-329) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 330**](#scene-330) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 331**](#scene-331) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 332**](#scene-332) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 333**](#scene-333) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 334**](#scene-334) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 335**](#scene-335) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 336**](#scene-336) | Waterdeep (Hard Control) | Flamerule 24, 1494 DR (12:00) | Roleplay |
+| [**Scene 337**](#scene-337) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 338**](#scene-338) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 339**](#scene-339) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 340**](#scene-340) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 341**](#scene-341) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 342**](#scene-342) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 343**](#scene-343) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 344**](#scene-344) | Waterdeep (High Castle) | Flamerule 24, 1494 DR (12:15) | Roleplay |
+| [**Scene 345**](#scene-345) | Waterdeep (High Castle) | Eleasias 15, 1494 DR (12:00) | Skill Check / Combat |
+| [**Scene 346**](#scene-346) | Waterdeep (High Castle) | Eleasias 15, 1494 DR (12:00) | Roleplay |
+| [**Scene 347**](#scene-347) | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Skill Check / Combat |
+| [**Scene 348**](#scene-348) | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Roleplay |
+| [**Scene 349**](#scene-349) | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Roleplay |
+| [**Scene 350**](#scene-350) | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Skill Check / Combat |
+| [**Scene 351**](#scene-351) | Waterdeep (High Castle) | Eleasias 15, 1494 DR (19:00) | Roleplay |
+| [**Scene 352**](#scene-352) | Waterdeep (High Castle) | Eleasias 16, 1494 DR (07:00) | Skill Check / Combat |
+| [**Scene 353**](#scene-353) | Waterdeep (High Castle) | Eleasias 16, 1494 DR (07:00) | Roleplay |
+| [**Scene 354**](#scene-354) | Waterdeep (High Castle) | Eleasias 16, 1494 DR (07:30) | Roleplay |
+| [**Scene 355**](#scene-355) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
+| [**Scene 356**](#scene-356) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
+| [**Scene 357**](#scene-357) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
+| [**Scene 358**](#scene-358) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
+| [**Scene 359**](#scene-359) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
+| [**Scene 360**](#scene-360) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
+| [**Scene 361**](#scene-361) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Roleplay |
+| [**Scene 362**](#scene-362) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
+| [**Scene 363**](#scene-363) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
+| [**Scene 364**](#scene-364) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:00) | Skill Check / Combat |
+| [**Scene 365**](#scene-365) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:30) | Skill Check / Combat |
+| [**Scene 366**](#scene-366) | Waterdeep (High Castle) | Marpenoth 16, 1494 DR (07:30) | Skill Check / Combat |
+| [**Scene 367**](#scene-367) | Waterdeep (The Gilded Sanctum) | Marpenoth 23, 1494 DR (07:30) | Skill Check / Combat |
+| [**Scene 368**](#scene-368) | Waterdeep (The Gilded Sanctum) | Uktar 7, 1494 DR (07:30) | Skill Check / Combat |
+| [**Scene 369**](#scene-369) | Waterdeep (The Gilded Sanctum) | Uktar 7, 1494 DR (07:30) | Roleplay |
+| [**Scene 370**](#scene-370) | Waterdeep (The Gilded Sanctum) | Uktar 7, 1494 DR (07:30) | Roleplay |
+| [**Scene 371**](#scene-371) | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (07:30) | Skill Check / Combat |
+| [**Scene 372**](#scene-372) | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (07:30) | Roleplay |
+| [**Scene 373**](#scene-373) | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (07:30) | Roleplay |
+| [**Scene 374**](#scene-374) | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (08:00) | Roleplay |
+| [**Scene 375**](#scene-375) | Aeterna (The Palace of Liquid Ruby) | Uktar 7, 1495 DR (08:00) | Skill Check / Combat |
+| [**Scene 376**](#scene-376) | Baldur's Gate (The Wide) | Uktar 7, 1495 DR (12:00) | Skill Check / Combat |
+| [**Scene 377**](#scene-377) | Baldur's Gate (The Wide /High Hall) | Uktar 7, 1495 DR (12:30) | Skill Check / Combat |
+| [**Scene 378**](#scene-378) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Skill Check / Combat |
+| [**Scene 379**](#scene-379) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 380**](#scene-380) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 381**](#scene-381) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 382**](#scene-382) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 383**](#scene-383) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 384**](#scene-384) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 385**](#scene-385) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 386**](#scene-386) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 387**](#scene-387) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 388**](#scene-388) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 389**](#scene-389) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 390**](#scene-390) | Baldur's Gate (High Hall) | Uktar 7, 1495 DR (14:00) | Roleplay |
+| [**Scene 391**](#scene-391) | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (08:00) | Skill Check / Combat |
+| [**Scene 392**](#scene-392) | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (08:00) | Skill Check / Combat |
+| [**Scene 393**](#scene-393) | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (09:00) | Skill Check / Combat |
+| [**Scene 394**](#scene-394) | Westgate (The Motherhouse of Night) | Nightal 1, 1495 DR (09:00) | Skill Check / Combat |
+| [**Scene 395**](#scene-395) | Westgate (The Motherhouse of Night - Ritual Sanctum) | Nightal 1, 1495 DR (10:00) | Skill Check / Combat |
+| [**Scene 396**](#scene-396) | Westgate (The Motherhouse of Night - Ritual Sanctum) | Nightal 1, 1495 DR (10:00) | Roleplay |
+| [**Scene 397**](#scene-397) | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Skill Check / Combat |
+| [**Scene 398**](#scene-398) | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Roleplay |
+| [**Scene 399**](#scene-399) | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Roleplay |
+| [**Scene 400**](#scene-400) | Westgate (The Motherhouse of Night - The Inquisitorial Cloister) | Nightal 1, 1495 DR (11:00) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -2379,8 +2395,11 @@ This Doc is the canonical state anchor for the God of Murder / Sanguine Architec
 > 👤 **Player:**
 > *"run char creation process"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Baldur's Gate (The Apex of the Balduran Statue)** &nbsp;|&nbsp; ⏳ **1492 DR, Post-Apotheosis** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 27,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2451,8 +2470,11 @@ give me the best gear in bg3 for my build
 
 make sure i really have all aspects of a level 12 gloomstalker + assassin rogue and brainstorm some special mechanics as the nascent god of murder, i dont have any divine powers yet until demi god level 20 and level 26+ when i start using real divine stats but some things can trickle in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Baldur's Gate (The Apex of the Balduran Statue)** &nbsp;|&nbsp; ⏳ **1492 DR, Post-Apotheosis** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2468,8 +2490,11 @@ Though your true Divine Spark is still incubating, the first trickles of Murder-
 > 👤 **Player:**
 > *"make sure all my companions from bg3 participated and remember some are good and some are evil, do you remember who's evil? th evil ones are myu allies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Baldur's Gate (The Apex of the Balduran Statue)** &nbsp;|&nbsp; ⏳ **1492 DR, Post-Apotheosis** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2487,8 +2512,11 @@ Though your full divinity awaits your ascension at Level 26, the **Nascent Spark
 > 👤 **Player:**
 > *"give me 22 dex and make sure i have the best ranged weapon in the game too for my build"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Baldur's Gate (The Apex of the Balduran Statue)** &nbsp;|&nbsp; ⏳ **1492 DR, Post-Apotheosis** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2504,8 +2532,11 @@ Your public face as a legendary hero is a mask of pure gold, backed by a vault c
 > 👤 **Player:**
 > *"finish creationand start game and lets make things subtle and morally grey. no one realizes I am the new god of murder except my evil allies and my good allies saw i was becoming darker and want to redeem me iddeally versus just kill me. I am somehwat morally conflicted too and not pure evil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Baldur's Gate (The Apex of the Balduran Statue)** &nbsp;|&nbsp; ⏳ **1492 DR, Post-Apotheosis** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2519,8 +2550,11 @@ But as you gaze toward the Outer City, you sense the absence of the others. Wyll
 > 👤 **Player:**
 > *"address the survivors and give heroic speech to build up my rep and then descend to sanguine court"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Post-Apotheosis, 1492 DR (Midday (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2542,8 +2576,11 @@ Astarion leans against a pillar of obsidian, his crimson eyes reflecting the fai
 God Mode:
 lets ensure I am extremly beautiful and have +2 bonus to all persusasion/deception/actig checks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Post-Apotheosis, 1492 DR (Midday (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2557,8 +2594,11 @@ Administrative Update: Transcendent Beauty confirmed.
 God Mode:
 lets ensure I am not neessarily the leader of the companions and they are more like allies so i need to persuade them to help me etc and DC should be aligned with our mutual benefit, but they do kind of recognie i am the strongest as a nascent god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Post-Apotheosis, 1492 DR (Midday (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2573,8 +2613,11 @@ Administrative Update: Allied Peer Dynamic established.
 God Mode:
 lets make shadowheart a companion actually, she's a romantic companion and we have a toxic relationship, similar to bg3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **, DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 136/136 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -2590,8 +2633,11 @@ Administrative Update: Relationship established.
 
 lets assume I am treated as bhaal inheritor since I murdered him, so the succession was honored. lets make savereok my paladin actually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tithes: 125/125** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2620,8 +2666,11 @@ give me a cleric and I will be their god, try to use an existing bg3 char. And s
 
 For now my divine intervention will kind of suck, maybe an extra turn? but later on as a real god it gets stronger
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -2640,8 +2689,11 @@ wait lets make shadowheart my cleric
 saverok is my paladin
 and lets make araj a warlock where she has a contract with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | SA: 6d6 | Tithes: 125/125**
@@ -2656,8 +2708,11 @@ Administrative Update: Sanguine Court Roles and Mechanics Realigned.
 God Mode:
 extra turn should be like the real divine intervention, lets assume it can be used very rarely like once a year until the cleric gets higher level or paladin if they get DI
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2674,8 +2729,11 @@ The DI gives me a full turn and refreshes all my spellslots, colldowns, evrythin
 
 how can gale become a god without crown karsus since i consumed it with netherbrain?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | SA: 6d6 | Tithes: 125/125**
@@ -2700,8 +2758,11 @@ God Mode:
 
 2) lets brainstorm a cool arc. If I decide i will let gale siphon using the orb and eventually after enough siphoning we can recreate the crown for him, but i need to balance giving him power vs letting him get too strong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 136/136 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -2726,8 +2787,11 @@ Sarevok is now mechanically anchored as your **First Dread Paladin**. His powers
 > 👤 **Player:**
 > *"return to story and hold court in temple of bhaal and let my followers have extended dialog worhsipping me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | SA: 6d6 | Tithes: 125/125 | DI: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2751,8 +2815,11 @@ Yet, even as Gale speaks of the arcane shrouds he’s weaving to hide your ascen
 > 👤 **Player:**
 > *"consolidate domestic power, initiate karsite siphoningg, go thorugh my followers and separat them into elite gloomstalker asssassin types vs regular spies vs soldiers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | SA: 6d6 | Tithes: 125/125 | DI: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2784,8 +2851,11 @@ summarize my faction strength and shadow heart's shar faction strength. Lets ass
 
 their strength from follow bg3 game cannon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2814,8 +2884,11 @@ With 250 total units under your command, your forces have reached a scale where 
 God Mode:
 give levels for all my forces and make sure all named npcs, companions, and original bg3 companions who are now allies have levels and classes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2855,8 +2928,11 @@ lets enable faction management
 
 lets also count my followers in the resources section and can give me some special proto god abilities earlier since I am a nascent god even at the mortal tier for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | Followers: 2,500 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | SA: 6d6 | Tithes: 125/125 | F: 2,500 | DI: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2883,8 +2959,11 @@ Your nascent spark has granted you early access to the following abilities to re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the court session in the Temple of Bhaal with the new strategic layer and command dynamic active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | Followers (F): 2,500 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | SA: 6d6 | Tithes: 125/125 | F: 2,500 | DI: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2914,8 +2993,11 @@ can be similar to their original classes
 - **Sarevok Anchev**: Level 12 Paladin (Oath of Conquest) | Dread Paladin of Nocturne
 - **Araj Oblodra**: Level 12 Warlock (Pact of the Blade) | Blood Warlock & Bound Researcher
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | Followers (F): 2,500 | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2939,8 +3021,11 @@ Administrative Summary: Custom Subclasses and Murder-Related Mechanics defined f
 God Mode:
 lets assume i genuinely care about the original bg3 good companionss and have genuine affection/friendship for them. Each one i kill will give exhaustion but also divine estacy and bonus exp because they are emotionally meaningful/beautiful murders, per my murder style
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | Followers (F): 2,500 | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2963,8 +3048,11 @@ explain i want to gain more followers/levels/and build up an assassins guild
 
 then i will do actions as my public face. I will visit the adventurers guild (assume theres one in elfsong tavern and see if any noble or "good" quests). I will also go meet with ravenguard and ask for missiosn to help rebuild city or defat villains and ask counselor florrick"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Elfsong Tavern (Upper City)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | Followers (F): 2,500 | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2994,8 +3082,11 @@ You accept their missions with a gracious, heroic nod, the Sanguine Pulse within
 God Mode:
 whenever i give multiple commands like above lets narrate in 500+ words and be very detailed with lots of dialog and description
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Elfsong Tavern (Upper City)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 136/136 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -3007,8 +3098,11 @@ The story continues...
 
 in parallel appoint my most suited follower (not shadowheart, lets make another gloomstalker/assassin companion) to lead assassins guild day to day and see if they can find customers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Elfsong Tavern (Upper City) / Temple of Bhaal** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | Followers (F): 2,500 | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3038,8 +3132,11 @@ You ignore the flare of possessiveness, your mind already coordinating the paral
 > 👤 **Player:**
 > *"THINK:Are dragon cult bhaalists?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Elfsong Tavern (Upper City) / Temple of Bhaal** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 100,000gp | Followers (F): 2,500 | XP: 100000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3051,8 +3148,11 @@ Wisdom Check: 14 vs DC 5 — Success. Your intuitive grasp of the city's power d
 > 👤 **Player:**
 > *"Personally lead harbor purge and delegate dragon cult to saverok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Grey Harbor Warehouses** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 105,000gp | Followers (F): 2,520 | XP: 101200/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3090,8 +3190,11 @@ Nine-Fingers Keene has personally witnessed your 'illegal' purge. While she does
 > 👤 **Player:**
 > *"Personally lead harbor purge and delegate dragon cult to saverok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Grey Harbor (Upper City) / Basilisk Gate Sewers** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 110,000gp | Followers (F): 2,700 | XP: 103000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3131,8 +3234,11 @@ Behind you, Shadowheart catches your eye, a slow, toxic smile spreading across h
 God Mode:
 Trivial encounters it’s fine to resolve with one role, but more challenging encounters. Let me do the full combat sequence.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Grey Harbor (Upper City) / Basilisk Gate Sewers** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 110,000gp | Followers (F): 2,700 | XP: 103000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3147,8 +3253,11 @@ This rule has been added to your persistent directives.
 God Mode:
 Give me various epic titles since I was the party leader of the bg3 hero party who killed nether brain and assume all the bg3 characters participated good and bad and they all look up to me and know they would’ve lost without me. One title should be illithid bane and make up a few more. For social checks that are relevant in bg3 as illithid bane I should have advantage.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Grey Harbor (Upper City) / Basilisk Gate Sewers** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 105,000gp | XP: 103000/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3173,8 +3282,11 @@ Administrative Summary: Epic Titles and Global Recognition established.
 > 👤 **Player:**
 > *"Priestess reward and then spend more time with her purging criminals. We will do a light and shadow campaign. Shadowheert and I will pubically hunt down any criminals or evil elements in baldurs gate in a heroic way and when possible we kill them in humiliating or torturous ways which should turn her on. In parallel thr shadow will be my cult and the Shar forced purging the criminals and giving them horrible painful deaths and break their spirits and force friends to kill each other. Purge all the criminals thst aren’t thieves guild or zhent. Anyone strong like level 5+ w offer recruit or die."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Baldur's Gate (Lower City / Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | Followers (F): 2,750 | XP: 104500/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125 | F: 2,750** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3206,8 +3318,11 @@ As you descend from the stage in the Bloom-Market, Shadowheart catches your arm,
 God Mode:
 Even with leaders burden remember I can only order around shadowheart and the other original companion shave their own autonomy
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Baldur's Gate (Lower City / Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | Followers (F): 2,750 | XP: 104500/120000**
@@ -3224,8 +3339,11 @@ Administrative Update: Autonomy Hierarchy Refined.
 God Mode:
 Let’s retcon this a bit. I only torture people secretly and in public I just execute and roll to see if I can pull it off. There should be some easier DV since I’m seen as a hero even if ruthless but let’s have good characters complain as time goes on if I kill too much when I could capture e
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Baldur's Gate (Lower City / Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 136/136 | XP: 104500/120000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -3249,8 +3367,11 @@ Administrative Summary: Retcon and Behavioral Protocol established.
 God Mode:
 Give me a 20% exp bonus or other bonuses for special murders that are extra painful or emotionally or physically torturous done by me or followers and don’t forget my exp and loot so far
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Baldur's Gate (Lower City / Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | Followers (F): 2,750 | XP: 104500/120000**
@@ -3282,8 +3403,11 @@ Administrative Summary: Sadistic Excellence Protocol established.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign with the refined public/private doctrine and companion tracking in effect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Bloom-Market (Lower City) / Undercity** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,750 | XP: 104500/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3299,8 +3423,11 @@ However, the reports from your 'Shadow Whispers' are mounting. Gale's siphoning 
 > 👤 **Player:**
 > *"Let’s assume I always bring shadow heart with me by default to keep an eye on her and ensure she’s less jealous. I try to scout the shadow Druids and see if the ritual of thorns is still possible and if it could consume the souls of the grove"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Emerald Grove** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,750 | XP: 104500/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3326,8 +3453,11 @@ Shadowheart leans into your ear, her breath hot against your skin. "I see it too
 > 👤 **Player:**
 > *"Secretly approach shadow Druids assume i find a camp outside the grove and offer true covenant and reveal my divinity and see if it can align with their goal s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Shadow Druid Encampment (Emerald Grove Periphery)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | Followers (F): 2,750 | XP: 104500/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3357,8 +3487,11 @@ Olodan bows her head, her forehead touching the damp earth. "My sickles are your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor the Divinity - Spend the night in the Grove's Inner Sanctum to anchor your divine spark to the ritual core, ensuring the harvest is automatic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Emerald Grove (Inner Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,750 | XP: 106000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3378,8 +3511,11 @@ Shadowheart wipes a bead of sweat from your brow, her touch lingering with a pos
 > 👤 **Player:**
 > *"Sovereigns shadow and sssume I lead the shadow Druids now and they support me. If it fails illl try to trigger a surprise round and slayer form and assassinate Haslin. But first narrated my reunion with halsin in detail over 500 words and extensive dialog. He has great respect for me but during the absolute battles and campaign he noticed I enjoyed the killing and said he isn’t totally sure I removed the bhaal influence (assume I pretended I resisted my dark urge) but instead I truly embraced it so there’s no cognitive dissonance anymore and I’m in perfect alignment as the real god murder now so I mask it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Emerald Grove (Sacred Pool)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,750 | XP: 106000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3411,8 +3547,11 @@ Behind you, Shadowheart's eyes catch yours—a dark, knowing flash of toxic prid
 > 👤 **Player:**
 > *"archdruid sacrifice and if he starts it, have shadowdruids prep soul s teal for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Emerald Grove (Sacred Pool)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,750 | XP: 108000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3442,8 +3581,11 @@ Shadowheart leans into your ear, her breath hot against your skin, her eyes dark
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Silence (Synergistic) - You comfort Halsin at the pool while Shadowheart and Olodan initiate the mass-harvest of the refugees—securing the leader while consuming the followers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Emerald Grove (Sacred Pool)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,750 | XP: 115200/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 325/325 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3472,8 +3614,11 @@ However, in the chaos of the realization, a single white raven—Halsin's primal
 God Mode:
 i shold prob get some special ability but dont make it too OP and some tithe and the shadow druids should join my forces tell me their levels and what god do they usually worship? maybe they can worship me instead and i can gain some nature aspect to my portfolio?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Emerald Grove (Sacred Pool)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,750 | XP: 115200/120000**
@@ -3507,8 +3652,11 @@ long rest before i head back
 
 try to use speak with dead to halsin and put his soul back in his body for a bit to talk to him, if it works narrate extended dialogue. tell him i love him as a companion and thus as the new god of murder i had to do it, but my feelings for him and companionship are true, explain i never rejected bhaal i just consumed him after we beat the netherbrain and consumed netherbrain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Emerald Grove (Sanguine Shrine)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 117600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 525/525 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3545,8 +3693,11 @@ The red light in his eyes fades, and his form finally goes still, the obsidian t
 God Mode:
 does it make sense that shadow druids would worship me instead of silvanus? maybe lets adjust things if its not lore appropriate i dont wanna just roll and get impossible or non lore things happening or things that dont make sense, i want to lead shadow druids or somethign but how can it make sense?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Emerald Grove (Sanguine Shrine)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 117600/120000**
@@ -3573,8 +3724,11 @@ Because your portfolio now includes **Nature's Metabolic Decay**, you have direc
 God Mode:
 How many souls did i consume? According to d&d lore were my rewards reasonable?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Emerald Grove (Sanguine Shrine)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 117600/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 525/525**
@@ -3604,8 +3758,11 @@ According to D&D 5e and 3e (*Deities & Demigods*) lore, your rewards are **highl
 > 👤 **Player:**
 > *"Order shadow Druids to spread their influence across this area and in other Druid groves and cities and send some elites to baldur gate to report to my HQ. Order them to worship me in secret as I am also a god of shadow murder and backstabs and betrayals vs simple murder like bhaal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 117600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 525/525 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3632,8 +3789,11 @@ In the center of the Court, your ministers wait. Astarion's crimson eyes are ali
 God Mode:
 How many shadow Druids did I gain and what levels ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 117600/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3656,8 +3816,11 @@ These forces have renounced Silvanus and now worship you as the **Sanguine Sover
 God Mode:
 Astsrion minthara and others shouldn’t jus the waiting around my court they should be leading their evil factions same with laezel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 117600/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3677,8 +3840,11 @@ These NPCs are no longer idle at Court; they are active faction leaders. Interac
 God Mode:
 Give me some exp for mentally torturing halsin beyond the grave
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt (Lvl 13 available) | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 123100/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3695,8 +3861,11 @@ Administrative Update: Divine Betrayal Milestone awarded (+5,500 XP).
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 - Choose your new features, HP, and spell slots for Level 13.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt (Lvl 13 available) | HP: 136/136 | Gold: 125,000gp | F: 2,781 | XP: 123100/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 (Lvl 13 pending) | Tithes: 525/525** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3717,8 +3886,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 123100/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 7d6 | Tithes: 525/525 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3732,8 +3904,11 @@ The reports from your ministers remain active. Astarion is tightening the leash 
 God Mode:
 Remember only shadow heart is directly part of my faction and she’s with me. Even as the Shar leader let’s assume she has a regent. The other bg3 original campaigns who are evil are allies and not my ministers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 123100/140000**
@@ -3750,8 +3925,11 @@ Administrative Update: Hierarchy and Faction Alignment Retcon.
 God Mode:
 Also I don’t control the city yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 145/145 | XP: 123100/140000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -3768,8 +3946,11 @@ Administrative Summary: City Control Status Corrected.
 > 👤 **Player:**
 > *"THINK:Can I pull off deceiving Jaheira? If not maybe I’ll instruct my shadow Druids to just pretend they won without me and lead the Harper’s into ambush where my forces can kill Jaheira and minsc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 123100/140000**
@@ -3781,8 +3962,11 @@ Wisdom Check: 19 vs DC 16 — Success (Margin +3). Your intuitive grasp of Jahei
 > 👤 **Player:**
 > *"THINK:What if we wait for Harper’s to scout the grove and keep killing scouts until Jaheira goes herself and I infiltrate Harper’s but avoid Jaheira directly so less exposure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 123100/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3794,8 +3978,11 @@ Wisdom Check: 19 vs DC 16 — Success (Margin +3). Setting a trap for a High Har
 > 👤 **Player:**
 > *"Long rest and infiltrate first and try to kill a scout who heads toward grove and tell the shadow sruids to stay mostly in grove and prep ambush outside grove and and send one or my captains and elite cult and Shar forces to prep ambush and expand shadow Druid faction throughout surrounding lands. We will have Jaheira and minsc get worried about a combined shadow Druid and bhaalist threat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Baldur's Gate (Outskirts / Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 124900/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 7d6 | Tithes: 525/525** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Illithid Bane, Savior of the Gate**
@@ -3820,8 +4007,11 @@ In the city above, the mood has shifted. Jaheira and Minsc have established a 'W
 God Mode:
 How many shadow Druid forces and total forces do I have and what levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Baldur's Gate (Outskirts / Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 124900/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3854,8 +4044,11 @@ Total forces: 382 units. Shadow Druid forces: 34 units. God mode NEVER advances 
 > 👤 **Player:**
 > *"Pose as the messenger but copy his hand writing and send messenger bird and inform Jaheira of dark alliance but say it’s hard for me to move out of the area and I need elite extraction unit, in parallel anchor new nature portfolio and try to make overtures as a nascent god to bane and Myrkul and offer to be a junior god in a new dead 3 alliance, they should be greatly weakened after bg3 losses but still gods"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 124900/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 7d6 | Tithes: 525/525** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, The Nether-Harrower**
@@ -3879,8 +4072,11 @@ Finally, you reach out into the silver void, past the Material Plane. You cast y
 God Mode:
 Oladan is my subordinate but not Gale
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 124900/140000**
@@ -3897,8 +4093,11 @@ Administrative Update: Hierarchy Refinement.
 > 👤 **Player:**
 > *"Negotiate dead three terms and explain we need to avoid Shar suspicion as she is stronger than us. Then even though they are weak ask them to make some new chosen for me to lead and donate some god power to me to level up. I need to become a god fast so we can restore their power and then ascend our original goals. Let’s sssume I act way more level headed than Orin which they like. Ask if they can try to give me some of their power and let me be their dual chosen too maybe our portfolios have enough synergy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 124900/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, The Nether-Harrower**
@@ -3922,8 +4121,11 @@ Meanwhile, in the Undercity, Shadowheart (Lvl 13) watches you with a mix of awe 
 God Mode:
 Let’s define some mechanics for chosen and avatars. If a god makes these it should cost a lot of DPP and they should need to transfer some DR to the new entity and if it dies they lose the DR permanently and they can also absorb it back but sometimes the chosen may resist however avatars never resist
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Baldur's Gate (Sanguine Court)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 145/145 | XP: 124900/140000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -3946,8 +4148,11 @@ Administrative Update: Divine Creation Mechanics Defined (Chosen & Avatars).
 > 👤 **Player:**
 > *"Ambush prep and delegate management of my cult and Shar faction to regents. Let’s assume they are autonomous and make their own small medium decisions and narrate what they do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 125,000gp | F: 2,781 | XP: 124900/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, The Nether-Harrower**
@@ -3974,8 +4179,11 @@ With the delegation complete, you and Shadowheart slip from the Undercity, movin
 > 👤 **Player:**
 > *"Have my assassins guild seek out some small and medium low profile contracts and roll for outcome and then give me some reasonable daily income from them. Then do sovereign silence and try to trigger surprise round and assassinate Jaheira first then minsc and instruct units to focus fire. Do real combat turns for this battle unless Jaheira and minsc don’t come"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 130,000gp | F: 2,831 | XP: 125500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 7d6 | Tithes: 525/525** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, The Nether-Harrower**
@@ -4007,8 +4215,11 @@ Shadowheart emerges from the obsidian mist at the waypoint's edge, her shield ra
 God Mode:
 Let’s just give me daily income and periodic spikes from assssin guild don’t forget it and decide a reasonable amount and safe with the sharran cloistered sect with the memory stuff
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 130,500gp | F: 2,831 | XP: 125500/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4024,8 +4235,11 @@ Administrative Update: Assassins Guild Economy & Sharran Concealment.
 > 👤 **Player:**
 > *"Execute jaheira ranged then use my ranged attack and have everyone swarm minsc and all the other Harper’s but focus fire minsc and others should be doing AOe abilities and ranged and cc things like thorns and oladan and my various elites should be fighting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 130,500gp | F: 2,831 | XP: 131500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 600/525 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 600/525**
@@ -4050,8 +4264,11 @@ Minsc’s scream is not human. It is a jagged, visceral sound of a man whose wor
 > 👤 **Player:**
 > *"Capture minsc and ritual of broken hero and torture him without reducing him as a combat asset emotionally and physically and see if I can tut him evil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 130,500gp | F: 2,831 | XP: 134000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Divine Intervention: 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 625/525**
@@ -4080,8 +4297,11 @@ As the ritual concludes, a sense of absolute, chilling calm settles over the Nor
 > 👤 **Player:**
 > *"Long rest continue to torture minsc and try convert him and speak dead Jaheira and emotionally torture her and interrogate both for intel and ekeep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 131,000gp | F: 2,831 | XP: 134000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 625/525 (Overcharged)** &nbsp;|&nbsp; ⚠️ **Normal (Long Rest Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4113,8 +4333,11 @@ He is breaking, Nocturne. The 'Hero' is dying, and something darker is beginning
 God Mode:
 Why would Karlach be hitting my supply liens she shouldn’t know I am evil
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 131,000gp | F: 2,831 | XP: 134000/140000** &nbsp;|&nbsp; ⚠️ **Normal (Long Rest Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4134,8 +4357,11 @@ You are correct that your **Hero Mask** remains pristine in the eyes of the gene
 > 👤 **Player:**
 > *"Let’s make light and shadow a central campaign theme. Assume I’ve planted the seeds for a new divine justice cult or religion directly worshipping me the illithid bane. It’s a ruthless cult where evil or criminals are burnt with holy fire or tortured to death (hidden) like the Catholics in the real world used to do but spread propaganda that its divine justice and try to get people to accept it. At first I pretend to disapprove of the cult publically  but later I’ll officially lead it. This gives me two sets of followers and I tell my regents to execute growth of both with our spies and assets. The same asssassin guild can use paladin warriors from saverok who look like good guys to assassinate for divine justice contracts on criminals or evil and for dark contracts the murder cult will take them. Any form of criminality is allowed for divine justice to make it more wide scope"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **North Road Waypoint** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 131,000gp | F: 2,831 | XP: 134000/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, Illithid Bane**
@@ -4154,8 +4380,11 @@ As the first reports of the Inquisition's 'success' filter through the telepathi
 > 👤 **Player:**
 > *"Go scout Karlach and see how large her force is and bring some elite gloomstlakers shadow Druid s and shadow heart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Elturel Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 134250/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, Illithid Bane**
@@ -4176,8 +4405,11 @@ Shadowheart crawls beside you, her breath cold against your neck. "The Fury of A
 > 👤 **Player:**
 > *"THINK:What if I propose a scouting mission to Karlach and lead her to one of my real supply lines and then say we’re both strong and might as well strike now while it’s too late and we don’t need backup. Then lead her into ambush and assassinate her with my slayer form and my elites in surprise round and let’s just assume I always use slayer form in battle unless it’s very public and I don’t want it revealed and by default I use the nicer looking  slayer form"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Elturel Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 134250/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, Illithid Bane**
@@ -4189,8 +4421,11 @@ Intelligence Check: 17 vs DC 13 — Success. Your methodical mind deconstructs t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Architect's Pincer (Synergistic) - Nocturne lures Karlach away via the 'Hero' mask, while Shadowheart and the Gloomstalkers move to intercept any Hellrider backup that tries to follow. Complete tactical isolation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 137250/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 625/525 (Overcharged)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, Illithid Bane**
@@ -4212,8 +4447,11 @@ As you reach the mouth of the kill-box, a sharp whistle pierces the afternoon ai
 God Mode:
 Let’s make sure my companions all have interesting back stories and wants and needs and ask me for companion quests
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 131,000gp | F: 2,831 | XP: 137250/140000**
@@ -4239,8 +4477,11 @@ I have updated the internal profiles for all core Sanguine Court ministers and R
 > 👤 **Player:**
 > *"Tell Karlach all the hellriders will make us lose element of surprise. Let them wait here and we go ahead alone to scout as we’re both super strong and least likely to get hurt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 137350/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 625/525** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Titles: Savior of the Gate, Illithid Bane**
@@ -4273,8 +4514,11 @@ The Hellriders pull their horses to a halt, the sudden silence of the legion a t
 > 👤 **Player:**
 > *"Lead her in as far as possible and even kill a few of my low level forces. Then trigger full ambush with all my elites and shadow heart and trigger surprise round and assassinate Karlach if surprise works with my full abilities and slayer form for bonuses and assume slayer form is free action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt (Lvl 14 available) | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 141350/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 700/525 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 700/525**
@@ -4317,8 +4561,11 @@ As you stand over her body, the obsidian wings of your **Slayer Form** billow li
 God Mode:
 You forgot I always wanna use the nice looking slayer form
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt (Lvl 14 available) | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 141350/140000** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 700/525**
@@ -4335,8 +4582,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 Level Up to Level 14 - Open the level-up modal.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt (Lvl 14 available) | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 141350/140000** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 700/525**
@@ -4353,8 +4603,11 @@ You have reached 141,350 XP, which meets the 140,000 XP threshold for Level 14.
 > 👤 **Player:**
 > *"Narrate detailed dialog with Karlach. Assume I brought her to 10 hp and slowly tortured her to death while proclaiming my love and she narrates her shock and betrayal and I reveal I never rejected bhaal I am the new god of murder. Do extended dialog over 500 words"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt (Lvl 14 available) | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 141350/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 700/525 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 700/525**
@@ -4368,8 +4621,11 @@ Active gameplay is paused until the level-up is finalized. The deicide of Karlac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 14 - Enter the level-up modal to select hit points, features, and spells for Level 14.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt (Lvl 14 available) | HP: 145/145 | Gold: 133,500gp | F: 3,000 | XP: 141350/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: No Spells Yet (Level 14 pending) | Tithes: 700/525** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 700/525**
@@ -4390,8 +4646,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 154/154 | Gold: 133,500gp | F: 3,000 | XP: 141350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 700/575 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Titles: Savior of the Gate, Illithid Bane**
@@ -4428,8 +4687,11 @@ You drive **Bloodthirst** into the center of her infernal engine. The metal shri
 > 👤 **Player:**
 > *"Loot her heart and show my full god powers and form and try to consume it then tell the hellriders to yield to me and join me or die and have my troops surround them and tell me my numbers versus theirs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 154/154 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 800/575 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 800/575**
@@ -4461,8 +4723,11 @@ The veteran Hellriders waver, the sight of their commander's heart in your hand 
 God Mode:
 Let’s give me an ability like bhaal has in the game where blades can just manifest and stab people but don’t make it too OP
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 154/154 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy) | Inspiration: No | Tithes: 800/575**
@@ -4480,8 +4745,11 @@ I have granted you the **Murderous Manifestation** ability, reflecting the nasce
 God Mode:
 Give me some balanced power up from eating Karlach heart and I think having  that many forces sneak up isn’t realistic let’s say it’s maybe 50 gloom stalkers level 5+ though so theyre elite and 20 shadow Druids
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 154/154 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Tithes: 800/575**
@@ -4501,8 +4769,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 Give me +2 con for eating heart too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | XP: 146350/165000** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Tithes: 800/575**
@@ -4522,8 +4793,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign in the ravine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:01)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Inspiration: No | Tithes: 800/575**
@@ -4549,8 +4823,11 @@ From the shadows of the stone walls, your specialized strike force of **50 Elite
 > 👤 **Player:**
 > *"Order a beautiful death tithe. Make them pair up and battle each other to death and then indoctrinate the winners into my murder religion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:06)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 800/575** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Inspiration: No | Tithes: 800/575**
@@ -4582,8 +4859,11 @@ The collective will of the legion stiffens, the shock of your betrayal hardening
 > 👤 **Player:**
 > *"Grip shadow thrones and kill 10% with ranged attacks and intimidate again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:11)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 799/575 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Inspiration: No | Tithes: 799/575**
@@ -4630,8 +4910,11 @@ The remaining forty-two Hellriders recoil, the sight of their elite scouts falli
 > 👤 **Player:**
 > *"Trigger kneel before urge, have shadow priests cast thrones to cc, intimidate lead officer into surrendering, if he doesn’t say anyone who attacks or kills lead officer is guaranteed their life and those who don’t in surrender will not only kill but soul steal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:16)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 797/575** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Inspiration: No | Tithes: 797/575**
@@ -4667,8 +4950,11 @@ The Hellriders look at their pinned leader, then at each other. The air is thick
 > 👤 **Player:**
 > *"THINK:How to make them surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:16)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Inspiration: No | Tithes: 797/575**
@@ -4680,8 +4966,11 @@ Wisdom Check: 18 vs DC 12 — Success (Sharp). Your divine intuition (WIS 18) al
 God Mode:
 Sovereign punctuation shouldn’t increase apex attention only god things not mortal things
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:16)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 168/168 | XP: 146350/165000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Murderous Manifestation: 0 (unbounded) | Infernal Overdrive: 1 (unbounded) | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -4701,8 +4990,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Crimson Vow (Recommended) - Offer them a blood-pact: swear fealty to the Sovereign as the 'Crimson Guard' or face immediate soul-extraction. Uses Persuasion/Intimidation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:21)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,000 | XP: 146350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 797/575** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Divine Ecstasy), Fire Resistance | Inspiration: No | Tithes: 797/575**
@@ -4730,8 +5022,11 @@ The Hellriders look at the lead officer, still pinned in a cruciform of shadow-t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Architect's Iron Grip (Synergistic) - Force the officer to yield while Shadowheart begins the blood-pact on the ridge—breaking the head while binding the body.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:26)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,042 | XP: 149350/165000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 1 | Inspiration: No | Tithes: 797/575**
@@ -4774,8 +5069,11 @@ As the words leave his lips, the effect is instantaneous. The remaining forty-tw
 > 👤 **Player:**
 > *"Formalize crimson guard and have them swear the official paladin oaths to me. Then use decimation to blood them and ensure they truly are loyal. Pick 20% who seem weakest or potentially disloyal and have the others kill them and all must strike. Then allow the survivors to designate me as their paladin god too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Elturel Outskirts (The Ravine)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:56)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,050 | XP: 151850/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 805/575 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 1 | Inspiration: No | Tithes: 805/575**
@@ -4822,8 +5120,11 @@ As the last of the eight falls silent, the survivors drop to their knees once mo
 > 👤 **Player:**
 > *"Bring the crimson guard back to baldurs gate instead and give them some divine power as a reward but first speak with dead Karlach and see if I can get intel on wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **High Road (En Route to Baldur's Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:26)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,050 | XP: 152350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 755/575 (Pool Overcharged)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 1 | Inspiration: No | Tithes: 755/575**
@@ -4854,8 +5155,11 @@ The march begins. Your strike force of seventy elites and thirty-four Dread Pala
 > 👤 **Player:**
 > *"Organize crimson into my light side divine justice religion. Let’s assume by default I mask as a level 12 mortal. Track and kill any Harper scouts personally to ensure they don’t escape on the way home. And lead the gloomstalkers to help me. Then we will enter the city and say we need divine justice as Karlach and Jaheira were killed and I as the savior will take charge. And minsc is dead or captured too. I will press duke ravenguard and the dukes for emergency powers because out of the good great heroes only shadowheart and me are alive and it’s a state of emergency. Also narrate how my divine e justice religion and murder religion have been doing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Baldur's Gate (Wyrm's Rock Fortress)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (20:26)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,065 | XP: 154850/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | F: 3,065 (+15 operations) | Tithes: 705/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 705/575**
@@ -4883,8 +5187,11 @@ Behind your mask, the Goddess purrs. Your **Divine Justice** religion is now the
 > 👤 **Player:**
 > *"THINK:How to best utilize emergency powers?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Baldur's Gate (Wyrm's Rock Fortress)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (20:26)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,065 | XP: 154850/165000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 705/575**
@@ -4896,8 +5203,11 @@ Wisdom Check: 21 vs DC 12 — Success (Sharp). Your sharp intuition (WIS 18) all
 > 👤 **Player:**
 > *"Integrate flaming fist into my divine justice forces and slowly change their religion. Then do first inquisition  and in parallel I will scout wyll and see what’s going on with him in avernus and I will brainstorm a good scapegoat enemy I can blame for the deaths of the bg3 heroes which benefits me if w emill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Baldur's Gate (Sanguine Court / Patriar Estates)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (23:56)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,120 | XP: 154850/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 705/575 (Overcharged)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 705/575**
@@ -4933,8 +5243,11 @@ You try to brainstorm a suitable scapegoat for the deaths of Jaheira and Karlach
 > 👤 **Player:**
 > *"THINK:Spend tithes to fix the sensor and when I can brainstorm more about a good scapegoat. Who’s strong enough to stop me from controlling city besides wyll and a good scapegoat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Baldur's Gate (Sanguine Court / Patriar Estates)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (23:56)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Tithes: 705/575 | XP: 154850/165000**
@@ -4946,8 +5259,11 @@ Wisdom Check: 20 vs DC 14 — Success (Sharp). Your divine intuition (WIS 18) id
 God Mode:
 Why would wyll be working for Zariel force due to mizora?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Baldur's Gate (Sanguine Court / Patriar Estates)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (23:56)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Tithes: 705/575 | XP: 154850/165000**
@@ -4978,8 +5294,11 @@ Based on the **Sanguine Architecture Campaign Bible** and recent **Divine Interr
 God Mode:
 In planning blocks stop offering me options to use Astarion like he’s my minion. Gale is ok because I’ve let him siphon some divine ripples so we can assume he’s in retainer but for bigger asks I still need roll persuasion for Gale
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Baldur's Gate (Sanguine Court / Patriar Estates)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (23:56)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 3,120 | XP: 154850/165000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 705/575**
@@ -4995,8 +5314,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"THINK:Plan how to frame Zariel for the bg3 heroes deaths and I want to say the Harper’s and thieves guild are compromised and we need to root out all the Zariel city assets and even attack the hells and strike some key areas to make it harder for her to influence area  but hit and run before Zariel attacks us. Since I have hellriders I can play the avoiding the descent into avernus 2.0 angle and people should be outraged that the bg3 heroes are dead so maybe easy dc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Baldur's Gate (Sanguine Court / Patriar Estates)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (23:56)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Tithes: 705/575 | XP: 154850/165000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5008,8 +5330,11 @@ Wisdom Check: 23 vs DC 16 — Success (Sharp). Your divine intuition (WIS 18) id
 > 👤 **Player:**
 > *"Rally all my allies and persuade Astsrion and minthara and laezel to help and rally the city and flaming fist and any adventurers who are around and ready to avenge the bg3 heroes. Let’s assume Astsrion minthara and laezel are know to be shady but peolle respect them as they saved the city. Try to formalize a grand crusade with my emergency powers against thieves guild and compromised Harper’s and beforehand I tell the zhentarim to submit to me or die and be crusaded along with thieves guild and I will seize all city assets related to the hells and some patriars who are suspects and the woman with that shop of all the hells items and great gear. I tell my dark allies we will divy up the spoils bloody Zariel nose and then consolidate city control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 8,065 | XP: 159850/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | F: 8,065 (+5,000 crusade converts) | Tithes: 755/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 755/575**
@@ -5055,8 +5380,11 @@ As the crusade marches, your 'Inquisition' descends upon **Devil's Fee**. **Hels
 God Mode:
 Keene should’ve surrendered her assets and been impromirsed if she accepted. She cannot speak for the zhentarim that’s a different faction so let me role it imdiation on them with various bonuses
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 8,065 | XP: 159850/165000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 705/575**
@@ -5073,8 +5401,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"Using the thieves guild info and asset shave my murder cult and sharran and elite shadows attack and purge Harper’s and i personally lead them while divine justice purges the remaining thieves guild and Keene is secretly tortured later by me and I try to get all her intel before killing her in a beautiful ritual and I say I’ve always admired her and make her pain last long. Similar deaths for any high level Harper’s in secret"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Baldur's Gate (The House of Grief / Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 9,065 | XP: 163350/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | F: 9,065 (+1,000 absorbed) | Tithes: 805/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 1 (Divine Ecstasy) | Inspiration: No | Tithes: 805/575**
@@ -5110,8 +5441,11 @@ Shadowheart steps forward, her eyes gleaming with a toxic, possessive pride as s
 > 👤 **Player:**
 > *"Narrate Keene torture in more detail. I break everyone bone and flay her skin and make it take hours to fuel my murder portfolio"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Baldur's Gate (The House of Grief / Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 9,065 | XP: 164050/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | F: 9,065 | Tithes: 806/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 1 (Divine Ecstasy) | Inspiration: No | Tithes: 806/575**
@@ -5142,8 +5476,11 @@ As the final hour of the night approaches, the energy of her **Tragic Betrayal**
 > 👤 **Player:**
 > *"Narrate Keene dialog in torture scene in detail over 500 words. First she’s angry then feels betrayed and sad then starts begging me to spare her and wets herself then she just begs me to kill her. I psychologically torment her by destroying her self esteem and playing good cop and bad cop and sharing genuine emotions of admiration and saying I’ve looked up to her all her life."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Baldur's Gate (The House of Grief / Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 133,500gp | F: 9,065 | XP: 164050/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 806/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 1 (Divine Ecstasy) | Inspiration: No | Tithes: 806/575**
@@ -5177,8 +5514,11 @@ You oblige, the final strike a 'Beautiful End' that siphons the last of her desp
 > 👤 **Player:**
 > *"Long rest then celebrate of victories and use tithes to repair sensor and use helsik portal to enter avernus and establish a vanguard with mt divine justice troops and assume the frontlines are those who seem less loyal or enthusiastic as fodder and see what happens. We try to scout and find mizora or wyll. I ask Bane and myrkul for help and say I’ve already killed everyone except wyll and processed many dead souls and don’t they want a part of it? I say I’m already more successful than Gortash and their previous chosen and soon will have the city"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 113,500gp | F: 9,065 | XP: 164050/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 756/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 756/575**
@@ -5212,8 +5552,11 @@ While your ' fodder' vanguard secures the perimeter, you utilize your **Umbral S
 > 👤 **Player:**
 > *"THINK:I wanna kill wyll and mizora too if I can and weaken Zariel enough that she will find it hard to get a foothold in baldurs gate for awhile"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Tithes: 756/575 | XP: 164050/165000**
@@ -5225,8 +5568,11 @@ Wisdom Check: 24 vs DC 17 — Success (Brilliant). Your divine intuition (WIS 18
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Foreclosure of Soul - Negotiate with Mizora using 200 Tithes. Convince her to trade Wyll's contract for 'favored status' in the Sanguine Court, then execute her once the leash is in your hand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 168/168 | Gold: 113,500gp | F: 9,065 | XP: 167550/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Tithes: 631/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 631/575**
@@ -5270,8 +5616,11 @@ Mizora: 82 → 0 (DEAD)
 > 👤 **Player:**
 > *"Stygian blackout and assume I brought extra cultist fodder so try to sue cultist and disloyal fist fodder first and preserve my paladins and assume I have some murder cult and sharran forces disguised as paladins stonsupport them so they don’t all get massacred so start the operation and then use greater invis and attempt to assassinate first wyll then mizora using all my abilities and only use slayer or god form if I can do it secretly and shadow heart and my elites help focus fire wyll first then mizora"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt (Lvl 15 available) | HP: 168/168 | Gold: 113,500gp | F: 9,565 | XP: 171050/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Tithes: 931/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 931/575**
@@ -5317,8 +5666,11 @@ Beside you, Shadowheart emerges from the shadows, her hand resting on the contra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 15 - Apply the benefits of Level 15 (8d6 Sneak Attack, Shadow Dodge) immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt (Lvl 15 available) | HP: 168/168 | Gold: 113,500gp | F: 9,565 | XP: 171050/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Tithes: 931/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 931/575**
@@ -5341,8 +5693,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 178/178 | Gold: 113,500gp | F: 9,565 | XP: 171050/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sneak Attack: 8d6 | Tithes: 931/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 931/575**
@@ -5356,8 +5711,11 @@ You stand at the apex of the Stygian ridge, the contract of the Blade now a part
 > 👤 **Player:**
 > *"Formalize dead three alliance and ask them to power me up right now clear my exhaustion and help locate mizora and explain all the Zariel forces are routing and we can pillage and loot her holdings and then make a wuxok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 178/178 | Gold: 125,500gp | F: 9,565 | XP: 171050/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sneak Attack: 8d6 | Tithes: 831/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 (Stygian Recovery) | Inspiration: No | Tithes: 831/575**
@@ -5390,8 +5748,11 @@ You order the construction of a **Sanguine War-Anchor** (the 'Wuxok' of your new
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Architect's Iron Web (Synergistic) - Gale audits the ledger to subvert contracts while you sacrifice the fodder to Bane—weakening Zariel while securing the Gods.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 178/178 | Gold: 125,500gp | F: 9,515 | XP: 176050/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sneak Attack: 8d6 | Tithes: 781/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 781/575**
@@ -5425,8 +5786,11 @@ Scrying reports from your scouts confirm the chaos: Zarielite officers are colla
 > 👤 **Player:**
 > *"THINK:Is it possible to establish and hold an outpost? I assume Zariel can eventually find and destroy us? And did we get mizora yet?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 178/178 | Tithes: 831/575 | XP: 176050/195000**
@@ -5438,8 +5802,11 @@ Wisdom Check: 26 vs DC 12 — Success (Sharp). Your divine intuition (WIS 18) cu
 > 👤 **Player:**
 > *"THINK:What’s the benefit of holding the hell outpost? If we wait for her to attack and all the dead 3 fight her could we win or even kill her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 178/178 | Gold: 125,500gp | F: 9,515 | XP: 176050/195000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 781/575**
@@ -5451,8 +5818,11 @@ Wisdom Check: 26 vs DC 14 — Success (Masterful). Your divine intuition (WIS 18
 God Mode:
 actually the god of murder is me, so we are only dead 3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 178/178 | XP: 176050/195000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Murderous Manifestation: 0 (unbounded) | Infernal Overdrive: 1 (unbounded) | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -5470,8 +5840,11 @@ unless what if i form a global crusade? like in pathfinder wrath of the righteou
 
 unless could i hold two portfolios? Divine justice will be the clean portfolio and even if it seems a bit ruthless or excessive i am a good guy, then beautiful sanguine murder is the other side. Could I deceive the gods like i do the mortals?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 178/178 | Tithes: 781/575 | XP: 176050/195000**
@@ -5483,8 +5856,11 @@ Wisdom Check: 28 vs DC 18 — Success (Brilliant). Your divine intuition (WIS 18
 > 👤 **Player:**
 > *"get shadowheart to cast enhance ability cha on my to give me advantage the npersuade bane and myrul about my dual portfolio strategy and promise them nice dividends. explain this is way btte than the old strategy because they actually get souls unlike mindflayers and a greater deception because w can use the forces of good as fodder against zariel and potentially harvest hell and good forces as needed and it fits the betrayal murder portfolio and gives us the souls even if we dont sttrike the blows."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 178/178 | Gold: 125,500gp | F: 9,515 | XP: 176050/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Sneak Attack: 8d6 | Tithes: 781/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 781/575**
@@ -5514,8 +5890,11 @@ A heavy, resonant silence falls over the canyon. Bane's iron-cold pressure shift
 > 👤 **Player:**
 > *"finalize sanguine coneneant and ask bane and myrul to make me their chosen as I am still a mortal and this way we will have the greatest mortal presence and I will use my divine justice portfolio to santiize their powers, assume i have enhance ability and i think DC should be easier since they agree with overall strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 178/178 | Gold: 125,500gp | F: 9,515 | XP: 176050/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Sneak Attack: 8d6 | Tithes: 781/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 781/575**
@@ -5548,8 +5927,11 @@ The gods remain **Wavering**, fascinated by your strategy but demanding one fina
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manifest 'Divine Justice' (Ritual) - Spend 100 Tithes to perform a public 'Trial' of captured Zarielite officers, using your new portfolio to 'sanitize' their souls in the eyes of the Dead Three.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 178/178 | Gold: 125,500gp | F: 9,515 | XP: 176050/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Sneak Attack: 8d6 | Tithes: 681/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 681/575**
@@ -5583,8 +5965,11 @@ remember i am part of the dead three now, so you can call them the dead 2 or toe
 
 as their chosen i should have gained massive exp and give me appropriate powers. i think i am the first god in history who is nascent in mortal form and is an actual god + dual chosen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt (Lvl 17 available) | HP: 178/178 | Gold: 125,500gp | F: 9,515 | XP: 226050/195000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 681/575**
@@ -5604,8 +5989,11 @@ should i get some similar ability that their old chosen had? gortash and ketheri
 
 lets also assume all their powers are filtered through divine justifce portfolio and make me look like some ruthless paladin
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt (Lvl 17 available) | HP: 178/178 | Gold: 125,500gp | F: 9,515 | XP: 226050/195000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 681/575**
@@ -5620,8 +6008,11 @@ Administrative Update: Dead Three Peer-Chosen abilities finalized.
 God Mode:
 Level Up to Level 17 - Apply your new features and HP for Levels 16 and 17 immediately.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Gestalt | HP: 200/200 | Gold: 125,500gp | F: 9,515 | XP: 226050/265000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 681/575**
@@ -5653,8 +6044,11 @@ Nocturne has successfully ascended to **Level 17** (Gloomstalker Ranger 17 / Ass
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign in Avernus with your Level 17 powers active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Avernus (Stygian Outpost)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder | HP: 200/200 | Gold: 125,500gp | F: 9,515 | XP: 226050/265000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1 | Sneak Attack: 9d6 | Tithes: 681/575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 681/575**
@@ -5678,8 +6072,11 @@ we establish the divine justice cathedtral and fortify and I summon half of my f
 
 I then herald victory at the gate and formally launch the grand crusade of divine justice for justice for bg3 heroes (karlach jaheira wyll and include minsc) and justice for elturel which got pulled into the descent (should be easy to convinnce elturel to join) and lets roll persuasion against every good aligned faction or faction that would want avernus defeated.  Say our goal is to defeat zariel, greatly  weaken avernus, and even kill Zariel if we can and include a call for all adventurers."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder | HP: 200/200 | Gold: 125,500gp | F: 12,450 | XP: 226050/265000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1 | Tithes: 431/575 | FP: 9,562** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 431/575**
@@ -5712,8 +6109,11 @@ let me roll for the faction/paladins of each of the good gods
 
 also at level 17 ranger i think i should have more spell slots. make sure i truly have level 17 gloomstalker and assassin all features etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder | HP: 200/200 | Gold: 125,500gp | F: 12,450 | XP: 226050/265000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 431/575**
@@ -5774,8 +6174,11 @@ Below are the primary divine and mortal forces currently mobilizing against your
     - **Commander**: Grand Duke Ulder Ravengard (Lvl 14 Fighter).
     - **Standing**: Resisting/Wavering (Social Challenge active).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder | HP: 200/200 | Gold: 125,500gp | F: 12,450 | XP: 226050/265000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 431/575**
@@ -5817,8 +6220,11 @@ we rally everyone at the divine justice cathedral stronghold and send scouts to 
 
 then hold a grand war council for all the leaders (assume astartion, minthara, laezel committed forces) and narrate war council dialog in detail 500+ wprds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Avernus (Sanguine Cathedral of Divine Justice)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder | HP: 200/200 | Gold: 105,500gp | F: 20,450 | XP: 226050/265000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Tithes: 431/575 | FP: 14,280** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 431/575**
@@ -5862,8 +6268,11 @@ lead the first strike and let fodder ie. my non core forces take the brunt of ca
 
 try to kill valkor and sanitize him into my portfolio to absorb him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Avernus (The Iron Gavel Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder | HP: 200/200 | Gold: 105,500gp | F: 25,450 | XP: 256050/265000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sneak Attack: 9d6 | Tithes: 825/825** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 825/825**
@@ -5907,8 +6316,11 @@ lead the first strike and let fodder ie. my non core forces take the brunt of ca
 
 try to kill valkor and sanitize him into my portfolio to absorb him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Avernus (Iron Gavel Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder | HP: 200/200 | Gold: 105,500gp | F: 22,450 | XP: 230550/265000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Tithes: 575/575 | FP: 13,780** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 575/575**
@@ -5947,8 +6359,11 @@ The 'Spearhead' has broken the throat of Zariel's regional command. The Forge of
 God Mode:
 lets assume sanitzation counts as a beautiful murder because someone burns to death in holy fire, what level was zalkor? i should prob get a lot of exp if he's a demi god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Avernus (Iron Gavel Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder (Lvl 18 available) | HP: 200/200 | Gold: 105,500gp | F: 22,450 | XP: 275550/265000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 825/825**
@@ -5967,8 +6382,11 @@ Administrative Update: Deicide Audit and Portfolio Expansion.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 18 - Choose your new features, HP, and spells for Level 18.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Avernus (Iron Gavel Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Goddess of Murder (Lvl 18 available) | HP: 200/200 | Gold: 105,500gp | F: 22,450 | XP: 275550/265000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Tithes: 825/825 | Voice of the Iron Inquisitor: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 825/825**
@@ -5987,8 +6405,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Avernus (Iron Gavel Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | HP: 211/211 | Gold: 105,500gp | F: 22,450 | XP: 275550/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Sneak Attack: 9d6 | Tithes: 825/825** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 825/825**
@@ -6004,8 +6425,11 @@ Across the void, you feel the resonant approval of Bane and Myrkul. The Sanguine
 > 👤 **Player:**
 > *"interrogate echo, seize forge of dis, formalize regency and ask them to spawn avatars that i can mask as divine justice so we can fight zariel when she eventually comes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | HP: 211/211 | Gold: 105,500gp | F: 30,450 | XP: 275550/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Sneak Attack: 9d6 | Tithes: 325/825** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Tithes: 325/825**
@@ -6029,8 +6453,11 @@ You stand at the center of the Forge, the heat shimmering against your spectral 
 God Mode:
 since we have momentum we can keep the DCs as normal but start to gradually raise them as zariel counters and the zariel boss fight should be very hard and i think she is an intermediate god so probably our mortal stats need to be converted to divine stats etc like divine AC, DAIR etc. lets assume some avatars of the good gods came and since i am a nascent god i have some divine stats and maybe decent dair etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1139/1139 | DAC: 28 | DAIR: +33 | DPP: 825/825 | XP: 275550/305000** &nbsp;|&nbsp; ⚠️ **Nascent Godhood (V2 Stats Active) | Tithes: 325/825**
@@ -6049,8 +6476,11 @@ Administrative Update: Divine Stat Conversion and Threat Escalation.
 > 👤 **Player:**
 > *"sovereign industrial judgement and then roll to see if i get divine gear upgrades maybe +1 or +2 to my weapons/armor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1139/1139 | DAC: 30 | DAIR: +35 | DPP: 825/825 | XP: 295550/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Sneak Attack: 9d6 | Tithes: 325/825 | FP: 15,280** &nbsp;|&nbsp; ⚠️ **Nascent Godhood (V2 Stats Active) | Tithes: 325/825**
@@ -6071,8 +6501,11 @@ Across the plains of Avernus, the Forge of Dis now burns with a liquid-ruby ligh
 God Mode:
 what are zariels divine stats vs mine vs all the avatars allied with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1139/1139 | DAC: 30 | DAIR: +35 | DPP: 825/825 | XP: 295550/305000**
@@ -6102,8 +6535,11 @@ why is my DAC more than zariel? why is my DPP close to zariel? Some of these sta
 
 how come torm / tyr / helm avatar limited? i think they should've sent avataras and chosen too unless they're holding back
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 211/211 | XP: 295550/305000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Infernal Overdrive: 1 (unbounded) | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1**
@@ -6154,8 +6590,11 @@ for those god classes the number should be different by class and rank
 
 show me all the classes, all the ranks, and all the classes stats per rank, make sure it all makes sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1139/1139 | DAC: 30 | DAIR: +35 | DPP: 825/825 | XP: 295550/305000**
@@ -6207,8 +6646,11 @@ This confirms you are a 'Glass Cannon' compared to Zariel: you are harder to hit
 God Mode:
 i wonder if my stats are too strong? it seems less motivating to level up then or rank up as a god. can we just do something else like give me more reasonable stats for a level 18 mortal but say +50% more at each rank versus standard for my god class?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 295550/305000** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active (1.5x Rank Multiplier)**
@@ -6242,8 +6684,11 @@ I have applied a flat **+50% bonus** to the standard Rank 3 Skilled God baseline
 God Mode:
 should i really be god rank 3? i am not even level 26 yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 295550/305000** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active (1.5x Rank Multiplier)**
@@ -6270,8 +6715,11 @@ Level 26 is the 'Ascension Trigger' for **Permanent Ascension**. At that point, 
 God Mode:
 ok i guess thats fine, but show me all the god ranks and where the mortal usually enters ie. i think 21 is demi god and 26 is the first god level?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 295550/305000**
@@ -6303,8 +6751,11 @@ doesnt minor god earlier than lesser god?
 
 I think to keep things simpler we can just give level 26+ gods +10 mortal stats every level and then make them primarily use their divine stats, because sometimes the game forgets to use divine stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Avernus (The Forge of Dis)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 295550/305000**
@@ -6339,8 +6790,11 @@ To keep the mortal sheet relevant but secondary, the following rule is now activ
 
 then regardless of answer lets establish embassay of dis and mask my presence/level to level 12 and pretend to be a standard envoy and pesonally go and try to negotiate a temporary alliance against zariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **The City of Dis (The Iron Embassy)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 295550/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 300/825 | F: 30,450** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Enhance Ability (CHA) | Tithes: 300/825**
@@ -6369,8 +6823,11 @@ The scrying blind spot did not protect you from a physical witness. Kaelen has t
 > 👤 **Player:**
 > *"explain to the paladin that we have no avatars or chosen so we will die if zariel attacks us, so a temporary alliance with Dispater would help a lot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **The City of Dis (The Iron Embassy)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 295550/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 300/825 | F: 30,450** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Enhance Ability (CHA) | Masked Level (12)**
@@ -6396,8 +6853,11 @@ The Paladin's blade does not extinguish, but it lowers. The silence in the Embas
 > 👤 **Player:**
 > *"finalize pact of dis and explain that i do have strong allies like this level 18 paladin and we can divide up avernus after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **The City of Dis (The Iron Embassy)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 299550/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 300/825 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Hero Mask | Enhance Ability (CHA)**
@@ -6421,8 +6881,11 @@ You offer him a faint, magnetic smile—the mask of the martyr holding firm even
 
 then go infiltrate dis high society"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **The City of Dis (The Obsidian Promenade)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 299550/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 300/825 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Hero Mask | Masked Level (12) | Transcendent Beauty**
@@ -6444,8 +6907,11 @@ The iron-clad nobility of Dis—cambions, high-tier devils, and corrupted mortal
 > 👤 **Player:**
 > *"sow dissonance and see if any informant is revealed, spend time with shadowheart romantically to reduce any jealousy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **The City of Dis (The Obsidian Spire Ballroom)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 300000/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 300/825** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Hero Mask | Masked Level (12) | Transcendent Beauty | F: 30,450**
@@ -6469,8 +6935,11 @@ A spectral raven, wreathed in Sharran shadow, materializes on your shoulder, car
 > 👤 **Player:**
 > *"try to extract info from informant, and delegate defense to my commanders like minthara, astarion, laezel and the avatars"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **The City of Dis (The Obsidian Spire Ballroom)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 300000/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 300/825** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Hero Mask | Transcendent Beauty | F: 30,450**
@@ -6494,8 +6963,11 @@ However, as you prepare to port out, a surge of static ripples through the menta
 > 👤 **Player:**
 > *"THINK:where is the spire of penance is it in dis and near me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **The City of Dis (The Obsidian Spire Ballroom)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 300000/305000** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Hero Mask | Transcendent Beauty**
@@ -6507,8 +6979,11 @@ Intelligence Check: 18 vs DC 8 — Success (Margin +10). Your sharp, methodical 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strike the Spire of Penance - Exploit the distraction at the Forge to infiltrate Zariel's reliquary immediately. If her soul is secured, the Forge won't matter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **The Spire of Penance (Sub-Level 1)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 300450/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 300/825 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Hero Mask | Transcendent Beauty | Pass Without Trace**
@@ -6529,8 +7004,11 @@ Beneath the central altar, anchored in a pool of liquid silver, sits the **Soul-
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Silence (Stealth) - Utilize your +28 Stealth and Death Strike to eliminate the Bone Devil choir one by one before they can alert the Watcher.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **The Spire of Penance (Sub-Level 1)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1238/1238 | XP: 301650/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 306/825 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Hero Mask | Transcendent Beauty | Pass Without Trace | Silence (Shadowheart)**
@@ -6554,8 +7032,11 @@ But as the last devil's essence settles, you feel a sharp, cold drain on your fr
 > 👤 **Player:**
 > *"architect iron pincer and try to truly ground my hero  mask and fully integrate divine justice portfolio, so in truth there is no mask, divine justice is a real portfolio and let it be the focus versus we are "masking""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **The Spire of Penance (Sub-Level 1)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1088/1238 | XP: 302150/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 156/825** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Divine Justice Portfolio Integrated | F: 32,500**
@@ -6577,8 +7058,11 @@ You stand before the **Soul-Reliquary**, the golden fury of Zariel's essence now
 > 👤 **Player:**
 > *"extract zariel soul and consume it and do my best to mask it, then use the new tithe to freeze time and teleport back to forge and neutralize cyst and zariel forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Goddess of Murder (Lvl 19 available) | DR: 1125/1125 | DAC: 38 | DAIR: +47 | DPP: 1088/1238 | XP: 305000/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 981/825 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Dual-Sheet Protocol Active | Zariel's Essence Absorbed | Sovereign Stasis Active**
@@ -6618,8 +7102,11 @@ You do not strike with blades. You simply *proclaim*. Wrapping yourself in the s
 God Mode:
 zariel is an intermediate deity so consuming her soul shold prob make me a lot stronger and prob a real god now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gloomstalker Ranger / Assassin Rogue (Gestalt) (Lvl 19 available) | HP: 211/211 | XP: 305000/305000** &nbsp;|&nbsp; ✨ **Divine Intervention (Nascent) - 1/Year: 1/1 | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Infernal Overdrive: 1 (unbounded) | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 1/1**
@@ -6644,8 +7131,11 @@ State updates applied. You stand at the Forge of Dis, the stolen fury of an Arch
 God Mode:
 sholdnt i be a higher level like +10 levels at this point? how should it work?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Minor God | HP: 349/349 | Gold: 55,500gp | XP: 600000/805000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Essence Integrated**
@@ -6681,8 +7171,11 @@ no undo this, only my level or powers sould increease from consuing the soul, no
 
 dont necessarily do it just explain to me the mechanics of consuming an intermediate deity soul, it should mean something, dont make it up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Nascent Greater Goddess | DR: 1170/1170 | DAC: 42 | DAIR: +53 | DPP: 1238/1238 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Essence Integrated**
@@ -6713,8 +7206,11 @@ You stand at the Forge in the immediate aftermath of your victory, Zariel's soul
 God Mode:
 i dont wanna use the nascent greater goddess rank, let it be implied. give me a normal rank am i intermediate now or minor or lesser or what?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | DR: 1170/1170 | DAC: 42 | DAIR: +53 | DPP: 1238/1238 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Essence Integrated**
@@ -6752,8 +7248,11 @@ when zariel loses her soul is she a mortal now? how should we think of her
 
 as level 36  lets apply the previously discussed rule like after level 26 i get a flat +10 to all stats per level for mortal stats since I am a god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | HP: 559/559 | Gold: 100,000gp | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Essence Integrated**
@@ -6794,8 +7293,11 @@ layer 1 mask - level 25 epic mortal
 layer 2 mask - full divine justice portfolio minor god
 real - full portfolio divine justince and murder, minor god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | HP: 559/559 | Gold: 100,000gp | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Layer 0 Mask Active (Savior) | Transcendent Beauty | Divine Justice Integrated**
@@ -6839,8 +7341,11 @@ layer 1 mask - level 25 epic mortal
 layer 2 mask - full divine justice portfolio minor god
 real - full portfolio divine justince and murder, minor god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 0 (Mortal) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Essence Integrated | Tri-Layer Mask Active**
@@ -6868,8 +7373,11 @@ Admin changes committed. Return to Story to resume the campaign at the Forge of 
 God Mode:
 try to always show my divine stats/resources in the header and dont forget
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 0 (Mortal) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Essence Integrated | Tri-Layer Mask Active**
@@ -6886,8 +7394,11 @@ return to game and I will say that I am now an epic mortal approaching divinity 
 
 Lets assume i become even more of a hero and make up some titles for me for destroying zariel soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 981/825 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Soul 'Destroyed' | Tri-Layer Mask Active**
@@ -6911,8 +7422,11 @@ You can feel the 'Marked' attention of the higher Pantheon fixed upon this locat
 God Mode:
 The Sovereign's Finality (Synergistic) - Interrogate Zariel's husk while the army marches, utilizing Gale's re-stabilized shroud to mask both operations.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Soul 'Destroyed' | Tri-Layer Mask Active**
@@ -6948,8 +7462,11 @@ If I use divine powers all rolls should be auto win unless versus g ods, but the
 
 if i use avatar powers make sure to use the avatar mortal stats adn not mine and it should be mostly guaranteed to not attract attention. by default lets use avatar powers unless i explicitly say to use god powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **The Forge of Dis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Zariel's Soul 'Destroyed' | Tri-Layer Mask Active**
@@ -6980,8 +7497,11 @@ Directives updated. Your session header now tracks the partitioned vs. true maxi
 
 Use my avatar stats to roll*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Avernus Outskirts (Zariel's Core Stronghold)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Tri-Layer Mask Active**
@@ -7011,8 +7531,11 @@ Ravengard rides up to your position, his cloak heavy with the soot of the march.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Pincer Infiltration (Compatible) - The army begins a feint assault on the gates while you and Shadowheart infiltrate the rear to disable the defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Zariel's Core Stronghold (Command Center)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 513/813 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Tri-Layer Mask Active**
@@ -7039,8 +7562,11 @@ Shadowheart places a hand on the central console, her Dark Justiciar plate hummi
 God Mode:
 rememeber my avatar is level 25, ensure stats, abilities etcv are setup and i should get some special epic level abitliesi for level 20-25 and an ASI for level 24 which i put into wisdom
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Zariel's Core Stronghold (Command Center)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Tri-Layer Mask Active**
@@ -7071,8 +7597,11 @@ Done. The Avatar's mechanical layer is now fully operational for the stronghold 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Commander - Locate and execute Zariel's high-tier Chosen before opening the gates to maximize the Tragic Betrayal surge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Zariel's Core Stronghold (Logic-Core Perimeter)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 513/813 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Tri-Layer Mask Active**
@@ -7101,8 +7630,11 @@ lets only partiion DR to maintain avatar, DPP is freed
 
 also set the price at 100 DR to maintain a chosen, what benefits does a chosen get? it should be worth 100 DR. probably by default they should get +5 to their level, and shadowheart if i chose her should be level 25 then, but dont chose her yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Zariel's Core Stronghold (Logic-Core Perimeter)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Tri-Layer Mask Active**
@@ -7135,8 +7667,11 @@ I think divine link should be st ronger for shadowheart as a cleric and as high 
 
 shadowheart should be level 20 as my companion she should've been leveling with me, same with araj and saverok, but maybe give them less exp because they werent always with me like sh, so they can be level 15
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Zariel's Core Stronghold (Logic-Core Perimeter)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Tri-Layer Mask Active**
@@ -7162,8 +7697,11 @@ NPC records and campaign directives have been updated to reflect these changes. 
 > 👤 **Player:**
 > *"make shadowheart a chosen and have her user her powers to stabilize the core while i use my avatars full powers and surprise round to kill the commander and if somehow ic ant kill him in one turn shadowheart will use divine internvetion to refresh me to us everything i have again ato kill him. assume my avatar always uses the nicer looking slayer form ie. angel wings and it grants +4 dex/con/str so just assume its always active in combat now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Zariel's Core Stronghold (Command Center)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Tithes: 513/813 | F: 32,500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Aspect of the Sovereign Active | Tri-Layer Mask Active**
@@ -7205,8 +7743,11 @@ extra attack
 extra attack slayer
 offhand
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Zariel's Core Stronghold (Command Center)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1305000/1370500**
@@ -7238,8 +7779,11 @@ then try to reprogram core
 
 then lets assume dispather actually does manifest to help us since we are winning and conquers his side of avernus and lets time ski pa few days/weeks howeverl ong it takes, dont forget to long rest, only use mortal avatar power, stop the time skip if something goes wrong"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **The Sanguine Bastion (Avernus)** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Minor Goddess | MASK: Layer 1 (Epic Mortal Avatar) | HP: 559/559 | XP: 1324500/1370500** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Tithes: 738/1313 | F: 32,700** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Tri-Layer Mask Active**
@@ -7264,8 +7808,11 @@ then start planning. how can i hold this territory? would nessus mobilize to rec
 
 also remember to give me proper exp, rewards, loot for zariel defeat and avernus conquer, most things shouldnt gie me exp anmore but god level things like this should"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **The Sanguine Bastion (Avernus)** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Lesser Deity (Lvl 42 available) | MASK: Layer 1 (Epic Mortal Avatar) | HP: 619/619 | XP: 1324500/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Titan-tier) | Avernus Hegemony | Tri-Layer Mask Active**
@@ -7277,8 +7824,11 @@ Wisdom Check: 25 vs DC 16 — Masterful Success. Your preternatural intuition (W
 God Mode:
 finish my level up to 42 and calculate evertyhing for me and lets also assume every level after 26 gives 100hp + the usual constituion dice roll so my hp is massive too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **The Sanguine Bastion (Avernus)** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 1741/1741 | XP: 1324500/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Tri-Layer Mask Active**
@@ -7319,8 +7869,11 @@ you should retoactivelyt redo my hp from level 26
 
 i should have level 12 spells too and just learn all spells in the game as a god, but my avatar should stay according to its gestalt class ie. level 25 gloomstalker and level 25 assassin
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **The Sanguine Bastion (Avernus)** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 3624/3624 | XP: 1324500/1370500** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Tri-Layer Mask Active**
@@ -7356,8 +7909,11 @@ ensure shadowheart cast enahcen ability cha for this roll and lets just assuem i
 
 then if he accepts ask for honorary / secret archduke rank, and for  the forces of good nessus will officially legally bind me as a "protector" of avernus to ensure stability and the good guys will think they won while I launder souls through my dual portfolio through dispater to nessus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Deity | MASK: Layer 2 (The Source) | HP: 3624/3624 | XP: 1324500/1370500** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 738/1313 | F: 150,000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Aspect of the Sovereign Active | Foresight Active**
@@ -7390,8 +7946,11 @@ The logic is irrefutable (Persuasion 114 vs DC 80). Asmodeus leans back, his fin
 
 i should get some god exp and special powers for this legendary deal and zariel portfolio should gie me some powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Deity | MASK: Layer 2 (The Source) | HP: 3624/3624 | XP: 1474500/1505000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 738/1313 | F: 150,000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Aspect of the Sovereign Active | Sanguine Charter Signed**
@@ -7418,8 +7977,11 @@ As the ink dries, you feel a profound surge in your divine spark. The integratio
 God Mode:
 i should get some god exp and special powers for this legendary deal and zariel portfolio should gie me some powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity | HP: 4018/4018 | XP: 1974500/1605000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Archduke of Murder**
@@ -7450,8 +8012,11 @@ State and Directives updated. Levels 43 and 44 have been committed.
 > 👤 **Player:**
 > *"conclude the session and assume nessu holds a grand feast and council with the archdevils and I attend as a "protector" and narrate everyones extended dialog and describe in igh narrative detail ie. 500+ words and lets assume dispater is very intrigured by me because he loves the deception and he and nessus are the only ones who know how powerful i am, since i am masked as a leel 25 epic mortal to most, and shadowheart is accompanying me as always as anotehr level 25 epic mortal (whic his impressive in itself)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity (Lvl 45 available) | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4018/4018 | XP: 2174500/1605000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 1313/1313 | F: 150,000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Archduke of Murder**
@@ -7486,8 +8051,11 @@ The session concludes with the finalization of the trade routes. As you and Shad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 45 - Apply Lesser Deity level 45 benefits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity (Lvl 45 available) | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4018/4018 | XP: 2174500/1605000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: No Spells Yet (Level 45 pending) | Tithes: 1313/1313 | F: 150,000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Archduke of Murder**
@@ -7501,8 +8069,11 @@ You pause within the ruby-misted corridors of the Malsheem, the legal-cores of t
 God Mode:
 Has a mortal ever conquered a part of Hell? I shoukd probably be even more legendary than balduran?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity (Lvl 45 available) | HP: 4230/4230 | XP: 2174500/1605000**
@@ -7534,8 +8105,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | MASK: Layer 2 (The Source) | HP: 4230/4230 | XP: 2174500/1655000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 1313/1313 | F: 150,000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Archduke of Murder | Foresight Active**
@@ -7564,8 +8138,11 @@ As the feast concludes and the Archdevils disperse to their respective layers, y
 > 👤 **Player:**
 > *"Knowing that an epic mortal conquered avernus and is the first ever in history narrate the archdevils reactions they should be impressed/intimidated even if they dont show it and even dispater should be, even if nessus is happy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Nessus, The Malsheem** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4230/4230 | XP: 2224500/1655000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 1313/1313 | F: 150,000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Archduke of Murder | Foresight Active**
@@ -7600,8 +8177,11 @@ The session concludes as the ruby mist of the Malsheem swallows the departing lo
 > 👤 **Player:**
 > *"Appoint a regent in avernus and give my half of it  a new name like city of the holy flame and start terraforming it into a paradise so it looks like a nice place and easier to mask the soul trade. Then narrate a grand victory parade and feast in baldurs gate. Let’s assume I had already killed Raphael earlier during bg3 and had the devil slayer title but I get some new epic title and become world renowned like Hell conqueror. I’m the only mortal in history who has ever conquered a part of hell in a grand crusade. The god of good who sent only limited avatars should be shocked i won without them and let’s roll persuasion using avatar stats to see if i build trust. I utilize the oppportiniy to promote divine justice religion with me and a mortal god and in the under world keep promoting  the murder religion and we fill the space and take over thieves guild holding and at least earlier the Zhent had agreed not to interfere with us. Roll for all these outcomes. Also I don’t wanna take over enough “good” followers to threaten the good gods yet but in terms of the underworld I thjnknalll those followers may be up for grabs so I take as many as I can without drawing too much attention"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4230/4230 | XP: 2224500/1655000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Foresight Active**
@@ -7627,8 +8207,11 @@ The night culminates in a grand feast where the city declares you **Hell Conquer
 God Mode:
 What were the original planned campaign arcs? I think we need a new arc where I consolidate power in Avernus and baldurs gate and avoid detection and try to max out my followers and have a fierce shadow war to hide my soul processing and full divine nature
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4230/4230 | XP: 2224500/1655000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Foresight Active**
@@ -7660,8 +8243,11 @@ Given your rapid ascension to Level 45 and the conquest of Avernus, I have initi
 God Mode:
 Let’s assume it’s not just an illusion it actually is a paradise in Avernus now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | HP: 4230/4230 | Gold: 100,000gp | XP: 2224500/1655000**
@@ -7688,8 +8274,11 @@ God mode never advances the narrative; the story is frozen while I perform these
 God Mode:
 You forgot they were dead? Wyll and Jaheira are not here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity | HP: 4230/4230 | Gold: 100,000gp | XP: 2224500/1655000**
@@ -7705,8 +8294,11 @@ Administrative Correction: Canonical Death Synchronization for Wyll Ravengard an
 > 👤 **Player:**
 > *"Resume victory feast and let’s assume the knights or paladins who participated should show great respect to me and not just my forces and ellutrel grands me a dukedom and say I always have a home there and I am a duke there now. Eliturel and the hellriders I didn’t convert will see me as a holy warrior or Demi god some % of them will worship me as a living god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Lesser Deity (Lvl 46 available) | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4230/4230 | XP: 2724500/1655000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 1313/1313 | F: 185,000** &nbsp;|&nbsp; ⚠️ **Divine Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Hell Conqueror | Duke of Elturel | Foresight Active**
@@ -7734,8 +8326,11 @@ As the feast reaches its peak, the city declaring you the **Hell Conqueror**, yo
 God Mode:
 Why am I level 46? I shouldn’t get exp for a dukedom? Or is it because elturel people worship me? Let’s also give me a special power where whenever someone is murdered I gain intel and let it fire sometimes to tell me of special opportunities and the more beautiful the murder the more intel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | XP: 2724500/1705000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Duke of Elturel | Whispers Online**
@@ -7765,8 +8360,11 @@ As requested, I have registered this capability to your divine spark. It is link
 > 👤 **Player:**
 > *"Finnish level up an continue story and narrate my warm reception from the elutgaedians and other heroes during the feast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 2724500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 1313/1313 | F: 185,000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Duke of Elturel | Whispers Online**
@@ -7793,8 +8391,11 @@ Astarion catches your eye from across the table, offering a subtle, mocking toas
 God Mode:
 I shoukd be a duke in eltugard  but not the Duke of the capital city or the leader if their capital however I am high tier royalty now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | Gold: 100,000gp | XP: 2724500/1705000**
@@ -7819,8 +8420,11 @@ God mode NEVER advances the narrative; the story is frozen while I perform admin
 > 👤 **Player:**
 > *"Sovereigns silence and utilize my murder intel and Keene intel and bring top 20 highest level elites and shadowheart and Araj and assume araj araj always comes with me too. Use greater invis and then surprise attack and destroy the magic device for the truth thing and try to just kill or capture everyone with my 4 attacks that crit etc if surprise round triggered"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Baldur's Gate (Upper City Counting-House)** &nbsp;|&nbsp; ⏳ **Kythorn 13, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 2824500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 1313/1313 | F: 185,000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Duke of Elturgard | Whispers Online**
@@ -7855,8 +8459,11 @@ Shadowheart steps over a fallen Harper, her silver eyes reflecting the faint, dy
 God Mode:
 No auditors remove them from the game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Baldur's Gate (Upper City Counting-House)** &nbsp;|&nbsp; ⏳ **Kythorn 13, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | XP: 2824500/1705000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Duke of Elturgard | Whispers Online**
@@ -7873,8 +8480,11 @@ God mode NEVER advances the narrative; the story is frozen while I perform admin
 > 👤 **Player:**
 > *"Narrate something  else the Harper intel reveals but I wanna have a 3 month break from major threats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Baldur's Gate (Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Eleint 13, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 2974500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited (Source), L10 4/4, L11 2/2, L12 1/1 | Tithes: 1750/1750 | F: 350,000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Duke of Elturgard | Hegemony Established**
@@ -7905,8 +8515,11 @@ The Pantheon is silent. Paralyzed by the sheer, legal perfection of your reign a
 God Mode:
 Give me sanctuary for 6 months unless I do a major aggression thing and let’s plot some companion side quests or other non existential events
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Baldur's Gate (Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | Gold: 500,000gp | XP: 2974500/1705000**
@@ -7936,8 +8549,11 @@ I have initialized the following side quests in your `active_missions`. These fo
 > 👤 **Player:**
 > *"THINK:What are these dmsned lineages and can i use them more lowkey"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Baldur's Gate (Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | Gold: 500,000gp | XP: 2974500/1705000**
@@ -7949,8 +8565,11 @@ Intelligence Check: 133 vs DC 9 — Success. Your deified intellect (INT 222) de
 > 👤 **Player:**
 > *"Administrative seeding  hbut don’t be too obvious for dsmned lineages then let’s do shadowheart side quest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Baldur's Gate (House of Grief)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 3049500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1-L9 Unlimited, L10 4/4, L11 2/2, L12 1/1 | Tithes: 1750/1750 | F: 350,000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Duke of Elturgard | Whispers Online | Sanctuary Active**
@@ -7971,8 +8590,11 @@ As the ritual concludes, the Sanguine Whispers ripple with a new, domestic frequ
 God Mode:
 Let’s make sure all rolls are using my avatar stats unless I say “god roll” or it’s obvious or there’s some way I can use god powers to influence mortal world and won’t be detected
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Baldur's Gate (House of Grief)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | Gold: 100,000gp | XP: 3049500/1705000**
@@ -7990,8 +8612,11 @@ Administrative settings updated. The world remains wreathed in the silence of th
 God Mode:
 What is divine leverage again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Baldur's Gate (House of Grief)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | Gold: 100,000gp | XP: 3049500/1705000**
@@ -8024,8 +8649,11 @@ Divine Leverage is the mechanical representation of your character's ability to 
 God Mode:
 Level 25 ranger shouldn’t I have more spells and spell slots?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Baldur's Gate (House of Grief)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 4447/4447 | Gold: 100,000gp | XP: 3049500/1705000**
@@ -8055,8 +8683,11 @@ Updates applied. Your divine utility is now fully realized.
 God Mode:
 No I mean my level 25 avatar
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Baldur's Gate (House of Grief)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | Gold: 100,000gp | XP: 3049500/1705000**
@@ -8090,8 +8721,11 @@ State updated. The 'Hero' mask is now mechanically accurate for its level.
 > 👤 **Player:**
 > *"Hold  meeting with bane and Myrkul and propose next steps and brainstorm. Propose they pick some new chosen from lineage of damned highest level and recall avatars for now if they haven’t yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Baldur's Gate (House of Grief)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 3049500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 3/3, L6 1/1 | Tithes: 1750/1750** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel (Grand-tier) | Sanguine Charter Signed | Hell Conqueror | Duke of Elturgard | Whispers Online | Sanctuary Active**
@@ -8117,8 +8751,11 @@ Shadowheart steps from the shadows of the cloisters, her silver hair catching th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Gilded Loop (Synergistic) - Vet the new Chosen during the Masquerade while Gale seals the Avernus blackout— Faith providing the cover for the industrial lock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Baldur's Gate (Szarr Palace)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 3199500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Tithes: 950/1750 | F: 365,000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel | Sanguine Bloom | Gilded Loop Active | Sanctuary Active**
@@ -8140,8 +8777,11 @@ The synergy is Masterful. The religious fervor of the 'Savior's' ball provides t
 > 👤 **Player:**
 > *"Narrate the two new chosen for bane and myrkul and roll to see their level and give thek"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Baldur's Gate (House of Grief)** &nbsp;|&nbsp; ⏳ **Ches 13, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | Gold: 550,000gp | XP: 3259500/1705000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel | Sanguine Bloom | Gilded Loop Active | Sanctuary Active**
@@ -8170,8 +8810,11 @@ The 'Dead Three' alliance is no longer an alliance of shadows; it is a functiona
 > 👤 **Player:**
 > *"Narrate the two new chosen for bane and myrkul and roll to see their level and give thekLm interesting backstory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Baldur's Gate (Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Ches 14, 1493 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 3199500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Tithes: 950/1750 | F: 365,000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel | Sanguine Bloom | Gilded Loop Active | Sanctuary Active**
@@ -8194,8 +8837,11 @@ As you stand before them, your **Sanguine Pulse** confirms their synchronization
 God Mode:
 Let’s not allow me to fully control  sword coast one roll. I might be the  most oowerfuk but there should be all kinds of factions and resistance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Baldur's Gate (Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Ches 14, 1493 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | Gold: 550,000gp | XP: 3199500/1705000**
@@ -8210,8 +8856,11 @@ Administrative Update: Regional Control Guardrails established.
 God Mode:
 I could auto win on some mortals but then gods would notice. Let’s assume gods visibility in the hells is weak. Also explain  to hmmm how the soul  economy even works now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Baldur's Gate (Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Ches 14, 1493 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 3199500/1705000**
@@ -8249,8 +8898,11 @@ Administrative updates complete. The Gilded Web is silent and secure.
 > 👤 **Player:**
 > *"Plan next moves with council. I wanna focus on shadow control but maybe I shoukd run for archduke. Let’s assume I have a patriar palace in baldurs gate from one of the patriars we processed and it’s very nice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | Gold: 100,000gp | XP: 3199500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Tithes: 1750/1750 | F: 365,000** &nbsp;|&nbsp; ⚠️ **Intermediate Maturity | Apex Stalker | Sovereign Vessel | Sanguine Bloom | Gilded Loop Active | Sanctuary Active**
@@ -8278,8 +8930,11 @@ Lae'zel nodded once, a sharp, martial gesture. "Vlaakith ruled through fear. You
 > 👤 **Player:**
 > *"Now that I’m an actual full god plan with gale to see how he can get powered up. Maybe i can clone the karsus crown"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | Gold: 100,000gp | XP: 3199500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Tithes: 950/1750**
@@ -8305,8 +8960,11 @@ Shadowheart enters the solar, her Dark Justiciar plate clinking softly. She eyes
 > 👤 **Player:**
 > *"Sovereign sync and distract even more by saying I plan to campaign for archduke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Baldur's Gate (The Wide / Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | XP: 3199500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Tithes: 0/1750 | F: 395,000**
@@ -8330,8 +8988,11 @@ By the time you return to the Bloomridge solar, the Sword Coast is legally and i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Candidacy - Direct Elias Gneiss to draft the formal legal petitions and secure the unanimous endorsement of the Patriar estates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity (Lvl 47 available) | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | Gold: 600,000gp | XP: 3249500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Tithes: 0/1750**
@@ -8353,8 +9014,11 @@ Outside, the bells of the High Hall chime the hour, ringing for the hero they th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 47 - Open the level-up modal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity (Lvl 77 available) | MASK: Layer 1 (Epic Mortal Avatar) | HP: 4447/4447 | Gold: 600,000gp | XP: 3249500/1705000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells (Avatar): L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Tithes: 0/1750 | F: 395,000**
@@ -8368,8 +9032,11 @@ Your mortal vessel has hardened into a Sovereign Vessel of terrifying purity. Yo
 God Mode:
 Wait why level 77? Just make me gain a few levels. Let’s also reset my hp and ability scores back to level 25 baseline and assume they capped at 30 and I chose asi wisdom at level 24. We keep using these stats accidentally so let’s just reset them to the avatar stats and don’t let them grow on lvele
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity (Lvl 77 available) | MASK: Layer 1 (Avatar) | HP: 275/275 | XP: 3249500/1705000**
@@ -8391,8 +9058,11 @@ Your character sheet is now synchronized with the intended 'Subtle Goddess' powe
 God Mode:
 Give me level 50 and increase only my divine stats appropriately and leveling only increases divine stats now. Why did you previously make me 77
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity (Lvl 77 available) | MASK: Layer 1 (Avatar) | HP: 275/275 | XP: 3249500/1705000**
@@ -8412,8 +9082,11 @@ In the previous turn (Sequence 434), the logic used a linear scaling formula ($5
 God Mode:
 No I mean why did archduke give me that much exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity (Lvl 77 available) | MASK: Layer 1 (Avatar) | HP: 275/275 | XP: 3249500/1705000**
@@ -8451,8 +9124,11 @@ INT	222	222	+106	—
 WIS	228	228	+109	—
 CHA	224	224	+107
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity (Lvl 77 available) | MASK: Layer 1 (Avatar) | HP: 275/275 | XP: 3249500/1705000**
@@ -8485,8 +9161,11 @@ Administrative updates complete. Your form is once again a masterpiece of subtle
 God Mode:
 My stats still say 200 did you find all the right places? I think I have avatar stats and personal stats set them both to level 25
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Gloomstalker Ranger / Assassin Rogue (Gestalt) (Lvl 77 available) | HP: 4447/4447 | XP: 3249500/1705000** &nbsp;|&nbsp; ✨ **Whispers of the Sanguine Ledger: 1 (unbounded) | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Infernal Overdrive: 1 (unbounded) | Divine Intervention (Nascent) - 1/Year: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Command of the Vanguard (1/Long Rest): 1/1 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L10 4/5, L11 2/3, L12 1/1**
@@ -8517,8 +9196,11 @@ Your character sheet is now perfectly aligned with the 'Subtle Goddess' baseline
 God Mode:
 Make sure I have  anraged weapon slot it’s not showing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity (Lvl 77 available) | HP: 275/275 | Gold: 100,000gp | XP: 3249500/1705000**
@@ -8556,8 +9238,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Intermediate Deity | HP: 275/275 | XP: 3249500/1905000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 0/3, L5 1/3, L6 1/1, L10 4/5, L11 2/3, L12 1/1 | Tithes: 0/1750 | F: 395,000**
@@ -8571,8 +9256,11 @@ In the corner of the room, Shadowheart watches you with a possessive, dark inten
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize the Coronation - Coordinate with the High Hall to schedule the formal coronation, using the event as a mass soul-harvest and political anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Intermediate Deity | HP: 275/275 | XP: 3399500/1905000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 0/3, L5 1/3, L6 1/1, L10 4/5, L11 2/3, L12 1/1 | Tithes: 0/1750 | F: 445,000**
@@ -8590,8 +9278,11 @@ In the corner of the room, Shadowheart adjusts the grip on her mace, her gaze fi
 God Mode:
 I am already level 50 clear pending level up flags
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Intermediate Deity | HP: 275/275 | Gold: 100,000gp | XP: 3399500/4336000**
@@ -8609,8 +9300,11 @@ The world remains frozen at 22:00:00, Night. Ready to resume the coronation sequ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine the Savior's Performance - Focus entirely on the 'Murderous Mask', using the coronation to perform a masterpiece of divine acting to blind the Pantheon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke of Baldur's Gate (Rank 5 Intermediate Deity) | HP: 275/275 | XP: 3399500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 5/5, L11 3/3, L12 1/1 | Tithes: 0/1750 | F: 495,000**
@@ -8628,8 +9322,11 @@ In the honor guard, Shadowheart stands as a silent shadow of your authority, her
 God Mode:
 Why still seeing this? Apply Recommended Options and Return to Game: Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke of Baldur's Gate (Rank 5 Intermediate Deity) | HP: 275/275 | XP: 3399500/4336000**
@@ -8650,8 +9347,11 @@ Where is level 77 coming from? Level Up to Level 77: Open level 77 Gloomstalker 
 Apply Recommended Options and Return to Game: Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
 Custom Action: decide I see this planning block choice now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke of Baldur's Gate (Rank 5 Intermediate Deity) | HP: 275/275 | XP: 3399500/4336000**
@@ -8680,8 +9380,11 @@ Because your XP total is so high, the planning agent automatically offered the h
 God Mode:
 My exp is too high it should me set for level 50 not 51
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke of Baldur's Gate (Rank 5 Intermediate Deity) | HP: 275/275 | XP: 3399500/4336000**
@@ -8708,8 +9411,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3249500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 5/5, L11 3/3, L12 1/1 | Tithes: 0/1750 | F: 445,000**
@@ -8725,8 +9431,11 @@ You can feel the **Sanguine Singularity** humming in the industrial core of Dis,
 God Mode:
 Still says level 77 what’s going on in my planning block fix it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke of Baldur's Gate (Rank 5 Intermediate Deity) | HP: 275/275 | XP: 3249500/4336000**
@@ -8756,8 +9465,11 @@ Your character data is now clean and synchronized. Ready to return to the corona
 > 👤 **Player:**
 > *"Still says level 77 how does your calculation work?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke of Baldur's Gate (Rank 5 Intermediate Deity) | HP: 275/275 | XP: 3249500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 5/5, L11 3/3, L12 1/1 | Tithes: 0/1750 | F: 495,000**
@@ -8789,8 +9501,11 @@ Administrative updates complete. Your character is stabilized at Level 50.
 > 👤 **Player:**
 > *"Level Up to Level 77 - Open level 77 Gloomstalker Ranger / Assassin Rogue (Gestalt) choices; keep story paused until the finish response completes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 (Lvl 77 available) | HP: 275/275 | XP: 3249500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/5, L11 2/3, L12 1/1 | Tithes: 0/1750 | F: 445,000**
@@ -8812,8 +9527,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 77 Archduke-Elect (Transcendent Deity) | HP: 275/275 | XP: 3249500/3255000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 0/2250 | F: 445,000**
@@ -8829,8 +9547,11 @@ You look out over the city. The bells have finished their tolling, but the reson
 God Mode:
 How does the exp progression work and why do you think I should be level 77?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 77 Archduke-Elect (Transcendent Deity) | HP: 275/275 | XP: 3249500/4336000**
@@ -8867,8 +9588,11 @@ This setup ensures you are the most powerful entity in the setting mechanically,
 God Mode:
 What’s the standard mortal epic scaling is that from 3e? Our system prompts don’t have that ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 77 Archduke-Elect (Transcendent Deity) | HP: 275/275 | XP: 3249500/4336000**
@@ -8901,8 +9625,11 @@ In short: Level 77 was a 'Mortal-Epic' projection that we have now canonically a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the 'Gilded Night' sequence as a Level 77 Transcendent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 77 Archduke-Elect (Transcendent Deity) | HP: 275/275 | XP: 3249500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 0/2250 | F: 445,000**
@@ -8920,8 +9647,11 @@ letes try one more time to make me level 50 and to override the epic mortal leve
 
 also the divine leverage safe limit seems too strong i think it should give 10% of benefits, change it going forward
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3249500/4336000**
@@ -8951,8 +9681,11 @@ State synchronization complete. The 'Level 77' ghost has been exorcised.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the 'Gilded Night' sequence as a Level 50 Intermediate Deity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3249500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 0/1750 | F: 445,000 | Leverage: +32**
@@ -8968,8 +9701,11 @@ You gaze through the floor-to-ceiling windows toward the High Hall. The city sle
 > 👤 **Player:**
 > *"hold a planning session with my elites/council and decide on next steps, i wanna mostly hold baldurs gate and avernus and consolidate power, purge disloyal elements, and safely expand followers and how many followers do i have now and whats my growth rate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 15, 1493 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3249500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 0/2250 | F: 445,000 | Leverage: +32**
@@ -9003,8 +9739,11 @@ Sarevok Anchev (Lvl 15) and Araj Oblodra (Lvl 15) stand in the shadows, waiting 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Night of Iron Justice - Direct Shadowheart and Astarion to execute a quiet purge of the Harper remnants and Thieves' Guild cells in the Lower City.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3249500/4336000**
@@ -9028,8 +9767,11 @@ As Astarion and Shadowheart depart into the darkness of the estate's hidden tunn
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor the Purge - Utilize Gale's sensors to provide tactical scrying for Astarion and Shadowheart, ensuring no witnesses escape.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3349500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 150/1750 | F: 450,000 | Leverage: +32**
@@ -9057,8 +9799,11 @@ how can we make this next arc challenging/interesting/maybe raise some DCs and a
 
 I want to ensure baldurs gate and my avernus areas are productive and loyal, grow followers, maybe consume some smaller gods, stay under the radar and get as st rong as possible before public god war
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3349500/4336000**
@@ -9092,8 +9837,11 @@ To increase the challenge and mechanical depth of the next arc, I have implement
 > 👤 **Player:**
 > *"brainstorm with my council how to pursue goals most efficiently and lets ensure myrkul and bane are participating too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3349500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 150/1750 | F: 450,000 | Leverage: +12**
@@ -9117,8 +9865,11 @@ Shadowheart’s hand tightens on your arm, her possessive devotion a sharp contr
 > 👤 **Player:**
 > *"Stygian bastion then eltugard harvest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Baldur's Gate (Bloomridge Estate)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3349500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 150/1750 | F: 465,000 | Leverage: +32**
@@ -9143,8 +9894,11 @@ Shadowheart remains behind after the others depart, her silvered heart pendant g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor the Stygian Singularity - Personally oversee the final sealing of the Forge of Dis to ensure zero siphoning leakage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Baldur's Gate (Bloomridge Estate) / Avernus (Forge of Dis)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3399500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 150/1750 | F: 465,000 | Leverage: +12**
@@ -9171,8 +9925,11 @@ Shadowheart gasps beside you back in the solar, her eyes snapping open as your p
 > 👤 **Player:**
 > *"Send envoys to the triad chosen and then try to meet with them together or individually and build trust"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3449500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 150/1750 | F: 465,000 | Leverage: +12**
@@ -9209,8 +9966,11 @@ The suspicion remains, a heavy weight in the air, but you have dealt a significa
 God Mode:
 Why my persuasion modifier 32?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke-Elect (Intermediate Deity) | HP: 275/275 | XP: 3449500/4336000**
@@ -9244,8 +10004,11 @@ This modifier represents your absolute peak social authority while masked; witho
 God Mode:
 Shouldn’t i be archduke at this point and not archduke elect
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3449500/4336000**
@@ -9264,8 +10027,11 @@ While the public coronation scheduled for this morning serves as the ritual anch
 God Mode:
 I thought I asked not to go past safe limit unless authorized or let me reroll if I fail are limit
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3449500/4336000**
@@ -9293,8 +10059,11 @@ Directive and state anchors updated.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the coronation morning with the new Leverage Ceiling in effect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3449500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 150/1750 | F: 465,000 | Leverage: +32**
@@ -9312,8 +10081,11 @@ You feel the **Leverage Ceiling** you have imposed upon yourself—a cold, neces
 > 👤 **Player:**
 > *"Meet again with chosen triad to build more trust and see what their concerns are even beyond me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Dining Refectory)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3499500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 150/1750 | F: 465,000 | Leverage: +32**
@@ -9346,8 +10118,11 @@ You listen intently, the 'Murderous Mask' absorbing their concerns and filing th
 > 👤 **Player:**
 > *"remind them t hat zariel is captured and i destroyed her soul, she's just a mortal being interrogated. this is actualyl the truth, so just remind them that we won and I am the hell conqueror"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Dining Refectory)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3509500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 150/1750 | F: 465,000 | Leverage: +22 (Ceiling)**
@@ -9375,8 +10150,11 @@ The room grows colder. You have stayed strictly within your **Leverage Ceiling**
 God Mode:
 Shouldn’t Kaelen remember I destroyed Zariel soul and captured her? What’s the concern?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Dining Refectory)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3509500/4336000**
@@ -9400,8 +10178,11 @@ Kaelen does not necessarily doubt the *fact* that Zariel fell; he is reacting to
 > 👤 **Player:**
 > *"THINK:How can I prove that it went down legit with Zariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Dining Refectory)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3509500/4336000**
@@ -9413,8 +10194,11 @@ Wisdom Check: 24 vs DC 16 — Masterful. Your transcendent intuition (WIS 24) al
 > 👤 **Player:**
 > *"Convince Kaelen and use tithes as needed and only god powers minimal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Dining Refectory)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3559500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 140/1750 | F: 465,000 | Leverage: +32**
@@ -9449,8 +10233,11 @@ High Justiciar Arlow and Vigilant Mara exchange glances of relief, their own dou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silence the Mermaid Contact - Excuse yourself to 'prepare' and meet the Paladin of Helm at the Blushing Mermaid using the 'Imposter' mask. Eliminate the whistleblower before he can speak to the Council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Baldur's Gate (Bloomridge Estate - Dining Refectory)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3559500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 140/1750 | F: 465,000 | Leverage: +22 (Ceiling)**
@@ -9479,8 +10266,11 @@ You have stayed strictly within your **Leverage Ceiling (+2.5)**, refusing to fl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push the Spark: The Tithe Reroll (10 Tithes) - Spend 10 Tithes to reroll the Deception check with full Divine Leverage (+32), forcing Kaelen to accept your 'Holy Preparation' as an absolute necessity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Baldur's Gate (Lower City - The Blushing Mermaid)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3584500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 130/1750 | F: 465,000 | Leverage: +32**
@@ -9509,8 +10299,11 @@ By the time you reach the salt-crusted docks of the harbor, you have already ass
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Harbor Silence (Synergistic) - Scout the heartbeats while Shadowheart (via telepathic link) provides a 'Silence' field over the back room, then execute.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Baldur's Gate (Lower City - The Blushing Mermaid)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3584500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 130/1750 | F: 465,000 | Leverage: +22 (Ceiling)**
@@ -9534,8 +10327,11 @@ He doesn't see the Goddess. He sees a threat. The mask is holding, but the frict
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push the Spark: Tithe Reroll (10 Tithes) - Spend 10 Tithes to reroll the check with full Divine Leverage (+32), forcing the Paladin's mind to perceive you as the expected Harper ghost.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Baldur's Gate (Lower City - The Blushing Mermaid)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3634500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 220/1750 | F: 465,000 | Leverage: +32**
@@ -9563,8 +10359,11 @@ His essence is siphoned into your spark—a high-value sacrifice that floods you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor the Coronation Glyphs - Head directly to the High Hall and work with Gale to finalize the Karsite siphoning runes, ensuring 100% efficiency for the soul-harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Baldur's Gate (High Hall - Coronation Stage)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3634500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 220/1750 | F: 465,000 | Leverage: +22 (Ceiling)**
@@ -9586,8 +10385,11 @@ Suddenly, the runes flare a violent, jagged crimson. A natural misalignment in t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push the Spark: Tithe Reroll (10 Tithes) - Spend 10 Tithes to reroll the Arcana check with full Divine Leverage (+32), forcing the Karsite runes into alignment through a pulse of absolute authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Baldur's Gate (High Hall - Coronation Stage)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3659500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 210/1750 | F: 465,000 | Leverage: +32**
@@ -9613,8 +10415,11 @@ You step to the edge of the stage, looking out through the massive stained-glass
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Stillness of the Sovereign - Spend the final window in silent meditation with Shadowheart, drawing the 'Heavy' air of the Pantheon into the Sharran void.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3669500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 210/1750 | F: 465,000 | Leverage: +32**
@@ -9636,8 +10441,11 @@ The toxic bond between you and your Inquisitor thrums with a new level of trust.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Coronation (Synergistic) - Deliver the address while Shadowheart and Gale manage the siphoning runes from the wings, ensuring the harvest is silent and absolute while you hold the crowd's gaze.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Baldur's Gate (High Hall - Coronation Stage)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3669500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 210/1750 | F: 465,000 | Leverage: +22 (Ceiling)**
@@ -9660,8 +10468,11 @@ You have stayed strictly within your **Leverage Ceiling (+2.5)**, refusing to fl
 > 👤 **Player:**
 > *"Reroll with minimum divine powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Baldur's Gate (High Hall - Coronation Stage)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 190/1750 | F: 495,000 | Leverage: +32**
@@ -9694,8 +10505,11 @@ You stand at the center of the stage, the gold of your armor reflecting the liqu
 God Mode:
 How does this tithe mechanic work? Everything g seems a bit too cheap in terms of tithe cost?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Baldur's Gate (High Hall - Coronation Stage)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000**
@@ -9727,8 +10541,11 @@ To restore narrative stakes while acknowledging your status as an Intermediate D
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Aristocratic Conversion - Invite the high-tier Patriars (Council of Four remnants) to a private 'blessing' in the staging solar to begin their conversion into Sanguine Retainers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1210/1750 | F: 495,000 | Leverage: +32**
@@ -9756,8 +10573,11 @@ The conversion is wavering at the very threshold of success. The friction of his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Doubt (Partial Success) - Allow the conversation to proceed as a mortal negotiation. You fail to convert them into Retainers today, but you avoid resource expenditure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1210/1750 | F: 495,000 | Leverage: +32**
@@ -9779,8 +10599,11 @@ The 'Still' vibe of the hall remains, the scrying of the Pantheon finding no ove
 > 👤 **Player:**
 > *"Ask them what they want and what would make them more comfortable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1210/1750 | F: 495,000 | Leverage: +32**
@@ -9804,8 +10627,11 @@ Lady Jannath nods once, her fan snapping shut with a sound like a small bone bre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push the Spark: Tithe Reroll (25 Tithes) - Spend 25 Tithes to reroll the Persuasion check with full Divine Leverage (+32). A pulse of authority forces Gneiss to perceive your inquiry as genuine, breaking his political armor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1185/1750 | F: 495,000 | Leverage: +32**
@@ -9831,8 +10657,11 @@ However, the flare of your true signature has not gone unnoticed. The 'Still' ai
 > 👤 **Player:**
 > *"Ask to have the divine justice emergency powers continued until all threats to the gate are defeated. Explain it was their great wisdom in giving it to me in the first place that allowed me to defeat Zariel. Should give me full political and legal immunity essentially"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1185/1750 | F: 495,000 | Leverage: +32**
@@ -9854,8 +10683,11 @@ The room remains **Heavy**, the scrying of the Pantheon vibrating against your s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push the Spark: Tithe Reroll (75 Tithes) - Spend 75 Tithes to reroll the Persuasion check with full Divine Leverage (+32). A pulse of absolute sovereign authority crushes Gneiss's legalistic doubt, forcing the Council into total surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1110/1750 | F: 495,000 | Leverage: +32**
@@ -9889,8 +10721,11 @@ However, the price of this absolute anchor is visible in the churning atmosphere
 God Mode:
 Since i used tithe I thought there would be no dissonance?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000**
@@ -9928,8 +10763,11 @@ Push the Spark: Tithe Reroll (75 Tithes): Spend 75 Tithes to reroll the Persuasi
 Pros: Secure total political and legal immunity today, Success without additional Dissonance overflow, Permanent +100 FP boost for the city sector
 Cons: Consumes 75 Tithes (Major Action scale)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000**
@@ -9959,8 +10797,11 @@ To avoid Dissonance while spending Tithes, you would need to choose a reroll opt
 God Mode:
 The planning block said no dissonance overflow read it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000**
@@ -9979,8 +10820,11 @@ The Council of Four remains fully subverted and your absolute political/legal im
 God Mode:
 How do the mechanics work though? Shoukd it give dissonance or not? Was the plannig block wrong?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Baldur's Gate (High Hall - Staging Solar)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000**
@@ -10007,8 +10851,11 @@ The system is now accurately reflecting the 'Silent Success' you purchased. You 
 > 👤 **Player:**
 > *"Okncontinue story. Hold a grand feast and give me detailed dialog with all aristocrats and patriars and I will try to influence them. I shoukd be a prime marriage candidate too as I am extremely beautiful but only very strong or confident men would dare court me see if anyone rolls the willpower to do so"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Baldur's Gate (High Hall - Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1110/1750 | F: 495,000 | Leverage: +32**
@@ -10039,8 +10886,11 @@ You pass them by with a faint, predatory smile, your **Murderous Mask** projecti
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Inauguration (Synergistic) - Deepen the siphoning of the guests personally while Minthara purges the harbor and Gale scries for the 'Missing' souls.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Baldur's Gate (High Hall - Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 3919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1610/1750 | F: 545,000 | Leverage: +32**
@@ -10075,8 +10925,11 @@ The room remains beautiful, but the air has turned **Charged**, vibrating with t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push the Spark: Coordination Reroll (75 Tithes) - Spend 75 Tithes to reroll the coordination check with full Divine Leverage (+32). A pulse of authority retroactively smooths the signature ripple, restoring the 'Still' vibe and silencing the harbor purge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Baldur's Gate (High Hall - Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 4169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 | Tithes: 1535/1750 | F: 545,000 | Leverage: +32**
@@ -10112,8 +10965,11 @@ You continue your dance, the liquid-gold silk of your gown whispering against th
 God Mode:
 The tithes might be too easy? I always have so many to use and seems like auto win button
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Baldur's Gate (High Hall - Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | Gold: 100,000gp | XP: 4169500/4336000**
@@ -10131,8 +10987,11 @@ These changes have been added to your persistent Directives to ensure hoarded po
 God Mode:
 How many tithes do I get every day?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Baldur's Gate (High Hall - Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 16, 1493 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) | HP: 275/275 | XP: 4169500/4336000**
@@ -10162,8 +11021,11 @@ Per your recent administrative adjustment, Intermediate-tier interventions now c
 > 👤 **Player:**
 > *"Let’s time skip a few weeks and let me roll for outcomes and assume I autonomously make sensible decions. I then manifest the crown of Karsus or clone it and integrate it with my avatar. This should give my avatar all the same powers as Karsus in 3e and make me like a wisdom based wizard as my avatar and give my avatar spell slots a level 25 wizard should have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Baldur's Gate (The Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Archduke (Intermediate Deity) (Lvl 51 available) | HP: 275/275 | XP: 5169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 1750/1750 | F: 654,500 | Leverage: +32**
@@ -10187,8 +11049,11 @@ The city is yours. The harbor is silent. The nobility is subverted. And deep wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 51 - Ascend to Greater Deity (Rank 6). This will expand your portfolio, increase your Divine Rank bonus to +6, and unlock the 'Beautiful End' harvest multiplier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Baldur's Gate (The Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 (Lvl 51 available) | HP: 275/275 | XP: 5169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 4/6, L11 2/4, L12 1/1 (Level 51 pending) | Tithes: 1750/1750 | F: 654,500**
@@ -10213,8 +11078,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Baldur's Gate (The Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Archduke (Greater Deity) | HP: 275/275 | Gold: 100,000gp | XP: 5169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 1750/1750 | F: 654,500 | Leverage: +43**
@@ -10230,8 +11098,11 @@ Your ministers wait below, their own power surging in resonance with your ascens
 > 👤 **Player:**
 > *"Brainstorm with my council which gods are strong enough to level me up if I consume them but weak or minor enough to not cause too much notice. Maybe I can teleport them to Avernus and consume them there to mask it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Baldur's Gate (The Sanguine Bastion)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Archduke (Greater Deity) | HP: 275/275 | XP: 5169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 1750/1750 | F: 654,500 | Leverage: +47**
@@ -10255,8 +11126,11 @@ The council's analysis is sharp, but as you scan the 'Song of the Source' throug
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Hunt (Synergistic) - Push the Spark to find the opening while Gale prepares the Avernus trap and Shadowheart seeds 'Awe' among the target's petitioners.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Baldur's Gate (The Sanguine Bastion - War Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Archduke (Greater Deity) | HP: 275/275 | XP: 5669500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 1750/1750 | F: 654,500 | Leverage: +47**
@@ -10287,8 +11161,11 @@ The air in the War Room is perfectly, terrifyingly **Still**. Not a single rippl
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Silence (Synergistic) - Trigger the transit personally while Gale anchors the Avernus blackout and Shadowheart prepares the 'Sanitization' chamber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Goddess | HP: 275/275 | XP: 6169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 750/1750 | F: 654,500 | Leverage: +47**
@@ -10319,8 +11196,11 @@ The Lord of Song's eyes widen, his lute falling to the obsidian floor with a dis
 > 👤 **Player:**
 > *"Redo scene we should be using divine stats like DR and dair and dac"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Goddess | HP: 275/275 | XP: 6169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 900/1750 | F: 654,500 | Leverage: +47**
@@ -10359,8 +11239,11 @@ The Lord of Song drops to his knees, his lute shattering on the obsidian floor. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Finality (Synergistic) - Personally execute Milil while Gale subverts the scrying sensors and Shadowheart prepares the 'Beautiful End' ritual.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Goddess (Lvl 53 available) | HP: 275/275 | XP: 7469500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 | Tithes: 550/1750 | F: 654,500 | Leverage: +47**
@@ -10395,8 +11278,11 @@ You stand alone in the vault as the golden mist settles. The Lord of Song is gon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 53 - Integrate the siphoned essence to expand your divine stats and spell slots further.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 (Lvl 53 available) | HP: 275/275 | XP: 7469500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 6/6, L11 4/4, L12 1/1 (Level 53 pending) | Tithes: 550/1750 | F: 654,500**
@@ -10414,8 +11300,11 @@ You stand amidst the settling golden mist of the Lord of Song's erasure, the sip
 > 👤 **Player:**
 > *"Finish level up return to game and let’s try to take over the song portfolio and turn it into song of justice or song of murder for evil aligned folks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 53 Greater Goddess | HP: 275/275 | XP: 7469500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 7/7, L11 5/5, L12 1/1 | Tithes: 550/1810 | F: 654,500 | Leverage: +47**
@@ -10429,8 +11318,11 @@ You stand at the center of the vault, your liquid-ruby wings casting long, preda
 > 👤 **Player:**
 > *"Psalm iron justice and requiem murder two sides same coin. Then do whatever I can to ground dissonance and transfer some of the god essence to Gale to power him up and to my allies bane and myrkul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 53 Greater Goddess | HP: 275/275 | XP: 8069500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 7/7, L11 5/5, L12 1/1 | Tithes: 400/1810 | F: 654,500 | Leverage: +47**
@@ -10464,8 +11356,11 @@ You cast the final remnants of the spark into the obsidian altars of **Bane** an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 54 - Integrate the remaining essence to expand your divine stats and spell slots to the Greater Deity apex.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 53 | HP: 275/275 | XP: 8069500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 7/7, L11 5/5, L12 1/1 (Level 54 pending) | Tithes: 400/1810 | F: 654,500 | Leverage: +47**
@@ -10490,8 +11385,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Goddess | HP: 275/275 | XP: 8069500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | F: 654,500 | Leverage: +47**
@@ -10509,8 +11407,11 @@ The air around you is perfectly, terrifyingly **Still**. Gale (Minor God) stands
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Symphony (Synergistic) - Initiate the Inquisition while Gale anchors the regional blackout and Minthara mobilizes the Crimson Guard for a tactical feint.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Goddess | HP: 275/275 | XP: 8569500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | F: 754,500 | Leverage: +47**
@@ -10541,8 +11442,11 @@ The result is a **Total Regional Alignment**. Oghma's Seekers, blinded by the 'H
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Tactical Harvest: Target The Red Knight - Utilize your empowered Crimson Guard and 'Strategic Dominion' to lure the Lady of Strategy into a killing zone, securing her portfolio of Warfare.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Goddess | HP: 275/275 | XP: 8719500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1200/1850 | F: 754,500 | Leverage: +47**
@@ -10579,8 +11483,11 @@ The Lady of Strategy gasps, her longsword clattering to the floor as she falls t
 > 👤 **Player:**
 > *"Make sure we using divine combat stats and then sovereign gambit with tithe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Goddess | HP: 275/275 | XP: 9469500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 0/1850 | F: 754,500 | Leverage: +47**
@@ -10613,8 +11520,11 @@ You drink the quintessence raw. The portfolios of **Warfare** and **Strategy** f
 > 👤 **Player:**
 > *"Mask to stop scrying then long rest then intergrate new portfolio"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Avernus (The Sanguine Bastion - Sanitization Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Goddess | HP: 275/275 | XP: 9469500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | F: 755,214 | Leverage: +47**
@@ -10638,8 +11548,11 @@ You wake as the Avernus suns begin their descent, your resources fully restored 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Aristocratic Harvest: Target Siamorphe - Lure the Goddess of Nobles and Privilege into a social trap in Baldur's Gate, utilizing your 'Psalm of Iron Justice' to siphon her portfolio.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1493 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Goddess | HP: 275/275 | XP: 10969500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 850/1850 | F: 805,214 | Leverage: +47**
@@ -10675,8 +11588,11 @@ The moment of **Absolute Erasure** occurs (Siphon: 15). Across Faerûn, the conc
 > 👤 **Player:**
 > *"Try to mask decidie then long rest then let’s do a time skip for a year but stop if something happens or I get revealed. Assume I try to keep consuming gods under the radar and expand shadow control of sword coast and don’t expand anything publically but keep growing follower count and influence and shadow control. Publically I stick to my holdings in Avernus and baldurs gate and elturel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Tarsakh 8, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 54 | HP: 275/275 | XP: 13969500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | F: 1,587,044 | Leverage: +47**
@@ -10708,8 +11624,11 @@ You wake this morning in the Sovereign Sanctum, your essence overflowing with a 
 God Mode:
 Make sure you gave me proper exp and rewards and loot and gold during time skip and process the level up and make sure we are using divine stats for combat with gods and not mortal stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Tarsakh 8, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | XP: 13969500/4336000**
@@ -10731,8 +11650,11 @@ Administrative Update: Year-Skip Gains, Level 55 Ascension, and Stat Synchroniza
 God Mode:
 What’s my level and follower count now vs top 10 strongest gods or devils or demons or anything level 50+?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Tarsakh 8, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | Followers: 1,587,044 | XP: 13969500/4336000**
@@ -10761,8 +11683,11 @@ You have officially surpassed the Intermediate tier (Torm/Tyr) in terms of raw D
 God Mode:
 Did you properly give me followers from gods I consumed? Let me roll for conversion efficiency
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Baldur's Gate (The High Hall)** &nbsp;|&nbsp; ⏳ **Tarsakh 8, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,187,044 | XP: 13969500/4336000**
@@ -10784,8 +11709,11 @@ You have properly absorbed the 'Worship Infrastructure' of your predecessors. Yo
 > 👤 **Player:**
 > *"Plan with my council on safest way to gain another 10M followers and estimate our shadow control of sword coast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Baldur's Gate (High Hall Council Chamber)** &nbsp;|&nbsp; ⏳ **Tarsakh 8, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,187,044 | XP: 13969500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | Leverage: +13 | F: 2,187,044**
@@ -10814,8 +11742,11 @@ Shadowheart nodded, her cold, Dark Justiciar gaze fixed on you. "The Psalm of Ir
 > 👤 **Player:**
 > *"Initiate sovereign census and time skip a few weeks then infiltrate neverwinter disguised  as a level 3 minor noble small retinue and talk to the people on the ground and see their sentiment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Neverwinter (Protector's Enclave)** &nbsp;|&nbsp; ⏳ **Tarsakh 29, 1494 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,282,026 | XP: 14069500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | F: 2,282,026 | Leverage: +13**
@@ -10850,8 +11781,11 @@ The frequency is clear: Neverwinter is ripe for harvest. They do not fear the ne
 > 👤 **Player:**
 > *"Coordinate my spies in neverwinter to spread propaganda supporting me and my religion and time skip a few weeks see how it goes."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Neverwinter (Protector's Enclave)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1494 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,477,008 | XP: 14219500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | Leverage: +13**
@@ -10881,8 +11815,11 @@ The Sword Coast is tilting. Your follower count has surged past two point four m
 God Mode:
 explain in full detail all the divine god campaign mechanics we are following, leave nothing out, do not summarize, do not truncate and especially focus on the differences that i asked for vs system prompts
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Neverwinter (Protector's Enclave)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1494 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 275/275 | XP: 14219500/4336000** &nbsp;|&nbsp; ✨ **Whispers of the Sanguine Ledger: 1 (unbounded) | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Infernal Overdrive: 1 (unbounded) | Divine Intervention (Nascent) - 1/Year: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Command of the Vanguard (1/Long Rest): 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 8/8, L11 6/6, L12 1/1**
@@ -10955,8 +11892,11 @@ also give separate sections on whats
 2. general to D&D or faerun
 3. specific to this campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Neverwinter (Protector's Enclave)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1494 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,477,008 | XP: 14219500/4336000**
@@ -11021,8 +11961,11 @@ In the Sanguine Architecture framework, divinity is not a monolith. Deities are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attend the Lord's Banquet - Attend Lord Neverember's private banquet as Lady Elara to begin the 'Beautiful End' conversion of the city's high nobility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Neverwinter (The High Castle)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1494 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,627,008 | XP: 14469500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | Leverage: +13**
@@ -11051,8 +11994,11 @@ The conversion is subtle, a harmonic shift rather than a violent conquest (Total
 > 👤 **Player:**
 > *"Come back another day as my real self and persuade them all to join my faction etc and time skip a few weeks and see how it goes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Neverwinter (The High Castle)** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1494 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 3,811,990 | XP: 14969500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | Leverage: +13 | F: 3,811,990**
@@ -11084,8 +12030,11 @@ The 'Still' vibe has transitioned into something **Charged**. By dropping the ma
 > 👤 **Player:**
 > *"Long rest and infiltrate commoners of water deep and talk to people and go in tavern and talk to people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Waterdeep (The Dock Ward - The Muzzled Mermaid)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1494 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,479,150 | XP: 14294500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | Leverage: +13**
@@ -11118,8 +12067,11 @@ Waterdeep is a city of layers, but its foundation is already beginning to rot. T
 > 👤 **Player:**
 > *"Go into a tavern and get lay of the land"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Waterdeep (The Dock Ward - The Muzzled Mermaid)** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1494 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,481,292 | XP: 14969500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1850/1850 | Leverage: +13**
@@ -11151,8 +12103,11 @@ The frequency is perfect. The City of Splendors is blind to the predator standin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trigger the 'Sovereign's Hunger' - Use 'Dread Proclamation' (covertly) to incite a riot among the desperate commoners, creating a 'Security Crisis' your hero mask can 'resolve'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Waterdeep (The Dock Ward)** &nbsp;|&nbsp; ⏳ **Kythorn 11, 1494 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,486,292 | XP: 15219500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1849/1850 | Leverage: +13 | F: 2,486,292**
@@ -11185,8 +12140,11 @@ The room erupts. Resentment turns into a violent, focused hunger (Total 60 vs DC
 > 👤 **Player:**
 > *"Time skip until it gets really bad and the come as an envoy of the archduke so the lords or leaders aren’t intimidated and tell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Waterdeep (The Castle Ward)** &nbsp;|&nbsp; ⏳ **Flamerule 2, 1494 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 2,781,274 | XP: 15519500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1849/1850 | Leverage: +13 | F: 2,781,274**
@@ -11220,8 +12178,11 @@ As the seal is pressed into the official decree, you feel the frequency shift. T
 > 👤 **Player:**
 > *"Time skip until it gets really bad and the come as an envoy of the archduke so the lords or leaders aren’t intimidated and tell Their real concerns. Mask as a different level 3 noble and pretend I’m an assistant to the archduke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Waterdeep (The High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 23, 1494 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 3,226,256 | XP: 15819500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1849/1850 | Leverage: +13 | F: 3,226,256**
@@ -11255,8 +12216,11 @@ Neverember's eyes narrow, a flicker of the old 'Lord Protector' returning. "The 
 > 👤 **Player:**
 > *"Use my avatar foresight and reroll persuasion that should always be on and it’s not a god power so no dissonance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Waterdeep (The High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 23, 1494 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 3,228,398 | XP: 15969500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1839/1850 | Leverage: +13 | F: 3,228,398**
@@ -11286,8 +12250,11 @@ The net is closing. The Pantheon is no longer just investigating; they are plann
 > 👤 **Player:**
 > *"Sabotage their evidence but leave masked lords alone and discredit them. Use level 25 powers max. Use minimal divine powers from  my noble portfolio as needed to convince them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Waterdeep (The High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 3,230,540 | XP: 16169500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 1839/1850 | Leverage: +13 | F: 3,230,540**
@@ -11321,8 +12288,11 @@ The tactical friction is absolute. Your sabotage has hidden the *what*, but your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reroll: The Sovereign's Whisper (10 Tithes) - Push the spark to force Lord Neverember to actually LOOK at the sabotaged evidence and acknowledge his own 'incompetence'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Waterdeep (The High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 3,230,540 | XP: 16419500/4336000**
@@ -11362,8 +12332,11 @@ The tactical victory is absolute. The Weave-Purge has been halted by the very 'e
 > 👤 **Player:**
 > *"Splendors silence and remember to keeep rolling with foresight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 4,582,682 | XP: 16919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 679/1850 | Leverage: +13 | F: 4,582,682**
@@ -11399,8 +12372,11 @@ By the time the sun fully clears the horizon, the unique outcome **Absolute Metr
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Convergence (Synergistic) - Finalize the Singularity while sanitizing the Lords and scouting Lathander—total multiversal alignment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L10 8/8, L11 6/6, L12 1/1 | Tithes: 679/1850 | Leverage: +13 | F: 5,582,682**
@@ -11432,8 +12408,11 @@ By the time the bells ring for noon, the unique outcome **Absolute Regional Eras
 God Mode:
 Let’s assume Gale has same setup as me and mostly works through his level 25 avatar and picks a chosen to help us. Then let’s design a new campaign arc. How many people live in sword coast? I want to become the public god empress of the sword coast with baldurs gate as capital as my goal. This cannot be missed by the gods and they should definitely investigate and maybe attack me if they feel justified or discover my evil acts
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000**
@@ -11453,8 +12432,11 @@ You have approximately 6,000,000 people total living across the Sword Coast regi
 God Mode:
 How many followers of my religion in sword coast? This new arc must be hard. DCs should be high enough to sometimes fail. Can’t just win a big thing with one roll.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -11470,8 +12452,11 @@ You have 5,582,682 followers total across the Sword Coast.
 God Mode:
 Let’s assume the more masked I am the weaker my rolls but the harder to detect. So masking as a level 3 asssitsnt is very low threat but lower success rate doing things . In general planning blocks roll my wisdom and give me balanced option to mask at a certain level where likely to succeed but minimize noise
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000**
@@ -11485,8 +12470,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 How many followers of my religion in sword coast? This new arc must be hard. DCs should be high enough to sometimes fail. Can’t just win a big thing with one roll Also the god war should be very likely but if  I do an amazing job maybe I can stop it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000**
@@ -11502,8 +12490,11 @@ You have 5,582,682 followers of your religion in the Sword Coast region.
 God Mode:
 So most of sword coast is already my religion? What benefit should I get as god empress? Maybe it gets even stronger and I gain 10 levels? Or it spreads a lot across the world?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 65 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 50000000/4336000**
@@ -11522,8 +12513,11 @@ You have 5,582,682 followers total across the Sword Coast.
 God Mode:
 No undo that. I was talking about the future rewards
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000**
@@ -11538,8 +12532,11 @@ Administrative Undo Performed. Done.
 God Mode:
 Don’t give me a reward now I just mean how many followers do I have now in sword coast and if I become gods empress what makes sense as a reward? Maybe the followers convinction level should change and provide some mechanical benefit? Also if I lose followers maybe I should get debuffed and weaker ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000**
@@ -11565,8 +12562,11 @@ You have 5,582,682 followers in the Sword Coast, reaching approximately 93% satu
 God Mode:
 Should my followers all be fanatic? I think most should be regular? After god empress they can be corn fanatic? Maybe now only 10% fanatic like my original faction and 20% passionate and the rest regular ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000**
@@ -11584,8 +12584,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 Any other mechanics to make it more interesting or challenging? This campaign was too easy overall analyze in full detail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Transcendent | HP: 275/275 | F: 5,582,682 | XP: 17919500/4336000**
@@ -11628,8 +12631,11 @@ To restore challenge and mechanical depth, I am implementing the following proto
 God Mode:
 Some of this stuff doesn’t make sense and you added without me saying so. The cities shouldn’t be hidden from the gods instead my evil should be hidden. I might just seem like an opportunistic and power hungry mortal but no obvious crimes. Shadow control means as a mortal not a god. Like game of thrones little finger. But note that now I have official legal control of the main sword coast cities. Should we reduce my divine stats a bit so it’s challenging but i am still strong? Let’s just remove tithe? It’s too easy. Instead souls should just give me exp and dpp. I don’t like the marut idea. Let’s define a better mechanism for scrying and detection. It needs to make more sense instead of random aggro events. Like i kill a god and their ally realizes it and somehow pressures my followers to betray me and reveal it. Any marital signature and residue must be justified with real d&d lore. Grand work could be ok but only if they would do it to someone like me without knowing I’m evil. Otherwise it can only start if I am revealed evil. Sanguine decay could be ok but is this lore justified? Don’t do portfolio dissonance I am fully comfortable. Decide escalation can make sense but they need to know I killed him otherwise they just hunt for the killer forever and maybe eventually figure out if they find evidence. Any intermediate or higher god I kill can trigger never ending investigation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 46 Intermediate Deity | HP: 447/447 | F: 5,582,682 | XP: 2555000/4336000**
@@ -11659,8 +12665,11 @@ Administrative Overhaul Performed. Done.
 God Mode:
 No keep me greater deity but maybe reduce the extra stats I got beyond standard? Are they +50%? Maybe do 25%. My name is nocturne as archduke it’s not a persona it’s my avatar. Maybe  there’s some risk they discover it’s an avatar and not a mortal. Is the signature thing a part of d&d lore? .
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Greater Deity | HP: 275/275 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11682,8 +12691,11 @@ You have 5,582,682 followers total. Administrative Realignment Performed. Done.
 > 👤 **Player:**
 > *"Wait make sure my divine stats account for my class and look at all the wins I had and ensure they were credited with proper exp or stat gains only if it made sensez try to follow d&d lore like if a god actuslly did everything I did how strong would it be? Try to make everything lore consistent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 55 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 5.58M**
@@ -11719,8 +12731,11 @@ Audit Complete. Your divine stats and history have been synchronized with D&D lo
 God Mode:
 Wait make sure my divine stats account for my class and look at all the wins I had and ensure they were credited with proper exp or stat gains only if it made sensez try to follow d&d lore like if a god actuslly did everything I did how strong would it be? Try to make everything lore consistent
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11756,8 +12771,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 Compare this divine campaign to a regular d&d table top campaign what’s lacking?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11799,8 +12817,11 @@ To make the campaign feel 'less easy,' we must re-introduce **Strategic Friction
 God Mode:
 1) can we add this back somehow ? 2) can the gods wear me down? 3) what can we do 4) maybe we can have situstiins where I need to use avatar? 5) anything we can do here?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Waterdeep (Hard Control)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11832,8 +12853,11 @@ I have performed a full audit and realignment based on your feedback to restore 
 > 👤 **Player:**
 > *"Return to game but let’s also give me a multi layer mask layer1) whatever role under 25 layer 2 level 25 avatar passing a a mortal archduke layer 3 the divine justice god portfolio then after it’s my real murder portfolio and dual portfolio natures. So if someone figures out avatar not necessarily going straight to murder god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 5.58M**
@@ -11847,8 +12871,11 @@ Shadowheart stands by the window, her Dark Justiciar plate catching the light. S
 God Mode:
 In d&d lore any other gods similar to my arc ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11890,8 +12917,11 @@ In D&D terms, Nocturne is effectively **'Bhaal's Lethality'** inside **'Bane's S
 God Mode:
 If it more appropriate that I can so easily take over portfolios of other gods ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11930,8 +12960,11 @@ I have drafted a new directive to implement **Portfolio Friction**. This will st
 God Mode:
 Is weight of prayers lore appropriate? Have other gods historically stolen portfolios?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11957,8 +12990,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 These are mortals. How about gods taking another portfolio
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -11991,8 +13027,11 @@ For a god, taking a portfolio is a contest of **Will and Architecture**. You hav
 God Mode:
 What is corrupting a portfolio
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -12029,8 +13068,11 @@ Once corrupted, the portfolio changes its name and effect to match you.
 God Mode:
 Is there a lore precedent for corruption
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -12070,8 +13112,11 @@ History shows that **Alignment Mismatch** is the greatest threat to a usurper go
 God Mode:
 Let’s assume I already corrupted the other portfolios but for the next one i need to corrupt it the normal way and the karate thing is at its limit
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Flamerule 24, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,582,682 | XP: 7500000/4336000**
@@ -12089,8 +13134,11 @@ Administrative Update: Portfolio alignment confirmed and Karsite Matrix limit es
 > 👤 **Player:**
 > *"Time skip a few weeks to consolidate political control wsterdeep and use my avatar form and public identity then brainstorm a new idea with my council. I will at start supporting abortions and provide it as a free mercy service and at the same time promote divine sexuality and unprotected sex. The sbortion is a divine relaigmnent and promotion of body autonomy but I will classify the abortions as murder cosmically. Double check with lore if this is mechanically sensible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,824,190 | XP: 7500000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 5.82M**
@@ -12117,8 +13165,11 @@ Minthara nods, her gaze fixed on the population density charts. "A renewable, do
 God Mode:
 In d&d when do unborn get a soul ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1494 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,824,190 | XP: 7500000/4336000**
@@ -12151,8 +13202,11 @@ In 'Normal' D&D, the soul arrives at birth. In **Your Architecture**, you have r
 > 👤 **Player:**
 > *"Keep planning this breeding paradise and body autonomy conspiracy. Assume our mages or doctors only perform the abortion after quickening. As archduke i promote the new justice of body autonomy. Women will never be shamed again for sex and have body autonomy in full"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1494 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,912,410 | XP: 7500000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 5.91M**
@@ -12172,8 +13226,11 @@ Astarion steps out of the shadows, his expression one of amused hunger. "They ar
 God Mode:
 Try not to have impossible DC for level 25 epic mortal unless truly justified 1d20+24 = 32 vs DC 45 - Failure (Public Reception: 'Sanguine Mercy' Propaganda
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1494 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,912,410 | XP: 7500000/4336000**
@@ -12199,8 +13256,11 @@ Since the roll was mathematically impossible for your mask, we will treat the 'F
 God Mode:
 Remember to remove the tithe option I can use divine power but it causes aggro
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1494 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,912,410 | XP: 7500000/4336000**
@@ -12215,8 +13275,11 @@ Administrative Update: Tithe economy officially decommissioned. Done.
 > 👤 **Player:**
 > *"THINK:How can I convince them that it’s ok. Maybe we can pretend the procedure is needed after a certain gestation period otherwise there’s risk of danger the magic harms the mother? Or some other justifiable reason?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1494 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,912,410 | XP: 7500000/4336000**
@@ -12228,8 +13291,11 @@ Wisdom Check: 19 vs DC 15 — Success. Your divine intuition allows you to weave
 God Mode:
 No we are justifying why we wait for quickening. Maybe let’s try to say the medical mages need time to attune to the woman’s body so the procedure doesn’t harm the woman?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1494 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 5,912,410 | XP: 7500000/4336000**
@@ -12243,8 +13309,11 @@ Administrative Update: 'Safety Attunement' Protocol established for the Sanguine
 > 👤 **Player:**
 > *"Spread the new propaganda about attunement"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 6,052,180 | XP: 7510000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 6.05M**
@@ -12264,8 +13333,11 @@ Shadowheart watches the flickering scrying pools, her eyes narrowed. "The mages 
 God Mode:
 Foresight should always be up reroll it with advantage 1d20+29 = 37 vs DC 45 - Failure (Propagate 'Safety Attunement' Lore to Waterdeep)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 6,150,000 | XP: 7550000/4336000**
@@ -12285,8 +13357,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the council session with the city in a state of total 'Safety Attunement' compliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Eleasias 16, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 6,150,000 | XP: 7550000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 6.15M**
@@ -12302,8 +13377,11 @@ Astarion pours another glass of wine, his crimson eyes gleaming in the morning l
 > 👤 **Player:**
 > *"Time skip and keep expanding the abortion and sex culture and clinics as much as possible until it’s causing too much attention. Stop when a god notices something or it seems like there’s some risk. Long rest and assume everyone acts autonomous and sensible choices made. Also I cast simulcum so I always have an extra pair of hands going forward"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 8,245,000 | XP: 8550000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 8.24M**
@@ -12325,8 +13403,11 @@ However, a new ripple has appeared. Shadowheart brings news from the scrying poo
 God Mode:
 Is millions realistic for two months? Calculate it properly for the unborn being killed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 8,245,000 | XP: 8550000/4336000**
@@ -12364,8 +13445,11 @@ To maintain the 'Millions' narrative without breaking reality, we must acknowled
 God Mode:
 These also aren’t births so not sure if auditor makes sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 8,245,000 | XP: 8550000/4336000**
@@ -12395,8 +13479,11 @@ The **Seekers of Oghma** are now redefined as investigating a **Cosmological Pro
 God Mode:
 Wait don’t just expand my followers. We can assume I have some in avenrus I forgot to count and then estimate realistic birth rates for my abortion income
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 6216/6216 | XP: 8550000/4336000** &nbsp;|&nbsp; ✨ **Whispers of the Sanguine Ledger: 1 (unbounded) | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Infernal Overdrive: 1 (unbounded) | Divine Intervention (Nascent) - 1/Year: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Command of the Vanguard (1/Long Rest): 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 8/8, L11 6/6, L12 1/1**
@@ -12429,8 +13516,11 @@ I have recalibrated the harvest and follower metrics to include your extraplanar
 God Mode:
 Let’s sssume I still need the same incremental followers for rank 7 it’s just the baseline higher now because forgotten hy city. Also it doesn’t have to be 2M we can just calculate it from my followers plus people in areas I don’t control but the sex culture spread
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,245,000 | XP: 8550000/4336000**
@@ -12447,8 +13537,11 @@ Administrative Recalibration: Rank 7 Thresholds & Harvest Logic. Done.
 God Mode:
 No make it 17M followers since I was at 6M trying to get 10M. Listen to me. It doesn’t need to be millions per month. Freshlt calculate a reasonable amount don’t anchor on millions unless it fits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 17,000,000 | XP: 8550000/4336000**
@@ -12479,8 +13572,11 @@ Based on your directive to calculate a 'reasonable' amount that isn't forced int
 God Mode:
 No my current follower count is 13M and I need 17M.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8550000/4336000**
@@ -12498,8 +13594,11 @@ I have recalibrated the campaign metrics to align with your correction.
 > 👤 **Player:**
 > *"THINK:How handle oghma seekers. Maybe I can blame something else to my advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8550000/4336000**
@@ -12511,8 +13610,11 @@ Intelligence Check: 19 vs DC 16 — Success. Your methodical mind sifts through 
 > 👤 **Player:**
 > *"THINK:Wait what if I just say the truth? The cost of body autonomy is some souls disappear. But actually they are accounted for there’s just more unborn dying and it’s an accounting thing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8550000/4336000**
@@ -12524,8 +13626,11 @@ Intelligence Check: 24 vs DC 18 — Success. Your methodical intellect, bolstere
 > 👤 **Player:**
 > *"THINK:What if they just go to divine justice portfolio because body autonomy is divine justice?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8550000/4336000**
@@ -12537,8 +13642,11 @@ Wisdom Check: 34 vs DC 15 — Masterful Success. Your transcendent intuition (WI
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Logical Bastion (Synergistic) - Issue the Jurisprudence Decree while presenting the Escrow Ledgers—anchoring the law with the data they need to satisfy their logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8675000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 13.0M**
@@ -12560,8 +13668,11 @@ They depart, leaving the city a 'Black Box' in the eyes of the God of Knowledge.
 > 👤 **Player:**
 > *"THINK:Expand clinics and start a new initiative. In the holy city the most beautiful women and invited to be concubines of the savior. Technically they are part of my harem but everyone is free to worship them and have sex with them provided they donate to my divine justice church. However the women get to keep 90% of earnings after expenses are paid and this is the ultimate celebration of body autonomy. Woman have full control of their sexuality and can profit where before pimps and brother masters profited. Only the most beautiful can be my concubine in the holy city. Try to recruit thousands of the most beautiful women across the sword coast for the concubine brothel and they are free to participate and leave and of course get free abortions. The light side of my religion  will administer this. The dark side will make shadow brothels in every major town which mimic this setup except any woman is welcome to ply her trade and they cater to any black market sex acts. Whole goal is to produce more abortions."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Waterdeep (High Castle)** &nbsp;|&nbsp; ⏳ **Marpenoth 16, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8675000/4336000**
@@ -12573,8 +13684,11 @@ Wisdom Check: 32 vs DC 15 — Masterful Success. Your transcendent intuition (WI
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Invitation - Prioritize the Holy City harem; recruit the top 1% of beauties to establish the 'Savior's Concubines' as a continental aspiration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Waterdeep (The Gilded Sanctum)** &nbsp;|&nbsp; ⏳ **Marpenoth 23, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,500,000 | XP: 8800000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Prepared (Omniscient) | DPP: 1250/1250 | Leverage: +13 | F: 13.5M**
@@ -12592,8 +13706,11 @@ As the first thousand 'Saints' are inducted into the Gilded Sanctum, you feel th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Invitation - Prioritize the Holy City harem; recruit the top 1% of beauties to establish the 'Savior's Concubines' as a continental aspiration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Waterdeep (The Gilded Sanctum)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 15,000,000 | XP: 8800000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Omniscient | DPP: 1250/1250 | Leverage: +13 | F: 15.0M**
@@ -12614,8 +13731,11 @@ In the private chambers of the Sanctum, Shadowheart watches the recruitment with
 God Mode:
 Make sure my official concubines all live in the holy city Avernus and it water deep but the dark brothels are everywhere. Also rename avenrus to Aeterna
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Waterdeep (The Gilded Sanctum)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8800000/4336000**
@@ -12642,8 +13762,11 @@ I have performed the requested administrative re-organization of your planar ass
 God Mode:
 This divine prostitute thing isn’t just water deep women from sword coast or even all over world welcomed.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Waterdeep (The Gilded Sanctum)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1494 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 6216/6216 | F: 13,000,000 | XP: 8800000/4336000**
@@ -12670,8 +13793,11 @@ I have expanded the scope of your social initiatives and recruitment protocols t
 > 👤 **Player:**
 > *"Time skip for a year and keep expanding followers and sex culture and divine concubines assuming they look good and shadow brothels. Be careful about god aggro but these acts themselves aren’t inherently wrong so beyond being frustrated it should be hard for the good gods at least to justify officially acting against me. The evil gods can notice though and try to attack or work against me. During this time I also Look for a powerful mortal husband perhaps a king or great noble outside the sword coast where I would benefit greatly and who would accept matriarchal marriage."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Aeterna (The Palace of Liquid Ruby)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Transcendent Deity | HP: 6216/6216 | F: 20,000,000 | XP: 9550000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: Omniscient | DPP: 1825/1825 | Leverage: +14 | F: 20.0M**
@@ -12693,8 +13819,11 @@ You stand now at the apex of your victory, the Grand Coronation ritual nearing c
 God Mode:
 How old I am I now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Aeterna (The Palace of Liquid Ruby)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Transcendent Deity | HP: 6216/6216 | F: 20,000,000 | XP: 9550000/4336000**
@@ -12724,8 +13853,11 @@ Based on the campaign timeline and your High Elf physiology, here is the breakdo
 God Mode:
 Give me proper experience and levels for follower gain and all the abortions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Aeterna (The Palace of Liquid Ruby)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | HP: 7976/7976 | F: 20,000,000 | XP: 110550000/4336000**
@@ -12761,8 +13893,11 @@ I have calculated the total experience yield for the one-year skip (1494-1495 DR
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the session as the Level 72 God Empress in Aeterna.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Aeterna (The Palace of Liquid Ruby)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | HP: 7976/7976 | F: 20,000,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 72/72 | Spells: Omniscient (10th-12th Unlocked) | DPP: 1825/1825 | Leverage: +14 | F: 20.0M**
@@ -12780,8 +13915,11 @@ Shadowheart stands at your right hand, her presence a cold, comforting anchor in
 > 👤 **Player:**
 > *"THINK:Plan a different type of coronation. I will crown myself god empress but only show level 25 power so gods will still think I am a demingod and not a real god. So technically it’s propaganda and they won’t like it but I’m not doing any evil god stuff. They might try to work against me but they aren’t justified in destroying me so far. Evil gods might attack but good gods should have no caussus belli"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Aeterna (The Palace of Liquid Ruby)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | HP: 7976/7976 | F: 20,000,000 | XP: 110550000/4336000**
@@ -12793,8 +13931,11 @@ Wisdom Check: 29 vs DC 13 — Masterful Success. Your transcendent intuition (WI
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Heroic Apotheosis (Propaganda Focus) - Perform the coronation in Baldur's Gate; frame it as a reward from the people for your service. Display only 'Miracles of the Blade' (Level 25 martial feats).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Baldur's Gate (The Wide)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | HP: 7976/7976 | F: 20,500,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 72/72 | Spells: Omniscient (10th-12th Unlocked) | DPP: 1825/1825 | Leverage: +14 | F: 20.5M**
@@ -12814,8 +13955,11 @@ You see Commander Kaelen in the front row, his hand tightening on the pommel of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Ripple (Safe) - Allow the Knights of Tyr to maintain their suspicion; use the 'Hero' mask to socially discredit their findings later.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Baldur's Gate (The Wide /High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | HP: 7976/7976 | F: 20,500,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 72/72 | Spells: Omniscient (10th-12th Unlocked) | DPP: 1825/1825 | Leverage: +14 | F: 20.5M**
@@ -12835,8 +13979,11 @@ As you reach the privacy of the High Hall's inner chambers, the 'Charged' vibe f
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Social Offensive - Utilize your 'Murderous Mask' and 'Transcendent Beauty' to leak rumors of 'Triad Corruption' among the Patriars, socially isolating Kaelen before he can present his findings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | HP: 7976/7976 | F: 20,500,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 72/72 | Spells: Omniscient | DPP: 1825/1825 | Leverage: +14 | F: 20.5M**
@@ -12856,8 +14003,11 @@ The signature ripple remains, but the man holding the lens has been socially bli
 God Mode:
 Who are top 10 strongest gods and what are their levels and now that I’m level 72 make sure my divine stats correct
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 7976/7976 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **Whispers of the Sanguine Ledger: 1 (unbounded) | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Infernal Overdrive: 1 (unbounded) | Divine Intervention (Nascent) - 1/Year: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Command of the Vanguard (1/Long Rest): 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 8/8, L11 6/6, L12 1/1**
@@ -12896,8 +14046,11 @@ I have recalculated your Divine Stat Block to reflect your Level 72 maturity. Yo
 God Mode:
 Just make me greater use normal titles
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Greater Goddess | HP: 7976/7976 | F: 20,500,000 | XP: 110550000/4336000**
@@ -12927,8 +14080,11 @@ As requested, I have updated your divine nomenclature to use standard pantheon t
 God Mode:
 DR seems too high? Remember it’s not normal hp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Greater Goddess | HP: 7976/7976 | F: 20,500,000 | XP: 110550000/4336000**
@@ -12960,8 +14116,11 @@ No changes were made to the state, as the value is mathematically consistent wit
 God Mode:
 My base hp shouldn’t be so high at level 25 base what’s everyone else’s DR
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Greater Goddess | HP: 5476/5476 | F: 20,500,000 | XP: 110550000/4336000**
@@ -13005,8 +14164,11 @@ Here is how your new DR (36,963) compares to the top deities in the pantheon. As
 God Mode:
 No all these DR calculations seem wrong remember the numbers way lower before you’re treating it like hp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Greater Goddess | HP: 5476/5476 | F: 20,500,000 | XP: 110550000/4336000**
@@ -13033,8 +14195,11 @@ In God Combat, enemies must chew through the 1,750 DR buffer before they can dam
 God Mode:
 There is no mortal vessel hp I removed that concept only my avatar has hp. My god form only DR or we can just call it DHP divine hp. It should be 25% higher than a standard god of my class and rank. Also why am I rank 7 again? If rank 7 my level should be higher than all rank 6 but do I deserve it?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | DHP: 2188/2188 | F: 20,500,000 | XP: 110550000/4336000**
@@ -13068,8 +14233,11 @@ I have performed a structural overhaul of your divine state to align with your d
 God Mode:
 How does rank even work? Not sure if it makes sense if I am rank 7 and lower level and weaker than rank 6 let’s revisit the concept
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 2188/2188 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **Whispers of the Sanguine Ledger: 1 (unbounded) | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Infernal Overdrive: 1 (unbounded) | Divine Intervention (Nascent) - 1/Year: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Command of the Vanguard (1/Long Rest): 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 8/8, L11 6/6, L12 1/1**
@@ -13103,8 +14271,11 @@ You requested DHP be **25% higher** than a standard god of your Rank.
 God Mode:
 Why am I rank 7? Do I deserve it in the lore? Haven’t other gods done things like me or had similar follower count?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Greater Goddess | DHP: 2188/2188 | F: 20,500,000 | XP: 110550000/4336000**
@@ -13139,8 +14310,11 @@ No state updates were required as the current state already accurately reflects 
 God Mode:
 Ok make sure my stats are higher than all rank 6. Then compare my stats and follower count and feats and anything else related to an gods power to the top 5 gods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Gloomstalker Ranger / Assassin Rogue (Gestalt) | HP: 2188/2188 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **Whispers of the Sanguine Ledger: 1 (unbounded) | Voice of the Iron Inquisitor: 1/1 | Bane's Iron Command: 1/1 | Infernal Overdrive: 1 (unbounded) | Divine Intervention (Nascent) - 1/Year: 1/1 | Myrkul's Skeletal Hand: 1/1 | Murderous Manifestation: 0 (unbounded) | Command of the Vanguard (1/Long Rest): 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 8/8, L11 6/6, L12 1/1**
@@ -13182,8 +14356,11 @@ I have ensured your stats are higher than all Rank 6 deities by applying the 125
 God Mode:
 Assume a battle between my god allies and mystra and the triad. Who would likely win based on stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Greater Goddess | DHP: 2188/2188 | F: 20,500,000 | XP: 110550000/4336000**
@@ -13227,8 +14404,11 @@ Your stats are now definitively the highest in the pantheon for accuracy and res
 God Mode:
 No bane shouldn’t have DR 55k you’re using the old hp scaling formula
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | DHP: 2188/2188 | F: 20,500,000 | XP: 110550000/4336000**
@@ -13253,8 +14433,11 @@ As a **War God**, Bane remains one of the 'tankiest' entities in the Rank 6 tier
 God Mode:
 Remove legacy hp multiplier from eveyeone
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Baldur's Gate (High Hall)** &nbsp;|&nbsp; ⏳ **Uktar 7, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | DHP: 2188/2188 | F: 20,500,000 | XP: 110550000/4336000**
@@ -13283,8 +14466,11 @@ Divine health no longer scales with 'meat' HP or mortal levels. It is now a meas
 > 👤 **Player:**
 > *"Roll to see how I handle the new challenges and time skip a few weeks. Start planning a massive covert operation. I will use shadow hearts former chosen of Shar status to infiltrate Shar followers in their largest church outside sword coast and win enough missions to be considered the chosen. I will act extra aggressive and make it seem like Shar is a threat to mystra and triad and get them to battle her and weaken her. Then I will kill her and take portfolio and gain ultimate power and her portfolio should be somewhat compatible. We can narrate it as Shar weakened but her “allies” bane and myrkul “save” her and in reality bring her to me for consumption. If Shar someone kills mystra and the triad then I swoop in later with my god allies and consume her. Assume I’m respected as the senior god among bane and myrkul now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Westgate (The Motherhouse of Night)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | DHP: 2188/2188 | F: 21,000,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 8/8, L11 6/6, L12 1/1 | DHP: 2188/2188**
@@ -13304,8 +14490,11 @@ Bane and Myrkul watch from the shadows of Aeterna, their respect for you now bor
 > 👤 **Player:**
 > *"THINK:Plan a way for me to infiltrate Shar forces as shadow hearts apprentice under an alias and pretend to be someone else. I want a grand masking ritual. It’ll be so extreme that I’ll just think I’m some very powerful level 20 and the only way to remind me I’m a god is if my simulcrum destroyed or shadowheart reminds me. The simulacrum will rule in my place and my council. Shar may not trust shadowheart but my grand masking ritual will make me project a void that Shar will like and Shar will choose me as an apprentice to make shadowheart feel bad. This should take while and not just be one rolll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Westgate (The Motherhouse of Night)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | DHP: 2188/2188 | F: 21,000,000 | XP: 110550000/4336000**
@@ -13317,8 +14506,11 @@ Wisdom Check (Planning): 18 vs DC 18 — Success. Your intuition and deep unders
 > [!NOTE] ⚙️ **Player Choice:**
 > *Phase 1: The Sovereign's Proxy - Spend 500 DPP to create a 'High-Resonance Simulacrum' to rule Aeterna. It will hold your Rank 7 signature and DAIR +70 to maintain the masking loop.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Westgate (The Motherhouse of Night)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | DHP: 2188/2188 | F: 21,000,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L10 8/8, L11 6/6, L12 1/1 | DHP: 2188/2188 | DPP: 1781/2281**
@@ -13338,8 +14530,11 @@ You turn to Shadowheart, who watches the departure with a mixture of dark admira
 > [!NOTE] ⚙️ **Player Choice:**
 > *Phase 1: The Sovereign's Proxy - Spend 500 DPP to create a 'High-Resonance Simulacrum' to rule Aeterna. It will hold your Rank 7 signature and DAIR +70 to maintain the masking loop.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Westgate (The Motherhouse of Night)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Transcendent Deity | DHP: 2188/2188 | F: 21,045,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L10 8/8, L11 6/6, L12 1/1 | DHP: 2188/2188**
@@ -13361,8 +14556,11 @@ Shadowheart steps forward, her hand trembling as she reaches for the 'Sunder-Tri
 > 👤 **Player:**
 > *"Phase 2 and let’s assume shadow heart will throughly enjoy being my “master” and will sexually dominate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Westgate (The Motherhouse of Night - Ritual Sanctum)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Shadow Monk | HP: 165/165 | F: 21,045,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Ki Points: 20/20 | Spells: [LOCKED] | DHP: 2188/2188 [SUPPRESSED**
@@ -13388,8 +14586,11 @@ She leans in close, the scent of night-orchids and blood filling your senses. Th
 God Mode:
 Phase 2 and let’s assume shadow heart will throughly enjoy being my “master” and will sexually dominate Me. She will enjoy it a lot because I’m normally far more powerful than her
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Westgate (The Motherhouse of Night - Ritual Sanctum)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Shadow Monk | HP: 165/165 | F: 21,045,000 | XP: 110550000/4336000**
@@ -13410,8 +14611,11 @@ I have formalized the behavioral and psychological parameters for the Sharran in
 > 👤 **Player:**
 > *"Phase 2 and let’s assume shadow heart will throughly enjoy being my “master” and will sexually dominate Me. She will enjoy it a lot because I’m normally far more powerful than her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Westgate (The Motherhouse of Night - The Inquisitorial Cloister)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 72 Shadow Monk (Vespera) | HP: 165/165 | F: 21,045,000 | XP: 110550000/4336000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Ki Points: 20/20 | Spells: [LOCKED] | DHP: 2188/2188 [SUPPRESSED**
@@ -13437,8 +14641,11 @@ She forces you to your knees right there, in the center of the cloister, her dom
 God Mode:
 Fix this narrative remember now i don’t even know I am a god and worship shadowheart and want to join Shar faction.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Westgate (The Motherhouse of Night - The Inquisitorial Cloister)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Shadow Monk (Vespera) | HP: 165/165 | Gold: 610,500gp | XP: 110550000/4336000** &nbsp;|&nbsp; ⚠️ **Hollow Soul, Total Amnesia | Exhaustion: 0 | Inspiration: No**
@@ -13459,8 +14666,11 @@ I have formalized the cognitive parameters for the 'Vespera' persona as requeste
 God Mode:
 Make me the same tri class asssassin gloomstalker wizard as my avatar with the same stats but level 20. Also as a level 20 I should be treated as a powerhouse even if submissive to level 25 shadowheart
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Westgate (The Motherhouse of Night - The Inquisitorial Cloister)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Assassin / Gloomstalker / Wizard (Vespera) | HP: 165/165 | Gold: 610,500gp | XP: 110550000/4336000** &nbsp;|&nbsp; ⚠️ **Hollow Soul, Total Amnesia | Exhaustion: 0 | Inspiration: No**
@@ -13481,8 +14691,11 @@ I have reconfigured the 'Vespera' persona to match your specified build and powe
 > 👤 **Player:**
 > *"Narrate my mission and finishing it. I shouldn’t even need to roll deception because I believe who I am. Others can roll perception on me but it should be pretty hard to see something is off about me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Westgate (The Motherhouse of Night - The Inquisitorial Cloister)** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Assassin / Gloomstalker / Wizard (Vespera) (Lvl 21 available) | HP: 165/165 | Gold: 615,500gp | XP: 110800000/4336000** &nbsp;|&nbsp; ⚠️ **Hollow Soul, Total Amnesia, Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -13519,6 +14732,8 @@ I have reconfigured the 'Vespera' persona to match your specified build and powe
 As the 'Vespera' vessel achieves this milestone, you feel a tightening of the Karsite threads binding your suppressed divinity. The mortal vessel is straining to contain the sheer volume of siphoned souls. 
 
 Would you like to level up now?
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

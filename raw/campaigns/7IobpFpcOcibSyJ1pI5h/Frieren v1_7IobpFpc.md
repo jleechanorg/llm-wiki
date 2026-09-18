@@ -12,83 +12,99 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (62 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Nocticula | Setting: 16 year old half demon half human. I am low empathy but have some. I am the only demon who hides their mana and have a massive amount maybe 50% of frieren. Start campaign where I save frieren party and she’s teamed up with stark and her mage apprentice
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Shadowed Forest Clearing | Afternoon (14:00:00) | Roleplay |
-| **03** | Shadowed Forest Clearing | 1000 Spring 15, 14:00:00 | Roleplay |
-| **04** | Shadowed Forest Clearing | 1000 Spring 15, 14:00:00 | Roleplay |
-| **05** | Unknown | Unknown | Roleplay |
-| **06** | Unknown | Unknown | Roleplay |
-| **07** | Unknown | Unknown | Roleplay |
-| **08** | Shadowed Forest Clearing | 1000 Spring 15, 14:00:30 | Roleplay |
-| **09** | Shadowed Forest Clearing | 1000 Spring 15, 14:00:45 | Roleplay |
-| **10** | Shadowed Forest Clearing | Day 15, 1000 Spring (14:01) | Roleplay |
-| **11** | Shadowed Forest Clearing | 15, 1000 Spring (14:01) | Roleplay |
-| **12** | Shadowed Forest Clearing | Day 15, 1000 Spring (14:02) | Roleplay |
-| **13** | Unknown | Spring 15, 1000 DR (14:01) | Roleplay |
-| **14** | Shadowed Forest Clearing | Day 15, 1000 Spring (14:03) | Roleplay |
-| **15** | Shadowed Forest Clearing | Month 5, 1000 Spring (Day 15) | Roleplay |
-| **16** | Shadowed Forest Clearing | Month 5, 1000 Spring (Day 15) | Roleplay |
-| **17** | Shadowed Forest Clearing | Spring 15, 1000 DR (14:05) | Roleplay |
-| **18** | Shadowed Forest Clearing | Month 5, 1000 Spring (Day 15) | Roleplay |
-| **19** | Shadowed Forest Clearing | Spring 15, 1000 DR (14:05) | Roleplay |
-| **20** | Shadowed Forest Clearing | Spring 15, 1000 DR (14:20) | Social Challenge |
-| **21** | Shadowed Forest (Heading North) | Month 15, 1000 Spring (14:35) | Roleplay |
-| **22** | Perimeter of the Sage's Aura | 15, 1000 Spring (14:40) | Roleplay |
-| **23** | Northern Perimeter of the Sage's Aura | Day 15, 1000 Spring (14:45) | Roleplay |
-| **24** | Northern Perimeter of the Sage's Aura | Day 15, 1000 Spring (14:45) | Roleplay |
-| **25** | The High Ridge (North of Sage's Aura) | Day 15, 1000 Spring (15:00) | Roleplay |
-| **26** | Steep Ridge Slope | Day 15, 1000 Spring (15:02) | Roleplay |
-| **27** | Valley Floor / Shadowed Forest | 15, 1000 Spring (14:47) | Roleplay |
-| **28** | Deep Fog-Choked Ravine | Spring 15, 1000 DR (15:32) | Roleplay |
-| **29** | Deep Fog-Choked Ravine | Spring 15, 1000 DR (15:42) | Roleplay |
-| **30** | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:27) | Roleplay |
-| **31** | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:35) | Roleplay |
-| **32** | Deep Fog-Choked Ravine | Spring 15, 1000 DR (16:35) | Roleplay |
-| **33** | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:35) | Roleplay |
-| **34** | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:35) | Roleplay |
-| **35** | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:35) | Roleplay |
-| **36** | Enclave of the Iron Saint Outskirts | 15, 1000 Spring (16:35) | Roleplay |
-| **37** | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:35) | Roleplay |
-| **38** | Enclave Outskirts - Ruined Gatehouse |  | Roleplay |
-| **39** | Enclave of the Iron Saint Outskirts |  | Roleplay |
-| **40** | Enclave of the Iron Saint Outskirts | 1000 Spring 15, 16:37:30 | Roleplay |
-| **41** | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:37) | Roleplay |
-| **42** | Enclave of the Iron Saint Gateway | Day 15, 1000 Spring (16:37) | Roleplay |
-| **43** | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:37) | Roleplay |
-| **44** | Enclave of the Iron Saint Outskirts | 1000 Spring 15, 16:37:36 | Roleplay |
-| **45** | Enclave of the Iron Saint - Outer Ward |  | Roleplay |
-| **46** | Enclave of the Iron Saint - Outer Ward | 15, 1000 Spring (17:52) | Roleplay |
-| **47** | Bone-Sown Courtyard |  | Roleplay |
-| **48** | Bone-Sown Courtyard | Spring 15, 1000 DR (18:52) | Roleplay |
-| **49** | Bone-Sown Courtyard |  | Roleplay |
-| **50** | Bone-Sown Courtyard | 15, 1000 Spring (18:52) | Roleplay |
-| **51** | Base of the West Tower | Spring 15, 1000 DR (18:57) | Roleplay |
-| **52** | Enclave of the Iron Saint - West Tower Base | Day 15, 1000 Spring (18:57) | Roleplay |
-| **53** | Base of the West Tower | Day 15, 1000 Spring (17:02) | Roleplay |
-| **54** | West Tower Ventilation Shafts | 15, 1000 Spring (19:02) | Roleplay |
-| **55** | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:02) | Roleplay |
-| **56** | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:02) | Roleplay |
-| **57** | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:02) | Roleplay |
-| **58** | West Tower Ventilation Shafts | Spring 15, 1000 DR (19:02) | Roleplay |
-| **59** | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:03) | Roleplay |
-| **60** | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:04) | Roleplay |
-| **61** | West Tower Exterior Ledge | Day 15, 1000 Spring (19:04) | Roleplay |
-| **62** | West Tower Exterior Ledge | 15, 1000 Spring (19:04) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Shadowed Forest Clearing | Afternoon (14:00:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Shadowed Forest Clearing | 1000 Spring 15, 14:00:00 | Roleplay |
+| [**Scene 04**](#scene-4) | Shadowed Forest Clearing | 1000 Spring 15, 14:00:00 | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown | Unknown | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown | Unknown | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown | Unknown | Roleplay |
+| [**Scene 08**](#scene-8) | Shadowed Forest Clearing | 1000 Spring 15, 14:00:30 | Roleplay |
+| [**Scene 09**](#scene-9) | Shadowed Forest Clearing | 1000 Spring 15, 14:00:45 | Roleplay |
+| [**Scene 10**](#scene-10) | Shadowed Forest Clearing | Day 15, 1000 Spring (14:01) | Roleplay |
+| [**Scene 11**](#scene-11) | Shadowed Forest Clearing | 15, 1000 Spring (14:01) | Roleplay |
+| [**Scene 12**](#scene-12) | Shadowed Forest Clearing | Day 15, 1000 Spring (14:02) | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown | Spring 15, 1000 DR (14:01) | Roleplay |
+| [**Scene 14**](#scene-14) | Shadowed Forest Clearing | Day 15, 1000 Spring (14:03) | Roleplay |
+| [**Scene 15**](#scene-15) | Shadowed Forest Clearing | Month 5, 1000 Spring (Day 15) | Roleplay |
+| [**Scene 16**](#scene-16) | Shadowed Forest Clearing | Month 5, 1000 Spring (Day 15) | Roleplay |
+| [**Scene 17**](#scene-17) | Shadowed Forest Clearing | Spring 15, 1000 DR (14:05) | Roleplay |
+| [**Scene 18**](#scene-18) | Shadowed Forest Clearing | Month 5, 1000 Spring (Day 15) | Roleplay |
+| [**Scene 19**](#scene-19) | Shadowed Forest Clearing | Spring 15, 1000 DR (14:05) | Roleplay |
+| [**Scene 20**](#scene-20) | Shadowed Forest Clearing | Spring 15, 1000 DR (14:20) | Social Challenge |
+| [**Scene 21**](#scene-21) | Shadowed Forest (Heading North) | Month 15, 1000 Spring (14:35) | Roleplay |
+| [**Scene 22**](#scene-22) | Perimeter of the Sage's Aura | 15, 1000 Spring (14:40) | Roleplay |
+| [**Scene 23**](#scene-23) | Northern Perimeter of the Sage's Aura | Day 15, 1000 Spring (14:45) | Roleplay |
+| [**Scene 24**](#scene-24) | Northern Perimeter of the Sage's Aura | Day 15, 1000 Spring (14:45) | Roleplay |
+| [**Scene 25**](#scene-25) | The High Ridge (North of Sage's Aura) | Day 15, 1000 Spring (15:00) | Roleplay |
+| [**Scene 26**](#scene-26) | Steep Ridge Slope | Day 15, 1000 Spring (15:02) | Roleplay |
+| [**Scene 27**](#scene-27) | Valley Floor / Shadowed Forest | 15, 1000 Spring (14:47) | Roleplay |
+| [**Scene 28**](#scene-28) | Deep Fog-Choked Ravine | Spring 15, 1000 DR (15:32) | Roleplay |
+| [**Scene 29**](#scene-29) | Deep Fog-Choked Ravine | Spring 15, 1000 DR (15:42) | Roleplay |
+| [**Scene 30**](#scene-30) | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:27) | Roleplay |
+| [**Scene 31**](#scene-31) | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:35) | Roleplay |
+| [**Scene 32**](#scene-32) | Deep Fog-Choked Ravine | Spring 15, 1000 DR (16:35) | Roleplay |
+| [**Scene 33**](#scene-33) | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:35) | Roleplay |
+| [**Scene 34**](#scene-34) | Enclave of the Iron Saint Outskirts | Spring 15, 1000 DR (16:35) | Roleplay |
+| [**Scene 35**](#scene-35) | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:35) | Roleplay |
+| [**Scene 36**](#scene-36) | Enclave of the Iron Saint Outskirts | 15, 1000 Spring (16:35) | Roleplay |
+| [**Scene 37**](#scene-37) | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:35) | Roleplay |
+| [**Scene 38**](#scene-38) | Enclave Outskirts - Ruined Gatehouse |  | Roleplay |
+| [**Scene 39**](#scene-39) | Enclave of the Iron Saint Outskirts |  | Roleplay |
+| [**Scene 40**](#scene-40) | Enclave of the Iron Saint Outskirts | 1000 Spring 15, 16:37:30 | Roleplay |
+| [**Scene 41**](#scene-41) | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:37) | Roleplay |
+| [**Scene 42**](#scene-42) | Enclave of the Iron Saint Gateway | Day 15, 1000 Spring (16:37) | Roleplay |
+| [**Scene 43**](#scene-43) | Enclave of the Iron Saint Outskirts | Day 15, 1000 Spring (16:37) | Roleplay |
+| [**Scene 44**](#scene-44) | Enclave of the Iron Saint Outskirts | 1000 Spring 15, 16:37:36 | Roleplay |
+| [**Scene 45**](#scene-45) | Enclave of the Iron Saint - Outer Ward |  | Roleplay |
+| [**Scene 46**](#scene-46) | Enclave of the Iron Saint - Outer Ward | 15, 1000 Spring (17:52) | Roleplay |
+| [**Scene 47**](#scene-47) | Bone-Sown Courtyard |  | Roleplay |
+| [**Scene 48**](#scene-48) | Bone-Sown Courtyard | Spring 15, 1000 DR (18:52) | Roleplay |
+| [**Scene 49**](#scene-49) | Bone-Sown Courtyard |  | Roleplay |
+| [**Scene 50**](#scene-50) | Bone-Sown Courtyard | 15, 1000 Spring (18:52) | Roleplay |
+| [**Scene 51**](#scene-51) | Base of the West Tower | Spring 15, 1000 DR (18:57) | Roleplay |
+| [**Scene 52**](#scene-52) | Enclave of the Iron Saint - West Tower Base | Day 15, 1000 Spring (18:57) | Roleplay |
+| [**Scene 53**](#scene-53) | Base of the West Tower | Day 15, 1000 Spring (17:02) | Roleplay |
+| [**Scene 54**](#scene-54) | West Tower Ventilation Shafts | 15, 1000 Spring (19:02) | Roleplay |
+| [**Scene 55**](#scene-55) | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:02) | Roleplay |
+| [**Scene 56**](#scene-56) | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:02) | Roleplay |
+| [**Scene 57**](#scene-57) | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:02) | Roleplay |
+| [**Scene 58**](#scene-58) | West Tower Ventilation Shafts | Spring 15, 1000 DR (19:02) | Roleplay |
+| [**Scene 59**](#scene-59) | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:03) | Roleplay |
+| [**Scene 60**](#scene-60) | West Tower Ventilation Shafts | Day 15, 1000 Spring (19:04) | Roleplay |
+| [**Scene 61**](#scene-61) | West Tower Exterior Ledge | Day 15, 1000 Spring (19:04) | Roleplay |
+| [**Scene 62**](#scene-62) | West Tower Exterior Ledge | 15, 1000 Spring (19:04) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > ✨ **Spell Slots: L1 2/2 | HD: 1/1 | No other resources at L1**
@@ -123,8 +139,11 @@ Does this match your vision? Edit or approve to start the campaign where you dra
 > 👤 **Player:**
 > *"Give me even number stays and for massive mana maybe 20 cha and double spell slots?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Afternoon (14:00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 9/9 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4 | Cantrips Unlimited**
@@ -136,8 +155,11 @@ The air thickens with brimstone as you crest the ridge. Below, in a mist-shroude
 God Mode:
 I want double spell slots for all levels but half of them are masked and if I use masked spell slots I reveal my true mana level. I also have masked spells at two levels above cutrent. Auto pick them for me and focus on ccz using any masked spells or spell slot reveals my mana
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **1000 Spring 15, 14:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 9/9 | XP: 0/300 | Gold: 10gp**
@@ -163,8 +185,11 @@ State updated. Ready for story mode - demons swarming Frieren's party below.
 God Mode:
 I need level 2 spells as well it’s always 2 extra caster levels even up to level 10 and 11 and 12 spells when I eventually get higher
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **1000 Spring 15, 14:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 9/9 | XP: 0/300 | Gold: 10gp**
@@ -195,8 +220,11 @@ State updated. Combat is initiating below (6 demons vs Frieren/Stark/Fern party)
 God Mode:
 No I mean when I get access to level 9 spells give me level 10 and 11 ones masked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Adventurer | XP: 0/300** &nbsp;|&nbsp; ✨ **Spells: L1 4/4**
@@ -225,8 +253,11 @@ No state changes needed (progression rule). Combat ready below.
 God Mode:
 No you still misunderstand. Let’s just say if I am chataracter level N give me spells and spell slots as if I was character level N+2. Also if I choose I can mask as any level for current level or below if I wanna show even less threat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Adventurer | XP: 0/300** &nbsp;|&nbsp; ✨ **Spells: L1 4/4**
@@ -260,8 +291,11 @@ No you still misunderstand. Let’s just say if I am chataracter level N give me
 God Mode:
 Give me advantage on deception checks for hiding my mana level. I’m just as good as frieren at it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Adventurer | XP: 0/300** &nbsp;|&nbsp; ✨ **Spells: L1 4/4**
@@ -279,8 +313,11 @@ Give me advantage on deception checks for hiding my mana level. I’m just as go
 > 👤 **Player:**
 > *"Give me subtle casting and start campaign where I save frieren party to some degree"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **1000 Spring 15, 14:00:30** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 9/9 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4 (2 normal/2 masked), L2 2/2 (1 normal/1 masked), L3 0/0 | HD: 1/1 | Exhaustion: 0**
@@ -292,8 +329,11 @@ The trio fights with desperate coordination, but the demons' numbers and ferocit
 > 👤 **Player:**
 > *"Use level 1 spells to help them and since these are low level demons let’s assume they aren’t really in trouble because level 3 threatening them makes no sense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **1000 Spring 15, 14:00:45** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 9/9 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4 (2 normal/2 masked), L2 2/2 (1 normal/1 masked), L3 4/4 (masked) | HD: 1/1 | Exhaustion: 0**
@@ -305,8 +345,11 @@ From your concealed ridge perch, Mana Veil flawless, you channel subtle Level 1 
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:reveal_self*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (14:01)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer (Lvl 3 Power) | HP: 9/9 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/4, L2 2/2 | Masked: L1 2/2, L2 1/1** &nbsp;|&nbsp; ⚠️ **Mana Veil Active (Masked: Lvl 1)**
@@ -320,8 +363,11 @@ You ignore the question for a moment, looking instead at the demon (npc_demon_00
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:finish_demons_subtle*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (14:01)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 9/9 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2, L3 4/4 | Sorcery Points: 0/0** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery (Advantage on Concealment)**
@@ -339,8 +385,11 @@ Frieren speaks then, her voice a soft, dangerous melody. "It's not just the dens
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:finish_demons_subtle*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (14:02)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 9/9 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 8/8, L2 4/4, L3 4/4 (Masked) | Sorcery Points: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -356,8 +405,11 @@ Frieren (Lvl 20) does not lower her staff. Her white hair settles over her shoul
 God Mode:
 CHOICE:level_up_now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (14:01)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 4 available) Adventurer | XP: 1800/2700** &nbsp;|&nbsp; ✨ **Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10**
@@ -380,8 +432,11 @@ Level Up to Level 3 processed. As a Level 3 character with the 'Demonic Overcast
 > 👤 **Player:**
 > *"CHOICE:godreturn_story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (14:03)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 4 available) Sorcerer | HP: 21/21 | Gold: 10gp | XP: 1800/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -399,8 +454,11 @@ Fern steps forward, adjusting her cloak. "If you're a traveler... what are you d
 God Mode:
 CHOICE:finish_level_up_return_to_game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Month 5, 1000 Spring (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | SP: 10/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -416,8 +474,11 @@ Fern steps forward, adjusting her cloak, her eyes wide as she studies your detac
 > 👤 **Player:**
 > *"Explain that I ran away from home. I don’t like demons and want to live among humans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Month 5, 1000 Spring (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -442,8 +503,11 @@ Frieren (Lvl 20) narrows her eyes, her staff remaining steady. To her, demons ar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Utility - Suggest that your ability to sense and hide mana makes you the perfect scout for their journey.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Active | Exhaustion: 0 | Inspiration: No**
@@ -457,8 +521,11 @@ Stark (Lvl 10) looks between the two of you, clearly uncomfortable. "Master Frie
 > 👤 **Player:**
 > *"Say it’s reasonable to doubt me. However I am only a level 3 and can’t really hurt them. Plus I can stay at edge of things and scout far away from them but I do ask if I get attacked they help me especiallf"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Month 5, 1000 Spring (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -476,8 +543,11 @@ Fern (Lvl 8) remains silent, her knuckles white around her staff. The air in the
 > 👤 **Player:**
 > *"Ask frieren how I can prove myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -497,8 +567,11 @@ Frieren looks back at you, her eyes like chips of ancient ice. "You want to prov
 > 👤 **Player:**
 > *"Accept the test and explain that I surpress my mana for safety and I’m magically stronger than most level 3 to be fair but still am no match for them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Shadowed Forest Clearing** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery (Adv on Deception), Fire Resistance | Inspiration: No**
@@ -525,8 +598,11 @@ Fern (Lvl 8) adjusts her glasses, her eyes fixed on the cold aura you project. "
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Ahead Stealthily - Utilize your Mana Veil and Stealth to clear a path through the woods toward the barrier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Shadowed Forest (Heading North)** &nbsp;|&nbsp; ⏳ **Month 15, 1000 Spring (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -548,8 +624,11 @@ The shimmering light of the Aura ripples as you cross the threshold, but it does
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Frieren's Reaction - Wait at the edge of the barrier and study Frieren's expression as she realizes you've bypassed the test.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Perimeter of the Sage's Aura** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 1800/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 8/8, L2 6/6, L3 4/4** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -565,8 +644,11 @@ You study Frieren's face, searching for a sign of concession or surprise, but he
 > 👤 **Player:**
 > *"Ask them what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Northern Perimeter of the Sage's Aura** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery (Adv on Concealment) | Exhaustion: 0 | Inspiration: No**
@@ -584,8 +666,11 @@ Fern adjusts her glasses, looking between you and Frieren. "If she's scouting, s
 God Mode:
 I didn’t get to pick skills? Shouldn’t I get to pick proficiency in persuasion and deception ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Northern Perimeter of the Sage's Aura** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Active | Exhaustion: 0 | Inspiration: No**
@@ -597,8 +682,11 @@ As a 'low empathy' character, your high Persuasion reflects a clinical, logical 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the High Ridge - Utilize the ridge to gain a tactical overview of enemy movements and mana signatures.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The High Ridge (North of Sage's Aura)** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 21/21 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -616,8 +704,11 @@ Two Undead Knights (Lvl 5 equiv) mounted on skeletal steeds stare at you through
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Retreat - Leap back down the ridge toward the party, using the terrain to break line of sight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Steep Ridge Slope** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (15:02)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 16/21 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -633,8 +724,11 @@ By the time you reach the valley floor, your breathing is rhythmic and controlle
 > 👤 **Player:**
 > *"Tell them about the patrol and recommend bypass"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Valley Floor / Shadowed Forest** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (14:47)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 12/21 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -654,8 +748,11 @@ Frieren studies you for a long moment. She can hear the logic, as cold and sharp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead Through the Ravine - Lead the party through the fog-choked ravine, focusing on noise discipline and terrain navigation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Deep Fog-Choked Ravine** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (15:32)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 12/21 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -669,8 +766,11 @@ Frieren stops beside you, her gaze tracing the jagged path you've carved through
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Poultice while Planning (Synergistic) - Treat your wounds while Frieren briefs you on the Enclave, maximizing recovery and intel gathering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Deep Fog-Choked Ravine** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (15:42)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -686,8 +786,11 @@ You listen, your mind cataloging the data points of enemy types and mana interfe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Proceed Through Ravine - Continue the stealthy navigation through the fog toward the Enclave's outskirts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (16:27)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 2200/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 6/6, L3 4/4 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -701,8 +804,11 @@ Frieren steps beside you, her staff held low. She looks at the gatehouse, then a
 > 👤 **Player:**
 > *"Recommend this and see if they agree. I will do twinned hold person and they can silently finish them off"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 2200/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 5/6, L3 4/4 | Sorcery Points: 8/10 | Mana: Masked (Lvl 1)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -720,8 +826,11 @@ Frieren's eyes narrow as she realizes the spell failed to bind them. "They are s
 God Mode:
 Wasn’t my
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Deep Fog-Choked Ravine** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Adventurer | XP: 2200/2700** &nbsp;|&nbsp; ✨ **Spells: L1 8/8, L2 4/6, L3 4/4 | Sorcery Points: 5/10**
@@ -739,8 +848,11 @@ Administrative correction applied to Sequence 62:
 > 👤 **Player:**
 > *"My cha is supposed to be 20 and I should have high dex and even  umber stats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 2200/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -750,8 +862,11 @@ Character attributes successfully updated for Nocticula (Lvl 3). As requested, y
 God Mode:
 Is my spell dc right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer (Eff. Lvl 5) | HP: 21/21 | XP: 2200/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -782,8 +897,11 @@ Your attributes have been successfully updated to even numbers with high Dexteri
 God Mode:
 Give me some reasonable gear and gold assume I’m a demon noble who ran away but keeping it a secret. I’m actually the grand daughter of the demon king
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 2200/2700 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -801,8 +919,11 @@ Administrative update complete. As a runaway granddaughter of the Demon King, yo
 God Mode:
 Give me some spell DC and spell attack gear should be both on items
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer (N+2: Lvl 5) | HP: 17/21 | XP: 2200/2700 | Gold: 500gp**
@@ -822,8 +943,11 @@ Your previous daggers have been moved to your backpack to make room for your foc
 > 👤 **Player:**
 > *"Try twinned hold person again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer (Lvl 5 Power) | HP: 17/21 | XP: 2200/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 8/8, L2 4/6, L3 4/4 | SP: 5/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -839,8 +963,11 @@ Stark (Lvl 10) looks at you, his brow furrowed. "Third time's the charm? Or are 
 > 👤 **Player:**
 > *"Let’s assume I have the command spell and it works on undead and I do command grovel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Enclave Outskirts - Ruined Gatehouse** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer (N+2: Lvl 5) | HP: 17/21 | XP: 2200/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 7/8, L2 5/6, L3 4/4, Ki: N/A, Rage: N/A, Potions: 3/3, SP: 3/10**
@@ -858,8 +985,11 @@ Stark (Lvl 10) shifts his stance, his axe ready. "They're definitely on edge now
 > 👤 **Player:**
 > *"Twinned fire bolt and do it from stealth to try trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 2200/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 7/8, L2 4/6, L3 4/4, SP: 1/10** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -875,8 +1005,11 @@ The knights stumble, their stagnant mana signatures spiking in a frantic attempt
 > 👤 **Player:**
 > *"Let them chose their attacks and keep doing normal fire bolt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **1000 Spring 15, 16:37:30** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 2300/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 7/8, L2 4/6, L3 4/4 | Sorcery Points: 1/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -890,8 +1023,11 @@ The first knight (npc_undead_knight_001) is still clinging to its stagnant life,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Last Knight - Unleash one more Fire Bolt to end the remaining sentinel's existence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (16:37)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sorcerer | HP: 17/21 | XP: 3200/6500 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 7/8, L2 4/6, L3 4/4 | Sorcery Points: 0/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Inspiration: No**
@@ -927,8 +1063,11 @@ Fern (Lvl 8) exhales a shaky breath, her staff still glowing with a defensive re
 God Mode:
 Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and return to active gameplay
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Enclave of the Iron Saint Gateway** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (16:37)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 8/8, L2 6/6, L3 6/6, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -956,8 +1095,11 @@ Nocticula has reached **Character Level 4**. Due to your **Demonic Overcasting**
 God Mode:
 Fix my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (16:37)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 8/8, L2 6/6, L3 6/6, Sorcery Points: 12/12** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery (Adv on Deception) | Exhaustion: 0 | Inspiration: No**
@@ -984,8 +1126,11 @@ Spell list and slot allocation synchronized with the 'Demonic Overcasting' direc
 God Mode:
 Let’s assume I know invis foot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Enclave of the Iron Saint Outskirts** &nbsp;|&nbsp; ⏳ **1000 Spring 15, 16:37:36** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -995,8 +1140,11 @@ Assuming 'invis foot' refers to stealth and high-mobility utility, I have added 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the journey toward the Enclave with your expanded utility spells.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Enclave of the Iron Saint - Outer Ward** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 8/8, L2 6/6, L3 6/6, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1014,8 +1162,11 @@ Ahead, the path narrows into a 'Bone-Sown Courtyard,' where rusted iron cages ha
 > 👤 **Player:**
 > *"Recommend short rest so I can convert sorc points"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Enclave of the Iron Saint - Outer Ward** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (17:52)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 5/6, L3 6/6 | SP: 12/12 | Mana Veil: Active** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1031,8 +1182,11 @@ You sit cross-legged in the shadows, closing your lightless eyes. You reach into
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Warding Runes - Study the green-light runes to find a flaw in the necromantic lock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Bone-Sown Courtyard** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 5/6, L3 6/6 | SP: 12/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -1048,8 +1202,11 @@ Frieren (Lvl 20) steps forward, the light from her staff illuminating the frustr
 > 👤 **Player:**
 > *"Let"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Bone-Sown Courtyard** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (18:52)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3,200/6,500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 6/6, L3 6/6 | Sorcery Points: 12/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1063,8 +1220,11 @@ The path to the Saint's central spire is open. Beyond the threshold lies a 'Veil
 > 👤 **Player:**
 > *"Let them decide and going forward I’m not the party leader they can decide what to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Bone-Sown Courtyard** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 5/6, L3 6/6 | SP: 12/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1084,8 +1244,11 @@ Frieren nods slowly, her gaze shifting to you. She seems to be waiting to see if
 God Mode:
 Did I just get 2300 exp? That doesn’t make sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Bone-Sown Courtyard** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (18:52)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer (Acting Lvl 6) | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 8/8, L2 6/6, L3 6/6, SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1095,8 +1258,11 @@ Did I just get 2300 exp? That doesn’t make sense
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow to West Tower - Accompany the party to the tower as they take the lead on this infiltration path.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Base of the West Tower** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (18:57)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 3200/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 5/6, L3 6/6 | Sorcery Points: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1113,8 +1279,11 @@ Frieren (Lvl 20) stops at the base, her staff held low as she gazes up at the ve
 God Mode:
 Did you double award exp ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Enclave of the Iron Saint - West Tower Base** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (18:57)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ⚠️ **Mana Veil (Masked Lvl 1) | Inspiration: No**
@@ -1134,8 +1303,11 @@ I have set your current XP to **2,700**. This is the exact threshold for Level 4
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of the West Tower with corrected XP and Level 4 integrity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Base of the West Tower** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (17:02)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 8/8, L2 5/6, L3 6/6, Sorc Points: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1151,8 +1323,11 @@ You look back down at the three silhouettes in the valley. They are small, dista
 > 👤 **Player:**
 > *"Drop rope then mage hand surveillance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **West Tower Ventilation Shafts** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (19:02)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 4/6, L3 6/6 | Sorcery Points: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1168,8 +1343,11 @@ Through the hand's tactile feedback and your own mana-sense, you 'see' it: a Sou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Sabotage (Subtle Spell) - Utilize a Subtle Fire Bolt to strike the Soul-Anchor's core from the shadows of the shaft.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **West Tower Ventilation Shafts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (19:02)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2,700/6,500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 11/12 | Spells: L1 8/8, L2 4/6, L3 6/6** &nbsp;|&nbsp; ⚠️ **Mana Veil Active | Exhaustion: 0 | Inspiration: No**
@@ -1183,8 +1361,11 @@ Your attempt to mask the pulse of the impact fails as the tower's necromantic le
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assist Stark's Ascent - Use your demonic strength or a spell to haul Stark up the rope faster before the ventilation purge hits him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **West Tower Ventilation Shafts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (19:02)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2,700/6,500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 4/6, L3 6/6 | Sorcery Points: 11/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mana Veil (Masked as Lvl 1) | Sorcery Points: 11/12 | Exhaustion: 0**
@@ -1202,8 +1383,11 @@ Below, Frieren and Fern have vanished into the shadows of the Outer Ward, their 
 God Mode:
 Why do you keep saying I get 2300 exp I think that’s a bug?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **West Tower Ventilation Shafts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (19:02)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1220,8 +1404,11 @@ You are now correctly at Level 4 (Level 6 Caster equivalent) with 2,700/6,500 XP
 God Mode:
 No I mean you keep showing me the rewards box
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **West Tower Ventilation Shafts** &nbsp;|&nbsp; ⏳ **Spring 15, 1000 DR (19:02)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ⚠️ **Mana Veil Mastery | Exhaustion: 0 | Inspiration: No**
@@ -1238,8 +1425,11 @@ The rewards box should no longer appear on your next action. You are currently L
 God Mode:
 Return to Story - Resume the infiltration of the West Tower now that the UI is fixed.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **West Tower Ventilation Shafts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (19:03)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2,700/6,500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **SP: 12/12 | Slots: L1 8/8, L2 3/6, L3 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1253,8 +1443,11 @@ The logic of the situation is binary: remain and be incinerated by the fortress'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Misty Step Extraction - Utilize Misty Step to teleport yourself out of the shaft while hauling Stark toward the lip.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **West Tower Ventilation Shafts** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (19:04)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 8/8, L2 3/6, L3 6/6 | SP: 10/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1270,8 +1463,11 @@ Down in the courtyard, Frieren (Lvl 20) freezes. Her staff remains lowered, but 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Acknowledge the Mana Spike - Briefly meet Frieren's gaze and provide a pragmatic justification for the sudden display of power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **West Tower Exterior Ledge** &nbsp;|&nbsp; ⏳ **Day 15, 1000 Spring (19:04)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 8/8, L2 2/6, L3 6/6, Sorcery Points: 11/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1289,8 +1485,11 @@ Fern (Lvl 8) appears on the ledge a moment later, having utilized her own flight
 God Mode:
 generate a detailed biography for my main character, i wanna try her out in another campaign too. you can make it generic and not just the frieren setting
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **West Tower Exterior Ledge** &nbsp;|&nbsp; ⏳ **15, 1000 Spring (19:04)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sorcerer | HP: 27/27 | XP: 2700/6500 | Gold: 540gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1322,6 +1521,8 @@ She operates with a low-empathy, high-functioning cognitive framework. She views
 
 **Constraints:**
 *   **The Reveal:** Utilizing her full power or 'Masked' spell slots causes a mana spike that temporarily shatters her veil, alerting any high-level mages or entities in the region to her true nature.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

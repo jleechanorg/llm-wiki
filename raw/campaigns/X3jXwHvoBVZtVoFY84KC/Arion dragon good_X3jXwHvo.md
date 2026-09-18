@@ -12,6 +12,19 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)
+- [🗺️ Scene Index & Timeline (25 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -60,6 +73,7 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 ---
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -125,6 +139,7 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="special-mechanics"></a>
 ## 🔮 Part III: Special Mechanics & Artifacts
 <details>
 <summary><b>Campaign Mechanics</b></summary>
@@ -171,41 +186,46 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Winter-Mourn Province | Kythorn Day 2, Year 11 New Peace (08:30) | Roleplay |
-| **02** | Ashwood Keep Gates | Kythorn Day 2, 11 New Peace (Morning) | Roleplay |
-| **03** | Ashwood Keep Gates | Kythorn Day 2, Year 11 New Peace (08:46) | Roleplay |
-| **04** | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:50) | Roleplay |
-| **05** | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:47) | Roleplay |
-| **06** | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:48) | Roleplay |
-| **07** | Ashwood Keep Gates | Year 11 Kythorn 2, 08:48:30 | Roleplay |
-| **08** | Ashwood Keep Gates | Kythorn 2, Year 11 (08:49) | Roleplay |
-| **09** | Ashwood Keep Gates | Kythorn Day 2, Year 11 (08:49 (Morning)) | Roleplay |
-| **10** | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:49) | Roleplay |
-| **11** | Ashwood Keep Gates | Kythorn Day 2, Year 11 (08:50) | Roleplay |
-| **12** | Ashwood Keep Gates (Skyward) | Kythorn 2, 11 DR (08:50) | Roleplay |
-| **13** | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (10:30) | Roleplay |
-| **14** | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 DR (10:30) | Roleplay |
-| **15** | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (10:35) | Roleplay |
-| **16** | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (10:35) | Roleplay |
-| **17** | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 DR (10:40) | Roleplay |
-| **18** | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 A.G. (10:45) | Roleplay |
-| **19** | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (11:45) | Roleplay |
-| **20** | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 AG (19:45 (Night)) | Roleplay |
-| **21** | Crystalline Peaks (Aurum's Roost) | Kythorn 3, 11 DR (06:15) | Roleplay |
-| **22** | Crystalline Peaks (Aurum's Roost) | Day 3, 11 Kythorn (06:15) | Roleplay |
-| **23** | Crystalline Peaks (Aurum's Roost) | Kythorn 3, 11 DR (06:15) | Roleplay |
-| **24** | Crystalline Peaks (Aurum's Roost) | Day 3, 11 Kythorn (06:15) | Roleplay |
-| **25** | Crystalline Peaks (Aurum's Roost) | Kythorn 3, 11 DR (07:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Winter-Mourn Province | Kythorn Day 2, Year 11 New Peace (08:30) | Roleplay |
+| [**Scene 02**](#scene-2) | Ashwood Keep Gates | Kythorn Day 2, 11 New Peace (Morning) | Roleplay |
+| [**Scene 03**](#scene-3) | Ashwood Keep Gates | Kythorn Day 2, Year 11 New Peace (08:46) | Roleplay |
+| [**Scene 04**](#scene-4) | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:50) | Roleplay |
+| [**Scene 05**](#scene-5) | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:47) | Roleplay |
+| [**Scene 06**](#scene-6) | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:48) | Roleplay |
+| [**Scene 07**](#scene-7) | Ashwood Keep Gates | Year 11 Kythorn 2, 08:48:30 | Roleplay |
+| [**Scene 08**](#scene-8) | Ashwood Keep Gates | Kythorn 2, Year 11 (08:49) | Roleplay |
+| [**Scene 09**](#scene-9) | Ashwood Keep Gates | Kythorn Day 2, Year 11 (08:49 (Morning)) | Roleplay |
+| [**Scene 10**](#scene-10) | Ashwood Keep Gates | Day 2, Year 11 Kythorn (08:49) | Roleplay |
+| [**Scene 11**](#scene-11) | Ashwood Keep Gates | Kythorn Day 2, Year 11 (08:50) | Roleplay |
+| [**Scene 12**](#scene-12) | Ashwood Keep Gates (Skyward) | Kythorn 2, 11 DR (08:50) | Roleplay |
+| [**Scene 13**](#scene-13) | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (10:30) | Roleplay |
+| [**Scene 14**](#scene-14) | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 DR (10:30) | Roleplay |
+| [**Scene 15**](#scene-15) | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (10:35) | Roleplay |
+| [**Scene 16**](#scene-16) | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (10:35) | Roleplay |
+| [**Scene 17**](#scene-17) | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 DR (10:40) | Roleplay |
+| [**Scene 18**](#scene-18) | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 A.G. (10:45) | Roleplay |
+| [**Scene 19**](#scene-19) | Crystalline Peaks (Aurum's Roost) | Day 2, 11 Kythorn (11:45) | Roleplay |
+| [**Scene 20**](#scene-20) | Crystalline Peaks (Aurum's Roost) | Kythorn 2, 11 AG (19:45 (Night)) | Roleplay |
+| [**Scene 21**](#scene-21) | Crystalline Peaks (Aurum's Roost) | Kythorn 3, 11 DR (06:15) | Roleplay |
+| [**Scene 22**](#scene-22) | Crystalline Peaks (Aurum's Roost) | Day 3, 11 Kythorn (06:15) | Roleplay |
+| [**Scene 23**](#scene-23) | Crystalline Peaks (Aurum's Roost) | Kythorn 3, 11 DR (06:15) | Roleplay |
+| [**Scene 24**](#scene-24) | Crystalline Peaks (Aurum's Roost) | Day 3, 11 Kythorn (06:15) | Roleplay |
+| [**Scene 25**](#scene-25) | Crystalline Peaks (Aurum's Roost) | Kythorn 3, 11 DR (07:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Winter-Mourn Province, Ashwood Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 New Peace (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -229,8 +249,11 @@ At the edge of the settlement, a young girl no older than your sister Lyra clutc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defy the Command - Draw your sword against your own men and stand between the Eaglets and the refugees. This is treason.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -248,8 +271,11 @@ The line of soldiers wavers, then begins to close in. You are one sixteen-year-o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rally the Settlement - Call out to Lady Annalise&#x27;s guards to assist you and for the refugees to arm themselves or flee.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 New Peace (08:46)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **Wanted for Treason | Exhaustion: 0 | Inspiration: No**
@@ -265,8 +291,11 @@ The Argent Eaglets, though shaken by your conviction, lower their spears. The cl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Ashwood Guards - Direct the local guards to flank the Eaglet line while you hold the center.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Exhaustion: 0**
@@ -280,8 +309,11 @@ However, in the center, you are a mountain. Prefect Gratian's vanguard slams int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shield Bash Advance - Push forward to create space for the refugees to finish barricading the inner gate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (08:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Wanted for Treason | Exhaustion: 0 | Inspiration: No**
@@ -293,8 +325,11 @@ You heave your weight against the rim of your shield, the sun-emblazoned steel b
 > 👤 **Player:**
 > *"Attack gratian"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (08:48)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Wanted for Treason | Inspiration: No**
@@ -308,8 +343,11 @@ Around you, the chaos intensifies. The Eaglets drive their spears into the Ashwo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Attack on Gratian - Aim for a finishing blow to break the command structure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Year 11 Kythorn 2, 08:48:30** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 3/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+)** &nbsp;|&nbsp; ⚠️ **Wanted for Treason | Exhaustion: 0 | Inspiration: No**
@@ -323,8 +361,11 @@ To your right, the situation grows dire. The Argent Eaglets, seeing their comman
 > [!NOTE] ⚙️ **Player Choice:**
 > *Desperate Counter - Ignore your pain and strike again, putting everything into one last blow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Kythorn 2, Year 11 (08:49)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 3/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+)** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Critically Wounded**
@@ -340,8 +381,11 @@ Behind you, the sound of splintering wood and the final, heavy *thud* of the iro
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (08:49 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 3/12 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+)** &nbsp;|&nbsp; ⚠️ **Wanted for Treason | Exhaustion: 0 | Inspiration: No**
@@ -361,8 +405,11 @@ The blackened steel descends with the weight of the Imperium's absolute judgment
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (08:49)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 0/12 (Dying) | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+)** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dying, Dragon Intervention Pending | Exhaustion: 0 | Inspiration: No**
@@ -372,8 +419,11 @@ Your vision blurs as you slump into the crimson-stained snow, the cold leaching 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Salvation - The darkness closes in, but a powerful presence stirs in the corners of your mind...*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Ashwood Keep Gates** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 0/12 (Dying) | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dying | Death Saves: 0s / 1f | Inspiration: No**
@@ -391,8 +441,11 @@ The air above the courtyard ripples. A heat like a midsummer noon sweeps across 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Salvation - Surrender to the golden light and the dragon&#x27;s grip.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Ashwood Keep Gates (Skyward)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Rescued, Dragon-Claimed | Exhaustion: 1**
@@ -408,8 +461,11 @@ You awaken atop a jagged peak, the air thin and biting, yet your wounds have sto
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask of the Refugees - Ignore your own state and demand to know if the people of Ashwood survived.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Day 2, 11 Kythorn (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1), Dragon-Claimed, Wanted for Treason**
@@ -427,8 +483,11 @@ He leans closer, his breath smelling of ozone and sun-warmed metal. 'But the Emp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About the Empress - Inquire how the Empress will react to your betrayal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 (Exhaustion: 1) | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dragon-Claimed | Inspiration: No**
@@ -442,8 +501,11 @@ He shifts his massive weight, his talons scoring the granite beneath him. 'She w
 God Mode:
 why do i have 20 AC?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Day 2, 11 Kythorn (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dragon-Claimed | Exhaustion: 1 | Inspiration: No**
@@ -453,8 +515,11 @@ The player is in GOD MODE asking for mechanical clarification on their Armor Cla
 God Mode:
 Inquire About Your Family - Ask if his family—his father Marcus or sister Lyra—will truly be targeted.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Day 2, 11 Kythorn (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 (Critical) | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dragon-Claimed | Exhaustion: 1 | Inspiration: No**
@@ -464,8 +529,11 @@ The player is inquiring about the collateral consequences of their treason in GO
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the dialogue with Aurum*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1), Dragon-Claimed, Wanted for Treason**
@@ -479,8 +547,11 @@ A puff of smoke, smelling of ozone and ancient suns, billows from the dragon's n
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask for the Dragon&#x27;s Aid - Ask Aurum how you can gain the power necessary to challenge the Empress&#x27;s psychic grip.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 A.G. (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 (Exhaustion: 1) | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 1**
@@ -492,8 +563,11 @@ Aurum’s eyes pulse with a heat that makes the thin air shimmer, his massive ta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Rest - Ask for time to recover from your wounds before facing any trials.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Day 2, 11 Kythorn (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 1/12 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1, Wanted for Treason, Dragon-Claimed | Inspiration: No**
@@ -509,8 +583,11 @@ You sink back against the sun-warmed granite, the sheer exhaustion of the day—
 > [!NOTE] ⚙️ **Player Choice:**
 > *Complete Long Rest - Sleep for 8 hours to fully recover HP and reduce exhaustion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 AG (19:45 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dragon-Claimed | Exhaustion: 0 | Inspiration: No**
@@ -524,8 +601,11 @@ Your eyes snap open. The agonizing weight in your shoulder has lifted, replaced 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Trial - Ask Aurum to lead you to the Trial of the Sun-Gazer to harden your will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dragon-Claimed | Exhaustion: 0 | Inspiration: No**
@@ -539,8 +619,11 @@ Aurum rises, his golden scales catching the first true rays of the sun. The moun
 > 👤 **Player:**
 > *"ask for better gear and check if my exp is right, i prob shouldve gained some from all of this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Day 3, 11 Kythorn (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 900/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells (Level 2+), Exhaustion: 0**
@@ -554,8 +637,11 @@ He pauses, a low vibration rumbling through the granite. 'As for your growth... 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up (to Level 2) - Claim your new power and advance your Paladin abilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 19/19 | XP: 900/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Wanted for Treason, Dragon-Claimed | Inspiration: No**
@@ -567,8 +653,11 @@ Your broken shoulder knits with a surge of warmth, and the dents in your plate s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up (to Level 3) - Claim your Sacred Oath and reach Level 3 immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Day 3, 11 Kythorn (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 22/22 | XP: 900/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4, Exhaustion: 0**
@@ -582,8 +671,11 @@ You feel your connection to the aether solidify. Your pool of healing power expa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacred Oath: Oath of the Ancients - Commit to preserving the light and freedom of the world (Nature/Dragon focus).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Crystalline Peaks (Aurum's Roost)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 22/22 | XP: 900/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4, Exhaustion: 0**
@@ -593,6 +685,8 @@ You kneel upon the white quartz of the Sun-Gazer's amphitheater, your shattered 
 Green vines, impossibly vibrant and smelling of rain-washed earth, sprout from the cracks in the obsidian bridge, winding around your boots. The 'Dragon-Claimed' brand upon your soul pulses with a protective warmth. You feel the aetheric light begin to pour into you, no longer burning, but filling the hollow spaces left by your betrayal with a wild, verdant power. Aurum watches, his golden pupils dilating as the primordial energy of the world recognizes its new champion.
 
 "The oath is sworn," the Gilded King resonates, his voice a landslide of approval. "The light of the sun and the green of the earth are now your masters. Stand, Ser Arion. The Empress has her laws of metal and mind, but you now hold the law of life itself."
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

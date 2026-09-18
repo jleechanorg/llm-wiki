@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (32 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Sixteen-year-old Ser Arion val Valerion is a newly-sworn Paladin, his loyalty pledged to the prosperous but soulless peace forged by the tyrannical Empress Sariel. His first mission is a brutal test of this loyalty: he is ordered to slaughter innocent refugees sheltered by a "traitorous" noble, Lady Annalise Ashwood. This order forces Arion into a crisis of conscience, pitting his sacred oath to the Imperium's cold law against his personal code of honor. As his disillusionment grows, he is contacted psychically by Aurum, the Gilded King, a magnificent gold dragon offering a different path. Aurum champions a glorious but violent freedom, urging Arion to embrace chaos as the true forge of strength and break the chains of the Empress's stagnant order.
@@ -92,48 +103,53 @@ This is your first major deployment as a newly-sworn knight in the “Argent Eag
 **Starting Abilities:**  
 You begin with Level 1 Paladin abilities: Divine Sense and Lay on Hands. Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -167,8 +183,11 @@ Please select an option (1, 2, or 3).
 God Mode:
 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -213,8 +232,11 @@ What is your choice?
 > 👤 **Player:**
 > *"1. human but partial celestial"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -265,8 +287,11 @@ How would you like to assign the scores **15, 14, 13, 12, 10, 8** to Ser Arion's
 > 👤 **Player:**
 > *"prioritize str, cha, con"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -328,8 +353,11 @@ What is your choice for Ser Arion's feat?
 > 👤 **Player:**
 > *"feat: str +2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -391,8 +419,11 @@ What is your choice for Ser Arion's feat?
 > 👤 **Player:**
 > *"feat ASI str +2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -458,8 +489,11 @@ What is your choice for Ser Arion's feat?
 God Mode:
 isn't there a feat to increase ability scores?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -525,8 +559,11 @@ What is your decision regarding Ser Arion's feat?
 God Mode:
 great weapon master
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -594,8 +631,11 @@ What skills would you like Ser Arion to be proficient in?
 > 👤 **Player:**
 > *"athletics, insight. persusasion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -672,8 +712,11 @@ What is your choice for Ser Arion's final skill?
 > 👤 **Player:**
 > *"History"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -978,8 +1021,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -1025,8 +1071,11 @@ What would you like to do next?
 God Mode:
 make my main character lawful evil
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -1082,8 +1131,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"think. whats the best way to pacify this keep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -1153,8 +1205,11 @@ Entity Tracking Validation Result:
 God Mode:
 do i have companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1191,8 +1246,11 @@ Entity Tracking Validation Result:
 God Mode:
 generate 3 companions for me like in the custom setting protocol
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1420,8 +1478,11 @@ Entity Tracking Validation Result:
 God Mode:
 some of them should be good or have moral dilemmas
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1498,8 +1559,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"looks good. continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -1551,8 +1615,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. what if we do a surgical strike, take hostages, and then get lady ashwood to surrender or  kill hostages"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1622,8 +1689,11 @@ The path of least resistance is rarely the path of true strength. The question i
 > 👤 **Player:**
 > *"HostageNegotiation_2 and i will give ashwood a subtle hint that their lives are at stake without telliing my companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1682,8 +1752,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1748,8 +1821,11 @@ think. what equipment do i have and how many spellslots
 
 think. what equipment do i have and how many spellslots"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1789,8 +1865,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"AdaptLoadout_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -1840,8 +1919,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Option_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1950,8 +2032,11 @@ whats going on. what is this crypt?? What would you like to do next?
 2. **[Option_2]:** Search the immediate area for any hidden threats or anomalies revealed by the changing light.
 3. **[Option_3]:** Proceed deeper into the crypt, determined to uncover its secrets.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -2005,8 +2090,11 @@ What would you like to do next?
 2. **[Option_2]:** Search the immediate area for any hidden threats or anomalies revealed by the changing light.
 3. **[Option_3]:** Proceed deeper into the crypt, determined to uncover its secrets."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -2072,8 +2160,11 @@ I must ensure that any action taken is both honorable and strategically sound. R
 God Mode:
 is this crypt actually related to the campaign? double checking
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -2135,8 +2226,11 @@ Entity Tracking Validation Result:
 God Mode:
 give me 10 whys. why did you insert something unrelated into this campaign?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -2175,8 +2269,11 @@ Entity Tracking Validation Result:
 God Mode:
 enter dm mode and stay there. no more story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -2211,8 +2308,11 @@ Entity Tracking Validation Result:
 God Mode:
 give me a proper answer. why did you insert the unrelated narrative about the crypt. 10 whys
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -2266,8 +2366,11 @@ Entity Tracking Validation Result:
 God Mode:
 not good enough. give me 20 whys
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -2316,8 +2419,11 @@ Entity Tracking Validation Result:
 God Mode:
 give me solutions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -2365,8 +2471,11 @@ Entity Tracking Validation Result:
 God Mode:
 you are stateless. I am talking to you through my backend server. All I can do is manage the system instructions and context i send you. adjust your solutions to account for this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -2402,6 +2511,8 @@ Entity Tracking Validation Result:
 - Missing entities: []
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

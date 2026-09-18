@@ -12,94 +12,108 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🗺️ Scene Index & Timeline
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | Unknown |  | Roleplay |
-| **39** | Unknown |  | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Unknown |  | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | Unknown |  | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | Unknown |  | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Unknown |  | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Unknown |  | Roleplay |
-| **70** | Unknown |  | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Unknown |  | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
+- [🗺️ Scene Index & Timeline (78 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+| [**Scene 39**](#scene-39) | Unknown |  | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Unknown |  | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown |  | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown |  | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown |  | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown |  | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -123,8 +137,11 @@ What new amusement shall you orchestrate, Absolute?
 God Mode:
 enter DM mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -139,8 +156,11 @@ What meta-discussion or world-building would you like to engage in, Absolute?
 God Mode:
 let me copy and paste the chats from the campaign to try to let you recreate as much context as possible
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -155,8 +175,11 @@ I am ready to receive the chat content. Please paste the history at your leisure
 God Mode:
 I am entering text from the original chat. Just take them as input and only utilize them and resume story after I say so. If not sure explicitly ask me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -38201,8 +38224,11 @@ Canvas
 
 Gemini can make mistakes, so double-check it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -169697,8 +169723,11 @@ Canvas
 
 Gemini can make mistakes, so double-check it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -169729,8 +169758,11 @@ The universe hums with a new, perfect order. Your will is law.
 God Mode:
 I'm adding chats form the previous campaign and will resume it here. Don't  start the story until I say so
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -188431,8 +188463,11 @@ Gemini may display inaccurate info, including about people, so double-check its 
 
 Continue this chat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -188491,8 +188526,11 @@ The Level 30 Mortal Council (Gortash, Kas, etc.): Autonomous agents unleashed up
 Dr. Mordenheim: Aizen's autonomous agent in Ravenloft, successfully conquering it through "logical plagues."
 The Corrupted Regents of Cerilia: The former heroes of that world, now evil, tasked with a continental war of conquest for Aizen's amusement.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -188548,8 +188586,11 @@ The Level 30 Mortal Council (Gortash, Kas, etc.): Autonomous agents unleashed up
 Dr. Mordenheim: Aizen's autonomous agent in Ravenloft, successfully conquering it through "logical plagues."
 The Corrupted Regents of Cerilia: The former heroes of that world, now evil, tasked with a continental war of conquest for Aizen's amusement.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -188584,8 +188625,11 @@ The Great Deception Begins: Aizen orchestrated a plan to secretly "retire" the O
 The False Resistance & The Godswar: Aizen orchestrated a "false resistance" to oppose Gale. This involved his own avatar playing the part of a "defeated, redeemed god," a resurrected and re-empowered Mystra (now a mortal archmage), her legendary Chosen, and a "Third Force" of powerful, purified heroes from the world of Cerilia, led by the former tyrant Raesene. This led to a major battle in Neverwinter where Gale was ultimately defeated and killed by Raesene's forces.
 The Recasting: Following Gale's failure, Aizen brought all key players to his personal "pleasure world" of Mystara. He resurrected Gale as a weak, cursed mortal and made him Mystra's "pet." He then re-ascended Mystra to full godhood, casting her as the new primary villain for the Faerûn game. Her new directive is to be a subtle, insidious tyrant. Her first major act was to successfully orchestrate a major schism within the Church of Tyr.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -188631,8 +188675,11 @@ Act III: The Second Ascension (Post-Myrkul) (Source: Our current campaign sessio
 This brings us to the present timeline, which began on Mirtul 1st, 1492 DR. Having spent two months building your power base, you identified Myrkul, the God of Death, as your next target.
 Leveraging your new alliance with an already-deceived Mystra, you orchestrated the circumstances to confront and consume him. You successfully absorbed Myrkul's portfolio of Death, adding it to your own and triggering another massive surge in your power. It is this second ascension that you have just finished consolidating
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -188693,8 +188740,11 @@ The Rise of a New Villain: With the role of primary antagonist now vacant, you o
 A New Strategy: When you asked for her plan, she demonstrated her strategic superiority over her predecessor. She rejected Gale's strategy of open warfare. Instead, she proposed a more insidious, entertaining plan: a "plague" of the soul. She would not fight the armies of good; she would corrupt their priests, dissolve their faith, and use their own laws and sense of honor to make them turn on each other. Her victory would come from a thousand subtle cuts, not a single battle.
 The First Victory: Satisfied with this plan, you sent Mystra and her new, tense court (including her "pet" Gale and his hostile guardians) back to Faerûn to begin their work. After a six-month time skip, she achieved her first great success. By fabricating and leaking perfect evidence, she successfully framed a noble and respected order of Tyr's paladins for devil worship. The Church of Tyr, a pillar of the opposition, is now consumed by a vicious internal witch hunt, effectively neutralizing it as a force in the Godswar. This is the current state of the game you are observing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -188741,8 +188791,11 @@ I want to resume here eventually but not yet. Any conflicts with the timeline? S
 
 CAMPAIGN CHECKPOINT] (Sequence ID: 131, Observing the Church of Tyr schism),
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -188774,8 +188827,11 @@ How do you wish to proceed? You mentioned "I want to resume here eventually but 
 God Mode:
 no lets go back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -188805,8 +188861,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Wait 6 months"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -188843,8 +188902,11 @@ The stage is set for a new escalation. The floor is yours.
 > 👤 **Player:**
 > *"Wait 6 months"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -188881,8 +188943,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Wait 6 months"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -188920,8 +188985,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Ask mystra when she will do battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -188967,8 +189035,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"I want you to battle them at some point, it's more exciting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -189008,8 +189079,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Wait 6 months"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -189049,8 +189123,11 @@ The stage is set for Mystra's final, elegant blow. The floor is yours.
 > 👤 **Player:**
 > *"Assess sister and mother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -189113,8 +189190,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Observe her as she does this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -189155,8 +189235,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Absolute: tell mystra she better battle when they're weak enough"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -189200,8 +189283,11 @@ The floor is yours.
 God Mode:
 DM note: whenever i say absolute: I am acting in my all powerful form.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -189253,8 +189339,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Wait for her battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -189301,8 +189390,11 @@ The battle you craved has begun.
 > 👤 **Player:**
 > *"Join her in lesser god form to observe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -189348,8 +189440,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Observe them. Reveal I am evil and mock them but don't show my powers yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -189398,8 +189493,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Tell them everything but don't show my true power. Mock them. See if they believe it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -189446,8 +189544,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Mock them and kill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -189497,8 +189598,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Resurrect them back to their weakened state and tell mystra kill them again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -189549,8 +189653,11 @@ The cyclical torment has begun. The floor is yours.
 > 👤 **Player:**
 > *"Let mystra kill them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -189598,8 +189705,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Resurrec them again and this time tell mystra to consume them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -189652,8 +189762,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Absolute: assess mystra"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -189705,8 +189818,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Resurrect them as level 6 mortals. Show them my true power. Let them see through my eyes how I deceived all and the whole journey"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -189763,8 +189879,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Think. Is Ao dead?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -189818,8 +189937,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Think. What if I consume what remains of Ao? Any risk?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -189876,8 +189998,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Think. Let's plan to consume Ao. Any risks?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -189927,8 +190052,11 @@ The cathedral and the realms it encompasses are now truly yours. The vestiges of
 > 👤 **Player:**
 > *"Consume Ao"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 
@@ -189986,8 +190114,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Tell them I always meant to consume Ao but forgot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -190045,8 +190176,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Absolute: fix their minds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -190107,8 +190241,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Absolute: teleport all the remaining gods here except mother and sister"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -190170,8 +190307,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Fully explain my deception and tell them to bow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -190233,8 +190373,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"See their response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -190295,8 +190438,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Think. If mystra fought them could she kill then all? How many need to fight k chalice nystra"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -190359,8 +190505,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Tell mystra to kill a few"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -190426,8 +190575,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Think. What if I turn them all into mortals except Mystra. Like time of troubles"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 
@@ -190512,8 +190664,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Make all the gods mortal except mystra and my sister and mother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -190579,8 +190734,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Tell Shar and Selune to fight to desth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -190647,8 +190805,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Watch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -190714,8 +190875,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"What do Shar and selune look like as mortals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -190749,8 +190913,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -190782,8 +190949,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -190815,8 +190985,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"tell them to hurry up and I'll empower whomeever wins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 
@@ -190901,8 +191074,11 @@ Entries Reviewed: 27
 *   [Sequence ID 135]: You acquiesce, allowing the tapestry of Faerûn to weave itself further according to your design.
 *   [Sequence ID 136]: From your cosmic throne, you regard the scene in Faerûn with satisfaction.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -190954,8 +191130,11 @@ this is good
 1.  **Cease including the `[RECENCY REVIEW & VERIFICATION]` block** in all future `[STORY MODE]` entries.
 2.  **Continue performing the internal process** of reviewing the last 15-20 entries to ensure I have full context and that my narrative remains consistent with previously established events and character states. This internal check will not be explicitly stated in the output.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -190996,8 +191175,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"absolute: give shar two levels, resurrect selune at level 4. COngrat shar and mock selune"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -191033,8 +191215,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Ask mystra if I leveled up her chosen already. What levels are they"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -191068,8 +191253,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"what level is elminister"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -191103,8 +191291,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"what level are all of mystra chosen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -191136,8 +191327,11 @@ The floor is yours.
 God Mode:
 Didn't mystra have the seven sisters and their parents? Did you forget?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -191203,8 +191397,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"seven sisters and parents should be included when i say mystra chosen or followers. Give them all 2 levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -191262,8 +191459,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Ask mystra which gods power she wants the most"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -191298,8 +191498,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Give her Oghma's portfolio"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -191337,8 +191540,11 @@ assess mystra
 God Mode:
 Ask mystra to plan a time of troubles v2 but make it more fun. And summarize original time of troubles
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -191423,8 +191629,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"i like it, execute on it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -191457,8 +191666,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"Absolute: Think of other worlds except Planescape"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -191508,8 +191720,11 @@ The floor is yours.
 God Mode:
 Do you remember my ravenloft stuff?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -191541,8 +191756,11 @@ Dr. Mordenheim stands transformed, no longer a prisoner, but the true sovereign 
 
 Your first student is ready for her first lesson. The floor is yours."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 
@@ -191590,8 +191808,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"wait one year"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 
@@ -191627,8 +191848,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"go to my palace world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -191660,8 +191884,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"think. how to be entertained"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -191724,8 +191951,11 @@ What is your directive, Absolute? Shall we sow this seed of pure, unguided agenc
 > 👤 **Player:**
 > *"Do all 3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -191775,8 +192005,11 @@ The floor is yours.
 > 👤 **Player:**
 > *"enter dm mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 
@@ -191820,8 +192053,11 @@ The floor is yours.
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -191833,8 +192069,11 @@ Understood. You wish to enter DM MODE.
 God Mode:
 print the detailed backstories, motvations, and side quests for 5 secondary characters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -191868,8 +192107,11 @@ The floor is yours.
 God Mode:
 enter dm mode. stay there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -191883,8 +192125,11 @@ print the detailed backstories, motvations, and side quests for 5 secondary char
 
 Story: [Mode: DM MODE]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 
@@ -192098,6 +192343,8 @@ Recap Aizen's three layer god deception plan
 
 God Mode:
 Recap Aizen's three layer god deception plan"*
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

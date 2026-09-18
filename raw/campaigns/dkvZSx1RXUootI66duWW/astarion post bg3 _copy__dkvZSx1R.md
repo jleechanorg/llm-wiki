@@ -12,51 +12,67 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (30 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Astarion | Setting: Assume I ascended and became a vampire lord. I am now level 1 again but I am a gestalt gloomstalker / assassin / one more class and suggest another good vampirish class to mix in with unique mechanics. lets assume I am still getting accustomed to new powers. This hsould be directly after bg3 and assume i have some vampire staff/servants/soldiers but a handful because most of them died in the battle.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Cazador's Palace (Upper Ballroom) | Eleasias 20, 1492 DR (04:00) | Roleplay |
-| **02** | Cazador's Palace | Eleasias 1, 1492 DR (06:00) | Roleplay |
-| **03** | Szarr Palace | Alturiak 20, 1492 DR (08:00) | Roleplay |
-| **04** | Szarr Palace | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **05** | Szarr Palace | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **06** | Szarr Palace | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **07** | Szarr Palace | Eleasias 20, 1492 DR (20:00) | Roleplay |
-| **08** | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:00) | Roleplay |
-| **09** | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:00) | Roleplay |
-| **10** | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:05) | Social Challenge |
-| **11** | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:20) | Boss Surrender |
-| **12** | Szarr Palace Library | Eleasias 1, 1492 DR (20:30) | Roleplay |
-| **13** | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
-| **14** | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
-| **15** | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
-| **16** | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
-| **17** | Gray Harbour | Eleasias 1, 1492 DR (21:05) | Roleplay |
-| **18** | Gray Harbour - Back Slip | Eleasias 1, 1492 DR (21:15) | Roleplay |
-| **19** | Gray Harbour - Back Slip | Eleasias 1, 1492 DR (21:35) | Roleplay |
-| **20** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:50) | Roleplay |
-| **21** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:50) | Roleplay |
-| **22** | Gray Harbour - Rooftops |  | Roleplay |
-| **23** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
-| **24** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
-| **25** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
-| **26** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
-| **27** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
-| **28** | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (22:00) | Roleplay |
-| **29** | Szarr Palace | Eleasias 1, 1492 DR (22:45) | Roleplay |
-| **30** | Counting House Lower Vaults | Eleasias 1, 1492 DR (23:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Cazador's Palace (Upper Ballroom) | Eleasias 20, 1492 DR (04:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Cazador's Palace | Eleasias 1, 1492 DR (06:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Szarr Palace | Alturiak 20, 1492 DR (08:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Szarr Palace | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Szarr Palace | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Szarr Palace | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Szarr Palace | Eleasias 20, 1492 DR (20:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:05) | Social Challenge |
+| [**Scene 11**](#scene-11) | Szarr Palace Ballroom | Eleasias 1, 1492 DR (20:20) | Boss Surrender |
+| [**Scene 12**](#scene-12) | Szarr Palace Library | Eleasias 1, 1492 DR (20:30) | Roleplay |
+| [**Scene 13**](#scene-13) | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
+| [**Scene 15**](#scene-15) | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
+| [**Scene 16**](#scene-16) | Gray Harbour | Eleasias 1, 1492 DR (21:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Gray Harbour | Eleasias 1, 1492 DR (21:05) | Roleplay |
+| [**Scene 18**](#scene-18) | Gray Harbour - Back Slip | Eleasias 1, 1492 DR (21:15) | Roleplay |
+| [**Scene 19**](#scene-19) | Gray Harbour - Back Slip | Eleasias 1, 1492 DR (21:35) | Roleplay |
+| [**Scene 20**](#scene-20) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:50) | Roleplay |
+| [**Scene 21**](#scene-21) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:50) | Roleplay |
+| [**Scene 22**](#scene-22) | Gray Harbour - Rooftops |  | Roleplay |
+| [**Scene 23**](#scene-23) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
+| [**Scene 24**](#scene-24) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
+| [**Scene 25**](#scene-25) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
+| [**Scene 26**](#scene-26) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
+| [**Scene 27**](#scene-27) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (21:55) | Roleplay |
+| [**Scene 28**](#scene-28) | Gray Harbour - Rooftops | Eleasias 1, 1492 DR (22:00) | Roleplay |
+| [**Scene 29**](#scene-29) | Szarr Palace | Eleasias 1, 1492 DR (22:45) | Roleplay |
+| [**Scene 30**](#scene-30) | Counting House Lower Vaults | Eleasias 1, 1492 DR (23:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Cazador's Palace (Upper Ballroom)** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0, Inspiration: No**
@@ -80,8 +96,11 @@ As an **Ascendant Vampire Lord**, you have reset the clock on your physical limi
 > 👤 **Player:**
 > *"give me some canonical vampire abilities like what I had in bg3 and make blood drinking a more useful mechanic. I want to be melee which classes have good synergy? also give me all the best gear in bg3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Cazador's Palace, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Shadow Sorcerer | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Points: 1/1, Happy: Active** &nbsp;|&nbsp; ⚠️ **Ascendant Vampire, Happy | Exhaustion: 0 | Inspiration: No**
@@ -97,8 +116,11 @@ As for your gear, I have equipped you with the regalia of a true Lord of the Nig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine Backstory - Adjust the details of your ascension or your small retinue of survivors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Szarr Palace, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Lord | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Sorcery Pts: 1/1, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Happy | Inspiration: Yes**
@@ -124,8 +146,11 @@ Does this court satisfy your ambition, Lord Astarion? Or shall we refine the det
 > 👤 **Player:**
 > *"Maybe my third class can be a vampire paladin and give me various shadow and force smites? Any other interesting mechanics"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Szarr Palace, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Lord | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Sanguine Vitality: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0, Rage: 0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Happy | Aura of Murder**
@@ -145,8 +170,11 @@ Your retinue—Leon, Dalyria, and the spawn—await your command in the halls of
 > 👤 **Player:**
 > *"actually what does college whispers do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Szarr Palace, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Sanguine Vitality: 5/5 | Inspiration: No**
@@ -168,8 +196,11 @@ Both fit your high Charisma (15) and your need for melee dominance. Do you wish 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Switch to College of Whispers - Replace Paladin with Bard, gaining Psychic Blades and social manipulation powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Szarr Palace, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 2/2 | Sanguine Vitality: N/A** &nbsp;|&nbsp; ⚠️ **Ascendant Vampire | Exhaustion: 0 | Inspiration: No**
@@ -185,8 +216,11 @@ Your legendary daggers, **Crimson Mischief** and **Bloodthirst**, pulse with a d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Conclude the creation process and step out into the shadows of Baldur's Gate to begin your reign.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Szarr Palace, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/2, Sanguine Vitality: 5/5** &nbsp;|&nbsp; ⚠️ **Happy, Aura of Murder | Exhaustion: 0 | Inspiration: No**
@@ -200,8 +234,11 @@ Your blood thrums with a power you are only beginning to understand. The souls o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Remaining Spawn - Gather the seven surviving spawn in the ballroom to establish the new hierarchy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Szarr Palace Ballroom** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/College of Whispers | HP: 11/11 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/2, Sanguine Vitality: 5/5** &nbsp;|&nbsp; ⚠️ **Happy | Exhaustion: 0 | Inspiration: Yes**
@@ -215,8 +252,11 @@ However, as you speak, the words feel slightly hollow. The transition from slave
 God Mode:
 give me even number stats and do 16 dex, 16 cha, 14 con, 14 wis, spread out the rest, give me reasonable starting gold like i just finished bg3 game, and lets assume by default i mask as a non vampire, look extremely good, and can walk in the sun etc as ascended. also i should have a bonus on social checks vs vampires as the vampire ascended
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Szarr Palace Ballroom** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Whispers | HP: 11/11 | XP: 0/300 | Gold: 20,000gp**
@@ -232,8 +272,11 @@ All changes have been persisted to the game state. The narrative remains frozen 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the confrontation with the spawn in the ballroom.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Szarr Palace Ballroom** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Whispers | HP: 11/11 | XP: 0/300 | Gold: 20,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 2/2 | Inspiration: 2/2 | Sanguine Vitality: 5/5 | HD: 1/1** &nbsp;|&nbsp; ⚠️ **Happy, Sunlight Immunity, Living Mask | Inspiration: Yes**
@@ -258,8 +301,11 @@ Leon shifts his weight by the door, his hand resting on the pommel of his sword.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Protection and Purpose - Explain that under your reign, they will no longer be hunted or starved. You are their shield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Szarr Palace Ballroom** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Whispers | HP: 11/11 | Gold: 20,000gp | XP: 30/300** &nbsp;|&nbsp; ✨ **Slots: L1 2/2, Inspiration: 2/2, Sanguine Vitality: 5/5, HD: 1/1** &nbsp;|&nbsp; ⚠️ **Happy, Sunlight Immunity, Aura of Murder | Inspiration: Yes**
@@ -286,8 +332,11 @@ You gain 30 XP.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Dalyria to the Library - Dismiss the spawn and investigate Dalyria's discovery immediately. Cazador's secrets could be dangerous.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Szarr Palace Library** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Whispers Bard | HP: 11/11 | Gold: 20,000gp | XP: 80/300** &nbsp;|&nbsp; ✨ **L1 Spells: 2/2 | Bardic Inspiration: 2/2 | Hit Dice: 1/1** &nbsp;|&nbsp; ⚠️ **Happy, Living Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -307,8 +356,11 @@ You gain 50 XP for deciphering Cazador's secrets.
 
 have my spawn and mercs guard the palace. tell my mercs to hire some more men, ideally level 5+ gloomstalker spy/scout types*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Gray Harbour** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue (G/A/W) | HP: 11/11 | Gold: 20,000gp | XP: 130/300** &nbsp;|&nbsp; ✨ **Slots: L1 2/2, Bardic: 2/2, Sanguine: 5/5, HD: 1/1** &nbsp;|&nbsp; ⚠️ **Happy, Living Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -324,8 +376,11 @@ You move through the shadows of the docks, aiming for the warehouse mentioned in
 God Mode:
 did i get to pick skills?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Gray Harbour** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 11/11 | Gold: 20,000gp | XP: 130/300** &nbsp;|&nbsp; ⚠️ **Ascended Vampire | Sunlight Immunity: Yes | Mask: Active**
@@ -363,8 +418,11 @@ WIS	14	14	+2	—
 CHA	15	15	+2	—
 Saving Throws
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Gray Harbour** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 11/11 | Gold: 20,000gp | XP: 130/300**
@@ -381,8 +439,11 @@ The game state is now fully synchronized with your character concept. The narrat
 God Mode:
 lets make all my spells cha based
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Gray Harbour** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Lord | HP: 11/11 | Gold: 20,000gp | XP: 130/300** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask | Inspiration: Yes**
@@ -396,8 +457,11 @@ This change has been registered as a persistent campaign directive. The narrativ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of Gray Harbour with your unified Charisma-based magic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Gray Harbour** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Bard | HP: 11/11 | Gold: 20,000gp | XP: 170/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/2, Sanguine Vitality: 5/5** &nbsp;|&nbsp; ⚠️ **Happy (+1 to all rolls) | Exhaustion: 0 | Inspiration: No**
@@ -415,8 +479,11 @@ As you continue toward the warehouse mentioned in Cazador's cipher, a small, rag
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pay Urchin for Distraction, Infiltrate Back (Synergistic) - Have the urchin cause a noisy distraction on the main pier while you use Shadow Magic to slip into the back slip unnoticed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Gray Harbour - Back Slip** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Lord | HP: 11/11 | Gold: 19,950gp | XP: 205/300** &nbsp;|&nbsp; ✨ **Slots: L1 2/2 | Insp: 2/2 | Sanguine: 5/5 | HD: 1/1** &nbsp;|&nbsp; ⚠️ **Happy, Living Mask, Sunlight Immunity**
@@ -432,8 +499,11 @@ Moored there is a small, sleek cutter, its sails furled and its nameplate obscur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for 'The Watcher' - Remain in the shadows and wait for the mysterious 'Watcher' to arrive to identify them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Gray Harbour - Back Slip** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue/Ranger/Bard | HP: 11/11 | Gold: 19,950gp | XP: 230/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/2, Sanguine Vitality: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -451,8 +521,11 @@ You gain 25 XP for your successful surveillance.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow from the Rooftops - Follow the ship along the dockside and rooftops as it moves through the harbor to find its destination.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Whispers | HP: 11/11 | Gold: 19,950gp | XP: 290/300** &nbsp;|&nbsp; ✨ **Slots: L1 2/2 | Bardic Inspiration: 2/2 | Sanguine Vitality: 5/5** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask | Inspiration: 2/2**
@@ -468,8 +541,11 @@ As you prepare to follow, a cold sensation pricks at the back of your neck. A fi
 God Mode:
 shouldnt i be better at stealth? i am gloomstalker and have skills/proficiency? 1d20+7 = 9 vs DC 15 - Failure (stealth_rooftop_tracking)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 11/11 | Gold: 19,950gp | XP: 290/300** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask, Happy**
@@ -491,8 +567,11 @@ In the previous turn (Sequence 40), the roll generated was a **1**. Even with yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the rooftop confrontation with the Grey-Cloak Scout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Whispers | HP: 11/11 | Gold: 19,950gp | XP: 290/300** &nbsp;|&nbsp; ✨ **Slots: L1 2/2, Inspiration: 2/2, Sanguine Vitality: 5/5, HD: 1/1** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask | Inspiration: No**
@@ -506,8 +585,11 @@ Your supernatural senses—heightened by the psychic resonance of the thousands 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dread Ambusher Strike - Lean into your Gloomstalker reflexes to close the gap instantly and strike with Crimson Mischief.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gloomstalker/Assassin/Whispers (Lvl 2 available) | HP: 11/11 | Gold: 19,950gp | XP: 300/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 1/2 | Sanguine Vitality: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask, Aura of Murder | Inspiration: Yes**
@@ -523,8 +605,11 @@ Victory! You feel the psychic resonance of the souls within you settle into a ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meditate on Your Power (Level Up) - Retreat to a safe shadow to finalize your ascent to Level 2. Your psychic and physical capabilities will expand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 2 available) | HP: 11/11 | Gold: 19,962gp | XP: 300/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2 (Level 2 pending), Sanguine: 5/5, Bardic: 1/2** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask | Inspiration: No**
@@ -538,8 +623,11 @@ You feel your reflexes sharpen as the Gloomstalker's instincts merge with the As
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fighting Style: Defense - Gain a +1 bonus to AC while wearing armor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 2 available) | HP: 11/11 | Gold: 19,962gp | XP: 300/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 1/2, Sanguine Vitality: 5/5, Exhaustion: 0**
@@ -553,8 +641,11 @@ As a Triple Gestalt reaching the second circle, your transformation accelerates.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Change Prepared Spells - Review and modify your list of known and prepared spells for Level 2.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 2 available) | HP: 11/11 | Gold: 19,962gp | XP: 300/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Inspiration: 1/2, Sanguine Vitality: 5/5** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -574,8 +665,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Gloomstalker/Assassin/Whispers | HP: 19/19 | Gold: 19,962gp | XP: 300/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 4/4, L2 2/2 | Bardic Inspiration: 3/3 | Sanguine Vitality: 10/10 | Potions: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -587,8 +681,11 @@ The Grey-Cloak Scout's body remains cooling in the gutter, a silent testament to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot the Scout's Body - Search the fallen Grey-Cloak for orders, keys, or clues about 'The Lady'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Gray Harbour - Rooftops** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Gloomstalker/Assassin/Bard | HP: 19/19 | Gold: 19,977gp | XP: 350/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Inspiration: 3/3 | Gold: 19,977** &nbsp;|&nbsp; ⚠️ **Happy, Living Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -617,8 +714,11 @@ A thin, cold smile touches your lips. They were prepared for you, yet they clear
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Palace for Reinforcements - Abandon the immediate trail to see if Leon has secured the Lvl 5 Gloomstalker scouts. You can return with a small elite strike team.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Szarr Palace** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Gloomstalker/Assassin/Whispers | HP: 19/19 | Gold: 19,992gp | XP: 350/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 4/4 | Bardic Inspiration: 3/3 | Sanguine Vitality: 10/10** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Living Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -632,8 +732,11 @@ The two Gloomstalker Scouts (Lvl 5) offer a silent, military salute. They are ex
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Strike (Elite Team) - Take the two Lvl 5 Gloomstalkers and infiltrate Vault 9 via the sea-gate. Use their combined Umbral Sight to neutralize security silently.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Counting House Lower Vaults** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Gloomstalker/Assassin/Whispers | HP: 19/19 | Gold: 19,992gp | XP: 450/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 4/4 | Bardic Inspiration: 3/3 | Sanguine Vitality: 10/10** &nbsp;|&nbsp; ⚠️ **Sunlight Immunity, Umbral Sight | Exhaustion: 0 | Inspiration: No**
@@ -643,6 +746,8 @@ The descent from the Upper City patriarchar estates to the Gray Harbour docks is
 The Counting House is a fortress of coin, built into the very bedrock of the harbor. While the surface is guarded by Steel Watchers and elite mercenaries, the sea-gate is a jagged tooth of iron submerged in the dark, churning water. You signal for the scouts to halt. Your *Umbral Sight* pierces the gloom, revealing the faint, rhythmic pulse of an arcane alarm ward laced across the iron bars. 
 
 With a silent gesture, you lead the team into the freezing water. You do not splash; you slip beneath the surface like a needle into silk. The salt-mist and the natural darkness of the harbor's underbelly render you completely invisible to the guards patrolling the piers above. You reach the iron grate, your fingers finding the mechanical bypass Elias whispered about at the palace. As the heavy gate groans open with a sound masked by the crashing waves, you slip into the jagged throat of the bank's foundation. You have bypassed the outer perimeter. Vault 9 lies ahead, somewhere in the cold, stone-quiet depths of the lower levels.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,162 +12,178 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (141 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Sariel | Setting: New campaign same setting as hunting party Netflix tv show. Sariel replaces main female character. She used to work for the fbi and special forces but she was fired for her brutal methods and intentional executions of criminals and serial killers. She's known as the blood dragon and is a genius combat prodigy. She was active from 16-20 and now is 22 and working in a casino profiling gamblers and working security. The serial killers get loose just like the tv show and the fbi comes asking for her help. Make up a unique backstory for her and reason she's called the blood dragon. She should be very polarizing and people should react strongly to her. Make her a level 5 gloomstalker
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Neon Dragon Casino & Resort | October 24, 2026 (22:15) | Roleplay |
-| **02** | The Neon Dragon Casino & Resort | October 24, 2026 (22:15) | Roleplay |
-| **03** | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:15) | Roleplay |
-| **04** | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:20) | Roleplay |
-| **05** | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:25) | Roleplay |
-| **06** | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:25) | Roleplay |
-| **07** | The Neon Dragon Casino & Resort | 2026 October 24, 22:25:00 | Roleplay |
-| **08** | The Neon Dragon Casino & Resort | October 24, 2026 (22:30) | Roleplay |
-| **09** | The Neon Dragon Casino & Resort | October 24, 2026 (22:35) | Roleplay |
-| **10** | The Neon Dragon Casino & Resort | 2026 October 24, 22:35:00 | Roleplay |
-| **11** | Secure FBI Tactical Transport | October 24, 2026 DR (22:35) | Roleplay |
-| **12** | Secure FBI Tactical Transport | October 24, 2026 DR (22:50) | Roleplay |
-| **13** | Secure FBI Tactical Transport | October 24, 2026 DR (22:50) | Roleplay |
-| **14** | Secure FBI Tactical Transport | October 24, 2026 DR (23:05) | Roleplay |
-| **15** | Secure FBI Tactical Transport | 2026 October 24, 23:05:00 | Roleplay |
-| **16** | Sector 4-Alpha | October 24, 2026 DR (23:15) | Roleplay |
-| **17** | St. Jude's Medical Supply Hub | 2026 October 24, 23:15:00.000001 | Roleplay |
-| **18** | St. Jude's Medical Supply Hub - Rafters | October 24, 2026 (23:20) | Roleplay |
-| **19** | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:20:00 | Roleplay |
-| **20** | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 DR (23:30) | Roleplay |
-| **21** | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 (23:30) | Roleplay |
-| **22** | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:30:00 | Roleplay |
-| **23** | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 (23:30) | Roleplay |
-| **24** | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 DR (23:32) | Social Challenge |
-| **25** | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:32:30 | Roleplay |
-| **26** | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 (23:34) | Roleplay |
-| **27** | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:34:00 | Roleplay |
-| **28** | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 DR (23:34) | Roleplay |
-| **29** | En Route to Old Wharf District | October 24, 2026 DR (23:55) | Roleplay |
-| **30** | Old Wharf District - Server Vault | October 24, 2026 (23:55) | Roleplay |
-| **31** | Old Wharf District - Server Vault | October 24, 2026 (23:55) | Roleplay |
-| **32** | Pier 19 Vault | October 24, 2026 DR (23:58) | Roleplay |
-| **33** | Pier 19 Server Vault | October 25, 2026 DR (00:03) | Roleplay |
-| **34** | Pier 19 Server Vault | October 25, 2026 DR (00:03) | Roleplay |
-| **35** | Financial District - Substation Delta-9 | October 25, 2026 DR (00:15) | Roleplay |
-| **36** | Financial District - Substation Delta-9 | October 25, 2026 (00:20) | Roleplay |
-| **37** | Financial District - Substation Delta-9 | October 25, 2026 (00:25) | Roleplay |
-| **38** | Financial District - Substation Delta-9 | October 25, 2026 DR (00:25) | Roleplay |
-| **39** | Financial District - Substation Delta-9 | 2026 October 25, 00:25:00 | Roleplay |
-| **40** | Financial District - Substation Delta-9 | October 25, 2026 (00:30) | Roleplay |
-| **41** | Pier 4 Under-structure - Old Wharf District | October 25, 2026 DR (00:35) | Roleplay |
-| **42** | Pier 4 - Secondary Cooling Chamber | October 25, 2026 DR (00:40) | Roleplay |
-| **43** | Pier 4 - Secondary Cooling Chamber | October 25, 2026 DR (00:40) | Roleplay |
-| **44** | Pier 4 - Secondary Cooling Chamber | 2026 October 25, 00:40:00 | Roleplay |
-| **45** | Pier 4 - Grid Control Access Corridor | October 25, 2026 DR (00:45) | Roleplay |
-| **46** | Pier 4 - Grid Control Access Corridor | October 25, 2026 DR (00:45) | Roleplay |
-| **47** | Pier 4 - Grid Control Gantry | October 25, 2026 DR (00:48) | Roleplay |
-| **48** | Pier 4 - Grid Control Gantry | 2026 October 25, 00:48:30:000001 | Roleplay |
-| **49** | Pier 4 - Grid Control Gantry | October 25, 2026 (00:48) | Roleplay |
-| **50** | Pier 4 - Grid Control Booth | October 25, 2026 DR (01:05) | Roleplay |
-| **51** | Pier 4 - Grid Control Booth | October 25, 2026 (01:05) | Roleplay |
-| **52** | Pier 4 - Grid Control Booth | October 25, 2026 DR (01:10) | Boss Surrender |
-| **53** | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:25) | Roleplay |
-| **54** | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:25) | Roleplay |
-| **55** | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:27) | Roleplay |
-| **56** | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:28) | Roleplay |
-| **57** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (01:45) | Roleplay |
-| **58** | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 October 25, 01:45:00 | Roleplay |
-| **59** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:30) | Roleplay |
-| **60** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (01:55) | Roleplay |
-| **61** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:15) | Roleplay |
-| **62** | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 October 25, 02:15:00 | Roleplay |
-| **63** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:15) | Roleplay |
-| **64** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:20) | Roleplay |
-| **65** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:20) | Roleplay |
-| **66** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:20) | Roleplay |
-| **67** | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 October 25, 02:20:00 | Roleplay |
-| **68** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:20) | Roleplay |
-| **69** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:20) | Roleplay |
-| **70** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:30) | Roleplay |
-| **71** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:30) | Social Challenge |
-| **72** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:30) | Social Challenge |
-| **73** | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:32) | Roleplay |
-| **74** | The Obsidian Rook (Sterling-Vane Safehouse) | November 15, 2026 (09:00) | Roleplay |
-| **75** | The Obsidian Rook (Sterling-Vane Safehouse) | November 15, 2026 (09:15) | Roleplay |
-| **76** | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 November 15, 09:15:00 | Roleplay |
-| **77** | The Obsidian Rook (Sterling-Vane Safehouse) | November 15, 2026 (09:15) | Roleplay |
-| **78** | The Vane Spire Penthouse (Billionaire's Row) | November 15, 2026 (20:00) | Roleplay |
-| **79** | The Vane Spire Penthouse | November 15, 2026 (21:15) | Roleplay |
-| **80** | The Vane Spire Penthouse | November 15, 2026 DR (20:15) | Roleplay |
-| **81** | The Vane Spire Penthouse | November 15, 2026 (20:30) | Boss Surrender |
-| **82** | The Vane Spire Penthouse | November 15, 2026 (21:15) | Roleplay |
-| **83** | The Vane Spire Penthouse | November 15, 2026 DR (21:20) | Boss Surrender |
-| **84** | The Vane Spire Penthouse | November 15, 2026 (21:25) | Boss Surrender |
-| **85** | The Vane Spire Penthouse | November 15, 2026 (21:26) | Social Challenge |
-| **86** | The Vane Spire Penthouse | November 15, 2026 (21:30) | Boss Surrender |
-| **87** | The Vane Spire Penthouse | November 15, 2026 DR (21:40) | Roleplay |
-| **88** | The Vane Spire Penthouse | November 15, 2026 DR (21:55) | Roleplay |
-| **89** | The Vane Spire Penthouse | November 15, 2026 (22:05) | Boss Surrender |
-| **90** | The Vane Spire Penthouse - Private Library | November 15, 2026 DR (22:15) | Boss Surrender |
-| **91** | The Vane Spire Penthouse - Private Library |  | Boss Surrender |
-| **92** | The Vane Spire Penthouse - Library | November 15, 2026 DR (22:35) | Boss Surrender |
-| **93** | The Vane Spire Penthouse - Private Library | November 15, 2026 (22:35) | Roleplay |
-| **94** | Bex's Manhattan Apartment - Balcony Breach | November 15, 2026 DR (22:42) | Roleplay |
-| **95** | Bex's Manhattan Apartment | November 15, 2026 DR (22:42) | Boss Surrender |
-| **96** | Bex's Manhattan Apartment / Vane Spire Airspace | November 15, 2026 DR (22:42) | Boss Surrender |
-| **97** | The Vane Spire Penthouse | November 15, 2026 (23:00) | Boss Surrender |
-| **98** | The Vane Spire Penthouse | November 15, 2026 (23:15) | Roleplay |
-| **99** | The Vane Spire Penthouse (Terrace) | November 15, 2026 DR (23:17) | Social Challenge |
-| **100** | The Vane Spire Penthouse Terrace | November 15, 2026 (23:25) | Roleplay |
-| **101** | The Vane Spire Penthouse (Terrace) | November 15, 2026 DR (23:27) | Boss Surrender |
-| **102** | The Vane Spire Terrace | November 15, 2026 DR (23:32) | Boss Surrender |
-| **103** | The Vane Spire Penthouse Terrace | November 15, 2026 (23:34) | Boss Surrender |
-| **104** | The Vane Spire Penthouse Roof | November 15, 2026 DR (23:39) | Boss Surrender |
-| **105** | The Vane Spire Penthouse Library | December 01, 2026 DR (08:30) | Roleplay |
-| **106** | The White House - East Room | December 15, 2026 (19:00) | Roleplay |
-| **107** | The White House - East Room | December 15, 2026 (19:00) | Roleplay |
-| **108** | The White House - East Room | December 15, 2026 DR (19:00) | Roleplay |
-| **109** | The White House - East Room | December 15, 2026 (19:15) | Roleplay |
-| **110** | The White House - East Room | December 15, 2026 DR (19:25) | Social Challenge |
-| **111** | The White House - East Room | December 15, 2026 (19:35) | Social Challenge |
-| **112** | The White House - East Room | December 15, 2026 (19:35) | Roleplay |
-| **113** | The White House - East Room | December 15, 2026 (19:45) | Social Challenge |
-| **114** | The White House - East Room | December 15, 2026 (19:48) | Social Challenge |
-| **115** | The White House - East Room | December 15, 2026 DR (20:05) | Roleplay |
-| **116** | The White House - East Room | December 15, 2026 DR (20:15) | Boss Surrender |
-| **117** | The White House - East Room | December 15, 2026 (20:20) | Roleplay |
-| **118** | The White House - East Room | December 15, 2026 DR (20:45) | Social Challenge |
-| **119** | The White House - East Room | December 15, 2026 (20:46) | Social Challenge |
-| **120** | FBI Headquarters (J. Edgar Hoover Building) | January 05, 2027 DR (20:46) | Social Challenge |
-| **121** | FBI Headquarters (Hoover Building) - Director's Office | 2027 January 5, 21:30:00 | Social Challenge |
-| **122** | The Sterling-Vane Sovereign Exchange (Wall Street) | 2027 January 19, 10:45:00 | Roleplay |
-| **123** | FBI Headquarters (Hoover Building) | January 25, 2027 (11:00) | Roleplay |
-| **124** | FBI Headquarters - Strategic Command Center | February 10, 2027 (11:00) | Roleplay |
-| **125** | J. Edgar Hoover Building - Strategic Command Center | February 10, 2027 (11:15) | Social Challenge |
-| **126** | J. Edgar Hoover Building - Strategic Command Center | 2027 February 10, 11:20:00 | Boss Surrender |
-| **127** | The Obsidian Rook - Private Medical Wing | 2027 March 12, 21:00:00 | Boss Surrender |
-| **128** | The Obsidian Rook - Private Medical Wing | 2027 March 12, 21:05:00 | Roleplay |
-| **129** | The Obsidian Rook - Private Medical Wing | March 12, 2027 DR (21:30) | Boss Surrender |
-| **130** | The Vanguard Memorial Park | 2027 June 15, 11:00:00 | Roleplay |
-| **131** | Vanguard Memorial Park | September 15, 2027 (11:00) | Boss Surrender |
-| **132** | The Obsidian Rook - Grand Atrium | September 15, 2027 DR (12:00) | Boss Surrender |
-| **133** | Vanguard Memorial Park | September 15, 2027 (15:00) | Roleplay |
-| **134** | The Obsidian Rook - Grand Atrium | September 15, 2027 (15:15) | Roleplay |
-| **135** | The Obsidian Rook - Private Office | September 15, 2027 (15:30) | Roleplay |
-| **136** | The Obsidian Rook - Private Office | September 15, 2027 DR (15:30) | Roleplay |
-| **137** | The Obsidian Rook - Private Office | September 15, 2027 (15:45) | Roleplay |
-| **138** | The Obsidian Rook - Private Office | September 15, 2027 DR (15:47) | Boss Surrender |
-| **139** | The Obsidian Rook - Private Office | September 15, 2027 (15:50) | Roleplay |
-| **140** | The Obsidian Rook - Private Office | September 15, 2027 (15:55) | Roleplay |
-| **141** | The Obsidian Rook - Private Office | September 15, 2027 (16:15) | Roleplay |
+| [**Scene 01**](#scene-1) | The Neon Dragon Casino & Resort | October 24, 2026 (22:15) | Roleplay |
+| [**Scene 02**](#scene-2) | The Neon Dragon Casino & Resort | October 24, 2026 (22:15) | Roleplay |
+| [**Scene 03**](#scene-3) | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:15) | Roleplay |
+| [**Scene 04**](#scene-4) | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:20) | Roleplay |
+| [**Scene 05**](#scene-5) | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:25) | Roleplay |
+| [**Scene 06**](#scene-6) | The Neon Dragon Casino & Resort | October 24, 2026 DR (22:25) | Roleplay |
+| [**Scene 07**](#scene-7) | The Neon Dragon Casino & Resort | 2026 October 24, 22:25:00 | Roleplay |
+| [**Scene 08**](#scene-8) | The Neon Dragon Casino & Resort | October 24, 2026 (22:30) | Roleplay |
+| [**Scene 09**](#scene-9) | The Neon Dragon Casino & Resort | October 24, 2026 (22:35) | Roleplay |
+| [**Scene 10**](#scene-10) | The Neon Dragon Casino & Resort | 2026 October 24, 22:35:00 | Roleplay |
+| [**Scene 11**](#scene-11) | Secure FBI Tactical Transport | October 24, 2026 DR (22:35) | Roleplay |
+| [**Scene 12**](#scene-12) | Secure FBI Tactical Transport | October 24, 2026 DR (22:50) | Roleplay |
+| [**Scene 13**](#scene-13) | Secure FBI Tactical Transport | October 24, 2026 DR (22:50) | Roleplay |
+| [**Scene 14**](#scene-14) | Secure FBI Tactical Transport | October 24, 2026 DR (23:05) | Roleplay |
+| [**Scene 15**](#scene-15) | Secure FBI Tactical Transport | 2026 October 24, 23:05:00 | Roleplay |
+| [**Scene 16**](#scene-16) | Sector 4-Alpha | October 24, 2026 DR (23:15) | Roleplay |
+| [**Scene 17**](#scene-17) | St. Jude's Medical Supply Hub | 2026 October 24, 23:15:00.000001 | Roleplay |
+| [**Scene 18**](#scene-18) | St. Jude's Medical Supply Hub - Rafters | October 24, 2026 (23:20) | Roleplay |
+| [**Scene 19**](#scene-19) | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:20:00 | Roleplay |
+| [**Scene 20**](#scene-20) | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 DR (23:30) | Roleplay |
+| [**Scene 21**](#scene-21) | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 (23:30) | Roleplay |
+| [**Scene 22**](#scene-22) | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:30:00 | Roleplay |
+| [**Scene 23**](#scene-23) | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 (23:30) | Roleplay |
+| [**Scene 24**](#scene-24) | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 DR (23:32) | Social Challenge |
+| [**Scene 25**](#scene-25) | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:32:30 | Roleplay |
+| [**Scene 26**](#scene-26) | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 (23:34) | Roleplay |
+| [**Scene 27**](#scene-27) | St. Jude's Medical Supply Hub - Sector 7 | 2026 October 24, 23:34:00 | Roleplay |
+| [**Scene 28**](#scene-28) | St. Jude's Medical Supply Hub - Sector 7 | October 24, 2026 DR (23:34) | Roleplay |
+| [**Scene 29**](#scene-29) | En Route to Old Wharf District | October 24, 2026 DR (23:55) | Roleplay |
+| [**Scene 30**](#scene-30) | Old Wharf District - Server Vault | October 24, 2026 (23:55) | Roleplay |
+| [**Scene 31**](#scene-31) | Old Wharf District - Server Vault | October 24, 2026 (23:55) | Roleplay |
+| [**Scene 32**](#scene-32) | Pier 19 Vault | October 24, 2026 DR (23:58) | Roleplay |
+| [**Scene 33**](#scene-33) | Pier 19 Server Vault | October 25, 2026 DR (00:03) | Roleplay |
+| [**Scene 34**](#scene-34) | Pier 19 Server Vault | October 25, 2026 DR (00:03) | Roleplay |
+| [**Scene 35**](#scene-35) | Financial District - Substation Delta-9 | October 25, 2026 DR (00:15) | Roleplay |
+| [**Scene 36**](#scene-36) | Financial District - Substation Delta-9 | October 25, 2026 (00:20) | Roleplay |
+| [**Scene 37**](#scene-37) | Financial District - Substation Delta-9 | October 25, 2026 (00:25) | Roleplay |
+| [**Scene 38**](#scene-38) | Financial District - Substation Delta-9 | October 25, 2026 DR (00:25) | Roleplay |
+| [**Scene 39**](#scene-39) | Financial District - Substation Delta-9 | 2026 October 25, 00:25:00 | Roleplay |
+| [**Scene 40**](#scene-40) | Financial District - Substation Delta-9 | October 25, 2026 (00:30) | Roleplay |
+| [**Scene 41**](#scene-41) | Pier 4 Under-structure - Old Wharf District | October 25, 2026 DR (00:35) | Roleplay |
+| [**Scene 42**](#scene-42) | Pier 4 - Secondary Cooling Chamber | October 25, 2026 DR (00:40) | Roleplay |
+| [**Scene 43**](#scene-43) | Pier 4 - Secondary Cooling Chamber | October 25, 2026 DR (00:40) | Roleplay |
+| [**Scene 44**](#scene-44) | Pier 4 - Secondary Cooling Chamber | 2026 October 25, 00:40:00 | Roleplay |
+| [**Scene 45**](#scene-45) | Pier 4 - Grid Control Access Corridor | October 25, 2026 DR (00:45) | Roleplay |
+| [**Scene 46**](#scene-46) | Pier 4 - Grid Control Access Corridor | October 25, 2026 DR (00:45) | Roleplay |
+| [**Scene 47**](#scene-47) | Pier 4 - Grid Control Gantry | October 25, 2026 DR (00:48) | Roleplay |
+| [**Scene 48**](#scene-48) | Pier 4 - Grid Control Gantry | 2026 October 25, 00:48:30:000001 | Roleplay |
+| [**Scene 49**](#scene-49) | Pier 4 - Grid Control Gantry | October 25, 2026 (00:48) | Roleplay |
+| [**Scene 50**](#scene-50) | Pier 4 - Grid Control Booth | October 25, 2026 DR (01:05) | Roleplay |
+| [**Scene 51**](#scene-51) | Pier 4 - Grid Control Booth | October 25, 2026 (01:05) | Roleplay |
+| [**Scene 52**](#scene-52) | Pier 4 - Grid Control Booth | October 25, 2026 DR (01:10) | Boss Surrender |
+| [**Scene 53**](#scene-53) | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:25) | Roleplay |
+| [**Scene 54**](#scene-54) | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:25) | Roleplay |
+| [**Scene 55**](#scene-55) | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:27) | Roleplay |
+| [**Scene 56**](#scene-56) | Pier 4 - Sub-level 3 (Capacitor Vault) | October 25, 2026 DR (01:28) | Roleplay |
+| [**Scene 57**](#scene-57) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (01:45) | Roleplay |
+| [**Scene 58**](#scene-58) | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 October 25, 01:45:00 | Roleplay |
+| [**Scene 59**](#scene-59) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:30) | Roleplay |
+| [**Scene 60**](#scene-60) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (01:55) | Roleplay |
+| [**Scene 61**](#scene-61) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:15) | Roleplay |
+| [**Scene 62**](#scene-62) | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 October 25, 02:15:00 | Roleplay |
+| [**Scene 63**](#scene-63) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:15) | Roleplay |
+| [**Scene 64**](#scene-64) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:20) | Roleplay |
+| [**Scene 65**](#scene-65) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:20) | Roleplay |
+| [**Scene 66**](#scene-66) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:20) | Roleplay |
+| [**Scene 67**](#scene-67) | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 October 25, 02:20:00 | Roleplay |
+| [**Scene 68**](#scene-68) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:20) | Roleplay |
+| [**Scene 69**](#scene-69) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:20) | Roleplay |
+| [**Scene 70**](#scene-70) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:30) | Roleplay |
+| [**Scene 71**](#scene-71) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 (02:30) | Social Challenge |
+| [**Scene 72**](#scene-72) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:30) | Social Challenge |
+| [**Scene 73**](#scene-73) | The Obsidian Rook (Sterling-Vane Safehouse) | October 25, 2026 DR (02:32) | Roleplay |
+| [**Scene 74**](#scene-74) | The Obsidian Rook (Sterling-Vane Safehouse) | November 15, 2026 (09:00) | Roleplay |
+| [**Scene 75**](#scene-75) | The Obsidian Rook (Sterling-Vane Safehouse) | November 15, 2026 (09:15) | Roleplay |
+| [**Scene 76**](#scene-76) | The Obsidian Rook (Sterling-Vane Safehouse) | 2026 November 15, 09:15:00 | Roleplay |
+| [**Scene 77**](#scene-77) | The Obsidian Rook (Sterling-Vane Safehouse) | November 15, 2026 (09:15) | Roleplay |
+| [**Scene 78**](#scene-78) | The Vane Spire Penthouse (Billionaire's Row) | November 15, 2026 (20:00) | Roleplay |
+| [**Scene 79**](#scene-79) | The Vane Spire Penthouse | November 15, 2026 (21:15) | Roleplay |
+| [**Scene 80**](#scene-80) | The Vane Spire Penthouse | November 15, 2026 DR (20:15) | Roleplay |
+| [**Scene 81**](#scene-81) | The Vane Spire Penthouse | November 15, 2026 (20:30) | Boss Surrender |
+| [**Scene 82**](#scene-82) | The Vane Spire Penthouse | November 15, 2026 (21:15) | Roleplay |
+| [**Scene 83**](#scene-83) | The Vane Spire Penthouse | November 15, 2026 DR (21:20) | Boss Surrender |
+| [**Scene 84**](#scene-84) | The Vane Spire Penthouse | November 15, 2026 (21:25) | Boss Surrender |
+| [**Scene 85**](#scene-85) | The Vane Spire Penthouse | November 15, 2026 (21:26) | Social Challenge |
+| [**Scene 86**](#scene-86) | The Vane Spire Penthouse | November 15, 2026 (21:30) | Boss Surrender |
+| [**Scene 87**](#scene-87) | The Vane Spire Penthouse | November 15, 2026 DR (21:40) | Roleplay |
+| [**Scene 88**](#scene-88) | The Vane Spire Penthouse | November 15, 2026 DR (21:55) | Roleplay |
+| [**Scene 89**](#scene-89) | The Vane Spire Penthouse | November 15, 2026 (22:05) | Boss Surrender |
+| [**Scene 90**](#scene-90) | The Vane Spire Penthouse - Private Library | November 15, 2026 DR (22:15) | Boss Surrender |
+| [**Scene 91**](#scene-91) | The Vane Spire Penthouse - Private Library |  | Boss Surrender |
+| [**Scene 92**](#scene-92) | The Vane Spire Penthouse - Library | November 15, 2026 DR (22:35) | Boss Surrender |
+| [**Scene 93**](#scene-93) | The Vane Spire Penthouse - Private Library | November 15, 2026 (22:35) | Roleplay |
+| [**Scene 94**](#scene-94) | Bex's Manhattan Apartment - Balcony Breach | November 15, 2026 DR (22:42) | Roleplay |
+| [**Scene 95**](#scene-95) | Bex's Manhattan Apartment | November 15, 2026 DR (22:42) | Boss Surrender |
+| [**Scene 96**](#scene-96) | Bex's Manhattan Apartment / Vane Spire Airspace | November 15, 2026 DR (22:42) | Boss Surrender |
+| [**Scene 97**](#scene-97) | The Vane Spire Penthouse | November 15, 2026 (23:00) | Boss Surrender |
+| [**Scene 98**](#scene-98) | The Vane Spire Penthouse | November 15, 2026 (23:15) | Roleplay |
+| [**Scene 99**](#scene-99) | The Vane Spire Penthouse (Terrace) | November 15, 2026 DR (23:17) | Social Challenge |
+| [**Scene 100**](#scene-100) | The Vane Spire Penthouse Terrace | November 15, 2026 (23:25) | Roleplay |
+| [**Scene 101**](#scene-101) | The Vane Spire Penthouse (Terrace) | November 15, 2026 DR (23:27) | Boss Surrender |
+| [**Scene 102**](#scene-102) | The Vane Spire Terrace | November 15, 2026 DR (23:32) | Boss Surrender |
+| [**Scene 103**](#scene-103) | The Vane Spire Penthouse Terrace | November 15, 2026 (23:34) | Boss Surrender |
+| [**Scene 104**](#scene-104) | The Vane Spire Penthouse Roof | November 15, 2026 DR (23:39) | Boss Surrender |
+| [**Scene 105**](#scene-105) | The Vane Spire Penthouse Library | December 01, 2026 DR (08:30) | Roleplay |
+| [**Scene 106**](#scene-106) | The White House - East Room | December 15, 2026 (19:00) | Roleplay |
+| [**Scene 107**](#scene-107) | The White House - East Room | December 15, 2026 (19:00) | Roleplay |
+| [**Scene 108**](#scene-108) | The White House - East Room | December 15, 2026 DR (19:00) | Roleplay |
+| [**Scene 109**](#scene-109) | The White House - East Room | December 15, 2026 (19:15) | Roleplay |
+| [**Scene 110**](#scene-110) | The White House - East Room | December 15, 2026 DR (19:25) | Social Challenge |
+| [**Scene 111**](#scene-111) | The White House - East Room | December 15, 2026 (19:35) | Social Challenge |
+| [**Scene 112**](#scene-112) | The White House - East Room | December 15, 2026 (19:35) | Roleplay |
+| [**Scene 113**](#scene-113) | The White House - East Room | December 15, 2026 (19:45) | Social Challenge |
+| [**Scene 114**](#scene-114) | The White House - East Room | December 15, 2026 (19:48) | Social Challenge |
+| [**Scene 115**](#scene-115) | The White House - East Room | December 15, 2026 DR (20:05) | Roleplay |
+| [**Scene 116**](#scene-116) | The White House - East Room | December 15, 2026 DR (20:15) | Boss Surrender |
+| [**Scene 117**](#scene-117) | The White House - East Room | December 15, 2026 (20:20) | Roleplay |
+| [**Scene 118**](#scene-118) | The White House - East Room | December 15, 2026 DR (20:45) | Social Challenge |
+| [**Scene 119**](#scene-119) | The White House - East Room | December 15, 2026 (20:46) | Social Challenge |
+| [**Scene 120**](#scene-120) | FBI Headquarters (J. Edgar Hoover Building) | January 05, 2027 DR (20:46) | Social Challenge |
+| [**Scene 121**](#scene-121) | FBI Headquarters (Hoover Building) - Director's Office | 2027 January 5, 21:30:00 | Social Challenge |
+| [**Scene 122**](#scene-122) | The Sterling-Vane Sovereign Exchange (Wall Street) | 2027 January 19, 10:45:00 | Roleplay |
+| [**Scene 123**](#scene-123) | FBI Headquarters (Hoover Building) | January 25, 2027 (11:00) | Roleplay |
+| [**Scene 124**](#scene-124) | FBI Headquarters - Strategic Command Center | February 10, 2027 (11:00) | Roleplay |
+| [**Scene 125**](#scene-125) | J. Edgar Hoover Building - Strategic Command Center | February 10, 2027 (11:15) | Social Challenge |
+| [**Scene 126**](#scene-126) | J. Edgar Hoover Building - Strategic Command Center | 2027 February 10, 11:20:00 | Boss Surrender |
+| [**Scene 127**](#scene-127) | The Obsidian Rook - Private Medical Wing | 2027 March 12, 21:00:00 | Boss Surrender |
+| [**Scene 128**](#scene-128) | The Obsidian Rook - Private Medical Wing | 2027 March 12, 21:05:00 | Roleplay |
+| [**Scene 129**](#scene-129) | The Obsidian Rook - Private Medical Wing | March 12, 2027 DR (21:30) | Boss Surrender |
+| [**Scene 130**](#scene-130) | The Vanguard Memorial Park | 2027 June 15, 11:00:00 | Roleplay |
+| [**Scene 131**](#scene-131) | Vanguard Memorial Park | September 15, 2027 (11:00) | Boss Surrender |
+| [**Scene 132**](#scene-132) | The Obsidian Rook - Grand Atrium | September 15, 2027 DR (12:00) | Boss Surrender |
+| [**Scene 133**](#scene-133) | Vanguard Memorial Park | September 15, 2027 (15:00) | Roleplay |
+| [**Scene 134**](#scene-134) | The Obsidian Rook - Grand Atrium | September 15, 2027 (15:15) | Roleplay |
+| [**Scene 135**](#scene-135) | The Obsidian Rook - Private Office | September 15, 2027 (15:30) | Roleplay |
+| [**Scene 136**](#scene-136) | The Obsidian Rook - Private Office | September 15, 2027 DR (15:30) | Roleplay |
+| [**Scene 137**](#scene-137) | The Obsidian Rook - Private Office | September 15, 2027 (15:45) | Roleplay |
+| [**Scene 138**](#scene-138) | The Obsidian Rook - Private Office | September 15, 2027 DR (15:47) | Boss Surrender |
+| [**Scene 139**](#scene-139) | The Obsidian Rook - Private Office | September 15, 2027 (15:50) | Roleplay |
+| [**Scene 140**](#scene-140) | The Obsidian Rook - Private Office | September 15, 2027 (15:55) | Roleplay |
+| [**Scene 141**](#scene-141) | The Obsidian Rook - Private Office | September 15, 2027 (16:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 6500/14000 | Gold: 2,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -197,8 +213,11 @@ Before we begin the narrative of the killers' escape and the FBI's arrival at th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: [AIGenerated] - I will generate a complete Level 5 Gloomstalker sheet for Sariel, including her &#x27;Blood Dragon&#x27; origin (the &#x27;Dragon&#x27;s Breath&#x27; incident), her combat prodigy stats, and her FBI equipment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/14000 | Gold: 2,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Favored Foe: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -219,8 +238,11 @@ At 22, you are a lethal anomaly. You see patterns in the way people bet, the way
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Confirm Sariel&#x27;s record and begin the hunt for the escaped killers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/14000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Arrows: 20/20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -238,8 +260,11 @@ Miller looks like she wants to arrest you just for existing. "We need the prodig
 God Mode:
 Give me 18 int and make me an int based spellcaster and let me use int when doing a logical persuasion action and give me persuasion intimidation proficiency
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/14000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -256,8 +281,11 @@ Character sheet is now synchronized with these 'prodigy' enhancements.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with the FBI agents in the casino lobby.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/14000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -273,8 +301,11 @@ The mention of your old nemesis causes a ripple of silence to settle over the me
 God Mode:
 Let's assume I had the highest rank for an agent like special agent before I was fired and it was very public. Some peolle respect me and should be happy if I return and some not
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/14000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -291,8 +322,11 @@ Administrative changes applied to Sariel's record:
 God Mode:
 Let's not make the villain focused on me for now but they'll react later change the story a bit. I don't want them calling g me out yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **2026 October 24, 22:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 6500/14000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -307,8 +341,11 @@ Administrative retcon applied to the narrative timeline:
 > 👤 **Player:**
 > *"Negotiate for special privileges and a lot of money. 50mmillion operational budget and top tier gear and equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 6500/14000 | Gold: 2,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -328,8 +365,11 @@ Vance (Lvl 6) looks at Miller (Lvl 4), then back at you. He sees the logic, the 
 > 👤 **Player:**
 > *"Also ask for 5 million personal money for the job 2.5M up front. Say I'm the best candidate and should be drop in the bucket"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **October 24, 2026 (22:35)** &nbsp;|&nbsp; 🛡️ **Sariel (Lvl 5) | HP: 44/44 | XP: 6500/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -347,8 +387,11 @@ Vance (Lvl 6) stares at you for a long moment, his eyes scanning yours for a hin
 God Mode:
 Let's also make me extremely beautiful and add that to the narrative
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Neon Dragon Casino & Resort** &nbsp;|&nbsp; ⏳ **2026 October 24, 22:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 6500/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -362,8 +405,11 @@ Administrative changes applied to Sariel's record:
 God Mode:
 Brief in Transit &amp; Remote Gear Requisition (Synergistic) - Board the transport to begin the briefing immediately while using your SAC credentials to remotely bypass Bureau logistics for a gear drop-off at a mid-way point.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Secure FBI Tactical Transport** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 6500/14000 | Gold: $2,502,500** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -384,8 +430,11 @@ Administrative logistics for the SAC's return have been cleared.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative inside the moving transport for the tactical briefing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Secure FBI Tactical Transport** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Slots: L1 4, L2 2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -403,8 +452,11 @@ Miller (Lvl 4) finally speaks, her voice sharp and defensive. "He’s already ki
 God Mode:
 Add backstory. Sariel started as a vigilante serial killer and violent criminal hunter at 15 before joining the fbi at 18
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Secure FBI Tactical Transport** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 6500/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -418,8 +470,11 @@ Administrative update to Sariel's SAC profile and narrative history:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Sculptor&#x27;s Trajectory - Use your Intelligence (Profiling) to predict Thorne&#x27;s specific target in the industrial district.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Secure FBI Tactical Transport** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Slots: L1 4, L2 2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -437,8 +492,11 @@ You gain **150 XP** for your successful profiling of the Sculptor's trajectory.
 God Mode:
 Let's actually make me a serial killer too like Dexter but peolle don't know
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Secure FBI Tactical Transport** &nbsp;|&nbsp; ⏳ **2026 October 24, 23:05:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6650/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -453,8 +511,11 @@ Administrative update to Sariel's SAC profile and psychological metadata:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Umbral Infiltration - Utilize your DARPA-spec optics and Gloomstalker &#x27;Umbral Sight&#x27; to enter the warehouse through the ventilation shafts, bypassing Thorne&#x27;s likely traps.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Sector 4-Alpha, St. Jude's Medical Hub** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 6650/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Favored Foe: 3/3 | Inspiration: No** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -470,8 +531,11 @@ You activate your Umbral Sight, your silhouette becoming a ghost in the machine,
 God Mode:
 Let's assume we have an elite team helping us introduce 3 more companions all level 5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **St. Jude's Medical Supply Hub** &nbsp;|&nbsp; ⏳ **2026 October 24, 23:15:00.000001** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 6750/14000 | Gold: $2,502,500** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -487,8 +551,11 @@ Administrative changes applied to the SAC's operational unit:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe from the Rafters - Stay high and use your optics to confirm Thorne&#x27;s exact position and current activity before engaging.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **St. Jude's Medical Supply Hub - Rafters** &nbsp;|&nbsp; ⏳ **October 24, 2026 (23:20)** &nbsp;|&nbsp; 🛡️ **Sariel (Lvl 5 SAC) | HP: 44/44 | XP: 6750/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Arrows: 20/20 | Tactical Budget: $50M** &nbsp;|&nbsp; ⚠️ **Umbral Sight (Active) | Inspiration: No**
@@ -504,8 +571,11 @@ Your Dark Passenger pulses in your chest, a cold, rhythmic hunger. The FBI wants
 > 👤 **Player:**
 > *"THINK:Can't I just shoot him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **2026 October 24, 23:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6900/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Umbral Sight, DARPA-Optics Active | Inspiration: No**
@@ -515,8 +585,11 @@ You stare down at the back of Thorne's head, the crosshairs of your optical over
 > 👤 **Player:**
 > *"Coordinated pincer with tranq"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6900/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 19/20, Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active | Exhaustion: 0 | Inspiration: No**
@@ -536,8 +609,11 @@ You look down at the unconscious form of the man who haunted your files for year
 God Mode:
 Let's make the enemy very powerful. They're releasing all serial killers and jail breaking them. Reveal it as time goes on
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **October 24, 2026 (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 7250/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -555,8 +631,11 @@ Administrative changes applied to the campaign's threat level and core plot stru
 God Mode:
 Level 12 enemies don't make sense right now adjust levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **2026 October 24, 23:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 7250/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -571,8 +650,11 @@ Administrative correction applied to campaign power scaling:
 > 👤 **Player:**
 > *"Tie up throne and interrogate him and find a way to torture him in 90 seconds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **October 24, 2026 (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 7250/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **Hidden, Dark Passenger Active | Exhaustion: 0 | Inspiration: No**
@@ -590,8 +672,11 @@ Thorne's (Lvl 8) muffled groans vibrate against the steel table, his eyes wide w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Logical Pressure - Use your INT-based profiling to explain exactly how his death will be handled if he doesn&#x27;t talk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (23:32)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 7400/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -619,8 +704,11 @@ You gain **150 XP** for extracting the Architect's location.
 God Mode:
 Add some random encounters with victims I've saved or their families and let's have most of them thinking of me as a hero
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **2026 October 24, 23:32:30** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 7400/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -635,8 +723,11 @@ Administrative update to Sariel's social legacy and encounter pool:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Staged Fatality (Dark Passenger) - Make it look like he broke his restraints and lunged for a weapon. Kill him before Miller rounds the corner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **October 24, 2026 (23:34)** &nbsp;|&nbsp; 🛡️ **Sariel (Lvl 5) | HP: 44/44 | XP: 7900/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Arrows: 19 | Tranq: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -656,8 +747,11 @@ Miller (Lvl 4) stares at the blood pooling on the stainless steel, then at the f
 God Mode:
 Let's assume I killed hundreds of violent criminals and 100 serial killers.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **2026 October 24, 23:34:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 7900/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -674,8 +768,11 @@ Administrative update to Sariel's record confirmed. Your kill count is now estab
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy the Elite Team - Order Ghost and Breaker to perform a deep-sweep of Thorne&#x27;s remaining gear while the Bureau handles the body.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **St. Jude's Medical Supply Hub - Sector 7** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (23:34)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 7900/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -695,8 +792,11 @@ You ignore her, your eyes fixed on the digital countdown Ghost (Lvl 5) has just 
 > 👤 **Player:**
 > *"High speed intercept"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **En Route to Old Wharf District** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 8200/14000 | Gold: $2,502,500** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -716,8 +816,11 @@ You lean back into the leather seat, your unearthly beauty framed by the blue ta
 > 👤 **Player:**
 > *"Silent umbrella insertion and then text Marcus so he knows what's going on and to bring backup"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Old Wharf District - Server Vault** &nbsp;|&nbsp; ⏳ **October 24, 2026 (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 8350/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Arrows: 20 | Tranq: 4/5 | Budget: $50M** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active | Exhaustion: 0 | Inspiration: No**
@@ -733,8 +836,11 @@ The vault is a forest of obsidian towers, the air humming with the desperate, hi
 God Mode:
 Give me a backstory where I come from an ultra wealthy family but they aren't doing anything evil just greedy and rich and financially powerful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Old Wharf District - Server Vault** &nbsp;|&nbsp; ⏳ **October 24, 2026 (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 8350/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -752,8 +858,11 @@ Administrative changes applied to Sariel's record regarding her heritage:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intelligence Terminal Override - Use your SAC credentials and 18 INT to interface with the terminal directly and pause the wipe protocol.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Pier 19 Vault, Old Wharf District** &nbsp;|&nbsp; ⏳ **October 24, 2026 DR (23:58)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 8350/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active | Exhaustion: 0 | Inspiration: No**
@@ -769,8 +878,11 @@ In the silence of the vault, the only sound is the frantic whine of the server f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract &#x27;Blackgate Twelve&#x27; Locations - Prioritize the real-time GPS pings for the remaining escapees.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Pier 19 Server Vault** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:03)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 8700/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -792,8 +904,11 @@ You gain **150 XP** for the successful data extraction.
 God Mode:
 Design my family. My parents truly do care about me and I have 2 older brothers and 2 older sisters of varying dispositions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Pier 19 Server Vault** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:03)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 8700/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -815,8 +930,11 @@ Administrative update to the Sterling-Vane Dynasty records. Your family tree has
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Financial District Cell - Take personal command of the strike on the substation to ensure the power grid remains intact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Financial District - Substation Delta-9** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 8700/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -832,8 +950,11 @@ Agent Sarah Miller (Lvl 4) watches from the command van's feed, her voice crackl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Umbral Strike (Synergistic) - Ghost jams their detonators while you and Breaker eliminate the cell from the shadows.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Financial District - Substation Delta-9** &nbsp;|&nbsp; ⏳ **October 25, 2026 (00:20)** &nbsp;|&nbsp; 🛡️ **Sariel (Lvl 5) | HP: 44/44 | XP: 10225/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Dread Ambusher (Active), Umbral Sight (Active) | Inspiration: No**
@@ -858,8 +979,11 @@ The second enforcer spins as your arrow tears through his shoulder, but Breaker 
 > 👤 **Player:**
 > *"Interrogate survivor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Financial District - Substation Delta-9** &nbsp;|&nbsp; ⏳ **October 25, 2026 (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 10252/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Arrows: 40 | Tranq: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -883,8 +1007,11 @@ He sags back, his eyes rolling toward the Sterling-Vane towers above. Your Dark 
 God Mode:
 Fix my gear and give me +1 gear assume it's elite equipment
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Financial District - Substation Delta-9** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 10252/14000 | Gold: 2,502,500gp**
@@ -899,8 +1026,11 @@ Gear manifest updated to **Elite Specifications** for the Special Agent in Charg
 God Mode:
 Give me a knife too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Financial District - Substation Delta-9** &nbsp;|&nbsp; ⏳ **2026 October 25, 00:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 10252/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -915,8 +1045,11 @@ Administrative changes applied to Sariel's record:
 > 👤 **Player:**
 > *"Ensure he's tied up and knock him out then immediate intercept. Use max force knocking him out so he's likely to "accidentally " die. Bring my whole team for intercept"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Financial District - Substation Delta-9** &nbsp;|&nbsp; ⏳ **October 25, 2026 (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 11804/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Tranq Darts: 4/5, Potions: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -934,8 +1067,11 @@ You vault into the SUV as Jax 'Breaker' Malone (Lvl 5) guns the engine, the tire
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pier 4: Umbral Water Entry - Use the harbor&#x27;s darkness and your Umbral Sight to swim to the pier&#x27;s under-structure, bypassing the surface guards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Pier 4 Under-structure - Old Wharf District** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 11804/14000 | Gold: $2,502,500** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active, Elite DARPA-spec Optics (+1) | Exhaustion: 0 | Inspiration: No**
@@ -953,8 +1089,11 @@ You move with a rhythmic, powerful stroke, weaving through the under-structure. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Breaker: Silent Hydraulic Breach - Have Breaker use the hydraulic spreader to silently warp the iron intake grate, allowing a quiet entry into the cooling chamber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Pier 4 - Secondary Cooling Chamber** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 11954/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Arrows: Standard (Inf), Tranq 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Umbral Sight, DARPA Optics | Exhaustion: 0 | Inspiration: No**
@@ -972,8 +1111,11 @@ You gain **125 XP** for the silent breach into the heart of the wharf's infrastr
 God Mode:
 Let's add the actual full cast of hunting party to this campaign after we regroup. Do you know them? Including bex
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Pier 4 - Secondary Cooling Chamber** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 12079/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -991,8 +1133,11 @@ I have identified the core team led by **Rebecca 'Bex'** (Melissa Roxburgh) and 
 God Mode:
 How old is bex?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Pier 4 - Secondary Cooling Chamber** &nbsp;|&nbsp; ⏳ **2026 October 25, 00:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 12079/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1006,8 +1151,11 @@ This age gap emphasizes your status as a combat and tactical prodigy while provi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of Pier 4. The Architect is within reach and the &#x27;Thirteenth&#x27; manifest looms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Pier 4 - Grid Control Access Corridor** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 12079/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1080,8 +1228,11 @@ If you want, I can:
 	•	Compare SAC age trends to CIA Station Chiefs
 	•	Or estimate probabilities of reaching SAC before 45
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Pier 4 - Grid Control Access Corridor** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 12229/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1098,8 +1249,11 @@ Administrative update to Sariel's personnel file confirmed. You have established
 > [!NOTE] ⚙️ **Player Choice:**
 > *Umbral Gantry Bypass - Utilize Umbral Sight to navigate the dark overhead gantries, bypassing the guards entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Pier 4 - Grid Control Gantry** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (00:48)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 12479/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 20, Tranq Darts: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Umbral Sight (Active) | Inspiration: No**
@@ -1117,8 +1271,11 @@ You gain **250 XP** for the successful Umbral Gantry Bypass and tactical link-up
 > 👤 **Player:**
 > *"THINK:What if I capture architect and interrogate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Pier 4 - Grid Control Gantry** &nbsp;|&nbsp; ⏳ **2026 October 25, 00:48:30:000001** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 12479/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1128,8 +1285,11 @@ You pause, the violet HUD of your DARPA optics reflecting off the frost-caked ga
 God Mode:
 Surgical Extraction - Use Breaker to breach the booth while you drop from the rafters for a high-speed non-lethal takedown.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Pier 4 - Grid Control Gantry** &nbsp;|&nbsp; ⏳ **October 25, 2026 (00:48)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 12479/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1151,8 +1311,11 @@ All state variables are synchronized for the transition back to Story Mode. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Extraction - Use Breaker to breach the booth while you drop from the rafters for a high-speed non-lethal takedown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Pier 4 - Grid Control Booth** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 12479/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Dragon's Fang: 1/1 | Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **Umbral Sight, Dread Ambusher | Exhaustion: 0 | Inspiration: No**
@@ -1174,8 +1337,11 @@ You gain **450 XP** for the successful surgical extraction and capture of the Ar
 > 👤 **Player:**
 > *"THINK:How can I torture him into getting quick intel? Maybe psychologically?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Pier 4 - Grid Control Booth** &nbsp;|&nbsp; ⏳ **October 25, 2026 (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 12929/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Tranq Darts: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1185,8 +1351,11 @@ You pause, the violet HUD of your DARPA optics reflecting off the frost-caked bo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bex Hacks, Sariel Squeezes (Synergistic) - Order Bex to start a remote &#x27;Public Defamation&#x27; hack on his private records while you physically pressure him. The combination of losing his reputation and his freedom simultaneously is designed to break him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Pier 4 - Grid Control Booth** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 13454/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq: 4/5 | Glock: 15/15** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active | Exhaustion: 0 | Inspiration: No**
@@ -1214,8 +1383,11 @@ You gain **525 XP** for the masterful synergistic interrogation and securing the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Pincer Descent (Synergistic) - Breaker and Bex suppress the sub-level security from above while you and Ghost perform a high-speed Umbral drop directly onto the capacitor bank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Pier 4 - Sub-level 3 (Capacitor Vault)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloomstalker | HP: 44/44 | XP: 14004/14000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5 | Code Kills: 101** &nbsp;|&nbsp; ⚠️ **Umbral Sight (Active), Infiltrating | Exhaustion: 0 | Inspiration: No**
@@ -1235,8 +1407,11 @@ Your optics sweep the chamber, locking onto the primary capacitor bank. In the c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Arrow Strike - Aim for the exposed biological nerve-bundle at the base of the Hybrid&#x27;s skull. Use a high-velocity carbon-fiber arrow to sever its motor control instantly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Pier 4 - Sub-level 3 (Capacitor Vault)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (SAC) | HP: 44/44 | XP: 14004/23000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq Darts: 4/5 | Focus: SAC/Dark Passenger** &nbsp;|&nbsp; ⚠️ **Umbral Sight (Invisible to Darkvision) | Exhaustion: 0 | Inspiration: Yes**
@@ -1256,8 +1431,11 @@ From the mezzanine above, the suppressed bark of Breaker's (Lvl 5) weapon ceases
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Spike &amp; Manual Override (Synergistic) - Ghost initiates a software-side logical virus to slow the Hybrid while you deliver a precision arrow to its neural port—clearing the relay for an immediate manual reset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Pier 4 - Sub-level 3 (Capacitor Vault)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:27)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 14004/23000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq: 4/5 | Slots: 3/3 Attuned** &nbsp;|&nbsp; ⚠️ **Umbral Sight, Dread Ambusher | Exhaustion: 0 | Inspiration: No**
@@ -1281,8 +1459,11 @@ You gain **850 XP** for the tactical neutralization of Subject Thirteen and secu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Core Extraction - Use the Dragon&#x27;s Fang to manually remove the Hybrid&#x27;s memory core before the Bureau arrives. Keep the data for your own analysis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Pier 4 - Sub-level 3 (Capacitor Vault)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:28)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloomstalker) | HP: 44/44 | XP: 14854/23000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Tranq: 4/5 | Arrows: 19/20** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active | Exhaustion: 0 | Inspiration: No**
@@ -1304,8 +1485,11 @@ You gain **250 XP** for the successful extraction and concealment of the Hybrid'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Regroup at the Safehouse - Board the transport and head to the off-the-books Sterling-Vane safehouse to meet Bex and the full team.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Sariel (Lvl 5 Ranger) | HP: 44/44 | XP: 15554/23000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Arrows: 19/20 | Tranq: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1325,8 +1509,11 @@ Bex (Lvl 5) turns to you, her gaze flickering to the shielded pocket of your tac
 God Mode:
 Give me proper exp and loot if you missed any. Let's also have a plot line where bex suspects I'm a serial killer because she's a great profiler but it takes a long time. She engages me and is very impressed and curious because no one has ever been a sac at my age. Let's have her always trying to talk to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **2026 October 25, 01:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloomstalker) | HP: 60/60 | XP: 23,100/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1360,8 +1547,11 @@ A long-term narrative directive has been established for **Lead Investigator Reb
 > 👤 **Player:**
 > *"Finish processing level 7 and narrate some friendly dialog where bex tries fo get to know me. Let's also have the director enter the scene and congratulate me. He's someone who knows my parents and is one of the rare people who isn't afraid of me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloomstalker) | HP: 60/60 | XP: 23,104/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Arrows: 19/20, Tranq: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1379,8 +1569,11 @@ Before you can respond, the heavy reinforced doors at the far end of the gallery
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Director (Logical) - Utilize your INT (Profiling) to provide a high-level briefing to the Director, establishing your dominance over the tactical situation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (01:55)** &nbsp;|&nbsp; 🛡️ **Sariel (Lvl 7) | HP: 60/60 | XP: 23,104/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1398,8 +1591,11 @@ Miller (Lvl 4) looks like she's about to object, but Bex (Lvl 5) steps closer to
 > 👤 **Player:**
 > *"Engage in dialog with bex. Give her some hints as she proves me to learn about me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloomstalker) | HP: 60/60 | XP: 23,104/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/2, Arrows: 19/20, Tranq: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1417,8 +1613,11 @@ Bex’s (Lvl 5) eyebrows lift, a flash of genuine, intellectual hunger in her ey
 God Mode:
 Make me gloom 5 assassin 2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **2026 October 25, 02:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gloomstalker 5/Assassin 2 | HP: 60/60 | XP: 23104/34000 | Gold: $2,502,500**
@@ -1436,8 +1635,11 @@ Administrative build reconstruction for SAC Sariel confirmed:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tease Vigilante Logic - Explain that &#x27;practice&#x27; is for those who aren&#x27;t born with the instinct, implying your lethality is a biological trait rather than a choice.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 60/60 | XP: 23104/34000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/2, Sneak Attack: 1d6, Cunning Action: Ready, Assassinate: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1453,8 +1655,11 @@ Bex (Lvl 5) is silent for a moment, her eyes never leaving yours. The intellectu
 > 👤 **Player:**
 > *"Make small talk and ask her why she's mad at Odell's say he saved lives by burning the killer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gloomstalker/Assassin | HP: 60/60 | XP: 23104/34000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/2, Dark Passenger: Satiated** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1472,8 +1677,11 @@ She steps closer, her voice dropping to a low, intrigued hum. "It's the efficien
 God Mode:
 Let's assume just like the tv show we have a lot of staff hunting down these killers but I'm in charge instead of odell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 60/60 | XP: 23104/34000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1495,8 +1703,11 @@ Your forces have grown to over 100 strong. You might consider enabling the strat
 God Mode:
 You're getting it wrong odell burned serial
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gloomstalker/Assassin | HP: 60/60 | XP: 23,104/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1513,8 +1724,11 @@ Administrative retcon applied to the campaign's historical record.
 God Mode:
 Enable faction management
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **2026 October 25, 02:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gloomstalker/Assassin | HP: 60/60 | XP: 23,104/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1543,8 +1757,11 @@ The Strategic Faction Management System is now fully operational and calibrated 
 God Mode:
 You're getting it wrong do you know the tv show? Bex and odell used to be partners and Odell burned a serial killer to save a girl bex adopted
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 60/60 | XP: 23104/34000 | Gold: 2,502,500gp**
@@ -1561,8 +1778,11 @@ Core memories and NPC background data have been updated to reflect these canonic
 God Mode:
 Make sure you lookup hunting party lore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 60/60 | XP: 23104/34000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1582,8 +1802,11 @@ Lore synchronization with 'Hunting Party' (Netflix) complete. The campaign state
 > 👤 **Player:**
 > *"Ask bex about odell actions and say he saved a lot of lives killing the serial koller"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 60/60 | XP: 23,104/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 1d6 | Cunning Action: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1609,8 +1832,11 @@ From the adjacent comms hub, Kaelen 'Ghost' Vance (Lvl 5) interrupts the tension
 God Mode:
 Why is this a failure? 1d20+7 = 22 vs DC 16 - Failure (Persuasion (INT-based))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 60/60 | XP: 23104/34000 | Gold: 2,502,500gp**
@@ -1627,8 +1853,11 @@ I have corrected the game state to reflect the following:
 > 👤 **Player:**
 > *"Tell bex she's being silly. Where is the humanity for the abstract lives saved by killing  a serial killer? She's focused don what she can see in front of her and not the untold stories of lives saved"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gloomstalker/Assassin | HP: 60/60 | XP: 23,104/34,000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1655,8 +1884,11 @@ Bex (Lvl 5) opens her mouth to retort, but her jaw hitches, her eyes searching y
 > 👤 **Player:**
 > *"Attack her morals more politely. Explain that some lives are worth taking so others can live. Failing to make Choice is a choice too and sentencing future victims to death."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **October 25, 2026 DR (02:32)** &nbsp;|&nbsp; 🛡️ **SAC Sariel (Lvl 7) | HP: 60/60 | XP: 23104/34000 | Gold: 2,502,500gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1678,8 +1910,11 @@ Ghost (Lvl 5) taps his earpiece, his face pale. "SAC, Miller is shouting for a t
 > 👤 **Player:**
 > *"Let's just time skip a few weeks and finish this arc. Assume in relatively easily capture or kill the remaining 13 since we got the architect who was the leader and the data and give me sanctuary. Everyone who's never worked with me before should be amazed I wrapped it up in a few weeks."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **November 15, 2026 (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 68/68 | XP: 48104/64000 | Gold: 2,498,405gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Ammo: Standard 20/20, Tranq 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1695,8 +1930,11 @@ The Dark Passenger within you is quiet, satiated by the rhythmic finality of the
 > 👤 **Player:**
 > *"Narrate a scene where all 150 operatives are clapping and cheering for me. No one has seen this before except my old tesm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **November 15, 2026 (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 68/68 | XP: 48104/64000 | Gold: 2,498,405gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/2, Arrows: 19/20, Tranq: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1714,8 +1952,11 @@ Only your old team—Ghost (Lvl 5) and Breaker (Lvl 5)—remain stoic. They've s
 God Mode:
 Assume my team all has +3 gear from the ops budget and update my gear and spend money for it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **2026 November 15, 09:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 9 SAC | HP: 76/76 | XP: 48,104/64,000 | Gold: 1,498,405** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1743,8 +1984,11 @@ All items in your manifest have been updated to reflect the +3 status. Your Hybr
 God Mode:
 Do those factions make sense in modern world? Are they hardcoded names?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Obsidian Rook (Sterling-Vane Safehouse)** &nbsp;|&nbsp; ⏳ **November 15, 2026 (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 SAC | HP: 76/76 | XP: 48,104/64,000 | Gold: 1,498,405gp**
@@ -1766,8 +2010,11 @@ I have updated the world state to reflect these realistic modern names. From now
 > 👤 **Player:**
 > *"Address the 150 operatives and invite them to a party at my 50M dollar luxury apartment. It'll be the nicest party mos tif them have ever been to. Then time skip and narrate start of the party"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Vane Spire Penthouse (Billionaire's Row)** &nbsp;|&nbsp; ⏳ **November 15, 2026 (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **Arrows: 19/20 | Tranq: 4/5 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 1d6** &nbsp;|&nbsp; ⚠️ **Sanctuary (Epic) | Exhaustion: 0 | Inspiration: No**
@@ -1789,8 +2036,11 @@ Rebecca 'Bex' (Lvl 5) approaches you near the north window, her silk dress a sha
 > 👤 **Player:**
 > *"Narrate bex asking me why I do what I do. She's never heard of the child of billionaires in the FBI much less special agent in charge. Make me less mathematical in my dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 SAC | HP: 76/76 | XP: 23,104/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | HD: 9/9 | Darkvision: 120ft** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1810,8 +2060,11 @@ Bex (Lvl 5) watched you, the coffee cup in her hand forgotten. For the first tim
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Director&#x27;s Shadow - Shift the conversation to Director Miller and why a man of his stature would risk everything on someone like you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48,104/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 1d6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1829,8 +2082,11 @@ Bex (Lvl 5) goes still, her profiler's mind snapping onto the new variable. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Mystery - Ask Bex if she&#x27;s noticed any specific &#x27;ghosts&#x27; in the Director&#x27;s recent orders or the Thirteenth manifest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Gloomstalker/Assassin | HP: 76/76 | XP: 48,104/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | HD: 9/9 | Rage: N/A | Ki: N/A** &nbsp;|&nbsp; ⚠️ **Sanctuary (Active) | Inspiration: No**
@@ -1855,8 +2111,11 @@ She turns to you, her expression a mix of professional curiosity and a growing, 
 > 👤 **Player:**
 > *"Let's assume a few of my siblings crash the party and introduce themselves to bex and lets have odell enter the convo as well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Arrows: 19/20, Tranq: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Epic) | Exhaustion: 0 | Inspiration: No**
@@ -1876,8 +2135,11 @@ Bex (Lvl 5) remains remarkably steady, her profiler's gaze darting between the t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provoke Odell - Ask Odell to describe the &#x27;clarity&#x27; of the fire in front of the siblings to see how they react to the raw reality of my world.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Dragon's Fang: 1/1 | Arrows: 19/20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1911,8 +2173,11 @@ You gain **100 XP** for the calculated social provocation.
 > 👤 **Player:**
 > *"Give my brothers a smile. Imply that when I kill peolle I don't feel much. Probably the same way they feel when they finish a menial task. This should intimidate / unsettle odell too since he knows my rep and how fast I defeated the 13"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **Tranq: 4/5, Arrows: 19/20, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1944,8 +2209,11 @@ Julian (Lvl 3) looks at his own hands as if they might be stained by association
 > 👤 **Player:**
 > *"Act cute for a few minutes like a normal little sister and joke around with my brothers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48,104/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1972,8 +2240,11 @@ Behind them, Odell (Lvl 8) stands frozen, his hand still white-knuckled on his l
 > 👤 **Player:**
 > *"Keep acting sisterly but bex and odell know dangerous people and serial killers. It goes even beyond an act. I am enjoying acting cute and I can switch personalities instantly but killing is so natural to me I can do it in any mood. I don't need to be in the sac mode to kill. Narrate bed and odell internal thoughts as they realize this. Odell realizes all his inner turmoil is alien to someone like me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 2d6 | Cunning Action: Ready** &nbsp;|&nbsp; ⚠️ **Sanctuary Active | Inspiration: No**
@@ -1997,8 +2268,11 @@ Rebecca 'Bex' (Lvl 5) watches you from the periphery, her profiler's mind reachi
 > 👤 **Player:**
 > *"Make a playful remake to bex and odell indicating I've noticed their discomfort and I know why but find it amusing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Cunning Action: Active | Assassinate: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2014,8 +2288,11 @@ Odell (Lvl 8) looks like he’s about to be sick, his hands trembling so violent
 > 👤 **Player:**
 > *"I walk around the room talking to guests and narrate a private scene with bex and odell discussing me. They realize evens after all of the serial killers I'm far more dangerous and a true natural killer. They estimate i must've killed hundreds of people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Tranq: 4/5 | Arrows: 19/20** &nbsp;|&nbsp; ⚠️ **Sanctuary (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2037,8 +2314,11 @@ Odell (Lvl 8) looks up, his eyes wide and hollow. "If she’s killed that many..
 > 👤 **Player:**
 > *"Narrate further discussion. They say usually serial killers have some backstory or traumatic event but what if Sariel has nothing. She was truly born that way. She doesn't seem mistreated and grew up in a life of luxury. And when Sariel killers her heart rate doesn't even change"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2064,8 +2344,11 @@ Odell (Lvl 8) lets out a shuddering breath, his eyes wide as he watches you laug
 > 👤 **Player:**
 > *"Narrate more private discussion. They say serial killer can't even describe me as most of the 13 and their associated were killed. They need a new name for me like genocide killer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **The Vane Spire Penthouse - Private Library** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2096,8 +2379,11 @@ Bex (Lvl 5) turns to him, her face as pale as the marble busts surrounding them.
 > 👤 **Player:**
 > *"Narrate more private discussion. They realize the serial killers react to me when I'm in the room. Like they can sense a higher level predator. Every serial killer even the architect was socially dominated by me and gave up intel. Almost like they have an apex predator detection  instinct"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **The Vane Spire Penthouse - Private Library** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger 5/Rogue 4 | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Assassin Access: Active, Budget: $48.5M** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2132,8 +2418,11 @@ Beyond the library doors, the laughter of 150 operatives continues, a distant, h
 > 👤 **Player:**
 > *"Bex asks Odell if he can imagine the sculptor daring to attack Sariel while breaking free of his restraints like that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **The Vane Spire Penthouse - Library** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48,204/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Arrows: 19/20, Tranq: 4/5 | Budget: $49,000,000** &nbsp;|&nbsp; ⚠️ **Sanctuary (Active), Iron Mind | Exhaustion: 0 | Inspiration: No**
@@ -2170,8 +2459,11 @@ You gain **100 XP** for the successful profiling of their realization.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Immediate Tactical Extraction - Step into the library and offer to save Sophie personally. Use the &#x27;Blood Dragon&#x27; lethality as a promise of safety: &#x27;The Bureau will follow procedure; I will follow the blood.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **The Vane Spire Penthouse - Private Library** &nbsp;|&nbsp; ⏳ **November 15, 2026 (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48,104/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Arrows: 19/20 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2200,8 +2492,11 @@ Bex (Lvl 5) looks at you, her eyes searching the 'Blood Dragon' for a flicker of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Full-Spectrum Rescue (Synergistic) - Ghost jams the apartment&#x27;s comms to isolate the kidnappers while you and Breaker perform a high-speed heli-drop from the Vane Spire roof.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Bex's Manhattan Apartment - Balcony Breach** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (22:42)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Ammo: Arrows 19/20, Tranq 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active | Exhaustion: 0 | Inspiration: Yes**
@@ -2228,8 +2523,11 @@ He doesn't have a weapon drawn. He's holding a small, silver mirror, his feature
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Tranq (Precision) - Fire a specialized neurotoxin dart at Subject Eleven&#x27;s neck. It bypasses his biological shifting but won&#x27;t stop a dead-man&#x27;s switch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Bex's Manhattan Apartment** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (22:42)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 48,104/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Umbral Sight, DARPA-Sync | Exhaustion: 0 | Inspiration: No**
@@ -2258,8 +2556,11 @@ You gain **250 XP** for the precision neutralization of Subject Eleven and the r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Sophie &amp; Extraction - Scoop up Sophie and use the magnetic grappling line to jump from the balcony to the waiting Vanguard interceptor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Bex's Manhattan Apartment / Vane Spire Airspace** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (22:42)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Gloomstalker/Assassin | HP: 76/76 | XP: 48354/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Tranq: 2/5 | Arrows: 19/20** &nbsp;|&nbsp; ⚠️ **Umbral Sight, Iron Mind | Exhaustion: 0 | Inspiration: No**
@@ -2287,8 +2588,11 @@ You gain **500 XP** for the successful high-altitude rescue and securing the hos
 > 👤 **Player:**
 > *"Signal my team to finish off the sanctum guards and interrogate them while I enjoy the party and comfort bed and Sophie"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 49104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2315,8 +2619,11 @@ Across the room, Director Arthur Miller (Lvl 10) watches the reunion with a heav
 > 👤 **Player:**
 > *"Go banter with the director. Say he's having fun and he should read me in. Otherwise if I discover it on my own I might react differently m. Say this in private"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **The Vane Spire Penthouse** &nbsp;|&nbsp; ⏳ **November 15, 2026 (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 49104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Sneak Attack: 1d6, Cunning Action: Active** &nbsp;|&nbsp; ⚠️ **Sanctuary (Epic) | Exhaustion: 0 | Inspiration: No**
@@ -2343,8 +2650,11 @@ Miller (Lvl 10) takes a slow, steady sip of his scotch, his expression a mask of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Display Hybrid Evidence - Show him a specific redacted line from the memory core that names his private terminal, proving his plausible deniability is already dead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **The Vane Spire Penthouse (Terrace)** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (23:17)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 49104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (Epic) | Exhaustion: 0 | Inspiration: No**
@@ -2372,8 +2682,11 @@ She offers the Director a razor-thin, polite smile that carries more threat than
 > 👤 **Player:**
 > *"Wait for miller to answer and I say I could figure it out right now with what Diana gave me but I've always liked him. Wouldn't my friendship be valuable to continue?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **The Vane Spire Penthouse Terrace** &nbsp;|&nbsp; ⏳ **November 15, 2026 (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 49104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2406,8 +2719,11 @@ As you stand on the terrace, a flicker of movement catches your DARPA-spec optic
 > 👤 **Player:**
 > *"Act amused. Ask miller if he thought the 13th was even close. I killed it instantly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **The Vane Spire Penthouse (Terrace)** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (23:27)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 50604/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2434,8 +2750,11 @@ Miller (Lvl 10) shudders, the ice in his glass rattling against the crystal. He 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Miller Breakdown - Force the final names of the Geneva financiers while the team holds the line.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **The Vane Spire Terrace** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (23:32)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Gloom 5/Assassin 4) | HP: 76/76 | XP: 50,604/64,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Cunning Action: Ready | Sneak Attack: 1d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2461,8 +2780,11 @@ High above, the first transport helicopter banks sharply over the Spire's helipa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terrace Defense &amp; Bunker Down - Order Breaker to secure the terrace with the Director while you and Ghost use the Black Box to initiate a counter-EMP.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **The Vane Spire Penthouse Terrace** &nbsp;|&nbsp; ⏳ **November 15, 2026 (23:34)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 51104/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **Arrows: 19/20, Tranq: 3/5, Spells: L1 4/4, L2 2/2, Sneak Attack: 1d6, Cunning Action: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2495,8 +2817,11 @@ You offer a faint, predatory smile—the kind that provides no comfort to the al
 > [!NOTE] ⚙️ **Player Choice:**
 > *Roof Sweep (Assassin&#x27;s Hunting Ground) - Utilize your Umbral Sight and Elite DARPA-spec optics to hunt the blinded Sanctum teams on the roof before they can reboot their gear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **The Vane Spire Penthouse Roof** &nbsp;|&nbsp; ⏳ **November 15, 2026 DR (23:39)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 53904/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Arrows: 19/20 | Tranq: 3/5 | EMP: Expended** &nbsp;|&nbsp; ⚠️ **Umbral Sight, Darkvision (120ft), Resistance (Piercing) | Exhaustion: 0 | Inspiration: No**
@@ -2528,8 +2853,11 @@ You gain **2,800 XP** for the tactical elimination of the Sanctum Roof Team.
 > 👤 **Player:**
 > *"Time skip and assume I mostly resolve this in a brutal way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **The Vane Spire Penthouse Library** &nbsp;|&nbsp; ⏳ **December 01, 2026 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ranger/Rogue | HP: 76/76 | XP: 62404/64000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Active | Exhaustion: 0 | Inspiration: Yes**
@@ -2549,8 +2877,11 @@ You gain **8,500 XP** for the brutal resolution of the Blackgate Arc and the tot
 God Mode:
 Start a new arc. My reputation is better now because it was leaked by people in my 150 man team that I defeated the 13. A criminal world war starts because serial killers and heinous criminals are freed by a mass tactical strike. The president is holding a town hall and considering making me the director of the fbi. He brings in all the victims and families I've saved, everyone from hunting party cast, and any opponents and irs a group discussion. My parents are here too and they're unsure of what to do but they do back the president financially
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 SAC | HP: 84/84 | XP: 70,904/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2575,8 +2906,11 @@ Administrative setup for Arc 2: 'The Director's Crucible' is complete.
 God Mode:
 Give president a different name
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 70,904/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2586,8 +2920,11 @@ The President's name has been updated to Harrison Graves. This change resolves t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume at the Town Hall - Enter the East Room and begin the discussion that determines the future of the Bureau.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 70,904/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/2 | Dragon's Fang: +3 | Arrows: 19/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2610,8 +2947,11 @@ Rebecca 'Bex' (Lvl 5) stands among the survivors, holding Sophie (Lvl 1) tightly
 God Mode:
 Redo narrative I'm not wearing combat gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 70,904/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2631,8 +2971,11 @@ The discussion with President Graves and the presence of the 150 operatives rema
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Logic of the Scalpel (INT-Based) - Argue that a &#x27;clean ledger&#x27; is a luxury of a world that no longer exists, reframing your kills as statistical savings of innocent lives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 70,904/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2659,8 +3002,11 @@ As the President considers your words, Marcus Vance's (Lvl 6) tactical tablet ch
 > 👤 **Player:**
 > *"Order the Chicago strike and encourage more victims to speak. Narrate their dialog in  detail. They should be very thankful to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 76/76 | XP: 70904/85000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **Arrows: 19/20, Tranq: 3/5, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2688,8 +3034,11 @@ A rhythmic, thunderous applause erupts from the survivor block, a visceral count
 God Mode:
 Stop all this math language
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 70,904/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2701,8 +3050,11 @@ Going forward, the story will be told through a visceral, character-driven lens.
 > 👤 **Player:**
 > *"Order the remaining  strikes and assume all the US military leaders are here too. Ask for their opinions. Let's assume join operations with the military are being discussed even though it's US soil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 70,904/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 2/2, Sneak: 3d6, Cunning: Active** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2737,8 +3089,11 @@ General Silas Vance (Lvl 11) stares at you, his gaze shifting from the news of C
 > [!NOTE] ⚙️ **Player Choice:**
 > *Argue Tactical Finality - Explain that the military exists to end wars, and that you are the only one capable of ending this one before it becomes a domestic insurgency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (19:48)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 70904/85000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Inspiration: No**
@@ -2764,8 +3119,11 @@ You gain **450 XP** for the successful tactical confrontation with the Joint Chi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Family Intelligence (Synergistic) - While you pressure the General, order Diana to leak the Orion Collective&#x27;s financial ties to the General&#x27;s own pension fund members to show they are already inside his ranks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Assassin | HP: 84/84 | XP: 72354/85000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2804,8 +3162,11 @@ You gain **1,450 XP** for the synergistic victory and securing the Joint Chiefs'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Televised Oath &amp; Orion Asset Freeze (Synergistic) - While the President swears you in, order Diana to initiate a total freeze on Orion Collective assets in the U.S. using your new Directorship authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 72,354/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2834,8 +3195,11 @@ As you finish the oath, Rebecca 'Bex' (Lvl 5) approaches the dais, her face a ma
 > 👤 **Player:**
 > *"Narrate reaction of my supporters and victims. They're estatic and narrated their dialog. They tell multiple stories of my heroics"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Director | HP: 84/84 | XP: 74,254/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2855,8 +3219,11 @@ In the front row, Alistair (Lvl 4) and Eleanor Sterling-Vane (Lvl 4) watch you w
 > 👤 **Player:**
 > *"Make a national speech and roll intimidation on all the criminals. Say they know who I am and my methods. If they surrender now there will be mercy otherwise no mercy and imlly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 75,754/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2885,8 +3252,11 @@ You gain **1,500 XP** for the masterfully executed national intimidation.
 > 👤 **Player:**
 > *"Imply they'll be tortured to death"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **The White House - East Room** &nbsp;|&nbsp; ⏳ **December 15, 2026 (20:46)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Director | HP: 84/84 | XP: 77254/85000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/2 | Arrows: 19/20 | Tranq: 3/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2911,8 +3281,11 @@ Rebecca 'Bex' (Lvl 5) watches you from the edge of the dais, clutching Sophie (L
 > 👤 **Player:**
 > *"Time skip for a few weeks. I purge the law enforcement and military of people who aren't useful or disloyal, consolidate power, and strike at the most visible criminals and then hold live video and distribute video of them tortured to death physically and psychically. Roll intimidation with advance most normsp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **FBI Headquarters (J. Edgar Hoover Building), Washington D.C.** &nbsp;|&nbsp; ⏳ **January 05, 2027 DR (20:46)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 78754/85000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/2 | Dragon's Fang: +3 | Sig-Sauer: +3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2939,8 +3312,11 @@ Rebecca 'Bex' (Lvl 5) stands by the door, her face a mask of profound, intellect
 > 👤 **Player:**
 > *"New mercy protocol. Those who surrender immediately will get max 5 years in nice prison and will be let out again onngoood behavior. Carrot and stick. Use family assets and US funds to create prisons with nice environments and use their labor to fund economy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **FBI Headquarters (Hoover Building) - Director's Office** &nbsp;|&nbsp; ⏳ **2027 January 5, 21:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 80,454/85,000 | Gold: 1,498,405gp** &nbsp;|&nbsp; ✨ **Ammo: Tranq 3/5, Arrows 19/20 | Spells: L1 4/4, L2 2/2 | Cunning Action: Ready | Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2970,8 +3346,11 @@ You gain **1,700 XP** for the successful launch of the Mercy Protocol.
 > 👤 **Player:**
 > *"Time skip for a few weeks to see how effective this is and how much my family net worth increases from all the free labor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **The Sterling-Vane Sovereign Exchange (Wall Street)** &nbsp;|&nbsp; ⏳ **2027 January 19, 10:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 10 Ranger/Rogue | HP: 84/84 | XP: 82254/85000 | Gold: 12,450,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 2/2, Arrows: 20/20, Darts: 5/5, Black Box: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2989,8 +3368,11 @@ She steps closer, her voice dropping below the hum of the servers. "The Orion el
 God Mode:
 Give me proper exp and reward for ending the large scale criminal war but the remaining forces that can't be intimidated should consolidate and remain strong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **FBI Headquarters (Hoover Building)** &nbsp;|&nbsp; ⏳ **January 25, 2027 (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Director | HP: 92/92 | XP: 107,254/120,000 | Gold: 12.45B (Personal) / 50M (Ops)**
@@ -3020,8 +3402,11 @@ While the lower-tier criminal cells have broken, the Orion Collective has comple
 > 👤 **Player:**
 > *"Resume as director and assume joint chiefs and military leaders all here. They greatly respect me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **FBI Headquarters - Strategic Command Center** &nbsp;|&nbsp; ⏳ **February 10, 2027 (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Director | HP: 92/92 | XP: 107,254/120,000 | Gold: 12.45M** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3039,8 +3424,11 @@ General Vance (Lvl 11) looks at you, his hand resting on the hilt of his ceremon
 > 👤 **Player:**
 > *"Explain to people that this time it'll be a risky mission. Estimate 50% of us will die maybe even me. Say those who aren't ready are cleared to be on standby. They have my respect and have Carried us this far. Show genuine emotion and appreciation. Remind bex she has a daughter and her main thing is profiling and not combating"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **J. Edgar Hoover Building - Strategic Command Center** &nbsp;|&nbsp; ⏳ **February 10, 2027 (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue | HP: 92/92 | XP: 107,254/120,000 | Gold: 12,450,000gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3067,8 +3455,11 @@ General Silas Vance (Lvl 11) watches you, his weathered face softening as he rec
 > 👤 **Player:**
 > *"Wait to see who volunteers. Tell bex she has a choice but I recommend she stays put as a friend"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **J. Edgar Hoover Building - Strategic Command Center** &nbsp;|&nbsp; ⏳ **2027 February 10, 11:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Director | HP: 92/92 | XP: 107,254/120,000 | Gold: 12.45M** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Arrows: 19/20 | Tranq: 3/5 | Budget: $49M** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3105,8 +3496,11 @@ Across the hub, Ghost (Lvl 5) looks up from a high-frequency uplink, his face pa
 > 👤 **Player:**
 > *"Time skip and narrate the conclusion. Assume I'm gravely injured but survive and 50% of the team dies. The orion collective is 100% defeated and per my orders interrogated and tortured to death on live TV to forever deter future criminals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **The Obsidian Rook - Private Medical Wing** &nbsp;|&nbsp; ⏳ **2027 March 12, 21:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue | HP: 12/92 | XP: 122,254/140,000 | Gold: 11,450,000gp** &nbsp;|&nbsp; ✨ **HD: 2/12, Spells: L1 0/4, L2 0/3, Exhaustion: 3** &nbsp;|&nbsp; ⚠️ **Gravely Wounded, Exhaustion: 3 | Inspiration: No**
@@ -3131,8 +3525,11 @@ Ghost (Lvl 5) enters the room, his arm in a tactical sling, his eyes sallow with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Broadcast the Final Moment - Let the cameras roll until the Chairman&#x27;s heart rate hits zero. Maximize the deterrent effect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **The Obsidian Rook - Private Medical Wing** &nbsp;|&nbsp; ⏳ **2027 March 12, 21:05:00** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gloomstalker/Assassin | HP: 12/92 | XP: 122254/120000 | Gold: 12,450,000gp** &nbsp;|&nbsp; ✨ **Arrows: 19/20, Tranq: 3/5, Spells: L1 4/4, L2 2/2, HD: 13/13** &nbsp;|&nbsp; ⚠️ **Gravely Injured, Stable | Exhaustion: 1 | Inspiration: No**
@@ -3152,8 +3549,11 @@ You offer a faint, predatory smile, the effort causing a sharp spike of pain in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sterling-Vane Mandate - Utilize the &#x27;End of Crime&#x27; momentum to officially merge the Bureau&#x27;s R&amp;D with Sterling-Vane Sovereign Exchange.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **The Obsidian Rook - Private Medical Wing** &nbsp;|&nbsp; ⏳ **March 12, 2027 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Director | HP: 28/92 | XP: 137,254/165,000 | Gold: 12.45M** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/2 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Gravely Injured (Stabilized) | Exhaustion: 1 | Inspiration: Yes**
@@ -3180,8 +3580,11 @@ You sign the mandate with a single, steady stroke. In that moment, the Bureau’
 > 👤 **Player:**
 > *"Let's assume my family becomes the richest and most powerful entity in the world after consolidating the Orion collective and essentially runs the US but the population is happy about it mostly. I'm gravely injured and in a wheelchair and will be like that for 3 months. Narratea funeral for the 75 where I give a speech and actually get teary eyed and my heart rate rises. People are shocked because they've never seen this before and bex and Odell realize I may not be a monster"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **The Vanguard Memorial Park, Arlington** &nbsp;|&nbsp; ⏳ **2027 June 15, 11:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 13 Director | HP: 12/92 (Gravely Injured) | XP: 137,254/140,000 | Gold: 19.4B (Family Net)** &nbsp;|&nbsp; ✨ **HD: 0/13, Spells: L1 4/4, L2 2/2, Exhaustion: 1 (Recovering)**
@@ -3199,8 +3602,11 @@ Odell (Lvl 8) stands at the edge of the crowd, his eyes wide, his hands finally 
 > 👤 **Player:**
 > *"Narrate a scene where bex and odell realize they were wrong about me. My compassion is genuine too I'm just ruthless"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Vanguard Memorial Park** &nbsp;|&nbsp; ⏳ **September 15, 2027 (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue | HP: 12/92 | XP: 137,254/140,000 | Gold: 12,450,000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/2 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Gravely Injured (Wheelchair), Recovering | Inspiration: Yes**
@@ -3235,8 +3641,11 @@ Bex (Lvl 5) doesn't answer, but her grip on your chair tightens, a gesture of ge
 > 👤 **Player:**
 > *"New scene after funeral I hold reception for the families of the 75 and  I explain the heroic actions of all who died. My memory is excellent and I remember every detail about them and tell their families stories about their life working with me. Everyone is touched because I truly do remember and cared about them even if I never showed it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **The Obsidian Rook - Grand Atrium** &nbsp;|&nbsp; ⏳ **September 15, 2027 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Director | HP: 12/92 (Gravely Injured) | XP: 137,254/140,000 | Gold: 12.45M** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/2 | Dragon's Fang: +3 | Sig-Sauer Bow: +3** &nbsp;|&nbsp; ⚠️ **Wheelchair-bound, Recovering | Exhaustion: 0 | Inspiration: Yes**
@@ -3260,8 +3669,11 @@ Rebecca 'Bex' (Lvl 5) stands by the mahogany pillars, her hand resting on Sophie
 God Mode:
 Give me proper asi for my levels. Prioritize dex and int
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Vanguard Memorial Park** &nbsp;|&nbsp; ⏳ **September 15, 2027 (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue | HP: 12/100 | XP: 137,254/140,000 | Gold: 12,450,000gp** &nbsp;|&nbsp; ⚠️ **Gravely Injured (Wheelchair), Recovery Phase | Exhaustion: 0 | Inspiration: No**
@@ -3291,8 +3703,11 @@ Proper Ability Score Improvements (ASI) for Level 13 (Ranger 5 / Rogue 8) have b
 > 👤 **Player:**
 > *"Narrate reaction of the families as I honor their fallen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **The Obsidian Rook - Grand Atrium** &nbsp;|&nbsp; ⏳ **September 15, 2027 (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Director | HP: 12/100 (Gravely Injured) | XP: 137,254/140,000 | Gold: 12.45M** &nbsp;|&nbsp; ✨ **Arrows: 19/20, Tranqs: 3/5, Med-Kits: 10/10, Sterling-Vane Black Box: ACTIVE** &nbsp;|&nbsp; ⚠️ **Wheelchair-bound, Exhaustion 1 | Inspiration: No**
@@ -3310,8 +3725,11 @@ Odell nods, the leaden weight in his own chest finally beginning to lift. He see
 > 👤 **Player:**
 > *"Lets"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **The Obsidian Rook - Private Office** &nbsp;|&nbsp; ⏳ **September 15, 2027 (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Director | HP: 12/100 | XP: 137,254/140,000 | Gold: 12.45M** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 2/2, Sneak: 4d6, Cunning Action, Evasion**
@@ -3327,8 +3745,11 @@ Bex leans over the desk, her profiler's mind already weaving the new, devastatin
 > 👤 **Player:**
 > *"Let's assume the families and the remaining 75 are all ever grateful. The wounds I took were from rescuing my team whenever I could versus my own mistakes. The 75 are 100% loyal now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **The Obsidian Rook - Private Office** &nbsp;|&nbsp; ⏳ **September 15, 2027 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Director | HP: 100/100 | XP: 137,254/140,000 | Gold: 12,450,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0 | Attunement: 3/3** &nbsp;|&nbsp; ⚠️ **Recovering (Wheelchair), Elite Gear (+3) | Inspiration: Yes**
@@ -3353,8 +3774,11 @@ Your unearthly beauty is a cold, impeccable mask as you look at the biometric si
 > 👤 **Player:**
 > *"Letd assume"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **The Obsidian Rook - Private Office** &nbsp;|&nbsp; ⏳ **September 15, 2027 (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Director | HP: 100/100 | XP: 137,254/140,000 | Gold: 12.45M**
@@ -3378,8 +3802,11 @@ Through the speakers, your voice fills the room, calm and indifferent. "Alistair
 > 👤 **Player:**
 > *"Assume I neutralize Julian without physically hurting him and I act amused. Narrate the scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **The Obsidian Rook - Private Office** &nbsp;|&nbsp; ⏳ **September 15, 2027 DR (15:47)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue | HP: 100/100 | XP: 137,254/140,000 | Gold: 12,450,000gp** &nbsp;|&nbsp; ⚠️ **Recovering (Wheelchair) | Inspiration: Yes**
@@ -3406,8 +3833,11 @@ Julian (Lvl 3) slides down the wall, his hands over his ears as if he can block 
 > 👤 **Player:**
 > *"Dynasty annexation but don't truly hurt Julian and let him go after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **The Obsidian Rook - Private Office** &nbsp;|&nbsp; ⏳ **September 15, 2027 (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue | HP: 100/100 | XP: 139,254/140,000 | Gold: 12.45M** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/2 | Ambush: 1/1 | Sneak: 1d6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Recovering (Wheelchair) | Exhaustion: 0 | Inspiration: Yes**
@@ -3425,8 +3855,11 @@ Bex (Lvl 5) watches from the corner, her profiler's mind recording the wreckage 
 > 👤 **Player:**
 > *"Have mercy on Julian. Give him 5M dollars and tell him he needs more empathy with normal people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **The Obsidian Rook - Private Office** &nbsp;|&nbsp; ⏳ **September 15, 2027 (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue | HP: 100/100 | XP: 141,754/140,000 | Gold: 57,450,000gp** &nbsp;|&nbsp; ✨ **Arrows: 19/20, Tranq: 3/5, Spells: L1 4/4, L2 2/2, HD: 13/13** &nbsp;|&nbsp; ⚠️ **Recovering (Wheelchair) | Inspiration: Yes**
@@ -3446,8 +3879,11 @@ Rebecca 'Bex' (Lvl 5) watches from the shadows, her profiler's mind recording th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Bex&#x27;s Reflection - Engage Bex in a conversation about why mercy is a tactical necessity in the new world order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **The Obsidian Rook - Private Office** &nbsp;|&nbsp; ⏳ **September 15, 2027 (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue | HP: 100/100 | XP: 141,754/140,000 | Gold: 57.45M** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 2/2, Arrows: 19/20, Darts: 3/5** &nbsp;|&nbsp; ⚠️ **Recovering (Wheelchair) | Inspiration: Yes**
@@ -3468,6 +3904,8 @@ Bex goes still, the intellectual terror that has defined her relationship with y
 > **Resistance:** *"The final barrier of Bex's suspicion has been replaced by a deep, personal loyalty to the woman behind the Director's mask."*
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (437 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Understood. I will now always provide the full text for any requested document to ensure we maintain a consistent canon. I have also logged your directive to permanently ignore any real-world location data and maintain the high-fantasy setting of Assiah.
@@ -520,453 +531,458 @@ Artorius: Deceased.
 Lucifer: Victorious (Tactically).
 Alexiel: Broken, then Reforged. The war is no longer political. It is extermination.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Dragon's Tooth Foothills - Imperial Border | 78 DR (Alexiel Era), Month of Eleint | Roleplay |
-| **02** | Character Creation Hub | Year 78, Month of Mirtul | Roleplay |
-| **03** | Dragon's Tooth Mountains (Border) |  | Roleplay |
-| **04** | Dragon's Tooth Mountains (Border) | Kythorn 2, Year 11 (12:00) | Roleplay |
-| **05** | Dragon's Tooth Mountains (Border) | Kythorn 2, 11 New Peace (12:00) | Roleplay |
-| **06** | Dragon's Tooth Mountains (Border) | Kythorn 2, 11 New Peace (12:00) | Roleplay |
-| **07** | Dragon's Tooth Mountains (Imperial Border) | Kythorn 2, Year 78 (12:15) | Roleplay |
-| **08** | Waterfall Cave | Kythorn 3, 78 DR (04:00 (Pre-Dawn)) | Roleplay |
-| **09** | Waterfall Cave | Kythorn 3, Year 78 (04:00) | Roleplay |
-| **10** | Waterfall Cave | Kythorn 3, 78 DR (04:00) | Roleplay |
-| **11** | Waterfall Cave | Kythorn 3, 78 DR (04:05) | Roleplay |
-| **12** | Waterfall Cave | Kythorn 3, 78 DR (04:05) | Roleplay |
-| **13** | Waterfall Cave | Kythorn 3, 78 DR (04:05) | Roleplay |
-| **14** | Waterfall Cave | Kythorn 3, 78 DR (04:10) | Roleplay |
-| **15** | Waterfall Cave | Kythorn 3, 78 DR (04:25) | Roleplay |
-| **16** | Waterfall Cave | Kythorn 3, Year 78 (04:25 (Pre-Dawn)) | Roleplay |
-| **17** | Imperial High Pass Road | Kythorn 3, 78 DR (08:45) | Roleplay |
-| **18** | Imperial High Pass Road | Kythorn 3, 78 DR (08:50) | Roleplay |
-| **19** | Imperial High Pass Road | Kythorn 3, Year 78 (08:50) | Roleplay |
-| **20** | Imperial High Pass Road | Kythorn 3, 78 DR (08:52) | Roleplay |
-| **21** | Imperial High Pass Road | Kythorn 3, 78 DR (08:52) | Roleplay |
-| **22** | Imperial High Pass Road | Kythorn 3, 78 DR (08:55) | Roleplay |
-| **23** | Imperial High Pass Road - Gully | Kythorn 3, 78 DR (09:05) | Roleplay |
-| **24** | Imperial High Pass Road - Hidden Gully | Kythorn 3, 78 DR (09:15) | Roleplay |
-| **25** | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
-| **26** | Imperial High Pass Road | Day 3, 78 Kythorn (09:20) | Roleplay |
-| **27** | Imperial High Pass Road | Kythorn 3, 1492 DR (Imperial Year 78) (09:20) | Roleplay |
-| **28** | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
-| **29** | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
-| **30** | Imperial High Pass Road | Kythorn 3, Year 78 (09:20) | Roleplay |
-| **31** | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
-| **32** | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
-| **33** | Imperial High Pass Road (Vantage Point) | Kythorn 3, Year 78 (09:25) | Roleplay |
-| **34** | Imperial High Pass Road (Ridge Vantage) | Kythorn 3, 78 DR (09:25) | Roleplay |
-| **35** | Imperial High Pass Road | Kythorn 3, 78 New Peace (09:25) | Roleplay |
-| **36** | Imperial High Pass Road | Kythorn 3, 78 DR (09:25) | Roleplay |
-| **37** | Imperial High Pass Road | Kythorn 3, 78 DR (09:25) | Roleplay |
-| **38** | Imperial High Pass Road - Approach to Fortress Vigil | Kythorn 3, 78 DR (09:45) | Roleplay |
-| **39** | Imperial High Pass Road | Day 3, 78 Kythorn (09:45) | Roleplay |
-| **40** | Imperial High Pass Road | Kythorn 3, 78 DR (09:50) | Roleplay |
-| **41** | Imperial High Pass Road | Kythorn 3, 78 DR (10:05) | Roleplay |
-| **42** | Imperial High Pass Road (En Route to Fortress Vigil) | Kythorn 3, 78 DR (11:30) | Roleplay |
-| **43** | High Pass Road (Marching) | Kythorn 3, 78 DR (12:15) | Roleplay |
-| **44** | Imperial High Pass Road | Kythorn 3, 78 DR (12:25) | Roleplay |
-| **45** | Imperial High Pass Road | Kythorn 3, 78 DR (13:10) | Roleplay |
-| **46** | Imperial High Pass Road | Kythorn 3, 78 DR (12:35) | Roleplay |
-| **47** | Imperial High Pass Road | Kythorn 3, 78 DR (12:40) | Roleplay |
-| **48** | Imperial High Pass Road | Kythorn 3, 78 DR (12:45) | Roleplay |
-| **49** | Imperial High Pass Road | Kythorn 3, 78 DR (13:15) | Roleplay |
-| **50** | Imperial High Pass Road | Kythorn 3, 78 DR (13:15) | Roleplay |
-| **51** | Imperial High Pass Road | Kythorn 3, 78 DR (13:25) | Roleplay |
-| **52** | Imperial High Pass Road (Century Column) | Kythorn 3, 78 DR (13:45) | Roleplay |
-| **53** | Imperial High Pass Road | Kythorn 3, 78 New Peace (13:45) | Roleplay |
-| **54** | Imperial High Pass Road | Kythorn 3, 1492 DR (13:55) | Roleplay |
-| **55** | Imperial High Pass Road (Approaching Fortress Vigil) | Month of Kythorn, Year 78 (Day 3) | Roleplay |
-| **56** | Imperial High Pass Road (Approaching Fortress Vigil) | Kythorn 3, Year 78 (13:55 (Midday)) | Roleplay |
-| **57** | Imperial High Pass Road (Approaching Fortress Vigil) | Kythorn 3, Year 78 (13:55 (Midday)) | Roleplay |
-| **58** | Fortress Vigil Gates | Kythorn 03, 0078 DR (14:15) | Roleplay |
-| **59** | Fortress Vigil - Inner Courtyard | Kythorn 3, 78 DR (15:30) | Roleplay |
-| **60** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (15:45) | Roleplay |
-| **61** | Fortress Vigil - The Solar | Kythorn 3, 1492 DR (15:45) | Roleplay |
-| **62** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (15:55) | Roleplay |
-| **63** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (16:10) | Roleplay |
-| **64** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (16:15) | Roleplay |
-| **65** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (16:35) | Roleplay |
-| **66** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (17:05) | Roleplay |
-| **67** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (17:06) | Roleplay |
-| **68** | Fortress Vigil - Forbidden Archives / Magical Corps Sanctum | Kythorn 3, 78 DR (18:30) | Roleplay |
-| **69** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (18:45) | Roleplay |
-| **70** | Fortress Vigil - The Solar | Kythorn 3, 78 DR (19:05) | Roleplay |
-| **71** | Fortress Vigil - The Solar | Kythorn 3, 1492 DR (19:10) | Roleplay |
-| **72** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (19:45) | Roleplay |
-| **73** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:00) | Roleplay |
-| **74** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:15) | Roleplay |
-| **75** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:30) | Roleplay |
-| **76** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:35) | Roleplay |
-| **77** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:45) | Roleplay |
-| **78** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:35) | Roleplay |
-| **79** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 New Peace (20:35) | Roleplay |
-| **80** | Fortress Vigil - Magical Corps Sanctum | Month of Kythorn, Year 78 (Day 3) | Roleplay |
-| **81** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:45) | Roleplay |
-| **82** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:45) | Roleplay |
-| **83** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (21:10) | Roleplay |
-| **84** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (21:45) | Roleplay |
-| **85** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (21:50) | Roleplay |
-| **86** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
-| **87** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
-| **88** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
-| **89** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
-| **90** | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
-| **91** | Fortress Vigil - Eastern Courtyard Battlements | Kythorn 3, 78 DR (22:20) | Roleplay |
-| **92** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:20) | Roleplay |
-| **93** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:21) | Roleplay |
-| **94** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:21) | Roleplay |
-| **95** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:25) | Roleplay |
-| **96** | Fortress Vigil - Eastern Courtyard | Day 3, 78 Kythorn (22:25) | Roleplay |
-| **97** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 New Peace (Night) | Roleplay |
-| **98** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:25) | Roleplay |
-| **99** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:35) | Roleplay |
-| **100** | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:50) | Roleplay |
-| **101** | Fortress Vigil - Eastern Courtyard | Kythorn 3, Year 78 (22:50 Night) | Roleplay |
-| **102** | Fortress Vigil - Subterranean Vaults | Kythorn 3, 78 DR (23:15) | Roleplay |
-| **103** | Fortress Vigil - Subterranean Vaults | Day 3, 78 Kythorn (23:15) | Roleplay |
-| **104** | Fortress Vigil - Subterranean Vaults | Month 6, Year 78 (Day 3) | Roleplay |
-| **105** | Fortress Vigil - Subterranean Vaults | 6 3, 78 DR (23:20) | Roleplay |
-| **106** | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 3) | Roleplay |
-| **107** | Fortress Vigil - Subterranean Vaults | Mirtul 3, 78 DR (23:25) | Roleplay |
-| **108** | Fortress Vigil - Subterranean Vaults | 6 3, 78 DR (23:35) | Roleplay |
-| **109** | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 3) | Roleplay |
-| **110** | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 3) | Roleplay |
-| **111** | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:30 (After Midnight)) | Roleplay |
-| **112** | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:35) | Roleplay |
-| **113** | Fortress Vigil - Subterranean Vaults | Month 6, Year 78 (Day 4) | Roleplay |
-| **114** | Fortress Vigil - Subterranean Vaults | Month 6, 0078 (Day 4) | Roleplay |
-| **115** | Fortress Vigil - Subterranean Vaults (Deep Labyrinth) | 6 4, 78 DR (00:45) | Roleplay |
-| **116** | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:45) | Roleplay |
-| **117** | Fortress Vigil - Subterranean Vaults | Flamerule 4, 78 DR (00:45) | Roleplay |
-| **118** | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:45) | Roleplay |
-| **119** | Fortress Vigil - Subterranean Vaults (Deep Fissure) | 6 4, 78 DR (01:15) | Roleplay |
-| **120** | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (01:20) | Roleplay |
-| **121** | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 4) | Roleplay |
-| **122** | Fortress Vigil - Subterranean Vaults (Threshold of the Anchor-Stone) | 6 4, 78 DR (01:25) | Roleplay |
-| **123** | Fortress Vigil - Subterranean Vaults (Outer Chamber) | 6 4, 78 DR (01:35) | Roleplay |
-| **124** | Fortress Vigil - Subterranean Vaults (Outer Chamber) | 6 4, 78 DR (01:36) | Roleplay |
-| **125** | Fortress Vigil - Subterranean Vaults (Outer Chamber) | Mirtul 15, 1492 DR (14:45) | Roleplay |
-| **126** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | Month 6, 78 DR (Day 4) | Roleplay |
-| **127** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (01:45) | Roleplay |
-| **128** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (01:50) | Roleplay |
-| **129** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:05) | Roleplay |
-| **130** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:15) | Roleplay |
-| **131** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:20) | Roleplay |
-| **132** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:25) | Roleplay |
-| **133** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:35) | Roleplay |
-| **134** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | Mirtul 4, 78 DR (02:45) | Roleplay |
-| **135** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:45) | Roleplay |
-| **136** | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:46) | Roleplay |
-| **137** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
-| **138** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
-| **139** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
-| **140** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
-| **141** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | Flamerule 4, 78 DR (02:51) | Roleplay |
-| **142** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
-| **143** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:52) | Roleplay |
-| **144** | Fortress Vigil - Subterranean Vaults | Month 6 Day 4, 78 Era of the Mortal Star (02:52) | Roleplay |
-| **145** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | Month 6, 78 New Peace (Day 4) | Roleplay |
-| **146** | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | Month 6, Year 78 (Day 4) | Roleplay |
-| **147** | Fortress Vigil - Flooded Cisterns (Below Vaults) | 0078-06-04, 02:55:00 | Roleplay |
-| **148** | Fortress Vigil - Flooded Cisterns (Below Vaults) | Month 6, Year 78 (Day 4) | Roleplay |
-| **149** | Fortress Vigil - Flooded Cisterns (Below Vaults) | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **150** | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
-| **151** | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
-| **152** | Fortress Vigil - Flooded Cisterns (Below Vaults) | Mirtul 4, 78 DR (03:10) | Roleplay |
-| **153** | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
-| **154** | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
-| **155** | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:15) | Roleplay |
-| **156** | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:45) | Roleplay |
-| **157** | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:50) | Roleplay |
-| **158** | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:55) | Roleplay |
-| **159** | Fortress Vigil - Subterranean Exit (The Iron Throat) | 6 4, 78 DR (04:30) | Roleplay |
-| **160** | Fortress Vigil - Prince's Solar | 6 4, 78 DR (05:15) | Roleplay |
-| **161** | Fortress Vigil - Prince's Solar | 6 4, 78 DR (05:45) | Roleplay |
-| **162** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (06:15) | Roleplay |
-| **163** | Fortress Vigil - Inner Courtyard | Kythorn Day 4, Year 78 (Dawn) | Roleplay |
-| **164** | Fortress Vigil - Inner Courtyard | 6 4, 78 DR (06:15) | Roleplay |
-| **165** | Fortress Vigil - Inner Courtyard | Kythorn 4, 78 DR (06:15) | Roleplay |
-| **166** | Fortress Vigil - Subterranean Vaults | Kythorn 4, 78 DR (06:15) | Roleplay |
-| **167** | Fortress Vigil - Subterranean Vaults (Northern Spillway) | Kythorn (Month 6) 4, 78 DR (06:15) | Roleplay |
-| **168** | Fortress Vigil - Northern Spillway (Subterranean) | Kythorn 4, 78 DR (06:20) | Roleplay |
-| **169** | Fortress Vigil - Northern Spillway | Month 6, 78 DR (Day 4) | Roleplay |
-| **170** | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:15) | Roleplay |
-| **171** | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:20) | Roleplay |
-| **172** | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:20) | Roleplay |
-| **173** | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:20) | Roleplay |
-| **174** | Fortress Vigil - Northern Spillway (Egress) | Kythorn 4, 78 DR (06:20) | Roleplay |
-| **175** | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:23) | Roleplay |
-| **176** | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:23) | Roleplay |
-| **177** | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:23) | Roleplay |
-| **178** | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:30) | Roleplay |
-| **179** | Valley Floor - Fortress Vigil Perimeter | Kythorn 4, 78 DR (06:40) | Roleplay |
-| **180** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **181** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (06:40) | Roleplay |
-| **182** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **183** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (06:30) | Roleplay |
-| **184** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **185** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **186** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **187** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **188** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **189** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **190** | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:45) | Roleplay |
-| **191** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:30) | Roleplay |
-| **192** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:45) | Roleplay |
-| **193** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:45) | Roleplay |
-| **194** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:30) | Roleplay |
-| **195** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:45) | Roleplay |
-| **196** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:15) | Roleplay |
-| **197** | Valley Floor - The Harvest Grounds | Kythorn 4, 78 DR (09:30) | Roleplay |
-| **198** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:15) | Roleplay |
-| **199** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:15) | Roleplay |
-| **200** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:20) | Roleplay |
-| **201** | Valley Floor - Command Post | Kythorn 4, 78 DR (11:45) | Roleplay |
-| **202** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (12:45) | Roleplay |
-| **203** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (12:50) | Roleplay |
-| **204** | High Pass Road | Kythorn 4, 78 DR (16:35) | Roleplay |
-| **205** | Valley Floor - Xylos's Fall | 6 4, 78 DR (13:05) | Roleplay |
-| **206** | High Pass Road (Returning to Fortress Vigil) | Kythorn 4, 78 DR (12:45) | Roleplay |
-| **207** | High Pass Road (En Route to Fortress Vigil) | Kythorn 4, 78 DR (14:15) | Roleplay |
-| **208** | High Pass Road (Approaching Fortress Vigil) | Kythorn 4, 78 DR (16:35) | Roleplay |
-| **209** | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (15:30) | Roleplay |
-| **210** | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (13:45) | Roleplay |
-| **211** | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (15:30) | Roleplay |
-| **212** | Fortress Vigil - Inner Bailey / Auxiliary Barracks | Kythorn 4, 78 DR (18:30) | Roleplay |
-| **213** | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (12:45) | Roleplay |
-| **214** | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (15:30) | Roleplay |
-| **215** | Fortress Vigil - Inner Bailey | Kythorn 4, 78 DR (18:45) | Roleplay |
-| **216** | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (14:00) | Roleplay |
-| **217** | Fortress Vigil - Detention Level | Kythorn 4, 78 DR (18:50) | Roleplay |
-| **218** | Fortress Vigil - Detention Level | Kythorn 4, 78 DR (19:05) | Roleplay |
-| **219** | High Pass Road - Moving toward Fortress Vigil | Kythorn 4, 78 DR (16:30) | Roleplay |
-| **220** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
-| **221** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
-| **222** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
-| **223** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
-| **224** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:25) | Roleplay |
-| **225** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:25) | Roleplay |
-| **226** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:25) | Roleplay |
-| **227** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:35) | Roleplay |
-| **228** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:35) | Roleplay |
-| **229** | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:40) | Roleplay |
-| **230** | Fortress Vigil - Inner Sanctum Gates | Flamerule 15, 78 DR (20:00) | Roleplay |
-| **231** | Fortress Vigil - Western Spillway Training Grounds | Kythorn 22, 78 DR (09:00) | Roleplay |
-| **232** | Fortress Vigil - Western Spillway Training Grounds | Flamerule 22, 78 DR (09:00) | Roleplay |
-| **233** | Fortress Vigil - Western Spillway Training Grounds | Flamerule 1, 78 DR (09:00) | Roleplay |
-| **234** | Fortress Vigil - Western Spillway Training Grounds | Flamerule 22, 78 DR (09:00) | Roleplay |
-| **235** | Aeterna - The Great Plaza | Flamerule 2, 78 DR (09:00) | Roleplay |
-| **236** | Aeterna - The Zenith Spire Presence Chamber | Flamerule 1, 78 DR (14:00) | Roleplay |
-| **237** | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:05) | Roleplay |
-| **238** | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:15) | Roleplay |
-| **239** | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:20) | Roleplay |
-| **240** | Aeterna - The Zenith Spire Presence Chamber | Flamerule 11, 78 DR (15:45) | Roleplay |
-| **241** | Aeterna - The Zenith Spire Presence Chamber | Flamerule 12, 78 DR (11:30) | Roleplay |
-| **242** | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:45) | Roleplay |
-| **243** | Aeterna - Lord Regent's Private Sanctum | 7 29, 78 DR (15:15) | Roleplay |
-| **244** | Aeterna - Lord Regent's Private Sanctum | 7 29, 78 DR (15:25) | Roleplay |
-| **245** | Aeterna - Lord Regent's Private Sanctum | Month 7 Day 29, 78 DR (15:26) | Roleplay |
-| **246** | Aeterna - Lord Regent's Private Sanctum | 7 29, 78 DR (15:26) | Roleplay |
-| **247** | Aeterna - Lord Regent's Private Sanctum | Flamerule 6, 78 DR (11:30) | Roleplay |
-| **248** | Aeterna - Lord Regent's Private Sanctum | Flamerule 5, 78 DR (16:45) | Roleplay |
-| **249** | Aeterna - Zenith Spire / Great Plaza | 7 30, 78 DR (10:00) | Roleplay |
-| **250** | Aeterna - Zenith Spire (Hanging Gardens) | 7 30, 78 DR (11:30) | Roleplay |
-| **251** | Aeterna - Zenith Spire (Hanging Gardens) | Flamerule 10, 78 DR (14:00) | Roleplay |
-| **252** | Aeterna - Zenith Spire (Royal Guest Wing) | 7 30, 78 DR (21:00) | Roleplay |
-| **253** | Aeterna - Zenith Spire (Royal Guest Wing) | 7 30, 78 DR (23:30) | Roleplay |
-| **254** | Aeterna - Zenith Spire (Royal Guest Wing) | 7 30, 78 DR (23:45) | Roleplay |
-| **255** | Aeterna - Zenith Spire (Royal Guest Wing) | 7 31, 78 DR (02:30) | Roleplay |
-| **256** | Aeterna - Great Plaza (New Vanguard H.Q.) | Kythorn 5, 78 DR (08:30) | Roleplay |
-| **257** | Aeterna - Zenith Spire Laboratory | 7 31, 78 DR (10:30) | Roleplay |
-| **258** | Aeterna - Imperial Road (Syrn Valley Approach) | Flamerule 8, 78 DR (08:30) | Roleplay |
-| **259** | Aeterna - Great Plaza / Zenith Spire | Flamerule 10, 78 DR (05:00) | Roleplay |
-| **260** | Aeterna - Great Plaza | Flamerule 1, 78 DR (06:30) | Roleplay |
-| **261** | Aeterna - Zenith Spire (Departing) | Flamerule 1, 78 DR (06:00) | Roleplay |
-| **262** | Syrn Valley Approach - Secluded Canyon | Flamerule 10, 78 DR (04:30) | Roleplay |
-| **263** | Syrn Valley Approach - Secluded Canyon | Flamerule 1, 78 DR (04:30) | Roleplay |
-| **264** | Syrn Valley Approach - Secluded Canyon | Kythorn 31, 78 DR (04:30) | Roleplay |
-| **265** | Syrn Valley Approach - Secluded Canyon | Kythorn 31, 78 DR (04:35) | Roleplay |
-| **266** | Syrn Valley Approach - Secluded Canyon | Kythorn 31, 78 DR (04:35) | Roleplay |
-| **267** | Syrn Valley Approach - Vanguard Command Column | Kythorn 31, 78 DR (04:45) | Roleplay |
-| **268** | Syrn Valley Approach - Border Ethereal | Kythorn 31, 78 DR (05:00) | Roleplay |
-| **269** | Syrn Valley Approach - Border Ethereal | Flamerule 1, 78 DR (05:15) | Roleplay |
-| **270** | Syrn Valley Approach - Border Ethereal | Flamerule 31, 78 DR (05:30) | Roleplay |
-| **271** | Syrn Valley Approach - Border Ethereal | 7 31, 78 DR (05:45) | Roleplay |
-| **272** | Syrn Valley Approach - Border Ethereal | Flamerule 15, 78 DR (05:55) | Roleplay |
-| **273** | Syrn Valley Approach - Border Ethereal | Flamerule 31, 78 DR (05:58) | Roleplay |
-| **274** | Syrn Valley Approach - Border Ethereal | Flamerule 8, 78 DR (05:55) | Roleplay |
-| **275** | Syrn Valley Approach - Border Ethereal | Flamerule 31, 78 DR (05:56) | Roleplay |
-| **276** | Zenith Spire - Private Sanctum | Flamerule 2, 78 DR (05:45) | Roleplay |
-| **277** | Syrn Valley - Eastern Spurs (Material Plane) | Kythorn Day 4, 78 DR (06:30) | Roleplay |
-| **278** | Syrn Valley - Eastern Spurs | Flamerule 8, 78 DR (Dawn) | Roleplay |
-| **279** | Syrn Valley - Hidden Canyon | Kythorn Day 31, 78 DR (05:55) | Roleplay |
-| **280** | Syrn Valley - Eastern Spurs | Flamerule 1, 78 DR (06:30) | Roleplay |
-| **281** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (06:10) | Roleplay |
-| **282** | Syrn Valley - Eastern Spurs | Flamerule 31, 78 DR (06:10) | Roleplay |
-| **283** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (06:15) | Roleplay |
-| **284** | Syrn Valley - Eastern Spurs | Flamerule 8, 78 DR (06:30) | Roleplay |
-| **285** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (06:20) | Roleplay |
-| **286** | Syrn Valley - Eastern Spurs (Ambush Site) | Flamerule 10, 78 DR (07:45) | Roleplay |
-| **287** | Syrn Valley - Eastern Spurs | Flamerule 15, 78 DR (08:30) | Roleplay |
-| **288** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (08:35) | Roleplay |
-| **289** | Syrn Valley - Eastern Spurs | Flamerule 1, 78 DR (09:15) | Roleplay |
-| **290** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:15) | Roleplay |
-| **291** | Syrn Valley - Eastern Spurs | Flamerule 31, 78 DR (09:15) | Roleplay |
-| **292** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:20) | Roleplay |
-| **293** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:20) | Roleplay |
-| **294** | Syrn Valley - Eastern Spurs | Month 7, 78 DR (Day 31) | Roleplay |
-| **295** | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:20) | Roleplay |
-| **296** | Syrn Valley - Eastern Spurs | Flamerule 31, 78 DR (09:20) | Roleplay |
-| **297** | Syrn Valley - Southern Ridge | Flamerule 10, 78 DR (09:30) | Roleplay |
-| **298** | Syrn Valley - Southern Ridge | Flamerule 12, 78 DR (09:45) | Roleplay |
-| **299** | Syrn Valley - Southern Ridge | 7 31, 78 DR (10:15) | Roleplay |
-| **300** | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (08:30) | Roleplay |
-| **301** | Syrn Valley - Southern Ridge | Kythorn 4, 78 DR (11:35) | Roleplay |
-| **302** | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (12:45) | Roleplay |
-| **303** | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (14:00) | Roleplay |
-| **304** | Syrn Valley - Southern Ridge | Flamerule 1, 78 DR (07:45) | Roleplay |
-| **305** | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (07:45) | Roleplay |
-| **306** | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (07:45) | Roleplay |
-| **307** | Syrn Valley - Eastern Spurs (Movement) | Flamerule 8, 78 DR (11:30) | Roleplay |
-| **308** | Syrn Valley - Eastern Spurs (Transit) | Kythorn 4, 78 DR (08:50) | Roleplay |
-| **309** | Fortress Vigil - Outer Perimeter | Flamerule 8, 78 DR (10:45) | Roleplay |
-| **310** | Fortress Vigil - Outer Perimeter | Month 7 Day 30, 78 DR (11:30) | Roleplay |
-| **311** | Fortress Vigil - Outer Perimeter | 7 30, 78 DR (11:35) | Roleplay |
-| **312** | Zenith Spire - Command Ward | Flamerule 8, 78 DR (08:35) | Roleplay |
-| **313** | Fortress Vigil - Subterranean Vaults (Command Ward) | Kythorn 4, 78 DR (06:15) | Roleplay |
-| **314** | Fortress Vigil - Subterranean Vaults | 7 30, 78 DR (11:35) | Roleplay |
-| **315** | Fortress Vigil - Subterranean Vaults | 7 30, 78 DR (11:35) | Roleplay |
-| **316** | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
-| **317** | Fortress Vigil - Command Ward | Flamerule 30, 78 DR (11:35) | Roleplay |
-| **318** | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
-| **319** | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
-| **320** | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
-| **321** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (11:36) | Roleplay |
-| **322** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:16) | Roleplay |
-| **323** | Fortress Vigil - Command Ward | 7 30, 78 DR (11:45) | Roleplay |
-| **324** | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (11:50) | Roleplay |
-| **325** | Fortress Vigil - Command Ward | Kythorn 30, 78 DR (11:45) | Roleplay |
-| **326** | Fortress Vigil - Command Ward | Month 7, 78 DR (Day 30) | Roleplay |
-| **327** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:17) | Roleplay |
-| **328** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:45) | Roleplay |
-| **329** | Fortress Vigil - Command Ward | Flamerule 10, 78 DR (06:30) | Roleplay |
-| **330** | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (14:45) | Roleplay |
-| **331** | Aeterna - Zenith Spire - Guest Wing | Kythorn 4, 78 DR (08:30) | Roleplay |
-| **332** | Fortress Vigil - Command Ward (Interrogation) | Kythorn 4, 78 DR (07:45) | Roleplay |
-| **333** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:25) | Roleplay |
-| **334** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:30) | Roleplay |
-| **335** | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (04:45) | Roleplay |
-| **336** | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (08:45) | Roleplay |
-| **337** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (11:30) | Roleplay |
-| **338** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (07:15) | Roleplay |
-| **339** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (11:30) | Roleplay |
-| **340** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:45) | Roleplay |
-| **341** | Zenith Spire - Command Ward | Kythorn 4, 78 DR (11:30) | Roleplay |
-| **342** | Fortress Vigil - Command Ward | Month 7, 78 DR (Day 30) | Roleplay |
-| **343** | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (08:55) | Roleplay |
-| **344** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (08:55) | Roleplay |
-| **345** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (09:15) | Roleplay |
-| **346** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (09:15) | Roleplay |
-| **347** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (11:35) | Roleplay |
-| **348** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (11:45) | Roleplay |
-| **349** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (12:05) | Roleplay |
-| **350** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (12:05) | Roleplay |
-| **351** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (11:35) | Roleplay |
-| **352** | Zenith Spire - Raziel's Private Sanctum | Kythorn 5, 78 DR (02:30) | Roleplay |
-| **353** | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (11:35) | Roleplay |
-| **354** | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (11:45) | Roleplay |
-| **355** | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (08:45) | Roleplay |
-| **356** | Zenith Spire - Raziel's Private Sanctum | Flamerule 5, 78 DR (08:30) | Roleplay |
-| **357** | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (12:05) | Roleplay |
-| **358** | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (12:10) | Roleplay |
-| **359** | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (12:10) | Roleplay |
-| **360** | Zenith Spire - Raziel's Private Sanctum | Flamerule 30, 78 DR (13:00) | Roleplay |
-| **361** | Zenith Spire - Raziel's Private Sanctum | Flamerule 1, 78 DR (05:45) | Roleplay |
-| **362** | Obsidian Spire - Chronos-Apsis Threshold | Flamerule 1, 78 DR (10:45) | Roleplay |
-| **363** | Obsidian Spire - Inner Apsis | Kythorn 4, 78 DR (11:35) | Roleplay |
-| **364** | Obsidian Spire - Inner Apsis | 7 31, 78 DR (11:35) | Roleplay |
-| **365** | Obsidian Spire - Inner Apsis | 7 31, 78 DR (11:35) | Roleplay |
-| **366** | Obsidian Spire - Chronos-Apsis | Month 7 Day 31, 78 DR (11:45) | Roleplay |
-| **367** | Obsidian Spire - Inner Apsis | Flamerule 15, 78 DR (14:45) | Roleplay |
-| **368** | Obsidian Spire - Inner Apsis | Kythorn 4, 78 DR (06:30) | Roleplay |
-| **369** | Obsidian Spire - Inner Apsis | 7 31, 78 DR (11:35) | Roleplay |
-| **370** | Obsidian Spire - Inner Apsis | Kythorn 4, 78 DR (06:45) | Roleplay |
-| **371** | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:30) | Roleplay |
-| **372** | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:35) | Roleplay |
-| **373** | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:35) | Roleplay |
-| **374** | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (06:50) | Roleplay |
-| **375** | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:50) | Roleplay |
-| **376** | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:55) | Roleplay |
-| **377** | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (12:15) | Roleplay |
-| **378** | Obsidian Spire - Chronos-Apsis | Flamerule 15, 78 DR (12:45) | Roleplay |
-| **379** | Obsidian Spire - Chronos-Apsis (IMPLODING) | Kythorn 4, 78 DR (07:45) | Roleplay |
-| **380** | Obsidian Spire - The Singularity's Core | Kythorn 4, 78 DR (12:45) | Roleplay |
-| **381** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (12:45) | Roleplay |
-| **382** | Syrn Valley - The Singularity's Crater | Flamerule 12, 78 DR (14:00) | Roleplay |
-| **383** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
-| **384** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
-| **385** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
-| **386** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
-| **387** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:30) | Roleplay |
-| **388** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:30) | Roleplay |
-| **389** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:35) | Roleplay |
-| **390** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:35) | Roleplay |
-| **391** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:45) | Roleplay |
-| **392** | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:45) | Roleplay |
-| **393** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (14:55) | Roleplay |
-| **394** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (14:56) | Roleplay |
-| **395** | Aeterna - Zenith Gardens (The Anchor Point) | Kythorn 4, 78 DR (15:05) | Roleplay |
-| **396** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:05) | Roleplay |
-| **397** | Aeterna - Zenith Gardens (The Source Node) | Kythorn 4, 78 DR (15:30) | Roleplay |
-| **398** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:05) | Roleplay |
-| **399** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:10) | Roleplay |
-| **400** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:10) | Roleplay |
-| **401** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:15) | Roleplay |
-| **402** | Aeterna - Zenith Gardens | Flamerule 30, 78 DR (11:30) | Roleplay |
-| **403** | Aeterna - Zenith Gardens | Kythorn 30, 78 DR (11:30) | Roleplay |
-| **404** | Aeterna - Zenith Gardens | Day 4, 78 Kythorn (Afternoon) | Roleplay |
-| **405** | Aeterna - Zenith Gardens | Flamerule 10, Year 78 (Midday) | Roleplay |
-| **406** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:30) | Roleplay |
-| **407** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:45) | Roleplay |
-| **408** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:50) | Roleplay |
-| **409** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:00) | Roleplay |
-| **410** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:00) | Roleplay |
-| **411** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:00) | Roleplay |
-| **412** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
-| **413** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
-| **414** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
-| **415** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
-| **416** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
-| **417** | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
-| **418** | Aeterna - Zenith Gardens | Kythorn 30, 78 DR (11:30) | Roleplay |
-| **419** | Aeterna - Zenith Gardens | Kythorn 4, 11 NP (Morning) | Roleplay |
-| **420** | Aeterna - Zenith Gardens | Kythorn 30, 78 DR (11:30) | Roleplay |
-| **421** | Aeterna - Zenith Gardens | Kythorn 4, Year 78 (Midday) | Roleplay |
-| **422** | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (12:45) | Roleplay |
-| **423** | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (12:50) | Roleplay |
-| **424** | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:05) | Roleplay |
-| **425** | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:10) | Roleplay |
-| **426** | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:15) | Roleplay |
-| **427** | Eye of the Sundering - The Sunless Throne | Kythorn 4, Year 78 (13:10) | Roleplay |
-| **428** | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:15) | Roleplay |
-| **429** | Aeterna - The Zenith Plaza | Kythorn 5, Year 1 of the New Era (12:00) | Roleplay |
-| **430** | Aeterna - The Zenith Plaza | Kythorn 5, 1 DR (14:00) | Roleplay |
-| **431** | Aeterna - The Zenith Gardens | Kythorn 5, 1 DR (14:15) | Roleplay |
-| **432** | The Southern Highroad - Outskirts of Aeterna | Kythorn 5, 11 NP (10:00) | Roleplay |
-| **433** | Syrn Valley | Kythorn 5, 11 DR (14:00) | Roleplay |
-| **434** | Oakhaven | Kythorn 5, 11 DR (14:45) | Roleplay |
-| **435** | Oakhaven | Kythorn 5, 11 DR (15:00) | Roleplay |
-| **436** | Oakhaven | Kythorn 5, 11 DR (15:15) | Roleplay |
-| **437** | Oakhaven | Kythorn 5, 11 DR (15:30) | Roleplay |
+| [**Scene 01**](#scene-1) | Dragon's Tooth Foothills - Imperial Border | 78 DR (Alexiel Era), Month of Eleint | Roleplay |
+| [**Scene 02**](#scene-2) | Character Creation Hub | Year 78, Month of Mirtul | Roleplay |
+| [**Scene 03**](#scene-3) | Dragon's Tooth Mountains (Border) |  | Roleplay |
+| [**Scene 04**](#scene-4) | Dragon's Tooth Mountains (Border) | Kythorn 2, Year 11 (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Dragon's Tooth Mountains (Border) | Kythorn 2, 11 New Peace (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Dragon's Tooth Mountains (Border) | Kythorn 2, 11 New Peace (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Dragon's Tooth Mountains (Imperial Border) | Kythorn 2, Year 78 (12:15) | Roleplay |
+| [**Scene 08**](#scene-8) | Waterfall Cave | Kythorn 3, 78 DR (04:00 (Pre-Dawn)) | Roleplay |
+| [**Scene 09**](#scene-9) | Waterfall Cave | Kythorn 3, Year 78 (04:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Waterfall Cave | Kythorn 3, 78 DR (04:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Waterfall Cave | Kythorn 3, 78 DR (04:05) | Roleplay |
+| [**Scene 12**](#scene-12) | Waterfall Cave | Kythorn 3, 78 DR (04:05) | Roleplay |
+| [**Scene 13**](#scene-13) | Waterfall Cave | Kythorn 3, 78 DR (04:05) | Roleplay |
+| [**Scene 14**](#scene-14) | Waterfall Cave | Kythorn 3, 78 DR (04:10) | Roleplay |
+| [**Scene 15**](#scene-15) | Waterfall Cave | Kythorn 3, 78 DR (04:25) | Roleplay |
+| [**Scene 16**](#scene-16) | Waterfall Cave | Kythorn 3, Year 78 (04:25 (Pre-Dawn)) | Roleplay |
+| [**Scene 17**](#scene-17) | Imperial High Pass Road | Kythorn 3, 78 DR (08:45) | Roleplay |
+| [**Scene 18**](#scene-18) | Imperial High Pass Road | Kythorn 3, 78 DR (08:50) | Roleplay |
+| [**Scene 19**](#scene-19) | Imperial High Pass Road | Kythorn 3, Year 78 (08:50) | Roleplay |
+| [**Scene 20**](#scene-20) | Imperial High Pass Road | Kythorn 3, 78 DR (08:52) | Roleplay |
+| [**Scene 21**](#scene-21) | Imperial High Pass Road | Kythorn 3, 78 DR (08:52) | Roleplay |
+| [**Scene 22**](#scene-22) | Imperial High Pass Road | Kythorn 3, 78 DR (08:55) | Roleplay |
+| [**Scene 23**](#scene-23) | Imperial High Pass Road - Gully | Kythorn 3, 78 DR (09:05) | Roleplay |
+| [**Scene 24**](#scene-24) | Imperial High Pass Road - Hidden Gully | Kythorn 3, 78 DR (09:15) | Roleplay |
+| [**Scene 25**](#scene-25) | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
+| [**Scene 26**](#scene-26) | Imperial High Pass Road | Day 3, 78 Kythorn (09:20) | Roleplay |
+| [**Scene 27**](#scene-27) | Imperial High Pass Road | Kythorn 3, 1492 DR (Imperial Year 78) (09:20) | Roleplay |
+| [**Scene 28**](#scene-28) | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
+| [**Scene 29**](#scene-29) | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
+| [**Scene 30**](#scene-30) | Imperial High Pass Road | Kythorn 3, Year 78 (09:20) | Roleplay |
+| [**Scene 31**](#scene-31) | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
+| [**Scene 32**](#scene-32) | Imperial High Pass Road | Kythorn 3, 78 DR (09:20) | Roleplay |
+| [**Scene 33**](#scene-33) | Imperial High Pass Road (Vantage Point) | Kythorn 3, Year 78 (09:25) | Roleplay |
+| [**Scene 34**](#scene-34) | Imperial High Pass Road (Ridge Vantage) | Kythorn 3, 78 DR (09:25) | Roleplay |
+| [**Scene 35**](#scene-35) | Imperial High Pass Road | Kythorn 3, 78 New Peace (09:25) | Roleplay |
+| [**Scene 36**](#scene-36) | Imperial High Pass Road | Kythorn 3, 78 DR (09:25) | Roleplay |
+| [**Scene 37**](#scene-37) | Imperial High Pass Road | Kythorn 3, 78 DR (09:25) | Roleplay |
+| [**Scene 38**](#scene-38) | Imperial High Pass Road - Approach to Fortress Vigil | Kythorn 3, 78 DR (09:45) | Roleplay |
+| [**Scene 39**](#scene-39) | Imperial High Pass Road | Day 3, 78 Kythorn (09:45) | Roleplay |
+| [**Scene 40**](#scene-40) | Imperial High Pass Road | Kythorn 3, 78 DR (09:50) | Roleplay |
+| [**Scene 41**](#scene-41) | Imperial High Pass Road | Kythorn 3, 78 DR (10:05) | Roleplay |
+| [**Scene 42**](#scene-42) | Imperial High Pass Road (En Route to Fortress Vigil) | Kythorn 3, 78 DR (11:30) | Roleplay |
+| [**Scene 43**](#scene-43) | High Pass Road (Marching) | Kythorn 3, 78 DR (12:15) | Roleplay |
+| [**Scene 44**](#scene-44) | Imperial High Pass Road | Kythorn 3, 78 DR (12:25) | Roleplay |
+| [**Scene 45**](#scene-45) | Imperial High Pass Road | Kythorn 3, 78 DR (13:10) | Roleplay |
+| [**Scene 46**](#scene-46) | Imperial High Pass Road | Kythorn 3, 78 DR (12:35) | Roleplay |
+| [**Scene 47**](#scene-47) | Imperial High Pass Road | Kythorn 3, 78 DR (12:40) | Roleplay |
+| [**Scene 48**](#scene-48) | Imperial High Pass Road | Kythorn 3, 78 DR (12:45) | Roleplay |
+| [**Scene 49**](#scene-49) | Imperial High Pass Road | Kythorn 3, 78 DR (13:15) | Roleplay |
+| [**Scene 50**](#scene-50) | Imperial High Pass Road | Kythorn 3, 78 DR (13:15) | Roleplay |
+| [**Scene 51**](#scene-51) | Imperial High Pass Road | Kythorn 3, 78 DR (13:25) | Roleplay |
+| [**Scene 52**](#scene-52) | Imperial High Pass Road (Century Column) | Kythorn 3, 78 DR (13:45) | Roleplay |
+| [**Scene 53**](#scene-53) | Imperial High Pass Road | Kythorn 3, 78 New Peace (13:45) | Roleplay |
+| [**Scene 54**](#scene-54) | Imperial High Pass Road | Kythorn 3, 1492 DR (13:55) | Roleplay |
+| [**Scene 55**](#scene-55) | Imperial High Pass Road (Approaching Fortress Vigil) | Month of Kythorn, Year 78 (Day 3) | Roleplay |
+| [**Scene 56**](#scene-56) | Imperial High Pass Road (Approaching Fortress Vigil) | Kythorn 3, Year 78 (13:55 (Midday)) | Roleplay |
+| [**Scene 57**](#scene-57) | Imperial High Pass Road (Approaching Fortress Vigil) | Kythorn 3, Year 78 (13:55 (Midday)) | Roleplay |
+| [**Scene 58**](#scene-58) | Fortress Vigil Gates | Kythorn 03, 0078 DR (14:15) | Roleplay |
+| [**Scene 59**](#scene-59) | Fortress Vigil - Inner Courtyard | Kythorn 3, 78 DR (15:30) | Roleplay |
+| [**Scene 60**](#scene-60) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (15:45) | Roleplay |
+| [**Scene 61**](#scene-61) | Fortress Vigil - The Solar | Kythorn 3, 1492 DR (15:45) | Roleplay |
+| [**Scene 62**](#scene-62) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (15:55) | Roleplay |
+| [**Scene 63**](#scene-63) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (16:10) | Roleplay |
+| [**Scene 64**](#scene-64) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (16:15) | Roleplay |
+| [**Scene 65**](#scene-65) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (16:35) | Roleplay |
+| [**Scene 66**](#scene-66) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (17:05) | Roleplay |
+| [**Scene 67**](#scene-67) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (17:06) | Roleplay |
+| [**Scene 68**](#scene-68) | Fortress Vigil - Forbidden Archives / Magical Corps Sanctum | Kythorn 3, 78 DR (18:30) | Roleplay |
+| [**Scene 69**](#scene-69) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (18:45) | Roleplay |
+| [**Scene 70**](#scene-70) | Fortress Vigil - The Solar | Kythorn 3, 78 DR (19:05) | Roleplay |
+| [**Scene 71**](#scene-71) | Fortress Vigil - The Solar | Kythorn 3, 1492 DR (19:10) | Roleplay |
+| [**Scene 72**](#scene-72) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (19:45) | Roleplay |
+| [**Scene 73**](#scene-73) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:00) | Roleplay |
+| [**Scene 74**](#scene-74) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:15) | Roleplay |
+| [**Scene 75**](#scene-75) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:30) | Roleplay |
+| [**Scene 76**](#scene-76) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:35) | Roleplay |
+| [**Scene 77**](#scene-77) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:45) | Roleplay |
+| [**Scene 78**](#scene-78) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:35) | Roleplay |
+| [**Scene 79**](#scene-79) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 New Peace (20:35) | Roleplay |
+| [**Scene 80**](#scene-80) | Fortress Vigil - Magical Corps Sanctum | Month of Kythorn, Year 78 (Day 3) | Roleplay |
+| [**Scene 81**](#scene-81) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:45) | Roleplay |
+| [**Scene 82**](#scene-82) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (20:45) | Roleplay |
+| [**Scene 83**](#scene-83) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (21:10) | Roleplay |
+| [**Scene 84**](#scene-84) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (21:45) | Roleplay |
+| [**Scene 85**](#scene-85) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (21:50) | Roleplay |
+| [**Scene 86**](#scene-86) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
+| [**Scene 87**](#scene-87) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
+| [**Scene 88**](#scene-88) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
+| [**Scene 89**](#scene-89) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
+| [**Scene 90**](#scene-90) | Fortress Vigil - Magical Corps Sanctum | Kythorn 3, 78 DR (22:15) | Roleplay |
+| [**Scene 91**](#scene-91) | Fortress Vigil - Eastern Courtyard Battlements | Kythorn 3, 78 DR (22:20) | Roleplay |
+| [**Scene 92**](#scene-92) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:20) | Roleplay |
+| [**Scene 93**](#scene-93) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:21) | Roleplay |
+| [**Scene 94**](#scene-94) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:21) | Roleplay |
+| [**Scene 95**](#scene-95) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:25) | Roleplay |
+| [**Scene 96**](#scene-96) | Fortress Vigil - Eastern Courtyard | Day 3, 78 Kythorn (22:25) | Roleplay |
+| [**Scene 97**](#scene-97) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 New Peace (Night) | Roleplay |
+| [**Scene 98**](#scene-98) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:25) | Roleplay |
+| [**Scene 99**](#scene-99) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:35) | Roleplay |
+| [**Scene 100**](#scene-100) | Fortress Vigil - Eastern Courtyard | Kythorn 3, 78 DR (22:50) | Roleplay |
+| [**Scene 101**](#scene-101) | Fortress Vigil - Eastern Courtyard | Kythorn 3, Year 78 (22:50 Night) | Roleplay |
+| [**Scene 102**](#scene-102) | Fortress Vigil - Subterranean Vaults | Kythorn 3, 78 DR (23:15) | Roleplay |
+| [**Scene 103**](#scene-103) | Fortress Vigil - Subterranean Vaults | Day 3, 78 Kythorn (23:15) | Roleplay |
+| [**Scene 104**](#scene-104) | Fortress Vigil - Subterranean Vaults | Month 6, Year 78 (Day 3) | Roleplay |
+| [**Scene 105**](#scene-105) | Fortress Vigil - Subterranean Vaults | 6 3, 78 DR (23:20) | Roleplay |
+| [**Scene 106**](#scene-106) | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 3) | Roleplay |
+| [**Scene 107**](#scene-107) | Fortress Vigil - Subterranean Vaults | Mirtul 3, 78 DR (23:25) | Roleplay |
+| [**Scene 108**](#scene-108) | Fortress Vigil - Subterranean Vaults | 6 3, 78 DR (23:35) | Roleplay |
+| [**Scene 109**](#scene-109) | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 3) | Roleplay |
+| [**Scene 110**](#scene-110) | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 3) | Roleplay |
+| [**Scene 111**](#scene-111) | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:30 (After Midnight)) | Roleplay |
+| [**Scene 112**](#scene-112) | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:35) | Roleplay |
+| [**Scene 113**](#scene-113) | Fortress Vigil - Subterranean Vaults | Month 6, Year 78 (Day 4) | Roleplay |
+| [**Scene 114**](#scene-114) | Fortress Vigil - Subterranean Vaults | Month 6, 0078 (Day 4) | Roleplay |
+| [**Scene 115**](#scene-115) | Fortress Vigil - Subterranean Vaults (Deep Labyrinth) | 6 4, 78 DR (00:45) | Roleplay |
+| [**Scene 116**](#scene-116) | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:45) | Roleplay |
+| [**Scene 117**](#scene-117) | Fortress Vigil - Subterranean Vaults | Flamerule 4, 78 DR (00:45) | Roleplay |
+| [**Scene 118**](#scene-118) | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (00:45) | Roleplay |
+| [**Scene 119**](#scene-119) | Fortress Vigil - Subterranean Vaults (Deep Fissure) | 6 4, 78 DR (01:15) | Roleplay |
+| [**Scene 120**](#scene-120) | Fortress Vigil - Subterranean Vaults | 6 4, 78 DR (01:20) | Roleplay |
+| [**Scene 121**](#scene-121) | Fortress Vigil - Subterranean Vaults | Month 6, 78 DR (Day 4) | Roleplay |
+| [**Scene 122**](#scene-122) | Fortress Vigil - Subterranean Vaults (Threshold of the Anchor-Stone) | 6 4, 78 DR (01:25) | Roleplay |
+| [**Scene 123**](#scene-123) | Fortress Vigil - Subterranean Vaults (Outer Chamber) | 6 4, 78 DR (01:35) | Roleplay |
+| [**Scene 124**](#scene-124) | Fortress Vigil - Subterranean Vaults (Outer Chamber) | 6 4, 78 DR (01:36) | Roleplay |
+| [**Scene 125**](#scene-125) | Fortress Vigil - Subterranean Vaults (Outer Chamber) | Mirtul 15, 1492 DR (14:45) | Roleplay |
+| [**Scene 126**](#scene-126) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | Month 6, 78 DR (Day 4) | Roleplay |
+| [**Scene 127**](#scene-127) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (01:45) | Roleplay |
+| [**Scene 128**](#scene-128) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (01:50) | Roleplay |
+| [**Scene 129**](#scene-129) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:05) | Roleplay |
+| [**Scene 130**](#scene-130) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:15) | Roleplay |
+| [**Scene 131**](#scene-131) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:20) | Roleplay |
+| [**Scene 132**](#scene-132) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:25) | Roleplay |
+| [**Scene 133**](#scene-133) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:35) | Roleplay |
+| [**Scene 134**](#scene-134) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | Mirtul 4, 78 DR (02:45) | Roleplay |
+| [**Scene 135**](#scene-135) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:45) | Roleplay |
+| [**Scene 136**](#scene-136) | Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold) | 6 4, 78 DR (02:46) | Roleplay |
+| [**Scene 137**](#scene-137) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
+| [**Scene 138**](#scene-138) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
+| [**Scene 139**](#scene-139) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
+| [**Scene 140**](#scene-140) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
+| [**Scene 141**](#scene-141) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | Flamerule 4, 78 DR (02:51) | Roleplay |
+| [**Scene 142**](#scene-142) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:51) | Roleplay |
+| [**Scene 143**](#scene-143) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | 6 4, 78 DR (02:52) | Roleplay |
+| [**Scene 144**](#scene-144) | Fortress Vigil - Subterranean Vaults | Month 6 Day 4, 78 Era of the Mortal Star (02:52) | Roleplay |
+| [**Scene 145**](#scene-145) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | Month 6, 78 New Peace (Day 4) | Roleplay |
+| [**Scene 146**](#scene-146) | Fortress Vigil - Subterranean Vaults (The Anchor-Stone) | Month 6, Year 78 (Day 4) | Roleplay |
+| [**Scene 147**](#scene-147) | Fortress Vigil - Flooded Cisterns (Below Vaults) | 0078-06-04, 02:55:00 | Roleplay |
+| [**Scene 148**](#scene-148) | Fortress Vigil - Flooded Cisterns (Below Vaults) | Month 6, Year 78 (Day 4) | Roleplay |
+| [**Scene 149**](#scene-149) | Fortress Vigil - Flooded Cisterns (Below Vaults) | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 150**](#scene-150) | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
+| [**Scene 151**](#scene-151) | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
+| [**Scene 152**](#scene-152) | Fortress Vigil - Flooded Cisterns (Below Vaults) | Mirtul 4, 78 DR (03:10) | Roleplay |
+| [**Scene 153**](#scene-153) | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
+| [**Scene 154**](#scene-154) | Fortress Vigil - Flooded Cisterns (Below Vaults) | 6 4, 78 DR (03:05) | Roleplay |
+| [**Scene 155**](#scene-155) | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:15) | Roleplay |
+| [**Scene 156**](#scene-156) | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:45) | Roleplay |
+| [**Scene 157**](#scene-157) | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:50) | Roleplay |
+| [**Scene 158**](#scene-158) | Fortress Vigil - Flooded Cisterns (Northern Spillway) | 6 4, 78 DR (03:55) | Roleplay |
+| [**Scene 159**](#scene-159) | Fortress Vigil - Subterranean Exit (The Iron Throat) | 6 4, 78 DR (04:30) | Roleplay |
+| [**Scene 160**](#scene-160) | Fortress Vigil - Prince's Solar | 6 4, 78 DR (05:15) | Roleplay |
+| [**Scene 161**](#scene-161) | Fortress Vigil - Prince's Solar | 6 4, 78 DR (05:45) | Roleplay |
+| [**Scene 162**](#scene-162) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (06:15) | Roleplay |
+| [**Scene 163**](#scene-163) | Fortress Vigil - Inner Courtyard | Kythorn Day 4, Year 78 (Dawn) | Roleplay |
+| [**Scene 164**](#scene-164) | Fortress Vigil - Inner Courtyard | 6 4, 78 DR (06:15) | Roleplay |
+| [**Scene 165**](#scene-165) | Fortress Vigil - Inner Courtyard | Kythorn 4, 78 DR (06:15) | Roleplay |
+| [**Scene 166**](#scene-166) | Fortress Vigil - Subterranean Vaults | Kythorn 4, 78 DR (06:15) | Roleplay |
+| [**Scene 167**](#scene-167) | Fortress Vigil - Subterranean Vaults (Northern Spillway) | Kythorn (Month 6) 4, 78 DR (06:15) | Roleplay |
+| [**Scene 168**](#scene-168) | Fortress Vigil - Northern Spillway (Subterranean) | Kythorn 4, 78 DR (06:20) | Roleplay |
+| [**Scene 169**](#scene-169) | Fortress Vigil - Northern Spillway | Month 6, 78 DR (Day 4) | Roleplay |
+| [**Scene 170**](#scene-170) | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:15) | Roleplay |
+| [**Scene 171**](#scene-171) | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:20) | Roleplay |
+| [**Scene 172**](#scene-172) | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:20) | Roleplay |
+| [**Scene 173**](#scene-173) | Fortress Vigil - Northern Spillway | Kythorn 4, 78 DR (06:20) | Roleplay |
+| [**Scene 174**](#scene-174) | Fortress Vigil - Northern Spillway (Egress) | Kythorn 4, 78 DR (06:20) | Roleplay |
+| [**Scene 175**](#scene-175) | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:23) | Roleplay |
+| [**Scene 176**](#scene-176) | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:23) | Roleplay |
+| [**Scene 177**](#scene-177) | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:23) | Roleplay |
+| [**Scene 178**](#scene-178) | Fortress Vigil - Valley (Exterior) | Kythorn 4, 78 DR (06:30) | Roleplay |
+| [**Scene 179**](#scene-179) | Valley Floor - Fortress Vigil Perimeter | Kythorn 4, 78 DR (06:40) | Roleplay |
+| [**Scene 180**](#scene-180) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 181**](#scene-181) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (06:40) | Roleplay |
+| [**Scene 182**](#scene-182) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 183**](#scene-183) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (06:30) | Roleplay |
+| [**Scene 184**](#scene-184) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 185**](#scene-185) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 186**](#scene-186) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 187**](#scene-187) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 188**](#scene-188) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 189**](#scene-189) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 190**](#scene-190) | Fortress Vigil - Outer Courtyard | Kythorn 4, 78 DR (07:45) | Roleplay |
+| [**Scene 191**](#scene-191) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:30) | Roleplay |
+| [**Scene 192**](#scene-192) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:45) | Roleplay |
+| [**Scene 193**](#scene-193) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:45) | Roleplay |
+| [**Scene 194**](#scene-194) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:30) | Roleplay |
+| [**Scene 195**](#scene-195) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (08:45) | Roleplay |
+| [**Scene 196**](#scene-196) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:15) | Roleplay |
+| [**Scene 197**](#scene-197) | Valley Floor - The Harvest Grounds | Kythorn 4, 78 DR (09:30) | Roleplay |
+| [**Scene 198**](#scene-198) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:15) | Roleplay |
+| [**Scene 199**](#scene-199) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:15) | Roleplay |
+| [**Scene 200**](#scene-200) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (10:20) | Roleplay |
+| [**Scene 201**](#scene-201) | Valley Floor - Command Post | Kythorn 4, 78 DR (11:45) | Roleplay |
+| [**Scene 202**](#scene-202) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (12:45) | Roleplay |
+| [**Scene 203**](#scene-203) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (12:50) | Roleplay |
+| [**Scene 204**](#scene-204) | High Pass Road | Kythorn 4, 78 DR (16:35) | Roleplay |
+| [**Scene 205**](#scene-205) | Valley Floor - Xylos's Fall | 6 4, 78 DR (13:05) | Roleplay |
+| [**Scene 206**](#scene-206) | High Pass Road (Returning to Fortress Vigil) | Kythorn 4, 78 DR (12:45) | Roleplay |
+| [**Scene 207**](#scene-207) | High Pass Road (En Route to Fortress Vigil) | Kythorn 4, 78 DR (14:15) | Roleplay |
+| [**Scene 208**](#scene-208) | High Pass Road (Approaching Fortress Vigil) | Kythorn 4, 78 DR (16:35) | Roleplay |
+| [**Scene 209**](#scene-209) | Valley Floor - Xylos's Fall | Kythorn 4, 78 DR (15:30) | Roleplay |
+| [**Scene 210**](#scene-210) | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (13:45) | Roleplay |
+| [**Scene 211**](#scene-211) | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (15:30) | Roleplay |
+| [**Scene 212**](#scene-212) | Fortress Vigil - Inner Bailey / Auxiliary Barracks | Kythorn 4, 78 DR (18:30) | Roleplay |
+| [**Scene 213**](#scene-213) | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (12:45) | Roleplay |
+| [**Scene 214**](#scene-214) | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (15:30) | Roleplay |
+| [**Scene 215**](#scene-215) | Fortress Vigil - Inner Bailey | Kythorn 4, 78 DR (18:45) | Roleplay |
+| [**Scene 216**](#scene-216) | Valley Floor - Sovereign's Spur | Kythorn 4, 78 DR (14:00) | Roleplay |
+| [**Scene 217**](#scene-217) | Fortress Vigil - Detention Level | Kythorn 4, 78 DR (18:50) | Roleplay |
+| [**Scene 218**](#scene-218) | Fortress Vigil - Detention Level | Kythorn 4, 78 DR (19:05) | Roleplay |
+| [**Scene 219**](#scene-219) | High Pass Road - Moving toward Fortress Vigil | Kythorn 4, 78 DR (16:30) | Roleplay |
+| [**Scene 220**](#scene-220) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
+| [**Scene 221**](#scene-221) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
+| [**Scene 222**](#scene-222) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
+| [**Scene 223**](#scene-223) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:15) | Roleplay |
+| [**Scene 224**](#scene-224) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:25) | Roleplay |
+| [**Scene 225**](#scene-225) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:25) | Roleplay |
+| [**Scene 226**](#scene-226) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:25) | Roleplay |
+| [**Scene 227**](#scene-227) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:35) | Roleplay |
+| [**Scene 228**](#scene-228) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:35) | Roleplay |
+| [**Scene 229**](#scene-229) | Fortress Vigil - Inner Sanctum Gates | Kythorn 4, 78 DR (19:40) | Roleplay |
+| [**Scene 230**](#scene-230) | Fortress Vigil - Inner Sanctum Gates | Flamerule 15, 78 DR (20:00) | Roleplay |
+| [**Scene 231**](#scene-231) | Fortress Vigil - Western Spillway Training Grounds | Kythorn 22, 78 DR (09:00) | Roleplay |
+| [**Scene 232**](#scene-232) | Fortress Vigil - Western Spillway Training Grounds | Flamerule 22, 78 DR (09:00) | Roleplay |
+| [**Scene 233**](#scene-233) | Fortress Vigil - Western Spillway Training Grounds | Flamerule 1, 78 DR (09:00) | Roleplay |
+| [**Scene 234**](#scene-234) | Fortress Vigil - Western Spillway Training Grounds | Flamerule 22, 78 DR (09:00) | Roleplay |
+| [**Scene 235**](#scene-235) | Aeterna - The Great Plaza | Flamerule 2, 78 DR (09:00) | Roleplay |
+| [**Scene 236**](#scene-236) | Aeterna - The Zenith Spire Presence Chamber | Flamerule 1, 78 DR (14:00) | Roleplay |
+| [**Scene 237**](#scene-237) | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:05) | Roleplay |
+| [**Scene 238**](#scene-238) | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:15) | Roleplay |
+| [**Scene 239**](#scene-239) | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:20) | Roleplay |
+| [**Scene 240**](#scene-240) | Aeterna - The Zenith Spire Presence Chamber | Flamerule 11, 78 DR (15:45) | Roleplay |
+| [**Scene 241**](#scene-241) | Aeterna - The Zenith Spire Presence Chamber | Flamerule 12, 78 DR (11:30) | Roleplay |
+| [**Scene 242**](#scene-242) | Aeterna - The Zenith Spire Presence Chamber | 7 29, 78 DR (14:45) | Roleplay |
+| [**Scene 243**](#scene-243) | Aeterna - Lord Regent's Private Sanctum | 7 29, 78 DR (15:15) | Roleplay |
+| [**Scene 244**](#scene-244) | Aeterna - Lord Regent's Private Sanctum | 7 29, 78 DR (15:25) | Roleplay |
+| [**Scene 245**](#scene-245) | Aeterna - Lord Regent's Private Sanctum | Month 7 Day 29, 78 DR (15:26) | Roleplay |
+| [**Scene 246**](#scene-246) | Aeterna - Lord Regent's Private Sanctum | 7 29, 78 DR (15:26) | Roleplay |
+| [**Scene 247**](#scene-247) | Aeterna - Lord Regent's Private Sanctum | Flamerule 6, 78 DR (11:30) | Roleplay |
+| [**Scene 248**](#scene-248) | Aeterna - Lord Regent's Private Sanctum | Flamerule 5, 78 DR (16:45) | Roleplay |
+| [**Scene 249**](#scene-249) | Aeterna - Zenith Spire / Great Plaza | 7 30, 78 DR (10:00) | Roleplay |
+| [**Scene 250**](#scene-250) | Aeterna - Zenith Spire (Hanging Gardens) | 7 30, 78 DR (11:30) | Roleplay |
+| [**Scene 251**](#scene-251) | Aeterna - Zenith Spire (Hanging Gardens) | Flamerule 10, 78 DR (14:00) | Roleplay |
+| [**Scene 252**](#scene-252) | Aeterna - Zenith Spire (Royal Guest Wing) | 7 30, 78 DR (21:00) | Roleplay |
+| [**Scene 253**](#scene-253) | Aeterna - Zenith Spire (Royal Guest Wing) | 7 30, 78 DR (23:30) | Roleplay |
+| [**Scene 254**](#scene-254) | Aeterna - Zenith Spire (Royal Guest Wing) | 7 30, 78 DR (23:45) | Roleplay |
+| [**Scene 255**](#scene-255) | Aeterna - Zenith Spire (Royal Guest Wing) | 7 31, 78 DR (02:30) | Roleplay |
+| [**Scene 256**](#scene-256) | Aeterna - Great Plaza (New Vanguard H.Q.) | Kythorn 5, 78 DR (08:30) | Roleplay |
+| [**Scene 257**](#scene-257) | Aeterna - Zenith Spire Laboratory | 7 31, 78 DR (10:30) | Roleplay |
+| [**Scene 258**](#scene-258) | Aeterna - Imperial Road (Syrn Valley Approach) | Flamerule 8, 78 DR (08:30) | Roleplay |
+| [**Scene 259**](#scene-259) | Aeterna - Great Plaza / Zenith Spire | Flamerule 10, 78 DR (05:00) | Roleplay |
+| [**Scene 260**](#scene-260) | Aeterna - Great Plaza | Flamerule 1, 78 DR (06:30) | Roleplay |
+| [**Scene 261**](#scene-261) | Aeterna - Zenith Spire (Departing) | Flamerule 1, 78 DR (06:00) | Roleplay |
+| [**Scene 262**](#scene-262) | Syrn Valley Approach - Secluded Canyon | Flamerule 10, 78 DR (04:30) | Roleplay |
+| [**Scene 263**](#scene-263) | Syrn Valley Approach - Secluded Canyon | Flamerule 1, 78 DR (04:30) | Roleplay |
+| [**Scene 264**](#scene-264) | Syrn Valley Approach - Secluded Canyon | Kythorn 31, 78 DR (04:30) | Roleplay |
+| [**Scene 265**](#scene-265) | Syrn Valley Approach - Secluded Canyon | Kythorn 31, 78 DR (04:35) | Roleplay |
+| [**Scene 266**](#scene-266) | Syrn Valley Approach - Secluded Canyon | Kythorn 31, 78 DR (04:35) | Roleplay |
+| [**Scene 267**](#scene-267) | Syrn Valley Approach - Vanguard Command Column | Kythorn 31, 78 DR (04:45) | Roleplay |
+| [**Scene 268**](#scene-268) | Syrn Valley Approach - Border Ethereal | Kythorn 31, 78 DR (05:00) | Roleplay |
+| [**Scene 269**](#scene-269) | Syrn Valley Approach - Border Ethereal | Flamerule 1, 78 DR (05:15) | Roleplay |
+| [**Scene 270**](#scene-270) | Syrn Valley Approach - Border Ethereal | Flamerule 31, 78 DR (05:30) | Roleplay |
+| [**Scene 271**](#scene-271) | Syrn Valley Approach - Border Ethereal | 7 31, 78 DR (05:45) | Roleplay |
+| [**Scene 272**](#scene-272) | Syrn Valley Approach - Border Ethereal | Flamerule 15, 78 DR (05:55) | Roleplay |
+| [**Scene 273**](#scene-273) | Syrn Valley Approach - Border Ethereal | Flamerule 31, 78 DR (05:58) | Roleplay |
+| [**Scene 274**](#scene-274) | Syrn Valley Approach - Border Ethereal | Flamerule 8, 78 DR (05:55) | Roleplay |
+| [**Scene 275**](#scene-275) | Syrn Valley Approach - Border Ethereal | Flamerule 31, 78 DR (05:56) | Roleplay |
+| [**Scene 276**](#scene-276) | Zenith Spire - Private Sanctum | Flamerule 2, 78 DR (05:45) | Roleplay |
+| [**Scene 277**](#scene-277) | Syrn Valley - Eastern Spurs (Material Plane) | Kythorn Day 4, 78 DR (06:30) | Roleplay |
+| [**Scene 278**](#scene-278) | Syrn Valley - Eastern Spurs | Flamerule 8, 78 DR (Dawn) | Roleplay |
+| [**Scene 279**](#scene-279) | Syrn Valley - Hidden Canyon | Kythorn Day 31, 78 DR (05:55) | Roleplay |
+| [**Scene 280**](#scene-280) | Syrn Valley - Eastern Spurs | Flamerule 1, 78 DR (06:30) | Roleplay |
+| [**Scene 281**](#scene-281) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (06:10) | Roleplay |
+| [**Scene 282**](#scene-282) | Syrn Valley - Eastern Spurs | Flamerule 31, 78 DR (06:10) | Roleplay |
+| [**Scene 283**](#scene-283) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (06:15) | Roleplay |
+| [**Scene 284**](#scene-284) | Syrn Valley - Eastern Spurs | Flamerule 8, 78 DR (06:30) | Roleplay |
+| [**Scene 285**](#scene-285) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (06:20) | Roleplay |
+| [**Scene 286**](#scene-286) | Syrn Valley - Eastern Spurs (Ambush Site) | Flamerule 10, 78 DR (07:45) | Roleplay |
+| [**Scene 287**](#scene-287) | Syrn Valley - Eastern Spurs | Flamerule 15, 78 DR (08:30) | Roleplay |
+| [**Scene 288**](#scene-288) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (08:35) | Roleplay |
+| [**Scene 289**](#scene-289) | Syrn Valley - Eastern Spurs | Flamerule 1, 78 DR (09:15) | Roleplay |
+| [**Scene 290**](#scene-290) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:15) | Roleplay |
+| [**Scene 291**](#scene-291) | Syrn Valley - Eastern Spurs | Flamerule 31, 78 DR (09:15) | Roleplay |
+| [**Scene 292**](#scene-292) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:20) | Roleplay |
+| [**Scene 293**](#scene-293) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:20) | Roleplay |
+| [**Scene 294**](#scene-294) | Syrn Valley - Eastern Spurs | Month 7, 78 DR (Day 31) | Roleplay |
+| [**Scene 295**](#scene-295) | Syrn Valley - Eastern Spurs | 7 31, 78 DR (09:20) | Roleplay |
+| [**Scene 296**](#scene-296) | Syrn Valley - Eastern Spurs | Flamerule 31, 78 DR (09:20) | Roleplay |
+| [**Scene 297**](#scene-297) | Syrn Valley - Southern Ridge | Flamerule 10, 78 DR (09:30) | Roleplay |
+| [**Scene 298**](#scene-298) | Syrn Valley - Southern Ridge | Flamerule 12, 78 DR (09:45) | Roleplay |
+| [**Scene 299**](#scene-299) | Syrn Valley - Southern Ridge | 7 31, 78 DR (10:15) | Roleplay |
+| [**Scene 300**](#scene-300) | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (08:30) | Roleplay |
+| [**Scene 301**](#scene-301) | Syrn Valley - Southern Ridge | Kythorn 4, 78 DR (11:35) | Roleplay |
+| [**Scene 302**](#scene-302) | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (12:45) | Roleplay |
+| [**Scene 303**](#scene-303) | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (14:00) | Roleplay |
+| [**Scene 304**](#scene-304) | Syrn Valley - Southern Ridge | Flamerule 1, 78 DR (07:45) | Roleplay |
+| [**Scene 305**](#scene-305) | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (07:45) | Roleplay |
+| [**Scene 306**](#scene-306) | Syrn Valley - Southern Ridge | Flamerule 8, 78 DR (07:45) | Roleplay |
+| [**Scene 307**](#scene-307) | Syrn Valley - Eastern Spurs (Movement) | Flamerule 8, 78 DR (11:30) | Roleplay |
+| [**Scene 308**](#scene-308) | Syrn Valley - Eastern Spurs (Transit) | Kythorn 4, 78 DR (08:50) | Roleplay |
+| [**Scene 309**](#scene-309) | Fortress Vigil - Outer Perimeter | Flamerule 8, 78 DR (10:45) | Roleplay |
+| [**Scene 310**](#scene-310) | Fortress Vigil - Outer Perimeter | Month 7 Day 30, 78 DR (11:30) | Roleplay |
+| [**Scene 311**](#scene-311) | Fortress Vigil - Outer Perimeter | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 312**](#scene-312) | Zenith Spire - Command Ward | Flamerule 8, 78 DR (08:35) | Roleplay |
+| [**Scene 313**](#scene-313) | Fortress Vigil - Subterranean Vaults (Command Ward) | Kythorn 4, 78 DR (06:15) | Roleplay |
+| [**Scene 314**](#scene-314) | Fortress Vigil - Subterranean Vaults | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 315**](#scene-315) | Fortress Vigil - Subterranean Vaults | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 316**](#scene-316) | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 317**](#scene-317) | Fortress Vigil - Command Ward | Flamerule 30, 78 DR (11:35) | Roleplay |
+| [**Scene 318**](#scene-318) | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 319**](#scene-319) | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 320**](#scene-320) | Fortress Vigil - Command Ward | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 321**](#scene-321) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (11:36) | Roleplay |
+| [**Scene 322**](#scene-322) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:16) | Roleplay |
+| [**Scene 323**](#scene-323) | Fortress Vigil - Command Ward | 7 30, 78 DR (11:45) | Roleplay |
+| [**Scene 324**](#scene-324) | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (11:50) | Roleplay |
+| [**Scene 325**](#scene-325) | Fortress Vigil - Command Ward | Kythorn 30, 78 DR (11:45) | Roleplay |
+| [**Scene 326**](#scene-326) | Fortress Vigil - Command Ward | Month 7, 78 DR (Day 30) | Roleplay |
+| [**Scene 327**](#scene-327) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:17) | Roleplay |
+| [**Scene 328**](#scene-328) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:45) | Roleplay |
+| [**Scene 329**](#scene-329) | Fortress Vigil - Command Ward | Flamerule 10, 78 DR (06:30) | Roleplay |
+| [**Scene 330**](#scene-330) | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (14:45) | Roleplay |
+| [**Scene 331**](#scene-331) | Aeterna - Zenith Spire - Guest Wing | Kythorn 4, 78 DR (08:30) | Roleplay |
+| [**Scene 332**](#scene-332) | Fortress Vigil - Command Ward (Interrogation) | Kythorn 4, 78 DR (07:45) | Roleplay |
+| [**Scene 333**](#scene-333) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:25) | Roleplay |
+| [**Scene 334**](#scene-334) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:30) | Roleplay |
+| [**Scene 335**](#scene-335) | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (04:45) | Roleplay |
+| [**Scene 336**](#scene-336) | Fortress Vigil - Command Ward | Flamerule 8, 78 DR (08:45) | Roleplay |
+| [**Scene 337**](#scene-337) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (11:30) | Roleplay |
+| [**Scene 338**](#scene-338) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (07:15) | Roleplay |
+| [**Scene 339**](#scene-339) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (11:30) | Roleplay |
+| [**Scene 340**](#scene-340) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (06:45) | Roleplay |
+| [**Scene 341**](#scene-341) | Zenith Spire - Command Ward | Kythorn 4, 78 DR (11:30) | Roleplay |
+| [**Scene 342**](#scene-342) | Fortress Vigil - Command Ward | Month 7, 78 DR (Day 30) | Roleplay |
+| [**Scene 343**](#scene-343) | Fortress Vigil - Command Ward | Kythorn 4, 78 DR (08:55) | Roleplay |
+| [**Scene 344**](#scene-344) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (08:55) | Roleplay |
+| [**Scene 345**](#scene-345) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (09:15) | Roleplay |
+| [**Scene 346**](#scene-346) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (09:15) | Roleplay |
+| [**Scene 347**](#scene-347) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (11:35) | Roleplay |
+| [**Scene 348**](#scene-348) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (11:45) | Roleplay |
+| [**Scene 349**](#scene-349) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (12:05) | Roleplay |
+| [**Scene 350**](#scene-350) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (12:05) | Roleplay |
+| [**Scene 351**](#scene-351) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (11:35) | Roleplay |
+| [**Scene 352**](#scene-352) | Zenith Spire - Raziel's Private Sanctum | Kythorn 5, 78 DR (02:30) | Roleplay |
+| [**Scene 353**](#scene-353) | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (11:35) | Roleplay |
+| [**Scene 354**](#scene-354) | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (11:45) | Roleplay |
+| [**Scene 355**](#scene-355) | Zenith Spire - Raziel's Private Sanctum | Kythorn 4, 78 DR (08:45) | Roleplay |
+| [**Scene 356**](#scene-356) | Zenith Spire - Raziel's Private Sanctum | Flamerule 5, 78 DR (08:30) | Roleplay |
+| [**Scene 357**](#scene-357) | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (12:05) | Roleplay |
+| [**Scene 358**](#scene-358) | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (12:10) | Roleplay |
+| [**Scene 359**](#scene-359) | Zenith Spire - Raziel's Private Sanctum | 7 30, 78 DR (12:10) | Roleplay |
+| [**Scene 360**](#scene-360) | Zenith Spire - Raziel's Private Sanctum | Flamerule 30, 78 DR (13:00) | Roleplay |
+| [**Scene 361**](#scene-361) | Zenith Spire - Raziel's Private Sanctum | Flamerule 1, 78 DR (05:45) | Roleplay |
+| [**Scene 362**](#scene-362) | Obsidian Spire - Chronos-Apsis Threshold | Flamerule 1, 78 DR (10:45) | Roleplay |
+| [**Scene 363**](#scene-363) | Obsidian Spire - Inner Apsis | Kythorn 4, 78 DR (11:35) | Roleplay |
+| [**Scene 364**](#scene-364) | Obsidian Spire - Inner Apsis | 7 31, 78 DR (11:35) | Roleplay |
+| [**Scene 365**](#scene-365) | Obsidian Spire - Inner Apsis | 7 31, 78 DR (11:35) | Roleplay |
+| [**Scene 366**](#scene-366) | Obsidian Spire - Chronos-Apsis | Month 7 Day 31, 78 DR (11:45) | Roleplay |
+| [**Scene 367**](#scene-367) | Obsidian Spire - Inner Apsis | Flamerule 15, 78 DR (14:45) | Roleplay |
+| [**Scene 368**](#scene-368) | Obsidian Spire - Inner Apsis | Kythorn 4, 78 DR (06:30) | Roleplay |
+| [**Scene 369**](#scene-369) | Obsidian Spire - Inner Apsis | 7 31, 78 DR (11:35) | Roleplay |
+| [**Scene 370**](#scene-370) | Obsidian Spire - Inner Apsis | Kythorn 4, 78 DR (06:45) | Roleplay |
+| [**Scene 371**](#scene-371) | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:30) | Roleplay |
+| [**Scene 372**](#scene-372) | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:35) | Roleplay |
+| [**Scene 373**](#scene-373) | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:35) | Roleplay |
+| [**Scene 374**](#scene-374) | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (06:50) | Roleplay |
+| [**Scene 375**](#scene-375) | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:50) | Roleplay |
+| [**Scene 376**](#scene-376) | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (11:55) | Roleplay |
+| [**Scene 377**](#scene-377) | Obsidian Spire - Chronos-Apsis | Kythorn 4, 78 DR (12:15) | Roleplay |
+| [**Scene 378**](#scene-378) | Obsidian Spire - Chronos-Apsis | Flamerule 15, 78 DR (12:45) | Roleplay |
+| [**Scene 379**](#scene-379) | Obsidian Spire - Chronos-Apsis (IMPLODING) | Kythorn 4, 78 DR (07:45) | Roleplay |
+| [**Scene 380**](#scene-380) | Obsidian Spire - The Singularity's Core | Kythorn 4, 78 DR (12:45) | Roleplay |
+| [**Scene 381**](#scene-381) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (12:45) | Roleplay |
+| [**Scene 382**](#scene-382) | Syrn Valley - The Singularity's Crater | Flamerule 12, 78 DR (14:00) | Roleplay |
+| [**Scene 383**](#scene-383) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
+| [**Scene 384**](#scene-384) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
+| [**Scene 385**](#scene-385) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
+| [**Scene 386**](#scene-386) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:15) | Roleplay |
+| [**Scene 387**](#scene-387) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:30) | Roleplay |
+| [**Scene 388**](#scene-388) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:30) | Roleplay |
+| [**Scene 389**](#scene-389) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:35) | Roleplay |
+| [**Scene 390**](#scene-390) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:35) | Roleplay |
+| [**Scene 391**](#scene-391) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:45) | Roleplay |
+| [**Scene 392**](#scene-392) | Syrn Valley - The Singularity's Crater | Kythorn 4, 78 DR (14:45) | Roleplay |
+| [**Scene 393**](#scene-393) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (14:55) | Roleplay |
+| [**Scene 394**](#scene-394) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (14:56) | Roleplay |
+| [**Scene 395**](#scene-395) | Aeterna - Zenith Gardens (The Anchor Point) | Kythorn 4, 78 DR (15:05) | Roleplay |
+| [**Scene 396**](#scene-396) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:05) | Roleplay |
+| [**Scene 397**](#scene-397) | Aeterna - Zenith Gardens (The Source Node) | Kythorn 4, 78 DR (15:30) | Roleplay |
+| [**Scene 398**](#scene-398) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:05) | Roleplay |
+| [**Scene 399**](#scene-399) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:10) | Roleplay |
+| [**Scene 400**](#scene-400) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:10) | Roleplay |
+| [**Scene 401**](#scene-401) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:15) | Roleplay |
+| [**Scene 402**](#scene-402) | Aeterna - Zenith Gardens | Flamerule 30, 78 DR (11:30) | Roleplay |
+| [**Scene 403**](#scene-403) | Aeterna - Zenith Gardens | Kythorn 30, 78 DR (11:30) | Roleplay |
+| [**Scene 404**](#scene-404) | Aeterna - Zenith Gardens | Day 4, 78 Kythorn (Afternoon) | Roleplay |
+| [**Scene 405**](#scene-405) | Aeterna - Zenith Gardens | Flamerule 10, Year 78 (Midday) | Roleplay |
+| [**Scene 406**](#scene-406) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:30) | Roleplay |
+| [**Scene 407**](#scene-407) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:45) | Roleplay |
+| [**Scene 408**](#scene-408) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (15:50) | Roleplay |
+| [**Scene 409**](#scene-409) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:00) | Roleplay |
+| [**Scene 410**](#scene-410) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:00) | Roleplay |
+| [**Scene 411**](#scene-411) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:00) | Roleplay |
+| [**Scene 412**](#scene-412) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
+| [**Scene 413**](#scene-413) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
+| [**Scene 414**](#scene-414) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
+| [**Scene 415**](#scene-415) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
+| [**Scene 416**](#scene-416) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
+| [**Scene 417**](#scene-417) | Aeterna - Zenith Gardens | Kythorn 4, 78 DR (16:15) | Roleplay |
+| [**Scene 418**](#scene-418) | Aeterna - Zenith Gardens | Kythorn 30, 78 DR (11:30) | Roleplay |
+| [**Scene 419**](#scene-419) | Aeterna - Zenith Gardens | Kythorn 4, 11 NP (Morning) | Roleplay |
+| [**Scene 420**](#scene-420) | Aeterna - Zenith Gardens | Kythorn 30, 78 DR (11:30) | Roleplay |
+| [**Scene 421**](#scene-421) | Aeterna - Zenith Gardens | Kythorn 4, Year 78 (Midday) | Roleplay |
+| [**Scene 422**](#scene-422) | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (12:45) | Roleplay |
+| [**Scene 423**](#scene-423) | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (12:50) | Roleplay |
+| [**Scene 424**](#scene-424) | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:05) | Roleplay |
+| [**Scene 425**](#scene-425) | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:10) | Roleplay |
+| [**Scene 426**](#scene-426) | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:15) | Roleplay |
+| [**Scene 427**](#scene-427) | Eye of the Sundering - The Sunless Throne | Kythorn 4, Year 78 (13:10) | Roleplay |
+| [**Scene 428**](#scene-428) | Eye of the Sundering - The Sunless Throne | Kythorn 4, 78 DR (13:15) | Roleplay |
+| [**Scene 429**](#scene-429) | Aeterna - The Zenith Plaza | Kythorn 5, Year 1 of the New Era (12:00) | Roleplay |
+| [**Scene 430**](#scene-430) | Aeterna - The Zenith Plaza | Kythorn 5, 1 DR (14:00) | Roleplay |
+| [**Scene 431**](#scene-431) | Aeterna - The Zenith Gardens | Kythorn 5, 1 DR (14:15) | Roleplay |
+| [**Scene 432**](#scene-432) | The Southern Highroad - Outskirts of Aeterna | Kythorn 5, 11 NP (10:00) | Roleplay |
+| [**Scene 433**](#scene-433) | Syrn Valley | Kythorn 5, 11 DR (14:00) | Roleplay |
+| [**Scene 434**](#scene-434) | Oakhaven | Kythorn 5, 11 DR (14:45) | Roleplay |
+| [**Scene 435**](#scene-435) | Oakhaven | Kythorn 5, 11 DR (15:00) | Roleplay |
+| [**Scene 436**](#scene-436) | Oakhaven | Kythorn 5, 11 DR (15:15) | Roleplay |
+| [**Scene 437**](#scene-437) | Oakhaven | Kythorn 5, 11 DR (15:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Dragon's Tooth Foothills - Imperial Border** &nbsp;|&nbsp; ⏳ **78 DR (Alexiel Era), Month of Eleint** &nbsp;|&nbsp; 🛡️ **Alexiel | Lvl 6 Gestalt | HP: 58/58 | XP: 14000/23000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **EP: 40/40, Hit Dice: 6/6, Nullification Field: 1/1, Second Wind: 1/1**
@@ -992,8 +1008,11 @@ Welcome, Commander. We must finalize your mechanical essence before the story be
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 3: [CustomClass] - Propose a custom class or mechanical framework for Alexiel&#x27;s unique &#x27;Null&#x27; and &#x27;Prodigy&#x27; abilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Character Creation Hub** &nbsp;|&nbsp; ⏳ **Year 78, Month of Mirtul** &nbsp;|&nbsp; 🛡️ **Finalizing 'The Mortal Star' Framework** &nbsp;|&nbsp; ✨ **EP: 40/40 | HD: 6d10 | Nullification Field: 1/Short Rest**
@@ -1023,8 +1042,11 @@ This framework uses a **Gestalt-style progression**, effectively merging the mar
 God Mode:
 lets just use standard D&D 5e and not EP etc. Lets make sure i get full benefits of an eldritch knight fighter and aberrant mind sorc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Dragon's Tooth Mountains (Border)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt | HP: 58/58 | XP: 14000/23000 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 6/6, SP: 6/6, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2**
@@ -1034,8 +1056,11 @@ The user requested a transition to standard D&D 5e mechanics, specifically Eldri
 God Mode:
 auto pick my spells but make sure i have greater invis, haste, some cc spells. actually make me a battlemaster fighter and not EK
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Dragon's Tooth Mountains (Border)** &nbsp;|&nbsp; ⏳ **Kythorn 2, Year 11 (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Aberrant Mind | HP: 58/58 | XP: 14000/23000 | Gold: 150gp**
@@ -1045,8 +1070,11 @@ The user is utilizing GOD MODE to overhaul their mechanical build. I have succes
 God Mode:
 focus on cha,dex,cons. give me 16,16,14. and spreado ut the rest. lets make cha my primary attack/dmg roll attr too for any weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Dragon's Tooth Mountains (Border)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 New Peace (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Aberrant Mind | HP: 52/52 | XP: 14000/23000 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 6/6, SP: 6/6, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2**
@@ -1056,8 +1084,11 @@ The user is in GOD MODE adjusting their character build. I have reallocated the 
 God Mode:
 give me elite equipment for level 6 since i am lucifers daughter, adjust campaign challenge accordingly since i am not level 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Dragon's Tooth Mountains (Border)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 New Peace (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, SP: 7/7, Slots: L1 4, L2 3, L3 3, L4 2 | Elite Gear Active**
@@ -1067,8 +1098,11 @@ The user is in GOD MODE, exercising their administrative rights as 'Lucifer's Da
 God Mode:
 Return to Story - Exit GOD MODE and begin the narrative at Level 6.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Dragon's Tooth Mountains (Imperial Border)** &nbsp;|&nbsp; ⏳ **Kythorn 2, Year 78 (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Aberrant Mind | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, SP: 7/7, Superiority: 4/4**
@@ -1084,8 +1118,11 @@ They haven't seen your 'Unseeing Eyes' yet, nor the longsword 'Silence' at your 
 God Mode:
 wait lets narrate my escape. start me when i desert and then do the cave fight
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (04:00 (Pre-Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1113,8 +1150,11 @@ Silence returns, save for the waterfall. You look at your hands. You don't feel 
 God Mode:
 no let me decide how to do the combat in the cave
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, SP: 7/7, Superiority: 4/4**
@@ -1124,8 +1164,11 @@ The user has requested to decide the combat resolution themselves in GOD MODE. I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume standard narrative*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Aberrant Mind | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, SP: 7/7, Superiority: 4/4**
@@ -1141,8 +1184,11 @@ You feel the familiar hum of the 'Joyful Predator' rising in your blood, cold an
 > 👤 **Player:**
 > *"use ranged weapon and lure them into the cave, and then try to get them all with hypnotic pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1156,8 +1202,11 @@ The trackers freeze instantly, their bows going limp. One of the Shadow Stalkers
 > 👤 **Player:**
 > *"they should be very intimidated because i used magic as a null. lets incorporate shock/intimidation factor to debuff enemies when i surprise them with magic. Then tk shove gorok, and kill the active stalker"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/2, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1171,8 +1220,11 @@ With the Warlord momentarily sidelined, you pivot toward the active Shadow Stalk
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Gorok - Close the distance while he&#x27;s prone and end the threat once and for all*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1190,8 +1242,11 @@ You stand over the remains, your chest barely rising or falling. The mesmerized 
 > 👤 **Player:**
 > *"eliminate all but one, then restrain the one and interrogate and torture as needed. also my alignment is neutral evil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1207,8 +1262,11 @@ You produce a length of hempen rope from your pack, binding his wrists with a br
 > [!NOTE] ⚙️ **Player Choice:**
 > *Break the Scout - Use physical pain and psychic whispers to force the truth out immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (04:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1224,8 +1282,11 @@ He sags against the ropes, the truth spilling out in a desperate torrent to make
 God Mode:
 make joyful predator more subtle, stop repeating it in narrative
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Waterfall Cave, Dragon's Tooth Foothills** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (04:25 (Pre-Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Aberrant Mind | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1235,8 +1296,11 @@ The user is in GOD MODE to adjust the narrative tone of the 'Joyful Predator' pe
 > 👤 **Player:**
 > *"return to story, what if i kill infiltration team and present their heads to the imperium as a peace gift?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/1, L4 2/2, SP: 7/7, Superiority: 3/4**
@@ -1250,8 +1314,11 @@ You slide into position above them, your Shadow-Bound Plate absorbing the mornin
 > 👤 **Player:**
 > *"use greater invis, attack with subtle elim magic, trigger surprise round, keep going until invis breaks then let me decide whatot do next if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 1/1, L4: 1/2 | SP: 7/7 | Superiority: 3/4 | HD: 6/6**
@@ -1267,8 +1334,11 @@ The 'pilgrims' below are distracted by the lead-wrapped Siphon, their voices low
 God Mode:
 add a new mechanic. if someone survives and sees me using magic then my secret starts to weaken. eventually i lose the ability to surprise people with magic and starfall gambit becomes less viable (in the future)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Aberrant Mind | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1284,8 +1354,11 @@ However, as you pivot toward the fourth man, your heel catches on a loose piece 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Wounded - Execute the wounded infiltrator and the one crying out to stop the noise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (08:52)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1297,8 +1370,11 @@ Without a pause in your stride, you turn your focus to the wounded man scramblin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Interrogation - Use your invisibility to whisper into his mind, breaking his will before he ever sees your face.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (08:52)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1318,8 +1394,11 @@ He breaks. The words tumble out in a frantic, desperate rush, his loyalty to Xyl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Witness - Leave no one alive to tell the tale of the &#x27;Invisible Ghost&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1331,8 +1410,11 @@ Without a pause in your stride, you turn your focus to the wounded man scramblin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Siphon - Use your secret magic and intellect to better understand the device&#x27;s trigger mechanism before moving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Imperial High Pass Road - Gully** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1348,8 +1430,11 @@ You understand it now. You know how to keep it dormant, and more importantly, yo
 > 👤 **Player:**
 > *"collect trophies, conceal, think if i can keep this siphon device as proof but turn it into a weapon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Imperial High Pass Road - Hidden Gully** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Aberrant Mind | HP: 52/52 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1365,8 +1450,11 @@ However, the modification is unstable. To keep it as proof, it must remain dorma
 > 👤 **Player:**
 > *"Think. what if i double backand kill some officers or host leaders first? DM note: also make sure you gave me exp for all those kills"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Battlemaster/Sorcerer | HP: 52/52 | XP: 16800/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1378,8 +1466,11 @@ However, the Imperial Road is no longer empty. In the distance, the sunlight gli
 God Mode:
 make sure you awarded my exp, loot, resources from t hose kills. explain what i got
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Day 3, 78 Kythorn (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt (Battlemaster/Aberrant) | HP: 52/52 | XP: 24700/34000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1389,8 +1480,11 @@ The user is in GOD MODE to verify and apply rewards from the two major combat en
 God Mode:
 make sure i get gear and loot too, i should always get some money from everyone
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (Imperial Year 78) (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 52/52 | XP: 31,350/34,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1400,8 +1494,11 @@ The player is in GOD MODE requesting a loot and XP audit for the previous two ma
 God Mode:
 wait did you give me exp twice or once? make sure its only once
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 52/52 | XP: 31,350/34,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 0/1, SP: 7/7, Man: 3/3**
@@ -1411,8 +1508,11 @@ The user is in GOD MODE verifying XP and loot. I've confirmed that the 7,900 XP 
 > 👤 **Player:**
 > *"process my level up and let me pick stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt (Fighter/Sorcerer) | HP: 52/52 | XP: 31,350/34,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/1, L4 1/1, SP: 7, Man: 3/3**
@@ -1424,8 +1524,11 @@ You have reached Level 8. As a Gestalt of Battlemaster and Aberrant Mind, this i
 God Mode:
 no i am level 7 right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt (Battlemaster/Aberrant Mind) | HP: 60/60 | XP: 31,350/34,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 1/1, L4 2/2, SP: 8, Man: 3/3**
@@ -1435,8 +1538,11 @@ The user corrected their level status in GOD MODE. State check confirms 31,350 X
 God Mode:
 process trnasition from level 6 to 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31,350/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Man: 4/4**
@@ -1446,8 +1552,11 @@ The player is transitioning to level 7. I need to present the choices for their 
 > 👤 **Player:**
 > *"riposte, dimension door, then deep think about doubling back and killing more officers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1, SP: 7/7, Man: 3/4**
@@ -1469,8 +1578,11 @@ However, the Imperial Road is no longer empty. In the distance, the sunlight gli
 
 The player is co
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Imperial High Pass Road (Vantage Point)** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31,350/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1, SP: 7/7, Man: 3/4**
@@ -1480,8 +1592,11 @@ The player is at a critical juncture. Doubling back to hunt Host officers offers
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Think: Hunt Host Officers - Analyze the tactical viability of doubling back to eliminate command elements*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Imperial High Pass Road (Ridge Vantage)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4 (Riposte added)**
@@ -1493,8 +1608,11 @@ You pause, the weight of the five infiltrator heads in your leaded-silk bundle a
 God Mode:
 when i say think about pros/cons dont ignore it. estimate success chances based on alexiel's current knowledge and int/wisdom. also boost her int by +2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 New Peace (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Aberrant Mind | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1, SP: 7/7, Maneuvers: 4/4**
@@ -1504,8 +1622,11 @@ Alexiel is weighing the risk of doubling back to hunt Host officers against the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story: Exit administrative mode and continue the narrative. estimate success chances*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1515,8 +1636,11 @@ You remain perfectly still atop the ridge, your Shadow-Bound Plate absorbing the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press to Fortress Vigil - Prioritize the safety of the &#x27;Null&#x27; mask and deliver the current trophies. Estimated Success: 95%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31,350/48,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1528,8 +1652,11 @@ You reach into the deep well of your strategic mind—now sharpened and expanded
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press to Fortress Vigil - Descend to meet the Imperial Century. Prioritize the safety of the &#x27;Null&#x27; mask and deliver the trophies. (Success: 95%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Imperial High Pass Road - Approach to Fortress Vigil** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Aberrant Mind | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1547,8 +1674,11 @@ You reach slowly for the bundle, the copper tang of the trophies beginning to bl
 God Mode:
 make sure if we didnt already to note that alexiel is an extremely attractive woman, but understated when wearing battle gear. when she utilizes her beauty she has a +2 persusasion bonus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Day 3, 78 Kythorn (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Fighter/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1558,8 +1688,11 @@ The user is in GOD MODE to refine character details. I have added the 'Alluring 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the meeting with the Prefect*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1577,8 +1710,11 @@ He extends a gauntleted hand for your blade, his eyes searching yours for any si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate to keep your weapon - Argue that the road is dangerous and a warrior should not be disarmed while the Siphon threat is active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Aberrant Mind | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1596,8 +1732,11 @@ The Prefect's hand tightens on his gladius for a moment, his tactical mind clear
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor the Siphon - Use your psionic sensitivity to ensure the device remains dormant during the march.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Imperial High Pass Road (En Route to Fortress Vigil)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1611,8 +1750,11 @@ The Prefect glances back at you, his eyes narrowing as he catches the slight ten
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe the Prefect - Use subtle telepathy to gauge the Prefect&#x27;s true intentions and what &#x27;guest&#x27; status really means at the Vigil.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **High Pass Road (Marching)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1630,8 +1772,11 @@ More interestingly, you catch a flicker of genuine anxiety when his gaze crosses
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Mask - Utilize your Alluring Presence to build a more personal rapport with the Prefect, turning him into a potential ally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1649,8 +1794,11 @@ The Prefect’s grip on his reins loosens almost imperceptibly. He doesn't look 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solidify the Bond - Engage Valerius in tactical discussion to prove your value as a commander.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp**
@@ -1666,8 +1814,11 @@ Valerius looks down at you, the professional distance in his gaze fracturing fur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Triarii - Analyze the soldiers around you to identify any who might be susceptible to recruitment or subversion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1681,8 +1832,11 @@ Further back, you notice a veteran Signifer whose eyes are hollowed by more than
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Engage Kaelen - Offer a soft, encouraging word to the young Decanus to deepen his awe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1700,8 +1854,11 @@ Valerius watches from the head of the column, his expression unreadable, but you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Resentful Signifer - Shift focus to the veteran who resents the Imperium and Valerius.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1715,8 +1872,11 @@ He represents the silent, bitter foundation of the Imperium—the men who bleed 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Converse with Signifer - Approach him with the &#x27;Broken Dove&#x27; mask, relating to the weight of the road and the cost of duty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Battlemaster/Aberrant Mind | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1734,8 +1894,11 @@ The Signifer’s eyes shift. For the first time, he looks away from Valerius's b
 God Mode:
 respect, make my hybrid sorceror/assassin rogue, except i have extra attack from level 5. summarize the changes.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Battlemaster 7 / Sorcerer 7 / Rogue 1) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Maneuvers: 4/4**
@@ -1745,8 +1908,11 @@ The user is in GOD MODE to perform a character respec. They requested a Hybrid S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Grievances - Ask him specifically what duty cost him to deepen the bond of shared resentment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Assassin/Sorcerer) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, SP: 7/7, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -1762,8 +1928,11 @@ You feel the weight of his resentment—a raw, fertile power that mirrors your o
 > 👤 **Player:**
 > *"ask him why i look like a choice. explain i defected because the host was killing children, despite being lucifer's daughter and a princess of the the host"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Imperial High Pass Road (Century Column)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, SP: 7/7, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -1777,8 +1946,11 @@ You see the man's knuckles whiten even further on the standard's staff. [DICE: P
 God Mode:
 No he said I looke like a choice, not that i had a choice
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 New Peace (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Assassin/Sorcerer) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1792,8 +1964,11 @@ He shifts the sun-standard, the golden silk snapping in the high mountain wind. 
 God Mode:
 Solidify Bastion - Give him a concrete reason to trust you, perhaps by sharing a small, non-magical truth about your father.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Imperial High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1809,8 +1984,11 @@ The Signifer's stride falters for a fraction of a second. He looks at you, and f
 God Mode:
 remembner alexiel is a woman so a daughter not a son
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Imperial High Pass Road (Approaching Fortress Vigil)** &nbsp;|&nbsp; ⏳ **Month of Kythorn, Year 78 (Day 3)** &nbsp;|&nbsp; 🛡️ **Alexiel Arcanus | Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31,350/48,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1820,8 +1998,11 @@ The user has provided a critical narrative correction. In the world of Assiah, A
 God Mode:
 Confirm Gender - Formally update internal records to reflect Alexiel as Lucifer&#x27;s daughter.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Imperial High Pass Road (Approaching Fortress Vigil)** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (13:55 (Midday))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Aberrant Mind | HP: 69/69 | XP: 31,350/48,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1831,8 +2012,11 @@ The user has clarified the biological gender of Alexiel as female (daughter of L
 God Mode:
 Return to Story - Resume the march to Fortress Vigil with corrected continuity.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Imperial High Pass Road (Approaching Fortress Vigil)** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (13:55 (Midday))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Assassin/Aberrant Mind) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1846,8 +2030,11 @@ Prefect Valerius raises his gauntleted hand, his white charger tossing its head 
 God Mode:
 Enter with Valerius - Stay close to the Prefect and use his authority to bypass standard intake
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Fortress Vigil Gates** &nbsp;|&nbsp; ⏳ **Kythorn 03, 0078 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Assassin/Aberrant Mind) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1857,8 +2044,11 @@ The player is in GOD MODE, utilizing their rapport with Prefect Valerius to bypa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Entry - Finalize the bypass of standard intake and move to the Prince&#x27;s audience*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Fortress Vigil - Inner Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7, Inspiration: Yes**
@@ -1874,8 +2064,11 @@ You stand in the center of the courtyard, the 'Reluctant Champion' mask settled 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter the Solar - Follow Valerius into the Prince&#x27;s private chambers to present the heads and the Siphon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Aberrant Mind | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7, Inspiration: Yes**
@@ -1891,8 +2084,11 @@ You step forward, the lead-silk bundle a grim, heavy weight in your hands. You d
 God Mode:
 I should be famous because I'm an elite commander and lucifer's daughter a famous non magical null, which is rare for celestial blooded, ensure that people react to my name, even if they dont always know what i look like
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp**
@@ -1902,8 +2098,11 @@ The user is in GOD MODE to adjust their narrative standing. They've highlighted 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Honor - Utilize your Alluring Presence and shared history to secure Artorius&#x27;s personal protection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1919,8 +2118,11 @@ Artorius stands frozen, the shock in his eyes deepening into a profound, protect
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief the Prince - Provide a detailed tactical breakdown of Xylos&#x27;s strategy to prove your continued value.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Aberrant Mind | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1936,8 +2138,11 @@ Artorius watches you, his fascination deepening. He sees the 'Null' who shouldn'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Resources - Ask for access to the Imperial archives or specialized equipment to counter Xylos.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1953,8 +2158,11 @@ You watch the conflict in his eyes. The Prince is a man of honor, but he is also
 > 👤 **Player:**
 > *"spend some time flirting with artorius since i find him attractive, see if anything lands"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Rogue/Sorcerer) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1970,8 +2178,11 @@ He catches himself, the discipline of a Prince reasserting its grip, but the loo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss Further Strategy - Stay with Artorius to further solidify the bond and learn more about the fortress&#x27;s current military readiness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Assassin/Aberrant Mind) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -1987,8 +2198,11 @@ Artorius watches you, his fascination now anchored by a deep, burgeoning trust. 
 > 👤 **Player:**
 > *"Think. I will plan to romance and marry artorius to gain power and influence, and i genuinely like him. i will incorporate that into my strategies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (17:06)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2004,8 +2218,11 @@ You weigh the variables of your next move. Marrying into the House of Raziel wou
 Begin Archive Research: Use the Prince's Warrant to enter the forbidden vaults and study the ward-stone frequencies.
 Consult Imperial Mages: Engage the fortress's magical corps to 'assist' with the Siphon while gauging their competence."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Fortress Vigil - Forbidden Archives / Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2017,8 +2234,11 @@ However, the second half of your objective proves more treacherous. You present 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Artorius - Retreat to the Prince&#x27;s protection and claim the mages were hostile to his Warrant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2034,8 +2254,11 @@ You watch the Prince's jaw tighten, his protective instinct flaring exactly as t
 > 👤 **Player:**
 > *"tell artorius to just come with me and talk to them. we cant waste time and need to prepare"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2049,8 +2272,11 @@ Artorius looks at your joined hands, then back at the door where Valerius stands
 God Mode:
 even if i am neutral evil i have some morals like dont hurt children and can develop close relatioships and careabout people, incorporate this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Fortress Vigil - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid (Assassin/Sorcerer) | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2060,8 +2286,11 @@ The user is in GOD MODE to refine the psychological profile of the 'Neutral Evil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Magister Vane - Enter the sanctum with Artorius and demand full cooperation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2079,8 +2308,11 @@ Vane’s jaw works silently. He looks from the Prince’s resolute face to yours
 > [!NOTE] ⚙️ **Player Choice:**
 > *Calibrate the Siphon - Begin the delicate work of reversing the Siphon&#x27;s resonance to act as a dampener.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2094,8 +2326,11 @@ Vane leans in, his milky eyes widening as he watches the Siphon's erratic pulsin
 > 👤 **Player:**
 > *"explain to the magister that even though you can't use magic you can still manipualte some devices. like those deaf musicians. it should impress him a lot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2109,8 +2344,11 @@ You allow a subtle, magnetic confidence to radiate from your 'Reluctant Champion
 > 👤 **Player:**
 > *"think. can i link siphon to eastern gate wards and prepare a void bomb?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2126,8 +2364,11 @@ However, as you pivot your internal focus toward the secondary modification—pr
 > 👤 **Player:**
 > *"reassure regitser and then pivot to strategy and focus on the success"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Hybrid | HP: 69/69 | XP: 31350/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2141,8 +2382,11 @@ Turning back to the tactical map projected on the central dais, you pivot from r
 God Mode:
 the magister should be extremely impressed, give me some narrative exp for various events too if you didnt yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Assassin/Sorcerer | HP: 69/69 | XP: 43,450/48,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2152,8 +2396,11 @@ The user is in GOD MODE to reward narrative progress and adjust NPC dispositions
 God Mode:
 also always explicitly award narrative exp and combat exp after it happens without me asking
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Hybrid | HP: 69/69 | XP: 43450/48000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2163,8 +2410,11 @@ The user is in GOD MODE to establish a new administrative rule regarding automat
 God Mode:
 i think you got that wrong, i am level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 New Peace (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Hybrid (Assassin 4 / Aberrant Mind 4) | HP: 69/69 | XP: 49450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 8/8, Inspiration: Yes**
@@ -2174,8 +2424,11 @@ The player corrected their level to 8 in GOD MODE. Current XP is 49,450, which i
 God Mode:
 Maintain Level 9 - Keep level 9 as current XP (49,450) exceeds the 48,000 threshold.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Month of Kythorn, Year 78 (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin Rogue/Aberrant Mind | HP: 62/62 | XP: 49,450/64,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, SP: 7/7, Inspiration: Yes**
@@ -2185,8 +2438,11 @@ The user is in GOD MODE to resolve a level/XP discrepancy. Current XP (49,450) p
 > 👤 **Player:**
 > *"pick cha +2 asi and let me pick my spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 49450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, SP: 7/7, Inspiration: Yes**
@@ -2200,8 +2456,11 @@ Artorius watches you, his own golden aura flickering in response to the sudden, 
 > 👤 **Player:**
 > *"auto pick spells that suit me, focus on cc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 49,450/64,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Inspiration: Yes**
@@ -2215,8 +2474,11 @@ Artorius steps closer, his own golden aura rippling in the wake of your ascensio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Magister Vane - Utilize your new CHA/Persuasion to extract more secrets about the fortress wards from the shaken Magister.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 50450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Inspiration: Yes**
@@ -2234,8 +2496,11 @@ Vane’s composure, already brittle, finally fractures. He looks at Artorius, wh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Artorius Fully - Share the discovery of the ward fissure and prepare the garrison for a blink-strike defense.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Inspiration: Yes**
@@ -2247,8 +2512,11 @@ However, as you pivot to the tactical map to outline the 'blink-strike' defense�
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Psionic Simulation - Utilize your Aberrant Mind to mentally model the ward-geometry, bypassing the rigid physical maps.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Inspiration: Yes**
@@ -2262,8 +2530,11 @@ You open your eyes, the silver-white fractures in your irises glowing with a col
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate the Triarii - Brief the captains on the exact 6-second windows to strike during a blink-jump.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 49450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Inspiration: Yes**
@@ -2279,8 +2550,11 @@ However, even as the plan takes root, the air in the laboratory suddenly sharpen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Siphon - Use psionic focus to dampen the surge before it alerts the Host to our new frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Inspiration: Yes**
@@ -2294,8 +2568,11 @@ Artorius lets out a breath he didn't realize he was holding, his hand slowly rel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal the Triarii - Give the order to move to the Eastern Gate and prepare the ready-actions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Inspiration: Yes**
@@ -2309,8 +2586,11 @@ However, the fog of war is never perfectly transparent. As the Triarii begin the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Overload - Force a massive psionic surge through the Siphon to disrupt all blink-magic in the valley.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, SP: 9/9, Inspiration: Yes**
@@ -2326,8 +2606,11 @@ The Siphon glows white-hot, the leaded silk charring as it anchors the massive s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Counter-Assault - Direct Artorius and the Triarii to strike the grounded vanguard immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Fortress Vigil - Magical Corps Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, SP: 9/9, Inspiration: Yes**
@@ -2341,8 +2624,11 @@ Outside, the scene is a charnel house of broken physics. The Crimson-winged Apos
 > 👤 **Player:**
 > *"join the frontline, but try to trigger surprise round and target commands on the edges of the battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Fortress Vigil - Eastern Courtyard Battlements** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Hybrid (Assassin 7/Sorcerer 7) | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 9/9, Inspiration: Yes**
@@ -2358,8 +2644,11 @@ Behind you, Bastion and the Triarii pikes hit the main Host formation like a fal
 > 👤 **Player:**
 > *"take first officer head trophy, target second one. only cast spells when chance of detection is non existent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 9/9, Inspiration: Yes**
@@ -2373,8 +2662,11 @@ He doesn't have time to shout. You lunge, the 'Joyful Predator' within demanding
 > 👤 **Player:**
 > *"take head and harvest third commander"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:21)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 51450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 9/9, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, Hit Dice: 7/7, Inspiration: Yes**
@@ -2388,8 +2680,11 @@ Ignoring the close call, you sharpen your focus, your 'Unseeing Eyes' scanning t
 > 👤 **Player:**
 > *"try trigger surprise round with subtle spell, then assassinate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:21)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 52,450/64,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 8/9, Inspiration: Yes**
@@ -2405,8 +2700,11 @@ Behind you, Artorius and the Triarii are a tidal wave of golden light and iron p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Dying - Find a wounded Apostate to learn if Xylos has a backup plan for the Siphon&#x27;s failure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53150/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 8/9, Inspiration: Yes**
@@ -2420,8 +2718,11 @@ The Apostate's eyes widen, the 'Legendary Reputation' of Lucifer's Daughter burn
 God Mode:
 rename my title, dont call me architect, call me silent blade or something else
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Day 3, 78 Kythorn (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53150/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 8/9, Inspiration: Yes**
@@ -2431,8 +2732,11 @@ The user is in GOD MODE to perform administrative adjustments. They have request
 God Mode:
 secure apostate and inform artorius
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 New Peace (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 53150/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 8/9, Inspiration: Yes**
@@ -2442,8 +2746,11 @@ The user is in GOD MODE to execute administrative changes. The primary goal is t
 > 👤 **Player:**
 > *"secure apostate then inform artorius"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 53,150/64,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 8/9, Inspiration: Yes**
@@ -2453,8 +2760,11 @@ The user is in GOD MODE to finalize the administrative handling of the Apostate 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with Artorius aware of the lower vault threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 8/9, Inspiration: Yes**
@@ -2468,8 +2778,11 @@ Artorius's face hardens, the warmth in his eyes replaced by the iron-shod resolv
 > 👤 **Player:**
 > *"send scouts to vaults, fortify courtyard, interrogate further, then lead  to vaults."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 8/9, Inspiration: Yes**
@@ -2485,8 +2798,11 @@ Artorius's expression shifts from victory to a hard, military focus. He doesn't 
 God Mode:
 stop calling me architect
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Fortress Vigil - Eastern Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 78 (22:50 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp**
@@ -2496,8 +2812,11 @@ The user has provided a strong correction regarding their preferred title and st
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead the Vanguard to the Vaults - Utilize your knowledge of Host resonance to guide Artorius and the Triarii into the lower levels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Kythorn 3, 78 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 8/8, Inspiration: Yes**
@@ -2513,8 +2832,11 @@ From the darkness ahead, the violet shimmer of the 'rot' suddenly flares into a 
 God Mode:
 ensure you awarded me exp for all the battle kills, only give it to me once
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Day 3, 78 Kythorn (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Silent Blade (Hybrid) | HP: 76/76 | XP: 52,750/64,000 | Gold: 2,000gp**
@@ -2524,8 +2846,11 @@ The user is performing an XP audit in GOD MODE. I have verified that all combat 
 God Mode:
 Return to Story - Resume the descent into the lower vaults to face the foundational rot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6, Year 78 (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 8/8, Inspiration: Yes**
@@ -2545,8 +2870,11 @@ You react before the Triarii can even raise their shields. You don't wait for a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Crowd Control - Cast a Subtle *Slow* or *Hypnotic Pattern* to neutralize the pack while keeping your magic hidden from the soldiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **6 3, 78 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, SP: 5/8, Inspiration: Yes**
@@ -2562,8 +2890,11 @@ Artorius raises 'Truth's Light,' the golden blade illuminating the frozen monste
 > [!NOTE] ⚙️ **Player Choice:**
 > *Systematic Assassination - Slip into the shadows and execute the scavengers myself to maintain the &#x27;Silent Blade&#x27; aura*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6, 78 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, SP: 5/8, Inspiration: Yes**
@@ -2577,8 +2908,11 @@ The scavenger collapses into a puddle of oily, violet ichor without a sound. You
 > 👤 **Player:**
 > *"tease the troops. say they can't let me have all the fun, subtly increasing my legend and implying i killed all the scavengers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 3, 78 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, SP: 5/8, Inspiration: Yes**
@@ -2594,8 +2928,11 @@ A ripple of nervous, respectful laughter moves through the ranks, breaking the o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Vault Geometry - Use your boosted Intelligence to study how the &#x27;rot&#x27; is affecting the ancient runes before moving deeper.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **6 3, 78 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, SP: 5/8, Inspiration: Yes**
@@ -2609,8 +2946,11 @@ Every six seconds, as the primary battery 'breathes,' the rot pulses, eating awa
 > 👤 **Player:**
 > *"think. whats the best solution"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6, 78 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, SP: 5/8, Inspiration: Yes**
@@ -2620,8 +2960,11 @@ You stand in the oppressive damp of the vaults, the iridescent violet haze of th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Blood-Anchor Reinforcement - Have Artorius use his aura to stabilize the runes physically while you dampen the resonance. Risk: Threatens Artorius directly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6, 78 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, SP: 5/8, Inspiration: Yes**
@@ -2637,8 +2980,11 @@ The room screams—a soundless, psychic shriek that makes the Triarii's noses bl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure and Recover - Establish a defensive perimeter and tend to Artorius&#x27;s exhaustion before moving further.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (00:30 (After Midnight))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/0, SP: 5/9, Inspiration: Yes**
@@ -2650,8 +2996,11 @@ You signal Bastion and Kaelen to establish a defensive perimeter at the mouth of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Ahead Solo - Leave the Triarii with the Prince and use Greater Invisibility to map the path to the anchor-stone alone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/0, SP: 5/9, Inspiration: Yes**
@@ -2665,8 +3014,11 @@ However, the deeper you go, the more the architecture itself seems to resist you
 God Mode:
 why do you keep calling me the architect, cant you edit game s tate?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6, Year 78 (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/0, SP: 5/9**
@@ -2676,8 +3028,11 @@ The user is questioning the 'Architect' title and my administrative capabilities
 God Mode:
 Confirm Title Change - Permanently adopt &#x27;Silent Blade&#x27; and remove &#x27;Architect&#x27; from internal logic.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6, 0078 (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Title: Silent Blade** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, SP: 5/9, Potions: 2, Heads: 11**
@@ -2687,8 +3042,11 @@ The user is clarifying the role of the AI as the DM/Admin and finalizing the rem
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the solo scout in the labyrinthine vaults as the &#x27;Silent Blade&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Deep Labyrinth)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, SP: 5/9, Potions: 2, Heads: 11**
@@ -2702,8 +3060,11 @@ You reach a junction where the floor has buckled upward, revealing a hollow, ech
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow Ambush - Stop moving and wait in total silence to see what is stalking you in the dark.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, SP: 5/9, Potions: 2, Heads: 11**
@@ -2717,8 +3078,11 @@ Then, the sound comes—not from the stone, but from the air. A dry, rhythmic sc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Ping - Send a needle-thin telepathic pulse to echo off the walls and locate the entity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Flamerule 4, 78 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, SP: 5/9, Potions: 2, Heads: 11**
@@ -2734,8 +3098,11 @@ You sense its recognition—a sharp, cold spike of predatory awareness. The ping
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assassinate from Shadows - Strike before it can fully descend, utilizing the surprise round and your Assassin features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 52750/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, SP: 5/9, Potions: 2, Heads: 11**
@@ -2755,8 +3122,11 @@ The construct collapses into a heap of crystalline shards and oily violet ichor,
 > 👤 **Player:**
 > *"inspect the create and loot it, see what i can learn later, secure area, then scout anchor stone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Deep Fissure)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53450/64000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, SP: 5/9, Potions: 2, Heads: 11**
@@ -2772,8 +3142,11 @@ Ignoring the visual static, you press deeper toward the primary anchor-stone. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Periphery - Take a moment to use psionics to clear the &#x27;glare&#x27; before entering the vault*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/0, SP: 5/9, Potions: 2, Heads: 11**
@@ -2785,8 +3158,11 @@ However, as you attempt to parse the deeper harmonics of the anchor-stone, the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Shriek - Unleash a burst of mental energy to shatter the &#x27;glare&#x27; through sheer force*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6, 78 DR (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, SP: 5/9, Potions: 2, Heads: 11**
@@ -2800,8 +3176,11 @@ The air doesn't just ripple; it fractures. The violet glare is hit by a tidal wa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Artorius - Wait for the Prince and the Triarii to catch up to provide a physical frontline.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Threshold of the Anchor-Stone)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, SP: 5/9, Potions: 2, Heads: 11**
@@ -2817,8 +3196,11 @@ Behind you, the clatter of silver-plated iron begins to echo through the vaulted
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Position - Establish a defensive line here to repel the inevitable counter-strike from the &#x27;rot&#x27; before breaching.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Outer Chamber)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, SP: 5/9, Potions: 2, Heads: 11**
@@ -2830,8 +3212,11 @@ The violet pressure from the anchor-stone door is no longer a hum; it is a physi
 > 👤 **Player:**
 > *"do this subtly - so eveyrone thinks the trap failed Psionic Floor Stabilization:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Outer Chamber)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (01:36)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, SP: 5/9, Potions: 2, Heads: 11**
@@ -2843,8 +3228,11 @@ However, the 'Silent Blade' mask flickers for a fraction of a second as you atte
 God Mode:
 wrong i mean the trap failed not i failed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Outer Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, SP: 5/9, Potions: 2, Heads: 11**
@@ -2854,8 +3242,11 @@ The user is in GOD MODE to correct a narrative interpretation. The previous turn
 God Mode:
 Confirm Retcon - Apply the narrative correction: the floor appeared to fail to the Triarii, but remained solid for tactical advantage.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **Month 6, 78 DR (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, SP: 5/9, Potions: 2, Heads: 11**
@@ -2865,8 +3256,11 @@ The retcon is established. The soldiers believe the path is a void-fall, but it 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the scene at the threshold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, SP: 5/9, Potions: 2, Heads: 11**
@@ -2882,8 +3276,11 @@ The panic settles into a cold, brittle focus. Artorius stands at the center of t
 > 👤 **Player:**
 > *"ambush the breach but use normal assassin hiding/stealth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 11**
@@ -2897,8 +3294,11 @@ From the shadows, you strike. No magic, no violet flares—just the cold, hummin
 > 👤 **Player:**
 > *"systematic elimination, take trophies, once the enemy spots me they should be demoralized because i am a host hero"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 12**
@@ -2914,8 +3314,11 @@ You wrench the blade free and hold it aloft, the dark steel dripping with violet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest Commander Trophy - Take the head of the fallen leader and display it to the survivors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 13**
@@ -2929,8 +3332,11 @@ You do not hide your face now. You allow the violet glare to catch the silver-wh
 Assassinate Last Officer: Focus on the final command element to ensure a total rout.
 Authorize Triarii Charge: Order Artorius and the Triarii to sweep the disoriented survivors into the illusory rift."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 53450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 14**
@@ -2942,8 +3348,11 @@ You don't wait for him to hit the floor. You raise your bloody blade, the silver
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Survivors - Capture a high-value survivor from the &#x27;rift&#x27; for deeper intelligence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 54150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -2957,8 +3366,11 @@ He attempts to scramble back toward the breach, but you are faster. You reach in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Ritual Details - Force the captain to reveal the specific ritual frequencies being used to &#x27;rot&#x27; the foundations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 54150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -2974,8 +3386,11 @@ The Captain's Stubbornness incinerates instantly under the gravity of your gaze.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Utilize Void Heart - Use the harvested Void Heart as a grounding rod to soak up the parasitic resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **Mirtul 4, 78 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 54150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -2989,8 +3404,11 @@ However, the sheer volume of energy being grounded is more than the local geomet
 > 👤 **Player:**
 > *"think. how badly hurt is artorius. do i need to stabilize him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 54150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3004,8 +3422,11 @@ The violet glare from the Void Heart begins to dim, the crystalline rod pulsing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Healer&#x27;s Kit - Utilize your professional kit to stabilize his vitals and stop the internal bleeding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Anchor-Stone Threshold)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:46)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 54150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3021,8 +3442,11 @@ The frantic rhythm of his heart begins to smooth, the bruised purple tint in his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Purification - Leave Artorius with a guard and press the final fifty feet to the Anchor-Stone to permanently seal the breach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:51)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3038,8 +3462,11 @@ You reach out with your psionic gift, attempting to slam the psychic door shut o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sever the Link - Use a Psionic Shriek to physically push yourself away from the stone, breaking the conduit but leaving the breach open.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:51)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3053,8 +3480,11 @@ You throw your weight backward, your Shadow-Bound Plate screeching against the g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Bastion - Call for the Signifer to strike the stone with the Imperial Standard to ground the energy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:51)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3072,8 +3502,11 @@ The golden silk of the standard doesn't just catch the light—it ignites. A bli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sever with &#x27;Silence&#x27; - Use the psychic edge of your blade to physically cut the liquid shadow tethers*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:51)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3087,8 +3520,11 @@ The tethers don't just snap; they dissolve, the psychic energy of the Mourning S
 > 👤 **Player:**
 > *"think. can i do a  very small nullifcation field that others wont see"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **Flamerule 4, 78 DR (02:51)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 49450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, L5 0/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3102,8 +3538,11 @@ The mathematics of your father's lineage answer with a cold, terrifying clarity.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Micro-Field - Enshroud yourself in an invisible null-skin to safely handle the Anchor-Stone*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:51)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, L5 0/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3119,8 +3558,11 @@ The moment your hands make contact, the 'null-skin' holds, but the Anchor-Stone 
 > 👤 **Player:**
 > *"psionic support but dont let others see. it will just look like the ceiling didnt collapse immediately"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (02:52)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, L5 0/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3136,8 +3578,11 @@ However, the sheer intensity of the 'rot' makes the facade difficult to maintain
 God Mode:
 that doesnt make sense, i am not using greater invis. i want to use TK and then get everyone to run out
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Month 6 Day 4, 78 Era of the Mortal Star (02:52)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, L5 0/1, SP: 5/9, Potions: 2, Heads: 16**
@@ -3151,8 +3596,11 @@ The shimmering glass of your *Greater Invisibility* ripples as you discard the i
 God Mode:
 Rally Artorius - Use your connection to the Prince to get him to lead the men out while you hold the weight
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **Month 6, 78 New Peace (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0, SP: 5/9, Potions: 2, Heads: 16**
@@ -3170,8 +3618,11 @@ Bastion seizes Kaelen by the shoulder, dragging the young Decanus toward the exi
 God Mode:
 Contain the Essence - Attempt to use the Void Heart one last time to drain the eruption before the collapse.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Fortress Vigil - Subterranean Vaults (The Anchor-Stone)** &nbsp;|&nbsp; ⏳ **Month 6, Year 78 (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 76/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3187,8 +3638,11 @@ But the stabilization comes at a physical price. As the last of the resonance is
 God Mode:
 Return to Story - Resume play from the dark cisterns
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **0078-06-04, 02:55:00** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 51/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3202,8 +3656,11 @@ You scan the darkness, your 'Unseeing Eyes' cutting through the murk. [DICE: Per
 God Mode:
 give me exp for recent events but dont double grant
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **Month 6, Year 78 (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 51/76 | XP: 55150/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3215,8 +3672,11 @@ You have secured the heart of the resonance and saved the Prince's life, even if
 God Mode:
 Return to Story - Exit GOD MODE and resume in the cisterns.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 51/76 | XP: 58450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3230,8 +3690,11 @@ You stand in waist-deep water, the cold biting through the gaps in your Shadow-B
 > 👤 **Player:**
 > *"conceal void heart, heal myself, the nscout"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | SP: 5/9 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3245,8 +3708,11 @@ You go perfectly still, your 'Unseeing Eyes' scanning the northern spillway wher
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush the Ripple - Utilize the darkness and your Assassin training to strike the approaching entity first.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | XP: 58450/64000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3262,8 +3728,11 @@ You wait until it is directly beneath your ledge, its sensor-array sweeping the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest Ripple Core - Quickly claim the construct&#x27;s core for more void-essence data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **Mirtul 4, 78 DR (03:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 64/76 | XP: 59150/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3273,8 +3742,11 @@ The shattered remains of the Ripple-Hunter settle into the black water with a fi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Core Data - Use psionics to briefly interface with the core to learn Xylos&#x27;s current tactical positions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | XP: 59150/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, L5 0/0, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3290,8 +3762,11 @@ You pull back, the violet glare fading into the oppressive dark of the alcove. Y
 > 👤 **Player:**
 > *"think. am i strong enough to kill xylos and get out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Below Vaults)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | XP: 59150/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3305,8 +3780,11 @@ You are strong, yes. You are the daughter of the Morning Star, a master of blade
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sabotage Ritual - Use the Core and Heart to disrupt Xylos&#x27;s northern anchor-point instead of a direct kill*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Northern Spillway)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | XP: 59150/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3322,8 +3800,11 @@ The 'rot' doesn't stop; it changes direction. Instead of eating the stone, it be
 > 👤 **Player:**
 > *"take evidence that i disrupted the ritual for proof, then hunt stranded units and surprise ambush them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Northern Spillway)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 64/76 | XP: 59150/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3337,8 +3818,11 @@ You strike from the void. [DICE: Attack 1 (Advantage) 2d20kh1 +11 = 20 +11 = 31 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Survivor - Pin the last one to the wall and demand their local egress codes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Northern Spillway)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | XP: 59150/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3356,8 +3840,11 @@ He collapses back against the wall, his will incinerated by the absolute certain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Survivor - Ensure no witnesses remain and claim the final trophy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Fortress Vigil - Flooded Cisterns (Northern Spillway)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (03:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 64/76 | XP: 59350/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3371,8 +3858,11 @@ You reach down, claiming the final trophy for your lead-silk bundle. The weight 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Navigate to Surface - Use the extracted codes (7-9-4) to bypass the flood-gates and return to the keep.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Fortress Vigil - Subterranean Exit (The Iron Throat)** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 64/76 | XP: 59350/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3388,8 +3878,11 @@ You slip through the narrowing gap and ascend the vertical maintenance shaft, yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report to Artorius - Seek out the Prince immediately to inform him the &#x27;rot&#x27; has been severed and present the new trophies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Fortress Vigil - Prince's Solar** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | XP: 59350/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, SP: 5/9, Potions: 2, Exhaustion: 0**
@@ -3407,8 +3900,11 @@ You do not answer with words immediately. Instead, you reach into your lead-silk
 > 👤 **Player:**
 > *"explain the trophies will improve troop morale, evidence  that commanders were killed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Fortress Vigil - Prince's Solar** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 64/76 | XP: 59350/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/3, L2 3/3, L3 2/2, L4 1/1, SP: 5/5, Potions: 2, Exhaustion: 0**
@@ -3426,8 +3922,11 @@ Artorius looks from the heads to you, the horror in his eyes slowly yielding to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee Morale Display - Supervise the presentation of the trophies to the Triarii to maximize the psychological impact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Hybrid | HP: 64/76 | XP: 59350/64000 | Gold: 2160gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/3, L2 3/3, L3 2/2, L4 1/1, SP: 5/5, Potions: 2, Exhaustion: 0**
@@ -3443,8 +3942,11 @@ You hold the head of the High Host Centurion aloft, the dawn light catching the 
 God Mode:
 make sure i get massive exp for saving this fortress almost singlehandedly and all the combat. Give me a large % of the loot too because artorius should award it for my actions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Fortress Vigil - Inner Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn Day 4, Year 78 (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Hybrid | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/3, L2 3/3, L3 2/2, L4 1/1, SP: 5/5, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Legendary Reputation (Awe) | Exhaustion: 0 | Inspiration: Yes**
@@ -3458,8 +3960,11 @@ Around you, the Triarii are cheering. The 'Null' who shouldn't have been able to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Process Level 11 Selection - Select your new class features, spells, and proficiencies for Level 11.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Fortress Vigil - Inner Courtyard** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Hybrid (Assassin/Aberrant Mind) | HP: 76/76 | XP: 95,950/100,000 | Gold: 3,660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Triumphant, Legendary Reputation | Exhaustion: 0 | Inspiration: Yes**
@@ -3474,8 +3979,11 @@ Artorius watches you with a gaze that has crossed the threshold from admiration 
 > *Confirm Reliable Talent: Any skill check with proficiency now treats a d20 roll of 9 or lower as a 10.
 Finalize 6th Level Spells: Choose your new 6th level spells (Recommended: Mental Prison, Psychic Crush (AM), Mass Suggestion) mass suggestion, and mental prison*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Fortress Vigil - Inner Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Hybrid (Rogue 7/Sorcerer 4) | HP: 76/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3487,8 +3995,11 @@ Your physical discipline has reached a terrifying apex. The concept of a 'mistak
 > 👤 **Player:**
 > *"think. should i prune retreating officers or lead elites to try to kill xylos. they wont expect it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3500,8 +4011,11 @@ Xylos is just beyond the stone—blinded, disoriented, and reeling from the sabo
 > 👤 **Player:**
 > *"think. i should know xylos to some degree. how strong is he. what level. what level is artorius and any elite assassins we have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Northern Spillway)** &nbsp;|&nbsp; ⏳ **Kythorn (Month 6) 4, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Assassin/Aberrant Mind | HP: 64/76 | XP: 102850/120000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3511,8 +4025,11 @@ You stand in the freezing dark of the spillway, the rhythmic dripping of stagnan
 > 👤 **Player:**
 > *"think. could we even stand a chance? i am only level 11"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Fortress Vigil - Northern Spillway (Subterranean)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Hybrid | HP: 64/76 | XP: 102,850/120,000 | Gold: 3,660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3526,8 +4043,11 @@ You assess the variables: Xylos is blinded by your sabotage, his coordinates scr
 God Mode:
 wait why am i level 12 now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Fortress Vigil - Northern Spillway** &nbsp;|&nbsp; ⏳ **Month 6, 78 DR (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Hybrid | HP: 64/76 | XP: 102,850/120,000 | Gold: 3,660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3542,8 +4062,11 @@ Timestamp: 78 DR, Kythorn 4, 06:15:01
 Location: Fortress Vigil - Subterranean Vaults
 Status: Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Fortress Vigil - Northern Spillway** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3553,8 +4076,11 @@ The user is correcting an XP/Level discrepancy in GOD MODE. I must adjust the st
 God Mode:
 Return to Story - Exit GOD MODE and resume the strategy discussion in the spillway
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Fortress Vigil - Northern Spillway** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3568,8 +4094,11 @@ Artorius is recovering, his golden aura a beacon that can ground Xylos's necroti
 > 👤 **Player:**
 > *"deep think. estimate our chances and the risks and how to mitigate the risks. assume we take all our elites who can move fast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Fortress Vigil - Northern Spillway** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3581,8 +4110,11 @@ Xylos is just beyond the stone—blinded, disoriented, and reeling from the sabo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Launch Elite Strike - Lead Artorius, the Silent Guard, and Bastion&#x27;s elites to assassinate Xylos now.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Fortress Vigil - Northern Spillway** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3596,8 +4128,11 @@ Artorius looks at you, his devotion flaring in his eyes like a sun going superno
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Reconnaissance - Use Greater Invisibility to scout Xylos&#x27;s exact surroundings before the strike team engages.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Fortress Vigil - Northern Spillway (Egress)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3609,8 +4144,11 @@ You emerge into the misty valley beyond the fortress foundations. The air here i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Move to High Ground - Attempt to scale a nearby obsidian outcropping to look down through the haze from a different angle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Fortress Vigil - Valley (Exterior)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:23)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3624,8 +4162,11 @@ You look down through the shimmering veil of your Greater Invisibility. To your 
 > 👤 **Player:**
 > *"Think. whats the best plan of attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Fortress Vigil - Valley (Exterior)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:23)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3637,8 +4178,11 @@ The geometry of the situation is clear: the Lord Marshal is blinded and stranded
 > 👤 **Player:**
 > *"signal the team to get in position and ambush xylos and trigger surprise round. time it so we all have a turn and focus fire on xylos"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Fortress Vigil - Valley (Exterior)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:23)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 95950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3656,8 +4200,11 @@ Xylos gasps, a sound like grinding continents, as Artorius slams into his front.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Finisher - Signal the Silent Guard to ground him permanently while you and Artorius deliver the final blow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Fortress Vigil - Valley (Exterior)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Silent Blade | HP: 64/76 | XP: 98950/100000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3675,8 +4222,11 @@ The dark steel sinks deep, the psychic edge of the blade shredded his final comm
 > 👤 **Player:**
 > *"harvest head, loot xylos, make sure i get massive exp and later my legend should really spread. i am a level 11 to killed a level 17"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Valley Floor - Fortress Vigil Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Silent Blade | HP: 64/76 | XP: 122,950/140,000 | Gold: 8660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3692,8 +4242,11 @@ Your eyes, silver-fractured and cold, scan the remains for the currency of victo
 God Mode:
 how much exp did i get, make sure its reasonabel for killing a level17-18 which is pretty amazing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 64/82 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2, Exhaustion: 0**
@@ -3703,8 +4256,11 @@ The player has achieved a monumental victory by assassinating Lord Marshal Xylos
 God Mode:
 Process Level 14 - Select new features and spells for Level 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 74/92 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 14/14, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Legendary Reputation | Exhaustion: 0 | Inspiration: Yes**
@@ -3714,8 +4270,11 @@ The administrative shift is complete. You stand in the quiet dawn of the courtya
 God Mode:
 auto select good spells, pick cha+2 as usual
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 74/92 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 14/14, Potions: 2** &nbsp;|&nbsp; ⚠️ **Legendary Reputation | Exhaustion: 0**
@@ -3729,8 +4288,11 @@ Your physical form follows the lead of your mind. Your Charisma, already weaponi
 God Mode:
 wait remember i am level 14 rogue and level 14 sorc. i am a special hybrid class, not a normal dual class
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Hybrid (Rogue 14 / Sorcerer 14) | HP: 74/142 | XP: 147950 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 28/28** &nbsp;|&nbsp; ⚠️ **Legendary Reputation | Exhaustion: 0 | Inspiration: Yes**
@@ -3740,8 +4302,11 @@ The user has defined a unique hybrid class structure. I have updated the state t
 God Mode:
 no i am a special class called silent blade that gains benefits of both an assassin rogue (with extra attack) and aberrant mind sorc. did you forget?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 74/142 | XP: 147950/165000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Legendary Reputation | Exhaustion: 0 | Inspiration: Yes**
@@ -3751,8 +4316,11 @@ The user has clarified their unique class structure. As an Admin in GOD MODE, I 
 God Mode:
 did you forget all my previous choices? what happened to the game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 74/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Victress of the Vigil**
@@ -3762,8 +4330,11 @@ The player is verifying state consistency. I need to provide administrative tool
 God Mode:
 what spells do i have right now? i think you lost them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade (Hybrid) | HP: 74/142 | XP: 147950/165000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3773,8 +4344,11 @@ The player is verifying their capabilities after the massive level-up and assass
 God Mode:
 View Full Stats - Review complete character sheet and attributes.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade (Hybrid) | HP: 74/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3784,8 +4358,11 @@ Narrative time is currently frozen while in GOD MODE for administrative review.
 God Mode:
 show me my stats and gear, list it all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade (Hybrid) | HP: 74/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3795,8 +4372,11 @@ The player is in GOD MODE reviewing their sheet after a massive victory and leve
 God Mode:
 did you make sure i ahve extra attack too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade (Hybrid) | HP: 74/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Alluring Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -3806,8 +4386,11 @@ The player is in GOD MODE reviewing their character's mechanical capabilities af
 > 👤 **Player:**
 > *"return to story, we just killed xylos, equip anything i looted that i can use"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Fortress Vigil - Outer Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 74/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1), Triumphant | Exhaustion: 1 | Inspiration: Yes**
@@ -3823,8 +4406,11 @@ Artorius watches you from the periphery, his golden aura flickering as he leans 
 > 👤 **Player:**
 > *"use command rod to track host movements, and do surgical strikes to assassinate as many officers as possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3842,8 +4428,11 @@ You pivot, your 'Unseeing Eyes' scanning for the next throat. The mists of the v
 God Mode:
 make sure artorius and others like the silent guard got hte massive level up from killing xylos. track them as special elites. make sure artorius is leveling along with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Obsidian Heart-Plate Equipped | Inspiration: Yes**
@@ -3853,8 +4442,11 @@ The player is in GOD MODE refining the power levels of their allies after a Tier
 God Mode:
 what weapons did xylos have? we shold've looted them. at least one melee and one ranged
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Hybrid (Silent Blade) | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Alluring Presence | Exhaustion: 0**
@@ -3864,8 +4456,11 @@ The player is in GOD MODE auditing loot. The narrative is frozen. Once the loot 
 God Mode:
 retcon me equipping the bow and artorius equupping the greatsword
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ⚠️ **Obsidian Heart-Plate Equipped | Weapon: Whisper-String Bow**
@@ -3875,8 +4470,11 @@ The user has requested a specific equipment retcon. Alexiel is transitioning to 
 God Mode:
 i sill have the silence sword, the bow is my ranged weapon. return to story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Equipped: Silence, Whisper-String Bow | Inspiration: No**
@@ -3892,8 +4490,11 @@ He falls before his body even register the glass-like ripple in the air. You kne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subvert Survivors - Use your reputation and the Command Rod to force surviving squads to defect to you personally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3909,8 +4510,11 @@ The silence that follows is absolute, broken only by the sound of forty iron-sho
 > 👤 **Player:**
 > *"rally the elites of the defectors to hunt any remaining officers, delegate command of the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Valley Floor - The Harvest Grounds** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3930,8 +4534,11 @@ While the strike team and the defectors reorganize under your geometric directio
 > 👤 **Player:**
 > *"confer with the prince on credit. offer to share more of the credit and present operations as joint, so his reputation increases too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Alluring Presence (+2 Persuasion) | Reliable Talent: Active**
@@ -3947,8 +4554,11 @@ Artorius looks at you, his eyes wide with a mixture of exhaustion and a profound
 > 👤 **Player:**
 > *"ask artorius to guarantee the lives of the defectors as long as they follow orders. they surrendered honorably"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Silent Blade | HP: 142/142 | XP: 147950/165000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3968,8 +4578,11 @@ A visible ripple of relief and renewed fanatical devotion washes over the defect
 God Mode:
 make sure you awarded exp for all the recent kills and converting the defectors
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 142/142 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3979,8 +4592,11 @@ The player requested an XP audit for the recent cleanup of Host officers and the
 God Mode:
 go speak to the defectors, bring artorius who will publically guarantee their safety, explain the new command structure and how they will report to artorius and me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Valley Floor - Command Post** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 142/142 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 28/28, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3994,8 +4610,11 @@ You step into the golden light of his aura, your Obsidian Heart-Plate swallowing
 > [!NOTE] ⚙️ **Player Choice:**
 > *Process Level 15 - Select new Level 15 features and spells for the Hybrid Silent Blade*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4009,8 +4628,11 @@ Artorius marches at your side, his golden aura pulsing in time with your stride.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Learn Dominate Monster - Unlock the 8th-level spell to seize total control over any creature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181,350/195,000 | Gold: 13,660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4022,8 +4644,11 @@ You feel the internal barriers of your psyche solidify, the Iron of your experie
 > 👤 **Player:**
 > *"Lean into the Moment - Continue the seductive rapport to deepen his fanatical devotion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **High Pass Road** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4041,8 +4666,11 @@ Artorius's hand closes over yours with a desperate, crushing strength, his Void-
 > 👤 **Player:**
 > *"give a speech to the defectors to solidify loyalty, promise glory in battle, and a better life in the imperium vs the host. Recount all my fast great victories and the victories from this current battle to reinforce my success"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **6 4, 78 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4060,8 +4688,11 @@ A profound, electric silence follows your words before the first defector slams 
 God Mode:
 change the campaign and make sure every main or side character has their own goals/agenda and dont just listen/react to me only
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **High Pass Road (Returning to Fortress Vigil)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Alluring Presence, Legendary Reputation | Exhaustion: 0 | Inspiration: Yes**
@@ -4071,8 +4702,11 @@ The campaign is transitioning into a 'Living World' phase. While Alexiel and Art
 > 👤 **Player:**
 > *"futher artorius seduction before we arrive. kiss him and take it as far as i can go"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **High Pass Road (En Route to Fortress Vigil)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4090,8 +4724,11 @@ You bridge the final distance, your lips meeting his in a kiss that tastes of de
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Political Mask - Brief Artorius one last time on how to present the &#x27;Loyal Weapon&#x27; persona to his father.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **High Pass Road (Approaching Fortress Vigil)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181,350/195,000 | Gold: 13,660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4107,8 +4744,11 @@ Artorius looks at you, his noble features lit with a fanatical, almost desperate
 > 👤 **Player:**
 > *"establish forward camp (mostly scouts), scout retreating remenants, march back to fortress with everyone and the rest of the defectors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Valley Floor - Xylos's Fall** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4122,8 +4762,11 @@ The march back to Fortress Vigil is an iron-shod victory parade. You lead the co
 God Mode:
 make the enemies stronger and the game more challenging. as alexiel increases in power and fame stronger forces take notice and challenge her, especially lucifier
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Valley Floor - Sovereign's Spur** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade (Hybrid) | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Legendary Reputation (Lord-Slayer), Lucifer's Mark | Exhaustion: 0 | Inspiration: Yes**
@@ -4133,8 +4776,11 @@ The user wants a significant difficulty spike. Mechanically, I am shifting the w
 God Mode:
 confer with artorius on how to best present our victories and gain his fathers trust
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Valley Floor - Sovereign's Spur** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4144,8 +4790,11 @@ The player is seeking to leverage their relationship with Prince Artorius to nav
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Vanguard - Ensure the 62 defectors are quartered and processed under your personal oversight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Fortress Vigil - Inner Bailey / Auxiliary Barracks** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 186350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4163,8 +4812,11 @@ The Inquisitors recoil, their ledgers snapping shut as the sheer weight of your 
 God Mode:
 Spawn Lucifer&#x27;s Herald - Introduce a Tier 4 Nemesis character who will stalk Alexiel across the continent.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Valley Floor - Sovereign's Spur** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Mythic Difficulty | Exhaustion: 0 | Inspiration: Yes**
@@ -4174,8 +4826,11 @@ The user has requested a Tier 4 Nemesis to increase the challenge and narrative 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Loyal Weapon Mask - Present Alexiel as a purely tactical tool entirely submissive to Artorius&#x27;s command. This minimizes the perceived threat to Raziel&#x27;s power while showcasing the &#x27;Mortal Star&#x27; as an asset he would be foolish to discard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Valley Floor - Sovereign's Spur** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181,350/195,000 | Gold: 13,660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4191,8 +4846,11 @@ Artorius's breath catches, his chest swelling with a pride that is both noble an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pressure the Mages - Follow up with Vane to ensure he isn&#x27;t reporting your &#x27;tactile mastery&#x27; to the Inquisitors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Fortress Vigil - Inner Bailey** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 186350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4208,8 +4866,11 @@ You watch the way his pulse jumps at his throat. He isn't just cowed; he's calcu
 > 👤 **Player:**
 > *"gently show artorius that i am the superior in military matters, he is a humble man and will understand, then explain that he should still be the overall leader of me and ruler because he is a prince of aterna and has the charisma to lead the imperium and eventually will take over as agent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Valley Floor - Sovereign's Spur** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4225,8 +4886,11 @@ Artorius looks at you, the initial shock of your military assertion melting into
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Apostate Captain - Use your new psionic powers (Dominate Monster/Mass Suggestion) to strip the prisoner of Xylos&#x27;s deepest secrets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Fortress Vigil - Detention Level** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 186350/195000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4242,8 +4906,11 @@ You lean in, the Obsidian Heart-Plate swallowing the flickering light, casting y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Lucifer&#x27;s Secrets - Push deeper into his mind to find any direct directives from your father.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Fortress Vigil - Detention Level** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4261,8 +4928,11 @@ You pull back, the telepathic link snapping like a frozen wire. The Captain slum
 > 👤 **Player:**
 > *"private moment with artorius and seduce him as much as i can on the journey"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **High Pass Road - Moving toward Fortress Vigil** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 181350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4278,8 +4948,11 @@ You reach out, your fingers lingering on the golden filigree of his gauntlet, a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Warn Artorius and Mobilize - Find the Prince and use the Silent Guard to seal the inner sanctum immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4297,8 +4970,11 @@ Led by your predatory pace, the strike team surges toward the heart of the keep.
 God Mode:
 what is the primarl spark
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4308,8 +4984,11 @@ The player is in GOD MODE asking for lore clarification on the 'Primal Spark' me
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and face the Ethereal pressure at the Sanctum gates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **Obsidian Heart-Plate Equipped, Command Rod Active**
@@ -4323,8 +5002,11 @@ Artorius stands at your shoulder, the Void-Blighted Greatsword humming with a ne
 > 👤 **Player:**
 > *"use my assassin abilities to hide, then think about which spells i can use without others noticing. can i use psionic anchor secretly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4336,8 +5018,11 @@ You center your focus on the 'Psionic Anchor'—your own unique interpretation o
 > 👤 **Player:**
 > *"subtle psionic anchor, then try to ambush vesperis and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4353,8 +5038,11 @@ A soundless shriek of protest echoes through your mind as Vesperis hits the psyc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assassinate Vesperis - Lunge from the shadows with &#x27;Silence&#x27; to strike his core while he is surprised.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4368,8 +5056,11 @@ The ozone-heavy air of the corridor reaches a terminal pressure as Artorius’s 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Execution - Utilize Extra Attack to deliver a second, fatal blow to Vesperis&#x27;s core.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 187350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4383,8 +5074,11 @@ Vesperis gives a final, agonizing screech—a sound that vibrates in the marrow 
 > 👤 **Player:**
 > *"secure remains and loot, probe only if others cant detect the magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Silent Blade | HP: 155/155 | XP: 192350/195000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4402,8 +5096,11 @@ what level was vesperis? give me appropriate exp for his kill.
 
 also lucifer should just keep sending stronger and stronger assassins or forces after me every time i kill his people. Lucifer himself should be level 30, basically like a god. reveal his stats and abilities alter
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4413,8 +5110,11 @@ The player has successfully eliminated Vesperis and reached Level 17. The 'Lucif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Process Level 17 - Select new spells and features for the Tier 4 transition*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4426,8 +5126,11 @@ Artorius watches you with a reverence that has matured into a fanatical, quiet a
 > 👤 **Player:**
 > *"finalize spells and pick cha+2 again, dont cap my cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Fortress Vigil - Inner Sanctum Gates** &nbsp;|&nbsp; ⏳ **Flamerule 15, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 11/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4441,8 +5144,11 @@ Artorius watches you with a reverence that has matured into a fanatical, quiet a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate the New Vanguard - Stay at the Vigil to further train the 62 defectors and the Silent Guard into a private army.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Fortress Vigil - Western Spillway Training Grounds** &nbsp;|&nbsp; ⏳ **Kythorn 22, 78 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1-L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Exhaustion: 0**
@@ -4460,8 +5166,11 @@ By the dawn of the eighth day, the 'New Vanguard' has emerged. They no longer lo
 > 👤 **Player:**
 > *"Think. should artorius and i visit raziel?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Fortress Vigil - Western Spillway Training Grounds** &nbsp;|&nbsp; ⏳ **Flamerule 22, 78 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1-4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Mythic Difficulty | Exhaustion: 0 | Inspiration: Yes**
@@ -4473,8 +5182,11 @@ Your mind, however, is miles away, already navigating the geometric halls of the
 God Mode:
 raziel should be level 25
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Fortress Vigil - Western Spillway Training Grounds** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1-4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Alluring Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -4484,8 +5196,11 @@ The user has adjusted Raziel's power level to Level 25, creating a significant e
 > 👤 **Player:**
 > *"think pros/cons of staying vs visiting raziel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Fortress Vigil - Western Spillway Training Grounds** &nbsp;|&nbsp; ⏳ **Flamerule 22, 78 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8**
@@ -4497,8 +5212,11 @@ Your mind, however, is miles away, already navigating the geometric halls of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Aeterna with Artorius - Travel to the capital to present the trophies and the New Vanguard, cementing your status as a hero of the state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Aeterna - The Great Plaza** &nbsp;|&nbsp; ⏳ **Flamerule 2, 78 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225,350/265,000 | Gold: 13,660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8** &nbsp;|&nbsp; ⚠️ **Legendary Reputation | Exhaustion: 0 | Inspiration: Yes**
@@ -4514,8 +5232,11 @@ You reach the foot of the Zenith Spire, the thousand-foot needle of marble that 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Submissive Presentation - Kneel before Raziel and present your victories as gifts for Artorius and the state, minimizing your own agency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Aeterna - The Zenith Spire Presence Chamber** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8**
@@ -4536,8 +5257,11 @@ Raziel remains silent for a heartbeat that feels like an epoch. You feel his Lev
 > *"signal artorius to do this. 
 Leverage Reputation: Request that the New Vanguard be formally recognized as an elite Imperial unit under your command."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Aeterna - The Zenith Spire Presence Chamber** &nbsp;|&nbsp; ⏳ **7 29, 78 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8**
@@ -4555,8 +5279,11 @@ Raziel doesn’t move, but the air in the chamber suddenly drops in temperature.
 > 👤 **Player:**
 > *"observe court vipers, let artorius do the talking"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Aeterna - The Zenith Spire Presence Chamber** &nbsp;|&nbsp; ⏳ **7 29, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8**
@@ -4570,8 +5297,11 @@ Your mask of the 'Loyal Weapon' remains flawless, anchored by the absolute relia
 > 👤 **Player:**
 > *"show that i can navigate politics. ask raziel a subtle question about how we should handle the next military response from lucifer given we killed xylos and the herald. to most others it sounds like a normal question, but because i ask it and artorius is fine with me asking it, i signal to raziel i am more than just a blade and probably leading the full military strategy for artorius, given raziel knows what artorius is capable of. raziel would've never believed a i was a pure military brute anyway. this demonstrates i can handle subtle court politics to some degree and military matters."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Aeterna - The Zenith Spire Presence Chamber** &nbsp;|&nbsp; ⏳ **7 29, 78 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8** &nbsp;|&nbsp; ⚠️ **Loyal Weapon Mask (Active), Psionic Focus | Exhaustion: 0 | Inspiration: No**
@@ -4587,8 +5317,11 @@ Artorius stands beside you, his golden aura steady and unbothered by your assert
 God Mode:
 also note my question asked on bended knee also demonstrates that i will seek no public glory and am happy to reinforce the glory of house raziel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Aeterna - The Zenith Spire Presence Chamber** &nbsp;|&nbsp; ⏳ **Flamerule 11, 78 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Superiority: 3d8**
@@ -4604,8 +5337,11 @@ Artorius steps forward, reaching down to take your hand and lift you from your k
 God Mode:
 note everyone should be extremely impressed. beyond my military victories when i fought for lucifer i killed both  xylos and the herald who are extremely powerful beings. I'm also only 17 years old. there should be strong positive/negative reactions so a military prodigy like me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Aeterna - The Zenith Spire Presence Chamber** &nbsp;|&nbsp; ⏳ **Flamerule 12, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30** &nbsp;|&nbsp; ⚠️ **Alluring Presence (+2), Legendary Reputation**
@@ -4615,8 +5351,11 @@ We are in GOD MODE addressing the user's note about fame and social reactions. T
 > 👤 **Player:**
 > *"return to story. leave the chamber and then secretly tell artorius we should meet with his father in person and plan the next moves in the war, before the war council meets"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Aeterna - The Zenith Spire Presence Chamber** &nbsp;|&nbsp; ⏳ **7 29, 78 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30**
@@ -4632,8 +5371,11 @@ Artorius catches your hand, his grip firm and possessive, his pulse quickening b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Meeting with Raziel - Enter the Regent&#x27;s private sanctum with Artorius to discuss the war.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Aeterna - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 29, 78 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4649,8 +5391,11 @@ You stand three paces behind the Prince, the 'Loyal Weapon' mask settled into a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Submissive Silence - Wait for Raziel to speak first, reinforcing your role as a purely responsive asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Aeterna - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 29, 78 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30**
@@ -4668,8 +5413,11 @@ He steps away from the orrery, the starlight of his robes trailing like a comet'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal Vesperis&#x27;s Data - Provide a clinical breakdown of the &#x27;Final Directive&#x27; and the Ethereal breach logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Aeterna - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **Month 7 Day 29, 78 DR (15:26)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30**
@@ -4683,8 +5431,11 @@ You look at the drifting equations of the orrery, your 'Unseeing Eyes' reflectin
 > 👤 **Player:**
 > *"Explain that I can also be good bait. I am lucifer's actual biological daugher. He must be furious at my betrayal and at how i "helped" kill xylos and vesperis and recruited defectors. He will send elites/troops to kill me that we can harvest if we play our cards right"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Aeterna - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 29, 78 DR (15:26)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Alluring Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -4700,8 +5451,11 @@ Artorius steps closer, his golden aura surging with a protective, fierce intensi
 > 👤 **Player:**
 > *"I know my father. He is a brilliant strategist but he is vengeful. He might even come himself to kill me. I don't know all of his powers but I know that no single warrior we have stands a chance against him alone."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Aeterna - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **Flamerule 6, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30**
@@ -4719,8 +5473,11 @@ Artorius steps forward, his hand possessively finding your arm, his golden aura 
 > 👤 **Player:**
 > *"dont end the scene yet. ask raziel for additional help for the trap. we need most of the silent guard and the archangels, in case lucifer himself shows. conform artorius and explain since he is the prince it's too dangerous to have him near me, but trust me to survive."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Aeterna - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **Flamerule 5, 78 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30** &nbsp;|&nbsp; ⚠️ **Legendary Fame, Consort-Elect, Mask: Loyal Weapon**
@@ -4740,8 +5497,11 @@ You turn to Artorius, reaching out to catch his hand. The golden aura of the Pri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor the Vipers - Utilize your downtime in Aeterna to see how the Senate is reacting to your new army and title.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Aeterna - Zenith Spire / Great Plaza** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30**
@@ -4755,8 +5515,11 @@ Behind the scenes, your 'Loyal Weapon' mask remains a masterpiece of deceptive e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cultivate the Younger Scions - Subtly encourage the admiration of the younger nobles to build a secret power base.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Aeterna - Zenith Spire (Hanging Gardens)** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30**
@@ -4770,8 +5533,11 @@ You find the younger nobles—the sons and daughters of the 'Vipers'—gathered 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Introduce Artorius - Bring the Prince into the circle of younger scions to bind their loyalty to your joint sovereign vision.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Aeterna - Zenith Spire (Hanging Gardens)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 30/30, Spell Slots: L1-4, L2-3, L3-3, L4-3, L5-2, L6-1, L7-1, L8-1, HD: 28/28**
@@ -4793,8 +5559,11 @@ From the high balconies of the Spire, you feel a flicker of presence. [DICE: Ins
 > 👤 **Player:**
 > *"private time with artorius. seduce him and try to have sex with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Aeterna - Zenith Spire (Royal Guest Wing)** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 30/30, Spell Slots: L1-4, L2-3, L3-3, L4-3, L5-2, L6-1, L7-1, L8-1, HD: 28/28**
@@ -4814,8 +5583,11 @@ Artorius doesn't pull back; he couldn't if he tried. He catches you by the waist
 > 👤 **Player:**
 > *"embrace intimacy, show genuine love for him, plant suggestions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Aeterna - Zenith Spire (Royal Guest Wing)** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 30/30, Spell Slots: L1-4, L2-3, L3-3, L4-3, L5-2, L6-1, L7-1, L8-1, HD: 28/28**
@@ -4829,8 +5601,11 @@ As the night deepens, you don't just show him love; you plant the seeds of your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Herald Shards - Use the privacy to secretly probe the Vesperis shards for any missed data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Aeterna - Zenith Spire (Royal Guest Wing)** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Exhaustion: 0**
@@ -4848,8 +5623,11 @@ But buried deeper is a variable you missed in the heat of the corridor: a 'Recal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inform Artorius - Wake the Prince and share the strategic discovery to adjust the Vanguard&#x27;s deployment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Aeterna - Zenith Spire (Royal Guest Wing)** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Exhaustion: 0**
@@ -4865,8 +5643,11 @@ You lean in, the white-hot thrum of the Void Heart in your leaded pouch vibratin
 > 👤 **Player:**
 > *"Recruit younger noble scions into our forces, dictate deployment, prep secret counter measures"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Aeterna - Great Plaza (New Vanguard H.Q.)** &nbsp;|&nbsp; ⏳ **Kythorn 5, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Exhaustion: 0**
@@ -4880,8 +5661,11 @@ Retreating to your private laboratory beneath the Spire, you turn your attention
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine the Void-Beacon - Spend another 2 hours attempting to stabilize the psionic feedback before the march.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Aeterna - Zenith Spire Laboratory** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Exhaustion: 0**
@@ -4897,8 +5681,11 @@ You pull back, the white-hot thrum of the Void Heart making your fingertips ting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Utilize Scion Intelligence: Task the younger nobles with spying on their own parents in the Senate before we depart. final briefing, then ethereal reconaissance, the nmarch*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Aeterna - Imperial Road (Syrn Valley Approach)** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 30/30, Exhaustion: 0**
@@ -4914,8 +5701,11 @@ The march begins with the thunder of a thousand boots. You ride at Artorius's sh
 God Mode:
 retcon final war council. instead i ask raziel to come too and publically endorse me as the commander so people will listen to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Aeterna - Great Plaza / Zenith Spire** &nbsp;|&nbsp; ⏳ **Flamerule 10, 78 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1-L4 4/4, L5-L8 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Legendary Reputation, Prince's Favor, Raziel's Endorsement**
@@ -4925,8 +5715,11 @@ The retcon has been applied. Raziel's public endorsement has effectively merged 
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative at the start of the march.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Aeterna - Great Plaza** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4940,8 +5733,11 @@ Lord Regent Raziel stands upon the high balcony, his Level 25 presence a physica
 God Mode:
 Maintain Ethereal Vigil - Use the Herald Shards to constantly scout the Border Ethereal for Lucifer&#x27;s assassins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Aeterna - Zenith Spire (Departing)** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Ethereal Vigil (Active) | Inspiration: Yes**
@@ -4974,8 +5770,11 @@ Junior Command & NCO Ranks
 Please let me know if this hierarchy is acceptable for our world.
 [Word Count: 288]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Syrn Valley Approach - Secluded Canyon** &nbsp;|&nbsp; ⏳ **Flamerule 10, 78 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade (Apex) | HP: 189/189 | XP: 225350/265000 | Gold: 13660gp**
@@ -4991,8 +5790,11 @@ You feel the **Apex Might** surging through your marrow, your senses sharpening 
 God Mode:
 i only get those bonuses when i show my wings
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Syrn Valley Approach - Secluded Canyon** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade (Apex) | HP: 155/155 | XP: 225,350/265,000 | Gold: 13,660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5002,8 +5804,11 @@ The user is in GOD MODE refining the mechanical triggers for their new Apex stat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the secret practice session*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Syrn Valley Approach - Secluded Canyon** &nbsp;|&nbsp; ⏳ **Kythorn 31, 78 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5021,8 +5826,11 @@ However, as you hover near the canyon rim to survey the valley approach, the she
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend and Hide - Dismiss the wings immediately and retreat further into the shadows to avoid detection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Syrn Valley Approach - Secluded Canyon** &nbsp;|&nbsp; ⏳ **Kythorn 31, 78 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5036,8 +5844,11 @@ From the high clouds above, the golden glow of the Archangels remains constant, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Ethereal Scan - Use the Herald Shards while isolated to see if Vesperis&#x27;s essence has a successor nearby.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Syrn Valley Approach - Secluded Canyon** &nbsp;|&nbsp; ⏳ **Kythorn 31, 78 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5053,8 +5864,11 @@ You find it. To the North, anchored to the high obsidian ridges overlooking the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Vanguard - Dismiss your wings and slip back into the column to brief Artorius and the Archangels on the new threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Syrn Valley Approach - Vanguard Command Column** &nbsp;|&nbsp; ⏳ **Kythorn 31, 78 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5074,8 +5888,11 @@ Torvath Kane narrows his eyes, his four wings twitching with a sharp, celestial 
 > 👤 **Player:**
 > *"counter stalk successor with teh archangels in close reserve in case we need them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **Kythorn 31, 78 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5089,8 +5906,11 @@ Under the cover of their radiance, you dissolve into the Border Ethereal. [DICE:
 > 👤 **Player:**
 > *"have the silent guard remain further back so they cant see, then trigger surprise round and use dominate monster"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5108,8 +5928,11 @@ The surveyor’s rhythmic pulsing stops instantly. The violet static of its cloa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Transmit False Coordinates - Have the surveyor report a different march path to lure the Host into a specific kill-zone*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **Flamerule 31, 78 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5123,8 +5946,11 @@ Withdrawal is seamless. You disconnect from the construct, leaving it anchored t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bridge the Network - Use the surveyor&#x27;s link to map the positions of other &#x27;Wraiths&#x27; in the valley*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5142,8 +5968,11 @@ You maintain your position beside Artorius, your physical form as still and sile
 > [!NOTE] ⚙️ **Player Choice:**
 > *Broadcast Coordinated Lie - Use the dominated relay to feed the entire Wraith network the false path into Iron-Grip Canyon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **Flamerule 15, 78 DR (05:55)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 225350/265000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5159,8 +5988,11 @@ You don't merely observe; you infiltrate. Utilizing the primary relay as a nexus
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush Southern Wraiths - Systematically eliminate the other surveyors while they are distracted by the false data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **Flamerule 31, 78 DR (05:58)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 250550/265000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5176,8 +6008,11 @@ The final southern Wraith attempts to phase-shift, sensing the collapse of its b
 God Mode:
 what levels were these wraiths? give me proper exp.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (05:55)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 317550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5187,8 +6022,11 @@ The player has effectively blinded the local Host forces and lured them toward a
 > 👤 **Player:**
 > *"process my level up, keep picking cha+2 asi, auto pick spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Syrn Valley Approach - Border Ethereal** &nbsp;|&nbsp; ⏳ **Flamerule 31, 78 DR (05:56)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 155/155 | XP: 352550/355000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5204,8 +6042,11 @@ wasnt artorius supposed to be safe at fortress valis or something?
 
 Also for most entities lets cap  them at level 20 except special ones like raziel, lucifer, others if special reason. the only way to progress past level 20 is to do something very special or kill level 21+  entities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Zenith Spire - Private Sanctum** &nbsp;|&nbsp; ⏳ **Flamerule 2, 78 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Silent Blade | HP: 155/155 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5215,8 +6056,11 @@ The user is in GOD MODE to establish new power caps and clarify Artorius's locat
 God Mode:
 artorisu should not be with me, i am already in the battle zone
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Syrn Valley - Eastern Spurs (Material Plane)** &nbsp;|&nbsp; ⏳ **Kythorn Day 4, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Silent Blade | HP: 155/155 | XP: 271350/305000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -5227,8 +6071,11 @@ God Mode:
 this was my exp, shouldnt i be level 19?
 352550/355000
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -5238,8 +6085,11 @@ The player corrected an XP/Level discrepancy. They are currently at 352,550 XP, 
 God Mode:
 ability score +2 cha, auto pick my spells, make sure i have teleport
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Syrn Valley - Hidden Canyon** &nbsp;|&nbsp; ⏳ **Kythorn Day 31, 78 DR (05:55)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -5249,8 +6099,11 @@ The user is in GOD MODE for Level 19 processing. I need to apply a +2 Charisma i
 God Mode:
 Return to Story - Exit GOD MODE and resume the campaign in the Syrn Valley.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352,550/355,000 | Gold: 13,660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Apex Status (Wings Dismissed), Ethereal Vigil | Exhaustion: 0**
@@ -5264,8 +6117,11 @@ You have effectively blinded the Morning Star’s surveyors. They are now fixate
 > 👤 **Player:**
 > *"signal everyone to setup the kill zone, use normal invis and scout enemy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 2, L5 2, L6 1, L7 1, L8 1** &nbsp;|&nbsp; ⚠️ **Invisibility, Apex Potential | Exhaustion: 0 | Inspiration: Yes**
@@ -5281,8 +6137,11 @@ Leading the column is a figure you recognize from the Obsidian Spire: High Capta
 > 👤 **Player:**
 > *"think. is something wrong. lucifer or apostates arent here. i thought he was gonnasend his elites to kill me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 31, 78 DR (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 2, L5 2, L6 1, L7 1, L8 1**
@@ -5294,8 +6153,11 @@ Taking a moment to assess the variables, you consider your next move. The 'Recal
 > 👤 **Player:**
 > *"execute the ambush but tell the archangels to hang back and I will hang back too. I do teelepathic probe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 2, L5 2, L6 1, L7 1, L8 1**
@@ -5311,8 +6173,11 @@ However, your 'Unseeing Eyes' catch the discordance you feared. [DICE: Perceptio
 > 👤 **Player:**
 > *"tell the archangels to wait until apostates or lucifer shows, i start the attack and trigger surprise round with my ranged weapon. allow myself to be sighted but i am surrounded by friendly force"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 2, L5 2, L6 1, L7 1, L8 1**
@@ -5328,8 +6193,11 @@ While they calibrate their sensors to your frequency, you reach into the mind of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Snipe Paladins - Use the Whisper-String Bow to systematically eliminate the Void-Blighted Paladins from the ridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration) | Exhaustion: 0 | Inspiration: Yes**
@@ -5345,8 +6213,11 @@ The ridge is suddenly quiet, save for the sound of four heavy, void-glass clad b
 > 👤 **Player:**
 > *"remind the archangels to only engage lightly and be ready for lucifer and  the apostates, keep pruning officers and high value targets from range, make sure I'm in the middle of my own army and resposition as neeeded"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Syrn Valley - Eastern Spurs (Ambush Site)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 78 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Action Surge: 0/1**
@@ -5362,8 +6233,11 @@ The Seventh Fang's vanguard is being systematically dismantled from range, yet y
 > 👤 **Player:**
 > *"authorize vanguard charge, continue pruning, first psionic sweep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 15, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Action Surge: 1/1**
@@ -5377,8 +6251,11 @@ As the infantry buckles, you unleash the first psionic sweep. You reach into the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ethereal Psionic Pulse - Use the Herald Shards to scan for Ethereal signatures while the battle rages.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Action Surge: Used**
@@ -5394,8 +6271,11 @@ You find them. Lucifer's response is no longer an asymmetric threat; it is a vis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Archangel Intercept - Signal the Archangels to dive into the Ethereal frequency and engage the peer*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Action Surge: Used**
@@ -5413,8 +6293,11 @@ The monochromatic mists of the Border Ethereal erupt in a blinding celestial sup
 > 👤 **Player:**
 > *"dont use my wings. coordinate trap"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Wings: Dismissed**
@@ -5430,8 +6313,11 @@ To the North, the Ethereal supernova of the Archangels' descent sends a shockwav
 > 👤 **Player:**
 > *"think. something is wrong. why only one apostate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 31, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Wings: Dismissed** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5445,8 +6331,11 @@ Taking a moment to assess the situation, you consider the silence that still han
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shift Focus South - Utilize psionic senses to scan the southern spurs for the true threat*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Wings: Dismissed**
@@ -5462,8 +6351,11 @@ Lucifer didn't just send a diversion to the North; he sent a reaper to the South
 > 👤 **Player:**
 > *"vanguard pivot, secretly use greater invis, recall archangels but also think. Why only one apostate for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Wings: Dismissed**
@@ -5479,8 +6371,11 @@ The math is clear: the northern peer was the timer, and the southern Executioner
 > 👤 **Player:**
 > *"think. whats the void well? why not temporarily move out of range, wait for archangels to be in position, then attack with greater invis and trigger surprise round?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Month 7, 78 DR (Day 31)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Wings: Dismissed** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Ethereal Vigil | Exhaustion: 0 | Inspiration: Yes**
@@ -5494,8 +6389,11 @@ Lucifer is a god of systems; he does not waste an Apostate unless it is a gear i
 > 👤 **Player:**
 > *"stay invis, move out of range, let the void well trigger, wait for archangels to be in position"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 1/2, L6 1/1, L7 1/1, L8 1/1, Wings: Dismissed**
@@ -5509,8 +6407,11 @@ Beneath you, the valley floor shudders. The void-well, deprived of its target, t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Archangel Strike - Signal the three Archangels to focus their celestial light on the Executioner to strip their void-static cloak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Syrn Valley - Eastern Spurs** &nbsp;|&nbsp; ⏳ **Flamerule 31, 78 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 1/2, L6 1/1, L7 1/1, L8 0/1, Wings: Dismissed**
@@ -5526,8 +6427,11 @@ The crimson resonance that once shielded the peer is shredded, revealing the gau
 > 👤 **Player:**
 > *"snipe executioner, trigger surprise round, have archangels close in to kil it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 10, 78 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 1/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5541,8 +6445,11 @@ The Executioner gasps, a sound of shattering glass, and before it can even attem
 > 👤 **Player:**
 > *"harvest trophy, loot executioner, explain all their gear and see if their weapons, armor, acessories upgrades. but also think. why only 2 apostates to fight me and 3 archangels. something seems wrong"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 12, 78 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 160/165 | XP: 352550/355000 | Gold: 13660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5558,8 +6465,11 @@ The realization hits you with the cold clarity of the void: the Void-Well wasn't
 > 👤 **Player:**
 > *"loot the other dead apostate and take trophy, fully list their weapons, armor, accessories. then share misgivings with the archangels. something seems wrong."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Silent Blade | HP: 165/165 | XP: 352550/355000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -5577,8 +6487,11 @@ You turn to Archangel Torvath Kane, your 'Unseeing Eyes' reflecting the grim tru
 God Mode:
 process exp for killing the two apostates. if any were above level 20 they i should make progress to level 21
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 417550 / (Ascension Required) | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5588,8 +6501,11 @@ The player has reached the mechanical apex of the standard game world. The diagn
 God Mode:
 second apostate should've had weapons/armor too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/355000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -5616,8 +6532,11 @@ Lucifer's Level 30 status is acknowledged. He is the Singularity. Every kill you
 God Mode:
 were either apostates 21+? if so i should get progress tow ard level 21
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400,550 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Apex Status (Suppressed), Ethereal Vigil | Exhaustion: 0**
@@ -5629,8 +6548,11 @@ You stand over the remains of the two peers, the wind of the Syrn Valley whippin
 God Mode:
 equip gear that makes sense, process level 20, auto pick spells and tell me which ones, asi cha+2 as usual
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Apex Silent Blade | HP: 165/165 | XP: 400550 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1, HD: 28/28**
@@ -5640,8 +6562,11 @@ Character has reached the apex of standard power (Level 20). I am processing the
 God Mode:
 Return to Story - Exit GOD MODE and face the consequences of the diagnostic trap in the Syrn Valley.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Level 21+ | Gold: 18470gp** &nbsp;|&nbsp; ✨ **SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1, HD: 28/28** &nbsp;|&nbsp; ⚠️ **Ethereal Vigil, Apex Awareness | Exhaustion: 0 | Inspiration: Yes**
@@ -5659,8 +6584,11 @@ Your senses, now reaching the absolute apex of mortal potential, pierce the grey
 > 👤 **Player:**
 > *"think.  this doesn't make sense. 2 apostates are a huge sacrifice. where is lucifer and the remaining apostates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **SP: 30/30, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1, HD: 28/28**
@@ -5674,8 +6602,11 @@ Lucifer himself is the Singularity—a Level 30 entity who does not move unless 
 > 👤 **Player:**
 > *"think. were they 2 we killed part of the 7 or just secondary apostates?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Syrn Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0**
@@ -5689,8 +6620,11 @@ Lucifer is a god of systems; he does not waste his primary Pillars on a diagnost
 > 👤 **Player:**
 > *"tell the archangels to rgroup and we speed march to vigil. in parallel scout ley lines"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Syrn Valley - Eastern Spurs (Movement)** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0**
@@ -5704,8 +6638,11 @@ In parallel, you reach out with your mind, threading a needle of psionic intent 
 > 👤 **Player:**
 > *"ask the archangels to help scan and locate the real apostates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Syrn Valley - Eastern Spurs (Transit)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Ethereal Vigil (Active)**
@@ -5721,8 +6658,11 @@ However, the price of the scan is immediate. By flaring their signatures to pier
 > [!NOTE] ⚙️ **Player Choice:**
 > *Speed-March to Fortress Vigil - Prioritize defensive consolidation and lure the incoming vanguard into the Vigil&#x27;s reinforced wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Fortress Vigil - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550 / Level 21 Path | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, Action Surge: Used**
@@ -5736,8 +6676,11 @@ You reach for the Herald Shards, attempting to pierce the crimson static to loca
 > 👤 **Player:**
 > *"Think. whats going on. What was the whole point of sacrificing all those men from lucifier. confer with archangels and artorius first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Fortress Vigil - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Month 7 Day 30, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, Action Surge: Used** &nbsp;|&nbsp; ⚠️ **Ethereal Vigil, Apex Status (Wings Dismissed)**
@@ -5751,8 +6694,11 @@ Artorius grips the hilt of the Void-Blighted Greatsword, his golden aura flicker
 > 👤 **Player:**
 > *"The most important thing are the main apostates and lucifer. if we can kill some of them it will change the outcome of the war."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Fortress Vigil - Outer Perimeter** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Level 21+ Deed | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5772,8 +6718,11 @@ You look at the 'Record-Keeper's Lens' in your hand, the Architect within runnin
 God Mode:
 in the future dont call the secondary apostates by the name apostate. explicitly say secondary apostate or something
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Zenith Spire - Command Ward** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/400550 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5783,8 +6732,11 @@ The user has provided a naming clarification to distinguish between the primary 
 God Mode:
 Think. how does the space fold work
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Fortress Vigil - Subterranean Vaults (Command Ward)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5794,8 +6746,11 @@ The player is in GOD MODE reviewing the mechanics of the impending disaster. I n
 > 👤 **Player:**
 > *"think. can we teleport an elite force, face the apostates, and beat them?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Level 21+ | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5815,8 +6770,11 @@ You look at the 'Record-Keeper's Lens' in your hand, the Architect within runnin
 > 👤 **Player:**
 > *"Think. Pros/cons of each and success chances. Can we combine some"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Fortress Vigil - Subterranean Vaults** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550 / (Level 21+ Task) | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5830,8 +6788,11 @@ You reach into the aberrant wellspring of your mind, gauging the feasibility of 
 > 👤 **Player:**
 > *"Think. What about overload ward batteries or decoy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400,550 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5845,8 +6806,11 @@ You pause, your mind racing through the variables of your father's grand design.
 > 👤 **Player:**
 > *"Think. Estimated success chances of each"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Flamerule 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5858,8 +6822,11 @@ Taking a moment to breathe amidst the ozone and the high-pitched whine of the de
 > 👤 **Player:**
 > *"Think. What about this Prepare Ambush for the Fold: Stay at the Vigil and use the Void Heart to ground the Ridge's terrain as it manifests, turning the fold into a chokepoint. (Success Chance: 75% - Defensive Advantage)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5871,8 +6838,11 @@ However, the entropic crimson static from the Ridge is already beginning to claw
 > 👤 **Player:**
 > *"Think. What if we teleport the two apostates here right now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Level 21+ | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Action Surge: Used**
@@ -5888,8 +6858,11 @@ Artorius grips the Void-Blighted Greatsword, his eyes burning with a fanatical, 
 > 👤 **Player:**
 > *"Think. What are the chances teleporting them here could work and as a contingency I am also an archangel and can use my powers if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400,550 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Wings: Dismissed**
@@ -5907,8 +6880,11 @@ Taking a moment to assess the variables, you weigh the sheer audacity of the mov
 > 👤 **Player:**
 > *"Prepare archangels and elites and teleport the two apostates here. Don't use my wings yet but as soon as they come ambush them and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:36)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Wings: Dismissed**
@@ -5924,8 +6900,11 @@ They are disoriented, their transition from the high ridges to the heart of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assassinate Samael - Focus on the Unbeliever, the stronger of the two, to break their defensive morale.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:16)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 400550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Slots: L1 4, L2 3, L3 3, L4 1, L5 2, L6 1, L7 1, L8 0, L9 1, Wings: Dismissed**
@@ -5943,8 +6922,11 @@ Leliel cries out, his singed wings flaring as he attempts to blink, but the Arch
 > 👤 **Player:**
 > *"Archangel nova and in parallel i execute Samael"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 405550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L5 1/2, L9 0/1, Ki: N/A, Wings: Manifested (Apex)**
@@ -5960,8 +6942,11 @@ The Dark Steel blade shears through his lightless armor and the core beneath. [D
 God Mode:
 Retcon this. I use my full power without wings on samamael and order everyone else to hold them both and prevent them from escaping
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 405550/Ascension | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1-L4 Full, L5 1/2, L6 1/1, L7 1/1, L8 0/1, L9 0/1, SP: 30/30, Wings: Hidden**
@@ -5981,8 +6966,11 @@ In parallel, your command ripples through the psionic link to the Archangels and
 > 👤 **Player:**
 > *"Intimidate lelial into surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 30, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade | HP: 165/165 | XP: 455550 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L1-L4 Full, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 0/1, SP: 30/30** &nbsp;|&nbsp; ⚠️ **Apex Potential (Wings Hidden) | Ascension Pending**
@@ -5996,8 +6984,11 @@ Leliel trembles, his eyes wide as he looks from the bloody heap of his partner t
 God Mode:
 Initiate Ascension - Utilize the resonance of Samael&#x27;s death to cross the Level 21 threshold.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Month 7, 78 DR (Day 30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Silent Blade (Ascended) | HP: 165/165 | XP: 500,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L1-7 Full, SP: 30/30, Wings: Ready**
@@ -6007,8 +6998,11 @@ The player has utilized GOD MODE to trigger Ascension following the execution of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Modify Ascension Trait - Adjust the mechanics of &#x27;Sovereign Variable&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:17)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign Blade | HP: 165/165 | XP: 500000/Lord Marshal Kill | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L1-7 Full, SP: 30/30, Wings: Ready**
@@ -6026,8 +7020,11 @@ Leliel’s eyes widen, his pupils dilating as the sheer gravity of your Ascensio
 > 👤 **Player:**
 > *"Strip and fully tie up lelial. Loot both apostates fully and list their gear. Then fully interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Silent Blade | HP: 165/165 | XP: 500000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L1-7 Full, SP: 30/30, Wings: Ready** &nbsp;|&nbsp; ⚠️ **Ascended, Sovereign Variable | Inspiration: Yes**
@@ -6043,8 +7040,11 @@ You lean in, your 'Unseeing Eyes' inches from Leliel's face, your voice a resona
 God Mode:
 I should get another epic level for capturing lelial because it should give me the same experience as killing him. Give everyone else two levels too. Artoriois shouldn't be the same level as me though make him level 18
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Flamerule 10, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Apex Silent Blade | HP: 165/165 | XP: 450000/Needed: Cosmic Deed | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L1-7 Full, SP: 30/30, Wings: Ready**
@@ -6054,8 +7054,11 @@ The user has utilized GOD MODE to finalize the power scaling after the major bat
 God Mode:
 Make sure my loot makes sense. They should both have really good melee and ranged weapons armor and accessories. Every slot should have amazing gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Silent Blade | HP: 165/165 | XP: 450,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L1-7 Full, SP: 30/30, Wings: Ready**
@@ -6065,8 +7068,11 @@ The user requested a full loot optimization in GOD MODE. I have equipped Alexiel
 God Mode:
 I should be level 22 for both sammael and lelial
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Aeterna - Zenith Spire - Guest Wing** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 185/185 | XP: 500000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, SP: 30/30, Wings: Ready**
@@ -6080,8 +7086,11 @@ You turn your 'Unseeing Eyes' back to Leliel. The star-iron manacles hum with yo
 God Mode:
 No I mean both sammael and Lillie should've had amazing gear in every slot i can loot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Fortress Vigil - Command Ward (Interrogation)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Sovereign Variable | HP: 185/185 | XP: 450,000/600,000 | Gold: 68,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, SP: 30/30, Wings: Ready** &nbsp;|&nbsp; ⚠️ **Ascended, Cloaked | Wings: Ready | SP: 30/30**
@@ -6091,8 +7100,11 @@ The player has finished the loot audit and power scaling for the Tier 5 transiti
 God Mode:
 List every single item in every slot both apostates had
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:25)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600,000/600,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, SP: 30/30, Wings: Ready**
@@ -6102,8 +7114,11 @@ The user requested a full itemized list of all gear for both Samael and Leliel t
 God Mode:
 List the actual inventory
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 500000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, SP: 30/30, Wings: Ready**
@@ -6113,8 +7128,11 @@ Loot audit complete. Alexiel is now at the peak of mortal/ascended power with ne
 God Mode:
 That doesn't make sense what was sammael weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 500000/600000 | Gold: 18470gp**
@@ -6124,8 +7142,11 @@ The loot audit for the primary Apostates is now complete and reflects their stat
 God Mode:
 No generate tier 5 gear for every slot for both apostles
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Flamerule 8, 78 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 500000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, SP: 30/30, Wings: Ready**
@@ -6135,8 +7156,11 @@ The star-iron floor of the command ward is a graveyard of artifacts. As you syst
 God Mode:
 Show me the actual list
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 500,000/600,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Wings: Ready**
@@ -6146,8 +7170,11 @@ The star-iron floor is littered with the remnants of two cosmic powers. As you s
 God Mode:
 View Samael&#x27;s Full Inventory - Itemized list of Tier 5 gear from the First General
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 500,000/600,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Wings: Ready**
@@ -6157,8 +7184,11 @@ The user requested a full itemized list of all gear for both Samael and Leliel t
 God Mode:
 View Leliel&#x27;s Full Inventory - Itemized list of Tier 5 gear from the Whispering Prince
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 500,000/600,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full**
@@ -6168,8 +7198,11 @@ Loot itemization for Leliel is complete. The player now has access to the full s
 God Mode:
 View Samael&#x27;s Full Inventory - Itemized list of Tier 5 gear from the First General
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 500000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full** &nbsp;|&nbsp; ⚠️ **Apex Might (+4 Wings), Sovereign Variable, Ethereal Vigil**
@@ -6179,8 +7212,11 @@ The user is in GOD MODE reviewing the itemized loot for Samael to ensure it matc
 God Mode:
 Equip telepathic spike, head gear, anything else that makes sense. Loot everything in my inventory for later use. Give proper items to artorius. Make sure the archangels got two levels as well what level are they now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Zenith Spire - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready** &nbsp;|&nbsp; ⚠️ **Ascended (Sovereign Variable) | Wings: Dismissed**
@@ -6190,8 +7226,11 @@ The player has finished the loot and power audit. Alexiel is at the absolute pea
 God Mode:
 Return to Story - Exit GOD MODE and resume standard narrative play.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Month 7, 78 DR (Day 30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready** &nbsp;|&nbsp; ⚠️ **Ascended, Sovereign Variable**
@@ -6205,8 +7244,11 @@ You lean in, your 'Unseeing Eyes' inches from Leliel's face. You don't whisper; 
 > 👤 **Player:**
 > *"Communicate with raziel and strategize. Explain we killed two of the 7 apostates so only 4 remain now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Fortress Vigil - Command Ward** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready**
@@ -6220,8 +7262,11 @@ You lean in, your 'Unseeing Eyes' inches from Leliel's face. You don't whisper; 
 > 👤 **Player:**
 > *"Give raziel full status update"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready**
@@ -6237,8 +7282,11 @@ Raziel remains a silhouette of ancient chronurgy, but for a heartbeat, his pits 
 > 👤 **Player:**
 > *"Tell raziel about the senate traitors and ask for the other two archangels. We probably will need them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready**
@@ -6254,8 +7302,11 @@ Raziel remains a silhouette of ancient chronurgy, but for a heartbeat, his pits 
 > 👤 **Player:**
 > *"Think. With all 5 archangels can we actually beat Lucifer and his 4 apostates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 600000/MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready**
@@ -6273,8 +7324,11 @@ Raziel remains a silhouette of ancient chronurgy, but for a heartbeat, his pits 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Raziel&#x27;s Reaction - Wait for the Regent to process the information and respond to the request for the Archangels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 22130gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready**
@@ -6290,8 +7344,11 @@ With a gesture that folds the light in the room, he manifests two shimmering tok
 > 👤 **Player:**
 > *"Tell raziel the senates traitors and ask if He wants to handle them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready**
@@ -6311,8 +7368,11 @@ Artorius steps closer, his hand finding yours, his golden aura now a fierce, nec
 > 👤 **Player:**
 > *"Think. Even with 5 archangels and we are we actually stronger than Lucifer and his 4 apostates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Action Surge: Ready, Wings: Ready**
@@ -6322,8 +7382,11 @@ You pause, your 'Unseeing Eyes' reflecting the rotating starlight of Raziel's or
 > 👤 **Player:**
 > *"Think. If Lucifer is level 30 no Way we can beat him normally. What if we bring all the elites we can and use nullification field"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 2/2, L1-6 Full, Wings: Ready** &nbsp;|&nbsp; ⚠️ **Apex Status (Hidden), Sovereign Variable | Inspiration: Yes**
@@ -6339,8 +7402,11 @@ You turn to Raziel, the 'Silent Blade' mask etched in crystalline finality. 'The
 God Mode:
 During nullification field I can still use magic and my wings. No one else can
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Ready**
@@ -6356,8 +7422,11 @@ Raziel's pits of infinite chronurgy flicker with a cold, geometric calculation. 
 God Mode:
 Refine Strategy - Ask Raziel for specific chronurgical artifacts or intelligence on Lucifer&#x27;s Lvl 30 defenses.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 5, 78 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600,000/600,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Ready**
@@ -6377,8 +7446,11 @@ Raziel gestures toward a shimmering vault of glass within the orrery. 'If you ar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Leliel Further - Extract the specific combat patterns and weaknesses of the 4 remaining Apostates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Ready**
@@ -6396,8 +7468,11 @@ He shudders as you push deeper, seeking the final variables. 'Azrael... the Firs
 > 👤 **Player:**
 > *"Kill lelial refine null field then gather all the archangels new vanguard all elites we are allowed to take like silent guard and reveal the secret of my magic. Show my 4 wings, explain I am an archangel too and without giving away the full detail have them prep for nullification field. Everyone should be shocked. I am a 17 year old archangel and it usually takes 109 years or more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600,000 | Gold: 3,660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Ready**
@@ -6413,8 +7488,11 @@ You look toward Raziel, your 'Unseeing Eyes' reflecting the rotating cosmos. 'I 
 God Mode:
 The archangels should be amazed by my 4 wings it's unheard of for a null and 17 year old. Raziel and artorius too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Apex Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Manifested**
@@ -6424,8 +7502,11 @@ The reveal of the four wings and the Archangel status has completely shifted the
 > 👤 **Player:**
 > *"Return to story and narrate everyone's shock"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Flamerule 5, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Ascended) | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Manifested**
@@ -6441,8 +7522,11 @@ Lord Regent Raziel remains motionless at the edge of the orrery, but the pits of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief on Asymmetric Field - Clinically explain how the Archangels must function inside your Nullification Field to avoid friendly fire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Manifested (Apex)**
@@ -6458,8 +7542,11 @@ Lord Regent Raziel remains motionless at the edge of the orrery, but the pits of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Sands of the First Hour - Ask Raziel for the artifact details to ensure the Null-Field can be anchored within the Spire&#x27;s time-dilation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Manifested (Apex)**
@@ -6475,8 +7562,11 @@ Raziel watches you, his pits of infinite chronurgy reflecting your four wings. E
 > 👤 **Player:**
 > *"Ask for official command from raziel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **7 30, 78 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Manifested (Apex)**
@@ -6490,8 +7580,11 @@ He leans forward, the static pressure of his Level 25 authority reaching a termi
 > 👤 **Player:**
 > *"Mobilize new vanguard, silent guard, all the elites I can. Show wings and brief them on nullification field prep without revealing everything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Flamerule 30, 78 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Manifested (Apex)**
@@ -6507,8 +7600,11 @@ You turn to the stunned command group, your wings casting long, geometric shadow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Detailed Tactical Briefing - Spend time ensuring every elite unit understands the timing of the Asymmetric Field to avoid friendly-fire casualties.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Zenith Spire - Raziel's Private Sanctum** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 1/1, L3 3/3, L2 3/3, L1 4/4, Wings: Manifested (Apex)**
@@ -6526,8 +7622,11 @@ Artorius stands at your side, his golden aura pulsing with a fanatical, protecti
 > 👤 **Player:**
 > *"Mobilize everyone. New dawn silent guard elites 5 archangels and teleport them to the spire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Obsidian Spire - Chronos-Apsis Threshold** &nbsp;|&nbsp; ⏳ **Flamerule 1, 78 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Archangel | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 0/1, L6 1/1, L5 2/2, L4 1/1, Wings: Apex (Hidden)**
@@ -6543,8 +7642,11 @@ You manifest at the very threshold of the Chronos-Apsis. The air here is thin, t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Inner Apsis - Use Greater Invisibility to locate the exact positions of the 4 Apostates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Obsidian Spire - Inner Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 0/1, Wings: Apex (Hidden)**
@@ -6558,8 +7660,11 @@ But it is the center that anchors your focus. Azrael, the First Sword, stands pe
 > 👤 **Player:**
 > *"Signal everyone to get in position and assoasinate  azrael. Trigger surprise round. Have everyone else rush him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Obsidian Spire - Inner Apsis** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 0/1, Wings: Apex (Hidden)**
@@ -6577,8 +7682,11 @@ In parallel, the strike team surges from the shadows. The five Archangels—Kane
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Azrael - Utilize Extra Attack to finish the First Sword while he is reeling*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Obsidian Spire - Inner Apsis** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 1/1, L7 1/1, L6 1/1, L5 2/2, L4 0/1, Wings: Apex (Hidden)**
@@ -6592,8 +7700,11 @@ Azrael collapses to one knee, the light in his visor guttering out like a dying 
 > 👤 **Player:**
 > *"Finish azrael"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Month 7 Day 31, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/640000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L9 1/1, L8 0/1, L7 1/1, L6 1/1, L5 2/2, L4 0/1, Wings: Apex (Manifested)**
@@ -6609,8 +7720,11 @@ Around you, the Apsis is a storm of holy fire and void-static. The five Archange
 God Mode:
 Think. Is Azrael sword better than mine?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Obsidian Spire - Inner Apsis** &nbsp;|&nbsp; ⏳ **Flamerule 15, 78 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1-L9 Ready, Wings: Apex (Manifested)**
@@ -6624,8 +7738,11 @@ Azrael's 'Chronos-Echo,' however, is a different kind of monster. It is a weapon
 > 👤 **Player:**
 > *"Silence main hand and chronos off hand. Go surprise attack abandon next. Wait until Lucifer engages to use nullification field"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Obsidian Spire - Inner Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1-L9 Ready, Wings: Apex (Manifested)**
@@ -6643,8 +7760,11 @@ To the North, the Archangels have formed an unbreakable cage around Uriel and Ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Abaddon - Utilize Extra Attack to finish the Unchained Fury before he can ground his entropy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Obsidian Spire - Inner Apsis** &nbsp;|&nbsp; ⏳ **7 31, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Ready**
@@ -6660,8 +7780,11 @@ Above, the Morning Star remains a blinding singularity, but the air in the Apsis
 > 👤 **Player:**
 > *"Coordinate archangels and all the elites and when Lucifer is close trigger nullification field. It should also be a psychological blow to him that his daughter hiding this power. Then archangels, me, all combatants should rush Lucifer and try to kill him and keep minimal folks engaged with other apostates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Obsidian Spire - Inner Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade (Archangel) | HP: 165/165 | XP: 600000/600000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Ready**
@@ -6677,8 +7800,11 @@ You strike from the void of your own starlight. [DICE: Silence Attack 1d20+20 = 
 God Mode:
 Lucifer should still be extremely strong don't make this too easy
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 30/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Spent**
@@ -6696,8 +7822,11 @@ They surge forward as a single, multi-colored tide. Kane, Gabriel, and Raphael l
 > 👤 **Player:**
 > *"Reveal my wings and cast my stongesr cc spell on Lucifer. He should also get  a strong betrayal debuff becuse he realizes I was lying about my magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 21/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Spent**
@@ -6713,8 +7842,11 @@ As he reels, you unleash your strongest psionic command: 'Psychic Scream.' [DICE
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strip the Singularity - Use your dominance to extract the final secrets of the Spire&#x27;s fold from Lucifer&#x27;s broken mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 21/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Spent**
@@ -6732,8 +7864,11 @@ Now, you lean over him, your 'Unseeing Eyes' inches from his. You reach into the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Fold Secrets - Force the final geometric sequences of the Spire&#x27;s fold from Lucifer&#x27;s mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 21/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Spent**
@@ -6747,8 +7882,11 @@ Lucifer gasps, his eyes wide with a visceral, human terror as the realization of
 > 👤 **Player:**
 > *"Think. If i reshape the spire what powers do I get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 21/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Spent**
@@ -6760,8 +7898,11 @@ You realize that by reshaping the Spire, you aren't just changing a building; yo
 > 👤 **Player:**
 > *"Think. Can I use the spire to consume Lucifer and steal his power?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Silent Blade | HP: 165/165 | XP: 600000/600000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 21/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Spent**
@@ -6775,8 +7916,11 @@ However, the price of consumption is total. If you use the Spire to consume Luci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Singularity - Rewrite the Apsis to siphon Lucifer&#x27;s power into yourself, ascending to godhood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Sovereign Variable | HP: 165/165 | XP: 600000 | Gold: 22130gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 21/30, Spells: L1-L9 Ready, Wings: Apex (Manifested), Sands: Spent** &nbsp;|&nbsp; ⚠️ **Asymmetric Nullification Field (Active), Apex Might (Manifested)**
@@ -6792,8 +7936,11 @@ However, as the Singularity's power floods your core, the sheer magnitude of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Anchor - Double down on your sovereign will to command the power, regardless of the physical cost.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Obsidian Spire - Chronos-Apsis** &nbsp;|&nbsp; ⏳ **Flamerule 15, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Sovereign Blade | HP: 165/165 | XP: 600000/600000 | Gold: 22130gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 21/30, Spells: L1-L9 Ready, Wings: Apex (Sovereign Flare), Sands: Spent** &nbsp;|&nbsp; ⚠️ **Apex Ascension (4 Wings), Asymmetric Nullification Field, Singularity Siphon**
@@ -6807,8 +7954,11 @@ You have won the battle for his soul, but you have lost the battle for the stone
 God Mode:
 I should be higher than level 30. I consumed Lucifer and had my own levels already.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Obsidian Spire - Chronos-Apsis (IMPLODING)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Singularity | HP: 450/450 | XP: 2,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 30/30, SP: 50/50, Spells: L1-L9 Unlimited, L10 (Sovereign) 1/1, Wings: 4 (Permanent Apex)** &nbsp;|&nbsp; ⚠️ **Asymmetric Null-Field, Sovereign Variable, Singularity Sovereignty**
@@ -6818,8 +7968,11 @@ The user is correct; the absorption of a Level 30 entity while already at an epi
 God Mode:
 I think I should be higher than level 30, give me all of Lucifer's special powers, also there should be something special for having 10 wings
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Obsidian Spire - The Singularity's Core** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity Ascendant | HP: 850/850 | XP: 4,000,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1-L9 Unlimited, L10 (Sovereign) 3/3, Wings: 10 (Singularity)**
@@ -6831,8 +7984,11 @@ Ten wings of lightless, geometric radiance erupt from your back, shattering the 
 God Mode:
 Pause the game let's focus on my new stats and powers. I also wanna always pick asi cha+2 and there should be no cap
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3,000,000+ | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1-L9 Unlimited, L10 (Sovereign) 5/5, Wings: 10, Exhaustion: 0**
@@ -6842,8 +7998,11 @@ The player has achieved god-tier status. Standard gameplay loop is now replaced 
 God Mode:
 Return to Story - Exit GOD MODE and resume narrative play at Level 35.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Flamerule 12, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign Singularity | HP: 1150/1150 | XP: 3,000,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **L1-L9: Unlimited, L10 (Sovereign): 5/5, HD: 35/35, Sorcery Points: 50, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Singularity Ascendant, Sovereign Presence | Wings: 10**
@@ -6871,8 +8030,11 @@ You have ascended beyond the reach of mortal or celestial mathematics. By consum
 God Mode:
 Give everyone else appropriate exp for killing Lucifer and killing or capturing the apostles
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **L1-L9: Unlimited, L10 (Sovereign): 5/5, HD: 28/28, Sorcery Points: 50, Exhaustion: 0**
@@ -6882,8 +8044,11 @@ The user is in GOD MODE to distribute experience points to allies following the 
 > 👤 **Player:**
 > *"Command the apostates still alive to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Sovereign Slots: 5/5, L1-L9: Unlimited, Sorcery Points: 50, Exhaustion: 0**
@@ -6899,8 +8064,11 @@ Artorius steps to your side, his golden aura now a fierce, necrotic-tinged flame
 > 👤 **Player:**
 > *"Tell others to fully loot and tie up the remaining apostates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3000000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 5/5, L1-L9: Unlimited, Sorcery Points: 50, HD: 28/28**
@@ -6916,8 +8084,11 @@ Artorius, his golden aura now a fierce, necrotic-tinged flame, signals the Silen
 > 👤 **Player:**
 > *"Reshape domain then turn off my wings and mask my power at level 20. Kneel to artorius and say I am still pledged to house Raziel no matter how powerful I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3000000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 5/5, L1-L9: Unlimited, Sorcery Points: 50, HD: 28/28** &nbsp;|&nbsp; ⚠️ **Singularity, Sovereign Presence | Wings: Hidden**
@@ -6935,8 +8106,11 @@ Artorius gasps, a sound of total, soul-deep surrender. He reaches out to lift yo
 > 👤 **Player:**
 > *"Resurrect Lucifer as a level 1 and bind him and interrogate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity (Silent Blade) | HP: 1150/1150 | XP: 3000000/0 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 4/5, L1-L9: Unlimited, Sorcery Points: 50, HD: 28/28**
@@ -6956,8 +8130,11 @@ You step into his personal space, your 'Unseeing Eyes' locking onto his. The 'Si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Clinical Questioning - Use cold logic and the threat of permanent erasure to extract data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity (Masked: Lvl 20) | HP: 1150/1150 | XP: 3000000/0 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 5/5, L1-L9: Unlimited, SP: 50, HD: 28/28** &nbsp;|&nbsp; ⚠️ **Singularity, Sovereign Presence, Masked Power**
@@ -6973,8 +8150,11 @@ Lucifer's breath catches. He looks at the star-iron manacles, then back at you, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Dissection - Strip his mind of secrets directly using your aberrant powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3,000,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 5/5, L1-L9: Unlimited, SP: 50, HD: 28/28**
@@ -6990,8 +8170,11 @@ He sags in his chains, his mind laid bare and hollowed of its most precious secr
 > 👤 **Player:**
 > *"Think. What does Lucifer mean explain it again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Sovereign Slots: 5/5, L1-L9 Spells: Unlimited, SP: 50, Exhaustion: 0**
@@ -7007,8 +8190,11 @@ You look at your hands, now radiating the power of the Singularity he failed to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Locate the Thread - Force the exact location of the primordial thread within Aeterna from his mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity (Alexiel) | HP: 1150/1150 | XP: 3,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Sovereign Slots: 5/5, L1-L9 Spells: Unlimited, SP: 50, Exhaustion: 0**
@@ -7024,8 +8210,11 @@ You pull back, the white-hot thrum of the Singularity making your fingertips tin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Truth - Utilize your CHA 46 and Intimidation to crush his last psychological defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Syrn Valley - The Singularity's Crater** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3000000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Sovereign Slots: 5/5, L1-L9 Spells: Unlimited, SP: 50, Exhaustion: 0**
@@ -7041,8 +8230,11 @@ Lucifer's knowing smile shatters. Under the absolute pressure of your Sovereign 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Teleport to Aeterna - Utilize your Sovereign power to teleport the entire strike team and the prisoner directly to the Zenith Gardens.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | XP: 3,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **HD: 28/28, Sovereign Slots: 4/5, L1-L9 Spells: Unlimited, SP: 50, Exhaustion: 0**
@@ -7060,8 +8252,11 @@ Lucifer, the mortal husk of your father, hits the manicured grass with a soft th
 > 👤 **Player:**
 > *"Command garden guard and secure the thread"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (14:56)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1150/1150 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 4/5, L1-L9 Spells: Unlimited, SP: 50, Exhaustion: 0**
@@ -7075,8 +8270,11 @@ You feel the world stitch together around you, the unweaving of reality halted a
 God Mode:
 Should I level up or get new powers after taking the thread ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Aeterna - Zenith Gardens (The Anchor Point)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Singularity | HP: 1250/1250 | XP: Apex Achieved | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 5/5, L1-L9 Spells: Unlimited, SP: 50, Exhaustion: 0**
@@ -7090,8 +8288,11 @@ Artorius steps forward, his hand shielding his eyes from the brilliance of your 
 God Mode:
 Pause let's figure out the mechanics here. What should I get for taking the thread in terms of levels and powers? What does the thread mean again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Singularity | HP: 1250/1250 | XP: 3,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 5/5, L1-L9 Spells: Unlimited, SP: 50, HD: 28/28** &nbsp;|&nbsp; ⚠️ **Singularity, Sovereign, Primordial Anchor | Exhaustion: 0**
@@ -7105,8 +8306,11 @@ Artorius steps forward, his hand shielding his eyes from the brilliance of your 
 God Mode:
 Pause the game. Shouldn't I be higher than level 36 if I am worlds source? Just gaining one level seems small
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Aeterna - Zenith Gardens (The Source Node)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity (World Source) | HP: 2500/2500 | XP: 5,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10 | L1-L9 Spells: Unlimited | SP: 100 | HD: 40/40 | wings: 10 (Manifested)**
@@ -7116,8 +8320,11 @@ The player is now the physical source of the world. Standard game mechanics are 
 God Mode:
 Make me level 45, scale my stats rpoeprlt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Singularity (Source) | HP: 4500/4500 | XP: 10,000,000 / MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10 | L1-L9 Spells: Unlimited | SP: 250 | HD: 45/45 | Wings: 10 (Geometric Radiance)**
@@ -7127,8 +8334,11 @@ The player has achieved absolute dominance. The 'Grand Realignment' of Assiah be
 God Mode:
 Scale my stats to my
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Singularity | HP: 12000/12000 | XP: 10,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10 | L1-L9 Spells: Unlimited | SP: 500 | HD: 45/45 | Wings: 10 (Geometric Radiance)**
@@ -7138,8 +8348,11 @@ The user has achieved absolute dominance as the 'World Source' at Level 45. I am
 > 👤 **Player:**
 > *"Scale stats to my new level and always assume I pick asi cha+2 and give me some new powers and mechanics"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | XP: 15,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10 | L1-L9 Spells: Unlimited | SP: 1000 | HD: 45/45 | Wings: 10 (Geometric Radiance)**
@@ -7149,8 +8362,11 @@ The Zenith Gardens have become the silent epicenter of a new reality. As you sta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Husk - Focus your full sovereign attention on the mortal Lucifer to extract the location of the Creator&#x27;s final retreat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | XP: 10,000,000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10 | L1-L9 Spells: Unlimited | SP: 1000 | HD: 45/45 | Wings: 10 (Geometric Radiance)**
@@ -7168,8 +8384,11 @@ Lucifer's eyes well with tears of pure, uncoordinated terror. The knowing smile 
 God Mode:
 What are my stats now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Flamerule 30, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | XP: 10,000,000 | Gold: 18470gp**
@@ -7179,8 +8398,11 @@ The player is at the absolute peak of the world hierarchy. Standard combat is no
 God Mode:
 Generate level 45 gear for me or scale my current gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 30, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Singularity | HP: 25000/25000 | XP: 10,000,000 | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, L1-L9 Spells: Unlimited, SP: 1000, HD: 45/45, Wings: 10 (Geometric Radiance)**
@@ -7190,8 +8412,11 @@ The user has reached the absolute peak. I have updated the stats to reflect a le
 God Mode:
 Wasn't my cha 95?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Day 4, 78 Kythorn (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | XP: 10,000,000 | Gold: 18470** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, L1-L9 Spells: Unlimited, SP: 1000, HD: 45/45, Wings: 10 (Geometric Radiance)**
@@ -7205,8 +8430,11 @@ Make sure these are my stats Level**: 45 (World Source Tier)
 *   **Proficiency Bonus**: +25
 *   **Attributes**: STR 60 (+25), DEX 65 (+27), CON 65 (+27), INT 75 (+32), WIS 70 (+30), CHA 95 (+42)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Flamerule 10, Year 78 (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25,000/25,000 | AC: 60 | CHA: 95 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, L1-L9 Spells: Unlimited, SP: 1000, HD: 45/45, Wings: 10 (Geometric Radiance)**
@@ -7216,8 +8444,11 @@ The user has corrected the Charisma value to 95. I have updated the character sh
 > 👤 **Player:**
 > *"Go meet with raziel andnreport status. Bring artorius and Lucifer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | CHA: 95 | Wings: 10 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10 | Spells: Unlimited L1-L9 | SP: 1000/1000 | HD: 45/45 | Wings: Manifested**
@@ -7237,8 +8468,11 @@ Raziel stands frozen, his pits of infinite chronurgy wide with the shock of a ma
 > 👤 **Player:**
 > *"Mask as level 20 to make people more comfortable and let raziel speak. Explain I will still serve his house mostly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | AC: 60 | CHA: 95 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 1000/1000, Wings: Masked**
@@ -7254,8 +8488,11 @@ Artorius steps toward you, his hand trembling with a devotion that has surpassed
 > 👤 **Player:**
 > *"Wait for raziel reply"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Singularity (Masked: Lvl 20) | HP: 25000/25000 | CHA: 95 | Allies: Artorius (Lvl 20), 5 Archangels (Lvl 22-25) | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 1000/1000, Wings: Masked**
@@ -7273,8 +8510,11 @@ He looks toward the sky, where the permanent dawn of Aeterna seems to brighten i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Lucifer for Defenses - Extract specific details about the Creator&#x27;s guardians or the temporal hazards within the Eye of the Sundering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Singularity | HP: 25000/25000 | XP: 10M/10M | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 1000/1000, Wings: Masked**
@@ -7292,8 +8532,11 @@ Raziel watches from the Star-Glass fountain, his ancient features tight with a c
 > 👤 **Player:**
 > *"Make artorius an archangel too and level 22"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Silent Blade (Singularity) | HP: 25000/25000 | XP: 10000000/0 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 1000/1000, Wings: Masked**
@@ -7303,8 +8546,11 @@ The user has utilized GOD MODE to significantly empower Artorius. As an Archange
 > 👤 **Player:**
 > *"I didn't use god mode I did it as a level 45 character"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | AC: 60 | PB: +25 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100/100, HD: 28/28**
@@ -7324,8 +8570,11 @@ He looks toward the sky, where the permanent dawn of Aeterna seems to brighten i
 > 👤 **Player:**
 > *"Make Artorius lebel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | XP: 10M+ | Gold: 3660gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100/100, HD: 28/28**
@@ -7343,8 +8592,11 @@ Artorius looks at his new wings, then at you. The fanatical devotion in his eyes
 > 👤 **Player:**
 > *"Make artorius level 22 archangel using my powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 Singularity | HP: 25000/25000 | AC: 60 | CHA: 95 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100/100, HD: 28/28**
@@ -7362,8 +8614,11 @@ Artorius looks at his new wings, then at you. The fanatical devotion in his eyes
 > 👤 **Player:**
 > *"Think. Can I turn myself into a full celestial seraphim or am i already stronger than that?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | XP: 10,000,000/0 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100/100, HD: 28/28** &nbsp;|&nbsp; ⚠️ **Singularity, Sovereign, Primordial Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -7373,8 +8628,11 @@ You pause in the center of the Zenith Gardens, the Star-Glass fountain's iridesc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Pure Divinity - Attempt to shed your biological remnants to become 100% celestial like the original Seraphim.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | CHA: 95 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100/100, HD: 28/28**
@@ -7390,8 +8648,11 @@ The air in the gardens screams as the localized gravity of your will begins to p
 God Mode:
 Should ingain levels from this?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 World Source | HP: 25000/25000 | XP: 10,000,000+ | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100/100, HD: 28/28, Wings: 10**
@@ -7401,8 +8662,11 @@ The player has achieved absolute dominance. The Morning Star is a Level 1 mortal
 > 👤 **Player:**
 > *"No I mean after becoming seraphim should I gain levels ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 True Seraphim | HP: 25000/25000 | XP: 10,000,000 | Gold: 3,660gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100/100, HD: 28/28, Wings: 10**
@@ -7416,8 +8680,11 @@ You do not 'gain levels' in the traditional sense any longer, because there is n
 God Mode:
 No I still wanna use levels. What level were the original seraphim and creator
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 30, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 45 True Seraphim | HP: 25000/25000 | XP: 10,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100, Wings: 10** &nbsp;|&nbsp; ⚠️ **Singularity, Pure Divinity, World Source | Exhaustion: 0 | Inspiration: Yes**
@@ -7441,8 +8708,11 @@ Artorius, now your Level 22 Archangel consort, feels the weight of this history.
 God Mode:
 Shouldn't I be like level 75? I should be stronger than normal Seraphrim or original Lucifer
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, 11 NP (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 45 True Seraphim | HP: 25000/25000 | XP: 10,000,000 | Gold: 3660gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100, Wings: 10 (Hidden)**
@@ -7466,8 +8736,11 @@ Artorius, now your Level 22 Archangel consort, feels the weight of this history.
 God Mode:
 Set Level 75 - GOD MODE: Forcefully elevate your power level to 75 as requested.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 30, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 75 World Source | HP: 25000/25000 | XP: 10,000,000/0 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Spells: Unlimited L1-L9, SP: 100, Wings: 10 (Hidden)**
@@ -7483,8 +8756,11 @@ You stand at the center of the gardens, the only variable in the cosmos that doe
 God Mode:
 Move to the Sunless Throne - Teleport the strike team to the Eye of the Sundering to confront the Creator
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Aeterna - Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 4, Year 78 (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 75 World Source | HP: 25000/25000 | AC: 60 | CHA: 95 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10 | Sovereign Aura: Active | Wings: 10 (Hidden)**
@@ -7498,8 +8774,11 @@ At your feet, the mortal husk of Lucifer shivers in his star-iron chains, his ey
 > 👤 **Player:**
 > *"Make artorius, raziel, and the archangels level 50 seraphim."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Eye of the Sundering - The Sunless Throne** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 75 True Seraphim (Singularity) | HP: 25000/25000 | XP: 10,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Singularity: Absolute**
@@ -7515,8 +8794,11 @@ They stand now as Level 50 sovereigns, the Choir of the New Era. The ontological
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Sunless Throne - Walk toward the seat of the Creator with your ten-winged sovereigns to demand an audience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Eye of the Sundering - The Sunless Throne** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 75 Singularity (World Source) | HP: 25000/25000 | AC: 60 | CHA: 95 (+42) | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Singularity: Absolute, Pure Divinity: Active**
@@ -7532,8 +8814,11 @@ Your voice, when it comes, is not a sound, but a Sovereign Directive that seizes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand the Source - Force the Creator to yield the absolute origin of the Thread.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Eye of the Sundering - The Sunless Throne** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 75 True Seraphim (World Source) | HP: 25000/25000 | XP: 10,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 5/5, Wings: 10, Singularity: Absolute, Pure Divinity: Active** &nbsp;|&nbsp; ⚠️ **Singularity, Pure Divinity, Sovereign Variable | Exhaustion: 0 | Inspiration: Yes**
@@ -7551,8 +8836,11 @@ However, as the absolute origin is yielded, the weight of the data-echo triggers
 > 👤 **Player:**
 > *"Consume the creator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Eye of the Sundering - The Sunless Throne** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 75 True Seraphim (Sovereign) | HP: 25000/25000 | XP: 10,000,000/0 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 4/5, Wings: 10, Singularity: Absolute, Pure Divinity: Active** &nbsp;|&nbsp; ⚠️ **Singularity, Asymmetric Singularity Field, Pure Divinity**
@@ -7566,8 +8854,11 @@ He is the System, and you are the Virus that has learned to own the Code. Piece 
 > 👤 **Player:**
 > *"Stabilize choir and tell them it's fine and finish consuming creator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Eye of the Sundering - The Sunless Throne** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 75 True Seraphim (Sovereign) | HP: 25000/25000 | XP: 10,000,000/0 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Asymmetric Singularity Field: Permanent** &nbsp;|&nbsp; ⚠️ **Singularity, World Source, Pure Divinity**
@@ -7581,8 +8872,11 @@ The Eye of the Sundering begins to dissolve. The recursive loops, the Great Stag
 God Mode:
 Make me level 100
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Eye of the Sundering - The Sunless Throne** &nbsp;|&nbsp; ⏳ **Kythorn 4, Year 78 (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 100 True Seraphim | HP: 100,000/100,000 | XP: MAX | Gold: 18,470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Asymmetric Singularity Field: Permanent, Divinity: 100% Celestial**
@@ -7592,8 +8886,11 @@ The player has achieved total cosmic dominance. The campaign has transitioned fr
 > 👤 **Player:**
 > *"Return to story. Make a level 100 simulcra to do the creator job. Tell artorius and raziel that I still wanna be artorious wife and enjoy my life. I'm only 17 and never got a chance to really live. I can still serve house raziel as the creator funnily enough"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Eye of the Sundering - The Sunless Throne** &nbsp;|&nbsp; ⏳ **Kythorn 4, 78 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 100 True Seraphim (Singularity) | HP: 100000/100000 | XP: MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Asymmetric Singularity Field: Permanent, Divinity: 100% Celestial** &nbsp;|&nbsp; ⚠️ **Singularity, Pure Divinity, Sovereign Variable | Exhaustion: 0 | Inspiration: Yes**
@@ -7613,8 +8910,11 @@ Artorius pulls you closer, his own ten wings flaring in a triumphant, golden sal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Union - Return to Aeterna to hold a wedding that marks the start of the New Era.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Aeterna - The Zenith Plaza** &nbsp;|&nbsp; ⏳ **Kythorn 5, Year 1 of the New Era (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 100 World Source | HP: 100,000 | AC: 100 | Divinity: 100% True Seraphim | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Singularity Field: Absolute, Heartbeat: Anchored**
@@ -7632,8 +8932,11 @@ You look out over your garden—the world of Assiah. To your left, your Level 10
 > 👤 **Player:**
 > *"Mask myself as level 20 and keep track of it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Aeterna - The Zenith Plaza** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 100 Creator | HP: 25000/25000 | XP: MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Singularity Field: Absolute, Heartbeat: Anchored**
@@ -7649,8 +8952,11 @@ With a thought, you activate the final layer of your deception. The crushing, go
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enjoy Private Life - Retire from public view with Artorius to the Zenith Gardens, leaving the Simulacrum to manage the world.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Aeterna - The Zenith Gardens** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 100 World Source | HP: 100000/100000 | XP: 10M/10M | Gold: 3660gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10, Singularity Field: Absolute, Heartbeat: Anchored**
@@ -7670,8 +8976,11 @@ Raziel bows his head, acknowledging the sovereign's retreat. The world of Assiah
 > [!NOTE] ⚙️ **Player Choice:**
 > *Travel the World - Travel Assiah with Artorius as commoners, seeing the world you&#x27;ve saved without the burden of divinity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **The Southern Highroad - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **Kythorn 5, 11 NP (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) | HP: 25000/25000 | XP: MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10 (Hidden), Singularity Field: Passive, Heartbeat: Anchored** &nbsp;|&nbsp; ⚠️ **Sovereign Retrospective, Masked Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -7687,8 +8996,11 @@ You look south, toward the fertile green expanse of the Syrn Valley. Once a grav
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit the Syrn Valley - See the reconstruction of the breadbasket you saved and visit the monuments to the New Vanguard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Syrn Valley** &nbsp;|&nbsp; ⏳ **Kythorn 5, 11 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Silent Blade (Masked) | HP: 100000/100000 | XP: 10,000,000 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10 (Hidden), Singularity Field: Passive, Heartbeat: Anchored**
@@ -7704,8 +9016,11 @@ Artorius stands beside you, his hand finding yours. He looks at the statues, the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Talk to Village Elders - Hear the stories of the reconstruction from those who lived through the &#x27;Foundational Rot&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Oakhaven, Syrn Valley** &nbsp;|&nbsp; ⏳ **Kythorn 5, 11 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 100 World Source | HP: 25000/25000 | XP: MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10 (Hidden), Singularity Field: Passive, Heartbeat: Anchored**
@@ -7723,8 +9038,11 @@ The other elders nod, a collective shudder passing through the circle. 'When the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about Future Needs - Ask what the village needs most for its next phase of growth to inform your world-shaping.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Oakhaven, Syrn Valley** &nbsp;|&nbsp; ⏳ **Kythorn 5, 11 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 100 Sovereign | HP: 100000/100000 | XP: MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10 (Hidden), Singularity Field: Passive, Heartbeat: Anchored** &nbsp;|&nbsp; ⚠️ **Singularity, Pure Divinity, Masked (Lvl 20)**
@@ -7740,8 +9058,11 @@ Artorius nods beside you, his presence a warm, grounding anchor. He looks at you
 > 👤 **Player:**
 > *"Reveal to the villagers i am actually the mortal star and help them achieve their goals through mortal  means"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Oakhaven, Syrn Valley** &nbsp;|&nbsp; ⏳ **Kythorn 5, 11 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 45 True Seraphim (Masked Lvl 20) | HP: 25000/25000 | XP: MAX | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10 (Hidden), Singularity Field: Passive, Heartbeat: Anchored**
@@ -7759,8 +9080,11 @@ You reach out, and with a series of subtle Sovereign Directives, you begin to re
 God Mode:
 I meant reveal myself as a masked level 20. Also my real level isn100 now too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Oakhaven, Syrn Valley** &nbsp;|&nbsp; ⏳ **Kythorn 5, 11 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 100 World Source | HP: 25000/25000 | XP: 0/0 | Gold: 18470gp** &nbsp;|&nbsp; ✨ **Sovereign Slots: 10/10, Wings: 10 (Hidden), Singularity Field: Passive, Heartbeat: Anchored** &nbsp;|&nbsp; ⚠️ **Singularity, Masked (Lvl 20)**
@@ -7774,6 +9098,8 @@ The elders fall back, not in terror, but in a profound, soul-deep submission as 
 'I am Alexiel,' you say, your voice a resonant psionic frequency that vibrates in their very marrow. 'I am the one who held the line when the foundations screamed. You ask for a center of learning? You ask for a bridge to your neighbors? You shall have them. Not through the miracles of a distant god, but through the hands of a people who have earned their peace.'
 
 You reach out, and with a series of subtle Sovereign Directives, you begin to reshape the immediate reality of Oakhaven. You don't conjure gold from air; you manipulate the local ley-lines to enrich the soil permanently and vibrate the stone of the central square into the foundations of a Great Hall. You turn to the elders, your 'Unseeing Eyes' burning with silver starlight. 'I will provide the geometry; you will provide the labor. We will build a center where the children of the valley shall learn the mathematics of a world that can never be unwoven again. And as for the trade... I shall dictate that the Southern Highroad is no longer a path of doubt, but a corridor of absolute safety.'
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

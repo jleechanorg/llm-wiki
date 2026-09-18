@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (49 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 w_open_book
@@ -5931,65 +5942,70 @@ Luna
 
 Apocalypse (Narrator):
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Gneiss Manor — Grand Foyer | Mirtul 30, 1492 DR (09:15) | Skill Check / Combat |
-| **02** | Unknown |  | Roleplay |
-| **03** | Gneiss Manor — Grand Foyer | Hammer 29, 1492 DR (09:20) | Social Challenge |
-| **04** | Gneiss Manor | Mirtul 29, 1492 DR (09:30) | Social Challenge |
-| **05** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (10:15) | Boss Surrender |
-| **06** | Gneiss Manor | Mirtul 29, 1492 DR (10:15) | Boss Surrender |
-| **07** | Gneiss Manor | Mirtul 29, 1492 DR (10:15) | Roleplay |
-| **08** | Gneiss Manor | Mirtul 29, 1492 DR (10:15) | Roleplay |
-| **09** | Gneiss Manor — Grand Foyer |  | Boss Surrender |
-| **10** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (10:35) | Boss Surrender |
-| **11** | Gneiss Manor | Mirtul 29, 1492 DR (11:35) | Boss Surrender |
-| **12** | Gneiss Manor - Sovereign's Study | Kythorn 12, 1492 DR (11:35) | Roleplay |
-| **13** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (12:00) | Social Challenge |
-| **14** | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (12:15) | Social Challenge |
-| **15** | Gneiss Manor — Grand Foyer | Kythorn 1, 1492 DR (13:00) | Social Challenge |
-| **16** | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (13:00) | Roleplay |
-| **17** | Gneiss Manor — Study | Mirtul 29, 1492 DR (12:15) | Roleplay |
-| **18** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (13:30) | Roleplay |
-| **19** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (13:45) | Roleplay |
-| **20** | Lower City - Near the House of Grief | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **21** | Gneiss Manor | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **22** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **23** | Lower City - Near House of Grief | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **24** | Lower City Outskirts (near House of Grief) | Mirtul 29, 1492 DR (15:00) | Roleplay |
-| **25** | House of Grief - Side Entrance | Kythorn 12, 1492 DR (15:15) | Roleplay |
-| **26** | House of Grief - Western Sluice | Mirtul 29, 1492 DR (15:15) | Roleplay |
-| **27** | Western Sluice (House of Grief) | Mirtul 29, 1492 DR (15:20) | Roleplay |
-| **28** | House of Grief - Exterior Cloister | Mirtul 29, 1492 DR (15:30) | Boss Surrender |
-| **29** | House of Grief - Inner Courtyard | Mirtul 29, 1492 DR (15:35) | Roleplay |
-| **30** | House of Grief - Inner Courtyard | Mirtul 29, 1492 DR (15:40) | Boss Surrender |
-| **31** | House of Grief - Obsidian Courtyard | Hammer 29, 1492 DR (15:50) | Social Challenge |
-| **32** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:00) | Boss Surrender |
-| **33** | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (16:15) | Boss Surrender |
-| **34** | Gneiss Manor | afternoon, 1492 DR (16:00) | Boss Surrender |
-| **35** | Gneiss Manor | Mirtul 15, 1492 DR (16:00) | Boss Surrender |
-| **36** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:00) | Boss Surrender |
-| **37** | Gneiss Manor | Nightal 29, 1492 DR (16:00) | Roleplay |
-| **38** | Gneiss Manor | Mirtul 29, 1492 DR (16:00) | Roleplay |
-| **39** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (09:30) | Social Challenge |
-| **40** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:00) | Social Challenge |
-| **41** | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (16:30) | Social Challenge |
-| **42** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:45) | Roleplay |
-| **43** | Festive Cove Docks (Ambush Site) | Mirtul 29, 1492 DR (16:45) | Roleplay |
-| **44** | Festive Cove Docks | Mirtul 15, 1492 DR (16:45) | Roleplay |
-| **45** | Festive Cove Docks (Stabilized) | Mirtul 29, 1492 DR (16:45) | Roleplay |
-| **46** | Festive Cove Docks | Mirtul 29, 1492 DR (16:45) | Roleplay |
-| **47** | House of Grief - Shadowed Courtyard | 1492 DR, Afternoon (16:45:00) | Roleplay |
-| **48** | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:45) | Social Challenge |
-| **49** | Unknown |  | Social Challenge |
+| [**Scene 01**](#scene-1) | Gneiss Manor — Grand Foyer | Mirtul 30, 1492 DR (09:15) | Skill Check / Combat |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Gneiss Manor — Grand Foyer | Hammer 29, 1492 DR (09:20) | Social Challenge |
+| [**Scene 04**](#scene-4) | Gneiss Manor | Mirtul 29, 1492 DR (09:30) | Social Challenge |
+| [**Scene 05**](#scene-5) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (10:15) | Boss Surrender |
+| [**Scene 06**](#scene-6) | Gneiss Manor | Mirtul 29, 1492 DR (10:15) | Boss Surrender |
+| [**Scene 07**](#scene-7) | Gneiss Manor | Mirtul 29, 1492 DR (10:15) | Roleplay |
+| [**Scene 08**](#scene-8) | Gneiss Manor | Mirtul 29, 1492 DR (10:15) | Roleplay |
+| [**Scene 09**](#scene-9) | Gneiss Manor — Grand Foyer |  | Boss Surrender |
+| [**Scene 10**](#scene-10) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (10:35) | Boss Surrender |
+| [**Scene 11**](#scene-11) | Gneiss Manor | Mirtul 29, 1492 DR (11:35) | Boss Surrender |
+| [**Scene 12**](#scene-12) | Gneiss Manor - Sovereign's Study | Kythorn 12, 1492 DR (11:35) | Roleplay |
+| [**Scene 13**](#scene-13) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (12:00) | Social Challenge |
+| [**Scene 14**](#scene-14) | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (12:15) | Social Challenge |
+| [**Scene 15**](#scene-15) | Gneiss Manor — Grand Foyer | Kythorn 1, 1492 DR (13:00) | Social Challenge |
+| [**Scene 16**](#scene-16) | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (13:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Gneiss Manor — Study | Mirtul 29, 1492 DR (12:15) | Roleplay |
+| [**Scene 18**](#scene-18) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (13:30) | Roleplay |
+| [**Scene 19**](#scene-19) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (13:45) | Roleplay |
+| [**Scene 20**](#scene-20) | Lower City - Near the House of Grief | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 21**](#scene-21) | Gneiss Manor | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 22**](#scene-22) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 23**](#scene-23) | Lower City - Near House of Grief | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 24**](#scene-24) | Lower City Outskirts (near House of Grief) | Mirtul 29, 1492 DR (15:00) | Roleplay |
+| [**Scene 25**](#scene-25) | House of Grief - Side Entrance | Kythorn 12, 1492 DR (15:15) | Roleplay |
+| [**Scene 26**](#scene-26) | House of Grief - Western Sluice | Mirtul 29, 1492 DR (15:15) | Roleplay |
+| [**Scene 27**](#scene-27) | Western Sluice (House of Grief) | Mirtul 29, 1492 DR (15:20) | Roleplay |
+| [**Scene 28**](#scene-28) | House of Grief - Exterior Cloister | Mirtul 29, 1492 DR (15:30) | Boss Surrender |
+| [**Scene 29**](#scene-29) | House of Grief - Inner Courtyard | Mirtul 29, 1492 DR (15:35) | Roleplay |
+| [**Scene 30**](#scene-30) | House of Grief - Inner Courtyard | Mirtul 29, 1492 DR (15:40) | Boss Surrender |
+| [**Scene 31**](#scene-31) | House of Grief - Obsidian Courtyard | Hammer 29, 1492 DR (15:50) | Social Challenge |
+| [**Scene 32**](#scene-32) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:00) | Boss Surrender |
+| [**Scene 33**](#scene-33) | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (16:15) | Boss Surrender |
+| [**Scene 34**](#scene-34) | Gneiss Manor | afternoon, 1492 DR (16:00) | Boss Surrender |
+| [**Scene 35**](#scene-35) | Gneiss Manor | Mirtul 15, 1492 DR (16:00) | Boss Surrender |
+| [**Scene 36**](#scene-36) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:00) | Boss Surrender |
+| [**Scene 37**](#scene-37) | Gneiss Manor | Nightal 29, 1492 DR (16:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Gneiss Manor | Mirtul 29, 1492 DR (16:00) | Roleplay |
+| [**Scene 39**](#scene-39) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (09:30) | Social Challenge |
+| [**Scene 40**](#scene-40) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:00) | Social Challenge |
+| [**Scene 41**](#scene-41) | Gneiss Manor — Grand Foyer | Kythorn 12, 1492 DR (16:30) | Social Challenge |
+| [**Scene 42**](#scene-42) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:45) | Roleplay |
+| [**Scene 43**](#scene-43) | Festive Cove Docks (Ambush Site) | Mirtul 29, 1492 DR (16:45) | Roleplay |
+| [**Scene 44**](#scene-44) | Festive Cove Docks | Mirtul 15, 1492 DR (16:45) | Roleplay |
+| [**Scene 45**](#scene-45) | Festive Cove Docks (Stabilized) | Mirtul 29, 1492 DR (16:45) | Roleplay |
+| [**Scene 46**](#scene-46) | Festive Cove Docks | Mirtul 29, 1492 DR (16:45) | Roleplay |
+| [**Scene 47**](#scene-47) | House of Grief - Shadowed Courtyard | 1492 DR, Afternoon (16:45:00) | Roleplay |
+| [**Scene 48**](#scene-48) | Gneiss Manor — Grand Foyer | Mirtul 29, 1492 DR (16:45) | Social Challenge |
+| [**Scene 49**](#scene-49) | Unknown |  | Social Challenge |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign of Souls | HP: 124/124 | XP: 165,000/195,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Soul Gems: 14/25 | Void Presence: Active** &nbsp;|&nbsp; ⚠️ **Divine Armor of Starlight, Silver Veil | Exhaustion: 0 | Inspiration: Yes**
@@ -6039,8 +6055,11 @@ Cassia (Level 12) stands by the nursery wing entrance, her head bowed and her ha
 > 👤 **Player:**
 > *"narrate the sex scene in detail. have krazzak fuck her hard and cum in her mouth and he should enjoy it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -6052,8 +6071,11 @@ Cassia (Level 12) stands by the nursery wing entrance, her head bowed and her ha
 > 👤 **Player:**
 > *"narrate the sex scene in detail. have krazzak fuck her hard and cum in her mouth and he should enjoy it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Hammer 29, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign of Souls | HP: 124/124 | XP: 165000/195000 | Gold: 15,250gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Soul Gems: 12/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6078,8 +6100,11 @@ Lady Cassalanter (Level 10) watches from the shadows, her thin lips curled in a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:finish_character_creation_start_game*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Divine Soul | HP: 115/115 | XP: 265000/305000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Divine Spark: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Divine Armor, Silver Veil | Exhaustion: 0 | Inspiration: Yes**
@@ -6112,8 +6137,11 @@ Lady Cassalanter (Level 10) steps from her alcove, the obsidian silk of her gown
 > 👤 **Player:**
 > *"have krazak cum in shadowheart's mouth and narrate in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 120/120 | XP: 105,000/120,000 | Gold: 15,400gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6138,8 +6166,11 @@ Lady Cassalanter (Level 10) watches the scene with a thin, triumphant smile, the
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:finish_level_up_return_to_game*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Cleric | HP: 123/123 | XP: 165000/195000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6162,8 +6193,11 @@ Lady Cassalanter steps forward, her thin smile widening. "A masterwork, Sovereig
 God Mode:
 set my level to 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Chosen | HP: 123/123 | XP: 100000/120000 | Gold: 10gp**
@@ -6173,8 +6207,11 @@ Character level set to 12. Proficiency bonus updated to +4. Experience points ad
 God Mode:
 set my level to 13 and clear level up flag. auto pick my spells, items, attributes etc based on the campaign history. this was an imported campaign from another platform so everything might've not worked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 120000/140000 | Gold: 2500gp**
@@ -6206,8 +6243,11 @@ Administrative update complete. Character state for Luna has been synchronized a
 > 👤 **Player:**
 > *"CHOICE:godreturn_story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121,000/140,000 | Gold: 2,500gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Soul Gems: 3/3 | Inspiration: 0** &nbsp;|&nbsp; ⚠️ **Divine Armor, Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -6234,8 +6274,11 @@ Through your divine intuition, you feel the weight of Shadowheart's words. The s
 
 CHOICE:interrogate_trap_details*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121000/140000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6262,8 +6305,11 @@ Lady Cassalanter (Level 10) takes a slow sip of her wine, her expression one of 
 > 👤 **Player:**
 > *"Hire some cheaper mercs and dismiss the 20 level 12 specialists I just need some assassins and scouts to map things out. Maybe 20 level 5 gloomstalkers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121,300/140,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -6291,8 +6337,11 @@ Your forces have grown to over 200 strong with the addition of these scouts and 
 God Mode:
 fix my faction gold, resources, troops etc. read the original campaign description to get a reasonable value for thisstuff
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Gneiss Manor - Sovereign's Study** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121300/140000 | Gold: 2000gp**
@@ -6315,8 +6364,11 @@ Daily Upkeep: 240gp | Supplies: 30 days stored | Morale: 85 (High due to massive
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:deploy_scouts_cloister*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Luna (Lvl 13 Cleric) | HP: 133/133 | XP: 121,300/140,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil Active | Exhaustion: 0 | Inspiration: No**
@@ -6339,8 +6391,11 @@ Lady Cassalanter (Level 10) glides from her alcove, the obsidian silk of her gow
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:interrogate_further_tactics*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Cleric | HP: 133/133 | XP: 121,300/140,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Divine Armor, Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -6380,8 +6435,11 @@ Krazzak (Level 12) stands behind Luna, his iron plate armor clanking softly as h
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:offer_respite_for_intel*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121,300/140,000 | Gold: 2,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil Active | Exhaustion: 0 | Inspiration: No**
@@ -6418,8 +6476,11 @@ SHADOWHEART (RESURRECTED) - sobbing, raspy
 > 👤 **Player:**
 > *"THINK:what if i just bring shadowheart and have her hand over control to me? how coudl we make her followers accept it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121,300/140,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | HD: 13/13** &nbsp;|&nbsp; ⚠️ **Silver Veil, Divine Armor | Exhaustion: 0 | Inspiration: No**
@@ -6429,8 +6490,11 @@ You stand motionless amidst the prismatic light of the foyer, your silver wings 
 > 👤 **Player:**
 > *"THINK:lets just stick to original plan, what are my options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Gneiss Manor — Study** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121,300/140,000 | Gold: 2,000gp** &nbsp;|&nbsp; ⚠️ **Silver Veil Mantle | Exhaustion: 0 | Inspiration: No**
@@ -6440,8 +6504,11 @@ You pause within the shimmering prismatic walls of the Gneiss study, the Silver 
 > 👤 **Player:**
 > *"we will loot the house of grief without shadowheart, i will make a plan for that and get recommendations from my council, but first i will force shadowheart to sign a soul contract with me and give her back 20% of her soul, but she'll be forced to obey me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Chosen | HP: 133/133 | XP: 121300/140000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil (Active) | Inspiration: No**
@@ -6471,8 +6538,11 @@ Krazzak gestures toward the tactical map on the table. "The Orthon Legion is rea
 > 👤 **Player:**
 > *"teset some shadowheart intel first and ask my council about parallel operation vs pysh infiliration for their opinions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Cleric | HP: 133/133 | XP: 121300/140000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil Mantle | Exhaustion: 0 | Inspiration: Yes**
@@ -6498,8 +6568,11 @@ At your feet, Shadowheart (Level 1) remains a silent map of tremors, her silver 
 
 surgical infilttration but the orthon stay in reserve and ready to act if we need them. have my spies scout the justicars and see if they are moving against astartion and if not try to plant some evidence to pull some away from the place we want to infilrate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Lower City - Near the House of Grief** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121300/140000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6517,8 +6590,11 @@ In the distance, the House of Grief looms—a windowless monolith of black stone
 God Mode:
 my spells lookweird, i should have more spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 121,300/140,000 | Gold: 2000gp** &nbsp;|&nbsp; ⚠️ **Silver Veil (Mantle), Divine Armor of Starlight | Exhaustion: 0**
@@ -6539,8 +6615,11 @@ Your spell slots remain at standard Level 13 capacity: L1: 4, L2: 3, L3: 3, L4: 
 God Mode:
 make me a special divine scion cleric subclass, i should have some special powers as selune daughter and chosen, read the original campaign material
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric (Divine Scion) | HP: 133/133 | XP: 121,300/140,000 | Gold: 50,000gp**
@@ -6560,8 +6639,11 @@ Your spellbook has been updated to reflect these domain-specific affinities.
 God Mode:
 soul harvest lets me learn special powers or power ups when i take it from someone special like shadowheart. give me command spell too. anything else D&D angels can do? i want all reasonable level 12 angel abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Lower City - Near House of Grief** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Divine Scion | HP: 133/133 | XP: 121300/140000 | Gold: 50000gp**
@@ -6581,8 +6663,11 @@ Luna's divine essence has been augmented by the siphoned remains of the Mother S
 God Mode:
 i should have some more speical powers from shadowheart check the original campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Lower City Outskirts (near House of Grief)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric (Divine Scion) | HP: 133/133 | XP: 121300/140000 | Gold: 50,000gp**
@@ -6598,8 +6683,11 @@ Additional Sharran/Justiciar powers from Shadowheart's essence have been integra
 > 👤 **Player:**
 > *"Assume i equip stealth friendly medium armor and my team does. take the 20 gloomstalkers and my companions and elites. we will have a small sentry killing team where we surprise attack and trigger surprise round to kill sentries. someone will keep invis on me and if a sentry doesnt immediately die or fails surprise round i will hold person them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **House of Grief - Side Entrance** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Divine Scion | HP: 133/133 | XP: 121300/140000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Invisibility, Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -6617,8 +6705,11 @@ Before the first syllable of the alarm can escape, you thrust your hand from ben
 > 👤 **Player:**
 > *"command grovel on other sentry, and then order my men to silently slit their throats and instantly kill them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **House of Grief - Western Sluice** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric (Divine Scion) | HP: 133/133 | XP: 126700/140000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Silver Veil, Invisibility (from caster) | Exhaustion: 0 | Inspiration: No**
@@ -6638,8 +6729,11 @@ The Western Sluice is clear. The way into the House of Grief lies open, unguarde
 > 👤 **Player:**
 > *"scout with bound spirits, steal souls justicars (assume i always do this by default for most kills), search and hide bodies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Western Sluice (House of Grief)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 126,950/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | HD: 13/13 | Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Invisibility (Active), Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -6676,8 +6770,11 @@ Just as you prepare to move, a Zhentarim runner materializes from the fog behind
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:parallel_infiltration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **House of Grief - Exterior Cloister** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric (Divine Scion) | HP: 133/133 | XP: 126,950/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | HD: 13/13 | Healing Touch: 3/3** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -6702,8 +6799,11 @@ From the alleyways, a messenger from the Gneiss Manor arrives with a frantic rep
 > 👤 **Player:**
 > *"Dispatch two gloomstalkers to get shadowheart and bring her close. I may use her if needed. I use a normal hypnotic pattern on the enemies. I have my spies track Astarion and see if he attacks Sharrans which would be good for me. I tell orthons to stand by"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **House of Grief - Inner Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Divine Scion | HP: 133/133 | XP: 126,950/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, CD: 2/2** &nbsp;|&nbsp; ⚠️ **Invisibility (Concentration), Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -6742,8 +6842,11 @@ In the darkness of the cisterns below, the Orthon Legion waits. You can feel the
 
 Focus fire witness and harvest commander"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **House of Grief - Inner Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | HD: 13/13 | Soul Gems: 3** &nbsp;|&nbsp; ⚠️ **Silver Veil, Divine Armor | Exhaustion: 0 | Inspiration: No**
@@ -6770,8 +6873,11 @@ Lady Cassalanter (Level 10) watches from the mouth of the alley, her thin lips c
 > 👤 **Player:**
 > *"Bind everyone then interogate commander using devils ledger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **House of Grief - Obsidian Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 29, 1492 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127070/140000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Divine Leverage: +6 | Dissonance: 18%**
@@ -6805,8 +6911,11 @@ Krazzak (Level 12) stands behind you, his human disguise flickering with inferna
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:offer_reclamation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127070/140000 | Gold: 2150gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -6846,8 +6955,11 @@ Krazzak grunts, unbuckling his gauntlets with a savage satisfaction. He gestures
 God Mode:
 What happened here? I was referring to silent watcher not shadowheart
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -6862,8 +6974,11 @@ Retcon Applied: The events of Turn 108 have been redirected. It was the **Silent
 God Mode:
 No this is wrong too. All the humiliation happened to shadowhearr. I am interrogating  the silent blade now though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **afternoon, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127070/140000 | Gold: 2150gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6883,8 +6998,11 @@ Corrected Retcon Applied: The timeline has been adjusted to reflect your intent.
 God Mode:
 When I said this why did you pick shadowheart when it didn’t refer to her? choice:offer_reclamation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric (Divine Scion) | HP: 133/133 | XP: 127070/140000 | Gold: 2150gp**
@@ -6906,8 +7024,11 @@ Interrogation focus shifted back to `npc_silent_blade_001`. Shadowheart is prese
 > 👤 **Player:**
 > *"Did you only see this and not the full choice text? When I said this why did you pick shadowheart when it didn’t refer to her? choice:offer_reclamation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ⚠️ **Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -6929,8 +7050,11 @@ I have manually adjusted the state to ensure the **Silent Blade** is the one cur
 God Mode:
 Show me the full choice text you sas
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Nightal 29, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -6947,8 +7071,11 @@ The text for this choice was constructed as a generic thematic action. Because t
 God Mode:
 This was the actual text maybe you never saw it? Offer Reclamation: Promise him a place in your new order in exchange for his full cooperation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Gneiss Manor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp**
@@ -6969,8 +7096,11 @@ When you return to story mode, the narrative will focus on the Silent Blade's re
 > 👤 **Player:**
 > *"Did you actually see that text before?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -7004,8 +7134,11 @@ Lady Cassalanter sips her wine, her thin lips curling as she watches the command
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:psychological_bypass*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric (Divine Scion) | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, CD: 2/2** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -7040,8 +7173,11 @@ SILENT BLADE (LVL 12) - broken, raspy
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:offer_amnesty_to_justiciars*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -7074,8 +7210,11 @@ Lady Cassalanter (Lvl 10) sips her wine, a look of clinical fascination on her f
 > [!NOTE] ⚙️ **Player Choice:**
 > *CHOICE:demonstrate_future*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Channel Divinity: 3/3** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -7105,8 +7244,11 @@ Shadowheart’s rigid posture finally breaks. She slumps forward, her forehead t
 God Mode:
 I think we went into the wrong scene? We are in the middle of a strike
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Festive Cove Docks (Ambush Site)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127070/140000 | Gold: 2150gp** &nbsp;|&nbsp; ⚠️ **Mantle of the Silver Veil, Sovereign Aura | Inspiration: No**
@@ -7124,8 +7266,11 @@ The timeline has been stabilized to the moment the twenty Zhentarim specialists 
 God Mode:
 wait firstly explain why this happened
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Festive Cove Docks** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric | HP: 133/133 | XP: 127070/140000 | Gold: 2150gp**
@@ -7156,8 +7301,11 @@ In sequence 89, I forced a **State Resync**. The location has been hard-reset to
 > 👤 **Player:**
 > *"what did you see in your llm request when I said this? CHOICE:demonstrate_future"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Festive Cove Docks (Stabilized)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Cleric | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Silver Veil, Sovereign Aura | Exhaustion: 0 | Inspiration: No**
@@ -7179,8 +7327,11 @@ When you submitted `CHOICE:demonstrate_future`, my internal request contained a 
 > 👤 **Player:**
 > *"CHOICE:godreturn_story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Festive Cove Docks** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Cleric (Divine Scion) | HP: 133/133 | XP: 127,070/140,000 | Gold: 2,150gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Soul Gems: 3/3** &nbsp;|&nbsp; ⚠️ **Mantle of the Silver Veil | Exhaustion: 0 | Inspiration: No**
@@ -7202,8 +7353,11 @@ Krazzak (Lvl 12) looms at your flank, his infernal crossbow humming with a preda
 God Mode:
 we went to the wrong place again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **House of Grief - Shadowed Courtyard** &nbsp;|&nbsp; ⏳ **1492 DR, Afternoon (16:45:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Cleric | HP: 133/133 | XP: 127070/140000 | Gold: 49,760gp**
@@ -7221,8 +7375,11 @@ The world is frozen at the moment of your strike on the Cloister of Sombre Embra
 God Mode:
 explain where are now, we already beat shadowheart, read the  story entries
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Gneiss Manor — Grand Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Cleric | HP: 133/133 | XP: 127070/120000 | Gold: 50,000gp** &nbsp;|&nbsp; ⚠️ **Silver Veil | Exhaustion: 0 | Inspiration: Yes**
@@ -7270,8 +7427,11 @@ Lady Cassalanter (Lvl 10) sips her wine, a look of clinical fascination on her f
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -7292,6 +7452,8 @@ I have synchronized the game state with the specific scene provided (Scene #41).
 - **Resources**: Your divine wings and aura are active, providing maximum social pressure.
 
 You are now in the correct position to resolve the negotiation.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

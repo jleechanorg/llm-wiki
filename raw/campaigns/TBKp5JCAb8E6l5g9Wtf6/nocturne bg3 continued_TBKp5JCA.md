@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (179 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 ### Complete Gear & Inventory Compilation for Serpent Queen Campaign
@@ -1034,195 +1045,200 @@ Current Scene (The Cliffhanger): It is Tarsakh 5, 1492 DR. I am standing on th
 	•	The Threat: The cult (The Absolute) is shipping mind-flayer tadpoles to infect the Patriars. I have captured this shipment to weaponize it, not destroy it.
 IMMEDIATE ACTION: Resume the narrative immediately. I am standing over the bound True Soul Leader on the rain-slicked deck. The Black Lotus awaits my command. I want to use The Idol's Malice to interrogate him before we return to the city. Keep the tone dark, authoritative, and focused on my domination. Show word counts.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:00)) | Roleplay |
-| **03** | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:15)) | Roleplay |
-| **04** | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:25)) | Roleplay |
-| **05** | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:30)) | Roleplay |
-| **06** | Cargo Hold of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:45)) | Roleplay |
-| **07** | Captain's Quarters | Tarsakh 5, 1492 DR (Night (23:30)) | Roleplay |
-| **08** | Captain's Quarters | Tarsakh 6, 1492 DR (Early Morning (00:30)) | Roleplay |
-| **09** | Guild Safehouse Drydock (The Coiled Serpent) | Tarsakh 6, 1492 DR (Early Morning (01:30)) | Roleplay |
-| **10** | Nine-Fingers' Office | Tarsakh 6, 1492 DR (Early Morning (02:15)) | Roleplay |
-| **11** | Nine-Fingers' Office | Tarsakh 6, 1492 DR (Early Morning (02:20)) | Roleplay |
-| **12** | Captain's Quarters | Tarsakh 6, 1492 DR (Morning (08:00)) | Roleplay |
-| **13** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:30)) | Roleplay |
-| **14** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:35)) | Roleplay |
-| **15** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:40)) | Roleplay |
-| **16** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:45)) | Roleplay |
-| **17** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:46)) | Roleplay |
-| **18** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:50)) | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:50)) | Roleplay |
-| **23** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:50)) | Roleplay |
-| **24** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (10:15)) | Roleplay |
-| **25** | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (10:20)) | Roleplay |
-| **26** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:00)) | Roleplay |
-| **27** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15)) | Roleplay |
-| **28** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
-| **29** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15)) | Roleplay |
-| **30** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15)) | Roleplay |
-| **31** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
-| **32** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
-| **33** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
-| **34** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
-| **35** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:16)) | Roleplay |
-| **36** | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:20)) | Roleplay |
-| **37** | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:30)) | Roleplay |
-| **38** | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:30)) | Roleplay |
-| **39** | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:35)) | Roleplay |
-| **40** | The Coiled Serpent (Containment Antechamber) | Tarsakh 6, 1492 DR (Evening (19:40)) | Roleplay |
-| **41** | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:45)) | Roleplay |
-| **42** | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:50)) | Roleplay |
-| **43** | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (20:00)) | Roleplay |
-| **44** | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (20:10)) | Roleplay |
-| **45** | The Undercity Ruins (Approaching Temple of Bhaal) | Tarsakh 6, 1492 DR (Evening (20:30)) | Roleplay |
-| **46** | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:35)) | Roleplay |
-| **47** | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:40)) | Roleplay |
-| **48** | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:40) | Roleplay |
-| **49** | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:40) | Roleplay |
-| **50** | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:45)) | Roleplay |
-| **51** | The Temple of Bhaal (Inner Sanctum) | Tarsakh 6, 1492 DR (Evening (21:00)) | Roleplay |
-| **52** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:00)) | Roleplay |
-| **53** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:15)) | Roleplay |
-| **54** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:20)) | Roleplay |
-| **55** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:25)) | Roleplay |
-| **56** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:30)) | Roleplay |
-| **57** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:35)) | Roleplay |
-| **58** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:40)) | Roleplay |
-| **59** | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:45)) | Roleplay |
-| **60** | The Coiled Serpent (War Room) | Tarsakh 7, 1492 DR (Morning (08:00)) | Roleplay |
-| **61** | The Coiled Serpent (War Room) -> Steel Watch Foundry Perimeter | Tarsakh 7, 1492 DR (Morning (08:00)) | Roleplay |
-| **62** | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:05)) | Roleplay |
-| **63** | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:05) | Roleplay |
-| **64** | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:06)) | Roleplay |
-| **65** | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:07)) | Roleplay |
-| **66** | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (09:07)) | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:08)) | Roleplay |
-| **69** | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:15)) | Roleplay |
-| **70** | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:16)) | Roleplay |
-| **71** | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:18)) | Roleplay |
-| **72** | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (10:00)) | Roleplay |
-| **73** | The Coiled Serpent (War Room) | Tarsakh 7, 1492 DR (Morning (10:00)) | Roleplay |
-| **74** | The Coiled Serpent (High Security Ward) -> The Shadow Bank | Tarsakh 7, 1492 DR (Morning (10:30)) | Roleplay |
-| **75** | The Shadow Bank (Secure Vault) | Tarsakh 7, 1492 DR (Morning (10:35)) | Roleplay |
-| **76** | The Coiled Serpent (Docking Bay) -> Undercity Ruins | Tarsakh 7, 1492 DR (Morning (11:00)) | Roleplay |
-| **77** | Undercity Submersible Dock (The Iron Throne) | Tarsakh 7, 1492 DR (Morning (11:05)) | Roleplay |
-| **78** | The Iron Throne (Submersible) | Tarsakh 7, 1492 DR (Morning (11:10)) | Roleplay |
-| **79** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:15)) | Roleplay |
-| **80** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:15)) | Roleplay |
-| **81** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:16)) | Roleplay |
-| **82** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:16)) | Roleplay |
-| **83** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:17)) | Roleplay |
-| **84** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:18)) | Roleplay |
-| **85** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:19)) | Roleplay |
-| **86** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:25)) | Roleplay |
-| **87** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:00)) | Roleplay |
-| **88** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:05)) | Roleplay |
-| **89** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:05)) | Roleplay |
-| **90** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:10)) | Roleplay |
-| **91** | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:15)) | Roleplay |
-| **92** | The High Hall | Tarsakh 7, 1492 DR (Evening (18:00) [The Coronation) | Roleplay |
-| **93** | The High Hall | Tarsakh 7, 1492 DR (Evening (18:05) [The Coronation) | Roleplay |
-| **94** | The High Hall (Private Council Chamber) | Tarsakh 21, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **95** | The High Hall (Private Council Chamber) | Tarsakh 21, 1492 DR (Midday (12:05) [Reign) | Roleplay |
-| **96** | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Afternoon (14:00) [Reign) | Roleplay |
-| **97** | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
-| **98** | The Coiled Serpent (War Room) | Tarsakh 21, 1492 DR (Afternoon (15:30) [Reign) | Roleplay |
-| **99** | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:00) [Reign) | Roleplay |
-| **100** | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:05) [Reign) | Roleplay |
-| **101** | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:10) [Reign) | Roleplay |
-| **102** | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:15) [Reign) | Roleplay |
-| **103** | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:20) [Reign) | Roleplay |
-| **104** | The Coiled Serpent (Inner Sanctum) | Tarsakh 22, 1492 DR (Early Morning (04:20) [Reign) | Roleplay |
-| **105** | The Coiled Serpent (Inner Sanctum) | Tarsakh 22, 1492 DR (Morning (04:30) [Reign) | Roleplay |
-| **106** | The Coiled Serpent (Sanctum) | Tarsakh 22, 1492 DR (Morning (05:00) [Reign) | Roleplay |
-| **107** | The Coiled Serpent (Sanctum) | Tarsakh 22, 1492 DR (Morning (07:00) [Reign) | Roleplay |
-| **108** | The Coiled Serpent (Private Library / Interface Room) | Tarsakh 22, 1492 DR (Morning (09:00) [Reign) | Roleplay |
-| **109** | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:30) [Reign) | Roleplay |
-| **110** | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:35) [Reign) | Roleplay |
-| **111** | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:40) [Reign) | Roleplay |
-| **112** | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:45) [Reign) | Roleplay |
-| **113** | The Shadow Bank (Deep Vault) | Tarsakh 22, 1492 DR (Morning (10:00) [Reign) | Roleplay |
-| **114** | The Shadow Bank (Deep Vault) | Tarsakh 22, 1492 DR (Morning (10:05) [Reign) | Roleplay |
-| **115** | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (10:10) [Reign) | Roleplay |
-| **116** | The Coiled Serpent (Sanctum Workshop) | Tarsakh 22, 1492 DR (Morning (11:10) [Reign) | Roleplay |
-| **117** | The Coiled Serpent (Sanctum) | Tarsakh 22, 1492 DR (Morning (07:05) [Reign) | Roleplay |
-| **118** | The Coiled Serpent (Sanctum Workshop) | Tarsakh 22, 1492 DR (Morning (08:30) [Reign) | Roleplay |
-| **119** | The Morphic Pool (Elder Brain Dock) | Tarsakh 22, 1492 DR (Morning (08:35) [Reign) | Roleplay |
-| **120** | The Morphic Pool (Elder Brain Dock) | Tarsakh 22, 1492 DR (Morning (08:40) [Reign) | Roleplay |
-| **121** | The Morphic Pool (Elder Brain Dock) | Tarsakh 22, 1492 DR (Morning (08:45) [Reign) | Roleplay |
-| **122** | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:00) [Reign) | Roleplay |
-| **123** | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:15) [Reign) | Roleplay |
-| **124** | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:16) [Reign) | Roleplay |
-| **125** | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:17) [Reign) | Roleplay |
-| **126** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **127** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:05) [Reign) | Roleplay |
-| **128** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:10) [Reign) | Roleplay |
-| **129** | The Shadow Bank (Deep Vault) | Kythorn 1, 1492 DR (Afternoon (14:00) [Reign) | Roleplay |
-| **130** | The Shadow Bank (Deep Vault) -> The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:05) [Reign) | Roleplay |
-| **131** | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Evening (18:00) [The Grand Wedding) | Roleplay |
-| **132** | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Evening (18:05) [The Grand Wedding) | Roleplay |
-| **133** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **134** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:10) [Reign) | Roleplay |
-| **135** | Unknown |  | Roleplay |
-| **136** | Unknown |  | Roleplay |
-| **137** | Unknown |  | Roleplay |
-| **138** | Unknown |  | Roleplay |
-| **139** | Unknown |  | Roleplay |
-| **140** | Unknown |  | Roleplay |
-| **141** | Unknown |  | Roleplay |
-| **142** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:05) [Reign) | Roleplay |
-| **143** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (14:00) [Reign) | Roleplay |
-| **144** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:15) [Reign) | Roleplay |
-| **145** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:15) [Reign) | Roleplay |
-| **146** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (14:16) [Reign) | Roleplay |
-| **147** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:20) [Reign) | Roleplay |
-| **148** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:25) [Reign) | Roleplay |
-| **149** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:30) [Reign) | Roleplay |
-| **150** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:35) [Reign) | Roleplay |
-| **151** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:40) [Reign) | Roleplay |
-| **152** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **153** | The Space Between Moments | Outside of Time (The Chronal Void) | Roleplay |
-| **154** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:05) [Reign) | Roleplay |
-| **155** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:45) [Reign) | Roleplay |
-| **156** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **157** | The High Hall (Throne Room) | Kythorn 15, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **158** | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:45) [Reign) | Roleplay |
-| **159** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
-| **160** | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:05) [Reign) | Roleplay |
-| **161** | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:10) [Reign) | Roleplay |
-| **162** | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:15) [Reign) | Roleplay |
-| **163** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
-| **164** | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:20) [Reign) | Roleplay |
-| **165** | The High Sanctorum (Outside Reality) | End of Time | Roleplay |
-| **166** | Avernus (The Bronze Citadel - Archduke's Throne Room) | Kythorn 1, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
-| **167** | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:30) [Reign) | Roleplay |
-| **168** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **169** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (16:00) [Reign) | Roleplay |
-| **170** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (16:00) [Reign) | Roleplay |
-| **171** | The High Hall (Throne Room) & The Lower City (Avatar) | Kythorn 1, 1492 DR (Evening (18:00) [Reign) | Roleplay |
-| **172** | The High Hall (Throne Room) & Lower City (Avatar) | Kythorn 15, 1492 DR (Midday (12:00) [Reign) | Roleplay |
-| **173** | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:05) [Reign) | Roleplay |
-| **174** | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:05) [Reign) | Roleplay |
-| **175** | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:10) [Reign) | Roleplay |
-| **176** | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:15) [Reign) | Roleplay |
-| **177** | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:10) [Reign) | Roleplay |
-| **178** | The Bronze Citadel (Archduke's Throne Room) | Kythorn 1, 1492 DR (Afternoon (14:45) [Reign) | Roleplay |
-| **179** | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:00)) | Roleplay |
+| [**Scene 03**](#scene-3) | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:15)) | Roleplay |
+| [**Scene 04**](#scene-4) | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:25)) | Roleplay |
+| [**Scene 05**](#scene-5) | Deck of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:30)) | Roleplay |
+| [**Scene 06**](#scene-6) | Cargo Hold of the Captured Moonrise Ship | Tarsakh 5, 1492 DR (Night (22:45)) | Roleplay |
+| [**Scene 07**](#scene-7) | Captain's Quarters | Tarsakh 5, 1492 DR (Night (23:30)) | Roleplay |
+| [**Scene 08**](#scene-8) | Captain's Quarters | Tarsakh 6, 1492 DR (Early Morning (00:30)) | Roleplay |
+| [**Scene 09**](#scene-9) | Guild Safehouse Drydock (The Coiled Serpent) | Tarsakh 6, 1492 DR (Early Morning (01:30)) | Roleplay |
+| [**Scene 10**](#scene-10) | Nine-Fingers' Office | Tarsakh 6, 1492 DR (Early Morning (02:15)) | Roleplay |
+| [**Scene 11**](#scene-11) | Nine-Fingers' Office | Tarsakh 6, 1492 DR (Early Morning (02:20)) | Roleplay |
+| [**Scene 12**](#scene-12) | Captain's Quarters | Tarsakh 6, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 13**](#scene-13) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:30)) | Roleplay |
+| [**Scene 14**](#scene-14) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:35)) | Roleplay |
+| [**Scene 15**](#scene-15) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:40)) | Roleplay |
+| [**Scene 16**](#scene-16) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:45)) | Roleplay |
+| [**Scene 17**](#scene-17) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:46)) | Roleplay |
+| [**Scene 18**](#scene-18) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:50)) | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:50)) | Roleplay |
+| [**Scene 23**](#scene-23) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (09:50)) | Roleplay |
+| [**Scene 24**](#scene-24) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (10:15)) | Roleplay |
+| [**Scene 25**](#scene-25) | The Umbrage Estate | Tarsakh 6, 1492 DR (Morning (10:20)) | Roleplay |
+| [**Scene 26**](#scene-26) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:00)) | Roleplay |
+| [**Scene 27**](#scene-27) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15)) | Roleplay |
+| [**Scene 28**](#scene-28) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
+| [**Scene 29**](#scene-29) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15)) | Roleplay |
+| [**Scene 30**](#scene-30) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15)) | Roleplay |
+| [**Scene 31**](#scene-31) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
+| [**Scene 32**](#scene-32) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
+| [**Scene 33**](#scene-33) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
+| [**Scene 34**](#scene-34) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:15) | Roleplay |
+| [**Scene 35**](#scene-35) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:16)) | Roleplay |
+| [**Scene 36**](#scene-36) | The Umbrage Estate | Tarsakh 6, 1492 DR (Evening (18:20)) | Roleplay |
+| [**Scene 37**](#scene-37) | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:30)) | Roleplay |
+| [**Scene 38**](#scene-38) | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:30)) | Roleplay |
+| [**Scene 39**](#scene-39) | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:35)) | Roleplay |
+| [**Scene 40**](#scene-40) | The Coiled Serpent (Containment Antechamber) | Tarsakh 6, 1492 DR (Evening (19:40)) | Roleplay |
+| [**Scene 41**](#scene-41) | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:45)) | Roleplay |
+| [**Scene 42**](#scene-42) | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (19:50)) | Roleplay |
+| [**Scene 43**](#scene-43) | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (20:00)) | Roleplay |
+| [**Scene 44**](#scene-44) | The Coiled Serpent (Interrogation Cell) | Tarsakh 6, 1492 DR (Evening (20:10)) | Roleplay |
+| [**Scene 45**](#scene-45) | The Undercity Ruins (Approaching Temple of Bhaal) | Tarsakh 6, 1492 DR (Evening (20:30)) | Roleplay |
+| [**Scene 46**](#scene-46) | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:35)) | Roleplay |
+| [**Scene 47**](#scene-47) | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:40)) | Roleplay |
+| [**Scene 48**](#scene-48) | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:40) | Roleplay |
+| [**Scene 49**](#scene-49) | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:40) | Roleplay |
+| [**Scene 50**](#scene-50) | The Undercity Ruins (Temple Bridge) | Tarsakh 6, 1492 DR (Evening (20:45)) | Roleplay |
+| [**Scene 51**](#scene-51) | The Temple of Bhaal (Inner Sanctum) | Tarsakh 6, 1492 DR (Evening (21:00)) | Roleplay |
+| [**Scene 52**](#scene-52) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:00)) | Roleplay |
+| [**Scene 53**](#scene-53) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:15)) | Roleplay |
+| [**Scene 54**](#scene-54) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:20)) | Roleplay |
+| [**Scene 55**](#scene-55) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:25)) | Roleplay |
+| [**Scene 56**](#scene-56) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:30)) | Roleplay |
+| [**Scene 57**](#scene-57) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:35)) | Roleplay |
+| [**Scene 58**](#scene-58) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:40)) | Roleplay |
+| [**Scene 59**](#scene-59) | The Coiled Serpent (High Security Ward) | Tarsakh 6, 1492 DR (Evening (22:45)) | Roleplay |
+| [**Scene 60**](#scene-60) | The Coiled Serpent (War Room) | Tarsakh 7, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 61**](#scene-61) | The Coiled Serpent (War Room) -> Steel Watch Foundry Perimeter | Tarsakh 7, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 62**](#scene-62) | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:05)) | Roleplay |
+| [**Scene 63**](#scene-63) | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:05) | Roleplay |
+| [**Scene 64**](#scene-64) | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:06)) | Roleplay |
+| [**Scene 65**](#scene-65) | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (08:07)) | Roleplay |
+| [**Scene 66**](#scene-66) | Steel Watch Foundry (Lobby) | Tarsakh 7, 1492 DR (Morning (09:07)) | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:08)) | Roleplay |
+| [**Scene 69**](#scene-69) | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:15)) | Roleplay |
+| [**Scene 70**](#scene-70) | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:16)) | Roleplay |
+| [**Scene 71**](#scene-71) | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (08:18)) | Roleplay |
+| [**Scene 72**](#scene-72) | Steel Watch Foundry (Control Centre) | Tarsakh 7, 1492 DR (Morning (10:00)) | Roleplay |
+| [**Scene 73**](#scene-73) | The Coiled Serpent (War Room) | Tarsakh 7, 1492 DR (Morning (10:00)) | Roleplay |
+| [**Scene 74**](#scene-74) | The Coiled Serpent (High Security Ward) -> The Shadow Bank | Tarsakh 7, 1492 DR (Morning (10:30)) | Roleplay |
+| [**Scene 75**](#scene-75) | The Shadow Bank (Secure Vault) | Tarsakh 7, 1492 DR (Morning (10:35)) | Roleplay |
+| [**Scene 76**](#scene-76) | The Coiled Serpent (Docking Bay) -> Undercity Ruins | Tarsakh 7, 1492 DR (Morning (11:00)) | Roleplay |
+| [**Scene 77**](#scene-77) | Undercity Submersible Dock (The Iron Throne) | Tarsakh 7, 1492 DR (Morning (11:05)) | Roleplay |
+| [**Scene 78**](#scene-78) | The Iron Throne (Submersible) | Tarsakh 7, 1492 DR (Morning (11:10)) | Roleplay |
+| [**Scene 79**](#scene-79) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:15)) | Roleplay |
+| [**Scene 80**](#scene-80) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:15)) | Roleplay |
+| [**Scene 81**](#scene-81) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:16)) | Roleplay |
+| [**Scene 82**](#scene-82) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:16)) | Roleplay |
+| [**Scene 83**](#scene-83) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:17)) | Roleplay |
+| [**Scene 84**](#scene-84) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:18)) | Roleplay |
+| [**Scene 85**](#scene-85) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:19)) | Roleplay |
+| [**Scene 86**](#scene-86) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Morning (11:25)) | Roleplay |
+| [**Scene 87**](#scene-87) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:00)) | Roleplay |
+| [**Scene 88**](#scene-88) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:05)) | Roleplay |
+| [**Scene 89**](#scene-89) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:05)) | Roleplay |
+| [**Scene 90**](#scene-90) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:10)) | Roleplay |
+| [**Scene 91**](#scene-91) | The Morphic Pool (Elder Brain Dock) | Tarsakh 7, 1492 DR (Midday (12:15)) | Roleplay |
+| [**Scene 92**](#scene-92) | The High Hall | Tarsakh 7, 1492 DR (Evening (18:00) [The Coronation) | Roleplay |
+| [**Scene 93**](#scene-93) | The High Hall | Tarsakh 7, 1492 DR (Evening (18:05) [The Coronation) | Roleplay |
+| [**Scene 94**](#scene-94) | The High Hall (Private Council Chamber) | Tarsakh 21, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 95**](#scene-95) | The High Hall (Private Council Chamber) | Tarsakh 21, 1492 DR (Midday (12:05) [Reign) | Roleplay |
+| [**Scene 96**](#scene-96) | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Afternoon (14:00) [Reign) | Roleplay |
+| [**Scene 97**](#scene-97) | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
+| [**Scene 98**](#scene-98) | The Coiled Serpent (War Room) | Tarsakh 21, 1492 DR (Afternoon (15:30) [Reign) | Roleplay |
+| [**Scene 99**](#scene-99) | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:00) [Reign) | Roleplay |
+| [**Scene 100**](#scene-100) | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:05) [Reign) | Roleplay |
+| [**Scene 101**](#scene-101) | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:10) [Reign) | Roleplay |
+| [**Scene 102**](#scene-102) | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:15) [Reign) | Roleplay |
+| [**Scene 103**](#scene-103) | The Coiled Serpent (Sanctum) | Tarsakh 21, 1492 DR (Late Afternoon (16:20) [Reign) | Roleplay |
+| [**Scene 104**](#scene-104) | The Coiled Serpent (Inner Sanctum) | Tarsakh 22, 1492 DR (Early Morning (04:20) [Reign) | Roleplay |
+| [**Scene 105**](#scene-105) | The Coiled Serpent (Inner Sanctum) | Tarsakh 22, 1492 DR (Morning (04:30) [Reign) | Roleplay |
+| [**Scene 106**](#scene-106) | The Coiled Serpent (Sanctum) | Tarsakh 22, 1492 DR (Morning (05:00) [Reign) | Roleplay |
+| [**Scene 107**](#scene-107) | The Coiled Serpent (Sanctum) | Tarsakh 22, 1492 DR (Morning (07:00) [Reign) | Roleplay |
+| [**Scene 108**](#scene-108) | The Coiled Serpent (Private Library / Interface Room) | Tarsakh 22, 1492 DR (Morning (09:00) [Reign) | Roleplay |
+| [**Scene 109**](#scene-109) | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:30) [Reign) | Roleplay |
+| [**Scene 110**](#scene-110) | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:35) [Reign) | Roleplay |
+| [**Scene 111**](#scene-111) | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:40) [Reign) | Roleplay |
+| [**Scene 112**](#scene-112) | The Coiled Serpent (Private Library) | Tarsakh 22, 1492 DR (Morning (09:45) [Reign) | Roleplay |
+| [**Scene 113**](#scene-113) | The Shadow Bank (Deep Vault) | Tarsakh 22, 1492 DR (Morning (10:00) [Reign) | Roleplay |
+| [**Scene 114**](#scene-114) | The Shadow Bank (Deep Vault) | Tarsakh 22, 1492 DR (Morning (10:05) [Reign) | Roleplay |
+| [**Scene 115**](#scene-115) | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (10:10) [Reign) | Roleplay |
+| [**Scene 116**](#scene-116) | The Coiled Serpent (Sanctum Workshop) | Tarsakh 22, 1492 DR (Morning (11:10) [Reign) | Roleplay |
+| [**Scene 117**](#scene-117) | The Coiled Serpent (Sanctum) | Tarsakh 22, 1492 DR (Morning (07:05) [Reign) | Roleplay |
+| [**Scene 118**](#scene-118) | The Coiled Serpent (Sanctum Workshop) | Tarsakh 22, 1492 DR (Morning (08:30) [Reign) | Roleplay |
+| [**Scene 119**](#scene-119) | The Morphic Pool (Elder Brain Dock) | Tarsakh 22, 1492 DR (Morning (08:35) [Reign) | Roleplay |
+| [**Scene 120**](#scene-120) | The Morphic Pool (Elder Brain Dock) | Tarsakh 22, 1492 DR (Morning (08:40) [Reign) | Roleplay |
+| [**Scene 121**](#scene-121) | The Morphic Pool (Elder Brain Dock) | Tarsakh 22, 1492 DR (Morning (08:45) [Reign) | Roleplay |
+| [**Scene 122**](#scene-122) | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:00) [Reign) | Roleplay |
+| [**Scene 123**](#scene-123) | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:15) [Reign) | Roleplay |
+| [**Scene 124**](#scene-124) | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:16) [Reign) | Roleplay |
+| [**Scene 125**](#scene-125) | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Morning (09:17) [Reign) | Roleplay |
+| [**Scene 126**](#scene-126) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 127**](#scene-127) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:05) [Reign) | Roleplay |
+| [**Scene 128**](#scene-128) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:10) [Reign) | Roleplay |
+| [**Scene 129**](#scene-129) | The Shadow Bank (Deep Vault) | Kythorn 1, 1492 DR (Afternoon (14:00) [Reign) | Roleplay |
+| [**Scene 130**](#scene-130) | The Shadow Bank (Deep Vault) -> The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:05) [Reign) | Roleplay |
+| [**Scene 131**](#scene-131) | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Evening (18:00) [The Grand Wedding) | Roleplay |
+| [**Scene 132**](#scene-132) | The High Hall (Grand Chapel) | Tarsakh 22, 1492 DR (Evening (18:05) [The Grand Wedding) | Roleplay |
+| [**Scene 133**](#scene-133) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 134**](#scene-134) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:10) [Reign) | Roleplay |
+| [**Scene 135**](#scene-135) | Unknown |  | Roleplay |
+| [**Scene 136**](#scene-136) | Unknown |  | Roleplay |
+| [**Scene 137**](#scene-137) | Unknown |  | Roleplay |
+| [**Scene 138**](#scene-138) | Unknown |  | Roleplay |
+| [**Scene 139**](#scene-139) | Unknown |  | Roleplay |
+| [**Scene 140**](#scene-140) | Unknown |  | Roleplay |
+| [**Scene 141**](#scene-141) | Unknown |  | Roleplay |
+| [**Scene 142**](#scene-142) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:05) [Reign) | Roleplay |
+| [**Scene 143**](#scene-143) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (14:00) [Reign) | Roleplay |
+| [**Scene 144**](#scene-144) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:15) [Reign) | Roleplay |
+| [**Scene 145**](#scene-145) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:15) [Reign) | Roleplay |
+| [**Scene 146**](#scene-146) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (14:16) [Reign) | Roleplay |
+| [**Scene 147**](#scene-147) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:20) [Reign) | Roleplay |
+| [**Scene 148**](#scene-148) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:25) [Reign) | Roleplay |
+| [**Scene 149**](#scene-149) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:30) [Reign) | Roleplay |
+| [**Scene 150**](#scene-150) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:35) [Reign) | Roleplay |
+| [**Scene 151**](#scene-151) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:40) [Reign) | Roleplay |
+| [**Scene 152**](#scene-152) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 153**](#scene-153) | The Space Between Moments | Outside of Time (The Chronal Void) | Roleplay |
+| [**Scene 154**](#scene-154) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:05) [Reign) | Roleplay |
+| [**Scene 155**](#scene-155) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:45) [Reign) | Roleplay |
+| [**Scene 156**](#scene-156) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 157**](#scene-157) | The High Hall (Throne Room) | Kythorn 15, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 158**](#scene-158) | The Coiled Serpent (Sanctum) | Kythorn 1, 1492 DR (Afternoon (14:45) [Reign) | Roleplay |
+| [**Scene 159**](#scene-159) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
+| [**Scene 160**](#scene-160) | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:05) [Reign) | Roleplay |
+| [**Scene 161**](#scene-161) | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:10) [Reign) | Roleplay |
+| [**Scene 162**](#scene-162) | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:15) [Reign) | Roleplay |
+| [**Scene 163**](#scene-163) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
+| [**Scene 164**](#scene-164) | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:20) [Reign) | Roleplay |
+| [**Scene 165**](#scene-165) | The High Sanctorum (Outside Reality) | End of Time | Roleplay |
+| [**Scene 166**](#scene-166) | Avernus (The Bronze Citadel - Archduke's Throne Room) | Kythorn 1, 1492 DR (Afternoon (15:00) [Reign) | Roleplay |
+| [**Scene 167**](#scene-167) | Avernus (Tiamat's Lair - The Dragon's Spire) | Kythorn 1, 1492 DR (Afternoon (15:30) [Reign) | Roleplay |
+| [**Scene 168**](#scene-168) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 169**](#scene-169) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (16:00) [Reign) | Roleplay |
+| [**Scene 170**](#scene-170) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Afternoon (16:00) [Reign) | Roleplay |
+| [**Scene 171**](#scene-171) | The High Hall (Throne Room) & The Lower City (Avatar) | Kythorn 1, 1492 DR (Evening (18:00) [Reign) | Roleplay |
+| [**Scene 172**](#scene-172) | The High Hall (Throne Room) & Lower City (Avatar) | Kythorn 15, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+| [**Scene 173**](#scene-173) | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:05) [Reign) | Roleplay |
+| [**Scene 174**](#scene-174) | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:05) [Reign) | Roleplay |
+| [**Scene 175**](#scene-175) | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:10) [Reign) | Roleplay |
+| [**Scene 176**](#scene-176) | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:15) [Reign) | Roleplay |
+| [**Scene 177**](#scene-177) | The High Hall (Throne Room) & Omniversal Nexus | Kythorn 15, 1492 DR (Midday (12:10) [Reign) | Roleplay |
+| [**Scene 178**](#scene-178) | The Bronze Citadel (Archduke's Throne Room) | Kythorn 1, 1492 DR (Afternoon (14:45) [Reign) | Roleplay |
+| [**Scene 179**](#scene-179) | The High Hall (Throne Room) | Kythorn 1, 1492 DR (Midday (12:00) [Reign) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > ✨ **Level 8 Bard | HD: 8/8 | Inspiration: 5/5 | Hunger: Sated (+2 Stats) | Omni-Attunement: Active**
@@ -1272,8 +1288,11 @@ Operation Scalpel was a success. The Moonrise ship is captured. The True Soul Le
 God Mode:
 Any clarifying questions needed?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Deck of the Captured Moonrise Ship, Wyrm's Tooth** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (Night (22:00))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active)**
@@ -1293,8 +1312,11 @@ You feel the Idol hum against your side—a deep, resonant vibration of *opportu
 God Mode:
 Issue Absolute Command - Use your &#x27;God Mode&#x27; CHA 24 and the Idol to attempt to override the Tadpole&#x27;s control entirely.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Deck of the Captured Moonrise Ship, Wyrm's Tooth** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (Night (22:15))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1336,8 +1358,11 @@ Nyx leans in, looking at the prisoner with a mix of horror and scientific curios
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Moonrise Plans - Force him to reveal the broader strategic timeline: When is the attack on the city? Who are the other agents?*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Deck of the Captured Moonrise Ship, Wyrm's Tooth** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (Night (22:25))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1377,8 +1402,11 @@ You have the timeline: Tarsakh 7. You have the method: Infection of the Parliame
 > [!NOTE] ⚙️ **Player Choice:**
 > *God-Mode: Psychic Stasis - Use a Soul Coin via Infernal Siphon to cast a powered-up &#x27;Hold Monster/Mind&#x27; to freeze his degradation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Deck of the Captured Moonrise Ship, Wyrm's Tooth** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (Night (22:30))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1418,8 +1446,11 @@ You have the key.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Cargo (Lead Wagon) - Go below decks immediately to verify the &#x27;Omega-9-Black&#x27; code and seeing the tadpoles firsthand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Cargo Hold of the Captured Moonrise Ship, Wyrm's Tooth** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (Night (22:45))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1465,8 +1496,11 @@ You place your hand on the glass. A single tadpole drifts inches from your palm,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract a Sample - Take one canister for immediate personal study in your cabin during the voyage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Captain's Quarters, Captured Moonrise Ship (Underway)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (Night (23:30))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1502,8 +1536,11 @@ You pull out your journal and the Red Wizard's spellbook. It's time to understan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Study: Absolute Anatomy - Use your Arcana and Medicine skills to analyze the stasis fluid and the tadpole&#x27;s reaction to psychic stimuli. Aim to unlock &#x27;Absolute Anatomy Tier 2&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Captain's Quarters, Captured Moonrise Ship (Approaching Guild Safehouse)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Early Morning (00:30))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | Absolute Anatomy (Tier 2)**
@@ -1543,8 +1580,11 @@ The ship lurches as it enters the hidden Guild drydock. You have arrived.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee Cargo Transfer - Personally supervise the movement of the tadpole canisters to the secure vault to ensure no &#x27;accidents&#x27; or thefts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Guild Safehouse Drydock (The Coiled Serpent), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Early Morning (01:30))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | Absolute Anatomy (Tier 2)**
@@ -1594,8 +1634,11 @@ The cargo is secure. The battery is stable. The weapon is yours.
 > 👤 **Player:**
 > *"tell keene myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Nine-Fingers' Office, The Guildhall** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Early Morning (02:15))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | Absolute Anatomy (Tier 2)**
@@ -1641,8 +1684,11 @@ Keene lets out a sharp breath, slamming the book shut. "Valerian. That self-righ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Gala Resources - Leverage the victory to demand Guild funds/staff for the Gala, ensuring the &#x27;trap&#x27; for the nobles is perfect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Nine-Fingers' Office, The Guildhall** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Early Morning (02:20))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | Absolute Anatomy (Tier 2)**
@@ -1680,8 +1726,11 @@ With the resources secured and the alliance cemented, the adrenaline of the nigh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Drydock - Sleep on the ship to be close to the &#x27;Battery&#x27;. Higher security risk, but better control over the cargo.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Captain's Quarters, Captured Moonrise Ship (Guild Drydock)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | Absolute Anatomy (Tier 2)**
@@ -1715,8 +1764,11 @@ It is Tarsakh 6. The day of the Gala. And Captain Valerian is still breathing.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Gala Preparations - Visit Lyra at the Umbrage Estate to ensure the venue, the wine swap, and the &#x27;security&#x27; are perfect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Umbrage Estate, Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:30))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1758,8 +1810,11 @@ She looks at you with that dangerous mix of worship and fear. "And Valerian?"
 > 👤 **Player:**
 > *"Think. Whats the best way to handle valerian. Could i recruit him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:35))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1769,8 +1824,11 @@ You stand amidst the lilies and the rushing servants, your gaze fixing on a bann
 > 👤 **Player:**
 > *"Main Character: Probe Before Striking (Intel First) - Isolate him before the kill to scan his mind. Decide his fate based on what he knows about Orin."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:40))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1806,8 +1864,11 @@ You step closer, your CHA 24 a crushing weight in the room. "Now. You are going 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Psychic Probe - Force detailed information from him: Orin&#x27;s location, abilities, next moves, and his personal connection. Push to the edge of sanity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Umbrage Estate, Solarium** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:45))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1847,8 +1908,11 @@ Outside, **Vesper**'s shadow falls across the glass. 'Screaming's stopped, Boss.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Valerian - Kill the broken man. Fulfill your contract to Keene and remove the traitor. A clean end to a liability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Umbrage Estate, Solarium** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:46))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1884,8 +1948,11 @@ You are alone in the Solarium with a dead man and a new, terrible purpose. Tonig
 God Mode:
 how come my exp and gold arent showing in my session header?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Umbrage Estate, Solarium** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:50))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1911,8 +1978,11 @@ You are the **Shadow Monarch**, standing alone with a dead man and the weight of
 God Mode:
 No display them always wtf
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1922,8 +1992,11 @@ No display them always wtf
 God Mode:
 No display them always wtf
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1933,8 +2006,11 @@ No display them always wtf
 God Mode:
 Always display exp and gold in session header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1944,8 +2020,11 @@ Always display exp and gold in session header
 God Mode:
 Always display exp and gold in session header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Umbrage Estate, Solarium** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:50))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -1971,8 +2050,11 @@ You are the **Shadow Monarch**, standing alone with a dead man and the weight of
 > 👤 **Player:**
 > *"Think. What if ravenguard dead, can it work to my advantage?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Umbrage Estate, Solarium** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (09:50))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -2000,8 +2082,11 @@ You are the **Shadow Monarch**, standing alone with a dead man and the weight of
 
 in parallel send word to lyra and keene. And think about if i should just let ravenguard die*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Umbrage Estate, Private Library** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (10:15))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -2039,8 +2124,11 @@ The pieces are moving. But as you look at the map of the Gala hall spread out on
 > [!NOTE] ⚙️ **Player Choice:**
 > *God-Mode: Check Gortash - Use a Soul Coin to divine if Gortash/Steel Watch are ready to move if Ravengard dies. (Intel check before deciding).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Umbrage Estate, Private Library** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Morning (10:20))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active)**
@@ -2089,8 +2177,11 @@ Finalize Deployment: Assign Vesper and Silas to specific overwatch positions in 
 Tune the Idol: Spend the remaining time attuning the Whispering Idol to detect Orin's specific psychic resonance (murderous intent).
 Craft 'Ghost of Bhaal' Poison: Create a specialized poison to coat your weapons, specifically designed to hinder a shapeshifter's regeneratio"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Umbrage Estate, Grand Ballroom (Gala Start)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:00))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (3 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Tuned: Anti-Shapeshifter)**
@@ -2137,8 +2228,11 @@ The play begins.
 > 👤 **Player:**
 > *"do the true sight thing, and then do all 3 in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Umbrage Estate, Grand Ballroom (Gala in Progress)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (3 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2193,8 +2287,11 @@ Orin's glamour flickers. She mouths a single word to you: *"Run."*
 > 👤 **Player:**
 > *"Think. pros/cons each choice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Umbrage Estate, Grand Ballroom (Gala in Progress)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (3 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2212,8 +2309,11 @@ You have a fraction of a heartbeat to decide: Do you gamble the city's future on
 > 👤 **Player:**
 > *"Think. Should i let her hurt him a bit first? What are my best options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Umbrage Estate, Grand Ballroom (Gala in Progress)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (3 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2233,8 +2333,11 @@ I won't let her hurt him a bit. I won't let her hurt him at all.
 > 👤 **Player:**
 > *"Think. But before i wanted him weakened?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Umbrage Estate, Grand Ballroom (Gala in Progress)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (3 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2254,8 +2357,11 @@ I won't let her hurt him a bit. I won't let her hurt him at all.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Perfect Intercept (Save Ravengard) - Surge forward now. Parry the attack before it connects. Deny Orin any satisfaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 52/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2299,8 +2405,11 @@ She flicks her daggers, the green poison hissing as it hits the floor. "Let's pa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Idol's Malice: Command: Use the Whispering Idol to impose Disadvantage, then cast 'Command: Halt' to freeze her for a round.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 20 | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 16, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2338,8 +2447,11 @@ Orin is immobilized. The Duke is clear. The stage is yours.
 > [!NOTE] ⚙️ **Player Choice:**
 > *God-Mode: Infernal Shackles - Burn a Soul Coin to cast an instant &#x27;Hold Monster&#x27; via Infernal Siphon to upgrade her &#x27;Halt&#x27; into full Paralysis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2380,8 +2492,11 @@ In the ballroom, time seems to stop. Orin is paralyzed. Every attack against her
 > 👤 **Player:**
 > *"Think. Can I chop off her args and legs and capture her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 35,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2399,8 +2514,11 @@ Through the psychic link, you feel **Nyx** straining to hold the **True Soul Lea
 > 👤 **Player:**
 > *"Think. What about infernal binding, take her somewhere secure with my elites and guild elites, amputate, be ready to handle slayer if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:16))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 38,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (59m)**
@@ -2452,8 +2570,11 @@ You stand, wiping a speck of blood from your cheek. You turn to the curtain wher
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Duke - Frame the violence as necessary protection. Demand his public endorsement of the Sovereign Shield immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Umbrage Estate, Grand Ballroom** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (18:20))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 38,500/48,000 | Gold: 2,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (58m)**
@@ -2507,8 +2628,11 @@ You open your eyes. The Gala is yours. The Duke is yours. And somewhere in the d
 > 👤 **Player:**
 > *"have lyra harvest the room, press ravenguard quickly, then return to interrogate orin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Coiled Serpent (Interrogation Cell), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (19:30))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 38,500/48,000 | Gold: 6,800 gp (+4,000 Harvest)** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (58m)**
@@ -2566,8 +2690,11 @@ She takes a deep, ragged breath, tasting the dungeon air. Then she smiles, revea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe: Gortash's Betrayal - Drive a wedge between the Chosen. Reveal that Gortash planned to use her kill to trigger Martial Law and cut her out.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Coiled Serpent (Interrogation Cell), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (19:30))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 38,500/48,000 | Gold: 6,800 gp (+4,000 Harvest)** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (58m)**
@@ -2605,8 +2732,11 @@ Orin is silent now, her chest heaving. The betrayal has struck deep, deeper than
 > 👤 **Player:**
 > *"Think. can we stabilize true soul leader first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Coiled Serpent (Interrogation Cell), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (19:35))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 38,500/48,000 | Gold: 6,800 gp (+4,000 Harvest)** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (58m)**
@@ -2616,8 +2746,11 @@ Orin is silent now, her chest heaving. The betrayal has struck deep, deeper than
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pause &amp; Stabilize Battery - Leave Orin under Gant&#x27;s watch. Go to the antechamber to personally reinforce the True Soul&#x27;s stasis with the Idol.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Coiled Serpent (Containment Antechamber), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (19:40))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 38,500/48,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (58m)**
@@ -2659,8 +2792,11 @@ You walk back to the interrogation cell. The crisis is averted. The foundation i
 > [!NOTE] ⚙️ **Player Choice:**
 > *God-Mode: Detect Thoughts - Use the Idol to cast a deep, invasive Detect Thoughts now that her defenses are lowered by the wait.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Coiled Serpent (Interrogation Cell), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (19:45))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of Swords) | HP: 45/52 | AC: 18 | DC: 25 (Siphon Boost) | XP: 41,500/48,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (58m)**
@@ -2714,8 +2850,11 @@ Orin looks up, her eyes unfocused. "He... he will come for it. The Tyrant. He wi
 God Mode:
 how much exp did i get from recent events? should be a lot. What level is orin i should get the full exp for defeating her. then make sure we looted orin
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Coiled Serpent (Interrogation Cell), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (19:50))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 18 | DC: 21 (Prof +4) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (57m)**
@@ -2735,8 +2874,11 @@ Inside lie two blades that seem to drink the torchlight. **Bloodthirst**, a dagg
 > 👤 **Player:**
 > *"equip loot thats useful to me, give others to equip now, process my level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Coiled Serpent (Interrogation Cell), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:00))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 (Dual Wielder +1) | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active) | True Seeing (56m)**
@@ -2774,8 +2916,11 @@ You have the power. You have the weapons. You have the location. The Temple of B
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Orin for Traps - Spend a few more minutes forcing Orin to reveal the specific layout and magical wards of the Temple bridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Coiled Serpent (Interrogation Cell), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:10))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active) | True Seeing (46m)**
@@ -2823,8 +2968,11 @@ The Coiled Serpent seals behind you. The night air of the Lower City is cool and
 > 👤 **Player:**
 > *"silas scout and stealth approach. Send word to keene and the fist and ask them for backup. They should engage once we publically engage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Undercity Ruins (Approaching Temple of Bhaal)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:30))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (45m)**
@@ -2858,8 +3006,11 @@ You move forward, stepping into the vast, cavernous ruin of the Undercity. Ahead
 > [!NOTE] ⚙️ **Player Choice:**
 > *God-Mode: Dominate Farslayer - Burn a Soul Coin to cast an extended range &#x27;Dominate Person&#x27; on Gislev. Force him to target Gortash instead of you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Undercity Ruins (Temple Bridge)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:35))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 26 (Siphon Boost) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (40m)**
@@ -2901,8 +3052,11 @@ The trap is sprung.
 > 👤 **Player:**
 > *"hold and watch but if needed strike gortash and steel watchers from the rear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Undercity Ruins (Temple Bridge)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:40))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 26 (Siphon Boost) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (40m)**
@@ -2957,8 +3111,11 @@ The bridge is a kill-zone. Gislev is chanting again. The Watchers are damaged. A
 > 👤 **Player:**
 > *"think. is power word kill still targeeting gortash?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Undercity Ruins (Temple Bridge)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 26 (Siphon Boost) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (40m)**
@@ -2968,8 +3125,11 @@ The bridge is a kill-zone. Gislev is chanting again. The Watchers are damaged. A
 > 👤 **Player:**
 > *"tell my team to focus gortash and i. should assassinate him too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Undercity Ruins (Temple Bridge)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 26 (Siphon Boost) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (40m)**
@@ -3003,8 +3163,11 @@ Gortash is surrounded. He is bleeding. And he is realizing that his Steel Watch 
 > 👤 **Player:**
 > *"knock him out for capture, be ready for counter spell or grapple"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Undercity Ruins (Temple Bridge)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (20:45))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 26 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (39m)**
@@ -3046,8 +3209,11 @@ One stone secured. One waiting on the altar. The Trinity is breaking.
 > 👤 **Player:**
 > *"capture farslayer, secure and bind gortash, fully strip gortash, take his stone gear useful to me then distribute. Then seize altar so i should have both stones"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Temple of Bhaal (Inner Sanctum)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (21:00))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 26 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | True Seeing (30m)**
@@ -3093,8 +3259,11 @@ You look at the two stones in your hand—Tyranny and Murder. You have the Army 
 > 👤 **Player:**
 > *"secure temple of bhaal as a base with my men, return to coiled serpent, interrogate gortash"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:00))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active) | True Seeing (Expired)**
@@ -3128,8 +3297,11 @@ He glances at the stones in your hands. "You have two. You want the Crown. But y
 > 👤 **Player:**
 > *"send a runner to bhaal temple to loot everything and bring to coiled serpent. think about best way to get info from gortash without soul coin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:15))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active)**
@@ -3159,8 +3331,11 @@ You look at the **Whispering Idol** at your hip. You have 13 Soul Coins left. Yo
 > 👤 **Player:**
 > *"combine obsolete and butchers threat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:20))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active)**
@@ -3196,8 +3371,11 @@ Gortash looks at Orin. He sees the madness. He sees the hunger. He knows, with a
 > 👤 **Player:**
 > *"verify codes, then get the location without revealing my lie."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:25))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active)**
@@ -3244,8 +3422,11 @@ You walk out of the containment block, the heavy door sealing the two Chosen in 
 > 👤 **Player:**
 > *"cant i just use the steel watch army for myself? Also should i attack the brain? why not get the third stone from moonrise?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:30))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active)**
@@ -3275,8 +3456,11 @@ Gortash smiles thinly. "A sound strategy. But remember... the Foundry has its ow
 > 👤 **Player:**
 > *"Ask gortash why he cant just get foundry to stand down?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:35))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active)**
@@ -3304,8 +3488,11 @@ The path is clear. The Foundry cannot be tricked from afar. It must be conquered
 > 👤 **Player:**
 > *"What if i just attune to the stone and bring you with me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:40))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active)**
@@ -3339,8 +3526,11 @@ To attune requires a Short Rest (1 hour). To bring Gortash requires a logistical
 > 👤 **Player:**
 > *"Think. pros/cons. Any downside to hand of glory?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **The Coiled Serpent (High Security Ward), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (Evening (22:45))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active)**
@@ -3364,8 +3554,11 @@ The choice is between a dead key that might not turn, and a living key that migh
 > 👤 **Player:**
 > *"Send a runner to guild and fist. have them mobilize to help us in the assault. Then quickly shop and equip myself and my black lotus elite with the best suitable gear and items, then long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **The Coiled Serpent (War Room), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 21 | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Poison: Ghost of Bhaal (3 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (6/6 Active) | Idol's Aura (Active) | Bane's Authority (Attuned)**
@@ -3409,8 +3602,11 @@ remember i can attune eveything i want. i dont need to unattune
 
  You retreat to your quarters. You place the **Netherstone of Bane** on the table. It pulses with a heavy, authoritarian black light. You un-attune the *Ring of Protection*, feeling your magical defenses thin slightly, and reach for the Stone.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **The Coiled Serpent (War Room) -> Steel Watch Foundry Perimeter** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3450,8 +3646,11 @@ You have the Stone. You have the Tyrant. You have the Codes. It is time to enter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dominate Gortash First - Cast 'Dominate Person' on Gortash (Level 5 Slot) to force him to open the door willingly, removing betrayal risk during the scan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Steel Watch Foundry (Lobby), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:05))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3501,8 +3700,11 @@ Combat has begun. You are inside. But the watchdog is awake.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Gondians: &#x27;Sabotage!&#x27; - Use your Action to intimidate/inspire the Gondians to sabotage the Titan&#x27;s power couplings from their terminals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Steel Watch Foundry (Lobby), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 54,200/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3532,8 +3734,11 @@ The Titan roars, swinging its massive blade blindly, but it is vulnerable. You h
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Killing Blow (Titan) - Surge in with Bloodthirst. The Titan is vulnerable. End it with a massive damage spike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Steel Watch Foundry (Lobby), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:06))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3572,8 +3777,11 @@ You turn to the heavy blast doors at the rear of the lobby. Beyond them lies the
 > 👤 **Player:**
 > *"Think. what gear did we loot from gortash and who got it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Steel Watch Foundry (Lobby), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:07))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3591,8 +3799,11 @@ You have his power, his weapon, and his authority. Now you just need his chair.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Short Rest (Recovery) - Take an hour in the secure lobby to heal, recover Bardic Inspiration, and re-tune spells before the final push.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Steel Watch Foundry (Lobby), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (09:07))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3621,8 +3832,11 @@ You stand, sliding **Bloodthirst** back into its sheath. You are rested. You are
 > 👤 **Player:**
 > *"query final traps, scavenge ptitan, arm gondians, then enter control center and seize army"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -3676,8 +3890,11 @@ You feel it. A sudden, massive expansion of your awareness. You can feel the Wat
 > 👤 **Player:**
 > *"Think. Should i keep gortash alive and whole or just remove his arms/legs and keep him prisoner indef?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Steel Watch Foundry (Control Centre), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:08))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3687,8 +3904,11 @@ You feel it. A sudden, massive expansion of your awareness. You can feel the Wat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Selective Crippling (Break Fingers) - Don&#x27;t remove the limbs, but break his fingers or sever the tendons. He can&#x27;t cast/craft *now*, but can be healed later if needed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Steel Watch Foundry (Control Centre), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:15))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3716,8 +3936,11 @@ The only thing left is the Brain beneath the waves.
 > 👤 **Player:**
 > *"Think. Can gortash still do some crafting/tech by instructing others?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Steel Watch Foundry (Control Centre), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:16))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3727,8 +3950,11 @@ The only thing left is the Brain beneath the waves.
 > 👤 **Player:**
 > *"can we do tutor but pick someone else besides nyx?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Steel Watch Foundry (Control Centre), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (08:18))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3754,8 +3980,11 @@ Gortash watches you, waiting to see who his new student will be. "Choose wisely,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tutor: The Shadow Monarch - Take the instruction yourself. Spend the time to learn the command syntax and maintenance protocols personally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Steel Watch Foundry (Control Centre), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (10:00))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 (Bane's Authority) | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 4/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Knowledge: Steel Watch Protocols**
@@ -3793,8 +4022,11 @@ The final piece of the puzzle lies beneath the water. The **Morphic Pool**. The 
 > 👤 **Player:**
 > *"transport gortash, have steel watch defend my buildings and safe houses, bring some to help with morphic pool, final resupply, signal to fist and guild i need a full out force to assault elder brain, do magic research to see how I can use the stones to dominate brain with only two, long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **The Coiled Serpent (War Room), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (10:00))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 60/60 | AC: 19 | DC: 22 | XP: 62,600/64,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3847,8 +4079,11 @@ move gortash to different area so they cant plot tgoether
 
 did you give me proper exp for all of that? i should get a massive amount of beating gortash etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The Coiled Serpent (High Security Ward) -> The Shadow Bank** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (10:30))** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard (College of Swords) | HP: 68/68 | AC: 19 | DC: 22 | XP: 85,000/85,000 (Level 11 Pending!) | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Poison: Ghost of Bhaal (2 doses), Magical Secrets: Unlocked** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3878,8 +4113,11 @@ Your mind expands. The boundaries of your class dissolve. You unlock the most co
 > 👤 **Player:**
 > *"do i already have counterspell?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Shadow Bank (Secure Vault)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (10:35))** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard (College of Swords) | HP: 68/68 | AC: 19 | DC: 22 | XP: 85,000/85,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Magical Secrets: Pending Selection** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3906,8 +4144,11 @@ Since you already acted as if you had *Counterspell*, taking it now would "canon
 > 👤 **Player:**
 > *"counter spell and banishing smite"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Coiled Serpent (Docking Bay) -> Undercity Ruins** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:00))** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard (College of Swords) | HP: 68/68 | AC: 19 | DC: 22 | XP: 85,000/85,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Magical Secrets: Counterspell, Banishing Smite** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3955,8 +4196,11 @@ The hatch hisses open. The path to the Morphic Pool is clear.
 > 👤 **Player:**
 > *"process level 11 first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Undercity Submersible Dock (The Iron Throne)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:05))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -3995,8 +4239,11 @@ You step onto the hull of the vessel. The code *Dominion* burns in your mind. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Learn: Otto&#x27;s Irresistible Dance - Unlock a boss-control spell with no initial save. Forces the target (even the Brain&#x27;s avatars) to waste turns dancing. Reflavor as &#x27;Puppet Strings&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Iron Throne (Submersible), Descending to Morphic Pool** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:10))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active)**
@@ -4044,8 +4291,11 @@ It is colossal. It wears the **Crown of Karsus** like a jagged halo of netherese
 > [!NOTE] ⚙️ **Player Choice:**
 > *God-Mode: Mind Blank - Burn a Soul Coin to cast &#x27;Mind Blank&#x27; (via Siphon) on the party to render everyone immune to psychic damage/charm before exiting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:15))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (24h)**
@@ -4093,8 +4343,11 @@ It is time to conduct.
 > 👤 **Player:**
 > *"Think. Pros/cons to each"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:15))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (24h)**
@@ -4110,8 +4363,11 @@ You hold the stones. You have the silence. Now you must decide how to break the 
 > 👤 **Player:**
 > *"Think. can I cast otto on the brain?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:16))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (24h)**
@@ -4121,8 +4377,11 @@ You stare across the brine at the pulsating mass of the Elder Brain. The **Crown
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Otto&#x27;s via Netherstone - Use the Stone of Bane as a focus to bypass the Charm immunity. Force the Brain to &#x27;Dance&#x27; (spasm/lock up), wasting its action.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:16))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (23h 59m)**
@@ -4158,8 +4417,11 @@ You hold Bane and Bhaal aloft. The Battery screams. The Brain twitches. The circ
 > 👤 **Player:**
 > *"shield the battery, execute ritual, order others to do all out attack. during the ritual make sure i dominate the brain vs kill it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:17))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (24h) | Elder Brain (Dominated)**
@@ -4211,8 +4473,11 @@ You stand on the dock, the master of the Absolute. You have the Army. You have t
 > 👤 **Player:**
 > *"Think. can I absorb the brain and capture all its poweR?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:18))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (24h) | Elder Brain (Dominated)**
@@ -4222,8 +4487,11 @@ You stand on the dock, the master of the Absolute. You have the Army. You have t
 > 👤 **Player:**
 > *"Think. cant i do infernal siphon and somehow keep the hive mind and st eel watch?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:19))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 89,900/100,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (24h) | Elder Brain (Dominated)**
@@ -4233,8 +4501,11 @@ You stand on the dock, the master of the Absolute. You have the Army. You have t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infernal Siphon: The Lobotomy - Drain the Elder Brain&#x27;s intellect and personality. Consume its mind to fuel your own, leaving its body as a living server for the network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Morning (11:25))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Swords) | HP: 76/76 | AC: 19 | DC: 22 | XP: 100,000/100,000 (Campaign Climax) | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Bane's Authority (Active) | Mind Blank (24h) | Elder Brain (Lobotomized)**
@@ -4288,8 +4559,11 @@ You turn to your squad. You have the Army. You have the City. And now, you have 
 God Mode:
 Did you give me the proper exp for the amazing things I did? what level should I be after beating, dominating, andt hen consuming elder brain?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 84/84 | AC: 19 | DC: 22 | XP: 113,900/120,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge (+2 INT/WIS)**
@@ -4323,8 +4597,11 @@ Isnt this kind of low? what lvl was nether brain?
 
 take metamagic adept and pick subtle spell and quickened spell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Midday (12:05))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 (Prof +5) | XP: 145,000/165,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Points: 2/2, Poison: Ghost of Bhaal (2 doses)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge (+2 INT/WIS)**
@@ -4362,8 +4639,11 @@ You stand on the dock, vibrating with arcane potential. You can cast spells with
 God Mode:
 what do those 3 level 7 spells do?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Midday (12:05))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000/165,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge (+2 INT/WIS)**
@@ -4381,8 +4661,11 @@ You must choose one to etch permanently into your soul.
 God Mode:
 Learn: Teleport - Select Teleport. Gain the ability to move your squad anywhere instantly. Opens up global conquest options.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Midday (12:10))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000/165,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 (Teleport Known)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge (+2 INT/WIS)**
@@ -4415,8 +4698,11 @@ You raise your hand. The air warps. The sigil of **Teleportation** burns into th
 > 👤 **Player:**
 > *"Think. My new goal is to become an actual god but spend awhile as on faerun with hidden power and try to delay other gods noticing me for awhile. Which option is the best ? Pros/cons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Midday (12:15))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000/165,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge (+2 INT/WIS)**
@@ -4426,8 +4712,11 @@ You raise your hand. The air warps. The sigil of **Teleportation** burns into th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The God-King in Shadow (Proxy Rule) - Rule Baldur&#x27;s Gate openly as a mortal Tyrant/Savior. Secretly redirect the Absolute&#x27;s worship to yourself. Hide your divine spark behind the noise of political power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **The High Hall, Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Evening (18:00) [The Coronation)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Ruler of Baldur's Gate**
@@ -4483,8 +4772,11 @@ Baldur's Gate is yours. Long may you reign.
 God Mode:
 what level are my companions? they should be really strong by now too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **The High Hall, Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 7, 1492 DR (Evening (18:05) [The Coronation)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ruler of Baldur's Gate**
@@ -4494,8 +4786,11 @@ what level are my companions? they should be really strong by now too
 God Mode:
 Sandbox Mode - Continue playing day-to-day in Baldur&#x27;s Gate, managing the empire and dealing with minor insurrections.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **The High Hall (Private Council Chamber), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5, Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ruler of Baldur's Gate**
@@ -4523,8 +4818,11 @@ You lean back in your chair, the **Netherstone of Bane** warm in your pocket. Th
 > 👤 **Player:**
 > *"Think. Could I just let lyra and my generals act autonomously, decide things for themselves and report back to my on day to day things? I wanna prioritize more important things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **The High Hall (Private Council Chamber), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Midday (12:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ruler of Baldur's Gate**
@@ -4542,8 +4840,11 @@ They are capable. They are terrified of you. And they are bored. Perhaps the lea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Protocol: The Silent King (High Autonomy) - Grant full autonomy to your lieutenants. Lyra runs the city. Vesper runs the shadows. You retreat to the Coiled Serpent to focus purely on high-level magic and Ascension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Afternoon (14:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ruler of Baldur's Gate (Ascendant)**
@@ -4583,8 +4884,11 @@ You sit at your desk, surrounded by tomes of Netherese lore, the **Netherstone o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with the Server - Connect deeply with the lobotomized Elder Brain. Sift through the millions of minds in the city to find hidden threats or secrets missed by Vesper.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Afternoon (15:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Connected to Server**
@@ -4613,8 +4917,11 @@ You open your eyes. The room is quiet, but the map in your head is burning with 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Call the War Room - Summon Vesper, Silas, and Lyra. Brief them on all three threats. Assign each lieutenant to a target while you oversee.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **The Coiled Serpent (War Room), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Afternoon (15:30) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Connected to Server**
@@ -4661,8 +4968,11 @@ You lean back in your chair, the **Netherstones** clicking together in your hand
 > 👤 **Player:**
 > *"Tell lyra to also plan our wedding when after Mol handled and make it grand. Then just get periodic updates from the elder brain and back to godhood planning"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Late Afternoon (16:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (College of Swords) | HP: 91/91 | AC: 19 | DC: 23 | XP: 145,000 | Gold: 6,800 gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Connected to Server**
@@ -4690,8 +5000,11 @@ All pieces are in motion. All threats are managed. You turn your eyes back to th
 God Mode:
 shouldn't i have received more powers for consuming the elder brain? the stats i got seem kinda weak? Also now should we just say my gold is virtually unlimited and only have some narrative control? also you arent showing me exp to next level in the session header aka level 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Late Afternoon (16:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 145,000/165,000 | Gold: Unlimited (Sovereign Treasury)** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Magical Secrets: Pending** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Master's Flourish**
@@ -4709,8 +5022,11 @@ You stand in your sanctum, a Level 14 demigod with the resources of an emperor. 
 God Mode:
 since i took the elder brain shouldnt i just get all 3 psionic rewards?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Late Afternoon (16:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 145,000/165,000 | Gold: Unlimited (Sovereign Treasury)** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Magical Secrets: Pending** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Master's Flourish | Netherbrain Gestalt**
@@ -4738,8 +5054,11 @@ Now, only the **Magical Secrets** remain to be chosen to complete your ascension
 God Mode:
 Select Magical Secrets (Lvl 14) - Choose 2 Spells (up to Lvl 7). Recommendations: &#x27;Simulacrum&#x27; (Double yourself), &#x27;Finger of Death&#x27; (Zombie Army), &#x27;Crown of Stars&#x27; (Bonus Action Damage), &#x27;Reverse Gravity&#x27; (Control).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Late Afternoon (16:15) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 145,000/165,000 | Gold: Unlimited (Sovereign Treasury)** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Magical Secrets: Pending Selection** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Master's Flourish | Netherbrain Gestalt**
@@ -4770,8 +5089,11 @@ The choice is yours. Which two secrets will you burn into your soul?
 > 👤 **Player:**
 > *"simulacrum and resurrection"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 21, 1492 DR (Late Afternoon (16:20) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 145,000/165,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Master's Flourish | Netherbrain Gestalt**
@@ -4796,8 +5118,11 @@ You stand. The world is your sandbox.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Create Simulacrum - Spend 12 hours and 1,500gp (ruby dust) to create your permanent duplicate. This will use your 7th level slot for the day.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **The Coiled Serpent (Inner Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Early Morning (04:20) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 145,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 (Simulacrum Cast)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Master's Flourish | Netherbrain Gestalt**
@@ -4839,8 +5164,11 @@ The Astral Hunt awaits. The Githyanki are gathering at the Devil's Fee. House Hh
 > 👤 **Player:**
 > *"hold simulacrum in reserve, have it ready to help whomever needs help, resume god planning"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **The Coiled Serpent (Inner Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (04:30) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 145,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Master's Flourish | Netherbrain Gestalt**
@@ -4870,8 +5198,11 @@ The threats on your map—the Githyanki at the Devil's Fee, Raphael at the Guild
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Lieutenants (Delegation) - Stop planning and start harvesting. Order Vesper to Hhune, Silas to the Githyanki, and Lyra to Mol simultaneously. You oversee via the Brain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (05:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 145,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Connected to Server**
@@ -4911,8 +5242,11 @@ You sit in the center of the web, feeling the tremors of your empire shifting. Y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Overwatch (Trust) - Do nothing. Trust your generals to execute. Watching them succeed without help cements their confidence and your &#x27;distant god&#x27; persona.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (07:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 155,000/165,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Master's Flourish | Netherbrain Gestalt**
@@ -4947,8 +5281,11 @@ An hour later, they return to the Sanctum. They carry the spoils of war, but the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Research: The Divine Spark - Retire to your library. Use the Elder Brain&#x27;s processing power to synthesize the Netherese texts and Dead Three lore into a concrete ritual for Godhood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **The Coiled Serpent (Private Library / Interface Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 99/99 | AC: 19 | DC: 23 | XP: 155,000/165,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Absolute Knowledge | Connected to Server**
@@ -4982,8 +5319,11 @@ The Elder Brain projects the ritual into your thoughts. It is elegant. It is ter
 > [!NOTE] ⚙️ **Player Choice:**
 > *The First Step: Consume Gargauth - Perform the ritual to drain the Shield of the Hidden Lord. Use the Idol and Siphon to eat the demigod inside.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **The Coiled Serpent (Private Library), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:30) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (College of Swords) | HP: 59/99 (Damage Taken) | AC: 19 | DC: 23 | XP: 155,000/165,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d10), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Soul Burn (Disadvantage CON)**
@@ -5024,8 +5364,11 @@ You collapse into your chair, gasping. Smoke rises from your armor. You feel hol
 God Mode:
 i should get a massive amount of exp and new powers from consuming Gargauth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **The Coiled Serpent (Private Library), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:35) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 180,000/195,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Aspect of the Tenth Lord**
@@ -5055,8 +5398,11 @@ You stand, the **Shield of the Hidden Lord** now just a slab of dull iron on you
 God Mode:
 Select 8th Level Spell - Choose your new high-tier magic. Recommendations: &#x27;Dominate Monster&#x27; (Control), &#x27;Feeblemind&#x27; (Anti-Mage), &#x27;Glibness&#x27; (Social Godhood).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **The Coiled Serpent (Private Library), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:40) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Aspect of the Tenth Lord**
@@ -5081,8 +5427,11 @@ The mage-killer. You blast a creature's intellect and charisma down to 1. They b
 God Mode:
 Learn: Dominate Monster - Gain the power to enslave any creature type. Useful for turning high-level threats into assets.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Coiled Serpent (Private Library), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:45) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 (Dominate Monster Known)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Aspect of the Tenth Lord**
@@ -5109,8 +5458,11 @@ The **Crown of Karsus** sits on the brow of the lobotomized Brain. It is a maste
 God Mode:
 Consult the Architect - Visit Gortash in the Shadow Bank vault. Force him to review your modification schematics to ensure you haven&#x27;t missed a fatal flaw.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Shadow Bank (Deep Vault), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (10:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Aspect of the Tenth Lord**
@@ -5144,8 +5496,11 @@ Gortash leans back against the cold stone wall. "Get the Crown, Monarch. Let's s
 God Mode:
 Press Gortash on Avernus - Before leaving, ask Gortash what he knows about Raphael or Zariel. He dealt with devils; he might know who is coming for you next.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Shadow Bank (Deep Vault), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (10:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Aspect of the Tenth Lord**
@@ -5177,8 +5532,11 @@ You signal **Vessic**. The heavy vault door slams shut, sealing the Archduke in 
 God Mode:
 Check Wedding Preparations - Teleport to the High Hall to ensure Lyra has the &#x27;Anchor&#x27; ritual ready. The Wedding is the final step, but it needs to be perfect.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The High Hall (Grand Chapel), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (10:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Aspect of the Tenth Lord**
@@ -5217,8 +5575,11 @@ All that remains is the Vessel.
 
 Also i can make a psionic doppleganger or something? lets do that too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Coiled Serpent (Sanctum Workshop), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (11:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord**
@@ -5262,8 +5623,11 @@ You pick up the **Regulator**. It is warm to the touch. You have the Fuel. You h
 > 👤 **Player:**
 > *"query brain and in parallel telepathically tell all my generals about my ascension and explain its the number 1 priority and to use all resources at their disposal to secure it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (07:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark (Acquired) | Aspect of the Tenth Lord**
@@ -5300,8 +5664,11 @@ I am a woman not a man
 
 craft the regulator and have simulcrum always doing something useful autonomously ot help with ritual
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **The Coiled Serpent (Sanctum Workshop), Lower City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (08:30) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord**
@@ -5338,8 +5705,11 @@ The Regulator is ready. The Fuel is burning in your veins. Now you must go to th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retrieve the Crown - Teleport to the Morphic Pool. Remove the Crown of Karsus from the Elder Brain. Install the Regulator immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (08:35) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord**
@@ -5385,8 +5755,11 @@ Suddenly, the water of the Morphic Pool begins to boil. Not from heat, but from 
 > 👤 **Player:**
 > *"get my simulcrum to dominate monster on him and if it fails i do it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (08:40) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord**
@@ -5430,8 +5803,11 @@ Rewrite the Contract: Force Raphael to sign a new Soul Contract, pledging the Ho
 
 and then do this Extract Crown Secrets: Force Raphael to explain the 'Clause' and the specific dangers of the Ascension ritual immediately."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **The Morphic Pool (Elder Brain Dock)** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (08:45) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord**
@@ -5463,8 +5839,11 @@ You have the Empire. You have the Army. You have the Anchor. You have the Vessel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Glibness - If you have the spell/scroll, cast it now to ensure the &#x27;Lie&#x27; to the Crown is perfect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **The High Hall (Grand Chapel), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord | Infernal Glibness (59m)**
@@ -5512,8 +5891,11 @@ You lift the Crown.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Vows (Bind the Anchor) - Complete the wedding ceremony first to maximize the &#x27;Anchor&#x27; energy from Lyra and the crowd before crowning yourself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **The High Hall (Grand Chapel), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:15) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord | Infernal Glibness (44m)**
@@ -5559,8 +5941,11 @@ You lower the Crown onto your head.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Endure the Ascension - Make the Constitution Save to survive the influx of divine energy as the Crown integrates with your mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **The High Hall (Grand Chapel), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:16) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Divine Spark | Aspect of the Tenth Lord | Ascension (Unstable)**
@@ -5586,8 +5971,11 @@ You have seconds. The power must go somewhere, or it will unmake you.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Burn the Hoard (Soul Coins) - Consume ALL remaining Soul Coins (7) in a single massive Infernal Siphon to create a temporary buffer. Costly, but saves Lyra and the Crowd.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **The High Hall (Grand Chapel), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Morning (09:17) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord**
@@ -5625,8 +6013,11 @@ You stand at the altar, the Crown fused to your brow, the Netherstones orbiting 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sandbox: The God-King - Continue playing in this world. Manage your empire, crush rebellions, and build monuments to your glory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord**
@@ -5656,8 +6047,11 @@ You are the State. The board is yours. Where do you place your pieces today?
 > 👤 **Player:**
 > *"Think. How can i avoid attracting attention of the other gods for now? What can I do and what should i avoid?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord**
@@ -5667,8 +6061,11 @@ You are the State. The board is yours. Where do you place your pieces today?
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Secular Masquerade (Political Camouflage) - Frame your rule as purely political and arcane. Outlaw &#x27;religion&#x27; in favor of &#x27;Order&#x27;. Hide your divinity behind bureaucracy and steel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord | Divine Camouflage (Active)**
@@ -5708,8 +6105,11 @@ Visit the Architect: Gortash knows how to suppress faith; he did it for Bane. Co
 Establish the 'Grey Chorus': Create a secret police force under Vesper specifically to hunt down underground cults and unauthorized clerics.
 Suppress the Water Queen: The Umberlants control the harbor. Send Silas and the Steel Watch to 'audit' their temple for 'illegal smuggling' and shut it down."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **The Shadow Bank (Deep Vault), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord | Divine Camouflage (Active)**
@@ -5749,8 +6149,11 @@ He looks at you, his expression darkening. "But Umberlee... the Bitch Queen. She
 > 👤 **Player:**
 > *"get my simulcrum to help silas and do whats needed. In parallel assess my new god abilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **The Shadow Bank (Deep Vault) -> The Coiled Serpent (Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord | Divine Camouflage (Active)**
@@ -5790,8 +6193,11 @@ Didnt we finish this? Finalize Wedding Prep: Teleport to the High Hall. Ensure L
 
 Also i need powers for donning the karsus crown and ascending etc and abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **The High Hall (Grand Chapel), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Evening (18:00) [The Grand Wedding)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 24 (Crown Boost) | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord | Crown of Karsus (Regulated)**
@@ -5826,8 +6232,11 @@ God Mode:
 cast glibness then do this 
 Begin the Wedding: Open the doors. Walk the aisle. Speak the vows. Trigger the Anchor Ritual to bind the city's soul to yours permanently.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **The High Hall (Grand Chapel), Upper City** &nbsp;|&nbsp; ⏳ **Tarsakh 22, 1492 DR (Evening (18:05) [The Grand Wedding)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 24 (Crown Boost) | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Infernal Glibness (1h)**
@@ -5873,8 +6282,11 @@ It is time to put on the hat.
 God Mode:
 Wait I already put on the crown. The Coronation (Don the Crown): Place the Crown of Karsus on your head. Speak the Clause. Endure the surge. Ascend.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord**
@@ -5941,8 +6353,11 @@ You flex your hand. Violet lightning, crimson hellfire, and silver psionic energ
 
 But power demands application. The Harbor is a battlefield. The Wedding is a stage. And the Hells are watching.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Swords) | HP: 108/108 | AC: 21 | DC: 23 | XP: 185,000 | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 0, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (7/7 Active) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord**
@@ -5962,8 +6377,11 @@ And in the High Hall, the Elturel Ambassador is pacing, wondering why the God-Ki
 God Mode:
 enter dm mode and pause campaign for now. I should be a lot more powerful after ascending. Give me some reasonable powers for my feat and i should prob be level 20 at least
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 🛡️ **Level 20 Bard (God-King) | HP: 168/168 | AC: 23 | DC: 25 | XP: 355,000 (Max) | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 11, Spells: All Tiers Unlocked (9th Level Access)** &nbsp;|&nbsp; ⚠️ **Divine Rank 0 (Quasi-Deity) | Omni-Attunement (Limit Broken) | Reality Manipulation**
@@ -5973,8 +6391,11 @@ enter dm mode and pause campaign for now. I should be a lot more powerful after 
 God Mode:
 I need more. i did what even karsus could not do and I am an actual god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 🛡️ **Level 20 Bard (God-King) | HP: 200/200 | AC: 23 | DC: 27 | XP: MAX | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Soul Coins: 11, Spells: All Tiers Unlocked (9th Level Access)** &nbsp;|&nbsp; ⚠️ **Divine Rank 0 (Quasi-Deity) | Omni-Attunement (Limit Broken) | Reality Manipulation**
@@ -5984,8 +6405,11 @@ I need more. i did what even karsus could not do and I am an actual god
 God Mode:
 I need that and more. You didnt give me anything for my crowning and making the city worship me etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 🛡️ **Divine Rank 1 (Lesser Deity) | HP: 240/240 | AC: 28 | DC: 30 | XP: INFINITE | Gold: Irrelevant** &nbsp;|&nbsp; ✨ **Spell Slots: Infinite (L1-L5), 4/4 (L6-L8), 3/3 (L9). Inspiration: Infinite.** &nbsp;|&nbsp; ⚠️ **True Divinity | Reality Manipulation | Omni-Attunement (Infinite) | The Shadow Monarch**
@@ -6024,8 +6448,11 @@ This is the power of a God living on the Material Plane. The masquerade is for *
 God Mode:
 Would it make sense to just make me level 50 and scale my stats accordingly? I am an actual god now. What rank of deity should I be versus other gods?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 🛡️ **Divine Rank 1 (Lesser Deity) | HP: 240/240 | AC: 28 | DC: 30 | XP: INFINITE | Gold: Irrelevant** &nbsp;|&nbsp; ✨ **Spell Slots: Infinite (L1-L5), 4/4 (L6-L8), 3/3 (L9). Inspiration: Infinite.** &nbsp;|&nbsp; ⚠️ **True Divinity | Reality Manipulation | Omni-Attunement (Infinite) | The Shadow Monarch**
@@ -6062,8 +6489,11 @@ This is the power of a God living on the Material Plane. The masquerade is for *
 God Mode:
 i think you should scale me to be a level 50 bard or is that too much?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 🛡️ **Divine Rank 1 (Lesser Deity) | HP: 500/500 | AC: 30 | DC: 35 | XP: N/A (Godhood)** &nbsp;|&nbsp; ✨ **Infinite Spell Slots (L1-L9 for Mortals), 3/day Divine Miracles (10th Level Magic)**
@@ -6104,8 +6534,11 @@ This is the equivalent of being 'Level 50' but cleaner. Here is where you sit in
 God Mode:
 can I be an intermediate deity but with secret power since i went secular? also I want placeholder stats for str, int, cha etc too and I want you to jsut scale me to level 50 and see if thats bettert han the choices you made. Assume I spread my ASIs evenly. Give me all feats and all spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A** &nbsp;|&nbsp; ✨ **Spell Slots: Infinite. Actions: 4/Round. Legendary Resistances: 5/Day.**
@@ -6155,8 +6588,11 @@ The City continues to turn. The Elturel Ambassador is still waiting. But now, yo
 God Mode:
 ok thats good and give me all the abilities you had before too. everything
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A** &nbsp;|&nbsp; ✨ **Spell Slots: Infinite. Actions: 4/Round. Legendary Resistances: 5/Day.**
@@ -6206,8 +6642,11 @@ The City continues to turn. The Elturel Ambassador is still waiting. But now, yo
 God Mode:
 Resume: The Throne Room - Return to the High Hall to deal with the Elturel Ambassador using your new stats (CHA 40). Dominate the negotiation instantly.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe)**
@@ -6245,8 +6684,11 @@ The mortal affairs of the Sword Coast are settling into a pattern of absolute su
 God Mode:
 Accelerate the Spire - Prioritize the construction of the &#x27;Spire of Night&#x27;. You need a global broadcast range for your psionics to enslave armies before they reach the walls.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 1 (Lesser Deity) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe)**
@@ -6272,8 +6714,11 @@ As the first beams are laid, the silver mirror floating near the ceiling ripples
 > 👤 **Player:**
 > *"Think. Can i use wish to finish the spire now and just use dominate monster on Zariel or whomever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:15) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe)**
@@ -6283,8 +6728,11 @@ As the first beams are laid, the silver mirror floating near the ceiling ripples
 > 👤 **Player:**
 > *"Think. What if I just use alter reality to make zariel my servant? Don't do anything yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:15) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe)**
@@ -6294,8 +6742,11 @@ As the first beams are laid, the silver mirror floating near the ceiling ripples
 > 👤 **Player:**
 > *"Think. How about the earlier miracle combo?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:16) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe)**
@@ -6305,8 +6756,11 @@ As the first beams are laid, the silver mirror floating near the ceiling ripples
 > [!NOTE] ⚙️ **Player Choice:**
 > *Optimize: Summon Zariel - Finish the Spire (Alter Reality). Then, instead of going to Hell, use the Spire&#x27;s amplification to casting &#x27;Gate&#x27; and pull Zariel to YOU.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:20) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Alter Reality: 0/1** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Spire of Night (Complete) | Divine Presence (Awe)**
@@ -6344,8 +6798,11 @@ She sees the **Crown**. She sees the **Spire**. She sees the **God** standing be
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Attrition Cascade - Cast &#x27;Hold Monster&#x27; (DC 40). If she uses a Legendary Resistance, cast it again immediately (Action Surge/Quickened). Burn her out in one turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:25) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 3/4 (L9), Divine Salient Abilities: Active, Legendary Resistances (Zariel): 0/3** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Spire of Night (Complete) | Divine Presence (Awe) | Action Surge (Used)**
@@ -6393,8 +6850,11 @@ Silence falls over the Sanctum. The Archdevil stands before you, a statue of war
 > 👤 **Player:**
 > *"Think. Which helps my power the best long term? My eventual goal is to grow in power until I can unseat Ao. But first become strong est greater deity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:30) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 1 (Lesser Deity) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe)**
@@ -6404,8 +6864,11 @@ Silence falls over the Sanctum. The Archdevil stands before you, a statue of war
 > [!NOTE] ⚙️ **Player Choice:**
 > *Path of the God-Eater (Recommended) - Hunt and consume Lesser Deities and Archdevils (starting with Zariel). Steal their Portfolios to reach Divine Rank 10+ quickly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:35) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe) | Portfolio: War (Acquired)**
@@ -6446,8 +6909,11 @@ The **Echo** steps forward. "The Hells are headless. The Blood War is stalled. A
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Legions - Use your new Portfolio of War to project your voice into Avernus. Command Zariel&#x27;s generals to stand down and await your orders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:40) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6483,8 +6949,11 @@ You have the Army. You have the City. You have the God. And now, you have the He
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eternal Reign (Sandbox) - Continue managing your trans-planar empire. Deal with the politics of the Hells and the Material Plane indefinitely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Ascended (Demigod) | Aspect of the Tenth Lord**
@@ -6514,8 +6983,11 @@ You are the State. The board is yours. Where do you place your pieces today?
 God Mode:
 You went back in time
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **The Space Between Moments** &nbsp;|&nbsp; ⏳ **Outside of Time (The Chronal Void)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Alter Reality: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Time Traveler**
@@ -6543,8 +7015,11 @@ Where do you land?
 God Mode:
 No I mean change the campaign to put my after consuming zariel and talent over her army. Fix it as a DM
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Aspect of the Tenth Lord | Divine Presence (Awe)**
@@ -6582,8 +7057,11 @@ The mortal affairs of the Sword Coast are settling into a pattern of absolute su
 God Mode:
 Still the wrong place. I just ate zariel, look at the historical story entries
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:45) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6613,8 +7091,11 @@ How do you rule?
 > 👤 **Player:**
 > *"Still the wrong place. I already consumed Zariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6624,8 +7105,11 @@ How do you rule?
 God Mode:
 Eternal Reign (Sandbox) - Manage your trans-planar empire. Deal with petitions from devils and nobles alike. Enjoy the godhood you earned.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 15, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6657,8 +7141,11 @@ The sandbox is infinite. The threats are cosmic. The day begins.
 > 👤 **Player:**
 > *"Make al my generals level 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **The Coiled Serpent (Sanctum), Lower City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:45) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6693,8 +7180,11 @@ The light fades. Your generals stand. They are no longer looking at you with fea
 > 👤 **Player:**
 > *"It's not a retcon. Make Lyra level 20 and make Gortash and Orin healed again and force them to serve me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6732,8 +7222,11 @@ You have not just conquered your enemies; you have weaponized them. You have a f
 > [!NOTE] ⚙️ **Player Choice:**
 > *War: The Dragon Queen - Take the FULL Council (You, Gortash, Orin, Lyra, Black Lotus) to Avernus. Hunt Tiamat. It will be a slaughter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Avernus (Tiamat's Lair - The Dragon's Spire)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6773,8 +7266,11 @@ The slaughter begins.
 > 👤 **Player:**
 > *"Alpha strike, summon legion, and keep casting dominate monster on her until it works"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Avernus (Tiamat's Lair - The Dragon's Spire)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Intermediate Deity (Rank 6) | HP: 666/666 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6829,8 +7325,11 @@ You stand on the snout of the Red Dragon head, looking out over your new domain.
 > 👤 **Player:**
 > *"Think. Am I strong enough to challenge Ao? If I consume Tiamat can I still hide my power?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Avernus (Tiamat's Lair - The Dragon's Spire)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:15) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6844,8 +7343,11 @@ But as you raise **Bloodthirst**, the **Absolute Knowledge** of the Elder Brain 
 > 👤 **Player:**
 > *"Can I subjugate and make her sign an infernal contract to make it even stronger ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6883,8 +7385,11 @@ You have not just conquered your enemies; you have weaponized them. You have a f
 God Mode:
 Fix this you jumped back in time again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Avernus (Tiamat's Lair - The Dragon's Spire)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:20) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -6929,8 +7434,11 @@ The campaign's major conflicts are resolved. The cosmos is quiet... for now.
 > 👤 **Player:**
 > *"Is this actually doable? The Impossible War (Challenge Ao): You have the power. You have the arrogance. Try to breach the Overgod's sanctum. (Warning: Likely Game Over/Ascension to NPC status)."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **The High Sanctorum (Outside Reality)** &nbsp;|&nbsp; ⏳ **End of Time** &nbsp;|&nbsp; 🛡️ **Entity Class (Vestige) | HP: N/A | AC: N/A | DC: N/A** &nbsp;|&nbsp; ✨ **Resources: None. You are the Resource.** &nbsp;|&nbsp; ⚠️ **Campaign Concluded | Apotheosis Achieved | Agency Removed**
@@ -7014,8 +7522,11 @@ You are the God you wanted to be.
 God Mode:
 Undo my last action. I was assessing if I could beat him I didn't wanna do anything yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Avernus (The Bronze Citadel - Archduke's Throne Room)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe) | Zariel (Consumed)**
@@ -7046,8 +7557,11 @@ You stand. The throne room shakes. You have the Army. You have the Power. It is 
 God Mode:
 I already dominated Tiamat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Avernus (Tiamat's Lair - The Dragon's Spire)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (15:30) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe) | Tiamat (Subjugated)**
@@ -7078,8 +7592,11 @@ The game has reached its zenith. You stand at the summit of power.
 God Mode:
 Eternal reign and stop trying to end the campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A (Godhood) | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -7107,8 +7624,11 @@ You are the God-King. There are no more level caps. There are no more boundaries
 God Mode:
 Why are my stats locked? Should my divine rank be higher than Tiamat now since I beat her and stats increased?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (16:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Greater Deity (Rank 15) | HP: 1000/1000 | AC: 50 | DC: 45 | XP: MAX | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L9), Divine Salient Abilities: Alter Reality (At Will), Life and Death (At Will)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War, Tyranny, Secrets | Divine Presence (Absolute)**
@@ -7141,8 +7661,11 @@ You sit on the Dragon Throne. You have won the Game of Stones. You have won the 
 God Mode:
 Extrapolate my level and stats again. I should probably be like level 250?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (16:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Greater Deity (Rank 15) | HP: 1000/1000 | AC: 50 | DC: 45 | XP: MAX | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L9), Divine Salient Abilities: Alter Reality (At Will), Life and Death (At Will)** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War, Tyranny, Secrets | Divine Presence (Absolute)**
@@ -7175,8 +7698,11 @@ You sit on the Dragon Throne. You have won the Game of Stones. You have won the 
 God Mode:
 Create Avatar - Detach a splinter of your essence (Level 20 Bard) to walk the world anonymously while your True Form rules from the throne.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **The High Hall (Throne Room) & The Lower City (Avatar)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Evening (18:00) [Reign)** &nbsp;|&nbsp; 🛡️ **True Form (Greater Deity) | Avatar (Lvl 20 Bard)** &nbsp;|&nbsp; ✨ **True Form: Infinite Resources. Avatar: Standard Lvl 20 Resources.** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Divine Presence (Split Consciousness)**
@@ -7208,8 +7734,11 @@ You stand at the precipice of the Upper City, looking down into the smog of the 
 > 👤 **Player:**
 > *"Let my avatar advance my goals autonomously also let it make a simulacrum to help it."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **The High Hall (Throne Room) & Lower City (Avatar)** &nbsp;|&nbsp; ⏳ **Kythorn 15, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Greater Deity (Rank 15) | HP: 1000/1000 | AC: 50 | DC: 45 | XP: MAX | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Divine Presence (Absolute) | Avatar Active**
@@ -7247,8 +7776,11 @@ Even Gods have paperwork.
 God Mode:
 Process my new rank. I shouldn't be locked to level 50 anymore. Treat me like level 350 and multiply all my stats and DC by 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **The High Hall (Throne Room) & Omniversal Nexus** &nbsp;|&nbsp; ⏳ **Kythorn 15, 1492 DR (Midday (12:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Overgod (Rank 25+) | HP: 7000/7000 | AC: 350 | DC: 315 | XP: INFINITE | Gold: Irrelevant** &nbsp;|&nbsp; ✨ **Inspiration: Infinite (d100), Spell Slots: Infinite (All Tiers), Salient Abilities: Rewrite Existence (At Will)** &nbsp;|&nbsp; ⚠️ **The Hunger (Eternal) | Omni-Attunement (Absolute) | Reality Anchor | Singularity of Will**
@@ -7284,8 +7816,11 @@ What does a being with **315 DC** do? You do not roll dice. You decide outcomes.
 God Mode:
 Make a simulcrum of myself
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **The High Hall (Throne Room) & Omniversal Nexus** &nbsp;|&nbsp; ⏳ **Kythorn 15, 1492 DR (Midday (12:05) [Reign)** &nbsp;|&nbsp; 🛡️ **Overgod (Rank 25+) | HP: 7000/7000 | AC: 350 | DC: 315 | XP: INFINITE | Gold: Irrelevant** &nbsp;|&nbsp; ✨ **Inspiration: Infinite (d100), Spell Slots: Infinite (All Tiers), Salient Abilities: Rewrite Existence (At Will)** &nbsp;|&nbsp; ⚠️ **The Hunger (Eternal) | Omni-Attunement (Absolute) | Reality Anchor | Singularity of Will**
@@ -7321,8 +7856,11 @@ What does a being with **315 DC** do? You do not roll dice. You decide outcomes.
 > 👤 **Player:**
 > *"Make a simulcrum of myself as a god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **The High Hall (Throne Room) & Omniversal Nexus** &nbsp;|&nbsp; ⏳ **Kythorn 15, 1492 DR (Midday (12:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Overgod (Rank 25+) | HP: 7000/7000 | AC: 350 | DC: 315 | XP: INFINITE | Gold: Irrelevant** &nbsp;|&nbsp; ✨ **Inspiration: Infinite (d100), Spell Slots: Infinite (All Tiers), Salient Abilities: Rewrite Existence (At Will)** &nbsp;|&nbsp; ⚠️ **The Hunger (Eternal) | Omni-Attunement (Absolute) | Reality Anchor | Singularity of Will | Dual Existence**
@@ -7350,8 +7888,11 @@ You have doubled infinity. Now there are two Shadow Monarchs. The multiverse has
 > [!NOTE] ⚙️ **Player Choice:**
 > *Genesis: The Pantheon of Self - Why stop at two? Create a council of 12 Simulacra to serve as the new Pantheon, replacing the old gods entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **The High Hall (Throne Room) & Omniversal Nexus** &nbsp;|&nbsp; ⏳ **Kythorn 15, 1492 DR (Midday (12:15) [Reign)** &nbsp;|&nbsp; 🛡️ **Overgod (Rank 25+) | HP: 7000/7000 | AC: 350 | DC: 315 | XP: INFINITE | Gold: Irrelevant** &nbsp;|&nbsp; ✨ **Inspiration: Infinite (d100), Spell Slots: Infinite (All Tiers), Salient Abilities: Rewrite Existence (At Will)** &nbsp;|&nbsp; ⚠️ **The Hunger (Eternal) | Omni-Attunement (Absolute) | Reality Anchor | Singularity of Will | The Pantheon of Self (Active)**
@@ -7392,8 +7933,11 @@ You sit back. You have replaced the Pantheon. You are not just the God of Baldur
 > 👤 **Player:**
 > *"Think. Can I use the 12 to make a new form of magic that can beat Ao and is outside his law? Don't act yet just assess"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **The High Hall (Throne Room) & Omniversal Nexus** &nbsp;|&nbsp; ⏳ **Kythorn 15, 1492 DR (Midday (12:10) [Reign)** &nbsp;|&nbsp; 🛡️ **Overgod (Rank 25+) | HP: 7000/7000 | AC: 350 | DC: 315 | XP: INFINITE | Gold: Irrelevant** &nbsp;|&nbsp; ✨ **Inspiration: Infinite (d100), Spell Slots: Infinite (All Tiers), Salient Abilities: Rewrite Existence (At Will)** &nbsp;|&nbsp; ⚠️ **The Hunger (Eternal) | Omni-Attunement (Absolute) | Reality Anchor | Singularity of Will | Dual Existence**
@@ -7421,8 +7965,11 @@ You have doubled infinity. Now there are two Shadow Monarchs. The multiverse has
 God Mode:
 You went back in time
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **The Bronze Citadel (Archduke's Throne Room), Avernus** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Afternoon (14:45) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 6 (Lesser Deity) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -7453,8 +8000,11 @@ The Hells are yours to command. What is your first decree?
 God Mode:
 I already dominated Tiamat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **The High Hall (Throne Room), Upper City** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday (12:00) [Reign)** &nbsp;|&nbsp; 🛡️ **Divine Rank 2 (Demigod) | HP: 700/700 | AC: 45 | DC: 40 | XP: N/A | Gold: Unlimited** &nbsp;|&nbsp; ✨ **Inspiration: Infinite, Spell Slots: Infinite (L1-L8), 4/4 (L9), Divine Salient Abilities: Active** &nbsp;|&nbsp; ⚠️ **The Hunger (Sated) | Omni-Attunement (Infinite) | Idol's Aura (Active) | Portfolio: War (Active) | Divine Presence (Awe)**
@@ -7474,6 +8024,8 @@ Your Court of Shadows is gathered:
 Deep in the vaults, **Enver Gortash** and **Orin the Red** remain your silent trophies—a crippled architect and a bound slayer, living reminders of the price of defiance.
 
 The wars are over. The conquest is complete. Now begins the long, glorious work of eternity. The multiverse is your garden. How do you wish to tend it today?
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

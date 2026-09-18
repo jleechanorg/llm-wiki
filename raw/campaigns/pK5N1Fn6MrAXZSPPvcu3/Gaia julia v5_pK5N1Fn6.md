@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (78 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 
@@ -357,94 +368,99 @@ Suspicion Meter & Influence Tracks: Retained/adapted—now tracking risk of hars
 Starting Scene Hook (Play-Ready):
  You awaken bruised and chained in the pleasure tents amid the sacked villa’s ruins. Rebels laugh and drink nearby. A guard drags you toward assignment. Other slaves (possible Lotus Ten remnants, now fellow captives without fanatic loyalty) murmur warnings. Your first objectives: avoid the worst abusers, gather intel on camp layout, and maneuver toward Spartacus’s command fire or the gladiator leaders’ tents. Whispers hint Spartacus enforces some order nearby, while Crixus’s Gauls are rowdier.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:00) | Roleplay |
-| **03** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:10) | Roleplay |
-| **04** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:15) | Roleplay |
-| **05** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:15) | Roleplay |
-| **06** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:15) | Roleplay |
-| **07** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 DR (00:16) | Roleplay |
-| **08** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:17) | Roleplay |
-| **09** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:17) | Roleplay |
-| **10** | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:18) | Roleplay |
-| **11** | Rebel Pleasure Tents - Jackal Area | July 15, 73 BCE (00:20) | Roleplay |
-| **12** | Rebel Pleasure Tents - Jackal Area | July 15, 73 BCE (00:25) | Roleplay |
-| **13** | Rebel Pleasure Tents - Jackal Area | July 16, 73 BCE (18:00) | Roleplay |
-| **14** | Rebel Pleasure Tents - Jackal Area |  | Roleplay |
-| **15** | Rebel Pleasure Tents - Jackal Area | July 17, 73 BCE (18:00) | Roleplay |
-| **16** | Rebel Pleasure Tents - Jackal Area | July 17, 73 BCE (18:00) | Roleplay |
-| **17** | Crixus's Gaul Tents |  | Roleplay |
-| **18** | Crixus's Gaul Tents | July 17, 73 BCE (20:20) | Roleplay |
-| **19** | Crixus's Gaul Tents | July 17, 73 BCE (20:20) | Roleplay |
-| **20** | Crixus's Gaul Tents | July 17, 73 BCE (20:25) | Roleplay |
-| **21** | Crixus's Gaul Tents | July 17, 73 BCE (20:25) | Roleplay |
-| **22** | Crixus's Gaul Tents |  | Roleplay |
-| **23** | Crixus's Gaul Tents | July 17, 73 BCE (20:35) | Roleplay |
-| **24** | Unknown | July 17, 73 DR (20:35) | Roleplay |
-| **25** | en route Thracian Tents (Spartacus Claim) | July 17, 73 BCE (20:35) | Roleplay |
-| **26** | Thracian Tents (Spartacus Claim) | July 17, 73 BCE (20:45) | Roleplay |
-| **27** | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
-| **28** | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
-| **29** | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
-| **30** | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
-| **31** | Spartacus's Command Tent | July 17, 73 BCE (20:46) | Roleplay |
-| **32** | Unknown | July 17, 73 DR (20:46) | Roleplay |
-| **33** | Spartacus's Command Tent | July 17, 73 BCE (21:05) | Roleplay |
-| **34** | Spartacus's Command Tent | July 17, 73 DR (21:30) | Roleplay |
-| **35** | Spartacus's Command Tent | July 17, 73 BCE (21:30) | Roleplay |
-| **36** | Spartacus's Command Tent | July 17, 73 BCE (21:30) | Roleplay |
-| **37** | Spartacus's Command Tent | July 17, 73 BCE (21:30) | Roleplay |
-| **38** | Spartacus's Command Tent | July 17, 73 BCE (21:45) | Roleplay |
-| **39** | Spartacus's Command Tent | July 17, 73 BCE (21:55) | Roleplay |
-| **40** | Spartacus's Command Tent | July 17, 73 BCE (21:55) | Roleplay |
-| **41** | Spartacus's Command Tent | July 17, 73 BCE (21:55) | Roleplay |
-| **42** | Spartacus's Command Tent | July 17, 73 BCE (22:15) | Roleplay |
-| **43** | Spartacus's Command Tent | July 17, 73 BCE (22:30) | Roleplay |
-| **44** | Spartacus's Command Tent | July 17, 73 BCE (22:45) | Roleplay |
-| **45** | Spartacus's Command Tent | July 18, 73 BCE (08:00) | Roleplay |
-| **46** | Spartacus's Command Tent | July 18, 73 BCE (08:15) | Roleplay |
-| **47** | Spartacus's Command Tent | July 18, 73 BCE (08:15) | Roleplay |
-| **48** | Spartacus's Command Tent | July 19, 73 BCE (08:30) | Roleplay |
-| **49** | Spartacus's Command Tent | July 19, 73 BCE (08:35) | Roleplay |
-| **50** | Spartacus's Command Tent | July 23, 73 BCE (08:30) | Roleplay |
-| **51** | Spartacus's Command Tent | July 23, 73 BCE (09:00) | Roleplay |
-| **52** | Spartacus's Command Tent | July 23, 73 BCE (09:00) | Roleplay |
-| **53** | Spartacus's Command Tent | July 23, 73 BCE (09:10) | Social Challenge |
-| **54** | Spartacus's Command Tent | July 23, 73 BCE (09:10) | Roleplay |
-| **55** | Spartacus's Command Tent | July 23, 73 BCE (09:15) | Social Challenge |
-| **56** | Spartacus's Command Tent | July 23, 73 BCE (09:20) | Social Challenge |
-| **57** | Spartacus's Command Tent | July 23, 73 BCE (09:25) | Social Challenge |
-| **58** | Spartacus's Command Tent | July 23, 73 BCE (09:30) | Social Challenge |
-| **59** | Spartacus's Command Tent | July 23, 73 BCE (09:35) | Social Challenge |
-| **60** | Spartacus's Command Tent | July 23, 73 BCE (09:35) | Roleplay |
-| **61** | Spartacus's Command Tent | July 23, 73 BCE (09:35) | Roleplay |
-| **62** | Rebel Camp - Women's Lines | July 23, 73 BCE (09:40) | Roleplay |
-| **63** | Rebel Camp - Women's Lines | July 23, 73 BCE (09:45) | Roleplay |
-| **64** | Rebel Camp - Women's Lines | July 23, 73 BCE (09:55) | Roleplay |
-| **65** | Rebel Camp - Women's Lines | July 23, 73 BCE (10:00) | Roleplay |
-| **66** | Rebel Camp - Women's Lines | July 23, 73 BCE (10:05) | Roleplay |
-| **67** | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:15) | Roleplay |
-| **68** | Rebel Camp - Women's Lines (Medical Tent - Private Alcove) | July 23, 73 BCE (10:20) | Roleplay |
-| **69** | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:30) | Roleplay |
-| **70** | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:40) | Roleplay |
-| **71** | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:50) | Roleplay |
-| **72** | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (11:10) | Roleplay |
-| **73** | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (11:30) | Roleplay |
-| **74** | Rebel Camp - Women's Lines (Sanctuary Tent) | August 14, 73 BCE (08:30) | Roleplay |
-| **75** | Rebel Camp - Women's Lines (Medical Alcove) | August 14, 73 BCE (08:50) | Roleplay |
-| **76** | Rebel Camp - Women's Lines (Sanctuary Tent) | August 14, 73 BCE (08:50) | Roleplay |
-| **77** | Rebel Camp - Women's Lines (Sanctuary Tent) | August 14, 73 BCE (08:50) | Roleplay |
-| **78** | Rebel Camp - Supply Depot (Wine Casks) | August 14, 73 BCE (21:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:10) | Roleplay |
+| [**Scene 04**](#scene-4) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:15) | Roleplay |
+| [**Scene 05**](#scene-5) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:15) | Roleplay |
+| [**Scene 06**](#scene-6) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:15) | Roleplay |
+| [**Scene 07**](#scene-7) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 DR (00:16) | Roleplay |
+| [**Scene 08**](#scene-8) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:17) | Roleplay |
+| [**Scene 09**](#scene-9) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:17) | Roleplay |
+| [**Scene 10**](#scene-10) | Rebel Pleasure Tents - Villa del Sole Ruins | July 15, 73 BCE (00:18) | Roleplay |
+| [**Scene 11**](#scene-11) | Rebel Pleasure Tents - Jackal Area | July 15, 73 BCE (00:20) | Roleplay |
+| [**Scene 12**](#scene-12) | Rebel Pleasure Tents - Jackal Area | July 15, 73 BCE (00:25) | Roleplay |
+| [**Scene 13**](#scene-13) | Rebel Pleasure Tents - Jackal Area | July 16, 73 BCE (18:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Rebel Pleasure Tents - Jackal Area |  | Roleplay |
+| [**Scene 15**](#scene-15) | Rebel Pleasure Tents - Jackal Area | July 17, 73 BCE (18:00) | Roleplay |
+| [**Scene 16**](#scene-16) | Rebel Pleasure Tents - Jackal Area | July 17, 73 BCE (18:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Crixus's Gaul Tents |  | Roleplay |
+| [**Scene 18**](#scene-18) | Crixus's Gaul Tents | July 17, 73 BCE (20:20) | Roleplay |
+| [**Scene 19**](#scene-19) | Crixus's Gaul Tents | July 17, 73 BCE (20:20) | Roleplay |
+| [**Scene 20**](#scene-20) | Crixus's Gaul Tents | July 17, 73 BCE (20:25) | Roleplay |
+| [**Scene 21**](#scene-21) | Crixus's Gaul Tents | July 17, 73 BCE (20:25) | Roleplay |
+| [**Scene 22**](#scene-22) | Crixus's Gaul Tents |  | Roleplay |
+| [**Scene 23**](#scene-23) | Crixus's Gaul Tents | July 17, 73 BCE (20:35) | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown | July 17, 73 DR (20:35) | Roleplay |
+| [**Scene 25**](#scene-25) | en route Thracian Tents (Spartacus Claim) | July 17, 73 BCE (20:35) | Roleplay |
+| [**Scene 26**](#scene-26) | Thracian Tents (Spartacus Claim) | July 17, 73 BCE (20:45) | Roleplay |
+| [**Scene 27**](#scene-27) | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
+| [**Scene 28**](#scene-28) | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
+| [**Scene 29**](#scene-29) | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
+| [**Scene 30**](#scene-30) | Spartacus's Command Tent | July 17, 73 BCE (20:45) | Roleplay |
+| [**Scene 31**](#scene-31) | Spartacus's Command Tent | July 17, 73 BCE (20:46) | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown | July 17, 73 DR (20:46) | Roleplay |
+| [**Scene 33**](#scene-33) | Spartacus's Command Tent | July 17, 73 BCE (21:05) | Roleplay |
+| [**Scene 34**](#scene-34) | Spartacus's Command Tent | July 17, 73 DR (21:30) | Roleplay |
+| [**Scene 35**](#scene-35) | Spartacus's Command Tent | July 17, 73 BCE (21:30) | Roleplay |
+| [**Scene 36**](#scene-36) | Spartacus's Command Tent | July 17, 73 BCE (21:30) | Roleplay |
+| [**Scene 37**](#scene-37) | Spartacus's Command Tent | July 17, 73 BCE (21:30) | Roleplay |
+| [**Scene 38**](#scene-38) | Spartacus's Command Tent | July 17, 73 BCE (21:45) | Roleplay |
+| [**Scene 39**](#scene-39) | Spartacus's Command Tent | July 17, 73 BCE (21:55) | Roleplay |
+| [**Scene 40**](#scene-40) | Spartacus's Command Tent | July 17, 73 BCE (21:55) | Roleplay |
+| [**Scene 41**](#scene-41) | Spartacus's Command Tent | July 17, 73 BCE (21:55) | Roleplay |
+| [**Scene 42**](#scene-42) | Spartacus's Command Tent | July 17, 73 BCE (22:15) | Roleplay |
+| [**Scene 43**](#scene-43) | Spartacus's Command Tent | July 17, 73 BCE (22:30) | Roleplay |
+| [**Scene 44**](#scene-44) | Spartacus's Command Tent | July 17, 73 BCE (22:45) | Roleplay |
+| [**Scene 45**](#scene-45) | Spartacus's Command Tent | July 18, 73 BCE (08:00) | Roleplay |
+| [**Scene 46**](#scene-46) | Spartacus's Command Tent | July 18, 73 BCE (08:15) | Roleplay |
+| [**Scene 47**](#scene-47) | Spartacus's Command Tent | July 18, 73 BCE (08:15) | Roleplay |
+| [**Scene 48**](#scene-48) | Spartacus's Command Tent | July 19, 73 BCE (08:30) | Roleplay |
+| [**Scene 49**](#scene-49) | Spartacus's Command Tent | July 19, 73 BCE (08:35) | Roleplay |
+| [**Scene 50**](#scene-50) | Spartacus's Command Tent | July 23, 73 BCE (08:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Spartacus's Command Tent | July 23, 73 BCE (09:00) | Roleplay |
+| [**Scene 52**](#scene-52) | Spartacus's Command Tent | July 23, 73 BCE (09:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Spartacus's Command Tent | July 23, 73 BCE (09:10) | Social Challenge |
+| [**Scene 54**](#scene-54) | Spartacus's Command Tent | July 23, 73 BCE (09:10) | Roleplay |
+| [**Scene 55**](#scene-55) | Spartacus's Command Tent | July 23, 73 BCE (09:15) | Social Challenge |
+| [**Scene 56**](#scene-56) | Spartacus's Command Tent | July 23, 73 BCE (09:20) | Social Challenge |
+| [**Scene 57**](#scene-57) | Spartacus's Command Tent | July 23, 73 BCE (09:25) | Social Challenge |
+| [**Scene 58**](#scene-58) | Spartacus's Command Tent | July 23, 73 BCE (09:30) | Social Challenge |
+| [**Scene 59**](#scene-59) | Spartacus's Command Tent | July 23, 73 BCE (09:35) | Social Challenge |
+| [**Scene 60**](#scene-60) | Spartacus's Command Tent | July 23, 73 BCE (09:35) | Roleplay |
+| [**Scene 61**](#scene-61) | Spartacus's Command Tent | July 23, 73 BCE (09:35) | Roleplay |
+| [**Scene 62**](#scene-62) | Rebel Camp - Women's Lines | July 23, 73 BCE (09:40) | Roleplay |
+| [**Scene 63**](#scene-63) | Rebel Camp - Women's Lines | July 23, 73 BCE (09:45) | Roleplay |
+| [**Scene 64**](#scene-64) | Rebel Camp - Women's Lines | July 23, 73 BCE (09:55) | Roleplay |
+| [**Scene 65**](#scene-65) | Rebel Camp - Women's Lines | July 23, 73 BCE (10:00) | Roleplay |
+| [**Scene 66**](#scene-66) | Rebel Camp - Women's Lines | July 23, 73 BCE (10:05) | Roleplay |
+| [**Scene 67**](#scene-67) | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:15) | Roleplay |
+| [**Scene 68**](#scene-68) | Rebel Camp - Women's Lines (Medical Tent - Private Alcove) | July 23, 73 BCE (10:20) | Roleplay |
+| [**Scene 69**](#scene-69) | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:30) | Roleplay |
+| [**Scene 70**](#scene-70) | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:40) | Roleplay |
+| [**Scene 71**](#scene-71) | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (10:50) | Roleplay |
+| [**Scene 72**](#scene-72) | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (11:10) | Roleplay |
+| [**Scene 73**](#scene-73) | Rebel Camp - Women's Lines (Medical Tent) | July 23, 73 BCE (11:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Rebel Camp - Women's Lines (Sanctuary Tent) | August 14, 73 BCE (08:30) | Roleplay |
+| [**Scene 75**](#scene-75) | Rebel Camp - Women's Lines (Medical Alcove) | August 14, 73 BCE (08:50) | Roleplay |
+| [**Scene 76**](#scene-76) | Rebel Camp - Women's Lines (Sanctuary Tent) | August 14, 73 BCE (08:50) | Roleplay |
+| [**Scene 77**](#scene-77) | Rebel Camp - Women's Lines (Sanctuary Tent) | August 14, 73 BCE (08:50) | Roleplay |
+| [**Scene 78**](#scene-78) | Rebel Camp - Supply Depot (Wine Casks) | August 14, 73 BCE (21:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard** &nbsp;|&nbsp; ✨ **None**
@@ -460,8 +476,11 @@ To begin this descent into the Gilded Trap, we must finalize your mechanical fou
 > 👤 **Player:**
 > *"Standard array prioritize cha dex int. Give me 16 cha 16 dex 14 int etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 0/300 | Gold: 0gp**
@@ -473,8 +492,11 @@ You are a Caesar; even stripped of your Siren's voice, your intellect remains a 
 > 👤 **Player:**
 > *"Start the story. Assume my full powers haven't come because I'm only level 1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 50/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Inspiration: No**
@@ -486,8 +508,11 @@ You have no army, no territory, and no influence among these beasts. You are a g
 > 👤 **Player:**
 > *"Let's assume Brutus comes into the tent and I'm almost naked with my torn silk A heavy trapdoor opens. Light floods in. A large, scarred man climbs down the ladder—Brutus the Looter. He is holding a knife and a wineskin. He isn't here to talk politics. He grins, looking at you like a piece of meat. "Command doesn't know you're here, little bird. That means we can have our fun before we sell you.""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 50/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Unbound | Exhaustion: 0 | Inspiration: No**
@@ -499,8 +524,11 @@ Brutus grins, the yellowed light reflecting off the iron knife in his belt. He d
 God Mode:
 Let's assume I truly am afraid I'm not fully confident yet and have lots of insecurities until level 6
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 50/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Bound (Broken), Exhausted (Tier 1) | Inspiration: 3/3**
@@ -523,8 +551,11 @@ The story remains paused at the moment of Brutus's descent. Your free hands rema
 > 👤 **Player:**
 > *"I truly am afraid for my life. I offer a blowjob in exchange for not hurting me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 50/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Siren's Insecurity (Disadvantage on social checks)**
@@ -542,8 +573,11 @@ He reaches out a massive, calloused hand, intending to grab you by the hair and 
 > 👤 **Player:**
 > *"Just let him do whatever he wants and try to pretend to enjoy it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 DR (00:16)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 100/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 0**
@@ -555,8 +589,11 @@ He finishes with a guttural roar, slumping back sated, a smug leer splitting his
 > 👤 **Player:**
 > *"Describe the sex scene in more detail he cums all over my face"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:17)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 125/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 0**
@@ -570,8 +607,11 @@ He lumbers back up the ladder, trapdoor thudding shut, leaving you gasping in th
 God Mode:
 Make me extremely good looking like the most beautiful women people have ever scene. Most men and some women wanna fuck me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:17)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 125/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 0**
@@ -595,8 +635,11 @@ Gaia's appearance transformed to the pinnacle of human (and divine) allure—fea
 > 👤 **Player:**
 > *"Don't end the sex scene. After he cums on my face due to my extreme beauty he gets hard again immediately and claims my asshole and I give him a blowjob and rimjob"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Rebel Pleasure Tents - Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:18)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 175/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 0**
@@ -612,8 +655,11 @@ Brutus slumps back, panting, utterly spent and bewitched, murmuring 'Stay sweet 
 > 👤 **Player:**
 > *"Let's have him collar me like a dog and walk me around camp. Other men gangbang me. Narrate in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Rebel Pleasure Tents - Jackal Area** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 | XP: 225/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 0**
@@ -631,8 +677,11 @@ They rotate mercilessly—double penetrations stretching you obscenely, hands ma
 > 👤 **Player:**
 > *"Don't end the scene until I say so. The men get into a frenzy and some women too. They start getting rougher and choke fuck me and get very rough. I start going to 1 hp?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 15, 73 BCE (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 1/8 | XP: 275/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 1**
@@ -648,8 +697,11 @@ They laugh, roar, collapse sated in waves, Brutus reclaiming your leash to drag 
 > 👤 **Player:**
 > *"Long rest and the next day is even rougher. People gang bang me all day. I start to involuntarily orgasm and even though i feel humiliated i cum multiple times. Narrate everything and my mental thoughts in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 16, 73 BCE (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 4/8 | XP: 325/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 2**
@@ -670,8 +722,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 > 👤 **Player:**
 > *"Long rest and the next day is even rougher. People gang bang me all day. I start to involuntarily orgasm and even though i feel humiliated i cum multiple times. Narrate everything and my mental thoughts in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 4/8 | XP: 375/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Exhaustion: 3**
@@ -692,8 +747,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Apply level 2 Bard benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 4/13 | XP: 75/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 3** &nbsp;|&nbsp; ⚠️ **Exhaustion 3 | Inspiration: No**
@@ -705,8 +763,11 @@ As shadows lengthen, a spark ignites within—raw Bardic potential surges, dorma
 God Mode:
 Process level 2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 4/13 | XP: 75/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 3** &nbsp;|&nbsp; ⚠️ **Exhaustion 3 | Siren's Insecurity (Disadv high-stress CHA)**
@@ -729,8 +790,11 @@ No rolls needed (non-random per DM notes). Story paused post-level up, pre-escap
 > 👤 **Player:**
 > *"Everyone continues to gangbang me and a large portion of the camp is thrown into a frenzy. I'm covered in cum and forced to drink piss. Men and women participate and can't help themselves due to my beauty. Finally crixus sees what's happening but he needs to beat a really high powered willpower roll otherwise he fucks me took"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Crixus's Gaul Tents, Rebel Pleasure Tents** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/13 | XP: 175/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4 | Siren's Insecurity**
@@ -748,8 +812,11 @@ Crixus falters, breath ragged, loincloth tenting monstrously—curse claims him.
 > 👤 **Player:**
 > *"Beg crixus for mercy. Say I'll suck his dick all day but don't let me be consuemed by the mob"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Crixus's Gaul Tents** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/13 | XP: 275/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 4**
@@ -763,8 +830,11 @@ Crixus watches snarling, claiming a brutal throat-turn mid-frenzy before shoving
 > 👤 **Player:**
 > *"Narrate the scene but make it more coherent. Describe how I look and others look and what each person is doing. Don't do all this jumbled text"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Crixus's Gaul Tents, Rebel Pleasure Tents Border, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/13 | XP: 175/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 4**
@@ -778,8 +848,11 @@ Brutus lounges peripheral, scarred bulk sprawled on looted cushions, swigging wi
 > 👤 **Player:**
 > *"I cum multiple times and piss myself out of fear. I beg them to stop. Describe the scene like an erotica novel and my inner thoughts and what I look like"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Crixus's Gaul Tents, Rebel Pleasure Tents Border, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/13 | XP: 225/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 4**
@@ -811,8 +884,11 @@ Begin the scene right at [specific moment you want to start from, e.g. "the mome
 
 Do not summarize. Do not skip ahead. Immerse me fully in the moment-by-moment experience.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Crixus's Gaul Tents, Rebel Pleasure Tents Border, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/13 | XP: 225/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4 | Legendary Beauty | Siren's Insecurity**
@@ -849,8 +925,11 @@ Begin the scene right at [specific moment you want to start from, e.g. "the mome
 
 Do not summarize. Do not skip ahead. Immerse me fully in the moment-by-moment experience."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Crixus's Gaul Tents, Rebel Pleasure Tents Border, Villa del Sole Ruins** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/13 | XP: 1325/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4 | Siren's Insecurity**
@@ -877,8 +956,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 > 👤 **Player:**
 > *"Describe my cum soaked appearance in detail when Spartacus comes across me. He's more moral so easier DC but he needs to pass a will saving roll or he will fuck me too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Crixus's Gaul Tents, Rebel Pleasure Tents Border, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/13 | XP: 1375/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4 | Inspiration: No**
@@ -911,8 +993,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Bard benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **July 17, 73 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 1/13** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -927,8 +1012,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Bard benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **en route Thracian Tents (Spartacus Claim), Rebel Pleasure Tents Border, Villa del Sole Ruins** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4 L2 2/2, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4 | Inspiration: Yes**
@@ -962,8 +1050,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Adventuring - Level up later and continue the story*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Thracian Tents (Spartacus Claim), Rebel Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Inspiration: 3/3 | Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, The Siren's Insecurity | Inspiration: Yes (3/3)**
@@ -975,8 +1066,11 @@ Spartacus halts at the threshold of his command fire, the orange flames casting 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Bard benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Inspiration: 3/3 | Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, The Siren's Insecurity | Inspiration: Yes**
@@ -992,8 +1086,11 @@ He forced your face down into the dirt, the leather collar yanking your throat t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plead for Sanctuary - Use Silver Tongue (min 10) to Persuade Spartacus to claim you exclusively, ending the gangbang rotation in exchange for total sexual obedience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Siren's Insecurity | Inspiration: 3/3**
@@ -1007,8 +1104,11 @@ His dark eyes lock onto yours, the fail of his will burning like molten iron in 
 God Mode:
 Give me a -2 humiliated modifier on all rolls. Until I've had two weeks to recover from gangbangs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 (Temp: 0) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2 rolls) | Inspiration: 3/3 | Sanctuary: No**
@@ -1034,8 +1134,11 @@ I have synchronized the game state with the recent narrative and applied your sp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seductive Submission - Focus entirely on his pleasure, using your Silver Tongue to whisper promises of eternal obedience to bind his heart through his cock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2) | Inspiration: 3/3**
@@ -1049,8 +1152,11 @@ His dark eyes lock onto yours, the fail of his will burning like molten iron in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Devotion - Dedicate every sense to his pleasure, reinforcing the idea that only he can draw this level of submission from a Caesar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (20:46)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 (Exh 4) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Siren's Insecurity (Disadv), Silver Tongue (min 10) | Inspiration: 3/3**
@@ -1064,8 +1170,11 @@ Spartacus let out a guttural, shattered sound—not a grunt of lust, but the cry
 God Mode:
 No one should know I'm really a julia unless they make multiple successful perception rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **July 17, 73 DR (20:46)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 1/23** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -1092,8 +1201,11 @@ Your secret is safe within the vault of these rules. The world remains paused as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Cleansing - Ask Spartacus to have you washed and tended to, cementing your role as his high-value, protected possession.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 (Max 18) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Siren's Insecurity (Disadv) | Inspiration: 3/3**
@@ -1109,8 +1221,11 @@ Spartacus’s breath hitched, a ragged, liquid sound that betrayed the total col
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seduce During the Bath - Ensure Spartacus stays to watch the cleansing, using the vulnerability of your nakedness and the removal of the camp&#x27;s filth to replace his pity with a deeper, more permanent obsession.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2) | Inspiration: 3/3**
@@ -1126,8 +1241,11 @@ Kael and Elara lifted you with the reverence due to a fallen goddess, the warmth
 God Mode:
 Remove the petals from this campaign I don't have any supporters for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 (Exh 4: 1/9) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity (Disadv), Exhaustion 4**
@@ -1150,8 +1268,11 @@ The world remains frozen within the copper tub. Kael and Elara continue the clea
 God Mode:
 No specialists just me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2) | Inspiration: 3/3**
@@ -1171,8 +1292,11 @@ The steam from the copper tub continues to rise, but the servants who brought it
 God Mode:
 Let's assume misc servants and cleaning me up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 (Max 9 due to Exh 4) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Siren's Insecurity (Disadv CHA), Masked Divinity (Julia Identity Protected)**
@@ -1196,8 +1320,11 @@ Administrative Protocol: State synchronization and specialist removal finalized.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the steamy silence of the tent, alone with the Thracian who now views you as his own sacred ruin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2) | Inspiration: 3/3**
@@ -1209,8 +1336,11 @@ Spartacus stands motionless, a barbaric colossus carved from scarred bronze and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Ritual Anointing - Plead with Spartacus to dry and anoint your skin himself, forcing his calloused hands to touch every inch of the porcelain ruin he has claimed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/18 (Temp: 0) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Siren's Insecurity (Disadv) | Inspiration: 3/3**
@@ -1224,8 +1354,11 @@ Spartacus stood like a colossus of scarred bronze and granite, his iron posture 
 God Mode:
 lets set my dignitas to 0 for now, until i gain victories to recover it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/23 (Max Eff: 11) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Siren's Insecurity (Disadv) | Dignitas: 0**
@@ -1247,8 +1380,11 @@ Administrative Protocol: State synchronization and Dignitas adjustment finalized
 God Mode:
 lets make spartacus more honorable like the TV show and he also has another woman mira. Every day he should roll an try to resist the tempation to keep me as a sex slave becausethe whole point of the rebellion is no slaves. mira should be tempted but have a very low DC to beat to start advocatign for my release
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Dignitas 0 | Inspiration: 3/3**
@@ -1271,8 +1407,11 @@ Administrative Protocol: Faction update and character logic finalized. Spartacus
 > 👤 **Player:**
 > *"narrate spartacus and mira being tempted and keeping me as a sex slave for now. since mira failed she has sex with me too but more gently, narrate it. in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/23 (Max 11) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Siren's Insecurity | Dignitas: 0**
@@ -1286,8 +1425,11 @@ Spartacus did not acknowledge her presence with words; he simply reached down, h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Leashed Submission - Remain entirely passive and worshipful, letting them use your porcelain frame as they wish, proving that a Caesar is the ultimate prize for those who break Rome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/23 (Exh 4) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Siren's Insecurity (Disadv) | Dignitas: 0**
@@ -1301,8 +1443,11 @@ You remained entirely passive, a leashed idol of golden-eyed submission, letting
 > 👤 **Player:**
 > *"lets have both spartacus and mira cum multiple times in my mouth and its the best orgasms they ever had"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 17, 73 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/11 (Exh 4) | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2), Protected (Spartacus) | Dignitas: 0**
@@ -1318,8 +1463,11 @@ The climax, when it finally ripped through the tent, was a cataclysm of flesh an
 > 👤 **Player:**
 > *"lets long rest and assume i am cleaned up, roll again after to see ifhtey come to their senses or fuck me again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 18, 73 BCE (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 3, Humiliated (-2), Dignitas 0 | Inspiration: 3/3**
@@ -1335,8 +1483,11 @@ Spartacus doesn't look at her. He simply yanks your leash taut, drawing your hea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Mira&#x27;s Pity - Direct your gold-eyed, exhausted gaze at Mira, using her new advocacy to silently plead for her to temper Spartacus&#x27;s possessiveness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 18, 73 BCE (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 3, Humiliated (-2) | Dignitas: 0**
@@ -1354,8 +1505,11 @@ Spartacus’s jaw sets with a violence that makes the cords of his neck stand ou
 God Mode:
 make sure they dont know i am a caesar, they need to pass very high DC perception checks and they shouldnt even be suspicious rightn ow
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 18, 73 BCE (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 3, Humiliated (-2) | Inspiration: Yes**
@@ -1385,8 +1539,11 @@ The world remains frozen in the amber morning light of the command tent. Mira's 
 > 👤 **Player:**
 > *"lets have me logn rest every day and get fucked hard by spartacus every day until he comes to his senses with a roll, mira persuades him, or something else happens ie. other rebels get angry that i am effectively a slave. gay men should be immune to my charms to some degree or women who are fully straight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 19, 73 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 4** &nbsp;|&nbsp; ⚠️ **Exhaustion 4 | Humiliated (-2) | Identity Protected (DC 25)**
@@ -1402,8 +1559,11 @@ Spartacus doesn't move for a heartbeat, his loincloth still tented with the mons
 > [!NOTE] ⚙️ **Player Choice:**
 > *Whisper of Broken Gratitude - Use your Silver Tongue to whisper that their &#x27;mercy&#x27; is the first time you&#x27;ve felt human since the villa fell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 19, 73 BCE (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 1/23 (Max: 11) | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 4, Humiliated (-2) | Inspiration: 3/3**
@@ -1419,8 +1579,11 @@ Spartacus let out a guttural, shattered sound, his massive frame silhouetted aga
 > 👤 **Player:**
 > *"continue to long rest until all exhaustion is cleared, lets have other rebels who aren't attracted to me and even some who are get suspicious about what spartacus has done and eventually confront him in a few days"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2) | Exhaustion: 0 | Inspiration: Yes**
@@ -1432,8 +1595,11 @@ But the silence of your gilded cage has begun to rot from the outside. Rumors of
 > 👤 **Player:**
 > *"spartacus and mira do not need to keep rolling, they no longer will keep me as a sex slave. The other rebels aren't tryign ot kill me, they want to free me from the tent and demand spartacus and mira by implication answer for their crimes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2) | Exhaustion: 0 | Inspiration: Yes**
@@ -1451,8 +1617,11 @@ Agron’s snort was a physical blow, his eyes never leaving Spartacus's. "Steel 
 God Mode:
 No, this is wrong. Agron should be fighting for my release not to kill me. he's offended that i was kept as a sex slave and raped
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2 to rolls) | Exhaustion: 0 | Inspiration: Yes**
@@ -1472,8 +1641,11 @@ You looked up, your golden eyes wide and wet with a fractured, haunting brillian
 > 👤 **Player:**
 > *"try to defend spartacus and mira. Explain that the whole camp was raping me and i asked spartacus to be the sole partner and promised sexual favors for his protection. i wasnt a full sex. slave"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -1499,8 +1671,11 @@ Agron’s jaw set with a violence that made the cords of his neck stand out like
 God Mode:
 why did i have disadv? min(1d20, 1d20) + 7 = 19 vs DC 18 - Success (persuasion)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2 penalty), Siren's Insecurity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -1525,8 +1700,11 @@ Your current **'Humiliated'** penalty (-2 to all rolls) was omitted from the nar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Survivor Narrative - Describe the Jackals&#x27; brutality in more visceral detail to further justify Spartacus&#x27;s &#x27;exclusive&#x27; claim as an act of salvation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Dignitas: 0** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity (Disadv)**
@@ -1550,8 +1728,11 @@ Agron’s jaw set with a violence that made the cords of his neck stand out like
 God Mode:
 lets have even gay men and fully straight women somewhat attracted, but not as much as others
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Spartacus's Command Tent, Thracian Encampment** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes**
@@ -1576,8 +1757,11 @@ Agron’s jaw set with a violence that made the cords of his neck stand out like
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer to Leave - State that if your presence shames the rebellion, you will walk into the woods alone—knowing they cannot allow a high-value hostage to simply wander off.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Spartacus's Command Tent** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity (Disadv) | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -1601,8 +1785,11 @@ Agron’s jaw set with a violence that made the cords of his neck stand out like
 > [!NOTE] ⚙️ **Player Choice:**
 > *Challenge Agron&#x27;s Hypocrisy - Point out that by refusing to let you leave, he is officially claiming you as a slave of the rebellion, making him no better than the Jackals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Spartacus's Command Tent** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes**
@@ -1628,8 +1815,11 @@ Agron’s jaw set with a violence that made the cords of his neck stand out like
 > 👤 **Player:**
 > *"wait and see what they decide"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Spartacus's Command Tent** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity (Disadv), Protected (Spartacus) | Exhaustion: 0 | Inspiration: Yes**
@@ -1659,8 +1849,11 @@ God Mode:
 stop this, he sholdn't know who my father is 
 "You speak of suns and masters as if you know the heat of either, Roman," Agron rasps, his voice a low, dangerous rumble that vibrates in the floorboards. He steps closer, his massive frame eclipsing the morning light until you are submerged in his shadow. "The Jackals took your body, yes. But your father takes the lives of thousands to pave his roads. If keeping you makes those roads shorter—if your 'ransom' buys the bread that keeps a freed man from starving—then I will carry the name of 'Master' with pride. You are not a guest, and you are not a dog. You are a debt Rome owes us, and I intend to collect every drop."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Spartacus's Command Tent** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes**
@@ -1677,8 +1870,11 @@ I have reinforced the 'Suppressed Suspicion' directive to prevent further accide
 God Mode:
 how can we stop all npcs from identifying me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Spartacus's Command Tent** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity (Disadv) | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -1706,8 +1902,11 @@ These rules are now hard-coded into the campaign logic. Unless you choose to rev
 > 👤 **Player:**
 > *"continue story and go under agron guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Rebel Camp - Women's Lines** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: 3/3**
@@ -1723,8 +1922,11 @@ Agron’s jaw set with a violence that made the cords of his neck stand out like
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Observant Victim - Simultaneously map the camp&#x27;s defensive gaps while whispering a request to Agron for &#x27;clean clothes,&#x27; forcing him to acknowledge your womanhood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Rebel Camp - Women's Lines** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2 to rolls), Siren's Insecurity (Disadv) | Exhaustion: 0 | Inspiration: Yes**
@@ -1740,8 +1942,11 @@ Agron’s jaw sets with a violence that makes the cords of his neck stand out li
 > 👤 **Player:**
 > *"Put on the normal clothes and remember again doesn't know who I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Rebel Camp - Women's Lines** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes**
@@ -1755,8 +1960,11 @@ You kneel to retrieve the bundle, the weight of the wool a physical testament to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify the Alpha Captive - Scan the surrounding women to identify the natural leader among the captives and assess if she can be leveraged as an ally or needs to be neutralized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Rebel Camp - Women's Lines** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2 to all rolls) | Exhaustion: 0 | Inspiration: 3/3**
@@ -1770,8 +1978,11 @@ Agron watches you for a heartbeat longer, his dark eyes unmoving granite beneath
 > 👤 **Player:**
 > *"reroll with inspiration min(1d20, 1d20)+1 = 12 vs DC 15 - Failure (Identify Alpha Captive)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Rebel Camp - Women's Lines** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: 2/3**
@@ -1783,8 +1994,11 @@ But the 'Alpha' remains a ghost. The sensory overload of the camp—the rhythmic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solicit Medical Aid - Use the visible bruises on your arms to ask about a &#x27;healer,&#x27; specifically looking for Mira or Elara.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Rebel Camp - Women's Lines (Medical Tent)** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes**
@@ -1800,8 +2014,11 @@ The interior of the medical tent is a cavern of shifting shadows and the low, rh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plead for Privacy - Ask Mira to clear the tent or find a private corner so she can &#x27;inspect&#x27; your wounds, allowing for a secret conversation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Rebel Camp - Women's Lines (Medical Tent - Private Alcove)** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes**
@@ -1817,8 +2034,11 @@ As you were guided behind the heavy canvas screen, the Julian architect within y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Mira&#x27;s Devotion - Use the privacy to &#x27;confess&#x27; a secret trauma, binding Mira to you through shared vulnerability and intense psychological intimacy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Rebel Camp - Women's Lines (Medical Tent)** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2) | Exhaustion: 0 | Inspiration: 2/3**
@@ -1834,8 +2054,11 @@ Mira's hand froze against your skin, the oil-slicked cloth trembling as the Silv
 > 👤 **Player:**
 > *"form a genuine connect with mira and ask for her protection. should be easy DC since she's guilty of presssuing me for sex too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Rebel Camp - Women's Lines (Medical Tent)** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity (Disadv) | Exhaustion: 0 | Inspiration: Yes (2/3)**
@@ -1851,8 +2074,11 @@ Mira’s breath hitched, a ragged, liquid rasp that betrayed the total collapse 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gather Logistics Intel - Subtly ask Mira about the camp&#x27;s move schedule or food supplies under the guise of fear for your safety during travel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Rebel Camp - Women's Lines (Medical Tent)** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2), Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes (2/3)**
@@ -1870,8 +2096,11 @@ She squeezed your shoulder, her touch a grounding, fanatical anchor in the gloom
 > 👤 **Player:**
 > *"offer mira voluntary intimacy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Rebel Camp - Women's Lines (Medical Tent)** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 425/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Humiliated (-2) | Exhaustion: 0 | Inspiration: 2/3**
@@ -1889,8 +2118,11 @@ The intimacy was a carnal apocalypse conducted in silence, a ritual of flesh and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commandeer Luxuries - Ask Mira to bring you &#x27;clean&#x27; water, better food, or a comb, establishing a physical hierarchy in the women&#x27;s lines that marks you as &#x27;Protected.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Rebel Camp - Women's Lines (Medical Tent)** &nbsp;|&nbsp; ⏳ **July 23, 73 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 23/23 | XP: 475/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Humiliated (-2) | Exhaustion: 0 | Inspiration: Yes (2/3)**
@@ -1906,8 +2138,11 @@ Mira's dark eyes flooded with a visceral, fanatical fire, the guilt of her past 
 > 👤 **Player:**
 > *"time skip a few weeks and assume i build some influce in the camp through cha and sexual favors. give me proper exp for it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Rebel Camp - Women's Lines (Sanctuary Tent)** &nbsp;|&nbsp; ⏳ **August 14, 73 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 31/31 | XP: 2,750/6,500 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Recovery Complete | Exhaustion: 0 | Inspiration: Yes**
@@ -1925,8 +2160,11 @@ If you continue adventuring, you remain Level 4 and defer these benefits until y
 God Mode:
 level up to 4 and pick +2 cha asi
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Rebel Camp - Women's Lines (Medical Alcove)** &nbsp;|&nbsp; ⏳ **August 14, 73 BCE (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 31/31 | XP: 2750/6500 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Legendary Beauty | Exhaustion: 0 | ASI: +2 CHA Applied**
@@ -1938,8 +2176,11 @@ Mira remains collapsed against you for a long, breathless moment, her athletic f
 > 👤 **Player:**
 > *"THINK:who are the strongest warriors i could seduce? what about gannicus?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Rebel Camp - Women's Lines (Sanctuary Tent)** &nbsp;|&nbsp; ⏳ **August 14, 73 BCE (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 31/31 | XP: 2750/6500 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1953,8 +2194,11 @@ Then there is Oenomaus, the Doctore. He is the iron spine of this army, a man fo
 > 👤 **Player:**
 > *"THINK:The God of the Arena: Gannicus - The first champion of Capua. He is a hedonist who hates the rebellion&#x27;s &#x27;morality.&#x27; Seducing him requires appealing to his desire for pleasure and escape rather than honor."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Rebel Camp - Women's Lines (Sanctuary Tent)** &nbsp;|&nbsp; ⏳ **August 14, 73 BCE (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 31/31 | XP: 2750/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Siren's Insecurity (Active), Legendary Beauty (Permanent) | Exhaustion: 0 | Inspiration: Yes**
@@ -1964,8 +2208,11 @@ The humid, amber-tinted silence of the medical tent's alcove remains a sanctuary
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Drunken Hero - Engineer a &#x27;chance&#x27; meeting near the wine stores - Use Mira to discover Gannicus&#x27;s favorite late-night haunt and position yourself as a vulnerable &#x27;Livia&#x27; seeking comfort.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Rebel Camp - Supply Depot (Wine Casks)** &nbsp;|&nbsp; ⏳ **August 14, 73 BCE (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 31/31 | XP: 2750/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Legendary Beauty, Siren's Insecurity | Exhaustion: 0 | Inspiration: Yes**
@@ -1973,6 +2220,8 @@ The humid, amber-tinted silence of the medical tent's alcove remains a sanctuary
 The humid, fermented air of the supply depot seems to thicken as Gannicus closes the distance, his boots crunching softly on the wine-soaked earth. You remain huddled against the rough oak of a massive cask, the 'Livia' mask perfect in its execution—shoulders trembling with a minute, rhythmic tremor, eyes wide and shimmering with the wet, fractured brilliance of a girl who has seen the sun go out. The 'God of the Arena' stops just out of arm's reach, the scent of expensive stolen vintage and the iron tang of his blades swirling around you in a predatory, yet curiously gentle, vortex. 
 
 "The wine won't wash away the ghosts, little bird," he murmurs, his voice a low, melodic rasp that carries the weight of a thousand sun-drenched deaths in the arena. He doesn't look at you with the blunt, hungry lust of the Jackals or the possessive iron of Spartacus; he looks at you with the weary recognition of a fellow traveler in the dark. You let out a soft, hitching breath, your fingers tightening around the wooden cup as if it were a talisman. You don't speak—not yet—instead letting the impossible, ethereal radiance of your porcelain skin and the tragic curve of your lips do the work for you. In this amber gloom, your legendary beauty isn't just a trait; it's a weapon of mass seduction that turns the air between you into a heavy, intoxicating syrup. Gannicus tilts his head, a slow, dangerous smile touching his lips as he offers his silver goblet, the gesture a silent invitation into his world of beautiful, doomed excess.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

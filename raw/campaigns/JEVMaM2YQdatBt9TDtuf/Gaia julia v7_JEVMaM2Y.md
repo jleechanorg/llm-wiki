@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (48 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
@@ -164,64 +175,69 @@ The gates groan open. Quintus Lentulus Batiatus emerges, wiping grease from his 
  * **[B] The Divine Awe:** Drop the "Vibia" mask for a fraction of a second. Unleash a subtle wave of *Auctoritas* (casting *Friends* or *Command*) to force Lucretia to step back and lower her eyes, physically crushing her aura with your own before smiling sweetly.
  * **[C] The Golden Bait:** Ignore Lucretia entirely, treating her as beneath your notice. Address Batiatus directly, opening a purse of heavy gold and demanding a private, immediate showing of his most lethal asset, treating him not as a host, but as a merchant.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Capua - Gates of the Ludus | March 16, 44 BCE (09:00) | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown | March 16, 44 DR (09:00) | Roleplay |
-| **04** | Unknown | March 16, 44 DR (09:00) | Roleplay |
-| **05** | Capua - Gates of the Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
-| **06** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
-| **07** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
-| **08** | Gates of the Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
-| **09** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
-| **10** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
-| **11** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
-| **12** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Social Challenge |
-| **13** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:10) | Roleplay |
-| **14** | Training Pits | March 16, 44 BCE (09:15) | Roleplay |
-| **15** | Capua - Ludus of Batiatus | March 16, 44 BCE (09:20) | Roleplay |
-| **16** | Ludus of Batiatus - Inner Courtyard | March 16, 44 BCE (09:25) | Roleplay |
-| **17** | Capua - Ludus of Batiatus | March 16, 44 DR (09:35) | Social Challenge |
-| **18** | Capua - Ludus of Batiatus | March 16, 44 DR (09:40) | Social Challenge |
-| **19** | Tablinum | March 16, 44 DR (09:40) | Roleplay |
-| **20** | Tablinum | March 16, 44 DR (10:15) | Roleplay |
-| **21** | Capua - Ludus of Batiatus | March 16, 44 BCE (10:15) | Roleplay |
-| **22** | Unknown | March 16, 44 DR (10:15) | Roleplay |
-| **23** | Capua - Ludus of Batiatus | March 16, 44 BCE (10:15) | Roleplay |
-| **24** | Villa Batiatus - Grand Triclinium | March 16, 44 BCE (19:00) | Roleplay |
-| **25** | Capua - House of Batiatus (Grand Banquet) | March 16, 44 BCE (19:05) | Roleplay |
-| **26** | Unknown | March 16, 44 DR (19:05) | Roleplay |
-| **27** | Capua - Ludus of Batiatus | March 16, 44 DR (19:05) | Roleplay |
-| **28** | Capua - Ludus of Batiatus (Triclinium) | March 16, 44 BCE (19:15) | Roleplay |
-| **29** | Capua - Ludus of Batiatus | March 16, 44 BCE (19:30) | Social Challenge |
-| **30** | Capua - House of Batiatus (Triclinium) | March 16, 44 DR (19:45) | Roleplay |
-| **31** | Capua - House of Batiatus (Triclinium) | March 16, 44 BCE (19:50) | Social Challenge |
-| **32** | Capua - House of Batiatus (Triclinium) | March 16, 44 BCE (20:00) | Roleplay |
-| **33** | Capua - Ludus of Batiatus | March 16, 44 BCE (20:15) | Social Challenge |
-| **34** | Capua - Ludus of Batiatus | March 16, 44 BCE (20:20) | Roleplay |
-| **35** | Capua - House of Batiatus | March 16, 44 BCE (20:30) | Roleplay |
-| **36** | Capua - House of Batiatus / Suburra Slums | March 16, 44 BCE (21:30) | Roleplay |
-| **37** | Capua - Ludus of Batiatus | March 16, 44 BCE (21:50) | Social Challenge |
-| **38** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:00) | Social Challenge |
-| **39** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Social Challenge |
-| **40** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **41** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **42** | Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **43** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **44** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **45** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **46** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **47** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
-| **48** | Capua - Ludus of Batiatus | March 16, 44 BCE (22:25) | Roleplay |
+| [**Scene 01**](#scene-1) | Capua - Gates of the Ludus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown | March 16, 44 DR (09:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown | March 16, 44 DR (09:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Capua - Gates of the Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Gates of the Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:00) | Social Challenge |
+| [**Scene 13**](#scene-13) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:10) | Roleplay |
+| [**Scene 14**](#scene-14) | Training Pits | March 16, 44 BCE (09:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Capua - Ludus of Batiatus | March 16, 44 BCE (09:20) | Roleplay |
+| [**Scene 16**](#scene-16) | Ludus of Batiatus - Inner Courtyard | March 16, 44 BCE (09:25) | Roleplay |
+| [**Scene 17**](#scene-17) | Capua - Ludus of Batiatus | March 16, 44 DR (09:35) | Social Challenge |
+| [**Scene 18**](#scene-18) | Capua - Ludus of Batiatus | March 16, 44 DR (09:40) | Social Challenge |
+| [**Scene 19**](#scene-19) | Tablinum | March 16, 44 DR (09:40) | Roleplay |
+| [**Scene 20**](#scene-20) | Tablinum | March 16, 44 DR (10:15) | Roleplay |
+| [**Scene 21**](#scene-21) | Capua - Ludus of Batiatus | March 16, 44 BCE (10:15) | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown | March 16, 44 DR (10:15) | Roleplay |
+| [**Scene 23**](#scene-23) | Capua - Ludus of Batiatus | March 16, 44 BCE (10:15) | Roleplay |
+| [**Scene 24**](#scene-24) | Villa Batiatus - Grand Triclinium | March 16, 44 BCE (19:00) | Roleplay |
+| [**Scene 25**](#scene-25) | Capua - House of Batiatus (Grand Banquet) | March 16, 44 BCE (19:05) | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown | March 16, 44 DR (19:05) | Roleplay |
+| [**Scene 27**](#scene-27) | Capua - Ludus of Batiatus | March 16, 44 DR (19:05) | Roleplay |
+| [**Scene 28**](#scene-28) | Capua - Ludus of Batiatus (Triclinium) | March 16, 44 BCE (19:15) | Roleplay |
+| [**Scene 29**](#scene-29) | Capua - Ludus of Batiatus | March 16, 44 BCE (19:30) | Social Challenge |
+| [**Scene 30**](#scene-30) | Capua - House of Batiatus (Triclinium) | March 16, 44 DR (19:45) | Roleplay |
+| [**Scene 31**](#scene-31) | Capua - House of Batiatus (Triclinium) | March 16, 44 BCE (19:50) | Social Challenge |
+| [**Scene 32**](#scene-32) | Capua - House of Batiatus (Triclinium) | March 16, 44 BCE (20:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Capua - Ludus of Batiatus | March 16, 44 BCE (20:15) | Social Challenge |
+| [**Scene 34**](#scene-34) | Capua - Ludus of Batiatus | March 16, 44 BCE (20:20) | Roleplay |
+| [**Scene 35**](#scene-35) | Capua - House of Batiatus | March 16, 44 BCE (20:30) | Roleplay |
+| [**Scene 36**](#scene-36) | Capua - House of Batiatus / Suburra Slums | March 16, 44 BCE (21:30) | Roleplay |
+| [**Scene 37**](#scene-37) | Capua - Ludus of Batiatus | March 16, 44 BCE (21:50) | Social Challenge |
+| [**Scene 38**](#scene-38) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:00) | Social Challenge |
+| [**Scene 39**](#scene-39) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Social Challenge |
+| [**Scene 40**](#scene-40) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 41**](#scene-41) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 42**](#scene-42) | Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 43**](#scene-43) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 44**](#scene-44) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 45**](#scene-45) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 46**](#scene-46) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 47**](#scene-47) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:10) | Roleplay |
+| [**Scene 48**](#scene-48) | Capua - Ludus of Batiatus | March 16, 44 BCE (22:25) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Capua - Gates of the Ludus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -245,8 +261,11 @@ Does this character meet your approval, or would you like to make changes before
 > [!NOTE] ⚙️ **Player Choice:**
 > *Edit Character - Make changes to stats, abilities, or equipment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 🛡️ **Imperial Royalty (Lvl 1 Bard) | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **N/A - Character Setup**
@@ -264,8 +283,11 @@ You have entered **Edit Mode**. Below is the current configuration of Princess G
 > 👤 **Player:**
 > *"Make me level 5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 33/33 | XP: 6500/0** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4**
@@ -288,8 +310,11 @@ You now have room for **4 additional spells** and **1 additional cantrip**. Woul
 > [!NOTE] ⚙️ **Player Choice:**
 > *2. Use Recommended Imperial Spells - Automatically fill your remaining slots with thematic spells like *Hypnotic Pattern* and *Suggestion*.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 33/33 | XP: 6500/0** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4**
@@ -317,8 +342,11 @@ Your preparations are complete. The vipers of Capua are waiting. Shall we begin 
 > 👤 **Player:**
 > *"Make sure I have proper equipment, gold, items, retinue, give me an amount of money that would make me really rich in capua but if 100k gold is too much let’s pretend I can’t access all of it without breaking my disguise"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Capua - Gates of the Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6,500/14,000 | Gold: 5,000 (95,000 in Imperial Escrow)** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4 (d8), Exhaustion: 0**
@@ -334,8 +362,11 @@ You feel the rhythmic tap of the Julian gold coin in your hidden pocket. Beside 
 God Mode:
 Make sure I have proper equipment, gold, items, retinue, give me an amount of money that would make me really rich in capua but if 100k gold is too much let’s pretend I can’t access all of it without breaking my disguise
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Sovereign Voice | HP: 33/33 | XP: 6500/14000 | Gold: 5,000gp (95,000 Escrow)**
@@ -361,8 +392,11 @@ All systems are synchronized. The story is frozen at the gates of Batiatus.
 God Mode:
 Let’s calibrate my gold. We need to make sure I’m richer than battianus. Who are top 10 wealthiest capuans
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 5,000gp (100k Total Assets)**
@@ -390,8 +424,11 @@ Wealth calibration and Capuan economic audit complete.
 > 👤 **Player:**
 > *"Ok let’s start the campaign and make sure all the characters from  all seasons are in the campaign and change the story to make it possible. They need to act like their hbo show versions."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Gates of the Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4, Gold: 5,000 (Escrow: 95,000)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -416,8 +453,11 @@ Inside the courtyard, you can hear the rhythmic grunt of men in the pits—the s
 > 👤 **Player:**
 > *"Let’s assume I have 5 elite guards 5 beautiful slaves and 5 spies/assassin types. They are dressed down but the combat folks are all level 7-9 and truly elite. The slaves are level 1-3 three women two men but they are top 1% of beauty and I am top .0.01%. Narrate Battianus and Lucretia noticing my retinue and how even dressed down it stands out for its caliber. Assume levels are as rare as d&d but assume I’m masked as a level 1 so people can’t tell but my guards aren’t as good actors and their pure conpetence leaks through . Maybe 7-9 is too much perhaps they should be level 5-7?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) Bard | HP: 33/33 | XP: 6500/14000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -435,8 +475,11 @@ Lucretia’s smile falters, the predatory condescension in her eyes replaced by 
 God Mode:
 Let’s sssume it’s not that obvious they just notice and realize I’m higher tier than I appear but unsure how high. And maybe my guard should be level 5-7? Perhaps it’s not realistic to have 7-9 guards?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 5000gp**
@@ -455,8 +498,11 @@ State calibration complete. The Julian retinue has been adjusted for realistic h
 God Mode:
 As a child of the emperor realistically what type of force would be guarding me? Do their levels seem reasonable ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 5,000gp (100k Total)** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1) | Inspiration: Yes**
@@ -487,8 +533,11 @@ If your guards were Level 9, they would be famous. Every veteran in Italy would 
 > 👤 **Player:**
 > *"Resume narrative redo scene with more subtle power signaling from my retinue who are acting as common guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1) | Inspiration: Yes**
@@ -517,8 +566,11 @@ Lyra steps closer to you, her voice a soft, fanatical whisper meant only for you
 > 👤 **Player:**
 > *"Smile at Lucretia and say I like it rough. Ask her if she won’t invite me in? I may be a girl but my gold is good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 6700/14000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -536,8 +588,11 @@ Lucretia recovers just enough to manage a stiff, shallow curtsy. "A thousand par
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Training Pits - Demand an immediate showing of the 'lethal assets'—Spartacus, Crixus, or Gannicus—to assess the quality of Batiatus's stock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Training Pits, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Sovereign Voice | HP: 33/33 (Temp: 18) | XP: 6900/14000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -557,8 +612,11 @@ You turn your head slightly, catching Lucretia's (Lvl 5) gaze. The woman's jaw s
 > 👤 **Player:**
 > *"Aka batianus for a tour"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 5 available) Bard | HP: 33/33 (Temp: 18) | XP: 6900/0 | Gold: 5,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 4/4, Hero Points: 5** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -585,8 +643,11 @@ Batiatus's face goes from a sycophantic flush to a sickly, mottled grey. He look
 > 👤 **Player:**
 > *"let him read the message then ask him if everything is ok. perhaps he seeks an investor to help him or a patron?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Ludus of Batiatus - Inner Courtyard** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 7050/14000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4, Gold: 5000 (95k Escrow)** &nbsp;|&nbsp; ⚠️ **Inspiration | Exhaustion: 0 | Aura: Auctoritas**
@@ -606,8 +667,11 @@ Behind him, Lucretia (Lvl 5) bows her head lower, her fan trembling in her hand.
 > 👤 **Player:**
 > *"politely ask to see the debt and then negotiate an amzing deal for myself thatll make me richer."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 7275/14000 | Gold: 4000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4, Exhaustion: 0**
@@ -635,8 +699,11 @@ You gain **225 XP** for the successful negotiation and social domination of a No
 > 👤 **Player:**
 > *"have him sign the new contract and order a victory banquet, then have batianus present his top gladiators and explain i'm the new owner and have him and lucretia gie me a rundown of expenses/ income, and let batianus save face and always be the public face of the ludus even if I am the majority owner now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 5 Available) Bard | HP: 33/33 (Temp: 18) | XP: 7525/6500 | Gold: 3,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -668,8 +735,11 @@ You gain **250 XP** for finalizing the takeover and securing the loyalty of the 
 > 👤 **Player:**
 > *"plan more efficient ways to run business and tell me monthly revenue, expenses, net income and then give me my 60% daily"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Tablinum, House of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 7525/14000 | Gold: 3,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 4/4, Inspiration: Yes**
@@ -690,8 +760,11 @@ As it stands, Batiatus is left with only 4,800 gold to cover 10,000 gold in expe
 > 👤 **Player:**
 > *"lets assume I do everything sensible with supply chain and anything else, handle expenses first, and only take my 60% cut from net income. redo the math"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Tablinum, House of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 7900/14000 | Gold: 3,218gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 4/4, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -715,8 +788,11 @@ You gain **375 XP** for the masterful strategic restructuring of a city-scale as
 God Mode:
 Let’s assume all revenue goes to expenses first and then paid out only from net income. Recalc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 7900/14000 | Gold: 3,218gp**
@@ -747,8 +823,11 @@ Financial audit recalibrated. The waterfall payment structure is now codified: R
 God Mode:
 Why is net income so high and where revenue from? Why was batianus broke then?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 33/33 | XP: 7900/0** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4**
@@ -782,8 +861,11 @@ Batiatus was a man trying to run a business while being eaten alive by parasites
 God Mode:
 Why Julian prestige when incognito?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7900/14000 | Gold: 3218gp**
@@ -809,8 +891,11 @@ Your retinue (the Level 5-7 veterans and top 1% beauty slaves) provides a visual
 > 👤 **Player:**
 > *"Resume and then narrate the party. Assume all the nobles from every season of hbo tv show attend"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Villa Batiatus - Grand Triclinium** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 8275/14000 | Gold: 3,436gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 4/4 | Daily Payout: 218gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -837,8 +922,11 @@ Atia (Lvl 8) pauses, a wine cup halfway to her lips. She narrows her eyes, scann
 > 👤 **Player:**
 > *"politely greet atia, probe her to see what she wants and how to best use it, but in non bovious way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Capua - House of Batiatus (Grand Banquet)** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Sovereign Voice | HP: 33/33 (Temp: 18) | XP: 8275/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration | Exhaustion: 0 | Auctoritas Active**
@@ -856,8 +944,11 @@ Your Insight pierces her facade. Beneath the wit, there is a frantic, sharp-edge
 God Mode:
 Atia is a julian? she should know who i am though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 33/33 | XP: 8275/0** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4**
@@ -876,8 +967,11 @@ Atia is currently at the **'Suspicious'** stage. As noted in the last narrative 
 > 👤 **Player:**
 > *"THINK:Is it beneficial to me to ally with her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 8275/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 4/4, Inspiration: Yes**
@@ -887,8 +981,11 @@ Intelligence Check: 20 vs DC 11 — Success. Your sharp Julian mind (INT 14) dis
 > 👤 **Player:**
 > *"Talk to atia some more and get intel on what she wants and think to myself after on how to control or leverage her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Capua - Ludus of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 8,275/14,000 | Gold: 3,436gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -917,8 +1014,11 @@ You gain **150 XP** for extracting Atia's core motivation.
 > 👤 **Player:**
 > *"Military bait but negotiate a good deal to increase my income"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 8750/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -943,8 +1043,11 @@ Across the courtyard, Lyra (Lvl 5) watches the interaction with a beatific inten
 > [!NOTE] ⚙️ **Player Choice:**
 > *The General's Ear - Directly approach Mark Antony to assess his true feelings toward your father and Octavian.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Capua - House of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **March 16, 44 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 8750/14000 | Gold: 3,436gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4 (d8)** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -972,8 +1075,11 @@ He offers you his goblet, his expression unreadable behind a mask of drunken jov
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Golden Leash - Shift the conversation to the logistics of the 5,000gp contract, emphasizing how your 'discretion' will help him bypass Octavian's oversight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Capua - House of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 5 Available) Bard | HP: 33/33 (Temp: 18) | XP: 9000/14000 | Gold: 3,436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -1001,8 +1107,11 @@ You gain **250 XP** for successfully establishing financial leverage over a Gene
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Social Pincer - Return to Atia and imply that Antony is already considering the 'Southern Stage,' forcing her to reveal more about the Senate's specific fears regarding the 5th Legion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Capua - House of Batiatus (Triclinium)** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 9250/15000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -1030,8 +1139,11 @@ She reaches out, her hand trembling as she touches your Julian signet ring, unaw
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Envy Trap - Leave Atia to stew in her fear and approach Ilithyia. Use her envy of your 'prestige' to see if her husband, Glaber, has his own designs on the Capuan military presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 9250/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -1059,8 +1171,11 @@ Ilithyia's fan snaps shut. The envy in her eyes is momentarily eclipsed by a fli
 > 👤 **Player:**
 > *"Probe to see what illythia and glabber could want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 9250/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -1078,8 +1193,11 @@ You gain **275 XP** for extracting the specific legal and financial mechanisms o
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Aemilii Subversion - Use Cinnaminus to feed the Aemilii false reports of Glaber's impending betrayal of their interests, turning his financial backers against him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Capua - House of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 9875/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration | Exhaustion: 0 | Inspiration: Yes**
@@ -1095,8 +1213,11 @@ Returning to the center of the room, you watch Mark Antony (Lvl 12) drain anothe
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Iron Counter-Audit - Send Voros to the Suburra to intercept the Aemilii's Sicarii before they can identify the source of your wealth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Capua - House of Batiatus / Suburra Slums** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 9675/14000 | Gold: 3,436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4, Gold: 3,436** &nbsp;|&nbsp; ⚠️ **Incognito (Vibia) | Exhaustion: 0 | Inspiration: Yes**
@@ -1114,8 +1235,11 @@ In the triclinium, the laughter of Mark Antony (Lvl 12) continues to shake the r
 > [!NOTE] ⚙️ **Player Choice:**
 > *The General's Shield - Inform Mark Antony that 'suspicious characters' were spotted near the Ludus, prompting him to move a contingent of the 5th Legion into the villa immediately for 'public safety.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Sovereign Voice | HP: 33/33 (Temp: 18) | XP: 9875/14000 | Gold: 3,436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4, Gold: 3,436** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1143,8 +1267,11 @@ You gain **350 XP** for leveraging military paranoia to secure your assets.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Glaber's Reaction - Watch Glaber and Ilithyia as the Legion moves in; use the moment to see if his 'oversight' plan is accelerating in response to the occupation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 9875/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1169,8 +1296,11 @@ She looks past you to where Atia (Lvl 8) is quietly receding into the shadows, h
 > [!NOTE] ⚙️ **Player Choice:**
 > *The General's Muse - Stay at Antony's side and encourage his territorial display, making Glaber's presence in the villa as uncomfortable as possible to force a public outburst.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) Bard | HP: 33/33 (Temp: 18) | XP: 10250/14000 | Gold: 3,436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -1195,8 +1325,11 @@ Outside, the rhythmic clatter of the Alaudae centurions’ armor provides a heav
 > 👤 **Player:**
 > *"Level Up to Level 2 - Open level 2 Bard choices; keep story paused until the finish response completes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Lvl 2 available) | HP: 33/33 | Gold: 3436gp | XP: 10250/6500** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 (Level 2 pending) | Bardic Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -1208,8 +1341,11 @@ Active gameplay is paused while you claim your ascent to Level 2. This transitio
 > 👤 **Player:**
 > *"Level Up to Level 2 - Open level 2 Bard choices; keep story paused until the finish response completes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 2 available) Bard | HP: 33/33 | Gold: 3436gp | XP: 10250/6500** &nbsp;|&nbsp; ✨ **HD: 0/0 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1221,8 +1357,11 @@ Choose 'Level Up Now' to begin selecting your Level 2 features, including Jack o
 > 👤 **Player:**
 > *"Choose spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Lvl 2 available) | HP: 33/33 | Gold: 3436gp | XP: 10250/6500** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4 (Lvl 2 pending), Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1232,8 +1371,11 @@ The torchlight in the tablinum seems to pulse in time with the quickening of you
 > 👤 **Player:**
 > *"Don’t I get to pick spells?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Lvl 2 available) | HP: 33/33 (Temp: 18) | Gold: 3436gp | XP: 10250/6500** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4 (Lvl 2 pending), Inspiration: 4/4, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1245,8 +1387,11 @@ Indeed, your ascent to the second circle grants you a fifth spell of command, as
 God Mode:
 Auto level up but also it’s my masked level don’t forget to track exp against my real level not masked just keep masked at level 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 5 available) Bard (Masked: Lvl 1) | HP: 33/33 | Gold: 3,436gp | XP: 10250/6500** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 4/4 (d8)** &nbsp;|&nbsp; ⚠️ **Inspiration | Exhaustion: 0**
@@ -1258,8 +1403,11 @@ Per your Imperial directive, your public identity ('Vibia') remains hard-coded a
 God Mode:
 My real level is 5 actually so make sure I really should be leveling up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 5 available) Bard (Masked Lvl 1) | HP: 33/33 (Temp: 18) | Gold: 3,436gp | XP: 10250/6500** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4 | Masked: Yes** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -1284,8 +1432,11 @@ You are currently in the House of Batiatus, having just used Mark Antony to publ
 God Mode:
 Return to Story - Exit God Mode and resume your social conquest of Capua as a Level 5 Manipulator in a Level 1 mask.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 5 available) Bard (Manipulator) | HP: 33/33 (Temp: 18) | Gold: 3436gp | XP: 10250/6500** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 4/4, Divine Potential: 0** &nbsp;|&nbsp; ⚠️ **Masked Level 1 | Exhaustion: 0 | Inspiration: Yes**
@@ -1299,8 +1450,11 @@ I have cleared the 'level_up_in_progress' flag from the campaign state. Returnin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (5) Sovereign Voice | HP: 33/33 (Temp: 18) | XP: 10250/14000 | Gold: 3436gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration | Exhaustion: 0 | Inspiration: Yes**
@@ -1314,8 +1468,11 @@ The banquet hall remains thick with the scent of roasted meat and the electric t
 
 The Internal Pincer (Synergistic) - Delegate the slave interception to Cinnaminus while you personally maintain Antony's focus in the triclinium."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Capua - Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **March 16, 44 BCE (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 18) | XP: 10,500/14,000 | Gold: 3,436gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1338,6 +1495,8 @@ Lyra (Lvl 5) leans in from your other side, her beatific smile never wavering, t
 > Resistance Shown: He is effectively a military tool in your hand, his focus entirely on you.
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

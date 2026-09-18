@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (38 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 You are Luke Skywalker, a Jedi in training, and your world has just been shattered. You hang precariously from a weather vane on the underside of Cloud City, your hand a searing stump, your lightsaber lost to the abyss. The horrifying truth your father, Darth Vader, has revealed echoes in your mind, a poison that has broken your spirit. The past you believed in is a lie, and the future is a terrifying unknown.
@@ -114,54 +125,59 @@ Starting Abilities: You possess the core abilities of a Jedi Knight: Force Push/
 
 Please choose which of the three campaigns—The Chasm, The Emperor's Fist, The Jedi's Shadow, you would like to begin.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Character Creation | Unknown 0, Unknown (00:00) | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Cloud City - Weather Vane | Unknown 0, Unknown (00:00) | Roleplay |
-| **04** | Star Destroyer's Bridge | ABY 1, 5 ABY (10:00) | Roleplay |
-| **05** | Star Destroyer Hangar Bay | ABY 1, 5 ABY (10:30) | Roleplay |
-| **06** | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 1, 5 ABY (11:00) | Roleplay |
-| **07** | Outer Rim - Hyperspace (God Mode) | ABY 1, 5 ABY (11:00) | Roleplay |
-| **08** | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 2, 5 ABY (11:00) | Roleplay |
-| **09** | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 2, 5 ABY (12:30) | Roleplay |
-| **10** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
-| **11** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
-| **12** | Moraband System - Planetary Orbit (God Mode) | ABY 2, 5 ABY (13:00) | Roleplay |
-| **13** | Moraband System - Planetary Orbit (God Mode) | ABY 2, 5 ABY (13:00) | Roleplay |
-| **14** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
-| **15** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
-| **16** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **17** | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:30) | Roleplay |
-| **18** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **19** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **20** | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:30) | Roleplay |
-| **21** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **22** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **23** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **24** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **25** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **26** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **27** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **28** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **29** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **30** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **31** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
-| **32** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:45) | Roleplay |
-| **33** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:55) | Roleplay |
-| **34** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:55) | Roleplay |
-| **35** | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:55) | Roleplay |
-| **36** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (14:00) | Roleplay |
-| **37** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (14:00) | Roleplay |
-| **38** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (22:00) | Roleplay |
+| [**Scene 01**](#scene-1) | Character Creation | Unknown 0, Unknown (00:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Cloud City - Weather Vane | Unknown 0, Unknown (00:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Star Destroyer's Bridge | ABY 1, 5 ABY (10:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Star Destroyer Hangar Bay | ABY 1, 5 ABY (10:30) | Roleplay |
+| [**Scene 06**](#scene-6) | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 1, 5 ABY (11:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Outer Rim - Hyperspace (God Mode) | ABY 1, 5 ABY (11:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 2, 5 ABY (11:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 2, 5 ABY (12:30) | Roleplay |
+| [**Scene 10**](#scene-10) | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Moraband System - Planetary Orbit (God Mode) | ABY 2, 5 ABY (13:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Moraband System - Planetary Orbit (God Mode) | ABY 2, 5 ABY (13:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| [**Scene 15**](#scene-15) | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| [**Scene 16**](#scene-16) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 17**](#scene-17) | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 18**](#scene-18) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 19**](#scene-19) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 20**](#scene-20) | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 21**](#scene-21) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 22**](#scene-22) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 24**](#scene-24) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 25**](#scene-25) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 26**](#scene-26) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 27**](#scene-27) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 28**](#scene-28) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 29**](#scene-29) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 30**](#scene-30) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 31**](#scene-31) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| [**Scene 32**](#scene-32) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:45) | Roleplay |
+| [**Scene 33**](#scene-33) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:55) | Roleplay |
+| [**Scene 34**](#scene-34) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:55) | Roleplay |
+| [**Scene 35**](#scene-35) | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:55) | Roleplay |
+| [**Scene 36**](#scene-36) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (14:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (14:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (22:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Unknown 0, Unknown (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Unspecified | HP: ?/? | XP: 0/0 | Gold: 0gp** &nbsp;|&nbsp; ✨ **N/A** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -189,8 +205,11 @@ Which campaign path calls to you? (1, 2, or 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Choose The Chasm - Start with Luke clinging to the weather vane, having rejected Vader.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -239,8 +258,11 @@ This version of Luke embodies the immediate aftermath of his most traumatic reve
 > [!NOTE] ⚙️ **Player Choice:**
 > *PlayCharacter: Begin the adventure! - Approve Luke Skywalker&#x27;s character sheet and start the campaign.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Cloud City - Weather Vane** &nbsp;|&nbsp; ⏳ **Unknown 0, Unknown (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Jedi Padawan | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **Maimed (Right Hand) | Exhaustion: 0 | Inspiration: No**
@@ -261,8 +283,11 @@ Pain. A universe of it, radiating from the stump of your right wrist. The wind s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reach Out to Vader - Call out to your father, accepting his offer, even if only for rescue. This path signifies a turn towards the dark, or at least a desperate attempt at survival through alliance with the Empire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Star Destroyer's Bridge** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -278,8 +303,11 @@ Now, you stand on the cold, sterile bridge of a Star Destroyer, the endless rive
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare for Mission - Head to your quarters or the hangar to ready yourself and your TIE Defender for the hunt. (No immediate roll)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Star Destroyer Hangar Bay** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -291,8 +319,11 @@ The hangar bay is a cavernous expanse, filled with the metallic scent of fuel an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Launch TIE Defender - Initiate launch sequence and depart the Star Destroyer to begin the hunt for the Seventh Sister.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Outer Rim - Hyperspace (En route to Seventh Sister's last known location)** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -304,8 +335,11 @@ The Star Destroyer's internal lights flicker past, then vanish as you punch thro
 God Mode:
 Give me more random encounters one every two turns
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Outer Rim - Hyperspace (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -315,8 +349,11 @@ Give me more random encounters one every two turns
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative, with random encounters occurring every two turns as configured.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Outer Rim - Hyperspace (En route to Seventh Sister's last known location)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -328,8 +365,11 @@ You trace the faint scar on your prosthetic right hand, a constant reminder of B
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Mission Data - Thoroughly review all available Imperial intelligence on the Seventh Sister, her history, and her reported activities. (Investigation check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Outer Rim - Hyperspace (En route to Seventh Sister's last known location)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -345,8 +385,11 @@ What truly interests you, though, is the *lack* of information about her current
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare for Arrival - Begin final preparations for exiting hyperspace and approaching the Seventh Sister&#x27;s last known location. (No immediate roll)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -360,8 +403,11 @@ Suddenly, an alarm blares. A contact, small and fast, erupts from the planet's u
 > [!NOTE] ⚙️ **Player Choice:**
 > *Engage Droid - Engage the probe droid in a dogfight, testing its capabilities and your own.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -373,8 +419,11 @@ The dogfight begins immediately, a deadly dance in the crimson-dusted orbit of M
 God Mode:
 Print Luke full detailed personality
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Moraband System - Planetary Orbit (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -384,8 +433,11 @@ Print Luke full detailed personality
 God Mode:
 Print darth Vader personality full detail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Moraband System - Planetary Orbit (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -395,8 +447,11 @@ Print darth Vader personality full detail
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign narrative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -406,8 +461,11 @@ The void outside your cockpit is alive with the chaotic ballet of combat. Green 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attack Droid - Open fire with your TIE Defender&#x27;s laser cannons, attempting to score a hit on the probe droid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -427,8 +485,11 @@ Luke Skywalker now has 100 XP (100/2700 until Level 2).
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to Surface - Begin descent into Moraband&#x27;s atmosphere to land and search for the Seventh Sister.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -444,8 +505,11 @@ The Force here is overwhelming, a crushing tide of dark side energy. It thrums b
 God Mode:
 Generate a combat encounter
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Moraband - Valley of the Dark Lords (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -455,8 +519,11 @@ Generate a combat encounter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Start Combat - Initiate the combat encounter with the proposed enemies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -484,8 +551,11 @@ It is your turn, Luke Skywalker (Round 1, Turn 1). You have your Action, Bonus A
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attack Corrupted Massiff - Draw your crimson lightsaber and engage the Corrupted Massiff in melee combat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -497,8 +567,11 @@ The Massiff's initial lunge is met by your swift parry, its massive head deflect
 > 👤 **Player:**
 > *"enable combat log"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Moraband - Valley of the Dark Lords (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -508,8 +581,11 @@ The Massiff's initial lunge is met by your swift parry, its massive head deflect
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative, with the detailed combat log enabled.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -527,8 +603,11 @@ The Massiff's jaws snap shut on empty air as you deftly sidestep its lunge. Its 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attack Corrupted Massiff (Next Turn) - Prepare to resume your attack on the wounded Corrupted Massiff on your next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -551,8 +630,11 @@ It is now your turn, Luke Skywalker (Round 2, Turn 1). You have your Action, Bon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attack Corrupted Massiff - Press your attack against the wounded Corrupted Massiff, attempting to finish it off.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -572,8 +654,11 @@ Luke Skywalker now has 550 XP (550/2700 until Level 2).
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Push Zealot - Target one of the Moraband Zealots with Force Push, attempting to disarm them or knock them back.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 550/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -598,8 +683,11 @@ It is now your turn, Luke Skywalker (Round 3, Turn 1). You have your Action, Bon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Engage Moraband Zealot 2 in Melee - Close the distance and attack the active Zealot with your lightsaber, attempting to neutralize the ranged threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 550/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -618,8 +706,11 @@ The male Moraband Zealot 1, disarmed and prone, struggles to regain his footing,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Moraband Zealot 2 - Press your attack against the severely wounded Moraband Zealot 2, attempting to defeat her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -641,8 +732,11 @@ The male Moraband Zealot 1, disarmed and prone, struggles to regain his footing,
 > 👤 **Player:**
 > *"Force choke zealot 1 and say you'll kill him unless he talks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -660,8 +754,11 @@ Just as his fingers close around the grip of his crude blaster, you act. With a 
 > 👤 **Player:**
 > *"Break his knee and then interrogate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -682,8 +779,11 @@ Moraband Zealot 1 is now on the ground, screaming silently through the choke, hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Sense Thoughts - Attempt to delve into his mind for the information directly, bypassing his will. (Wisdom (Insight) or Intelligence (Investigation) vs. Zealot&#x27;s Wisdom Save)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -702,8 +802,11 @@ Then, a final, horrifying image: the Seventh Sister, *not* alone. She is convers
 > 👤 **Player:**
 > *"Think. Can i absorb the zealot soul or do something to enhance dark side powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -713,8 +816,11 @@ You stand over the unconscious Moraband Zealot, his leg grotesquely broken, his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attempt Soul Absorption/Power Enhancement - Attempt to absorb the Zealot&#x27;s remaining Force essence or perform a quick, improvised ritual to draw power from him and the surrounding dark side energies of Moraband. This is an uncharted and risky endeavor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -738,8 +844,11 @@ The valley is now silent once more, save for the mournful howl of the wind and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meditate on New Power - Take a moment to meditate and understand the &#x27;Force Echo&#x27; you&#x27;ve gained, trying to discern its full implications or how to best utilize it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 725/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -762,8 +871,11 @@ The valley is silent once more, save for the mournful howl of the wind and the o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Force Drain - Cautiously experiment with your newly understood Force Drain ability, perhaps attempting to draw residual energy from the dead Zealot&#x27;s body or the environment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -789,8 +901,11 @@ The valley is silent once more, save for the mournful howl of the wind and the o
 > 👤 **Player:**
 > *"How much hp do I have now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -800,8 +915,11 @@ You currently have **6 hit points out of a maximum of 9**.
 God Mode:
 Did you forgeet to give me hp after i stole his soul?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Moraband - Valley of the Dark Lords (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -811,8 +929,11 @@ Did you forgeet to give me hp after i stole his soul?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign narrative from the last point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -824,8 +945,11 @@ Suddenly, the ground beneath your boots trembles, not with a tremor of rock, but
 > [!NOTE] ⚙️ **Player Choice:**
 > *Channel Darkness - Attempt to actively embrace and channel the overwhelming dark side energy of the echo, seeking to turn its power to your own advantage, regardless of the risk. (Charisma (Intimidation) Save)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -848,8 +972,11 @@ The valley is once more silent, the wind the only sound. The dark side presence 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Long Rest - Find a safe, secluded spot to perform a long rest, fully recovering your health and preparing for the challenges ahead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 850/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -857,6 +984,8 @@ The valley is once more silent, the wind the only sound. The dark side presence 
 You find a secluded, relatively undisturbed alcove amidst the jagged rock formations, a place where the oppressive thrum of Moraband's dark side energies feels slightly less intense. You settle down, drawing on the cold discipline Vader instilled, and allow yourself to sink into a deep meditative state, a process that is both rest and a communion with the pervasive darkness of this world. The hours bleed away as you fully recover from the strains of combat and the psychic assault of the Force echo. Though Moraband itself never truly rests, its ancient malevolence a constant presence, your focus on recovery allows you to emerge refreshed.
 
 After a full eight hours of rest, you rise. The pain in your side is gone, your body feels revitalized, and your connection to the Force, while still rooted in darkness, feels stable and ready for whatever challenges lie ahead on this ancient, scarred world.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (37 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 ```
@@ -226,53 +237,58 @@ You must use your high-Dexterity stealth to hunt down and assassinate the ghosts
  * **Word Count:** 3,124 words
  * **Estimated Token Count:** ~3,940 tokens
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | The First Garden (Memory Cluster) |  | Roleplay |
-| **03** | The First Garden |  | Roleplay |
-| **04** | The First Garden | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **05** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **06** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **07** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **08** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:05) | Roleplay |
-| **09** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:10) | Roleplay |
-| **10** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:15) | Skill Check / Combat |
-| **11** | Arx - Cathedral Square | Mirtul 15, 1492 DR (12:45) | Skill Check / Combat |
-| **12** | Arx - The Iron Dungeons | Mirtul 15, 1492 DR (13:00) | Skill Check / Combat |
-| **13** | Arx - The Iron Dungeons | Mirtul 15, 1492 DR (13:15) | Skill Check / Combat |
-| **14** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:25) | Skill Check / Combat |
-| **15** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:26) | Skill Check / Combat |
-| **16** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:30) | Skill Check / Combat |
-| **17** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:30) | Roleplay |
-| **18** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:35) | Skill Check / Combat |
-| **19** | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:40) | Skill Check / Combat |
-| **20** | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:41) | Skill Check / Combat |
-| **21** | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:42) | Skill Check / Combat |
-| **22** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Skill Check / Combat |
-| **23** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
-| **24** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
-| **25** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
-| **26** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:45) | Skill Check / Combat |
-| **27** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Skill Check / Combat |
-| **28** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
-| **29** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
-| **30** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
-| **31** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:47) | Skill Check / Combat |
-| **32** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:47) | Skill Check / Combat |
-| **33** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Skill Check / Combat |
-| **34** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Roleplay |
-| **35** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Roleplay |
-| **36** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Skill Check / Combat |
-| **37** | Arx - Sunken Vault Records Chamber | Mirtul 15, 1492 DR (13:53) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | The First Garden (Memory Cluster) |  | Roleplay |
+| [**Scene 03**](#scene-3) | The First Garden |  | Roleplay |
+| [**Scene 04**](#scene-4) | The First Garden | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| [**Scene 09**](#scene-9) | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:10) | Roleplay |
+| [**Scene 10**](#scene-10) | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:15) | Skill Check / Combat |
+| [**Scene 11**](#scene-11) | Arx - Cathedral Square | Mirtul 15, 1492 DR (12:45) | Skill Check / Combat |
+| [**Scene 12**](#scene-12) | Arx - The Iron Dungeons | Mirtul 15, 1492 DR (13:00) | Skill Check / Combat |
+| [**Scene 13**](#scene-13) | Arx - The Iron Dungeons | Mirtul 15, 1492 DR (13:15) | Skill Check / Combat |
+| [**Scene 14**](#scene-14) | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:26) | Skill Check / Combat |
+| [**Scene 16**](#scene-16) | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:30) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:30) | Roleplay |
+| [**Scene 18**](#scene-18) | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:35) | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:40) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:41) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:42) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Skill Check / Combat |
+| [**Scene 23**](#scene-23) | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
+| [**Scene 24**](#scene-24) | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
+| [**Scene 25**](#scene-25) | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
+| [**Scene 26**](#scene-26) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:45) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
+| [**Scene 29**](#scene-29) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
+| [**Scene 30**](#scene-30) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
+| [**Scene 31**](#scene-31) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:47) | Skill Check / Combat |
+| [**Scene 32**](#scene-32) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:47) | Skill Check / Combat |
+| [**Scene 33**](#scene-33) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Skill Check / Combat |
+| [**Scene 34**](#scene-34) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Roleplay |
+| [**Scene 35**](#scene-35) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Roleplay |
+| [**Scene 36**](#scene-36) | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Skill Check / Combat |
+| [**Scene 37**](#scene-37) | Arx - Sunken Vault Records Chamber | Mirtul 15, 1492 DR (13:53) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -282,8 +298,11 @@ You must use your high-Dexterity stealth to hunt down and assassinate the ghosts
 > 👤 **Player:**
 > *"Start character creation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The First Garden (Memory Cluster)** &nbsp;|&nbsp; 🛡️ **Initializing Divine Chassis... | XP: 0/300**
@@ -313,8 +332,11 @@ How shall we proceed with your creation?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: [AIGenerated] - Proceed with a pre-configured High-Elf 'Tyrant Divine' build. I will generate a complete Level 12 Gestalt sheet including optimized skill proficiencies (Stealth, Persuasion, Intimidation, Insight), starting gear (Dual Obsidian Rapiers), and a curated spell list derived from the Sorcerer and Paladin pools.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The First Garden** &nbsp;|&nbsp; 🛡️ **Reviewing Divine Chassis... | XP: 0/300** &nbsp;|&nbsp; ✨ **Level 12 Gestalt: Paladin (Conquest) / Sorcerer (Source Soul)**
@@ -360,8 +382,11 @@ I have woven the threads of your stolen divinity into a perfected High-Elf silho
 > 👤 **Player:**
 > *"Probably should have some better gear like +3 or best gear in dos2 and a good amount of gold?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The First Garden** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 0/300** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -373,8 +398,11 @@ Beyond your weaponry, your influence is felt in the treasury of Arx. The Eternal
 > 👤 **Player:**
 > *"It says level 1? Make sure I am level 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -392,8 +420,11 @@ You gain **0 XP** for assuming your rightful seat. The world of Rivellon awaits 
 God Mode:
 I should be level 12 fix it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000**
@@ -403,8 +434,11 @@ Administrative Correction: Character level has been hard-set to 12 in the game s
 God Mode:
 Spell list is missing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000**
@@ -427,8 +461,11 @@ State has been updated with these entries.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit God Mode and resume your reign in Arx with your full spellbook initialized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -442,8 +479,11 @@ General Kaelen (Lvl 12) rests a hand on the pommel of his obsidian blade, his vo
 > 👤 **Player:**
 > *"Ask why fort joy important strategically"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -457,8 +497,11 @@ General Kaelen (Lvl 12) leans over the table, his obsidian gauntlet casting a lo
 > 👤 **Player:**
 > *"Ask about hiring mercenaries and how much it would cost"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -478,8 +521,11 @@ You gain **0 XP** for this strategic consultation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge Arx First - Respond to the executions by rounding up Crusade sympathizers within the city to secure your base.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Arx - Cathedral Square** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 102000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -499,8 +545,11 @@ You gain **2,000 XP** for the absolute stabilization of your capital and the rec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate High-Value Prisoners - Use your mental arcana and Presence to extract the exact location of Hardwin's 'anti-divine' relic from the captured merchant lords.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Arx - The Iron Dungeons** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 104000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -531,8 +580,11 @@ You gain **2,000 XP** for extracting critical intelligence and breaking the last
 > 👤 **Player:**
 > *"Hire lone wolfs and delegate administration of city to someone who can stabilize it and bring economic value and tell me my daily income"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Arx - The Iron Dungeons** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -562,8 +614,11 @@ However, as you prepare to depart for the northern front, a shadow moves in the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accelerated Harbor Strike - Use Misty Step and Haste to reach the harbor warehouse before the Silver Shields finish scuttling the fleet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12 | Haste: 1/10 rds** &nbsp;|&nbsp; ⚠️ **Haste (Concentration) | Exhaustion: 0 | Inspiration: No**
@@ -586,8 +641,11 @@ Around you, four more Inquisitors step from behind the crates, their shields int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Environmental Sabotage - Target the structural supports of the warehouse roof to bury the Inquisitors in debris, bypassing the Dampener's direct influence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 106600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (8 rds) | Exhaustion: 0 | Inspiration: No**
@@ -610,8 +668,11 @@ You gain **2,000 XP** for your masterful environmental sabotage and neutralizing
 > 👤 **Player:**
 > *"Execute disoriented"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 108600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (7 rds) | Exhaustion: 0 | Inspiration: No**
@@ -639,8 +700,11 @@ You gain **2,000 XP** for the decisive elimination of the Silver Shield ambush p
 God Mode:
 Why do I keep getting 2000 exp?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 108600/120000**
@@ -673,8 +737,11 @@ To reach Level 13, you require 20,000 XP (from 100k to 120k).
 > 👤 **Player:**
 > *"Loot the paladins accept quest and seize dampener"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 109100/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (6 rds) | Exhaustion: 0 | Inspiration: No**
@@ -696,8 +763,11 @@ You gain **500 XP** for securing the tactical objective and committing to the Si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Descent (Shaft) - Use your Stealth (+12) to climb down the lift chains or supports, avoiding the platform itself to surprise the guards below.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Arx - Sunken Vault Lift Shaft** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 110600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (5 rds) | Exhaustion: 0 | Inspiration: No**
@@ -736,8 +806,11 @@ You gain **1,500 XP** for your successful stealthy infiltration into the vault's
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aerial Execution - Leap from the cross-beam and strike the Inquisitors from above, relying on your Haste-extra action to kill them before they can trigger the ward's secondary alarm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Arx - Sunken Vault Lift Shaft** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:41)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 112600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (4 rds) | Exhaustion: 0 | Inspiration: No**
@@ -783,8 +856,11 @@ You gain **2,000 XP** for the masterful aerial ambush and the preservation of ta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Wounded Inquisitor - Use your remaining multi-attack to silence the second guard before he can strike the ward or call for aid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Arx - Sunken Vault Lift Shaft** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:42)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 113200/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (3 rds) | Exhaustion: 0 | Inspiration: No**
@@ -827,8 +903,11 @@ You gain **600 XP** for your continuous tactical pressure and the elimination of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Execution - Use your superior speed to deliver a killing blow to the final Inquisitor before he can touch the ward.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 115200/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (2 rds) | Exhaustion: 0 | Inspiration: No**
@@ -869,8 +948,11 @@ You gain **2,000 XP** for the definitive victory over the Silver Shield ambush p
 God Mode:
 Give me an interesting backstory look at the dos2 game lore and propose some ideas and give me unique personality and motivations
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 115200/120000**
@@ -898,8 +980,11 @@ In DOS2 lore, Source is the literal substance of souls. By becoming the sole con
 God Mode:
 Do you see the divine campaign upgrade stuff?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt Paladin (Conquest) / Sorcerer (Source Soul) | HP: 102/102 | XP: 115200/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 12/12**
@@ -920,8 +1005,11 @@ I have integrated the following core components for your campaign:
 God Mode:
 Let’s assume I want to find a way to create more source and share it with the beautiful eternal nobility and consume the god king of the void and conquer the void
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | XP: 115200/120000**
@@ -939,8 +1027,11 @@ I have added a persistent directive to ensure these objectives guide the narrati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neutralize Ward & Scout Hallway (Synergistic) - Use a Subtle Spell to dissipate the ward while simultaneously extending your Source Vision to track internal vault patrols - ensures safety and intel at once.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 116000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/12** &nbsp;|&nbsp; ⚠️ **Haste (1 rd) | Sorcery Points: 11/12 | Inspiration: No**
@@ -984,8 +1075,11 @@ You gain **800 XP** for neutralizing the high-tier ward and mapping the initial 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Blitz the Wary Patrol - Use your final round of Haste to bridge the 60-foot gap instantly and eliminate the wary captain before he can sound a general alarm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 117000/120000** &nbsp;|&nbsp; ⚠️ **Haste Lethargy (1 rd) | Sorcery Points: 11/12 | Inspiration: No**
@@ -1035,8 +1129,11 @@ You gain **1,000 XP** for the aggressive breach and the engagement of the elite 
 God Mode:
 Think my rapiers should be stronger? And my equipment should be like the best items from dos2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | Gold: 41,200gp | XP: 117000/120000**
@@ -1073,8 +1170,11 @@ These changes have been hard-set in your character data. You are now significant
 God Mode:
 Make the rapiers +3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | Gold: 41,200gp | XP: 117000/120000**
@@ -1090,8 +1190,11 @@ Other Sovereign equipment (Armor, Cloak, Amulet) remains at its current Tier-4 l
 God Mode:
 Give my rapiers extra elemental damages but keep them +3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | Gold: 41,200gp | XP: 117000/120000**
@@ -1113,8 +1216,11 @@ These elemental damage types bypass standard resistances due to their Source-bas
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the confrontation in the crystalline hallway with your newly empowered elemental rapiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:47)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 70/102 (Temp: 0) | Gold: 41,200gp | XP: 117000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/12** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 11/12 | Inspiration: No**
@@ -1163,8 +1269,11 @@ APEX ATTENTION: [Hidden]
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute & Intimidate (Synergistic) - Silencing the captain with a Force-infused strike while simultaneously casting Command (Subtle) to force the guards to 'Grovel'—the sight of their leader's soul being shredded will break their morale.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:47)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 70/102 | Gold: 41,200gp | XP: 118500/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 10/12** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 10/12 | Inspiration: No**
@@ -1219,8 +1328,11 @@ You gain **1,500 XP** for the tactical subversion and wounding the vault leaders
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute & Intimidate (Synergistic) - Finishing Kester while simultaneously using his death to force an Intimidation check on the groveling guards to make them fight for you against the approaching garrison.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt (Lvl 13 available) | HP: 70/102 | Gold: 41,200gp | XP: 121500/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 10/12** &nbsp;|&nbsp; ⚠️ **Level Up Available! | Sorcery Points: 10/12 | Inspiration: No**
@@ -1249,8 +1361,11 @@ Would you like to level up now?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 - Open the level-up modal to gain 7th-level Sorcerer spells (Finger of Death/Teleport) and 4th-level Paladin slots.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt (Lvl 13 available) | HP: 70/102 | Gold: 41,200gp | XP: 121500/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 10/12** &nbsp;|&nbsp; ⚠️ **Level Up In Progress | Sorcery Points: 10/12 | Inspiration: No**
@@ -1272,8 +1387,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 79/111 | Gold: 41,200gp | XP: 121500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | SP: 13/13** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 13/13 | Inspiration: No**
@@ -1287,8 +1405,11 @@ The groveling guards look up, their faces pale and eyes wide with a mix of terro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot & Static (Synergistic) - Quickly snatching Kester's signet ring while simultaneously casting Synaptic Static—securing the key while ensuring no one survives to report the theft.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 79/111 (Temp: 0) | Gold: 41,200gp | XP: 123500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, L6 1/1, L7 1/1 | SP: 13/13** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 13/13 | Inspiration: No**
@@ -1338,8 +1459,11 @@ You gain **2,000 XP** for securing the vault key and the devastating psychic amb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot Garrison & Breach Chamber (Compatible) - Quickly looting the guards for additional keys/sigils while your thralls clear the record chamber doors—saving time as you move deeper.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Arx - Sunken Vault Records Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:53)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 70/111 (Temp: 0) | Gold: 41,200gp | XP: 124500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, L6 1/1, L7 1/1 | SP: 13/13** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 13/13 | Inspiration: No**
@@ -1370,6 +1494,8 @@ You leave the muddled garrison to your thralls' mercies and slip into the vault'
 ** LOOT OBTAINED:                                  **
 **   - None (Search Failed)                        **
 **=================================================**
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

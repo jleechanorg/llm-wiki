@@ -12,54 +12,70 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (33 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Nocturne | Setting: Play as Nocturne. Anime is sentenced to be a hero. I’m a sergeant working under Kivia in holy knights. I’m a mix of demon human and goddess but my ancestry is a secret. It should give me special power. Start in the battle where Kivia meets Xylo and start me at level 5. I’m 16 years old and extremely good looking and considered a military prodigy which is polarizing
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **02** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **03** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **04** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **05** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **06** | Holy Knight Encampment | Hammer 01, 1492 DR (12:00) | Roleplay |
-| **07** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **08** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **09** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **10** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **11** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **12** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **13** | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **14** | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **15** | Crimson Vales Frontlines | 1492 Hammer 1, 12:00:30 | Roleplay |
-| **16** | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **17** | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:01) | Roleplay |
-| **18** | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:02) | Roleplay |
-| **19** | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:03) | Roleplay |
-| **20** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:10) | Roleplay |
-| **21** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:10) | Roleplay |
-| **22** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:10) | Roleplay |
-| **23** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:12) | Social Challenge |
-| **24** | Central Rise - Crimson Vales | Hammer 01, 1492 DR (12:15) | Social Challenge |
-| **25** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:18) | Roleplay |
-| **26** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:28) | Social Challenge |
-| **27** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:20) | Roleplay |
-| **28** | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:21) | Social Challenge |
-| **29** | Ravine Bed - Crimson Vales | Hammer 1, 1492 DR (12:36) | Roleplay |
-| **30** | Ravine Bed - Crimson Vales | Hammer 1, 1492 DR (12:36) | Roleplay |
-| **31** | West Watchtower - Crimson Vales | Hammer 1, 1492 DR (12:38) | Roleplay |
-| **32** | West Watchtower - Crimson Vales | Hammer 1, 1492 DR (12:38) | Social Challenge |
-| **33** | Ravine Bed - Crimson Vales | Hammer 1, 1492 DR (12:21) | Roleplay |
+| [**Scene 01**](#scene-1) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Holy Knight Encampment | Hammer 01, 1492 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Holy Knight Encampment | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 15**](#scene-15) | Crimson Vales Frontlines | 1492 Hammer 1, 12:00:30 | Roleplay |
+| [**Scene 16**](#scene-16) | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:01) | Roleplay |
+| [**Scene 18**](#scene-18) | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:02) | Roleplay |
+| [**Scene 19**](#scene-19) | Crimson Vales Frontlines | Hammer 1, 1492 DR (12:03) | Roleplay |
+| [**Scene 20**](#scene-20) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:10) | Roleplay |
+| [**Scene 21**](#scene-21) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:10) | Roleplay |
+| [**Scene 22**](#scene-22) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:10) | Roleplay |
+| [**Scene 23**](#scene-23) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:12) | Social Challenge |
+| [**Scene 24**](#scene-24) | Central Rise - Crimson Vales | Hammer 01, 1492 DR (12:15) | Social Challenge |
+| [**Scene 25**](#scene-25) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:18) | Roleplay |
+| [**Scene 26**](#scene-26) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:28) | Social Challenge |
+| [**Scene 27**](#scene-27) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:20) | Roleplay |
+| [**Scene 28**](#scene-28) | Central Rise - Crimson Vales | Hammer 1, 1492 DR (12:21) | Social Challenge |
+| [**Scene 29**](#scene-29) | Ravine Bed - Crimson Vales | Hammer 1, 1492 DR (12:36) | Roleplay |
+| [**Scene 30**](#scene-30) | Ravine Bed - Crimson Vales | Hammer 1, 1492 DR (12:36) | Roleplay |
+| [**Scene 31**](#scene-31) | West Watchtower - Crimson Vales | Hammer 1, 1492 DR (12:38) | Roleplay |
+| [**Scene 32**](#scene-32) | West Watchtower - Crimson Vales | Hammer 1, 1492 DR (12:38) | Social Challenge |
+| [**Scene 33**](#scene-33) | Ravine Bed - Crimson Vales | Hammer 1, 1492 DR (12:21) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Sergeant | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25**
@@ -95,8 +111,11 @@ Does this character meet your approval, or would you like to make changes?
 > 👤 **Player:**
 > *"Show me my progression every level up to 30. Make me a special dark paladin class and I wear medium armor and have stealth options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -132,8 +151,11 @@ Does this revised Dark Paladin path meet your approval?
 > 👤 **Player:**
 > *"Give me special powers as a goddess and demon blood however I stand out a lot if I use them. Most people think I’m a low magic normal paladin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -159,8 +181,11 @@ Does this balance of secret power and public facade meet your vision, Sergeant?
 > 👤 **Player:**
 > *"Let’s make sure my clsss isn’t too op but I want angel and demon powers similar to pathfinder and give me mythic powers after level 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -188,8 +213,11 @@ Does this tiered approach, prioritizing the 'Mundane Facade' for your early care
 > 👤 **Player:**
 > *"Let me pick standard feats and these special feats and let me also pick the legend option like in wrath righteous and make the demon choice more appealing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -210,8 +238,11 @@ Before we begin the battle, you must select your first major enhancement. Do you
 > 👤 **Player:**
 > *"Let me pick a special feat and a standard feat each time. Also even if I don’t pick one of the threee paths as primary let me have some weaker abilities automatically from each path"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 01, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -230,8 +261,11 @@ Since you are starting at Level 5, you must now choose your duo of enhancements 
 > 👤 **Player:**
 > *"Let’s allow my Abyysal claws to help weapon damage and let me mask their power I pick that and asi cha +2 and make me a dex based paladin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -256,8 +290,11 @@ Everything is prepared, Sergeant. The encampment is stirring, and Kivia's vangua
 > 👤 **Player:**
 > *"Give me even number stats and focus on cha dex int"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -279,8 +316,11 @@ Does this perfectly balanced build meet your approval, Sergeant? The vanguard is
 > 👤 **Player:**
 > *"Give me 18 cha and 16 int and make me a youngest daughter of a noble house with 5 older siblings both genders. Secretly I am a bastard where my father was half demon half goddess. Any other interesting backstory? Let’s assume due to my youth and beauty most people underestimate me if they don’t know me but Kivia is my supporter"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -302,8 +342,11 @@ Everything is aligned, Sergeant. Your siblings expect you to remain a quiet orna
 > 👤 **Player:**
 > *"Finish and start game and no one knows about my abyssal or goddrsss nature"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -327,8 +370,11 @@ As you move to obey, your Abyssal Claws tingle beneath your gloves, hungry for t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -344,8 +390,11 @@ As you move to obey, your Abyssal Claws tingle beneath your gloves, hungry for t
 God Mode:
 Character creation finished
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -363,8 +412,11 @@ The campaign is now initialized at the Battle of Crimson Vales. The world is cur
 God Mode:
 Kivia shouldn’t know my special talents and summarize the lore of this anime so I know you know about it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Holy Knight Encampment** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -383,8 +435,11 @@ In this world, 'Hero' is not a title of glory, but a death sentence. The Holy Or
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the battle at Crimson Vales with Kivia now oblivious to your nature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Crimson Vales Frontlines** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -400,8 +455,11 @@ You feel the Abyssal Taint coiling like a serpent in your gut, hungry to erupt, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Finesse Charge - Dart into the breach using your high Dexterity, weaving through the chaos to eliminate the shadow-host's front-line leaders before they can exploit the gap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Crimson Vales Frontlines** &nbsp;|&nbsp; ⏳ **1492 Hammer 1, 12:00:30** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 6650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -417,8 +475,11 @@ Nearby, your soldiers watch with wide eyes as their sixteen-year-old sergeant st
 God Mode:
 Change the name aethelguard and give me another noble house
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Crimson Vales Frontlines** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | XP: 6650/14000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2 | Lay On Hands Pool: 25/25**
@@ -437,8 +498,11 @@ Your character identity is now **Sergeant Nocturne Vespera**, the youngest daugh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow Intercept - Notice a second Centurion rallying a flanking force. Use your Dexterity to intercept them before they can reform, keeping the pressure on their command structure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Crimson Vales Frontlines** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 500gp | XP: 7350/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -458,8 +522,11 @@ As the creature dissolves into a heap of static shadow, the flanking force falte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aggressive Flanking Maneuver - Don't wait for them to reform. Press the attack into the shadow-host's secondary line using Stealth and speed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Crimson Vales Frontlines** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 650gp | XP: 8200/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Mundane Facade, Aura of Shadows | Exhaustion: 0 | Inspiration: No**
@@ -479,8 +546,11 @@ Corporal Elian (Lvl 3), your most loyal soldier, scrambles to follow your wake, 
 > 👤 **Player:**
 > *"Finish harvester and have my elites hell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Crimson Vales Frontlines** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:03)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 650gp | XP: 8950/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -500,8 +570,11 @@ With a final, earth-shaking shudder, the creature's geometry collapses, dissolvi
 > 👤 **Player:**
 > *"Reinforce center. Assume we take a lot of pressure off of Kivia and Xylo and both are impressed. Xylo wonders why someone so young is good at combat and he’s not the type to underestimate. Let’s make him level 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 9650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -523,8 +596,11 @@ Your presence has bought the center a vital reprieve. The soldiers nearby, heart
 God Mode:
 Make me a special paladin who’s a full caster with all the cleric spells too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 9650/14000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -540,8 +616,11 @@ Administrative Summary: Nocturne Vespera's class has been upgraded to a **Full C
 God Mode:
 This makes no sense Xylo on our side You carve a path through Xylo’s elite shadow-guard in heartbeats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin (Sovereign Caster) | HP: 49/49 | XP: 9650/14000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2 | Lay On Hands Pool: 25/25**
@@ -553,8 +632,11 @@ Continuity has been updated to reflect Xylo as a Level 20 ally. All future respo
 > 👤 **Player:**
 > *"Politely greet Xylo with respect which should surprise him. He’s used to people assuming the worst. Kivia still doesn’t think highly of him but I explain to her that his case may not have been judged fairly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 10250/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -583,8 +665,11 @@ Kivia stares at you, the wind whipping her white cape. To any other sergeant, sh
 > 👤 **Player:**
 > *"Explain I’ve heard about his case. He killed his goddess because she would’ve been blight corrupted and I’ve heard reports corroborating this. Plus if he was only fighting from compulsion why is he trying so hard to help us right this minute. Say it politely to Kivia and just say it’s a different perspective. Xylo should be shocked since no one has ever said this before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 01, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 10450/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -611,8 +696,11 @@ Xylo (Lvl 20) stands perfectly still. The tattered silk of his Hero-garb flutter
 > 👤 **Player:**
 > *"Ask Kivia if he can come to the tactical map. Regardless of his morals he’s very strong and we should coordinate with him. Otherwise we will likely perish"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:18)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 11050/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -632,8 +720,11 @@ Xylo moves. He approaches the table with a wary, predatory stillness, his otherw
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Ritual Patterns - Use your Intelligence and Sovereign Weaving to identify potential ritual anchors on the map.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:28)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 11800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -670,8 +761,11 @@ Kivia's hand trembles as she grips the table. The sight of a sixteen-year-old gi
 > 👤 **Player:**
 > *"Suggest triple strike coordination but ask Kivia for approval. Remember she is my boss so I can’t command but suggest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 12650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Mundane Facade, Polarizing Prodigy | Exhaustion: 0 | Inspiration: No**
@@ -689,8 +783,11 @@ Xylo (Lvl 20) offers no words, only a predatory, shallow nod toward you before v
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Scout about the 'Name' - Spend a moment to learn what the shadow-host is shouting. It might reveal the true objective of the ritual.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Central Rise - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:21)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 12650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -715,8 +812,11 @@ Kivia (Lvl 15) remains focused on the violet sky, oblivious to the scout's speci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Ravine Infiltration - Utilize your Aura of Shadows and High-Grade Breastplate to lead your unit through the lower ravine, bypassing the Shadow-Host's outer scouts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Ravine Bed - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:36)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 13300/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25 | Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -730,8 +830,11 @@ Your *Abyssal Taint* reacts to the chant, a hot needle of fire in your veins. Yo
 > 👤 **Player:**
 > *"THINK:How can in consume them to power up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Ravine Bed - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:36)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin (Sovereign Caster) | HP: 49/49 | Gold: 692gp | XP: 13300/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Aura of Shadows (Active) | Exhaustion: 0 | Inspiration: No**
@@ -741,8 +844,11 @@ Midday (12:36:00.000001). You press your back against the cold, damp stone of th
 > 👤 **Player:**
 > *"Make up an excuse and then devour anchor and command squad."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **West Watchtower - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:38)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 13075/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -762,8 +868,11 @@ The pillar collapses into ash. The West Anchor is gone, its power now a roiling,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Loyalty (Elian Check) - Address Elian and the squad immediately to frame what they saw as a 'divine burden' before fear can root.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **West Watchtower - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:38)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dark Paladin | HP: 49/49 | Gold: 692gp | XP: 12650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -787,8 +896,11 @@ Elian exhales a ragged breath, his eyes searching yours. He sees the prodigy, th
 God Mode:
 Something went weird with my exp did you not add it up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Ravine Bed - Crimson Vales** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:21)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Sovereign Caster | HP: 49/49 | Gold: 692gp | XP: 13300/14000**
@@ -809,6 +921,8 @@ I have audited the experience gain from your Level 5 starting point. The math is
 **Current Calculation:** 10,200 (Baseline) + 3,100 (Earned) = **13,300 XP**.
 
 You are at 95% of the requirement for Level 6. If you feel the total should have already reached the threshold, I can manually jump you to 14,000 XP now.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

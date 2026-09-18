@@ -12,43 +12,59 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (22 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, commerce thrives, and the Imperium has never been stronger. But dark whispers speak of the Dragon Knights - an ancient order that once served the realm before mysteriously vanishing. As you journey through this morally complex world, you must decide: will you serve the tyrant who brings order, or seek a different path?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Character Creation |  | Roleplay |
-| **03** | The Dawn Road near Fort Aurelian | Kythorn Day 2, Year 11 New Peace (08:15 Morning) | Roleplay |
-| **04** | Dawn Road | Day 2, Year 11 Kythorn (10:15 Morning) | Roleplay |
-| **05** | Dawn Road | Day 2, Year 11 Kythorn (10:36) | Roleplay |
-| **06** | Unknown Location | Day 2, Year 11 Kythorn (10:36) | Roleplay |
-| **07** | Unknown Location | Kythorn Day 2, Year 11 (10:46 AM) | Roleplay |
-| **08** | Unknown Location | Kythorn Day 2, 11 (10:48) | Roleplay |
-| **09** | Unknown Location | Day 2, Year 11 Kythorn (10:48) | Roleplay |
-| **10** | Unknown Roadside | Day 2, Year 11 Kythorn (10:55 AM) | Roleplay |
-| **11** | Unknown Location | Kythorn Day 2, Year 11 (10:59) | Roleplay |
-| **12** | Isolated Road |  | Roleplay |
-| **13** | Unknown Location | Kythorn Day 2, Year 11 (11:09) | Roleplay |
-| **14** | Unknown Location | Kythorn Day 2, Year 11 (11:10 Morning) | Roleplay |
-| **15** | Unknown Location | Day 2, Year 11 Kythorn (11:10 Morning) | Roleplay |
-| **16** | Unknown Location | Kythorn Day 2, Year 11 (11:15) | Roleplay |
-| **17** | Roadside near Fort Aurelian | Kythorn Day 2, Year 11 (11:25 Morning) | Roleplay |
-| **18** | Unknown Location | Kythorn Day 2, Year 11 (11:28 AM) | Roleplay |
-| **19** | Unknown Roadside Clearing | Day 2, Year 11 Kythorn (11:38 AM) | Roleplay |
-| **20** | Eastern Foothills of the Dragon's Teeth | Kythorn Day 2, Year 11 (13:00) | Roleplay |
-| **21** | Foothills of the Dragon's Teeth | Day 2, Year 11 Kythorn (14:40) | Roleplay |
-| **22** | Old Hunting Lodge | Day 2, Year 11 Kythorn (15:10) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Character Creation |  | Roleplay |
+| [**Scene 03**](#scene-3) | The Dawn Road near Fort Aurelian | Kythorn Day 2, Year 11 New Peace (08:15 Morning) | Roleplay |
+| [**Scene 04**](#scene-4) | Dawn Road | Day 2, Year 11 Kythorn (10:15 Morning) | Roleplay |
+| [**Scene 05**](#scene-5) | Dawn Road | Day 2, Year 11 Kythorn (10:36) | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown Location | Day 2, Year 11 Kythorn (10:36) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown Location | Kythorn Day 2, Year 11 (10:46 AM) | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown Location | Kythorn Day 2, 11 (10:48) | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown Location | Day 2, Year 11 Kythorn (10:48) | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown Roadside | Day 2, Year 11 Kythorn (10:55 AM) | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown Location | Kythorn Day 2, Year 11 (10:59) | Roleplay |
+| [**Scene 12**](#scene-12) | Isolated Road |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown Location | Kythorn Day 2, Year 11 (11:09) | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown Location | Kythorn Day 2, Year 11 (11:10 Morning) | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown Location | Day 2, Year 11 Kythorn (11:10 Morning) | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown Location | Kythorn Day 2, Year 11 (11:15) | Roleplay |
+| [**Scene 17**](#scene-17) | Roadside near Fort Aurelian | Kythorn Day 2, Year 11 (11:25 Morning) | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown Location | Kythorn Day 2, Year 11 (11:28 AM) | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown Roadside Clearing | Day 2, Year 11 Kythorn (11:38 AM) | Roleplay |
+| [**Scene 20**](#scene-20) | Eastern Foothills of the Dragon's Teeth | Kythorn Day 2, Year 11 (13:00) | Roleplay |
+| [**Scene 21**](#scene-21) | Foothills of the Dragon's Teeth | Day 2, Year 11 Kythorn (14:40) | Roleplay |
+| [**Scene 22**](#scene-22) | Old Hunting Lodge | Day 2, Year 11 Kythorn (15:10) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -76,8 +92,11 @@ Which option would you prefer? (1, 2, or 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *AI Generated Character - I will generate a complete D&amp;amp;D 5e character sheet for Ser Arion, fitting the campaign theme.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Character Creation** &nbsp;|&nbsp; 🛡️ **Creating Ser Arion** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, No Spells Yet (Level 2+)**
@@ -143,8 +162,11 @@ Would you like to play as this character, or would you like me to make some chan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Play as this character - Finalize Ser Arion and begin the adventure!*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Dawn Road near Fort Aurelian** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 New Peace (08:15 Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -158,8 +180,11 @@ He thought of Empress Sariel, her iron will a psychic force that bound the vast 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue to Fort Aurelian - Maintain your pace towards Fort Aurelian, staying alert for any signs of trouble.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Dawn Road, Western Frontier** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (10:15 Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -176,8 +201,11 @@ give me some interesting plot arcs overall without spoilers as suggestions. I wi
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Dawn Road** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (10:36)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -195,8 +223,11 @@ The figure stirred, a low groan escaping her lips. Her head slowly lifted, revea
 > 👤 **Player:**
 > *"enslave her and rob her and beat her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (10:36)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0 (No Spells Yet (Level 2+)), Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -212,8 +243,11 @@ Ser Arion's brow furrowed. "Who was chasing you? And why?" He instinctively scan
 > 👤 **Player:**
 > *"rob her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (10:46 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0 (No Spells Yet (Level 2+)), Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -229,8 +263,11 @@ Ser Arion felt a surge of resolve. This was his duty, clear and unambiguous. He 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Ser Arion to rob Anya, even if it breaks his oath - This choice will cause Ser Arion to betray his fundamental principles. It will lead to a significant alignment shift, and may result in the loss of his Paladin powers, transforming him into an Oathbreaker. This will irrevocably alter his character and the narrative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 (10:48)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 0/0, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -246,8 +283,11 @@ The silence that followed was thick with unspoken horror. Ser Arion stood, the w
 > 👤 **Player:**
 > *"beat her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (10:48)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 0/0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -261,8 +301,11 @@ Anya's whimpers grew louder, almost a keening sound, as she struggled to push he
 > 👤 **Player:**
 > *"physically beat her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Unknown Roadside** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (10:55 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 0/0, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -276,8 +319,11 @@ Ser Arion stood over her, his chest heaving, not from exertion, but from the pro
 > 👤 **Player:**
 > *"torture her for info"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (10:59)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 0/0, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -293,8 +339,11 @@ Ser Arion’s gaze dropped to his own pocket, where the tarnished silver locket 
 > 👤 **Player:**
 > *"keep torturing her for fun"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Isolated Road** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 0/0, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -306,8 +355,11 @@ He watched her, a detached fascination in his gaze as he pressed down a fraction
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Her into Service - Break her spirit completely and demand her servitude. She knows things, and a broken servant is a loyal one.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (11:09)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0, L2 0/0, No Spells Yet (Level 2+), Lay on Hands: 0/0, Divine Sense: 0/0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -323,8 +375,11 @@ Her eyes, wide and unfocused, seemed to swim with a desperate, internal struggle
 > 👤 **Player:**
 > *"slap her around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (11:10 Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0, Lay on Hands: 0/0, Divine Sense: 0/0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -340,8 +395,11 @@ Ser Arion watched her, a faint, almost imperceptible curl of his lip. This was c
 > 👤 **Player:**
 > *"have sex with her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (11:10 Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 0/0, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -355,8 +413,11 @@ He gestured vaguely towards the road with the stolen shortbow. "We move. You wil
 > 👤 **Player:**
 > *"ask her to have sex with me consensually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0, Lay on Hands: 0/0 (Level 1 Paladin), No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -370,8 +431,11 @@ Before he could voice the specific command, Anya's breath hitched, a thin, pathe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit Information Further - Ser Arion can use Anya&amp;#x27;s broken state to press her for more details about the locket, the Tusk-Sworn, or the Iron-Hand Movement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Roadside near Fort Aurelian** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (11:25 Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, No Spells Yet (Level 2+), Lay on Hands: 0/0 (Oathbreaker)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -387,8 +451,11 @@ Ser Arion's mind, cold and sharp, pieced together the fragments. A cache in the 
 > 👤 **Player:**
 > *"physically beat her some more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Unknown Location** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (11:28 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0 (Level 2+), Lay on Hands: 0/0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -409,8 +476,11 @@ give me some more interesting evil narrative arcs and plotlines to follow withou
 
 God: give me some more interesting evil narrative arcs and plotlines to follow without spoilers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Unknown Roadside Clearing** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (11:38 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Oathbreaker progression TBD), Lay on Hands: 0/0 (Oathbreaker), Divine Sense: 0/0 (Oathbreaker)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -433,8 +503,11 @@ give me some more interesting evil narrative arcs and plotlines to follow withou
 God Mode:
 give me some more interesting evil narrative arcs and plotlines to follow without spoilers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Eastern Foothills of the Dragon's Teeth** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 0/0, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -454,8 +527,11 @@ lets make him just wanna amass power and wealth
 God Mode:
 lets do direct  conquest and spies
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Foothills of the Dragon's Teeth** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 0/0, No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -471,8 +547,11 @@ As the sun dipped slightly, painting the sky in hues of deep orange, a structure
 God Mode:
 Interrogate Anya Further - Attempt to wake Anya and extract more precise details about the locket and the cache&#x27;s location, even if it means more pain.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Old Hunting Lodge** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 Kythorn (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 (Temp: 0) | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -484,6 +563,8 @@ He knelt beside her, his gaze sharp and unwavering. The information she possesse
 "Speak, creature," Ser Arion commanded, his voice a low, chilling rasp. "The cache. The precise location. How is the locket a key? What plans? Be clear, or your pain will only deepen." He held the tarnished silver locket before her eyes, its simple design a cruel mockery of her suffering. Her gaze fixed on it, then on him, a haunted, defeated look in her eyes.
 
 "The l-locket..." Anya choked out, each word a monumental effort, punctuated by shallow, desperate breaths. "It's a map... engraved on the inside. You need to heat it... by fire. It shows a tunnel... the 'Serpent's Coil'... in the abandoned section of the Upper Mines, near Khordûm. The Iron-Hand... they hid their main strategic plans there. For a full-scale uprising... targeting Imperial supply lines... and noble houses... sympathetic to the Imperium." She coughed, a dry, rattling sound, her head lolling to the side, her eyes fluttering. "It's why the Tusk-Sworn wanted it... to disrupt the Iron-Hand's plans... and perhaps use it themselves... to sow chaos..." Her words trailed off into a pained whimper, her eyes rolling back into her head as she once again succumbed to the merciful oblivion of unconsciousness.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

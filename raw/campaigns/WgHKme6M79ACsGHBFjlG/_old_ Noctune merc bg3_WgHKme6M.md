@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (315 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Your Character: The Nocturne Profile
@@ -140,331 +151,336 @@ Surprise Encounters: You have been told that this world is full of significant p
 
 The choice is yours. What do you do?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:00) | Roleplay |
-| **02** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:05) | Roleplay |
-| **03** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:05) | Roleplay |
-| **04** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:10) | Roleplay |
-| **05** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:15) | Roleplay |
-| **06** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:20) | Roleplay |
-| **07** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:25) | Roleplay |
-| **08** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:30) | Roleplay |
-| **09** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:35) | Roleplay |
-| **10** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:40) | Roleplay |
-| **11** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:45) | Roleplay |
-| **12** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:50) | Roleplay |
-| **13** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:50) | Roleplay |
-| **14** | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:55) | Roleplay |
-| **15** | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:05) | Roleplay |
-| **16** | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:10) | Roleplay |
-| **17** | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:15) | Roleplay |
-| **18** | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:20) | Roleplay |
-| **19** | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:25) | Roleplay |
-| **20** | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (20:05) | Roleplay |
-| **21** | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (21:05) | Roleplay |
-| **22** | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (22:50) | Roleplay |
-| **23** | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (22:55) | Roleplay |
-| **24** | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (23:05) | Roleplay |
-| **25** | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (23:10) | Roleplay |
-| **26** | Lower City - Guild Drop-off Point | Ches 21, 1492 DR (01:10) | Roleplay |
-| **27** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:10) | Roleplay |
-| **28** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:15) | Roleplay |
-| **29** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:20) | Roleplay |
-| **30** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:25) | Roleplay |
-| **31** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:30) | Roleplay |
-| **32** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:35) | Roleplay |
-| **33** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:40) | Roleplay |
-| **34** | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:45) | Roleplay |
-| **35** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:45) | Roleplay |
-| **36** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:45) | Roleplay |
-| **37** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:50) | Roleplay |
-| **38** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:55) | Roleplay |
-| **39** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:55) | Roleplay |
-| **40** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:00) | Roleplay |
-| **41** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:05) | Roleplay |
-| **42** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:05) | Roleplay |
-| **43** | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:05) | Roleplay |
-| **44** | Upper City - Near Umbrage Estate | Ches 21, 1492 DR (23:05) | Roleplay |
-| **45** | Upper City - Near Umbrage Estate | Ches 21, 1492 DR (23:05) | Roleplay |
-| **46** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:05) | Roleplay |
-| **47** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:05) | Roleplay |
-| **48** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:10) | Roleplay |
-| **49** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:10) | Roleplay |
-| **50** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:10) | Roleplay |
-| **51** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:20) | Roleplay |
-| **52** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:20) | Roleplay |
-| **53** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:20) | Roleplay |
-| **54** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:25) | Roleplay |
-| **55** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:25) | Roleplay |
-| **56** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:30) | Roleplay |
-| **57** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
-| **58** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
-| **59** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
-| **60** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:40) | Roleplay |
-| **61** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:40) | Roleplay |
-| **62** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:45) | Roleplay |
-| **63** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:50) | Roleplay |
-| **64** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:55) | Roleplay |
-| **65** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
-| **66** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
-| **67** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
-| **68** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
-| **69** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
-| **70** | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (05:00) | Roleplay |
-| **71** | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (05:05) | Roleplay |
-| **72** | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
-| **73** | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
-| **74** | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
-| **81** | Upper City - Counting House Area | Ches 22, 1492 DR (06:35) | Roleplay |
-| **82** | Upper City - Near the Counting House | Ches 22, 1492 DR (08:15) | Roleplay |
-| **83** | Upper City - Counting House Area | Ches 22, 1492 DR (08:40) | Roleplay |
-| **84** | Upper City - Counting House Area (Vantage Point) | Ches 22, 1492 DR (09:10) | Roleplay |
-| **85** | Upper City - Counting House Area (Vantage Point) | Ches 22, 1492 DR (09:30) | Roleplay |
-| **86** | Upper City - Counting House Area | Ches 22, 1492 DR (09:35) | Roleplay |
-| **87** | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:40) | Roleplay |
-| **88** | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:40) | Roleplay |
-| **89** | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:45) | Roleplay |
-| **90** | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:45) | Roleplay |
-| **91** | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:00) | Roleplay |
-| **92** | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:05) | Roleplay |
-| **93** | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:10) | Roleplay |
-| **94** | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:15) | Roleplay |
-| **95** | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (19:00) | Roleplay |
-| **96** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (20:00) | Roleplay |
-| **97** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (20:05) | Roleplay |
-| **98** | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
-| **99** | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (22:05) | Roleplay |
-| **100** | The Smirking Boar - Cellar | Ches 22, 1492 DR (22:45) | Roleplay |
-| **101** | The Smirking Boar - Cellar | Ches 22, 1492 DR (22:50) | Roleplay |
-| **102** | The Smirking Boar - Cellar | Ches 22, 1492 DR (23:00) | Roleplay |
-| **103** | The Smirking Boar - Cellar | Ches 22, 1492 DR (23:00) | Roleplay |
-| **104** | The Smirking Boar - Cellar (Exiting) | Ches 22, 1492 DR (23:10) | Roleplay |
-| **105** | The Coiled Serpent Tavern - Safe House | Ches 23, 1492 DR (01:00) | Roleplay |
-| **106** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:30) | Roleplay |
-| **107** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
-| **108** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
-| **109** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
-| **110** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
-| **111** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
-| **112** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:40) | Roleplay |
-| **113** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:45) | Roleplay |
-| **114** | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (02:00) | Roleplay |
-| **115** | The Guildhall - Corridor outside High Office | Ches 23, 1492 DR (02:05) | Roleplay |
-| **116** | The Guildhall - Corridor | Ches 23, 1492 DR (02:05) | Roleplay |
-| **117** | The Guildhall - Corridor | Ches 23, 1492 DR (03:00) | Roleplay |
-| **118** | Upper City - Umbrage Estate (Solarium) | Ches 23, 1492 DR (09:00) | Roleplay |
-| **119** | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:00) | Roleplay |
-| **120** | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:05) | Roleplay |
-| **121** | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:05) | Roleplay |
-| **122** | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:05) | Roleplay |
-| **123** | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:10) | Roleplay |
-| **124** | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:00) | Roleplay |
-| **125** | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:10) | Roleplay |
-| **126** | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:05) | Roleplay |
-| **127** | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:05) | Roleplay |
-| **128** | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:06) | Roleplay |
-| **129** | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:00) | Roleplay |
-| **130** | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:05) | Roleplay |
-| **131** | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:10) | Roleplay |
-| **132** | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:10) | Roleplay |
-| **133** | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:10) | Roleplay |
-| **134** | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:15) | Roleplay |
-| **135** | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:20) | Roleplay |
-| **136** | Lower City - Grey Harbor (The Silent Wave - Captain's Quarters) | Ches 23, 1492 DR (18:30) | Roleplay |
-| **137** | Lower City - Grey Harbor (The Silent Wave - Cargo Hold) | Ches 23, 1492 DR (18:35) | Roleplay |
-| **138** | Lower City - Grey Harbor (The Silent Wave - Cargo Hold) | Ches 23, 1492 DR (18:40) | Roleplay |
-| **139** | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
-| **140** | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
-| **141** | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
-| **142** | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:05) | Roleplay |
-| **143** | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:05) | Roleplay |
-| **144** | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:20) | Roleplay |
-| **145** | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:20) | Roleplay |
-| **146** | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
-| **147** | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
-| **148** | Little Calimshan - Streets | Ches 23, 1492 DR (20:30) | Roleplay |
-| **149** | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:35) | Roleplay |
-| **150** | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (21:30) | Roleplay |
-| **151** | Upper City - Umbrage Estate (Solarium) | Ches 23, 1492 DR (22:00) | Roleplay |
-| **152** | Upper City - Umbrage Estate (Guest Chambers) | Ches 24, 1492 DR (08:00) | Roleplay |
-| **153** | Upper City - Umbrage Estate (Guest Chambers) | Ches 24, 1492 DR (08:05) | Roleplay |
-| **154** | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
-| **155** | Little Calimshan - Streets (Outside The Gilded Cage) | Ches 23, 1492 DR (20:30) | Roleplay |
-| **156** | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (20:05) | Roleplay |
-| **157** | Upper City - Umbrage Estate (Solarium) | Ches 22, 1492 DR (20:20) | Roleplay |
-| **158** | Upper City - Umbrage Estate (Study) | Ches 22, 1492 DR (20:30) | Roleplay |
-| **159** | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:00) | Roleplay |
-| **160** | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:05) | Roleplay |
-| **161** | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:05) | Roleplay |
-| **162** | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:10) | Roleplay |
-| **163** | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:20) | Roleplay |
-| **164** | Little Calimshan - The Gilded Cage (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
-| **165** | Little Calimshan - Streets | Ches 23, 1492 DR (20:35) | Roleplay |
-| **166** | Upper City - Basilisk Gate (Ambush Position) | Ches 24, 1492 DR (06:00) | Roleplay |
-| **167** | Upper City - Basilisk Gate | Ches 24, 1492 DR (06:00) | Roleplay |
-| **168** | The Coiled Serpent Tavern - Safe House | Ches 24, 1492 DR (07:30) | Roleplay |
-| **169** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (07:45) | Roleplay |
-| **170** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:00) | Roleplay |
-| **171** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:05) | Roleplay |
-| **172** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:05) | Roleplay |
-| **173** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:15) | Roleplay |
-| **174** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:15) | Roleplay |
-| **175** | Upper City - Rathmar's Residence | Ches 24, 1492 DR (09:45) | Roleplay |
-| **176** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (10:45) | Roleplay |
-| **177** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:45) | Roleplay |
-| **178** | The Undercellar - Guild Elite Quarters | Ches 24, 1492 DR (10:00) | Roleplay |
-| **179** | Lower City - The Tannery (Zhentarim Vault) | Ches 24, 1492 DR (11:00) | Roleplay |
-| **180** | Lower City - Guild Wagon (En Route to Safe House) | Ches 24, 1492 DR (11:30) | Roleplay |
-| **181** | Upper City - Umbrage Estate (Guest Chambers) | Ches 24, 1492 DR (08:10) | Roleplay |
-| **182** | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
-| **183** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (11:35) | Roleplay |
-| **184** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (11:35) | Roleplay |
-| **185** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:30) | Roleplay |
-| **186** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:35) | Roleplay |
-| **187** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:40) | Roleplay |
-| **188** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:45) | Roleplay |
-| **189** | Upper City - Umbrage Estate (Lord's Study) | Ches 24, 1492 DR (14:15) | Roleplay |
-| **190** | Upper City - Umbrage Estate (Solarium) | Ches 22, 1492 DR (20:30) | Roleplay |
-| **191** | Little Calimshan - The Gilded Cage (Interior) | Ches 24, 1492 DR (15:30) | Roleplay |
-| **192** | The Undercellar - Guild Elite Quarters | Ches 24, 1492 DR (16:30) | Roleplay |
-| **193** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (19:00) | Roleplay |
-| **194** | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (19:30) | Roleplay |
-| **195** | The Coiled Serpent Tavern - Safe House | Ches 24, 1492 DR (19:35) | Roleplay |
-| **196** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (22:00) | Roleplay |
-| **197** | Little Calimshan - The Gilded Cage (Interior) | Ches 24, 1492 DR (15:45) | Roleplay |
-| **198** | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
-| **199** | The Coiled Serpent Tavern - Safe House | Ches 25, 1492 DR (06:00) | Roleplay |
-| **200** | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:00) | Roleplay |
-| **201** | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:05) | Roleplay |
-| **202** | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:05) | Roleplay |
-| **203** | Wyrm's Rock - Ambush Site (Time Frozen) | Ches 25, 1492 DR (08:05) | Roleplay |
-| **204** | Wyrm's Rock - Ambush Site (Combat) | Ches 25, 1492 DR (08:05) | Roleplay |
-| **205** | Wyrm's Rock - Ambush Site (Combat) | Ches 25, 1492 DR (08:05) | Roleplay |
-| **206** | Wyrm's Rock - Ambush Site (Combat Resolution) | Ches 25, 1492 DR (08:10) | Roleplay |
-| **207** | Wyrm's Rock - Ambush Site (Lead Wagon) | Ches 25, 1492 DR (08:15) | Roleplay |
-| **208** | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:00) | Roleplay |
-| **209** | Wyrm's Rock - Ambush Site (Lead Wagon) | Ches 25, 1492 DR (08:15) | Roleplay |
-| **210** | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:05) | Roleplay |
-| **211** | Wyrm's Rock - Ambush Site (Aftermath) | Ches 25, 1492 DR (08:20) | Roleplay |
-| **212** | Lower City - Guild Warehouse (South Ward) | Ches 25, 1492 DR (12:20) | Roleplay |
-| **213** | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (13:30) | Roleplay |
-| **214** | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (13:30) | Roleplay |
-| **215** | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:00) | Roleplay |
-| **216** | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:05) | Roleplay |
-| **217** | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:10) | Roleplay |
-| **218** | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:10) | Roleplay |
-| **219** | Lower City - Grey Harbor (The Silent Wave - Cargo Hold) | Ches 24, 1492 DR (11:35) | Roleplay |
-| **220** | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (14:00) | Roleplay |
-| **221** | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (14:05) | Roleplay |
-| **222** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 25, 1492 DR (16:30) | Roleplay |
-| **223** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 25, 1492 DR (16:30) | Roleplay |
-| **224** | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 25, 1492 DR (18:00) | Roleplay |
-| **225** | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (15:00) | Roleplay |
-| **226** | Lower City - The Shadow Bank (Backroom of The Gilded Cage) | Ches 25, 1492 DR (16:00) | Roleplay |
-| **227** | Lower City - The Shadow Bank (Backroom) | Ches 25, 1492 DR (16:15) | Roleplay |
-| **228** | The Undercellar - Guild Elite Quarters | Ches 25, 1492 DR (17:00) | Roleplay |
-| **229** | The Coiled Serpent Tavern - Private Cellar | Tarsakh 2, 1492 DR (09:00) | Roleplay |
-| **230** | The Coiled Serpent Tavern - Private Cellar | Tarsakh 2, 1492 DR (10:00) | Roleplay |
-| **231** | The Coiled Serpent Tavern - Safe House | Tarsakh 2, 1492 DR (10:05) | Roleplay |
-| **232** | Lower City - Old Bathhouse (Interior) | Tarsakh 2, 1492 DR (11:00) | Roleplay |
-| **233** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 2, 1492 DR (11:30) | Roleplay |
-| **234** | Lower City - Old Bathhouse (Interior) | Tarsakh 2, 1492 DR (11:00) | Roleplay |
-| **235** | Little Calimshan - The Gilded Cage (Shadow Bank HQ) | Tarsakh 2, 1492 DR (11:30) | Roleplay |
-| **236** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
-| **237** | Lower City - The Shadow Bank (Backroom) | Ches 25, 1492 DR (16:20) | Roleplay |
-| **238** | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:00) | Roleplay |
-| **239** | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (17:00) | Roleplay |
-| **240** | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:05) | Roleplay |
-| **241** | Unknown |  | Roleplay |
-| **242** | The Coiled Serpent Tavern - Safe House | Ches 23, 1492 DR (08:00) | Roleplay |
-| **243** | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:05) | Roleplay |
-| **244** | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:10) | Roleplay |
-| **245** | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (12:45) | Roleplay |
-| **246** | Upper City - Umbrage Estate / City-Wide | Tarsakh 2, 1492 DR (14:00) | Roleplay |
-| **247** | The Undercellar - Guild Elite Quarters | Tarsakh 2, 1492 DR (13:10) | Roleplay |
-| **248** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (12:00) | Roleplay |
-| **249** | Upper City - Umbrage Estate (Solarium) | Tarsakh 3, 1492 DR (13:00) | Roleplay |
-| **250** | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (17:00) | Roleplay |
-| **251** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (12:00) | Roleplay |
-| **252** | Lower City - The Gilded Cage (Shadow Bank HQ) | Tarsakh 3, 1492 DR (14:00) | Roleplay |
-| **253** | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
-| **254** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (12:05) | Roleplay |
-| **255** | Lower City - The Smiling Anvil (Weapon Shop) | Tarsakh 3, 1492 DR (16:00) | Roleplay |
-| **256** | Lower City - The Smiling Anvil (Weapon Shop) | Tarsakh 3, 1492 DR (16:10) | Roleplay |
-| **257** | Upper City - Umbrage Estate (Drawing Room) | Tarsakh 3, 1492 DR (17:00) | Roleplay |
-| **258** | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (18:00) | Roleplay |
-| **259** | Lower City - The Smiling Anvil (Weapon Shop) | Tarsakh 3, 1492 DR (16:00) | Roleplay |
-| **260** | Lower City - Market District | Ches 25, 1492 DR (12:00) | Roleplay |
-| **261** | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (12:10) | Roleplay |
-| **262** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (17:00) | Roleplay |
-| **263** | Upper City - Umbrage Estate (Balcony) | Tarsakh 3, 1492 DR (17:30) | Roleplay |
-| **264** | Lower City - Grey Harbor (Aerial Vantage) | Tarsakh 3, 1492 DR (19:00) | Roleplay |
-| **265** | Chionthar River - The Wyrm's Tooth (Ambush Site) | Tarsakh 5, 1492 DR (20:00) | Roleplay |
-| **266** | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (13:00) | Roleplay |
-| **267** | Chionthar River - The Wyrm's Tooth (Ambush Site) | Tarsakh 5, 1492 DR (20:00) | Roleplay |
-| **268** | Wyrm's Rock - Ambush Site (Lead Wagon) | Ches 25, 1492 DR (08:15) | Roleplay |
-| **269** | Chionthar River - The Wyrm's Tooth (Ambush Site) | Tarsakh 5, 1492 DR (20:00) | Roleplay |
-| **270** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
-| **271** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
-| **272** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
-| **273** | Upper City - Umbrage Estate (Solarium) | Tarsakh 3, 1492 DR (17:30) | Roleplay |
-| **274** | Upper City - Flaming Fist Headquarters (Vice-Marshal's Office) | Tarsakh 3, 1492 DR (18:00) | Roleplay |
-| **275** | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:10) | Roleplay |
-| **276** | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (13:00) | Roleplay |
-| **277** | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (17:00) | Roleplay |
-| **278** | Upper City - Umbrage Estate (Solarium) | Ches 22, 1492 DR (20:30) | Roleplay |
-| **279** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
-| **280** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
-| **281** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
-| **282** | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
-| **283** | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
-| **284** | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:15) | Roleplay |
-| **285** | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:20) | Roleplay |
-| **286** | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:25) | Roleplay |
-| **287** | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:30) | Roleplay |
-| **288** | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:35) | Roleplay |
-| **289** | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:40) | Roleplay |
-| **290** | Chionthar River - The Wyrm's Tooth (Main Cargo Hold) | Tarsakh 5, 1492 DR (20:45) | Roleplay |
-| **291** | Chionthar River - The Wyrm's Tooth (Main Cargo Hold) | Tarsakh 5, 1492 DR (20:50) | Roleplay |
-| **292** | Chionthar River - The Wyrm's Tooth (Navigation Room) | Tarsakh 5, 1492 DR (21:00) | Roleplay |
-| **293** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 6, 1492 DR (08:00) | Roleplay |
-| **294** | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
-| **295** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 6, 1492 DR (09:00) | Roleplay |
-| **296** | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 6, 1492 DR (09:30) | Roleplay |
-| **297** | Lower City - Sorcerous Sundries | Tarsakh 3, 1492 DR (15:00) | Roleplay |
-| **298** | Upper City - Umbrage Estate (Gala Entrance) | Ches 25, 1492 DR (18:30) | Roleplay |
-| **299** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:00) | Roleplay |
-| **300** | Upper City - Umbrage Estate (Ballroom) | Tarsakh 6, 1492 DR (20:00) | Roleplay |
-| **301** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:15) | Roleplay |
-| **302** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:30) | Roleplay |
-| **303** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
-| **304** | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
-| **305** | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
-| **306** | Upper City - Umbrage Estate (Study) | Ches 22, 1492 DR (20:35) | Roleplay |
-| **307** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
-| **308** | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
-| **309** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:35) | Roleplay |
-| **310** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:00) | Roleplay |
-| **311** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:15) | Roleplay |
-| **312** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:30) | Roleplay |
-| **313** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:00) | Roleplay |
-| **314** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:40) | Roleplay |
-| **315** | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:45) | Roleplay |
+| [**Scene 01**](#scene-1) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:00) | Roleplay |
+| [**Scene 02**](#scene-2) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:05) | Roleplay |
+| [**Scene 03**](#scene-3) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:05) | Roleplay |
+| [**Scene 04**](#scene-4) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:10) | Roleplay |
+| [**Scene 05**](#scene-5) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:15) | Roleplay |
+| [**Scene 06**](#scene-6) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:20) | Roleplay |
+| [**Scene 07**](#scene-7) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:25) | Roleplay |
+| [**Scene 08**](#scene-8) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:30) | Roleplay |
+| [**Scene 09**](#scene-9) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:35) | Roleplay |
+| [**Scene 10**](#scene-10) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:40) | Roleplay |
+| [**Scene 11**](#scene-11) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:45) | Roleplay |
+| [**Scene 12**](#scene-12) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:50) | Roleplay |
+| [**Scene 13**](#scene-13) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:50) | Roleplay |
+| [**Scene 14**](#scene-14) | The Smirking Boar - Cellar | Ches 20, 1492 DR (18:55) | Roleplay |
+| [**Scene 15**](#scene-15) | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:05) | Roleplay |
+| [**Scene 16**](#scene-16) | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:10) | Roleplay |
+| [**Scene 17**](#scene-17) | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:15) | Roleplay |
+| [**Scene 18**](#scene-18) | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:20) | Roleplay |
+| [**Scene 19**](#scene-19) | Guild Storeroom (near Docks) | Ches 20, 1492 DR (19:25) | Roleplay |
+| [**Scene 20**](#scene-20) | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (20:05) | Roleplay |
+| [**Scene 21**](#scene-21) | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (21:05) | Roleplay |
+| [**Scene 22**](#scene-22) | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (22:50) | Roleplay |
+| [**Scene 23**](#scene-23) | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (22:55) | Roleplay |
+| [**Scene 24**](#scene-24) | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (23:05) | Roleplay |
+| [**Scene 25**](#scene-25) | Rivington Shantytown - Outskirts | Ches 20, 1492 DR (23:10) | Roleplay |
+| [**Scene 26**](#scene-26) | Lower City - Guild Drop-off Point | Ches 21, 1492 DR (01:10) | Roleplay |
+| [**Scene 27**](#scene-27) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:10) | Roleplay |
+| [**Scene 28**](#scene-28) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:15) | Roleplay |
+| [**Scene 29**](#scene-29) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:20) | Roleplay |
+| [**Scene 30**](#scene-30) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:25) | Roleplay |
+| [**Scene 31**](#scene-31) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:30) | Roleplay |
+| [**Scene 32**](#scene-32) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:35) | Roleplay |
+| [**Scene 33**](#scene-33) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:40) | Roleplay |
+| [**Scene 34**](#scene-34) | The Smirking Boar - Cellar | Ches 21, 1492 DR (02:45) | Roleplay |
+| [**Scene 35**](#scene-35) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:45) | Roleplay |
+| [**Scene 36**](#scene-36) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:45) | Roleplay |
+| [**Scene 37**](#scene-37) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:50) | Roleplay |
+| [**Scene 38**](#scene-38) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:55) | Roleplay |
+| [**Scene 39**](#scene-39) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (10:55) | Roleplay |
+| [**Scene 40**](#scene-40) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:00) | Roleplay |
+| [**Scene 41**](#scene-41) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:05) | Roleplay |
+| [**Scene 42**](#scene-42) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:05) | Roleplay |
+| [**Scene 43**](#scene-43) | The Coiled Serpent Tavern - Safe House | Ches 21, 1492 DR (11:05) | Roleplay |
+| [**Scene 44**](#scene-44) | Upper City - Near Umbrage Estate | Ches 21, 1492 DR (23:05) | Roleplay |
+| [**Scene 45**](#scene-45) | Upper City - Near Umbrage Estate | Ches 21, 1492 DR (23:05) | Roleplay |
+| [**Scene 46**](#scene-46) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:05) | Roleplay |
+| [**Scene 47**](#scene-47) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:05) | Roleplay |
+| [**Scene 48**](#scene-48) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:10) | Roleplay |
+| [**Scene 49**](#scene-49) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:10) | Roleplay |
+| [**Scene 50**](#scene-50) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:10) | Roleplay |
+| [**Scene 51**](#scene-51) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:20) | Roleplay |
+| [**Scene 52**](#scene-52) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:20) | Roleplay |
+| [**Scene 53**](#scene-53) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:20) | Roleplay |
+| [**Scene 54**](#scene-54) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:25) | Roleplay |
+| [**Scene 55**](#scene-55) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:25) | Roleplay |
+| [**Scene 56**](#scene-56) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:30) | Roleplay |
+| [**Scene 57**](#scene-57) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
+| [**Scene 58**](#scene-58) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
+| [**Scene 59**](#scene-59) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
+| [**Scene 60**](#scene-60) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:40) | Roleplay |
+| [**Scene 61**](#scene-61) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:40) | Roleplay |
+| [**Scene 62**](#scene-62) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:45) | Roleplay |
+| [**Scene 63**](#scene-63) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:50) | Roleplay |
+| [**Scene 64**](#scene-64) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:55) | Roleplay |
+| [**Scene 65**](#scene-65) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
+| [**Scene 66**](#scene-66) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
+| [**Scene 67**](#scene-67) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
+| [**Scene 68**](#scene-68) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
+| [**Scene 69**](#scene-69) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (02:55) | Roleplay |
+| [**Scene 70**](#scene-70) | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (05:00) | Roleplay |
+| [**Scene 71**](#scene-71) | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (05:05) | Roleplay |
+| [**Scene 72**](#scene-72) | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
+| [**Scene 73**](#scene-73) | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
+| [**Scene 74**](#scene-74) | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Upper City - Near the Counting House | Ches 22, 1492 DR (05:35) | Roleplay |
+| [**Scene 81**](#scene-81) | Upper City - Counting House Area | Ches 22, 1492 DR (06:35) | Roleplay |
+| [**Scene 82**](#scene-82) | Upper City - Near the Counting House | Ches 22, 1492 DR (08:15) | Roleplay |
+| [**Scene 83**](#scene-83) | Upper City - Counting House Area | Ches 22, 1492 DR (08:40) | Roleplay |
+| [**Scene 84**](#scene-84) | Upper City - Counting House Area (Vantage Point) | Ches 22, 1492 DR (09:10) | Roleplay |
+| [**Scene 85**](#scene-85) | Upper City - Counting House Area (Vantage Point) | Ches 22, 1492 DR (09:30) | Roleplay |
+| [**Scene 86**](#scene-86) | Upper City - Counting House Area | Ches 22, 1492 DR (09:35) | Roleplay |
+| [**Scene 87**](#scene-87) | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:40) | Roleplay |
+| [**Scene 88**](#scene-88) | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:40) | Roleplay |
+| [**Scene 89**](#scene-89) | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:45) | Roleplay |
+| [**Scene 90**](#scene-90) | Upper City - Counting House Foyer | Ches 22, 1492 DR (09:45) | Roleplay |
+| [**Scene 91**](#scene-91) | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:00) | Roleplay |
+| [**Scene 92**](#scene-92) | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:05) | Roleplay |
+| [**Scene 93**](#scene-93) | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:10) | Roleplay |
+| [**Scene 94**](#scene-94) | Upper City - Counting House Foyer | Ches 22, 1492 DR (10:15) | Roleplay |
+| [**Scene 95**](#scene-95) | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (19:00) | Roleplay |
+| [**Scene 96**](#scene-96) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (20:00) | Roleplay |
+| [**Scene 97**](#scene-97) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (20:05) | Roleplay |
+| [**Scene 98**](#scene-98) | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
+| [**Scene 99**](#scene-99) | The Coiled Serpent Tavern - Safe House | Ches 22, 1492 DR (22:05) | Roleplay |
+| [**Scene 100**](#scene-100) | The Smirking Boar - Cellar | Ches 22, 1492 DR (22:45) | Roleplay |
+| [**Scene 101**](#scene-101) | The Smirking Boar - Cellar | Ches 22, 1492 DR (22:50) | Roleplay |
+| [**Scene 102**](#scene-102) | The Smirking Boar - Cellar | Ches 22, 1492 DR (23:00) | Roleplay |
+| [**Scene 103**](#scene-103) | The Smirking Boar - Cellar | Ches 22, 1492 DR (23:00) | Roleplay |
+| [**Scene 104**](#scene-104) | The Smirking Boar - Cellar (Exiting) | Ches 22, 1492 DR (23:10) | Roleplay |
+| [**Scene 105**](#scene-105) | The Coiled Serpent Tavern - Safe House | Ches 23, 1492 DR (01:00) | Roleplay |
+| [**Scene 106**](#scene-106) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:30) | Roleplay |
+| [**Scene 107**](#scene-107) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
+| [**Scene 108**](#scene-108) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
+| [**Scene 109**](#scene-109) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
+| [**Scene 110**](#scene-110) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
+| [**Scene 111**](#scene-111) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:35) | Roleplay |
+| [**Scene 112**](#scene-112) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:40) | Roleplay |
+| [**Scene 113**](#scene-113) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (01:45) | Roleplay |
+| [**Scene 114**](#scene-114) | The Guildhall - Nine-Fingers' Office | Ches 23, 1492 DR (02:00) | Roleplay |
+| [**Scene 115**](#scene-115) | The Guildhall - Corridor outside High Office | Ches 23, 1492 DR (02:05) | Roleplay |
+| [**Scene 116**](#scene-116) | The Guildhall - Corridor | Ches 23, 1492 DR (02:05) | Roleplay |
+| [**Scene 117**](#scene-117) | The Guildhall - Corridor | Ches 23, 1492 DR (03:00) | Roleplay |
+| [**Scene 118**](#scene-118) | Upper City - Umbrage Estate (Solarium) | Ches 23, 1492 DR (09:00) | Roleplay |
+| [**Scene 119**](#scene-119) | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:00) | Roleplay |
+| [**Scene 120**](#scene-120) | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:05) | Roleplay |
+| [**Scene 121**](#scene-121) | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:05) | Roleplay |
+| [**Scene 122**](#scene-122) | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:05) | Roleplay |
+| [**Scene 123**](#scene-123) | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:10) | Roleplay |
+| [**Scene 124**](#scene-124) | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:00) | Roleplay |
+| [**Scene 125**](#scene-125) | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (10:10) | Roleplay |
+| [**Scene 126**](#scene-126) | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:05) | Roleplay |
+| [**Scene 127**](#scene-127) | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:05) | Roleplay |
+| [**Scene 128**](#scene-128) | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:06) | Roleplay |
+| [**Scene 129**](#scene-129) | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Lower City - Grey Harbor (Western Breakwater) | Ches 23, 1492 DR (18:05) | Roleplay |
+| [**Scene 131**](#scene-131) | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:10) | Roleplay |
+| [**Scene 132**](#scene-132) | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:10) | Roleplay |
+| [**Scene 133**](#scene-133) | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:10) | Roleplay |
+| [**Scene 134**](#scene-134) | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Lower City - Grey Harbor (The Silent Wave) | Ches 23, 1492 DR (18:20) | Roleplay |
+| [**Scene 136**](#scene-136) | Lower City - Grey Harbor (The Silent Wave - Captain's Quarters) | Ches 23, 1492 DR (18:30) | Roleplay |
+| [**Scene 137**](#scene-137) | Lower City - Grey Harbor (The Silent Wave - Cargo Hold) | Ches 23, 1492 DR (18:35) | Roleplay |
+| [**Scene 138**](#scene-138) | Lower City - Grey Harbor (The Silent Wave - Cargo Hold) | Ches 23, 1492 DR (18:40) | Roleplay |
+| [**Scene 139**](#scene-139) | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
+| [**Scene 140**](#scene-140) | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
+| [**Scene 141**](#scene-141) | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
+| [**Scene 142**](#scene-142) | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:05) | Roleplay |
+| [**Scene 143**](#scene-143) | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:05) | Roleplay |
+| [**Scene 144**](#scene-144) | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:20) | Roleplay |
+| [**Scene 145**](#scene-145) | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:20) | Roleplay |
+| [**Scene 146**](#scene-146) | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
+| [**Scene 147**](#scene-147) | Little Calimshan - The Gilded Cage (Exterior) | Ches 23, 1492 DR (20:00) | Roleplay |
+| [**Scene 148**](#scene-148) | Little Calimshan - Streets | Ches 23, 1492 DR (20:30) | Roleplay |
+| [**Scene 149**](#scene-149) | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:35) | Roleplay |
+| [**Scene 150**](#scene-150) | The Undercellar - Guild Elite Quarters | Ches 23, 1492 DR (21:30) | Roleplay |
+| [**Scene 151**](#scene-151) | Upper City - Umbrage Estate (Solarium) | Ches 23, 1492 DR (22:00) | Roleplay |
+| [**Scene 152**](#scene-152) | Upper City - Umbrage Estate (Guest Chambers) | Ches 24, 1492 DR (08:00) | Roleplay |
+| [**Scene 153**](#scene-153) | Upper City - Umbrage Estate (Guest Chambers) | Ches 24, 1492 DR (08:05) | Roleplay |
+| [**Scene 154**](#scene-154) | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
+| [**Scene 155**](#scene-155) | Little Calimshan - Streets (Outside The Gilded Cage) | Ches 23, 1492 DR (20:30) | Roleplay |
+| [**Scene 156**](#scene-156) | Upper City - Umbrage Estate (Exterior) | Ches 22, 1492 DR (20:05) | Roleplay |
+| [**Scene 157**](#scene-157) | Upper City - Umbrage Estate (Solarium) | Ches 22, 1492 DR (20:20) | Roleplay |
+| [**Scene 158**](#scene-158) | Upper City - Umbrage Estate (Study) | Ches 22, 1492 DR (20:30) | Roleplay |
+| [**Scene 159**](#scene-159) | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:00) | Roleplay |
+| [**Scene 160**](#scene-160) | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:05) | Roleplay |
+| [**Scene 161**](#scene-161) | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:05) | Roleplay |
+| [**Scene 162**](#scene-162) | Upper City - Rathmar's Residence | Ches 22, 1492 DR (21:10) | Roleplay |
+| [**Scene 163**](#scene-163) | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:20) | Roleplay |
+| [**Scene 164**](#scene-164) | Little Calimshan - The Gilded Cage (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
+| [**Scene 165**](#scene-165) | Little Calimshan - Streets | Ches 23, 1492 DR (20:35) | Roleplay |
+| [**Scene 166**](#scene-166) | Upper City - Basilisk Gate (Ambush Position) | Ches 24, 1492 DR (06:00) | Roleplay |
+| [**Scene 167**](#scene-167) | Upper City - Basilisk Gate | Ches 24, 1492 DR (06:00) | Roleplay |
+| [**Scene 168**](#scene-168) | The Coiled Serpent Tavern - Safe House | Ches 24, 1492 DR (07:30) | Roleplay |
+| [**Scene 169**](#scene-169) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (07:45) | Roleplay |
+| [**Scene 170**](#scene-170) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:00) | Roleplay |
+| [**Scene 171**](#scene-171) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:05) | Roleplay |
+| [**Scene 172**](#scene-172) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:05) | Roleplay |
+| [**Scene 173**](#scene-173) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:15) | Roleplay |
+| [**Scene 174**](#scene-174) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:15) | Roleplay |
+| [**Scene 175**](#scene-175) | Upper City - Rathmar's Residence | Ches 24, 1492 DR (09:45) | Roleplay |
+| [**Scene 176**](#scene-176) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (10:45) | Roleplay |
+| [**Scene 177**](#scene-177) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (09:45) | Roleplay |
+| [**Scene 178**](#scene-178) | The Undercellar - Guild Elite Quarters | Ches 24, 1492 DR (10:00) | Roleplay |
+| [**Scene 179**](#scene-179) | Lower City - The Tannery (Zhentarim Vault) | Ches 24, 1492 DR (11:00) | Roleplay |
+| [**Scene 180**](#scene-180) | Lower City - Guild Wagon (En Route to Safe House) | Ches 24, 1492 DR (11:30) | Roleplay |
+| [**Scene 181**](#scene-181) | Upper City - Umbrage Estate (Guest Chambers) | Ches 24, 1492 DR (08:10) | Roleplay |
+| [**Scene 182**](#scene-182) | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
+| [**Scene 183**](#scene-183) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (11:35) | Roleplay |
+| [**Scene 184**](#scene-184) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (11:35) | Roleplay |
+| [**Scene 185**](#scene-185) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:30) | Roleplay |
+| [**Scene 186**](#scene-186) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:35) | Roleplay |
+| [**Scene 187**](#scene-187) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:40) | Roleplay |
+| [**Scene 188**](#scene-188) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (12:45) | Roleplay |
+| [**Scene 189**](#scene-189) | Upper City - Umbrage Estate (Lord's Study) | Ches 24, 1492 DR (14:15) | Roleplay |
+| [**Scene 190**](#scene-190) | Upper City - Umbrage Estate (Solarium) | Ches 22, 1492 DR (20:30) | Roleplay |
+| [**Scene 191**](#scene-191) | Little Calimshan - The Gilded Cage (Interior) | Ches 24, 1492 DR (15:30) | Roleplay |
+| [**Scene 192**](#scene-192) | The Undercellar - Guild Elite Quarters | Ches 24, 1492 DR (16:30) | Roleplay |
+| [**Scene 193**](#scene-193) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (19:00) | Roleplay |
+| [**Scene 194**](#scene-194) | The Coiled Serpent Tavern - Safe House (Cellar) | Ches 24, 1492 DR (19:30) | Roleplay |
+| [**Scene 195**](#scene-195) | The Coiled Serpent Tavern - Safe House | Ches 24, 1492 DR (19:35) | Roleplay |
+| [**Scene 196**](#scene-196) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 24, 1492 DR (22:00) | Roleplay |
+| [**Scene 197**](#scene-197) | Little Calimshan - The Gilded Cage (Interior) | Ches 24, 1492 DR (15:45) | Roleplay |
+| [**Scene 198**](#scene-198) | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
+| [**Scene 199**](#scene-199) | The Coiled Serpent Tavern - Safe House | Ches 25, 1492 DR (06:00) | Roleplay |
+| [**Scene 200**](#scene-200) | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:00) | Roleplay |
+| [**Scene 201**](#scene-201) | Little Calimshan - The Gilded Cage (Interior) | Ches 23, 1492 DR (20:05) | Roleplay |
+| [**Scene 202**](#scene-202) | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:05) | Roleplay |
+| [**Scene 203**](#scene-203) | Wyrm's Rock - Ambush Site (Time Frozen) | Ches 25, 1492 DR (08:05) | Roleplay |
+| [**Scene 204**](#scene-204) | Wyrm's Rock - Ambush Site (Combat) | Ches 25, 1492 DR (08:05) | Roleplay |
+| [**Scene 205**](#scene-205) | Wyrm's Rock - Ambush Site (Combat) | Ches 25, 1492 DR (08:05) | Roleplay |
+| [**Scene 206**](#scene-206) | Wyrm's Rock - Ambush Site (Combat Resolution) | Ches 25, 1492 DR (08:10) | Roleplay |
+| [**Scene 207**](#scene-207) | Wyrm's Rock - Ambush Site (Lead Wagon) | Ches 25, 1492 DR (08:15) | Roleplay |
+| [**Scene 208**](#scene-208) | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:00) | Roleplay |
+| [**Scene 209**](#scene-209) | Wyrm's Rock - Ambush Site (Lead Wagon) | Ches 25, 1492 DR (08:15) | Roleplay |
+| [**Scene 210**](#scene-210) | Wyrm's Rock - Ambush Site (Exterior) | Ches 25, 1492 DR (08:05) | Roleplay |
+| [**Scene 211**](#scene-211) | Wyrm's Rock - Ambush Site (Aftermath) | Ches 25, 1492 DR (08:20) | Roleplay |
+| [**Scene 212**](#scene-212) | Lower City - Guild Warehouse (South Ward) | Ches 25, 1492 DR (12:20) | Roleplay |
+| [**Scene 213**](#scene-213) | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (13:30) | Roleplay |
+| [**Scene 214**](#scene-214) | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (13:30) | Roleplay |
+| [**Scene 215**](#scene-215) | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:00) | Roleplay |
+| [**Scene 216**](#scene-216) | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:05) | Roleplay |
+| [**Scene 217**](#scene-217) | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:10) | Roleplay |
+| [**Scene 218**](#scene-218) | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (14:10) | Roleplay |
+| [**Scene 219**](#scene-219) | Lower City - Grey Harbor (The Silent Wave - Cargo Hold) | Ches 24, 1492 DR (11:35) | Roleplay |
+| [**Scene 220**](#scene-220) | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (14:00) | Roleplay |
+| [**Scene 221**](#scene-221) | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (14:05) | Roleplay |
+| [**Scene 222**](#scene-222) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 25, 1492 DR (16:30) | Roleplay |
+| [**Scene 223**](#scene-223) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 25, 1492 DR (16:30) | Roleplay |
+| [**Scene 224**](#scene-224) | The Coiled Serpent Tavern - Safe House (Private Room) | Ches 25, 1492 DR (18:00) | Roleplay |
+| [**Scene 225**](#scene-225) | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (15:00) | Roleplay |
+| [**Scene 226**](#scene-226) | Lower City - The Shadow Bank (Backroom of The Gilded Cage) | Ches 25, 1492 DR (16:00) | Roleplay |
+| [**Scene 227**](#scene-227) | Lower City - The Shadow Bank (Backroom) | Ches 25, 1492 DR (16:15) | Roleplay |
+| [**Scene 228**](#scene-228) | The Undercellar - Guild Elite Quarters | Ches 25, 1492 DR (17:00) | Roleplay |
+| [**Scene 229**](#scene-229) | The Coiled Serpent Tavern - Private Cellar | Tarsakh 2, 1492 DR (09:00) | Roleplay |
+| [**Scene 230**](#scene-230) | The Coiled Serpent Tavern - Private Cellar | Tarsakh 2, 1492 DR (10:00) | Roleplay |
+| [**Scene 231**](#scene-231) | The Coiled Serpent Tavern - Safe House | Tarsakh 2, 1492 DR (10:05) | Roleplay |
+| [**Scene 232**](#scene-232) | Lower City - Old Bathhouse (Interior) | Tarsakh 2, 1492 DR (11:00) | Roleplay |
+| [**Scene 233**](#scene-233) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 2, 1492 DR (11:30) | Roleplay |
+| [**Scene 234**](#scene-234) | Lower City - Old Bathhouse (Interior) | Tarsakh 2, 1492 DR (11:00) | Roleplay |
+| [**Scene 235**](#scene-235) | Little Calimshan - The Gilded Cage (Shadow Bank HQ) | Tarsakh 2, 1492 DR (11:30) | Roleplay |
+| [**Scene 236**](#scene-236) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
+| [**Scene 237**](#scene-237) | Lower City - The Shadow Bank (Backroom) | Ches 25, 1492 DR (16:20) | Roleplay |
+| [**Scene 238**](#scene-238) | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:00) | Roleplay |
+| [**Scene 239**](#scene-239) | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (17:00) | Roleplay |
+| [**Scene 240**](#scene-240) | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:05) | Roleplay |
+| [**Scene 241**](#scene-241) | Unknown |  | Roleplay |
+| [**Scene 242**](#scene-242) | The Coiled Serpent Tavern - Safe House | Ches 23, 1492 DR (08:00) | Roleplay |
+| [**Scene 243**](#scene-243) | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:05) | Roleplay |
+| [**Scene 244**](#scene-244) | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:10) | Roleplay |
+| [**Scene 245**](#scene-245) | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (12:45) | Roleplay |
+| [**Scene 246**](#scene-246) | Upper City - Umbrage Estate / City-Wide | Tarsakh 2, 1492 DR (14:00) | Roleplay |
+| [**Scene 247**](#scene-247) | The Undercellar - Guild Elite Quarters | Tarsakh 2, 1492 DR (13:10) | Roleplay |
+| [**Scene 248**](#scene-248) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (12:00) | Roleplay |
+| [**Scene 249**](#scene-249) | Upper City - Umbrage Estate (Solarium) | Tarsakh 3, 1492 DR (13:00) | Roleplay |
+| [**Scene 250**](#scene-250) | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (17:00) | Roleplay |
+| [**Scene 251**](#scene-251) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (12:00) | Roleplay |
+| [**Scene 252**](#scene-252) | Lower City - The Gilded Cage (Shadow Bank HQ) | Tarsakh 3, 1492 DR (14:00) | Roleplay |
+| [**Scene 253**](#scene-253) | Upper City - Umbrage Estate (Interior) | Ches 22, 1492 DR (22:00) | Roleplay |
+| [**Scene 254**](#scene-254) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (12:05) | Roleplay |
+| [**Scene 255**](#scene-255) | Lower City - The Smiling Anvil (Weapon Shop) | Tarsakh 3, 1492 DR (16:00) | Roleplay |
+| [**Scene 256**](#scene-256) | Lower City - The Smiling Anvil (Weapon Shop) | Tarsakh 3, 1492 DR (16:10) | Roleplay |
+| [**Scene 257**](#scene-257) | Upper City - Umbrage Estate (Drawing Room) | Tarsakh 3, 1492 DR (17:00) | Roleplay |
+| [**Scene 258**](#scene-258) | Upper City - Umbrage Estate (Solarium) | Ches 25, 1492 DR (18:00) | Roleplay |
+| [**Scene 259**](#scene-259) | Lower City - The Smiling Anvil (Weapon Shop) | Tarsakh 3, 1492 DR (16:00) | Roleplay |
+| [**Scene 260**](#scene-260) | Lower City - Market District | Ches 25, 1492 DR (12:00) | Roleplay |
+| [**Scene 261**](#scene-261) | Lower City - Sorcerous Sundries | Ches 25, 1492 DR (12:10) | Roleplay |
+| [**Scene 262**](#scene-262) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 3, 1492 DR (17:00) | Roleplay |
+| [**Scene 263**](#scene-263) | Upper City - Umbrage Estate (Balcony) | Tarsakh 3, 1492 DR (17:30) | Roleplay |
+| [**Scene 264**](#scene-264) | Lower City - Grey Harbor (Aerial Vantage) | Tarsakh 3, 1492 DR (19:00) | Roleplay |
+| [**Scene 265**](#scene-265) | Chionthar River - The Wyrm's Tooth (Ambush Site) | Tarsakh 5, 1492 DR (20:00) | Roleplay |
+| [**Scene 266**](#scene-266) | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (13:00) | Roleplay |
+| [**Scene 267**](#scene-267) | Chionthar River - The Wyrm's Tooth (Ambush Site) | Tarsakh 5, 1492 DR (20:00) | Roleplay |
+| [**Scene 268**](#scene-268) | Wyrm's Rock - Ambush Site (Lead Wagon) | Ches 25, 1492 DR (08:15) | Roleplay |
+| [**Scene 269**](#scene-269) | Chionthar River - The Wyrm's Tooth (Ambush Site) | Tarsakh 5, 1492 DR (20:00) | Roleplay |
+| [**Scene 270**](#scene-270) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
+| [**Scene 271**](#scene-271) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
+| [**Scene 272**](#scene-272) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
+| [**Scene 273**](#scene-273) | Upper City - Umbrage Estate (Solarium) | Tarsakh 3, 1492 DR (17:30) | Roleplay |
+| [**Scene 274**](#scene-274) | Upper City - Flaming Fist Headquarters (Vice-Marshal's Office) | Tarsakh 3, 1492 DR (18:00) | Roleplay |
+| [**Scene 275**](#scene-275) | The Guildhall - Nine-Fingers' Office | Tarsakh 2, 1492 DR (12:10) | Roleplay |
+| [**Scene 276**](#scene-276) | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (13:00) | Roleplay |
+| [**Scene 277**](#scene-277) | Upper City - Umbrage Estate (Solarium) | Tarsakh 2, 1492 DR (17:00) | Roleplay |
+| [**Scene 278**](#scene-278) | Upper City - Umbrage Estate (Solarium) | Ches 22, 1492 DR (20:30) | Roleplay |
+| [**Scene 279**](#scene-279) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
+| [**Scene 280**](#scene-280) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
+| [**Scene 281**](#scene-281) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
+| [**Scene 282**](#scene-282) | Upper City - Umbrage Estate Solarium | Ches 22, 1492 DR (00:35) | Roleplay |
+| [**Scene 283**](#scene-283) | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
+| [**Scene 284**](#scene-284) | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:15) | Roleplay |
+| [**Scene 285**](#scene-285) | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:20) | Roleplay |
+| [**Scene 286**](#scene-286) | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:25) | Roleplay |
+| [**Scene 287**](#scene-287) | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:30) | Roleplay |
+| [**Scene 288**](#scene-288) | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:35) | Roleplay |
+| [**Scene 289**](#scene-289) | Chionthar River - The Wyrm's Tooth (Captain's Cabin) | Tarsakh 5, 1492 DR (20:40) | Roleplay |
+| [**Scene 290**](#scene-290) | Chionthar River - The Wyrm's Tooth (Main Cargo Hold) | Tarsakh 5, 1492 DR (20:45) | Roleplay |
+| [**Scene 291**](#scene-291) | Chionthar River - The Wyrm's Tooth (Main Cargo Hold) | Tarsakh 5, 1492 DR (20:50) | Roleplay |
+| [**Scene 292**](#scene-292) | Chionthar River - The Wyrm's Tooth (Navigation Room) | Tarsakh 5, 1492 DR (21:00) | Roleplay |
+| [**Scene 293**](#scene-293) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 6, 1492 DR (08:00) | Roleplay |
+| [**Scene 294**](#scene-294) | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
+| [**Scene 295**](#scene-295) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 6, 1492 DR (09:00) | Roleplay |
+| [**Scene 296**](#scene-296) | The Coiled Serpent Tavern - Safe House (Private Room) | Tarsakh 6, 1492 DR (09:30) | Roleplay |
+| [**Scene 297**](#scene-297) | Lower City - Sorcerous Sundries | Tarsakh 3, 1492 DR (15:00) | Roleplay |
+| [**Scene 298**](#scene-298) | Upper City - Umbrage Estate (Gala Entrance) | Ches 25, 1492 DR (18:30) | Roleplay |
+| [**Scene 299**](#scene-299) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:00) | Roleplay |
+| [**Scene 300**](#scene-300) | Upper City - Umbrage Estate (Ballroom) | Tarsakh 6, 1492 DR (20:00) | Roleplay |
+| [**Scene 301**](#scene-301) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:15) | Roleplay |
+| [**Scene 302**](#scene-302) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:30) | Roleplay |
+| [**Scene 303**](#scene-303) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
+| [**Scene 304**](#scene-304) | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
+| [**Scene 305**](#scene-305) | Chionthar River - The Wyrm's Tooth (The Moonrise Ship) | Tarsakh 5, 1492 DR (20:10) | Roleplay |
+| [**Scene 306**](#scene-306) | Upper City - Umbrage Estate (Study) | Ches 22, 1492 DR (20:35) | Roleplay |
+| [**Scene 307**](#scene-307) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:05) | Roleplay |
+| [**Scene 308**](#scene-308) | Chionthar River - The Wyrm's Tooth (Combat) | Tarsakh 5, 1492 DR (20:06) | Roleplay |
+| [**Scene 309**](#scene-309) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:35) | Roleplay |
+| [**Scene 310**](#scene-310) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:00) | Roleplay |
+| [**Scene 311**](#scene-311) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:15) | Roleplay |
+| [**Scene 312**](#scene-312) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:30) | Roleplay |
+| [**Scene 313**](#scene-313) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:00) | Roleplay |
+| [**Scene 314**](#scene-314) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:40) | Roleplay |
+| [**Scene 315**](#scene-315) | Upper City - Umbrage Estate (Ballroom) | Ches 25, 1492 DR (19:45) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -496,8 +512,11 @@ You are the Serpent-King, the philosopher-queen in waiting. Your quiet, musical 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Manipulate Arvax - Offer a seemingly innocent observation or suggestion that subtly shifts the power dynamic or gathers unstated information.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -513,8 +532,11 @@ Arvax's scarred face remained unreadable for a beat too long, his rictus grin ti
 God Mode:
 is this exp correct for level 6 swords bard? XP: 0/14000  also summarize all my character info i may wanna change stuff
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -524,8 +546,11 @@ is this exp correct for level 6 swords bard? XP: 0/14000  also summarize all my 
 God Mode:
 Return to Story Mode - Resume the campaign from the last checkpoint.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -543,8 +568,11 @@ Arvax reached for the greasy pouch again, pushing it a fraction closer. "So, thi
 God Mode:
 Subtly Test Arvax - Make a low-stakes, veiled comment that hints at her own hidden knowledge or capabilities, to further gauge his reaction and solidify her position.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -562,8 +590,11 @@ Arvax's rictus grin remained, but it was now entirely devoid of amusement. His d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lean into the Mystery - Offer a cryptic smile or a non-committal, equally veiled response that hints at deeper knowledge without outright confession.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -575,8 +606,11 @@ Arvax's eyes narrowed further, his rictus grin now entirely frozen. He continued
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Better Terms - Leverage Arvax&#x27;s increased respect to request a higher payment or better resources for the current mission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -596,8 +630,11 @@ With a flick of his wrist, he pushed another greasy pouch, identical to the firs
 > 👤 **Player:**
 > *"think. how much money am i getting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -607,8 +644,11 @@ Nocturne's eyes, serene and unblinking, met Arvax's calculating gaze, reflecting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Guild&#x27;s Financial Potential - Reflect on Arvax&#x27;s hints about the Guild&#x27;s expanding interests (enslavement, assassination, acquisitions) and estimate the scale of future wealth available.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -618,8 +658,11 @@ Nocturne's quiet smile remained, unwavering, as her mind processed Arvax's coars
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plan Tactical Execution of Tiefling Mission - Shift focus from grand financial strategy to the immediate, practical steps required to execute the tiefling acquisition with maximum efficiency and minimal risk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -629,8 +672,11 @@ Nocturne's quiet smile remained, unwavering, as her gaze drifted from Arvax's br
 > 👤 **Player:**
 > *"ask about any guild supplies, tools, weapons that could be used for free"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -650,8 +696,11 @@ He scribbled another crude address on the back of the map, a quick, almost angry
 > 👤 **Player:**
 > *"try to persuade him for better equipment and tools"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -669,8 +718,11 @@ He leaned forward, his dead eyes burning into hers, his anger palpable. "The Gui
 God Mode:
 rename myself to serpent queen (secret title)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -680,8 +732,11 @@ rename myself to serpent queen (secret title)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story Mode - Resume the campaign from the last checkpoint.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -697,8 +752,11 @@ He watched her for another long moment, his dead eyes still burning, before grun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Head to Guild Storeroom for Basics - Proceed to the Guild storeroom near the docks to acquire any useful basic tools or supplies for the mission, as previously offered.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Guild Storeroom (near Docks)** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -720,8 +778,11 @@ This was the Guild's concession to 'efficiency'—a meager collection of essenti
 > 👤 **Player:**
 > *"take everything, and then think if i could get away with finding nicer supplies and stealing htem"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Guild Storeroom (near Docks)** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -733,8 +794,11 @@ As she collected the items, her internal calculus shifted. Arvax's refusal to pr
 > 👤 **Player:**
 > *"Think. Could I buy a better weapon and armor vs what I have? and maybe some invis potions?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Guild Storeroom (near Docks)** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -746,8 +810,11 @@ As she collected the items, her internal calculus shifted. Arvax's refusal to pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Tiefling Mission Planning - Postpone thoughts of grander theft and refocus entirely on the immediate, practical steps needed for the tiefling acquisition in Rivington using current resources.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Guild Storeroom (near Docks)** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -757,8 +824,11 @@ Serpent Queen's quiet smile remained, unwavering, as her gaze settled upon the c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formulate a Stealth and Deception Plan - Based on current knowledge (and anticipating more from recon), devise a plan that heavily utilizes disguises, illusions, and social manipulation to enter, acquire, and extract the targets discreetly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Guild Storeroom (near Docks)** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -768,8 +838,11 @@ Serpent Queen's quiet smile remained, unwavering, as her formidable mind turned 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prioritize In-depth Reconnaissance - Before detailing the plan, conduct a thorough observation of the Rivington shantytown, the target tent, civilian routines, and guard presence to gather critical intelligence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Rivington Shantytown - Outskirts** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -790,8 +863,11 @@ Unnoticed, she found a vantage point amongst a cluster of decaying crates and di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Target Tent&#x27;s Routines - Focus intently on the specific tiefling tent, noting any activity, who enters/exits, and their schedules.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Rivington Shantytown - Outskirts** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -816,8 +892,11 @@ Serpent Queen's gaze finally shifted from the tent, a faint, almost imperceptibl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess Guard Presence and Patrols - Shift focus to thoroughly observe Flaming Fist patrols, Guild enforcers, or other authority figures around the shantytown, noting their routes, frequency, and alertness levels during the night.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Rivington Shantytown - Outskirts** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -842,8 +921,11 @@ Serpent Queen's gaze finally shifted, a faint, almost imperceptible smile playin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formulate Entry Plan (Full Intel) - Devise a detailed plan for entering the tent and acquiring the family, leveraging all gathered intelligence on civilian routines, guard patrols, and the family&#x27;s vulnerable hours.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Rivington Shantytown - Outskirts** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -857,8 +939,11 @@ Her internal clock, precise and unforgiving, noted the current hour. The window 
 > 👤 **Player:**
 > *"Make a plan for all of those choices. Use whatever order makes sense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Rivington Shantytown - Outskirts** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -868,8 +953,11 @@ Serpent Queen's quiet smile remained, unwavering, as her formidable mind synthes
 > 👤 **Player:**
 > *"Think. How can I kill someone? I still want 4 tieflings. Useful to kill a guard?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Rivington Shantytown - Outskirts** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 0/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -879,8 +967,11 @@ Serpent Queen's quiet smile remained, unwavering, as her formidable mind turned 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Plan &amp; Sate Hunger with Adult Tieflings - Proceed with the meticulously planned tiefling acquisition, integrating the discreet satisfaction of The Hunger using the adult tieflings during the incapacitation phase, and securing the children.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Lower City - Guild Drop-off Point** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 275/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -937,8 +1028,11 @@ She straightened, her silhouette stark against the faint predawn light, a cold w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report to Arvax for Payment - Return to the Smirking Boar to inform Arvax of the successful acquisition and collect the remaining payment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 275/14000 | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -965,8 +1059,11 @@ He watched her intently, a subtle challenge in his dead eyes, as if expecting he
 > 👤 **Player:**
 > *"Think. Assess my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 275/14000 | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -980,8 +1077,11 @@ The choice, then, was not merely between what she *had* and what she *wanted*, b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire About Next Guild Contract - Press Arvax for information on the &#x27;plenty more&#x27; work he hinted at, seeking out new opportunities for wealth, power, and satisfying the Hunger.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 275/14000 | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1008,8 +1108,11 @@ Arvax's grin widened, a genuinely unpleasant display. "He needs to be reminded o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Zhentarim-Focused Approach - Suggest a plan that primarily targets Lyra&#x27;s Zhentarim connection, framing it as a way to gain leverage over both Umbrage and the Zhents, appealing to Arvax&#x27;s &#x27;growth sector&#x27; vision.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 275/14000 | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1027,8 +1130,11 @@ Serpent Queen's eyes, serene and unblinking, held his. "This approach yields not
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Arvax&#x27;s Reaction - Remain silent and maintain eye contact, allowing Arvax to process the proposal and be the first to respond.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 275/14000 | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1044,8 +1150,11 @@ Arvax slammed his tankard down, a rare, uncharacteristic display of genuine thou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Payment and Resources - Leverage the mission&#x27;s increased complexity and strategic value to demand a higher payment, specialized tools, or access to Guild assets (e.g., a safe house in the Upper City).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 275/14000 | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1070,8 +1179,11 @@ He pulled out a heavy, clinking pouch, dropping it onto the table. It was twice 
 > 👤 **Player:**
 > *"Request zhent intel then propose recon plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1102,8 +1214,11 @@ Arvax simply grunted, his gaze fixed on her. He had asked what she needed, and s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess New Opportunities (Leverage Hunger Bonus) - With enhanced abilities, discretely observe the city for other weaknesses or targets to further your long-term goals, before committing fully to the Umbrage mission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1113,8 +1228,11 @@ Serpent Queen's quiet smile remained, unwavering, as she turned from Arvax. His 
 > 👤 **Player:**
 > *"Go long rest in the safe house firsf"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1138,8 +1256,11 @@ As the morning light, now brighter, filtered weakly through a small, grimy windo
 > 👤 **Player:**
 > *"Think. How much is this job paying? Maybe I can get a cut of the art if I loot places?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1153,8 +1274,11 @@ The challenge lay in integrating this private acquisition into the Guild's publi
 > 👤 **Player:**
 > *"Evaluate art value then consider strategy to get it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1168,8 +1292,11 @@ The challenge lay in integrating this private acquisition into the Guild's publi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine Specific Personal Art Acquisition Plan - Develop a detailed plan for discreetly acquiring specific art pieces for personal wealth or leverage, separate from the Guild&#x27;s objectives, leveraging the Hunger bonus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1183,8 +1310,11 @@ The challenge lay in integrating this private acquisition into the Guild's publi
 > 👤 **Player:**
 > *"Think. Planning how to gain  leverage on zhent and primary target"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1196,8 +1326,11 @@ The ultimate goal was not simply to punish Umbrage for the Guild, nor merely to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Lyra/Rathmar Relationship for Leverage - Mentally assess the precise nature of Lyra&#x27;s relationship with Rathmar and her father, identifying emotional, social, or reputational vulnerabilities that could be exploited to gain leverage over both the Zhentarim and Lord Umbrage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1213,8 +1346,11 @@ The optimal path to leverage, therefore, lay in understanding the precise nature
 God Mode:
 Focus Reconnaissance on Lyra/Rathmar Dynamic - Develop a reconnaissance plan specifically targeting Lyra and Rathmar&#x27;s interactions, communications, and routines to confirm the nature and depth of their relationship and identify immediate leverage points.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1224,8 +1360,11 @@ Focus Reconnaissance on Lyra/Rathmar Dynamic - Develop a reconnaissance plan spe
 > 👤 **Player:**
 > *"integrate magic as needed into plan and execute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1235,8 +1374,11 @@ Focus Reconnaissance on Lyra/Rathmar Dynamic - Develop a reconnaissance plan spe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Reconnaissance Plan (Story Mode) - Transition to Story Mode and begin the detailed, multi-phase reconnaissance operation targeting Lyra and Rathmar&#x27;s dynamic, leveraging Serpent Queen&#x27;s enhanced abilities and integrated magical support.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 425/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1267,8 +1409,11 @@ The initial phase of reconnaissance had provided valuable insight. Rathmar was a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Lyra&#x27;s Private Life (Covertly) - Attempt to gather more intelligence on Lyra&#x27;s personal habits, emotional state, or any hidden activities beyond her public appearances, perhaps near her estate after dark.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Upper City - Near Umbrage Estate** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 500/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1298,8 +1443,11 @@ This covert observation provided critical insight. Lyra's primary vulnerability 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formulate Emotional Manipulation Plan (Lyra) - Develop a detailed plan to exploit Lyra&#x27;s observed melancholy and her relationship with her father to gain leverage, using social manipulation or charm magic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Upper City - Near Umbrage Estate** &nbsp;|&nbsp; ⏳ **Ches 21, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 500/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1309,8 +1457,11 @@ Serpent Queen's quiet smile remained, unwavering, as her formidable mind turned 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Charm/Persuasion on Lyra (Disguised) - Approach Lyra directly under a convincing guise (e.g., sympathetic confidante, fellow &#x27;sufferer&#x27;) to gain her trust, then use Charm Person or Persuasion (CHA +12) to subtly guide her actions or extract information.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 575/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1345,8 +1496,11 @@ The vulnerability was palpable, an open wound. Lyra had begun to confide, drawn 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Express Deeper Sympathy for Lyra&#x27;s Plight - Continue to build rapport by expressing profound understanding and empathy for Lyra&#x27;s feeling of being trapped, solidifying her trust before probing further.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 575/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1373,8 +1527,11 @@ The emotional leverage was now firmly established, Lyra's trust secured by the S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Encourage Deeper Confession About Father - Continue to listen empathetically and gently guide Lyra to elaborate on her strained relationship with Lord Umbrage, seeking more specific details on his &#x27;expectations&#x27; or &#x27;blindness&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 625/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1397,8 +1554,11 @@ Lyra turned back, her eyes pleading. "He cares, I know. In his own way. But his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gently Probe Rathmar&#x27;s Specific Offers - Subtly inquire about the &#x27;possibilities&#x27; or &#x27;choices&#x27; Rathmar offers, attempting to discern the exact nature of his Zhentarim involvement or the risks she alluded to, now that her trust is deeper.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 625/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1421,8 +1581,11 @@ The emotional leverage was now firmly established, Lyra's trust secured, and the
 God Mode:
 Add more random encounters every 3-5 location changes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 625/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1432,8 +1595,11 @@ Add more random encounters every 3-5 location changes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story Mode - Resume the campaign from the last checkpoint, with the new random encounter rule active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 625/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1456,8 +1622,11 @@ Lyra's eyes, wide and luminous, searched Serpent Queen's disguised face. Her han
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gently Probe Rathmar&#x27;s Specific Ambitions - Subtly encourage Lyra to elaborate further on Rathmar&#x27;s &#x27;new order&#x27; for Baldur&#x27;s Gate or &#x27;dismantling the old guard,&#x27; seeking more specific details on his Zhentarim agenda and his methods.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 625/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1480,8 +1649,11 @@ The emotional leverage was now firmly established, Lyra's trust secured, and the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Lyra&#x27;s Feelings on Rathmar&#x27;s Methods - Subtly inquire about Lyra&#x27;s personal feelings regarding Rathmar&#x27;s &#x27;ruthlessness&#x27; or his plans to &#x27;tear down everything,&#x27; to gauge her moral compass and potential breaking points with the Zhentarim.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 625/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1506,8 +1678,11 @@ The emotional leverage was now absolute. Lyra's trust was unwavering, and her de
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gently Probe Rathmar&#x27;s Vulnerabilities (via Lyra) - Subtly encourage Lyra to elaborate on Rathmar&#x27;s perceived weaknesses, fears, or any personal details that could make him susceptible to manipulation, leveraging her unique insight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 700/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1532,8 +1707,11 @@ The emotional leverage was now absolute. Lyra's trust was unwavering, and Rathma
 > 👤 **Player:**
 > *"Ask Lyra what she wants in life. Assess her and see how far i could corrupt her or turn her evil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 700/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1557,8 +1735,11 @@ Lyra stared, her eyes wide, her previous desperation for understanding morphing 
 > 👤 **Player:**
 > *"Think. Could I corrupt her and marry her? If I join a patriar house perhaps i can grow my power. I also am some ex noble whats my background again?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 700/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1582,8 +1763,11 @@ Lyra stared, her eyes wide, her previous desperation for understanding morphing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Patriar Marriage Strategy (Internal) - Internally assess the strategic benefits of a potential marriage alliance with Lyra, considering how it would grant access to a Patriar house&#x27;s influence, wealth, and a legitimate facade for power growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 700/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1599,8 +1783,11 @@ Lyra stared, her eyes wide, her previous desperation for understanding morphing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Subtle Marriage Manipulation (Internal) - Internally formulate a long-term plan to subtly guide Lyra towards the idea of an alliance with Serpent Queen, framing it as the most effective path to her &#x27;true freedom&#x27; and security, leveraging Lyra&#x27;s desire for control and a new identity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 700/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1622,8 +1809,11 @@ Begin Subtle Marriage Manipulation (Dialogue): Subtly initiate the long-term pla
 
 Then assess how far i could turn her alignment to evil so its compatible with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 700/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1649,8 +1839,11 @@ Lyra's eyes, wide and luminous, were fixed on Serpent Queen's, a desperate, nasc
 > 👤 **Player:**
 > *"Flirt with her a bit to seduce her. Remember I am extremely charming and attractive per my origin story. Then do this Elaborate on 'Unquestionable Power' and 'Security': Expand on how 'unquestionable power and influence' would concretely provide the 'sanctuary' and 'control' Lyra seeks, without directly mentioning marriage yet."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 700/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1674,8 +1867,11 @@ Lyra's eyes, wide and luminous, were fixed on Serpent Queen's, a desperate, nasc
 > 👤 **Player:**
 > *"Reveal some of my background in some careful detail, she needs to know more about me to trust me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 775/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1700,8 +1896,11 @@ Lyra's eyes, wide and luminous, were fixed on Serpent Queen's, a desperate, nasc
 > 👤 **Player:**
 > *"tell her more about me so she trusts me more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 850/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1724,8 +1923,11 @@ Lyra's eyes widened, a profound recognition flickering within them. She leaned f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Subtle Marriage Manipulation (Dialogue) - Subtly initiate the long-term plan in conversation, framing the idea of a powerful alliance as the most effective path to her &#x27;true freedom&#x27; and security, leveraging Lyra&#x27;s desire for control and a new identity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 850/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1752,8 +1954,11 @@ Lyra's eyes, wide and luminous, were fixed on Serpent Queen's, her breath catchi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conclude Visit with Promise of Return - Express a need to depart, but promise to return soon to continue your profound conversation, leaving Lyra eager for your next meeting and further guidance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1776,8 +1981,11 @@ With a final, almost imperceptible nod, Serpent Queen melted away into the deep 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Covert Reconnaissance on Umbrage Estate - Capitalize on the deep night and your enhanced abilities to immediately begin discreet observation of Lord Umbrage&#x27;s estate, focusing on security for the art collection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (02:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1805,8 +2013,11 @@ The initial reconnaissance of Lord Umbrage's estate for the art collection was c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Re-evaluate Umbrage&#x27;s Vulnerabilities (Full Intel) - Review Lord Umbrage&#x27;s overall weaknesses (paternal concern for Lyra, defiance against the Guild, art collection security) in light of all gathered intelligence, identifying the most potent leverage points.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (02:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1819,8 +2030,11 @@ Plan Rathmar Vulnerability Exploitation: Devise a strategy to exploit Rathmar's 
 
 Then return to safe house and devise strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (02:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1833,8 +2047,11 @@ Serpent Queen's quiet smile remained, unwavering, as she melted away from the Um
 Plan Art Acquisition Infiltration: Develop a detailed plan for infiltrating Lord Umbrage's estate and discreetly acquiring specific pieces from his art collection, leveraging identified vulnerabilities.
 Plan Rathmar Vulnerability Exploitation: Devise a strategy to exploit Rathmar's personal fears (chaos, exposure, messy outcomes) to gain direct leverage over him and disrupt Zhentarim operations."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (02:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1844,8 +2061,11 @@ Serpent Queen's quiet smile remained, unwavering, as she melted away from the Um
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Art Acquisition Infiltration - Capitalize on the deep night and your enhanced abilities to immediately begin infiltrating Lord Umbrage&#x27;s estate for art acquisition, leveraging identified vulnerabilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (02:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1899,8 +2119,11 @@ Her journey back to the Coiled Serpent safe house was swift and uneventful. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plan Rathmar Vulnerability Exploitation - Now with the Zhentarim-linked painting, devise a strategy to exploit Rathmar&#x27;s personal fears and disrupt Zhentarim operations, potentially using the painting as leverage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1910,8 +2133,11 @@ Serpent Queen's quiet smile remained, unwavering, as she settled into the comfor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine Rathmar Exploitation Details - Elaborate further on specific aspects of the Rathmar exploitation plan, such as the exact timing of the confrontation, specific demands, or additional contingencies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1921,8 +2147,11 @@ Serpent Queen's quiet smile remained, unwavering, as she settled into the comfor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Rathmar Confrontation Now - Capitalize on the early morning hours and your enhanced abilities to immediately seek out and confront Rathmar, initiating the exploitation plan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Upper City - Near the Counting House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1942,8 +2171,11 @@ Her internal clock, precise and unforgiving, confirmed the situation. It was now
 God Mode:
 Look at all my dice rolls so far. They seem high? List every single d20 in the campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Upper City - Near the Counting House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1953,8 +2185,11 @@ Look at all my dice rolls so far. They seem high? List every single d20 in the c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Dice Roll Analysis - Ask for further analysis on the rolls, such as average, distribution, or success rate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Upper City - Near the Counting House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -1964,8 +2199,11 @@ Look at all my dice rolls so far. They seem high? List every single d20 in the c
 God Mode:
 Why aren't the rolls uniformly distributed?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -1975,8 +2213,11 @@ Why aren't the rolls uniformly distributed?
 God Mode:
 God: Why aren't the rolls uniformly distributed?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > ✨ **{}**
@@ -1986,8 +2227,11 @@ God: Why aren't the rolls uniformly distributed?
 God Mode:
 I think you're just wrong. Only looking at d20 what's the actual probability of getting such high numbers? Are you actually running code to generate the d20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > ✨ **{}**
@@ -1997,8 +2241,11 @@ I think you're just wrong. Only looking at d20 what's the actual probability of 
 God Mode:
 Are you actually executing code to generate these ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > ✨ **{}**
@@ -2008,8 +2255,11 @@ Are you actually executing code to generate these ?
 God Mode:
 Add a new mechanic. After a streak make it more likely to produce a low roll and vice versa. Like bg3 karmic dice.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > ✨ **{}**
@@ -2019,8 +2269,11 @@ Add a new mechanic. After a streak make it more likely to produce a low roll and
 God Mode:
 Return to Story Mode - Resume the campaign from the last checkpoint, now with Karmic Dice active.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Upper City - Near the Counting House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2032,8 +2285,11 @@ You are positioned near the Counting House in the Upper City. The early morning 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conduct Pre-Confrontation Reconnaissance of Counting House Area - Meticulously scout the immediate surroundings of the Counting House: identifying potential escape routes, vantage points, hidden nooks for observation or concealment, and any other environmental factors that could be leveraged during the confrontation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Upper City - Counting House Area** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2069,8 +2325,11 @@ The reconnaissance of the confrontation site was complete. Every variable, every
 > 👤 **Player:**
 > *"Go short rest in safe house until time to meet rathmar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Upper City - Near the Counting House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 925/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2094,8 +2353,11 @@ She moved with the same effortless discretion back towards the Upper City, the m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Confrontation Site Subtly - Utilize minor illusions or subtle alterations to the environment (e.g., loose objects for distraction, obscuring a specific nook) to enhance your tactical advantage before Rathmar&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Upper City - Counting House Area** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 975/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2121,8 +2383,11 @@ This meticulous preparation had consumed a brief but critical period. The mornin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Rathmar at Vantage Point - Return to your previously identified discreet vantage point near the Counting House and await Rathmar&#x27;s arrival, observing the increasing morning activity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Upper City - Counting House Area (Vantage Point)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 975/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2136,8 +2401,11 @@ From her discreet position, Serpent Queen became an unblinking eye, a silent pre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Rathmar&#x27;s Arrival - Maintain your discreet vantage point and continue observing the area, focusing intently on the Counting House entrance for Rathmar&#x27;s appearance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Upper City - Counting House Area (Vantage Point)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 975/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2155,8 +2423,11 @@ The target had arrived. The system was now fully engaged.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Calculated Confrontation - Approach Rathmar discreetly, using a convincing disguise and persona (as per your plan), and begin the psychological assault by subtly introducing the Zhentarim-linked painting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Upper City - Counting House Area** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 975/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2192,8 +2463,11 @@ He gestured with a precise, almost impatient flick of his wrist towards a quiete
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Hint at Lyra&#x27;s Connection - While discussing the painting, make a veiled reference to Lyra, or her &#x27;sentimental entanglements,&#x27; to see if it further unsettles Rathmar and links his fears to her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 975/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (55 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2213,8 +2487,11 @@ Rathmar's eyes, sharp and intelligent, widened fractionally as they swept over t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer to Control the Information - Subtly imply that you possess the means to &#x27;manage&#x27; such &#x27;unseen variables&#x27; and prevent &#x27;messy outcomes,&#x27; positioning yourself as a potential, discreet solution to his problem.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 975/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (55 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2237,8 +2514,11 @@ Rathmar's jaw clenched, a muscle working visibly. His hand, which had hovered ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Probe Rathmar&#x27;s Immediate Concerns - Ask a veiled question about his immediate priorities or what specific &#x27;messy outcome&#x27; he most wishes to avoid, to gauge the depth of his fear and pinpoint his most sensitive leverage point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1050/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (50 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2261,8 +2541,11 @@ Rathmar's jaw clenched, a muscle working visibly, and for a fleeting moment, the
 > 👤 **Player:**
 > *"Think. whats the best ROI thing to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1050/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (50 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2272,8 +2555,11 @@ Rathmar's jaw clenched, a muscle working visibly, and for a fleeting moment, the
 > 👤 **Player:**
 > *"option 4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1200/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (35 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2302,8 +2588,11 @@ Slowly, painfully, the tension drained from his shoulders. He straightened his j
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Immediate Intel - Ask him for the location of the &#x27;Basilisk Gate Barracks&#x27; commander or the schedule of the &#x27;Wide Arc&#x27; smuggling shipments as a show of good faith.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1200/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (30 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2328,8 +2617,11 @@ He finished, his eyes burning with a mix of fury and fear, his hand once again h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Task Rathmar Immediately - Give Rathmar his first explicit order: Demand he divert Zhentarim attention away from Lord Umbrage&#x27;s estate for the next 24 hours to facilitate your operations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1275/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (25 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2360,8 +2652,11 @@ Serpent Queen stood alone in the alcove, the morning bustle of the Counting Hous
 > 👤 **Player:**
 > *"think. will he betray me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Upper City - Counting House Foyer** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1275/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (20 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2377,8 +2672,11 @@ But eventually, the shock would fade. His calculating mind would begin to seek f
 > 👤 **Player:**
 > *"go safe house long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1275/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2402,8 +2700,11 @@ When Serpent Queen opened her eyes, the light filtering through the grimy window
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conduct Final Perimeter Check - Move to the estate&#x27;s exterior to visually verify that Rathmar&#x27;s diversion has indeed removed the watchers before committing to entry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1275/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2427,8 +2728,11 @@ Serpent Queen allowed a flicker of satisfaction to cross her features. The syste
 > 👤 **Player:**
 > *"Think. How best weaken umbrage and rathmar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1275/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2447,8 +2751,11 @@ Pros: Guaranteed wealth increase., Directly hurts Umbrage's pride and purse., Si
 Cons: A blunt instrument; lacks political nuance., Doesn't specifically leverage Rathmar.
 Assessment: High - I am an expert thief."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Upper City - Umbrage Estate (Interior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1450/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2483,8 +2790,11 @@ As she exfiltrated, laden with the spoils of a dynasty, she paused near the corr
 > 👤 **Player:**
 > *"Think. What can i keep for myself vs give to guild?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1450/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2502,8 +2812,11 @@ Arvax expected a punishment. He expected art. He did not know she had taken the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shadow&#x27;s Tithe (Strategic Split) - Keep the liquid gold, gems, and the magical Idol (~2000gp value). Give the Guild the Deeds, Bonds, and the Zhentarim Painting. Frame the Deeds as the true &#x27;prize&#x27; that grants the Guild permanent leverage over Umbrage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1650/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2536,8 +2849,11 @@ Arvax laughed, a harsh, barking sound. "Operational expenses. Right. Keep your s
 > 👤 **Player:**
 > *"Ask arvax for magical items now since you exceeded expectations. use my beauty and sex appeal to charm him too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1650/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -2563,8 +2879,11 @@ He handed them to her, his fingers brushing hers, lingering a moment too long. "
 > 👤 **Player:**
 > *"equip new gear, and does the key ring lead to more gear? then propose to arvax we should meet his guild boss and propose a grander plan to empower lyra and influence her to be allied with the guild and utilize her patriar name and power after disempowering her father."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1725/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attuning to Bracers of Archery | Exhaustion: 0 | Inspiration: No**
@@ -2594,8 +2913,11 @@ He looked at the deeds, then at her. The greed, the awe, and the fear churned. "
 > 👤 **Player:**
 > *"Think. how to best persuade him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **The Smirking Boar - Cellar** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1725/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attuning to Bracers of Archery | Exhaustion: 0 | Inspiration: No**
@@ -2607,8 +2929,11 @@ To bridge this gap, she needed to alter the weight of his calculus. She couldn't
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shield (Absolve His Risk) - Propose that you will take sole responsibility for the plan. Tell him to present you as a &#x27;wild asset&#x27; he discovered. If Nine-Fingers hates the plan, it&#x27;s your head, not his. If she loves it, he brought her the prize.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **The Smirking Boar - Cellar (Exiting)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1775/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attuning to Bracers of Archery | Exhaustion: 0 | Inspiration: No**
@@ -2639,8 +2964,11 @@ The board was set. The meeting was in motion. But the night was not yet over. Ra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Safe House &amp; Wait - Retreat to the Coiled Serpent to await Arvax&#x27;s runner, conserving energy and avoiding the risks of the night city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1775/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -2666,8 +2994,11 @@ The Nine-Fingers. The meeting was secured. The Kingmaker had survived his pitch.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Briefly Study Idol Before Leaving - Take 10 minutes to examine &#x27;The Whispering Idol&#x27; for any quick insights or advantages it might offer before walking into the lion&#x27;s den.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1775/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2697,8 +3028,11 @@ She finally looked up, her gaze piercing, weighing Serpent Queen's soul on a sca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal Zhentarim Leverage First - Start by revealing that you have also compromised Rathmar and blinded the Zhentarim, proving you are fighting a multi-front war effectively before even mentioning the Patriar coup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1775/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2731,8 +3065,11 @@ She steepled her fingers, her gaze locking onto Serpent Queen's. "You have blind
 > 👤 **Player:**
 > *"Think. I want shadow monarch but would she go for it. Assess her reaction and what you know about her in general"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1775/14000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2742,8 +3079,11 @@ Serpent Queen held Nine-Fingers Keene's gaze, the silence in the room heavy with
 God Mode:
 You got the exp wrong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 15,875/23,000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2782,8 +3122,11 @@ For reference, here's the official D&D 5e XP progression table (cumulative total
 
 If you're using a homebrew system, milestone leveling, or a specific app/tool that's altering these numbers, that could explain the discrepancy—let me know more details if you want help troubleshooting! As a College of Swords Bard, you're probably dishing out plenty of blade flourishes already; just a bit more adventuring and you'll hit that next level.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1875/9000 (Level Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2793,8 +3136,11 @@ If you're using a homebrew system, milestone leveling, or a specific app/tool th
 God Mode:
 I should have thousands more exp from doing all those missions and these big accomplishments. check against known d&d material to see whats fair
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 7000/9000 (Level Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2804,8 +3150,11 @@ I should have thousands more exp from doing all those missions and these big acc
 God Mode:
 Resume Story: The Shadow Monarch Pitch - Return to the scene with Nine-Fingers Keene and play out her reaction to your proposal for shared rule.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 7000/9000 (Level Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2844,8 +3193,11 @@ She gripped Serpent Queen's hand. "Deal. Welcome to the high table, 'Your Majest
 
 DM NOTE: Rename myself to shadow monarch isntead of serpent queen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 8000/9000 (Level Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2861,8 +3213,11 @@ And finally, the matter of Arvax. The 'Kingmaker' agreement. To give him credit 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the &#x27;Shadow Monarch&#x27; Proposal - Speak to Keene. Outline the Patriar/Zhentarim dual strategy. Request a specialized team for enforcement. Explicitly credit Arvax for &#x27;discovering&#x27; the opportunity, fulfilling the Kingmaker pact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 (Level 7 Reached!) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2912,8 +3267,11 @@ With the successful negotiation of the Shadow Monarch alliance, the securing of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select Level 7 Spells/Feats - Choose your new 4th-level spell (e.g., Greater Invisibility, Dimension Door, Polymorph, Compulsion) and update your character sheet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The Guildhall - Corridor outside High Office** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (02:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2937,8 +3295,11 @@ As Arvax hurried off to the Undercellar, Serpent Queen stood alone in the shadow
 God Mode:
 stop calling me serpent queen use shadow monarch
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Guildhall - Corridor** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (02:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2952,8 +3313,11 @@ The energy of the Weave coils around your fingers, waiting for your specific ins
 > [!NOTE] ⚙️ **Player Choice:**
 > *Learn &#x27;Greater Invisibility&#x27; - Master the art of the unseen sovereign. Attack, cast spells, and manipulate the battlefield while remaining completely invisible. (Concentration, 1 minute)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The Guildhall - Corridor** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -2969,8 +3333,11 @@ It is now **03:00 AM** on **Ches 23**. Arvax and the Black Lotus team await you 
 > 👤 **Player:**
 > *"short rest, then do this Visit Lyra (Daytime/Social): Use your 'Disguise Self' or a legitimate guise to visit Lyra during the day, perhaps sending a message first, to solidify her loyalty before the violence of the night begins."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (55 minutes remaining) | Exhaustion: 0 | Inspiration: No**
@@ -3004,8 +3371,11 @@ Leaving the estate, she felt the shift in the air. The Zhentarim watchers would 
 > 👤 **Player:**
 > *"Think. What to do next to empower lyra after her father ruined"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -3039,8 +3409,11 @@ Vesper sheathed her dagger with a sharp *snick*. "We never are."
 > 👤 **Player:**
 > *"assess them. what are their levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -3087,8 +3460,11 @@ think you still got the exp wrong. I should be at 14000 exp total if i'm level 7
 | 19    | 305,000             | 40,000                        |
 | 20    | 355,000             | 50,000                        |
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 23,000/34,000 (Level 7 Confirmed) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -3098,8 +3474,11 @@ think you still got the exp wrong. I should be at 14000 exp total if i'm level 7
 God Mode:
 Resume Story: Deploying the Black Lotus - Return to the Undercellar and give your tactical orders to the Black Lotus squad for the Grey Harbor heist.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 23,000/34,000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -3119,8 +3498,11 @@ She straightens, fixing Vesper with a gaze that demands nothing less than perfec
 God Mode:
 Think. What if we do silent blade except vesper and i both target captain and i use greater invis and kill as many as i can while invis? dont do naything yet just plan
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 23,000/34,000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -3140,8 +3522,11 @@ Vesper's flinty eyes widened slightly, a spark of genuine predatory excitement a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Add Magical Contingency - Instruct Nyx to cast a specific buff (like &#x27;Invisibility&#x27; on Vesper or &#x27;Darkness&#x27;) to further enhance the alpha strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Lower City - Grey Harbor (Western Breakwater)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 0 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Temporary Aura) | Exhaustion: 0 | Inspiration: No**
@@ -3171,8 +3556,11 @@ Shadow Monarch reached into the weave, the words of *Greater Invisibility* poise
 > 👤 **Player:**
 > *"Think. If we take the special goods and refugees can we also capture refugees and just bring everything to keene? Dont do anything yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 23,000/34,000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -3186,8 +3574,11 @@ The logistics would be more complex. The 'Invisible Guillotine' would need to se
 > 👤 **Player:**
 > *"operation seizure plus invis guillotine for captain. vesper and i will be invis. vesper strike first, break her invis, give us surprise round. Then let me decide which attack or action to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Lower City - Grey Harbor (Western Breakwater)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 (Level 7) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 0/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 10 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3227,8 +3618,11 @@ Gant surges forward, vaulting a crate to engage the deckhands. Nyx raises a hand
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Spell: Hypnotic Pattern / Fear - Target the clustered guards with a control spell like Hypnotic Pattern to incapacitate them instantly, preserving them as prisoners/labor later.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Lower City - Grey Harbor (Western Breakwater)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 4/4, Rations: 0 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Concentrating on Hypnotic Pattern (9 rounds) | Exhaustion: 0 | Inspiration: No**
@@ -3254,8 +3648,11 @@ He turns his wild gaze up to the platform, seeing you for the first time. "You!"
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Spell: Dissonant Whispers - Hit the Captain with psychic dissonance. If he dies, good. If he survives, he must flee, provoking an Opportunity Attack from Vesper to finish him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Lower City - Grey Harbor (Western Breakwater)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:06)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 9000/23000 | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 4/4, Rations: 0 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Concentrating on Hypnotic Pattern (9 rounds) | Exhaustion: 0 | Inspiration: No**
@@ -3271,8 +3668,11 @@ Beside him, **Vesper** curses softly, her dagger ready but denied the opening sh
 God Mode:
 set my exp to 24000 and keep me at lvl 7, you forgot about my exp correctoin
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Lower City - Grey Harbor (Western Breakwater)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1000/11000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 0/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 10 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3309,8 +3709,11 @@ It is your turn. The Captain is teetering on the edge of death.
 > 👤 **Player:**
 > *"do this and i should have an extra attack. Attack: Slashing Flourish: Attack the Captain but use a Slashing Flourish to deal damage to him and the Quartermaster standing next to him."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Lower City - Grey Harbor (Western Breakwater)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1000/11000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 9 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3337,8 +3740,11 @@ The ship is effectively yours to take, but pockets of resistance remain near the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Spell: Major Image (Terror) - Cast Major Image (L3) to create a terrifying visage of a Zhentarim demon or ghost rising from the Captain&#x27;s body, demanding their submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1200/11000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (10 mins), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3369,8 +3775,11 @@ The Black Lotus emerges from the shadows. **Vesper**, wiping blood from her chee
 God Mode:
 shouldnt i get exp from the kills too, beyond just 200 exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2100/11000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (10 mins), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3380,8 +3789,11 @@ shouldnt i get exp from the kills too, beyond just 200 exp
 God Mode:
 going forward make sure dont forget
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,100/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3391,8 +3803,11 @@ going forward make sure dont forget
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Black Lotus - Give a speech to your new squad, solidifying their loyalty by distributing a share of the immediate loot (gold from the Captain&#x27;s purse) on the spot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,175/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (5 mins), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3432,8 +3847,11 @@ You turn towards the cargo hold, the keys in your hand cold and heavy. The ship 
 
 then interrogate crew*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,250/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (15 mins), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3461,8 +3879,11 @@ The intelligence is actionable. You have a name, a location, and a timeline for 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Captain&#x27;s Quarters - Use the keys to quickly toss the Captain&#x27;s cabin for personal loot or ledgers before the Guild claims the ship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave - Captain's Quarters)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,250/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (25 mins), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3484,8 +3905,11 @@ You sweep the items into your pack just as the distant sound of heavy boots on t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Cargo &amp; Refugees - Before Arvax arrives, descend into the hold to personally assess the value of the &#x27;special goods&#x27; and the condition of the refugees.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave - Cargo Hold)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,250/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (30 mins), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3513,8 +3937,11 @@ The extraction team has arrived. The Zhentarim empire in Grey Harbor is broken. 
 > 👤 **Player:**
 > *"keep soul coins, recruit desperate, identify high value hostages, rest to guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave - Cargo Hold)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,450/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (35 mins), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3563,8 +3990,11 @@ The transfer is efficient. The Guild strips the ship. You walk away with the Sou
 
 Ask arvax to deliver my hostages for me to my safehouse for now*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Little Calimshan - The Gilded Cage (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,450/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Major Image (Expired), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3592,8 +4022,11 @@ You gather the Black Lotus in the shadow of a neighboring minaret. Vessic is ins
 God Mode:
 did you mess up my gold? I should've gotten some loot  Gold: 2550gp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Little Calimshan - The Gilded Cage (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,450/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3603,8 +4036,11 @@ did you mess up my gold? I should've gotten some loot  Gold: 2550gp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Story: The Gilded Cage - Return to the scene outside Vessic&#x27;s shop and choose your breach strategy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Little Calimshan - The Gilded Cage (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,450/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3622,8 +4058,11 @@ The Zhentarim fence network ends here. The element of surprise is absolute. You 
 > 👤 **Player:**
 > *"Silent breach. I will also go in and make the first move to trigger surprise round. Let me decide. Someone should cast invis on everybody and I can invis myself if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,450/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 9 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3657,8 +4096,11 @@ You have the initiative. You are Invisible (Advantage on attacks). The entire ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Spell: Hypnotic Pattern - Ignore Vessic for a moment to cast Hypnotic Pattern on the four guards near the door, instantly neutralizing the muscle so the squad can dispatch them without a fight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,525/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (10 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3689,8 +4131,11 @@ He drops his handkerchief. "I... I have gold," he stammers, backing away until h
 > 👤 **Player:**
 > *"Recruit vessic, get gold from him, loot shop, interrogate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,825/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3731,8 +4176,11 @@ You leave Vessic standing in his empty shop, alive but owned. He has his life, h
 God Mode:
 Give me exp for the kills and stop forgetting
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3742,8 +4190,11 @@ Give me exp for the kills and stop forgetting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Story - Return to the scene in The Gilded Cage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Little Calimshan - The Gilded Cage (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3759,8 +4210,11 @@ The Zhentarim fence network ends here. The element of surprise is absolute. You 
 God Mode:
 look at scene 144 we should be there, you went back to the wrong scene, why? Give me 5 whys
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Little Calimshan - The Gilded Cage (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3812,8 +4266,11 @@ You leave Vessic standing in his empty shop, alive but owned. He has his life, h
 **NARRATIVE XP AWARDED: 300 XP**
 *Reason: Successfully dismantled the local Zhentarim fence network, recruited a key asset, and secured significant wealth and intel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Little Calimshan - Streets** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,825/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3831,8 +4288,11 @@ The immediate board is clear. The Zhentarim are reeling in the harbor and subver
 > 👤 **Player:**
 > *"go back in the shop and see if there are weapons/armor i can take"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3862,8 +4322,11 @@ You step back out into the night, your arsenal now matching your ambition.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Black Lotus Readiness - Head to the Undercellar to debrief the squad personally, ensuring they are prepped and ready for the caravan job in two days.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3893,8 +4356,11 @@ Vesper nods, a sharp, satisfied gesture. "We are the Black Lotus, Monarch. We bl
 > 👤 **Player:**
 > *"visit lyra and have my team scout wryms rock"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,750/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3926,8 +4392,11 @@ Lyra straightens, the fear in her eyes hardening into a diamond-sharp resolve. "
 > 👤 **Player:**
 > *"stay with lyra, deepen bond, plan next steps for her to grow influence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Upper City - Umbrage Estate (Guest Chambers)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,750/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3957,8 +4426,11 @@ Tomorrow, **Ches 25**, the Zhentarim caravan arrives at Wyrm's Rock. You have on
 > 👤 **Player:**
 > *"Think. Perhaps I can give her some funds and launder my money? Pretend she found a new business partner and revenue stream"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Upper City - Umbrage Estate (Guest Chambers)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,750/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -3970,8 +4442,11 @@ Lyra is the key. She is emboldened, but she currently wields only the *promise* 
 > 👤 **Player:**
 > *"Think. what if i do everything except for legal binding to the guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Upper City - Umbrage Estate (Interior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1450/14000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4039,8 +4514,11 @@ Scout Wide Arc District: With the night still young, proceed to the docks to sco
 Send Message to Arvax: Inform Arvax of the acquisition and the 'financial ruin' strategy, possibly sending a sample of the loot to prove the success.
 Visit Lyra (Deepen Manipulation): Stash the loot nearby (or use a bag of holding if available - not yet) and return to the solarium to comfort Lyra, establishing an alibi while her father is being ruined.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Little Calimshan - Streets (Outside The Gilded Cage)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/9,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4058,8 +4536,11 @@ Location: Upper City - Umbrage Estate (Guest Chambers)
 Status: Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,750/11,000 (Level 7 Progress) | Gold: 2550gp
 Conditions: The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Upper City - Umbrage Estate (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1275/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4075,8 +4556,11 @@ The most elegant solution would entangle their fates further: using Rathmar's re
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Poisoned Legacy (Turn Lyra) - Infiltrate immediately to cement the alliance with Lyra. Guide her to seize control of her own household finances or secrets, effectively launching a coup from within. This permanently weakens Umbrage by removing his heir and denies Rathmar his pawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1350/14000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4123,8 +4607,11 @@ Lord Umbrage sleeps on, a pauper in his own chair. His daughter stands over him,
 > 👤 **Player:**
 > *"Plan with Lyra further takeover. I can give her money under some pretense and she can be savior of house"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Upper City - Umbrage Estate (Study)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of Swords Bard | HP: 38/38 | XP: 1,350/14,000 | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4152,8 +4639,11 @@ She looks at the mixed gold, then up at you, her expression hardening into the m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Rathmar (Psychological) - Go to Rathmar&#x27;s home or the Counting House to reveal that Lyra is no longer his to manipulate, deepening his terror and ensuring his silence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Upper City - Rathmar's Residence** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,425/14,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4192,8 +4682,11 @@ You leave him in the dark, a broken king on a chessboard he no longer understand
 > 👤 **Player:**
 > *"Think. Rathmar will he betray me? Does he have a reason to listen to me still?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Upper City - Rathmar's Residence** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,425/14,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4217,8 +4710,11 @@ However, he is Zhentarim. His compliance is rented, not owned. He will serve as 
 > 👤 **Player:**
 > *"Think. How can i make more use of rathmar?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Upper City - Rathmar's Residence** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,425/14,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4230,8 +4726,11 @@ Rathmar believes his punishment is merely silence and servitude regarding Lyra. 
 > 👤 **Player:**
 > *"activate as intelligence mole and blackmail him for some immediate intelligence and goal now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Upper City - Rathmar's Residence** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,500/14,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4268,8 +4767,11 @@ Rathmar looks up, terrified. "He arrives at the **Basilisk Gate** at dawn tomorr
 > 👤 **Player:**
 > *"extract gold from rathmar. then secure vessic safe location, then  return to safe house and plan as you move."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,825/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4341,8 +4843,11 @@ You leave Vessic standing in his empty shop, alive but owned. He has his life, h
 
 The night's work is absolute. The Zhentarim have lost their ship, their captain, their fence, and their secrecy. Vessic is mine. The loot is substantial. The Ring of Mind Shielding is a particularly useful find for someone playing a double game. It is late evening. The adrenaline is fading, and the city is fully dark.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,575/14,000 (Level 7 Progress) | Gold: 3850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4392,8 +4897,11 @@ You have the night to rest, or to prepare the kill box at the Basilisk Gate.
 > 👤 **Player:**
 > *"Think. Whats the best option. Do i need rest or does black lotus?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Little Calimshan - Streets** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4407,8 +4915,11 @@ The caravan arrives in two days. The board requires setup, not just movement. Yo
 > 👤 **Player:**
 > *"black lotus prepare for kaelan, and i will long rest and then ambush him at 6am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Upper City - Basilisk Gate (Ambush Position)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,675/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4434,8 +4945,11 @@ The great iron portcullis groans upward. The first trickle of travelers enters. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Spell: Hypnotic Pattern - Open with &#x27;Hypnotic Pattern&#x27; on the trio to incapacitate Kaelen and his guards, allowing the team to coup-de-grâce them or capture them alive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Upper City - Basilisk Gate** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,750/11,000 (Level 7 Progress) | Gold: 2550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (1 minute), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4465,8 +4979,11 @@ The ambush is a perfect checkmate. The Zhentarim leadership is frozen, helpless 
 > 👤 **Player:**
 > *"kill one knight to sate my hunger, capture everyone else. Fully loot everything. from them, strip them bare. bring to safe house for interrogation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 6,950/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4501,8 +5018,11 @@ Kaelen groans, the *Hypnotic Pattern* fading, consciousness returning to a night
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Kaelen D&#x27;Vray - Wake the Arbiter. Use his own gear (the sword, the ring) to mock him. Demand the codes for the Zhentarim High Command or the location of their vault.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,025/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4530,8 +5050,11 @@ The blade presses harder, drawing a single bead of blood. "The codes for the Hig
 > 👤 **Player:**
 > *"verify intel, but dont kill him yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,100/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4558,8 +5081,11 @@ You return to the cellar. Kaelen looks up, his eyes hollow. He sees the parchmen
 > 👤 **Player:**
 > *"Think. how to best use the new codes and intel?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,100/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4571,8 +5097,11 @@ To simply rob the Vault is the act of a thief. To use the codes to sow chaos is 
 > 👤 **Player:**
 > *"Think. Can i use puppet master to control the zhentarium and take over their leadership? Like Aizen did in bleach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,100/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4582,8 +5111,11 @@ To simply rob the Vault is the act of a thief. To use the codes to sow chaos is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The False Arbiter (Aizen Strategy) - Use the codes to issue a city-wide directive: &#x27;Cell Compromised. Internal Purge Initiated. New Overseer Appointed.&#x27; Assume the persona of a High Command superior (using Disguise Self/Ring) to rule the remaining Zhentarim directly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,100/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (The Overseer - 1 hour), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4611,8 +5143,11 @@ The board is yours. The Zhentarim are no longer enemies; they are your subjects,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor Network Response - Wait at the safe house for Rathmar&#x27;s confirmation that the order has been received and obeyed before exposing yourself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,100/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (The Overseer - 1 hour), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4640,8 +5175,11 @@ The board is yours. The Zhentarim are no longer enemies; they are your subjects,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Rathmar as Overseer - Go to Rathmar first. Terrify him further by appearing as his new superior. Force him to hand over any remaining personal ledgers and verify the network&#x27;s submission personally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Upper City - Rathmar's Residence** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,250/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (The Overseer - 30 minutes remaining), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4684,8 +5222,11 @@ You leave him collapsing into a chair, a man destroyed by a ghost you invented.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Safe House &amp; Analyze - Withdraw to the Coiled Serpent to decode Rathmar&#x27;s personal ledgers and the emergency funds, solidifying your intelligence picture before the next move.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,325/11,000 (Level 7 Progress) | Gold: 3150gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4707,8 +5248,11 @@ The board is clear. It is time to take the king.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Black Lotus &amp; Prepare - Go to the Undercellar. Brief the Black Lotus on the &#x27;Obsidian-Zero&#x27; situation and prepare them for a precision strike on the Vault later, ensuring they are ready to play the role of Zhentarim elite guard if needed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,100/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (The Overseer - 30 minutes remaining), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4728,8 +5272,11 @@ The paralysis will not last forever. Confusion eventually breeds curiosity. But 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Black Lotus (Deception Test) - Go to the Undercellar disguised. Test your own squad&#x27;s discipline by approaching them as the enemy commander. If they attack, they are loyal. If they submit, they are weak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 7,175/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (The Overseer - 15 minutes remaining), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4774,8 +5321,11 @@ You look at them, their chests heaving, eyes bright with the thrill of the near-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize the Vault (Official Visit) - March into the Tannery as Overseer Xal&#x27;Thul with the Black Lotus as your &#x27;escort&#x27;. Command the garrison to load the Vault&#x27;s contents into Guild wagons for &#x27;secure relocation&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Lower City - The Tannery (Zhentarim Vault)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 8,600/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (The Overseer - Expired), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4811,8 +5361,11 @@ You roll out of the Tannery yard, the heavy wheels creaking under the weight of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Haul (En Route) - Rummage through the chests while the wagons move, looking for immediate upgrades or specific magical items before you reach the safe house.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Lower City - Guild Wagon (En Route to Safe House)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 8,600/11,000 (Level 7 Progress) | Gold: 2650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4840,8 +5393,11 @@ By the time the wagons roll into the hidden loading bay of the Coiled Serpent, y
 God Mode:
 Did you forget to update my resources with my new liquid wealth?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Upper City - Umbrage Estate (Guest Chambers)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (08:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 3,750/11,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4857,8 +5413,11 @@ It is a dangerous game. Keene expects the keys. To withhold them requires a dece
 God Mode:
 You ignored my god mode message
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Upper City - Umbrage Estate (Interior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,450/14,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -4890,8 +5449,11 @@ As she exfiltrated, laden with the spoils of a dynasty, she paused near the corr
 God Mode:
 Pause the story. I made a god mode message earlier that you ignored
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 10,100/11,000 (Level 7 Progress) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4901,8 +5463,11 @@ Pause the story. I made a god mode message earlier that you ignored
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Story: Consolidate at Safe House - Return to the narrative at the Coiled Serpent. You have just arrived with the wagons. Secure the loot and plan the next political move.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 10,100/11,000 (Level 7 Progress) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4922,8 +5487,11 @@ With the loot secured and the squad dismissed to the common room for ale and res
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deliver the Tithe to Arvax - Summon Arvax or go to him. Hand over the Deeds, Bonds, and bulk loot to cement the &#x27;Shadow Monarch&#x27; alliance and secure his absolute loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 10,175/11,000 (Level 7 Progress) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4958,8 +5526,11 @@ Arvax clinks his glass against yours, the sound ringing like a bell. The fear in
 God Mode:
 I should get more exp for raiding the vault that ws a huge job
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,175/48,000 (Level 8 Reached!) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -4997,8 +5568,11 @@ Arvax watches you, oblivious to the internal ascension. He sees only the Monarch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select Level Up Options - Specify your choice for the Ability Score Improvement (or Feat) and your new Spell Known.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,175/48,000 (Level 8) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5015,8 +5589,11 @@ The choice will define the next phase of the Shadow Monarch's reign.
 > *Path of Dominion (Max CHA) - Increase Charisma to 20 (+5). Learn Spell: &#x27;Compulsion&#x27;. 
 Focus: Absolute social and magical dominance. Your Save DC increases, making your spells harder to resist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,175/48,000 (Level 8) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22 Temporary / 20 Base), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5038,8 +5615,11 @@ You have the afternoon before you. The political front with Lyra is stable, the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Lyra (Consolidate Power) - Return to the Umbrage Estate. Use your newfound dominance to ensure Lyra&#x27;s transition to &#x27;Regent&#x27; is flawless and that she is fully insulated from her father&#x27;s ruin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Upper City - Umbrage Estate (Lord's Study)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,425/48,000 (Level 8) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5082,8 +5662,11 @@ The coup is absolute. Lyra is the Regent. The estate is your fortress. The polit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Vessic &amp; The Network - Visit Little Calimshan to ensure Vessic is effectively managing the &#x27;Shadow&#x27; network and to see if Rathmar&#x27;s intel has generated any new leads.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1600/14000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -5164,8 +5747,11 @@ She turns and walks toward the study, the gold heavy in her arms, to depose her 
 The coup is in motion. Lyra is executing the takeover. Umbrage is neutralized by his own relief and cowardice. I have effectively laundered the loot back into influence, buying a Noble House for a fraction of its value. The political front is secured. Now, I must look to the remaining threats.
 Lyra has gone to confront her father. You are alone in the solarium. The night is still young.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,425/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5195,8 +5781,11 @@ You step back out into the heat of the afternoon. The political board is set. Th
 God Mode:
 Brief Black Lotus (Undercellar) - Go to the Undercellar to brief Vesper and the squad on the new threat. Strategize specifically on how to neutralize the wizard (Silas snipes, Nyx counters).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,425/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5234,8 +5823,11 @@ The squad returns to their preparations, but the mood has shifted. The uncertain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study &#x27;The Whispering Idol&#x27; - Return to the safe house to spend the night unlocking the deeper secrets of the Idol, seeking a magical edge for the battle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,475/48,000 (Level 8) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Mastered) | Exhaustion: 0 | Inspiration: No**
@@ -5263,8 +5855,11 @@ Night has fallen. The Zhentarim caravan is hours away. You have your edge.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Torment the Arbiter - Go downstairs and use your new &#x27;Idol&#x27;s Malice&#x27; aura to terrify Kaelen D&#x27;Vray further, extracting any last-minute tactical details about Zhentarim convoy protocols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Cellar)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 49/52 | XP: 34,550/48,000 (Level 8) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5296,8 +5891,11 @@ You straighten, the aura receding but the menace remaining. You have the tactica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send Runner to Black Lotus - Dispatch a runner to Vesper with the new intel: &#x27;Wizard guards wagon only. Green flare brings them in.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 49/52 | XP: 34,550/48,000 (Level 8) | Gold: 5650gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5315,8 +5913,11 @@ The board is fully set for tomorrow. The Zhentarim will ride into Wyrm's Rock ex
 God Mode:
 Study &#x27;The Whispering Idol&#x27; - Return to the safe house to spend the night unlocking the deeper secrets of the Idol, seeking a magical edge for the battle.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,425/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Mastered) | Exhaustion: 0 | Inspiration: No**
@@ -5341,8 +5942,11 @@ Night has fallen. The Zhentarim caravan is hours away. You have your edge.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest &amp; Final Prep - Sleep through the night to ensure you are at maximum readiness for the caravan ambush at dawn/morning.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,425/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5372,8 +5976,11 @@ You step back out into the heat of the afternoon. The political board is set. Th
 God Mode:
 Rest &amp; Final Prep - Sleep through the night to ensure you are at maximum readiness for the caravan ambush at dawn/morning.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Upper City - Umbrage Estate (Interior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1450/14000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -5402,8 +6009,11 @@ As she exfiltrated, laden with the spoils of a dynasty, she paused near the corr
 God Mode:
 you went to the wrong scene again, why? Scene #198:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Mastered) | Exhaustion: 0 | Inspiration: No**
@@ -5423,8 +6033,11 @@ The city of Baldur's Gate wakes around you, oblivious to the violence that will 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Depart for Wyrm&#x27;s Rock - Leave the city immediately and ride to the ambush site to take command of the Black Lotus before the caravan arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Wyrm's Rock - Ambush Site (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Mastered) | Exhaustion: 0 | Inspiration: No**
@@ -5454,8 +6067,11 @@ The caravan trundles into view, a heavy, armored snake winding towards the bridg
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Buffs (Greater Invisibility) - Cast &#x27;Greater Invisibility&#x27; on yourself now, ensuring you are unseen when the fighting starts, allowing you to move freely through the battlefield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Little Calimshan - The Gilded Cage (Interior)** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,450/11,000 (Level 7 Progress) | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 9 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5485,8 +6101,11 @@ You have the initiative. You are Invisible (Advantage on attacks). The entire ro
 God Mode:
 wrong scene again, how can we prevent these mistakes proactively? Scene #201:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Wyrm's Rock - Ambush Site (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 1 minute), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5496,8 +6115,11 @@ wrong scene again, how can we prevent these mistakes proactively? Scene #201:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Modify Ambush Setup - Before resuming, adjust the positioning of the Black Lotus or the composition of the enemy caravan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Wyrm's Rock - Ambush Site (Time Frozen)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 1 minute), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5507,8 +6129,11 @@ wrong scene again, how can we prevent these mistakes proactively? Scene #201:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Ambush (Execute) - Commit to the current parameters and start the combat encounter immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Wyrm's Rock - Ambush Site (Combat)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 9 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5540,8 +6165,11 @@ Gant explodes from the derelict wagon, slamming into the lead wagon's teamsters.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Spell: Hypnotic Pattern - Blanket the caravan in a Hypnotic Pattern to freeze the guards in their panic, allowing the Black Lotus to slaughter them without resistance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Wyrm's Rock - Ambush Site (Combat)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 9 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5573,8 +6201,11 @@ Gant explodes from the derelict wagon, slamming into the lead wagon's teamsters.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Spell: Hypnotic Pattern - Blanket the caravan in a Hypnotic Pattern to freeze the guards in their panic, allowing the Black Lotus to slaughter them without resistance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Wyrm's Rock - Ambush Site (Combat Resolution)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,350/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (9 rounds), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5607,8 +6238,11 @@ Vesper wipes her blade on a tabard, looking up at you with a grin that is all te
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Lead Wagon - Open the armored lead wagon to see exactly what &#x27;processed goods&#x27; the Red Wizard was guarding so closely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Wyrm's Rock - Ambush Site (Lead Wagon)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,350/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5640,8 +6274,11 @@ Your hand hovers over the chest. The power within is palpable. It whispers to th
 
 DM note: make sure my gold amount is correct"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Wyrm's Rock - Ambush Site (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Echoes of the Idol (Mastered) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5671,8 +6308,11 @@ The caravan trundles into view, a heavy, armored snake winding towards the bridg
 God Mode:
 make sure my loot and gold are correct
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Wyrm's Rock - Ambush Site (Lead Wagon)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,350/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5702,8 +6342,11 @@ Your hand hovers over the chest. The power within is palpable. It whispers to th
 God Mode:
 you lost track of the scene again, how do we stop this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Wyrm's Rock - Ambush Site (Exterior)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,550/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Greater Invisibility (Concentration, 1 minute), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5750,8 +6393,11 @@ Your hand hovers over the chest. The power within is palpable. It whispers to th
 *   **Manifest of Souls** (Critical Intel/Blackmail)
 *   **Refugee Heirlooms** (approx. 500gp value in silver/gold trinkets)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Wyrm's Rock - Ambush Site (Aftermath)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,350/48,000 (Level 8) | Gold: 6400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5783,8 +6429,11 @@ The ambush is complete. The Zhentarim caravan is destroyed. You possess the weal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize the Wagons - Drive the wagons back to the city. Claim the trade goods (spices/silk) as Guild property to sell. Risky to transport, but maximizes profit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Lower City - Guild Warehouse (South Ward)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,450/48,000 (Level 8) | Gold: 7400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5821,8 +6470,11 @@ The Shadow Monarch has arrived.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit &#x27;Sorcerous Sundries&#x27; - You have 7400gp. Visit the premier magic shop in the city to purchase Rare or Very Rare items (e.g., Glamoured Studded Leather, Instrument of the Bards, etc.) to complete your arsenal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,450/48,000 (Level 8) | Gold: 7400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5856,8 +6508,11 @@ Your current wealth (7400gp) is sufficient to acquire a significant arsenal, but
 > 👤 **Player:**
 > *"Negotiate better prices"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,450/48,000 (Level 8) | Gold: 7400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5891,8 +6546,11 @@ Your current wealth (7400gp) is sufficient to acquire a significant arsenal, but
 God Mode:
 I said try to negotiate for better prices
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,550/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (1/3 Slots) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5926,8 +6584,11 @@ Walking out of Sorcerous Sundries, you are lighter in coin but infinitely heavie
 God Mode:
 What is this attuning? I should be able to equip and use everything
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,550/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (1/3 Slots) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5937,8 +6598,11 @@ What is this attuning? I should be able to equip and use everything
 > [!NOTE] ⚙️ **Player Choice:**
 > *Override Limit (Equip All) - Shatter the mortal limit. Permanently unlock unlimited attunement slots for this character. You will wear and use all 5 items immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,550/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Unlimited Attunement (God Mode) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5958,8 +6622,11 @@ The items snap into alignment. The headache vanishes, replaced by a surge of omn
 > [!NOTE] ⚙️ **Player Choice:**
 > *Override Limit (Equip All) - Shatter the mortal limit. Permanently unlock unlimited attunement slots for this character. You will wear and use all 5 items immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,550/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), LIMIT BREAK: Omni-Attunement (5/3 Slots) | Exhaustion: 0 | Inspiration: 5/5**
@@ -5981,8 +6648,11 @@ You walk out of Sorcerous Sundries, not just equipped, but ascended. The city aw
 > 👤 **Player:**
 > *"Get more liquid gold from safe house and Lyra and plan next steps with Lyra and show her my power. Seduce her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Lower City - Grey Harbor (The Silent Wave - Cargo Hold)** &nbsp;|&nbsp; ⏳ **Ches 24, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,825/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: No**
@@ -5992,8 +6662,11 @@ You step out of the lamp-lit warmth of the Coiled Serpent and into the humid, sp
 > 👤 **Player:**
 > *"Think. How to best keep growing wealth and power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,950/11,000 (Level 7 Progress) | Gold: 7350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 3/4**
@@ -6031,8 +6704,11 @@ You take it, your fingers interlocking with hers. You have the gold. You have th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest &amp; Reflect (Level Up) - Return to the safe house to rest, meditate on your victories, and process the experience you&#x27;ve gained to officially reach Level 8 and unlock new powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,425/48,000 (Level 8) | Gold: 7350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 3/4**
@@ -6044,8 +6720,11 @@ Your formidable intellect turns inward, dissecting the anatomy of your power. Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Unlock Infernal Power (Soul Coins) - Return to the safe house to experiment with the Soul Coins and the Idol. Goal: Gain the ability to consume souls for spell slots or buffs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,625/48,000 (Level 8) | Gold: 7350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Soul Siphon (Unlocked) | Exhaustion: 0 | Inspiration: 3/4**
@@ -6079,8 +6758,11 @@ The mechanism is imperfect, brutal, and blasphemous. It is perfect.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish &#x27;The Shadow Bank&#x27; - Summon Vessic and Arvax. Use your 7,350gp to begin buying property and businesses, creating a legitimate front for your empire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,625/48,000 (Level 8) | Gold: 7350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Soul Siphon (Unlocked) | Exhaustion: 0 | Inspiration: 3/4**
@@ -6112,8 +6794,11 @@ The mechanism is imperfect, brutal, and blasphemous. It is perfect.
 God Mode:
 wrong i said establish shadow bank
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 34,825/48,000 (Level 8) | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 3/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Soul Siphon (Unlocked) | Exhaustion: 0 | Inspiration: 3/4**
@@ -6154,8 +6839,11 @@ They leave, burdened with gold and purpose. You are left with 350 gold pieces in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Lyra (Evening) - Return to the Umbrage Estate. Check on the Regent and perhaps enjoy the comforts of the Upper City now that your work is done.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,700/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6189,8 +6877,11 @@ As the sun sets over the estate, casting long shadows across the floor, you lay 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Shadow Bank - Leave Lyra to her happiness and check on Vessic and Arvax. Ensure the 7,000gp investment is actually buying the Lower City as promised.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Lower City - The Shadow Bank (Backroom of The Gilded Cage)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,700/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6216,8 +6907,11 @@ The investment is real. The Shadow Bank is not just a front; it is a leviathan e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Ledger - Personally inspect the loan agreements and deeds to ensure Vessic isn&#x27;t skimming and that the legal language binds the debtors to *you*, not just the bank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Lower City - The Shadow Bank (Backroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,700/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6253,8 +6947,11 @@ You lean back, satisfied. The books are clean of theft, but you have scrubbed th
 > 👤 **Player:**
 > *"Visit black lotus and assess my forces.  Beyond my main party how many troops and agents do i ahve now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,700/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6303,8 +7000,11 @@ Vesper grins. "Give the word, boss. Do we expand the ranks, or sharpen the blade
 Expand Recruitment: Instruct Arvax to use the Shadow Bank's influence to hire more muscle. Use the promise of coin and protection to swell your ranks to a proper gang size (10-20).
 Process High-Value Hostages: Leave the squad to train and return to the safe house to finally deal with the three Elturian nobles. Ransom them, turn them, or use them as political bargaining chips."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **The Coiled Serpent Tavern - Private Cellar** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,700/48,000 | Gold: 1200gp (Bank Revenue + Residual)** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6341,8 +7041,11 @@ You enter the room. The three nobles look up. **Lady Isolde**, a matriarch with 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Process All: The Monarch&#x27;s Judgement - Execute a combined strategy: Ransom the Baron, Recruit the Lady, and Indoctrinate the Squire. Maximize utility across all vectors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **The Coiled Serpent Tavern - Private Cellar** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,000/48,000 (Level 8) | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6374,8 +7077,11 @@ You stand, the work complete. The Baron is a purse. The Lady is a lieutenant. Th
 > 👤 **Player:**
 > *"ivnestigate absolute, utilize any chance to get a kill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger (Bonus Faded - Craving Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6401,8 +7107,11 @@ You stand, checking the edge of your *Vicious Longsword*. The bathhouse offers a
 > 👤 **Player:**
 > *"infiltrate, gather intel, kill someone they wont miss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Lower City - Old Bathhouse (Interior)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,150/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (55 mins remaining) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6437,8 +7146,11 @@ The Absolute isn't just recruiting refugees. They are targeting the Patriars. An
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exfiltrate with Intel - Slip away now with the scroll. This information is worth a fortune to the Parliament or the Guild. Don&#x27;t risk a fight when you have the prize.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,350/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (25 mins remaining) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6458,8 +7170,11 @@ This is not just a rival gang; it is an existential threat to your new dominion.
 > 👤 **Player:**
 > *"send a runner to lyra with the message and go to keene first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Lower City - Old Bathhouse (Interior)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,150/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (55 mins remaining) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6492,8 +7207,11 @@ The Absolute isn't just recruiting refugees. They are targeting the Patriars. An
 God Mode:
 you did a repeat, how can we stop this from happening? Scene #234:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Little Calimshan - The Gilded Cage (Shadow Bank HQ)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,300/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Disguise Self (25 mins remaining) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6521,8 +7239,11 @@ You have three days before the shipment arrives. The Shadow Bank is stable. The 
 > 👤 **Player:**
 > *"visit 9 fingers and in parallel send a message with a runner to black lotus and lyra warning them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 775/14000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 2/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -6558,8 +7279,11 @@ Lyra gasped, the sheer audacity of the thought striking her. She looked at Serpe
 God Mode:
 wrong scene Scene #236:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Lower City - The Shadow Bank (Backroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,700/48,000 (Level 8) | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6573,8 +7297,11 @@ Furthermore, Lyra sits on the throne of House Umbrage, but she is currently play
 God Mode:
 still wrong we just finished this scene Scene #235: Y
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,450/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6608,8 +7335,11 @@ She looks at you, the calculation in her eyes sharp and cold. "You have the Blac
 > 👤 **Player:**
 > *"Think. Whats the most effective action to improve my power and influence and beat this threat?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,800/48,000 (Level 8) | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6651,8 +7381,11 @@ wronga gain, we just finished this scene. how do we stop screwing up?
 
 Scene #238: T
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,450/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6662,8 +7395,11 @@ Scene #238: T
 God Mode:
 enter dm mode and lets brainstorm how to stop these time jumps
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 
@@ -6673,8 +7409,11 @@ enter dm mode and lets brainstorm how to stop these time jumps
 God Mode:
 Continue Linearly (High Risk) - Attempt to play out the 3 days of prep day-by-day. Risk of looping remains high if we revisit old locations (like the Safe House) that triggered previous bugs.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **The Coiled Serpent Tavern - Safe House** &nbsp;|&nbsp; ⏳ **Ches 23, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 2,825/11,000 (Level 7 Progress) | Gold: 3350gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: 4/4**
@@ -6702,8 +7441,11 @@ Conditions: The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspirati
 
 Use spy network and in parallel lets work with keene and charge the patriars protection. Also keene is supposed to help me capture the ship, make this part of history
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,450/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6729,8 +7471,11 @@ and then do this when ready
 
 Propose 'Operation: Scalpel' (Capture): Advise Keene to form a blockade at the river mouth to stall the ship, while you and the Black Lotus board it to capture the cargo and intel intact. Argue that we need to study the enemy to defeat them."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,450/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6754,8 +7499,11 @@ Nine-Fingers stares at you for a long moment, weighing the risk against the imme
 > 👤 **Player:**
 > *"Visit Lyra but let her in on the real plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,450/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6791,8 +7539,11 @@ You kiss her forehead, a benediction from a dark god. "This is the real plan, my
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate the Rumor Campaign - Task Lyra (and your own spies) to discreetly spread specific, terrifying rumors about the &#x27;Moonrise Assassins&#x27; targeting Patriar bloodlines, priming the Upper City for panic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Upper City - Umbrage Estate / City-Wide** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6816,8 +7567,11 @@ The stage is primed. When the ship arrives in three days, it will not be an inva
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prep Black Lotus for River Assault - Return to the Undercellar. Brief Vesper on the specific mechanics of &#x27;Operation: Scalpel&#x27; (the naval intercept), ensuring they are equipped for boarding actions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **The Undercellar - Guild Elite Quarters** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,450/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6841,8 +7595,11 @@ Vesper nods, a wolfish grin spreading. "We'll need water-breathing draughts if w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Research Parasite Lore - Spend the next day studying the &#x27;Manifest of Souls&#x27; and researching mind flayers to gain mechanical advantages against the cultists.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6870,8 +7627,11 @@ The preparation is complete. The *Moonrise* shipment arrives in two days (Tarsak
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Lyra (Deepen Control) - Return to the Umbrage Estate. Use the &#x27;threat&#x27; of the parasites to further isolate Lyra, perhaps convincing her to move into the Safe House &#x27;for her protection&#x27; or granting you emergency powers over the estate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,750/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Knowledge: Absolute Anatomy | Exhaustion: 0 | Inspiration: 5/5**
@@ -6921,8 +7681,11 @@ Conditions: The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of A
 Deception/Persuasion check (Advantage): 2d20kh1(19, 8) + 14 = 33 (Critical Success vs DC 15)
 Scene #249: You ascend to the Upper City, the 'Manifest of Souls' burning a hole in your pocket. The sun is bright, but your mind is filled with the crawling darkness of the Absolute. You move with the urgency of a prophet bringing news of the apocalypse.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,800/48,000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -6960,8 +7723,11 @@ By the time you roll up the scroll on the morning of Tarsakh 3, you understand y
 
 The preparation is complete. The *Moonrise* shipment arrives in two days (Tarsakh 5). You have the knowledge, the team, and the power. Now, you need only wait for the target.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Knowledge: Absolute Anatomy | Exhaustion: 0 | Inspiration: 5/5**
@@ -6971,8 +7737,11 @@ The preparation is complete. The *Moonrise* shipment arrives in two days (Tarsak
 > 👤 **Player:**
 > *"Main Character: scrounge up all the gold i can from everything i own liquid that wont disrupt future plans, then go to all the shops in baldurs gate and look to upgrade my melee and ranged weapon and find top tier equipment for the mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Lower City - The Gilded Cage (Shadow Bank HQ)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Knowledge: Absolute Anatomy | Exhaustion: 0 | Inspiration: 5/5**
@@ -6992,8 +7761,11 @@ Your empire is growing, but it is hungry. The blockade of the Chionthar is choki
 > 👤 **Player:**
 > *"withdraw as much gold as I can without disrupting long term plans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Upper City - Umbrage Estate (Interior)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,450/14,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: No**
@@ -7022,8 +7794,11 @@ As she exfiltrated, laden with the spoils of a dynasty, she paused near the corr
 > 👤 **Player:**
 > *"scrounge up all the gold i can from everything i own liquid that wont disrupt future plans, then go to all the shops in baldurs gate and look to upgrade my melee and ranged weapon and find top tier equipment for the mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Knowledge: Absolute Anatomy | Exhaustion: 0 | Inspiration: 5/5**
@@ -7056,8 +7831,11 @@ Your empire is growing, but it is hungry. The blockade of the Chionthar is choki
 The Shadow Bank is functioning perfectly as a mechanism for control, but the economic stagnation caused by the Absolute's river threat is a liability. Saving the city from the parasites also means saving my own profit margins. The two goals align perfectly. I have the rest of the day to prepare for the naval intercept.
 It is mid-afternoon on Tarsakh 3. The shipment arrives Tarsakh 5. Your investments are threatened by the river blockade.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Lower City - The Smiling Anvil (Weapon Shop)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2800gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7093,8 +7871,11 @@ Thondor nods, unlocking a heavy iron cage at the back of the shop. He lays three
 > [!NOTE] ⚙️ **Player Choice:**
 > *Haggle: The Duelist&#x27;s Set - Attempt to buy the **Sun-Touched Rapier** AND the **Serpent&#x27;s Kiss Bow** for 1,400gp total, saving gold for other supplies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Lower City - The Smiling Anvil (Weapon Shop)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 1400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7127,8 +7908,11 @@ You step out of *The Smiling Anvil* and into the late afternoon sun. The martial
 > 👤 **Player:**
 > *"Visit lrya and make a plan on how to blackmail/extort the patriars. need to collect some money or guarantees before we save them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Upper City - Umbrage Estate (Drawing Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,750/48,000 | Gold: 2400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7162,8 +7946,11 @@ You stand over the new wealth, the 'guarantees' of the city's elite. You have ta
 > 👤 **Player:**
 > *"try to extort more houses"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 (Level 8) | Gold: 2700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7192,8 +7979,11 @@ With the coffers refilled and the political stranglehold tightened, the night li
 > 👤 **Player:**
 > *"go through the shops again, look for equipment upgrade for myself or items for the party. Dont buy anything yet let me decide"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Lower City - The Smiling Anvil (Weapon Shop)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2800gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7229,8 +8019,11 @@ Thondor nods, unlocking a heavy iron cage at the back of the shop. He lays three
 God Mode:
 i already have both of these items
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Lower City - Market District** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 6450gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7253,8 +8046,11 @@ After hours of scouring the city's finest inventories, you have assembled a sele
 Buy 'Drum of the Dark Heart' (+2): A Rhythm-Maker's Drum +2. While holding this, you gain a +2 bonus to spell attack rolls and your Spell Save DC. It also allows you to regain one use of Bardic Inspiration as an action once per day. (Rare, Cost: 3,500gp)
 Buy 'Boots of the Zephyr' (Winged Boots): Boots adorned with griffon feathers. They grant you a flying speed equal to your walking speed for up to 4 hours per day. Absolute mobility. (Uncommon/Rare, Cost: 4,500gp)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 1450gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7278,8 +8074,11 @@ With **1,450 gold** remaining, you turn from the counter. The shop has nothing l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Safe House &amp; Attune - Withdraw to the Coiled Serpent. Use your &#x27;Omni-Attunement&#x27; capability to bind the Boots and the Drum to your soul immediately, completing your ascension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 (Level 8) | Gold: 1450gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (5/5 Active: Bracers, Cloak, Ring, Boots, Drum) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7309,8 +8108,11 @@ The sun is setting on Tarsakh 3. The Moonrise shipment is two days away. The cit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Lyra (The Ascended) - Fly to the Umbrage Estate balcony. Reveal your new power to Lyra, cementing her worship of you and checking on the &#x27;protection racket&#x27; revenue stream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Upper City - Umbrage Estate (Balcony)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 (Level 8) | Gold: 1450gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (5/5 Active), Flight (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7342,8 +8144,11 @@ You stand over her, the avatar of her salvation and her damnation. She presses h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aerial Recon: River Chokepoint - Use your flight capability to scout the Chionthar River mouth from the air. Identify the perfect spot for the blockade and sniper nests for the Tarsakh 5 ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Lower City - Grey Harbor (Aerial Vantage)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,100/48,000 (Level 8) | Gold: 1450gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (5/5 Active), Flight (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7373,8 +8178,11 @@ You circle once more, memorizing the wind currents and the angles of fire. The t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for the Ship (Skip to Tarsakh 5) - The preparations are complete. Fast forward through the remaining time (Tarsakh 4) to the night of the River Ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Ambush Site)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7402,8 +8210,11 @@ The ship spots the blockade. It slows, turning heavily to navigate the narrow ch
 > 👤 **Player:**
 > *"Think. Could I get them with hypnotic pattern ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Knowledge: Absolute Anatomy | Exhaustion: 0 | Inspiration: 5/5**
@@ -7439,8 +8250,11 @@ She nods, her surrender complete. "Yes. Yes, take me away. Keep me safe."
 God Mode:
 Wrong scene
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Ambush Site)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7456,8 +8270,11 @@ Conditions: The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of A
 
 Open with hypnotic pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Wyrm's Rock - Ambush Site (Lead Wagon)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 36,350/48,000 (Level 8) | Gold: 5700gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7485,8 +8302,11 @@ Your hand hovers over the chest. The power within is palpable. It whispers to th
 God Mode:
 Wrong scene. Why did we jump again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Ambush Site)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7514,8 +8334,11 @@ The ship spots the blockade. It slows, turning heavily to navigate the narrow ch
 > 👤 **Player:**
 > *"Cast hypnotic pattern on the crew on the deck"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Concentrating on Hypnotic Pattern (1 minute), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7549,8 +8372,11 @@ It is your turn. You hold the concentration on the pattern, keeping the bulk of 
 > 👤 **Player:**
 > *"Cast hold person on leader. I should have my drums helping me too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (1 minute), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7562,8 +8388,11 @@ Your mind, sharpened by the Hunger, dissects the variables. He is a spellcaster,
 > 👤 **Player:**
 > *"Think. What other spells do I have that don't break concentration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Concentrating on Hypnotic Pattern (59 seconds), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7573,8 +8402,11 @@ Your mind, sharpened by the Hunger, dissects the variables. He is a spellcaster,
 > 👤 **Player:**
 > *"Cast dissonant whispers and reserve reaction for counter spell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 0/1, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7602,8 +8434,11 @@ The dual conquest is initiated. The Gala will snare the nobility; the Debt will 
 God Mode:
 Jumped around again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Upper City - Flaming Fist Headquarters (Vice-Marshal's Office)** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,250/48,000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7650,8 +8485,11 @@ Rokas slumps, the fight leaving him. He nods, a broken man accepting his new mas
 God Mode:
 Wrong I am here Scene #272
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **The Guildhall - Nine-Fingers' Office** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,450/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7714,8 +8552,11 @@ Cons: Passive play; relies on him casting.
 Assessment: High
 Custom Action
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Knowledge: Absolute Anatomy | Exhaustion: 0 | Inspiration: 5/5**
@@ -7749,8 +8590,11 @@ She nods, her surrender complete. "Yes. Yes, take me away. Keep me safe."
 God Mode:
 Enter DM mode. We are attacking the absolute boat not here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Tarsakh 2, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 3000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7782,8 +8626,11 @@ By evening, the table in the solarium is piled with **1,000 gold pieces** in ret
 God Mode:
 Still wrong I just cast hypnotic pattern on the boat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Upper City - Umbrage Estate (Solarium)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,450/11,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7811,8 +8658,11 @@ Location: Chionthar River - The Wyrm's Tooth (Combat)
 Status: Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp
 Conditions: The Hunger Sated (+2 All Ability Scores -> CHA 22), Concentrating on Hypnotic Pattern (59 seconds), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Concentrating on Hypnotic Pattern (1 minute), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7846,8 +8696,11 @@ It is your turn. You hold the concentration on the pattern, keeping the bulk of 
 God Mode:
 Command: Silas, Silence Him! - Order Silas to use his &#x27;Mage Slayer&#x27; shot (if applicable) or focus fire on the Leader to break his concentration or silence him before he casts.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:06)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (54 seconds), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7863,8 +8716,11 @@ The air around Vesper darkens, moisture freezing on the planks. He is casting *B
 God Mode:
 Reaction: Cast Counterspell - Use your Reaction and a 3rd-level spell slot to instantly interrupt the Leader&#x27;s &#x27;Blight&#x27;, saving Vesper and wasting his turn.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:06)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (54 seconds), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7888,8 +8744,11 @@ The board is yours. The Leader is critical and prone. The resistance is crumblin
 > 👤 **Player:**
 > *"order vesper bind leader and then demand surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Upper City - Umbrage Estate Solarium** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7960,8 +8819,11 @@ Action: Demand Total Surrender: With their leader broken, roar a demand for the 
 Custom Action
 Main Character: order vesper bind leader and then demand surrender
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Chionthar River - The Wyrm's Tooth (The Moonrise Ship)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (2 minutes), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -7992,8 +8854,11 @@ The ship is silent. The *Moonrise* vessel, with its cargo of biological weapons,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer the Crew a Choice - Speak to the surrendered crew. Offer them a chance to serve the Shadow Monarch instead of the Absolute, expanding your &#x27;Unseen&#x27; ranks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Chionthar River - The Wyrm's Tooth (The Moonrise Ship)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,400/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8023,8 +8888,11 @@ With the crew secured and the deck under your command, the immediate area is sta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study Leader&#x27;s Parasite - Use your arcane senses to examine the parasite *inside* the True Soul Leader while he is alive, seeing how it connects him to the hive mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Captain's Cabin)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,400/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8053,8 +8921,11 @@ You have confirmed the theory. The Absolute controls them through a broadcast. A
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Jamming Signal - Use the &#x27;Whispering Idol&#x27; to project a discordant frequency at the tadpole, attempting to permanently sever his connection to the hive mind without killing him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Captain's Cabin)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,550/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8081,8 +8952,11 @@ Outside, the sounds of the Black Lotus securing the ship drift in. The experimen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest the Leader&#x27;s Parasite - Now that it is dormant, extract it safely. It might be easier to preserve or consume without the Hive Mind fighting back.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Captain's Cabin)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,650/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8105,8 +8979,11 @@ The cabin is quiet. The leader is dead. The prize is secured. Outside, the river
 > 👤 **Player:**
 > *"Think. If I consume it can the hive mind control me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Captain's Cabin)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,650/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8122,8 +8999,11 @@ The calculation resolves: The Hive Mind *would* try to control you. But if you p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Specimen - Use your arcane will to absorb the parasite&#x27;s potential immediately, unlocking a dormant Illithid Power within yourself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Captain's Cabin)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,750/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Luck of the Far Realms: 1/1** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Illithid Potential (Awakened) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8148,8 +9028,11 @@ Outside, the sounds of the Black Lotus securing the ship drift in. The main carg
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Main Cargo Hold - Descend to the lower deck to secure the main shipment of parasites. Assess the quantity and ensure they are contained before the Guild arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Main Cargo Hold)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,750/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active), Luck of the Far Realms (1/1) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8167,8 +9050,11 @@ Above, a heavy *thud* reverberates through the hull—the sound of a Guild barge
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Sole Custody (Intimidate) - Stand your ground when Arvax arrives. Declare these &#x27;biological assets&#x27; too dangerous for the general Guild and assert that they remain under your personal Shadow Monarch jurisdiction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Main Cargo Hold)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,950/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8205,8 +9091,11 @@ As the hold empties of Guild hands, you stand alone with your prize. The operati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Navigation Charts - Check the ship&#x27;s navigation room for charts leading back to Moonrise Towers. If you are to fight them, you need to know where they came from.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Navigation Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,950/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8228,8 +9117,11 @@ Outside, the Guild has finished loading the bulk cargo. Arvax waits on the gangp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study the Tadpoles - Spend the night dissecting one of the new specimens to see if they differ from the Leader&#x27;s, or if you can refine your &#x27;Jamming&#x27; frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 40,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8259,8 +9151,11 @@ Morning light breaks through the shutters. You wash the alien ichor from your ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest &amp; Meditate - You stayed up all night. Take a few hours to trance/sleep to ensure you are fresh for the social combat of the evening.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Chionthar River - The Wyrm's Tooth (The Moonrise Ship)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (2 minutes), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8291,8 +9186,11 @@ The ship is silent. The *Moonrise* vessel, with its cargo of biological weapons,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest &amp; Meditate - You stayed up all night. Take a few hours to trance/sleep to ensure you are fresh for the social combat of the evening.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8320,8 +9218,11 @@ Your mind clears. The river is won. The Zhentarim are broken. Today is the day o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plan Social Strategy - Stay in the safe house and meticulously plan the social encounters for the evening. Identify key Patriar targets and prepare specific &#x27;hooks&#x27; for each.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **The Coiled Serpent Tavern - Safe House (Private Room)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8347,8 +9248,11 @@ The strategy is set. You have the bait for the soldier, the merchant, and the so
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Loadout &amp; Spells - Select your spells for the evening (Charm Person, Detect Thoughts, Suggestion, Enhance Ability). Attune your Glamoured Armor to a specific, stunning noble guise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Lower City - Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Tarsakh 3, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 37,600/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8384,8 +9288,11 @@ You can afford the weapons together, or the armor and a smaller item, but not al
 God Mode:
 You ignored this Main Character: Prepare Loadout & Spells - Select your spells for the evening (Charm Person, Detect Thoughts, Suggestion, Enhance Ability). Attune your Glamoured Armor to a specific, stunning noble guise.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Upper City - Umbrage Estate (Gala Entrance)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8409,8 +9316,11 @@ You ascend to the Upper City as the sun sets. The Umbrage Estate is transformed.
 God Mode:
 Charm Lord Caldwell - Isolate the gambling-addicted Lord Caldwell. Use &#x27;Charm Person&#x27; or high persuasion to get him to publicly endorse Lyra&#x27;s regency.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,075/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8448,8 +9358,11 @@ He stumbles back into the crowd, calling for wine, preparing to sell his soul fo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Charm Lord Caldwell - Isolate the gambling-addicted Lord Caldwell. Use &#x27;Charm Person&#x27; or high persuasion to get him to publicly endorse Lyra&#x27;s regency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Tarsakh 6, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,200/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8497,8 +9410,11 @@ The room erupts in polite applause. Lyra, standing on the dais, catches your eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Lady Hhune - Target Lady Hhune next. She is the merchant queen. Approach her with the &#x27;River Trade&#x27; hook you prepared.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,150/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8534,8 +9450,11 @@ Two pillars down. The merchant queen is bought.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target: Duke Silvershield - Approach the High Artificer. Use &#x27;Detect Thoughts&#x27; (L2) to peer behind his stoic mask. Determine if he suspects the source of the &#x27;Moonrise&#x27; rumors or if he is genuinely afraid, then tailor your pitch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,225/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 2/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active), Concentrating on Detect Thoughts (1 min) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8559,8 +9478,11 @@ Silvershield's eyes snap to yours. The shock of hearing his own thought voiced b
 > 👤 **Player:**
 > *"Think. Best options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:06)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Concentrating on Hypnotic Pattern (54 seconds), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8598,8 +9520,11 @@ Conditions: The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), 
 📊 Resources: HD: 8/8, Spells: L1 2/4, L2 2/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2
 🎲 Dice Rolls: None
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Chionthar River - The Wyrm's Tooth (The Moonrise Ship)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (2 minutes), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8628,8 +9553,11 @@ The ship is silent. The *Moonrise* vessel, with its cargo of biological weapons,
 God Mode:
 You jumped around in time.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Chionthar River - The Wyrm's Tooth (The Moonrise Ship)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (2 minutes), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8658,8 +9586,11 @@ The ship is silent. The *Moonrise* vessel, with its cargo of biological weapons,
 God Mode:
 No look at the convo history. We are
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Upper City - Umbrage Estate (Study)** &nbsp;|&nbsp; ⏳ **Ches 22, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 College of Swords Bard | HP: 45/45 | XP: 1,525/14,000 (Level 7 Progress) | Gold: 550gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 4/4, Rations: 1 day, Lamp Oil: 2, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8687,8 +9618,11 @@ She looks at the mixed gold, then up at you, her expression hardening into the m
 God Mode:
 No look at the convo history we are at the ball
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (1 minute), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8719,8 +9653,11 @@ The ship is yours to take. The Leader is helpless.
 God Mode:
 Attack: Execute the Leader - Walk up to the frozen Leader and deliver a coup-de-grâce. End the threat permanently.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Chionthar River - The Wyrm's Tooth (Combat)** &nbsp;|&nbsp; ⏳ **Tarsakh 5, 1492 DR (20:06)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,000/48,000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 1/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 3** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores -> CHA 22), Concentrating on Hypnotic Pattern (54 seconds), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8757,8 +9694,11 @@ You weave the subtle magic of *Detect Thoughts*, the spell slipping through the 
 
 He is not suspicious of the source; he is terrified of the *result*. He fears the disintegration of the city's hierarchy more than death itself. He despises the chaos of the unknown
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,225/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 2/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active), Concentrating on Detect Thoughts (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8774,8 +9714,11 @@ Your *Detect Thoughts* spell, still active, catches the spike of cold ambition b
 > 👤 **Player:**
 > *"Think about the best pitch for the duke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,200/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8813,8 +9756,11 @@ He stumbles back into the crowd, calling for wine, preparing to sell his soul fo
 God Mode:
 Wrong I am interacting with duke silver shield
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,275/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8853,8 +9799,11 @@ Two pillars down. The merchant queen is bought.
 God Mode:
 Target: Duke Silvershield - Approach the High Artificer. Use &#x27;Detect Thoughts&#x27; (L2) to peer behind his stoic mask. Determine if he suspects the source of the &#x27;Moonrise&#x27; rumors or if he is genuinely afraid, then tailor your pitch.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,225/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 2/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active), Concentrating on Detect Thoughts (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8878,8 +9827,11 @@ Silvershield's eyes snap to yours. The shock of hearing his own thought voiced b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pitch: The Iron Hand (Secret Police) - Offer the Consortium as a proactive intelligence and elimination service. You hunt the threats the Fist can&#x27;t see. In exchange, he grants the Consortium &#x27;special dispensation&#x27; to operate in the Upper City.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,200/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8923,8 +9875,11 @@ You step back, allowing him to pass. He stumbles back into the crowd, calling fo
 God Mode:
 You jumped around again. Why having so much trouble with this?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,225/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 1/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active), Concentrating on Detect Thoughts (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8955,8 +9910,11 @@ He raises his glass, a silent seal on the pact. You have secured the High Artifi
 God Mode:
 Enter DM mode. Then explain why you keep messing up timeline
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Upper City - Umbrage Estate (Ballroom)** &nbsp;|&nbsp; ⏳ **Ches 25, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 College of Swords Bard | HP: 52/52 | XP: 38,225/48,000 | Gold: 3500gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 2/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2** &nbsp;|&nbsp; ⚠️ **The Hunger Sated (+2 All Ability Scores), Omni-Attunement (Active), Glamoured Guise (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -8966,6 +9924,8 @@ The noise of the gala fades into a dull roar as the *Echoes of the Idol* isolate
 "You speak of a 'Consortium'," Silvershield murmurs, his voice low and intense. "A structure. Tell me, madam... does this structure have the will to do what the Fist cannot? Does it have the capacity to excise a threat before it breaches the gate? I do not need more walls. I need a blade that works in the dark."
 
 Your *Detect Thoughts* reveals his mind is primed. He doesn't want a shield; he wants a secret police. He wants permission to be ruthless.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

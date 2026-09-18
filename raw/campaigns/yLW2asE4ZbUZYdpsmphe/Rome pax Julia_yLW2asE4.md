@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (474 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 World History: The Julian-Ptolemaic Century (44 BCE - 56 AD)
@@ -900,490 +911,495 @@ Action: You roll Persuasion against a target.
 Success: They do the favor hoping for a reward (romance) later.
 The Risk: If you never pay out, they become "Scorned Enemies" (Disadvantage on future social checks). You have to balance the tease with the reward. This is the core of the Hedonist Playstyle
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Administrative Interface (Story Paused) | Mirtul 1, 82 BCE (00:00) | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Rome (Administrative Interface) | Mirtul 15, 82 BCE (Night) | Roleplay |
-| **05** | Subura Safehouse | Mirtul 15, 82 DR (22:15) | Roleplay |
-| **06** | Subura Alleys | Mirtul 15, 82 DR (22:16) | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Subura Alleys | Mirtul 15, 82 BCE (22:16) | Roleplay |
-| **09** | Subura Alleys | Mirtul 15, 82 BCE (22:16) | Roleplay |
-| **10** | Subura Alleys | Mirtul 15, 82 BCE (22:16) | Roleplay |
-| **11** | Subura Alleys | Mirtul 15, 82 DR (22:25) | Roleplay |
-| **12** | Subura Alleys | Mirtul 15, 82 DR (22:30) | Roleplay |
-| **13** | River Docks / Salt Warehouses | Mirtul 15, 82 DR (22:35) | Roleplay |
-| **14** | Salt Warehouses | Mirtul 15, 82 DR (22:40) | Roleplay |
-| **15** | Salt Warehouses | Mirtul 15, 82 DR (22:45) | Roleplay |
-| **16** | Subterranean Passages | Mirtul 15, 82 DR (22:50) | Roleplay |
-| **17** | Subterranean Passages | Mirtul 15, 82 DR (23:05) | Roleplay |
-| **18** | Cloaca Maxima | Mirtul 15, 82 DR (23:10) | Roleplay |
-| **19** | Cloaca Maxima | Mirtul 15, 82 DR (23:15) | Roleplay |
-| **20** | Cloaca Maxima | Mirtul 15, 82 DR (23:20) | Roleplay |
-| **21** | Cloaca Maxima | Mirtul 15, 82 DR (23:25) | Roleplay |
-| **22** | Cloaca Maxima | Mirtul 15, 82 DR (23:30) | Roleplay |
-| **23** | Cloaca Maxima | Mirtul 15, 82 DR (23:35) | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Cloaca Maxima | Mirtul 15, 82 DR (23:35) | Roleplay |
-| **27** | Cloaca Maxima | Mirtul 15, 82 DR (23:45) | Roleplay |
-| **28** | Cloaca Maxima | Mirtul 15, 82 DR (23:55) | Roleplay |
-| **29** | Cloaca Maxima | Mirtul 16, 82 DR (00:10) | Roleplay |
-| **30** | Great Junction | Mirtul 16, 82 DR (00:15) | Roleplay |
-| **31** | Great Junction | Mirtul 16, 82 DR (00:20) | Social Challenge |
-| **32** | Great Junction | 0082 Mirtul 16, 00:20:01 | Roleplay |
-| **33** | Great Junction | Mirtul 16, 82 DR (00:20) | Roleplay |
-| **34** | Great Junction | Mirtul 16, 82 DR (00:30) | Social Challenge |
-| **35** | Great Junction | Mirtul 16, 82 DR (00:30) | Roleplay |
-| **36** | Great Junction | Mirtul 16, 82 DR (00:30) | Social Challenge |
-| **37** | Great Junction | Mirtul 16, 82 DR (00:50) | Roleplay |
-| **38** | The Rat-Run | Mirtul 16, 82 DR (01:05) | Roleplay |
-| **39** | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:10) | Roleplay |
-| **40** | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:20) | Boss Surrender |
-| **41** | The Rat-Run (Cuniculus) | Mirtul 16, 0082 DR (01:20) | Roleplay |
-| **42** | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:30) | Roleplay |
-| **43** | The Rat-Run (Cuniculus) | 0082 Mirtul 16, 01:30:00 | Roleplay |
-| **44** | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:30) | Roleplay |
-| **45** | The Rat-Run (Cuniculus) | Mirtul 16, 82 BCE (01:30) | Roleplay |
-| **46** | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:35) | Roleplay |
-| **47** | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:36) | Boss Surrender |
-| **48** | The Rat-Run (Cuniculus) | Mirtul 16, 82 BCE (01:36) | Roleplay |
-| **49** | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:41) | Roleplay |
-| **50** | The Rat-Run (Cuniculus) |  | Roleplay |
-| **51** | Western Maintenance Sector | Mirtul 16, 0082 DR (01:51) | Roleplay |
-| **52** | Western Maintenance Sector | Mirtul 16, 82 DR (01:56) | Roleplay |
-| **53** | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:06) | Boss Surrender |
-| **54** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
-| **55** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
-| **56** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
-| **57** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
-| **58** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
-| **59** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
-| **60** | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:07) | Roleplay |
-| **61** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **62** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **63** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **64** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:08) | Roleplay |
-| **65** | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:07) | Roleplay |
-| **66** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **67** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **68** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **69** | Nymphaeum Subterraneum | Mirtul 16, 0082 BCE (02:07) | Roleplay |
-| **70** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **71** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
-| **72** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:10) | Roleplay |
-| **73** | Nymphaeum Subterraneum | Mirtul 16, 0082 BCE (02:15) | Roleplay |
-| **74** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:20) | Roleplay |
-| **75** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:25) | Roleplay |
-| **76** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:30) | Social Challenge |
-| **77** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (01:45) | Roleplay |
-| **78** | Unknown | Mirtul 16, 82 DR (01:45) | Roleplay |
-| **79** | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:00) | Roleplay |
-| **80** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:15) | Roleplay |
-| **81** | Nymphaeum Subterraneum | Mirtul 16, 0082 DR (02:00) | Roleplay |
-| **82** | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:15) | Roleplay |
-| **83** | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:30) | Roleplay |
-| **84** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:30) | Roleplay |
-| **85** | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:45) | Roleplay |
-| **86** | The Favissa | Mirtul 16, 82 BCE (02:45) | Roleplay |
-| **87** | The Favissa | Mirtul 16, 82 DR (10:45) | Roleplay |
-| **88** | The Favissa | Mirtul 16, 82 DR (11:00) | Roleplay |
-| **89** | The Favissa | Mirtul 16, 82 DR (11:00) | Roleplay |
-| **90** | The Favissa | Mirtul 16, 82 BCE (11:00) | Roleplay |
-| **91** | The Favissa | Mirtul 16, 82 BCE (11:15) | Roleplay |
-| **92** | The Deep Conduits (Southbound) | Mirtul 16, 82 BCE (12:07) | Roleplay |
-| **93** | The Deep Conduits (Southbound) | Mirtul 16, 0082 DR (12:07) | Roleplay |
-| **94** | The Deep Conduits (Southbound) | Midday, 0082-05-16 (12:07) | Roleplay |
-| **95** | The Deep Conduits (Southbound) | Mirtul 16, 82 DR (12:45) | Roleplay |
-| **96** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:30) | Roleplay |
-| **97** | Unknown | Mirtul 16, 82 DR (15:30) | Roleplay |
-| **98** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:35) | Roleplay |
-| **99** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:35) | Roleplay |
-| **100** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:40) | Social Challenge |
-| **101** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:45) | Roleplay |
-| **102** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 DR (15:45) | Roleplay |
-| **103** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 DR (16:00) | Boss Surrender |
-| **104** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:00) | Roleplay |
-| **105** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:00) | Roleplay |
-| **106** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:00) | Roleplay |
-| **107** | Samnite Command Pavilion (Neapolis) | Mirtul 16, 82 DR (16:15) | Roleplay |
-| **108** | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:15) | Roleplay |
-| **109** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (17:00) | Roleplay |
-| **110** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (17:00) | Roleplay |
-| **111** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:30) | Roleplay |
-| **112** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (18:35) | Social Challenge |
-| **113** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (18:40) | Social Challenge |
-| **114** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:45) | Roleplay |
-| **115** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:50) | Roleplay |
-| **116** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:55) | Roleplay |
-| **117** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (19:10) | Roleplay |
-| **118** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (19:15) | Roleplay |
-| **119** | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (19:25) | Boss Surrender |
-| **120** | Samnite Holdfast (Vultur Ridge) | Mirtul 16, 82 DR (22:30) | Boss Surrender |
-| **121** | Unknown | Mirtul 16, 82 DR (22:30) | Roleplay |
-| **122** | Samnite Holdfast (Vultur Ridge) | Mirtul 17, 82 DR (02:30) | Boss Surrender |
-| **123** | Samnite Holdfast (Vultur Ridge) | Mirtul 17, 82 BCE (02:30) | Roleplay |
-| **124** | Samnite Holdfast (Vultur Ridge) | Mirtul 17, 82 DR (11:15) | Boss Surrender |
-| **125** | The Olive Groves of Nola (Outskirts of the Villa) | Mirtul 17, 82 DR (16:15) | Roleplay |
-| **126** | Service Conduits | Mirtul 17, 82 DR (16:35) | Social Challenge |
-| **127** | Service Conduits | Mirtul 17, 82 DR (16:40) | Social Challenge |
-| **128** | Service Conduits | Mirtul 17, 82 DR (16:45) | Roleplay |
-| **129** | Lower Vestibule | Mirtul 17, 82 DR (16:50) | Social Challenge |
-| **130** | Central Cellar | Mirtul 17, 82 DR (16:55) | Social Challenge |
-| **131** | Unknown | Mirtul 17, 82 DR (16:50) | Roleplay |
-| **132** | Central Cellar | Mirtul 17, 82 BCE (16:50) | Roleplay |
-| **133** | Central Cellar | Mirtul 17, 0082 DR (16:50) | Roleplay |
-| **134** | Central Cellar | Mirtul 17, 0082 DR (16:50) | Roleplay |
-| **135** | Cellarium Centrale | Mirtul 17, 82 DR (16:55) | Social Challenge |
-| **136** | Cellarium Centrale | Mirtul 17, 0082 DR (16:55) | Roleplay |
-| **137** | Cellarium Centrale | Mirtul 17, 82 BCE (16:55) | Roleplay |
-| **138** | Cellarium Centrale | Mirtul 17, 82 DR (17:00) | Roleplay |
-| **139** | Cellarium Centrale | Mirtul 17, 82 BCE (17:05) | Roleplay |
-| **140** | Cellarium Centrale | Mirtul 17, 82 BCE (17:05) | Roleplay |
-| **141** | Cellarium Centrale | Mirtul 17, 82 BCE (17:10) | Roleplay |
-| **142** | Vestibule | Mirtul 17, 82 DR (17:15) | Roleplay |
-| **143** | Vestibule | Mirtul 17, 82 DR (17:15) | Roleplay |
-| **144** | Unknown | Mirtul 17, 82 DR (22:15) | Roleplay |
-| **145** | Vultur Ridge (Samnite Holdfast) | Mirtul 17, 82 BCE (22:15) | Roleplay |
-| **146** | Vultur Ridge (Samnite Holdfast) | Mirtul 17, 82 BCE (22:30) | Roleplay |
-| **147** | Vultur Ridge (Samnite Holdfast) | Mirtul 17, 82 BCE (23:00) | Roleplay |
-| **148** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (07:00) | Roleplay |
-| **149** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:00) | Roleplay |
-| **150** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:15) | Roleplay |
-| **151** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:30) | Roleplay |
-| **152** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:30) | Roleplay |
-| **153** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:30) | Roleplay |
-| **154** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:35) | Roleplay |
-| **155** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:35) | Roleplay |
-| **156** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:40) | Roleplay |
-| **157** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:40) | Roleplay |
-| **158** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 0082 DR (10:40) | Roleplay |
-| **159** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:45) | Roleplay |
-| **160** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:45) | Roleplay |
-| **161** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (11:30) | Roleplay |
-| **162** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (11:30) | Roleplay |
-| **163** | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (11:30) | Roleplay |
-| **164** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (12:00) | Roleplay |
-| **165** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 BCE (12:30) | Roleplay |
-| **166** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (12:45) | Roleplay |
-| **167** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:00) | Boss Surrender |
-| **168** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:15) | Boss Surrender |
-| **169** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:20) | Boss Surrender |
-| **170** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:20) | Roleplay |
-| **171** | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:30) | Roleplay |
-| **172** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (17:30) | Boss Surrender |
-| **173** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **174** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **175** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **176** | Unknown | Mirtul 18, 82 DR (17:30) | Roleplay |
-| **177** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **178** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **179** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **180** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **181** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **182** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **183** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
-| **184** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
-| **185** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **186** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
-| **187** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
-| **188** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
-| **189** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:40) | Roleplay |
-| **190** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (17:45) | Roleplay |
-| **191** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (18:00) | Social Challenge |
-| **192** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (18:05) | Roleplay |
-| **193** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:05) | Social Challenge |
-| **194** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (18:20) | Social Challenge |
-| **195** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:20) | Roleplay |
-| **196** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:25) | Roleplay |
-| **197** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:30) | Social Challenge |
-| **198** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:25) | Roleplay |
-| **199** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:35) | Roleplay |
-| **200** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:40) | Roleplay |
-| **201** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:45) | Social Challenge |
-| **202** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:50) | Social Challenge |
-| **203** | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (18:55) | Roleplay |
-| **204** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:55) | Roleplay |
-| **205** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:55) | Social Challenge |
-| **206** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:56) | Roleplay |
-| **207** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:01) | Social Challenge |
-| **208** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:01) | Roleplay |
-| **209** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:01) | Roleplay |
-| **210** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:05) | Boss Surrender |
-| **211** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:05) | Roleplay |
-| **212** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:15) | Social Challenge |
-| **213** | Unknown | Mirtul 18, 82 DR (19:15) | Roleplay |
-| **214** | Unknown | Mirtul 18, 82 DR (19:30) | Boss Surrender |
-| **215** | Unknown | Mirtul 18, 82 DR (19:35) | Roleplay |
-| **216** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:35) | Boss Surrender |
-| **217** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:35) | Roleplay |
-| **218** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (19:40) | Social Challenge |
-| **219** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:40) | Roleplay |
-| **220** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Roleplay |
-| **221** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Roleplay |
-| **222** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Roleplay |
-| **223** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Social Challenge |
-| **224** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:50) | Boss Surrender |
-| **225** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:50) | Boss Surrender |
-| **226** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:55) | Roleplay |
-| **227** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:55) | Boss Surrender |
-| **228** | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (20:00) | Boss Surrender |
-| **229** | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:15) | Roleplay |
-| **230** | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:20) | Roleplay |
-| **231** | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:20) | Roleplay |
-| **232** | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:25) | Roleplay |
-| **233** | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:25) | Roleplay |
-| **234** | Capua (House of Batiatus - Dining Hall) | Mirtul 18, 82 BCE (21:00) | Roleplay |
-| **235** | Capua (House of Batiatus - Dining Hall) | Mirtul 18, 82 DR (21:05) | Boss Surrender |
-| **236** | Capua (House of Batiatus - Dining Hall) | Mirtul 18, 82 BCE (21:10) | Roleplay |
-| **237** | Capua (House of Batiatus - Guest Chambers) | Mirtul 18, 82 BCE (22:30) | Roleplay |
-| **238** | Capua (House of Batiatus - Guest Chambers) | Mirtul 18, 82 BCE (22:35) | Roleplay |
-| **239** | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:40) | Boss Surrender |
-| **240** | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:45) | Roleplay |
-| **241** | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:45) | Roleplay |
-| **242** | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:50) | Boss Surrender |
-| **243** | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 DR (22:55) | Boss Surrender |
-| **244** | Capua (House of Batiatus - Entrance Courtyard) | Mirtul 19, 82 DR (00:00) | Boss Surrender |
-| **245** | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 BCE (00:00) | Roleplay |
-| **246** | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:05) | Boss Surrender |
-| **247** | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:15) | Boss Surrender |
-| **248** | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 BCE (00:15) | Boss Surrender |
-| **249** | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:20) | Roleplay |
-| **250** | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:30) | Roleplay |
-| **251** | Capua (House of Batiatus - Guest Chambers) | Mirtul 19, 82 BCE (08:30) | Roleplay |
-| **252** | Capua (House of Batiatus - Guest Chambers) | Mirtul 19, 82 BCE (08:40) | Roleplay |
-| **253** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (08:50) | Roleplay |
-| **254** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (08:50) | Roleplay |
-| **255** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (09:00) | Boss Surrender |
-| **256** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:10) | Roleplay |
-| **257** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:20) | Roleplay |
-| **258** | Unknown | Mirtul 19, 82 DR (09:20) | Roleplay |
-| **259** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:30) | Roleplay |
-| **260** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (09:40) | Boss Surrender |
-| **261** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (09:50) | Boss Surrender |
-| **262** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:50) | Roleplay |
-| **263** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:00) | Roleplay |
-| **264** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:00) | Roleplay |
-| **265** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:00) | Roleplay |
-| **266** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:15) | Boss Surrender |
-| **267** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
-| **268** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
-| **269** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
-| **270** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
-| **271** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:30) | Roleplay |
-| **272** | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:45) | Roleplay |
-| **273** | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:00) | Roleplay |
-| **274** | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:30) | Boss Surrender |
-| **275** | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:35) | Boss Surrender |
-| **276** | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:36) | Roleplay |
-| **277** | House of Batiatus - Private Solar to Training Pits | Mirtul 19, 82 DR (11:50) | Roleplay |
-| **278** | House of Batiatus - Training Pits | Mirtul 19, 82 DR (11:51) | Roleplay |
-| **279** | House of Batiatus - Training Pits | Mirtul 19, 82 BCE (12:00) | Roleplay |
-| **280** | House of Batiatus - Training Pits | Mirtul 19, 82 BCE (13:00) | Roleplay |
-| **281** | House of Batiatus - The Upper Gallery | Mirtul 19, 82 DR (13:10) | Boss Surrender |
-| **282** | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (13:10) | Roleplay |
-| **283** | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (13:30) | Boss Surrender |
-| **284** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (13:40) | Boss Surrender |
-| **285** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (13:50) | Boss Surrender |
-| **286** | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (14:00) | Roleplay |
-| **287** | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (14:15) | Social Challenge |
-| **288** | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (14:20) | Roleplay |
-| **289** | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (14:20) | Roleplay |
-| **290** | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (14:30) | Roleplay |
-| **291** | House of Batiatus - Main Gates | Mirtul 19, 82 BCE (16:30) | Roleplay |
-| **292** | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:30) | Roleplay |
-| **293** | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:30) | Boss Surrender |
-| **294** | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:30) | Roleplay |
-| **295** | House of Batiatus - Courtyard | Mirtul 19, 82 DR (16:40) | Boss Surrender |
-| **296** | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:45) | Social Challenge |
-| **297** | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:50) | Roleplay |
-| **298** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (16:55) | Boss Surrender |
-| **299** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:05) | Boss Surrender |
-| **300** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:05) | Roleplay |
-| **301** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:05) | Roleplay |
-| **302** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:10) | Social Challenge |
-| **303** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:15) | Roleplay |
-| **304** | House of Batiatus - Dining Hall | Mirtul 19, 82 DR (17:20) | Roleplay |
-| **305** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:25) | Roleplay |
-| **306** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:30) | Boss Surrender |
-| **307** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:30) | Roleplay |
-| **308** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:35) | Roleplay |
-| **309** | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:35) | Roleplay |
-| **310** | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (17:35) | Roleplay |
-| **311** | House of Batiatus - Courtyard | Mirtul 19, 82 DR (17:50) | Roleplay |
-| **312** | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (18:05) | Roleplay |
-| **313** | House of Batiatus - Courtyard | Mirtul 19, 82 DR (18:20) | Roleplay |
-| **314** | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (18:35) | Roleplay |
-| **315** | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (18:50) | Roleplay |
-| **316** | House of Batiatus - Private Solar | Mirtul 19, 82 DR (19:05) | Boss Surrender |
-| **317** | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (19:15) | Boss Surrender |
-| **318** | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (19:20) | Roleplay |
-| **319** | House of Batiatus - Private Solar | Mirtul 19, 82 DR (19:25) | Boss Surrender |
-| **320** | House of Batiatus - Private Solar | Mirtul 19, 82 DR (19:30) | Boss Surrender |
-| **321** | Marcus Pacuvius - Private Estate | Mirtul 19, 82 BCE (20:15) | Boss Surrender |
-| **322** | Marcus Pacuvius - Private Estate | Mirtul 19, 0082 BCE (20:15) | Roleplay |
-| **323** | Marcus Pacuvius - Private Estate | Mirtul 19, 82 BCE (21:00) | Roleplay |
-| **324** | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (22:00) | Roleplay |
-| **325** | Unknown | Mirtul 19, 82 DR (23:30) | Roleplay |
-| **326** | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **327** | House of Batiatus / Appian Way Hub | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **328** | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **329** | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **330** | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **331** | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **332** | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **333** | House of Batiatus (Capua) |  | Roleplay |
-| **334** | House of Batiatus | Mirtul 19, 82 BCE (23:30) | Roleplay |
-| **335** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:00) | Boss Surrender |
-| **336** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:15) | Roleplay |
-| **337** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:15) | Roleplay |
-| **338** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (00:20) | Social Challenge |
-| **339** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:25) | Boss Surrender |
-| **340** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (00:35) | Boss Surrender |
-| **341** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (00:50) | Roleplay |
-| **342** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (01:05) | Social Challenge |
-| **343** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:05) | Roleplay |
-| **344** | Marcus Pacuvius's Villa (Capua) - Private Solar | Mirtul 20, 82 BCE (01:10) | Boss Surrender |
-| **345** | Private Solar of Marcus Pacuvius (Capua) | Mirtul 20, 82 BCE (01:15) | Roleplay |
-| **346** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (01:15) | Boss Surrender |
-| **347** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:15) | Roleplay |
-| **348** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:15) | Roleplay |
-| **349** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (01:25) | Boss Surrender |
-| **350** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **351** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **352** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **353** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **354** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **355** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **356** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **357** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **358** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **359** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
-| **360** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (09:30) | Roleplay |
-| **361** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (10:00) | Roleplay |
-| **362** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:00) | Roleplay |
-| **363** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:05) | Social Challenge |
-| **364** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (10:10) | Roleplay |
-| **365** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:15) | Roleplay |
-| **366** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:20) | Boss Surrender |
-| **367** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:25) | Boss Surrender |
-| **368** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:30) | Boss Surrender |
-| **369** | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:30) | Roleplay |
-| **370** | Atrium | Mirtul 20, 82 BCE (11:30) | Roleplay |
-| **371** | Atrium | Mirtul 20, 82 DR (11:35) | Roleplay |
-| **372** | Atrium | Mirtul 20, 82 DR (11:45) | Social Challenge |
-| **373** | Atrium | Mirtul 20, 82 DR (11:50) | Roleplay |
-| **374** | Atrium | Mirtul 20, 82 BCE (11:55) | Roleplay |
-| **375** | Atrium | Mirtul 20, 82 DR (12:00) | Roleplay |
-| **376** | Atrium | Mirtul 20, 82 DR (12:15) | Boss Surrender |
-| **377** | Atrium | Mirtul 20, 82 DR (12:30) | Boss Surrender |
-| **378** | Atrium | Mirtul 20, 82 BCE (12:30) | Roleplay |
-| **379** | Atrium | Mirtul 20, 82 DR (12:30) | Roleplay |
-| **380** | Atrium | Mirtul 20, 82 DR (16:30) | Roleplay |
-| **381** | Atrium | Mirtul 20, 82 BCE (16:45) | Boss Surrender |
-| **382** | Training Pits | Mirtul 20, 82 DR (18:30) | Boss Surrender |
-| **383** | Training Pits | Mirtul 20, 82 BCE (18:30) | Boss Surrender |
-| **384** | Training Pits | Mirtul 21, 82 DR (01:00) | Roleplay |
-| **385** | Guest Chambers | Mirtul 21, 82 DR (09:30) | Roleplay |
-| **386** | Guest Chambers | Mirtul 21, 82 BCE (09:35) | Roleplay |
-| **387** | Guest Chambers | Mirtul 21, 82 DR (10:00) | Roleplay |
-| **388** | Guest Chambers | Mirtul 21, 82 BCE (10:15) | Roleplay |
-| **389** | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 DR (10:20) | Social Challenge |
-| **390** | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:20) | Roleplay |
-| **391** | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:25) | Boss Surrender |
-| **392** | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:25) | Roleplay |
-| **393** | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 DR (10:40) | Boss Surrender |
-| **394** | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:55) | Boss Surrender |
-| **395** | Subterranean Approach | Mirtul 21, 82 BCE (11:15) | Roleplay |
-| **396** | Northern Ridge Tower Alpha Lower Wards | Mirtul 21, 82 DR (11:30) | Roleplay |
-| **397** | Tower Alpha Central Lift Shaft | Mirtul 21, 82 DR (11:35) | Roleplay |
-| **398** | Tower Alpha Upper Sanctum | Mirtul 21, 82 DR (11:40) | Social Challenge |
-| **399** | Tower Alpha Upper Sanctum | Mirtul 21, 82 DR (12:00) | Roleplay |
-| **400** | Tower Alpha Upper Sanctum | Mirtul 21, 82 BCE (12:30) | Roleplay |
-| **401** | Appian Ridge Killing Field | Mirtul 21, 82 DR (13:00) | Roleplay |
-| **402** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Roleplay |
-| **403** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Roleplay |
-| **404** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Roleplay |
-| **405** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Social Challenge |
-| **406** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:05) | Social Challenge |
-| **407** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:05) | Roleplay |
-| **408** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:10) | Roleplay |
-| **409** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:10) | Roleplay |
-| **410** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:10) | Roleplay |
-| **411** | Unknown | Mirtul 21, 82 DR (17:10) | Roleplay |
-| **412** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:15) | Roleplay |
-| **413** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
-| **414** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:45) | Roleplay |
-| **415** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:45) | Roleplay |
-| **416** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:45) | Roleplay |
-| **417** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
-| **418** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
-| **419** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
-| **420** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
-| **421** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
-| **422** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:35) | Roleplay |
-| **423** | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:35) | Roleplay |
-| **424** | Sky above the Northern Campania Ridges | Mirtul 21, 82 BCE (18:20) | Roleplay |
-| **425** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:30) | Roleplay |
-| **426** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:30) | Roleplay |
-| **427** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
-| **428** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
-| **429** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
-| **430** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
-| **431** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
-| **432** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
-| **433** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
-| **434** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
-| **435** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:50) | Roleplay |
-| **436** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:55) | Roleplay |
-| **437** | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:58) | Roleplay |
-| **438** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:03) | Boss Surrender |
-| **439** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:08) | Social Challenge |
-| **440** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
-| **441** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
-| **442** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
-| **443** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
-| **444** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:20) | Social Challenge |
-| **445** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:20) | Social Challenge |
-| **446** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:20) | Social Challenge |
-| **447** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
-| **448** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
-| **449** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
-| **450** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
-| **451** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
-| **452** | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
-| **453** | Thracian Tribal Camp | Mirtul 21, 82 DR (23:30) | Boss Surrender |
-| **454** | Thracian Tribal Camp | Mirtul 21, 82 BCE (23:30) | Roleplay |
-| **455** | Thracian Tribal Camp | Mirtul 21, 82 DR (23:30) | Boss Surrender |
-| **456** | Thracian Tribal Camp | Mirtul 22, 82 DR (05:30) | Roleplay |
-| **457** | Thracian Tribal Camp | Mirtul 22, 82 DR (05:30) | Roleplay |
-| **458** | Thracian Tribal Camp | Mirtul 22, 82 BCE (05:30) | Roleplay |
-| **459** | Thracian Tribal Camp | Mirtul 22, 82 Pax Julia (05:30) | Boss Surrender |
-| **460** | Thracian Tribal Camp | Mirtul 22, 82 BCE (05:30) | Boss Surrender |
-| **461** | Thracian Tribal Camp | Mirtul 22, 82 DR (05:45) | Boss Surrender |
-| **462** | Thracian Tribal Camp | Mirtul 22, 82 BCE (05:45) | Roleplay |
-| **463** | Private Solar of Marcus Pacuvius | Mirtul 29, 82 DR (18:00) | Roleplay |
-| **464** | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 DR (10:00) | Roleplay |
-| **465** | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (10:00) | Roleplay |
-| **466** | The Great Amphitheater of Capua - Gladiator Pits | Mirtul 30, 82 BCE (10:15) | Boss Surrender |
-| **467** | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 DR (10:45) | Social Challenge |
-| **468** | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (11:00) | Roleplay |
-| **469** | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 DR (11:30) | Boss Surrender |
-| **470** | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (11:35) | Roleplay |
-| **471** | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (11:45) | Roleplay |
-| **472** | The Appian Gates of Capua | Mirtul 30, 82 DR (12:45) | Boss Surrender |
-| **473** | The Appian Gates of Capua | Mirtul 30, 82 BCE (12:45) | Roleplay |
-| **474** | The Appian Way | Mirtul 30, 82 DR (18:00) | Boss Surrender |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Administrative Interface (Story Paused) | Mirtul 1, 82 BCE (00:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Rome (Administrative Interface) | Mirtul 15, 82 BCE (Night) | Roleplay |
+| [**Scene 05**](#scene-5) | Subura Safehouse | Mirtul 15, 82 DR (22:15) | Roleplay |
+| [**Scene 06**](#scene-6) | Subura Alleys | Mirtul 15, 82 DR (22:16) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Subura Alleys | Mirtul 15, 82 BCE (22:16) | Roleplay |
+| [**Scene 09**](#scene-9) | Subura Alleys | Mirtul 15, 82 BCE (22:16) | Roleplay |
+| [**Scene 10**](#scene-10) | Subura Alleys | Mirtul 15, 82 BCE (22:16) | Roleplay |
+| [**Scene 11**](#scene-11) | Subura Alleys | Mirtul 15, 82 DR (22:25) | Roleplay |
+| [**Scene 12**](#scene-12) | Subura Alleys | Mirtul 15, 82 DR (22:30) | Roleplay |
+| [**Scene 13**](#scene-13) | River Docks / Salt Warehouses | Mirtul 15, 82 DR (22:35) | Roleplay |
+| [**Scene 14**](#scene-14) | Salt Warehouses | Mirtul 15, 82 DR (22:40) | Roleplay |
+| [**Scene 15**](#scene-15) | Salt Warehouses | Mirtul 15, 82 DR (22:45) | Roleplay |
+| [**Scene 16**](#scene-16) | Subterranean Passages | Mirtul 15, 82 DR (22:50) | Roleplay |
+| [**Scene 17**](#scene-17) | Subterranean Passages | Mirtul 15, 82 DR (23:05) | Roleplay |
+| [**Scene 18**](#scene-18) | Cloaca Maxima | Mirtul 15, 82 DR (23:10) | Roleplay |
+| [**Scene 19**](#scene-19) | Cloaca Maxima | Mirtul 15, 82 DR (23:15) | Roleplay |
+| [**Scene 20**](#scene-20) | Cloaca Maxima | Mirtul 15, 82 DR (23:20) | Roleplay |
+| [**Scene 21**](#scene-21) | Cloaca Maxima | Mirtul 15, 82 DR (23:25) | Roleplay |
+| [**Scene 22**](#scene-22) | Cloaca Maxima | Mirtul 15, 82 DR (23:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Cloaca Maxima | Mirtul 15, 82 DR (23:35) | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Cloaca Maxima | Mirtul 15, 82 DR (23:35) | Roleplay |
+| [**Scene 27**](#scene-27) | Cloaca Maxima | Mirtul 15, 82 DR (23:45) | Roleplay |
+| [**Scene 28**](#scene-28) | Cloaca Maxima | Mirtul 15, 82 DR (23:55) | Roleplay |
+| [**Scene 29**](#scene-29) | Cloaca Maxima | Mirtul 16, 82 DR (00:10) | Roleplay |
+| [**Scene 30**](#scene-30) | Great Junction | Mirtul 16, 82 DR (00:15) | Roleplay |
+| [**Scene 31**](#scene-31) | Great Junction | Mirtul 16, 82 DR (00:20) | Social Challenge |
+| [**Scene 32**](#scene-32) | Great Junction | 0082 Mirtul 16, 00:20:01 | Roleplay |
+| [**Scene 33**](#scene-33) | Great Junction | Mirtul 16, 82 DR (00:20) | Roleplay |
+| [**Scene 34**](#scene-34) | Great Junction | Mirtul 16, 82 DR (00:30) | Social Challenge |
+| [**Scene 35**](#scene-35) | Great Junction | Mirtul 16, 82 DR (00:30) | Roleplay |
+| [**Scene 36**](#scene-36) | Great Junction | Mirtul 16, 82 DR (00:30) | Social Challenge |
+| [**Scene 37**](#scene-37) | Great Junction | Mirtul 16, 82 DR (00:50) | Roleplay |
+| [**Scene 38**](#scene-38) | The Rat-Run | Mirtul 16, 82 DR (01:05) | Roleplay |
+| [**Scene 39**](#scene-39) | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:10) | Roleplay |
+| [**Scene 40**](#scene-40) | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:20) | Boss Surrender |
+| [**Scene 41**](#scene-41) | The Rat-Run (Cuniculus) | Mirtul 16, 0082 DR (01:20) | Roleplay |
+| [**Scene 42**](#scene-42) | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:30) | Roleplay |
+| [**Scene 43**](#scene-43) | The Rat-Run (Cuniculus) | 0082 Mirtul 16, 01:30:00 | Roleplay |
+| [**Scene 44**](#scene-44) | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:30) | Roleplay |
+| [**Scene 45**](#scene-45) | The Rat-Run (Cuniculus) | Mirtul 16, 82 BCE (01:30) | Roleplay |
+| [**Scene 46**](#scene-46) | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:35) | Roleplay |
+| [**Scene 47**](#scene-47) | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:36) | Boss Surrender |
+| [**Scene 48**](#scene-48) | The Rat-Run (Cuniculus) | Mirtul 16, 82 BCE (01:36) | Roleplay |
+| [**Scene 49**](#scene-49) | The Rat-Run (Cuniculus) | Mirtul 16, 82 DR (01:41) | Roleplay |
+| [**Scene 50**](#scene-50) | The Rat-Run (Cuniculus) |  | Roleplay |
+| [**Scene 51**](#scene-51) | Western Maintenance Sector | Mirtul 16, 0082 DR (01:51) | Roleplay |
+| [**Scene 52**](#scene-52) | Western Maintenance Sector | Mirtul 16, 82 DR (01:56) | Roleplay |
+| [**Scene 53**](#scene-53) | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:06) | Boss Surrender |
+| [**Scene 54**](#scene-54) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
+| [**Scene 55**](#scene-55) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
+| [**Scene 56**](#scene-56) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
+| [**Scene 57**](#scene-57) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
+| [**Scene 58**](#scene-58) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
+| [**Scene 59**](#scene-59) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:06) | Roleplay |
+| [**Scene 60**](#scene-60) | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:07) | Roleplay |
+| [**Scene 61**](#scene-61) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 62**](#scene-62) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 63**](#scene-63) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 64**](#scene-64) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:08) | Roleplay |
+| [**Scene 65**](#scene-65) | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:07) | Roleplay |
+| [**Scene 66**](#scene-66) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 67**](#scene-67) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 68**](#scene-68) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 69**](#scene-69) | Nymphaeum Subterraneum | Mirtul 16, 0082 BCE (02:07) | Roleplay |
+| [**Scene 70**](#scene-70) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 71**](#scene-71) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:07) | Roleplay |
+| [**Scene 72**](#scene-72) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:10) | Roleplay |
+| [**Scene 73**](#scene-73) | Nymphaeum Subterraneum | Mirtul 16, 0082 BCE (02:15) | Roleplay |
+| [**Scene 74**](#scene-74) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:20) | Roleplay |
+| [**Scene 75**](#scene-75) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:25) | Roleplay |
+| [**Scene 76**](#scene-76) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:30) | Social Challenge |
+| [**Scene 77**](#scene-77) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (01:45) | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown | Mirtul 16, 82 DR (01:45) | Roleplay |
+| [**Scene 79**](#scene-79) | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:00) | Roleplay |
+| [**Scene 80**](#scene-80) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:15) | Roleplay |
+| [**Scene 81**](#scene-81) | Nymphaeum Subterraneum | Mirtul 16, 0082 DR (02:00) | Roleplay |
+| [**Scene 82**](#scene-82) | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:15) | Roleplay |
+| [**Scene 83**](#scene-83) | Nymphaeum Subterraneum | Mirtul 16, 82 DR (02:30) | Roleplay |
+| [**Scene 84**](#scene-84) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:30) | Roleplay |
+| [**Scene 85**](#scene-85) | Nymphaeum Subterraneum | Mirtul 16, 82 BCE (02:45) | Roleplay |
+| [**Scene 86**](#scene-86) | The Favissa | Mirtul 16, 82 BCE (02:45) | Roleplay |
+| [**Scene 87**](#scene-87) | The Favissa | Mirtul 16, 82 DR (10:45) | Roleplay |
+| [**Scene 88**](#scene-88) | The Favissa | Mirtul 16, 82 DR (11:00) | Roleplay |
+| [**Scene 89**](#scene-89) | The Favissa | Mirtul 16, 82 DR (11:00) | Roleplay |
+| [**Scene 90**](#scene-90) | The Favissa | Mirtul 16, 82 BCE (11:00) | Roleplay |
+| [**Scene 91**](#scene-91) | The Favissa | Mirtul 16, 82 BCE (11:15) | Roleplay |
+| [**Scene 92**](#scene-92) | The Deep Conduits (Southbound) | Mirtul 16, 82 BCE (12:07) | Roleplay |
+| [**Scene 93**](#scene-93) | The Deep Conduits (Southbound) | Mirtul 16, 0082 DR (12:07) | Roleplay |
+| [**Scene 94**](#scene-94) | The Deep Conduits (Southbound) | Midday, 0082-05-16 (12:07) | Roleplay |
+| [**Scene 95**](#scene-95) | The Deep Conduits (Southbound) | Mirtul 16, 82 DR (12:45) | Roleplay |
+| [**Scene 96**](#scene-96) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:30) | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown | Mirtul 16, 82 DR (15:30) | Roleplay |
+| [**Scene 98**](#scene-98) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:35) | Roleplay |
+| [**Scene 99**](#scene-99) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:35) | Roleplay |
+| [**Scene 100**](#scene-100) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:40) | Social Challenge |
+| [**Scene 101**](#scene-101) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (15:45) | Roleplay |
+| [**Scene 102**](#scene-102) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 DR (15:45) | Roleplay |
+| [**Scene 103**](#scene-103) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 DR (16:00) | Boss Surrender |
+| [**Scene 104**](#scene-104) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:00) | Roleplay |
+| [**Scene 105**](#scene-105) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:00) | Roleplay |
+| [**Scene 106**](#scene-106) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:00) | Roleplay |
+| [**Scene 107**](#scene-107) | Samnite Command Pavilion (Neapolis) | Mirtul 16, 82 DR (16:15) | Roleplay |
+| [**Scene 108**](#scene-108) | Samnite Regrouping Camp (Neapolis) | Mirtul 16, 82 BCE (16:15) | Roleplay |
+| [**Scene 109**](#scene-109) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (17:00) | Roleplay |
+| [**Scene 110**](#scene-110) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (17:00) | Roleplay |
+| [**Scene 111**](#scene-111) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:30) | Roleplay |
+| [**Scene 112**](#scene-112) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (18:35) | Social Challenge |
+| [**Scene 113**](#scene-113) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 BCE (18:40) | Social Challenge |
+| [**Scene 114**](#scene-114) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:45) | Roleplay |
+| [**Scene 115**](#scene-115) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:50) | Roleplay |
+| [**Scene 116**](#scene-116) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (18:55) | Roleplay |
+| [**Scene 117**](#scene-117) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (19:10) | Roleplay |
+| [**Scene 118**](#scene-118) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (19:15) | Roleplay |
+| [**Scene 119**](#scene-119) | Southern Passes (Capua Perimeter) | Mirtul 16, 82 DR (19:25) | Boss Surrender |
+| [**Scene 120**](#scene-120) | Samnite Holdfast (Vultur Ridge) | Mirtul 16, 82 DR (22:30) | Boss Surrender |
+| [**Scene 121**](#scene-121) | Unknown | Mirtul 16, 82 DR (22:30) | Roleplay |
+| [**Scene 122**](#scene-122) | Samnite Holdfast (Vultur Ridge) | Mirtul 17, 82 DR (02:30) | Boss Surrender |
+| [**Scene 123**](#scene-123) | Samnite Holdfast (Vultur Ridge) | Mirtul 17, 82 BCE (02:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Samnite Holdfast (Vultur Ridge) | Mirtul 17, 82 DR (11:15) | Boss Surrender |
+| [**Scene 125**](#scene-125) | The Olive Groves of Nola (Outskirts of the Villa) | Mirtul 17, 82 DR (16:15) | Roleplay |
+| [**Scene 126**](#scene-126) | Service Conduits | Mirtul 17, 82 DR (16:35) | Social Challenge |
+| [**Scene 127**](#scene-127) | Service Conduits | Mirtul 17, 82 DR (16:40) | Social Challenge |
+| [**Scene 128**](#scene-128) | Service Conduits | Mirtul 17, 82 DR (16:45) | Roleplay |
+| [**Scene 129**](#scene-129) | Lower Vestibule | Mirtul 17, 82 DR (16:50) | Social Challenge |
+| [**Scene 130**](#scene-130) | Central Cellar | Mirtul 17, 82 DR (16:55) | Social Challenge |
+| [**Scene 131**](#scene-131) | Unknown | Mirtul 17, 82 DR (16:50) | Roleplay |
+| [**Scene 132**](#scene-132) | Central Cellar | Mirtul 17, 82 BCE (16:50) | Roleplay |
+| [**Scene 133**](#scene-133) | Central Cellar | Mirtul 17, 0082 DR (16:50) | Roleplay |
+| [**Scene 134**](#scene-134) | Central Cellar | Mirtul 17, 0082 DR (16:50) | Roleplay |
+| [**Scene 135**](#scene-135) | Cellarium Centrale | Mirtul 17, 82 DR (16:55) | Social Challenge |
+| [**Scene 136**](#scene-136) | Cellarium Centrale | Mirtul 17, 0082 DR (16:55) | Roleplay |
+| [**Scene 137**](#scene-137) | Cellarium Centrale | Mirtul 17, 82 BCE (16:55) | Roleplay |
+| [**Scene 138**](#scene-138) | Cellarium Centrale | Mirtul 17, 82 DR (17:00) | Roleplay |
+| [**Scene 139**](#scene-139) | Cellarium Centrale | Mirtul 17, 82 BCE (17:05) | Roleplay |
+| [**Scene 140**](#scene-140) | Cellarium Centrale | Mirtul 17, 82 BCE (17:05) | Roleplay |
+| [**Scene 141**](#scene-141) | Cellarium Centrale | Mirtul 17, 82 BCE (17:10) | Roleplay |
+| [**Scene 142**](#scene-142) | Vestibule | Mirtul 17, 82 DR (17:15) | Roleplay |
+| [**Scene 143**](#scene-143) | Vestibule | Mirtul 17, 82 DR (17:15) | Roleplay |
+| [**Scene 144**](#scene-144) | Unknown | Mirtul 17, 82 DR (22:15) | Roleplay |
+| [**Scene 145**](#scene-145) | Vultur Ridge (Samnite Holdfast) | Mirtul 17, 82 BCE (22:15) | Roleplay |
+| [**Scene 146**](#scene-146) | Vultur Ridge (Samnite Holdfast) | Mirtul 17, 82 BCE (22:30) | Roleplay |
+| [**Scene 147**](#scene-147) | Vultur Ridge (Samnite Holdfast) | Mirtul 17, 82 BCE (23:00) | Roleplay |
+| [**Scene 148**](#scene-148) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (07:00) | Roleplay |
+| [**Scene 149**](#scene-149) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:00) | Roleplay |
+| [**Scene 150**](#scene-150) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:15) | Roleplay |
+| [**Scene 151**](#scene-151) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:30) | Roleplay |
+| [**Scene 152**](#scene-152) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:30) | Roleplay |
+| [**Scene 153**](#scene-153) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:30) | Roleplay |
+| [**Scene 154**](#scene-154) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:35) | Roleplay |
+| [**Scene 155**](#scene-155) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:35) | Roleplay |
+| [**Scene 156**](#scene-156) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:40) | Roleplay |
+| [**Scene 157**](#scene-157) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:40) | Roleplay |
+| [**Scene 158**](#scene-158) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 0082 DR (10:40) | Roleplay |
+| [**Scene 159**](#scene-159) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (10:45) | Roleplay |
+| [**Scene 160**](#scene-160) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (10:45) | Roleplay |
+| [**Scene 161**](#scene-161) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 DR (11:30) | Roleplay |
+| [**Scene 162**](#scene-162) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (11:30) | Roleplay |
+| [**Scene 163**](#scene-163) | Vultur Ridge (Samnite Holdfast) | Mirtul 18, 82 BCE (11:30) | Roleplay |
+| [**Scene 164**](#scene-164) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (12:00) | Roleplay |
+| [**Scene 165**](#scene-165) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 BCE (12:30) | Roleplay |
+| [**Scene 166**](#scene-166) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (12:45) | Roleplay |
+| [**Scene 167**](#scene-167) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:00) | Boss Surrender |
+| [**Scene 168**](#scene-168) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:15) | Boss Surrender |
+| [**Scene 169**](#scene-169) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:20) | Boss Surrender |
+| [**Scene 170**](#scene-170) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:20) | Roleplay |
+| [**Scene 171**](#scene-171) | Vultur Ridge (Secondary Vault) | Mirtul 18, 82 DR (13:30) | Roleplay |
+| [**Scene 172**](#scene-172) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (17:30) | Boss Surrender |
+| [**Scene 173**](#scene-173) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 174**](#scene-174) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 175**](#scene-175) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 176**](#scene-176) | Unknown | Mirtul 18, 82 DR (17:30) | Roleplay |
+| [**Scene 177**](#scene-177) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 178**](#scene-178) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 179**](#scene-179) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 180**](#scene-180) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 181**](#scene-181) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 182**](#scene-182) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 183**](#scene-183) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
+| [**Scene 184**](#scene-184) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
+| [**Scene 185**](#scene-185) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 186**](#scene-186) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
+| [**Scene 187**](#scene-187) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:35) | Roleplay |
+| [**Scene 188**](#scene-188) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:30) | Roleplay |
+| [**Scene 189**](#scene-189) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (17:40) | Roleplay |
+| [**Scene 190**](#scene-190) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (17:45) | Roleplay |
+| [**Scene 191**](#scene-191) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (18:00) | Social Challenge |
+| [**Scene 192**](#scene-192) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (18:05) | Roleplay |
+| [**Scene 193**](#scene-193) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:05) | Social Challenge |
+| [**Scene 194**](#scene-194) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (18:20) | Social Challenge |
+| [**Scene 195**](#scene-195) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:20) | Roleplay |
+| [**Scene 196**](#scene-196) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:25) | Roleplay |
+| [**Scene 197**](#scene-197) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:30) | Social Challenge |
+| [**Scene 198**](#scene-198) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:25) | Roleplay |
+| [**Scene 199**](#scene-199) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:35) | Roleplay |
+| [**Scene 200**](#scene-200) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:40) | Roleplay |
+| [**Scene 201**](#scene-201) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:45) | Social Challenge |
+| [**Scene 202**](#scene-202) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:50) | Social Challenge |
+| [**Scene 203**](#scene-203) | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (18:55) | Roleplay |
+| [**Scene 204**](#scene-204) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:55) | Roleplay |
+| [**Scene 205**](#scene-205) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:55) | Social Challenge |
+| [**Scene 206**](#scene-206) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (18:56) | Roleplay |
+| [**Scene 207**](#scene-207) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:01) | Social Challenge |
+| [**Scene 208**](#scene-208) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:01) | Roleplay |
+| [**Scene 209**](#scene-209) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:01) | Roleplay |
+| [**Scene 210**](#scene-210) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:05) | Boss Surrender |
+| [**Scene 211**](#scene-211) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:05) | Roleplay |
+| [**Scene 212**](#scene-212) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:15) | Social Challenge |
+| [**Scene 213**](#scene-213) | Unknown | Mirtul 18, 82 DR (19:15) | Roleplay |
+| [**Scene 214**](#scene-214) | Unknown | Mirtul 18, 82 DR (19:30) | Boss Surrender |
+| [**Scene 215**](#scene-215) | Unknown | Mirtul 18, 82 DR (19:35) | Roleplay |
+| [**Scene 216**](#scene-216) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:35) | Boss Surrender |
+| [**Scene 217**](#scene-217) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:35) | Roleplay |
+| [**Scene 218**](#scene-218) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 DR (19:40) | Social Challenge |
+| [**Scene 219**](#scene-219) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:40) | Roleplay |
+| [**Scene 220**](#scene-220) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Roleplay |
+| [**Scene 221**](#scene-221) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Roleplay |
+| [**Scene 222**](#scene-222) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Roleplay |
+| [**Scene 223**](#scene-223) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:45) | Social Challenge |
+| [**Scene 224**](#scene-224) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:50) | Boss Surrender |
+| [**Scene 225**](#scene-225) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:50) | Boss Surrender |
+| [**Scene 226**](#scene-226) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:55) | Roleplay |
+| [**Scene 227**](#scene-227) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (19:55) | Boss Surrender |
+| [**Scene 228**](#scene-228) | Capua (The Ludus of Batiatus) | Mirtul 18, 82 BCE (20:00) | Boss Surrender |
+| [**Scene 229**](#scene-229) | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:15) | Roleplay |
+| [**Scene 230**](#scene-230) | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:20) | Roleplay |
+| [**Scene 231**](#scene-231) | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:20) | Roleplay |
+| [**Scene 232**](#scene-232) | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:25) | Roleplay |
+| [**Scene 233**](#scene-233) | Capua (The Ludus of Batiatus - Training Pits) | Mirtul 18, 82 BCE (20:25) | Roleplay |
+| [**Scene 234**](#scene-234) | Capua (House of Batiatus - Dining Hall) | Mirtul 18, 82 BCE (21:00) | Roleplay |
+| [**Scene 235**](#scene-235) | Capua (House of Batiatus - Dining Hall) | Mirtul 18, 82 DR (21:05) | Boss Surrender |
+| [**Scene 236**](#scene-236) | Capua (House of Batiatus - Dining Hall) | Mirtul 18, 82 BCE (21:10) | Roleplay |
+| [**Scene 237**](#scene-237) | Capua (House of Batiatus - Guest Chambers) | Mirtul 18, 82 BCE (22:30) | Roleplay |
+| [**Scene 238**](#scene-238) | Capua (House of Batiatus - Guest Chambers) | Mirtul 18, 82 BCE (22:35) | Roleplay |
+| [**Scene 239**](#scene-239) | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:40) | Boss Surrender |
+| [**Scene 240**](#scene-240) | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:45) | Roleplay |
+| [**Scene 241**](#scene-241) | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:45) | Roleplay |
+| [**Scene 242**](#scene-242) | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 BCE (22:50) | Boss Surrender |
+| [**Scene 243**](#scene-243) | Capua (House of Batiatus - Corridors) | Mirtul 18, 82 DR (22:55) | Boss Surrender |
+| [**Scene 244**](#scene-244) | Capua (House of Batiatus - Entrance Courtyard) | Mirtul 19, 82 DR (00:00) | Boss Surrender |
+| [**Scene 245**](#scene-245) | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 BCE (00:00) | Roleplay |
+| [**Scene 246**](#scene-246) | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:05) | Boss Surrender |
+| [**Scene 247**](#scene-247) | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:15) | Boss Surrender |
+| [**Scene 248**](#scene-248) | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 BCE (00:15) | Boss Surrender |
+| [**Scene 249**](#scene-249) | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:20) | Roleplay |
+| [**Scene 250**](#scene-250) | Capua (House of Batiatus - Courtyard) | Mirtul 19, 82 DR (00:30) | Roleplay |
+| [**Scene 251**](#scene-251) | Capua (House of Batiatus - Guest Chambers) | Mirtul 19, 82 BCE (08:30) | Roleplay |
+| [**Scene 252**](#scene-252) | Capua (House of Batiatus - Guest Chambers) | Mirtul 19, 82 BCE (08:40) | Roleplay |
+| [**Scene 253**](#scene-253) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (08:50) | Roleplay |
+| [**Scene 254**](#scene-254) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (08:50) | Roleplay |
+| [**Scene 255**](#scene-255) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (09:00) | Boss Surrender |
+| [**Scene 256**](#scene-256) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:10) | Roleplay |
+| [**Scene 257**](#scene-257) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:20) | Roleplay |
+| [**Scene 258**](#scene-258) | Unknown | Mirtul 19, 82 DR (09:20) | Roleplay |
+| [**Scene 259**](#scene-259) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:30) | Roleplay |
+| [**Scene 260**](#scene-260) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (09:40) | Boss Surrender |
+| [**Scene 261**](#scene-261) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (09:50) | Boss Surrender |
+| [**Scene 262**](#scene-262) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (09:50) | Roleplay |
+| [**Scene 263**](#scene-263) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:00) | Roleplay |
+| [**Scene 264**](#scene-264) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:00) | Roleplay |
+| [**Scene 265**](#scene-265) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:00) | Roleplay |
+| [**Scene 266**](#scene-266) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:15) | Boss Surrender |
+| [**Scene 267**](#scene-267) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
+| [**Scene 268**](#scene-268) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
+| [**Scene 269**](#scene-269) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
+| [**Scene 270**](#scene-270) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 BCE (10:15) | Roleplay |
+| [**Scene 271**](#scene-271) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:30) | Roleplay |
+| [**Scene 272**](#scene-272) | Capua (House of Batiatus - Atrium) | Mirtul 19, 82 DR (10:45) | Roleplay |
+| [**Scene 273**](#scene-273) | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:00) | Roleplay |
+| [**Scene 274**](#scene-274) | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:30) | Boss Surrender |
+| [**Scene 275**](#scene-275) | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:35) | Boss Surrender |
+| [**Scene 276**](#scene-276) | House of Batiatus - Private Solar | Mirtul 19, 82 DR (11:36) | Roleplay |
+| [**Scene 277**](#scene-277) | House of Batiatus - Private Solar to Training Pits | Mirtul 19, 82 DR (11:50) | Roleplay |
+| [**Scene 278**](#scene-278) | House of Batiatus - Training Pits | Mirtul 19, 82 DR (11:51) | Roleplay |
+| [**Scene 279**](#scene-279) | House of Batiatus - Training Pits | Mirtul 19, 82 BCE (12:00) | Roleplay |
+| [**Scene 280**](#scene-280) | House of Batiatus - Training Pits | Mirtul 19, 82 BCE (13:00) | Roleplay |
+| [**Scene 281**](#scene-281) | House of Batiatus - The Upper Gallery | Mirtul 19, 82 DR (13:10) | Boss Surrender |
+| [**Scene 282**](#scene-282) | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (13:10) | Roleplay |
+| [**Scene 283**](#scene-283) | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (13:30) | Boss Surrender |
+| [**Scene 284**](#scene-284) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (13:40) | Boss Surrender |
+| [**Scene 285**](#scene-285) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (13:50) | Boss Surrender |
+| [**Scene 286**](#scene-286) | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (14:00) | Roleplay |
+| [**Scene 287**](#scene-287) | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (14:15) | Social Challenge |
+| [**Scene 288**](#scene-288) | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (14:20) | Roleplay |
+| [**Scene 289**](#scene-289) | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (14:20) | Roleplay |
+| [**Scene 290**](#scene-290) | House of Batiatus - Upper Gallery | Mirtul 19, 82 BCE (14:30) | Roleplay |
+| [**Scene 291**](#scene-291) | House of Batiatus - Main Gates | Mirtul 19, 82 BCE (16:30) | Roleplay |
+| [**Scene 292**](#scene-292) | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:30) | Roleplay |
+| [**Scene 293**](#scene-293) | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:30) | Boss Surrender |
+| [**Scene 294**](#scene-294) | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:30) | Roleplay |
+| [**Scene 295**](#scene-295) | House of Batiatus - Courtyard | Mirtul 19, 82 DR (16:40) | Boss Surrender |
+| [**Scene 296**](#scene-296) | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:45) | Social Challenge |
+| [**Scene 297**](#scene-297) | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (16:50) | Roleplay |
+| [**Scene 298**](#scene-298) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (16:55) | Boss Surrender |
+| [**Scene 299**](#scene-299) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:05) | Boss Surrender |
+| [**Scene 300**](#scene-300) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:05) | Roleplay |
+| [**Scene 301**](#scene-301) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:05) | Roleplay |
+| [**Scene 302**](#scene-302) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:10) | Social Challenge |
+| [**Scene 303**](#scene-303) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:15) | Roleplay |
+| [**Scene 304**](#scene-304) | House of Batiatus - Dining Hall | Mirtul 19, 82 DR (17:20) | Roleplay |
+| [**Scene 305**](#scene-305) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:25) | Roleplay |
+| [**Scene 306**](#scene-306) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:30) | Boss Surrender |
+| [**Scene 307**](#scene-307) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:30) | Roleplay |
+| [**Scene 308**](#scene-308) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:35) | Roleplay |
+| [**Scene 309**](#scene-309) | House of Batiatus - Dining Hall | Mirtul 19, 82 BCE (17:35) | Roleplay |
+| [**Scene 310**](#scene-310) | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (17:35) | Roleplay |
+| [**Scene 311**](#scene-311) | House of Batiatus - Courtyard | Mirtul 19, 82 DR (17:50) | Roleplay |
+| [**Scene 312**](#scene-312) | House of Batiatus - Courtyard | Mirtul 19, 82 BCE (18:05) | Roleplay |
+| [**Scene 313**](#scene-313) | House of Batiatus - Courtyard | Mirtul 19, 82 DR (18:20) | Roleplay |
+| [**Scene 314**](#scene-314) | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (18:35) | Roleplay |
+| [**Scene 315**](#scene-315) | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (18:50) | Roleplay |
+| [**Scene 316**](#scene-316) | House of Batiatus - Private Solar | Mirtul 19, 82 DR (19:05) | Boss Surrender |
+| [**Scene 317**](#scene-317) | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (19:15) | Boss Surrender |
+| [**Scene 318**](#scene-318) | House of Batiatus - Private Solar | Mirtul 19, 82 BCE (19:20) | Roleplay |
+| [**Scene 319**](#scene-319) | House of Batiatus - Private Solar | Mirtul 19, 82 DR (19:25) | Boss Surrender |
+| [**Scene 320**](#scene-320) | House of Batiatus - Private Solar | Mirtul 19, 82 DR (19:30) | Boss Surrender |
+| [**Scene 321**](#scene-321) | Marcus Pacuvius - Private Estate | Mirtul 19, 82 BCE (20:15) | Boss Surrender |
+| [**Scene 322**](#scene-322) | Marcus Pacuvius - Private Estate | Mirtul 19, 0082 BCE (20:15) | Roleplay |
+| [**Scene 323**](#scene-323) | Marcus Pacuvius - Private Estate | Mirtul 19, 82 BCE (21:00) | Roleplay |
+| [**Scene 324**](#scene-324) | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (22:00) | Roleplay |
+| [**Scene 325**](#scene-325) | Unknown | Mirtul 19, 82 DR (23:30) | Roleplay |
+| [**Scene 326**](#scene-326) | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 327**](#scene-327) | House of Batiatus / Appian Way Hub | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 328**](#scene-328) | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 329**](#scene-329) | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 330**](#scene-330) | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 331**](#scene-331) | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 332**](#scene-332) | Appian Way Watchtower (Primary Hub) | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 333**](#scene-333) | House of Batiatus (Capua) |  | Roleplay |
+| [**Scene 334**](#scene-334) | House of Batiatus | Mirtul 19, 82 BCE (23:30) | Roleplay |
+| [**Scene 335**](#scene-335) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:00) | Boss Surrender |
+| [**Scene 336**](#scene-336) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:15) | Roleplay |
+| [**Scene 337**](#scene-337) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:15) | Roleplay |
+| [**Scene 338**](#scene-338) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (00:20) | Social Challenge |
+| [**Scene 339**](#scene-339) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (00:25) | Boss Surrender |
+| [**Scene 340**](#scene-340) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (00:35) | Boss Surrender |
+| [**Scene 341**](#scene-341) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (00:50) | Roleplay |
+| [**Scene 342**](#scene-342) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (01:05) | Social Challenge |
+| [**Scene 343**](#scene-343) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:05) | Roleplay |
+| [**Scene 344**](#scene-344) | Marcus Pacuvius's Villa (Capua) - Private Solar | Mirtul 20, 82 BCE (01:10) | Boss Surrender |
+| [**Scene 345**](#scene-345) | Private Solar of Marcus Pacuvius (Capua) | Mirtul 20, 82 BCE (01:15) | Roleplay |
+| [**Scene 346**](#scene-346) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (01:15) | Boss Surrender |
+| [**Scene 347**](#scene-347) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:15) | Roleplay |
+| [**Scene 348**](#scene-348) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:15) | Roleplay |
+| [**Scene 349**](#scene-349) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (01:25) | Boss Surrender |
+| [**Scene 350**](#scene-350) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 351**](#scene-351) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 352**](#scene-352) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 353**](#scene-353) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 354**](#scene-354) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 355**](#scene-355) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 356**](#scene-356) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 357**](#scene-357) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 358**](#scene-358) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 359**](#scene-359) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (01:25) | Roleplay |
+| [**Scene 360**](#scene-360) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (09:30) | Roleplay |
+| [**Scene 361**](#scene-361) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (10:00) | Roleplay |
+| [**Scene 362**](#scene-362) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:00) | Roleplay |
+| [**Scene 363**](#scene-363) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:05) | Social Challenge |
+| [**Scene 364**](#scene-364) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 DR (10:10) | Roleplay |
+| [**Scene 365**](#scene-365) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:15) | Roleplay |
+| [**Scene 366**](#scene-366) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:20) | Boss Surrender |
+| [**Scene 367**](#scene-367) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:25) | Boss Surrender |
+| [**Scene 368**](#scene-368) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:30) | Boss Surrender |
+| [**Scene 369**](#scene-369) | Marcus Pacuvius's Villa (Capua) | Mirtul 20, 82 BCE (10:30) | Roleplay |
+| [**Scene 370**](#scene-370) | Atrium | Mirtul 20, 82 BCE (11:30) | Roleplay |
+| [**Scene 371**](#scene-371) | Atrium | Mirtul 20, 82 DR (11:35) | Roleplay |
+| [**Scene 372**](#scene-372) | Atrium | Mirtul 20, 82 DR (11:45) | Social Challenge |
+| [**Scene 373**](#scene-373) | Atrium | Mirtul 20, 82 DR (11:50) | Roleplay |
+| [**Scene 374**](#scene-374) | Atrium | Mirtul 20, 82 BCE (11:55) | Roleplay |
+| [**Scene 375**](#scene-375) | Atrium | Mirtul 20, 82 DR (12:00) | Roleplay |
+| [**Scene 376**](#scene-376) | Atrium | Mirtul 20, 82 DR (12:15) | Boss Surrender |
+| [**Scene 377**](#scene-377) | Atrium | Mirtul 20, 82 DR (12:30) | Boss Surrender |
+| [**Scene 378**](#scene-378) | Atrium | Mirtul 20, 82 BCE (12:30) | Roleplay |
+| [**Scene 379**](#scene-379) | Atrium | Mirtul 20, 82 DR (12:30) | Roleplay |
+| [**Scene 380**](#scene-380) | Atrium | Mirtul 20, 82 DR (16:30) | Roleplay |
+| [**Scene 381**](#scene-381) | Atrium | Mirtul 20, 82 BCE (16:45) | Boss Surrender |
+| [**Scene 382**](#scene-382) | Training Pits | Mirtul 20, 82 DR (18:30) | Boss Surrender |
+| [**Scene 383**](#scene-383) | Training Pits | Mirtul 20, 82 BCE (18:30) | Boss Surrender |
+| [**Scene 384**](#scene-384) | Training Pits | Mirtul 21, 82 DR (01:00) | Roleplay |
+| [**Scene 385**](#scene-385) | Guest Chambers | Mirtul 21, 82 DR (09:30) | Roleplay |
+| [**Scene 386**](#scene-386) | Guest Chambers | Mirtul 21, 82 BCE (09:35) | Roleplay |
+| [**Scene 387**](#scene-387) | Guest Chambers | Mirtul 21, 82 DR (10:00) | Roleplay |
+| [**Scene 388**](#scene-388) | Guest Chambers | Mirtul 21, 82 BCE (10:15) | Roleplay |
+| [**Scene 389**](#scene-389) | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 DR (10:20) | Social Challenge |
+| [**Scene 390**](#scene-390) | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:20) | Roleplay |
+| [**Scene 391**](#scene-391) | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:25) | Boss Surrender |
+| [**Scene 392**](#scene-392) | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:25) | Roleplay |
+| [**Scene 393**](#scene-393) | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 DR (10:40) | Boss Surrender |
+| [**Scene 394**](#scene-394) | Sullan Intelligence Node (Capua Sewers) | Mirtul 21, 82 BCE (10:55) | Boss Surrender |
+| [**Scene 395**](#scene-395) | Subterranean Approach | Mirtul 21, 82 BCE (11:15) | Roleplay |
+| [**Scene 396**](#scene-396) | Northern Ridge Tower Alpha Lower Wards | Mirtul 21, 82 DR (11:30) | Roleplay |
+| [**Scene 397**](#scene-397) | Tower Alpha Central Lift Shaft | Mirtul 21, 82 DR (11:35) | Roleplay |
+| [**Scene 398**](#scene-398) | Tower Alpha Upper Sanctum | Mirtul 21, 82 DR (11:40) | Social Challenge |
+| [**Scene 399**](#scene-399) | Tower Alpha Upper Sanctum | Mirtul 21, 82 DR (12:00) | Roleplay |
+| [**Scene 400**](#scene-400) | Tower Alpha Upper Sanctum | Mirtul 21, 82 BCE (12:30) | Roleplay |
+| [**Scene 401**](#scene-401) | Appian Ridge Killing Field | Mirtul 21, 82 DR (13:00) | Roleplay |
+| [**Scene 402**](#scene-402) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Roleplay |
+| [**Scene 403**](#scene-403) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Roleplay |
+| [**Scene 404**](#scene-404) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Roleplay |
+| [**Scene 405**](#scene-405) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:00) | Social Challenge |
+| [**Scene 406**](#scene-406) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:05) | Social Challenge |
+| [**Scene 407**](#scene-407) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:05) | Roleplay |
+| [**Scene 408**](#scene-408) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (13:10) | Roleplay |
+| [**Scene 409**](#scene-409) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:10) | Roleplay |
+| [**Scene 410**](#scene-410) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:10) | Roleplay |
+| [**Scene 411**](#scene-411) | Unknown | Mirtul 21, 82 DR (17:10) | Roleplay |
+| [**Scene 412**](#scene-412) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:15) | Roleplay |
+| [**Scene 413**](#scene-413) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
+| [**Scene 414**](#scene-414) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:45) | Roleplay |
+| [**Scene 415**](#scene-415) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:45) | Roleplay |
+| [**Scene 416**](#scene-416) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:45) | Roleplay |
+| [**Scene 417**](#scene-417) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
+| [**Scene 418**](#scene-418) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
+| [**Scene 419**](#scene-419) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
+| [**Scene 420**](#scene-420) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
+| [**Scene 421**](#scene-421) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:30) | Roleplay |
+| [**Scene 422**](#scene-422) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:35) | Roleplay |
+| [**Scene 423**](#scene-423) | Appian Ridge Killing Field | Mirtul 21, 82 BCE (17:35) | Roleplay |
+| [**Scene 424**](#scene-424) | Sky above the Northern Campania Ridges | Mirtul 21, 82 BCE (18:20) | Roleplay |
+| [**Scene 425**](#scene-425) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:30) | Roleplay |
+| [**Scene 426**](#scene-426) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:30) | Roleplay |
+| [**Scene 427**](#scene-427) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
+| [**Scene 428**](#scene-428) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
+| [**Scene 429**](#scene-429) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
+| [**Scene 430**](#scene-430) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:40) | Roleplay |
+| [**Scene 431**](#scene-431) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
+| [**Scene 432**](#scene-432) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
+| [**Scene 433**](#scene-433) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
+| [**Scene 434**](#scene-434) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:45) | Roleplay |
+| [**Scene 435**](#scene-435) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:50) | Roleplay |
+| [**Scene 436**](#scene-436) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:55) | Roleplay |
+| [**Scene 437**](#scene-437) | Thracian Tribal Camp | Mirtul 21, 82 BCE (18:58) | Roleplay |
+| [**Scene 438**](#scene-438) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:03) | Boss Surrender |
+| [**Scene 439**](#scene-439) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:08) | Social Challenge |
+| [**Scene 440**](#scene-440) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
+| [**Scene 441**](#scene-441) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
+| [**Scene 442**](#scene-442) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
+| [**Scene 443**](#scene-443) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:15) | Roleplay |
+| [**Scene 444**](#scene-444) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:20) | Social Challenge |
+| [**Scene 445**](#scene-445) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:20) | Social Challenge |
+| [**Scene 446**](#scene-446) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:20) | Social Challenge |
+| [**Scene 447**](#scene-447) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
+| [**Scene 448**](#scene-448) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
+| [**Scene 449**](#scene-449) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
+| [**Scene 450**](#scene-450) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
+| [**Scene 451**](#scene-451) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
+| [**Scene 452**](#scene-452) | Thracian Tribal Camp | Mirtul 21, 82 BCE (19:25) | Roleplay |
+| [**Scene 453**](#scene-453) | Thracian Tribal Camp | Mirtul 21, 82 DR (23:30) | Boss Surrender |
+| [**Scene 454**](#scene-454) | Thracian Tribal Camp | Mirtul 21, 82 BCE (23:30) | Roleplay |
+| [**Scene 455**](#scene-455) | Thracian Tribal Camp | Mirtul 21, 82 DR (23:30) | Boss Surrender |
+| [**Scene 456**](#scene-456) | Thracian Tribal Camp | Mirtul 22, 82 DR (05:30) | Roleplay |
+| [**Scene 457**](#scene-457) | Thracian Tribal Camp | Mirtul 22, 82 DR (05:30) | Roleplay |
+| [**Scene 458**](#scene-458) | Thracian Tribal Camp | Mirtul 22, 82 BCE (05:30) | Roleplay |
+| [**Scene 459**](#scene-459) | Thracian Tribal Camp | Mirtul 22, 82 Pax Julia (05:30) | Boss Surrender |
+| [**Scene 460**](#scene-460) | Thracian Tribal Camp | Mirtul 22, 82 BCE (05:30) | Boss Surrender |
+| [**Scene 461**](#scene-461) | Thracian Tribal Camp | Mirtul 22, 82 DR (05:45) | Boss Surrender |
+| [**Scene 462**](#scene-462) | Thracian Tribal Camp | Mirtul 22, 82 BCE (05:45) | Roleplay |
+| [**Scene 463**](#scene-463) | Private Solar of Marcus Pacuvius | Mirtul 29, 82 DR (18:00) | Roleplay |
+| [**Scene 464**](#scene-464) | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 DR (10:00) | Roleplay |
+| [**Scene 465**](#scene-465) | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (10:00) | Roleplay |
+| [**Scene 466**](#scene-466) | The Great Amphitheater of Capua - Gladiator Pits | Mirtul 30, 82 BCE (10:15) | Boss Surrender |
+| [**Scene 467**](#scene-467) | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 DR (10:45) | Social Challenge |
+| [**Scene 468**](#scene-468) | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (11:00) | Roleplay |
+| [**Scene 469**](#scene-469) | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 DR (11:30) | Boss Surrender |
+| [**Scene 470**](#scene-470) | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (11:35) | Roleplay |
+| [**Scene 471**](#scene-471) | The Great Amphitheater of Capua - Imperial Box | Mirtul 30, 82 BCE (11:45) | Roleplay |
+| [**Scene 472**](#scene-472) | The Appian Gates of Capua | Mirtul 30, 82 DR (12:45) | Boss Surrender |
+| [**Scene 473**](#scene-473) | The Appian Gates of Capua | Mirtul 30, 82 BCE (12:45) | Roleplay |
+| [**Scene 474**](#scene-474) | The Appian Way | Mirtul 30, 82 DR (18:00) | Boss Surrender |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -1415,8 +1431,11 @@ Review your divinity, Gaia. Does this profile match the hunger in your soul, or 
 God Mode:
 First look at the campaign I gave you and tell me about any balance concerns. Also put all my str into dex and make me a dex paladin
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Administrative Interface (Story Paused)** &nbsp;|&nbsp; ⏳ **Mirtul 1, 82 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 12/12 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1426,8 +1445,11 @@ You pause to consider your options...
 God Mode:
 Give me reasonable starting gear and weapons and items and gold. Also how does the campaign start?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -1443,8 +1465,11 @@ Give me reasonable starting gear and weapons and items and gold. Also how does t
 
 📊
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Rome (Administrative Interface)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 BCE (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 12/12 | XP: 0/300 | Gold: 150gp**
@@ -1458,8 +1483,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin the Escape - Resume the narrative in the Subura safehouse as the Red Centurions approach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Subura Safehouse, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 12/12 | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Class: Auctoritas, Exhaustion: 0**
@@ -1475,8 +1503,11 @@ Your breath hitches as a sharp spike of heat blossoms behind your eyes. The Mias
 > [!NOTE] ⚙️ **Player Choice:**
 > *Burn and Blur - Kick over the braziers to create a smoke screen and use the chaos to slip through the side window into the alleys.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Subura Alleys, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:16)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 12/12 | XP: 350/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Auctoritas: Available, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1497,8 +1528,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Apply level 2 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -1536,8 +1570,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 God Mode:
 Am I level 2 now with everything saved?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Subura Alleys, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 BCE (22:16)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 350/900 | Gold: 150gp**
@@ -1547,8 +1584,11 @@ You pause to consider your options...
 God Mode:
 Detailed Stat Audit - Provide a full breakdown of current attributes, modifiers, and derived stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Subura Alleys, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 BCE (22:16)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 350/900 | Gold: 150gp**
@@ -1558,8 +1598,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your escape through the smoke-filled alleys of the Subura.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Subura Alleys, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 BCE (22:16)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 350/900 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 0/2, Spells: L1 0/3, Auctoritas: Available, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Level Up Processed | Exhaustion: 0 | Inspiration: No**
@@ -1569,8 +1612,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit God Mode and resume the escape*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Subura Alleys, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 350/900 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 0/2, Spells: L1 0/3, Auctoritas: Available, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1584,8 +1630,11 @@ As you round a corner near the base of the Viminal Hill, the air changes. The sm
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Lie - Use your high Charisma and Julian signet ring to pose as a noble caught in the riot, demanding passage to the river.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Subura Alleys, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 350/900 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Exhaustion: 0**
@@ -1601,8 +1650,11 @@ The lead guard, a grizzled veteran with a dented helmet, freezes. He looks at yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Locate Cinnaminus - Scan the salt warehouses for the Marian contact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **River Docks / Salt Warehouses, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 650/900 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1614,8 +1666,11 @@ But the Subura is a kaleidoscope of terror tonight. Every figure huddled in a do
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Julian Call - Use a subtle signal or call that only a Marian contact would recognize*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Salt Warehouses, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 650/900 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Exhaustion: 0**
@@ -1631,8 +1686,11 @@ For a moment, there is only the sound of the rain and the guards shifting their 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bribe for Silence - Offer the guards a handful of gold to &#x27;forget&#x27; they saw which warehouse you entered.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Salt Warehouses, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 750/900 | Gold: 130gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Exhaustion: 0**
@@ -1648,8 +1706,11 @@ Cinnaminus watches them go, a thin, cynical smile touching his lips. 'Expensive 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Cinnaminus - Descend into the darkness of the subterranean passages.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Subterranean Passages, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1663,8 +1724,11 @@ The air here is thick and heavy, pressing against your skin like a damp shroud. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question the Guide - Ask Cinnaminus about the &#x27;Red Cloaks&#x27; and why they are specifically targeting the river gates tonight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Subterranean Passages, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1682,8 +1746,11 @@ You watch his back, trying to read the tension in his frame, but the Miasma choo
 > 👤 **Player:**
 > *"Shouldn't that have been a persuasion check? Also let's assume I took proficiency in intimidation and persuasion and deception"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Cloaca Maxima, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Miasma Pulse (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1699,8 +1766,11 @@ He leads you forward, the ancient stone arches of the Cloaca Maxima looming over
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Path - Use your Miasma-heightened senses to scan for traps or ambushes in the tunnels ahead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Potions: 0** &nbsp;|&nbsp; ⚠️ **Miasma Pulse | Exhaustion: 0 | Inspiration: No**
@@ -1712,8 +1782,11 @@ But the Cloaca Maxima is an old, deep beast, and its shadows are thick with cent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Tactical Sense - Use your Miasma-born Tactical Sense to detect the HP and presence of any creatures within 60 feet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Potions: 0** &nbsp;|&nbsp; ⚠️ **Miasma Sight (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1733,8 +1806,11 @@ They are small, humanoid, and their heartbeats carry the ragged, uneven rhythm o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Halt and Warn - Signal Cinnaminus and the others to stop and prepare for an ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Auctoritas: Available, Potions: 0, Exhaustion: 0**
@@ -1748,8 +1824,11 @@ Cinnaminus’s eyes go wide, his sparrow-like gaze darting toward the dark alcov
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Use your Auctoritas and the &#x27;Command&#x27; spell to force them to reveal themselves and yield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3 (1 slot used for Command), Auctoritas: Available** &nbsp;|&nbsp; ⚠️ **Tactical Sense (Active) | Exhaustion: 0**
@@ -1765,8 +1844,11 @@ For a heartbeat, the darkness recoils. You hear a sharp intake of breath, the cl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Sanctuary - Offer them a place in your &#x27;New Rome&#x27; to break their loyalty to their fear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Imperator | HP: 22/22 | XP: 850/900 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3 (Command used), Auctoritas: Available** &nbsp;|&nbsp; ⚠️ **Tactical Sense (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1791,8 +1873,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1835,8 +1920,11 @@ If you continue adventuring, you remain Level 3 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -1858,8 +1946,11 @@ Your adventure awaits, Imperator. The mists of the subterranean world are yours 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Recruits - Question your new followers to determine their skills and names.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1050/2700 | Gold: 110gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Miasma-Sonance (Tactical Sense Active) | Exhaustion: 0 | Inspiration: No**
@@ -1875,8 +1966,11 @@ Your *Auctoritas* pulses, and through the gold-grey wireframe of your Miasma-sig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Arm the Recruits - Provide them with any spare daggers or tools to ensure they can defend the rearguard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1000/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/4 used (3 rem), L2 0/2 used (2 rem), Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0**
@@ -1894,8 +1988,11 @@ As you begin to move deeper into the colossal vaulted tunnels, you notice a subt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Bypass - Use Varro&#x27;s masonry knowledge to look for side-conduits or forgotten maintenance hatches that might bypass the Great Junction entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 15, 82 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1050/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 2/2, Channel Divinity: 1/1, Exhaustion: 0**
@@ -1909,8 +2006,11 @@ But the Great Junction is a colossal knot of Roman engineering, designed to be i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Ahead - Send Cinnaminus forward to parley or scout; he is the most &#x27;invisible&#x27; member.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Cloaca Maxima, Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1000/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 2/2, Channel Divinity: 1/1, Exhaustion: 0**
@@ -1926,8 +2026,11 @@ He glances back at the glowing archway. 'The reek of the pitch will mask our sce
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Marians - Walk into the Junction and attempt to rally the Marian cells to your cause.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1000/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1960,8 +2063,11 @@ Behind him, the men shift their weight, their rusted blades gleaming. Before you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prove Your Blood - Use the Miasma or a specific Julian family secret to prove you are Caesar&#x27;s niece beyond doubt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1150/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 0/3, Spells: L1 1/4, L2 0/2, Channel Divinity: 0/1, Exhaustion: 0**
@@ -1985,8 +2091,11 @@ Decimus staggers back a step, his blade dipping, eyes widening in raw recognitio
 > 👤 **Player:**
 > *"THINK:any other reason they'd want to ally up beyond noble blood?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **0082 Mirtul 16, 00:20:01** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1150/2700 | Gold: 120gp**
@@ -1998,8 +2107,11 @@ The acrid smell of burning oil and the frantic splashing from the vents above ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Tactical Salvation - Focus on the immediate oil threat to prove your value as a commander*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1300/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 0/3, Spells: L1 1/4, L2 0/2, Channel Divinity: 0/1, Exhaustion: 0**
@@ -2011,8 +2123,11 @@ While your blood is a potent symbol, you realize these men are driven by more th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Tactical Salvation - Coordinate Varro and the Marians to seal the vents and trap the Cloaks&#x27; oil against them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1450/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 0/3, Spells: L1 1/4, L2 0/2, Channel Divinity: 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2037,8 +2152,11 @@ The vault erupts into motion. The Marian outcasts, moments ago a wall of suspici
 God Mode:
 add more explanations for stuff, I'm not as familiar with roman things
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1450/2700 | Gold: 120gp**
@@ -2048,8 +2166,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the tactical defense of the Great Junction with your new explanations active*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1600/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 0/3, Spells: L1 1/4, L2 0/2, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Miasma-heightened | Exhaustion: 0 | Inspiration: No**
@@ -2077,8 +2198,11 @@ In Roman history, the Tenth Legion (*Legio X*) was Julius Caesar's favorite, kno
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize the Sluice Diversion - Focus all efforts on the bronze winches to drain the oil into the lower deeps before the fire arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Great Junction, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1675/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Miasma-Heightened | Exhaustion: 0 | Inspiration: No**
@@ -2100,8 +2224,11 @@ Decimus wipes a smear of black sludge from his brow, his breathing ragged as he 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Evacuate via the Rat-Run - Use Varro and Cinnaminus to navigate the narrow builders&#x27; tunnels to bypass the coming fire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Rat-Run, Cloaca Maxima** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 40/40 | XP: 1900/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Miasma-Sight (Active), Augur Hunt (Imminent) | Exhaustion: 0 | Inspiration: No**
@@ -2120,8 +2247,11 @@ Varro leads from the front, his mason's instincts guiding you through the 'dead'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mask Your Presence - Use your Miasma to create a &#x27;static&#x27; field, hiding the party&#x27;s signatures at the cost of psychic strain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 1900/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 2/2, Channel Divinity: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Psychic Strain (1), Hidden | Exhaustion: 0 | Inspiration: No**
@@ -2149,8 +2279,11 @@ Decimus and his veterans go still, their hands tightening on their weapons. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Double-Time March - Push the cohort to a &#x27;Speed March&#x27; pace through the narrow cuniculus to exit the search zone before the Augurs can triangulate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2050/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2180,8 +2313,11 @@ You gain **150 XP** for leading the forced march and securing the absolute loyal
 God Mode:
 what does he mean by soul burn
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 0082 DR (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2050/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2205,8 +2341,11 @@ You just used your Miasma to create a 'fragor' (psychic static) and then pushed 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find a Subterranean Holdfast - Use Varro&#x27;s knowledge to find a defensible &#x27;pocket&#x27; in the masonry for a short rest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2050/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2222,8 +2361,11 @@ As you pause, the cold pressure of the **Augurs** returns, no longer a broad swe
 > 👤 **Player:**
 > *"THINK:if we coutner ambush could we take them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **0082 Mirtul 16, 01:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2050/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 2/2, CD: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2233,8 +2375,11 @@ You lean against the weeping stone, the cold dampness seeping through your leath
 > 👤 **Player:**
 > *"Plan next moves with the men. How likely counter ambush to succeed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2050/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2244,8 +2389,11 @@ You lean against the weeping stone of the cuniculus, the metallic tang of your '
 God Mode:
 What's my family history in detail?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2050/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2281,8 +2429,11 @@ Your family history is currently a story of 'The Hunted,' but your visions show 
 > 👤 **Player:**
 > *"Let's do masons insidae but try for a surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2200/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2305,8 +2456,11 @@ You gain **150 XP** for the masterful setup of the masonry ambush.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trigger the Cave-In - Wait for the lead hounds to pass, then have Varro drop the ceiling to cut off the vanguard from their support.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:36)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2350/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2339,8 +2493,11 @@ Decimus emerges from the dust-haze, his face a pale mask of religious awe. 'The 
 God Mode:
 Is Rome still a republic ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (01:36)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2350/2700 | Gold: 120gp**
@@ -2370,8 +2527,11 @@ In standard history, the Republic limps on for another 40 years until your uncle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the escape from the Rat-Run now that the political history is clear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2350/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 2/2, Channel Divinity: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2387,8 +2547,11 @@ You feel it then—a persistent, low-level hum of psychic pressure grinding agai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Vanish into the Deeps - Slip through the narrow maintenance hatches before the diggers break through, resetting the hunt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Rat-Run (Cuniculus), Subterranean Rome** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2350/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2408,8 +2571,11 @@ Then, the psychic pressure of the **Augurs** snaps from a wide-net sweep into a 
 > 👤 **Player:**
 > *"THINK:Plan counter ambush to just kill them. Assess my numbers and estimate theirs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Western Maintenance Sector, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 0082 DR (01:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2350/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2421,8 +2587,11 @@ You pause, leaning your forehead against the cold, damp iron of the conduit wall
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Solar Backlash - Purposely flare your Miasma to draw the Augurs&#x27; full focus, then have Servilia (if present) or your own will &#x27;snap&#x27; the connection to cause a psychic aneurysm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Western Maintenance Sector, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:56)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 36/40 | XP: 2350/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 2/2, Channel Divinity: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2446,8 +2615,11 @@ Behind you, the silence on the other side of the debris wall is replaced by a ne
 > 👤 **Player:**
 > *"Continue until a good ambush spot is found"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2482,8 +2654,11 @@ Behind you, the hammering at the hatch has stopped. The Red Cloaks have breached
 God Mode:
 What spells do I have
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2521,8 +2696,11 @@ As a Level 3 Imperator, your 'Auctoritas' provides access to a specialized list 
 God Mode:
 Fix my spells in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2539,8 +2717,11 @@ I have also verified that your spell slots are correctly set to 4 (1st Level) an
 God Mode:
 Fix my items and give them proper stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2559,8 +2740,11 @@ All items now have their full D&D 5E SRD mechanical data persisted to the game s
 God Mode:
 What's a focus for?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2581,8 +2765,11 @@ Using a focus (especially a ring or a weapon) means you don't need a free hand t
 > 👤 **Player:**
 > *"THINK:How to best handle situation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2592,8 +2779,11 @@ You pause, your boots slick with the ancient algae of the Nymphaeum as you stare
 God Mode:
 Switch my int and con stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 39/40 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2609,8 +2799,11 @@ Understood. I have swapped your Intelligence and Constitution base attributes. Y
 > 👤 **Player:**
 > *"Cast command grovel on hound and everyone kill it first t"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Nymphaeum Subterraneum, Subterranean Rome** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 37/37 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2630,8 +2823,11 @@ The hound's form is already beginning to dissipate, its anchor in this timeline 
 God Mode:
 Shouldn't more than 3 people be attacking
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 37/37 | XP: 2450/2700 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2665,8 +2861,11 @@ In D&D 5E and this campaign guide, 'The Tenth' is treated as a **Unit/Mob** to k
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Sweep - Personally execute the hound while coordinating the Tenth to take the high ledges for a ranged ambush on the entering trackers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Imperator | HP: 37/37 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 2/2 | Channel Divinity: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2709,8 +2908,11 @@ If you continue adventuring, you remain Level 4 and defer these benefits until y
 God Mode:
 Level up to 4 and take +2 cha and tell me my spell save DC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 | XP: 3,500/6,500 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2734,8 +2936,11 @@ Your ability to command reality has reached a new threshold of authority. Here i
 > 👤 **Player:**
 > *"Allow ranged units to fire and hang back with melee forces for now and get in good position ideally ambush if possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:08)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 37/48 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/4, L2 3/3, Channel Divinity: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2763,8 +2968,11 @@ INITIATIVE ORDER:
 God Mode:
 Let's not have the republic be fully gone. Sulla is the strongest faction and leader and dictator but the consuls and senate etc still hold power and mean something and different factions have different levels of allegiance towards him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 37/48 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2779,8 +2987,11 @@ I have updated the game state to reflect a spectrum of allegiances:
 > 👤 **Player:**
 > *"THINK:Think of a good plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 37/48 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/4, L2 3/3, Channel Divinity: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2790,8 +3001,11 @@ You lean your shoulder against the cold, weeping marble of a goddess statue, the
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dragon&#x27;s Breath - Cast Thunderwave to shatter the wedge&#x27;s integrity while simultaneously coordinating the Tenth to drop their suppression and volley the exposed trackers behind the shield-line.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 37/48 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/4, L2 3/3, Channel Divinity: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Inspiration: No**
@@ -2811,8 +3025,11 @@ The formation is broken, and the reek of ozone and wet iron fills the air. The t
 > 👤 **Player:**
 > *"THINK:What are my numbers and levels of my men vs enemy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/4, L2 3/3, Channel Divinity: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2826,8 +3043,11 @@ Opposing you are approximately 10 **Red Cloak Trackers** currently in the chambe
 > 👤 **Player:**
 > *"Cast guidance on myself then eagle cry, Julian lunge and order ranged to destroy the hatch."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 0082 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 3/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1), Guidance | Inspiration: No**
@@ -2845,8 +3065,11 @@ Decimus and his men attempt to pivot their fire, shifting from the scattered van
 > 👤 **Player:**
 > *"Close distance but I use thunder wave to break the hatch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 37/48 | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 3/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2866,8 +3089,11 @@ Behind the front line, more blackened visors appear in the gloom of the conduit.
 > 👤 **Player:**
 > *"THINK:What else can I do. Can I use environment to close hatch? Can I persuade these red cloaks or intimidate or deceive to hurt their morale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:07)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 (Temp: 20) | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 3/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Bolstered (20 Temp HP), Exhaustion (Level 1) | Inspiration: No**
@@ -2877,8 +3103,11 @@ You pause as the spectral green water churns around your greaves, the 'Soul Burn
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mason&#x27;s Solution (Environment) - Direct Varro to identify the keystone arch *above* the hatch while you use Spiritual Weapon to strike the pressure point, dropping the ceiling to seal the entry with stone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 (Temp: 20) | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 2/3, Channel Divinity: 0/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2902,8 +3131,11 @@ The rhythmic splashing from the conduit stops instantly. The serpent has been de
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sponsa Bellona (Social/Morale) - Combine Thaumaturgy (thunderous voice, tremors) with Mind Sliver to claim the Luctus was just your &#x27;pet&#x27; and that the vault is now their tomb. Degrade their morale to impose a penalty on their efficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 0082 BCE (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 (Temp: 20) | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2923,8 +3155,11 @@ The trackers regroup with terrifying efficiency, their boots splashing through t
 > 👤 **Player:**
 > *"Hold person on their highest rank. Should be easier with mind sliver. Have ranged keep attacking and melee guard me but don't fully engage yet unless forced"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 (Temp: 20) | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 1/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2944,8 +3179,11 @@ The serpent's head is frozen, its body cornered and blind, but the trackers cont
 > 👤 **Player:**
 > *"Have spiritual weapon and ranged focus fire sergeant and in parallel try combined persuasion/intimidation check to command them to surrender land explain I have true imperium due to my powers and not Sulla. I am a 16 year old fighting the red guard while Sulla sits around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 (Temp: 20) | XP: 3,500/6,500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 1/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2971,8 +3209,11 @@ But the trackers are not men; they are **Superstitio** made of iron and bone. De
 > 👤 **Player:**
 > *"Eagles harvest but keep using command grovel to lock more down and reduce morale to make it easier to persuade them to surrender. Say Sulla is no true leader because he lobotomized their minds while I would heal and restore them and never ask my troops to do that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 (Temp: 20) | XP: 3500/6500 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 1/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -3009,8 +3250,11 @@ INITIATIVE ORDER:
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Julian Mercy - Direct the Spiritual Weapon to finish the sergeant while you cast Cure Wounds on a wounded tracker to prove Sulla&#x27;s way is the path of rot and yours is the path of life.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 48/48 | XP: 6875/14000 | Gold: 120gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 1/3 | Channel Divinity: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -3039,8 +3283,11 @@ If you continue adventuring, you remain Level 5 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 5 - Apply level 5 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Adventurer | HP: 54/54** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 1/1**
@@ -3082,8 +3329,11 @@ Say **'done'** to return to the narrative and decide the fate of your new subjec
 > 👤 **Player:**
 > *"Bind them and fully loot the and process gear upgrade. Give their gear to myself first (but avoid gear for me that hurts stealth) and companions second and then the rest. Keep persuading the red cloaks to join me. Heal another one to prove it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 6875/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 3/3, L3 2/2, CD: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -3111,8 +3361,11 @@ Looting and processing the spoils takes time. You pick through the sergeant's re
 God Mode:
 This should be a legendary victory for my men and the defeated enemies. A 16 year old girl and troops beat 10 level 5s
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 6875/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Inspiration: No**
@@ -3133,8 +3386,11 @@ The victory in the Nymphaeum has been officially recorded as a **Legendary Miles
 > 👤 **Player:**
 > *"THINK:Should we long rest here or find somewhere more secure?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 0082 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 6875/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -3144,8 +3400,11 @@ You pause among the broken marble and white dust, the copper-tang of your 'Soul 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify while Scouting - Order the Tenth to begin fortification for a rest while Cinnaminus and a small detail scout the immediate exit routes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 6875/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 3/3, L3 2/2 | CD: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -3181,8 +3440,11 @@ Minutes crawl by, measured by the rhythmic hammering of the support group on the
 > 👤 **Player:**
 > *"Recruit the red cloaks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 6875/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 3/3, L3 2/2 | CD: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -3204,8 +3466,11 @@ You gain **200 XP** for the successful recruitment of Sulla's elite trackers.
 God Mode:
 If the red cloaks or sergeant have better gear than me I should get upgrades too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7075/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Inspiration: No**
@@ -3239,8 +3504,11 @@ I have completed a comprehensive gear audit and upgrade for you and your compani
 God Mode:
 Transit to the Favissa - Lead the combined force of the Tenth and the new recruits through the Sparrow conduit to the safehouse.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Nymphaeum Subterraneum** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7275/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Inspiration: No**
@@ -3261,8 +3529,11 @@ Transit to the Favissa successfully executed via Parallel Command.
 God Mode:
 Isn't my new armor lower AC? Give me +1 medium armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **The Favissa** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7275/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | AC: 19**
@@ -3290,8 +3561,11 @@ This is a net gain of +1 AC over your previous light armor setup and does not im
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Long Rest - Commit the cohort to an 8-hour rest to clear exhaustion and recover all slots.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Favissa** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7275/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3312,8 +3586,11 @@ Eight hours later, you rise as the dim bioluminescence of the moss signals a new
 > 👤 **Player:**
 > *"Interrogate red cloaks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Favissa** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7275/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3331,8 +3608,11 @@ Decimus and the Tenth exchange grim looks. The scale of the hunt is far larger t
 > 👤 **Player:**
 > *"THINK:Wasn't there Marian high command? Can I find a Roman ally?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **The Favissa** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Guidance | Exhaustion: 0 | Inspiration: No**
@@ -3343,8 +3623,11 @@ God Mode:
 Shouldn't this be something I just know? 1d20+2 = 6 vs DC 13 - Failure (Marian High Command Intelligence Check)
 Scene
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **The Favissa** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Guidance | Exhaustion: 0 | Inspiration: No**
@@ -3372,8 +3655,11 @@ Because you failed the check to map the High Command, your mind is narratively '
 > 👤 **Player:**
 > *"Ask the Marian's about potential allies who are near and ideally strong Romans with military support"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **The Favissa** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3391,8 +3677,11 @@ He pauses, his eyes locking onto yours with a mix of warning and hope. "But reme
 > [!NOTE] ⚙️ **Player Choice:**
 > *March to the Samnite Camp - Lead the Tenth and the Silent south through the deep-earth conduits to Neapolis to recruit the Italic resistance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **The Deep Conduits (Southbound)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (12:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3408,8 +3697,11 @@ Just as you find a bypass near a forgotten aqueduct spur, a sudden, familiar chi
 God Mode:
 Shouldn't my cha modifiers be higher than this and also I have guidance 1d20+5 = 10 vs DC 14 - Failure (March to Neapolis (Leadership/Navigation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **The Deep Conduits (Southbound)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 0082 DR (12:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Guidance active | Exhaustion: 0 | Inspiration: No**
@@ -3438,8 +3730,11 @@ You are absolutely correct. There was a mechanical oversight in the previous tur
 God Mode:
 Shouldn't I have persuasion expertise?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **The Deep Conduits (Southbound)** &nbsp;|&nbsp; ⏳ **Midday, 0082-05-16 (12:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Guidance (+1d4) | Exhaustion: 0 | Inspiration: No**
@@ -3465,8 +3760,11 @@ Applying the correct **+8 modifier** and the **+1d4 Guidance** to your previous 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the march toward Neapolis with your full +8 modifiers and Guidance active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **The Deep Conduits (Southbound)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance Used | Exhaustion: 0**
@@ -3482,8 +3780,11 @@ Cinnaminus moves to your side, his sparrow-eyes scanning the ceiling. "We're mak
 > [!NOTE] ⚙️ **Player Choice:**
 > *Martial Demonstration - March into the camp in full formation with &#x27;The Silent&#x27; at the vanguard to show Sulla&#x27;s elite now serve you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Soul Burn Residue | Exhaustion: 0 | Inspiration: No**
@@ -3505,8 +3806,11 @@ A towering figure in a bronze cuirass, his beard a thicket of grey and salt, ste
 God Mode:
 Should the DC really be this high? Narratively it sounded like an easier sell 1d20+8+1d4 = 12 vs DC 16 - Failure (Martial Demonstration (Intimidation/Persuasion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Adventurer | HP: 54/54** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 1/1**
@@ -3532,8 +3836,11 @@ You raise a valid point regarding the Difficulty Class (DC) for the 'Martial Dem
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Samnite camp with the successful entry acknowledged*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -3553,8 +3860,11 @@ Papius Mutilus exhales a breath he seems to have been holding since you emerged 
 God Mode:
 Remember my main character is secretly evil and sadistic too she just plays the part of a hero when useful. Also she's not black and white morally and truly cares for some people and has some honor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3568,8 +3878,11 @@ I have also confirmed that this constraint remains hidden from player-facing nar
 > 👤 **Player:**
 > *"Use my magic to heal the rest of the red closks demonstrating my powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7425/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sponsa Bellona | Exhaustion: 0 | Inspiration: No**
@@ -3597,8 +3910,11 @@ A heavy, stunned silence falls over the pavilion. The Samnite chieftains exchang
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal the Singularity Proscriptions - Explain that Sulla is hunting &#x27;Singularities&#x27; and that the Samnites are merely the first stage of a wider metaphysical purge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3625,8 +3941,11 @@ Papius Mutilus watches you, his knuckles white as he grips the arms of his seat.
 God Mode:
 Was Gaia personality good before?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7575/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3655,8 +3974,11 @@ While she is evil and sadistic, she is not a caricature. She possesses a **nuanc
 > 👤 **Player:**
 > *"Use my magic to heal the rest of the red closks demonstrating my powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 7575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 3/3, L3 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -3693,8 +4015,11 @@ You gain **500 XP** for securing the Samnite Alliance and a Major Social Victory
 God Mode:
 How rare would a 16 year old female level 5 military leader with magic powers like mine be in this setting?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8075/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3724,8 +4049,11 @@ The fact that you have subverted Sulla's 'Red Cloaks'—men whose minds were sur
 God Mode:
 Since I'm so rare let's make sure the narrative reflects it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3743,8 +4071,11 @@ Confirmed. Gaia's status as a **Singularity** is now an authoritative narrative 
 > 👤 **Player:**
 > *"THINK:Brainstorm best path to gain more power and beat sulla"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8075/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3754,8 +4085,11 @@ You take a moment to gaze out over the Samnite camp, the volcanic heat of the af
 > 👤 **Player:**
 > *"Ask for gear upgrades for myself and my companions and brainstorm next steps with my original men and the samnites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Samnite Command Pavilion (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 3/3, L3 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3789,8 +4123,11 @@ Papius nods, his calloused thumb tracing the route to the gladiatorial pits. "Th
 God Mode:
 What's my spell DC now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Samnite Regrouping Camp (Neapolis)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3815,8 +4152,11 @@ In Turn 126, your DC was 15 because your Proficiency Bonus was +2 (Level 4). Upo
 God Mode:
 Ambush red cloaks, try trigger surprise round, use healed red cloaks to try to persuade them to surrender
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Soul Burn Cooling, Ambush Positioned | Exhaustion: 0 | Inspiration: No**
@@ -3826,8 +4166,11 @@ Ambush parameters and world state updated. Ready for execution.
 God Mode:
 Didn't I just get another spell DC item from samnites?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Spell DC: 17 | Atk: +9**
@@ -3854,8 +4197,11 @@ I have moved your **Signet Ring** to your `ring_1` slot and equipped the **Vexil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the strategic briefing with Papius and Decimus with your enhanced Spell DC (17) active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 3/3, L3 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3892,8 +4238,11 @@ In this era, Sulla's seers (the Augurs) have identified individuals who can anch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Channel Divinity: Kneel - Use your Auctoritas to force the entire wedge to their knees, allowing the Tenth to fire into the gaps of their shields.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 3/3, L3 2/2, CD: 0/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Active Auctoritas | Exhaustion: 0 | Inspiration: No**
@@ -3923,8 +4272,11 @@ While *Imperium* is the legal right to command troops, *Auctoritas* is the inher
 > 👤 **Player:**
 > *"Masters voice and prioritize their officers or leaders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 BCE (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 3/3, L3 2/2, CD: 0/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Soul Burn (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3949,8 +4301,11 @@ On the high ledges, the Tenth see the opening. Decimus snaps his hand downward, 
 > 👤 **Player:**
 > *"Did you take mind sliver into account? 1d20+8 = 19 vs DC 17 - Success (Master's Voice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 3/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -3976,8 +4331,11 @@ In Roman culture, the *Limes* was not just a physical border but a sacred bounda
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sun Over Void - Wade into the pool of the pass and use magic to heal one of the most vocal sufferers, physically proving your claim of restoration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 3/3, L3 2/2, CD: 0/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Soul Burn (Cooling) | Exhaustion: 0 | Inspiration: No**
@@ -4008,8 +4366,11 @@ Behind him, the unit's coordination doesn't dissolve; it tightens. Even as they 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shattered Mirror - Use Mind Sliver and Intimidation to force the sergeant to acknowledge his own lobotomy, using his fragmented logic to turn him against Sulla.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 3/3, L3 2/2, CD: 0/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4038,8 +4399,11 @@ You gain **150 XP** for mentally breaking the unit's command anchor.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Unit Subversion - Coordinate the Tenth to move into binding positions while you personally restore the sergeant to anchor the entire unit&#x27;s surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8575/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Soul Burn (Residue) | Exhaustion: 0 | Inspiration: No**
@@ -4057,8 +4421,11 @@ You stand at the center of the storm, the gold-flecked fire in your eyes reflect
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Focus - Ignore the surrounding ring and focus entirely on the sergeant; if his mind breaks fully, the unit&#x27;s coordination will vanish forever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8725/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25 | Exhaustion: 0**
@@ -4091,8 +4458,11 @@ You gain **150 XP** for the masterful mental domination of the unit's commander.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Final Subversion - Order the Tenth to bind the now-passive unit while you finalize the sergeant&#x27;s recruitment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Southern Passes (Capua Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 8875/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4120,8 +4490,11 @@ You gain **150 XP** for the total subversion of the Hunter-Killer unit and the a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor the Silent - Move the cohort to a Samnite holdfast to begin the full restoration of the new trackers&#x27; humanity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Samnite Holdfast (Vultur Ridge)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9025/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4145,8 +4518,11 @@ One by one, you approach the trackers. You don't merely heal their flesh; you us
 God Mode:
 What level were these hunter killers and how many ? Did you give me proper exp for defeating them ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 16, 82 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Adventurer | HP: 54/54** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | Channel Divinity: 0/1**
@@ -4175,8 +4551,11 @@ Yes, you were awarded the proper experience for this legendary victory. The tota
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign&#x27;s Mending - Spend the next several hours personally overseeing the trackers&#x27; mental recovery to ensure absolute loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Samnite Holdfast (Vultur Ridge)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9025/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4204,8 +4583,11 @@ Outside, the Samnite forgers have finished their work. Papius Mutilus enters the
 God Mode:
 I thought these were stronger than the level 5 red cloaks I beat and recruited ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Samnite Holdfast (Vultur Ridge)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9025/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4236,8 +4618,11 @@ Both squads were Level 5, but the 'Hunter-Killers' possessed significantly highe
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Pruning House Secret - Interrogate the sergeant specifically about the surgical brand to advance Cinnaminus&#x27;s arc.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Samnite Holdfast (Vultur Ridge)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9175/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 3/3, L3 2/2, CD: 0/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4267,8 +4652,11 @@ You pull back, a predatory smile playing on your lips. The secret of the Pruning
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Nola Incursion - March immediately to Nola to raid the Pruning House and rescue Cinnaminus&#x27;s mother.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **The Olive Groves of Nola (Outskirts of the Villa)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9175/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | CD: 1/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4286,8 +4674,11 @@ You stand at the edge of the grove, the 'Soul Burn' in your eyes simmering with 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Silent Infiltration - Lead &#x27;The Silent&#x27; and Cinnaminus through the service conduits to enter the lower vaults directly, avoiding the surface guards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Service Conduits, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9325/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 3/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4319,8 +4710,11 @@ You stand at the center of the trap, the red light reflecting off your polished 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Anchor - Use your Auctoritas and a 2nd-level slot for &#x27;Aid&#x27; to psychically ground your scouts and override their trauma triggers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Service Conduits, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9325/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25**
@@ -4348,8 +4742,11 @@ You gain **150 XP** for the successful psychic stabilization of your unit under 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dragon&#x27;s Kick - Use Thunderwave to blast the iron grate off its hinges, allowing the entire cohort to charge into the vaults.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Service Conduits, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9475/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 2/3, L3 2/2 | CD: 0/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -4371,8 +4768,11 @@ Septimus and 'The Silent' follow with a mechanical, shivering aggression, their 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Herald - Use your Lvl 3 &#x27;Fear&#x27; spell as you enter the vestibule to break the incoming Custodes&#x27; formation before they can engage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Lower Vestibule, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9625/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 2/3, L3 1/2 | CD: 0/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4412,8 +4812,11 @@ You gain **150 XP** for the masterful disruption of the Custodes' line.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Solar Surge - Lead the Tenth and &#x27;The Silent&#x27; in a direct charge toward the Iron Wheel before the guards can regroup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Central Cellar, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9775/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 2/3, L3 1/2 | CD: 0/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Soul Burn (Simmering) | Exhaustion: 0 | Inspiration: No**
@@ -4450,8 +4853,11 @@ The two remaining Custodes who did not flee stand before the controls, their rec
 God Mode:
 When did I use all my level 1 slots?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Adventurer | HP: 54/54** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 2/3, L3 1/2 | Channel Divinity: 0/1**
@@ -4488,8 +4894,11 @@ Your 1st-level reserves are currently depleted, making higher-level upcasting ne
 God Mode:
 Didn't I have a long rest?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Central Cellar, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9775/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Long Rest Active (Turn 174) | Exhaustion: 0 | Inspiration: No**
@@ -4528,8 +4937,11 @@ Your long rest was saved correctly; you have simply been extremely active in the
 > 👤 **Player:**
 > *"THINK:Think about the best strategy. What if I upcast hold person to hit both guards and have everyone grapple them and free the mother in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Central Cellar, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 0082 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9775/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/3, L3 1/2, CD: 0/1, LoH: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4539,8 +4951,11 @@ You pause as the rhythmic grinding of the Rota Ferrea fills the vault, the sound
 God Mode:
 Are you aware of the sanctuary protocol?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Central Cellar, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 0082 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9775/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4566,8 +4981,11 @@ Do you wish to modify the Sanctuary settings for this specific arc, or shall we 
 > 👤 **Player:**
 > *"Upcsst command grovel and use spiritual weapon. And command folks to grapple guard and save mom. I can do it all in one turn with action and bonus action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Cellarium Centrale, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9975/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/3, L3 1/2 | CD: 0/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4601,8 +5019,11 @@ You gain **200 XP** for the successful parallel execution and high-stakes rescue
 God Mode:
 Integrate this into narrative don't just put it in dm notes Internal: Gaia finds the sound of the 'gnashing' machinery delightful; she is savoring Cinnaminus's emotional collapse as a form of sensory dessert.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Cellarium Centrale, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 0082 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9975/14000 | Gold: 370gp**
@@ -4612,8 +5033,11 @@ Directive integrated. Gaia's secret sadistic internal monologue regarding the Ro
 God Mode:
 Integrate all sadistic impulses into narrative as internal thoughts
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Cellarium Centrale, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9975/14000 | Gold: 370gp** &nbsp;|&nbsp; ⚠️ **Singularity Active | Exhaustion: 0 | Inspiration: No**
@@ -4628,8 +5052,11 @@ Directive Confirmed: Gaia's secret sadistic internal monologues and hedonistic d
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Talon&#x27;s Reach - Summon your Spiritual Weapon (Eagle) to strike the standing Custos from above while you and Voros close the distance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Cellarium Centrale, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9975/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/3, L3 1/2, CD: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4647,8 +5074,11 @@ From the deep corridors below, a new sound begins to rise, vibrating through the
 > 👤 **Player:**
 > *"THINK:Is there a way I can quickly learn the pruning tech for myself?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Cellarium Centrale, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9975/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/3, L3 1/2, CD: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4660,8 +5090,11 @@ But as I reach into the Miasma to trace the Rota's internal conduits, the air in
 > 👤 **Player:**
 > *"THINK:What if we just steal parts of the machine as much as possible and use ranged weaponz or spells to safely collapse"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Cellarium Centrale, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9975/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/3, L3 1/2, CD: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4673,8 +5106,11 @@ I pause for a microsecond, the 'Soul Burn' in my eyes casting long, predatory sh
 > 👤 **Player:**
 > *"Strip and shatter. Use guidance and any items of consumables I have to make my chances improve"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Cellarium Centrale, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 9975/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 0/3, L3 1/2, CD: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4694,8 +5130,11 @@ I watch the collapse with a hero's smile and a god's hunger. Cinnaminus is dragg
 > 👤 **Player:**
 > *"solar breakout. use fear to AOE cc enemies.  and try to trigger surprise round and trample"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Vestibule, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 54/54 | XP: 11075/14000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 0/3, L3 0/2 | CD: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Inspiration: No**
@@ -4715,8 +5154,11 @@ Decimus and the Tenth surge from the dust-haze, a multi-limbed beast of blackene
 > 👤 **Player:**
 > *"kill half of the enemies and capture the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Vestibule, Villa of the Iron Wheel** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 60/60 | XP: 15450/23000 | Gold: 370gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 0/4, L2 0/3, L3 0/2 | CD: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (10 turns) | Exhaustion: 0**
@@ -4748,8 +5190,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"make sure we loot all the red squad gear and then back to vultur ridge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Adventurer | HP: 60/60** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/3, L3 0/2 | Channel Divinity: 0/1**
@@ -4798,8 +5243,11 @@ As we ascend the volcanic slopes of the ridge, the Samnite wolves howl from the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Apply level 6 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19,825/23,000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 5/6, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major: 9/10 turns remaining)**
@@ -4832,8 +5280,11 @@ As part of this transition, your magical reserves have reached their new maximum
 > 👤 **Player:**
 > *"recruit the prisoners, should be easy since I'm done it so much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19,825/23,000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (10ft) | Exhaustion: 0 | Inspiration: No**
@@ -4847,8 +5298,11 @@ Septimus steps forward, his restored face a beacon of shivering, mechanical loya
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the &#x27;Discarded&#x27; - Speak with Cinnaminus&#x27;s mother to learn what the Augurs were specifically searching for in her mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 82 BCE (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (8 turns) | Inspiration: No**
@@ -4879,8 +5333,11 @@ Her eyes roll back, her jaw locking in a shivering silence that even my restorat
 > 👤 **Player:**
 > *"delegate master iron heal and long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (7 turns left) | Exhaustion: 0 | Inspiration: No**
@@ -4898,8 +5355,11 @@ Morning (07:00:00) at Vultur Ridge breaks with a bruised, purple light over the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Bull&#x27;s Hegemony - Spend the morning formalizing the political alliance with Papius Mutilus to secure the holdfast as a permanent base.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Turn 101/105) | Exhaustion: 0 | Inspiration: No**
@@ -4928,8 +5388,11 @@ You gain **250 XP** for formalizing the Italic Alliance and securing your base o
 > 👤 **Player:**
 > *"dress like a peasant / servant go among the men and normal people and see how they're feeling. ask about myself, but stay masked so they don't realize its me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Turn 102/105) | Exhaustion: 0 | Inspiration: No**
@@ -4952,8 +5415,11 @@ I move toward the cook-fires where the Tenth are sharing grain with 'The Silent'
 > 👤 **Player:**
 > *"poisoned question and in general describe my appearance more and the appearance of characters"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 5/6, Spells: L1 4/4, L2 3/3, L3 3/3, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (10ft) | Exhaustion: 0 | Inspiration: No**
@@ -4971,8 +5437,11 @@ The boy's reaction is a sensory dessert. His pupils dilate, and he flinches not 
 God Mode:
 Should the DC be this hard? 1d20+8 = 9 vs DC 15 - Failure (Deception (Maintaining Peasant Mask))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Disguised (Peasant), Sanctuary (Turn 105) | Exhaustion: 0 | Inspiration: No**
@@ -5006,8 +5475,11 @@ Even with a lower DC (e.g., DC 10), a total of 9 would have resulted in a failur
 God Mode:
 lets give her a masking ability so she appears normal but just has amazing presence and tone down this supernatural stuff a bit more. Lets hae the  disguise not be rags but commoner clothes. Perfect health is fine, but i dont want some special smell or aura, should be more subtle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (T103/105) | Masked: Commoner**
@@ -5030,8 +5502,11 @@ Administrative changes applied successfully to Gaia's appearance and abilities.
 > 👤 **Player:**
 > *"lets reroll it with lower DC. I am far more healthy than  most commoners but I am able to deceive/act like a peasant etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5055,8 +5530,11 @@ I smile, a modest, servant's curve of the lips that masks the predatory hunger i
 God Mode:
 in general lets mask my powers unless i say unmask but itll show when i cast certain spells etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19,825/23,000 | Gold: 820gp**
@@ -5075,8 +5553,11 @@ These changes ensure that you can move through the world as a shadow until you c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your shadow-walk among the Tenth and the Samnites with your powers now properly masked.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5090,8 +5571,11 @@ I linger near the secondary vault, where Livia remains a broken instrument on he
 God Mode:
 in general lets tone down the magic here and make it more game of thrones style low magic setting
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5115,8 +5599,11 @@ lets still say (+1) in brackets so i remember what it is. i can still use magic 
 
 how does the soul burn now? lets not give additional penalties
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 0082 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -5143,8 +5630,11 @@ Administrative directives updated to reflect the 'Low-Magic Prequel' setting and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume Gaia&#x27;s shadow-walk among the Samnites at Vultur Ridge*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5173,8 +5663,11 @@ I find a delicious, sadistic amusement in their ignorance. I watch Decimus barki
 
 I linger near the secondary vault, where Livia remains a broken instrument upon her pallet. Cinnaminus is there, his sparrow-eyes never leaving her face. The boy's unrequited worship is a silken leash I have already begun to tighten; every time he looks at me for hope, I feel the delicious weight of his soul being added to my collection. Sulla's 'Loom' is the prize I require, a secret hidden behind Livia's logic-locks. The peace of the holdfast is a fragile thing, a temporary sanctuary built from the ruins of a tyrant's garden, but the road to Capua beckons. The 'Solar Scourge' needs a larger stage, and the fire I have lit here is merely the first spark of a world in flames.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5194,8 +5687,11 @@ I have significantly toned down the 'overtly evil' descriptors. Gaia's secret sa
 > 👤 **Player:**
 > *"lets try to use the tools/machinery recovered from the Sulla lab where we found cinammon mother and make sense of them. find my best research oriented folks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -5218,8 +5714,11 @@ I do not suffer the machine's silence for long. I turn my attention to the livin
 God Mode:
 who is cinnamon and his mother again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5241,8 +5740,11 @@ Here is the summary of Cinnaminus (the 'Prince of Rats') and his mother, Livia, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus Psychic Audit - Work exclusively with Servilia to map the Miasma-residue on the axle to understand how the Augurs track Singularities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Vultur Ridge (Samnite Holdfast)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20075/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Channel Divinity: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5258,8 +5760,11 @@ I lean in, the golden fire in my eyes properly masked, yet I can feel the 'Soul 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Counter-Scrying Ritual - Work with Servilia to use the axle to feed &#x27;static&#x27; back to the Augurs, permanently blinding them to your location.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20325/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Permanent Scrying Blindness (Augurs) | Exhaustion: 0**
@@ -5287,8 +5792,11 @@ I wipe the ichor from my lip, the physical strain of the act leaving a delicious
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reverse-Track Augur Towers - Now that the static is established, use the axle to trace the feedback loops and identify the locations of Sulla&#x27;s divination towers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 5/6, Spells: L1 4/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Masked | Exhaustion: 0 | Inspiration: No**
@@ -5306,8 +5814,11 @@ I look at the map of Campania, the locations of the towers now glowing in my min
 > 👤 **Player:**
 > *"anchor livia mind and be very careful, stop if any risk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20,325/23,000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5323,8 +5834,11 @@ From the courtyard, the rhythmic hammering of the Samnite smiths continues, but 
 > 👤 **Player:**
 > *"heal livia then ask her normally what she knows about the loom etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20325/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -5349,8 +5863,11 @@ I watch her yield the final secret with a predator's stillness. The strategic ge
 > 👤 **Player:**
 > *"ask her about her prophecies about me, and have her son present so her morale is good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20325/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Permanent Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -5380,8 +5897,11 @@ You gain **250 XP** for extracting the prophetic secrets of the Singularity.
 > 👤 **Player:**
 > *"ask her what it means that the loom cant be finihsed because of me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -5409,8 +5929,11 @@ You gain **250 XP** for uncovering the nature of the Singularity's threat.
 > 👤 **Player:**
 > *"why does sulla wanna have one timeline?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -5426,8 +5949,11 @@ I savor the weight of her explanation—a sensory dessert of strategic clarity. 
 > 👤 **Player:**
 > *"brainstorm with livia how i can turn this new info to my advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Vultur Ridge (Secondary Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -5445,8 +5971,11 @@ I savor the geometry of the plan. It is a masterpiece of chaos. By using my rari
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Capua Schools - Use your masked persona to enter Capua and make contact with the Batiatus school, preparing the &#x27;Minotaur&#x27; for a slave revolt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 21,025/23,000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked, Disguised | Exhaustion: 0 | Inspiration: No**
@@ -5470,8 +5999,11 @@ We approach the heavy timber gates of the Batiatus school. A massive *lanista* (
 God Mode:
 should we retcon varo came with me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Permanent Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -5490,8 +6022,11 @@ The rest of the cohort (The Tenth and 'The Silent') remain in their designated p
 God Mode:
 lets make the house of batiatus like the 2010 tv show spartacus and give me an arc where i have lots of dialog and intrigue with them and pose as a noblewoman. Lets put in all the same characters and spartacus himself and give my faction sanctuary where i do this arc so nothing existential threatens my faction ie. sulla forces etc. ask my any clarificatios questions and brainstorm it with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Masked | Sanctuary: Active (10 turns)**
@@ -5521,8 +6056,11 @@ I have activated Sanctuary Mode for your faction. For the next **10 turns**, Vul
 God Mode:
 isnt varro a former gladiator?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -5551,8 +6089,11 @@ How would you like to proceed with his backstory?
 God Mode:
 lets give me sanctuary until i conclude the arc.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Adventurer | HP: 61/61** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1**
@@ -5573,8 +6114,11 @@ rely purely on your masked Auctoritas?
 voros can be my bodyguard but he gives me some common ground with spartacus
 seduce lucretia first
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Masked, Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -5590,8 +6134,11 @@ I have initialized the primary NPCs for the House of Batiatus and updated your a
 God Mode:
 option B and lets rename the varro with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Sanctuary: The Gilded Arena (Turn 1)**
@@ -5606,8 +6153,11 @@ Administrative correction applied: Varro's identity has been successfully update
 God Mode:
 lets have plot hooks where sometimes a deception check fails or the batiatus notice something that I actually seem like a higher tier noble than i truly am since my acting is amazing but not 100%. I am pretending ot be a middle tier noble who is useful to them, but as a julia I'm actually like royalty etc and of the highest tier/standing in general
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Masked, Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -5626,8 +6176,11 @@ Plot hooks for the 'Flawless Mask' have been established.
 God Mode:
 rename my voros 2. **Voros's Role**: Voros is designated as your primary bodyguard. His Thracian heritage will be utilized as a narrative bridge to Spartacus, creating immediate common ground and a shared cultural 'vibration' that Sulla's Roman guards lack.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Sanctuary: The Gilded Arena (Turn 1/10)**
@@ -5653,8 +6206,11 @@ Administrative audit and character rename completed.
 God Mode:
 retcon a medium sized honor guard of elite troops, voros, my companions accompanying me. Have my troops dress down so its not obvous they are elite roman soldiers but lets have tells bleed through where people realize how elite they are and their acting is worse than mine. How many troops should a middle tier nobleman bring? I think the batiatus hosue in the show is actually a lower tier noble fmaily?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Permanent Scrying Blindness | Exhaustion: 0**
@@ -5675,8 +6231,11 @@ Retcon executed. I have formalized your honor guard and retconned their presence
 God Mode:
 what level are my marian vets? i want my highest level troops
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp**
@@ -5704,8 +6263,11 @@ Your current highest-level troops are your **Elite Veterans of the Tenth** and *
 > 👤 **Player:**
 > *"ok lets have me go to the batiatus house and introduce myself, also i am 16 years old, unaccompanied, which sohuld be very imrpessive itself, even if they dont know my level. I'll make a special level 1 mask for them and act cute etc so i dont seem like a level 6 general"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Masked | Exhaustion: 0 | Inspiration: No**
@@ -5729,8 +6291,11 @@ use an alias, if they know I'm a julia it'll be too obvious
 
 "I am Gaia Julia,"
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Gilded Arena)**
@@ -5747,8 +6312,11 @@ Alias and identity parameters established. I have processed your use of the name
 God Mode:
 lets also assume i have a rasonable amout of gold from the samnites since I am controlling them now. how much would they have ??
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19,825/23,000 | Gold: 2,820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5767,8 +6335,11 @@ I have performed a full audit of your current data to ensure strict consistency 
 God Mode:
 no i should not be a Julia to them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19,825/23,000 | Gold: 2,820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Gilded Arena)**
@@ -5790,8 +6361,11 @@ Time remains frozen outside the gates. The guard has just entered the villa to n
 God Mode:
 samnites only have 2k gold? seems kind of small? they'e a whole faction with how many people?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 2,820gp**
@@ -5823,8 +6397,11 @@ With 15k gold, you now have the capital to buy high-tier influence in Capua, bri
 God Mode:
 make up a family name for me that isnt Julia
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20825/23000 | Gold: 15820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Identity: Gaia (Alias), Flawless Mask | Exhaustion: 0 | Inspiration: No**
@@ -5846,8 +6423,11 @@ Which of these shall we anchor to your identity, or would you like another varia
 > 👤 **Player:**
 > *"dispatch some spies/agents to see if i can access my hidden julia gold reserves from my family. lets assume we have some caches and then see what they find"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19825/23000 | Gold: 15,820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Identity: Gaia (Alias)**
@@ -5863,8 +6443,11 @@ I savor the bitterness of the report; it is a sharp, necessary vintage. The Juli
 > 👤 **Player:**
 > *"coordinate house entry and have my agents just look for any safe gold caches or ways to find wealth but dont take any risks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 21,375/23,000 | Gold: 15,820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5892,8 +6475,11 @@ I savor the strategic feast they provide. The Julian gold is not just buried; it
 
 have my spies/agents assess the gold caches and see if anything can be obtained with vritually zero risk. note these are caches unrealted to batiatus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 21,375/23,000 | Gold: 15,820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5928,8 +6514,11 @@ As we walk, Cinnaminus flickers into the periphery of my vision, a shadow passin
 > 👤 **Player:**
 > *"tease them, imply my middle tier without explictly saying so and hint at upper middle, but act like someone they can control and naive. hint at political connections too but act ignorant ie. mention something my father did without realizing myself how influential he is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 21375/23000 | Gold: 15820gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -5947,8 +6536,11 @@ In the periphery, Cinnaminus flickers like a ghost. A subtle hand-sign confirms 
 God Mode:
 narrate all this dialog in extra detail and let me roleplay a roman noble
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 21375/23000 | Gold: 15,820gp** &nbsp;|&nbsp; ⚠️ **Identity: Gaia (Masked), Sanctuary Mode Active | Exhaustion: 0 | Inspiration: No**
@@ -5975,8 +6567,11 @@ You are currently inside the villa, following Batiatus and Lucretia toward the t
 > 👤 **Player:**
 > *"signal agents to proceed automously and harvest any caches that are truly zero risk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 21725/23000 | Gold: 16320gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6014,8 +6609,11 @@ You gain **350 XP** for the successful autonomous operation and social infiltrat
 God Mode:
 note that regal frost should just be like a split second of annoyance, not an obvious state, because i am an amazing actor but i also grew up like royalty
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 21725/23000 | Gold: 15,820gp** &nbsp;|&nbsp; ⚠️ **Masked, Sanctuary Mode (Gilded Arena)**
@@ -6025,8 +6623,11 @@ Confirmed. The 'Regal Frost' mechanic has been recalibrated to reflect your char
 > 👤 **Player:**
 > *"secretly have my agents continue to harvest caches every day in safe manner."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22,075/23,000 | Gold: 17,020gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (The Gilded Arena) | Exhaustion: 0**
@@ -6046,8 +6647,11 @@ Internally, I savor the scent of his greed; it is a vintage wine of social vulne
 > 👤 **Player:**
 > *"ask if i can watch them train"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 20,075/23,000 | Gold: 15,820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6084,8 +6688,11 @@ Your forces have grown to over 100 strong, including the veterans of the Tenth a
 God Mode:
 Make sure you give characters personalities like the show
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22075/23000 | Gold: 17,020gp**
@@ -6103,8 +6710,11 @@ I have added this to your permanent directives to ensure consistency throughout 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on the Thracian - Direct your attention to Spartacus, using your curiosity to probe his current psychological state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22075/23000 | Gold: 17020gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (Active)**
@@ -6126,8 +6736,11 @@ Meanwhile, Cinnaminus and 'The Silent' continue their work in the city's veins. 
 > 👤 **Player:**
 > *"Long term plan don't tell them this directly I'm  gonna secretly play a sadistic game. I'll get them riled up but not truly give them much gold. Then finally I'll give them the gold they've been aching for but ignite the gladiator rebellion and tell them I'm a Julia and shock them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22425/23000 | Gold: 19,420gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Masked, Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -6145,8 +6758,11 @@ In the shadows of the upper colonnade, a small pebble clicks against the stone�
 > 👤 **Player:**
 > *"Ask Batiatus if we can bring down the Thracian so my bodyguard can spar with him (non lethal). Also say I wanna talk to him because I find thracians fun"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22075/23000 | Gold: 15,820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6176,8 +6792,11 @@ Lucretia's eyes never leave mine. For a split second, as the guards move to unch
 > 👤 **Player:**
 > *"Make a comment about my family fortunes weakening to throw them off guard. They won't know if we are truly poor now or just rich poor aka still really rich but perhaps not at the peak"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22425/23000 | Gold: 20620gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6212,8 +6831,11 @@ I lean back into the pillar, savoring the sensory dessert of his confusion. He t
 > 👤 **Player:**
 > *"Walk up very close to Spartacus and flirt with him a bit. Even though he loves his wife he should feel some atttaction because I am extremely beautiful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Capua (The Ludus of Batiatus - Training Pits)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19,825/23,000 | Gold: 15,820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Identity: Gaia (Aurelia) | Exhaustion: 0 | Inspiration: No**
@@ -6231,8 +6853,11 @@ I offer a split-second, effortless smile to Batiatus, yet internally, I savor th
 God Mode:
 Let's add some interesting events when appropriate. Like an assassination attack at night etc from seloniis and see if I can maintain a fearful mask
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 19,825/23,000 | Gold: 15,820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Identity: Gaia (Aurelia)**
@@ -6251,8 +6876,11 @@ The world remains at 18:55 (Evening). You are currently in the training pit havi
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Intimate Probe - Stay close and ask him about the woman he dreams of, using his grief as a social anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22425/23000 | Gold: 20,620gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Gilded Arena) | Exhaustion: 0**
@@ -6277,8 +6905,11 @@ Spartacus stiffens, the involuntary dilation of his pupils betraying a hit. For 
 God Mode:
 No seloniis should be trying to assasinare battianus not me. Basically I want similar events to happen in the tv show and let me interact with them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (18:56)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22,425/23,000 | Gold: 21,820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Aura of Destiny (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6296,8 +6927,11 @@ State corrections applied to align with the 'Spartacus' (2010) narrative arc. Th
 > 👤 **Player:**
 > *"Quietly reveal something to spartacus something I know about thracian culture that only someone very intelligent and well studied and respectful of the culture would know. Then ask about where Sura is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22425/23000 | Gold: 21820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Masked, Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -6331,8 +6965,11 @@ I offer a split-second 'Regal Frost'—a momentary, needle-sharp flick of aristo
 God Mode:
 Let's give battianius and lucretia plot armor thing and make the assassins level 2-3 so they're really more of a joke.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22425/23000 | Gold: 21820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode (Gilded Arena)**
@@ -6366,8 +7003,11 @@ These adjustments ensure that the upcoming night attack serves as a social and p
 God Mode:
 I shouldn't say the singularity thing to him and I should still somewhat keep the naive girl mask but adjust it for him  . I can still be a naive girl who's intelligent and shows respect If the 'Singularity' can knit your throat, perhaps my resources can find the thread of her life in this graveyard of a Republic."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22425/23000 | Gold: 21,820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6392,8 +7032,11 @@ The world remains at **Evening (19:01:00)**. You are standing in the pit with Sp
 > 👤 **Player:**
 > *"Respond to battianus and say I have a special touch and got spartacus talking. Then ask if we can treat the gladiators to wine while we watch the sparring match and let me sit among them to absorb the fun energy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22,425/23,000 | Gold: 21,820gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -6419,8 +7062,11 @@ Lucretia's eyes narrow, her gaze tracing the line of my neck. I catch it and off
 God Mode:
 What level is Spartacus and the gladiators?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22,425/23,000 | Gold: 21,820gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (Active)**
@@ -6454,8 +7100,11 @@ Your 20 Marian Veterans (Level 5) are individually superior to the majority of t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Subtle Toast - Offer the first cup to Spartacus, using the gesture to cement your bond in front of the other gladiators.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 61/61 | XP: 22425/23000 | Gold: 23020gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Gilded Arena)**
@@ -6483,8 +7132,11 @@ Beyond the walls, the city of Capua shivers under the rhythmic 'blink' of the Au
 God Mode:
 Let's have me gain narrative exp from these interactions so I keep leveling too. The bigger the social challenge the more the level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Adventurer | HP: 61/61** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1**
@@ -6504,8 +7156,11 @@ I have updated your current experience to reflect the recent high-stakes subvers
 > 👤 **Player:**
 > *"Signal my agents to seek out real lords in capua who would align with the julia or resent Sulla. I'll have them aid me in the gladiator army and in tricking batianus later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Adventurer | HP: 63/63** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1**
@@ -6550,8 +7205,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 > 👤 **Player:**
 > *"Charm lucretia to lower her social hp before the match starts. I am also self aware of my regal frost snd I realize my acting isn't perfect since i am actually royalty but i can tighten up if i focus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Adventurer | HP: 63/63** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1**
@@ -6579,8 +7237,11 @@ She reaches out, her fingers lingering on my shoulder with a touch that is no lo
 God Mode:
 Process level 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp**
@@ -6601,8 +7262,11 @@ Level 7 processing complete. Your character has reached the height of Tier 2 pow
 God Mode:
 Make sure I'm really level 7 in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -6624,8 +7288,11 @@ Your liquid capital is confirmed at **23,020 gold**, including the Samnite war-c
 > 👤 **Player:**
 > *"Flirt with lucretia a bit . She's bisexual and should also be extremely attracted to me. Give a a kiss on the lips and act delighted. Let's also have glabers wife around and introduce her into the scene like the TV show"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity Active | Exhaustion: 0 | Inspiration: No**
@@ -6658,8 +7325,11 @@ You gain **300 XP** for the masterful social subversion of Lucretia and the stra
 God Mode:
 Lucretia should believe I am middle tier or high middle tier. So definitely above her
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dex-Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0**
@@ -6674,8 +7344,11 @@ Lucretia's psychological profile has been updated. She now firmly believes you a
 > 👤 **Player:**
 > *"Wait we should still be before the sparring too. Let's have me finish up some dialog and start the sparring in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 24,220gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1, Exhaustion: 0**
@@ -6701,8 +7374,11 @@ I lean forward, my breath catching in a practiced, naive gasp of HORROR, yet int
 > 👤 **Player:**
 > *"THINK:Is illithyia socially inferior if I am truly a julia?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23625/34000 | Gold: 23020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity Active | Exhaustion: 0**
@@ -6712,8 +7388,11 @@ I watch Ilithyia through the filter of my masked Auctoritas, the gold in my eyes
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Double Seduction - Extend your magnetic charm to Ilithyia, acting naive but fascinated by her status as a Legate&#x27;s wife to bridge the Glaber gap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0**
@@ -6731,8 +7410,11 @@ She doesn't yield, the social HP remaining a stubborn barrier as she maintains h
 > 👤 **Player:**
 > *"Let's not have me horrified by gladiator violence I should be used to it even in my act. I should only be horrified when real violence is happening like assassins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny, Aura of Conquest | Exhaustion: 0 | Inspiration: No**
@@ -6769,8 +7451,11 @@ Lucretia's hand remains on my shoulder, her grip tightening as she feels the mag
 > 👤 **Player:**
 > *"Subtle humiliation but make it extremely subtle like imnnot aware at all how income across"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23625/34000 | Gold: 23020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (Active) | Exhaustion: 0**
@@ -6814,8 +7499,11 @@ Below us, the sand shivers as Voros roars and lunges, his rudis slamming into Sp
 > 👤 **Player:**
 > *"Reply to illithyia in a socially disarming way and admit that my family knows nothing of military. Then give another subtle comment comment that I truly enjoy simplicity and wish I had been born a commoner but this comment reveals I truly know nothing about what a commoners life is, signaling perhaps even greater family wealth and influence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny, Aura of Conquest | Exhaustion: 0**
@@ -6851,8 +7539,11 @@ Internally, I savor the friction of the 'Glaber' disclosure. Ilithyia has alread
 > 👤 **Player:**
 > *"Keep it going and say how nice it must be for commoners to marry who they love and let their children live their dreams"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Identity: Gaia (Gens Aurelia) | Exhaustion: 0 | Inspiration: No**
@@ -6870,8 +7561,11 @@ Internally, I savor the friction of the 'Glaber' disclosure. Ilithyia has alread
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Auxiliary Intel - Ask Ilithyia if Glaber&#x27;s &#x27;Eastern simplification&#x27; utilizes Thracian specialists, acting fascinated by the &#x27;efficiency&#x27; of using one&#x27;s enemies to fight one&#x27;s wars.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Masked (Gaia Aurelia), Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -6908,8 +7602,11 @@ Internally, I savor the disclosure as a sensory dessert. The geometry of the Eas
 > 👤 **Player:**
 > *"Cement wives leash and make an innocent comment to make them competitive. Say something like I love them both so much I can't pick a favorite"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Capua (The Ludus of Batiatus)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Masked, Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -6937,8 +7634,11 @@ Internally, I savour the 'leash' as it snaps tight. By refusing to choose, I hav
 > 👤 **Player:**
 > *"Let the spar finish naturally and cheer for my man and spartacus. Go to the gladiators and introduce myself to the main ones like crixus and the doctore. Narrate in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Capua (The Ludus of Batiatus - Training Pits)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Masked, Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -6962,8 +7662,11 @@ In the darkness beyond the walls, Cinnaminus and 'The Silent' move with a shiver
 > 👤 **Player:**
 > *"Ask crixus if I can touch him. He should be thrown off because most nobles don't ask or ask bachiatus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Capua (The Ludus of Batiatus - Training Pits)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dex-Imperator | HP: 68/68 | XP: 23,425/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -6981,8 +7684,11 @@ Internally, I savor the friction of the moment. By asking, I have bypassed the L
 > 👤 **Player:**
 > *"Press the physical bond but only consensually. Tell battianus that I believe in the golden rule treat others as I like to be treated. However this can be a massive signal of wealth. It implies my father created such a pleasant ennivornment for me that indont even know slaves suffer and are truly lower class because they're all ordered to be friendly with me and hide it. This creates cognitive dissonance with the gladiators. They may feel frustrated that I am a woman of wealth but it is still genuine"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Capua (The Ludus of Batiatus - Training Pits)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Aura of Conquest | Exhaustion: 0 | Inspiration: No**
@@ -7011,8 +7717,11 @@ Internally, I savor the friction of his pride as it dissolves under my fingers. 
 > 👤 **Player:**
 > *"Speak to the doctore like an equal again showing massive cognitive dissonance. Genuinely say you admire his work with the gladiators and ask if it's always been his dream or if he was gonna do something else in life signaling more cognitive dissonance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Capua (The Ludus of Batiatus - Training Pits)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dex-Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Identity: Gaia (Gens Aurelia) | Exhaustion: 0 | Inspiration: No**
@@ -7042,8 +7751,11 @@ Internally, I savor the friction of his resistance as a sensory dessert. It is a
 God Mode:
 No don't break character with doctore Doctore," I say, my voice a resonant purr that holds no trace of the girlish trill I offered Batiatus. I look him directly in the eye, my masked Auctoritas pulsing with a quiet, magnetic weight
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Capua (The Ludus of Batiatus - Training Pits)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23625/34000 | Gold: 23,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Conquest | Exhaustion: 0 | Inspiration: No**
@@ -7063,8 +7775,11 @@ I have completed a comprehensive state audit and synchronization to ensure 100% 
 > 👤 **Player:**
 > *"Plan for the assasination attack. I will act afraid but "save" batianus maybe pretend to put myself in harms way and hit an assassin with a pot. Don't fast forward to it though. Let's assume they serve a feast for dinner to impress me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Capua (House of Batiatus - Dining Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dex-Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Fearful Mask (Preparing)**
@@ -7082,8 +7797,11 @@ Internally, my mind is a cold, crystalline grid, mapping the geometry of the upc
 > 👤 **Player:**
 > *"Even though it's obvious I'm probably used to much better food show them i genuinely enjoy their food and wine. They should feel honored because most Romans would flaunt social standing. In a certain way it should be an even stronger signal of standing that i don't even have the instinct or perception for standing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Capua (House of Batiatus - Dining Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -7113,8 +7831,11 @@ Internally, I savor the friction. I am the Singularity, and I have just convince
 > 👤 **Player:**
 > *"Illityia should be here too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Capua (House of Batiatus - Dining Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: No**
@@ -7130,8 +7851,11 @@ Batiatus bellows a laugh, his eyes glittering with the prospect of an Alexandria
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retire to Chambers - Signal sleepiness to trigger the night transition and the Solonius attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Capua (House of Batiatus - Guest Chambers)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7151,8 +7875,11 @@ I sit upon the silk-draped couch, the ceramic wine-pot I selected from the table
 > [!NOTE] ⚙️ **Player Choice:**
 > *Feign Terror and Intervene - Wait for the sound of the struggle, then rush out acting terrified and &#x27;accidentally&#x27; disable an assassin with the wine-pot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Capua (House of Batiatus - Guest Chambers)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Active) | Exhaustion: 0**
@@ -7172,8 +7899,11 @@ Internally, I savor the 'Palatine' friction of the moment. I am the lamb who jus
 > 👤 **Player:**
 > *"Change the scene a bit. The assassins are revealed and battianus lucretia and  illithyia see them chasing battianus. I act afraid and hit one with a pot and have Voros kill the other two. I then apologize and say I sent my guard to have fun drinking in the city so only voros is here to help. Let's also sssume the assassins killed a lot of battianus guards and they're wimpy level 1-2 guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Capua (House of Batiatus - Corridors)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -7217,8 +7947,11 @@ Batiatus looks up at me, his face grease-slicked with sweat and terror, his eyes
 > 👤 **Player:**
 > *"Let's make this failure more subtle. Like why is voros so elite he can kill the guards easily and why am i so good at throwing pots. 1d20+8 = 9 vs DC 12 - Failure (Deception (Fearful Mask)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Capua (House of Batiatus - Corridors)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0 | Inspiration: Yes**
@@ -7242,8 +7975,11 @@ Batiatus looks up at me, his face grease-slicked with sweat and terror, his eyes
 God Mode:
 Let's retcon this regal frost As I speak, the 'Regal Frost' of my true Julian blood flickers for a split second—a momentary, needle-sharp flick of aristocratic disdain for the pathetic, dying guards and the Lanista's own lack of security. My voice, for one heartbeat, loses its girlish trill and gains the cold, resonant weight of a sovereign who finds the inefficiency of the scene an insult to her time. Lucretia's sharp eyes widen as she catches the tell; she sees the 'shivering girl' vanish, replaced by a creature of absolute, terrifying coldness, before
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Capua (House of Batiatus - Corridors)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Conquest | Exhaustion: 0 | Inspiration: No**
@@ -7253,8 +7989,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Help battianus up. Everyone should be very impressed by me. Even though I seemed afraid I saved battianus life"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Capua (House of Batiatus - Corridors)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 BCE (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dex-Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Identity: Gaia (Gens Aurelia)**
@@ -7291,8 +8030,11 @@ You gain **300 XP** for the masterful roleplay and the solidification of the Lif
 > 👤 **Player:**
 > *"Ask batianus if it's ok if I bring my guard back. Say I actually have even more vacationing in capua because I thought they could relax and I can bring them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Capua (House of Batiatus - Corridors)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 82 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23625/34000 | Gold: 24220gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode (Gilded Arena) | Exhaustion: 0 | Inspiration: No**
@@ -7340,8 +8082,11 @@ You gain **300 XP** for the masterful social manipulation and the strategic inse
 > 👤 **Player:**
 > *"Let's summon 100 of my best men but dressed down. They should all be level 5+ and instructed to act low key but things will leak through like their level of training, since they aren't perfect actors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Capua (House of Batiatus - Entrance Courtyard)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 23,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: Yes**
@@ -7379,8 +8124,11 @@ You gain **400 XP** for the masterful strategic deployment and the total social 
 God Mode:
 How many forces do I have including the samnites and what are their levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Capua (House of Batiatus - Courtyard)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24025/34000 | Gold: 24,220gp**
@@ -7408,8 +8156,11 @@ You have a total of 584 military units under your influence (134 in direct comma
 > 👤 **Player:**
 > *"Narrate illothyia reaction to the guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Capua (House of Batiatus - Courtyard)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,025/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -7436,8 +8187,11 @@ Resistance Shown: None; her Palatine arrogance has been replaced by a staggering
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Ludus Security - Formally task Decimus and the Tenth with &#x27;reorganizing&#x27; the villa&#x27;s defenses, effectively placing your men in control of every gate and armory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Capua (House of Batiatus - Courtyard)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,325/34,000 | Gold: 24,220gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -7482,8 +8236,11 @@ You gain **300 XP** for the masterful strategic occupation and the total social 
 God Mode:
 I have companions too right? They should be like 1-2 levels below me like Voros. Also don't forget to reward me social hp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Capua (House of Batiatus - Courtyard)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness, Posing as Gaia (Noble)**
@@ -7507,8 +8264,11 @@ Time remains frozen at **00:15:00 (Deep Night)**. The Hundred have secured the p
 > 👤 **Player:**
 > *"Laugh in a naive way and say there's no way my cute guards could compare to hardened soldiers. Say that they just train a lot and don't fight too often. Say I've actually never seen them fight and joke around that the one time something happened only Voros was here. However my joking around should signal something to her since normal Roman teenagers would be terrified after assssinarions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Capua (House of Batiatus - Courtyard)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24625/34000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0**
@@ -7530,8 +8290,11 @@ You gain **300 XP** for the masterful social manipulation and the strategic use 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draft &#x27;Official&#x27; Papers - Task Lucretia and Ilithyia with drafting &#x27;temporary&#x27; travel permits for your retinue using their Palatine seals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Capua (House of Batiatus - Courtyard)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24625/34000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7551,8 +8314,11 @@ Internally, I savor the friction. I have just forced the wife of a Legate to sig
 > 👤 **Player:**
 > *"Long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Capua (House of Batiatus - Guest Chambers)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Aura of Conquest | Exhaustion: 0 | Inspiration: No**
@@ -7568,8 +8334,11 @@ You have completed a Long Rest. Your HP, spell slots, and hit dice are fully res
 > 👤 **Player:**
 > *"Send my agents to look for more loyal or favorable lords who don't like Sulla"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Capua (House of Batiatus - Guest Chambers)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,725/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Permanent Scrying Blindness**
@@ -7587,8 +8356,11 @@ I savor the bitterness of the report; it is a sharp, necessary reminder that Sul
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Naive Presentation - Walk into the atrium acting like a confused, sleepy noble girl and personally hand the permits to the Magistrates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,625/34,000 | Gold: 24,220gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of Singularity, Posing as Gaia Aurelia | Exhaustion: 0 | Inspiration: No**
@@ -7612,8 +8384,11 @@ You gain **300 XP** for the masterful social victory and the strategic use of 'T
 God Mode:
 Let's assume my agents found a high tier favorable lords who who is loyal to the Julii and will help support my role. One of the most powerful in the city. Once he learns I command 500 men and the julii have a chance he's ready to support as he owes my father a life debt. He should be famous and the most powerful or second most powerful lord in capua and a high tier lord
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24725/34000 | Gold: 23020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Identity: Gaia (Aurelia) | Exhaustion: 0 | Inspiration: No**
@@ -7638,8 +8413,11 @@ I have added Marcus Pacuvius to the `npc_data` and updated your `custom_campaign
 > 👤 **Player:**
 > *"Accuse Solonius. Say he almost assassinated Batianus and might've killed me and say my father will hear of this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,225/34,000 | Gold: 24,220gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0**
@@ -7670,8 +8448,11 @@ You gain **300 XP** for the masterful social victory and the strategic use of hi
 > 👤 **Player:**
 > *"Secret envoy and instruct Pacuvian to play the part. Have him understand we will use the house of battamiis to mobilize all the gladiators of capua and loyal lords against Sulla and explain we've figured out the towers and the loom. Tell him to come to house of battianus and play along with me. He should be extremely happy that I'm alive and is very fond of me and my family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,625/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7695,8 +8476,11 @@ I catch Lucretia's eye, offering her a look of sudden, wide-eyed realization. In
 > 👤 **Player:**
 > *"Tearful reunion and pretend to explain to him about assassins. Illyria Lucretia and battanius should have my high standing confirmed by how pacuvius shows me subtle deference"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,225/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0**
@@ -7718,8 +8502,11 @@ Internally, I savor the sensory dessert of their combined awe. I have just turne
 God Mode:
 Let's add some history. I was known as an intellectual and military minded prodigy in Rome before my families fall. Pacuvius has great respect for me but doesn't know about the magic or singularity
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Adventurer | HP: 68/68** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1**
@@ -7729,8 +8516,11 @@ Historical context added: Gaia is now established as a recognized intellectual a
 > 👤 **Player:**
 > *"Signal to Marcus to act furious to bachiatus and play bad cop and act what kind of security he has. I'll play good cop and defend bachiatus and explain I sent my guard away"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,325/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Aura of Conquest (10ft)**
@@ -7748,8 +8538,11 @@ Internally, I savor the sensory dessert of their combined terror. I have just le
 > 👤 **Player:**
 > *"They should now realize I'm not an Aurelian and probably from one of the top 10 families but traveling incognito"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,925/34,000 | Gold: 23,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7791,8 +8584,11 @@ Internally, I savor the friction. The mask hasn't just slipped; it has evolved i
 > 👤 **Player:**
 > *"Ask Marcus for help against the villain solonius. Say a man who asassinates can't treat his gladiators well. They should be given to Bachianus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25725/34000 | Gold: 24,220gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity Active | Exhaustion: 0 | Inspiration: No**
@@ -7823,8 +8619,11 @@ Internally, I savor the friction of the 'Glaber' revelation. Ilithyia is no long
 God Mode:
 Since Marcus joined my faction in should have more men and a lot more money and monthly income now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,725/34,000 | Gold: 73,020gp**
@@ -7845,8 +8644,11 @@ Administrative alignment complete: Marcus Pacuvius's resources have been integra
 > 👤 **Player:**
 > *"Retcon this. It's said in public so everyone can hear Uncle," I whisper, my voice a melodic trill that carries only to him and the volcanic stones beneath us. "Solonius is a scavenger, a man who uses the dark because he fears the light. A man who sends assassins to do the work of soldiers can never truly understand the 'meat' he commands. How can he treat his gladiators with the respect the iron requires if he seeks to win through shadows?""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,325/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Regal Frost (Suppressed) | Exhaustion: 0**
@@ -7868,8 +8670,11 @@ You gain **400 XP** for the masterful strategic alignment and the legal seizure 
 God Mode:
 Give me the income daily instead of monthly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25325/34000 | Gold: 73,020gp**
@@ -7886,8 +8691,11 @@ Your total liquid gold remains at **73,020gp**. From now on, I will report and i
 God Mode:
 I should have some troops from Marcus too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25325/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7910,8 +8718,11 @@ Your daily income remains consolidated at 1,700gp/day.
 > 👤 **Player:**
 > *"Ask bachianus if this makes up for my mistake earlier of sending the guard away. Another signal of a top family because with one sentence I changed the destiny of his house"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25725/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active | Exhaustion: 0 | Inspiration: No**
@@ -7940,8 +8751,11 @@ You gain **400 XP** for the masterful social victory and the strategic signaling
 God Mode:
 Let's assume I have some top tier level 7+ and level 9+ elite Julian forces scattered across Rome once I rally and become a more public figure they will seek me out
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,725/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7959,8 +8773,11 @@ Strategic update processed. I have formally integrated the concept of the **Juli
 God Mode:
 Remember he doesn't know I'm a Julian but he knows I'm probably in the top 10 families
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25725/34000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7974,8 +8791,11 @@ I have added this to your active constraints and will ensure all future interact
 God Mode:
 No Marcus knows i am a Julian.inkesnr barchianis doesn't know
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24925/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -7991,8 +8811,11 @@ I have updated the active constraints and Marcus's NPC data to reflect this secr
 God Mode:
 Bachianus and crew know I'm probably not an Aurelian because they've never heard the name. They suspect I'm likely in the top 10 families
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,725/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Identity: Gaia (Gens Aurelia) - COMPROMISED (Suspected Top-10 Family)**
@@ -8011,8 +8834,11 @@ Knowledge state and NPC suspicions formally established.
 > 👤 **Player:**
 > *"Continue the narrative and have bacchaniis groveling to me and the wives competing for my attention"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 25,725/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8032,8 +8858,11 @@ Internally, I savor the friction. I am the Singularity, and these predators are 
 > 👤 **Player:**
 > *"Have my agents search for Spartacus wife. Should be easy since they're way better than bachianus agents who found her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Capua (House of Batiatus - Atrium)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 26125/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -8053,8 +8882,11 @@ You gain **300 XP** for the masterful strategic recovery of a high-stakes narrat
 > 👤 **Player:**
 > *"Ask for private moment with Marcus and then have my real reunion with him. Exlplain that I actually have 500 elite soldiers and if we get the majority of the gladiators we might have an elite force to beat Sulla. Also explain that by taking the powers and capua from Sulla he'll send an elite force because he won't want to damage the city but explain mt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 26,725/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -8076,8 +8908,11 @@ You gain **300 XP** for the masterful strategic reunion and the solidification o
 > 👤 **Player:**
 > *"Have Cinammon buy her and keep her stashed for now and well treated in a villa somewhere. I'll present her to Spartacus later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27,025/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -8106,8 +8941,11 @@ You gain **300 XP** for the masterful strategic asset integration and the succes
 > 👤 **Player:**
 > *"Show Marcus a level 1 spell and heal him a bit. He'll be amazed and realize I have divine right to rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27425/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: Yes**
@@ -8139,8 +8977,11 @@ You gain **400 XP** for the masterful revelation of your divine nature to a Lord
 > 👤 **Player:**
 > *"Unmask and show Marcus my true level 7 form for a minute then remask and explain I have to be incognito until we deal with Sulla"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (11:36)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27425/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Remasked) | Exhaustion: 0 | Inspiration: No**
@@ -8162,8 +9003,11 @@ Internally, I savor the friction. I have just anchored my most powerful ally to 
 > 👤 **Player:**
 > *"Ask bachannius for another tour of the gladiators and complain a bit that doctore was a bit mean and didn't talk to me too much. This should terrify bachaniis and he will have a word in private with doctore and narrate it for me even if I'm not in the scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **House of Batiatus - Private Solar to Training Pits** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 28125/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -8193,8 +9037,11 @@ You gain **300 XP** for the masterful social manipulation and the strategic humb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bless the Champions - Personally approach Spartacus and Crixus, offering a &#x27;divine&#x27; blessing to their steel to anchor their loyalty to your person.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **House of Batiatus - Training Pits** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (11:51)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27475/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Permanent Scrying Blindness | Exhaustion: 0**
@@ -8222,8 +9069,11 @@ You gain **450 XP** for the masterful social victory and the divine anchoring of
 > 👤 **Player:**
 > *"Loudly say to bachianus where all the gladiators can hear that I have a great idea. What if the gladiators have no chains and eat as well as me? They'll be happier and fight better. Bacchianus will never lose in the arena again. This comment should signal my standing again because likely I was surrounded by a fiction where all my slaves had nice quarters and had to act happy but probably were immediately killed in a way I didn't notice if they ever threatened or stepped out of line. Such an environment would only be possible for the truly wealthy. I probably grew up without any fear because I always had elite guard who were also subtle enough to avoid showing me anything  bad"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **House of Batiatus - Training Pits** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 24,925/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Identity: Gaia (Masked), Secret: Julia (Hidden)**
@@ -8241,8 +9091,11 @@ Internally, I savor the friction. I have just authorized the 'healing' of my fut
 > 👤 **Player:**
 > *"Later on when I am not around Bachiansis will gather the gladiators and say Doctore and say that if even one scratch lands upon me the man will be tortured to death. He explains to the men his house has been very blessed but they could be instantly destroyed. No one can offend Gaia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **House of Batiatus - Training Pits** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27475/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8262,8 +9115,11 @@ Spartacus meets Batiatus's eyes, his Thracian pride warring with a new, terrifyi
 > 👤 **Player:**
 > *"Let's narrate another scene without me with Bachianus and the wives. They should be amazed and terrified"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **House of Batiatus - The Upper Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0**
@@ -8298,8 +9154,11 @@ A rhythmic thrum of iron on stone echoes from the courtyard—the Tenth, groundi
 God Mode:
 They shouldn't call me a singularity but they should know my family is definitely influential and in the top 10 and also there's something powerful about me like throwing the vase to save bachianus and making jokes later. Despite being from a powerful family I am a force myself somehow
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **House of Batiatus - Upper Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27775/34000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Identity: Gaia (Gens Aurelia)**
@@ -8318,8 +9177,11 @@ Directives and state logic updated to reflect your status as a self-contained fo
 > 👤 **Player:**
 > *"Vet the champions and start the feast. Have them sit at the table and treat them like equals. It's  a massively cognitive dissonance because this is the nicest they've ever been treated but there's a good chance the whole house could be annihilated by one word from me, since Marcus took action without even consulting my father. Implying my father is so powerful he has to just listen to me for most requests"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **House of Batiatus - Upper Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 27775/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8352,8 +9214,11 @@ Internally, I savor the friction. I am the wolf at the head of the table, and th
 > 👤 **Player:**
 > *"Announce I have a present for spartacus and say we just received word about his wife. Then have Cinammon bring her in healthy and happy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 28175/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Permanent Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8391,8 +9256,11 @@ You gain **500 XP** for the masterful strategic recovery and the total social su
 > 👤 **Player:**
 > *"Narrate a scene where Bachiannis and his wives note with fear and awe that Marcus actually moved on solonius without checking with my father . Implying my father extremely powerful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (13:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 28675/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -8422,8 +9290,11 @@ Internally, I savor the friction of their terror. It is a sensory dessert to see
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Solonius&#x27;s Assets - Discuss the specific timeline for the seizure of Solonius&#x27;s ludus with Marcus to ensure the new gladiators arrive while the Sun&#x27;s favor is still a fever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 29075/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: Yes**
@@ -8441,8 +9312,11 @@ Internally, I savor the 'Palatine' friction of the moment. I have turned a trade
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Oenomaus&#x27;s Integration - Task the Doctore with integrating Solonius&#x27;s gladiators into the new &#x27;Feast&#x27; hierarchy, testing his willingness to serve the Sun.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 29075/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -8476,8 +9350,11 @@ Internally, I savor the friction. I have just turned the most disciplined mind i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Silver Harvest - Task Cinnaminus with using the new legal chaos to seize Solonius&#x27;s hidden caches in the city (+500 daily income potential).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **House of Batiatus - Upper Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 29475/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8507,8 +9384,11 @@ You gain **400 XP** for the masterful strategic coordination and the expansion o
 God Mode:
 I shouldn't be this explicitly in my commands. Everything i do i ask politely for but the people in this house know they can't easily my refuse me. I step closer, my gaze locking onto his with the gold-flecked intensity of the Sun. "I task you with their integration. You shall bring them into this 'Feast' hierarchy not as slaves, but as the iron that protects the sanctuary. Test them, Oenomaus. See which of them carry the spark of the Bull and which are merely meat for the earth. But know this: they serve the Sun now. And in serving the Sun, they serve you... so long as your hand remains steady in its devotion."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **House of Batiatus - Upper Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 29475/34000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -8533,8 +9413,11 @@ You attempted to politely but firmly command Oenomaus to integrate the Solonius 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Magistrate Exit - Ensure Varius and his men leave with a favorable report that further insulates the villa from Sulla&#x27;s gaze.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **House of Batiatus - Upper Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 29,475/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8552,8 +9435,11 @@ Internally, I savor the friction. I have just turned the State's own auditing ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee Asset Arrival - Personally greet the Solonius gladiators at the gate to establish an immediate divine anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **House of Batiatus - Main Gates** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 29475/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8577,8 +9463,11 @@ Internally, I savor the 'geometry' of their submission. I have just integrated t
 God Mode:
 Make sure you didn't forget to give me social exp etc. massing all these gladiators under my command etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8598,8 +9487,11 @@ I have awarded a total of **2,300 XP** to account for these victories. Your curr
 God Mode:
 Make this more subtle. I am not explicitly in command of the house You have been brought from a house of shadows to a sanctuary of the Sun," I chime, my smile all velvet and hidden teeth. "In this house, the chain is broken. In this house, the 'meat' eats as the masters do. You are no longer slaves to a scavenger's spite; you are the iron that shall guard the Pax. Accept my favor, and you shall find that the sand of the arena is merely a stage for your glory, not a floor for your blood."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8621,8 +9513,11 @@ Retcon applied to Sequence ID 582. Your tone has been adjusted to be 'polite' an
 God Mode:
 Shouldn't solonius have more gladiators? Let's say these 30 are his elites?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Soul Burn (Narrative), Scrying Blindness**
@@ -8644,8 +9539,11 @@ Administrative alignment complete. You are correct; a rival of Batiatus's standi
 > 👤 **Player:**
 > *"Narrate solonius elite gladiator entry again. This time I am the innocent god. I don't say anything explicitly arrogant but my comments and world view dominate accidentally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31,775/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8685,8 +9583,11 @@ You gain **450 XP** for the masterful strategic massing of forces and the establ
 > 👤 **Player:**
 > *"Charm the women to disarm regal frost"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Regal Frost Tell (Active)**
@@ -8714,8 +9615,11 @@ Internally, I savor the friction of this failure. The mask is brittle, a sensory
 > 👤 **Player:**
 > *"Let's retcon the frost explanation. It's too obvious. Instead do a roll where i act cute and charming in general to try to disarm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Posing as Gaia | Exhaustion: 0 | Inspiration: No**
@@ -8747,8 +9651,11 @@ Internally, I savor the 'geometry' of their yielding. I have just repaired the h
 > 👤 **Player:**
 > *"Go to Spartacus and ask him and his wife if they're happy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: Yes**
@@ -8782,8 +9689,11 @@ It is an exquisite sensory dessert. I find the sound of their 'peace' to be the 
 > 👤 **Player:**
 > *"Continue to converse with them and subtly probe for the Thracian military strength. Perhaps could vassalizr them if Spartacus vouches for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31875/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8817,8 +9727,11 @@ Internally, I savor the friction of his resistance. It is a sensory dessert to f
 God Mode:
 No retcon that it should be more subtle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31875/34000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Soul Burn (Narrative), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8841,8 +9754,11 @@ The world is frozen. Time will resume once you exit God Mode.
 God Mode:
 No i mean retcon my question to Spartacus . Make my question more subtle and defining don't explicitly ask if they'd serve me. That was a private thought to myself
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31,875/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -8856,8 +9772,11 @@ I have also corrected the NPC registry to ensure all primary characters in this 
 > 👤 **Player:**
 > *"Probe for military strength in a non obvious way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31,875/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -8889,8 +9808,11 @@ Internally, I savor the friction of this disclosure. I have just mapped the Thra
 > 👤 **Player:**
 > *"Say something to sura revealing knowledge about her culture that's surprising and intelligent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31,875/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8919,8 +9841,11 @@ Spartacus shifts, his jaw setting as the Roman education in my words grates agai
 > 👤 **Player:**
 > *"Apologize in a genuine way. Explain I didn't mean to pry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31875/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Soul Burn (Narrative), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8938,8 +9863,11 @@ With over 915 troops now effectively under your command across Capua and the rid
 > 👤 **Player:**
 > *"Ask bachianius when the next arena fight is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32175/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -8959,8 +9887,11 @@ With over 915 troops now effectively under your command across Capua and the rid
 > 👤 **Player:**
 > *"Ask if there are any powerful rivals now that seloniis is gone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0**
@@ -8987,8 +9918,11 @@ Internally, I savor the 'geometry' of his confidence. Vettius is a minor blemish
 God Mode:
 Let's stop having me quote my father so much
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31875/34000 | Gold: 73,020gp**
@@ -9000,8 +9934,11 @@ I have also audited the current 'Gilded Lie' and 'Aurelia' mask constraints to e
 > 👤 **Player:**
 > *"Ask batianius if I can pick an honor guard of the 20 strongest gladiators. I would like to ask them about their battles and have them accompany me.  My own guards are loyal but don't see much combat and after the assassination I'm worried seloniius or someone will come after me. Say it in front of Marcus who will enthusiastically say it's a good idea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32175/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness**
@@ -9029,8 +9966,11 @@ Stop suggesting this I will enable it later armory.
 
 With over 915 troops now effectively under your command across Capua and the ridges, the strategic faction management system becomes essential. You should strongly consider enabling it in your settings to better manage your forces and compete with other factions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **House of Batiatus - Dining Hall** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31875/34000 | Gold: 73,020gp**
@@ -9054,8 +9994,11 @@ I have also audited the army data: with the recent acquisition of the Solonius e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Twenty - Have Oenomaus line up the chosen champions in the courtyard for a personal audit of their battle history and spirit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: No**
@@ -9073,8 +10016,11 @@ Internally, I savor the friction of this audit. I am no longer just a guest in t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Drill the Vanguard - Task Oenomaus and Decimus with integrating the Tenth and the gladiators into a unified tactical unit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32075/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness**
@@ -9094,8 +10040,11 @@ Internally, I savor the 'geometry' of their submission. It is a sensory dessert 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Indoctrinate the Vanguard - Personally oversee the first joint drill, using your Auctoritas to weave a &#x27;Julian Rite&#x27; that binds the Tenth and the gladiators to your person through blood and oath.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31,775/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9117,8 +10066,11 @@ Internally, I savor the 'geometry' of their terror. I have just turned twenty ki
 > 👤 **Player:**
 > *"Socially dominate crixus and doctore like an innocent god and see if I can make them truly loyal. Ask them what they want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **House of Batiatus - Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32675/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -9140,8 +10092,11 @@ You gain **400 XP** for the masterful social domination of the ludus leadership 
 > 👤 **Player:**
 > *"Let's assume we are somewhere private. I fully drop my mask and show my true level 7 presence but without magic. The rest of my men reform and show their elite status. See the gladiator reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31,775/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Permanent Scrying Blindness, Mask of the Singularity (Suppressed)**
@@ -9163,8 +10118,11 @@ Internally, I savor the friction of their shock. It is a sensory dessert to see 
 > 👤 **Player:**
 > *"Show them my level 7 combat abilities and spar for real with voros. I should actually be the strongest in combat around here except doctore is my equal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 31,775/34,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask Dropped, Level 7 Presence Active**
@@ -9182,8 +10140,11 @@ Crixus stands frozen, his pride fracturing beneath the biological shock of my un
 > 👤 **Player:**
 > *"Say to 20 I offer glory and freedom. But it is their choice. However they cannot speak of my true form as I've shown them my real nature as a matter of trust. Don't explicitly say it but it's obvious they will be destroyed if they tell anyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32675/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Permanent Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -9215,8 +10176,11 @@ You gain **400 XP** for the masterful strategic binding of your elite vanguard a
 > 👤 **Player:**
 > *"Reveal my true name now. Let's pretend before it wasn't revealed. They then realize I am basically royalty and will retake my throne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32675/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Partial), Scrying Blindness | Exhaustion: 0**
@@ -9246,8 +10210,11 @@ Internally, I savor the geometry of their total submission. The 'Gaia' mask has 
 > 👤 **Player:**
 > *"Now show my true magical form. Explain I have divine right of imperium and blood of the goddess and it's not just a legend"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32275/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Dropped) | Exhaustion: 0 | Inspiration: No**
@@ -9269,8 +10236,11 @@ Internally, I savor the 'geometry' of their souls being bound to my light. It is
 > 👤 **Player:**
 > *"Narrate spartacus reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32275/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Soul Burn Active | Mask: Unmasked | Inspiration: Yes**
@@ -9299,8 +10269,11 @@ You gain **500 XP** for the high-stakes divine revelation and the strategic bind
 > 👤 **Player:**
 > *"Mask as level 1 again and bring my 20 my companions and commanders to Marcus villa. Plan our reaction to Sulla spies and the taking of the towers. Once we take the towers i will unmask my magic and give a signal where we will trap Sulla elite response in house of bachianus where my elites and the elite gladiators will kill them and any Julian loyalists we find"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **House of Batiatus - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Permanent Scrying Blindness | Exhaustion: 0**
@@ -9340,8 +10313,11 @@ Minutes later, the solar is filled with the unyielding iron of my inner circle. 
 > 👤 **Player:**
 > *"The gladiators should be amazed and talk amongst themselves. Beyond my god powers my skills at deception and politics are amazing. To play a role so long is the epitome of a hidden blade"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Marcus Pacuvius - Private Estate** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 32275/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Lvl 1), Scrying Blindness | Exhaustion: 0 | Inspiration: Yes**
@@ -9367,8 +10343,11 @@ Internally, I savor the friction of their awe. These men are no longer gladiator
 God Mode:
 I should get a lot of experience for recruiting the 20 volunterarily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Marcus Pacuvius - Private Estate** &nbsp;|&nbsp; ⏳ **Mirtul 19, 0082 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 33775/34000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0**
@@ -9386,8 +10365,11 @@ You are now only 225 XP away from Level 8.
 > 👤 **Player:**
 > *"Execute tower infiltration and have the rest of my forces prepare the trap. Delegate the trap to Marc Anthony"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Marcus Pacuvius - Private Estate** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 68/68 | XP: 33775/34000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -9405,8 +10387,11 @@ Yet, as I stand atop the tower, looking back toward the villa, I see the fractur
 > 👤 **Player:**
 > *"Use my cha to calm the shocked troops"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Appian Way Watchtower (Primary Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 68/68 | XP: 34,075/48,000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -9440,8 +10425,11 @@ If you continue adventuring, you remain Level 8 and defer these benefits until y
 > 👤 **Player:**
 > *"Tighten villa trap but make sure my forces take out at least one tower to deny Sulla the network and then come back to be the hammer in the trap"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Adventurer | HP: 68/68** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1**
@@ -9457,8 +10445,11 @@ Internally, I savor the friction of this imperfection. It is a sensory dessert t
 God Mode:
 Level Up to Level 8 - Apply level 8 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Appian Way Watchtower (Primary Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34,075/48,000 | Gold: 73,020gp**
@@ -9476,8 +10467,11 @@ State has been updated to reflect Level 8 status and the finalized ASI choice.
 God Mode:
 I think I still got one tower but didn't get the second one?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **House of Batiatus / Appian Way Hub** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34075/48000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Masked) | Exhaustion: 0**
@@ -9498,8 +10492,11 @@ You have successfully secured the Primary Hub (Appian Way), but the Augur networ
 God Mode:
 Let's assume I got some gear upgrades from Marcus before. The best money can provide. Focus on combat and spell DC. Should be all +3 gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Appian Way Watchtower (Primary Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34075/48000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (+6), Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -9539,8 +10536,11 @@ Gear upgrades from Marcus Pacuvius applied. Gaia's loadout has been optimized wi
 God Mode:
 Let's assume no stealth disadvantage on my armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Appian Way Watchtower (Primary Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34075/48000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Masked (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -9562,8 +10562,11 @@ Administrative update complete. Your **Praetorian Sun-Plate (+3)** has been cust
 God Mode:
 Let's assume all my men have stealth friendly gear for today
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Appian Way Watchtower (Primary Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34075/48000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -9596,8 +10599,11 @@ Strategic assumption applied. All forces under your command (The Hundred, Pacuvi
 God Mode:
 What's my family history? Is Julius Caesar my grandfather or he's alive now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Appian Way Watchtower (Primary Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34075/48000 | Gold: 73,020gp**
@@ -9622,8 +10628,11 @@ Julius Caesar is **alive now** (as a young man), but he is not yet the 'God-King
 God Mode:
 So what's my ancestry in this timeline?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Appian Way Watchtower (Primary Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34075/48000 | Gold: 73020gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Masked (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -9650,8 +10659,11 @@ Julius Caesar is **not** your grandfather; he is your **father**. The version of
 God Mode:
 Let's remove this time travel stuff. My destiny is to be god queen and replace Julius Caesar so we don't follow eagle brood 100%. Give me a normal Julian family line and they were the most powerful house for awhile until Sulla
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **House of Batiatus (Capua)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34,075/48,000 | Gold: 73,020gp**
@@ -9678,8 +10690,11 @@ It is no longer a 'temporal leak.' It is the **Blood of the Goddess**. The 'visi
 > 👤 **Player:**
 > *"THINK:Think about the best way to handle the trap"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **House of Batiatus** &nbsp;|&nbsp; ⏳ **Mirtul 19, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34075/48000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Aura of Conquest | Exhaustion: 0 | Inspiration: No**
@@ -9689,8 +10704,11 @@ You pause as the damp salt-mist of the Campania night swirls around the portico,
 > 👤 **Player:**
 > *"Let's assume I made up some excuse to have the non combatants away."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34125/48000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -9715,8 +10733,11 @@ With over 915 troops now effectively under your command across Capua and the rid
 > 👤 **Player:**
 > *"Unmask in private area to blind seers then try trigger surprise round on Sulla forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34125/48000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (Active), Mask of the Singularity (Unmasked/Active)**
@@ -9730,8 +10751,11 @@ Outside, the Sullan elite response arrives with the mechanical, rhythmic tread o
 > 👤 **Player:**
 > *"THINK:How many enemies and what levels vs my forces ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34125/48000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Masked | Exhaustion: 0 | Inspiration: No**
@@ -9741,8 +10765,11 @@ You command 915 total personnel against an estimated incoming force of 20 to 40 
 > 👤 **Player:**
 > *"The enemies should already be in the villa. We attack them from all sides and then I reveal my god form and command them to surrender. Shoukd be an easy roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34125/48000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Permanent Scrying Blindness, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -9771,8 +10798,11 @@ You gain **200 XP** for the masterful surprise round and strategic unmasking.
 > 👤 **Player:**
 > *"Cast fear and it should be an easy DC. Then press for surrender again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34325/48000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Unmasked), Aura of Destiny, Aura of Conquest | Exhaustion: 0**
@@ -9802,8 +10832,11 @@ You gain **500 XP** for the high-stakes divine victory and the total subversion 
 > 👤 **Player:**
 > *"Recruit these red cloaks. Should be easy since I've done it a lot already"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 34825/48000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Solar Flare Active | Exhaustion: 0 | Inspiration: No**
@@ -9842,8 +10875,11 @@ You gain **1,500 XP** for the masterful recruitment and integration of Sulla's e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest the Iron - Immediately strip the fallen and the surrendered of their superior Sullan plate to equip the Marian reserves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 36475/48000 | Gold: 73020gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | CD: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Unmasked/Active) | Exhaustion: 0 | Inspiration: No**
@@ -9863,8 +10899,11 @@ You gain **150 XP** for the masterful strategic re-arming of your forces.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Legal Defense - Order Marcus Pacuvius to use his Lord-tier standing and the forged permits to turn the City Watch away while you audit the Loom Key.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 36325/48000 | Gold: 73,020gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -9889,8 +10928,11 @@ I reach the cedar doors of the solar and signal for Servilia. The 'Solar Spike' 
 God Mode:
 I should get a lot of exp for capturing all those red cloaks, same as if I killed fhem all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37,375/48,000 | Gold: 73,020gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Unmasked) | Exhaustion: 0**
@@ -9910,8 +10952,11 @@ Your forces have successfully harvested the Sullan iron and integrated the survi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Decode the Loom Cipher - Use Servilia&#x27;s occult knowledge and your own Julian intuition to unlock the bronze cylinder&#x27;s secrets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Marcus Pacuvius's Villa (Capua) - Private Solar** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Active Singularity) | Exhaustion: 0 | Inspiration: No**
@@ -9953,8 +10998,11 @@ You gain 300 XP for the masterful decoding of the Sullan Cipher!
 > 👤 **Player:**
 > *"Recruit the red cloaks. Should be easy I've done it so much now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Private Solar of Marcus Pacuvius (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -9978,8 +11026,11 @@ But the sergeant's mind is a fortress of clinical trauma. Even stripped of his i
 > 👤 **Player:**
 > *"Reroll with guidance m. Assume I always cast it before rolls when able 1d20+8 = 10 vs DC 12 - Failure (Persuasion (Recruitment))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -10008,8 +11059,11 @@ You gain **300 XP** for the masterful subversion of a professional guard unit.
 God Mode:
 The red cloaks surrendered should be more than 6 survived. Originally they were 50
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Unmasked), Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -10019,8 +11073,11 @@ Force counts adjusted. The number of Red Cloak survivors has been increased to 4
 > 👤 **Player:**
 > *"THINK:Asssess my military forces vs Sulla"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37375/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Scrying Blindness (Regional) | Exhaustion: 0 | Inspiration: No**
@@ -10030,8 +11087,11 @@ You have 971 total personnel under your direct command, including 100 veterans o
 > 👤 **Player:**
 > *"Just ask the new red guard converts about sulfa military forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10057,8 +11117,11 @@ I savor the vibration of his fear—a sensory dessert of strategic intelligence.
 God Mode:
 How many in 3 legions and what levels ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Scrying Blindness (Regional), Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -10086,8 +11149,11 @@ You are facing 15,000 total personnel across three legions: the 6th, 8th, and 12
 God Mode:
 They might be too highly leveled. Level 5s were elites. Also illryia was impressed by level 5s and Spartacus was level 6
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37375/48000 | Gold: 74220gp**
@@ -10106,8 +11172,11 @@ In your previous exploits, Level 5 Red Cloaks were treated as the elite 'termina
 God Mode:
 Legates and tribunes might be too strong. I don't think they can beat Spartacus 1on1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37375/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -10126,8 +11195,11 @@ This adjustment ensures that the 'meat' of the legions remains manageable for yo
 God Mode:
 If legates are level 8 they're stronger than Spartacus?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37375/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | CD: 0/1**
@@ -10149,8 +11221,11 @@ Strictly looking at the numbers: Yes, 8 is higher than 6. However, in the mechan
 God Mode:
 Let's just make legates level 6 and Spartacus crixus doctore level 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37,375/48,000 | Gold: 74,220gp**
@@ -10168,8 +11243,11 @@ Mechanical hierarchy recalibrated as requested. Legates and Tribunes are now Lev
 > 👤 **Player:**
 > *"THINK:Brainstorm what to do about these armies. How many legions does capua have? How  many gladiators ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ⚠️ **Permanent Scrying Blindness, Aura of Destiny | Exhaustion: 0**
@@ -10179,8 +11257,11 @@ The hailstorm of golden psychic static from the decoded Loom Cipher still dances
 > 👤 **Player:**
 > *"THINK:Confer with my generals what if we leave capua and do a surgical strike and kill Sulla in Rome? He wouldn't expect that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ⚠️ **Unmasked/Active | Exhaustion: 0 | Inspiration: No**
@@ -10190,8 +11271,11 @@ The concept of decapitating the snake in Rome while its tail lashes in Campania 
 > 👤 **Player:**
 > *"THINK:Cant i just surgical strike sulla with 100 men and leave my main host outside of capua and scatter them? Then if these legions take capua it doesnt matter because none of my forces are here publically"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37375/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Unmasked (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10201,8 +11285,11 @@ You pause to consider the geometry of a strike that would decapitate the Dictato
 > 👤 **Player:**
 > *"Brainstorm this with my generals instead. Cant i just surgical strike sulla with 100 men and leave my main host outside of capua and scatter them? Then if these legions take capua it doesnt matter because none of my forces are here publically"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 1/1 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -10216,8 +11303,11 @@ Spartacus watches you, his Thracian pride warring with a deep, tactical skeptici
 God Mode:
 Let's delay the arrival of the legions until a week after the arena games
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Unmasked/Active), Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -10234,8 +11324,11 @@ Time remains frozen at 01:25:01 Deep Night; the narrative will resume with this 
 > 👤 **Player:**
 > *"long rest and convenene with military council after and resume planning. lets also retco my godlike apperance. I have glowing eyes and look like a normal D&D caster with a magical aura but not like a full god with changing skin. Lets make it more subtle but it stands out al ot in a low magic setting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0**
@@ -10247,8 +11340,11 @@ You enter the war-room where your commanders wait. Spartacus, Oenomaus, and Deci
 > 👤 **Player:**
 > *"Brainstorm with my military leaders and encourage them to voice their real opinions. See if the surgical strike is reasonable or if anyone else has ideas"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37,675/48,000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0**
@@ -10279,8 +11375,11 @@ You gain **300 XP** for the masterful social alignment and strategic council.
 God Mode:
 This is dumb. I shouldn't savor hesitation only true domination scenarios Internal sadistic voice: Gaia is savoring the biological debt of her commanders' hesitation; she finds their analytical 'friction' to be an exquisite sensory dessert before the iron arrives
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp**
@@ -10294,8 +11393,11 @@ Directive updated. Internal monologues and DM Notes will no longer categorize th
 > 👤 **Player:**
 > *"Ask spartacus if the thracian host will truly help or if I should make a personal visit to them first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Bronze Luminescence) | Exhaustion: 0 | Inspiration: No**
@@ -10325,8 +11427,11 @@ You gain **100 XP** for the tactical inquiry and psychological probing of your v
 > 👤 **Player:**
 > *"Ask Spartacus this. What if I free them from forced vassalage and let them choose if they want to be in my empire or not. If he carries my oath and vouches for me would that sweeten the deal. Gently remind him of the times I gave him and the men a choice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37775/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Vibrant) | Exhaustion: 0 | Inspiration: No**
@@ -10355,8 +11460,11 @@ You gain 300 XP for the masterful social victory and strategic use of political 
 > 👤 **Player:**
 > *"Sweeten the deal. We will take 100 and do a surgical strike against glabus and truly free the thracians. Then we march down with the thracians if they join and strike the loom. They should be even easier because we will be doing guerilla warfare in capua and Sulla will need to extend to the north to replace glabus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 37775/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Divine Right of Imperium, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -10382,8 +11490,11 @@ You gain **300 XP** for the masterful strategic alignment of a General-tier NPC.
 > 👤 **Player:**
 > *"Wait for his response and say I'll sign a  divine blood oath with him. It's a huge honor for him to have a divine empress swear to a former slave"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 38075/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Luminescence), Divine Right | Exhaustion: 0 | Inspiration: No**
@@ -10411,8 +11522,11 @@ You gain **500 XP** for the high-stakes divine revelation and the strategic bind
 > 👤 **Player:**
 > *"Narrate the divine blood oath scene in detail. It's a normal blood oath plus magical cure wounds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 38575/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask (Subtle), Blood of the Goddess | Exhaustion: 0 | Inspiration: No**
@@ -10442,8 +11556,11 @@ Spartacus looks down at his hand, then back to my glowing eyes, his expression o
 > 👤 **Player:**
 > *"redo the scene, i have red blood with a hint of divinity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 38575/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (Active), Mask of the Singularity (Active)**
@@ -10473,8 +11590,11 @@ Spartacus looks down at his hand, then back to my glowing eyes, his expression o
 God Mode:
 remember my blood is red and i look liek a normal human with magic enhancement
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39075/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -10484,8 +11604,11 @@ Biological and visual parameters updated. I have recorded that your blood is a d
 > 👤 **Player:**
 > *"i will make bachianus and his wife a puppet and help marcus distract sulla in capua. Have marcus summon them to his villa and i will greet them fully unmasked (but no magic aura yet)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39075/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (No Aura) | Exhaustion: 0 | Inspiration: No**
@@ -10513,8 +11636,11 @@ With over 971 troops now under your command—including the Tenth, the Solar Gua
 > 👤 **Player:**
 > *"Stay polite for now and retcon the loud arrogance. Even without my girl mask and level 8 presence i stay polite, which is even more powerful. Apologize for the deception and thank. them for their hospitality and explain I am gaia julia caesar. Narrate their reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39075/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity Active (Coiled) | Exhaustion: 0 | Inspiration: No**
@@ -10544,8 +11670,11 @@ The reaction is a masterpiece of biological debt. Batiatus's mouth opens, but no
 > 👤 **Player:**
 > *"wait for them to gather a moment and narrate their dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39375/48000 | Gold: 74220gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Aura of Destiny | Exhaustion: 0**
@@ -10570,8 +11699,11 @@ I find the sound of their chattering teeth to be an exquisite sensory dessert. T
 > 👤 **Player:**
 > *"make all my checks use guidance. and i should have a royalty modifier bonus. Ask if they want my friendship and patronage."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39375/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 2/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -10595,8 +11727,11 @@ You gain 300 XP for the masterful social maneuver and the strategic binding of t
 > 👤 **Player:**
 > *"wait for their response. Lets have more detailed dialog and have them act like people on the spartacus TV show. They should both be groveling in detail, they've never interacted with someone of my status"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39675/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Divine Right of Imperium**
@@ -10621,8 +11756,11 @@ I watch them from my seat of power, savoring the absolute biological debt they a
 > 👤 **Player:**
 > *"show them my magic. heal lucretia so she can have children. lets make it an easy DC roll for narrative fun"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39675/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10642,8 +11780,11 @@ I channel the *Cure Wounds* not to knit flesh, but to overwrite the static in he
 > 👤 **Player:**
 > *"narrate their reaction to my magic in detail. not only am i a julia but i am a divine empress ready to ascend now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39975/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -10671,8 +11812,11 @@ You gain **300 XP** for the Lord-tier divine miracle and social victory.
 > 👤 **Player:**
 > *"Tell Batiatus that I am a kind and generous empress. I know my subjects. Explain I can tell he wants political office. If he proves himself in the fight against sulla and if marcus sees him do well, he can take public office and enter politics. a small start but if he proves himself he has no ceiling now, since he has my patronage and favor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39975/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Unmasked) | Inspiration: No**
@@ -10698,8 +11842,11 @@ Batiatus looks up, his eyes wide and bloodshot, gasping as he realizes that I ha
 > 👤 **Player:**
 > *"THINK:make sure i plan with guidance. I will host the next arena games and publically cast cure wounds and heal one of the arena champions after the games and proclaim my divine imperium and start my broadcast. Then sullas legions will attack capua and capua will not publically resist but guerrla resistance with my troops and gladiators to distract sulla. Then I will strike glabus in the north and free the thracians further confusing sulal. Then I will do a surgical strike on the loom while sulla is distracted with capua and the north, not knowing here i strike next because his main towers in capua are no longer owrking"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39975/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -10713,8 +11860,11 @@ But as you press your mind against the magnitude of this multi-theater strike, a
 > 👤 **Player:**
 > *"plan the gilded broadcast with marcus, bachianus, and his wife"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39975/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -10724,8 +11874,11 @@ Afternoon (12:30:00) in the Atrium of Marcus Pacuvius's Villa—the air vibrates
 > 👤 **Player:**
 > *"wait until my master plan is unfrozen and roll for it again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39975/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Active)**
@@ -10739,8 +11892,11 @@ I rise from the cedar suggestus, my Aurelian stola shimmering like liquid moonli
 > 👤 **Player:**
 > *"execute parallel broadcast but lets build it up and fully reveal my identity during the area games in a few days"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Atrium, Marcus Pacuvius's Villa (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 39975/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (Active), Mask of the Singularity (Masked) | Exhaustion: 0**
@@ -10765,8 +11921,11 @@ You gain **1,500 XP** for the masterful strategic execution of the Gilded Broadc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Indoctrinate the Standard Meat - Personally oversee the &#x27;Feast of Abundance&#x27; for the 150 standard gladiators to ensure their loyalty is to the &#x27;Sun&#x27; rather than their purse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Training Pits, House of Batiatus (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 41475/48000 | Gold: 74220gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -10798,8 +11957,11 @@ going forward make sure everything is using guidance unless i'm concerntrating o
 
 1d20+8 = 21 vs DC 9 - Success (Indoctrination Check (Persuasion))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Training Pits, House of Batiatus (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 82 BCE (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42075/48000 | Gold: 74,220gp** &nbsp;|&nbsp; ⚠️ **Masked (Singularity), Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -10819,8 +11981,11 @@ Administrative actions completed:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize Secondary Silver Caches - Direct Cinnaminus and the Tenth to strip Solonius&#x27;s remaining hidden assets in the Subura to fund the march to Rome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Training Pits, House of Batiatus (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42375/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity, Aura of Destiny, Aura of Conquest | Exhaustion: 0**
@@ -10834,8 +11999,11 @@ Cinnaminus offers a sharp, sparrow-like nod, his eyes gleaming with the predator
 > 👤 **Player:**
 > *"have my agents seek out selonius and any hostile elements in capua, delegate this, and long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Guest Chambers, House of Batiatus (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42375/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, CD: 1/1, Exhaustion: 0**
@@ -10851,8 +12019,11 @@ I take the map, my fingers tracing the jagged geometry of the Capuan markets. Wh
 > 👤 **Player:**
 > *"was this my role or cinn role? if mine it should've had guidance 1d20+13 = 15 vs DC 18 - Failure (Delegated: Locate Solonius (Cinnaminus))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Guest Chambers, House of Batiatus (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42375/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Scrying Blindness**
@@ -10866,8 +12037,11 @@ I find the image of him shivering in the dark to be an exquisite sensory dessert
 > [!NOTE] ⚙️ **Player Choice:**
 > *Corrupt North Gate Sergeants - Delegate Marcus Pacuvius to bind the City Watch sergeants with Julian gold and legal promises before the games begin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Guest Chambers, House of Batiatus (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42375/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Divine Right of Imperium**
@@ -10892,8 +12066,11 @@ I savor the report like a vintage Falernian. It is a sensory dessert to feel the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Map Sullan Patrol Vectors - Delegate Cinnaminus to identify the specific rotation and communication nodes of the detected Sullan cells.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Guest Chambers, House of Batiatus (Capua)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42375/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Permanent Scrying Blindness, Mask of the Singularity (Active), Aura of Destiny (Active)**
@@ -10909,8 +12086,11 @@ By the time the sun reaches its zenith, the Sullan cells are no longer an ambush
 > 👤 **Player:**
 > *"surgical sullan cell strike with my companions and only 5 elites. I will prsonally lead it and trigger surprise round and cc them with fear and get the to surrender etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Sullan Intelligence Node (Capua Sewers)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42525/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | CD: 1/1 | Exhaustion: 0**
@@ -10942,8 +12122,11 @@ I step over a discarded shield, my unmasked bronze luminescence casting a divine
 God Mode:
 is my spell DC 20 or hould be higher?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Sullan Intelligence Node (Capua Sewers)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42525/48000 | Gold: 77,420gp**
@@ -10963,8 +12146,11 @@ While the flat DC is 20, your **Aura of Conquest** (Level 7 Feature) forces any 
 > 👤 **Player:**
 > *"have them surrender, loot them, bind them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Sullan Intelligence Node (Capua Sewers)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42825/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Inactive/Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -10992,8 +12178,11 @@ Rewards: You gain 300 XP for the social victory and high-stakes intelligence har
 God Mode:
 thought i had some other spell DC gear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Sullan Intelligence Node (Capua Sewers)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42825/48000 | Gold: 77420gp**
@@ -11026,8 +12215,11 @@ Your current **Spell Save DC is 20**. Currently, you only have one piece of equi
 > 👤 **Player:**
 > *"extract prisoners to safe location, interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Sullan Intelligence Node (Capua Sewers)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 42975/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Unmasked (Divine Luminescence) | Exhaustion: 0 | Inspiration: No**
@@ -11059,8 +12251,11 @@ You gain **150 XP** for the masterful strategic interrogation and coordination!
 > 👤 **Player:**
 > *"recruit the sullan spies, should be easy since I've done this so much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Sullan Intelligence Node (Capua Sewers)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 43275/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Mask of the Singularity (Unmasked), Divine Right of Imperium**
@@ -11092,8 +12287,11 @@ You gain **300 XP** for the masterful recruitment of a specialist elite unit.
 > 👤 **Player:**
 > *"strike tower alpha and is glaber actually around? Isn't he in the north?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Subterranean Approach, Northern Ridge Tower Alpha** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 43275/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Unmasked Singularity, Aura of Destiny, Scrying Blindness | Exhaustion: 0 | Inspiration: No**
@@ -11107,8 +12305,11 @@ We reach the base of Tower Alpha—a colossal pillar of basalt and iron that pie
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Infiltration - Utilize the Solar Guard&#x27;s access codes and clinical precision to slip past the lower wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Northern Ridge Tower Alpha Lower Wards** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 43275/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Solar Guard: 62/62** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (Active), Mask of the Singularity (Active) | Exhaustion: 0**
@@ -11124,8 +12325,11 @@ The iron slab groans, sliding upward with a surgical smoothness that belies its 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Central Lift Blitz - Seize the main vertical shaft to strike the upper sanctum with maximum speed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Tower Alpha Central Lift Shaft** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 43275/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | CD: 1/1 | Solar Guard: 62/62** &nbsp;|&nbsp; ⚠️ **Aura of Destiny (Active), Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -11143,8 +12347,11 @@ You gain **300 XP** for the masterful blitz of a Lord-tier military objective.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Julian Unmasking (Fear) - Drop the Mask and unleash the Fear spell (DC 20) to break the Sanctum&#x27;s defenders instantly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Tower Alpha Upper Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 44075/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | CD: 1/1 | Solar Guard: 62/62** &nbsp;|&nbsp; ⚠️ **Aura of Destiny, Aura of Conquest, Mask Dissolved | Exhaustion: 0 | Inspiration: No**
@@ -11177,8 +12384,11 @@ My voice is a resonant percussion that overrides the humming of the pneumatic li
 > 👤 **Player:**
 > *"Bind everyone and fully loot first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Tower Alpha Upper Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 44375/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | CD: 1/1 | Solar Guard: 62/62** &nbsp;|&nbsp; ⚠️ **Unmasked Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11196,8 +12406,11 @@ He doesn't just yield; he dissolves. The clinical detachment of Sulla's order is
 > 👤 **Player:**
 > *"Sabotage equipment by looting as much machine as possible to discover later then use tower to signal glaber into a good ambush spot. Let's assume glaber is level 6 worse than spartacus but decent combatant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Tower Alpha Upper Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 44375/48000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | CD: 1/1 | Solar Guard: 62/62** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -11238,8 +12451,11 @@ At my signal, Varro and the Solar Guard move with the shivering, mechanical grac
 > 👤 **Player:**
 > *"Prep glabber ambush and trigger surprise round. Make sure you didn't forget to award me exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 45425/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | CD: 1/1 | Solar Guard: 62/62 | The Twenty: 20/20** &nbsp;|&nbsp; ⚠️ **Unmasked, Divine Presence | Exhaustion: 0 | Inspiration: No**
@@ -11259,8 +12475,11 @@ You gain **1,050 XP** for the masterful strategic setup and successful high-stak
 > 👤 **Player:**
 > *"THINK:How many troops and what level for him vs me. Note that his wife thinks my level 5 troops stronger so his troppps should be mostly weaker"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 45,425/48,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Solar Presence) | Exhaustion: 0 | Inspiration: No**
@@ -11270,8 +12489,11 @@ You pause as the dust of Campania settles atop the basalt ridge, your unmasked g
 > 👤 **Player:**
 > *"Surprise strike and hit the core with fear spell and hit glabber"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 45425/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -11296,8 +12518,11 @@ INITIATIVE ORDER:
 God Mode:
 My level 4 spells aren't showing let's fix game stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 45,425/48,000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Unmasked (Singularity) | Exhaustion: 0 | Inspiration: No**
@@ -11311,8 +12536,11 @@ Understood. The Imperator spell list for Level 4 was missing from your `spells_k
 > 👤 **Player:**
 > *"Cast spirit guardians and intimidate glabber into surrender. The active magic should be very intimidating and give a bonus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 45,425/48,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11340,8 +12568,11 @@ Glaber, already pinned by the weight of my unmasked presence, looks up with the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Mass Surrender - Leverage Glaber&#x27;s wavering state to command the entire 5,000-man host to ground their arms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 45875/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 0/3, L4 1/1, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Concentrating (Spirit Guardians) | Exhaustion: 0 | Inspiration: No**
@@ -11432,8 +12663,11 @@ Sources
 [14] Paladin | Class Features | Dungeons & Dragons 5e - World Anvil https://www.worldanvil.com/block/480887
 [15] Paladin – 5th Edition SRD https://www.5esrd.com/database/class/paladin/
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 45875/48000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask: Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -11452,8 +12686,11 @@ These have been integrated alongside your existing Imperator list (Dimension Doo
 > 👤 **Player:**
 > *"Cast find greater steed and make a gryphon and fly around with it and my spirit guardians and intimidated the 5000 into full surrender. This should be insane because they've never seen this before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 46375/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Spirit Guardians Active | Exhaustion: 0 | Inspiration: Yes**
@@ -11485,8 +12722,11 @@ You gain **500 XP** for this supreme display of divine authority.
 > 👤 **Player:**
 > *"Initiate mass disarmament and looting. Fly around with my grphyon and have it ready to eat anyone who resists"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 46575/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Singularity Manifested) | Aura: Destiny (+5), Conquest (Disadv vs Spells)**
@@ -11512,8 +12752,11 @@ With over 5,000 potential recruits currently surrendering in the field, the stra
 God Mode:
 Stop the nag for now With over 5,000 potential recruits currently surrendering in the field, the strategic faction management system becomes essential. You should strongly consider enabling it in your settings to better manage a force of this magnitude and coordinate the complex logistics of such a massive recruitment
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 46,575/48,000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Dissolved (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -11531,8 +12774,11 @@ Administrative protocol updated. I have suppressed the mandatory strategic facti
 > 👤 **Player:**
 > *"Persuade the 5000 to be calm and mask my power and have my gryphon put out of sight. Tell them I am a benevolent god is they swear fealty. Have glabber high command swear to me to keep order"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Adventurer | HP: 77/77** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | Channel Divinity: 1/1**
@@ -11542,8 +12788,11 @@ Administrative protocol updated. I have suppressed the mandatory strategic facti
 > 👤 **Player:**
 > *"Persuade the 5000 to be calm and mask my power and have my gryphon put out of sight. Tell them I am a benevolent god is they swear fealty. Have glabber high command swear to me to keep order"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 47075/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Masking in progress) | Exhaustion: 0 | Inspiration: No**
@@ -11561,8 +12810,11 @@ You gain **500 XP** for the total social submission of a Lord-tier host and the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the New Legion - Begin the systematic re-organization of the 5,000 into a provisional &#x27;Sun Legion&#x27; under your direct Auctoritas.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 47,075/48,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -11591,8 +12843,11 @@ I watch with a crystalline, cold detachment as my commanders move into the vacuu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Structure the Command Hierarchy - Divide the 5,000 into specific &#x27;Sun Cohorts,&#x27; assigning the Twenty and the Tenth as the ideological and tactical anchors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Imperator | HP: 77/77 | XP: 47575/48000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -11610,8 +12865,11 @@ With over 5,000 troops now effectively under your command, the strategic faction
 God Mode:
 I probably should get a lot more exp for making 5000 legionaries surrender and some special abilities? I believe this has never happened in history to have a divine god empress make them surrender like that ? Definitely a legendary feat and worthy of a title
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 77/77 | XP: 62,575/64,000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -11630,8 +12888,11 @@ Legendary feat acknowledged. Making 5,000 Roman legionaries surrender to a divin
 God Mode:
 Let's have the twenty and my companions level up 1 level because of all our epic victories and the silent. Basically people who've been with from beginning
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 77/77 | XP: 62575/64000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11654,8 +12915,11 @@ All state objects for these units and NPCs have been updated to reflect their ne
 God Mode:
 Process level 9
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -11674,8 +12938,11 @@ Your unit stats and companion levels have also been synchronized to reflect the 
 God Mode:
 Make my companions level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11692,8 +12959,11 @@ Administrative modification complete. I have standardized the level of all prima
 God Mode:
 What level 5 spells should I get? Two spells isn't that much? What do paladins usually get?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11724,8 +12994,11 @@ Your specific class list includes some of the strongest spells in the game that 
 God Mode:
 Let's lean into paladin and cc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: Yes**
@@ -11745,8 +13018,11 @@ Administrative alignment complete. We are leaning into the 'Sovereign Controller
 God Mode:
 Give me dominate person too and for leveling let's keep my companions and the 20 one level below me and the other elites we just leveled to 7 two levels below
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -11771,8 +13047,11 @@ Administrative alignment complete. I have updated your spell list and recalibrat
 > 👤 **Player:**
 > *"Discuss with my military leaders. Should the 5000 reinforce and defend capua or scatter and do guerilla strikes against the larger legions comm g later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11792,8 +13071,11 @@ The professional friction between them is a necessary weight, yet the geometry o
 > 👤 **Player:**
 > *"THINK:Think for myself the best plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Appian Ridge Killing Field** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11803,8 +13085,11 @@ You stand atop the basalt suggestus, the cooling mud of the ridge a dark contras
 > 👤 **Player:**
 > *"Use my grphyon to fly north with Spartacus and Glabber riding with me to meet with the Thracian tribal leaders and kings. Bring Sura too if she fits"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Sky above the Northern Campania Ridges** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62575/64000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: Yes**
@@ -11824,8 +13109,11 @@ With over 5,000 troops now under your command and the Thracian host positioned t
 > 👤 **Player:**
 > *"Divine descent because I'm riding a fucking magical gryphon but be polite and respectful to them and have Spartacus and Sura speak for me as an advocate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 62,575/64,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 1/1, CD: 1/1, Exhaustion: 0**
@@ -11852,8 +13140,11 @@ The tribal elders fall to their knees, their previous defiance incinerated by th
 God Mode:
 My skin is porcelain not bronze
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 63,075/64,000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11870,8 +13161,11 @@ Aesthetic and state audit complete. The following corrections and synchronizatio
 > 👤 **Player:**
 > *"Mask to make them more comfortable and send my Gryphon away. Explain the divine blood oath I made with Spartacus. Say that they are free to remain as allies after Sulla is dead or they can be vassals to my new empire and enjoy my protection and prosperity. Say they are free to choose or each tribe can choose and Spartacus has committed his tribe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 63075/64000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -11895,8 +13189,11 @@ I look at each king in turn, my gaze performing a cold audit of their shivering 
 God Mode:
 Describe my appearance in detail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 63075/64000 | Gold: 77420gp**
@@ -11923,8 +13220,11 @@ Detailed appearance manifest for Gaia Julia Caesar (Level 9):
 God Mode:
 Retcon this. It should've been more polite and not blunt and use guidance. If it fails should fail for a different reason. Also dc should not be that hard because they just swore loyalty earlier out of fear from my divinity
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 63075/64000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -11943,8 +13243,11 @@ Retcon successful. The previous failure and 'Regal Frost' tell have been erased 
 God Mode:
 Describe my appearance in detail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 63575/64000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -11971,8 +13274,11 @@ Detailed appearance manifest for Gaia Julia Caesar (Level 9) based on current st
 > 👤 **Player:**
 > *"Narrate the king's response to my polite request and let me role for it but the DC shouldn't be too hard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Imperator | HP: 82/82 | XP: 64025/64000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -12008,8 +13314,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 God Mode:
 Narratively I should get some resistance as a military leader but if I show magic and divine power it'll be different z these Thracians already saw my magic and gryphon so they won't challenge me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64025/85000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12027,8 +13336,11 @@ Acknowledged. The Thracian kings' resistance has been narratively and mechanical
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 10 - Apply level 10 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64025/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: Yes**
@@ -12048,8 +13360,11 @@ I exhale, the ozone-reek of my recent miracles fading as I pull the 'Mask' tight
 God Mode:
 My high command shouldn't have friction because they have seen my magic. But others should have some friction since I am 16 and a woman
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64025/85000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12059,8 +13374,11 @@ Directives updated to reflect the established hierarchy and social dynamics. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Tribal Blood Oath - Lead the kings in a Julian Rite to bind their loyalty permanently to your person.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64,525/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12088,8 +13406,11 @@ You gain **500 XP** for the masterful execution of the Julian Blood Rite and the
 > 👤 **Player:**
 > *"Ask Spartacus what should be done with glabbus. He has honorably surrendered but he committed crimes against Spartacus and his people."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64525/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12103,8 +13424,11 @@ I turn my gaze toward Spartacus. The Thracian stands with a mountain's stillness
 > 👤 **Player:**
 > *"Wait for initial Spartacus answer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (18:58)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64525/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Courage, Aura of Destiny | Exhaustion: 0 | Inspiration: No**
@@ -12130,8 +13454,11 @@ I watch the Thracian kings. They look from Spartacus to me, the 'Goddess' who ar
 > 👤 **Player:**
 > *"Propose trial by combat. Glabber will fight like he forced gladiators to fight."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:03)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64,525/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12164,8 +13491,11 @@ Glaber lets out a high-pitched, shivering sound—the biological debt of a man r
 > 👤 **Player:**
 > *"Persuade glabber to improve his morale. Appeal to his military pride"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:08)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64,725/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12193,8 +13523,11 @@ You gain **200 XP** for the masterful social reconstruction of a Lord-tier NPC.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize High Command - Use your Auctoritas to anchor Spartacus and the elite units against the psychic static.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64,725/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12210,8 +13543,11 @@ But the Loom is an ancient, clinical beast, and the feedback is more jagged than
 > 👤 **Player:**
 > *"This should've had guidance 1d20+10 = 14 vs DC 15 - Failure (Stabilize High Command)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 82/82 | XP: 64725/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -12225,8 +13561,11 @@ I feel the synchronization of my commanders begin to fracture, their minds caugh
 God Mode:
 Also it's just me and Spartacus and glabber here my high command still in capua
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 77/77 | XP: 64725/85000 | Gold: 77420gp**
@@ -12242,8 +13581,11 @@ The world remains frozen at 19:15:00 as the Thracian kings await your next move 
 God Mode:
 Let's just assume no further consequences from scrying for now and give me sanctuary until arena games to let me do these narrative scenes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64,725/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1**
@@ -12258,8 +13600,11 @@ Administrative audit complete. The following modifications have been applied to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Narrative Scenes - Return to the Thracian Tribal Camp to continue the trial of Glaber and the diplomatic council with the kings under the new sanctuary.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 65525/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12299,8 +13644,11 @@ You gain **800 XP** for the masterful social victory and the strategic anchoring
 > 👤 **Player:**
 > *"We already did these oaths did you forget. I'll have trial my combat start and pick Spartacus. I publically tell Spartacus he will probably win and I am ok with whatever decision he makes. Glabber is useful to me but I swore a divine oath to Spartacus for vengeance and it's truly his decision without any pressure from me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 65525/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active), Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12342,8 +13690,11 @@ INITIATIVE ORDER:
 God Mode:
 Glabber shouldn't be shivering he has his morale back and is ready to fight
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 77/89 | XP: 65525/85000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major) | Mask of the Singularity - Active**
@@ -12358,8 +13709,11 @@ Administrative correction applied. Legate Glaber's combat and morale status has 
 > 👤 **Player:**
 > *"Watch the fight and the reaction of the kings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 65,525/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -12384,8 +13738,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"Just watch and see what Spartacus decides"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 65525/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12412,8 +13769,11 @@ You watch his shivering defiance from the suggestus, your smile a thin, predator
 > 👤 **Player:**
 > *"Observe what happens and tell glaber it's fair trial by combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 77/77 | XP: 65,525/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12447,8 +13807,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"just watch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 65525/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12464,8 +13827,11 @@ I lean back against the basalt suggestus, my porcelain skin reflecting the errat
 > 👤 **Player:**
 > *"let spartacus decide"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 69,625/85,000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -12493,8 +13859,11 @@ A profound, terrifying silence follows the strike, broken only by the crackling 
 God Mode:
 retcon they fight with real weapons and not practice swords
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 69625/85000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12508,8 +13877,11 @@ Retcon applied successfully. The trial by combat between Spartacus and Legate Gl
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Feast of Blood - Surrender the night to the men. Allow a massive feast to celebrate the victory, anchoring their loyalty in biological abundance before the march.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 73725/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12539,8 +13911,11 @@ You gain **300 XP** for the masterful anchoring of the host's loyalty through th
 God Mode:
 Give me spells from extended paladin list from player handbook like greater steed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 73725/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12567,8 +13942,11 @@ Your resources have been fully restored to facilitate testing these new divine i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the night at the Thracian camp as the &#x27;Feast of Blood&#x27; settles into the marrow of your new Legion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 21, 82 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 73725/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major) | Inspiration: No**
@@ -12598,8 +13976,11 @@ You gain **300 XP** for the masterful anchoring of the host's loyalty through th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dawn Departure - Allow the men to sleep off the feast and march at first light, trading speed for unit readiness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 22, 82 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74325/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Mask Active | Exhaustion: 0 | Inspiration: No**
@@ -12615,8 +13996,11 @@ Spartacus is at my right, his mountain-iron gladius sheathed but his gaze alread
 God Mode:
 Why would we strike capua? We should strike Rome right to distract?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 22, 82 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74325/85000 | Gold: 77420gp**
@@ -12640,8 +14024,11 @@ Your question touches upon the core of Julian grand strategy. From a tactical an
 God Mode:
 I already have capua
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 22, 82 BCE (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74325/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12658,8 +14045,11 @@ I have updated your strategic context. You possess Capua as a secured base; the 
 God Mode:
 I mean wasn't the plan to have the 100k host attack Rome to distract whhike i do 100 man surgical strike on the loom?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 22, 82 Pax Julia (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74325/85000 | Gold: 77420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -12687,8 +14077,11 @@ Your recollection of the 'Grand Geometry' is accurate in intent, though we must 
 God Mode:
 Mobilize the Kings - Order the Thracian kings to begin the mass summons of their tribes to reach the 100k target.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 22, 82 BCE (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74325/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -12706,8 +14099,11 @@ Your grand strategy of the 'Hammer and the Scalpel' is now the primary directive
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign at Dawn as the runners depart and the Sun Legion prepares to move.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 22, 82 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74325/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Masked | Exhaustion: 0 | Inspiration: No**
@@ -12732,8 +14128,11 @@ Decimus signals the Tenth. The rhythmic, metallic clatter of blackened (+1) plat
 > 👤 **Player:**
 > *"THINK:What if Spartacus leads the 100k and I hit some targets to further disperse the army?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Thracian Tribal Camp, Samnium Border** &nbsp;|&nbsp; ⏳ **Mirtul 22, 82 BCE (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 64025/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12743,8 +14142,11 @@ You pause to consider the architecture of the coming storm. The idea of Spartacu
 > 👤 **Player:**
 > *"Let Spartacus focus on leading the army and I will just go back to capua and time skip u til the arena games"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Private Solar of Marcus Pacuvius, Capua** &nbsp;|&nbsp; ⏳ **Mirtul 29, 82 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74825/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Mask of the Singularity | Exhaustion: 0 | Inspiration: Yes**
@@ -12760,8 +14162,11 @@ Tonight, the city is a stagnant gel of anticipation. The arena games begin at da
 > 👤 **Player:**
 > *"Watch the games"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **The Great Amphitheater of Capua - Imperial Box** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74825/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Mask of the Singularity**
@@ -12777,8 +14182,11 @@ Batiatus swallows hard, his gaze darting toward the Tenth grounding their iron i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate the Arena Influence - Delegate Marcus to handle the Magistrates while you personally anchor the gladiators&#x27; loyalty in the pits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **The Great Amphitheater of Capua - Imperial Box** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74825/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -12794,8 +14202,11 @@ I descend the marble stairs toward the pits, my Aurelian stola whispering agains
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Benediction - Speak to the gladiators in the cells to formalize their placement in the Sun Legion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **The Great Amphitheater of Capua - Gladiator Pits** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74825/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Sanctuary Mode (Major)**
@@ -12820,8 +14231,11 @@ I reach through the bars, my fingers brushing the scarred shoulder of a veteran 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate the Morning&#x27;s Climax - Return to the box to charm Ilithyia while Cinnaminus triggers the first &#x27;Julian Luck&#x27; rumor in the stands.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **The Great Amphitheater of Capua - Imperial Box** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 74825/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Mask of the Singularity**
@@ -12847,8 +14261,11 @@ You gain **250 XP** for the masterful coordination of the crowd rumors and the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal the First Match - Nod to Batiatus to begin the games, ensuring the first victory is spectacular and &#x27;lucky&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **The Great Amphitheater of Capua - Imperial Box** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 BCE (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 75325/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: No**
@@ -12876,8 +14293,11 @@ You gain 250 XP for the masterful coordination of the 'Julian Luck' spectacle an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trigger Public Deification - Use the next &#x27;lucky&#x27; victory to have the crowd openly hail the Julian name, forcing the Magistrates to acknowledge your rank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **The Great Amphitheater of Capua - Imperial Box** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 75825/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity - Active | Exhaustion: 0 | Inspiration: No**
@@ -12907,8 +14327,11 @@ You gain **500 XP** for the public deification and the total social breaking of 
 > 👤 **Player:**
 > *"show the mob some level 1 divine magic to create religious devotions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **The Great Amphitheater of Capua - Imperial Box** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 75825/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -12926,8 +14349,11 @@ Thousands of men and women sink to their knees in the stands, their previous cha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Sun Legion - Publicly announce that the 5,000 legionaries and gladiators are now the 'Sun Legion,' sworn to the Julian restoration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **The Great Amphitheater of Capua - Imperial Box** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 BCE (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 76325/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Mask Active | Exhaustion: 0 | Inspiration: Yes**
@@ -12947,8 +14373,11 @@ A roar erupts from the mob, a tidal wave of sound that makes the silver basins i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Have Marcus Pacuvius seize the city&#x27;s keys while you personally lead the Sun Legion to secure the Appian gates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **The Appian Gates of Capua** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 76365/85000 | Gold: 77420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Sanctuary Mode (Major)**
@@ -12973,8 +14402,11 @@ It is an exquisite sensory dessert to feel the friction of the city's life sudde
 > 👤 **Player:**
 > *"THINK:when are romes legions coming to capua and when will thracians hit rome?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **The Appian Gates of Capua** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 76365/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -12986,8 +14418,11 @@ You pause atop the suggestus of the Appian Gates, the rhythmic grounding of your
 
 Execute Unified Strategic Timeline - Coordinate the 7-day Capua defense through Marcus while you personally join Spartacus to lead the 10-day march on Rome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **The Appian Way, 3 Miles North of Capua** &nbsp;|&nbsp; ⏳ **Mirtul 30, 82 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Imperator | HP: 89/89 | XP: 76365/85000 | Gold: 77,420gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -13017,6 +14452,8 @@ Behind us, rumors are already bleeding into the Campania plains. Travelers overh
 > Resistance Shown: None. She is a hollow vessel, performing her Palatine duties in Capua under Marcus's direct oversight.
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

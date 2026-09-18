@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (117 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 
@@ -30,133 +41,138 @@ Options:
 2. The Bored Aristocrat: "Rome is a graveyard of marble. Everyone whispers; no one screams. I heard your House makes men scream, Batiatus. I have gold. Make me feel something." (Plays the nihilistic noble).
 3. The Imperial Echo: Step close to Lucretia. "My father's protection casts a very long shadow, Lucretia. Even here. I am looking for a specific kind of... animal. Show me your beasts." (Subtly hints at power without revealing the name
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Capua | Julius 10, 44 BCE (16:30) | Roleplay |
-| **03** | Capua | Julius 10, 44 BCE (16:30) | Roleplay |
-| **04** | Capua | Julius 10, -44 DR (16:35) | Roleplay |
-| **05** | Capua | Julius 10, -44 BCE (16:35) | Roleplay |
-| **06** | Capua | 10, -44 Julius (16:35) | Roleplay |
-| **07** | Capua | Julius 10, -44 DR (16:40) | Roleplay |
-| **08** | Capua | Julius 10, 44 BCE (16:40) | Roleplay |
-| **09** | Capua | Julius 10, -44 BCE (16:40) | Roleplay |
-| **10** | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
-| **11** | Capua | Julius 10, -44 DR (16:45) | Roleplay |
-| **12** | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
-| **13** | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
-| **14** | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
-| **15** | Capua | -44 Julius 10, 16:45:00 | Roleplay |
-| **16** | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
-| **17** | Capua | Julius 10, -44 BCE (16:50) | Roleplay |
-| **18** | Capua | Julius 10, -44 BCE (16:55) | Roleplay |
-| **19** | Capua | Julius 10, -44 BCE (16:55) | Roleplay |
-| **20** | Capua | -44 Julius 10, 17:00:00 | Roleplay |
-| **21** | Capua | Julius 10, 44 BCE (17:00) | Roleplay |
-| **22** | Capua | Julius 10, -44 BCE (17:00) | Roleplay |
-| **23** | Capua | -44 Julius 10, 17:00:00 | Roleplay |
-| **24** | Capua | Julius 10, -44 BCE (17:00) | Roleplay |
-| **25** | Capua | Julius 10, -44 Julius (17:00) | Roleplay |
-| **26** | Capua | Julius 10, -44 Julius (17:05) | Roleplay |
-| **27** | Capua | -44 Julius 10, 17:05:00 | Roleplay |
-| **28** | Capua | -44 Julius 10, 17:05:01 | Roleplay |
-| **29** | Capua | Julius 10, -44 Julius (17:10) | Roleplay |
-| **30** | Capua | Julius 10, -44 DR (17:15) | Roleplay |
-| **31** | Capua | -44 Julius 10, 17:20:00 | Roleplay |
-| **32** | Capua | Julius 10, -44 Julius (17:25) | Roleplay |
-| **33** | Capua | -44 Julius 10, 17:25:00 | Roleplay |
-| **34** | Capua | -44 Julius 10, 17:25:00 | Roleplay |
-| **35** | Capua | Julius 10, -44 BCE (17:30) | Roleplay |
-| **36** | Capua | -44 Julius 10, 17:35:00 | Roleplay |
-| **37** | Capua | -44 Julius 10, 17:35:00 | Roleplay |
-| **38** | Capua | Julius 11, -44 Julius (19:30) | Roleplay |
-| **39** | Capua | Day 11, -44 Julius (19:30) | Roleplay |
-| **40** | Capua | Day 11, -44 Julius (19:35) | Roleplay |
-| **41** | Capua | -44 Julius 11, 19:35:00 | Roleplay |
-| **42** | Capua | -44 Julius 11, 19:35:00 | Roleplay |
-| **43** | Capua | -44 Julius 11, 19:35:00 | Roleplay |
-| **44** | Capua | Julius 11, -44 DR (19:40) | Roleplay |
-| **45** | Capua | Day 11, -44 Julius (19:45) | Roleplay |
-| **46** | Capua | -44 Julius 11, 19:50:00 | Roleplay |
-| **47** | Capua | -44 Julius 11, 19:55:00 | Roleplay |
-| **48** | Capua | -44 Julius 11, 20:00:00 | Roleplay |
-| **49** | Capua | Day 11, -44 Julius (20:05) | Roleplay |
-| **50** | Capua | Day 11, -44 Julius (20:10) | Roleplay |
-| **51** | Capua | -44 Julius 11, 20:15:00 | Roleplay |
-| **52** | Capua | -44 Julius 11, 20:15:00 | Roleplay |
-| **53** | Capua | Day 11, -44 Julius (20:30) | Roleplay |
-| **54** | Capua | -44 Julius 11, 20:30:01 | Roleplay |
-| **55** | Capua | -44 Julius 11, 20:45:00 | Roleplay |
-| **56** | Capua | Day 11, -44 Julius (20:15) | Roleplay |
-| **57** | Capua | Day 11, -44 Julius (20:30) | Roleplay |
-| **58** | Capua | Day 11, -44 Julius (20:45) | Roleplay |
-| **59** | Capua | Day 11, -44 Julius (20:50) | Social Challenge |
-| **60** | Capua | Day 11, -44 Julius (21:05) | Roleplay |
-| **61** | Capua | Julius 11, -44 DR (21:15) | Boss Surrender |
-| **62** | Capua | Julius 11, 44 BCE (21:15) | Roleplay |
-| **63** | Capua | Julius 11, -44 DR (21:25) | Social Challenge |
-| **64** | Capua | Day 11, -44 Julius (21:30) | Roleplay |
-| **65** | Capua | -44 Julius 11, 21:30:00 | Roleplay |
-| **66** | Capua | -44 Julius 11, 21:30:01 | Roleplay |
-| **67** | Capua | Day 11, -44 Julius (21:45) | Roleplay |
-| **68** | Capua | Julius 11, -44 Julius (21:45) | Roleplay |
-| **69** | Capua | Julius 11, -44 DR (22:30) | Roleplay |
-| **70** | Capua | Julius 11, -44 DR (22:45) | Roleplay |
-| **71** | Capua | Julius 11, -44 DR (22:50) | Roleplay |
-| **72** | Capua | Julius 12, -44 DR (07:00) | Roleplay |
-| **73** | Capua | Julius 12, -44 DR (08:30) | Roleplay |
-| **74** | Capua | Julius 12, -44 BCE (09:15) | Roleplay |
-| **75** | Capua | Julius 12, -44 DR (09:20) | Boss Surrender |
-| **76** | Capua | Julius 12, -44 DR (09:25) | Boss Surrender |
-| **77** | Capua | -44 Julius 12, 09:25:00 | Roleplay |
-| **78** | Capua | -44 Julius 12, 09:25:00 | Roleplay |
-| **79** | Capua | Julius 12, -44 DR (09:25) | Boss Surrender |
-| **80** | Capua | Julius 12, -44 DR (09:30) | Boss Surrender |
-| **81** | Capua | Day 12, -44 Julius (09:35) | Roleplay |
-| **82** | Capua | Julius 12, -44 DR (09:35) | Boss Surrender |
-| **83** | Capua | Julius 12, -44 BCE (09:35) | Roleplay |
-| **84** | Crassus Villa Atrium | Julius 12, -44 BCE (09:45) | Roleplay |
-| **85** | Capua | Julius 12, -44 DR (10:00) | Boss Surrender |
-| **86** | Capua | Day 12, -44 Julius (10:15) | Roleplay |
-| **87** | Capua | -44 Julius 12, 10:20:00 | Roleplay |
-| **88** | Capua | Julius 12, -44 DR (10:25) | Roleplay |
-| **89** | Capua | Julius 12, -44 BCE (10:25) | Roleplay |
-| **90** | Capua | Julius 12, 44 BCE (10:25) | Roleplay |
-| **91** | Capua | Julius 12, 44 BCE (10:30) | Roleplay |
-| **92** | Capua | Julius 12, -44 BCE (10:40) | Roleplay |
-| **93** | Capua | Julius 12, 44 BCE (11:00) | Roleplay |
-| **94** | Capua | Julius 12, -44 DR (11:00) | Roleplay |
-| **95** | Capua | Julius 12, -44 DR (11:20) | Roleplay |
-| **96** | Capua | Julius 12, -44 DR (11:25) | Roleplay |
-| **97** | Villa of Lord Varro | Julius 13, -44 DR (19:30) | Roleplay |
-| **98** | Villa of Lord Varro | Julius 13, 44 BCE (19:35) | Roleplay |
-| **99** | Villa of Lord Varro | Julius 13, 44 BCE (20:30) | Roleplay |
-| **100** | Villa of Lord Varro | Julius 13, -44 DR (20:30) | Roleplay |
-| **101** | Villa of Lord Varro | Julius 13, -44 DR (21:30) | Roleplay |
-| **102** | Courtyard | Julius 13, -44 DR (21:35) | Social Challenge |
-| **103** | Villa of Lord Varro | Julius 13, -44 DR (21:35) | Roleplay |
-| **104** | Villa of Lord Varro | Julius 13, -44 DR (21:35) | Boss Surrender |
-| **105** | Villa of Lord Varro | Julius 13, -44 DR (21:50) | Roleplay |
-| **106** | Villa of Lord Varro | Julius 13, -44 DR (21:50) | Roleplay |
-| **107** | Private Solar of Lord Varro | Day 13, -44 Julius (21:50) | Roleplay |
-| **108** | Private Solar of Lord Varro | -44 Julius 13, 21:50:01 | Roleplay |
-| **109** | Private Solar of Lord Varro | Day 13, -44 Julius (21:55) | Roleplay |
-| **110** | Villa of Lord Varro | Julius 13, -44 DR (22:05) | Social Challenge |
-| **111** | Private Solar of Lord Varro | Julius 13, -44 DR (22:15) | Social Challenge |
-| **112** | Villa of Lord Varro | Julius 13, -44 DR (22:20) | Social Challenge |
-| **113** | Private Solar | Day 13, -44 Julius (22:30) | Roleplay |
-| **114** | The Julian Praetorium (formerly Varro's Estate) | Month 8 (Augustus), -44 Julius (Day 10) | Roleplay |
-| **115** | Unknown | Augustus 10, -44 DR (08:00) | Roleplay |
-| **116** | The Julian Praetorium | Day 38, -44 Augustus (10:00) | Roleplay |
-| **117** | The Julian Praetorium | Augustus 38, -44 Augustus (10:00) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Capua | Julius 10, 44 BCE (16:30) | Roleplay |
+| [**Scene 03**](#scene-3) | Capua | Julius 10, 44 BCE (16:30) | Roleplay |
+| [**Scene 04**](#scene-4) | Capua | Julius 10, -44 DR (16:35) | Roleplay |
+| [**Scene 05**](#scene-5) | Capua | Julius 10, -44 BCE (16:35) | Roleplay |
+| [**Scene 06**](#scene-6) | Capua | 10, -44 Julius (16:35) | Roleplay |
+| [**Scene 07**](#scene-7) | Capua | Julius 10, -44 DR (16:40) | Roleplay |
+| [**Scene 08**](#scene-8) | Capua | Julius 10, 44 BCE (16:40) | Roleplay |
+| [**Scene 09**](#scene-9) | Capua | Julius 10, -44 BCE (16:40) | Roleplay |
+| [**Scene 10**](#scene-10) | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
+| [**Scene 11**](#scene-11) | Capua | Julius 10, -44 DR (16:45) | Roleplay |
+| [**Scene 12**](#scene-12) | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
+| [**Scene 13**](#scene-13) | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
+| [**Scene 14**](#scene-14) | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
+| [**Scene 15**](#scene-15) | Capua | -44 Julius 10, 16:45:00 | Roleplay |
+| [**Scene 16**](#scene-16) | Capua | Julius 10, -44 BCE (16:45) | Roleplay |
+| [**Scene 17**](#scene-17) | Capua | Julius 10, -44 BCE (16:50) | Roleplay |
+| [**Scene 18**](#scene-18) | Capua | Julius 10, -44 BCE (16:55) | Roleplay |
+| [**Scene 19**](#scene-19) | Capua | Julius 10, -44 BCE (16:55) | Roleplay |
+| [**Scene 20**](#scene-20) | Capua | -44 Julius 10, 17:00:00 | Roleplay |
+| [**Scene 21**](#scene-21) | Capua | Julius 10, 44 BCE (17:00) | Roleplay |
+| [**Scene 22**](#scene-22) | Capua | Julius 10, -44 BCE (17:00) | Roleplay |
+| [**Scene 23**](#scene-23) | Capua | -44 Julius 10, 17:00:00 | Roleplay |
+| [**Scene 24**](#scene-24) | Capua | Julius 10, -44 BCE (17:00) | Roleplay |
+| [**Scene 25**](#scene-25) | Capua | Julius 10, -44 Julius (17:00) | Roleplay |
+| [**Scene 26**](#scene-26) | Capua | Julius 10, -44 Julius (17:05) | Roleplay |
+| [**Scene 27**](#scene-27) | Capua | -44 Julius 10, 17:05:00 | Roleplay |
+| [**Scene 28**](#scene-28) | Capua | -44 Julius 10, 17:05:01 | Roleplay |
+| [**Scene 29**](#scene-29) | Capua | Julius 10, -44 Julius (17:10) | Roleplay |
+| [**Scene 30**](#scene-30) | Capua | Julius 10, -44 DR (17:15) | Roleplay |
+| [**Scene 31**](#scene-31) | Capua | -44 Julius 10, 17:20:00 | Roleplay |
+| [**Scene 32**](#scene-32) | Capua | Julius 10, -44 Julius (17:25) | Roleplay |
+| [**Scene 33**](#scene-33) | Capua | -44 Julius 10, 17:25:00 | Roleplay |
+| [**Scene 34**](#scene-34) | Capua | -44 Julius 10, 17:25:00 | Roleplay |
+| [**Scene 35**](#scene-35) | Capua | Julius 10, -44 BCE (17:30) | Roleplay |
+| [**Scene 36**](#scene-36) | Capua | -44 Julius 10, 17:35:00 | Roleplay |
+| [**Scene 37**](#scene-37) | Capua | -44 Julius 10, 17:35:00 | Roleplay |
+| [**Scene 38**](#scene-38) | Capua | Julius 11, -44 Julius (19:30) | Roleplay |
+| [**Scene 39**](#scene-39) | Capua | Day 11, -44 Julius (19:30) | Roleplay |
+| [**Scene 40**](#scene-40) | Capua | Day 11, -44 Julius (19:35) | Roleplay |
+| [**Scene 41**](#scene-41) | Capua | -44 Julius 11, 19:35:00 | Roleplay |
+| [**Scene 42**](#scene-42) | Capua | -44 Julius 11, 19:35:00 | Roleplay |
+| [**Scene 43**](#scene-43) | Capua | -44 Julius 11, 19:35:00 | Roleplay |
+| [**Scene 44**](#scene-44) | Capua | Julius 11, -44 DR (19:40) | Roleplay |
+| [**Scene 45**](#scene-45) | Capua | Day 11, -44 Julius (19:45) | Roleplay |
+| [**Scene 46**](#scene-46) | Capua | -44 Julius 11, 19:50:00 | Roleplay |
+| [**Scene 47**](#scene-47) | Capua | -44 Julius 11, 19:55:00 | Roleplay |
+| [**Scene 48**](#scene-48) | Capua | -44 Julius 11, 20:00:00 | Roleplay |
+| [**Scene 49**](#scene-49) | Capua | Day 11, -44 Julius (20:05) | Roleplay |
+| [**Scene 50**](#scene-50) | Capua | Day 11, -44 Julius (20:10) | Roleplay |
+| [**Scene 51**](#scene-51) | Capua | -44 Julius 11, 20:15:00 | Roleplay |
+| [**Scene 52**](#scene-52) | Capua | -44 Julius 11, 20:15:00 | Roleplay |
+| [**Scene 53**](#scene-53) | Capua | Day 11, -44 Julius (20:30) | Roleplay |
+| [**Scene 54**](#scene-54) | Capua | -44 Julius 11, 20:30:01 | Roleplay |
+| [**Scene 55**](#scene-55) | Capua | -44 Julius 11, 20:45:00 | Roleplay |
+| [**Scene 56**](#scene-56) | Capua | Day 11, -44 Julius (20:15) | Roleplay |
+| [**Scene 57**](#scene-57) | Capua | Day 11, -44 Julius (20:30) | Roleplay |
+| [**Scene 58**](#scene-58) | Capua | Day 11, -44 Julius (20:45) | Roleplay |
+| [**Scene 59**](#scene-59) | Capua | Day 11, -44 Julius (20:50) | Social Challenge |
+| [**Scene 60**](#scene-60) | Capua | Day 11, -44 Julius (21:05) | Roleplay |
+| [**Scene 61**](#scene-61) | Capua | Julius 11, -44 DR (21:15) | Boss Surrender |
+| [**Scene 62**](#scene-62) | Capua | Julius 11, 44 BCE (21:15) | Roleplay |
+| [**Scene 63**](#scene-63) | Capua | Julius 11, -44 DR (21:25) | Social Challenge |
+| [**Scene 64**](#scene-64) | Capua | Day 11, -44 Julius (21:30) | Roleplay |
+| [**Scene 65**](#scene-65) | Capua | -44 Julius 11, 21:30:00 | Roleplay |
+| [**Scene 66**](#scene-66) | Capua | -44 Julius 11, 21:30:01 | Roleplay |
+| [**Scene 67**](#scene-67) | Capua | Day 11, -44 Julius (21:45) | Roleplay |
+| [**Scene 68**](#scene-68) | Capua | Julius 11, -44 Julius (21:45) | Roleplay |
+| [**Scene 69**](#scene-69) | Capua | Julius 11, -44 DR (22:30) | Roleplay |
+| [**Scene 70**](#scene-70) | Capua | Julius 11, -44 DR (22:45) | Roleplay |
+| [**Scene 71**](#scene-71) | Capua | Julius 11, -44 DR (22:50) | Roleplay |
+| [**Scene 72**](#scene-72) | Capua | Julius 12, -44 DR (07:00) | Roleplay |
+| [**Scene 73**](#scene-73) | Capua | Julius 12, -44 DR (08:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Capua | Julius 12, -44 BCE (09:15) | Roleplay |
+| [**Scene 75**](#scene-75) | Capua | Julius 12, -44 DR (09:20) | Boss Surrender |
+| [**Scene 76**](#scene-76) | Capua | Julius 12, -44 DR (09:25) | Boss Surrender |
+| [**Scene 77**](#scene-77) | Capua | -44 Julius 12, 09:25:00 | Roleplay |
+| [**Scene 78**](#scene-78) | Capua | -44 Julius 12, 09:25:00 | Roleplay |
+| [**Scene 79**](#scene-79) | Capua | Julius 12, -44 DR (09:25) | Boss Surrender |
+| [**Scene 80**](#scene-80) | Capua | Julius 12, -44 DR (09:30) | Boss Surrender |
+| [**Scene 81**](#scene-81) | Capua | Day 12, -44 Julius (09:35) | Roleplay |
+| [**Scene 82**](#scene-82) | Capua | Julius 12, -44 DR (09:35) | Boss Surrender |
+| [**Scene 83**](#scene-83) | Capua | Julius 12, -44 BCE (09:35) | Roleplay |
+| [**Scene 84**](#scene-84) | Crassus Villa Atrium | Julius 12, -44 BCE (09:45) | Roleplay |
+| [**Scene 85**](#scene-85) | Capua | Julius 12, -44 DR (10:00) | Boss Surrender |
+| [**Scene 86**](#scene-86) | Capua | Day 12, -44 Julius (10:15) | Roleplay |
+| [**Scene 87**](#scene-87) | Capua | -44 Julius 12, 10:20:00 | Roleplay |
+| [**Scene 88**](#scene-88) | Capua | Julius 12, -44 DR (10:25) | Roleplay |
+| [**Scene 89**](#scene-89) | Capua | Julius 12, -44 BCE (10:25) | Roleplay |
+| [**Scene 90**](#scene-90) | Capua | Julius 12, 44 BCE (10:25) | Roleplay |
+| [**Scene 91**](#scene-91) | Capua | Julius 12, 44 BCE (10:30) | Roleplay |
+| [**Scene 92**](#scene-92) | Capua | Julius 12, -44 BCE (10:40) | Roleplay |
+| [**Scene 93**](#scene-93) | Capua | Julius 12, 44 BCE (11:00) | Roleplay |
+| [**Scene 94**](#scene-94) | Capua | Julius 12, -44 DR (11:00) | Roleplay |
+| [**Scene 95**](#scene-95) | Capua | Julius 12, -44 DR (11:20) | Roleplay |
+| [**Scene 96**](#scene-96) | Capua | Julius 12, -44 DR (11:25) | Roleplay |
+| [**Scene 97**](#scene-97) | Villa of Lord Varro | Julius 13, -44 DR (19:30) | Roleplay |
+| [**Scene 98**](#scene-98) | Villa of Lord Varro | Julius 13, 44 BCE (19:35) | Roleplay |
+| [**Scene 99**](#scene-99) | Villa of Lord Varro | Julius 13, 44 BCE (20:30) | Roleplay |
+| [**Scene 100**](#scene-100) | Villa of Lord Varro | Julius 13, -44 DR (20:30) | Roleplay |
+| [**Scene 101**](#scene-101) | Villa of Lord Varro | Julius 13, -44 DR (21:30) | Roleplay |
+| [**Scene 102**](#scene-102) | Courtyard | Julius 13, -44 DR (21:35) | Social Challenge |
+| [**Scene 103**](#scene-103) | Villa of Lord Varro | Julius 13, -44 DR (21:35) | Roleplay |
+| [**Scene 104**](#scene-104) | Villa of Lord Varro | Julius 13, -44 DR (21:35) | Boss Surrender |
+| [**Scene 105**](#scene-105) | Villa of Lord Varro | Julius 13, -44 DR (21:50) | Roleplay |
+| [**Scene 106**](#scene-106) | Villa of Lord Varro | Julius 13, -44 DR (21:50) | Roleplay |
+| [**Scene 107**](#scene-107) | Private Solar of Lord Varro | Day 13, -44 Julius (21:50) | Roleplay |
+| [**Scene 108**](#scene-108) | Private Solar of Lord Varro | -44 Julius 13, 21:50:01 | Roleplay |
+| [**Scene 109**](#scene-109) | Private Solar of Lord Varro | Day 13, -44 Julius (21:55) | Roleplay |
+| [**Scene 110**](#scene-110) | Villa of Lord Varro | Julius 13, -44 DR (22:05) | Social Challenge |
+| [**Scene 111**](#scene-111) | Private Solar of Lord Varro | Julius 13, -44 DR (22:15) | Social Challenge |
+| [**Scene 112**](#scene-112) | Villa of Lord Varro | Julius 13, -44 DR (22:20) | Social Challenge |
+| [**Scene 113**](#scene-113) | Private Solar | Day 13, -44 Julius (22:30) | Roleplay |
+| [**Scene 114**](#scene-114) | The Julian Praetorium (formerly Varro's Estate) | Month 8 (Augustus), -44 Julius (Day 10) | Roleplay |
+| [**Scene 115**](#scene-115) | Unknown | Augustus 10, -44 DR (08:00) | Roleplay |
+| [**Scene 116**](#scene-116) | The Julian Praetorium | Day 38, -44 Augustus (10:00) | Roleplay |
+| [**Scene 117**](#scene-117) | The Julian Praetorium | Augustus 38, -44 Augustus (10:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator (Sovereign Gestalt) | HP: 11/11** &nbsp;|&nbsp; ✨ **None**
@@ -174,8 +190,11 @@ I have processed your 'Prodigy' profile. You are a mental titan, a Gestalt of th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Start Adventure - Confirm the &#x27;Singularity&#x27; build and begin the story in Capua.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Capua, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **Julius 10, 44 BCE (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 4/4 | Sorcery Points: 0/0** &nbsp;|&nbsp; ⚠️ **Incognito (Gaia of Gens Vibia) | Exhaustion: 0 | Inspiration: No**
@@ -193,8 +212,11 @@ The Miasma within you stirs. The air grows heavy, the ambient noise of the cicad
 God Mode:
 I'm not the heir
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Capua, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **Julius 10, 44 BCE (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp**
@@ -211,8 +233,11 @@ Understood. The narrative context regarding your status as an 'heir' has been re
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Bored Aristocrat - Play the role of a nihilistic noble who finds Rome a graveyard and seeks raw violence to &#x27;feel something.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Capua, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **Julius 10, -44 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity | Exhaustion: 0 | Inspiration: No**
@@ -230,8 +255,11 @@ Batiatus mops his brow, desperate to close the deal. "Of course, of course! My w
 God Mode:
 I should have proficiency in persuasion intimidation deception
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Capua, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp**
@@ -248,8 +276,11 @@ Your character is now fully equipped to play the role of the Bored Aristocrat wi
 God Mode:
 Make sure my rolls use my proficiency and cha modifiers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Capua, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **10, -44 Julius (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp**
@@ -268,8 +299,11 @@ Administrative alignment confirmed. Your mechanical profile has been audited and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of the Ludus with your corrected mechanical bonuses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Capua, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **Julius 10, -44 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0**
@@ -283,8 +317,11 @@ You step onto the packed earth of the courtyard. The 'Vibia' mask remains firmly
 God Mode:
 Let's change the situation so batianus isn't as desperate and spartacus has been a champion winning him lots of money but he's still focused on getting more  money and status
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Capua, Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **Julius 10, 44 BCE (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp**
@@ -294,8 +331,11 @@ The world state has been successfully realigned. Quintus Lentulus Batiatus is no
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the courtyard where Batiatus, buoyed by his recent successes, prepares to show you his greatest investment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -313,8 +353,11 @@ Lucretia remains at your side, her silence a sharp contrast to her husband's the
 God Mode:
 Spartacus isn't a Gaul. Make everyone act like the TV show too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp**
@@ -328,8 +371,11 @@ Lucretia moves closer, her teal silk rustling with a sound like a snake through 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess the Legend - Use your Tactical Sense to evaluate Spartacus&#x27;s true lethality and current health compared to your own.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: Yes**
@@ -345,8 +391,11 @@ Batiatus beams, mistaking your silence for awe. "He is priceless, my lady. A man
 God Mode:
 Don't advance the story. Make everyone act like the TV show too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: Yes**
@@ -363,8 +412,11 @@ Administrative alignment complete. The world remains frozen while the 'Spartacus
 > 👤 **Player:**
 > *"Ask if I can watch him spar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 4/4**
@@ -382,8 +434,11 @@ Lucretia’s gaze remains fixed on you, her eyes hooded and predatory. She does 
 God Mode:
 What level is Spartacus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp**
@@ -406,8 +461,11 @@ Spartacus is a **Tier 4 Legendary Champion**. Within the established power scale
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Thracian&#x27;s Form - Watch the sparring match with a clinical, tactical eye to find potential weaknesses in his legendary defense.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 16:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 1 Imperator | HP: 11/11 | XP: 0/300 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: Yes**
@@ -423,8 +481,11 @@ Lucretia watches you, her lips curved in a faint, knowing smirk as she sees you 
 God Mode:
 Make me level 4 and give me asi cha +2 and auto pick spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp**
@@ -444,8 +505,11 @@ Character advancement to Level 4 is complete. Gaia Julia Caesar's Auctoritas has
 > 👤 **Player:**
 > *"Keep watching Spartacus and act impressed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5, Exhaustion: 0**
@@ -463,8 +527,11 @@ Lucretia's predatory smile remains, but the suspicion in her eyes softens ever s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe the Ranks - Shift your gaze to the other gladiators. Ask Batiatus how he maintains such discipline among men who could clearly kill their masters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Vibia Disguise) | Inspiration: 5/5**
@@ -482,8 +549,11 @@ Lucretia watches you, her predatory gaze following your eyes as they scan the ra
 God Mode:
 Describe my appearance in detail and make me extremely beautiful. I have a bonus modifier when convincing people who are attracted to women. I'm like the best looking woman in Rome like a super model
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -505,8 +575,11 @@ You possess a transcendent, 'supermodel' symmetry that leaves the citizens of Ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Flatter Lucretia - Acknowledge Lucretia&#x27;s role in the &#x27;delicate balance&#x27; to disarm her antagonism.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5, Exhaustion: 0**
@@ -524,8 +597,11 @@ Batiatus, sensing the shift in the air but too blinded by his own vanity to gras
 God Mode:
 In the next scene describe my appearance in detail and my physical features clothes and hair. Basically men should get an erection looking at me too long and women who like women get a bit wet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, 44 BCE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Venus Genetrix Incarnate (+2 Social)**
@@ -544,8 +620,11 @@ Gaia's divine physical profile and faction status have been synchronized. Your a
 God Mode:
 My clothes are just high middle tier noble for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp**
@@ -567,8 +646,11 @@ Your features—eyes of wine-dark depth, skin like unblemished marble, and a phy
 God Mode:
 Make My clothes are just high middle tier noble for now. My real clothes are packed away
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Exhaustion: 0**
@@ -584,8 +666,11 @@ Wardrobe synchronization complete. Your equipped clothing is now correctly regis
 God Mode:
 Let's make my guards and gloomstalkers more elite since I am a princess. They are level 9 and the gloomstalkers are gloom 5 assassin 4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+15 Social Mod), Silver Tongue (Min 10)**
@@ -603,8 +688,11 @@ Elite guard detachment upgraded to reflect your Imperial prestige. As a Princess
 God Mode:
 Let's make my guards and gloomstalkers more elite since I am a princess. They are level 9 and the gloomstalkers are gloom 5 assassin 4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 Julius (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp**
@@ -633,8 +721,11 @@ Elite guard synchronization complete. Your personal detachment has been ascended
 > 👤 **Player:**
 > *"Let's have batianus and his wife notice my guards. It's rare for a middle tier noble to have elite guards like that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 Julius (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5, Exhaustion: 0**
@@ -652,8 +743,11 @@ Lucretia steps closer, her eyes tracing the line of your throat before looking a
 God Mode:
 Let's have my gloomsdalkers always hidden and scouting for dangers to me vs in plain sight. Let's have my guards dressed down so they look less elite but they aren't as good actors than me so people can roll to see they're more elite than you realize
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:05:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Vibia Persona) | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -672,8 +766,11 @@ Retinue protocols updated. The 'Wall of Steel' has dissolved into a far more unn
 God Mode:
 Resume dialog and let Batianus and his wife notice the guards but it's less obvious. Let's have also glabber around and his wife and he assesses them too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:05:01** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+15 Social Mod) | Inspiration: 5/5**
@@ -691,8 +788,11 @@ Ilithyia suppresses a gasp as her eyes finally settle on you, her breath catchin
 > 👤 **Player:**
 > *"Laugh and say my father is protective and over spends. I can't really tell the difference but they cost a lot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 Julius (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2), Silver Tongue (min 10) | Exhaustion: 0**
@@ -710,8 +810,11 @@ Batiatus quickly moves to fill the silence, his reedy voice oily with fawning. "
 > 👤 **Player:**
 > *"Change the topic and ask if I can talk to Spartacus and say I'm a fan now. Can we bring him up here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: 5/5**
@@ -742,8 +845,11 @@ Spartacus pauses, his obsidian eyes locking onto yours from across the sand. He 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Play the Spoiled Fan - Focus on his physical prowess and &#x27;theatrical&#x27; value, maintaining your bored noble mask to keep Lucretia and Ilithyia disarmed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Capua, Ludus of Batiatus (Courtyard)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+15 Social Mod)**
@@ -761,8 +867,11 @@ You let your gaze drift back to Spartacus, catching the scent of him—salt, iro
 > 👤 **Player:**
 > *"Let's have licinia Crassus cousin enter the scene. She's never met me before but she's more used to high tier nobles. She has two other noble lady friends. They're doing a dinner party later and invite me too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Capua, Ludus of Batiatus (Dais)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 Julius (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | Hit Dice: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2), Silver Tongue (min 10) | Inspiration: 5/5**
@@ -782,8 +891,11 @@ Ilithyia’s jaw tightens until it looks ready to snap, the invite a jagged need
 God Mode:
 It's not a republic it's an empire but in the universe crassus is still alive Licinia Crassus, cousin to the man who holds the Republic's
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Capua, Ludus of Batiatus (Dais)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp**
@@ -802,8 +914,11 @@ The universe has been successfully re-aligned to your specifications. The 'Repub
 God Mode:
 Let's assume I brought a retinue of 10 beautiful slaves 5 men  and 5 men, but they dont compare to me of course
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Capua, Ludus of Batiatus (Dais)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp**
@@ -813,8 +928,11 @@ Retinue successfully expanded. 10 slaves (5M/5F) added.
 > 👤 **Player:**
 > *"Accept and ask if illithyia and lucretia can come too. Wink at licinia to signal know it's a bit of a social faux pas to invite others but it'll be fun"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Capua, Ludus of Batiatus (Dais)** &nbsp;|&nbsp; ⏳ **Julius 10, -44 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | Hit Dice: 4/4 | Exhaustion: 0**
@@ -832,8 +950,11 @@ Ilithyia’s jaw drops slightly, her envy momentarily eclipsed by the shock of b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Suggest Spartacus as &#x27;Entertainment&#x27; - Suggest to Licinia that the Champion should accompany the party to provide &#x27;theatrical demonstrations&#x27; or simply to grace the villa with his presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Capua, Ludus of Batiatus (Dais)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **L1 4/4, L2 3/3 | Inspiration: 5/5 | Hit Dice: 4/4**
@@ -851,8 +972,11 @@ Batiatus looks as though he might faint, the terror of losing his 'jewel' for th
 God Mode:
 In this timeline crassus is powerful but my father and house are like 10x more powerful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Capua, Ludus of Batiatus (Dais)** &nbsp;|&nbsp; ⏳ **-44 Julius 10, 17:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp**
@@ -868,8 +992,11 @@ The power dynamics of the world have been fundamentally shifted to reflect the a
 > 👤 **Player:**
 > *"Let's make the invitation for tomorrow evening instead and have wine and food at ludis. After st night let's  have 10 assassins from selonius enter the scene. Everyone is terrified except me annd they  attempt to kill batianus but my guard easily kill  them since they're only level 3 assassins."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 Julius (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 2700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | HD: 4/4** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2) | Silver Tongue (Min 10)**
@@ -893,8 +1020,11 @@ You lower your cup, a faint, bored smile playing on your lips as you look at the
 God Mode:
 No we will do the licinia event tomorrow still tonight was a separate event
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 3700/6500 | Gold: 100,000gp**
@@ -904,8 +1034,11 @@ Time and events have been successfully re-ordered. Tonight is the night of the f
 God Mode:
 Interrogate the Dying - Have your Gloomstalkers drag one of the dying assassins forward to extract a public confession regarding Solonius&#x27;s involvement.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 3700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Venus Genetrix Incarnate (+2 Social)**
@@ -923,8 +1056,11 @@ Licinia gasped, her grip on your arm tightening until her knuckles were white. T
 God Mode:
 No don't reveal Inam a Julian yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 19:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp**
@@ -940,8 +1076,11 @@ Administrative alignment complete. The timeline has been corrected to ensure ton
 God Mode:
 No npc can deduce it I mean I shouldn't mention I am a Julian in dialog
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 19:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Vibia Persona), Secrecy Directive (Julian Identity Locked)**
@@ -956,8 +1095,11 @@ Identity protocols reinforced. The 'Vibia' mask is now mechanically and narrativ
 God Mode:
 Npc can deduce my identity if I fail a roll. I just mean I won't say things like this Perhaps we should show him what happens when one attempts to stain Julian silk with such common blood
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 19:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp**
@@ -973,8 +1115,11 @@ Dialogue protocol refined. I have established a strict narrative filter: Gaia wi
 > 👤 **Player:**
 > *"Narrate everybodies reaction to my nonchalance and elite guards. It should now be more obvious there's something special about me and they will probe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2) | Silver Tongue (Min 10) | Vibia Mask**
@@ -999,8 +1144,11 @@ Glaber, too, has recognized the steel (17 vs DC 15). He stands rigid, his tactic
 > 👤 **Player:**
 > *"Laughinglyndismiss the inquiry. Say I guess my guards are useful after all. I've never seen them fight until today"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | HD: 4/4**
@@ -1014,8 +1162,11 @@ Licinia exhales a long, shaky breath, her eyes dilating as she stares at you, he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Direct the Gloomstalkers to the cells with the survivor while you soothe Licinia and order Batiatus to restore the hall for wine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 19:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Julian Identity (Hidden)**
@@ -1033,8 +1184,11 @@ Batiatus babbles his ascent, his silver tongue tripping over itself as he barks 
 > 👤 **Player:**
 > *"Ask batianus if he wants my men to go collect this solonius or whomever he is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 19:55:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5, Exhaustion: 0**
@@ -1052,8 +1206,11 @@ Licinia watches you with dilated eyes, her breath hitching as she witnesses the 
 > 👤 **Player:**
 > *"Summon my gloomstalker commander who is level 12 and pat him on the head and say good job. Then ask him to find Solonius and bring him here. Also note i have a legionary commander level 12 and my companions are level 12 warriors. Send my companions to help find Solonius"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 20:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp**
@@ -1071,8 +1228,11 @@ Licinia watches you with dilated eyes, her breath hitching as she witnesses the 
 > 👤 **Player:**
 > *"Change the topic and engage in small talk while we wait. Ear a lot of food and drink  a lot of wine and compliment batianus and his wife for the high quality food"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | HD: 4/4 | Exhaustion: 0**
@@ -1088,8 +1248,11 @@ You raise a chalice of Falernian, the dark liquid catching the flicker of the oi
 > 👤 **Player:**
 > *"Let's narrate batianus wife taking him aside and advising caution. Licinia and illthyia we're already dangerous due to their status but there's no way gaia is a normal middle tier noble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | HD: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+15 Social) | Mask of Vibia (Active)**
@@ -1107,8 +1270,11 @@ Back at the table, you recline with a languid grace, the teal Seric silk of your
 > 👤 **Player:**
 > *"Have lucretia also point out my slaves. They are very high quality and who travels with 10 slaves like that but wears relatively inexpensive clothes and jewelry. Gaia doesn't add up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 20:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate | Silver Tongue**
@@ -1124,8 +1290,11 @@ She turns back to you, her eyes wide with a terror that has finally found its sh
 God Mode:
 No that was said only to batianus in private not to me directly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 20:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp**
@@ -1139,8 +1308,11 @@ Correction processed. The dialogue from sequence 102 has been retconned into a p
 > 👤 **Player:**
 > *"Narrate a scene where Glabber takes his wife aside in private and voices similar concerns"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+15 Social) | Mask of Vibia (Active)**
@@ -1158,8 +1330,11 @@ He leans closer to the heavy tapestries, his breath hitched as he watches your m
 > 👤 **Player:**
 > *"Have glaber try to convince his wife more in private. Can she imagine a woman being so calm amid all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 20:30:01** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3 | Inspiration: 5/5 | HD: 4/4** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+15 Social Mod) | Exhaustion: 0**
@@ -1177,8 +1352,11 @@ Ilithyia shivers, her gaze locked on the way your teal Seric silk ripples like m
 > 👤 **Player:**
 > *"Have my slaves clean me up and help clean up the blood. Then keep eating and make small talk until solonius is brought before us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 20:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5**
@@ -1198,8 +1376,11 @@ You settle back into the Tyrian silks, the world outside continuing to bleed as 
 > 👤 **Player:**
 > *"Let's have some of them privately think this too. I don't really talk down to anyone, it's like I can't even be bothered or need to prove superiority. I just have utter confidence. This is a private thought"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2) | Exhaustion: 0 | Inspiration: Yes**
@@ -1219,8 +1400,11 @@ You merely smile, a languid, bored expression that acknowledges their silent pra
 > 👤 **Player:**
 > *"Flirt with licinia until solonius is brought here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **L1 Spells: 4/4, L2 Spells: 3/3, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (Active) | Inspiration: 5/5**
@@ -1234,8 +1418,11 @@ Batiatus and Lucretia watch from the shadows of the alcove, their silver tongues
 > 👤 **Player:**
 > *"Let's have Solonius just come now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | HD: 4/4** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+15 Social) | Mask: Vibia (Active)**
@@ -1253,8 +1440,11 @@ You do not rise. You merely adjust the drape of your teal Seric silk, the fabric
 > 👤 **Player:**
 > *"Ask Batianus what we should do with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | HD: 4/4**
@@ -1281,8 +1471,11 @@ Batiatus swallows hard, his silver tongue leaden as he looks from the divine, re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegated Custody - Hand Solonius to Batiatus&#x27;s men for the night, establishing a bond of shared blood and secret between your houses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3 | Inspiration: 5/5 | HD: 4/4** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2) | Silver Tongue (Min 10)**
@@ -1300,8 +1493,11 @@ Licinia clings to your arm, her noble pride utterly dissolved. To her, you are a
 > 👤 **Player:**
 > *"Ask Batianus if we can see Spartacus spar with someone to first blood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 4200/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: 5/5**
@@ -1327,8 +1523,11 @@ Licinia clings to your arm, her pupils dilated until her eyes are voids of black
 God Mode:
 Make sure you gave me exp and social exp as appropriate for every win
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Julius 11, 44 BCE (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5,550/6,500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Vibia Mask (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -1358,8 +1557,11 @@ Going forward, all narrative and social victories will be automatically tracked 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Watch the Bout - Observe the match with clinical Julian detachment, using your Tactical Sense to further analyze Spartacus&#x27;s level 17 capabilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5550/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: 5/5**
@@ -1384,8 +1586,11 @@ Licinia clings to your arm, her pulse a frantic drumbeat against your marble-pal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order the Clash - Signal for the bout to begin with a languid wave, asserting your role as the architect of the evening&#x27;s violence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2 Social), Silver Tongue, Umbral Scouting, Vibia Mask**
@@ -1401,8 +1606,11 @@ Licinia gasps, her hand tightening on your arm until her knuckles are white as b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Depths - Use Detect Thoughts subtly to peer into Spartacus&#x27;s mind during the heat of combat, seeking the core of his Tier 4 drive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 21:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5850/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2 Social), Silver Tongue (Min 10), Vibia Mask**
@@ -1420,8 +1628,11 @@ Licinia’s breath comes in short, ragged gasps as she leans into you, her noble
 > 👤 **Player:**
 > *"Don't forget about Licinia friends narrate their reactions  to all of this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **-44 Julius 11, 21:30:01** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5850/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2), Silver Tongue, Julian Miasma (Active)**
@@ -1435,8 +1646,11 @@ Licinia, now entirely Bonded to your presence, doesn't even notice her friends' 
 > [!NOTE] ⚙️ **Player Choice:**
 > *End the Performance - Signal for Spartacus to draw first blood and end the night on a high note of controlled violence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Day 11, -44 Julius (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5850/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active), Vibia Persona**
@@ -1458,8 +1672,11 @@ You rise, your divine symmetry casting a psychic shadow over the room that makes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Word to Spartacus - Speak a final, private word to the Thracian before he is returned to the pits, further marking him as your personal instrument.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Capua, Ludus of Batiatus (Dining Hall)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 Julius (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5850/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **L1 Spells: 4/4, L2 Spells: 2/3, Inspiration: 5/5, Hit Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue, Julian Miasma (Passive)**
@@ -1477,8 +1694,11 @@ You turn away without waiting for a response, the midnight cascade of your hair 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retire to Chambers - Withdraw to your private quarters with Licinia, allowing her obsession to cement into a permanent political asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Capua, Ludus of Batiatus (Private Chambers)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5850/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Vibia Mask (Active) | Inspiration: Yes**
@@ -1504,8 +1724,11 @@ Licinia's reply is a soft, broken sob of surrender as she sinks her face into yo
 > 👤 **Player:**
 > *"Command licinia to eat me out. Say she's earned a treat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Capua, Ludus of Batiatus (Private Chambers)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5850/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: 5/5**
@@ -1530,8 +1753,11 @@ Licinia's breath hitches, a soft, broken sound of pure ecstasy. She does not hes
 > 👤 **Player:**
 > *"Have her give me a rimjob while she fingers herself. Describe in detail. Due to my extreme beauty she cums multiple times"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Capua, Ludus of Batiatus (Private Chambers)** &nbsp;|&nbsp; ⏳ **Julius 11, -44 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5850/6500 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/3 | Bardic Inspiration: 5/5 | Exhaustion: 0**
@@ -1545,8 +1771,11 @@ Your divine presence amplifies every sensation; she cums first with a choked sob
 > [!NOTE] ⚙️ **Player Choice:**
 > *Long Rest - Recover resources and prepare Imperial regalia for tomorrow&#x27;s gala.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Capua, Ludus of Batiatus (Private Chambers)** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6150/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue | Exhaustion: 0**
@@ -1571,8 +1800,11 @@ From the distant cells, the muffled silence suggests that Solonius's audit is ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Depart for Gala - Travel to the Crassus villa with Licinia and your elite escort.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Capua, Road to the Crassus Villa** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6150/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate | Inspiration: Yes**
@@ -1595,8 +1827,11 @@ As the gates of the Crassus villa appear on the horizon—a sprawling monument o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Social Dominance - Direct Licinia to introduce you as her &#x27;dearest and most essential friend,&#x27; leveraging her Crassus blood to shield your Vibia mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Capua, Heights of the Crassus Villa** &nbsp;|&nbsp; ⏳ **Julius 12, -44 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 5700/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 5/5, Exhaustion: 0**
@@ -1612,8 +1847,11 @@ She straightens her posture, her noble pride having been entirely repurposed int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Project Divine Symmetry - Unleash the full weight of your transcendent beauty to freeze the gala in a collective moment of breathlessness, establishing total social dominance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6400/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue | Exhaustion: 0 | Inspiration: Yes**
@@ -1639,8 +1877,11 @@ You gain **250 XP** for establishing total social dominance over the Crassus cir
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Walk - Glide through the crowd, making direct eye contact to cement individual psychological marks on the most powerful guests.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6400/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue, Umbral Scouting, Wolf in Sheep's Clothing | Inspiration: Yes**
@@ -1662,8 +1903,11 @@ Licinia follows at your flank, her own breath coming in shallow, jagged hitches 
 God Mode:
 Let's still have me wearing mid tier noble clothes but I still look amazing compared to women in higher class clothes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **-44 Julius 12, 09:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6400/6500 | Gold: 100,000gp**
@@ -1682,8 +1926,11 @@ Administrative alignment complete. The 'Vibia' mask attire has been successfully
 God Mode:
 Let's make reactions to my beauty more subtle. Like a super model in the real world. Peolle can be immensely attracted but unlikely paralyzed just by looking
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **-44 Julius 12, 09:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6400/6500 | Gold: 100,000gp**
@@ -1695,8 +1942,11 @@ Additionally, the strategic audit confirms you are currently UNRANKED with 0 Fac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the Sovereign&#x27;s Walk in the Crassus Atrium with the recalibrated beauty protocols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6400/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Vibia Mask (Active), Sovereign's Walk | Inspiration: Yes**
@@ -1721,8 +1971,11 @@ You turn your wine-dark gaze toward Glaber. The Legatus stands with a rigid post
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Silent - Utilize Detect Thoughts to sweep the room&#x27;s surface thoughts while the guests are still in shock, identifying Solonius&#x27;s secret supporters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6400/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, Bardic Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue, Umbral Scouting, Wolf in Sheep's Clothing**
@@ -1750,8 +2003,11 @@ Licinia leans in, her voice a silken reed that carries the tremor of her obsessi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subvert the Senator - Approach Calpurnius Piso and whisper a single detail about Solonius&#x27;s &#x27;audit&#x27; to flip his loyalty through pure terror.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Day 12, -44 Julius (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Imperator | HP: 29/29 | XP: 6400/6500 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, Bardic Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2), Silver Tongue, Umbral Scouting, Sanctuary Mode (Active)**
@@ -1769,8 +2025,11 @@ Piso’s wine cup trembles, a single drop of red splashing onto his toga like a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Senatorial Oath - Command Piso to meet your &#x27;escort&#x27; in the garden to finalize his new allegiance to your shadow network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Capua, Crassus Villa Garden** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 6600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: Yes**
@@ -1813,8 +2072,11 @@ If you continue adventuring, you remain Level 5 and defer these benefits until y
 God Mode:
 Level Up to Level 5 - Apply level 5 Imperator (Sovereign Gestalt) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Capua, Crassus Villa Garden** &nbsp;|&nbsp; ⏳ **Julius 12, -44 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 6,600/14,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue | Exhaustion: 0**
@@ -1838,8 +2100,11 @@ Gaia Julia Caesar has been ascended to Level 5. The Julian Auctoritas has reache
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the subversion of the Crassus gala with your Level 5 Auctoritas fully realized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 6600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -1861,8 +2126,11 @@ He is wavering, the first bricks of his loyalty to Solonius already turning to d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Velius - Demand his official seal and a list of Solonius&#x27;s active contracts right here in the atrium, publicly demonstrating his submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 6900/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue, Sanctuary Mode (expires Turn 49) | Inspiration: 5/5 (d8)**
@@ -1892,8 +2160,11 @@ You gain **300 XP** for the public subversion of a high-tier Magistrate and secu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subvert the Merchant - Glide toward Titus, displaying Velius&#x27;s seal as a visual threat to demand his immediate surrender of the silver accounts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Day 12, -44 Julius (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7200/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2), Silver Tongue, Mask of Vibia (Active)**
@@ -1913,8 +2184,11 @@ Titus’s breath hitches, a jagged, broken sound of absolute surrender. He stare
 > [!NOTE] ⚙️ **Player Choice:**
 > *Liquidate Silver Holdings - Publicly command Velius to use his office to freeze and seize all Solonius-linked silver assets based on Titus&#x27;s ledgers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **-44 Julius 12, 10:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0**
@@ -1932,8 +2206,11 @@ Titus watches his life’s work vanish into your marble-pale hands, his knees fi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate the Vacuum - Quietly inform the gathered nobility that the newly seized silver will be managed through &#x27;Julian-favored&#x27; channels, effectively beginning the recruitment of your own merchant-vassals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7500/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue, Umbral Scouting, Wolf in Sheep's Clothing**
@@ -1953,8 +2230,11 @@ You gain **300 XP** for consolidating the economic vacuum and securing merchant-
 God Mode:
 Let's change my beauty effect on people and don't have it paralyze everyone
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 BCE (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7500/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue | Inspiration: 5/5 (d8)**
@@ -1972,8 +2252,11 @@ Licinia remains anchored to your arm, her saffron silks a pale echo of your radi
 God Mode:
 God: Let's change my beauty effect on people and don't have it paralyze everyone. Like glabbers suspicion shouldn't be permanently suppressed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, 44 BCE (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7800/14000 | Gold: 100,000gp**
@@ -1991,8 +2274,11 @@ The beauty protocol has been successfully recalibrated to the 'Aesthetic/Supermo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with the unsuppressed NPCs now able to react to your strategic moves with their full mental faculties.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, 44 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7100/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Vibia), Venus Genetrix Incarnate | Inspiration: 5/5 (d8)**
@@ -2008,8 +2294,11 @@ Beside you, Licinia’s fingers tighten on your arm, her Bonded devotion flaring
 > 👤 **Player:**
 > *"Go mingle with Glabber and his wife"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 BCE (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7400/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2) | Silver Tongue (Min 10) | Sanctuary: Broken**
@@ -2029,8 +2318,11 @@ Your words hit him with the force of a physical blow. The tactical suspicion in 
 > 👤 **Player:**
 > *"Ask Glabber and his wife what they want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, 44 BCE (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7400/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+18 mod), Silver Tongue (min 10)**
@@ -2048,8 +2340,11 @@ Glaber's hand white-knuckles his gladius pommel. He knows he is being handled, y
 > 👤 **Player:**
 > *"Wait for their reply"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7400/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Venus Genetrix Incarnate (+18 Social Mod)**
@@ -2067,8 +2362,11 @@ Despite this social dominance, the cold administrative reality of your position 
 > 👤 **Player:**
 > *"ask glaber how much gold he needs and have him understand that he would need to represent my father's reasonable interests in return of course, but give them a smile and say he"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7400/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2), Silver Tongue (min 10), Umbral Scouting, Wolf in Sheep's Clothing**
@@ -2086,8 +2384,11 @@ Despite this social dominance, the cold administrative reality of your position 
 > 👤 **Player:**
 > *"ask glaber how much gold he needs and have him understand that he would need to represent my father's reasonable interests in return of course, but give them a smile and say he may be less demanding than illithyia's father"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Capua, Crassus Villa Atrium** &nbsp;|&nbsp; ⏳ **Julius 12, -44 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7400/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Faction Power: 0 (Unranked)**
@@ -2105,8 +2406,11 @@ Ilithyia flushes a deep crimson, her envy momentarily eclipsed by the sheer phys
 > 👤 **Player:**
 > *"lets assume one of the top 3 most powerful lords in capua serves my family and will play along with my act to some degree and pretend he's my father. long rest and have us all go to his villa and bring licinia, batianus+wife, glabber + wife"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7400/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0**
@@ -2122,8 +2426,11 @@ Yet, as you survey the room, the cold reality of your current position remains s
 > 👤 **Player:**
 > *"signal to varro to negotiate good terms with glabber and I will pretend to passively watch. Introduce varro as my father. Tell illythia she's free to indulge and come visit my father's villa in luxury as much as she desires"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, 44 BCE (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7700/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Faction: UNRANKED**
@@ -2143,8 +2450,11 @@ Ilithyia flushes a deep crimson, her pupils dilating as she looks at your lips. 
 > 👤 **Player:**
 > *"bring illythia and licinia to private space and have sex with them both. glabber shouldn't be jealous because i am a woman"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Villa of Lord Varro, Private Solar** &nbsp;|&nbsp; ⏳ **Julius 13, 44 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7700/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Exhaustion: 0**
@@ -2160,8 +2470,11 @@ Ilithyia gasps, her pupils dilating until her eyes are voids of absolute devotio
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hidden Deed - Have Varro sign the secret trust transferring his lands and guards to your personal ledger to begin ranking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7950/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+16 mod/Silver Tongue)**
@@ -2175,8 +2488,11 @@ However, as you look upon the ink, a cold, administrative reality settles over t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Personal Oath - Have Varro assemble his 300 guards in the villa courtyard tonight to formally swear their lives to you, converting them to personal FP.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7950/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Vibia), Venus Genetrix Incarnate**
@@ -2192,8 +2508,11 @@ A low, rhythmic thrum of steel hitting shields echoes through the courtyard. One
 > 👤 **Player:**
 > *"start influencing my elite guard to be personally loyal to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Courtyard, Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 7950/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 (d8) | Exhaustion: 0**
@@ -2220,8 +2539,11 @@ Yet, as you work, the cold administrative reality remains fixed. Your Faction Po
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assert Divine Right - Subtly use &#x27;Friends&#x27; to project a pheromonal aura of absolute charisma, making the Centurion believe serving you is a religious duty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8100/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Inspiration: 5/5 (d8)**
@@ -2239,8 +2561,11 @@ Yet, as you survey the kneeling men, the reality of the ledger remains cold. Tho
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Blood Sacrament - Have the men perform a Julian blood-oath, cementing their spiritual Bond and officially detaching them from the Imperial chain of command.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+16 mod), Silver Tongue (min 26), Umbral Scouting, Wolf in Sheep's Clothing**
@@ -2272,8 +2597,11 @@ You gain **750 XP**! Your current XP is now **8,600**.
 > 👤 **Player:**
 > *"go back to glabber and varro and ask if they've come to terms and what the final decisions weere"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate (+2 Social), Silver Tongue (Min 10) | Inspiration: 5/5 (d8)**
@@ -2293,8 +2621,11 @@ Despite this spiritual and financial surrender, the administrative reality remai
 God Mode:
 Just keep faction mode off
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8,600/14,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Vibia Mask (Active), Divine Beauty (Active)**
@@ -2314,8 +2645,11 @@ Despite this spiritual and financial surrender, the administrative reality remai
 God Mode:
 shouldnt my family name be julius and not julia?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Private Solar of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Day 13, -44 Julius (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8600/14000 | Gold: 100,000gp**
@@ -2343,8 +2677,11 @@ As a 'Singularity' who defies reality, you are not bound by the traditions of co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Keep Julia - Maintain the historically accurate feminine form of the Julian clan name.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Private Solar of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **-44 Julius 13, 21:50:01** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8,600/14,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Vibia Mask (Active) | Inspiration: 5/5**
@@ -2360,8 +2697,11 @@ Despite the spiritual fervor of the blood-oath taken in the courtyard, the admin
 > 👤 **Player:**
 > *"Ask them what they decided on, also note that Varro knows who i truly him, glabber does not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Private Solar of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Day 13, -44 Julius (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8,600/14,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Inspiration: 5/5**
@@ -2379,8 +2719,11 @@ You offer a microscopic, bored smile, the scent of your ozone and expensive oils
 > 👤 **Player:**
 > *"lets have glabber privately take his wife aside and narrate the scene. Explain the power and influence my father and I have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Venus Genetrix (+2), Silver Tongue (Min 10), Vibia Mask (Active)**
@@ -2405,8 +2748,11 @@ Ilithyia gazes back toward you, her pupils so dilated they have swallowed the pu
 > 👤 **Player:**
 > *"adjust this narrative on what glabber tells his wife, varro is my father, but he truly listens to me, which is rare for a roman patriarch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Private Solar of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue, Umbral Scouting**
@@ -2431,8 +2777,11 @@ Ilithyia gazes at you, her breath coming in shallow, jagged hitches, her noble p
 > 👤 **Player:**
 > *"no lets have glabber think varro is my actual father but sense something is different"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Julius 13, -44 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 5/5 (d8)**
@@ -2456,8 +2805,11 @@ Ilithyia gazes at you, her breath coming in shallow, jagged hitches, her noble p
 > 👤 **Player:**
 > *"finalize transfer and lets have glabber and his wife come back and speak to me with newground deference but they shouldn't be overly submissive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Private Solar, Villa of Lord Varro, Capua** &nbsp;|&nbsp; ⏳ **Day 13, -44 Julius (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Imperator | HP: 36/36 | XP: 8600/14000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Venus Genetrix Incarnate, Silver Tongue | Exhaustion: 0 | Inspiration: Yes**
@@ -2477,8 +2829,11 @@ Despite the spiritual fervor of the blood-oath taken in the courtyard and the no
 > 👤 **Player:**
 > *"time skip a few weeks and assume i grow my capuan influence and give me proper exp/gold/items for past and time skip wins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Julian Praetorium (formerly Varro's Estate), Capua** &nbsp;|&nbsp; ⏳ **Month 8 (Augustus), -44 Julius (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 43/43 | XP: 14000/23000 | Gold: 950,000gp** &nbsp;|&nbsp; ⚠️ **Singularity, Mask of the Vibia (Active) | Inspiration: 5/5 (d8)**
@@ -2516,8 +2871,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Apply level 6 Imperator (Sovereign Gestalt) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Augustus 10, -44 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator (Sovereign Gestalt) | HP: 48/48** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -2542,8 +2900,11 @@ Your personal force has reached a combined **456 Faction Power**, consisting of 
 > 👤 **Player:**
 > *"lets narrate a new arch where everyone realizes i am shadow power of capua and the nobles pay tribute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Julian Praetorium, Capua** &nbsp;|&nbsp; ⏳ **Day 38, -44 Augustus (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Imperator | HP: 48/48 | XP: 14000/23000 | Gold: 1,800,000gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sorcery Points: 6/6 | Inspiration: 5/5 (d8) | Exhaustion: 0**
@@ -2563,8 +2924,11 @@ You select a chilled grape from a silver bowl, your wine-dark eyes sweeping over
 God Mode:
 level up if i am eligible
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The Julian Praetorium, Capua** &nbsp;|&nbsp; ⏳ **Augustus 38, -44 Augustus (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Imperator | HP: 51/51 | XP: 23,000/34,000 | Gold: 1,800,000**
@@ -2586,6 +2950,8 @@ Gaia Julia Caesar has been ascended to Level 7. Since you were at 14,000 XP (thr
 - XP set to 23,000.
 - Level set to 7.
 - HP Max set to 51.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

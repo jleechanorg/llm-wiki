@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (140 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Campaign Intro
@@ -718,156 +729,161 @@ You have 6 seconds before Glaber dies. What is your move?
    * Goal: Rely on his code. He won't butcher a 12-year-old girl. You force him to pause, buying Glaber a chance to run.
 (Remember: You have the "Hesitant Killer" advantage. Spartacus will likely try to disarm or shove you, not decapitate you, unless you hurt him badly first.)
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Market Square | Mirtul 15, 71 BCE (14:30) | Roleplay |
-| **03** | Unknown | Unknown | Roleplay |
-| **04** | Capua Market Square | 71 BCE, Year of the Consulship of Lentulus and Gellius | Roleplay |
-| **05** | Market Square | September 15, 71 BCE (12:00) | Roleplay |
-| **06** | Market Square | September 15, -71 DR (12:00) | Roleplay |
-| **07** | Unknown | September 15, -71 DR (12:00) | Roleplay |
-| **08** | Market Square | September 15, -71 BCE (12:00) | Roleplay |
-| **09** | Market Square | September 15, -71 BCE (12:00) | Roleplay |
-| **10** | Market Square | September 15, -71 BCE (12:00) | Roleplay |
-| **11** | Market Square | September 15, -71 BCE (12:00) | Roleplay |
-| **12** | Market Square | September 15, -71 BCE (12:00) | Roleplay |
-| **13** | Market Square | September 15, -71 BCE (12:00) | Roleplay |
-| **14** | Market Square | September 15, -71 BCE (12:01) | Roleplay |
-| **15** | Unknown | September 15, -71 DR (12:01) | Roleplay |
-| **16** | Market Square | September 15, -71 BCE (12:01) | Roleplay |
-| **17** | Market Square | September 15, -71 BCE (12:01) | Roleplay |
-| **18** | Market Square | -71 September 15, 12:01:01 | Roleplay |
-| **19** | Market Square | September 15, -71 BCE (12:05) | Roleplay |
-| **20** | Market Square | September 15, -71 BCE (12:05) | Roleplay |
-| **21** | Unknown | September 15, -71 DR (12:05) | Roleplay |
-| **22** | Market Square | 15, -71 September (12:05) | Roleplay |
-| **23** | Market Square | September 15, -71 BCE (12:05) | Roleplay |
-| **24** | Market Square | September 15, -71 BCE (12:05) | Roleplay |
-| **25** | Market Square | -71 September 15, 12:05:30 | Roleplay |
-| **26** | Market Square | September 15, -71 BCE (12:06) | Roleplay |
-| **27** | Market Square | September 15, -71 BCE (12:10) | Roleplay |
-| **28** | Market Square | September 15, -71 DR (12:25) | Roleplay |
-| **29** | Market Square | -71 September 15, 12:26:00 | Roleplay |
-| **30** | Market Square | 15, -71 September (12:40) | Roleplay |
-| **31** | Market Square | -71 September 15, 12:40:00 | Roleplay |
-| **32** | Market Square | September 15, -71 BCE (12:55) | Roleplay |
-| **33** | Partially Collapsed Portico | September 15, -71 BCE (13:10) | Roleplay |
-| **34** | Partially Collapsed Portico | -71 September 15, 13:25:00 | Roleplay |
-| **35** | Partially Collapsed Portico | September 15, -71 DR (13:30) | Social Challenge |
-| **36** | Partially Collapsed Portico | -71 September 15, 13:45:00 | Roleplay |
-| **37** | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
-| **38** | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
-| **39** | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
-| **40** | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
-| **41** | Partially Collapsed Portico | September 15, -71 DR (14:15) | Roleplay |
-| **42** | Road to the Villa of Albinius | September 15, -71 BCE (14:30) | Roleplay |
-| **43** | Road to the Villa of Albinius | September 15, -71 DR (14:45) | Roleplay |
-| **44** | Road to the Villa of Albinius | -71 September 15, 14:45:00 | Roleplay |
-| **45** | Road to the Villa of Albinius | -71 September 15, 14:50:00 | Roleplay |
-| **46** | Road to the Villa of Albinius | September 15, -71 BCE (14:55) | Roleplay |
-| **47** | Road to the Villa of Albinius | September 15, -71 DR (15:11) | Roleplay |
-| **48** | Rebel Encampment | September 15, -71 BCE (15:15) | Roleplay |
-| **49** | Road to the Villa of Albinius | -71 September 15, 15:15:00 | Roleplay |
-| **50** | Mount Tifata Ridges | September 15, -71 DR (15:20) | Roleplay |
-| **51** | Road to Villa of Albinius | -71 September 15, 15:35:00 | Roleplay |
-| **52** | Southern Ravine / Mount Tifata Approach | -71 September 15, 15:50:00 | Roleplay |
-| **53** | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 15:55:00 | Roleplay |
-| **54** | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 16:00:00 | Roleplay |
-| **55** | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 16:05:00 | Roleplay |
-| **56** | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 BCE (16:10) | Roleplay |
-| **57** | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 16:15:00 | Roleplay |
-| **58** | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 DR (16:30) | Boss Surrender |
-| **59** | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 BCE (16:45) | Roleplay |
-| **60** | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 BCE (16:45) | Roleplay |
-| **61** | Unknown | September 15, -71 DR (16:45) | Roleplay |
-| **62** | Unknown | September 15, -71 DR (17:30) | Roleplay |
-| **63** | Unknown | September 15, -71 DR (18:15) | Roleplay |
-| **64** | Unknown | September 15, -71 DR (20:30) | Roleplay |
-| **65** | Unknown | September 15, -71 DR (20:45) | Roleplay |
-| **66** | Unknown | September 15, -71 DR (20:55) | Roleplay |
-| **67** | Unknown | September 15, -71 DR (21:05) | Roleplay |
-| **68** | Unknown | September 15, -71 DR (21:15) | Roleplay |
-| **69** | Unknown | September 15, -71 DR (21:15) | Roleplay |
-| **70** | Unknown | September 15, -71 DR (21:15) | Roleplay |
-| **71** | Unknown | September 15, -71 DR (21:30) | Roleplay |
-| **72** | Unknown | October 1, -71 DR (10:00) | Roleplay |
-| **73** | Unknown | October 15, -71 DR (11:30) | Roleplay |
-| **74** | Unknown | October 15, -71 DR (13:00) | Roleplay |
-| **75** | Unknown | October 15, -71 DR (13:00) | Roleplay |
-| **76** | Unknown | October 15, -71 DR (13:00) | Roleplay |
-| **77** | Unknown | October 15, -71 DR (13:00) | Roleplay |
-| **78** | Unknown | October 15, -71 DR (13:00) | Roleplay |
-| **79** | Unknown | October 15, -71 DR (20:30) | Roleplay |
-| **80** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **81** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **82** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **83** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **84** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **85** | Rome - The Domus Aurea | October 15, -71 DR (21:00) | Roleplay |
-| **86** | Rome - The Domus Aurea | October 15, -71 DR (21:00) | Roleplay |
-| **87** | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
-| **88** | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
-| **89** | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
-| **90** | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
-| **91** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **92** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **93** | Unknown | October 15, -71 DR (21:00) | Roleplay |
-| **94** | Unknown | October 15, -71 DR (22:00) | Roleplay |
-| **95** | Rome - The Domus Aurea | October 15, -71 BCE (22:00) | Roleplay |
-| **96** | Unknown | October 15, -71 DR (22:00) | Roleplay |
-| **97** | Unknown | October 16, -71 DR (06:00) | Roleplay |
-| **98** | Rome - The Domus Aurea | October 16, -71 BCE (06:00) | Roleplay |
-| **99** | Unknown | October 16, -71 DR (06:00) | Roleplay |
-| **100** | Unknown | October 16, -71 DR (06:00) | Roleplay |
-| **101** | Unknown | October 16, -71 DR (06:00) | Roleplay |
-| **102** | Rome - The Domus Aurea | October 16, -71 BCE (06:00) | Roleplay |
-| **103** | Unknown | October 16, -71 DR (06:00) | Roleplay |
-| **104** | Unknown | October 16, -71 DR (06:00) | Roleplay |
-| **105** | Unknown | October 16, -71 DR (08:00) | Roleplay |
-| **106** | Unknown | October 16, -71 DR (08:00) | Roleplay |
-| **107** | Unknown | October 16, -71 DR (08:00) | Roleplay |
-| **108** | Unknown | October 16, -71 DR (10:00) | Roleplay |
-| **109** | Unknown | October 16, -71 DR (10:15) | Roleplay |
-| **110** | Unknown | October 16, -69 DR (10:15) | Roleplay |
-| **111** | Rome - The Great Arena (Imperial Box) | October 16, -69 DR (10:15) | Roleplay |
-| **112** | Rome - The Great Arena (Imperial Box) | October 16, -69 BCE (10:15) | Roleplay |
-| **113** | Rome - The Great Arena (Imperial Box) | October 16, -69 BCE (10:15) | Roleplay |
-| **114** | Unknown | October 16, -67 DR (10:15) | Roleplay |
-| **115** | Rome - The Great Arena (Imperial Box) | October 16, -67 DR (10:15) | Roleplay |
-| **116** | Rome - The Great Arena (Imperial Box) | October 16, -67 BCE (10:15) | Roleplay |
-| **117** | Rome - The Great Arena (Imperial Box) | October 16, -67 DR (10:15) | Roleplay |
-| **118** | Rome - The Domus Aurea (Private Solar) | October 16, -67 BCE (11:30) | Roleplay |
-| **119** | Rome - The Domus Aurea (Private Solar) | October 16, -67 DR (11:45) | Boss Surrender |
-| **120** | Rome - The Domus Aurea (Private Solar) | October 16, -67 BCE (11:45) | Roleplay |
-| **121** | Rome - The Domus Aurea (Private Solar) | October 16, -67 DR (12:00) | Roleplay |
-| **122** | Rome - The Domus Aurea (Private Solar) | October 16, -67 BCE (12:00) | Roleplay |
-| **123** | Rome - The Domus Aurea (Private Solar) | October 16, -65 BCE (14:30) | Roleplay |
-| **124** | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:45) | Roleplay |
-| **125** | Rome - The Domus Aurea (Private Solar) | October 16, -65 BCE (14:45) | Social Challenge |
-| **126** | Rome - The Domus Aurea (Private Solar) | October 16, -65 Oct (14:45) | Social Challenge |
-| **127** | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:46) | Roleplay |
-| **128** | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:47) | Roleplay |
-| **129** | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:52) | Boss Surrender |
-| **130** | Rome - Apartments of Octavian (Domus Aurea) | October 16, -65 DR (15:07) | Social Challenge |
-| **131** | Rome - Apartments of Octavian | October 16, -65 BCE (15:22) | Roleplay |
-| **132** | Rome - Apartments of Octavian | October 16, -65 DR (15:37) | Roleplay |
-| **133** | Rome - Apartments of Octavian | October 16, -65 BCE (15:52) | Social Challenge |
-| **134** | Rome - Apartments of Octavian | October 16, Year -65 (16:02) | Roleplay |
-| **135** | Rome - Apartments of Octavian | October 16, -65 BCE (16:15) | Boss Surrender |
-| **136** | Rome - The Subura / Shadow Sanctums | October 16, -65 BCE (23:30) | Roleplay |
-| **137** | Rome - The Subura | October 17, -65 BCE (01:15) | Roleplay |
-| **138** | Rome - The Subura | October 17, -65 DR (01:15) | Roleplay |
-| **139** | Rome - The Subura | October 17, -65 DR (02:45) | Roleplay |
-| **140** | Rome - The Subura | October 17, -65 BCE (02:45) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Market Square | Mirtul 15, 71 BCE (14:30) | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown | Unknown | Roleplay |
+| [**Scene 04**](#scene-4) | Capua Market Square | 71 BCE, Year of the Consulship of Lentulus and Gellius | Roleplay |
+| [**Scene 05**](#scene-5) | Market Square | September 15, 71 BCE (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Market Square | September 15, -71 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown | September 15, -71 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Market Square | September 15, -71 BCE (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Market Square | September 15, -71 BCE (12:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Market Square | September 15, -71 BCE (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Market Square | September 15, -71 BCE (12:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Market Square | September 15, -71 BCE (12:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Market Square | September 15, -71 BCE (12:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Market Square | September 15, -71 BCE (12:01) | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown | September 15, -71 DR (12:01) | Roleplay |
+| [**Scene 16**](#scene-16) | Market Square | September 15, -71 BCE (12:01) | Roleplay |
+| [**Scene 17**](#scene-17) | Market Square | September 15, -71 BCE (12:01) | Roleplay |
+| [**Scene 18**](#scene-18) | Market Square | -71 September 15, 12:01:01 | Roleplay |
+| [**Scene 19**](#scene-19) | Market Square | September 15, -71 BCE (12:05) | Roleplay |
+| [**Scene 20**](#scene-20) | Market Square | September 15, -71 BCE (12:05) | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown | September 15, -71 DR (12:05) | Roleplay |
+| [**Scene 22**](#scene-22) | Market Square | 15, -71 September (12:05) | Roleplay |
+| [**Scene 23**](#scene-23) | Market Square | September 15, -71 BCE (12:05) | Roleplay |
+| [**Scene 24**](#scene-24) | Market Square | September 15, -71 BCE (12:05) | Roleplay |
+| [**Scene 25**](#scene-25) | Market Square | -71 September 15, 12:05:30 | Roleplay |
+| [**Scene 26**](#scene-26) | Market Square | September 15, -71 BCE (12:06) | Roleplay |
+| [**Scene 27**](#scene-27) | Market Square | September 15, -71 BCE (12:10) | Roleplay |
+| [**Scene 28**](#scene-28) | Market Square | September 15, -71 DR (12:25) | Roleplay |
+| [**Scene 29**](#scene-29) | Market Square | -71 September 15, 12:26:00 | Roleplay |
+| [**Scene 30**](#scene-30) | Market Square | 15, -71 September (12:40) | Roleplay |
+| [**Scene 31**](#scene-31) | Market Square | -71 September 15, 12:40:00 | Roleplay |
+| [**Scene 32**](#scene-32) | Market Square | September 15, -71 BCE (12:55) | Roleplay |
+| [**Scene 33**](#scene-33) | Partially Collapsed Portico | September 15, -71 BCE (13:10) | Roleplay |
+| [**Scene 34**](#scene-34) | Partially Collapsed Portico | -71 September 15, 13:25:00 | Roleplay |
+| [**Scene 35**](#scene-35) | Partially Collapsed Portico | September 15, -71 DR (13:30) | Social Challenge |
+| [**Scene 36**](#scene-36) | Partially Collapsed Portico | -71 September 15, 13:45:00 | Roleplay |
+| [**Scene 37**](#scene-37) | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
+| [**Scene 39**](#scene-39) | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
+| [**Scene 40**](#scene-40) | Partially Collapsed Portico | September 15, -71 BCE (14:00) | Roleplay |
+| [**Scene 41**](#scene-41) | Partially Collapsed Portico | September 15, -71 DR (14:15) | Roleplay |
+| [**Scene 42**](#scene-42) | Road to the Villa of Albinius | September 15, -71 BCE (14:30) | Roleplay |
+| [**Scene 43**](#scene-43) | Road to the Villa of Albinius | September 15, -71 DR (14:45) | Roleplay |
+| [**Scene 44**](#scene-44) | Road to the Villa of Albinius | -71 September 15, 14:45:00 | Roleplay |
+| [**Scene 45**](#scene-45) | Road to the Villa of Albinius | -71 September 15, 14:50:00 | Roleplay |
+| [**Scene 46**](#scene-46) | Road to the Villa of Albinius | September 15, -71 BCE (14:55) | Roleplay |
+| [**Scene 47**](#scene-47) | Road to the Villa of Albinius | September 15, -71 DR (15:11) | Roleplay |
+| [**Scene 48**](#scene-48) | Rebel Encampment | September 15, -71 BCE (15:15) | Roleplay |
+| [**Scene 49**](#scene-49) | Road to the Villa of Albinius | -71 September 15, 15:15:00 | Roleplay |
+| [**Scene 50**](#scene-50) | Mount Tifata Ridges | September 15, -71 DR (15:20) | Roleplay |
+| [**Scene 51**](#scene-51) | Road to Villa of Albinius | -71 September 15, 15:35:00 | Roleplay |
+| [**Scene 52**](#scene-52) | Southern Ravine / Mount Tifata Approach | -71 September 15, 15:50:00 | Roleplay |
+| [**Scene 53**](#scene-53) | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 15:55:00 | Roleplay |
+| [**Scene 54**](#scene-54) | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 16:00:00 | Roleplay |
+| [**Scene 55**](#scene-55) | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 16:05:00 | Roleplay |
+| [**Scene 56**](#scene-56) | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 BCE (16:10) | Roleplay |
+| [**Scene 57**](#scene-57) | Mount Tifata Ridges / Rebel Camp Perimeter | -71 September 15, 16:15:00 | Roleplay |
+| [**Scene 58**](#scene-58) | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 DR (16:30) | Boss Surrender |
+| [**Scene 59**](#scene-59) | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 BCE (16:45) | Roleplay |
+| [**Scene 60**](#scene-60) | Mount Tifata Ridges / Rebel Camp Perimeter | September 15, -71 BCE (16:45) | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown | September 15, -71 DR (16:45) | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown | September 15, -71 DR (17:30) | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown | September 15, -71 DR (18:15) | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown | September 15, -71 DR (20:30) | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown | September 15, -71 DR (20:45) | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown | September 15, -71 DR (20:55) | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown | September 15, -71 DR (21:05) | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown | September 15, -71 DR (21:15) | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown | September 15, -71 DR (21:15) | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown | September 15, -71 DR (21:15) | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown | September 15, -71 DR (21:30) | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown | October 1, -71 DR (10:00) | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown | October 15, -71 DR (11:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown | October 15, -71 DR (13:00) | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown | October 15, -71 DR (13:00) | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown | October 15, -71 DR (13:00) | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown | October 15, -71 DR (13:00) | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown | October 15, -71 DR (13:00) | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown | October 15, -71 DR (20:30) | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 81**](#scene-81) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 82**](#scene-82) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 83**](#scene-83) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 85**](#scene-85) | Rome - The Domus Aurea | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 86**](#scene-86) | Rome - The Domus Aurea | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 87**](#scene-87) | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
+| [**Scene 88**](#scene-88) | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
+| [**Scene 89**](#scene-89) | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
+| [**Scene 90**](#scene-90) | Rome - The Domus Aurea | October 15, -71 BCE (21:00) | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown | October 15, -71 DR (21:00) | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown | October 15, -71 DR (22:00) | Roleplay |
+| [**Scene 95**](#scene-95) | Rome - The Domus Aurea | October 15, -71 BCE (22:00) | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown | October 15, -71 DR (22:00) | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown | October 16, -71 DR (06:00) | Roleplay |
+| [**Scene 98**](#scene-98) | Rome - The Domus Aurea | October 16, -71 BCE (06:00) | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown | October 16, -71 DR (06:00) | Roleplay |
+| [**Scene 100**](#scene-100) | Unknown | October 16, -71 DR (06:00) | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown | October 16, -71 DR (06:00) | Roleplay |
+| [**Scene 102**](#scene-102) | Rome - The Domus Aurea | October 16, -71 BCE (06:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown | October 16, -71 DR (06:00) | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown | October 16, -71 DR (06:00) | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown | October 16, -71 DR (08:00) | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown | October 16, -71 DR (08:00) | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown | October 16, -71 DR (08:00) | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown | October 16, -71 DR (10:00) | Roleplay |
+| [**Scene 109**](#scene-109) | Unknown | October 16, -71 DR (10:15) | Roleplay |
+| [**Scene 110**](#scene-110) | Unknown | October 16, -69 DR (10:15) | Roleplay |
+| [**Scene 111**](#scene-111) | Rome - The Great Arena (Imperial Box) | October 16, -69 DR (10:15) | Roleplay |
+| [**Scene 112**](#scene-112) | Rome - The Great Arena (Imperial Box) | October 16, -69 BCE (10:15) | Roleplay |
+| [**Scene 113**](#scene-113) | Rome - The Great Arena (Imperial Box) | October 16, -69 BCE (10:15) | Roleplay |
+| [**Scene 114**](#scene-114) | Unknown | October 16, -67 DR (10:15) | Roleplay |
+| [**Scene 115**](#scene-115) | Rome - The Great Arena (Imperial Box) | October 16, -67 DR (10:15) | Roleplay |
+| [**Scene 116**](#scene-116) | Rome - The Great Arena (Imperial Box) | October 16, -67 BCE (10:15) | Roleplay |
+| [**Scene 117**](#scene-117) | Rome - The Great Arena (Imperial Box) | October 16, -67 DR (10:15) | Roleplay |
+| [**Scene 118**](#scene-118) | Rome - The Domus Aurea (Private Solar) | October 16, -67 BCE (11:30) | Roleplay |
+| [**Scene 119**](#scene-119) | Rome - The Domus Aurea (Private Solar) | October 16, -67 DR (11:45) | Boss Surrender |
+| [**Scene 120**](#scene-120) | Rome - The Domus Aurea (Private Solar) | October 16, -67 BCE (11:45) | Roleplay |
+| [**Scene 121**](#scene-121) | Rome - The Domus Aurea (Private Solar) | October 16, -67 DR (12:00) | Roleplay |
+| [**Scene 122**](#scene-122) | Rome - The Domus Aurea (Private Solar) | October 16, -67 BCE (12:00) | Roleplay |
+| [**Scene 123**](#scene-123) | Rome - The Domus Aurea (Private Solar) | October 16, -65 BCE (14:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:45) | Roleplay |
+| [**Scene 125**](#scene-125) | Rome - The Domus Aurea (Private Solar) | October 16, -65 BCE (14:45) | Social Challenge |
+| [**Scene 126**](#scene-126) | Rome - The Domus Aurea (Private Solar) | October 16, -65 Oct (14:45) | Social Challenge |
+| [**Scene 127**](#scene-127) | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:46) | Roleplay |
+| [**Scene 128**](#scene-128) | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:47) | Roleplay |
+| [**Scene 129**](#scene-129) | Rome - The Domus Aurea (Private Solar) | October 16, -65 DR (14:52) | Boss Surrender |
+| [**Scene 130**](#scene-130) | Rome - Apartments of Octavian (Domus Aurea) | October 16, -65 DR (15:07) | Social Challenge |
+| [**Scene 131**](#scene-131) | Rome - Apartments of Octavian | October 16, -65 BCE (15:22) | Roleplay |
+| [**Scene 132**](#scene-132) | Rome - Apartments of Octavian | October 16, -65 DR (15:37) | Roleplay |
+| [**Scene 133**](#scene-133) | Rome - Apartments of Octavian | October 16, -65 BCE (15:52) | Social Challenge |
+| [**Scene 134**](#scene-134) | Rome - Apartments of Octavian | October 16, Year -65 (16:02) | Roleplay |
+| [**Scene 135**](#scene-135) | Rome - Apartments of Octavian | October 16, -65 BCE (16:15) | Boss Surrender |
+| [**Scene 136**](#scene-136) | Rome - The Subura / Shadow Sanctums | October 16, -65 BCE (23:30) | Roleplay |
+| [**Scene 137**](#scene-137) | Rome - The Subura | October 17, -65 BCE (01:15) | Roleplay |
+| [**Scene 138**](#scene-138) | Rome - The Subura | October 17, -65 DR (01:15) | Roleplay |
+| [**Scene 139**](#scene-139) | Rome - The Subura | October 17, -65 DR (02:45) | Roleplay |
+| [**Scene 140**](#scene-140) | Rome - The Subura | October 17, -65 BCE (02:45) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (College of Swords) | HP: 19/19** &nbsp;|&nbsp; ✨ **None**
@@ -892,8 +908,11 @@ Before we begin the massacre in the Capuan Market Square, please review your cha
 God Mode:
 Make sure you give me reasonable starting equipment spells skills and my stats are correct so should have proficiency in all the cha skills and get expertise when I'm the right level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **Mirtul 15, 71 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp**
@@ -901,8 +920,11 @@ Make sure you give me reasonable starting equipment spells skills and my stats a
 God Mode:
 Give me 16 wis and make sure nothing referencing my male identity or contradicts with the campaign start
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (College of Swords) | HP: 19/19** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -910,8 +932,11 @@ Give me 16 wis and make sure nothing referencing my male identity or contradicts
 God Mode:
 Give me cute wounds instead of healing word
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Capua Market Square** &nbsp;|&nbsp; ⏳ **71 BCE, Year of the Consulship of Lentulus and Gellius** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp (Satchel)**
@@ -921,8 +946,11 @@ Give me cute wounds instead of healing word
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Market Square - Resume the scene in Capua where Spartacus stands over Glaber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, 71 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Incognito (Servant) | Exhaustion: 0 | Inspiration: Yes**
@@ -938,8 +966,11 @@ You are a twelve-year-old girl with the intellect of a god and the blood of an E
 > 👤 **Player:**
 > *"Tell Spartacus to stop and remember Aurelia. We trade her life for Glabber. Cast cure wounds on her to impress people and surprise everyone and build trust"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Incognito | Exhaustion: 0 | Inspiration: Yes**
@@ -957,8 +988,11 @@ The mob gasps, the sound rippling through the square like wind through wheat. Ev
 God Mode:
 Don't call Glabber or anyone pathetic I need to keep acting like a commoner
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (College of Swords) | HP: 19/19** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3**
@@ -966,8 +1000,11 @@ Don't call Glabber or anyone pathetic I need to keep acting like a commoner
 God Mode:
 Also I heal Aurelia not some random woman
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp**
@@ -975,8 +1012,11 @@ Also I heal Aurelia not some random woman
 God Mode:
 Make Spartacus level 8 for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 10gp (50k in Satchel)** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner Servant) | Exhaustion: 0 | Inspiration: 4/4**
@@ -984,8 +1024,11 @@ Make Spartacus level 8 for now
 God Mode:
 Spartacus and his top people level 7-8 for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp**
@@ -995,8 +1038,11 @@ Spartacus and his top people level 7-8 for now
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Market Square, with the crowd in awe and Spartacus staring at the &#x27;divine&#x27; servant girl.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Incognito (Servant) | Exhaustion: 0 | Inspiration: Yes**
@@ -1014,8 +1060,11 @@ Spartacus looks down at Glaber, who is shivering in the dust, then back at his w
 God Mode:
 Aurelia is his friend Varro wife not his wife
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp**
@@ -1025,8 +1074,11 @@ Aurelia is his friend Varro wife not his wife
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate the Exit - Formally arrange for the rebels to leave the square with Aurelia while the guards are still too stunned to interfere.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/4, L2 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Incognito (Servant) | Exhaustion: 0 | Inspiration: 4/4**
@@ -1046,8 +1098,11 @@ As the rebels begin a disciplined retreat, pulling the wagon and their wounded t
 > 👤 **Player:**
 > *"Let's rewrite the scene a bit. As in negotiate I walk and stand between him and Glabber. All should recognize my unnatural bravery . Let the roll win because I already won the roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:01)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/4, L2 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Incognito (Servant) | Inspiration: 4/4**
@@ -1065,8 +1120,11 @@ Glaber, huddled in the shadow of the fountain, stares up at your back. He is saf
 God Mode:
 Remember I am posing as a Roman commoner not a slave
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (12:01)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (College of Swords) | HP: 19/19** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3**
@@ -1074,8 +1132,11 @@ Remember I am posing as a Roman commoner not a slave
 God Mode:
 Heal glaber but use subtle spell and direct praetorians to preserve glaber honor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:01)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp**
@@ -1085,8 +1146,11 @@ Heal glaber but use subtle spell and direct praetorians to preserve glaber honor
 > 👤 **Player:**
 > *"Narrate the scene accidentally users god mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:01)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Inspiration: 4/4**
@@ -1102,8 +1166,11 @@ Behind you, Valerius and the others move with the efficiency of shadows. With a 
 > 👤 **Player:**
 > *"Explain to Glabber that although I am an orphan perhaps I am a bastard child of some noble so I have some small magic to defuse his suspicions."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 12:01:01** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Inspiration: 4/4, Metamagic: 0/2**
@@ -1123,8 +1190,11 @@ Glaber snaps his spine straight, his hand resting on the hilt of his gladius. He
 > 👤 **Player:**
 > *"Let's have seppius enter the scene and brag to Glabber that his men saved Glabber. He should be very confused that I have magic but still tried to take credit."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Inspiration: 4/4, Metamagic: 0/2**
@@ -1142,8 +1212,11 @@ Glaber looks at Seppius, then at you, a thin, dangerous smile touching his lips.
 > 👤 **Player:**
 > *"Give Glabber a knowing look, implying seppius incompetence, and then signal Valerius to thank seppius for the compliment and suggest we combine forces. Roll deception check to see if anyone notices"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2**
@@ -1161,8 +1234,11 @@ Seppius blinks, his mouth opening and closing. He wanted the glory, but the sudd
 God Mode:
 Remember Valerius is a praetorian but posing as a mercenary hired by seppius
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (College of Swords) | HP: 19/19** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3**
@@ -1172,8 +1248,11 @@ Remember Valerius is a praetorian but posing as a mercenary hired by seppius
 > 👤 **Player:**
 > *"Redo the narrative. Valerius is asking his boss seppius if we can combine forces with Glabber"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **15, -71 September (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2**
@@ -1191,8 +1270,11 @@ Seppius blinks, his mouth opening and closing like a landed fish. He wanted the 
 > 👤 **Player:**
 > *"Keep my eyes downcast and signal Valerius to keep negotiating"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner) | Exhaustion: 0 | Inspiration: Yes**
@@ -1206,8 +1288,11 @@ Glaber watches Seppius with the detached interest of a lion watching a jackal ch
 > 👤 **Player:**
 > *"Wait for serious reply"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **Hit Dice: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Incognito (Roman Commoner) | Inspiration: Yes**
@@ -1221,8 +1306,11 @@ Valerius maintains his rough, mercenary posture, but Seppius is starting to pivo
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Servant&#x27;s Plea - Step forward and &#x27;clumsily&#x27; offer Seppius his own silk mantle, whispering that his &#x27;generosity&#x27; will surely be the talk of the Senate once Glaber reports the victory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 12:05:30** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **Hit Dice: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Incognito (Roman Commoner) | Inspiration: Yes**
@@ -1242,8 +1330,11 @@ Glaber's gaze meets yours over Seppius's shoulder for a fraction of a second—a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Withdraw to the Shadows - Retreat behind Valerius and the Praetorians, resuming the role of a silent, exhausted servant as the high-ranking Tribunes approach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:06)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **Hit Dice: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2**
@@ -1261,8 +1352,11 @@ Seppius stands beside him, looking both terrified and nauseatingly smug, trapped
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scavenge for Intelligence - While the officers talk, move through the square to see if the rebels left anything behind—a map, a symbol, or a clue to their next destination.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 10gp (50k in Satchel)** &nbsp;|&nbsp; ✨ **L1 Spells: 0/4, L2 Spells: 3/3, Metamagic: 0/2, Hit Dice: 4/4**
@@ -1276,8 +1370,11 @@ Nearby, caught in the splintered wood of a merchant's stall, you find a strip of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Clues Privately - Find a quiet corner to examine the mountain sketch more closely, using your high INT to identify the location.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3 | Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner Servant) | Exhaustion: 0 | Inspiration: Yes**
@@ -1291,8 +1388,11 @@ Spartacus isn't just running; he has a fortified destination. You tuck the clues
 > 👤 **Player:**
 > *"Tell Valeriusbto have a few of my guards scout the camp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 12:26:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner) | Exhaustion: 0 | Inspiration: Yes**
@@ -1310,8 +1410,11 @@ You watch from the shadows as two of your 'masters' slip through the crowd, vani
 > 👤 **Player:**
 > *"Have my men rejoin seppius as the men plan things. Act like a servant and carry their things to reduce suspicion and make people think I'm a real servant. Seppius is dumg and might fall for it but glabber has more personal knowledge. Also let's assume licinia was in the square and Illyria and Lucretia and saw everything and were threatened by the gladiators. They should be watching me and grateful and notice inam being incognito so will save their praise for late e"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **15, -71 September (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2**
@@ -1325,8 +1428,11 @@ Near the edge of the square, a cluster of noblewomen—Licinia, Ilithyia, and Lu
 > 👤 **Player:**
 > *"Narrate a scene where the noble women wonder who I am and seppia is there took"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 12:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2**
@@ -1346,8 +1452,11 @@ He glances back at you, a flicker of doubt crossing his face as he remembers the
 > 👤 **Player:**
 > *"Narrate a scene where licinia calls me over and they all privately thank me. She looks closer at my features and implies I don't look like a commoner at all. And why are my hands so soft and my skin so clean etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Market Square, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Roman Commoner Persona | Exhaustion: 0 | Inspiration: Yes**
@@ -1367,8 +1476,11 @@ But Licinia is not looking at the miracle; she is looking at you. She reaches ou
 > 👤 **Player:**
 > *"Deepen the bastard lie but say sadly I do not know my father. But if they would help me find him I'd be eternally grateful. Perhaps I can serve them while they host important lords ladies and present me to them to ask if I look familiar. Muse that perhaps my father would reclaim me if he knew I have divine blood manifested"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2** &nbsp;|&nbsp; ⚠️ **Incognito (Roman Commoner) | Inspiration: Yes**
@@ -1384,8 +1496,11 @@ Ilithyia gasps, her hand flying to her mouth, her eyes softening with a sudden, 
 > 👤 **Player:**
 > *"Wait for their reply. Licinia says only the top 10 families have magic so it might be hard but why not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 13:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2,700/6,500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner) | Exhaustion: 0 | Inspiration: No**
@@ -1403,8 +1518,11 @@ Lucretia remains silent, her eyes tracking the faint, lingering hum of the Miasm
 > 👤 **Player:**
 > *"Narrate licinia internal thoughts. Perhaps she can rise in station if she finds my family. After all no father would refuse a child of divine manifested even a a bastard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3 | Metamagic: 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner Servant) | Inspiration: Yes**
@@ -1429,8 +1547,11 @@ She turns to the other women, her voice regaining its melodic, commanding edge. 
 > 👤 **Player:**
 > *"Let's narrate the noble women taking glabber aside and explaining the plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 13:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner Servant) | Exhaustion: 0 | Inspiration: Yes**
@@ -1452,8 +1573,11 @@ Seppius, standing on the edge of the circle, looks like he’s swallowed a stone
 > 👤 **Player:**
 > *"Let's assume they buy out my contract and the contract of my men from sepius. He's dumb so doesn't realize what I have lost"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2**
@@ -1471,8 +1595,11 @@ Valerius offers a stiff, mercenary bow, his eyes meeting yours for a fleeting se
 God Mode:
 They shouldn't know for sure I am a Julian
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp**
@@ -1480,8 +1607,11 @@ They shouldn't know for sure I am a Julian
 God Mode:
 Coordinate Vanguard Signal - Subtly signal Valerius to ensure Felix and Titus know where to find the retinue once they return from the mountain.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2,700/6,500 | Gold: 60,010gp** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner Servant Persona) | Exhaustion: 0 | Inspiration: Yes**
@@ -1491,8 +1621,11 @@ Coordinate Vanguard Signal - Subtly signal Valerius to ensure Felix and Titus kn
 > 👤 **Player:**
 > *"Narrate it properly accidentally used god mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 60,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2**
@@ -1508,8 +1641,11 @@ He offers a stiff, barely visible nod, turning to bark a rough order at the rema
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bond with Seppia - The youngest and most impressionable of the women. Use the &#x27;orphaned sisters&#x27; angle to gain her absolute trust.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Partially Collapsed Portico, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner) | Exhaustion: 0 | Inspiration: Yes**
@@ -1525,8 +1661,11 @@ She looks around to ensure Licinia is not watching, then slips a small, sweet-sm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Lucretia&#x27;s Silence - The Oracle has been too quiet. Try to engage her subtly during the march to see what she &#x27;senses.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Road to the Villa of Albinius, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,010gp (Satchel)** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2, Inspiration: 4/4**
@@ -1546,8 +1685,11 @@ Lucretia’s hand tightens on her reins, the leather creaking. She looks down at
 > 👤 **Player:**
 > *"Deflect her question politely"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Road to the Villa of Albinius, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expires Turn 31) | Exhaustion: 0 | Inspiration: 4/4**
@@ -1563,8 +1705,11 @@ Lucretia’s eyes narrow, searching your face for the lie, but your high-born fe
 > 👤 **Player:**
 > *"Ask Lucretia if I can see her scrolls. Say I'll try to utilize my magic that she believes I might have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Road to the Villa of Albinius, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 14:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 1/2**
@@ -1582,8 +1727,11 @@ She withdraws her hand, her silence returning like a shroud. She hasn't denied y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Display of Power - Use Thaumaturgy to create a minor, &#x27;uncontrolled&#x27; omen (whispering wind, flickering eyes) to reinforce your &#x27;vessel&#x27; narrative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Road to the Villa of Albinius, Capua** &nbsp;|&nbsp; ⏳ **-71 September 15, 14:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Inspiration: 4/4**
@@ -1601,8 +1749,11 @@ Lucretia recoils, her hand flying to her throat as she stares at you, the skepti
 > 👤 **Player:**
 > *"Ask Lucretia again for the scrolls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Road to the Villa of Albinius, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Inspiration: 4/4**
@@ -1620,8 +1771,11 @@ She holds the blackened silver scroll out to you, her fingers not trembling, but
 > [!NOTE] ⚙️ **Player Choice:**
 > *Read the Cantus Umbrae - Attempt to read the ancient vellum, allowing the Miasma to &#x27;guide&#x27; your eyes while appearing overwhelmed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Road to the Villa of Albinius, Capua** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (15:11)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3 | Inspiration: 4/4 | Exhaustion: 0**
@@ -1641,8 +1795,11 @@ She snatches the scroll back, her knuckles white, but her gaze is no longer susp
 > 👤 **Player:**
 > *"Let's narrate a scene without me where Spartacus and his rebel leaders and Aurelia wonder who I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Rebel Encampment, Mount Tifata Ridges** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2**
@@ -1660,8 +1817,11 @@ Spartacus gazes into the flames, his scarred features illuminated by the flicker
 God Mode:
 I should get some ability or bonus for reading scroll
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Road to the Villa of Albinius** &nbsp;|&nbsp; ⏳ **-71 September 15, 15:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,010gp**
@@ -1671,8 +1831,11 @@ I should get some ability or bonus for reading scroll
 > [!NOTE] ⚙️ **Player Choice:**
 > *Felix and Titus Arrive - Switch to your scouts as they observe this camp from the ridges.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Mount Tifata Ridges** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3 | Metamagic: 0/2 | Inspiration: 4/4**
@@ -1688,8 +1851,11 @@ Felix continues his survey, noting the narrow ravine that serves as the only eas
 > 👤 **Player:**
 > *"Let's assume my scouts come back and brief me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Road to Villa of Albinius** &nbsp;|&nbsp; ⏳ **-71 September 15, 15:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2, Inspiration: 4/4**
@@ -1705,8 +1871,11 @@ The information is precise, a Julian scalpel ready to be plunged into the rebell
 > 👤 **Player:**
 > *"Let's have Valerius say his scouts found the rebel base and propose encirclement with siege weapons. A lighter force of 100 elites will do the first encirclement and then the other 500 join them when in position to make the encirclement absolute. Then  bring me to use magic to help and maybe make the rebels surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Southern Ravine / Mount Tifata Approach** &nbsp;|&nbsp; ⏳ **-71 September 15, 15:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2, Inspiration: 4/4**
@@ -1728,8 +1897,11 @@ You drift to the edge of the ravine, the lavender handkerchief from Seppia clutc
 > 👤 **Player:**
 > *"Negotiate as a vessel. It should unnerve them that a 12 year old girl is so brave"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **-71 September 15, 15:55:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Inspiration: 4/4**
@@ -1749,8 +1921,11 @@ Spartacus stares at you, his chest heaving. He looks at the ridges where the Lor
 > 👤 **Player:**
 > *"Wait for their response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **-71 September 15, 16:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Miasmatic Resonance, Sandals of Hermes | Exhaustion: 0 | Inspiration: 4/4**
@@ -1766,8 +1941,11 @@ He looks back at his men—Crixus, Gannicus, and the shivering survivors of the 
 > 👤 **Player:**
 > *"Say what if those who surrender will lose their freedom but be unharmed. Except Spartacus and the rebel leaders. The women and children will be slaves again but they especially won't die"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **-71 September 15, 16:05:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2** &nbsp;|&nbsp; ⚠️ **Incognito (Commoner), Miasmatic Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -1783,8 +1961,11 @@ Spartacus flinches as if struck. Behind him, Crixus let out a low, guttural snar
 > 👤 **Player:**
 > *"Say that perhaps I can ask Glabber to spare the leaders too. But if I go to him with this offer will Spartacus accept?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **Slots: L1 0/4, L2 3/3 | Inspiration: 4/4 | Miasmatic Echo: 1/1** &nbsp;|&nbsp; ⚠️ **Incognito (Servant Persona), Miasmatic Resonance active**
@@ -1800,8 +1981,11 @@ Spartacus sways. The dual gladii, once extensions of his very soul, now look lik
 > 👤 **Player:**
 > *"Hold eye contact and wait for Spartacus response. I am in range of the arrows and my lack of fear should be unnerving and in some ways add legitimacy that I'm risking my neck for a peaceful surrender. He knows there's no way to win against encirclement of 600"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **-71 September 15, 16:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **Slots: L1 0/4, L2 3/3 | Inspiration: 4/4 | Miasmatic Echo: 1/1**
@@ -1819,8 +2003,11 @@ Behind him, the camp collapses into a stunned, sobbing silence. Crixus drops his
 > 👤 **Player:**
 > *"Formal transition to glaber. Explain that the rebels have surrendered and will accept slave status again and we can take them without a single drop of blood. Explain that the gods probably want this because of the sheer unlikelihood of someone like Spartacus and crixus surrendiernf without a fight. If we break the oath the gods may punish us. Also explain that peaceful re enslavement sends a message that qweells rebellion better than killing slaves which creates martyrs. Let's assume inlong rested before and use that ability that gives advantage on cha checks and use bardic inspiration. Spartacus is standing beside me to witness this all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3 | Inspiration: 3/4 | Miasmatic Echo: 0/1** &nbsp;|&nbsp; ⚠️ **Miasmatic Echo (Used) | Exhaustion: 0 | Inspiration: 3/4**
@@ -1848,8 +2035,11 @@ Glaber stares at you, then at the surrendered Spartacus. The logic of your words
 > 👤 **Player:**
 > *"Give Spartacus a slight victorious smile to show i am happy that everyone can be spared. He should be very impressed. Then signal Valerius to handle the surrender. The rebels must line up and drop their weapons before approaching and then get chained up again for now but they are to be treated well if they don't resist and given food and water etc. spread the word that the gods accepted the rebels honorable surrender and return to natural order and to name them unjustly is to invite divine retribution"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4000/6500 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 3/3, Metamagic: 0/2, Inspiration: 1/4, Echo: 0/1** &nbsp;|&nbsp; ⚠️ **Miasmatic Echo (Used) | Exhaustion: 0 | Inspiration: 1/4**
@@ -1875,8 +2065,11 @@ Word spreads through the ranks like a slow-burning fire. The legionaries, usuall
 God Mode:
 I probably deserve a lot more exp. I should get individual exp same as if I killed every rebel plus peaceful surrender bonusb
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Mount Tifata Ridges / Rebel Camp Perimeter** &nbsp;|&nbsp; ⏳ **September 15, -71 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4,000/6,500 | Gold: 50,010gp**
@@ -1884,8 +2077,11 @@ I probably deserve a lot more exp. I should get individual exp same as if I kill
 God Mode:
 Level up to 6. Let me still collect exp but I can't level further until i time skip 2 years.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -1895,8 +2091,11 @@ Level up to 6. Let me still collect exp but I can't level further until i time s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the prisoners are secured and the march back to Capua begins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -1918,8 +2117,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Noble Elevation - Allow Licinia and Seppia to prominently display you as their &#x27;discovery&#x27; as you enter the city gates, maximizing your Gratia.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -1943,8 +2145,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Banquet shadow. Maintain my deception but for my amusement see if anyone recognizes my features. I should be safe becuse onto elite Roman families know me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -1967,8 +2172,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Engage messala privately. Explain I'm having fun pretending to be a commoner and if he plays along he has my favor and through me the emperor of course"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -1995,8 +2203,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Have one of my praetorians send a message to the emperor explaining I've defeated the slave rebellion that has plagued Rome without a single drop of blood and will deliver the rebel leaders as a present for the emperor so invite Glabber and me (incogito) for a triumph in Rome"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (20:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2020,8 +2231,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Go back to the party and interact with nobles and all the main season 2 characters and illythia father albinus senator and assume seppius and varius glabber rival praetor is there. Narrate dialog in detail with the noblewomen fussing over me and presenting me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2053,8 +2267,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's also have Messalla accompany me to make sure everything is ok and he keeps up the act but he's horrified if anyone is disrespectful and acts a bit too deferential to me, but I don't get fully found out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2081,8 +2298,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's have varinus make a crude sexual remark to me. Messala is horrified but glsbber and the noblewomen act protective"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 3/4**
@@ -2108,8 +2328,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Calm messalla and look at varinus in an amused way. He should be taken off guard thst Im not intimidated and then resume my act of acting scared"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 3/4**
@@ -2132,8 +2355,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's have my group leave and introduce me to other nobles to ask they recognize me. All the nobles realize I have very noble features but they don't recognize me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, -71 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -2162,8 +2388,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Have messella suggest a senator who's in Rome. I act hopeful. Then time skip until we get a reply from my father inviting Glabber and his group to triumph. I ask the noblewomen to come to Rome with us too and help me look for my father"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 1, -71 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -2192,8 +2421,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Trimph entrance divine healer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -2217,8 +2449,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's assume emperor doesn't give up the game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -2243,8 +2478,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Present the rebel leaders as tribute to the emperor to decide what he wants to do. Suggest making them gladiators again would be the ultimate sign of the dominance of his empire. Give Spartacus and the rebel leaders a quick look that says play along because it's better than being tortured Toder's"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -2272,8 +2510,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Marcellus and ask how the search for my father goes and act cute and hopeful. My father the emperor should find this very amusing. Let's narrate Glabber and the noblewomen's reaction to everythingZ let's have each one roll to see if they notice I'm not intimidated by the emperor and let's have the rebel leaders roll to see if they notice and roll to see if they notice how similar I look to emperorZ*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -2296,8 +2537,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Wait for Marcellus reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 1/4**
@@ -2320,8 +2564,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Wait for Marcellus answer. He knows who I am and signal to him it's ok to play along emperor won't be offended"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2350,8 +2597,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Emperor&#x27;s Private Feast - Attend the private banquet at the Domus Aurea, where the Emperor likely expects a full report on your &#x27;fun&#x27; in Capua.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2381,8 +2631,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's assume everyone is drinking wine even more expensive like the optimium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2410,8 +2663,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Noble Bond - Use your current momentum to turn the noblewomen into an informal intelligence network within the Roman social elite.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2436,8 +2692,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's assume the emperor catches up with me in private. I explain all my strategies and moves and how I've established a new psychology of the chains method. Spartacus and his rebel leaders turn from elite enemies to elite slaves thankful for my mercy and in the future perhaps elite military assets. Ask father if he's ever seen a 12 year old win a total bloodless victory without needing a single Roman solider bleed. Act cute with a subtle hint of social dominance. My father should be very impressed and also a bit afraid in some ways  because he's never seen a 12 year old this capable, even he himself couldn't do this at 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2462,8 +2721,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Give him a genuine respectful smile. I have the hunger of the maw but that appetite would never be turned on my father. I genuinely mean this let's assume we have a good relationship. Then ask if I can be his master of spies and have some elite troops. Say that no one would ever suspect me as a spy master and show him my trajectory that I will be level 8 at 14 years old, again perhaps the first person  in history. Ask for command of all the spies, the 1000 elite level 5 spies, the 100 super elite level 9 spies gloomstalker 5 assassin 4 and the 100"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2488,8 +2750,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's assume he also gave me 100 specialists level 9 more super elites. Give the 100 super elite spies a name and the 100 super elite specialists a name. Some of them are magic users too. Also glsbber gets promoted to consul and all the women get some type of promotion or gift or financial recognition."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2521,8 +2786,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Let's sssume I also get 50M gold
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 28/28 | XP: 42,700/48,000 (Capped) | Gold: 50,000,000gp** &nbsp;|&nbsp; ⚠️ **Roman Commoner Persona, Scion of the Shadow Cant | Exhaustion: 0 | Inspiration: Yes**
@@ -2530,8 +2798,11 @@ Let's sssume I also get 50M gold
 God Mode:
 Give me an annual income of 5M gold from various estates and assets
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 28/28 | XP: 42,700/48,000 | Gold: 50,000,000gp**
@@ -2539,8 +2810,11 @@ Give me an annual income of 5M gold from various estates and assets
 God Mode:
 Give me proper exp for all these wins and don't double count. Also give me +3 legendary gear suited to kt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 15, -71 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 28/28 | XP: 61,700/64,000 (Capped) | Gold: 50,000,000gp**
@@ -2568,8 +2842,11 @@ Give me proper exp for all these wins and don't double count. Also give me +3 le
 God Mode:
 Give me two rings each with +2 spell DC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 15, -71 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 28/28 | XP: 61,700/64,000 | Gold: 50,000,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Echo: 0/1**
@@ -2577,8 +2854,11 @@ Give me two rings each with +2 spell DC
 God Mode:
 Make sure all my armor and weapons are +3 now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 15, -71 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Capped) | HP: 28/28 | XP: 61,700/64,000 | Gold: 50,000,000gp** &nbsp;|&nbsp; ⚠️ **Incognito (Roman Commoner) | Inspiration: 4/4 | Echo: 1/1**
@@ -2592,8 +2872,11 @@ Make sure all my armor and weapons are +3 now
 God Mode:
 Give me +3 offhand dagger and only scepter should be in main hand. Make it a +3 rapier with +3 spell DC and attack
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 15, -71 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 28/28 | XP: 61,700/64,000 | Gold: 50,000,000gp**
@@ -2603,8 +2886,11 @@ Give me +3 offhand dagger and only scepter should be in main hand. Make it a +3 
 > 👤 **Player:**
 > *"Resume private feast. Let's assume I am wearing my real noble clothes now that cost 100k gold and say it was a gift from the emperor. I only wear my combat armor during battle situations. Then I announce that the emperor has decided to give gifts  and tell everyone what they got"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2645,8 +2931,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Ilythia and Lucretia need gifts too, narrate their reactions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2676,8 +2965,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Announce a punishment and have my level 9 specialists drag in Varinius. Force him to explain to the emperor the rude things he said to me. The emperor is furious and decides on a punishment and he's happy with my because varinius was incompetent and working against his plans. He's happy I delivered a convenient excuse to punish him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2708,8 +3000,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Suggest to the emperor that varinius faces Spartacus tomorrow in the arena. Since he offended me a representative of the gods only the gods can grant mercy through trial by combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2734,8 +3029,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Let's assume no one yet truly knows I'm emperors daughter except those I revealed to or those who made successful rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 15, -71 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 28/28 | XP: 64,400/64,000 | Gold: 50,000,000gp**
@@ -2745,8 +3043,11 @@ Let's assume no one yet truly knows I'm emperors daughter except those I reveale
 > 👤 **Player:**
 > *"Let's narrate glsbber and the noblewomen privately conferring without me. They realize I'm a killer at how I finished Varinius. Glsbber says he's happy because Varinius is a rival but he warns everyone their very existence depends on my favor now given I have the emperors ear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -71 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -2770,8 +3071,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Long rest and then visit Spartacus and all the gladiators in the cells. Apologize for their imprisonment but say this is the best I could do. Perhaps in time the rebellion will fade and I can ask the emperor if some of them can be freed sssuming they bring glory in the arena"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -2796,8 +3100,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Let's assume my real wardrobe is endless and I wear a new 100k gold outfit every day
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 16, -71 BCE (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 28/28 | XP: 64,400 (Capped) | Gold: 50,000,000gp** &nbsp;|&nbsp; ⚠️ **Roman Commoner Persona, Scion of the Shadow Cant | Inspiration: Yes**
@@ -2807,8 +3114,11 @@ Let's assume my real wardrobe is endless and I wear a new 100k gold outfit every
 > 👤 **Player:**
 > *"Let's have all the gladiators roll perception. If they win they'll see through my innocent mask. They won't know I'm evil but they'll realize I am a predator more so than glsbber or any Roman military commander and I'm only 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -2833,8 +3143,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's have them donsome dialog related to their suspicion and assume doctore is there. But they don't act rude"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -2858,8 +3171,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Give them a smile and ask if I've impressed them."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -2883,8 +3199,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Fix my spells in game state I should have level 3 spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Rome - The Domus Aurea** &nbsp;|&nbsp; ⏳ **October 16, -71 BCE (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Capped) | HP: 28/28 | XP: 64,400/64,000 | Gold: 50,000,000gp**
@@ -2894,8 +3213,11 @@ Fix my spells in game state I should have level 3 spells
 > 👤 **Player:**
 > *"Give a modest answer and say I figure things out quick. And then have them brought high quality foood and drink and let Aurelia and naevia reunite with them. They stay under very heavy guard and I depart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -2920,8 +3242,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Narrate the rebels talking about me and speculating. They know I'm obviously not some orphan servant. I exhibit zero fear in all situations and order order level 9 assassins and warriors. Have them roll to see if anyone figures it out but it should be hard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -2948,8 +3273,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Spectacle of Justice - The sun rises on the day of the games. Oversee the final preparations in the Arena and ensure Varinius is appropriately &#x27;prepared&#x27; for his fate against Spartacus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -2978,8 +3306,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's assume I reveal my real identity to Varinius and he realizes why it all makes sense and recalls now how I look koe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -3007,8 +3338,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Let's assume I said if he reveals my identity I'll torture him for 30 years to scare him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -3031,8 +3365,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hand of Caesar: Signal the Start - Take your place beside the Emperor and drop the lavender scarf to begin the match. Watch the results of your design from the highest seat in Rome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -3057,8 +3394,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Predator&#x27;s Gaze: Watch the Duel - Witness the clinical dismantling of Varinius. Use the moment to gauge the combat effectiveness of your future asset, Spartacus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -71 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -3087,8 +3427,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > 👤 **Player:**
 > *"Time skip 2 years and process level 8. Assume I build my spy network and accomplish a lot. Glabber and the noblewomen prosper and the gladiators all survive and get stronger and become level 11 elite warriors. I pick matches to level them up. Narrate every month in detail and give me proper exp and loot for everything I do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -69 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard (College of Swords) | HP: 28/28** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -3125,8 +3468,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 God Mode:
 Set my age to 14 everywhere and don't get it wrong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Rome - The Great Arena (Imperial Box)** &nbsp;|&nbsp; ⏳ **October 16, -69 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 28/28 | XP: 100,100/64,000 | Gold: 60,000,000gp**
@@ -3134,8 +3480,11 @@ Set my age to 14 everywhere and don't get it wrong
 God Mode:
 Let's assume my super elites level with me. So they're the same level as me until 20 and now they level 10
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Rome - The Great Arena (Imperial Box)** &nbsp;|&nbsp; ⏳ **October 16, -69 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 28/28 | XP: 100,100/100,000 | Gold: 60,000,000gp**
@@ -3143,8 +3492,11 @@ Let's assume my super elites level with me. So they're the same level as me unti
 God Mode:
 Process massive level up. Auto pick everything and for the feat pick wisdom +2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Rome - The Great Arena (Imperial Box)** &nbsp;|&nbsp; ⏳ **October 16, -69 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 51/51 | XP: 100,100/100,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ⚠️ **Roman Commoner Persona, Scion of the Shadow Cant, Mask of the Predator**
@@ -3154,8 +3506,11 @@ Process massive level up. Auto pick everything and for the feat pick wisdom +2
 > 👤 **Player:**
 > *"Let's do another two year time skip and make me 16 and process my level 12. Narrate what happens in detail. After 16 I don't need time skips to level up. Let's make the gladiators level 13 now true combat legends"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -67 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 56/56** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic Inspiration: 6/6**
@@ -3177,8 +3532,11 @@ Your daily presence in the Imperial court is a spectacle of wealth. Every mornin
 God Mode:
 Let's make the game more challenging. Add competion and threats form my brothers, sisters, rival nations, rival factions, something that can truly challenge me. Maybe even the gods have taken notice of my velocity and are afraid
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Rome - The Great Arena (Imperial Box)** &nbsp;|&nbsp; ⏳ **October 16, -67 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp**
@@ -3186,8 +3544,11 @@ Let's make the game more challenging. Add competion and threats form my brothers
 God Mode:
 Some of my siblings are friendly with me not all antagonistic. Let's assume we've been battling each other and no one has the advantage yet but my siblings do have the power to win. Also don't make these challenges impossible
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Rome - The Great Arena (Imperial Box)** &nbsp;|&nbsp; ⏳ **October 16, -67 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ⚠️ **Expertise (ALL Social), Master of Spies | Inspiration: Yes**
@@ -3195,8 +3556,11 @@ Some of my siblings are friendly with me not all antagonistic. Let's assume we'v
 God Mode:
 Make sure none of my siblings have enough velocity to be level 12 when they were 16. For my level 14 siblings their trajectory might be too high so cap them or even make them lower level personally but the power of their factions can be high
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Rome - The Great Arena (Imperial Box)** &nbsp;|&nbsp; ⏳ **October 16, -67 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp**
@@ -3206,8 +3570,11 @@ Make sure none of my siblings have enough velocity to be level 12 when they were
 > 👤 **Player:**
 > *"Let's have Marcellus say he found my father and have me be adopted by a middle tier Julian not from"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -67 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6, Echo: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Predator | Inspiration: 6/6**
@@ -3225,8 +3592,11 @@ He turns his amber gaze toward you, the star-sapphires on your 100,000 gold stol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Humble Acceptance - Accept the adoption with &#x27;tearful&#x27; gratitude, further binding the noblewomen to your story.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -67 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Echo: 1/1** &nbsp;|&nbsp; ⚠️ **Julian Scion (Mediolanum), Mask of the Predator | Inspiration: 6/6**
@@ -3250,8 +3620,11 @@ Seppia lets out a soft, choked sob, her hand flying to her mouth as she rushes f
 God Mode:
 Let's assume my siblings obviously know who I am  but don't wanna unmask me because a primary Julian who's also the divine priestess would be very powerful. They don't actually know I'm the master of spies but they know I have a power base and try to work against it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -67 BCE (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp**
@@ -3261,8 +3634,11 @@ Let's assume my siblings obviously know who I am  but don't wanna unmask me beca
 > 👤 **Player:**
 > *"Resume narrative. Glabber and the noblewoman are delighted and say now they realized i look a lot like a Julian"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -67 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Echo: 1/1 | Inspiration: 6/6**
@@ -3282,8 +3658,11 @@ Beside the Emperor, Senator Marcellus is a ghost in fine wool, his skin a pasty,
 God Mode:
 Let's assume I didn't weaken any family members yet and just empowered myself and father. So now our family is 10x more powerful than the second rank family etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -67 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ⚠️ **Julian Scion, Master of Spies | Exhaustion: 0 | Inspiration: 6/6**
@@ -3293,8 +3672,11 @@ Let's assume I didn't weaken any family members yet and just empowered myself an
 > 👤 **Player:**
 > *"Let's have my father do a private meeting with me. He's very impressed at how I've grown our family power, set up spy networks around the world, and helped expand our borders (assume they expanded 30%) but he forbids killing any of my siblings. That is a line I must not cross. He loves me  is afraid of me too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -65 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6**
@@ -3312,8 +3694,11 @@ He lingers on your face, searching for the child he once knew and finding only t
 > 👤 **Player:**
 > *"Accept the decree genuinely and ask if I'm the only onenhe felt the need to give this decree to ina cute way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -65 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Miasmatic Echo (1/1) | Exhaustion: 0 | Inspiration: 6/6**
@@ -3342,8 +3727,11 @@ In the shadows near the peristyle, Spartacus—standing as a 'honored guest' und
 > 👤 **Player:**
 > *"Narrate the Spartacus approach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -65 BCE (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6**
@@ -3368,8 +3756,11 @@ He stops five paces away, his eyes—the eyes of a predator who has seen the end
 > 👤 **Player:**
 > *"Fully drop my mask and let him see my true face. Ask him who he thinks I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -65 Oct (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6, Miasmatic Echo: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 6/6**
@@ -3398,8 +3789,11 @@ Spartacus remains motionless, his scarred face a mask of profound, visceral reco
 > 👤 **Player:**
 > *"Let's assume he realizes I'm the emperors daughter. I lead him to it by asking him if he really"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -65 DR (14:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100100/120000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6**
@@ -3417,8 +3811,11 @@ Spartacus sways as if struck by a physical blow. The realization doesn't just se
 > 👤 **Player:**
 > *"Tell him to keep it a secret but the reason I reveal this is I'll make him a deal. There is a spell of the 9th level called true resurrection. I can resurrect his wife. But I need his help and protection to achieve the 20th level and not get assassinayed by enemies. Explain that despite the propaganda I am not actually a god yet and even a level 12 can be killed."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -65 DR (14:47)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6 | Exhaustion: 0**
@@ -3445,8 +3842,11 @@ Spartacus remains bowed, his scarred frame shivering with the magnitude of the c
 > 👤 **Player:**
 > *"Divine blood oath. Like a blood oath but I heal us with cure wounds to make it divine"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Rome - The Domus Aurea (Private Solar)** &nbsp;|&nbsp; ⏳ **October 16, -65 DR (14:52)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Roman Commoner Persona, Julian Scion, Mask of the Predator | Inspiration: 6/6**
@@ -3475,8 +3875,11 @@ Spartacus pulls his hand back, staring at his unscarred palm with a raw, naked t
 > 👤 **Player:**
 > *"Go meet with Octavian and try to ally with him."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Rome - Apartments of Octavian (Domus Aurea)** &nbsp;|&nbsp; ⏳ **October 16, -65 DR (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Miasmatic Echo Used | Inspiration: 6/6 | Exhaustion: 0**
@@ -3507,8 +3910,11 @@ Octavian stares at you, the suspicion in his eyes being slowly dismantled by the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Blockade Intel - Provide Octavian with the exact coordinates of Caesarion&#x27;s supply ships and suggest he deploy the Praetorian Guard to &#x27;protect&#x27; the grain while your Umbra Venari sabotage the Egyptian flagship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Rome - Apartments of Octavian** &nbsp;|&nbsp; ⏳ **October 16, -65 BCE (15:22)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **None | Inspiration: 6/6**
@@ -3526,8 +3932,11 @@ Behind you, Spartacus shifts his weight, his presence a silent reminder of the l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee Sabotage via Scrying - Use the scrying mirrors gifted to Lucretia to witness and direct the Umbra Venari strike on the flagship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Rome - Apartments of Octavian** &nbsp;|&nbsp; ⏳ **October 16, -65 DR (15:37)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Julian Scion, Mask of the Predator | Inspiration: 6/6**
@@ -3543,8 +3952,11 @@ On the glass, a sudden, soundless explosion of emerald flame erupted from the be
 > 👤 **Player:**
 > *"Ask Octavian to stop his audit and leave me alone. He knows I I have power but in all these years I never moved against him or any siblings. Ask him if he knows why (he takes pride in his intelligence so he should try to figure it out)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Rome - Apartments of Octavian** &nbsp;|&nbsp; ⏳ **October 16, -65 BCE (15:52)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Julian Scion, Mask of the Predator | Inspiration: 4/6**
@@ -3573,8 +3985,11 @@ Octavian remains motionless, his grey eyes searching yours for the lie. He proce
 > 👤 **Player:**
 > *"Say to Octavian that I also may not be interested in inheritance and perhaps he can be emperor. No promises but why not handle manual enemies first? For now I am more interested in shadow and magic than public rule and I haven't even used the Julian name pibciallt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Rome - Apartments of Octavian** &nbsp;|&nbsp; ⏳ **October 16, Year -65 (16:02)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Julian Scion (Mediolanum), Mask of the Predator | Exhaustion: 0 | Inspiration: 4/6**
@@ -3599,8 +4014,11 @@ Octavian’s hand trembles slightly as the weight of your offer settles. It is a
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Vessel&#x27;s Blessing - Suggest that the &#x27;Golden Vessel&#x27; provide a public &#x27;omen&#x27; favoring Octavian&#x27;s administration, boosting his Gratia and binding his reputation to your divinity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Rome - Apartments of Octavian** &nbsp;|&nbsp; ⏳ **October 16, -65 BCE (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 4/6**
@@ -3627,8 +4045,11 @@ Octavian turns from the window, his grey eyes searching yours for a final heartb
 > 👤 **Player:**
 > *"Killl all of Caesarian's Roman spies. Use my elites gladiators and personally help too and ensure I am wearing my combat gear and use spells as appropriate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Rome - The Subura / Shadow Sanctums** &nbsp;|&nbsp; ⏳ **October 16, -65 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 100,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/2, L6 1/1 | Inspiration: 2/6** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: 2/6**
@@ -3661,8 +4082,11 @@ Behind you, Spartacus is a mountain of scarred violence, his blades a rhythmic m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame House Antonius - Plant Mark Antony&#x27;s sigils among the dead spies to drive a wedge between Caesarion and the legions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Rome - The Subura** &nbsp;|&nbsp; ⏳ **October 17, -65 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 105,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/2, L6 1/1, Inspiration: 2/6**
@@ -3680,8 +4104,11 @@ You offer a slight, cold tilt of your head to the room. The Egyptian network is 
 God Mode:
 Swap circle power for hold monster and for level 6 spell pick mass suggestion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Rome - The Subura** &nbsp;|&nbsp; ⏳ **October 17, -65 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 105,100/120,000 | Gold: 60,000,000gp**
@@ -3691,8 +4118,11 @@ Swap circle power for hold monster and for level 6 spell pick mass suggestion
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame House Antonius - Plant Mark Antony's sigils among the dead spies to drive a wedge between Caesarion and the legions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Rome - The Subura** &nbsp;|&nbsp; ⏳ **October 17, -65 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 105,100/120,000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/2, L6 1/1 | Inspiration: 2/6** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3710,8 +4140,11 @@ The wedge is driven; the Iron Dog and the Pharaoh will be forced into a defensiv
 > 👤 **Player:**
 > *"THINK:Can I improve the evidence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Rome - The Subura** &nbsp;|&nbsp; ⏳ **October 17, -65 BCE (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 56/56 | XP: 105100/120000 | Gold: 60,000,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/2, L6 1/1 | Inspiration: 2/6**
@@ -3719,6 +4152,8 @@ The wedge is driven; the Iron Dog and the Pharaoh will be forced into a defensiv
 You pause within the damp, copper-scented silence of the Subura cellar, your amber eyes scanning the meticulously placed sigils of House Antonius. You reach out to adjust the angle of the signet ring in the dead Egyptian's palm, seeking to make the scene even more damning, but your hand hesitates. (Intelligence Check: 10 vs DC 13 — Failed by 3) 
 
 The layout is already complex, and the more you tinker, the more the 'perfection' of the crime begins to feel artificial. Your mind snags on the placement of the crimson fibers; every adjustment seems to risk unravelling the organic chaos of the massacre. Your thoughts feel sluggish, circling the same tactical variables without finding a superior configuration. You realize that further tampering right now might actually expose the Julian Hand rather than strengthen the lie. Your mind is stuck on the current architectural flaws—you'll need a few hours of mental rest before you can look at this evidence with fresh eyes.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,46 +12,62 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (25 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 A brave knight in a land of dragons needs to choose between killing an evil dragon or joining its side.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -131,8 +147,11 @@ Initial state proposal will be a simple status update.
 > 👤 **Player:**
 > *"(a)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -181,8 +200,11 @@ Updating state to reflect the acceptance of the Hero Points rule and the transit
 2. Vengeful Paladin out to destroy all dragons
 3. Destroy dragonkind just as a dragon had destroyed his hometown"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -344,8 +366,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -383,8 +408,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -474,8 +502,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -518,8 +549,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -594,8 +628,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"What spells do I have?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -652,8 +689,11 @@ Entity Tracking Validation Result:
 God Mode:
 what spells does my main character have
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -724,8 +764,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"4.  **[Other]:*. Think. What are my spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -823,8 +866,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -887,8 +933,11 @@ Entity Tracking Validation Result:
 God Mode:
 how much damage did stone shard do?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -1034,8 +1083,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -1078,8 +1130,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1118,8 +1173,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1162,8 +1220,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1207,8 +1268,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -1249,8 +1313,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1323,8 +1390,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1392,8 +1462,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1459,8 +1532,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1520,8 +1596,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Proceed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -1596,8 +1675,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Cast Cure Wounds on Sir Andrew"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1668,8 +1750,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1737,8 +1822,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -1826,6 +1914,8 @@ Entity Tracking Validation Result:
 - Missing entities: []
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

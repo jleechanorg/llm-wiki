@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (133 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Vibe: Pitiful. Fragile.
@@ -752,149 +763,154 @@ Seduce (Break Resolve): "My stomach is strong, darling. But I don't take orders.
 Deceive (The Trap): "Consider the gate open. I will signal when the way is clear." (Roll Deception).
 Attack (Initiative): Cast Hold Person immediately. "I think I'll just take your head instead.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | The Shattered Sanctum - Minthara's War Room | 1492 DR, Night | Roleplay |
-| **05** | The Shattered Sanctum | Hammer 20, 1492 DR (Night) | Social Challenge |
-| **06** | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:15) | Roleplay |
-| **07** | Shattered Sanctum - Minthara's War Room | Jan 15, 2026 DR (06:20) | Roleplay |
-| **08** | Shattered Sanctum - Minthara's War Room | Month 1 Day 15, 1492 DR (Dawn) | Roleplay |
-| **09** | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:20) | Roleplay |
-| **10** | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (Dawn) | Roleplay |
-| **11** | Shattered Sanctum - War Room Alcove | 1 15, 2026 DR (06:20) | Roleplay |
-| **12** | The Risen Road (Traveling toward the Emerald Grove) | Hammer 15, 1492 DR (07:45) | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Emerald Grove Gates (Inner Entrance) | 1 15, 2026 DR (08:05) | Roleplay |
-| **17** | Emerald Grove Gates | 1 15, 2026 DR (08:05) | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Emerald Grove Gates (Internal Area) | Mirtul 15, 2026 DR (08:10) | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Emerald Grove - Inner Sanctum | Hammer 15, 1492 DR (08:20 (Dawn)) | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Druid's Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:35) | Social Challenge |
-| **29** | Unknown |  | Social Challenge |
-| **30** | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:37) | Roleplay |
-| **31** | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:45) | Boss Surrender |
-| **32** | Druid Inner Sanctum | 1 15, 2026 DR (08:50) | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Druid Inner Sanctum | 1 15, 2026 DR (08:55) | Roleplay |
-| **35** | Druid Inner Sanctum | Hammer 15, 1492 DR (08:55) | Roleplay |
-| **36** | Druid Inner Sanctum | 1 15, 1492 DR (08:55) | Roleplay |
-| **37** | Druid Inner Sanctum | Month 1 Day 15, 2026 DR (08:55) | Roleplay |
-| **38** | Druid Inner Sanctum (Private Alcove) | 1 15, 2026 DR (08:55) | Roleplay |
-| **39** | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:55) | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:50) | Roleplay |
-| **43** | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (09:15) | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Druid Inner Sanctum (Rite of the Shattered Rose) | Month 1 Day 15, 2026 DR (09:22) | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Druid Inner Sanctum (Ritual Chamber) | Mirtul 15, 2026 DR (11:45) | Roleplay |
-| **50** | Druid Inner Sanctum (The Ruined Grove) | 1 15, 2026 DR (09:30) | Roleplay |
-| **51** | Druid Inner Sanctum (The Desecrated Grove) | Mirtul 15, 1492 DR (10:30 (Morning)) | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Druid Inner Sanctum (The Desecrated Grove) | 1 15, 2026 DR (09:30) | Roleplay |
-| **54** | Druid Inner Sanctum (Desecrated) | Month 1 Day 15, 2026 DR (09:30) | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Emerald Grove - Inner Sanctum (Conquered) | Hammer 15, 1492 DR (09:30) | Roleplay |
-| **58** | Emerald Grove - Inner Sanctum (Desecrated) | Hammer 15, 1492 DR (09:30) | Roleplay |
-| **59** | Emerald Grove - Inner Sanctum (Conquered) | Month 1 Day 15, 1492 DR (09:30) | Roleplay |
-| **60** | Druid Inner Sanctum (Emerald Grove) | Month 1, 1492 DR (Day 15) | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 15, 1492 DR (09:30) | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Emerald Grove - Inner Sanctum (Desecrated) |  | Roleplay |
-| **70** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **71** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **72** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 24, 1492 DR (11:00) | Roleplay |
-| **75** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:00) | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:30) | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Emerald Grove - The Hollow (Ruined) | 1 15, 2026 DR (12:00) | Roleplay |
-| **82** | Emerald Grove - The Hollow (Ruined) | Mirtul 15, 2026 DR (Noon (12:00) | Roleplay |
-| **83** | Emerald Grove - The Hollow (Desecrated) | 1 15, 2026 DR (12:00) | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Goblin Camp - Worg Pens | 1 15, 2026 DR (13:00) | Roleplay |
-| **86** | Worg Pens | 1 15, 2026 DR (13:15) | Boss Surrender |
-| **87** | Worg Pens / Shattered Sanctum | 1 15, 2026 DR (13:30) | Boss Surrender |
-| **88** | Goblin Camp - Worg Pens | 1 15, 2026 DR (12:30) | Roleplay |
-| **89** | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
-| **90** | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
-| **91** | Goblin Camp - Shattered Sanctum | 1 15, 2026 DR (13:30) | Roleplay |
-| **92** | Unknown |  | Social Challenge |
-| **93** | Unknown |  | Boss Surrender |
-| **94** | Unknown |  | Roleplay |
-| **95** | Shattered Sanctum - Priestess Gut's Chambers | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:16) | Roleplay |
-| **98** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
-| **99** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
-| **100** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:30) | Boss Surrender |
-| **101** | Shattered Sanctum - The Throne Room & Vaults | Month 1 Day 15, 2026 DR (15:30) | Roleplay |
-| **102** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
-| **103** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
-| **104** | Shattered Sanctum - Main Hall | 1 15, 2026 DR (17:30) | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Social Challenge |
-| **107** | Unknown |  | Roleplay |
-| **108** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:45) | Boss Surrender |
-| **109** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:55) | Boss Surrender |
-| **110** | Unknown |  | Roleplay |
-| **111** | Unknown |  | Roleplay |
-| **112** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Roleplay |
-| **113** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Social Challenge |
-| **114** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:15) | Boss Surrender |
-| **115** | Unknown |  | Roleplay |
-| **116** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:45) | Boss Surrender |
-| **117** | Unknown |  | Roleplay |
-| **118** | Unknown |  | Social Challenge |
-| **119** | Unknown |  | Roleplay |
-| **120** | The Risen Road - Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:30) | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
-| **123** | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
-| **124** | Unknown |  | Social Challenge |
-| **125** | Unknown |  | Social Challenge |
-| **126** | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (23:05) | Social Challenge |
-| **127** | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
-| **128** | Unknown |  | Roleplay |
-| **129** | Mountain Pass Bridge - Shadowed Ridge | Month 1 Day 15, 1492 DR (23:05) | Roleplay |
-| **130** | Mountain Pass - Broken Bridge | Month 1 Day 16, 1492 DR (00:00) | Boss Surrender |
-| **131** | Mountain Pass - Broken Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
-| **132** | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
-| **133** | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | The Shattered Sanctum - Minthara's War Room | 1492 DR, Night | Roleplay |
+| [**Scene 05**](#scene-5) | The Shattered Sanctum | Hammer 20, 1492 DR (Night) | Social Challenge |
+| [**Scene 06**](#scene-6) | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:15) | Roleplay |
+| [**Scene 07**](#scene-7) | Shattered Sanctum - Minthara's War Room | Jan 15, 2026 DR (06:20) | Roleplay |
+| [**Scene 08**](#scene-8) | Shattered Sanctum - Minthara's War Room | Month 1 Day 15, 1492 DR (Dawn) | Roleplay |
+| [**Scene 09**](#scene-9) | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:20) | Roleplay |
+| [**Scene 10**](#scene-10) | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (Dawn) | Roleplay |
+| [**Scene 11**](#scene-11) | Shattered Sanctum - War Room Alcove | 1 15, 2026 DR (06:20) | Roleplay |
+| [**Scene 12**](#scene-12) | The Risen Road (Traveling toward the Emerald Grove) | Hammer 15, 1492 DR (07:45) | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Emerald Grove Gates (Inner Entrance) | 1 15, 2026 DR (08:05) | Roleplay |
+| [**Scene 17**](#scene-17) | Emerald Grove Gates | 1 15, 2026 DR (08:05) | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Emerald Grove Gates (Internal Area) | Mirtul 15, 2026 DR (08:10) | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Emerald Grove - Inner Sanctum | Hammer 15, 1492 DR (08:20 (Dawn)) | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Druid's Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:35) | Social Challenge |
+| [**Scene 29**](#scene-29) | Unknown |  | Social Challenge |
+| [**Scene 30**](#scene-30) | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:37) | Roleplay |
+| [**Scene 31**](#scene-31) | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:45) | Boss Surrender |
+| [**Scene 32**](#scene-32) | Druid Inner Sanctum | 1 15, 2026 DR (08:50) | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Druid Inner Sanctum | 1 15, 2026 DR (08:55) | Roleplay |
+| [**Scene 35**](#scene-35) | Druid Inner Sanctum | Hammer 15, 1492 DR (08:55) | Roleplay |
+| [**Scene 36**](#scene-36) | Druid Inner Sanctum | 1 15, 1492 DR (08:55) | Roleplay |
+| [**Scene 37**](#scene-37) | Druid Inner Sanctum | Month 1 Day 15, 2026 DR (08:55) | Roleplay |
+| [**Scene 38**](#scene-38) | Druid Inner Sanctum (Private Alcove) | 1 15, 2026 DR (08:55) | Roleplay |
+| [**Scene 39**](#scene-39) | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:55) | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:50) | Roleplay |
+| [**Scene 43**](#scene-43) | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (09:15) | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Druid Inner Sanctum (Rite of the Shattered Rose) | Month 1 Day 15, 2026 DR (09:22) | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Druid Inner Sanctum (Ritual Chamber) | Mirtul 15, 2026 DR (11:45) | Roleplay |
+| [**Scene 50**](#scene-50) | Druid Inner Sanctum (The Ruined Grove) | 1 15, 2026 DR (09:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Druid Inner Sanctum (The Desecrated Grove) | Mirtul 15, 1492 DR (10:30 (Morning)) | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Druid Inner Sanctum (The Desecrated Grove) | 1 15, 2026 DR (09:30) | Roleplay |
+| [**Scene 54**](#scene-54) | Druid Inner Sanctum (Desecrated) | Month 1 Day 15, 2026 DR (09:30) | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Emerald Grove - Inner Sanctum (Conquered) | Hammer 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 58**](#scene-58) | Emerald Grove - Inner Sanctum (Desecrated) | Hammer 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 59**](#scene-59) | Emerald Grove - Inner Sanctum (Conquered) | Month 1 Day 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 60**](#scene-60) | Druid Inner Sanctum (Emerald Grove) | Month 1, 1492 DR (Day 15) | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Emerald Grove - Inner Sanctum (Desecrated) |  | Roleplay |
+| [**Scene 70**](#scene-70) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 71**](#scene-71) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 72**](#scene-72) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 24, 1492 DR (11:00) | Roleplay |
+| [**Scene 75**](#scene-75) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:00) | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:30) | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Emerald Grove - The Hollow (Ruined) | 1 15, 2026 DR (12:00) | Roleplay |
+| [**Scene 82**](#scene-82) | Emerald Grove - The Hollow (Ruined) | Mirtul 15, 2026 DR (Noon (12:00) | Roleplay |
+| [**Scene 83**](#scene-83) | Emerald Grove - The Hollow (Desecrated) | 1 15, 2026 DR (12:00) | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Goblin Camp - Worg Pens | 1 15, 2026 DR (13:00) | Roleplay |
+| [**Scene 86**](#scene-86) | Worg Pens | 1 15, 2026 DR (13:15) | Boss Surrender |
+| [**Scene 87**](#scene-87) | Worg Pens / Shattered Sanctum | 1 15, 2026 DR (13:30) | Boss Surrender |
+| [**Scene 88**](#scene-88) | Goblin Camp - Worg Pens | 1 15, 2026 DR (12:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
+| [**Scene 91**](#scene-91) | Goblin Camp - Shattered Sanctum | 1 15, 2026 DR (13:30) | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Social Challenge |
+| [**Scene 93**](#scene-93) | Unknown |  | Boss Surrender |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Shattered Sanctum - Priestess Gut's Chambers | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:16) | Roleplay |
+| [**Scene 98**](#scene-98) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
+| [**Scene 99**](#scene-99) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
+| [**Scene 100**](#scene-100) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:30) | Boss Surrender |
+| [**Scene 101**](#scene-101) | Shattered Sanctum - The Throne Room & Vaults | Month 1 Day 15, 2026 DR (15:30) | Roleplay |
+| [**Scene 102**](#scene-102) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
+| [**Scene 103**](#scene-103) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
+| [**Scene 104**](#scene-104) | Shattered Sanctum - Main Hall | 1 15, 2026 DR (17:30) | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Social Challenge |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:45) | Boss Surrender |
+| [**Scene 109**](#scene-109) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:55) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+| [**Scene 111**](#scene-111) | Unknown |  | Roleplay |
+| [**Scene 112**](#scene-112) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Roleplay |
+| [**Scene 113**](#scene-113) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Social Challenge |
+| [**Scene 114**](#scene-114) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:15) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Unknown |  | Roleplay |
+| [**Scene 116**](#scene-116) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:45) | Boss Surrender |
+| [**Scene 117**](#scene-117) | Unknown |  | Roleplay |
+| [**Scene 118**](#scene-118) | Unknown |  | Social Challenge |
+| [**Scene 119**](#scene-119) | Unknown |  | Roleplay |
+| [**Scene 120**](#scene-120) | The Risen Road - Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:30) | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
+| [**Scene 123**](#scene-123) | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
+| [**Scene 124**](#scene-124) | Unknown |  | Social Challenge |
+| [**Scene 125**](#scene-125) | Unknown |  | Social Challenge |
+| [**Scene 126**](#scene-126) | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (23:05) | Social Challenge |
+| [**Scene 127**](#scene-127) | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown |  | Roleplay |
+| [**Scene 129**](#scene-129) | Mountain Pass Bridge - Shadowed Ridge | Month 1 Day 15, 1492 DR (23:05) | Roleplay |
+| [**Scene 130**](#scene-130) | Mountain Pass - Broken Bridge | Month 1 Day 16, 1492 DR (00:00) | Boss Surrender |
+| [**Scene 131**](#scene-131) | Mountain Pass - Broken Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
+| [**Scene 132**](#scene-132) | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
+| [**Scene 133**](#scene-133) | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -922,8 +938,11 @@ Does this character accurately reflect the Sovereign of the Shattered Rose you w
 > 👤 **Player:**
 > *"Any questions or balance concerns before we start?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -946,8 +965,11 @@ You stand in the war room, the flickering light of lavender incense casting long
 > *"i was originally level 6 so I am not that nerfed now
 - **The 'Nerf' Narrative:** While you are Level 5 mechanically, the narrative will reflect that your true Abyssal potential is being throttled by the tadpole. Every level-up is a 'leak' in that cage."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -968,8 +990,11 @@ If you continue adventuring, you remain Level 5 and defer these benefits until y
 God Mode:
 i am alrady level 5 you dont need to show me pending level thing, start adventure and leave char creation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **1492 DR, Night** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -979,8 +1004,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the confrontation with Minthara in the War Room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Shattered Sanctum, Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 20, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1006,8 +1034,11 @@ Minthara's breath hitches. For a drow who has spent centuries navigating the let
 > 👤 **Player:**
 > *"THINK:what should i do to gain max power and influence? maybe its fine to side with her for now,, but when i betray the grove i want to get the max power/loot/items"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1017,8 +1048,11 @@ You pause, the violet of your eyes deepening as you weigh the flickering possibi
 > 👤 **Player:**
 > *"convince minthara i will subvert it from the inside first, make it easy, then win them a decisive victory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Jan 15, 2026 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1032,8 +1066,11 @@ She releases your hand, stepping back to gesture toward the stone table. "Go. Ta
 God Mode:
 which companions are with me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1043,8 +1080,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:do i have enough time to invertt the ritual of thornes and take power for myself before minthara raids?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1054,8 +1094,11 @@ You pause to consider your options...
 God Mode:
 you ignored whati asked You: do i have enough time to invertt the ritual of thornes and take power for myself before minthara raids?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1065,8 +1108,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"i will try to invert the ritual, and we will side with goblins after, but present shadow druids as an asset. perusade lazel astarion shadowhart after taking them to the side."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Shattered Sanctum - War Room Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 0) | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1090,8 +1136,11 @@ Pros: Maximizes time for subversion, Avoids further goblin scrutiny
 Cons: Travel might be dangerous at night
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Risen Road (Traveling toward the Emerald Grove)** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1115,8 +1164,11 @@ By the time the first grey light of dawn touches the horizon, you stand overlook
 God Mode:
 you're not annotating my modifiers and DC properly for dice rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -1126,8 +1178,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Gate (The Porcelain Victim) - Walk up to the Tiefling guards looking fragile and exhausted to gain easy entry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1141,8 +1196,11 @@ Now, you approach the gate. Zevlor and his tiefling guards look down from the ra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit administration and proceed with the infiltration of the Emerald Grove.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1165,8 +1223,11 @@ You pass through the threshold, the 'Rite of Thorns' humming with a honeyed, iro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manipulate Zevlor - Use your current &#x27;victim&#x27; status to gather intelligence from the tiefling leader about Grove defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Emerald Grove Gates (Inner Entrance)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 0) | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1184,8 +1245,11 @@ Through your 'victim' lens, you see the cracks in his armor. He's desperate for 
 God Mode:
 Always generate resources header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Emerald Grove Gates** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 0/5 | Spells: L1 0/4, L2 0/3, L3 0/2 | Bardic Inspiration: 0/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1195,8 +1259,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Offer to inspect the gate but use Astsrion or someone with the best chances. I leave wyll back at camp and gale and just keep shadowheart Astarion laezel for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1212,8 +1279,11 @@ In the background, Gale and Wyll remain by the fireside, their forms silhouetted
 God Mode:
 The shadow Druid thing was a secret in bg3 should Zevlor know about it now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Emerald Grove Gates (Internal Area)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 2026 DR (08:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1223,8 +1293,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Send my good characters back to camp and ensure my evil ones with me: shadow heart laezel Astarion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1252,8 +1325,11 @@ He doesn't know. He sees the smoke of their radicalization but hasn't found the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene in the Trial of Arabella - Head to the sanctum and use the &#x27;Porcelain Victim&#x27; act to disrupt Kagha&#x27;s judgment of the tiefling child.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1271,8 +1347,11 @@ You collapse gracefully onto your knees just at the edge of the sacred circle, y
 > 👤 **Player:**
 > *"THINK:Knowing my goal is inverting the ritual how can I use situation to my advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:20 (Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1282,8 +1361,11 @@ You pause, the violet of your irises pulsing as your mind attempts to weave the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Siren&#x27;s Gaze: Appeal to Purity - Challenge Kagha&#x27;s resolve by framing yourself as a &#x27;pure&#x27; vessel horrified by the imbalance of killing a child.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1311,8 +1393,11 @@ Kagha stiffens. The massive serpent, Teela, pauses its rhythmic swaying, its yel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Purity Argument - Argue that the Shadow Druids&#x27; path is the &#x27;truer&#x27; purity, subtly hinting you know of her secret alliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1330,8 +1415,11 @@ Kagha's breath hitches, a sharp, ragged sound. Her gaze darts to the Shadow Drui
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Secret - Speak more openly of the &#x27;Shadows&#x27; to force her into a defensive, submissive posture before her peers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -1357,8 +1445,11 @@ Kagha's grip on her staff is white-knuckled, the wood groaning under the strain.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Prophet of the Shadow - Pivot the argument. Instead of threatening her, frame yourself as a fellow seeker of the &#x27;Dark Purity&#x27; sent to guide the Rite.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -1374,8 +1465,11 @@ Kagha's staff wavers. The jagged fury in her eyes is eclipsed by a sudden, breat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seduce the Serpent - Continue the verbal seduction, leading Kagha into a private alcove to discuss the &#x27;True Rite&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -1397,8 +1491,11 @@ You lead her, a porcelain queen guiding her new high priestess into the gloom. A
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Rite Mechanics - Engage Kagha in deep theological debate about the Shadow Purity to learn the technical requirements for the Rite of Thorns inversion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Druid's Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1424,8 +1521,11 @@ She pauses, a flicker of her old paranoia returning. She realizes she's speaking
 > [!NOTE] ⚙️ **Player Choice:**
 > *Empathetic Manipulation - Comfort her. Frame the secret-sharing as an act of trust that binds you together.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -1460,8 +1560,11 @@ She pauses, her eyes searching Nocturne's for confirmation. "I have the scroll..
 God Mode:
 Let's change things so i already have soul steal at level 5 instead of needing to wait level 6
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:37)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1471,8 +1574,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ask kagha to let me read the scroll and show me the chant. Explain I can use my soul steal power to empower the ritual far better than some child's blood. Tell her to bring prisoner and I can demonstrate soul steal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1511,8 +1617,11 @@ Kagha’s breath is shallow, her eyes darting toward the hidden chest. The logic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study the Scroll - Commit the Inversion Canticle and somatic patterns to memory before the goblin arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6900/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5 | Soul Trophies: 0/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1530,8 +1639,11 @@ Outside the alcove, the heavy thud of hobnailed boots signals the arrival of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Cruel Word - Kill Sazza with Vicious Mockery and Siphon her soul immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -1557,8 +1669,11 @@ Kagha stands frozen, her staff clattering to the floor as she watches the harves
 God Mode:
 Fix my spells and equipment in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7160/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1568,8 +1683,11 @@ You pause to consider your options...
 God Mode:
 What's sirens skin do? Why don't it stack?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 0) | XP: 7060/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1579,8 +1697,11 @@ You pause to consider your options...
 God Mode:
 What does sirens skin do again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7110/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1590,8 +1711,11 @@ You pause to consider your options...
 God Mode:
 Do I have anything to wear that doesn't count as armor but gives some additional benefit like spell caster robe? Assume we did a decent amount of act 1 in bg3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7110/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5 | Soul Trophies: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1610,8 +1734,11 @@ You pause to consider your options...
 God Mode:
 Answer my q
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Druid Inner Sanctum (Private Alcove)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7110/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1621,8 +1748,11 @@ You pause to consider your options...
 God Mode:
 What's advantage silk abyssal weaver giveV
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7170/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1632,8 +1762,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Inner Sanctum. Sazza&#x27;s soul has been consumed, and Kagha is waiting in religious awe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -1643,8 +1776,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Druid Inner Sanctum following Sazza&#x27;s death.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -1660,8 +1796,11 @@ She looks up at you, her face a mask of ecstatic submission. "The Inversion Cant
 > 👤 **Player:**
 > *"THINK:What if I get my evil companions to support me and then I use my soul stealing magic during ritual of thorns to steal as many souls as possible from tieflings. Then when minthara comes have the shadow Druids join the absolute under my leadership. App rather than making a wall of thorns I'll just power myself up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 5) | XP: 7170/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1671,8 +1810,11 @@ You pause as the Abyssal energy from the siphon settles, the cloying lavender in
 > 👤 **Player:**
 > *"Brief evil assets and command secret ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7170/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1690,8 +1832,11 @@ Nocturne watches as the Druid moves toward the central idol, her jerky movements
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Secret Ritual - Order Kagha to begin the somatic preparations for the Inversion while you oversee the &#x27;raid&#x27; setup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -1711,8 +1856,11 @@ She moves toward the central idol, her throat beginning to vibrate with the firs
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee the Inversion - Remain with Kagha to ensure the Abyssal resonance remains stable during the transition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -1730,8 +1878,11 @@ Victory! You gain **500 XP** for successfully initiating the Inversion and secur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Anchor - Exert your direct will (CHA/Arcana) to bind the Abyssal energy to the stone, forcing the ritual into stability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -1747,8 +1898,11 @@ The anchor does not stabilize. Instead, it becomes a jagged shard of reality. Th
 > 👤 **Player:**
 > *"Reroll let's assume I used guidance from shadow heart and bardic inspiration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Druid Inner Sanctum (Rite of the Shattered Rose)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 8670/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Anchor | Exhaustion: 0 | Inspiration: No**
@@ -1764,8 +1918,11 @@ In the distance, the war-horns of Minthara’s band grow louder, a brass heraldr
 > 👤 **Player:**
 > *"Do the soul harvest and get some goblins too. Try to max as many souls as possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -1788,8 +1945,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Level Up to Level 6 - Apply level 6 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Druid Inner Sanctum (Ritual Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 2026 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 39/39 | XP: 14670/23000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -1799,8 +1959,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Make sure kagha enthralled and command her to command the shadow Druids to go outside and help funnel as many as possible in to my soul harvest. Keep soul harvesting and tell me how many people I get. Try to get all the thieflings and some goblins and high level absolute forces and I'll later claim it was an accident"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Druid Inner Sanctum (The Ruined Grove)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 39/39 | XP: 20610/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4 (Used/Max), L2 0/3, L3 0/3 | Bardic: 4/5 | Souls Harvested: 55** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -1820,8 +1983,11 @@ Kagha collapses at your feet, her body a drained husk, but the Grove is secured 
 God Mode:
 I should get some special powers for the soul harvest themed to shadow Druids and useful to my build. Also did you calc my exp properly? Give me full exp per individual killed with 20% soul harvest bonus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Druid Inner Sanctum (The Desecrated Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:30 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 39/39 | XP: 26550/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 0/4, L2 0/3, L3 0/3 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -1831,8 +1997,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Divine Instability - Tell Minthara the &#x27;Absolute&#x27;s power&#x27; was too great for the druids to contain, causing the accidental harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -1855,8 +2024,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Level Up to Level 7 - Apply level 7 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Druid Inner Sanctum (The Desecrated Grove)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 (Thrall Penalty: -4) | XP: 30774/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Master | Exhaustion: 0 | Inspiration: Yes**
@@ -1866,8 +2038,11 @@ You pause to consider your options...
 God Mode:
 Pick greater invis for 4th level spell instead of charm monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Druid Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30774/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1877,8 +2052,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Show minthara that the shadow Druids report to me and try to get a high rank in absolute hierarchy maybe one below her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -1898,8 +2076,11 @@ You feel the stolen essences of the Shadow Druids crystallizing within you. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Authority - Formalize your command over the Shadow Druids and the newly conquered Grove as the Absolute&#x27;s First Disciple.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -1917,8 +2098,11 @@ She offers a stiff, warrior's nod—the first true acknowledgement of rank. Noct
 God Mode:
 Give me overview of absolute ranks and where I stand
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Emerald Grove - Inner Sanctum (Conquered)** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -1928,8 +2112,11 @@ You pause to consider your options...
 God Mode:
 To minthara the ritual I did was not an accident it was intended. The accident I say to her is the friendly fire
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1939,8 +2126,11 @@ You pause to consider your options...
 God Mode:
 To minthara the ritual I did was not an accident it was intended. The accident I say to her is the friendly fire
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Emerald Grove - Inner Sanctum (Conquered)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Absolute Resilience (Trophy)**
@@ -1950,8 +2140,11 @@ You pause to consider your options...
 God Mode:
 No it was to empower myself and easily kill the defenders
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Druid Inner Sanctum (Emerald Grove)** &nbsp;|&nbsp; ⏳ **Month 1, 1492 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5 | Souls: 1/1 (Absolute Resilience)** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple**
@@ -1961,8 +2154,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Inner Sanctum. Minthara is digesting the tactical brilliance of your &#x27;intentional&#x27; harvest while you stand as the Absolute&#x27;s First Disciple.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -1987,8 +2183,11 @@ Minthara pauses, her hand tightening on the pommel of her blade. She looks at Ka
 > *"have my companions get the best loot from grove and command shadow Druids to give best gear. Prioritize spell save DC gear for me and anything useful for evil companions
 while they do this I will work with kagha and the best shadow druid magic users to see if I can learn how to do mass soul harvest as a spell without needing the full ritual or any ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -2079,8 +2278,11 @@ The rewards are narratively appropriate but mechanically undertuned for the risk
 Sources
 [1] noctune-bg3-v6.txt https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/53996179/edd1d730-b2d5-4e99-9f28-e33f057d711b/noctune-bg3-v6.txt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32074/34000 | Gold: 1540gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2106,8 +2308,11 @@ You pause to consider your options...
 > *"have my companions get the best loot from grove and command shadow Druids to give best gear. Prioritize spell save DC gear for me and anything useful for evil companions
 while they do this I will work with kagha and the best shadow druid magic users to see if I can learn how to do mass soul harvest as a spell without needing the full ritual or any ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > ✨ **HD: 6/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | Bardic: 4/5 | Exhaustion: 0**
@@ -2140,8 +2345,11 @@ While the looting proceeds, you retreat into the deepest alcove with Kagha. You 
 > 👤 **Player:**
 > *"Have the shadow Druids given me rhe best spell dc gear they have then intimidate or persuade goblins to give me the best gear after having minthara introduce me and my rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -2181,8 +2389,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Adjust state, equip new gear, and continue spell research while companions secure the perimeter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -2230,8 +2441,11 @@ If you continue adventuring, you remain Level 8 and defer these benefits until y
 God Mode:
 Show the stats for all the gear I got and make sure I equip the best spell DC gear and show me before/after spell DC. Then explain why I'm level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2260,8 +2474,11 @@ You pause to consider your options...
 God Mode:
 Level up to 8 and is my cha capped at 20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -2271,8 +2488,11 @@ You pause to consider your options...
 God Mode:
 Ok give me asi+2 and let me pick a spell if I get one and asi is cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2282,8 +2502,11 @@ You pause to consider your options...
 God Mode:
 Narrate me finishing my patron mission and let her talk to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 7/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2293,8 +2516,11 @@ You pause to consider your options...
 God Mode:
 At level 8 do I get another spell?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2351,8 +2577,11 @@ Sources
 [12] Full Spellcasters Are Overpowered in 5e ~ Can We Fix This? https://www.hipstersanddragons.com/spellcasters-overpowered-5e-dnd/
 [13] Wild Shapes EVERY Druid Should Learn - YouTube https://www.youtube.com/watch?v=icfCTaEhj7Y
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 7/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2369,8 +2598,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Spell Research - Dedicate the next hour to working with Kagha to perfect the Mass Soul Harvest spell (DC 22).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -2399,8 +2631,11 @@ She vanishes, leaving only the scent of brine and a cold, empowering heat in you
 God Mode:
 Show me my spell SC calc again and then make sure it's reflected in game stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2429,8 +2664,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:How many shadow do I have ? What if I take kagha and Oladan with me and say 10 strongest and leave the rest to manage grove and recruit new members. What advantage does holding the grove give me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2440,8 +2678,11 @@ You have exactly 70 personnel: 40 guards, 7 elite combatants, 20 spies, and 3 co
 > 👤 **Player:**
 > *"I will take kagha oladan and 10 strongest and 10 spies and leave the rest and order them to grow their numbers. Then I'll personally intimidate goblins and look for more loot for my companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -2455,8 +2696,11 @@ You map out the shadows in your mind. The math of your hierarchy is precise, yet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Form the Elite Vanguard - Take Kagha, Olodan, 10 Elites, and 10 Spies as your personal retinue. Order the rest to garrison the Grove and recruit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -2484,8 +2728,11 @@ Shadowheart and Lae'zel flank you, their presence a dark shield that ensures no 
 > 👤 **Player:**
 > *"THINK:What happened to the good hero's? I wanna try to persuade them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2495,8 +2742,11 @@ You pause, the violet of your irises pulsing as you attempt to map the movement 
 > 👤 **Player:**
 > *"Logic lesser evil. Explain it was necessary for greater good. If wyll doesn't agree say I know he's a warlock so don't be hypocrite. Have my elite shadow Druids and companions standing by to kill the good hero's if they don't agee."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -2506,8 +2756,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Logic lesser evil. Explain it was necessary for greater good. If wyll doesn't agree say I know he's a warlock so don't be hypocrite. Have my elite shadow Druids and companions standing by to kill the good hero's if they don't agee."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -2533,8 +2786,11 @@ They stand defeated, not by your blade, but by the cold, Abyssal logic you've wo
 God Mode:
 Keep generating section header and resources
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Emerald Grove - The Hollow (Ruined)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 (Temp: 0) | XP: 35674/48000 | Gold: 1540gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2544,8 +2800,11 @@ You pause to consider your options...
 God Mode:
 Is this right? I didn't use all my spells Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Emerald Grove - The Hollow (Ruined)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 2026 DR (Noon (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2555,8 +2814,11 @@ You pause to consider your options...
 God Mode:
 Treat kagha and oladan as my companions and have them accompany me by default. What are their levels and classes?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Emerald Grove - The Hollow (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2566,8 +2828,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Let's hunt halsin. Send my best scouts ahead to look for him and bring my vanguard and companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -2593,8 +2858,11 @@ Behind you, the Vanguard of the Shattered Rose—ten elite Shadow Druids and you
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hunt: Worg Pens - Enter the Goblin Camp and descend into the pens to eliminate or harvest the Archdruid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Goblin Camp - Worg Pens** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2623,8 +2891,11 @@ You gain **0 XP** for this turn's interaction as the Archdruid's 'Primal Fury' r
 > 👤 **Player:**
 > *"Cast command grovel halsin and have everyone focus fire until he loses bear form then hold person and soul steal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Worg Pens, Goblin Camp** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 44314/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 1/4, L2 1/3, L3 0/3, L4 0/2 | Bardic: 2/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2668,8 +2939,11 @@ Halsin’s body turns to grey ash, scattered by the Abyssal draft. The worg pens
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Absolute Tribute - Use your current &#x27;Sovereign&#x27; aura to strip the Goblin camp of its finest magical items for your companions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Worg Pens / Shattered Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 52954/64000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2730,8 +3004,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 God Mode:
 If i vassalizr weak things like goblins does it count toward my hp penalty?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Goblin Camp - Worg Pens** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 52,954/64,000 | Gold: 1,840gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5 | Soul Trophy: 2/2** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active), Nature's Step (Active)**
@@ -2741,8 +3018,11 @@ You pause to consider your options...
 God Mode:
 Level Up to Level 9 - Apply level 9 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Goblin Camp - Worg Pens (Sanctified by Ash)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/44 (Thrall: -4 Kagha) | XP: 52954/64000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2752,8 +3032,11 @@ You pause to consider your options...
 God Mode:
 Swap 5th level slot to hold monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Goblin Camp - Worg Pens (Sanctified by Ash)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/44 | XP: 52954/64000 | Gold: 1,840gp** &nbsp;|&nbsp; ✨ **HD: 1/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active), Nature's Step (Active)**
@@ -2763,8 +3046,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Officially name myself archdruid of the grove now that halsin dead and process his intel and explain his trophy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Goblin Camp - Shattered Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 (Temp: 0) | XP: 52954/64000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2788,8 +3074,11 @@ As the declaration settles, you turn your gaze inward, sorting through the fragm
 > 👤 **Player:**
 > *"Ask minthara if I can consume gut and razglin since they're useless and didn't do anything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -2823,8 +3112,11 @@ Minthara’s eyes narrow, her hand resting white-knuckled on the pommel of her b
 > 👤 **Player:**
 > *"Isolate gut and have my companions and elites standby. Then hold person on her and steal soul. If it fails signal my team to kill her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -2868,8 +3160,11 @@ With a sharp, rhythmic intake of breath, you rip the soul from her chest. It is 
 > 👤 **Player:**
 > *"Have vanguard loot everything from gut"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -2879,8 +3174,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seed Shadow Spies - Send your 10 spies to infiltrate Ragzlin&#x27;s guards and prepare for a coordinated strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Shattered Sanctum - Priestess Gut's Chambers** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -2898,8 +3196,11 @@ The spies vanish. You stand in the silence of the plundered room, the Amulet of 
 > 👤 **Player:**
 > *"Reroll guidance enhance ability bardic insp 1d20+5 = 13 vs DC 15 - Failure (Vanguard Investigation)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -2925,8 +3226,11 @@ The spies vanish into the darkness. You stand in the silence of the plundered ro
 > 👤 **Player:**
 > *"Initiate Geometric Un-Zipping - Execute the Level 13 spell to begin the systematic removal of Ao's administrative layer."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 17/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Abyssal Backlash | Exhaustion: 0 | Inspiration: No**
@@ -2942,8 +3246,11 @@ Nocturne is thrown back against the stone wall, her marble-pale skin glowing wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Shadow - Walk directly into the throne room and demand he kneel, presenting the harvested souls of Halsin and Gut as proof of your divine authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -2963,8 +3270,11 @@ The spies vanish into the darkness. You stand in the silence of the plundered ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Royal Audience - Invite Ragzlin to Gut&#x27;s private chambers under the guise of &#x27;Disciple&#x27; business to isolate him for a harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -2984,8 +3294,11 @@ The spies vanish into the darkness. You stand in the silence of the plundered ro
 > 👤 **Player:**
 > *"Hold person on him and have vanguard tie him up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 2/3 (1 used), L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3028,8 +3341,11 @@ The harvest is a violent, ecstatic surge. You gain **540 XP** as the Hobgoblin K
 > 👤 **Player:**
 > *"Intimidate goblins since I stole soul from two leaders, raid vault, then finalize mass soul harvest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Shattered Sanctum - The Throne Room & Vaults** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 55434/64000 | Gold: 2420gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Unarmored Defense | Exhaustion: 0 | Inspiration: Yes**
@@ -3047,8 +3363,11 @@ Retreating to the quiet of the plundered Inner Sanctum, you return to the somati
 > 👤 **Player:**
 > *"Finish learning mass soul harvest and delegate the reader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56434/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Mass Soul Harvest (Learned) | Exhaustion: 0 | Inspiration: Yes**
@@ -3070,8 +3389,11 @@ He doesn't bow. He watches you with the clinical curiosity of a man examining a 
 God Mode:
 How does mass soul harvest work?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56434/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -3081,8 +3403,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Use normal soul steal on a few goblins to demonstrate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56614/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3092,8 +3417,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with Krellis&#x27;s reaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -3128,8 +3456,11 @@ He gestures to his skeletal guards, who shift their stances from interrogation t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Strategic Efficiency - Explain that your methods allow for mass harvests without damaging the &#x27;infrastructure&#x27; of the Absolute&#x27;s army.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -3164,8 +3495,11 @@ He gestures to his skeletal guards, who shift their stances from interrogation t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Next Directives - Assert your rank as First Disciple and demand Krellis provide the General&#x27;s next orders for the march on Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -3197,8 +3531,11 @@ Outside, the world moves on. A Zhentarim caravan, attempting to bypass your bloc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Demand orders from Krellis while sending the Shadow Spies to track Aradin and comforting Astarion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56794/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3237,8 +3574,11 @@ With a silent flick of your wrist, you signal the Shadow Spies. They melt into t
 > 👤 **Player:**
 > *"Send elite scouts to find Gale and wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 57474/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3277,8 +3617,11 @@ With a silent flick of your wrist, you signal the Shadow Spies. They melt into t
 > 👤 **Player:**
 > *"Have my elite spies find wyll and gale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -3307,8 +3650,11 @@ As the report concludes, a messenger armored in the sterile, bone-white plates o
 > 👤 **Player:**
 > *"Send elites to collect Aradin and my companions and rest of vanguard move to get gale and wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 
@@ -3332,8 +3678,11 @@ You reach the ruins as the moon reaches its zenith. The stone walls of the old t
 > 👤 **Player:**
 > *"Have vanguard get in position and go and try to convince wyll and gale to rejoin me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58514/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3351,8 +3700,11 @@ Wyll’s jaw works in silent rage, his hand white-knuckled on his rapier. He loo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Vow - Demand they formally rejoin the Vanguard as &#x27;First Disciple&#x27;s Shields&#x27; under a tactical oath.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3399,8 +3751,11 @@ Wyll’s jaw works in silent rage, his hand white-knuckled on his rapier. He loo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Vow - Demand they formally rejoin the Vanguard as &#x27;First Disciple&#x27;s Shields&#x27; under a tactical oath.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58014/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3437,8 +3792,11 @@ You stand as the Sovereign of a unified Vanguard. You have forced the vow, turni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Aradin - Extract the specific locations of the secret caches mentioned in the stolen map before executing/siphoning him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 
@@ -3448,8 +3806,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Aradin - Extract the specific locations of the secret caches mentioned in the stolen map before executing/siphoning him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58234/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 2/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Cunning Insight | Exhaustion: 0 | Inspiration: Yes**
@@ -3493,8 +3854,11 @@ Pros: Provides technical advantage against the curse, Consolidates Grove assets
 Cons: Minor delay in the march
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 
@@ -3520,8 +3884,11 @@ Minthara turns, her eyes narrowing as she rakes her gaze over your porcelain fea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage the Prism - Inform Minthara that the Githyanki hunt the &#x27;weapon&#x27; (Shadowheart&#x27;s Prism) and must be eliminated to secure the Absolute&#x27;s prize.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 
@@ -3554,8 +3921,11 @@ Minthara’s eyes lock onto yours, searching for a fracture in your porcelain fa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - The main Vanguard marches to the Pass while Spies retrieve notes and Shadowheart prepares a ritual ward.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 
@@ -3579,8 +3949,11 @@ As the stone arches of the Mountain Pass loom ahead, the scent of dragon-fire an
 God Mode:
 i should have full spell slots, i didnt use any today
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Risen Road - Mountain Pass Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 59374/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3590,8 +3963,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"send scouts/spies ahead to the gith camp and use invis and try to scout the red dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -3615,8 +3991,11 @@ Resources: HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/
 > 👤 **Player:**
 > *"THINK:would i be able to cc the dragon?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Mountain Pass Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 (Temp: 0) | XP: 59374/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3626,8 +4005,11 @@ You pause, the cold Abyssal energy in your veins pulsing in rhythmic synchronici
 > 👤 **Player:**
 > *"THINK:Whats the best plan? Maybe i can hyp pattern everyone first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Mountain Pass Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 59374/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3639,8 +4021,11 @@ You stare into the sulfurous haze of the valley, your violet eyes attempting to 
 > 👤 **Player:**
 > *"surgical strike. use high stealth vanguard members and have my larger army wait on standby. Surgical strike with vanguard elites + companions. Trigger surprise round and open with hyp pattern and try to cc dragon, voss, and all the gith. As soon as we engage signal main army to surround and attack/capture too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 
@@ -3677,8 +4062,11 @@ Resources: HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 0/1 | Bardic: 3/
 > 👤 **Player:**
 > *"bind voss, cast mass soul steal, tell dragon to surrender or i kill voss. use guidance, enhance ability, bardic insp on the roll. have everyone else bind the gith but prioritize staying out of dragon fire range"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 
@@ -3712,8 +4100,11 @@ Qudenos lets out a sound that is half-roar and half-whimper, a gutteral vibratio
 > 👤 **Player:**
 > *"command troops to bind the dragon and evryone else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Mountain Pass Bridge - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 60514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 2/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3750,8 +4141,11 @@ Qudenos lets out a sound that is half-roar and half-whimper, his massive head lo
 > 👤 **Player:**
 > *"THINK:my main goal is dragon vassal, soul steal voss, soul steal others in that order. Whats the best way to handle this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Mountain Pass Bridge - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 60514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3761,8 +4155,11 @@ You pause, your unblinking violet eyes tracing the sulfurous heat-shimmer of the
 > 👤 **Player:**
 > *"take voss out of eyesight of dragon and steal his soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 
@@ -3772,8 +4169,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"take voss out of eyesight of dragon and steal his soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Mountain Pass Bridge - Shadowed Ridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 60514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3795,8 +4195,11 @@ Victory! You gain **2,016 XP** for the harvest of Kith'rak Voss. Your notoriety 
 > 👤 **Player:**
 > *"use the knowledge i gained from voss's soul to dominate the dragon, at least finding the info should be easy since i stole his soul. give silver sword to laezel to rewardh er for her service"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Mountain Pass - Broken Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 61390/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3836,8 +4239,11 @@ Lae'zel takes the sword with trembling hands, her eyes wide as she feels the res
 God Mode:
 what trophy did i get from voss
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Mountain Pass - Broken Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 61390/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3847,8 +4253,11 @@ You pause to consider your options...
 God Mode:
 can i enthrall raiders or will it give me hp penalty?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Mountain Pass Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 40/40 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/10 | Spells: L1 0/4, L2 1/3, L3 1/3, L4 0/3, L5 1/2 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3858,13 +4267,18 @@ You pause to consider your options...
 God Mode:
 can i enthrall raiders or will it give me hp penalty?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Mountain Pass Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 40/40 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/10 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/2 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
 
 You pause to consider your options...
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

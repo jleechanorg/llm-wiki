@@ -12,6 +12,19 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)
+- [🗺️ Scene Index & Timeline (30 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -102,6 +115,7 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 ---
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -171,6 +185,7 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="special-mechanics"></a>
 ## 🔮 Part III: Special Mechanics & Artifacts
 <details>
 <summary><b>Campaign Mechanics</b></summary>
@@ -491,46 +506,51 @@ This reward represents the *third path* — neither relying on Aurum's protectio
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
-| **02** | The King's Ribbon | Frost-Fall 12, 95 AC (09:00) | Roleplay |
-| **03** | The King's Ribbon | Frost-Fall 12, 95 (09:00) | Roleplay |
-| **04** | The King's Ribbon | Frost-Fall 12, 95 DR (09:05) | Roleplay |
-| **05** | The King's Ribbon | Frost-Fall 12, 95 DR (09:07) | Social Challenge |
-| **06** | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Boss Surrender |
-| **07** | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
-| **08** | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
-| **09** | Approach to Winter-Mourn Keep | Frost-Fall 12, 95 DR (09:25) | Roleplay |
-| **10** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
-| **11** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
-| **12** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 AG (09:45) | Roleplay |
-| **13** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:50) | Roleplay |
-| **14** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:51) | Roleplay |
-| **15** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:53) | Roleplay |
-| **16** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 AG (09:53) | Roleplay |
-| **17** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 A.G. (09:53) | Roleplay |
-| **18** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:53) | Roleplay |
-| **19** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:55) | Roleplay |
-| **20** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:00) | Roleplay |
-| **21** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:05) | Social Challenge |
-| **22** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:05) | Roleplay |
-| **23** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 Frost-Fall (10:05) | Roleplay |
-| **24** | Winter-Mourn Keep Courtyard | Frost-Fall 12, 95 DR (10:10) | Social Challenge |
-| **25** | Winter-Mourn Keep Courtyard | Frost-Fall 12, 95 DR (10:13) | Social Challenge |
-| **26** | Winter-Mourn Gates | Frost-Fall 12, 95 DR (10:15) | Social Challenge |
-| **27** | Winter-Mourn Gates | Frost-Fall 12, 95 DR (10:16) | Roleplay |
-| **28** | Winter-Mourn Gates | Frost-Fall 12, 95 Frost-Fall (10:16) | Roleplay |
-| **29** | Winter-Mourn Gates | Frost-Fall 12, 95 Frost-Fall (10:16) | Roleplay |
-| **30** | Winter-Mourn Gates | Frost-Fall 12, 95 AG (10:16) | Roleplay |
+| [**Scene 01**](#scene-1) | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | The King's Ribbon | Frost-Fall 12, 95 AC (09:00) | Roleplay |
+| [**Scene 03**](#scene-3) | The King's Ribbon | Frost-Fall 12, 95 (09:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The King's Ribbon | Frost-Fall 12, 95 DR (09:05) | Roleplay |
+| [**Scene 05**](#scene-5) | The King's Ribbon | Frost-Fall 12, 95 DR (09:07) | Social Challenge |
+| [**Scene 06**](#scene-6) | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Boss Surrender |
+| [**Scene 07**](#scene-7) | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
+| [**Scene 08**](#scene-8) | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
+| [**Scene 09**](#scene-9) | Approach to Winter-Mourn Keep | Frost-Fall 12, 95 DR (09:25) | Roleplay |
+| [**Scene 10**](#scene-10) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
+| [**Scene 11**](#scene-11) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
+| [**Scene 12**](#scene-12) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 AG (09:45) | Roleplay |
+| [**Scene 13**](#scene-13) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:50) | Roleplay |
+| [**Scene 14**](#scene-14) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:51) | Roleplay |
+| [**Scene 15**](#scene-15) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:53) | Roleplay |
+| [**Scene 16**](#scene-16) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 AG (09:53) | Roleplay |
+| [**Scene 17**](#scene-17) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 A.G. (09:53) | Roleplay |
+| [**Scene 18**](#scene-18) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:53) | Roleplay |
+| [**Scene 19**](#scene-19) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:55) | Roleplay |
+| [**Scene 20**](#scene-20) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:00) | Roleplay |
+| [**Scene 21**](#scene-21) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:05) | Social Challenge |
+| [**Scene 22**](#scene-22) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:05) | Roleplay |
+| [**Scene 23**](#scene-23) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 Frost-Fall (10:05) | Roleplay |
+| [**Scene 24**](#scene-24) | Winter-Mourn Keep Courtyard | Frost-Fall 12, 95 DR (10:10) | Social Challenge |
+| [**Scene 25**](#scene-25) | Winter-Mourn Keep Courtyard | Frost-Fall 12, 95 DR (10:13) | Social Challenge |
+| [**Scene 26**](#scene-26) | Winter-Mourn Gates | Frost-Fall 12, 95 DR (10:15) | Social Challenge |
+| [**Scene 27**](#scene-27) | Winter-Mourn Gates | Frost-Fall 12, 95 DR (10:16) | Roleplay |
+| [**Scene 28**](#scene-28) | Winter-Mourn Gates | Frost-Fall 12, 95 Frost-Fall (10:16) | Roleplay |
+| [**Scene 29**](#scene-29) | Winter-Mourn Gates | Frost-Fall 12, 95 Frost-Fall (10:16) | Roleplay |
+| [**Scene 30**](#scene-30) | Winter-Mourn Gates | Frost-Fall 12, 95 AG (10:16) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -554,8 +574,11 @@ Before the first gate of Winter-Mourn Keep appears on the horizon, we must final
 > 👤 **Player:**
 > *"CHOICE:finish_character_creation_start_game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Divine Sense: 4/4, Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -567,8 +590,11 @@ The 'Silent Peace' is visible in every stone of this road, in every well-maintai
 God Mode:
 every successful or failed dice roll give me 34% of exp to the next level. Do not do it during god mode or turns where. time doesn't advance. If level 2 is at 300 xp and level 3 is what we're moving toward and is 700 exp it hsould be 0.34 * (600-300) = 102
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp**
@@ -591,8 +617,11 @@ This rule has been added to your campaign directives to ensure consistent applic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Talk to Ser Elian - Engage your idealistic comrade in conversation to see how he views the 'pacification' order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 102/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Divine Sense: 4/4 | Lay on Hands: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -606,8 +635,11 @@ You study his profile, searching for the flicker of doubt you feel in your own c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Elian's Doubts - Question the 'weed' metaphor—innocents aren't plants to be pulled.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 204/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -632,8 +664,11 @@ To your right, Ser Vespera Nyx (Lvl 1) shifts in her saddle, her cold gaze brief
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Bond - Offer Elian support regarding his brother and try to forge a secret pact of mercy before reaching the keep.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Lay on Hands: 5/5 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -658,8 +693,11 @@ You feel a sudden surge of inner strength as the weight of your new conviction s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up Now - Reflect on your convictions and embrace your new power (Level 2).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Lay on Hands: 5/5 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -677,8 +715,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 306/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Lay on Hands: 10/10 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -690,8 +731,11 @@ Ser Elian (Lvl 1) nods to you, his face set in a grim mask that mirrors your own
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Keep Approach - Slow the pace and look for signs of the refugees or Lady Ashwood's fortifications before you reach the main gate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Approach to Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 510/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -705,8 +749,11 @@ Ser Elian looks toward the walls, his hand trembling slightly as it rests on his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ride Directly to the Gates - Abandon the scouting and ride openly to the main gate to announce your arrival and demand entry in the Empress's name.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -726,8 +773,11 @@ You feel the surge of power from your convictions manifesting—the world seems 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Parley with Lady Ashwood - Request a direct meeting with Lady Annalise Ashwood under a banner of truce to discuss the refugees.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -745,8 +795,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 918/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -760,8 +813,11 @@ Ser Elian (Lvl 1) stares at you, his awe overcoming his fear for a moment. "Ario
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Annalise's Presence - Use your Imperial authority to demand that Lady Annalise herself appear on the wall to answer your request immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 1530/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, CD: 1/1, Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -790,8 +846,11 @@ You gain **612 XP** for the attempt, the harsh lesson of failed diplomacy burnin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Assessment (Synergistic) - Signal Elian to watch for archer rotations and Vespera to find the gate's mechanical weak point while you maintain the standoff.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 2142/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Channel Divinity: 1/1 | Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -815,8 +874,11 @@ You gain **612 XP** for the tactical attempt, though the keep's secrets remain b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Ashford Blood - Call out Lady Ashwood's connection to your mother Cordelia Ashford, appealing to family ties rather than Imperial law.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -836,8 +898,11 @@ You gain 612 XP. The breakthrough of your lineage and your successful navigation
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 4 - Embrace your growing power and apply Paladin Level 4 benefits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4 (Level 4 pending)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -855,8 +920,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Channel Divinity: 1/1 | Divine Sense: 4/4 | Lay on Hands: 20/20 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -874,8 +942,11 @@ Ser Vespera (Lvl 1) remains a silent, obsidian shadow on your right. Her hand ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Your Case - Mentally rehearse your arguments to convince Lady Annalise to allow a peaceful inspection and dispersal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Channel Divinity: 1/1 | Divine Sense: 4/4 | Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -887,8 +958,11 @@ Inside the quiet sanctuary of your mind, you begin to assemble the pieces of you
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Blood of House Ashford - Lead with the family connection to Cordelia. Argue that you are here to save the keep from the Empress's wrath, acting as a kinsman who understands her burden.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 4046/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Channel Divinity: 1/1 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -906,8 +980,11 @@ You gain **1292 XP** for the attempt. Though the kinship failed to move her, you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer a Token of Sincerity - Produce a family heirloom or speak of a specific Ashford secret to prove you aren't just an Imperial puppet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 5338/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -935,8 +1012,11 @@ You gain **1292 XP** (34% of the XP band) for the failed attempt to bridge the g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Swear the Sacred Vow - Invoke your Oath of the Crown to swear a public, divine guarantee of her safety if she opens the gate for a parley. Putting your soul and Paladin powers on the line to prove sincerity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 6630/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Channel Divinity: 1/1, Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -967,8 +1047,11 @@ The great bar of the gate slams back with a sound like a thunderclap, and the he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 5 - Embrace the full power of a veteran Paladin before entering the lion's den.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 6630/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 4/4 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -986,8 +1069,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 6630/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1001,8 +1087,11 @@ Ser Elian (Lvl 1) rides close to your flank, his eyes wide as he senses the shif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter for Parley - Dismount and enter the keep peacefully to meet Lady Annalise as promised.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Winter-Mourn Keep Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 6630/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Oath of the Crown | Exhaustion: 0 | Inspiration: No**
@@ -1027,8 +1116,11 @@ Lady Annalise Ashwood (Lvl 10) stands at the base of the Great Hall's stone stai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Read the Lady's Fear - Attempt an Insight check to see if Annalise is truly defiant or if she is looking for an honorable way to surrender without sacrificing the refugees.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Winter-Mourn Keep Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:13)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 9180/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1054,8 +1146,11 @@ You gain **2550 XP** for the attempt to navigate this high-stakes standoff.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Vanguard to Hold - Ride back to the gate and use your authority as a scion of House Valerion and a Paladin of the Crown to order Prefect Gratian's scouts to halt their advance, citing the active parley.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 11730/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1082,8 +1177,11 @@ You have bought the parley minutes, not hours. The heartbeat of the Imperial dru
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send Elian to Intercept - Order Ser Elian to ride back to Prefect Gratian and officially report the parley status to delay the main host.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Lvl 6 available) | HP: 44/44 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1099,8 +1197,11 @@ You feel the Empyrean spark within you expand, the weight of your leadership and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up Now - Meditate on your new authority and embrace the mantle of a Level 6 Paladin (Aura of Protection).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Lvl 6 available) | HP: 44/44 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1 | Aura: Not unlocked yet (Lvl 6 pending) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1112,8 +1213,11 @@ As you stand at the threshold of Winter-Mourn Keep, the weight of your oath and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Change Prepared Spells - Review and modify your list of prepared Paladin spells (Capacity: 6).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 6 available) | HP: 44/44 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Channel Divinity: 1/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1131,8 +1235,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 52/52 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1140,6 +1247,8 @@ XP HEADER COHERENCE: once the new level is committed the level-up is no longer p
 As Ser Elian vanishes into the tree line, a sudden, crystalline clarity settles over you. The Empyrean blood in your veins, stirred by the weight of your sacred vow and the sight of the refugees' faces, pulses with a new, protective warmth. You feel it radiate outward from your Valerion Plate—not as a visible flame, but as a tangible field of unyielding will that seems to steady the hearts of the nearby guards and refugees alike. This is the Aura of Protection, the physical manifestation of your conviction to guard the peace without sacrificing your soul.
 
 Lady Annalise (Lvl 10) descends the final steps of the Great Hall, her eyes tracking the golden resonance that now clings to you. The skepticism in her Ashford grey eyes hasn't vanished, but it has been joined by a wary, profound curiosity. You have entered the courtyard as a boy knight, but you stand before her now as a Paladin of the Imperium whose power is anchored in something deeper than Imperial decree. The parley has officially begun, and though the sound of Gratian's (Lvl 12) drums thrums against the keep's stone like an approaching storm, you are no longer a passenger of events. You are the shield of the North.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

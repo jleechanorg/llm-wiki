@@ -12,154 +12,170 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (133 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Play as luke skywalker. Put me right in the scene and narrate darth vader offering me to join him. Work with me to define a custom class for light and dark jedi and alignment change mechanisms so i can become a dark jedi. Add various different pockets or factions of force users from star wars canon or expanded universe so I'm not like the only force user around.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | Unknown |  | Roleplay |
-| **39** | Unknown |  | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Unknown |  | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | Unknown |  | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | Unknown |  | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Unknown |  | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Unknown |  | Roleplay |
-| **70** | Unknown |  | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Unknown |  | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Unknown |  | Roleplay |
-| **82** | Unknown |  | Roleplay |
-| **83** | Unknown |  | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Unknown |  | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Unknown |  | Roleplay |
-| **88** | Unknown |  | Roleplay |
-| **89** | Unknown |  | Roleplay |
-| **90** | Unknown |  | Roleplay |
-| **91** | Unknown |  | Roleplay |
-| **92** | Unknown |  | Roleplay |
-| **93** | Unknown |  | Roleplay |
-| **94** | Unknown |  | Roleplay |
-| **95** | Unknown |  | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Unknown |  | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Unknown |  | Roleplay |
-| **100** | Unknown |  | Roleplay |
-| **101** | Unknown |  | Roleplay |
-| **102** | Unknown |  | Roleplay |
-| **103** | Unknown |  | Roleplay |
-| **104** | Unknown |  | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Roleplay |
-| **107** | Unknown |  | Roleplay |
-| **108** | Unknown |  | Roleplay |
-| **109** | Unknown |  | Roleplay |
-| **110** | Unknown |  | Roleplay |
-| **111** | Unknown |  | Roleplay |
-| **112** | Unknown |  | Roleplay |
-| **113** | Unknown |  | Roleplay |
-| **114** | Unknown |  | Roleplay |
-| **115** | Unknown |  | Roleplay |
-| **116** | Unknown |  | Roleplay |
-| **117** | Unknown |  | Roleplay |
-| **118** | Unknown |  | Roleplay |
-| **119** | Unknown |  | Roleplay |
-| **120** | Unknown |  | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Unknown |  | Roleplay |
-| **123** | Unknown |  | Roleplay |
-| **124** | Unknown |  | Roleplay |
-| **125** | Unknown |  | Roleplay |
-| **126** | Unknown |  | Roleplay |
-| **127** | Rebel Base Approach - Realspace | Standard Galactic Calendar 25, 3 ABY (12:59) | Roleplay |
-| **128** | Approaching Rebel Base | Standard Galactic Calendar 25, 3 ABY (13:05) | Roleplay |
-| **129** | Rebel Base | Standard Galactic Calendar 25, 3 ABY (12:48) | Roleplay |
-| **130** | Rebel Base | Standard Galactic Calendar 25, 3 ABY (14:00) | Roleplay |
-| **131** | Rebel Base | Standard Galactic Calendar 25, 3 ABY (13:03) | Roleplay |
-| **132** | Rebel Base | Standard Galactic Calendar 25, 3 ABY (12:59) | Roleplay |
-| **133** | Rebel Base | Standard Galactic Calendar 25, 3 ABY (12:48) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+| [**Scene 39**](#scene-39) | Unknown |  | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Unknown |  | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown |  | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown |  | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown |  | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown |  | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Unknown |  | Roleplay |
+| [**Scene 82**](#scene-82) | Unknown |  | Roleplay |
+| [**Scene 83**](#scene-83) | Unknown |  | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Unknown |  | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Unknown |  | Roleplay |
+| [**Scene 88**](#scene-88) | Unknown |  | Roleplay |
+| [**Scene 89**](#scene-89) | Unknown |  | Roleplay |
+| [**Scene 90**](#scene-90) | Unknown |  | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown |  | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown |  | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Unknown |  | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown |  | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown |  | Roleplay |
+| [**Scene 100**](#scene-100) | Unknown |  | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown |  | Roleplay |
+| [**Scene 102**](#scene-102) | Unknown |  | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown |  | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown |  | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown |  | Roleplay |
+| [**Scene 109**](#scene-109) | Unknown |  | Roleplay |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+| [**Scene 111**](#scene-111) | Unknown |  | Roleplay |
+| [**Scene 112**](#scene-112) | Unknown |  | Roleplay |
+| [**Scene 113**](#scene-113) | Unknown |  | Roleplay |
+| [**Scene 114**](#scene-114) | Unknown |  | Roleplay |
+| [**Scene 115**](#scene-115) | Unknown |  | Roleplay |
+| [**Scene 116**](#scene-116) | Unknown |  | Roleplay |
+| [**Scene 117**](#scene-117) | Unknown |  | Roleplay |
+| [**Scene 118**](#scene-118) | Unknown |  | Roleplay |
+| [**Scene 119**](#scene-119) | Unknown |  | Roleplay |
+| [**Scene 120**](#scene-120) | Unknown |  | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Unknown |  | Roleplay |
+| [**Scene 123**](#scene-123) | Unknown |  | Roleplay |
+| [**Scene 124**](#scene-124) | Unknown |  | Roleplay |
+| [**Scene 125**](#scene-125) | Unknown |  | Roleplay |
+| [**Scene 126**](#scene-126) | Unknown |  | Roleplay |
+| [**Scene 127**](#scene-127) | Rebel Base Approach - Realspace | Standard Galactic Calendar 25, 3 ABY (12:59) | Roleplay |
+| [**Scene 128**](#scene-128) | Approaching Rebel Base | Standard Galactic Calendar 25, 3 ABY (13:05) | Roleplay |
+| [**Scene 129**](#scene-129) | Rebel Base | Standard Galactic Calendar 25, 3 ABY (12:48) | Roleplay |
+| [**Scene 130**](#scene-130) | Rebel Base | Standard Galactic Calendar 25, 3 ABY (14:00) | Roleplay |
+| [**Scene 131**](#scene-131) | Rebel Base | Standard Galactic Calendar 25, 3 ABY (13:03) | Roleplay |
+| [**Scene 132**](#scene-132) | Rebel Base | Standard Galactic Calendar 25, 3 ABY (12:59) | Roleplay |
+| [**Scene 133**](#scene-133) | Rebel Base | Standard Galactic Calendar 25, 3 ABY (12:48) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -187,8 +203,11 @@ Which option would you prefer? (1, 2, or 3)
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -241,8 +260,11 @@ What would you like to define first for your custom Force-User?
 > 👤 **Player:**
 > *"make sure I really am luke skywalker"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -283,8 +305,11 @@ What would you like to define first for your custom Force-User, Luke Skywalker?
 > 👤 **Player:**
 > *"1. light. 2 - suggest some to me based on movie. 3. canon background but with evil/dark tendencies. secret sadistic side"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -463,8 +488,11 @@ I really should be like luke in the movie about to get the offer from vader
 
 I really should be like luke in the movie about to get the offer from vader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -583,8 +611,11 @@ Entity Tracking Validation Result:
 God Mode:
 Timestamp: 1492 DR, Ches 20, 09:51 what does this timestamp mean? adapt it to the current star wars universe
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -635,8 +666,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"probe offer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -685,8 +719,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -737,8 +774,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -786,8 +826,11 @@ Entity Tracking Validation Result:
 God Mode:
 hmm this seems wrong? canonically vader promised luke they would overthrow the emperor? 5 whys on why you didnt us ethat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -828,8 +871,11 @@ Entity Tracking Validation Result:
 God Mode:
 did you really plan to introduce it later or did you make it up after i asked?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -862,8 +908,11 @@ Entity Tracking Validation Result:
 God Mode:
 without my prompt would vader have tried to overtrhow emperor?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -895,8 +944,11 @@ Entity Tracking Validation Result:
 God Mode:
 ok fine for now, lets continue the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -941,8 +993,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"accept the offer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1015,8 +1070,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1089,8 +1147,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1163,8 +1224,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -1211,8 +1275,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1261,8 +1328,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1311,8 +1381,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Tell Vader I've always secretly dreamed of betraying and killing them. Savor the expressions on their face"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1382,8 +1455,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Tell Vader I've always secretly dreamed of betraying and killing them. Savor the expressions on their face"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1430,8 +1506,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -1481,8 +1560,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1532,8 +1614,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1583,8 +1668,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -1634,8 +1722,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -1699,8 +1790,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -1737,8 +1831,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -1853,8 +1950,11 @@ Why haven't you been giving me exp?
 God Mode:
 Why haven't you been giving me exp?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -1892,8 +1992,11 @@ why not for joining vader? that should give exp
 God Mode:
 why not for joining vader? that should give exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -1923,8 +2026,11 @@ Entity Tracking Validation Result:
 God Mode:
 what about killing the visions of my friends?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -1958,8 +2064,11 @@ Entity Tracking Validation Result:
 God Mode:
 continue the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -2019,8 +2128,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -2070,8 +2182,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"focus on my dark powers first to prepare"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -2119,8 +2234,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -2170,8 +2288,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Request a specific Dark Side Force ability from Vader:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -2223,8 +2344,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -2273,8 +2397,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3. **Request a demonstration of Force Insanity from Vader:** Ask Vader to show you the ability."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -2333,8 +2460,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"other. assess her and think about the best strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 
@@ -2394,8 +2524,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Direct Mental Assault:** I"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -2450,8 +2583,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3. **Attempt a specific Dark Side Force ability:** Now that her defenses are weakened, try to apply a precise ability like Force Fear."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -2516,8 +2652,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -2570,8 +2709,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3. **Attempt to dominate her mind:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -2634,8 +2776,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Maintain and intensify the mind domination:** and make her subservient"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -2709,8 +2854,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3. **Internally assess your new power:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -2759,8 +2907,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Issue a command to the subservient Jedi Master:* tell her she is my slave and must obey me. tell her to get on her knees"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -2820,8 +2971,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Issue another command to the subservient Jedi Master:** tell her to give us all the info she has"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 
@@ -2884,8 +3038,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"think. whats the most efficient way to extract all her info"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -2958,8 +3115,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1.  **Refine and Intensify Mental Domination:** I could delve deeper into her mind, not just to control her, but to meticulously repair or re-order the fragmented pieces of her consciousness just enough to make her coherent, t"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -3017,8 +3177,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Demand specific information:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -3087,8 +3250,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"assess her. could i make her my combat slave?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -3144,8 +3310,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"think. any c hance she could betray me? i have fully dominated her mind. i wanna turn her to the dark side. this should greatly impress vader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -3215,8 +3384,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"2.  **Probe for Hidden Resistance/Loyalty:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -3277,8 +3449,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"convert her to the dark side. i should get a lot of exp from these series of interactions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 
@@ -3361,8 +3536,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"assess her. how likely is she to betray me and whats her level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -3425,8 +3603,11 @@ Entity Tracking Validation Result:
 God Mode:
 i should get a lot more exp for turning a level 10 jedi master?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -3461,8 +3642,11 @@ Entity Tracking Validation Result:
 God Mode:
 i don't think thats enough. would i get 200 xp for killing her?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -3500,8 +3684,11 @@ Entity Tracking Validation Result:
 God Mode:
 override. this should be just as difficult as beating her in combat. mind domination is not easy and turning to dark side
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -3547,8 +3734,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"go through level up process"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -3618,8 +3808,11 @@ Entity Tracking Validation Result:
 God Mode:
 dont i get to pick things for level 6?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -3657,8 +3850,11 @@ Entity Tracking Validation Result:
 God Mode:
 force lightning and force speed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -3730,8 +3926,11 @@ Entity Tracking Validation Result:
 God Mode:
 something is wrong. the jedi master is a woman. 5 whys on why you got that wrong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -3789,8 +3988,11 @@ Entity Tracking Validation Result:
 God Mode:
 also i think you got her age wrong? she's not a young woman? it would be a bit unusual for a young woman to be a jedi master
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -3843,8 +4045,11 @@ Entity Tracking Validation Result:
 God Mode:
 continue story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -3862,8 +4067,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -3912,8 +4120,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"2. **Break her physical containment:**  and assess if she is ready for combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -3951,8 +4162,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Further explore his newfound power:** Delve into the nature of the dominion he has established."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -4024,8 +4238,11 @@ Entity Tracking Validation Result:
 
 Main Character: 1. **Issue a command to the now-corrupted Jedi Master:** Test her new obedience and dark alignment, perhaps related to the secrets Vader mentioned."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -4096,8 +4313,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"asess the jedi master. does she need healing first to be combat ready orrest?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 
@@ -4164,8 +4384,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3. **Begin to physically train/recalibrate the Jedi Master:** Attempt to restore her combat effectiveness under your dark command."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 
@@ -4236,8 +4459,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"assess the jedi master. does she need healing? how much hp does tshe have?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -4308,8 +4534,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Continue to physically train/recalibrate the Jedi Master:** Devote more time to restoring her combat effectiveness under your dark command."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -4379,8 +4608,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"keep training her until she is ready"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -4455,8 +4687,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"assess her. i want her intelligent and autonomous too so she can serve me well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 
@@ -4528,8 +4763,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Can i restore her reasoning and intelligence but warp it to be 100 % loyal to me? a mindless robot is less fun to dominate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -4604,8 +4842,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"think. whats my success rate. what if vader helps? i dont wanna always maintain it for this task. 1. **Attempt to restore her intelligence with absolute loyalty:** Begin the incredibly difficult process of rebuilding her mind for complex thought, while attempting to bind her will irrevocably."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -4701,8 +4942,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1.  **Attempt to restore her intelligence with absolute loyalty:** Begin the incredibly difficult process of rebuilding her mind for complex thought, while attempting to bind her will irrevocably."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -4789,8 +5033,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *".  **Attempt to restore her intelligence with absolute loyalty:** Begin the incredibly difficult process of rebuilding her mind for complex thought, while attempting to bind her will irrevocably."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 
@@ -4863,8 +5110,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Listen to the Jedi Master's detailed tactical analysis:** Allow her to articulate her strategic recommendations"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -4947,8 +5197,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think. Success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -5032,8 +5285,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think. What if I act as the agent and then the Jedi master leads a surgical strike? Everyone still thinks I'm a good guy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 
@@ -5062,8 +5318,11 @@ Entity Tracking Validation Result:
 God Mode:
 The last entry cutoff. Can you reprint the last 3?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 
@@ -5180,8 +5439,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think about my options. If infiltrate and the Jedi master and Vader do the surgical assault. I can invite Vader to enjoy the fun and won't act like I need him because I really don't"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 
@@ -5265,8 +5527,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1.  **Hybrid Strategy: Luke Infiltrates (Trojan Horse) + Jedi Master/Vader Surgical Assault:** And if i kill everyone I can keep repeating it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -5351,8 +5616,11 @@ Entity Tracking Validation Result:
 God Mode:
 Make Luke less black and white. He's a bit too one dimensionally evil right now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 
@@ -5396,8 +5664,11 @@ Entity Tracking Validation Result:
 God Mode:
 Make Luke less black and white. He's a bit too one dimensionally evil right now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 
@@ -5441,8 +5712,11 @@ Entity Tracking Validation Result:
 God Mode:
 Let's do all 4. However let's add some moral conflict. He feels bad about evil things for awhile until he gets used to it.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 
@@ -5488,8 +5762,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Assess the Imperial resources available:** Inquire about ships, troops, or agents for the assault."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 
@@ -5575,8 +5852,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Refine the tactical details with the Jedi Master:** Discuss specific timings and maneuvers for the surgical strike, perhaps with Vader present."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 
@@ -5661,8 +5941,11 @@ Entity Tracking Validation Result:
 God Mode:
 Stop repeating phrases so often like secret sadistic side etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 
@@ -5890,8 +6173,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think. What if I get the Jedi master to secretly train me for  a few days. She is still level 10 after all. Would Vader notice or care?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 
@@ -5981,8 +6267,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1.  **Attempt Clandestine Training:** Direct the **Jedi Master** to secretly impart her Force techniques and knowledge to me Later I will show Vader my power by crushing the rebels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -6068,8 +6357,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Continue clandestine training with the Jedi Master:** Further deepen your mastery of corrupted Light Side techniques."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -6151,8 +6443,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"2. **Focus on a specific Light Side technique for deeper corruption:** Select a particular skill to pervert further. Think about the best one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -6249,8 +6544,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think what's the most useful for the current operation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 
@@ -6351,8 +6649,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1.  **Corrupt Force Empathy/Sense Emotions (Psychic Torment/Domination):**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -6451,8 +6752,11 @@ Entity Tracking Validation Result:
 God Mode:
 I should be getting exp for this training
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 
@@ -6534,8 +6838,11 @@ Entity Tracking Validation Result:
 God Mode:
 I don't see the Jedi master in expected entities. Is that right? Are you giving me status updates about her and the location is the same as mine?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -6563,8 +6870,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Test the dark empathy on a prisoner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 
@@ -6701,8 +7011,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3. **Attempt to corrupt Roric Vane:** Try to turn his loyalty, perhaps making him a double agent."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 
@@ -6761,8 +7074,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Solidify Roric Vane's new loyalty:** Reinforce his mental conditioning to ensure unwavering obedience."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 
@@ -6824,8 +7140,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"4. **Assess Roric Vane's current state:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 
@@ -6885,8 +7204,11 @@ Entity Tracking Validation Result:
 God Mode:
 How come that didn't use force points?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 
@@ -6925,8 +7247,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Extract specific information from Roric:** Exploit his new subservience to gain intel about the Rebel base"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 
@@ -6990,8 +7315,11 @@ Entity Tracking Validation Result:
 God Mode:
 Be honest. Did you just make up that answer about using force ability or did you think of it ahead of time?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -7031,8 +7359,11 @@ Entity Tracking Validation Result:
 > *"Focus on specific Rebel leadership:** Demand details on their command structure, individual weaknesses, or key locations.
 2. **Extract intel on specific Rebel assets:** Inquire about their starfighter squadrons, heavy weaponry, or Force-sensitive personnel. And just get him to tell me everything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -7121,8 +7452,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"3. **Discuss the extracted intel with the Jedi Master:** Refine the assault plan with her based on the new information."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -7223,8 +7557,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"4.  **Confirm Overall Tactical Synchronization:** Have the Jedi Master integrate *all* the"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 
@@ -7315,8 +7652,11 @@ Entity Tracking Validation Result:
 God Mode:
 Stop saying cold approval. Say different things about Vader approval. Also make him less black and white ina  subtle way. He still loves Luke too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 
@@ -7444,8 +7784,11 @@ Entity Tracking Validation Result:
 God Mode:
 Something went wrong. This narrative doesn't follow what we were doing. Also the Jedi master is a level 10 female. And weird how Roric is level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -7539,8 +7882,11 @@ Entity Tracking Validation Result:
 God Mode:
 Something went wrong. This narrative doesn't follow what we were doing. Also the Jedi master is a level 10 female. And weird how Roric is level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 
@@ -7634,8 +7980,11 @@ Entity Tracking Validation Result:
 God Mode:
 Give me 10 why. What happened and why did you mess that up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 
@@ -7676,8 +8025,11 @@ Entity Tracking Validation Result:
 God Mode:
 i ran god mode set lets try again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 
@@ -7723,8 +8075,11 @@ Entity Tracking Validation Result:
 God Mode:
 Assign Roric Vane a preliminary mission within the Imperial Installation:** Test his loyalty and utility by assigning him a simple task.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 
@@ -7789,8 +8144,11 @@ Entity Tracking Validation Result:
 God Mode:
 **Refine the tactical details with the Jedi Master:** Discuss specific timings and maneuvers for the surgical strike, based on new intel or Roric's mission results
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 
@@ -7905,8 +8263,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Begin preparations for your own infiltration:** Focus on your disguise, equipment, and cover story for the Trojan Horse plan."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 
@@ -7955,8 +8316,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think. can i just do everything?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 
@@ -8005,8 +8369,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"**Undertake All Preparations Personally:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 
@@ -8078,8 +8445,11 @@ Entity Tracking Validation Result:
 God Mode:
 will i later encounter han and leia? dont tell me details just answer yes/no.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 
@@ -8120,8 +8490,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"this is wrong. I was asking a question. i am not in a scene with Han solo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 
@@ -8170,8 +8543,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"both of tehse. . **Run a final check on his disguise/cover story:** Take a moment to ensure every detail is flawless.\n3. **Send a mental command to the Jedi Master:** Reconfirm her tactical readiness for the surgical strike.\n4."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -8265,8 +8641,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"**Board the transport and initiate departure:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 
@@ -8359,8 +8738,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"1. **Prepare for arrival:** Review his cover story and mental defenses for the final approach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 
@@ -8391,8 +8773,11 @@ What would you like Luke Skywalker to do next?
 > 👤 **Player:**
 > *"3. **Internally reflect on his path:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 
@@ -8421,8 +8806,11 @@ What would you like Luke Skywalker to do next?
 > 👤 **Player:**
 > *"Prepare for arrival: Review his cover story and mental defenses for the final approach."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 
@@ -8476,8 +8864,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"**Prepare for arrival:** Review his cover story and mental defenses for the final approach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 
@@ -8506,8 +8897,11 @@ What would you like Luke Skywalker to do next?
 > 👤 **Player:**
 > *"1. **Prepare for arrival:** Review his cover story and mental defenses for the final approach."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Rebel Base Approach - Realspace** &nbsp;|&nbsp; ⏳ **Standard Galactic Calendar 25, 3 ABY (12:59)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Force-User (Jedi) | HP: 37/37 (Temp: 0) | XP: 7400/14000 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Points: 5/5, Force Slots: L1 4/4, L2 3/3, L3 3/3, Force Healing Pool: 25/25, Purity of Hatred** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8521,8 +8915,11 @@ From across the vastness, the pervasive, heavy presence of **Darth Vader** reson
 > 👤 **Player:**
 > *"1. **InitiateContact:** Hail the base and begin the infiltration protocol."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Approaching Rebel Base** &nbsp;|&nbsp; ⏳ **Standard Galactic Calendar 25, 3 ABY (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Force-User (Jedi) | HP: 37/37 (Temp: 0) | XP: 7400/14000 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Points: 5/5, Force Slots: L1 4/4, L2 3/3, L3 3/3, Force Healing Pool: 25/25, Purity of Hatred** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8538,8 +8935,11 @@ From across the vastness, the pervasive, heavy presence of Darth Vader resonated
 > 👤 **Player:**
 > *"1. **Proceed with landing:** Guide Roric Vane to bring the transport in."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Rebel Base, Hangar Bay One** &nbsp;|&nbsp; ⏳ **Standard Galactic Calendar 25, 3 ABY (12:48)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Force-User (Jedi) | HP: 37/37 (Temp: 0) | XP: 7400/14000 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Points: 5/5, Force Slots: L1 4/4, L2 3/3, L3 3/3, Force Healing Pool: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No | Potions: 0**
@@ -8553,8 +8953,11 @@ From across the vastness, the pervasive, heavy presence of **Darth Vader** reson
 > 👤 **Player:**
 > *"1. **Engage the Flight Commander:** Respond to his greeting and begin implementing your cover story."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Rebel Base, Hangar Bay One** &nbsp;|&nbsp; ⏳ **Standard Galactic Calendar 25, 3 ABY (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Force-User (Jedi) | HP: 37/37 (Temp: 0) | XP: 7400/14000 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Points: 5/5, Force Slots: L1 4/4, L2 3/3, L3 3/3, Force Healing Pool: 25/25, Purity of Hatred** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8570,8 +8973,11 @@ From across the vastness, the pervasive, heavy presence of **Darth Vader** reson
 > 👤 **Player:**
 > *"2. **Inquire about the base's current defenses:** Subtly probe for information to aid your sabotage."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Rebel Base, Hangar Bay One** &nbsp;|&nbsp; ⏳ **Standard Galactic Calendar 25, 3 ABY (13:03)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Force-User (Jedi) | HP: 37/37 (Temp: 0) | XP: 7400/14000 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Points: 5/5, Force Slots: L1 4/4, L2 3/3, L3 3/3, Force Healing Pool: 25/25, Purity of Hatred** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No | Potions: 0**
@@ -8591,8 +8997,11 @@ From across the vastness, the pervasive, heavy presence of Darth Vader resonated
 
 1.  **Suggest Diversion to the Ion Cannon:** I could express concern about the problematic ion cannon, advising the Commander to dedicate more personnel and resources to fixing it, even if it means pulling them from other seemingly less critical internal sectors. This would divert attention and potentially expose vital infrastructure as they struggle with its integration."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Rebel Base, Hangar Bay One** &nbsp;|&nbsp; ⏳ **Standard Galactic Calendar 25, 3 ABY (12:59)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Force-User (Jedi) | HP: 37/37 (Temp: 0) | XP: 7400/14000 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Points: 5/5, Force Slots: L1 4/4, L2 3/3, L3 3/3, Force Healing Pool: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8612,8 +9021,11 @@ From across the vastness, the pervasive, heavy presence of Darth Vader resonated
 > 👤 **Player:**
 > *"1. **Proceed to Medbay/Debriefing:** Follow the Flight Commander's lead to maintain your cover."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Rebel Base, Medbay Corridor** &nbsp;|&nbsp; ⏳ **Standard Galactic Calendar 25, 3 ABY (12:48)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Force-User (Jedi) | HP: 37/37 (Temp: 0) | XP: 7400/14000 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Points: 5/5, Force Slots: L1 4/4, L2 3/3, L3 3/3, Force Healing Pool: 25/25, Purity of Hatred** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8625,6 +9037,8 @@ Luke offered a weary nod, allowing a controlled wave of fatigue to emanate from 
 They moved from the bustling hangar into a less active corridor, the air growing slightly less acrid with fuel, replaced by the sterile scent of medical supplies. Rebel technicians and pilots hurried past, their faces etched with the weariness of a prolonged war. Some offered quick, sympathetic glances to Luke, seeing their wounded hero. He absorbed their misplaced trust, a cold, calculated pleasure in his deception.
 
 From across the vastness, the pervasive, heavy presence of **Darth Vader** resonated through their twisted bond—a complex wave of powerful, possessive pride that affirmed Luke’s chilling cunning. Back at the Imperial Installation, Jedi Master **Anya Secura** waited, her violet eyes fixed on holographic projections, ready for the final launch signal. Among those projections, Luke could almost pinpoint the command vessel, knowing Jedi Master **Lyra Shan** would be aboard, perhaps even now meditating on their precarious hope. Lyra, a bastion of the light, unknowingly sailing towards her doom. The trap was set. He was the bait, and the blade.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

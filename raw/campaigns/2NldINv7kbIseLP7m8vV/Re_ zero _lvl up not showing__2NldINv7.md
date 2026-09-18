@@ -12,60 +12,76 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (39 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Natsumi | Setting: Re:zero anime follow the lore. I wanna be the main character but make me female
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Character Creation | Initializing... | Roleplay |
-| **02** | Unknown (Summoning Void) | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **03** | The Void Between Worlds | Month 1, Year 1 (Day 1) | Roleplay |
-| **04** | Capital of Lugnica (Appa Stand) | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **05** | Capital of Lugnica - Central Plaza | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **06** | Capital of Lugnica - Back Alleys | Month 4, Year 1 (Day 1) | Roleplay |
-| **07** | Capital of Lugnica - Back Alleys | Lugnica Era, Midday (12:00:00) | Roleplay |
-| **08** | Capital of Lugnica - Back Alleys | Midday (12:00:00) | Roleplay |
-| **09** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:05) | Roleplay |
-| **10** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:06) | Roleplay |
-| **11** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:11) | Roleplay |
-| **12** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:15) | Social Challenge |
-| **13** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
-| **14** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
-| **15** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
-| **16** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
-| **17** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
-| **18** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
-| **19** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:35) | Roleplay |
-| **20** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:35) | Roleplay |
-| **21** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:40) | Roleplay |
-| **22** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:45) | Social Challenge |
-| **23** | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:55) | Roleplay |
-| **24** | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:10) | Roleplay |
-| **25** | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:12) | Roleplay |
-| **26** | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:15) | Social Challenge |
-| **27** | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:25) | Roleplay |
-| **28** | The Slums - Old Man Rom's Loot House |  | Roleplay |
-| **29** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:55) | Social Challenge |
-| **30** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:56) | Roleplay |
-| **31** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:56) | Roleplay |
-| **32** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
-| **33** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
-| **34** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
-| **35** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
-| **36** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Social Challenge |
-| **37** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
-| **38** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (14:00) | Boss Surrender |
-| **39** | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (14:05) | Roleplay |
+| [**Scene 01**](#scene-1) | Character Creation | Initializing... | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown (Summoning Void) | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 03**](#scene-3) | The Void Between Worlds | Month 1, Year 1 (Day 1) | Roleplay |
+| [**Scene 04**](#scene-4) | Capital of Lugnica (Appa Stand) | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Capital of Lugnica - Central Plaza | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Capital of Lugnica - Back Alleys | Month 4, Year 1 (Day 1) | Roleplay |
+| [**Scene 07**](#scene-7) | Capital of Lugnica - Back Alleys | Lugnica Era, Midday (12:00:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Capital of Lugnica - Back Alleys | Midday (12:00:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:05) | Roleplay |
+| [**Scene 10**](#scene-10) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:06) | Roleplay |
+| [**Scene 11**](#scene-11) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:11) | Roleplay |
+| [**Scene 12**](#scene-12) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:15) | Social Challenge |
+| [**Scene 13**](#scene-13) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
+| [**Scene 14**](#scene-14) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
+| [**Scene 15**](#scene-15) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
+| [**Scene 16**](#scene-16) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
+| [**Scene 17**](#scene-17) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
+| [**Scene 18**](#scene-18) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:20) | Roleplay |
+| [**Scene 19**](#scene-19) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:35) | Roleplay |
+| [**Scene 20**](#scene-20) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:35) | Roleplay |
+| [**Scene 21**](#scene-21) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:40) | Roleplay |
+| [**Scene 22**](#scene-22) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:45) | Social Challenge |
+| [**Scene 23**](#scene-23) | Capital of Lugnica - Back Alleys | Mirtul 10, 1492 DR (12:55) | Roleplay |
+| [**Scene 24**](#scene-24) | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:10) | Roleplay |
+| [**Scene 25**](#scene-25) | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:12) | Roleplay |
+| [**Scene 26**](#scene-26) | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:15) | Social Challenge |
+| [**Scene 27**](#scene-27) | Capital of Lugnica - Central Market Square | Mirtul 10, 1492 DR (13:25) | Roleplay |
+| [**Scene 28**](#scene-28) | The Slums - Old Man Rom's Loot House |  | Roleplay |
+| [**Scene 29**](#scene-29) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:55) | Social Challenge |
+| [**Scene 30**](#scene-30) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:56) | Roleplay |
+| [**Scene 31**](#scene-31) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:56) | Roleplay |
+| [**Scene 32**](#scene-32) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
+| [**Scene 33**](#scene-33) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
+| [**Scene 34**](#scene-34) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
+| [**Scene 35**](#scene-35) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
+| [**Scene 36**](#scene-36) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Social Challenge |
+| [**Scene 37**](#scene-37) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (13:58) | Roleplay |
+| [**Scene 38**](#scene-38) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (14:00) | Boss Surrender |
+| [**Scene 39**](#scene-39) | The Slums - Old Man Rom's Loot House | Mirtul 10, 1492 DR (14:05) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Initializing...** &nbsp;|&nbsp; 🛡️ **Natsumi | Level 1 | Initializing State**
@@ -93,8 +109,11 @@ How would you like to build Natsumi?
 > 👤 **Player:**
 > *"So generated warlock hybrid and give me permanent foresight and maybe some special abilities. Also I won’t go through the royal selection it will be Emilia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Unknown (Summoning Void)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 110gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -130,8 +149,11 @@ Does this character meet your approval, Natsumi? Or shall we adjust the shadows 
 > 👤 **Player:**
 > *"I want the real level 9 foresight always on and give me even stats and prioritize cha dex con"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Void Between Worlds** &nbsp;|&nbsp; ⏳ **Month 1, Year 1 (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 110gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 1/1 | Exhaustion: 0**
@@ -159,8 +181,11 @@ With the Witch's eyes watching over you and the loops of fate at your fingertips
 > 👤 **Player:**
 > *"8 str and 16 dex and give me 14 int. Give me 0 gold to start since I was transported here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Capital of Lugnica (Appa Stand)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/1, Cantrips: At-Will, Gold: 0** &nbsp;|&nbsp; ⚠️ **True Foresight (Active) | Inspiration: No**
@@ -188,8 +213,11 @@ Is this the fated version of yourself that will stand beside Emilia?
 > 👤 **Player:**
 > *"Start gane"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Capital of Lugnica - Central Plaza** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/1, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **True Foresight | Exhaustion: 0 | Inspiration: No**
@@ -212,8 +240,11 @@ To your left, a merchant shouts about his fruit. To your right, a narrow alleywa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for the 'Silver-Haired Girl' - Use your meta-knowledge and foresight to proactively locate the primary candidate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Month 4, Year 1 (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 100/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/1, Cantrips: 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **True Foresight (Active) | Inspiration: No**
@@ -229,8 +260,11 @@ While others simply stare at the 'Half-Elf' with a mixture of fear and prejudice
 God Mode:
 Make char creation finished
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Lugnica Era, Midday (12:00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 100/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/1, Cantrips: Unlimited, Gold: 0gp** &nbsp;|&nbsp; ⚠️ **True Foresight (Always On) | Inspiration: No**
@@ -246,8 +280,11 @@ Puck narrows his eyes at you, his spiritual senses likely picking up on the 'Sce
 God Mode:
 Let’s make me extremely beautiful and most male or female characters I can reduce and give me proficient all cha based social skills
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Midday (12:00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 100/300** &nbsp;|&nbsp; ⚠️ **True Foresight (Active) | Inspiration: No**
@@ -264,8 +301,11 @@ The world remains frozen. Return to story mode to see the effects of your new pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Unseen Hand to Block Escape - Manifest your invisible spectral hand to push a crate or obstacle in the far distance to stall the thief while you talk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 200/300** &nbsp;|&nbsp; ✨ **Slots: L1 1/1, Unseen Hand: At-will, Foresight: Passive** &nbsp;|&nbsp; ⚠️ **True Foresight (Active), Transcendent Beauty (Active) | Inspiration: No**
@@ -283,8 +323,11 @@ Puck (Lvl 5), the grey cat-spirit, floats closer to your face, his emerald eyes 
 > 👤 **Player:**
 > *"Pursue thief use the spectral hand to hold her in place"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:06)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 200/300** &nbsp;|&nbsp; ✨ **Spell Slots: L1 1/1, Unseen Hand: Active, Foresight: Permanent** &nbsp;|&nbsp; ⚠️ **True Foresight (Active) | Unnatural Allure (Active)**
@@ -302,8 +345,11 @@ Puck floats between you and Emilia, his emerald eyes fixed on the empty space wh
 > 👤 **Player:**
 > *"Retrieve and return then disarm puck"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:11)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 245/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/1, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -334,8 +380,11 @@ You gain **45 XP** for recovering the stolen insignia and resolving the initial 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Show Vulnerability - Admit to the 'curse' of the scent and explain that you were brought here with nothing, seeking only a purpose in this new world.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion | HP: 11/11 | Gold: 0gp | XP: 280/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/1, Cantrips: Unlimited, Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -364,8 +413,11 @@ You gain **35 XP** for successfully navigating Puck's initial hostility and earn
 > 👤 **Player:**
 > *"Explain to felt that her client is fangerous and is the bowel hunter. Explain I can see the future sometimes. Say some things only felt would know. Let’s assume most situations I’ve already scouted out and died"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion (Lvl 2 available) | HP: 11/11 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **Slots: L1 1/1, HD: 1/1, Mage Hand: At-will** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Inspiration: No**
@@ -400,8 +452,11 @@ You gain **40 XP** for using prophetic meta-knowledge to reveal the Bowel Hunter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - The stress of the timeline and the manifestation of your power triggers a growth in your Shadow Scion essence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion (Lvl 2 available) | HP: 11/11 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -415,8 +470,11 @@ Active gameplay is paused until level-up is finalized. Review the recommended pa
 > 👤 **Player:**
 > *"I wanna follow a hexblade build tailored to my class"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion (Lvl 2 available) | HP: 11/11 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/1, Mana: 2/2, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -430,8 +488,11 @@ Active gameplay is paused. I have updated the recommended package to prioritize 
 > 👤 **Player:**
 > *"Let’s give me all the hexblade features from the base class too and auto pick these"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Shadow Scion (Lvl 2 available) | HP: 11/11 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Unseen Hand: At Will | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **True Foresight (Always On) | Inspiration: No**
@@ -449,8 +510,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion (Warlock) | HP: 18/18 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Invocations: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -468,8 +532,11 @@ Puck sighs, the frost on his paws receding just slightly, though he doesn't leav
 God Mode:
 Make Emilia level 5 in the show she can fight and stuff and doesn’t seem level 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 320/900**
@@ -484,8 +551,11 @@ Administrative Summary: NPC 'Emilia' has been updated to Level 5 to accurately r
 > 👤 **Player:**
 > *"Ask Emilia to hire me as her knight. Explain I have no money and need food shelter since just transported here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Pacts: Hexblade's Curse 1/1, False Life (At Will)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -515,8 +585,11 @@ Felt (Lvl 2), still pinned by your Unseen Hand, scoffs at the drama. "If you lot
 God Mode:
 Wait I don’t think it should be DC 20 I just got her insignia back?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion (Warlock) | HP: 18/18 | XP: 320/900** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -538,8 +611,11 @@ This represents a 'Medium' challenge. Puck is still wary, but your actions and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Emilia and Puck with the adjusted Social DC.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Hexblade's Curse: 1/1 | False Life (Fiendish Vigor): At Will** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -566,8 +642,11 @@ You feel the vibrations of the timeline. Your foresight reveals a dark violet sh
 > 👤 **Player:**
 > *"Propose trial service and then release felt interrogation. Say maybe not a knight but a retainer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 320/900** &nbsp;|&nbsp; ✨ **Slots: L1 2/2, HD: 2/2, Hexblade's Curse: 1/1** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -594,8 +673,11 @@ Puck (Lvl 5) hovers in place, the icy blue light in his paws dimming to a dull f
 > 👤 **Player:**
 > *"Say we should find a knight to help us. Go find reinhard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Capital of Lugnica - Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 370/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Agonizing Blast, Fiendish Vigor | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -624,8 +706,11 @@ You gain **50 XP** for successfully persuading Puck and Emilia to seek the Sword
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search the Market Square - Head toward the bustling market where Reinhard is known to patrol.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Capital of Lugnica - Central Market Square** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 370/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | False Life: At Will | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -649,8 +734,11 @@ Your foresight flickers. You haven't found Reinhard yet, and these three are sta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Call for Help (Strategic) - Shout for a knight's assistance, hoping Reinhard's sense of justice brings him directly to you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Capital of Lugnica - Central Market Square** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 430/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spell Slots: L1 2/2, Hexblade's Curse: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **True Foresight (Advantage), Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -676,8 +764,11 @@ You gain **60 XP** for strategically summoning the Sword Saint to your location!
 > 👤 **Player:**
 > *"Request escort Emilia and explain fern is a candidate too and prove it by letting her hold insignia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Capital of Lugnica - Central Market Square** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 540/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Invocations: Agonizing Blast, Fiendish Vigor** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -707,8 +798,11 @@ You gain **110 XP** for revealing a Royal Candidate and securing the Sword Saint
 > 👤 **Player:**
 > *"Brief Reinhardt and explain I don’t know why but I can see the future and u wanna make sure the two candidates don’t die"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Capital of Lugnica - Central Market Square** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 590/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Hexblade's Curse: 1/1 | False Life: At Will** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -730,8 +824,11 @@ You gain **50 XP** for briefing Reinhard on Elsa's abilities and securing his co
 > 👤 **Player:**
 > *"Scout unseen hand, go to the shop, stealth there and ask riemhart to disguise himself and everyone disguise so Elsa doesn’t see. Then enter show and prepare perfect Ambush with my foresight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 650/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Slots: L1 2/2 | Invocations: Agonizing Blast, Fiendish Vigor | Active: True Foresight**
@@ -751,8 +848,11 @@ There—perched on the edge of the jagged shingles like a black raven—you see 
 > 👤 **Player:**
 > *"Scout unseen hand, go to the shop, stealth there and ask riemhart to disguise himself and everyone disguise so Elsa doesn’t see. Then enter show and prepare perfect Ambush with my foresight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 640/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0**
@@ -779,8 +879,11 @@ From the rafters above, a woman in black silk descends like a falling shadow. El
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order Reinhard to Intercept - Unleash the Sword Saint directly against Elsa to pin her down while you secure the others.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:56)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 | Gold: 0gp | XP: 640/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Hexblade's Curse: 1/1 | False Life: At Will** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -806,8 +909,11 @@ Emilia (Lvl 5) has already begun to chant, the air temperature in the Loot House
 > 👤 **Player:**
 > *"Hex curse, assume I already had armor agatyhs up, tell puck and eveyone to cc her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:56)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 640/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/2 | Temp HP: 5 | Armor of Agathys: Active** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -827,8 +933,11 @@ Elsa staggers, her maniacal grin widening even as blood trickles from her wounds
 > 👤 **Player:**
 > *"Unseen hand grapple with  bonus action then eldritch blast. Ensure others focus fire her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 640/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/2 | Hexblade's Curse: 0/1 | Armor of Agathys: Active** &nbsp;|&nbsp; ⚠️ **True Foresight, Armor of Agathys | Exhaustion: 0 | Inspiration: No**
@@ -867,8 +976,11 @@ YOUR TURN - ACTIONS REMAINING:
 God Mode:
 Reinhart is level 20 should he be stronger?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 640/900**
@@ -886,8 +998,11 @@ Reinhard van Astrea, the Sword Saint, is the pinnacle of power in Lugnica. While
 God Mode:
 Shouldn’t he deal more damage ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 640/900** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Inspiration: No**
@@ -904,8 +1019,11 @@ Administrative Summary: Reinhard van Astrea's damage parameters have been update
 God Mode:
 Wait make him a realistic level 20 per d&d
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 640/900**
@@ -926,8 +1044,11 @@ Administrative Summary: Reinhard van Astrea has been reset to a realistic D&D 5e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the combat with Elsa using the recalibrated Reinhard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 640/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/2 | Unseen Hand: Active | Hexblade's Curse: npc_elsa_001** &nbsp;|&nbsp; ⚠️ **True Foresight, Mask of Many Faces | Exhaustion: 0 | Inspiration: No**
@@ -956,8 +1077,11 @@ From the rafters, Puck (Lvl 5) begins to gather a sphere of absolute zero, his f
 > 👤 **Player:**
 > *"maintain grip, blast, tell evryone to focus fire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 640/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Hexblade's Curse: Used, Armor of Agathys: Active** &nbsp;|&nbsp; ⚠️ **True Foresight, Hex Warrior | Exhaustion: 0 | Inspiration: No**
@@ -998,8 +1122,11 @@ YOUR TURN - ACTIONS REMAINING:
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mercy of the Abyss - Unleash one last Eldritch Blast point-blank into Elsa's heart to end her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 120 crowns | XP: 820/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Eldritch Blast: At Will, Unseen Hand: Active** &nbsp;|&nbsp; ⚠️ **True Foresight, Unnatural Allure | Exhaustion: 0 | Inspiration: No**
@@ -1038,8 +1165,11 @@ You gain **180 XP** for the decisive victory over the Bowel Hunter!
 > 👤 **Player:**
 > *"check for more loot and see if i can secretly use warlock powers to consume her soul or do something to benefit even more but try to hide it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Slums - Old Man Rom's Loot House** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Shadow Scion | HP: 18/18 (Temp: 5) | Gold: 0gp | XP: 1000/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1057,6 +1187,8 @@ Reinhard's head turns instantly, his blue eyes taking in your outstretched hand 
 Emilia looks at you, her expression one of confusion mixed with lingering trust. "Natsumi? Are you alright? You look... pale." 
 
 Felt, clutching her insignia, kicks a pile of debris nearby. "Forget the blood! Look, the crazy lady dropped a pouch!" She pulls a small, silk purse from beneath a shattered chair—likely the payment intended for the deal. It contains a handful of **Holy Gold Coins (25gp)** and a **Small Sapphire**.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

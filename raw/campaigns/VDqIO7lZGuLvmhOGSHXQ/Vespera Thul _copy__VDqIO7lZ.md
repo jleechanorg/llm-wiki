@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (62 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
@@ -165,78 +176,83 @@ How do you proceed, Commander?
 **Word Count:** 2154 words
 **Estimated Token Count:** 2720 tokens
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Surmarsh | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **02** | Character Creation | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **03** | Surmarsh - Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **04** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **05** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **06** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **07** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **08** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **09** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **10** | Abandoned Temple of Myrkul |  | Roleplay |
-| **11** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **12** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Social Challenge |
-| **13** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Roleplay |
-| **14** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:07) | Boss Surrender |
-| **15** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:07) | Roleplay |
-| **16** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **17** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:17) | Social Challenge |
-| **18** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:22) | Social Challenge |
-| **19** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:22) | Roleplay |
-| **20** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:25) | Social Challenge |
-| **21** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:30) | Roleplay |
-| **22** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Boss Surrender |
-| **23** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Roleplay |
-| **24** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Roleplay |
-| **25** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Roleplay |
-| **26** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:00) | Roleplay |
-| **27** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:05) | Roleplay |
-| **28** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:10) | Boss Surrender |
-| **29** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:40) | Boss Surrender |
-| **30** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **31** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **32** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **33** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **34** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **35** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **36** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **37** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **38** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **39** | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
-| **40** | Oakhaven Village | Kythorn 25, 1495 DR (08:30) | Social Challenge |
-| **41** | Oakhaven Village - Northern Watchtower | Kythorn 25, 1495 DR (23:30) | Roleplay |
-| **42** | Oakhaven Village - Square | Kythorn 25, 1495 DR (23:35) | Boss Surrender |
-| **43** | Oakhaven Village - Square | Kythorn 26, 1495 DR (00:35) | Boss Surrender |
-| **44** | Oakhaven Village - Square | Kythorn 27, 1495 DR (00:45) | Boss Surrender |
-| **45** | Oakhaven Smithy - Killzone | Kythorn 28, 1495 DR (22:00) | Roleplay |
-| **46** | Oakhaven Smithy - Killzone | Kythorn 29, 1495 DR (22:00) | Roleplay |
-| **47** | Oakhaven Smithy | Kythorn 29, 1495 DR (22:15) | Social Challenge |
-| **48** | Oakhaven Smithy | Kythorn 29, 1495 DR (22:20) | Roleplay |
-| **49** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (08:00) | Roleplay |
-| **50** | Crossroad Guild-Hall | Kythorn 30, 1492 DR (08:00) | Roleplay |
-| **51** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (08:00) | Roleplay |
-| **52** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:00) | Roleplay |
-| **53** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Social Challenge |
-| **54** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Roleplay |
-| **55** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Social Challenge |
-| **56** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:16) | Boss Surrender |
-| **57** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:20) | Roleplay |
-| **58** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:20) | Social Challenge |
-| **59** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:25) | Social Challenge |
-| **60** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (11:30) | Roleplay |
-| **61** | Iron Crag Perimeter | Kythorn 30, 1495 DR (22:30) | Roleplay |
-| **62** | Iron Crag Perimeter - The Black Pillar | Kythorn 31, 1495 DR (22:30) | Roleplay |
+| [**Scene 01**](#scene-1) | The Surmarsh | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Character Creation | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Surmarsh - Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Abandoned Temple of Myrkul |  | Roleplay |
+| [**Scene 11**](#scene-11) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Social Challenge |
+| [**Scene 13**](#scene-13) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Roleplay |
+| [**Scene 14**](#scene-14) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:07) | Boss Surrender |
+| [**Scene 15**](#scene-15) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:07) | Roleplay |
+| [**Scene 16**](#scene-16) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:17) | Social Challenge |
+| [**Scene 18**](#scene-18) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:22) | Social Challenge |
+| [**Scene 19**](#scene-19) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:22) | Roleplay |
+| [**Scene 20**](#scene-20) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:25) | Social Challenge |
+| [**Scene 21**](#scene-21) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:30) | Roleplay |
+| [**Scene 22**](#scene-22) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Boss Surrender |
+| [**Scene 23**](#scene-23) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Roleplay |
+| [**Scene 24**](#scene-24) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Roleplay |
+| [**Scene 25**](#scene-25) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:40) | Roleplay |
+| [**Scene 26**](#scene-26) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:00) | Roleplay |
+| [**Scene 27**](#scene-27) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:05) | Roleplay |
+| [**Scene 28**](#scene-28) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:10) | Boss Surrender |
+| [**Scene 29**](#scene-29) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (10:40) | Boss Surrender |
+| [**Scene 30**](#scene-30) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 31**](#scene-31) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 32**](#scene-32) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 34**](#scene-34) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 35**](#scene-35) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 39**](#scene-39) | Outskirts of Oakhaven | Kythorn 25, 1495 DR (08:00) | Roleplay |
+| [**Scene 40**](#scene-40) | Oakhaven Village | Kythorn 25, 1495 DR (08:30) | Social Challenge |
+| [**Scene 41**](#scene-41) | Oakhaven Village - Northern Watchtower | Kythorn 25, 1495 DR (23:30) | Roleplay |
+| [**Scene 42**](#scene-42) | Oakhaven Village - Square | Kythorn 25, 1495 DR (23:35) | Boss Surrender |
+| [**Scene 43**](#scene-43) | Oakhaven Village - Square | Kythorn 26, 1495 DR (00:35) | Boss Surrender |
+| [**Scene 44**](#scene-44) | Oakhaven Village - Square | Kythorn 27, 1495 DR (00:45) | Boss Surrender |
+| [**Scene 45**](#scene-45) | Oakhaven Smithy - Killzone | Kythorn 28, 1495 DR (22:00) | Roleplay |
+| [**Scene 46**](#scene-46) | Oakhaven Smithy - Killzone | Kythorn 29, 1495 DR (22:00) | Roleplay |
+| [**Scene 47**](#scene-47) | Oakhaven Smithy | Kythorn 29, 1495 DR (22:15) | Social Challenge |
+| [**Scene 48**](#scene-48) | Oakhaven Smithy | Kythorn 29, 1495 DR (22:20) | Roleplay |
+| [**Scene 49**](#scene-49) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (08:00) | Roleplay |
+| [**Scene 50**](#scene-50) | Crossroad Guild-Hall | Kythorn 30, 1492 DR (08:00) | Roleplay |
+| [**Scene 51**](#scene-51) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (08:00) | Roleplay |
+| [**Scene 52**](#scene-52) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Social Challenge |
+| [**Scene 54**](#scene-54) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Roleplay |
+| [**Scene 55**](#scene-55) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Social Challenge |
+| [**Scene 56**](#scene-56) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:16) | Boss Surrender |
+| [**Scene 57**](#scene-57) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:20) | Roleplay |
+| [**Scene 58**](#scene-58) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:20) | Social Challenge |
+| [**Scene 59**](#scene-59) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:25) | Social Challenge |
+| [**Scene 60**](#scene-60) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (11:30) | Roleplay |
+| [**Scene 61**](#scene-61) | Iron Crag Perimeter | Kythorn 30, 1495 DR (22:30) | Roleplay |
+| [**Scene 62**](#scene-62) | Iron Crag Perimeter - The Black Pillar | Kythorn 31, 1495 DR (22:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Vanguard | HP: 44/44 | Gold: 15,000gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Sovereignty: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -260,8 +276,11 @@ Commander Thul, your strategic profile is complete. You stand as a frighteningly
 > 👤 **Player:**
 > *"Change names and give me normal amount of food and reasonable gear and make em a custom paladin class that’s more stealthy with medium armor and assassinate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25**
@@ -279,8 +298,11 @@ Your hoard of platinum has been redistributed into your syndicate's operational 
 > 👤 **Player:**
 > *"Make me a dex focused paladin and actually change me to a woman Vespera"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Surmarsh - Abandoned Temple of Myrkul** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -298,8 +320,11 @@ Does this lethal new profile meet your approval, Sovereign?
 > 👤 **Player:**
 > *"Make me level 5 and give me asi cha +2 and give me some pathfinder leveling progression and stats and mythic powers. Show me progression up to level 30"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Sovereign Decree: 1/1 | Mythic Power: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -325,8 +350,11 @@ Does this Mythic profile meet your requirements, Sovereign?
 > 👤 **Player:**
 > *"Make my first goal to become a baron and assume there’s some land up for grabs near thay if someone kills a bandit lord. Blend in elements pathfinder kingmaker. Make me a paladin on malacharet or whomever the succubus goddess is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Power: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -349,8 +377,11 @@ Is the foundation of your Kingdom ready to be laid in blood, Sovereign?
 > 👤 **Player:**
 > *"Show me level 1-30 progression with a seduction and domination flavor to the class"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Power: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -433,8 +464,11 @@ Generate the following sections in high detail:
 * **The Hook:** The immediate problem or opportunity facing the protagonist.
 * **The Action:** The first decision point. Provide an A/B/C choice that allows the player to demonstrate their authority immediately."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Surge: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -623,8 +657,11 @@ Template Metadata
 Word Count: 1,029 words
 Estimated Token Count: ~1,390 tokens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Mythic Surge: 5/5 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -640,8 +677,11 @@ Your character roster is now fully integrated into the Campaign Bible. Do you wi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review Roster Details - Examine the psychological and mechanical profiles of your allies and enemies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Mythic Power: 5/5 | Lay on Hands: 25/25 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -666,8 +706,11 @@ Does this intelligence meet your standard, or shall we adjust the profiles furth
 > 👤 **Player:**
 > *"Show me personalities of all 20 characters and describe all the factions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000**
@@ -708,8 +751,11 @@ Commander Vespera, the strategic landscape of Thay has been mapped with clinical
 > 👤 **Player:**
 > *"Start campaign and let’s assume I need to do some mercenary missions to establish myself with the mercenary guild before I am eligible to try to beat bandit lord. First mission is to conquer and enslave some remote villages near baldurs gate since thay wants slaves and resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Surge: 5/5 | Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -725,8 +771,11 @@ Your recent instructions from the Mercenary Guild were clear: your eligibility f
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Cold Leverage - Step forward and use your Abyssal presence to break Varon. Present the documents of his house's illegal dealings and force a blood-oath of fealty before his allies arrive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Abandoned Temple of Myrkul** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Mythic: 5/5, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -749,8 +798,11 @@ Varon’s gravelly defiance falters. His breathing hitches as the weight of your
 God Mode:
 Let’s have me be extremely good looking
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Mythic Power: 5/5 | Lay on Hands: 25/25 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -800,8 +852,11 @@ Does this Campaign Bible meet your approval, Sovereign? Master Varon is waiting 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize the Blood-Oath - Demand he sign the pact immediately, binding his life and alchemical secrets to your service.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Power: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -826,8 +881,11 @@ Malakor stiffens, his head tilting toward the heavy oak doors. "They are here. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:07)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Sovereign Decree: 1/1 | Mythic Power: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -843,8 +901,11 @@ You adjust the obsidian ring on your finger, feeling the surge of Mythic power t
 God Mode:
 Character creation is finished fix the flags and game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000**
@@ -861,8 +922,11 @@ You are now ready to resume the story and handle the House Murkh recovery squad 
 > 👤 **Player:**
 > *"Prep ambush, cold parley, have varon explain he’s signed blood oath and recommend they join me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 7250/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Power: 5/5** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence, Mythic Surge | Exhaustion: 0 | Inspiration: No**
@@ -905,8 +969,11 @@ The Sergeant's grip on his sword pommel whitens. He looks at his men, then back 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Sovereign's Protection - Assure Kray that your syndicate can shield their families from House Murkh's reach, turning their fear into loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 7250/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Surge: 4/5 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -930,8 +997,11 @@ Kray’s shield hand drops an inch. He looks at Varon, whose glassy eyes confirm
 God Mode:
 What is myrhicnsurge let’s remove it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 7250/14000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -949,8 +1019,11 @@ Note: Your Mythic Tier 1 status remains active for narrative and progression pur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the parley with Sergeant Kray in the temple ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 7450/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Sovereign's Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -988,8 +1061,11 @@ Behind you, Malakor the Silent (Lvl 5) tenses in the shadows of the rafters. His
 > [!NOTE] ⚙️ **Player Choice:**
 > *Show the Treason Vouchers - Show Kray the specific vouchers proving his commanders were stealing from the House—proof that they are already dead in the eyes of Thay.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 7600/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1007,8 +1083,11 @@ Kray looks up, his gaze darting from the vouchers to your breathtaking, violet-e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify and Subjugate (Synergistic) - Order Malakor to 'prepare the welcome' for the next wave (setting traps) while you offer Kray the silver quill—showing them their first task as your new vanguard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 8350/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1037,8 +1116,11 @@ You gain 750 XP for the total defection of the Murkh Recovery Squad.
 > 👤 **Player:**
 > *"THINK:Can we actually beat a level 18? God mode note maybe reduce the level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 8350/14000** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence (Adv on Persuasion/Deception) | Exhaustion: 0 | Inspiration: No**
@@ -1048,8 +1130,11 @@ Intelligence Check: 12 vs DC 12 — Success. (INT 15) Your analytical mind calcu
 God Mode:
 Sovereign Retcon (God Mode) - Manually set the Inquisitor's level to 8 or 10. Narratively: Vane sent a junior apprentice instead of coming himself.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 8350/14000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1062,8 +1147,11 @@ Administrative Retcon Executed:
 > 👤 **Player:**
 > *"THINK:Make the best plan for the next squad. Want to ambush and surprise round them and use vane poison and ranged weapons and abilities first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 8350/14000** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence (Adv on CHA) | Inspiration: No**
@@ -1073,8 +1161,11 @@ You pause, your violet eyes narrowing as you calculate the arrival of the Junior
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Net (Synergistic Parallel) - Combine Traps + Deception. Malakor sets traps at the egress points, Kray acts as bait at the altar, and Selyse coats the floor in Varon's paralysis contact poison.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 8350/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Sovereign Decree: 1/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence (Adv on CHA) | Exhaustion: 0 | Inspiration: No**
@@ -1092,8 +1183,11 @@ Kray does not look up, but his fingers tighten on his shield. He is the centerpi
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Total Eclipse (Synergistic) - Vespera assassinate the Inquisitor while Malakor and the defectors execute the ranged volley—combining personal lethality with tactical suppression.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 9100/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Sovereign's Decree: 1/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1122,8 +1216,11 @@ Junior Inquisitor Valen: 85 → 25 HP
 > 👤 **Player:**
 > *"Cold interrogation then heart eater harvest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 9850/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Sovereign's Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1150,8 +1247,11 @@ You gain 750 XP for the execution of an elite Thayan Inquisitor.
 > 👤 **Player:**
 > *"Loot and indoctrinate and let’s assume no more waves for now. Also I should get some mechanical benefit for soul stealing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1,450gp | XP: 10600/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Sovereign Decree: 1/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Inquisitor's Insight (+1 Spell Save DC, 24h) | Exhaustion: 0 | Inspiration: No**
@@ -1190,8 +1290,11 @@ Selyse giggles, her arms full of stolen alchemical supplies. "The marsh is quiet
 > 👤 **Player:**
 > *"Retreat to our primary hideout, consolidate, then march to villages near baldurs gate to fulfill village contract and let’s slow down my exp gains"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Sovereign Decree: 1/1 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1207,8 +1310,11 @@ With over 500 troops now under your command between the Onyx Blades and your new
 God Mode:
 I shoukd get some mechanical benefit stealing souls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000**
@@ -1224,8 +1330,11 @@ Administrative Summary:
 God Mode:
 Why do I have 500 troops??
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000** &nbsp;|&nbsp; ⚠️ **Inquisitor's Insight (+1 DC/Insight) | Inspiration: No**
@@ -1242,8 +1351,11 @@ Your starting level (5) and 'Prodigy' archetype justify commanding a Tier 3 (Con
 God Mode:
 Make sure the soul steal unique souls are only from bosses or special characters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000** &nbsp;|&nbsp; ⚠️ **Inquisitor's Insight (+1 Spell DC/Insight)**
@@ -1259,8 +1371,11 @@ The character feature description has been updated and a persistent directive ha
 God Mode:
 Just give me 50 troops for now and some companions are level 5 and thane high level but the rest should be level 2-4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000**
@@ -1282,8 +1397,11 @@ Administrative Summary: Force strength and NPC levels have been recalibrated.
 God Mode:
 Let’s only have boss soul essence give me spell DC but normal creatures can give the other benefits. Let’s make a mechanic like the dread overlord bg3 mod if you know what that is
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000**
@@ -1305,8 +1423,11 @@ These mechanics have been added to your features and state tracking.
 God Mode:
 Dread overlord lets me soul steal to have a soul shield and other abilities with souls did you forget ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 1450gp | XP: 10750/14000** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence, Inquisitor's Insight | Exhaustion: 0**
@@ -1377,8 +1498,11 @@ Other Notable Mechanics:
 	•	Quest rewards: Potions of Immolation, totems, artifacts for extra powers/summons (Dracolich scythe, Focus of the Lich King artillery, etc.).36
 For the absolute latest/full details (including exact numbers, interactions, or changelog), check the mod page directly (Nexus or mod.io), as it receives updates. Builds often emphasize melee with summons, soul management, and items like the Bone Staff or Reaper’s Embrace. It’s highly customizable with other mods (5e Spells, Animate Dead++, etc.). Enjoy commanding the dead! 🪦
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1415,8 +1539,11 @@ I have recalibrated your 'Soul Harvest' and 'Dread Overlord' features to match t
 God Mode:
 Let’s remove psychic bonus from my weapon. Give me ranged weapon. Assume I always soul steal dead enemies unless there’s a good narrative resosnnnot to and extra manners and sensible buffs always used or enabled .
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000**
@@ -1434,8 +1561,11 @@ The world remains frozen as you oversee the approach to Oakhaven.
 God Mode:
 Make sure I have bonus nectroicndamage from melee and ranged weapons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Outskirts of Oakhaven** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker (Paladin) | HP: 44/44 | XP: 10750/14000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2 | Sovereign Decree: 1/1 | Lay On Hands Pool: 25/25**
@@ -1453,8 +1583,11 @@ Your weapons now thrum with the cold hunger of the Void, ready for the harvest a
 > 👤 **Player:**
 > *"Narrate oakhaven scenes I infiltrate and pose as a minor noble girl pretending to scout for merchant contracts for my other. Goal is to get intel on their defenses. I also pretend my father is selling mercenary protection so inssses military forces. Let’s assume villagers respect nobility but don’t assess me as a combat threat as I’m a 16 year old girl. I mask as level 1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Oakhaven Village** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 10750/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Essence: 1/9** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1478,8 +1611,11 @@ You gain **150 XP** for the successful infiltration and initial intelligence gat
 > 👤 **Player:**
 > *"Time skip and survey everything useful then plan an attack. At night we will just go assassinate all the warriors in their sleep after ambushing and surprise round on the guards. Assume I have invis spell and use it and open and try trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Oakhaven Village - Northern Watchtower** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 11050/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Lay on Hands: 25/25 | Essence: 0/9** &nbsp;|&nbsp; ⚠️ **Invisible (Concentration), Soul Shield (+0 AC) | Exhaustion: 0 | Inspiration: No**
@@ -1506,8 +1642,11 @@ Sergeant Harl (Lvl 3) emerges from the guardhouse across the way, lantern raised
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soul Surge Execute - Leap from the tower and execute Sergeant Harl personally to break the village's spirit instantly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Oakhaven Village - Square** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 11450/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/2, Essence: 0/9, Thralls: 0/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1534,8 +1673,11 @@ You rise slowly from the kill, your violet eyes cold and luminous in the dark. B
 > 👤 **Player:**
 > *"Initiate harvest, make sure record the loot I get and the loot we give guild. Going forward let’s assume the guild provides logistics services to transport slaves and loot efficiently so we don’t need to worry about it. Narrate and roll a few times to see what good food and gear and slaves we get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Oakhaven Village - Square** &nbsp;|&nbsp; ⏳ **Kythorn 26, 1495 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 2250gp | XP: 11600/14000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 1/2 | Essence: 2/9 | Thralls: 0/4 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1560,8 +1702,11 @@ Malakor walks the perimeter, his liquid shadow flickering in the moonlight as he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Interrogation of Bram - Force the Elder to reveal the location of the local militia's hidden armory or any ties to the Iron King.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Oakhaven Village - Square** &nbsp;|&nbsp; ⏳ **Kythorn 27, 1495 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 2250gp | XP: 11600/14000** &nbsp;|&nbsp; ✨ **L1 Spells: 4/4, L2 Spells: 1/2, Essence: 2/9, Gold: 2250gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1586,8 +1731,11 @@ You gain **100 XP** for the successful extraction of critical intelligence.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Raven's Welcome - Utilize the hidden armory to equip your new thralls and set a lethal ambush for Korg's arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Oakhaven Smithy - Killzone** &nbsp;|&nbsp; ⏳ **Kythorn 28, 1495 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 2250gp | XP: 11600/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 2/9 | Lay on Hands: 25/25 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Invisible | Essence: 2/9 | Thralls: 0/4**
@@ -1605,8 +1753,11 @@ He steps into the smithy, the threshold crossing Malakor's first trigger. You ad
 > 👤 **Player:**
 > *"Trigger surprise round with assassinate while invis. Going forward I will refer to this as surprise attack. Leave leader alive kill the rest. Total suppression once I open"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Oakhaven Smithy - Killzone** &nbsp;|&nbsp; ⏳ **Kythorn 29, 1495 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 2250gp | XP: 11600/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 2/9 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Invisible (Assassinate active), Sovereign Presence | Exhaustion: 0 | Inspiration: No**
@@ -1634,8 +1785,11 @@ Raven-Beast: 45 → 13 HP (Critically Wounded/Suppressed)
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Total Harvest (Synergistic) - Have Kaelen secure the perimeter while you interrogate Korg and Selyse harvests the outriders - cleaning the site while you break the target.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Kythorn 29, 1495 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 2250gp | XP: 11900/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 6/9 | Lay on Hands: 25/25 | AC: 17 (+3 Soul Shield)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1659,8 +1813,11 @@ Korg's jaw sets, his breath a ragged whistle of pain and defiance. "The King... 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Break the Spirit (Intimidation) - Describe in clinical detail the necrotic fate awaiting his soul if he dies with a lie on his lips.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Kythorn 29, 1495 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 2250gp | XP: 11975/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 6/9 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1686,8 +1843,11 @@ You gain **75 XP** for breaking the Raven's spirit (Paced & Slowed).
 > 👤 **Player:**
 > *"Final harvest korg. Finish harvesting town.  Frame the iron king . Establishbhidden  base.  Long rest. Go harvest  few more towns and enslave everyone the same way and roll for loot outcomes but assume we win. Then wait to see the local response. Try to find a larger town where the adventurers guild will hire adventures to kill iron king and infiltrate the party as a paladin of justice. Might need to prove myself since I’m 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Essence: 7/9 | Gold: 3,450gp | XP: 12500/14000** &nbsp;|&nbsp; ✨ **Essence: 7/9 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1711,8 +1871,11 @@ You offer a razor-thin smile. It is time to play the hero. You shed your black-e
 God Mode:
 Assume I have black hair with silver streaks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 12500/14000** &nbsp;|&nbsp; ⚠️ **Soul Shield (+3 AC) | Exhaustion: 0 | Inspiration: No**
@@ -1722,8 +1885,11 @@ Administrative Summary: Character appearance update processed. Vespera Thul's ha
 God Mode:
 How will the barony work if I kill iron king but the lands near baldurs gate? Maybe that wants to establish a base so the goal is I can pretend I am not loyal to thay but secretly act as a forward base and get a cut of all the trade and slaves?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker (Paladin) | HP: 44/44 | XP: 12500/14000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/2 | Sovereign Decree: 1/1 | Lay On Hands Pool: 25/25**
@@ -1747,8 +1913,11 @@ To align with your goal of subverting the Thayan throne while operating a forwar
 > 👤 **Player:**
 > *"Narrate a scene without me. The leaders of a medium sized town near baldurs gate decide it’s time to take out the iron king and authorize the bounty and say whomever can bring order to the area they may appoint a new baron. Adventurers need to apply and register for the bounty and pass interview to be eligible potential baron"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3,450gp | XP: 12500/14000** &nbsp;|&nbsp; ✨ **Essence: 7/9 | Slots: L1 4/4, L2 1/2 | Lay on Hands: 25/25 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of Justice, Soul Shield (+3 AC)**
@@ -1770,8 +1939,11 @@ Below, in the silver-streaked shadows of the hall, you watch as the first few br
 > 👤 **Player:**
 > *"Enter guild hall by myself and look for strongest party I can find and ask to joins. Explain despite my youth I am a paladin level 5 and a I am a noble bastard daughter so likely to get the title and be able to provide the party residuals for 5 years from my holdings if we win"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3,450gp | XP: 12500/14000** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4, L2 1/2 | Essence: 7/9 | Lay on Hands: 25/25 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1 Paladin), Sovereign's Presence (Adv) | Exhaustion: 0 | Inspiration: No**
@@ -1797,8 +1969,11 @@ The hall goes silent. Grendel looks at you, then at Guildmaster Thorne on the ba
 God Mode:
 Assume I have medium armor mail good for stealth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 12500/14000** &nbsp;|&nbsp; ⚠️ **Soul Shield (+3 AC) | Exhaustion: 0 | Inspiration: No**
@@ -1814,8 +1989,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Radiant Proof - Invoke a 'sanctified' version of your power (Guidance/Thaumaturgy) to manifest a divine aura, proving your Paladin rank through visual awe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 12500/14000** &nbsp;|&nbsp; ✨ **L1 Spells: 4/4, L2 Spells: 1/2, Lay on Hands: 25/25, Essence: 7/9** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1847,8 +2025,11 @@ News trickles in through the heavy doors—a merchant caravan from the north arr
 > 👤 **Player:**
 > *"Intimidate Jared and explain exactly how I’d best him and all his openings. Assume I can use a combined cha and int modifier for this roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:16)** &nbsp;|&nbsp; 🛡️ **Vespera Thul (Lvl 5 Paladin) | HP: 44/44 | Gold: 3,450gp | XP: 12600/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Lay on Hands: 25/25 | Essence: 6/9** &nbsp;|&nbsp; ⚠️ **Mask of Justice, Soul Shield (+3 AC) | Essence: 6/9 | Inspiration: No**
@@ -1876,8 +2057,11 @@ You gain **100 XP** for the tactical intimidation and suppression of the guild c
 > 👤 **Player:**
 > *"Address iron bound. Say I don’t need to be a commander but if I join and help im the most likely to get the title. Then prove it by bringing Thorne to meet with the guider. Assume the guild master is a noble and since I am actually a real noble it should be easy to show I am one by my knowledge and mannerisms and should be low DC roll for him to register me as a baron candidate. Let’s assume other parties can register for bounty but only nobles or strong leader types get approved for baron"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3,450gp | XP: 12700/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 6/9 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence, Soul Shield (+3 AC), Polite Mask | Exhaustion: 0 | Inspiration: No**
@@ -1899,8 +2083,11 @@ You gain **100 XP** for successfully proving your noble legitimacy and securing 
 > 👤 **Player:**
 > *"Plan how to get iron king and scout rivals and secretly signal my troops to scout rivals and iron king too. We will try to let the rivals attack first and be used as fodder then adventurer party second layer fodder as needed then final strike with my real forces at the end"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 12850/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 6/9 | Thralls: 0/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1925,8 +2112,11 @@ You gain **150 XP** for the successful tactical assessment and initiation of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Gambit (Synergistic Parallel) - Publicly delegate the front-line planning to Grendel while privately using Seductive Presence on Thorne to secure the maps—different targets, one goal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 12925/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 6/9 | Lay on Hands: 25/25 | Thralls: 0/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1962,8 +2152,11 @@ Thorne's breath hitches. The institutional weight of Guild protocol shatters aga
 > 👤 **Player:**
 > *"Study maps, brief gilded vanguard and observe the rival parties. Let parties who are eager attack the iron king and parties hanging back we scout with my real troops and then kill with adventurer party. In parallel my real troops try to capture bandit king men and gain intel on him. See if he ever leaves his base and see if anyone outside his base I could take hostage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3,450gp | XP: 13375/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 6/9 | Lay on Hands: 25/25 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Soul Shield (Passive), Necrotic Armaments**
@@ -1979,8 +2172,11 @@ In the humid silence of the town's perimeter, the signal from your obsidian ring
 > 👤 **Player:**
 > *"Allow the vanguard to attack by themselves and trick them by not backing them up. If they survive finish them off and loot and enslave them. Soul steal too if useful. Then wait for king to leave and ambush him with adventurer party and surprise aassinate to open. If needed mt real troops should be close at hand too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Iron Crag Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3,450gp | XP: 13775/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 6/9 | Thralls: 0/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2014,8 +2210,11 @@ You activate the *Assassinate* protocol, your silver-streaked black hair tucked 
 > 👤 **Player:**
 > *"Execute king and have eveyeone just focus fire him. Make sure i use all my abilities and powers and extra attack. Soul steal if we kill him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Iron Crag Perimeter - The Black Pillar** &nbsp;|&nbsp; ⏳ **Kythorn 31, 1495 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 14225/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Essence: 8/9 | Thralls: 0/4** &nbsp;|&nbsp; ⚠️ **Soul Shield (+3 AC), Necrotic Armaments | Exhaustion: 0 | Inspiration: No**
@@ -2050,6 +2249,8 @@ His two bodyguards stand frozen, their shields trembling as they look from the a
 **║   • The King's Flail (Ichor-Dipped)  ║**
 **║   • 1200 gold crowns                 ║**
 **╚══════════════════════════════════════╝**
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

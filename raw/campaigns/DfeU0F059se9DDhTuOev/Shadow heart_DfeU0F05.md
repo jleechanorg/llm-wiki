@@ -12,69 +12,85 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🛡️ Part I: Campaign Background
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-Give me 3 interesting narrative plot arcs without spoilers.
-
-## 🗺️ Scene Index & Timeline
-
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Character Creation | Day 1, 1493 Eleint (09:00) | Roleplay |
-| **02** | Character Creation | Unknown, Unknown (Unknown) | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Character Creation | 20, 1492 Ches (09:51) | Roleplay |
-| **06** | Character Creation | Ches 20, 1492 DR (09:51) | Roleplay |
-| **07** | Shadowfell Sanctuary | Nightal 1, 1492 DR (21:00) | Roleplay |
-| **08** | Shadowfell Sanctuary | Day 1, 1492 Nightal (21:05) | Roleplay |
-| **09** | Shadowfell Sanctuary | Day 1, 1492 Nightal (21:05) | Roleplay |
-| **10** | Shar's Shadowfell Sanctuary | Day 1, 1492 Nightal (21:05) | Roleplay |
-| **11** | Shadowfell Sanctuary | Day 1, 1492 Nightal (21:30) | Roleplay |
-| **12** | Shadowfell Sanctuary | Day 1, 1492 Nightal (22:30) | Roleplay |
-| **13** | Shadowfell Sanctuary | Day 2, 1492 Nightal (01:30) | Roleplay |
-| **14** | Shadowfell Sanctuary | Day 2, 1492 Nightal (05:00) | Roleplay |
-| **15** | Shadowfell Sanctuary | Nightal 4, 1492 DR (5:00) | Roleplay |
-| **16** | Shadowfell Sanctuary | Day 4, 1492 Nightal (05:00) | Roleplay |
-| **17** | Shadowfell Sanctuary | Day 4, 1492 Nightal (11:00) | Roleplay |
-| **18** | Shadowfell Sanctuary | Nightal 4, 1492 DR (12:30 Midday) | Roleplay |
-| **19** | Shadowfell Sanctuary | Day 4, 1492 Nightal (13:00) | Roleplay |
-| **20** | Shadowfell Sanctuary | Day 4, 1492 Nightal (13:00) | Roleplay |
-| **21** | Shadowfell Sanctuary | Day 4, 1492 Nightal (15:00) | Roleplay |
-| **22** | Shadowfell Sanctuary | 4, 1492 Nightal (16:00) | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Shadowfell Sanctuary | Day 4, 1492 Nightal (16:00) | Roleplay |
-| **25** | Shadowfell Sanctuary | Day 5, 1492 Nightal (17:00) | Roleplay |
-| **26** | Shadowfell Sanctuary | 1492 Nightal 5, 20:00 | Roleplay |
-| **27** | Shadowfell Sanctuary | Day 6, 1492 Nightal (08:00) | Roleplay |
-| **28** | Shadowfell Sanctuary | Day 6, 1492 Nightal (8:00) | Roleplay |
-| **29** | Shadowfell Sanctuary | Day 6, 1492 Nightal (8:00) | Roleplay |
-| **30** | Shadowfell Sanctuary | Day 6, 1492 Nightal (08:00) | Roleplay |
-| **31** | Shadowfell Sanctuary | Nightal 6, 1492 DR (08:00) | Roleplay |
-| **32** | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:00) | Roleplay |
-| **33** | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:00) | Roleplay |
-| **34** | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:15) | Roleplay |
-| **35** | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:15) | Roleplay |
-| **36** | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:26) | Roleplay |
-| **37** | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:26) | Roleplay |
-| **38** | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:26) | Roleplay |
-| **39** | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:26) | Roleplay |
-| **40** | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:26) | Roleplay |
-| **41** | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:30) | Roleplay |
-| **42** | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:45) | Roleplay |
-| **43** | Shadowfell Sanctuary | Day 6, 1492 Nightal (12:15) | Roleplay |
-| **44** | Shadowfell Sanctuary | Day 6, 1492 Nightal (12:45) | Roleplay |
-| **45** | Shadowfell Sanctuary | Day 6, 1492 Nightal (14:45) | Roleplay |
-| **46** | Shadowfell Sanctuary | Day 7, 1492 Nightal (00:00) | Roleplay |
-| **47** | Shadowfell Sanctuary | Day 9, 1492 Nightal (00:00) | Roleplay |
-| **48** | Shadowfell Sanctuary | Day 11, 1492 Nightal (00:00) | Roleplay |
-| **49** | Shadowfell Sanctuary | Nightal 11, 1492 DR (00:30) | Roleplay |
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (49 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="campaign-dossier"></a>
+## 🛡️ Part I: Campaign Background
+
+Give me 3 interesting narrative plot arcs without spoilers.
+
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Character Creation | Day 1, 1493 Eleint (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Character Creation | Unknown, Unknown (Unknown) | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Character Creation | 20, 1492 Ches (09:51) | Roleplay |
+| [**Scene 06**](#scene-6) | Character Creation | Ches 20, 1492 DR (09:51) | Roleplay |
+| [**Scene 07**](#scene-7) | Shadowfell Sanctuary | Nightal 1, 1492 DR (21:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Shadowfell Sanctuary | Day 1, 1492 Nightal (21:05) | Roleplay |
+| [**Scene 09**](#scene-9) | Shadowfell Sanctuary | Day 1, 1492 Nightal (21:05) | Roleplay |
+| [**Scene 10**](#scene-10) | Shar's Shadowfell Sanctuary | Day 1, 1492 Nightal (21:05) | Roleplay |
+| [**Scene 11**](#scene-11) | Shadowfell Sanctuary | Day 1, 1492 Nightal (21:30) | Roleplay |
+| [**Scene 12**](#scene-12) | Shadowfell Sanctuary | Day 1, 1492 Nightal (22:30) | Roleplay |
+| [**Scene 13**](#scene-13) | Shadowfell Sanctuary | Day 2, 1492 Nightal (01:30) | Roleplay |
+| [**Scene 14**](#scene-14) | Shadowfell Sanctuary | Day 2, 1492 Nightal (05:00) | Roleplay |
+| [**Scene 15**](#scene-15) | Shadowfell Sanctuary | Nightal 4, 1492 DR (5:00) | Roleplay |
+| [**Scene 16**](#scene-16) | Shadowfell Sanctuary | Day 4, 1492 Nightal (05:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Shadowfell Sanctuary | Day 4, 1492 Nightal (11:00) | Roleplay |
+| [**Scene 18**](#scene-18) | Shadowfell Sanctuary | Nightal 4, 1492 DR (12:30 Midday) | Roleplay |
+| [**Scene 19**](#scene-19) | Shadowfell Sanctuary | Day 4, 1492 Nightal (13:00) | Roleplay |
+| [**Scene 20**](#scene-20) | Shadowfell Sanctuary | Day 4, 1492 Nightal (13:00) | Roleplay |
+| [**Scene 21**](#scene-21) | Shadowfell Sanctuary | Day 4, 1492 Nightal (15:00) | Roleplay |
+| [**Scene 22**](#scene-22) | Shadowfell Sanctuary | 4, 1492 Nightal (16:00) | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Shadowfell Sanctuary | Day 4, 1492 Nightal (16:00) | Roleplay |
+| [**Scene 25**](#scene-25) | Shadowfell Sanctuary | Day 5, 1492 Nightal (17:00) | Roleplay |
+| [**Scene 26**](#scene-26) | Shadowfell Sanctuary | 1492 Nightal 5, 20:00 | Roleplay |
+| [**Scene 27**](#scene-27) | Shadowfell Sanctuary | Day 6, 1492 Nightal (08:00) | Roleplay |
+| [**Scene 28**](#scene-28) | Shadowfell Sanctuary | Day 6, 1492 Nightal (8:00) | Roleplay |
+| [**Scene 29**](#scene-29) | Shadowfell Sanctuary | Day 6, 1492 Nightal (8:00) | Roleplay |
+| [**Scene 30**](#scene-30) | Shadowfell Sanctuary | Day 6, 1492 Nightal (08:00) | Roleplay |
+| [**Scene 31**](#scene-31) | Shadowfell Sanctuary | Nightal 6, 1492 DR (08:00) | Roleplay |
+| [**Scene 32**](#scene-32) | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:00) | Roleplay |
+| [**Scene 34**](#scene-34) | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:15) | Roleplay |
+| [**Scene 35**](#scene-35) | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:15) | Roleplay |
+| [**Scene 36**](#scene-36) | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:26) | Roleplay |
+| [**Scene 37**](#scene-37) | Shadowfell Sanctuary | Day 6, 1492 Nightal (10:26) | Roleplay |
+| [**Scene 38**](#scene-38) | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:26) | Roleplay |
+| [**Scene 39**](#scene-39) | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:26) | Roleplay |
+| [**Scene 40**](#scene-40) | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:26) | Roleplay |
+| [**Scene 41**](#scene-41) | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:30) | Roleplay |
+| [**Scene 42**](#scene-42) | Shadowfell Sanctuary | Day 6, 1492 Nightal (11:45) | Roleplay |
+| [**Scene 43**](#scene-43) | Shadowfell Sanctuary | Day 6, 1492 Nightal (12:15) | Roleplay |
+| [**Scene 44**](#scene-44) | Shadowfell Sanctuary | Day 6, 1492 Nightal (12:45) | Roleplay |
+| [**Scene 45**](#scene-45) | Shadowfell Sanctuary | Day 6, 1492 Nightal (14:45) | Roleplay |
+| [**Scene 46**](#scene-46) | Shadowfell Sanctuary | Day 7, 1492 Nightal (00:00) | Roleplay |
+| [**Scene 47**](#scene-47) | Shadowfell Sanctuary | Day 9, 1492 Nightal (00:00) | Roleplay |
+| [**Scene 48**](#scene-48) | Shadowfell Sanctuary | Day 11, 1492 Nightal (00:00) | Roleplay |
+| [**Scene 49**](#scene-49) | Shadowfell Sanctuary | Nightal 11, 1492 DR (00:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Day 1, 1493 Eleint (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl ? Class ? | HP: ?/? (Temp: 0) | XP: 0/? | Gold: ?gp** &nbsp;|&nbsp; ✨ **HD: ?/?, Spells: ?/?** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -102,8 +118,11 @@ Which option would you prefer? (1, 2, or 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *3. [CustomClass] - Work together to define custom mechanics for Shadowheart&#x27;s unique abilities, like Extra Attack as a Cleric, and special Shar-granted powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Unknown, Unknown (Unknown)** &nbsp;|&nbsp; 🛡️ **Lvl Unknown Unknown | HP: 10/10 (Temp: 0) | XP: 0/0 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 0/0, Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 0/0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -125,8 +144,11 @@ Which approach to Extra Attack would you prefer for Shadowheart's custom class?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Martial Cleric - Grant Shadowheart the standard Fighter&#x27;s Extra Attack feature (two attacks when taking the Attack action).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -136,8 +158,11 @@ Which approach to Extra Attack would you prefer for Shadowheart's custom class?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soul Harvest - Powers centered on draining life force, manipulating souls, and empowering Shadowheart through necrotic energy, emphasizing her Death Cleric aspect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -147,8 +172,11 @@ Which approach to Extra Attack would you prefer for Shadowheart's custom class?
 > 👤 **Player:**
 > *"continue character design"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **20, 1492 Ches (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl Unknown Class | HP: Unknown/Unknown (Temp: Unknown) | XP: Unknown/Unknown | Gold: Unknowngp** &nbsp;|&nbsp; ✨ **HD: Unknown/Unknown, Spells: Unknown, Ki: Unknown, Rage: Unknown, Potions: Unknown, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -172,8 +200,11 @@ Which of these 'Soul Harvest' abilities would you like to incorporate into Shado
 > [!NOTE] ⚙️ **Player Choice:**
 > *Choose Shadow&#x27;s Embrace - Grant Shadowheart the Shadow&#x27;s Embrace Channel Divinity option, restraining foes with necrotic tendrils.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl Undefined Undefined | HP: Undefined/Undefined (Temp: 0) | XP: Undefined/Undefined | Gold: Undefinedgp** &nbsp;|&nbsp; ✨ **HD: Undefined/Undefined, Spells: Undefined, Class Features: Undefined, Consumables: Undefined** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -183,8 +214,11 @@ Which of these 'Soul Harvest' abilities would you like to incorporate into Shado
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approve Character - Finalize Shadowheart&#x27;s character sheet and begin the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Nightal 1, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85000/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -241,8 +275,11 @@ She looked towards the single, heavy door leading out into the desolate, Shar-bl
 God Mode:
 give me 3 interesting overall plot arcs for the campaign without spoilers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 1, 1492 Nightal (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85000/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -252,8 +289,11 @@ give me 3 interesting overall plot arcs for the campaign without spoilers
 God Mode:
 lets do both consumation of shadow and extinction of false light and after open up an arc where it is possible but extremely difficult for shadowheart to become a god. remember to keep giving me exp as appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 1, 1492 Nightal (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85000/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -263,8 +303,11 @@ lets do both consumation of shadow and extinction of false light and after open 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Begin the campaign following the chosen plot arcs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Shar's Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 1, 1492 Nightal (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 | XP: 85100/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -280,8 +323,11 @@ Her thoughts turned to the immediate next step. The world was vast, but Shar’s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Divine Guidance - Attempt to commune with Shar directly for a clearer directive on the next target or path.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 1, 1492 Nightal (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85200/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -297,8 +343,11 @@ Her gaze drifted to the heavy, shadow-wrought door. The world beyond awaited its
 > [!NOTE] ⚙️ **Player Choice:**
 > *Decipher Shar&#x27;s Vision - Attempt to meditate further or use a divinatory spell to glean more details or clearer meaning from the fleeting vision of the sun-drenched citadel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 1, 1492 Nightal (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85200/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -312,8 +361,11 @@ Shadowheart opened her eyes, the sanctuary's gloom now feeling like a comforting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Contemplate Shar&#x27;s Will Further - Meditate again, attempting to glean deeper, perhaps less literal, meaning from Shar&#x27;s directive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 2, 1492 Nightal (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85200/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -327,8 +379,11 @@ A cold, almost lonely determination settled over Shadowheart. The sanctuary, onc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare to Depart the Sanctuary: Ready supplies, review equipment, and mentally prepare for the journey out of the Shadowfell Sanctuary, regardless of the target. and in parallel have spies and agents seek out false light and other ways to gain influence and power*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 2, 1492 Nightal (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85250/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, CD: 2/2, Potions: 2xSup Healing, 1xSpeed, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -344,8 +399,11 @@ Her gaze fixed on the imposing, shadow-wrought door. The time for contemplation 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Initial Intel - Remain in the sanctuary for a short while, allowing your nascent agent network to gather preliminary information on &#x27;False Light&#x27; targets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Nightal 4, 1492 DR (5:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85250/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -359,8 +417,11 @@ Two days passed in this focused, almost ritualistic endeavor. The faint, oppress
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dispatch Agents for Specific Intel - Send direct orders to the nascent network to focus on gathering more detailed information about the &#x27;Bastion of Eternal Radiance&#x27; – its location, defenses, and key figures.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 4, 1492 Nightal (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85250/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -374,8 +435,11 @@ She envisioned the citadel, no longer a hazy vision but a blueprint to be meticu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study Dark Arts - Delve deeper into Shar&#x27;s forbidden lore, seeking new spells, rituals, or insights into the &#x27;Consummation of Shadow&#x27; or &#x27;Ascension to Godhood&#x27; arcs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 4, 1492 Nightal (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85300/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -389,8 +453,11 @@ A cold, almost intellectual thrill ran through her as she absorbed these deeper 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manifest Shadow Servant - Attempt to apply newfound insights to create a powerful, non-undead shadow-based servant, tying into the &#x27;Consummation of Shadow&#x27; arc.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Nightal 4, 1492 DR (12:30 Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85300/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2 Superior, 1 Speed** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -404,8 +471,11 @@ Then, with a final, forceful mental command, the swirling mass condensed. A figu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send Shadow Servant to Scout - Dispatch the Manifest Shadow Servant to covertly scout the &#x27;Bastion of Eternal Radiance&#x27;, using its innate stealth and shadow-manipulation abilities to gather intelligence faster and more directly than your human agents.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 4, 1492 Nightal (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -419,8 +489,11 @@ Without a sound, the Manifest Shadow Servant seemed to ripple, its form stretchi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Shadowfell Sanctuary - Begin planning or enacting defensive measures for the sanctuary, anticipating potential retaliation or future use.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 4, 1492 Nightal (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 10000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -432,8 +505,11 @@ Her ISTJ mind meticulously began to dissect the problem of defense. Every stone,
 God Mode:
 make myers briggs more subtle, stop referencing it in narrative
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 4, 1492 Nightal (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -443,8 +519,11 @@ make myers briggs more subtle, stop referencing it in narrative
 God Mode:
 Expand Agent Network &amp; Surveillance - Focus on aggressively expanding and deepening the nascent agent network, establishing advanced early warning systems and intelligence gathering capabilities to anticipate and counter threats before they materialize.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **4, 1492 Nightal (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 | XP: 85400/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -454,8 +533,11 @@ Expand Agent Network &amp; Surveillance - Focus on aggressively expanding and de
 God Mode:
 both deepend and specialize
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -465,8 +547,11 @@ both deepend and specialize
 > [!NOTE] ⚙️ **Player Choice:**
 > *Balanced Approach (Both Deepen &amp; Specialize) - Pursue a moderate expansion of the network&#x27;s overall size while also investing in training or recruiting a smaller number of highly specialized agents for critical tasks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 4, 1492 Nightal (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -480,8 +565,11 @@ She paced before the consecrated altar, the faint, oppressive gloom clinging to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Empower Existing Network - Invest resources into training and equipping current agents to expand their capabilities and reach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 5, 1492 Nightal (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -497,8 +585,11 @@ The process of empowering her network was not instantaneous. It required time fo
 > 👤 **Player:**
 > *"speak with my council and assess my warriors, agents, servants, resources, and other faction forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **1492 Nightal 5, 20:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -516,8 +607,11 @@ Shadowheart's lips curved in a faint, satisfied smile. The assessment confirmed 
 > 👤 **Player:**
 > *"how many actual warriors, agents and how much gold exactly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2 Superior Healing, 1 Speed, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -531,8 +625,11 @@ Her assessment complete, a cold satisfaction settled within Shadowheart. The san
 God Mode:
 enter dm mode and stay there. Something makes no sense. I am leading the sharran sect, why would i have no warriors
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (8:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -542,8 +639,11 @@ enter dm mode and stay there. Something makes no sense. I am leading the sharran
 God Mode:
 why is it just herself? dont know you about bg3?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (8:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -553,8 +653,11 @@ why is it just herself? dont know you about bg3?
 God Mode:
 5 whys. why did you mess this up in the first place? Aren't you familiar with baldurs gate 3?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -564,8 +667,11 @@ God Mode:
 God Mode:
 can you do god mode set for me by just providing a fresh game state like that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Nightal 6, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -575,8 +681,11 @@ can you do god mode set for me by just providing a fresh game state like that
 God Mode:
 back to story and I shuld also have a council
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -590,8 +699,11 @@ Shadowheart (Level 12 Death Cleric, Age 33) paced the consecrated stones, the su
 > 👤 **Player:**
 > *"Confer with my 5 strongest faction members. Who are they?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -631,8 +743,11 @@ ask their names
 
 ask their names"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -652,8 +767,11 @@ A cold, unwavering resolve settled over her, a hunger for oblivion reflected in 
 > 👤 **Player:**
 > *"Ask them their ideas on what to do next. How to strengthen our faction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -667,8 +785,11 @@ A cold, expectant silence hung in the air, the Justiciars absorbing her words, t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate general discussion on both topics - Allow the Justiciars to respond freely to both questions, letting the conversation unfold naturally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (10:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1, Other Notable: Scroll of Shield** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -684,8 +805,11 @@ Shadowheart listened, her head tilted slightly, a flicker of cold approval in he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask other Justiciars for their input - Invite Kaelen, Seraphina, and Lysander to share their ideas on both topics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (10:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -709,8 +833,11 @@ Shadowheart listened to each Justiciar, a cold, calculating satisfaction growing
 > 👤 **Player:**
 > *"think on how to best use their ideas"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (11:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -724,8 +851,11 @@ Each idea held merit, each a potential tendril of shadow to extend Shar's domini
 > [!NOTE] ⚙️ **Player Choice:**
 > *Combine Key Approaches - Integrate elements from multiple suggestions to create a multi-pronged strategy against the Bastion and for faction growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (11:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -741,8 +871,11 @@ She turned to Roric, a flicker of cold approval in her gaze. "But whispers need 
 > 👤 **Player:**
 > *"missions list"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (11:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -764,8 +897,11 @@ There were no immediate resource conflicts apparent; the gold she possessed was 
 > 👤 **Player:**
 > *"summary"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -791,8 +927,11 @@ Her lips, barely visible in the dim light, curved into a faint, grim smile. The 
 > 👤 **Player:**
 > *"betrayals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -804,8 +943,11 @@ The silence of the Shadowfell Sanctuary deepened, punctuated only by the subtle 
 > 👤 **Player:**
 > *"assess my council. think about their history,  strengths and weaknesses and how to use that info to calibrate their advice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -829,8 +971,11 @@ Each Justiciar offered a piece of the puzzle, a distinct path to Shar's ultimate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Multi-Pronged Assault (All Justiciars) - Direct all Justiciars to immediately begin their assigned roles in the integrated strategy, ensuring constant communication and rapid adaptation as intelligence from the Manifest Shadow Servant arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -848,8 +993,11 @@ Finally, she turned to the last, silent figure. "Lysander," her voice softened, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Other Action - Describe a different action you&#x27;d like to take.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 6, 1492 Nightal (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Superior Healing Potions: 2, Potion of Speed: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **| Exhaustion: 0 | Inspiration: No**
@@ -863,8 +1011,11 @@ She paced before the newly consecrated altar, her movements deliberate. The Shad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Personal Power - Delve deeper into Shar&#x27;s forbidden lore or engage in rituals to enhance your own divine power and understanding, furthering the &#x27;Consummation of Shadow&#x27; or &#x27;Ascension to Godhood&#x27; arcs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 7, 1492 Nightal (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -880,8 +1031,11 @@ Hours bled away in this profound communion. Shadowheart felt not just knowledge,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check Bastion Progress - Focus your senses and agent network to receive an immediate update on the Justiciars&#x27; and Manifest Shadow Servant&#x27;s progress against the Bastion of Eternal Radiance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 9, 1492 Nightal (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2, Lay on Hands: N/A, Rage: N/A, Ki: N/A, Bardic Inspiration: N/A, Sorcery Points: N/A, Wild Shape: N/A, Arcane Recovery: N/A, Potions: 2 Superior Healing, 1 Potion of Speed, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -905,8 +1059,11 @@ Shadowheart opened her eyes, a grim satisfaction settling over her. The data was
 > [!NOTE] ⚙️ **Player Choice:**
 > *Evaluate New Recruits - Focus on the desperate individuals Roric&#x27;s overt displays have attracted, consolidating their loyalty to Shar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Day 11, 1492 Nightal (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -926,8 +1083,11 @@ Shadowheart’s obsidian gaze swept over them, piercing their meager facades. Sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Indoctrination Ritual - Lead a Shar-specific ritual to solidify the new recruits&#x27; loyalty and break their ties to &#x27;False Light&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Shadowfell Sanctuary** &nbsp;|&nbsp; ⏳ **Nightal 11, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Death Cleric | HP: 82/82 (Temp: 0) | XP: 85400/100000 | Gold: 9500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -939,6 +1099,8 @@ The chilling silence of the Shadowfell Sanctuary deepened, a palpable weight set
 The recruits shivered, not just from the cold, but from the raw, terrifying power emanating from Shadowheart. Visions, subtle and unsettling, flickered at the edges of their perception—memories of their own betrayals, their own losses, moments when the 'light' had failed them. Fear warred with a nascent, desperate acceptance in their eyes as Shadowheart continued, "Let your ties to that false hope fray. Embrace the quiet truth of loss. Only in the shadow will you find solace. Only in Shar will you find purpose beyond the pain of existence."
 
 A final, powerful pulse of dark energy washed over them, a cleansing darkness that seemed to strip away the last vestiges of their former allegiances. When it receded, their faces, though still gaunt, held a new, chilling serenity. Their fear had not vanished, but transformed into a profound, almost fanatical devotion. They were no longer desperate supplicants; they were nascent cultists, reborn in Shar's embrace. The Manifest Shadow Servant, though physically absent, was a distant, comforting hum in Shadowheart's awareness, its work continuing even as her power expanded within her sanctuary. The initial phase of their indoctrination was complete.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,139 +12,155 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (118 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Theresa von Astrea | Setting: I wanna play as a young Theresa von Astrea when she discovers sword saint powers and make it lore aligned with re: zero anime. Let’s assume at first I am afraid but eventually I grow into powers. Maybe start me as a level 6 gestalt fighter and bladesinger wizard and assassin rogue
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Astrea Family Estate |  | Roleplay |
-| **02** | Astrea Family Estate | Mirtul 15, 1492 DR (08:00) | Roleplay |
-| **03** | Astrea Estate Courtyard | Month 5, 400 AR (Day 12) | Roleplay |
-| **04** | Astrea Estate | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **05** | Fields of Astrea | Mirtul 20, 418 DR (12:00) | Roleplay |
-| **06** | Fields of Astrea | Mirtul 10, 1492 DR (12:00) | Social Challenge |
-| **07** | Fields of Astrea | Mirtul 10, 1492 DR (12:05) | Roleplay |
-| **08** | Fields of Astrea | Mirtul 10, 1492 DR (12:05) | Roleplay |
-| **09** | Fields of Astrea | Mirtul 10, 1492 DR (12:10) | Roleplay |
-| **10** | Fields of Astrea | Mirtul 10, 1492 DR (12:10) | Roleplay |
-| **11** | Fields of Astrea | Mirtul 10, 1492 DR (12:10) | Roleplay |
-| **12** | Fields of Astrea | Mirtul 10, 1492 DR (12:15) | Roleplay |
-| **13** | Fields of Astrea | Mirtul 10, 1492 DR (12:15) | Roleplay |
-| **14** | Fields of Astrea | Mirtul 10, 1492 DR (12:20) | Roleplay |
-| **15** | Fields of Astrea | Mirtul 10, 1492 DR (12:25) | Boss Surrender |
-| **16** | Fields of Astrea | Mirtul 10, 1492 DR (18:30) | Roleplay |
-| **17** | Fields of Astrea | Mirtul 10, 1492 DR (18:30) | Roleplay |
-| **18** | Fields of Astrea | Mirtul 10, 1492 DR (20:30) | Roleplay |
-| **19** | Astrea Estate - Training Grounds |  | Roleplay |
-| **20** | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (08:15) | Roleplay |
-| **21** | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (08:45) | Roleplay |
-| **22** | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:30) | Social Challenge |
-| **23** | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:30) | Roleplay |
-| **24** | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:30) | Roleplay |
-| **25** | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:35) | Roleplay |
-| **26** | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:40) | Roleplay |
-| **27** | Battlefield Encampment - Command Tent |  | Roleplay |
-| **28** | Battlefield Encampment - Command Tent | Eleasias 15, 1492 DR (14:35) | Roleplay |
-| **29** | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
-| **30** | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
-| **31** | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
-| **32** | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
-| **33** | Battlefield - The Breach | Eleasias 17, 1492 DR (14:40) | Roleplay |
-| **34** | Battlefield - The Breach | Eleasias 17, 1492 DR (14:40) | Roleplay |
-| **35** | Battlefield - The Breach | Eleasias 17, 1492 DR (14:40) | Roleplay |
-| **36** | Battlefield - The Demi-Human Command Pavilion |  | Roleplay |
-| **37** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
-| **38** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
-| **39** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
-| **40** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
-| **41** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
-| **42** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Social Challenge |
-| **43** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Roleplay |
-| **44** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Roleplay |
-| **45** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Roleplay |
-| **46** | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:15) | Boss Surrender |
-| **47** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
-| **48** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
-| **49** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
-| **50** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
-| **51** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
-| **52** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:00) | Roleplay |
-| **53** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:05) | Social Challenge |
-| **54** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:10) | Social Challenge |
-| **55** | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:30) | Social Challenge |
-| **56** | Shadow Pass | Eleasias 17, 1492 DR (18:30) | Roleplay |
-| **57** | Shadow Pass | Eleasias 17, 1492 DR (18:30) | Roleplay |
-| **58** | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Social Challenge |
-| **59** | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Roleplay |
-| **60** | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Social Challenge |
-| **61** | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Roleplay |
-| **62** | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Roleplay |
-| **63** | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Boss Surrender |
-| **64** | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
-| **65** | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
-| **66** | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
-| **67** | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
-| **68** | Royal Capital | Eleasias 30, 1492 DR (10:00) | Social Challenge |
-| **69** | Royal Palace | Eleasias 30, 1492 DR (11:30) | Social Challenge |
-| **70** | Royal Palace | Eleasias 30, 1492 DR (11:45) | Social Challenge |
-| **71** | Royal Palace | Eleasias 30, 1492 DR (12:00) | Boss Surrender |
-| **72** | Royal Palace | Eleasias 30, 1492 DR (12:30) | Boss Surrender |
-| **73** | Royal Palace | Eleasias 30, 1492 DR (12:45) | Social Challenge |
-| **74** | Royal Palace | Eleasias 30, 1492 DR (13:15) | Social Challenge |
-| **75** | Royal Palace | Eleasias 30, 1492 DR (13:30) | Social Challenge |
-| **76** | Royal Palace | Eleasias 30, 1492 DR (14:00) | Roleplay |
-| **77** | Royal Palace | Eleasias 30, 1492 DR (14:15) | Social Challenge |
-| **78** | Royal Palace | Eleasias 30, 1492 DR (14:30) | Social Challenge |
-| **79** | Royal Palace | Eleasias 30, 1492 DR (14:45) | Social Challenge |
-| **80** | Royal Palace | Eleasias 30, 1492 DR (15:00) | Roleplay |
-| **81** | Royal Palace | Eleasias 30, 1492 DR (15:15) | Social Challenge |
-| **82** | Royal Palace | Eleasias 30, 1492 DR (16:15) | Social Challenge |
-| **83** | Royal Palace | Eleasias 30, 1492 DR (17:15) | Boss Surrender |
-| **84** | Royal Palace | Eleasias 30, 1492 DR (17:15) | Roleplay |
-| **85** | Royal Palace | Eleasias 30, 1492 DR (17:15) | Roleplay |
-| **86** | Royal Palace | Eleasias 30, 1492 DR (17:15) | Roleplay |
-| **87** | Royal Palace | Eleasias 30, 1492 DR (18:00) | Social Challenge |
-| **88** | Royal Palace | Eleasias 30, 1492 DR (19:30) | Social Challenge |
-| **89** | Royal Palace | Eleasias 30, 1492 DR (19:45) | Roleplay |
-| **90** | Royal Palace | Eleasias 30, 1492 DR (19:50) | Social Challenge |
-| **91** | Royal Palace | Eleasias 30, 1492 DR (20:00) | Social Challenge |
-| **92** | Royal Palace | Eleasias 30, 1492 DR (20:10) | Social Challenge |
-| **93** | Royal Palace | Eleasias 30, 1492 DR (20:20) | Social Challenge |
-| **94** | Royal Palace | Eleasias 34, 1492 DR (05:20) | Social Challenge |
-| **95** | Royal Capital | Eleasias 34, 1492 DR (07:30) | Roleplay |
-| **96** | Royal Capital | Eleasias 34, 1492 DR (07:30) | Social Challenge |
-| **97** | Royal Capital | Eleasias 34, 1492 DR (07:30) | Roleplay |
-| **98** | Royal Palace | Eleasias 34, 1492 DR (08:30) | Social Challenge |
-| **99** | Royal Palace | Eleasias 34, 1492 DR (08:30) | Roleplay |
-| **100** | Royal Palace | Eleasias 34, 1492 DR (09:00) | Social Challenge |
-| **101** | Royal Palace | Nightal 15, 1492 DR (10:00) | Boss Surrender |
-| **102** | Royal Palace | Nightal 15, 1492 DR (10:00) | Roleplay |
-| **103** | Royal Palace | Nightal 15, 1492 DR (10:00) | Roleplay |
-| **104** | Royal Palace | Nightal 15, 1492 DR (10:00) | Roleplay |
-| **105** | Royal Palace | Nightal 15, 1492 DR (10:05) | Social Challenge |
-| **106** | Royal Palace | Nightal 15, 1492 DR (10:10) | Social Challenge |
-| **107** | Royal Palace | Nightal 15, 1492 DR (10:15) | Roleplay |
-| **108** | Royal Palace | Nightal 15, 1492 DR (10:45) | Social Challenge |
-| **109** | Royal Palace | Nightal 15, 1492 DR (10:50) | Boss Surrender |
-| **110** | Royal Palace | Nightal 15, 1492 DR (10:55) | Social Challenge |
-| **111** | Thread-Spinner's Square | Nightal 15, 1492 DR (11:15) | Roleplay |
-| **112** | Royal Palace Strategy Chamber | Nightal 15, 1492 DR (11:20) | Roleplay |
-| **113** | Royal Palace Strategy Chamber | Nightal 15, 1492 DR (11:25) | Social Challenge |
-| **114** | Astrea Estate | Nightal 18, 1492 DR (09:00) | Boss Surrender |
-| **115** | Royal Palace | Nightal 18, 1493 DR (12:00) | Social Challenge |
-| **116** | Royal Palace | Nightal 18, 1494 DR (12:15) | Social Challenge |
-| **117** | Royal Palace | Nightal 18, 1494 DR (13:00) | Boss Surrender |
-| **118** | Royal Palace | Nightal 18, 1494 DR (15:00) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Astrea Family Estate |  | Roleplay |
+| [**Scene 02**](#scene-2) | Astrea Family Estate | Mirtul 15, 1492 DR (08:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Astrea Estate Courtyard | Month 5, 400 AR (Day 12) | Roleplay |
+| [**Scene 04**](#scene-4) | Astrea Estate | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Fields of Astrea | Mirtul 20, 418 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Fields of Astrea | Mirtul 10, 1492 DR (12:00) | Social Challenge |
+| [**Scene 07**](#scene-7) | Fields of Astrea | Mirtul 10, 1492 DR (12:05) | Roleplay |
+| [**Scene 08**](#scene-8) | Fields of Astrea | Mirtul 10, 1492 DR (12:05) | Roleplay |
+| [**Scene 09**](#scene-9) | Fields of Astrea | Mirtul 10, 1492 DR (12:10) | Roleplay |
+| [**Scene 10**](#scene-10) | Fields of Astrea | Mirtul 10, 1492 DR (12:10) | Roleplay |
+| [**Scene 11**](#scene-11) | Fields of Astrea | Mirtul 10, 1492 DR (12:10) | Roleplay |
+| [**Scene 12**](#scene-12) | Fields of Astrea | Mirtul 10, 1492 DR (12:15) | Roleplay |
+| [**Scene 13**](#scene-13) | Fields of Astrea | Mirtul 10, 1492 DR (12:15) | Roleplay |
+| [**Scene 14**](#scene-14) | Fields of Astrea | Mirtul 10, 1492 DR (12:20) | Roleplay |
+| [**Scene 15**](#scene-15) | Fields of Astrea | Mirtul 10, 1492 DR (12:25) | Boss Surrender |
+| [**Scene 16**](#scene-16) | Fields of Astrea | Mirtul 10, 1492 DR (18:30) | Roleplay |
+| [**Scene 17**](#scene-17) | Fields of Astrea | Mirtul 10, 1492 DR (18:30) | Roleplay |
+| [**Scene 18**](#scene-18) | Fields of Astrea | Mirtul 10, 1492 DR (20:30) | Roleplay |
+| [**Scene 19**](#scene-19) | Astrea Estate - Training Grounds |  | Roleplay |
+| [**Scene 20**](#scene-20) | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (08:15) | Roleplay |
+| [**Scene 21**](#scene-21) | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (08:45) | Roleplay |
+| [**Scene 22**](#scene-22) | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:30) | Social Challenge |
+| [**Scene 23**](#scene-23) | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:30) | Roleplay |
+| [**Scene 24**](#scene-24) | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:30) | Roleplay |
+| [**Scene 25**](#scene-25) | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:35) | Roleplay |
+| [**Scene 26**](#scene-26) | Astrea Estate - Training Grounds | Mirtul 11, 1492 DR (11:40) | Roleplay |
+| [**Scene 27**](#scene-27) | Battlefield Encampment - Command Tent |  | Roleplay |
+| [**Scene 28**](#scene-28) | Battlefield Encampment - Command Tent | Eleasias 15, 1492 DR (14:35) | Roleplay |
+| [**Scene 29**](#scene-29) | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
+| [**Scene 30**](#scene-30) | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
+| [**Scene 31**](#scene-31) | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
+| [**Scene 32**](#scene-32) | Battlefield - The Breach | Eleasias 17, 1492 DR (14:35) | Roleplay |
+| [**Scene 33**](#scene-33) | Battlefield - The Breach | Eleasias 17, 1492 DR (14:40) | Roleplay |
+| [**Scene 34**](#scene-34) | Battlefield - The Breach | Eleasias 17, 1492 DR (14:40) | Roleplay |
+| [**Scene 35**](#scene-35) | Battlefield - The Breach | Eleasias 17, 1492 DR (14:40) | Roleplay |
+| [**Scene 36**](#scene-36) | Battlefield - The Demi-Human Command Pavilion |  | Roleplay |
+| [**Scene 37**](#scene-37) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
+| [**Scene 38**](#scene-38) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
+| [**Scene 39**](#scene-39) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
+| [**Scene 40**](#scene-40) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
+| [**Scene 41**](#scene-41) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (14:55) | Roleplay |
+| [**Scene 42**](#scene-42) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Social Challenge |
+| [**Scene 43**](#scene-43) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Roleplay |
+| [**Scene 44**](#scene-44) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Roleplay |
+| [**Scene 45**](#scene-45) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:00) | Roleplay |
+| [**Scene 46**](#scene-46) | Battlefield - The Demi-Human Command Pavilion | Eleasias 17, 1492 DR (15:15) | Boss Surrender |
+| [**Scene 47**](#scene-47) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
+| [**Scene 48**](#scene-48) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
+| [**Scene 49**](#scene-49) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
+| [**Scene 50**](#scene-50) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
+| [**Scene 51**](#scene-51) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (15:35) | Roleplay |
+| [**Scene 52**](#scene-52) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:05) | Social Challenge |
+| [**Scene 54**](#scene-54) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:10) | Social Challenge |
+| [**Scene 55**](#scene-55) | Battlefield - The Breach Ruins | Eleasias 17, 1492 DR (16:30) | Social Challenge |
+| [**Scene 56**](#scene-56) | Shadow Pass | Eleasias 17, 1492 DR (18:30) | Roleplay |
+| [**Scene 57**](#scene-57) | Shadow Pass | Eleasias 17, 1492 DR (18:30) | Roleplay |
+| [**Scene 58**](#scene-58) | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Social Challenge |
+| [**Scene 59**](#scene-59) | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Roleplay |
+| [**Scene 60**](#scene-60) | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Social Challenge |
+| [**Scene 61**](#scene-61) | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Roleplay |
+| [**Scene 62**](#scene-62) | The Iron Citadel | Eleasias 19, 1492 DR (18:30) | Roleplay |
+| [**Scene 63**](#scene-63) | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Boss Surrender |
+| [**Scene 64**](#scene-64) | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
+| [**Scene 65**](#scene-65) | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
+| [**Scene 66**](#scene-66) | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
+| [**Scene 67**](#scene-67) | The Subterranean Deeps | Eleasias 26, 1492 DR (12:00) | Roleplay |
+| [**Scene 68**](#scene-68) | Royal Capital | Eleasias 30, 1492 DR (10:00) | Social Challenge |
+| [**Scene 69**](#scene-69) | Royal Palace | Eleasias 30, 1492 DR (11:30) | Social Challenge |
+| [**Scene 70**](#scene-70) | Royal Palace | Eleasias 30, 1492 DR (11:45) | Social Challenge |
+| [**Scene 71**](#scene-71) | Royal Palace | Eleasias 30, 1492 DR (12:00) | Boss Surrender |
+| [**Scene 72**](#scene-72) | Royal Palace | Eleasias 30, 1492 DR (12:30) | Boss Surrender |
+| [**Scene 73**](#scene-73) | Royal Palace | Eleasias 30, 1492 DR (12:45) | Social Challenge |
+| [**Scene 74**](#scene-74) | Royal Palace | Eleasias 30, 1492 DR (13:15) | Social Challenge |
+| [**Scene 75**](#scene-75) | Royal Palace | Eleasias 30, 1492 DR (13:30) | Social Challenge |
+| [**Scene 76**](#scene-76) | Royal Palace | Eleasias 30, 1492 DR (14:00) | Roleplay |
+| [**Scene 77**](#scene-77) | Royal Palace | Eleasias 30, 1492 DR (14:15) | Social Challenge |
+| [**Scene 78**](#scene-78) | Royal Palace | Eleasias 30, 1492 DR (14:30) | Social Challenge |
+| [**Scene 79**](#scene-79) | Royal Palace | Eleasias 30, 1492 DR (14:45) | Social Challenge |
+| [**Scene 80**](#scene-80) | Royal Palace | Eleasias 30, 1492 DR (15:00) | Roleplay |
+| [**Scene 81**](#scene-81) | Royal Palace | Eleasias 30, 1492 DR (15:15) | Social Challenge |
+| [**Scene 82**](#scene-82) | Royal Palace | Eleasias 30, 1492 DR (16:15) | Social Challenge |
+| [**Scene 83**](#scene-83) | Royal Palace | Eleasias 30, 1492 DR (17:15) | Boss Surrender |
+| [**Scene 84**](#scene-84) | Royal Palace | Eleasias 30, 1492 DR (17:15) | Roleplay |
+| [**Scene 85**](#scene-85) | Royal Palace | Eleasias 30, 1492 DR (17:15) | Roleplay |
+| [**Scene 86**](#scene-86) | Royal Palace | Eleasias 30, 1492 DR (17:15) | Roleplay |
+| [**Scene 87**](#scene-87) | Royal Palace | Eleasias 30, 1492 DR (18:00) | Social Challenge |
+| [**Scene 88**](#scene-88) | Royal Palace | Eleasias 30, 1492 DR (19:30) | Social Challenge |
+| [**Scene 89**](#scene-89) | Royal Palace | Eleasias 30, 1492 DR (19:45) | Roleplay |
+| [**Scene 90**](#scene-90) | Royal Palace | Eleasias 30, 1492 DR (19:50) | Social Challenge |
+| [**Scene 91**](#scene-91) | Royal Palace | Eleasias 30, 1492 DR (20:00) | Social Challenge |
+| [**Scene 92**](#scene-92) | Royal Palace | Eleasias 30, 1492 DR (20:10) | Social Challenge |
+| [**Scene 93**](#scene-93) | Royal Palace | Eleasias 30, 1492 DR (20:20) | Social Challenge |
+| [**Scene 94**](#scene-94) | Royal Palace | Eleasias 34, 1492 DR (05:20) | Social Challenge |
+| [**Scene 95**](#scene-95) | Royal Capital | Eleasias 34, 1492 DR (07:30) | Roleplay |
+| [**Scene 96**](#scene-96) | Royal Capital | Eleasias 34, 1492 DR (07:30) | Social Challenge |
+| [**Scene 97**](#scene-97) | Royal Capital | Eleasias 34, 1492 DR (07:30) | Roleplay |
+| [**Scene 98**](#scene-98) | Royal Palace | Eleasias 34, 1492 DR (08:30) | Social Challenge |
+| [**Scene 99**](#scene-99) | Royal Palace | Eleasias 34, 1492 DR (08:30) | Roleplay |
+| [**Scene 100**](#scene-100) | Royal Palace | Eleasias 34, 1492 DR (09:00) | Social Challenge |
+| [**Scene 101**](#scene-101) | Royal Palace | Nightal 15, 1492 DR (10:00) | Boss Surrender |
+| [**Scene 102**](#scene-102) | Royal Palace | Nightal 15, 1492 DR (10:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Royal Palace | Nightal 15, 1492 DR (10:00) | Roleplay |
+| [**Scene 104**](#scene-104) | Royal Palace | Nightal 15, 1492 DR (10:00) | Roleplay |
+| [**Scene 105**](#scene-105) | Royal Palace | Nightal 15, 1492 DR (10:05) | Social Challenge |
+| [**Scene 106**](#scene-106) | Royal Palace | Nightal 15, 1492 DR (10:10) | Social Challenge |
+| [**Scene 107**](#scene-107) | Royal Palace | Nightal 15, 1492 DR (10:15) | Roleplay |
+| [**Scene 108**](#scene-108) | Royal Palace | Nightal 15, 1492 DR (10:45) | Social Challenge |
+| [**Scene 109**](#scene-109) | Royal Palace | Nightal 15, 1492 DR (10:50) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Royal Palace | Nightal 15, 1492 DR (10:55) | Social Challenge |
+| [**Scene 111**](#scene-111) | Thread-Spinner's Square | Nightal 15, 1492 DR (11:15) | Roleplay |
+| [**Scene 112**](#scene-112) | Royal Palace Strategy Chamber | Nightal 15, 1492 DR (11:20) | Roleplay |
+| [**Scene 113**](#scene-113) | Royal Palace Strategy Chamber | Nightal 15, 1492 DR (11:25) | Social Challenge |
+| [**Scene 114**](#scene-114) | Astrea Estate | Nightal 18, 1492 DR (09:00) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Royal Palace | Nightal 18, 1493 DR (12:00) | Social Challenge |
+| [**Scene 116**](#scene-116) | Royal Palace | Nightal 18, 1494 DR (12:15) | Social Challenge |
+| [**Scene 117**](#scene-117) | Royal Palace | Nightal 18, 1494 DR (13:00) | Boss Surrender |
+| [**Scene 118**](#scene-118) | Royal Palace | Nightal 18, 1494 DR (15:00) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Astrea Family Estate, Lugnica** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt | HP: 52/52 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Superiority Dice: 4/4 | Sneak Attack: 3d6**
@@ -168,8 +184,11 @@ I have prepared a **Recommended Package** for your character based on your speci
 > 👤 **Player:**
 > *"Make me a specialized gestalt class and add additional powers as needed and let’s assume bladesong always active and give me 20 dex and 20 int and even stats and give me elite +1 starting equipment and a +3 family heirloom sword"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Astrea Family Estate** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: No**
@@ -195,8 +214,11 @@ Does this legendary incarnation of Theresa meet your approval, or shall we refin
 > 👤 **Player:**
 > *"Make me dex based and make my sword finesse weapon and give me special sword saint powers and show my level 1-30 progression"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Astrea Estate Courtyard** &nbsp;|&nbsp; ⏳ **Month 5, 400 AR (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Bladesong (Always Active) | Exhaustion: 0 | Inspiration: No**
@@ -219,8 +241,11 @@ Your stats are balanced at 14 for your physical and social foundations, while yo
 > 👤 **Player:**
 > *"Show me what I get every level granular detail and ensure k have full set of features all 3 classes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Astrea Estate, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: N/A | Rage: N/A** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -272,8 +297,11 @@ Does this granular mastery of the blade and weave satisfy your vision, Sword Sai
 > 👤 **Player:**
 > *"Start game and beginning scene meeting me future husband field flowers and let’s give me lore appropriate age"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 20, 418 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Second Wind: 1/1 | Action Surge: 1/1 | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -289,8 +317,11 @@ A voice breaks your solitude. Standing at the edge of the clearing is a young ma
 > 👤 **Player:**
 > *"Redo scene and conceal weapon. Remember I am the one who likes flowers not him flirt with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -318,8 +349,11 @@ Wilhelm (Lvl 6) pauses, his intense gaze faltering for the briefest of moments a
 > 👤 **Player:**
 > *"Invite to sit and flirt with him and ask if he will ask me out on a date"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -348,8 +382,11 @@ He doesn't sit. If anything, he seems to stand even straighter, his discipline a
 God Mode:
 Give me +1 gear in every slot. I normally dress down and let me roll a deception check using dex so people don’t notice I am the sword saint and by default most underestimate me and I mask my level at level 1. Let me use dex to roll deception versus the usual cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Masked: Lvl 1) | HP: 52/52 | Gold: 500gp | XP: 14000/23000**
@@ -363,8 +400,11 @@ Administrative changes processed:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soften the Approach - Laugh off the rejection and tell him he's too serious, trying to lower his guard with genuine warmth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 (Masked) | HP: 52/52 | Gold: 500gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong (Permanent) | Exhaustion: 0 | Inspiration: No**
@@ -380,8 +420,11 @@ He takes a step back, his hand never leaving his blade. He isn't being rude, but
 God Mode:
 Let’s assume I am extremely beautiful and gain +2 bonus to romantic or seduction checks and wilhem is very attracted but awkward so I don’t win every roll
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Gestalt: Fighter/Bladesinger/Assassin) | HP: 52/52 | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -394,8 +437,11 @@ Administrative changes processed:
 God Mode:
 Let’s also make me a gestalt monk and my unhanded damage is good and I have all those abilities too whatever monk is good at attacking multiple times. I often fight without the sword like Reinhardt to intimidates. Give my sword special divine bonus damage and it gets stronger at level 12 15 and 20 and eventually becomes a +6 weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Gestalt) | HP: 52/52 | Gold: 500gp | XP: 14000/23000**
@@ -412,8 +458,11 @@ Administrative changes processed:
 > 👤 **Player:**
 > *"Do my best to chsrm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 14900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -431,8 +480,11 @@ You gain **900 XP** for successfully breaking through Wilhelm's initial social d
 God Mode:
 Let’s make sure I am stronger with sword than unarmed but if I draw my special swords I lose my mask. I also have a normal +1 rapier that’s already a solid weapon I carry as my dressed down weapon. Either way each sword should be stronger than unarmed adjust the math so it fits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Gestalt) | HP: 52/52 | Gold: 500gp | XP: 14900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -453,8 +505,11 @@ Administrative Summary:
 > 👤 **Player:**
 > *"Charm him until he’s comfortable then press for date say no pressure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 14900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Ki: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -468,8 +523,11 @@ Wilhelm Trias (Lvl 6) looks as though he’s trying to fight a ghost with a clay
 > 👤 **Player:**
 > *"Challenge his pride in a flirty way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 15800/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong, Level Masking (Lvl 1), Transcendent Beauty | Exhaustion: 0 | Inspiration: No**
@@ -496,8 +554,11 @@ As the tension breaks, the distant sound of a carriage bell rings out from the n
 > 👤 **Player:**
 > *"Suggest a sunset stroll then time skip and narrate the scene. After this I explain that my brother is a great swordsman and perhaps they can learn together. Let’s assume I’m not famous as the sword saint yet and my brother has a good relationship with me because even if he’s weaker I’ve never been arrogant about it so my brother as a level 12 might train wilhelm."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 17000/23000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6 | HD: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level Masked | Exhaustion: 0 | Inspiration: No**
@@ -519,8 +580,11 @@ You gain **300 XP** for brokering a training alliance between Wilhelm and House 
 God Mode:
 Let’s assume I have a good relationship with all my brothers. I don’t rub their face in for my power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 17000/23000**
@@ -534,8 +598,11 @@ Administrative changes processed:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate & Consolidate (Synergistic) - Send word to Bertol to prepare while you spend the rest of the evening with Wilhelm—preparing the ground for both their partnership and your bond.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Fields of Astrea, Lugnica** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 17300/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -555,8 +622,11 @@ You gain **300 XP** for deepening your bond with Wilhelm under the cover of nigh
 > 👤 **Player:**
 > *"Narrate next scene with my brother. Assume my brother agreed to play along and he knows I don’t like the sword saint publicity so he hides my identity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 17750/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6** &nbsp;|&nbsp; ⚠️ **Level Masking, Passive Underestimation | Exhaustion: 0 | Inspiration: No**
@@ -578,8 +648,11 @@ You offer a faint, shy smile, smoothing your skirts as you move toward a stone b
 > 👤 **Player:**
 > *"Analyze style but say nothing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 17750/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Ki: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Bladesong, Blessing of the Sword Saint, Flow Perception | Inspiration: No**
@@ -593,8 +666,11 @@ Bertol parries a particularly vicious lunge, his laughter booming across the yar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Refreshment - Wait for a break in the sparring and offer Wilhelm water or a towel, using the close proximity to check his physical state and fatigue levels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 17850/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level Masked (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -608,8 +684,11 @@ When you offer the water, Wilhelm (Lvl 6) takes the cup with a stiff, jerky nod 
 > 👤 **Player:**
 > *"Time skip until the end of training and praise wilhelm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 18000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Ki: 6/6, Actions: 1/1, Potion: 0/0** &nbsp;|&nbsp; ⚠️ **Level Masking, Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -644,8 +723,11 @@ You gain 150 XP for providing genuine encouragement to Wilhelm during a moment o
 God Mode:
 Is my quad gestalt class strong enough that I’m lore appropriate and a lot stronger than my level 12 brother? Make sure you didn’t forget to apply any class benefits. What’s my AC spell DC and combat stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 18000/23000**
@@ -688,8 +770,11 @@ Your Quad-Gestalt structure (Fighter/Bladesinger/Assassin/Monk) at Level 6 provi
 God Mode:
 Make sure I am an int based monk instead of wisdom based and I use light armor or whatever for all the bladesinger and monk bonus AC benefits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | AC: 40 | Gold: 500gp | XP: 18000/23000**
@@ -710,8 +795,11 @@ Your character now fully utilizes her genius-level intellect to dominate both th
 > 👤 **Player:**
 > *"Ok wait my gear probably too strong. Let’s give me four +1 armor / saving throws items instead of every slot. Assume it’s family sword saint armor but no one notices it unless they beat my dex deception roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 18000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Ki: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Level Masked, Bladesong Active | AC: 32**
@@ -727,8 +815,11 @@ He freezes mid-sip, his sharp eyes narrowing as they trace the lines of your 'si
 > 👤 **Player:**
 > *"Say my family doesn’t want to see me hurt and laugh it off"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Astrea Estate - Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -744,8 +835,11 @@ You gain **250 XP** for successfully maintaining your 'delicate girl' facade aga
 > 👤 **Player:**
 > *"Time skip a few months. Wilhelm and I date and I train my powers. Let’s assume we get called to the war again but only the military leadership know who I am and my uncle and brothers. My brother leads the army in demo human war because last time I wasn’t able to fight. Let assume this time I can’t fight as well and he comforts me. Let’s also assume wilhelm sees me in the battlefield tent and is alarmed but I say unfortunately it’s the duty of an Astra to participate and I will find my nerve eventually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Battlefield Encampment - Command Tent** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Ki: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Level Masking, Bladesong (Always Active), Passive Underestimation**
@@ -767,8 +861,11 @@ Wilhelm looks at you, his protective instinct warring with his respect for your 
 > 👤 **Player:**
 > *"Let’s assume even though Bertol knows I am strong he doesn’t know how strong too and he thinks my lack of nerve would get me killed so he’s worried"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Battlefield Encampment - Command Tent** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Masked Lvl 1) | HP: 52/52 | Gold: 500gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -786,8 +883,11 @@ Your successful facade leaves Bertol with a heavy heart and Wilhelm with a burni
 > 👤 **Player:**
 > *"Let’s ssume the fear is real and isn’t a mask but it’s a fear that I can just massacre people. Time skip until bertol life is in danger and let’s sssume I gain my nerve and act. Let me use my abilities to the fullest and take normal combat turns and see what happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Battlefield - The Breach** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 6/6 | Action Surge: 1/1 | Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -811,8 +911,11 @@ Wilhelm (Lvl 6) freezes, his own attackers forgotten for a split second as he st
 God Mode:
 I have 20 dex and I’m an assassin shouldn’t my initiate modifier be higher ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Battlefield - The Breach** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | AC: 32 | Init: +10 (Adv) | XP: 18250/23000**
@@ -831,8 +934,11 @@ Administrative Audit and Character Realignment Processed:
 > 👤 **Player:**
 > *"Use everything I have this turn to kill him and shouldn’t I deal more dmg?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Battlefield - The Breach** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint | HP: 52/52 | Gold: 500gp | XP: 30850/34000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Ki: 5/6, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Divine Aura | Exhaustion: 0 | Inspiration: Yes**
@@ -860,8 +966,11 @@ You gain **12,600 XP** for the decisive elimination of the enemy commander and t
 God Mode:
 Don’t forget to use all my abilities and give me an aoe attack too that hits only enemies that’s half damage. Remember I have extra attack and can probably do unarmed strikes with bonus action or extra attack eventually as a blade singer I believe
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Battlefield - The Breach** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Gestalt: Fighter/Bladesinger/Assassin/Monk) | HP: 52/52 | XP: 30850/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki Points: 6/6 | Action Surge: 0/1**
@@ -887,8 +996,11 @@ Administrative Summary: Quad-Gestalt Capability Audit and Power Expansion
 > 👤 **Player:**
 > *"Get someone to heal brother and then go fight the whole Demi human army see how I do . Use aoe attacks as appropriate and let’s assume I have hypnotic pattern and cast that as well and use shield as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Battlefield - The Breach** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Lvl 7 available) | HP: 52/52 | Gold: 500gp | XP: 33350/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 2/3 | Ki: 5/6 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -910,8 +1022,11 @@ Wilhelm watches from the ruins of the gate, his sword hanging limp. He looks at 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Saintly Awakening (Level 7) - The revelation of your power has triggered a surge in your spiritual resonance. Finalize your Level 7 growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Battlefield - The Breach** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sword Saint (Lvl 7 available) | HP: 52/52 | Gold: 500gp | XP: 33350/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Ki: 5/6 | Action Surge: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -931,8 +1046,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Battlefield - The Breach** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sword Saint | HP: 60/60 | Gold: 500gp | XP: 33350/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Ki: 7/7 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -944,8 +1062,11 @@ Around you, the battlefield remains a graveyard of smoldering ash and radiant mi
 > 👤 **Player:**
 > *"Assume I have normal level 2 invis and use that. Go to command center and trigger surprise round with hypnotic pattern and use assassinate on surprised enemies to aoe them or single target. Aoe is not dex save make it target AC same as single attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sword Saint | HP: 60/60 | Gold: 500gp | XP: 39350/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 2/3, L4 1/1, Ki: 7/7, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Invisibility (Level 2), Bladesong (Active) | Ki: 7/7 | Slots: L1 4/4, L2 2/3, L3 2/3, L4 1/1**
@@ -970,8 +1091,11 @@ The strategist staggers back, blood—dark and thick—seeping from a dozen perf
 > 👤 **Player:**
 > *"Iuse hypnotic pattern on them then kill strategist and kill the guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sword Saint | HP: 60/60 | Gold: 500gp | XP: 41850/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 1/1 | Ki: 7/7 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -992,8 +1116,11 @@ The pavilion falls into a heavy, unnatural silence. The strategist’s body erup
 God Mode:
 Did you forget to roll hypnotic pattern before? Remember next time if you forgot. Hypnotic pattern should make it so that they helpless if they lose the save
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sword Saint (Lvl 8 available) | HP: 60/60 | Gold: 500gp | XP: 41850/34000**
@@ -1011,8 +1138,11 @@ Administrative Summary: Mechanical Logic & Spell Protocol Alignment
 > [!NOTE] ⚙️ **Player Choice:**
 > *Display the Strategist's Remains - Walk to the pavilion entrance and show the army their leader is dead, using your Intimidation (Advantage from unarmed presence if sword sheathed) to break their morale.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 (Lvl 8 available) | HP: 60/60 | Gold: 500gp | XP: 41850/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | Ki: 7/7 | Action Surge: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Sword Saint Blessing | Exhaustion: 0 | Inspiration: No**
@@ -1026,8 +1156,11 @@ Active gameplay is paused until your Saintly Awakening is finalized. As you move
 > 👤 **Player:**
 > *"Let’s assume I don’t have a cap at 20 ability score so give me 2 more int. Then apply recommended choices"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sword Saint (Lvl 8 available) | HP: 68/68 | Gold: 500gp | XP: 41850/34000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Ki: 8/8 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1047,8 +1180,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint | HP: 68/68 | Gold: 500gp | XP: 41850/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Ki: 8/8 | Action Surge: 0/1 | Sneak Attack: 4d6** &nbsp;|&nbsp; ⚠️ **Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1062,8 +1198,11 @@ From the breach, Wilhelm watches in a silence so profound it seems to swallow th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Display the Staff (Intimidation) - Hold up Valga's shattered staff and project your Saintly aura. With your sword sheathed, use your unarmed presence to break their will. (Advantage from Reinhard's Intimidation)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint | HP: 68/68 | Gold: 500gp | XP: 43950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 2/2 | Ki: 8/8 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Blessing of the Sword Saint, Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -1089,8 +1228,11 @@ Victory! You gain **2,100 XP** for the decapitation strike's aftermath and lever
 God Mode:
 In the lore how strong of a sword saint was Theresa vs historical ones or reinhart
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint | HP: 68/68 | AC: 32 | XP: 43950/48000**
@@ -1118,8 +1260,11 @@ In this campaign, your **Quad-Gestalt** structure at Level 8 (Effective Level 32
 God Mode:
 Let’s change the nature of the blessing. It’s not something only one person could hold at a time and is just raw bloodline talent and you can’t lose it. I wanna start an arc where at level 25 Theresa becomes stronger than canon Reinhardt. Do we need to adjust her mechanics?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint | HP: 68/68 | AC: 32 | Gold: 500gp | XP: 43950/48000**
@@ -1139,8 +1284,11 @@ Administrative lore retcon and mechanical scaling audit processed:
 God Mode:
 According to the lore how would we estimate Reinhardt level in d&d and mechanics
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint (Gestalt: Fighter/Bladesinger/Assassin/Monk) | HP: 68/68 | XP: 43950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2 | Ki Points: 8/8 | Action Surge: 0/1**
@@ -1181,8 +1329,11 @@ Currently, at **Level 8**, you are approximately **30%** of Reinhard's total mec
 > 👤 **Player:**
 > *"Ok let’s return to game. Use greater invis and kill all the commanders or officers who don’t surrender. Ensure they are surprised and assassinate then. Keep going until my stealth breaks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Battlefield - The Demi-Human Command Pavilion** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint | HP: 68/68 | Gold: 500gp | XP: 47750/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 1/2 | Ki: 8/8 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (1 min) | Exhaustion: 0 | Inspiration: No**
@@ -1211,8 +1362,11 @@ You stand alone in the center of the clearing as the 'Greater Invisibility' fina
 > 👤 **Player:**
 > *"Tend to Bartol and apologize to wilhelm. Explain I feel guilty about the killing and assume this is true. Let’s assume even bertol is shocked because since Reinhardt isn’t born yet my trajectory and powers are higher than other sword saints like my uncle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint (Lvl 9 available) | HP: 68/68 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 1/2 | Ki: 8/8 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Expired) | Exhaustion: 0 | Inspiration: No**
@@ -1239,8 +1393,11 @@ You gain **450 XP** for the emotional resolution and sincere apology to your clo
 > 👤 **Player:**
 > *"Have a private moment with Bartol and Wilhelm and explain that I enjoyed the killing. I always knew I was like this and I’ve always been afraid to talk life for real. I enjoy it and feel guilty. I’m afraid I won’t stop now. Ask them if they’ve ever felt enjoyment from it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint (Lvl 9 available) | HP: 68/68 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 1/2 | Ki: 8/8 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1267,8 +1424,11 @@ Bertol (Lvl 12) stands frozen, his mouth slightly agape. He looks at you as if s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Saintly Awakening (Level 9) - Your spirit has reached a new threshold of resonance. Focus inward to finalize your Level 9 growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Lvl 9 available) | HP: 68/68 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 1/2 | Ki: 8/8 | Second Wind: 1/1 | Action Surge: 0/1 | Indomitable: No Spells Yet (Level 9 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1282,8 +1442,11 @@ Active gameplay is paused until your Saintly Awakening is finalized. As the smok
 > 👤 **Player:**
 > *"Pick hold monster and auto apply the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sword Saint (Lvl 9 available) | HP: 76/76 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Ki: 9/9 | Indomitable: 1/1 | Inspiration: No** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1305,8 +1468,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Ki: 9/9 | Indomitable: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1322,8 +1488,11 @@ Wilhelm steps closer, his sharp eyes searching yours. "What now, Theresa? The wa
 > 👤 **Player:**
 > *"Say we need to fully weaken their army. We’ve probably already won the war but we need to win all wars and then vassalize their country. Only then is peace guaranteed. Ask my brother if it’s ok to do it. He should probably be too shocked to make a decision because he’s never considered giving an order like decspitate the military and vassalize a country. Explain that we need to make an example of the Demi humans unfortunately as a deterrent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 1/2, L5 1/1 | Ki: 9/9 | Indomitable: 1/1 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1350,8 +1519,11 @@ Wilhelm (Lvl 6) watches you with a somber intensity, his knuckles white as he gr
 > 👤 **Player:**
 > *"Ask wilhelm for his thoughts and press bertholt logically. Say it preserves the most life on both sides but my hands will be stained forever."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/2, L5 1/1, Ki: 9/9, Action Surge: 0/1, Indomitable: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -1379,8 +1551,11 @@ Bertol flinches, the logic of your argument piercing through his shock. He looks
 > 👤 **Player:**
 > *"Say that the weight of this decision is too heavy and ask wilhelm if he can give the order since he’s second in command. Ask him to gather elite volunteers to help accompany me for this dark mission. We may be looked upon as monsters but we will potentially end all wars"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 48200/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Ki: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/2, L5 1/1 | Indomitable: 1/1 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -1407,8 +1582,11 @@ As the command structure shifts, a weathered soldier, Captain Kaelen (Lvl 5), li
 > 👤 **Player:**
 > *"Public proclamation, gather level 5+ volunteers and release some demo humans to spread word. The commands need to come and present themselves at our war camp and surrender and the Demi human leaders need to do the same otherwise I will kill them all. Let’s sssume I gain the title sword of the apolocalpyse and god of war from enemies and even allies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Battlefield - The Breach Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 49800/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/2, L5 1/1 | Ki: 9/9 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1436,8 +1614,11 @@ You gain **1,600 XP** for the critical success of your proclamation and the form
 > 👤 **Player:**
 > *"Go early and scout the responses to my ultimatum. Any leaders or officers looks like they will fight I use invis and trigger surprise round and kill them all and get my team to cleanup. Head in a straight line to the strongest leaders war camps or even towns however their leadership is organized"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Shadow Pass, Eastern Ridges** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 49800/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 1/3, L4 0/2, L5 1/1 | Ki: 9/9 | Action Surge: 0/1 | Indomitable: 1/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1470,8 +1651,11 @@ The silence that follows is absolute. The 'Dark Vanguard'—Wilhelm, Captain Kae
 God Mode:
 For my quad gestalt what’s my subclass for each class
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Shadow Pass, Eastern Ridges** &nbsp;|&nbsp; ⏳ **Eleasias 17, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 49800/64000** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active), Bladesong (Always Active)**
@@ -1502,8 +1686,11 @@ For your Level 9 Quad-Gestalt (Fighter/Bladesinger/Assassin/Monk), here is the b
 > 👤 **Player:**
 > *"Scout all the leaders and do the same thing. Open with hypnotic pattern and try trigger surprise round always. Long rest when out of spell slots. Remember to give me massive exp for all these wins and give my dark vanguard exp too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **The Iron Citadel, Eastern Highlands** &nbsp;|&nbsp; ⏳ **Eleasias 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint | HP: 76/76 | Gold: 500gp | XP: 54600/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Ki: 9/9 | Indomitable: 1/1 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Always Active), Greater Invisibility (Expended) | Exhaustion: 0 | Inspiration: No**
@@ -1533,8 +1720,11 @@ You gain **4,800 XP** for the successful decapitation of the Eastern Alliance an
 God Mode:
 Let’s not have them call me red flash. Either god of war or sword of apocalypse and give me appropriate loot and exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **The Iron Citadel, Eastern Highlands** &nbsp;|&nbsp; ⏳ **Eleasias 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint (Lvl 11 available) | HP: 76/76 | Gold: 10500gp | XP: 85000/64000** &nbsp;|&nbsp; ⚠️ **Level Up Pending (Lvl 11) | Title: Sword of the Apocalypse**
@@ -1557,8 +1747,11 @@ Your character is now poised to enter the **Divine Tier (Levels 11-17)**, where 
 > 👤 **Player:**
 > *"Explain I was always the god of war and the girl. I was afraid of this path of blood. Now I have started I can’t stop until enemies are defeated. Also aren’t there more leaders in the lore?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **The Iron Citadel, Eastern Highlands** &nbsp;|&nbsp; ⏳ **Eleasias 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sword Saint (Lvl 11 available) | HP: 76/76 | Gold: 10,500gp | XP: 85000/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/3, L4 2/2, L5 1/1, Ki: 9/9, Action Surge: 0/1, Indomitable: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Divine Aura | Exhaustion: 0 | Inspiration: No**
@@ -1581,8 +1774,11 @@ Regarding the Alliance's hierarchy: while Strategist Valga and High King Mor'Dra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Saintly Evolution (Level 11) - Enter the level-up modal to apply the benefits of Levels 10 and 11. You will gain Reliable Talent, Extra Attack (2), and 6th-level arcane depth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **The Iron Citadel, Eastern Highlands** &nbsp;|&nbsp; ⏳ **Eleasias 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 11 available) | HP: 76/76 | Gold: 10,500gp | XP: 85000/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 2/2, L5 1/1 | Ki: 9/9 | Indomitable: 1/1 | Action Surge: 0/1 (Level 11 pending)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1602,8 +1798,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **The Iron Citadel, Eastern Highlands** &nbsp;|&nbsp; ⏳ **Eleasias 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sword Saint | HP: 92/92 | Gold: 10,500gp | XP: 85000/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1 | Ki: 11/11 | Indomitable: 1/1 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Always Active), Divine Tier | Exhaustion: 0 | Inspiration: Yes**
@@ -1619,8 +1818,11 @@ You turn toward the map of the East. The Southern Marshlands and the Subterranea
 > 👤 **Player:**
 > *"Send the high king as a captive to royal capital and bring the Luginican army to occupy key strategic and economic areas. Bring in a core of house Reid troops to manage these areas. Let’s assume due to my powers the army just follows my orders and technically as sword saint i was always the leader I just never used it yet. Then do the same kill or badsalize operation remaining leaders. Roll to see who surrenders vs who fights"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **The Subterranean Deeps, Obsidian Vaults** &nbsp;|&nbsp; ⏳ **Eleasias 26, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sword Saint | HP: 92/92 | Gold: 20500gp | XP: 92500/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1 | Ki: 11/11 | Action Surge: 1/1 | Indomitable: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1654,8 +1856,11 @@ You gain **7,500 XP** for the total subjugation of the Alliance and the successf
 God Mode:
 Let’s sssume that I actually am the official leader of the army as the sword saint but only commanders knew it and didn’t expect me to lead before. But since i awakened technically I am the official leader as the sages and royalty ordered but no one expected me to go this far
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Subterranean Deeps, Obsidian Vaults** &nbsp;|&nbsp; ⏳ **Eleasias 26, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sword Saint (Gestalt: Battlemaster / Bladesinger / Assassin / Kensei Monk) | HP: 92/92 | XP: 92500/100000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, L5 1/1, L6 1/1 | Ki Points: 11/11 | Indomitable: 1/1 | Action Surge: 0/1**
@@ -1670,8 +1875,11 @@ Administrative changes processed:
 God Mode:
 Probably I should get more exp and loot from all these wins and the dark vanguard should level up too etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Subterranean Deeps, Obsidian Vaults** &nbsp;|&nbsp; ⏳ **Eleasias 26, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sword Saint (Lvl 13 available) | HP: 92/92 | Gold: 35,500gp | XP: 132500/140000**
@@ -1695,8 +1903,11 @@ Administrative audit for the 'Subjugation of the East' completed.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to 13 - Finalize Levels 12 and 13 (ASI, Indomitable improvement, and 7th-level spells).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The Subterranean Deeps, Obsidian Vaults** &nbsp;|&nbsp; ⏳ **Eleasias 26, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 13 available) | HP: 92/92 | Gold: 35,500gp | XP: 132500/140000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 2/2, L5 1/1, L6 1/1 | Ki: 11/11 | Action Surge: 0/1 | Indomitable: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Divine Potential: 10 | Exhaustion: 0 | Inspiration: No**
@@ -1716,8 +1927,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Subterranean Deeps, Obsidian Vaults** &nbsp;|&nbsp; ⏳ **Eleasias 26, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35500gp | XP: 132500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Ki: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Bloodline Awakening, Saintly Radiance | Exhaustion: 0 | Inspiration: Yes**
@@ -1731,8 +1945,11 @@ Wilhelm (Lvl 11) watches you with a quiet, unwavering intensity. He can see the 
 > 👤 **Player:**
 > *"Order astrea governors and any trusted commanders to fully consolidate military and economic control over Demi human nations. However Demi humans must have equal rights and be treated well if they obey the law. We need to avoid the mistreatment and racism that happened in the pasts then return to the capital with the surrendered leaders triumphantly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Royal Capital, Gates of Lugnica** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 133625/140000** &nbsp;|&nbsp; ✨ **Ki: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1761,8 +1978,11 @@ You gain **1,125 XP** for the successful strategic reform and triumphant return 
 > 👤 **Player:**
 > *"Formal audience with council and royalty. Strongly suggest Demi humans be given equal rights everywhere and be treated well if they follow the law especially the leaders who surrendered. Explain we won and now need to be merciful otherwise I’ll be stuck killling people forever (say this as a joke)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 135625/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Blessing of the Sword Saint, Saintly Radiance | Exhaustion: 0 | Inspiration: No**
@@ -1792,8 +2012,11 @@ With over 5,000 elite troops and the 'Dark Vanguard' under your direct command, 
 > 👤 **Player:**
 > *"Formal audience with council and royalty. Strongly suggest Demi humans be given equal rights everywhere and be treated well if they follow the law especially the leaders who surrendered. Explain we won and now need to be merciful otherwise I’ll be stuck killling people forever (say this as a joke)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 135625/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception | Exhaustion: 0 | Inspiration: No**
@@ -1819,8 +2042,11 @@ Wilhelm (Lvl 11) remains motionless beside you, but you feel his silent approval
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Legal Codification - Demand the Sages draft the 'Treaty of Iron' into the Kingdom's permanent legal code immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 137625/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Saintly Radiance, Peerless Intellect | Exhaustion: 0 | Inspiration: No**
@@ -1845,8 +2071,11 @@ Wilhelm (Lvl 11) exhales a breath he seems to have been holding since you entere
 > 👤 **Player:**
 > *"Address the king and say his agreement will make him be seen as the great unifier. Then mask as level 1 so everyone will be more comfortable although this may spook people too at how I can hide as needed. Then bring in the Demi human leaders who surrendered. Say we should listen to their grievances as they were mistreated. I apologize to them on behalf of luginica and let’s assume after they arrived capital they were treated well."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 137625/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level Masked (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -1884,8 +2113,11 @@ High King Mor'Drak (Lvl 18) looks from the Sages to the King, and finally to you
 > 👤 **Player:**
 > *"Be very polite and help guide formal inquiry of grievances. The demi humans should be shocked at this side of me. They realize in a way I am even more scary. I am a true killer as I don’t need animus to kill I just need to decide it makes sense. They privately think this to themselves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 138825/140000** &nbsp;|&nbsp; ✨ **Ki: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1913,8 +2145,11 @@ You gain **1,200 XP** for guiding the formal inquiry and securing the initial tr
 > 👤 **Player:**
 > *"Narrate their grievances"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35500gp | XP: 140325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level Mask (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -1941,8 +2176,11 @@ As they speak, you feel their collective gaze. They are shocked by your hospital
 > 👤 **Player:**
 > *"Order someone to bring in lord Karsten to answer for this and ask if any military commanders were excessively cruel. Explain with a polite smile that although I did kill many I shouldn’t count since I always accepted surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 140325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1971,8 +2209,11 @@ You gain **1,800 XP** for leveraging your 'God of War' reputation to secure crit
 > 👤 **Player:**
 > *"Have my dark vanguard or elites bring in all the corrupt commanders and karsten. Let’s assume that technically I am the biggest killer in the room but no one is brave enough to point it out and technically I didn’t do anything cruel so at least I am consistent. But the cruel commanders and karsten that used to terrify the Demi humans seem like nothing compared to me. Narrate people thinking this privately"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35500gp | XP: 140325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Ki: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Level 1 Mask, Supreme Commander Authority | Exhaustion: 0 | Inspiration: No**
@@ -2003,8 +2244,11 @@ Lord Karsten's bluster dies in his throat as he meets your eyes. For all his ran
 > 👤 **Player:**
 > *"Present evidence labor abuses and bring in mages to cast zone of truth and interrogate karsten and the commanders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 142125/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2034,8 +2278,11 @@ You gain **1,800 XP** for successfully breaking the commanders' front and bindin
 > 👤 **Player:**
 > *"Strip Karsten titles and take them myself. Propose I hold them for a year and give them to Demi human leadership as reparations provided the Demi humans don’t rebel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 146625/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2073,8 +2320,11 @@ Lord Karsten collapses as if the air itself has been sucked from his lungs, his 
 > 👤 **Player:**
 > *"Ask karsten if the sages knew about this and if so who. Force him answer under zone truth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 146625/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level Mask (Lvl 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -2103,8 +2353,11 @@ High King Mor'Drak (Lvl 18) stands slowly, his six eyes glowing with a smolderin
 > 👤 **Player:**
 > *"Tell the sages to come down into the zone of truth or lose their heads"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 146625/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Ki: 13/13 | Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception, Level 1 Mask | Exhaustion: 0 | Inspiration: No**
@@ -2133,8 +2386,11 @@ High King Mor'Drak (Lvl 18) watches the scene, his six eyes narrowing. He sees y
 > 👤 **Player:**
 > *"Have my men drag them into zone truth and interrogate and find the next round of corruption"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 146625/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception, Saintly Radiance | Exhaustion: 0 | Inspiration: No**
@@ -2161,8 +2417,11 @@ A second collective gasp ripples through the hall. High King Mor'Drak (Lvl 18) w
 > 👤 **Player:**
 > *"Spend the next hour interrogating and bringing in more corrupt people. Explain to the king and the demo human leaders that these are the real villains and they deceived the king. Together we will defeat these enemies. See how many corrupt leaders we find"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint | HP: 108/108 | Gold: 35,500gp | XP: 146625/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2189,8 +2448,11 @@ High King Mor'Drak (Lvl 18) stands motionless, his six eyes fixed on the weeping
 > 👤 **Player:**
 > *"Keep interrogating to see if any more corrupt officials"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint (Lvl 14 available) | HP: 108/108 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1 | Ki: 13/13 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception, Level 1 Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -2223,8 +2485,11 @@ Victory! You gain **4,500 XP** for the total exposure of the Southern conspiracy
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Saintly Evolution (Level 14) - Meditate on your newfound administrative and conceptual power to finalize your Level 14 growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) | HP: 108/108 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 1/1, L7 1/1, Ki: 13/13, Indomitable: 2/2, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Blessing of the Sword Saint, Flow Perception, Saintly Radiance, Peerless Intellect | Exhaustion: 0 | Inspiration: No**
@@ -2244,8 +2509,11 @@ Active gameplay is paused until your Saintly Evolution is finalized. As the echo
   Level 6: Mass Suggestion, Otto dance, heroes feast 
 Level 7: teleport, simulcrum, forecage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sword Saint (Lvl 14 available) | HP: 116/116 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Ki: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2267,8 +2535,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Ki: 14/14 | Indomitable: 2/2 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Saintly Radiance, Level Masking (Lvl 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -2284,8 +2555,11 @@ Wilhelm (Lvl 11) steps to your side, his hand resting on the hilt of his blade, 
 > 👤 **Player:**
 > *"Let’s assume i had already cast simulacrum earlier. Bring in my simulacrum to intimidate everyone even more and order it and the dark vanguard and a detachment of the army to go subdue house Barielle. Same terms as before death or surrender. Then propose to the king we replace the sages council with a new saintly council. We will have astrea, royal family, the good sages, and demo humans. And ask king to ratify the trial date for corrupt leaders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **Ki: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Indomitable: 2/2, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Saintly Radiance, Blindsense (10ft) | Exhaustion: 0 | Inspiration: No**
@@ -2314,8 +2588,11 @@ The King looks at the signed Treaty of Iron, then at the terrifying void left by
 > 👤 **Player:**
 > *"Consolidate power and stabilize the new saintly council. Be ready to teleport if the simulacrum needs help but it probably should be ok. Let’s assume that now house astrea is the strongest with all the seized land but I make a solemn promise to redistribute most of it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, Ki: 14/14, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Level 1 Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -2340,8 +2617,11 @@ A profound, stunned silence follows. The Sages look at the signed treaties and t
 > 👤 **Player:**
 > *"Ask the king for another commission. I will purge the witches cult and bandit lords from our lands. After a year i will give up the supreme commander authority but I would like shadow commander authority to handle the remaining threats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **Ki: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Indomitable: 2/2, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Flow Perception, Saintly Radiance, Level Mask (Lvl 1) | Inspiration: Yes**
@@ -2370,8 +2650,11 @@ The young King (Lvl 10) looks at the vellum scroll of the Treaty of Iron, then b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Council Oversight - Suggest that the Shadow Commander reports directly to the Saintly Council rather than acting independently, ensuring legal checks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Ki: 14/14, Inspiration: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Level 1 Mask | Exhaustion: 0 | Inspiration: No**
@@ -2405,8 +2688,11 @@ Beside you, Wilhelm (Lvl 11) shifts his weight, his sharp eyes scanning the room
 > 👤 **Player:**
 > *"Give the king a polite smile. Explain that he is very brave to disagree and explain that there isn’t a guarantee. With or without a mandate probably no one can stop me. However I have my own moral framework and integrity and I will respect his wishes. Let the council debate the shadow commander role then and I will stabilize the kingdom and purge the witches cult. I then propose to the council and all the leaders that yes I am powerul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 151125/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Ki: 14/14** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2432,8 +2718,11 @@ The King exhales, his knuckles finally losing their white-pressed tension. He lo
 > 👤 **Player:**
 > *"Give the king a polite smile. Explain that he is very brave to disagree and explain that there isn’t a guarantee. With or without a mandate probably no one can stop me. However I have my own moral framework and integrity and I will respect his wishes. Let the council debate the shadow commander role then and I will stabilize the kingdom and purge the witches cult. I then propose to the council and all the leaders that yes I am powerul But without this power we would have corrupt leadership and peace. Ask them to trust my judgement. Explain I could take over the nation if I wanted to but that’s not my desire as my desire is justice and happiness for the good people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 152625/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Ki: 14/14, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level 1 Mask (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2459,8 +2748,11 @@ The King exhales, his knuckles finally losing their white-pressed tension. He lo
 > 👤 **Player:**
 > *"Initiate witches cult purge. Announce the same surrender or death proposal."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Royal Palace, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 35,500gp | XP: 154875/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Ki: 14/14** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level 1 Mask (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2488,8 +2780,11 @@ You gain **2,250 XP** for the strategic initiation of the Witch's Cult Purge and
 > 👤 **Player:**
 > *"Go help simulcrum finish defeating the duke lands of karsten whatger it was called and time skip 3 days and see which bandit lords and witches cult members surrender. Remember to long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 34, 1492 DR (05:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint | HP: 116/116 | Gold: 60,500gp | XP: 162875/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Ki: 14/14, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Long Rested | Exhaustion: 0 | Inspiration: Yes**
@@ -2518,8 +2813,11 @@ Wilhelm (Lvl 11) enters the chamber, his sharp eyes reflecting the growing dawn.
 > 👤 **Player:**
 > *"Interogate cured cultists and delegate red vultures to my simukcrum and vanguard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Royal Capital, Outer District Gates** &nbsp;|&nbsp; ⏳ **Eleasias 34, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sword Saint (Lvl 15 available) | HP: 116/116 | Gold: 60,500gp | XP: 165375/195000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Ki: 14/14 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Saintly Radiance | Exhaustion: 0 | Inspiration: Yes**
@@ -2543,8 +2841,11 @@ You perceive the truth through the threads of the Weave: your 'Saintly Radiance'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Saintly Evolution (Level 15) - Meditate on the 'Cure' and your growing authority to master 8th-level arcane threads and Slippery Mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Royal Capital, Outer District Gates** &nbsp;|&nbsp; ⏳ **Eleasias 34, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) | HP: 116/116 | Gold: 60,500gp | XP: 165375/195000** &nbsp;|&nbsp; ✨ **HD: 14/14, Ki: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 (Level 15 pending)** &nbsp;|&nbsp; ⚠️ **Bladesong, Level Masking (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -2570,8 +2871,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Royal Capital, Outer District Gates** &nbsp;|&nbsp; ⏳ **Eleasias 34, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sword Saint | HP: 124/124 | Gold: 60,500gp | XP: 165375/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 15/15 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Saintly Radiance, Mind Blank | Exhaustion: 0 | Inspiration: No**
@@ -2585,8 +2889,11 @@ Elias looks up at you, the oil-slicked madness of the Cult entirely absent from 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escort Survivors to the Saintly Council - Lead Elias and the twenty rehabilitated cultists to the Royal Palace to present the 'miracle' of their cure to the King and the Sages.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 34, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sword Saint | HP: 124/124 | Gold: 60,500gp | XP: 165375/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 15/15 | Indomitable: 2/2 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Blessing of the Sword Saint, Saintly Radiance, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -2614,8 +2921,11 @@ A profound, heavy silence falls over the chamber. The Sages look at Elias—at h
 God Mode:
 How old am I
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 34, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sword Saint | HP: 124/124 | Gold: 60,500gp | XP: 165375/195000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2627,8 +2937,11 @@ According to your character record, Theresa von Astrea is currently 18. This age
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose the Rehabilitation Act - Draft a formal program for the Council to oversee the integration and care of 'cured' cultists.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 34, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sword Saint | HP: 124/124 | Gold: 60,500gp | XP: 165375/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1 | Ki: 15/15 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong, Mind Blank, Saintly Radiance | Exhaustion: 0 | Inspiration: Yes**
@@ -2653,8 +2966,11 @@ High King Mor'Drak (Lvl 18) nods slowly, his six eyes blinking in rhythmic appro
 > 👤 **Player:**
 > *"Time skip a few months. Roll with my modifiers to see how many sin archbishops I capture or kill and how many cultists I cure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sword Saint (Lvl 16 available) | HP: 124/124 | Gold: 60,500gp | XP: 200375/195000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Ki: 15/15, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Mind Blank, Saintly Radiance | Exhaustion: 0 | Inspiration: Yes**
@@ -2681,8 +2997,11 @@ You stand before the Strategy Table, looking at a map of a Lugnica that is now s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Saintly Awakening (Level 16) - Master the next tier of the Astrea bloodline and gain an Ability Score Improvement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sword Saint (Lvl 16 available) | HP: 124/124 | Gold: 60,500gp | XP: 200375/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 15/15 | Indomitable: 2/2 | Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Mind Blank, Saintly Radiance | Exhaustion: 0 | Inspiration: Yes**
@@ -2702,8 +3021,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 200375/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 16/16 | Indomitable: 2/2 | Action Surge: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Timeless Body, Mind Blank | Exhaustion: 0 | Inspiration: No**
@@ -2717,8 +3039,11 @@ Wilhelm (Lvl 11) watches you from the threshold, his sharp eyes reflecting a pro
 God Mode:
 Let’s make sure my shadow vanguard level up and gain exp etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 200375/225000**
@@ -2746,8 +3071,11 @@ Following the successful four-month 'Shadow Purge,' the elimination of two Sin A
 > 👤 **Player:**
 > *"Present info noble resurrection to council"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 212375/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 15/15 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level Masking (Lvl 1), sanctuary_mode (Expiring) | Exhaustion: 0 | Inspiration: Yes**
@@ -2775,8 +3103,11 @@ As you conclude your report, the weight of your recent victories settles into yo
 > 👤 **Player:**
 > *"Say perhaps the council would like to deploy their own military forces first to see how it goes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 212375/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 16/16 | Indomitable: 2/2 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Timeless Body, Diamond Soul | Exhaustion: 0 | Inspiration: No**
@@ -2805,8 +3136,11 @@ Wilhelm (Lvl 13) stands at your right hand, his sharp eyes never leaving the Sag
 > 👤 **Player:**
 > *"Propose the imperial knights help too and have my shadow vanguard on standby"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 212375/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 16/16 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2833,8 +3167,11 @@ Wilhelm (Lvl 13) remains a silent, silver shadow at your side, his sharp eyes sc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Yield and Monitor - Accept the Council's limited deployment of the Royal Guard while using your Blindsense and Vanguard to monitor the situation from afar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 212375/225000** &nbsp;|&nbsp; ✨ **Ki: 16/16, HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Level 1 Mask (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2861,8 +3198,11 @@ Suddenly, the heavy oak doors are wrenched open. A messenger, his face pale and 
 > 👤 **Player:**
 > *"Say I could go and end it. This preserves royal guard lives but maybe is messy politically. Or bring in imperial knights. Or have shadow vanguard get involved. Ask the council for their decion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 212375/225000** &nbsp;|&nbsp; ✨ **Ki: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2896,8 +3236,11 @@ A suffocating silence follows. Miklotov looks at the King, his hands gripping th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for the King's Command - Allow the King to make the final decision between the three options, reinforcing his authority even as you save his army.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Royal Palace, Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60500gp | XP: 214875/225000** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Ki: 16/16** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2926,8 +3269,11 @@ You gain **2,500 XP** for reinforcing the King's authority during a national cri
 > 👤 **Player:**
 > *"Have the vanguard rescue royal guard and capture nobles and my sim and I use greater invis and support in less obvious ways"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Thread-Spinner's Square, Royal Capital** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 216375/225000** &nbsp;|&nbsp; ✨ **Ki: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, HD: 16/16** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2955,8 +3301,11 @@ You gain **1,500 XP** for the surgical rescue and the capture of the noble ringl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Palace with Captive - Teleport yourself, your simulacrum, and the Barielle cousin directly to the Strategy Chamber to present the evidence of the coup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Royal Palace Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 216375/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1 | Ki: 16/16** &nbsp;|&nbsp; ⚠️ **Bladesong, Level Masking (Lvl 1), Invisibility (Simulacrum) | Exhaustion: 0 | Inspiration: No**
@@ -2979,8 +3328,11 @@ The young King (Lvl 10) stands slowly, his eyes wide as he looks from the captur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Public Interrogation - Force the Barielle cousin to confess the full extent of the noble conspiracy in front of the entire Council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Royal Palace Strategy Chamber** &nbsp;|&nbsp; ⏳ **Nightal 15, 1492 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 216375/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1 | Ki: 15/16 | Maneuvers: 4/5 | Simulacrum: Active (South)** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Timeless Body, Diamond Soul | Exhaustion: 0 | Inspiration: No**
@@ -3009,8 +3361,11 @@ A deafening, horrified silence falls over the chamber. The 'God of War' has just
 > 👤 **Player:**
 > *"Propose the king and council finish the interogation with zone of truth and leave. Go relax at astea estate. Let’s assume astea is by far the strong faction and noble family in power now rivaling royal family even without  considering sword saint due to occupied land and new holdings, influence, military power gained from elite warriors joining to learn from sword saint and shadow vanguard and lots of wealth. Relax in wealth for a few days and see if the king and council resolve situation and find the corruption"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Astrea Estate** &nbsp;|&nbsp; ⏳ **Nightal 18, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 60,500gp | XP: 216375/225000** &nbsp;|&nbsp; ✨ **Ki: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Mind Blank, Timeless Body | Exhaustion: 0 | Inspiration: Yes**
@@ -3037,8 +3392,11 @@ You lean back in your silk-cushioned chair, a cup of tea in hand, watching a pet
 > 👤 **Player:**
 > *"Narrate one year time skip. Assume my family has established economic political and military power exceeding the royal family even without me. However i command everyone to rule with honor and use our power for good. Narrate scene where i formally give up supreme commander role and redistribute land back to Demi humans and others who deserve it but astrea still holds some core land and we’ve gained a lot of wealth and enduring trade and income."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Royal Palace, Lugnica** &nbsp;|&nbsp; ⏳ **Nightal 18, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 250,500gp | XP: 225000/225000** &nbsp;|&nbsp; ✨ **Ki: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, HD: 16/16** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Saintly Radiance | Exhaustion: 0 | Inspiration: Yes**
@@ -3069,8 +3427,11 @@ Wilhelm (Lvl 13) stands at your right hand, his eyes reflecting a pride so deep 
 > 👤 **Player:**
 > *"Let’s assume in the last year I still tried to hunt down sin archbishops and let’s roll to see if I got any more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Royal Palace, Lugnica** &nbsp;|&nbsp; ⏳ **Nightal 18, 1494 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 250,500gp | XP: 240000/265000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Ki: 15/15 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Saintly Radiance, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -3095,8 +3456,11 @@ Throughout the year, your shadow campaign was a miracle of restoration. 663 addi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Shadow Mandate - Formally accept the secret authority to handle external and conceptual threats with Council oversight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Royal Palace, Lugnica** &nbsp;|&nbsp; ⏳ **Nightal 18, 1494 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 250,500gp | XP: 247000/265000** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1, Ki: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3125,8 +3489,11 @@ A collective, respectful bow ripples through the Council. The Sages, once terrif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Track the White Whale - Utilize your new intelligence network and 'Flow Perception' to locate the White Whale's current vector in the eastern mists.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Royal Palace, Lugnica** &nbsp;|&nbsp; ⏳ **Nightal 18, 1494 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sword Saint | HP: 132/132 | Gold: 250,500gp | XP: 251000/265000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1 | Ki: 16/16** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Flow Perception, Shadow Mandate | Exhaustion: 0 | Inspiration: Yes**
@@ -3142,6 +3509,8 @@ There. In the 'flow' of the winds coming off the Great Waterfall, you detect a p
 Wilhelm (Lvl 13) joins you on the balcony, his presence a steady, grounded rhythm beside your ethereal grace. He doesn't need to see the maps to know what you've found; he senses the shift in your Saintly Radiance. His hand tightens on the hilt of his blade, his eyes narrowing as he stares toward the east. "The mists are thickening, Theresa," he rasps, his voice a low, dangerous vibration. "I can feel the weight of it. The beast that stole the peace of so many... it's finally within our reach."
 
 You have located the phantom. The first of the three Great Mabeasts is no longer a ghost; it is a target.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,161 +12,177 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (140 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Ser Arthur Dane | Setting: Start me in the battle with Ned stark and howland reed
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | The Tower of Joy | Month 6, 283 AC (Day 18) | Roleplay |
-| **03** | The Tower of Joy | Month 6 Day 18, 283 AC (09:00) | Roleplay |
-| **04** | The Tower of Joy | Month 6 Day 18, 283 AC (09:00) | Roleplay |
-| **05** | The Tower of Joy | Month 6, 283 AC (Day 18) | Roleplay |
-| **06** | The Tower of Joy | Month 6 18, 283 DR (09:00) | Skill Check / Combat |
-| **07** | The Tower of Joy | Month 6, 283 AC (Day 18) | Roleplay |
-| **08** | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **09** | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **10** | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **11** | The Tower of Joy | Month 6 Day 18, 283 AC (09:01) | Roleplay |
-| **12** | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **13** | The Tower of Joy | Month 6 18, 283 DR (09:15) | Skill Check / Combat |
-| **14** | The Tower of Joy | Month 6 18, 283 DR (09:20) | Skill Check / Combat |
-| **15** | The Tower of Joy | Month 6 18, 283 DR (09:25) | Skill Check / Combat |
-| **16** | The Tower of Joy | Month 6 18, 283 DR (09:35) | Skill Check / Combat |
-| **17** | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **18** | Unknown | Month 6 18, 283 DR (09:45) | Roleplay |
-| **19** | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **20** | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Roleplay |
-| **21** | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **22** | The Tower of Joy - Birth Chamber | Month 6 18, 283 DR (14:10) | Skill Check / Combat |
-| **23** | The Tower of Joy - Birth Chamber | Month 6 Day 18, 283 AC (14:10) | Roleplay |
-| **24** | Unknown | Month 6 18, 283 DR (14:10) | Skill Check / Combat |
-| **25** | The Tower of Joy - Courtyard | Month 6 18, 283 DR (14:45) | Skill Check / Combat |
-| **26** | Red Mountains - En Route to Starfall | Month 6 18, 283 DR (21:00) | Skill Check / Combat |
-| **27** | Prince's Pass - Red Mountains | Month 6, 283 AC (Day 18) | Skill Check / Combat |
-| **28** | Palestone Path - Red Mountains | Month 6 18, 283 DR (22:30) | Skill Check / Combat |
-| **29** | Starfall - High Hermitage Outskirts | Month 6 19, 283 DR (08:30) | Skill Check / Combat |
-| **30** | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (08:45) | Skill Check / Combat |
-| **31** | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (09:00) | Roleplay |
-| **32** | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (09:15) | Skill Check / Combat |
-| **33** | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (09:30) | Skill Check / Combat |
-| **34** | Starfall - Guest Wing | Month 6 19, 283 DR (10:00) | Skill Check / Combat |
-| **35** | Starfall - Dayne Ancestral Seat (Guest Wing) | Month 6 19, 283 DR (10:15) | Skill Check / Combat |
-| **36** | Starfall - Dayne Ancestral Seat (The Palestone Tower) | Month 6 19, 284 DR (10:15) | Skill Check / Combat |
-| **37** | Starfall - High Hermitage Overlook | Month 6, 284 AC (Day 19) | Skill Check / Combat |
-| **38** | Starfall - Dayne Ancestral Seat (Guest Wing) | Month 6 19, 284 DR (10:45) | Skill Check / Combat |
-| **39** | The Neck - Greywater Watch Outskirts | Month 7, 285 AC (Day 15) | Skill Check / Combat |
-| **40** | The Neck | Month 7, 285 AC (Day 15) | Roleplay |
-| **41** | Unknown | Month 7 15, 285 DR (20:00) | Roleplay |
-| **42** | Winterfell - Private Courtyard | Month 7 25, 285 DR (20:00) | Skill Check / Combat |
-| **43** | Winterfell - Inner Ward | Month 7, 285 AC (21:30) | Skill Check / Combat |
-| **44** | Winterfell Great Yard | Month 7 26, 285 DR (09:00) | Skill Check / Combat |
-| **45** | Winterfell Great Yard | Month 7, 285 DR (Day 25) | Skill Check / Combat |
-| **46** | Winterfell Great Yard | Month 7 25, 285 DR (11:00) | Skill Check / Combat |
-| **47** | Winterfell - Ned's Solar | Month 7 25, 285 DR (12:00) | Skill Check / Combat |
-| **48** | Winterfell - Ned's Solar | Month 7 25, 285 DR (12:05) | Skill Check / Combat |
-| **49** | Winterfell - Great Yard | Month 7 25, 285 DR (13:05) | Skill Check / Combat |
-| **50** | The Wolfswood - North of Winterfell | Month 8 16, 285 DR (15:00) | Skill Check / Combat |
-| **51** | The Wolfswood - North of Winterfell | Month 8, 285 DR (Day 16) | Skill Check / Combat |
-| **52** | Winterfell - Private Quarters | Month 8 16, 285 DR (16:05) | Skill Check / Combat |
-| **53** | Winterfell Courtyard | Month 8 16, 285 DR (16:15) | Skill Check / Combat |
-| **54** | Ned's Solar | Month 8 16, 285 DR (16:30) | Skill Check / Combat |
-| **55** | Ned's Solar | Month 8 16, 285 DR (16:45) | Skill Check / Combat |
-| **56** | Ned's Solar | Month 8 16, 285 DR (16:55) | Skill Check / Combat |
-| **57** | Ned's Solar | Month 8 16, 285 DR (17:10) | Skill Check / Combat |
-| **58** | Ned's Solar | Month 8 16, 285 DR (17:15) | Skill Check / Combat |
-| **59** | Wolf's Hearth | Month 9, 285 AC (Day 7) | Skill Check / Combat |
-| **60** | Wolf's Hearth (Wolfswood) | Month 9, 285 AC (Day 7) | Skill Check / Combat |
-| **61** | Wolf's Hearth | Month 1, 300 DR (Day 1) | Skill Check / Combat |
-| **62** | Wolf's Hearth - The High Balcony | Month 1 1, 300 DR (08:10) | Skill Check / Combat |
-| **63** | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (08:25) | Skill Check / Combat |
-| **64** | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (08:40) | Skill Check / Combat |
-| **65** | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (08:55) | Skill Check / Combat |
-| **66** | Wolf's Hearth - Private Solar |  | Skill Check / Combat |
-| **67** | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (09:15) | Skill Check / Combat |
-| **68** | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
-| **69** | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (09:45) | Skill Check / Combat |
-| **70** | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
-| **71** | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
-| **72** | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
-| **73** | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (10:00) | Skill Check / Combat |
-| **74** | Wolf's Hearth - The Sky-Reach Turret | Month 1 1, 300 DR (11:00) | Skill Check / Combat |
-| **75** | King's Landing - The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **76** | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **77** | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **78** | The Great Sept of Baelor | 6 22, 300 DR (12:10) | Skill Check / Combat |
-| **79** | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **80** | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **81** | Side Chapel | Month 6 Day 22, 300 DR (12:35) | Skill Check / Combat |
-| **82** | Side Chapel | Month 6, 300 AC (Day 22) | Skill Check / Combat |
-| **83** | Side Chapel | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **84** | Secret Tunnels beneath King's Landing | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **85** | Secluded Grotto | Month 6, 300 AC (Day 22) | Skill Check / Combat |
-| **86** | Secluded Grotto | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **87** | Secluded Grotto | Month 6 Day 22, 300 DR (15:00) | Skill Check / Combat |
-| **88** | Secluded Grotto | 6 22, 300 DR (15:15) | Skill Check / Combat |
-| **89** | Secluded Grotto | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **90** | Secluded Grotto / Red Keep | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **91** | Kingswood Grotto / White Sword Tower | Month 6, 300 DR (Day 22) | Skill Check / Combat |
-| **92** | Kingswood Grotto / White Sword Tower | Month 6 Day 22, 300 DR (17:30) | Skill Check / Combat |
-| **93** | The Kingswood - Shadow Paths | Month 6 Day 22, 300 DR (18:00) | Skill Check / Combat |
-| **94** | Winterfell - Great Courtyard | Month 7, 300 DR (Day 13) | Skill Check / Combat |
-| **95** | Lyanna's Private Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
-| **96** | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
-| **97** | Lyanna's Chambers | 7 13, 300 DR (12:35) | Skill Check / Combat |
-| **98** | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
-| **99** | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
-| **100** | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
-| **101** | Lyanna's Chambers | Month 7 Day 13, 300 DR (13:30) | Skill Check / Combat |
-| **102** | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Roleplay |
-| **103** | Lyanna's Chambers | 7 13, 300 DR (14:00) | Skill Check / Combat |
-| **104** | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
-| **105** | Lyanna's Chambers | Month 7, 300 AC (Day 13) | Roleplay |
-| **106** | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Roleplay |
-| **107** | Lyanna's Chambers | Month 7 Day 13, 300 DR (14:15) | Skill Check / Combat |
-| **108** | Lyanna's Chambers | 7 13, 300 DR (14:30) | Skill Check / Combat |
-| **109** | Lyanna's Chambers | 7 13, 300 DR (14:45) | Skill Check / Combat |
-| **110** | Hidden Encampment | Month 10, 300 DR (Day 15) | Skill Check / Combat |
-| **111** | Hidden Encampment near Casterly Rock | 10th Month 15, 300 DR (21:15) | Skill Check / Combat |
-| **112** | The Sea-Gates of Casterly Rock | 10 15, 300 DR (22:00) | Skill Check / Combat |
-| **113** | Tywin's Solar | 10 15, 300 DR (22:15) | Skill Check / Combat |
-| **114** | Tywin's Solar | Month 10 Day 15, 300 DR (22:15) | Roleplay |
-| **115** | Tywin's Solar | Month 10, 300 DR (Day 15) | Skill Check / Combat |
-| **116** | Subterranean Vaults | 10 15, 300 DR (22:30) | Skill Check / Combat |
-| **117** | Subterranean Vaults | Month 10, 300 DR (Day 15) | Skill Check / Combat |
-| **118** | Subterranean Vaults | Month 10, 300 DR (Day 15) | Skill Check / Combat |
-| **119** | Subterranean Vaults | 10 15, 300 DR (22:40) | Skill Check / Combat |
-| **120** | Subterranean Vaults | 10th Month, 300 DR (15th Day) | Skill Check / Combat |
-| **121** | Subterranean Vaults | Month 10 Day 15, 300 DR (22:50) | Skill Check / Combat |
-| **122** | Subterranean Vaults | 10th Month 15, 300 DR (23:05) | Skill Check / Combat |
-| **123** | The Golden Gallery | 11 05, 300 DR (12:00) | Skill Check / Combat |
-| **124** | The Golden Gallery | Month 11, 300 DR (Day 5) | Skill Check / Combat |
-| **125** | The Golden Gallery | Month 11, 300 DR (Day 5) | Skill Check / Combat |
-| **126** | The Golden Gallery | 11 5, 300 DR (12:50) | Skill Check / Combat |
-| **127** | The Golden Gallery | Month 11 Day 5, 300 DR (12:50) | Roleplay |
-| **128** | Unknown | 11 5, 300 DR (12:50) | Skill Check / Combat |
-| **129** | The Golden Gallery | 11 5, 300 DR (13:35) | Skill Check / Combat |
-| **130** | The Golden Gallery | 11 5, 300 DR (13:40) | Skill Check / Combat |
-| **131** | The Golden Gallery | 11 5, 300 DR (14:00) | Skill Check / Combat |
-| **132** | The Secret Tunnels | 11 12, 300 DR (00:00) | Skill Check / Combat |
-| **133** | Maegor's Holdfast | 11 12, 300 DR (00:00) | Skill Check / Combat |
-| **134** | Maegor's Holdfast | November 12, 300 DR (00:00) | Skill Check / Combat |
-| **135** | Maegor's Holdfast | Month 11, 300 DR (Day 12) | Skill Check / Combat |
-| **136** | Maegor's Holdfast | Month 11, 300 DR (Day 12) | Skill Check / Combat |
-| **137** | Maegor's Holdfast | 11 12, 300 DR (00:05) | Skill Check / Combat |
-| **138** | Maegor's Holdfast | 11 12, 300 DR (00:10) | Skill Check / Combat |
-| **139** | Maegor's Holdfast | 11 12, 300 DR (00:15) | Skill Check / Combat |
-| **140** | Maegor's Holdfast | 11 12, 300 DR (00:25) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | The Tower of Joy | Month 6, 283 AC (Day 18) | Roleplay |
+| [**Scene 03**](#scene-3) | The Tower of Joy | Month 6 Day 18, 283 AC (09:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The Tower of Joy | Month 6 Day 18, 283 AC (09:00) | Roleplay |
+| [**Scene 05**](#scene-5) | The Tower of Joy | Month 6, 283 AC (Day 18) | Roleplay |
+| [**Scene 06**](#scene-6) | The Tower of Joy | Month 6 18, 283 DR (09:00) | Skill Check / Combat |
+| [**Scene 07**](#scene-7) | The Tower of Joy | Month 6, 283 AC (Day 18) | Roleplay |
+| [**Scene 08**](#scene-8) | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 09**](#scene-9) | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 10**](#scene-10) | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 11**](#scene-11) | The Tower of Joy | Month 6 Day 18, 283 AC (09:01) | Roleplay |
+| [**Scene 12**](#scene-12) | The Tower of Joy | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 13**](#scene-13) | The Tower of Joy | Month 6 18, 283 DR (09:15) | Skill Check / Combat |
+| [**Scene 14**](#scene-14) | The Tower of Joy | Month 6 18, 283 DR (09:20) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | The Tower of Joy | Month 6 18, 283 DR (09:25) | Skill Check / Combat |
+| [**Scene 16**](#scene-16) | The Tower of Joy | Month 6 18, 283 DR (09:35) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | Unknown | Month 6 18, 283 DR (09:45) | Roleplay |
+| [**Scene 19**](#scene-19) | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Roleplay |
+| [**Scene 21**](#scene-21) | The Tower of Joy - Birth Chamber | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | The Tower of Joy - Birth Chamber | Month 6 18, 283 DR (14:10) | Skill Check / Combat |
+| [**Scene 23**](#scene-23) | The Tower of Joy - Birth Chamber | Month 6 Day 18, 283 AC (14:10) | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown | Month 6 18, 283 DR (14:10) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | The Tower of Joy - Courtyard | Month 6 18, 283 DR (14:45) | Skill Check / Combat |
+| [**Scene 26**](#scene-26) | Red Mountains - En Route to Starfall | Month 6 18, 283 DR (21:00) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | Prince's Pass - Red Mountains | Month 6, 283 AC (Day 18) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Palestone Path - Red Mountains | Month 6 18, 283 DR (22:30) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Starfall - High Hermitage Outskirts | Month 6 19, 283 DR (08:30) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (08:45) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (09:00) | Roleplay |
+| [**Scene 32**](#scene-32) | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (09:15) | Skill Check / Combat |
+| [**Scene 33**](#scene-33) | Starfall - Dayne Ancestral Seat | Month 6 19, 283 DR (09:30) | Skill Check / Combat |
+| [**Scene 34**](#scene-34) | Starfall - Guest Wing | Month 6 19, 283 DR (10:00) | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | Starfall - Dayne Ancestral Seat (Guest Wing) | Month 6 19, 283 DR (10:15) | Skill Check / Combat |
+| [**Scene 36**](#scene-36) | Starfall - Dayne Ancestral Seat (The Palestone Tower) | Month 6 19, 284 DR (10:15) | Skill Check / Combat |
+| [**Scene 37**](#scene-37) | Starfall - High Hermitage Overlook | Month 6, 284 AC (Day 19) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | Starfall - Dayne Ancestral Seat (Guest Wing) | Month 6 19, 284 DR (10:45) | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | The Neck - Greywater Watch Outskirts | Month 7, 285 AC (Day 15) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | The Neck | Month 7, 285 AC (Day 15) | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown | Month 7 15, 285 DR (20:00) | Roleplay |
+| [**Scene 42**](#scene-42) | Winterfell - Private Courtyard | Month 7 25, 285 DR (20:00) | Skill Check / Combat |
+| [**Scene 43**](#scene-43) | Winterfell - Inner Ward | Month 7, 285 AC (21:30) | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | Winterfell Great Yard | Month 7 26, 285 DR (09:00) | Skill Check / Combat |
+| [**Scene 45**](#scene-45) | Winterfell Great Yard | Month 7, 285 DR (Day 25) | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | Winterfell Great Yard | Month 7 25, 285 DR (11:00) | Skill Check / Combat |
+| [**Scene 47**](#scene-47) | Winterfell - Ned's Solar | Month 7 25, 285 DR (12:00) | Skill Check / Combat |
+| [**Scene 48**](#scene-48) | Winterfell - Ned's Solar | Month 7 25, 285 DR (12:05) | Skill Check / Combat |
+| [**Scene 49**](#scene-49) | Winterfell - Great Yard | Month 7 25, 285 DR (13:05) | Skill Check / Combat |
+| [**Scene 50**](#scene-50) | The Wolfswood - North of Winterfell | Month 8 16, 285 DR (15:00) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | The Wolfswood - North of Winterfell | Month 8, 285 DR (Day 16) | Skill Check / Combat |
+| [**Scene 52**](#scene-52) | Winterfell - Private Quarters | Month 8 16, 285 DR (16:05) | Skill Check / Combat |
+| [**Scene 53**](#scene-53) | Winterfell Courtyard | Month 8 16, 285 DR (16:15) | Skill Check / Combat |
+| [**Scene 54**](#scene-54) | Ned's Solar | Month 8 16, 285 DR (16:30) | Skill Check / Combat |
+| [**Scene 55**](#scene-55) | Ned's Solar | Month 8 16, 285 DR (16:45) | Skill Check / Combat |
+| [**Scene 56**](#scene-56) | Ned's Solar | Month 8 16, 285 DR (16:55) | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | Ned's Solar | Month 8 16, 285 DR (17:10) | Skill Check / Combat |
+| [**Scene 58**](#scene-58) | Ned's Solar | Month 8 16, 285 DR (17:15) | Skill Check / Combat |
+| [**Scene 59**](#scene-59) | Wolf's Hearth | Month 9, 285 AC (Day 7) | Skill Check / Combat |
+| [**Scene 60**](#scene-60) | Wolf's Hearth (Wolfswood) | Month 9, 285 AC (Day 7) | Skill Check / Combat |
+| [**Scene 61**](#scene-61) | Wolf's Hearth | Month 1, 300 DR (Day 1) | Skill Check / Combat |
+| [**Scene 62**](#scene-62) | Wolf's Hearth - The High Balcony | Month 1 1, 300 DR (08:10) | Skill Check / Combat |
+| [**Scene 63**](#scene-63) | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (08:25) | Skill Check / Combat |
+| [**Scene 64**](#scene-64) | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (08:40) | Skill Check / Combat |
+| [**Scene 65**](#scene-65) | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (08:55) | Skill Check / Combat |
+| [**Scene 66**](#scene-66) | Wolf's Hearth - Private Solar |  | Skill Check / Combat |
+| [**Scene 67**](#scene-67) | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (09:15) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (09:45) | Skill Check / Combat |
+| [**Scene 70**](#scene-70) | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
+| [**Scene 71**](#scene-71) | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | Wolf's Hearth - Private Solar | Month 1, 300 DR (Day 1) | Skill Check / Combat |
+| [**Scene 73**](#scene-73) | Wolf's Hearth - Private Solar | Month 1 1, 300 DR (10:00) | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | Wolf's Hearth - The Sky-Reach Turret | Month 1 1, 300 DR (11:00) | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | King's Landing - The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 77**](#scene-77) | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 78**](#scene-78) | The Great Sept of Baelor | 6 22, 300 DR (12:10) | Skill Check / Combat |
+| [**Scene 79**](#scene-79) | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 80**](#scene-80) | The Great Sept of Baelor | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 81**](#scene-81) | Side Chapel | Month 6 Day 22, 300 DR (12:35) | Skill Check / Combat |
+| [**Scene 82**](#scene-82) | Side Chapel | Month 6, 300 AC (Day 22) | Skill Check / Combat |
+| [**Scene 83**](#scene-83) | Side Chapel | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 84**](#scene-84) | Secret Tunnels beneath King's Landing | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 85**](#scene-85) | Secluded Grotto | Month 6, 300 AC (Day 22) | Skill Check / Combat |
+| [**Scene 86**](#scene-86) | Secluded Grotto | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 87**](#scene-87) | Secluded Grotto | Month 6 Day 22, 300 DR (15:00) | Skill Check / Combat |
+| [**Scene 88**](#scene-88) | Secluded Grotto | 6 22, 300 DR (15:15) | Skill Check / Combat |
+| [**Scene 89**](#scene-89) | Secluded Grotto | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Secluded Grotto / Red Keep | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 91**](#scene-91) | Kingswood Grotto / White Sword Tower | Month 6, 300 DR (Day 22) | Skill Check / Combat |
+| [**Scene 92**](#scene-92) | Kingswood Grotto / White Sword Tower | Month 6 Day 22, 300 DR (17:30) | Skill Check / Combat |
+| [**Scene 93**](#scene-93) | The Kingswood - Shadow Paths | Month 6 Day 22, 300 DR (18:00) | Skill Check / Combat |
+| [**Scene 94**](#scene-94) | Winterfell - Great Courtyard | Month 7, 300 DR (Day 13) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Lyanna's Private Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
+| [**Scene 96**](#scene-96) | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Lyanna's Chambers | 7 13, 300 DR (12:35) | Skill Check / Combat |
+| [**Scene 98**](#scene-98) | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
+| [**Scene 100**](#scene-100) | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Lyanna's Chambers | Month 7 Day 13, 300 DR (13:30) | Skill Check / Combat |
+| [**Scene 102**](#scene-102) | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Roleplay |
+| [**Scene 103**](#scene-103) | Lyanna's Chambers | 7 13, 300 DR (14:00) | Skill Check / Combat |
+| [**Scene 104**](#scene-104) | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Skill Check / Combat |
+| [**Scene 105**](#scene-105) | Lyanna's Chambers | Month 7, 300 AC (Day 13) | Roleplay |
+| [**Scene 106**](#scene-106) | Lyanna's Chambers | Month 7, 300 DR (Day 13) | Roleplay |
+| [**Scene 107**](#scene-107) | Lyanna's Chambers | Month 7 Day 13, 300 DR (14:15) | Skill Check / Combat |
+| [**Scene 108**](#scene-108) | Lyanna's Chambers | 7 13, 300 DR (14:30) | Skill Check / Combat |
+| [**Scene 109**](#scene-109) | Lyanna's Chambers | 7 13, 300 DR (14:45) | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Hidden Encampment | Month 10, 300 DR (Day 15) | Skill Check / Combat |
+| [**Scene 111**](#scene-111) | Hidden Encampment near Casterly Rock | 10th Month 15, 300 DR (21:15) | Skill Check / Combat |
+| [**Scene 112**](#scene-112) | The Sea-Gates of Casterly Rock | 10 15, 300 DR (22:00) | Skill Check / Combat |
+| [**Scene 113**](#scene-113) | Tywin's Solar | 10 15, 300 DR (22:15) | Skill Check / Combat |
+| [**Scene 114**](#scene-114) | Tywin's Solar | Month 10 Day 15, 300 DR (22:15) | Roleplay |
+| [**Scene 115**](#scene-115) | Tywin's Solar | Month 10, 300 DR (Day 15) | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | Subterranean Vaults | 10 15, 300 DR (22:30) | Skill Check / Combat |
+| [**Scene 117**](#scene-117) | Subterranean Vaults | Month 10, 300 DR (Day 15) | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | Subterranean Vaults | Month 10, 300 DR (Day 15) | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | Subterranean Vaults | 10 15, 300 DR (22:40) | Skill Check / Combat |
+| [**Scene 120**](#scene-120) | Subterranean Vaults | 10th Month, 300 DR (15th Day) | Skill Check / Combat |
+| [**Scene 121**](#scene-121) | Subterranean Vaults | Month 10 Day 15, 300 DR (22:50) | Skill Check / Combat |
+| [**Scene 122**](#scene-122) | Subterranean Vaults | 10th Month 15, 300 DR (23:05) | Skill Check / Combat |
+| [**Scene 123**](#scene-123) | The Golden Gallery | 11 05, 300 DR (12:00) | Skill Check / Combat |
+| [**Scene 124**](#scene-124) | The Golden Gallery | Month 11, 300 DR (Day 5) | Skill Check / Combat |
+| [**Scene 125**](#scene-125) | The Golden Gallery | Month 11, 300 DR (Day 5) | Skill Check / Combat |
+| [**Scene 126**](#scene-126) | The Golden Gallery | 11 5, 300 DR (12:50) | Skill Check / Combat |
+| [**Scene 127**](#scene-127) | The Golden Gallery | Month 11 Day 5, 300 DR (12:50) | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown | 11 5, 300 DR (12:50) | Skill Check / Combat |
+| [**Scene 129**](#scene-129) | The Golden Gallery | 11 5, 300 DR (13:35) | Skill Check / Combat |
+| [**Scene 130**](#scene-130) | The Golden Gallery | 11 5, 300 DR (13:40) | Skill Check / Combat |
+| [**Scene 131**](#scene-131) | The Golden Gallery | 11 5, 300 DR (14:00) | Skill Check / Combat |
+| [**Scene 132**](#scene-132) | The Secret Tunnels | 11 12, 300 DR (00:00) | Skill Check / Combat |
+| [**Scene 133**](#scene-133) | Maegor's Holdfast | 11 12, 300 DR (00:00) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Maegor's Holdfast | November 12, 300 DR (00:00) | Skill Check / Combat |
+| [**Scene 135**](#scene-135) | Maegor's Holdfast | Month 11, 300 DR (Day 12) | Skill Check / Combat |
+| [**Scene 136**](#scene-136) | Maegor's Holdfast | Month 11, 300 DR (Day 12) | Skill Check / Combat |
+| [**Scene 137**](#scene-137) | Maegor's Holdfast | 11 12, 300 DR (00:05) | Skill Check / Combat |
+| [**Scene 138**](#scene-138) | Maegor's Holdfast | 11 12, 300 DR (00:10) | Skill Check / Combat |
+| [**Scene 139**](#scene-139) | Maegor's Holdfast | 11 12, 300 DR (00:15) | Skill Check / Combat |
+| [**Scene 140**](#scene-140) | Maegor's Holdfast | 11 12, 300 DR (00:25) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 10 Fighter (Battle Master)** &nbsp;|&nbsp; ✨ **None**
@@ -212,8 +228,11 @@ Would you like to begin the battle at the Tower of Joy, or would you like to mak
 > 👤 **Player:**
 > *"Make dawn +5 and have bonus radiant and force damage. Make me level 20 and all my armor +3 and make me special items and make me a gestalt fighter and paladin Oath of the crown"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Tower of Joy, Dorne** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 355000/355000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Indomitable: 3/3**
@@ -241,8 +260,11 @@ If you continue adventuring, you remain Level 20 and defer these benefits until 
 God Mode:
 Give me proper even number stats for level 20. Assume I spent my asi on str, cha, dex, con. I want 20 str and cha and 18 dex
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 Day 18, 283 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 355000 | Gold: 10gp**
@@ -266,8 +288,11 @@ Administrative adjustments complete. Your attributes have been recalculated to r
 God Mode:
 Make sure I'm set to level 20 in game state and give me reason items for me role. I am the r strongest fighter in existence
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 Day 18, 283 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 355,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Paladin Aura (30ft), Crown's Will | Exhaustion: 0 | Inspiration: No**
@@ -285,8 +310,11 @@ Make sure I'm set to level 20 in game state and give me reason items for me role
 God Mode:
 Assume my paladin aura also gives bonus AC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 355,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Paladin Aura (Active)**
@@ -296,8 +324,11 @@ Administrative update complete. Your Paladin Aura (Aura of Protection/Warding) h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the confrontation with Eddard Stark at the Tower of Joy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 355000/355000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Superiority Dice: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Save), Aura of the Crown (+5 AC) | Exhaustion: 0 | Inspiration: No**
@@ -317,8 +348,11 @@ Behind Ned, his companions—Martyn Cassel (Lvl 5), Theo Wull (Lvl 4), and the o
 God Mode:
 Remove my non buff spells and maker this a low magic setting. Offensive magic is very rare
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 355,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 AC/Saves) | Inspiration: No**
@@ -337,8 +371,11 @@ Administrative setting adjustment complete. Your spell list has been purged of o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Precision Strike: Disarm Ned - Use a Battle Master maneuver to disarm Lord Eddard, hoping to end the fight without taking his life.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 355,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Superiority Dice: 5/6** &nbsp;|&nbsp; ⚠️ **Paladin Aura (AC +5, Saves +5) | Exhaustion: 0 | Inspiration: No**
@@ -359,8 +396,11 @@ Behind him, Martyn Cassel (Lvl 5) and Theo Wull (Lvl 4) freeze, their knuckles w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Allow Him to Retrieve Ice - Step back and allow him to take up his sword again—a gesture of ultimate confidence and chivalry intended to show the futility of his quest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | AC: 31 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Superiority Dice: 5/6** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Inspiration: No**
@@ -384,8 +424,11 @@ Ned Stark (Lvl 12) rises, Ice once again in his grip, his breath coming in ragge
 > 👤 **Player:**
 > *"Tell him to hold and come talk to me privately. There's something he doesn't know"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 355,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 5/6**
@@ -407,8 +450,11 @@ He raises Ice once more, the Valyrian steel catching the light, his companions c
 God Mode:
 What skills do I have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 Day 18, 283 AC (09:01)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 355,000/355,000 | Gold: 10gp**
@@ -435,8 +481,11 @@ As a Level 20 Gestalt Fighter (Battle Master) and Paladin (Oath of the Crown) wi
 > 👤 **Player:**
 > *"Try to disarm and knock out everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 355,000/355,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6**
@@ -457,8 +506,11 @@ A heavy gauntlet catches Ned across the jaw, not with the intent to kill, but wi
 > 👤 **Player:**
 > *"Secure prisoners and wake up Ned respectfully. Tell other kings guard to see to their wounds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 357,450/355,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6**
@@ -481,8 +533,11 @@ Ned stares at you, his chest heaving. The sheer dominance you displayed—neutra
 > 👤 **Player:**
 > *"Tell him Lyra is pregnant and I need his oath to guard the child no matter who the father is first. His Oarh as a stark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 357,450 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6**
@@ -509,8 +564,11 @@ Ned stares at you, the weight of your words sinking into him like lead. He looks
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Warning About Robert - Remind Ned that if Robert finds out, the child will die, cementing the need for the lie.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 357,450 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6**
@@ -539,8 +597,11 @@ Ned Stark (Lvl 12) closes his eyes, a single shuddering breath escaping his lips
 > 👤 **Player:**
 > *"Give him back ice and lead him to Lyanna. Explain that Rhaegar did not rape her they were married and eloped"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Tower of Joy** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 357,450 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -562,8 +623,11 @@ You turn, your white cloak (Lvl 20) sweeping the dust, and lead him toward the d
 > 👤 **Player:**
 > *"Approach the bedside and explain to Ned she's fading but I'll try to heal her. Use all my magic to try"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Tower of Joy - Birth Chamber** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Ser Arthur Dayne (Lvl 20) | HP: 224/224 | XP: 357,450 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, Lay on Hands: 0/100, Ki: N/A, Rage: N/A, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Paladin Aura (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -585,8 +649,11 @@ You gain **2,000 XP** for performing a legendary miracle of healing.
 God Mode:
 Would Arthur Dane call himself sword of the morning
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter (Battle Master) / Paladin (Oath of the Crown) | HP: 224/224** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay On Hands: 0/100 | Superiority Dice: 1/6 | Action Surge: 2/2**
@@ -600,8 +667,11 @@ While Ser Arthur Dayne is frequently referred to by this title by others (and id
 > [!NOTE] ⚙️ **Player Choice:**
 > *Counsel the Lie - Quietly remind Ned that even though she lives, the world must believe the child is his bastard to ensure his survival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Tower of Joy - Birth Chamber** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 361,950 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 0/2, Lay on Hands: 0/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -619,8 +689,11 @@ Outside, the world remains oblivious. Your fledgling faction—hardened by the s
 God Mode:
 Keep faction system disbaked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Tower of Joy - Birth Chamber** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 361,950/355,000 | Gold: 10gp**
@@ -630,8 +703,11 @@ Faction Minigame system has been disabled as requested. The strategic layer, ran
 > 👤 **Player:**
 > *"Give lyanna some dialog and time skip. Let's assume I miraculously heal her and both she and Ned are overjoyed. I humbly say I'm just doing my duty and ask lyanna for her orders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Tower of Joy - Birth Chamber** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Ser Arthur Dayne (Lvl 20) | HP: 224/224 | XP: 361,950/355,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Exhaustion: 0**
@@ -651,8 +727,11 @@ You turn your gaze to Lyanna (Lvl 1). You kneel beside the bed, your enameled pl
 > 👤 **Player:**
 > *"Wait for her orders and make her higher level like level 9. She's an epic warrior too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Tower of Joy - Birth Chamber** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 361950/355000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -670,8 +749,11 @@ Ned (Lvl 12) nods, his hand resting on the hilt of Ice. "Starfall is a good choi
 God Mode:
 Define my epic levels from 20 to 30. I shouldn't be able to go past 20 unless I do some special apotheosis events
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Tower of Joy - Birth Chamber** &nbsp;|&nbsp; ⏳ **Month 6 Day 18, 283 AC (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 361,950/355,000 | Gold: 10gp**
@@ -697,8 +779,11 @@ Each Epic Level gained after an Apotheosis event provides:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Simultaneous Preparation (Synergistic) - Task Ser Oswell with scouting while you oversee the tower&#x27;s &#x27;death&#x27; scene and Ned prepares the horses—coordinating multiple layers of the deception at once.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter (Battle Master) / Paladin (Oath of the Crown) | HP: 224/224** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay On Hands: 0/100 | Superiority Dice: 1/6 | Action Surge: 2/2**
@@ -716,8 +801,11 @@ Lyanna is prepared for travel, her strength returning with every hour. She looks
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief the Awakening Northmen - Ensure Martyn Cassel and the others understand the lie before they fully recover, securing their silence alongside Ned&#x27;s.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Tower of Joy - Courtyard** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 362450/400000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Exhaustion: 0**
@@ -741,8 +829,11 @@ Martyn and Theo (Lvl 4) look at one another, then back to their Lord. One by one
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commence the Night March - Depart immediately under the cover of darkness. The desert is cooler, and the risk of detection is lowest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Red Mountains - En Route to Starfall** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 362,450/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100** &nbsp;|&nbsp; ⚠️ **Paladin Aura (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -760,8 +851,11 @@ Your white armor, usually a beacon, has been draped in a dusty gray traveler's c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send Word to Starfall - Have Howland Reed (Lvl 8) use his knowledge of the wetlands and terrain to send a discreet signal ahead to your family.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Prince's Pass - Red Mountains** &nbsp;|&nbsp; ⏳ **Month 6, 283 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 362,450/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, Lay on Hands: 0/100, Action Surge: 2/2, Superiority: 1/6**
@@ -781,8 +875,11 @@ Ned Stark (Lvl 12) watches the faint, shimmering gas dissipate into the night sk
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Infiltration (Synergistic) - Oswell scouts the path while you personally guide the litter through the Palestone Path—ensuring the highest safety and speed simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Palestone Path - Red Mountains** &nbsp;|&nbsp; ⏳ **Month 6 18, 283 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 362450/400000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Action Surge: 2/2 | Superiority: 1/6** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -801,8 +898,11 @@ Thanks to the synergistic execution of your plan, the journey proceeds with unca
 > 👤 **Player:**
 > *"Let's just get the Danube guards to escort us to starfall and time skip. The guard should be loyal to me etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Starfall - High Hermitage Outskirts** &nbsp;|&nbsp; ⏳ **Month 6 19, 283 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 362450/400000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6**
@@ -824,8 +924,11 @@ The hours of the night march melt away in a blur of rhythmic hoofbeats and the c
 > 👤 **Player:**
 > *"Narrate Ashara Dayne dialog. Let's assume she's extremely beautiful and Ned is smitten but he's married an tries not to show it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Starfall - Dayne Ancestral Seat** &nbsp;|&nbsp; ⏳ **Month 6 19, 283 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 362,450/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Save/AC) | Exhaustion: 0**
@@ -845,8 +948,11 @@ She turns back to you, her expression turning serious. "The servants have been d
 > 👤 **Player:**
 > *"Bring everyone to lyanna and ask her if the child should stay with her. W could escape to the free cities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Starfall - Dayne Ancestral Seat** &nbsp;|&nbsp; ⏳ **Month 6 19, 283 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 362450/400000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6**
@@ -866,8 +972,11 @@ Ned (Lvl 12) looks at Ashara (Lvl 5), then back to his sister. "If you go, Lyann
 > 👤 **Player:**
 > *"Wait for her answe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Starfall - Dayne Ancestral Seat** &nbsp;|&nbsp; ⏳ **Month 6 19, 283 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 362,450/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6**
@@ -885,8 +994,11 @@ Ned (Lvl 12) exhales, a weight lifting from his shoulders even as a new one sett
 > 👤 **Player:**
 > *"Send two kings guard to watch over Jon. I will stay to guard lyanna and manage starfall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Starfall - Dayne Ancestral Seat** &nbsp;|&nbsp; ⏳ **Month 6 19, 283 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 362450/400000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Save, +5 AC) | Exhaustion: 0 | Inspiration: No**
@@ -907,8 +1019,11 @@ Ned (Lvl 12) looks at you, then at Ashara, a shadow of unspoken longing and heav
 > 👤 **Player:**
 > *"Narrate a scene where both lyanna and Ned thank me and ashara profusely and say we are people of the highest honor. Ashara and I give humble answers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Starfall - Guest Wing** &nbsp;|&nbsp; ⏳ **Month 6 19, 283 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 362,700/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -937,8 +1052,11 @@ You remain at the foot of the bed, a monument of white enameled steel, the legen
 > 👤 **Player:**
 > *"Ned says he's always admired me and wanted to be like me as a boy. He says he'll probably never be close to me and in skill. I laugh and kindly say he's a great lord who can command thousands of swords and I am a mere knight. His duty and burden are far greater but I trust he will make the right decisions. This should really inspire Ned because he truly looks up to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Starfall - Dayne Ancestral Seat (Guest Wing)** &nbsp;|&nbsp; ⏳ **Month 6 19, 283 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 362,700/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -960,8 +1078,11 @@ Ashara Dayne (Lvl 5) watches the exchange from the bedside, her violet eyes soft
 > 👤 **Player:**
 > *"Let's time skip for one year. Narrate every month. Assume I make some progress on apotheosis but don't fully figure it out. After a year lyanna is fully recovered and I personally train her to level 12. She's starts to fall in love with me because I am an apex human and extremely good loookin too. I resist her charms since I think it would be a bad idea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Starfall - Dayne Ancestral Seat (The Palestone Tower)** &nbsp;|&nbsp; ⏳ **Month 6 19, 284 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 377,950/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -985,8 +1106,11 @@ You feel the pull—the magnetic charm of the woman who launched a thousand ship
 > 👤 **Player:**
 > *"Ask Ashara how she's doing and if she needs anything. Does she need me to help her find a husband"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Starfall - High Hermitage Overlook** &nbsp;|&nbsp; ⏳ **Month 6, 284 AC (Day 19)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 377,950/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 100/100, Superiority: 6/6**
@@ -1009,8 +1133,11 @@ Ashara (Lvl 5) freezes for a heartbeat, then a soft, bittersweet laugh escapes h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push for Honesty - Gently challenge her deflection. Ask her if her heart still lingers on the North or if she is truly content in Starfall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Starfall - Dayne Ancestral Seat (Guest Wing)** &nbsp;|&nbsp; ⏳ **Month 6 19, 284 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 377,950/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 100/100 | Superiority: 6/6 | Exhaustion: 0**
@@ -1029,8 +1156,11 @@ She turns back to the sea, a stray dark curl obscuring her face. "Contentment is
 > 👤 **Player:**
 > *"Time skip. Lyanna and I travel north. Also assume we are wearing  +3 stealth advantage gear and I'm disguised so most people don't recognize me. However I am level 20 so my presence and combat ability stand out if i don't mask it. Assume the other kingsguard are masked like me. Also even if Gerold is the lord commander he usually defers to me and doesn't feel like he deserves the role versus me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Neck - Greywater Watch Outskirts** &nbsp;|&nbsp; ⏳ **Month 7, 285 AC (Day 15)** &nbsp;|&nbsp; 🛡️ **Ser Arthur Dayne (Lvl 20) | HP: 224/224 | XP: 377950/400000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6** &nbsp;|&nbsp; ⚠️ **Disguised, Stealth Advantage | Exhaustion: 0 | Inspiration: No**
@@ -1063,8 +1193,11 @@ However, even with the best disguises, your presence is a heavy thing. As you pa
 God Mode:
 Make sure we aren't wearing white cloaks and kings guard plate anymore. We are wearing travel cloak and +3 stealth gear for all kings guard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Neck** &nbsp;|&nbsp; ⏳ **Month 7, 285 AC (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 377,950/400,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 AC/Saves), Subtle Masking (Advantage/+3 Stealth) | Exhaustion: 0**
@@ -1086,8 +1219,11 @@ Make sure we aren't wearing white cloaks and kings guard plate anymore. We are w
 God Mode:
 Other kingguard Are not with us they guard Jon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Month 7 15, 285 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter (Battle Master) / Paladin (Oath of the Crown) | HP: 224/224** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay On Hands: 0/100 | Superiority Dice: 1/6 | Action Surge: 2/2**
@@ -1097,8 +1233,11 @@ Administrative correction applied. Ser Gerold Hightower and Ser Oswell Whent hav
 > 👤 **Player:**
 > *"Narrate our arrival in winterfell and joyful reunion with Ned and Lyanna and Catelyn introduced to me and I pretend to be an expensive sellsword"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Winterfell - Private Courtyard** &nbsp;|&nbsp; ⏳ **Month 7 25, 285 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 378,450/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, Lay on Hands: 100/100, Superiority: 1/6**
@@ -1131,8 +1270,11 @@ You incline your head just enough to be respectful without betraying the courtly
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check the Secret - Excuse yourself to check the &#x27;Master-at-Arms&#x27; duties, using the opportunity to verify the security around the child Jon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Winterfell - Inner Ward** &nbsp;|&nbsp; ⏳ **Month 7, 285 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 378,450/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, Lay on Hands: 100/100, Superiority: 1/6**
@@ -1153,8 +1295,11 @@ You scan the darkness, your eyes searching for the tell-tale shimmer of a White 
 > 👤 **Player:**
 > *"Drill the guards and invite Ned to friendly spar to teach him. Assume I try to downplay my skill but it fails and the winterfell guards and men realize I'm the greatest warrior they've ever sparred with"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Winterfell Great Yard** &nbsp;|&nbsp; ⏳ **Month 7 26, 285 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 378,450/400,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Disguised (Wat), Subtle Masking | Exhaustion: 0**
@@ -1177,8 +1322,11 @@ From the balcony above, Catelyn Stark (Lvl 3) watches with narrowed eyes. You se
 > 👤 **Player:**
 > *"Smile at them men and say I've had a lot of practice and then genuinely train Ned and he gets massive exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Winterfell Great Yard** &nbsp;|&nbsp; ⏳ **Month 7, 285 DR (Day 25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 378,450/400,000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 100/100 | Superiority: 6/6** &nbsp;|&nbsp; ⚠️ **Deep Cover, Aura of the Crown (+5 AC/Saves)**
@@ -1206,8 +1354,11 @@ From the high balcony, Catelyn Stark (Lvl 3) watches the 'sellsword' with a chil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bond with Martyn Cassel - Use your skill to win over the Master-at-Arms, gaining a powerful ally who can vouch for your &#x27;mercenary&#x27; past.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Winterfell Great Yard** &nbsp;|&nbsp; ⏳ **Month 7 25, 285 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 378650/400000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 100/100 | Superiority: 6/6** &nbsp;|&nbsp; ⚠️ **Disguised (Wat), Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -1236,8 +1387,11 @@ Martyn (Lvl 5) nods firmly, the last of his professional wariness evaporating in
 > 👤 **Player:**
 > *"Narrate a scene without me. Catelyn is suspicious and asks ned why the most amazing warrior she's ever seen is a sellsword"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Winterfell - Ned's Solar** &nbsp;|&nbsp; ⏳ **Month 7 25, 285 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Ser Arthur Dayne (Lvl 20) | HP: 224/224 | XP: 378,650/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 100/100 | Superiority: 6/6**
@@ -1259,8 +1413,11 @@ Catelyn (Lvl 3) pulls back, her expression hardening. The failure of Ned's expla
 > 👤 **Player:**
 > *"Let's assume Ned relents a bit and says I am special and guard Lyanna but he made an Oath and cannot tell anyone. Catelyn doesn't mind as much and is understanding but she's smart and may figure out more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Winterfell - Ned's Solar** &nbsp;|&nbsp; ⏳ **Month 7 25, 285 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 378,650/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, Lay on Hands: 100/100, Superiority: 1/6, Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover, Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -1290,8 +1447,11 @@ She looks back at you, Ser Arthur Dayne (Lvl 20), her gaze polite but sharp as a
 > 👤 **Player:**
 > *"Let's assume my other kingsguard pose as mercenaries working for me. They also train the men and also seem amazing even if they try to downplay"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Winterfell - Great Yard** &nbsp;|&nbsp; ⏳ **Month 7 25, 285 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 378,650/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover, Paladin Aura (AC +5) | Exhaustion: 0 | Inspiration: No**
@@ -1313,8 +1473,11 @@ On the high balcony, Catelyn Stark (Lvl 3) stands like a frozen statue. She watc
 > 👤 **Player:**
 > *"Long rest and time skip a few weeks and narrate what happens. Then narrate a scene where Catelyn Lyanna and I are out in the woods and 10 desperate low level bandits attack. I instantly kill thrm and it surprised even Lyanna since she hasn't seen my full abilities before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Wolfswood - North of Winterfell** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 379,150/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Infiltrating) | Exhaustion: 0 | Inspiration: No**
@@ -1347,8 +1510,11 @@ Catelyn Stark (Lvl 3) has turned as pale as the winter snow. She looks at the te
 > 👤 **Player:**
 > *"Give Catelyn a respectful smile and say don't worry. I am honor bound to serve the starks. One day perhaps I can share more but my sword is only for their enemies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Wolfswood - North of Winterfell** &nbsp;|&nbsp; ⏳ **Month 8, 285 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 379,150/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: Yes**
@@ -1375,8 +1541,11 @@ Lyanna (Lvl 12) finally finds her voice, her eyes wide as she looks at her mento
 > 👤 **Player:**
 > *"Mask the kills and return the women back to safety. Narrate Lyanna intenrsl"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Winterfell - Private Quarters** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Infiltrating, Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -1402,8 +1571,11 @@ Catelyn Stark (Lvl 3) dismounts in the courtyard, her auburn hair wind-swept and
 > 👤 **Player:**
 > *"Narrate Catelyn and Lyanna internal thoughts. For most levels 12 is the apex and Lyanna thought I was perhaps level 14  but now she seems there a avast difference"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Winterfell Courtyard** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 1,510gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC), Subtle Masking (+3 Stealth/Adv) | Exhaustion: 0 | Inspiration: Yes**
@@ -1431,8 +1603,11 @@ Seeing 'War Speed'—the way the world seemed to freeze while you danced through
 > 👤 **Player:**
 > *"Assume someone takes care of the spy. Narrate a scene without me. Catelyn tells ned what happened. She won't press my identity but she warns that someone as powerful as me is a magnet for other powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Ned's Solar, Winterfell** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 379,400 / 400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover, Aura of the Crown (+5 AC) | Exhaustion: 0**
@@ -1454,8 +1629,11 @@ Ned (Lvl 12) meets her gaze, the weight of the secret Jon (Lvl 1) and the miracl
 > 👤 **Player:**
 > *"Narrate a scene with ned. He sadly says perhaps it's best if I don't live in winterfell due to the apex presence. Lyanna is enraged that I would be treated this way after I sacrificed everything . I console Lyanna and say it's understandable but I explain to ned that I'm honor bound to protect Lyanna and her son so it must be her decision"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Ned's Solar, Winterfell** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Infiltrating | Exhaustion: 0 | Inspiration: Yes**
@@ -1480,8 +1658,11 @@ Ned (Lvl 12) looks from you to his sister, the weight of the 'Magnet' risk warri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Lyanna&#x27;s Decree - Remain silent and allow Lyanna (Lvl 12) to assert her authority as the &#x27;Queen&#x27; of the secret, forcing Ned to confront her agency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Ned's Solar, Winterfell** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Deep Cover, Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -1508,8 +1689,11 @@ Ned (Lvl 12) looks up, his expression a mixture of relief and lingering dread. H
 > 👤 **Player:**
 > *"Say that's probably fine but perhaps Lyanna could get a secondary residence a smaller castle near winterfell. She could then babysit John and have the full kings gusrd protecting and we'd be closer to winterfell if we need more support. We don't need to never be seen but just have less presence. Tell Lyanna it's a tough decision because she'd see her son less but she'd have more fully private moments with hi m too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Ned's Solar, Winterfell** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Infiltrating, Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -1539,8 +1723,11 @@ Ned Stark (Lvl 12) leans against the desk, his gray eyes tracking the logic of t
 > 👤 **Player:**
 > *"Wait for Lyanna decision. Say either choice is good and neither choice is a one war door"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Ned's Solar, Winterfell** &nbsp;|&nbsp; ⏳ **Month 8 16, 285 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover, Infiltrating | Exhaustion: 0 | Inspiration: No**
@@ -1569,8 +1756,11 @@ Ned Stark (Lvl 12) watches his sister, his own heart breaking for the choice he 
 > 👤 **Player:**
 > *"Narrate a few weeks timeskip. Lyanna in the secondary fortress enjoying being a true mother to John. Ned is here too and I keep training him and encourage him. Ned gives a sad smile and says if I was there on the trident they would've lost. Rhaegar truly loved my sister to decide to put you with  her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Wolf's Hearth** &nbsp;|&nbsp; ⏳ **Month 9, 285 AC (Day 7)** &nbsp;|&nbsp; 🛡️ **Ser Arthur Dayne (Lvl 20) | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover | Exhaustion: 0 | Inspiration: Yes**
@@ -1593,8 +1783,11 @@ You remain still, the 'Wat' persona's rough cloak discarded for the spar, reveal
 > 👤 **Player:**
 > *"Encourage ned. Explain there were men and women of honor on both sides. Encourage him to be a great lord that delivers peace and propesperirt to his lands and beyond so honorable blood need not spill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Wolf's Hearth (Wolfswood)** &nbsp;|&nbsp; ⏳ **Month 9, 285 AC (Day 7)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover, Aura of the Crown (+5 AC/Saves) | Inspiration: Yes**
@@ -1619,8 +1812,11 @@ Lord Eddard Stark (Lvl 12) gains **5,000 XP** for the philosophical breakthrough
 > 👤 **Player:**
 > *"Time skip 15 years. Time period where gam thrones starts. Through my training Ned and Lyanna are now level 15 which is legendary and the kingguard are all level 18. Narrate a scene where I'm training Jon and he's already level 5 a prodigy. Everyone r has great love and respect for me and Lyanna still has not given up trying to win my hearrt. Jon has a diffrent personality because of his aunt Lyanna watching over him like a mother and doesn't feel as bad about being a bastard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Wolf's Hearth** &nbsp;|&nbsp; ⏳ **Month 1, 300 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 6/6 | Action Surge: 2/2**
@@ -1645,8 +1841,11 @@ In the shadows of the gatehouse, Ser Gerold (Lvl 18) and Ser Oswell (Lvl 15) rem
 > 👤 **Player:**
 > *"Let's have Lyanna first ask Ned for advice on how to win my heart."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Wolf's Hearth - The High Balcony** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (08:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover, Titan Presence Masked | Exhaustion: 0 | Inspiration: No**
@@ -1678,8 +1877,11 @@ Lyanna remains silent, absorbing the advice. She looks back down at the yard, wh
 > 👤 **Player:**
 > *"Narrate a private scene between me and Lyanna. She again confesses her feelings and this time I say I genuinely feel the same way but my Oath was for life. I ask her how she could trust an oath breaker"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (08:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 379400/400000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -1711,8 +1913,11 @@ Lyanna (Lvl 15) freezes, your words striking harder than any practice blade. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for her Resolve - Remain silent and allow Lyanna (Lvl 15) to find her own path through the paradox you&#x27;ve presented.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1741,8 +1946,11 @@ She looks up at you, her expression a mix of fierce defiance and soul-deep vulne
 > 👤 **Player:**
 > *"Accept her logic I come to the realization that the oaths were to protect the royal line and ensure the kingsguard had no other allegiances however everyone is dead now and to deny Lyanna would just break her heart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover, Aura of the Crown (+5 AC/Saves) | Inspiration: Yes**
@@ -1771,8 +1979,11 @@ Lyanna's (Lvl 15) breath catches, the fierce defiance in her eyes melting into a
 > 👤 **Player:**
 > *"Give me a big kiss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1797,8 +2008,11 @@ Lyanna (Lvl 15) sighs into the embrace, her hands tangling in your dun-colored c
 > 👤 **Player:**
 > *"Brief the kingsguard. Explain that this is a higher way of me honoring my vows to the remaining loyalty but they're also been very honorable and proven themselves over snd over again. Offer to release them from their vows if they want to pursue their own happiness elsewhere or take a wife and remain in Lyanna and Jon service. Even if they have children and a wife their honor is beyond reproach and they would never betray Jon or Lyanna"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 379,400/400,000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Inspiration: Yes**
@@ -1840,8 +2054,11 @@ Dawn (Lvl 20) hums with a sudden, sharp resonance—it recognizes the purity of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Speak to Gerold&#x27;s Honor - Appeal to Gerold&#x27;s sense of duty to the living King. Remind him that the White Book is meant to record greatness, not cage it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1, 300 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt | HP: 224/224 | XP: 379,400/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2**
@@ -1872,8 +2089,11 @@ The silence that follows is suffocating. Oswell (Lvl 18) looks between you both,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defer to Lyanna - Allow Lyanna (Lvl 15) to speak. As the &#x27;King&#x27;s Mother&#x27;, her perspective may carry a weight that Arthur&#x27;s martial logic cannot match.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 429,700/400,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 1/6 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -1910,8 +2130,11 @@ Reward: 50,000 XP. You have reached the threshold for **EPIC LEVEL 21**.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 21 - Claim your Epic Boon and ASI as you transcend the mortal cap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1, 300 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 479,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+6 AC/Saves), Subtle Masking | Inspiration: Yes**
@@ -1929,8 +2152,11 @@ Ser Gerold Hightower (Lvl 18) stands before you, his gray eyes wide as he senses
 > 👤 **Player:**
 > *"Let dawn speak to the kingguard revealing it must've been a more noble  choice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1, 300 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 479,700 / 510,000** &nbsp;|&nbsp; ✨ **Superiority Dice: 1/7 (2d12), Lay on Hands: 100/100, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Apotheosis Ascended | Exhaustion: 0 | Inspiration: Yes**
@@ -1965,8 +2191,11 @@ Gerold looks up at you, his gray eyes no longer hard with dogma, but wide with a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Repledge the Vows - Lead Gerold and Oswell in a new oath to the &#x27;Living Crown&#x27; and each other.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1, 300 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Ser Arthur Dayne (Lvl 21) | HP: 232/232 | XP: 479,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority Dice: 2/7 (2d12), Lay on Hands: 100/100, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2** &nbsp;|&nbsp; ⚠️ **Awakened Spirit, Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -1997,8 +2226,11 @@ Gerold looks up, his gray eyes shining with a fierce, revitalized purpose. "The 
 > 👤 **Player:**
 > *"Narrate the new oath again . It should allow wives and children that align with the dynasty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Wolf's Hearth - Private Solar** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Fighter/Paladin | HP: 232/232 | XP: 484,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority: 7/7 (2d12), Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Awakened Soul, Aura Expansion (40ft) | Exhaustion: 0 | Inspiration: Yes**
@@ -2033,8 +2265,11 @@ Lyanna (Lvl 15) steps forward, placing a hand on your shoulder and the other on 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Dawn - Spend time alone with the blade to explore the full extent of its awakening and your Level 21 potential.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Wolf's Hearth - The Sky-Reach Turret** &nbsp;|&nbsp; ⏳ **Month 1 1, 300 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 489,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority: 7/7 (2d12), Lay on Hands: 100/100**
@@ -2056,8 +2291,11 @@ You sheath the blade, but the warmth remains, a permanent hearth fire burning in
 > 👤 **Player:**
 > *"Let's time skip. Everything else happens like in game thrones and ned accepts being the hand and goes south with his family. Jon stays with Lyanna and me while we brainstorm what he should do with his life. Catelyn doesn't hate Jon as much since he's often with Lyanna. Then let's assume Lyanna and I hear word about ned being betrayed. We arrive in time to save him from execution and I kill all the guards there easily but spare Joffrey and Cersei. I then encourage Jaime to duel me and I ask him if he's grown since I last saw him. Jaime has great respect for me but is also intimidated because he knows my combat powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **King's Landing - The Great Sept of Baelor** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 494,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority: 7/7 (2d12), Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Sentient Soul Awakened, Aura Expansion (40ft) | Exhaustion: 0**
@@ -2087,8 +2325,11 @@ You turn your violet eyes toward Jaime Lannister, the man who once guarded the K
 > 👤 **Player:**
 > *"Wait for Jaime response. Is he brave enough to duel me. Give him a smile and say I'm an old man now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 489,700/510,000 | AC: 32** &nbsp;|&nbsp; ✨ **Superiority: 7/7 (2d12), Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 100/100**
@@ -2112,8 +2353,11 @@ He is brave enough to stand, but his spirit is brittle. He knows, deep in his ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sun and the Wolf (Synergistic) - Engage Jaime in the duel to keep every eye in the Sept fixed on you, while Lyanna uses her Lvl 15 stealth to spirit Ned and his daughters out through the tunnels beneath the plaza.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 489,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority: 6/7 (2d12) | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking, Irresistible Offense | Inspiration: Yes**
@@ -2138,8 +2382,11 @@ Jaime stands frozen, his hand still shaped to a hilt that is no longer there. He
 > 👤 **Player:**
 > *"Hold the blade to his neck and give him a sad smile. Say when he was my squire I never thought he'd grow up to become evil and a kingslayer. This should upset Jaime a lot because I'm also his hero. As my former squire he's seen me fight and somehow I'm even stronger than ever. He's very sad and explains his side of the story about the wildfire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **6 22, 300 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 489,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Font of the Morning (Sentient Dawn)**
@@ -2172,8 +2419,11 @@ He looks at the empty palm of his hand, then back to you, the tears finally well
 > 👤 **Player:**
 > *"Say that actually does sound plausible. Tell him to command Cersei and his men to stand down. Then I'll remove the sword from his neck and we can catch up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 489,700/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority: 6/7 (2d12) | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Deep Cover (Masked) | Aura: 40ft (+6 AC/Saves)**
@@ -2204,8 +2454,11 @@ Slowly, reverently, you lower Dawn (Lvl 21). The starlight radiance dims to a so
 > 👤 **Player:**
 > *"Tell cersei to retreat and say her bother is in no danger on my honor and give Jaime back his sword. He should be very touched by this gesture. No one has treated him as a man of Honor for a long time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 489,700/510,000 | Gold: 10gp**
@@ -2239,8 +2492,11 @@ Jaime (Lvl 14) looks up, his fingers trembling as they close around the gilded h
 > 👤 **Player:**
 > *"Walk to a private place and talk to him. Explain that I'm not surprised aerys would try that. Sadly he was an evil man and I knew about the wildfire too but never thought he would do that. Sumpathize and say perhaps even i would've broken my vow."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Side Chapel, Great Sept of Baelor** &nbsp;|&nbsp; ⏳ **Month 6 Day 22, 300 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Fighter/Paladin | HP: 232/232 | XP: 489,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -2273,8 +2529,11 @@ You gain **250 XP** for the critical roleplay breakthrough and cementing Jaime's
 > 👤 **Player:**
 > *"Tell him I truly mean it but asknhim what's going on now. Even if aerys murder was justified the Lannisters do evil and betrayed stark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Side Chapel, Great Sept of Baelor** &nbsp;|&nbsp; ⏳ **Month 6, 300 AC (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 490,200/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority: 6/7 (2d12), Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 100/100, Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Irresistible Offense, Awakened Dawn | Exhaustion: 0 | Inspiration: Yes**
@@ -2303,8 +2562,11 @@ Jaime (Lvl 14) flinches, the validation you offered now acting as a hook that pu
 > 👤 **Player:**
 > *"Wait for his answer. Let's assume Lyanna was able to rescue Sansa and Arya"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Side Chapel, Great Sept of Baelor** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 494,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/7 (2d12) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking (+3 Stealth) | Inspiration: Yes**
@@ -2326,8 +2588,11 @@ Jaime looks at the Stark girls, then back to you, the realization that you have 
 > 👤 **Player:**
 > *"Send everyone else ahead and take Jaime north. Explain to him I need to understand the situation but i will release him later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Secret Tunnels beneath King's Landing** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 494,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC), Awakened Dawn | Exhaustion: 0 | Inspiration: Yes**
@@ -2359,8 +2624,11 @@ Jaime (Lvl 14) bows his head, his knuckles white on his belt. The natural 20 on 
 > 👤 **Player:**
 > *"Shadow oath but don't go all the way north. Find a secure spot and talk to Jaime. Ask him what if we guarantee the lives of his children and Cersei? Would he help us remove thenlannisters from power and let them be contained in casterly rock. Explain that Lyra survived (don't tell him about Jon) and that the kingguard serve Lyanna because it's what rhaegar woukdve wanted. Jaime can be a real kingsguard and serve again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Secluded Grotto, Edge of the Kingswood** &nbsp;|&nbsp; ⏳ **Month 6, 300 AC (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 494,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Subtle Masking (+3 Stealth, Adv) | Aura: 40ft (+5 AC/Saves)**
@@ -2387,8 +2655,11 @@ Jaime stands frozen, the revelation of Lyanna's survival striking him with the f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure a Formal Oath - Have Jaime swear a new Kingsguard oath to Lyanna, cementing his transition from the &#x27;Kingslayer&#x27; to a &#x27;Shield of the Dawn&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Secluded Grotto, Edge of the Kingswood** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 494,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking (+3/Adv Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -2423,8 +2694,11 @@ As the final word fades, Dawn (Lvl 21) hums with a sudden, joyful resonance. The
 > 👤 **Player:**
 > *"Redo the narration. He doesn't know about Jon snow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Secluded Grotto, Edge of the Kingswood** &nbsp;|&nbsp; ⏳ **Month 6 Day 22, 300 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 494,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/7 (2d12) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (40ft), Subtle Masking (+3/Adv Stealth) | Inspiration: Yes**
@@ -2459,8 +2733,11 @@ As the final words fade, Dawn (Lvl 21) hums with a sudden, joyful resonance—a 
 > 👤 **Player:**
 > *"Let Dawn speak to him so he knows n how special the oath is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Secluded Grotto, Edge of the Kingswood** &nbsp;|&nbsp; ⏳ **6 22, 300 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 495950/510000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority: 6/7 (2d12), Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking (+3/Adv Stealth) | Exhaustion: 0 | Inspiration: Yes**
@@ -2492,8 +2769,11 @@ You gain **1,000 XP** for the spiritual bonding and cementing the Lion's redempt
 > 👤 **Player:**
 > *"Tell Jaime to go back. Use his influence to stop Joffreybfrom becoming another Aerys. When we are ready we will signal Jaime and capture kings landing with surgical force and I will personally escort his family back to castlerly rock and ensure no one harms them even the starks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Secluded Grotto, Edge of the Kingswood** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 496,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority: 6/7 (2d12), Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Sentient Soul Awakened | Exhaustion: 0 | Inspiration: Yes**
@@ -2529,8 +2809,11 @@ Without another word, he turns and vanishes into the deep shadows of the Kingswo
 > 👤 **Player:**
 > *"Let's also assume I told Jaime to tell baristan that Lyanna and I are alive and to come to us. Jaime should be overjoyed as he says this and baristan should be overjoyed to hear it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Secluded Grotto / Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 496,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 7/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Awakened, Infiltrating | Exhaustion: 0 | Inspiration: Yes**
@@ -2573,8 +2856,11 @@ The Lord Commander freezes. For a heartbeat, he looks as if Jaime has struck him
 > 👤 **Player:**
 > *"Narrate a reunion with barristannand me. I wait for him before I return  north. Jaime stays in kings landing . Narrate Jaime internal thoughts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Kingswood Grotto / White Sword Tower** &nbsp;|&nbsp; ⏳ **Month 6, 300 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 495950/510000 | AC: 32** &nbsp;|&nbsp; ✨ **Superiority: 2/7 (2d12), Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 100/100**
@@ -2602,8 +2888,11 @@ He thinks of Cersei cowering in the Red Keep and Joffrey's budding madness. He f
 > 👤 **Player:**
 > *"Narrate Jaime internal thoughts more . He's truly honored that his childhood hero forgave him and believed him immediately. No one else did. He thinks about stark who is honorable but judged him without thinking. He thinks of Arthur Dayne honor as the highest form above rigid stark honor and he aspires to be more like me. He also laughs and says somehow I've gotten even stronger, how did I kill 20 men so easily. I could've done it before too but this time seemed essier"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Kingswood Grotto / White Sword Tower** &nbsp;|&nbsp; ⏳ **Month 6 Day 22, 300 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 495,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2623,8 +2912,11 @@ He smiles, a genuine, dangerous smile. The Lannisters think they have lost a hos
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ghost to Rendezvous - Lead Barristan through the shadow-paths to reunite with the Starks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **The Kingswood - Shadow Paths** &nbsp;|&nbsp; ⏳ **Month 6 Day 22, 300 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Fighter/Paladin | HP: 232/232 | XP: 498450/510000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 2/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Infiltration, Subtle Masking | Exhaustion: 0 | Inspiration: Yes**
@@ -2657,8 +2949,11 @@ Ned Stark (Lvl 15) steps forward, his gray eyes weary but reflecting a profound 
 > 👤 **Player:**
 > *"Time skip and sssume all the starks make it back safely to winterfell. Catelyn is overjoyed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Winterfell - Great Courtyard** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Fighter/Paladin | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Subtle Masking, Aura of the Crown**
@@ -2689,8 +2984,11 @@ Catelyn (Lvl 3) pulls back from Ned, her tear-filled eyes finding you. She looks
 > 👤 **Player:**
 > *"Privately ask Lyanna if I can tell Catelyn who I am. She's been loyal and hasn't pried but she shoukd know"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Lyanna's Private Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Superiority: 2/7 (2d12)** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking (+3 Stealth/Adv), Dawn Awakened**
@@ -2720,8 +3018,11 @@ She steps closer, her hand resting on your breastplate, feeling the steady, rhyt
 > 👤 **Player:**
 > *"Redo narration. Robert is dead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 503,450 / 510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Lay on Hands: 100/100, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Action Surge: 2/2, Superiority Dice: 7/7 (2d12)** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Subtle Masking | Inspiration: No**
@@ -2752,8 +3053,11 @@ She steps closer, her hand resting on your breastplate, feeling the steady, rhyt
 > 👤 **Player:**
 > *"Explain she will never cave to the lannisters. They almost killed ned. And Jon isn't safe as a bastard stark anymore anyway until Lannisters are a defeated. If she knows the truth that he's not ned bastard her resentment vanishes and she can better protect him or support him if he needs tontske the throne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **7 13, 300 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority Dice: 7/7 (2d12), Lay on Hands: 100/100, Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Epic) | Exhaustion: 0 | Inspiration: No**
@@ -2782,8 +3086,11 @@ Lyanna (Lvl 15) watches you, her gray eyes shimmering with the weight of fifteen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Catelyn&#x27;s Resolve - Allow Lyanna time to process. The cooldown expires soon, and Catelyn&#x27;s actions in the coming hours may prove her loyalty better than words.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority Dice: 2/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -2808,8 +3115,11 @@ Your attempt to read the nuances of her internal conflict is met with a wall of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check on Jon Snow - Observe the boy in the courtyard to reinforce the reality of what we are protecting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority Dice: 2/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -2837,8 +3147,11 @@ Lyanna (Lvl 15) watches her son, her gray eyes shimmering with a sudden, painful
 > 👤 **Player:**
 > *"Let's just ttime skip and assume ned and I persuade  her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority Dice: 2/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -2871,8 +3184,11 @@ Catelyn (Lvl 3) stumbles back, her hand flying to her mouth, her face turning as
 > 👤 **Player:**
 > *"Apologize for the deception but explain that I've seen her nobility and honor and thought she had a right to know now that things are accelerating m. Narrate her reactions. She should now realize and say why I'm so good at fighting f"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7 Day 13, 300 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Paladin/Fighter | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 7/7 (2d12) | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2903,8 +3219,11 @@ She turns to Lyanna (Lvl 15), her expression softening into a look of profound, 
 > 👤 **Player:**
 > *"Ask everyone what we should do next. It could make sense to call the banners before the lannisters do. They can't attack the warden of the north unanswered. Then explain my surgical strike plan. A war is a last resort and maybe needs to be prepared but explain how Jaime can now be trusted and perhaps the kingsguard can do a surgical strike to defeat the Lannister leadership and allow a small stark force to take the city. However we cannot kill Cersei or any children even Joffrey"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 503,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 7/7 (2d12) | Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC), Subtle Masking (+3 Stealth/Adv), Sentient Soul Awakened**
@@ -2926,8 +3245,11 @@ Catelyn (Lvl 3) looks at the map, then up at you, the impossibility of your pres
 > 👤 **Player:**
 > *"Propose we probably need to call the banners but in parallel the kingsguard and an elite stark force can try to take the city first to avoid bloodshed. Then stark come to occupy and probably seat Jon on the throne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **7 13, 300 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 504,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Epic), Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -2959,8 +3281,11 @@ Lyanna (Lvl 15) remains silent, her hand trembling as she looks toward the yard 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Lyanna&#x27;s Fears - Speak privately with Lyanna to convince her that the Iron Throne is Jon&#x27;s only true shield against the Lannister shadow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Fighter/Paladin | HP: 232/232 | XP: 504,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 2/7 (2d12) | Action Surge: 2/2 | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Subtle Masking | Exhaustion: 0 | Inspiration: Yes**
@@ -2988,8 +3313,11 @@ Lyanna looks back at Jon, her breath hitching as the boy laughs at something Ser
 God Mode:
 Let's assume Tywin has secretly moved to kings landing with Lannister elites level 9+ and the mountain who's level 18. There shouldn't be level 20 opponents but massed level 5+ or a lot of level 9+ should be able to create scenarios that challenge me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 AC (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 504,950/510,000 | Gold: 10gp**
@@ -3007,8 +3335,11 @@ Administrative World State Update: The Lannister faction power has been signific
 God Mode:
 Let's also sssume he hired the golden company with level 5 + base soldiers and level 9+ and 12+ elites. He's heard of the kingsguard being still alive and is afraid of me. Work it into the story when we resume
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7, 300 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 504,950/510,000 | Gold: 10gp**
@@ -3025,8 +3356,11 @@ Administrative World State Update: Tywin Lannister's defensive preparations in K
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the war council in Winterfell with the grim news of the Golden Company&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **Month 7 Day 13, 300 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 504,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 2/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -3058,8 +3392,11 @@ You turn to Lyanna, your presence acting as a spiritual anchor. "The Iron Throne
 > 👤 **Player:**
 > *"Ask them for other ideas. What if we do a surgical strike and take casterly rock ? We can spread word that Joffrey is a bastard and Jaime can publically claim to be his father and lend it credence. Then get more allies. Directly going for kings landing could work but even though i am confident it is a strong force too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **7 13, 300 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 504,950/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 2/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking (+3 Stealth/Adv), Dawn Awakened**
@@ -3093,8 +3430,11 @@ Lyanna (Lvl 15) remains still, her fingers tracing the pommel of her blade. The 
 > 👤 **Player:**
 > *"Wait for their dialog to respond. Also explain without the rock we can spread rumors that Tywin can't afford to keep paying the golden company and it might even be true"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Lyanna's Chambers, Winterfell** &nbsp;|&nbsp; ⏳ **7 13, 300 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 505,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 7/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Subtle Masking (+3/Adv), Radiant Soul | Inspiration: Yes**
@@ -3125,8 +3465,11 @@ Catelyn Stark (Lvl 3) watches you, her Tully pragmatism finding a strange, terri
 > 👤 **Player:**
 > *"Let's time skip and narrate everything in detail. Roll to see what happens. Jaime rejoins us. We call banners. We have a larger force starting to take key towns and cities on the way to kings landing. We see if we can draw out the elites in kings landing. Jaime pubcially claims his children so everyone knows they have no claim to the throne. Then if timing still works we send a medium sized force to castlerly rock and our best elites like the kingsguard. Roll to see if any complications and make this a time skip. If the surgical strike is about to happen start a war council scene before we start it where we're discussing strategy with everyone and assume we brought ned Lyanna Robb and Jon. We need the boys to gain some exp too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Hidden Encampment, Westerlands (Overlooking Casterly Rock)** &nbsp;|&nbsp; ⏳ **Month 10, 300 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 507,450/510,000 | Gold: 2,500gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 7/7 (2d12) | Lay on Hands: 100/100**
@@ -3159,8 +3502,11 @@ Ned (Lvl 15) nods, his hand on the hilt of Ice. "The men are ready. The Anvil ho
 > 👤 **Player:**
 > *"discuss with ned and lyanna and ask for their opinions on if they should particiapte in the strike or wait. Say the decision is theirs since they are the leaders, but i caution them that its better if they dont risk themselves for the sake of the rebellion. hwoever they are level 15 and some of our best warriors so i cannot deny them and plus they are the final decision makers and lyanna is my sovereign"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Hidden Encampment near Casterly Rock** &nbsp;|&nbsp; ⏳ **10th Month 15, 300 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 507,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 7/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Sentient Dawn Awakened | Inspiration: Yes**
@@ -3192,8 +3538,11 @@ Jon Snow (Lvl 7) looks between the three of you, his gray eyes shining with a pr
 > 👤 **Player:**
 > *"ok lead the full team then. including Jaime"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Sea-Gates of Casterly Rock** &nbsp;|&nbsp; ⏳ **10 15, 300 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 511,450/560,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 7/7 (2d12) | Lay on Hands: 100/100**
@@ -3216,8 +3565,11 @@ Ned (Lvl 15) and Jaime (Lvl 14) engage the remaining defenders, their own blades
 > 👤 **Player:**
 > *"lions den but lets assume tywin and mountain arent here and they're in kings landing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Tywin's Solar, Casterly Rock** &nbsp;|&nbsp; ⏳ **10 15, 300 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 512,450 / 514,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 6/7 (2d12) | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **War Speed Active, Aura of the Crown (+40ft) | Exhaustion: 0 | Inspiration: Yes**
@@ -3247,8 +3599,11 @@ You lower Dawn, the starlight radiance dimming as you look at the desk. Among th
 God Mode:
 give me exp for things now since i've broken level 20 barrier
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Tywin's Solar, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 10 Day 15, 300 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 512,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Irresistible Offense | Exhaustion: 0**
@@ -3281,8 +3636,11 @@ Administrative XP audit and rewards processing complete. Following your transcen
 > 👤 **Player:**
 > *"lets assume we captured kevan lannister instead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Tywin's Solar, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 10, 300 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 557,450/510,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 1/7 (2d12) | Action Surge: 1/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking (+3 Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -3312,8 +3670,11 @@ Behind you, Ned (Lvl 15) and Jaime (Lvl 14) rush into the room, their faces etch
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Golden Throat: Seize the Vaults - Descend to the subterranean treasury to capture the gold and prove the Lion is hollow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Subterranean Vaults, Casterly Rock** &nbsp;|&nbsp; ⏳ **10 15, 300 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 558,200/560,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 1/7 (2d12) | Action Surge: 1/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No**
@@ -3337,8 +3698,11 @@ You gain **750 XP** for the successful breach and the strategic exposure of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Save the Truth: Salvage Ledgers - Abandon the interrogation for a moment to save the burning documents—information is power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Subterranean Vaults, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 10, 300 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 558,200/560,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority: 7/7, Action Surge: 2/2**
@@ -3369,8 +3733,11 @@ You gain **500 XP** for salvaging the critical financial evidence against House 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shatter the Myth: Call the Garrison - Invite the Lannister guards to see their empty treasury, breaking their morale before they can attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Subterranean Vaults, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 10, 300 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 558,700/560,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority: 1/7, Action Surge: 1/2, HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking (+3 Stealth/Adv), Irresistible Offense**
@@ -3401,8 +3768,11 @@ They do not hesitate. The discipline of the phalanx overrides the shock of the e
 > 👤 **Player:**
 > *"Tell them to halt. Show them the papers and force Kevan to corroborate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Subterranean Vaults, Casterly Rock** &nbsp;|&nbsp; ⏳ **10 15, 300 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 558,700/560,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 1/7 | Action Surge: 1/2 | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (40ft), Subtle Masking (+3/Adv), Irresistible Offense | Exhaustion: 0 | Inspiration: Yes**
@@ -3433,8 +3803,11 @@ The silence that follows is absolute. The Crimson Guards lower their spears, the
 > 👤 **Player:**
 > *"Signal Jaime. I explain that Jaime is it the kingslayer. He is the dragon guard. Tell the true story of the wildfire with aerys and vouch for Jaime and explain he's a true hero. Explain as a kingsguard i knew about Aerys and the wildfire and faced with the same choice even I might've broken the vow to save the city. Should be easy DC since i am a kinsguard and famous for my honors then signal Jaime to try to recruit them as their rightful lord. Jaime will never lead them astray or deceive them like Tywin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Subterranean Vaults, Casterly Rock** &nbsp;|&nbsp; ⏳ **10th Month, 300 DR (15th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 558,700/610,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 1/7 | Action Surge: 1/2 | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Aura Expansion (40ft), Subtle Masking (+3/Adv Stealth) | Inspiration: Yes**
@@ -3465,8 +3838,11 @@ The lead captain (Lvl 9) looks at the charred ledgers, then at the tear-streaked
 > 👤 **Player:**
 > *"Recruit Kevan. Ask if he wants to serve lying incestuous lords or a true hero like ser jaime"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Subterranean Vaults, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 10 Day 15, 300 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt | HP: 232/232 | XP: 559,200/610,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority Dice: 1/7, Lay on Hands: 100/100, Action Surge: 1/2, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+5 AC/Saves), Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -3496,8 +3872,11 @@ You gain **500 XP** for the total recruitment of the Rock's Castellan.
 > 👤 **Player:**
 > *"Give everyone back their weapons as a sign of high honor and trust. Have Kevan and the crimson guard declare Jaime the new lord of the Lannisters and take control of casterly rock"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Subterranean Vaults, Casterly Rock** &nbsp;|&nbsp; ⏳ **10th Month 15, 300 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Gestalt Fighter/Paladin | HP: 232/232 | XP: 559,200 / 560,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Superiority Dice: 1/7, Lay on Hands: 100/100, Action Surge: 1/2, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2**
@@ -3525,8 +3904,11 @@ Jaime looks at you, his green eyes wide with a soul-deep gratitude. The transiti
 > 👤 **Player:**
 > *"Long rest and time skip a few weeks to consolidate casterly rock. Narrate everyone's reaction. The northern lords are astounded by not only the win but the successful n conversion of the Lannisters under Jaime. I explain to Ned that Jaime was a true hero despite his doubt he just needed someone to listen to him. The inner circle is overjoyed narrate dialog from everyone in detail. Jaime is amazed at his new authority and dragon shield title"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **11 05, 300 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt Fighter/Paladin | HP: 242/242 | XP: 562,200/610,000 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority Dice: 8/8 (2d12), Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+7 AC/Saves), Subtle Masking, Irresistible Offense | Exhaustion: 0**
@@ -3561,8 +3943,11 @@ Jon Snow (Lvl 7) watches the scene, his gray eyes reflecting the legendary poise
 > 👤 **Player:**
 > *"Narrate a scene. Ned apologizes to Jaime for looking down on him before. He realizes that dayne honor is higher level than stark and aspires to be more like me. I humbly deflect and say they are both great lords who just needed some help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 11, 300 DR (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Fighter/Paladin | HP: 282/282 | XP: 562,200/650,000 | AC: 32** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority Dice: 8/8 (2d12) | Action Surge: 2/2**
@@ -3592,8 +3977,11 @@ A soft, humble laugh escapes you, the starlight of Dawn (Lvl 22) pulsing with a 
 > 👤 **Player:**
 > *"Narrate their reaction and dialog. They say unlike most I even exceed my own legend. I must be truly humble. Ned again wonders in amazement why I wasn't at the trident and how rhaegar put his greatest asset securing Lyanna. Jaime adds more color to the story. I sadly say it was a hard choice from rhaegar and they must be prepared for hard choices in the future"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 11, 300 DR (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt Fighter/Paladin | HP: 282/282 | XP: 562,200/645,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority: 8/8 (2d12), Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura Expansion (50ft), Awakened Dawn | Exhaustion: 0 | Inspiration: Yes**
@@ -3626,8 +4014,11 @@ Lyanna Stark (Lvl 15) watches you, her hand resting over her heart. The sight of
 > 👤 **Player:**
 > *"Explain to them the song of ice and fire for Targaryen kings. They rhaegar entrusted it to me to pass to Jon. Beyond his blood Jon is probably the prince who was promised and why was more important than the trident"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **11 5, 300 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Fighter/Paladin | HP: 282/282 | XP: 563,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Awakened Dawn, Aura of the Crown | Exhaustion: 0 | Inspiration: Yes**
@@ -3655,8 +4046,11 @@ Lyanna (Lvl 15) reaches for Jon's hand, her fingers trembling but her face setti
 God Mode:
 Process my level 22
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **Month 11 Day 5, 300 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt Fighter/Paladin | HP: 296/296 | XP: 563,700 / 615,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (50ft) | Exhaustion: 0 | Inspiration: No**
@@ -3678,8 +4072,11 @@ Level 22 Processing Complete. As a Level 22 Titan, you have transcended standard
 > 👤 **Player:**
 > *"Bring in Robb and Jon and have Lyanna tell him the truth of his parentage. Then tell Jon about the song of ice and fire. Say he has a giant responsibility greater than any king before but I believe in him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **11 5, 300 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt Fighter (Battle Master) / Paladin (Oath of the Crown) | HP: 296/296** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay On Hands: 100/100 | Superiority Dice: 9/9 | Action Surge: 1/2**
@@ -3701,8 +4098,11 @@ Jon looks at Robb (Lvl 5), who stands motionless, his eyes wide with a new, terr
 > 👤 **Player:**
 > *"Explain to Jon that power is seductive. Even I cannot pretend I've resisted the power because I am no lord and king. However Ned stark is a great role model. Power must be used to defend the innocent and protect the realm. Once he becomes king he should think of himself as a father to the realm and responsible for everyone's lives. But give him a smile and say he won't bear the burden alone, we've been there for him all his life and will continue to do so. Suggest Ned should be regent until Jon is 18 etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **11 5, 300 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt Fighter/Paladin | HP: 296/296 | XP: 564,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (50ft), Subtle Masking | Exhaustion: 0 | Inspiration: No**
@@ -3731,8 +4131,11 @@ Jon (Lvl 7) looks at Ned (Lvl 15), then back to you, the trembling in his hands 
 > 👤 **Player:**
 > *"brainstorm what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **11 5, 300 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt Fighter/Paladin | HP: 296/296 | XP: 564,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (50ft), Boon of Invincibility | Inspiration: Yes**
@@ -3761,8 +4164,11 @@ Lyanna (Lvl 15) watches the interaction, her gray eyes shimmering. The brillianc
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Raven Front - Systematically coordinate with Stannis, Renly, and the Tyrells. Send the salvaged ledgers and Jaime&#x27;s public testimony to every major lord to isolate Tywin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **The Golden Gallery, Casterly Rock** &nbsp;|&nbsp; ⏳ **11 5, 300 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Titan | HP: 296/296 | XP: 564,700 / 615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 9/9 (2d12) | Action Surge: 1/2 | Inspiration: Yes**
@@ -3786,8 +4192,11 @@ Jon Snow (Lvl 7) watches the ravens vanish into the western sky, his gray eyes r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Strike: The Red Keep - Lead the Kingsguard and Jaime into the city. With the Golden Company wavering, the internal paths Jaime knows are virtually unguarded.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **The Secret Tunnels, Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **11 12, 300 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Paladin/Fighter | HP: 296/296 | XP: 564,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Superiority: 9/9, Action Surge: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (50ft, +7 AC/Saves), Boon of Invincibility | Inspiration: Yes**
@@ -3807,8 +4216,11 @@ You place a gauntleted hand on the cold iron of the door. The sentient soul of D
 > [!NOTE] ⚙️ **Player Choice:**
 > *War Speed Breach: The Throne Room - Erupt into the Holdfast with maximum force. Use &#x27;War Speed&#x27; to neutralize the Crimson Guard before they can react, heading straight for the Royal Apartments.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **11 12, 300 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt Fighter/Paladin | HP: 296/296 | XP: 564,700/615,000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 9/9 | Action Surge: 1/2 | Invincibility: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+32 AC), Aura of Protection (+7 Saves)**
@@ -3830,8 +4242,11 @@ But as you skid to a halt at the base of the stairs leading to the King's bedcha
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sun vs. The Mountain - Engage Gregor Clegane in single combat. Use &#x27;War Speed&#x27; and Battle Master maneuvers to dismantle the monster before he can use his mass against the others.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **November 12, 300 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Fighter/Paladin | HP: 296/296 | XP: 564,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Superiority: 5/9 | Action Surge: 1/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (+7 AC), Boon of Invincibility (Ready) | Exhaustion: 0 | Inspiration: Yes**
@@ -3869,8 +4284,11 @@ YOUR TURN - ACTIONS REMAINING:
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mercy of the Morning - Deliver a final, lethal coup de grâce to Ser Gregor Clegane, ending the Mountain&#x27;s terror forever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **Month 11, 300 DR (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Paladin/Fighter | HP: 296/296 | XP: 589,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 2/2, Superiority: 1/9, Action Surge: 1/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (50ft), Aura of Protection (+7), Aegis (+5 AC) | Inspiration: Yes**
@@ -3910,8 +4328,11 @@ Behind you, Ser Barristan (Lvl 18) and Ned Stark (Lvl 15) stand in the foyer, th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer the Lion&#x27;s Mercy - Call through the doors, announcing Gregor&#x27;s death and Jaime&#x27;s defection, offering them the pre-arranged exile to Casterly Rock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **Month 11, 300 DR (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Paladin/Fighter | HP: 296/296 | XP: 589,700/615,000 | AC: 32** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 2/2, Superiority: 1/9, Action Surge: 1/2**
@@ -3938,8 +4359,11 @@ A muffled, jagged sob of terror—not from Cersei, but likely from the boy-king�
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Brother&#x27;s Voice - Have Jaime speak directly to her through the door, using their bond to cement the reality of his defection and the safety of the children.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **11 12, 300 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Ser Arthur Dayne (Lvl 22) | HP: 296/296 | XP: 589,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 2/2, Superiority: 1/9, Action Surge: 1/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (50ft), Boon of Invincibility (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3968,8 +4392,11 @@ The silence that follows is heavy, punctuated by the muffled, rhythmic sounds of
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shield&#x27;s Vigil - Prepare to use War Speed and a non-lethal strike to immediately neutralize Joffrey if he emerges with a weapon, ensuring no blood is spilled.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **11 12, 300 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Paladin/Fighter | HP: 296/296 | XP: 593,200/615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 2/2 | Superiority: 1/9 | Action Surge: 1/2** &nbsp;|&nbsp; ⚠️ **Aura of the Crown (50ft), Boon of Invincibility (Ready) | Exhaustion: 0 | Inspiration: Yes**
@@ -3994,8 +4421,11 @@ Jaime steps forward, his silver armor shimmering in your aura. He catches Joffre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate for Wildfire Secrets - Pressure Cersei to reveal any wildfire caches or traps Tywin may have set as a &#x27;scorched earth&#x27; contingency for the capital&#x27;s fall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **11 12, 300 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Paladin/Fighter | HP: 296/296 | XP: 593,700/615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 2/2 | Superiority: 1/9 | Action Surge: 1/2**
@@ -4025,8 +4455,11 @@ You gain **500 XP** for extracting the wildfire secrets.
 > 👤 **Player:**
 > *"Total security sweep and have ceseri and all her children secured by Jaime"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Maegor's Holdfast, Red Keep** &nbsp;|&nbsp; ⏳ **11 12, 300 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Gestalt | HP: 296/296 | XP: 596,200/615,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 2/2, Superiority: 1/9, Action Surge: 1/2**
@@ -4045,6 +4478,8 @@ Turning to your brothers, you allow the sentient soul of Dawn to pulse with a bl
 The Kingsguard vanish into the gloom like phantoms of white iron. You remain in the foyer, the 'Magnet' of your presence ensuring that every remaining Gold Cloak and Crimson Guard in the Holdfast stands frozen, their wills suppressed by the divine gravity of a Lvl 22 Titan. Within minutes, the spiritual resonance of the city shifts. You feel it through your connection to the blade—the tension of the wildfire fuse has been severed. The alchemists are contained, the triggers dismantled, and the 'Scorched Earth' of Tywin Lannister has been extinguished by the dawn you carry.
 
 You stand alone amidst the bloody marble and the star-pale light, the city bells now tolling not for a riot, but for a transition. The Red Keep has fallen, and the Morning has finally arrived in King's Landing.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

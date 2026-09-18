@@ -12,6 +12,19 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)
+- [🗺️ Scene Index & Timeline (39 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -102,6 +115,7 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 ---
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -171,6 +185,7 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="special-mechanics"></a>
 ## 🔮 Part III: Special Mechanics & Artifacts
 <details>
 <summary><b>Campaign Mechanics</b></summary>
@@ -491,55 +506,60 @@ This reward represents the *third path* — neither relying on Aurum's protectio
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Winter-Mourn Northern Province | Frost-Fall 14, 95 AG (08:00) | Roleplay |
-| **02** | Winter-Mourn Northern Province | Frost-Fall 14, 95 DR (08:15) | Roleplay |
-| **03** | Winter-Mourn Northern Province | Frost-Fall 14, 95 DR (08:15) | Roleplay |
-| **04** | Winter-Mourn Northern Province | Frost-Fall 14, 95 AG (08:20) | Social Challenge |
-| **05** | Ashwood Perimeter Treeline | Day 14, 95 Frost-Fall (08:45) | Roleplay |
-| **06** | Ridge Treeline | 14, 95 Frost-Fall (08:30) | Boss Surrender |
-| **07** | Winter-Mourn Northern Province | Day 14, 95 Frost-Fall (08:30) | Roleplay |
-| **08** | Ridge Treeline | Frost-Fall 14, 95 AG (08:35) | Roleplay |
-| **09** | Winter-Mourn Northern Province | Frost-Fall 14, 95 AG (08:35) | Roleplay |
-| **10** | Ridge Overlooking Ashwood Keep | Frost-Fall 14, 95 AG (08:45) | Roleplay |
-| **11** | Ashwood Keep Main Gate | Frost-Fall 14, 95 DR (09:00) | Roleplay |
-| **12** | Ashwood Keep Main Gate | Frost-Fall 14, 95 DR (09:05) | Roleplay |
-| **13** | Ashwood Keep Courtyard | 14, 95 Frost-Fall (09:10) | Roleplay |
-| **14** | Courtyard of Ashwood Keep | Day 14, 95 Frost-Fall (09:10) | Roleplay |
-| **15** | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 AG (09:15) | Roleplay |
-| **16** | Ashwood Keep - Inner Sanctum | Day 14, 95 Frost-Fall (09:16) | Social Challenge |
-| **17** | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 AG (09:17) | Roleplay |
-| **18** | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 A.G. (09:17) | Roleplay |
-| **19** | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 AG (09:18) | Roleplay |
-| **20** | Ashwood Keep - Courtyard | Frost-Fall 14, 95 A.G. (09:45) | Roleplay |
-| **21** | Ashwood Keep - Inner Sanctum |  | Social Challenge |
-| **22** | Ashwood Keep - Inner Sanctum | Day 14, 95 Frost-Fall (09:50) | Roleplay |
-| **23** | Ashwood Keep - Inner Sanctum |  | Roleplay |
-| **24** | Ashwood Keep - Inner Sanctum | Day 14, 95 Frost-Fall (10:00) | Roleplay |
-| **25** | Ashwood Keep - Inner Sanctum / Courtyard | Frost-Fall 14, 95 DR (10:15) | Roleplay |
-| **26** | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (10:15) | Roleplay |
-| **27** | Ashwood Keep - Archives | Day 14, 95 Frost-Fall (10:30) | Roleplay |
-| **28** | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (10:35) | Roleplay |
-| **29** | Ashwood Keep - Courtyard | Frost-Fall 14, 95 A.G. (10:55) | Roleplay |
-| **30** | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (10:55) | Social Challenge |
-| **31** | Ashwood Keep - Courtyard | Frost-Fall 14, 95 AG (11:10) | Social Challenge |
-| **32** | Ashwood Keep - Courtyard | Frost-Fall 14, 95 AG (11:25) | Roleplay |
-| **33** | Ashwood Keep - Courtyard | Frost-Fall 14, 95 DR (11:25) | Roleplay |
-| **34** | Ashwood Keep - Courtyard | Frost-Fall 14, 95 DR (11:35) | Social Challenge |
-| **35** | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (11:36) | Social Challenge |
-| **36** | Ashwood Keep - Cellars | Frost-Fall 14, 95 DR (11:51) | Social Challenge |
-| **37** | Ashwood Keep - Cellars | Frost-Fall 14, 95 DR (11:55) | Roleplay |
-| **38** | Ashwood Keep - Courtyard | Frost-Fall 14, 95 AG (12:00) | Social Challenge |
-| **39** | Ashwood Keep - Courtyard | 14, 95 Frost-Fall (12:05) | Social Challenge |
+| [**Scene 01**](#scene-1) | Winter-Mourn Northern Province | Frost-Fall 14, 95 AG (08:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Winter-Mourn Northern Province | Frost-Fall 14, 95 DR (08:15) | Roleplay |
+| [**Scene 03**](#scene-3) | Winter-Mourn Northern Province | Frost-Fall 14, 95 DR (08:15) | Roleplay |
+| [**Scene 04**](#scene-4) | Winter-Mourn Northern Province | Frost-Fall 14, 95 AG (08:20) | Social Challenge |
+| [**Scene 05**](#scene-5) | Ashwood Perimeter Treeline | Day 14, 95 Frost-Fall (08:45) | Roleplay |
+| [**Scene 06**](#scene-6) | Ridge Treeline | 14, 95 Frost-Fall (08:30) | Boss Surrender |
+| [**Scene 07**](#scene-7) | Winter-Mourn Northern Province | Day 14, 95 Frost-Fall (08:30) | Roleplay |
+| [**Scene 08**](#scene-8) | Ridge Treeline | Frost-Fall 14, 95 AG (08:35) | Roleplay |
+| [**Scene 09**](#scene-9) | Winter-Mourn Northern Province | Frost-Fall 14, 95 AG (08:35) | Roleplay |
+| [**Scene 10**](#scene-10) | Ridge Overlooking Ashwood Keep | Frost-Fall 14, 95 AG (08:45) | Roleplay |
+| [**Scene 11**](#scene-11) | Ashwood Keep Main Gate | Frost-Fall 14, 95 DR (09:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Ashwood Keep Main Gate | Frost-Fall 14, 95 DR (09:05) | Roleplay |
+| [**Scene 13**](#scene-13) | Ashwood Keep Courtyard | 14, 95 Frost-Fall (09:10) | Roleplay |
+| [**Scene 14**](#scene-14) | Courtyard of Ashwood Keep | Day 14, 95 Frost-Fall (09:10) | Roleplay |
+| [**Scene 15**](#scene-15) | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 AG (09:15) | Roleplay |
+| [**Scene 16**](#scene-16) | Ashwood Keep - Inner Sanctum | Day 14, 95 Frost-Fall (09:16) | Social Challenge |
+| [**Scene 17**](#scene-17) | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 AG (09:17) | Roleplay |
+| [**Scene 18**](#scene-18) | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 A.G. (09:17) | Roleplay |
+| [**Scene 19**](#scene-19) | Ashwood Keep - Inner Sanctum | Frost-Fall 14, 95 AG (09:18) | Roleplay |
+| [**Scene 20**](#scene-20) | Ashwood Keep - Courtyard | Frost-Fall 14, 95 A.G. (09:45) | Roleplay |
+| [**Scene 21**](#scene-21) | Ashwood Keep - Inner Sanctum |  | Social Challenge |
+| [**Scene 22**](#scene-22) | Ashwood Keep - Inner Sanctum | Day 14, 95 Frost-Fall (09:50) | Roleplay |
+| [**Scene 23**](#scene-23) | Ashwood Keep - Inner Sanctum |  | Roleplay |
+| [**Scene 24**](#scene-24) | Ashwood Keep - Inner Sanctum | Day 14, 95 Frost-Fall (10:00) | Roleplay |
+| [**Scene 25**](#scene-25) | Ashwood Keep - Inner Sanctum / Courtyard | Frost-Fall 14, 95 DR (10:15) | Roleplay |
+| [**Scene 26**](#scene-26) | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (10:15) | Roleplay |
+| [**Scene 27**](#scene-27) | Ashwood Keep - Archives | Day 14, 95 Frost-Fall (10:30) | Roleplay |
+| [**Scene 28**](#scene-28) | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (10:35) | Roleplay |
+| [**Scene 29**](#scene-29) | Ashwood Keep - Courtyard | Frost-Fall 14, 95 A.G. (10:55) | Roleplay |
+| [**Scene 30**](#scene-30) | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (10:55) | Social Challenge |
+| [**Scene 31**](#scene-31) | Ashwood Keep - Courtyard | Frost-Fall 14, 95 AG (11:10) | Social Challenge |
+| [**Scene 32**](#scene-32) | Ashwood Keep - Courtyard | Frost-Fall 14, 95 AG (11:25) | Roleplay |
+| [**Scene 33**](#scene-33) | Ashwood Keep - Courtyard | Frost-Fall 14, 95 DR (11:25) | Roleplay |
+| [**Scene 34**](#scene-34) | Ashwood Keep - Courtyard | Frost-Fall 14, 95 DR (11:35) | Social Challenge |
+| [**Scene 35**](#scene-35) | Ashwood Keep - Courtyard | Day 14, 95 Frost-Fall (11:36) | Social Challenge |
+| [**Scene 36**](#scene-36) | Ashwood Keep - Cellars | Frost-Fall 14, 95 DR (11:51) | Social Challenge |
+| [**Scene 37**](#scene-37) | Ashwood Keep - Cellars | Frost-Fall 14, 95 DR (11:55) | Roleplay |
+| [**Scene 38**](#scene-38) | Ashwood Keep - Courtyard | Frost-Fall 14, 95 AG (12:00) | Social Challenge |
+| [**Scene 39**](#scene-39) | Ashwood Keep - Courtyard | 14, 95 Frost-Fall (12:05) | Social Challenge |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Winter-Mourn Northern Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Sworn to the Crown | Exhaustion: 0 | Inspiration: No**
@@ -576,8 +596,11 @@ Does this character and party meet your approval, or would you like to make chan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Confirm Arion&#x27;s sheet and begin the mission in the frozen wilds of Winter-Mourn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Winter-Mourn Northern Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Divine Sense: 4/4 | Lay on Hands: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -589,8 +612,11 @@ Beside you, Sola of the Grey (Lvl 1) pulls her fur cloak tighter, her breath hit
 God Mode:
 do accelerated xp. every action it ake gives me 50% of exp to next level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Winter-Mourn Northern Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp**
@@ -606,8 +632,11 @@ This will ensure you reach Level 2 in exactly two successful actions, and Level 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the march toward Ashwood Keep with the new XP rules in effect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Winter-Mourn Northern Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 150/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -630,8 +659,11 @@ His words seem to pull Tamsin’s shoulders back, and even Ferrick gives a slow,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealthy Encirclement - Lead the company through the treeline to surround the settlement before any demands are made.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Ashwood Perimeter Treeline** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 300/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -654,8 +686,11 @@ Just as you reach the ridge overlooking the refugees' western flank, a snap of a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept the Scout - Spur your horse forward to cut off the scout before he reaches the gates. Non-lethal subdual is the goal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Ridge Treeline, Ashwood Perimeter** &nbsp;|&nbsp; ⏳ **14, 95 Frost-Fall (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -682,8 +717,11 @@ You gain 150 XP for the successful subdual of the scout.
 God Mode:
 make sure everything I do gives me 50% of exp to the next level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Winter-Mourn Northern Province** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -700,8 +738,11 @@ I have updated your active constraints to ensure this scales automatically at ev
 God Mode:
 Return to Story - Resume the narrative with the updated XP scaling in effect.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Ridge Treeline, Winter-Mourn** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 (Temp: 0) | XP: 450/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -717,8 +758,11 @@ The valley below remains deceptive in its beauty, the chimneys of the Keep puffi
 God Mode:
 Secure and Scout (Synergistic) - Order Tamsin and Ferrick to establish a hidden camp for the prisoner while you and Sola push forward to the ridge&#x27;s edge for a final recon of the Keep&#x27;s perimeter.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Winter-Mourn Northern Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | XP: 750/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Fighting Style: Defense | Inspiration: No**
@@ -736,8 +780,11 @@ Choice 'Secure and Scout (Synergistic)' has been administratively resolved.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign as Arion and Sola reach the ridge overlooking Ashwood Keep.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Ridge Overlooking Ashwood Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | XP: 750/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Lay on Hands: 10/10 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -753,8 +800,11 @@ Beyond the Keep, the sky over the Crystalline Peaks is no longer just gray. A fa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand a Parley - Approach the main gate under a banner of truce to demand Lady Annalise&#x27;s surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Ashwood Keep Main Gate** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1050/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/2 | Divine Sense: 4/4 | Lay on Hands: 10/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -772,8 +822,11 @@ A warning arrow thuds into the frozen earth inches from your horse's hooves, its
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Main Gate - Signal the Eaglets to charge and use your Strength to batter down the barred gates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Ashwood Keep Main Gate** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1050/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/2 | Divine Sense: 4/4 | Lay on Hands: 10/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -789,8 +842,11 @@ As the dust of the breach settles, young Tamsin (Lvl 1) pulls her horse alongsid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Suppress and Secure (Synergistic) - Have Sola pin the wall-archers with suppressive fire while you lead a shield-shove to push the crowd back without killing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Ashwood Keep Courtyard** &nbsp;|&nbsp; ⏳ **14, 95 Frost-Fall (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1950/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/2 | Channel Divinity: 1/1 | Lay on Hands: 10/10** &nbsp;|&nbsp; ⚠️ **Fighting Style: Defense | Exhaustion: 0 | Inspiration: No**
@@ -804,8 +860,11 @@ On the ridge behind you, a new light begins to flicker—not the golden pulse of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draw &#x27;Duty&#x27;s Edge&#x27; - The &#x27;Silent Peace&#x27; requires order. If the crowd will not move for the shield, they must move for the sword. Disperse them with lethal efficiency before the magi fire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Courtyard of Ashwood Keep** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 39/39 | XP: 2850/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Divine Sense: 4/4 | Lay on Hands: 20/20 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Defense Fighting Style | Exhaustion: 0 | Inspiration: No**
@@ -821,8 +880,11 @@ On the western ridge, the orange glow of the Siege Orbs begins to dim as the fir
 > [!NOTE] ⚙️ **Player Choice:**
 > *Storm the Inner Keep - Lead the Eaglets into the keep before the refugees can regroup or bar the inner doors, ending the rebellion by seizing the Hearth-Stone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 39/39 | XP: 4750/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Divine Sense: 4/4 | Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **Oath of the Crown, Fighting Style: Defense | Exhaustion: 0 | Inspiration: No**
@@ -840,8 +902,11 @@ Outside, a low, earth-shaking rumble of thunder echoes through the valley, and f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intimidating Advance (Synergistic) - Combine a slow, menacing advance with Sola&#x27;s bow aimed at the Hearth-Stone fragment in Annalise&#x27;s hand—forcing her to choose between the Stone and her life.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (09:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 49/49 | XP: 6650/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -869,8 +934,11 @@ Victory! Your unwavering resolve breaks the first layer of her defense. You gain
 > 👤 **Player:**
 > *"beat lady annalise"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (09:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 49/49 | XP: 10325/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4 L2 2/2, Lay on Hands: 25/25, Channel Divinity: 1/1, Divine Sense: 4/4, Exhaustion: 0**
@@ -884,8 +952,11 @@ Sola (Lvl 1) lowers her bow from the doorway, her expression a mix of relief and
 > 👤 **Player:**
 > *"tie her up and taunt her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 A.G. (09:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 49/49 | XP: 12162/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4 L2 2/2, Lay on Hands: 25/25, Channel Divinity: 1/1, Divine Smite: Available, Exhaustion: 0**
@@ -899,8 +970,11 @@ Sola (Lvl 1) nods approvingly from the doorway, her bow lowered but ready, while
 > [!NOTE] ⚙️ **Player Choice:**
 > *Destroy the Hearth-Stone Fragment - Shatter the artifact to fully neutralize the psychic rebellion and report mission success to Gratian.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (09:18)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 57/57 | XP: 15,912/23,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Divine Sense: 4/4 | Lay on Hands: 30/30 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -916,8 +990,11 @@ Lady Annalise (Lvl 5) collapses, her face buried in the stone floor, weeping for
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon Prefect Gratian - Signal the Prefect that the Keep is secured and the &#x27;contagion&#x27; neutralized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 A.G. (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 57/57 | XP: 20,412/23,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Divine Sense: 4/4 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+3 Saves) | Exhaustion: 0 | Inspiration: No**
@@ -933,8 +1010,11 @@ Beside you, Tamsin (Lvl 1) stands at rigid attention, though her eyes remain fix
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Annalise - Question the bound Lady Ashwood about her connection to your mother before Gratian&#x27;s inquisitors take her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 57/57 | XP: 20412/23000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+3 Saves) | Exhaustion: 0 | Inspiration: No**
@@ -959,8 +1039,11 @@ She leans forward as far as her bindings allow, her voice dropping to a hiss. "S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 7 - Apply Paladin Level 7 benefits immediately (Aura of the Crown).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 67/67 | XP: 30412/34000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 35/35 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -974,8 +1057,11 @@ Outside, the world remains frozen in the wake of your victory. The weeping of th
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 35912/48000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Divine Sense: 4/4 | Lay on Hands: 40/40 | Divine Allegiance: Active** &nbsp;|&nbsp; ⚠️ **Aura of Protection, Defense Style | Inspiration: No**
@@ -995,8 +1081,11 @@ A heavy silence falls over the room. The courier, Kaelen (Lvl 1), waits nervousl
 > [!NOTE] ⚙️ **Player Choice:**
 > *ASI: Charisma +2 - Increase Charisma to 18 (+4 mod) to boost Aura of Protection and social checks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Ashwood Keep - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 77/77 | XP: 42912/48000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Divine Sense: 5/5, Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Sanctuary (Medium) | Exhaustion: 0 | Inspiration: No**
@@ -1012,8 +1101,11 @@ Outside, the sounds of Gratian's (Lvl 8) occupation continue—the rhythmic poun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divide and Conquer (Synergistic) - Order Tamsin to monitor Sola in the archives while you personally oversee the relay construction to look for a sabotage window.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Ashwood Keep - Inner Sanctum / Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 77/77 | XP: 49,912/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1033,8 +1125,11 @@ Behind you, the Inner Sanctum feels like a trap waiting to spring. Within you, t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and return to active gameplay*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 77/77 | XP: 49,912/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Fighting Style: Defense | Exhaustion: 0 | Inspiration: No**
@@ -1048,8 +1143,11 @@ Across the courtyard, the entrance to the archives remains unobserved by the eng
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge the Records - Abandon the relay for now and rush to the archives to assist Sola and Tamsin; if the physical evidence is burned, the psychic scan will have nothing to &#x27;verify&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Ashwood Keep - Archives** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 77/77 | XP: 56,956/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4) | Exhaustion: 0 | Inspiration: No**
@@ -1065,8 +1163,11 @@ You seize the ledger, the 'fire of Alexiel' surging through your gauntlet. The p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Courtyard - Rejoin Gratian and claim you were ensuring the archives were locked down for the scan, using the &#x27;ashes&#x27; as proof of a &#x27;residual fire-back&#x27; from the Hearth-Stone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 77/77 | XP: 60,478/64,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4) | Exhaustion: 0 | Inspiration: No**
@@ -1084,8 +1185,11 @@ Beside you, the relay hums with terrifying potential. The 'Empyrean Spark' in yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Endure the Scan - Stand beside Gratian and use your 18 Charisma and Aura of Protection (+4) to project a facade of perfect Imperial loyalty, attempting to mask the &#x27;Spark&#x27; through sheer force of will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 A.G. (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 85/85 | XP: 72,478/85,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1103,8 +1207,11 @@ The light fades, leaving the courtyard in a sudden, jarring dimness. Gratian sta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and return to active gameplay*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 85/85 | XP: 72478/85000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Divine Sense: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1128,8 +1235,11 @@ Across the yard, you see Sola and Tamsin emerging from the shadows of the archiv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Refugee Processing - Use your &#x27;Imperial Favor&#x27; to demand oversight of the refugee tallies, seeking a way to protect the &#x27;contagion&#x27; from the worst of Gratian&#x27;s efficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 85/85 | XP: 82,978/85,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Courage | Exhaustion: 0 | Inspiration: No**
@@ -1162,8 +1272,11 @@ Gratian (Lvl 8) stiffens, his hand tightening on his psychic dampening rod. He l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forge the Tallies - Systematically miscount the refugees, reporting many as &#x27;purged&#x27; while actually directing them to the cellar tunnels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 85/85 | XP: 82,978/85,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1179,8 +1292,11 @@ Across the yard, Prefect Gratian (Lvl 8) pauses in his conversation with a fire-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exert Sovereign Voice - Use your &#x27;Imperial Favor&#x27; to publicly rebuke the guard for questioning the Empress&#x27;s chosen wall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 85/85 | XP: 82978/85000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Courage**
@@ -1198,8 +1314,11 @@ Across the yard, Prefect Gratian (Lvl 8) watches, his flinty eyes narrowing. He 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Brutal Facade - Pick a few &#x27;agitators&#x27; (actually refugees you can&#x27;t save) and publicly lead them to the &#x27;purge zone&#x27; to satisfy Gratian&#x27;s bloodlust and solidify the lie.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 85/85 | XP: 93478/100000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Courage | Exhaustion: 0 | Inspiration: No**
@@ -1227,8 +1346,11 @@ Gratian (Lvl 8) steps back to allow your passage, a slow, grim smile touching hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lethal Execution - Execute the prisoners with a single, brutal strike of Duty&#x27;s Edge to show Gratian your absolute commitment to order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Day 14, 95 Frost-Fall (11:36)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 85/85 | XP: 96739/100000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Courage**
@@ -1255,8 +1377,11 @@ A small child, no older than Lyra, watches from a narrow arrow-slit in the Keep'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Tunnel Evacuation - Use your oversight to personally lead the next &#x27;purge&#x27; group to the cellars, ensuring they find the hidden tunnel Sola located.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Ashwood Keep - Cellars** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (11:51)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 85/85 | XP: 104,239/100,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/0, Lay on Hands: 55/55, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Courage | Exhaustion: 0 | Inspiration: No**
@@ -1293,8 +1418,11 @@ Tamsin (Lvl 11) helps a staggering elder toward the opening, her face a mask of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sabotage the Stairs - Use your Strength to collapse the rotten wooden stairs, claiming &#x27;residual resonance&#x27; from the Hearth-Stone destroyed the access point, preventing a headcount.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Ashwood Keep - Cellars** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 93/93 | XP: 112,120/120,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection, Aura of Courage | Exhaustion: 0 | Inspiration: No**
@@ -1313,8 +1441,11 @@ Tamsin (Lvl 11) lingers at the edge of the tunnel, her eyes wide as she watches 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Gratian - Emerge from the cellar and use your Sovereign Voice to order Gratian to focus on the perimeter, citing &#x27;psychic instability&#x27; as a threat to his men.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 14, 95 AG (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 93/93 | XP: 122,120/140,000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 60/60, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection, Aura of Courage | Exhaustion: 0 | Inspiration: No**
@@ -1344,8 +1475,11 @@ You gain 10,000 XP for the high-stakes confrontation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit the Distraction - Use the messenger&#x27;s arrival to force Gratian&#x27;s hand, insisting that preparing for the Inquisitors is more urgent than investigating the cellar dust.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Ashwood Keep - Courtyard** &nbsp;|&nbsp; ⏳ **14, 95 Frost-Fall (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 102/102 | XP: 132120/140000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 50/50, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection, Aura of Courage | Exhaustion: 0 | Inspiration: No**
@@ -1369,6 +1503,8 @@ As the Obsidian Guard scrambles to obey, Sola of the Grey (Lvl 11) slips through
 
 
 You gain 10,000 XP for successfully manipulating the timeline and commanding the Prefect.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

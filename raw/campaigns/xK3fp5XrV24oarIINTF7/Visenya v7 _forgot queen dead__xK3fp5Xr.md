@@ -12,674 +12,690 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (653 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Visenya | Setting: Set this in house dragon season 2 when war starts and I’m Visenya the bastard daughter of Daemon. Let’s make me a great bastard and the child of a dead Targaryen lady. I stand out because I look like a true Valyrian and have very strong royal features. Let’s narrate my first scene where I’ve just claimed a medium sized dragon and now am  a serious battle power on rhaenyra side and I’m 16
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **02** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **03** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **04** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **05** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **06** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **07** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **08** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **09** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **10** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **11** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **12** | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
-| **13** | Dragonstone (Chamber of the Painted Table) | AC 15, 129 AC (10:30) | Skill Check / Combat |
-| **14** | Dragonstone (Chamber of the Painted Table) |  | Skill Check / Combat |
-| **15** | Dragonstone (Lower Training Yard) |  | Skill Check / Combat |
-| **16** | Dragonstone (Dragonmont Cliffs) |  | Skill Check / Combat |
-| **17** | Dragonstone (The High Courtyard) |  | Skill Check / Combat |
-| **18** | Dragonstone (The High Courtyard) |  | Skill Check / Combat |
-| **19** | Dragonstone (The High Courtyard) |  | Skill Check / Combat |
-| **20** | Dragonstone (The High Courtyard) | AC 36, 129 DR (09:20) | Roleplay |
-| **21** | Dragonstone (The High Courtyard) | AC 36, 129 AC (09:20) | Roleplay |
-| **22** | Dragonstone (The High Courtyard) | AC 36, 129 AC (09:20) | Roleplay |
-| **23** | Dragonstone (The High Courtyard) | AC 36, 129 AC (09:20) | Roleplay |
-| **24** | Dragonstone (Sea Dragon Tower Ramparts) |  | Skill Check / Combat |
-| **25** | Skies over the Crownlands (Near Rook's Rest) |  | Skill Check / Combat |
-| **26** | Skies over the Crownlands (Near Rook's Rest) | AC 36, 129 AC (12:10) | Skill Check / Combat |
-| **27** | Skies over the Crownlands (Near Rook's Rest) | AC 36, 129 AC (12:10) | Skill Check / Combat |
-| **28** | Skies over the Crownlands (The Whispers Coastal Fog) | AC 36, 129 AC (12:15) | Skill Check / Combat |
-| **29** | Skies over the Crownlands (The Whispers Coastal Fog) | AC 36, 129 AC (12:15) | Skill Check / Combat |
-| **30** | Skies over the Gullet (Returning to Fleet) | AC 36, 129 AC (12:20) | Skill Check / Combat |
-| **31** | Skies over the Crownlands (Mainland Coastline) | AC 36, 129 AC (12:35) | Skill Check / Combat |
-| **32** | Skies over the Gullet (Returning to Fleet) |  | Skill Check / Combat |
-| **33** | Skies over the Gullet (Returning to Fleet) | AC 36, 129 AC (12:50) | Roleplay |
-| **34** | Dragonstone (Sea Dragon Tower) | AC 36, 129 AC (13:40) | Skill Check / Combat |
-| **35** | Dragonstone (The Painted Table) |  | Skill Check / Combat |
-| **36** | Dragonstone (The Painted Table) | AC 36, 129 AC (14:20) | Skill Check / Combat |
-| **37** | Dragonstone (The Painted Table) | AC 36, 129 AC (14:20) | Skill Check / Combat |
-| **38** | Dragonstone (The Painted Table) |  | Skill Check / Combat |
-| **39** | Dragonstone (Sea Dragon Tower) |  | Skill Check / Combat |
-| **40** | Dragonstone (The Painted Table) | AC 37, 129 AC (08:30) | Skill Check / Combat |
-| **41** | Dragonstone (The Painted Table) | AC 37, 129 AC (08:30) | Skill Check / Combat |
-| **42** | Dragonstone (The Painted Table) | AC 37, 129 AC (09:00) | Skill Check / Combat |
-| **43** | Dragonstone (The Painted Table) | AC 37, 129 AC (09:00) | Skill Check / Combat |
-| **44** | Dragonstone (The Painted Table) |  | Skill Check / Combat |
-| **45** | Dragonstone (The Painted Table) | AC 37, 129 AC (09:15) | Skill Check / Combat |
-| **46** | Rook's Rest (Green Siege Perimeter) |  | Skill Check / Combat |
-| **47** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (21:30) | Skill Check / Combat |
-| **48** | Rook's Rest (Green Siege Perimeter) |  | Social Challenge |
-| **49** | Rook's Rest (Green Siege Perimeter) |  | Roleplay |
-| **50** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (22:15) | Skill Check / Combat |
-| **51** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:00) | Skill Check / Combat |
-| **52** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:15) | Skill Check / Combat |
-| **53** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:15) | Skill Check / Combat |
-| **54** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:15) | Skill Check / Combat |
-| **55** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:30) | Skill Check / Combat |
-| **56** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:35) | Skill Check / Combat |
-| **57** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:35) | Skill Check / Combat |
-| **58** | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:50) | Skill Check / Combat |
-| **59** | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
-| **60** | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
-| **61** | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
-| **62** | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
-| **63** | The Whispers (Extraction Point) | AC 38, 129 AC (00:00) | Skill Check / Combat |
-| **64** | The Whispers (Skies above) | AC 38, 129 AC (00:20) | Skill Check / Combat |
-| **65** | The Whispers (Skies above) | AC 38, 129 AC (00:20) | Skill Check / Combat |
-| **66** | The Whispers (Skies above) | AC 38, 129 AC (00:20) | Roleplay |
-| **67** | The Whispers (Skies above) | AC 38, 129 AC (00:30) | Skill Check / Combat |
-| **68** | The Whispers (Skies above) | AC 38, 129 AC (00:35) | Skill Check / Combat |
-| **69** | The Whispers (Skies above) | AC 38, 129 AC (00:40) | Skill Check / Combat |
-| **70** | The Whispers (Skies above) | AC 38, 129 AC (00:40) | Skill Check / Combat |
-| **71** | The Whispers (Skies above) | AC 38, 129 AC (00:45) | Skill Check / Combat |
-| **72** | The Whispers (Skies above) | AC 38, 129 AC (00:50) | Skill Check / Combat |
-| **73** | The Whispers (Skies above) | AC 38, 129 AC (00:50) | Skill Check / Combat |
-| **74** | The Whispers (Skies above) | AC 38, 129 AC (00:51) | Skill Check / Combat |
-| **75** | The Whispers (Skies above) | AC 38, 129 AC (00:51) | Skill Check / Combat |
-| **76** | The Whispers (Skies above) | AC 38, 129 AC (00:52) | Skill Check / Combat |
-| **77** | The Whispers (Skies above) | AC 38, 129 AC (00:52) | Skill Check / Combat |
-| **78** | The Whispers (Skies above) | AC 38, 129 AC (00:52) | Skill Check / Combat |
-| **79** | The Whispers (Skies above) | AC 38, 129 AC (00:54) | Skill Check / Combat |
-| **80** | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Skill Check / Combat |
-| **81** | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Skill Check / Combat |
-| **82** | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Roleplay |
-| **83** | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Roleplay |
-| **84** | The Whispers (Skies above) | AC 38, 129 AC (01:06) | Skill Check / Combat |
-| **85** | The Whispers (Skies above) | AC 38, 129 AC (01:15) | Skill Check / Combat |
-| **86** | The Whispers (Skies above) | AC 38, 129 AC (01:20) | Skill Check / Combat |
-| **87** | The Whispers (Skies above) | AC 38, 129 AC (01:25) | Skill Check / Combat |
-| **88** | The Whispers (Skies above) | AC 38, 129 AC (01:30) | Skill Check / Combat |
-| **89** | Rook's Rest | AC 39, 129 AC (06:00) | Skill Check / Combat |
-| **90** | Rook's Rest | AC 39, 129 AC (06:30) | Roleplay |
-| **91** | Rook's Rest | AC 39, 129 AC (06:30) | Skill Check / Combat |
-| **92** | Rook's Rest | AC 39, 129 AC (06:30) | Roleplay |
-| **93** | Rook's Rest (The Ravine) | AC 39, 129 AC (06:35) | Skill Check / Combat |
-| **94** | Rook's Rest (The Ravine) | AC 39, 129 AC (06:35) | Skill Check / Combat |
-| **95** | Rook's Rest (The Ravine) | AC 42, 129 AC (06:35) | Skill Check / Combat |
-| **96** | Rook's Rest (The Shoreline) | AC 43, 129 AC (06:00) | Skill Check / Combat |
-| **97** | Rook's Rest (The Ravine) | AC 43, 129 AC (12:00) | Skill Check / Combat |
-| **98** | Rook's Rest (The Ravine) | AC 43, 129 AC (13:00) | Skill Check / Combat |
-| **99** | Rook's Rest (The Ravine) | AC 43, 129 AC (13:00) | Skill Check / Combat |
-| **100** | Rook's Rest (The Shoreline) | AC 44, 129 AC (01:00) | Skill Check / Combat |
-| **101** | Rook's Rest (The Shoreline) | AC 44, 129 AC (05:00) | Skill Check / Combat |
-| **102** | Dragonstone (The Dragonmont) | AC 44, 129 AC (10:00) | Skill Check / Combat |
-| **103** | Dragonstone (The Dragonmont) | AC 44, 129 AC (10:00) | Roleplay |
-| **104** | Dragonstone (The Dragonmont) | AC 44, 129 AC (10:00) | Social Challenge |
-| **105** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:30) | Skill Check / Combat |
-| **106** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:30) | Roleplay |
-| **107** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:30) | Roleplay |
-| **108** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Skill Check / Combat |
-| **109** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Skill Check / Combat |
-| **110** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Roleplay |
-| **111** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Roleplay |
-| **112** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:50) | Skill Check / Combat |
-| **113** | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (12:00) | Skill Check / Combat |
-| **114** | Dragonstone (The Dragonmont Peak) | AC 52, 129 AC (06:00) | Skill Check / Combat |
-| **115** | Dragonstone (The Dragonmont Peak) | AC 52, 129 AC (06:00) | Skill Check / Combat |
-| **116** | Castle Stokeworth (The Crownlands) | AC 52, 129 AC (07:15) | Skill Check / Combat |
-| **117** | Castle Stokeworth (The Crownlands) | AC 52, 129 AC (07:15) | Skill Check / Combat |
-| **118** | Skies above Castle Hayford | AC 52, 129 AC (07:30) | Skill Check / Combat |
-| **119** | Skies above Castle Hayford | AC 52, 129 AC (07:30) | Skill Check / Combat |
-| **120** | Skies above Castle Hayford | AC 52, 129 AC (07:35) | Skill Check / Combat |
-| **121** | Castle Hayford (The Crownlands) | AC 52, 129 AC (07:50) | Skill Check / Combat |
-| **122** | Castle Hayford (The Crownlands) | AC 52, 129 AC (08:00) | Skill Check / Combat |
-| **123** | Castle Hayford (The Crownlands) | AC 52, 129 AC (08:00) | Roleplay |
-| **124** | Rosby Woods (Green Supply Depot) | AC 52, 129 AC (09:00) | Skill Check / Combat |
-| **125** | Rosby Woods (Green Supply Depot) | AC 52, 129 AC (09:00) | Skill Check / Combat |
-| **126** | Rosby Woods (Green Supply Depot) | AC 52, 129 AC (09:15) | Skill Check / Combat |
-| **127** | Rosby Woods (Western Ravine Border) | AC 52, 129 AC (09:30) | Skill Check / Combat |
-| **128** | Rosby Woods (Western Ravine Border) | AC 52, 129 AC (09:45) | Skill Check / Combat |
-| **129** | Rosby Woods (Western Ravine Border) | AC 52, 129 AC (09:46) | Skill Check / Combat |
-| **130** | Rosby Woods (Western Ravine) | AC 52, 129 AC (10:01) | Skill Check / Combat |
-| **131** | Rosby Woods (Western Ravine) | AC 52, 129 AC (10:01) | Roleplay |
-| **132** | Rosby Woods (Western Ravine) | AC 52, 129 AC (10:01) | Roleplay |
-| **133** | Castle Hayford | AC 52, 129 AC (16:00) | Skill Check / Combat |
-| **134** | Castle Hayford | AC 52, 129 DR (16:00) | Roleplay |
-| **135** | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Skill Check / Combat |
-| **136** | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
-| **137** | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
-| **138** | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
-| **139** | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
-| **140** | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
-| **141** | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:30) | Skill Check / Combat |
-| **142** | Castle Hayford (Queen's Solar) | AC 52, 129 DR (16:30) | Roleplay |
-| **143** | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:45) | Skill Check / Combat |
-| **144** | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:45) | Roleplay |
-| **145** | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:50) | Roleplay |
-| **146** | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:50) | Social Challenge |
-| **147** | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:50) | Skill Check / Combat |
-| **148** | Dragonstone (The Painted Table / Dungeons) | AC 55, 129 AC (09:00) | Skill Check / Combat |
-| **149** | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:00) | Skill Check / Combat |
-| **150** | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:05) | Skill Check / Combat |
-| **151** | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:05) | Roleplay |
-| **152** | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:05) | Roleplay |
-| **153** | Dragonstone (The Painted Table) | AC 60, 129 AC (10:00) | Skill Check / Combat |
-| **154** | Dragonstone (The Painted Table) | AC 64, 129 AC (10:00) | Skill Check / Combat |
-| **155** | Dragonstone (The Painted Table) | AC 64, 129 AC (10:10) | Skill Check / Combat |
-| **156** | Dragonstone (The Painted Table) | AC 64, 129 DR (10:10) | Roleplay |
-| **157** | Dragonstone (The Painted Table) | AC 64, 129 AC (10:15) | Skill Check / Combat |
-| **158** | Dragonstone (The Painted Table) | AC 64, 129 AC (10:20) | Skill Check / Combat |
-| **159** | Dragonstone (The Painted Table) | AC 64, 129 AC (10:25) | Skill Check / Combat |
-| **160** | Above the Crownlands | AC 64, 129 AC (14:25) | Skill Check / Combat |
-| **161** | Above the Crownlands | AC 64, 129 AC (14:25) | Skill Check / Combat |
-| **162** | Dragonstone (Council Chamber) | AC 64, 129 AC (18:25) | Skill Check / Combat |
-| **163** | Dragonstone (Council Chamber) | AC 64, 129 AC (18:25) | Roleplay |
-| **164** | Dragonstone (Council Chamber) | AC 64, 129 AC (18:40) | Skill Check / Combat |
-| **165** | Castle Rosby (Great Hall) | AC 65, 129 AC (19:00) | Skill Check / Combat |
-| **166** | Castle Rosby (Great Hall) | AC 65, 129 AC (19:00) | Roleplay |
-| **167** | Castle Rosby (Great Hall) | AC 65, 129 AC (19:00) | Social Challenge |
-| **168** | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Skill Check / Combat |
-| **169** | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Roleplay |
-| **170** | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Roleplay |
-| **171** | Castle Rosby (Solar) | AC 79, 129 DR (10:00) | Roleplay |
-| **172** | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Roleplay |
-| **173** | Castle Rosby (Great Hall) | AC 79, 129 AC (11:15) | Skill Check / Combat |
-| **174** | Castle Rosby (Great Hall) | AC 79, 129 AC (11:15) | Roleplay |
-| **175** | Castle Rosby (Great Hall) | AC 79, 129 AC (11:15) | Roleplay |
-| **176** | Castle Rosby (Great Hall) | AC 79, 129 AC (11:30) | Skill Check / Combat |
-| **177** | Castle Rosby (Great Hall) | AC 79, 129 AC (11:45) | Skill Check / Combat |
-| **178** | Castle Rosby (Great Hall) | AC 79, 129 AC (11:45) | Roleplay |
-| **179** | Castle Rosby (Great Hall) | AC 79, 129 DR (11:45) | Roleplay |
-| **180** | Castle Rosby (Great Hall) | AC 79, 129 DR (11:45) | Roleplay |
-| **181** | Border of the Reach (The Goldroad) | AC 80, 129 AC (06:00) | Skill Check / Combat |
-| **182** | Border of the Reach (The Goldroad) | AC 80, 129 AC (06:00) | Roleplay |
-| **183** | Border of the Reach (The Goldroad) | AC 80, 129 AC (07:15) | Skill Check / Combat |
-| **184** | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:00) | Skill Check / Combat |
-| **185** | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Skill Check / Combat |
-| **186** | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Roleplay |
-| **187** | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Social Challenge |
-| **188** | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Social Challenge |
-| **189** | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:15) | Social Challenge |
-| **190** | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:30) | Skill Check / Combat |
-| **191** | Bitterbridge | AC 83, 129 AC (08:45) | Skill Check / Combat |
-| **192** | Bitterbridge | AC 83, 129 AC (09:15) | Skill Check / Combat |
-| **193** | Bitterbridge | AC 83, 129 AC (09:30) | Skill Check / Combat |
-| **194** | Bitterbridge | AC 83, 129 AC (09:45) | Skill Check / Combat |
-| **195** | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
-| **196** | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
-| **197** | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
-| **198** | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
-| **199** | Bitterbridge | AC 83, 129 AC (10:00) | Roleplay |
-| **200** | Bitterbridge | AC 83, 129 AC (14:00) | Skill Check / Combat |
-| **201** | Bitterbridge | AC 83, 129 AC (14:15) | Skill Check / Combat |
-| **202** | Bitterbridge | AC 83, 129 AC (14:30) | Skill Check / Combat |
-| **203** | Tumbleton (Approach) | AC 83, 129 AC (20:00) | Skill Check / Combat |
-| **204** | Tumbleton (Approach) | AC 83, 129 AC (20:00) | Skill Check / Combat |
-| **205** | Tumbleton | AC 83, 129 AC (20:15) | Skill Check / Combat |
-| **206** | Tumbleton | AC 83, 129 AC (20:15) | Roleplay |
-| **207** | Tumbleton | AC 83, 129 AC (20:15) | Roleplay |
-| **208** | Tumbleton | AC 83, 129 AC (20:15) | Roleplay |
-| **209** | Tumbleton | AC 83, 129 AC (20:45) | Skill Check / Combat |
-| **210** | Tumbleton / Cockleshent Crossing | AC 83, 129 AC (22:00) | Skill Check / Combat |
-| **211** | Cockleshent Crossing | AC 83, 129 AC (22:15) | Skill Check / Combat |
-| **212** | Cockleshent Crossing | AC 83, 129 AC (22:30) | Skill Check / Combat |
-| **213** | Cockleshent Crossing | AC 83, 129 AC (22:45) | Skill Check / Combat |
-| **214** | Cockleshent Crossing | AC 83, 129 AC (22:45) | Skill Check / Combat |
-| **215** | Bitterbridge | AC 87, 129 AC (09:00) | Skill Check / Combat |
-| **216** | Highgarden | AC 97, 129 AC (09:00) | Skill Check / Combat |
-| **217** | Highgarden | AC 97, 129 AC (10:00) | Skill Check / Combat |
-| **218** | Highgarden | AC 97, 129 AC (10:05) | Skill Check / Combat |
-| **219** | Highgarden | AC 97, 129 AC (10:20) | Skill Check / Combat |
-| **220** | Highgarden | AC 97, 129 AC (12:20) | Skill Check / Combat |
-| **221** | Highgarden | AC 97, 129 AC (12:20) | Roleplay |
-| **222** | Highgarden | AC 97, 129 AC (12:20) | Roleplay |
-| **223** | Highgarden | AC 97, 129 AC (12:20) | Roleplay |
-| **224** | Mander River (North of Highgarden) | AC 97, 129 AC (16:20) | Skill Check / Combat |
-| **225** | Mander River (North of Highgarden) | AC 97, 129 AC (16:35) | Skill Check / Combat |
-| **226** | Mander River (Heading North) | AC 97, 129 AC (17:00) | Skill Check / Combat |
-| **227** | Highgarden | AC 98, 129 AC (06:00) | Skill Check / Combat |
-| **228** | Highgarden | AC 105, 129 AC (12:00) | Skill Check / Combat |
-| **229** | Highgarden | AC 105, 129 AC (15:30) | Skill Check / Combat |
-| **230** | Highgarden | AC 105, 129 AC (15:35) | Skill Check / Combat |
-| **231** | Highgarden | AC 105, 129 AC (18:00) | Skill Check / Combat |
-| **232** | Highgarden | AC 105, 129 AC (21:00) | Skill Check / Combat |
-| **233** | Highgarden | AC 105, 129 AC (21:30) | Skill Check / Combat |
-| **234** | Highgarden | AC 105, 129 AC (21:45) | Skill Check / Combat |
-| **235** | Highgarden | AC 105, 129 AC (22:00) | Skill Check / Combat |
-| **236** | Highgarden | AC 105, 129 AC (22:15) | Skill Check / Combat |
-| **237** | Highgarden | AC 105, 129 AC (22:15) | Roleplay |
-| **238** | Highgarden | AC 105, 129 AC (22:15) | Skill Check / Combat |
-| **239** | The Mander | AC 106, 129 AC (06:00) | Skill Check / Combat |
-| **240** | The Stepstones | AC 106, 129 AC (10:00) | Skill Check / Combat |
-| **241** | The Stepstones | AC 106, 129 AC (10:00) | Roleplay |
-| **242** | Aboard the Sea Snake | AC 106, 129 AC (11:30) | Skill Check / Combat |
-| **243** | Bloodstone | AC 106, 129 AC (19:30) | Skill Check / Combat |
-| **244** | Bloodstone | AC 106, 129 AC (19:30) | Roleplay |
-| **245** | Bloodstone | AC 106, 129 AC (19:30) | Roleplay |
-| **246** | Bloodstone | AC 106, 129 AC (20:00) | Skill Check / Combat |
-| **247** | Bloodstone | AC 106, 129 AC (20:20) | Skill Check / Combat |
-| **248** | Bloodstone | AC 106, 129 AC (22:30) | Skill Check / Combat |
-| **249** | Bloodstone | AC 107, 129 AC (10:30) | Skill Check / Combat |
-| **250** | Bloodstone | AC 107, 129 AC (10:30) | Skill Check / Combat |
-| **251** | The Gullet | AC 107, 129 AC (11:30) | Skill Check / Combat |
-| **252** | The Gullet | AC 107, 129 AC (11:30) | Skill Check / Combat |
-| **253** | The Gullet | AC 107, 129 AC (11:30) | Roleplay |
-| **254** | The Gullet | AC 107, 129 AC (11:31) | Skill Check / Combat |
-| **255** | The Gullet | AC 107, 129 AC (11:35) | Skill Check / Combat |
-| **256** | The Gullet | AC 107, 129 AC (11:40) | Skill Check / Combat |
-| **257** | Bloodstone | AC 107, 129 AC (12:10) | Skill Check / Combat |
-| **258** | Bloodstone | AC 107, 129 AC (14:30) | Skill Check / Combat |
-| **259** | Bloodstone | AC 107, 129 AC (14:30) | Roleplay |
-| **260** | Bloodstone | AC 107, 129 AC (14:30) | Roleplay |
-| **261** | Bloodstone | AC 107, 129 AC (14:30) | Roleplay |
-| **262** | King's Landing | AC 107, 129 AC (14:30) | Skill Check / Combat |
-| **263** | King's Landing | AC 107, 129 AC (14:30) | Skill Check / Combat |
-| **264** | King's Landing | AC 107, 129 AC (14:30) | Skill Check / Combat |
-| **265** | King's Landing (Mud Gate) | AC 107, 129 AC (14:45) | Skill Check / Combat |
-| **266** | King's Landing (Mud Gate) | AC 107, 129 AC (14:50) | Skill Check / Combat |
-| **267** | King's Landing (Mud Gate) | AC 107, 129 AC (14:55) | Skill Check / Combat |
-| **268** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:25) | Skill Check / Combat |
-| **269** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:35) | Skill Check / Combat |
-| **270** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:35) | Skill Check / Combat |
-| **271** | White Sword Tower | AC 107, 129 AC (15:45) | Skill Check / Combat |
-| **272** | White Sword Tower | AC 107, 129 AC (15:45) | Skill Check / Combat |
-| **273** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:50) | Skill Check / Combat |
-| **274** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (16:05) | Skill Check / Combat |
-| **275** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (16:45) | Skill Check / Combat |
-| **276** | King's Landing Docks | AC 107, 129 AC (17:00) | Skill Check / Combat |
-| **277** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:15) | Skill Check / Combat |
-| **278** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:30) | Skill Check / Combat |
-| **279** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:30) | Roleplay |
-| **280** | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:30) | Roleplay |
-| **281** | The Iron Throne Room | AC 107, 129 AC (18:30) | Skill Check / Combat |
-| **282** | The Iron Throne Room | AC 107, 129 AC (18:45) | Skill Check / Combat |
-| **283** | The Iron Throne Room | AC 107, 129 AC (18:50) | Skill Check / Combat |
-| **284** | The Iron Throne Room | AC 107, 129 AC (18:50) | Social Challenge |
-| **285** | The Iron Throne Room | AC 107, 129 AC (18:55) | Skill Check / Combat |
-| **286** | The Iron Throne Room | AC 107, 129 AC (19:10) | Skill Check / Combat |
-| **287** | The Iron Throne Room | AC 107, 129 AC (19:10) | Skill Check / Combat |
-| **288** | The Great Hall of the Red Keep | AC 107, 129 AC (20:00) | Skill Check / Combat |
-| **289** | The Great Hall of the Red Keep | AC 107, 129 DR (20:00) | Roleplay |
-| **290** | The Great Hall of the Red Keep | AC 107, 129 AC (20:00) | Roleplay |
-| **291** | The Great Hall of the Red Keep | AC 107, 129 AC (20:00) | Roleplay |
-| **292** | The Great Hall of the Red Keep | AC 107, 129 AC (20:15) | Skill Check / Combat |
-| **293** | The Great Hall of the Red Keep | AC 107, 129 AC (20:20) | Skill Check / Combat |
-| **294** | The Great Hall of the Red Keep | AC 107, 129 AC (20:30) | Skill Check / Combat |
-| **295** | The Great Hall of the Red Keep | AC 107, 129 AC (20:30) | Roleplay |
-| **296** | Service Tunnels | AC 107, 129 AC (20:35) | Skill Check / Combat |
-| **297** | Service Tunnels | AC 107, 129 AC (20:35) | Roleplay |
-| **298** | Service Tunnels | AC 107, 129 AC (20:45) | Skill Check / Combat |
-| **299** | Service Tunnels | AC 107, 129 AC (20:45) | Roleplay |
-| **300** | Service Tunnels | AC 107, 129 AC (20:45) | Roleplay |
-| **301** | Service Tunnels | AC 107, 129 DR (20:45) | Roleplay |
-| **302** | The Great Hall of the Red Keep | AC 107, 129 AC (21:00) | Skill Check / Combat |
-| **303** | The Great Hall of the Red Keep | AC 107, 129 AC (21:15) | Skill Check / Combat |
-| **304** | The Great Hall of the Red Keep | AC 107, 129 AC (21:20) | Skill Check / Combat |
-| **305** | The Great Hall of the Red Keep | AC 107, 129 AC (21:25) | Skill Check / Combat |
-| **306** | The Shadow-Keep | AC 114, 129 AC (08:00) | Skill Check / Combat |
-| **307** | The Shadow-Keep | AC 114, 129 AC (08:30) | Skill Check / Combat |
-| **308** | The Red Keep | AC 114, 129 AC (16:30) | Skill Check / Combat |
-| **309** | The Velaryon Quarters | AC 114, 129 AC (20:00) | Skill Check / Combat |
-| **310** | The Velaryon Quarters | AC 114, 129 AC (20:00) | Skill Check / Combat |
-| **311** | The Velaryon Quarters | AC 114, 129 AC (20:30) | Skill Check / Combat |
-| **312** | The Velaryon Quarters | AC 114, 129 AC (20:35) | Skill Check / Combat |
-| **313** | The Velaryon Quarters | AC 114, 129 AC (20:40) | Skill Check / Combat |
-| **314** | The Velaryon Quarters | AC 114, 129 AC (21:00) | Skill Check / Combat |
-| **315** | The Velaryon Quarters | AC 114, 129 AC (21:00) | Roleplay |
-| **316** | The Velaryon Quarters | AC 114, 129 AC (21:15) | Skill Check / Combat |
-| **317** | The Velaryon Quarters | AC 114, 129 AC (21:20) | Skill Check / Combat |
-| **318** | The Velaryon Quarters | AC 114, 129 AC (21:25) | Skill Check / Combat |
-| **319** | The Velaryon Quarters | AC 114, 129 AC (21:25) | Skill Check / Combat |
-| **320** | The Velaryon Quarters | AC 114, 129 DR (21:25) | Roleplay |
-| **321** | The Velaryon Quarters | AC 114, 129 AC (21:30) | Skill Check / Combat |
-| **322** | The Velaryon Quarters | AC 114, 129 AC (21:40) | Skill Check / Combat |
-| **323** | The Velaryon Quarters | AC 114, 129 AC (21:40) | Roleplay |
-| **324** | The Velaryon Quarters | AC 114, 129 AC (21:45) | Skill Check / Combat |
-| **325** | The West Balcony | AC 114, 129 AC (21:55) | Skill Check / Combat |
-| **326** | The Velaryon Quarters | AC 114, 129 AC (22:15) | Skill Check / Combat |
-| **327** | The Velaryon Quarters | AC 114, 129 AC (22:30) | Skill Check / Combat |
-| **328** | The Square of the Sept of Remembrance | AC 114, 129 AC (22:50) | Skill Check / Combat |
-| **329** | The Square of the Sept of Remembrance | AC 114, 129 AC (23:00) | Skill Check / Combat |
-| **330** | The Square of the Sept of Remembrance | AC 114, 129 AC (23:15) | Skill Check / Combat |
-| **331** | The Square of the Sept of Remembrance | AC 114, 129 AC (23:30) | Skill Check / Combat |
-| **332** | The Square of the Sept of Remembrance | AC 114, 129 AC (23:35) | Skill Check / Combat |
-| **333** | The Square of the Sept of Remembrance | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **334** | The Temple of the Shadow | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **335** | A Hidden Cellar | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **336** | The Red Keep Tunnels / King's Landing | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **337** | The Red Keep Tunnels / King's Landing | AC 114, 129 AC (23:45) | Roleplay |
-| **338** | The Red Keep Tunnels / King's Landing | AC 114, 129 AC (23:45) | Roleplay |
-| **339** | The Red Keep Tunnels / City Watch Barracks | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **340** | Queen's Private Chambers | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **341** | Tyrosh | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **342** | Tyrosh | AC 114, 129 AC (23:45) | Roleplay |
-| **343** | The Queen's Solar | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **344** | The Queen's Solar | AC 114, 129 AC (23:45) | Roleplay |
-| **345** | The Queen's Solar | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **346** | The Queen's Solar | AC 114, 129 AC (23:45) | Roleplay |
-| **347** | The Queen's Solar | AC 114, 129 AC (23:45) | Social Challenge |
-| **348** | The Sept of Remembrance | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **349** | The Sept of Remembrance | AC 114, 129 AC (23:45) | Skill Check / Combat |
-| **350** | The Sept of Remembrance | AC 114, 129 AC (23:50) | Skill Check / Combat |
-| **351** | The Sept of Remembrance | AC 114, 129 AC (23:50) | Skill Check / Combat |
-| **352** | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
-| **353** | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
-| **354** | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
-| **355** | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
-| **356** | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
-| **357** | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
-| **358** | The Sept of Remembrance | AC 115, 129 AC (00:05) | Skill Check / Combat |
-| **359** | The Gates of the Red Keep | AC 115, 129 AC (01:00) | Skill Check / Combat |
-| **360** | The Gates of the Red Keep | AC 115, 129 AC (01:10) | Skill Check / Combat |
-| **361** | The Gates of the Red Keep | AC 115, 129 AC (01:15) | Skill Check / Combat |
-| **362** | Maegor's Holdfast | AC 115, 129 AC (10:00) | Skill Check / Combat |
-| **363** | Maegor's Holdfast | AC 115, 129 AC (14:00) | Skill Check / Combat |
-| **364** | Mud Gate Sub-levels | AC 115, 129 AC (14:00) | Skill Check / Combat |
-| **365** | Mud Gate Sub-levels | AC 115, 129 AC (16:45) | Skill Check / Combat |
-| **366** | Abandoned Tannery Safehouse | AC 115, 129 AC (17:15) | Skill Check / Combat |
-| **367** | Blackwater Bay | AC 115, 129 AC (17:45) | Skill Check / Combat |
-| **368** | Blackwater Bay | AC 115, 129 AC (17:45) | Roleplay |
-| **369** | Blackwater Bay | AC 115, 129 AC (17:45) | Roleplay |
-| **370** | Blackwater Bay | AC 115, 129 AC (17:45) | Roleplay |
-| **371** | Mudflats of the Hook | AC 115, 129 AC (18:00) | Skill Check / Combat |
-| **372** | Mudflats of the Hook | AC 115, 129 DR (18:00) | Roleplay |
-| **373** | Mudflats of the Hook | AC 115, 129 AC (18:00) | Skill Check / Combat |
-| **374** | Mudflats of the Hook | AC 115, 129 AC (18:00) | Roleplay |
-| **375** | Abandoned Tannery Safehouse | AC 115, 129 AC (18:00) | Skill Check / Combat |
-| **376** | Abandoned Tannery Safehouse | AC 115, 129 AC (19:45) | Skill Check / Combat |
-| **377** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:00) | Skill Check / Combat |
-| **378** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:15) | Skill Check / Combat |
-| **379** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:15) | Roleplay |
-| **380** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:15) | Roleplay |
-| **381** | Abandoned Tannery Safehouse | AC 115, 129 DR (20:15) | Roleplay |
-| **382** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:20) | Skill Check / Combat |
-| **383** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:25) | Skill Check / Combat |
-| **384** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:35) | Skill Check / Combat |
-| **385** | Abandoned Tannery Safehouse | AC 115, 129 AC (20:40) | Skill Check / Combat |
-| **386** | The Red Keep | AC 115, 129 AC (22:00) | Skill Check / Combat |
-| **387** | The Red Keep | AC 115, 129 AC (22:30) | Skill Check / Combat |
-| **388** | The Red Keep | AC 115, 129 AC (22:30) | Skill Check / Combat |
-| **389** | The Red Keep | AC 115, 129 AC (22:45) | Skill Check / Combat |
-| **390** | The Red Keep | AC 115, 129 AC (23:00) | Skill Check / Combat |
-| **391** | Shadow-Cells | AC 115, 129 AC (23:15) | Skill Check / Combat |
-| **392** | Shadow-Cells | AC 115, 129 AC (23:15) | Skill Check / Combat |
-| **393** | Shadow-Cells | AC 115, 129 AC (23:30) | Skill Check / Combat |
-| **394** | The Red Keep | AC 115, 129 AC (23:45) | Skill Check / Combat |
-| **395** | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
-| **396** | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
-| **397** | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
-| **398** | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
-| **399** | Shadow-Cells | AC 115, 129 AC (23:50) | Skill Check / Combat |
-| **400** | Shadow-Cells | AC 115, 129 AC (23:50) | Skill Check / Combat |
-| **401** | Shadow-Cells | AC 116, 129 AC (00:05) | Skill Check / Combat |
-| **402** | Shadow-Cells | AC 116, 129 AC (00:05) | Roleplay |
-| **403** | The Great Hall | AC 116, 129 AC (08:05) | Skill Check / Combat |
-| **404** | The Great Hall | AC 116, 129 AC (08:15) | Skill Check / Combat |
-| **405** | The Great Hall | AC 116, 129 AC (09:00) | Skill Check / Combat |
-| **406** | The High Protector's Sanctum | AC 116, 129 AC (10:00) | Skill Check / Combat |
-| **407** | The High Protector's Sanctum | AC 116, 129 AC (14:00) | Skill Check / Combat |
-| **408** | The Roseroad | AC 116, 129 AC (14:15) | Skill Check / Combat |
-| **409** | The Roseroad | AC 116, 129 AC (14:15) | Skill Check / Combat |
-| **410** | The Roseroad | AC 116, 129 AC (14:30) | Skill Check / Combat |
-| **411** | The Roseroad | AC 116, 129 AC (14:30) | Roleplay |
-| **412** | The Roseroad | AC 116, 129 AC (14:30) | Roleplay |
-| **413** | The Roseroad | AC 116, 129 AC (14:30) | Roleplay |
-| **414** | The Roseroad | AC 116, 129 AC (14:35) | Roleplay |
-| **415** | The Roseroad | AC 116, 129 AC (15:00) | Skill Check / Combat |
-| **416** | Shadow-Council Command Tent | AC 116, 129 AC (15:05) | Skill Check / Combat |
-| **417** | The Roseroad | AC 116, 129 AC (23:35) | Skill Check / Combat |
-| **418** | The Roseroad | AC 116, 129 AC (23:35) | Skill Check / Combat |
-| **419** | The Roseroad | AC 116, 129 AC (23:45) | Skill Check / Combat |
-| **420** | The Roseroad | AC 116, 129 AC (23:45) | Roleplay |
-| **421** | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:45) | Skill Check / Combat |
-| **422** | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:45) | Skill Check / Combat |
-| **423** | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Skill Check / Combat |
-| **424** | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Roleplay |
-| **425** | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Roleplay |
-| **426** | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Skill Check / Combat |
-| **427** | Ser Hobert's Command Tent (The Roseroad) | AC 117, 129 AC (00:15) | Skill Check / Combat |
-| **428** | The Red Keep (King's Landing) | AC 117, 129 AC (08:15) | Skill Check / Combat |
-| **429** | The Red Keep (King's Landing) | AC 117, 129 AC (08:30) | Skill Check / Combat |
-| **430** | The Red Keep (King's Landing) | AC 117, 129 AC (08:30) | Skill Check / Combat |
-| **431** | The Red Keep (King's Landing) | AC 117, 129 AC (08:50) | Social Challenge |
-| **432** | The Red Keep (King's Landing) | AC 117, 129 AC (09:15) | Skill Check / Combat |
-| **433** | Oldtown | AC 117, 129 AC (17:15) | Skill Check / Combat |
-| **434** | Oldtown | AC 117, 129 AC (19:30) | Skill Check / Combat |
-| **435** | Oldtown | AC 138, 129 AC (21:00) | Skill Check / Combat |
-| **436** | Oldtown | AC 138, 129 AC (21:00) | Roleplay |
-| **437** | Oldtown | AC 138, 129 AC (21:00) | Roleplay |
-| **438** | Oldtown (The Hightower) | AC 138, 129 AC (22:30) | Skill Check / Combat |
-| **439** | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Skill Check / Combat |
-| **440** | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
-| **441** | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
-| **442** | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
-| **443** | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Skill Check / Combat |
-| **444** | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
-| **445** | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
-| **446** | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Skill Check / Combat |
-| **447** | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Skill Check / Combat |
-| **448** | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Skill Check / Combat |
-| **449** | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Roleplay |
-| **450** | King's Landing (The Red Keep) | AC 142, 129 AC (10:00) | Skill Check / Combat |
-| **451** | King's Landing (The Red Keep) | AC 142, 129 AC (10:15) | Skill Check / Combat |
-| **452** | King's Landing (The Red Keep) | AC 142, 129 AC (10:30) | Skill Check / Combat |
-| **453** | King's Landing (The Red Keep Sub-Vaults) | AC 142, 129 AC (12:30) | Skill Check / Combat |
-| **454** | King's Landing (The Red Keep Sub-Vaults) | AC 142, 129 AC (12:30) | Skill Check / Combat |
-| **455** | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Skill Check / Combat |
-| **456** | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Roleplay |
-| **457** | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Boss Surrender |
-| **458** | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Boss Surrender |
-| **459** | King's Landing (The Red Keep) | AC 142, 129 AC (16:30) | Skill Check / Combat |
-| **460** | King's Landing (The Shadow-Keep Cistern) | AC 142, 129 AC (18:30) | Skill Check / Combat |
-| **461** | King's Landing (The Shadow-Keep Cistern) | AC 142, 129 AC (18:35) | Skill Check / Combat |
-| **462** | King's Landing (The Red Keep Solar) | AC 142, 129 AC (18:35) | Skill Check / Combat |
-| **463** | King's Landing (The Shadow-Keep) | AC 142, 129 AC (18:35) | Skill Check / Combat |
-| **464** | King's Landing (The Shadow-Keep) | AC 164, 129 AC (18:35) | Skill Check / Combat |
-| **465** | Blackwater Bay (In Transit) | AC 164, 129 AC (18:35) | Skill Check / Combat |
-| **466** | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:35) | Skill Check / Combat |
-| **467** | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Skill Check / Combat |
-| **468** | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Roleplay |
-| **469** | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Skill Check / Combat |
-| **470** | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Skill Check / Combat |
-| **471** | The Smoking Sea (Arrival at the Ash-Tower) | AC 164, 129 AC (22:45) | Skill Check / Combat |
-| **472** | The Ash-Tower (Old Valyria) | AC 164, 129 AC (22:50) | Skill Check / Combat |
-| **473** | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Skill Check / Combat |
-| **474** | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Roleplay |
-| **475** | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Roleplay |
-| **476** | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Roleplay |
-| **477** | The Ash-Tower (Sub-Level Anchors) | AC 165, 129 AC (00:00) | Skill Check / Combat |
-| **478** | The Ash-Tower (Sub-Level Anchors) | AC 165, 129 AC (00:00) | Skill Check / Combat |
-| **479** | The Ash-Tower (Sub-Level Anchors) | AC 165, 129 AC (00:00) | Skill Check / Combat |
-| **480** | The Ash-Tower (Apex) | AC 165, 129 AC (00:10) | Skill Check / Combat |
-| **481** | The Ash-Tower (Apex) | AC 165, 129 AC (00:15) | Skill Check / Combat |
-| **482** | The Ash-Tower (Apex) | AC 165, 129 AC (00:16) | Skill Check / Combat |
-| **483** | The Ash-Tower (Apex) | AC 165, 129 AC (00:20) | Skill Check / Combat |
-| **484** | The Ash-Tower (Apex) | AC 165, 129 AC (00:20) | Skill Check / Combat |
-| **485** | The Ash-Tower (Apex) | AC 165, 129 AC (00:21) | Skill Check / Combat |
-| **486** | The Ash-Tower (Apex) | AC 165, 129 AC (00:22) | Skill Check / Combat |
-| **487** | The Ash-Tower (Apex) | AC 165, 129 AC (00:22) | Skill Check / Combat |
-| **488** | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Skill Check / Combat |
-| **489** | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
-| **490** | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
-| **491** | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
-| **492** | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
-| **493** | The Ash-Tower (Apex) | AC 165, 129 AC (00:24) | Skill Check / Combat |
-| **494** | Safe Camp | AC 165, 129 AC (08:24) | Skill Check / Combat |
-| **495** | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
-| **496** | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
-| **497** | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
-| **498** | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
-| **499** | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
-| **500** | The Ash-Tower (Sovereign Base) | AC 165, 129 AC (12:24) | Skill Check / Combat |
-| **501** | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:24) | Skill Check / Combat |
-| **502** | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:30) | Skill Check / Combat |
-| **503** | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:30) | Skill Check / Combat |
-| **504** | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Skill Check / Combat |
-| **505** | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Roleplay |
-| **506** | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Roleplay |
-| **507** | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Roleplay |
-| **508** | The Ash-Tower (Sovereign Base) | AC 165, 129 AC (15:15) | Skill Check / Combat |
-| **509** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Skill Check / Combat |
-| **510** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **511** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **512** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **513** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **514** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **515** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **516** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **517** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 DR (15:15) | Roleplay |
-| **518** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
-| **519** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Skill Check / Combat |
-| **520** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (18:15) | Skill Check / Combat |
-| **521** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (18:30) | Skill Check / Combat |
-| **522** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (18:30) | Roleplay |
-| **523** | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (20:30) | Skill Check / Combat |
-| **524** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Skill Check / Combat |
-| **525** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Skill Check / Combat |
-| **526** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
-| **527** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
-| **528** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
-| **529** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
-| **530** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Skill Check / Combat |
-| **531** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
-| **532** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Skill Check / Combat |
-| **533** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
-| **534** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 DR (21:30) | Roleplay |
-| **535** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
-| **536** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
-| **537** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
-| **538** | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
-| **539** | Red Keep (Small Council Chamber) | AC 165, 130 AC (22:00) | Skill Check / Combat |
-| **540** | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
-| **541** | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
-| **542** | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
-| **543** | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
-| **544** | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
-| **545** | King's Landing (The Maester's Workshop) | AC 165, 130 AC (22:00) | Skill Check / Combat |
-| **546** | The Smoking Sea (Ruins of Valyria) | AC 290, 130 AC (15:00) | Roleplay |
-| **547** | The Smoking Sea (Ruins of Old Valyria) | AC 165, 130 AC (23:45) | Skill Check / Combat |
-| **548** | The Smoking Sea (Ruins of Old Valyria) | AC 165, 130 AC (23:45) | Roleplay |
-| **549** | The Smoking Sea (Ruins of Old Valyria) | AC 165, 130 AC (23:45) | Roleplay |
-| **550** | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Skill Check / Combat |
-| **551** | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
-| **552** | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
-| **553** | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
-| **554** | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
-| **555** | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Skill Check / Combat |
-| **556** | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
-| **557** | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
-| **558** | King's Landing (The Red Keep) | AC 166, 130 DR (10:45) | Roleplay |
-| **559** | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
-| **560** | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
-| **561** | King's Landing (The Red Keep) | AC 284, 130 AC (19:00) | Skill Check / Combat |
-| **562** | King's Landing (The Red Keep) | AC 284, 130 AC (19:00) | Skill Check / Combat |
-| **563** | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Skill Check / Combat |
-| **564** | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Skill Check / Combat |
-| **565** | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Skill Check / Combat |
-| **566** | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Roleplay |
-| **567** | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Roleplay |
-| **568** | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Roleplay |
-| **569** | Tyria (The Grand Palace) | AC 300, 133 AC (12:00) | Skill Check / Combat |
-| **570** | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Skill Check / Combat |
-| **571** | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Roleplay |
-| **572** | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Skill Check / Combat |
-| **573** | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Roleplay |
-| **574** | Tyria (The Grand Palace) | AC 300, 133 AC (18:00) | Skill Check / Combat |
-| **575** | Valyria (The Ash-Tower) | AC 300, 133 AC (18:00) | Skill Check / Combat |
-| **576** | Tyria (The Grand Palace) | AC 300, 133 AC (19:00) | Skill Check / Combat |
-| **577** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **578** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Roleplay |
-| **579** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **580** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **581** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **582** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **583** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **584** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **585** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Roleplay |
-| **586** | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
-| **587** | Tyria (The Grand Palace) | AC 300, 133 AC (20:15) | Skill Check / Combat |
-| **588** | Tyria (The Grand Palace) | AC 300, 133 AC (20:15) | Roleplay |
-| **589** | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Skill Check / Combat |
-| **590** | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Skill Check / Combat |
-| **591** | Tyria (The Grand Palace) | AC 300, 143 AC (10:00) | Skill Check / Combat |
-| **592** | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Skill Check / Combat |
-| **593** | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Roleplay |
-| **594** | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:30) | Skill Check / Combat |
-| **595** | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:35) | Skill Check / Combat |
-| **596** | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:40) | Skill Check / Combat |
-| **597** | The Nightfort | AC 300, 143 AC (19:00) | Skill Check / Combat |
-| **598** | The Nightfort | AC 300, 143 AC (19:10) | Skill Check / Combat |
-| **599** | The Nightfort | AC 300, 143 AC (19:20) | Skill Check / Combat |
-| **600** | The Nightfort | AC 300, 143 AC (20:00) | Skill Check / Combat |
-| **601** | The Nightfort | AC 300, 143 AC (20:05) | Skill Check / Combat |
-| **602** | The Nightfort | AC 300, 143 AC (20:05) | Roleplay |
-| **603** | The Nightfort | AC 300, 143 AC (20:05) | Roleplay |
-| **604** | Tyria (The Imperial Palace) | AC 300, 143 AC (20:10) | Skill Check / Combat |
-| **605** | Tyria (The Imperial Palace) | AC 301, 143 AC (04:10) | Skill Check / Combat |
-| **606** | Tyria (The Imperial Palace) | AC 301, 143 AC (04:10) | Skill Check / Combat |
-| **607** | Tyria (The Imperial Palace) | AC 301, 153 AC (12:10) | Skill Check / Combat |
-| **608** | Tyria (The Imperial Palace) | AC 301, 153 AC (12:10) | Roleplay |
-| **609** | Tyria (The Imperial Palace) | AC 301, 153 AC (12:10) | Roleplay |
-| **610** | Tyria (The Imperial Palace) | AC 301, 153 AC (20:00) | Skill Check / Combat |
-| **611** | Tyria (The Imperial Palace) | AC 301, 153 AC (21:00) | Skill Check / Combat |
-| **612** | Tyria (The Imperial Palace) | AC 301, 153 AC (22:00) | Skill Check / Combat |
-| **613** | Tyria (The Imperial Palace) | AC 301, 153 AC (23:00) | Skill Check / Combat |
-| **614** | Tyria (The Imperial Palace) | AC 301, 153 AC (23:00) | Skill Check / Combat |
-| **615** | Tyria (The Imperial Spire) | AC 301, 153 AC (23:00) | Skill Check / Combat |
-| **616** | Tyria (The Imperial Spire) | AC 301, 153 AC (23:30) | Skill Check / Combat |
-| **617** | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:30) | Skill Check / Combat |
-| **618** | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Skill Check / Combat |
-| **619** | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Skill Check / Combat |
-| **620** | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Roleplay |
-| **621** | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Roleplay |
-| **622** | Tyria (The Imperial Spire - Private Gallery) | AC 302, 153 AC (01:00) | Roleplay |
-| **623** | Tyria (The Imperial Spire - Private Gallery) | AC 302, 153 AC (01:00) | Roleplay |
-| **624** | Tyria (The Imperial Spire - Private Gallery) | AC 302, 153 DR (01:00) | Roleplay |
-| **625** | Tyria (The Imperial Training Grounds) | AC 302, 153 AC (09:00) | Skill Check / Combat |
-| **626** | Tyria (The Imperial Training Grounds) | AC 302, 153 AC (09:15) | Skill Check / Combat |
-| **627** | Tyria (The Imperial Training Grounds) | AC 302, 153 AC (09:45) | Skill Check / Combat |
-| **628** | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Skill Check / Combat |
-| **629** | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Roleplay |
-| **630** | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Roleplay |
-| **631** | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Roleplay |
-| **632** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:30) | Skill Check / Combat |
-| **633** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:35) | Skill Check / Combat |
-| **634** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:45) | Skill Check / Combat |
-| **635** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:45) | Skill Check / Combat |
-| **636** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:45) | Roleplay |
-| **637** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Skill Check / Combat |
-| **638** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
-| **639** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
-| **640** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
-| **641** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
-| **642** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Skill Check / Combat |
-| **643** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (19:00) | Skill Check / Combat |
-| **644** | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (19:15) | Skill Check / Combat |
-| **645** | Tyria (The Imperial Spire - High Sanctum) | AC 304, 158 AC (19:15) | Skill Check / Combat |
-| **646** | Tyria (The Imperial Spire - High Sanctum) | AC 304, 158 AC (19:15) | Roleplay |
-| **647** | Tyria (The Imperial Spire - High Sanctum) | AC 304, 158 AC (19:15) | Roleplay |
-| **648** | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Skill Check / Combat |
-| **649** | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
-| **650** | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
-| **651** | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
-| **652** | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
-| **653** | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Dragonstone | AC 15, 129 AC (10:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Dragonstone (Chamber of the Painted Table) | AC 15, 129 AC (10:30) | Skill Check / Combat |
+| [**Scene 14**](#scene-14) | Dragonstone (Chamber of the Painted Table) |  | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | Dragonstone (Lower Training Yard) |  | Skill Check / Combat |
+| [**Scene 16**](#scene-16) | Dragonstone (Dragonmont Cliffs) |  | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | Dragonstone (The High Courtyard) |  | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | Dragonstone (The High Courtyard) |  | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | Dragonstone (The High Courtyard) |  | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | Dragonstone (The High Courtyard) | AC 36, 129 DR (09:20) | Roleplay |
+| [**Scene 21**](#scene-21) | Dragonstone (The High Courtyard) | AC 36, 129 AC (09:20) | Roleplay |
+| [**Scene 22**](#scene-22) | Dragonstone (The High Courtyard) | AC 36, 129 AC (09:20) | Roleplay |
+| [**Scene 23**](#scene-23) | Dragonstone (The High Courtyard) | AC 36, 129 AC (09:20) | Roleplay |
+| [**Scene 24**](#scene-24) | Dragonstone (Sea Dragon Tower Ramparts) |  | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | Skies over the Crownlands (Near Rook's Rest) |  | Skill Check / Combat |
+| [**Scene 26**](#scene-26) | Skies over the Crownlands (Near Rook's Rest) | AC 36, 129 AC (12:10) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | Skies over the Crownlands (Near Rook's Rest) | AC 36, 129 AC (12:10) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Skies over the Crownlands (The Whispers Coastal Fog) | AC 36, 129 AC (12:15) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Skies over the Crownlands (The Whispers Coastal Fog) | AC 36, 129 AC (12:15) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | Skies over the Gullet (Returning to Fleet) | AC 36, 129 AC (12:20) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | Skies over the Crownlands (Mainland Coastline) | AC 36, 129 AC (12:35) | Skill Check / Combat |
+| [**Scene 32**](#scene-32) | Skies over the Gullet (Returning to Fleet) |  | Skill Check / Combat |
+| [**Scene 33**](#scene-33) | Skies over the Gullet (Returning to Fleet) | AC 36, 129 AC (12:50) | Roleplay |
+| [**Scene 34**](#scene-34) | Dragonstone (Sea Dragon Tower) | AC 36, 129 AC (13:40) | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | Dragonstone (The Painted Table) |  | Skill Check / Combat |
+| [**Scene 36**](#scene-36) | Dragonstone (The Painted Table) | AC 36, 129 AC (14:20) | Skill Check / Combat |
+| [**Scene 37**](#scene-37) | Dragonstone (The Painted Table) | AC 36, 129 AC (14:20) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | Dragonstone (The Painted Table) |  | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | Dragonstone (Sea Dragon Tower) |  | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | Dragonstone (The Painted Table) | AC 37, 129 AC (08:30) | Skill Check / Combat |
+| [**Scene 41**](#scene-41) | Dragonstone (The Painted Table) | AC 37, 129 AC (08:30) | Skill Check / Combat |
+| [**Scene 42**](#scene-42) | Dragonstone (The Painted Table) | AC 37, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 43**](#scene-43) | Dragonstone (The Painted Table) | AC 37, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | Dragonstone (The Painted Table) |  | Skill Check / Combat |
+| [**Scene 45**](#scene-45) | Dragonstone (The Painted Table) | AC 37, 129 AC (09:15) | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | Rook's Rest (Green Siege Perimeter) |  | Skill Check / Combat |
+| [**Scene 47**](#scene-47) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (21:30) | Skill Check / Combat |
+| [**Scene 48**](#scene-48) | Rook's Rest (Green Siege Perimeter) |  | Social Challenge |
+| [**Scene 49**](#scene-49) | Rook's Rest (Green Siege Perimeter) |  | Roleplay |
+| [**Scene 50**](#scene-50) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (22:15) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:00) | Skill Check / Combat |
+| [**Scene 52**](#scene-52) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:15) | Skill Check / Combat |
+| [**Scene 53**](#scene-53) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:15) | Skill Check / Combat |
+| [**Scene 54**](#scene-54) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:15) | Skill Check / Combat |
+| [**Scene 55**](#scene-55) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:30) | Skill Check / Combat |
+| [**Scene 56**](#scene-56) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:35) | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:35) | Skill Check / Combat |
+| [**Scene 58**](#scene-58) | Rook's Rest (Green Siege Perimeter) | AC 37, 129 AC (23:50) | Skill Check / Combat |
+| [**Scene 59**](#scene-59) | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 60**](#scene-60) | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 61**](#scene-61) | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 62**](#scene-62) | Rook's Rest (Green Siege Perimeter - Perimeter Edge) | AC 37, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 63**](#scene-63) | The Whispers (Extraction Point) | AC 38, 129 AC (00:00) | Skill Check / Combat |
+| [**Scene 64**](#scene-64) | The Whispers (Skies above) | AC 38, 129 AC (00:20) | Skill Check / Combat |
+| [**Scene 65**](#scene-65) | The Whispers (Skies above) | AC 38, 129 AC (00:20) | Skill Check / Combat |
+| [**Scene 66**](#scene-66) | The Whispers (Skies above) | AC 38, 129 AC (00:20) | Roleplay |
+| [**Scene 67**](#scene-67) | The Whispers (Skies above) | AC 38, 129 AC (00:30) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | The Whispers (Skies above) | AC 38, 129 AC (00:35) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | The Whispers (Skies above) | AC 38, 129 AC (00:40) | Skill Check / Combat |
+| [**Scene 70**](#scene-70) | The Whispers (Skies above) | AC 38, 129 AC (00:40) | Skill Check / Combat |
+| [**Scene 71**](#scene-71) | The Whispers (Skies above) | AC 38, 129 AC (00:45) | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | The Whispers (Skies above) | AC 38, 129 AC (00:50) | Skill Check / Combat |
+| [**Scene 73**](#scene-73) | The Whispers (Skies above) | AC 38, 129 AC (00:50) | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | The Whispers (Skies above) | AC 38, 129 AC (00:51) | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | The Whispers (Skies above) | AC 38, 129 AC (00:51) | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | The Whispers (Skies above) | AC 38, 129 AC (00:52) | Skill Check / Combat |
+| [**Scene 77**](#scene-77) | The Whispers (Skies above) | AC 38, 129 AC (00:52) | Skill Check / Combat |
+| [**Scene 78**](#scene-78) | The Whispers (Skies above) | AC 38, 129 AC (00:52) | Skill Check / Combat |
+| [**Scene 79**](#scene-79) | The Whispers (Skies above) | AC 38, 129 AC (00:54) | Skill Check / Combat |
+| [**Scene 80**](#scene-80) | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Skill Check / Combat |
+| [**Scene 81**](#scene-81) | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Skill Check / Combat |
+| [**Scene 82**](#scene-82) | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Roleplay |
+| [**Scene 83**](#scene-83) | The Whispers (Skies above) | AC 38, 129 AC (00:56) | Roleplay |
+| [**Scene 84**](#scene-84) | The Whispers (Skies above) | AC 38, 129 AC (01:06) | Skill Check / Combat |
+| [**Scene 85**](#scene-85) | The Whispers (Skies above) | AC 38, 129 AC (01:15) | Skill Check / Combat |
+| [**Scene 86**](#scene-86) | The Whispers (Skies above) | AC 38, 129 AC (01:20) | Skill Check / Combat |
+| [**Scene 87**](#scene-87) | The Whispers (Skies above) | AC 38, 129 AC (01:25) | Skill Check / Combat |
+| [**Scene 88**](#scene-88) | The Whispers (Skies above) | AC 38, 129 AC (01:30) | Skill Check / Combat |
+| [**Scene 89**](#scene-89) | Rook's Rest | AC 39, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Rook's Rest | AC 39, 129 AC (06:30) | Roleplay |
+| [**Scene 91**](#scene-91) | Rook's Rest | AC 39, 129 AC (06:30) | Skill Check / Combat |
+| [**Scene 92**](#scene-92) | Rook's Rest | AC 39, 129 AC (06:30) | Roleplay |
+| [**Scene 93**](#scene-93) | Rook's Rest (The Ravine) | AC 39, 129 AC (06:35) | Skill Check / Combat |
+| [**Scene 94**](#scene-94) | Rook's Rest (The Ravine) | AC 39, 129 AC (06:35) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Rook's Rest (The Ravine) | AC 42, 129 AC (06:35) | Skill Check / Combat |
+| [**Scene 96**](#scene-96) | Rook's Rest (The Shoreline) | AC 43, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Rook's Rest (The Ravine) | AC 43, 129 AC (12:00) | Skill Check / Combat |
+| [**Scene 98**](#scene-98) | Rook's Rest (The Ravine) | AC 43, 129 AC (13:00) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Rook's Rest (The Ravine) | AC 43, 129 AC (13:00) | Skill Check / Combat |
+| [**Scene 100**](#scene-100) | Rook's Rest (The Shoreline) | AC 44, 129 AC (01:00) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Rook's Rest (The Shoreline) | AC 44, 129 AC (05:00) | Skill Check / Combat |
+| [**Scene 102**](#scene-102) | Dragonstone (The Dragonmont) | AC 44, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 103**](#scene-103) | Dragonstone (The Dragonmont) | AC 44, 129 AC (10:00) | Roleplay |
+| [**Scene 104**](#scene-104) | Dragonstone (The Dragonmont) | AC 44, 129 AC (10:00) | Social Challenge |
+| [**Scene 105**](#scene-105) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:30) | Skill Check / Combat |
+| [**Scene 106**](#scene-106) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:30) | Roleplay |
+| [**Scene 107**](#scene-107) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:30) | Roleplay |
+| [**Scene 108**](#scene-108) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Skill Check / Combat |
+| [**Scene 109**](#scene-109) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Roleplay |
+| [**Scene 111**](#scene-111) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:40) | Roleplay |
+| [**Scene 112**](#scene-112) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (11:50) | Skill Check / Combat |
+| [**Scene 113**](#scene-113) | Dragonstone (The Chamber of the Painted Table) | AC 44, 129 AC (12:00) | Skill Check / Combat |
+| [**Scene 114**](#scene-114) | Dragonstone (The Dragonmont Peak) | AC 52, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 115**](#scene-115) | Dragonstone (The Dragonmont Peak) | AC 52, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | Castle Stokeworth (The Crownlands) | AC 52, 129 AC (07:15) | Skill Check / Combat |
+| [**Scene 117**](#scene-117) | Castle Stokeworth (The Crownlands) | AC 52, 129 AC (07:15) | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | Skies above Castle Hayford | AC 52, 129 AC (07:30) | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | Skies above Castle Hayford | AC 52, 129 AC (07:30) | Skill Check / Combat |
+| [**Scene 120**](#scene-120) | Skies above Castle Hayford | AC 52, 129 AC (07:35) | Skill Check / Combat |
+| [**Scene 121**](#scene-121) | Castle Hayford (The Crownlands) | AC 52, 129 AC (07:50) | Skill Check / Combat |
+| [**Scene 122**](#scene-122) | Castle Hayford (The Crownlands) | AC 52, 129 AC (08:00) | Skill Check / Combat |
+| [**Scene 123**](#scene-123) | Castle Hayford (The Crownlands) | AC 52, 129 AC (08:00) | Roleplay |
+| [**Scene 124**](#scene-124) | Rosby Woods (Green Supply Depot) | AC 52, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 125**](#scene-125) | Rosby Woods (Green Supply Depot) | AC 52, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 126**](#scene-126) | Rosby Woods (Green Supply Depot) | AC 52, 129 AC (09:15) | Skill Check / Combat |
+| [**Scene 127**](#scene-127) | Rosby Woods (Western Ravine Border) | AC 52, 129 AC (09:30) | Skill Check / Combat |
+| [**Scene 128**](#scene-128) | Rosby Woods (Western Ravine Border) | AC 52, 129 AC (09:45) | Skill Check / Combat |
+| [**Scene 129**](#scene-129) | Rosby Woods (Western Ravine Border) | AC 52, 129 AC (09:46) | Skill Check / Combat |
+| [**Scene 130**](#scene-130) | Rosby Woods (Western Ravine) | AC 52, 129 AC (10:01) | Skill Check / Combat |
+| [**Scene 131**](#scene-131) | Rosby Woods (Western Ravine) | AC 52, 129 AC (10:01) | Roleplay |
+| [**Scene 132**](#scene-132) | Rosby Woods (Western Ravine) | AC 52, 129 AC (10:01) | Roleplay |
+| [**Scene 133**](#scene-133) | Castle Hayford | AC 52, 129 AC (16:00) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Castle Hayford | AC 52, 129 DR (16:00) | Roleplay |
+| [**Scene 135**](#scene-135) | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Skill Check / Combat |
+| [**Scene 136**](#scene-136) | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
+| [**Scene 137**](#scene-137) | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
+| [**Scene 138**](#scene-138) | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
+| [**Scene 139**](#scene-139) | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
+| [**Scene 140**](#scene-140) | Castle Hayford (Great Hall) | AC 52, 129 AC (16:15) | Roleplay |
+| [**Scene 141**](#scene-141) | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:30) | Skill Check / Combat |
+| [**Scene 142**](#scene-142) | Castle Hayford (Queen's Solar) | AC 52, 129 DR (16:30) | Roleplay |
+| [**Scene 143**](#scene-143) | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:45) | Skill Check / Combat |
+| [**Scene 144**](#scene-144) | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:45) | Roleplay |
+| [**Scene 145**](#scene-145) | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:50) | Roleplay |
+| [**Scene 146**](#scene-146) | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:50) | Social Challenge |
+| [**Scene 147**](#scene-147) | Castle Hayford (Queen's Solar) | AC 52, 129 AC (16:50) | Skill Check / Combat |
+| [**Scene 148**](#scene-148) | Dragonstone (The Painted Table / Dungeons) | AC 55, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 149**](#scene-149) | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 150**](#scene-150) | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:05) | Skill Check / Combat |
+| [**Scene 151**](#scene-151) | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:05) | Roleplay |
+| [**Scene 152**](#scene-152) | Dragonstone (Dungeons - Aemond's Cell) | AC 55, 129 AC (10:05) | Roleplay |
+| [**Scene 153**](#scene-153) | Dragonstone (The Painted Table) | AC 60, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 154**](#scene-154) | Dragonstone (The Painted Table) | AC 64, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 155**](#scene-155) | Dragonstone (The Painted Table) | AC 64, 129 AC (10:10) | Skill Check / Combat |
+| [**Scene 156**](#scene-156) | Dragonstone (The Painted Table) | AC 64, 129 DR (10:10) | Roleplay |
+| [**Scene 157**](#scene-157) | Dragonstone (The Painted Table) | AC 64, 129 AC (10:15) | Skill Check / Combat |
+| [**Scene 158**](#scene-158) | Dragonstone (The Painted Table) | AC 64, 129 AC (10:20) | Skill Check / Combat |
+| [**Scene 159**](#scene-159) | Dragonstone (The Painted Table) | AC 64, 129 AC (10:25) | Skill Check / Combat |
+| [**Scene 160**](#scene-160) | Above the Crownlands | AC 64, 129 AC (14:25) | Skill Check / Combat |
+| [**Scene 161**](#scene-161) | Above the Crownlands | AC 64, 129 AC (14:25) | Skill Check / Combat |
+| [**Scene 162**](#scene-162) | Dragonstone (Council Chamber) | AC 64, 129 AC (18:25) | Skill Check / Combat |
+| [**Scene 163**](#scene-163) | Dragonstone (Council Chamber) | AC 64, 129 AC (18:25) | Roleplay |
+| [**Scene 164**](#scene-164) | Dragonstone (Council Chamber) | AC 64, 129 AC (18:40) | Skill Check / Combat |
+| [**Scene 165**](#scene-165) | Castle Rosby (Great Hall) | AC 65, 129 AC (19:00) | Skill Check / Combat |
+| [**Scene 166**](#scene-166) | Castle Rosby (Great Hall) | AC 65, 129 AC (19:00) | Roleplay |
+| [**Scene 167**](#scene-167) | Castle Rosby (Great Hall) | AC 65, 129 AC (19:00) | Social Challenge |
+| [**Scene 168**](#scene-168) | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 169**](#scene-169) | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Roleplay |
+| [**Scene 170**](#scene-170) | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Roleplay |
+| [**Scene 171**](#scene-171) | Castle Rosby (Solar) | AC 79, 129 DR (10:00) | Roleplay |
+| [**Scene 172**](#scene-172) | Castle Rosby (Solar) | AC 79, 129 AC (10:00) | Roleplay |
+| [**Scene 173**](#scene-173) | Castle Rosby (Great Hall) | AC 79, 129 AC (11:15) | Skill Check / Combat |
+| [**Scene 174**](#scene-174) | Castle Rosby (Great Hall) | AC 79, 129 AC (11:15) | Roleplay |
+| [**Scene 175**](#scene-175) | Castle Rosby (Great Hall) | AC 79, 129 AC (11:15) | Roleplay |
+| [**Scene 176**](#scene-176) | Castle Rosby (Great Hall) | AC 79, 129 AC (11:30) | Skill Check / Combat |
+| [**Scene 177**](#scene-177) | Castle Rosby (Great Hall) | AC 79, 129 AC (11:45) | Skill Check / Combat |
+| [**Scene 178**](#scene-178) | Castle Rosby (Great Hall) | AC 79, 129 AC (11:45) | Roleplay |
+| [**Scene 179**](#scene-179) | Castle Rosby (Great Hall) | AC 79, 129 DR (11:45) | Roleplay |
+| [**Scene 180**](#scene-180) | Castle Rosby (Great Hall) | AC 79, 129 DR (11:45) | Roleplay |
+| [**Scene 181**](#scene-181) | Border of the Reach (The Goldroad) | AC 80, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 182**](#scene-182) | Border of the Reach (The Goldroad) | AC 80, 129 AC (06:00) | Roleplay |
+| [**Scene 183**](#scene-183) | Border of the Reach (The Goldroad) | AC 80, 129 AC (07:15) | Skill Check / Combat |
+| [**Scene 184**](#scene-184) | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:00) | Skill Check / Combat |
+| [**Scene 185**](#scene-185) | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Skill Check / Combat |
+| [**Scene 186**](#scene-186) | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Roleplay |
+| [**Scene 187**](#scene-187) | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Social Challenge |
+| [**Scene 188**](#scene-188) | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:05) | Social Challenge |
+| [**Scene 189**](#scene-189) | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:15) | Social Challenge |
+| [**Scene 190**](#scene-190) | The Mander (Overlooking Bitterbridge) | AC 83, 129 AC (08:30) | Skill Check / Combat |
+| [**Scene 191**](#scene-191) | Bitterbridge | AC 83, 129 AC (08:45) | Skill Check / Combat |
+| [**Scene 192**](#scene-192) | Bitterbridge | AC 83, 129 AC (09:15) | Skill Check / Combat |
+| [**Scene 193**](#scene-193) | Bitterbridge | AC 83, 129 AC (09:30) | Skill Check / Combat |
+| [**Scene 194**](#scene-194) | Bitterbridge | AC 83, 129 AC (09:45) | Skill Check / Combat |
+| [**Scene 195**](#scene-195) | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 196**](#scene-196) | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 197**](#scene-197) | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 198**](#scene-198) | Bitterbridge | AC 83, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 199**](#scene-199) | Bitterbridge | AC 83, 129 AC (10:00) | Roleplay |
+| [**Scene 200**](#scene-200) | Bitterbridge | AC 83, 129 AC (14:00) | Skill Check / Combat |
+| [**Scene 201**](#scene-201) | Bitterbridge | AC 83, 129 AC (14:15) | Skill Check / Combat |
+| [**Scene 202**](#scene-202) | Bitterbridge | AC 83, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 203**](#scene-203) | Tumbleton (Approach) | AC 83, 129 AC (20:00) | Skill Check / Combat |
+| [**Scene 204**](#scene-204) | Tumbleton (Approach) | AC 83, 129 AC (20:00) | Skill Check / Combat |
+| [**Scene 205**](#scene-205) | Tumbleton | AC 83, 129 AC (20:15) | Skill Check / Combat |
+| [**Scene 206**](#scene-206) | Tumbleton | AC 83, 129 AC (20:15) | Roleplay |
+| [**Scene 207**](#scene-207) | Tumbleton | AC 83, 129 AC (20:15) | Roleplay |
+| [**Scene 208**](#scene-208) | Tumbleton | AC 83, 129 AC (20:15) | Roleplay |
+| [**Scene 209**](#scene-209) | Tumbleton | AC 83, 129 AC (20:45) | Skill Check / Combat |
+| [**Scene 210**](#scene-210) | Tumbleton / Cockleshent Crossing | AC 83, 129 AC (22:00) | Skill Check / Combat |
+| [**Scene 211**](#scene-211) | Cockleshent Crossing | AC 83, 129 AC (22:15) | Skill Check / Combat |
+| [**Scene 212**](#scene-212) | Cockleshent Crossing | AC 83, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 213**](#scene-213) | Cockleshent Crossing | AC 83, 129 AC (22:45) | Skill Check / Combat |
+| [**Scene 214**](#scene-214) | Cockleshent Crossing | AC 83, 129 AC (22:45) | Skill Check / Combat |
+| [**Scene 215**](#scene-215) | Bitterbridge | AC 87, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 216**](#scene-216) | Highgarden | AC 97, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 217**](#scene-217) | Highgarden | AC 97, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 218**](#scene-218) | Highgarden | AC 97, 129 AC (10:05) | Skill Check / Combat |
+| [**Scene 219**](#scene-219) | Highgarden | AC 97, 129 AC (10:20) | Skill Check / Combat |
+| [**Scene 220**](#scene-220) | Highgarden | AC 97, 129 AC (12:20) | Skill Check / Combat |
+| [**Scene 221**](#scene-221) | Highgarden | AC 97, 129 AC (12:20) | Roleplay |
+| [**Scene 222**](#scene-222) | Highgarden | AC 97, 129 AC (12:20) | Roleplay |
+| [**Scene 223**](#scene-223) | Highgarden | AC 97, 129 AC (12:20) | Roleplay |
+| [**Scene 224**](#scene-224) | Mander River (North of Highgarden) | AC 97, 129 AC (16:20) | Skill Check / Combat |
+| [**Scene 225**](#scene-225) | Mander River (North of Highgarden) | AC 97, 129 AC (16:35) | Skill Check / Combat |
+| [**Scene 226**](#scene-226) | Mander River (Heading North) | AC 97, 129 AC (17:00) | Skill Check / Combat |
+| [**Scene 227**](#scene-227) | Highgarden | AC 98, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 228**](#scene-228) | Highgarden | AC 105, 129 AC (12:00) | Skill Check / Combat |
+| [**Scene 229**](#scene-229) | Highgarden | AC 105, 129 AC (15:30) | Skill Check / Combat |
+| [**Scene 230**](#scene-230) | Highgarden | AC 105, 129 AC (15:35) | Skill Check / Combat |
+| [**Scene 231**](#scene-231) | Highgarden | AC 105, 129 AC (18:00) | Skill Check / Combat |
+| [**Scene 232**](#scene-232) | Highgarden | AC 105, 129 AC (21:00) | Skill Check / Combat |
+| [**Scene 233**](#scene-233) | Highgarden | AC 105, 129 AC (21:30) | Skill Check / Combat |
+| [**Scene 234**](#scene-234) | Highgarden | AC 105, 129 AC (21:45) | Skill Check / Combat |
+| [**Scene 235**](#scene-235) | Highgarden | AC 105, 129 AC (22:00) | Skill Check / Combat |
+| [**Scene 236**](#scene-236) | Highgarden | AC 105, 129 AC (22:15) | Skill Check / Combat |
+| [**Scene 237**](#scene-237) | Highgarden | AC 105, 129 AC (22:15) | Roleplay |
+| [**Scene 238**](#scene-238) | Highgarden | AC 105, 129 AC (22:15) | Skill Check / Combat |
+| [**Scene 239**](#scene-239) | The Mander | AC 106, 129 AC (06:00) | Skill Check / Combat |
+| [**Scene 240**](#scene-240) | The Stepstones | AC 106, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 241**](#scene-241) | The Stepstones | AC 106, 129 AC (10:00) | Roleplay |
+| [**Scene 242**](#scene-242) | Aboard the Sea Snake | AC 106, 129 AC (11:30) | Skill Check / Combat |
+| [**Scene 243**](#scene-243) | Bloodstone | AC 106, 129 AC (19:30) | Skill Check / Combat |
+| [**Scene 244**](#scene-244) | Bloodstone | AC 106, 129 AC (19:30) | Roleplay |
+| [**Scene 245**](#scene-245) | Bloodstone | AC 106, 129 AC (19:30) | Roleplay |
+| [**Scene 246**](#scene-246) | Bloodstone | AC 106, 129 AC (20:00) | Skill Check / Combat |
+| [**Scene 247**](#scene-247) | Bloodstone | AC 106, 129 AC (20:20) | Skill Check / Combat |
+| [**Scene 248**](#scene-248) | Bloodstone | AC 106, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 249**](#scene-249) | Bloodstone | AC 107, 129 AC (10:30) | Skill Check / Combat |
+| [**Scene 250**](#scene-250) | Bloodstone | AC 107, 129 AC (10:30) | Skill Check / Combat |
+| [**Scene 251**](#scene-251) | The Gullet | AC 107, 129 AC (11:30) | Skill Check / Combat |
+| [**Scene 252**](#scene-252) | The Gullet | AC 107, 129 AC (11:30) | Skill Check / Combat |
+| [**Scene 253**](#scene-253) | The Gullet | AC 107, 129 AC (11:30) | Roleplay |
+| [**Scene 254**](#scene-254) | The Gullet | AC 107, 129 AC (11:31) | Skill Check / Combat |
+| [**Scene 255**](#scene-255) | The Gullet | AC 107, 129 AC (11:35) | Skill Check / Combat |
+| [**Scene 256**](#scene-256) | The Gullet | AC 107, 129 AC (11:40) | Skill Check / Combat |
+| [**Scene 257**](#scene-257) | Bloodstone | AC 107, 129 AC (12:10) | Skill Check / Combat |
+| [**Scene 258**](#scene-258) | Bloodstone | AC 107, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 259**](#scene-259) | Bloodstone | AC 107, 129 AC (14:30) | Roleplay |
+| [**Scene 260**](#scene-260) | Bloodstone | AC 107, 129 AC (14:30) | Roleplay |
+| [**Scene 261**](#scene-261) | Bloodstone | AC 107, 129 AC (14:30) | Roleplay |
+| [**Scene 262**](#scene-262) | King's Landing | AC 107, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 263**](#scene-263) | King's Landing | AC 107, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 264**](#scene-264) | King's Landing | AC 107, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 265**](#scene-265) | King's Landing (Mud Gate) | AC 107, 129 AC (14:45) | Skill Check / Combat |
+| [**Scene 266**](#scene-266) | King's Landing (Mud Gate) | AC 107, 129 AC (14:50) | Skill Check / Combat |
+| [**Scene 267**](#scene-267) | King's Landing (Mud Gate) | AC 107, 129 AC (14:55) | Skill Check / Combat |
+| [**Scene 268**](#scene-268) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:25) | Skill Check / Combat |
+| [**Scene 269**](#scene-269) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:35) | Skill Check / Combat |
+| [**Scene 270**](#scene-270) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:35) | Skill Check / Combat |
+| [**Scene 271**](#scene-271) | White Sword Tower | AC 107, 129 AC (15:45) | Skill Check / Combat |
+| [**Scene 272**](#scene-272) | White Sword Tower | AC 107, 129 AC (15:45) | Skill Check / Combat |
+| [**Scene 273**](#scene-273) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (15:50) | Skill Check / Combat |
+| [**Scene 274**](#scene-274) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (16:05) | Skill Check / Combat |
+| [**Scene 275**](#scene-275) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (16:45) | Skill Check / Combat |
+| [**Scene 276**](#scene-276) | King's Landing Docks | AC 107, 129 AC (17:00) | Skill Check / Combat |
+| [**Scene 277**](#scene-277) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:15) | Skill Check / Combat |
+| [**Scene 278**](#scene-278) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:30) | Skill Check / Combat |
+| [**Scene 279**](#scene-279) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:30) | Roleplay |
+| [**Scene 280**](#scene-280) | King's Landing (Red Keep Courtyard) | AC 107, 129 AC (17:30) | Roleplay |
+| [**Scene 281**](#scene-281) | The Iron Throne Room | AC 107, 129 AC (18:30) | Skill Check / Combat |
+| [**Scene 282**](#scene-282) | The Iron Throne Room | AC 107, 129 AC (18:45) | Skill Check / Combat |
+| [**Scene 283**](#scene-283) | The Iron Throne Room | AC 107, 129 AC (18:50) | Skill Check / Combat |
+| [**Scene 284**](#scene-284) | The Iron Throne Room | AC 107, 129 AC (18:50) | Social Challenge |
+| [**Scene 285**](#scene-285) | The Iron Throne Room | AC 107, 129 AC (18:55) | Skill Check / Combat |
+| [**Scene 286**](#scene-286) | The Iron Throne Room | AC 107, 129 AC (19:10) | Skill Check / Combat |
+| [**Scene 287**](#scene-287) | The Iron Throne Room | AC 107, 129 AC (19:10) | Skill Check / Combat |
+| [**Scene 288**](#scene-288) | The Great Hall of the Red Keep | AC 107, 129 AC (20:00) | Skill Check / Combat |
+| [**Scene 289**](#scene-289) | The Great Hall of the Red Keep | AC 107, 129 DR (20:00) | Roleplay |
+| [**Scene 290**](#scene-290) | The Great Hall of the Red Keep | AC 107, 129 AC (20:00) | Roleplay |
+| [**Scene 291**](#scene-291) | The Great Hall of the Red Keep | AC 107, 129 AC (20:00) | Roleplay |
+| [**Scene 292**](#scene-292) | The Great Hall of the Red Keep | AC 107, 129 AC (20:15) | Skill Check / Combat |
+| [**Scene 293**](#scene-293) | The Great Hall of the Red Keep | AC 107, 129 AC (20:20) | Skill Check / Combat |
+| [**Scene 294**](#scene-294) | The Great Hall of the Red Keep | AC 107, 129 AC (20:30) | Skill Check / Combat |
+| [**Scene 295**](#scene-295) | The Great Hall of the Red Keep | AC 107, 129 AC (20:30) | Roleplay |
+| [**Scene 296**](#scene-296) | Service Tunnels | AC 107, 129 AC (20:35) | Skill Check / Combat |
+| [**Scene 297**](#scene-297) | Service Tunnels | AC 107, 129 AC (20:35) | Roleplay |
+| [**Scene 298**](#scene-298) | Service Tunnels | AC 107, 129 AC (20:45) | Skill Check / Combat |
+| [**Scene 299**](#scene-299) | Service Tunnels | AC 107, 129 AC (20:45) | Roleplay |
+| [**Scene 300**](#scene-300) | Service Tunnels | AC 107, 129 AC (20:45) | Roleplay |
+| [**Scene 301**](#scene-301) | Service Tunnels | AC 107, 129 DR (20:45) | Roleplay |
+| [**Scene 302**](#scene-302) | The Great Hall of the Red Keep | AC 107, 129 AC (21:00) | Skill Check / Combat |
+| [**Scene 303**](#scene-303) | The Great Hall of the Red Keep | AC 107, 129 AC (21:15) | Skill Check / Combat |
+| [**Scene 304**](#scene-304) | The Great Hall of the Red Keep | AC 107, 129 AC (21:20) | Skill Check / Combat |
+| [**Scene 305**](#scene-305) | The Great Hall of the Red Keep | AC 107, 129 AC (21:25) | Skill Check / Combat |
+| [**Scene 306**](#scene-306) | The Shadow-Keep | AC 114, 129 AC (08:00) | Skill Check / Combat |
+| [**Scene 307**](#scene-307) | The Shadow-Keep | AC 114, 129 AC (08:30) | Skill Check / Combat |
+| [**Scene 308**](#scene-308) | The Red Keep | AC 114, 129 AC (16:30) | Skill Check / Combat |
+| [**Scene 309**](#scene-309) | The Velaryon Quarters | AC 114, 129 AC (20:00) | Skill Check / Combat |
+| [**Scene 310**](#scene-310) | The Velaryon Quarters | AC 114, 129 AC (20:00) | Skill Check / Combat |
+| [**Scene 311**](#scene-311) | The Velaryon Quarters | AC 114, 129 AC (20:30) | Skill Check / Combat |
+| [**Scene 312**](#scene-312) | The Velaryon Quarters | AC 114, 129 AC (20:35) | Skill Check / Combat |
+| [**Scene 313**](#scene-313) | The Velaryon Quarters | AC 114, 129 AC (20:40) | Skill Check / Combat |
+| [**Scene 314**](#scene-314) | The Velaryon Quarters | AC 114, 129 AC (21:00) | Skill Check / Combat |
+| [**Scene 315**](#scene-315) | The Velaryon Quarters | AC 114, 129 AC (21:00) | Roleplay |
+| [**Scene 316**](#scene-316) | The Velaryon Quarters | AC 114, 129 AC (21:15) | Skill Check / Combat |
+| [**Scene 317**](#scene-317) | The Velaryon Quarters | AC 114, 129 AC (21:20) | Skill Check / Combat |
+| [**Scene 318**](#scene-318) | The Velaryon Quarters | AC 114, 129 AC (21:25) | Skill Check / Combat |
+| [**Scene 319**](#scene-319) | The Velaryon Quarters | AC 114, 129 AC (21:25) | Skill Check / Combat |
+| [**Scene 320**](#scene-320) | The Velaryon Quarters | AC 114, 129 DR (21:25) | Roleplay |
+| [**Scene 321**](#scene-321) | The Velaryon Quarters | AC 114, 129 AC (21:30) | Skill Check / Combat |
+| [**Scene 322**](#scene-322) | The Velaryon Quarters | AC 114, 129 AC (21:40) | Skill Check / Combat |
+| [**Scene 323**](#scene-323) | The Velaryon Quarters | AC 114, 129 AC (21:40) | Roleplay |
+| [**Scene 324**](#scene-324) | The Velaryon Quarters | AC 114, 129 AC (21:45) | Skill Check / Combat |
+| [**Scene 325**](#scene-325) | The West Balcony | AC 114, 129 AC (21:55) | Skill Check / Combat |
+| [**Scene 326**](#scene-326) | The Velaryon Quarters | AC 114, 129 AC (22:15) | Skill Check / Combat |
+| [**Scene 327**](#scene-327) | The Velaryon Quarters | AC 114, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 328**](#scene-328) | The Square of the Sept of Remembrance | AC 114, 129 AC (22:50) | Skill Check / Combat |
+| [**Scene 329**](#scene-329) | The Square of the Sept of Remembrance | AC 114, 129 AC (23:00) | Skill Check / Combat |
+| [**Scene 330**](#scene-330) | The Square of the Sept of Remembrance | AC 114, 129 AC (23:15) | Skill Check / Combat |
+| [**Scene 331**](#scene-331) | The Square of the Sept of Remembrance | AC 114, 129 AC (23:30) | Skill Check / Combat |
+| [**Scene 332**](#scene-332) | The Square of the Sept of Remembrance | AC 114, 129 AC (23:35) | Skill Check / Combat |
+| [**Scene 333**](#scene-333) | The Square of the Sept of Remembrance | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 334**](#scene-334) | The Temple of the Shadow | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 335**](#scene-335) | A Hidden Cellar | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 336**](#scene-336) | The Red Keep Tunnels / King's Landing | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 337**](#scene-337) | The Red Keep Tunnels / King's Landing | AC 114, 129 AC (23:45) | Roleplay |
+| [**Scene 338**](#scene-338) | The Red Keep Tunnels / King's Landing | AC 114, 129 AC (23:45) | Roleplay |
+| [**Scene 339**](#scene-339) | The Red Keep Tunnels / City Watch Barracks | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 340**](#scene-340) | Queen's Private Chambers | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 341**](#scene-341) | Tyrosh | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 342**](#scene-342) | Tyrosh | AC 114, 129 AC (23:45) | Roleplay |
+| [**Scene 343**](#scene-343) | The Queen's Solar | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 344**](#scene-344) | The Queen's Solar | AC 114, 129 AC (23:45) | Roleplay |
+| [**Scene 345**](#scene-345) | The Queen's Solar | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 346**](#scene-346) | The Queen's Solar | AC 114, 129 AC (23:45) | Roleplay |
+| [**Scene 347**](#scene-347) | The Queen's Solar | AC 114, 129 AC (23:45) | Social Challenge |
+| [**Scene 348**](#scene-348) | The Sept of Remembrance | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 349**](#scene-349) | The Sept of Remembrance | AC 114, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 350**](#scene-350) | The Sept of Remembrance | AC 114, 129 AC (23:50) | Skill Check / Combat |
+| [**Scene 351**](#scene-351) | The Sept of Remembrance | AC 114, 129 AC (23:50) | Skill Check / Combat |
+| [**Scene 352**](#scene-352) | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 353**](#scene-353) | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 354**](#scene-354) | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 355**](#scene-355) | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 356**](#scene-356) | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 357**](#scene-357) | The Sept of Remembrance | AC 114, 129 AC (23:55) | Skill Check / Combat |
+| [**Scene 358**](#scene-358) | The Sept of Remembrance | AC 115, 129 AC (00:05) | Skill Check / Combat |
+| [**Scene 359**](#scene-359) | The Gates of the Red Keep | AC 115, 129 AC (01:00) | Skill Check / Combat |
+| [**Scene 360**](#scene-360) | The Gates of the Red Keep | AC 115, 129 AC (01:10) | Skill Check / Combat |
+| [**Scene 361**](#scene-361) | The Gates of the Red Keep | AC 115, 129 AC (01:15) | Skill Check / Combat |
+| [**Scene 362**](#scene-362) | Maegor's Holdfast | AC 115, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 363**](#scene-363) | Maegor's Holdfast | AC 115, 129 AC (14:00) | Skill Check / Combat |
+| [**Scene 364**](#scene-364) | Mud Gate Sub-levels | AC 115, 129 AC (14:00) | Skill Check / Combat |
+| [**Scene 365**](#scene-365) | Mud Gate Sub-levels | AC 115, 129 AC (16:45) | Skill Check / Combat |
+| [**Scene 366**](#scene-366) | Abandoned Tannery Safehouse | AC 115, 129 AC (17:15) | Skill Check / Combat |
+| [**Scene 367**](#scene-367) | Blackwater Bay | AC 115, 129 AC (17:45) | Skill Check / Combat |
+| [**Scene 368**](#scene-368) | Blackwater Bay | AC 115, 129 AC (17:45) | Roleplay |
+| [**Scene 369**](#scene-369) | Blackwater Bay | AC 115, 129 AC (17:45) | Roleplay |
+| [**Scene 370**](#scene-370) | Blackwater Bay | AC 115, 129 AC (17:45) | Roleplay |
+| [**Scene 371**](#scene-371) | Mudflats of the Hook | AC 115, 129 AC (18:00) | Skill Check / Combat |
+| [**Scene 372**](#scene-372) | Mudflats of the Hook | AC 115, 129 DR (18:00) | Roleplay |
+| [**Scene 373**](#scene-373) | Mudflats of the Hook | AC 115, 129 AC (18:00) | Skill Check / Combat |
+| [**Scene 374**](#scene-374) | Mudflats of the Hook | AC 115, 129 AC (18:00) | Roleplay |
+| [**Scene 375**](#scene-375) | Abandoned Tannery Safehouse | AC 115, 129 AC (18:00) | Skill Check / Combat |
+| [**Scene 376**](#scene-376) | Abandoned Tannery Safehouse | AC 115, 129 AC (19:45) | Skill Check / Combat |
+| [**Scene 377**](#scene-377) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:00) | Skill Check / Combat |
+| [**Scene 378**](#scene-378) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:15) | Skill Check / Combat |
+| [**Scene 379**](#scene-379) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:15) | Roleplay |
+| [**Scene 380**](#scene-380) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:15) | Roleplay |
+| [**Scene 381**](#scene-381) | Abandoned Tannery Safehouse | AC 115, 129 DR (20:15) | Roleplay |
+| [**Scene 382**](#scene-382) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:20) | Skill Check / Combat |
+| [**Scene 383**](#scene-383) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:25) | Skill Check / Combat |
+| [**Scene 384**](#scene-384) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:35) | Skill Check / Combat |
+| [**Scene 385**](#scene-385) | Abandoned Tannery Safehouse | AC 115, 129 AC (20:40) | Skill Check / Combat |
+| [**Scene 386**](#scene-386) | The Red Keep | AC 115, 129 AC (22:00) | Skill Check / Combat |
+| [**Scene 387**](#scene-387) | The Red Keep | AC 115, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 388**](#scene-388) | The Red Keep | AC 115, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 389**](#scene-389) | The Red Keep | AC 115, 129 AC (22:45) | Skill Check / Combat |
+| [**Scene 390**](#scene-390) | The Red Keep | AC 115, 129 AC (23:00) | Skill Check / Combat |
+| [**Scene 391**](#scene-391) | Shadow-Cells | AC 115, 129 AC (23:15) | Skill Check / Combat |
+| [**Scene 392**](#scene-392) | Shadow-Cells | AC 115, 129 AC (23:15) | Skill Check / Combat |
+| [**Scene 393**](#scene-393) | Shadow-Cells | AC 115, 129 AC (23:30) | Skill Check / Combat |
+| [**Scene 394**](#scene-394) | The Red Keep | AC 115, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 395**](#scene-395) | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
+| [**Scene 396**](#scene-396) | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
+| [**Scene 397**](#scene-397) | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
+| [**Scene 398**](#scene-398) | The Red Keep | AC 115, 129 AC (23:45) | Roleplay |
+| [**Scene 399**](#scene-399) | Shadow-Cells | AC 115, 129 AC (23:50) | Skill Check / Combat |
+| [**Scene 400**](#scene-400) | Shadow-Cells | AC 115, 129 AC (23:50) | Skill Check / Combat |
+| [**Scene 401**](#scene-401) | Shadow-Cells | AC 116, 129 AC (00:05) | Skill Check / Combat |
+| [**Scene 402**](#scene-402) | Shadow-Cells | AC 116, 129 AC (00:05) | Roleplay |
+| [**Scene 403**](#scene-403) | The Great Hall | AC 116, 129 AC (08:05) | Skill Check / Combat |
+| [**Scene 404**](#scene-404) | The Great Hall | AC 116, 129 AC (08:15) | Skill Check / Combat |
+| [**Scene 405**](#scene-405) | The Great Hall | AC 116, 129 AC (09:00) | Skill Check / Combat |
+| [**Scene 406**](#scene-406) | The High Protector's Sanctum | AC 116, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 407**](#scene-407) | The High Protector's Sanctum | AC 116, 129 AC (14:00) | Skill Check / Combat |
+| [**Scene 408**](#scene-408) | The Roseroad | AC 116, 129 AC (14:15) | Skill Check / Combat |
+| [**Scene 409**](#scene-409) | The Roseroad | AC 116, 129 AC (14:15) | Skill Check / Combat |
+| [**Scene 410**](#scene-410) | The Roseroad | AC 116, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 411**](#scene-411) | The Roseroad | AC 116, 129 AC (14:30) | Roleplay |
+| [**Scene 412**](#scene-412) | The Roseroad | AC 116, 129 AC (14:30) | Roleplay |
+| [**Scene 413**](#scene-413) | The Roseroad | AC 116, 129 AC (14:30) | Roleplay |
+| [**Scene 414**](#scene-414) | The Roseroad | AC 116, 129 AC (14:35) | Roleplay |
+| [**Scene 415**](#scene-415) | The Roseroad | AC 116, 129 AC (15:00) | Skill Check / Combat |
+| [**Scene 416**](#scene-416) | Shadow-Council Command Tent | AC 116, 129 AC (15:05) | Skill Check / Combat |
+| [**Scene 417**](#scene-417) | The Roseroad | AC 116, 129 AC (23:35) | Skill Check / Combat |
+| [**Scene 418**](#scene-418) | The Roseroad | AC 116, 129 AC (23:35) | Skill Check / Combat |
+| [**Scene 419**](#scene-419) | The Roseroad | AC 116, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 420**](#scene-420) | The Roseroad | AC 116, 129 AC (23:45) | Roleplay |
+| [**Scene 421**](#scene-421) | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 422**](#scene-422) | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:45) | Skill Check / Combat |
+| [**Scene 423**](#scene-423) | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Skill Check / Combat |
+| [**Scene 424**](#scene-424) | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Roleplay |
+| [**Scene 425**](#scene-425) | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Roleplay |
+| [**Scene 426**](#scene-426) | Ser Hobert's Command Tent (The Roseroad) | AC 116, 129 AC (23:50) | Skill Check / Combat |
+| [**Scene 427**](#scene-427) | Ser Hobert's Command Tent (The Roseroad) | AC 117, 129 AC (00:15) | Skill Check / Combat |
+| [**Scene 428**](#scene-428) | The Red Keep (King's Landing) | AC 117, 129 AC (08:15) | Skill Check / Combat |
+| [**Scene 429**](#scene-429) | The Red Keep (King's Landing) | AC 117, 129 AC (08:30) | Skill Check / Combat |
+| [**Scene 430**](#scene-430) | The Red Keep (King's Landing) | AC 117, 129 AC (08:30) | Skill Check / Combat |
+| [**Scene 431**](#scene-431) | The Red Keep (King's Landing) | AC 117, 129 AC (08:50) | Social Challenge |
+| [**Scene 432**](#scene-432) | The Red Keep (King's Landing) | AC 117, 129 AC (09:15) | Skill Check / Combat |
+| [**Scene 433**](#scene-433) | Oldtown | AC 117, 129 AC (17:15) | Skill Check / Combat |
+| [**Scene 434**](#scene-434) | Oldtown | AC 117, 129 AC (19:30) | Skill Check / Combat |
+| [**Scene 435**](#scene-435) | Oldtown | AC 138, 129 AC (21:00) | Skill Check / Combat |
+| [**Scene 436**](#scene-436) | Oldtown | AC 138, 129 AC (21:00) | Roleplay |
+| [**Scene 437**](#scene-437) | Oldtown | AC 138, 129 AC (21:00) | Roleplay |
+| [**Scene 438**](#scene-438) | Oldtown (The Hightower) | AC 138, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 439**](#scene-439) | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 440**](#scene-440) | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
+| [**Scene 441**](#scene-441) | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
+| [**Scene 442**](#scene-442) | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
+| [**Scene 443**](#scene-443) | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 444**](#scene-444) | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
+| [**Scene 445**](#scene-445) | Oldtown (The Citadel) | AC 138, 129 AC (22:30) | Roleplay |
+| [**Scene 446**](#scene-446) | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 447**](#scene-447) | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 448**](#scene-448) | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Skill Check / Combat |
+| [**Scene 449**](#scene-449) | King's Landing (The Red Keep) | AC 138, 129 AC (22:30) | Roleplay |
+| [**Scene 450**](#scene-450) | King's Landing (The Red Keep) | AC 142, 129 AC (10:00) | Skill Check / Combat |
+| [**Scene 451**](#scene-451) | King's Landing (The Red Keep) | AC 142, 129 AC (10:15) | Skill Check / Combat |
+| [**Scene 452**](#scene-452) | King's Landing (The Red Keep) | AC 142, 129 AC (10:30) | Skill Check / Combat |
+| [**Scene 453**](#scene-453) | King's Landing (The Red Keep Sub-Vaults) | AC 142, 129 AC (12:30) | Skill Check / Combat |
+| [**Scene 454**](#scene-454) | King's Landing (The Red Keep Sub-Vaults) | AC 142, 129 AC (12:30) | Skill Check / Combat |
+| [**Scene 455**](#scene-455) | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Skill Check / Combat |
+| [**Scene 456**](#scene-456) | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Roleplay |
+| [**Scene 457**](#scene-457) | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Boss Surrender |
+| [**Scene 458**](#scene-458) | Rosby (The Shadow-Keep) | AC 142, 129 AC (16:00) | Boss Surrender |
+| [**Scene 459**](#scene-459) | King's Landing (The Red Keep) | AC 142, 129 AC (16:30) | Skill Check / Combat |
+| [**Scene 460**](#scene-460) | King's Landing (The Shadow-Keep Cistern) | AC 142, 129 AC (18:30) | Skill Check / Combat |
+| [**Scene 461**](#scene-461) | King's Landing (The Shadow-Keep Cistern) | AC 142, 129 AC (18:35) | Skill Check / Combat |
+| [**Scene 462**](#scene-462) | King's Landing (The Red Keep Solar) | AC 142, 129 AC (18:35) | Skill Check / Combat |
+| [**Scene 463**](#scene-463) | King's Landing (The Shadow-Keep) | AC 142, 129 AC (18:35) | Skill Check / Combat |
+| [**Scene 464**](#scene-464) | King's Landing (The Shadow-Keep) | AC 164, 129 AC (18:35) | Skill Check / Combat |
+| [**Scene 465**](#scene-465) | Blackwater Bay (In Transit) | AC 164, 129 AC (18:35) | Skill Check / Combat |
+| [**Scene 466**](#scene-466) | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:35) | Skill Check / Combat |
+| [**Scene 467**](#scene-467) | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Skill Check / Combat |
+| [**Scene 468**](#scene-468) | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Roleplay |
+| [**Scene 469**](#scene-469) | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Skill Check / Combat |
+| [**Scene 470**](#scene-470) | The Smoking Sea (Old Valyria) | AC 164, 129 AC (22:40) | Skill Check / Combat |
+| [**Scene 471**](#scene-471) | The Smoking Sea (Arrival at the Ash-Tower) | AC 164, 129 AC (22:45) | Skill Check / Combat |
+| [**Scene 472**](#scene-472) | The Ash-Tower (Old Valyria) | AC 164, 129 AC (22:50) | Skill Check / Combat |
+| [**Scene 473**](#scene-473) | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Skill Check / Combat |
+| [**Scene 474**](#scene-474) | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Roleplay |
+| [**Scene 475**](#scene-475) | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Roleplay |
+| [**Scene 476**](#scene-476) | The Ash-Tower (Sub-Level Anchors) | AC 164, 129 AC (23:00) | Roleplay |
+| [**Scene 477**](#scene-477) | The Ash-Tower (Sub-Level Anchors) | AC 165, 129 AC (00:00) | Skill Check / Combat |
+| [**Scene 478**](#scene-478) | The Ash-Tower (Sub-Level Anchors) | AC 165, 129 AC (00:00) | Skill Check / Combat |
+| [**Scene 479**](#scene-479) | The Ash-Tower (Sub-Level Anchors) | AC 165, 129 AC (00:00) | Skill Check / Combat |
+| [**Scene 480**](#scene-480) | The Ash-Tower (Apex) | AC 165, 129 AC (00:10) | Skill Check / Combat |
+| [**Scene 481**](#scene-481) | The Ash-Tower (Apex) | AC 165, 129 AC (00:15) | Skill Check / Combat |
+| [**Scene 482**](#scene-482) | The Ash-Tower (Apex) | AC 165, 129 AC (00:16) | Skill Check / Combat |
+| [**Scene 483**](#scene-483) | The Ash-Tower (Apex) | AC 165, 129 AC (00:20) | Skill Check / Combat |
+| [**Scene 484**](#scene-484) | The Ash-Tower (Apex) | AC 165, 129 AC (00:20) | Skill Check / Combat |
+| [**Scene 485**](#scene-485) | The Ash-Tower (Apex) | AC 165, 129 AC (00:21) | Skill Check / Combat |
+| [**Scene 486**](#scene-486) | The Ash-Tower (Apex) | AC 165, 129 AC (00:22) | Skill Check / Combat |
+| [**Scene 487**](#scene-487) | The Ash-Tower (Apex) | AC 165, 129 AC (00:22) | Skill Check / Combat |
+| [**Scene 488**](#scene-488) | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Skill Check / Combat |
+| [**Scene 489**](#scene-489) | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
+| [**Scene 490**](#scene-490) | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
+| [**Scene 491**](#scene-491) | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
+| [**Scene 492**](#scene-492) | The Ash-Tower (Apex) | AC 165, 129 AC (00:23) | Roleplay |
+| [**Scene 493**](#scene-493) | The Ash-Tower (Apex) | AC 165, 129 AC (00:24) | Skill Check / Combat |
+| [**Scene 494**](#scene-494) | Safe Camp | AC 165, 129 AC (08:24) | Skill Check / Combat |
+| [**Scene 495**](#scene-495) | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
+| [**Scene 496**](#scene-496) | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
+| [**Scene 497**](#scene-497) | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
+| [**Scene 498**](#scene-498) | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
+| [**Scene 499**](#scene-499) | Safe Camp | AC 165, 129 AC (08:24) | Roleplay |
+| [**Scene 500**](#scene-500) | The Ash-Tower (Sovereign Base) | AC 165, 129 AC (12:24) | Skill Check / Combat |
+| [**Scene 501**](#scene-501) | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:24) | Skill Check / Combat |
+| [**Scene 502**](#scene-502) | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 503**](#scene-503) | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:30) | Skill Check / Combat |
+| [**Scene 504**](#scene-504) | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Skill Check / Combat |
+| [**Scene 505**](#scene-505) | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Roleplay |
+| [**Scene 506**](#scene-506) | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Roleplay |
+| [**Scene 507**](#scene-507) | The Heart of the Doom (Valyria) | AC 165, 129 AC (14:45) | Roleplay |
+| [**Scene 508**](#scene-508) | The Ash-Tower (Sovereign Base) | AC 165, 129 AC (15:15) | Skill Check / Combat |
+| [**Scene 509**](#scene-509) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Skill Check / Combat |
+| [**Scene 510**](#scene-510) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 511**](#scene-511) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 512**](#scene-512) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 513**](#scene-513) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 514**](#scene-514) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 515**](#scene-515) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 516**](#scene-516) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 517**](#scene-517) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 DR (15:15) | Roleplay |
+| [**Scene 518**](#scene-518) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Roleplay |
+| [**Scene 519**](#scene-519) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (15:15) | Skill Check / Combat |
+| [**Scene 520**](#scene-520) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (18:15) | Skill Check / Combat |
+| [**Scene 521**](#scene-521) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (18:30) | Skill Check / Combat |
+| [**Scene 522**](#scene-522) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (18:30) | Roleplay |
+| [**Scene 523**](#scene-523) | Tyria (Neo-Valyrian Metropolis) | AC 165, 129 AC (20:30) | Skill Check / Combat |
+| [**Scene 524**](#scene-524) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Skill Check / Combat |
+| [**Scene 525**](#scene-525) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Skill Check / Combat |
+| [**Scene 526**](#scene-526) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
+| [**Scene 527**](#scene-527) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
+| [**Scene 528**](#scene-528) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
+| [**Scene 529**](#scene-529) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (20:30) | Roleplay |
+| [**Scene 530**](#scene-530) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Skill Check / Combat |
+| [**Scene 531**](#scene-531) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
+| [**Scene 532**](#scene-532) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Skill Check / Combat |
+| [**Scene 533**](#scene-533) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
+| [**Scene 534**](#scene-534) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 DR (21:30) | Roleplay |
+| [**Scene 535**](#scene-535) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
+| [**Scene 536**](#scene-536) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
+| [**Scene 537**](#scene-537) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
+| [**Scene 538**](#scene-538) | Tyria (Neo-Valyrian Metropolis) | AC 165, 130 AC (21:30) | Roleplay |
+| [**Scene 539**](#scene-539) | Red Keep (Small Council Chamber) | AC 165, 130 AC (22:00) | Skill Check / Combat |
+| [**Scene 540**](#scene-540) | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
+| [**Scene 541**](#scene-541) | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
+| [**Scene 542**](#scene-542) | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
+| [**Scene 543**](#scene-543) | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
+| [**Scene 544**](#scene-544) | Highgarden (The Gilded Court) | AC 165, 130 AC (22:00) | Skill Check / Combat |
+| [**Scene 545**](#scene-545) | King's Landing (The Maester's Workshop) | AC 165, 130 AC (22:00) | Skill Check / Combat |
+| [**Scene 546**](#scene-546) | The Smoking Sea (Ruins of Valyria) | AC 290, 130 AC (15:00) | Roleplay |
+| [**Scene 547**](#scene-547) | The Smoking Sea (Ruins of Old Valyria) | AC 165, 130 AC (23:45) | Skill Check / Combat |
+| [**Scene 548**](#scene-548) | The Smoking Sea (Ruins of Old Valyria) | AC 165, 130 AC (23:45) | Roleplay |
+| [**Scene 549**](#scene-549) | The Smoking Sea (Ruins of Old Valyria) | AC 165, 130 AC (23:45) | Roleplay |
+| [**Scene 550**](#scene-550) | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Skill Check / Combat |
+| [**Scene 551**](#scene-551) | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
+| [**Scene 552**](#scene-552) | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
+| [**Scene 553**](#scene-553) | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
+| [**Scene 554**](#scene-554) | King's Landing (The Red Keep) | AC 166, 130 AC (05:45) | Roleplay |
+| [**Scene 555**](#scene-555) | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Skill Check / Combat |
+| [**Scene 556**](#scene-556) | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
+| [**Scene 557**](#scene-557) | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
+| [**Scene 558**](#scene-558) | King's Landing (The Red Keep) | AC 166, 130 DR (10:45) | Roleplay |
+| [**Scene 559**](#scene-559) | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
+| [**Scene 560**](#scene-560) | King's Landing (The Red Keep) | AC 166, 130 AC (10:45) | Roleplay |
+| [**Scene 561**](#scene-561) | King's Landing (The Red Keep) | AC 284, 130 AC (19:00) | Skill Check / Combat |
+| [**Scene 562**](#scene-562) | King's Landing (The Red Keep) | AC 284, 130 AC (19:00) | Skill Check / Combat |
+| [**Scene 563**](#scene-563) | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Skill Check / Combat |
+| [**Scene 564**](#scene-564) | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Skill Check / Combat |
+| [**Scene 565**](#scene-565) | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Skill Check / Combat |
+| [**Scene 566**](#scene-566) | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Roleplay |
+| [**Scene 567**](#scene-567) | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Roleplay |
+| [**Scene 568**](#scene-568) | King's Landing (The Red Keep) | AC 284, 133 AC (19:00) | Roleplay |
+| [**Scene 569**](#scene-569) | Tyria (The Grand Palace) | AC 300, 133 AC (12:00) | Skill Check / Combat |
+| [**Scene 570**](#scene-570) | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Skill Check / Combat |
+| [**Scene 571**](#scene-571) | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Roleplay |
+| [**Scene 572**](#scene-572) | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Skill Check / Combat |
+| [**Scene 573**](#scene-573) | Tyria (The Grand Palace) | AC 300, 133 AC (13:00) | Roleplay |
+| [**Scene 574**](#scene-574) | Tyria (The Grand Palace) | AC 300, 133 AC (18:00) | Skill Check / Combat |
+| [**Scene 575**](#scene-575) | Valyria (The Ash-Tower) | AC 300, 133 AC (18:00) | Skill Check / Combat |
+| [**Scene 576**](#scene-576) | Tyria (The Grand Palace) | AC 300, 133 AC (19:00) | Skill Check / Combat |
+| [**Scene 577**](#scene-577) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 578**](#scene-578) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Roleplay |
+| [**Scene 579**](#scene-579) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 580**](#scene-580) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 581**](#scene-581) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 582**](#scene-582) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 583**](#scene-583) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 584**](#scene-584) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 585**](#scene-585) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Roleplay |
+| [**Scene 586**](#scene-586) | Tyria (The Grand Palace) | AC 300, 133 AC (20:00) | Skill Check / Combat |
+| [**Scene 587**](#scene-587) | Tyria (The Grand Palace) | AC 300, 133 AC (20:15) | Skill Check / Combat |
+| [**Scene 588**](#scene-588) | Tyria (The Grand Palace) | AC 300, 133 AC (20:15) | Roleplay |
+| [**Scene 589**](#scene-589) | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Skill Check / Combat |
+| [**Scene 590**](#scene-590) | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Skill Check / Combat |
+| [**Scene 591**](#scene-591) | Tyria (The Grand Palace) | AC 300, 143 AC (10:00) | Skill Check / Combat |
+| [**Scene 592**](#scene-592) | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Skill Check / Combat |
+| [**Scene 593**](#scene-593) | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:00) | Roleplay |
+| [**Scene 594**](#scene-594) | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:30) | Skill Check / Combat |
+| [**Scene 595**](#scene-595) | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:35) | Skill Check / Combat |
+| [**Scene 596**](#scene-596) | Tyria (The Imperial Gardens) | AC 300, 143 AC (10:40) | Skill Check / Combat |
+| [**Scene 597**](#scene-597) | The Nightfort | AC 300, 143 AC (19:00) | Skill Check / Combat |
+| [**Scene 598**](#scene-598) | The Nightfort | AC 300, 143 AC (19:10) | Skill Check / Combat |
+| [**Scene 599**](#scene-599) | The Nightfort | AC 300, 143 AC (19:20) | Skill Check / Combat |
+| [**Scene 600**](#scene-600) | The Nightfort | AC 300, 143 AC (20:00) | Skill Check / Combat |
+| [**Scene 601**](#scene-601) | The Nightfort | AC 300, 143 AC (20:05) | Skill Check / Combat |
+| [**Scene 602**](#scene-602) | The Nightfort | AC 300, 143 AC (20:05) | Roleplay |
+| [**Scene 603**](#scene-603) | The Nightfort | AC 300, 143 AC (20:05) | Roleplay |
+| [**Scene 604**](#scene-604) | Tyria (The Imperial Palace) | AC 300, 143 AC (20:10) | Skill Check / Combat |
+| [**Scene 605**](#scene-605) | Tyria (The Imperial Palace) | AC 301, 143 AC (04:10) | Skill Check / Combat |
+| [**Scene 606**](#scene-606) | Tyria (The Imperial Palace) | AC 301, 143 AC (04:10) | Skill Check / Combat |
+| [**Scene 607**](#scene-607) | Tyria (The Imperial Palace) | AC 301, 153 AC (12:10) | Skill Check / Combat |
+| [**Scene 608**](#scene-608) | Tyria (The Imperial Palace) | AC 301, 153 AC (12:10) | Roleplay |
+| [**Scene 609**](#scene-609) | Tyria (The Imperial Palace) | AC 301, 153 AC (12:10) | Roleplay |
+| [**Scene 610**](#scene-610) | Tyria (The Imperial Palace) | AC 301, 153 AC (20:00) | Skill Check / Combat |
+| [**Scene 611**](#scene-611) | Tyria (The Imperial Palace) | AC 301, 153 AC (21:00) | Skill Check / Combat |
+| [**Scene 612**](#scene-612) | Tyria (The Imperial Palace) | AC 301, 153 AC (22:00) | Skill Check / Combat |
+| [**Scene 613**](#scene-613) | Tyria (The Imperial Palace) | AC 301, 153 AC (23:00) | Skill Check / Combat |
+| [**Scene 614**](#scene-614) | Tyria (The Imperial Palace) | AC 301, 153 AC (23:00) | Skill Check / Combat |
+| [**Scene 615**](#scene-615) | Tyria (The Imperial Spire) | AC 301, 153 AC (23:00) | Skill Check / Combat |
+| [**Scene 616**](#scene-616) | Tyria (The Imperial Spire) | AC 301, 153 AC (23:30) | Skill Check / Combat |
+| [**Scene 617**](#scene-617) | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:30) | Skill Check / Combat |
+| [**Scene 618**](#scene-618) | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Skill Check / Combat |
+| [**Scene 619**](#scene-619) | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Skill Check / Combat |
+| [**Scene 620**](#scene-620) | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Roleplay |
+| [**Scene 621**](#scene-621) | Tyria (The Imperial Spire - Private Gallery) | AC 301, 153 AC (23:45) | Roleplay |
+| [**Scene 622**](#scene-622) | Tyria (The Imperial Spire - Private Gallery) | AC 302, 153 AC (01:00) | Roleplay |
+| [**Scene 623**](#scene-623) | Tyria (The Imperial Spire - Private Gallery) | AC 302, 153 AC (01:00) | Roleplay |
+| [**Scene 624**](#scene-624) | Tyria (The Imperial Spire - Private Gallery) | AC 302, 153 DR (01:00) | Roleplay |
+| [**Scene 625**](#scene-625) | Tyria (The Imperial Training Grounds) | AC 302, 153 AC (09:00) | Skill Check / Combat |
+| [**Scene 626**](#scene-626) | Tyria (The Imperial Training Grounds) | AC 302, 153 AC (09:15) | Skill Check / Combat |
+| [**Scene 627**](#scene-627) | Tyria (The Imperial Training Grounds) | AC 302, 153 AC (09:45) | Skill Check / Combat |
+| [**Scene 628**](#scene-628) | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Skill Check / Combat |
+| [**Scene 629**](#scene-629) | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Roleplay |
+| [**Scene 630**](#scene-630) | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Roleplay |
+| [**Scene 631**](#scene-631) | Tyria (The Imperial Spire) | AC 302, 158 AC (09:45) | Roleplay |
+| [**Scene 632**](#scene-632) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:30) | Skill Check / Combat |
+| [**Scene 633**](#scene-633) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:35) | Skill Check / Combat |
+| [**Scene 634**](#scene-634) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:45) | Skill Check / Combat |
+| [**Scene 635**](#scene-635) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:45) | Skill Check / Combat |
+| [**Scene 636**](#scene-636) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (10:45) | Roleplay |
+| [**Scene 637**](#scene-637) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Skill Check / Combat |
+| [**Scene 638**](#scene-638) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
+| [**Scene 639**](#scene-639) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
+| [**Scene 640**](#scene-640) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
+| [**Scene 641**](#scene-641) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Roleplay |
+| [**Scene 642**](#scene-642) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (11:00) | Skill Check / Combat |
+| [**Scene 643**](#scene-643) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (19:00) | Skill Check / Combat |
+| [**Scene 644**](#scene-644) | Tyria (The Imperial Spire - High Sanctum) | AC 302, 158 AC (19:15) | Skill Check / Combat |
+| [**Scene 645**](#scene-645) | Tyria (The Imperial Spire - High Sanctum) | AC 304, 158 AC (19:15) | Skill Check / Combat |
+| [**Scene 646**](#scene-646) | Tyria (The Imperial Spire - High Sanctum) | AC 304, 158 AC (19:15) | Roleplay |
+| [**Scene 647**](#scene-647) | Tyria (The Imperial Spire - High Sanctum) | AC 304, 158 AC (19:15) | Roleplay |
+| [**Scene 648**](#scene-648) | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Skill Check / Combat |
+| [**Scene 649**](#scene-649) | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
+| [**Scene 650**](#scene-650) | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
+| [**Scene 651**](#scene-651) | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
+| [**Scene 652**](#scene-652) | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
+| [**Scene 653**](#scene-653) | Tyria (The Imperial Spire - High Sanctum) | AC 306, 158 AC (19:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 | HP: --/-- | Gold: -- | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 1)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -703,8 +719,11 @@ To begin, we must determine how your character will be built mechanically. Pleas
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: [AIGenerated] - The AI will generate a complete D&D 5e character sheet (Fighter/Dragonrider) for Visenya based on your prompt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Fighter | HP: 11/11 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 1)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -727,8 +746,11 @@ You stand on the cliffs of Dragonstone, the wind whipping your silver hair into 
 > 👤 **Player:**
 > *"Let’s make a special class for me show me the class progression 1 to 30. Make me a sub class of a rogue. Make me have 16 dex and 16 int and make my spellcasting ability int and 14 con and distribute stats to other areas and keep str 8"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -764,8 +786,11 @@ Your physical form is now perfectly aligned with your vision. You are lean and a
 > 👤 **Player:**
 > *"Give my mother interesting backstory and let’s have me get extra attack at level 5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -800,8 +825,11 @@ To reflect your lethal training and the martial blood of your father, we have up
 > 👤 **Player:**
 > *"Give me all the rogue abilities too and let’s make this a low magic world so most people can’t cast spells etc and give me some spell like abilities like arcane trickster but no fireballs etc. I wanna be like an arcane trickster with special dragon companion abilities and all the rogue abilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -833,8 +861,11 @@ Your mother, Lady Daenys, taught you that the Weave is like the smoke of the Dra
 > 👤 **Player:**
 > *"Give me more synergy with dragon and give my dragon AC bonus from int too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -867,8 +898,11 @@ Your training is complete, Visenya. The Shadow of the Dragon is ready to take fl
 > 👤 **Player:**
 > *"I want my dragon to have lore appropriate stats and abilities as it levels too and enemy and ally dragons and riders need similar abilities and mechanics but let’s make me the strongezt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -900,8 +934,11 @@ You are Visenya, the Great Bastard, the smartest shadow in the sky, and the dead
 > 👤 **Player:**
 > *"Give my dragon abilities from level 1 to 30 too and other dragons abilities that are similar but not as good and at level 20 he should be as big and as strong as balerion and at level 30 he’s like a god dragon 3x the size of balerion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -944,8 +981,11 @@ Your path is set, Visenya. The Dragonstone awaits your command. Shall we begin?
 > 👤 **Player:**
 > *"Give my dragon stats that automatically increase as he levels up and give other dragons stats too but my dragon should have a stronger trajectory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -980,8 +1020,11 @@ Your profile is complete. The soot of the Dragonmont is still on your skin, and 
 > 👤 **Player:**
 > *"Hp seems kind of low? He’s a dragon? I think he should be like a d&d dragon but make him lore appropriate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1019,8 +1062,11 @@ Your mount is a titan in the making, Visenya. The soot of the Dragonmont is stil
 God Mode:
 Fix my stats my int is still 15 and you didn’t give me spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1046,8 +1092,11 @@ Everything is now aligned with your royal features and draconic destiny. Vermith
 > 👤 **Player:**
 > *"Start the game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Dragonstone** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1061,8 +1110,11 @@ Down below, in the shadow of the Citadel, the banners of the Black Queen flutter
 > 👤 **Player:**
 > *"Report to the queen let’s assume I just claimed my dragon and the queen is overjoyed because she has another dragon rider even if I’m not an official Targaryen and let’s assume this happened after the dragon seeds claimed some dragons but she at least has a dragon rider who’s more Targaryen like"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Dragonstone (Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 15, 129 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1091,8 +1143,11 @@ Rhaenyra reaches out, her hand warm and steady as she clasps your arm. "You are 
 > 👤 **Player:**
 > *"Formal pledge of loyalty and ask for training. Let’s assume the queen and daemon don’t know me too well but they’re happy for someone of their blood with a dragon etc. let’s also balance it so that the queen has more dragons but the other side has less but not totally a small amount maybe more than the show"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Dragonstone (Chamber of the Painted Table)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1123,8 +1178,11 @@ Daemon scoffs from the shadows, though his eyes remain fixed on you with a sharp
 > 👤 **Player:**
 > *"Let’s assume they delegate my training to her sons and I train. The sons are friendly but a little threatened by another dragon rider who looks way more Targaryen than them and agree to train me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Dragonstone (Lower Training Yard)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 60/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1154,8 +1212,11 @@ You gain **60 XP** for your formal pledge and the successful demonstration of yo
 > 👤 **Player:**
 > *"Be polite with Jace and continue sparring. Then practice dragon techniques"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Dragonstone (Dragonmont Cliffs)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 90/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1186,8 +1247,11 @@ You gain **30 XP** for navigating the social tensions of the training yard and s
 > 👤 **Player:**
 > *"Let’s narrate next few weeks and assume I train personal combat and with dragon and the dragon seeds train too. Narrate outcomes and let’s have the events of the canon show mostly play out eventually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Dragonstone (The High Courtyard)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 240/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1217,8 +1281,11 @@ But the time for practice is ending. A raven has arrived from Rook's Rest. Lord 
 > 👤 **Player:**
 > *"Try to build relationship with the prince platonic but see if he can trust me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Dragonstone (The High Courtyard)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 265/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1252,8 +1319,11 @@ You gain **25 XP** for successfully bridging the social divide with the Heir to 
 > 👤 **Player:**
 > *"Explain that no matter how i look i am a bastard and he is a Targaryen and not all Targaryens have classic features"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Dragonstone (The High Courtyard)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue (Lvl 2 available) | HP: 10/10 | Gold: 25gp | XP: 300/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1286,8 +1356,11 @@ Through empathy and tactical insight, you have turned a potential rival into a s
 God Mode:
 Let’s assume I am also extremely beautiful and  have characters narratively react so give me proficiency in persuasion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Dragonstone (The High Courtyard)** &nbsp;|&nbsp; ⏳ **AC 36, 129 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue (Shadow of the Dragon) (Lvl 2 available) | HP: 10/10 | XP: 300/300** &nbsp;|&nbsp; ✨ **HD: 1/1**
@@ -1300,8 +1373,11 @@ Administrative Summary:
 God Mode:
 God: Let’s also have the queen or others give me orders I can suggest things but I’m not the faction leader
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Dragonstone (The High Courtyard)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue (Shadow of the Dragon) (Lvl 2 available) | HP: 10/10 | Gold: 25gp | XP: 300/300** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1314,8 +1390,11 @@ Administrative Summary: Hierarchy established. You are now explicitly defined as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Unlock Cunning Action and increase your Sneak Attack potential before receiving your first orders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Dragonstone (The High Courtyard)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue (Lvl 2 available) | HP: 10/10 | Gold: 25gp | XP: 300/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1336,8 +1415,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Dragonstone (The High Courtyard)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 300/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Level 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1351,8 +1433,11 @@ As the resonance of the level-up settles, the reality of the war returns. The Co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Daemon's Counsel - Find your father before he departs to discuss a more covert role in the coming battle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Dragonstone (Sea Dragon Tower Ramparts)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 300/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: No Spells Yet (Level 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1388,8 +1473,11 @@ Objective: Scout Ser Criston Cole's vanguard near Rook's Rest without being dete
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cloud-Cover Infiltration - Utilize Vermithrax's 'Wing-Shadow' and the heavy storm clouds over the Gullet to reach the Crownlands undetected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Skies over the Crownlands (Near Rook's Rest)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 330/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1430,8 +1518,11 @@ You gain **30 XP** for the successful infiltration of the Crownlands and the hig
 > 👤 **Player:**
 > *"THINK:What’s the most useful thing to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Skies over the Crownlands (Near Rook's Rest)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 330/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1443,8 +1534,11 @@ Intelligence Check: 16 vs DC 14 — Success. Your tactical mind races as the sha
 > 👤 **Player:**
 > *"THINK:Can I use his lack of depth perception against him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Skies over the Crownlands (Near Rook's Rest)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 330/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1456,8 +1550,11 @@ Intelligence Check: 14 vs DC 11 — Success. Your tactical mind, sharpened by yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Blind-Side Bait & Terrain Trap (Synergistic) - Pull Aemond into his blind side, leading him into the sea-stacks while masking your exact position with 'Shadow' soot-clouds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Skies over the Crownlands (The Whispers Coastal Fog)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 345/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Hidden (Blind Side) | Exhaustion: 0 | Inspiration: No**
@@ -1481,8 +1578,11 @@ You gain **15 XP** for the successful application of 'Shadow' cover in a high-st
 > 👤 **Player:**
 > *"THINK:Anything I can do to take advantage of aemond lack depth perception?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Skies over the Crownlands (The Whispers Coastal Fog)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 345/900** &nbsp;|&nbsp; ⚠️ **Hidden (Blind Side) | Exhaustion: 0 | Inspiration: No**
@@ -1494,8 +1594,11 @@ Intelligence Check: 22 vs DC 12 — Success. Your mind, sharp and cold as dragon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ghosting & Parallax (Synergistic) - Execute the 'Sea-Mist Ghosting' low-water run while maintaining the 'Parallax Feint'. Use the water's reflection to double your presence in his one-eyed view.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Skies over the Gullet (Returning to Fleet)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 405/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Hidden (Sea-Mist) | Exhaustion: 0 | Inspiration: No**
@@ -1519,8 +1622,11 @@ You gain **60 XP** for the brilliant exploitation of Aemond's tactical weakness 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow recon: Criston Cole - Now that Aemond is lost in the mist, attempt one high-speed stealth pass back over the mainland to get the exact count of Cole's heavy horse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Skies over the Crownlands (Mainland Coastline)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 475/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Exposed | Exhaustion: 0 | Inspiration: No**
@@ -1544,8 +1650,11 @@ You gain **70 XP** for successfully scouting the exact strength of Criston Cole'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Feign Retreat Inland - Fly deeper into the Crownlands, leading Aemond away from Dragonstone before attempting a low-altitude 'Shadow' circle-back.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Skies over the Gullet (Returning to Fleet)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 535/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1571,8 +1680,11 @@ You gain **60 XP** for the successful feigned retreat and tactical evasion of Pr
 God Mode:
 Why am I calling him frog on?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Skies over the Gullet (Returning to Fleet)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 535/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1582,8 +1694,11 @@ Administrative Correction: The use of the name 'Drogon' was a lore hallucination
 > 👤 **Player:**
 > *"Tell Allyn about the danger and then head to Dragonstone after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Dragonstone (Sea Dragon Tower)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 10/10 | Gold: 25gp | XP: 585/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Unlock at Level 3)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1617,8 +1732,11 @@ You gain **50 XP** for completing the scouting mission and delivering the warnin
 > 👤 **Player:**
 > *"Inspect wounds and report to daemon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 660/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1656,8 +1774,11 @@ You gain **75 XP** for successfully scouting the vanguard strength and completin
 > 👤 **Player:**
 > *"THINK:Any extra intel to make myself look good?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 660/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1675,8 +1796,11 @@ Report the Rosby Banners: Inform Daemon that House Rosby's colors were in the va
 Pros: High political intelligence value, Identifies specific targets for Black retribution
 Cons: Daemon may ask why you didn't burn the banners on the spot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 36, 129 AC (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 660/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1694,8 +1818,11 @@ Report the Rosby Banners: Inform Daemon that House Rosby's colors were in the va
 Pros: High political intelligence value, Identifies specific targets for Black retribution
 Cons: Daemon may ask why you didn't burn the banners on the spot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 690/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1728,8 +1855,11 @@ You gain **30 XP** for the successful tactical synthesis and strategic reporting
 > 👤 **Player:**
 > *"Soot singer journals and wait for new orders long rest and time skip until I get new orders -@/9 a"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Dragonstone (Sea Dragon Tower)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 10/10 | Gold: 25gp | XP: 690/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1752,8 +1882,11 @@ When you awake, the grey light of a Dragonstone dawn filters through the narrow 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attend the Black Council - Enter the chamber of the Painted Table and present your tactical findings directly to Rhaenyra and the lords.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 740/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1790,8 +1923,11 @@ You gain **80 XP** for the masterful strategic briefing and successful social ma
 > 👤 **Player:**
 > *"THINK:With my skills but only being level 2 how best help and level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 740/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1803,8 +1939,11 @@ Intelligence Check: 16 vs DC 12 — Success. Your methodical mind weighs the dis
 > 👤 **Player:**
 > *"Propose path saboteur"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 765/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1837,8 +1976,11 @@ You gain **25 XP** for the tactical proposal, though the accelerating siege has 
 > 👤 **Player:**
 > *"THINK:Now that the battle started can I do something else to weaken vhagar? Maybe remind them that i was scouting fast with my dragon but if i sabotage I’ll land far away and be on foot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 765/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1850,8 +1992,11 @@ Intelligence Check: 20 vs DC 14 — Success. Your tactical mind, honed by your 1
 > 👤 **Player:**
 > *"Propose shield breaker and then I go help wingman melys after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 10/10 | Gold: 25gp | XP: 825/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1887,8 +2032,11 @@ You gain **60 XP** for the masterful tactical proposal and securing the 'Shield-
 > 👤 **Player:**
 > *"THINK:What if I just infiltrate as a refugee? Unlikely I get searched? Or a camp follower? Also I think daemon shouldn’t care that much about me being seen? We don’t lose anything but opportunity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 10/10 | Gold: 25gp | XP: 825/900** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1900,8 +2048,11 @@ Intelligence Check: 19 vs DC 13 — Success. Your methodical 16 Intelligence all
 > 👤 **Player:**
 > *"Do camp follower and bring my gear in my belongings. Permanently dye my hair black so it’s useful in other situations too."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue | HP: 10/10 | Gold: 25gp | XP: 885/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)** &nbsp;|&nbsp; ⚠️ **Disguised (Camp Follower), Dyed Hair (Black) | Exhaustion: 0 | Inspiration: No**
@@ -1936,8 +2087,11 @@ You gain **60 XP** for the successful infiltration and disguise execution.
 > 👤 **Player:**
 > *"Minor illusion and if it fails try to seduce the guard and pretend it’s just drugs to entertain patrons as a camp follower"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue (Lvl 3 available) | HP: 10/10 | Gold: 25gp | XP: 935/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 0/0 (Level 3 Pending)** &nbsp;|&nbsp; ⚠️ **Disguised (Camp Follower), Dyed Hair (Black) | Level Up Available!**
@@ -1974,8 +2128,11 @@ You gain **50 XP** for the masterful use of magic and deception to bypass the ch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Unlock 'Shadow of the Dragon' subclass features: INT-based spellcasting and Tactical Bond (INT to Vermithrax AC).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Rogue (Lvl 3 available) | HP: 10/10 | Gold: 25gp | XP: 935/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: No Spells Yet (Lvl 3 pending)** &nbsp;|&nbsp; ⚠️ **Disguised (Camp Follower), Dyed Hair (Black) | Level Up Available!**
@@ -2005,8 +2162,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 935/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Camp Follower), Dyed Hair (Black) | Exhaustion: 0 | Inspiration: No**
@@ -2024,8 +2184,11 @@ The camp is a sprawling beast of canvas and steel. To your left, the massive sil
 > 👤 **Player:**
 > *"Scout both and make a plan to do the most important one first and then the other one if possibles consider using disguise self too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1025/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Exhaustion: 0 | Inspiration: No**
@@ -2048,8 +2211,11 @@ CombatantName: Visenya: 17 → 17 HP (No damage taken during infiltration).
 > 👤 **Player:**
 > *"Signal flares sabotage and use any spells as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1065/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Invisible Mage Hand Active**
@@ -2090,8 +2256,11 @@ You gain **40 XP** for successfully talking your way out of a lethal security br
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Accidental' Grease Fire - Use *Prestidigitation* or a physical move to ignite a small grease-fire in the nearby mess-tents. Use the panic to return and finish the swap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1245/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Exhaustion: 0 | Inspiration: No**
@@ -2117,8 +2286,11 @@ You gain **180 XP** for sabotaging Vhagar's tactical coordination.
 > 👤 **Player:**
 > *"THINK:What’s the safest way to do it? Any way I can use my beauty or pretend camp follower"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1245/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Spells: L1 1/2**
@@ -2130,8 +2302,11 @@ Intelligence Check: 21 vs DC 14 — Success. Your methodical mind (INT 16) allow
 > 👤 **Player:**
 > *"THINK:My cha is low any way I can do it without a cha check but still use my beautify? Let also set my cha to 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1245/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Spells: L1 1/2**
@@ -2143,8 +2318,11 @@ Intelligence Check: 19 vs DC 11 — Success. Your methodical mind (INT 16) ident
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Calculated Distraction (INT) - Use Intelligence instead of Charisma to perform a 'Psychological Blinding.' You analyze the sentries' patrol patterns and fatigue levels, positioning yourself to be a 'mysterious' and beautiful distraction that keeps them looking at you while your Mage Hand spikes the gears.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1320/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Calculated Allure Active**
@@ -2175,8 +2353,11 @@ You gain **75 XP** for the masterful execution of the Psychological Blinding tac
 > 👤 **Player:**
 > *"Retry arcane sabotage and then if it fails use sleep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1500/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Calculated Allure Active | Exhaustion: 0 | Inspiration: No**
@@ -2200,8 +2381,11 @@ CombatantName: Visenya: 17 → 17 HP (No damage taken during sabotage).
 > 👤 **Player:**
 > *"THINK:What if I use prestogeigiom to start a fire or something that actually causes trouble one side of camp then go hit other spike on my way out but abandon if it looks risky"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1500/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Calculated Allure Active**
@@ -2213,8 +2397,11 @@ Intelligence Check: 16 vs DC 10 — Success. Your tactical mind (INT 16) allows 
 > 👤 **Player:**
 > *"Cause the fire then if safe approach sentries last spike and see if I can do it without using spell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Rook's Rest (Green Siege Perimeter)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1700/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Calculated Allure Active**
@@ -2253,8 +2440,11 @@ CombatantName: Visenya: 17 → 17 HP.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract to the Whispers - Abandon the camp-follower persona and sprint for the dark tree-line of the Whispers to mount Vermithrax.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Rook's Rest (Green Siege Perimeter - Perimeter Edge)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1725/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Exhaustion: 0 | Inspiration: No**
@@ -2280,8 +2470,11 @@ You gain **25 XP** for the high-stakes evasion attempt.
 > 👤 **Player:**
 > *"THINK:How make urgent dispatch more convicnjng"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Rook's Rest (Green Siege Perimeter - Perimeter Edge)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1725/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Spells: L1 1/2**
@@ -2293,8 +2486,11 @@ Intelligence Check: 18 vs DC 12 — Success. Your tactical mind (INT 16) identif
 > 👤 **Player:**
 > *"THINK:I want something more convincing without revealing my sabotage and using int"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Rook's Rest (Green Siege Perimeter - Perimeter Edge)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1725/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Spells: L1 1/2**
@@ -2306,8 +2502,11 @@ Intelligence Check: 19 vs DC 13 — Success. Your methodical mind (INT 16) ident
 > 👤 **Player:**
 > *"THINK:I said I didn’t want to reveal sabotage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Rook's Rest (Green Siege Perimeter - Perimeter Edge)** &nbsp;|&nbsp; ⏳ **AC 37, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 17/17 | Gold: 25gp | XP: 1725/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Spells: L1 1/2**
@@ -2319,8 +2518,11 @@ Intelligence Check: 19 vs DC 13 — Success. Your methodical mind (INT 16) ident
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Missing Relay' Bluff (INT) - Scream at the guard: 'The Whispers outriders missed their lantern-check! If the line isn't sealed before the Lord Commander hits this post, he'll have us both in irons for the gap! Step aside or find them yourself!'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **The Whispers (Extraction Point)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 1825/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black) | Exhaustion: 0 | Inspiration: No**
@@ -2348,8 +2550,11 @@ CombatantName: Visenya: 10 → 10 HP.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Mount & Scout Skies (Compatible) - Mount Vermithrax and use your Bond to scan the horizon for Meleys's arrival while maintaining a low-altitude hover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 1975/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Mounted (Vermithrax)**
@@ -2378,8 +2583,11 @@ You gain **150 XP** for the successful extraction and the critical spotting of t
 > 👤 **Player:**
 > *"THINK:Best plan prioritize distracting or killing Vhagar also does it make sense that we wouldn’t send even more dragons against Vhagar?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 1975/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Mounted (Vermithrax)**
@@ -2391,8 +2599,11 @@ Intelligence Check: 19 vs DC 14 — Success. Your tactical mind (INT 16) allows 
 God Mode:
 What happened on the show? How many dragons did they send against Vhagar?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 1975/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Mounted (Vermithrax)**
@@ -2409,8 +2620,11 @@ What happened on the show? How many dragons did they send against Vhagar?
 > 👤 **Player:**
 > *"Hang back and see what Vhagar does or try to spot her with stealth. Then brainstorm a good plan focus on killing Vhagar or rider and taking advt age of lack depth perception and coordinate with melys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2125/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/2, Sneak Attack: 2d6, Tactical Bond: +1 AC, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Dyed Hair (Black), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2441,8 +2655,11 @@ CombatantName: Visenya: 10 → 10 HP.
 > 👤 **Player:**
 > *"Try to use stealth and then trigger a surprise attack aemond blind spot and goal is to distract him and utilize the sabotage I did earlier"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2225/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2473,8 +2690,11 @@ You gain **100 XP** for the successful blind-spot infiltration and tactical dist
 > 👤 **Player:**
 > *"Soot singer decoy and minor illusion is a cantrip so no spells lot. Even without signal melys and rider probably can take advantage. If it works I can try to stay above vhagar fly same velocity and do ranged attack on aemond too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2265/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2498,8 +2718,11 @@ You gain **40 XP** for the masterful use of illusion to blind the enemy commande
 > 👤 **Player:**
 > *"THINK:Can I do another minor illusion that takes advantage of his lack depth perception or how to best use spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2265/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax)**
@@ -2511,8 +2734,11 @@ Intelligence Check: 17 vs DC 14 — Success. Your analytical mind (INT 16) decon
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Depth-Void Hallucination (Minor Illusion) - Create an illusion of a jagged, scorched dragon-wing directly in Aemond's left-side peripheral vision. Sync your flight to keep it 'attached' to his blind spot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2315/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2540,8 +2766,11 @@ CombatantName: Visenya: 10 → 10 HP.
 > 👤 **Player:**
 > *"Minor illusion to show an illusion of me attacking while I vanish into mist then trigger surprise attack with advantage after melys does her next attack to maximize his disorientation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2315/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2568,8 +2797,11 @@ CombatantName: Visenya: 10 → 10 HP.
 > 👤 **Player:**
 > *"THINK:How likely is it his hp exceeds roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2315/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2581,8 +2813,11 @@ Intelligence Check: 17 vs DC 11 — Success. Your methodical mind (INT 16) calcu
 > 👤 **Player:**
 > *"Use conquerors spark with mage hand to knock him off his saddle attempt this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2495/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2613,8 +2848,11 @@ The primary buckle of Aemond's left thigh-strap shears open. At that exact momen
 > 👤 **Player:**
 > *"THINK:What’s the best way to kill armond. What if I use illusion to make the dragon move in a way that makes him fall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2495/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax)**
@@ -2626,8 +2864,11 @@ Intelligence Check: 20 vs DC 15 — Success. Your tactical mind (INT 16) seizes 
 > 👤 **Player:**
 > *"Vertigo trap and allow melys to naturally take advantage without exerting myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:52)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2645/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2652,8 +2893,11 @@ Aemond Targaryen: [Estimated] 45 → 31 HP.
 > 👤 **Player:**
 > *"THINK:Best way to finally make aemond fall?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:52)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2645/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2665,8 +2909,11 @@ Intelligence Check: 19 vs DC 14 — Success. Your analytical mind (INT 16) filte
 > 👤 **Player:**
 > *"THINK:How to reduce DC of cliff illusion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:52)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2645/2700** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax)**
@@ -2678,8 +2925,11 @@ Intelligence Check: 19 vs DC 11 — Success. Your analytical mind (INT 16) decon
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Pressure-Wave Feint (-2 DC) - Sync Vermithrax to 'clap' his wings near Vhagar's head at the exact moment the illusion appears.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:54)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 10/10 | Gold: 25gp | XP: 2685/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2704,8 +2954,11 @@ CombatantName: Visenya: 10 → 10 HP.
 > 👤 **Player:**
 > *"Get in a good approach angle and use ranged attacks and ranged fire on armond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:56)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue (Lvl 4 available) | HP: 10/10 | Gold: 25gp | XP: 2715/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2743,8 +2996,11 @@ CombatantName: Prince Aemond Targaryen: 31 → 4 HP (Falling/Incapacitated).
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 4 - Apply Rogue level 4 benefits, including an Ability Score Improvement or Feat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:56)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue (Lvl 4 available) | HP: 10/10 | Gold: 25gp | XP: 2715/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used) (Level 4 pending)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2762,8 +3018,11 @@ You hover high above the smoke and the churning sea-mist of the Whispers, the ad
 > [!NOTE] ⚙️ **Player Choice:**
 > *ASI: +2 Dexterity - Increase DEX to 18 (+4). Boosts AC, Attack/Damage, and Stealth/Initiative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:56)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue (Lvl 4 available) | HP: 10/10 | Gold: 25gp | XP: 2715/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/2 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used) (Level 4 pending)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2786,8 +3045,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (00:56)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue | HP: 19/19 | Gold: 25gp | XP: 2715/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2803,8 +3065,11 @@ Below, the sea-mist swallows the Prince's descent, and the shadow of Vhagar vani
 > 👤 **Player:**
 > *"Confirm the kill and signal melys to help, scout Vhagar to see if she’s causing trouble."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (01:06)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue | HP: 33/33 | Gold: 25gp | XP: 2815/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2843,8 +3108,11 @@ You gain **100 XP** for concluding the aerial assassination phase.
 > 👤 **Player:**
 > *"Make a ring of fire around Cole men and then fire blast Cole and signal melys to help. I should also get massive exp for defeating aemond. Also if Aemond fell from so far likely he should be dead unless he made an amazing roll. Don’t tell me his fate but just take that into account"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue | HP: 19/19 | Gold: 25gp | XP: 4015/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2889,8 +3157,11 @@ Ser Criston Cole: [Estimated] 85 → 69 HP.
 > 👤 **Player:**
 > *"Make sure melys takes her turn too and also burns Cole. We keep looking for armond and burning Cole and his archers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue | HP: 19/19 | Gold: 25gp | XP: 4015/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Sneak Attack: 2d6, Tactical Bond: +1 AC, Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2919,8 +3190,11 @@ Green Archer Units: [Scorched] - Heavily Decimated.
 > 👤 **Player:**
 > *"Signal melys. Fly up in the air and do a more vertical dive to breath fire on scroptions at an angle they can’t shoot at"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue | HP: 19/19 | Gold: 25gp | XP: 4865/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2957,8 +3231,11 @@ You gain **850 XP**.
 > 👤 **Player:**
 > *"Make sure melys gets her turn on the scorpions and then ensure Cole and archers still encircled fire and fire breath archers and then Cole and try to strafe both"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Whispers (Skies above)** &nbsp;|&nbsp; ⏳ **AC 38, 129 AC (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue | HP: 19/19 | Gold: 25gp | XP: 4865/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Disguised (Rosby Messenger), Mounted (Vermithrax) | Exhaustion: 0 | Inspiration: No**
@@ -2986,8 +3263,11 @@ You gain **400 XP** for the systematic destruction of the Green air-defenses and
 > 👤 **Player:**
 > *"Now that scorpions dead fire breath all archers safe distance and then Cole and time skip until we win or something  happens and signal melys to do same"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Rook's Rest** &nbsp;|&nbsp; ⏳ **AC 39, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue | HP: 19/19 | Gold: 25gp | XP: 6065/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 1/1 (Refreshed)** &nbsp;|&nbsp; ⚠️ **Normal, Victory (Rook's Rest) | Exhaustion: 0 | Inspiration: No**
@@ -3021,8 +3301,11 @@ CombatantName: Ser Criston Cole: 46 → 46 HP (Escaped).
 > 👤 **Player:**
 > *"We should get massive exp and legend spread for this victory and i assess vhagar to see if she can be claimed by our side"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Rook's Rest** &nbsp;|&nbsp; ⏳ **AC 39, 129 AC (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue (Lvl 5 available) | HP: 19/19 | Gold: 25gp | XP: 8565/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Victory (Rook's Rest), Exhausted (1) | Exhaustion: 1 | Inspiration: No**
@@ -3049,8 +3332,11 @@ CombatantName: Vhagar: [Incapacitated/Unguided] | HP: ?? → ?? (Stable but drif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 5 - Apply Rogue level 5 benefits, including 'Extra Attack' and Sneak Attack 3d6.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Rook's Rest** &nbsp;|&nbsp; ⏳ **AC 39, 129 AC (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Rogue (Lvl 5 available) | HP: 19/19 | Gold: 25gp | XP: 8565/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Sneak Attack: 2d6 | Tactical Bond: +1 AC | Spark: 1/1 (Level 5 pending)** &nbsp;|&nbsp; ⚠️ **Victory (Rook's Rest), Exhausted (1) | Exhaustion: 1 | Inspiration: No**
@@ -3075,8 +3361,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Rook's Rest** &nbsp;|&nbsp; ⏳ **AC 39, 129 AC (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 8565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Victory (Rook's Rest), Exhausted (1) | Exhaustion: 1 | Inspiration: No**
@@ -3098,8 +3387,11 @@ Vermithrax snaps his jaws in warning, his amber eyes glowing with a protective f
 > 👤 **Player:**
 > *"Use logical Persuasion to tell men to stand down and soot singer lullaby"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Rook's Rest (The Ravine)** &nbsp;|&nbsp; ⏳ **AC 39, 129 AC (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 8565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal, Victory (Rook's Rest) | Exhaustion: 1 | Inspiration: No**
@@ -3129,8 +3421,11 @@ As the men retreat, you turn back to Vhagar. You begin a low, melodic hum—the 
 > 👤 **Player:**
 > *"THINK:How to reduce DC to guiding vhagar or claiming later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Rook's Rest (The Ravine)** &nbsp;|&nbsp; ⏳ **AC 39, 129 AC (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 8565/14000** &nbsp;|&nbsp; ⚠️ **Normal, Victory (Rook's Rest) | Exhaustion: 1 | Inspiration: No**
@@ -3142,8 +3437,11 @@ Intelligence Check (Planning): 18 vs DC 16 — Success. Your tactical mind, shar
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Freehold Reborn (Synergistic) - Combine feeding, Vermithrax's presence, and your soot-singer lullaby into a single, multi-day ritual to anchor her to Rook's Rest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Rook's Rest (The Ravine)** &nbsp;|&nbsp; ⏳ **AC 42, 129 AC (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 8565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Victory (Rook's Rest), Exhausted (1) | Exhaustion: 1 | Inspiration: No**
@@ -3171,8 +3469,11 @@ By the dawn of the third day (Day 42), the change is tectonic. Vhagar no longer 
 > 👤 **Player:**
 > *"Let’s assume also took breaks during this time skip when possible to hunt Aemond and Cristonncole and melys and our troops did roll to see if we found and captured them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Rook's Rest (The Shoreline)** &nbsp;|&nbsp; ⏳ **AC 43, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 10565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Victory (Rook's Rest), Exhausted (1) | Exhaustion: 1 | Inspiration: No**
@@ -3202,8 +3503,11 @@ You gain **2,000 XP**.
 > 👤 **Player:**
 > *"Focus on moving vhagar back to dragon stone now that we stabilized her and melys can transport Aemond back to secure him while troops fortify rooks rest. Rhaeneys should greatly celebrate me as visenya the conqueror reborn since I was leading the battle and we won against impossible odds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Rook's Rest (The Ravine)** &nbsp;|&nbsp; ⏳ **AC 43, 129 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 10565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Victory (Rook's Rest), Exhausted (1) | Exhaustion: 1 | Inspiration: No**
@@ -3234,8 +3538,11 @@ To make matters worse, your escort flight was not as secret as you hoped (Stealt
 > 👤 **Player:**
 > *"Scout rosby scouts and delegate fortify vhagar area"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Rook's Rest (The Ravine)** &nbsp;|&nbsp; ⏳ **AC 43, 129 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 10565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +1 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal, Victory (Rook's Rest) | Exhaustion: 1 | Inspiration: No**
@@ -3264,8 +3571,11 @@ His refusal is a tactical setback (Persuasion: 11 vs DC 14). Without the garriso
 > 👤 **Player:**
 > *"I should’ve done a long rest and should be full of spell slots. Brainstorm low risk way to move vhagar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Rook's Rest (The Ravine)** &nbsp;|&nbsp; ⏳ **AC 43, 129 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 10565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +1 AC | Spark: 1/1 (Refreshed)** &nbsp;|&nbsp; ⚠️ **Normal, Victory (Rook's Rest) | Exhaustion: 0 | Inspiration: No**
@@ -3277,8 +3587,11 @@ You take a moment to breathe, the soot of the battle finally being washed away b
 > 👤 **Player:**
 > *"Scented trail and ghost bond but don’t deceive just use my int to show I’m a similar type of dragon rider but not Aemond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Rook's Rest (The Shoreline)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 11365/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (15 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3306,8 +3619,11 @@ By the time you reach the shoreline cliffs under the cover of a moonless night, 
 > 👤 **Player:**
 > *"Soot singer tether and use my conqueror dice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Rook's Rest (The Shoreline)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue | HP: 40/40 | Gold: 25gp | XP: 13565/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (14 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3339,8 +3655,11 @@ She lowers her massive head into the surf, her scales cold and wet beneath your 
 > 👤 **Player:**
 > *"Command Staunton to hold strong then fly vhagar back to dragon stone and focus on getting her on track to healed and bring along my main dragon. Should be legendary return now that I control two dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Dragonstone (The Dragonmont)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue (Lvl 6 available) | HP: 40/40 | Gold: 25gp | XP: 14865/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (15 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3382,8 +3701,11 @@ Would you like to level up now?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Open the level-up modal to apply Rogue level 6 benefits (Expertise, Sneak Attack 3d6).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Dragonstone (The Dragonmont)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue (Lvl 6 available) | HP: 40/40 | Gold: 25gp | XP: 14865/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 0/1 (Level 6 pending)** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (15 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3402,8 +3724,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Dragonstone (The Dragonmont)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (15 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3426,8 +3751,11 @@ Queen Rhaenyra and Prince Daemon wait for you at the base of the Great Obsidian 
 > 👤 **Player:**
 > *"Queens audience and narrate everyone’s external and internal reaction. Am i the first Targaryen to control multiple dragons? If so I should be legendary"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (13 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3461,8 +3789,11 @@ As the Queen finishes speaking, a deafening, earth-shaking roar erupts from the 
 God Mode:
 I am not her daughter fix that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (13 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3472,8 +3803,11 @@ Parentage corrected. I have updated the core memories and established a persiste
 God Mode:
 Everyone may be too high level. It should be d&d standards
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (13 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3496,8 +3830,11 @@ All future interactions and rolls involving these characters will now utilize th
 > 👤 **Player:**
 > *"Make rhaenyra level 13 too and let’s continue. I ask for some time to stabilize Vhagar so she can be ready in battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1 (Refreshed)** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (12 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3524,8 +3861,11 @@ Daemon (Lvl 14) remains silent, his gaze shifting between you and the Queen, his
 > 👤 **Player:**
 > *"THINK:How to best convince"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (12 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3537,8 +3877,11 @@ Intelligence Check: 19 vs DC 18 — Success. Your methodical mind deconstructs t
 God Mode:
 Conquerors spark prob too strong let’s brainstorm similar thing that isn’t as powerful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (12 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3558,8 +3901,11 @@ Which of these would you like to implement, or would you like to try a different
 God Mode:
 Let’s do 1) but make it stronger as I level up and at level 20 should be very strong maybe reroll but add 1dN where N is my level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (12 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3580,8 +3926,11 @@ This ability has been added to your features and registered in your resource tra
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Risk-Assessment Briefing (INT) - Use your Intelligence to present a cold, mathematical analysis of Vhagar's current 'Flight-Stamina' vs. Sunfyre's speed. Prove that an immediate sortie has a 70% chance of draconic failure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 14865/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1 (Insight Reroll Available)** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (11 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3608,8 +3957,11 @@ Queen Rhaenyra (Lvl 13) remains silent, her gaze fixed on the spot where your fi
 > 👤 **Player:**
 > *"Explain I can scout and do stuff but we should wait on vhagar. Once she’s healed we win the war no matter how much land we hold. Explain we have more dragons than Aegon the conqueror originally did"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Dragonstone (The Chamber of the Painted Table)** &nbsp;|&nbsp; ⏳ **AC 44, 129 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 47/47 | Gold: 25gp | XP: 15765/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1 (Insight Reroll Available)** &nbsp;|&nbsp; ⚠️ **Normal, Sanctuary (11 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3641,8 +3993,11 @@ As the Queen begins to speak, a second, sharper roar echoes from the Dragonmont.
 > 👤 **Player:**
 > *"Let’s assume I get an official rank now and long rest then time skip as I scout the scorpions or any threats until Vhagar fully restored"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Dragonstone (The Dragonmont Peak)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 16635/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3664,8 +4019,11 @@ Dragonstone is no longer just a fortress; it is the center of a storm that is ab
 > 👤 **Player:**
 > *"THINK:What if I don’t confront scorpions directly? We just go fly and burn some key locations that are weak since Cole has all the scorpions and try to get lords to surrender. We can do this dragonflight strategy and fly vahagar my dragon and one more dragon and use the dragonflict to intimidate lords into surrendering and hurting Cole supply line. Then when weakened and on the move we destroy the scorpions."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Dragonstone (The Dragonmont Peak)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 16635/23000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3677,8 +4035,11 @@ Intelligence Check: 17 vs DC 13 — Success. Your mind, sharp as a Valyrian stee
 > 👤 **Player:**
 > *"Let’s do a dragon flight on those two lords and bring Dameon and the queen and my two dragons. Roll to see intimidation outcomes but it should be strong intimidation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Castle Stokeworth (The Crownlands)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 17535/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3723,8 +4084,11 @@ However, as you bank toward Hayford, the reception is colder. Despite the terrif
 > 👤 **Player:**
 > *"THINK:What if we burn the castle or burn something near important to Hayford?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Castle Stokeworth (The Crownlands)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 17535/23000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3736,8 +4100,11 @@ Intelligence Check: 21 vs DC 13 — Success. Your mind works through the problem
 > 👤 **Player:**
 > *"Propose we burn an unimportant target but something visible. Maybe one tower. Let’s assume since i am the dragon commander they listen to me on dragon tactics but for stuff like this daemon and the queen will consider and decide nromally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Skies above Castle Hayford** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 17535/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3781,8 +4148,11 @@ Yet, as the smoke clears, the white flag does not appear. Instead, a chorus of d
 > 👤 **Player:**
 > *"THINK:Why isn’t he surrendering? Brainstorm a way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Skies above Castle Hayford** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 17535/23000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3794,8 +4164,11 @@ Intelligence Check: 14 vs DC 11 — Success. (INT 16): Your methodical mind deco
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Soot-Singer's Deception (CHA/Deception) - Use 'Minor Illusion' to create the sound of Green horns retreating and the visual of a 'Green' messenger being incinerated in the distance. Convince him the help is never coming.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Skies above Castle Hayford** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 18035/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3824,8 +4197,11 @@ The silence that follows the illusory scream is heavy. Lord Hayford’s rage eva
 > 👤 **Player:**
 > *"signal queen and let her and daemon decide how to surrender and keep. flying my main dragon and vhagar around to keep up pressure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Castle Hayford (The Crownlands)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (07:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 18935/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3863,8 +4239,11 @@ You gain **900 XP** for the tactical pacification of Castle Hayford.
 > 👤 **Player:**
 > *"propose the queen occupies and fortifies then daemon and I scout cole and i use my stealth dragon and let vhagar remain out of sight hidden further back. without supplies cole is in a tough spot and we can scout him and wait for him to make a desperate move and prpose we send our own scouts/assassin types to probe cole"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Castle Hayford (The Crownlands)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 18935/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3896,8 +4275,11 @@ Queen Rhaenyra (Lvl 10) looks from the burning watchtower to your calm, calculat
 God Mode:
 make the queen level 14 too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Castle Hayford (The Crownlands)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 18935/23000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3909,8 +4291,11 @@ Queen Rhaenyra Targaryen has been updated to Level 14. Her mechanical power now 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shadow-Pincer Execution (Synergistic) - Daemon flies 'Bait-Circles' to keep the scorpions pinned, while you drop from Vermithrax to personally lead an assassin-probe of the supply depot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Rosby Woods (Green Supply Depot)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 19835/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3932,8 +4317,11 @@ You gain **900 XP** for the successful logistical shattering of the Rosby host.
 > 👤 **Player:**
 > *"THINK:we have 3 dragons how to best use them? maybe daemon and my main dragon can strafe and cause confusion but stay away from scorpions using guerilla tatics and then when a mistake is made and scorpions are exosed vhagar who has heavier armor i can fly and have her use massive fire to kill scorpions and cole. lets assume vhagar is like level 20 and deals way more fire dmg than most dragons too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Rosby Woods (Green Supply Depot)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 19835/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3945,8 +4333,11 @@ Intelligence Check: 17 vs DC 13 — Success. Your mind, sharp as a Valyrian stee
 > [!NOTE] ⚙️ **Player Choice:**
 > *Operation: The Dragon's Hammer (Synergistic) - Daemon (Caraxes) and Visenya (Vermithrax) strafe the Rosby perimeter to draw all scorpion fire, while Vhagar (Lvl 20) uses her superior armor to ignore small-arms and deliver a 'God-Scale' fire-pass on Cole's command center.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Rosby Woods (Green Supply Depot)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 20835/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3975,8 +4366,11 @@ You gain **1,000 XP** for the successful execution of the Dragon's Hammer and th
 > 👤 **Player:**
 > *"make a circle of fire so no one can escape and command everyone to bring cole otherwise i burn them all, then switch to verimithor and scout for cole too and ask daemon to help. daemon should enjoy my  ruthlessness"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Rosby Woods (Western Ravine Border)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 21735/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 1/3, Sneak Attack: 3d6, Tactical Bond: +3 AC, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4007,8 +4401,11 @@ You gain **900 XP** for the tactical encirclement and the successful tracking of
 > 👤 **Player:**
 > *"circle of fire and intimidate cole and his men to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Rosby Woods (Western Ravine Border)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 22635/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4043,8 +4440,11 @@ You gain **900 XP** for the tactical encirclement and the successful location of
 > 👤 **Player:**
 > *"shadow evasion and have the most convenient dragon burn scorpion and person who shot it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Rosby Woods (Western Ravine Border)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (09:46)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue | HP: 40/40 | Gold: 25gp | XP: 22935/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4070,8 +4470,11 @@ You gain **300 XP** for the successful evasion and elimination of the hidden bat
 > 👤 **Player:**
 > *"have coles men who surrended strip him, disarm him, and gie me the loot and  then tie him up before daemon and i descend to personally accept surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Rosby Woods (Western Ravine)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue (Lvl 7 available) | HP: 40/40 | Gold: 25gp | XP: 23935/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/3 | Sneak Attack: 3d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4107,8 +4510,11 @@ You gain **1,000 XP** for the tactical capture of the Lord Commander of the King
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 7 - Integrate your combat experience and tactical growth immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Rosby Woods (Western Ravine)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue (Lvl 7 available) | HP: 40/40 | Gold: 25gp | XP: 23935/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 1/3 (Level 7 pending) | Sneak Attack: 3d6 (4d6 pending) | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4131,8 +4537,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Rosby Woods (Western Ravine)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue | HP: 47/47 | Gold: 25gp | XP: 23935/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/3 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4146,8 +4555,11 @@ Prince Daemon stands beside you, his eyes fixed on the bound Ser Criston. "The d
 > 👤 **Player:**
 > *"extinguish fire ring, escort the rosby host tto our nearest allies to process surrender, message queen to come meet us there and interrogate cole on the way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Castle Hayford** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue | HP: 47/47 | Gold: 25gp | XP: 23935/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/3 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4182,8 +4594,11 @@ You gain **200 XP** for the successful organization of the prisoner-march and th
 God Mode:
 why am i asking for aemond filght path? Aemond is captured and i have his dragon, huge mistake
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Castle Hayford** &nbsp;|&nbsp; ⏳ **AC 52, 129 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue (Shadow of the Dragon) | HP: 47/47 | XP: 23935/34000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | HD: 5/5 | Spells: L1 1/3**
@@ -4202,8 +4617,11 @@ You are absolutely correct. Prince Aemond Targaryen was captured on Day 43 and i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present the Kingmaker - Formally present the bound Ser Criston Cole to Queen Rhaenyra in the Great Hall of Hayford.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Castle Hayford (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue | HP: 47/47 | Gold: 25gp | XP: 24735/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/3 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4237,8 +4655,11 @@ You gain **800 XP** for the legendary presentation of the Kingmaker and the stab
 God Mode:
 prob i shoudl get massive exp and acclaim since i was key in beating both aemond and cole and not many serious people left against our enemies
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Castle Hayford (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue (Lvl 8 available) | HP: 47/47 | Gold: 25gp | XP: 34735/34000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4260,8 +4681,11 @@ Daemon (Lvl 14) lets out a low, predatory chuckle, his hand resting on the hilt 
 
 i already said this before i'm not her daughter, why did you forget
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Castle Hayford (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue (Lvl 8 available) | HP: 47/47 | XP: 34735/34000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4279,8 +4703,11 @@ You are absolutely correct, and I apologize for the hallucination. Visenya is th
 God Mode:
 Level Up to Level 8 - Choose your ASI or Feat and integrate your legendary status.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Castle Hayford (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue (Lvl 8 available) | HP: 47/47 | Gold: 25gp | XP: 34735/34000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4300,8 +4727,11 @@ You have successfully reached the experience threshold for Level 8. The story is
 > [!NOTE] ⚙️ **Player Choice:**
 > *ASI: +2 Dexterity - Increase Dexterity to 20 (+5). Maximizes your AC, Stealth, and Attack/Damage with finesse weapons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Castle Hayford (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Rogue (Lvl 8 available) | HP: 47/47 | Gold: 25gp | XP: 34735/34000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4324,8 +4754,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Castle Hayford (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 34735/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4339,8 +4772,11 @@ Queen Rhaenyra steps forward, her gaze sweeping from the ruined Kingmaker to you
 > 👤 **Player:**
 > *"take queen and daemon aside and ask them to legimitize me and gie me a noble rank and land, given my accomplishments"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Castle Hayford (Queen's Solar)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 35235/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/2, Sneak Attack: 4d6, Tactical Bond: +3 AC, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4370,8 +4806,11 @@ You gain **500 XP** for this legendary social maneuver, marking the first time y
 God Mode:
 how do ranks in westeros work? i wanna make up some noble ranks if none exist like baron count marquis duke lord paramount king/queen at the end or tell me how they work
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Castle Hayford (Queen's Solar)** &nbsp;|&nbsp; ⏳ **AC 52, 129 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | XP: 35235/48000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | HD: 5/5 | Spells: L1 1/4, L2 2/2**
@@ -4411,8 +4850,11 @@ In Westeros, 'Lord' is a catch-all that often obscures the actual power differen
 
 narrate me asking to be a count or earl."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Castle Hayford (Queen's Solar)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 35235/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4443,8 +4885,11 @@ lord can just be a general name but use those ranks or remember them and make up
 
 I am askingto be a count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Castle Hayford (Queen's Solar)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 35235/48000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4470,8 +4915,11 @@ I have updated the campaign rules to reflect your specific noble rank hierarchy.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the negotiation with Rhaenyra and Daemon with the specific request for the rank of Count.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Castle Hayford (Queen's Solar)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 35235/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4495,8 +4943,11 @@ Daemon (Lvl 14) shifts by the window, the light catching the dark steel of his a
 God Mode:
 redo this scene. count isnt a new title its a place in the established hierarchy and i think the DC shouldnt be too crazy given my accomplishments, let me reroll and use my special ability if needed to reroll
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Castle Hayford (Queen's Solar)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 35735/48000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4517,8 +4968,11 @@ You are correct. In this campaign's established hierarchy, 'Count' is a standard
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the negotiation in the solar with Rhaenyra now considering your legitimization as a Count.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Castle Hayford (Queen's Solar)** &nbsp;|&nbsp; ⏳ **AC 52, 129 AC (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 36235/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4548,8 +5002,11 @@ You gain **500 XP** for successfully shifting the Queen's stance on your legitim
 > 👤 **Player:**
 > *"long rest and time skip and assume our forces consoliadte and bring cole back to dragonstone and someone interrogates cole and aemond or i get to, roll for it, then narrate what happens when I am now introduced as count visenys targaryen of rosby"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Dragonstone (The Painted Table / Dungeons)** &nbsp;|&nbsp; ⏳ **AC 55, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 39735/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/2, Sneak Attack: 4d6, Tactical Bond: +3 AC, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4589,8 +5046,11 @@ You gain **3,500 XP** for the successful conclusion of your legitimization arc a
 > 👤 **Player:**
 > *"Interrogate Aemond instead try trigger his inadequacy as a true Targaryen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Dragonstone (Dungeons - Aemond's Cell)** &nbsp;|&nbsp; ⏳ **AC 55, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 39735/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4628,8 +5088,11 @@ You gain **500 XP** for successfully weaponizing Aemond's deep-seated insecuriti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Blood Claim - Remind Aemond that Vhagar has only ever belonged to the strongest of the blood. Use your 16 Intelligence to recount the history of her riders, proving he was always the outlier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Dragonstone (Dungeons - Aemond's Cell)** &nbsp;|&nbsp; ⏳ **AC 55, 129 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 39735/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4653,8 +5116,11 @@ Aemond’s jaw tightens so hard the sapphire in his eye-socket seems to rattle. 
 God Mode:
 Aemond and I don’t share a father why keep getting it wrong?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Dragonstone (Dungeons - Aemond's Cell)** &nbsp;|&nbsp; ⏳ **AC 55, 129 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 39735/48000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4678,8 +5144,11 @@ I apologize for the confusion. The 'Silver Shadow' is the blood of the Rogue Pri
 God Mode:
 Make sure my mother and father in core memories properly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Dragonstone (Dungeons - Aemond's Cell)** &nbsp;|&nbsp; ⏳ **AC 55, 129 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 39735/48000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4695,8 +5164,11 @@ I have updated the primary core memory regarding your parentage to be explicit a
 
 I continue to deepen the bond and coordination between my two new dragons and help plan for continued war efforts. I propose to queen and king that we keep doing dragonflights and make rosby our main base of operations due to location and we want to get lords surrounding rosby and on the way to kings landing to surrender, then maybe we dragonflight the lannisters or the nearest lord with a lot of wealth and get some lords or lord paramount with massed ground troops. once we have resource and army advantage should be easy to use 8 dragons to get kings landing to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 60, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 41235/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/2, Sneak Attack: 4d6, Tactical Bond: +3 AC, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4736,8 +5208,11 @@ You gain **1,500 XP** for your strategic consolidation and the psychological bre
 > 👤 **Player:**
 > *"long rest and timeskip while this happens. propose we dragonflight all the lords surrounding rosby and in betweeen us and kings landing, then do it on the strongest military lord near us and richest lord. use me, daemon, queen, and the dragonseed who's lord coryls bastard. so should be 5 dragons. if any lord remainds defiant propose to queen and daemon to burn an area of their keep as a warning and consider fully burning their castle like harrenhal 2.0 as a demonstration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 42435/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/2, Sneak Attack: 4d6, Tactical Bond: +3 AC, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4771,8 +5246,11 @@ You gain **1,200 XP** for the strategic consolidation of Rosby and the bold, if 
 > 👤 **Player:**
 > *"reroll using my ability demonstration force"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 54/54 | Gold: 25gp | XP: 42935/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/2, Sneak Attack: 4d6, Tactical Bond: +3 AC, Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4802,8 +5280,11 @@ You gain **500 XP** for using your Conqueror's Insight to salvage the strategic 
 God Mode:
 also stop forgetting queen is level 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 64, 129 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | XP: 42935/48000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 5/5 | Spells: L1 1/4, L2 2/2**
@@ -4824,8 +5305,11 @@ The story remains frozen at 10:10:00 on Day 64 in the Dragonstone solar. Queen R
 > 👤 **Player:**
 > *"say we could do the surgical map approach, but however if the realm realizes we only hit military targets there won't be as much of a deterrent. perhaps one burnt keep is a mercy to scare others into ending the conflict early? either way up to the queen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 42935/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4850,8 +5334,11 @@ Rhaenyra (Lvl 14) stands motionless, her hand tracing the dragon-carved edge of 
 > 👤 **Player:**
 > *"propose that the deterrent is aegon's strategy. he only burnt one keep and did one field of fire and we had mostly peace until now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 42935/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 1/4, L2 2/2, Sneak Attack: 4d6, Tactical Bond: +3 AC, Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4881,8 +5368,11 @@ You gain **800 XP** for a masterful historical synthesis that has shifted the Co
 > 👤 **Player:**
 > *"propose we dragonflight smaller lords surrounding rosby and on the journey to kings landing so if a demonstration is needed it will be small. then perhaps we go to the reach or the strongest undeclared lord around with money"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Dragonstone (The Painted Table)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 42935/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4912,8 +5402,11 @@ You gain **800 XP** for successfully securing a compromise on the Black Council'
 > 👤 **Player:**
 > *"narrate flight of the small lords  using dragonflight me, daemon, queen, seasmoke roll for outcomes and see if anyone doesnt surrender and let us decide what ot do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Above the Crownlands** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 45435/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4939,8 +5432,11 @@ You gain **2,500 XP** for executing a bloodless strategic victory and securing t
 > 👤 **Player:**
 > *"THINK:who has the most wealth the reach or the stormlands or would be the most useful?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Above the Crownlands** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 45435/48000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4952,8 +5448,11 @@ Intelligence Check (Planning): 18 vs DC 12 — Success. Your sharp, tactical min
 > 👤 **Player:**
 > *"propose we fortify rosby and consolidate the newly surrendered lords and have them mobilize our troops then dragonflight the reach and explain why its the most useful target. if any dragon attacks us its suicide anyway"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Dragonstone (Council Chamber)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 46835/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4983,8 +5482,11 @@ You gain **1,400 XP** for the successful mobilization of the Crownlands lords an
 God Mode:
 we shouldnt enable faction management because they are the queens troops not mine, i can make a faction later
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Dragonstone (Council Chamber)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 46835/48000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 8/8 | Spells: L1 1/4, L2 2/2**
@@ -5006,8 +5508,11 @@ The story remains frozen at 18:25:00 on Day 64. You are in the Council Chamber w
 > 👤 **Player:**
 > *"propose intercept lannister gold with just my two dragons and seasmoke and if agreed i try to flirt/romance the seasmoke rider who's lord corlys bastard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Dragonstone (Council Chamber)** &nbsp;|&nbsp; ⏳ **AC 64, 129 AC (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 25gp | XP: 46835/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5039,8 +5544,11 @@ He exits the chamber with a haste that is almost a retreat, leaving you alone in
 > 👤 **Player:**
 > *"long rest, train addam, counts audit, hold a feast and build influence among the surrounding lords and my staff. enable faction management if i turly have 1500 troops, maybe i am a super count because i have troops and dragons and mmilitary power. narrate outcomes and it should be easy DC because i already won this roll but you lost the response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 65, 129 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) (Lvl 9 available) | HP: 54/54 | Gold: 850gp | XP: 48235/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/2, Sneak Attack: 4d6, Tactical Bond: +3 AC, Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5071,8 +5579,11 @@ As you stand on the battlements of Rosby, looking toward the distant glow of Kin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 9 - Open the level-up modal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 65, 129 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Shadow of the Dragon) (Lvl 9 available) | HP: 54/54 | Gold: 850gp | XP: 48235/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 4d6 | Tactical Bond: +3 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5095,8 +5606,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 65, 129 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 850gp | XP: 48235/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5119,8 +5633,11 @@ The 'Wing-Shadow Step' is yours now—the ability to simply cease being where yo
 > 👤 **Player:**
 > *"long rest and time skip for this. formalize blackwater pact and focus on making favorable trade deals to increase my income and calcualte what my monthly and daily income is hould be as the count of rosby and intimidating all surrounding lords, hunt down some bandits or get them to surrender and enlist, kill them if they dont agree to make trade and my areas stable. time skip until i get new orders or go to queen with blackwater pact if that happens first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Castle Rosby (Solar)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 49435/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Sneak Attack: 5d6, Tactical Bond: +4 AC, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5158,8 +5675,11 @@ You gain **1,200 XP** for a masterclass in regional stabilization and military a
 God Mode:
 lets assume i have my own private levies. how many sodliers, spies, elites do i have vs queen vs all allied black forces vs all allied green forces
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Castle Rosby (Solar)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 49435/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5181,8 +5701,11 @@ All changes to troop ownership have been persisted. The story remains frozen at 
 God Mode:
 i should have some elite soldiers and dragons are like super elites, shouldnt be counted among normal elites, elite are like level 5+ forces
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Castle Rosby (Solar)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 49435/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5209,8 +5732,11 @@ The story remains frozen at 10:00:00 on Day 79 in your Rosby solar.
 God Mode:
 is 1500 too much to personally have? seems a bit too much since queen only has 3200? maybe 500 should be mine and the 1000 are officially queen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Castle Rosby (Solar)** &nbsp;|&nbsp; ⏳ **AC 79, 129 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 54/54 | XP: 49435/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | HD: 5/5 | Spells: L1 4/4, L2 2/2**
@@ -5234,8 +5760,11 @@ State and core memories have been updated. The story remains frozen at 10:00:00 
 God Mode:
 dragons should be their own bucket and count for a lot more faction power than an ormal elite, like in theory 8 dragons might be worth more than 50k ground troops
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Castle Rosby (Solar)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 54/54 | Gold: 1,456gp | XP: 49435/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | HD: 5/5 | Spells: L1 4/4, L2 2/2**
@@ -5262,8 +5791,11 @@ State and core memories have been updated. The story remains frozen at 10:00:00 
 > 👤 **Player:**
 > *"present queen with blackwater pact and first approach daemon for support and then ask again for  rhe reach dragonflight and reroll if i fail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5297,8 +5829,11 @@ Victory! The strategic bottleneck has been broken. You gain **1,500 XP** for sec
 God Mode:
 lets add a jealousy mechanic. the other targaryens except daemon and even the queen will start to see me as a  threat as i grow in power because i look the most royal/valyrian out of all of them and have two dragons and rapid ascent in power, queen wont truly act against me or betray me whiule i remain loyal but may try to limit my power or discourage more power. she should still make reasonable decisions but perhaps after we win the war she'll find me the most threatening and prob her kids should find me threatening and targearyens on both sides. Daemon will like it though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5325,8 +5860,11 @@ State and core memories have been updated to persist these behavioral shifts. Th
 God Mode:
 lets assume i even look more royal than daemon or the queen etc and lets assume i am daemon favourite child now and since iam legitimized i am actually in his succession by age which may threaten his other daughters and what are their ages again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5357,8 +5895,11 @@ State and core memories have been updated to persist these shifts. The world rem
 > 👤 **Player:**
 > *"resume council with new narrative but retain that the queen gave us the reach dragonflight permission. propose we take my two dragons, daemon, seasmoke, and another dragonseed so they can train with us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5390,8 +5931,11 @@ Propose Rotational Screen: Suggest that Seasmoke and Silverwing join the initial
 Leverage Daemon's Authority: Have Daemon formally take responsibility for the seeds' discipline, using his veteran status to override the Queen's fear of their incompetence.
 The Harrenhal Precedent: Argue that a partial flight invites a prolonged war, while five dragons ensure a 'Single Day' victory that returns the host to Dragonstone faster than a defensive hold."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5421,8 +5965,11 @@ Rhaenyra remains motionless, her eyes tracing the lines of your face. Behind her
 God Mode:
 isnt aemond being captured in core memories?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000**
@@ -5455,8 +6002,11 @@ The world remains frozen at 11:45:00 on Day 79.
 God Mode:
 did you see it in the game state or core memories we sent you?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | XP: 50935/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 5/5 | Spells: L1 4/4, L2 2/2**
@@ -5466,8 +6016,11 @@ Yes, I see the capture recorded in the **Core Memory Log** and the **NPC Data** 
 God Mode:
 do you see an llm directive reminding you about aemon?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Castle Rosby (Great Hall)** &nbsp;|&nbsp; ⏳ **AC 79, 129 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | XP: 50935/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 5/5 | Spells: L1 4/4, L2 2/2**
@@ -5487,8 +6040,11 @@ Both the directive and the memory are active in my context. The story remains fr
 > 👤 **Player:**
 > *"ask the queen what the maximum demonstratio nwe can do against the reach lords is and joke that i assume i cant just burn the whole keep, but its a serious joke because ia m really asking. roll for outcome. then longrest, yield and prepare the march, we will position our forces near vhagar and keep caraxes wit hhim and i will scout ahead using stealth dragon mode for any enemy dragons. if no concerns we will do a dragonflight over the reach lords"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Border of the Reach (The Goldroad)** &nbsp;|&nbsp; ⏳ **AC 80, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5515,8 +6071,11 @@ However, as you cross the border into the Reach, a flash of reflected light catc
 God Mode:
 how come this scene event isnt in the narrative ⚡ Scene Event: companion_request - Daemon flies Caraxes low beside Vermithrax during the scouting flight, signaling for a brief mid-air parley about the 'serious joke' at the council. (Actor: Prince Daemon Targaryen)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Border of the Reach (The Goldroad)** &nbsp;|&nbsp; ⏳ **AC 80, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 1,456gp | XP: 50935/64000**
@@ -5543,8 +6102,11 @@ Because your scouting roll (Stealth 36) was successful but the 'Success Streak' 
 > 👤 **Player:**
 > *"silence mirrors with dragonfire and have my reach spies scout ahead. any enemy supply lines we encounter we will have surrender and take their supplies or burn them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Border of the Reach (The Goldroad)** &nbsp;|&nbsp; ⏳ **AC 80, 129 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 1,556gp | XP: 50935/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5572,8 +6134,11 @@ However, your spy network in the Reach reports back with less success. The 65 op
 > 👤 **Player:**
 > *"long rest and lets time skip until we get to the reach, assume i b uild relatioship with father because we both share fire and blood personality, kill or have any enemies surrender along the way, gain loot from enemies and remmeber to give me loot for lannister train, and stop the time skip if somethign happens or we reach the Reach. At the reach we will do a 3 dragon flight and see their reaction but if there are scorpions we will stay out of range"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **The Mander (Overlooking Bitterbridge)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 3,845gp | XP: 51585/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5602,8 +6167,11 @@ Below you, the three dragons—Vermithrax, the ancient Vhagar, and the serpentin
 > 👤 **Player:**
 > *"reroll the intimidation using my conqueror ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **The Mander (Overlooking Bitterbridge)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 3,845gp | XP: 51585/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5619,8 +6187,11 @@ Prince Daemon’s laughter echoes through your mental link, sharp and jagged. "T
 God Mode:
 make sure you didnt forget my loot from hitting the supply trains and looting surrendered folks etc, lets assume i send surrendered folks to wherever the nearest ally is
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **The Mander (Overlooking Bitterbridge)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 3,995gp | XP: 51905/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5654,8 +6225,11 @@ The world remains frozen at 08:05:00 on Day 83 at the Mander.
 God Mode:
 my reroll is suppsoed to have 1d9 since i am leel 9 dont forget
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **The Mander (Overlooking Bitterbridge)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 3,995gp | XP: 52105/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5685,8 +6259,11 @@ The narrative remains frozen at 08:05:00 on Day 83. When you return to story mod
 God Mode:
 also i dont think we should have telepathy?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **The Mander (Overlooking Bitterbridge)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 3,995gp | XP: 52105/64000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | HD: 9/9 | Spells: L1 4/4, L2 2/2**
@@ -5714,8 +6291,11 @@ The world remains frozen at 08:05:00 on Day 83. When you return to story mode, y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the siege of Bitterbridge with Lord Caswell's resolve successfully shaken.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **The Mander (Overlooking Bitterbridge)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 3,995gp | XP: 52105/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Conqueror's Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5738,8 +6318,11 @@ As you bank Vermithrax into a holding pattern, Prince Daemon (Lvl 14) banks Cara
 > 👤 **Player:**
 > *"compromise. send dragonfire around in the air above but dont truly burn aything. use all 3 dragons so its a sky of fire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **The Mander (Overlooking Bitterbridge)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 3,995gp | XP: 52105/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Conqueror's Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5767,8 +6350,11 @@ Lord Caswell (Lvl 6) collapses to his knees. The defiant signal-flag he held dro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Occupy and Secure (Synergistic) - You land to accept the keys while Daemon's knights seize the scorpions - the keep is fully under Black control within minutes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 3,995gp | XP: 53705/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Conqueror's Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5796,8 +6382,11 @@ As you reach for the keys, a sharp, black silhouette cuts across the artificial 
 > 👤 **Player:**
 > *"demand the lord go and find who sent the raven, and start integrating bitterbridge troops into our army, and demand half of the lord bitterbridge assets because he was slow to surrender, in parallel use my stealth to find the maester and interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 3,995gp | XP: 53705/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5829,8 +6418,11 @@ You don't use steel. You simply loom out of the shadows, your Valyrian features 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Ledger & Purge Loyalists (Synergistic) - You find the true ledger while Daemon 'purges' the keep of those who loosed the raven - ensure the wealth is seized while the threat is neutralized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 6,676gp | XP: 55305/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5852,8 +6444,11 @@ You gain **1,600 XP** for the total strategic securing of Bitterbridge and the c
 > 👤 **Player:**
 > *"bring the proofto the lord and say tehre should be a punishment for deceiving me, ask him why he tried something so silly when i am right here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 6,676gp | XP: 55805/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5887,8 +6482,11 @@ Subvert the Mander Lords: Use the Lannister paymaster as 'living proof' of Green
 
 force the lord to answer why he tried somethign so foolish"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 6,676gp | XP: 57305/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5922,8 +6520,11 @@ A Rosby outrider gallops into the courtyard, his face pale. "My Lady! The messen
 
 time skip a few days as we consolidate our forces at bitterbridge then we dragonflight on surrounding lords and do sky of fire on them to see who we intimidate into surrendering. Then we decide what to do with the lords who dont cave and send raven to the queen asking for authroization of dragon usage to be quick and powerful but sae the most live soverall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 9,276gp | XP: 58905/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Conqueror's Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5945,8 +6546,11 @@ Daemon (Lvl 14) stands beside you, his eyes fixed on the southern horizon where 
 > 👤 **Player:**
 > *"THINK:what noble rank is caswell? if he's a duke could he make me a count in some of his lands too?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 6,676gp | XP: 58905/64000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5962,8 +6566,11 @@ do another gold train intercept
 
 then invite all the lords who surrendered to bitterbridge to host them and do diplomacy. Say they must support the war effort with 20% of their net worth but if they genuinely support the side with 8 dragons they may see their fortunes rise and gain lands from those who resist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 9,276gp | XP: 60505/64000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5996,8 +6603,11 @@ While you debated with the lords, your spies in the lower town apprehended a sta
 God Mode:
 lets assume that westeros uses the knight baron count marquis duke archduke titles itnerchangeably with wstoeri themed ones and archdukes are lord paramounts
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 9,276gp | XP: 60505/64000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6018,8 +6628,11 @@ This convention has been added to your campaign directives and core memories to 
 
 then look for the gold train again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 9,276gp | XP: 60505/64000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6047,8 +6660,11 @@ Frustrated by the diplomatic stalemate, you summon Vermithrax. The dragon's char
 > 👤 **Player:**
 > *"lets use my reroll on this 1d20+7 = 10 vs DC 18 -"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 9,276gp | XP: 62105/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6074,8 +6690,11 @@ You gain **1,600 XP** for breaking the diplomatic stalemate through tactical lev
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer the 'Resister's Tithe' - Promise the lords that the 20% they pay now will be repaid with the lands and assets of Lord Footly and any other lord who refuses to surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue | HP: 61/61 | Gold: 9,276gp | XP: 62105/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6104,8 +6723,11 @@ A messenger from Horn Hill has arrived, claiming that Lord Alan Tarly has mobili
 > 👤 **Player:**
 > *"integrate the forces of the surrendered lords and march south but scout ahead with all 3 dragons and do a dragonflight and sky of fire to see if footly surrenders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Tumbleton (Approach)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 9,276gp | XP: 63385/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6134,8 +6756,11 @@ However, the 'Information Leak' from Bitterbridge has borne bitter fruit. As you
 > 👤 **Player:**
 > *"THINK:what if we use vhaghar as a shield and just burn all the scorpions and all the castle walls but dont kill eveyrone, other dragons will strafe with fire behind vhagar and her level 20 skin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Tumbleton (Approach)** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 9,276gp | XP: 63385/64000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6147,8 +6772,11 @@ Intelligence Check: 20 vs DC 9 — Brilliant. Your analytical mind, sharpened by
 > 👤 **Player:**
 > *"vhagar shield and just use vhagar and the other dragons to fully burn all the castle walls and scoprions along with anyting else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Tumbleton** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) (Lvl 10 available) | HP: 61/61 | Gold: 9,276gp | XP: 64985/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6183,8 +6811,11 @@ You circle back, the heat of the destruction rising to meet you in the night air
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 10 - Apply Rogue level 10 benefits immediately, including a new Ability Score Improvement or Feat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Tumbleton** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Shadow of the Dragon) (Lvl 10 available) | HP: 61/61 | Gold: 9,276gp | XP: 64985/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Conqueror's Insight: 0/1 (Level 10 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6205,8 +6836,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Tumbleton** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 9,276gp | XP: 64985/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6218,8 +6852,11 @@ Lord Footly stands near the ruins of his gatehouse, his sword pointed at the gro
 God Mode:
 shouldnt i have more spells did you forget to give me my spells?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Tumbleton** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 9,276gp | XP: 64985/85000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6237,8 +6874,11 @@ Your total spell list is now accurately synchronized with D&D 5e Level 10 Rogue 
 
 Lets make sure you have our forces grow with the newly integrated reach forces but they shold be less loyal intiially too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Tumbleton** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 10,776gp | XP: 67085/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6272,8 +6912,11 @@ then do this and use vhagar to shield any scorpions as usual
 
 Strike & Secure (Synergistic): Visenya leads Vhagar and Vermithrax in the night-strike while Daemon and the spies execute the purge in Tumbleton - destroying the enemy's hope and their signals simultaneously."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Tumbleton / Cockleshent Crossing** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 10,776gp | XP: 70109/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6303,8 +6946,11 @@ You gain **3,024 XP** for the masterful coordination of the night-strike and int
 > 👤 **Player:**
 > *"burn half of the men but keep the gold safe, then ask the other half to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Cockleshent Crossing** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 10,776gp | XP: 70609/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6335,8 +6981,11 @@ You gain **500 XP** for forcing the Lannister vanguard into a diplomatic corner.
 > 👤 **Player:**
 > *"accept parley on dragonback of vhagar and have my other dragon close"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Cockleshent Crossing** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 15,776gp | XP: 72709/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6369,8 +7018,11 @@ However, the 'Traitor's Signal' from Tumbleton finds its mark. As you prepare to
 > 👤 **Player:**
 > *"burn half hte mutineers and have daemon and spies secure gold and have my new lanister forces encircle mutineers and stabilize things too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Cockleshent Crossing** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 15,776gp | XP: 73209/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6390,8 +7042,11 @@ The mutiny is not yet dead, but it is bleeding. The 15,776 gold pieces under you
 > 👤 **Player:**
 > *"cast suggestion lay down arms and if needed use my stealth rogue combat abilities and personally execute leaders of mutineers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Cockleshent Crossing** &nbsp;|&nbsp; ⏳ **AC 83, 129 AC (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 15,776gp | XP: 75309/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6433,8 +7088,11 @@ It doesn't matter. The sight of their leader kneeling and their champions fallin
 > 👤 **Player:**
 > *"integrate the captured army and bring them all back to our main base,  long rest, itnerrogate the commanders/officers for loyalty over next few days and do my best to do carrot/stick and maintain loyalty. then for the original surrendered lords demand the 20% and spread rumors about the field of fire 2 that consumred the lannister host as stick and as carrot explain i already took all the gold and lands from that other reach lord and burned his castle walls so I can definitely repay their investment. Also take hostages from all the lords"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Bitterbridge** &nbsp;|&nbsp; ⏳ **AC 87, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 18,776gp | XP: 75309/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6455,8 +7113,11 @@ Bitterbridge is no longer just a camp; it is a seat of power. You have integrate
 > 👤 **Player:**
 > *"upgrde to shadow keep and just bring the 3 dragons to highgarden by themselves and do dragonflight and field of fire and if they dont surrender ask for parley"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 13,776gp | XP: 77829/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6493,8 +7154,11 @@ You gain **2,520 XP** for the successful fortification of Bitterbridge and the i
 > 👤 **Player:**
 > *"conquerors ultimatim but do carrot and stick. say they will be rewarded if they surrender quick and we have 8 dragons and will win anyway"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 13,776gp | XP: 78329/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6524,8 +7188,11 @@ You gain **500 XP** for the diplomatic ultimatum and strategic pressure.
 > 👤 **Player:**
 > *"reroll this 2d20kh1+5 = 18 vs DC 20 - Failure (The Conqueror's Ultimatum to Highgarden) using my conqueror ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 13,776gp | XP: 80429/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6558,8 +7225,11 @@ Lord Lyonel Tyrell flinches as if struck. The 'Field of Fire' rumors, your dual-
 > 👤 **Player:**
 > *"land all 3 dragons with daemon and me to accept their surrender and if they refuse they'd get destroyed so should intimidate them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) | HP: 61/61 | Gold: 13,776gp | XP: 82949/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6598,8 +7268,11 @@ You gain **2,520 XP** for the masterful intimidation and seizure of the Reach's 
 
 in private give the carrot to lady tyrell and lord tyrell. Say that if they cooperate we can give the hostage back after the war, they can have some lands/wealth from any who resist us, and I am unmarried and perhaps would entertain marrying one of the tyrells if they ahve someone suitable and they would become an invincible house as I am a targaryen and the first in history of westerose with two dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) (Lvl 11 available) | HP: 61/61 | Gold: 23,776gp | XP: 86099/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6634,8 +7307,11 @@ You have surpassed the experience required for Level 11. Your legend has reached
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 11 - Unlock Divine Tier features: Legendary Resistance and Sky-Stalker (manifesting draconic wings).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Shadow of the Dragon) (Lvl 11 available) | HP: 61/61 | Gold: 23,776gp | XP: 86099/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3 | Sneak Attack: 5d6 | Tactical Bond: +4 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6656,8 +7332,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 23,776gp | XP: 86099/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6671,8 +7350,11 @@ Lord Lyonel and his mother stare at you, their own ambitions momentarily silence
 God Mode:
 lets have my wings hidden by default
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 23,776gp | XP: 86099/100000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6682,8 +7364,11 @@ Administrative Change: Visenya's draconic wings (Sky-Stalker) are now set to hid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Split the Shadows (Synergistic) - You fly north to incinerate the fleet while Daemon stays to receive the Reach lords—showing the world that the Shadow can strike and rule in two places at once.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Mander River (North of Highgarden)** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 23,776gp | XP: 86899/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6707,8 +7392,11 @@ You gain **800 XP** for the strategic coordination and the initiation of the riv
 > 👤 **Player:**
 > *"vhagar came with me too, use herarmor against scorpions and just burn the fleet until they surrender and use minor illusion to draw away fire to oand cast fear to make them more likely to surrender too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Mander River (North of Highgarden)** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 23,776gp | XP: 88399/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6741,8 +7429,11 @@ You gain **1,500 XP** for the decisive neutralization of the Ironborn threat and
 > 👤 **Player:**
 > *"seize flagship then escort the ships to bitterbridge, remember daemon is still in high garden"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Mander River (Heading North)** &nbsp;|&nbsp; ⏳ **AC 97, 129 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 23,776gp | XP: 88899/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6776,8 +7467,11 @@ You gain **500 XP** for the tactical capture of the Ironborn fleet and the Admir
 > 👤 **Player:**
 > *"secure shadow keep docks, then interrogate admiral, then focus on the main officers/leaders of ironborn and any recently captured bitterbridge forces and use carrot/stick to enforce loyalty, then long rest and fly back to high garden to receive all the lords"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 98, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 23,776gp | XP: 90399/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6814,8 +7508,11 @@ do gilded court until th queen arrives
 
 lets also assume all my accomplishments have made me legendary and people start to whisper that I am the true dragon queen which can cause trouble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 90999/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6847,8 +7544,11 @@ You gain **600 XP** for the recruitment of the mercenary host and the preliminar
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shadow's Justice - Arrest the Lord of Honeyholt and his conspirators before the Queen lands; use your Rogue skills to stage a public 'audit' that exposes their hidden gold and treason simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 92499/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6885,8 +7585,11 @@ You gain **1,500 XP** for the surgical removal of the Green intelligence cell.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Soot-Singer's Peace - Cast 'Hypnotic Pattern' over the rioting knights to neutralize the threat non-lethally; use your High Valyrian voice to command the rest to kneel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 92999/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6905,8 +7608,11 @@ You gain 500 XP for the non-lethal suppression of the Highgarden riot.
 > 👤 **Player:**
 > *"take the gold, tie up the conspiracy leaders, then sovereigns reception and publically kiss her ring so there's no doubt to my loyalty. narrate everyones reactions, then presetn teh tied up conspiracy leaders to her as a gift"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 45,776gp | XP: 93499/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6941,8 +7647,11 @@ You gain **500 XP** for the public affirmation of loyalty and the presentation o
 
 then regardless of the outcome narrate what happens at her welcome feast. despite me kissing the ring there should be some true dragon whispers and no one really cares if I am a bastard anymore"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 93499/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6962,8 +7671,11 @@ Regardless of the outcome, the welcome feast is a masterclass in atmospheric ten
 > 👤 **Player:**
 > *"stay at this feast and narrate people talking to us and narrate how the queen handles the lords/ladies etc and make her lore appropriate to the tv show and book"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 93499/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6992,8 +7704,11 @@ You gain **1,000 XP** for the masterly navigation of the Highgarden court and th
 > 👤 **Player:**
 > *"keep the feast night going, talk to lady tyrell and ask which are the most impressive sons of tyrell."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 94799/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7024,8 +7739,11 @@ You gain **300 XP** for the masterly use of social subtext and the deepening of 
 > 👤 **Player:**
 > *"ask more about each tyrell scion but dont commit to meeting one yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 95099/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7059,8 +7777,11 @@ You gain **300 XP** for the masterly use of social subtext and the completion of
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dutiful Vanguard - Immediately join the Queen at the high seat; present your Stepstones assessment with such technical perfection that she is forced to grant you the mission to be rid of the 'Dragon Queen' whispers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 96299/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7091,8 +7812,11 @@ You gain **1,200 XP** for the technical briefing and securing the Stepstones mis
 God Mode:
 What was the queen personality and rulership competence like in the official lore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 96299/100000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7122,8 +7846,11 @@ In official lore, Rhaenyra is structurally and psychologically primed to feel th
 > 👤 **Player:**
 > *"THINK:How can I reassure her I am loyal?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Highgarden** &nbsp;|&nbsp; ⏳ **AC 105, 129 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 96299/100000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7135,8 +7862,11 @@ Wisdom (Insight) Check: 10 (Reliable Talent) + 8 = 18 vs DC 16 — Success. Your
 > 👤 **Player:**
 > *"Depart for step stones and recommend seasmoke or a few dragon seeds come with me for training and daemon and queen stay in high garden to consolidate power. Regardless of answer I’ll take some of my new integrated forces and mercenaries and leave some for the queen and take the new ironborn fleet I have and meet up with lord corlys and his fleet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **The Mander** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 97299/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7167,8 +7897,11 @@ You gain **1,000 XP** for the masterly mobilization and securing Addam of Hull a
 > 👤 **Player:**
 > *"Scout vanguard without my dragon since I can just fly and be invis then go meet lord corlys and Adam and present intel. Let’s assume I hide my flying ability for now because it would really stand out since no one could fly except perhaps legends of Valyria. Let’s assume I look more Valyrian than any of the existing Targaryen’s right now and lord corlys internally thinks I’m the true power behind the throne too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 98199/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 2/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7200,8 +7933,11 @@ You gain **900 XP** for the solo infiltration and intelligence gathering.
 God Mode:
 My wings aren’t invisible let’s just say they usually are retracted
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 98199/100000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7211,8 +7947,11 @@ Administrative Correction: Visenya's 'Sky-Stalker' wing mechanic has been update
 > 👤 **Player:**
 > *"Corlys should see me as way more than dsmeons daughter at this point since I’m wining the war. We discuss war plans with him and addamm and assume Alynn and baela are here too and we can use baela dragon ."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Aboard the Sea Snake, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) | HP: 68/68 | Gold: 30,776gp | XP: 99699/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7244,8 +7983,11 @@ You gain **1,500 XP** for securing the Admiral's total confidence and formulatin
 > 👤 **Player:**
 > *"Follow the plan but let’s have me descend with vhagar shielding my main drsgon and burning capital ship and scorpions. Then once scorpions are down we basically win"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) (Lvl 12 available) | HP: 68/68 | Gold: 30,776gp | XP: 101499/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7282,8 +8024,11 @@ You gain **1,800 XP** for the decisive destruction of the Triarchy vanguard and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 12 - Open the level-up modal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue (Shadow of the Dragon) (Lvl 12 available) | HP: 68/68 | Gold: 30,776gp | XP: 101499/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 1/2 | Sneak Attack: 6d6 | Tactical Bond: +4 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7304,8 +8049,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 101499/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7319,8 +8067,11 @@ The blockade is broken. The Triarchy is blinded. The Stepstones are yours to sha
 > 👤 **Player:**
 > *"I have 4 dragons here since baela and addam have dragons and I have 2z I use them and do silver pardon to intimidate surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 103499/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7351,8 +8102,11 @@ You gain **2,000 XP** for forcing the total surrender of the Triarchy vanguard.
 > 👤 **Player:**
 > *"Intercept the galley while others process surrender. Use stealth and ambush to kill leaders and recover anything I can"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 105099/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7376,8 +8130,11 @@ You gain **1,600 XP** for the surgical interception and recovery of the Triarchy
 > 👤 **Player:**
 > *"Interrogayeband fortify and have my spies scout the vulture or anyone else remaining"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 106, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 107099/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7411,8 +8168,11 @@ You gain **2,000 XP** for securing the signal-codes and establishing the Bloodst
 > 👤 **Player:**
 > *"Send a false signal that the Triarchy is winnnnf but needs help and to send both dragons and everything  they have. Then long rest and then fly invisible and scout the incoming enemy and see who came. Integrate the triarchy crew with my mercenaries and corlys men so they can’t easily betray"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 109099/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7437,8 +8197,11 @@ You gain **2,000 XP** for the masterly deception and scouting of the Green royal
 > 👤 **Player:**
 > *"THINK:What if I try to lure the dragons away from my fleet into ambush. I then have the other three dragons attack and kill them."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 109099/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7450,8 +8213,11 @@ Intelligence Check (Planning): 18 vs DC 12 — Success. Your tactical mind, hone
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bait the King, Blind the Admiral (Synergistic) - You lead the 'Broken Wing' bait south while Corlys's fleet uses the signal-mirrors to jam the Royal Fleet’s communications in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **The Gullet, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 111099/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7475,8 +8241,11 @@ You gain **2,000 XP** for the masterly isolation of the Green royalty and the su
 > 👤 **Player:**
 > *"Execute the pincer ambush. I will attack first with vhagar so our other two dragons are at less risk and come later. I’ll also fly myself and cast fear on Aegon and also the sight of my flying Arifin’s should shock and intimidate them both while my dragons focus on Aegon and try to kill him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **The Gullet, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 113499/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7510,8 +8279,11 @@ You gain **2,400 XP** for the masterly execution of the 'Dragon-Cage' ambush and
 God Mode:
 Fix my spells I should have level 3 spells now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **The Gullet, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 113499/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7521,8 +8293,11 @@ Administrative Summary: Fixed spell list for Level 12 Rogue (Shadow of the Drago
 > 👤 **Player:**
 > *"Cast hypnotic pattern on Aegon and if it fails reroll using conqueror dice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **The Gullet, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (11:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 113499/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Flying (Sky-Stalker) | Exhaustion: 0 | Inspiration: No**
@@ -7547,8 +8322,11 @@ Sunfyre, feeling his rider's will evaporate, lets out a confused, mournful trill
 > 👤 **Player:**
 > *"Capture king and pin prince and in parallel i will fly and try to capture aegon and move him off his dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **The Gullet, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 114499/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Flying (Sky-Stalker) | Exhaustion: 0 | Inspiration: No**
@@ -7583,8 +8361,11 @@ You gain **1,000 XP** for the messy but successful capture of King Aegon II.
 > 👤 **Player:**
 > *"Princes submission and in parallel tell sunfyre to surrender or I drop aegon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **The Gullet, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 115499/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Flying (Sky-Stalker) | Exhaustion: 0 | Inspiration: No**
@@ -7619,8 +8400,11 @@ You gain **1,000 XP** for the total submission of the Green royalty.
 > 👤 **Player:**
 > *"Order Daeron and sunfyre to come to bloodstone and surrender. Escort them there with the dragons and first fly by the royal fleet and tell them the war is over because I have Aegon and either surrender or we burn them with 6 dragons. Let’s assume I first bring Aegon back to Vhagar and tie him up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) | HP: 75/75 | Gold: 30,776gp | XP: 117899/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7657,8 +8441,11 @@ You gain **2,400 XP** for the total strategic victory and the surrender of the R
 > 👤 **Player:**
 > *"Obsidian dungeons then help coyrls integrate the royal fleet. Then feel out both dragons and see if I can claim them since their riders captured"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) (Lvl 13 available) | HP: 81/81 | Gold: 30,776gp | XP: 120299/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Insight: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7694,8 +8481,11 @@ Resistance: The dragon mourns his rider, but your 20 Intelligence resonance has 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 - Open the level-up modal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) (Lvl 13 available) | HP: 75/75 | Gold: 30,776gp | XP: 120299/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3 (Level 13 pending) | Sneak Attack: 6d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7711,8 +8501,11 @@ Your mother's journals lie open on the obsidian table, the ink shimmering in the
 > 👤 **Player:**
 > *"Choose recommended options and now big now is my main dragon vs vhagar and how strong"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue (Shadow of the Dragon) (Lvl 13 available) | HP: 83/83 | Gold: 30,776gp | XP: 120299/120000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7735,8 +8528,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Bloodstone, The Stepstones** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 30,776gp | XP: 120299/140000** &nbsp;|&nbsp; ⚠️ **Legendary (Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7750,8 +8546,11 @@ Below, the harbor of Bloodstone is a forest of captured masts. Fifty Green galle
 > 👤 **Player:**
 > *"Send ravens to all that the war is over and hire additional mercenaries to solidify my integrated forces and control the areas between bloodstone and rosby where possible. I will establish a grand trade route. Have my commanders act as envoys to the triarchy and tell them to surrender and vssslize themselves to me and Queen or 6 dragons will come for them. Then regardless of outcome fly the 6 dragons to kings landing and meet the queen there to accept the very likely surrender. Time skip a few days and I keep building my control over my two new dragons . Once it’s shown I can control 4 dragons there may be ontological shock and existential fear from everyone because it’s never been heard before in history."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **King's Landing** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 24,776gp | XP: 120299/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7776,8 +8575,11 @@ You feel the strain in your mind (Bonding: 24 vs DC 25). Controlling four dragon
 > 👤 **Player:**
 > *"Reroll this one using my conqueror dice 2d20kh1+6 = 21 vs DC 22 - Failure (Intimidating the Triarchy into vassalization and let’s assume I don’t use my wings unless explicitly say I do and I just flee normally on dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **King's Landing** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 24,776gp | XP: 120299/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7795,8 +8597,11 @@ You turn your gaze toward Queen Rhaenyra, who remains on the Dragonpit dais. She
 > 👤 **Player:**
 > *"Remember I control 4 dragons the other two are not controlled by me. I ask the queen for her orders and tell her not to worry I don’t desire the iron throne. I recommend I go and parley with Otto since she shouldn’t risk herself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **King's Landing** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 24,776gp | XP: 120299/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7826,8 +8631,11 @@ Rhaenyra exhales, a slow, shaky breath that betrays the exhaustion of her reign.
 > 👤 **Player:**
 > *"Go parley with Otto and see what he wants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **King's Landing (Mud Gate)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 30,776gp | XP: 120299/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, Sneak Attack: 7d6, Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7859,8 +8667,11 @@ He never finishes the sentence. Your success streak has finally snapped the tens
 > 👤 **Player:**
 > *"Let’s assume daeron no longer rides his dragon because tessarion belongs to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **King's Landing (Mud Gate)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 30,776gp | XP: 123899/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7894,8 +8705,11 @@ You gain **3,600 XP** for the total surrender of King's Landing and the subversi
 > 👤 **Player:**
 > *"Use major image and vhagar to defend king and get mainndragon burn sentry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **King's Landing (Mud Gate)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 30,776gp | XP: 123899/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7930,8 +8744,11 @@ On the ground, Queen Rhaenyra Targaryen watches the incineration of the sentry. 
 > 👤 **Player:**
 > *"Land and secure and recommend mercy for Otto and alicent since he surrendered quick. Maybe just 25% of Hightower assets and 75% of his personal assets since he helped Aegon take throne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 24,776gp | XP: 123899/140000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7965,8 +8782,11 @@ You gain **2,400 XP** for the capitulation of the capital.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Parley Queen, Purge Holdfast (Synergistic) - You engage Rhaenyra in a high-stakes debate about the execution while ordering your Rosby elites to storm the Maegor's Holdfast to find the missing gold in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 34,776gp | XP: 123899/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -7996,8 +8816,11 @@ Then, the complication shatters the parley (Complication Triggered). As your men
 > 👤 **Player:**
 > *"THINK:Why would I lose influence from executing Aegon? Any way I can turn it to my advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 34,776gp | XP: 123899/140000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8009,8 +8832,11 @@ Intelligence Check: 24 vs DC 18 — Success (Brilliant Quality). Your mastermind
 > 👤 **Player:**
 > *"Jaceyrys pivot and don’t wait for her respond and rush to his aid to rescue him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **White Sword Tower** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 34,776gp | XP: 128699/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8045,8 +8871,11 @@ The Queen sees you standing over her rescued son. She sees the 'Silver Shadow' d
 > 👤 **Player:**
 > *"The heir intercession and ask Jace to try to convince his mother that killing Aegon makes no sense and makes the blacks lose legitimacy and ask daemon  his thoughts let’s assume he’s here too and ask baela too. Assume baela and addam here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **White Sword Tower** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 34,776gp | XP: 128699/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8079,8 +8908,11 @@ Baela stands near Moondancer, her fierce features sharp with the same bloodlust 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Financial Ultimatum - Propose that Aegon’s life be traded for the location of the 15,000 hidden dragons and the return of the Royal Treasury; frame it as a 'Mercy of the Gold'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 34,776gp | XP: 128699/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8109,8 +8941,11 @@ She pulls the dagger back an inch, though her eyes remain hard. She looks at Ott
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Grand Audit - Publicly interrogate Otto Hightower in front of the dragons; demand he reveal the location of the hidden gold and the names of the Lannister financiers immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 34,776gp | XP: 128699/140000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8142,8 +8977,11 @@ Rhaenyra exhales, her manic fury finally grounding into the cold, sharp reality 
 > 👤 **Player:**
 > *"Ghost signal and delegate Maegor holdfast to my elites and others"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 34,776gp | XP: 130699/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8164,8 +9002,11 @@ You gain **2,000 XP** for the successful luring of the Treasury and the occupati
 > 👤 **Player:**
 > *"Gilded salvage and others will handle the other crisis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **King's Landing Docks** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 49,776gp | XP: 135199/140000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8198,8 +9039,11 @@ You gain **4,500 XP** for the recovery of the Royal Treasury and the final socia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Suppress Fire, Extract Queens (Synergistic) - You lead the fire-suppression pass while ordering Jacaerys to lead the ground-extraction of Alicent and Helaena in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) | HP: 83/83 | Gold: 49,776gp | XP: 135199/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8227,8 +9071,11 @@ The synergistic coordination collapses under the weight of the chaos (Coordinati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rescue Queens, Break Tower (Synergistic) - You dive for the Queens while ordering Daemon to use Caraxes to bring down the firebreak-tower the moment you signal your extraction in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) (Lvl 14 available) | HP: 83/83 | Gold: 49,776gp | XP: 140199/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8260,8 +9107,11 @@ You gain **5,000 XP** for the synergistic salvation of the capital and the captu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 14 - Open the level-up modal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue (Shadow of the Dragon) (Lvl 14 available) | HP: 83/83 | Gold: 49,776gp | XP: 140199/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: No Spells Yet (Level 14 pending)** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8282,8 +9132,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **King's Landing (Red Keep Courtyard)** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 140199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8297,8 +9150,11 @@ Queen Rhaenyra steps forward, her boots crunching on the ash. She looks at the i
 > 👤 **Player:**
 > *"Gilded coronation but don’t ask to be hand"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **The Iron Throne Room** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 140199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8322,8 +9178,11 @@ You gain **3,000 XP** for the masterful orchestration of the Gilded Coronation a
 > 👤 **Player:**
 > *"I am not the official leader so I can’t do these things unless I override the queen and it might cause trouble. I can’t make decisions for the whole kingdom.  Instead i  privately ask the queen if I can become an archduke and lord paramount of the eastern sea since I hold rosby and surrounding lands and now the steppstones and triarchy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **The Iron Throne Room** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 140199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8352,8 +9211,11 @@ She leans forward, the weight of the crown appearing suddenly visible. "I owe yo
 > 👤 **Player:**
 > *"Use conqueror spark to reroll lord paramount rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **The Iron Throne Room** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 140199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 0/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8380,8 +9242,11 @@ She turns her gaze toward the empty nave, her jaw setting in a line of High Valy
 God Mode:
 The reroll needs to be given a 1d14 bonus due to my level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **The Iron Throne Room** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 140199/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8405,8 +9270,11 @@ State and memory updated to reflect the successful political maneuver.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene with the corrected outcome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **The Iron Throne Room** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 140199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8433,8 +9301,11 @@ She leans forward, her expression shifting from RESISTING to a cautious, yieldin
 > 👤 **Player:**
 > *"Demonstrate golden road and say it’s too late as we already are in the Targaryen era. We have 10 dragons and I have all the land already I just want legitimacy. With my personal lands and forces and all our dragons and the iron throne the Targaryens are stronger than ever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **The Iron Throne Room** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 140199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8462,8 +9333,11 @@ Rhaenyra remains motionless on the throne, her gaze fixed on the sea of gold in 
 > 👤 **Player:**
 > *"Demonstrate golden road and say it’s too late as we already are in the Targaryen era. We have 10 dragons and I have all the land already I just want legitimacy. With my personal lands and forces and all our dragons and the iron throne the Targaryens are stronger than ever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **The Iron Throne Room** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 30,776gp | XP: 140199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 0/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8495,8 +9369,11 @@ The logic is a tectonic hammer (Persuasion: 30 vs DC 22). Rhaenyra looks down fr
 > 👤 **Player:**
 > *"Long rest and narrate the victory feast after her coronation and she announces I am the new lord paramount or archduke of the eastern sea and master of dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 30,776gp | XP: 142699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8525,8 +9402,11 @@ You gain **2,500 XP** for the total political victory and the formalization of y
 God Mode:
 Master of dragons is a position on the small council like master of ships and let’s also assume I am extremely polarizing since I have 4 dragons now and there are rumors I can fly. There will always be whispers that I should be queen and people start calling me the dragon god. Brainstorm some unique challenges due to my massive power especially with 4 dragons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | XP: 142699/165000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | Spell Slots L3: 3 (unbounded) | HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 0/3**
@@ -8549,8 +9429,11 @@ Administrative Summary: Brainstorming completed for the 'Dragon God' status. You
 God Mode:
 Thought I was supposed to have more than 30k gold?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 142699/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8570,8 +9453,11 @@ I like these too and let’s assume politically many want to marry me and many w
 3. **The Sovereign’s Shadow (Political):** Rhaenyra sits on the throne, but you hold the hardware. Every decree she makes is scrutinized for your silent approval. This creates a 'Legitimacy Vacuum' where the lords look to the Master of Dragons rather than the Queen, accelerating Rhaenyra’s political jealousy.
 4. **The Mutation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 142699/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8592,8 +9478,11 @@ Administrative Summary: The political and social landscape has been updated to r
 > 👤 **Player:**
 > *"Return to story and don’t end the victory feast yet. Let’s have dialog from everyone present and all our allies and some other lords should be around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 142699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8628,8 +9517,11 @@ But as you lean into your **Blindsense**, the celebratory noise thins into a pre
 > 👤 **Player:**
 > *"Politely compliment and talk to Jace and all of the queens sons. Jace should have mixed feelings of inferiority to me but also gratitude since I saved him and stopped his mom murdering Aegon and I am all powerful and extremely beautiful and should feel very atttacged too and do all men to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 142699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8662,8 +9554,11 @@ You feel the collective heartbeat of the men around you spike—a mixture of des
 > 👤 **Player:**
 > *"Lean into dragon god persona but don’t directly confirm flying powers then go talk to my dissenters and ask how i can handle their concerns"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 142699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8690,8 +9585,11 @@ Resistance: Stokeworth is terrified of your power, but his ideological commitmen
 God Mode:
 Since I rule the triarchy Rosby and step stones explain my monthly and daily gold income revenue and expenses and all the forces as my disposal and soldiers spies and elites
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 142699/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8731,8 +9629,11 @@ You have 12,145 total personnel (12,000 soldiers, 65 spies, 80 elites) and 4 dra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept the Informant - Use your 20 Dexterity and Cunning Action to pursue the 'Poor Fellow' servant through the service tunnels before he can reach the Sept of Remembrance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Service Tunnels, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 143199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8763,8 +9664,11 @@ You gain **500 XP** for the successful high-stakes interception and infiltration
 God Mode:
 Is that too much revenue? Apparently the kings landing treasury was only 15k? How do the economics of this land work make a wholistic system
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Service Tunnels, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 143199/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8797,8 +9701,11 @@ This is a central narrative pillar of your 'Dragon God' status. Rhaenyra has the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit and Convert (Synergistic) - You use 'Charm Person' to make him view you as a benevolent deity while extracting the names of his contacts in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Service Tunnels, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 145699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8838,8 +9745,11 @@ You gain **2,500 XP** for the total mental subversion of the Faith's informant a
 God Mode:
 Wait every day my income is 5k and the whole treasury was 15k we seized? It seems weird what’s the income of the iron throne and other factions then?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Service Tunnels, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 145699/165000**
@@ -8876,8 +9786,11 @@ This is why your position is so 'Polarizing' (Political Constraint: Sovereign Sh
 God Mode:
 Is it really realistic double check source and tell me weekly and daily income of top 10 factions in the world. It could make sense but I want to calibrate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Service Tunnels, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 145699/165000**
@@ -8912,8 +9825,11 @@ You have 12,145 total personnel (12,000 soldiers, 65 spies, 80 elites) and a wee
 God Mode:
 Do those dragon expenses make sense? Do they really eat that much? The queen has even more than my 4 dragons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Service Tunnels, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **AC 107, 129 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | XP: 145699/165000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | Spell Slots L3: 3 (unbounded) | HD: 12/12 | Spells: L1 3/4, L2 2/3, L3 0/3**
@@ -8949,8 +9865,11 @@ A dragon's expense is determined by its **Size Category** and **Metabolic Tier**
 > 👤 **Player:**
 > *"Go back to the feast and integrate the watcher with my spies and have my spies handle things then more dialogue with the dissenting lords and talk to any other interesting lords and probe who would be the most useful to marry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 146199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -8992,8 +9911,11 @@ You gain **500 XP** for the containment of the Faith leak and the subversion of 
 > 👤 **Player:**
 > *"Let’s assume the triarchy leaders are here too. In theory they belong to iron throne now but they only see me as the leader and normally wouldn’t have submitted to a Targaryen but since I am a dragon god with 4 dragons and rumored to be able to fly they thought it was better to submit to me and gain my protection and power versus be destroyed or conquered violently. Narrate dialogue from all of them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 146199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9027,8 +9949,11 @@ You gain **500 XP** for the successful subversion of the Triarchy's leadership.
 > 👤 **Player:**
 > *"Say to the triarchy I want elite gloomstalker assasin types for spies scouting and assassinations as needed. Like faceless men or retainer and a great spy network"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 146199/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9057,8 +9982,11 @@ However, the intensity of your private parley has not gone unnoticed. **Lord Cor
 > 👤 **Player:**
 > *"Let’s assume she didn’t hear about these assassins and spy network. In order the triarchy to start rooting out those disloyal to me in the triarchy cities and rewarding those who are and doing loyalty tests and I’ll later audit things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **AC 107, 129 AC (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 49,776gp | XP: 146199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Silver Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9092,8 +10020,11 @@ You gain **500 XP** for the successful enforcement of the Archducal Purge across
 > 👤 **Player:**
 > *"Have my spies look for +3 equipment upgrades for all my slots and after a few days or a week see what they find and look for valyrian steel weapons for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **The Shadow-Keep, Rosby** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 147199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9125,8 +10056,11 @@ You feel the weight of your new equipment—a tangible manifestation of your eco
 > 👤 **Player:**
 > *"Reroll using conqueror dice for Valyrian steel and if we find it give my blade a cool name"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **The Shadow-Keep, Rosby** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 152199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 0/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9156,8 +10090,11 @@ You gain **5,000 XP** for the recovery of a legendary Valyrian steel artifact an
 > 👤 **Player:**
 > *"Long rest then private audience with lord corlys and negotiate mutually beneficial trade deals and ask him if he’s enjoying the stable triarchy situation now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 152449/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9198,8 +10135,11 @@ You gain **250 XP** for the strategic trade alignment with House Velaryon.
 > 👤 **Player:**
 > *"Narrate additional discussion with corlys over a feast with him and rhaenys and their family. See what they want. Rhaenys should be a supporter of me in general and enjoy seeing me rise as a female"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 152449/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9244,8 +10184,11 @@ You gain **250 XP** for the domestic alignment with House Velaryon.
 > 👤 **Player:**
 > *"THINK:Think about marriage alliance with corlys. Anyone he has eligible? I would be the undisputed ruler of the eastern sea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | XP: 152449/165000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | Spell Slots: L1 3/4, L2 2/3, L3 0/3 | Spark: 1/1**
@@ -9257,8 +10200,11 @@ Intelligence Check: 23 vs DC 16 — Success (Sharp). Your mind dissects the Vela
 > 👤 **Player:**
 > *"Explain I am seeking a marriage candidate in a marriarchal marriage. Ask them what they think and if they had suggestions. See if anyone proposes addam"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 152699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, Spark: 1/1, Reliable Talent: Active, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9307,8 +10253,11 @@ You gain **250 XP** for the successful proposal of the Matriarchal Union and the
 > 👤 **Player:**
 > *"Let’s sssume the feast isn’t private or against any rules and just threatens her. I tell the page to send word will come and return to the dinner for now. I say to corlys and rhaenrya that addamm could be interesting as a match but I do want them to legitimize him first of course"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 153199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9354,8 +10303,11 @@ You gain **500 XP** for the successful negotiation of Addam's legitimization.
 > 👤 **Player:**
 > *"Gilded embrace and say this is just a normal marriage discussion to see if any mutual interest nothing formal or binding yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 153449/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9387,8 +10339,11 @@ You gain **250 XP** for the successful management of the Queen's jealousy.
 > 👤 **Player:**
 > *"Ask her for her opinion on who I should marry. Let’s assume as a Targaryen officially she is obligated to recommend a match to improve our power but unofficially she is worried about my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 153449/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9432,8 +10387,11 @@ You gain **250 XP** for probing the Queen's strategic recommendations.
 God Mode:
 Stop forgetting she isn’t my blood mother but I was legitimized and officially adopted by Daemon so I am her daughter in spirit as she is head household
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 153449/165000**
@@ -9443,8 +10401,11 @@ Administrative Correction: Acknowledged. I have updated the core memory log and 
 > 👤 **Player:**
 > *"Jace shouldn’t have an official reason to block my match but let’s assume unofficially he desires me even if engaged to baela. He puts himself forward as a candidate to his mothers horror"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 153699/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9489,8 +10450,11 @@ You gain **250 XP** for managing the dynastic fallout of Jacaerys's declaration.
 > 👤 **Player:**
 > *"Say since we’re family we might as well discuss in the open. Explain I wouldn’t be opposed to Jace and if it’s him I would do the normal patriarchal marriage because he does have the name Targaryen yet of course lord corlys and baela would need something to make up for it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 154199/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9541,8 +10505,11 @@ You gain **500 XP** for the masterful tactical pivot to the Jacaerys-match.
 > 👤 **Player:**
 > *"See what the reaction is. Explain we are just discussing things and no binding  decision needs to be made. Flirt with Jace a bit to show there’s mutual interest. Let’s assume that while there are benefits the queen will ultimately reject it because it puts me too close to the throne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 154449/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 2/3, L3 0/3, Spark: 1/1, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9585,8 +10552,11 @@ You gain **250 XP** for navigating the dynastic rupture and securing Jacaerys's 
 > 👤 **Player:**
 > *"THINK:Who truly is the best match without Jace what’re the pros/cons of each ? Maybe addam with the naval dominance and another dragon rider means I’ll have 5 dragons and is the best one? In some ways a dragon is more important than anything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | XP: 154449/165000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 1/1 | Spell Slots: L1 3/4, L2 2/3, L3 0/3 | Spark: 1/1**
@@ -9598,8 +10568,11 @@ Intelligence Check: 20 vs DC 16 — Success (Sharp). (INT 20) Your mind dissects
 > 👤 **Player:**
 > *"Ask rhaenyra on her thoughts on an old town marriage and bringing the greens back into the fold but subservient. Perhaps this would truly stabilize the realm. Maybe Dareon etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | XP: 154449/165000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | Spell Slots L3: 3 (unbounded) | HD: 12/12 | Spells: L1 3/4, L2 2/3, L3 0/3**
@@ -9609,8 +10582,11 @@ The story continues...
 > 👤 **Player:**
 > *"Ask rhaenyra on her thoughts on an old town marriage and bringing the greens back into the fold but subservient. Perhaps this would truly stabilize the realm. Maybe Dareon etc. Ask her what her plan is for the greens will she execute the usurper and rivals for her throne or do mercy if mercy a marriage could be useful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 154449/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 2/3, L3 0/3, Spark: 1/1, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9643,8 +10619,11 @@ You gain **250 XP** for probing the Queen's intent for the captives.
 > 👤 **Player:**
 > *"Pivot and say if she’s truly leaning toward execution perhaps Addam is the best choice? We secure the eastern sea and the velaryon are allied with both of our houses. Explain that I need to start having children to secure my line otherwise if I die it could be chaotic. Offer to officially make addam regent if I die so it seems legitimate. Say he needs to become a velaryon first though even if our children will be Targaryen. Should be easy SC becuse the queeen will feel like she steered me away from two more dangerous marches"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 154699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9678,8 +10657,11 @@ You gain **250 XP** for successfully navigating the marriage-pivot and securing 
 God Mode:
 Let’s pause these complications and do this religious thing later it’s happening too often
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 154699/165000**
@@ -9689,8 +10671,11 @@ Administrative Summary: Religious complications and the 'Abomination' narrative 
 > 👤 **Player:**
 > *"Say if we are agreed let me speak to addam first. Also propose alyn is legitimatized too since he’s the brother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 154699/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9723,8 +10708,11 @@ You gain **250 XP** for securing the dual legitimization and the Queen's final a
 > 👤 **Player:**
 > *"Let’s assume addam was around but doing something else. I go speak to him now and explain the situation and see if this is  a marriage he wants. Explain it’s matriarchal. He should be massive attracted to me and honored but also intindimated"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **The West Balcony, Velaryon Quarters** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 155149/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9759,8 +10747,11 @@ You gain **200 XP** for securing Addam's voluntary submission to the Matriarchal
 > 👤 **Player:**
 > *"Give him a kiss and bring him back to the feast hall and announce that he has accepted. Corlys and his wife should be overjoyed and the queen feeling like she won a victory even if any gain makes her uncomfortable she knew I had to marry and at least this one feels more contained"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 155149/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9805,8 +10796,11 @@ You gain **500 XP** for the total social victory over Addam and the strategic co
 > 👤 **Player:**
 > *"Propose to the queen addam and I go to the city and handle the religious turmoil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **The Velaryon Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 155149/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 0/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9841,8 +10835,11 @@ You gain **500 XP** for the total strategic surrender of the Queen and the autho
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Manifestation (Major Image) - Arrive at the Sept of Remembrance and use 'Major Image' to manifest the original Visenya and Aegon behind you in the smoke, reframing the riot as a holy gathering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **The Square of the Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 156299/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9875,8 +10872,11 @@ You gain **150 XP** for the tactical landing and the successful intimidation of 
 > 👤 **Player:**
 > *"reroll major image with spark and start to sublty imply my own divinity to conveert populace, eventually i want to be official deity that people can see and pave the way so try to lay roundation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **The Square of the Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 156799/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 2/3, L3 2/3, Spark: 0/1, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9909,8 +10909,11 @@ You gain **500 XP** for the successful Divine Manifestation and the initial conv
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Healing of the Soot - Dismount and walk into the crowd; use 'Prestidigitation' and subtle soot-manipulation to 'Purify' the diseased or injured among the front ranks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **The Square of the Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 157549/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9943,8 +10946,11 @@ You gain **750 XP** for the legendary 'Healing of the Soot' and the successful c
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Amnesty (Persuasion) - Offer the envoy a public 'Amnesty' for the Faith's earlier dissent; use your 'High Valyrian Allure' to convince him that his survival depends on joining your new order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **The Square of the Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 158049/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 2/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -9975,8 +10981,11 @@ You gain **500 XP** for the Sovereign Amnesty and the conversion of the envoy.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Shield (Mirror Image) - Allow the assassin's blade to 'pass through' you using 'Mirror Image'; let the crowd see the weapon fail against your 'Spectral Form' before he is seized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **The Square of the Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 158549/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10009,8 +11018,11 @@ You gain **500 XP** for the successful manifestation of the Divine Shield and th
 > 👤 **Player:**
 > *"convince the  envoy to publically proclaim he is in my camp now and tell the assassin to join me and if it works  say he's a convert. Say i respect the 7 but I have my own special valryian powers and hint at divinity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **The Square of the Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 158799/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10045,8 +11057,11 @@ You gain **250 XP** for the successful recruitment of the first convert and the 
 > 👤 **Player:**
 > *"have the assassin publically name who hired or commanded him to the crowd and bring my crowd to a new area/building i control and keep hitning at divinity until they start toake it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **The Temple of the Shadow, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 159799/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10085,8 +11100,11 @@ You gain **1,000 XP** for the public exposure of the Green conspiracy and the to
 
 THen use my new assassin to help me find the green assassins/cells and larys if he's around and capture him and kill enemy assassins personally and bring addam to help and use my elite wraiths or elite gloomstalker/assassins i ahve"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **A Hidden Cellar, Street of Silk, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 44,776gp | XP: 161299/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10118,8 +11136,11 @@ You gain **1,500 XP** for the successful conversion of the city's narrative and 
 > 👤 **Player:**
 > *"do a measured audit. purge some safehouses and secure intelligence and wealth and in parallel personally go and look for larys, but dont let it be too public of a massacre so maybe half purge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **The Red Keep Tunnels / King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 54,776gp | XP: 162299/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10146,8 +11167,11 @@ You gain **1,000 XP** for the successful audit of the city's wealth and the flaw
 God Mode:
 Make sure you gave me good and intelligence for this win and remember to give me daily gold
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **The Red Keep Tunnels / King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 54,776gp | XP: 162799/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10163,8 +11187,11 @@ Administrative Summary:
 God Mode:
 What’s my weekly and daily gold now? Probably should be higher once I marry addam and have full velaryon alliance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **The Red Keep Tunnels / King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 54,776gp | XP: 162799/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10202,8 +11229,11 @@ Your marriage to Addam and the full integration of Velaryon naval assets has fun
 > 👤 **Player:**
 > *"Convince gold cloaks look other way with gold and utilize their loyalty to daemon my father"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **The Red Keep Tunnels / City Watch Barracks** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 52,776gp | XP: 163049/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 1/3, L3 2/3, Spark: 0/1, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10235,8 +11265,11 @@ You gain **250 XP** for the successful subversion of the City Watch and the stab
 > 👤 **Player:**
 > *"Fly to the queen before she can see the raven and explain the situations l and that quieting them was the best course of action and let’s assume daemon is there and approves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Queen's Private Chambers, The Red Keep** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 52,776gp | XP: 163799/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 2/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10274,8 +11307,11 @@ You gain **750 XP** for the successful political pre-emption and the securing of
 > 👤 **Player:**
 > *"Long rest and let’s time skip and assume I tour the triarchy with addam and plan our wedding and focus on making triarchy stable and loyal to me for all 3 cities and add my military forces and spies there to hold order and i purge any pirates who don’t swear to me across the whole eastern sea with my 5 dragons. Narrate what happens and what happens with the queen in kings landing. Let’s assume her competence at ruling same as lore but she now has gold so it’s not as hard of a situation and see how she handles rulershipnand the remaining green forces let us both roll a few times for outcomes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Tyrosh, The Triarchy** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 54,776gp | XP: 166799/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Long Rested | Exhaustion: 0 | Inspiration: No**
@@ -10306,8 +11342,11 @@ Larys Strong has exploited this friction (Rhaenyra Investigation: 20 vs DC 22 - 
 God Mode:
 Give me increased gold income and influence and legendary rep from pirate purge and title pirate bane
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Tyrosh, The Triarchy** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) | HP: 90/90 | Gold: 54,776gp | XP: 166799/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10327,8 +11366,11 @@ FIRST SENTENCE: God mode NEVER advances the narrative; the story is frozen while
 > 👤 **Player:**
 > *"Go report to the queen and ask if I can handle it with force and handle larys and the greens my way. Let’s assume i also have the title blood dragon because of how ruthless I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **The Queen's Solar, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) (Lvl 15 available) | HP: 90/90 | Gold: 54,776gp | XP: 168799/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10361,8 +11403,11 @@ Daemon snorted, a sharp, metallic sound. "The girl offers you a clean blade, Rha
 God Mode:
 You forgot to give me gold in time skip
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **The Queen's Solar, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) (Lvl 15 available) | HP: 90/90 | Gold: 54,776gp | XP: 170299/165000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow) | Exhaustion: 0 | Inspiration: No**
@@ -10394,8 +11439,11 @@ I have corrected the oversight regarding your accumulated wealth and intelligenc
 > 👤 **Player:**
 > *"THINK:Brainstorm peaceful way to handle mob and silent way to kill or capture larys and his supporters"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **The Queen's Solar, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) (Lvl 15 available) | HP: 90/90 | Gold: 54,776gp | XP: 170299/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 7d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10407,8 +11455,11 @@ You stand by the window of the Queen's solar, the orange glow of the distant Riv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 15 - Unlock Sneak Attack (8d6) and Slippery Mind (WIS save proficiency) while increasing Vermithrax's HP to 370.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **The Queen's Solar, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue (Shadow of the Dragon) (Lvl 15 available) | HP: 90/90 | Gold: 54,776gp | XP: 170299/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3 (Level 15 pending) | Sneak Attack: 7d6 | Tactical Bond: +5 AC** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10429,8 +11480,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **The Queen's Solar, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 54,776gp | XP: 170299/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10451,8 +11505,11 @@ You look out at the city, and through your mental link, you feel the World-Eater
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Theater - Use Major Image at the Sept of Remembrance to stage a 'Visitation' that declaring the Shadow protects the city, converting the mob peacefully.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 54,776gp | XP: 171799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, Spark: 1/1, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10486,8 +11543,11 @@ You gain **1,500 XP** for the successful execution of the 'Divine Theater' and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Consolidation - Stay at the Sept; force the High Septon's envoys to recognize you as the 'Protector of the Faith' and distribute the 500k gold as 'Alms of the Shadow'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 54,776gp | XP: 172299/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10519,8 +11579,11 @@ You gain **500 XP** for the partial consolidation of the Faith and the distribut
 > 👤 **Player:**
 > *"Reroll using spark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 54,776gp | XP: 172299/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10551,8 +11614,11 @@ The kneeling mob, so recently pacified, surges to its feet in a wave of renewed 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Reflex - Use your 'Conqueror's Insight' (if available) or an Uncanny Dodge reaction to physically intercept the bolt or knock Barthold out of the way before it strikes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 172299/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Insight: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10581,8 +11647,11 @@ A complication has triggered: **The False Martyr.** The Smallfolk do not see you
 > 👤 **Player:**
 > *"heal th victim and have my troops and dragon shield me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 172299/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10618,8 +11687,11 @@ You turned your attention to the Septon, your hands reaching for the black-feath
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Cautery - Use a subtle application of Prestidigitation to warm your dagger to a searing heat, then use your Medicine skill again to cauterize the wound in front of the crowd.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 174799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10654,8 +11726,11 @@ You gain **2,500 XP** for the legendary conversion of the capital's populace.
 > 👤 **Player:**
 > *"purge the belfry and get my wraiths to look for larys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 175799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10693,8 +11768,11 @@ You gain **1,000 XP** for the successful purge of the Green snipers and the tota
 > 👤 **Player:**
 > *"prophet inquest and focus on the population to cement my divinity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 177799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10738,8 +11816,11 @@ The Smallfolk stir, their fanatical devotion to you clashing with their ingraine
 > 👤 **Player:**
 > *"go privately talk to the gold cloak leaders. explain i need to do this to stabilize the city and say if they are loyal to daemon they would understand"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 178799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10773,8 +11854,11 @@ You gain **1,000 XP** for the successful subversion of the royal guard and the p
 > 👤 **Player:**
 > *"THINK:How to reduce DC prophets signature"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 114, 129 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 178799/195000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10786,8 +11870,11 @@ Intelligence Check: 21 vs DC 12 — Masterful. Your tactical mind, honed by the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Enforced Witness (-2 DC) - Publicly command the subverted Gold Cloak captains to act as 'Royal Notaries' for the signing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **The Sept of Remembrance, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 178799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, Spark: 0/1, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10817,8 +11904,11 @@ You gain **1,500 XP** for the masterly theological and military consolidation of
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Procession - Lead the ten thousand devotees and the subverted Gold Cloaks in a midnight march to the Red Keep; present the signed decree and the 'Miracle' as a gift to Rhaenyra.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **The Gates of the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 180799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10851,8 +11941,11 @@ You gain **2,000 XP** for the legendary procession and the successful subversion
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Prophet's Amnesty - Publicly grant 'Divine Amnesty' to the Gold Cloaks and the Smallfolk in Rhaenyra's name, forcing her to accept the new order as her own idea.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **The Gates of the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 180799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, Spark: 0/1, Blindsense: 10ft** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10888,8 +11981,11 @@ The chant is taken up by the ten thousand devotees, a rolling thunder of 'Viseny
 > 👤 **Player:**
 > *"accept their praise and redirect them to say the targaryen house is divine"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **The Gates of the Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 181799/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10923,8 +12019,11 @@ You gain **1,000 XP** for the masterly tactical redirection of a fanatical popul
 > 👤 **Player:**
 > *"I should already have the lord paramount title official, lets assume i keep them enthusiastic about targaryen as gods and tell them to spread the word and disperse then long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Maegor's Holdfast, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 52,776gp | XP: 183099/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Blood Dragon | Exhaustion: 0 | Inspiration: No**
@@ -10949,8 +12048,11 @@ You stand and walk to the balcony. Below, the city is eerily quiet, but it is a 
 > 👤 **Player:**
 > *"Instruct my elite spies and agents to keep spreading Targaryen religion and hire 1000 spies/agents for this then in parallel use my rogue skills and elite wraiths to search for larys or his people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Maegor's Holdfast, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 27,776gp | XP: 186099/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -10982,8 +12084,11 @@ You gain **3,000 XP** for the masterly establishment of a city-wide intelligence
 > 👤 **Player:**
 > *"Mud gate breach reroll using spark if fail and remember to add 1d15 to roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Mud Gate Sub-levels, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 27,776gp | XP: 191099/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11020,8 +12125,11 @@ You gain **5,000 XP** for the capture of a primary antagonist and the decapitati
 > 👤 **Player:**
 > *"Knockout larys tell wraiths to search suicide tooth and reveal cloaked asset"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Mud Gate Sub-levels, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 27,776gp | XP: 194099/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11068,8 +12176,11 @@ You gain **3,000 XP** for the surgical neutralization of Larys Strong and the re
 > 👤 **Player:**
 > *"Extract to discreeet safe nearby location and interrogate both separately"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) | HP: 97/97 | Gold: 27,776gp | XP: 194099/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11103,8 +12214,11 @@ You gain **2,000 XP** for the successful extraction and the critical intelligenc
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Kraken Audit - Leave the interrogation to your elite Wraiths; take Vermithrax and personally intercept the 'Gilded Kraken' cog before it can slip past the Velaryon blockade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Blackwater Bay, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) (Lvl 16 available) | HP: 97/97 | Gold: 27,776gp | XP: 195599/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11133,8 +12247,11 @@ You gain **1,500 XP** for the masterly detection of the disguised treasury vesse
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 16 - Hone your skills or increase your attributes to Level 16 before resolving the salvage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Blackwater Bay, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) (Lvl 16 available) | HP: 97/97 | Gold: 27,776gp | XP: 195599/195000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3 (Level 16 pending)** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11146,8 +12263,11 @@ The smoke of the 'Gilded Kraken' is frozen in the air as you momentarily pull yo
 > 👤 **Player:**
 > *"+2 cha and auto pick rest finish level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Blackwater Bay, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Rogue (Shadow of the Dragon) (Lvl 16 available) | HP: 104/104 | Gold: 27,776gp | XP: 195599/195000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11168,8 +12288,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Blackwater Bay, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 195599/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11183,8 +12306,11 @@ The *Autumn Harvest*—the 'Gilded Kraken'—groans as its hull splits under the
 > 👤 **Player:**
 > *"Dragons anchor and assume I brought my other 3 dragons to help too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Mudflats of the Hook, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11224,8 +12350,11 @@ You gain **3,500 XP** for the legendary five-dragon salvage and the successful r
 God Mode:
 My dragons should be verimithor vhagar sunfrye tessarion and seasmoke if addam around
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Mudflats of the Hook, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | XP: 199099/225000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | Spell Slots L3: 2 (unbounded) | HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -11240,8 +12369,11 @@ Administrative Summary: Dragon nomenclature and roster corrected.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Compromise - Publicly welcome the Velaryons to assist; offer Corlys 10% of the salvage as a 'Finders Fee' while you keep the ledgers and the bulk of the gold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Mudflats of the Hook, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11274,8 +12406,11 @@ You gain **1,000 XP** for the diplomatic stabilization of the Velaryon alliance 
 God Mode:
 Shouldn’t I have millions of gold?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Mudflats of the Hook, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | XP: 199099/225000** &nbsp;|&nbsp; ✨ **Faction Gold: 1,902,800 | Personal Gold: 27,776 | Conqueror's Insight: 0/1**
@@ -11302,8 +12437,11 @@ If you intended for the Triarchy gold to remain in your treasury, or if you wish
 > 👤 **Player:**
 > *"Interrogate larys and try demoralize him about gold and have addam take some gold and deliver rest to queen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11336,8 +12474,11 @@ As the gold is hauled away, you pull a chair close to Larys, the light of the gu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer the 'Sovereign Pardon' - Tell Larys he can survive as your Spymaster in the Reach if he hands over the encryption keys for his network today.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11366,8 +12507,11 @@ He is testing the depth of your sovereignty, looking for the cracks in your loya
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Lannister Leverage - Leave Larys to stew; go to Tyland and demand the 'Cipher-Key' for the Caswell ledgers he authorized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11397,8 +12541,11 @@ You gain **500 XP** for the successful extraction of the Lannister cipher-key.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Spider's End - Return to Larys and show him that Tyland has already talked; use the cipher-key as the final blow to force his total submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11432,8 +12579,11 @@ A faint, high-pitched whistle begins to emanate from a hidden cavity in his jaw�
 God Mode:
 Make Clara act more character. Usually he will switch to the stronger side. He might betray me or do his own thing, but it’s fair that he directly resist.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **Faction Gold: 1,815,300 | Personal Gold: 27,776 | Conqueror's Insight: 0/1**
@@ -11448,8 +12598,11 @@ Administrative Summary: Behavioral profile for Ser Larys Strong (interpreted fro
 God Mode:
 Let’s add more challenge to th campaign too. Let’s add more challenge of the campaign basically as I get stronger, I want everybody and other factions to start feeling more threatened. We can call this a dissonance mechanic but this time I hide the distance from me so I don’t know how threatened other people are and eventually they’ll start working against me with spies are in the shadows and if it starts to get even bigger, it’ll become a world war. We can call this like a grand Crusade, and they feel existential threat because they see me as a living God so we can call this faction the God killer faction let’s not make the queen Ramirez or or any of the Targaryen‘s officially joined the faction unless I betrayed them first, so like Daman or the queen shouldn’t join that fact, but they’ll try to contain me. Daman will never try to contain me, but the queen will try to contain me. You won’t officially betray me unless you know there’s some crazy forcing function.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | XP: 199099/225000** &nbsp;|&nbsp; ✨ **Faction Gold: 1,815,300 | Personal Gold: 27,776 | Conqueror's Insight: 0/1**
@@ -11466,8 +12619,11 @@ Administrative Summary: 'Dissonance Mechanic' and 'God-Killer Faction' initializ
 God Mode:
 At the highest level of Grand Crusade, let’s trigger the gods of themselves to start to work against me and if nothing happens by level 25 let’s initiate a Grand Crusade powered by the gods so level 25 is the maximum trigger when the gods realize I’m just getting too strong and you’ll start to directly participate with the avatars and try to kill me. Let’s make a challenging. Let’s make the DC’s actually get harder as it gets stronger too, and of course, like if I have clever solutions or whatever I should be able to reduce the DC.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | XP: 199099/225000** &nbsp;|&nbsp; ✨ **Conqueror's Insight: 0/1 | Spell Slots L3: 2 (unbounded) | HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -11485,8 +12641,11 @@ Administrative Summary: 'Grand Crusade: Celestial Phase' and 'Dynamic DC Scaling
 > 👤 **Player:**
 > *"Continue with larys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11517,8 +12676,11 @@ You gain **1,000 XP** for neutralizing the 'Spider's Signal' and forcing Larys i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract the Master-Cipher (Intimidation) - Demand the exact cadence of the Hightower genealogy now; use his fear of a redundant death to bypass his remaining pride.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11545,8 +12707,11 @@ He is wavering, but his intellectual ego remains a lock you have not yet picked.
 > 👤 **Player:**
 > *"Ask larys to be honest and how can I make him truly loyaL what does he want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11580,8 +12745,11 @@ Rhaenyra’s containment policy has moved faster than anticipated. The Queen is 
 > 👤 **Player:**
 > *"Reroll with spark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Abandoned Tannery Safehouse, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 199099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11616,8 +12784,11 @@ Just as he begins to recite the rhythmic breaths of the Master-Cipher, the safeh
 > 👤 **Player:**
 > *"Assert lord paramount and say I’ll discuss the special prisoners with the queen. Should be easy DC. Then bring them to red keep and explain to queen and propose double agent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11650,8 +12821,11 @@ You gain **1,500 XP** for securing the Master-Cipher and winning the Queen's app
 > 👤 **Player:**
 > *"Bring in larys and ask him how to dismantle greens. Also old oak is already won by me stop forgetting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11681,8 +12855,11 @@ You gain **500 XP** for extracting the 'Three Pillars' roadmap from Larys Strong
 > 👤 **Player:**
 > *"Ask what would happen if we did fire and blood for the sake of argument. Would we fight a guerilla war forever? What if I just fly the 5 dragons and do sky of fire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11700,8 +12877,11 @@ He leans forward, the candlelight carving harsh lines into his face. "If you fly
 > 👤 **Player:**
 > *"Compliment him and be respectful. Should be rare for him then follow his advice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11722,8 +12902,11 @@ He frowns as you begin the preliminary decryption. The **Audit Preparation** (11
 > 👤 **Player:**
 > *"Delegate the new shadow war to larys and treat him well. Give him some land like a barony and say he can have harrenhal again later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11757,8 +12940,11 @@ You gain **500 XP** for the masterful bonding and delegation of the Shadow War.
 > 👤 **Player:**
 > *"Ask larys for his recommendation on what  To do with green royal prisoners and how to take heat off myself and let queen take heat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Shadow-Cells, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11778,8 +12964,11 @@ He leans back, a shadow of a smile touching his thin lips. "The 'Gilded Chain' t
 > 👤 **Player:**
 > *"THINK:How to get queen to agree"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Shadow-Cells, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 27,776gp | XP: 202099/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11791,8 +12980,11 @@ Intelligence Check: 24 vs DC 19 — Success. Your tactical mind, honed by the So
 > 👤 **Player:**
 > *"Long rest and then prepare divine inquest evidence with larys and then in parallel brainstorm with him how to get queen to accept his land grand. Personally give him some gold and stuff for now to show I’m investing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Shadow-Cells, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11819,8 +13011,11 @@ Rhaenyra's containment has reached the Shadow-Cells. She is moving to silo your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow the Maester, Seduce the Queen (Synergistic) - You personally intercept Rhaenyra in the Solar with the 'Gilded Embrace' while Larys uses your Wraiths to swap the ledgers and smuggle the evidence out in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11857,8 +13052,11 @@ The distraction worked on the Queen, but the audit in the cellar is turning into
 God Mode:
 Wait land and titles should be allowed to give from greater to lesser lords
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11868,8 +13066,11 @@ Administrative Correction: Authority verified. As Lord Paramount of the Eastern 
 God Mode:
 Is this lore appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount**
@@ -11893,8 +13094,11 @@ Summary: The campaign is 'Lore-Adjacent'—it uses the political and historical 
 God Mode:
 Is this lore appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount**
@@ -11918,8 +13122,11 @@ Summary: The world reacts to you according to lore (jealousy, fear of bastards, 
 God Mode:
 I mean can lord paramount give titles?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount**
@@ -11937,8 +13144,11 @@ In the game state, this means your grant to Larys Strong is legally valid within
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with your feudal authority confirmed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Shadow-Cells, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11960,8 +13170,11 @@ The standoff in the cellar is intensifying. Rhaenyra may be yielding in her hear
 > 👤 **Player:**
 > *"THINK:Any way resolve without bothering queen?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Shadow-Cells, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 115, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 202099/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -11973,8 +13186,11 @@ Intelligence Check: 20 vs DC 14 — Success. Your sharp tactical mind, fueled by
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Scholarly Sequestration' (Synergistic) - You personally 'tutor' Orwyle on the 'High Valyrian Ciphers' to occupy his spectacles while Larys uses soot-magic to 'correct' the decoys in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Shadow-Cells, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 26,776gp | XP: 203899/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -12001,8 +13217,11 @@ You gain **1,800 XP** for the legendary synergistic bypass of the Citadel's fore
 God Mode:
 didnt i alrady secure this green gold? why keep forgetting?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Shadow-Cells, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 139,276gp | XP: 203899/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount**
@@ -12020,8 +13239,11 @@ I have added a directive to ensure the AI distinguishes between the secured Krak
 > 👤 **Player:**
 > *"long rest then do this Judge the Faith, Seize the Reach (Synergistic): You personally launch the Inquest at court while Larys uses your 'Wraiths' to launch the financial audit of Old Oak in parallel."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **The Great Hall, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 139,276gp | XP: 206399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), Lord Paramount | Exhaustion: 0 | Inspiration: No**
@@ -12053,8 +13275,11 @@ You gain **2,500 XP** for the successful launch of the Divine Inquest.
 > *"reroll with spark 
 1d20+15 = 25 vs DC 30 - Failure (Shadow-Audit of Old Oak (Larys/Wraiths))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **The Great Hall, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 208899/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12084,8 +13309,11 @@ You gain **2,500 XP** for the total submission of the Crown and the seizure of t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coronate the Protector, Purge the Priests (Synergistic) - You formally sign the decree in the Hall while your Shadow-Acolytes seize the Sept of Remembrance in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **The Great Hall, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 211899/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12104,8 +13332,11 @@ You gain **3,000 XP** for the coronation of the High Protector and the decapitat
 > 👤 **Player:**
 > *"time skip a few weeks, let larys lead it, ensure he's awarded his barony, allow him to lead shadow war and situation where  queen offiically does the "mean" things to the greens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **The High Protector's Sanctum, The Red Keep** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 216399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12125,8 +13356,11 @@ You gain **4,500 XP** for the legendary management of the three-week Shadow War.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Soot-Singer's' Crusade (Social) - Use your 1,150 spies to spread the 'Targaryen Divinity' through the Reach; convert the lords of the Mander to your faith before the Hightowers can march.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **The High Protector's Sanctum, The Red Keep** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 217399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12148,8 +13382,11 @@ You gain **1,000 XP** for the successful theological conversion of the Mander lo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Judge the Host, Siege the Sept (Synergistic) - You personally intercept the Martyr-Host on dragonback while Addam Velaryon leads a naval strike on Oldtown's harbor to blockade the Starry Sept in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 217899/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12168,8 +13405,11 @@ You gain **500 XP** for the high-risk strategic attempt to decapitate the Grand 
 > 👤 **Player:**
 > *"THINK:How can I convince others that these are the bad guys because they killing peolle who are innocent? I want others to turn on them and fight them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 217899/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12181,8 +13421,11 @@ Intelligence Check: 24 vs DC 15 — Success. Your tactical mind, honed by the co
 > 👤 **Player:**
 > *"Save soil and audit sin and try to get queen to support and rally allies against these evil crusaders. If I fail use my spark to reroll assume I long rested earlier"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 218899/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12214,8 +13457,11 @@ You gain **1,000 XP** for the high-stakes attempt to pivot the theological narra
 God Mode:
 You keep forgetting conquerors insight it should be adding 1d level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 218899/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector**
@@ -12229,8 +13475,11 @@ I have added this to your persistent directives to ensure it is applied to all f
 God Mode:
 No 1d16
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 218899/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector**
@@ -12246,8 +13495,11 @@ Directive updated to enforce the flat bonus. Done.
 God Mode:
 You keep getting this wrong it’s randomized. You roll and max value is my level and add to roll result
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 218899/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector**
@@ -12261,8 +13513,11 @@ I have updated the persistent directives to ensure this 1d[Level] randomized bon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with the randomized 1d[Level] bonus active and the Spark restored.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 218899/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12278,8 +13533,11 @@ You feel the **Conqueror's Insight** thrumming in your blood—a surge of tactic
 > 👤 **Player:**
 > *"Reroll the last scene using spark. I was trying to rally the queen and some allies to help fight these crusdaders and make them look bad"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 220399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12313,8 +13571,11 @@ You gain **1,500 XP** for the legendary successful manifestation of the Divine T
 > 👤 **Player:**
 > *"Brainstorm with my council (strongest elites and companions and larys) on next steps"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Shadow-Council Command Tent, The Roseroad** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 220399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12336,8 +13597,11 @@ You look at the map of the Reach, the tactical geometry of the Roseroad clear in
 > 👤 **Player:**
 > *"Long rest then do soot singer rain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 223399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12365,8 +13629,11 @@ You gain **3,000 XP** for the legendary environmental suppression of the wildfir
 > 👤 **Player:**
 > *"THINK:how reduce DC killing saint slayer. Lets assume I have 10 of my strongest elite warriors/wraiths ready to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 223399/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Spark: 1/1**
@@ -12378,8 +13645,11 @@ Intelligence Check: 20 vs DC 15 — Success. Your 20 Intelligence identifies the
 > 👤 **Player:**
 > *"dragon drop strike. use my wings but cast invis first so i can land easily, then try to trigger surprise round using hyp pattern on saint and his men, then cotinue dragon drop surprise. We can overall call this strategy hyp surprise for future use"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 225399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12413,8 +13683,11 @@ You gain **2,000 XP** for the legendary 'Dragon Drop' infiltration and the succe
 God Mode:
 lets reduce teh complication rate, it seems to happen too often
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **The Roseroad, The Southern Reach** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 225399/225000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Spark: 1/1**
@@ -12428,8 +13701,11 @@ I have updated the persistent directives to enforce this lower frequency for all
 > 👤 **Player:**
 > *"THINK:now that he's helpless how can i de legitiimize him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Ser Hobert's Command Tent (The Roseroad)** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 225399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Spark: 1/1**
@@ -12443,8 +13719,11 @@ You identify the 'Physical Vulnerability': Hobert is a man, and men can be broke
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke 'Conqueror's Insight' (Reroll) - Use your Spark (+1d16) to clear the mental static and find a truly 'Masterful' path to delegitimize the Saint.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Ser Hobert's Command Tent (The Roseroad)** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) | HP: 104/104 | Gold: 251,776gp | XP: 225399/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 2/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Spark: 0/1**
@@ -12460,8 +13739,11 @@ The mental static of the Crusade shatters. The 'Martyr's Nerve' is no longer a c
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Sovereign Prophecy' (Masterful) - Use Major Image and your Spark-Insight to project the Warrior himself emerging from the wildfire; have the God-Avatar strike the 'Warrior's Bone' as a Hightower forgery and name YOU his true High Protector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Ser Hobert's Command Tent (The Roseroad)** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) (Lvl 17 available) | HP: 104/104 | Gold: 251,776gp | XP: 229149/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12510,8 +13792,11 @@ Would you like to level up now?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 17 - Open the level-up modal to unlock 'Dragon's Cunning' and increase your Proficiency Bonus to +6.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Ser Hobert's Command Tent (The Roseroad)** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Rogue (Shadow of the Dragon) (Lvl 17 available) | HP: 104/104 | Gold: 251,776gp | XP: 229149/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 8d6 | Tactical Bond: +5 AC | Spark: 0/1 (Level 17 pending)** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12534,8 +13819,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Ser Hobert's Command Tent (The Roseroad)** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 229149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12549,8 +13837,11 @@ Vermithor's roar echoes from the sky, a sound of triumph that you feel in your v
 > 👤 **Player:**
 > *"focus on converting the 3000 zealots, audit the saint to discredit him and the greens, and continue to have the warrior advocate for me and say that I am a servant of the 7 to integrate my relgious legitimacy and I am an avatar of the warrior"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Ser Hobert's Command Tent (The Roseroad)** &nbsp;|&nbsp; ⏳ **AC 116, 129 AC (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 233149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12580,8 +13871,11 @@ You gain **4,000 XP** for the total conversion of the Martyr-Host and the tactic
 > 👤 **Player:**
 > *"public judgment of the bone and then saints mind and then if it works tell the shadow army to rise up against the greens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Ser Hobert's Command Tent (The Roseroad)** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 237149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12616,8 +13910,11 @@ You gain **4,000 XP** for the total theological conversion and the strategic ext
 
 Then long rest and report victory to the queen and discuss next moves. Say we should just finally win the war now against greens and consolidate and maybe the queen should finish her executions now that we have proof of green relgiious treachery etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **The Red Keep (King's Landing)** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 242149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12650,8 +13947,11 @@ You gain **5,000 XP** for the strategic delegation of the Shadow-Army and the su
 > 👤 **Player:**
 > *"propose the queen publically drive the executions to demoralize the greens and let them know there is no throne claim anymore and in parallel larys and I will hold shadow capture/executions of all the green leadership now that their forces are mostly defeated, then we summon all the lords paramount to redeclare loyalty and consider appointing daemon as lord paramount of the old green area to consolidate control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **The Red Keep (King's Landing)** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 242149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12685,8 +13985,11 @@ Daemon, leaning against the far wall, lets out a low, predatory chuckle that res
 
 She can hold trials with the evidence to make it legit and see her response to daemon taking control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **The Red Keep (King's Landing)** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 242149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 3/3, Sneak Attack: 9d6, Spark: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Spark: 0/1**
@@ -12709,8 +14012,11 @@ The 'Tyrell Resurgence' has arrived. Your success streak has been shattered by a
 > 👤 **Player:**
 > *"you kept getting the spark wrong and forgetting to add my 1d[level] bonus it should be 1d17 randomized, why"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **The Red Keep (King's Landing)** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 242149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12737,8 +14043,11 @@ The Queen's resolve remains at a stalemate. She yields to the evidence of the fo
 
 lets have me reducet he proposal and just say we take oldtown and make daemon the duke/lord of oldtown and srurrounding areas first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **The Red Keep (King's Landing)** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 251,776gp | XP: 246149/265000** &nbsp;|&nbsp; ⚠️ **Legendary (The Sovereign Shadow), High Protector | Exhaustion: 0 | Inspiration: No**
@@ -12773,8 +14082,11 @@ Mobilize wraiths and my elite gloomstalker/assassins to weaken oldtown before we
 
 also we previosuly captured/secured all the green leadership so this should all be easy DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Oldtown** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 751,776gp | XP: 258149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Conqueror of Oldtown | Exhaustion: 0 | Inspiration: No**
@@ -12802,8 +14114,11 @@ You gain **12,000 XP** for the legendary conquest of Oldtown and the total annih
 > 👤 **Player:**
 > *"emerald audit then lord paramount decree if oldtown was the old lord paramount"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Oldtown** &nbsp;|&nbsp; ⏳ **AC 117, 129 AC (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) | HP: 111/111 | Gold: 951,776gp | XP: 262149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Conqueror of Oldtown | Exhaustion: 0 | Inspiration: No**
@@ -12834,8 +14149,11 @@ You gain **4,000 XP** for the administrative consolidation of the Reach and the 
 > 👤 **Player:**
 > *"long rest and spend a few weeks consolidating power and control in the reach and ensure my father and i are aligned on fire and blood strategy and then hold grand feast where he is declared lord paramount and the lords paramount redeclare for the queen, let the queen and daemon take most of the public credit and stay in the feast scene and dont leave yet. consolidate as much shadow power as possible from my wina nd daemon alliance and we always see eye to eye"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Oldtown** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Shadow of the Dragon) (Lvl 18 available) | HP: 111/111 | Gold: 1,061,776gp | XP: 268149/265000** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Archduke of the Eastern Sea | Exhaustion: 0 | Inspiration: No**
@@ -12861,8 +14179,11 @@ You gain **6,000 XP** for the masterly consolidation of the Reach and the succes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 18 - Apply Rogue Level 18 benefits (Elusive) immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Oldtown** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Rogue (Lvl 18 available) | HP: 111/111 | Gold: 1,061,776gp | XP: 268149/265000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1 (Level 18 pending)** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Archduke of the Eastern Sea | Exhaustion: 0 | Inspiration: No**
@@ -12885,8 +14206,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Oldtown** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,061,776gp | XP: 268149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Archduke of the Eastern Sea | Exhaustion: 0 | Inspiration: No**
@@ -12900,8 +14224,11 @@ You turn away from the balcony and re-enter the great hall of the Hightower. The
 > 👤 **Player:**
 > *"Narrate the victory, feast, and more detail and have dialogue and people talking to me and asking me and the queen and Daman for things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Oldtown (The Hightower)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,061,776gp | XP: 268149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Archduke of the Eastern Sea | Exhaustion: 0 | Inspiration: No**
@@ -12930,8 +14257,11 @@ Rhaenyra beams, the intoxicating weight of your loyalty defusing her lingering j
 > 👤 **Player:**
 > *"Long rest and western audit and then check cipher with Leo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Oldtown (The Citadel)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,561,776gp | XP: 276149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Archduke of the Eastern Sea | Exhaustion: 0 | Inspiration: No**
@@ -12954,8 +14284,11 @@ You gain **8,000 XP** for the total financial surrender of the West and the reco
 God Mode:
 Let’s add a new arc. The original doom of Valyria was a failed apotheosis ritual but I am prophesized to redo it and ascend and control the world. The prince who was promised is supposed to stop me but was born too early before  he could be born and as I power up to level 25 the gods will realize something went wrong and try to stop me. The original prophecy was managed and the night king is supposed to be the safeguard against me the fire of the apocalypse and the prince promised is supposed to ally with him against me. Integrate this rich lore into the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Oldtown (The Citadel)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,561,776gp | XP: 276149/305000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Spark: 1/1**
@@ -12965,8 +14298,11 @@ Lore Arc Integrated: 'The Second Apotheosis'. The campaign logic has been fundam
 God Mode:
 Let’s assume I need the 7 caches to restart the doom ritual and get it right. After inge them all i have a set of +5 artifact gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Oldtown (The Citadel)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,561,776gp | XP: 276149/305000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Spark: 1/1**
@@ -12976,8 +14312,11 @@ Administrative update confirmed. The 'Apotheosis Arc' has been updated with expl
 God Mode:
 I was born too early and the prince promised isn’t ready yet to stop me. Once I become level 25 the gods will try to find or breed a Targaryen to stop me but since there are no Targaryen stark children it’s hadd
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Oldtown (The Citadel)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,561,776gp | XP: 276149/305000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Spark: 1/1**
@@ -12987,8 +14326,11 @@ Administrative update confirmed. I have integrated the 'Divine Desperation' prot
 > 👤 **Player:**
 > *"Raid the faith caches but let’s assume it’s +3 gear for now and becomes +5 on level 25 and plan for more sub arcs before I can start apotheosis ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Oldtown (The Citadel)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,561,776gp | XP: 282149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13011,8 +14353,11 @@ You gain **6,000 XP** for the legendary completion of the Faith-Cache raids and 
 God Mode:
 Is dorne part of 7 kingdoms yet? Some of these other factions should’ve already declared for the queen in lore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Oldtown (The Citadel)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,561,776gp | XP: 282149/305000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13028,8 +14373,11 @@ Lore and Faction Status Clarification:
 God Mode:
 How large my main dragon now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Oldtown (The Citadel)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,561,776gp | XP: 282149/305000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13050,8 +14398,11 @@ At Level 20, he will fully peak as Balerion's identical twin in power. From Leve
 > 👤 **Player:**
 > *"I I invite everyone to my grand wedding g with addam i  westeros afte r a long rest and planning. Give me sanctuary for now. Let’s assume the other lord paramounts are officially on our side except dorne so see if dorne comes. They may be wary but they won’t openly defy. I also ask the queen if I can have multiple husbands Targaryen style"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) | HP: 118/118 | Gold: 1,511,776gp | XP: 287149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13080,8 +14431,11 @@ You gain **5,000 XP** for the total diplomatic subjugation of the Lord Paramount
 > 👤 **Player:**
 > *"Let’s assume I start to downplay my power to focus on shadow rule. I mask as a level 12 and keep my main dragon masked as a mid size dragon at most times although in battle people have seen him bigger they don’t realize he is almost balerion size  now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,511,776gp | XP: 287149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Masking: Active** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Sanctuary (Gilded Coronation) | Spark: 1/1**
@@ -13101,8 +14455,11 @@ You gain **1,500 XP** for the masterful execution of the Global Power-Mask.
 > 👤 **Player:**
 > *"Reroll dornish diplomacy using spark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,511,776gp | XP: 290149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 1/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: Consumed** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Sanctuary (Gilded Coronation) | Spark: 0/1**
@@ -13124,8 +14481,11 @@ You gain **3,000 XP** for using the Conqueror's Spark to achieve the total diplo
 God Mode:
 Let’s have the apotheosis ritual work differently. I don’t need western stability but i need to do something in the ruins of old valryia and maybe other requirements
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 138, 129 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,511,776gp | XP: 290149/305000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 0/1**
@@ -13144,8 +14504,11 @@ Directives and active missions have been updated to reflect this shift toward an
 > 👤 **Player:**
 > *"Hold the grand wedding and narrate all the lords paramount attendance and let’s assume barstheons give up and come too. All enemy lords provide hostages. Narrate my dialogue with dorne and negotiate with them to see if we can stabilize"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,511,776gp | XP: 292649/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Masking: Active** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Sanctuary (Gilded Coronation) | Artifacts: 7/7 | Spark: 0/1**
@@ -13183,8 +14546,11 @@ You gain **2,500 XP** for the masterful diplomatic stabilization of the Dornish 
 > 👤 **Player:**
 > *"Discuss more with the dorne princess and include the queen and daemon. Propose perhaps a marriage to one of the queens sons could stabilize things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,511,776gp | XP: 292649/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Masking: Active** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Sanctuary (Gilded Coronation) | Artifacts: 7/7 | Spark: 0/1**
@@ -13219,8 +14585,11 @@ You gain **2,000 XP** for the successful structural stabilization of Dorne and t
 > 👤 **Player:**
 > *"Finalize sun pact and ensure it’s on track then talk to starks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,511,776gp | XP: 298649/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Masking: Active** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Sanctuary (Gilded Coronation) | Artifacts: 7/7 | Spark: 0/1**
@@ -13252,8 +14621,11 @@ You gain **4,000 XP** for finalizing the Dornish-Sovereign Alignment and identif
 > 👤 **Player:**
 > *"Use my Greta wealth too upgrade and train rates into 100 men shadow elite everybody is over level 12 sometimes even higher and I’m gonna have level 15+ commanders and we can have the commanders be the leaders are captains of the faceless men"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **King's Landing (The Red Keep Sub-Vaults)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,011,776gp | XP: 301149/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Masking: Active** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 0/1**
@@ -13278,8 +14650,11 @@ You gain **2,500 XP** for the critical logistical creation of the Wraith-Guard a
 > 👤 **Player:**
 > *"Reroll faceless men negotiation with spark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **King's Landing (The Red Keep Sub-Vaults)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 118/118 | Gold: 1,011,776gp | XP: 304649/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Spark: Consumed** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 0/1**
@@ -13303,8 +14678,11 @@ You gain **3,500 XP** for using the Spark to achieve the legendary subversion of
 > 👤 **Player:**
 > *"Narrate meeting with the leaders of faceless men but have them come to my castle. See what they originally wanted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Rosby (The Shadow-Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] (Lvl 19 available) | HP: 118/118 | Gold: 1,011,776gp | XP: 309649/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Shadow-Elite: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 0/1**
@@ -13331,8 +14709,11 @@ You gain **5,000 XP** for the legendary subversion of the Faceless Men and the d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 19 - Increase your power to the threshold of godhood; gain an Ability Score Improvement and 10d6 Sneak Attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Rosby (The Shadow-Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] (Lvl 19 available) | HP: 118/118 | Gold: 1,011,776gp | XP: 309649/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 9d6 | Tactical Bond: +5 AC (AC 23) | Shadow-Elite: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 0/1**
@@ -13346,8 +14727,11 @@ You stand within the high solar of Rosby, the Master-Cipher pulsing with the blu
 > 👤 **Player:**
 > *"Pick cha+2 asi and the rest of the recommended options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Rosby (The Shadow-Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Rogue (Shadow of the Dragon) [Masked: Lvl 12] (Lvl 19 available) | HP: 125/125 | Gold: 1,011,776gp | XP: 309649/305000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Shadow-Elite: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13383,8 +14767,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Rosby (The Shadow-Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 125/125 | Gold: 1,011,776gp | XP: 309649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Shadow-Elite: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 0/1**
@@ -13413,8 +14800,11 @@ Daemon steps forward, his hand resting on the pommel of Dark Sister. "They are a
 > 👤 **Player:**
 > *"Jacaerys should actually be in kings landing, lets go talk to him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) [Masked: Lvl 12] | HP: 125/125 | Gold: 1,011,776gp | XP: 312649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Masking: Active** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), Sanctuary (Gilded Coronation) | Artifacts: 7/7 | Spark: 1/1**
@@ -13447,8 +14837,11 @@ You gain **3,000 XP** for the successful psychic audit of the Heir and the disco
 > 👤 **Player:**
 > *"Work with the faceless men to identify the best dragon seeds and talk to their leadership. Say when we do the ritual we can all consume the souls and make the faceless men captains/leaders Demi gods. Let’s assume the faceless men are led my a council and half their council are my captains now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **King's Landing (The Shadow-Keep Cistern)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,011,776gp | XP: 314149/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Shadow-Elite: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13483,8 +14876,11 @@ You gain **1,500 XP** for the expansion of the Shadow-Network's theological reac
 > 👤 **Player:**
 > *"Reroll using spark 1d20+14 = 25 vs DC 30 - Failure (Proposing the Demigod Ascension to the Faceless Men Council)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **King's Landing (The Shadow-Keep Cistern)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,011,776gp | XP: 317649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: Consumed**
@@ -13514,8 +14910,11 @@ You gain **3,500 XP** for using your Spark to override the theological resistanc
 > 👤 **Player:**
 > *"Long rest and prep for expedition now that the faceless men truly serve me but keep it a secret. Let’s assume I have 6 captains now level 15-20. Have them continue to scout for dragon seeds with wraiths and go talk to queen and get daemon to help me. Explain gods are using her son against us and he’s not even the prince promised since he’s not a stark. We need to remove the influence from him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **King's Landing (The Red Keep Solar)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,011,776gp | XP: 322649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Spark: Ready** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13551,8 +14950,11 @@ You gain **5,000 XP** for the masterful reframing of the prophecy and the total 
 > 👤 **Player:**
 > *"Let’s assume my faceless men stay and work incoginto by default. They appear as normal guards and their work isn’t attributable to me unless someone discovers them.  Long rest and time skip a few weeks. See if my faceless men find the dragon seeds and keep working on the queen and Jace and utilize daemon to help. Let’s ask leo if he wants to be a husband and offer him the prime scholar role then also go meet with cregan stark and offer marriage alliance and say I am multi husband now if cregan has an eligible stark. I say instead I will birth the prince and ensure the prince promised serves the stability of Targaryen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **King's Landing (The Shadow-Keep)** &nbsp;|&nbsp; ⏳ **AC 142, 129 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 328649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Shadow-Elite: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Artifacts: 7/7 | Spark: 1/1**
@@ -13598,8 +15000,11 @@ You gain **6,000 XP** for the masterful identification of the 7 Seeds and the to
 > 👤 **Player:**
 > *"Long rest and disconnect Jace from the gods and use the many faced god as my ally to help and have sex all day with Brandon stark after a quick marriage ceremony with him and leo and try to conceive the prince who I can use as a ritual anchor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **King's Landing (The Shadow-Keep)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 333649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Shadow-Elite: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Consorts: 3 | Spark: Ready**
@@ -13622,8 +15027,11 @@ You gain **5,000 XP** for the successful Prophetic Cleansing and the stabilizati
 > 👤 **Player:**
 > *"Shield captisl launch vanguard after long rest. Bring drsgonseeds and all the dragons I can and make an elite part of my 100 strongest high level troops and my council and daemon and strongest magic users. Wanna put every resource I have into this ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Blackwater Bay (In Transit)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 339649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Wraith-Guard: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Host: All-In | Spark: Ready**
@@ -13649,8 +15057,11 @@ You gain **6,000 XP** for the masterful shielding of the capital and the mobiliz
 > 👤 **Player:**
 > *"We should have more dragons like all the dragons from drsgonseeds too. Clear gap and scan tower"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **The Smoking Sea (Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 344649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Wraith-Guard: 100** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Consorts: 3**
@@ -13676,8 +15087,11 @@ You gain **5,000 XP** for reaching the ruins of Old Valyria and decoding the Ash
 > 👤 **Player:**
 > *"Reroll with spark for celestial stealth 2d20kh1+11 = 26 vs DC 34 - Failure (Parallel Execution: Clear Gap & Scan Tower)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **The Smoking Sea (Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 344649/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 2/3 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Spark: Consumed**
@@ -13697,8 +15111,11 @@ Daemon pulls Dark Sister, his face grim in the red light. "Calculated risks have
 God Mode:
 Shouldn’t I have more spells as level 19?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **The Smoking Sea (Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 344649/355000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Consorts: 3**
@@ -13727,8 +15144,11 @@ Your current state showed only 10 spells known and 0 4th-level slots. To align w
 > 👤 **Player:**
 > *"THINK:How to reduce DC of this bate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **The Smoking Sea (Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 344649/355000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Consorts: 3**
@@ -13740,8 +15160,11 @@ Intelligence Check: 26 vs DC 15 — Masterful Success. Your tactical mind, honed
 > 👤 **Player:**
 > *"THINK:The Soot-Singer's Jammer (-4 DC) - Force the Master-Cipher to broadcast a high-intensity soot-song burst."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **The Smoking Sea (Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 344649/355000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Consorts: 3**
@@ -13753,8 +15176,11 @@ Intelligence Check: 29 vs DC 15 — Masterful Success. Your mind, a clinical eng
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Jammer Burst (-4 DC) - Trigger the high-intensity counter-harmonic now to blind the sentinels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **The Smoking Sea (Arrival at the Ash-Tower)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 346149/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Cipher: Offline (1hr)** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Cipher: Overheating**
@@ -13776,8 +15202,11 @@ You gain **1,500 XP** for the successful frequency-jamming of the Planar Sentine
 > 👤 **Player:**
 > *"Dragon hammer but lead it with my main dragon and vhagar to protect dragon casualties"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **The Ash-Tower (Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) | HP: 125/125 | Gold: 1,124,276gp | XP: 350149/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Cipher: Offline (55m)** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Cipher: Overheating**
@@ -13799,8 +15228,11 @@ You gain **4,000 XP** for the successful seizure of the Ash-Tower landing zone.
 > 👤 **Player:**
 > *"Shadow breach and have dragons fall back in defensive formation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **The Ash-Tower (Sub-Level Anchors)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) (Lvl 20 available) | HP: 125/125 | Gold: 1,124,276gp | XP: 355149/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Cipher: Offline (45m)** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Level Up: Available | Spark: Consumed**
@@ -13825,8 +15257,11 @@ You gain **5,000 XP** for the masterful infiltration of the Ash-Tower and the su
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 20 - Apply Rogue Level 20 benefits and finalize the 'Shadow of the Dragon' capstone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **The Ash-Tower (Sub-Level Anchors)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Rogue (Shadow of the Dragon) (Lvl 20 available) | HP: 125/125 | Gold: 1,124,276gp | XP: 355149/355000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Cipher: Offline** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Level Up: Available | Spark: Consumed**
@@ -13849,8 +15284,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 📍 **The Ash-Tower (Sub-Level Anchors)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 132/132 | Gold: 1,124,276gp | XP: 355149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Cipher: Offline** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Spark: Consumed**
@@ -13864,8 +15302,11 @@ You have reached the capstone of your mortal journey. The 'Shadow of the Dragon'
 God Mode:
 Check my original per level benefits up to 20 and ensure we didn’t forget anytbing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 📍 **The Ash-Tower (Sub-Level Anchors)** &nbsp;|&nbsp; ⏳ **AC 164, 129 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 132/132 | Gold: 1,124,276gp | XP: 355149/405000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Consorts: 3**
@@ -13908,8 +15349,11 @@ Your current stats (DEX 20, INT 20, CHA 16) perfectly reflect the Standard Array
 > 👤 **Player:**
 > *"Coordinate dragon seeds use my unborn prince promises as anchor too and the dragons as anchor. Prepare the dragon and elite combat unit defense and assume I have some level 12+ magic users too. Keep preparing and see how else I can reduce ritual DC and prep for an hour until cipher is back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **The Ash-Tower (Sub-Level Anchors)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 132/132 | Gold: 1,124,276gp | XP: 355149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sneak Attack: 10d6 | Tactical Bond: +5 AC (AC 23) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Cipher: ONLINE**
@@ -13929,8 +15373,11 @@ On your arm, the Master-Cipher suddenly let out a sharp, chime-like chime. The o
 > 👤 **Player:**
 > *"THINK:What’s the best path now and how to reduce DC as much as possible with all the resources at my"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **The Ash-Tower (Sub-Level Anchors)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 132/132 | Gold: 1,124,276gp | XP: 355149/405000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Cipher: ONLINE**
@@ -13942,8 +15389,11 @@ Intelligence Check: 29 vs DC 17 — Masterful Success. Your mind, now fully inte
 > 👤 **Player:**
 > *"THINK:I like total alignment but how can I reduce coordination DC and make it winnable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **The Ash-Tower (Sub-Level Anchors)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 132/132 | Gold: 1,124,276gp | XP: 355149/405000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Cipher: ONLINE**
@@ -13955,8 +15405,11 @@ Intelligence Check: 28 vs DC 16 — Brilliant Success. Your clinical mind, now f
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Override (DC 30 Coordination) - Delegate to Daemon, offload to the Cipher, and sync to the Heartbeat simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 115/132 | Gold: 1,124,276gp | XP: 360149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Sneak Attack: 10d6 | Tactical Bond: +10 AC (AC 28) | Cipher: Partitioned (Ritual Offload)** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Stroke of Luck: Consumed**
@@ -13990,8 +15443,11 @@ You gain **5,000 XP** for the masterful execution of the Sovereign Override.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ignite the Fourteen Flames (DC 23) - Thrust 'Eclipse' into the apex-altar and pulse your frequency to jump-start the global Apotheosis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 115/132 | Gold: 1,124,276gp | XP: 360149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Sneak Attack: 10d6 | Tactical Bond: +10 AC (AC 28) | Master-Cipher: Offloading** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Dragons: 12 | Stroke of Luck: Consumed**
@@ -14015,8 +15471,11 @@ You gain **0 XP** for the failed ignition attempt.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Blood-Seal (Reroll) - Slice your own palm and press it to the altar, using your L3 spell slot and physical vitality to bridge the gap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:16)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 94/111 | Gold: 1,124,276gp | XP: 370149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | Sneak Attack: 10d6 | Tactical Bond: +10 AC (AC 28) | Master-Cipher: Synchronized** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Blood-Seal Active | Dragons: 12**
@@ -14045,8 +15504,11 @@ You gain **10,000 XP** for the successful ignition of the Fourteen Flames and th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Anchor's Guard - Focus your mind entirely on maintaining the heartbeat-sync to protect the Seeds from the rising volcanic pressure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 94/111 | Gold: 1,124,276gp | XP: 375149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 0/1 | Sneak Attack: 10d6 | Tactical Bond: +10 AC (AC 28) | Master-Cipher: Stabilizing** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Blood-Seal Active | Dragons: 12**
@@ -14068,8 +15530,11 @@ You gain **5,000 XP** for the masterful stabilization of the Sovereign Anchor's 
 > 👤 **Player:**
 > *"THINK:How to reduce DC next step"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 94/111 | Gold: 1,124,276gp | XP: 375149/405000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Blood-Seal Active | Dragons: 12**
@@ -14081,8 +15546,11 @@ Intelligence Check: 26 vs DC 18 — Success (Sharp). Your mind, accelerated by t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Bridge Sacrifice (-5 DC Total) - Use a L2 Spell Slot and more of your own vitality to turn yourself into a living wire between the Seeds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:21)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 77/94 | Gold: 1,124,276gp | XP: 380149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 0/1 | Sneak Attack: 10d6 | Tactical Bond: +10 AC (AC 28) | Ritual DC: 23** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Living Wire Protocol | Dragons: 12**
@@ -14113,8 +15581,11 @@ You gain **5,000 XP** for the Sovereign Bridge Sacrifice.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ignite the Second Peak (DC 23) - Channel the 'Thermal Vortex' into the altar to double the tower's frequency and lock the Second Peak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:22)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 77/94 | Gold: 1,124,276gp | XP: 385149/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 0/1 | Sneak Attack: 10d6 | Tactical Bond: +10 AC (AC 28) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Thermal Resonance | Dragons: 12 (Exhausted)**
@@ -14138,8 +15609,11 @@ You gain **5,000 XP** for locking the Second Peak of the Apotheosis.
 > 👤 **Player:**
 > *"THINK:How to best reduce DC? Maybe i can consume or sacrifice some dragon seeds or dragons that are less important and promise to resurrect them later?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:22)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 77/94 | Gold: 1,124,276gp | XP: 385149/405000** &nbsp;|&nbsp; ⚠️ **Sovereign (The Dragon God), High Protector | Thermal Resonance | Dragons: 12 (Exhausted)**
@@ -14157,8 +15631,11 @@ The Pyre of the Three (-5 DC): Order three of the less-bonded dragons into a sui
 Pros: Reduces Final Ritual DC by 5, The resulting thermal surge blinds the divine host for 1 round
 Cons: Permanent loss of 3 generic dragons fr"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:23)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Rogue (Shadow of the Dragon) | HP: 55/77 | Gold: 1,124,276gp | XP: 405000/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 0/1 | Sneak Attack: 10d6 | Tactical Bond: +15 AC (AC 33) | Spark: 0/1** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (In Progress), God-Eater | Max HP: 77 | Dragons: 9**
@@ -14198,8 +15675,11 @@ You gain **20,000 XP** for achieving the Second Apotheosis. Your level cap has b
 God Mode:
 Shouldn’t I gain massive exp and rewards and powers and levels? Give me something reasonable I should be a Demi god now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:23)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod | HP: 660/660 | Gold: 1,124,276gp | XP: 905000/958674** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Demigod Rank #2), God-Eater | Safe Limit: +10 | Dissonance: 0%**
@@ -14222,8 +15702,11 @@ Note: Your True Reality (Layer 2) is currently hidden. Using power beyond your L
 God Mode:
 Make sure my dragon is the same level too and is a god dragon and what new powers do I get and what’s my portfolio? Maybe god of dragons and shadow conquest?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:23)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod | HP: 660/660 | Gold: 1,124,276gp | XP: 905000/958674** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Demigod Rank #2), God-Dragon Rider | Portfolios: Dragons, Shadow Conquest**
@@ -14252,8 +15735,11 @@ Your essence has crystallized around the tactical subversion of sovereignty and 
 God Mode:
 Let’s make me a gestalt wizard and I have all the benefits of level 33 wizard too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:23)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 905000/958674** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Arcanist | Dissonance: 0%**
@@ -14270,8 +15756,11 @@ Changes Applied:
 God Mode:
 Give me additional spell slot progression past level 20 as I am level 30 and assume I kept picking asi int and uncap my stats from 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:23)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 905000/958674** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Arcanist | Intelligence: 56**
@@ -14302,8 +15791,11 @@ Your capacity for High Sorcery has expanded. You now use the Sovereign Wizard pr
 > 👤 **Player:**
 > *"Use my new god powers to commune with many faced god and ask for help. Use the lost souls as promised to level my faceless men captains to level 25 and let’s assume my whole party gains 2-5 levels from the doom ritual but they are capped at 20 except faceless men leaders capped 25. Try to level up my husbands and daemon as much as possible let everyone roll. Prepare for night king and see if I can find a way to just consume his titan and plan to eventually consume the night king and use his essence to accelerate birth of my son and give him more ice powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 📍 **The Ash-Tower (Apex)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (00:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 905000/958674** &nbsp;|&nbsp; ✨ **HD: 33/33 | Spells: L1-L8 Full, L9 2/2, L10 2/2, L11 1/1 | Leverage: +25 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Arcanist | Intelligence: 56**
@@ -14345,8 +15837,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Consume titan and then carefully channel it into my son and see if he can be born early but don’t take risks. Then have my wraiths and faceless captains scout for night king location. Make camp somewhere and long rest and let  dragon seeds and the most tired rest. Narrate great celebration and let’s assume I now have 6 wings and look like a dragonic seraphrim and also what’s my portfolio again ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 📍 **Safe Camp, Edge of the Smoking Sea** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (08:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1005000/1055000** &nbsp;|&nbsp; ✨ **HD: 33/33 | Spells: L1-L9 Full, L10 2/2, L11 1/1 | Leverage: +25 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Demigod Rank #2), Sovereign Seraphim | Portfolio: Dragons, Shadow Conquest**
@@ -14368,8 +15863,11 @@ A great celebration erupts among the surviving fleet below. They cheer for the D
 God Mode:
 Let’s define a new arc where I become the strongest god after I create X number of dragons or shadow conquest Y% of the world or from this campaign maybe brainstorm a better portfolio that fits me vs shadow conquest
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 📍 **Safe Camp, Edge of the Smoking Sea** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (08:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1005000/1055000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Seraphim | Portfolio: Draconic Sovereignty & The Unseen Crown**
@@ -14394,8 +15892,11 @@ This arc tracks your path from Demigod to the Prime Deity of the World.
 God Mode:
 Let’s assume night king is level 25 he’s not an actual god just an avatar. Only gods can be above level 25
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 📍 **Safe Camp, Edge of the Smoking Sea** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (08:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1005000/1055000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Seraphim | Portfolio: Draconic Sovereignty & The Unseen Crown**
@@ -14412,8 +15913,11 @@ Reasoning: This maintains Visenya's (Level 33) overwhelming divine superiority w
 God Mode:
 Let’s say I need 60% shadow conquest because otherwise it might be weird since there are other great gods. Or we can say 60% and 7 dragons for greater god and 90% and 100 dragons for overgod where I am the ruler of all the other gods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 📍 **Safe Camp, Edge of the Smoking Sea** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (08:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1005000/1055000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Seraphim | Portfolio: Draconic Singularity & The Sovereign Shadow**
@@ -14447,8 +15951,11 @@ Your portfolio has been updated from 'Dragons and Shadow Conquest' to something 
 God Mode:
 Let’s follow the divine campaign rules and say I will primarily work through a level 25 avatar and it will be masked as level 12. It will have a simulcrum and I’ll make a level 33 god simulcrum too so I can do stuff. If I do stuff beyond level 25 it’ll cause dissonance. The shadow for war is already started and the mortal existential fear of me and shadow crusade should start. At higher levels dissonance things will escalate and at 90% all the gods will manifest avatars or some Portion of their true power will attack me as long as we don’t destroy the world. Let’s sssuke gods usually just work through avatars though to stop chaos but I am a unique god that can fully manifest my power in the normal world due to shadow conquest portfolio and let’s keep DC challenging when working against gods but keep it trivial versus mortals. Also let’s assume I just permanently activate foresight and glibness now unless I turn it off
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 📍 **Safe Camp, Edge of the Smoking Sea** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (08:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1005000/1055000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Seraphim | Portfolio: Draconic Singularity & The Sovereign Shadow**
@@ -14478,8 +15985,11 @@ The following effects are now PERMANENT and do not require concentration or slot
 God Mode:
 Don’t do existential fear yet. Only do it if I revealed as a god. For now let’s just assume standard DC against mortals but with my stats I should almost always win
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 📍 **Safe Camp, Edge of the Smoking Sea** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (08:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1005000/1055000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14496,8 +16006,11 @@ Changes Applied:
 > 👤 **Player:**
 > *"Let’s assume word will spread that I did something with the doom of valryia but also I lost 3 dragons and 3 dragon seeds so people don’t necessarily know if I gained power for now. I command some wraiths to report failure and say I was attacked by night king and defeated and lost 3 dragons so the world is less afraid for now . Then let’s make a base in the ash tower and plan a good strategy o beat the night king. It should be easy for me since he’s level 25 and I have my avatar and it’s sim and my god sim but I wanna do it with minimum dissonance. I also tell everyone present to keep my godhood a secret for now. People will just notice all of my companions and husbands are suddenly high level and powered up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 📍 **The Ash-Tower (Sovereign Base)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (12:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1010000/1055000** &nbsp;|&nbsp; ✨ **HD: 33/33 | Spells: L1-L9 Full, L10 2/2, L11 1/1 | Leverage: +25 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Mask (Lvl 12) | Portfolio: Architect of Draconic Singularity**
@@ -14543,8 +16056,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Shadow subversion then try to trigger surprise round with my avatars and just use husbands and 10 elite wraiths and the faceless captains and my 10 strongest mages. Let’s assume my godhood also has enabled high magic back into the world so it’ll get easier for others to use high magic like in the days of old Valyria. I also use my historical knowledge to cast true resurrection on my mother and a Valyrian scientist that she knows of and start having them plan on advising our night king fight and sharing the secrets of dragon creation and Valyrian steel and all the old Valyrian technology and let’s assume Valyria was like Ancient Rome style governance but I will make it Roman Empire style as I plan to rebuild it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-501"></a>
 #### Scene 501
 
 > 📍 **The Heart of the Doom (Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (14:24)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1110000/1055000** &nbsp;|&nbsp; ✨ **HD: 33/33 | Spells: L1-L8 Full, L9 0/2, L10 2/2, L11 1/1 | Leverage: +25 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Mask (Lvl 12) | Portfolio: Architect of Draconic Singularity**
@@ -14577,8 +16093,11 @@ You gain **100,000 XP** for the restoration of the Soot-Singer and the perfect s
 > 👤 **Player:**
 > *"Avatar alpha strike and cast hold monster on night king using standard level 5 spell slot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-502"></a>
 #### Scene 502
 
 > 📍 **The Heart of the Doom (Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1260000/1055000** &nbsp;|&nbsp; ✨ **HD: 33/33 | Spells: L1-L4 Full, L5 4/5, L6-L8 Full, L9 0/2, L10 2/2, L11 1/1 | Leverage: +25 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14629,8 +16148,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"THINK:How to reduce dc and coordination dc of imperial birth and avoid dissonance. What’s my roll range"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-503"></a>
 #### Scene 503
 
 > 📍 **The Heart of the Doom (Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) | HP: 660/660 | Gold: 1,124,276gp | XP: 1260000/1055000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Mask (Lvl 12) | Portfolio: Architect of Draconic Singularity**
@@ -14642,8 +16164,11 @@ Intelligence Check (Planning): 15 (Foresight) + 30 = 45 vs DC 18 — Masterful S
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Maternal Shield (Reduced DC 25) - Daenys sings while you use INT to guide the song's magic. This uses the Synergy Bonus to drop the DC from 41 to 25.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-504"></a>
 #### Scene 504
 
 > 📍 **The Heart of the Doom (Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) (Lvl 34 available) | HP: 660/660 | Gold: 1,124,276gp | XP: 1310000/1055000** &nbsp;|&nbsp; ✨ **HD: 33/33 | Spells: L1-L4 Full, L5 4/5, L6-L8 Full, L9 0/2, L10 2/2, L11 1/1 | Leverage: +25 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14686,8 +16211,11 @@ APEX ATTENTION: [Hidden]
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 34 - Ascend to Level 34, gaining +2 to all ability scores and increasing your divine power tier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-505"></a>
 #### Scene 505
 
 > 📍 **The Heart of the Doom (Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Demigod (Gestalt) (Lvl 34 available) | HP: 660/660 | Gold: 1,124,276gp | XP: 1310000/1055000** &nbsp;|&nbsp; ✨ **HD: 33/33 | Spells: L1-L4 Full, L5 4/5, L6-L8 Full, L9 0/2, L10 2/2, L11 1/1 | Leverage: +25 | Dissonance: 0% (Level 39 pending)** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #2), Sovereign Mask (Lvl 12) | Portfolio: Architect of Draconic Singularity**
@@ -14720,8 +16248,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Why level 39?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-506"></a>
 #### Scene 506
 
 > 📍 **The Heart of the Doom (Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 33 Minor God (Lvl 34 available) | HP: 760/760 | Gold: 1,124,276gp | XP: 1310000/1055000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14753,8 +16284,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-507"></a>
 #### Scene 507
 
 > 📍 **The Heart of the Doom (Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God (Gestalt) | HP: 760/760 | Gold: 1,124,276gp | XP: 1310000/1305000** &nbsp;|&nbsp; ✨ **HD: 38/38 | Spells: L1-L8 Full, L9 0/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14787,8 +16321,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Hold a great council and brainstorm what to do next. Narrate reunion with my mother and tell galvernus I want to restore Valyria and start creating dragons and Valyrian steel and all the old technologies and ask him to walk me through it. We can have a senate and consuls but I will be the god empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-508"></a>
 #### Scene 508
 
 > 📍 **The Ash-Tower (Sovereign Base)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God (Gestalt) | HP: 760/760 | Gold: 1,124,276gp | XP: 1410000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14841,8 +16378,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Let’s just time skip a few weeks and start rebuilding Valyria with my massive gold and start bringing my larger forces to settle the area and build a town and eventually a metropolis as time goes on. I assess who would be the most useful to resurrect if they fit the requirements of true resurrection and attempt to resurrect Aegon and his two sisters and their dragons but only two attempts per day since I have two level 9 slots. Time skip a few weeks and see what happened. Every day I make two resurrection attempts. Also send word to the queen and I debate with my council if we should tell the queen about my divinity or not. Get daemon perspective and narrate reunion between him and my mother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-509"></a>
 #### Scene 509
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God (Gestalt) | HP: 760/760 | Gold: 624,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ✨ **HD: 38/38 | Spells: L1-L8 Full, L9 2/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Mask (Lvl 12) | Portfolio: Architect of Draconic Singularity**
@@ -14876,8 +16416,11 @@ You gain **100,000 XP** for the completion of the 'Imperial Foundation' and the 
 God Mode:
 I think I should have more gold too? Narrate my monthly and daily income with so much of the world under my control and recap my total forces
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-510"></a>
 #### Scene 510
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God (Gestalt) | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14931,8 +16474,11 @@ Your treasury has been adjusted to 2,105,276gp to account for the skip.
 God Mode:
 Isn’t my my main dragon already a god drsgon? Let’s have him grow in size proportionally so at level 30 he was 3x balerion and now almost level 40 how big is he
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-511"></a>
 #### Scene 511
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -14964,8 +16510,11 @@ Following the 'World-Eater Trajectory' established during your initiation, Vermi
 > 👤 **Player:**
 > *"Let’s make a simulcrum of my main dragon and see if it counts as a god dragon too then level up meraxes to 20 and plan on how to get the other dragons to 20 or make new ones. I will invite the queen to new valyria and say I am establishing a new trade capital and have uncovered lost tech after the defeat I suffered from the night king to improve prosperity and gain weapons to defeat night king. I will also explain the gods have  been subverted for now and Jace isn’t bothered by them. I’ll focus my efforts on new valyria and leave westeros to the queen and daemon unless they need me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-512"></a>
 #### Scene 512
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ✨ **HD: 38/38 | Spells: L1-L8 Full, L9 2/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -15010,8 +16559,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Let’s assume I also control the faceless men fully now and allied with many faced god so i get income from their contracts and can deploy all of them if i wish so count them in my forces and fscfion power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-513"></a>
 #### Scene 513
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -15031,8 +16583,11 @@ Administrative Summary: Alliance with the Many-Faced God and total control over 
 God Mode:
 What’s the definition of a god dragon again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-514"></a>
 #### Scene 514
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -15067,8 +16622,11 @@ Upon reaching Level 30, a God Dragon gains **The Dragon-Queen's Decree**, allowi
 God Mode:
 Wait if a god dragon means level 20 I have more than two
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-515"></a>
 #### Scene 515
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -15107,8 +16665,11 @@ There is a critical mechanical distinction between a **Mythic Dragon** and a **G
 God Mode:
 Ok let’s change this. I just need 10 level 20+ dragons and 100 adult dragons. How many did valryia have at their peak? Let’s also assume verimithor size is cloaked and all the resurrected people pretend they are someone else if someone not in my faction encounters them and their dragons are masked as medium sized and i let visenya 1 ride vhagar and we share vhagar
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-516"></a>
 #### Scene 516
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Seraphim | Portfolio: Architect of Draconic Singularity**
@@ -15132,8 +16693,11 @@ The previous requirement of seven Lvl 31+ God-Dragons has been replaced per your
 God Mode:
 Actually let’s make it 1000 dragons and to become the overgod or whatever I need 10 god drsgons and let’s assume it’s hard to make god drsfons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-517"></a>
 #### Scene 517
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Rogue (Shadow of the Dragon) / Wizard (Sovereign Arcanist) | HP: 760/760 | XP: 1510000/1305000** &nbsp;|&nbsp; ✨ **11th Level Spell Slots: 1/2 | Conqueror's Insight: 0/1 | 10th Level Spell Slots: 2/3 | Spell Slots L3: 2 (unbounded) | HD: 16/16 | Spells: L1 4/6, L2 1/5, L3 0/5, L4 0/5, L5 3/5, L6 2/4, L7 2/4, L8 1/3, L9 0/2**
@@ -15162,8 +16726,11 @@ Forging or ascending a dragon to God-Tier (Level 31+) is now classified as a **H
 God Mode:
 Let’s say 1000 dragons for greater god and 10 god dragons for overgod
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-518"></a>
 #### Scene 518
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000**
@@ -15190,8 +16757,11 @@ Administrative Summary: Divine progression parameters for Rank #6 (Greater God) 
 > 👤 **Player:**
 > *"Narrate a scene where I reunite with my 3 conquering ancestors and learn from them and then narrate scene where the queen arrives. She should be stunned I’ve found 3 more high level dragon seeds to replace the ones I lost and not realize they are the 3 conquerors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-519"></a>
 #### Scene 519
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1510000/1305000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L8 Full, L9 2/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Mask (Lvl 12) | Portfolio: Deity of Draconic Sovereignty**
@@ -15241,8 +16811,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Invite the queen for a tour of the metropolis. Let’s assume it won’t be finished for a year but has already shown promise. Give her a new Valyrian steel blade as a present and say once we increase production we can sell it to our allies and enrich the Targaryen family. Let’s assume even as a god I am genuinely loyal to her and just desire power for Targaryens and that’s why I secretly became a god but I actually am loyal and see if she can see it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-520"></a>
 #### Scene 520
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1535000/1305000** &nbsp;|&nbsp; ✨ **HD: 38/38 | Spells: L1-L8 Full, L9 2/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Mask (Lvl 12) | Portfolio: Deity of Draconic Sovereignty**
@@ -15284,8 +16857,11 @@ You meet her violet gaze, allowing the full weight of your genuine loyalty to bl
 > 👤 **Player:**
 > *"Let me roll a persuasion check. Let’s assume despite becoming extremely powerful I’ve never once chafed under her rulership or shown actual ambition for the throne. See if she recognizes it and feels humbled. I have a massive private army and 7 direct dragons under my control now with the 3 masked conquerors and clearly elite forces that make her gold cloaks look like babies but I remain humble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-521"></a>
 #### Scene 521
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1550000/1305000** &nbsp;|&nbsp; ✨ **HD: 38/38 | Spells: L1-L8 Full, L9 2/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Mask (Lvl 12) | Portfolio: Deity of Draconic Sovereignty**
@@ -15335,8 +16911,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Redo this scene I shouldn’t be showing her my wings or telling her I’m a god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-522"></a>
 #### Scene 522
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1550000/1305000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L8 Full, L9 2/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Mask (Lvl 12) | Portfolio: Deity of Draconic Sovereignty**
@@ -15388,8 +16967,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Let’s assume my faceless men are cloaked so they look like normal guards but appear extremely competent. Hold a grand feast in honor of the queen. Narrate the queens private thoughts. She knows I am loyal and the house of Targaryen is even stronger than at the height of king jaherys and the only way we could ever fall is a second dance and although probably she would lose she’s probably the only faction in the world that could somewhat compete with me but ultimately she’d probably lose. I her calculution my power already seems immense and she doesn’t realize that I am masking my avatar level dragons level and the levels of the 3 conquerors and their dragons. Like even addam at level 15 with his dragon is a powerful force to her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-523"></a>
 #### Scene 523
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 129 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God | HP: 760/760 | Gold: 2,105,276gp | XP: 1575000/1305000** &nbsp;|&nbsp; ⚠️ **DIVINE ASCENSION (Rank #3), Sovereign Mask (Lvl 12) | Portfolio: Deity of Draconic Sovereignty**
@@ -15441,8 +17023,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Let’s time skip for a year and narrate what happens. Remember the queen isn’t a very competent ruler but now she does have my backing so it won’t be as bad as lore. Let’s sssume some enemies might think us weakened because they heard I lost 3 dragons and dragon seeds however we still have a lot of dragons overall. Recount how many again. I spend the year focusing on stability for new Valyria and my eastern triarchy holdings and I build a grand fortress wrapping an elaborate palace in tyria and smaller ones in  rosby and one of the triarchy cities and also elevate those cities to be trade metropolis. I use my wraiths and faceless men to subdue any mortal enemies without tracing back to me too. Narrate what happens with every major character and faction and let’s have the queen roll a few times to see her rule ship outcomes and let me roll too but against mortals situations I should usually win. There will be whispers that despite losing three dragons im the real power behind the throne and let’s see if the queen falls victim to it. Let’s also remove the safeguard of the queen not attacking me and let’s assume she may go mad or paranoid and start to be ruled by her jealously but I want to avoid this since her faction is still strong and it could be chaotic. Let’s also assume I greatly reward larys and give him 5 levels as a god and show him my true godhood and give him a duchy in the triarchy and a noble marriage if he wants it. I also show my true godhood to my inner council and the true size of my main dragon and I create more new dragons and give eveyone valryian steel weapons and armor and I upgrade all my armor to +5 stealth advantage Valyrian steel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-524"></a>
 #### Scene 524
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Gestalt Minor God | HP: 760/760 | Gold: 9,905,276gp | XP: 1575000/1305000** &nbsp;|&nbsp; ✨ **HD: 38/38 | Spells: L1-L8 Full, L9 2/2, L10 3/3, L11 2/2 | Leverage: +34 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE ASCENSION (Rank #3) | Portfolio: Deity of Draconic Sovereignty**
@@ -15491,8 +17076,11 @@ You stand atop the Ash-Tower, your new **+5 Sovereign Stealth Plate** rippling w
 > 👤 **Player:**
 > *"See how much progress I made for making the 1000 dragons but my default they should be babies and assume I conquer or shadow conquer land near my Eastern holdings and surround areas of valyria and Vassalize or kill all private threatening trade"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-525"></a>
 #### Scene 525
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Lesser Deity (Lvl 41 available) | HP: 820/820 | Gold: 9,905,276gp | XP: 1600000/1305000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE ASCENSION (Rank #4) | Portfolio: Deity of Draconic Sovereignty**
@@ -15532,8 +17120,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Let’s not have anyone else have god tier dragons assume whichever ones I made only report to me and let’s make it harder so I can only make one god tier dragon per year
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-526"></a>
 #### Scene 526
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Lesser Deity (Lvl 41 available) | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1305000**
@@ -15554,8 +17145,11 @@ Administrative Summary: The laws of Draconic Forging and Divine Hierarchy have b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 41 - Integrate the power of a Lesser Deity, gaining Fear immunity and +4 Divine Bonuses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-527"></a>
 #### Scene 527
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Minor God (Lvl 41 available) | HP: 760/760 | Gold: 14,850,276gp | XP: 1600000/1305000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L8 Full, L9 2/2, L10 3/3 (Lvl 41 pending), L11 2/2 | Leverage: +34 (Lvl 41 pending)** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE ASCENSION (Rank #4 pending) | Portfolio: Deity of Draconic Sovereignty**
@@ -15569,8 +17163,11 @@ Recommended selections: At Level 40, apply Ability Score Improvement (+6 Intelli
 God Mode:
 Let’s sssume I only made one god tier dragon and it was sunfyre. Also narrate birth of my son and let’s assume I am pregnant again with a Tyrell baby
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-528"></a>
 #### Scene 528
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Lesser Deity (Lvl 41 available) | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1305000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE ASCENSION (Rank #4), Pregnant (Tyrell Scion) | Portfolio: Deity of Draconic Sovereignty**
@@ -15605,8 +17202,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-529"></a>
 #### Scene 529
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion) | Portfolio: Deity of Draconic Sovereignty**
@@ -15618,8 +17218,11 @@ As the divine energies settle, the night air of Tyria feels still. In the nurser
 > 👤 **Player:**
 > *"Delegate divine harbinger handling to my avatar and dragons and in  parallel visit with the queen and daemon with a small elite retinue of wraith guards and a faceless captain and my son and introduce them. Let’s assume it’s more mundane small council business and I explain how to optimize the dragons of kings landing and how to get them stronger and see what else the queens small council says. Let’s rolls few dice to see how she’s handled other challenges in the last year without me being there even if I support her remotely with gold and military backing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-530"></a>
 #### Scene 530
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion) | Portfolio: Deity of Draconic Sovereignty**
@@ -15678,8 +17281,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Why does the queen have 22 modifier? It’s fine if it makes sense but explain i
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-531"></a>
 #### Scene 531
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion)**
@@ -15705,8 +17311,11 @@ Essentially, the +22 reflects a Queen who is moderately competent on her own but
 > 👤 **Player:**
 > *"THINK:How do my forces compare with the queens if it truly came to war"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-532"></a>
 #### Scene 532
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion)**
@@ -15718,8 +17327,11 @@ Intelligence Check: 58 vs DC 18 — Masterful Success. With an Intelligence of 8
 God Mode:
 Remember Vermithor is a god dragon too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-533"></a>
 #### Scene 533
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion)**
@@ -15739,8 +17351,11 @@ Administrative Summary: Vermithor has been re-classified as a God-Tier entity.
 God Mode:
 How many dragons does the queen have assuming we count daemon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-534"></a>
 #### Scene 534
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Rogue (Shadow of the Dragon) / Wizard (Sovereign Arcanist) | HP: 820/820 | XP: 1600000/1884520** &nbsp;|&nbsp; ✨ **11th Level Spell Slots: 1/2 | Conqueror's Insight: 0/1 | 10th Level Spell Slots: 2/4 | Spell Slots L3: 2 (unbounded) | HD: 16/16 | Spells: L1 4/6, L2 1/5, L3 0/5, L4 0/5, L5 3/5, L6 2/4, L7 2/4, L8 1/3, L9 0/2**
@@ -15767,8 +17382,11 @@ The Queen has 6 primary battle dragons under her direct command (counting Prince
 God Mode:
 Let’s assume i do my best to hide my 300 dragons or would probably cause the world  to start an existential crusade against me over at some point it’ll be discovered. The world already thinks my known masked drsgons  are apocalypse force
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-535"></a>
 #### Scene 535
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion) | Portfolio: Deity of Draconic Sovereignty**
@@ -15789,8 +17407,11 @@ Administrative Summary: The concealment of the 300 juvenile dragons is now a pri
 God Mode:
 Who are my 20 drsgons? Let’s assume the other dragon seeds like ulf are officially with the queen and not me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-536"></a>
 #### Scene 536
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion)**
@@ -15842,8 +17463,11 @@ God Mode:
 These shouldn’t count twice as they are masks for the main dragons 8. **Quicksilver** (Aenys's mount, resurrected for the Shadow-Host)
 9. **Dreamfyre-Prime** (Rhaena's mount, resurrected version for dragons 10-20 let’s assume they are hidden too. I guess I have 10 more Valyrian high lords?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-537"></a>
 #### Scene 537
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion) | Portfolio: Deity of Draconic Sovereignty**
@@ -15878,8 +17502,11 @@ Administrative Summary: Draconic audit updated to resolve double-counting and se
 God Mode:
 I don’t think publically it should be 20. It should be my main dragon 3 conquerors and addam dragon and sunfrye and tessarion and the rest hidden
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-538"></a>
 #### Scene 538
 
 > 📍 **Tyria (Neo-Valyrian Metropolis)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion) | Portfolio: Deity of Draconic Sovereignty**
@@ -15915,8 +17542,11 @@ These assets are now phased into the 'Sovereign Blind-Spot' of Tyria and the Fou
 > 👤 **Player:**
 > *"continue small council meeting in kings landing, i should be seen as formidable with 7 dragons but not an apocalypse force. lets narrate 5 more decisions to be made and see how the queen does"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-539"></a>
 #### Scene 539
 
 > 📍 **Red Keep (Small Council Chamber)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 14,850,276gp | XP: 1600000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion) | Portfolio: Deity of Draconic Sovereignty**
@@ -15968,8 +17598,11 @@ Rhaenyra exhales, the meeting concluded. She looks at you, a flicker of genuine 
 > 👤 **Player:**
 > *"lets assume i start pulling back my assassin and faceless men support as i dont want her to realize how dependent she is on my militarily and i just keep the financial support and stay more quiet politically. narrate how the next few months go without my shadow support do a long rest and time skip. also narrate a visit where i bring my son to the starks to meet his family and grandparent and bring my stark husband and also visit with tyrells and bring the tyrell husband and explain i'm pregnant with a tyrell now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-540"></a>
 #### Scene 540
 
 > 📍 **Highgarden (The Gilded Court)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 15,350,276gp | XP: 1650000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion - 5 Months) | Portfolio: Deity of Draconic Sovereignty**
@@ -16024,8 +17657,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"narrate some dialogue with the tyrells and have them hold a grand feast in my honor and narrate their dialog and lets delegate any threats to my avatars"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-541"></a>
 #### Scene 541
 
 > 📍 **Highgarden (The Gilded Court)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 15,350,276gp | XP: 1680000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion - 5 Months) | Portfolio: Deity of Draconic Sovereignty**
@@ -16076,8 +17712,11 @@ APEX ATTENTION: [Hidden]
 
 1d20+15 = 16 vs DC 25 - Failure (Avatar's Aerial Defense vs Divine Harbinger)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-542"></a>
 #### Scene 542
 
 > 📍 **Highgarden (The Gilded Court)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 15,350,276gp | XP: 1680000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +41 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion - 5 Months) | Portfolio: Deity of Draconic Sovereignty**
@@ -16110,8 +17749,11 @@ Back in the hall, Leo leans in, his voice a conspiratorial whisper. "The lords a
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Submission - Use the feast's momentum to force the final 10% of Reach lords into the Shadow-Network, securing total regional sovereignty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-543"></a>
 #### Scene 543
 
 > 📍 **Highgarden (The Gilded Court)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 15,350,276gp | XP: 1710000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion - 5 Months) | Portfolio: Deity of Draconic Sovereignty**
@@ -16158,8 +17800,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"gilded decree, brainstorm a way to decode harbringer without dissonance, remmebr the night king is dead, and then lets long rest and then go back to kings landing and attend various small council meetings and see how it goes. assume i withdraw the shadow support and start planning to make the queen not economically dependent on me anymore too. i share  the secrets of my new valyrian tech etc lets see if her technologists can perform"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-544"></a>
 #### Scene 544
 
 > 📍 **Highgarden (The Gilded Court)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 15,350,276gp | XP: 1740000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Pregnant (Tyrell Scion - 9 Months) | Portfolio: Deity of Draconic Sovereignty**
@@ -16195,8 +17840,11 @@ Leo leans in, his hand resting on the massive curve of your stomach. "She's read
 bith of green shadow and then
 fly back to kings landing and do the technocraticintervention"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-545"></a>
 #### Scene 545
 
 > 📍 **King's Landing (The Maester's Workshop)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 15,350,276gp | XP: 1840000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Deity of Draconic Sovereignty**
@@ -16226,8 +17874,11 @@ From the shadows of the workshop, your master-spies deliver their first silent r
 God Mode:
 The Sovereign Decapitation - Fly to the Smoking Sea with your Avatar and the God-Simulacrums to find and dismantle the 'False Prince' safeguard before the gods can activate it.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-546"></a>
 #### Scene 546
 
 > 📍 **The Smoking Sea (Ruins of Valyria)** &nbsp;|&nbsp; ⏳ **AC 290, 130 AC (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 820/820 | Gold: 15,350,276gp | XP: 1840000/1884520** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow**
@@ -16251,8 +17902,11 @@ Your forces have arrived at the Ash-Tower's coordinate-root. The narrative is fr
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Decapitation - Fly to the Smoking Sea with your Avatar and the God-Simulacrums to find and dismantle the 'False Prince' safeguard before the gods can activate it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-547"></a>
 #### Scene 547
 
 > 📍 **The Smoking Sea (Ruins of Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Lvl 43 available) | HP: 820/820 | Gold: 15,400,276gp | XP: 2340000/1884520** &nbsp;|&nbsp; ✨ **HD: 41/41 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +57 | Safe Limit: +20 | Dissonance: 15%** &nbsp;|&nbsp; ⚠️ **Sovereign Manifestation (Layer 2), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Deity of Draconic Sovereignty**
@@ -16294,8 +17948,11 @@ As you remount Vermithor, the dragon lets out a roar that vibrates through the v
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 43 - Integrate the divine essence recovered from the False Prince to ascend to Level 43.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-548"></a>
 #### Scene 548
 
 > 📍 **The Smoking Sea (Ruins of Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Lvl 43 available) | HP: 820/820 | Gold: 15,400,276gp | XP: 2340000/1884520** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 (Level 43 pending)** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow**
@@ -16319,8 +17976,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-549"></a>
 #### Scene 549
 
 > 📍 **The Smoking Sea (Ruins of Old Valyria)** &nbsp;|&nbsp; ⏳ **AC 165, 130 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Lesser Deity | HP: 866/866 | Gold: 15,400,276gp | XP: 2340000/1884520** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +60 | Safe Limit: +20 | Dissonance: 15%** &nbsp;|&nbsp; ⚠️ **Sovereign Manifestation (Layer 2), DIVINE RANK (Rank #4), Mother of the Green-Shadow**
@@ -16336,8 +17996,11 @@ With the divine safeguard dismantled, you must decide your next tactical pivot. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Capital - Fly back to Rhaenyra to finalize the political submission of the realm while keeping the 300 dragons sequestered.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-550"></a>
 #### Scene 550
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Lesser Deity | HP: 866/866 | Gold: 15,400,276gp | XP: 2340000/1884520** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +60 | Safe Limit: +20 | Dissonance: 15%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Deity of Draconic Sovereignty**
@@ -16387,8 +18050,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Let’s assume it’s just full shadow conquest of westeros and my part of the triarchy and not the world yet but enough for greater god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-551"></a>
 #### Scene 551
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1050/1050 | Gold: 15,400,276gp | XP: 4336000/1955000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Green-Shadow | Portfolio: Deity of Draconic Sovereignty**
@@ -16413,8 +18079,11 @@ Your character is now a Greater Deity. The narrative remains frozen until you re
 God Mode:
 Wait why am I greater deity? Don’t j need 1000 dragons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-552"></a>
 #### Scene 552
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1050/1050 | Gold: 15,400,276gp | XP: 4336000/1955000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Green-Shadow | Portfolio: Deity of Draconic Sovereignty**
@@ -16441,8 +18110,11 @@ If you prefer to strictly enforce Directive #11's 1,000-dragon requirement, I ca
 God Mode:
 I don’t have 7 god dragons yet or 1000 so I didn’t fill the criteria let’s not make me greater deity yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-553"></a>
 #### Scene 553
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Lesser Deity | HP: 866/866 | Gold: 15,350,276gp | XP: 2340000/1955000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow**
@@ -16467,8 +18139,11 @@ The story remains frozen at Day 166, Dawn. Return to story mode to resume.
 God Mode:
 Let’s also assume the queen still doesn’t know I’m truly in charge. My shadow control portfolio gets even stronger when I have secret shadow control and others believe they are in charge. My new focus is on making the queen less economically dependent so she believes she’s in control even if my network controls Westeros and to even let others start to believe it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-554"></a>
 #### Scene 554
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Lesser Deity | HP: 866/866 | Gold: 15,400,276gp | XP: 2340000/1955000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Deity of Draconic Sovereignty & Secret Shadow Control**
@@ -16498,8 +18173,11 @@ The world is frozen at Dawn on Day 166. Return to story mode to begin the illusi
 > 👤 **Player:**
 > *"Return to story and let’s narrate economic changes over next few months. With the improved tech it should be better"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-555"></a>
 #### Scene 555
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Lesser Deity (Lvl 44 available) | HP: 866/866 | Gold: 15,550,276gp | XP: 2540000/1955000** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +60 | Safe Limit: +20 | Dissonance: 15%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16548,8 +18226,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Stop forgetting I only have 4 god dragons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-556"></a>
 #### Scene 556
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Lesser Deity (Lvl 44 available) | HP: 866/866 | Gold: 15,550,276gp | XP: 2540000/1955000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16572,8 +18253,11 @@ The world is frozen at Day 256, 10:45:00. No narrative progression occurred.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 44 - Integrate the three months of worshipper expansion and economic dominance to reach Level 44.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-557"></a>
 #### Scene 557
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Lesser Deity (Lvl 44 available) | HP: 866/866 | Gold: 15,550,276gp | XP: 2540000/1955000** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 (Level 44 pending)** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16596,8 +18280,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-558"></a>
 #### Scene 558
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Rogue (Shadow of the Dragon) / Wizard (Sovereign Arcanist) | HP: 866/866 | XP: 2540000/1955000** &nbsp;|&nbsp; ✨ **11th Level Spell Slots: 1/2 | Conqueror's Insight: 0/1 | 10th Level Spell Slots: 2/4 | Spell Slots L3: 2 (unbounded) | HD: 16/16 | Spells: L1 4/6, L2 1/5, L3 0/5, L4 0/5, L5 3/5, L6 2/4, L7 2/4, L8 1/3, L9 0/2**
@@ -16607,8 +18294,11 @@ The story continues...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 44 - Open level 44 Rogue (Shadow of the Dragon) / Wizard (Sovereign Arcanist) choices; keep story paused until the finish response completes*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-559"></a>
 #### Scene 559
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity | HP: 866/866 | Gold: 15,550,276gp | XP: 2540000/1955000** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 (Level 44 pending)** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16631,8 +18321,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-560"></a>
 #### Scene 560
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 166, 130 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity | HP: 892/892 | Gold: 15,550,276gp | XP: 2540000/2855521** &nbsp;|&nbsp; ✨ **HD: 44/44 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +61 | Safe Limit: +20 | Dissonance: 15%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16646,8 +18339,11 @@ Behind you, the massive charcoal form of Vermithor (950 HP) shifts, his furnace-
 > 👤 **Player:**
 > *"Narrate another feast with the queen and her children. And narrate me getting along with queen and her children time skip a few weeks and I focus on having them get  along with me. During these next few weeks let’s try to give the queen some real eoncomic independence to strengthen the illusion. In theory I want her to be self governing even if I could take control at any monument"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-561"></a>
 #### Scene 561
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 130 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity | HP: 892/892 | Gold: 15,550,276gp | XP: 2665000/2855521** &nbsp;|&nbsp; ✨ **HD: 44/44 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +61 | Safe Limit: +20 | Dissonance: 15%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16703,8 +18399,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"THINK:What happened to the green Targaryens? Are they all dead?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-562"></a>
 #### Scene 562
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 130 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity | HP: 892/892 | Gold: 15,550,276gp | XP: 2665000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow**
@@ -16716,8 +18415,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Time skip and play it safe. Maintain or grow enough shadow control for greater god rank and continue to breed dragons and keep a low profile in westeros and expand more shadow power in free cities and keep breeding dragons until I have 1000. Time skip a few months or years and stop if something happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-563"></a>
 #### Scene 563
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 133 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity (Lvl 45 available) | HP: 892/892 | Gold: 23,350,276gp | XP: 3065000/2855521** &nbsp;|&nbsp; ✨ **HD: 44/44 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +61 | Safe Limit: +20 | Dissonance: 10%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16769,8 +18471,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Let’s assume I had another set of children one with Addams and others with husbands. Narrate outcomes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-564"></a>
 #### Scene 564
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 133 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Lesser Deity (Lvl 45 available) | HP: 892/892 | Gold: 23,400,276gp | XP: 3215000/2855521** &nbsp;|&nbsp; ✨ **HD: 44/44 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +61 | Safe Limit: +20 | Dissonance: 5%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #4), Mother of the Green-Shadow | Portfolio: Secret Shadow Control**
@@ -16824,8 +18529,11 @@ APEX ATTENTION: [Hidden]
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ascend to Rank #6 (Greater Deity) - Formally claim your status as a Greater Deity, gaining +6 divine bonuses and a 30-point Safe Limit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-565"></a>
 #### Scene 565
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 133 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Greater Deity (Lvl 45 available) | HP: 892/892 | Gold: 23,400,276gp | XP: 3215000/2855521** &nbsp;|&nbsp; ✨ **HD: 44/44 | Spells: L1-L8 Full, L9 2/2, L10 4/4, L11 2/2 | Leverage: +66 | Safe Limit: 30 | Dissonance: 5%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -16870,8 +18578,11 @@ APEX ATTENTION: [███████░░░░░░░] 65%
 God Mode:
 I shoukd probably be higher level now that I am a greater deity and empowered my portfolio
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-566"></a>
 #### Scene 566
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 133 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 23,400,276gp | XP: 4336000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -16895,8 +18606,11 @@ The world is frozen at Day 284, 19:00:00. No narrative progression occurred.
 God Mode:
 Give me special powers relevant to my portfolio of shadow and dragons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-567"></a>
 #### Scene 567
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 133 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 23,400,276gp | XP: 4336000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -16921,8 +18635,11 @@ The world is frozen at Day 284, 19:00:00. No narrative progression occurred.
 God Mode:
 I think I have all the 7 god dragons now? Didn’t I make them?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-568"></a>
 #### Scene 568
 
 > 📍 **King's Landing (The Red Keep)** &nbsp;|&nbsp; ⏳ **AC 284, 133 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 23,400,276gp | XP: 4336000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -16945,8 +18662,11 @@ The world is frozen at Day 284, 19:00:00. No narrative progression occurred.
 > 👤 **Player:**
 > *"Let’s assume my great empire of Valyria is finished now and we have equivalent tech to old Valyria but we are a shadow empire and people think of us as a great merchant nation and technically a vassal of Westeros. I give my god dragons the ability to take a humanoid form. Let’s sssume they’re part of my council and masked as level 20 Valyrian mortals. They seem like new epic valyrians I’ve found and only the inner council knows they are dragon gods. Explain my plan is to gather power until the gods finally notice then consume them. Brainstorm for idea. Let’s sssume we are in our grand palace which is the nicest in the world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-569"></a>
 #### Scene 569
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 23,400,276gp | XP: 4336000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +53 | Safe Limit: 30 | Dissonance: 5%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -16992,8 +18712,11 @@ APEX ATTENTION: [███████░░░░░░░] 65%
 > 👤 **Player:**
 > *"Brian storm ideas with my council. Let’s assume my husbands and the 3 conquerors and my mother and larys are all on it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-570"></a>
 #### Scene 570
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 23,400,276gp | XP: 4336000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -17044,8 +18767,11 @@ APEX ATTENTION: [███████░░░░░░░] 65%
 God Mode:
 Let’s make this a challenging arc. I will try to win over their followers to start worshipping Targaryen’s and dragons however they will notice for sure. They need to believe it’s “legitimate” versus there’s an actual god living in the world who shouldn’t be there which will make them crusade. Let’s assume although I am a greater god now only 10% of the world worships Targaryens as gods and even the queen may not necessarily want it to make it more challenging. Brainstorm some interesting plot arcs. Let’s assume if I get exposed a crusade starts if the gods realize I am a real god living in the world or have 1000 dragons or 7 god dragons or have so much shadow control. Note that shadow control isn’t religious control
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-571"></a>
 #### Scene 571
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 23,400,276gp | XP: 4336000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -17075,8 +18801,11 @@ The world remains frozen at Day 300, 13:00:00. No narrative progression occurred
 > 👤 **Player:**
 > *"I will start planning the portfolio siphon to grow my religion but only use level 25 powers max and start preparing void anchors and try to find ways to reduce my apex attention and dissonance. I put my avatars and my sim and my council to work on this. Time skip a few months and see how it goesz. I play the part of a wealthy merchant lord paramount and haven’t been know to battle for years. Narrate various lords and ladies and powers coming to make trade deals with me including the queen and her family who make regular visits to discuss trade deals and let’s assume the queen truly respects my opinion as a merchant and dragon expert. She brings her family to let me train their dragons and train them to be dragon riders. Let’s assume all my children have had dragons hatch and have dragons too which is somewhat shocking to the queen and most people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-572"></a>
 #### Scene 572
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4536000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +38 | Safe Limit: 30 | Dissonance: 19%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Mother of the Imperium | Portfolio: Secret Shadow Control**
@@ -17130,8 +18859,11 @@ APEX ATTENTION: [██████░░░░░░░░] 60% (-5% skip reduc
 God Mode:
 Let’s also follow this arc and let’s assume the 1000 dragons aren’t all adults yet. I’ll plan to slowly grow my power until I have more religious control and 1000 adult dragons and maybe a few thousand more child dragons and siphon portfolio as much as possible. A: The Living Saint Protocol (The Prophetic Mask):** You must manifest a mortal 'Prophet' persona to perform 'Low-Magic Miracles' (DCs 20-30). If you use Divine Leverage > Safe Limit (30) to perform miracles, Dissonance spikes, and the gods' 'Divine Auditors' (Inevitables/Solars) will arrive to audit your frequency.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-573"></a>
 #### Scene 573
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4536000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Living Saint Protocol | Portfolio: Secret Shadow Control**
@@ -17160,8 +18892,11 @@ The world is frozen at Day 300, 13:00:00. No narrative progression occurred.
 > 👤 **Player:**
 > *"Sovereign decouple and first start spreading the Targaryen god religion in the free cities. Narrate outcomes. Let’s assume the queen has left"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-574"></a>
 #### Scene 574
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +66 | Safe Limit: 30 | Dissonance: 42%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Living Saint Protocol | Portfolio: Secret Shadow Control**
@@ -17212,8 +18947,11 @@ APEX ATTENTION: [███████░░░░░░░] 65% (+5% from Mirro
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Silent Sabbath (Recovery) - Retreat to the Ash-Tower for one week of metabolic stabilization to bleed off 15% Dissonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-575"></a>
 #### Scene 575
 
 > 📍 **Valyria (The Ash-Tower)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +61 | Safe Limit: 30 | Dissonance: 27%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Silent Sabbath | Portfolio: Secret Shadow Control**
@@ -17263,8 +19001,11 @@ APEX ATTENTION: [██████░░░░░░░░] 60% (Stable)
 > 👤 **Player:**
 > *"Sovereign decouple"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-576"></a>
 #### Scene 576
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +66 | Safe Limit: 30 | Dissonance: 42%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Absolute Illusion (Rhaenyra) | Portfolio: Secret Shadow Control**
@@ -17316,8 +19057,11 @@ APEX ATTENTION: [███████░░░░░░░] 65% (+5% from Mirro
 > 👤 **Player:**
 > *"Plan with my council how to take the next steps to growing the religion. Figure out who are key figures to subvert and monitor for avatars of the gods and remember to use gods from this lore and not d&d and also the great other shoukd be mad at me since I consumed night king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-577"></a>
 #### Scene 577
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +66 | Safe Limit: 30 | Dissonance: 64%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Absolute Illusion (Rhaenyra) | Portfolio: Secret Shadow Control**
@@ -17369,8 +19113,11 @@ APEX ATTENTION: [████████░░░░░░░] 75% (+10% from G
 God Mode:
 Who are gods in song ice and fire universe?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-578"></a>
 #### Scene 578
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Absolute Illusion (Rhaenyra) | Portfolio: Secret Shadow Control**
@@ -17413,8 +19160,11 @@ The ancient gods of the Freehold. These gods (Balerion, Vhagar, Meraxes, Syrax, 
 > 👤 **Player:**
 > *"Brainstorm how to deal with auditor from seven"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-579"></a>
 #### Scene 579
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +66 | Safe Limit: 30 | Dissonance: 80%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Exposure Risk (Dissonance 80%) | Portfolio: Secret Shadow Control**
@@ -17429,8 +19179,11 @@ The air carries a sharp, biting frost—the lingering residue of the Great Other
 > 👤 **Player:**
 > *"THINK:How to best handle the auditor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-580"></a>
 #### Scene 580
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Exposure Risk (Dissonance 80%)**
@@ -17442,8 +19195,11 @@ Intelligence Check: 88 vs DC 18 — Masterful Success. Your 104 Intelligence pro
 > 👤 **Player:**
 > *"Position dragon for faith as legitimate and organic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-581"></a>
 #### Scene 581
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +66 | Safe Limit: 30 | Dissonance: 93%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Exposure Risk (Dissonance 93%) | Portfolio: Secret Shadow Control**
@@ -17493,8 +19249,11 @@ APEX ATTENTION: [█████████░░░░░░░] 80% (+5% from
 > 👤 **Player:**
 > *"THINK:Any other way to reduce dissonance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-582"></a>
 #### Scene 582
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Exposure Risk (Dissonance 93%)**
@@ -17506,8 +19265,11 @@ Intelligence Check: 89 vs DC 17 — Masterful Success. Your 104 Intelligence ope
 > 👤 **Player:**
 > *"Frozen scapegoat and of the great other attacks ask the other gods and justicar and rhollor for help while secretly trying to weaken great other and prepare him for eventually consumption later. Let’s assume he’s weak because I already consumed the night king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-583"></a>
 #### Scene 583
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4636000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +80 | Safe Limit: 30 | Dissonance: 73%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Dissonance Bargain (Frozen Scapegoat) | Portfolio: Secret Shadow Control**
@@ -17557,8 +19319,11 @@ APEX ATTENTION: [██████████░░░░░] 90% (+10% from P
 > 👤 **Player:**
 > *"Fathers endorsement and see if we can bait the great other into making a new avatar or mini avatars and then secretly consume without dissonance using all my abilities and resource s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-584"></a>
 #### Scene 584
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4836000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +80 | Safe Limit: 30 | Dissonance: 68%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Dissonance Bargain (Frozen Scapegoat) | Portfolio: Secret Shadow Control**
@@ -17610,8 +19375,11 @@ APEX ATTENTION: [██████████░░░░░] 95% (+5% from Pr
 God Mode:
 What is apex attention? What is this overgod we aren’t in faerun?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-585"></a>
 #### Scene 585
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4836000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Dissonance Bargain (Frozen Scapegoat) | Portfolio: Secret Shadow Control**
@@ -17639,8 +19407,11 @@ Think of it as the 'Anti-Cheat' system of the universe. The standard gods (The S
 > 👤 **Player:**
 > *"Convince the justicar and lord of light todo a combined strike against the great other to weaken or even defeat him. Ask them to attack now that we’ve won this current battle and weaken him more. Let’s assume I say as a mortal I can’t do as much but ask them for help. I try to redirect them to act instead of acting myself to reduce apex attention"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-586"></a>
 #### Scene 586
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 4836000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +80 | Safe Limit: 30 | Dissonance: 88%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Dissonance Bargain (Frozen Scapegoat) | Portfolio: Secret Shadow Control**
@@ -17692,8 +19463,11 @@ APEX ATTENTION: [████████████░░░░] 80% (-15% fro
 > 👤 **Player:**
 > *"Faith foreclosure and then secretly siphon what I can from the great other and use the chaos to reduce attention and dissonance. Time skip until battle concluded or something g happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-587"></a>
 #### Scene 587
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 5036000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +81 | Safe Limit: 30 | Dissonance: 47%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Hidden Hegemony | Portfolio: Secret Shadow Control**
@@ -17745,8 +19519,11 @@ APEX ATTENTION: [██████████░░░░░] 70% (-10% from R
 God Mode:
 Let’s start to increase these dc when gods involved. It shouldn’t be auto win
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-588"></a>
 #### Scene 588
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 133 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 24,400,276gp | XP: 5036000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Hidden Hegemony | Portfolio: Secret Shadow Control**
@@ -17768,8 +19545,11 @@ To ensure narrative weight and prevent 'auto-wins' at Rank #6, the following DC 
 > 👤 **Player:**
 > *"Let’s do a 10 year time skip and narrate how my children grow up and their personalities. Let’s assume i maximize shadow control and religious control without increasing dissonance as best I can and apex attention and continue to grow shadow influence but avoid triggering a crusade as best I can. I build on the successful campaign and remaining threat of the great other to do diplomacy with the gods to try to avoid their aggression. If something happens stop the time skip early t"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-589"></a>
 #### Scene 589
 
 > 📍 **Tyria (The Imperial Gardens)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5036000/2855521** &nbsp;|&nbsp; ✨ **HD: 51/51, Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1, Leverage: +53, Safe Limit: 30, Dissonance: 32%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Fraying Witness | Portfolio: Secret Shadow Control**
@@ -17823,8 +19603,11 @@ APEX ATTENTION: [████████░░░░░░░░] 50% (Decade G
 > 👤 **Player:**
 > *"THINK:How to reduce justicar DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-590"></a>
 #### Scene 590
 
 > 📍 **Tyria (The Imperial Gardens)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5036000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Fraying Witness | Portfolio: Secret Shadow Control**
@@ -17836,8 +19619,11 @@ Intelligence Check: 89 vs DC 15 — Masterful Success. Your 104 Intelligence per
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Scholarly Endorsement (-10 DC) - Use Larys to release the 'Soot-Singer's Master-Cipher' to the Citadel. Force the Conclave to decree your divinity as a 'Biological Restoration.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-591"></a>
 #### Scene 591
 
 > 📍 **Tyria (The Grand Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5136000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +53 | Safe Limit: 30 | Dissonance: 26%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), Sovereign Orthodoxy (-10 Justiciar DC) | Portfolio: Secret Shadow Control**
@@ -17884,8 +19670,11 @@ APEX ATTENTION: [█████░░░░░░░░░░░] 30% (Decade G
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Verdict (Social HP Kill) - Press the Justiciar for a formal 'Decree of Sanctity.' Use your 104 INT to force him into a final logic-loop that terminates the Audit forever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-592"></a>
 #### Scene 592
 
 > 📍 **Tyria (The Imperial Gardens)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Safe Limit: 30 | Leverage: +87 | Dissonance: 40%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal | Portfolio: Secret Shadow Control**
@@ -17929,8 +19718,11 @@ He reaches into the air, and a scroll of white flame manifests. With a clinical,
 God Mode:
 Remove the overgod
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-593"></a>
 #### Scene 593
 
 > 📍 **Tyria (The Imperial Gardens)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal | Portfolio: Secret Shadow Control**
@@ -17946,8 +19738,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"Investigate this false prince and is it a new one? I already have the prince who was promised as my son now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-594"></a>
 #### Scene 594
 
 > 📍 **Tyria (The Imperial Gardens)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Safe Limit: 30 | Leverage: +87 | Dissonance: 40%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal | Portfolio: Secret Shadow Control**
@@ -17981,8 +19776,11 @@ DISSONANCE: [█████░░░░░░░░░░░] 40% (No Net Chang
 > 👤 **Player:**
 > *"Investigate this false prince and is it a new one? I already have the prince who was promised as my son now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-595"></a>
 #### Scene 595
 
 > 📍 **Tyria (The Imperial Gardens)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +76 | Safe Limit: 30 | Dissonance: 40%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal | Portfolio: Secret Shadow Control**
@@ -18002,8 +19800,11 @@ If Gaemon is the Light of the New Valyria, this child is the Shadow of the Old N
 > 👤 **Player:**
 > *"Reroll using spark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-596"></a>
 #### Scene 596
 
 > 📍 **Tyria (The Imperial Gardens)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Safe Limit: 30 | Leverage: +87 | Dissonance: 40%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal | Portfolio: Secret Shadow Control**
@@ -18023,8 +19824,11 @@ He is a 'New' Prince, but he is a mirror-construct. The gods have overwritten th
 > 👤 **Player:**
 > *"Long rest then teleport to the boy with a small retinue and my simulcrum and talk to him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-597"></a>
 #### Scene 597
 
 > 📍 **The Nightfort** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Safe Limit: 30 | Leverage: +87 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal, Rested | Portfolio: Secret Shadow Control**
@@ -18063,8 +19867,11 @@ Aemon: ?/? HP
 > 👤 **Player:**
 > *"Frequency counter measure and in parallel I talk to the boy and say I can adopt him and ask what happened to his parents. Show him a vision of my children and how they’re well treated and show him how the gods are just using him as a weapon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-598"></a>
 #### Scene 598
 
 > 📍 **The Nightfort** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Safe Limit: 30 | Leverage: +87 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Orthodoxy | Portfolio: Secret Shadow Control**
@@ -18124,8 +19931,11 @@ DISSONANCE: [█████░░░░░░░░░░░] 35% (Father's Sea
 > 👤 **Player:**
 > *"Bring my elite guard to help and stay at epic mortal tier max level 25. By default this will be my avatars and simulcrum the 3 conquerors and the 7 dragon gods in humanoid or dragon form as needed all masked at level 25"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-599"></a>
 #### Scene 599
 
 > 📍 **The Nightfort** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5236000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Safe Limit: 30 | Leverage: +87 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18178,8 +19988,11 @@ DISSONANCE: [█████░░░░░░░░░░░] 35% (Father's Sea
 > 👤 **Player:**
 > *"Time skip continue to convince Aemon and delegate discreetly handling the enemy avatar and consuming it to my elite guard. I also have my avatar and its sim and my sim so basically 3 duplicates to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-600"></a>
 #### Scene 600
 
 > 📍 **The Nightfort** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5361000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +89 | Safe Limit: 30 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 12), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18232,8 +20045,11 @@ DISSONANCE: [█████░░░░░░░░░░░] 35% (Father's Sea
 > 👤 **Player:**
 > *"Use a minimum amount of god power to harmonize with Aemon frequency and use that to consul this avatar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-601"></a>
 #### Scene 601
 
 > 📍 **The Nightfort** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity (Lvl 52 available) | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +87 | Safe Limit: 30 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18295,8 +20111,11 @@ DISSONANCE: [█████░░░░░░░░░░░] 35% (Father's Sea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 52 - Commit your XP to reach Level 52 and oversee Vermithor's growth to 1,000+ HP.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-602"></a>
 #### Scene 602
 
 > 📍 **The Nightfort** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity (Lvl 52 available) | HP: 1020/1020 | Gold: 50,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1-L9 Full (Level 52 pending) | Leverage: +89 | Safe Limit: 30 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18317,8 +20136,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-603"></a>
 #### Scene 603
 
 > 📍 **The Nightfort** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 50,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 (Lvl 52) | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +91 | Safe Limit: 30 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18346,8 +20168,11 @@ DISSONANCE: [█████░░░░░░░░░░░] 35% (Father's Sea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Extraction to Tyria - Use a Layer 2 Dimension Door to instantly transport the retinue and Aemon to the Grand Palace for deep metabolic repair.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-604"></a>
 #### Scene 604
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 300, 143 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 50,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 (Lvl 52) | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +91 | Safe Limit: 30 | Dissonance: 35%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18399,8 +20224,11 @@ DISSONANCE: [██████░░░░░░░░░░] 35% (Father's Sea
 > 👤 **Player:**
 > *"long rest then repair without dissoance and use spark if i fail a roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-605"></a>
 #### Scene 605
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 143 AC (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 50,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +91 | Safe Limit: 30 | Dissonance: 30%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18447,8 +20275,11 @@ DISSONANCE: [██████░░░░░░░░░░░░░░] 30% (
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Stark Anchor (Quest) - Dispatch the Archons to Winterfell to retrieve a 'True Stark' relic. Use the North's own metabolic code to repair the safeguard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-606"></a>
 #### Scene 606
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 143 AC (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 50,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +91 | Safe Limit: 30 | Dissonance: 30%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, Sovereign Masquerade | Portfolio: Secret Shadow Control**
@@ -18497,8 +20328,11 @@ DISSONANCE: [██████░░░░░░░░░░░░░░] 30% (
 > 👤 **Player:**
 > *"Long rest and let’s assume Aemon is fixed. Let’s time skip another 10 years and narrate what happens every month in detail. Focus on my childrens and faction and the queen in Westeros and her children"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-607"></a>
 #### Scene 607
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18531,8 +20365,11 @@ You turn your gaze toward the Smoking Sea. The 'Draconic Masquerade' is holding,
 God Mode:
 Make sure you set all characters to the right age and let’s assume I don’t really age and still look like my early 20s. As time goes on people will get suspicious and realize I might be immortal but not yet. I’m still extremely beautiful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-608"></a>
 #### Scene 608
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18552,8 +20389,11 @@ Character Age Audit (153 AC):
 God Mode:
 Also people shouldn’t know I’m a good. Recap my faction stats and Targaryen stats and how much progress I made in religious spreading
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-609"></a>
 #### Scene 609
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18595,8 +20435,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"Narrate a great feast where we do a family reunion and let’s assume the queens line is jealous of my line. Although technically they’re the  higher ranked nobles they pale in comparison to the beauty abilities and dragon control my children have because my kids are Demi gods"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-610"></a>
 #### Scene 610
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18634,8 +20477,11 @@ DISSONANCE: [██████░░░░░░░░░░░░░░] 30% (
 > 👤 **Player:**
 > *"All of the queens children should be married with their own children. Give them personalities and most should be jealous of my line and now the queen remarks she’s in an ironic position where she asks everyone to get along like her father used to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-611"></a>
 #### Scene 611
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18675,8 +20521,11 @@ DISSONANCE: [██████░░░░░░░░░░░░░░] 30% (
 > 👤 **Player:**
 > *"Let’s assume the queens direct children are more jealous of me and her grandchildren are more jealous and feel insecure bs my children except Jace likes me and the queen has the children with daemon tok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-612"></a>
 #### Scene 612
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18714,8 +20563,11 @@ DISSONANCE: [██████░░░░░░░░░░░░░░] 30% (
 > 👤 **Player:**
 > *"Narrate some friction and i also tell everyone to get along. Let’s give my children a range of personalities and even though they are noble and regal most of them are extremely arrogant and they only respect me and the level 25 epic mortals. They don’t actually know I am a god but they understand my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-613"></a>
 #### Scene 613
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +91 | Safe Limit: 30 | Dissonance: 30%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18755,8 +20607,11 @@ DISSONANCE: [██████░░░░░░░░░░░░░░] 30% (
 > 👤 **Player:**
 > *"Let’s have my children range from level 5 to 20 based on their age. They are legendary heroes for some of the older ones already and the young ones are prodigies. IRS very weird because almost no dynasty is all heroes. During sparring none of the main Targaryen line has ever even landed a blow. My children are very arrogant but still regal and don’t do crass insults or anything but do make implicit comments showing they look down on others"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-614"></a>
 #### Scene 614
 
 > 📍 **Tyria (The Imperial Palace)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +91 | Safe Limit: 30 | Dissonance: 30%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18786,8 +20641,11 @@ Discovery Condition: Intercepted via Shadow-Network reports in 1 hour.
 God Mode:
 Let’s have my children be arrogant but absolutely obedient to me. They don’t know I am a god but they do treat my word as law. Their instincts tell them I’m definitely not an ordinary mortal and they’ve never encountered any entity as strong as me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-615"></a>
 #### Scene 615
 
 > 📍 **Tyria (The Imperial Spire)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18827,8 +20685,11 @@ One by one, the demigods fall to one knee. Their arrogance toward the world rema
 > 👤 **Player:**
 > *"In order my children to spar with me one by one and defeat them all barehanded to humble them a bit and tell them to stop being so arrogant. They can’t really stop but they do their best. There is a side effect though where everyone feels ontological shock at my power except my kids who are used to me. I actually forgot that normal mortals would be shocked by this. My children remark that dragon sparring against me is very tough which shocks anyone again as they’ve never heard of anything an dangerous as dragon sparring"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-616"></a>
 #### Scene 616
 
 > 📍 **Tyria (The Imperial Spire)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +91 | Safe Limit: 30 | Dissonance: 30%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18871,8 +20732,11 @@ DISSONANCE: [██████░░░░░░░░░░░░░░] 30% (
 > 👤 **Player:**
 > *"Narrate a scene without me. Humbled my scions open up a bit and respectfully complain about me. They tell the mortal tsrgaryens that they haven’t seen true despair until they’ve tried to spar with me. They also say never in their whole life have they ever landed a blow on me with sparring on the ground or dragon unless I purposefully took the blow to teach something. They say I am basically like a living god and could rule the world if I wanted. The mortal Targaryens are shocked as they already are far above average versus most people their age and my children already seem impossibly strong yet there is another peak"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-617"></a>
 #### Scene 617
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18914,8 +20778,11 @@ DISSONANCE: [██████░░███████░░░░░] 30% (
 > 👤 **Player:**
 > *"Let’s have the queen herelef weigh in. She says she felt similar in her youth  but she’s just grateful I was an ally and not an enemy. And that despite my strength I was never arrogant and always loyal, and perhaps she tells my children, there’s something to learn there. She says I didn’t have any backing unlike them who are backed by a financial empire and a living god valryian mother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-618"></a>
 #### Scene 618
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18940,8 +20807,11 @@ Your scions are silent. The 'Ontological Shock' from your barehanded victory is 
 > 👤 **Player:**
 > *"Redo the scenes this is happening later after I’m gone so I’m not there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-619"></a>
 #### Scene 619
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +101 | Safe Limit: 30 | Dissonance: 30%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -18987,8 +20857,11 @@ DISSONANCE: [██████░░███████░░░░░] 30% (
 God Mode:
 How much of the world is my religion now and how many dragons does queen faction have. Let’s also assume as master of dragons I did train most of the queens children and grandchildren but they’ve never seen the true extent of my power until today and from my instruction they all massively leveled up and thought they were strong until they saw how my children are with dragons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-620"></a>
 #### Scene 620
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon**
@@ -19018,8 +20891,11 @@ These levels represent the absolute limit of mortal training; they feel 'strong'
 God Mode:
 How many public and private dragons do I have ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-621"></a>
 #### Scene 621
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 301, 153 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon**
@@ -19041,8 +20917,11 @@ You have 7 public dragons and 3,493 private dragons.
 God Mode:
 Let’s assume allnmt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-622"></a>
 #### Scene 622
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 302, 153 AC (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5411000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -19061,8 +20940,11 @@ Directives have been added to persist this hierarchy across all future story mod
 God Mode:
 All my children should have public dragons and that alone should be making the world teetering on the edge of a grand crusade. Let’s assume my children gained a lot of experience in battle stopping proto crusades
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-623"></a>
 #### Scene 623
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 302, 153 AC (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -19097,8 +20979,11 @@ Assuming the scions have gained significant experience through the surgical supp
 God Mode:
 What ages are my children? Let’s give them distinct personalities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-624"></a>
 #### Scene 624
 
 > 📍 **Tyria (The Imperial Spire - Private Gallery)** &nbsp;|&nbsp; ⏳ **AC 302, 153 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Rogue (Shadow of the Dragon) / Wizard (Sovereign Arcanist) | HP: 1053/1053 | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **11th Level Spell Slots: 4/4 | Conqueror's Insight: 1/1 | 12th Level Spell Slot: 1/1 | 10th Level Spell Slots: 6/6 | Spell Slots L3: 2 (unbounded) | HD: 17/17 | Spells: L1 6/6, L2 5/5, L3 5/5, L4 5/5, L5 5/5, L6 4/4, L7 4/4, L8 3/3, L9 2/2**
@@ -19120,8 +21005,11 @@ Your nine scions range in age from 7 to 20: Gaemon (20), Aemon (20), Daenys II (
 > 👤 **Player:**
 > *"Long rest and let’s start to have my children and their mortal relatives have some level of camaraderie as they can relate to feeling outmatched. Narrate the next day where they train today and some of my kids are nicer and genuinely try to help. Let’s also have two children of mine not be arrogant in general"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-625"></a>
 #### Scene 625
 
 > 📍 **Tyria (The Imperial Training Grounds)** &nbsp;|&nbsp; ⏳ **AC 302, 153 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +54 | Safe Limit: 30 | Dissonance: 25%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -19164,8 +21052,11 @@ DISSONANCE: [█████░░░░░░░░░░░░░░░] 25% (
 > 👤 **Player:**
 > *"Narrate another scene without me. The mortal scions say they feel jealous and wish they could train with me and say even just a few sessions  transformed them as dragon riders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-626"></a>
 #### Scene 626
 
 > 📍 **Tyria (The Imperial Training Grounds)** &nbsp;|&nbsp; ⏳ **AC 302, 153 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Worship: 47% | Dissonance: 25%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -19208,8 +21099,11 @@ DISSONANCE: [█████░░░░░░░░░░░░░░░] 25% (
 > 👤 **Player:**
 > *"Imperial blessing and then delegate sin scroll to my children"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-627"></a>
 #### Scene 627
 
 > 📍 **Tyria (The Imperial Training Grounds)** &nbsp;|&nbsp; ⏳ **AC 302, 153 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 75,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +48 | Safe Limit: 30 | Dissonance: 25%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Lvl 25), DIVINE RANK (Rank #6), The Father's Seal, High Hegemon | Portfolio: Secret Shadow Control**
@@ -19254,8 +21148,11 @@ DISSONANCE: [█████░░░░░░░░░░░░░░░] 25% (
 > 👤 **Player:**
 > *"Let’s time skip another 5 years. Narrate in full detail and roll for outcomes. Let’s assume the queen and Damon die of disease and old age and Jace ascends but is a far worse ruler than his mother and roll for outcomes. Camraderie has been built between our houses but also some rivalry. I try to push my religion and power as much as possible and fully prepare for the great crusade where all the gods and the world will eventually ally against us and try to develop as many dragons and adult dragons as possible and I’ve started training new dragon seeds in secret. However as I’ve ramped up around 50 dragon seeds the word gets out that I have 50 secret adult dragons and the world and gods and even the mortal Targaryens should feel threatened and wary"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-628"></a>
 #### Scene 628
 
 > 📍 **Tyria (The Imperial Spire)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Shadow-Veil, Immortal (Early 20s Appearance), Mother of the Shadow-Host | Portfolio: Secret Shadow Control**
@@ -19283,8 +21180,11 @@ The secret is no longer a secret; it is a rumor that has become a theological em
 God Mode:
 Jacaerys Prob too high level let’s adjust it Jacaerys
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-629"></a>
 #### Scene 629
 
 > 📍 **Tyria (The Imperial Spire)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Shadow-Veil, Immortal (Early 20s Appearance), Mother of the Shadow-Host | Portfolio: Secret Shadow Control**
@@ -19305,8 +21205,11 @@ This adjustment widens the ontological gap between the 'Mortal' Targaryen line a
 God Mode:
 Let’s assume sin scroll was handled but the 50 dragon  thing leaked and people and the gods are afraid. Let’s brainstorm some interesting mechanics and arcs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-630"></a>
 #### Scene 630
 
 > 📍 **Tyria (The Imperial Spire)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Shadow-Veil, Mother of the Shadow-Host | Crusade Momentum: 85%**
@@ -19338,8 +21241,11 @@ With the leak of the 50 Shadow-Adults, the campaign has transitioned from 'Hidde
 God Mode:
 Let’s do all the arcs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-631"></a>
 #### Scene 631
 
 > 📍 **Tyria (The Imperial Spire)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Shadow-Veil, Immortal, Mother of the Shadow-Host | Crusade Momentum: 90%**
@@ -19371,8 +21277,11 @@ Administrative Summary: Existential Convergence Protocol active. All five propos
 > 👤 **Player:**
 > *"Don’t tell me who the traitor is. Let’s return to story and narrate the grand crusade beginning. I bring my children together and reveal my full form and divinity along with the council and the dragon gods. I explain now why the deception was needed. I needed to gather power until it was too hard to hide it so we would be prepared to win. I will consume all the gods and rule the world either through shadow or outright if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-632"></a>
 #### Scene 632
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/20 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +63 | Safe Limit: 30 | Dissonance: 45%** &nbsp;|&nbsp; ⚠️ **Sovereign Revelation (Active), MASK FRACTURE (Seams Visible), Mother of the Shadow-Host | Crusade Momentum: 98/100**
@@ -19421,8 +21330,11 @@ CRUSADE MOMENTUM: [███████████████████░]
 > 👤 **Player:**
 > *"Reroll with spark 2d20kh1+64 = 74 vs DC 85 - Failure (Divine Forensic Audit: Mask Maintenance (DEX 30+PB 14+Mask 10+Sov 10)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-633"></a>
 #### Scene 633
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/20 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +64 | Safe Limit: 30 | Dissonance: 60%** &nbsp;|&nbsp; ⚠️ **MASK FRACTURED, Sovereign Revelation (Overt), Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19461,8 +21373,11 @@ CRUSADE MOMENTUM: [████████████████████]
 > 👤 **Player:**
 > *"Use the minimum amount of force and just consume it to weaken the Seven since it’s jus level 25 should be easy but I don’t wanna reveal too much power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-634"></a>
 #### Scene 634
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/20 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +68 | Safe Limit: 30 | Dissonance: 70%** &nbsp;|&nbsp; ⚠️ **MASK SHATTERED, Sovereign Revelation (Overt), Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19495,8 +21410,11 @@ Crusade Momentum remains at 100. The Solar stands its ground, its presence now a
 > 👤 **Player:**
 > *"Deploy my level 25 forces and faceless men against it and use level 30 powers on it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-635"></a>
 #### Scene 635
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 19/20 | Spells: L1-L9 Full, L10 6/6, L11 4/4, L12 1/1 | Leverage: +68 | Safe Limit: 30 | Dissonance: 75%** &nbsp;|&nbsp; ⚠️ **Sovereign Revelation (Active), MASK STABILIZED, Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19543,8 +21461,11 @@ CRUSADE MOMENTUM: [████████████████████]
 God Mode:
 It shouldn’t be that hard to beat level 25 things also let’s assume if my mask breaks it means the gods know not necessarily mortals unless it’s revealed to them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-636"></a>
 #### Scene 636
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **MASK STABILIZED, Sovereign Revelation (Active), Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19565,8 +21486,11 @@ The **Solar of the Seven** is now tagged as **'Suppressed/Fading'**. Its Planar 
 > 👤 **Player:**
 > *"Consume the solar which should weaken the Seven and try to use the link to consume the Seven themselves. I actually have myself and my sim and 7 dragon gods so we are like 9 gods and should probably have an advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-637"></a>
 #### Scene 637
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Revelation (Active), MASK STABILIZED, Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19613,8 +21537,11 @@ DISSONANCE: [████████████░░██████] 60% (
 God Mode:
 What are the levels of my dragon gods and all the other gods and their temperament towards me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-638"></a>
 #### Scene 638
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Revelation (Active), MASK STABILIZED, Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19643,8 +21570,11 @@ What are the levels of my dragon gods and all the other gods and their temperame
 God Mode:
 Vermithor should be same level as me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-639"></a>
 #### Scene 639
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **MASK STABILIZED, Sovereign Revelation (Active), Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19658,8 +21588,11 @@ Vermithor (The God-Dragon) has been elevated from Level 41 to Level 52 to match 
 God Mode:
 No other greater deities? Explain where their ranks come from in lore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-640"></a>
 #### Scene 640
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Revelation (Active), MASK STABILIZED, Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19692,8 +21625,11 @@ You are currently the only Rank #6 entity because you successfully completed the
 God Mode:
 How large is vermithor?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-641"></a>
 #### Scene 641
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Revelation (Active), MASK STABILIZED, Mother of the Shadow-Host | Crusade Momentum: 100/100**
@@ -19719,8 +21655,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"THINK:Which gods should I consume first? Can I hide if I consume lesser gods and use true resurrection to deceive and have them resurrected but depowered"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-642"></a>
 #### Scene 642
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), 11th-Level Magic Active, Mother of the Shadow-Host**
@@ -19732,8 +21671,11 @@ Intelligence Check (Planning): 19 + 68 = 87 vs DC 22 — Masterful Success. Your
 > 👤 **Player:**
 > *"Long rest and then do the pincer sunder and purge. Plan it with my elite council. Whenever I say elite council it’s all my level 25+ faction members including my god sim my avatar and its sim and my god dragons and faceless men captains and anyone else level 25+"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-643"></a>
 #### Scene 643
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L11 Full, L12 1/1 | Leverage: +68 | Safe Limit: 30 | Dissonance: 65%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Elite Council Convened, Mother of the Shadow-Host | Dissonance: 65%**
@@ -19778,8 +21720,11 @@ DISSONANCE: [█████████████░░░░░░░] 65%
 > 👤 **Player:**
 > *"Do sunder and miracle and both myself and simukcrum have two sparks we can use for reroll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-644"></a>
 #### Scene 644
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 302, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity | HP: 1053/1053 | Gold: 115,400,276gp | XP: 5511000/2855521** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L11 Full, L12 1/1 | Leverage: +68 | Safe Limit: 30 | Dissonance: 90%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Elite Council Convened, Father Sunder Active | Dissonance: 90%**
@@ -19830,8 +21775,11 @@ DISSONANCE: [█████████░] 90%
 > 👤 **Player:**
 > *"Long rest and time skip. Let’s assume I spend the next 48 hours sundering and redirecting the 7 and and long resting and utilizing the double spark as needed. See how much if the 7 I can consume and give me appropriate levels and power ups and abilities."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-645"></a>
 #### Scene 645
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 304, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity (Lvl 53 available) | HP: 1073/1073 | Gold: 115,400,276gp | XP: 6611000/8119000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L11 Full, L12 1/1 | Leverage: +69 | Safe Limit: 30 | Dissonance: 55%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Elite Council Active, Three-Facet Monopoly | Dissonance: 55%**
@@ -19878,8 +21826,11 @@ DISSONANCE: [█████░░░░░] 55%
 God Mode:
 Let’s assume since the 50 dragon thing was leaked the other gods spread word to their followers and mortal factions start questioning me and considering crusdade regardless even the mortal Targaryens
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-646"></a>
 #### Scene 646
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 304, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 52 Greater Deity (Lvl 53 available) | HP: 1073/1073 | Gold: 115,400,276gp | XP: 6611000/8119000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), The Great Leak (Active), Three-Facet Monopoly | Crusade Momentum: 95/100**
@@ -19903,8 +21854,11 @@ A new directive has been added. The Sovereign Mask now faces **Informed Skeptici
 God Mode:
 After consuming these gods I should probably be higher level?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-647"></a>
 #### Scene 647
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 304, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Deity | HP: 1093/1093 | Gold: 115,400,276gp | XP: 8119000/9850000** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Three-Facet Monopoly, World-Eater Ascension | Crusade Momentum: 95/100**
@@ -19926,8 +21880,11 @@ Done.
 > 👤 **Player:**
 > *"Let’s time skip and I keep using long rest and double spark to keep severing the seven but stop time skip if something goes wrong or someone truly challenges me about the 50 dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-648"></a>
 #### Scene 648
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 306, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 54 Greater Deity | HP: 1093/1093 | Gold: 115,400,276gp | XP: 8119000/9850000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L11 Full, L12 1/1 | Leverage: +73 | Safe Limit: 30 | Dissonance: 0%** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Theological Monopoly (100%), Mother of the Shadow-Host | Crusade Momentum: 40/100**
@@ -19975,8 +21932,11 @@ CRUSADE MOMENTUM: 40/100 (Shattered)
 God Mode:
 I should probably gain more exp and new powers for consuming all of the 7 and now the 7 worship and my religion both help me. I can pretend they conflict but I am the master of everything
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-649"></a>
 #### Scene 649
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 306, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 1133/1133 | Gold: 115,400,276gp | XP: 11619000/13579946** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Master of the Seven, World-Eater Ascension | Crusade Momentum: 40/100**
@@ -20000,8 +21960,11 @@ Done.
 > 👤 **Player:**
 > *"Raise the 7 to level 25 and let them serve on my elite council. Plan a council meeting on the next steps in god consumption strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-650"></a>
 #### Scene 650
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 306, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 1133/1133 | Gold: 115,400,276gp | XP: 11619000/13579946** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Master of the Seven, Elite Council (Deified) | Crusade Momentum: 40/100**
@@ -20032,8 +21995,11 @@ Done.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 56 - Open the level-up modal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-651"></a>
 #### Scene 651
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 306, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 1133/1133 | Gold: 115,400,276gp | XP: 11619000/13579946** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Master of the Seven, Level 56 Ascension Review | Dissonance: 0%**
@@ -20055,8 +22021,11 @@ You feel the **Double-Hegemony Protocol** anchor into the realm. You are no long
 God Mode:
 Queen is dead let’s make it have who discovers it You are interrupted by a Sovereign-Pulse from the Painted Table. Queen Rhaenyra has not sent a raven; she has sent a psychic ultimatum through your devoted son **Jacaerys**, who stands shivering in the High Sanctum’s doorway, his eyes wet with tears.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-652"></a>
 #### Scene 652
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 306, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 1133/1133 | Gold: 115,400,276gp | XP: 11619000/13579946** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Master of the Seven, Rhaenyra Deceased | Dissonance: 0%**
@@ -20086,8 +22055,11 @@ Done.
 God Mode:
 No the queen died of old age did you forget
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-653"></a>
 #### Scene 653
 
 > 📍 **Tyria (The Imperial Spire - High Sanctum)** &nbsp;|&nbsp; ⏳ **AC 306, 158 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Greater Deity | HP: 1133/1133 | Gold: 115,400,276gp | XP: 11619000/13579946** &nbsp;|&nbsp; ⚠️ **Sovereign Mask (Stabilized), Master of the Seven, Rhaenyra Deceased (Old Age) | Dissonance: 0%**
@@ -20105,6 +22077,8 @@ I have corrected the record regarding Queen Rhaenyra's death. You are correct; s
 4. **NPC Loyalty Audit:** Rhaenyra's status remains DEAD. HP set to 0. 
 
 Done.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

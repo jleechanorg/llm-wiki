@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (31 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Chat
@@ -851,47 +862,52 @@ Gemini is AI and can make mistakes.
 
 New document created. Parts of your response may only be available in Gemini
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Character Creation | N/A | Roleplay |
-| **02** | Riverside Manor |  | Roleplay |
-| **03** | Riverside Manor (Restored) | Month of the Abyss, Year 89 (Day 1 (Timeline Resume)) | Roleplay |
-| **04** | Riverside Manor - The Restored Study | Month of Scourge, Year 89 (Day 20) | Roleplay |
-| **05** | Riverside Manor - Solar | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **06** | Unknown (Character Creation) | Alturiak 20, 1492 DR (12:00) | Roleplay |
-| **07** | Riverside Manor | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **08** | Ardan's Watch (The Capital) | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **09** | Ardan's Watch (The Capital) | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **10** | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **11** | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:15) | Roleplay |
-| **12** | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:15) | Roleplay |
-| **13** | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:20) | Social Challenge |
-| **14** | Royal Ministry - Hall of Southern Audits | Hammer 1, 1492 DR (12:30) | Social Challenge |
-| **15** | Royal Ministry - East Wing Archives | Hammer 1, 1492 DR (12:45) | Social Challenge |
-| **16** | Royal Ministry - East Wing Archives | Hammer 1, 1492 DR (13:00) | Roleplay |
-| **17** | Royal Ministry - Main Gates | Hammer 1, 1492 DR (13:15) | Roleplay |
-| **18** | Royal Ministry - Main Gates | Hammer 1, 1492 DR (13:15) | Roleplay |
-| **19** | Royal Ministry - Main Gates | Hammer 1, 1492 DR (13:15) | Roleplay |
-| **20** | Royal Palace - Throne Room Antechamber | Hammer 1, 1492 DR (13:45) | Roleplay |
-| **21** | Royal Palace - Throne Room Antechamber | Hammer 1, 1492 DR (13:45) | Roleplay |
-| **22** | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Social Challenge |
-| **23** | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
-| **24** | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Social Challenge |
-| **25** | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
-| **26** | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
-| **27** | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
-| **28** | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:05) | Roleplay |
-| **29** | Royal Palace - Training Yard | Hammer 1, 1492 DR (14:35) | Roleplay |
-| **30** | Royal Palace - Training Yard | Hammer 1, 1492 DR (14:50) | Roleplay |
-| **31** | Royal Palace - Training Yard | Hammer 1, 1492 DR (15:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Character Creation | N/A | Roleplay |
+| [**Scene 02**](#scene-2) | Riverside Manor |  | Roleplay |
+| [**Scene 03**](#scene-3) | Riverside Manor (Restored) | Month of the Abyss, Year 89 (Day 1 (Timeline Resume)) | Roleplay |
+| [**Scene 04**](#scene-4) | Riverside Manor - The Restored Study | Month of Scourge, Year 89 (Day 20) | Roleplay |
+| [**Scene 05**](#scene-5) | Riverside Manor - Solar | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown (Character Creation) | Alturiak 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Riverside Manor | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Ardan's Watch (The Capital) | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Ardan's Watch (The Capital) | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:15) | Roleplay |
+| [**Scene 12**](#scene-12) | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:15) | Roleplay |
+| [**Scene 13**](#scene-13) | Ardan's Watch - Royal Ministry | Hammer 1, 1492 DR (12:20) | Social Challenge |
+| [**Scene 14**](#scene-14) | Royal Ministry - Hall of Southern Audits | Hammer 1, 1492 DR (12:30) | Social Challenge |
+| [**Scene 15**](#scene-15) | Royal Ministry - East Wing Archives | Hammer 1, 1492 DR (12:45) | Social Challenge |
+| [**Scene 16**](#scene-16) | Royal Ministry - East Wing Archives | Hammer 1, 1492 DR (13:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Royal Ministry - Main Gates | Hammer 1, 1492 DR (13:15) | Roleplay |
+| [**Scene 18**](#scene-18) | Royal Ministry - Main Gates | Hammer 1, 1492 DR (13:15) | Roleplay |
+| [**Scene 19**](#scene-19) | Royal Ministry - Main Gates | Hammer 1, 1492 DR (13:15) | Roleplay |
+| [**Scene 20**](#scene-20) | Royal Palace - Throne Room Antechamber | Hammer 1, 1492 DR (13:45) | Roleplay |
+| [**Scene 21**](#scene-21) | Royal Palace - Throne Room Antechamber | Hammer 1, 1492 DR (13:45) | Roleplay |
+| [**Scene 22**](#scene-22) | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Social Challenge |
+| [**Scene 23**](#scene-23) | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
+| [**Scene 24**](#scene-24) | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Social Challenge |
+| [**Scene 25**](#scene-25) | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
+| [**Scene 26**](#scene-26) | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
+| [**Scene 27**](#scene-27) | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:00) | Roleplay |
+| [**Scene 28**](#scene-28) | Royal Palace - The Silver Throne Room | Hammer 1, 1492 DR (14:05) | Roleplay |
+| [**Scene 29**](#scene-29) | Royal Palace - Training Yard | Hammer 1, 1492 DR (14:35) | Roleplay |
+| [**Scene 30**](#scene-30) | Royal Palace - Training Yard | Hammer 1, 1492 DR (14:50) | Roleplay |
+| [**Scene 31**](#scene-31) | Royal Palace - Training Yard | Hammer 1, 1492 DR (15:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **N/A** &nbsp;|&nbsp; 🛡️ **Lvl ? | HP: ? | XP: ? | Gold: ?** &nbsp;|&nbsp; ✨ **N/A**
@@ -920,8 +936,11 @@ Which campaign shall we resume?
 > 👤 **Player:**
 > *"Option 1, but lets make me like level 12 and change the banned names"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Riverside Manor** &nbsp;|&nbsp; 🛡️ **Lvl 12 Warrior/Secret Sorcerer | HP: 104/104 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery Points: 5/5, Lay on Hands: 35/35**
@@ -947,8 +966,11 @@ Does this Level 12 incarnation of Alexiel meet your approval, or shall we adjust
 > 👤 **Player:**
 > *"reread the soruce text i think i was a warlock? read all the abilities/spells i am supposed to have and make a custom class for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Riverside Manor (Restored)** &nbsp;|&nbsp; ⏳ **Month of the Abyss, Year 89 (Day 1 (Timeline Resume))** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100,000/120,000 | Gold: 5,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3** &nbsp;|&nbsp; ⚠️ **Sovereign Seals Active | Exhaustion: 0 | Inspiration: Yes**
@@ -974,8 +996,11 @@ Does this custom Abyssal Sovereign build capture the dread and elegance of your 
 > 👤 **Player:**
 > *"give me medium armor, stealth friend,y read source text for my gear,i tems, abilities, wealth. i consumed the heart of the river or something so I should have unique powers and i have some evil god patron and give me a soul stelaing ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Riverside Manor - The Restored Study** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 89 (Day 20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100,000/120,000 | Gold: 5,000 Guild Florins** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3 | Masks: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1005,8 +1030,11 @@ make me a warlock variant and cha primary spellcasting stat
 
 give me finesse weapon and in general +1 gear and some spell DC/atk gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Riverside Manor - Solar** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100,000/120,000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Gloomstalkers: 3/3 | Soul Siphon: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1028,8 +1056,11 @@ Does this Tier 3 Continental power meet your final approval, or shall we make an
 > 👤 **Player:**
 > *"make my water abilities better and let me control water once per combat, gie me all water spells automatically at every level."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown (Character Creation)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100,000/120,000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1050,8 +1081,11 @@ Is your ascension complete, or shall we refine your shadow-wrapped destiny furth
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Confirm this perfected vessel and begin the campaign.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Riverside Manor** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100000/120000 | Gold: 5,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3** &nbsp;|&nbsp; ⚠️ **Sovereign Presence | Exhaustion: 0 | Inspiration: No**
@@ -1065,8 +1099,11 @@ Outside, the Silverflow rushes with a preternatural vigor that mirrors your own 
 God Mode:
 read the original source more carefully, i think we were visiting the king and i had atrade monopoly so i should get way more income and was i already a baron?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Ardan's Watch (The Capital)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100,000/120,000 | Gold: 5,000gp**
@@ -1082,8 +1119,11 @@ State and location updated. Ready to resume.
 God Mode:
 give me the income daily and shouldnt it be more money for a river trade monooply? also first read the original source and recap everything in summary relevant to the plot max 2000 words
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Ardan's Watch (The Capital)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100,000/120,000 | Gold: 5,000gp**
@@ -1118,8 +1158,11 @@ Currently situated in Ardan's Watch, Alexiel's objective is the throne. She inte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign in Ardan's Watch as you begin the infiltration of the Royal Ministry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Ardan's Watch - Royal Ministry** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 100,000/120,000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Daily Income: 100gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1150,8 +1193,11 @@ Barnaby (Lvl 1) waits at the edge of the square, holding the reins of your horse
 > 👤 **Player:**
 > *"assume ashbary is with me and deploy gloomstalker scouts first (masked as humans, like all my summons), scout things, and then finally present creds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Ardan's Watch - Royal Ministry** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 100300/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3 Active | Soul Siphon: Ready** &nbsp;|&nbsp; ⚠️ **Layer 0 (Mortal Mask) | Exhaustion: 0 | Inspiration: No**
@@ -1167,8 +1213,11 @@ The halberds lift, and the great doors groan inward, admitting you to the cool, 
 God Mode:
 why forged creds? i am a real noble
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Ardan's Watch - Royal Ministry** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 100300/120000**
@@ -1184,8 +1233,11 @@ I have added a directive to ensure the narrative strictly distinguishes between 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Lady Ashbury - Discuss the next tactical move with Callista to ensure our grain monopoly remains protected during the audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Ardan's Watch - Royal Ministry** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 100350/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/15 | Income: 100gp/day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1213,8 +1265,11 @@ You gain 50 XP for the tactical consultation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit Julian's Greed - Instruct Callista to 'accidentally' leak news of a false Sunken Vault discovery to Julian to distract him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Royal Ministry - Hall of Southern Audits** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 101350/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Income: 100gp/day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1240,8 +1295,11 @@ You gain **1,000 XP** for successfully manipulating the Royal Auditor and protec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate the East Wing Archives - While Julian is distracted, use your Gloomstalkers to find and subvert the physical Silverflow ledgers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Royal Ministry - East Wing Archives** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 101850/120000** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 3/3, L4: 2/2, Gloomstalkers: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1282,8 +1340,11 @@ You gain **500 XP** for the clean infiltration into the restricted archives.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Clerk Interrogation & Shadow Search (Synergistic) - While you magically dominate a clerk to find the shelf, your Gloomstalkers use the distraction to swap the pages in parallel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Royal Ministry - East Wing Archives** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 102850/120000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Income: 100gp/day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1299,8 +1360,11 @@ By the time Fenn 'recovers' from his momentary lapse, the physical evidence of y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exit to Central Plaza - Regroup with Callista and assess the situation from the Ministry's exterior before targeting the Central Tower.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Royal Ministry - Main Gates** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 102850/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 0/0, Void-Anchor: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1320,8 +1384,11 @@ From your position at the threshold, your successful assessment of the Central P
 God Mode:
 lets stop this weird magic detection stuff and lets stop all these random threats/challenges and focus on our meetingwiht the king
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Royal Ministry - Main Gates** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 102850/120000**
@@ -1337,8 +1404,11 @@ I have added directives to ensure these 'random' challenges do not resurface and
 God Mode:
 stop all magic detection unless i acst an obvious spell in fronto fthem
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Royal Ministry - Main Gates** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 102850/120000**
@@ -1352,8 +1422,11 @@ Administrative Update: Passive magic detection protocols disabled.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Proceed to the audience with the King without further security interference.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Royal Palace - Throne Room Antechamber** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 102850/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1390,8 +1463,11 @@ Through the partially open doors, you catch a glimpse of the King Aethelgard (Lv
 God Mode:
 lets make ashbury a marquis
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Royal Palace - Throne Room Antechamber** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 102850/120000**
@@ -1405,8 +1481,11 @@ Administrative Update: Lady Callista Ashbury has been elevated to the rank of Ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Loyal Baroness - Approach with impeccable noble protocol, emphasizing your 'struggle' to restore Riverside Manor and your dedication to the Crown's prosperity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Royal Palace - The Silver Throne Room** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 103850/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1434,8 +1513,11 @@ You gain **1,000 XP** for successfully navigating the initial royal protocol and
 > 👤 **Player:**
 > *"THINK:what was our plan again? sell the king weapons rather than wait for him to increase taxes on us and take our revenue? then help the other side too and continue to profit?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Royal Palace - The Silver Throne Room** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 103850/120000** &nbsp;|&nbsp; ⚠️ **Layer 0 Mask (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1570,8 +1652,11 @@ Template Metadata
 Word Count: 1,029 words
 Estimated Token Count: ~1,390 tokens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Royal Palace - The Silver Throne Room** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 103850/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1656,8 +1741,11 @@ You rise slowly from your curtsy, your violet eyes meeting the King's weary gray
 God Mode:
 remove all this lucifer stuff, thats a different alexiel. onyl focus on larion story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Royal Palace - The Silver Throne Room** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | XP: 103850/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2**
@@ -1675,8 +1763,11 @@ You are now Lady Alexiel Tethlar, the Abyssal Sovereign of Highvale, standing in
 God Mode:
 redo alexiel backstory
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Royal Palace - The Silver Throne Room** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 103850/120000**
@@ -1714,8 +1805,11 @@ Administrative Summary: Alexiel Tethlar's backstory has been reconstructed using
 > 👤 **Player:**
 > *"THINK:wha twas our plan again? selling weapons?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Royal Palace - The Silver Throne Room** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5,000gp | XP: 103850/120000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1725,8 +1819,11 @@ Intelligence Check (Planning): 16 + 2 = 18 vs DC 12 — Success. Your clinical m
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Arcanist's Gambit - Propose Lifestone Weaponry - Subtly shift the conversation from grain to the 'unusual properties' of the lifestone found in the mill crates. Offer to fund a trial for lifestone-infused blades.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Royal Palace - The Silver Throne Room** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 105850/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1753,8 +1850,11 @@ You gain **2,000 XP** for successfully pivoting the royal interest toward milita
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Proof - Small Scale Demonstration - Offer to have one of the King's own master-at-arms test a lifestone-infused dagger against a standard breastplate in the training yard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Royal Palace - Training Yard** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 107350/120000** &nbsp;|&nbsp; ✨ **Slots: L1 3/4, L2 2/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3 | Soul Siphon: Ready** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1787,8 +1887,11 @@ As the courtiers crowd around the ruined armor, Marquis Callista Ashbury (Lvl 12
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mastermind's Web (Synergistic) - Press the King for the contract while Callista uses her new Marquis standing to distract the Proctor with a 'formal inquiry' regarding church taxes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Royal Palace - Training Yard** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 108850/120000** &nbsp;|&nbsp; ✨ **Spell Slots: L1 3/4, L2 2/3, L3 3/3, L4 2/2 | Income: 100gp/day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1821,8 +1924,11 @@ The King wavers, the clarity of the blade's strike clouded by the Chancellor's b
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Double-Cross (Synergistic) - Accept the limited trial for the Guard while quietly ordering your Gloomstalkers to sabotage a standard shipment of Ministry blades, making Hektor's preferred suppliers look incompetent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Royal Palace - Training Yard** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Sovereign | HP: 104/104 | Gold: 5000gp | XP: 109850/120000** &nbsp;|&nbsp; ✨ **Spell Slots: L1 3/4, L2 2/3, L3 3/3, L4 2/2 | Gloomstalkers: 3/3 | Soul Siphon: Ready** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1843,6 +1949,8 @@ Across the yard, Callista (Lvl 12) continues her relentless interrogation of the
 > Resistance Shown: "Hektor, see to the logistics of the Guard trial. Baroness... do not disappoint me. My patience for failures is as thin as that post."
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

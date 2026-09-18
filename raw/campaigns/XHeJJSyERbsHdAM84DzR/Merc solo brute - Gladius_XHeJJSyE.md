@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (110 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 I am an evil ESFP. My main goals are to amass power and wealth. Generate a rich and detailed personality and backstory for me. I am the ultimate hedonist and enjoy wealth, women, food, alcohol, social domination. I am secretly abusive and enjoy dominating powerful people, work it into the narrative.
@@ -53,126 +64,131 @@ This archetype represents a warrior of supreme will and intellect who has no fea
 
 My first contract is to kill some peasants in a small village. They insulted a noble.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | Unknown |  | Roleplay |
-| **39** | Unknown |  | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Unknown |  | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | Unknown |  | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | Unknown |  | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Unknown |  | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Unknown |  | Roleplay |
-| **70** | Unknown |  | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Unknown |  | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Unknown |  | Roleplay |
-| **82** | Unknown |  | Roleplay |
-| **83** | Unknown |  | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Unknown |  | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Unknown |  | Roleplay |
-| **88** | Unknown |  | Roleplay |
-| **89** | Unknown |  | Roleplay |
-| **90** | Unknown |  | Roleplay |
-| **91** | Unknown |  | Roleplay |
-| **92** | Unknown |  | Roleplay |
-| **93** | Unknown |  | Roleplay |
-| **94** | Unknown |  | Roleplay |
-| **95** | Unknown |  | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Unknown |  | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Unknown |  | Roleplay |
-| **100** | Unknown |  | Roleplay |
-| **101** | Unknown |  | Roleplay |
-| **102** | Unknown |  | Roleplay |
-| **103** | Unknown |  | Roleplay |
-| **104** | Unknown |  | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Roleplay |
-| **107** | Unknown |  | Roleplay |
-| **108** | Unknown |  | Roleplay |
-| **109** | Unknown |  | Roleplay |
-| **110** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+| [**Scene 39**](#scene-39) | Unknown |  | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Unknown |  | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown |  | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown |  | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown |  | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown |  | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Unknown |  | Roleplay |
+| [**Scene 82**](#scene-82) | Unknown |  | Roleplay |
+| [**Scene 83**](#scene-83) | Unknown |  | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Unknown |  | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Unknown |  | Roleplay |
+| [**Scene 88**](#scene-88) | Unknown |  | Roleplay |
+| [**Scene 89**](#scene-89) | Unknown |  | Roleplay |
+| [**Scene 90**](#scene-90) | Unknown |  | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown |  | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown |  | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Unknown |  | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown |  | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown |  | Roleplay |
+| [**Scene 100**](#scene-100) | Unknown |  | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown |  | Roleplay |
+| [**Scene 102**](#scene-102) | Unknown |  | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown |  | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown |  | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown |  | Roleplay |
+| [**Scene 109**](#scene-109) | Unknown |  | Roleplay |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -350,8 +366,11 @@ What would you like to do?
 God Mode:
 which feat did you give me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -382,8 +401,11 @@ What would you like to do?
 God Mode:
 switch it and give me great weapon master
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -486,8 +508,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Intimidate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -544,8 +569,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Clarify"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -580,8 +608,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Demand Information"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -616,8 +647,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Confirm Non-Interference"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -650,8 +684,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Press for More Info"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -686,8 +723,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. How much in each purse"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -720,8 +760,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"DemandExorbitant_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -772,8 +815,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Seek Information"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -813,8 +859,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Gather Supplies]"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -870,8 +919,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. can i buy a greatsword and plate armor? maybe potions of speed?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -911,8 +963,11 @@ Please confirm your purchasing decision.
 
 whats the best 2h weapon and armor i can afford?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -959,8 +1014,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. anything better than a greatsword?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -995,8 +1053,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"PurchaseGreatsword_1 SeekAdvancedTools_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1054,8 +1115,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. should i wear more stealthy armor?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -1083,8 +1147,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Depart for Greenmeadow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1122,8 +1189,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Scout Village Layout"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1157,8 +1227,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Locate Corvan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1196,8 +1269,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Observe/Intimidate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1233,8 +1309,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Demand Additional Confirmation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -1271,8 +1350,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Interrogate Further"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1310,8 +1392,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Confirm Mission Details]"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1347,8 +1432,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. what if i make corvan clean up the bodies?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -1382,8 +1470,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ForceCorvan_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -1422,8 +1513,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Issue Instructions to Corvan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -1460,8 +1554,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Rest Briefly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -1497,8 +1594,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Re-Scout Village then Wait for Deep Night"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -1536,8 +1636,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Set a Trap/Diversion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -1572,8 +1675,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Infiltrate Miller House"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -1608,8 +1714,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Secure Entry/Exit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -1643,8 +1752,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Prepare Silent Strangler's Cord and then Locate Occupants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -1680,8 +1792,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Enter Children's Room"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -1715,8 +1830,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Eliminate Children (Cord)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -1758,8 +1876,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Search Children's Room then Enter Parents' Room"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -1794,8 +1915,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Eliminate Parents (Cord) then Search Parents' Room"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -1841,8 +1965,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Eliminate Parents (Cord)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -1863,8 +1990,11 @@ Once clarified, I will proceed with the appropriate narrative.
 > 👤 **Player:**
 > *"Think. Can I sell their herbs to some herbalist so they can learn from millers and reproduce their work? Prob good money"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 
@@ -1915,8 +2045,11 @@ This is too obvious, make it more subtle
 
 The thought of Corvan, waiting at the inn, a terrified puppet, brought a grim, almost gleeful satisfaction. It was time to pull his strings. Gladius felt a surge of raw power, a primal satisfaction in orchestrating the chaos, in making the powerful bend. The murder of these peasants was merely the first move in a grander game, a game he intended to win. The distant, faint orange glow of the burning shed was a silent promise of the havoc he was creating, a subtle signature in the darkness.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -1956,8 +2089,11 @@ What would you like to do next?
 God Mode:
 enter dm mode and stay there. He is not INTJ or ENTP
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -1981,8 +2117,11 @@ My thought process for this adjustment is to shift from explicit declarations of
 *   **Focusing on Internal Sensations:** Describing subtle physical responses (e.g., a cold hum, a tightening in the gut, a stillness in the mind) rather than overt emotional labels.
 *   **Emphasizing Calculated Pleasure:** Portraying his enjoyment as a result of successful manipulation and control, consistent with his INTJ-ENTP hinge and core motivation, rather than a purely visceral or overtly "gleeful" reaction.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -2000,8 +2139,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 you are a s tateless model and i am accessing you through the gemini API. So you cannot promise that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -2019,8 +2161,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 How can we fix this? I need to fix my server and send you the right type of context
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -2087,8 +2232,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 `player_character_data.psychological_profile.relevant_history = "Gladius spent four years in the pits, rising from a terrified boy to a feared champion known for his brutal efficiency. He didn't just win; he broke his opponents. He learned to hide his face under a layer of grime and a perpetual scowl. He earned his freedom by fulfilling his contract (and killing the replacement owner) and immediately left Amn, drawn by the chaos and opportunity of a post-Absolute Baldur's Gate. He has spent the last year carving out a niche as a high-priced mercenary, taking the jobs others won't, and indulging his appetites with the proceeds."`
 `player_character_data.psychological_profile.secrets = ["He is secretly Gladius of House Al'Veri, and he knows his two elder brothers and one younger sister are still alive somewhere in Amn, likely in poverty or servitude. He harbors a cold, burning hatred for them and the concept of nobility.", "He actively hides his classical, almost perfect, facial features. He believes it is a weakness that invites the kind of manipulation he despises, and he uses his unkempt appearance as a social shield and a tool to make others underestimate his cunning."]`"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -2132,8 +2280,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *".  **[Signal Corvan] then .  **[Search Miller House (Thoroughly)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -2176,8 +2327,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Think. how to best send a message. should he leave someones head on the front door? what did the employer want again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 
@@ -2205,8 +2359,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"*[Proceed to Blackwood Cottages]"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -2247,8 +2404,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Scout Blackwood Area"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -2291,8 +2451,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Infiltrate Blackwood Cottages]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -2332,8 +2495,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"2.  **[Secure Entry/Exit]:**  then 4.  **[Prepare Silent Strangler's Cord]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -2373,8 +2539,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Locate Occupants]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -2416,8 +2585,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"*[Eliminate Occupants (Cord)]"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -2462,8 +2634,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"3.  **[Signal Corvan]:** Send a subtle signal to Corvan, indicating the second family elimination is complete and he should prepare for cleanup."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 
@@ -2505,8 +2680,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Search Blackwood Cottage]:**  but quickly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -2548,8 +2726,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Proceed to Stonehand Dwelling]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -2591,8 +2772,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Scout Stonehand Area]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -2638,8 +2822,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"3.  **[Create New Diversion]:*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -2682,8 +2869,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"2.  **[Observe Reaction]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -2726,8 +2916,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Infiltrate Stonehand Dwelling]:** P"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -2772,8 +2965,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"2.  **[Secure Entry/Exit]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -2814,8 +3010,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"**[Prepare Silent Strangler's Cord]:**  then .  **[Locate Occupants]:** S"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -2859,8 +3058,11 @@ What would you like to do next?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -2884,8 +3086,11 @@ I am now in DM MODE. How can I assist you?
 God Mode:
 GOD_MODE_STATE_DELTA
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -2912,8 +3117,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 what level is gladius
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -2935,8 +3143,11 @@ God Mode:
 where did this come from?
 `Key Game Stats: XP 0/300 (Lvl 1), Gold: 320gp, HP: 49/49`
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -2978,8 +3189,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 aren't they already in the game state? you made the header right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -3005,8 +3219,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 what was the last game state i sent you?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -3063,8 +3280,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 Did you tell me to update player_character_data? Don't think I saw that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 
@@ -3098,8 +3318,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 you never originally told me to set it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 
@@ -3131,8 +3354,11 @@ God Mode:
 `player_character_data.ep_max = 16`
 `player_character_data.inventory.gold = 320`
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -3181,8 +3407,11 @@ What would you like to do next?
 God Mode:
 I should have some exp from killing the other two families, not 0
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -3225,8 +3454,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 How much exp does a character need to be level 5? Is that is X then I hsould have X+60
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -3272,8 +3504,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 God Mode:
 Shouldn't it be 5,760
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 
@@ -3306,8 +3541,11 @@ God Mode:
 `player_character_data.xp_current = 60`
 `custom_campaign_state.core_memories.append = "Gladius gained 60 XP from eliminating the Miller (40 XP) and Blackwood (20 XP) families, updating his current XP total."`
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -3356,8 +3594,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. what if i kill two and take one child hostage. then convince the outside couple to come back inside, then kill all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -3402,8 +3643,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ExecuteHostagePlan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -3452,8 +3696,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"knockout child, tie up, gag"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 
@@ -3497,8 +3744,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"prepare the dwelling after I lure them back. hide weapons, make sure i can easily kill all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -3539,8 +3789,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Lure Couple Back]:** Use the child to draw the Stonehand couple back into the dwelling."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -3590,8 +3843,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"intimidate them. tell them quiet or you'll kill the child in front of them and them next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 
@@ -3653,8 +3909,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"tell them lie facedown, hands behind backs, then tie them up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 
@@ -3701,8 +3960,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"**[Issue Demands]:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 
@@ -3745,8 +4007,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"**[Threaten Child (Further)]:*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -3789,8 +4054,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"**[Await Response]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 
@@ -3831,8 +4099,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *".  **[Eliminate Child (Cord)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 
@@ -3881,8 +4152,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *".  **[Eliminate Couple (Cord)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 
@@ -3935,8 +4209,11 @@ then
 
 2.  **[Search Dwelling (Thoroughly)]:** Conduct a thorough search of the dwelling for any hidden valuables or items before leaving."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 
@@ -3989,8 +4266,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"clean up these bodies while i wait for corvan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 
@@ -4015,8 +4295,11 @@ I am in DM MODE and will remain here until you explicitly instruct me to return 
 
 It's already daytime and he wants to hurry it up. When corvan comes he'll harass him for being late etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 
@@ -4069,8 +4352,11 @@ What would you like to do next?
 
 1.  **[Issue Cleanup Orders (Specific)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 
@@ -4119,8 +4405,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"**[Search Dwelling (Thoroughly)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -4164,8 +4453,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"tell corvan I was joking and uncuff him.  then visit sheriff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -4217,8 +4509,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"*[Confirm Sheriff's Incapacitation]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -4256,8 +4551,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Depart Greenmeadow]:** Immediately leave the village, confident that the cleanup is in progress and the sheriff is no threat."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 
@@ -4302,8 +4600,11 @@ What would you like to do next?
 then
 2.  **[Seek New Contract (Local)]:** Look for another contract or opportunity in the immediate region before returning to the city."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -4352,8 +4653,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"4.  **[Practice Skills]:**  then 2.  **[Explore Moor for Opportunity]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 
@@ -4410,8 +4714,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"2.  **[Observe Web Patterns]:** Spend time observing the webs and the farmstead from a distance, looking for signs of activity, entry points, or the creatures responsible."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -4453,8 +4760,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"*[Set a Trap/Lure]:** Attempt to draw out the creatures inhabiting the farmstead, perhaps with a bait or noise."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 
@@ -4495,8 +4805,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *".  **[Prepare Ambush (Specific)]:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 
@@ -4540,8 +4853,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"1.  **[Await Ambush]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 
@@ -4578,8 +4894,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. how strong are they"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 
@@ -4612,8 +4931,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"try for a surprise round. 2.  **[Initiate Combat (Perfected Strike)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 
@@ -4703,8 +5025,11 @@ What would you like to do next on your turn?
 > 👤 **Player:**
 > *"**[Use Bonus Action (Great Weapon Master)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 
@@ -4740,8 +5065,11 @@ What would you like to do next on your turn?
 > 👤 **Player:**
 > *"**[Attack Giant Spider 1 (Greatsword - Second Attack)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -4824,8 +5152,11 @@ What would you like to do next on your turn?
 > 👤 **Player:**
 > *"*[Attack Giant Spider 2 (Greatsword)]:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -4910,8 +5241,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"**[Harvest Spider Components]:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -4970,8 +5304,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"**[Search Farmstead (Thoroughly)]: then 2.  **[Explore Moor Further]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 
@@ -5022,8 +5359,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"4.  **[Explore Moor (Deeper)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 
@@ -5077,8 +5417,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *".  **[Study Ruin (From Distance)]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -5113,6 +5456,8 @@ What would you like to do next?
 3.  **[Probe with Minor Action]:** Toss a small stone or object towards the ruin to observe any magical or physical reactions.
 4.  **[Return to Greenmeadow (Investigate Aftermath)]:** Return to Greenmeadow to observe the consequences of your peasant contract and Corvan's cleanup efforts.
 5.  **[Other]:** You can also describe a different action you'd like to take.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (258 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 II. Timeline of the Divergence (283 AC – 298 AC)
@@ -550,274 +561,279 @@ You look at Viserys, who is hyperventilating, staring at you with pure, unadulte
 "Pick it up, Viserys," you command. (Subsonic Command).
 He hesitates. The court holds its breath
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Skill Check / Combat |
-| **02** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **03** | Maegor's Holdfast Gardens | Month 3, 298 AC (Day 14) | Roleplay |
-| **04** | Unknown | Unknown | Roleplay |
-| **05** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **06** | Maegor's Holdfast Gardens | 3rd Moon 14, 298 AC (14:30) | Roleplay |
-| **07** | Maegor's Holdfast Gardens | 3rd Moon 14, 298 AC (14:30) | Roleplay |
-| **08** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (14:30) | Roleplay |
-| **09** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **10** | Unknown | , DR (12:00) | Skill Check / Combat |
-| **11** | Maegor's Holdfast Gardens | 3rd Moon 14, 298 AC (14:35) | Roleplay |
-| **12** | Unknown | , DR (12:00) | Skill Check / Combat |
-| **13** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **14** | The Maidenvault | 3rd Moon 14, 298 AC (15:15) | Skill Check / Combat |
-| **15** | The Maidenvault | 3rd Moon 14, 298 AC (15:15) | Roleplay |
-| **16** | The Maidenvault | 3 14, 298 DR (15:20) | Skill Check / Combat |
-| **17** | The Maidenvault | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **18** | The Maidenvault | 3rd Moon 14, 298 AC (15:45) | Skill Check / Combat |
-| **19** | The Maidenvault | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **20** | The Maidenvault / Serpent's Steps | 3rd Moon 14, 298 AC (16:05) | Skill Check / Combat |
-| **21** | The Dragonpit / War Room | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **22** | The Dragonpit / War Room | 3 14, 298 DR (16:15) | Skill Check / Combat |
-| **23** | The Dragonpit / War Room | 3rd Moon 14, 298 AC (16:30) | Skill Check / Combat |
-| **24** | The Dragonpit / War Room | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **25** | The Dragonpit / War Room | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **26** | Servant's Conduit | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **27** | Servant's Conduit | 3rd Moon, 298 AC (14) | Roleplay |
-| **28** | Servant's Conduit | 3rd Moon 14, 298 AC (16:45) | Skill Check / Combat |
-| **29** | Servant's Conduit | 3rd Moon 14, 298 AC (16:45) | Skill Check / Combat |
-| **30** | Servant's Conduit | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **31** | Red Keep Hallways | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **32** | Hallway near Serpent's Steps | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **33** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **34** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **35** | Maegor’s Holdfast Gardens | March 14, 298 AC (17:20) | Skill Check / Combat |
-| **36** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **37** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **38** | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 14) | Skill Check / Combat |
-| **39** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
-| **40** | Maegor’s Holdfast Gardens | March 14, 298 AC (17:45) | Skill Check / Combat |
-| **41** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Boss Surrender |
-| **42** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **43** | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 14) | Roleplay |
-| **44** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Boss Surrender |
-| **45** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Boss Surrender |
-| **46** | Visenya's Chambers | 3rd Moon, 298 AC (14th Day) | Roleplay |
-| **47** | Visenya's Chambers | 3rd Moon 15, 298 AC (07:00) | Boss Surrender |
-| **48** | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **49** | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **50** | Prince Viserys's Quarters | Month 3, 298 AC (Day 16) | Social Challenge |
-| **51** | Viserys's Quarters | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
-| **52** | Viserys's Quarters | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
-| **53** | The Gallery Corridor | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
-| **54** | The Red Keep | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **55** | Corridor near Small Council Chamber | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **56** | Near the Small Council Chamber | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **57** | Corridors near Small Council Chamber | Month 3, 298 AC (Day 16) | Roleplay |
-| **58** | Near Small Council Chamber | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **59** | Visenya's Chambers (Corridor) | 3rd Moon, 298 AC (Day 16) | Social Challenge |
-| **60** | Corridor outside Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
-| **61** | Visenya's Chambers | Month 3, 298 AC (Day 16) | Roleplay |
-| **62** | Visenya's Chambers | 4th Moon, 298 AC (Day 01) | Boss Surrender |
-| **63** | Visenya's Chambers | Month 4, 298 AC (Day 1) | Roleplay |
-| **64** | Visenya's Chambers | 4th Moon, 298 AC (Day 16) | Roleplay |
-| **65** | Visenya's Chambers | 5th Moon, 298 AC (1st Day) | Social Challenge |
-| **66** | Visenya's Chambers | 5 1, 298 DR (11:00) | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Visenya's Chambers | Month 5, 298 AC (Day 1) | Roleplay |
-| **69** | Flea Bottom - The Greasy Spoon | 5th Moon, 298 AC (Day 1) | Social Challenge |
-| **70** | Visenya's Chambers | 5th Moon, 298 AC (Day 1) | Roleplay |
-| **71** | The Greasy Spoon | 5th Moon, 298 AC (Day 1) | Boss Surrender |
-| **72** | Flea Bottom Slums | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **73** | Visenya's Chambers | 5th Moon, 298 AC (Day 1) | Roleplay |
-| **74** | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **75** | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **76** | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **77** | The Royal Library | 5th Moon, 298 AC (Day 16) | Social Challenge |
-| **78** | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **79** | Royal Library | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **80** | Cobbler's Square | Month 5, 298 AC (Day 16) | Roleplay |
-| **81** | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Social Challenge |
-| **82** | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Boss Surrender |
-| **83** | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Boss Surrender |
-| **84** | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Boss Surrender |
-| **85** | Cobbler's Square | 5th Moon, 298 AC (16th Day) | Roleplay |
-| **86** | Cobbler's Square | Month 5, 298 AC (Day 16) | Boss Surrender |
-| **87** | Flea Bottom - The Pig-Sty Warehouse | 5th Moon, 298 AC (Day 16) | Boss Surrender |
-| **88** | 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **89** | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **90** | The Pig-Sty Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **91** | The Pig-Sty | 5 16, 298 AC (17:35) | Boss Surrender |
-| **92** | The 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **93** | The 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **94** | The 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Boss Surrender |
-| **95** | Visenya's Chambers | 5th Moon, 298 AC (16th Day) | Roleplay |
-| **96** | The Red Keep | Month 5, 298 AC (Day 16) | Roleplay |
-| **97** | Visenya's Chambers | 5th Moon, 298 AC (16th Day) | Roleplay |
-| **98** | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **99** | The Maidenvault | 5th Moon, 298 AC (Day 16) | Roleplay |
-| **100** | Visenya's Chambers | 5th Moon, 298 AC (16th Day) | Roleplay |
-| **101** | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **102** | Visenya's Chambers | 3rd Moon 16, 298 AC (22:15) | Social Challenge |
-| **103** | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **104** | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **105** | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
-| **106** | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **107** | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **108** | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Roleplay |
-| **109** | Guildhall under the Hill | 3rd Moon Day 16, 298 AC (23:45) | Roleplay |
-| **110** | Guildhall of the Alchemists | 3rd Moon 17, 298 AC (00:00) | Boss Surrender |
-| **111** | Hill of Rhaenys | 3rd Moon, 298 AC (Day 18) | Social Challenge |
-| **112** | The Drawbridge | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **113** | The Great Hall of the Red Keep | 3rd Moon, 298 AC (Day 18) | Roleplay |
-| **114** | The Great Hall | 3rd Moon 17, 298 AC (00:15) | Roleplay |
-| **115** | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **116** | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **117** | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **118** | Flea Bottom / City Watch Barracks | Month 3, 298 AC (Day 17) | Roleplay |
-| **119** | City Watch Barracks (Lord Commander's Suite) | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **120** | The Small Council Chamber | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **121** | Small Council Chamber | 3rd Moon, 298 AC (Day 17) | Social Challenge |
-| **122** | Seven-Swords Inn (Southern Kingsroad) | 3rd Moon, 298 AC (Day 17) | Social Challenge |
-| **123** | Seven-Swords Inn Courtyard | Month 3, 298 AC (Day 17) | Boss Surrender |
-| **124** | The Great Hall | Month 3, 298 AC (Day 17) | Roleplay |
-| **125** | The Black Cells | 3rd Moon 17, 298 AC (09:45) | Roleplay |
-| **126** | The Black Cells | Month 3, 298 AC (Day 17) | Roleplay |
-| **127** | The Black Cells | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **128** | The Black Cells | Month 3 Day 17, 298 AC (09:45) | Roleplay |
-| **129** | The Black Cells | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **130** | The Black Cells | Month 3, 298 AC (Day 17) | Roleplay |
-| **131** | Tywin's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **132** | Hand's Solar | 3rd Moon, 298 AC (Day 17) | Social Challenge |
-| **133** | Hand's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **134** | The Hand's Solar | 3rd Moon, 298 AC (Day 17) | Social Challenge |
-| **135** | Hand's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **136** | The Hand's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **137** | The Maidenvault / City Watch Barracks | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **138** | The Maidenvault | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **139** | The River Gate | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **140** | The River Gate | 3rd Moon, 298 AC (Day 17) | Social Challenge |
-| **141** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Social Challenge |
-| **142** | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Roleplay |
-| **143** | Maegor's Holdfast Gardens | Month 3, 298 AC (Day 17) | Roleplay |
-| **144** | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **145** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Skill Check / Combat |
-| **146** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Skill Check / Combat |
-| **147** | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Skill Check / Combat |
-| **148** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **149** | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **150** | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **151** | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Roleplay |
-| **152** | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Boss Surrender |
-| **153** | The Black Cells | 3rd Moon, 298 AC (Day 17) | Social Challenge |
-| **154** | The Black Cells | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **155** | The Black Cells | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **156** | The Plaza of the Dragon | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **157** | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
-| **158** | The Great Hall | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **159** | The Small Council Chamber / City Watch Barracks | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **160** | The Great Hall | March 17, 298 AC (14:30) | Roleplay |
-| **161** | The Red Keep | 3rd Moon, 298 AC (Day 18) | Boss Surrender |
-| **162** | The Maidenvault | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
-| **163** | The Great Hall / Blackguard Barracks | 3rd Moon, 298 AC (Day 18) | Social Challenge |
-| **164** | The Hill of Rhaenys (The Blackguard Bastion) | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **165** | The Hill of Rhaenys (Warden's Solar) | 4th Moon, 298 AC (Day 15) | Boss Surrender |
-| **166** | The Great Sept of Baelor | Month 4, 298 AC (Day 1) | Roleplay |
-| **167** | The Great Sept of Baelor | 4th Moon, 298 AC (1st Day) | Social Challenge |
-| **168** | The Great Sept of Baelor | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **169** | The Great Sept of Baelor | Month 4, 298 AC (Day 1) | Roleplay |
-| **170** | Great Sept of Baelor | 4 1, 298 AC (17:00) | Roleplay |
-| **171** | The Mud Gate Docks | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **172** | Mud Gate Docks | 4th Moon 1, 298 AC (17:15) | Roleplay |
-| **173** | Mud Gate Docks | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **174** | The Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **175** | Mud Gate Docks | Month 4, 298 AC (Day 1) | Social Challenge |
-| **176** | Blackguard Training Grounds (Hill of Rhaenys) | Month 4, 298 AC (Day 1) | Social Challenge |
-| **177** | Guildhall of the Alchemists (Hill of Rhaenys) | 4th Moon 1, 298 AC (17:30) | Roleplay |
-| **178** | Mud Gate Docks | 4th Moon, 298 AC (1st Day) | Boss Surrender |
-| **179** | Mud Gate Docks | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **180** | Warden's Solar | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **181** | Warden's Solar | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **182** | Warden's Solar | 4th Moon, 298 AC (Day 1) | Social Challenge |
-| **183** | Guildhall of the Alchemists | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **184** | Sub-levels of the Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **185** | Hill of Rhaenys (Sub-levels) | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **186** | Sub-levels of the Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **187** | Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **188** | The Kingswood Perimeter | 4th Moon, 298 AC (Day 1) | Social Challenge |
-| **189** | Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **190** | Gormon's Hideout | Month 4 Day 1, 298 AC (23:15) | Roleplay |
-| **191** | The Heart of the Kingswood | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **192** | The heart of the Kingswood | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **193** | The Kingswood | 4th Moon, 298 AC (Day 1) | Roleplay |
-| **194** | The Kingswood (Southern Pass) | 4th Moon, 298 AC (Day 2) | Roleplay |
-| **195** | The Hill of Rhaenys | 5th Moon, 298 AC (2nd Day) | Boss Surrender |
-| **196** | Hill of Rhaenys | Month 4, 298 AC (Day 1) | Roleplay |
-| **197** | Hill of Rhaenys | Month 4, 298 AC (Day 1) | Roleplay |
-| **198** | The Small Council Chamber | 5th Moon, 298 AC (2nd Day) | Roleplay |
-| **199** | Warden's Solar | 4th Moon, 298 AC (1st Day) | Roleplay |
-| **200** | Warden's Solar | 4 1, 298 AC (14:20) | Boss Surrender |
-| **201** | The base of the Hill of Rhaenys (The Wall of Silence) | 5th Moon, 298 AC (Day 2) | Boss Surrender |
-| **202** | Street of the Sisters | 4th Moon, 298 AC (Day 1) | Boss Surrender |
-| **203** | Warden's Solar | 5th Moon, 298 AC (Day 2) | Boss Surrender |
-| **204** | Warden's Solar | 5th Moon, 298 AC (Day 2) | Boss Surrender |
-| **205** | Warden's Solar | Month 5, 298 AC (Day 2) | Roleplay |
-| **206** | The Hill of Rhaenys | 5th Moon, 298 AC (Day 2) | Boss Surrender |
-| **207** | The Maidenvault | Month 5, 298 AC (Day 2) | Roleplay |
-| **208** | The Maidenvault | 5th Moon, 298 AC (Day 3) | Roleplay |
-| **209** | The Maidenvault | 5th Moon, 298 AC (Day 3) | Boss Surrender |
-| **210** | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
-| **211** | The Maidenvault | 5th Moon, 298 AC (Day 4) | Boss Surrender |
-| **212** | The Maidenvault Septry | 5th Moon, 298 AC (4th Day) | Social Challenge |
-| **213** | Maidenvault Septry | 5th Moon, 298 AC (Day 4) | Social Challenge |
-| **214** | Maidenvault Septry | 5th Moon, 298 AC (Day 4) | Roleplay |
-| **215** | Maidenvault Septry | 5 4, 298 DR (01:30) | Roleplay |
-| **216** | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
-| **217** | Maidenvault Septry | Month 5, 298 AC (Day 4) | Roleplay |
-| **218** | Warden's Solar | Month 5, 298 AC (Day 4) | Roleplay |
-| **219** | Unknown |  | Roleplay |
-| **220** | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
-| **221** | Warden's Solar | 5 4, 298 DR (02:30) | Social Challenge |
-| **222** | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
-| **223** | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
-| **224** | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
-| **225** | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
-| **226** | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
-| **227** | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
-| **228** | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
-| **229** | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
-| **230** | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
-| **231** | Warden's Solar | 5th Moon, 298 AC (5th Day) | Roleplay |
-| **232** | Warden's Solar | 5th Moon 5, 298 AC (12:05) | Boss Surrender |
-| **233** | Warden's Solar | Month 5, 298 AC (Day 5) | Boss Surrender |
-| **234** | Warden's Solar | Month 5 Day 5, 298 AC (12:05) | Roleplay |
-| **235** | Warden's Solar | 5th Moon, 298 AC (5th Day) | Roleplay |
-| **236** | Unknown |  | Roleplay |
-| **237** | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
-| **238** | Maidenvault Septry | 5th Moon, 298 AC (Day 5) | Boss Surrender |
-| **239** | Maidenvault Septry | 5th Moon, 298 AC (5th Day) | Roleplay |
-| **240** | Maidenvault Septry | 5th Moon, 298 AC (5th Day) | Roleplay |
-| **241** | Maidenvault Septry | 5th Moon, 298 AC (5th Day) | Roleplay |
-| **242** | Maidenvault Septry | 5th Moon, 298 AC (Day 5) | Roleplay |
-| **243** | Maidenvault Septry | Month 5, 298 AC (Day 5) | Roleplay |
-| **244** | Maidenvault Septry | 5th Day of the 5th Moon, 298 AC (12:25) | Roleplay |
-| **245** | Maidenvault Septry | 5th Moon, 298 AC (Day 5) | Social Challenge |
-| **246** | Warden's Solar / Great Sept Plaza | 5th Day of the 5th Moon, 298 AC (13:30) | Roleplay |
-| **247** | Warden's Solar | 5th Moon, 298 AC (Day 8) | Social Challenge |
-| **248** | Warden's Solar | Month 5, 298 AC (Day 8) | Social Challenge |
-| **249** | Warden's Solar | 5th Moon, 298 AC (Day 8) | Roleplay |
-| **250** | Warden's Solar | 5 8, 298 AC (14:30) | Boss Surrender |
-| **251** | The Red Keep / Warden's Solar | 5th Moon, 298 AC (Day 8) | Boss Surrender |
-| **252** | Warden's Solar | May 8, 298 AC (18:00) | Roleplay |
-| **253** | Warden's Solar | 5th Moon, 298 AC (8th Day) | Boss Surrender |
-| **254** | Warden's Solar | 3rd Moon, 298 AC (Day 14) | Roleplay |
-| **255** | The Sea-Walls of Dragonstone | 3rd Moon 15, 298 DR (10:00) | Boss Surrender |
-| **256** | Warden's Solar | 3rd Moon 15, 298 DR (14:30) | Social Challenge |
-| **257** | The Great Sept of Baelor | 4th Moon, 298 AC (Day 8) | Boss Surrender |
-| **258** | The Great Sept of Baelor | 4th Moon, 298 AC (Day 5) | Boss Surrender |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Skill Check / Combat |
+| [**Scene 02**](#scene-2) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 03**](#scene-3) | Maegor's Holdfast Gardens | Month 3, 298 AC (Day 14) | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown | Unknown | Roleplay |
+| [**Scene 05**](#scene-5) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 06**](#scene-6) | Maegor's Holdfast Gardens | 3rd Moon 14, 298 AC (14:30) | Roleplay |
+| [**Scene 07**](#scene-7) | Maegor's Holdfast Gardens | 3rd Moon 14, 298 AC (14:30) | Roleplay |
+| [**Scene 08**](#scene-8) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (14:30) | Roleplay |
+| [**Scene 09**](#scene-9) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 10**](#scene-10) | Unknown | , DR (12:00) | Skill Check / Combat |
+| [**Scene 11**](#scene-11) | Maegor's Holdfast Gardens | 3rd Moon 14, 298 AC (14:35) | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown | , DR (12:00) | Skill Check / Combat |
+| [**Scene 13**](#scene-13) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 14**](#scene-14) | The Maidenvault | 3rd Moon 14, 298 AC (15:15) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | The Maidenvault | 3rd Moon 14, 298 AC (15:15) | Roleplay |
+| [**Scene 16**](#scene-16) | The Maidenvault | 3 14, 298 DR (15:20) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | The Maidenvault | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | The Maidenvault | 3rd Moon 14, 298 AC (15:45) | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | The Maidenvault | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | The Maidenvault / Serpent's Steps | 3rd Moon 14, 298 AC (16:05) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | The Dragonpit / War Room | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | The Dragonpit / War Room | 3 14, 298 DR (16:15) | Skill Check / Combat |
+| [**Scene 23**](#scene-23) | The Dragonpit / War Room | 3rd Moon 14, 298 AC (16:30) | Skill Check / Combat |
+| [**Scene 24**](#scene-24) | The Dragonpit / War Room | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | The Dragonpit / War Room | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 26**](#scene-26) | Servant's Conduit | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | Servant's Conduit | 3rd Moon, 298 AC (14) | Roleplay |
+| [**Scene 28**](#scene-28) | Servant's Conduit | 3rd Moon 14, 298 AC (16:45) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Servant's Conduit | 3rd Moon 14, 298 AC (16:45) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | Servant's Conduit | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 31**](#scene-31) | Red Keep Hallways | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 32**](#scene-32) | Hallway near Serpent's Steps | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 33**](#scene-33) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 34**](#scene-34) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | Maegor’s Holdfast Gardens | March 14, 298 AC (17:20) | Skill Check / Combat |
+| [**Scene 36**](#scene-36) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 37**](#scene-37) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | Maegor’s Holdfast Gardens | March 14, 298 AC (17:45) | Skill Check / Combat |
+| [**Scene 41**](#scene-41) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Boss Surrender |
+| [**Scene 42**](#scene-42) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 43**](#scene-43) | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 14) | Roleplay |
+| [**Scene 44**](#scene-44) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Boss Surrender |
+| [**Scene 45**](#scene-45) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 14) | Boss Surrender |
+| [**Scene 46**](#scene-46) | Visenya's Chambers | 3rd Moon, 298 AC (14th Day) | Roleplay |
+| [**Scene 47**](#scene-47) | Visenya's Chambers | 3rd Moon 15, 298 AC (07:00) | Boss Surrender |
+| [**Scene 48**](#scene-48) | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 49**](#scene-49) | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 50**](#scene-50) | Prince Viserys's Quarters | Month 3, 298 AC (Day 16) | Social Challenge |
+| [**Scene 51**](#scene-51) | Viserys's Quarters | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 52**](#scene-52) | Viserys's Quarters | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 53**](#scene-53) | The Gallery Corridor | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 54**](#scene-54) | The Red Keep | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 55**](#scene-55) | Corridor near Small Council Chamber | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 56**](#scene-56) | Near the Small Council Chamber | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 57**](#scene-57) | Corridors near Small Council Chamber | Month 3, 298 AC (Day 16) | Roleplay |
+| [**Scene 58**](#scene-58) | Near Small Council Chamber | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 59**](#scene-59) | Visenya's Chambers (Corridor) | 3rd Moon, 298 AC (Day 16) | Social Challenge |
+| [**Scene 60**](#scene-60) | Corridor outside Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 61**](#scene-61) | Visenya's Chambers | Month 3, 298 AC (Day 16) | Roleplay |
+| [**Scene 62**](#scene-62) | Visenya's Chambers | 4th Moon, 298 AC (Day 01) | Boss Surrender |
+| [**Scene 63**](#scene-63) | Visenya's Chambers | Month 4, 298 AC (Day 1) | Roleplay |
+| [**Scene 64**](#scene-64) | Visenya's Chambers | 4th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 65**](#scene-65) | Visenya's Chambers | 5th Moon, 298 AC (1st Day) | Social Challenge |
+| [**Scene 66**](#scene-66) | Visenya's Chambers | 5 1, 298 DR (11:00) | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Visenya's Chambers | Month 5, 298 AC (Day 1) | Roleplay |
+| [**Scene 69**](#scene-69) | Flea Bottom - The Greasy Spoon | 5th Moon, 298 AC (Day 1) | Social Challenge |
+| [**Scene 70**](#scene-70) | Visenya's Chambers | 5th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 71**](#scene-71) | The Greasy Spoon | 5th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 72**](#scene-72) | Flea Bottom Slums | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 73**](#scene-73) | Visenya's Chambers | 5th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 74**](#scene-74) | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 75**](#scene-75) | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 76**](#scene-76) | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 77**](#scene-77) | The Royal Library | 5th Moon, 298 AC (Day 16) | Social Challenge |
+| [**Scene 78**](#scene-78) | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 79**](#scene-79) | Royal Library | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 80**](#scene-80) | Cobbler's Square | Month 5, 298 AC (Day 16) | Roleplay |
+| [**Scene 81**](#scene-81) | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Social Challenge |
+| [**Scene 82**](#scene-82) | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 83**](#scene-83) | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 84**](#scene-84) | Cobbler's Square | 5th Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 85**](#scene-85) | Cobbler's Square | 5th Moon, 298 AC (16th Day) | Roleplay |
+| [**Scene 86**](#scene-86) | Cobbler's Square | Month 5, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 87**](#scene-87) | Flea Bottom - The Pig-Sty Warehouse | 5th Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 88**](#scene-88) | 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 89**](#scene-89) | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 90**](#scene-90) | The Pig-Sty Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 91**](#scene-91) | The Pig-Sty | 5 16, 298 AC (17:35) | Boss Surrender |
+| [**Scene 92**](#scene-92) | The 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 93**](#scene-93) | The 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 94**](#scene-94) | The 'Pig-Sty' Warehouse | 5th Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 95**](#scene-95) | Visenya's Chambers | 5th Moon, 298 AC (16th Day) | Roleplay |
+| [**Scene 96**](#scene-96) | The Red Keep | Month 5, 298 AC (Day 16) | Roleplay |
+| [**Scene 97**](#scene-97) | Visenya's Chambers | 5th Moon, 298 AC (16th Day) | Roleplay |
+| [**Scene 98**](#scene-98) | Visenya's Chambers | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 99**](#scene-99) | The Maidenvault | 5th Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 100**](#scene-100) | Visenya's Chambers | 5th Moon, 298 AC (16th Day) | Roleplay |
+| [**Scene 101**](#scene-101) | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 102**](#scene-102) | Visenya's Chambers | 3rd Moon 16, 298 AC (22:15) | Social Challenge |
+| [**Scene 103**](#scene-103) | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 104**](#scene-104) | Visenya's Chambers | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 105**](#scene-105) | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Boss Surrender |
+| [**Scene 106**](#scene-106) | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 107**](#scene-107) | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 108**](#scene-108) | Guildhall of the Alchemists | 3rd Moon, 298 AC (Day 16) | Roleplay |
+| [**Scene 109**](#scene-109) | Guildhall under the Hill | 3rd Moon Day 16, 298 AC (23:45) | Roleplay |
+| [**Scene 110**](#scene-110) | Guildhall of the Alchemists | 3rd Moon 17, 298 AC (00:00) | Boss Surrender |
+| [**Scene 111**](#scene-111) | Hill of Rhaenys | 3rd Moon, 298 AC (Day 18) | Social Challenge |
+| [**Scene 112**](#scene-112) | The Drawbridge | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 113**](#scene-113) | The Great Hall of the Red Keep | 3rd Moon, 298 AC (Day 18) | Roleplay |
+| [**Scene 114**](#scene-114) | The Great Hall | 3rd Moon 17, 298 AC (00:15) | Roleplay |
+| [**Scene 115**](#scene-115) | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 116**](#scene-116) | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 117**](#scene-117) | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 118**](#scene-118) | Flea Bottom / City Watch Barracks | Month 3, 298 AC (Day 17) | Roleplay |
+| [**Scene 119**](#scene-119) | City Watch Barracks (Lord Commander's Suite) | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 120**](#scene-120) | The Small Council Chamber | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 121**](#scene-121) | Small Council Chamber | 3rd Moon, 298 AC (Day 17) | Social Challenge |
+| [**Scene 122**](#scene-122) | Seven-Swords Inn (Southern Kingsroad) | 3rd Moon, 298 AC (Day 17) | Social Challenge |
+| [**Scene 123**](#scene-123) | Seven-Swords Inn Courtyard | Month 3, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 124**](#scene-124) | The Great Hall | Month 3, 298 AC (Day 17) | Roleplay |
+| [**Scene 125**](#scene-125) | The Black Cells | 3rd Moon 17, 298 AC (09:45) | Roleplay |
+| [**Scene 126**](#scene-126) | The Black Cells | Month 3, 298 AC (Day 17) | Roleplay |
+| [**Scene 127**](#scene-127) | The Black Cells | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 128**](#scene-128) | The Black Cells | Month 3 Day 17, 298 AC (09:45) | Roleplay |
+| [**Scene 129**](#scene-129) | The Black Cells | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 130**](#scene-130) | The Black Cells | Month 3, 298 AC (Day 17) | Roleplay |
+| [**Scene 131**](#scene-131) | Tywin's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 132**](#scene-132) | Hand's Solar | 3rd Moon, 298 AC (Day 17) | Social Challenge |
+| [**Scene 133**](#scene-133) | Hand's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 134**](#scene-134) | The Hand's Solar | 3rd Moon, 298 AC (Day 17) | Social Challenge |
+| [**Scene 135**](#scene-135) | Hand's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 136**](#scene-136) | The Hand's Solar | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 137**](#scene-137) | The Maidenvault / City Watch Barracks | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 138**](#scene-138) | The Maidenvault | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 139**](#scene-139) | The River Gate | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 140**](#scene-140) | The River Gate | 3rd Moon, 298 AC (Day 17) | Social Challenge |
+| [**Scene 141**](#scene-141) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Social Challenge |
+| [**Scene 142**](#scene-142) | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Roleplay |
+| [**Scene 143**](#scene-143) | Maegor's Holdfast Gardens | Month 3, 298 AC (Day 17) | Roleplay |
+| [**Scene 144**](#scene-144) | Maegor's Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 145**](#scene-145) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Skill Check / Combat |
+| [**Scene 146**](#scene-146) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Skill Check / Combat |
+| [**Scene 147**](#scene-147) | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Skill Check / Combat |
+| [**Scene 148**](#scene-148) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 149**](#scene-149) | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 150**](#scene-150) | Maegor’s Holdfast Gardens | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 151**](#scene-151) | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Roleplay |
+| [**Scene 152**](#scene-152) | Maegor’s Holdfast Gardens | Month 3, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 153**](#scene-153) | The Black Cells | 3rd Moon, 298 AC (Day 17) | Social Challenge |
+| [**Scene 154**](#scene-154) | The Black Cells | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 155**](#scene-155) | The Black Cells | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 156**](#scene-156) | The Plaza of the Dragon | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 157**](#scene-157) | The Great Hall | 3rd Moon, 298 AC (Day 17) | Roleplay |
+| [**Scene 158**](#scene-158) | The Great Hall | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 159**](#scene-159) | The Small Council Chamber / City Watch Barracks | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 160**](#scene-160) | The Great Hall | March 17, 298 AC (14:30) | Roleplay |
+| [**Scene 161**](#scene-161) | The Red Keep | 3rd Moon, 298 AC (Day 18) | Boss Surrender |
+| [**Scene 162**](#scene-162) | The Maidenvault | 3rd Moon, 298 AC (Day 17) | Boss Surrender |
+| [**Scene 163**](#scene-163) | The Great Hall / Blackguard Barracks | 3rd Moon, 298 AC (Day 18) | Social Challenge |
+| [**Scene 164**](#scene-164) | The Hill of Rhaenys (The Blackguard Bastion) | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 165**](#scene-165) | The Hill of Rhaenys (Warden's Solar) | 4th Moon, 298 AC (Day 15) | Boss Surrender |
+| [**Scene 166**](#scene-166) | The Great Sept of Baelor | Month 4, 298 AC (Day 1) | Roleplay |
+| [**Scene 167**](#scene-167) | The Great Sept of Baelor | 4th Moon, 298 AC (1st Day) | Social Challenge |
+| [**Scene 168**](#scene-168) | The Great Sept of Baelor | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 169**](#scene-169) | The Great Sept of Baelor | Month 4, 298 AC (Day 1) | Roleplay |
+| [**Scene 170**](#scene-170) | Great Sept of Baelor | 4 1, 298 AC (17:00) | Roleplay |
+| [**Scene 171**](#scene-171) | The Mud Gate Docks | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 172**](#scene-172) | Mud Gate Docks | 4th Moon 1, 298 AC (17:15) | Roleplay |
+| [**Scene 173**](#scene-173) | Mud Gate Docks | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 174**](#scene-174) | The Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 175**](#scene-175) | Mud Gate Docks | Month 4, 298 AC (Day 1) | Social Challenge |
+| [**Scene 176**](#scene-176) | Blackguard Training Grounds (Hill of Rhaenys) | Month 4, 298 AC (Day 1) | Social Challenge |
+| [**Scene 177**](#scene-177) | Guildhall of the Alchemists (Hill of Rhaenys) | 4th Moon 1, 298 AC (17:30) | Roleplay |
+| [**Scene 178**](#scene-178) | Mud Gate Docks | 4th Moon, 298 AC (1st Day) | Boss Surrender |
+| [**Scene 179**](#scene-179) | Mud Gate Docks | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 180**](#scene-180) | Warden's Solar | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 181**](#scene-181) | Warden's Solar | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 182**](#scene-182) | Warden's Solar | 4th Moon, 298 AC (Day 1) | Social Challenge |
+| [**Scene 183**](#scene-183) | Guildhall of the Alchemists | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 184**](#scene-184) | Sub-levels of the Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 185**](#scene-185) | Hill of Rhaenys (Sub-levels) | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 186**](#scene-186) | Sub-levels of the Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 187**](#scene-187) | Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 188**](#scene-188) | The Kingswood Perimeter | 4th Moon, 298 AC (Day 1) | Social Challenge |
+| [**Scene 189**](#scene-189) | Hill of Rhaenys | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 190**](#scene-190) | Gormon's Hideout | Month 4 Day 1, 298 AC (23:15) | Roleplay |
+| [**Scene 191**](#scene-191) | The Heart of the Kingswood | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 192**](#scene-192) | The heart of the Kingswood | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 193**](#scene-193) | The Kingswood | 4th Moon, 298 AC (Day 1) | Roleplay |
+| [**Scene 194**](#scene-194) | The Kingswood (Southern Pass) | 4th Moon, 298 AC (Day 2) | Roleplay |
+| [**Scene 195**](#scene-195) | The Hill of Rhaenys | 5th Moon, 298 AC (2nd Day) | Boss Surrender |
+| [**Scene 196**](#scene-196) | Hill of Rhaenys | Month 4, 298 AC (Day 1) | Roleplay |
+| [**Scene 197**](#scene-197) | Hill of Rhaenys | Month 4, 298 AC (Day 1) | Roleplay |
+| [**Scene 198**](#scene-198) | The Small Council Chamber | 5th Moon, 298 AC (2nd Day) | Roleplay |
+| [**Scene 199**](#scene-199) | Warden's Solar | 4th Moon, 298 AC (1st Day) | Roleplay |
+| [**Scene 200**](#scene-200) | Warden's Solar | 4 1, 298 AC (14:20) | Boss Surrender |
+| [**Scene 201**](#scene-201) | The base of the Hill of Rhaenys (The Wall of Silence) | 5th Moon, 298 AC (Day 2) | Boss Surrender |
+| [**Scene 202**](#scene-202) | Street of the Sisters | 4th Moon, 298 AC (Day 1) | Boss Surrender |
+| [**Scene 203**](#scene-203) | Warden's Solar | 5th Moon, 298 AC (Day 2) | Boss Surrender |
+| [**Scene 204**](#scene-204) | Warden's Solar | 5th Moon, 298 AC (Day 2) | Boss Surrender |
+| [**Scene 205**](#scene-205) | Warden's Solar | Month 5, 298 AC (Day 2) | Roleplay |
+| [**Scene 206**](#scene-206) | The Hill of Rhaenys | 5th Moon, 298 AC (Day 2) | Boss Surrender |
+| [**Scene 207**](#scene-207) | The Maidenvault | Month 5, 298 AC (Day 2) | Roleplay |
+| [**Scene 208**](#scene-208) | The Maidenvault | 5th Moon, 298 AC (Day 3) | Roleplay |
+| [**Scene 209**](#scene-209) | The Maidenvault | 5th Moon, 298 AC (Day 3) | Boss Surrender |
+| [**Scene 210**](#scene-210) | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
+| [**Scene 211**](#scene-211) | The Maidenvault | 5th Moon, 298 AC (Day 4) | Boss Surrender |
+| [**Scene 212**](#scene-212) | The Maidenvault Septry | 5th Moon, 298 AC (4th Day) | Social Challenge |
+| [**Scene 213**](#scene-213) | Maidenvault Septry | 5th Moon, 298 AC (Day 4) | Social Challenge |
+| [**Scene 214**](#scene-214) | Maidenvault Septry | 5th Moon, 298 AC (Day 4) | Roleplay |
+| [**Scene 215**](#scene-215) | Maidenvault Septry | 5 4, 298 DR (01:30) | Roleplay |
+| [**Scene 216**](#scene-216) | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
+| [**Scene 217**](#scene-217) | Maidenvault Septry | Month 5, 298 AC (Day 4) | Roleplay |
+| [**Scene 218**](#scene-218) | Warden's Solar | Month 5, 298 AC (Day 4) | Roleplay |
+| [**Scene 219**](#scene-219) | Unknown |  | Roleplay |
+| [**Scene 220**](#scene-220) | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
+| [**Scene 221**](#scene-221) | Warden's Solar | 5 4, 298 DR (02:30) | Social Challenge |
+| [**Scene 222**](#scene-222) | Warden's Solar | 5th Moon, 298 AC (Day 4) | Roleplay |
+| [**Scene 223**](#scene-223) | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
+| [**Scene 224**](#scene-224) | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
+| [**Scene 225**](#scene-225) | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
+| [**Scene 226**](#scene-226) | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
+| [**Scene 227**](#scene-227) | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
+| [**Scene 228**](#scene-228) | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
+| [**Scene 229**](#scene-229) | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
+| [**Scene 230**](#scene-230) | Warden's Solar | Month 5, 298 AC (Day 5) | Roleplay |
+| [**Scene 231**](#scene-231) | Warden's Solar | 5th Moon, 298 AC (5th Day) | Roleplay |
+| [**Scene 232**](#scene-232) | Warden's Solar | 5th Moon 5, 298 AC (12:05) | Boss Surrender |
+| [**Scene 233**](#scene-233) | Warden's Solar | Month 5, 298 AC (Day 5) | Boss Surrender |
+| [**Scene 234**](#scene-234) | Warden's Solar | Month 5 Day 5, 298 AC (12:05) | Roleplay |
+| [**Scene 235**](#scene-235) | Warden's Solar | 5th Moon, 298 AC (5th Day) | Roleplay |
+| [**Scene 236**](#scene-236) | Unknown |  | Roleplay |
+| [**Scene 237**](#scene-237) | Warden's Solar | 5th Moon, 298 AC (Day 5) | Roleplay |
+| [**Scene 238**](#scene-238) | Maidenvault Septry | 5th Moon, 298 AC (Day 5) | Boss Surrender |
+| [**Scene 239**](#scene-239) | Maidenvault Septry | 5th Moon, 298 AC (5th Day) | Roleplay |
+| [**Scene 240**](#scene-240) | Maidenvault Septry | 5th Moon, 298 AC (5th Day) | Roleplay |
+| [**Scene 241**](#scene-241) | Maidenvault Septry | 5th Moon, 298 AC (5th Day) | Roleplay |
+| [**Scene 242**](#scene-242) | Maidenvault Septry | 5th Moon, 298 AC (Day 5) | Roleplay |
+| [**Scene 243**](#scene-243) | Maidenvault Septry | Month 5, 298 AC (Day 5) | Roleplay |
+| [**Scene 244**](#scene-244) | Maidenvault Septry | 5th Day of the 5th Moon, 298 AC (12:25) | Roleplay |
+| [**Scene 245**](#scene-245) | Maidenvault Septry | 5th Moon, 298 AC (Day 5) | Social Challenge |
+| [**Scene 246**](#scene-246) | Warden's Solar / Great Sept Plaza | 5th Day of the 5th Moon, 298 AC (13:30) | Roleplay |
+| [**Scene 247**](#scene-247) | Warden's Solar | 5th Moon, 298 AC (Day 8) | Social Challenge |
+| [**Scene 248**](#scene-248) | Warden's Solar | Month 5, 298 AC (Day 8) | Social Challenge |
+| [**Scene 249**](#scene-249) | Warden's Solar | 5th Moon, 298 AC (Day 8) | Roleplay |
+| [**Scene 250**](#scene-250) | Warden's Solar | 5 8, 298 AC (14:30) | Boss Surrender |
+| [**Scene 251**](#scene-251) | The Red Keep / Warden's Solar | 5th Moon, 298 AC (Day 8) | Boss Surrender |
+| [**Scene 252**](#scene-252) | Warden's Solar | May 8, 298 AC (18:00) | Roleplay |
+| [**Scene 253**](#scene-253) | Warden's Solar | 5th Moon, 298 AC (8th Day) | Boss Surrender |
+| [**Scene 254**](#scene-254) | Warden's Solar | 3rd Moon, 298 AC (Day 14) | Roleplay |
+| [**Scene 255**](#scene-255) | The Sea-Walls of Dragonstone | 3rd Moon 15, 298 DR (10:00) | Boss Surrender |
+| [**Scene 256**](#scene-256) | Warden's Solar | 3rd Moon 15, 298 DR (14:30) | Social Challenge |
+| [**Scene 257**](#scene-257) | The Great Sept of Baelor | 4th Moon, 298 AC (Day 8) | Boss Surrender |
+| [**Scene 258**](#scene-258) | The Great Sept of Baelor | 4th Moon, 298 AC (Day 5) | Boss Surrender |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Weaver | HP: 8/8** &nbsp;|&nbsp; ✨ **None**
@@ -841,8 +857,11 @@ You feel the heat of Entropy against your skin, a satisfied thrumming. The momen
 God Mode:
 fix my stats in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Weaver | HP: 8/8 | XP: 150/300 | Gold: 10gp**
@@ -852,8 +871,11 @@ Stats updated to align with the Apex Weaver (Chaotic Variant) profile. Adjusted 
 God Mode:
 show my stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Weaver | HP: 8/8 | XP: 150/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -892,8 +914,11 @@ Current Character Statistics for Visenya Targaryen:
 God Mode:
 make my naked cha 18
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Weaver | HP: 8/8** &nbsp;|&nbsp; ✨ **None**
@@ -903,8 +928,11 @@ Modified base Charisma to 18 as requested. Effective Charisma remains 18 (naked)
 God Mode:
 fix my spells and starting items
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Weaver | HP: 8/8 | XP: 150/300 | Gold: 10gp**
@@ -930,8 +958,11 @@ try to fix my st ats. in game state and use the right type
     mapping like {skill_name: true/"expertise"/2} and iterates skills_data.items(); when it hits
     ("proficiencies", [..]), it blows up.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Weaver | HP: 8/8 | XP: 150/300 | Gold: 10gp**
@@ -949,8 +980,11 @@ try to fix my st ats. in game state and use the right type
 God Mode:
 rename my class apex predator
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Predator | HP: 8/8 | XP: 150/300 | Gold: 10gp**
@@ -960,8 +994,11 @@ Character class successfully renamed to **Apex Predator**. This change has been 
 God Mode:
 lets make entropy some tiny hidden dragon and it doesnt get physical form until level 12 and becomes balerion size level 20 and progressivly gets biggeer each level.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Predator | HP: 8/8 | XP: 150/300 | Gold: 10gp**
@@ -981,8 +1018,11 @@ Administrative changes complete.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the &#x27;Tea Party of Knives&#x27; with the new progression rules in place.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Predator | HP: 8/8 | XP: 150/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Sadism Dice: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1016,8 +1056,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Sword - Pick up Viserys&#x27;s blade. Even if you can barely lift it, the symbolic weight of the City Watch Commander&#x27;s weapon in your hand is a message.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Predator | HP: 8/8** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -1059,8 +1102,11 @@ Beneath your sleeve, Entropy (Spirit Form) thrums against your pulse. It is invi
 
 You turn your gaze toward Margaery Tyrell (Lvl 16). Through the Baelarys Eye, the 'Rose of Highgarden' is no longer a girl in a pretty dress. You see the stress lines in her posture, the microscopic tremors in her fingers, and the mathematical geometry of her thoughts. She is terrified, yes, but beneath the fear is a blossoming curiosity. She isn't looking at the door where Viserys fled; she is looking at you, recalculating the entire political map of the Seven Kingdoms in a heartbeat.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Apex Predator | HP: 8/8 | XP: 400/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Static Active | Heat: 35 | Entropy: Spirit Form**
@@ -1081,8 +1127,11 @@ Previous entries erroneously used character ages as D&D levels. In this 5E SRD f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Unlock Psychic Vivisection and your first spell slots. This is a time-frozen action.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 13/13** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -1113,8 +1162,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 God Mode:
 i should've had spell slots from level 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp**
@@ -1137,8 +1189,11 @@ Administrative correction applied to spell slots and vitality.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Go to the Maidenvault - Take the sword to the Mad King. Showing him the &#x27;toy&#x27; you took from his favorite son will delight him and increase your Influence with the Shadow Court.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Maidenvault, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1166,8 +1221,11 @@ He lets out a thin, wheezing cackle, reaching out to touch the ruby eyes on the 
 God Mode:
 recalibrate everyones levels, level 1 for aerys is dumb
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Maidenvault, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp**
@@ -1188,8 +1246,11 @@ Levels for all key NPCs have been recalibrated to reflect their narrative signif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame Viserys&#x27;s Cowardice - Tell Aerys exactly how Viserys shrieked and fled. Ensure the King views his &#x27;favorite&#x27; son as a weakling compared to you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Maidenvault, King's Landing** &nbsp;|&nbsp; ⏳ **3 14, 298 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Sadism: 4/4 | Exhaustion: 0**
@@ -1209,8 +1270,11 @@ He doesn't fully embrace the betrayal yet. He loves the chaos you've brought, bu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Let Him Feel the Dragon - Allow Entropy&#x27;s spirit form to flare its heat near Aerys. He believes your blood can wake dragons; prove to him that the dragon is already here.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Maidenvault, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Sadism Dice: 4/4 | Entropy: Hidden Spirit Form** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1239,8 +1303,11 @@ You gain **200 XP** for the successful manipulation of the Mad King and the visc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Alchemists - Ask Aerys for the secret signs to command his Pyromancer cult.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Maidenvault, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4, Heat: 10** &nbsp;|&nbsp; ⚠️ **The Static (Emotional) | Exhaustion: 0 | Inspiration: No**
@@ -1258,8 +1325,11 @@ He scuttles backward, knocking over a stack of jars. They aren't wildfire—not 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Redeem the Lizard - Pivot back to Viserys. Suggest the &#x27;shrieking prince&#x27; needs to be taught a lesson in fire, distracting Aerys from your grab for power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Maidenvault, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4 (d6), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Active (+Adv Intimidation, -Disadv Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -1288,8 +1358,11 @@ Outside, the heavy oak door thuds. A muffled voice—an Iron Gate guard—calls 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bribe the Guard for Information - Use Subsonic Command to learn exactly what Viserys told Rhaegar before you enter the pit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Maidenvault / Serpent's Steps** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4 (d6), Exhaustion: 0**
@@ -1307,8 +1380,11 @@ He doesn't know the specifics of the 'formal complaint,' only the broad strokes 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stash the Blade - Hide the sword in a servant&#x27;s passage before entering the pit. Deny everything.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Dragonpit / War Room** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4 (d6), Heat: 55** &nbsp;|&nbsp; ⚠️ **The Static (Emotional) | Exhaustion: 0 | Inspiration: No**
@@ -1331,8 +1407,11 @@ Viserys's jaw drops, his face turning a dangerous shade of plum. "Liar! You comm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Double Discredit (Synergistic) - Use Psychic Vivisection on Viserys while offering a &#x27;concerned&#x27; medicinal remedy for his &#x27;hallucinations.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Dragonpit / War Room** &nbsp;|&nbsp; ⏳ **3 14, 298 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp**
@@ -1365,8 +1444,11 @@ Viserys collapses into a chair, his eyes wide and vacant. He has been dismantled
 > 👤 **Player:**
 > *"Taunt viserys in an innocent way. Either he was defeated by his 12 year old sister or he went crazy and lost a Valyrian steel sword. But say it so it sounds innocent. The  suggest perhaps Aegon should take his place and try to redirect him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Dragonpit / War Room** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 65** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Sadism: 3/4 | Exhaustion: 0**
@@ -1403,8 +1485,11 @@ The insult is wrapped so tightly in 'concern' that it chokes the room. Viserys l
 > 👤 **Player:**
 > *"Give father a smile. He should realize I'm not totally innocent and already more powerful than viserys at 12. Ask him for an official role or post so I can help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Dragonpit / War Room** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spells: L1 3/3 | Sadism: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Heat: 65**
@@ -1424,8 +1509,11 @@ Rhaegar (Lvl 12) stares at you, his violet eyes narrowing until they are mere sl
 God Mode:
 Make rhaegar higher level like 18. Some legendary characters can be 16-20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Dragonpit / War Room** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **The Static | Exhaustion: 0 | Inspiration: No**
@@ -1443,8 +1531,11 @@ Administrative update to character power scaling complete.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Stashed Blade - The Valyrian-hilted sword is still in the servant&#x27;s passage. I need to move it to a more permanent location before a patrol finds it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Servant's Conduit, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 75** &nbsp;|&nbsp; ✨ **Sadism Dice: 2/4 (d6) | Spells: L1 3/3 | Exhaustion: 0 | Inspiration: No**
@@ -1464,8 +1555,11 @@ You try to move, to drag the heavy weapon back into the deeper shadows, but your
 God Mode:
 Narrate Rhaegar internal thoughts heavy  dialog. He thinks viserys useless and wonders about my potential
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Servant's Conduit, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 75**
@@ -1483,8 +1577,11 @@ But then his thoughts turned to you, Visenya. You, the 'Ghost Child' with your m
 > 👤 **Player:**
 > *"Narrate Rhaegar thoughts about me in more detail. He truly loves me but wishes my mother were still alive to guide and contain me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Servant's Conduit, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85**
@@ -1508,8 +1605,11 @@ The torchlight snaps toward you, illuminating your indigo velvet gown and the du
 > 👤 **Player:**
 > *"THINK:Best strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Servant's Conduit, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon 14, 298 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85**
@@ -1521,8 +1621,11 @@ You pause, the heavy steel of Viserys's blade still warm and slick in your small
 God Mode:
 Why is heat 85
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Servant's Conduit, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85**
@@ -1550,8 +1653,11 @@ Heat Breakdown and Rationale (Current Value: 85):
 God Mode:
 Let's retcon this and assume I use one of my spies to take the sword somewhere safe instead. Let me roll for the outcome
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Red Keep Hallways** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85**
@@ -1579,8 +1685,11 @@ Because the roll failed, the spy was unable to reach a 'safe' location. While yo
 God Mode:
 Wait let's assume I got a spy who can be big enough to carry the blade and can just hide it. Shoukd be impossible to catch
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Hallway near Serpent's Steps** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85**
@@ -1601,8 +1710,11 @@ Retcon and state correction applied. The previous 'failure' sequence has been ov
 > 👤 **Player:**
 > *"Go back to the tea party and assert influence on the women seeing as now I easily dispatched viserys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Maegor’s Holdfast Gardens, King’s Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Sadism Dice: 2/4 | Exhaustion: 0**
@@ -1631,8 +1743,11 @@ You pick up a fresh lemon cake, the sugar white against your skin. Through the B
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sister&#x27;s Peace - Use your Silver Tongue to convince Rhaenys that you acted only to protect the dynasty&#x27;s image from Viserys&#x27;s &#x27;madness.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Sadism Dice: 2/4 | Exhaustion: 0**
@@ -1654,8 +1769,11 @@ Beside you, Princess Daenerys (Lvl 1) exhales a breath she seems to have been ho
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sister&#x27;s Peace - Use your Silver Tongue to convince Rhaenys that you acted only to protect the dynasty&#x27;s image from Viserys&#x27;s &#x27;madness.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **March 14, 298 AC (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Sadism Dice: 2/4** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Exhaustion: 0 | Inspiration: No**
@@ -1684,8 +1802,11 @@ Beside you, Princess Daenerys (Lvl 1) exhales a breath she seems to have been ho
 God Mode:
 Didn't I already talk to father?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Maegor's Holdfast Gardens, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85**
@@ -1705,8 +1826,11 @@ To resolve this temporal loop, I have updated the `scene_event` status to reflec
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Apex Web (Synergistic) - Charm Margaery while simultaneously using Subsonic Command to ensure Rhaenys and Dany remain silent about the black vapor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 700/900 | Heat: 85** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Sadism: 2/4 | Exhaustion: 0**
@@ -1746,8 +1870,11 @@ You gain **100 XP** for the masterful coordination of social influence and psych
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cement Margaery&#x27;s Bond - Invite Margaery to a private walk to discuss the &#x27;mathematics&#x27; of the court, moving her from observer to co-conspirator*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 800/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Sadism Dice: d6 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye (Active), The Static (Emotional), Magic Resistance | Exhaustion: 0 | Inspiration: No**
@@ -1778,8 +1905,11 @@ You gain **100 XP** for successfully bonding with the Rose of Highgarden and est
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal the &#x27;Mathematics&#x27; - Use the Baelarys Eye to point out the actual stress lines in the castle&#x27;s defenses and court alliances to Margaery.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Apex Predator | HP: 10/10 | XP: 800/900 | Heat: 85** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Sadism Dice: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye (Active), The Static (Active) | Inspiration: No**
@@ -1824,8 +1954,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Ascend to Level 3 (Unlock Shield spell and Expertise).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **March 14, 298 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 900/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Sadism Dice: 4/4 (d6)** &nbsp;|&nbsp; ⚠️ **The Static, Heat (85) | Exhaustion: 0 | Inspiration: No**
@@ -1849,8 +1982,11 @@ If you continue adventuring, you remain Level 3 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Apex Predator benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 900/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Sadism Dice: 4/4 (d6) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Inspiration: No**
@@ -1875,8 +2011,11 @@ Margaery looks at you, her smile faltering for a fraction of a second as she fee
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expertise: Deception &amp; Persuasion - Master the art of the lie and the lure. Your Silver Tongue floor becomes a weapon of absolute social dominance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 900/2700 | Heat: 85** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4 | Sadism Dice: 2/4 (d6) | Exhaustion: 0**
@@ -1890,8 +2029,11 @@ Margaery (Lvl 2) watches you, her own ambition reflected in the violet depths of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Tyrell Alliance - Suggest a more formal, secret communication channel with Margaery to begin influencing Highgarden&#x27;s support.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 900/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, Sadism Dice: 4/4 (d6), Heat: 85** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static (Disadvantage on Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -1927,8 +2069,11 @@ She squeezes your fingers—a hard, conspiratorial grip—before withdrawing her
 > 👤 **Player:**
 > *"secure loyalty dany and rhaenys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1025/2700 | Heat: 85** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4 | Sadism Dice: 2/4 | Exhaustion: 0**
@@ -1968,8 +2113,11 @@ You gain **150 XP** for consolidating the loyalty of the Targaryen princesses.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Garden Front (Synergistic) - Brief Rhaenys and Dany on the cover story while Margaery uses her Tyrell guards to screen you from the Silent Sister&#x27;s observation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1325/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4 | Sadism Dice: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye (Active), The Static (Passive), Magic Resistance | Exhaustion: 0 | Inspiration: No**
@@ -1995,8 +2143,11 @@ Daenerys (Lvl 1) simply nods, her eyes never leaving yours. She doesn't need a c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retreat to Chambers - Go to your quarters to rest and let the &#x27;Heat&#x27; cool naturally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (14th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1325/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4 | Sadism Dice: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2012,8 +2163,11 @@ You sit at your vanity, staring into the silver-glass. Your violet eyes look bac
 > 👤 **Player:**
 > *"long rest and time skip and focus on safe heat reduction activities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Visenya's Chambers, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon 15, 298 AC (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1325/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, Sadism Dice: 4/4 (d6), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Rested | Exhaustion: 0 | Inspiration: No**
@@ -2051,8 +2205,11 @@ lets make heat reduction easier
 > 👤 **Player:**
 > *"Return to Story - Resume the narrative at Dawn, Day 16, with your current Heat at 60."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1325/2700 | Heat: 60** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4 | Sadism Dice: 4/4 (d6) | Exhaustion: 0**
@@ -2068,8 +2225,11 @@ A soft, rhythmic tapping at your door breaks the silence. It is the code of your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comfort and Brief Daenerys - Invite her in and use her as a proxy to learn what the Small Council is discussing while you &#x27;quiet&#x27; Viserys.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1325/2700 | Heat: 60** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, Sadism Dice: 4/4 (d6), Exhaustion: 0**
@@ -2089,8 +2249,11 @@ You gain 50 XP for the successful recruitment and briefing of your royal proxy.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Viserys&#x27;s Quarters - Go to the &#x27;Screaming Prince&#x27; and use Psychic Vivisection to shatter the last of his credibility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Prince Viserys's Quarters, Red Keep** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1325/2700 | Heat: 60** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, Sadism Dice: 3/4 (d6), Inspiration: No**
@@ -2125,8 +2288,11 @@ Viserys gasps, the Psychic Vivisection hitting him like a physical blow. He look
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gaslight Further - Suggest that Aerys is disappointed in his &#x27;weakness,&#x27; using his daddy issues as a lever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Viserys's Quarters, The Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1325/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, Sadism Dice: 2/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Heat: 60 | Inspiration: No**
@@ -2154,8 +2320,11 @@ As you stand, smoothing your indigo skirts, the 'Static' fades into a satisfied 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Public Retraction - Command Viserys to admit his &#x27;hallucinations&#x27; to Pycelle and the guards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Viserys's Quarters, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1625/2700 | Heat: 55** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, Sadism Dice: 3/4 (d6), Exhaustion: 0**
@@ -2186,8 +2355,11 @@ You gain **150 XP** for the total strategic and public neutralization of a polit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Daenerys - Meet Dany as she leaves the gallery to receive the Small Council report.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **The Gallery Corridor, Maegor's Holdfast** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1625/2700 | Heat: 60** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, Sadism Dice: 4/4 (d6), Exhaustion: 0**
@@ -2219,8 +2391,11 @@ You gain 100 XP for the successful intelligence gathering via proxy.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manipulate the Guard Increase - Suggest to Rhaegar that you want the extra guards for &#x27;protection&#x27; from Viserys&#x27;s madness, effectively choosing your own jailers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The Red Keep, Corridor near the Council Chamber** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Apex Predator | HP: 17/17 | XP: 1625/2700 | Heat: 55** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4 | Sadism Dice: 4/4 (d6) | Inspiration: No**
@@ -2250,8 +2425,11 @@ i should get massive exp for viserys admitting he made it up
 > 👤 **Player:**
 > *"Return to Story - Resume the narrative near the Council Chamber after receiving Daenerys&#x27;s report and Rhaegar&#x27;s blessing for your new guards."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Corridor near Small Council Chamber** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 17/17 | XP: 3300/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/4 | Spells: L1 4/4 | Sadism Dice: 2/4 (d6) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Exhaustion: 0 | Inspiration: No**
@@ -2277,8 +2455,11 @@ You gain **800 XP** for the total strategic, public, and psychological neutraliz
 > [!NOTE] ⚙️ **Player Choice:**
 > *ASI: Charisma (+2) - Increase your Charisma to 20, reaching the mortal pinnacle of magnetic presence and social control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Near the Small Council Chamber** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4100/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4 | Sadism Dice: 2/4 (d6) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Heat: 55**
@@ -2304,8 +2485,11 @@ shouldnt i get spells or other stuff or level 4?
 > 👤 **Player:**
 > *"THINK:how can i subvert the guards under my control without arousing suspicion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Corridors near Small Council Chamber** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3300/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Sadism Dice: 4/4 (d6), Inspiration: No** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Exhaustion: 0**
@@ -2315,8 +2499,11 @@ You pause, leaning against the cold stone of the corridor as the Iron Gate guard
 > 👤 **Player:**
 > *"THINK:The Total Web (Indoctrination + Proxy) - Combine your Martyr mask with Dany&#x27;s &#x27;mercy&#x27; visits. While Dany builds rapport through food, you use your CHA 20 presence to bond them to the sisters&#x27; safety."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Near Small Council Chamber** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3300/6500 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **The Static (Active), Baelarys Eye (Active)**
@@ -2326,8 +2513,11 @@ You lean your head against the cool masonry, the 'Static' around you thinning in
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Baelarys Scalpel (Targeted) - Use the Eye to find the one guard with the most severe trauma/debt and break him first to act as an internal advocate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Visenya's Chambers (Corridor)** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3300/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 3/3 | Sadism: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye (Active), The Static (Active) | Heat: 85**
@@ -2354,8 +2544,11 @@ lets assume i have more than 10g dragons due to my spies and being royalty, give
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Clemency - Promise to pay his debts in exchange for &#x27;small&#x27; favors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Corridor outside Visenya's Chambers** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3300/6500 | Gold: 5,000gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism Dice: 2/4 (d6) | Gold: 5,000** &nbsp;|&nbsp; ⚠️ **Baelarys Eye (Active), The Static (Passive), Magic Resistance (Active)**
@@ -2382,8 +2575,11 @@ wait is 5000g too much?
 > 👤 **Player:**
 > *"THINK:Indoctrinate Remaining Guards - Use Davos to pressure his subordinates while Dany brings them comforts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3450/6500 | Gold: 4700gp** &nbsp;|&nbsp; ⚠️ **The Static | Exhaustion: 0 | Inspiration: No**
@@ -2393,8 +2589,11 @@ You pause, leaning your head against the cool, damp stone of the corridor. The w
 > 👤 **Player:**
 > *"lets do mercy pincer and time stkip a few days/weeks as needed because i wannaplay it safe."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 01)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3450/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Sadism Dice: 4/4 (d6), Purse: 4400g** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Heat: 30**
@@ -2421,8 +2620,11 @@ You gain **350 XP** for the successful long-term indoctrination of your personal
 > 👤 **Player:**
 > *"THINK:use my spies to look for a blacksmith willing to forge the valyrian steel sword into a smaller rapier and dagger and disguise it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **Month 4, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3800/6500 | Gold: 4,700gp** &nbsp;|&nbsp; ⚠️ **Subverted Guards | Exhaustion: 0 | Inspiration: No**
@@ -2435,8 +2637,11 @@ isnt the blade valyrian steel too?
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mott Pincer (Synergistic) - Use Davos to create a &#x27;guard training&#x27; distraction while your Master Weaver delivers the blade to Mott&#x27;s back door under a &#x27;Merchant of Highgarden&#x27; cover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 3800/6500 | Gold: 4,700gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism: 2/4 | Heat: 85**
@@ -2454,8 +2659,11 @@ You feel the surge of victory, a sharp resonance in your Baelarys blood. The 'St
 > 👤 **Player:**
 > *"time skip until my valyrian steel is ready, it will be disguised so i need to fail a deception check for people to notice and people wont even be suspicious enonugh to roll perception unless they get a good reason since viserys recanted. assume during this time i autonomously grow my influence and power case carefully and keep reducing heat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (1st Day)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4100/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism: 2/4 | Gold: 4400** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Exhaustion: 0 | Inspiration: Yes**
@@ -2493,8 +2701,11 @@ plan a new arc. lets asume there are lots of criminals/bandits c ausing people t
 > 👤 **Player:**
 > *"Return to Story - Resume the narrative in your chambers, planning the first strike against the King&#x27;s Landing underworld."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5 1, 298 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4450/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Sadism Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Inspiration: No**
@@ -2512,8 +2723,11 @@ As you catch your breath, you realize the full weight of your recent victories. 
 God Mode:
 fix my item stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -2539,8 +2753,11 @@ Administrative audit and equipment synchronization complete.
 God Mode:
 Phase 1: The Flaying of Flea Bottom - Systematically target the syndicate&#x27;s lieutenants using &#x27;The Static&#x27; to incite supernatural terror, framing it as a &#x27;curse&#x27; for stealing the city&#x27;s grain.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4450/6500 | Gold: 4400gp** &nbsp;|&nbsp; ⚠️ **Static Field Active, Predatory Reflexes | Exhaustion: 0**
@@ -2560,8 +2777,11 @@ Administrative setup for 'Phase 1: The Flaying of Flea Bottom' is complete. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Phase 1: The Flaying of Flea Bottom - Systematically target the syndicate&#x27;s lieutenants using &#x27;The Static&#x27; to incite supernatural terror, framing it as a &#x27;curse&#x27; for stealing the city&#x27;s grain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Flea Bottom - The Greasy Spoon** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4450/6500 | Gold: 4,400gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism Dice: 2/4 | Gold: 4,400** &nbsp;|&nbsp; ⚠️ **Baelarys Eye (Active), The Static (Active) | Heat: 65**
@@ -2594,8 +2814,11 @@ You gain **200 XP** for the successful application of supernatural terror and th
 God Mode:
 lets assume even though we're at war the royalty is truly rich. my outfits are different every day and worth thousands of gold, provided by my father etc. same for my familly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4450/6500 | Gold: 4,400gp**
@@ -2610,8 +2833,11 @@ Administrative update complete.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pincer Terror (Synergistic) - Dany enters with &#x27;mercy&#x27; bread for the crowd while you break Tom inside—the contrast of the Silver Angel and the Dark Curse solidifies your control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Greasy Spoon, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4700/6500 | Gold: 4,400gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active), Baelarys Eye (Active)**
@@ -2640,8 +2866,11 @@ You gain **200 XP** for the masterful synergistic operation. Additionally, a sca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate and Disappear (Synergistic) - Extract the intel while the Weaver facilitates a ghost-like retreat for you and Dany*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Flea Bottom Slums, King's Landing** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 24/24 | XP: 4700/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism Dice: 2/4 | Gold: 4400** &nbsp;|&nbsp; ⚠️ **The Static (Active), Baelarys Eye (Active)**
@@ -2661,8 +2890,11 @@ By the time the Gold Cloaks burst into 'The Greasy Spoon,' they find only a sobb
 God Mode:
 assume i have reaosnably decent combat gear and items as royalty and equip them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 4700/6500 | Gold: 4,400gp** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Inspiration: Yes**
@@ -2685,8 +2917,11 @@ Administrative update complete. As a Princess of the Blood and the 'Apex' of Hou
 > 👤 **Player:**
 > *"lets assume we still have grain and dany and I both get credit, and i use my spies to whisper I'm the dark flame to get even more credit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5000/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Sadism Dice: 4/4 (d6)** &nbsp;|&nbsp; ⚠️ **Static Field (Passive), Ghost-Step | Exhaustion: 0 | Inspiration: No**
@@ -2714,8 +2949,11 @@ You gain **300 XP** for the successful launch of the 'Dark Flame' disinformation
 > 👤 **Player:**
 > *"lets assume my shield is offhand and dagger backpack, but i can use dagger to subtle killing as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5000/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 2/4 (d6), Spells: L1 4/4, L2 3/3, HD: 4/4** &nbsp;|&nbsp; ⚠️ **Static Field, Ghost-Step | Exhaustion: 0 | Inspiration: No**
@@ -2738,8 +2976,11 @@ Outside, the world moves in the rhythm of your making. A merchant's cry rises fr
 God Mode:
 mdoify narrative, most people dont know i am baelerys
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Visenya's Chambers, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5000/6500 | Gold: 4400gd**
@@ -2754,8 +2995,11 @@ Administrative correction applied. Your Baelarys lineage has been designated a *
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Dany&#x27;s Dreams - Encourage Daenerys to speak more of her &#x27;hot stones&#x27; and search the library for dragon lore.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Royal Library, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5100/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism Dice: 2/4** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Mantle Protection | Exhaustion: 0 | Inspiration: No**
@@ -2793,8 +3037,11 @@ As you close the ledger, you feel the full weight of your recent tactical succes
 God Mode:
 lets modify the dragon stuff. only when i am level 12 can they hatch. come up with a creative way to make it happen thats similar to the canonical story and we will both need to hatch them together like twin mothers. also lets make dany always 2 levels below me and an offical companion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5350/6500 | Gold: 4400gp**
@@ -2817,8 +3064,11 @@ Administrative updates to the Dragon Hatching Protocol and Companion Scaling are
 > 👤 **Player:**
 > *"THINK:plan a situation where the rat king is in public and i ambush him and kill him when he's not under heavy guard. i also wanna roll deception and pretend I'm not seeking him otu and just defending myself, and it should be a public battle so i become popular with people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Royal Library, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5350/6500 | Gold: 4400gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2830,8 +3080,11 @@ You pause, the heavy vellum of Jaehaerys’s ledger still cool beneath your fing
 > 👤 **Player:**
 > *"weavers pincer and lets make sure my guards are all here and ready to help. what levels are they?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Cobbler's Square, Flea Bottom** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5350/6500 | Gold: 4,400** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism Dice: 4/4 (d6) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Baelarys Eye (Active), The Static (Active), Mantle Protection, Ghost-Step | Inspiration: No**
@@ -2866,8 +3119,11 @@ The Rat King sneers, his yellow teeth bared as he reaches for your throat, compl
 > 👤 **Player:**
 > *"use crossbow attack to trigger surprise round, then i use shadow stitch to do needles kiss. it should be easy because its self defense so I look good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Cobbler's Square, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5350/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Sadism: 4/4 (d6), Gold: 4,400** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Magic Resistance | Heat: 65**
@@ -2910,8 +3166,11 @@ Behind you, Daenerys (Lvl 2) lets out a sharp, practiced gasp of horror, her sil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Subjugation (Synergistic) - Davos and the veterans descend to pin the Saints while you use Psychic Vivisection to force the Rat King to name you his successor before he dies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Cobbler's Square, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5350/6500 | Gold: 4400gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Sadism: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Inspiration: No**
@@ -2944,8 +3203,11 @@ You gain **500 XP** for the total subjugation of the Flea Bottom syndicate and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Needle&#x27;s End - Publicly execute the Rat King to finalize the transfer of power and maximize terror.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Cobbler's Square, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 50/50 | XP: 6900/14000 | Gold: 4,720gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, Sadism Dice: 5/5 (d8), Extra Attack: Yes** &nbsp;|&nbsp; ⚠️ **The Dark Flame, The Static | Exhaustion: 0 | Inspiration: No**
@@ -2974,8 +3236,11 @@ You gain **1,050 XP** for the public execution of a syndicate leader and the tot
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dark Coronation (Synergistic) - Execute the Rat King while Davos formally recruits the surviving Saints into your service - immediate total control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Cobbler's Square, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Apex Predator | HP: 39/39 | XP: 5850/6500 | Gold: 4720gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Sadism: 2/4, Dragons: 1 (Spirit Form)** &nbsp;|&nbsp; ⚠️ **The Static (Active), Mantle Protection, Ghost-Step | Exhaustion: 0 | Inspiration: No**
@@ -3008,8 +3273,11 @@ You gain **1,000 XP** for the total subjugation of the Flea Bottom syndicate and
 God Mode:
 lets give me two titles. lets have the peasants start calling me the blood dragon and the name becomes more famous as i gain power. then in secret people call me the dark flame, associated with rumors of magic powers, but not confirmed.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Cobbler's Square, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (16th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 6850/14000 | Gold: 5,170gd**
@@ -3032,8 +3300,11 @@ Administrative update complete. Visenya Targaryen has been granted two distinct 
 > 👤 **Player:**
 > *"lets assume i double down. I mount the rat kings head on a spike for public display and dany and I walk through the crowd and gain acclaim. they should be happy because the rat king was preying on them. I ask them for information on more criinals and bandits. They will start calling me blood dragon but not necessarily to my face. To my face I will be the Dragon shield, and blood dragon is a title used behind my back to explain I'm ruthless. For now the title isnt as strong because itwas self defense, but the blood dragon title will keep leveling up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Cobbler's Square, Flea Bottom** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 6850/14000 | Gold: 5170gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4, L2 3/3 | Sadism Dice: 4/4 (d8) | Hit Dice: 4/4 (d8)** &nbsp;|&nbsp; ⚠️ **The Static (Active), Mantle Protection, Ghost-Step | Inspiration: Yes**
@@ -3065,8 +3336,11 @@ The math of the city shifts. Fear of the Rat King is replaced by a fanatical, de
 > 👤 **Player:**
 > *"ghost pincer, lets try to trigger another surprise round. lets have my weavers work the crowd and keep gaining more intel on criminals. if gold cloaks or someone stops me I'll appeal to the peasant sand say perhaps i should lead the gold cloaks and try to use popular acclaim to force leadership of gold cloaks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Flea Bottom - The Pig-Sty Warehouse** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 6850/14000 | Gold: 5170gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3 | Sadism: 4/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active), Ghost-Step (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3108,8 +3382,11 @@ The crowd lets out a jagged roar of acclaim, their devotion (Social HP: SURRENDE
 God Mode:
 peple should be reacting to me narratively and i should gain heat since i am taking public credit for bandit/criminal purgges, however heat 100 should just mean max attention vs some campaign ending thing. everyone should be amazed a 12 year old girl can do this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **'Pig-Sty' Warehouse, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 6850/14000 | Gold: 5170gp** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Heat: 85/100**
@@ -3130,8 +3407,11 @@ Administrative changes applied to the Heat System and NPC reaction protocols.
 God Mode:
 i am level 5 now i think my level up prompt was skipped? process level 5 and auto pick spells, assume we have no dps spells until level 12 since we are low magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 6850/14000 | Gold: 5170gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3155,8 +3435,11 @@ Level 5 processing for Visenya Targaryen and companion scaling for Daenerys is c
 God Mode:
 this makes no sense, these criminals are not my kin Suddenly, the heavy double doors of the warehouse burst open. A squad of twelve Gold Cloaks (Lvl 3), led by a red-faced Sergeant, enters with spears leveled. "In the name of the Regent! Cease this kinslaying madness!"
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **The Pig-Sty Warehouse, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 6850/14000 | Gold: 5170gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3174,8 +3457,11 @@ The world remains frozen at the moment of confrontation. You are standing over g
 > 👤 **Player:**
 > *"command gold cloaks and utilize smallfolk to pressure them, also recruit small folk into city militia. take barrett and all the criminals prisoner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **The Pig-Sty, Flea Bottom** &nbsp;|&nbsp; ⏳ **5 16, 298 AC (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 6850/14000 | Gold: 5170gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism Dice: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active), Ghost-Step (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3216,8 +3502,11 @@ The roar that follows is absolute. The 'Blood Dragon' has given them a name, and
 > 👤 **Player:**
 > *"interrogate iron legs, reinforce control of gold cloaks, get them to agree with me and ill make them popular and rich. deny me and ill tell the prince they pointed spears at a princess of the blood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **The 'Pig-Sty' Warehouse, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 7850/14000 | Gold: 5670gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 5/5 (d8), Spells: L1 4/4, L2 3/3, L3 2/2, HD: 5/5** &nbsp;|&nbsp; ⚠️ **The Static (Active), Heat: 85 | Inspiration: Yes**
@@ -3239,8 +3528,11 @@ Barret lets out a broken, whistling sob. "Under... under the false floor... by t
 God Mode:
 stop this kinslaying stuff, no one was my kin here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **The 'Pig-Sty' Warehouse, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 8350/14000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **The Static (Active), Baelarys Eye (Active) | Heat: 85**
@@ -3259,8 +3551,11 @@ Administrative correction applied. I have scrubbed the 'kinslaying' terminology 
 > 👤 **Player:**
 > *"secure the stones, execute barret and display his head and the heads of his men to the smallfolk gaining more shield and blood dragon rep, then try to gain intel on the strongest criminal around and if they're weaker or stronger than rat king who was level 6. Also people should react narratively to level 5 12 year old, t should be as rare as in D&D"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **The 'Pig-Sty' Warehouse, Flea Bottom** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 48/48 | XP: 8350/14000 | Gold: 5,670gd** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/5 (d8), Spells: L1 4/4, L2 3/3, L3 2/2, HD: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Inspiration: No**
@@ -3296,8 +3591,11 @@ The weaver trembles, kneeling in the muck. "The... the Alchemist, Princess. He d
 God Mode:
 make sure we processed my level 5 and exp/rewards/loot from all my wins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (16th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9,550/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **The Static, Ghost-Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3335,8 +3633,11 @@ All systems are synchronized. You are now at the height of your power as a Tier 
 > 👤 **Player:**
 > *"short rest, cleanup, and plan a strike on the alchemist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **The Red Keep, Visenya's Chambers** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9,550/14,000 | Gold: 5,670gd** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 5/5 (d8), Inspiration: No** &nbsp;|&nbsp; ⚠️ **Ghost-Step, The Static, Silver Tongue | Exhaustion: 0 | Inspiration: No**
@@ -3352,8 +3653,11 @@ A soft chime sounds from your vanity. The Baelarys Ring pulses with a cold, warn
 > 👤 **Player:**
 > *"THINK:i like green pincer, but how can i mitigate wildfire risk? what if i get intel/help from aerys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (16th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9,550/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **The Static, High Heat (85) | Exhaustion: 0 | Inspiration: No**
@@ -3363,8 +3667,11 @@ You pause, leaning against the cool masonry of your chamber's hearth, watching t
 > 👤 **Player:**
 > *"THINK:what if i just reveal my growing power to aerys and show i'm a better inheritor of his will and power than viserys and say ill use the wildfire for fun purposes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9,550/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **The Static, Magic Resistance, Mantle Protection | Heat: 85**
@@ -3374,8 +3681,11 @@ You watch the coals glow beneath the dragon eggs, their dull red heat a poor imi
 > 👤 **Player:**
 > *"baelarys coronation. have aerys give me the codes/secrets of hte alchemists to control them or easily neutralize. say i will do many fun things with it versus have it staying around doing nothing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **The Maidenvault** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9,550/14,000 | Gold: 5,670 dragons** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism Dice: 5/5 (d8) | Exhaustion: 0**
@@ -3408,8 +3718,11 @@ You gain **800 XP** for successfully claiming the Mad King's legacy and securing
 > 👤 **Player:**
 > *"THINK:how to reduce risks of emerald pincer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (16th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10350/14000 | Gold: 5670gp** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Baelarys Eye (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3419,8 +3732,11 @@ You stand in the flickering green shadow of the dragon eggs, the cold ringing of
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Emerald Pincer: Optimized (+0 DC) - Dany performs the Prophetic Prayer while you use the Baelarys Ring to modulate the &#x27;Static&#x27;—Sister is religiously bound and psychically dulled.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Visenya's Chambers, the Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10350/14000 | Gold: 5670gd** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Masked | Inspiration: Yes**
@@ -3436,8 +3752,11 @@ You press your thumb against the Baelarys Ring, channeling your 'Static' not as 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Decode the Green Fire - Study Aerys&#x27;s ciphers to map the wildfire caches and identify the Guildhall&#x27;s weakest link.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **3rd Moon 16, 298 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10350/14000 | Gold: 5670** &nbsp;|&nbsp; ⚠️ **The Static, Ghost-Step | Exhaustion: 0 | Inspiration: No**
@@ -3472,8 +3791,11 @@ You gain **400 XP** for successfully decoding the Alchemist Ciphers and identify
 > 👤 **Player:**
 > *"THINK:when should is trike? Iwanna secure the wildfireand defeat any alchemists who resist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10,750/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **The Static (Active), Baelarys Eye (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3483,8 +3805,11 @@ You pause, the lead-lined scroll of Aerys's ciphers still cold beneath your fing
 > 👤 **Player:**
 > *"THINK:What if I do emerald eclipse but get some loyal gold cloaks to help and my other guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Visenya's Chambers** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10750/14000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **The Static (Active), Mantle Protection, Magic Resistance | Exhaustion: 0 | Inspiration: No**
@@ -3494,8 +3819,11 @@ You stand by the hearth, the heat from the dragon eggs prickling your skin as yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Green Mandate (Safe Risk) - The Gold Cloak Sergeant demands entry for a &#x27;Royal Audit.&#x27; You walk in the front door with your full guard. Use CHA 20 and the Ciphers to force a bloodless surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Guildhall of the Alchemists, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 11,750/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Heat: 100 (Saturation Point)**
@@ -3530,8 +3858,11 @@ You have successfully seized the primary wildfire production facility in the Sev
 > 👤 **Player:**
 > *"THINK:Evaluate the alchemists who would stay loyal vs not. How about leader?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Guildhall of the Alchemists** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 11750/14000 | Gold: 5670gp** &nbsp;|&nbsp; ⚠️ **The Static | Heat: 100 (Saturation Point)**
@@ -3541,8 +3872,11 @@ You stand amidst the flickering green emerald light of the Guildhall's central h
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Psychic Leash - Use Psychic Vivisection and the Ciphers to bind Pollitor&#x27;s mind. Force him to accept a &#x27;Sensation&#x27; link that ensures his pain is yours to command.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Guildhall of the Alchemists** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9550/14000 | Gold: 5670** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active), The Dark Flame (Secret Title), The Blood Dragon (Public Title)**
@@ -3562,8 +3896,11 @@ You have successfully leashed the mind of the Grand Master, securing the Alchemi
 > 👤 **Player:**
 > *"THINK:How about this. Have my weavers remove the wildfire and execute half of the alchemists. Pose as a hero who defeated the largest criminal element and wake up small folk and announce my victory. When Rhaegar men come they won't be able to easily contain me due to the mob and at least on the surface I did a good deed. Have the master alchemist secured and left alive to help me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Guildhall of the Alchemists** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 11,750/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Inspiration: No**
@@ -3575,8 +3912,11 @@ The plan resolves with clinical clarity. You don't just see a raid; you see a pu
 > 👤 **Player:**
 > *"THINK:I like hero pyre but how can i convince rhaegar i am pursing justice? Also at elast publically I am doing good, just standing out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Guildhall under the Hill** &nbsp;|&nbsp; ⏳ **3rd Moon Day 16, 298 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 11,750/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **Baelarys Eye, The Static, Mantle Protection | Heat: 100**
@@ -3586,8 +3926,11 @@ You pause within the shivering emerald light of the Guildhall, your mind working
 > [!NOTE] ⚙️ **Player Choice:**
 > *Operation: Green Eclipse (Synergistic Parallel) - Weavers move the wildfire while Davos executes the purge and Dany leads the Parade. You personally meet the Iron Gate company at the door with Pollitor in tow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Guildhall of the Alchemists** &nbsp;|&nbsp; ⏳ **3rd Moon 17, 298 AC (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 11050/14000 | Gold: 5670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3625,8 +3968,11 @@ You gain **1,500 XP** for the masterful execution of Operation: Green Eclipse an
 > 👤 **Player:**
 > *"victors return, order the iron guard to "escort" me to rhaegar, and do a parade so all the small folk notice and join in cheering me on and rhaegar cant really move against me. also a level 5 12 year old should be exceptional, people should react and even dany at level 3 is prob impressive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Hill of Rhaenys, Guildhall of the Alchemists** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 11050/14000 | Gold: 5,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism Dice: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active), Baelarys Eye (Active)**
@@ -3658,8 +4004,11 @@ You gain **1,500 XP** for the masterful subversion of the Iron Gate company and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Apex Ascension (Synergistic Parallel) - Force a public audience while simultaneously formalizing your command of the Dragon&#x27;s Watch—total political takeover of the city&#x27;s internal security.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Drawbridge, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 12550/14000 | Gold: 5,670gd** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **Hero of the People (+5 CHA with Smallfolk) | Exhaustion: 0 | Inspiration: Yes**
@@ -3693,8 +4042,11 @@ rememebr that most people dont know i am a half baelerys, except my father, aery
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shadow Regency (Synergistic Parallel) - Secure Pollitor&#x27;s custody while simultaneously forcing Rhaegar to appoint you &#x27;Warden of the Hill&#x27;—giving you legal control over the wildfire and the militia.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Great Hall of the Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9550/14000 | Gold: 5,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism Dice: 5/5 | Exhaustion: 0**
@@ -3731,8 +4083,11 @@ i thought viserys was the leader of the gold cloaks?
 > 👤 **Player:**
 > *"ask to be made lord command of the gold cloaks too, because viserys just lsot his sword and is acting crazy, while i secured the major criminals in two days"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Great Hall, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon 17, 298 AC (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 14050/23000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **Static Field Active, High Heat (85) | Exhaustion: 0**
@@ -3765,8 +4120,11 @@ make tywin level 15, he should be at least as powerful as varys, same with other
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer &#x27;Acting&#x27; Command - Suggest a trial period for the Watch to appease the Council while you consolidate power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The Great Hall, The Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9550/14000 | Gold: 5670gd** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 5/5 (d8), Heat: 85** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Hero of the People (+5 Smallfolk CHA)**
@@ -3791,8 +4149,11 @@ Rhaegar (Lvl 18) leans back, the Iron Throne groaning as his weight shifts. Thro
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Voice of the People - Signal your Weavers to have the crowd outside begin a specific chant to remind the Council of the alternative to your leadership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Great Hall, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9,550/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **Hero of the People (+5 Smallfolk CHA), The Static (Adv: Intimidate / Dis: Stealth) | Inspiration: Yes**
@@ -3812,8 +4173,11 @@ Rhaegar (Lvl 18) looks at the doors, then back to you. The realization that you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dragon&#x27;s Guard - Formally merge the &#x27;Dragon&#x27;s Watch&#x27; militia into the Gold Cloaks, replacing disloyal veterans with your fanatical smallfolk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The Great Hall, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 15550/23000 | Gold: 5670g** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Hero of the People (+5 CHA vs Smallfolk), Acting Lord Commander (+2 Intimidation vs Watch) | Inspiration: No**
@@ -3844,8 +4208,11 @@ The Gold Cloak Sergeant (Lvl 3) steps forward, his spear-tip dipping as he kneel
 > 👤 **Player:**
 > *"leave the area nad start my purges. do golden audit and purify ranks. make executions public to appease small folk and give out gold/food/loot from  executed crimiinals to smallfolk like robin hood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Flea Bottom / City Watch Barracks** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 17050/23000 | Gold: 5670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism Dice: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Hero of the People (+5), Acting Lord Commander (+2)**
@@ -3882,8 +4249,11 @@ In the gallery of the Red Keep, Tywin Lannister (Lvl 15) watches the distant smo
 > 👤 **Player:**
 > *"have my men train/formalize dragons watch, gather evidence against janos slynt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **City Watch Barracks (Lord Commander's Suite)** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 18550/23000 | Gold: 5,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism Dice: 4/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3899,8 +4269,11 @@ You pry up a hidden panel. Inside is not gold, but a lead-lined lockbox containi
 > 👤 **Player:**
 > *"narrae a scene without me. the small council should be afraid of me and impressed. narrate everyones dialog and innter thouughts. rhaegar privately knows about my baelyrs blood and also knows even if i am baelerys a level 5 12 year old doing all of this is an apex event, perhaps of prophecy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Small Council Chamber, The Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9,550/14,000 | Gold: 5,670gp** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill**
@@ -3928,8 +4301,11 @@ Tywin's eyes narrowed. He saw the Regent's dread. *He's afraid of his own blood,
 > 👤 **Player:**
 > *"blackmail pincer, and make sure they tell me where janos went"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Small Council Chamber, The Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 19200/23000 | Gold: 5,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Heat 85 | Exhaustion: 0 | Inspiration: No**
@@ -3963,8 +4339,11 @@ Tywin's jaw sets, a sound like grinding granite, but for the first time, his eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Slynt - Lead a high-speed pursuit with Davos and the Iron Gate to capture Slynt at the Seven-Swords Inn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Seven-Swords Inn (Southern Kingsroad)** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 19,200/23,000 | Gold: 5,670 Dragons** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism Dice: 4/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Acting Lord Commander**
@@ -3994,8 +4373,11 @@ Janos Slynt (Lvl 6) stumbles onto the porch, his gold-and-black doublet half-but
 > 👤 **Player:**
 > *"capture him, take half his loot for myself, distribute the rest to my loyalists, interrogate him here first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Seven-Swords Inn Courtyard** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9550/14000 | Gold: 7,670** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **Static Field (Active) | Inspiration: No**
@@ -4035,8 +4417,11 @@ Slynt's mind, already frayed by your presence, unspools entirely. "Mace Tyrell's
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Needle&#x27;s Return - Drag Slynt back to the Great Hall in chains to publicly expose the Lannister/Tyrell meddling.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **The Great Hall, Red Keep** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10050/23000 | Gold: 11,670** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sadism: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Hero of the People, Acting Lord Commander**
@@ -4056,8 +4441,11 @@ A vacuum of silence follows, broken only by the rhythmic, terrified sobbing of S
 > 👤 **Player:**
 > *"Leave and bring Janos to a secure jail cell. Ask him for more details why wet the Lannisters and Tyrell's helping him. What did he have to gain ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon 17, 298 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10050/23000 | Gold: 7,670gp** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander (+2 Intimidation) | Heat: 95/100**
@@ -4094,8 +4482,11 @@ You gain **500 XP** for extracting the 'Lion's Gate' conspiracy details.
 > 👤 **Player:**
 > *"THINK:whats the best to grow my power? tell father or get concessions from tywin and mace?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10050/23000 | Gold: 7670gp** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Acting Lord Commander | Exhaustion: 0 | Inspiration: No**
@@ -4105,8 +4496,11 @@ You stand in the oppressive dark of the Black Cells, the rhythmic sobbing of Jan
 > 👤 **Player:**
 > *"THINK:whats the best path to power and freedom to do whatever i want?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10050/23000 | Gold: 7670gp** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Mask of the Ghost Child | Exhaustion: 0 | Inspiration: Yes**
@@ -4116,8 +4510,11 @@ You lean against the damp, saltpetre-stained wall of the Black Cell, the rhythmi
 > 👤 **Player:**
 > *"THINK:could i make an alliance with tywin?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **Month 3 Day 17, 298 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10050/23000 | Gold: 7670gp** &nbsp;|&nbsp; ⚠️ **The Static (Controlled) | Exhaustion: 0 | Inspiration: No**
@@ -4129,8 +4526,11 @@ Your instincts, sharpened by the Baelarys Eye and the high-performance engine of
 > 👤 **Player:**
 > *"THINK:what if a propose a matriachal marriage to tommen (prob around my age?). I offer to bury the evidence in return Tywin funds me. We pick his most disloyal lannister men and frame them and say he's innocent. Then in return we work to weaken and unseat my father and let tywin become regent first, but find a way to make me the heir to the iron throne. Then tywin and I rule together and his blood is on the throne even if not in name"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10050/23000 | Gold: 7670gp** &nbsp;|&nbsp; ⚠️ **Hero of the People, Acting Lord Commander | Exhaustion: 0 | Inspiration: No**
@@ -4140,8 +4540,11 @@ You lean against the damp, saltpetre-stained wall of the Black Cell, the rhythmi
 > 👤 **Player:**
 > *"THINK:how many targaryens ahead of me in the succession"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **The Black Cells** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 9550/14000 | Gold: 5670gp** &nbsp;|&nbsp; ⚠️ **The Static | Exhaustion: 0 | Inspiration: No**
@@ -4151,8 +4554,11 @@ You have 5 Targaryens ahead of you in the direct line of succession. Recalling t
 > 👤 **Player:**
 > *"Long rest and while I sleep have my weavers get hard physical proof of the lannister and. tyrell involvement from janos. Then i hold a private audience with tywin and probe him for receptiveness. I subtly offer to leave him out of things in exchange for gold, favor with lannisters, and I will hint at unseating rhaegar and nominating him regent in exchage for supporting my claim. If he seems resistance at some point ill stop"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Tywin's Solar, The Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 10050/23000 | Gold: 7,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sadism Dice: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Hero of the People, Acting Lord Commander | Sadism Dice: 5/5 | Inspiration: Yes**
@@ -4170,8 +4576,11 @@ Tywin stops writing. He raises his gaze, his pale green eyes flecked with gold, 
 > 👤 **Player:**
 > *"wait to see his response, let him think the decisions further on are his idea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Hand's Solar, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Apex Predator | HP: 39/39 | XP: 14550/23000 | Gold: 7,670gd** &nbsp;|&nbsp; ✨ **Sadism Dice: 5/5 (d8), Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Static Field (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -4207,8 +4616,11 @@ You gain **3,900 XP**! The experience of your total political takeover and the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Apply Level 6 Apex Predator benefits (Summon The Alpha)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Hand's Solar** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14550/23000 | Gold: 7,670gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 5/5 (d8) | HD: 6/6** &nbsp;|&nbsp; ⚠️ **Static Field (Disadv Stealth/Adv Intim) | Exhaustion: 0 | Inspiration: No**
@@ -4235,8 +4647,11 @@ Pros: Secures Lannister funding, Tywin believes he won
 Cons: Binds you to the Lannister house politically
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **The Hand's Solar, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14550/23000 | Gold: 7,670gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill | Heat: 85**
@@ -4266,8 +4681,11 @@ He leans back, his fingers steepling. "As for the Iron Regent (Lvl 18)... he is 
 > 👤 **Player:**
 > *"accept the 50, explain i can pitch rhaegar, and give tywin a cute smile and say I'll defer to him for major decisions to appease his ego. Even after i inherit the crown very likely as a woman I'll need the backing of a man and strong lord to solidify my rule and the lannisters can grow rich and powerful."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Hand's Solar, The Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14550/23000 | Gold: 7,670gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 5/5 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, HD: 6/6** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Masked Baelarys | Exhaustion: 0 | Inspiration: No**
@@ -4301,8 +4719,11 @@ Tywin (Lvl 15) watches you, his pale eyes searching for the trap. But under the 
 > 👤 **Player:**
 > *"give tywin a genuine compliment. Say if he ruled the realm things would be better vs my father, and maybe we would win the endless war"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **The Hand's Solar, The Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14550/23000 | Gold: 7670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, Sadism Dice: 5/5 (d8), Entropy: Spirit Form** &nbsp;|&nbsp; ⚠️ **Static Active | Exhaustion: 0 | Inspiration: No**
@@ -4331,8 +4752,11 @@ You gain **200 XP** for the masterful application of clinical flattery.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate All Fronts (Compatible) - Send Davos to organize the veterans while you personally visit Rhaegar; uses both your military and social momentum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **The Maidenvault / City Watch Barracks** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14750/23000 | Gold: 7670gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander (+2 Intimidation) | Hero of the People (+5 CHA vs Smallfolk)**
@@ -4363,8 +4787,11 @@ At the barracks, Davos executes the transition with clinical efficiency. The fif
 > 👤 **Player:**
 > *"tell him to remove the silent sister, i need to operate automously"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **The Maidenvault, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14750/23000 | Gold: 7,670gd** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sadism Dice: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Acting Lord Commander, Warden of the Hill | Inspiration: Yes**
@@ -4397,8 +4824,11 @@ whats this tyrell tribute?
 > 👤 **Player:**
 > *"seize tyrell tribute for the watch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **The River Gate, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14750/23000 | Gold: 15670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, Sadism Dice: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **Static Field Active | Exhaustion: 0 | Inspiration: No**
@@ -4429,8 +4859,11 @@ You gain **1,000 XP** for the masterful redirection of Tyrell resources and the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subvert the Tyrell Messenger - Use Psychic Vivisection on the messenger before he returns to Highgarden, planting a &#x27;Stress Line&#x27; of loyalty for future use.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **The River Gate** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14750/23000 | Gold: 15670gp** &nbsp;|&nbsp; ✨ **HD: 5/6, Spells: L1 4/4, L2 3/3, L3 2/3, Sadism Dice: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill**
@@ -4457,8 +4890,11 @@ You gain **250 XP** for the successful psychic subversion of a high-tier courier
 > 👤 **Player:**
 > *"go find margaery and explain the leverage i have. Ask her if i should implicate her father or who's her enemies in her family/faction to remove and let her gain more power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Maegor's Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 11800/14000 | Gold: 15670gd** &nbsp;|&nbsp; ✨ **Sadism Dice: 5/5 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, Hit Dice: 5/5** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill | Heat: 85**
@@ -4497,8 +4933,11 @@ Margaery's breath hitches, her mask of Highgarden politeness finally dissolving 
 > 👤 **Player:**
 > *"ask her waht she thinks. should she replace her father?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Maegor’s Holdfast Gardens, King’s Landing** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15,000/23,000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 4/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill | Heat: 85**
@@ -4542,8 +4981,11 @@ Rhaenys evidence doesnt make sense? I think the purge was brutal and public?
 > 👤 **Player:**
 > *"THINK:what todo next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Maegor's Holdfast Gardens** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15000/23000 | Gold: 15,670gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4553,8 +4995,11 @@ You pause, the 'Static' around you thinning into a razor-sharp clinical hum as y
 God Mode:
 Rhaenys evidence doesnt make sense? I think the purge was brutal and public?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Maegor's Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15000/23000 | Gold: 15670gp**
@@ -4572,8 +5017,11 @@ Administrative retcon applied to Sequence 298 and the 'Sister's Burden' quest lo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the garden confrontation with the corrected logic: Rhaenys is reacting to your public notoriety, not a secret crime.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15,000/23,000 | Gold: 15,670gp** &nbsp;|&nbsp; ⚠️ **Static Field (Adv Intimidation / Disadv Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -4605,8 +5053,11 @@ Rhaenys shudders, the logic of your words—sharp, clinical, and undeniable—pi
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shared Burden - Take the salt-stave from her hand and explain that you carry the &#x27;darkness&#x27; so she doesn&#x27;t have to.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15150/23000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 5/5 (d8) | Exhaustion: 0**
@@ -4639,8 +5090,11 @@ You gain **150 XP** for the psychological subversion of your sister and the cons
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Rhaenys, Focus Margaery (Synergistic) - Have Dany comfort Rhaenys to solidify the &#x27;Silver Angel&#x27; bond while you personally secure Margaery&#x27;s commitment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 10750/14000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 5/5 (d8), Spell Slots: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4682,8 +5136,11 @@ i think i am level 6? dont change it to 5
 System Warnings:
 Level auto-corrected from 6 to 5 based on XP
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 10,750/14,000 | Gold: 15,670gp** &nbsp;|&nbsp; ⚠️ **Warden of the Hill, Acting Lord Commander**
@@ -4702,8 +5159,11 @@ Note: The system warnings regarding XP-to-Level mismatch have been suppressed fo
 God Mode:
 dont lock my level at 6, give me reasonable exp for leve l6
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **The Great Hall** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14,500/23,000 | Gold: 15,670gp**
@@ -4713,8 +5173,11 @@ Level 6 status has been unlocked from the previous administrative lock. Your exp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prune Highgarden - Direct Margaery to identify the specific Tyrell elements that must be removed to secure her father&#x27;s total compliance or his replacement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14,500/23,000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 4/5 (d8)** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill | Exhaustion: 0 | Inspiration: No**
@@ -4755,8 +5218,11 @@ Pros: Maximum political gain, Margaery is publicly cleared, Synergy: Public accl
 Cons: Requires perfect timing between Weavers and Margaery
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14700/23000 | Gold: 5670gp** &nbsp;|&nbsp; ⚠️ **Static Pulse | Exhaustion: 0 | Inspiration: No**
@@ -4766,8 +5232,11 @@ You pause, your fingers still resting on Margaery's chin, the cold 'Static' of y
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Pincer (Synergistic) - Use the Gold Cloaks to perform public &#x27;Audits&#x27; of the targets&#x27; quarters while Weavers plant the forged &#x27;Discord Pact&#x27; documents.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Maegor’s Holdfast Gardens** &nbsp;|&nbsp; ⏳ **Month 3, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 16,400/23,000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, Sadism Dice: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4818,8 +5287,11 @@ Lord Tywin (Lvl 15) watches from the shadow of an archway, his mask of stone rem
 > 👤 **Player:**
 > *"interrogate Lord Axell and Ser Paxter and ensure their stories will support my narrative"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14500/23000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, Sadism Dice: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill | Exhaustion: 0 | Inspiration: No**
@@ -4857,8 +5329,11 @@ You gain **500 XP** for the successful psychological subversion of the Tyrell hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Written Confessions - Have them sign the &#x27;Discord Pacts&#x27; and detailed statements naming the &#x27;rogue&#x27; Lannister officers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15,000/23,000 | Gold: 15,670** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, Sadism: 3/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4888,8 +5363,11 @@ You gain **500 XP** for formalizing the confessions and securing total control o
 God Mode:
 does this make sense? if tehse guys are tywin/margarery enemeies i prob wanna execute them?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **The Black Cells, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15,500/23,000 | Gold: 15,670gp**
@@ -4911,8 +5389,11 @@ Executing Lord Axell Tyrell and Ser Paxter Redwyne makes perfect mathematical an
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Blood Dragon&#x27;s Justice - Proceed to the public execution of Axell, Paxter, and Slynt to maximize notoriety and power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **The Plaza of the Dragon, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15500/23000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 5/5 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, HD: 5/5** &nbsp;|&nbsp; ⚠️ **The Static (Active) | Heat: 100 (Saturation)**
@@ -4943,8 +5424,11 @@ You stand amidst the red math of the dais, your indigo gown stained with the pri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront the Council - March back into the Great Hall while still bloodied to demand the formalization of your &#x27;Acting&#x27; command into a permanent one.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **The Great Hall, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 17600/23000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 4/5 (d8) | Gold: 15,670** &nbsp;|&nbsp; ⚠️ **Bloodied (Narrative), Acting Lord Commander | Exhaustion: 0 | Inspiration: No**
@@ -4972,8 +5456,11 @@ Rhaegar (Lvl 18) looks at your bloodied hands, then at the fanatical devotion in
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Lion&#x27;s Support - Look to Tywin to publicly endorse your permanent command, forcing Rhaegar&#x27;s hand through the Council&#x27;s weight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **The Great Hall, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 17,600/23,000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 5/5 (d8) | Inspiration: No** &nbsp;|&nbsp; ⚠️ **Blooddrunk (Aura), The Static (High) | Exhaustion: 0 | Inspiration: No**
@@ -5002,8 +5489,11 @@ You gain **1,500 XP** for the total political annexation of the capital and the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Governance (Synergistic) - Have Davos formalize the Blackguard while you personally begin the audit of the Small Council records.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **The Small Council Chamber / City Watch Barracks** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21100/23000 | Gold: 15,670gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Static (Active), Heat: 85 | Inspiration: Yes**
@@ -5032,8 +5522,11 @@ You gain **2,000 XP** for the total military and administrative annexation of th
 God Mode:
 Remember baelerys isn't known to everyone. They'll just think the black guard are the blood dragons men
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **The Great Hall** &nbsp;|&nbsp; ⏳ **March 17, 298 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,100/23,000 | Gold: 15,670gp** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill | Heat: 85**
@@ -5052,8 +5545,11 @@ Administrative directive updated.
 > 👤 **Player:**
 > *"Delegate small council secrets to master waver and meet Tywin privately. Give him  a cute smile and sighed the propose the marriage to Rhaegar without me present so he doesn't know we're working together. Say Tywin will imply I need a leash. Then he starts the offer with 50% of the gold and lands we agreed on. Rhaegar brings the office to me and I protest and say I want double the offer to consider it and pretend to be resistant. You then agree and  we seal the deal. Coorondate this so Tywin thinks it's his idea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,100/23,000 | Gold: 15,670gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5096,8 +5592,11 @@ Rhaegar (Lvl 18) looks at your 'resistance' and feels a pang of hallowed fatherl
 > 👤 **Player:**
 > *"Explicitly mention it's a matriarchal marriage as agreed and narrate my acceptance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **The Maidenvault, Red Keep** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,100 / 23,000 | Gold: 25,670gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3 | HD: 5/5 | Heat: 85** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Warden of the Hill, Lord Commander of the Blackguard**
@@ -5136,8 +5635,11 @@ Rhaegar (Lvl 18) closes his eyes, the weight of his prophecy finally granting hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Issue Blackguard Edicts - Formalize the new laws of the Watch, establishing the &#x27;Blood Dragon&#x27;s&#x27; justice as the city&#x27;s only legal math.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **The Great Hall / Blackguard Barracks** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 14500/23000 | Gold: 25,670gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill, Matriarchal Pact**
@@ -5165,8 +5667,11 @@ You have successfully formalized the Blackguard, turning a mob and a broken guar
 > 👤 **Player:**
 > *"Long rest and time skip for a few weeks. I attempt to purge the remaining criminals and stuff and i pile up hundreds of dead's to deter others. In return i distribute half of the loot I gain to the small folk and ensure they're well fed now. Also give me the monthly gold Tywin promised daily and assume I buy the best gear possible for myself. If any complications happen lemme know or serious things stop the timeskip. Narrate every day or week in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **The Hill of Rhaenys (The Blackguard Bastion)** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 17,500/23,000 | Gold: 34,994gp** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Warden of the Hill, Acting Lord Commander**
@@ -5200,8 +5705,11 @@ By the fourteenth day, you have retreated to the Hill. Your new gear—disguised
 > 👤 **Player:**
 > *"Have my spies give ultimatums to any remaining criminals in the city. They can join my spy network and get paid or I will get even more serious and torture their families to death and make them watch. See who accepts vs rejects"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **The Hill of Rhaenys (Warden's Solar)** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,900/23,000 | Gold: 34,994gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 5/5 | Exhaustion: 0**
@@ -5236,8 +5744,11 @@ Daenerys (Lvl 4) enters the solar, her silver hair shimmering in the emerald lig
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Septon&#x27;s Repentance - Visit the Great Sept. Use CHA 22 and the Blackguard to force the High Septon to endorse the &#x27;Blood Dragon&#x27; as a divine instrument of the Seven.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **The Great Sept of Baelor, Visenya's Hill** &nbsp;|&nbsp; ⏳ **Month 4, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,900/23,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 4/5 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, HD: 5/5** &nbsp;|&nbsp; ⚠️ **Static Field (Active) | Inspiration: Yes**
@@ -5263,8 +5774,11 @@ You lean forward, your magnetic presence (CHA 22) pulling the air from the Sept.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Pincer (Synergistic) - Dany performs a &#x27;Miracle&#x27; with the Eggs while you expose the Septon&#x27;s secrets—overwhelming the clergy with both awe and terror.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (1st Day)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,900/23,000 | Gold: 38,994gd** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Field (Adv. Intimidation / Dis. Stealth) | Inspiration: Yes**
@@ -5298,8 +5812,11 @@ You gain **800 XP** for the masterful coordination of religious awe and politica
 > 👤 **Player:**
 > *"wait for the septons repy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **The Great Sept of Baelor** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,900/23,000 | Gold: 38,994gd** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 4/4 | Exhaustion: 0**
@@ -5341,8 +5858,11 @@ Suddenly, the geometry of the sacred space is punctured by the rhythmic, frantic
 God Mode:
 why do i need to answer the iron bank?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **The Great Sept of Baelor** &nbsp;|&nbsp; ⏳ **Month 4, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 21,900/23,000 | Gold: 38,994gp**
@@ -5369,8 +5889,11 @@ You must answer the Iron Bank because the 'Golden Audit' represents the single g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Septon&#x27;s Endorsement - Force the Septon to the pulpit immediately before leaving; lock in the religious leverage while the &#x27;Miracle&#x27; is still hot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Great Sept of Baelor** &nbsp;|&nbsp; ⏳ **4 1, 298 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Apex Predator | HP: 48/48 | XP: 15,500/23,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 4/5 | Exhaustion: 0**
@@ -5404,8 +5927,11 @@ You gain **1,000 XP** for the total religious subjugation of the capital and the
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Pincer Audit (Synergistic) - Send Davos and the Blackguard to &#x27;secure&#x27; the docks for the Auditor&#x27;s safety while you personally meet Tywin at the dockside to present a unified &#x27;Lannister-Targaryen&#x27; front.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **The Mud Gate Docks, King's Landing** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 24,900/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism: 5/5 | Exhaustion: 0**
@@ -5446,8 +5972,11 @@ Your Baelarys blood surges as you reach a new threshold of authority.
 God Mode:
 process level 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Mud Gate Docks** &nbsp;|&nbsp; ⏳ **4th Moon 1, 298 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 24,900/34,000 | Gold: 38,994gp**
@@ -5467,8 +5996,11 @@ Level 7 processing complete. The character state has been synchronized to reflec
 God Mode:
 give me greater invis spell and swap out whatever you picked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Mud Gate Docks** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 24,900/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill, Aura of the Architect (+6 Saves)**
@@ -5478,8 +6010,11 @@ Spell manifest updated. Added 'Greater Invisibility' (Level 4) to your known spe
 God Mode:
 why would you swap fear, thats a level 3 spell. let me keep it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **The Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 24,900/34,000 | Gold: 38,994gp**
@@ -5489,8 +6024,11 @@ Administrative correction applied to spell manifest. 'Fear' (Level 3) has been r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Pincer (Synergistic) - Blackguard secure the Auditor&#x27;s safety while you personally walk him through the &#x27;Wall of Silence&#x27; to explain the math of your stability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Mud Gate Docks, King's Landing** &nbsp;|&nbsp; ⏳ **Month 4, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 24,900/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sadism Dice: 3/4 (d8), Inspiration: No** &nbsp;|&nbsp; ⚠️ **Aura of the Architect active | Exhaustion: 0 | Inspiration: No**
@@ -5524,8 +6062,11 @@ You gain **1,000 XP** for the masterful coordination of the Pincer Audit and the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review of the Blackguard Ranks - Have Davos lead a high-precision drill to prove the long-term military stability of the capital.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Blackguard Training Grounds (Hill of Rhaenys)** &nbsp;|&nbsp; ⏳ **Month 4, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 25,900/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **Sadism: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, HD: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: No**
@@ -5555,8 +6096,11 @@ You gain **800 XP** for the masterful demonstration of military stability and th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Lion&#x27;s Guarantee - Have Lord Tywin personally vouch for the Blackguard&#x27;s integration, using his Tier 2 political weight to seal the Auditor&#x27;s confidence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Guildhall of the Alchemists (Hill of Rhaenys)** &nbsp;|&nbsp; ⏳ **4th Moon 1, 298 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 26,700/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -5581,8 +6125,11 @@ Nestoris (Lvl 12) stiffens, his fingers tightening on the iron binding of his le
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Debt Transfer - Focus purely on the financial math to ensure the Crown&#x27;s debt is officially moved to the Lannister ledger.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Mud Gate Docks, King's Landing** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (1st Day)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 27,500/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **HD: 5/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism Dice: 4/4 (d8)** &nbsp;|&nbsp; ⚠️ **Aura of the Architect active | Exhaustion: 0 | Inspiration: No**
@@ -5621,8 +6168,11 @@ As the Auditor retreats to his galley, a Braavosi sailor (Lvl 2) approaches you,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Intelligence Access - Demand Nestoris provide the keys to the Bank&#x27;s private informers as a &#x27;gesture of transparency&#x27; for the new alliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Mud Gate Docks, King's Landing** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 27,500/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, HD: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Lord Commander, Warden of the Hill | Heat: 85**
@@ -5652,8 +6202,11 @@ You feel a sudden, crystalline expansion of your perception. The experience of a
 > 👤 **Player:**
 > *"Delegate usage of this intelligence to master weaver. Go to my office e and ask my spies about criminals beyond kings land and plaguing the roads"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 28,300/34,000 | Gold: 38,994gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Hit Dice: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (Active) | Inspiration: No**
@@ -5687,8 +6240,11 @@ You feel the thrum of Entropy (Spirit Form) against your marrow, its obsidian he
 > 👤 **Player:**
 > *"Send my spies to gain intel on iron mask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 28,300 / 34,000 | Gold: 38,244gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves), Lord Commander | Exhaustion: 0 | Inspiration: Yes**
@@ -5704,8 +6260,11 @@ Outside, the candlelight vigil continues to pulse at the base of the Hill, a rhy
 > 👤 **Player:**
 > *"Sovereign expansion. Take iron mask family if he has any and assets from my intel. Delegate bravoosi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 28,800/34,000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Field (Adv Intimidation/Disadv Stealth), Aura of the Architect (+6 Saves)**
@@ -5736,8 +6295,11 @@ Hours later, as the moon reaches its zenith, a messenger arrives. The strike was
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hostage Interrogation &amp; Stepstone Intel (Compatible) - Personally interrogate the Iron-Mask&#x27;s wife for his tactical secrets while the Weavers begin the Stepstone audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Guildhall of the Alchemists, Sub-levels** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 21,900/34,000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: No**
@@ -5765,8 +6327,11 @@ You gain **800 XP** for the successful interrogation and the initiation of the S
 > 👤 **Player:**
 > *"Narrate iron Mak's wife response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Sub-levels of the Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 22,700/23,000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8) | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: Yes**
@@ -5792,8 +6357,11 @@ As you step back into the corridor, your Master Weaver (Lvl 4) materializes from
 God Mode:
 Process level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Hill of Rhaenys (Sub-levels)** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,000/48,000 | Gold: 38,244gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: Yes**
@@ -5818,8 +6386,11 @@ Level 8 processing complete. The character state has been synchronized to align 
 God Mode:
 Wait did I really get enough exp? If not keep me at level7 but I saw this lebel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Sub-levels of the Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 30,400/34,000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism Dice: 4/4 (d8)**
@@ -5846,8 +6417,11 @@ Your character is now synchronized correctly with the D&D 5E advancement table.
 God Mode:
 I thought I already had 20 cha?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 30400/34000 | Gold: 38244gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism: 4/4**
@@ -5868,8 +6442,11 @@ Your Charisma-based modifiers, spell DCs, and social checks are all currently ca
 > 👤 **Player:**
 > *"Ask the wife for a secret code or message so husband will know I have her and chikdren hostage. Then march a large force and circle his hideout and send a spy with the message and tell him to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **The Kingswood Perimeter** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 30400/34000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, HD: 7/7** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5908,8 +6485,11 @@ Inside the cave, Gormon 'The Iron-Mask' (Lvl 8) freezes. The sound of your force
 God Mode:
 I think Tywin said I would get 10k gold monthly? Give it to me every day split
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 30,400/34,000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **Sadism: 3/4, L1: 4/4, L2: 3/3, L3: 3/3, L4: 1/1**
@@ -5931,8 +6511,11 @@ Your current gold already includes the 4,662 dragons delivered during the 14-day
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Shadow Amnesty - Subtly hint that his family can be returned if he helps you subvert Stannis&#x27;s southern network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Gormon's Hideout, Kingswood** &nbsp;|&nbsp; ⏳ **Month 4 Day 1, 298 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 30400/34000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism: 3/4 | Exhaustion: 0**
@@ -5970,8 +6553,11 @@ Gormon's hands tremble, his fingers clawing at the air as if trying to find a st
 > 👤 **Player:**
 > *"Wait for his reply"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **The Heart of the Kingswood** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 30800/34000 | Gold: 38244gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sadism Dice: 3/4** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Exhaustion: 0 | Inspiration: No**
@@ -5998,8 +6584,11 @@ Ser Davos (Lvl 4) steps forward, handing you the captured message. It is sealed 
 > 👤 **Player:**
 > *"Have his men surrender then personally execute 25% of them to level up the blood dragon name. Then make the remaining 75% pair up and duel to the death. Congratulate the survivors and indoctrinate them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **The heart of the Kingswood** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 30,800 / 34,000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect active | Exhaustion: 0 | Inspiration: No**
@@ -6041,8 +6630,11 @@ Options: 1. Level up immediately  2. Continue adventuring
 God Mode:
 Why do you keep saying level up available when my exp is wrong?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **The Kingswood** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 32,300/34,000 | Gold: 38,244gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism: 3/4 (d8)**
@@ -6061,8 +6653,11 @@ I have corrected the game state to remove the level-up trigger and synchronized 
 God Mode:
 Let's assume I can fight most of the time with such precision no blood falls on me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **The Kingswood (Southern Pass)** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Apex Predator | HP: 57/57 | XP: 32,300/34,000 | Gold: 38,577.33gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sadism: 4/4 (d8)**
@@ -6079,8 +6674,11 @@ Administrative directive updated.
 > 👤 **Player:**
 > *"Have the survivors spread the word. Defiance of the blood dragon law is death. Place the head along the kings road. Those who join me will be welcomed. Those who defy me will be tortured to death along with their families. Long rests and time skip and see who accepts va denies. Assume I safely grow my power and do reasonable things during time skip"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **The Hill of Rhaenys, King's Landing** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (2nd Day)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,300/48,000 | Gold: 48,577.33gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism Dice: 4/4 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Acting Lord Commander, Warden of the Hill, Lord Commander of the Blackguard, Warden of the Kingswood | Inspiration: Yes**
@@ -6109,8 +6707,11 @@ Your recruitment campaign through the Stepstones and the city's remnants has rea
 God Mode:
 More than 50 heads. I killed 50 and the remaining 150 dueled so it's 50+75 heads
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 4, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,300/48,000 | Gold: 48,577.33gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: No**
@@ -6127,8 +6728,11 @@ This correction has been noted in the world state and will be reflected in all f
 God Mode:
 Prices slevel 8 and auto pick spells and pick asi dex +2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 4, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,300/48,000 | Gold: 48,577.33gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6151,8 +6755,11 @@ Level 8 processing complete with Ability Score adjustment and spell auto-selecti
 > 👤 **Player:**
 > *"How many criminals died in the last month purge and their families? Let's narrate the reaction from everyone without me in the scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **The Small Council Chamber, The Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (2nd Day)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,300/48,000 | Gold: 48,577.33gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 4/4 (d8)** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves), Diadem of the Dragon Queen (+2 CHA)**
@@ -6176,8 +6783,11 @@ Rhaegar looked up, his gaze piercing the Hand's granite mask. "And when she deci
 God Mode:
 Does Tywin reaction make sense? I don't think he'd care about death or innocent if it improves stability plus he's my ally
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (1st Day)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,300/48,000 | Gold: 48,577.33gp**
@@ -6201,8 +6811,11 @@ You are correct to identify a character-logic discrepancy in the previous narrat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Warden&#x27;s Solar after the month-long purge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **4 1, 298 AC (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,300/48,000 | Gold: 48,577.33gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 4/4 (d8)** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Pristine Executioner | Exhaustion: 0 | Inspiration: Yes**
@@ -6233,8 +6846,11 @@ She pauses, her eyes reflecting the amethyst glow of the invisible Entropy (Spir
 > 👤 **Player:**
 > *"Narrate a scene where I finish a final criminal king. I torture his family to death in front of him then kill him and put their bodies on display as a deterrent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **The base of the Hill of Rhaenys (The Wall of Silence)** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 34,300/48,000 | Gold: 38,577.33gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves), Pristine Executioner | Inspiration: Yes**
@@ -6265,8 +6881,11 @@ You gain **1,200 XP** for the final purification of the city's math and the tota
 > 👤 **Player:**
 > *"Narrate the reactions without me of various small folk and any remaining criminals. The small folk should be thankful but also terrified. But also super happy becuse there is stability now. The criminals shoukd be terrified and tripping over themselves to surrender to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Street of the Sisters, King's Landing** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 35,500/48,000 | Gold: 40,577.33gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect active | Heat: 85**
@@ -6299,8 +6918,11 @@ He is not alone. Across the city, the remaining variables of the old era are tri
 > 👤 **Player:**
 > *"I check my character status and advancement."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 35,500/48,000 | Gold: 40,577.33gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism Dice: 4/4 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Matriarchal Pact, Lord Commander | Inspiration: Yes**
@@ -6329,8 +6951,11 @@ The 'Wall of Silence' at the base of the hill has completed the first stage of t
 > 👤 **Player:**
 > *"Let's assume slavery is allowed in Westeros but it's seen as mean. I have a new program where instead of having their families tortured to death criminals can be enslaved along with their families and be owned by me for 5 years. After they will be pardoned if they obey. Let's assume most criminals accept this and narrate it. The purges I've done have been more extreme than anything in history"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 36,000/48,000 | Gold: 40,910.66gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 4/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pristine Executioner | Inspiration: Yes**
@@ -6364,8 +6989,11 @@ Across the city, the geometry of the underworld collapses into this new constant
 God Mode:
 Give me reasonable number of slaves for all former criminals and income from their labor daily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 35,500/48,000 | Gold: 40,910.66gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 3/4 (d8)**
@@ -6385,8 +7013,11 @@ Shadow Bondage logistics and economic yields have been formalized.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortress Consolidation (Synergistic) - The mason builds the vaults while the bonded labor is Indoctrinated by the fire they use to forge the stone—different tasks, same location, maximum efficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **The Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 37,000/48,000 | Gold: 40,910.66** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 3/3, L4: 2/2 | Sadism Dice: 4/4 (d8)** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Master of Bondage | Inspiration: No**
@@ -6417,8 +7048,11 @@ The synergistic integration is a masterpiece of Tier 2 efficiency. By the time t
 > 👤 **Player:**
 > *"Narrate a scene without me and see what Rhaegar and Aerys talking about"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **The Maidenvault, Red Keep** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 37,000/48,000 | Gold: 40,910.66gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6442,8 +7076,11 @@ As Rhaegar departs, the 'Static' in the room shivers. Hidden in the rafters, you
 > 👤 **Player:**
 > *"Wait for aerys to be alone. Regale him with tales of death slaughter torture and domination and relish in them and tell him how I enjoy it. Remind him his old favorite viserys was far weaker than me. And brainstorm a fun wildfire event with him and ask him if he has any intel on stannis becuse I wanna throw a wildfire party with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **The Maidenvault, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 37,500/48,000 | Gold: 41,493.99gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism Dice: 3/4 (d8), Bonded Income: 250gp/day, Lannister Stipend: 333.33gp/day** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Pristine Executioner | Exhaustion: 0 | Inspiration: No**
@@ -6477,8 +7114,11 @@ You gain **500 XP** for the sadistic bonding and the acquisition of the Dragonst
 > 👤 **Player:**
 > *"Build up camaraderie with Aerys so rhaegar has no influence with him. Aerys should be happy to see me succeed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **The Maidenvault, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 36,250/48,000 | Gold: 42,077.32g** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves), Pristine Executioner | Inspiration: Yes**
@@ -6506,8 +7146,11 @@ You gain **750 XP** for the total psychological annexation of the Mad King.
 > 👤 **Player:**
 > *"THINK:If I do the dragon stone strike and kill Stan is how do I benefit ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 36250/48000 | Gold: 42,077.32gp** &nbsp;|&nbsp; ⚠️ **Pristine Executioner, Aura of the Architect | Exhaustion: 0 | Inspiration: No**
@@ -6517,8 +7160,11 @@ You pause in the emerald-tinted gloom of your solar, the lead-sealed cylinder fr
 > 👤 **Player:**
 > *"Ask aerys of the purification ritual. What is it and how to counter it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **The Maidenvault, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 36,250/48,000 | Gold: 42,077.32gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6546,8 +7192,11 @@ You gain **800 XP** for the discovery of the Sovereign Quench and the Alchemical
 > 👤 **Player:**
 > *"Delegate extraction  of the counter measures and go meet with rhaegar and bring dany. Explain the logic of the purges and how they were needed for stability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **The Maidenvault Septry** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (4th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 36,250/48,000 | Gold: 42,660.65gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, The Static | Exhaustion: 0 | Inspiration: No**
@@ -6578,8 +7227,11 @@ You gain **1,200 XP** for the masterful justification of your reign and the syne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate the Resonance - Have Dany flare the heat of the Green Egg to prove the &#x27;fire&#x27; is a family blessing, not just your &#x27;madness&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Maidenvault Septry, King's Landing** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 38,650/48,000 | Gold: 42,660.65gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: No**
@@ -6608,8 +7260,11 @@ You gain **1,200 XP** for the masterful justification of your reign and the syne
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Third Head - Explain that the &#x27;Blood Dragon&#x27; is the third head of his prophecy, turning his obsession into your shield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Maidenvault Septry, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 37,450/48,000 | Gold: 42,660.65** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves), Pristine Executioner, Master of Bondage | Exhaustion: 0 | Inspiration: No**
@@ -6634,8 +7289,11 @@ Rhaegar (Lvl 18) stares at the egg, then at you, the 'Sovereign Quench' ritual i
 > 👤 **Player:**
 > *"Wait for rhaegar response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Maidenvault Septry, The Red Keep** &nbsp;|&nbsp; ⏳ **5 4, 298 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 38650/48000 | Gold: 43243.98** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 3/4 (d8)** &nbsp;|&nbsp; ⚠️ **Aura of the Architect active | Exhaustion: 0 | Inspiration: No**
@@ -6667,8 +7325,11 @@ You gain **1,500 XP** for the total political neutralization of the Sovereign Qu
 God Mode:
 What are the current threats?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 38,650/48,000 | Gold: 43,243.98gp**
@@ -6696,8 +7357,11 @@ The focus of your next mission. The Lysene are the financial and naval muscle cu
 God Mode:
 Why does my parallel treasury even matter? As a princess can't I just have money according to my official position?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Maidenvault Septry** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 38,650/48,000 | Gold: 43,243.98gp**
@@ -6717,8 +7381,11 @@ While you are a Princess and the Lord Commander, 'Official Money' and 'Sovereign
 God Mode:
 I thought Tywin owns the debt now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 38,650/48,000 | Gold: 43,243.98gp** &nbsp;|&nbsp; ✨ **HD: 7/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 3/4 (d8)**
@@ -6745,8 +7412,11 @@ Tywin is paying the Bank. The Bank is auditing you to ensure the kingdom is wort
 God Mode:
 Why is the iron bank still in the picture? Did Tywin pay off the debt or he's just handling the payments now instead of the crown?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 
@@ -6770,8 +7440,11 @@ Here is the breakdown of the current financial geometry:
 > 👤 **Player:**
 > *"THINK:How should I proceed now? What if I ally with varys and then assassinate or control Viserys?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 38,650/48,000 | Gold: 43,243.98gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Pristine Executioner**
@@ -6781,8 +7454,11 @@ You pause in the emerald-tinted gloom of your solar, the scent of wildfire conce
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Spider&#x27;s Pact - Invite Varys to the Hill. Reveal a &#x27;controlled&#x27; portion of your treasury and offer to use the Blackguard to secure his Stepstone trade routes in exchange for silencing the Lineage Audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5 4, 298 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 39,500/48,000 | Gold: 43,243.98gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect active (+6 Saves) | Exhaustion: 0 | Inspiration: No**
@@ -6818,8 +7494,11 @@ Varys (Lvl 12) vanishes his hands into his voluminous sleeves, his face becoming
 > 👤 **Player:**
 > *"Ask varys for help with his spy network and to share intel on Viserys and golden company and see if he has proof of Viserys hiring them to subvert realm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 39,850/48,000 | Gold: 43,243.98gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Aura of the Architect (+6 Saves)**
@@ -6850,8 +7529,11 @@ You gain **1,200 XP** for the successful extraction of high-tier intelligence fr
 > 👤 **Player:**
 > *"Long rest and have my spies prepare the evidence against Viserys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 39850/48000 | Gold: 43827.31gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 4/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: Yes**
@@ -6869,8 +7551,11 @@ Outside, the 'SHIELD! FIRE!' chants of the smallfolk gathered at the base of the
 > 👤 **Player:**
 > *"THINK:What needs to happen now vs wait?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 39,850/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Pristine Executioner | Exhaustion: 0 | Inspiration: No**
@@ -6880,8 +7565,11 @@ You pause as the clinical sunlight of the morning hits the amethyst canyon in th
 > 👤 **Player:**
 > *"THINK:Can I convert Viserys to asset?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 39,850/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Aura of the Architect | Exhaustion: 0 | Inspiration: Yes**
@@ -6891,8 +7579,11 @@ You pause as the clinical morning sun hits the scorched weirwood of your desk, t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Herald of the Flame (Reconditioning) - Use Psychic Vivisection to shatter his remaining ego and rebuild him as your fanatical &#x27;Herald&#x27; in the Shadow Court.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 41,550/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 3/4, Bonded Labor: 5,500** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: No**
@@ -6936,8 +7627,11 @@ Daenerys (Lvl 4) suddenly screams—not in pain, but in a high-pitched, harmonic
 God Mode:
 How does the timing work? If I ignore something will events happen without me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 41,550/48,000 | Gold: 43,827.31gp**
@@ -6967,8 +7661,11 @@ When you use the `wait X` command, the AI simulates your character's autonomous 
 God Mode:
 Is sanctuary working?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 41,550/48,000 | Gold: 43,827.31gp**
@@ -6991,8 +7688,11 @@ Given that you have just concluded the month-long 'Red Moon Purge' and successfu
 God Mode:
 Give me sanctuary after this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 41,550/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves), Diadem of the Dragon Queen (+2 Cha)**
@@ -7002,8 +7702,11 @@ Sanctuary Mode manually activated for a duration of 15 turns (expires Turn 488).
 God Mode:
 No I mean after I finish these events not now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 35,500/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 3/4 (d8)**
@@ -7018,8 +7721,11 @@ Sanctuary Mode de-prioritized. I have deactivated the active sanctuary for the c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the &#x27;Final Pulse&#x27; scene with Dany and the hatching egg.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (5th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 41,550/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 3/4 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Architect (+6 Saves) | Inspiration: Yes**
@@ -7044,8 +7750,11 @@ Beneath your sleeve, Entropy (Spirit Form) let out a sound that is not a hiss, b
 > 👤 **Player:**
 > *"Have viserys do the wildfire strike on stannis and use golden company and claim public credit and in parallel will help dany with egg. Margarey and Tywin handle audit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon 5, 298 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 41,550/48,000 | Gold: 43,827gp** &nbsp;|&nbsp; ⚠️ **Static Field (Active), Aura of the Architect | Exhaustion: 0 | Inspiration: Yes**
@@ -7085,8 +7794,11 @@ You gain **4,000 XP** for the triple success of the 'Amethyst Birth', the 'Steps
 
 But lets also have viserys strike at dragonstone with his momentum and try to burn stannis*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 44,550/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 4/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7123,8 +7835,11 @@ A sense of absolute calm settles over King's Landing. Your total consolidation o
 > 👤 **Player:**
 > *"THINK:what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5 Day 5, 298 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 44,550/48,000 | Gold: 43,827gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (1/15) | Exhaustion: 0 | Inspiration: No**
@@ -7134,8 +7849,11 @@ You pause as the amethyst smoke of Vermax's birth curls around the emerald lante
 > 👤 **Player:**
 > *"THINK:now that dany and I both have dragons what if we show them to rhaegar and convince him we are two of the three heads and make him surrender to us through prophecy?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (5th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 44,550/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Sanctuary | Inspiration: No**
@@ -7145,8 +7863,11 @@ You pause as the amethyst smoke from Vermax's first breath curls around your fin
 God Mode:
 campaign seems kindo f easy, why?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 
@@ -7182,8 +7903,11 @@ You have used God Mode to retcon potential failure points (such as being caught 
 God Mode:
 give me some sanctuary for now, i've accomplished a lot. also did you forget to give me any rewards exp loot gold resources from wins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 47,950/48,000 | Gold: 43,827gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Active (30 Turns) | Exhaustion: 0 | Inspiration: No**
@@ -7209,8 +7933,11 @@ A manual recalculation of all 'wins' since Turn 411 has identified a deficit in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Trinity Ascension (Synergistic) - Viserys handles the public acclaim of Vermax while you and Dany meet Rhaegar privately to &#x27;solve&#x27; his prophecy. Use the public roar to drown out his suspicion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Maidenvault Septry, King's Landing** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Apex Predator | HP: 66/66 | XP: 47,950/48,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, HD: 7/7** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -7248,8 +7975,11 @@ You gain **1,500 XP** for the total prophetic subjugation of the Prince Regent.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 9 - Apply Apex Predator Level 9 benefits (Song of Nightmares, Proficiency Bonus increase).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Maidenvault Septry, King's Landing** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (5th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 49,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 4/4 (d8) | Song of Nightmares: Active** &nbsp;|&nbsp; ⚠️ **Prophetic Sovereign | Exhaustion: 0 | Inspiration: No**
@@ -7273,8 +8003,11 @@ You stand over your kneeling father, the Silver Angel and the Blood Dragon silho
 > 👤 **Player:**
 > *"THINK:would rhaegar make me the successor?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Maidenvault Septry, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (5th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 49,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ⚠️ **Prophetic Sovereign, Aura of the Architect | Exhaustion: 0 | Inspiration: No**
@@ -7284,8 +8017,11 @@ You pause as your father, the Iron Regent, remains on one knee before the altar 
 God Mode:
 did i show rhaegar entropy yet?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Maidenvault Septry, Red Keep** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (5th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 49450/64000 | Gold: 43827.31gp** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Prophetic Sovereign | Exhaustion: 0 | Inspiration: No**
@@ -7305,8 +8041,11 @@ Explanatory Audit: Disclosure of Entropy to Prince Regent Rhaegar
 > 👤 **Player:**
 > *"maifest the spirit version of entrpoy to show rhaegar and further confirm my special status"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Maidenvault Septry, King's Landing** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 49450/64000 | Gold: 43827.31gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, HD: 7/7** &nbsp;|&nbsp; ⚠️ **Aura of the Architect, Prophetic Sovereign | Exhaustion: 0 | Inspiration: No**
@@ -7336,8 +8075,11 @@ He collapses further, his forehead striking the stone floor in a sound of total 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dictate the Succession - Force Rhaegar to publicly name you the &#x27;Heir to the Flame,&#x27; bypassing Aegon in the prophetic hierarchy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Maidenvault Septry, King's Landing** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 50,450/64,000 | Gold: 43,827.31** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 3/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (29), Prophetic Sovereign | Inspiration: No**
@@ -7371,8 +8113,11 @@ You gain **2,000 XP** for the total political and prophetic subversion of the Ta
 > 👤 **Player:**
 > *"THINK:How can i mitigate Aegon wrath. If I show both dragons maybe he'll accept my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Maidenvault Septry, Red Keep** &nbsp;|&nbsp; ⏳ **5th Day of the 5th Moon, 298 AC (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 50,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ⚠️ **Prophetic sovereign, Aura of the Architect**
@@ -7382,8 +8127,11 @@ You pause as the violet-tinged shadows of the Septry lengthen, your father still
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hero&#x27;s Shield (Synergistic) - Have Dany present Vermax as the &#x27;First Head&#x27; and offer Aegon a &#x27;Dragon-Bond&#x27; (training/partnership) while you manifest Entropy as the &#x27;Shadow Architect&#x27; he must protect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Maidenvault Septry, King's Landing** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 50,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 3/4, Exhaustion: 0**
@@ -7413,8 +8161,11 @@ You gain **1,500 XP** for the masterful prophetic subversion of the Crown Prince
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare the Court - Dispatch Viserys (Herald) to announce the &#x27;Heir to the Flame&#x27; and the &#x27;Shield&#x27;s Return&#x27; to the smallfolk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Warden's Solar / Great Sept Plaza** &nbsp;|&nbsp; ⏳ **5th Day of the 5th Moon, 298 AC (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 50,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 4/4, Bonded: 5,500** &nbsp;|&nbsp; ⚠️ **Sanctuary (28), Heat (85) | Exhaustion: 0 | Inspiration: No**
@@ -7442,8 +8193,11 @@ You gain **1,500 XP** for the public formalization of the succession and the tot
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Integration (Synergistic) - Receive Tommen while the Weavers map the Stepstones and the Alchemists forge the counter-measure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 8)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 54,450/64,000 | Gold: 45,577.30** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 3/4, Exhaustion: 0**
@@ -7473,8 +8227,11 @@ You gain **2,000 XP** for the masterful coordination of the Sovereign Integratio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continental Subversion (Synergistic) - Viserys strikes the Stepstones while you personally indoctrinate Tommen and Marq prepares the Kingsguard &#x27;blessing&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **Month 5, 298 AC (Day 8)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 54,450/64,000 | Gold: 44,410.64** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 3/4, Exhaustion: 0**
@@ -7503,8 +8260,11 @@ You gain **2,000 XP** for the masterful coordination of the Continental Subversi
 > 👤 **Player:**
 > *"THINK:Do I need to honor the deal and make tywin regent?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 8)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 52450/64000 | Gold: 43827.31gp** &nbsp;|&nbsp; ✨ **Sadism Dice: 3/4 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, HD: 7/7**
@@ -7514,8 +8274,11 @@ You pause, the amethyst smoke from the hatching Vermax curling around your finge
 > 👤 **Player:**
 > *"Get Tywin to officially support my coronation then honor regency deal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5 8, 298 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 55,950/64,000 | Gold: 44,410.64gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (28 Turns Remaining) | Inspiration: Yes**
@@ -7548,8 +8311,11 @@ Tywin (Lvl 15) remains Motionless for a heartbeat, his jaw set in a line of abso
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Lockdown (Synergistic) - Viserys (Herald) handles the religious pageantry while the Blackguard performs a total security &#x27;Audit&#x27; of the Red Keep—different fronts, same objective.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **The Red Keep / Warden's Solar** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (Day 8)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 52,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8) | Exhaustion: 0**
@@ -7575,8 +8341,11 @@ You gain **2,000 XP** for the masterful execution of the Divine Lockdown and the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stepstone Audit &amp; Coronation Prep (Synergistic) - Viserys sails for the Stepstones with the Golden Company while you personally oversee the coronation math with Tywin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **May 8, 298 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 56,450/64,000 | Gold: 44,410.64gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sadism: 4/4, Bonded: 5,500** &nbsp;|&nbsp; ⚠️ **Prophetic Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7594,8 +8363,11 @@ You gain **2,000 XP** for the masterful coordination of the Stepstone offensive 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Summit (Synergistic) - Summon the High Septon and the Master of Accounts to finalize the &#x27;Divine-Fiscal&#x27; mandate while Tywin sends the &#x27;Lion&#x27;s Summons&#x27; to the Great Houses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **5th Moon, 298 AC (8th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 54450/64000 | Gold: 44410.64gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 3/4 (d8) | Exhaustion: 0**
@@ -7624,8 +8396,11 @@ You gain **2,000 XP** for the total integration of religious law and Lannister m
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Total Audit (Synergistic) - Weavers monitor the Stepstones while you personally refine the Shadow Substance and Tywin audits the Reach lords—different fronts, one objective.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **3rd Moon, 298 AC (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 56,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 4/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Prophetic Sovereign, Lord Commander, Warden of the Hill, Sanctuary (29 turns)**
@@ -7643,8 +8418,11 @@ Beside the workbench, Daenerys (Lvl 4) watches the violet wildfire with a look o
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Continental Lock (Synergistic) - Viserys secures the Stepstones, Tywin manages the coronation logistics, and you personally secure Dragonstone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **The Sea-Walls of Dragonstone** &nbsp;|&nbsp; ⏳ **3rd Moon 15, 298 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 50,450/64,000 | Gold: 44,993.97gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2 | Sadism: 4/4 | Bonded: 5,500** &nbsp;|&nbsp; ⚠️ **Sanctuary (28 turns), Aura of the Architect | Exhaustion: 0 | Inspiration: No**
@@ -7672,8 +8450,11 @@ You gain **2,500 XP** for the clinical seizure of the Targaryen ancestral seat a
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Lock (Synergistic) - Personally oversee the Coronation while Viserys and the Golden Company blockade the North by sea—different fronts, same objective.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Warden's Solar, Hill of Rhaenys** &nbsp;|&nbsp; ⏳ **3rd Moon 15, 298 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 50,450/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7699,8 +8480,11 @@ You gain **2,500 XP** for the masterful execution of the Sovereign Lock and the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Apex Coronation (Synergistic) - Indoctrinate the High Septon for the consecration while Tywin audits the Summons—different fronts, one total solution.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 8)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 50,450/64,000 | Gold: 43,827.31g** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism Dice: 3/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Prophetic Sovereign, Aura of the Architect | Exhaustion: 0 | Inspiration: Yes**
@@ -7727,8 +8511,11 @@ You gain **2,000 XP** for the masterful coordination of the Apex Coronation and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Emerald Coronation - Have Vermax breathe amethyst fire over the crown while you are anointed, cementing the divine miracle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **The Great Sept of Baelor, King's Landing** &nbsp;|&nbsp; ⏳ **4th Moon, 298 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Apex Predator | HP: 75/75 | XP: 54,950/64,000 | Gold: 43,827.31gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sadism: 3/4 | Sanctuary: 28 turns** &nbsp;|&nbsp; ⚠️ **Sanctuary (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -7758,6 +8545,8 @@ Vermax leans forward, its small jaw unhinging to release a torrent of amethyst f
 
 
 You gain **2,500 XP** for the masterful execution of the Emerald Coronation and the total ideological annexation of the realm's leadership.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

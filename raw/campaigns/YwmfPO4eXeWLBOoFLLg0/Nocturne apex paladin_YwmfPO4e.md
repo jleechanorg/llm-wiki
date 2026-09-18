@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (203 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Youngest bastard daughter of a very powerful noble house and I am a military, intellectual, and combat prodigy. I have 5 older siblings. People in my family and siblings have strong reactions to my talent. I was exiled because I am evil and enjoy murder and was discovered, but the family member who plotted against me didn’t care about my evil nature and just needed a reason to get rid of me because they felt  threatened.
@@ -30,219 +41,224 @@ I will start as a level 5 paladin and have better gear than usual because I am a
 
 My first contract is to kidnap some peasants to sell as slaves to a criminal syndicate.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | Unknown |  | Roleplay |
-| **39** | Unknown |  | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Unknown |  | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | Unknown |  | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | Unknown |  | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Unknown |  | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Unknown |  | Roleplay |
-| **70** | Unknown |  | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Unknown |  | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Unknown |  | Roleplay |
-| **82** | Unknown |  | Roleplay |
-| **83** | Unknown |  | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Unknown |  | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Unknown |  | Roleplay |
-| **88** | Unknown |  | Roleplay |
-| **89** | Unknown |  | Roleplay |
-| **90** | Unknown |  | Roleplay |
-| **91** | Unknown |  | Roleplay |
-| **92** | Unknown |  | Roleplay |
-| **93** | Unknown |  | Roleplay |
-| **94** | Unknown |  | Roleplay |
-| **95** | Unknown |  | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Unknown |  | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Unknown |  | Roleplay |
-| **100** | Unknown |  | Roleplay |
-| **101** | Unknown |  | Roleplay |
-| **102** | Unknown |  | Roleplay |
-| **103** | Unknown |  | Roleplay |
-| **104** | Unknown |  | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Roleplay |
-| **107** | Unknown |  | Roleplay |
-| **108** | Unknown |  | Roleplay |
-| **109** | Unknown |  | Roleplay |
-| **110** | Unknown |  | Roleplay |
-| **111** | Unknown |  | Roleplay |
-| **112** | Unknown |  | Roleplay |
-| **113** | Unknown |  | Roleplay |
-| **114** | Unknown |  | Roleplay |
-| **115** | Unknown |  | Roleplay |
-| **116** | Unknown |  | Roleplay |
-| **117** | Unknown |  | Roleplay |
-| **118** | Unknown |  | Roleplay |
-| **119** | Unknown |  | Roleplay |
-| **120** | Unknown |  | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Unknown |  | Roleplay |
-| **123** | Unknown |  | Roleplay |
-| **124** | Unknown |  | Roleplay |
-| **125** | Unknown |  | Roleplay |
-| **126** | Unknown |  | Roleplay |
-| **127** | Unknown |  | Roleplay |
-| **128** | Unknown |  | Roleplay |
-| **129** | Unknown |  | Roleplay |
-| **130** | Unknown |  | Roleplay |
-| **131** | Unknown |  | Roleplay |
-| **132** | Unknown |  | Roleplay |
-| **133** | Unknown |  | Roleplay |
-| **134** | Unknown |  | Roleplay |
-| **135** | Unknown |  | Roleplay |
-| **136** | Unknown |  | Roleplay |
-| **137** | Unknown |  | Roleplay |
-| **138** | Unknown |  | Roleplay |
-| **139** | Unknown |  | Roleplay |
-| **140** | Unknown |  | Roleplay |
-| **141** | Unknown |  | Roleplay |
-| **142** | Unknown |  | Roleplay |
-| **143** | Unknown |  | Roleplay |
-| **144** | Unknown |  | Roleplay |
-| **145** | Unknown |  | Roleplay |
-| **146** | Unknown |  | Roleplay |
-| **147** | Unknown |  | Roleplay |
-| **148** | Unknown |  | Roleplay |
-| **149** | Unknown |  | Roleplay |
-| **150** | Unknown |  | Roleplay |
-| **151** | Unknown |  | Roleplay |
-| **152** | Unknown |  | Roleplay |
-| **153** | Unknown |  | Roleplay |
-| **154** | Unknown |  | Roleplay |
-| **155** | Unknown |  | Roleplay |
-| **156** | Unknown |  | Roleplay |
-| **157** | Unknown |  | Roleplay |
-| **158** | Unknown |  | Roleplay |
-| **159** | Unknown |  | Roleplay |
-| **160** | Unknown |  | Roleplay |
-| **161** | Unknown |  | Roleplay |
-| **162** | Unknown |  | Roleplay |
-| **163** | Unknown |  | Roleplay |
-| **164** | Unknown |  | Roleplay |
-| **165** | Unknown |  | Roleplay |
-| **166** | Unknown |  | Roleplay |
-| **167** | Unknown |  | Roleplay |
-| **168** | Unknown |  | Roleplay |
-| **169** | Unknown |  | Roleplay |
-| **170** | Unknown |  | Roleplay |
-| **171** | Unknown |  | Roleplay |
-| **172** | Unknown |  | Roleplay |
-| **173** | Unknown |  | Roleplay |
-| **174** | Unknown |  | Roleplay |
-| **175** | Unknown |  | Roleplay |
-| **176** | Unknown |  | Roleplay |
-| **177** | Unknown |  | Roleplay |
-| **178** | Unknown |  | Roleplay |
-| **179** | Unknown |  | Roleplay |
-| **180** | Unknown |  | Roleplay |
-| **181** | Unknown |  | Roleplay |
-| **182** | Unknown |  | Roleplay |
-| **183** | Unknown |  | Roleplay |
-| **184** | Unknown |  | Roleplay |
-| **185** | Unknown |  | Roleplay |
-| **186** | Unknown |  | Roleplay |
-| **187** | Unknown |  | Roleplay |
-| **188** | Unknown |  | Roleplay |
-| **189** | Unknown |  | Roleplay |
-| **190** | Unknown |  | Roleplay |
-| **191** | Unknown |  | Roleplay |
-| **192** | Unknown |  | Roleplay |
-| **193** | Unknown |  | Roleplay |
-| **194** | Unknown |  | Roleplay |
-| **195** | Unknown |  | Roleplay |
-| **196** | Unknown |  | Roleplay |
-| **197** | Unknown |  | Roleplay |
-| **198** | Unknown |  | Roleplay |
-| **199** | Unknown |  | Roleplay |
-| **200** | Unknown |  | Roleplay |
-| **201** | Unknown |  | Roleplay |
-| **202** | Unknown |  | Roleplay |
-| **203** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+| [**Scene 39**](#scene-39) | Unknown |  | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Unknown |  | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown |  | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown |  | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown |  | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown |  | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Unknown |  | Roleplay |
+| [**Scene 82**](#scene-82) | Unknown |  | Roleplay |
+| [**Scene 83**](#scene-83) | Unknown |  | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Unknown |  | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Unknown |  | Roleplay |
+| [**Scene 88**](#scene-88) | Unknown |  | Roleplay |
+| [**Scene 89**](#scene-89) | Unknown |  | Roleplay |
+| [**Scene 90**](#scene-90) | Unknown |  | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown |  | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown |  | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Unknown |  | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown |  | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown |  | Roleplay |
+| [**Scene 100**](#scene-100) | Unknown |  | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown |  | Roleplay |
+| [**Scene 102**](#scene-102) | Unknown |  | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown |  | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown |  | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown |  | Roleplay |
+| [**Scene 109**](#scene-109) | Unknown |  | Roleplay |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+| [**Scene 111**](#scene-111) | Unknown |  | Roleplay |
+| [**Scene 112**](#scene-112) | Unknown |  | Roleplay |
+| [**Scene 113**](#scene-113) | Unknown |  | Roleplay |
+| [**Scene 114**](#scene-114) | Unknown |  | Roleplay |
+| [**Scene 115**](#scene-115) | Unknown |  | Roleplay |
+| [**Scene 116**](#scene-116) | Unknown |  | Roleplay |
+| [**Scene 117**](#scene-117) | Unknown |  | Roleplay |
+| [**Scene 118**](#scene-118) | Unknown |  | Roleplay |
+| [**Scene 119**](#scene-119) | Unknown |  | Roleplay |
+| [**Scene 120**](#scene-120) | Unknown |  | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Unknown |  | Roleplay |
+| [**Scene 123**](#scene-123) | Unknown |  | Roleplay |
+| [**Scene 124**](#scene-124) | Unknown |  | Roleplay |
+| [**Scene 125**](#scene-125) | Unknown |  | Roleplay |
+| [**Scene 126**](#scene-126) | Unknown |  | Roleplay |
+| [**Scene 127**](#scene-127) | Unknown |  | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown |  | Roleplay |
+| [**Scene 129**](#scene-129) | Unknown |  | Roleplay |
+| [**Scene 130**](#scene-130) | Unknown |  | Roleplay |
+| [**Scene 131**](#scene-131) | Unknown |  | Roleplay |
+| [**Scene 132**](#scene-132) | Unknown |  | Roleplay |
+| [**Scene 133**](#scene-133) | Unknown |  | Roleplay |
+| [**Scene 134**](#scene-134) | Unknown |  | Roleplay |
+| [**Scene 135**](#scene-135) | Unknown |  | Roleplay |
+| [**Scene 136**](#scene-136) | Unknown |  | Roleplay |
+| [**Scene 137**](#scene-137) | Unknown |  | Roleplay |
+| [**Scene 138**](#scene-138) | Unknown |  | Roleplay |
+| [**Scene 139**](#scene-139) | Unknown |  | Roleplay |
+| [**Scene 140**](#scene-140) | Unknown |  | Roleplay |
+| [**Scene 141**](#scene-141) | Unknown |  | Roleplay |
+| [**Scene 142**](#scene-142) | Unknown |  | Roleplay |
+| [**Scene 143**](#scene-143) | Unknown |  | Roleplay |
+| [**Scene 144**](#scene-144) | Unknown |  | Roleplay |
+| [**Scene 145**](#scene-145) | Unknown |  | Roleplay |
+| [**Scene 146**](#scene-146) | Unknown |  | Roleplay |
+| [**Scene 147**](#scene-147) | Unknown |  | Roleplay |
+| [**Scene 148**](#scene-148) | Unknown |  | Roleplay |
+| [**Scene 149**](#scene-149) | Unknown |  | Roleplay |
+| [**Scene 150**](#scene-150) | Unknown |  | Roleplay |
+| [**Scene 151**](#scene-151) | Unknown |  | Roleplay |
+| [**Scene 152**](#scene-152) | Unknown |  | Roleplay |
+| [**Scene 153**](#scene-153) | Unknown |  | Roleplay |
+| [**Scene 154**](#scene-154) | Unknown |  | Roleplay |
+| [**Scene 155**](#scene-155) | Unknown |  | Roleplay |
+| [**Scene 156**](#scene-156) | Unknown |  | Roleplay |
+| [**Scene 157**](#scene-157) | Unknown |  | Roleplay |
+| [**Scene 158**](#scene-158) | Unknown |  | Roleplay |
+| [**Scene 159**](#scene-159) | Unknown |  | Roleplay |
+| [**Scene 160**](#scene-160) | Unknown |  | Roleplay |
+| [**Scene 161**](#scene-161) | Unknown |  | Roleplay |
+| [**Scene 162**](#scene-162) | Unknown |  | Roleplay |
+| [**Scene 163**](#scene-163) | Unknown |  | Roleplay |
+| [**Scene 164**](#scene-164) | Unknown |  | Roleplay |
+| [**Scene 165**](#scene-165) | Unknown |  | Roleplay |
+| [**Scene 166**](#scene-166) | Unknown |  | Roleplay |
+| [**Scene 167**](#scene-167) | Unknown |  | Roleplay |
+| [**Scene 168**](#scene-168) | Unknown |  | Roleplay |
+| [**Scene 169**](#scene-169) | Unknown |  | Roleplay |
+| [**Scene 170**](#scene-170) | Unknown |  | Roleplay |
+| [**Scene 171**](#scene-171) | Unknown |  | Roleplay |
+| [**Scene 172**](#scene-172) | Unknown |  | Roleplay |
+| [**Scene 173**](#scene-173) | Unknown |  | Roleplay |
+| [**Scene 174**](#scene-174) | Unknown |  | Roleplay |
+| [**Scene 175**](#scene-175) | Unknown |  | Roleplay |
+| [**Scene 176**](#scene-176) | Unknown |  | Roleplay |
+| [**Scene 177**](#scene-177) | Unknown |  | Roleplay |
+| [**Scene 178**](#scene-178) | Unknown |  | Roleplay |
+| [**Scene 179**](#scene-179) | Unknown |  | Roleplay |
+| [**Scene 180**](#scene-180) | Unknown |  | Roleplay |
+| [**Scene 181**](#scene-181) | Unknown |  | Roleplay |
+| [**Scene 182**](#scene-182) | Unknown |  | Roleplay |
+| [**Scene 183**](#scene-183) | Unknown |  | Roleplay |
+| [**Scene 184**](#scene-184) | Unknown |  | Roleplay |
+| [**Scene 185**](#scene-185) | Unknown |  | Roleplay |
+| [**Scene 186**](#scene-186) | Unknown |  | Roleplay |
+| [**Scene 187**](#scene-187) | Unknown |  | Roleplay |
+| [**Scene 188**](#scene-188) | Unknown |  | Roleplay |
+| [**Scene 189**](#scene-189) | Unknown |  | Roleplay |
+| [**Scene 190**](#scene-190) | Unknown |  | Roleplay |
+| [**Scene 191**](#scene-191) | Unknown |  | Roleplay |
+| [**Scene 192**](#scene-192) | Unknown |  | Roleplay |
+| [**Scene 193**](#scene-193) | Unknown |  | Roleplay |
+| [**Scene 194**](#scene-194) | Unknown |  | Roleplay |
+| [**Scene 195**](#scene-195) | Unknown |  | Roleplay |
+| [**Scene 196**](#scene-196) | Unknown |  | Roleplay |
+| [**Scene 197**](#scene-197) | Unknown |  | Roleplay |
+| [**Scene 198**](#scene-198) | Unknown |  | Roleplay |
+| [**Scene 199**](#scene-199) | Unknown |  | Roleplay |
+| [**Scene 200**](#scene-200) | Unknown |  | Roleplay |
+| [**Scene 201**](#scene-201) | Unknown |  | Roleplay |
+| [**Scene 202**](#scene-202) | Unknown |  | Roleplay |
+| [**Scene 203**](#scene-203) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -283,8 +299,11 @@ No revisions are required based on the Unlikelihood Ratio, and no canonical even
 God Mode:
 proceed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -614,8 +633,11 @@ Do you have any feedback or desire to adjust any of these generated elements (No
 God Mode:
 DM note: during character creation always show the aptitude score and hidden aptitude potential factor usually 1-5 number
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -924,8 +946,11 @@ God Mode:
 **D. Aptitude Potential (Hidden Stat):**
     *   **Definition:** Each Aptitude also has an associated "Aptitude Potential," a hidden numerical value representing a character's innate talent and ultimate capacity for development in that Aptitude.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -1024,8 +1049,11 @@ Plateau Years (36-45): Physical Aptitudes change by + ((3 - Potential) * 0.1). I
 Decline Years (46+): Physical Aptitudes change by + ((2 - Potential) * 0.2). Intelligence changes by -0.2. Wisdom changes by +0.1.
 C. Special Growth: The "Lesson Learned" Check: Wisdom can also be actively developed by successfully making an Intelligence check to learn from significant life failures (CN 12-18 based on severity).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -1087,8 +1115,11 @@ Please confirm if you approve these changes and provide the clarification on how
 God Mode:
 final approval, propose something for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -1134,8 +1165,11 @@ Please confirm if this proposed conversion mapping is acceptable. Once confirmed
 God Mode:
 Is this character too strong? calibrate it against bg3 campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -1224,8 +1258,11 @@ Show me the new core rules
 
 Show me the new core rules"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -1444,8 +1481,11 @@ Here is the updated **Destiny Core Rules** document:
 God Mode:
 just print the changes to destiny
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -1550,8 +1590,11 @@ Do you have any further questions or modifications before we finalize Nocturne's
 God Mode:
 show me my stats again with aptitude scaling numbers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -1595,8 +1638,11 @@ Please choose your preferred option (A, B, or C, with A1/A2 if you choose A or B
 God Mode:
 Lets do A and C
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -1625,8 +1671,11 @@ Once this is clarified, I can proceed with finalizing Nocturne's character sheet
 God Mode:
 1.  Do you wish to apply **Option A (Gear & Minor Resource Adjustment)** to Nocturne's character sheet, and *then* for the campaign to **still be scaled faster** (as if you had chosen Option C), implying you want a challenging campaign even after the character adjustments?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -1655,8 +1704,11 @@ Once you make this selection, I will apply all the chosen adjustments, including
 God Mode:
 **Sub-Option A2:** Keep the Bag of Holding, but reduce her starting gold to **200 gp** (to reflect the cost/resource drain of acquiring such a valuable item during her exile).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -1769,8 +1821,11 @@ Are you ready to begin?
 God Mode:
 give me a full dump of nocturne personality
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1830,8 +1885,11 @@ Are you ready to begin?
 God Mode:
 you need a full myers briggs personality too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1862,8 +1920,11 @@ Didn't you see this from system isntructions?
         *   **Overt Traits:** Define 2-3 primary, observable personality traits (e.g., courageous, cynical, jovial, reserved).
         *   **Secret Myers-Briggs Type (Internal Motivator):** Assign a secret Myers-Briggs personality type (e.g., INTJ, ESFP) to each significant NPC. This secret type should subtly influence their deeper motivations, decision-making processes, and reactions, especially under pressure or in private moments. It can create nuanced behavior where an NPC's outward demeanor might occasionally contrast with their internal inclinations, adding depth. The AI should prioritize actions consistent with this secret type if it creates a compelling, nuanced character, even if it slightly contradicts a more overt trait in a specific situation. This secret type is generally not revealed to the player directly but informs the AI's portrayal.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1887,8 +1948,11 @@ Once this is clarified, we can officially commence the campaign.
 God Mode:
 yes it should be for the PC please fix
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -1944,8 +2008,11 @@ Are you ready to begin?
 God Mode:
 print the full personality detail of one of her siblings
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -2012,8 +2079,11 @@ Are you ready to begin?
 God Mode:
 print nocturne personality in the same detail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -2050,8 +2120,11 @@ Are you ready to begin?
 > 👤 **Player:**
 > *"lets begin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -2088,8 +2161,11 @@ Stepping out into the bustling thoroughfare of the Lower City, Nocturne melted i
 > 👤 **Player:**
 > *"enter dm mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -2159,8 +2235,11 @@ She surveyed the immediate area, her gaze flicking between the dogs, the nearby 
 > 👤 **Player:**
 > *"DM note: do not explicitly mention big 3 personality traits"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -2221,8 +2300,11 @@ Nocturne's eyes narrowed, a calculating gleam reflecting the fading light. She s
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -2236,8 +2318,11 @@ What would you like to discuss or address in DM MODE?
 God Mode:
 lets change nocturne class. Give me some ideas for a dark paladin
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -2294,8 +2379,11 @@ Which of these "Dark Paladin" archetypes (or a blend you envision) would you lik
 God Mode:
 *3. Oath of Self-Perfection (The Apex Predator)**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -2380,8 +2468,11 @@ Please confirm if these adaptations for the **Oath of Self-Perfection (The Apex 
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -2462,8 +2553,11 @@ What is your first action, Nocturne?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -2518,8 +2612,11 @@ Nocturne's eyes, sharp and calculating, fixed on the lead mastiff. Her grip tigh
 > 👤 **Player:**
 > *"ApexSilence_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -2601,8 +2698,11 @@ Her EP pool was now 31/36 (5 EP spent for Perfected Strike).
 God Mode:
 DM note: every story mode entry should always end in a planning block where character thinks about next options.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -2669,8 +2769,11 @@ What course of action do you choose, Nocturne?
 
 DirectInterrogation_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -2800,8 +2903,11 @@ What would you like to do next?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -2815,8 +2921,11 @@ What would you like to discuss or address in DM MODE?
 God Mode:
 Show me `REFERENCE TIMELINE` and the `TIMELINE LOG`.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -3185,8 +3294,11 @@ Decline Years (46+): Physical Aptitudes change by + ((2 - Potential) * 0.2). Int
 God Mode:
 print these  57, 58, 59, 60, 61, 62]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -3362,8 +3474,11 @@ With the information extracted, the villagers stood frozen, awaiting her next co
 > 👤 **Player:**
 > *"think options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -3616,8 +3731,11 @@ What would you like to do next?
 God Mode:
 stop printing  `REFERENCE TIMELINE` and the `TIMELINE LOG`.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -3633,8 +3751,11 @@ What would you like to do or discuss next in DM MODE?
 > 👤 **Player:**
 > *"think options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -3715,8 +3836,11 @@ What course of action do you choose, Nocturne?
 > 👤 **Player:**
 > *"ApexSensesScan_7"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -3764,8 +3888,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. who are the best targets"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -3828,8 +3955,11 @@ What would you like to do next?
 God Mode:
 DM note: lets retcon this a bit. My MC is smart and wouldn't use plate armor for a mission like this. Give me equivalent medium armor or something better for stealth, give me a hideout and put my plate armor there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 
@@ -3925,8 +4055,11 @@ Please choose one option. Once confirmed, I will display Nocturne's finalized ch
 God Mode:
 MaintainPreviousNarrative_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -4124,8 +4257,11 @@ What course of action do you choose, Nocturne?
 God Mode:
 did you forget to give me exp?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -4220,8 +4356,11 @@ What course of action do you choose, Nocturne?
 God Mode:
 think. who could be better ScoutIsolatedFarmhouses_4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -4274,8 +4413,11 @@ Therefore, **ScoutIsolatedFarmhouses_4** represents the most direct, efficient, 
 > 👤 **Player:**
 > *"think. which farm could be better ScoutIsolatedFarmhouses_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -4334,8 +4476,11 @@ What would you like to do next?
 God Mode:
 What are you doing. I didn't decide on Elara I just was thinking about it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -4400,8 +4545,11 @@ What would you like to do next?
 God Mode:
 give me 5 whys for why you messed that up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -4490,8 +4638,11 @@ What would you like to do next?
 God Mode:
 Think. Can i utilize these other intimidated villagers as a distraction for the stronger patrol? Or make them my minions temporarily to help me capture elara cottage folks?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -4579,8 +4730,11 @@ What would you like to do next?
 God Mode:
 ApproachElaraCottage_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 
@@ -4640,8 +4794,11 @@ What would you like to do next?
 God Mode:
 options
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -4666,8 +4823,11 @@ What would you like to do next?
 God Mode:
 enter dm mode dont go back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -5369,8 +5529,11 @@ This section outlines rules for common interactions with the game world outside 
         5.  Certain "Per Long Rest" abilities and Martial Techniques also refresh.
 ---
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -5461,8 +5624,11 @@ Do you approve the integration of the provided ruleset, understanding that this 
 God Mode:
 final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -5678,8 +5844,11 @@ Here is the **updated and finalized Destiny Core Rules** document:
 > 👤 **Player:**
 > *"continue. think about what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -5733,8 +5902,11 @@ What would you like to do next?
 God Mode:
 DM note: don't mention myers briggs explicitly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -5800,8 +5972,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ApexSensesDeepScan_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 
@@ -5841,8 +6016,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"InfiltrateCottageStealth_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -5910,8 +6088,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Tie up Elara and then SearchCottage_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -5961,8 +6142,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. she's jsut one old woman. how much money would i get from her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -6013,8 +6197,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ScoutTibbetFarm_4 and be mindful of patrol"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -6062,8 +6249,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"UseApexSensesOnTibbetFarm_5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -6118,8 +6308,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"InvestigateRoadPatrol_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -6214,8 +6407,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -6282,8 +6478,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. how can i make this smoother NeutralizeRoadPatrol_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -6398,8 +6597,11 @@ What would you like to do next?
 God Mode:
 DM note: what feat did i pick at level 4?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -6425,8 +6627,11 @@ LootPatrol_1 and then ConcealBodies_2
 
 DM note: this doesnt make sense. You should've picked feats for me. Give me great weapon master
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -6521,8 +6726,11 @@ Once confirmed, I will add this feat to Nocturne's character sheet.
 > 👤 **Player:**
 > *"final approval"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -6587,8 +6795,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ReturnToTibbetFarm_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -6627,8 +6838,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -6659,8 +6873,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think about pros/cons and success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -6723,8 +6940,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"NeutralizeFarmGuardsFirst"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 
@@ -6765,8 +6985,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"SetLureAtBarn_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 
@@ -6854,8 +7077,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"DM note: don't explicitly say big 5 stuff like this. (Conscientiousness 4/5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -6897,8 +7123,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -6940,8 +7169,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Think. Options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -6983,8 +7215,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AmbushLuredGuard_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 
@@ -7061,8 +7296,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"LootAndConcealGuard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -7127,8 +7365,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Think. How much hp did this guard have when he was alive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -7203,8 +7444,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"TargetSecondGuard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -7244,8 +7488,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. success rates for options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 
@@ -7327,8 +7574,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"SetLureAtOutbuilding_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -7371,8 +7621,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AmbushLuredGuard_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -7448,8 +7701,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"LootAndConcealGuard_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 
@@ -7505,8 +7761,11 @@ What would you like to do next?
 God Mode:
 answer yes or no. have you already properly generrated plot elements related to my family and siblings?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 
@@ -7518,8 +7777,11 @@ Yes.
 > 👤 **Player:**
 > *"think. success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 
@@ -7595,8 +7857,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"InfiltrateFarmhouseNow_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -7710,8 +7975,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 
@@ -7777,8 +8045,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"SubdueFamilySilently_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 
@@ -7826,8 +8097,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"PrepareRestraintsForFamily_1 and then search the farm for valuables and clues for why it was so well guarded"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 
@@ -7883,8 +8157,11 @@ What would you like to do next?
 3.  **[SearchStudyDrawers_3]:** Attempt to open and search the locked drawers in Man Tibbet's study.
 4.  **[SearchStorageRoom_4]:** Search the small, cool storage room for any hidden items or unusual contents."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 
@@ -7994,8 +8271,11 @@ What would you like to do next?
 God Mode:
 i like this mission and arc. Make sure we do more evil things like this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 
@@ -8048,8 +8328,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. What I if I gain more intel on this noble house and go back to my family and show my worth. father always had a soft spot for me even if others hate me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 
@@ -8160,8 +8443,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 
@@ -8243,8 +8529,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"FurtherInvestigateFarm_5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -8314,8 +8603,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ExitFarmhouseWithFamily_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -8358,8 +8650,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"bring elara to tibbet family house and then transport them all out to a more secure location"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -8398,8 +8693,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ConcealAllCaptivesTemp_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 
@@ -8438,8 +8736,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Think. Next time need better extraction plan for assets. Either my own agents or have employer provide transport. Remind me when relevant."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -8491,8 +8792,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"RestTemporarily_1 and think on how to bargain with kaelen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 
@@ -8538,8 +8842,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"contact kaelen and bargain as planned"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -8584,8 +8891,11 @@ What would you like to do next?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 
@@ -8601,8 +8911,11 @@ do you see this new system instruction? are you following it?
 
  **Subtlety and Realism Above All:** Your primary goal is to create a believable, grounded world. Prioritize subtle characterization, realistic consequences, and naturalistic dialogue. Avoid overly dramatic, theatrical, or "trope-y" storytelling. Show, don't just tell.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 
@@ -9031,8 +9344,11 @@ What would you like to do next?
 3.  **[Option 3]:** A third choice, perhaps focusing on a different aspect (e.g., character interaction, investigation, travel).
 4.  **[Other]:** You can also describe a different action you'd like to take.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 
@@ -9130,8 +9446,11 @@ What would you like to do next?
 God Mode:
 enter dm mode. Looks like you lost state. I already did this? ExitFarmhouseWithFamily_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 
@@ -9177,8 +9496,11 @@ What would you like to do next?
 God Mode:
 enter dm mode and stay there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 
@@ -9192,8 +9514,11 @@ What would you like to discuss or address in DM MODE?
 God Mode:
 is the family status not present in the game state i send to you?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 
@@ -9221,8 +9546,11 @@ What would you like to discuss or address next in DM MODE?
 God Mode:
 lets try again. send me the state updates proposed and tell me if i seem to retain them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -9549,8 +9877,11 @@ just send this back to me as proposed and continue the story
 }
 [END_CUMULATIVE_STATE_UPDATES]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -9731,8 +10062,11 @@ Please take the entire JSON object below, enclosed within `[RE-CONFIRM_CUMULATIV
 God Mode:
 just continue the game and echo that back to me. my program is supposed to read what you sent me and update the state. i want to test that functionality
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -9785,8 +10119,11 @@ What would you like to do next?
 God Mode:
 DisableMagicWard_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 
@@ -10119,8 +10456,11 @@ Please take the entire JSON object below, enclosed within `[RE-CONFIRM_CUMULATIV
 God Mode:
 check again does the state look right?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 
@@ -10172,8 +10512,11 @@ What would you like to do next?
 God Mode:
 DisableMagicWard_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -10222,8 +10565,11 @@ What would you like to do next?
 God Mode:
 FurtherInvestigateFarm_3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 
@@ -10309,8 +10655,11 @@ What is going on, we already did this
 1.  **[ExitFarmhouseWithFamily_1]:** Immediately begin transporting the subdued Tibbet family out of the farmhouse towards a temporary hiding spot or rendezvous point.
 2.  **[ReturnToElaraCottage_2]:** Return to Widow Elara's cottage to prepare her for transport, given the new intel and the successful acquisition of the Tibbet family.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 
@@ -10681,8 +11030,11 @@ GOD_MODE_UPDATE_STATE: {
   }
 }
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 
@@ -10749,8 +11101,11 @@ What would you like to do next?
 God Mode:
 this is already done too DisableMagicWard_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 
@@ -10869,8 +11224,11 @@ What would you like to do next?
 God Mode:
 enter dm mode and stay there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 
@@ -11663,8 +12021,11 @@ These are all already done. Which game states exactly do they correspond to?
 3.  **[RestTemporarily_3]:** Find a secluded spot to take a Short Rest to fully recuperate and strategize on this new intelligence.
 4.  **[ContactKaelenForPickup_4]:** Attempt to discreetly contact Kaelen Flinn to coordinate immediate pickup of all six captives from their concealed location.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 
@@ -11728,8 +12089,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"scout for other patrols while wait kaelen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 
@@ -11764,8 +12128,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ContactKaelenForImmediateUpdate_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 
@@ -11848,8 +12215,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AwaitKaelenResponse_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 
@@ -11889,8 +12259,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"RetrievePayment_1 and InvestigateOakhavenHamlet_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 
@@ -11925,8 +12298,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AwaitKaelenTransport_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -11996,8 +12372,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think  what is darkwood casket and whispers. what could the overall situation be"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 
@@ -12056,8 +12435,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ObserveTransportFromCover_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 
@@ -12091,8 +12473,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ScoutOakhavenAgain_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 
@@ -12130,8 +12515,11 @@ enter dm mode and dont leave. integrate this
     *   **Hit Points:** A character can spend one or more Hit Dice at the end of a Short Rest, up to the character's maximum number of Hit Dice. For each Hit Die spent in this way, the player rolls the die and adds the character's Health modifier to it, regaining Hit Points equal to the total (minimum of 0). The character regains a number of spent Hit Dice equal to half their total number of Hit Dice (rounded down) after finishing a Long Rest.
     *   **Energy Points (EP):** A character recovers a number of spent Energy Points (EP) equal to **one-third of their maximum EP pool** (rounded down).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 
@@ -12185,8 +12573,11 @@ Do you approve the integration of the proposed Short Rest rules, primarily addin
 God Mode:
 final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 
@@ -12425,8 +12816,11 @@ Character growth and development in this system occur along two interconnected y
 God Mode:
 continue with the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 
@@ -12484,8 +12878,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"DecipherJournal_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 
@@ -12544,8 +12941,11 @@ Something is wrong. These captives were already  taken by kael men?
 
 ConsolidateCaptivesPermanently_5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 
@@ -13343,8 +13743,11 @@ GOD_MODE_UPDATE_STATE: {
 God Mode:
 which state update is related to captives?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 
@@ -13411,8 +13814,11 @@ give me 5 whys on why you didn't do this properly from the beginning
 }
 [END_STATE_UPDATES_PROPOSED]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 
@@ -13466,8 +13872,11 @@ Please confirm that you have manually applied this `GOD_MODE_UPDATE_STATE` JSON 
 God Mode:
 stay in dm mode. help me debug this state on my side
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 
@@ -13480,8 +13889,11 @@ stay in dm mode. help me debug this state on my side
 God Mode:
 stay in dm mode. help me debug this state on my side
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 
@@ -13516,8 +13928,11 @@ Please provide the **full, raw `CURRENT GAME STATE` JSON** you have on your side
 God Mode:
 show me your last known state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 
@@ -14138,8 +14553,11 @@ this is what i have, what do you have?
   "migration_status": "NO_LEGACY_DATA"
 }\
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 
@@ -14800,8 +15218,11 @@ give me just the update state command for god mode only with corrections
 God Mode:
 give me just the update state command for god mode only with corrections
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 
@@ -14820,8 +15241,11 @@ GOD_MODE_UPDATE_STATE: {"game_state_version": 2, "player_character_data": {"age"
 God Mode:
 give me the full update state command in valid json
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 
@@ -14860,8 +15284,11 @@ GOD_MODE_UPDATE_STATE: {"game_state_version": 2, "player_character_data": {"age"
 God Mode:
 give me this in 3 parts. It's too long to update in one command GOD_MODE_UPDATE_STATE
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 
@@ -14912,8 +15339,11 @@ GOD_MODE_UPDATE_STATE: {"world_data": {"locations": {"man_tibbet_farm": {"study_
 > 👤 **Player:**
 > *"show me the differences between your game state and mine. Only the first part of your udpate worked"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 
@@ -14946,8 +15376,11 @@ GOD_MODE_UPDATE_STATE: {"game_state_version": 2, "player_character_data": {"age"
 God Mode:
 give me hte update state command again. Are you able to only show diffs?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 
@@ -15996,8 +16429,11 @@ God Mode:
   }
 }
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 
@@ -16042,8 +16478,11 @@ GOD_ASK_STATE
 God Mode:
 What correction do I need to apply to my game state?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 
@@ -16068,8 +16507,11 @@ GOD_MODE_UPDATE_STATE: {"game_state_version": 2, "player_character_data": {"age"
 God Mode:
 show me again what diffs i need to apply
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 
@@ -16247,8 +16689,11 @@ Your correction MUST use the following format:
 6.  To add a new item to a list (like inventory or quests), use `.append` as the final part of the key path. The value should be the full JSON object for the new item.
 7.  NEVER output the full game state. Only output the key-value pairs that need to be changed.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 
@@ -16291,8 +16736,11 @@ GOD_MODE_UPDATE_STATE: {"game_state_version": 2, "player_character_data": {"age"
 God Mode:
 GOD_MODE_SET give me the command in this format to fix
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 
@@ -16326,8 +16774,11 @@ GOD_MODE_UPDATE_STATE: {"game_state_version": 2, "player_character_data": {"age"
 God Mode:
 Do you understand this GOD_MODE_SET command?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 
@@ -16403,8 +16854,11 @@ This is a critical juncture for our campaign. Your cooperation in resolving this
 God Mode:
 Give me the GOD_MODE_SET command to run
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 
@@ -17723,8 +18177,11 @@ world_data.npcs.kaelen_transport_operative_3.current_status = "Stealthy, Carryin
 God Mode:
 is the state good now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 
@@ -17797,8 +18254,11 @@ What would you like to do next?
 God Mode:
 LeverageIntelWithFamily_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 
@@ -17861,8 +18321,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"SeekAudienceWithFather_1 and direct request for resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 
@@ -17903,8 +18366,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 
@@ -17960,8 +18426,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"utilize my intimidating aura. PresentLimitedEvidence_2  and then PressForAudience_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 
@@ -18010,8 +18479,11 @@ utilize my intimidating aura. PresentLimitedEvidence_2  and then PressForAudienc
 
 utilize my intimidating aura. PresentLimitedEvidence_2  and then PressForAudience_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 
@@ -18070,8 +18542,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ProceedToFathersStudy_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 
@@ -18170,8 +18645,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"GaugeFathersReaction_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 
@@ -18204,8 +18682,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"give partial intel and assess his reaction. think about asking for resources after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 
@@ -18243,8 +18724,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AwaitFathersQuestion_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 
@@ -18279,8 +18763,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"DemandResourcesAndAuthority_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 
@@ -18320,8 +18807,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AwaitFathersDecision_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 
@@ -18359,8 +18849,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 
@@ -18417,8 +18910,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"PresentFullEvidence_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 
@@ -18470,8 +18966,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 
@@ -18540,8 +19039,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AwaitFathersDecision_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 
@@ -18581,8 +19083,11 @@ What would you like to do next?
 God Mode:
 stop returning this Narrative State Summary: Nocturne has just presented overwhelming, irrefutable evidence of House Durin's Folly's profound conspiracy, including Shadowfell operations, death cult ties, and 'The Architect's' looming 'Convergence'. Lord Cassian is visibly shocked, processing the profound implications, his mask of composure shattered. Nocturne now silently awaits his decision.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 
@@ -18630,8 +19135,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 
@@ -18652,8 +19160,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 
@@ -18718,8 +19229,11 @@ follow this
 
 At the end of every `STORY MODE` response, you **must** include a "Planning Block". This block must be clearly formatted and present the player with 3-5 distinct, actionable choices for what to do next. These choices should be logically derived from the current narrative situation, character goals, active quests, and potential plot hooks. It should invokes the Planning & Player Agency protocol, which must be delivered from a fully in-character perspective just like the explicit think/plan/options commands.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 
@@ -18796,8 +19310,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"AwaitDirectOrder_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 
@@ -18848,8 +19365,11 @@ Nocturne felt a cold, deep satisfaction. No overt triumph, merely the quiet affi
 > 👤 **Player:**
 > *"think. why was i exiled again?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 
@@ -18889,8 +19409,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. who did i murder again that got me in trouble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 
@@ -18943,8 +19466,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. can i become the heir as a bastard?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 
@@ -18986,8 +19512,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. what happened with my mother. can she help me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 
@@ -19041,8 +19570,11 @@ What would you like to do next?
 God Mode:
 print out the main character full backstory and any game state related to backstory
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 
@@ -19149,8 +19681,11 @@ This comprehensive profile and associated game state elements define Nocturne's 
 > 👤 **Player:**
 > *"think. sucess rates for my options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 
@@ -19219,8 +19754,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Think. any other siblings would help me? How well do i get a long with them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 
@@ -19264,8 +19802,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Think. what about my father's wife? is there some stepmother?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 
@@ -19320,8 +19861,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"ContactLysandra_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 
@@ -19373,8 +19917,11 @@ are you doing rolls for all these dialog checks? I don't see the calculations?
 God Mode:
 are you doing rolls for all these dialog checks? I don't see the calculations?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 
@@ -19429,8 +19976,11 @@ What would you like to discuss or address next in DM MODE?
 > 👤 **Player:**
 > *"no lets continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 
@@ -19487,8 +20037,11 @@ God Mode:
 someting went wrong I already started this. Seems to happen when i transition from DM mode back to story mode?
 ContactLysandra_4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 
@@ -19561,8 +20114,11 @@ The challenge was laid bare. Lysandra, the keeper of arcane knowledge, now held 
 God Mode:
 enter dm mode and stay there. I am using the API. You have no state besides what i send you. What internal checks do you have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 
@@ -19612,8 +20168,11 @@ To help you debug further on your side, what specific aspects of the `CURRENT GA
 God Mode:
 why are you saying you'll change internal checks when nothing will happen? The only change we can make is i change my website code to pass you different context?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 
@@ -19650,8 +20209,11 @@ I am ready to help you debug this on your side. What specific part of my output 
 God Mode:
 give me 5 whys on why ou're saying internal checks? Are you unable to distinguish gemii API calls vs gemini chat website?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 
@@ -20826,8 +21388,11 @@ world_data.npcs.man_tibbet_farm_guard_2.current_status = "Neutralized", "status_
 God Mode:
 why do we need the whole command? we only need something about lysandra right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 
@@ -20864,8 +21429,11 @@ This is critical. My apologies again for the technical hurdle.
 God Mode:
 Let's get back to the story. Resume the narrative from Sequence ID 366
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 
@@ -20938,8 +21506,11 @@ ContactLysandra_4
 God Mode:
 ContactLysandra_4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 
@@ -21615,8 +22186,11 @@ world_data.custom_campaign_state.core_memories = ["PC starts as Level 5 Paladin,
 God Mode:
 lets just go to SEQ_ID: 368
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 
@@ -21663,8 +22237,11 @@ The challenge was laid bare. Lysandra, the keeper of arcane knowledge, now held 
 > 👤 **Player:**
 > *"Think. success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 
@@ -21752,8 +22329,11 @@ Her mind was already charting the most efficient routes through the estate to th
 
 Think. whats the best order of operations to do everything?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 
@@ -21813,8 +22393,11 @@ What would you like to do next?
 
 The best order of operations is one that ensures simultaneous progress on critical fronts while maintaining my central control. Initiate the gathering of tangible resources first, as that sets the foundation for all subsequent actions. Concurrently, formally delegate the arcane research to Lysandra, leveraging her specialized skills and the House archives. Once these two streams are flowing, I can then shift my personal focus to the specific preparations for the Underdark rendezvous, confident that the necessary support and deeper understanding are being developed.*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 
@@ -21883,8 +22466,11 @@ God Mode:
 Give exact timestamps like specificed in the format 
 Timestamp: 1492 DR, Ches 20, 09:51:10 AM`
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 
@@ -21936,8 +22522,11 @@ The morning had unfolded with chilling precision. Julian's inevitable fury, a pr
 > 👤 **Player:**
 > *"Think. success rates for options. also how can i turn my new resources to my personal advantage?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 
@@ -21996,8 +22585,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. can i delegate OverseeResourceFlow_1 and do this myself RefineUnderdarkOperationalPlan_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 
@@ -22055,8 +22647,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"DelegateResourceInitiation_1 tehn CoordinateLysandraResearch_4 then personally do RefineUnderdarkOperationalPlan_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 
@@ -22104,8 +22699,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"Think how prevent julian sabotage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 
@@ -22172,8 +22770,11 @@ As orders were issued and resources began to mobilize, Nocturne's mind simultane
 > 👤 **Player:**
 > *"Think. Could I utilize Julian? Pretend to ally and use him as cannon fodder? Include him in mission to pretend to share glory but let him start combat first and die? Whats his level and class"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 
@@ -22235,8 +22836,11 @@ What would you like to do next?
 
 EstablishJulianSurveillance_4  and then RefineUnderdarkOperationalPlan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 
@@ -22283,8 +22887,11 @@ The sun set, and the city plunged into the deep shadows of night, but within the
 > 👤 **Player:**
 > *"think success ratios"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 
@@ -22337,8 +22944,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"PreparePersonalGear_3 then CoordinateLysandraFindings_2 then FinalizeUnderdarkOperationalPlan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 
@@ -22392,8 +23002,11 @@ With Lysandra's critical findings integrated, Nocturne retreated once more to th
 God Mode:
 print the full detail on the apex paladin class
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 
@@ -22443,8 +23056,11 @@ What would you like to discuss or address next in DM MODE?
 > 👤 **Player:**
 > *"continue in story mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 
@@ -22503,8 +23119,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think success ratios"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 
@@ -22575,8 +23194,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"DepartForUnderdarkRendezvous_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 
@@ -22617,6 +23239,8 @@ She knelt, her fingers probing the ancient masonry, locating a cleverly conceale
   "custom_campaign_state.core_memories.append": "Nocturne departs from The Black Lily's Den and enters the Underdark through a hidden access point beneath Baldur's Gate, initiating the direct intervention against the Architect."
 }
 [END_STATE_UPDATES_PROPOSED]
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

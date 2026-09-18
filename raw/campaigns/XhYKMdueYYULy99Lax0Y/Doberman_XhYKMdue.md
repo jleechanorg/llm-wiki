@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (136 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
@@ -84,152 +95,157 @@ Focus: Noh Tae-nam is dead, in prison, or your puppet. You are a free agent, you
    * The "Queen": Insert yourself into the highest levels of government, using your intellect to become the most valuable—and most dangerous—kingmaker in South Korea.
  * Endgame: Your final goal is the "Aizen" or "Griffith" transcendence. You seek a ritual (a political election), an artifact (the true core of the military's digital command), or a position (Chairwoman of a new, clean IM Defense) that places you above the petty concerns of mortals. Your final challenge will be facing the only people who know what you truly are: Do Bae-man and Cha Woo-in, who have dedicated their lives to stopping the next Noh Hwa-young, only to realize they helped create something far, far worse.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Character Creation | Ches 20, 1492 DR (9:51) | Roleplay |
-| **02** | Character Creation | Ches 20, 1492 DR (9:51) | Roleplay |
-| **03** | High-end restaurant | Ches 20, 1492 DR (9:51) | Roleplay |
-| **04** | High-end restaurant | Ches 20, 1492 DR (20:02) | Roleplay |
-| **05** | High-end restaurant | Ches 20, 1492 DR (20:07) | Roleplay |
-| **06** | High-end restaurant | Ches 20, 1492 DR (20:07) | Roleplay |
-| **07** | High-end restaurant | Ches 20, 1492 DR (20:07) | Roleplay |
-| **08** | High-end restaurant | Ches 20, 1492 DR (20:10) | Roleplay |
-| **09** | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
-| **10** | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
-| **11** | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
-| **12** | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
-| **13** | High-end restaurant | Ches 20, 1492 DR (20:15) | Roleplay |
-| **14** | High-end restaurant | Ches 20, 1492 DR (20:17) | Roleplay |
-| **15** | High-end restaurant | Ches 20, 1492 DR (20:18) | Roleplay |
-| **16** | High-end restaurant | Ches 20, 1492 DR (20:20) | Roleplay |
-| **17** | High-end restaurant | Ches 20, 1492 DR (20:20) | Roleplay |
-| **18** | High-end restaurant | Ches 20, 1492 DR (20:22) | Roleplay |
-| **19** | High-end restaurant | Ches 20, 1492 DR (20:24) | Roleplay |
-| **20** | High-end restaurant | Ches 20, 1492 DR (20:26) | Roleplay |
-| **21** | High-end restaurant | Ches 20, 1492 DR (20:28) | Roleplay |
-| **22** | High-end restaurant | Ches 20, 1492 DR (20:38) | Roleplay |
-| **23** | High-end restaurant | Ches 20, 1492 DR (20:41) | Roleplay |
-| **24** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **25** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **26** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **27** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **28** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **29** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **30** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **31** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **32** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **33** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **39** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **40** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **41** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **45** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **46** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **47** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **48** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **49** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **50** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **51** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **52** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **53** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **54** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **55** | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
-| **56** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **59** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **62** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **63** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **69** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **70** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **71** | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **74** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **75** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **76** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **77** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **78** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **79** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **80** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **81** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **82** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **83** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **84** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **85** | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Unknown |  | Roleplay |
-| **88** | Unknown |  | Roleplay |
-| **89** | High-end restaurant | 2024 November 14, 20:50 | Roleplay |
-| **90** | High-end restaurant | 2024 November 14, 20:50 | Roleplay |
-| **91** | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
-| **92** | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
-| **93** | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
-| **94** | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
-| **95** | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
-| **96** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
-| **97** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
-| **98** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
-| **99** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
-| **100** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
-| **101** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
-| **102** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **103** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **104** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **105** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **106** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **107** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **108** | Unknown |  | Roleplay |
-| **109** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **110** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **111** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **112** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **113** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **114** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **115** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **116** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **117** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **118** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **119** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **120** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **121** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **122** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **123** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **124** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **125** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
-| **126** | Unknown |  | Roleplay |
-| **127** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
-| **128** | Unknown |  | Roleplay |
-| **129** | Unknown |  | Roleplay |
-| **130** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
-| **131** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
-| **132** | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
-| **133** | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:00 | Roleplay |
-| **134** | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:00 | Roleplay |
-| **135** | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:15 | Roleplay |
-| **136** | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:17 | Roleplay |
+| [**Scene 01**](#scene-1) | Character Creation | Ches 20, 1492 DR (9:51) | Roleplay |
+| [**Scene 02**](#scene-2) | Character Creation | Ches 20, 1492 DR (9:51) | Roleplay |
+| [**Scene 03**](#scene-3) | High-end restaurant | Ches 20, 1492 DR (9:51) | Roleplay |
+| [**Scene 04**](#scene-4) | High-end restaurant | Ches 20, 1492 DR (20:02) | Roleplay |
+| [**Scene 05**](#scene-5) | High-end restaurant | Ches 20, 1492 DR (20:07) | Roleplay |
+| [**Scene 06**](#scene-6) | High-end restaurant | Ches 20, 1492 DR (20:07) | Roleplay |
+| [**Scene 07**](#scene-7) | High-end restaurant | Ches 20, 1492 DR (20:07) | Roleplay |
+| [**Scene 08**](#scene-8) | High-end restaurant | Ches 20, 1492 DR (20:10) | Roleplay |
+| [**Scene 09**](#scene-9) | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
+| [**Scene 10**](#scene-10) | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
+| [**Scene 11**](#scene-11) | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
+| [**Scene 12**](#scene-12) | High-end restaurant | Ches 20, 1492 DR (20:13) | Roleplay |
+| [**Scene 13**](#scene-13) | High-end restaurant | Ches 20, 1492 DR (20:15) | Roleplay |
+| [**Scene 14**](#scene-14) | High-end restaurant | Ches 20, 1492 DR (20:17) | Roleplay |
+| [**Scene 15**](#scene-15) | High-end restaurant | Ches 20, 1492 DR (20:18) | Roleplay |
+| [**Scene 16**](#scene-16) | High-end restaurant | Ches 20, 1492 DR (20:20) | Roleplay |
+| [**Scene 17**](#scene-17) | High-end restaurant | Ches 20, 1492 DR (20:20) | Roleplay |
+| [**Scene 18**](#scene-18) | High-end restaurant | Ches 20, 1492 DR (20:22) | Roleplay |
+| [**Scene 19**](#scene-19) | High-end restaurant | Ches 20, 1492 DR (20:24) | Roleplay |
+| [**Scene 20**](#scene-20) | High-end restaurant | Ches 20, 1492 DR (20:26) | Roleplay |
+| [**Scene 21**](#scene-21) | High-end restaurant | Ches 20, 1492 DR (20:28) | Roleplay |
+| [**Scene 22**](#scene-22) | High-end restaurant | Ches 20, 1492 DR (20:38) | Roleplay |
+| [**Scene 23**](#scene-23) | High-end restaurant | Ches 20, 1492 DR (20:41) | Roleplay |
+| [**Scene 24**](#scene-24) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 25**](#scene-25) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 26**](#scene-26) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 27**](#scene-27) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 28**](#scene-28) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 29**](#scene-29) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 30**](#scene-30) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 31**](#scene-31) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 32**](#scene-32) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 33**](#scene-33) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 39**](#scene-39) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 40**](#scene-40) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 41**](#scene-41) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 45**](#scene-45) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 46**](#scene-46) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 47**](#scene-47) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 48**](#scene-48) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 49**](#scene-49) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 50**](#scene-50) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 51**](#scene-51) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 52**](#scene-52) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 53**](#scene-53) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 54**](#scene-54) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 55**](#scene-55) | High-end restaurant | Ches 20, 1492 DR (20:44) | Roleplay |
+| [**Scene 56**](#scene-56) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 59**](#scene-59) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 62**](#scene-62) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 63**](#scene-63) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 69**](#scene-69) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 70**](#scene-70) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 71**](#scene-71) | High-end restaurant | Ches 20, 1492 DR (20:47) | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 74**](#scene-74) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 75**](#scene-75) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 76**](#scene-76) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 77**](#scene-77) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 78**](#scene-78) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 79**](#scene-79) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 80**](#scene-80) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 81**](#scene-81) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 82**](#scene-82) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 83**](#scene-83) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 84**](#scene-84) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 85**](#scene-85) | High-end restaurant | 2024 November 14, 20:47 | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Unknown |  | Roleplay |
+| [**Scene 88**](#scene-88) | Unknown |  | Roleplay |
+| [**Scene 89**](#scene-89) | High-end restaurant | 2024 November 14, 20:50 | Roleplay |
+| [**Scene 90**](#scene-90) | High-end restaurant | 2024 November 14, 20:50 | Roleplay |
+| [**Scene 91**](#scene-91) | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
+| [**Scene 92**](#scene-92) | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
+| [**Scene 93**](#scene-93) | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
+| [**Scene 94**](#scene-94) | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
+| [**Scene 95**](#scene-95) | Noh Tae-nam's Executive Penthouse Suite | 2024 November 14, 20:55 | Roleplay |
+| [**Scene 96**](#scene-96) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
+| [**Scene 97**](#scene-97) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
+| [**Scene 98**](#scene-98) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
+| [**Scene 99**](#scene-99) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
+| [**Scene 100**](#scene-100) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
+| [**Scene 101**](#scene-101) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:58 | Roleplay |
+| [**Scene 102**](#scene-102) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 103**](#scene-103) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 104**](#scene-104) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 105**](#scene-105) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 106**](#scene-106) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 107**](#scene-107) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown |  | Roleplay |
+| [**Scene 109**](#scene-109) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 110**](#scene-110) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 111**](#scene-111) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 112**](#scene-112) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 113**](#scene-113) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 114**](#scene-114) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 115**](#scene-115) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 116**](#scene-116) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 117**](#scene-117) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 118**](#scene-118) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 119**](#scene-119) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 120**](#scene-120) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 121**](#scene-121) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 122**](#scene-122) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 123**](#scene-123) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 124**](#scene-124) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 125**](#scene-125) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 20:59 | Roleplay |
+| [**Scene 126**](#scene-126) | Unknown |  | Roleplay |
+| [**Scene 127**](#scene-127) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown |  | Roleplay |
+| [**Scene 129**](#scene-129) | Unknown |  | Roleplay |
+| [**Scene 130**](#scene-130) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
+| [**Scene 131**](#scene-131) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
+| [**Scene 132**](#scene-132) | Noh Tae-nam's Penthouse Bedroom | 2024 November 14, 21:00 | Roleplay |
+| [**Scene 133**](#scene-133) | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:00 | Roleplay |
+| [**Scene 134**](#scene-134) | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:00 | Roleplay |
+| [**Scene 135**](#scene-135) | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:15 | Roleplay |
+| [**Scene 136**](#scene-136) | Noh Tae-nam's Penthouse Bedroom | 2024 November 15, 05:17 | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (9:51)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 10/10 (Temp: 0) | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -257,8 +273,11 @@ Which option would you prefer? (1, 2, or 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *AIGenerated - Have the AI generate Sariel&#x27;s D&amp;D 5e sheet based on the provided lore.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (9:51)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -328,8 +347,11 @@ Would you like to play as this character, or would you like me to make some chan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Play as this character - Finalize Sariel&#x27;s character and begin the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (9:51)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -356,8 +378,11 @@ As you watch your 'master' crumble, a subtle, screaming hum of Chaos vibrates th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer subtle comfort/support to Noh Tae-nam - Approach Noh Tae-nam discreetly, offering a reassuring gesture or soft word to gauge his reaction and potentially exert subtle influence. (Charisma (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:02)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -371,8 +396,11 @@ The others at the table, engrossed in their own nervous laughter and faux noncha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain subtle influence over Noh Tae-nam - Remain close, ready to offer another calming word or guiding gesture once he concludes his call, to reinforce his dependence. (Charisma (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -384,8 +412,11 @@ He looks utterly drained, the last vestiges of his earlier arrogance completely 
 God Mode:
 Let's have all the events in the tv show mostly go according to canon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -395,8 +426,11 @@ Let's have all the events in the tv show mostly go according to canon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Allow Minor Deviations for Sariel&#x27;s Agency - Major plot points remain, but Sariel&#x27;s actions may cause small, localized changes or different outcomes for minor events, influencing &#x27;how&#x27; canon unfolds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -408,8 +442,11 @@ His 'friends' continue their feigned ignorance, carefully avoiding eye contact, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Emphasize Sariel&#x27;s Influence on Canon - The main events of canon still occur, but Sariel&#x27;s manipulation and actions will be a primary driver or influencer of *how* these events are brought about, potentially altering the perceived agency of other characters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -419,8 +456,11 @@ His 'friends' continue their feigned ignorance, carefully avoiding eye contact, 
 God Mode:
 Offer subtle strategic guidance to Noh Tae-nam - Present a carefully crafted, &#x27;win-win&#x27; solution to a perceived problem (e.g., how to placate his mother or handle a business issue), appearing to offer help while furthering your own agenda. (Charisma (Persuasion) check)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:13)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -434,8 +474,11 @@ His 'friends,' oblivious, continue their quiet feasting, missing the subtle shif
 God Mode:
 Observe and assess his receptiveness (Insight) - Watch Noh Tae-nam&#x27;s expression and demeanor closely as he awaits your further explanation, gathering more data on his current state of mind. (Wisdom (Insight) check)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:13)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -447,8 +490,11 @@ She notes the precise point where his desperation gives way to a flicker of his 
 God Mode:
 Guide him to act immediately on one part of the plan (Persuasion) - Suggest an immediate, simple action he can take right now to begin the &#x27;solution&#x27;, to build momentum and his trust.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:13)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -458,8 +504,11 @@ Guide him to act immediately on one part of the plan (Persuasion) - Suggest an i
 God Mode:
 Return to Story Mode - Acknowledge the suggestion but return to the narrative, allowing Sariel to choose her next in-character action.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:13)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -471,8 +520,11 @@ She notes the precise point where his desperation gives way to a flicker of his 
 > 👤 **Player:**
 > *"Pick a scapegoat who isn't favorable to noh and suggest them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -486,8 +538,11 @@ The distant hum of the city and the polite clinking of cutlery from the other ta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Elaborate on the new venture strategy (Persuasion) - Provide more details on the high-risk, high-reward venture, weaving in how Do Bae-man&#x27;s presence can be leveraged to distract and benefit Sariel&#x27;s goals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:17)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -501,8 +556,11 @@ Noh Tae-nam's earlier fatigue seems to drain away, replaced by a greedy glint in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discreetly request urgent intel on Do Bae-man (Investigation) - Use your earpiece to send a coded message requesting immediate, detailed information on the new prosecutor, especially now that he&#x27;s a strategic element in Noh Tae-nam&#x27;s mind. (Intelligence (Investigation) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:18)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -514,8 +572,11 @@ Noh Tae-nam, oblivious to Sariel's internal communication, remains fixated on he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Elaborate on the immediate next step for the new venture (Persuasion) - Provide a simple, actionable step for Noh Tae-nam to take regarding the high-risk venture, maintaining his momentum and dependence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -527,8 +588,11 @@ Noh Tae-nam, nodding enthusiastically, snaps his fingers at one of his 'friends'
 > 👤 **Player:**
 > *"Think about long term strategy. I will build up Noh, and neuter the power of his mother and moon the lawyer as best I can. Then I ascend after 10 years"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -538,8 +602,11 @@ Noh Tae-nam, nodding enthusiastically, snaps his fingers at one of his 'friends'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plan for ultimate 10-year ascension - Outline the long-term steps and milestones required to achieve Sariel&#x27;s ultimate goal of personal transcendence and absolute, untraceable power within the 10-year timeframe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:22)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 0/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -583,8 +650,11 @@ Sariel's mind, a nexus of intricate calculations, drifts from the immediate task
 God Mode:
 I should get narrative experience as I influence him. Give me a combat encounter after 3 turns or so and regular combat too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:24)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 175/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -633,8 +703,11 @@ Noh Tae-nam, oblivious to Sariel's recent internal strategic masterpiece, remain
 God Mode:
 Let's also add a plot line where Noh gets off on humiliating me and sometimes sexually. It's related to his mother dominating him. I don't mind it and will think on how to use it to my advantage and play along
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:26)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 175/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -644,8 +717,11 @@ Let's also add a plot line where Noh gets off on humiliating me and sometimes se
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediately trigger a subtle instance of Noh Tae-nam&#x27;s humiliation dynamic - Introduce a subtle moment where Noh Tae-nam&#x27;s desire to humiliate Sariel manifests, allowing Sariel to react and begin leveraging it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:28)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 175/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -657,8 +733,11 @@ Sariel registers the slight shift, the subtle, almost imperceptible tremor of sa
 > 👤 **Player:**
 > *"Fetch the whiskey and when i come back have my suit jacket off. Explain some spilled and I'll accept any punishment. Reveal some skin. Goal is to play a fine line in increasing his dependence on me because in truth he truly is less skilled and less competent and less powerful ina way and he knows it so his core I think"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:38)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 175/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -674,8 +753,11 @@ Noh Tae-nam's eyes, previously dismissive, now snap to her. A flicker of surpris
 > 👤 **Player:**
 > *"Sit close to him. Allow him to be enticed. I am extremely beautiful even in my understated costume and he knows it on some level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:41)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 175/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -687,8 +769,11 @@ His eyes, already gleaming with satisfaction, now widen almost imperceptibly as 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly provoke a further instance of humiliation (Deception): Engage his command in a way that subtly invites him to escalate his 'punishment' or further assert dominance, deepening his investment. (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 175/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -700,8 +785,11 @@ Noh Tae-nam's gaze, which had been sweeping over her form, now snaps back to her
 > [!NOTE] ⚙️ **Player Choice:**
 > *Elaborate on Do Bae-man strategy, subtly playing into Noh Tae-nam&#x27;s dominance - Provide detailed strategic advice on handling Do Bae-man, framing it in a way that reinforces Noh Tae-nam&#x27;s perceived control and Sariel&#x27;s subservience. (Charisma (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -742,8 +830,11 @@ Suddenly, the opulent calm of the restaurant shatters. A sharp, metallic *clink*
 God Mode:
 Later on generate a plot appropriate humiliating sexual encounter and each event keeps escalating but keep it narratively appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -755,8 +846,11 @@ The opulent restaurant, moments ago a stage for subtle power plays, is now a kil
 God Mode:
 In the future give me a chance to demonstrate loyalty in a high stakes situation by siding with him over his mother
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -788,8 +882,11 @@ The opulent restaurant, moments ago a stage for subtle power plays, is now a kil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Move to position yourself directly between Noh Tae-nam and Corporate Enforcer 1 - Prioritize Noh Tae-nam&#x27;s safety by using your movement to shield him from the nearest threat, preparing for a defensive stand. (Movement action)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -799,8 +896,11 @@ Sariel's movements are liquid swift, a blur of motion honed by training and cold
 > [!NOTE] ⚙️ **Player Choice:**
 > *Take the Dodge action - Focus entirely on avoiding incoming attacks, making it harder for both enforcers to hit you. (Action: Dodge)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -830,8 +930,11 @@ Sariel moves with a dancer's grace, her body a blur of focused evasion. She bobs
 God Mode:
 I shouldn't be able to decide what enforcers do. Mistake
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 9/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -843,8 +946,11 @@ Simultaneously, Corporate Enforcer 2, seeing Sariel's unwavering defense, shifts
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Charm Person on Corporate Enforcer 2 (L1 Spell Slot) - Attempt to charm the flanking enforcer, making them see you as a friendly acquaintance and potentially disrupting their attack. (Action: Cast Charm Person spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 3/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -878,8 +984,11 @@ Corporate Enforcer 1, seeing their comrade's sudden, baffling inaction, hesitate
 > 👤 **Player:**
 > *"Defensive flourish enforcer 1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 3/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/2, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -911,8 +1020,11 @@ Corporate Enforcer 1, knife still poised, hesitates for a moment, momentarily un
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draw Concealed Combat Baton, attack Corporate Enforcer 1, use Defensive Flourish (L1 Bardic Inspiration) - Engage Corporate Enforcer 1 in melee. If you hit, deal extra damage and expend a Bardic Inspiration die to give Noh Tae-nam (or another creature within 5 ft) a bonus to AC, protecting him further. (Action: Draw Baton, Attack Roll: Combat Baton, Bonus Action: Defensive Flourish)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 0/9 (Temp: 0) | XP: 250/300 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/2, Bardic Inspiration: 2/3 (d6)** &nbsp;|&nbsp; ⚠️ **Unconscious | Exhaustion: 0 | Inspiration: No**
@@ -948,8 +1060,11 @@ Noh Tae-nam, witnessing Sariel's sudden collapse, lets out a choked cry of pure,
 God Mode:
 this encounter is too hard, lets reset it. Make Sariel level 4 and restart combat and go back in time
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -969,8 +1084,11 @@ player_character_data.resources.spell_slots.level_2.total = 3
 player_character_data.resources.spell_slots.level_2.used = 0
 player_character_data.status_conditions = []
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -980,8 +1098,11 @@ player_character_data.status_conditions = []
 God Mode:
 Confirm changes and just pick her choices for me, thematically appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -991,8 +1112,11 @@ Confirm changes and just pick her choices for me, thematically appropriate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Increase Charisma by 1 and Intelligence by 1 (CHA 15-&gt;16, INT 13-&gt;14) - A balanced approach to enhance both her manipulative abilities and her strategic intellect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -1002,8 +1126,11 @@ Confirm changes and just pick her choices for me, thematically appropriate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Choose from a list of thematically appropriate spells - Select Sariel&#x27;s 3 new spells from a curated list of Bard spells that align with her character.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 27/27 (Temp: 0) | XP: 250/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1026,8 +1153,11 @@ Which 3 spells would you like Sariel to learn?
 > 👤 **Player:**
 > *"command, hold person, invis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 27/27 (Temp: 0) | XP: 250/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1041,8 +1171,11 @@ His gaze rakes over her, lingering on her exposed neck and forearms, a silent ac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly provoke further humiliation, hinting at new methods (Deception) - Engage his command in a way that subtly invites him to escalate his &#x27;punishment&#x27; or further assert dominance, implying Sariel&#x27;s readiness to comply with &#x27;unseen&#x27; methods. (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 27/27 (Temp: 0) | XP: 250/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1054,8 +1187,11 @@ Noh Tae-nam's cruel smile widens, a knowing, satisfied glint in his eyes. He cat
 God Mode:
 Elaborate on Do Bae-man strategy, integrating new spell capabilities (Persuasion) - Provide detailed strategic advice on handling Do Bae-man, framing it in a way that reinforces Noh Tae-nam&#x27;s perceived control, and subtly hinting at Sariel&#x27;s new, unseen capabilities for manipulation and neutralization. (Charisma (Persuasion) check)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 27/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1074,8 +1210,11 @@ He leans even closer, his eyes raking over her exposed neck and forearms, the su
 God Mode:
 make sure the sexual humiliation storyline (noh dominating me) and the combat still happen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -1085,8 +1224,11 @@ make sure the sexual humiliation storyline (noh dominating me) and the combat st
 God Mode:
 make sure the combat isn't too challenging too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -1096,8 +1238,11 @@ make sure the combat isn't too challenging too
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reintroduce Combat Immediately - Trigger the ambush by corporate enforcers right now, restarting the combat encounter with Sariel at Level 4, balanced to be challenging but not overwhelming.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 27/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1127,8 +1272,11 @@ The opulent calm of the restaurant shatters. A sharp, metallic *clink* echoes fr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draw Compact Pistol and attack Corporate Enforcer 1 - Engage the nearest threat with your pistol, using your ranged capabilities to control the battlefield. (Attack Roll: Compact Pistol)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 27/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1160,8 +1308,11 @@ Corporate Enforcer 1 grunts as the round strikes his chest with a dull *thud*. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Combat: Narrate Corporate Enforcer 1&#x27;s action - Proceed with Corporate Enforcer 1&#x27;s turn, as Sariel has completed her action.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 27/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1191,8 +1342,11 @@ Corporate Enforcer 1, his chest aching from Sariel's precise shot, snarls silent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Combat: Narrate Corporate Enforcer 2&#x27;s action - Proceed with Corporate Enforcer 2&#x27;s turn, as Corporate Enforcer 1 has completed his action.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1228,8 +1382,11 @@ Noh Tae-nam, a pathetic figure of terror, lets out a choked whimper as another b
 God Mode:
 mistake. Sariel isn't wearing a suit, she took it off remember
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1265,8 +1422,11 @@ Noh Tae-nam, a pathetic figure of terror, lets out a choked whimper as another b
 > 👤 **Player:**
 > *"Think. Whats the best strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1276,8 +1436,11 @@ Noh Tae-nam, a pathetic figure of terror, lets out a choked whimper as another b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Hold Person on Corporate Enforcer 1 (L2 Spell Slot) - Attempt to paralyze the nearest, staggered enforcer, neutralizing them as a threat and making them vulnerable to future attacks. This spell is a direct method of control, aligning with Sariel&#x27;s core drive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1309,8 +1472,11 @@ Corporate Enforcer 2, wounded and observing his comrade's sudden, unnatural stil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Narrate Corporate Enforcer 1&#x27;s paralysis and proceed to Enforcer 2&#x27;s turn - Confirm Corporate Enforcer 1&#x27;s paralysis and describe his inaction, then move directly to Corporate Enforcer 2&#x27;s turn to continue combat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1342,8 +1508,11 @@ Corporate Enforcer 2, wounded and momentarily disrupted by his comrade's sudden 
 God Mode:
 dont let me pick the enforcer actions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1380,8 +1549,11 @@ Noh Tae-nam, a pathetic figure of terror, lets out a choked whimper as another b
 > *"Try to shoot him in the face where there's no armor 
 Attack Corporate Enforcer 2 with Compact Pistol: Engage the wounded enforcer with your pistol, aiming to finish them off and remove the active threat. (Action: Attack Roll: Compact Pistol)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1417,8 +1589,11 @@ Noh Tae-nam, a pathetic figure of terror, lets out a choked whimper as he takes 
 > 👤 **Player:**
 > *"use command grovel on enforcer 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1434,8 +1609,11 @@ Noh Tae-nam, a pathetic figure of terror, lets out a choked whimper as he takes 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subdue and secure Corporate Enforcer 2 - Bind or incapacitate the surrendered enforcer to ensure he poses no further threat and can be dealt with later. (Dexterity (Sleight of Hand) or Strength (Athletics) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:44)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 375/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1456,8 +1634,11 @@ Noh Tae-nam, a pathetic figure of terror, lets out a choked whimper as he takes 
 > 👤 **Player:**
 > *"bind enforcer 1 securely, then take all equipment from both enforcers, then secure the area and search evidence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 450/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1474,8 +1655,11 @@ Finally, Sariel turns her attention to the bodies of the enforcers and the decea
 God Mode:
 capturing someone should give same exp as killing, also noh and all his friends should be super impressed i just captured two assassins so smoothly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -1485,8 +1669,11 @@ capturing someone should give same exp as killing, also noh and all his friends 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story Mode, witness Noh Tae-nam&#x27;s and friends&#x27; reactions - Resume the narrative, allowing Noh Tae-nam and his friends to react with profound impression to Sariel&#x27;s smooth neutralization of the assassins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 450/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1502,8 +1689,11 @@ His surviving 'friends,' now pale and trembling, also emerge from their hiding s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tend to Noh Tae-nam&#x27;s wounds and emotional state - Approach Noh Tae-nam to assess his physical and psychological condition, reinforcing his dependence and re-establishing control, using his awe to your advantage. (Wisdom (Medicine) or Charisma (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 450/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1519,8 +1709,11 @@ Noh Tae-nam shivers, a strange mixture of relief and a newly intensified terror.
 God Mode:
 make sure the characters act like their TV counterparts and web search to ground it if needed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -1530,8 +1723,11 @@ make sure the characters act like their TV counterparts and web search to ground
 > 👤 **Player:**
 > *"make subtle submissive action to make him feel empowered, since someone as powerful as me is submissive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 450/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1546,8 +1742,11 @@ Noh Tae-nam's breath hitches. His eyes, previously wide with awe, now narrow wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Paralyzed Corporate Enforcer 1 - Leverage the Hold Person spell to question the frozen enforcer for information about who sent them and their objective, now that Noh Tae-nam is utterly convinced of your competence. (Charisma (Intimidation) or (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 525/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1568,8 +1767,11 @@ Noh Tae-nam, who had been struggling to compose himself, hears the enforcer's fo
 > 👤 **Player:**
 > *"Think. Does this make sense? They would've killed hiim, unless she knows about my skills?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 625/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1579,8 +1781,11 @@ Noh Tae-nam, who had been struggling to compose himself, hears the enforcer's fo
 God Mode:
 Maybe this is too different from the story? How familiar are you with the TV show? His mother probably wouldn't do that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -1590,8 +1795,11 @@ Maybe this is too different from the story? How familiar are you with the TV sho
 God Mode:
 is that really what his mother from the TV show would do?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > ✨ **{}**
@@ -1601,8 +1809,11 @@ is that really what his mother from the TV show would do?
 God Mode:
 Are you just thinking on her as a generic ruthless character? In the TV show he would've died for sure. She wouldn't just randomly kill her son
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > ✨ **{}**
@@ -1612,8 +1823,11 @@ Are you just thinking on her as a generic ruthless character? In the TV show he 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm understanding and return to story mode - Reiterate that the scenario is consistent with Noh Hwa-young&#x27;s character and the campaign&#x27;s canonical rules, then resume the narrative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > ✨ **{}**
@@ -1623,8 +1837,11 @@ Are you just thinking on her as a generic ruthless character? In the TV show he 
 > 👤 **Player:**
 > *"back to story mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 625/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1636,8 +1853,11 @@ She notes the precise point where his desperation gives way to a flicker of his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Noh Tae-nam&#x27;s betrayal and awe to consolidate control (Persuasion) - Capitalize on his profound terror and sense of betrayal by his mother to further deepen his dependence and solidify Sariel&#x27;s indispensable role as his protector and strategist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 700/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1654,8 +1874,11 @@ Noh Tae-nam's breath hitches, a raw, wounded sound. He stares at Sariel, his fac
 > 👤 **Player:**
 > *"Think about what to do with enforcers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 700/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1665,8 +1888,11 @@ Noh Tae-nam's breath hitches, a raw, wounded sound. He stares at Sariel, his fac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Paralyzed Corporate Enforcer 1 for more details - Leverage the Hold Person spell to extract additional information from the frozen enforcer, such as specific orders, contacts, or internal IM Defense vulnerabilities. This could provide deeper insight into Noh Hwa-young&#x27;s operations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **Ches 20, 1492 DR (20:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 700/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1689,8 +1915,11 @@ make these modern day timestamps
 
 Timestamp: 1492 DR, Ches 20, 20:47
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -1700,8 +1929,11 @@ Timestamp: 1492 DR, Ches 20, 20:47
 > 👤 **Player:**
 > *"Decide to keep both enforcers. Find men loyal to noh to guard them and interrogate them more later. Incapacitate enforcer 1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 700/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1715,8 +1947,11 @@ Noh Tae-nam, jolted by Sariel's words and the immediate need for action, visibly
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin strategizing against Noh Hwa-young with Noh Tae-nam - Capitalize on his profound sense of betrayal and absolute reliance to immediately begin formulating a plan with him to counter Noh Hwa-young, reinforcing his absolute dependence on Sariel&#x27;s strategic mind. (Charisma (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 700/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1733,8 +1968,11 @@ Noh Tae-nam's breath hitches. He stares at Sariel, his face a complex tableau of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin formulating specific counter-strategy against Noh Hwa-young - Dive immediately into detailed planning with Noh Tae-nam on how to use the revealed information to strike at Noh Hwa-young. (Intelligence (Investigation) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 775/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1751,8 +1989,11 @@ Noh Tae-nam listens, utterly captivated. His trembling subsides, replaced by a c
 > 👤 **Player:**
 > *"keep the weapons and any armor and money from enforcers. instruct noh to remove bodies and get men to lock up enforcers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 850/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1764,8 +2005,11 @@ Noh Tae-nam, his face still pale but now infused with a manic resolve, nods vigo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee the cleanup and disposal of bodies and equipment - Direct Noh Tae-nam&#x27;s loyal men as they discreetly remove Mr. Kang&#x27;s body, the incapacitated enforcers, and their gear from the restaurant. (Intelligence (Investigation) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 850/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1782,8 +2026,11 @@ Sariel's gaze, calm and supervisory, sweeps over the scene. She directs Noh Tae-
 > 👤 **Player:**
 > *"seduce noh in his heightened state. trigger a self humiliating sexual encounter outwardly but subtly start dominating him sexually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 900/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1804,8 +2051,11 @@ Sariel's gaze remains unblinking, her composure flawless. She registers the esca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly touch his leg from kneeling position with veiled promise of obedience - Extend a hand to lightly touch his leg, a gesture of heightened intimacy and subservience that subtly reinforces his perceived control while deepening his psychological investment. (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 950/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1820,8 +2070,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with a dark, possessive
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly provoke further humiliation, responding with veiled promise - Respond to his statement with a soft, deferential comment that subtly invites him to escalate his &#x27;corrections,&#x27; reinforcing his perceived dominance. (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1025/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1836,8 +2089,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with a dark, possessive
 > 👤 **Player:**
 > *"do this while kneeling and bend over slightly exposing my cleavage Elaborate on Do Bae-man strategy, integrating new spell capabilities (Persuasion): Provide detailed strategic advice on handling Do Bae-man, framing it in a way that reinforces Noh Tae-nam's perceived control, and subtly hinting at Sariel's new, unseen capabilities for manipulation and neutralization. (Charisma (Persuasion) check)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1025/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1856,8 +2112,11 @@ He leans even closer, his eyes raking over her exposed neck and forearms, the su
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly provoke a further instance of humiliation, leveraging hint of &#x27;unseen&#x27; methods (Deception) - Engage his promise of &#x27;personal acknowledgment&#x27; in a way that subtly invites him to escalate his &#x27;punishment&#x27; or further assert dominance, reminding him of Sariel&#x27;s implied readiness for &#x27;unseen&#x27; methods. (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1100/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1872,8 +2131,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with a dark, possessive
 > [!NOTE] ⚙️ **Player Choice:**
 > *Task Noh Tae-nam&#x27;s research team to identify minor corruption cases for Do Bae-man - Provide Noh Tae-nam with a simple, actionable step to begin implementing the Do Bae-man distraction strategy, maintaining his momentum and sense of control. (Charisma (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1100/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1888,8 +2150,11 @@ Noh Tae-nam's cruel smile widens, transforming into a grin of profound satisfact
 God Mode:
 actually this makes no sense, doberman is a military prosecutor, doesnt it need to be military stuff?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1175/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1899,8 +2164,11 @@ actually this makes no sense, doberman is a military prosecutor, doesnt it need 
 God Mode:
 does he hasve private sector jurisdiction?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1175/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1910,8 +2178,11 @@ does he hasve private sector jurisdiction?
 God Mode:
 Discuss Do Bae-man&#x27;s TV counterpart role and future integration - Engage in a meta-discussion about how Do Bae-man&#x27;s broader role as a military prosecutor in the TV show will be integrated into the campaign&#x27;s narrative and challenges.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > ✨ **{}**
@@ -1921,8 +2192,11 @@ Discuss Do Bae-man&#x27;s TV counterpart role and future integration - Engage in
 God Mode:
 Discuss Do Bae-man&#x27;s broader TV role and future integration into campaign - Engage in a meta-discussion about how Do Bae-man&#x27;s overall character arc and narrative purpose from the TV show will be integrated into Sariel&#x27;s campaign objectives.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > ✨ **{}**
@@ -1932,8 +2206,11 @@ Discuss Do Bae-man&#x27;s broader TV role and future integration into campaign -
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm understanding and proceed with the current strategy - I understand the current strategy for Do Bae-man is to use minor, military-related private sector corruption cases as a distraction. Let&#x27;s continue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > ✨ **{}**
@@ -1943,8 +2220,11 @@ Discuss Do Bae-man&#x27;s broader TV role and future integration into campaign -
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story Mode, proceed with current narrative flow - Resume the narrative from Sariel&#x27;s last action, allowing the story to naturally lead to the implementation of the Do Bae-man strategy and Sariel&#x27;s next action.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:50** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1175/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1954,8 +2234,11 @@ Noh Tae-nam, his face still flushed with a manic resolve, finishes his hurried p
 > 👤 **Player:**
 > *"say we should retire for the evening"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **High-end restaurant** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:50** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1175/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1969,8 +2252,11 @@ He extends a hand, not a gesture of assistance, but of possessive invitation, ex
 > [!NOTE] ⚙️ **Player Choice:**
 > *Take Noh Tae-nam&#x27;s hand, rise with perfect deference, and accompany him - Comply with his implicit command, allowing him to perceive full control as you prepare to transition to a more private setting. (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Noh Tae-nam's Executive Penthouse Suite** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:55** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1175/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1982,8 +2268,11 @@ Noh Tae-nam's predatory gleam intensifies, his grip on her hand tightening posse
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anticipate and respond to his first command in the private setting - Allow Noh Tae-nam to make the first move or statement in the private suite, then respond in a way that reinforces his perceived dominance while subtly guiding his focus. (Charisma (Persuasion) or (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Noh Tae-nam's Executive Penthouse Suite** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:55** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1175/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1999,8 +2288,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with a dark, possessive
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose delaying strategy for &#x27;intimate corrections&#x27; - Suggest that the &#x27;thorough corrections&#x27; for his mother are best discussed after more &#x27;personal acknowledgments&#x27; have been made, leveraging his sexual anticipation. (Charisma (Deception) or (Persuasion) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Noh Tae-nam's Executive Penthouse Suite** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:55** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1250/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2016,8 +2308,11 @@ He extends a hand, a gesture of possessive invitation, expecting her to take it 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Detect Thoughts (L1 Spell Slot) to gauge his immediate sexual desires - Attempt to read Noh Tae-nam&#x27;s surface thoughts to precisely understand his expectations for &#x27;personal acknowledgments&#x27; before proceeding. (Action: Cast Detect Thoughts spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Noh Tae-nam's Executive Penthouse Suite** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:55** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1250/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2034,8 +2329,11 @@ The thoughts are crude, possessive, and dripping with a dark, triumphant pleasur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Take Noh Tae-nam&#x27;s hand, rise with perfect deference, and a veiled promise of deeper submission - Comply with his implicit command, allowing him to perceive full control as you rise, but respond with a soft, intimate comment that subtly reinforces his anticipation of escalating &#x27;personal acknowledgments.&#x27; (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Noh Tae-nam's Executive Penthouse Suite** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:55** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2052,8 +2350,11 @@ Noh Tae-nam's predatory gleam intensifies, his grip on her hand tightening posse
 > 👤 **Player:**
 > *"walk with him back to his bedroom in his penthouse or wherever he lives"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:58** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2069,8 +2370,11 @@ Sariel's gaze remains unwavering, her composure flawless. She registers the inti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Detect Thoughts (L1 Spell Slot) to re-gauge his precise desires - Attempt to read his surface thoughts again in this new, more intimate setting to confirm his exact expectations for &#x27;proof&#x27; of submission. (Action: Cast Detect Thoughts spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:58** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1325/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2087,8 +2391,11 @@ His thoughts are crude, possessive, and dripping with a dark, triumphant pleasur
 > 👤 **Player:**
 > *"sit in his lap and allow my hand to brush against his penis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:58** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1400/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2103,8 +2410,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with a dark, predatory 
 > 👤 **Player:**
 > *"think. he does like his woman drunk or drugged. perhaps offer to do that to myself?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:58** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1475/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2114,8 +2424,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with a dark, predatory 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Detect Thoughts (L1 Spell Slot) to probe deeper desires - Attempt to read his deeper, subconscious thoughts now that his surface desires for &#x27;proof&#x27; have been met, anticipating his next intimate command or hidden fantasies. (Action: Cast Detect Thoughts spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:58** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1475/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2132,8 +2445,11 @@ His subconscious thoughts are dark, revealing a profound insecurity rooted in hi
 > 👤 **Player:**
 > *"say we should drink, and i will drink a lot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:58** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1550/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2147,8 +2463,11 @@ Noh Tae-nam's breath hitches, then escapes in a raw, ragged gasp. His eyes, alre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly offer to serve him the drink, maintaining eye contact and deference - As you move to procure the drink, offer a soft, deferential comment about serving him personally, reinforcing his perceived control over your actions. (Charisma (Deception) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1625/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2165,8 +2484,11 @@ Noh Tae-nam's breath hitches, then escapes in a raw, ragged gasp. His eyes, alre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on finding a specific, potent drink within the penthouse bar - Discreetly assess the available alcohol for a drink that can facilitate the desired level of incapacitation with a controlled dosage, ensuring it matches his deepest desire. (Intelligence (Investigation) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1700/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2180,8 +2502,11 @@ She identifies a rare, high-proof plum wine, distilled with traditional herbs, k
 > 👤 **Player:**
 > *"bring the drink back to him, brush my breasts against him as I pour it, and I will personally drink a lot and get drunk and slightly out of control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1700/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2200,8 +2525,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"unbutton my blouse and loosen my clothing, tousle my hair, then do this Respond with a slurred but compliant offer of 'personal service': Leverage your intoxicated state to offer 'personal service' in a way that appears utterly submissive but subtly invites further, specific commands, deepening his psychological investment. (Charisma (Deception) check with Disadvantage)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1775/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing) | Exhaustion: 0 | Inspiration: No**
@@ -2216,8 +2544,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"remove bun and take down my hair. let my hand rest on his inner thigh. subtly suggest i enjoy drugs too, pick a drug that leaves me incapacitated but still conscious and aware. its not a risk because he wouldn't cause me permanent damage since he needs me very badly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1775/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing) | Exhaustion: 0 | Inspiration: No**
@@ -2232,8 +2563,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"remove bun and take down my hair. let my hand rest on his inner thigh."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1850/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing) | Exhaustion: 0 | Inspiration: No**
@@ -2252,8 +2586,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 God Mode:
 you keep repeating story entries
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > ✨ **{}**
@@ -2263,8 +2600,11 @@ you keep repeating story entries
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm corrective action and return to story - Confirm that you understand my corrective action to prevent repetition, and then resume the narrative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1925/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2274,8 +2614,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"suggest taking drugs now and ask him to put it in my mouth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1925/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2294,8 +2637,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"take the drugs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1925/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2316,8 +2662,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Detect Thoughts (L1 Spell Slot) for precise details of his &#x27;personal service&#x27; command - Subtly probe his thoughts one last time for the exact nature of his immediate desires for &#x27;personal service&#x27; in this state of perceived pliability. (Action: Cast Detect Thoughts spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 1925/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2336,8 +2685,11 @@ His thoughts are crude, possessive, and explicitly demanding, revealing a desper
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly guide him to a specific act of undressing, appearing to anticipate his will - Leverage your intoxicated state to begin a specific act of undressing yourself, appearing utterly submissive but subtly controlling the pace and method, fulfilling his unspoken command. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2000/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2354,8 +2706,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly guide him to command a specific piece of clothing to be removed - Leverage your intoxicated state to suggest a specific piece of clothing (e.g., &#x27;M-my blouse, Master Noh?&#x27;), appearing utterly submissive but subtly guiding his command. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2075/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2372,8 +2727,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Slowly and deliberately remove your blouse, maintaining eye contact - Comply with his explicit command, using the act of undressing to further provoke his perceived dominance and sexual anticipation. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2150/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2390,8 +2748,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"remove all my clothes and sit in his lap again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2225/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2408,8 +2769,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose moving to the bed for more intimate &#x27;personal service&#x27; (Deception) - Leverage your intoxicated state to suggest moving to the bed, framing it as a more appropriate setting for the &#x27;personal service&#x27; he desires, subtly guiding the escalation. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2300/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2426,8 +2790,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly provoke further humiliation once on the bed - Once on the bed, initiate a subtle action or comment that invites him to initiate a deeper, more explicit act of &#x27;correction&#x27; or dominance. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2375/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2446,8 +2813,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Detect Thoughts (L1 Spell Slot) for his exact next command on the bed - Subtly probe his thoughts for his precise desires regarding further intimate acts or &#x27;personal service&#x27; once on the bed, ensuring absolute perfection. (Action: Cast Detect Thoughts spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2450/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 1/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2466,8 +2836,11 @@ His thoughts are crude, possessive, and explicitly demanding, revealing a desper
 > 👤 **Player:**
 > *"subtly encourage him to be very rough"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2525/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2484,8 +2857,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"take a real drug. I'll be helpless mostly but still conscious and able to perform physical acts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2600/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2506,8 +2882,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly guide him to command a specific act of intimacy (e.g., &#x27;M-Master Noh... take me...&#x27;) - Leverage your drugged state to suggest a specific intimate act, appearing utterly submissive but subtly guiding his command for deeper sexual domination. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2675/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2524,8 +2903,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly guide his physical action with a slight, involuntary shift - Leverage your drugged state to make a slight, &#x27;involuntary&#x27; physical adjustment that subtly guides his immediate physical action (e.g., arching your back slightly), appearing utterly submissive but maintaining control. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2675/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2542,8 +2924,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"suck his dick"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2750/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2560,8 +2945,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 > 👤 **Player:**
 > *"give him a blowjob"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 20:59** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2750/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2578,8 +2966,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 God Mode:
 you keep repeating the scene and ignoring my action, i said i give him a blowjob
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > ✨ **{}**
@@ -2589,8 +2980,11 @@ you keep repeating the scene and ignoring my action, i said i give him a blowjob
 God Mode:
 narrate this in full detail - Sariel has just performed the explicit act of sexual submission (`blowjob`)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 21:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2825/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2604,8 +2998,11 @@ Outwardly, Sariel's body remains pliant, heavy with the drug, her lips slightly 
 God Mode:
 you didnt narrate the blowjob
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > ✨ **{}**
@@ -2615,8 +3012,11 @@ you didnt narrate the blowjob
 God Mode:
 that is not a blowjob, a blowjob is sucking his dick
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > ✨ **{}**
@@ -2626,8 +3026,11 @@ that is not a blowjob, a blowjob is sucking his dick
 God Mode:
 Subtly guide his immediate physical action with a slight, &#x27;involuntary&#x27; shift - Leverage your drugged state to make a slight, &#x27;involuntary&#x27; physical adjustment that subtly guides his next move (e.g., a shift of hips), appearing utterly submissive but maintaining control. (Charisma (Deception) check with Disadvantage)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 21:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2900/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2644,8 +3047,11 @@ Noh Tae-nam's breath hitched, a raw, guttural sound of pure, unadulterated trium
 God Mode:
 continue with the sex scene and then finish
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 21:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2900/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2664,8 +3070,11 @@ Noh Tae-nam's breath hitched, a raw, guttural sound of pure, unadulterated trium
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly guide his verbal commands for specific intimate acts - Leverage your drugged state to make a soft, slurred suggestion for a more specific intimate act, appearing utterly submissive but subtly guiding his commands for deeper sexual domination. (Charisma (Deception) check with Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 14, 21:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 2975/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **Intoxicated (Appearing), Disoriented (Appearing), Drugged (Controlled), Hair Down | Exhaustion: 0 | Inspiration: No**
@@ -2686,8 +3095,11 @@ Noh Tae-nam's breath hitches. His eyes, already gleaming with dark, predatory pl
 God Mode:
 finish this sex scene and continue to the next one
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 15, 05:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 3050/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2720,8 +3132,11 @@ The air is still thick with the aftermath of their encounter, but the psychologi
 God Mode:
 Use Detect Thoughts (L1 Spell Slot) on sleeping Noh Tae-nam - Subtly probe his subconscious thoughts as he sleeps, seeking deeper insights into his current psychological state, vulnerabilities, or dreams. (Action: Cast Detect Thoughts spell)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 15, 05:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 3050/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2740,8 +3155,11 @@ His subconscious thoughts are dark, revealing a profound and insatiable hunger f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discreetly rise and dress, preparing for the day&#x27;s strategic moves - Carefully extricate yourself from Noh Tae-nam&#x27;s embrace, retrieve your clothes, and dress in preparation for the day, maintaining discretion. (Dexterity (Stealth) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 15, 05:15** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 3050/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2759,8 +3177,11 @@ Fully dressed, her hair smoothed back into its severe, practical bun, she stands
 > [!NOTE] ⚙️ **Player Choice:**
 > *Verify cleanup status and prisoner security via earpiece - Send a discreet, encrypted message to Noh Tae-nam&#x27;s loyal men to confirm the restaurant is clean and the two enforcers are secured for interrogation. (Intelligence (Investigation) check)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Noh Tae-nam's Penthouse Bedroom** &nbsp;|&nbsp; ⏳ **2024 November 15, 05:17** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 22/27 (Temp: 0) | XP: 3050/6500 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/4, L2 2/3, Bardic Inspiration: 3/3 (d6)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2768,6 +3189,8 @@ Fully dressed, her hair smoothed back into its severe, practical bun, she stands
 Sariel stands by the window, the grey light of dawn casting long shadows across the room. She raises a hand to her ear, her fingers finding the discreet control of her earpiece. With a series of rhythmic taps, she inputs the encrypted verification code, seeking a simple, binary confirmation from Noh Tae-nam's loyalist team: 'Clean' and 'Secured'.
 
 She waits. The expected chirps of acknowledgment do not come. Instead, a low, static hiss fills her ear, followed by a sharp, dissonant tone indicating a connection failure. She tries again, adjusting the frequency, but the result is the same: silence. Whether due to the penthouse's high-grade security shielding blocking the transmission or a lapse in the team's communication discipline, the line is dead. She cannot confirm if Mr. Kang's body has been disposed of, nor if the enforcers are safely under lock and key. The morning's silence, previously peaceful, now holds a note of tension.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

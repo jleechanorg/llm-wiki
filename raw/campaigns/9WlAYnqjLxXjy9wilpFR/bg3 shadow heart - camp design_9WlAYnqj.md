@@ -12,45 +12,61 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (24 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Play as shadowheart after events of bg3. She sided with shar, became level 12, and is leading the sharran sect. She has the best gear possible that is suited to her from the video game. She is a paladin 5, level 7 death cleric. When we start take me through character creation and give me choiecs on plot arcs but don't give full detail or spoilers. I want to amass power, wealth, influence, networks, friends, companions.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -110,8 +126,11 @@ Does this character sheet and the initial companions align with your vision, Hig
 
 isn't lyra on banned names list? Those items aren't in the video game bg3?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -198,8 +217,11 @@ God Mode:
 God Mode:
 10 whys. why did you use lrya
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -239,8 +261,11 @@ give me viconia shield, the rings that can guarantee crits, the arcane acuity he
 God Mode:
 give me viconia shield, the rings that can guarantee crits, the arcane acuity helm. focus my attributes on cha,dex,con
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -277,8 +302,11 @@ change shars spear of the evening to use my spellcasting modifier for attack rol
 > 👤 **Player:**
 > *"change shars spear of the evening to use my spellcasting modifier for attack rolls."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -312,8 +340,11 @@ What would you like to do next?
 God Mode:
 wait why did you start the campaign? we are still in creation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -385,8 +416,11 @@ What would you like to do next, High Seeker?
 God Mode:
 my companions don't seem like sharrans. fix it. feat +2 cha and alert. I should have way more gold because i lead all the sharrans in bg3. Make me start in the sharran house of grief or whatever its called. Shar's spear of the evening uses the str mod, replace with cha. Pick the spells for me. Do not start yet, I wanna design the campaign and plot too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -418,8 +452,11 @@ We are still in the character creation / campaign design phase. The narrative wi
 God Mode:
 i also used the mirror of loss so i get another 2 cha and 1 from patriar memory. Give me some plot ideas/arcs without spoilers. Shar should be heavily featured since I am her Chosen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -469,8 +506,11 @@ What would you like to do next?
 God Mode:
 I like 4 and 5. I also want to incorporate the netherese crown. I also want all the bg3 companions featured and they can become allies or enemies as appropriate.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -497,8 +537,11 @@ What would you like to do next?
 God Mode:
 for 1-4 pick for me. or without spoilers any input you really need from me to make decisions?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -576,8 +619,11 @@ mid game and maybe narrative op
 
 astarion, minthara first
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -612,8 +658,11 @@ What would you like to do next?
 God Mode:
 1. **Affirm Readiness:** Declare your readiness to begin the campaign.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -648,8 +697,11 @@ What would you like to do first, High Seeker?
 God Mode:
 give me a better name than high seeker
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -698,8 +750,11 @@ What is your chosen title?
 God Mode:
 4.  **Night Sovereign:** Emphasizes your absolute authority within Shar's domain and over her followers.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -737,8 +792,11 @@ What would you like to do first, Night Sovereign?
 > 👤 **Player:**
 > *"4. **Consolidate power within Shar's House of Grief:** Spend time organizing resources, training agents, or planning future moves from within your base."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -789,8 +847,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"think. success rates and what can i parallelize and delegate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -837,8 +898,11 @@ I see several options before me, each contributing to our dominion:
 
 think. recommend some ordering here and what can be parallelized or delegated"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -887,8 +951,11 @@ I see several options before me, each contributing to our dominion:
 > 👤 **Player:**
 > *"1.  **Lead with Grand Strategic Refinement, then Delegate:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -921,8 +988,11 @@ What would you like to do next, Night Sovereign?
 God Mode:
 Something is wrong. I am shadowheart Shadowheart
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -957,8 +1027,11 @@ God Mode:
 This sentence makes no sense. Shadowheart and the night sovereign are the same person. What entities do you have? 
 Shadowheart approaches, her movements graceful and silent. She takes a position at your side, her gaze unwavering, echoing your own focused intensity. "The foundations are laid, Night Sovereign," she murmurs, her voice a low, resonant hum. "Now, the edifice of despair must rise. How shall we begin to crumble their light?"
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -979,8 +1052,11 @@ Thank you for catching this critical error. The integrity of your identity and t
 God Mode:
 10 whys. why did you screw it up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1041,8 +1117,11 @@ make a good starting campaign prompt for this campaign. I wanna restart it in a 
 
 it should be as detailed as this example. ask me questions if needed.\
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -1166,8 +1245,11 @@ The Gryphon Helm: Your iconic helmet, marking you as a knight of your order.
 Starting Abilities:
 You begin with Level 1 Paladin abilities: Divine Sense and Lay on Hands. Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1208,8 +1290,11 @@ What would you like to do next?
 God Mode:
 No i want you to make a campaign for shadowheart as detailed as the ser arion prompt. i dont wanna play as ser arion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1269,6 +1354,8 @@ What would you like to do next, Night Sovereign?
 3. **Initiate a specific 'Infiltration of the Divine' operation:** Select a target or method to begin subtly undermining a light deity.
 4. **Initiate a specific 'Cultivating the Perfect Despair' operation:** Choose a community or approach to begin sowing discord.
 5. **Other:** You can also describe a different action you'd like to take.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

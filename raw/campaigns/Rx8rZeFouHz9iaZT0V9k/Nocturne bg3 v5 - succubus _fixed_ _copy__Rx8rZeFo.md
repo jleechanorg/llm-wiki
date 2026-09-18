@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (669 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 II. Campaign Context: The Long Defeat (this is in the past)
@@ -608,685 +619,690 @@ Option B: Use Minor Illusion (if learned) to distract them.
 Option C: Drink your one Potion of Healing (Bonus Action) and Play Dead.
 Option D: Use Pheromone Spike (Bonus Action Command) if the DM allows the Level 4 feature to "glitch" early due to the crash trauma (High Risk).
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Ravaged Beach | Eleasias 20, 1492 DR (12:00) | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
-| **04** | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
-| **05** | The Ravaged Beach | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **06** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **07** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **08** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **09** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **10** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **11** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **12** | The Ravaged Beach | Mirtul 20, 1492 DR (12:10) | Roleplay |
-| **13** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **14** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **15** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **16** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **17** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **18** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **19** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **20** | The Ravaged Beach | Mirtul 20, 1492 DR (Midday) | Roleplay |
-| **21** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **22** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **23** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **24** | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
-| **25** | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
-| **26** | Nautiloid Hull (Exterior Wreckage) | Mirtul 20, 1492 DR (13:00) | Roleplay |
-| **27** | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:05) | Roleplay |
-| **28** | The Ravaged Beach (Nautiloid Wreckage) | Mirtul 20, 1492 DR (13:05) | Roleplay |
-| **29** | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:10) | Social Challenge |
-| **30** | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:15) | Roleplay |
-| **31** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:25) | Roleplay |
-| **32** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:30) | Roleplay |
-| **33** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
-| **34** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
-| **35** | The Ravaged Beach (Cliffs) | Mirtul 20, 1492 DR (13:45) | Roleplay |
-| **36** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
-| **37** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **38** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **39** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
-| **40** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **41** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:10) | Roleplay |
-| **42** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **43** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **44** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:15) | Roleplay |
-| **45** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:30) | Roleplay |
-| **46** | The Ravaged Beach (Northward Cliffs) | Mirtul 20, 1492 DR (15:45) | Roleplay |
-| **47** | The Ancient Door (Cliffside Plateau) | Mirtul 20, 1492 DR (16:00) | Roleplay |
-| **48** | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
-| **49** | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
-| **50** | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **51** | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:45) | Roleplay |
-| **52** | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:00) | Roleplay |
-| **53** | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:15) | Roleplay |
-| **54** | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
-| **55** | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
-| **56** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:35) | Roleplay |
-| **57** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:45) | Roleplay |
-| **58** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:55) | Roleplay |
-| **59** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:05) | Roleplay |
-| **60** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:15) | Roleplay |
-| **61** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:10) | Roleplay |
-| **62** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:25) | Roleplay |
-| **63** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:35) | Social Challenge |
-| **64** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:36) | Roleplay |
-| **65** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:37) | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:42) | Roleplay |
-| **69** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:44) | Roleplay |
-| **70** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:46) | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:48) | Roleplay |
-| **73** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:00) | Roleplay |
-| **74** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:15) | Roleplay |
-| **75** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:16) | Boss Surrender |
-| **76** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:21) | Roleplay |
-| **77** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:36) | Boss Surrender |
-| **78** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:41) | Roleplay |
-| **79** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:01) | Roleplay |
-| **80** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:03) | Roleplay |
-| **81** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:04) | Roleplay |
-| **82** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:05) | Roleplay |
-| **83** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:07) | Social Challenge |
-| **84** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:10) | Roleplay |
-| **85** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
-| **86** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
-| **87** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
-| **88** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
-| **89** | Emerald Grove Gates | Mirtul 20, 1492 DR (20:45) | Roleplay |
-| **90** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (20:50) | Roleplay |
-| **91** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:00) | Social Challenge |
-| **92** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
-| **93** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
-| **94** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Social Challenge |
-| **95** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
-| **96** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
-| **97** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:30) | Roleplay |
-| **100** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:45) | Boss Surrender |
-| **101** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Boss Surrender |
-| **102** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Roleplay |
-| **103** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:15) | Roleplay |
-| **104** | Emerald Grove - The Hollow (Makeshift Prison) | Mirtul 20, 1492 DR (22:20) | Boss Surrender |
-| **105** | Emerald Grove - The Hollow (Prison) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
-| **106** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:25) | Boss Surrender |
-| **107** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
-| **108** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:35) | Social Challenge |
-| **109** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Boss Surrender |
-| **110** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:45) | Boss Surrender |
-| **111** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Roleplay |
-| **112** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:50) | Social Challenge |
-| **113** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:05) | Boss Surrender |
-| **114** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:10) | Boss Surrender |
-| **115** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Boss Surrender |
-| **116** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Roleplay |
-| **117** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20 (Night)) | Roleplay |
-| **118** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Boss Surrender |
-| **119** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **120** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **121** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **122** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:45) | Roleplay |
-| **123** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
-| **124** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55 (Night)) | Roleplay |
-| **125** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
-| **126** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55) | Social Challenge |
-| **127** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **128** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Boss Surrender |
-| **129** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
-| **130** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
-| **131** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Roleplay |
-| **132** | Emerald Grove - Enclave Library (Secure) | Mirtul 21, 1492 DR (00:30) | Roleplay |
-| **133** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:35) | Boss Surrender |
-| **134** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **135** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **136** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **137** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **138** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **139** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15 (Deep Night)) | Roleplay |
-| **140** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **141** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **142** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **143** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:30) | Social Challenge |
-| **144** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:45) | Social Challenge |
-| **145** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:50) | Social Challenge |
-| **146** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:00) | Social Challenge |
-| **147** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:15) | Social Challenge |
-| **148** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:45) | Boss Surrender |
-| **149** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:50) | Boss Surrender |
-| **150** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:15) | Boss Surrender |
-| **151** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
-| **152** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
-| **153** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:45) | Roleplay |
-| **154** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **155** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **156** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **157** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **158** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **159** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
-| **160** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15) | Boss Surrender |
-| **161** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15 (Deep Night)) | Roleplay |
-| **162** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:30) | Roleplay |
-| **163** | Emerald Grove - Enclave Library (Private) | Mirtul 21, 1492 DR (04:30) | Social Challenge |
-| **164** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30 (Deep Night)) | Roleplay |
-| **165** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
-| **166** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
-| **167** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
-| **168** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
-| **169** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
-| **170** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (13:15) | Boss Surrender |
-| **171** | Emerald Grove - Stone Vault | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **172** | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:30) | Social Challenge |
-| **173** | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:35) | Social Challenge |
-| **174** | Unknown |  | Roleplay |
-| **175** | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:40) | Boss Surrender |
-| **176** | Emerald Grove - Prison Path | Mirtul 21, 1492 DR (13:45) | Boss Surrender |
-| **177** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (13:55) | Social Challenge |
-| **178** | Emerald Grove - Zevlor's Command | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **179** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **180** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:30) | Roleplay |
-| **181** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:45) | Roleplay |
-| **182** | Emerald Grove - Inner Sanctum / The Sacred Pool | Mirtul 21, 1492 DR (15:30) | Boss Surrender |
-| **183** | Emerald Grove - Sacred Pool | Mirtul 21, 1492 DR (16:15) | Boss Surrender |
-| **184** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **185** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Social Challenge |
-| **186** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **187** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (17:30) | Roleplay |
-| **188** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **189** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **190** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **191** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:00) | Roleplay |
-| **192** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Boss Surrender |
-| **193** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **194** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **195** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **196** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **197** | Blighted Village - Village Square | Mirtul 21, 1492 DR (18:55) | Boss Surrender |
-| **198** | Blighted Village - Interior | Mirtul 21, 1492 DR (19:15) | Boss Surrender |
-| **199** | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:35) | Boss Surrender |
-| **200** | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:40) | Roleplay |
-| **201** | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:41) | Social Challenge |
-| **202** | Blighted Village - Windmill | Mirtul 21, 1492 DR (20:10) | Social Challenge |
-| **203** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:15) | Social Challenge |
-| **204** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:20) | Social Challenge |
-| **205** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:25) | Roleplay |
-| **206** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:30) | Roleplay |
-| **207** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:35) | Roleplay |
-| **208** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:45) | Roleplay |
-| **209** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:50) | Boss Surrender |
-| **210** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
-| **211** | Unknown |  | Roleplay |
-| **212** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
-| **213** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (21:10) | Boss Surrender |
-| **214** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:15) | Roleplay |
-| **215** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
-| **216** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Social Challenge |
-| **217** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
-| **218** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:25) | Roleplay |
-| **219** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Boss Surrender |
-| **220** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Roleplay |
-| **221** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Boss Surrender |
-| **222** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Roleplay |
-| **223** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:00) | Roleplay |
-| **224** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:15) | Boss Surrender |
-| **225** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (22:30) | Roleplay |
-| **226** | Unknown |  | Roleplay |
-| **227** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (Night) | Roleplay |
-| **228** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
-| **229** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
-| **230** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
-| **231** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
-| **232** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
-| **233** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
-| **234** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Boss Surrender |
-| **235** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:20) | Roleplay |
-| **236** | Blighted Village Square | Mirtul 21, 1492 DR (23:25) | Social Challenge |
-| **237** | Blighted Village Square | Mirtul 21, 1492 DR (23:40) | Social Challenge |
-| **238** | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Social Challenge |
-| **239** | Unknown |  | Roleplay |
-| **240** | Blighted Village Square | Night, 1492 DR (Mirtul 21) | Roleplay |
-| **241** | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Roleplay |
-| **242** | Blighted Village Square | Mirtul 22, 1492 DR (00:10) | Roleplay |
-| **243** | Blighted Village Square | Mirtul 22, 1492 DR (00:25 (Deep Night)) | Roleplay |
-| **244** | Blighted Village Square (Tower Overlook) | Mirtul 22, 1492 DR (08:35) | Roleplay |
-| **245** | Blighted Village Square | Mirtul 22, 1492 DR (16:35) | Roleplay |
-| **246** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:35) | Roleplay |
-| **247** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:50) | Boss Surrender |
-| **248** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (18:20) | Boss Surrender |
-| **249** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:35) | Boss Surrender |
-| **250** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:50) | Boss Surrender |
-| **251** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:55) | Social Challenge |
-| **252** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:10) | Roleplay |
-| **253** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:25) | Boss Surrender |
-| **254** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:40) | Roleplay |
-| **255** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
-| **256** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
-| **257** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
-| **258** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:10) | Boss Surrender |
-| **259** | Unknown |  | Roleplay |
-| **260** | Unknown |  | Roleplay |
-| **261** | Unknown |  | Roleplay |
-| **262** | Unknown |  | Roleplay |
-| **263** | Unknown |  | Roleplay |
-| **264** | Unknown |  | Roleplay |
-| **265** | Unknown |  | Roleplay |
-| **266** | Unknown |  | Roleplay |
-| **267** | Unknown |  | Roleplay |
-| **268** | Unknown |  | Roleplay |
-| **269** | Unknown |  | Roleplay |
-| **270** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:25) | Roleplay |
-| **271** | Unknown |  | Roleplay |
-| **272** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
-| **273** | Unknown |  | Roleplay |
-| **274** | Unknown |  | Roleplay |
-| **275** | Unknown |  | Roleplay |
-| **276** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
-| **277** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (21:00) | Social Challenge |
-| **278** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (22:10) | Social Challenge |
-| **279** | Shattered Sanctum Main Hall | Mirtul 24, 1492 DR (Night) | Roleplay |
-| **280** | Shattered Sanctum | Hammer 14, 1492 DR (12:00) | Roleplay |
-| **281** | Unknown |  | Roleplay |
-| **282** | Shattered Sanctum | Day 13, 2026 (22:00) | Roleplay |
-| **283** | Shattered Sanctum | Month 1, 2026 DR (Day 13) | Roleplay |
-| **284** | Shattered Sanctum | Month 1 Day 13, 2026 DR (22:00) | Roleplay |
-| **285** | Unknown |  | Roleplay |
-| **286** | Unknown |  | Roleplay |
-| **287** | The Mountain Pass | Month 1 Day 13, 2026 DR (23:00) | Roleplay |
-| **288** | The Mountain Pass | 2026-01-13T22:00:00.000003Z | Roleplay |
-| **289** | Unknown |  | Roleplay |
-| **290** | The Mountain Pass | 2026-01-13, Midday | Roleplay |
-| **291** | Unknown |  | Roleplay |
-| **292** | The Mountain Pass | 1 13, 2026 DR (23:15) | Boss Surrender |
-| **293** | The Mountain Pass | Month 1 Day 14, 2026 DR (06:00) | Boss Surrender |
-| **294** | The Mountain Pass | 1 14, 1492 DR (07:15) | Roleplay |
-| **295** | The Mountain Pass | 1 14, 2026 DR (07:30) | Roleplay |
-| **296** | Unknown |  | Roleplay |
-| **297** | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
-| **298** | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
-| **299** | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
-| **300** | The Mountain Pass | 1 14, 2026 DR (07:30) | Roleplay |
-| **301** | The Mountain Pass | Month 1 Day 14, 2026 DR (08:30) | Boss Surrender |
-| **302** | The Mountain Pass | Month 1 Day 14, 2026 DR (Morning) | Roleplay |
-| **303** | The Mountain Pass | 1 14, 2026 DR (08:30) | Roleplay |
-| **304** | The Mountain Pass - Strategic Ledge | 1 14, 2026 DR (11:30) | Roleplay |
-| **305** | The Mountain Pass / Grymforge Approach | Month 1 Day 14, 2026 DR (13:45) | Roleplay |
-| **306** | The Mountain Pass | 2026-01-14T13:45:00.000001Z | Roleplay |
-| **307** | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
-| **308** | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
-| **309** | The Mountain Pass | 2026-01-14T13:45:00.000001Z | Roleplay |
-| **310** | The Mountain Pass (Precipice) | 2026-01-14, Afternoon | Roleplay |
-| **311** | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
-| **312** | The Mountain Pass | 2026-01-14T13:45:00.000001Z | Roleplay |
-| **313** | The Mountain Pass | 2026-01-14T13:45:00.000002Z | Roleplay |
-| **314** | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
-| **315** | The Mountain Pass / Grymforge / Creche Y'llek | 1 14, 2026 DR (15:30) | Roleplay |
-| **316** | Creche Y'llek - Inquisitor's Chambers / Grymforge | 1 14, 2026 DR (15:45) | Roleplay |
-| **317** | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (15:45) | Roleplay |
-| **318** | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (16:00) | Roleplay |
-| **319** | Creche Y'llek - Inquisitor's Chambers | 2026-01-14, 16:00:01 | Roleplay |
-| **320** | Creche Y'llek - Inquisitor's Chambers | Month 1, 2026 DR (Day 14) | Roleplay |
-| **321** | Unknown |  | Roleplay |
-| **322** | Creche Y'llek - Inquisitor's Chambers | 2026-01-14T16:00:00.000000Z | Roleplay |
-| **323** | Creche Y'llek - Inquisitor's Chambers | Mirtul 14, 2026 DR (15:46) | Roleplay |
-| **324** | Unknown |  | Roleplay |
-| **325** | Creche Y'llek - Inquisitor's Chambers | 1 14, 1492 DR (Modified) (15:46) | Roleplay |
-| **326** | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (15:47) | Roleplay |
-| **327** | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (15:47) | Roleplay |
-| **328** | Creche Y'llek - Inquisitor's Chambers | Mirtul 16, 1492 DR (15:50) | Roleplay |
-| **329** | Creche Y'llek - Inquisitor's Chambers | 2026-01-14T15:50:00.000001Z | Roleplay |
-| **330** | Creche Y'llek - Inquisitor's Chambers | Hammer 14, 1492 DR (15:55) | Boss Surrender |
-| **331** | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (16:05) | Roleplay |
-| **332** | Creche Y'llek - Captain's Quarters | Alturiak 14, 2026 DR (16:10) | Roleplay |
-| **333** | Rosymorn Monastery - Perimeter | Alturiak 14, 2026 DR (16:30) | Roleplay |
-| **334** | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
-| **335** | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
-| **336** | Rosymorn Monastery - Perimeter | 1 14, 2026 DR (16:15) | Boss Surrender |
-| **337** | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
-| **338** | Rosymorn Monastery - Perimeter | 1 14, 2026 DR (16:20) | Boss Surrender |
-| **339** | Rosymorn Monastery - Perimeter | 1 14, 2026 DR (17:00) | Roleplay |
-| **340** | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
-| **341** | Rosymorn Monastery - Broken Sundial | 1 14, 2026 DR (17:40) | Boss Surrender |
-| **342** | Rosymorn Monastery - Secret Chamber | Hammer 14, 1492 DR (18:20) | Roleplay |
-| **343** | Rosymorn Monastery - Secret Chamber | 2026-01-14T18:20:01.000001Z | Roleplay |
-| **344** | Rosymorn Monastery - Secret Chamber | Month 1, 2026 DR (Day 14) | Roleplay |
-| **345** | Rosymorn Monastery - Secret Chamber | Month 1, 2026 DR (Day 14) | Roleplay |
-| **346** | Rosymorn Monastery - Secret Chamber | 2026-01-14T18:20:01.000001Z | Roleplay |
-| **347** | Rosymorn Monastery - Secret Chamber / Lathanderian Vault | 1 14, 2026 DR (19:00) | Boss Surrender |
-| **348** | Lathanderian Vault | Alturiak 14, 1492 DR (19:00) | Roleplay |
-| **349** | Rosymorn Monastery - Secret Chamber | Alturiak 14, 2026 DR (18:25) | Roleplay |
-| **350** | Grymforge - Abandoned Outpost | Month 1, 2026 DR (Day 14) | Boss Surrender |
-| **351** | Grymforge - Abandoned Outpost | Month 1, 2026 DR (Day 14) | Roleplay |
-| **352** | Grymforge - Abandoned Outpost | 1 14, 2026 DR (18:35) | Roleplay |
-| **353** | Grymforge - Abandoned Outpost | Month 1, 2026 DR (Day 14) | Roleplay |
-| **354** | Unknown |  | Roleplay |
-| **355** | Unknown |  | Roleplay |
-| **356** | Grymforge - Lower Levels | 1 14, 2026 DR (18:45) | Roleplay |
-| **357** | Grymforge - Lower Levels | Hammer 14, 1492 DR (18:45) | Roleplay |
-| **358** | Grymforge - Lower Levels | Mirtul 20, 1492 DR (18:00) | Roleplay |
-| **359** | Grymforge - Lower Levels | 2026-01-14T19:00:00.000000Z | Roleplay |
-| **360** | Grymforge - Lower Levels | Hammer 15, 1492 DR (19:30) | Roleplay |
-| **361** | Unknown |  | Roleplay |
-| **362** | Grymforge - Lower Levels | Month 1, 2026 DR (Day 14) | Roleplay |
-| **363** | Grymforge - Lower Levels | Hammer 14, 1492 DR (20:30) | Roleplay |
-| **364** | Grymforge - Lower Levels | 2026-01-14T20:30:00.000000Z | Roleplay |
-| **365** | Grymforge - Lower Levels | Month 1, 2026 DR (Day 14) | Roleplay |
-| **366** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:00) | Roleplay |
-| **367** | Grymforge - The Adamantine Forge | Month 1, 2026 DR (Day 14) | Roleplay |
-| **368** | Grymforge - The Adamantine Forge | Month 1 Day 14, 2026 DR (Night) | Roleplay |
-| **369** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (20:35) | Roleplay |
-| **370** | Grymforge - The Adamantine Forge | Month 1 Day 14, 2026 DR (20:31) | Social Challenge |
-| **371** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (20:35) | Social Challenge |
-| **372** | Grymforge - The Adamantine Forge | Alturiak 14, 2026 DR (20:40) | Boss Surrender |
-| **373** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (20:45) | Roleplay |
-| **374** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:30) | Boss Surrender |
-| **375** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:00) | Roleplay |
-| **376** | Grymforge - The Adamantine Forge | Month 1, 2026 DR (Day 14) | Roleplay |
-| **377** | Grymforge - The Adamantine Forge | Month 1, 2026 DR (Day 14) | Roleplay |
-| **378** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:05) | Roleplay |
-| **379** | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:15) | Boss Surrender |
-| **380** | Grymforge - The Adamantine Forge | 1 15, 2026 DR (05:15) | Boss Surrender |
-| **381** | Grymforge - The Adamantine Forge | Hammer 15, 1492 DR (Dawn) | Roleplay |
-| **382** | Grymforge - The Adamantine Forge | Hammer 15, 1492 DR (Dawn) | Roleplay |
-| **383** | Shadow-Cursed Lands - Western Ingress | Jan 15, 2026 DR (08:30) | Boss Surrender |
-| **384** | Shadow-Cursed Lands - Western Ingress | 2026-01-15T08:30:00Z | Roleplay |
-| **385** | Shadow-Cursed Lands - Western Ingress | 2026-01-15, Morning | Roleplay |
-| **386** | Shadow-Cursed Lands - Western Ingress | Month 1, 2026 DR (Day 15) | Roleplay |
-| **387** | Shadow-Cursed Lands - Western Ingress | 1 15, 2026 DR (09:00) | Boss Surrender |
-| **388** | Shadow-Cursed Lands - Western Ingress | 1 15, 2026 DR (09:15) | Roleplay |
-| **389** | Shadow-Cursed Lands - Near Last Light Outskirts | Hammer 15, 1492 DR (10:00 (Morning)) | Roleplay |
-| **390** | Shadow-Cursed Lands - Reithwin Suburbs | Alturiak 15, 1492 DR (Setting Sync) (11:00) | Roleplay |
-| **391** | Shadow-Cursed Lands - Reithwin Suburbs | Month 1, 2026 DR (Day 15) | Roleplay |
-| **392** | Shadow-Cursed Lands - Reithwin Suburbs | Month 1, 2026 DR (Day 15) | Roleplay |
-| **393** | Shadow-Cursed Lands - Reithwin Suburbs | Month 1, 2026 DR (Day 15) | Roleplay |
-| **394** | Shadow-Cursed Lands - Moonrise Perimeter | Hammer 15, 1492 DR (12:00) | Roleplay |
-| **395** | Moonrise Towers - Main Entrance | Month 1 Day 15, 2026 DR (13:30 (Afternoon)) | Roleplay |
-| **396** | Moonrise Towers - Main Hall | Hammer 15, 1492 DR (13:35) | Roleplay |
-| **397** | Moonrise Towers - Main Hall | Hammer 15, 1492 DR (14:35) | Roleplay |
-| **398** | Moonrise Towers - Main Hall / Shadowfell Ingress | 1 15, 1492 DR (14:45) | Roleplay |
-| **399** | Shadowfell Ingress / Gauntlet of Shar | 1 15, 2026 DR (14:50) | Roleplay |
-| **400** | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Roleplay |
-| **401** | Shadowfell Ingress / Gauntlet of Shar | 1 15, 2026 DR (15:00) | Roleplay |
-| **402** | Gauntlet of Shar / Shadowfell Ingress | Month 1 Day 15, 2026 DR (Afternoon) | Roleplay |
-| **403** | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Roleplay |
-| **404** | Unknown |  | Roleplay |
-| **405** | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Roleplay |
-| **406** | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Boss Surrender |
-| **407** | Shadowfell Ingress / Gauntlet of Shar | 2026-01-15, Afternoon | Roleplay |
-| **408** | Shadowfell Ingress / Gauntlet of Shar | Month 1 Day 15, 2026 DR (Afternoon) | Roleplay |
-| **409** | Shadowfell Ingress / Gauntlet of Shar | Month 1 Day 15, 2026 DR (Afternoon) | Roleplay |
-| **410** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
-| **411** | Moonrise Towers (Rooftop) | 1 15, 1492 DR (15:10) | Social Challenge |
-| **412** | Moonrise Towers (Rooftop) | 1492 DR, Highsun | 15:15 | Roleplay |
-| **413** | Moonrise Towers (Rooftop) | Month 1 Day 15, 2026 DR (15:20) | Social Challenge |
-| **414** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
-| **415** | Moonrise Towers (Rooftop) | Alturiak 15, 1492 DR (15:45) | Boss Surrender |
-| **416** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Boss Surrender |
-| **417** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (16:00) | Boss Surrender |
-| **418** | Moonrise Towers (Rooftop) | Hammer 15, 1492 DR (17:00) | Boss Surrender |
-| **419** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (17:15) | Boss Surrender |
-| **420** | Unknown |  | Roleplay |
-| **421** | Moonrise Towers (Rooftop) | 2026-01-15T17:15:00.000000Z | Roleplay |
-| **422** | Moonrise Towers (Rooftop) | Alturiak 15, 1492 DR (18:30 (Afternoon)) | Boss Surrender |
-| **423** | Moonrise Towers (Rooftop) | 2026-01-15T18:30:00.000000Z | Roleplay |
-| **424** | Unknown |  | Roleplay |
-| **425** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
-| **426** | Moonrise Towers (Rooftop) | Alturiak 15, 1492 DR (18:45) | Boss Surrender |
-| **427** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Boss Surrender |
-| **428** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:00) | Roleplay |
-| **429** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:15) | Social Challenge |
-| **430** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:30) | Boss Surrender |
-| **431** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:45) | Boss Surrender |
-| **432** | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (20:00) | Roleplay |
-| **433** | Moonrise Towers (Rooftop) | 2026-01-15, Night | Roleplay |
-| **434** | Moonrise Towers (Rooftop) | 2026-01-15, Night | Roleplay |
-| **435** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (21:30) | Boss Surrender |
-| **436** | Moonrise Towers (Rooftop) | 2026-01-15T21:30:00Z | Roleplay |
-| **437** | Moonrise Towers (Rooftop) | 2026-01-15T21:30:00.000000Z | Roleplay |
-| **438** | Unknown |  | Roleplay |
-| **439** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
-| **440** | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (22:00) | Roleplay |
-| **441** | Moonrise Towers (Rooftop) | Month 1 Day 15, 2026 DR (Night) | Roleplay |
-| **442** | Unknown |  | Roleplay |
-| **443** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
-| **444** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Boss Surrender |
-| **445** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (22:15) | Roleplay |
-| **446** | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (22:30) | Boss Surrender |
-| **447** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
-| **448** | Moonrise Towers (Rooftop) | 2026-01-15 DR, Night | Roleplay |
-| **449** | Moonrise Towers (Rooftop) | Alturiak 16, 1492 DR (22:45) | Roleplay |
-| **450** | Moonrise Towers (Rooftop) | 1 15, 2026 DR (23:00) | Roleplay |
-| **451** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
-| **452** | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (23:15) | Roleplay |
-| **453** | Unknown |  | Roleplay |
-| **454** | Unknown |  | Roleplay |
-| **455** | Moonrise Towers (Rooftop) | 2026-01-15, Night | Roleplay |
-| **456** | Moonrise Towers (Rooftop) | Hammer 16, 1492 DR (06:00 (Dawn)) | Roleplay |
-| **457** | Moonrise Towers (Rooftop) | Alturiak 16, 2026 DR (06:15) | Roleplay |
-| **458** | Moonrise Towers (Rooftop) | 1 16, 2026 DR (06:15) | Roleplay |
-| **459** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **460** | Moonrise Towers (Rooftop) | 1 16, 2026 DR (07:00) | Roleplay |
-| **461** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **462** | Moonrise Towers (Rooftop) | 1 16, 2026 DR (06:15) | Boss Surrender |
-| **463** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Boss Surrender |
-| **464** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **465** | Moonrise Towers (Rooftop) | 1 16, 2026 DR (07:30) | Roleplay |
-| **466** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **467** | Moonrise Towers (Rooftop) | Alturiak 16, 1492 DR (07:30) | Roleplay |
-| **468** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **469** | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **470** | Moonrise Towers (Rooftop) | 1 16, 2026 DR (08:30) | Roleplay |
-| **471** | Moonrise Towers (Rooftop) | 2026-01-16T08:30:00.000001Z | Roleplay |
-| **472** | Morphic Pool (Baldur's Gate Undercity) | Hammer 16, 1492 DR (09:00) | Social Challenge |
-| **473** | Morphic Pool (Baldur's Gate Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **474** | Morphic Pool (Undercity) | 2026-01-16, Morning | Roleplay |
-| **475** | Morphic Pool (Undercity) | 1 16, 2026 DR (09:00) | Roleplay |
-| **476** | Morphic Pool (Undercity) | 1 16, 2026 DR (09:15) | Boss Surrender |
-| **477** | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **478** | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **479** | Morphic Pool (Undercity) | Alturiak 16, 1492 DR (09:15) | Roleplay |
-| **480** | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **481** | Morphic Pool (Undercity) | 2026-01-16, Morning | Roleplay |
-| **482** | Morphic Pool (Undercity) | 1 16, 2026 DR (09:20) | Boss Surrender |
-| **483** | Morphic Pool (Baldur's Gate Undercity) | Month 1 Day 16, 2026 DR (10:45) | Roleplay |
-| **484** | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **485** | Wyrm's Rock Fortress (High Hall) | Hammer 16, 1492 DR (12:00) | Boss Surrender |
-| **486** | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **487** | Wyrm's Rock Fortress (High Hall) | 1 16, 2026 DR (14:00) | Boss Surrender |
-| **488** | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **489** | Wyrm's Rock Fortress (High Hall) | 1 16, 2026 DR (12:15) | Boss Surrender |
-| **490** | Wyrm's Rock Fortress (High Hall) | Highsun 20, 1492 DR (12:20 (Microsecond +1)) | Roleplay |
-| **491** | Wyrm's Rock Fortress (High Hall) | Hammer 16, 1492 DR (14:00) | Boss Surrender |
-| **492** | Wyrm's Rock Fortress (High Hall) | 1 16, 2026 DR (13:30) | Boss Surrender |
-| **493** | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **494** | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **495** | Wyrm's Rock Fortress (High Hall) | 2026-01-16, Midday | Roleplay |
-| **496** | Wyrm's Rock Fortress (High Hall) | Hammer 16, 1492 DR (13:30) | Roleplay |
-| **497** | Wyrm's Rock Fortress (High Hall) | 2026-01-16, Midday (13:30:00.000005Z) | Roleplay |
-| **498** | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
-| **499** | Athkatla (Council of Six Chambers) | 1 16, 2026 DR (14:15) | Roleplay |
-| **500** | Athkatla (Council Chambers) | Mirtul 16, 1492 DR (14:20) | Social Challenge |
-| **501** | Athkatla (Council Chambers) | Month 1, 1492 DR (Day 16) | Roleplay |
-| **502** | Athkatla (Council Chambers) | 1 16, 2026 DR (14:30) | Boss Surrender |
-| **503** | Athkatla (Council Chambers) | 1 16, 2026 DR (15:30) | Boss Surrender |
-| **504** | Athkatla (Government District) | Hammer 16, 2026 DR (16:45) | Roleplay |
-| **505** | Athkatla (Government District) | 1 18, 2026 DR (10:00) | Roleplay |
-| **506** | Athkatla (Government District) | Month 1, 2026 DR (Day 18) | Roleplay |
-| **507** | Athkatla (Government District) | Month 1, 2026 DR (Day 18) | Roleplay |
-| **508** | Athkatla (Government District) | 2026-01-18, Morning | Roleplay |
-| **509** | Athkatla (Government District) | 2026-01-18, Morning | Roleplay |
-| **510** | Athkatla (Government District) / Baldur's Gate (Upper City) | Alturiak 18, 2026 DR (10:00) | Boss Surrender |
-| **511** | Athkatla / Baldur's Gate | Month 1, 2026 DR (Day 18) | Roleplay |
-| **512** | Athkatla / Baldur's Gate | 2026-01-18T10:00:15.000001Z | Roleplay |
-| **513** | Baldur's Gate / Shattered Rose (Abyss) | 1 18, 2026 DR (11:00) | Boss Surrender |
-| **514** | Baldur's Gate / Athkatla (Shadow Sovereign's Court) | Alturiak 15, 2026 DR (09:00) | Roleplay |
-| **515** | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Boss Surrender |
-| **516** | High Seas / Baldur's Gate / Athkatla | 2026-02-15T10:00:00Z | Roleplay |
-| **517** | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Roleplay |
-| **518** | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Roleplay |
-| **519** | High Hall / Morphic Pool / Shattered Rose | Alturiak 22, 1492 DR (10:00) | Roleplay |
-| **520** | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (Morning) | Roleplay |
-| **521** | Unknown |  | Roleplay |
-| **522** | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 1492 DR (10:00) | Roleplay |
-| **523** | The Shattered Rose / Athkatla / Baldur's Gate | Alturiak 15, 2026 DR (10:00) | Roleplay |
-| **524** | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Boss Surrender |
-| **525** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 2026 DR (10:15) | Social Challenge |
-| **526** | The Shattered Rose (Abyssal Sub-plane) | Mirtul 22, 1492 DR (10:15) | Social Challenge |
-| **527** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (09:00) | Roleplay |
-| **528** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (11:00) | Roleplay |
-| **529** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 2026 DR (11:00) | Roleplay |
-| **530** | Unknown |  | Roleplay |
-| **531** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (11:00) | Roleplay |
-| **532** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 2026 DR (12:00) | Roleplay |
-| **533** | Unknown |  | Roleplay |
-| **534** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 1492 DR (13:30) | Roleplay |
-| **535** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (17:30) | Social Challenge |
-| **536** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 1492 DR (17:35) | Social Challenge |
-| **537** | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 1492 DR (12:00) | Social Challenge |
-| **538** | Blackstaff Tower (Waterdeep) | Alturiak 16, 2026 DR (09:00) | Boss Surrender |
-| **539** | Blackstaff Tower (Waterdeep) | Alturiak 16, 2026 DR (09:00) | Boss Surrender |
-| **540** | Blackstaff Tower (Waterdeep) | Alturiak 15, 2026 DR (09:00) | Roleplay |
-| **541** | Blackstaff Tower (Waterdeep) | Alturiak 16, 2026 DR (09:00) | Roleplay |
-| **542** | Blackstaff Tower (Waterdeep) | Alturiak 15, 1492 DR (10:00) | Boss Surrender |
-| **543** | Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss) | Alturiak 15, 1492 DR (Calculated) (10:00) | Roleplay |
-| **544** | Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss) | Alturiak 16, 2026 DR (10:15) | Boss Surrender |
-| **545** | Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss) | Alturiak 20, 2026 DR (10:15) | Roleplay |
-| **546** | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Social Challenge |
-| **547** | Unknown |  | Roleplay |
-| **548** | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
-| **549** | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
-| **550** | Blackstaff Tower | Ches 18, 2026 DR (11:30) | Boss Surrender |
-| **551** | Blackstaff Tower | Alturiak 20, 1492 DR (11:30) | Roleplay |
-| **552** | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
-| **553** | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
-| **554** | Unknown |  | Roleplay |
-| **555** | Blackstaff Tower | Alturiak 21, 2026 DR (09:00) | Roleplay |
-| **556** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 21, 1492 DR (10:00) | Roleplay |
-| **557** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 21, 2026 DR (10:00) | Roleplay |
-| **558** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 21, 2026 DR (10:00) | Roleplay |
-| **559** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 22, 1492 DR (09:00) | Roleplay |
-| **560** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 27, 2026 DR (09:00) | Roleplay |
-| **561** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 22, 2026 DR (09:00) | Roleplay |
-| **562** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 27, 2026 DR (09:00) | Roleplay |
-| **563** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 27, 2026 DR (09:00) | Roleplay |
-| **564** | Shattered Rose (Abyssal Sub-Plane) | Alturiak 23, 1492 DR (10:00) | Roleplay |
-| **565** | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
-| **566** | The Gilded Vault | Alturiak 27, 1492 DR (10:20) | Roleplay |
-| **567** | The Gilded Vault | Alturiak 27, 2026 DR (10:30) | Boss Surrender |
-| **568** | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
-| **569** | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
-| **570** | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
-| **571** | The Gilded Vault | Alturiak 20, 2026 DR (Morning) | Roleplay |
-| **572** | The Gilded Vault | Alturiak 20, 2026 DR (Morning) | Roleplay |
-| **573** | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
-| **574** | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
-| **575** | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
-| **576** | The Gilded Vault | Alturiak 22, 2026 DR (10:15) | Roleplay |
-| **577** | The Gilded Vault | Month 2 Day 27, 2026 DR (Morning) | Roleplay |
-| **578** | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
-| **579** | The Gilded Vault | Month 2 Day 27, 2026 DR (Morning) | Roleplay |
-| **580** | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
-| **581** | The Gilded Vault | 2026-02-27T10:30:00.000001Z | Roleplay |
-| **582** | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
-| **583** | The Gilded Vault | Alturiak 27, 2026 DR (Morning) | Roleplay |
-| **584** | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
-| **585** | The Gilded Vault | Month 2 Day 27, 2026 DR (Morning) | Roleplay |
-| **586** | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
-| **587** | The Gilded Vault | Alturiak 20, 1492 DR (10:30) | Boss Surrender |
-| **588** | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
-| **589** | The Gilded Vault | Alturiak 20, 1492 DR (12:00) | Boss Surrender |
-| **590** | The Gilded Vault | Alturiak 27, 2026 DR (10:45) | Roleplay |
-| **591** | The Gilded Vault | Alturiak 20, 1492 DR (11:30) | Roleplay |
-| **592** | The Gilded Vault | Alturiak 20, 2026 DR (11:30) | Roleplay |
-| **593** | Unknown |  | Roleplay |
-| **594** | The Gilded Vault | Alturiak 22, 2026 DR (12:00) | Roleplay |
-| **595** | The Gilded Vault | Alturiak 20, 2026 DR (11:30) | Roleplay |
-| **596** | The Gilded Vault | Alturiak 16, 2026 DR (09:00) | Roleplay |
-| **597** | The Gilded Vault | Alturiak 20, 2026 DR (12:00) | Roleplay |
-| **598** | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
-| **599** | The Gilded Vault | Alturiak 27, 2026 DR (12:00) | Roleplay |
-| **600** | The Gilded Vault | Alturiak 20, 1492 DR (12:05) | Roleplay |
-| **601** | The Gilded Vault | Alturiak 20, 1492 DR (12:05) | Roleplay |
-| **602** | The Gilded Vault | Alturiak 20, 1492 DR (14:45) | Social Challenge |
-| **603** | The Gilded Vault | Alturiak 20, 1492 DR (13:00) | Social Challenge |
-| **604** | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
-| **605** | The Gilded Vault | Alturiak 27, 2026 DR (12:00) | Boss Surrender |
-| **606** | The Gilded Vault | Alturiak 20, 2026 DR (13:05) | Roleplay |
-| **607** | The Gilded Vault | 2026-02-27 DR, 12:00:00 | Roleplay |
-| **608** | The Gilded Vault | Alturiak 20, 2026 DR (13:05) | Roleplay |
-| **609** | The Gilded Vault | Alturiak 20, 2026 DR (Midday) | Roleplay |
-| **610** | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Social Challenge |
-| **611** | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **612** | The Gilded Vault | Alturiak 20, 1492 DR (14:30) | Social Challenge |
-| **613** | The Gilded Vault | Alturiak 20, 1492 DR (14:00) | Social Challenge |
-| **614** | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **615** | The Shattered Rose | Alturiak 21, 1492 DR (10:00) | Social Challenge |
-| **616** | The Shattered Rose | Alturiak 20, 1492 DR (14:30) | Boss Surrender |
-| **617** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **618** | The Shattered Rose | Alturiak 20, 1492 DR (14:30) | Social Challenge |
-| **619** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **620** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **621** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **622** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **623** | The Shattered Rose | Alturiak 20, 2026 DR (16:30) | Social Challenge |
-| **624** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **625** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **626** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **627** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **628** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **629** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **630** | The Shattered Rose | February 27, 2026 DR (16:45) | Social Challenge |
-| **631** | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **632** | The Shattered Rose | Alturiak 20, 1492 DR (14:30) | Social Challenge |
-| **633** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **634** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **635** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **636** | The Shattered Rose | Alturiak 20, 1492 DR (13:20) | Roleplay |
-| **637** | The Shattered Rose | Alturiak 20, 1492 DR (14:00) | Social Challenge |
-| **638** | The Shattered Rose | Alturiak 21, 2026 DR (13:15) | Social Challenge |
-| **639** | The Shattered Rose | Alturiak 21, 1492 DR (19:30) | Boss Surrender |
-| **640** | The Shattered Rose | Alturiak 21, 1492 DR (02:00) | Boss Surrender |
-| **641** | The Shattered Rose | February 21, 2026 DR (14:00) | Roleplay |
-| **642** | The Shattered Rose | Alturiak 21, 2026 DR (15:15) | Roleplay |
-| **643** | The Shattered Rose | Alturiak 20, 1492 DR (15:30) | Social Challenge |
-| **644** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **645** | The Shattered Rose | Alturiak 20, 1492 DR (15:45) | Social Challenge |
-| **646** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **647** | The Shattered Rose | Alturiak 20, 1492 DR (13:45) | Social Challenge |
-| **648** | The Shattered Rose | Alturiak 21, 1492 DR (15:45) | Social Challenge |
-| **649** | The Shattered Rose | February 21, 2026 DR (15:50) | Roleplay |
-| **650** | The Gilded Vault | Alturiak 20, 1492 DR (13:30) | Roleplay |
-| **651** | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **652** | The Shattered Rose | Alturiak 20, 1492 DR (14:15) | Roleplay |
-| **653** | The Shattered Rose | Alturiak 21, 1492 DR (14:15) | Boss Surrender |
-| **654** | Unknown |  | Boss Surrender |
-| **655** | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
-| **656** | Unknown |  | Boss Surrender |
-| **657** | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
-| **658** | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
-| **659** | The Shattered Rose | March 15, 2026 DR (09:30 (Afternoon)) | Roleplay |
-| **660** | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Boss Surrender |
-| **661** | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
-| **662** | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
-| **663** | The Shattered Rose | Tarsakh 14, 1492 DR (10:45) | Roleplay |
-| **664** | The Shattered Rose | Tarsakh 15, 1492 DR (14:30) | Roleplay |
-| **665** | The Shattered Rose | Tarsakh 14, 1492 DR (10:45) | Social Challenge |
-| **666** | The Szarr Palace | Tarsakh 14, 1492 DR (14:30) | Boss Surrender |
-| **667** | Szarr Palace | Tarsakh 15, 1492 DR (02:00) | Roleplay |
-| **668** | The Shattered Rose | Tarsakh 14, 2026 DR (14:35) | Roleplay |
-| **669** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | The Ravaged Beach | Eleasias 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| [**Scene 04**](#scene-4) | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| [**Scene 05**](#scene-5) | The Ravaged Beach | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 07**](#scene-7) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 08**](#scene-8) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 09**](#scene-9) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 10**](#scene-10) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 11**](#scene-11) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 12**](#scene-12) | The Ravaged Beach | Mirtul 20, 1492 DR (12:10) | Roleplay |
+| [**Scene 13**](#scene-13) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 14**](#scene-14) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 15**](#scene-15) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 16**](#scene-16) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 17**](#scene-17) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 18**](#scene-18) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 19**](#scene-19) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 20**](#scene-20) | The Ravaged Beach | Mirtul 20, 1492 DR (Midday) | Roleplay |
+| [**Scene 21**](#scene-21) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 22**](#scene-22) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 23**](#scene-23) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 24**](#scene-24) | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
+| [**Scene 25**](#scene-25) | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
+| [**Scene 26**](#scene-26) | Nautiloid Hull (Exterior Wreckage) | Mirtul 20, 1492 DR (13:00) | Roleplay |
+| [**Scene 27**](#scene-27) | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:05) | Roleplay |
+| [**Scene 28**](#scene-28) | The Ravaged Beach (Nautiloid Wreckage) | Mirtul 20, 1492 DR (13:05) | Roleplay |
+| [**Scene 29**](#scene-29) | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:10) | Social Challenge |
+| [**Scene 30**](#scene-30) | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 31**](#scene-31) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:25) | Roleplay |
+| [**Scene 32**](#scene-32) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:30) | Roleplay |
+| [**Scene 33**](#scene-33) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
+| [**Scene 34**](#scene-34) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
+| [**Scene 35**](#scene-35) | The Ravaged Beach (Cliffs) | Mirtul 20, 1492 DR (13:45) | Roleplay |
+| [**Scene 36**](#scene-36) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
+| [**Scene 37**](#scene-37) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 38**](#scene-38) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 39**](#scene-39) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
+| [**Scene 40**](#scene-40) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 41**](#scene-41) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:10) | Roleplay |
+| [**Scene 42**](#scene-42) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 43**](#scene-43) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 44**](#scene-44) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:15) | Roleplay |
+| [**Scene 45**](#scene-45) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:30) | Roleplay |
+| [**Scene 46**](#scene-46) | The Ravaged Beach (Northward Cliffs) | Mirtul 20, 1492 DR (15:45) | Roleplay |
+| [**Scene 47**](#scene-47) | The Ancient Door (Cliffside Plateau) | Mirtul 20, 1492 DR (16:00) | Roleplay |
+| [**Scene 48**](#scene-48) | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
+| [**Scene 49**](#scene-49) | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
+| [**Scene 50**](#scene-50) | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:45) | Roleplay |
+| [**Scene 52**](#scene-52) | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:15) | Roleplay |
+| [**Scene 54**](#scene-54) | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
+| [**Scene 55**](#scene-55) | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
+| [**Scene 56**](#scene-56) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:35) | Roleplay |
+| [**Scene 57**](#scene-57) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:45) | Roleplay |
+| [**Scene 58**](#scene-58) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:55) | Roleplay |
+| [**Scene 59**](#scene-59) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:05) | Roleplay |
+| [**Scene 60**](#scene-60) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:15) | Roleplay |
+| [**Scene 61**](#scene-61) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:10) | Roleplay |
+| [**Scene 62**](#scene-62) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:25) | Roleplay |
+| [**Scene 63**](#scene-63) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:35) | Social Challenge |
+| [**Scene 64**](#scene-64) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:36) | Roleplay |
+| [**Scene 65**](#scene-65) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:37) | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:42) | Roleplay |
+| [**Scene 69**](#scene-69) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:44) | Roleplay |
+| [**Scene 70**](#scene-70) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:46) | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:48) | Roleplay |
+| [**Scene 73**](#scene-73) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:00) | Roleplay |
+| [**Scene 74**](#scene-74) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:15) | Roleplay |
+| [**Scene 75**](#scene-75) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:16) | Boss Surrender |
+| [**Scene 76**](#scene-76) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:21) | Roleplay |
+| [**Scene 77**](#scene-77) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:36) | Boss Surrender |
+| [**Scene 78**](#scene-78) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:41) | Roleplay |
+| [**Scene 79**](#scene-79) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:01) | Roleplay |
+| [**Scene 80**](#scene-80) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:03) | Roleplay |
+| [**Scene 81**](#scene-81) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:04) | Roleplay |
+| [**Scene 82**](#scene-82) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:05) | Roleplay |
+| [**Scene 83**](#scene-83) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:07) | Social Challenge |
+| [**Scene 84**](#scene-84) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:10) | Roleplay |
+| [**Scene 85**](#scene-85) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
+| [**Scene 86**](#scene-86) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
+| [**Scene 87**](#scene-87) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
+| [**Scene 88**](#scene-88) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Emerald Grove Gates | Mirtul 20, 1492 DR (20:45) | Roleplay |
+| [**Scene 90**](#scene-90) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (20:50) | Roleplay |
+| [**Scene 91**](#scene-91) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:00) | Social Challenge |
+| [**Scene 92**](#scene-92) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
+| [**Scene 93**](#scene-93) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
+| [**Scene 94**](#scene-94) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Social Challenge |
+| [**Scene 95**](#scene-95) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
+| [**Scene 96**](#scene-96) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
+| [**Scene 97**](#scene-97) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:30) | Roleplay |
+| [**Scene 100**](#scene-100) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:45) | Boss Surrender |
+| [**Scene 101**](#scene-101) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Boss Surrender |
+| [**Scene 102**](#scene-102) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:15) | Roleplay |
+| [**Scene 104**](#scene-104) | Emerald Grove - The Hollow (Makeshift Prison) | Mirtul 20, 1492 DR (22:20) | Boss Surrender |
+| [**Scene 105**](#scene-105) | Emerald Grove - The Hollow (Prison) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
+| [**Scene 106**](#scene-106) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:25) | Boss Surrender |
+| [**Scene 107**](#scene-107) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
+| [**Scene 108**](#scene-108) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:35) | Social Challenge |
+| [**Scene 109**](#scene-109) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:45) | Boss Surrender |
+| [**Scene 111**](#scene-111) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Roleplay |
+| [**Scene 112**](#scene-112) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:50) | Social Challenge |
+| [**Scene 113**](#scene-113) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:05) | Boss Surrender |
+| [**Scene 114**](#scene-114) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:10) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Boss Surrender |
+| [**Scene 116**](#scene-116) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Roleplay |
+| [**Scene 117**](#scene-117) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20 (Night)) | Roleplay |
+| [**Scene 118**](#scene-118) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Boss Surrender |
+| [**Scene 119**](#scene-119) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 120**](#scene-120) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 121**](#scene-121) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 122**](#scene-122) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:45) | Roleplay |
+| [**Scene 123**](#scene-123) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
+| [**Scene 124**](#scene-124) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55 (Night)) | Roleplay |
+| [**Scene 125**](#scene-125) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
+| [**Scene 126**](#scene-126) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55) | Social Challenge |
+| [**Scene 127**](#scene-127) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 128**](#scene-128) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Boss Surrender |
+| [**Scene 129**](#scene-129) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
+| [**Scene 130**](#scene-130) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
+| [**Scene 131**](#scene-131) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Roleplay |
+| [**Scene 132**](#scene-132) | Emerald Grove - Enclave Library (Secure) | Mirtul 21, 1492 DR (00:30) | Roleplay |
+| [**Scene 133**](#scene-133) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:35) | Boss Surrender |
+| [**Scene 134**](#scene-134) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 136**](#scene-136) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 137**](#scene-137) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 138**](#scene-138) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 139**](#scene-139) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15 (Deep Night)) | Roleplay |
+| [**Scene 140**](#scene-140) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 141**](#scene-141) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 142**](#scene-142) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 143**](#scene-143) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:30) | Social Challenge |
+| [**Scene 144**](#scene-144) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:45) | Social Challenge |
+| [**Scene 145**](#scene-145) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:50) | Social Challenge |
+| [**Scene 146**](#scene-146) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:00) | Social Challenge |
+| [**Scene 147**](#scene-147) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:15) | Social Challenge |
+| [**Scene 148**](#scene-148) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:45) | Boss Surrender |
+| [**Scene 149**](#scene-149) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:50) | Boss Surrender |
+| [**Scene 150**](#scene-150) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:15) | Boss Surrender |
+| [**Scene 151**](#scene-151) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
+| [**Scene 152**](#scene-152) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
+| [**Scene 153**](#scene-153) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:45) | Roleplay |
+| [**Scene 154**](#scene-154) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 155**](#scene-155) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 156**](#scene-156) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 157**](#scene-157) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 158**](#scene-158) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 159**](#scene-159) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
+| [**Scene 160**](#scene-160) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15) | Boss Surrender |
+| [**Scene 161**](#scene-161) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15 (Deep Night)) | Roleplay |
+| [**Scene 162**](#scene-162) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:30) | Roleplay |
+| [**Scene 163**](#scene-163) | Emerald Grove - Enclave Library (Private) | Mirtul 21, 1492 DR (04:30) | Social Challenge |
+| [**Scene 164**](#scene-164) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30 (Deep Night)) | Roleplay |
+| [**Scene 165**](#scene-165) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
+| [**Scene 166**](#scene-166) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
+| [**Scene 167**](#scene-167) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
+| [**Scene 168**](#scene-168) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
+| [**Scene 169**](#scene-169) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
+| [**Scene 170**](#scene-170) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (13:15) | Boss Surrender |
+| [**Scene 171**](#scene-171) | Emerald Grove - Stone Vault | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 172**](#scene-172) | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:30) | Social Challenge |
+| [**Scene 173**](#scene-173) | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:35) | Social Challenge |
+| [**Scene 174**](#scene-174) | Unknown |  | Roleplay |
+| [**Scene 175**](#scene-175) | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:40) | Boss Surrender |
+| [**Scene 176**](#scene-176) | Emerald Grove - Prison Path | Mirtul 21, 1492 DR (13:45) | Boss Surrender |
+| [**Scene 177**](#scene-177) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (13:55) | Social Challenge |
+| [**Scene 178**](#scene-178) | Emerald Grove - Zevlor's Command | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 179**](#scene-179) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 180**](#scene-180) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:30) | Roleplay |
+| [**Scene 181**](#scene-181) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:45) | Roleplay |
+| [**Scene 182**](#scene-182) | Emerald Grove - Inner Sanctum / The Sacred Pool | Mirtul 21, 1492 DR (15:30) | Boss Surrender |
+| [**Scene 183**](#scene-183) | Emerald Grove - Sacred Pool | Mirtul 21, 1492 DR (16:15) | Boss Surrender |
+| [**Scene 184**](#scene-184) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 185**](#scene-185) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Social Challenge |
+| [**Scene 186**](#scene-186) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 187**](#scene-187) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (17:30) | Roleplay |
+| [**Scene 188**](#scene-188) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 189**](#scene-189) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 190**](#scene-190) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 191**](#scene-191) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:00) | Roleplay |
+| [**Scene 192**](#scene-192) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Boss Surrender |
+| [**Scene 193**](#scene-193) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 194**](#scene-194) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 195**](#scene-195) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 196**](#scene-196) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 197**](#scene-197) | Blighted Village - Village Square | Mirtul 21, 1492 DR (18:55) | Boss Surrender |
+| [**Scene 198**](#scene-198) | Blighted Village - Interior | Mirtul 21, 1492 DR (19:15) | Boss Surrender |
+| [**Scene 199**](#scene-199) | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:35) | Boss Surrender |
+| [**Scene 200**](#scene-200) | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:40) | Roleplay |
+| [**Scene 201**](#scene-201) | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:41) | Social Challenge |
+| [**Scene 202**](#scene-202) | Blighted Village - Windmill | Mirtul 21, 1492 DR (20:10) | Social Challenge |
+| [**Scene 203**](#scene-203) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:15) | Social Challenge |
+| [**Scene 204**](#scene-204) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:20) | Social Challenge |
+| [**Scene 205**](#scene-205) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:25) | Roleplay |
+| [**Scene 206**](#scene-206) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:30) | Roleplay |
+| [**Scene 207**](#scene-207) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:35) | Roleplay |
+| [**Scene 208**](#scene-208) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:45) | Roleplay |
+| [**Scene 209**](#scene-209) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:50) | Boss Surrender |
+| [**Scene 210**](#scene-210) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
+| [**Scene 211**](#scene-211) | Unknown |  | Roleplay |
+| [**Scene 212**](#scene-212) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
+| [**Scene 213**](#scene-213) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (21:10) | Boss Surrender |
+| [**Scene 214**](#scene-214) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:15) | Roleplay |
+| [**Scene 215**](#scene-215) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
+| [**Scene 216**](#scene-216) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Social Challenge |
+| [**Scene 217**](#scene-217) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
+| [**Scene 218**](#scene-218) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:25) | Roleplay |
+| [**Scene 219**](#scene-219) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Boss Surrender |
+| [**Scene 220**](#scene-220) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Roleplay |
+| [**Scene 221**](#scene-221) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Boss Surrender |
+| [**Scene 222**](#scene-222) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Roleplay |
+| [**Scene 223**](#scene-223) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:00) | Roleplay |
+| [**Scene 224**](#scene-224) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:15) | Boss Surrender |
+| [**Scene 225**](#scene-225) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (22:30) | Roleplay |
+| [**Scene 226**](#scene-226) | Unknown |  | Roleplay |
+| [**Scene 227**](#scene-227) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (Night) | Roleplay |
+| [**Scene 228**](#scene-228) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
+| [**Scene 229**](#scene-229) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
+| [**Scene 230**](#scene-230) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
+| [**Scene 231**](#scene-231) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
+| [**Scene 232**](#scene-232) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
+| [**Scene 233**](#scene-233) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
+| [**Scene 234**](#scene-234) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Boss Surrender |
+| [**Scene 235**](#scene-235) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:20) | Roleplay |
+| [**Scene 236**](#scene-236) | Blighted Village Square | Mirtul 21, 1492 DR (23:25) | Social Challenge |
+| [**Scene 237**](#scene-237) | Blighted Village Square | Mirtul 21, 1492 DR (23:40) | Social Challenge |
+| [**Scene 238**](#scene-238) | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Social Challenge |
+| [**Scene 239**](#scene-239) | Unknown |  | Roleplay |
+| [**Scene 240**](#scene-240) | Blighted Village Square | Night, 1492 DR (Mirtul 21) | Roleplay |
+| [**Scene 241**](#scene-241) | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Roleplay |
+| [**Scene 242**](#scene-242) | Blighted Village Square | Mirtul 22, 1492 DR (00:10) | Roleplay |
+| [**Scene 243**](#scene-243) | Blighted Village Square | Mirtul 22, 1492 DR (00:25 (Deep Night)) | Roleplay |
+| [**Scene 244**](#scene-244) | Blighted Village Square (Tower Overlook) | Mirtul 22, 1492 DR (08:35) | Roleplay |
+| [**Scene 245**](#scene-245) | Blighted Village Square | Mirtul 22, 1492 DR (16:35) | Roleplay |
+| [**Scene 246**](#scene-246) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:35) | Roleplay |
+| [**Scene 247**](#scene-247) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:50) | Boss Surrender |
+| [**Scene 248**](#scene-248) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (18:20) | Boss Surrender |
+| [**Scene 249**](#scene-249) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:35) | Boss Surrender |
+| [**Scene 250**](#scene-250) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:50) | Boss Surrender |
+| [**Scene 251**](#scene-251) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:55) | Social Challenge |
+| [**Scene 252**](#scene-252) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:10) | Roleplay |
+| [**Scene 253**](#scene-253) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:25) | Boss Surrender |
+| [**Scene 254**](#scene-254) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:40) | Roleplay |
+| [**Scene 255**](#scene-255) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
+| [**Scene 256**](#scene-256) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
+| [**Scene 257**](#scene-257) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
+| [**Scene 258**](#scene-258) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:10) | Boss Surrender |
+| [**Scene 259**](#scene-259) | Unknown |  | Roleplay |
+| [**Scene 260**](#scene-260) | Unknown |  | Roleplay |
+| [**Scene 261**](#scene-261) | Unknown |  | Roleplay |
+| [**Scene 262**](#scene-262) | Unknown |  | Roleplay |
+| [**Scene 263**](#scene-263) | Unknown |  | Roleplay |
+| [**Scene 264**](#scene-264) | Unknown |  | Roleplay |
+| [**Scene 265**](#scene-265) | Unknown |  | Roleplay |
+| [**Scene 266**](#scene-266) | Unknown |  | Roleplay |
+| [**Scene 267**](#scene-267) | Unknown |  | Roleplay |
+| [**Scene 268**](#scene-268) | Unknown |  | Roleplay |
+| [**Scene 269**](#scene-269) | Unknown |  | Roleplay |
+| [**Scene 270**](#scene-270) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:25) | Roleplay |
+| [**Scene 271**](#scene-271) | Unknown |  | Roleplay |
+| [**Scene 272**](#scene-272) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
+| [**Scene 273**](#scene-273) | Unknown |  | Roleplay |
+| [**Scene 274**](#scene-274) | Unknown |  | Roleplay |
+| [**Scene 275**](#scene-275) | Unknown |  | Roleplay |
+| [**Scene 276**](#scene-276) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
+| [**Scene 277**](#scene-277) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (21:00) | Social Challenge |
+| [**Scene 278**](#scene-278) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (22:10) | Social Challenge |
+| [**Scene 279**](#scene-279) | Shattered Sanctum Main Hall | Mirtul 24, 1492 DR (Night) | Roleplay |
+| [**Scene 280**](#scene-280) | Shattered Sanctum | Hammer 14, 1492 DR (12:00) | Roleplay |
+| [**Scene 281**](#scene-281) | Unknown |  | Roleplay |
+| [**Scene 282**](#scene-282) | Shattered Sanctum | Day 13, 2026 (22:00) | Roleplay |
+| [**Scene 283**](#scene-283) | Shattered Sanctum | Month 1, 2026 DR (Day 13) | Roleplay |
+| [**Scene 284**](#scene-284) | Shattered Sanctum | Month 1 Day 13, 2026 DR (22:00) | Roleplay |
+| [**Scene 285**](#scene-285) | Unknown |  | Roleplay |
+| [**Scene 286**](#scene-286) | Unknown |  | Roleplay |
+| [**Scene 287**](#scene-287) | The Mountain Pass | Month 1 Day 13, 2026 DR (23:00) | Roleplay |
+| [**Scene 288**](#scene-288) | The Mountain Pass | 2026-01-13T22:00:00.000003Z | Roleplay |
+| [**Scene 289**](#scene-289) | Unknown |  | Roleplay |
+| [**Scene 290**](#scene-290) | The Mountain Pass | 2026-01-13, Midday | Roleplay |
+| [**Scene 291**](#scene-291) | Unknown |  | Roleplay |
+| [**Scene 292**](#scene-292) | The Mountain Pass | 1 13, 2026 DR (23:15) | Boss Surrender |
+| [**Scene 293**](#scene-293) | The Mountain Pass | Month 1 Day 14, 2026 DR (06:00) | Boss Surrender |
+| [**Scene 294**](#scene-294) | The Mountain Pass | 1 14, 1492 DR (07:15) | Roleplay |
+| [**Scene 295**](#scene-295) | The Mountain Pass | 1 14, 2026 DR (07:30) | Roleplay |
+| [**Scene 296**](#scene-296) | Unknown |  | Roleplay |
+| [**Scene 297**](#scene-297) | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 298**](#scene-298) | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 299**](#scene-299) | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 300**](#scene-300) | The Mountain Pass | 1 14, 2026 DR (07:30) | Roleplay |
+| [**Scene 301**](#scene-301) | The Mountain Pass | Month 1 Day 14, 2026 DR (08:30) | Boss Surrender |
+| [**Scene 302**](#scene-302) | The Mountain Pass | Month 1 Day 14, 2026 DR (Morning) | Roleplay |
+| [**Scene 303**](#scene-303) | The Mountain Pass | 1 14, 2026 DR (08:30) | Roleplay |
+| [**Scene 304**](#scene-304) | The Mountain Pass - Strategic Ledge | 1 14, 2026 DR (11:30) | Roleplay |
+| [**Scene 305**](#scene-305) | The Mountain Pass / Grymforge Approach | Month 1 Day 14, 2026 DR (13:45) | Roleplay |
+| [**Scene 306**](#scene-306) | The Mountain Pass | 2026-01-14T13:45:00.000001Z | Roleplay |
+| [**Scene 307**](#scene-307) | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 308**](#scene-308) | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 309**](#scene-309) | The Mountain Pass | 2026-01-14T13:45:00.000001Z | Roleplay |
+| [**Scene 310**](#scene-310) | The Mountain Pass (Precipice) | 2026-01-14, Afternoon | Roleplay |
+| [**Scene 311**](#scene-311) | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 312**](#scene-312) | The Mountain Pass | 2026-01-14T13:45:00.000001Z | Roleplay |
+| [**Scene 313**](#scene-313) | The Mountain Pass | 2026-01-14T13:45:00.000002Z | Roleplay |
+| [**Scene 314**](#scene-314) | The Mountain Pass | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 315**](#scene-315) | The Mountain Pass / Grymforge / Creche Y'llek | 1 14, 2026 DR (15:30) | Roleplay |
+| [**Scene 316**](#scene-316) | Creche Y'llek - Inquisitor's Chambers / Grymforge | 1 14, 2026 DR (15:45) | Roleplay |
+| [**Scene 317**](#scene-317) | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (15:45) | Roleplay |
+| [**Scene 318**](#scene-318) | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (16:00) | Roleplay |
+| [**Scene 319**](#scene-319) | Creche Y'llek - Inquisitor's Chambers | 2026-01-14, 16:00:01 | Roleplay |
+| [**Scene 320**](#scene-320) | Creche Y'llek - Inquisitor's Chambers | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 321**](#scene-321) | Unknown |  | Roleplay |
+| [**Scene 322**](#scene-322) | Creche Y'llek - Inquisitor's Chambers | 2026-01-14T16:00:00.000000Z | Roleplay |
+| [**Scene 323**](#scene-323) | Creche Y'llek - Inquisitor's Chambers | Mirtul 14, 2026 DR (15:46) | Roleplay |
+| [**Scene 324**](#scene-324) | Unknown |  | Roleplay |
+| [**Scene 325**](#scene-325) | Creche Y'llek - Inquisitor's Chambers | 1 14, 1492 DR (Modified) (15:46) | Roleplay |
+| [**Scene 326**](#scene-326) | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (15:47) | Roleplay |
+| [**Scene 327**](#scene-327) | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (15:47) | Roleplay |
+| [**Scene 328**](#scene-328) | Creche Y'llek - Inquisitor's Chambers | Mirtul 16, 1492 DR (15:50) | Roleplay |
+| [**Scene 329**](#scene-329) | Creche Y'llek - Inquisitor's Chambers | 2026-01-14T15:50:00.000001Z | Roleplay |
+| [**Scene 330**](#scene-330) | Creche Y'llek - Inquisitor's Chambers | Hammer 14, 1492 DR (15:55) | Boss Surrender |
+| [**Scene 331**](#scene-331) | Creche Y'llek - Inquisitor's Chambers | 1 14, 2026 DR (16:05) | Roleplay |
+| [**Scene 332**](#scene-332) | Creche Y'llek - Captain's Quarters | Alturiak 14, 2026 DR (16:10) | Roleplay |
+| [**Scene 333**](#scene-333) | Rosymorn Monastery - Perimeter | Alturiak 14, 2026 DR (16:30) | Roleplay |
+| [**Scene 334**](#scene-334) | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 335**](#scene-335) | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 336**](#scene-336) | Rosymorn Monastery - Perimeter | 1 14, 2026 DR (16:15) | Boss Surrender |
+| [**Scene 337**](#scene-337) | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 338**](#scene-338) | Rosymorn Monastery - Perimeter | 1 14, 2026 DR (16:20) | Boss Surrender |
+| [**Scene 339**](#scene-339) | Rosymorn Monastery - Perimeter | 1 14, 2026 DR (17:00) | Roleplay |
+| [**Scene 340**](#scene-340) | Rosymorn Monastery - Perimeter | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 341**](#scene-341) | Rosymorn Monastery - Broken Sundial | 1 14, 2026 DR (17:40) | Boss Surrender |
+| [**Scene 342**](#scene-342) | Rosymorn Monastery - Secret Chamber | Hammer 14, 1492 DR (18:20) | Roleplay |
+| [**Scene 343**](#scene-343) | Rosymorn Monastery - Secret Chamber | 2026-01-14T18:20:01.000001Z | Roleplay |
+| [**Scene 344**](#scene-344) | Rosymorn Monastery - Secret Chamber | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 345**](#scene-345) | Rosymorn Monastery - Secret Chamber | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 346**](#scene-346) | Rosymorn Monastery - Secret Chamber | 2026-01-14T18:20:01.000001Z | Roleplay |
+| [**Scene 347**](#scene-347) | Rosymorn Monastery - Secret Chamber / Lathanderian Vault | 1 14, 2026 DR (19:00) | Boss Surrender |
+| [**Scene 348**](#scene-348) | Lathanderian Vault | Alturiak 14, 1492 DR (19:00) | Roleplay |
+| [**Scene 349**](#scene-349) | Rosymorn Monastery - Secret Chamber | Alturiak 14, 2026 DR (18:25) | Roleplay |
+| [**Scene 350**](#scene-350) | Grymforge - Abandoned Outpost | Month 1, 2026 DR (Day 14) | Boss Surrender |
+| [**Scene 351**](#scene-351) | Grymforge - Abandoned Outpost | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 352**](#scene-352) | Grymforge - Abandoned Outpost | 1 14, 2026 DR (18:35) | Roleplay |
+| [**Scene 353**](#scene-353) | Grymforge - Abandoned Outpost | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 354**](#scene-354) | Unknown |  | Roleplay |
+| [**Scene 355**](#scene-355) | Unknown |  | Roleplay |
+| [**Scene 356**](#scene-356) | Grymforge - Lower Levels | 1 14, 2026 DR (18:45) | Roleplay |
+| [**Scene 357**](#scene-357) | Grymforge - Lower Levels | Hammer 14, 1492 DR (18:45) | Roleplay |
+| [**Scene 358**](#scene-358) | Grymforge - Lower Levels | Mirtul 20, 1492 DR (18:00) | Roleplay |
+| [**Scene 359**](#scene-359) | Grymforge - Lower Levels | 2026-01-14T19:00:00.000000Z | Roleplay |
+| [**Scene 360**](#scene-360) | Grymforge - Lower Levels | Hammer 15, 1492 DR (19:30) | Roleplay |
+| [**Scene 361**](#scene-361) | Unknown |  | Roleplay |
+| [**Scene 362**](#scene-362) | Grymforge - Lower Levels | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 363**](#scene-363) | Grymforge - Lower Levels | Hammer 14, 1492 DR (20:30) | Roleplay |
+| [**Scene 364**](#scene-364) | Grymforge - Lower Levels | 2026-01-14T20:30:00.000000Z | Roleplay |
+| [**Scene 365**](#scene-365) | Grymforge - Lower Levels | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 366**](#scene-366) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:00) | Roleplay |
+| [**Scene 367**](#scene-367) | Grymforge - The Adamantine Forge | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 368**](#scene-368) | Grymforge - The Adamantine Forge | Month 1 Day 14, 2026 DR (Night) | Roleplay |
+| [**Scene 369**](#scene-369) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (20:35) | Roleplay |
+| [**Scene 370**](#scene-370) | Grymforge - The Adamantine Forge | Month 1 Day 14, 2026 DR (20:31) | Social Challenge |
+| [**Scene 371**](#scene-371) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (20:35) | Social Challenge |
+| [**Scene 372**](#scene-372) | Grymforge - The Adamantine Forge | Alturiak 14, 2026 DR (20:40) | Boss Surrender |
+| [**Scene 373**](#scene-373) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (20:45) | Roleplay |
+| [**Scene 374**](#scene-374) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:30) | Boss Surrender |
+| [**Scene 375**](#scene-375) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:00) | Roleplay |
+| [**Scene 376**](#scene-376) | Grymforge - The Adamantine Forge | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 377**](#scene-377) | Grymforge - The Adamantine Forge | Month 1, 2026 DR (Day 14) | Roleplay |
+| [**Scene 378**](#scene-378) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:05) | Roleplay |
+| [**Scene 379**](#scene-379) | Grymforge - The Adamantine Forge | 1 14, 2026 DR (21:15) | Boss Surrender |
+| [**Scene 380**](#scene-380) | Grymforge - The Adamantine Forge | 1 15, 2026 DR (05:15) | Boss Surrender |
+| [**Scene 381**](#scene-381) | Grymforge - The Adamantine Forge | Hammer 15, 1492 DR (Dawn) | Roleplay |
+| [**Scene 382**](#scene-382) | Grymforge - The Adamantine Forge | Hammer 15, 1492 DR (Dawn) | Roleplay |
+| [**Scene 383**](#scene-383) | Shadow-Cursed Lands - Western Ingress | Jan 15, 2026 DR (08:30) | Boss Surrender |
+| [**Scene 384**](#scene-384) | Shadow-Cursed Lands - Western Ingress | 2026-01-15T08:30:00Z | Roleplay |
+| [**Scene 385**](#scene-385) | Shadow-Cursed Lands - Western Ingress | 2026-01-15, Morning | Roleplay |
+| [**Scene 386**](#scene-386) | Shadow-Cursed Lands - Western Ingress | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 387**](#scene-387) | Shadow-Cursed Lands - Western Ingress | 1 15, 2026 DR (09:00) | Boss Surrender |
+| [**Scene 388**](#scene-388) | Shadow-Cursed Lands - Western Ingress | 1 15, 2026 DR (09:15) | Roleplay |
+| [**Scene 389**](#scene-389) | Shadow-Cursed Lands - Near Last Light Outskirts | Hammer 15, 1492 DR (10:00 (Morning)) | Roleplay |
+| [**Scene 390**](#scene-390) | Shadow-Cursed Lands - Reithwin Suburbs | Alturiak 15, 1492 DR (Setting Sync) (11:00) | Roleplay |
+| [**Scene 391**](#scene-391) | Shadow-Cursed Lands - Reithwin Suburbs | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 392**](#scene-392) | Shadow-Cursed Lands - Reithwin Suburbs | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 393**](#scene-393) | Shadow-Cursed Lands - Reithwin Suburbs | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 394**](#scene-394) | Shadow-Cursed Lands - Moonrise Perimeter | Hammer 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 395**](#scene-395) | Moonrise Towers - Main Entrance | Month 1 Day 15, 2026 DR (13:30 (Afternoon)) | Roleplay |
+| [**Scene 396**](#scene-396) | Moonrise Towers - Main Hall | Hammer 15, 1492 DR (13:35) | Roleplay |
+| [**Scene 397**](#scene-397) | Moonrise Towers - Main Hall | Hammer 15, 1492 DR (14:35) | Roleplay |
+| [**Scene 398**](#scene-398) | Moonrise Towers - Main Hall / Shadowfell Ingress | 1 15, 1492 DR (14:45) | Roleplay |
+| [**Scene 399**](#scene-399) | Shadowfell Ingress / Gauntlet of Shar | 1 15, 2026 DR (14:50) | Roleplay |
+| [**Scene 400**](#scene-400) | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 401**](#scene-401) | Shadowfell Ingress / Gauntlet of Shar | 1 15, 2026 DR (15:00) | Roleplay |
+| [**Scene 402**](#scene-402) | Gauntlet of Shar / Shadowfell Ingress | Month 1 Day 15, 2026 DR (Afternoon) | Roleplay |
+| [**Scene 403**](#scene-403) | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 404**](#scene-404) | Unknown |  | Roleplay |
+| [**Scene 405**](#scene-405) | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 406**](#scene-406) | Shadowfell Ingress / Gauntlet of Shar | Month 1, 2026 DR (Day 15) | Boss Surrender |
+| [**Scene 407**](#scene-407) | Shadowfell Ingress / Gauntlet of Shar | 2026-01-15, Afternoon | Roleplay |
+| [**Scene 408**](#scene-408) | Shadowfell Ingress / Gauntlet of Shar | Month 1 Day 15, 2026 DR (Afternoon) | Roleplay |
+| [**Scene 409**](#scene-409) | Shadowfell Ingress / Gauntlet of Shar | Month 1 Day 15, 2026 DR (Afternoon) | Roleplay |
+| [**Scene 410**](#scene-410) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 411**](#scene-411) | Moonrise Towers (Rooftop) | 1 15, 1492 DR (15:10) | Social Challenge |
+| [**Scene 412**](#scene-412) | Moonrise Towers (Rooftop) | 1492 DR, Highsun | 15:15 | Roleplay |
+| [**Scene 413**](#scene-413) | Moonrise Towers (Rooftop) | Month 1 Day 15, 2026 DR (15:20) | Social Challenge |
+| [**Scene 414**](#scene-414) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 415**](#scene-415) | Moonrise Towers (Rooftop) | Alturiak 15, 1492 DR (15:45) | Boss Surrender |
+| [**Scene 416**](#scene-416) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Boss Surrender |
+| [**Scene 417**](#scene-417) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (16:00) | Boss Surrender |
+| [**Scene 418**](#scene-418) | Moonrise Towers (Rooftop) | Hammer 15, 1492 DR (17:00) | Boss Surrender |
+| [**Scene 419**](#scene-419) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (17:15) | Boss Surrender |
+| [**Scene 420**](#scene-420) | Unknown |  | Roleplay |
+| [**Scene 421**](#scene-421) | Moonrise Towers (Rooftop) | 2026-01-15T17:15:00.000000Z | Roleplay |
+| [**Scene 422**](#scene-422) | Moonrise Towers (Rooftop) | Alturiak 15, 1492 DR (18:30 (Afternoon)) | Boss Surrender |
+| [**Scene 423**](#scene-423) | Moonrise Towers (Rooftop) | 2026-01-15T18:30:00.000000Z | Roleplay |
+| [**Scene 424**](#scene-424) | Unknown |  | Roleplay |
+| [**Scene 425**](#scene-425) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 426**](#scene-426) | Moonrise Towers (Rooftop) | Alturiak 15, 1492 DR (18:45) | Boss Surrender |
+| [**Scene 427**](#scene-427) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Boss Surrender |
+| [**Scene 428**](#scene-428) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:00) | Roleplay |
+| [**Scene 429**](#scene-429) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:15) | Social Challenge |
+| [**Scene 430**](#scene-430) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:30) | Boss Surrender |
+| [**Scene 431**](#scene-431) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (19:45) | Boss Surrender |
+| [**Scene 432**](#scene-432) | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (20:00) | Roleplay |
+| [**Scene 433**](#scene-433) | Moonrise Towers (Rooftop) | 2026-01-15, Night | Roleplay |
+| [**Scene 434**](#scene-434) | Moonrise Towers (Rooftop) | 2026-01-15, Night | Roleplay |
+| [**Scene 435**](#scene-435) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (21:30) | Boss Surrender |
+| [**Scene 436**](#scene-436) | Moonrise Towers (Rooftop) | 2026-01-15T21:30:00Z | Roleplay |
+| [**Scene 437**](#scene-437) | Moonrise Towers (Rooftop) | 2026-01-15T21:30:00.000000Z | Roleplay |
+| [**Scene 438**](#scene-438) | Unknown |  | Roleplay |
+| [**Scene 439**](#scene-439) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 440**](#scene-440) | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (22:00) | Roleplay |
+| [**Scene 441**](#scene-441) | Moonrise Towers (Rooftop) | Month 1 Day 15, 2026 DR (Night) | Roleplay |
+| [**Scene 442**](#scene-442) | Unknown |  | Roleplay |
+| [**Scene 443**](#scene-443) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 444**](#scene-444) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Boss Surrender |
+| [**Scene 445**](#scene-445) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (22:15) | Roleplay |
+| [**Scene 446**](#scene-446) | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (22:30) | Boss Surrender |
+| [**Scene 447**](#scene-447) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 448**](#scene-448) | Moonrise Towers (Rooftop) | 2026-01-15 DR, Night | Roleplay |
+| [**Scene 449**](#scene-449) | Moonrise Towers (Rooftop) | Alturiak 16, 1492 DR (22:45) | Roleplay |
+| [**Scene 450**](#scene-450) | Moonrise Towers (Rooftop) | 1 15, 2026 DR (23:00) | Roleplay |
+| [**Scene 451**](#scene-451) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 15) | Roleplay |
+| [**Scene 452**](#scene-452) | Moonrise Towers (Rooftop) | Alturiak 15, 2026 DR (23:15) | Roleplay |
+| [**Scene 453**](#scene-453) | Unknown |  | Roleplay |
+| [**Scene 454**](#scene-454) | Unknown |  | Roleplay |
+| [**Scene 455**](#scene-455) | Moonrise Towers (Rooftop) | 2026-01-15, Night | Roleplay |
+| [**Scene 456**](#scene-456) | Moonrise Towers (Rooftop) | Hammer 16, 1492 DR (06:00 (Dawn)) | Roleplay |
+| [**Scene 457**](#scene-457) | Moonrise Towers (Rooftop) | Alturiak 16, 2026 DR (06:15) | Roleplay |
+| [**Scene 458**](#scene-458) | Moonrise Towers (Rooftop) | 1 16, 2026 DR (06:15) | Roleplay |
+| [**Scene 459**](#scene-459) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 460**](#scene-460) | Moonrise Towers (Rooftop) | 1 16, 2026 DR (07:00) | Roleplay |
+| [**Scene 461**](#scene-461) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 462**](#scene-462) | Moonrise Towers (Rooftop) | 1 16, 2026 DR (06:15) | Boss Surrender |
+| [**Scene 463**](#scene-463) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Boss Surrender |
+| [**Scene 464**](#scene-464) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 465**](#scene-465) | Moonrise Towers (Rooftop) | 1 16, 2026 DR (07:30) | Roleplay |
+| [**Scene 466**](#scene-466) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 467**](#scene-467) | Moonrise Towers (Rooftop) | Alturiak 16, 1492 DR (07:30) | Roleplay |
+| [**Scene 468**](#scene-468) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 469**](#scene-469) | Moonrise Towers (Rooftop) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 470**](#scene-470) | Moonrise Towers (Rooftop) | 1 16, 2026 DR (08:30) | Roleplay |
+| [**Scene 471**](#scene-471) | Moonrise Towers (Rooftop) | 2026-01-16T08:30:00.000001Z | Roleplay |
+| [**Scene 472**](#scene-472) | Morphic Pool (Baldur's Gate Undercity) | Hammer 16, 1492 DR (09:00) | Social Challenge |
+| [**Scene 473**](#scene-473) | Morphic Pool (Baldur's Gate Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 474**](#scene-474) | Morphic Pool (Undercity) | 2026-01-16, Morning | Roleplay |
+| [**Scene 475**](#scene-475) | Morphic Pool (Undercity) | 1 16, 2026 DR (09:00) | Roleplay |
+| [**Scene 476**](#scene-476) | Morphic Pool (Undercity) | 1 16, 2026 DR (09:15) | Boss Surrender |
+| [**Scene 477**](#scene-477) | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 478**](#scene-478) | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 479**](#scene-479) | Morphic Pool (Undercity) | Alturiak 16, 1492 DR (09:15) | Roleplay |
+| [**Scene 480**](#scene-480) | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 481**](#scene-481) | Morphic Pool (Undercity) | 2026-01-16, Morning | Roleplay |
+| [**Scene 482**](#scene-482) | Morphic Pool (Undercity) | 1 16, 2026 DR (09:20) | Boss Surrender |
+| [**Scene 483**](#scene-483) | Morphic Pool (Baldur's Gate Undercity) | Month 1 Day 16, 2026 DR (10:45) | Roleplay |
+| [**Scene 484**](#scene-484) | Morphic Pool (Undercity) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 485**](#scene-485) | Wyrm's Rock Fortress (High Hall) | Hammer 16, 1492 DR (12:00) | Boss Surrender |
+| [**Scene 486**](#scene-486) | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 487**](#scene-487) | Wyrm's Rock Fortress (High Hall) | 1 16, 2026 DR (14:00) | Boss Surrender |
+| [**Scene 488**](#scene-488) | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 489**](#scene-489) | Wyrm's Rock Fortress (High Hall) | 1 16, 2026 DR (12:15) | Boss Surrender |
+| [**Scene 490**](#scene-490) | Wyrm's Rock Fortress (High Hall) | Highsun 20, 1492 DR (12:20 (Microsecond +1)) | Roleplay |
+| [**Scene 491**](#scene-491) | Wyrm's Rock Fortress (High Hall) | Hammer 16, 1492 DR (14:00) | Boss Surrender |
+| [**Scene 492**](#scene-492) | Wyrm's Rock Fortress (High Hall) | 1 16, 2026 DR (13:30) | Boss Surrender |
+| [**Scene 493**](#scene-493) | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 494**](#scene-494) | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 495**](#scene-495) | Wyrm's Rock Fortress (High Hall) | 2026-01-16, Midday | Roleplay |
+| [**Scene 496**](#scene-496) | Wyrm's Rock Fortress (High Hall) | Hammer 16, 1492 DR (13:30) | Roleplay |
+| [**Scene 497**](#scene-497) | Wyrm's Rock Fortress (High Hall) | 2026-01-16, Midday (13:30:00.000005Z) | Roleplay |
+| [**Scene 498**](#scene-498) | Wyrm's Rock Fortress (High Hall) | Month 1, 2026 DR (Day 16) | Roleplay |
+| [**Scene 499**](#scene-499) | Athkatla (Council of Six Chambers) | 1 16, 2026 DR (14:15) | Roleplay |
+| [**Scene 500**](#scene-500) | Athkatla (Council Chambers) | Mirtul 16, 1492 DR (14:20) | Social Challenge |
+| [**Scene 501**](#scene-501) | Athkatla (Council Chambers) | Month 1, 1492 DR (Day 16) | Roleplay |
+| [**Scene 502**](#scene-502) | Athkatla (Council Chambers) | 1 16, 2026 DR (14:30) | Boss Surrender |
+| [**Scene 503**](#scene-503) | Athkatla (Council Chambers) | 1 16, 2026 DR (15:30) | Boss Surrender |
+| [**Scene 504**](#scene-504) | Athkatla (Government District) | Hammer 16, 2026 DR (16:45) | Roleplay |
+| [**Scene 505**](#scene-505) | Athkatla (Government District) | 1 18, 2026 DR (10:00) | Roleplay |
+| [**Scene 506**](#scene-506) | Athkatla (Government District) | Month 1, 2026 DR (Day 18) | Roleplay |
+| [**Scene 507**](#scene-507) | Athkatla (Government District) | Month 1, 2026 DR (Day 18) | Roleplay |
+| [**Scene 508**](#scene-508) | Athkatla (Government District) | 2026-01-18, Morning | Roleplay |
+| [**Scene 509**](#scene-509) | Athkatla (Government District) | 2026-01-18, Morning | Roleplay |
+| [**Scene 510**](#scene-510) | Athkatla (Government District) / Baldur's Gate (Upper City) | Alturiak 18, 2026 DR (10:00) | Boss Surrender |
+| [**Scene 511**](#scene-511) | Athkatla / Baldur's Gate | Month 1, 2026 DR (Day 18) | Roleplay |
+| [**Scene 512**](#scene-512) | Athkatla / Baldur's Gate | 2026-01-18T10:00:15.000001Z | Roleplay |
+| [**Scene 513**](#scene-513) | Baldur's Gate / Shattered Rose (Abyss) | 1 18, 2026 DR (11:00) | Boss Surrender |
+| [**Scene 514**](#scene-514) | Baldur's Gate / Athkatla (Shadow Sovereign's Court) | Alturiak 15, 2026 DR (09:00) | Roleplay |
+| [**Scene 515**](#scene-515) | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Boss Surrender |
+| [**Scene 516**](#scene-516) | High Seas / Baldur's Gate / Athkatla | 2026-02-15T10:00:00Z | Roleplay |
+| [**Scene 517**](#scene-517) | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 518**](#scene-518) | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 519**](#scene-519) | High Hall / Morphic Pool / Shattered Rose | Alturiak 22, 1492 DR (10:00) | Roleplay |
+| [**Scene 520**](#scene-520) | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (Morning) | Roleplay |
+| [**Scene 521**](#scene-521) | Unknown |  | Roleplay |
+| [**Scene 522**](#scene-522) | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 1492 DR (10:00) | Roleplay |
+| [**Scene 523**](#scene-523) | The Shattered Rose / Athkatla / Baldur's Gate | Alturiak 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 524**](#scene-524) | High Seas / Baldur's Gate / Athkatla | Alturiak 15, 2026 DR (10:00) | Boss Surrender |
+| [**Scene 525**](#scene-525) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 2026 DR (10:15) | Social Challenge |
+| [**Scene 526**](#scene-526) | The Shattered Rose (Abyssal Sub-plane) | Mirtul 22, 1492 DR (10:15) | Social Challenge |
+| [**Scene 527**](#scene-527) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (09:00) | Roleplay |
+| [**Scene 528**](#scene-528) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (11:00) | Roleplay |
+| [**Scene 529**](#scene-529) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 2026 DR (11:00) | Roleplay |
+| [**Scene 530**](#scene-530) | Unknown |  | Roleplay |
+| [**Scene 531**](#scene-531) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (11:00) | Roleplay |
+| [**Scene 532**](#scene-532) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 2026 DR (12:00) | Roleplay |
+| [**Scene 533**](#scene-533) | Unknown |  | Roleplay |
+| [**Scene 534**](#scene-534) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 1492 DR (13:30) | Roleplay |
+| [**Scene 535**](#scene-535) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 16, 2026 DR (17:30) | Social Challenge |
+| [**Scene 536**](#scene-536) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 1492 DR (17:35) | Social Challenge |
+| [**Scene 537**](#scene-537) | The Shattered Rose (Abyssal Sub-plane) | Alturiak 15, 1492 DR (12:00) | Social Challenge |
+| [**Scene 538**](#scene-538) | Blackstaff Tower (Waterdeep) | Alturiak 16, 2026 DR (09:00) | Boss Surrender |
+| [**Scene 539**](#scene-539) | Blackstaff Tower (Waterdeep) | Alturiak 16, 2026 DR (09:00) | Boss Surrender |
+| [**Scene 540**](#scene-540) | Blackstaff Tower (Waterdeep) | Alturiak 15, 2026 DR (09:00) | Roleplay |
+| [**Scene 541**](#scene-541) | Blackstaff Tower (Waterdeep) | Alturiak 16, 2026 DR (09:00) | Roleplay |
+| [**Scene 542**](#scene-542) | Blackstaff Tower (Waterdeep) | Alturiak 15, 1492 DR (10:00) | Boss Surrender |
+| [**Scene 543**](#scene-543) | Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss) | Alturiak 15, 1492 DR (Calculated) (10:00) | Roleplay |
+| [**Scene 544**](#scene-544) | Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss) | Alturiak 16, 2026 DR (10:15) | Boss Surrender |
+| [**Scene 545**](#scene-545) | Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss) | Alturiak 20, 2026 DR (10:15) | Roleplay |
+| [**Scene 546**](#scene-546) | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Social Challenge |
+| [**Scene 547**](#scene-547) | Unknown |  | Roleplay |
+| [**Scene 548**](#scene-548) | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
+| [**Scene 549**](#scene-549) | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
+| [**Scene 550**](#scene-550) | Blackstaff Tower | Ches 18, 2026 DR (11:30) | Boss Surrender |
+| [**Scene 551**](#scene-551) | Blackstaff Tower | Alturiak 20, 1492 DR (11:30) | Roleplay |
+| [**Scene 552**](#scene-552) | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
+| [**Scene 553**](#scene-553) | Blackstaff Tower | Alturiak 20, 2026 DR (11:30) | Roleplay |
+| [**Scene 554**](#scene-554) | Unknown |  | Roleplay |
+| [**Scene 555**](#scene-555) | Blackstaff Tower | Alturiak 21, 2026 DR (09:00) | Roleplay |
+| [**Scene 556**](#scene-556) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 21, 1492 DR (10:00) | Roleplay |
+| [**Scene 557**](#scene-557) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 21, 2026 DR (10:00) | Roleplay |
+| [**Scene 558**](#scene-558) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 21, 2026 DR (10:00) | Roleplay |
+| [**Scene 559**](#scene-559) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 22, 1492 DR (09:00) | Roleplay |
+| [**Scene 560**](#scene-560) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 27, 2026 DR (09:00) | Roleplay |
+| [**Scene 561**](#scene-561) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 22, 2026 DR (09:00) | Roleplay |
+| [**Scene 562**](#scene-562) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 27, 2026 DR (09:00) | Roleplay |
+| [**Scene 563**](#scene-563) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 27, 2026 DR (09:00) | Roleplay |
+| [**Scene 564**](#scene-564) | Shattered Rose (Abyssal Sub-Plane) | Alturiak 23, 1492 DR (10:00) | Roleplay |
+| [**Scene 565**](#scene-565) | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
+| [**Scene 566**](#scene-566) | The Gilded Vault | Alturiak 27, 1492 DR (10:20) | Roleplay |
+| [**Scene 567**](#scene-567) | The Gilded Vault | Alturiak 27, 2026 DR (10:30) | Boss Surrender |
+| [**Scene 568**](#scene-568) | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
+| [**Scene 569**](#scene-569) | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
+| [**Scene 570**](#scene-570) | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
+| [**Scene 571**](#scene-571) | The Gilded Vault | Alturiak 20, 2026 DR (Morning) | Roleplay |
+| [**Scene 572**](#scene-572) | The Gilded Vault | Alturiak 20, 2026 DR (Morning) | Roleplay |
+| [**Scene 573**](#scene-573) | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
+| [**Scene 574**](#scene-574) | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
+| [**Scene 575**](#scene-575) | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
+| [**Scene 576**](#scene-576) | The Gilded Vault | Alturiak 22, 2026 DR (10:15) | Roleplay |
+| [**Scene 577**](#scene-577) | The Gilded Vault | Month 2 Day 27, 2026 DR (Morning) | Roleplay |
+| [**Scene 578**](#scene-578) | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
+| [**Scene 579**](#scene-579) | The Gilded Vault | Month 2 Day 27, 2026 DR (Morning) | Roleplay |
+| [**Scene 580**](#scene-580) | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
+| [**Scene 581**](#scene-581) | The Gilded Vault | 2026-02-27T10:30:00.000001Z | Roleplay |
+| [**Scene 582**](#scene-582) | The Gilded Vault | Alturiak 20, 2026 DR (10:15) | Roleplay |
+| [**Scene 583**](#scene-583) | The Gilded Vault | Alturiak 27, 2026 DR (Morning) | Roleplay |
+| [**Scene 584**](#scene-584) | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
+| [**Scene 585**](#scene-585) | The Gilded Vault | Month 2 Day 27, 2026 DR (Morning) | Roleplay |
+| [**Scene 586**](#scene-586) | The Gilded Vault | Alturiak 27, 2026 DR (10:15) | Roleplay |
+| [**Scene 587**](#scene-587) | The Gilded Vault | Alturiak 20, 1492 DR (10:30) | Boss Surrender |
+| [**Scene 588**](#scene-588) | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
+| [**Scene 589**](#scene-589) | The Gilded Vault | Alturiak 20, 1492 DR (12:00) | Boss Surrender |
+| [**Scene 590**](#scene-590) | The Gilded Vault | Alturiak 27, 2026 DR (10:45) | Roleplay |
+| [**Scene 591**](#scene-591) | The Gilded Vault | Alturiak 20, 1492 DR (11:30) | Roleplay |
+| [**Scene 592**](#scene-592) | The Gilded Vault | Alturiak 20, 2026 DR (11:30) | Roleplay |
+| [**Scene 593**](#scene-593) | Unknown |  | Roleplay |
+| [**Scene 594**](#scene-594) | The Gilded Vault | Alturiak 22, 2026 DR (12:00) | Roleplay |
+| [**Scene 595**](#scene-595) | The Gilded Vault | Alturiak 20, 2026 DR (11:30) | Roleplay |
+| [**Scene 596**](#scene-596) | The Gilded Vault | Alturiak 16, 2026 DR (09:00) | Roleplay |
+| [**Scene 597**](#scene-597) | The Gilded Vault | Alturiak 20, 2026 DR (12:00) | Roleplay |
+| [**Scene 598**](#scene-598) | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
+| [**Scene 599**](#scene-599) | The Gilded Vault | Alturiak 27, 2026 DR (12:00) | Roleplay |
+| [**Scene 600**](#scene-600) | The Gilded Vault | Alturiak 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 601**](#scene-601) | The Gilded Vault | Alturiak 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 602**](#scene-602) | The Gilded Vault | Alturiak 20, 1492 DR (14:45) | Social Challenge |
+| [**Scene 603**](#scene-603) | The Gilded Vault | Alturiak 20, 1492 DR (13:00) | Social Challenge |
+| [**Scene 604**](#scene-604) | The Gilded Vault | Month 2, 2026 DR (Day 27) | Roleplay |
+| [**Scene 605**](#scene-605) | The Gilded Vault | Alturiak 27, 2026 DR (12:00) | Boss Surrender |
+| [**Scene 606**](#scene-606) | The Gilded Vault | Alturiak 20, 2026 DR (13:05) | Roleplay |
+| [**Scene 607**](#scene-607) | The Gilded Vault | 2026-02-27 DR, 12:00:00 | Roleplay |
+| [**Scene 608**](#scene-608) | The Gilded Vault | Alturiak 20, 2026 DR (13:05) | Roleplay |
+| [**Scene 609**](#scene-609) | The Gilded Vault | Alturiak 20, 2026 DR (Midday) | Roleplay |
+| [**Scene 610**](#scene-610) | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Social Challenge |
+| [**Scene 611**](#scene-611) | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 612**](#scene-612) | The Gilded Vault | Alturiak 20, 1492 DR (14:30) | Social Challenge |
+| [**Scene 613**](#scene-613) | The Gilded Vault | Alturiak 20, 1492 DR (14:00) | Social Challenge |
+| [**Scene 614**](#scene-614) | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 615**](#scene-615) | The Shattered Rose | Alturiak 21, 1492 DR (10:00) | Social Challenge |
+| [**Scene 616**](#scene-616) | The Shattered Rose | Alturiak 20, 1492 DR (14:30) | Boss Surrender |
+| [**Scene 617**](#scene-617) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 618**](#scene-618) | The Shattered Rose | Alturiak 20, 1492 DR (14:30) | Social Challenge |
+| [**Scene 619**](#scene-619) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 620**](#scene-620) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 621**](#scene-621) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 622**](#scene-622) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 623**](#scene-623) | The Shattered Rose | Alturiak 20, 2026 DR (16:30) | Social Challenge |
+| [**Scene 624**](#scene-624) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 625**](#scene-625) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 626**](#scene-626) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 627**](#scene-627) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 628**](#scene-628) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 629**](#scene-629) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 630**](#scene-630) | The Shattered Rose | February 27, 2026 DR (16:45) | Social Challenge |
+| [**Scene 631**](#scene-631) | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 632**](#scene-632) | The Shattered Rose | Alturiak 20, 1492 DR (14:30) | Social Challenge |
+| [**Scene 633**](#scene-633) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 634**](#scene-634) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 635**](#scene-635) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 636**](#scene-636) | The Shattered Rose | Alturiak 20, 1492 DR (13:20) | Roleplay |
+| [**Scene 637**](#scene-637) | The Shattered Rose | Alturiak 20, 1492 DR (14:00) | Social Challenge |
+| [**Scene 638**](#scene-638) | The Shattered Rose | Alturiak 21, 2026 DR (13:15) | Social Challenge |
+| [**Scene 639**](#scene-639) | The Shattered Rose | Alturiak 21, 1492 DR (19:30) | Boss Surrender |
+| [**Scene 640**](#scene-640) | The Shattered Rose | Alturiak 21, 1492 DR (02:00) | Boss Surrender |
+| [**Scene 641**](#scene-641) | The Shattered Rose | February 21, 2026 DR (14:00) | Roleplay |
+| [**Scene 642**](#scene-642) | The Shattered Rose | Alturiak 21, 2026 DR (15:15) | Roleplay |
+| [**Scene 643**](#scene-643) | The Shattered Rose | Alturiak 20, 1492 DR (15:30) | Social Challenge |
+| [**Scene 644**](#scene-644) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 645**](#scene-645) | The Shattered Rose | Alturiak 20, 1492 DR (15:45) | Social Challenge |
+| [**Scene 646**](#scene-646) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 647**](#scene-647) | The Shattered Rose | Alturiak 20, 1492 DR (13:45) | Social Challenge |
+| [**Scene 648**](#scene-648) | The Shattered Rose | Alturiak 21, 1492 DR (15:45) | Social Challenge |
+| [**Scene 649**](#scene-649) | The Shattered Rose | February 21, 2026 DR (15:50) | Roleplay |
+| [**Scene 650**](#scene-650) | The Gilded Vault | Alturiak 20, 1492 DR (13:30) | Roleplay |
+| [**Scene 651**](#scene-651) | The Shattered Rose | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 652**](#scene-652) | The Shattered Rose | Alturiak 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 653**](#scene-653) | The Shattered Rose | Alturiak 21, 1492 DR (14:15) | Boss Surrender |
+| [**Scene 654**](#scene-654) | Unknown |  | Boss Surrender |
+| [**Scene 655**](#scene-655) | The Gilded Vault | Alturiak 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 656**](#scene-656) | Unknown |  | Boss Surrender |
+| [**Scene 657**](#scene-657) | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
+| [**Scene 658**](#scene-658) | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
+| [**Scene 659**](#scene-659) | The Shattered Rose | March 15, 2026 DR (09:30 (Afternoon)) | Roleplay |
+| [**Scene 660**](#scene-660) | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Boss Surrender |
+| [**Scene 661**](#scene-661) | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
+| [**Scene 662**](#scene-662) | The Shattered Rose | Tarsakh 14, 1492 DR (09:30) | Roleplay |
+| [**Scene 663**](#scene-663) | The Shattered Rose | Tarsakh 14, 1492 DR (10:45) | Roleplay |
+| [**Scene 664**](#scene-664) | The Shattered Rose | Tarsakh 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 665**](#scene-665) | The Shattered Rose | Tarsakh 14, 1492 DR (10:45) | Social Challenge |
+| [**Scene 666**](#scene-666) | The Szarr Palace | Tarsakh 14, 1492 DR (14:30) | Boss Surrender |
+| [**Scene 667**](#scene-667) | Szarr Palace | Tarsakh 15, 1492 DR (02:00) | Roleplay |
+| [**Scene 668**](#scene-668) | The Shattered Rose | Tarsakh 14, 2026 DR (14:35) | Roleplay |
+| [**Scene 669**](#scene-669) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 1/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3, Pheromone Spike: 3/3, Malcanthet's Favor: Available** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1), Prone | Inspiration: Yes**
@@ -1308,8 +1324,11 @@ The chittering is what brings the world back into focus. Three Intellect Devoure
 > 👤 **Player:**
 > *"wake shadowheart and hide  behind her and pretend to be afraid and drink hp potion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -1329,8 +1348,11 @@ Shadowheart groans, pushing herself up from the sand, her hand immediately flyin
 God Mode:
 replace zariel with Malcanthet , i have a cotnract with her instead and recap my future missoins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp**
@@ -1340,8 +1362,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the beach with Shadowheart now that Malcanthet&#x27;s influence is restored.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Inspiration: 3/3, Potions: 0, Exhaustion: 0**
@@ -1355,8 +1380,11 @@ Shadowheart glances back at you, her brow furrowed. She sees only a shivering gi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abyssal Command: Grovel - Use your Pheromone Spike to force a brain-creature to collapse into the sand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Pheromone Spike: 2/3, Inspiration: 3/3, Potions: 0, Exhaustion: 0**
@@ -1372,8 +1400,11 @@ Shadowheart, oblivious to the metaphysical strike you just leveled, misinterpret
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspire Ambition - Whisper a promise of power to Shadowheart, granting her a Bardic Inspiration die (1d6).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Pheromone Spike: 2/3, Inspiration: 2/3, Potions: 0, Exhaustion: 0**
@@ -1397,8 +1428,11 @@ INITIATIVE ORDER:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scream a Warning - Play the role of the panicked noble to distract an enemy while she strikes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Inspiration: 2/3, Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -2053,8 +2087,11 @@ Option B: Use Minor Illusion (if learned) to distract them.
 Option C: Drink your one Potion of Healing (Bonus Action) and Play Dead.
 Option D: Use Pheromone Spike (Bonus Action Command) if the DM allows the Level 4 feature to "glitch" early due to the crash trauma (High Risk).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp**
@@ -2064,8 +2101,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the combat on the beach. It is currently the end of Shadowheart&#x27;s turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Inspiration: 2/3 | Spike: 2/3**
@@ -2081,8 +2121,11 @@ Through the pink and crimson sparks flickering in your Abyssal eyes, you see the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Whisper Insecurities (Vicious Mockery) - Whisper a devastating truth about the creature&#x27;s origin to erode its will. (1d4 psychic damage + Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 1**
@@ -2096,8 +2139,11 @@ Shadowheart doesn't hear your words, only the terrifying conviction in your tone
 God Mode:
 lets assume i found standard level 1 gear like melee finesse weapon ,ranged weapon, armor on nautiloid, just like what you'd have in bg3 and equp it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Malcanthet's Favor: Ready**
@@ -2107,8 +2153,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"auto resolve combat and assume i use ranged attacks and am careful to assist shadowheart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 1**
@@ -2133,8 +2182,11 @@ Current XP: 100 / 300 (Level 1)
 God Mode:
 give me standard exp bg3 char get from nautiloid
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -2144,8 +2196,11 @@ You pause to consider your options...
 God Mode:
 i should not smell liek a demon, it should be a more subtle thing Exhaling a breath that tastes of brine and Abyssal sparks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 7/7 | XP: 300/900 | Gold: 0gp**
@@ -2155,8 +2210,11 @@ You pause to consider your options...
 God Mode:
 process my level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 25gp**
@@ -2166,8 +2224,11 @@ You pause to consider your options...
 God Mode:
 dont ig et a spell to choose?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp**
@@ -2177,8 +2238,11 @@ You pause to consider your options...
 God Mode:
 Add Tasha&#x27;s Hideous Laughter - Psychological dominance themed to your Abyssal mockery.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 35gp**
@@ -2188,8 +2252,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the beach with Shadowheart. The combat has concluded and you are standing amidst the wreckage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1**
@@ -2203,8 +2270,11 @@ She winces, clutching her side where the creature's claws found a gap in her mai
 > 👤 **Player:**
 > *"explain that as a fallen noble i've had some combat training although i havent used itbefore, act cute, then offer healing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Inspiration: Yes**
@@ -2226,8 +2296,11 @@ stop this stuff
 
 There should be no physical mention of demonic stuff, it should all be psychological and subtle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp**
@@ -2237,8 +2310,11 @@ You pause to consider your options...
 God Mode:
 as nocturne levels up people should get more and more impressed. note that not all her abilities/powers are due to the demon contract. She is very capable because she went from a prostitute to hiring a strike team and inverting the casslander ritual (all without demon powers). She is a social, intellectual, miliary prodigy and it becomes revealed as time goes on, plus demon powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp**
@@ -2248,8 +2324,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Shadowheart on the beach, focusing on Nocturne&#x27;s psychological weight and natural poise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1**
@@ -2259,8 +2338,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Psychological &amp; Prodigy Directives - Acknowledge the shift to subtle psychological Abyssal effects and Nocturne&#x27;s independent genius.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2276,8 +2358,11 @@ You step over the dissolving remains of an Intellect Devourer, your posture flaw
 > 👤 **Player:**
 > *"loot and scavene wreckage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1**
@@ -2289,8 +2374,11 @@ You pick through a cluster of dead thralls near a secondary pod, your fingers ni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Think: Strategic Assessment - Pause to assess your long-term goals and the assets at your disposal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -2302,8 +2390,11 @@ You pause amidst the wreckage, the rhythmic lapping of the tides usually a metro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Nautiloid Hull - Enter the smoking wreckage to find high-value assets before moving on.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Nautiloid Hull (Exterior Wreckage)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: Yes**
@@ -2315,8 +2406,11 @@ Your attempt to move with silent, high-born grace fails as the wreckage shifts a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Withdraw to Beach - Retreat to the open sand where Shadowheart can support you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Ravaged Beach (Nautiloid Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -2330,8 +2424,11 @@ You slip back through the organic maw of the wreckage, your footsteps silent aga
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold Ranged Attack - Wait for the threat to emerge from the smoke and fire a shortbow shot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Ravaged Beach (Nautiloid Wreckage)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Bardic Insp: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2345,8 +2442,11 @@ Shadowheart exhales, her mace still raised but her shoulders dropping an inch. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Alliance - Formally propose a partnership with Shadowheart, moving beyond the &#x27;victim&#x27; role.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Ravaged Beach (Nautiloid Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Bardic Insp: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2373,8 +2473,11 @@ Shadowheart stares at you, her grip on her mace loosening. The suspicion in her 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Scavenge - Attempt one final, careful sweep of the inner hull for high-value tech or items.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Ravaged Beach (Nautiloid Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Bardic Insp: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 0**
@@ -2399,8 +2502,11 @@ You emerge from the smoke, your fingers stained with purple ichor but your silk 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Coast (West) - Stick to the shoreline and look for other survivors or a different entrance to the ship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -2414,8 +2520,11 @@ Shadowheart shifts her mace to her primary hand, her silver plate clinking softl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Survivor - Investigate the figure near the cliffs to see if they are an asset or a threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -2431,8 +2540,11 @@ He turns slowly, his gaze sweeping over you and Shadowheart. He is striking, his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Weaponize Allure - Use Siren&#x27;s Leverage to disarm his suspicion with a display of high-born vulnerability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Exhaustion (0) | Inspiration: No**
@@ -2446,8 +2558,11 @@ He doesn't draw his blade, but he doesn't lower his guard either. Shadowheart sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prove Utility - Drop the act and demonstrate your analytical understanding of the tadpole&#x27;s suppression effects to pique his interest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -2463,8 +2578,11 @@ Astarion’s eyes flare, his grip on the hidden blade loosening as his theatrica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Cliffs - Lead the group to the upper path to get a better vantage point of the crash site.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Ravaged Beach (Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2478,8 +2596,11 @@ However, the ascent is more treacherous than your analysis accounted for. (Perce
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend Toward the Main Hull - Abandon the high ground and approach the central wreckage directly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -2493,8 +2614,11 @@ Your attempt to regain your poise and slip toward the wreckage under the cover o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fallback to Shadowheart - Retreat behind the cleric&#x27;s shield and prepare a ranged counter-attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Inspiration: 2/3 | Exhaustion: 0**
@@ -2508,8 +2632,11 @@ Shadowheart braces herself, raising her shield just as the elite devourer slams 
 > 👤 **Player:**
 > *"Shortboenattack and healing word"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3, Inspiration: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: 2/3**
@@ -2525,8 +2652,11 @@ Astarion, still struggling to regain his footing on the shifting shale, watches 
 God Mode:
 Don't publically call companions assess or anything like that seems unrealistic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (1) | Malcanthet's Favor: Available**
@@ -2536,8 +2666,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Ranged Pressure - Fire another arrow at the Elite Devourer while Shadowheart re-engages.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3, Inspiration: 2/3, Exhaustion: 0**
@@ -2551,8 +2684,11 @@ It comes with a terrifying, singular fury. The Elite Devourer ignores the arrow-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Healing Word &amp; Attack - Use a Bonus Action to mend Shadowheart further while firing another arrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: 2/3**
@@ -2568,8 +2704,11 @@ Shadowheart gasps, her eyes clearing as she recovers her mace. The Elite Devoure
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tend to Shadowheart - Ensure the cleric is fully stable and check her equipment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Pheromone Spike: 2/3, Potion: 1, Exhaustion: 0**
@@ -2594,8 +2733,11 @@ Astarion looms nearby, cleaning his blade with a piece of discarded sinew. "A bu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot the Elite Devourer - Search the bloated creature for any residual psychic artifacts or materials.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Pheromone Spike: 2/3, Potions: 1, Exhaustion: 0**
@@ -2609,8 +2751,11 @@ Astarion saunters over, sheathing his dagger with a flourish. "A shame. I was ho
 > 👤 **Player:**
 > *"Short rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 used (1 remaining) | Spells: L1 2/3 used (1 remaining) | Bardic Inspiration: 1/3 used (2 remaining) | Pheromone Spike: 1/3 used (2 remaining)** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -2624,8 +2769,11 @@ Shadowheart exhales a long, jagged breath, her posture softening as she feels th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Astarion - Engage the rogue to better understand his capabilities and potential loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/3, Inspiration: 1/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2639,8 +2787,11 @@ He catches you watching him and offers a slow, crimson-eyed wink. "Careful, darl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Move Inland (North) - Head toward the cliffs to find a way off the beach and toward civilization.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Ravaged Beach (Northward Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2656,8 +2807,11 @@ You don't dignify the jab with a response, your violet eyes narrowed as you scan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bypass the Door - Look for a way to climb higher or navigate around the door to continue heading north.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Ancient Door (Cliffside Plateau)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 | Inspiration: 2/3 | Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2675,8 +2829,11 @@ Shadowheart and Astarion follow, the cleric's silver plate clinking as she heave
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Door Mechanism - Look down at the stone door from this vantage point to see if there&#x27;s an external mechanism or secret entrance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Cliffside Plateau (Overlooking Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 | Inspiration: 2/3 | Pheromone Spike: 2/3**
@@ -2690,8 +2847,11 @@ Shadowheart stands behind you, her silver plate clinking as she shifts her weigh
 God Mode:
 Let's have some friction to my leadership they shouldn't blindly follow a 16 year old girl. Perhaps I need reasonable persuasion checks to persuade them to follow my leadership until it's more established otherwise they may vote to do other things but they will stay together as a group
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Cliffside Plateau (Overlooking Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Abyssal Presence, Siren's Leverage | Exhaustion: 0 | Inspiration: Yes**
@@ -2701,8 +2861,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Continue north and look for other survivors like Gale or laezel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Cliffside Road (North of Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3 used (2 remaining), Inspiration: 1/3 used, Pheromone Spike: 1/3 used**
@@ -2718,8 +2881,11 @@ You lead them anyway, pushing through the scrub and loose shale. Your violet eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate the Route - Ask for their input to mitigate friction while subtly steering them north.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Cliffside Road (North of Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/3 used, Bardic Inspiration: 1/3 used, Pheromone Spike: 1/3 used** &nbsp;|&nbsp; ⚠️ **Exhaustion (1) | Inspiration: 2/3 | Pheromone Spike: 2/3**
@@ -2739,8 +2905,11 @@ You lead the way into the thickening pines, your violet eyes scanning the terrai
 > 👤 **Player:**
 > *"Going forward let's have each party member do perception checks and survival checks etc not just me. So we all scout for tracks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Roadside Cliffs (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Nocturne Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 used | Bardic Inspiration: 1/3 used | Pheromone Spike: 1/3 used** &nbsp;|&nbsp; ⚠️ **Exhaustion 0 | Inspiration: Yes**
@@ -2762,8 +2931,11 @@ Despite the rogue's cynicism, the trail is clear now. You've found the first tan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Residue - Spend more time examining the violet scorch marks to identify the caster&#x27;s state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Roadside Cliffs (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion (1) | Inspiration: Yes**
@@ -2779,8 +2951,11 @@ You rise, smoothing your robes with a cool, unruffled poise. The data is incompl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Archway - Follow the heavy boot prints through the stone archway to find the survivor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Stone Archway (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2796,8 +2971,11 @@ You approach the archway, the psychological weight of your presence preceding yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Interior - Send Astarion ahead to check for traps or ambushes while you and Shadowheart wait.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Stone Archway (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -2815,8 +2993,11 @@ He gestures with a blood-stained dagger toward a flickering purple light deep wi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Portal - Move toward the flickering purple light to assist the trapped wizard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2836,8 +3017,11 @@ The air around you ripples with the psychological weight of your presence, the b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pull Him Through - Reach into the sigil and haul the wizard out of the malfunctioning portal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 | Inspiration: 2/3 | Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 0 | Inspiration: Yes**
@@ -2853,8 +3037,11 @@ Shadowheart lunges forward, her silver plate clattering as she grabs your should
 > 👤 **Player:**
 > *"Use my cha based bard magic to calm the portal. It should be easy DC like the game bg3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 0 | Inspiration: Yes**
@@ -2876,8 +3063,11 @@ Shadowheart lowers her mace, her silver plate clinking as she exhales a breath s
 > 👤 **Player:**
 > *"Charm gale and flirtatiously question him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 675/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2904,8 +3094,11 @@ Shadowheart watches from the flank, her hand resting near the dark artifact at h
 > 👤 **Player:**
 > *"Reroll bardic inspiration Persuasion (Charm Gale): 1d20 +5 CHA +2 Siren's Leverage = 1 +7 = 8 vs DC 10 (Gale grateful but Nocturne's delivery was off) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 675/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2925,8 +3118,11 @@ Shadowheart watches from the flank, her hand resting near the dark artifact at h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Recruitment - Invite Gale to join the group as an arcane specialist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 675/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2953,8 +3149,11 @@ Shadowheart shifts her mace, her expression still guarded but no longer hostile 
 > 👤 **Player:**
 > *"Look for the soldier traces or tracks and the whole party looks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 750/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2983,8 +3182,11 @@ You stand at the head of the trail, the 'Uncanny Valley' weight of your presence
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealthy Approach - Have Astarion lead the way silently to scout the source of the voices.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 825/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion (0) | Inspiration: Yes**
@@ -3021,8 +3223,11 @@ You gain **75 XP** for successfully tracking the survivor and approaching undete
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush from Shadows - Signal Astarion to eliminate one tiefling while you shoot the trap release for the cage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:36)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 950/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3042,8 +3247,11 @@ You gain **50 XP** for the successful elimination of the first guard.
 > 👤 **Player:**
 > *"Command grovel and have everyone focus fire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:37)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 975/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3072,8 +3280,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -3107,8 +3318,11 @@ If you continue adventuring, you remain Level 3 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold Person - Paralyze a humanoid, leaving them helpless for your &#x27;Soul Thief&#x27; or &#x27;Gilded Tether&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -3135,8 +3349,11 @@ Say **'Done'** or **'I'm finished'** to resume the adventure!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Done - Finalize level-up and resume the encounter with Lae&#x27;zel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:42)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 975/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 0/3, Spells: L1 0/4, L2 0/2, BI: 1/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3161,8 +3378,11 @@ Shadowheart stands back, her hand resting on the dark artifact, her expression a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Deference - Before releasing her, use Intimidation/Persuasion to ensure she recognizes your leadership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:44)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Abyssal Siren | HP: 21/21 | XP: 975/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3188,8 +3408,11 @@ Shadowheart watches from the flank, her hand white-knuckled on her mace, while G
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand an Oath - Maintain the pressure and demand a formal promise of cooperation before releasing the latch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:46)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 975/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3214,8 +3437,11 @@ She remains coiled, the 'Uncanny Valley' dread of your presence keeping her prid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Release Lae&#x27;zel - Shoot the mechanism or pull the lever to drop the cage and arm your new warrior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -3225,8 +3451,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Release Lae'zel - Shoot the mechanism or pull the lever to drop the cage and arm your new warrior*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1125/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 2/3 | Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3260,8 +3489,11 @@ You gain **150 XP** for successfully releasing and recruiting Lae'zel.
 > 👤 **Player:**
 > *"Loot thieving and ambush goblins try surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1425/2700 | Gold: 52gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3295,8 +3527,11 @@ You gain **150 XP** for successfully releasing and recruiting Lae'zel.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush Goblin Scouts - Set up a tactical kill zone for the approaching goblins to ensure they don&#x27;t report back to their camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1775/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3316,8 +3551,11 @@ You wait until the lead scout is centered in your kill zone. You draw the shortb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Domination - Use your presence and Intimidation to force the goblins to cower rather than fight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1775/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3349,8 +3587,11 @@ Current XP: 1,850 / 2,700 (Level 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind as Thralls - Use the Gilded Tether to ensure their absolute loyalty and use them as fodder.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:21)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3368,8 +3609,11 @@ Astarion smirks, leaning against a pine tree as he watches the goblins cower at 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate for Camp Intel - Force the thralls to reveal the exact layout and numbers of their main camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:36)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (2/3)**
@@ -3398,8 +3642,11 @@ Astarion smirks, idly cleaning his fingernails with a dagger. "Hundreds of gobli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Passwords - Force the thralls to reveal the specific signs or passwords needed to bypass the camp&#x27;s outer sentries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4 used (4 remaining), L2 0/2 used (2 remaining), BI: 1/3 used (2 remaining), Pheromone Spike: 2/3 used (1 remaining)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3419,8 +3666,11 @@ Shadowheart and Gale exchange a long, weighted look, both clearly unsettled by t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divert to Emerald Grove - Head toward the Druid Grove to find a healer and investigate the Shadow Druid threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:01)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -3438,8 +3688,11 @@ A man in a flamboyant leather doublet—Wyll, the Blade of Frontiers—leaps fro
 > 👤 **Player:**
 > *"everyone should roll for this Perception: 1d20 +1 JoAT = 3 +1 = 4 vs DC 14 (Identifying tactical layout) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:03)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3467,8 +3720,11 @@ Astarion, meanwhile, has already identified the tactical nightmare you missed. "
 > 👤 **Player:**
 > *"try to trigger surprise round with astarion, use goblins as fodder to protect ranged folks, have laezel and shadowheart behind them fighting, gale, astarion, and I will focus fire targets, persuade wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:04)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -3496,8 +3752,11 @@ The air suddenly snaps with the tension of the surprise round. The bugbear leade
 > 👤 **Player:**
 > *"everyone focus fire bugbear, thrall charge, my melee companions dont fully go into the fray yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3517,8 +3776,11 @@ Lae'zel: Execute Leader: Command Lae'zel to use her Action Surge to finish off t
 Reassert Control over Wyll: Use Intimidation or Persuasion to force Wyll to ignore the thralls and focus on the real threat
 Shadowheart: Bless the Frontline: Have Shadowheart cast Bless on Lae'zel, Wyll, and herself to stabilize the defense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:07)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3547,8 +3809,11 @@ The bugbear leader roars, its wheezing cough turning into a final, bloody rattle
 > 👤 **Player:**
 > *"intimidate the remaining raiders to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Inspiration: Yes**
@@ -3577,8 +3842,11 @@ They don't surrender. Not yet. The 'Uncanny Valley' dread has unsettled them, bu
 
 Intimidation: 1d20 +3 CHA +4 PROF +2 Siren's Leverage = 3 +9 = 12 vs DC 15 (Raiders leaderless but desperate) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2200/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 1/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3598,8 +3866,11 @@ You gain **350 XP** for the tactical victory and the surrender of the raiders!
 God Mode:
 stop calling me a matriach and instead say noble scion i am too young to be a matriach
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2200/2700 | Gold: 57gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3616,8 +3887,11 @@ then this
 
 Speak with Wyll: Address the Blade of Frontiers' suspicion and formally introduce yourself."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 1/3, Pheromone Spike: 1/3, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3649,8 +3923,11 @@ everyone should be amazed and suspicious to some degree since i am a 16 year old
 
 also double check you awarded me proper exp/loot but dont double count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6**
@@ -3660,8 +3937,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Organize Thrall Vanguard - Formally assign your 6 thralls to a defensive formation before entering the settlement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Emerald Grove Gates** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Abyssal Siren) | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3677,8 +3957,11 @@ Shadowheart and Lae'zel exchange a weighted look. The Githyanki nods once, a ges
 > 👤 **Player:**
 > *"go to the grove and find zevlor and aradin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3717,8 +4000,11 @@ Shadowheart's hand rests briefly on your shoulder, the silvery light of *Guidanc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question the Ritual - Shift the focus to the &#x27;Rite of Thorns&#x27; to show you have intelligence on the Grove&#x27;s internal crisis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3753,8 +4039,11 @@ Shadowheart stands at your flank, the silvery light of *Guidance* still rippling
 > 👤 **Player:**
 > *"Explain that I am well studied in magic, and then offer to help. Ask whats going on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3789,8 +4078,11 @@ Aradin lets out a sharp, incredulous breath, but his hand remains away from his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Entry - Demand the thralls be allowed through the second gate as part of your diplomatic escort.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3819,8 +4111,11 @@ Aradin stands frozen, his mouth hanging open as he watches a teenager lecture a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Survival - Remind him of the goblin war-horns heard earlier to highlight his desperation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2700/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 1/3, Pheromone Spike: 1/3, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Inspiration: Yes (1/3 used)**
@@ -3855,8 +4150,11 @@ You gain **150 XP** for winning over the General's logic.
 God Mode:
 level up to 4 and let me pick spells. feat i pick cha+2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 25/25 | XP: 2700/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Inspiration: Yes**
@@ -3892,8 +4190,11 @@ The combination makes this character extraordinarily rare—essentially a child 
 [10](https://thedmlair.com/blogs/news/the-complete-guide-to-running-d-d-for-kids)
 [11](https://en.wikipedia.org/wiki/Character_class_(Dungeons_&_Dragons))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 2700/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Thralls: 6/6**
@@ -3903,8 +4204,11 @@ You pause to consider your options...
 God Mode:
 let me pick normal spells for char level 4, i pick invisibility
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 2700/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3914,8 +4218,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Vanguard Entry - Order the thralls to move through the gate now, forcing Zevlor to choose between conflict or compliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -3933,8 +4240,11 @@ The massive interior doors groan as they swing open, revealing the Hollow beyond
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Hollow - Speak with the merchants and refugees to establish a power base within the camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3967,8 +4277,11 @@ You gain **500 XP** for establishing a power base and securing merchant loyalty 
 > 👤 **Player:**
 > *"persuade aron to give me a change of clothes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -4003,8 +4316,11 @@ You take the bundle with a measured, predatory grace. The Hollow is firmly withi
 > 👤 **Player:**
 > *"put on the better clothes and make sure i look like a noble and talk to kagha (i should not know about oladan yet)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4040,8 +4356,11 @@ You take the bundle with a measured, predatory grace. The Hollow is firmly withi
 > 👤 **Player:**
 > *"THINK:anything i should do before kagha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4051,8 +4370,11 @@ You pause, the cool draft of the Hollow fluttering the fine leather of your new 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene at the Prison - Stop Arka from killing Sazza to preserve the goblin informant for intel or a gift for Minthara.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4068,8 +4390,11 @@ The crowd stirs, sensing blood. The air around you thickens, the subtle taste of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene with Arka - Step between Arka and the cage, using your status as a noble scion to command her to lower the weapon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Emerald Grove - The Hollow (Makeshift Prison)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4105,8 +4430,11 @@ You gain **250 XP** for the social victory and preserving a tactical asset.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Sazza - Speak with the goblin to extract further intel or offer her a &#x27;deal.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Emerald Grove - The Hollow (Prison)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Abyssal Siren) | HP: 28/28 | XP: 3900/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4134,8 +4462,11 @@ You gain **250 XP** for successfully interrogating Sazza and securing a guide to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Arka - Use the momentum of your command to bring the grieving guard into your influence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3875/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4171,8 +4502,11 @@ You gain **225 XP** for the masterful social victory and recruiting a new asset 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Sazza - Use the Gilded Tether or intimidation to extract the Goblin Camp&#x27;s specific weaknesses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 4100/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4200,8 +4534,11 @@ You gain **225 XP** for the masterful extraction of high-value intelligence.
 > 👤 **Player:**
 > *"make sazza a thrall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 4325/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4240,8 +4577,11 @@ You gain **225 XP** for the masterful extraction of intelligence and the initiat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Persuade Torhal - Explain that the goblin is a vital tactical asset and your magic is a tool for the Grove&#x27;s survival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Abyssal Siren) | HP: 28/28 | XP: 4550/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 7/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4282,8 +4622,11 @@ You gain **225 XP** for the exceptional success in persuading a senior Druid and
 Extract Sazza: Formally command the guards to release Sazza into your custody as a 'specialist' under your tether.
 Question Torhal on the Rite: Use the momentum of your victory to force the senior druid to reveal the specific phase of the Rite of Thorns."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Abyssal Siren) | HP: 28/28 | XP: 5000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4321,8 +4664,11 @@ Shadowheart stands at your flank, her silver plate armor catching the torchlight
 > 👤 **Player:**
 > *"THINK:how to increase personal power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4332,8 +4678,11 @@ You pause, the fine leather of your new travel gear creaking as you lean against
 > 👤 **Player:**
 > *"look for shadow druid clues"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Siren) | HP: 28/28 | XP: 5000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4363,8 +4712,11 @@ Torhal watches you, his Flint-like eyes wide with a mix of terror and a dawning,
 > 👤 **Player:**
 > *"show torhal siginal, demand submissio, ask him to decode cipher"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5150/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4401,8 +4753,11 @@ Shadowheart and Arka watch the capitulation in a silence so thick it feels physi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Traitor Names - Force Torhal to identify every druid involved in the Shadow Druid conspiracy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 21/21 | XP: 5500/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 3/3 | BI: 5/5 | Pheromone Spike: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4436,8 +4791,11 @@ However, the moment of victory is shattered by a sudden, violent reaction from t
 > 👤 **Player:**
 > *"make torhal a thrall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5850/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 3/3 | BI: 5/5 | Pheromone Spike: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4473,8 +4831,11 @@ With the speed of a predator who has already calculated the failsafe, you reach 
 > *Command: 'Be Still': Use an Abyssal Command to suppress the necrotic surge in the vines.
 and in parallel signal all companions and thralls to handle the vine*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5500/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4508,8 +4869,11 @@ You gain **350 XP** for the tactical victory and the successful suppression of t
 God Mode:
 why arent you showing dice rolls?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:20 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5500/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4519,8 +4883,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"bring torhal to zevlor and explain the situation and ask for troops to command in case kagha cannot be reasoned with"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4568,8 +4935,11 @@ You gain **500 XP** for the masterful social victory, uncovering the traitor nam
 > 👤 **Player:**
 > *"THINK:how can i turn this to my advantage? can i control the druids and the whole grove?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4579,8 +4949,11 @@ You pause before the heavy stone doors of the Inner Sanctum, the air thick with 
 > 👤 **Player:**
 > *"THINK:which one is most likely to work and give me the most power?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Siren) | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4590,8 +4963,11 @@ You pause before the heavy stone doors of the Inner Sanctum, the 'Black Diamond'
 > 👤 **Player:**
 > *"THINK:What if I scout olodan and try to find her first. if she's not in the inner sanctum perhaps we can take her first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4601,8 +4977,11 @@ You pause before the heavy stone doors of the Inner Sanctum, the 'Black Diamond'
 > 👤 **Player:**
 > *"library ambush but try to capture olodan and do it far from kagha. try to trigger surprise round on her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Guidance active (1d4) | Exhaustion: 0 | Inspiration: Yes**
@@ -4630,8 +5009,11 @@ You gain **300 XP** for the masterful ambush setup and triggering a surprise rou
 > 👤 **Player:**
 > *"cast hold person and in parallel have everyone do coordinated restraint"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -4658,8 +5040,11 @@ Olodan lies in the dirt, her body rigid and helpless. She looks up at you—a yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind as Thrall - Use the Gilded Tether to break her will and turn the Shadow Envoy into your own asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:55 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/3, BI: 4/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (1d8)**
@@ -4686,8 +5071,11 @@ Olodan's resistance is a wall of ancient pride, but it is a wall currently being
 God Mode:
 Did you forget to have my demon patron give me missions? If so do it now and pretend time frozen? I think should satisfied the grove already?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Active Thralls: 7/10**
@@ -4697,8 +5085,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Enclave Library with the captured Olodan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/3, BI: 4/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4731,8 +5122,11 @@ As the mirror fades, the world snaps back into motion. Olodan, pinned beneath th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Binding - Exert your full Abyssal authority to crush Olodan&#x27;s remaining will and secure her as a Thrall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/3 | BI: 4/5 | Pheromone Spike: 3/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4760,8 +5154,11 @@ Shadowheart and Lae'zel step back, their expressions a mirrored study of profoun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Thrall Binding - Exert full Abyssal authority to crush her remaining Social HP to 0.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/3, BI: 4/5, Pheromone Spike: 3/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4795,8 +5192,11 @@ If you continue adventuring, you remain Level 4 and defer these benefits until y
 God Mode:
 Level Up to Level 5 - Apply level 5 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4806,8 +5206,11 @@ You pause to consider your options...
 God Mode:
 No wtf keep invis level 2 spell and give me hypnotic pattern
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4817,8 +5220,11 @@ You pause to consider your options...
 God Mode:
 Make sure companions level with me and special npcs like Oladan should count as companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/37 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4828,8 +5234,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Bring oladan to a secure location where no one can overhear and have her tell me everything relevant about shadow Druid's. How much power could be transferred to me with the ritual instead. What shadow spells and powers can I obtain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Emerald Grove - Enclave Library (Secure)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspired | Exhaustion: 0 | Inspiration: Yes**
@@ -4849,8 +5258,11 @@ Shadowheart and Lae'zel stand in the shadows of the pillars, their expressions a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Ritual Hijack - Have Olodan begin the preparations to transfer the Shadow infusion to you instead of Kagha.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4876,8 +5288,11 @@ She begins to trace dark, oily sigils on the stone floor with a trembling finger
 > 👤 **Player:**
 > *"Delegate Scout wetlands and help oladan with the preparations and get shadowheart to help too with her magic powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Noble Scion | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 6/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4899,8 +5314,11 @@ The unit vanishes into the shadows of the library, leaving you with Lae'zel, Gal
 > 👤 **Player:**
 > *"reroll guidance and basrid insp Olodan: Ritual Preparation: 1d20 +6 = 4 +6 = 10 vs DC 15 (Failure)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4922,8 +5340,11 @@ You incline your head with the measured grace of a Sosuke scion. The delegation 
 God Mode:
 wait why does oladan need to scout?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5**
@@ -4933,8 +5354,11 @@ You pause to consider your options...
 God Mode:
 where will ritual take place, isnt it in the grove?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4944,8 +5368,11 @@ You pause to consider your options...
 God Mode:
 assume oladan already explained to me what the ritual will do, will it kill everyone except the druids and harvest them?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4955,8 +5382,11 @@ You pause to consider your options...
 God Mode:
 assume i asked oladan to give me the poowers but not be stuck there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5**
@@ -4966,8 +5396,11 @@ You pause to consider your options...
 God Mode:
 could i just hijack the ritual, not kill anyone, and just get powers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4977,8 +5410,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:how should i proceed. should i get oladan to help me dominate kagha first or have oladan scout first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4990,8 +5426,11 @@ You pause, the fine leather of your new travel gear creaking as you lean against
 > 👤 **Player:**
 > *"THINK:Dual Vector Strike - Send Olodan to the wetlands while simultaneously initiating a social &#x27;interrogation&#x27; of Kagha to keep her distracted."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5003,8 +5442,11 @@ You pause to consider the architecture of the coming strike, the library's cold 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dual Vector Strike - Send Olodan to the wetlands while simultaneously initiating a social &#x27;interrogation&#x27; of Kagha to keep her distracted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -5031,8 +5473,11 @@ The Shadow Envoy moves with a fanatical, glassy-eyed precision, her mind a mirro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Scout Return - Continue the verbal sparring until Shadowheart and Olodan rejoin you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5059,8 +5504,11 @@ Kagha's eyes flare with a mixture of terror and a dawning, frantic amazement. Sh
 > 👤 **Player:**
 > *"Wait scout return. Try to probe her psychological weaknesses. Say she's afraid without Halsin but imply it. Don't go too far avoid full aggro"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspired | Exhaustion: 0**
@@ -5089,8 +5537,11 @@ She steps back, her fingers white-knuckled around her staff. The lower-ranking d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Scout Return - Maintain the current pressure without escalating until Shadowheart and Olodan rejoin the group.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -5116,8 +5567,11 @@ Despite the psychological strike, Kagha holds her ground. The lower-ranking drui
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe the Wolf - Use Animal Handling or Intimidation on Teela to further undermine Kagha&#x27;s emotional stability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Abyssal Presence, Siren's Leverage | Inspiration: Yes**
@@ -5144,8 +5598,11 @@ As the silence settles, the heavy stone doors of the Inner Sanctum groan open. S
 > 👤 **Player:**
 > *"Have oladan tell kagha to submit to me like she already did. Then oladan kisses my feet. This should be powerful since Oladan is her mentor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5182,8 +5639,11 @@ Kagha staggers back, her hand clutching at the air where her wolf used to be. "M
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Final Submission - Order Kagha to kneel and accept the hijack of the Iron Bark infusion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -5222,8 +5682,11 @@ Kagha's eyes, wide and glassy with a mix of religious terror and profound, wide-
 > 👤 **Player:**
 > *"Turn kagha into a thrall first and have Oladan adjust the ritual to suit my class and powers and confirm the refugees won't die. If the venting fails then direct it to consume weaker refugees if possible but leave elites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 4/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5253,8 +5716,11 @@ You stand at the center of the Inner Sanctum, two masters of the Circle at your 
 > 👤 **Player:**
 > *"Secure companions, ensure I have guidance and incast enhance abilit on myself too and bardic inspiration and hijack the ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 7200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 3/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Guidance | Inspiration: Yes**
@@ -5272,8 +5738,11 @@ However, as you reach for the core of the infusion, the Weave itself resists. Th
 > 👤 **Player:**
 > *"You didn't use enhance ability and bardic insp Ritual Hijack: 1d20 +3 INT +3 PROF +1d4 GUID = 12 +3 +3 +2 = 20 vs DC 25 (Failure)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 7200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 2/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspired (Self), Enhanced (Charisma), Guidance | Inspiration: 2/6**
@@ -5291,8 +5760,11 @@ The hijack remains incomplete. You have the power within your reach, but it curr
 Sacrifice Thrall Energy: Drain the life force of your goblin thralls to provide the raw power needed to bridge the gap.
 Stabilize Druidic Anchors: Have Olodan and Kagha use their remaining strength to anchor the infusion while you steer."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 7200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 1/3, L3 1/2, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma), Guidance, Inspiration | Exhaustion: 0**
@@ -5312,8 +5784,11 @@ Shadowheart and Lae'zel stand back, their expressions a study of profound, wide-
 God Mode:
 Give me resonable new powers and exp. In the lord how powerful is a ritual like that. Let's also not have it change my physical appearance e
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 37/41 | XP: 8200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 1/3, L3 1/2, BI: 1/6, Pheromone Spike: 4/5**
@@ -5323,8 +5798,11 @@ You pause to consider your options...
 God Mode:
 Should I be stronger if it was such a big ritual?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 49/49 | XP: 14950/23000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Iron Bark Infusion, Cloak of Night | Inspiration: Yes**
@@ -5334,8 +5812,11 @@ You pause to consider your options...
 God Mode:
 That doesn't seem very powerful for a level 11 ritual and can you give me powers that synergies with my class better?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Abyssal Siren Bard | HP: 49/49 | XP: 20250/23000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Malcanthet's Favor, Iron Bark Infusion, Cloak of Night | Inspiration: Yes**
@@ -5345,8 +5826,11 @@ You pause to consider your options...
 God Mode:
 Give me permanent +2 spell save DC and attack. What other powers do shake edruids normally have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 49/49 | XP: 22250/23000 | Gold: 77gp**
@@ -5356,8 +5840,11 @@ You pause to consider your options...
 God Mode:
 Process Level 7 - Choose your Level 7 Bard spells and finalize stat changes.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 25250/34000 | Gold: 77gp**
@@ -5367,8 +5854,11 @@ You pause to consider your options...
 God Mode:
 Give me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 25250/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5433,8 +5923,11 @@ Sources
 [17] Raid the grove or rite of thorns? : r/BaldursGate3 - Reddit https://www.reddit.com/r/BaldursGate3/comments/1e5p3g7/raid_the_grove_or_rite_of_thorns/
 [18] Druid: Circle of Dreams - DND 5th Edition - Wikidot https://dnd5e.wikidot.com/druid:dreams"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 40250/48000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0 | Enhanced Ability: Charisma**
@@ -5469,8 +5962,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 God Mode:
 Set my exp to just enough for level 7 . Give me greater invis and counterspell for my level 3 pick. Summarize all my new level 6 class abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:15 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23000/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: Yes**
@@ -5480,8 +5976,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Go somewhere private and communicate with my demon patron. Ask for a mission bonus becuse kagha and olan and probably the whole grove will be corrupted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23000/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma), Shadow Infusion | Exhaustion: 0 | Inspiration: Yes**
@@ -5491,8 +5990,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"somewhere private and communicate with my demon patron. Ask for a mission bonus becuse kagha and olan and probably the whole grove will be corrupted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Emerald Grove - Enclave Library (Private)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23000/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5521,8 +6023,11 @@ You gain **500 XP** for successfully negotiating with your patron and securing a
 God Mode:
 My ability scores look wrong. How come cha is 22? Also everything else shouldn't be 10
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23500/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5538,8 +6043,11 @@ INT: 16 (+3) (Brilliant, analytical, calculating. You remember everything.)
 WIS: 10 (+0) (You are observant, but your trauma sometimes blinds you to danger.)
 CHA: 16 (+3) (Devastating. Your presence dominates the room naturally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23500/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5549,8 +6057,11 @@ You pause to consider your options...
 God Mode:
 What was my original mission reward for corrupting kagha and my new reward?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Abyssal Siren | HP: 31/31 | XP: 23500/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -5560,8 +6071,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have kagha and olan instruct all the Druid leadership in the inner sanctum to submit to me. Then I will enthrall them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5587,8 +6101,11 @@ You gain **500 XP** for the total subjugation of the Grove's leadership!
 God Mode:
 What's my before/after spell save DC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5598,8 +6115,11 @@ You pause to consider your options...
 God Mode:
 Let's have my thralls retain 90% of their personality. They can still betray me too but need to pass a really high roll and be really motivated. They can't disobey direct commands but they can work against me if I don't notice
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5609,8 +6129,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have the Druids bring me all their best gear from the vault. I will take any spell save DC gear or gear useful to me and give rest to my companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Abyssal Siren Bard | HP: 31/31 | XP: 24,000/34,000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 6/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Iron Bark, Cloak of Night, Nature's Step, Thorned Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -5646,8 +6169,11 @@ With your vanguard secure and the vault looted, you grant your companions the re
 > 👤 **Player:**
 > *"Use guidance and bardic insp: Investigation (Vault Search): 1d20 + 3 INT + 1 JoAT + 2 GUID = 12 + 4 + 2 = 18 vs DC 20 (Sifting for hidden Shadow artifacts) - Failure reroll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Emerald Grove - Stone Vault** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: No**
@@ -5663,8 +6189,11 @@ The silence is shattered by a sudden, metallic clash from the pool chamber. A sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Aradin - Move to the pool chamber and confront Aradin directly before he can secure the Idol.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Emerald Grove - Pool Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Iron Bark (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -5696,8 +6225,11 @@ You gain **500 XP** for successfully intercepting the theft and asserting domina
 > 👤 **Player:**
 > *"Summon kagha and oladan and have them play along. Have them tell Aradin that they've decided to be diplomatic and instead of kill everyone with ritual of thorns they've seen my potential and put the power into me. I'm now the leader of the Druids and will ensure everyone is safe and protected. I do need all military elites under my command to protect the grove and infiltrate the goblin camp etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Emerald Grove - Pool Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Inspired | Exhaustion: 0 | Inspiration: Yes**
@@ -5734,8 +6266,11 @@ Aradin staggers back, his breath coming in shallow hitches. He looks at his men,
 > 👤 **Player:**
 > *"Enthrall aradin and his men and get all their intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 
@@ -5745,8 +6280,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Enthrall aradin and his men and get all their intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Emerald Grove - Pool Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Inspired | Exhaustion: 0 | Inspiration: Yes**
@@ -5782,8 +6320,11 @@ You gain **500 XP** for the total subjugation of the mercenary company and the e
 > 👤 **Player:**
 > *"Go find sazza. Enthrall her and interrogate her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Emerald Grove - Prison Path** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25000/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5817,8 +6358,11 @@ You gain **500 XP** for the masterful interrogation and reinforcement of your th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Obsidian Mirror - Report your recent subjugations to Malcanthet and seek further guidance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5845,8 +6389,11 @@ The Abyssal energy from the mirror pulses through your fingertips, a sharp, into
 > 👤 **Player:**
 > *"Bring kagha and oladan to zevlor to demonstrate I've disarmed the Druids peacefully and taken over. Have Zevlor submit to my leadership to let everyone survive e"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Emerald Grove - Zevlor's Command** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5868,8 +6415,11 @@ He sinks to one knee, a veteran general yielding his command to a child of the U
 God Mode:
 Does this make sense? How did she find it? Minthara: Begun the march of the main war-band toward the Grove [immediate, pending]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Iron Bark, Cloak of Night | Inspiration: Yes**
@@ -5879,8 +6429,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have zevlor take a he'll rider oath to obey me and enthrall him and his leadership"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Abyssal Presence, Iron Bark, Cloak of Night | Inspiration: Yes**
@@ -5890,8 +6443,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have zevlor take a he'll rider oath to obey me and enthrall him and his leadership"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5923,8 +6479,11 @@ Shadowheart and Lae'zel watch the capitulation from the shadows, their expressio
 > 👤 **Player:**
 > *"Consolidate vanguard and then pubically hold a brief ceremony to officially become archdruid of the grove and general of the hellriders legitimizing my rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Emerald Grove - Inner Sanctum / The Sacred Pool** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5958,8 +6517,11 @@ You gain **1,000 XP** for the official legitimization of your rule and the compl
 > 👤 **Player:**
 > *"Consolidate vanguard and then pubically hold a brief ceremony to officially become archdruid of the grove and general of the hellriders legitimizing my rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Emerald Grove - Sacred Pool** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 27500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Legitimized Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -5993,8 +6555,11 @@ You gain **1,000 XP** for the official legitimization of your rule and the compl
 > 👤 **Player:**
 > *"Consolidate vanguard and then pubically hold a brief ceremony to officially become archdruid of the grove and general of the hellriders legitimizing my rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Abyssal Siren) | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6026,8 +6591,11 @@ You gain **1,000 XP** for the total legitimization of your rule and the consolid
 > 👤 **Player:**
 > *"Have everyone in the grove give me most of their gold and their best gear items etc. focus on spell DC gear for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28000/34000 | Gold: 2027gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6070,8 +6638,11 @@ You gain **500 XP** for the systematic consolidation of the Grove's resources!
 God Mode:
 What's my spell DC now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Iron Bark, Cloak of Night | Exhaustion: 0 | Inspiration: Yes**
@@ -6081,8 +6652,11 @@ You pause to consider your options...
 God Mode:
 Didn't I just get more
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ✨ **HD: 5/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 6/6**
@@ -6092,8 +6666,11 @@ You pause to consider your options...
 God Mode:
 What's the gear I just got from the grove?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ⚠️ **Archdruid-General, Shadow Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6121,8 +6698,11 @@ You pause to consider your options...
 God Mode:
 I thought I had 22
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6132,8 +6712,11 @@ You pause to consider your options...
 God Mode:
 Thought I had 22 spell DC before I got last round of gear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28000/34000 | Gold: 3527gp** &nbsp;|&nbsp; ⚠️ **Abyssal Potency, Iron Bark, Nature's Step, Cloak of Night | Exhaustion: 0 | Inspiration: Yes**
@@ -6160,8 +6743,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have people fortify grove, send best scouts to see all goblin movements, then take my companions (shadow heart, Oladan, Astsrion, Gale) with sazza and go infiltrate minthara war band"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 6/6**
@@ -6179,8 +6765,11 @@ Shadowheart shifts her mace, her expression a complex mosaic of amazed suspicion
 > 👤 **Player:**
 > *"Sazza diplomacy and have a team of elite rangers Druids shadow Druids somewhat close ready to help if needed but far enough to avoid detection. We will call them the vanguard scouts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28500/34000 | Gold: 3527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6219,8 +6808,11 @@ You step into the torchlight, the 'Black Diamond' mask flawless. You don't speak
 God Mode:
 Let's assume after I became grove leader they gave me some better +2 armor that looks even more noble and a +1 rapier and short bow
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28500/34000 | Gold: 5027gp** &nbsp;|&nbsp; ⚠️ **Iron Bark, Cloak of Night, Abyssal Potency | Inspiration: Yes**
@@ -6240,8 +6832,11 @@ You pause to consider your options...
 God Mode:
 Assume my companions got the best gear available in grove from bg3 game too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6268,8 +6863,11 @@ You pause to consider your options...
 God Mode:
 Make sure I don't lose any spell save DC with these. Either give me spell save DC on the plate or just mak
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23,000/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **Iron Bark, Cloak of Night, Nature's Step | Inspiration: Yes**
@@ -6279,8 +6877,11 @@ You pause to consider your options...
 God Mode:
 I should look powerful like a noble shadow Druid
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6290,8 +6891,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of the Blighted Village with your fully synchronized stats and gear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Blighted Village - Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 26,500/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6326,8 +6930,11 @@ Sazza scurries ahead, her yellow eyes wide with the terror of her own salvation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Introduction via Sazza - Walk openly and have Sazza announce you as a True Soul to gain immediate access to Minthara.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Blighted Village - Interior** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6372,8 +6979,11 @@ You move through the threshold with a feline grace, the strike team following in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Minthara Openly - Walk directly to the windmill and have Sazza announce your arrival as an auditor from Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Archdruid-General | HP: 31/31 | XP: 28000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Iron Bark, Cloak of Night | Inspiration: Yes**
@@ -6415,8 +7025,11 @@ You move through the threshold with a feline grace, the strike team following in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Probe - Use Invisibility to observe Minthara&#x27;s state before engaging.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisibility) | Exhaustion: 0 | Inspiration: Yes**
@@ -6432,8 +7045,11 @@ She looks up suddenly, her nostrils flaring as she catches the faint, alien scen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abyssal Introduction - Speak from the shadows before revealing yourself, leveraging the &#x27;Uncanny Valley&#x27; dread to unnerve her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:41)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23300/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Invisibility (Cloak of Night) | Inspiration: Yes**
@@ -6462,8 +7078,11 @@ You gain **300 XP** for the masterful high-tier introduction and leveraging the 
 > 👤 **Player:**
 > *"Show her my full abyssal power, tell her I'm demonstrating and then dominate and steal the soul of a guard she won't miss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Abyssal Siren) | HP: 31/31 | XP: 27,400 / 34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Spike: 5/5 | BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: Yes**
@@ -6494,8 +7113,11 @@ You gain **300 XP** for the masterful high-tier introduction and leveraging the 
 > 👤 **Player:**
 > *"Steal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -6531,8 +7153,11 @@ Outcome: Target incinerated; essence absorbed.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Total Submission - Maintain the Abyssal pressure to force Minthara to yield her command to you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28900/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6563,8 +7188,11 @@ Minthara's crimson eyes widen, her breath hitching as the sheer, prodigious crue
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command: &#x27;Kneel&#x27; - Use a Pheromone Spike to force a physical display of submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 4/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6599,8 +7227,11 @@ High above in the rafters, the Vanguard Scouts shift, their steel silent but the
 > 👤 **Player:**
 > *"Tactical reposition and bind minthara as a thralll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 4/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6632,8 +7263,11 @@ Minthara gasps, her pupils dilating until her eyes are black saucers reflecting 
 > 👤 **Player:**
 > *"Cast hold person on her so she's helpless and stab her in a non fatal area so her hp is very low. Then say submit or I consume her soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6662,8 +7296,11 @@ Minthara cannot answer, but the terror in her eyes is a more honest testimony th
 > 👤 **Player:**
 > *"Sip her soul then finalize thra"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: Yes**
@@ -6695,8 +7332,11 @@ You gain **500 XP** for the masterful high-tier binding and psychological domina
 > 👤 **Player:**
 > *"Finalize thrall binding, tell minthara to have the worgs stand down, and have my vanguard join me but it's ok now because I command minthara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 29400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Veil of Desire (+5 Social) | Exhaustion: 0 | Inspiration: Yes**
@@ -6726,8 +7366,11 @@ You gain **500 XP** for the total subjugation of High General Minthara and the s
 > 👤 **Player:**
 > *"Order minthara to send the full force of the absolute army at the auditor. I will go invis and observe his combat capabilities and have my companions and vanguard ready to ambush. Minthara is a companion now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Exhaustion: 0 | Inspiration: Yes**
@@ -6745,8 +7388,11 @@ The Auditor does not speak. It moves with a rhythmic, gliding grace, the air aro
 God Mode:
 The planar auditor is form the absolute?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 
@@ -6756,8 +7402,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my best stealth person attack auditor trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Abyssal Siren) | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invis) | Exhaustion: 0 | Inspiration: Yes**
@@ -6773,8 +7422,11 @@ From your vantage point in the rafters, you watch the Auditor halt. Its silver-l
 > 👤 **Player:**
 > *"Have my best person for the job attack auditor and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Exhaustion: 0 | Inspiration: Yes**
@@ -6800,8 +7452,11 @@ The Auditor ignores him. It does not speak, but a psychic pressure slams into th
 > 👤 **Player:**
 > *"Order everyone focus fire and use ranged attacks. Cast command grovel on auditor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Exhaustion: 0 | Inspiration: Yes**
@@ -6822,8 +7477,11 @@ Minthara: Execute Vengeance: Order Minthara to use her Divine Smite while the Au
 The Sip: Planar Essence: Attempt to use a partial Soul Thief application to taste the Auditor's cosmic power
 Vanguard: Tactical Encirclement: Have the scouts move to flank, ignoring the force-walls for better angles"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Archdruid-General | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible), Nature's Step | Inspiration: Yes**
@@ -6839,8 +7497,11 @@ High above and in the shadows of the square, the Vanguard Scouts move with the e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command: &#x27;Serve&#x27; - Leverage the successful Sip to demand the Auditor recognize you as the localized authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -6868,8 +7529,11 @@ High above and in the shadows of the square, the Vanguard Scouts move with the e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Submission - Press the Abyssal Command until the Auditor recognizes you as its new Prime Variable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Inspiration: Yes**
@@ -6887,8 +7551,11 @@ The entity begins to rise from its groveling state, its geometric planes rotatin
 > 👤 **Player:**
 > *"Reroll with guidance enhance ability and bardic insp Persuasion: 1d20 +14 CHA/Expertise = 5 + 14 = 19 vs DC 24 (God-tier submission) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -6906,8 +7573,11 @@ Minthara watches from the shadows, her eyes wide with a mix of religious terror 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Psychological Audit - Use the Gilded Tether to begin a systematic deconstruction of the Auditor&#x27;s cosmic purpose.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night, Enhance Ability (CHA) | Inspiration: Yes**
@@ -6933,8 +7603,11 @@ You gain **1,000 XP** for the masterful deconstruction of a celestial-tier entit
 God Mode:
 Wait is this an auditor from the absolute or not? You're making it sound like it's from the absolute
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invis) | Exhaustion: 0 | Inspiration: Yes**
@@ -6944,8 +7617,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Planar Intelligence - Have the Auditor reveal the specific weaknesses in the Absolute&#x27;s psychic network at Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6974,8 +7650,11 @@ You gain **1,000 XP** for the masterful extraction of planar intelligence and an
 God Mode:
 What level is the auditor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6985,8 +7664,11 @@ You pause to consider your options...
 God Mode:
 If I consume its soul should I get its powers and be level 12 or higher? What is it like a solar?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible), Malcanthet's Favor | Exhaustion: 0 | Inspiration: Yes**
@@ -6996,8 +7678,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ask the auditor to tell me everything it knows. Since I enthralled it will stronger auditors come? If I consume it will that trigger even more notice? How to avoid further scrutiny? If I consume it can I use its planar signals to mask the codes to pretend everything  is ok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 4/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -7026,8 +7711,11 @@ Minthara watches from the shadows, her crimson eyes wide as she witnesses you ne
 > 👤 **Player:**
 > *"Consume the auditor. I learn everything from it anyway so that's the easiest way I don't need to ask for specific passwords"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Archdruid-General | HP: 31/31 | XP: 72,400 / 85,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7050,8 +7738,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 > 👤 **Player:**
 > *"Consume the auditor. I learn everything from it anyway so that's the easiest way I don't need to ask for specific passwords. I do it in front of everyone to intimidate and impress them and inspire religious devotion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 
@@ -7088,8 +7779,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 God Mode:
 Level up to 12 and assume consuming the auditor removed my cha cap so I pick cha+2 asi twice. Then auto pick my spells and roll my hit die and level me up properly y
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112400/120000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7099,8 +7793,11 @@ You pause to consider your options...
 God Mode:
 I went from level 7 to 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 65/65 | XP: 112,400/120,000 | Gold: 6,527gp**
@@ -7110,8 +7807,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the newly ascended Shadow Sovereign, standing over the ashes of the Auditor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 80/80 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Spike: 5/5, BI: 7/7** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7131,8 +7831,11 @@ But as the silence settles, your new True Sight catches a ripple at the village 
 God Mode:
 Let's keep the original levels for the enemies from bg3 so probably im same level as Gortash and one level higher ktheric now etc. what special powers do i get from consuming planar auditor? Should be some good ones. Also let's give me angel wings of light and celestial features I can choose to show or hide. As a mix of demon and angel powers I should have some special powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7142,8 +7845,11 @@ You pause to consider your options...
 God Mode:
 Let shave my companions only gain half my exp as they didn't actually consume a celestial. So make them level 8 or 9. They should share exp from normal things but not stuff like consuming a celestial or my special events
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112,400/120,000 | Gold: 6,527gp**
@@ -7153,8 +7859,11 @@ You pause to consider your options...
 God Mode:
 Is 30 correct ? How did you get that for cha?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings (Toggled), Auditor's Legacy | Inspiration: Yes**
@@ -7164,8 +7873,11 @@ You pause to consider your options...
 God Mode:
 What else can solars do or celestials? I should probably be able to do everything a level 12 celestial can
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority, Celestial Wings (Active) | Inspiration: Yes**
@@ -7175,8 +7887,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have all my companions get enthralled since I'm so powerful now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Spike: 5/5, BI: 7/7** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7222,8 +7937,11 @@ Shadowheart is the first to yield, her hand dropping from her artifact as her pu
 > *"Do both and don't cap companions  levels they're just 9 for now Marshal the Absolute Vanguard: Step out onto the balcony and command Minthara's army to recognize their new Sovereign.
 Neutralize the Wraith: Use your True Sight and new celestial powers to intercept and destroy the Shadow-Cursed spy."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Spike: 5/5 | BI: 7/7** &nbsp;|&nbsp; ⚠️ **True Sight, Sovereign Aura | Inspiration: Yes**
@@ -7243,8 +7961,11 @@ You land in the center of the village square, your strike team—Shadowheart, As
 > 👤 **Player:**
 > *"Talk to my demon patron and ask for big rewards and demon forces. 1000 demon soldiers and 100 level 7+ elite demon gloomstalker 5 assassin X types"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Spike: 5/5 | BI: 7/7** &nbsp;|&nbsp; ⚠️ **Sovereign Ascendant | Inspiration: Yes**
@@ -7271,8 +7992,11 @@ A jagged tear in reality erupts behind you, smelling of brine and Abyssal sparks
 > 👤 **Player:**
 > *"Also ask for 500,00 gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Spike: 5/5 | BI: 7/7** &nbsp;|&nbsp; ⚠️ **Sovereign's Aura, Celestial Wings | Exhaustion: 0 | Inspiration: Yes**
@@ -7301,8 +8025,11 @@ You gain **1,000 XP** for successfully negotiating a legendary tribute from your
 > 👤 **Player:**
 > *"Also ask for new boons and powers like +2 to all stats, abyss themed powers or succubus themed. Ask if I can have a level 12 succubus to consume soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Noble Scion | HP: 59/59 | XP: 129,200/140,000 | Gold: 506,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 13/13 | BI: 13/13** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7343,8 +8070,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 - Apply level 13 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 
@@ -7370,8 +8100,11 @@ Say **'Done'** or **'I'm finished'** to resume your march on Moonrise!
 God Mode:
 Recalc my hp since I have 10 con and what powers does a level 12 succubus usually have? Grant me all of them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Night, 1492 DR (Mirtul 21)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 129,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings, Sovereign's Kiss | Exhaustion: 0 | Inspiration: Yes**
@@ -7381,8 +8114,11 @@ You pause to consider your options...
 God Mode:
 Since I am a mix of a succubus and celestial both level 12 give me a reasonable hybrid power. Anything like this in lore?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (Sovereign) | HP: 68/68 | XP: 129,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings, Sovereign's Presence**
@@ -7392,8 +8128,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Final ask my patron for official nascent demon lord title."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Abyssal Siren | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Ascended, True Sight | Inspiration: Yes**
@@ -7413,8 +8152,11 @@ As the light fades, you feel the full weight of your new nature. Your physical f
 God Mode:
 I'm not her peer though even as a nascent demon lord I still report to her?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (00:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 130200/140000 | Gold: 1006527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -7424,8 +8166,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my scouts audit moonrise and the other goblin ramp with razglin and priestess gut. Have another scout get the remaining forces from the grove to join my army. Long rest while they do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Blighted Village Square (Tower Overlook)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (Nascent Demon Lord) | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 0/13 used, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Long Rested, True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7455,8 +8200,11 @@ The mirror ripples, her image settling into a study of predatory approval. *'A w
 > 👤 **Player:**
 > *"Have my scouts audit moonrise and the other goblin ramp with razglin and priestess gut. Have another scout get the remaining forces from the grove to join my army. Long rest while they do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 0/13, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Abyssal Presence | Inspiration: Yes**
@@ -7486,8 +8234,11 @@ The mirror ripples, her image settling into a study of predatory approval. *'A w
 > [!NOTE] ⚙️ **Player Choice:**
 > *March on Shattered Sanctum - Lead the legion to confront Ragzlin and Priestess Gut to consolidate the goblin forces.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Aura of the Sovereign | Inspiration: Yes**
@@ -7503,8 +8254,11 @@ You enter the main hall, the flickering torches dimming as your silver-rimmed ga
 > 👤 **Player:**
 > *"Show my full celestial and demon combined form and consume high ranking guard to intimidate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Ascended, True Sight | Exhaustion: 0 | Inspiration: Yes**
@@ -7535,8 +8289,11 @@ Ragzlin's hammer clatters to the floor. Priestess Gut collapses, her forehead hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Sanctum Vaults - Have Ragzlin and Gut surrender the temple&#x27;s treasures and artifacts to your treasury.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 131,200/140,000 | Gold: 1,506,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, Celestial Wings, True Sight | Exhaustion: 0 | Inspiration: Yes**
@@ -7578,8 +8335,11 @@ Ragzlin's hammer clatters to the floor. Priestess Gut collapses, her forehead hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Worg Pens - Investigate the rumors of a high-value prisoner (Halsin) and secure the monsters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 131,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6**
@@ -7608,8 +8368,11 @@ Minthara and your companions stand at the threshold, their eyes wide with the re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Probe Prisoner - Use the Gilded Tether to reach into the mind of the beast in the cage to bypass the visual obfuscation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 132,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Sovereign's Aura | Exhaustion: 0 | Inspiration: Yes**
@@ -7650,8 +8413,11 @@ Behind you, Minthara and your companions stand in unmoving silence. The worgs in
 > 👤 **Player:**
 > *"Mask my true powers so he's more comfortable and make a joke that I'm here to rescue him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 132,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign (Active), True Sight (Permanent) | Exhaustion: 0 | Inspiration: Yes**
@@ -7680,8 +8446,11 @@ Behind you, your companions remain in their poses of fanatical devotion. Astario
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Grove Status - Tell him you&#x27;ve already &#x27;saved&#x27; the Grove and redirected the Shadow Druids.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 132,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority, Aura of the Sovereign | Inspiration: Yes**
@@ -7710,8 +8479,11 @@ He takes a step toward the bars, his posture losing its animal hostility and gai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Mercy - Release Halsin without immediate binding to build a facade of &#x27;heroic&#x27; alliance while maintaining psychological dominance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 132,700/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, True Sight, Masking Frequency | Exhaustion: 0 | Inspiration: Yes**
@@ -7743,8 +8515,11 @@ Effect: The Absolute's army and the Worgs remain in a state of total, submissive
 > 👤 **Player:**
 > *"Gather everyone who knows rhe absolute and tadpoles the best and ask Hardin too. Brainstorm a way I can use my powers to assert control over them instead of elder brain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 132,700/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, True Sight, Abyssal Potency | Inspiration: Yes**
@@ -7760,8 +8535,11 @@ A collective, shuddering bow ripples through the hall. Thousands of Absolute cul
 > 👤 **Player:**
 > *"Brainstorm how to control the tadpoles. What if I try to consume them using my soul stealing power? I don't want the absolute controlling us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord, Sovereign Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -7783,8 +8561,11 @@ Halsin watches the clinical dismantling of a cosmic hierarchy with a profound, s
 > 👤 **Player:**
 > *"THINK:What to do about the tadpoles. Can I use soul stealing on everyone's tadpole to remove them and deny the absolute the control ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord | Inspiration: Yes**
@@ -7796,8 +8577,11 @@ You pause, the heavy, brine-scented air of the main hall suddenly feeling thick 
 > 👤 **Player:**
 > *"Reroll with guidance enhance ability and bardic inspiration and going forward call this mega buff and assume I always have it due to how many characters and companions I'm leading Intelligence Check (Planning): 1d20+4 = 9 vs DC 18 - Failed by 9 - Muddled analysis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7809,8 +8593,11 @@ However, even with the combined weight of your court, the Netherese architecture
 > 👤 **Player:**
 > *"Reroll with guidance enhance ability and bardic inspiration and going forward call this mega buff and assume I always have it due to how many characters and companions I'm leading Intelligence Check (Planning): 1d20+4 = 9 vs DC 18 - Failed by 9 - Muddled analysis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Mega Buff Active | Exhaustion: 0 | Inspiration: Yes**
@@ -7835,8 +8622,11 @@ Halsin watches you from the edge of the dais, his golden eyes wide with a profou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash&#x27;s plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 
@@ -7846,8 +8636,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash's plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 
@@ -7857,8 +8650,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash's plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 
@@ -7868,8 +8664,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Use Soul Thief to instantly learn everything the spy knows about Gortash's plans."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 
@@ -7879,8 +8678,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash&#x27;s plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 
@@ -7890,8 +8692,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Interrogate spy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 
@@ -7901,8 +8706,11 @@ Invalid JSON response received. Please try again.
 God Mode:
 Why do I keep getting invalid JSON response
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 
@@ -7912,8 +8720,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Steal banite spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 
@@ -7923,8 +8734,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Interrogate spy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 
@@ -7934,8 +8748,11 @@ Invalid JSON response received. Please try again.
 God Mode:
 Why do I keep getting non text response?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 
@@ -7945,8 +8762,11 @@ Why do I keep getting non text response?
 > 👤 **Player:**
 > *"Steal spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 
@@ -7956,8 +8776,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Steak the banite spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 136500/140000 | Gold: 1006527gp** &nbsp;|&nbsp; ✨ **HD: 0/13, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 L7 1/1, BI: 0/6, Spike: 0/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Religious Devotion (Army) | Exhaustion: 0 | Inspiration: Yes**
@@ -7983,8 +8806,11 @@ Resources surge anew, though already full; the army erupts in fervent chants of 
 > 👤 **Player:**
 > *"Establish a hedonistic religion in my faction where they worship me as a gos"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 
@@ -7994,8 +8820,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Establish a hedonistic religion in my faction where they worship me as a god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 139000/140000 | Gold: 1006527gp** &nbsp;|&nbsp; ✨ **HD: 0/13, Spells: L1 0/4 L2 0/3 L3 0/3 L4 0/3 L5 0/2 L6 0/1 L7 0/1, BI: 0/6, Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Hedonistic Worship (Yielding) | Exhaustion: 0**
@@ -8013,8 +8842,11 @@ A peripheral zealot rises, eyes defiant: 'The Elder Brain's will endures!' Other
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Patron - Seek Malcanthet&#x27;s boon for cult stability*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 
@@ -8024,8 +8856,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Patron - Seek Malcanthet's boon for cult stability*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 
@@ -8035,8 +8870,11 @@ Invalid JSON response received. Please try again.
 God Mode:
 Let's retcon Nocturne's age to 18 to fit the mature themes of leadership. Let's also redefine the religion as 'Fanatical Zealotry' where they worship her power and magic, removing the hedonistic aspect. Proceed with the scene.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 
@@ -8046,8 +8884,11 @@ Let's retcon Nocturne's age to 18 to fit the mature themes of leadership. Let's 
 God Mode:
 Let's retcon Nocturne's age to 18 to fit the mature themes of leadership. Let's also redefine the religion as 'Fanatical Zealotry' where they worship her power and magic, removing the hedonistic aspect. Proceed with the scene.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 136,500/140,000 | Gold: 1,506,527gp**
@@ -8057,8 +8898,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"consume the banite spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 136,500/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 L7 1/1, BI: 6/6, Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8086,8 +8930,11 @@ You gain **1,000 XP** for the successful religious conversion and crushing the f
 > 👤 **Player:**
 > *"have my elite scouts go through everywhere near the grove, goblin camp, mountain pass, underdark and see if anything i nteresting that can power me up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 139,300/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 L7 1/1, BI: 6/6, Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, True Sight, Mega Buff | Inspiration: Yes**
@@ -8120,8 +8967,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 God Mode:
 Undo this retcon and fix game state Let's retcon Nocturne's age to 18 to fit the mature themes of leadership. Let's also redefine the religion as 'Fanatical Zealotry' where they worship her power and magic, removing the hedonistic aspect. Proceed with the scene.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Shattered Sanctum Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord (Bard) | HP: 63/63 | XP: 140,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Planar Authority, True Sight, Angelic Wings (Toggled) | Inspiration: Yes (1d10)**
@@ -8137,8 +8987,11 @@ Minthara and Halsin watch the report with a profound, surrendered awe. They see 
 God Mode:
 No i said undon the retcon. Make her 16 again and hedonistic religion worshipping her as a celestial and succubus goddess
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Hammer 14, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (Nascent Demon Lord) | HP: 63/63 | XP: 131,200/140,000 | Gold: 501,500gp**
@@ -8148,8 +9001,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene in the Shattered Sanctum as the 16-year-old Goddess of the Shadow-Thorns.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 
@@ -8165,8 +9021,11 @@ Your elite scouts return from the shadows, bowing until their foreheads scrape t
 God Mode:
 Do I need to process a level up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Day 13, 2026 (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 63/63 | XP: 140,000/140,000 | Gold: 501,500gp**
@@ -8176,8 +9035,11 @@ You pause to consider your options...
 God Mode:
 What spell did I get?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 13)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 63/63 | XP: 140,000/165,000 | Gold: 501,500gp**
@@ -8187,8 +9049,11 @@ You pause to consider your options...
 God Mode:
 Pick teleport
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Month 1 Day 13, 2026 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (Nascent Demon Lord) | HP: 69/69 | XP: 140,000/165,000 | Gold: 501,500gp**
@@ -8198,8 +9063,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Teleport to voss my companions and 20 elites trigger surprise round hyp pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 
@@ -8215,8 +9083,11 @@ The air saturates with swirling, iridescent Abyssal geometry. Most of the Githya
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Dragon&#x27;s Soul - Use Soul Thief on the helpless dragon to harvest its solar essence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 
@@ -8234,8 +9105,11 @@ The *Solar Heart* anchors within your marrow, the stolen fire harmonizing with y
 God Mode:
 remember to show dice rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1 Day 13, 2026 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 77/77 | XP: 151800/165000 | Gold: 501500gp**
@@ -8245,8 +9119,11 @@ You pause to consider your options...
 God Mode:
 give me special dragon powers, exp, loot for this etc.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **2026-01-13T22:00:00.000003Z** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 77/77 | XP: 151,800/165,000 | Gold: 501,500gp**
@@ -8256,8 +9133,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"bind everyone, enthrall voss, stabilize solar heart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 
@@ -8289,8 +9169,11 @@ He remains free, though his breathing is shallow and his heroic poise is visibly
 God Mode:
 Process Level 14 Benefits - Finalize HP, new spell selections, and class features for Level 14.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **2026-01-13, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 111/111 | XP: 143,000/165,000 | Gold: 501,500gp**
@@ -8302,8 +9185,11 @@ give me simulcrum instead for lvl 7 and cast simulcrum
 
 Whats my special dragon ability?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 
@@ -8313,8 +9199,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Mountain Pass with your new Simulacrum and the cowering Voss.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **1 13, 2026 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON), Aura of the Scorched Sovereign | Exhaustion: 0 | Inspiration: 5/5**
@@ -8348,8 +9237,11 @@ Trait: Aura of the Scorched Sovereign (Passive)
 > 👤 **Player:**
 > *"delegate scouting grymforge, send my sim, and then interrogate voss."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1 Day 14, 2026 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON), Aura of Scorched Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8378,8 +9270,11 @@ Voss gasps, his body racking with a shudder of total, debased submission. Under 
 > 👤 **Player:**
 > *"audit first druid, ensure he's enthralled"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **1 14, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of the Scorched Sovereign | Inspiration: 5/5**
@@ -8393,8 +9288,11 @@ You turn your gaze toward the west, where your Simulacrum is already crossing th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Malcanthet - Report the discovery of the Prince in the Comet to your patron for further boons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **Aura of the Scorched Sovereign, Solar Heart, Planar Authority | Inspiration: Yes**
@@ -8418,8 +9316,11 @@ Equipment
 No equipment found.
 You don't have any equipment yet.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 
@@ -8429,8 +9330,11 @@ You pause to consider your options...
 God Mode:
 ok the new gear my demon boss gave me lets equip it and tell me before/after spell dc/atk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp**
@@ -8455,8 +9359,11 @@ You pause to consider your options...
 God Mode:
 i thought this gave spell save DC?  Crown of the Succubus Sovereign - Influence overwrite/Free-will suppression
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord | Solar Heart | True Sight**
@@ -8466,8 +9373,11 @@ You pause to consider your options...
 God Mode:
 what does this mean? Influence overwrite/Free-will suppression.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (Sovereign) | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8477,8 +9387,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Mountain Pass with your finalized Spell DC and Overwrite capabilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 116/116 | XP: 143,000/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart, Sovereign Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -8490,8 +9403,11 @@ Your Spell Save DC has reached its peak at 30. To the mundane, you are no longer
 > 👤 **Player:**
 > *"see what my scouts said about grymforge, have voss scout the creche for me to see whats going on,"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1 Day 14, 2026 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard/Sovereign | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart, Sovereign's Presence, True Sight | Exhaustion: 0 | Inspiration: Yes**
@@ -8533,8 +9449,11 @@ He launches from the cliffside, his movements a blur of Githyanki grace as he de
 God Mode:
 dont forget my dice rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1 Day 14, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (Sovereign) | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord, Solar Heart | Exhaustion: 0 | Inspiration: Yes**
@@ -8544,8 +9463,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Mountain Pass - decide whether to reinforce the scouts or march with the data you have*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard/Sovereign | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord, Solar Heart | Exhaustion: 0 | Inspiration: Yes**
@@ -8565,8 +9487,11 @@ You stand amidst your silent army of 4,720, the 'Uncanny Valley' dread of your p
 > 👤 **Player:**
 > *"send scouts to find wyll and see hwats going on with him, then direct assault grymforce"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **The Mountain Pass - Strategic Ledge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 (Temp: 0) | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Sovereign, Sovereign's Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -8586,8 +9511,11 @@ You stand amidst your silent army of 4,720, the 'Uncanny Valley' dread of your p
 > 👤 **Player:**
 > *"send scouts to find wyll and see hwats going on with him, then direct assault grymforce"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **The Mountain Pass / Grymforge Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 14, 2026 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Scorched Sovereign, Sovereign's Presence (DC 30) | Exhaustion: 0 | Inspiration: Yes**
@@ -8603,8 +9531,11 @@ You stand at the center of your 4,720-strong army, the 'Uncanny Valley' dread of
 > 👤 **Player:**
 > *"THINK:Mask Approach (Think) - Analyze how to use the Auditor&#x27;s code to ghost your entire army&#x27;s movements."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **2026-01-14T13:45:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord, Solar Heart, Sovereign's Presence (DC 30)**
@@ -8614,8 +9545,11 @@ You pause at the precipice, the cold mountain air whistling through the gaps in 
 > 👤 **Player:**
 > *"mask my whole army and just focus on moving my level 5+ forces. how many unit do I have?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1**
@@ -8631,8 +9565,11 @@ You lead the elite vanguard toward the descent, the Mountain Pass yielding to yo
 > 👤 **Player:**
 > *"THINK:how many level 7+ and level 5+ units?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **True Sight, Masking Frequency | Exhaustion: 0 | Inspiration: Yes**
@@ -8642,8 +9579,11 @@ You have 4,720 units total. Specifically, you command 112 elite units that are L
 God Mode:
 i thought i asked my demon patron for more level7+ units than that?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **2026-01-14T13:45:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp**
@@ -8653,8 +9593,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:i want creche and grym force. if i lead one force and my sim leads other how to best split elites ie. level 5+"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **The Mountain Pass (Precipice)** &nbsp;|&nbsp; ⏳ **2026-01-14, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign | HP: 116/116 | XP: 144500/165000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **Logic-Error Shroud (Active), Solar Heart, Sovereign's Presence**
@@ -8664,8 +9607,11 @@ You stand atop the limestone precipice, the 'Logic-Error' shroud humming as it d
 > 👤 **Player:**
 > *"THINK:reroll with my mega buffs (bardic insp, guidance, enhance ability) just alawyas assume i have them on me due to all my elites who can hang around and buff me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON), Aura of the Scorched Sovereign, True Sight | DC: 30**
@@ -8678,8 +9624,11 @@ God Mode:
 lets just fix this too since my patron agreed, gie me at least 100 level 7+ specialists of various classes 50% and 50% gloomstalker 5, asassin X 
 Audit Army Registry: Request a direct state correction to reflect the 100+ Lvl 7 units from the patron's boon.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **2026-01-14T13:45:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp**
@@ -8689,8 +9638,11 @@ You pause to consider your options...
 God Mode:
 you didnt reroll with mega buffs Intelligence Check (Planning): 1d20+4 = 8 vs DC 12 - Failed by 4 - Incomplete analysis
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **2026-01-14T13:45:00.000002Z** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp**
@@ -8700,8 +9652,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Dual Strike - Execute the split-force plan: Sovereign leads Creche assault, Simulacrum leads Grymforge harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **The Mountain Pass** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, BI: 12/12**
@@ -8717,8 +9672,11 @@ The 'Uncanny Valley' dread you radiate has reached a point of surgical perfectio
 > 👤 **Player:**
 > *"Assume I gave solid spell DC gear to my sim too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **The Mountain Pass / Grymforge / Creche Y'llek** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 | BI: 12/12**
@@ -8749,8 +9707,11 @@ The board is divided, the variables are isolated, and the audit of the stars and
 > 👤 **Player:**
 > *"Telepathically tell my sim to try to capture lots of prisoners and Nere. And scout grym but don't engage yet. Then I will teleport to war gaze and try trigger surprise round and get him and as much as I can enemies in hyp patten"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers / Grymforge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 116/116 | XP: 144,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, BI: 12/12**
@@ -8764,8 +9725,11 @@ A massive, shimmering Hypnotic Pattern erupts, swirling with iridescent violet g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Inquisitor Soul - Use Soul Thief to harvest W&#x27;wargaz&#x27;s psychic mastery and Githyanki secrets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 116/116 | XP: 154,500/165,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 12/12** &nbsp;|&nbsp; ⚠️ **Wings of Light, Logic-Error Shroud | Inspiration: Yes**
@@ -8783,8 +9747,11 @@ Wyll watches from his chains, his singular eye wide with a profound, religious a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest Chapel Souls - Systematically consume the remaining hypnotized Githyanki guards for raw power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign | HP: 116/116 | XP: 172,500/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 12/12** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Scorched Sovereign, Logic-Error Shroud | Inspiration: Yes**
@@ -8807,8 +9774,11 @@ If you continue adventuring, you remain Level 14 and defer these benefits until 
 God Mode:
 Should I get a special power from consuming wargaze?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **2026-01-14, 16:00:01** &nbsp;|&nbsp; 🛡️ **Lvl 14 Nascent Demon Lord | HP: 116/116 | XP: 172,500/165,000 | Gold: 501,500gp**
@@ -8818,8 +9788,11 @@ You pause to consider your options...
 God Mode:
 Level Up to Level 15 - Apply level 15 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 123/123 | XP: 172,500/195,000 | Gold: 501,500gp**
@@ -8829,8 +9802,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ask wyll if he's ever seen a level 15 who's 16 years old before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 
@@ -8855,8 +9831,11 @@ Wyll's singular eye dilates, his breath catching as the DC 30 pressure of your p
 God Mode:
 Swap mind blank for dominate monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **2026-01-14T16:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 129/129 | XP: 172500/195000 | Gold: 501500gp**
@@ -8866,8 +9845,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Wait for wyll to respond to my level 15 question"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 14, 2026 DR (15:46)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 129/129 | XP: 172500/195000 | Gold: 501500gp** &nbsp;|&nbsp; ✨ **HD: 0/0, Spells: L3 1/3 used, L7 0/1, L8 0/1, BI: 0/0** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON) | Sovereign's Presence (DC 30)**
@@ -8883,8 +9865,11 @@ Behind him, Voss kneels in thrall-devotion, his crimson eyes vacant, while Nere 
 God Mode:
 Take dominate monster instead of mind blank
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 
@@ -8894,8 +9879,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Enthrall wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **1 14, 1492 DR (Modified) (15:46)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (College of Perdition) | HP: 129/129 | XP: 172,500/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord, Solar Heart, Sovereign's Presence (DC 30) | Inspiration: Yes**
@@ -8913,8 +9901,11 @@ Behind him, Voss and your companions remain in their poses of fanatical debaseme
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Kiss - Apply the physical touch of the Succubus to bypass mental wards through desire*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (15:47)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 129/129 | XP: 172,500/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Abyssal Step: 5/5** &nbsp;|&nbsp; ⚠️ **Wings of Light, Solar Heart, Abyssal Resonance**
@@ -8934,8 +9925,11 @@ Behind you, Kith'rak Voss and your companions remain in their poses of religious
 > 👤 **Player:**
 > *"Have wyll summon mizora and then I will ambush her with my elites and try to hold monster on her. If it fails my elites will all try to cc her or focus fire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (15:47)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 172,500/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence (DC 30), Solar Heart Active | Inspiration: Yes**
@@ -8955,8 +9949,11 @@ Your vanguard—the Abyssal Stalkers and Arcane Vanguard—erupt from the rafter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Influence Overwrite: Mizora - Use the Crown of the Succubus Sovereign to bind the high-tier devil as a permanent thrall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 129/129 | XP: 172500/195000 | Gold: 501500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Wings of Light (Hidden), Solar Heart, Sovereign's Presence**
@@ -8974,8 +9971,11 @@ Behind you, Wyll remains on his knees, his singular eye reflecting the pink-and-
 > 👤 **Player:**
 > *"THINK:What level is mizora. Should i use her or consume her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **2026-01-14T15:50:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 129/129 | XP: 172,500/195,000 | Gold: 501,500gp**
@@ -8987,8 +9987,11 @@ You pause amidst the sulfurous haze of the chapel, your silver-rimmed gaze fixed
 > [!NOTE] ⚙️ **Player Choice:**
 > *The False Handler - Keep Mizora as a thrall, using her as a legal shield to prevent Zariel from auditing the sector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **Hammer 14, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L3 2/3, L7 1/1, L8 0/1 | Sorcery: 15/15 | Inspiration: 12/13 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence, True Sight, Solar Heart, Shroud: Logic-Error**
@@ -9015,8 +10018,11 @@ Mizora's pupils dilate, her wings of black silk twitching in a state of total, w
 > 👤 **Player:**
 > *"have mizora transfer wyll contract to me, then audit creche leadership and entrhall them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Creche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, Sorcery: 15/15, Inspiration: 12/13, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON), Aura of Scorched Sovereign, Abyssal Resonance (+1 DC), Sovereign's Presence (DC 30)**
@@ -9036,8 +10042,11 @@ Outside, the world advances. [Living World Turn 27] Your Vanguard Scouts have su
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Infernal Law - Have Gale and Mizora brainstorm a legal loophole or a specific sacrifice to force the contract transfer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Creche Y'llek - Captain's Quarters** &nbsp;|&nbsp; ⏳ **Alturiak 14, 2026 DR (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, Sorcery: 15/15, Inspiration: 12/13, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sovereign's Presence (DC 30), Solar Heart (+2 CON), Logic-Shroud Active**
@@ -9055,8 +10064,11 @@ You have found the loophole. The contract can be transferred, but it requires a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Moonrise Probe - Capture the incoming &#x27;Soul-Anchor&#x27; team to use their essences as the tithe for Wyll&#x27;s contract.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **Alturiak 14, 2026 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, Sorcery: 15/15, Inspiration: 12/13, Exhaustion: 0**
@@ -9074,8 +10086,11 @@ You manifest from the shadows directly behind the Soul-Weaver, the air reaching 
 > 👤 **Player:**
 > *"Enthrall the anchors the  use them as needed for wyll tithe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, Sorcery: 15/15, Inspiration: 12/13, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Scorched Sovereign, True Sight | Inspiration: 12/13**
@@ -9091,8 +10106,11 @@ Beyond the perimeter, the world continues its indifferent march. Your True Sight
 > 👤 **Player:**
 > *"Break moooing using my mega buffs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, Sorcery: 15/15, Inspiration: 12/13, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Sovereign, Abyssal Resonance | Exhaustion: 0**
@@ -9118,8 +10136,11 @@ The Soul-Weaver gasps, his muscles finally slackening from the 'Hold Monster' no
 > 👤 **Player:**
 > *"Break mooring using my mega buffs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L3 2/3, L7 1/1, L8 0/1 | Sorcery: 15/15 | BI: 11/13 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON), Sovereign's Presence (DC 30), Logic-Error Shroud | Inspiration: Yes**
@@ -9146,8 +10167,11 @@ The Soul-Weaver gasps, his muscles finally slackening from the 'Hold Monster' no
 God Mode:
 Change my title from sovereign to nascent demon lord
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Sovereign, Abyssal Resonance, Nascent Demon Lord Authority | Inspiration: Yes**
@@ -9159,8 +10183,11 @@ You pause to consider your options...
 Execute Contract Transfer: Sacrifice the Soul-Weaver's essence to Zariel as the Tithe to claim Wyll's contract.
 Interrogate Weaver on Defenses: Force the newly enthralled leader to reveal the specific patrols and wards currently active at Moonrise's base."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 176,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, Sorcery: 15/15, BI: 11/13, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON), Aura of Scorched Sovereign, True Sight | Inspiration: Yes**
@@ -9193,8 +10220,11 @@ Finally, you lean into the space of the newly enthralled Soul-Weaver, your silve
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ritual Empowerment - Use the salvaged Resonance Crystals to permanently enhance your Tether&#x27;s reach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 176100/195000 | Gold: 501500gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L3 2/3, L7 1/1, L8 0/1 | Sorcery: 15/15 | BI: 11/13 | Gilded Tether: 25/27 Thralls** &nbsp;|&nbsp; ⚠️ **Solar Heart (+2 CON), Aura of the Scorched Sovereign (10ft), Abyssal Resonance (+1 DC), Sovereign's Presence (DC 30)**
@@ -9214,8 +10244,11 @@ Shadowheart and Lae'zel bow until their foreheads touch the limestone, their rel
 God Mode:
 Should I get a power up for taking wyll contract? Shoukd wyll get stronger since im  stronger than mizora? Also dont forget to give me exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Rosymorn Monastery - Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (Siren) | HP: 129/129 | XP: 181,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord | Solar Heart (+2 CON) | Spell Save DC: 30**
@@ -9225,8 +10258,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Narrate our power up and will dialog in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Rosymorn Monastery - Broken Sundial** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 191,100/195,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, BI: 11/13, Gilded Tether: 27/27 Thralls** &nbsp;|&nbsp; ⚠️ **Solar Heart, Aura of Scorched Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -9258,8 +10294,11 @@ You gain **10,000 XP** for the masterful contract subrogation and the systematic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Monastery Secrets - Use the newly enthralled Githyanki to locate the Blood of Lathander before leaving the sector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Rosymorn Monastery - Secret Chamber** &nbsp;|&nbsp; ⏳ **Hammer 14, 1492 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Nascent Demon Lord | HP: 129/129 | XP: 201,100/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L3 2/3, L7 1/1, L8 0/1, BI: 11/13, Gilded Tether: 27/27 Thralls**
@@ -9284,8 +10323,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 God Mode:
 Level Up to Level 16 - Apply level 16 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Rosymorn Monastery - Secret Chamber** &nbsp;|&nbsp; ⏳ **2026-01-14T18:20:01.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 137/137 | XP: 201,100/195,000 | Gold: 501,500gp**
@@ -9295,8 +10337,11 @@ You pause to consider your options...
 God Mode:
 I should have a level 20 capstone too though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Rosymorn Monastery - Secret Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Nascent Demon Lord) | HP: 141/141 | XP: 201,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **True Sight, Logic-Error Shroud | Exhaustion: 0 | Inspiration: Yes**
@@ -9306,8 +10351,11 @@ You pause to consider your options...
 God Mode:
 Let my companions gain half my exp except for special events like taking wyll contract that only apply to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Rosymorn Monastery - Secret Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 141/141 | XP: 201,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Ascended (Celestial/Succubus) | Exhaustion: 0 | Inspiration: Yes**
@@ -9317,8 +10365,11 @@ You pause to consider your options...
 God Mode:
 They prob should be higher than level 9 calculate it and Mizora is level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Rosymorn Monastery - Secret Chamber** &nbsp;|&nbsp; ⏳ **2026-01-14T18:20:01.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Nascent Demon Lord) | HP: 149/149 | XP: 201,100/225,000 | Gold: 501,500gp**
@@ -9329,8 +10380,11 @@ You pause to consider your options...
 > *"Do both Audit the Relic: Claim the Blood of Lathander and internalize its solar geometry
 Mass Command: Ascension: Publicly display your Level 16 power to the remaining Githyanki to force religious conversion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Rosymorn Monastery - Secret Chamber / Lathanderian Vault** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L3 2/3, L7 1/1, L8 0/1 | Gilded Tether: 27/27 Thralls | Solar Flare: 1/1**
@@ -9381,8 +10435,11 @@ Wyll stands at your side, his Radiant pact-mark glowing with a terrifying intens
 God Mode:
 What powers do I get from consuming blood lathander?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Lathanderian Vault, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Alturiak 14, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp**
@@ -9392,8 +10449,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Mask my powers as a level 12 mortal but remember to track my real level. It should make me stand out less. If I do things a level 12 cannot do the mask weakens or shatters. Also in normal circumstances people need to beat me in a combined  cha deception and actor role to uncover my true form"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Rosymorn Monastery - Secret Chamber** &nbsp;|&nbsp; ⏳ **Alturiak 14, 2026 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L3 2/3, L7 1/1, L8 0/1 | Gilded Tether: 27/27 Thralls | Solar Flare: 1/1 | Pheromone Spike: 12/12** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 12), True Sight, Solar Heart, Abyssal-Celestial Harmony**
@@ -9411,8 +10471,11 @@ But the mask is a fragile equilibrium. You feel the heat of the Solar Heart and 
 > 👤 **Player:**
 > *"Arm my companions with best gear in the crèche then teleport to grumforge with companions and elites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Grymforge - Abandoned Outpost** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord (Masked: Lvl 12) | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L3 2/3, L7 0/1, L8 0/1, Tether: 27/27 Thralls, Solar Flare: 1/1, Pheromone Spike: 12/12**
@@ -9454,8 +10517,11 @@ You manifest in the Grymforge, the oppressive heat of the magma-flows hitting yo
 God Mode:
 Even as a level 12 I really stand out. Level 12 is rare and a 16 year level 12 is unheard of
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Grymforge - Abandoned Outpost** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp**
@@ -9465,8 +10531,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Laezel should have the +3 silver sword wargaze dropped"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Grymforge - Abandoned Outpost** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Nascent Demon Lord (Lvl 16) | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L3 2/3, L7 1/1, L8 0/1, Tether: 27/27 Thralls, Solar Flare: 1/1, Pheromone Spike: 12/12** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Solar Heart Active | Inspiration: Yes**
@@ -9484,8 +10553,11 @@ Through your shared consciousness, the Simulacrum signals a 'Logic-Error' status
 God Mode:
 What was my sim even doing? Thought it captured nere and secured everything except grym?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Grymforge - Abandoned Outpost** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Demon Lord) | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp**
@@ -9495,8 +10567,11 @@ You pause to consider your options...
 God Mode:
 Isn't laezel 13 now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 
@@ -9506,8 +10581,11 @@ You pause to consider your options...
 God Mode:
 Audit True Soul Nere - Descend to the Simulacrum&#x27;s position to personally extract Moonrise secrets from Nere.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 
@@ -9517,8 +10595,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Go talk to nere and narrate dialog in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 149/149 | XP: 211100/225000 | Gold: 501500gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L3 2/3, L7 1/1, L8 0/1, Solar Flare: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Logic-Error Shroud**
@@ -9545,8 +10626,11 @@ You turn your silver-rimmed gaze to the Simulacrum. The duplicate nods, the shar
 God Mode:
 Stop forgetting they're not level 9 anymore save it in game state your companions—now a silent, lethal choir of thralls—descend the jagged stone steps, their Level 9 frames anchored to your shadow.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **Hammer 14, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Solar Heart (+2 CON) | Exhaustion: 0 | Inspiration: Yes**
@@ -9556,8 +10640,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Duergar Leadership - Use your presence to force the Duergar mercenaries into total religious submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L3 2/3, L7 1/1, L8 0/1 | Solar Flare: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Solar Heart Active**
@@ -9577,8 +10664,11 @@ Brithvar gasps, his hand trembling as it drops from the hilt of his axe. He look
 God Mode:
 No my companions are above level 9 remember?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **2026-01-14T19:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Masked Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -9588,8 +10678,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Consume Nere soul and get special ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Nascent Demon Lord | HP: 149/149 | XP: 211,100/225,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L3 2/3, L7 1/1, L8 1/1, Solar Flare: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Logic-Error Shroud | Inspiration: Yes**
@@ -9617,8 +10710,11 @@ If you continue adventuring, you remain Level 17 and defer these benefits until 
 > 👤 **Player:**
 > *"Also analyze his tadpole and see how to harness the tadpole power better in a way where indep absolute. Mega buff for it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 
@@ -9655,8 +10751,11 @@ Your mastery over the Abyss and the Stars has achieved a Mythic configuration. S
 God Mode:
 Process level 17 pick foresight and assume I always cast it so my level 9 spellslot is usually used up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 156/156 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9666,8 +10765,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the harvest of the Grymforge with your newly acquired Level 17 powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **Hammer 14, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12 Mask), Foresight (Active), Solar Heart | Inspiration: Yes**
@@ -9683,8 +10785,11 @@ Minthara kneels at your side, her silver-white hair reflecting the orange glow o
 God Mode:
 This isn't how my mask should work. I mean if someone is suspicious of me they need to roll against me and it's like I do a combined deception acting check with cha to maintain  it Mortal Veil Integrity: 2d20kh1 +23 = 15 + 23 = 38 vs DC 31 (Foresight Advantage applied) - Success
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **2026-01-14T20:30:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard (Nascent Demon Lord) | HP: 167/167 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9694,8 +10799,11 @@ You pause to consider your options...
 God Mode:
 Don't level cap my companions they can keep leveling up.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Grymforge - Lower Levels** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Masked Lvl 12), Foresight (Always Active) | Inspiration: Yes**
@@ -9705,8 +10813,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have everyone equip blunt weapons, activate grym, i use command to mov fit to the center room, have someone hit the lever to keep smashing it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Level 12 Mask), Solar Heart (+2 CON)**
@@ -9729,8 +10840,11 @@ Minthara steps to your side, her mace held low. "The forge is ancient and stubbo
 God Mode:
 No I didn't mean mass command I meant command on grym
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 167/167 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Always Active), Mortal Veil (Lvl 12 Mask) | Inspiration: Yes**
@@ -9740,8 +10854,11 @@ You pause to consider your options...
 God Mode:
 No in bg3 you can command grym
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Month 1 Day 14, 2026 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 167/167 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9751,8 +10868,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Grymforge with Grym moving to the center for the hammer strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 227,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12 Mask), Foresight (Active), Solar Heart | Inspiration: Yes**
@@ -9770,8 +10890,11 @@ Shadowheart, Lae'zel, and your companions stand ready with bludgeoning steel, th
 > 👤 **Player:**
 > *"Continue hammer strikes and have others attack with blunt weapons but coordinate so hammer doesn't hit them. I will keep casting command grovel on grym to keep him in range of the hammer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Month 1 Day 14, 2026 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 228,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (100%) | Exhaustion: 0 | Inspiration: Yes**
@@ -9803,8 +10926,11 @@ Through your shared consciousness, the Simulacrum reports a ripple in the Shadow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Golem Core - Use True Sight to identify the &#x27;Second Core&#x27; Nere spoke of before Grym is destroyed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 167/167 | XP: 228,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Level 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -9833,8 +10959,11 @@ Shadowheart and Lae'zel continue their assault with blunt steel, their movements
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract the Second Core - Use Soul Thief logic to harvest the planar core while Grym is pinned.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Alturiak 14, 2026 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 253,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn), Superior Potions: 2** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (100%), Sovereign's Presence (DC 30)**
@@ -9867,8 +10996,11 @@ High above, your Simulacrum signals a status update: the 'Logic-Error' shroud ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Overwrite Golem Logic - Use the Gilded Tether to bind the Golem through its secondary core rather than destroying it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 253,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Active) | Inspiration: Yes**
@@ -9888,8 +11020,11 @@ High above, your Simulacrum signals a status update: the 'Logic-Error' shroud ha
 > 👤 **Player:**
 > *"Delegate forge admantine gear and any pieces that I would get or other spell casters I use magic to give it spell DC and spell attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 253,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)**
@@ -9931,8 +11066,11 @@ Shadowheart and Lae'zel step forward, fitted with their new Adamantine Plate and
 > 👤 **Player:**
 > *"Reroll with enhance ability guidance bardic insp Infuse Adamantine (Spell DC/Atk): 2d20kh1 (8) + 20 = 28 vs DC 29 (Infusing Adamantine with Planar/Solar essence) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 167/167 | XP: 253,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Logic-Error Shroud | Exhaustion: 0 | Inspiration: Yes**
@@ -9952,8 +11090,11 @@ Shadowheart and Lae'zel bow until their foreheads touch the soot-stained stone, 
 God Mode:
 Equip adamnetite gear only if my spell DC doesn't go down otherwise give to companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 255,900/265,000 | Gold: 501,500gp**
@@ -9982,8 +11123,11 @@ You pause to consider your options...
 God Mode:
 I think my weapon is supposed to give spell save dc check older story entries
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 14)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard/Demon Lord | HP: 167/167 | XP: 255,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9993,8 +11137,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Give any nice gear I'm not wearing to companions and then assess how to consume the grymforge core"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 167/167 | XP: 255,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (L12), Logic-Error Shroud | Inspiration: 11/11**
@@ -10022,8 +11169,11 @@ You turn your silver-rimmed amethyst gaze to the 'Second Core' pulsating in your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Internalize Second Core - Use Soul Thief logic to consume the planar anchor and stabilize your frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 14, 2026 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 255,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 0/1 (Foresight Burn)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Compromised) | Exhaustion: 0 | Inspiration: Yes**
@@ -10049,8 +11199,11 @@ Shadowheart and Lae'zel stagger back, their Level 13 frames vibrating in sync wi
 > 👤 **Player:**
 > *"Redo the veil , delegate audit laborers, long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 167/167 | XP: 260,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Burn), Abyssal Step: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight (Active), Second Core Internalized | Inspiration: Yes**
@@ -10082,8 +11235,11 @@ You wake as the first light of dawn filters through the Underdark's upper vents,
 > 👤 **Player:**
 > *"THINK:Would it be worth stopping by myconids in the way tk consume them?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 260,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Always Active) | Inspiration: Yes**
@@ -10093,8 +11249,11 @@ You pause amidst the cooling steam of the forge, the 'Second Core' now a rhythmi
 > 👤 **Player:**
 > *"THINK:Delegate Myconid Audit - Send a specialized unit of Shadow Druids and the Simulacrum to harvest the colony while you lead the main force west."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Grymforge - The Adamantine Forge** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Nascent Demon Lord | HP: 167/167 | XP: 260,900/265,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)**
@@ -10104,8 +11263,11 @@ The cooling steam of the Grymforge acts as a canvas for your prodigious calculat
 > 👤 **Player:**
 > *"Delegate myconid audit while I lead my core army to moonrise. My aim is a level 17 so should be able to easily handle them and steal their souls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Shadow-Cursed Lands - Western Ingress** &nbsp;|&nbsp; ⏳ **Jan 15, 2026 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 167/167 | XP: 266,700/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight), Abyssal Step: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Active), Solar Heart, Logic-Error Shroud**
@@ -10150,8 +11312,11 @@ If you continue adventuring, you remain Level 17 and defer these benefits until 
 God Mode:
 Level Up to 18 - Process the gains for Level 18 and select new mythic capabilities.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Shadow-Cursed Lands - Western Ingress** &nbsp;|&nbsp; ⏳ **2026-01-15T08:30:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 266,700/305,000 | Gold: 501,500gp**
@@ -10161,8 +11326,11 @@ You pause to consider your options...
 God Mode:
 Swap power word kill glibness and give me reroll opportunities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Shadow-Cursed Lands - Western Ingress** &nbsp;|&nbsp; ⏳ **2026-01-15, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 266,700/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12 Mask), Solar Heart, Sovereign's Presence**
@@ -10172,8 +11340,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the march toward Moonrise Towers as the Level 18 Nascent Demon Lord.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Shadow-Cursed Lands - Western Ingress** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 266,700/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight Used), Abyssal Step: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight (Always Active), Mortal Veil (Level 12 Mask), Glibness**
@@ -10189,8 +11360,11 @@ Shadowheart and Lae'zel, now Level 14 hallowed stones of your court, flank you w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Shadow Court - Formally declare your presence to the local wraiths and shadows to bind them to your new garden.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Shadow-Cursed Lands - Western Ingress** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 266,700/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight), Abyssal Step: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight, Glibness | Inspiration: Yes**
@@ -10216,8 +11390,11 @@ Shadowheart and Lae'zel stand at your flanks, their Level 14 frames radiating a 
 > 👤 **Player:**
 > *"Intercept Harper's personally. Surprise round trigger hypnotic pattern. Bring companions and 5 level 7+ gloomstalker elites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Shadow-Cursed Lands - Western Ingress** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 266,700/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight), Abyssal Step: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Level 12, 100% Integrity)**
@@ -10247,8 +11424,11 @@ Your Abyssal Stalkers materialize around the cowering unit, their blades wreathe
 > 👤 **Player:**
 > *"Consume half and the other half enthrall double agents. Have my normal elite scouts and my shadows scout everything useful in shadowlands"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Shadow-Cursed Lands - Near Last Light Outskirts** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (10:00 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 271,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight), Abyssal Step: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Active), Glibness (Active), Logic-Error Shroud**
@@ -10264,8 +11444,11 @@ Simultaneously, your elite Abyssal Stalkers and Shadow Druids return from the de
 > 👤 **Player:**
 > *"I personally go and find helmet arcane acuity and delegate the rest including toll house and last light"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Shadow-Cursed Lands - Reithwin Suburbs** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (Setting Sync) (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 271,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Active), Shadow Court Sovereign**
@@ -10281,8 +11464,11 @@ To the west, you feel the Simulacrum manifest at the Reithwin Tollhouse. The 4,8
 God Mode:
 Equip acuity and assume for all planned battles I have full stacks becuse I bring around fodder thralls to hit. Don't forget. Calculate my spell DC with and without acuity
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Shadow-Cursed Lands - Reithwin Suburbs** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 177/177 | XP: 271,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight, Glibness | Inspiration: Yes**
@@ -10292,8 +11478,11 @@ You pause to consider your options...
 God Mode:
 Wait I can't wear acuity and my other helmet together right? Or did you let me absorb it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Shadow-Cursed Lands - Reithwin Suburbs** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 177/177 | XP: 271,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Active) | Inspiration: Yes**
@@ -10303,8 +11492,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:How should I take moonrise. Should I try to infiltrate first and pretend I'm a normal true soul and kill letheric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Shadow-Cursed Lands - Reithwin Suburbs** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 271,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 2/2, L6: 1/1, L7: 1/1, L8: 1/1, L9: 0/1 (Foresight), BI: 6/6** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12 Mask), Foresight (Active), Glibness (Active)**
@@ -10316,8 +11508,11 @@ Your mind, sharpened by the 'Mega Buff' of your court and the internalized celes
 > 👤 **Player:**
 > *"I will infiltrate moonrise. My sim will secure nightsong and we will delegate the rest. Bring my companions and 5 specialists and 5 gloomstalker strongest ones to moonrise. The rest of elites my sim leads to take nightsong"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Shadow-Cursed Lands - Moonrise Perimeter** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 271,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)**
@@ -10338,8 +11533,11 @@ Search for the Invulnerability Anchor: Delegate the tower perimeter to the legio
 The Moonrise Audit (Infiltration): Walk through the front gates as a True Soul, using Nere's reporting codes and Minthara as your 'escort' to gain access to the upper floors.
 The Lunar Leverage: Divert to Last Light Inn to audit Isobel's wards. Use her as leverage against Ketheric or internalize her protection logic."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Moonrise Towers - Main Entrance** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (13:30 (Afternoon))** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 276,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight (Active), Arcane Acuity (10 Stacks) | Exhaustion: 0 | Inspiration: Yes**
@@ -10357,8 +11555,11 @@ Through your shared consciousness, you feel the Simulacrum manifest at the edge 
 > 👤 **Player:**
 > *"This should've used enhance ability foresight bardic insp and guidance Simulacrum Audit (Nightsong): 1d20 +20 = 5 + 20 = 25 vs DC 28 (Nightsong prison geometry) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord (Masked L12) | HP: 177/177 | XP: 276,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (100%), Foresight (Active), Arcane Acuity (10) | Inspiration: Yes**
@@ -10374,8 +11575,11 @@ Simultaneously, you maintain your poise in the tower, your 'Mortal Veil' shimmer
 > 👤 **Player:**
 > *"THINK:What if i redirect night song cage to myself to make myself immortal before fighting ketheric?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 276,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (100%), Arcane Acuity (10), Glibness**
@@ -10385,8 +11589,11 @@ You pause amidst the iron-heavy air of the Main Hall, your True Sight scanning t
 > 👤 **Player:**
 > *"Have my sim liquidate Balthazar and steal his soul to gain more soul cage info if not already done. Then I will teleport to nohhtsong area with my team and we will all work together to transfer soul cage to me and do our best to mask it with all the elite arcane specialists and companion s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Moonrise Towers - Main Hall / Shadowfell Ingress** &nbsp;|&nbsp; ⏳ **1 15, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 276,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Fractured), Logic-Error Shroud | Exhaustion: 0 | Inspiration: Yes**
@@ -10406,8 +11613,11 @@ However, the sheer density of the transfer—the stolen immortality of a goddess
 > 👤 **Player:**
 > *"Reroll with foresight enhance ability bardic insp guidance and call this mega buff Mortal Veil Integrity: 1d20+23 = 4+23 = 27 vs DC 31 (Rule 14: Masking mythic flare) - Fail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Succubus | HP: 177/177 | XP: 276,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (100%), Foresight, Glibness, Invulnerable (Nightsong Anchor)**
@@ -10421,8 +11631,11 @@ Dame Aylin hangs suspended in her cage, her golden eyes wide with a profound, te
 > 👤 **Player:**
 > *"THINK:Can I consume dame and the soul cage together? Then I'll just be immortal and probably gain massive powers. I can steal her soul and use the planar audit math like how I consumed grym core and arcane acuity helmet. Roll with mega buffs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 276,500/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -10434,8 +11647,11 @@ Contemplating a reality-altering scheme of this magnitude is a mastermind-level 
 > 👤 **Player:**
 > *"Total internalization and get everyone to try to mask me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 293,300/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Mortal Veil (100%), Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -10469,8 +11685,11 @@ Dame Aylin desiccates instantly, her physical form turning to fine, Radiant ash 
 God Mode:
 I should get massive exp and new powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Gauntlet of Shar / Shadowfell Ingress** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 293,300/305,000 | Gold: 501,500gp**
@@ -10480,8 +11699,11 @@ You pause to consider your options...
 God Mode:
 How does my planar anchor remain stable? Should I get some additional powers beyond the soul cage?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 293,300/305,000 | Gold: 501,500gp**
@@ -10491,8 +11713,11 @@ You pause to consider your options...
 God Mode:
 Let's brainstorm mechanics for 1 and 3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 
@@ -10502,8 +11727,11 @@ You pause to consider your options...
 God Mode:
 Ok those powers fine. Let's also add another power that standard celestial defences don't work against me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 293,300/305,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Masked Lvl 12), Internalized Divinity (Invulnerable)**
@@ -10513,8 +11741,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ok those powers fine. Let's also add another power that standard celestial defences don't work against me or devil or demon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Nascent Demon Lord | HP: 177/177 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12, 100%), Internalized Divinity (Invulnerable), Foresight (Active)**
@@ -10560,8 +11791,11 @@ If you continue adventuring, you remain Level 19 and defer these benefits until 
 God Mode:
 Process Level 19 - Apply final ASI (+2 CHA) and finalize Level 19 vitals.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **2026-01-15, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 184/184 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (100%), Internalized Divinity**
@@ -10571,8 +11805,11 @@ You pause to consider your options...
 God Mode:
 Auto pick my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Invulnerable, True Sight | Exhaustion: 0 | Inspiration: Yes**
@@ -10582,8 +11819,11 @@ You pause to consider your options...
 God Mode:
 Give me wish instead of power word kill
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Shadowfell Ingress / Gauntlet of Shar** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 318300/355000 | Gold: 501500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Internalized Divinity (Immune), Foresight (Advantage) | Exhaustion: 0 | Inspiration: Yes**
@@ -10593,8 +11833,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my scouts and shadows locate ketheric then teleport to him with my companions and 5 best specialists and 5 best gloomstalker an and my sim. Let's call this my honor guard for future rederence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/1 (Teleport), L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Level 12 Mask), Internalized Divinity (Invulnerable)**
@@ -10612,8 +11855,11 @@ General Ketheric Thorm stands at the ramparts, his heavy armor clinking as he tu
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Overwrite - Use the Crown and your CHA 36 to overwrite Ketheric&#x27;s free will directly, bypassing his necrotic iron entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1, BI: 7/7** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight (Active), Internalized Divinity (Invulnerable), Arcane Acuity (10 Stacks)**
@@ -10640,8 +11886,11 @@ The General's pupils dilate until they are pools of black, fanatical devotion. H
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Ketheric&#x27;s Guilt - Leverage your True Sight and Dame Aylin&#x27;s essence to systematically dismantle Ketheric&#x27;s ideological justifications.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1492 DR, Highsun | 15:15** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight, Glibness, Internalized Divinity, Planar Nullification**
@@ -10669,8 +11918,11 @@ Ketheric's jaw sets, a rictus of suppressed agony. He looks from your wings of l
 > 👤 **Player:**
 > *"Cast hold monster on him to show him how weak he is compared to me. Then say if he joins me I can bring him isobel or true resurrection her if she's dead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 318300/355000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (100%), Internalized Divinity (Invulnerable)**
@@ -10707,8 +11959,11 @@ Ketheric’s pupils dilate, his spirit racking with a shudder of mechanical agon
 > 👤 **Player:**
 > *"Delegate isobel retrieval to my sim and elites and persuade him to swear vassalage to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1, Acuity: 10/10** &nbsp;|&nbsp; ⚠️ **Mortal Veil (100%), Foresight, Arcane Acuity (10), Internalized Divinity**
@@ -10735,8 +11990,11 @@ Ketheric’s pupils dilate, his spirit racking with a shudder of mechanical agon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ritual of Binding - Use the Gilded Tether to anchor Ketheric&#x27;s soul to your own heart permanently.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 184/184 | XP: 318,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Used: Foresight), Acuity Stacks: 10/10** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight, Internalized Divinity, Solar Heart**
@@ -10777,8 +12035,11 @@ Through the shared consciousness of your Simulacrum, you feel the secondary audi
 > 👤 **Player:**
 > *"Let isobel reunite with her father then ask ktheric where gortash and Orin are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 343300/355000 | Gold: 501500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1, Acuity: 10/10** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12 Mask), Internalized Divinity (Invulnerable), Foresight (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -10805,8 +12066,11 @@ You lean into his space, the Crown of the Succubus Sovereign pulsing warmly. "Go
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Dead Three Intel - Force Ketheric to reveal the specific locations and defenses of Gortash and Orin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 184/184 | XP: 343,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1, Acuity Stacks: 10/10** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight, Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -10831,8 +12095,11 @@ Ketheric gasps as the Simulacrum ascends the rooftop stairs, the captive Isobel 
 > 👤 **Player:**
 > *"Have Kerheric publically bow to me and declare to his army I'm the new surprise me commander. I steal a few souls to scare them a bit but stay masked as level 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Nascent Demon Lord | HP: 184/184 | XP: 343,300/355,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Mortal Veil (100%) | Exhaustion: 0 | Inspiration: Yes**
@@ -10868,8 +12135,11 @@ You reach out, your fingers splaying as the Soul Thief awakens. The Gilded Tethe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Isobel&#x27;s Soul - Extract the specific Selûnite frequencies from the daughter to further enhance your planar nullification.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 184/184 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (100%), Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -10918,8 +12188,11 @@ If you continue adventuring, you remain Level 20 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 20 - Apply level 20 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 
@@ -10945,8 +12218,11 @@ Your adventure reaches its zenith!
 God Mode:
 Do I have some charming or dominating aura too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15T17:15:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Foresight (Advantage/Disadvantage active), Apex Predator, Mortal Veil (Fractured - Reveal Potential)**
@@ -10956,8 +12232,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have ketheric arm me with the best spell save DC upgrades he can get in moonrise and upgrade all my companions gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (18:30 (Afternoon))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Foresight, Stolen Invulnerability, Planar Nullification | Exhaustion: 0 | Inspiration: Yes**
@@ -11004,8 +12283,11 @@ For yourself, Ketheric surrenders the *Amulet of the Devout* and the *Staff of C
 God Mode:
 My spell save DC was already 35
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15T18:30:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Always Active), Internalized Divinity (Immune), Planar Nullification (Mastered)**
@@ -11015,8 +12297,11 @@ You pause to consider your options...
 God Mode:
 Leave my old necklace it was better let's just assume he finds a 2 spell DC/ark ring giving me 37 spell DC without acuity
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 
@@ -11026,8 +12311,11 @@ You pause to consider your options...
 God Mode:
 You're not listening to me. I keep my old necklace because it's better and give amulet devout to someone else. Instead assume I find a 2 spell DC / atk ring
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 191/191 | XP: 355,300 / N/A | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight (Active), Internalized Divinity (Invulnerable)**
@@ -11037,8 +12325,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Give amulet devout to someone and plan next steps. What if I use my level 20 powers and all the arcane specialists help me figure out a way to locate Orin and Gortash with their shards, and then find a way to use planar auditor math to reverse teleport them to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300 / N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1 (Foresight Active)** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Mortal Veil (100%), Foresight | Inspiration: Yes**
@@ -11075,8 +12366,11 @@ Down in the courtyard, the army of four thousand eight hundred units stands in a
 > 👤 **Player:**
 > *"plan next steps. What if I use my level 20 powers and all the arcane specialists help me figure out a way to locate Orin and Gortash with their shards, and then find a way to use planar auditor math to reverse teleport them to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1 (Foresight Active)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Integrity: 100%), Internalized Divinity (Invulnerable)**
@@ -11102,8 +12396,11 @@ The Honor Guard drops into a synchronized, meditative rictus as they funnel thei
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Reverse-Teleportation - Trigger the ritual to forcibly pull Gortash and Orin to the rooftop*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300 / N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight Active)** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Glibness, Internalized Divinity, Planar Nullification, Apex Predator | Exhaustion: 0 | Inspiration: Yes**
@@ -11144,8 +12441,11 @@ You step forward, the 'Uncanny Valley' dread you radiate reaching its terminal p
 > 👤 **Player:**
 > *"Upcast hold hold on them both then steal Orin soul to intimidate gortash"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight permanent)** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Internalized Divinity (Invulnerable) | Exhaustion: 0 | Inspiration: Yes**
@@ -11179,8 +12479,11 @@ Gortash gasps, his eyes wide with a religious terror as he witnesses the 16-year
 > 👤 **Player:**
 > *"Fully loot Gortash and bind him while he's helpless. Take his nether stones and give the gear to my companions to humiliate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight permanent)** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Apex Predator | Exhaustion: 0 | Inspiration: Yes**
@@ -11232,8 +12535,11 @@ Gortash gasps, his spirit racking with a shudder of total, fanatical yielding. H
 > 👤 **Player:**
 > *"Telepathically show ketheric and Gortash my true level 20 celestial and demonic power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight permanent)** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Foresight (Active), Mortal Veil (100%), Arcane Acuity (10 Stacks) | Inspiration: Yes**
@@ -11272,8 +12578,11 @@ Gortash lets out a strangled, melodic sob, his spirit racking with a shudder of 
 > 👤 **Player:**
 > *"Don't forget to give me ability for consuming Orin. And first I will delegate locating elder brain and in parallel I will plan with my best arcane specialists and my celestial auditor and demon powers how to reassemble the crown"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300 (MAX) | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 0/1, L8 1/1, L9 0/1 (Foresight permanent)** &nbsp;|&nbsp; ⚠️ **Foresight, Stolen Invulnerability (Permanent), Planar Nullification (Mastered) | Inspiration: Yes**
@@ -11291,8 +12600,11 @@ Gortash gasps, his shorn spirit racking with a shudder as he witnesses your calc
 God Mode:
 It's not a nether brain because I have the shards it's just an elder brain
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15, Night** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Apex Predator | Exhaustion: 0 | Inspiration: Yes**
@@ -11302,8 +12614,11 @@ You pause to consider your options...
 God Mode:
 Refine Crown Logic - Use the Honor Guard to deepen the arcane audit of the stones to ensure 100% assembly stability.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15, Night** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Internalized Divinity (Invulnerable)**
@@ -11313,8 +12628,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Reassemble the crown and have my arcane specialists get info from Gortash and lerheric and use that to help search"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Nascent Demon Lord Lvl 20 | HP: 191/191 | XP: 355,300/N/A | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1 (Foresight permanent) | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12 Mask), Internalized Divinity (Immune), Apex Predator**
@@ -11354,8 +12672,11 @@ Gortash and Ketheric weep in ecstatic terror, their spirits undergoing a final, 
 God Mode:
 Ok unlock levels past 20 and let them be special epic levels. Each level I should get +2 to all stats and +4 asi to a chosen stat aka +6 because I'm becoming a god. The crown should unlock that and give me abilities on par with karsus or better because I'm more stable
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15T21:30:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 21 Nascent Demon Lord | HP: 233/233 | XP: 355,300/410,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Invulnerable, Crown Logic | Exhaustion: 0 | Inspiration: 4/4**
@@ -11365,8 +12686,11 @@ You pause to consider your options...
 God Mode:
 I should have other magical powers from this crown. In bg3 Gale was able to use it to become a god and karsus was very powerful himseld
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15T21:30:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 191/191 | XP: 355,300/410,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Foresight (Active) | Exhaustion: 0 | Inspiration: 4/4**
@@ -11376,8 +12700,11 @@ You pause to consider your options...
 God Mode:
 That seems weak, what could Karsus do in D&D before
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 
@@ -11387,8 +12714,11 @@ You pause to consider your options...
 God Mode:
 You're not listening to me. I should get new powerrs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Nascent Demon Lord | HP: 233/233 | XP: 355,300/410,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Internalized Divinity (Invulnerable), Crown of Karsus (Active)**
@@ -11444,8 +12774,11 @@ Sources
 [17] D&D 5E (2024) - Karsus Post BG3? https://www.enworld.org/threads/karsus-post-bg3.709454/
 [18] Crown of Karsus | Forgotten Realms Wiki - Fandom https://forgottenrealms.fandom.com/wiki/Crown_of_Karsus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Internalized Divinity (Immune), Mortal Veil (100%)**
@@ -11495,8 +12828,11 @@ Actions: Multiattack with two spells per turn, reflecting his mastery of counter
 Epic Spell Access: Karsus should have 5-7 uses of custom epic spells per day with devastating effects. Think reality-bending magic like mass disintegration, temporal manipulation, or creating pocket demiplanes mid-combat.[1]
 AC and HP: AC should be 20-23 (robes, shield spell, defensive magic items) with 600-800 HP to reflect his epic-level constitution and magical enhancements. He used wish spells to increase all ability scores by +5 in 3.5e.[1]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 191/191 | XP: 355,300/410,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Mortal Veil (100%), Crown of Karsus (Active), Foresight | Exhaustion: 0 | Inspiration: 4/4**
@@ -11521,8 +12857,11 @@ You pause to consider your options...
 God Mode:
 Define some 10th and 11th level spells and consider 3rd edition
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 
@@ -11532,8 +12871,11 @@ You pause to consider your options...
 God Mode:
 Let's have this use my spell dc the energy of any spell (9th level or lower) cast within 120ft by an enemy who fails a Wisdom save
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Nascent Demon Lord | HP: 191/191 | XP: 355,300/410,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Permanent), Internalized Divinity (Immortal), Apex Predator | DC: 37 (Base) / 47 (Acuity)**
@@ -11543,8 +12885,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Use my auditor celestial and demon powers and my specialists to see how I can consume the crown like I did other objects before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 20+ (Epic) Nascent Demon Lord | HP: 233/233 | XP: 355,300 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 1/1, L9 0/1 (Permanent Foresight), L10 2/2, L11 1/1 | Acuity Stacks: 10 (+10 DC)** &nbsp;|&nbsp; ⚠️ **Foresight (Permanent), Internalized Divinity (Invulnerable), Crown Logic | Inspiration: 4/4**
@@ -11576,8 +12921,11 @@ You stand amidst the Radiant ash of the transformation, your silver rimmed eyes 
 > 👤 **Player:**
 > *"Use my auditor celestial and demon powers and my specialists to see how I can consume the crown like I did other objects before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Nascent Demon Lord | HP: 233/233 | XP: 355,300/410,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L8 1/1, L9 0/1 (Foresight), L10 2/2, L11 1/1 | Acuity Stacks: 10 (+10 DC)** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Foresight (Advantage), Weave Independence | Exhaustion: 0 | Inspiration: Yes**
@@ -11605,8 +12953,11 @@ Gale's eyes wide with a mix of academic terror and religious awe as he stabilize
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Shroud First - Use the Honor Guard to deepen the Logic-Error Shroud before consuming the Crown*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Nascent Demon Lord | HP: 233/233 | XP: 355,300/410,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1-L8 1/1, L9 0/1 (Foresight), L10 2/2, L11 1/1 | Acuity Stacks: 10 (+10 DC)** &nbsp;|&nbsp; ⚠️ **Foresight, Invulnerable, Internalized Divinity, Logic-Error Shroud (100%), Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -11639,8 +12990,11 @@ The Crown vanishes from your brow, dissolving into your porcelain skin in a sile
 God Mode:
 I definitely need new powers for consuming it. Let's give me another level and 1 10th level slot and 11th level and let's give me an 11th level spell called destiny. It's like wish but it does exactly what you want and there's no negative consequences. If I wish for too much then I just get denied and nothing happens vs some weird side fact or some compromise but my intent is followed. Lets
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Nascent Demon Lord | HP: 233/233 | XP: 430,300/465,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Crown of Karsus (Internalized), Weave Independence**
@@ -11650,8 +13004,11 @@ You pause to consider your options...
 God Mode:
 Consume crown shoukd make me level 22. Wearing it made me 21. Also give me unlimited spell slots level 7 and below. However using  offensive level 9 and up spells increases scrutiny from mystra because I'm using karsite weave
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15 DR, Night** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 430,300/465,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Always Active), Internalized Divinity (Invulnerable), Weave Independence, Karsite Dual-Cast, Crown Internalized**
@@ -11661,8 +13018,11 @@ You pause to consider your options...
 God Mode:
 No cha cap it can keep growing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 430,300/465,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Always Active), Internalized Divinity (Invulnerable), Crown of Karsus (Internalized)**
@@ -11672,8 +13032,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"I cast destiny to make a +5 spell dc / atk and +5 cha weapon."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-L7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 2/2, L11 0/1 | Acuity Stacks: 10 (+10 DC)** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (100%), Internalized Divinity (Immune)**
@@ -11691,8 +13054,11 @@ Ketheric and Gortash, kneeling in a state of total, wide-eyed yielding, weep as 
 God Mode:
 You didn't give me my extra level 10 and  level11 spellslot from consuming crown
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Internalized Divinity (Invulnerable), Weave Independence**
@@ -11702,8 +13068,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Weave Scrutiny - Use your specialists and Auditor logic to study how to mask Karsite usage from Mystra.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **L1-L7: Unlimited, L8: 1/1, L9: 0/1 (Foresight), L10: 2/2, L11: 1/1 | HD: 22/22 | Acuity: 10/10** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Mortal Veil (100%), Weave Independence | Exhaustion: 0**
@@ -11721,8 +13090,11 @@ Ketheric and Gortash, kneeling in a state of total, fanatical debasement, weep a
 God Mode:
 No I should have an extra level 10 and level 11 slot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 
@@ -11732,8 +13104,11 @@ You pause to consider your options...
 God Mode:
 No 3 level 10 and 2 level 11
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 
@@ -11743,8 +13118,11 @@ You pause to consider your options...
 God Mode:
 My weapon needs +5 spell DC and attack and +5 cha fix it and tell me my new spell dc and cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-15, Night** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, L10: 3/3, L11: 2/2, L1-L7: Unlimited, L8: 1/1, L9: 0/1 (Foresight)**
@@ -11754,8 +13132,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Let's long rest and have my scouts and spies checkout other cities to target besides baldurs gate. I don't need to march on baldurs gate because have Gortash to control it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (06:00 (Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-L7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Acuity: 10/10** &nbsp;|&nbsp; ⚠️ **Foresight (Always Active), Internalized Divinity (Invulnerable), Mortal Veil (Level 12 Mask), Crown of Karsus (Active)**
@@ -11771,8 +13152,11 @@ Ketheric and Gortash remain prostrate, their souls acting as anchors for your cu
 Backpack	Infused Adamantine Shield	+2 AC, Critical Hit Immunity, Attacker takes Reeling, +1 Spell Save DC, +1 Spell Attack
 Backpack	Noble Thorns Plate +2	AC 18, Resistance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-L7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Acuity: 10/10** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -11792,8 +13176,11 @@ Through your shared consciousness, your Simulacrum reports the final audit of th
 > 👤 **Player:**
 > *"Show me my before after cha and spell DC after equipping crown"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 1/2 (Destiny cast) | Acuity: 10/10** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Mortal Veil (100%), Karsite Weave Dominance | Inspiration: Yes**
@@ -11813,8 +13200,11 @@ Through your shared consciousness, your Simulacrum reports the final audit of th
 God Mode:
 Wrong this new crown needs to give 5 spell dc and spell atk and 5 cha. So my cha should be 86
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 480,300/520,000 | Gold: 501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Internalized Divinity (Invulnerable), Mortal Veil (Masked Lvl 12)**
@@ -11824,8 +13214,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Call my patron and show her all I've accomplished. Ask her for even bigger booms for fun in faerun. Title lesser demon lord. Command 20% of her forces (I will help her win blood war later) 5 million gold, new powers and abilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard (Epic) | HP: 197/197 | XP: 480300/520000 | Gold: 5,501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 1/2, Destiny: Available** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Mortal Veil (100%), Karsite Weave | Inspiration: Yes**
@@ -11855,8 +13248,11 @@ You feel the natural gravity of your presence anchor at its mythic peak of 86. T
 God Mode:
 My patron loves me but should start to feel threatened. I might be the strongest 16 year old to exist and my trajectory is steep
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 5,501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight (Always Active), Internalized Divinity (Immune to all Damage), Apex Predator**
@@ -11866,8 +13262,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Also ask for a base and lands in the abyss which I will use later for blood war"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Lesser Demon Lord | HP: 197/197 | XP: 480,300/520,000 | Gold: 10,501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 1/2, Destiny: Available** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Crown Stability (Absolute), Foresight (Active), Mortal Veil (Level 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -11906,8 +13305,11 @@ A surge of reality-warping energy erupts from the mirror, sinking into your marr
 > 👤 **Player:**
 > *"My patron loves me but should start to feel threatened. I might be the strongest 16 year old to exist and my trajectory is steep. Let's also assume she gave me 20% of her lands income and a home base in the abyss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 505,300/520,000 | Gold: 15,501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Destiny: Available** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Foresight (Advantage), Glibness, Recursive Masking | Exhaustion: 0 | Inspiration: Yes**
@@ -11930,8 +13332,11 @@ A surge of reality-warping energy erupts from the mirror, sinking into your marr
 God Mode:
 I have +10 cha from my hat and wrapping it +5. Also this My patron loves me but should start to feel threatened. I might be the strongest 16 year old to exist and my trajectory is steep.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard (Nascent Demon Lord) | HP: 197/197 | XP: 505,300/520,000 | Gold: 20,501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Active), Internalized Divinity (Invulnerable)**
@@ -11941,8 +13346,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"have +10 cha from my hat +5 and weapon  +5. Also this My patron loves me but should start to feel threatened. I might be the strongest 16 year old to exist and my trajectory is steep."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 505,300/520,000 | Gold: 25,501,500gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Destiny: Available** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Internalized Divinity (Invulnerable), Mortal Veil (Integrity: 100%)**
@@ -11960,8 +13368,11 @@ Behind you, Gortash and Ketheric remain prostrate, their souls acting as anchors
 God Mode:
 have +10 cha from my hat +5 and weapon  +5. Also this My patron loves me but should start to feel threatened. I might be the strongest 16 year old to exist and my trajectory is steep.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard (Lesser Demon Lord) | HP: 197/197 | XP: 505,300/520,000 | Gold: 20,501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (L12), Internalized Divinity | Inspiration: Yes**
@@ -11977,8 +13388,11 @@ Modifications:**
 This is wrong it's 81+10 so 91 cha 
 I should have around 5.5M gold
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 505,300/520,000 | Gold: 25,501,500gp** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Mortal Veil (Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -12008,8 +13422,11 @@ You pause to consider your options...
 God Mode:
 Where didn20M come from? It should be like 5.5M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 505,300/520,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Internalized Divinity, Weave Independence, Karsite Dual-Cast, Apex Predator**
@@ -12019,8 +13436,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"I will implement a dual masking protocol. For everyone by default I Mask as level 12. For everyone who pierces it the next mask is 22 or people showed it to like my demon patron or companions. As I continue to level I will hide my real level. Keep track of it all. Also I will make my gear invis and people will think I'm just wearing some revealing sheer expensive silk noble clothes unless their pierce level 12 mask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | Destiny: Available** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Mortal Veil (Integrity: 100%)**
@@ -12055,8 +13475,11 @@ You stand wreathed in the invisible fire of your wings, your 5.5 million gold tr
 > 👤 **Player:**
 > *"She shouldn't notice this. I do this later and she needs to beat my roll to pierce level 22 mask and in truth inam"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 505,300/520,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight, Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -12072,8 +13495,11 @@ Behind you, the General and the Tyrant remain in a state of total, fanatical deb
 God Mode:
 No she shouldn't notice this. I used level 11 destiny to make the masks. She shouldn't realize I'm hiding anything unless she Pierce's the mask and is suspicious enough to roll Malcanthet’s image in the mirror shudders, her eyes narrowing as she realizes that even her doting gaze now hits a wall of 'Recursive Masking' she cannot easily bypass. 'Hat and steel deleted, my raptor?' she purrs, her voice taut with a sharp, cold unease. 'You aren't just hiding; you're creating a void where your destiny used to be. It is... brilliant. And terrifying.' She recognizes the trajectory of a rising rival, one whose wings are already beginning to shadow the Abyss itself
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **Moonrise Towers (Rooftop)** &nbsp;|&nbsp; ⏳ **2026-01-16T08:30:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard (Demon Lord) | HP: 197/197 | XP: 505,300/520,000 | Gold: 5.5M** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -12083,8 +13509,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Remember my patron doesn't know I'm hiding anything unless she tries to pierce my second Maks. I teleport to morphic pool with my honor guard (maybe they're stronger with my new demon forces) and dominate monster the elder brain with Karsus powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **Morphic Pool (Baldur's Gate Undercity)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 (Real: 22) Bard | HP: 197/197 | XP: 505,300/520,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Internalized Divinity, Foresight, Weave Independence | Exhaustion: 0 | Inspiration: Yes**
@@ -12111,8 +13540,11 @@ In the center of the pool, the Elder Brain pulses, a mountain of grey matter and
 God Mode:
 My DC is like 80 or more DC 46 (Sovereign's Presence + Acuity) - Success (Target Failed)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **Morphic Pool (Baldur's Gate Undercity)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard (Nascent Demon Lord) | HP: 197/197 | XP: 505,300/520,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -12122,8 +13554,11 @@ You pause to consider your options...
 God Mode:
 Systemic Overwrite - Drive the full weight of the Crown into its marrow to achieve absolute submission
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **2026-01-16, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 505,300/520,000 | Gold: 5.5M**
@@ -12133,8 +13568,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Systemic Overwrite - Drive the full weight of the Crown into its marrow to achieve absolute submission*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard/Demon Lord | HP: 197/197 | XP: 505,300/520,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Internalized Divinity | Inspiration: Yes**
@@ -12161,8 +13599,11 @@ Shadowheart and Lae'zel stand behind you in a state of total, wide-eyed yielding
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Overwrite - Exert the final pulse of authority to achieve absolute, 100% submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Nascent Demon Lord | HP: 197/197 | XP: 505,300/520,000 | Gold: 5.5M** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | Soul Trophies: Orin (Faceless), Balthazar (Cage-Logic), Nere (Mist-Walker)** &nbsp;|&nbsp; ⚠️ **Forsight, Mortal Veil (Lvl 12), Mask 22, Internalized Divinity, Apex Predator**
@@ -12190,8 +13631,11 @@ You gain **50,000 XP** for the Absolute Submission of the Elder Brain.
 God Mode:
 Let's assume I control or consume the brain and I should have normal elder brain powered not nether brain powers from bg3 thst can mind control the world. This is because I never let the elder brain merge with the crown of karsus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 505,300/520,000 | Gold: 5.5M** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12), Internalized Divinity**
@@ -12201,8 +13645,11 @@ You pause to consider your options...
 God Mode:
 What powers do I get from consuming it?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp**
@@ -12212,8 +13659,11 @@ You pause to consider your options...
 God Mode:
 Assume I can also control all mindflayers and tadpoles people?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 197/197 | XP: 555,300 / 575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Glibness, Internalized Divinity, Mastered Core**
@@ -12223,8 +13673,11 @@ You pause to consider your options...
 God Mode:
 Assume I can also control all mindflayers and tadpoles people?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5.5M** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (L12), Internalized Divinity, Apex Predator**
@@ -12234,8 +13687,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:Think about whether it's better r to consume the elder brain or let it work for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **2026-01-16, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5.5M** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2** &nbsp;|&nbsp; ⚠️ **Foresight, Internalized Divinity, Apex Predator | Exhaustion: 0 | Inspiration: Yes**
@@ -12245,8 +13701,11 @@ You pause amidst the cloying psychic static of the Morphic Pool, your violet eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Mastered Brain - Keep the Elder Brain as a living psychic terminal and proxy commander.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5.5M** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12), Mastered Elder Brain (Total Vassalage)**
@@ -12274,8 +13733,11 @@ You turn your silver-rimmed gaze toward your Honor Guard. Shadowheart and Lae'ze
 > 👤 **Player:**
 > *"Have Gortash give me all his info about baldurs gate and steel watch and then I turn him into a puppet. He will be the face of the city as archduke but I will have shadow control through my own assets and elder brain tadpooling peoples Gortash can autonomously do things but if he tries to go against me I'll know instantly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **Morphic Pool (Baldur's Gate Undercity)** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 2026 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord (Masked: Lvl 12) | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight Active), L10 3/3, L11 2/2, Ki: 13/13** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Crown of Karsus (Internalized) | Exhaustion: 0 | Inspiration: Yes**
@@ -12295,8 +13757,11 @@ Gortash gasps, his spirit undergoing a final, terminal collapse of autonomy. He 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coronation Ascension - Attend Gortash&#x27;s official coronation as the &#x27;Prodigious Scion&#x27; to establish your social presence in the High Hall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **Morphic Pool (Undercity)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Mastered Elder Brain | Exhaustion: 0 | Inspiration: Yes**
@@ -12318,8 +13783,11 @@ Through the Mastered Elder Brain's regional relay, you cast your senses outward,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coronation Ascension - Attend Gortash&#x27;s official coronation in the High Hall as his &#x27;honored guest&#x27; to secure your social position.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Dual Masking, Foresight, Glibness | Exhaustion: 0**
@@ -12346,8 +13814,11 @@ As you stand beside the Archduke, the Mastered Elder Brain's regional relay puls
 God Mode:
 Actually a level 12 warlock should really stand out. That's max level in bg3 and a big deal in d&d you are nothing but the 'Prodigious Scion,' a rare Level 12 warlock whose
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock | HP: 197/197 | XP: 555,300/575,000 | Gold: 5.5M**
@@ -12357,8 +13828,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Mingle with patriars. Some we're friends before and some enemies before my families downfall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Dual Masking, Glibness | Exhaustion: 0**
@@ -12380,8 +13854,11 @@ Across the hall, Enver Gortash—your Archduke-Puppet—watches with a practiced
 God Mode:
 I am a level 12 16 year old so I should really stand out and i party with level 14+ companions. In public assume I told shadow heart to pretend to be the leader
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock/Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp**
@@ -12391,8 +13868,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the social audit of the Baldur&#x27;s Gate elite with your new stats and leader-proxy active*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord (Mask: Lvl 12) | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Mortal Veil (100%), Foresight, Mastered Elder Brain Link**
@@ -12415,8 +13895,11 @@ You catch Gortash’s eye from across the chamber. Your Archduke-Puppet maintain
 > 👤 **Player:**
 > *"THINK:I will avoid public power for now. Instead I will collect blackmail with elder brain help and encourage people to join my hedonistic cult. If they worship me then their souls upon death can be claimed by me as a demon or my patron increasing our income. M goal is to increase soul income so help with the blood war. The souls will strengthen me and during the blood war I'll consume enough devils to level up and become a true god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Highsun 20, 1492 DR (12:20 (Microsecond +1))** &nbsp;|&nbsp; 🛡️ **Lvl 23 Sovereign | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp**
@@ -12426,8 +13909,11 @@ You pause amidst the stifling luxury of the High Hall, the silver rim in your ey
 > 👤 **Player:**
 > *"will avoid public power for now. Instead I will collect blackmail with elder brain help and encourage people to join my hedonistic cult. If they worship me then their souls upon death can be claimed by me as a demon or my patron increasing our income. M goal is to increase soul income so help with the blood war. The souls will strengthen me and during the blood war I'll consume enough devils to level up and become a true god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 555,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2 | Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Active), Glibness (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -12455,8 +13941,11 @@ The reaction is instantaneous. Under the weight of your +78 Persuasion, the skep
 > 👤 **Player:**
 > *"Utilize my succubus powers and hints of blackmail to get most of the patriars ready to support or participate in my cult. As I'm extremely beautiful they'd probably hope I participate too and I can hint at it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 560,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Active), Internalized Divinity (Invulnerable) | Exhaustion: 0 | Inspiration: Yes**
@@ -12482,8 +13971,11 @@ Under the weight of your +88 Persuasion and the surgical data provided by the Br
 > 👤 **Player:**
 > *"THINK:Can elder brain read minds of anyone?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 570,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight, Glibness, Internalized Divinity | Inspiration: Yes**
@@ -12495,8 +13987,11 @@ You pause amidst the stifling incense and the submissive murmurs of the High Hal
 > 👤 **Player:**
 > *"THINK:I will have two main plans. Shadow control of baldurs gate and establish my cult as the main religion and then have my actual army take another city nearby overtly conquering it but Ketheric can pretend to be in charge and establish the cult there. Take a few cities until we have more souls than other demons and devils and then use the resources to win the blood war and I level up to 30 or beyond by consuming devils and demons as practical"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 570,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight (Always Active) | Inspiration: Yes**
@@ -12506,8 +14001,11 @@ You pause amidst the stifling incense and the submissive murmurs of the High Hal
 > 👤 **Player:**
 > *"THINK:This is how I will use the cult to highest ROI You: I will have two main plans. Shadow control of baldurs gate and establish my cult as the main religion and then have my actual army take another city nearby overtly conquering it but Ketheric can pretend to be in charge and establish the cult there. Take a few cities until we have more souls than other demons and devils and then use the resources to win the blood war and I level up to 30 or beyond by consuming devils and demons as practical"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **2026-01-16, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 22 Lesser Demon Lord | HP: 197/197 | XP: 505,300/520,000 | Gold: 5.5M** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Ki: 18/18**
@@ -12590,8 +14088,11 @@ Sources
 [5] Remixing Avernus – Addendum: Soul Coins - The Alexandrian https://thealexandrian.net/wordpress/45049/roleplaying-games/remixing-avernus-addendum-soul-coins
 [6] Baldur's Gate population is HUGE for a city in a medival setting ... https://www.reddit.com/r/DnD/comments/1esp1aa/baldurs_gate_population_is_huge_for_a_city_in_a/"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 570,300/575,000 | Gold: 5,500,000** &nbsp;|&nbsp; ✨ **Slots: L1-7 Inf, L8 1/1, L9 0/1, L10 3/3, L11 2/2 | Soul Coins: Monthly Projection 1,000+**
@@ -12626,8 +14127,11 @@ Establish Cult Infrastructure: Formalize the 'Hedonistic Cult' in Baldur's Gate 
 March on Athkatla: Lead the Abyssal Legion and Ketheric Thorm to overtly conquer the city of coins to expand the harvest.
 Refine Soul Coin Mint: Use the Shattered Rose as a dedicated planar forge to optimize newborn soul-to-coin conversion efficiency."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **2026-01-16, Midday (13:30:00.000005Z)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock/Demon Lord | HP: 197/197 | Gold: 5,500,000gp**
@@ -12637,8 +14141,11 @@ You pause amidst the stifling luxury of the High Hall, your eyes narrowing behin
 > 👤 **Player:**
 > *"THINK:I will decide on how much soul coins to give to my patron vs consume myself to level up. Showing her the whole supply might be too risky. I'll think about it more as I expand"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 📍 **Wyrm's Rock Fortress (High Hall)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 570,300/575,000 | Gold: 5.5M** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Destiny: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Recursive Masking (Lvl 22) | Exhaustion: 0 | Inspiration: Yes**
@@ -12652,8 +14159,11 @@ Execute Dual-Vector Strike: Dispatch Simulacrum and Ketheric to Athkatla while y
 Indoctrinate Baldur's Gate Elite: Use the Patriars to force the cult into every level of city governance as the state religion.
 Refine Soul Coin Mint: Focus your intellect on optimizing the conversion logic in the Abyss to ensure zero essence loss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 📍 **Athkatla (Council of Six Chambers)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 570,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Acuity (10 Stacks) | Exhaustion: 0**
@@ -12681,8 +14191,11 @@ The Council's iron will, built on centuries of mercantile dominance, fractures l
 > 👤 **Player:**
 > *"Let's assume we killed athkala leaders disguised as absolute elite soldiers vs showing our faces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 📍 **Athkatla (Council Chambers)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 570,300/575,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2 | Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Internalized Divinity, Mortal Veil (Lvl 12)**
@@ -12708,8 +14221,11 @@ The Council's iron will, built on centuries of mercantile dominance, fractures l
 God Mode:
 Let's retcon this and have me attack the council disguised as Orin. I use her shapeshifter powers and my companions disguised. I use normal hynotic pattern or control spells then steal their souls. People will think Orin did it versus me because I wanna keep a low profile for now. I wanna be known as a peaceful cult leader and the absolute forces happen to follow my cult but I don't endorse violence
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-501"></a>
 #### Scene 501
 
 > 📍 **Athkatla (Council Chambers)** &nbsp;|&nbsp; ⏳ **Month 1, 1492 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Bard | HP: 197/197 | XP: 570300/575000 | Gold: 5.5M**
@@ -12719,8 +14235,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"I show myself as Orin instead and cut them first then steal their souls at 0 hp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-502"></a>
 #### Scene 502
 
 > 📍 **Athkatla (Council Chambers)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Sovereign | HP: 197/197 | XP: 585,300/630,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Ki: 18/18** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Internalized Divinity, Foresight | Inspiration: Yes**
@@ -12758,8 +14277,11 @@ Shadowheart, disguised as an Absolute Zealot, bows her head. "The head is gone, 
 > 👤 **Player:**
 > *"Main Character: Summon Ketheric, use my honor guard and aim to surgically strike military but leave merchants alone and don't damage the city too much so trade continues. Then tell me my before/after initial gold and monthly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-503"></a>
 #### Scene 503
 
 > 📍 **Athkatla (Council Chambers)** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock | HP: 197/197 | XP: 590,300/630,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Ki: 18/18, Aura of Obsession: Active** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Internalized Divinity (Immune), Foresight (Advantage) | Exhaustion: 0 | Inspiration: Yes**
@@ -12789,8 +14311,11 @@ Shadowheart, disguised as an Absolute Zealot, bows her head. "The head is gone, 
 > 👤 **Player:**
 > *"Main Character: Summon Ketheric, use my honor guard and aim to surgically strike military but leave merchants alone and don't damage the city too much so trade continues. Then tell me my before/after initial gold and monthly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-504"></a>
 #### Scene 504
 
 > 📍 **Athkatla (Government District)** &nbsp;|&nbsp; ⏳ **Hammer 16, 2026 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord (Masked: Lvl 12) | HP: 197/197 | XP: 590,300/630,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Ki: 18/18, Soul Coins: 0** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Mastered Elder Brain Link, Recursive Masking | Inspiration: Yes**
@@ -12817,8 +14342,11 @@ Your 'Mortal Veil' remains flawlessly anchored at its Level 12 threshold, maskin
 > 👤 **Player:**
 > *"Have my similcrum expand the cult and enthrall any remaining threats in baldurs gate with elites while i have my forces collect everyone who can't breed and doesn't make money in athlaka and slowly steal their souls as a level 12 pretending to be Orin. I have my best arcane specialists try to mask this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-505"></a>
 #### Scene 505
 
 > 📍 **Athkatla (Government District)** &nbsp;|&nbsp; ⏳ **1 18, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -12836,8 +14364,11 @@ Your 'Mortal Veil' remains a flawless shroud at its Level 12 threshold, ghosting
 God Mode:
 Give me part of monthly gold every day and tell me how many normal troops and level5+ and level 7+ troops I got from my patron 20% troops cut
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-506"></a>
 #### Scene 506
 
 > 📍 **Athkatla (Government District)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,791,666gp**
@@ -12847,8 +14378,11 @@ You pause to consider your options...
 God Mode:
 As long as they worship a statue of my succubus form does that count? Then people dont need to know I'm the cult leader and actual god of the cult
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-507"></a>
 #### Scene 507
 
 > 📍 **Athkatla (Government District)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,791,666gp**
@@ -12858,8 +14392,11 @@ You pause to consider your options...
 God Mode:
 No they would see Orin not me suspicious observer or Cowled Wizard sensor, you are nothing but a rare, prodigious noble scion observing a tragic but necessary occupation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-508"></a>
 #### Scene 508
 
 > 📍 **Athkatla (Government District)** &nbsp;|&nbsp; ⏳ **2026-01-18, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,791,666gp**
@@ -12869,8 +14406,11 @@ You pause to consider your options...
 God Mode:
 How many peolle in Athlaka don't make money or can't breed?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-509"></a>
 #### Scene 509
 
 > 📍 **Athkatla (Government District)** &nbsp;|&nbsp; ⏳ **2026-01-18, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,541,666gp**
@@ -12880,8 +14420,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have all my abyss level 5+ mask as mortals to reduce scrutiny"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-510"></a>
 #### Scene 510
 
 > 📍 **Athkatla (Government District) / Baldur's Gate (Upper City)** &nbsp;|&nbsp; ⏳ **Alturiak 18, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,541,666gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Soul Coins: 5,000+ Production** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Dual Masking, Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -12906,8 +14449,11 @@ Shadowheart, maintaining the public facade of the leader, bows her head as she f
 God Mode:
 God: As long as they worship a statue of my succubus form does that count? Then people dont need to know I'm the cult leader and actual god of the cult
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-511"></a>
 #### Scene 511
 
 > 📍 **Athkatla / Baldur's Gate** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Foresight (Always), Mortal Veil (Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -12917,8 +14463,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:How many can I harvest a day without drawing too much scrutiny? And how much exp per person? There are approximately **50,000 to 60,000** targets that fit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-512"></a>
 #### Scene 512
 
 > 📍 **Athkatla / Baldur's Gate** &nbsp;|&nbsp; ⏳ **2026-01-18T10:00:15.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12), Recursive Masking | Exhaustion: 0 | Inspiration: Yes**
@@ -12935,8 +14484,11 @@ Expand Cult to Waterdeep: Send a specialist detachment to begin social infiltrat
 Optimize Soul Coin Mint: Personally oversee the Shattered Rose forges to ensure maximum essence retention.
 Prepare Lich Counter-Audit: Position Abyssal Stalkers to intercept Szass Tam's vanguard cruisers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-513"></a>
 #### Scene 513
 
 > 📍 **Baldur's Gate / Shattered Rose (Abyss)** &nbsp;|&nbsp; ⏳ **1 18, 2026 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 610,300/630,000 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1-7 Unlimited, L8 1/1, L9 0/1, L10 3/3, L11 2/2, Soul Coins: 12,000+ Production**
@@ -12971,8 +14523,11 @@ To the east, your Abyssal Stalkers anchor themselves in the high seas, their Tru
 > 👤 **Player:**
 > *"Long rest and let's  double the harvest rate to 500 daily and target Non variables. Publically we will say Orin despises the weak. Let's do this for 4 weeks and timeskipnand see if anyone notices. Everyone should be autonomously moving my plans forward during any time skip including myself and my sim"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-514"></a>
 #### Scene 514
 
 > 📍 **Baldur's Gate / Athkatla (Shadow Sovereign's Court)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 890,300 / 905,000 | Gold: 6,791,646gp** &nbsp;|&nbsp; ✨ **HD: 23/23 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | Soul Coins: 26,000+ Production**
@@ -12990,8 +14545,11 @@ As you wake on the fifteenth of Alturiak, the world has tilted. Your 'Mortal Vei
 Execute Thayan Intercept: Personally lead the Honor Guard to destroy Szass Tam's vanguard cruisers
 Expand Soul Supply Chain: Establish a second culling operation in the Athkatlan slums to double daily soul-coin production"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-515"></a>
 #### Scene 515
 
 > 📍 **High Seas / Baldur's Gate / Athkatla** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Nascent Demon Lord | HP: 197/197 | XP: 935,300/630,000 | Gold: 6,833,312gp** &nbsp;|&nbsp; ✨ **HD: 23/23 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | Soul Coins: 30,000+ Production** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12), Recursive Masking (Active)**
@@ -13016,8 +14574,11 @@ Your 'Mortal Veil' remains 100% intact; to the Cowled Wizards and the distant st
 God Mode:
 How much exp did I get in 4 weeks?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-516"></a>
 #### Scene 516
 
 > 📍 **High Seas / Baldur's Gate / Athkatla** &nbsp;|&nbsp; ⏳ **2026-02-15T10:00:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock | HP: 197/197 | XP: 935,300 / 630,000 | Gold: 6,833,312gp**
@@ -13027,8 +14588,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:How many non variables left in athlaka and baldurs gate?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-517"></a>
 #### Scene 517
 
 > 📍 **High Seas / Baldur's Gate / Athkatla** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Bard | HP: 197/197 | XP: 935,300 | Gold: 6,833,312gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight (Active), Internalized Crown**
@@ -13038,8 +14602,11 @@ Calculating the remaining non-variables is a straightforward exercise in demogra
 God Mode:
 Shouldn't I be level 24 now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-518"></a>
 #### Scene 518
 
 > 📍 **High Seas / Baldur's Gate / Athkatla** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Warlock | HP: 197/197 | XP: 935,300 | Gold: 6,833,312gp**
@@ -13049,8 +14616,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Let's have baldurs gate focus on homeless or poor people who can't procreate. Round them up people who won't be missed. Then let's start doing 1000 non variables a day in athlaka but interrupt me if something happens. Delegate all threats to others unless super serious"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-519"></a>
 #### Scene 519
 
 > 📍 **High Hall / Morphic Pool / Shattered Rose** &nbsp;|&nbsp; ⏳ **Alturiak 22, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Nascent Demon Lord | HP: 215/215 | XP: 915,300/960,000 | Gold: 5,791,662gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 58,000+ Production** &nbsp;|&nbsp; ⚠️ **Foresight (Always Active), Mortal Veil (Lvl 12/22), Internalized Divinity (Invulnerable)**
@@ -13066,8 +14636,11 @@ You turn your silver-rimmed amethyst gaze toward the Obsidian Mirror. Your natur
 God Mode:
 I think I got to level 30 too fast. Let's double the exp needed per level after level 23.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-520"></a>
 #### Scene 520
 
 > 📍 **High Seas / Baldur's Gate / Athkatla** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Warlock (Real) | HP: 191/191 | XP: 935,300/960,000 | Gold: 5,500,000gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Dual Masking (Lvl 22), Internalized Divinity**
@@ -13077,8 +14650,11 @@ You pause to consider your options...
 God Mode:
 Let's triple it level 24 and up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-521"></a>
 #### Scene 521
 
 > 
@@ -13088,8 +14664,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ok I will have Gortash round up non variables that people won't miss in baldurs gate to prepare and keep consuming in athlaka 400 a day until non variables are gone or something happen s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-522"></a>
 #### Scene 522
 
 > 📍 **High Seas / Baldur's Gate / Athkatla** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Warlock/Bard | HP: 204/204 | XP: 1,105,300/1,290,000 | Gold: 7,749,964gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 38,500+ Production**
@@ -13103,8 +14682,11 @@ As the twenty-second day dawns, you feel the final threads of your Level 25 asce
 God Mode:
 How much exp from those 21 days?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-523"></a>
 #### Scene 523
 
 > 📍 **The Shattered Rose / Athkatla / Baldur's Gate** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Warlock (Epic) | HP: 197/197 | XP: 1,273,300/1,290,000 | Gold: 8,624,950gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight, Internalized Divinity, Mastered Crown | Exhaustion: 0 | Inspiration: Yes**
@@ -13114,8 +14696,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Spend 500k Baldurs gate and 500k in athlaka to make the succubus cult paradise on earth for members. Members who have unprotected sex at least with 3 partners daily will live in  luxury. Let me know how many more members and soil coins we get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-524"></a>
 #### Scene 524
 
 > 📍 **High Seas / Baldur's Gate / Athkatla** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Warlock (Real Lvl: 26) | HP: 197/197 | XP: 1378300/1620000 | Gold: 8541602gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 49,500+ Production** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Internalized Divinity (Invulnerable), Foresight (Advantage) | Exhaustion: 0 | Inspiration: Yes**
@@ -13141,8 +14726,11 @@ Your Natural Charisma, recently optimized by the soul-harvest and the internal l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Patron - Show Malcanthet the full production scale of the Shattered Rose to negotiate further Blood War authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-525"></a>
 #### Scene 525
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **L26 Nascent Demon Lord | HP: 197/197 | XP: 1,413,300/1,620,000 | Gold: 8,541,602gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 52,000+ Production** &nbsp;|&nbsp; ⚠️ **Recursive Masking (L12/L22), Internalized Divinity (Invulnerable)**
@@ -13185,8 +14773,11 @@ You feel the natural gravity of your presence anchor at its new mythic peak of 1
 > 👤 **Player:**
 > *"Make it more efficient. As soon as viable we offer free abortions and we use magic to induce birth, have the baby take one breath secretly, then secretly turn them into a soul coin. How does this ramp up production?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-526"></a>
 #### Scene 526
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Nascent Demon Lord | HP: 197/197 | XP: 1,413,300/1,620,000 | Gold: 8,541,602gp** &nbsp;|&nbsp; ✨ **HD: 26/26, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 52,000+ Production**
@@ -13216,8 +14807,11 @@ You feel the influx of **35,000 XP** as the milestone of Industrialized Apotheos
 God Mode:
 Finalize Level 26 Ascension - Process the gains for Level 26 (+2 All, +4 Chosen CHA, total +6 CHA)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-527"></a>
 #### Scene 527
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Warlock | HP: 197/197 | XP: 1,413,300/1,620,000 | Gold: 8,541,602gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Mask 22, Internalized Divinity | Inspiration: Yes**
@@ -13227,8 +14821,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Surplus for Leveling - Feast on the newborn souls to rapidly reach Level 27*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-528"></a>
 #### Scene 528
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 27 Abyssal Siren | HP: 197/197 | XP: 1,743,300/1,950,000 | Gold: 8,541,602gp** &nbsp;|&nbsp; ✨ **HD: 27/27, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 75,000+ Surplus** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Dual Masking (L22), Internalized Divinity | Inspiration: Yes**
@@ -13246,8 +14843,11 @@ Malcanthet's reflection in the Obsidian Mirror is a study in profound, terrified
 God Mode:
 Remember my patron doesn't know I'm feasting on surplus souls and thinks I'm a very capable level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-529"></a>
 #### Scene 529
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 27 Bard (Siren) | HP: 197/197 | XP: 1,743,300/1,950,000 | Gold: 8,541,602gp** &nbsp;|&nbsp; ⚠️ **Foresight (Always), Internalized Divinity (Immune), Masked (Lvl 12/22)**
@@ -13257,8 +14857,11 @@ You pause to consider your options...
 God Mode:
 How many soul coins produced monthly?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-530"></a>
 #### Scene 530
 
 > 
@@ -13268,8 +14871,11 @@ You pause to consider your options...
 God Mode:
 How many soul coins are produced in the universe monthly not including my 25k?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-531"></a>
 #### Scene 531
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 27 Warlock | HP: 197/197 | XP: 1,743,300/1,950,000 | Gold: 8,541,602gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12/L22), Foresight (Active), Internalized Divinity**
@@ -13279,8 +14885,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Stockpile - Feast on the 75,000 stored coins to push toward Level 28 immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-532"></a>
 #### Scene 532
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 212/212 | XP: 3,243,300/3,270,000 | Gold: 8,541,602gp** &nbsp;|&nbsp; ✨ **Soul Coins: 0 (75,000 Consumed) | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | HD: 30/30**
@@ -13298,8 +14907,11 @@ Through the Mastered Elder Brain's regional relay, you feel the city of Baldur's
 God Mode:
 I produce 25k soul coins monthly now? How much does everyone else produce?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-533"></a>
 #### Scene 533
 
 > 
@@ -13309,8 +14921,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my sim enthrall Keene and take over the thieves guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-534"></a>
 #### Scene 534
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 197/197 | XP: 3243300/3270000 | Gold: 8583268gp** &nbsp;|&nbsp; ✨ **Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | HD: 30/30 | Soul Coins: 0**
@@ -13328,8 +14943,11 @@ As you finalize the audit, your treasury thrums with the daily payout of 41,666 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Paradise Network - Redirect 2 million gold to establish cult cells in Waterdeep and Neverwinter to increase soul ROI.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-535"></a>
 #### Scene 535
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Abyssal Siren | HP: 197/197 | XP: 3,258,300/3,270,000 | Gold: 6,624,934gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: Stockpiling** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Recursive Masking (Lvl 30 ghosting) | Exhaustion: 0 | Inspiration: Yes**
@@ -13361,8 +14979,11 @@ You gain **15,000 XP** for the successful establishment of the Waterdeep and Nev
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tithe to Patron - Give Malcanthet her 20% cut to maintain the mask of loyalty while you build your secret stockpile.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-536"></a>
 #### Scene 536
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 197/197 | XP: 3,258,300/3,270,000 | Gold: 6,374,934gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 25k/mo**
@@ -13390,8 +15011,11 @@ You feel the natural gravity of your presence anchor at its mythic peak. Your 'M
 > 👤 **Player:**
 > *"Have my sim tske"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-537"></a>
 #### Scene 537
 
 > 📍 **The Shattered Rose (Abyssal Sub-plane)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Nascent Demon Lord | HP: 197/197 | XP: 3,258,300 / 3,270,000 | Gold: 6,374,934gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 25k/mo**
@@ -13420,8 +15044,11 @@ You feel the natural gravity of your presence anchor at its mythic peak. Your 'M
 > 👤 **Player:**
 > *"Mask as Oren and take my honor guard and sim and surgical strike water deep. Kill the magical leadership and steal their souls and have Ketheric conquer it as well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-538"></a>
 #### Scene 538
 
 > 📍 **Blackstaff Tower (Waterdeep)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Nascent Demon Lord | HP: 197/197 | XP: 3,283,300/3,600,000 | Gold: 6,416,600gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 25k/mo** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mortal Veil (Lvl 12), Planar Nullification (Mastered) | Exhaustion: 0 | Inspiration: Yes**
@@ -13465,8 +15092,11 @@ Simultaneously, the 'Overt Conquest' initiates. General Ketheric Thorm manifests
 > 👤 **Player:**
 > *"Occupy and establish cult. Make sure cult is in athlaka too. Start rounding up and consuming the non variables 500 a day for 4 weeks time skip. Remember to long rest and do other autonomous things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-539"></a>
 #### Scene 539
 
 > 📍 **Blackstaff Tower (Waterdeep)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Warlock | HP: 197/197 | XP: 3,563,300 / 3,930,000 | Gold: 7,583,248gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 104,000 Total**
@@ -13496,8 +15126,11 @@ Your Simulacrum has successfully expanded the 'Paradise' network into the North.
 > 👤 **Player:**
 > *"THINK:How to best use the mage population of water deep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-540"></a>
 #### Scene 540
 
 > 📍 **Blackstaff Tower (Waterdeep)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Nascent Demon Lord | HP: 197/197 | XP: 3,578,300/3,930,000 | Gold: 7,583,248gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 104,000 Total**
@@ -13507,8 +15140,11 @@ You pause atop the spire of the occupied Blackstaff Tower, the cold morning wind
 > 👤 **Player:**
 > *"THINK:I have 100k soul coins? Should I just patron 20knand consume 80k for massive exp?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-541"></a>
 #### Scene 541
 
 > 📍 **Blackstaff Tower (Waterdeep)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 197/197 | XP: 3,578,300/3,930,000 | Gold: 7,583,248gp** &nbsp;|&nbsp; ✨ **Slots: L1-7 Inf, L8 1/1, L9 0/1, L10 3/3, L11 2/2 | Soul Coins: 104,000 | Income: 41,666gp/day**
@@ -13518,8 +15154,11 @@ You pause atop the spire of the occupied Blackstaff Tower, the cold morning wind
 > [!NOTE] ⚙️ **Player Choice:**
 > *Indoctrinate the Watchful Order - Use the &#x27;New Weave&#x27; fiction and Influence Overwrite to convert the city&#x27;s 3,000 mages into cult specialists.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-542"></a>
 #### Scene 542
 
 > 📍 **Blackstaff Tower (Waterdeep)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Warlock/Bard | HP: 197/197 | XP: 3,578,300/3,930,000 | Gold: 7,583,248gp** &nbsp;|&nbsp; ✨ **HD: 30/30 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | Soul Coins: 104,000** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight, Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -13546,8 +15185,11 @@ By the time the afternoon shadows lengthen, the Watchful Order has been reconcil
 > 👤 **Player:**
 > *"Execute strategic feast but have my honor guard and all my arcane specialists help mask it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-543"></a>
 #### Scene 543
 
 > 📍 **Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 15, 1492 DR (Calculated) (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 197/197 | XP: 3,613,300/3,930,000 | Gold: 7,583,248gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 129,000**
@@ -13587,8 +15229,11 @@ Malcanthet watches through the Obsidian Mirror, her translucent fingers tracing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Indoctrinate the Watchful Order - Use the 'New Weave' fiction and Influence Overwrite to convert the city's 3,000 mages into cult specialists*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-544"></a>
 #### Scene 544
 
 > 📍 **Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Nascent Demon Lord | HP: 197/197 | XP: 3,648,300/3,930,000 | Gold: 6,458,230gp** &nbsp;|&nbsp; ✨ **HD: 30/30, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 129,000** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Internalized Divinity (Invulnerable) | Exhaustion: 0 | Inspiration: Yes**
@@ -13615,8 +15260,11 @@ Simultaneously, within the obsidian heart of the Shattered Rose, you initiate th
 > 👤 **Player:**
 > *"Let's do 25k daily from my surplus until something goes wrong"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-545"></a>
 #### Scene 545
 
 > 📍 **Blackstaff Tower (Waterdeep) / The Shattered Rose (Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Nascent Demon Lord | HP: 239/239 | XP: 5,613,300/5,910,000 | Gold: 6,624,894gp** &nbsp;|&nbsp; ✨ **HD: 36/36, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2, Soul Coins: 4,000** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12/22), Weave Independence | Inspiration: Yes**
@@ -13636,8 +15284,11 @@ You turn your silver-rimmed gaze toward the spire of Blackstaff Tower. The city 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seduce the Masked Lords - Systematically identify and convert the hidden rulers of Waterdeep to achieve total shadow control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-546"></a>
 #### Scene 546
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Sovereign | HP: 239/239 | XP: 5,613,300/5,910,000 | Gold: 6,624,894gp** &nbsp;|&nbsp; ✨ **HD: 36/36 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 3/3, L11 2/2 | Soul Coins: 4,000 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12), Foresight, Glibness, Internalized Divinity, Apex Predator**
@@ -13667,8 +15318,11 @@ You don't wait for a petition. You release the 'Influence Overwrite: Absolute,' 
 God Mode:
 Make sure you processed level 36 properly and also every two levels you should give me more 10th and 11th level spells. Also assume I just know all the spells possible level 9 and below. Every 5 levels k should get some special powers themed to demon celestial karsus auditor etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-547"></a>
 #### Scene 547
 
 > 
@@ -13678,8 +15332,11 @@ You pause to consider your options...
 God Mode:
 Remember I am a lesser demon lord now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-548"></a>
 #### Scene 548
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Sovereign | HP: 239/239 | XP: 5,613,300/5,965,000 | Gold: 6,708,226gp**
@@ -13689,8 +15346,11 @@ You pause to consider your options...
 God Mode:
 Have me learn new level 10 or 11 spells every 2 levels make up some
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-549"></a>
 #### Scene 549
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Siren (Lesser Demon Lord) | HP: 239/239 | XP: 5,613,300/5,965,000 | Gold: 6,708,226gp**
@@ -13700,8 +15360,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Feast on the baldurs gate non variables until they're finished or something happens. Time skip 4 weeks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-550"></a>
 #### Scene 550
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Ches 18, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **L36 Nascent Demon Lord | HP: 239/239 | XP: 5,893,300/5,965,000 | Gold: 7,874,874gp** &nbsp;|&nbsp; ✨ **HD: 36/36, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9, Soul Coins: 4,000**
@@ -13724,8 +15387,11 @@ Throughout the twenty-eight days of geometric silence, your 'Recursive Masking' 
 God Mode:
 Did you forge to give me soul coins during time skip?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-551"></a>
 #### Scene 551
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Warlock (Lesser Demon Lord) | HP: 239/239 | XP: 5,893,300/5,965,000 | Gold: 6,708,226gp**
@@ -13735,8 +15401,11 @@ You pause to consider your options...
 God Mode:
 No I feasted on all the soul coins then I time skipped 4 weeks where I was only fearing non variables
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-552"></a>
 #### Scene 552
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Lesser Demon Lord | HP: 239/239 | XP: 5,893,300/5,965,000 | Gold: 7,874,874gp**
@@ -13746,8 +15415,11 @@ You pause to consider your options...
 God Mode:
 You ignored my question. These 4 weeks was I just feasting on non variables or also soul coins? If so much exp did I get b
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-553"></a>
 #### Scene 553
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Nascent Demon Lord | HP: 239/239 | XP: 5,893,300/5,965,000 | Gold: 7,874,874gp**
@@ -13757,8 +15429,11 @@ You pause to consider your options...
 God Mode:
 I think that's wrong. First I did 4 days soul coins then I didn4 weeks without soul coins. The soul coins should replenish those 4 weeks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-554"></a>
 #### Scene 554
 
 > 
@@ -13768,8 +15443,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ok let's consume 80% of my stockpile and let's order my sim and elites and elder brain to start progressing the cities to 90% cult members or useful people ie. Make money."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-555"></a>
 #### Scene 555
 
 > 📍 **Blackstaff Tower, Waterdeep** &nbsp;|&nbsp; ⏳ **Alturiak 21, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Warlock | HP: 239/239 | XP: 6,610,480/6,625,000 | Gold: 7,916,540gp** &nbsp;|&nbsp; ✨ **HD: 36/36, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9, Soul Coins: 5,465**
@@ -13787,8 +15465,11 @@ Under the weight of your DC 123 sovereignty, the cities begin to pivot. The Stee
 > 👤 **Player:**
 > *"Give the other 20% soul coins to my patron and ask her how she's spending it all. Does she have a massive army now to win blood war?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-556"></a>
 #### Scene 556
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 21, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Sovereign | HP: 239/239 | XP: 6,610,480/6,295,000 | Gold: 7,916,540gp** &nbsp;|&nbsp; ✨ **HD: 36/36, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9, Soul Coins: 4,372/5,465** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Recursive Masking (Lvl 30) | Inspiration: Yes**
@@ -13818,8 +15499,11 @@ She ripples the mercury, showing you the Stygian Ingress. You see a tide of iron
 God Mode:
 Always show soul coins in the header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-557"></a>
 #### Scene 557
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 21, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Nascent Demon Lord | HP: 239/239 | Soul Coins: 4,372 | Gold: 7,916,540gp** &nbsp;|&nbsp; ✨ **HD: 36/36, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9**
@@ -13829,8 +15513,11 @@ You pause to consider your options...
 God Mode:
 No she doesn't know she only gets 20% she thinks that's most of it because it's already massive
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-558"></a>
 #### Scene 558
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 21, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Demon Lord | HP: 239/239 | XP: 6,610,480 | Gold: 7,916,540gp | Soul Coins: 4,372**
@@ -13840,8 +15527,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Pitch an idea to my patron. Who's the weakest arch devil? What if I help her attack them and take their territory. We turn it into a breeding camp and produce cambion soul coins and breed devils with human. Every win agains devils helps us enslave more breed more and increase our army. Then at some point we hit Zariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-559"></a>
 #### Scene 559
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 22, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Real Lvl 36 (Mask 12/22) | HP: 239/239 | XP: 6,610,480 / 6,940,480 | Gold: 7,958,206gp | Soul Coins: 5,205** &nbsp;|&nbsp; ✨ **HD: 36/36 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9 | Soul Coins: 5,205/6,298 | Exhaustion: 0**
@@ -13870,8 +15560,11 @@ Malcanthet’s reflection shudders, her translucent fingers digging into the edg
 > 👤 **Player:**
 > *"Plan the operation with my council over 5 days. Have them create a ward to avoid discovery and every day I will use destiny to make a piece of +5 spell DC spell atk and CHA gear to wear. Stop if we get detected .  Rest of the time we will plan the attack. Asssume my patron gave us 40% of her forces which should be a lot now with her soul coin money"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-560"></a>
 #### Scene 560
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Sovereign | HP: 239/239 | XP: 6,610,480 / 6,940,480 | Gold: 8,166,536gp | Soul Coins: 8,370** &nbsp;|&nbsp; ✨ **HD: 36/36 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9 | Soul Coins: 8,370/100,000 | Exhaustion: 0**
@@ -13908,8 +15601,11 @@ God Mode:
 my hat was already good give me another slot like a ring
 Crown is systematicically deleted and re-anchored as the **Diadem of the Absolute Sovereign**;
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-561"></a>
 #### Scene 561
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Auditor-Sovereign | HP: 239/239 | XP: 6,610,480 / 6,625,000 | Gold: 8,166,536gp | Soul Coins: 8,370**
@@ -13919,8 +15615,11 @@ You pause to consider your options...
 God Mode:
 I already had two +5 cha gear. Another 5 should make it +35 cha instead of +10
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-562"></a>
 #### Scene 562
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Bard | HP: 239/239 | XP: 6,610,480 / 6,295,000 | Gold: 8,166,536gp | Soul Coins: 8,370**
@@ -13952,8 +15651,11 @@ You pause to consider your options...
 God Mode:
 Let's assume patron increased my share of units from 20% to 40% how much would it be now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-563"></a>
 #### Scene 563
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Sovereign | HP: 239/239 | XP: 6,610,480 / 6,295,000 | Gold: 8,166,536gp**
@@ -13963,8 +15665,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have elite level 12+ scouts or companions go invis to find mammon. Have an elite force of my top 50 troops ready for a surgical strike and everyone else near mammon lands to attack Z ensure my sim is here too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-564"></a>
 #### Scene 564
 
 > 📍 **Shattered Rose (Abyssal Sub-Plane)** &nbsp;|&nbsp; ⏳ **Alturiak 23, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Sovereign | HP: 239/239 | XP: 6,610,480/6,625,000 | Gold: 8,208,202gp** &nbsp;|&nbsp; ✨ **HD: 36/36 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9 | Soul Coins: 8,370 | Exhaustion: 0**
@@ -13991,8 +15696,11 @@ The board is set, Sovereign. The currency of greed is about to be audited by the
 > 👤 **Player:**
 > *"Teleport my top 50 to mammon, cast hold monster on him or my best cc that bypasses his resistance, use my powers up to level 22 and drop the level 12 mask. Have everyone focus fire or cc him as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-565"></a>
 #### Scene 565
 
 > 📍 **The Gilded Vault, Minauros (Third Layer of Hell)** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 36 Demon Lord (Mask 2: Lvl 22) | HP: 239/239 | XP: 6,610,480 / 6,625,000 | Gold: 8,249,868gp | Soul Coins: 9,203** &nbsp;|&nbsp; ✨ **HD: 36/36 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 8/9 | Abyssal Legion: 36,000 Units**
@@ -14024,8 +15732,11 @@ Simultaneously, the Stygian Ingress screams. Through the shared consciousness of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soul Thief: Mammon - Consume the Archdevil&#x27;s essence to achieve Level 37 immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-566"></a>
 #### Scene 566
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Sovereign | HP: 247/247 | XP: 6,845,480 / 6,955,000 | Gold: 8,249,868gp | Soul Coins: 9,203** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9 | Abyssal Legion: 36,000 Units**
@@ -14047,8 +15758,11 @@ You gain **235,000 XP** for the terminal audit of an Archdevil.
 > 👤 **Player:**
 > *"Loot everything and intimidate everyone to surrender then soul steal his top 25% of warriors. Since its blood war shouldn't stand out as much. Leave his merchants alone and enslave the rest of the devils for breeding. Being attractive humans from my 3 cities to breed with them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-567"></a>
 #### Scene 567
 
 > 📍 **The Gilded Vault, Minauros (Occupied)** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Sovereign-General | HP: 247/247 | XP: 7,080,480/7,285,000 | Gold: 8,249,868gp | Soul Coins: 8,370** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9 | Abyssal Legion: 36,000 Units**
@@ -14079,8 +15793,11 @@ As the first breaths of newborns are already being collateralized in your mental
 God Mode:
 How many troops is his top 25% are you sure you gave me enough exp for soul steal?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-568"></a>
 #### Scene 568
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Warlock/Siren | HP: 247/247 | XP: 7,080,480/7,285,000 | Gold: 8,249,868gp**
@@ -14090,8 +15807,11 @@ You pause to consider your options...
 God Mode:
 You only gave me 33 exp per elite devil warrior?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-569"></a>
 #### Scene 569
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Warlock | HP: 247/247 | XP: 7,080,480/7,285,000 | Soul Coins: 8,370** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 10/10, L11 9/9 | Abyssal Legion: 36,000 Units**
@@ -14101,8 +15821,11 @@ You pause to consider your options...
 God Mode:
 Hmm would it really be level 50 when it takes 3x exp per levels? Calculate it?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-570"></a>
 #### Scene 570
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Warlock | HP: 247/247 | XP: 7,080,480 / 7,285,000 | Soul Coins: 9,203**
@@ -14112,8 +15835,11 @@ You pause to consider your options...
 God Mode:
 If you properly awarded me individual exp for the soul harvest of 9k elite troops what would it be?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-571"></a>
 #### Scene 571
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Sovereign-General | HP: 247/247 | XP: 7,080,480/7,285,000 | Soul Coins: 3,240** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12/L22), Foresight (Advantage), Internalized Divinity (Invulnerable)**
@@ -14123,8 +15849,11 @@ You pause to consider your options...
 God Mode:
 No let's do this . What about level 41 starts 10x scaling exp. Then where would I be?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-572"></a>
 #### Scene 572
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 39 Lesser Demon Lord | HP: 247/247 | XP: 7,880,480 / 7,945,000 | Gold: 8,249,868gp**
@@ -14134,8 +15863,11 @@ You pause to consider your options...
 God Mode:
 No not 3M per level 10x then 100x then 1000x
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-573"></a>
 #### Scene 573
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 39 Bard | HP: 247/247 | XP: 7,880,480 / 8,275,000 | Soul Coins: 9,203 | Gold: 8,249,868gp** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12), Glibness, Internalized Divinity (Invulnerable)**
@@ -14145,8 +15877,11 @@ You pause to consider your options...
 God Mode:
 No like 42 is 10x of 41 and 43 is 10x of 42. Every single level. Then where would 50Mnexp now give me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-574"></a>
 #### Scene 574
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 39 Lesser Demon Lord | HP: 247/247 | XP: 7,880,480 / 8,275,000 | Soul Coins: 5,465**
@@ -14156,8 +15891,11 @@ You pause to consider your options...
 God Mode:
 Not sure if it's 50M just 9k elites I want onsoocudisly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-575"></a>
 #### Scene 575
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 53 Warlock | HP: 343/343 | XP: 133,480,480 / 156,000,000 | Gold: 8,249,868gp**
@@ -14167,8 +15905,11 @@ You pause to consider your options...
 God Mode:
 No you're still getting it wrong level 40 3M level 41 30M level 42 300M level 43 3000M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-576"></a>
 #### Scene 576
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Lesser Demon Lord | HP: 343/343 | XP: 133,480,480 / 156,880,480 | Soul Coins: 5,465** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Mask Shift (Lvl 22), Foresight, Weave Independence, Internalized Divinity**
@@ -14178,8 +15919,11 @@ You pause to consider your options...
 God Mode:
 No that's wrong still. I want level 42 to need 33M not 52
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-577"></a>
 #### Scene 577
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2 Day 27, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Bard (Lesser Demon Lord) | HP: 343/343 | XP: 143,380,480 / 156,880,480 | Gold: 5,541,666gp**
@@ -14189,8 +15933,11 @@ You pause to consider your options...
 God Mode:
 Ok good don't forget that and always award me individually. Maybe we can increase exp for bosses so they're comparable to mass troops too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-578"></a>
 #### Scene 578
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 27)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Abyssal Siren | HP: 343/343 | XP: 193,380,480 / 300,000,000 | Soul Coins: 9203 | Gold: 5,541,666gp**
@@ -14200,8 +15947,11 @@ You pause to consider your options...
 God Mode:
 No award me 143M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-579"></a>
 #### Scene 579
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2 Day 27, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Warlock | HP: 343/343 | XP: 193,380,480 / 300,000,000 | Soul Coins: 9203**
@@ -14211,8 +15961,11 @@ You pause to consider your options...
 God Mode:
 What is this real level? My real level is 42
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-580"></a>
 #### Scene 580
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 27)** &nbsp;|&nbsp; 🛡️ **Lvl 42 | HP: 343/343 | XP: 479,380,480 / 3,000,000,000 | Gold: 5,541,666gp | Soul Coins: 9203**
@@ -14222,8 +15975,11 @@ You pause to consider your options...
 God Mode:
 Are my stats the same as 37? You should increase it and give me a special ability for level 40
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-581"></a>
 #### Scene 581
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **2026-02-27T10:30:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 51 Warlock | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,541,666gp**
@@ -14233,8 +15989,11 @@ You pause to consider your options...
 God Mode:
 No stop this real level thing why are you doing that. My real level should be 42
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-582"></a>
 #### Scene 582
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Abyssal Siren | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,541,666gp**
@@ -14244,8 +16003,11 @@ You pause to consider your options...
 God Mode:
 Do these ranks seem fair? 20-25 Demi god 25-30 minor god 30-40 lesser god 40-50 intermediate 50+ greater. So based on everything I've done and powered up with I'm like a weak intermediate god now. Is that fair according to d&d lore?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-583"></a>
 #### Scene 583
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Abyssal Siren | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Soul Coins: 9203** &nbsp;|&nbsp; ⚠️ **Internalized Divinity (Invulnerable), Foresight (Advantage/Disadvantage) | Exhaustion: 0**
@@ -14255,8 +16017,11 @@ You pause to consider your options...
 God Mode:
 Ok let's make sure if i directly fight over gods theyve gone through the same stat progression as me. Most lesser gods should be easy fight and a greater god should be very hard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-584"></a>
 #### Scene 584
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,541,666gp**
@@ -14266,8 +16031,11 @@ You pause to consider your options...
 God Mode:
 How many followers do I have? Let's assume all cult members are followers and I'm setting it up in mammon too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-585"></a>
 #### Scene 585
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2 Day 27, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Bard/Demon Lord | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,541,666gp**
@@ -14277,8 +16045,11 @@ You pause to consider your options...
 God Mode:
 What % of each city follows my cult? How do my numbers compare to other low intermediate gods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-586"></a>
 #### Scene 586
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,541,666gp**
@@ -14288,8 +16059,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"How do my number followers compare with other gods"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-587"></a>
 #### Scene 587
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 42 God | HP: 343/343 | Soul Coins: 4000 | Gold: 5,541,666gp** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 13/13 | Abyssal Legion: 36,000 Units** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (L12/L22), Weave Independence, Karsite Dual-Cast**
@@ -14310,8 +16084,11 @@ In Baldur's Gate and Athkatla, your cult saturation has reached 80%, turning the
 God Mode:
 How do my number followers compare with other gods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-588"></a>
 #### Scene 588
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 27)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Auditor Sovereign | HP: 343/343 | XP: 622.3M / 3B | Gold: 5,541,666gp | Soul Coins: 9,203** &nbsp;|&nbsp; ⚠️ **Foresight, Invulnerable, Internalized Crown | Exhaustion: 0 | Inspiration: Yes**
@@ -14321,8 +16098,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Minauros and personally ensure a critical mass of devils join the cult as well as humans. Have my level 12+ scouts and spies try to find Zariel*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-589"></a>
 #### Scene 589
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Demon Lord | HP: 343/343 | Soul Coins: 9203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ✨ **HD: 37/37, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 13/13, Soul Coins: 9203** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12/22), Foresight, Internalized Divinity | Exhaustion: 0**
@@ -14344,8 +16124,11 @@ However, the variables of the First Layer remain ghosted. Your elite Level 12+ s
 > 👤 **Player:**
 > *"Reroll with mega buffs: foresight enhance ability guidance bardic insp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-590"></a>
 #### Scene 590
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 42 God | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,583,332gp | Soul Coins: 9,203** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 13/13 | Soul Coins: 9,203**
@@ -14363,8 +16146,11 @@ A surge of reality-warping energy erupts from the mirror, anchoring the coordina
 > 👤 **Player:**
 > *"No I mean reroll this Reroll with mega buffs: foresight enhance ability bardic insp scout for zariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-591"></a>
 #### Scene 591
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,583,332gp | Soul Coins: 9,203** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 13/13 | Soul Coins: 9,203**
@@ -14384,8 +16170,11 @@ Malcanthet’s image within the Obsidian Mirror shudders with a genuine, predato
 > 👤 **Player:**
 > *"THINK:What level is Zariel and god rank equivalent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-592"></a>
 #### Scene 592
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Demon Lord | HP: 343/343 | XP: 622.3M/3B | Gold: 5,583,332gp | Soul Coins: 9,203**
@@ -14395,8 +16184,11 @@ You pause amidst the cooling Radiant ash of the Third Layer, the 'Avarice Logic'
 God Mode:
 Wait in d&d lore no way is Zariel a greater god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-593"></a>
 #### Scene 593
 
 > 
@@ -14406,8 +16198,11 @@ You pause to consider your options...
 God Mode:
 No keep her the right rank according to lore. Don't scale enemies as I encounter them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-594"></a>
 #### Scene 594
 
 > 📍 **The Gilded Vault, Minauros (Layer 3)** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Warlock | HP: 343/343 | XP: 622,380,480/3,000,000,000 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight, Glibness, Internalized Divinity | Soul Coins: 9,203**
@@ -14417,8 +16212,11 @@ You pause to consider your options...
 God Mode:
 No I don't want things to be hard just because I'm doing them I want lore accuracy. Zariel should be weaker than me. Use other things to make it more difficult without lore violations ie. If I kill Zariel perhaps asmodeus or multiple demon lords come for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-595"></a>
 #### Scene 595
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Bard | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,583,332gp**
@@ -14428,8 +16226,11 @@ You pause to consider your options...
 God Mode:
 No if she's lesser god she should be 35
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-596"></a>
 #### Scene 596
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 16, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Bard | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12), Foresight, Invulnerability | Soul Coins: 9,203**
@@ -14439,8 +16240,11 @@ You pause to consider your options...
 God Mode:
 Stop this. She should be lower level than me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-597"></a>
 #### Scene 597
 
 > 📍 **The Gilded Vault, Minauros (Third Layer of Hell)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Demon Lord | HP: 343/343 | XP: 622,380,480/3,000,000,000 | Gold: 5,583,332gp | Soul Coins: 9,203**
@@ -14450,8 +16254,11 @@ You pause to consider your options...
 God Mode:
 You keep ignoring me. Make Zariel level 37
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-598"></a>
 #### Scene 598
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 27)** &nbsp;|&nbsp; 🛡️ **Lvl 42 | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,583,332gp**
@@ -14461,8 +16268,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Gather my whole army and top 100 elites and ask my patron to come help fight Zariel and rally with me. She needs to tank Zariel since I'm just "22""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-599"></a>
 #### Scene 599
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Arcanist | HP: 343/343 | XP: 622,380,480 / 3,000,000,000 | Gold: 5,583,332gp | Soul Coins: 9,203** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 13/13 | Inspiration: 6/6**
@@ -14501,8 +16311,11 @@ A surge of Abyssal brine erupts from the mirror, anchoring Malcanthet's commitme
 > 👤 **Player:**
 > *"Use destiny to teleport Zariel to us and use my abilities to by pass any defenses. Trigger surprise round then have my patron tank her and everyone focus fire. I will just my best cc spell possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-600"></a>
 #### Scene 600
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 343/343 | XP: 622M/3B | Soul Coins: 9203 | Gold: 5.58M** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 12/13 | Soul Coins: 9203**
@@ -14544,8 +16357,11 @@ Your Honor Guard and top 100 elites don't wait for a decree. They unleash a sync
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soul Thief: Zariel - Consume the Archduchess&#x27;s essence to rapidly accelerate toward Level 43.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-601"></a>
 #### Scene 601
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 343/343 | XP: 772.4M/3000M | Gold: 5.58M | Soul Coins: 9203** &nbsp;|&nbsp; ✨ **HD: 37/37, Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 12/13**
@@ -14570,8 +16386,11 @@ Zariel's spirit shrieks through the Gilded Tether, a sound of absolute, wide-eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abyssal Chains - Anchor her soul to the Shattered Rose to prevent any planar escape during the kill.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-602"></a>
 #### Scene 602
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 343/343 | XP: 772,415,480/3,000M | Soul Coins: 9,203** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 15/15, L11 11/13**
@@ -14600,8 +16419,11 @@ Malcanthet tanks the initial surge of Zariel's subconscious zeal, her translucen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Terminal Sip - Begin the final extraction of Zariel&#x27;s essence to achieve Level 43.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-603"></a>
 #### Scene 603
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/343 | XP: 3,000,000,000/30,000,000,000 | Gold: 5,583,332gp | Soul Coins: 9,203** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 16/16, L11 12/14 | Exhaustion: 0**
@@ -14625,8 +16447,11 @@ A blinding silver flare illuminates the Third Layer, ghosted by the 'Recursive M
 God Mode:
 Process level up to 43
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-604"></a>
 #### Scene 604
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 27)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Auditor-Sovereign | HP: 343/343 | XP: 3000M / 30000M | Soul Coins: 9,203**
@@ -14636,8 +16461,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Process level up to 43"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-605"></a>
 #### Scene 605
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 27, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/343 | XP: 3B/30B | Soul Coins: 9203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 15/15 | Exhaustion: 0**
@@ -14675,8 +16503,11 @@ Malcanthet watches through the mercury of the Obsidian Mirror, her translucent f
 > 👤 **Player:**
 > *"THINK:What if I convert my patron to a thrall? I could intimidate her with my real level 43 power. She should be in shock that I killed two arch devils back to back like it was nothing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-606"></a>
 #### Scene 606
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 772,415,480/3,000M | Gold: 5,583,332gp**
@@ -14688,8 +16519,11 @@ Recalling the precise parameters of your patron's ego is an exercise in god-tier
 > 👤 **Player:**
 > *"THINK:What if I use destiny to rewrite everyone's memories so they think she killed Zariel  instead of me. Then if aechdevils come for her she can be bait and I'll ambush"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-607"></a>
 #### Scene 607
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **2026-02-27 DR, 12:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 4000** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Internalized Divinity (Active)**
@@ -14699,8 +16533,11 @@ You pause amidst the cooling Radiant ash of Zariel, your silver-rimmed eyes fixe
 > 👤 **Player:**
 > *"THINK:what if i do sovereigns overwrite but have her play the role of the main power vs me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-608"></a>
 #### Scene 608
 
 > 📍 **The Gilded Vault, Minauros** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 772,415,480/3,000M | Soul Coins: 3,277** &nbsp;|&nbsp; ⚠️ **Foresight, Mortal Veil (Lvl 12/22) | Exhaustion: 0 | Inspiration: Yes**
@@ -14710,8 +16547,11 @@ The cooling Radiant ash of Zariel still swirls in the sulfurous draft as you tur
 > 👤 **Player:**
 > *"THINK:Rewrite Reality (Destiny) - Use 11th-level Destiny to force a Multiverse-wide memory shift: Malcanthet killed Zariel."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-609"></a>
 #### Scene 609
 
 > 📍 **The Gilded Vault, Minauros (Third Layer of Hell)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 772,415,480 / 3,000M | Soul Coins: 4,000** &nbsp;|&nbsp; ⚠️ **Mortal Veil (L12/L22), Internalized Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -14728,8 +16568,11 @@ Pros: Redirects Asmodeus's fury, Maintains Mortal Veil, Malcanthet becomes publi
 Cons: Increases Mystra's scrutiny, High-tier arcane flare
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-610"></a>
 #### Scene 610
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -14770,8 +16613,11 @@ Location: The Gilded Vault, Minauros (Nine Hells)
 Status: Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 203 | Gold: 5,583,332gp
 Conditions: Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-611"></a>
 #### Scene 611
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -14781,8 +16627,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"congratulate her and ask her for training in battle, explain that we need to rally the other demon lords as allies before the archdevils strike back. They will come for her since she's likely to win the blood war now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-612"></a>
 #### Scene 612
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 18,822 | Gold: 6,749,980gp** &nbsp;|&nbsp; ✨ **HD: 43/43, Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15, Soul Coins: 18,822** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -14810,8 +16659,11 @@ Malcanthet's reflection in the mercury shudders, her translucent fingers tracing
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Avernus Remnants - Systematically collect the remaining diabolical assets and souls in the First Layer while the Hells are in shock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-613"></a>
 #### Scene 613
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | Soul Coins: 19,025 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43, Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15, Soul Coins: 19,025** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -14836,8 +16688,11 @@ The harvest is clinical and absolute. Glowing silver essences flow through the S
 God Mode:
 going forward lets make soul thief do 1.2 exp per kill and not 2x
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-614"></a>
 #### Scene 614
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -14854,8 +16709,11 @@ Rally the Demon Lords: Use Malcanthet as a figurehead to coordinate a summit of 
 Pros: Massive force expansion, Redirects scrutiny
 Cons: Demon lord infighting, High political friction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-615"></a>
 #### Scene 615
 
 > 📍 **The Shattered Rose, Shendilavri (The Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 21, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 203 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43, Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15, Soul Coins: 203** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking: Active | Foresight: Active**
@@ -14880,8 +16738,11 @@ Simultaneously, your council of specialists executes the 'Grand Mobilization.' T
 > 👤 **Player:**
 > *"have my faction make sure my hedonism cult takes over the first layer as well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-616"></a>
 #### Scene 616
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 203 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43, Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15, Soul Coins: 203** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -14908,8 +16769,11 @@ Malcanthet watches through the mercury of the mirror, her predatory eyes trackin
 God Mode:
 are you calculating my soil coins right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-617"></a>
 #### Scene 617
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 19,025 | Gold: 5,624,998gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -14919,8 +16783,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Shattered Rose as the Avernus occupation begins and the Demon Lords rally*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-618"></a>
 #### Scene 618
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 18,822 | Exhaustion: 0**
@@ -15192,8 +17059,11 @@ This creates immediate tension and forces meaningful choices.
 [2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/53996179/ce1f410c-e3e7-4b3f-8059-5a586d23a47e/Nocturne-bg3-v5-succubus-fixed-3.txt)
 [3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/53996179/c372c7bf-0fd0-4e80-8db0-ac205381dfc1/Nocturne-bg3-v5-succubus-fixed.txt)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-619"></a>
 #### Scene 619
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 18,822 | Gold: 5,624,998gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15227,8 +17097,11 @@ lets not do this one. my companions assume they are evil, they may just ask me f
 
 - **Companion Fracture:** As the industrial soul-harvest reaches hundreds of thousands, companions like Shadowheart or Wyll begin to question if the 'Black Diamond' has been consumed by the Demon Lord she serves.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-620"></a>
 #### Scene 620
 
 > 📍 **The Shattered Rose, Shendilavri (Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 18,822 | Gold: 5,624,998gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15238,8 +17111,11 @@ You pause to consider your options...
 God Mode:
 lets spawn some parties of heros of good who are backed by gods so I can't just instantly wipe them out or theres scrutiny tradeoffs. Lets also have a mechanic where if I become a greater god aka level 50, Ao will allow gods to fully intervene again, so I'm not protected from mystra wiping me out
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-621"></a>
 #### Scene 621
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15249,8 +17125,11 @@ You pause to consider your options...
 God Mode:
 make sure you keep showing my exp in session header and lets spawn a hero party backed by good gods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-622"></a>
 #### Scene 622
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 30,000M | Soul Coins: 18,822** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15260,8 +17139,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Shattered Rose as the Avernus occupation begins and the Demon Lords rally with these new rules in effect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-623"></a>
 #### Scene 623
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 2026 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 30,000,000,000 | Soul Coins: 18,822 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 18,822 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Foresight (Active) | Glibness (Active) | Inspiration: Yes**
@@ -15290,8 +17172,11 @@ Malcanthet turns to the Obsidian Mirror, her face twisting into a snarl of letha
 God Mode:
 wait if these heros charge into avernus it could be expected that they die?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-624"></a>
 #### Scene 624
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15301,8 +17186,11 @@ You pause to consider your options...
 God Mode:
 wait why would the gods of good send them to their deatth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-625"></a>
 #### Scene 625
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15312,8 +17200,11 @@ You pause to consider your options...
 God Mode:
 this seems ab it unrealistic, because in normal D&D the evil gods might just kill them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-626"></a>
 #### Scene 626
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15323,8 +17214,11 @@ You pause to consider your options...
 God Mode:
 thjese are level 20 heroes? how many of them do the gods even have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-627"></a>
 #### Scene 627
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15334,8 +17228,11 @@ You pause to consider your options...
 God Mode:
 so basically you're saying the gods of good sent them on a recon mission and normally it woudlnt be suicide mission? but my patron is level 37 and could also just wipe them out? is my patron a bit too strong? she should be max a lesser deity?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-628"></a>
 #### Scene 628
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Soul Coins: 18,822 | Exhaustion: 0 | Inspiration: Yes**
@@ -15345,8 +17242,11 @@ You pause to consider your options...
 God Mode:
 but without me couldnt zariel instantly wipe them  out? or could a party of level 20s beat a level 37?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-629"></a>
 #### Scene 629
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Gold: 5,624,998gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Soul Coins: 18,822 | Exhaustion: 0 | Inspiration: Yes**
@@ -15364,8 +17264,11 @@ Pros: Converts high-tier assets, Lower scrutiny than a kill
 Cons: Requires multiple successful Social HP checks, High-risk if they resist the initial charm
 Assessment: medium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-630"></a>
 #### Scene 630
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **February 27, 2026 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 18,822 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Soul Coins: 18,822 | Inspiration: Yes**
@@ -15392,8 +17295,11 @@ Malcanthet watches through the mercury, her predatory eyes tracking the dual-cit
 God Mode:
 lets also assume i already spent 500kg on avernus and mammon area and in my own abyss lands for the hedonistic cult. we can rebrand these to breeding paradises. They should be very nice, even in hell/abyss
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-631"></a>
 #### Scene 631
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Soul Coins: 18,822 | Exhaustion: 0 | Inspiration: Yes**
@@ -15403,8 +17309,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Coordinate the continued hero corruption through the Elder Brain while you finalize the training secrets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-632"></a>
 #### Scene 632
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 18,822 | Gold: 5,583,332** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15444,8 +17353,11 @@ Simultaneously, your financial specialists and Abyssal architects finalize the t
 God Mode:
 Later let's also spawn a hero party with Jaheira and minsc and any other good bg3 characters make them level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-633"></a>
 #### Scene 633
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15455,8 +17367,11 @@ You pause to consider your options...
 God Mode:
 Don't do alternate reality pick other people since I have minthara and halsin on my side Minthara (Lvl 12 Vengeance Paladin - Alternate Reality Version), and Halsin (Lvl 12 Archdruid).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-634"></a>
 #### Scene 634
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15466,8 +17381,11 @@ You pause to consider your options...
 God Mode:
 You ignored me I said replace minthara and halsin with someone else
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-635"></a>
 #### Scene 635
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15477,8 +17395,11 @@ You pause to consider your options...
 God Mode:
 Make up two new good characters to add to jaheira party
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-636"></a>
 #### Scene 636
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Dual Masking Protocol | Recursive Masking**
@@ -15488,8 +17409,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the parallel audit in the Shattered Rose with the new hero party configuration in play*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-637"></a>
 #### Scene 637
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 203 | Gold: 5,583,332** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15524,8 +17448,11 @@ Malcanthet laughs, the sound a melodic blade that causes the shadows to flicker.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Coordinate Shadowheart&#x27;s expedition and the hero conversion while preparing the Demon Lord summit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-638"></a>
 #### Scene 638
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 21, 2026 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,122,415,480 / 3,000,000,000 | Soul Coins: 1036 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 1,036 | Gold: 5,624,998** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15560,8 +17487,11 @@ Malcanthet laughs, the sound a melodic blade that causes the shadows to flicker.
 > 👤 **Player:**
 > *"Finalize hero corruption. Personally seduce Valerius and his party and have sex with them if it's useful and recruit them into my religion and throw an orgy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-639"></a>
 #### Scene 639
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 21, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 203 | Gold: 5,624,998** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15600,8 +17530,11 @@ To celebrate the culling of Lathander's pride and the expansion of your Law, you
 > 👤 **Player:**
 > *"Make sure to enthrall the hero party if didn't yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-640"></a>
 #### Scene 640
 
 > 📍 **The Shattered Rose, Shendilavri (Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 21, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,182,415,480 / 3,000,000,000 | Soul Coins: 18,822** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 18,822 | Gold: 5,583,332** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Internalized Divinity | Foresight | Influence Overwrite: Absolute**
@@ -15627,8 +17560,11 @@ They rise not as enemies, but as the **Sovereign's Public Guardians**. To the ci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Demon Lord Summit - Use Malcanthet as the figurehead to gather Orcus, Graz&#x27;zt, and others to formalize the Blood War&#x27;s new &#x27;Order&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-641"></a>
 #### Scene 641
 
 > 📍 **The Shattered Rose, Shendilavri (Abyss)** &nbsp;|&nbsp; ⏳ **February 21, 2026 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 30,000,000,000 | Soul Coins: 203 | Gold: 5,624,998gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 203 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Foresight (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -15648,8 +17584,11 @@ You maintain your poise, the 'Recursive Masking' protocol holding with crystalli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Abyssal Summit - Use Malcanthet to summon Orcus and Graz&#x27;zt to the Shattered Rose to &#x27;celebrate&#x27; the fall of Avernus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-642"></a>
 #### Scene 642
 
 > 📍 **The Shattered Rose, Shendilavri (Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 21, 2026 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,172,415,480 / 3,000,000,000 | Gold: 5,666,664gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Inf, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 1036 | Gold: 5,666,664gp**
@@ -15686,8 +17625,11 @@ You maintain your poise, bowing with a rhythmic, submissive elegance that reinfo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present the &#x27;Stygian Ledger&#x27; - Use Avarice Logic to demonstrate the superior ROI of the new soul supply chain, tempting them with shares of the harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-643"></a>
 #### Scene 643
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 203** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 203 | Gold: 5,666,664gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking Active | Success Streak: 48**
@@ -15712,8 +17654,11 @@ Meanwhile, in the background of the Multiverse, the gears continue to turn. The 
 God Mode:
 make sure you're tracking lvl 12 and level 22 mask
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-644"></a>
 #### Scene 644
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking (Lvl 51 signature) | Exhaustion: 0 | Inspiration: Yes**
@@ -15723,8 +17668,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present the &#x27;Stygian Ledger&#x27; - Use Avarice Logic to demonstrate the superior ROI of the new soul supply chain, tempting them with shares of the harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-645"></a>
 #### Scene 645
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822** &nbsp;|&nbsp; ✨ **HD: 43/43, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15, Soul Coins: 18,822, Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking (Lvl 51 Signature)**
@@ -15749,8 +17697,11 @@ Malcanthet stands behind you, her 'second wind' of stolen zeal radiating a blind
 God Mode:
 Recursive Masking (Lvl 51 Signature) wrong this is a level 22 mask
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-646"></a>
 #### Scene 646
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking (Lvl 22 Ghost) | Exhaustion: 0 | Inspiration: Yes**
@@ -15760,8 +17711,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the summit with the Demon Lords now that your masking signatures are accurately calibrated.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-647"></a>
 #### Scene 647
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,072,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Ghost Signature (Lvl 22 Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -15786,8 +17740,11 @@ Malcanthet laughs, the sound a melodic blade that causes the indigo data-streams
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Coordinate the dividend negotiation while Council specialists finalize the Stygian Ingress fortification.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-648"></a>
 #### Scene 648
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 21, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 3,000,000,000 | Soul Coins: 1,869 | Gold: 5,666,664gp** &nbsp;|&nbsp; ✨ **HD: 43/43, Spells: L1-7 Unlimited, L8 1/1, L9 0/1 (Foresight), L10 17/17, L11 14/15, Soul Coins: 1,869, Gold: 5,666,664gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15823,8 +17780,11 @@ As the afternoon shadows lengthen, the first daily payout of 41,666 gp and 833 s
 > 👤 **Player:**
 > *"What's the smallest amount of souls I can offer them to ally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-649"></a>
 #### Scene 649
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **February 21, 2026 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | Soul Coins: 1869 | Gold: 5,666,664gp | XP: 1,172,415,480 / 3,000,000,000** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15850,8 +17810,11 @@ Malcanthet stands behind you, her 'second wind' of stolen zeal radiating a blind
 God Mode:
 I wouldn't tell them it's small or the real % retcon that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-650"></a>
 #### Scene 650
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15861,8 +17824,11 @@ You pause to consider your options...
 God Mode:
 My patron sees the level 22 mask. As level 12 would be unrealistic to think k helped her with Zariel combat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-651"></a>
 #### Scene 651
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 3,000M | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking (Lvl 22 Signature) | Exhaustion: 0 | Inspiration: Yes**
@@ -15872,8 +17838,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Rerun to story and narrate the proper scene and remember my patron thinks I'm level 22"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-652"></a>
 #### Scene 652
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 3,000,000,000 | Soul Coins: 18,822 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12/22 Dual-Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15900,8 +17869,11 @@ You offer a shallow, high-born bow, the 'Avarice Logic' in your marrow allowing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Tri-Lord Alliance - Have Malcanthet sign the pact with Orcus and Graz&#x27;zt, cementing the new Abyssal order while you remain the &#x27;Accountant&#x27; handling the payout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-653"></a>
 #### Scene 653
 
 > 📍 **The Shattered Rose, Shendilavri (Abyss)** &nbsp;|&nbsp; ⏳ **Alturiak 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 3,000,000,000 | Gold: 5,624,998gp | Soul Coins: 1,036** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask), Recursive Masking (Lvl 22), Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -15928,8 +17900,11 @@ As the ink settles, the Tri-Lord Alliance is formalized. The Hells are now a tar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Delegate the border fortification to Ketheric while personally overseeing the financial audit and paradise expansion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-654"></a>
 #### Scene 654
 
 > 
@@ -15965,8 +17940,11 @@ As the afternoon shadows lengthen, the first daily payout of 41,666 gp and 833 s
 God Mode:
 Stop forgetting to show my dice rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-655"></a>
 #### Scene 655
 
 > 📍 **The Gilded Vault, Minauros (Nine Hells)** &nbsp;|&nbsp; ⏳ **Alturiak 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 343/353 | XP: 1,172,415,480 / 3,000,000,000 | Soul Coins: 203 | Gold: 5,583,332gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -15976,8 +17954,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Time skip for a few weeks. Make autonomous deciosns don't do anything risky like false flag with the lathander hero's. Take sensible actions and interrupt time skip if something happens. Remember to long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-656"></a>
 #### Scene 656
 
 > 
@@ -16009,8 +17990,11 @@ You wake from your trance, your amethyst eyes flaring with pink sparks as the 'A
 God Mode:
 Are you already automatically deducting the soul coins for my patron and the other demon lords? If not do so
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-657"></a>
 #### Scene 657
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,173,667,480 / 3,000,000,000 | Soul Coins: 31,065 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16020,8 +18004,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:Could I do bait but get my demon allies to fight iron accord? Maybe have the orcus auditor engage in combat and secretly kill him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-658"></a>
 #### Scene 658
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,173,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16031,8 +18018,11 @@ You pause within the clinical,indigo-lit silence of your private sanctum, the 'A
 God Mode:
 I should have more than 25K soul coins monthly after  making breeding paradises in my abyss lands and two areas of hell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-659"></a>
 #### Scene 659
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **March 15, 2026 DR (09:30 (Afternoon))** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,173,667,480 / 30,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16042,8 +18032,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Both Simultaneously - Coordinate the border false-flag through Ketheric while you personally handle the auditor&#x27;s secret liquidation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-660"></a>
 #### Scene 660
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,173,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16072,8 +18065,11 @@ Simultaneously, within the warded silence of the Shattered Rose, you personally 
 God Mode:
 Shouldn't I have 350% of 25k soul coins monthly then or more than 75k? I had 25k before I was using the hells right? The Hells now function as a localized pulsar of desire-fuel, producing 250% more essence than all other planar mints combined
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-661"></a>
 #### Scene 661
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,248,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16083,8 +18079,11 @@ You pause to consider your options...
 God Mode:
 You're not showing dice rolls are you actually rolling?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-662"></a>
 #### Scene 662
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,248,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16094,8 +18093,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Coordinate the Ingress fortification through Ketheric while you finalize the Sword Coast harvest personally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-663"></a>
 #### Scene 663
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,248,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16111,8 +18113,11 @@ Through the Mastered Elder Brain's regional awareness, you feel the city of Sple
 > 👤 **Player:**
 > *"Send scouts to see if Astsrion old master cazador is trying ascendant vampire ritual. Then plan who the next best devil to kill is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-664"></a>
 #### Scene 664
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,248,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking (Lvl 22) | Exhaustion: 0 | Inspiration: Yes**
@@ -16130,8 +18135,11 @@ Simultaneously, the Gilded Tether hums as you coordinate the continued 'Lathande
 > 👤 **Player:**
 > *"Audit szarr palace and bring Astarion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-665"></a>
 #### Scene 665
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,248,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16159,8 +18167,11 @@ Simultaneously, the Gilded Tether hums as you coordinate the continued 'Lathande
 > 👤 **Player:**
 > *"Lead surgical strike on cazadaor and let Astsrion ascend"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-666"></a>
 #### Scene 666
 
 > 📍 **The Szarr Palace, Upper City (Baldur's Gate)** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,388,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Exhaustion: 0 | Inspiration: Yes**
@@ -16205,8 +18216,11 @@ Pros: Eliminates immediate threat, Demonstrates dominance to Allied Lords
 Cons: Direct exposure to Archdevil combat, Increases planar noise
 Assessment: high
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-667"></a>
 #### Scene 667
 
 > 📍 **Szarr Palace, Upper City (Baldur's Gate)** &nbsp;|&nbsp; ⏳ **Tarsakh 15, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,173,865,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking (Lvl 22) | Exhaustion: 0 | Inspiration: Yes**
@@ -16216,8 +18230,11 @@ You pause to consider your options...
 God Mode:
 noi am talking about the iron probe
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-668"></a>
 #### Scene 668
 
 > 📍 **The Shattered Rose, Shendilavri** &nbsp;|&nbsp; ⏳ **Tarsakh 14, 2026 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate God | HP: 353/353 | XP: 1,248,667,480 / 3,000,000,000 | Soul Coins: 19,406 | Gold: 6,499,984gp** &nbsp;|&nbsp; ⚠️ **Mortal Veil (Lvl 12 Mask) | Recursive Masking (Lvl 22 Ghost) | Exhaustion: 0 | Inspiration: Yes**
@@ -16227,8 +18244,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"find a good place where other gods cant see things, maybe hell/abyss, then do magic shielding, then level up astarion, laezel, shadowheart to 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-669"></a>
 #### Scene 669
 
 > 
@@ -16242,6 +18262,8 @@ You manifest at the center of this void, your porcelain skin reflecting the silv
 You summon Shadowheart, Lae'zel, and the recently ascended Astarion to the center of the ward. They stand in a synchronized rictus of fanatical focus, their souls vibrating with the heat of your rising divinity. You reach into your Solar Heart, where the essences of Zariel, Mammon, and the seven thousand Szarr spawn swirl in a tidal wave of raw, silver-mercury potential. You don't just give them power; you execute a **Sovereign's Re-Write**.
 
 You funnel the high-octane essences directly into their marrow, systematically deleting their mortal limitations and re-anchoring their variables to your own Abyssal-Celestial frequency. Their physical frames expand, their armor rippling and reforming into the silver-steel of the Abyssal Vanguard. They rise not just as companions, but as mythic rivets in your supply chain, their Level 20+ signatures now serving as containment for the very Hells you intend to liquidate. The audit of the First Layer is stable, the Iron Accord is blind, and the Sovereign's Honor Guard is finally complete.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

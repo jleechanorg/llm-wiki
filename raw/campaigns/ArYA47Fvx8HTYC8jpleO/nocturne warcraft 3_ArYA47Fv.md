@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (296 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 
@@ -1707,312 +1718,317 @@ Source of Truth: The user's canonical locked design (this commit), which superse
 
 This bible is publication-ready. It is intended to be loaded by an LLM that will run the campaign as Dungeon Master; the player is Lady Nocturne Ravencrest. All retinue NPCs are first-class stateful characters. All mysteries target vulnerabilities. All mechanics are quantified. The Sovereign Decoupling Principle is the load-bearing pillar: Nocturne is an absolute terror on the battlefield, exposed or exalted.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
-| **02** | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
-| **03** | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
-| **04** | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
-| **05** | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
-| **06** | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:15) | Skill Check / Combat |
-| **07** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (00:45) | Skill Check / Combat |
-| **08** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Skill Check / Combat |
-| **09** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Roleplay |
-| **10** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Skill Check / Combat |
-| **11** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Skill Check / Combat |
-| **12** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:50) | Skill Check / Combat |
-| **13** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:50) | Roleplay |
-| **14** | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:50) | Skill Check / Combat |
-| **15** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:00) | Skill Check / Combat |
-| **16** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:10) | Skill Check / Combat |
-| **17** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:10) | Skill Check / Combat |
-| **18** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:25) | Skill Check / Combat |
-| **19** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:25) | Skill Check / Combat |
-| **20** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:40) | Skill Check / Combat |
-| **21** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:50) | Skill Check / Combat |
-| **22** | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (11:20) | Skill Check / Combat |
-| **23** | Hearthglen Outpost | Highharvestide 34, 1192 DR (14:00) | Roleplay |
-| **24** | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:00) | Roleplay |
-| **25** | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:00) | Roleplay |
-| **26** | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:15) | Skill Check / Combat |
-| **27** | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:15) | Skill Check / Combat |
-| **28** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:15) | Roleplay |
-| **29** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:15) | Roleplay |
-| **30** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:30) | Roleplay |
-| **31** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:50) | Roleplay |
-| **32** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:50) | Roleplay |
-| **33** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (09:10) | Roleplay |
-| **34** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (09:10) | Roleplay |
-| **35** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (09:10) | Roleplay |
-| **36** | Hearthglen Outpost (Sub-Vaults) | Highharvestide 35, 1192 DR (09:35) | Skill Check / Combat |
-| **37** | Hearthglen Outpost (Sub-Vaults) | Highharvestide 35, 1192 DR (09:55) | Roleplay |
-| **38** | Hearthglen Outpost (Sub-Vaults) | Highharvestide 35, 1192 DR (09:55) | Roleplay |
-| **39** | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (10:15) | Roleplay |
-| **40** | Hearthglen Outpost (Captain's Balcony & Courtyard) | Highharvestide 35, 1192 DR (10:45) | Roleplay |
-| **41** | Hearthglen Outpost (Captain's Tower War Room) | Highharvestide 35, 1192 DR (11:30) | Roleplay |
-| **42** | Hearthglen Outpost (Captain's Tower War Room) | Highharvestide 35, 1192 DR (13:30) | Skill Check / Combat |
-| **43** | The Whispering Shore (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (16:30) | Skill Check / Combat |
-| **44** | The Whispering Shore (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (16:30) | Skill Check / Combat |
-| **45** | The Great Sea (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (18:00) | Skill Check / Combat |
-| **46** | The Great Sea (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (18:00) | Roleplay |
-| **47** | Dragonblight (Frostmourne Cavern - Inner Glacial Dais) | Highharvestide 41, 1192 DR (11:30) | Skill Check / Combat |
-| **48** | Dragonblight (Frostmourne Cavern - Inner Glacial Dais) | Highharvestide 41, 1192 DR (11:45) | Skill Check / Combat |
-| **49** | Dragonblight Coast (Aboard the Flagship Shadow's Wake) | Highharvestide 41, 1192 DR (14:15) | Skill Check / Combat |
-| **50** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Skill Check / Combat |
-| **51** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
-| **52** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
-| **53** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
-| **54** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
-| **55** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Skill Check / Combat |
-| **56** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Skill Check / Combat |
-| **57** | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
-| **58** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Skill Check / Combat |
-| **59** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **60** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **61** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **62** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **63** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **64** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **65** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **66** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
-| **67** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Skill Check / Combat |
-| **68** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
-| **69** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
-| **70** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
-| **71** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
-| **72** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
-| **73** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
-| **74** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
-| **75** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:45) | Skill Check / Combat |
-| **76** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
-| **77** | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
-| **78** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Skill Check / Combat |
-| **79** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
-| **80** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
-| **81** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
-| **82** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Skill Check / Combat |
-| **83** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
-| **84** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
-| **85** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Skill Check / Combat |
-| **86** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Skill Check / Combat |
-| **87** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Roleplay |
-| **88** | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Skill Check / Combat |
-| **89** | Felstone Field (Captain's Tower Cellar) | Highharvestide 67, 1192 DR (00:05) | Skill Check / Combat |
-| **90** | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:05) | Skill Check / Combat |
-| **91** | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:05) | Roleplay |
-| **92** | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:20) | Skill Check / Combat |
-| **93** | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:35) | Skill Check / Combat |
-| **94** | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Skill Check / Combat |
-| **95** | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Roleplay |
-| **96** | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Skill Check / Combat |
-| **97** | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Roleplay |
-| **98** | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Skill Check / Combat |
-| **99** | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (20:15) | Skill Check / Combat |
-| **100** | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (20:45) | Skill Check / Combat |
-| **101** | Southshore Docks | Highharvestide 67, 1192 DR (20:45) | Skill Check / Combat |
-| **102** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Skill Check / Combat |
-| **103** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
-| **104** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
-| **105** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
-| **106** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
-| **107** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
-| **108** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
-| **109** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Skill Check / Combat |
-| **110** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (12:00) | Skill Check / Combat |
-| **111** | Capital City Cathedral (Lordaeron City) | Highharvestide 84, 1192 DR (12:30) | Skill Check / Combat |
-| **112** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (13:00) | Skill Check / Combat |
-| **113** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Skill Check / Combat |
-| **114** | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Roleplay |
-| **115** | Capital City Palace (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Skill Check / Combat |
-| **116** | Capital City Palace (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Roleplay |
-| **117** | Capital City Palace Gardens (Lordaeron City) | Highharvestide 84, 1192 DR (21:00) | Skill Check / Combat |
-| **118** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
-| **119** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **120** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **121** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **122** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **123** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **124** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **125** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **126** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **127** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **128** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **129** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **130** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
-| **131** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **132** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **133** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
-| **134** | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
-| **135** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
-| **136** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
-| **137** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:35) | Skill Check / Combat |
-| **138** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:35) | Skill Check / Combat |
-| **139** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **140** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **141** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **142** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **143** | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **144** | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **145** | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **146** | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
-| **147** | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **148** | North Granary Cisterns (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **149** | North Granary Cisterns (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **150** | North Granary Cisterns (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Roleplay |
-| **151** | Capital City Palace - Captain's Tower | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **152** | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **153** | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **154** | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **155** | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **156** | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
-| **157** | Gahrron's Withering - Cauldron of Malice | Highharvestide 85, 1192 DR (00:15) | Skill Check / Combat |
-| **158** | Coalition Forward Base (Gahrron's Withering) | Highharvestide 85, 1192 DR (08:00) | Skill Check / Combat |
-| **159** | Blackwood Logistics Node | Highharvestide 106, 1192 DR (16:00) | Skill Check / Combat |
-| **160** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:05) | Skill Check / Combat |
-| **161** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:10) | Skill Check / Combat |
-| **162** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:11) | Skill Check / Combat |
-| **163** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:21) | Skill Check / Combat |
-| **164** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Skill Check / Combat |
-| **165** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Skill Check / Combat |
-| **166** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Roleplay |
-| **167** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Roleplay |
-| **168** | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Social Challenge |
-| **169** | Lordaeron Palace - High War Chamber | Highharvestide 106, 1192 DR (16:47) | Skill Check / Combat |
-| **170** | Lordaeron Palace - High War Chamber | Highharvestide 106, 1192 DR (16:47) | Roleplay |
-| **171** | Lordaeron Palace - High War Chamber | Highharvestide 106, 1192 DR (17:15) | Skill Check / Combat |
-| **172** | Southern Plagueland Approach / supply caches | Highharvestide 106, 1192 DR (18:15) | Skill Check / Combat |
-| **173** | Dalaran Outskirts - The Violet Underbelly | Highharvestide 106, 1192 DR (19:15) | Skill Check / Combat |
-| **174** | Dalaran - The Violet Vaults (Entrance) | Highharvestide 106, 1192 DR (19:30) | Skill Check / Combat |
-| **175** | Dalaran - The Violet Vaults (Entrance) | Highharvestide 106, 1192 DR (19:30) | Roleplay |
-| **176** | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Skill Check / Combat |
-| **177** | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
-| **178** | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Roleplay |
-| **179** | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
-| **180** | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
-| **181** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
-| **182** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (09:00) | Skill Check / Combat |
-| **183** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (11:30) | Skill Check / Combat |
-| **184** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (12:30) | Skill Check / Combat |
-| **185** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (13:30) | Skill Check / Combat |
-| **186** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (15:30) | Skill Check / Combat |
-| **187** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (15:30) | Roleplay |
-| **188** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (15:30) | Roleplay |
-| **189** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:30) | Skill Check / Combat |
-| **190** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:30) | Skill Check / Combat |
-| **191** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:45) | Skill Check / Combat |
-| **192** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:45) | Roleplay |
-| **193** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:45) | Roleplay |
-| **194** | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (23:45) | Skill Check / Combat |
-| **195** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (09:30) | Skill Check / Combat |
-| **196** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (09:45) | Skill Check / Combat |
-| **197** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (09:45) | Skill Check / Combat |
-| **198** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Skill Check / Combat |
-| **199** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Skill Check / Combat |
-| **200** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Roleplay |
-| **201** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Roleplay |
-| **202** | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Roleplay |
-| **203** | Ravencrest Keep | Highharvestide 117, 1192 DR (16:30) | Skill Check / Combat |
-| **204** | Ravencrest Keep | Highharvestide 117, 1192 DR (16:30) | Skill Check / Combat |
-| **205** | Ravencrest Keep | Highharvestide 117, 1192 DR (16:30) | Skill Check / Combat |
-| **206** | Ravencrest Keep | Highharvestide 117, 1192 DR (17:30) | Skill Check / Combat |
-| **207** | Stormwind City - Stormwind Keep | Highharvestide 117, 1192 DR (18:00) | Skill Check / Combat |
-| **208** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:15) | Skill Check / Combat |
-| **209** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:30) | Skill Check / Combat |
-| **210** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:30) | Skill Check / Combat |
-| **211** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:45) | Skill Check / Combat |
-| **212** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:00) | Skill Check / Combat |
-| **213** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:00) | Skill Check / Combat |
-| **214** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:00) | Skill Check / Combat |
-| **215** | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:15) | Skill Check / Combat |
-| **216** | Kalimdor - Dustwallow Marsh | Highharvestide 117, 1192 DR (20:30) | Skill Check / Combat |
-| **217** | Kalimdor - Dustwallow Marsh | Highharvestide 117, 1192 DR (20:30) | Skill Check / Combat |
-| **218** | Kalimdor - Dustwallow Marsh (Horde Vanguard Camp) | Highharvestide 117, 1192 DR (20:45) | Skill Check / Combat |
-| **219** | Kalimdor - Dustwallow Marsh (Horde Vanguard Camp) | Highharvestide 117, 1192 DR (21:00) | Skill Check / Combat |
-| **220** | Kalimdor - Dustwallow Marsh (Horde Vanguard Camp) | Highharvestide 117, 1192 DR (21:00) | Roleplay |
-| **221** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Skill Check / Combat |
-| **222** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **223** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **224** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **225** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **226** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **227** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **228** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **229** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **230** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **231** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **232** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
-| **233** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Skill Check / Combat |
-| **234** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
-| **235** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
-| **236** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
-| **237** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **238** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **239** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **240** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **241** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **242** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **243** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **244** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **245** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **246** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **247** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
-| **248** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
-| **249** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:20) | Skill Check / Combat |
-| **250** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:30) | Skill Check / Combat |
-| **251** | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **252** | Kalimdor - Dustwallow Marsh (Peripheral Mist Line) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **253** | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **254** | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **255** | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **256** | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **257** | Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **258** | Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **259** | Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold) | Highharvestide 117, 1192 DR (22:30) | Skill Check / Combat |
-| **260** | Western Plaguelands - Andorhal Outskirts (Sunken Redoubt Threshold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **261** | Western Plaguelands - Andorhal Outskirts (Sunken Redoubt Threshold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **262** | Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **263** | Western Plaguelands - Andorhal (Central Silo Bastion) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **264** | Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **265** | Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **266** | Western Plaguelands - Andorhal (Central Silo Bastion Solar) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **267** | Darrowmere River Crossing (Western/Eastern Plaguelands Border) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **268** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Skill Check / Combat |
-| **269** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Social Challenge |
-| **270** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **271** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **272** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **273** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Social Challenge |
-| **274** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
-| **275** | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Boss Surrender |
-| **276** | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:00) | Skill Check / Combat |
-| **277** | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:05) | Skill Check / Combat |
-| **278** | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:20) | Skill Check / Combat |
-| **279** | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
-| **280** | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **281** | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **282** | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Social Challenge |
-| **283** | Stratholme - The Elder Crag Inner Sanctum (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **284** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
-| **285** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **286** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **287** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **288** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **289** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
-| **290** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
-| **291** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
-| **292** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
-| **293** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
-| **294** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
-| **295** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Social Challenge |
-| **296** | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Social Challenge |
+| [**Scene 01**](#scene-1) | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Hearthglen Outpost | Highharvestide 30, 1192 DR (00:15) | Skill Check / Combat |
+| [**Scene 07**](#scene-7) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (00:45) | Skill Check / Combat |
+| [**Scene 08**](#scene-8) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Skill Check / Combat |
+| [**Scene 09**](#scene-9) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Roleplay |
+| [**Scene 10**](#scene-10) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Skill Check / Combat |
+| [**Scene 11**](#scene-11) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:45) | Skill Check / Combat |
+| [**Scene 12**](#scene-12) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:50) | Skill Check / Combat |
+| [**Scene 13**](#scene-13) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:50) | Roleplay |
+| [**Scene 14**](#scene-14) | Hearthglen Outpost (Captain's Tower) | Highharvestide 30, 1192 DR (08:50) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:00) | Skill Check / Combat |
+| [**Scene 16**](#scene-16) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:10) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:10) | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:25) | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:25) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:40) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (10:50) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | The Raven's Roost (Ravencrest Estate) | Highharvestide 32, 1192 DR (11:20) | Skill Check / Combat |
+| [**Scene 23**](#scene-23) | Hearthglen Outpost | Highharvestide 34, 1192 DR (14:00) | Roleplay |
+| [**Scene 24**](#scene-24) | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:00) | Roleplay |
+| [**Scene 25**](#scene-25) | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:00) | Roleplay |
+| [**Scene 26**](#scene-26) | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:15) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | Hearthglen Outpost (Shadow Gate) | Highharvestide 35, 1192 DR (00:15) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:15) | Roleplay |
+| [**Scene 29**](#scene-29) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:15) | Roleplay |
+| [**Scene 30**](#scene-30) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:30) | Roleplay |
+| [**Scene 31**](#scene-31) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:50) | Roleplay |
+| [**Scene 32**](#scene-32) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (08:50) | Roleplay |
+| [**Scene 33**](#scene-33) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (09:10) | Roleplay |
+| [**Scene 34**](#scene-34) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (09:10) | Roleplay |
+| [**Scene 35**](#scene-35) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (09:10) | Roleplay |
+| [**Scene 36**](#scene-36) | Hearthglen Outpost (Sub-Vaults) | Highharvestide 35, 1192 DR (09:35) | Skill Check / Combat |
+| [**Scene 37**](#scene-37) | Hearthglen Outpost (Sub-Vaults) | Highharvestide 35, 1192 DR (09:55) | Roleplay |
+| [**Scene 38**](#scene-38) | Hearthglen Outpost (Sub-Vaults) | Highharvestide 35, 1192 DR (09:55) | Roleplay |
+| [**Scene 39**](#scene-39) | Hearthglen Outpost (Captain's Tower) | Highharvestide 35, 1192 DR (10:15) | Roleplay |
+| [**Scene 40**](#scene-40) | Hearthglen Outpost (Captain's Balcony & Courtyard) | Highharvestide 35, 1192 DR (10:45) | Roleplay |
+| [**Scene 41**](#scene-41) | Hearthglen Outpost (Captain's Tower War Room) | Highharvestide 35, 1192 DR (11:30) | Roleplay |
+| [**Scene 42**](#scene-42) | Hearthglen Outpost (Captain's Tower War Room) | Highharvestide 35, 1192 DR (13:30) | Skill Check / Combat |
+| [**Scene 43**](#scene-43) | The Whispering Shore (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (16:30) | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | The Whispering Shore (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (16:30) | Skill Check / Combat |
+| [**Scene 45**](#scene-45) | The Great Sea (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (18:00) | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | The Great Sea (Aboard the Flagship Shadow's Wake) | Highharvestide 35, 1192 DR (18:00) | Roleplay |
+| [**Scene 47**](#scene-47) | Dragonblight (Frostmourne Cavern - Inner Glacial Dais) | Highharvestide 41, 1192 DR (11:30) | Skill Check / Combat |
+| [**Scene 48**](#scene-48) | Dragonblight (Frostmourne Cavern - Inner Glacial Dais) | Highharvestide 41, 1192 DR (11:45) | Skill Check / Combat |
+| [**Scene 49**](#scene-49) | Dragonblight Coast (Aboard the Flagship Shadow's Wake) | Highharvestide 41, 1192 DR (14:15) | Skill Check / Combat |
+| [**Scene 50**](#scene-50) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
+| [**Scene 52**](#scene-52) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
+| [**Scene 53**](#scene-53) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
+| [**Scene 54**](#scene-54) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
+| [**Scene 55**](#scene-55) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Skill Check / Combat |
+| [**Scene 56**](#scene-56) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake) | Highharvestide 45, 1192 DR (08:30) | Roleplay |
+| [**Scene 58**](#scene-58) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Skill Check / Combat |
+| [**Scene 59**](#scene-59) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 60**](#scene-60) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 61**](#scene-61) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 62**](#scene-62) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 63**](#scene-63) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 64**](#scene-64) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 65**](#scene-65) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 66**](#scene-66) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (22:00) | Roleplay |
+| [**Scene 67**](#scene-67) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
+| [**Scene 69**](#scene-69) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
+| [**Scene 70**](#scene-70) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
+| [**Scene 71**](#scene-71) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
+| [**Scene 72**](#scene-72) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
+| [**Scene 73**](#scene-73) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
+| [**Scene 74**](#scene-74) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:30) | Roleplay |
+| [**Scene 75**](#scene-75) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
+| [**Scene 77**](#scene-77) | The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
+| [**Scene 78**](#scene-78) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 79**](#scene-79) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
+| [**Scene 80**](#scene-80) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
+| [**Scene 81**](#scene-81) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
+| [**Scene 82**](#scene-82) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 83**](#scene-83) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
+| [**Scene 84**](#scene-84) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:45) | Roleplay |
+| [**Scene 85**](#scene-85) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Skill Check / Combat |
+| [**Scene 86**](#scene-86) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Skill Check / Combat |
+| [**Scene 87**](#scene-87) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Roleplay |
+| [**Scene 88**](#scene-88) | Felstone Field (Western Plaguelands) | Highharvestide 66, 1192 DR (23:55) | Skill Check / Combat |
+| [**Scene 89**](#scene-89) | Felstone Field (Captain's Tower Cellar) | Highharvestide 67, 1192 DR (00:05) | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:05) | Skill Check / Combat |
+| [**Scene 91**](#scene-91) | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:05) | Roleplay |
+| [**Scene 92**](#scene-92) | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:20) | Skill Check / Combat |
+| [**Scene 93**](#scene-93) | Felstone Field (Western Plaguelands) | Highharvestide 67, 1192 DR (09:35) | Skill Check / Combat |
+| [**Scene 94**](#scene-94) | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Roleplay |
+| [**Scene 98**](#scene-98) | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (10:15) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (20:15) | Skill Check / Combat |
+| [**Scene 100**](#scene-100) | Gahrron's Withering (Western Plaguelands) | Highharvestide 67, 1192 DR (20:45) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Southshore Docks | Highharvestide 67, 1192 DR (20:45) | Skill Check / Combat |
+| [**Scene 102**](#scene-102) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Skill Check / Combat |
+| [**Scene 103**](#scene-103) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
+| [**Scene 104**](#scene-104) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
+| [**Scene 105**](#scene-105) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
+| [**Scene 106**](#scene-106) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
+| [**Scene 107**](#scene-107) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
+| [**Scene 108**](#scene-108) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Roleplay |
+| [**Scene 109**](#scene-109) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (11:00) | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (12:00) | Skill Check / Combat |
+| [**Scene 111**](#scene-111) | Capital City Cathedral (Lordaeron City) | Highharvestide 84, 1192 DR (12:30) | Skill Check / Combat |
+| [**Scene 112**](#scene-112) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (13:00) | Skill Check / Combat |
+| [**Scene 113**](#scene-113) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Skill Check / Combat |
+| [**Scene 114**](#scene-114) | Capital City Throne Room (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Roleplay |
+| [**Scene 115**](#scene-115) | Capital City Palace (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | Capital City Palace (Lordaeron City) | Highharvestide 84, 1192 DR (15:00) | Roleplay |
+| [**Scene 117**](#scene-117) | Capital City Palace Gardens (Lordaeron City) | Highharvestide 84, 1192 DR (21:00) | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 120**](#scene-120) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 121**](#scene-121) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 122**](#scene-122) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 123**](#scene-123) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 125**](#scene-125) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 126**](#scene-126) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 127**](#scene-127) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 128**](#scene-128) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 129**](#scene-129) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 130**](#scene-130) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
+| [**Scene 131**](#scene-131) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 132**](#scene-132) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 133**](#scene-133) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Capital City Palace - High War Chamber (Lordaeron City) | Highharvestide 84, 1192 DR (23:30) | Roleplay |
+| [**Scene 135**](#scene-135) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
+| [**Scene 136**](#scene-136) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:30) | Skill Check / Combat |
+| [**Scene 137**](#scene-137) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:35) | Skill Check / Combat |
+| [**Scene 138**](#scene-138) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:35) | Skill Check / Combat |
+| [**Scene 139**](#scene-139) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 140**](#scene-140) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 141**](#scene-141) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 142**](#scene-142) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 143**](#scene-143) | Capital City Palace - Royal Gardens | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 144**](#scene-144) | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 145**](#scene-145) | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 146**](#scene-146) | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:40) | Skill Check / Combat |
+| [**Scene 147**](#scene-147) | Cathedral of Light (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 148**](#scene-148) | North Granary Cisterns (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 149**](#scene-149) | North Granary Cisterns (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 150**](#scene-150) | North Granary Cisterns (Lordaeron City) | Highharvestide 84, 1192 DR (23:45) | Roleplay |
+| [**Scene 151**](#scene-151) | Capital City Palace - Captain's Tower | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 152**](#scene-152) | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 153**](#scene-153) | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 154**](#scene-154) | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 155**](#scene-155) | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 156**](#scene-156) | Gahrron's Withering - Cauldron of Malice | Highharvestide 84, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 157**](#scene-157) | Gahrron's Withering - Cauldron of Malice | Highharvestide 85, 1192 DR (00:15) | Skill Check / Combat |
+| [**Scene 158**](#scene-158) | Coalition Forward Base (Gahrron's Withering) | Highharvestide 85, 1192 DR (08:00) | Skill Check / Combat |
+| [**Scene 159**](#scene-159) | Blackwood Logistics Node | Highharvestide 106, 1192 DR (16:00) | Skill Check / Combat |
+| [**Scene 160**](#scene-160) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:05) | Skill Check / Combat |
+| [**Scene 161**](#scene-161) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:10) | Skill Check / Combat |
+| [**Scene 162**](#scene-162) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:11) | Skill Check / Combat |
+| [**Scene 163**](#scene-163) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:21) | Skill Check / Combat |
+| [**Scene 164**](#scene-164) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Skill Check / Combat |
+| [**Scene 165**](#scene-165) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Skill Check / Combat |
+| [**Scene 166**](#scene-166) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Roleplay |
+| [**Scene 167**](#scene-167) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Roleplay |
+| [**Scene 168**](#scene-168) | Blackwood Logistics Node - Command Spire | Highharvestide 106, 1192 DR (16:36) | Social Challenge |
+| [**Scene 169**](#scene-169) | Lordaeron Palace - High War Chamber | Highharvestide 106, 1192 DR (16:47) | Skill Check / Combat |
+| [**Scene 170**](#scene-170) | Lordaeron Palace - High War Chamber | Highharvestide 106, 1192 DR (16:47) | Roleplay |
+| [**Scene 171**](#scene-171) | Lordaeron Palace - High War Chamber | Highharvestide 106, 1192 DR (17:15) | Skill Check / Combat |
+| [**Scene 172**](#scene-172) | Southern Plagueland Approach / supply caches | Highharvestide 106, 1192 DR (18:15) | Skill Check / Combat |
+| [**Scene 173**](#scene-173) | Dalaran Outskirts - The Violet Underbelly | Highharvestide 106, 1192 DR (19:15) | Skill Check / Combat |
+| [**Scene 174**](#scene-174) | Dalaran - The Violet Vaults (Entrance) | Highharvestide 106, 1192 DR (19:30) | Skill Check / Combat |
+| [**Scene 175**](#scene-175) | Dalaran - The Violet Vaults (Entrance) | Highharvestide 106, 1192 DR (19:30) | Roleplay |
+| [**Scene 176**](#scene-176) | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Skill Check / Combat |
+| [**Scene 177**](#scene-177) | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
+| [**Scene 178**](#scene-178) | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Roleplay |
+| [**Scene 179**](#scene-179) | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
+| [**Scene 180**](#scene-180) | Dalaran - The Violet Vaults (Archive Entrance) | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
+| [**Scene 181**](#scene-181) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 106, 1192 DR (19:45) | Social Challenge |
+| [**Scene 182**](#scene-182) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (09:00) | Skill Check / Combat |
+| [**Scene 183**](#scene-183) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (11:30) | Skill Check / Combat |
+| [**Scene 184**](#scene-184) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (12:30) | Skill Check / Combat |
+| [**Scene 185**](#scene-185) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (13:30) | Skill Check / Combat |
+| [**Scene 186**](#scene-186) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (15:30) | Skill Check / Combat |
+| [**Scene 187**](#scene-187) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (15:30) | Roleplay |
+| [**Scene 188**](#scene-188) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 109, 1192 DR (15:30) | Roleplay |
+| [**Scene 189**](#scene-189) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:30) | Skill Check / Combat |
+| [**Scene 190**](#scene-190) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:30) | Skill Check / Combat |
+| [**Scene 191**](#scene-191) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:45) | Skill Check / Combat |
+| [**Scene 192**](#scene-192) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:45) | Roleplay |
+| [**Scene 193**](#scene-193) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (15:45) | Roleplay |
+| [**Scene 194**](#scene-194) | Dalaran - Sub-Sanctum of the Violet Citadel | Highharvestide 112, 1192 DR (23:45) | Skill Check / Combat |
+| [**Scene 195**](#scene-195) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (09:30) | Skill Check / Combat |
+| [**Scene 196**](#scene-196) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (09:45) | Skill Check / Combat |
+| [**Scene 197**](#scene-197) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (09:45) | Skill Check / Combat |
+| [**Scene 198**](#scene-198) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Skill Check / Combat |
+| [**Scene 199**](#scene-199) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Skill Check / Combat |
+| [**Scene 200**](#scene-200) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Roleplay |
+| [**Scene 201**](#scene-201) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Roleplay |
+| [**Scene 202**](#scene-202) | Andorhal Grain Depot | Highharvestide 117, 1192 DR (10:45) | Roleplay |
+| [**Scene 203**](#scene-203) | Ravencrest Keep | Highharvestide 117, 1192 DR (16:30) | Skill Check / Combat |
+| [**Scene 204**](#scene-204) | Ravencrest Keep | Highharvestide 117, 1192 DR (16:30) | Skill Check / Combat |
+| [**Scene 205**](#scene-205) | Ravencrest Keep | Highharvestide 117, 1192 DR (16:30) | Skill Check / Combat |
+| [**Scene 206**](#scene-206) | Ravencrest Keep | Highharvestide 117, 1192 DR (17:30) | Skill Check / Combat |
+| [**Scene 207**](#scene-207) | Stormwind City - Stormwind Keep | Highharvestide 117, 1192 DR (18:00) | Skill Check / Combat |
+| [**Scene 208**](#scene-208) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:15) | Skill Check / Combat |
+| [**Scene 209**](#scene-209) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:30) | Skill Check / Combat |
+| [**Scene 210**](#scene-210) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:30) | Skill Check / Combat |
+| [**Scene 211**](#scene-211) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (18:45) | Skill Check / Combat |
+| [**Scene 212**](#scene-212) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:00) | Skill Check / Combat |
+| [**Scene 213**](#scene-213) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:00) | Skill Check / Combat |
+| [**Scene 214**](#scene-214) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:00) | Skill Check / Combat |
+| [**Scene 215**](#scene-215) | Stormwind Keep - High Council Chamber | Highharvestide 117, 1192 DR (19:15) | Skill Check / Combat |
+| [**Scene 216**](#scene-216) | Kalimdor - Dustwallow Marsh | Highharvestide 117, 1192 DR (20:30) | Skill Check / Combat |
+| [**Scene 217**](#scene-217) | Kalimdor - Dustwallow Marsh | Highharvestide 117, 1192 DR (20:30) | Skill Check / Combat |
+| [**Scene 218**](#scene-218) | Kalimdor - Dustwallow Marsh (Horde Vanguard Camp) | Highharvestide 117, 1192 DR (20:45) | Skill Check / Combat |
+| [**Scene 219**](#scene-219) | Kalimdor - Dustwallow Marsh (Horde Vanguard Camp) | Highharvestide 117, 1192 DR (21:00) | Skill Check / Combat |
+| [**Scene 220**](#scene-220) | Kalimdor - Dustwallow Marsh (Horde Vanguard Camp) | Highharvestide 117, 1192 DR (21:00) | Roleplay |
+| [**Scene 221**](#scene-221) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Skill Check / Combat |
+| [**Scene 222**](#scene-222) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 223**](#scene-223) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 224**](#scene-224) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 225**](#scene-225) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 226**](#scene-226) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 227**](#scene-227) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 228**](#scene-228) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 229**](#scene-229) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 230**](#scene-230) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 231**](#scene-231) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 232**](#scene-232) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Roleplay |
+| [**Scene 233**](#scene-233) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (21:15) | Skill Check / Combat |
+| [**Scene 234**](#scene-234) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
+| [**Scene 235**](#scene-235) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
+| [**Scene 236**](#scene-236) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
+| [**Scene 237**](#scene-237) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 238**](#scene-238) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 239**](#scene-239) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 240**](#scene-240) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 241**](#scene-241) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 242**](#scene-242) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 243**](#scene-243) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 244**](#scene-244) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 245**](#scene-245) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 246**](#scene-246) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 247**](#scene-247) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Roleplay |
+| [**Scene 248**](#scene-248) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:15) | Skill Check / Combat |
+| [**Scene 249**](#scene-249) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:20) | Skill Check / Combat |
+| [**Scene 250**](#scene-250) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:30) | Skill Check / Combat |
+| [**Scene 251**](#scene-251) | Kalimdor - Dustwallow Marsh (Horde Vanguard Hall) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 252**](#scene-252) | Kalimdor - Dustwallow Marsh (Peripheral Mist Line) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 253**](#scene-253) | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 254**](#scene-254) | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 255**](#scene-255) | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 256**](#scene-256) | Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 257**](#scene-257) | Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 258**](#scene-258) | Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 259**](#scene-259) | Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold) | Highharvestide 117, 1192 DR (22:30) | Skill Check / Combat |
+| [**Scene 260**](#scene-260) | Western Plaguelands - Andorhal Outskirts (Sunken Redoubt Threshold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 261**](#scene-261) | Western Plaguelands - Andorhal Outskirts (Sunken Redoubt Threshold) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 262**](#scene-262) | Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 263**](#scene-263) | Western Plaguelands - Andorhal (Central Silo Bastion) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 264**](#scene-264) | Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 265**](#scene-265) | Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 266**](#scene-266) | Western Plaguelands - Andorhal (Central Silo Bastion Solar) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 267**](#scene-267) | Darrowmere River Crossing (Western/Eastern Plaguelands Border) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 268**](#scene-268) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Skill Check / Combat |
+| [**Scene 269**](#scene-269) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Social Challenge |
+| [**Scene 270**](#scene-270) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 271**](#scene-271) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 272**](#scene-272) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 273**](#scene-273) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Social Challenge |
+| [**Scene 274**](#scene-274) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Roleplay |
+| [**Scene 275**](#scene-275) | Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands) | Highharvestide 117, 1192 DR (22:30) | Boss Surrender |
+| [**Scene 276**](#scene-276) | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:00) | Skill Check / Combat |
+| [**Scene 277**](#scene-277) | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:05) | Skill Check / Combat |
+| [**Scene 278**](#scene-278) | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:20) | Skill Check / Combat |
+| [**Scene 279**](#scene-279) | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
+| [**Scene 280**](#scene-280) | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 281**](#scene-281) | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 282**](#scene-282) | Stratholme - King's Square (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Social Challenge |
+| [**Scene 283**](#scene-283) | Stratholme - The Elder Crag Inner Sanctum (Eastern Plaguelands) | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 284**](#scene-284) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
+| [**Scene 285**](#scene-285) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 286**](#scene-286) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 287**](#scene-287) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 288**](#scene-288) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 289**](#scene-289) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Roleplay |
+| [**Scene 290**](#scene-290) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
+| [**Scene 291**](#scene-291) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
+| [**Scene 292**](#scene-292) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
+| [**Scene 293**](#scene-293) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
+| [**Scene 294**](#scene-294) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Skill Check / Combat |
+| [**Scene 295**](#scene-295) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Social Challenge |
+| [**Scene 296**](#scene-296) | Stratholme - Elder Crag Inner Sanctum | Highharvestide 118, 1192 DR (00:30) | Social Challenge |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Hearthglen Outpost** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 78/78 | Gold: 8000gp | XP: 0/300**
@@ -2066,8 +2082,11 @@ Does this character meet your approval, or would you like to make changes?
 > 👤 **Player:**
 > *"Make me dex paladin with stealth friendly armor and focus on dex and cha. 18 dex and 16 cha and spread out the rest and even numbered stats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Hearthglen Outpost** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 30/30**
@@ -2099,8 +2118,11 @@ Lady Nocturne, you are now equipped to lead from the front or strike from the gl
 > 👤 **Player:**
 > *"Make sure my armor and weapons show the stats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Hearthglen Outpost** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, Lay on Hands: 30/30**
@@ -2121,8 +2143,11 @@ Lady Nocturne, your readiness is confirmed. Does this detailed inventory meet yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Hearthglen Outpost** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2145,8 +2170,11 @@ You have not yet decided. You have until the soldiers grow restless.
 God Mode:
 Give me finesse weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Hearthglen Outpost** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14000/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2161,8 +2189,11 @@ I have replaced 'The Pale Dawn' in your main hand with this finesse weapon to be
 > [!NOTE] ⚙️ **Player Choice:**
 > *Public Execution - Descend to the yard and execute the prisoners. Gain +10 Public Dignitas but lose -10 Shadow Favor and all prisoner intelligence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Hearthglen Outpost** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2182,8 +2213,11 @@ You gain **900 XP** for the resolution of the Hearthglen prisoners.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Sylvan (Shadow Stack) - Speak with Sylvan in private about the loss of intelligence and the shadow watching from the gate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2206,8 +2240,11 @@ Sylvan stops polishing. He carefully folds the handkerchief and tucks it into hi
 > 👤 **Player:**
 > *"Let’s narrate a flashback scene where Malganis or whomever my patron is talks to me and I negotiate my vassalage to him and then back to present and long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2241,8 +2278,11 @@ Drake lingers a beat too long, his eyes searching yours for the paragon he needs
 God Mode:
 Give me a good backstory. Why am I the way I am. Why was I vulnerable with malganis and got caught up with him. Let’s assume I sought him out. Then don’t tell me but give some reason why I am a good servant for Malganis maybe make it how my mind and personality is versus some chosen one thing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2261,8 +2301,11 @@ Mal'Ganis does not value you because of some ancient prophecy or 'destined' bloo
 > 👤 **Player:**
 > *"THINK:How to handle Alden"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2276,8 +2319,11 @@ Intelligence Check (Planning): 19 vs DC 8 — Success. Your methodical mind imme
 
 How to handle Alden"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2286,8 +2332,11 @@ How to handle Alden"*
 
 Intelligence Check: 14 vs DC 9 — Success. Your mind works through the problem methodically, weighing each option with practiced logic. As a scion of House Ravencrest, you understand the rhythms of noble sabotage better than most.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2309,8 +2358,11 @@ In the corner of the room, Sylvan polishes a ring, his smile remaining perfectly
 God Mode:
 Who is Alden my brother ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2339,8 +2391,11 @@ Who is Alden my brother ?
 > 👤 **Player:**
 > *"THINK:Is there  way to ally with brother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 30, 1192 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2352,8 +2407,11 @@ Intelligence Check: 16 vs DC 10 — Success. Your strategic mind filters through
 > 👤 **Player:**
 > *"Sovereign entrapment and joint heir but let’s go meet him and probe him first. Let me decide which things to use during the convo but be prepared to use all. Don’t do anything f until i say so"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 14900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2375,8 +2433,11 @@ In the corner, Drake stands at attention, his jaw set. He knows the weight of th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Hint at Prestor - Mention the 'delicate nature' of court correspondence and Lady Katrana's interests without making a direct threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 15000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2398,8 +2459,11 @@ You gain **100 XP** for the tactical probing of your brother's resolve.
 > 👤 **Player:**
 > *"THINK:Best approach ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 15000/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2411,8 +2475,11 @@ Intelligence Check: 17 vs DC 10 — Success. Your mind strips away the layers of
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Best Approach: Sovereign Entrapment (Synergistic) - Combine the threat with the reward. Use the blackmail to break his will, then offer the Joint Heir pact as his only salvation. Dismiss Drake first to ensure no witnesses to the leverage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 15000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2441,8 +2508,11 @@ You gain **150 XP** for the high-stakes confrontation.
 > 👤 **Player:**
 > *"THINK:Don’t I have more blackmail material?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 15000/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2454,8 +2524,11 @@ Intelligence Check: 18 vs DC 5 — Success. Your mind, trained from childhood to
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dragon's Double-Play - Show Alden the letter from Katrana to Marcus. Prove that his 'partner' is courting his father behind his back.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 15900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2483,8 +2556,11 @@ You gain **900 XP** for shattering your brother's tactical confidence.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer the Joint Heir Pact - Leverage his current despair. Offer him the Ravencrest Earldom in exchange for his administrative shielding and loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 16800/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2516,8 +2592,11 @@ You gain **900 XP** for converting a Hostile Rival into a political proxy.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Delegation (Synergistic) - Perform the public reconciliation to stabilize the room, then privately order Alden to Stormwind with a curated list of targets in House Prestor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Raven's Roost (Ravencrest Estate)** &nbsp;|&nbsp; ⏳ **Highharvestide 32, 1192 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 17700/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2549,8 +2628,11 @@ You gain **900 XP** for executing the Sovereign's Delegation and securing your b
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dual-Crown March (Synergistic) - Order Drake to begin the return march to Hearthglen while using the Raven Signet to privately instruct Sylvan to expand Andorhal's output under Alden's new clearance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Hearthglen Outpost** &nbsp;|&nbsp; ⏳ **Highharvestide 34, 1192 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 17950/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2574,8 +2656,11 @@ The two-day return march passes in swift, disciplined order. By the afternoon of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Paragon Tour & Midnight Vigil (Synergistic) - Perform a visible inspection of the camp with Drake and Lyra during the afternoon, then take the midnight watch at the Shadow Gate with Sylvan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Hearthglen Outpost (Shadow Gate)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 17950/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2601,8 +2686,11 @@ Malachar bows low, his joints making a dry, clicking sound like dry twigs. "Capt
 God Mode:
 Make planning blocks encouraging me to long rest at night or appropriate times and during long rest I want to have opportunities to talk to companions like in bg3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Hearthglen Outpost (Shadow Gate)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 17950/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2614,8 +2702,11 @@ Directive registered. From now on:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Malachar's Terms - Demand the exact details of Malachar's intelligence and his required price for sanctuary under the Pale Choir.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Hearthglen Outpost (Shadow Gate)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2647,8 +2738,11 @@ You gain **300 XP** for breaking the defector's posturing and securing actionabl
 > 👤 **Player:**
 > *"THINK:Is he telling truth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Hearthglen Outpost (Shadow Gate)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2660,8 +2754,11 @@ Wisdom Check (Insight/Tactical Assessment): 15 vs DC 8 — Success. Your instinc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stow Defector & Take Long Rest with Companion Dialogue - Have Sylvan secure Malachar in the underground vaults, then return to the Captain's Tower to conduct evening camp interactions with Drake, Lyra, and Sylvan before resting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2687,8 +2784,11 @@ Morning (08:15:00) breaks over Hearthglen in sharp shafts of pale gold. Outside,
 God Mode:
 I want time sorta paused after long rest like sanctuary mechanic where I can talk to companions and relax
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2698,8 +2798,11 @@ Directive registered and Sanctuary Mode activated. From now on, completing a Lon
 > 👤 **Player:**
 > *"Let’s do the companion discussions now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2717,8 +2820,11 @@ The room is quiet, free from external alarm, waiting on your command.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Converse with Sylvan the Pale (Shadow Liaison) - Join Sylvan at the map table to interrogate the Frostmourne ward key and analyze Mal'Ganis's strategic motives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2744,8 +2850,11 @@ Sylvan’s thin lips curve into a razor-fine smile. "A seamless deflection, my L
 God Mode:
 Let’s assume all companions know i play both sides but have varying reactions. Some like it but drake somewhat doesn’t approve but goes along with it. I don’t need to fully keep it a secret from him but it’s good not to rub it in his face
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2762,8 +2871,11 @@ Retinue dynamic updated and directive established:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Converse with Captain Drake (Public Shield) - Sit by the hearth with Drake to discuss House Ravencrest's standing, his memories of Marcus, and his tactical readiness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2785,8 +2897,11 @@ Across the solar, Lyra continues her soft humming near the shrine, the peaceful 
 God Mode:
 During this companion sanctuary discussion mode let’s always show a planning block option to end it or end it if I attack a companion or do something antagonistic to an enemy
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | XP: 18250/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -2798,8 +2913,11 @@ Directive registered:
 God Mode:
 What’s the first war? Warcraft 1?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2822,8 +2940,11 @@ Yes, exactly. The **First War** corresponds directly to the events of the origin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Sub-Vaults with Sylvan - Leave Drake and Lyra in the solar and descend to vault four with Sylvan to interrogate Malachar and test the runic key.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Hearthglen Outpost (Sub-Vaults)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2849,8 +2970,11 @@ Malachar shudders under your steady gaze. "I was given the key by an emissary wh
 > 👤 **Player:**
 > *"Plan with sylvan how to obtain ftostmoutnr and if w should ask Malganis for help or just get it first and show him we are indep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Hearthglen Outpost (Sub-Vaults)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2874,8 +2998,11 @@ He leans closer, his thin lips curling into a sharp, expectant smile.
 God Mode:
 How come arthas doesn’t have frostmoutne?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Hearthglen Outpost (Sub-Vaults)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2899,8 +3026,11 @@ In this alternate Third War timeline, the campaign begins in the immediate after
 > 👤 **Player:**
 > *"Stay in sanctuary mode and get to know Lyra"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Hearthglen Outpost (Captain's Tower)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Sanctuary (Camp Downtime) | Exhaustion: 0 | Inspiration: No**
@@ -2920,8 +3050,11 @@ A faint, self-deprecating smile touches her lips, though her fingers tremble sli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Spiritual Consolation & Camp Readiness (Synergistic) - Offer heartfelt reassurance regarding Quel'Thalas while providing her with detachment medical directives before concluding downtime to assemble the guard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Hearthglen Outpost (Captain's Balcony & Courtyard)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2945,8 +3078,11 @@ Captain Drake plants the black-and-silver banner at the parapet rail, the raven'
 > 👤 **Player:**
 > *"Make nice with companions and end sanctuary. Let’s plan with companions and top lieutenants an operation to go and take frostmoutne and put everything I have into it all resources and equip myself and companions with the best gear and bring 80% of my elite troops"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Hearthglen Outpost (Captain's Tower War Room)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 8000gp | XP: 18250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2966,8 +3102,11 @@ The lieutenants salute in unison. The 4th Detachment's elite core is mobilized, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Charter Blockade-Runners at North Coast - Send Sylvan and advance scouts to the northern coves to secure fast transport vessels for the Northrend crossing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Hearthglen Outpost (Captain's Tower War Room)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 6000gp | XP: 18550/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2983,8 +3122,11 @@ Moreover, Sylvan reports that the cove is clear of Kirin Tor naval scrying senso
 > [!NOTE] ⚙️ **Player Choice:**
 > *March Vanguard to Embarkation Cove - Lead the elite 80% vanguard overland through the northern ridges to board the chartered blockade-runners immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Whispering Shore (Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 6000gp | XP: 18550/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3004,8 +3146,11 @@ As the mooring lines are cast off and the dark canvas catches the northern gale 
 > 👤 **Player:**
 > *"THINK:If Malganis discovers us would he try to stop us? What’s the biggest risk to me acquiring frostmourne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Whispering Shore (Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 6000gp | XP: 18550/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3017,8 +3162,11 @@ Intelligence Check (Planning): 15 vs DC 14 — Success (Margin: +1, Competent an
 > 👤 **Player:**
 > *"Focus on anti corruption and being able to safely claim it and have spies make plans to delay or misdirect Arthas"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Great Sea (Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 (Temp: 0) | Gold: 6000gp | XP: 18550/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, Lay on Hands: 30/30, Channel Divinity: 2/2, Sovereign Inspiration: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3043,8 +3191,11 @@ The double-layered plan settles over the cabin like an iron lock. With the blade
 God Mode:
 Stop calling scourge or forsaken sentient that’s just the default situation. The undead aren’t ugly mindless monsters in this universe
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Great Sea (Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 35, 1192 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 6000gp | XP: 18550/23000**
@@ -3054,8 +3205,11 @@ Directive registered. The Scourge and Forsaken will no longer be described with 
 > 👤 **Player:**
 > *"Let’s assume I make reasonable and practical choices and my council does as well. Time skip a few days or weeks and don’t forget to long rest and roll multiple times for outcomes. Stop when I get to frostmourne or some serious complication occurrs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Dragonblight (Frostmourne Cavern - Inner Glacial Dais)** &nbsp;|&nbsp; ⏳ **Highharvestide 41, 1192 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 (Temp: 0) | Gold: 6000gp | XP: 19300/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, Lay on Hands: 30/30, Channel Divinity: 2/2, Sovereign Inspiration: 0/1** &nbsp;|&nbsp; ⚠️ **Arctic Environment | Exhaustion: 0 | Inspiration: No**
@@ -3082,8 +3236,11 @@ You gain **750 XP** for the successful naval crossing, arctic navigation, and br
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract and Seal in Consecrated Reliquary - Use the prepared holy reliquary and warding silks to encase Frostmourne as you draw it, containing its soul-curse before touching the bare steel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Dragonblight (Frostmourne Cavern - Inner Glacial Dais)** &nbsp;|&nbsp; ⏳ **Highharvestide 41, 1192 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 | Gold: 6000gp | XP: 20100/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30 | Channel Divinity: 2/2 | Sovereign Inspiration: 0/1** &nbsp;|&nbsp; ⚠️ **Arctic Environment | Exhaustion: 0 | Inspiration: No**
@@ -3107,8 +3264,11 @@ You gain **800 XP** for safely extracting and securing Frostmourne.
 > 👤 **Player:**
 > *"Extract to nearest safe location where I can figure out how to safely use it and then plan with Lyra and all my top mages how to de link it from lich king and align with my living undead resonance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Dragonblight Coast (Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 41, 1192 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 (Temp: 0) | Gold: 6000gp | XP: 20500/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30 | Channel Divinity: 2/2 | Sovereign Inspiration: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3132,8 +3292,11 @@ The blueprint for forging the Pale Crown's ultimate weapon is established. The r
 > 👤 **Player:**
 > *"Narrate going through all stages and timeskip until done or there is a complication. Assume I use all resources and abilities and spells and companions at my disposal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 72/72 (Temp: 0) | Gold: 6000gp | XP: 21400/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 30/30 | Channel Divinity: 2/2 | Sovereign Inspiration: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3157,8 +3320,11 @@ You gain **900 XP** for the successful de-linking and sovereign binding of Frost
 God Mode:
 Give me proper new powers and abilities and massive exp for getting frostmourne. Let’s assume for now it’s weaker without lich king power but there should be future quests or ways for it to get the canonical power. In canon what did it give
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 36400/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3205,8 +3371,11 @@ Because your retinue severed Ner'zhul's telepathic clamp and filtered the soul c
 God Mode:
 It should be +3 finesse special bastard sword or great sword depending on how i wield it. It should have one defensive frost related feature maybe frost armor buff and one offensive maybe 1d10 frost damage on swing? Let’s make it balanced for a magical weapon that’s not linked to lich king yet and give me campaign missions and milestones maybe every 5 levels or up to to level 25 where it can get the full powers Arthas has in world Warcraft and what level is Arthas now and what is he doing is he still “good”? Make him morally grey etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 36400/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3251,8 +3420,11 @@ Your blade has been re-tuned according to your exact specifications:
 God Mode:
 Make sure I have it equipped
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 36400/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3274,8 +3446,11 @@ Equipped *Frostmourne (De-Linked & Sovereign Bound)* to your Main Hand.
 God Mode:
 Make my defensive feature passive like stronger armor of agythas and lets favor passive bs active features in general
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 36400/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3295,8 +3470,11 @@ Make my defensive feature passive like stronger armor of agythas and lets favor 
 > 👤 **Player:**
 > *"THINK:Now that I have frostmourne how to best use it to gain more power and influence? Should I meet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 36400/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3308,8 +3486,11 @@ Intelligence Check (Strategic Planning): 14 vs DC 12 — Success. Your calculate
 > 👤 **Player:**
 > *"THINK:Now that I have frostmourne how to best use it to gain more power and influence? Should I meet Up with Arthas and somehow make him my minion or shadow control him. What does Malganis want again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 36400/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3321,8 +3502,11 @@ Intelligence Check (Strategic Synthesis): 16 vs DC 12 — Success (beat DC by 4)
 God Mode:
 Make frostmourne general +2 AC and eventually its properties increase every time I power it up and at level 25 it’s a +5 weapon etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **The Whispering Shore (Lordaeron Coast - Aboard the Flagship Shadow's Wake)** &nbsp;|&nbsp; ⏳ **Highharvestide 45, 1192 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 36400/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3360,8 +3544,11 @@ Every time you advance in level milestones and complete the corresponding power 
 > 👤 **Player:**
 > *"Send majority of forces home and bring only most loyal and my undead forces. Travel through lands held by the undead and use my aura and frostmourne to see who declares genuine loyalty to me versus not. Time skip a few weeks and let em roll multiple times to see what happens and in parallel send word to Malganis I’ve fully claimed frostmourne and narrate a meeting with him where he realizes how strong I am and we plan next steps. I ask him for dread lord rank or the max rank I can get in the infernal/undead hierarchy which should be high now that I have frodrmourne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 (Temp: 0) | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40 | Channel Divinity: 2/2 | Sovereign Inspiration: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3392,8 +3579,11 @@ You gain **1,200 XP** for subverting regional undead networks and establishing t
 God Mode:
 Summarize my undead and regular forces and territories and vassals now.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3449,8 +3639,11 @@ Here is the comprehensive audit and breakdown of your forces, holdings, and vass
 God Mode:
 What are the infernal or undead ranks again? I shoukd probably get benefits for my new rank and what’s Malganis rank compared to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3498,8 +3691,11 @@ In alignment with your directive favoring passive features and persistent auras,
 God Mode:
 Raven rest keep probably should count as my father’s holding and not mine. What about the undead who swore vassalage to me versus those who didn’t?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3538,8 +3734,11 @@ During your three-week screening circuit across the Plaguelands with *Frostmourn
 God Mode:
 Make my companions always minimum 2 levels below me and max level 20. Don’t reduce the level for anyone just only increase it going forward
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3561,8 +3760,11 @@ Persistent directive has been added to enforce this progression rule across all 
 God Mode:
 Which area is my primary undead seat?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3583,8 +3785,11 @@ Your primary undead seat is **The Ruins of Stratholme (Shadow Court)**, specific
 God Mode:
 What different groups of undead are there and which areas became loyal to me versus not
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3650,8 +3855,11 @@ What different groups of undead are there and which areas became loyal to me ver
 God Mode:
 Shouldn’t some actual areas or holdings undead have defectsed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3689,8 +3897,11 @@ Shouldn’t some actual areas or holdings undead have defectsed
 God Mode:
 Shouldn’t some actual areas or holdings undead have defectsed To me with frodtmourne ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | XP: 37600/48000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -3740,8 +3951,11 @@ Beyond the physical strongholds garrisoned directly by your sworn troops, your e
 > 👤 **Player:**
 > *"Plan grand strategy with my council and companions. Inwill personally and publicly lead my living forces against lich king or hostile undead until they die or surrender and use frost mourners abilities on them. Let’s assume I can usually mask frostmourne as a high tier blade but it should stand out the more I use it. In parallel I have my undead commanders also secretly attack the same undead from lich king or kelthuzad. I will win major victories for living and seek elevation and higher noble rank there while I purge hostile undead. Eventually after all undead are loyal to me I’ll seek “peace” and be seen as the great peace unifier who ended the war. While this happens will either misdirect Arthas to hostile undead using spies or even “ally” with him and do joint missions."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 (Temp: 0) | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40 | Channel Divinity: 2/2 | Sovereign Inspiration: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3769,8 +3983,11 @@ Sylvan dips his head in a low, reverent bow, closing his ledger. "A grand design
 God Mode:
 All the infernal ranks confuse me. Let’s just use () to remind me the tier like (duke) how do these map. Normal soldier, men arms, landed knight, baron count marquis duke archduke king emperor maybe arch emperor of burning legion have a big leader
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3801,8 +4018,11 @@ God Mode:
 Why is much king higher rank than Malganis is that cannon? 
  Shoukd I really be king tier? How does my status and forces compare to other king tier infernals or even dukes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | XP: 37600/48000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -3840,8 +4060,11 @@ Yes. Your 'King' status (Tier 3) is derived from **Sovereignty**, not just raw t
 God Mode:
 What’s pale choir resonance is that canon?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | XP: 37600/48000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3**
@@ -3865,8 +4088,11 @@ In this campaign, **Pale Choir Resonance** is the localized telepathic frequency
 God Mode:
 I think this is weird if I am a king and Malganis is an archduke technically he’s my boss
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3884,8 +4110,11 @@ The corresponding directive has been replaced to enforce this corrected notation
 God Mode:
 Ok so malganis should have some dukes and below reporting to me. Like is kelthusad technically my subordinate now? And I shoukd prob get granted land holdings bigger than the dukes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3912,8 +4141,11 @@ Your current sovereign domain is already larger and more strategically diverse t
 God Mode:
 There should be a big disadvantage to balance my undead control and frostmourne power. It should really stand out since it’s diffrent than what the lich king is doing and what all the dread lords are supposed to be backing and shoukd make me a lot of enemies. What’s the Malaganis end game. Wouldn’t he get in trouble for this too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3941,8 +4173,11 @@ Mal'Ganis is not just a demon; he is a Nathrezim 'Strategist-Accountant.'
 God Mode:
 Let’s give me a special class like living death knight and do I have special powers as I level up to 25 already? Let’s reconfirm
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | XP: 37600/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 0/10 | Spells: L1 4/4, L2 3/3**
@@ -3976,8 +4211,11 @@ Your path to becoming the absolute monarch of Lordaeron is established. You curr
 > 👤 **Player:**
 > *"Continue war council. Explain the grand strategy is to actually repel the obvious kiljaeden invasion with forces of good and then just establish shadow control and some direct control over remaining undead and achieve “peace” and probably find  way to beat lich king and absorb powers without somehow getting Malganis in trouble or just consuming his soul if needed when I am strong enough so I don’t need him if it comes to that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 0/10 | HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4003,8 +4241,11 @@ A heavy, reverent silence settles over the chapel. Lyra Moon-Whisper (Priestess)
 God Mode:
 Since Kelthuzad reports to me should he be considered hostile? Or actually maybe the official chain of command shouldn’t report to me because then Malganis betrayal obvious ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4033,8 +4274,11 @@ Mal'Ganis protects himself from the **Triumvirate (High Kings)** by framing your
 God Mode:
 Ok let’s assume I’m planing to weaken or kill undead like kelthuzad or anyone who would report me or not be truly loyal
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Ruins of Stratholme (Shadow Court - Ruby Dragonshrine Chapel)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 37600/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4060,8 +4304,11 @@ I have added the **Vacancy Trigger** to your active constraints and directives t
 > 👤 **Player:**
 > *"Long rest and then start the grand strategy. My undead commands strike a good target and I lead the living in the same strike. If it’s someone who reports to me officially like kelthuzad I say it’s to gain the trust of the living. In parallel I use spies to try to redirect Arthas to strike against undead who aren’t compliant to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 38050/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 1/10 | HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4086,8 +4333,11 @@ You gain **450 XP** for the successful redirection of the Prince and the initial
 God Mode:
 How about archimonde what is he doing and where are we in Warcraft timeline now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 38050/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 1/10 | HD: 8/8 | Spells: L1 4/4, L2 3/3**
@@ -4114,8 +4364,11 @@ Archimonde represents the **Legion Orthodoxy**. If he is summoned before you hav
 God Mode:
 Shouldn’t I have more spells as level 8 paladin? Also show my paladin abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 38050/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4155,8 +4408,11 @@ As a Living Death Knight, you possess a hybrid suite of Silver Hand righteousnes
 God Mode:
 Auto pick spells for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 38050/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 1/10 | HD: 8/8 | Spells: L1 4/4, L2 3/3**
@@ -4170,8 +4426,11 @@ I have selected 3 additional spells to fill your preparation capacity of 8. Your
 > 👤 **Player:**
 > *"Make sure we use combat agent and attack the enemy commander normally using all my attacks and extra attacks and radiant smites etc and don’t use any undead powers that are obvious. If I can subtly use pale choir on him then do it if it not don’t. Narrate outcomes and don’t forget any turns from enemies or my forces during this battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 38050/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3 | Lay on Hands: 40/40 | Discordance: 1/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 1/10 | Exhaustion: 0 | Inspiration: No**
@@ -4203,8 +4462,11 @@ Across the field, your Stormwind Vanguard (Vanguard) grinds into the skeletal ra
 God Mode:
 Did you forget to let enemies attack and my forces and enemy forces take their turns?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | Gold: 6000gp | XP: 38050/48000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 1/10 | Exhaustion: 0 | Inspiration: No**
@@ -4236,8 +4498,11 @@ You are correct. While the previous narrative described the clash of the vanguar
 God Mode:
 Radiant smites shouldn’t use discordance right ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | XP: 38050/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 0/10 | Spells: L1 3/4, L2 3/3**
@@ -4251,8 +4516,11 @@ Correct. Radiant Smite is the primary mechanism of your Public Stack (Silver Han
 > 👤 **Player:**
 > *"Keep fighting and timeskip until I win or I get seriously hurt or something goes wrong. Don’t use any discordance things and just use normal paladin abilities like top level radiant smite etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 73/88 | Gold: 6000gp | XP: 39550/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 2/4, L2 0/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Exhaustion: 0 | Inspiration: No**
@@ -4316,8 +4584,11 @@ Across the field, your Stormwind Vanguard (Vanguard) executes a clean sweep of t
 > 👤 **Player:**
 > *"Try to get remaining enemy forces to surrender and secretly use pale choir on them. Or would all undead already know about my pale choir?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 73/88 | Gold: 6000gp | XP: 40750/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 1/10 | HD: 8/8 | Spells: L1 2/4, L2 0/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Void Discordance: 1/10 | Exhaustion: 0 | Inspiration: No**
@@ -4343,8 +4614,11 @@ You gain **1,200 XP** for the tactical subversion of the Felstone cohort.
 God Mode:
 What are these skeletons? I thought I said no mindless undead and the don’t look like monsters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 73/88 | Gold: 6000gp | XP: 40750/48000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Exhaustion: 0 | Inspiration: No**
@@ -4367,8 +4641,11 @@ From this point forward, all undead interactions will emphasize their civilized 
 > 👤 **Player:**
 > *"Talk to the undead who surrendered privately and ask them about the lich king’s plans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 66, 1192 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 73/88 | Gold: 6000gp | XP: 40750/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 2/4, L2 0/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Void Discordance: 1/10 | Exhaustion: 0 | Inspiration: No**
@@ -4401,8 +4678,11 @@ Your Insight (23) confirms the soldier's sincerity. He is not merely a thrall; h
 > 👤 **Player:**
 > *"Talk to the undead who surrendered privately and ask them about the lich king’s plans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Felstone Field (Captain's Tower Cellar)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 73/88 | Gold: 6000gp | XP: 40750/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 2/4, L2 0/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Void Discordance: 1/10 | Exhaustion: 0 | Inspiration: No**
@@ -4429,8 +4709,11 @@ Outside, the cleaning fires are beginning to die down, and the heavy thud of Cap
 > 👤 **Player:**
 > *"Plunder archives and plan ambush for auditor. See if we can trigger surprise round and long rest if there’s time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 42150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Exhaustion: 0 | Inspiration: No**
@@ -4457,8 +4740,11 @@ You gain **1,400 XP** for the masterful strategic preparation and archive plunde
 God Mode:
 Did I get to steal the undead commanders soul with frost mourns and if so what abilities do ingef
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 42150/48000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10**
@@ -4477,8 +4763,11 @@ I have updated your `resource_registry` and `features` list to reflect these gai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confer with Captain Drake - Discuss the moral weight of the 'Shattered' Cohort and maintain his loyalty before the battle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 43350/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sanctuary Active**
@@ -4504,8 +4793,11 @@ You gain **1,200 XP** for the masterful stabilization of your Public Shield's lo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confer with Lyra Moon-Whisper - Discuss the 'miracle' of the field's purification to maintain her theological faith.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Felstone Field (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 44550/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sanctuary Active**
@@ -4529,8 +4821,11 @@ You gain **1,200 XP** for reinforcing Lyra's theological loyalty during the sanc
 > 👤 **Player:**
 > *"Trigger ambush and before I prepare captain drake to help me rebrand the undead forces I have to reclaimed. Even if they’re undead they will still have previous loyalties and loved ones and friends and families form when they were alive and my control preserves their autonomy. Let’s assume most of them are loyal to me and wouldn’t reveal my undead powers because if I die they go back to lich too too. Roll persuasion to see if we get a unified force bonus before ambush and either way trigger ambush and try to sue command grovel on Kalia to end things early and have the surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Gahrron's Withering (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 44550/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 3/3 | Lay on Hands: 40/40 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Unified Force Bonus (+2 Atk)**
@@ -4561,8 +4856,11 @@ The word hits her like a physical weight. Kalia's spectral form flickers, her ad
 God Mode:
 Let’s assume the reclaimed branding grows as time goes on. The most morally good people on living side will like it and want peace with reclaimed and some powers will hate them etc and mistrust them.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Gahrron's Withering (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight (Oath of the Deceiver) | HP: 88/88 | XP: 44550/48000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 3/4, L2 3/3**
@@ -4579,8 +4877,11 @@ I have persisted this rule as an active directive.
 > 👤 **Player:**
 > *"Unleash radiant smites and everyone focus fire Kalia and dps her until almost dead and see if she surrenders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Gahrron's Withering (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 45950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 3/3 | Lay on Hands: 40/40 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Unified Force Bonus (+2 Atk)**
@@ -4617,8 +4918,11 @@ You gain **1,400 XP** for the masterful execution of the surprise round.
 God Mode:
 Let’s assume the living don’t know I actually control the reclaimed undead. The reclaimed obviously know but realize I grant them autonomy versus control them and will be mostly loyal since revealing me could mean they go back to lich king control
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Gahrron's Withering (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 45950/48000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Unified Force Bonus (+2 Atk)**
@@ -4632,8 +4936,11 @@ Administrative Update: Information Asymmetry and Reclaimed Loyalty logic establi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Formal Surrender - Force Kalia to acknowledge the Pale Crown's authority and defect, bringing her Duke-tier administrative intel into the shadow stack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Gahrron's Withering (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Living Death Knight | HP: 88/88 | Gold: 6000gp | XP: 47450/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 3/3 | Lay on Hands: 40/40 | Souls: 1/10 | Discordance: 10/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 10/10 | Exhaustion: 1 (Mask Shatter) | Unified Force Bonus (+2 Atk)**
@@ -4659,8 +4966,11 @@ You gain **1,500 XP** for the subversion of a high-tier Scourge Administrator.
 > 👤 **Player:**
 > *"Delegate kalia intelligence to have sylvan and others utilize it. Tell my commanders to secure this new area and surrounding areas enough so I can go back to lordareon and possibly storm wind and rally a coalition of the living to defeat the orthodox undead and get the book of medhiv and any other key artifacts etc. then long rest once orders given"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Gahrron's Withering (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 48850/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sanctuary Active**
@@ -4685,8 +4995,11 @@ You gain **1,400 XP** for the strategic securement of the sector and the success
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plan the Coalition with Lyra - Consult Lyra on how to frame the 'Reclaimed' to the Silver Hand and Kirin Tor to maximize public buy-in.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Gahrron's Withering (Western Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 49250/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sanctuary Active**
@@ -4712,8 +5025,11 @@ You gain **400 XP** for the strategic alignment of your retinue's rhetoric.
 > 👤 **Player:**
 > *"Strategy meeting. Plan which minimal conquests I need to personally lead and ensure before I can go back to lordaronnand stormeind to rally a larger force. Let’s assume word of victories have spread throughout the living kingdoms and tales of the forgiven / reclaimed like somehow perhaps I am favored by the gods and undead are likely to break control and become themselves again if I am involved. Narrate discussion and reactions from various world leaders without me present and lets time skip a few days or weeks and roll to see outcomes for me and if I am able to secure enough victories or areas with my combined living and reclaimed forces to stabilize the area and return to living kingdoms to rally support"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Southshore Docks** &nbsp;|&nbsp; ⏳ **Highharvestide 67, 1192 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 51170/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sovereignty Ascendant**
@@ -4751,8 +5067,11 @@ You gain **1,920 XP** for the masterfully executed stabilization campaign.
 > 👤 **Player:**
 > *"Hold a meeting in lordaeron court with the king and bring the forgiven with the most ties to the people there. Say I don’t know why but it seems like the lich king control is broken when I do battle and let the forgiven reunite their ties with the living and even return to their homes if alllowed. Assume most human nobles and even leaders from other races and factions come becuse they are curious. Let’s roll to see if Arthas is here and my great victories may undermine him becuse he had to cull stratholm and it makes him sound less justified and potentially he may become subordinate to me militarily if I win some rolls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 52770/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sovereignty Ascendant | Coalition Founder**
@@ -4779,8 +5098,11 @@ You gain **1,600 XP** for the masterful strategic subversion of the Lordaeron Co
 God Mode:
 Isn’t it king Terenas
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 52770/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -4798,8 +5120,11 @@ In the current scene, Lord Bartholas Menethil is the administrative authority yo
 God Mode:
 Stop calling him emperor call him lich king(emperor) use the themed rank first then the core rank in brackets
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 52770/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sovereignty Ascendant | Coalition Founder**
@@ -4809,8 +5134,11 @@ Administrative Update: Nomenclature protocol updated. I will no longer refer to 
 God Mode:
 Didn’t Arthas get frostmorune first and then kill the king? If that didn’t happen should the king be dead ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 52770/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Souls: 1/10 | Sovereignty Ascendant | Coalition Founder**
@@ -4830,8 +5158,11 @@ You have identified a significant divergence point in this campaign's history. H
 God Mode:
 This could make sense but why would Arthas kill his father without frost mourns? Nothing magically corrupted him yet so shouldn’t he just be a ruthless military leader
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 52770/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -4851,8 +5182,11 @@ Your observation is astute—in the original timeline, Frostmourne was the engin
 God Mode:
 Don’t anchor on the current situation actually explore in more detail does this even make sense? Arthas kills his father and listens to the loch king why? What side is he even on. What’s his goal? Could it make more sense for him to not be killing his father and just staying as a ruthless military commander frustrated he doesn’t have frostmourne? The lich king thing doesn’t really make sense why would he be able to corrupt him without frodtmourne link
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 52770/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -4900,8 +5234,11 @@ Burning Legion / Demons
 •  Kil’jaeden (appears mainly in Frozen Throne)
 •  Mannoroth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 52770/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -4922,8 +5259,11 @@ I have updated the campaign continuity to reflect that your meeting in the Lorda
 > 👤 **Player:**
 > *"Redo narration. Jaina and uther especially should be touched by the miracle and realize stratholme didn’t need to be culled potentially"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 54570/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Sovereignty Ascendant | Coalition Founder**
@@ -4950,8 +5290,11 @@ You gain **1,800 XP** for the legendary psychological subversion of the Alliance
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Grand Design (Synergistic) - Have Lyra lead the prayer for the Forgiven in the nave while you and Sylvan negotiate the technical details of the Pact with the council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 56170/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Sovereignty Ascendant | Coalition Founder**
@@ -4974,8 +5317,11 @@ You gain **1,600 XP** for the formal founding of the Living-Undead Coalition.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Reclaimed Families - Step onto the cathedral balcony and personally oversee the first batch of 'Forgiven' returning to their ancestral homes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Capital City Cathedral (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 56650/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Sovereignty Ascendant | Coalition Founder**
@@ -4997,8 +5343,11 @@ You gain **480 XP** for the public consolidation of the Reclaimed Doctrine.
 > 👤 **Player:**
 > *"Ask the king and alliance leadership to name me arch duke and give me holdings in lordareon. I will win the war if they also commit troops and try to reclaim as much undead as possible so its a moral victory but we need a grand alliance force between humans and elves and dwarves and gnomes and maybe even horde and orcs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 58250/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 1/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 1/10 | Sovereignty Ascendant | Archduke Candidate**
@@ -5025,8 +5374,11 @@ You gain **1,600 XP** for the strategic escalation of the Pale Crown's mandate.
 > 👤 **Player:**
 > *"Synergistic archduke first decree and delegate someone formalizing western holdings and delegate sending envoy to stormwind telling my family and the king about my new rank and asking for military support to win and resim"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 59350/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 2/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 2/10 | Sovereignty Ascendant | Archduke-Designate**
@@ -5055,8 +5407,11 @@ You gain **1,100 XP** for the administrative securing of the Western Plaguelands
 God Mode:
 Is terenas the name of stormind king?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Capital City Throne Room (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 59350/64000**
@@ -5070,8 +5425,11 @@ The King of **Stormwind** (your character's home kingdom) is Varian Wrynn. While
 > 👤 **Player:**
 > *"Let’s long rest and time skip a few days and roll persuasion to see if my new rank becomes official. I plan with Jaina and uther and anyone else bought in and the regent how to bring the other living kingdoms into the alliance. Let’s roll to see if elves orcs dwarves or gnomes just join up already too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Capital City Palace (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 60350/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 0/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 0/10 | Sovereign Unifier | Archduke-Designate**
@@ -5097,8 +5455,11 @@ You gain **1,000 XP** for the expansion of the Coalition and the integration of 
 God Mode:
 Is Jaina leader kirin tor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Capital City Palace (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 60350/64000**
@@ -5114,8 +5475,11 @@ Jaina operates as a field commander and diplomatic liaison for the Kirin Tor, wh
 > 👤 **Player:**
 > *"Meet horde observers and use sibling leverage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Capital City Palace Gardens (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 61550/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 3/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5151,8 +5515,11 @@ The Archduke's Council (Synergistic) - Appoint your governors while instructing 
 
 The Archduke's Council (Synergistic) - Appoint your governors while instructing Kalia to begin the counter-audit of the Scourge investigators.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 62450/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5179,8 +5546,11 @@ You gain **900 XP** for formalizing the Ducal Administration and establishing th
 God Mode:
 How much income daily now that I am archduke for living and dead.? How many troops? I should probably get some special exp troops income etc although maybe the lordaeron lands are ravaged by now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 62450/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5206,8 +5576,11 @@ Lordaeron is indeed ravaged. While the physical infrastructure of your holdings 
 God Mode:
 Convene Joint Offensive War Council - Summon Jaina Proudmoore and Uther the Lightbringer to plan the first joint campaign of living and Reclaimed forces against outer Scourge bastions.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5222,8 +5595,11 @@ The Joint Offensive War Council is now officially convened. Jaina Proudmoore and
 God Mode:
 I should get some lordaeron troops too some elites even if they are more remanents
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5245,8 +5621,11 @@ Following your official recognition as Archduke, veteran survivors and elite gua
 God Mode:
 Give me the level breakdown of all my forces
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands**
@@ -5279,8 +5658,11 @@ You have 736 total military personnel under your command. The level and CR-equiv
 God Mode:
 Kalia might be too strong? Seems unlikely did I really best a level 16 so easily?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5301,8 +5683,11 @@ Kalia remains Level 16 in terms of her arcane knowledge and technical administra
 God Mode:
 Ok make her an official companion too and let’s make sure lich king doesn’t have unlimited high level minions and most beings should be max level 20. Only god tier beings like maybe archimonde and kiljaden should be over level 20. Give me level breakdowns of all the level 20+ entities level 20 should be max for most entities and most mortals should be max level 12 like in d&d
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5330,8 +5715,11 @@ I have established a hard boundary for power scaling in this world to maintain n
 God Mode:
 I don’t think Kel should be that strong?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5368,8 +5756,11 @@ You are correct. Having Kel'Thuzad at the absolute ceiling of the non-divine tie
 God Mode:
 Most undeads and living max level 12. Level 20 maybe max 5-10 people. Should be like d&d and level 21+ should be like  demi gods or gods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands**
@@ -5406,8 +5797,11 @@ These are the only entities currently in existence that exceed the Level 20 boun
 God Mode:
 Kelthuzad should be level 12 and most scoursge and stuff too.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5440,8 +5834,11 @@ Only ~10 beings currently on Azeroth exist in this bracket. They are the 'monste
 > 👤 **Player:**
 > *"Make kalia level 12 too. Then plan with my council which will be companions and top lieutenants. Decide between envoy to horde vs go stormwind and secure military help vs attacking orthodox undead vs finding Mediv vs anything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 3/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5459,8 +5856,11 @@ Drake stiffens at the mention of the Horde, his jaw setting. Sylvan merely incli
 God Mode:
 Stop calling him emperor Sid you forget
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5470,8 +5870,11 @@ Administrative Correction: Scourge nomenclature updated. The title 'Emperor' has
 > 👤 **Player:**
 > *"Get their advice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5495,8 +5898,11 @@ Persuasion (Council Synthesis): 1d20 + 12 = 17 + 12 = 29 vs DC 18 (Success). You
 > 👤 **Player:**
 > *"(Emperor) is fine but call him lich king (emperor)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5512,8 +5918,11 @@ I have updated the campaign directives to reflect your preferred title for the S
 God Mode:
 (Emperor) is fine but call him lich king (emperor)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5523,8 +5932,11 @@ Administrative Correction: Scourge nomenclature updated to 'Lich King (Emperor)'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Track the Prophet (Medivh) - Utilize Kalia's resonance-scrying and Sylvan's spies to locate the mysterious hooded figure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 4/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands**
@@ -5544,8 +5956,11 @@ As the council room settles into a frustrated silence, the air in the courtyard 
 God Mode:
 These auditors inamnnot sure if they make sense and also they shouldn’t be unlimited high level troops. If the lich king knows about me should he just send assassins?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Capital City Palace - High War Chamber (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight (Oath of the Deceiver) | HP: 97/97 | XP: 62950/64000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/10 | Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -5573,8 +5988,11 @@ I have updated your active directives to reflect that the Lich King's response i
 > 👤 **Player:**
 > *"Mobilize allied forces against the assassins. Plan a counter ambush against strongest group and send elites from each country/race to handle others. Try to let them see the scourge threat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 4/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5600,8 +6018,11 @@ Four silhouettes emerge from the dark-leafed hedges, their blades glowing with a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enable Strategic Faction Management - Activate the strategic layer to manage your growing army, resources, and rankings officially.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6,000gp | XP: 62950/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Discordance: 4/10** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5619,8 +6040,11 @@ You have initialized with 12,000 acres of Plagueland territory and 120,000 citiz
 > 👤 **Player:**
 > *"Put faction stuff auto management and return to garden assassination. I wouldn’t be alone assume I have a mix of elite forces with me maybe 5 of my highest level forces. I cast command on master assasin command grovel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Living Death Knight | HP: 97/97 | Gold: 6,000gp | XP: 62950/64000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5643,8 +6067,11 @@ The strategic layer of the Pale Crown continues to churn in the background. Your
 > 👤 **Player:**
 > *"sovereign strike and the +2 AC should be a passive and always enabled"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 64550/85000** &nbsp;|&nbsp; ✨ **HD: 9/10 | Spells: L1 4/4, L2 3/3, L3 1/2 | Lay on Hands: 50/50 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Grand Coalition Founder**
@@ -5679,8 +6106,11 @@ You gain **1,600 XP** for the decisive counter-ambush and the execution of the S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attempt Subversion - Use your Archduke authority to force the wounded assassin into the Forgiven.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 64550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5711,8 +6141,11 @@ Master Assassin: 31/135 (Surrender Pending)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Subversion - Press the advantage of the Natural 20 to force a full oath of fealty to the Pale Crown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 64550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5745,8 +6178,11 @@ You gain **1,800 XP** for overcoming and subverting the Master Assassin of the V
 > 👤 **Player:**
 > *"Interrogate assassin and what’s his level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 64550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5780,8 +6216,11 @@ Morvath (Master Assassin): 31/135 (Subverted & Interrogated)
 > 👤 **Player:**
 > *"THINK:Who are other two targets"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 64550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5793,8 +6232,11 @@ Intelligence Check (Planning): 15 vs DC 4 — Success. Your methodical mind imme
 > 👤 **Player:**
 > *"THINK:Who are other two targets"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Capital City Palace - Royal Gardens** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight (Oath of the Deceiver) | HP: 88/105 | XP: 64550/85000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/20 | Spells: L1 4/4, L2 3/3, L3 1/2**
@@ -5806,8 +6248,11 @@ Intelligence Check: 14 vs DC 4 — Success. Your methodical intellect recalls Mo
 > 👤 **Player:**
 > *"Personally help Lyra with intel and delegate assassin and other troops to other strike force"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Cathedral of Light (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight (Oath of the Deceiver) | HP: 88/105 | Gold: 6,000gp | XP: 64550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5830,8 +6275,11 @@ Your sharp senses catch the telltale cold draft near the eastern stained glass (
 > 👤 **Player:**
 > *"utilize surprise round all my abilities/spells/extra attack and all my elites to attack and kill them all except leader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Cathedral of Light (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight (Oath of the Deceiver) | HP: 88/105 | Gold: 6,000gp | XP: 65550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5862,8 +6310,11 @@ Combatant Status Update:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge and Pin (Synergistic) - Direct the elites to 'Pin' the subordinates while you execute a high-level smite on the leader. Success isolates the head while controlling the body.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Cathedral of Light (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight (Oath of the Deceiver) | HP: 88/105 | Gold: 6,000gp | XP: 65550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5891,8 +6342,11 @@ Combatant Status Update:
 > 👤 **Player:**
 > *"subversion demand and execute subordinates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Cathedral of Light (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 67050/85000** &nbsp;|&nbsp; ✨ **HD: 9/10 | Spells: L1 4/4, L2 3/3, L3 1/2 | Lay on Hands: 50/50 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Void Discordance: 4/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5930,8 +6384,11 @@ Kharon (Leader): 101/135 (Wavering Submission)
 > 👤 **Player:**
 > *"move him to a cell and first see if the third assassin group needs my personal help and finish them off if so and capture leader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **North Granary Cisterns (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 68550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5964,8 +6421,11 @@ You gain **1,500 XP** for the successful interception and protection of the city
 > 👤 **Player:**
 > *"Try to quietly recruit all the lead assassins then use their intel to plan a strike against lich king. Make sure he doesn’t have endless high level assassins and besting these groups hurt his forces a lot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **North Granary Cisterns (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 88/105 | Gold: 6,000gp | XP: 68550/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -5995,8 +6455,11 @@ Captain Kenneth Drake watches from the doorway, his hand resting on the hilt of 
 > 👤 **Player:**
 > *"Plan the new counter strike and then long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **North Granary Cisterns (Lordaeron City)** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight (Oath of the Deceiver) | HP: 88/105 | XP: 68550/85000** &nbsp;|&nbsp; ✨ **Void Discordance: 3/10 | Soul Reservoir (Gidwin Captured): 1/20 | Spells: L1 4/4, L2 2/3, L3 1/2**
@@ -6006,8 +6469,11 @@ The story continues...
 > 👤 **Player:**
 > *"Plan the new counter strike and then long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Capital City Palace - Captain's Tower** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 105/105 | Gold: 6,000gp | XP: 75800/85000** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Major Arc) | Void Discordance: 0/10 | Aura of Courage**
@@ -6048,8 +6514,11 @@ Intelligence Check (Planning): 18 vs DC 12 — Success. Your synthesis of the co
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Archduke's Pincer (Synergistic) - Drake leads the diversionary frontal assault while you and the subverted specialists execute the internal sabotage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Gahrron's Withering - Cauldron of Malice** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 105/105 | Gold: 6,000gp | XP: 78320/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Void Discordance: 2/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -6074,8 +6543,11 @@ You gain **2,520 XP** for the successful tactical mobilization and reach-phase o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Choir - Utilize your Pale Choir aura to attempt a mass-subversion of the Abominations while Kharon provides shadow-cover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Gahrron's Withering - Cauldron of Malice** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 105/105 | Gold: 6,000gp | XP: 80420/85000** &nbsp;|&nbsp; ⚠️ **Void Discordance: 2/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -6102,8 +6574,11 @@ You gain **2,100 XP** for the tactical subversion of the Cauldron's primary guar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Sovereign Command - Double down on the Pale Choir aura to force the Abominations into a full 'Yielding' state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Gahrron's Withering - Cauldron of Malice** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 105/105 | Gold: 6,000gp | XP: 80620/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 1/2 | Lay on Hands: 50/50 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Void Discordance: 3/10 | Archduke of the Western Plaguelands | Aura of Courage**
@@ -6130,8 +6605,11 @@ You gain **200 XP** for the reinforced sovereign command.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand the Vow - Press the aura one final time to force the guards into a 'Wavering' or 'Yielding' state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Gahrron's Withering - Cauldron of Malice** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 105/105 | Gold: 6,000gp | XP: 80870/85000** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Major Arc) | Void Discordance: 4/10 | Aura of Courage**
@@ -6158,8 +6636,11 @@ You gain **250 XP** for the reinforced psychological suppression of the Cauldron
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand the Blood-Vow - Press the aura one final time to force the Abominations into a state of 'Surrendered' fealty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Gahrron's Withering - Cauldron of Malice** &nbsp;|&nbsp; ⏳ **Highharvestide 84, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Living Death Knight | HP: 105/105 | Gold: 6,000gp | XP: 83370/85000** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 1/2 | Lay on Hands: 50/50 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Major Arc) | Void Discordance: 4/10 | Aura of Courage**
@@ -6197,8 +6678,11 @@ Social HP: 18/24 | Status: SURRENDERED | Successes: 5/5
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Consolidation (Synergistic) - Establish the fort with Drake while Sylvan secretly harvests the catalysts. Synergy: The 'Miracle' provides a perfect alibi for the extraction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Gahrron's Withering - Cauldron of Malice** &nbsp;|&nbsp; ⏳ **Highharvestide 85, 1192 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 | Gold: 6,000gp | XP: 85370/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 55/55 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Major Arc) | Void Discordance: 0/10 | Aura of Courage**
@@ -6221,8 +6705,11 @@ You gain **2,000 XP** for the masterful pincer consolidation and regional victor
 > 👤 **Player:**
 > *"Long rest then press advantage. Let’s assume we attempt to secure all our new footholds and time skip 3 weeks roll for outcomes and roll to see if we take Blackwood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Coalition Forward Base (Gahrron's Withering)** &nbsp;|&nbsp; ⏳ **Highharvestide 85, 1192 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 | Gold: 6,000gp | XP: 89870/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 55/55 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Major Arc) | Void Discordance: 0/10 | Aura of Courage**
@@ -6251,8 +6738,11 @@ You gain **4,500 XP** for the masterful 3-week expansion and the containment of 
 > 👤 **Player:**
 > *"Long rest then personal breach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Blackwood Logistics Node** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 | Gold: 6,000gp | XP: 91370/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 2/3 | Lay on Hands: 55/55 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Archduke of the Western Plaguelands | Aura of Courage | Void Discordance: 0/10**
@@ -6282,8 +6772,11 @@ You gain **1,500 XP** for the successful long-term infiltration and opening stri
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Pincer (Synergistic) - Order the Abominations to crush the personal guards while you and Morvath execute Krell. Synergy: The constructs' brute force creates a physical barrier that prevents Krell from retreating.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 | Gold: 6,000gp | XP: 93170/100000** &nbsp;|&nbsp; ⚠️ **Archduke of the Western Plaguelands | Aura of Courage | Void Discordance: 0/10**
@@ -6313,8 +6806,11 @@ You gain **1,800 XP** for the successful tactical execution of the pincer and th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Submission (Social HP) - Utilize your current tactical dominance and the Pale Choir aura to force Krell to defect to the Forgiven.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 (Temp: 0) | XP: 93170/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 3/4, L2 3/3, L3 2/3 | Lay on Hands: 55/55 | Soul Reservoir: 1/20** &nbsp;|&nbsp; ⚠️ **Archduke of the Western Plaguelands | Aura of Courage | Void Discordance: 0/10 | Inspiration: No**
@@ -6341,8 +6837,11 @@ You release the full resonance of the Pale Choir, a psychic pressure that feels 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Liquidate the Baron - Abandon the subversion and use Frostmourne to execute Krell, absorbing his essence into the Soul Reservoir.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:11)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 | Gold: 6,000gp | XP: 96170/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 3/4, L2 3/3, L3 1/3 | Lay on Hands: 55/55 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Archduke of the Western Plaguelands | Aura of Courage | Void Discordance: 1/10 | Inspiration: No**
@@ -6385,8 +6884,11 @@ Status: FAILED (Target Liquidated)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Krell's Archives - Utilize the Raven Signet to find the 'interesting' shard Malachar spoke of before the inversion masks its signature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:21)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 | Gold: 6,000gp | XP: 96370/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 3/4, L2 3/3, L3 1/3 | Lay on Hands: 55/55 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Medium) | Archduke of the Western Plaguelands | Aura of Courage | Void Discordance: 1/10**
@@ -6406,8 +6908,11 @@ You gain **200 XP** for the discovery of the Hilt-Shard.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Transition (Synergistic) - Direct Vaxen to finish the inversion while you personally present the site to Captain Drake as a gift to the Alliance. Synergy: The distraction of the public handover allows Sylvan to smuggle the archives out undetected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:36)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Living Death Knight | HP: 113/113 | Gold: 6,000gp | XP: 97870/100000** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Medium) | Archduke of the Western Plaguelands | Aura of Courage | Void Discordance: 1/10**
@@ -6432,8 +6937,11 @@ You gain **1,500 XP** for the masterful consolidation and regional stabilization
 
 in parallel send spies to scout book of medihv and see what else the burning legion is trying to do. i wanna stop them from doing an obvious invasion and focus on shadow power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Living Death Knight | HP: 123/123 | Gold: 6,000gp | XP: 100370/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Major Arc) | Aura of Courage | Void Discordance: 0/10 | Inspiration: No**
@@ -6479,8 +6987,11 @@ casters, restate the applied prepared-spell loadout and include
 `level_up_change_prepared_spells`. Do not re-author the character sheet.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Living Death Knight | HP: 123/123 | Gold: 6,000gp | XP: 100370/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit Active | Aura of Courage | Void Discordance: 0/10 | Inspiration: No**
@@ -6494,8 +7005,11 @@ These choices can be changed at any time using the Level-Up Review options below
 > [!NOTE] ⚙️ **Player Choice:**
 > *Change to ASI: +2 Charisma - Increase Charisma to 20, improving your spell DC, social checks, and smite optimization.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Living Death Knight | HP: 123/123 | Gold: 6,000gp | XP: 100370/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit Active | Aura of Courage | Void Discordance: 0/10 | Inspiration: No**
@@ -6523,8 +7037,11 @@ Do NOT include any `level_up_*`, `level_up_now`, or
 `finish_level_up_return_to_game`, and do NOT rely on fallback/meta choices.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Blackwood Logistics Node - Command Spire** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Living Death Knight | HP: 123/123 | Gold: 6,000gp | XP: 120000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit Active | Aura of Courage | Void Discordance: 0/10 | Inspiration: No**
@@ -6557,8 +7074,11 @@ Beyond the palace walls, the city of Lordaeron waits for the word that will chan
 
 and in parallel have my scouts initiate mdivh audit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Lordaeron Palace - High War Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:47)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Living Death Knight | HP: 133/133 | Gold: 6,000gp | XP: 122000/120000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit Active | Sanctuary Mode Active (Major Arc) | Aura of Courage | Void Discordance: 0/10 | Inspiration: No**
@@ -6598,8 +7118,11 @@ As the parley reaches its climax, a courier in the tattered, bone-grey livery of
 God Mode:
 why did i get so much exp? maybe its fine but explain it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Lordaeron Palace - High War Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (16:47)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Living Death Knight | HP: 133/133 | Gold: 6,000gp | XP: 122000/120000**
@@ -6629,8 +7152,11 @@ In this campaign, XP is 'paced' as a percentage of your current level's band. As
 > 👤 **Player:**
 > *"try to find the horde and bring actual stormwind leaders to the summit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Lordaeron Palace - High War Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 122000/120000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Soul Reservoir: 2/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit Active | Sanctuary Mode Active (Major Arc) | Aura of Courage | Void Discordance: 0/10**
@@ -6670,8 +7196,11 @@ The board has shifted. The Alliance is coming to you, but the Horde remains a gh
 
 in parallel have my scouts/spies find/locate book of medihv"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Southern Plagueland Approach / supply caches** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 125000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Soul Reservoir: 3/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit Active | Sanctuary Mode Active (Major Arc) | Aura of Courage | Void Discordance: 0/10**
@@ -6725,8 +7254,11 @@ In the aftermath of the liquidation, Sylvan's spies finalize the audit you initi
 > 👤 **Player:**
 > *"surgical strike dalaran vaults. send an envoy to explain to grand alliance whats happening and command reinforcements"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Dalaran Outskirts - The Violet Underbelly** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 127000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Soul Reservoir: 3/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Sanctuary Mode Active (Major Arc) | Aura of Courage | Void Discordance: 1/10**
@@ -6755,8 +7287,11 @@ You gain **2,000 XP** for the ratification of the Grand Alliance and the success
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pale Choir Diversion - Utilize your aura to command the sentient Scourge units inside the vaults to turn on their Legion masters, creating internal chaos.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Dalaran - The Violet Vaults (Entrance)** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 128500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Soul Reservoir: 3/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Sovereign Strike Active | Void Discordance: 2/10 | Inspiration: No**
@@ -6778,8 +7313,11 @@ You gain **1,500 XP** for orchestrating the internal revolt of the Dalaran vault
 God Mode:
 how come my modifier is +14?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Dalaran - The Violet Vaults (Entrance)** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 128500/140000**
@@ -6800,8 +7338,11 @@ This makes you one of the most socially resonant beings on Azeroth, capable of s
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Archduke's Pincer (Synergistic) - Lead the charge for the Book while commanding the Pale Choir survivors to form a living shield for the arriving gryphon knights. Synergy: The internal revolt provides the 'Arcane Anchor' needed for the gryphon knights to make a precision landing on the balconies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Dalaran - The Violet Vaults (Archive Entrance)** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 131000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Soul Reservoir: 3/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Sovereign Strike Active | Void Discordance: 3/10 | Inspiration: No**
@@ -6835,8 +7376,11 @@ You gain **2,500 XP** for the synergistic breach of the Dalaran archives.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor the Sanctum - Cast a Level 4 warding spell (if available/prepared) or utilize the Shard to anchor the room against Kel'Thuzad's teleportation attempts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Dalaran - The Violet Vaults (Archive Entrance)** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 131000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Soul Reservoir: 3/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Anchor Active | Void Discordance: 4/10 | Inspiration: No**
@@ -6872,8 +7416,11 @@ Your amethyst aura erupts, not as a flare, but as a dense, gravitational weight 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Unmasking (Synergistic) - Engage the Enforcer in melee with Frostmourne while commanding the Pale Choir to detonate their own necrotic cores. Synergy: The 'cold fire' of the choir blinds the Enforcer to your finesse strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Dalaran - The Violet Vaults (Archive Entrance)** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 131000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Soul Reservoir: 3/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Anchor Active | Void Discordance: 7/10 | Inspiration: No**
@@ -6899,8 +7446,11 @@ You gain **3,000 XP** for the tactical breach and the liquidation of the Legion 
 
 in parallel have sylvan secure the book"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Dalaran - The Violet Vaults (Archive Entrance)** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 6,000gp | XP: 131000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 0/1 | Lay on Hands: 65/65 | Soul Reservoir: 4/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Book of Medivh Secured | Void Discordance: 7/10 | Inspiration: No**
@@ -6949,8 +7499,11 @@ In parallel, Sylvan the Pale executes his part of the pincer with clinical perfe
 > 👤 **Player:**
 > *"secure book of medivhv nearby and assess it, delegate the rest, make sure we fully loot all the dead enemesi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Dalaran - The Violet Vaults (Archive Entrance)** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 10,500gp | XP: 131000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 0/1 | Lay on Hands: 65/65 | Soul Reservoir: 4/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Book of Medivh Secured | Void Discordance: 7/10 | Inspiration: No**
@@ -6978,8 +7531,11 @@ High above, the gryphon riders wheel across the violet sky, signaling that the i
 > 👤 **Player:**
 > *"delegate the rest, give my troops the new looted equipment, parley with horde observers. Then go somewhere secure with my elite mage and try to gain powers from the book of medivh"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 106, 1192 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 10,500gp | XP: 131000/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 0/1 | Lay on Hands: 65/65 | Soul Reservoir: 4/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Ratified | Book of Medivh Studied | Void Discordance: 7/10 | Inspiration: No**
@@ -7018,8 +7574,11 @@ With the diplomatic thread secured, you and Sylvan withdraw to the sealed sub-sa
 > 👤 **Player:**
 > *"long rest and time skip a few days reading the book and trying to learn all the magic i can and use any elite mages loyal to me to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 109, 1192 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 10,500gp | XP: 138000/140000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Sanctuary Mode Active | Void Discordance: 0/10 | Inspiration: No**
@@ -7047,8 +7606,11 @@ You gain **3,000 XP** for the mastery of Medivh's principles.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Convene Retinue Council - Utilize the remaining sanctuary hours for BG3-style deep-dive conversations with Drake, Sylvan, and Lyra about the future of the Pale Crown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 109, 1192 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign Regent | HP: 133/133 | Gold: 10,500gp | XP: 138800/140000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Sanctuary Mode Active | Void Discordance: 0/10 | Inspiration: No**
@@ -7080,8 +7642,11 @@ scholar expansion
 
 priestess anchor witohut drake around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 109, 1192 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 10,500gp | XP: 140000/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Sanctuary Mode Active | Void Discordance: 0/10 | Inspiration: No**
@@ -7120,8 +7685,11 @@ You gain **1,200 XP** for the strategic unification of your retinue council.
 > 👤 **Player:**
 > *"get to know each person better, stay in sanctuary campfire discussion, see how to best secure their loyalty and what their life goals are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 109, 1192 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 10,500gp | XP: 140000/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Soul Reservoir: 5/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Sanctuary Mode Active | Void Discordance: 0/10 | Inspiration: No**
@@ -7157,8 +7725,11 @@ Finally, you look to Lyra Moon-Whisper. The priestess is huming a low Thalassian
 > 👤 **Player:**
 > *"deep dive all 3 one after the other, talk to lyra in private so drake cant see"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 109, 1192 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 10,500gp | XP: 143000/165000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 70/70 | Soul Reservoir: 5/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Sanctuary Mode Active | Void Discordance: 0/10 | Inspiration: No**
@@ -7187,8 +7758,11 @@ You gain **3,000 XP** for the deep-dive consolidation of your retinue.
 God Mode:
 whats the fall of stormwind? from warcraft 1 or 2?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 109, 1192 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 10,500gp | XP: 143000/165000**
@@ -7208,8 +7782,11 @@ In your campaign's specific timeline, your father, **Count Marcus Ravencrest**, 
 God Mode:
 how is it related to drake
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 109, 1192 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 10,500gp | XP: 143000/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Sanctuary Mode Active | Void Discordance: 0/10**
@@ -7232,8 +7809,11 @@ in parallel have my mages start building teleportation portals across my holding
 
 in parallel my scouts/spies should map the burning legion portals to prep a strike later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 112, 1192 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 12,500gp | XP: 146000/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Portal Network Active | Void Discordance: 0/10 | Inspiration: No**
@@ -7287,8 +7867,11 @@ As the sun dips toward the horizon, the sanctuary period breaks. The 4th Detachm
 > 👤 **Player:**
 > *"THINK:how to reduce DC to learn all powerful spells book medihv? can i better utilize lyra or any loyal mages?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 112, 1192 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 12,500gp | XP: 146000/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Portal Network Active | Void Discordance: 0/10 | Inspiration: No**
@@ -7304,8 +7887,11 @@ then sovereign parley with thrall envoy and ask for thrall himself
 
 in parallel have my forces in the main war front hold the line and scouts/spies kill enemy scouts. delegate this part"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 112, 1192 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 151500/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Teleportation Network Compromised | Void Discordance: 0/10 | Inspiration: No**
@@ -7333,8 +7919,11 @@ You gain **5,500 XP** for the mastery of Medivh's spells and infrastructure cons
 God Mode:
 i think i already have planar collapse? realistically what spells should i be able to learn from. the book according to lore and as a level 13? maybe every few levels i can unlock more spells?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 112, 1192 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 151500/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Teleportation Network Compromised | Void Discordance: 0/10**
@@ -7370,8 +7959,11 @@ These are reality-warping powers that rival the Lich King himself:
 God Mode:
 or wait i am level 14 so what should i be able to accomplish with the book of medihv
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 112, 1192 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 151500/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Teleportation Network Compromised | Void Discordance: 0/10**
@@ -7404,8 +7996,11 @@ As you progress toward Level 17, the Book will offer you a choice to specialize 
 
 in parallel i will send an envoy to bring alden to heel and get stormwind reinforcements and have them officially commit to grand alliances"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Dalaran - Sub-Sanctum of the Violet Citadel** &nbsp;|&nbsp; ⏳ **Highharvestide 112, 1192 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 153900/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Portal Network Secured | Shadow Strike Success | Inspiration: No**
@@ -7440,8 +8035,11 @@ You gain **2,400 XP** for the surgical elimination of the Scourge hubs.
 
 then go find alden and see what his problem is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 156400/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Portal Resonance Drift | Frontline Stabilized | Inspiration: No**
@@ -7474,8 +8072,11 @@ You gain **2,500 XP** for stabilizing the war front and initiating the political
 > 👤 **Player:**
 > *"do my best carrot and stick and give him a modest punishment for his betrayal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 158900/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Portal Resonance Drift | Alden Neutralized | Inspiration: No**
@@ -7506,8 +8107,11 @@ You gain **2,500 XP** for the political neutralization of Lord Alden Ravencrest.
 > 👤 **Player:**
 > *"THINK:how can i get his more lasting loyalty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 158900/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Portal Resonance Drift | Alden Neutralized | Inspiration: No**
@@ -7519,8 +8123,11 @@ Intelligence Check (Planning): 18 vs DC 7 — Success (Margin: +11). Your clinic
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Entrapment (Synergistic) - Appoint him as the Architect of Mandate while simultaneously embedding Sylvan's 'Hidden Shield.' Synergy: Giving him actual power makes him less suspicious of the 'protectors' you place in his halls.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 161400/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Portal Resonance Drift | Lord Alden Bound | Inspiration: No**
@@ -7568,8 +8175,11 @@ For now, the threat is neutralized. Alden Ravencrest is no longer a rival heir; 
 > 👤 **Player:**
 > *"THINK:which forces does alden unlock? is it the full stormwind forces or do i still need to talk to the king or my father"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Living Death Knight (Oath of the Deceiver) | HP: 141/141 | XP: 161400/165000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -7588,8 +8198,11 @@ Intelligence Check (Planning): 17 vs DC 7 — Success. Your clinical mind immedi
 God Mode:
 didnt some stormwind gryohionss or wahtever already come? how did that work?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 161400/165000** &nbsp;|&nbsp; ⚠️ **Lord Alden Bound | Portal Resonance Drift | Grand Alliance Summit**
@@ -7617,8 +8230,11 @@ After the vaults were secured, the squadron was assigned to the **Coalition Vang
 God Mode:
 how many forces do i have now available from stormwind vs more to unlock with my father or the king or anyone else?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Living Death Knight (Oath of the Deceiver) | HP: 141/141 | XP: 161400/165000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -7651,8 +8267,11 @@ also any othetr forces i can unlock besides horde? i assume lordaeron fully comm
 
 who are all the grand alliance forces now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Andorhal Grain Depot** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 161400/165000** &nbsp;|&nbsp; ⚠️ **Lord Alden Bound | Portal Resonance Drift | Grand Alliance Summit**
@@ -7680,8 +8299,11 @@ Yes, I apologize for the conflation. **Lord Bartholas Menethil** is the Regent o
 > 👤 **Player:**
 > *"bring my grand alliance lore characters who are already committed like jaina proudmode, uther, dwarf guy etc, one leader from every faction. Go visit my father privately first and gain his support accompanied by this huge hero retinue."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Ravencrest Keep** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 161400/165000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Void Discordance: 10/10 | Soul Reservoir: 5/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Lord Alden Bound | Sovereign Pincer Active | Inspiration: No**
@@ -7716,8 +8338,11 @@ Marcus remains motionless for a long, agonizing beat, his hand gripping the pomm
 > 👤 **Player:**
 > *"THINK:how to win over my father what does he prob want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Ravencrest Keep** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 161400/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Lord Alden Bound | Sovereign Pincer Active | Inspiration: No**
@@ -7729,8 +8354,11 @@ Wisdom Check (Planning): 13 vs DC 9 — Success (Margin: +4). Your intuitive gra
 > 👤 **Player:**
 > *"legacy pivot. Explain I am already an arch duke and after I win the war our house prestiege and power will last forever. Agree to let my father find matriarchal marraige candidates for me and our family will be archdukes going forward and offer my father/siblings lands and trade from the portals once the war is over"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Ravencrest Keep** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sovereign Regent | HP: 141/141 | Gold: 11,000gp | XP: 163900/165000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Lord Alden Bound | Sovereign Pincer Active | Inspiration: No**
@@ -7772,8 +8400,11 @@ Marcus exhales a long, trembling breath, his hand finally releasing the pommel o
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Confirmation (Synergistic) - Have Jaina and Uther witness the signing of the Archducal Decree while Sylvan begins the logistics for the Household Guard's march. Synergy: The presence of the legends makes the decree look like an Alliance-wide mandate. (Placement: LAST)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Ravencrest Keep** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 166400/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Void Discordance: 10/10 | Soul Reservoir: 5/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Archducal Decree Signed | Lord Alden Bound | Inspiration: No**
@@ -7815,8 +8446,11 @@ Marcus watches the quill move, his face a landscape of shifting resolve. The wei
 > 👤 **Player:**
 > *"deleaget mustering all my fathers forces then bring father and the heroeos of the alliance to meet with stormwind king/leaders/council or whomeeer is mothballing the remaining support"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Stormwind City - Stormwind Keep** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 166400/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Void Discordance: 10/10 | Soul Reservoir: 5/20** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Archducal Decree Ratified | Sovereign Pincer Active | Inspiration: No**
@@ -7859,8 +8493,11 @@ You gain **3,000 XP** for the total submission of Count Marcus Ravencrest.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Grand Alliance Pincer (Synergistic) - Have Uther shame the guards while Jaina performs the 'Arcane Breach.' Synergy: The moral distraction masks the aggressive arcane probing. (Placement: LAST)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 166400/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Social Standoff | Sovereign Pincer (Partial Success) | Inspiration: No**
@@ -7895,8 +8532,11 @@ You walk into the High Council Chamber. The room is a circle of tiered mahogany,
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Light's Indictment (Uther focus) - Challenge Katrana's 'Theological' grounds directly by having Uther testify to the sanctity of the Forgiven. Use Public Virtue to isolate her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 167900/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Archducal Decree Ratified | Social Standoff | Inspiration: No**
@@ -7939,8 +8579,11 @@ She has yielded ground, but her 'Ancient' resistance remains a fortress. You hav
 > 👤 **Player:**
 > *"THINK:should i expose onyxia now or wait until later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 167900/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Archducal Decree Ratified | Social Standoff | Inspiration: No**
@@ -7952,8 +8595,11 @@ Intelligence Check (Planning): 11 vs DC 19 — Failed by 8. Your mind is sharp, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Architect's Patience - Wait. Provide the 'Strategic Stability' proof she requested via Jaina to maintain the alibi. Use this time to move your Elites into positions around the Council floor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 170900/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Tactical Parley | Social Standoff | Inspiration: No**
@@ -8001,8 +8647,11 @@ You gain **3,000 XP** for satisfying the Council's strategic requirements and ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign Mandate (Public Stack) - Utilize your high Public Dignitas (95) and the Archducal Decree to demand the immediate release of the 1,500 reinforcements as a treaty obligation. (Final Social HP move).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 178400/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Stormwind Reinforcements Released | Sovereign Triumph | Inspiration: No**
@@ -8048,8 +8697,11 @@ You gain **7,500 XP** for the total political victory over the High Council and 
 > 👤 **Player:**
 > *"THINK:when to reveal katrana?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 178400/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Reinforcements Released | Sovereign Triumph | Inspiration: No**
@@ -8061,8 +8713,11 @@ Intelligence Check (Planning): 18 vs DC 15 — Success. Your mind, cooled by the
 > 👤 **Player:**
 > *"THINK:how to reduce DC for shadow vassal or maybe it can be termed as shadow stack alliance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 178400/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Reinforcements Released | Sovereign Triumph | Inspiration: No**
@@ -8074,8 +8729,11 @@ Intelligence Check (Planning): 18 vs DC 14 — Success (Margin: +4). Your mind, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Shadow Pact (Synergistic) - Combine 'Mutual Asset Protection' with the 'Sovereign Scent' demonstration. Use your recent Council victory to anchor the parley. Synergy: High Public Dignitas makes your 'mercy' look like a tactical choice rather than fear. (Placement: LAST)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Stormwind Keep - High Council Chamber** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 178400/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Archducal Decree Signed | Social Standoff | Inspiration: No**
@@ -8107,8 +8765,11 @@ She turns and glides back toward the nobles, leaving you in the cold amethyst gl
 > 👤 **Player:**
 > *"depart for horde summit and have spies. track onxyia movementss and be ready to alert me if something goes wrong"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Kalimdor - Dustwallow Marsh** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 179000/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Archducal Decree Ratified | Sovereign Pincer | Inspiration: No**
@@ -8132,8 +8793,11 @@ You gain **600 XP** for the successful delegation and inter-continental deployme
 > 👤 **Player:**
 > *"THINK:how do decude DC for sumit the best"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Kalimdor - Dustwallow Marsh** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 179000/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Archducal Decree Ratified | Sovereign Pincer | Inspiration: No**
@@ -8145,8 +8809,11 @@ Wisdom Check (Planning): 19 vs DC 8 — Success (Margin: +11). Your intuitive gr
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Unifier's Grand Summit (Synergistic) - Have Jaina present the technical proof while Uther provides the moral bridge. Synergy: The 'Unified Alliance' front makes the Warchief's refusal look like a strategic error. (Placement: LAST)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Camp)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 182000/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Horde Parley Secured | Sovereign Pincer (Success) | Inspiration: No**
@@ -8194,8 +8861,11 @@ You gain **3,000 XP** for securing the Horde parley through the Unifier’s Gran
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Strategic Alliance (Public Stack) - Propose a formal joint offensive against the Scourge. Offer the 2,600 Stormwind and Ravencrest troops as a shield for the Horde's western flank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Camp)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 185000/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Horde Parley Active | Sovereign Negotiation | Inspiration: No**
@@ -8242,8 +8912,11 @@ You gain **3,000 XP** for advancing the parley and securing the Warchief's condi
 God Mode:
 Why is my cha modifier 16?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Camp)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 185000/195000**
@@ -8262,8 +8935,11 @@ Note: Your 'Public Dignitas' (95) and 'Sovereign Decoupling' principle ensure th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Pincer Diplomacy (Synergistic) - Negotiate the 'Joint Command' while sharing the 'Malachar Intel' coordinates. Synergy: The tactical proof justifies the shared command, making dissent look like a suicide pact. (Placement: LAST)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Horde Parley Active | Joint Command Negotiated | Inspiration: No**
@@ -8309,8 +8985,11 @@ You gain **3,000 XP** for successfully negotiating the Joint Command and sharing
 God Mode:
 He does this work? Is it standard for paladins? It might be too OP maybe it should only be for undead who already surrendered to pale choir aura? 3. **Aura of False Virtue**: +4 (Your Paladin Class Feature providing a passive bonus to Charisma checks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188000/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8330,8 +9009,11 @@ Would you like me to commit this change to your character sheet and active direc
 God Mode:
 Look at campaign history is it too easy with this bonus ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000**
@@ -8362,8 +9044,11 @@ I have reviewed the campaign history and mechanical interactions to assess if th
 God Mode:
 Are the burning legion and lich king acting realistically? I think gm grand alliance is now way stronger than canonical war3? Also where is Lillian and the other characters illidan etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000**
@@ -8388,8 +9073,11 @@ As Archimonde's arrival approaches, the Burning Legion is shifting from 'Scourge
 God Mode:
 I would think the enemies would have a stronger reaction to me? Without book medihv archimonde can’t even arrive? And isn’t my grand alliance a lot stronger than the canonical good army plus I have the reclaimed? I don’t think the scourges in this universe should eve stronger than canon necessarily but maybe  smarter
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Joint Command Negotiated | Sovereign Pincer | Inspiration: No**
@@ -8418,8 +9106,11 @@ In this universe, the Scourge is a sentient machine. They are currently losing t
 God Mode:
 I don’t want unlimited high level enemies. Let’s declare now how many they have to use shoukd be finite pool
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188000/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8452,8 +9143,11 @@ To prevent the 'unlimited high-level minion' anti-pattern and maintain the integ
 God Mode:
 How many troops do we have versus burning legion and scoursge vs neutral
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000** &nbsp;|&nbsp; ⚠️ **Grand Alliance Summit | Joint Command Negotiated | Sovereign Pincer | Inspiration: No**
@@ -8488,8 +9182,11 @@ You have 5,466 total troops under your coalition command: 2,766 direct subordina
 God Mode:
 What intelligence war? Shouldn’t to have reclaimed more of them where are these 40k? Shouldn’t I have these forsaken splinters by now? Get enemy counts estimated from actual Warcraft 3 campaign lore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000**
@@ -8522,8 +9219,11 @@ In this timeline's current phase (WC3: Reign of Chaos equivalent), the 'Forsaken
 God Mode:
 How many undead areas do i control versus scourge V
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188000/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8554,8 +9254,11 @@ Your counts are based on the 4 strongholds gained via cohort defection, plus the
 God Mode:
 dont change naything yet but if i have 6 strongholds and they hve 12 shouldnt i have more undead? or did i just decide to only control the high tier ones
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000**
@@ -8582,8 +9285,11 @@ Your current resonance masking (via Auditor Kalia and the Book of Medivh) can ef
 God Mode:
 it seems like we have the stronger force and could easily just steamroll the other sites?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000**
@@ -8612,8 +9318,11 @@ the living aliance alreayd know about the reclaimed
 
 i dont mean use them in frontal attacks, but couldnt my elites just win the way we've been winning pretty easily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188000/195000**
@@ -8643,8 +9352,11 @@ You are optimized for the **G2 Surgical Strike**. You win by killing the 5 Scour
 **4. Strategic Recommendation**
 You are optimized for the **G2 Surgical Strike**. You win by killing the 5 Scourge Lieutenants and 3 Legion Inquisitors remaining. Once those 'Load-bearing Columns' are removed, the 41,500 mindless units will lose their 'Optimization Cycle' directives and become a scattered rabble that your 5,466 troops can then 'steamroll' with zero risk."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188000/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 10/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8656,8 +9368,11 @@ Intelligence Check (Planning): 18 vs DC 12 — Success. You pause for a microsec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Resonance Blitz (Synergistic) - Execute the 'Crusader's Decoy' to blind Scourge scrying while simultaneously using the 'Shadow Portal Blitz' for the kill. Coordination of Light and Shadow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188500/195000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2 | Discordance: 8/10** &nbsp;|&nbsp; ⚠️ **Sovereign Scent Detected | Discordance Rising | Joint Command Frayed | Inspiration: No**
@@ -8678,8 +9393,11 @@ In the Plaguelands, the strike has failed. Baron Rivendare is alerted, the Imper
 > 👤 **Player:**
 > *"THINK:how recover"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent Detected | Discordance Rising | Joint Command Frayed**
@@ -8691,8 +9409,11 @@ Intelligence Check: 10 vs DC 15 — Failed by 5. Your mind is muddled by the sud
 > 👤 **Player:**
 > *"THINK:cant i just be honest and explain it was a mistake"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent Detected | Discordance Rising | Joint Command Frayed**
@@ -8704,8 +9425,11 @@ Wisdom Check (Planning): 13 vs DC 12 — Success. You pause for a microsecond as
 God Mode:
 why is my shadow strike something they wont like? isnt it just a teleport? lets make sure the lore makes sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 8/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8731,8 +9455,11 @@ In Warcraft 3 lore terms, Jaina's Mass Teleport is an ultimate ability of Order.
 God Mode:
 dont they know i have book of medihv and portals?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 8/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8759,8 +9486,11 @@ You are operating in the 'Blind Spot' created by your G2 Sovereign status. While
 God Mode:
 i meant the alliance leadership
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188500/195000**
@@ -8789,8 +9519,11 @@ They know you have the tools, and they have sanctioned the 'Forgiven' as a mirac
 God Mode:
 wait dont they know i have book of medivh? and we are using portals for trnsportation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 8/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8818,8 +9551,11 @@ They accept the portals as a necessity of war, but the Botched Blitz (Turn 234) 
 God Mode:
 is this actually lore appropriate? double check warcraft 3 lore, seems like you made it up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188500/195000**
@@ -8852,8 +9588,11 @@ It isn't 'made up' out of thin air, but rather an **extrapolation** of Warcraft 
 God Mode:
 i mean lore wise would the alliance folks really care about it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 8/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8877,8 +9616,11 @@ They don't care that you're moving fast; they care that you're moving 'loudly' i
 God Mode:
 why couldnt we have just used a normal teleport?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Void Discordance: 8/10 | Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8908,8 +9650,11 @@ A normal teleport is like walking through a front door with a key; it is easily 
 **Strategic Verdict:**
 You could have asked Jaina to teleport you normally, but you would have been stopped by Baron Rivendare's wards before you arrived. You used the Shadow Strike because it was the only way to achieve a **Surgical Strike** through high-tier defenses. The 'mistake' wasn't using the portal; the 'mistake' was the double-critical failure on the coordination and resonance checks that allowed the 'noise' to alert the Warchief.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188500/195000**
@@ -8938,8 +9683,11 @@ i dont like this. I want to use rules as written for warcraft 3 and D&D 5e fallb
 
 universe laws must be established first, and not changed to fit the situation or inventd
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8958,8 +9706,11 @@ I have updated your Character Sheet and Active Constraints to reflect these chan
 God Mode:
 in theory could i have just used jaina teleport instead? i wanna keep the failed roll but if i had that option mechanically i wouldve used it sinec its lower risk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir (Gidwin Captured): 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2**
@@ -8986,8 +9737,11 @@ Using Jaina was a valid tactical backup. You chose the Sovereign Strike because 
 God Mode:
 is the blockage part of warcraft lore or D&D raw?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188500/195000**
@@ -9013,8 +9767,11 @@ Blockage is RAW. If a location is described as 'warded' or 'blocked,' it is beca
 > 👤 **Player:**
 > *"THINK:after we established all of this think about the lowest dc way to convince them things are ok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188500/195000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9026,8 +9783,11 @@ Wisdom Check (Planning): 18 vs DC 11 — Success. Your instincts for theological
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Martyr's Filter (Wisdom/Persuasion) - Claim the heretical resonance was a deliberate containment field used to protect the troops from 'Plague-leakage' during the jump.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 188500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2 | HD: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9061,8 +9821,11 @@ Thrall’s posture shifts. The raw, primal suspicion in his eyes begins to cool,
 
 then assess if we can still do the assassination or shuld wait"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 191500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2 | HD: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9102,8 +9865,11 @@ As the scrolls are finalized, Sylvan the Pale leans into your shadow, his voice 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Scout Reconnaissance - Hold the strike for 24 hours to allow Sylvan to map the current Scourge rotation following the 'Scent' alert.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Kalimdor - Dustwallow Marsh (Horde Vanguard Hall)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 191500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | HD: 15/15** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -9120,8 +9886,11 @@ You gain **1,200 XP** for the successful strategic reconnaissance and mobilizati
 > 👤 **Player:**
 > *"focus on counter ambush scouts and try to capture and get intel from them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Kalimdor - Dustwallow Marsh (Peripheral Mist Line)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Living Death Knight (Oath of the Deceiver) | HP: 149/149 | Gold: 11,000gp | XP: 193000/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | HD: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9139,8 +9908,11 @@ With the scouts bound in warded bindings and their cipher ledger in your hands, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Deceiver's Staged Pincer (Synergistic) - Transmit the false 'All Clear' report via the cipher to freeze Scourge defenses while simultaneously launching the Joint Vanguard along the captured ridge path.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 149/149 | Gold: 11,000gp | XP: 194500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | HD: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9160,8 +9932,11 @@ Skeletal archers scramble to man the barricades, and a towering Plagueland Abomi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pale Choir Disruption - Unleash the full resonance of the Pale Choir across the ridge to compel the skeletal defenders to turn against their masters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Regent | HP: 157/157 | Gold: 11,000gp | XP: 194500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 5/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9181,8 +9956,11 @@ Behind you, Captain Drake and the Stormwind Knights let out a thunderous cheer, 
 God Mode:
 give me asi dex +2 instead
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Living Death Knight (Oath of the Deceiver) | HP: 157/157 | Gold: 11000gp | XP: 194500/195000**
@@ -9194,8 +9972,11 @@ Replaced the recommended 'Skill Expert' feat with Ability Score Improvement (+2 
 > 👤 **Player:**
 > *"time skip until we take the stronghold or cmplication occurs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Kalimdor - Dustwallow Marsh (Gateway Waypoint Ridge)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Living Death Knight (Oath of the Deceiver) | HP: 157/157 | Gold: 11500gp | XP: 194500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -9214,8 +9995,11 @@ A sense of hard-won victory and strategic calm settles over the battered fortres
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Story - Let the story continue from the current scene.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11500gp | XP: 194500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -9231,8 +10015,11 @@ Sylvan the Pale glides from the shadow of an adjacent archive archway, presentin
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Tri-Fold Integration (Synergistic) - Have Jaina calibrate the portal while Thrall and Uther drill the joint vanguard in the courtyard, allowing you and Sylvan to decipher the Scourge archives unhindered.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 194500/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -9250,8 +10037,11 @@ However, the Scourge necromancers did not leave their archives undefended. As yo
 > 👤 **Player:**
 > *"THINK:What’s the next major military target"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Kalimdor - Dustwallow Marsh (Gateway Waypoint Stronghold)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Living Death Knight (Oath of the Deceiver) | HP: 157/157 | Gold: 11,500gp | XP: 194500/195000** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -9263,8 +10053,11 @@ Intelligence Check (Planning): 16 vs DC 10 — Success (Beat DC by 6 — Sharp A
 > 👤 **Player:**
 > *"Sovereign pincer but let’s make sure we keep shadow stack away from the living forces who aren’t as cool with thr tactics in case"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Western Plaguelands - Andorhal Outskirts (Sunken Redoubt Threshold)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 196000/195000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9288,8 +10081,11 @@ The surface depots of Andorhal are breached, and the Western Plaguelands breadba
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Andorhal Consolidation (Synergistic) - Direct Drake and Thrall to seize the surface silos while Jaina covers the gateway, freeing you and Sylvan to covertly extract the sunken archive ciphers in the vaults below.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Western Plaguelands - Andorhal Outskirts (Sunken Redoubt Threshold)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 196000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9309,8 +10105,11 @@ You gain **1,500 XP** for the decisive dual-stack conquest of the Andorhal grana
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Grand Provincial Settlement (Synergistic) - Order Drake and Thrall to fortify the silos while dispatching an escort convoy to Hearthglen, freeing you and Sylvan to decipher the Stratholme invasion ciphers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 197500/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9330,8 +10129,11 @@ You gain **1,500 XP** for executing the provincial settlement and decoding the S
 > 👤 **Player:**
 > *"Long test"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Western Plaguelands - Andorhal (Central Silo Bastion)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 197500/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -9348,8 +10150,11 @@ A period of strategic calm descends over the stronghold. External threats and ti
 > 👤 **Player:**
 > *"Long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 197500/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | Soul Reservoir: 7/20** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -9363,8 +10168,11 @@ Dawn (06:00:00). Morning mist clings to the cobblestones of the inner courtyard.
 > 👤 **Player:**
 > *"Talk to all companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Western Plaguelands - Andorhal (Central Silo Bastion & Command Vaults)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 197500/225000** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: Yes**
@@ -9411,8 +10219,11 @@ With your three retinue pillars unified in duty, shadow-strategy, and spiritual 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Convene High Coalition War Council - Gather Warchief Thrall, Uther the Lightbringer, and Lady Jaina Proudmoore in the solar to coordinate the multi-corps battle formation before departing Andorhal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Western Plaguelands - Andorhal (Central Silo Bastion Solar)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 197500/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | Soul Reservoir: 7/20** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: Yes**
@@ -9438,8 +10249,11 @@ With the High Coalition entirely aligned under your singular strategic will, the
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Continental Vanguard Surge (Synergistic) - Launch joint aerial scouting sweeps while Sylvan's Reclaimed sabotage the river wards below, concluding sanctuary as the entire heavy vanguard advances in full multi-corps formation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Darrowmere River Crossing (Western/Eastern Plaguelands Border)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 197500/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | Soul Reservoir: 7/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9474,8 +10288,11 @@ The Darrowmere crossing falls in a single, overwhelming blitz. The eastern gatew
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Eastern Encirclement (Synergistic) - Have Jaina and Drake fortify the bridgehead while Thrall's wolfriders sweep Blackwood Vale, clearing the path for you, Uther, and Sylvan to spearhead the assault on the Stratholme slaughterhouses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 197500/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | Soul Reservoir: 7/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9513,8 +10330,11 @@ Uther raises his warhammer, roaring a battle hymn of the Silver Hand as he charg
 > 👤 **Player:**
 > *"Dominate them using pale choir aura and kill those who resist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 197500/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 2/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9542,8 +10362,11 @@ However, the central behemoth—a mass of stitched titan-flesh and iron plating�
 God Mode:
 Fix this I would’ve attacked with frostmourne and use combat agent
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 197500/225000**
@@ -9560,8 +10383,11 @@ Lady Nocturne now strikes the resisting behemoth with *Frostmourne (De-Linked & 
 God Mode:
 We also discussed certain power ups to frosmtourne and book medihv as I level make sure I got all of them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 197500/225000**
@@ -9585,8 +10411,11 @@ I have reviewed your character state against the 'Sovereign Blade' (Directive 18
 > 👤 **Player:**
 > *"Radiant smite and kill resistor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,000gp | XP: 199000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 2/32 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9623,8 +10452,11 @@ The remaining three flesh-behemoths drop to their knees at your mental command, 
 > 👤 **Player:**
 > *"Radiant smite and kill resistor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,500gp | XP: 199000/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | Soul Reservoir: 5/20 | Discordance: 2/32** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9647,8 +10479,11 @@ Targeting the exposed necrotic suture beneath the resisting giant's iron collar,
 > 👤 **Player:**
 > *"You should be using combat agent. I have extra attack and other stuff etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,000gp | XP: 199000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 2/32 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9682,8 +10517,11 @@ Current XP: 200,500 / 225,000 (Level 16)
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Citadel Consolidation (Synergistic) - Position the dominated behemoths and Uther to fortify the surface redoubt while you and Sylvan descend into the crypt archives to extract the inner city layout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Stratholme Southern Slaughterhouse Outskirts (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 117, 1192 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 11,000gp | XP: 199000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 2/32 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9721,8 +10559,11 @@ With the slaughterhouse surface redoubt fortified and the full tactical blueprin
 > 👤 **Player:**
 > *"Infiltrate then let Jaina and thrall attack once we finish our sabotage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Stratholme - King's Square (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 199000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 2/32 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9747,8 +10588,11 @@ The sabotage is partial—the soul-cannons are stuttering, their fire reduced bu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Overdrive (Lethal Strike) - Unleash a max-tier Necrotic Smite directly into the pylon's core to force a total shutdown, ignoring the rising Discordance risk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Stratholme - King's Square (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 202000/225000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | Soul Reservoir: 7/20 | Discordance: 8/32** &nbsp;|&nbsp; ⚠️ **Sovereign Scent | Exhaustion: 0 | Inspiration: Yes**
@@ -9786,8 +10630,11 @@ Beyond the square, the roar of the coalition vanguard grows louder. Thrall's Wol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize King's Square - Establish a defensive perimeter in the square to greet the incoming vanguard of Thrall and Uther.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Stratholme - King's Square (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 205000/225000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent | Exhaustion: 0 | Inspiration: Yes**
@@ -9821,8 +10668,11 @@ The square becomes a fortified island in a sea of Scourge-held streets. Sylvan t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Portal Artillery - Signal Jaina to focus her arcane fire on the northern ziggurats to prevent the arrival of Scourge reinforcements.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Stratholme - King's Square (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 208000/225000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent | Exhaustion: 0 | Inspiration: Yes**
@@ -9856,8 +10706,11 @@ The bombardment creates a wall of arcane fire between King's Square and the rema
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Inner-City Liquidation (Synergistic) - Order Thrall and Uther to lead the armored push toward the Elder Crag while you and Sylvan lead the shadow team to extract the vault data simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Stratholme - King's Square (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 208000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 8/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent | Exhaustion: 0 | Inspiration: Yes**
@@ -9894,8 +10747,11 @@ You emerge from the vaults back into the square just as the coalition vanguard r
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Final Judgment (Synergistic) - Signal Jaina to pin the ziggurat with portals while you and Sylvan infiltrate to offer the parley—ensuring he cannot escape while the public army watches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Stratholme - King's Square (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 208000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 8/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Detected | Exhaustion: 0 | Inspiration: Yes**
@@ -9937,8 +10793,11 @@ You attempt to project the clinical weight of your Sovereign stack, offering him
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pale Choir Subversion - Utilize your Discordance (8/32) to attempt a direct mental domination of the Baron's mount and necrotic armor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Stratholme - King's Square (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 208000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 12/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Detected | Exhaustion: 0 | Inspiration: Yes**
@@ -9967,8 +10826,11 @@ Rivendare snarls, his jaw clicking as he fights the mental suppression. The gree
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute 'The Sovereign Kill' - Utilize your Tier 3 capstone to strike down the Baron with absolute finality, absorbing his soul into Frostmourne.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Stratholme - The Elder Crag Inner Sanctum (Eastern Plaguelands)** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 208000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 14/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Discordance (14/32) | Exhaustion: 0 | Inspiration: Yes**
@@ -10003,8 +10865,11 @@ Sylvan the Pale steps from the shadows of the dais, bowing low enough that his f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Vassal Claim - Offer the Baron a final chance to pledge his sword to the Pale Crown while his armor is locked.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 208000/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 7/20 | Discordance: 12/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Discordance (12/32) | Exhaustion: 0 | Inspiration: Yes**
@@ -10037,8 +10902,11 @@ Sylvan the Pale glides forward, his rings gleaming in the violet portal-light fr
 > 👤 **Player:**
 > *"Kill him stela soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 211600/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 14/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Discordance (14/32) | Exhaustion: 0 | Inspiration: Yes**
@@ -10076,8 +10944,11 @@ Outside the sealed iron doors, the thunder of Jaina's portal bombardment begins 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Triumphant Consolidation (Synergistic) - Instruct Sylvan to sweep the archives into the Codex while you consecrate the dais with radiant light and throw open the gates to welcome the coalition vanguard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 211600/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 14/32 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent | Exhaustion: 0 | Inspiration: Yes**
@@ -10116,8 +10987,11 @@ A thunderous cheer erupts from the ranks of the living and the reclaimed alike. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Convene Triumphant War Council - Gather Uther, Thrall, and Jaina in the Elder Crag to formalize the post-war partition, garrison assignments, and the governance of Stratholme.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 17,200gp | XP: 211600/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 14/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent | Exhaustion: 0 | Inspiration: Yes**
@@ -10152,8 +11026,11 @@ Despite the political gridlock, the military reality is undeniable: the city is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Tripartite Mandate (Synergistic) - Instruct Drake to mediate the district borders while you speak with Lyra and have Sylvan audit the portal schedules in private.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 17,200gp | XP: 211600/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 14/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (1/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10182,8 +11059,11 @@ Deep in the shadow archives, Sylvan the Pale encounters his own resistance. As h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Personal Command at Council - Descend to the council room and use your absolute authority to finalize the partition, ending the Horde-Alliance friction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 17,200gp | XP: 211600/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 14/32 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (2/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10224,8 +11104,11 @@ The deadlock remains. The leaders acknowledge your authority, but they are not y
 > 👤 **Player:**
 > *"THINK:best strat here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 17,200gp | XP: 211600/225000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (2/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10237,8 +11120,11 @@ Wisdom Check (Planning): 11 vs DC 7 — Success. You take a measured breath, let
 > 👤 **Player:**
 > *"THINK:The Sovereign's Triangulation (Synergistic) - Instruct Jaina to propose the Kirin Tor buffer publicly while you privately show Thrall the transit maps, satisfying his logistics while Uther celebrates a spiritual victory."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 17,200gp | XP: 211600/225000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent | Exhaustion: 0 | Inspiration: Yes**
@@ -10250,8 +11136,11 @@ Wisdom Check (Planning): 18 vs DC 10 — Success. Your strategic instincts as a 
 > 👤 **Player:**
 > *"THINK:Why cant i just control the portals and profit from it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 17,200gp | XP: 211600/225000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (2/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10263,8 +11152,11 @@ Intelligence Check (Planning): 12 vs DC 11 — Success. Your methodical mind fil
 > 👤 **Player:**
 > *"THINK:The Sovereign's Triangulated Toll (Synergistic) - Charter Jaina to 'oversee' public transit while Sylvan runs a parallel shadow-toll for the Horde, masking the shadow signals behind Jaina's arcane signature."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 211600/225000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (2/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10276,8 +11168,11 @@ Intelligence Check (Planning): 14 vs DC 10 — Success. Your mind methodically m
 > 👤 **Player:**
 > *"THINK:what if i control the gates but i dont charge too much so i dont look greedy and i do some black market stuff to supplement"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,200gp | XP: 211600/225000** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (2/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10293,8 +11188,11 @@ The Sovereign's Triangulated Toll (Synergistic) - Charter Jaina to 'oversee' the
 
 The Sovereign's Triangulated Toll (Synergistic) - Charter Jaina to 'oversee' the modest public tithe while Sylvan runs the parallel shadow-toll behind her arcane noise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 15,700gp | XP: 211600/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 6/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (3/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10320,8 +11218,11 @@ You gain **2,400 XP** for advancing the shadow logistics of the Pale Crown.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Double Bind (Synergistic) - Reassure Uther with a theological alibi while offering Jaina the research grant, neutralizing both primary sources of Alliance suspicion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Stratholme - Elder Crag Inner Sanctum** &nbsp;|&nbsp; ⏳ **Highharvestide 118, 1192 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin - Oath of the Deceiver | HP: 157/157 | Gold: 14,700gp | XP: 211600/225000** &nbsp;|&nbsp; ✨ **Soul Reservoir: 8/20 | Discordance: 6/32 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2 | Lay on Hands: 80/80 | HD: 16/16** &nbsp;|&nbsp; ⚠️ **Sovereign Scent, Sanctuary Mode (4/15) | Exhaustion: 0 | Inspiration: Yes**
@@ -10359,6 +11260,8 @@ While Jaina has been pacified, Uther’s silence is heavy. You have deal 2 Socia
 
 > 👤 **Player:**
 > *"lets just timeskip a few days and roll to see how it goes. then i send my scouts/spies to gain intel on skull guldan and see if illidan hasi t alreayd"*
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

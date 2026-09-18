@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (253 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 This is you. These are the internal mechanics of the "Serpent Queen."
@@ -173,269 +184,274 @@ Option 1: Do you maintain the "Dutiful Ward" mask? Do you scream for the guards,
 Option 2: Do you drop the mask entirely? Do you reveal the "Serpent Queen"? Do you smile at him—a smile that doesn't reach your eyes—and welcome him with a soft, musical promise of pain?
 What do you do, Serpent Queen?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **02** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **03** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **04** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **05** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **06** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **07** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **08** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **09** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **10** | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
-| **11** | Candlekeep | Mirtul 1, 1368 DR (Evening (19:15)) | Roleplay |
-| **12** | The Lion's Way | Mirtul 1, 1368 DR (Night (22:45)) | Roleplay |
-| **13** | The Lion's Way | Mirtul 1, 1368 DR (Night (22:46)) | Roleplay |
-| **14** | Wilderness | Mirtul 2, 1368 DR (Morning (06:30)) | Roleplay |
-| **15** | Wilderness | Mirtul 2, 1368 DR (Morning (07:00)) | Roleplay |
-| **16** | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:00)) | Roleplay |
-| **17** | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:05)) | Roleplay |
-| **18** | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:10)) | Roleplay |
-| **19** | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:25)) | Roleplay |
-| **20** | The Shadow Path | Mirtul 2, 1368 DR (Midday (12:25)) | Roleplay |
-| **21** | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:00)) | Roleplay |
-| **22** | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10)) | Roleplay |
-| **23** | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10) | Roleplay |
-| **24** | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10) | Roleplay |
-| **25** | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10) | Roleplay |
-| **26** | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:00)) | Roleplay |
-| **27** | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:05)) | Roleplay |
-| **28** | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:15)) | Roleplay |
-| **29** | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:20)) | Roleplay |
-| **30** | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:25)) | Roleplay |
-| **31** | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (10:00)) | Roleplay |
-| **32** | The Coast Way | Mirtul 3, 1368 DR (Late Afternoon (17:00)) | Roleplay |
-| **33** | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:15)) | Roleplay |
-| **34** | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:20)) | Roleplay |
-| **35** | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:21)) | Roleplay |
-| **36** | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:22)) | Roleplay |
-| **37** | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:25)) | Roleplay |
-| **38** | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:26)) | Roleplay |
-| **39** | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:27)) | Roleplay |
-| **40** | Beregost | Mirtul 3, 1368 DR (Evening (18:15)) | Roleplay |
-| **41** | Beregost | Mirtul 3, 1368 DR (Evening (18:30)) | Roleplay |
-| **42** | Beregost | Mirtul 3, 1368 DR (Evening (18:20)) | Roleplay |
-| **43** | Beregost | Mirtul 3, 1368 DR (Night (19:00)) | Roleplay |
-| **44** | Beregost | Mirtul 3, 1368 DR (Night (20:00)) | Roleplay |
-| **45** | The Coast Way | Mirtul 4, 1368 DR (Midday (12:00)) | Roleplay |
-| **46** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:00)) | Roleplay |
-| **47** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:30)) | Roleplay |
-| **48** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:31)) | Roleplay |
-| **49** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:05)) | Roleplay |
-| **50** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:31)) | Roleplay |
-| **51** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:32)) | Roleplay |
-| **52** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:32) | Roleplay |
-| **53** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:32) | Roleplay |
-| **54** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:35)) | Roleplay |
-| **55** | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:45)) | Roleplay |
-| **56** | Wilderness Camp | Mirtul 5, 1368 DR (Morning (06:00)) | Roleplay |
-| **57** | Nashkel | Mirtul 5, 1368 DR (Evening (17:00)) | Roleplay |
-| **58** | Nashkel | Mirtul 5, 1368 DR (Evening (17:15)) | Roleplay |
-| **59** | Nashkel | Mirtul 5, 1368 DR (Evening (17:20)) | Roleplay |
-| **60** | Cloudpeaks | Mirtul 7, 1368 DR (Early Morning (05:00)) | Roleplay |
-| **61** | Cloudpeaks | Mirtul 7, 1368 DR (Early Morning (05:05)) | Roleplay |
-| **62** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20)) | Roleplay |
-| **63** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
-| **64** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
-| **65** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
-| **66** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
-| **67** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:21)) | Roleplay |
-| **68** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:25)) | Roleplay |
-| **69** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:26)) | Roleplay |
-| **70** | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:27)) | Roleplay |
-| **71** | Cloudpeaks | Mirtul 7, 1368 DR (Morning (06:00)) | Roleplay |
-| **72** | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:30)) | Roleplay |
-| **73** | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:35)) | Roleplay |
-| **74** | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:35) | Roleplay |
-| **75** | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:35) | Roleplay |
-| **76** | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:40)) | Roleplay |
-| **77** | Nashkel | Mirtul 7, 1368 DR (Evening (19:00)) | Roleplay |
-| **78** | Nashkel | Mirtul 7, 1368 DR (Evening (19:05)) | Roleplay |
-| **79** | Nashkel | Mirtul 7, 1368 DR (Evening (19:10)) | Roleplay |
-| **80** | Nashkel | Mirtul 7, 1368 DR (Evening (19:30)) | Roleplay |
-| **81** | Nashkel | Mirtul 7, 1368 DR (Evening (19:35)) | Roleplay |
-| **82** | Nashkel | Mirtul 7, 1368 DR (Evening (19:40)) | Roleplay |
-| **83** | Nashkel | Mirtul 7, 1368 DR (Evening (20:00)) | Roleplay |
-| **84** | Nashkel | Mirtul 7, 1368 DR (Evening (20:10)) | Roleplay |
-| **85** | Nashkel | Mirtul 7, 1368 DR (Evening (20:10)) | Roleplay |
-| **86** | Nashkel | Mirtul 7, 1368 DR (Evening (20:10)) | Roleplay |
-| **87** | Nashkel | Mirtul 7, 1368 DR (Evening (20:30)) | Roleplay |
-| **88** | Nashkel | Mirtul 8, 1368 DR (Dawn (06:00)) | Roleplay |
-| **89** | Nashkel Mines | Mirtul 8, 1368 DR (Dawn (06:15)) | Roleplay |
-| **90** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:00)) | Roleplay |
-| **91** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:15)) | Roleplay |
-| **92** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:15) | Roleplay |
-| **93** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:30)) | Roleplay |
-| **94** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:35)) | Roleplay |
-| **95** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:35)) | Roleplay |
-| **96** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:36)) | Roleplay |
-| **97** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:37)) | Roleplay |
-| **98** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:37) | Roleplay |
-| **99** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:37) | Roleplay |
-| **100** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:40)) | Roleplay |
-| **101** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (09:45)) | Roleplay |
-| **102** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (09:46)) | Roleplay |
-| **103** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (09:47)) | Roleplay |
-| **104** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:00)) | Roleplay |
-| **105** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:05)) | Roleplay |
-| **106** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:10)) | Roleplay |
-| **107** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:15)) | Roleplay |
-| **108** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:15)) | Roleplay |
-| **109** | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:20)) | Roleplay |
-| **110** | Nashkel | Mirtul 8, 1368 DR (Afternoon (15:00)) | Roleplay |
-| **111** | Beregost | Mirtul 9, 1368 DR (Morning (08:00)) | Roleplay |
-| **112** | Beregost | Mirtul 9, 1368 DR (Morning (08:01)) | Roleplay |
-| **113** | Beregost | Mirtul 9, 1368 DR (Morning (08:02)) | Roleplay |
-| **114** | Wood of Sharp Teeth | Mirtul 9, 1368 DR (Evening (18:00)) | Roleplay |
-| **115** | Bandit Camp Perimeter | Mirtul 9, 1368 DR (Evening (18:45)) | Roleplay |
-| **116** | Bandit Camp Perimeter | Mirtul 9, 1368 DR (Evening (18:50)) | Roleplay |
-| **117** | Bandit Camp Perimeter | Mirtul 9, 1368 DR (Evening (18:55)) | Roleplay |
-| **118** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:15)) | Roleplay |
-| **119** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:30)) | Roleplay |
-| **120** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:30)) | Roleplay |
-| **121** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:35)) | Roleplay |
-| **122** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:40)) | Roleplay |
-| **123** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:40)) | Roleplay |
-| **124** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:41)) | Roleplay |
-| **125** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42)) | Roleplay |
-| **126** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42) | Roleplay |
-| **127** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42) | Roleplay |
-| **128** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:43)) | Roleplay |
-| **129** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42) | Roleplay |
-| **130** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:43)) | Roleplay |
-| **131** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:50)) | Roleplay |
-| **132** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:55)) | Roleplay |
-| **133** | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:58)) | Roleplay |
-| **134** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:00)) | Roleplay |
-| **135** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:00)) | Roleplay |
-| **136** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:00)) | Roleplay |
-| **137** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:05)) | Roleplay |
-| **138** | Bandit Camp | Mirtul 10, 1368 DR (Dawn (05:00)) | Roleplay |
-| **139** | Unknown |  | Roleplay |
-| **140** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:05)) | Roleplay |
-| **141** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:05)) | Roleplay |
-| **142** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:06)) | Roleplay |
-| **143** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:06)) | Roleplay |
-| **144** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:10)) | Roleplay |
-| **145** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:12)) | Roleplay |
-| **146** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:15)) | Roleplay |
-| **147** | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:30)) | Roleplay |
-| **148** | Unknown |  | Roleplay |
-| **149** | Unknown |  | Roleplay |
-| **150** | Bandit Camp | Mirtul 10, 1368 DR (Dawn (06:00)) | Roleplay |
-| **151** | Bandit Camp | Mirtul 10, 1368 DR (Dawn (06:00)) | Roleplay |
-| **152** | Bandit Camp | Mirtul 10, 1368 DR (Dawn (06:05)) | Roleplay |
-| **153** | Wilderness | Mirtul 10, 1368 DR (Midday (12:00)) | Roleplay |
-| **154** | Wilderness | Mirtul 10, 1368 DR (Midday (13:00)) | Roleplay |
-| **155** | Wilderness | Mirtul 10, 1368 DR (Afternoon (14:00)) | Roleplay |
-| **156** | Wilderness | Mirtul 10, 1368 DR (Afternoon (14:00)) | Roleplay |
-| **157** | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
-| **158** | Unknown |  | Roleplay |
-| **159** | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:00)) | Roleplay |
-| **160** | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:30)) | Roleplay |
-| **161** | Bandit Camp | Mirtul 10, 1368 DR (Evening (19:00)) | Roleplay |
-| **162** | Cloakwood Forest | Mirtul 11, 1368 DR (Morning (06:00)) | Roleplay |
-| **163** | Bandit Camp | Mirtul 10, 1368 DR (Evening (19:30)) | Roleplay |
-| **164** | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
-| **165** | Bandit Camp | Mirtul 10, 1368 DR (Evening (20:00)) | Roleplay |
-| **166** | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
-| **167** | Bandit Camp | Mirtul 10, 1368 DR (Evening (20:30)) | Roleplay |
-| **168** | Bandit Camp | Mirtul 10, 1368 DR (Evening (20:45)) | Roleplay |
-| **169** | Unknown |  | Roleplay |
-| **170** | Unknown |  | Roleplay |
-| **171** | Unknown |  | Roleplay |
-| **172** | Unknown |  | Roleplay |
-| **173** | Bandit Camp | Mirtul 10, 1368 DR (Evening (21:00)) | Roleplay |
-| **174** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
-| **175** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:15)) | Roleplay |
-| **176** | Unknown |  | Roleplay |
-| **177** | Bandit Camp | Mirtul 12, 1368 DR (Dawn (06:00)) | Roleplay |
-| **178** | Cloakwood Forest | Mirtul 12, 1368 DR (Evening (18:00)) | Roleplay |
-| **179** | Cloakwood Forest | Mirtul 12, 1368 DR (Evening (18:15)) | Roleplay |
-| **180** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:20)) | Roleplay |
-| **181** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:30)) | Roleplay |
-| **182** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:31)) | Roleplay |
-| **183** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:32)) | Roleplay |
-| **184** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:45)) | Roleplay |
-| **185** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
-| **186** | Unknown |  | Roleplay |
-| **187** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:50)) | Roleplay |
-| **188** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:55)) | Roleplay |
-| **189** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:00)) | Roleplay |
-| **190** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
-| **191** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
-| **192** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
-| **193** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:15)) | Roleplay |
-| **194** | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
-| **195** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
-| **196** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
-| **197** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
-| **198** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:06)) | Roleplay |
-| **199** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:15)) | Roleplay |
-| **200** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:16)) | Roleplay |
-| **201** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:17)) | Roleplay |
-| **202** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:20)) | Roleplay |
-| **203** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:50)) | Roleplay |
-| **204** | Bandit Camp | Mirtul 12, 1368 DR (Dawn (06:00)) | Roleplay |
-| **205** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:20)) | Roleplay |
-| **206** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:10)) | Roleplay |
-| **207** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:35)) | Roleplay |
-| **208** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36)) | Roleplay |
-| **209** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36)) | Roleplay |
-| **210** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36) | Roleplay |
-| **211** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36) | Roleplay |
-| **212** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:36)) | Roleplay |
-| **213** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:36)) | Roleplay |
-| **214** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:45)) | Roleplay |
-| **215** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:46)) | Roleplay |
-| **216** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:47)) | Roleplay |
-| **217** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:50)) | Roleplay |
-| **218** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:50)) | Roleplay |
-| **219** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:51)) | Roleplay |
-| **220** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:55)) | Roleplay |
-| **221** | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (16:55)) | Roleplay |
-| **222** | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:00)) | Roleplay |
-| **223** | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:00)) | Roleplay |
-| **224** | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:05)) | Roleplay |
-| **225** | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:05)) | Roleplay |
-| **226** | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:15)) | Roleplay |
-| **227** | Cloakwood Mines | Mirtul 17, 1368 DR (Midday (12:00)) | Roleplay |
-| **228** | Cloakwood Mines | Mirtul 17, 1368 DR (Midday (12:00)) | Roleplay |
-| **229** | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:37)) | Roleplay |
-| **230** | Friendly Arm Inn | Mirtul 19, 1368 DR (Evening (18:00)) | Roleplay |
-| **231** | Friendly Arm Inn | Mirtul 15, 1368 DR (Evening (18:00)) | Roleplay |
-| **232** | Friendly Arm Inn | Mirtul 16, 1368 DR (Morning (08:00)) | Roleplay |
-| **233** | Wyrm's Crossing (Bridge to Baldur's Gate) | Mirtul 16, 1368 DR (Late Afternoon (16:00)) | Roleplay |
-| **234** | Baldur's Gate | Mirtul 16, 1368 DR (Late Afternoon (16:15)) | Roleplay |
-| **235** | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
-| **236** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:00)) | Roleplay |
-| **237** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:00)) | Roleplay |
-| **238** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
-| **239** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:11)) | Roleplay |
-| **240** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:12)) | Roleplay |
-| **241** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:15)) | Roleplay |
-| **242** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
-| **243** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:20)) | Roleplay |
-| **244** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
-| **245** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
-| **246** | Friendly Arm Inn | Mirtul 19, 1368 DR (Evening (18:00)) | Roleplay |
-| **247** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:20)) | Roleplay |
-| **248** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:25)) | Roleplay |
-| **249** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:26)) | Roleplay |
-| **250** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:30)) | Roleplay |
-| **251** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:05)) | Roleplay |
-| **252** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:30)) | Roleplay |
-| **253** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:25)) | Roleplay |
+| [**Scene 01**](#scene-1) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 02**](#scene-2) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 03**](#scene-3) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 04**](#scene-4) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 05**](#scene-5) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 06**](#scene-6) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 07**](#scene-7) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 08**](#scene-8) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 09**](#scene-9) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 10**](#scene-10) | Candlekeep | Mirtul 1, 1368 DR (Dusk) | Roleplay |
+| [**Scene 11**](#scene-11) | Candlekeep | Mirtul 1, 1368 DR (Evening (19:15)) | Roleplay |
+| [**Scene 12**](#scene-12) | The Lion's Way | Mirtul 1, 1368 DR (Night (22:45)) | Roleplay |
+| [**Scene 13**](#scene-13) | The Lion's Way | Mirtul 1, 1368 DR (Night (22:46)) | Roleplay |
+| [**Scene 14**](#scene-14) | Wilderness | Mirtul 2, 1368 DR (Morning (06:30)) | Roleplay |
+| [**Scene 15**](#scene-15) | Wilderness | Mirtul 2, 1368 DR (Morning (07:00)) | Roleplay |
+| [**Scene 16**](#scene-16) | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:00)) | Roleplay |
+| [**Scene 17**](#scene-17) | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:05)) | Roleplay |
+| [**Scene 18**](#scene-18) | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:10)) | Roleplay |
+| [**Scene 19**](#scene-19) | The Shadow Path | Mirtul 2, 1368 DR (Midday (11:25)) | Roleplay |
+| [**Scene 20**](#scene-20) | The Shadow Path | Mirtul 2, 1368 DR (Midday (12:25)) | Roleplay |
+| [**Scene 21**](#scene-21) | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:00)) | Roleplay |
+| [**Scene 22**](#scene-22) | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10)) | Roleplay |
+| [**Scene 23**](#scene-23) | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10) | Roleplay |
+| [**Scene 24**](#scene-24) | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10) | Roleplay |
+| [**Scene 25**](#scene-25) | Friendly Arm Inn | Mirtul 2, 1368 DR (Night (21:10) | Roleplay |
+| [**Scene 26**](#scene-26) | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:00)) | Roleplay |
+| [**Scene 27**](#scene-27) | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:05)) | Roleplay |
+| [**Scene 28**](#scene-28) | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:15)) | Roleplay |
+| [**Scene 29**](#scene-29) | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:20)) | Roleplay |
+| [**Scene 30**](#scene-30) | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (09:25)) | Roleplay |
+| [**Scene 31**](#scene-31) | Friendly Arm Inn | Mirtul 3, 1368 DR (Morning (10:00)) | Roleplay |
+| [**Scene 32**](#scene-32) | The Coast Way | Mirtul 3, 1368 DR (Late Afternoon (17:00)) | Roleplay |
+| [**Scene 33**](#scene-33) | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:15)) | Roleplay |
+| [**Scene 34**](#scene-34) | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:20)) | Roleplay |
+| [**Scene 35**](#scene-35) | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:21)) | Roleplay |
+| [**Scene 36**](#scene-36) | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:22)) | Roleplay |
+| [**Scene 37**](#scene-37) | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:25)) | Roleplay |
+| [**Scene 38**](#scene-38) | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:26)) | Roleplay |
+| [**Scene 39**](#scene-39) | Beregost | Mirtul 3, 1368 DR (Late Afternoon (17:27)) | Roleplay |
+| [**Scene 40**](#scene-40) | Beregost | Mirtul 3, 1368 DR (Evening (18:15)) | Roleplay |
+| [**Scene 41**](#scene-41) | Beregost | Mirtul 3, 1368 DR (Evening (18:30)) | Roleplay |
+| [**Scene 42**](#scene-42) | Beregost | Mirtul 3, 1368 DR (Evening (18:20)) | Roleplay |
+| [**Scene 43**](#scene-43) | Beregost | Mirtul 3, 1368 DR (Night (19:00)) | Roleplay |
+| [**Scene 44**](#scene-44) | Beregost | Mirtul 3, 1368 DR (Night (20:00)) | Roleplay |
+| [**Scene 45**](#scene-45) | The Coast Way | Mirtul 4, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 46**](#scene-46) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:00)) | Roleplay |
+| [**Scene 47**](#scene-47) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:30)) | Roleplay |
+| [**Scene 48**](#scene-48) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:31)) | Roleplay |
+| [**Scene 49**](#scene-49) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:05)) | Roleplay |
+| [**Scene 50**](#scene-50) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:31)) | Roleplay |
+| [**Scene 51**](#scene-51) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:32)) | Roleplay |
+| [**Scene 52**](#scene-52) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:32) | Roleplay |
+| [**Scene 53**](#scene-53) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:32) | Roleplay |
+| [**Scene 54**](#scene-54) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:35)) | Roleplay |
+| [**Scene 55**](#scene-55) | The Coast Way | Mirtul 4, 1368 DR (Afternoon (15:45)) | Roleplay |
+| [**Scene 56**](#scene-56) | Wilderness Camp | Mirtul 5, 1368 DR (Morning (06:00)) | Roleplay |
+| [**Scene 57**](#scene-57) | Nashkel | Mirtul 5, 1368 DR (Evening (17:00)) | Roleplay |
+| [**Scene 58**](#scene-58) | Nashkel | Mirtul 5, 1368 DR (Evening (17:15)) | Roleplay |
+| [**Scene 59**](#scene-59) | Nashkel | Mirtul 5, 1368 DR (Evening (17:20)) | Roleplay |
+| [**Scene 60**](#scene-60) | Cloudpeaks | Mirtul 7, 1368 DR (Early Morning (05:00)) | Roleplay |
+| [**Scene 61**](#scene-61) | Cloudpeaks | Mirtul 7, 1368 DR (Early Morning (05:05)) | Roleplay |
+| [**Scene 62**](#scene-62) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20)) | Roleplay |
+| [**Scene 63**](#scene-63) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
+| [**Scene 64**](#scene-64) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
+| [**Scene 65**](#scene-65) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
+| [**Scene 66**](#scene-66) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:20) | Roleplay |
+| [**Scene 67**](#scene-67) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:21)) | Roleplay |
+| [**Scene 68**](#scene-68) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:25)) | Roleplay |
+| [**Scene 69**](#scene-69) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:26)) | Roleplay |
+| [**Scene 70**](#scene-70) | Gnoll Stronghold | Mirtul 7, 1368 DR (Early Morning (05:27)) | Roleplay |
+| [**Scene 71**](#scene-71) | Cloudpeaks | Mirtul 7, 1368 DR (Morning (06:00)) | Roleplay |
+| [**Scene 72**](#scene-72) | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:30)) | Roleplay |
+| [**Scene 73**](#scene-73) | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:35)) | Roleplay |
+| [**Scene 74**](#scene-74) | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:35) | Roleplay |
+| [**Scene 75**](#scene-75) | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:35) | Roleplay |
+| [**Scene 76**](#scene-76) | Nashkel Mines Area | Mirtul 7, 1368 DR (Midday (12:40)) | Roleplay |
+| [**Scene 77**](#scene-77) | Nashkel | Mirtul 7, 1368 DR (Evening (19:00)) | Roleplay |
+| [**Scene 78**](#scene-78) | Nashkel | Mirtul 7, 1368 DR (Evening (19:05)) | Roleplay |
+| [**Scene 79**](#scene-79) | Nashkel | Mirtul 7, 1368 DR (Evening (19:10)) | Roleplay |
+| [**Scene 80**](#scene-80) | Nashkel | Mirtul 7, 1368 DR (Evening (19:30)) | Roleplay |
+| [**Scene 81**](#scene-81) | Nashkel | Mirtul 7, 1368 DR (Evening (19:35)) | Roleplay |
+| [**Scene 82**](#scene-82) | Nashkel | Mirtul 7, 1368 DR (Evening (19:40)) | Roleplay |
+| [**Scene 83**](#scene-83) | Nashkel | Mirtul 7, 1368 DR (Evening (20:00)) | Roleplay |
+| [**Scene 84**](#scene-84) | Nashkel | Mirtul 7, 1368 DR (Evening (20:10)) | Roleplay |
+| [**Scene 85**](#scene-85) | Nashkel | Mirtul 7, 1368 DR (Evening (20:10)) | Roleplay |
+| [**Scene 86**](#scene-86) | Nashkel | Mirtul 7, 1368 DR (Evening (20:10)) | Roleplay |
+| [**Scene 87**](#scene-87) | Nashkel | Mirtul 7, 1368 DR (Evening (20:30)) | Roleplay |
+| [**Scene 88**](#scene-88) | Nashkel | Mirtul 8, 1368 DR (Dawn (06:00)) | Roleplay |
+| [**Scene 89**](#scene-89) | Nashkel Mines | Mirtul 8, 1368 DR (Dawn (06:15)) | Roleplay |
+| [**Scene 90**](#scene-90) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:00)) | Roleplay |
+| [**Scene 91**](#scene-91) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:15)) | Roleplay |
+| [**Scene 92**](#scene-92) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:15) | Roleplay |
+| [**Scene 93**](#scene-93) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:30)) | Roleplay |
+| [**Scene 94**](#scene-94) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (07:35)) | Roleplay |
+| [**Scene 95**](#scene-95) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:35)) | Roleplay |
+| [**Scene 96**](#scene-96) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:36)) | Roleplay |
+| [**Scene 97**](#scene-97) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:37)) | Roleplay |
+| [**Scene 98**](#scene-98) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:37) | Roleplay |
+| [**Scene 99**](#scene-99) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:37) | Roleplay |
+| [**Scene 100**](#scene-100) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (08:40)) | Roleplay |
+| [**Scene 101**](#scene-101) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (09:45)) | Roleplay |
+| [**Scene 102**](#scene-102) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (09:46)) | Roleplay |
+| [**Scene 103**](#scene-103) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (09:47)) | Roleplay |
+| [**Scene 104**](#scene-104) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:00)) | Roleplay |
+| [**Scene 105**](#scene-105) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:05)) | Roleplay |
+| [**Scene 106**](#scene-106) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:10)) | Roleplay |
+| [**Scene 107**](#scene-107) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:15)) | Roleplay |
+| [**Scene 108**](#scene-108) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:15)) | Roleplay |
+| [**Scene 109**](#scene-109) | Nashkel Mines | Mirtul 8, 1368 DR (Morning (10:20)) | Roleplay |
+| [**Scene 110**](#scene-110) | Nashkel | Mirtul 8, 1368 DR (Afternoon (15:00)) | Roleplay |
+| [**Scene 111**](#scene-111) | Beregost | Mirtul 9, 1368 DR (Morning (08:00)) | Roleplay |
+| [**Scene 112**](#scene-112) | Beregost | Mirtul 9, 1368 DR (Morning (08:01)) | Roleplay |
+| [**Scene 113**](#scene-113) | Beregost | Mirtul 9, 1368 DR (Morning (08:02)) | Roleplay |
+| [**Scene 114**](#scene-114) | Wood of Sharp Teeth | Mirtul 9, 1368 DR (Evening (18:00)) | Roleplay |
+| [**Scene 115**](#scene-115) | Bandit Camp Perimeter | Mirtul 9, 1368 DR (Evening (18:45)) | Roleplay |
+| [**Scene 116**](#scene-116) | Bandit Camp Perimeter | Mirtul 9, 1368 DR (Evening (18:50)) | Roleplay |
+| [**Scene 117**](#scene-117) | Bandit Camp Perimeter | Mirtul 9, 1368 DR (Evening (18:55)) | Roleplay |
+| [**Scene 118**](#scene-118) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:15)) | Roleplay |
+| [**Scene 119**](#scene-119) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:30)) | Roleplay |
+| [**Scene 120**](#scene-120) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:30)) | Roleplay |
+| [**Scene 121**](#scene-121) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:35)) | Roleplay |
+| [**Scene 122**](#scene-122) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:40)) | Roleplay |
+| [**Scene 123**](#scene-123) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:40)) | Roleplay |
+| [**Scene 124**](#scene-124) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:41)) | Roleplay |
+| [**Scene 125**](#scene-125) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42)) | Roleplay |
+| [**Scene 126**](#scene-126) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42) | Roleplay |
+| [**Scene 127**](#scene-127) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42) | Roleplay |
+| [**Scene 128**](#scene-128) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:43)) | Roleplay |
+| [**Scene 129**](#scene-129) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:42) | Roleplay |
+| [**Scene 130**](#scene-130) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:43)) | Roleplay |
+| [**Scene 131**](#scene-131) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:50)) | Roleplay |
+| [**Scene 132**](#scene-132) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:55)) | Roleplay |
+| [**Scene 133**](#scene-133) | Bandit Camp | Mirtul 9, 1368 DR (Evening (19:58)) | Roleplay |
+| [**Scene 134**](#scene-134) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:00)) | Roleplay |
+| [**Scene 135**](#scene-135) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:00)) | Roleplay |
+| [**Scene 136**](#scene-136) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:00)) | Roleplay |
+| [**Scene 137**](#scene-137) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:05)) | Roleplay |
+| [**Scene 138**](#scene-138) | Bandit Camp | Mirtul 10, 1368 DR (Dawn (05:00)) | Roleplay |
+| [**Scene 139**](#scene-139) | Unknown |  | Roleplay |
+| [**Scene 140**](#scene-140) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:05)) | Roleplay |
+| [**Scene 141**](#scene-141) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:05)) | Roleplay |
+| [**Scene 142**](#scene-142) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:06)) | Roleplay |
+| [**Scene 143**](#scene-143) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:06)) | Roleplay |
+| [**Scene 144**](#scene-144) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:10)) | Roleplay |
+| [**Scene 145**](#scene-145) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:12)) | Roleplay |
+| [**Scene 146**](#scene-146) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:15)) | Roleplay |
+| [**Scene 147**](#scene-147) | Bandit Camp | Mirtul 9, 1368 DR (Evening (20:30)) | Roleplay |
+| [**Scene 148**](#scene-148) | Unknown |  | Roleplay |
+| [**Scene 149**](#scene-149) | Unknown |  | Roleplay |
+| [**Scene 150**](#scene-150) | Bandit Camp | Mirtul 10, 1368 DR (Dawn (06:00)) | Roleplay |
+| [**Scene 151**](#scene-151) | Bandit Camp | Mirtul 10, 1368 DR (Dawn (06:00)) | Roleplay |
+| [**Scene 152**](#scene-152) | Bandit Camp | Mirtul 10, 1368 DR (Dawn (06:05)) | Roleplay |
+| [**Scene 153**](#scene-153) | Wilderness | Mirtul 10, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 154**](#scene-154) | Wilderness | Mirtul 10, 1368 DR (Midday (13:00)) | Roleplay |
+| [**Scene 155**](#scene-155) | Wilderness | Mirtul 10, 1368 DR (Afternoon (14:00)) | Roleplay |
+| [**Scene 156**](#scene-156) | Wilderness | Mirtul 10, 1368 DR (Afternoon (14:00)) | Roleplay |
+| [**Scene 157**](#scene-157) | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
+| [**Scene 158**](#scene-158) | Unknown |  | Roleplay |
+| [**Scene 159**](#scene-159) | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:00)) | Roleplay |
+| [**Scene 160**](#scene-160) | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:30)) | Roleplay |
+| [**Scene 161**](#scene-161) | Bandit Camp | Mirtul 10, 1368 DR (Evening (19:00)) | Roleplay |
+| [**Scene 162**](#scene-162) | Cloakwood Forest | Mirtul 11, 1368 DR (Morning (06:00)) | Roleplay |
+| [**Scene 163**](#scene-163) | Bandit Camp | Mirtul 10, 1368 DR (Evening (19:30)) | Roleplay |
+| [**Scene 164**](#scene-164) | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
+| [**Scene 165**](#scene-165) | Bandit Camp | Mirtul 10, 1368 DR (Evening (20:00)) | Roleplay |
+| [**Scene 166**](#scene-166) | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
+| [**Scene 167**](#scene-167) | Bandit Camp | Mirtul 10, 1368 DR (Evening (20:30)) | Roleplay |
+| [**Scene 168**](#scene-168) | Bandit Camp | Mirtul 10, 1368 DR (Evening (20:45)) | Roleplay |
+| [**Scene 169**](#scene-169) | Unknown |  | Roleplay |
+| [**Scene 170**](#scene-170) | Unknown |  | Roleplay |
+| [**Scene 171**](#scene-171) | Unknown |  | Roleplay |
+| [**Scene 172**](#scene-172) | Unknown |  | Roleplay |
+| [**Scene 173**](#scene-173) | Bandit Camp | Mirtul 10, 1368 DR (Evening (21:00)) | Roleplay |
+| [**Scene 174**](#scene-174) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 175**](#scene-175) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:15)) | Roleplay |
+| [**Scene 176**](#scene-176) | Unknown |  | Roleplay |
+| [**Scene 177**](#scene-177) | Bandit Camp | Mirtul 12, 1368 DR (Dawn (06:00)) | Roleplay |
+| [**Scene 178**](#scene-178) | Cloakwood Forest | Mirtul 12, 1368 DR (Evening (18:00)) | Roleplay |
+| [**Scene 179**](#scene-179) | Cloakwood Forest | Mirtul 12, 1368 DR (Evening (18:15)) | Roleplay |
+| [**Scene 180**](#scene-180) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:20)) | Roleplay |
+| [**Scene 181**](#scene-181) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:30)) | Roleplay |
+| [**Scene 182**](#scene-182) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:31)) | Roleplay |
+| [**Scene 183**](#scene-183) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:32)) | Roleplay |
+| [**Scene 184**](#scene-184) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:45)) | Roleplay |
+| [**Scene 185**](#scene-185) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 186**](#scene-186) | Unknown |  | Roleplay |
+| [**Scene 187**](#scene-187) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:50)) | Roleplay |
+| [**Scene 188**](#scene-188) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:55)) | Roleplay |
+| [**Scene 189**](#scene-189) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:00)) | Roleplay |
+| [**Scene 190**](#scene-190) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
+| [**Scene 191**](#scene-191) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
+| [**Scene 192**](#scene-192) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
+| [**Scene 193**](#scene-193) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:15)) | Roleplay |
+| [**Scene 194**](#scene-194) | Bandit Camp | Mirtul 10, 1368 DR (Afternoon (14:15)) | Roleplay |
+| [**Scene 195**](#scene-195) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 196**](#scene-196) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 197**](#scene-197) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:05)) | Roleplay |
+| [**Scene 198**](#scene-198) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:06)) | Roleplay |
+| [**Scene 199**](#scene-199) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:15)) | Roleplay |
+| [**Scene 200**](#scene-200) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:16)) | Roleplay |
+| [**Scene 201**](#scene-201) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:17)) | Roleplay |
+| [**Scene 202**](#scene-202) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:20)) | Roleplay |
+| [**Scene 203**](#scene-203) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (13:50)) | Roleplay |
+| [**Scene 204**](#scene-204) | Bandit Camp | Mirtul 12, 1368 DR (Dawn (06:00)) | Roleplay |
+| [**Scene 205**](#scene-205) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:20)) | Roleplay |
+| [**Scene 206**](#scene-206) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:10)) | Roleplay |
+| [**Scene 207**](#scene-207) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:35)) | Roleplay |
+| [**Scene 208**](#scene-208) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36)) | Roleplay |
+| [**Scene 209**](#scene-209) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36)) | Roleplay |
+| [**Scene 210**](#scene-210) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36) | Roleplay |
+| [**Scene 211**](#scene-211) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:36) | Roleplay |
+| [**Scene 212**](#scene-212) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:36)) | Roleplay |
+| [**Scene 213**](#scene-213) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:36)) | Roleplay |
+| [**Scene 214**](#scene-214) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:45)) | Roleplay |
+| [**Scene 215**](#scene-215) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:46)) | Roleplay |
+| [**Scene 216**](#scene-216) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:47)) | Roleplay |
+| [**Scene 217**](#scene-217) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:50)) | Roleplay |
+| [**Scene 218**](#scene-218) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:50)) | Roleplay |
+| [**Scene 219**](#scene-219) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:51)) | Roleplay |
+| [**Scene 220**](#scene-220) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (15:55)) | Roleplay |
+| [**Scene 221**](#scene-221) | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (16:55)) | Roleplay |
+| [**Scene 222**](#scene-222) | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:00)) | Roleplay |
+| [**Scene 223**](#scene-223) | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:00)) | Roleplay |
+| [**Scene 224**](#scene-224) | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:05)) | Roleplay |
+| [**Scene 225**](#scene-225) | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:05)) | Roleplay |
+| [**Scene 226**](#scene-226) | Cloakwood Mines | Mirtul 12, 1368 DR (Late Afternoon (17:15)) | Roleplay |
+| [**Scene 227**](#scene-227) | Cloakwood Mines | Mirtul 17, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 228**](#scene-228) | Cloakwood Mines | Mirtul 17, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 229**](#scene-229) | Cloakwood Mines | Mirtul 12, 1368 DR (Midday (14:37)) | Roleplay |
+| [**Scene 230**](#scene-230) | Friendly Arm Inn | Mirtul 19, 1368 DR (Evening (18:00)) | Roleplay |
+| [**Scene 231**](#scene-231) | Friendly Arm Inn | Mirtul 15, 1368 DR (Evening (18:00)) | Roleplay |
+| [**Scene 232**](#scene-232) | Friendly Arm Inn | Mirtul 16, 1368 DR (Morning (08:00)) | Roleplay |
+| [**Scene 233**](#scene-233) | Wyrm's Crossing (Bridge to Baldur's Gate) | Mirtul 16, 1368 DR (Late Afternoon (16:00)) | Roleplay |
+| [**Scene 234**](#scene-234) | Baldur's Gate | Mirtul 16, 1368 DR (Late Afternoon (16:15)) | Roleplay |
+| [**Scene 235**](#scene-235) | Cloakwood Forest | Mirtul 12, 1368 DR (Midday (12:00)) | Roleplay |
+| [**Scene 236**](#scene-236) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:00)) | Roleplay |
+| [**Scene 237**](#scene-237) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:00)) | Roleplay |
+| [**Scene 238**](#scene-238) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
+| [**Scene 239**](#scene-239) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:11)) | Roleplay |
+| [**Scene 240**](#scene-240) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:12)) | Roleplay |
+| [**Scene 241**](#scene-241) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:15)) | Roleplay |
+| [**Scene 242**](#scene-242) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
+| [**Scene 243**](#scene-243) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:20)) | Roleplay |
+| [**Scene 244**](#scene-244) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
+| [**Scene 245**](#scene-245) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:10)) | Roleplay |
+| [**Scene 246**](#scene-246) | Friendly Arm Inn | Mirtul 19, 1368 DR (Evening (18:00)) | Roleplay |
+| [**Scene 247**](#scene-247) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:20)) | Roleplay |
+| [**Scene 248**](#scene-248) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:25)) | Roleplay |
+| [**Scene 249**](#scene-249) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:26)) | Roleplay |
+| [**Scene 250**](#scene-250) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:30)) | Roleplay |
+| [**Scene 251**](#scene-251) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:05)) | Roleplay |
+| [**Scene 252**](#scene-252) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:30)) | Roleplay |
+| [**Scene 253**](#scene-253) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (17:25)) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 10/10 | XP: 0/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Bardic Inspiration: 2/2, Spells: L1 2/2, Rations: 5** &nbsp;|&nbsp; ⚠️ **Withdrawal (-2 to all Stats) | Hunger: Starving**
@@ -479,8 +495,11 @@ INT: 14 (+2) | WIS: 10 (+0) | CHA: 14 (+2)
 God Mode:
 Make me a gloomstalker and adjust my stat array appropriately. I wanna be gloomstalker rogue later
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 0/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Rations: 5, Arrows: 20** &nbsp;|&nbsp; ⚠️ **Withdrawal (-2 to all Stats) | Hunger: Starving**
@@ -517,8 +536,11 @@ Are you ready to begin the hunt?
 God Mode:
 swap sharpshooter with ASI +2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 0/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Rations: 5, Arrows: 20** &nbsp;|&nbsp; ⚠️ **Withdrawal (-2 to all Stats) | Hunger: Starving**
@@ -551,8 +573,11 @@ Are you ready to strike?
 God Mode:
 Begin Act I - Start the game. Roll initiative against Shank.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 0/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Rations: 5, Arrows: 20** &nbsp;|&nbsp; ⚠️ **Withdrawal (-2 to all Stats) | Hunger: Starving**
@@ -572,8 +597,11 @@ Shank moves with the desperate speed of a hired killer who wants to get paid and
 God Mode:
 Brace for Impact - Prepare to take the hit and counter-attack immediately after.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 0/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Rations: 5, Arrows: 20** &nbsp;|&nbsp; ⚠️ **Withdrawal (-2 to all Stats) | Hunger: Starving**
@@ -589,8 +617,11 @@ It is your turn.
 God Mode:
 Switch to Dual Shortswords - Drop the longsword and draw two blades for a flurry. (2 Attacks: +5 to hit, 1d6+3 / 1d6)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 0/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20** &nbsp;|&nbsp; ⚠️ **Withdrawal (-2 to all Stats) | Hunger: Starving | Combat: Round 2**
@@ -606,8 +637,11 @@ The room feels smaller now. The smell of his sweat mixes with the sea air. He is
 > [!NOTE] ⚙️ **Player Choice:**
 > *Feint &amp; Gut - Use Deception to create an opening, then strike for a vital spot. (Deception vs Insight, then Attack with Advantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 25/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 days) | Hunger: Satiated**
@@ -633,8 +667,11 @@ The Serpent Queen has returned.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check for Accomplices - Listen at the door and peek outside to ensure he was alone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 25/300 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 days) | Hunger: Satiated**
@@ -650,8 +687,11 @@ You peek through the crack in the door. The walkway is empty, bathed in the purp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot the Body - Search Shank&#x27;s pockets for coin, orders, or a signet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 25/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 days) | Hunger: Satiated**
@@ -667,8 +707,11 @@ Shank is stripped of value. Now he is just meat.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Dagger - Take a moment to study the serrated blade for maker&#x27;s marks or poison.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Candlekeep, Inner Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 25/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 days) | Hunger: Satiated**
@@ -686,8 +729,11 @@ Your knowledge of alchemy identifies it instantly: **Giant Centipede Venom**. It
 > 👤 **Player:**
 > *"leave and find gorion and epxlain about the assassin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Candlekeep, Library Steps** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Evening (19:15))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 25/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 23 hrs) | Hunger: Satiated**
@@ -709,8 +755,11 @@ He grips your shoulder, his eyes pleading. "Listen to me carefully, child. We le
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strategic Assessment - Point out that if one got in, others are likely waiting outside.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Lion's Way, Wilderness** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Night (22:45))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 25/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 20 hrs) | Hunger: Satiated**
@@ -744,8 +793,11 @@ The Armored Figure—Sarevok—laughs. It is a dry, humorless sound. "I am no fo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Threat - Use your heightened senses to scan Sarevok and the Ogres for any tactical weakness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Lion's Way, Wilderness** &nbsp;|&nbsp; ⏳ **Mirtul 1, 1368 DR (Night (22:46))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 25/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 20, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 20 hrs) | Hunger: Satiated**
@@ -769,8 +821,11 @@ Battle erupts instantly. Sarevok strides through the magical blast as if it were
 > [!NOTE] ⚙️ **Player Choice:**
 > *Distract &amp; Run - Loose an arrow at Sarevok to buy Gorion a fraction of a second, then flee.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Wilderness, East of Candlekeep** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Morning (06:30))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 75/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 19, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 12 hrs) | Hunger: Satiated**
@@ -796,8 +851,11 @@ You are alive. You are alone. The *Hunger* purrs contentedly, fueled by the resi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inventory &amp; Plan - Take stock of your resources and formulate a long-term strategy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Wilderness, East of Candlekeep** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Morning (07:00))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 75/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 19, Poisoned Dagger: 1 dose, Rations: 5 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 11 hrs) | Hunger: Satiated**
@@ -819,8 +877,11 @@ You are a queen without a court, a predator without a territory. The first step 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shadow Path (Woods) - Stick to the dense treeline parallel to the road. Slower movement, but Advantage on Stealth checks to avoid patrols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Shadow Path, North of Candlekeep** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Midday (11:00))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 75/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 19, Poisoned Dagger: 1 dose, Rations: 5 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 7 hrs) | Hunger: Satiated**
@@ -844,8 +905,11 @@ He hears your snapped twig. His eyes flick toward your hiding spot. He doesn't r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait and Observe - Stay hidden and let the stranger make his move first to assess his skill.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Shadow Path, North of Candlekeep** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Midday (11:05))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 75/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 19, Poisoned Dagger: 1 dose, Rations: 5 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 7 hrs) | Hunger: Satiated**
@@ -873,8 +937,11 @@ Your stealth was imperfect (Rolled 9); the snap of a twig earlier had risked exp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Even the Odds (Bandit 2) - Shoot the fresh bandit (Bandit 2) to prevent him from flanking Roric.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Shadow Path, North of Candlekeep** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Midday (11:10))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 100/300 | Gold: 59gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose, Rations: 5 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 7 hrs) | Hunger: Satiated**
@@ -896,8 +963,11 @@ The *Hunger* settles, satisfied by the proxy violence, though the memory of Sare
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend &amp; Negotiate - Climb down, introduce yourself (carefully), and propose travelling together for safety.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Shadow Path, North of Candlekeep** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Midday (11:25))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 100/300 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose, Rations: 5 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 7 hrs) | Hunger: Satiated**
@@ -928,8 +998,11 @@ You check the bandit you felled. He was carrying a small pouch containing **2 go
 > [!NOTE] ⚙️ **Player Choice:**
 > *Short Rest - Take an hour to recover, bond with Roric, and potentially identify the Agate more closely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Shadow Path, North of Candlekeep** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Midday (12:25))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 100/300 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose, Rations: 5 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 6 hrs) | Hunger: Satiated**
@@ -951,8 +1024,11 @@ He stands, stretching like a cat. "Break's over. The road doesn't get shorter by
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Shadow Path - Stick to the woods with Roric. Safe, steady, arrive after dark.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Friendly Arm Inn, Exterior Gates** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Night (21:00))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 100/300 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose, Rations: 4 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 14 hrs) | Hunger: Satiated**
@@ -978,8 +1054,11 @@ A lone man stands near the closed gates. He is wrapped in heavy travel robes, pa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bait Strategy - Have Roric approach openly on the road to distract him while you flank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Friendly Arm Inn, Exterior Gates** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Night (21:10))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 100/300 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose, Rations: 4 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 6 hrs) | Hunger: Satiated | Status: Hidden**
@@ -1003,8 +1082,11 @@ You are now directly behind him. You can smell the ozone of his magic and the st
 > 👤 **Player:**
 > *"assassins strike and make sure trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Friendly Arm Inn, Exterior Gates** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Night (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 11/11 | XP: 100/300 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose (Active)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 2**
@@ -1032,8 +1114,11 @@ It is your turn. The poisoned dagger is still in your hand, the venom unspent. Y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kick &amp; Shove - Kick his legs out to knock him prone, giving Roric Advantage on the next strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Friendly Arm Inn, Exterior Gates** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Night (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 0/11 (Unconscious) | XP: 100/300 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose, Death Saves: 0/0** &nbsp;|&nbsp; ⚠️ **Prone | Dying | Satiated | Combat: Round 3**
@@ -1061,8 +1146,11 @@ Through the ringing in your ears, you hear Roric shouting your name, and the dis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Make Death Saving Throw - Roll 1d20. 10+ succeeds, 9- fails. A 20 restores 1 HP immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Friendly Arm Inn, Exterior Gates** &nbsp;|&nbsp; ⏳ **Mirtul 2, 1368 DR (Night (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Ranger | HP: 0/11 (Unconscious) | XP: 100/300 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Arrows: 18, Poisoned Dagger: 1 dose, Death Saves: 1/0** &nbsp;|&nbsp; ⚠️ **Prone | Dying (1 Success) | Satiated | Combat: Round 3**
@@ -1096,8 +1184,11 @@ Tarnesh looks up at the guards, then down at you. He has seconds before the Frie
 > [!NOTE] ⚙️ **Player Choice:**
 > *Make Death Saving Throw (Round 4) - Roll 1d20. Cling to life while chaos erupts around you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Friendly Arm Inn, Guest Room** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Morning (09:00))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 61gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated | Level Up Available**
@@ -1145,8 +1236,11 @@ You have reached **Level 2**.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Custom Level Up Selection - Specify your Fighting Style and two 1st-level spells manually.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Friendly Arm Inn, Guest Room** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Morning (09:05))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 61.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose (Active)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 5 hrs) | Hunger: Satiated**
@@ -1174,8 +1268,11 @@ Jaheira crosses her arms. "We have much to discuss—the Nashkel Mines, the Iron
 Fighting Style: Archery (+2 to hit)
 Spells: Hunter&#x27;s Mark, Ensnaring Strike*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Friendly Arm Inn, Guest Room** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Morning (09:15))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 61.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose (Active)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 5 hrs) | Hunger: Satiated**
@@ -1197,8 +1294,11 @@ From the bed, Roric groans and sits up, wincing as he clutches his bandaged ribs
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Terms - Demand to know exactly who they work for (Harpers) and what the pay is.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Friendly Arm Inn, Guest Room** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Morning (09:20))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 61.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose (Active)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 5 hrs) | Hunger: Satiated**
@@ -1230,8 +1330,11 @@ She turns back to you. "We have a accord, then? We travel to Nashkel. We find th
 > 👤 **Player:**
 > *"negotiate for more gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Friendly Arm Inn, Guest Room** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Morning (09:25))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 211.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 5 hrs) | Hunger: Satiated**
@@ -1259,8 +1362,11 @@ Roric grins from the bed, though it looks painful. "I like her," he wheezes, poi
 > 👤 **Player:**
 > *"heal roric and visit shop and see what i can get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Friendly Arm Inn, Temple & Shop** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Morning (10:00))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 191.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 4 hrs) | Hunger: Satiated**
@@ -1295,8 +1401,11 @@ Roric eyes the **Thieves' Tools** hungrily. "I lost my kit in the woods," he mut
 > [!NOTE] ⚙️ **Player Choice:**
 > *Buy Essentials (Armor &amp; Tools) - Purchase Studded Leather (You) and Thieves&#x27; Tools (Roric). Cost: 70gp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Coast Way, North of Beregost** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:00))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 121.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 1 hr) | Hunger: Satiated**
@@ -1328,8 +1437,11 @@ Jaheira looks at the sinking sun. "It is a logical stop. But we must be careful.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Town Square - Look for oddities or opportunities in the town center before settling in.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Beregost, Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:15))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 121.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 1 hr) | Hunger: Satiated**
@@ -1361,8 +1473,11 @@ Garrick hesitates, glancing back at Silke. "Just... ruffians. They threaten her 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Silke - Ignore the bard and approach Silke directly to assess her true nature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Beregost, Town Square (Red Sheaf Inn)** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:20))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 121.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 0 hrs) | Hunger: Satiated**
@@ -1390,8 +1505,11 @@ Silke hears the hesitation and her eyes narrow. "Three hundred gold," she repeat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extort the Mage - &quot;They look innocent. Killing innocents costs extra. 400 gold.&quot;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Beregost, Town Square (Red Sheaf Inn)** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:21))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 121.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 18, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 0 hrs) | Hunger: Satiated**
@@ -1423,8 +1541,11 @@ Garrick covers his eyes. Roric's hand hovers over his scimitar, waiting for your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Contract - Draw weapons and slaughter the merchants as ordered. (Reward: 300gp, Jaheira leaves/hostile)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Beregost, Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:22))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 350/900 | Gold: 121.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 17, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 1 (Surprise)**
@@ -1456,8 +1577,11 @@ The party is broken. The Harpers have turned.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Contract - Draw weapons and slaughter the merchants as ordered. (Reward: 300gp, Jaheira leaves/hostile)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Beregost, Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:25))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 421.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 17, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated | Wanted (Beregost)**
@@ -1499,8 +1623,11 @@ You are alone in the square with three dead merchants, two fallen Harpers, a ter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Jaheira - Focus fire on the druid. She is the magical threat and the leader.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Beregost, Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:26))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 421.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost) | Combat: Ended**
@@ -1522,8 +1649,11 @@ You are standing in the center of a slaughter, blood on your hands and gold in y
 > 👤 **Player:**
 > *"distract guards, make sure harpers dead, loot harpers, abduct garrick"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Beregost, Back Alleys** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Late Afternoon (17:27))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 468.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost) | Combat: Evasion**
@@ -1561,8 +1691,11 @@ You sprint into the labyrinth of Beregost's slums, the shouts of the Flaming Fis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find a Bolt-Hole - Roric is a rogue; ask him if he knows a safe house or a fence in Beregost.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Beregost, Kagain's Shop (Safe House)** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Evening (18:15))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 468.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated | Wanted (Beregost) | Hidden**
@@ -1596,8 +1729,11 @@ He eyes the heavy purse at your belt, then the Harper cloak pin dangling from yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Kagain - Offer him a cut of the Nashkel job if he joins you. A tank would be useful.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Beregost, Kagain's Shop (Safe House)** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Evening (18:30))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 468.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days 23 hrs) | Wanted (Beregost)**
@@ -1631,8 +1767,11 @@ He glances at Garrick, who is curled up on the sacks. "What about the bard? He l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Kagain - Offer him a cut of the Nashkel job if he joins you. A tank would be useful.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Beregost, Kagain's Shop (Safe House)** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Evening (18:20))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 0 hrs) | Wanted (Beregost)**
@@ -1662,8 +1801,11 @@ Kagain kicks his chair aside. "Then you've got yourself a shield. Now..." He poi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Garrick (Force) - Terrify him into servitude. &quot;Join us or die.&quot; He adds arcane support and lore knowledge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Beregost, Kagain's Shop (Safe House)** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Night (19:00))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days 22 hrs) | Wanted (Beregost)**
@@ -1703,8 +1845,11 @@ You have turned a disaster into a recruitment drive. You have a tank, a scout, a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Talk to Roric - Spend some time bonding with the rogue before sleep. Discuss the heist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Beregost, Kagain's Shop (Cellar)** &nbsp;|&nbsp; ⏳ **Mirtul 3, 1368 DR (Night (20:00))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days 21 hrs) | Wanted (Beregost)**
@@ -1740,8 +1885,11 @@ The streets of Beregost are quiet, but the tension is palpable. Wanted posters w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Departure - Stick to the back alleys and fields to avoid the town gates entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Coast Way, South of Beregost** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days 5 hrs) | Wanted (Beregost)**
@@ -1781,8 +1929,11 @@ You scan the horizon. The *Hunger* is quiet, but the *Satiated* clarity remains.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Debrief Garrick - Use the travel time to finally get the full story on Silke and her connections.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Coast Way, South of Beregost** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:00))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 16, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days 2 hrs) | Wanted (Beregost)**
@@ -1822,8 +1973,11 @@ By late afternoon, the roar of the river reaches your ears. The bridge ahead is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout &amp; Snipe - Send Roric forward to spot targets, then use your Longbow (Archery Style) to pick them off from range.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:30))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 15, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 1**
@@ -1849,8 +2003,11 @@ The enemy is scrambling. Roric is hidden on their flank. You have the initiative
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Wounded Archer - Put another arrow in the injured target to remove a ranged threat immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:31))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 600/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 15, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 2**
@@ -1882,8 +2039,11 @@ The Captain is bloodied but dangerous, holding the center of the bridge. Kagain 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout &amp; Snipe - Send Roric forward to spot targets, then use your Longbow (Archery Style) to pick them off from range.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:05))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 700/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 14, Poisoned Dagger: 1 dose, Potions: 2 Healing, 1 Invisibility** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days 2 hrs) | Wanted (Beregost) | Combat: Round 2**
@@ -1915,8 +2075,11 @@ You have cleared half the bridge. One heavily armored foe remains, currently eng
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Wounded Archer - Put another arrow in the injured target to remove a ranged threat immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:31))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 700/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Arrows: 15, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 2**
@@ -1934,8 +2097,11 @@ The flank is breaking, but the center is buckling. Kagain cannot tank the Captai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mark &amp; Snipe Captain - Bonus Action: Cast Hunter&#x27;s Mark on the Captain. Action: Shoot him. (+1d6 damage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:32))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 700/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Arrows: 14, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 3**
@@ -1959,8 +2125,11 @@ The Captain is bloodied, breathing hard, the magical mark pulsing on his armor. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus Fire (Captain) - Shoot the Captain again. The Mark adds damage. Finish him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:32)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 700/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Arrows: 13, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 3**
@@ -1982,8 +2151,11 @@ Roric is sprinting from the reeds to join the fray, but he is thirty feet out. Y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Distracting Shot - Aim for his weapon arm to disrupt the attack, saving Kagain but dealing less damage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:32)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Ranger | HP: 19/19 | XP: 700/900 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Arrows: 12, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 3**
@@ -2007,8 +2179,11 @@ The bridge is a stalemate of violence. The enemy is broken but not dead. He is d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Shot - Put an arrow through his eye. End the fight permanently.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:35))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/19 | XP: 950/2700 | Gold: 368.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Arrows: 11, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 days) | Level Up Available**
@@ -2053,8 +2228,11 @@ You have embraced the darkness. You gain:
 > 👤 **Player:**
 > *"loot and tell the bard to heal kagain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The Coast Way, Bridge Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 4, 1368 DR (Afternoon (15:45))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/19 | XP: 950/2700 | Gold: 416.5gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Arrows: 11, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 23 hrs) | Combat: Ended**
@@ -2086,8 +2264,11 @@ The sun is dipping lower, casting long shadows across the Cloudpeaks. You are ac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Make Camp (Wilderness) - Find a secluded spot a few miles south to rest and recover fully.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Wilderness Camp, South of the Bridge** &nbsp;|&nbsp; ⏳ **Mirtul 5, 1368 DR (Morning (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 416.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 11, Poisoned Dagger: 1 dose, Rations: 4 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 14 hrs) | Long Rest Completed**
@@ -2119,8 +2300,11 @@ Kagain is already up, checking the edge of his axe. "Nashkel is a day's march," 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Learn: Zephyr Strike - Bonus Action: No opportunity attacks, advantage on one attack, +1d8 force dmg, +30ft speed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Nashkel, Town Center** &nbsp;|&nbsp; ⏳ **Mirtul 5, 1368 DR (Evening (17:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 416.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 11, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 3 hrs) | Long Rest Completed**
@@ -2146,8 +2330,11 @@ You stand at the crossroads of opportunity. The Mines are the objective, but Nas
 > [!NOTE] ⚙️ **Player Choice:**
 > *Nashkel Store - Resupply on arrows and rations before any major undertaking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Nashkel, General Store** &nbsp;|&nbsp; ⏳ **Mirtul 5, 1368 DR (Evening (17:15))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Rations: 9 days (Party)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days 3 hrs) | Long Rest Completed**
@@ -2177,8 +2364,11 @@ You have resupplied. The town is open to you. The Mayor waits at the Temple, Oub
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Minsc - Talk to the berserker. &quot;Butt-kicking&quot; sounds like a useful skill for the mines.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Nashkel, Town Center** &nbsp;|&nbsp; ⏳ **Mirtul 5, 1368 DR (Evening (17:20))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Rations: 9 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Long Rest Completed**
@@ -2206,8 +2396,11 @@ You now have a powerful, albeit unhinged, berserker willing to join your pack—
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept: Rescue Dynaheir - Agree to help Minsc. Travel West to the Gnoll Stronghold. (High Combat, Potential Loot/Mage Recruit)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Cloudpeaks, Overlooking the Gnoll Stronghold** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Rations: 4 days (Party)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 4 days 15 hrs) | Party Size: 5**
@@ -2241,8 +2434,11 @@ Between you and her lies a small army. A frontal assault against fifty gnolls is
 > 👤 **Player:**
 > *"think. whats the best strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Cloudpeaks, Ridge Overlooking Gnoll Stronghold** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:05))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Rations: 4 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 4 days 15 hrs) | Hidden**
@@ -2254,8 +2450,11 @@ A direct assault against fifty armed gnolls is a mathematical impossibility; eve
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Fire Diversion - Send Roric and Garrick to the east wall to set massive fires using oil/magic. While the gnolls fight the flames, the rest extract Dynaheir.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:20))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Rations: 4 days** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Surprise Round (Rescue Team)**
@@ -2297,8 +2496,11 @@ Dynaheir looks up from the pit, sensing the change in the air. Her eyes lock ont
 > 👤 **Player:**
 > *"do this and make sure i trigger surprise round Dread Ambusher Alpha Strike: Unleash your Gloom Stalker burst. Attack twice (Attack + Extra Attack) with bonus damage on the first hit. Target the lead Elite."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 49, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 1 (Surprise Round Active)**
@@ -2330,8 +2532,11 @@ You stand amidst the carnage of your opening volley, two arrows lighter and one 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Snipe the Free Guard - Target the one unengaged Elite to keep him off Dynaheir.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 48, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 2**
@@ -2355,8 +2560,11 @@ The pit is a kill box. You have saved the witch for the moment, but now a wounde
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Zephyr Strike - Bonus Action: Cast spell. Attack with Advantage and extra force damage, then kite away with increased speed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 47, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Zephyr Strike | Combat: Round 2**
@@ -2380,8 +2588,11 @@ The rescue is balancing on a knife's edge. Two elites remain active. Dynaheir is
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assist Minsc - Put an arrow in the elite fighting Minsc to help the berserker secure a kill.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 950/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 46, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 3**
@@ -2405,8 +2616,11 @@ The stronghold is burning above you. The smoke is thickening. You have one targe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Shot (Last Elite) - Put an arrow in the final guard to end combat immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:21))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1150/2700 | Gold: 406.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 45, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Ended**
@@ -2438,8 +2652,11 @@ In the center of the carnage, **Dynaheir** lowers the magical barrier she had ra
 > 👤 **Player:**
 > *"loot then recruit dynaheir"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:25))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1150/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 45, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2471,8 +2688,11 @@ The distraction has turned into an inferno. Smoke billows into the canyon, choki
 > 👤 **Player:**
 > *"Think. What if we leave, draw them out, do a surgical strike to kill their chief or key officers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:26))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1150/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 45, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2482,8 +2702,11 @@ The distraction has turned into an inferno. Smoke billows into the canyon, choki
 > 👤 **Player:**
 > *"Think. How strong is the chieftain and his pack? What estimated level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Gnoll Stronghold, The Fighting Pits** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Early Morning (05:27))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1150/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 45, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2493,8 +2716,11 @@ The distraction has turned into an inferno. Smoke billows into the canyon, choki
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abort Strike (Escape) - Re-evaluate. Gnarl is too strong and the risk of the army returning is too high. Take the win (Dynaheir) and leave now.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Cloudpeaks, Wilderness (Safe Distance)** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Morning (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1650/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 45, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2541,8 +2767,11 @@ You have a full party. You have the intel. The road leads back to Nashkel, and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt the Bounty (Prism) - Detour East to find the sculptor Prism. Collect the 300gp bounty on the stolen emeralds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Nashkel Mines Area, The Sculptor's Cliff** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Midday (12:30))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1690/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 45, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 4 days 9 hrs) | Party Full (6/6)**
@@ -2582,8 +2811,11 @@ He draws his sword. The blade glows with a cold, blue light (**Varscona +2**). I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Prism Yourself - Shoot Prism before Greywolf can. Claim the kill and the gems, then dare Greywolf to take them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Nashkel Mines Area, The Sculptor's Cliff** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Midday (12:35))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1690/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/3, Arrows: 44, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2617,8 +2849,11 @@ Greywolf is a **Level 5 Fighter**. He has high AC (Plate), extra attack, and a m
 > 👤 **Player:**
 > *"dread ambusher plus zephyr strike"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Nashkel Mines Area, The Sculptor's Cliff** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Midday (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1690/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 42, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Zephyr Strike | Combat: Round 1**
@@ -2644,8 +2879,11 @@ You have drawn first blood (Greywolf HP: 31/45), but the boss is still standing,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order the Charge - Use your movement to flank, then shout for Minsc and Kagain to pin him down.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Nashkel Mines Area, The Sculptor's Cliff** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Midday (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1690/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 42, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Zephyr Strike (Active) | Combat: Round 1 (End)**
@@ -2673,8 +2911,11 @@ Greywolf stands in the center of the ring, his armor battered, his breath frosti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Shot (Longbow) - End it from range. Put an arrow in his throat before he swings again.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Nashkel Mines Area, The Sculptor's Cliff** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Midday (12:40))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 1856/2700 | Gold: 471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 41, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2707,8 +2948,11 @@ Minsc limps over to Prism's body, looking down at the dead artist with a heavy s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Keep Varscona - Equip the +2 Longsword yourself. It is a powerful melee upgrade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Nashkel, Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (19:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 771.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 41, Poisoned Dagger: 1 dose, Varscona +2 (Equipped)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 4 days 3 hrs) | Party Full (6/6)**
@@ -2746,8 +2990,11 @@ You take the gold and the scroll. You are rich, armed with legendary steel, and 
 > 👤 **Player:**
 > *"think didnt the bounty say 1000 gold? ask the guy oublek about it if so"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Nashkel, Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (19:05))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 771.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 41, Poisoned Dagger: 1 dose, Varscona +2 (Equipped)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2759,8 +3006,11 @@ You look at the heavy bag of 300 gold in your hand, and then at Oublek, who is b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Oublek (Publicly) - Slap the notice on his desk and demand the full 1,000gp immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Nashkel, Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (19:10))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 1471.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 41, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2786,8 +3036,11 @@ You have claimed your due. You are now carrying a small fortune (**1,471.5 gp**)
 > 👤 **Player:**
 > *"Visit the store and see what we can buy. Prioritize myself, and then think about highest ROI for each party member. Prioritize evil aligned party members"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Nashkel, General Store** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (19:30))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 1471.5gp (-1050gp)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 41, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2827,8 +3080,11 @@ Night has fully fallen over Nashkel. The Mayor awaits at the Temple of Helm to o
 > 👤 **Player:**
 > *"was there anything at the store good for me like weapons/armor?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Nashkel, General Store** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (19:35))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 | XP: 2056/2700 | Gold: 421.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 41, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2853,8 +3109,11 @@ He reaches under the counter and pulls out a small, oil-cloth bundle and a singl
 > 👤 **Player:**
 > *"haggle for everything for 300"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Nashkel, General Store** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (19:40))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 121.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 56 (10 +1, 5 Fire), Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2885,8 +3144,11 @@ The Mayor awaits at the Temple, but walking into a boss fight or a dungeon crawl
 God Mode:
 Make Varscona a finesse weapon then lets meet the mayor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Nashkel, Temple of Helm** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (20:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 121.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2908,8 +3170,11 @@ He rolls up the map and offers it to you. "I need you to go down there. Find the
 > 👤 **Player:**
 > *"negotiate the payment and try to extort him for a lot. 2000g and 1000g upfront"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Nashkel, Temple of Helm** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (20:10))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 521.5gp (+400gp)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2943,8 +3208,11 @@ You have the contract. You have the advance. You have the team. Now, you need to
 > 👤 **Player:**
 > *"try to extort him. 3000g and 1500g up front."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Nashkel, Temple of Helm** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (20:10))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 1021.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -2988,8 +3256,11 @@ You stand on the steps of the Temple. The town is dark. The mines await to the s
 > 👤 **Player:**
 > *"think. what are the alignments of the non evil characters, could i turn them?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Nashkel, Temple of Helm (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (20:10))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 1021.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3011,8 +3282,11 @@ Assessment: High - He is simple.
 
 THen lets visit the shop again. prioritize gear for these two that would be useful for others in case we need to kill them later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Nashkel, General Store** &nbsp;|&nbsp; ⏳ **Mirtul 7, 1368 DR (Evening (20:30))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 19/22 | XP: 2056/2700 | Gold: 421.5gp (-600gp)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3049,8 +3323,11 @@ Minsc straps on the heavy armor, looking like a steel mountain. Dynaheir tests t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Long Rest (Luxury Suite) - Rent the Royal Suite (50gp). Full recovery + Temp HP buff. Hit the mines at dawn at 100%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Nashkel, Northern Light Inn (Royal Suite)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Dawn (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2056/2700 | Gold: 371.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 4 days 17 hrs) | Well Rested (+4 Temp HP)**
@@ -3077,8 +3354,11 @@ Kagain spits. "Let's just get paid."
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Miners - Talk to the workers huddled outside. Get specifics on the &#x27;demons&#x27; (Kobolds? Undead?).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Nashkel Mines, Exterior** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Dawn (06:15))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2056/2700 | Gold: 371.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Well Rested**
@@ -3116,8 +3396,11 @@ You have the intel: **Kobolds (Traps/Ambush)** in the upper levels, **Undead** i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solo Ghost Recon - Enter alone first using Umbral Sight. Map the first level and disable traps, then signal the party.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Nashkel Mines, Level 1 (The Upper Tunnels)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (07:00))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2056/2700 | Gold: 371.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 56, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight Active**
@@ -3140,8 +3423,11 @@ You reach a junction overlooking the main descent shaft. The path is clear of im
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush the Main Hall - Lead the party to the central chamber you scouted. Launch a surprise attack on the main labor force.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Nashkel Mines, Level 1 (Main Excavation Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (07:15))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2056/2700 | Gold: 371.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 54, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight (Invisible) | Combat: Surprise Round**
@@ -3177,8 +3463,11 @@ The chamber explodes into chaos. The kobolds are screaming, their darkvision bet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Chieftain - Maintain high ground. Put another arrow in the prone leader before he can rally the pack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Nashkel Mines, Level 1 (Main Excavation Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2056/2700 | Gold: 371.5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 53, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight (Invisible) | Combat: Round 1**
@@ -3204,8 +3493,11 @@ Some of the kobolds are dropping their weapons, preparing to grovel. Others are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Capture &amp; Interrogate - Order Roric to grab a survivor while you suppress the rest. Learn about Level 2.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Nashkel Mines, Level 1 (Main Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (07:30))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2256/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 53, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Ended**
@@ -3250,8 +3542,11 @@ The way down is open. The air drifting up from the shaft smells of rot and old i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Give Gauntlets to Roric - Your DEX is already high. Give the gauntlets to the Rogue to boost his AC, Attack, and Thievery.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Nashkel Mines, Level 1 (Main Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (07:35))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2256/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 53, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Ended**
@@ -3275,8 +3570,11 @@ With the loot distributed and the first level secured, the party gathers around 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Short Rest (1 Hour) - Barricade the room. Take an hour to let Kagain heal (Spend Hit Dice) and attune fully to gear before descending.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Nashkel Mines, Level 2 (The Dark Descent)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (08:35))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2256/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 53, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -3316,8 +3614,11 @@ But they are not alone. Behind them, lurking in the shadows of a side tunnel, yo
 > 👤 **Player:**
 > *"Snipe grenadiers and try to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Nashkel Mines, Level 2 (Junction)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (08:36))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2256/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Combat: Surprise Round**
@@ -3347,8 +3648,11 @@ The skeletons rattle, turning their skulls slowly toward the source of the death
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kagain Shield Bash - Send the dwarf in to bowl them over with his heavy shield, creating a prone pile for easy execution.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Nashkel Mines, Level 2 (Junction)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (08:37))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2256/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Varscona +2, Kagain: Action Surge Used** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Combat: Surprise Round**
@@ -3374,8 +3678,11 @@ The path is clear for the rest of the pack. The enemy is prone and disorganized.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Minsc: Hammer Time - Order Minsc to charge and smash the prone skeletons with his heavy boots or pommel. (Advantage vs Prone).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Nashkel Mines, Level 2 (Junction)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (08:37)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2256/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Varscona +2, Kagain: Action Surge Used** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Combat: Surprise Round**
@@ -3399,8 +3706,11 @@ The junction is now a killing floor. Two skeletons remain: one prone and tanglin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Roric: Execute Prone Target - Signal Roric to finish the prone skeleton. (Advantage + Sneak Attack).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Nashkel Mines, Level 2 (Junction)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (08:37)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2256/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Varscona +2, Kagain: Action Surge Used** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Combat: Surprise Round (Ending)**
@@ -3418,8 +3728,11 @@ The junction is now a graveyard of second deaths. Only one guardian remains stan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Minsc: Cleave - Order the berserker to take the final head.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Nashkel Mines, Level 2 (Junction)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (08:40))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2306/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Ended**
@@ -3452,8 +3765,11 @@ Equip Alchemist's Fire: Give the fire flasks to Roric or Garrick for crowd contr
 Ghost Recon (Level 3): Scout ahead alone again. Use Umbral Sight to map Mulahey's lair before the party engages.
 Check Party Status: Take a moment to ensure everyone is ready before the boss fight."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Nashkel Mines, Level 2 (Junction) -> Level 3 Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (09:45))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2306/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 53, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -3496,8 +3812,11 @@ You slip back up the ramp, a shadow detaching from the gloom. You return to your
 
 Snipe Mulahey: Open the fight by putting a Dread Ambusher arrow in the boss from range before he spots the party."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (09:46))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Gloom Stalker | HP: 22/22 (4 Temp) | XP: 2306/2700 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Arrows: 51, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Combat: Surprise Round**
@@ -3533,8 +3852,11 @@ But Mulahey is badly wounded (24 damage total), gasping for air, his spellcastin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Boss - Ignore the minions. Put one more arrow in Mulahey to end the command structure immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (09:47))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 22/30 | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Level Up Available (Feat/ASI)**
@@ -3574,8 +3896,11 @@ You have reached **Level 4**. You gain **+8 HP** (Total 30) and an **Ability Sco
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select ASI: Dexterity +2 - Increase Dex to 20 (Base). +1 to Hit, Damage, AC, Initiative, and Skills. Reliable power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (10:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 (4 Temp) | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3606,8 +3931,11 @@ You have a full squad. But Xan is a wizard of significant power (Enchanter), wie
 > 👤 **Player:**
 > *"Think. What is Xan alignment and capabilities. Can he heal?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (10:05))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 (4 Temp) | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3617,8 +3945,11 @@ You have a full squad. But Xan is a wizard of significant power (Enchanter), wie
 > 👤 **Player:**
 > *"recruit xan and tell garrick to wait for me in camp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (10:10))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 (4 Temp) | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3648,8 +3979,11 @@ With the swap complete, you stand in the silence of the conquered mine. The lett
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Xan - Ask the elf if he overheard Mulahey speaking to anyone else (magical communication).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (10:15))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 (4 Temp) | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3675,8 +4009,11 @@ He looks at you, his expression bleak. "If Mulahey—a priest of the Prince of L
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Xan - Ask the elf if he overheard Mulahey speaking to anyone else (magical communication).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (10:15))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 (4 Temp) | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3706,8 +4043,11 @@ You have the confirmation. The conspiracy goes higher than a bandit leader. Ther
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Sweep - Do a final perception check of the lair to ensure no hidden stashes were missed before leaving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Nashkel Mines, Level 3 (Mulahey's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Morning (10:20))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 (4 Temp) | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3733,8 +4073,11 @@ You pocket the loot. The lair is stripped. The enemy is dead. The mines are sile
 > 👤 **Player:**
 > *"distribute loot. prioritize evil party members, then neutral, then good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Nashkel, Temple of Helm** &nbsp;|&nbsp; ⏳ **Mirtul 8, 1368 DR (Afternoon (15:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 (4 Temp) | XP: 2756/6500 | Gold: 417.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3779,8 +4122,11 @@ You throw Mulahey's holy symbol at his feet. It clatters loudly against the whit
 Demand Bonus: "I killed a cleric of Cyric and saved your town. 500 isn't enough. Empty the temple coffers."
 Political Leverage: Don't just take gold. Force him to write a letter of recommendation to the Dukes of Baldur's Gate."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Beregost, Feldepost Inn** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3056/6500 | Gold: 1317.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 50, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 3 days 19 hrs) | Party Full (6/6)**
@@ -3827,8 +4173,11 @@ Tranzig turns a page, oblivious to the six killers who have just walked through 
 > *"trigger surprise round. 
 Alpha Strike: Shoot him from the doorway. Use Dread Ambusher to drop him before he casts a single spell."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Beregost, Feldepost Inn** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Morning (08:01))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3218/6500 | Gold: 1392.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 48, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Full (6/6)**
@@ -3869,8 +4218,11 @@ You step up to the corpse. You have seconds before the screaming starts.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intimidate the Inn - &quot;He was a traitor to the Coast. Anyone who objects joins him.&quot; (Intimidation DC 15)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Beregost, Feldepost Inn** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Morning (08:02))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3218/6500 | Gold: 1392.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 48, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost) | Chaos**
@@ -3913,8 +4265,11 @@ You unfold the map Roric stole. The Bandit Camp is marked clearly. It is a forti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Equip Ring of Protection - Put on the ring (+1 AC/Saves). Give your old Ring of Protection (if you had one, or give to another) to Roric/Minsc.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Wood of Sharp Teeth, Bandit Camp Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (18:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3218/6500 | Gold: 1392.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 48, Poisoned Dagger: 1 dose, Varscona +2, Ring of Protection +1** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | AC: 19 (Ring +1)**
@@ -3951,8 +4306,11 @@ You hold the commission letters from Tranzig. They identify the bearer as a recr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Outer Perimeter Skirmish - Pick off the outer patrols one by one to thin their numbers before entering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Bandit Camp Perimeter, Wood of Sharp Teeth** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (18:45))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 46, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Party Full (6/6)**
@@ -3990,8 +4348,11 @@ You look at the gap in the perimeter. You can slip through now and head deeper t
 God Mode:
 Did I get exp and loot for the kills ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Bandit Camp Perimeter, Wood of Sharp Teeth** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (18:50))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Party Full (6/6)**
@@ -4005,8 +4366,11 @@ The gap in the patrol line is now a gaping wound in Tazok's defense. Through the
 God Mode:
 Make sure I got exp and loot for the kills
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Bandit Camp Perimeter, Wood of Sharp Teeth** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (18:55))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Party Full (6/6)**
@@ -4018,8 +4382,11 @@ The bodies of the Black Talon patrol are hidden deep in the bracken, stripping t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ghost Recon (Tazok) - Leave the party here. Infiltrate alone with Umbral Sight to locate the boss tent and assess threats.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Bandit Camp, Inner Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:15))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Stealth Mode**
@@ -4051,8 +4418,11 @@ You slip back into the shadows, retracing your steps to the breach. You have the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ghost Recon (Tazok) - Leave the party here. Infiltrate alone with Umbral Sight to locate the boss tent and assess threats.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Bandit Camp, Tazok's Command Post (Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:30))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Party Full (6/6)**
@@ -4086,8 +4456,11 @@ You slip back into the shadows, retracing your steps to the breach. You return t
 > 👤 **Player:**
 > *"Think. What're the best options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Bandit Camp, Tazok's Command Post (Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:30))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Party Full (6/6)**
@@ -4097,8 +4470,11 @@ You slip back into the shadows, retracing your steps to the breach. You return t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Operation: False Flag (Start a Riot) - Have Roric snipe a Hobgoblin captain from the cover of the Black Talon tents (or vice versa). Trigger a camp-wide brawl to draw guards away from Tazok.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Bandit Camp, Inner Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:35))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Chaos: Erupting**
@@ -4134,8 +4510,11 @@ Only two guards remain at the entrance. The Mage (**Venkt**) and **Tazok** are l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rear Entry (Cut the Tent) - Circle back to the rear. Cut the fabric and enter directly behind Tazok.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:40))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Umbral Sight | Combat: Surprise Round**
@@ -4170,8 +4549,11 @@ You have the drop on the mage. He is unarmored (AC 10 or 13 with Mage Armor if p
 > 👤 **Player:**
 > *"Rear entry and try to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:40))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Surprise Round | Umbral Sight**
@@ -4208,8 +4590,11 @@ You have one full round of actions before they can react. Venkt has magical defe
 > 👤 **Player:**
 > *"Alpha strike with zephyr strike on mage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:41))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 64, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Zephyr Strike | Combat: Surprise Round**
@@ -4241,8 +4626,11 @@ The silence in the tent is absolute for a heartbeat. **Raemon** stares at the co
 > 👤 **Player:**
 > *"Assassinate mage with zephyr strike"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:42))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 1/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Zephyr Strike | Combat: Surprise Round**
@@ -4272,8 +4660,11 @@ The silence in the tent is absolute for a heartbeat. **Raemon** stares at the co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order All-Out Assault - Command Minsc and Kagain to rush the remaining enemies while they are stunned.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:42)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Zephyr Strike | Combat: Round 1 (Surprise Ending)**
@@ -4297,8 +4688,11 @@ The tent is chaos. The enemy leadership is battered but alive. **Raemon** (Blood
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Raemon - The elite archer is bloodied. One good hit will drop him. (Attack +10)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:42)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 66, Poisoned Dagger: 1 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 1 (Main Phase)**
@@ -4324,8 +4718,11 @@ But the fight is not over. **Britik**, the massive gnoll elite, roars in fury se
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Shot: Hakt - Switch to bow or throw a dagger to drop Hakt before he can swing at the prisoner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:43))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4367,8 +4764,11 @@ You step over the bodies to the heavy iron chest at the foot of Venkt's bed. It 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Shot: Hakt - Switch to bow or throw a dagger to drop Hakt before he can swing at the prisoner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:42)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3318/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 66, Poisoned Dagger: 0 dose, Varscona +2 (Finesse)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Round 2**
@@ -4394,8 +4794,11 @@ One enemy remains. He is surrounded, desperate, and dangerous.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Shot: Britik - Put an arrow in the final gnoll to end the combat immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:43))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 1422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4429,8 +4832,11 @@ You step over the corpses to the heavy iron chest at the foot of Venkt's bed. **
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Ender Sai - Cut him loose and demand intel on the Cloakwood or Tazok&#x27;s habits before leaving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Bandit Camp, Command Tent (Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:50))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4459,8 +4865,11 @@ Ender slips out under the rear canvas, vanishing into the night.
 > 👤 **Player:**
 > *"Think. What if we burn tent and raid armory? How hurt is everyone?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Bandit Camp, Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:55))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4470,8 +4879,11 @@ Ender slips out under the rear canvas, vanishing into the night.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Ender Sai - Ask the thief where the Armory is and if it&#x27;s worth the risk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Bandit Camp, Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (19:58))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4496,8 +4908,11 @@ Ender pauses, a thief's glint entering his eye despite his fear. "However... the
 > 👤 **Player:**
 > *"Think. What if we leave, short rest, consolidate, then come back for the armory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Bandit Camp, Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4507,8 +4922,11 @@ Ender pauses, a thief's glint entering his eye despite his fear. "However... the
 > 👤 **Player:**
 > *"Think. What if we leave, short rest, secure gold, come back for armory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Bandit Camp, Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4518,8 +4936,11 @@ Ender pauses, a thief's glint entering his eye despite his fear. "However... the
 > 👤 **Player:**
 > *"Think. How strong enemy forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Bandit Camp, Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4529,8 +4950,11 @@ Ender pauses, a thief's glint entering his eye despite his fear. "However... the
 > 👤 **Player:**
 > *"Think. What if someone heals minsc and we just kill officers from both sides secretly and keep the civil war going? Then slowly wear them down and kill them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Bandit Camp, Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:05))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -4540,8 +4964,11 @@ Ender pauses, a thief's glint entering his eye despite his fear. "However... the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute: Operation Civil War - Heal Minsc. Deploy sniper teams to kill officers. Keep the riot burning until everyone is dead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Bandit Camp, Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Dawn (05:00))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 6500/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 1/3, Arrows: 60, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Camp Cleared | Level Up Available**
@@ -4596,8 +5023,11 @@ You have reached **Level 5**. You gain **Extra Attack** (Attack twice per action
 God Mode:
 What does adjusted to hit for narrative flow mean. We shouldn't do that who said to do that?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 
@@ -4607,8 +5037,11 @@ What does adjusted to hit for narrative flow mean. We shouldn't do that who said
 God Mode:
 Restart combat from before you adjusted the roll and let me fail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Bandit Camp, Command Tent (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:05))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Alerted**
@@ -4648,8 +5081,11 @@ The camp explodes into activity, but it is the organized chaos of an army mobili
 > 👤 **Player:**
 > *"Think. Any way to resume civil war operation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Bandit Camp, Command Tent (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:05))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Stealth: Hidden**
@@ -4663,8 +5099,11 @@ You have the tools to force a success. **Zephyr Strike** would grant you Advanta
 > 👤 **Player:**
 > *"Think. Any way to resume civil war"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Bandit Camp, Command Tent (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:06))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Alerted (Camp Mobilizing)**
@@ -4674,8 +5113,11 @@ You have the tools to force a success. **Zephyr Strike** would grant you Advanta
 > [!NOTE] ⚙️ **Player Choice:**
 > *False Flag: Arson - Have Roric throw Alchemist&#x27;s Fire at the Hobgoblin tents while they run past. Make it look like the humans torched them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Bandit Camp, Command Tent (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:06))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Alchemist's Fire: 1** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Alerted (Chaos Spreading)**
@@ -4710,8 +5152,11 @@ One guard rushes off toward the fire. **Only one sentry remains** at the tent fl
 God Mode:
 Wrong we already killed the command tent people.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Bandit Camp, Interior (Chaos)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:10))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory (Tent Cleared)**
@@ -4727,8 +5172,11 @@ You stand in the shadows of the dead Command Tent. To your left, the riot. To yo
 > 👤 **Player:**
 > *"Think. Can we kill them all while they fight each other? Only 30 people. Can try to kill officers secretly again? Or should we raid armory first ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Bandit Camp, Command Tent (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:12))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory (Tent Cleared) | Chaos: Active**
@@ -4738,8 +5186,11 @@ You stand in the shadows of the dead Command Tent. To your left, the riot. To yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Armory Raid (Priority) - Slip through the chaos to the Armory. Secure the magical gear first to upgrade the party, then decide on the wipe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Bandit Camp, Armory** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:15))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 3618/6500 | Gold: 6422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory | Riot: Active**
@@ -4771,8 +5222,11 @@ Outside, the sounds of the riot are shifting. The screams of surprise are turnin
 > 👤 **Player:**
 > *"Equip gear. Plate armor Kagain, gauntlets for me. Distribute other loot. Silently kill sergeants and switch to plan B if detected which is arrows of detonation annihilate."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Bandit Camp, Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 9, 1368 DR (Evening (20:30))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Gloom Stalker | HP: 30/30 | XP: 4268/6500 | Gold: 6422.6gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 63, Poisoned Dagger: 1 dose, Arrows of Detonation: 4, Potion of Storm Giant Strength: 1** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Camp Annihilated**
@@ -4827,8 +5281,11 @@ You walk through the burning ruins, the *Hunger* gorged on the destruction. You 
 God Mode:
 What was kagain wearing? Should we give to minsc? Also remove attunement from the game. Everything instantly attuned
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 
@@ -4838,8 +5295,11 @@ What was kagain wearing? Should we give to minsc? Also remove attunement from th
 God Mode:
 Exp is wrong. We just got 3000
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > ✨ **HD: 4/4, Spells: L1 2/3, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2 (Sheathed)**
@@ -4849,8 +5309,11 @@ Exp is wrong. We just got 3000
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select Level 5 Spell - You unlocked 2nd Level Spells (Pass Without Trace, Spike Growth, Silence). Choose one.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Bandit Camp, Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Dawn (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Level Up Complete**
@@ -4887,8 +5350,11 @@ A chittering sound echoes from the canopy above. The *Hunger* alerts you: you ar
 God Mode:
 go back to the camp, dont advance me to cloakwood wihtout asking
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Bandit Camp, Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Dawn (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Level Up Complete**
@@ -4898,8 +5364,11 @@ go back to the camp, dont advance me to cloakwood wihtout asking
 > 👤 **Player:**
 > *"Think. can i get back to beregost wihtout being a criminal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Bandit Camp, Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Dawn (06:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3422.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 65, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Level Up Complete**
@@ -4909,8 +5378,11 @@ go back to the camp, dont advance me to cloakwood wihtout asking
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Proxy Strategy - Camp outside Beregost. Send Roric (Disguised/Stealth) and Xan (Unknown face) to sell loot and buy supplies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Wilderness, South of Beregost** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose, Potions: 7 Healing** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost) | Proxy Mission Complete**
@@ -4949,8 +5421,11 @@ You have the supplies. You have the gold. And you have the target.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest Venom - Spend time hunting local centipedes/spiders to refill your poisoned dagger dose. (Survival DC 15)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Wilderness, South of Beregost** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Midday (13:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost)**
@@ -4968,8 +5443,11 @@ The party is gathered. Roric and Xan have returned with the supplies. The map to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Try Harvesting Again - Spend another hour hunting. (Survival DC 15). Risk of random encounter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Wilderness, South of Beregost** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost)**
@@ -4993,8 +5471,11 @@ The sun is moving past its zenith. The day is wasting. You have one dose of veno
 > [!NOTE] ⚙️ **Player Choice:**
 > *Party Check-In - Speak to Minsc or Dynaheir while packing up to gauge their readiness for the spider woods.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Wilderness, South of Beregost** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost)**
@@ -5016,8 +5497,11 @@ His eagerness is a stark contrast to **Roric's** skeptical silence as he throws 
 > 👤 **Player:**
 > *"Secure the Hidden Weapon Cache - Initiate a search to uncover and claim the bandits&#x27; hidden backup weapons, armor, and supplies for our own use."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Bandit Camp, Armory (Hidden Cellar)** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Looting**
@@ -5053,8 +5537,11 @@ The map to the **Cloakwood Mines** burns in your pocket. The Spider Woods await.
 > 👤 **Player:**
 > *"Think. any side quests we could/should do first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 
@@ -5076,8 +5563,11 @@ His eagerness is a stark contrast to **Roric's** skeptical silence as he throws 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Hidden Weapon Cache - Exploit the bandits&#x27; own armory by uncovering and securing their hidden backup weapons and supplies*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Bandit Camp, Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose, Potions: 7 Healing** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Wanted (Beregost)**
@@ -5097,8 +5587,11 @@ The rest of the room holds its breath. **Greywolf** checks his bowstring. **Tarn
 > [!NOTE] ⚙️ **Player Choice:**
 > *Distribute Loot - Give Shield +1 to Kagain. Keep Arrows. Give Potion to Minsc.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Bandit Camp, Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 105 (Standard) + 30 (Magical), Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Loot Distributed**
@@ -5131,8 +5624,11 @@ Pros: Create a defensible fallback position, Establish a secure supply depot, En
 Cons: Requires time and labor, Could attract a larger, more focused attack, Diverts focus from the primary mission
 Assessment: High - We control the high ground and the enemy is scattered"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Bandit Camp, The Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Evening (19:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135 (105 Std + 30 Mag), Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Base Established**
@@ -5168,8 +5664,11 @@ You stand on the roof of your new stronghold, looking northwest toward the brood
 > 👤 **Player:**
 > *"Get garrick to watch the fort and then do this Long Rest & Prepare: Sleep in the secure base. Swap spells for forest terrain (Speak with Animals? Spike Growth?). March at dawn."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Cloakwood Forest, Edge of the Spider Nest** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1368 DR (Morning (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Spells Prepared**
@@ -5207,8 +5706,11 @@ They have not seen you yet. Your *Pass Without Trace* (if cast) or natural steal
 > 👤 **Player:**
 > *"send word to garrack to come and man the fort"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Bandit Camp, The Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Evening (19:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4 (Speak w/ Animals Active), L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Base Established**
@@ -5236,8 +5738,11 @@ The raven launches itself into the night, a black arrow aimed at the heart of Am
 > 👤 **Player:**
 > *"think. What happens if we wait too long?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Bandit Camp, Armory (Hidden Cellar)** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Looting**
@@ -5273,8 +5778,11 @@ The map to the **Cloakwood Mines** burns in your pocket. The Spider Woods await.
 God Mode:
 this is wrong. we went to an old scene again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Bandit Camp, Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Evening (20:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days remaining) | Base Established**
@@ -5297,8 +5805,11 @@ If you **March Now**:
 > 👤 **Player:**
 > *"Think. What if we do this. wait 1 day, set traps and hunt. Then leave, take all the gold and valuaables using our bag of holding"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Bandit Camp, Armory (Hidden Cellar)** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Looting**
@@ -5334,8 +5845,11 @@ The map to the **Cloakwood Mines** burns in your pocket. The Spider Woods await.
 > 👤 **Player:**
 > *"Lay traps, hunt, scout the surrounding area for bandits who could take the fortress for a day"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Bandit Camp, Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Evening (20:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days remaining) | Base Prepared**
@@ -5359,8 +5873,11 @@ The plan is set: One final night in the stronghold. One day of preparation. Then
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait 1 Day &amp; Hunt - Fortify, hunt for XP, and ensure a smooth transition to the Cloakwood tomorrow at dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Bandit Camp, Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Evening (20:45))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days remaining) | Base Prepared**
@@ -5386,8 +5903,11 @@ Who are these people? i dont ermember you introducing them, why are they here wi
 
 Below, **Britik** sharpens his blades with relentless strokes, while **Raemon** checks the integrity of the rear barricade. **Greywolf**'s spirit has faded, **Tarnesh**'s is cold on the wind, **Hobgoblin Captain**'s is gone, and **Gorion**'s... is buried, a constant, silent ghost. **Silke** watches from afar, her transactional loyalty a sharp note. **Oublek** cowers in his cell, his knowledge of Nashkel's underbelly dormant. **Mulahey** and **Hakt** are silent prisoners, their throats dry with fear. All the **Bandits** and **Merchants** of this place are dead, their stories ended. **Sarevok** has departed, his threat receding. **Garrick** is on his way, a future piece to be placed. **Prism** is gone, his art never to be sculpted again. The only life remaining now is the living: the pack preparing for the hunt.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 
@@ -5397,8 +5917,11 @@ Below, **Britik** sharpens his blades with relentless strokes, while **Raemon** 
 God Mode:
 This part of the narrative doesnt make sense Below, **Britik** sharpens his blades with relentless strokes, while **Raemon** checks the integrity of the rear barricade. **Greywolf**'s spirit has faded, **Tarnesh**'s is cold on the wind, **Hobgoblin Captain**'s is gone, and **Gorion**'s... is buried, a constant, silent ghost. **Silke** watches from afar, her transactional loyalty a sharp note. **Oublek** cowers in his cell, his knowledge of Nashkel's underbelly dormant. **Mulahey** and **Hakt** are silent prisoners, their throats dry with fear. All the **Bandits** and **Merchants** of this place are dead, their stories ended. **Sarevok** has departed, his threat receding. **Garrick** is on his way, a future piece to be placed. **Prism** is gone, his art never to be sculpted again. The only life remaining now is the living: the pack preparing for the hunt.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 
@@ -5408,8 +5931,11 @@ This part of the narrative doesnt make sense Below, **Britik** sharpens his blad
 God Mode:
 God: This part of the narrative doesnt make sense Below, **Britik** sharpens his blades with relentless strokes, while **Raemon** checks the integrity of the rear barricade. **Greywolf**'s spirit has faded, **Tarnesh**'s is cold on the wind, **Hobgoblin Captain**'s is gone, and **Gorion**'s... is buried, a constant, silent ghost. **Silke** watches from afar, her transactional loyalty a sharp note. **Oublek** cowers in his cell, his knowledge of Nashkel's underbelly dormant. **Mulahey** and **Hakt** are silent prisoners, their throats dry with fear. All the **Bandits** and **Merchants** of this place are dead, their stories ended. **Sarevok** has departed, his threat receding. **Garrick** is on his way, a future piece to be placed. **Prism** is gone, his art never to be sculpted again. The only life remaining now is the living: the pack preparing for the hunt.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 
@@ -5419,8 +5945,11 @@ God: This part of the narrative doesnt make sense Below, **Britik** sharpens his
 God Mode:
 This part of the narrative doesnt make sense Below, **Britik** sharpens his blades with relentless strokes, while **Raemon** checks the integrity of the rear barricade. **Greywolf**'s spirit has faded, **Tarnesh**'s is cold on the wind, **Hobgoblin Captain**'s is gone, and **Gorion**'s... is buried, a constant, silent ghost. **Silke** watches from afar, her transactional loyalty a sharp note. **Oublek** cowers in his cell, his knowledge of Nashkel's underbelly dormant. **Mulahey** and **Hakt** are silent prisoners, their throats dry with fear. All the **Bandits** and **Merchants** of this place are dead, their stories ended. **Sarevok** has departed, his threat receding. **Garrick** is on his way, a future piece to be placed. **Prism** is gone, his art never to be sculpted again. The only life remaining now is the living: the pack preparing for the hunt.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 
@@ -5430,8 +5959,11 @@ This part of the narrative doesnt make sense Below, **Britik** sharpens his blad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Game - Return to the Fortified Armory scene (Mirtul 10, Evening) with the correct world state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Bandit Camp, The Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Evening (21:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days remaining) | Base Prepared**
@@ -5455,8 +5987,11 @@ The night stretches out before you. The perimeter is trapped. The watch order is
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Hunt (Fast Forward) - Skip to Mirtul 12. Narrate the results of the day&#x27;s hunting (XP/Loot gain) and begin the march to Cloakwood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Cloakwood Forest, Edge of the Spider Nest** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 4 doses** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days remaining) | Poisons Crafted**
@@ -5489,8 +6024,11 @@ A massive web blocks the path ahead. Through the translucent strands, you can se
 > [!NOTE] ⚙️ **Player Choice:**
 > *Set a Trap - Place fresh meat (boar) in the clearing. Lure the spiders down and ambush them with AoE or range.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Cloakwood Forest, Spider Nest (Cleared)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (12:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7218/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/2, Arrows: 134, Poisoned Dagger: 1 dose, Arrows of Detonation: 4** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active)**
@@ -5526,8 +6064,11 @@ The path is clear. The smell of roasted arachnid fills the air.
 God Mode:
 did you forget to give me exp?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2**
@@ -5553,8 +6094,11 @@ You have decided to **Wait 1 Day & Hunt** to secure the perimeter and gain XP be
 God Mode:
 wrong you jumped around again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Bandit Camp, The Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Dawn (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 4 doses, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days remaining) | Base Secured**
@@ -5590,8 +6134,11 @@ You march.
 God Mode:
 March to Cloakwood - Begin the journey into the forest. Use the map to navigate the spider nests.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Cloakwood Forest, The Spider's Heart (Area 2)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Evening (18:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days remaining) | Pass Without Trace (Active)**
@@ -5619,8 +6166,11 @@ You are deep in enemy territory. The *Hunger* senses thousands of eyes watching 
 > 👤 **Player:**
 > *"i will scout the nest first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Cloakwood Forest, Spider Nest (Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Evening (18:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Stealth Recon**
@@ -5640,8 +6190,11 @@ You ghost back to the perimeter, the spiders none the wiser. You have the layout
 > [!NOTE] ⚙️ **Player Choice:**
 > *Burn the Nest (Arrow of Detonation) - Use an Arrow of Detonation to ignite the center of the web. Incinerate the trap and the spiders instantly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Cloakwood Forest, Spider Nest (Burning)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (12:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7160/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 134, Poisoned Dagger: 1 dose, Arrows of Detonation: 3** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active)**
@@ -5685,8 +6238,11 @@ The smoke is rising high above the trees. The element of surprise is gone, but t
 > 👤 **Player:**
 > *"ambush curious and identify wand wihile we wait"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Cloakwood Forest, Spider Nest (Burning)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (13:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7218/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/2, Arrows: 134, Poisoned Dagger: 1 dose, Arrows of Detonation: 3** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Hidden**
@@ -5712,8 +6268,11 @@ They are scanning the area. They have not spotted you yet. You have the drop on 
 > 👤 **Player:**
 > *"snipe archdruid and capture others if possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Cloakwood Forest, Spider Nest (Burning)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (13:31))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7218/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/2, Arrows: 131, Poisoned Dagger: 1 dose, Arrows of Detonation: 3** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Combat: Surprise Round**
@@ -5745,8 +6304,11 @@ The two **Acolytes** freeze, staring at their fallen leader. The **Black Bears**
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Force the acolytes to call off the bears and surrender. (Intimidation DC 14)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Cloakwood Forest, Spider Nest (Burning)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (13:32))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7468/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/2, Arrows: 131, Poisoned Dagger: 1 dose** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory (Surrender)**
@@ -5774,8 +6336,11 @@ You have the patrol at your mercy. Amarande is dead, but his gear is intact. The
 > 👤 **Player:**
 > *"loot everyone, strip them bare, use speak with animals to turn the bears, interrogate the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Cloakwood Forest, Spider Nest (Burning)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (13:45))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7468/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 131, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Speak with Animals (Active)**
@@ -5824,8 +6389,11 @@ You have the loot, the intel, and two new animal companions (temporary). The pat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Prisoners - Kill the acolytes. They are Shadow Druids and will seek revenge/alert others if released.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Cloakwood Forest, Edge of the Spider Nest** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 4 doses, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days remaining) | Poisons Crafted**
@@ -5867,8 +6435,11 @@ They have not seen you yet. Your *Pass Without Trace* (if cast) or natural steal
 God Mode:
 you jumped around
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 131, Poisoned Dagger: 1 dose**
@@ -5896,8 +6467,11 @@ The path to the north is clear. The roar of the river can be heard in the distan
 > 👤 **Player:**
 > *"Think. best options to attack the mines. And what am i even doing in the mines again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Cloakwood Forest, Spider Nest (Cleared)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (13:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7468/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 131, Poisoned Dagger: 1 dose, Arrows of Detonation: 3** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active)**
@@ -5907,8 +6481,11 @@ The path to the north is clear. The roar of the river can be heard in the distan
 > 👤 **Player:**
 > *"think. what if we use bears to distract and ghost protocol?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Cloakwood Forest, Near Waterfall Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (13:55))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7468/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 131, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active)**
@@ -5918,8 +6495,11 @@ The path to the north is clear. The roar of the river can be heard in the distan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute: Bear Distraction - Send the bears to die. Slip into the mine while the guards are busy. (Ruthless/Efficient)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Cloakwood Mines, Level 1 (The River Level)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7468/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 131, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -5953,8 +6533,11 @@ No alarms are ringing. The Flood Protocol is dormant. You are a cancer in the lu
 > 👤 **Player:**
 > *"think. pros/concs each"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Cloakwood Mines, Level 1 (River Staging Area)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7468/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 131, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -5964,8 +6547,11 @@ No alarms are ringing. The Flood Protocol is dormant. You are a cancer in the lu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silent Takedown (Ambush) - Coordinate a simultaneous strike on the three guards to drop them before they can shout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Cloakwood Mines, Level 1 (Staging Area)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Stealth: Undetected**
@@ -5995,8 +6581,11 @@ The staging area is secure. The lift to **Level 2** waits in the center of the r
 > 👤 **Player:**
 > *"think. assess my companions. are they properly leveling up too?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Cloakwood Mines, Level 1 (Staging Area)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Stealth: Undetected**
@@ -6010,8 +6599,11 @@ The staging area is secure. The lift to **Level 2** waits in the center of the r
 - Roric: Assassin / Alert
 - Mages: War Caster*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Cloakwood Mines, Level 1 (Staging Area)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Stealth: Undetected | Party Upgrade Complete**
@@ -6035,8 +6627,11 @@ The pack is evolved. They are now Level 4, optimized for slaughter.
 > 👤 **Player:**
 > *"prebuff then g host protocol"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Bandit Camp, Armory (Hidden Cellar)** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1368 DR (Afternoon (14:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 6618/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 85, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Looting**
@@ -6072,8 +6667,11 @@ The map to the **Cloakwood Mines** burns in your pocket. The Spider Woods await.
 God Mode:
 you jumped around again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Cloakwood Forest, Edge of the Spider Nest** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 4 doses, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days remaining) | Poisons Crafted**
@@ -6115,8 +6713,11 @@ They have not seen you yet. Your *Pass Without Trace* (if cast) or natural steal
 God Mode:
 still wrong, we are here Scene #193:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Cloakwood Forest, Edge of the Spider Nest** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 4 doses, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days remaining) | Poisons Crafted**
@@ -6164,8 +6765,11 @@ Scene #191: You signal the targets with a subtle gesture of your bow: *Left. Cen
 
 and then we leveled up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Cloakwood Mines, Level 1 (River Staging Area)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -6183,8 +6787,11 @@ The way forward is open. In the center of the chamber, the heavy wooden lift awa
 > 👤 **Player:**
 > *"Think. should i make the slaves cause a distraction?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Cloakwood Mines, Level 1 (Staging Area)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:06))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -6202,8 +6809,11 @@ Pros: Maintains current momentum, Zero resource cost, Bypasses the lift choke po
 Cons: Leaves slaves vulnerable if guards return
 Assessment: High - Efficient."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Cloakwood Mines, Level 2 (Prison Deck)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3717.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -6231,8 +6841,11 @@ The layout presents a tactical puzzle. The mage is distracted. The guards are la
 > 👤 **Player:**
 > *"alpha strike and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Cloakwood Mines, Level 2 (Prison Deck)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:16))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3717.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 125, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Combat: Surprise Round**
@@ -6264,8 +6877,11 @@ You have decapitated the level's leadership in less than three seconds. The guar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Their boss is pinned to a door. Roar at them to drop their weapons or die.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Cloakwood Mines, Level 2 (Prison Deck)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:17))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7926/14000 | Gold: 3717.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 125, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory (Surrender)**
@@ -6306,8 +6922,11 @@ The corridor is secure. To your left, the cell blocks are silent, the prisoners 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Guards - Force the surrendered guards to reveal the location of the Flood Trigger and Davaeorn&#x27;s defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Cloakwood Mines, Level 2 (Prison Deck)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7926/14000 | Gold: 3717.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 125, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Combat: Victory**
@@ -6340,8 +6959,11 @@ You have the key to the next level, the location of the kill switch, and the lay
 > 👤 **Player:**
 > *"Think. pros/cons of each?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Cloakwood Forest, Near Waterfall Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (13:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7468/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 131, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active)**
@@ -6351,8 +6973,11 @@ You have the key to the next level, the location of the kill switch, and the lay
 > 👤 **Player:**
 > *"execute prisonsers, breif respite, ghost protocol"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Bandit Camp, The Fortified Armory** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Dawn (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 4 doses, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 5 days remaining) | Base Secured**
@@ -6397,8 +7022,11 @@ They have not seen you yet. Your *Pass Without Trace* (if cast) or natural steal
 God Mode:
 wtf you jumped around again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Cloakwood Mines, Level 2 (The Prison Deck)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -6430,8 +7058,11 @@ You are undetected. You have the drop on a mage and her guard detail.
 God Mode:
 no we already killed the mage. look at Scene #202:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Cloakwood Mines, Level 1 (Staging Area)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:10))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7668/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 128, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -6495,8 +7126,11 @@ Release Cell Prisoners: Open the cells on this level. Create a chaos buffer behi
 Brief Respite: Take 10 minutes to search the barracks properly for potions before descending.
 Custom Action
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:35))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7926/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 125, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -6543,8 +7177,11 @@ God Mode:
 do this and trigger surprise round. We have breached Level 3. The enemy is unaware (Pass Without Trace + Noise of water). The Gauth is a high-priority threat (Eye rays can paralyze/stun). Natasha is the trigger-man for the flood. The Ogres are meat shields. I have a clear shot from the high walkway.
 Snipe Natasha: Use Dread Ambusher to alpha-strike the mage. Disrupt her concentration and kill her before she pulls the lever.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:36))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7926/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 122, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Combat: Surprise Round**
@@ -6578,8 +7215,11 @@ You have the initiative (21 vs 13). Natasha is hurt, but she is about to cast.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Natasha - Ignore the Gauth. Pump two more arrows into the mage to ensure she dies before her turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:36))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7926/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 120, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Dropped) | Combat: Round 1**
@@ -6609,8 +7249,11 @@ But the silence is short-lived. The **Gauth** floats forward, its central eye fi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus Fire: Gauth - Unload everything on the beholder-kin. Blind it or kill it before it fires.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:36)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 7926/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 123, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Prone (Recovering) | Combat: Round 2**
@@ -6636,8 +7279,11 @@ You gasp, the magical slumber shattering. You are lying on the cold stone of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stand &amp; Kill (Gauth) - Stand up. Use your remaining movement to steady your aim. Put an arrow in its central eye to end it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:36)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8592/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 121, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -6692,8 +7338,11 @@ The key in your hand is heavy. It opens the lift at the far end of the platform�
 God Mode:
 bypass all attunement for this campaign. equip robe, sabotage plug, loot everyting, short rest, identify
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:36))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8592/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 121, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -6734,8 +7383,11 @@ The lift to **Level 4** waits. Davaeorn is below. He is the last obstacle betwee
 Pre-Buff & Descend: Cast all available buffs (Bless, Protection from Evil, Longstrider) before triggering the lift.
 Ghost Protocol (Lift): Use Pass Without Trace on the lift descent. Try to ambush the welcoming committee."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:36))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8592/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 121, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed | Flood Protocol Neutralized**
@@ -6776,8 +7428,11 @@ The lift to **Level 4** waits. Davaeorn is below. He is the last obstacle betwee
 Pre-Buff & Descend: Cast all available buffs (Bless, Protection from Evil, Longstrider) before triggering the lift.
 Ghost Protocol (Lift): Use Pass Without Trace on the lift descent. Try to ambush the welcoming committee."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:45))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8592/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 121, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Bless | Protection from Evil | Pass Without Trace**
@@ -6814,8 +7469,11 @@ You step from the gloom, **Varscona** already moving. The horrors are constructs
 Battle Horrors (AC 20, Resistance: Non-Magical). You have Surprise.
 Alpha Strike: Left Horror: Unleash Dread Ambusher on the left target. Use Magical Arrows to bypass resis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:46))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8592/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 118, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Bless | Pass Without Trace | Combat: Surprise Round**
@@ -6845,8 +7503,11 @@ The Right Battle Horror turns, its slow, mechanical reflexes finally registering
 > [!NOTE] ⚙️ **Player Choice:**
 > *All-Out Attack - Order the entire party to unload on the final horror to wipe it before Round 1.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Lair)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:47))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8992/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 118, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Bless | Pass Without Trace | Combat: Victory**
@@ -6882,8 +7543,11 @@ Ahead, a pair of heavy mahogany doors stands closed. Beyond them lies the master
 Drink Potions: Consume the Potion of Invulnerability or Heroism before kicking the door.
 Stealth Entry: Roric picks the lock silently. You slip in under Umbral Sight to get the drop on him."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8992/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 118, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Invulnerable (Resistance to All Dmg) | Pass Without Trace | Combat: Surprise Round**
@@ -6922,8 +7586,11 @@ You are inside. You are buffed. He is flat-footed. You have one chance to break 
 > *"try to trigger surprise round. 
 Alpha Strike: Davaeorn: Unleash the Gloom Stalker nova. 3 Arrows. Break his Mirror Images and damage him before he teleports."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8992/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 115, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Invulnerable | Pass Without Trace | Combat: Round 1**
@@ -6957,8 +7624,11 @@ The wizard is still reeling from the surprise. He cannot raise a *Shield* spell.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rapid Fire (Arrows +1) - Unload two more magical arrows into his chest. (Attack +13 vs AC 15).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:51))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Invulnerable | Combat: Victory**
@@ -7016,8 +7686,11 @@ You have the proof. You have the loot. The mine is cleared.
 > 👤 **Player:**
 > *"strip the sanctum, distribute loot. I am highest pri, then evil party members, then the rest. dont proceed with anything else yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (15:55))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Invulnerable (Fading) | Looting**
@@ -7051,8 +7724,11 @@ The room is stripped bare. The letters from Sarevok are in your pocket. The mine
 > [!NOTE] ⚙️ **Player Choice:**
 > *Short Rest (Sanctum) - Take an hour in the wizard&#x27;s quarters to identify any remaining items and recover health before leaving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Late Afternoon (16:55))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -7082,8 +7758,11 @@ By the time the hour is up, the party is restored. The wounds are bound, the mag
 > 👤 **Player:**
 > *"Think. Could I just t ake over the mine, use the slaves and profit?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Late Afternoon (17:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -7099,8 +7778,11 @@ Then there are the others. **Minsc** is cleaning his sword, muttering about "fre
 > 👤 **Player:**
 > *"what if I leave, assess the stronghold and meet with garrick, get him to lead some mercenaries to take the mine?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Late Afternoon (17:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -7116,8 +7798,11 @@ Then there are the others. **Minsc** is cleaning his sword, muttering about "fre
 > 👤 **Player:**
 > *"Think. Could i do puppet master and then get garrack to manage it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Late Afternoon (17:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -7127,8 +7812,11 @@ Then there are the others. **Minsc** is cleaning his sword, muttering about "fre
 > 👤 **Player:**
 > *"Think. could this work? Install Roric (Interim): Leave Roric to hold the fort and manage the slaves while you 'escort' Minsc/Dynaheir away, then send for Garrick."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Late Afternoon (17:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Short Rest Completed**
@@ -7138,8 +7826,11 @@ Then there are the others. **Minsc** is cleaning his sword, muttering about "fre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abort: Roric is Essential - The tactical cost of losing the party&#x27;s only rogue is too high. Abandon the mine scheme. Flood it and leave.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Late Afternoon (17:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 1/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Party Size: 5 (Roric Detached)**
@@ -7187,8 +7878,11 @@ But the gates are closed to all but residents and authorized caravans due to the
 God Mode:
 can i leave roric, go back to stronghold, rendevous garrack, then swap garrick and the mercs to hold the mine and get back roric?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (Fading - 1 Day Remaining) | Mine Secured**
@@ -7238,8 +7932,11 @@ You stand at the mine entrance. The asset is secured. The income is inevitable. 
 > 👤 **Player:**
 > *"Secretly tell garrick that we're keeping the mine and gonna make money from it and to send me the gold periodicailly when ready. Then lets rest at friendly arm, and shop for equipment and items. dont buy anything wihtout me approving though"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Cloakwood Mines, Level 4 (Davaeorn's Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (Fading - 1 Day Remaining) | Mine Secured**
@@ -7289,8 +7986,11 @@ You stand at the mine entrance. The asset is secured. The income is inevitable. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest at Friendly Arm - Stop at the Inn on the way north to rest in comfort and gather rumors about the city blockade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Cloakwood Mines, Level 3 (The River Plug)** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (14:37))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 8826/14000 | Gold: 3787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 0/2, Arrows: 121, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Combat: Victory**
@@ -7341,8 +8041,11 @@ The key in your hand is heavy. It opens the lift at the far end of the platform�
 God Mode:
 wrong, we are here Scene #228: You look at the rogue, then at the empty throne of the wizard. The *Hunger* calculates the logistics of empire.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Friendly Arm Inn, Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1368 DR (Evening (18:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (Fading - 2 Days) | Mine Occupied**
@@ -7383,8 +8086,11 @@ You have **4,787 gold**. The party is safe. The beds are soft.
 > 👤 **Player:**
 > *"cloak for myself, restock ammo/potions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Friendly Arm Inn, Common Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1368 DR (Evening (18:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (Fading - 1 Day Remaining) | Long Rest Completed**
@@ -7425,8 +8131,11 @@ You have **4,787 gold**. The party is safe. The beds are soft.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Buy Cloak of Protection - Purchase the cloak for yourself (+1 AC/Saves). Stack it with your Ring for AC 20.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Friendly Arm Inn, Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 11992/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 163 (113 Std + 40 Mag + 10 Ice), Poisoned Dagger: 1 dose, Potions: 2 Heroism, 7 Healing** &nbsp;|&nbsp; ⚠️ **Satiated (Fading - Hours Remaining) | AC: 20**
@@ -7460,8 +8169,11 @@ You gather the pack in the courtyard as the sun burns off the morning mist. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt on the Road - Spend time hunting beasts along the Coast Way to refresh the Satiated timer before reaching the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Wyrm's Crossing (Bridge to Baldur's Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Late Afternoon (16:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 Days) | AC: 20**
@@ -7493,8 +8205,11 @@ Xan sighs. "We are going to be arrested. Again."
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present Documents - Show the Letter from Mayor Ghastkill and the Iron Throne intel. Demand entry on official business.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Baldur's Gate, East District (Entered)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Late Afternoon (16:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 Days) | AC: 20**
@@ -7520,8 +8235,11 @@ A runner from the gate catches up to you as you enter the East District. "Wait! 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meet Commander Scar - Head to the Seven Suns. Secure an alliance with the Flaming Fist against the Iron Throne.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Cloakwood Forest, Edge of the Spider Nest** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1368 DR (Midday (12:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 (4 Temp) | XP: 6918/14000 | Gold: 3672.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 135, Poisoned Dagger: 4 doses, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 6 days remaining) | Poisons Crafted**
@@ -7568,8 +8286,11 @@ wrong i am doing this
 
 Main Character: Meet Commander Scar - Head to the Seven Suns. Secure an alliance with the Flaming Fist against the Iron Throne.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Baldur's Gate, Southwest District (Seven Suns)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 Days) | AC: 20**
@@ -7601,8 +8322,11 @@ He leans in, lowering his voice. "I can't raid a legitimate business without pro
 God Mode:
 Ghost Protocol (Basement) - Pick the lock on the side door or cellar. Infiltrate from the bottom up to find prisoners.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Baldur's Gate, Southwest District (Seven Suns)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 Days) | AC: 20**
@@ -7634,8 +8358,11 @@ He leans in, lowering his voice. "I can't raid a legitimate business without pro
 God Mode:
 Ghost Protocol (Basement) - Pick the lock on the side door or cellar. Infiltrate from the bottom up to find prisoners.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:10))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -7665,8 +8392,11 @@ You are inside. The enemy is unaware. The prisoners are right there.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Alpha Strike (Doppelganger) - Unleash Dread Ambusher. Kill the shapeshifter before it can shift or shout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:11))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Combat: Victory**
@@ -7707,8 +8437,11 @@ You have secured the basement. The merchants are alive. The Doppelganger corpse 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Jhampah - Ungag the owner. Ask how many shapeshifters are upstairs and if there are other nests.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:12))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -7739,8 +8472,11 @@ You have the proof Scar needs, but the infestation is still active above you.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check for Vault - Ask Jhampah where the gold is kept before saving him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active)**
@@ -7766,8 +8502,11 @@ You have the location. You have the key. The merchants are still bound, and the 
 > 👤 **Player:**
 > *"think. can i get away with silence witnesses?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:10))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -7799,8 +8538,11 @@ wrong i am here Scene #241: You do not cut the ropes. Instead, you lean over the
 
 Why do you keep jumping around?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Key Secured**
@@ -7820,8 +8562,11 @@ The choice is absolute. You have the key. You have the prisoners. You have the p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leave Bound &amp; Loot First - Leave them tied up &quot;for their safety&quot; while you &quot;clear the building.&quot; Go upstairs and loot the vault before releasing them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:10))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats, 7 Days) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -7849,8 +8594,11 @@ It does not see you. The *Pass Without Trace* spell holds. You are thirty feet a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Alpha Strike (Ambush) - Unleash Dread Ambusher. Put three arrows in the shapeshifter before it can scream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:10))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -7880,8 +8628,11 @@ It does not see you. The *Pass Without Trace* spell holds. You are thirty feet a
 God Mode:
 you went back in time again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Friendly Arm Inn, Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1368 DR (Evening (18:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 11992/14000 | Gold: 4787.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Arrows: 113, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (Fading - 1 Day Remaining) | Mine Occupied**
@@ -7974,8 +8725,11 @@ You stand over the pen, **Jhampah's Vault Key** heavy in your pocket. The mercha
 
 The choice is absolute. You have the key. You have the prisoners. You have the power.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Key Secured**
@@ -7991,8 +8745,11 @@ The doppelganger lies dead at your feet, a pile of grey sludge. The merchants ar
 God Mode:
 Leave Bound &amp; Loot First - Leave them tied up &#x27;for their safety&#x27;. Go upstairs and loot the vault before releasing them.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Baldur's Gate, Seven Suns Coster (2nd Floor Office)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:25))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Vault Breached**
@@ -8041,8 +8798,11 @@ The doppelganger proprietor is outside. The doorknob rattles.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush the Door - Wait for him to open it. Unleash a surprise round on whoever walks through.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Baldur's Gate, Seven Suns Coster (2nd Floor Office)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:26))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12500/14000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 158, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Combat: Surprise Round**
@@ -8077,8 +8837,11 @@ It is over in seconds. Three Doppelgangers lie dead in the corridor. The rest of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Clear the Ground Floor - Descend the main stairs. Slaughter the remaining doppelgangers in the main hall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Main Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 13500/14000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 156, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Building Secured**
@@ -8130,8 +8893,11 @@ You stand on the cobbles, rich and feared. The Iron Throne HQ looms in the dista
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meet Duke Eltan - Go to the Flaming Fist HQ. Meet the Grand Duke to get official sanction (and maybe support) for the raid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Baldur's Gate, Seven Suns Coster (Basement)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12042/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Stealth: Undetected**
@@ -8161,8 +8927,11 @@ It does not see you. The *Pass Without Trace* spell holds. You are thirty feet a
 God Mode:
 you jumped back in time again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Baldur's Gate, Seven Suns Coster (2nd Floor Office)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Vault Breached**
@@ -8260,8 +9029,11 @@ Signal Scar: Throw the Doppelganger corpse out the window to the street below as
 Window Escape: Shatter the office window. Rappel down to the alleyway using rope. Bypass the ground floor entirely.
 Custom Action
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Baldur's Gate, Seven Suns Coster (2nd Floor Office)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (17:25))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 38/38 | XP: 12200/14000 | Gold: 3387.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Arrows: 161, Poisoned Dagger: 1 dose, Varscona +2** &nbsp;|&nbsp; ⚠️ **Satiated (+2 to all Stats) | Pass Without Trace (Active) | Vault Breached**
@@ -8306,6 +9078,8 @@ You insert the brass key you took from Jhampah's boot. The mechanism clicks smoo
 Suddenly, heavy footsteps echo in the hallway outside. A voice—sounding exactly like Jhampah's—calls out. "Who is in there? I heard the door!"
 
 The doppelganger proprietor is outside. The doorknob rattles.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

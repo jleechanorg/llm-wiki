@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (112 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 **Lineage & Origin:**
@@ -35,128 +46,133 @@ She operates with a low-empathy, high-functioning cognitive framework. She views
 
 Let’s use the above for the campaign but modify it. I’m Nocticula the youngest first class mage in history at age 16. My half demon heritage is a secret but serie has accepted me. First scene is im in the north protecting a village from bandits and demons. I encounter frieren and fern and stark later. I don’t have visible horns or anything that shows I’m a  demon so most people can’t tell
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Character Creation | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **02** | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **03** | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **04** | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **05** | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **06** | Elsholtz | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **07** | Elsholtz Bridge | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **08** | Elsholtz Bridge | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **09** | The North (Bridge at Elsholtz) | Hammer 01, 1492 DR (08:00) | Roleplay |
-| **10** | Stone Bridge | Hammer 1, 1492 DR (08:01) | Roleplay |
-| **11** | The North (Village of Elsholtz) | Hammer 1, 1492 DR (08:01) | Roleplay |
-| **12** | Stone Bridge | Hammer 1, 1492 DR (08:05) | Roleplay |
-| **13** | Elsholtz Village | Hammer 1, 1492 DR (11:05) | Roleplay |
-| **14** | Elsholtz | Hammer 1, 1492 DR (11:05) | Roleplay |
-| **15** | Stone Bridge | Hammer 1, 1492 DR (11:10) | Roleplay |
-| **16** | Tree Line outside Elsholtz | Hammer 1, 1492 DR (11:11) | Roleplay |
-| **17** | The North - Forest Flank (Elsholtz) | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **18** | The Northern Forest (Elsholtz Outskirts) | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **19** | Northern Forest (Elsholtz Outskirts) | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **20** | Northern Forest - Granite Outcropping | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **21** | Frost-choked Northern Forest | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **22** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **23** | Frozen Serpent River (North) | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **24** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **25** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **26** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **27** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **28** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **29** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **30** | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **31** | The Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
-| **32** | Frozen Serpent River / Elsholtz Outskirts | Hammer 1, 1492 DR (11:17) | Roleplay |
-| **33** | Elsholtz Perimeter | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **34** | Elsholtz Perimeter - Northern Forest | Hammer 1, 1492 DR (11:18) | Social Challenge |
-| **35** | Elsholtz Northern Forest | Hammer 1, 1492 DR (11:18) | Social Challenge |
-| **36** | Clearing Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Social Challenge |
-| **37** | The North (Elsholtz Outskirts) | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **38** | Clearing outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **39** | Clearing Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **40** | Outside Elsholtz - The Stone Clearing | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **41** | Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **42** | Outside Elsholtz - The North | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **43** | Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Boss Surrender |
-| **44** | Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **45** | The North | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **46** | Outside Elsholtz (The North) | Hammer 1, 1492 DR (11:18) | Roleplay |
-| **47** | Elsholtz Clearing | Hammer 1, 1492 DR (11:19) | Boss Surrender |
-| **48** | Elsholtz Clearing - Edge of the North Forest | Hammer 1, 1492 DR (11:24) | Roleplay |
-| **49** | Elsholtz Bridge | Hammer 1, 1492 DR (11:35) | Roleplay |
-| **50** | Elsholtz Bridge | Hammer 1, 1492 DR (11:40) | Roleplay |
-| **51** | Elsholtz Bridge | Hammer 1, 1492 DR (11:45) | Social Challenge |
-| **52** | Elsholtz Village | Hammer 1, 1492 DR (11:45) | Roleplay |
-| **53** | Elsholtz Village Square | Hammer 1, 1492 DR (12:30) | Boss Surrender |
-| **54** | Elsholtz Village Square | Hammer 1, 1492 DR (12:45) | Roleplay |
-| **55** | Elsholtz Village Square | Hammer 1, 1492 DR (13:00) | Roleplay |
-| **56** | Elsholtz Village Square | Hammer 1, 1492 DR (15:00) | Roleplay |
-| **57** | Elsholtz Village Square | Hammer 1, 1492 DR (15:15) | Roleplay |
-| **58** | Elsholtz Village Square | Hammer 1, 1492 DR (15:15) | Roleplay |
-| **59** | Elsholtz Village Square | Hammer 1, 1492 DR (15:30) | Roleplay |
-| **60** | Elsholtz Village Inn | Hammer 1, 1492 DR (19:00) | Boss Surrender |
-| **61** | Elsholtz - The Frost & Flagon Inn | Hammer 1, 1492 DR (21:00) | Roleplay |
-| **62** | Frost & Flagon Inn | Hammer 1, 1492 DR (21:15) | Roleplay |
-| **63** | Elsholtz - The Frost & Flagon | Hammer 1, 1492 DR (21:25) | Roleplay |
-| **64** | The Frost & Flagon Inn | Hammer 1, 1492 DR (21:30) | Social Challenge |
-| **65** | Elsholtz - The Frost & Flagon Inn | Hammer 1, 1492 DR (21:35) | Roleplay |
-| **66** | Elsholtz - The Frost & Flagon | Hammer 1, 1492 DR (21:35) | Roleplay |
-| **67** | Elsholtz Inn (The Frost & Flagon) | Hammer 1, 1492 DR (21:35) | Roleplay |
-| **68** | Elsholtz - Frost & Flagon | Hammer 1, 1492 DR (21:40) | Boss Surrender |
-| **69** | Frost & Flagon | Hammer 1, 1492 DR (22:10) | Boss Surrender |
-| **70** | Frost & Flagon Inn | Hammer 2, 1492 DR (06:10) | Boss Surrender |
-| **71** | Frost & Flagon Inn | Hammer 2, 1492 DR (06:15) | Roleplay |
-| **72** | Frost & Flagon Inn | Hammer 2, 1492 DR (06:15) | Roleplay |
-| **73** | Frost & Flagon Inn | Hammer 2, 1492 DR (06:20) | Social Challenge |
-| **74** | Elsholtz Village / Frost & Flagon | Hammer 2, 1492 DR (07:30) | Roleplay |
-| **75** | Elsholtz Square / Frost & Flagon Common Room | Hammer 2, 1492 DR (07:45) | Social Challenge |
-| **76** | Frost-choked Ravine (North Road) | Hammer 5, 1492 DR (09:15) | Social Challenge |
-| **77** | Northern Ravine - Missing Caravan Site | Hammer 5, 1492 DR (09:20) | Roleplay |
-| **78** | Frost-choked Northern Ravine | Hammer 5, 1492 DR (09:20) | Roleplay |
-| **79** | Northern Ravine | Hammer 5, 1492 DR (09:25) | Boss Surrender |
-| **80** | Northern Ravine - Post-Combat | Hammer 5, 1492 DR (09:30) | Social Challenge |
-| **81** | Northern Ravine | Hammer 5, 1492 DR (09:40) | Boss Surrender |
-| **82** | Northern Ravine | Hammer 5, 1492 DR (09:55) | Boss Surrender |
-| **83** | Northern Ravine (Hollowed Caravan Site) | Hammer 5, 1492 DR (10:05) | Roleplay |
-| **84** | Northern Ravine | Hammer 5, 1492 DR (10:05) | Roleplay |
-| **85** | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **86** | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **87** | The Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **88** | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **89** | The Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **90** | Northern Ravine - Ambush Site | Hammer 5, 1492 DR (10:20) | Boss Surrender |
-| **91** | Northern Ravine - Granite Ridge | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **92** | Northern Ravine (Whispering Glade Perimeter) | Hammer 5, 1492 DR (10:20) | Boss Surrender |
-| **93** | Northern Ravine | Hammer 5, 1492 DR (10:20) | Boss Surrender |
-| **94** | The Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **95** | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **96** | Northern Ravine | Hammer 5, 1492 DR (10:20) | Boss Surrender |
-| **97** | The North - Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
-| **98** | Northern Ravine | Hammer 5, 1492 DR (10:20) | Boss Surrender |
-| **99** | Northern Ravine (Post-Combat) |  | Roleplay |
-| **100** | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
-| **101** | Northern Ravine | Hammer 5, 1492 DR (10:25) | Roleplay |
-| **102** | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
-| **103** | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
-| **104** | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
-| **105** | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
-| **106** | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
-| **107** | Northern Ravine (Post-Battle) | Hammer 5, 1492 DR (10:35) | Roleplay |
-| **108** | Northern Ravine | Hammer 5, 1492 DR (10:40) | Social Challenge |
-| **109** | Northern Ravine - Wagon Wreckage | Hammer 5, 1492 DR (10:55) | Roleplay |
-| **110** | Hidden Myth-Era Sanctuary (Northern Ravine) | Hammer 5, 1492 DR (11:15) | Roleplay |
-| **111** | Myth-era Sanctuary (Northern Ravine) | Hammer 5, 1492 DR (12:15) | Social Challenge |
-| **112** | Whispering Glade Perimeter |  | Roleplay |
+| [**Scene 01**](#scene-1) | Character Creation | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 02**](#scene-2) | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 03**](#scene-3) | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 05**](#scene-5) | The North | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Elsholtz | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Elsholtz Bridge | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Elsholtz Bridge | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 09**](#scene-9) | The North (Bridge at Elsholtz) | Hammer 01, 1492 DR (08:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Stone Bridge | Hammer 1, 1492 DR (08:01) | Roleplay |
+| [**Scene 11**](#scene-11) | The North (Village of Elsholtz) | Hammer 1, 1492 DR (08:01) | Roleplay |
+| [**Scene 12**](#scene-12) | Stone Bridge | Hammer 1, 1492 DR (08:05) | Roleplay |
+| [**Scene 13**](#scene-13) | Elsholtz Village | Hammer 1, 1492 DR (11:05) | Roleplay |
+| [**Scene 14**](#scene-14) | Elsholtz | Hammer 1, 1492 DR (11:05) | Roleplay |
+| [**Scene 15**](#scene-15) | Stone Bridge | Hammer 1, 1492 DR (11:10) | Roleplay |
+| [**Scene 16**](#scene-16) | Tree Line outside Elsholtz | Hammer 1, 1492 DR (11:11) | Roleplay |
+| [**Scene 17**](#scene-17) | The North - Forest Flank (Elsholtz) | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 18**](#scene-18) | The Northern Forest (Elsholtz Outskirts) | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 19**](#scene-19) | Northern Forest (Elsholtz Outskirts) | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 20**](#scene-20) | Northern Forest - Granite Outcropping | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 21**](#scene-21) | Frost-choked Northern Forest | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 22**](#scene-22) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 23**](#scene-23) | Frozen Serpent River (North) | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 24**](#scene-24) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 25**](#scene-25) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 26**](#scene-26) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 27**](#scene-27) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 28**](#scene-28) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 29**](#scene-29) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 30**](#scene-30) | Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 31**](#scene-31) | The Frozen Serpent River | Hammer 1, 1492 DR (11:12) | Roleplay |
+| [**Scene 32**](#scene-32) | Frozen Serpent River / Elsholtz Outskirts | Hammer 1, 1492 DR (11:17) | Roleplay |
+| [**Scene 33**](#scene-33) | Elsholtz Perimeter | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 34**](#scene-34) | Elsholtz Perimeter - Northern Forest | Hammer 1, 1492 DR (11:18) | Social Challenge |
+| [**Scene 35**](#scene-35) | Elsholtz Northern Forest | Hammer 1, 1492 DR (11:18) | Social Challenge |
+| [**Scene 36**](#scene-36) | Clearing Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Social Challenge |
+| [**Scene 37**](#scene-37) | The North (Elsholtz Outskirts) | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 38**](#scene-38) | Clearing outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 39**](#scene-39) | Clearing Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 40**](#scene-40) | Outside Elsholtz - The Stone Clearing | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 41**](#scene-41) | Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 42**](#scene-42) | Outside Elsholtz - The North | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 43**](#scene-43) | Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Boss Surrender |
+| [**Scene 44**](#scene-44) | Outside Elsholtz | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 45**](#scene-45) | The North | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 46**](#scene-46) | Outside Elsholtz (The North) | Hammer 1, 1492 DR (11:18) | Roleplay |
+| [**Scene 47**](#scene-47) | Elsholtz Clearing | Hammer 1, 1492 DR (11:19) | Boss Surrender |
+| [**Scene 48**](#scene-48) | Elsholtz Clearing - Edge of the North Forest | Hammer 1, 1492 DR (11:24) | Roleplay |
+| [**Scene 49**](#scene-49) | Elsholtz Bridge | Hammer 1, 1492 DR (11:35) | Roleplay |
+| [**Scene 50**](#scene-50) | Elsholtz Bridge | Hammer 1, 1492 DR (11:40) | Roleplay |
+| [**Scene 51**](#scene-51) | Elsholtz Bridge | Hammer 1, 1492 DR (11:45) | Social Challenge |
+| [**Scene 52**](#scene-52) | Elsholtz Village | Hammer 1, 1492 DR (11:45) | Roleplay |
+| [**Scene 53**](#scene-53) | Elsholtz Village Square | Hammer 1, 1492 DR (12:30) | Boss Surrender |
+| [**Scene 54**](#scene-54) | Elsholtz Village Square | Hammer 1, 1492 DR (12:45) | Roleplay |
+| [**Scene 55**](#scene-55) | Elsholtz Village Square | Hammer 1, 1492 DR (13:00) | Roleplay |
+| [**Scene 56**](#scene-56) | Elsholtz Village Square | Hammer 1, 1492 DR (15:00) | Roleplay |
+| [**Scene 57**](#scene-57) | Elsholtz Village Square | Hammer 1, 1492 DR (15:15) | Roleplay |
+| [**Scene 58**](#scene-58) | Elsholtz Village Square | Hammer 1, 1492 DR (15:15) | Roleplay |
+| [**Scene 59**](#scene-59) | Elsholtz Village Square | Hammer 1, 1492 DR (15:30) | Roleplay |
+| [**Scene 60**](#scene-60) | Elsholtz Village Inn | Hammer 1, 1492 DR (19:00) | Boss Surrender |
+| [**Scene 61**](#scene-61) | Elsholtz - The Frost & Flagon Inn | Hammer 1, 1492 DR (21:00) | Roleplay |
+| [**Scene 62**](#scene-62) | Frost & Flagon Inn | Hammer 1, 1492 DR (21:15) | Roleplay |
+| [**Scene 63**](#scene-63) | Elsholtz - The Frost & Flagon | Hammer 1, 1492 DR (21:25) | Roleplay |
+| [**Scene 64**](#scene-64) | The Frost & Flagon Inn | Hammer 1, 1492 DR (21:30) | Social Challenge |
+| [**Scene 65**](#scene-65) | Elsholtz - The Frost & Flagon Inn | Hammer 1, 1492 DR (21:35) | Roleplay |
+| [**Scene 66**](#scene-66) | Elsholtz - The Frost & Flagon | Hammer 1, 1492 DR (21:35) | Roleplay |
+| [**Scene 67**](#scene-67) | Elsholtz Inn (The Frost & Flagon) | Hammer 1, 1492 DR (21:35) | Roleplay |
+| [**Scene 68**](#scene-68) | Elsholtz - Frost & Flagon | Hammer 1, 1492 DR (21:40) | Boss Surrender |
+| [**Scene 69**](#scene-69) | Frost & Flagon | Hammer 1, 1492 DR (22:10) | Boss Surrender |
+| [**Scene 70**](#scene-70) | Frost & Flagon Inn | Hammer 2, 1492 DR (06:10) | Boss Surrender |
+| [**Scene 71**](#scene-71) | Frost & Flagon Inn | Hammer 2, 1492 DR (06:15) | Roleplay |
+| [**Scene 72**](#scene-72) | Frost & Flagon Inn | Hammer 2, 1492 DR (06:15) | Roleplay |
+| [**Scene 73**](#scene-73) | Frost & Flagon Inn | Hammer 2, 1492 DR (06:20) | Social Challenge |
+| [**Scene 74**](#scene-74) | Elsholtz Village / Frost & Flagon | Hammer 2, 1492 DR (07:30) | Roleplay |
+| [**Scene 75**](#scene-75) | Elsholtz Square / Frost & Flagon Common Room | Hammer 2, 1492 DR (07:45) | Social Challenge |
+| [**Scene 76**](#scene-76) | Frost-choked Ravine (North Road) | Hammer 5, 1492 DR (09:15) | Social Challenge |
+| [**Scene 77**](#scene-77) | Northern Ravine - Missing Caravan Site | Hammer 5, 1492 DR (09:20) | Roleplay |
+| [**Scene 78**](#scene-78) | Frost-choked Northern Ravine | Hammer 5, 1492 DR (09:20) | Roleplay |
+| [**Scene 79**](#scene-79) | Northern Ravine | Hammer 5, 1492 DR (09:25) | Boss Surrender |
+| [**Scene 80**](#scene-80) | Northern Ravine - Post-Combat | Hammer 5, 1492 DR (09:30) | Social Challenge |
+| [**Scene 81**](#scene-81) | Northern Ravine | Hammer 5, 1492 DR (09:40) | Boss Surrender |
+| [**Scene 82**](#scene-82) | Northern Ravine | Hammer 5, 1492 DR (09:55) | Boss Surrender |
+| [**Scene 83**](#scene-83) | Northern Ravine (Hollowed Caravan Site) | Hammer 5, 1492 DR (10:05) | Roleplay |
+| [**Scene 84**](#scene-84) | Northern Ravine | Hammer 5, 1492 DR (10:05) | Roleplay |
+| [**Scene 85**](#scene-85) | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 86**](#scene-86) | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 87**](#scene-87) | The Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 88**](#scene-88) | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 89**](#scene-89) | The Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 90**](#scene-90) | Northern Ravine - Ambush Site | Hammer 5, 1492 DR (10:20) | Boss Surrender |
+| [**Scene 91**](#scene-91) | Northern Ravine - Granite Ridge | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 92**](#scene-92) | Northern Ravine (Whispering Glade Perimeter) | Hammer 5, 1492 DR (10:20) | Boss Surrender |
+| [**Scene 93**](#scene-93) | Northern Ravine | Hammer 5, 1492 DR (10:20) | Boss Surrender |
+| [**Scene 94**](#scene-94) | The Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 95**](#scene-95) | Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 96**](#scene-96) | Northern Ravine | Hammer 5, 1492 DR (10:20) | Boss Surrender |
+| [**Scene 97**](#scene-97) | The North - Northern Ravine | Hammer 5, 1492 DR (10:20) | Roleplay |
+| [**Scene 98**](#scene-98) | Northern Ravine | Hammer 5, 1492 DR (10:20) | Boss Surrender |
+| [**Scene 99**](#scene-99) | Northern Ravine (Post-Combat) |  | Roleplay |
+| [**Scene 100**](#scene-100) | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
+| [**Scene 101**](#scene-101) | Northern Ravine | Hammer 5, 1492 DR (10:25) | Roleplay |
+| [**Scene 102**](#scene-102) | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
+| [**Scene 103**](#scene-103) | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
+| [**Scene 104**](#scene-104) | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
+| [**Scene 105**](#scene-105) | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
+| [**Scene 106**](#scene-106) | Northern Ravine | Hammer 5, 1492 DR (10:30) | Roleplay |
+| [**Scene 107**](#scene-107) | Northern Ravine (Post-Battle) | Hammer 5, 1492 DR (10:35) | Roleplay |
+| [**Scene 108**](#scene-108) | Northern Ravine | Hammer 5, 1492 DR (10:40) | Social Challenge |
+| [**Scene 109**](#scene-109) | Northern Ravine - Wagon Wreckage | Hammer 5, 1492 DR (10:55) | Roleplay |
+| [**Scene 110**](#scene-110) | Hidden Myth-Era Sanctuary (Northern Ravine) | Hammer 5, 1492 DR (11:15) | Roleplay |
+| [**Scene 111**](#scene-111) | Myth-era Sanctuary (Northern Ravine) | Hammer 5, 1492 DR (12:15) | Social Challenge |
+| [**Scene 112**](#scene-112) | Whispering Glade Perimeter |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sorcerer | HP: 7/7 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -182,8 +198,11 @@ How would you like to proceed with your character's mechanical construction?
 God Mode:
 Let’s give me a custom clsss and a reasonable level since I’m first class mage with proper stats skills abilities gear and gold
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Shadow Weaver | HP: 50/50 | XP: 34000/48000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -204,8 +223,11 @@ Administrative changes finalized for Nocticula. You have been promoted to Level 
 God Mode:
 Let’s assume I picked asi+2 for cha twice so I have 20  cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Shadow Weaver | HP: 50/50 | XP: 34000/48000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -221,8 +243,11 @@ Your demonic heritage remains perfectly masked behind your Mana Veil. No visible
 God Mode:
 Give me equipment for every slot focused on AC or spell DC and attack and theme the D&D spells to frieren world and show custim
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Shadow Weaver | HP: 50/50 | XP: 34000/48000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -257,8 +282,11 @@ Administrative update complete. Nocticula's equipment has been fully optimized f
 God Mode:
 Give me cc spells like hold person and hypnotic pattern and always do themed name (real name)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Shadow Weaver | HP: 50/50 | XP: 34,000/48,000 | Gold: 2,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -283,8 +311,11 @@ Crowd control spells added and themed to the Frieren universe. Your spellbook no
 > 👤 **Player:**
 > *"Start campaign. Let’s assume bandits attack first and later demons attack and in the middle of demon attack frieren party joins. I should be somewhat famous as a young prodigy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Elsholtz, Northern Frontier** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Shadow Weaver | HP: 50/50 | XP: 34000/48000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -302,8 +333,11 @@ Nocticula didn't move. She didn't even raise her staff. As Korgat swung his blad
 God Mode:
 Let’s change my class to be more like a spellblade type. Can model it as a bladesinger but cha based spellcasting and transfer some points from int to dex instead
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Elsholtz Bridge** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 34,000/48,000 | Gold: 2,500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -330,8 +364,11 @@ Administrative update complete. Nocticula's class has been shifted to a 'Spellbl
 God Mode:
 Let’s make me a good person. I was horrified at how demons killed people and went to live among humans and was discovered by serie. I am ruthless and morally grey to some degree but I try to help people. Don’t make me cold and calculating make me empathetic despite being a demon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Elsholtz Bridge, The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 34000/48000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -347,8 +384,11 @@ Character alignment and personality profile updated. Nocticula has been shifted 
 God Mode:
 Change my spells to be more complimentary to a spellblade and assume I always use booming blade or green flame blade and bladesong as appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The North (Bridge at Elsholtz)** &nbsp;|&nbsp; ⏳ **Hammer 01, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 34000/48000 | Gold: 2500gp** &nbsp;|&nbsp; ⚠️ **Abyssal Song Active | Inspiration: No**
@@ -369,8 +409,11 @@ Administrative update complete. Nocticula's spellbook has been overhauled to pri
 > 👤 **Player:**
 > *"Return to story and activate bladesong and just attack and kill the bandits. If I leave them alive they may kill others later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Stone Bridge, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:01)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 34,850/48,000 | Gold: 2,500gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -390,8 +433,11 @@ Blood sprayed across the pristine snow. These men were murderers, and Nocticula 
 God Mode:
 Switch me to spellblade focused gear and give me a special rapier
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The North (Village of Elsholtz)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:01)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 34850/48000 | Gold: 2,620gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 8/8 | HD: 8/8** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Inspiration: No**
@@ -430,8 +476,11 @@ Administrative update complete. Nocticula's loadout has been fully transitioned 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Vultures - Systematically eliminate the remaining bandits before the demons arrive to prevent them from becoming a distraction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Stone Bridge, Village of Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 44/50 | XP: 36,125/48,000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 8/8** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -447,8 +496,11 @@ To end their lives quickly was the only mercy she could offer. A final, concentr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Help the Villagers - Stay for a few hours to help the wounded and secure the palisade before the demons arrive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Elsholtz Village** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -466,8 +518,11 @@ Nocticula recognized the small mage instantly. *Frieren.*
 God Mode:
 Let’s add nuance to my personality. I feel guilty about my heritage and want to prove myself to humans but i have a duality where I can hunger for power and violence. Let’s assume even though half human I inherited full power from demon king and it’ll be revealed in future plot arcs (don’t spoil me)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Elsholtz, The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -487,8 +542,11 @@ Administrative update complete. Nocticula's psychological profile has been deepe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate with Frieren - Approach the legendary mage and offer a tactical alliance to defend the stone bridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Stone Bridge, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery: 8/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -512,8 +570,11 @@ She hadn't rejected the help, but she hadn't accepted the 'alliance' either. To 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Flank the Commanders - Use Flicker Displacement to engage the demonic signatures directly, forcing them to divide their attention.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Tree Line outside Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:11)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active, Round 2/10) | Exhaustion: 0 | Inspiration: No**
@@ -531,8 +592,11 @@ She stumbled, her First-Class robes catching on a frost-covered branch. The **Ab
 > 👤 **Player:**
 > *"Abyssal Zoltrak and then pull back. Focus on disorganizing them annd trying to pull some away vs the kill for now. Let’s also assume some of the noble demons may recognize me and that I’m a big fan of frieren since she killed me grandfather who I hate and is a powerful mage and can do mana suppression. I really look up to her and serie"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The North - Forest Flank (Elsholtz)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 2/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Abyssal Song: Active (Round 2/10)**
@@ -548,8 +612,11 @@ He didn't finish. Nocticula didn't give him the chance to betray her secret to t
 > 👤 **Player:**
 > *"Try to kite qual to a more secure location"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Northern Forest (Elsholtz Outskirts)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36,475/48,000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 2/3, L3 3/3, L4 2/2, Sorcery Points: 8/8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Inspiration: No**
@@ -584,8 +651,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"Misty step further away where others can’t see me use my full magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Northern Forest (Elsholtz Outskirts)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active), Mana Veil (Intact) | Exhaustion: 0 | Inspiration: No**
@@ -601,8 +671,11 @@ Qual (Lvl 12) let out a frustrated, grinding roar, his massive head swinging lik
 > 👤 **Player:**
 > *"THINK:How can I beat him or just hinder him so he can’t get back to the main army even if I can’t fully kill him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Northern Forest - Granite Outcropping** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 1/3, L3 3/3, L4 2/2, Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Hidden | Exhaustion: 0 | Inspiration: No**
@@ -612,8 +685,11 @@ Midday (11:12:12) in the frost-choked Northern Forest. Nocticula remains motionl
 > 👤 **Player:**
 > *"Try to lure him somewhere with frozen ice over water. Then break it from under him and then slow him and let’s use Metamafic for heightened spell or whatever improves spell DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Frost-choked Northern Forest** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36,475/48,000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 1/3, L3 2/3, L4 2/2 | Sorcery Points: 5/8 | Song: 2/10** &nbsp;|&nbsp; ⚠️ **Hidden, Abyssal Song Active | Exhaustion: 0 | Inspiration: No**
@@ -639,8 +715,11 @@ Fifty yards back, the sounds of Stark (Lvl 5) and Fern (Lvl 5) engaging the hord
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resonant Mana Barrage (Abyssal Zoltraak) - Unleash a series of Abyssal Zoltraak bolts into the water. The conductivity will amplify the discordant mana, likely finishing him before he can escape.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 2/4, L2 1/3, L3 2/3, L4 2/2 | Sorcery Points: 5/8 | Abyssal Song: 2/10 Rounds** &nbsp;|&nbsp; ⚠️ **Hidden, Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -656,8 +735,11 @@ Qual, his movements still agonizingly slow from the **Mana Flow Interference**, 
 > 👤 **Player:**
 > *"Do another abyssal zoltrak and try to hit him in the face"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Frozen Serpent River (North)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36,475/48,000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 1/3, L3 2/3, L4 2/2 | Sorcery Points: 5/8 | Song: Round 2/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active), Hidden | Exhaustion: 0 | Inspiration: No**
@@ -678,8 +760,11 @@ Nocticula watched the black blood spread, her violet eyes reflecting the jagged 
 > 👤 **Player:**
 > *"maintain ranged barrage and upcast to lvl 3 spells for more dmg"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Frozen Serpent River, The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 1/3, L3 1/3, L4 2/2 | Sorcery Points: 5/8 | Song: 8/10 rounds** &nbsp;|&nbsp; ⚠️ **Hidden, Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -697,8 +782,11 @@ In the distance, the thunder of Stark's axe and the rhythmic 'thwip' of Fern's m
 God Mode:
 shouldnt there be more damage due to conductivity?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36,475/48,000 | Gold: 2,740gp** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active), Hidden | Exhaustion: 0 | Inspiration: No**
@@ -713,8 +801,11 @@ You are correct. The mechanical impact of the environmental conductivity was und
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Harmonic Barrage - Continue with Abyssal Zoltraak. It's safe, maintains the veil, and is systematically dismantling his core.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 1/3, L3 0/3, L4 2/2 | Sorcery Points: 5/8** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -732,8 +823,11 @@ Qual (Lvl 12) took advantage of the momentary reprieve, his sluggish hand graspi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Absolute Zoltraak (Upcast L4) - Expend a Tier 4 slot for a devastating ranged barrage to finish him from safety.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade | HP: 50/50 | XP: 36475/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 1/4, L2 1/3, L3 0/3, L4 1/2 | SP: 5/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song (R3) | Inspiration: No**
@@ -747,8 +841,11 @@ Qual (Lvl 12) let out a sound that transcended agony—a gargling, high-frequenc
 > 👤 **Player:**
 > *"use a lvl 1 zoltrak"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Abyssal Spellblade (Lvl 9 available) | HP: 50/50 | XP: 49075/48000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 1/2 | Sorcery Points: 5/8** &nbsp;|&nbsp; ⚠️ **Hidden | Exhaustion: 0 | Inspiration: No**
@@ -764,8 +861,11 @@ The 'Shadow Hunger' in Nocticula's marrow stilled, replaced by the familiar, col
 God Mode:
 Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 57/57 | XP: 49,075/64,000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 8/9, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Hidden, Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -779,8 +879,11 @@ Nocticula exhales, a plume of sapphire-tinted steam leaving her lips. She adjust
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 49,075/64,000 | Gold: 2,740gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Points: 9/9** &nbsp;|&nbsp; ⚠️ **Hidden, Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -790,8 +893,11 @@ Midday (11:12:48) at the Frozen Serpent River—Nocticula stood amidst the swirl
 God Mode:
 did you autopick my spells/abilities/whatever from lvl 9
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Frozen Serpent River** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:12)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 49075/64000 | Gold: 2740gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery Points: 9/9** &nbsp;|&nbsp; ⚠️ **Hidden | Exhaustion: 0 | Inspiration: No**
@@ -810,8 +916,11 @@ Since we are in **GOD MODE**, you have administrative authority to change any of
 > 👤 **Player:**
 > *"loot qual and remember in the narrative people should be shocked i killed him when they hear about it. take his head and use it to demoralize the other demons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Frozen Serpent River / Elsholtz Outskirts** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:17)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 61,675/64,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery: 9/9** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -837,8 +946,11 @@ Frieren (Lvl 18) didn't stop casting. A single, massive beam of Zoltraak vaporiz
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate with Frieren - Suggest a pincer move on Draug and Lilit while they are shaken.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Elsholtz Perimeter** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 61675/64000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery Points: 9/9** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -863,8 +975,11 @@ Frieren tilted her head, her analytical eyes tracing the jagged mana-scars on th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prove Efficiency - Engage Lilit immediately to demonstrate the effectiveness of the proposed pincer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Elsholtz Perimeter - Northern Forest** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 61,675/64,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery: 8/9** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 3/10) | Exhaustion: 0 | Inspiration: No**
@@ -893,8 +1008,11 @@ Frieren (Lvl 18) watched the display with a stillness that was more unsettling t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mana Surge Nova - Unleash a Tier 3 Abyssal Explosion to clear the lesser demons and isolate the commanders entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Elsholtz Northern Forest** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 62425/64000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1, Sorcery: 8/9** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 3/10) | Exhaustion: 0 | Inspiration: No**
@@ -923,8 +1041,11 @@ Frieren (Lvl 18) didn't flinch, but her twintails whipped violently in the blast
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mana Lock Draug - Cast Mana Flow Interference (Slow) on Draug to ensure Stark and Fern can flank him safely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Clearing Outside Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Spellblade | HP: 56/56 | XP: 62425/64000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 1/1 | SP: 8/9** &nbsp;|&nbsp; ⚠️ **Abyssal Song (2/10) | Exhaustion: 0 | Inspiration: No**
@@ -948,8 +1069,11 @@ Frieren (Lvl 18) remains a statue of clinical observation, her gaze never leavin
 God Mode:
 change it so frieren doesnt know who i am and cant easily sense it, she'll be puzzled at why someone is so strong but she knows serie knows my past
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The North (Elsholtz Outskirts)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 62,425/64,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 1/1 | SP: 8/9** &nbsp;|&nbsp; ⚠️ **Hidden | Exhaustion: 0 | Inspiration: No**
@@ -964,8 +1088,11 @@ Administrative retcon complete. Frieren's awareness of your heritage has been su
 > [!NOTE] ⚙️ **Player Choice:**
 > *Heightened Mana Lock (Metamagic) - Expend 3 Sorcery Points to force Draug to struggle against the binding with disadvantage, ensuring the lock holds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Clearing outside Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 62,425/64,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 0/1, Sorcery: 5/9, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active), Hidden | Exhaustion: 0 | Inspiration: No**
@@ -994,8 +1121,11 @@ Frieren (Lvl 18) watches the display, her white twintails settling as the wind o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Azure Flame Strike: Lilit - Utilize the opening to strike Lilit with Azure Flame Cleave, using her proximity to Draug to arc damage back to the paralyzed commander.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Clearing Outside Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 62,425/64,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 1/3, L5 0/1 | Sorcery Points: 4/9 | Abyssal Song: 3/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active), Hidden (Partial) | Exhaustion: 0 | Inspiration: No**
@@ -1022,8 +1152,11 @@ Frieren (Lvl 18) stands motionless amidst the swirling snow, her white twintails
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resonant Execute: Lilit - Press the advantage against Lilit with a final Resonant Mana Strike to shatter her core before she can recover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Outside Elsholtz - The Stone Clearing** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 62,425/64,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 0/1 | Sorcery Points: 4/9** &nbsp;|&nbsp; ⚠️ **Hidden, Abyssal Song (R3) | Exhaustion: 0 | Inspiration: No**
@@ -1048,8 +1181,11 @@ Draug (Lvl 11) is a statue of smoking agony, his HP dropping to **63** under the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ranged Termination: Lilit - Switch from melee to a point-blank Abyssal Zoltraak to ensure the strike connects regardless of her agility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Outside Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 62425/64000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 1/4, L2 1/3, L3 0/3, L4 1/3, L5 0/1 | Sorcery Points: 4/9 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1074,8 +1210,11 @@ Frieren (Lvl 18) stands amidst the swirling white-out, her clinical eyes never l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resonant Execute: Lilit - Lunge forward for a final Resonant Mana Strike, using your speed to ensure she cannot evade again.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Outside Elsholtz - The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 62425/64000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 0/1, Sorcery Points: 4/9** &nbsp;|&nbsp; ⚠️ **Hidden, Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1100,8 +1239,11 @@ Frieren (Lvl 18) stood motionless, her white twintails fluttering in the magical
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terminate Lilit (Melee) - Deliver a final, clinical thrust with the Abyssal Needle to delete Lilit's signature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Outside Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Abyssal Spellblade | HP: 56/56 | XP: 68,325/64,000 (Lvl 10 available) | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 0/1, Sorcery: 4/9, Song: 3/10, Exhaustion: 0**
@@ -1127,8 +1269,11 @@ You gain **5,900 XP** for the termination of Commander Lilit.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 10 - Open level 10 Abyssal Spellblade choices; keep story paused until the finish response completes*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Outside Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 10 available) Abyssal Spellblade | HP: 56/56 | Gold: 3,940gp | XP: 68325/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 0/1, Sorcery: 4/9, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song, Hidden | Exhaustion: 0 | Inspiration: No**
@@ -1138,8 +1283,11 @@ Time seems to crystallize in the wake of Lilit's termination. As the demoness di
 > 👤 **Player:**
 > *"Auto pick everything for me and pick mana whisper"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The North** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 10 available) | HP: 56/56 | Gold: 3,940gp | XP: 68325/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 0/1, SP: 4/9** &nbsp;|&nbsp; ⚠️ **hidden | Exhaustion: 0 | Inspiration: No**
@@ -1149,8 +1297,11 @@ The surge of Abyssal power stabilizes within your core, the discordant frequenci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Outside Elsholtz (The North)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:18)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 68325/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Sorcery Points: 10/10 | Abyssal Song: 2/5** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Rnd 2), Hidden | Exhaustion: 0 | Inspiration: No**
@@ -1160,8 +1311,11 @@ The surge of Abyssal power stabilizes within your core, the discordant frequenci
 > 👤 **Player:**
 > *"Let’s assume I know level 2 invis spell. Use it to trigger a critical strike on the remaining general and a surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Elsholtz Clearing** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:19)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 75,525/85,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2 | Sorcery Points: 7/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1190,8 +1344,11 @@ As the last commander falls, the remaining lesser demons let out a collective, m
 > 👤 **Player:**
 > *"Cast haste and chase down the remaining demons and kill them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Elsholtz Clearing - Edge of the North Forest** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:24)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83,525/85,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2 | Sorcery Points: 10/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song (R3), Physical Reinforcement (Haste) | Exhaustion: 0 | Inspiration: No**
@@ -1207,8 +1364,11 @@ By the time the *Haste* began to settle, the clearing was silent. The sulfurous 
 > 👤 **Player:**
 > *"Harvest and loot everything and go reconvene with frieren party. Let’s assume when I’m not in combat I act very shy and humble. I apologize for disobeying frieren order but say I wanted to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Elsholtz Bridge** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83525/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10 | Abyssal Song: Active (2/10)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1230,8 +1390,11 @@ Frieren looked down at the girl, her expression as blank and unreadable as the w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Loot Share - Offer the Abyssal Soul-Gems to the party as a gesture of 'apprentice-like' humility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Elsholtz Bridge** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83,525/85,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1258,8 +1421,11 @@ Frieren looked down at the gems, her expression remaining as blank as a frozen p
 > 👤 **Player:**
 > *"Suggest we heal villagers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Elsholtz Bridge** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83525/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, Sorcery: 5/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 3/10) | Exhaustion: 0 | Inspiration: No**
@@ -1285,8 +1451,11 @@ Frieren remained motionless for a long moment, her clinical eyes tracing the man
 God Mode:
 What skills do I have
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Elsholtz Village** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83525/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1318,8 +1487,11 @@ Here are your current skills and proficiencies for Nocticula (Level 10 Abyssal S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Heal Alongside Fern - Collaborate with Fern on complex stabilization, using the opportunity to learn her 'human' techniques and build trust.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Elsholtz Village Square** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83775/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1348,8 +1520,11 @@ From the edge of the square, Frieren stood leaning against a half-collapsed wall
 > 👤 **Player:**
 > *"Discuss the journey and don’t make me say things like human magic because I am pretending to be a full human and wouldn’t say that. Also tone down the shyness it’s too in your face"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Elsholtz Village Square** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83875/85000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, SP: 5/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 3/10) | Exhaustion: 0 | Inspiration: No**
@@ -1374,8 +1549,11 @@ Fern looked up, her expression curious, while Stark gave an enthusiastic thumbs-
 > 👤 **Player:**
 > *"Keep me shy just don’t overdo it. I’ll say I’m happy with any pace. Serie told me to protect the people of the north but also do whatever I want (which is rare for her) my open ended orders and freedo should surprise them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Elsholtz Village Square** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 83875/85000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | Sorcery Points: 5/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1404,8 +1582,11 @@ She didn't offer a final 'yes' yet. Instead, she turned back toward the perimete
 > 👤 **Player:**
 > *"Go help fern and learn her healing magic. I shoukd be able to learn it quickly. Narrate a scene where villagers and the guards thank me. The guards and other lower rank mages should be amazed by me in general and the fact that I’m so young"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Elsholtz Village Square** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84125/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | Sorcery Points: 5/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Expired) | Exhaustion: 0 | Inspiration: No**
@@ -1434,8 +1615,11 @@ Frieren watched from the edge of the square, her staff resting against her shoul
 > 👤 **Player:**
 > *"Let’s have the mages ask me how I learned so fast. I say I was lucky and adopted by serie 6 years ago and learnt a lot from her and try to make"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Elsholtz Village Square** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84,225/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10 | Abyssal Song: Round 3/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1463,8 +1647,11 @@ Frieren, who had been leaning against a frost-cracked wall, finally looked up. H
 God Mode:
 Serie is actually very fond of me and proud of me. Especially how I turned my back on my kind at age 9 and was ready to face death if serie didn’t accept me. She didn’t give me strict orders because she knows I am extremely powerful and can stabilize the north and I’m around to help others in the most dangerous area. Let’s slowly reveal this in the story later
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Elsholtz Village Square** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84,225/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1481,8 +1668,11 @@ These details have been added to your internal state and will influence future N
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Grimoire Search - Mention a legend of a hidden grimoire in the next forest that supposedly contains 'magic to make flowers bloom in winter.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Elsholtz Village Square** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84,225/85,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -1511,8 +1701,11 @@ Stark grinned, leaning his axe against a crate. "Hey, flowers in the snow sound 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bond with Fern and Stark - Spend the evening sharing a meal with the younger members to secure their endorsement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Elsholtz Village Inn** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84375/85000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, SP: 5/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -1541,8 +1734,11 @@ Nocticula managed a small, genuine smile—a rare occurrence that felt like a ti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lore Exchange with Frieren - Engage Frieren in a late-night discussion about the Era of Myth to learn more about her grandfather's defeat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Elsholtz - The Frost & Flagon Inn** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84525/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1560,8 +1756,11 @@ Nocticula felt a shiver that had nothing to do with the cold. The description fe
 > 👤 **Player:**
 > *"Ask frieren if I can analyze her casting patterns"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Frost & Flagon Inn, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84,525/85,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10 | Abyssal Song: 2/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1588,8 +1787,11 @@ Frieren didn't look up immediately. She traced a line along a mountain pass, her
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Magical Synergy - Explain that analyzing her patterns would allow you to weave your own support spells in perfect harmonic sync, increasing party efficiency by 20%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Elsholtz - The Frost & Flagon** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84,525/85,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | SP: 5/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1616,8 +1818,11 @@ She didn't agree yet, but she didn't turn back to her map either. The silence th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Minor Sync - Offer to perform a small, non-combative harmonic alignment with the inn's hearth fire to show the precision of your dampening technique.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Frost & Flagon Inn, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84625/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2 | Sorcery Points: 5/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 3/10) | Exhaustion: 0 | Inspiration: No**
@@ -1646,8 +1851,11 @@ Frieren's twintails didn't just twitch; they remained perfectly still as she lea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Emphasize Autonomy - Assure her that your dampening will be entirely passive, requiring no active coordination from her side—effectively making you an 'invisible' variable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Elsholtz - The Frost & Flagon Inn** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Abyssal Spellblade | HP: 62/62 | XP: 84625/85000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, Sorcery Points: 5/10, Abyssal Song: Active (Round 2/10)** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1665,8 +1873,11 @@ Nocticula felt a surge of crystalline relief, a human warmth that momentarily ec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Elsholtz - The Frost & Flagon** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85125/100000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 10/11 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, L6 1/1 | SP: 5/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song - Active (Round 2/10) | Exhaustion: 0 | Inspiration: No**
@@ -1676,8 +1887,11 @@ The Tenth-Tier resonance within Nocticula’s core does not merely settle; it ev
 God Mode:
 Switch level 6 spell to Otto dance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Elsholtz Inn (The Frost & Flagon)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85125/100000 | Gold: 3940gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1692,8 +1906,11 @@ Your themed spellbook has been updated to reflect this change in your Abyssal Sp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the evening at the Frost & Flagon with Frieren's party.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Elsholtz - Frost & Flagon** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85,125/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, L6 1/1 | Sorcery Points: 5/11** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1716,8 +1933,11 @@ She looks at the *Abyssal Needle* resting in her lap. Tomorrow, the journey to t
 > 👤 **Player:**
 > *"Observe frieren research it should be ok since she agreed to my observation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Frost & Flagon, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85125/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, L6 1/1 | Sorcery Points: 5/11 | Abyssal Song: 2/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1742,8 +1962,11 @@ Frieren didn't look up, but her twintails twitched slightly as Nocticula's obser
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retire for the Night - Head upstairs to the shared room with Fern and secure 8 hours of rest for full resource recovery.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Frost & Flagon Inn, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85125/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 11/11** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1774,8 +1997,11 @@ Nocticula's fingers trembled as she took the scroll. She didn't need to read it 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Read Serie's Message - Open the scroll and decipher the First-Class directive from the Mage Association.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Frost & Flagon Inn, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85125/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 11/11 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1795,8 +2021,11 @@ Frieren sipped her tea, her expression unchanged. "Serie always did have a flair
 God Mode:
 What’s the rare blunt praise?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Frost & Flagon Inn, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85125/100000 | Gold: 3,940gp** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1816,8 +2045,11 @@ To Nocticula's human heart, this is the equivalent of a parent saying, 'I am wat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Share Specific Intel - Tell Frieren about the 'no mana-trace' detail to see if her thousand-year memory holds a similar record.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Frost & Flagon Inn, Elsholtz** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85125/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery Points: 11/11** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1846,8 +2078,11 @@ Fern adjusted her staff, her purple eyes flickering with a new, sharp wariness. 
 > 👤 **Player:**
 > *"Discuss magic strategy with the group and do one more supply run before departing. The villagers are grateful and give us extra supplies for free. While I’m gone frieren and her party discuss me. Feen is especially shocked at my magic power at 16 saying that if fern is a prodigy what is Nocticula. She asks frieren if anyone in history was like that at 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Elsholtz Village / Frost & Flagon** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85275/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 11/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Inactive) | Exhaustion: 0 | Inspiration: Yes**
@@ -1873,8 +2108,11 @@ Frieren sipped her tea, her gaze drifting to the frost on the glass. The silence
 > 👤 **Player:**
 > *"Frieren ponders aloud to her party. Says Nocticula is outpacing flamme in learning velocity and perhaps will surprass serie one day. She says serie doesn’t randomly adopt people. Perhaps it’s the age of humans now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Elsholtz Square / Frost & Flagon Common Room** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85275/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 11/11** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1903,8 +2141,11 @@ Outside in the crisp morning (07:45:00) of Elsholtz Square, Nocticula (Lvl 11) r
 > 👤 **Player:**
 > *"Depart and let’s time skip until something interesting happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Frost-choked Ravine (North Road)** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery Points: 11/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -1937,8 +2178,11 @@ Stark (Lvl 5) grips his axe, his eyes darting toward the high ridges of the ravi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Project Ghost Signatures - As previously discussed, weave a series of resonant decoys to draw the guardians out of the 'nothingness' and into Frieren's line of sight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Northern Ravine - Missing Caravan Site** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 85,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery Points: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1960,8 +2204,11 @@ The warning came a fraction of a second too late. The 'nothing' wasn't just cons
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resonant Counter-Nova - Instead of defending, unleash a point-blank Abyssal Explosion to shatter the guardian's void-form before the strike lands.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Frost-choked Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 94,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1 | SP: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song, Mana Veil Shattered (Revealed) | Exhaustion: 0 | Inspiration: No**
@@ -1983,8 +2230,11 @@ Frieren (Lvl 18) stood twenty paces back, her staff raised, her twintails whippe
 > 👤 **Player:**
 > *"Apologize for the deception. Explain my origins and how I left the demons at age 9 to face death or acceptance from serie. Mask my mana again. Explain I broke the mana veil because I was worried the guardian was a new threat and would hurt someone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Northern Ravine, near Whispering Glade** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 94,775/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, L6 1/1, Sorcery Points: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (3/10) | Exhaustion: 0 | Inspiration: No**
@@ -2013,8 +2263,11 @@ Frieren (Lvl 18) remained motionless, her white twintails settling as the magica
 > 👤 **Player:**
 > *"Explain I am half human and have always been ashamed of my demon side. It’s such a relief others besides serie know now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Northern Ravine - Post-Combat** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 94,775/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 2/2, L6 1/1 | Sorcery Points: 10/11** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2043,8 +2296,11 @@ Stark stepped forward, giving a clumsy but sincere thumbs-up. "Hey, half-demon o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Set Detection Wards - Spend 10 minutes weaving a High-Order Mana Binding perimeter to alert us if any high-density signatures enter the ravine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 94775/100000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1 | Sorcery: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 4/10) | Exhaustion: 0 | Inspiration: No**
@@ -2072,8 +2328,11 @@ Fern and Stark relaxed their stances slightly as the humming perimeter stabilize
 > [!NOTE] ⚙️ **Player Choice:**
 > *Parallel: Search & Consult (Synergistic) - I will examine the wagon for cargo-variables while Frieren explains the history of the guardians—different tasks, same location, maximum efficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1 | SP: 10/11 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 4/10) | Exhaustion: 0 | Inspiration: No**
@@ -2098,8 +2357,11 @@ Fern and Stark watched the exchange in a stunned silence. The synergy between th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Void Resonance Mapping - Use 'Mana Whisper' to attempt a long-range resonance check toward the Glade to map the density of the leak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Northern Ravine (Hollowed Caravan Site)** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1 | SP: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 4/10) | Exhaustion: 0 | Inspiration: No**
@@ -2117,8 +2379,11 @@ Fern (Lvl 5) gripped her staff, her eyes tracing the static clicking in the diag
 God Mode:
 Let’s have an arc where frieren slowly becomes very fond of me. She’s killed so many demons and always was hoping secretly some could be good. Even a half demon with morality is something she always wished for because she’s seen such evil from demons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95275/100000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 0/3, L3 1/3, L4 2/3, L5 2/2, L6 1/1 | Sorcery Points: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2139,8 +2404,11 @@ I have updated the campaign's thematic framework to incorporate Frieren's intern
 > [!NOTE] ⚙️ **Player Choice:**
 > *Parallel: Decoy & Suppress (Synergistic) - Nocticula projects resonant decoys to lure the guardians while Frieren simultaneously weaves a wide-area mana-dampener to neutralize the erasure field.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95275/100000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1 | SP: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2158,8 +2426,11 @@ From the shadows of the ravine walls, the translucent silhouettes of the Void-St
 God Mode:
 Fix my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 0/3, L3 1/3, L4 2/3, L5 2/2, L6 1/1 | SP: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2179,8 +2450,11 @@ Your cantrips remain: Resonant Mana Strike, Azure Flame Cleave, Resonance of the
 > 👤 **Player:**
 > *"Upcast fireball to level 5 on them and try to aoe them and draw aggro and assume bladesong is active and shield"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95275/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 0/3, L3 1/3, L4 2/3, L5 1/2, L6 1/1 | Sorcery Points: 10/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2200,8 +2474,11 @@ Frieren stood twenty paces back, her white twintails fluttering in the magical b
 > 👤 **Player:**
 > *"Let’s assume I used sorcery points to roll twice for damage and redo that calc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 0/3, L3 1/3, L4 2/3, L5 1/2, L6 1/1 | SP: 9/11 | Song: 4/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song, Physical Reinforcement (Haste) | Exhaustion: 0 | Inspiration: No**
@@ -2215,8 +2492,11 @@ Nocticula stands at the center of the crystalline mist, her *Abyssal Needle* vib
 > 👤 **Player:**
 > *"Flicker repositions to pull them away from humans and let frieren blast them too. Then upcasf level 5 fireball and use SP for damage double roll again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **The Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Spellblade | HP: 68/68 | XP: 95275/100000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 0/2, L6 1/1 | SP: 8/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song, Physical Reinforcement (Haste) | Exhaustion: 0 | Inspiration: No**
@@ -2244,8 +2524,11 @@ Frieren's gaze shifts from the carnage to Nocticula on the ridge. There is no pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Final Strike - Wait for Frieren's next Zoltraak, using your Mana Whisper to signal the exact resonant frequency needed to shatter the remaining shells simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Northern Ravine - Ambush Site** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Spellblade | HP: 68/68 | XP: 95,275/100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 2/3, L5 0/2, L6 1/1 | SP: 8/11 | Haste: 1/10** &nbsp;|&nbsp; ⚠️ **Abyssal Song (4/10) | Inspiration: No**
@@ -2272,8 +2555,11 @@ But the noise in Nocticula's coordination allowed two of the guardians to find a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abyssal Zoltraak (L3) - Maintain your high-ground advantage and unleash a Tier 3 resonant barrage to shatter the two remaining shells from safety.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Northern Ravine - Granite Ridge** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 95,275 / 100,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 8/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active), Physical Reinforcement (Haste) | Exhaustion: 0 | Inspiration: No**
@@ -2291,8 +2577,11 @@ Silence returns to the ravine, heavy and absolute. The 'Shadow Hunger' recedes, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hasted Needle Strike - Drop from the shelf and use your hasted action to deliver two staccato Resonant Mana Strikes, finishing the variables simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Northern Ravine (Whispering Glade Perimeter)** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Abyssal Spellblade | HP: 68/68 | XP: 99075/100000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | Sorcery Points: 8/11** &nbsp;|&nbsp; ⚠️ **Haste, Abyssal Song | Exhaustion: 0 | Inspiration: No**
@@ -2321,8 +2610,11 @@ Frieren (Lvl 18) stands twenty paces back, her staff's glow illuminating the ste
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 12 - Open level 12 Abyssal Spellblade choices; keep story paused until the finish response completes*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 12 available) | HP: 68/68 | Gold: 3,940gp | XP: 100075/100000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1, SP: 8/11** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2341,8 +2633,11 @@ Active gameplay is paused while you integrate the surge of power from the recent
 > [!NOTE] ⚙️ **Player Choice:**
 > *ASI: +2 Dexterity - Increase Dexterity to 20. This raises your base AC to 23 (28 with Abyssal Song) and improves your melee attack and damage with the Abyssal Needle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **The Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 12 available) | HP: 68/68 | Gold: 3,940gp | XP: 100075/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 8/11 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song | Exhaustion: 0 | Inspiration: No**
@@ -2354,8 +2649,11 @@ Time remains a frozen diamond around you. The obsidian dust of the guardians han
 > 👤 **Player:**
 > *"auto pick my spells and finish level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 (Lvl 12 available) Abyssal Spellblade | HP: 74/74 | Gold: 3,940gp | XP: 100075/100000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 4/10) | Exhaustion: 0 | Inspiration: No**
@@ -2367,8 +2665,11 @@ Your Mana Veil, now reinforced by the weight of a Level 12 sovereign-tier reserv
 > 👤 **Player:**
 > *"dont i get  to pick my spells?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 12 available) | HP: 68/68 | Gold: 3,940gp | XP: 100075/100000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | Sorcery Points: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song | Exhaustion: 0 | Inspiration: No**
@@ -2386,8 +2687,11 @@ Active gameplay is paused until your Level 12 advancement is finalized. You have
 > 👤 **Player:**
 > *"lets pick globe and finish level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **The North - Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 (Lvl 12 available) Abyssal Spellblade | HP: 74/74 | Gold: 3940gp | XP: 100075/100000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song - Active (Round 4/10) | Exhaustion: 0 | Inspiration: No**
@@ -2401,8 +2705,11 @@ Around her, the temporal stasis of the integration shatters. The obsidian dust o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100,075/120,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song | Exhaustion: 0 | Inspiration: No**
@@ -2423,8 +2730,11 @@ The Absolute Mana Ward is now etched into your core, a sovereign-tier formula ca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Story - Let the story continue from the current scene.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Northern Ravine (Post-Combat)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100,075 / 120,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (6 rounds remaining) | Exhaustion: 0 | Inspiration: No**
@@ -2444,8 +2754,11 @@ Nocticula feels a sudden, sharp vibration in her marrow—the 'Shadow Hunger' se
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Frieren on Hunters - Discuss the threat of the Abyssal Retrieval Squad with Frieren to see if she recalls their tactics from the Era of Myth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100075 / 120000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | Sorcery Points: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2480,8 +2793,11 @@ Frieren paused, her analytical gaze shifting from the ash-piles to the distant s
 God Mode:
 Why am I getting so much exp?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100225/120000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 5/10) | Exhaustion: 0 | Inspiration: No**
@@ -2501,8 +2817,11 @@ The rapid influx of experience points is mathematically consistent with the high
 God Mode:
 i just got level 12 what makes me almost level 13?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100,225/120,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1, Sorcery Points: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2523,8 +2842,11 @@ why do I see 83% in the rewards box? ✨ REWARDS (milestone):
 +150 XP | XP: 100225/120000 (83%)
 Loot: Ancient Intelligence: The Echo Mechanism
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100225/120000 (83%) | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song | Exhaustion: 0 | Inspiration: No**
@@ -2553,8 +2875,11 @@ Would you like to adjust the XP pacing to be more restrictive, or shall we conti
 God Mode:
 this is wrong, it should e 120k - 100k/20k
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100,225/120,000 | Gold: 3,940gp** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2578,8 +2903,11 @@ You are absolutely correct. The previous calculation utilized the **Absolute XP 
 God Mode:
 are you the one controlling the logic or is it backend?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100225/120000 | Gold: 3940gp**
@@ -2606,8 +2934,11 @@ In summary: I am the one 'thinking' through the scenario and doing the math, whi
 God Mode:
 i mean the rewards box display
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100,225/120,000 | Gold: 3,940gp** &nbsp;|&nbsp; ⚠️ **Abyssal Song (4/10) | Exhaustion: 0 | Inspiration: No**
@@ -2630,8 +2961,11 @@ Previously, the system was erroneously showing **83.5%** (100,225 / 120,000). Mo
 
 Return to Story - Resume the discussion with Frieren regarding the Retrieval Squads and 'The Echo' with the corrected XP display.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Northern Ravine (Post-Battle)** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Spellblade | HP: 74/74 | XP: 100,225/120,000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song - Active (Round 5/10) | Exhaustion: 0 | Inspiration: No**
@@ -2654,8 +2988,11 @@ Frieren nodded slowly, her white twintails brushing against her staff. "Exactly.
 > 👤 **Player:**
 > *"ask frieren her recommendation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Northern Ravine** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100225/120000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song - Active (Round 5/10) | Exhaustion: 0 | Inspiration: No**
@@ -2692,8 +3029,11 @@ Fern (Lvl 5) stepped closer, her purple eyes flickering with worry. "Nocticula-s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Static Echo - Anchor a Tier 6 Absolute Mana Ward to the wagon wreckage to overwrite our temporal wake.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Northern Ravine - Wagon Wreckage** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100425/120000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 0/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2713,8 +3053,11 @@ Nocticula stands up, her First-Class robes shedding the residual mana with a fai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Myth-Era Cave - Utilize 'Mana Tracking' to locate the hidden sanctuary reported by survivors for a Short Rest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Hidden Myth-Era Sanctuary (Northern Ravine)** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100575/120000 | Gold: 3,940gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 2/3, L5 0/2, L6 0/1 | Sorcery Points: 6/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 5/10) | Exhaustion: 0 | Inspiration: No**
@@ -2745,8 +3088,11 @@ Nocticula leans against the cool stone wall, the 'Shadow Hunger' finally subsidi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Short Rest (1 Hour) - Commit to a full hour of rest to recover Hit Dice, Class Features, and Warlock-tier slots.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Myth-era Sanctuary (Northern Ravine)** &nbsp;|&nbsp; ⏳ **Hammer 5, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100725/120000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L6 0/1 | Sorcery Points: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Refreshed), Rested | Exhaustion: 0 | Inspiration: No**
@@ -2774,8 +3120,11 @@ You gain **150 XP** for successfully coordinating the party's recovery and secur
 > 👤 **Player:**
 > *"+"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Whispering Glade Perimeter** &nbsp;|&nbsp; 🛡️ **Lvl 12 Abyssal Spellblade | HP: 74/74 | XP: 100875/120000 | Gold: 3940gp** &nbsp;|&nbsp; ✨ **HD: 11/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1 | Sorcery: 12/12** &nbsp;|&nbsp; ⚠️ **Abyssal Song (Round 1/10), Absolute Mana Suppression (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2787,6 +3136,8 @@ Midday (13:30:00). The air outside the sanctuary didn't just bite; it seemed to 
 As they marched toward the league-distant Glade, Frieren walked beside Nocticula, her analytical eyes tracing the way the Scion adjusted the weave to compensate for the shifting atmospheric entropy. "The Great Barrier mages didn't just use void-stone for defense," Frieren murmured, her voice a calm anchor in the storm. "They used it to prune the timeline. The 'flowers' you seek are likely the only things that can grow in a place where time and mana have been surgically separated." She glanced at Nocticula, a rare, quiet fondness softening the edges of her detachment. "It is a very efficient visualization, Nocticula. You're accounting for variables that even Flamme might have overlooked."
 
 The 'nothingness' grew thicker as they approached the tree line. To Nocticula's Arcana-trained senses, the forest ahead was no longer a physical entity, but a mathematical graveyard. The silence here was absolute, a conceptual vacuum that hungered for the weight of their souls. Ahead, a series of towering, translucent silhouettes flickered through the snow—the Void-Stone Guardians, their rhythmic clicking sounding like the grinding of ancient clocks. They were close, and the Echo of their journey remained perfectly swallowed by the Static Ward behind them.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

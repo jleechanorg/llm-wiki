@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (252 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Story: [STATE_UPDATES_PROPOSED]
@@ -1886,268 +1897,273 @@ They are still your companions and will play crucial roles moving forward. I wil
 
 Please select Sariel's next action from the previous `PLANNING BLOCK` to continue the story.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | Unknown |  | Roleplay |
-| **39** | Unknown |  | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Unknown |  | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | Unknown |  | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | Unknown |  | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Unknown |  | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Unknown |  | Roleplay |
-| **70** | Unknown |  | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Unknown |  | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Unknown |  | Roleplay |
-| **82** | Unknown |  | Roleplay |
-| **83** | Unknown |  | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Unknown |  | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Unknown |  | Roleplay |
-| **88** | Unknown |  | Roleplay |
-| **89** | Unknown |  | Roleplay |
-| **90** | Unknown |  | Roleplay |
-| **91** | Unknown |  | Roleplay |
-| **92** | Unknown |  | Roleplay |
-| **93** | Unknown |  | Roleplay |
-| **94** | Unknown |  | Roleplay |
-| **95** | Unknown |  | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Unknown |  | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Unknown |  | Roleplay |
-| **100** | Unknown |  | Roleplay |
-| **101** | Unknown |  | Roleplay |
-| **102** | Unknown |  | Roleplay |
-| **103** | Unknown |  | Roleplay |
-| **104** | Unknown |  | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Roleplay |
-| **107** | Unknown |  | Roleplay |
-| **108** | Unknown |  | Roleplay |
-| **109** | Unknown |  | Roleplay |
-| **110** | Unknown |  | Roleplay |
-| **111** | Unknown |  | Roleplay |
-| **112** | Unknown |  | Roleplay |
-| **113** | Unknown |  | Roleplay |
-| **114** | Unknown |  | Roleplay |
-| **115** | Unknown |  | Roleplay |
-| **116** | Unknown |  | Roleplay |
-| **117** | Unknown |  | Roleplay |
-| **118** | Unknown |  | Roleplay |
-| **119** | Unknown |  | Roleplay |
-| **120** | Unknown |  | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Unknown |  | Roleplay |
-| **123** | Unknown |  | Roleplay |
-| **124** | Unknown |  | Roleplay |
-| **125** | Unknown |  | Roleplay |
-| **126** | Unknown |  | Roleplay |
-| **127** | Unknown |  | Roleplay |
-| **128** | Unknown |  | Roleplay |
-| **129** | Unknown |  | Roleplay |
-| **130** | Unknown |  | Roleplay |
-| **131** | Unknown |  | Roleplay |
-| **132** | Unknown |  | Roleplay |
-| **133** | Unknown |  | Roleplay |
-| **134** | Unknown |  | Roleplay |
-| **135** | Unknown |  | Roleplay |
-| **136** | Unknown |  | Roleplay |
-| **137** | Unknown |  | Roleplay |
-| **138** | Unknown |  | Roleplay |
-| **139** | Unknown |  | Roleplay |
-| **140** | Unknown |  | Roleplay |
-| **141** | Unknown |  | Roleplay |
-| **142** | Unknown |  | Roleplay |
-| **143** | Unknown |  | Roleplay |
-| **144** | Unknown |  | Roleplay |
-| **145** | Unknown |  | Roleplay |
-| **146** | Unknown |  | Roleplay |
-| **147** | Unknown |  | Roleplay |
-| **148** | Unknown |  | Roleplay |
-| **149** | Unknown |  | Roleplay |
-| **150** | Unknown |  | Roleplay |
-| **151** | Unknown |  | Roleplay |
-| **152** | Unknown |  | Roleplay |
-| **153** | Unknown |  | Roleplay |
-| **154** | Unknown |  | Roleplay |
-| **155** | Unknown |  | Roleplay |
-| **156** | Unknown |  | Roleplay |
-| **157** | Unknown |  | Roleplay |
-| **158** | Unknown |  | Roleplay |
-| **159** | Unknown |  | Roleplay |
-| **160** | Unknown |  | Roleplay |
-| **161** | Unknown |  | Roleplay |
-| **162** | Unknown |  | Roleplay |
-| **163** | Unknown |  | Roleplay |
-| **164** | Unknown |  | Roleplay |
-| **165** | Unknown |  | Roleplay |
-| **166** | Unknown |  | Roleplay |
-| **167** | Unknown |  | Roleplay |
-| **168** | Unknown |  | Roleplay |
-| **169** | Unknown |  | Roleplay |
-| **170** | Unknown |  | Roleplay |
-| **171** | Unknown |  | Roleplay |
-| **172** | Unknown |  | Roleplay |
-| **173** | Unknown |  | Roleplay |
-| **174** | Unknown |  | Roleplay |
-| **175** | Unknown |  | Roleplay |
-| **176** | Unknown |  | Roleplay |
-| **177** | Unknown |  | Roleplay |
-| **178** | Unknown |  | Roleplay |
-| **179** | Unknown |  | Roleplay |
-| **180** | Unknown |  | Roleplay |
-| **181** | Unknown |  | Roleplay |
-| **182** | Unknown |  | Roleplay |
-| **183** | Unknown |  | Roleplay |
-| **184** | Unknown |  | Roleplay |
-| **185** | Unknown |  | Roleplay |
-| **186** | Unknown |  | Roleplay |
-| **187** | Unknown |  | Roleplay |
-| **188** | Unknown |  | Roleplay |
-| **189** | Unknown |  | Roleplay |
-| **190** | Unknown |  | Roleplay |
-| **191** | Unknown |  | Roleplay |
-| **192** | Unknown |  | Roleplay |
-| **193** | Unknown |  | Roleplay |
-| **194** | Unknown |  | Roleplay |
-| **195** | Unknown |  | Roleplay |
-| **196** | Unknown |  | Roleplay |
-| **197** | Unknown |  | Roleplay |
-| **198** | Unknown |  | Roleplay |
-| **199** | Unknown |  | Roleplay |
-| **200** | Unknown |  | Roleplay |
-| **201** | Unknown |  | Roleplay |
-| **202** | Unknown |  | Roleplay |
-| **203** | Unknown |  | Roleplay |
-| **204** | Unknown |  | Roleplay |
-| **205** | Unknown |  | Roleplay |
-| **206** | Unknown |  | Roleplay |
-| **207** | Unknown |  | Roleplay |
-| **208** | Unknown |  | Roleplay |
-| **209** | Unknown |  | Roleplay |
-| **210** | Unknown |  | Roleplay |
-| **211** | Unknown |  | Roleplay |
-| **212** | Unknown |  | Roleplay |
-| **213** | Unknown |  | Roleplay |
-| **214** | Unknown |  | Roleplay |
-| **215** | Unknown |  | Roleplay |
-| **216** | Unknown |  | Roleplay |
-| **217** | Unknown |  | Roleplay |
-| **218** | Unknown |  | Roleplay |
-| **219** | Unknown |  | Roleplay |
-| **220** | Unknown |  | Roleplay |
-| **221** | Unknown |  | Roleplay |
-| **222** | Unknown |  | Roleplay |
-| **223** | Unknown |  | Roleplay |
-| **224** | Unknown |  | Roleplay |
-| **225** | Unknown |  | Roleplay |
-| **226** | Unknown |  | Roleplay |
-| **227** | Unknown |  | Roleplay |
-| **228** | Unknown |  | Roleplay |
-| **229** | Unknown |  | Roleplay |
-| **230** | Unknown |  | Roleplay |
-| **231** | Unknown |  | Roleplay |
-| **232** | Unknown |  | Roleplay |
-| **233** | Unknown |  | Roleplay |
-| **234** | Unknown |  | Roleplay |
-| **235** | Unknown |  | Roleplay |
-| **236** | Unknown |  | Roleplay |
-| **237** | Unknown |  | Roleplay |
-| **238** | Unknown |  | Roleplay |
-| **239** | Unknown |  | Roleplay |
-| **240** | Unknown |  | Roleplay |
-| **241** | Unknown |  | Roleplay |
-| **242** | Unknown |  | Roleplay |
-| **243** | Unknown |  | Roleplay |
-| **244** | Unknown |  | Roleplay |
-| **245** | Unknown |  | Roleplay |
-| **246** | Unknown |  | Roleplay |
-| **247** | Unknown |  | Roleplay |
-| **248** | Unknown |  | Roleplay |
-| **249** | Unknown |  | Roleplay |
-| **250** | Unknown |  | Roleplay |
-| **251** | Unknown |  | Roleplay |
-| **252** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+| [**Scene 39**](#scene-39) | Unknown |  | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Unknown |  | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown |  | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown |  | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown |  | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown |  | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Unknown |  | Roleplay |
+| [**Scene 82**](#scene-82) | Unknown |  | Roleplay |
+| [**Scene 83**](#scene-83) | Unknown |  | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Unknown |  | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Unknown |  | Roleplay |
+| [**Scene 88**](#scene-88) | Unknown |  | Roleplay |
+| [**Scene 89**](#scene-89) | Unknown |  | Roleplay |
+| [**Scene 90**](#scene-90) | Unknown |  | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown |  | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown |  | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Unknown |  | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown |  | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown |  | Roleplay |
+| [**Scene 100**](#scene-100) | Unknown |  | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown |  | Roleplay |
+| [**Scene 102**](#scene-102) | Unknown |  | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown |  | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown |  | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown |  | Roleplay |
+| [**Scene 109**](#scene-109) | Unknown |  | Roleplay |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+| [**Scene 111**](#scene-111) | Unknown |  | Roleplay |
+| [**Scene 112**](#scene-112) | Unknown |  | Roleplay |
+| [**Scene 113**](#scene-113) | Unknown |  | Roleplay |
+| [**Scene 114**](#scene-114) | Unknown |  | Roleplay |
+| [**Scene 115**](#scene-115) | Unknown |  | Roleplay |
+| [**Scene 116**](#scene-116) | Unknown |  | Roleplay |
+| [**Scene 117**](#scene-117) | Unknown |  | Roleplay |
+| [**Scene 118**](#scene-118) | Unknown |  | Roleplay |
+| [**Scene 119**](#scene-119) | Unknown |  | Roleplay |
+| [**Scene 120**](#scene-120) | Unknown |  | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Unknown |  | Roleplay |
+| [**Scene 123**](#scene-123) | Unknown |  | Roleplay |
+| [**Scene 124**](#scene-124) | Unknown |  | Roleplay |
+| [**Scene 125**](#scene-125) | Unknown |  | Roleplay |
+| [**Scene 126**](#scene-126) | Unknown |  | Roleplay |
+| [**Scene 127**](#scene-127) | Unknown |  | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown |  | Roleplay |
+| [**Scene 129**](#scene-129) | Unknown |  | Roleplay |
+| [**Scene 130**](#scene-130) | Unknown |  | Roleplay |
+| [**Scene 131**](#scene-131) | Unknown |  | Roleplay |
+| [**Scene 132**](#scene-132) | Unknown |  | Roleplay |
+| [**Scene 133**](#scene-133) | Unknown |  | Roleplay |
+| [**Scene 134**](#scene-134) | Unknown |  | Roleplay |
+| [**Scene 135**](#scene-135) | Unknown |  | Roleplay |
+| [**Scene 136**](#scene-136) | Unknown |  | Roleplay |
+| [**Scene 137**](#scene-137) | Unknown |  | Roleplay |
+| [**Scene 138**](#scene-138) | Unknown |  | Roleplay |
+| [**Scene 139**](#scene-139) | Unknown |  | Roleplay |
+| [**Scene 140**](#scene-140) | Unknown |  | Roleplay |
+| [**Scene 141**](#scene-141) | Unknown |  | Roleplay |
+| [**Scene 142**](#scene-142) | Unknown |  | Roleplay |
+| [**Scene 143**](#scene-143) | Unknown |  | Roleplay |
+| [**Scene 144**](#scene-144) | Unknown |  | Roleplay |
+| [**Scene 145**](#scene-145) | Unknown |  | Roleplay |
+| [**Scene 146**](#scene-146) | Unknown |  | Roleplay |
+| [**Scene 147**](#scene-147) | Unknown |  | Roleplay |
+| [**Scene 148**](#scene-148) | Unknown |  | Roleplay |
+| [**Scene 149**](#scene-149) | Unknown |  | Roleplay |
+| [**Scene 150**](#scene-150) | Unknown |  | Roleplay |
+| [**Scene 151**](#scene-151) | Unknown |  | Roleplay |
+| [**Scene 152**](#scene-152) | Unknown |  | Roleplay |
+| [**Scene 153**](#scene-153) | Unknown |  | Roleplay |
+| [**Scene 154**](#scene-154) | Unknown |  | Roleplay |
+| [**Scene 155**](#scene-155) | Unknown |  | Roleplay |
+| [**Scene 156**](#scene-156) | Unknown |  | Roleplay |
+| [**Scene 157**](#scene-157) | Unknown |  | Roleplay |
+| [**Scene 158**](#scene-158) | Unknown |  | Roleplay |
+| [**Scene 159**](#scene-159) | Unknown |  | Roleplay |
+| [**Scene 160**](#scene-160) | Unknown |  | Roleplay |
+| [**Scene 161**](#scene-161) | Unknown |  | Roleplay |
+| [**Scene 162**](#scene-162) | Unknown |  | Roleplay |
+| [**Scene 163**](#scene-163) | Unknown |  | Roleplay |
+| [**Scene 164**](#scene-164) | Unknown |  | Roleplay |
+| [**Scene 165**](#scene-165) | Unknown |  | Roleplay |
+| [**Scene 166**](#scene-166) | Unknown |  | Roleplay |
+| [**Scene 167**](#scene-167) | Unknown |  | Roleplay |
+| [**Scene 168**](#scene-168) | Unknown |  | Roleplay |
+| [**Scene 169**](#scene-169) | Unknown |  | Roleplay |
+| [**Scene 170**](#scene-170) | Unknown |  | Roleplay |
+| [**Scene 171**](#scene-171) | Unknown |  | Roleplay |
+| [**Scene 172**](#scene-172) | Unknown |  | Roleplay |
+| [**Scene 173**](#scene-173) | Unknown |  | Roleplay |
+| [**Scene 174**](#scene-174) | Unknown |  | Roleplay |
+| [**Scene 175**](#scene-175) | Unknown |  | Roleplay |
+| [**Scene 176**](#scene-176) | Unknown |  | Roleplay |
+| [**Scene 177**](#scene-177) | Unknown |  | Roleplay |
+| [**Scene 178**](#scene-178) | Unknown |  | Roleplay |
+| [**Scene 179**](#scene-179) | Unknown |  | Roleplay |
+| [**Scene 180**](#scene-180) | Unknown |  | Roleplay |
+| [**Scene 181**](#scene-181) | Unknown |  | Roleplay |
+| [**Scene 182**](#scene-182) | Unknown |  | Roleplay |
+| [**Scene 183**](#scene-183) | Unknown |  | Roleplay |
+| [**Scene 184**](#scene-184) | Unknown |  | Roleplay |
+| [**Scene 185**](#scene-185) | Unknown |  | Roleplay |
+| [**Scene 186**](#scene-186) | Unknown |  | Roleplay |
+| [**Scene 187**](#scene-187) | Unknown |  | Roleplay |
+| [**Scene 188**](#scene-188) | Unknown |  | Roleplay |
+| [**Scene 189**](#scene-189) | Unknown |  | Roleplay |
+| [**Scene 190**](#scene-190) | Unknown |  | Roleplay |
+| [**Scene 191**](#scene-191) | Unknown |  | Roleplay |
+| [**Scene 192**](#scene-192) | Unknown |  | Roleplay |
+| [**Scene 193**](#scene-193) | Unknown |  | Roleplay |
+| [**Scene 194**](#scene-194) | Unknown |  | Roleplay |
+| [**Scene 195**](#scene-195) | Unknown |  | Roleplay |
+| [**Scene 196**](#scene-196) | Unknown |  | Roleplay |
+| [**Scene 197**](#scene-197) | Unknown |  | Roleplay |
+| [**Scene 198**](#scene-198) | Unknown |  | Roleplay |
+| [**Scene 199**](#scene-199) | Unknown |  | Roleplay |
+| [**Scene 200**](#scene-200) | Unknown |  | Roleplay |
+| [**Scene 201**](#scene-201) | Unknown |  | Roleplay |
+| [**Scene 202**](#scene-202) | Unknown |  | Roleplay |
+| [**Scene 203**](#scene-203) | Unknown |  | Roleplay |
+| [**Scene 204**](#scene-204) | Unknown |  | Roleplay |
+| [**Scene 205**](#scene-205) | Unknown |  | Roleplay |
+| [**Scene 206**](#scene-206) | Unknown |  | Roleplay |
+| [**Scene 207**](#scene-207) | Unknown |  | Roleplay |
+| [**Scene 208**](#scene-208) | Unknown |  | Roleplay |
+| [**Scene 209**](#scene-209) | Unknown |  | Roleplay |
+| [**Scene 210**](#scene-210) | Unknown |  | Roleplay |
+| [**Scene 211**](#scene-211) | Unknown |  | Roleplay |
+| [**Scene 212**](#scene-212) | Unknown |  | Roleplay |
+| [**Scene 213**](#scene-213) | Unknown |  | Roleplay |
+| [**Scene 214**](#scene-214) | Unknown |  | Roleplay |
+| [**Scene 215**](#scene-215) | Unknown |  | Roleplay |
+| [**Scene 216**](#scene-216) | Unknown |  | Roleplay |
+| [**Scene 217**](#scene-217) | Unknown |  | Roleplay |
+| [**Scene 218**](#scene-218) | Unknown |  | Roleplay |
+| [**Scene 219**](#scene-219) | Unknown |  | Roleplay |
+| [**Scene 220**](#scene-220) | Unknown |  | Roleplay |
+| [**Scene 221**](#scene-221) | Unknown |  | Roleplay |
+| [**Scene 222**](#scene-222) | Unknown |  | Roleplay |
+| [**Scene 223**](#scene-223) | Unknown |  | Roleplay |
+| [**Scene 224**](#scene-224) | Unknown |  | Roleplay |
+| [**Scene 225**](#scene-225) | Unknown |  | Roleplay |
+| [**Scene 226**](#scene-226) | Unknown |  | Roleplay |
+| [**Scene 227**](#scene-227) | Unknown |  | Roleplay |
+| [**Scene 228**](#scene-228) | Unknown |  | Roleplay |
+| [**Scene 229**](#scene-229) | Unknown |  | Roleplay |
+| [**Scene 230**](#scene-230) | Unknown |  | Roleplay |
+| [**Scene 231**](#scene-231) | Unknown |  | Roleplay |
+| [**Scene 232**](#scene-232) | Unknown |  | Roleplay |
+| [**Scene 233**](#scene-233) | Unknown |  | Roleplay |
+| [**Scene 234**](#scene-234) | Unknown |  | Roleplay |
+| [**Scene 235**](#scene-235) | Unknown |  | Roleplay |
+| [**Scene 236**](#scene-236) | Unknown |  | Roleplay |
+| [**Scene 237**](#scene-237) | Unknown |  | Roleplay |
+| [**Scene 238**](#scene-238) | Unknown |  | Roleplay |
+| [**Scene 239**](#scene-239) | Unknown |  | Roleplay |
+| [**Scene 240**](#scene-240) | Unknown |  | Roleplay |
+| [**Scene 241**](#scene-241) | Unknown |  | Roleplay |
+| [**Scene 242**](#scene-242) | Unknown |  | Roleplay |
+| [**Scene 243**](#scene-243) | Unknown |  | Roleplay |
+| [**Scene 244**](#scene-244) | Unknown |  | Roleplay |
+| [**Scene 245**](#scene-245) | Unknown |  | Roleplay |
+| [**Scene 246**](#scene-246) | Unknown |  | Roleplay |
+| [**Scene 247**](#scene-247) | Unknown |  | Roleplay |
+| [**Scene 248**](#scene-248) | Unknown |  | Roleplay |
+| [**Scene 249**](#scene-249) | Unknown |  | Roleplay |
+| [**Scene 250**](#scene-250) | Unknown |  | Roleplay |
+| [**Scene 251**](#scene-251) | Unknown |  | Roleplay |
+| [**Scene 252**](#scene-252) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -2185,8 +2201,11 @@ What would you like to do?
 God Mode:
 does anything conflict with ths campaign vs the assiah lore?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -2240,8 +2259,11 @@ Krya is dead
 
 Anything else?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -2440,8 +2462,11 @@ What would you like to do?
 God Mode:
 Ask Kantos about mothers power. How can I acquire it? Does nullifcation need to be done on babies or could Ido it and posses magic and null power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -2494,8 +2519,11 @@ What would you like to do?
 God Mode:
 accident, i meant to ask this in character mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -2541,8 +2569,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. How can I gain similar power or use this info to gain more power?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -2594,8 +2625,11 @@ Think. How use this knowledge to power up
 
 Think. How use this knowledge to power up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -2647,8 +2681,11 @@ What would you like to do?
 
 think. i saw nullifcation field. can't i just recall it from memory and copy it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -2706,8 +2743,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -2748,8 +2788,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -2786,8 +2829,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -2825,8 +2871,11 @@ What would you like to do?
 
 1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -2855,8 +2904,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -2888,8 +2940,11 @@ What would you like to do?
 God Mode:
 DM note: Raziel should be deaD?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -2917,8 +2972,11 @@ Please confirm if this is clear and how you would like to proceed. We can either
 God Mode:
 why would the silent guard not let in sariel?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -2972,8 +3030,11 @@ What would you like to do?
 God Mode:
 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -3012,8 +3073,11 @@ What would you like to do?
 
 1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -3063,8 +3127,11 @@ What would you like to do?
 
 DM note: don't say things like joyful predator so obviously it's a bit cheesy. Work it in a more subtle way. This goes for any similar saying"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -3098,8 +3165,11 @@ Did you see my DM note? I want you to always acknowledge it and then continue wi
 
 DM note: don't say things like joyful predator so obviously it's a bit cheesy. Work it in a more subtle way. This goes for any similar saying"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -3153,8 +3223,11 @@ What would you like to do?
 
 DM note: also shouldn't i have gotten more exp from the new relevantions?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -3231,8 +3304,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -3265,8 +3341,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. Who are the triumvirate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -3329,8 +3408,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -3363,8 +3445,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -3399,8 +3484,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. can i make the silent guardians listen to me? and continue reading with this in mind too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -3448,8 +3536,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1 and focus on using new knowledge to make silent guard obey me and perhaps work for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -3495,8 +3586,11 @@ What would you like to do?
 God Mode:
 DM note: don't make the silent guards fully robotic. Look at the original alexiel novel. They had their own thoughts, feelings, emotions. They should not be one dimensional
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -3547,8 +3641,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"2 but with a focus on controlling silent guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -3578,8 +3675,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. success ratios"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -3633,8 +3733,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1. whisper in some new details and start to build my authority over them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -3666,8 +3769,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -3715,8 +3821,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. What if I show some partial evidence?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -3763,8 +3872,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think succes rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -3817,8 +3929,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1 and tell Kantos to get a map and follow. Think about subtle ways to work in more control of silent guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -3855,8 +3970,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1 and tell Kantos to get a map and follow. Think about subtle ways to work in more control of silent guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -3891,8 +4009,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1 and tell Kantos to get a map and follow. Think about subtle ways to work in more control of silent guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -3923,8 +4044,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think success rates. Any risk of waiting for companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -3968,8 +4092,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -4009,8 +4136,11 @@ What would you like to do?
 God Mode:
 something went wrong. you aren't supposed to take actions witout me. When I do think never take an action please
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 
@@ -4058,8 +4188,11 @@ What would you like to do?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -4073,8 +4206,11 @@ I am now in DM mode. How may I assist you?
 God Mode:
 there are already strict and explicit rules about think blocks. how are you getting this wrong still? 10 whys
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -4194,8 +4330,11 @@ Please confirm if this analysis and proposed solution are satisfactory.
 God Mode:
 approve and continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -4235,8 +4374,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -4274,8 +4416,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Tell kantos to bring my companions, especially rowan the healer. on the double"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -4318,8 +4463,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"5. Tell kantos to bring my companions, especially rowan the healer. on the double"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -4362,8 +4510,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"5.  **[Other]:** Tell kantos to bring my companions, especially rowan the healer. on the double"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -4406,8 +4557,11 @@ What would you like to do?
 God Mode:
 something is wrong. If I say 5. and say another action you should respect it. Maybe do the choice ids again? Why did you stop doing choice IDs?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 
@@ -4461,8 +4615,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_5: tell kantos and the silent guard to get all my companions and fast track rowan because he can heal. use this to slowly get the silent guard used to following my orders. I am raziel granddaughter after all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -4494,8 +4651,11 @@ What would you like to do?
 God Mode:
 where did my choice IDs go?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -4538,8 +4698,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"PressGuards_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -4582,8 +4745,11 @@ What would you like to do?
 God Mode:
 reton my bandaged ear. it's been a year since alexiel died now, not one day after
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -4651,8 +4817,11 @@ This significant change will require a formal `STATE_UPDATES_PROPOSED` block to 
 God Mode:
 wait nevermind, lets make it a day after
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -4710,8 +4879,11 @@ Please confirm by responding: `CONFIRM REVERT`.
 God Mode:
 CONFIRM REVERT
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -4784,8 +4956,11 @@ What would you like to do?
 God Mode:
 wrong place. i already sent silent guard to get my companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 
@@ -4837,8 +5012,11 @@ What would you like to do?
 God Mode:
 I should get exp for various actions. Especially something like convincing the silent guard to let me in and ordering them around. Why aren't you awarding exp?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -4914,8 +5092,11 @@ What would you like to do?
 God Mode:
 how can we make sure i get exp for social challenges going forward?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -4948,8 +5129,11 @@ Please confirm if this explanation and the plan for consistent XP awards for soc
 God Mode:
 yes and lets continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -4996,8 +5180,11 @@ What would you like to do?
 God Mode:
 CommandTeam_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -5043,8 +5230,11 @@ What would you like to do?
 God Mode:
 DM note: they should be very impressed. I am commanding the silent guard.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -5101,8 +5291,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_5: think success rates each choice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -5185,8 +5378,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"RestBriefly_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -5215,8 +5411,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ApproachKaelan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -5250,8 +5449,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_5: think success rates for options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -5309,8 +5511,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_5: observe kaelen more closely"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -5348,8 +5553,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -5390,8 +5598,11 @@ What would you like to do?
 God Mode:
 DM note: this doesn't make sense. even if alexiel is so powerful why would that scar him?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -5453,8 +5664,11 @@ What would you like to do?
 God Mode:
 OtherAction_5. think on sucecss rates of ooptions without picking one
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -5506,8 +5720,11 @@ What would you like to do?
 God Mode:
 OtherAction_5; brainstorm ideas wwith the team on what to do next
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -5622,8 +5839,11 @@ Let's brainstorm some potential approaches Sariel might consider or suggest, and
 > 👤 **Player:**
 > *"brainstorm with companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 
@@ -5668,8 +5888,11 @@ What would you like to do?
 God Mode:
 DM note: it still seems weird it drove him mad. Maybe we should just be mad because everyone else died?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 
@@ -5731,8 +5954,11 @@ What would you like to do?
 God Mode:
 lets focus on 2-4 and less on 1 which is just power. Especially the betrayal angle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -5779,8 +6005,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_4: brainstorm ideas with th team"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -5853,8 +6082,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_6: think about the success rate of actions 1-5 but do not do anything yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -5915,8 +6147,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ReattemptComprehend_5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 
@@ -5963,8 +6198,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_4: ask kantos what to do and about lore"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -6018,8 +6256,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"InquireAboutMethods_1 and in parallel SeekHealingForKaelan_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -6051,8 +6292,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ConsultCressida_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -6086,8 +6330,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"PrepareForMethods_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 
@@ -6132,8 +6379,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_5: prepare for kantos ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -6180,8 +6430,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_4: ask kantos if i should begin now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -6217,8 +6470,11 @@ What would you like to do?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 
@@ -6232,8 +6488,11 @@ I am now in DM mode. How may I assist you?
 God Mode:
 huge mistake from Kantos, my companions are already here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 
@@ -6283,8 +6542,11 @@ What would you like to do?
 God Mode:
 enter dm mode and stay there. 10 whys for why you got my companion presence wrong. Aren't they in game state?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 
@@ -6349,8 +6611,11 @@ Please confirm if this analysis and proposed solution are satisfactory.
 God Mode:
 ok lets do this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -6541,8 +6806,11 @@ What would you like to do?
 God Mode:
 enter debug mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 
@@ -6556,8 +6824,11 @@ I am now in DM mode. How may I assist you?
 > 👤 **Player:**
 > *"PerformSelfHealing_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 
@@ -6623,8 +6894,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. what is my class and stats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 
@@ -6730,8 +7004,11 @@ What would you like to do?
 God Mode:
 give sariel a special subclass of wizard lore appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 
@@ -6795,8 +7072,11 @@ This subclass integrates Sariel's established lore and provides a clear mechanic
 God Mode:
 approved and lets continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 
@@ -6853,8 +7133,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AskForMitigation_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 
@@ -6890,8 +7173,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"InquireMentalAnchor_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 
@@ -6935,8 +7221,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ask if i can use gideon and do InquireAlchemicalInfusion_2 together"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -6988,8 +7277,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ConsultCressida_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -7025,8 +7317,11 @@ What would you like to do?
 God Mode:
 something doesn't make sense. Why are my companions are so much higher level than me? They should be around the same level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -7077,8 +7372,11 @@ This will ensure Sariel's unique development and ability to command more powerfu
 God Mode:
 approved
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 
@@ -7138,8 +7436,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"PrioritizeMethod_3 and ConsultRowan_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -7187,8 +7488,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"BeginMentalAnchor_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 
@@ -7222,8 +7526,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"BeginAttunement_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -7295,8 +7602,11 @@ enable debug mode
 > 👤 **Player:**
 > *"ExperimentMagic_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 
@@ -7350,8 +7660,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ReviewKaelan_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 
@@ -7408,8 +7721,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"DirectContact_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 
@@ -7475,8 +7791,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ReviewKaelan_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 
@@ -7508,8 +7827,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"EngageKaelan_4 - tell him to remain calm. Mother was more powerful than expected and a different person than he thought. But she still did what was necessary to win. You must accept it. Without her you all would've died for nothing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 
@@ -7592,8 +7914,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AttemptDirectContact_4: explain it to him more. It was not a betrayal. Alexiel needed to win. Sariel observed her after the battle. She mourned the starfall guard and the cost of victory. Perhaps she even visited kaelan but he forgot. Tell him to try to remember if Alexiel visited him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 
@@ -7640,8 +7965,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"5. explain it to him more. It was not a betrayal. Alexiel needed to win. Sariel observed her after the battle. She mourned the starfall guard and the cost of victory. Perhaps she even visited kaelan but he forgot. Tell him to try to remember if Alexiel visited him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -7683,8 +8011,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_5: keep encouraging him to remember and in parallel tell rowan to help kaelan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -7787,8 +8118,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_5: keep encouraging him. It sounds like mother did visit him. Encourage him to remember"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -7845,8 +8179,11 @@ Result: 25 >= 15 — Success! (Kaelan's mind is now receptive and searching for 
 > 👤 **Player:**
 > *"OtherAction_4: continue and access his memory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 
@@ -7936,8 +8273,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_4: keep working on kaelan. Tell him he wasn't betrayed. Try to make him sane again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 
@@ -7984,8 +8324,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AssessKaelanFuture_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -8302,8 +8645,11 @@ Once you have chosen your spells, we will return to the narrative.
 God Mode:
 every story mode entry is repeating stuff too much
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 
@@ -8368,8 +8714,11 @@ Once you have chosen your spells, we will return to the narrative.
 > 👤 **Player:**
 > *"show me the spells i can pick"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 
@@ -8441,8 +8790,11 @@ What would you like to do?
 > *"shield
 Detect Thoughts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 
@@ -8525,8 +8877,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Hold Person"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 
@@ -8635,8 +8990,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OtherAction_4 cast detect thoughts on kaelan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 
@@ -8799,8 +9157,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"StabilizeSelf_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 
@@ -8843,8 +9204,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AssessKaelanFuture_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 
@@ -8930,8 +9294,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"StabilizeSelf_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 
@@ -8997,8 +9364,11 @@ What would you like to do?
 God Mode:
 Something is wrong. I've already done InstructRowanStabilize_1 and AssessKaelanFuture_3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 
@@ -9066,8 +9436,11 @@ What would you like to do?
 God Mode:
 SecureKaelan_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 
@@ -9108,8 +9481,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"DecideKaelanCare_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -9151,8 +9527,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 
@@ -9199,8 +9578,11 @@ What would you like to do?
 God Mode:
 StabilizeSelf_1 and DecideKaelanCare_2 are already done .10 whys on why you keep messing it up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 
@@ -9267,8 +9649,11 @@ Please confirm if this analysis and proposed solution are satisfactory.
 God Mode:
 approved
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 
@@ -9304,8 +9689,11 @@ What would you like to do?
 God Mode:
 ExplainTruthToTeam_1 this i already done too. lets leave the cell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 
@@ -9366,8 +9754,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"PlanNextSteps_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 
@@ -9402,8 +9793,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"DiscussPersonalImplications_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 
@@ -9441,8 +9835,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"SeekComfort_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 
@@ -9477,8 +9874,11 @@ What would you like to do?
 God Mode:
 are you tracking the unforseen consequences mechanic? felt like I was just winning all my rolls easily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 
@@ -9548,8 +9948,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Wrong. I am not in the cell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 
@@ -9604,8 +10007,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"DiscussCure_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 
@@ -9636,8 +10042,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. How can I use the knowledge for my own personal power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 
@@ -9678,8 +10087,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"SecureKnowledge_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 
@@ -9717,8 +10129,11 @@ What would you like to like to do?
 > 👤 **Player:**
 > *"DiscussDisseminationStrategy_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 
@@ -9749,8 +10164,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"DestroyOriginals_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 
@@ -9788,8 +10206,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AssignCopyingRole_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 
@@ -9849,8 +10270,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AssignSecurityRoles_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 
@@ -9908,8 +10332,11 @@ What would you like to do?
 
 AskAboutDestructionMethods_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 
@@ -9938,8 +10365,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AssignDestructionTask_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 
@@ -9977,8 +10407,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"PlanNextSteps_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 
@@ -10027,8 +10460,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"DiscussPowerDevelopment_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 
@@ -10089,8 +10525,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. Success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 
@@ -10153,8 +10592,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. Success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 
@@ -10210,8 +10652,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 
@@ -10240,8 +10685,11 @@ What would you like to do?
 God Mode:
 Give sariel a secret sadistic and evil side if she doesn't have it already. I want to follow the evil path for her. Change her alignment to lawful evil. It should be a secret and develop gradually though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 
@@ -10360,8 +10808,11 @@ What would you like to do?
 God Mode:
 Let's not make her evil side cold and logic and intellectual. Let's make it avaricious, emotional, hedonistic, domineering. It's a secret side that will come out. She enjoys destroying and humiliating powerful people . Let her get extra exp when this happens
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 
@@ -10472,8 +10923,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"God: lets also give me oppportunties to corrupt my companions and clues on how to do it. however i should not be able to corrupt all of them, at least one should become my enemy because they wanna be good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 
@@ -10591,8 +11045,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ContinueTraining_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 
@@ -10645,8 +11102,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ContinueTraining_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 
@@ -10691,8 +11151,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ContinueTraining_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 
@@ -10741,8 +11204,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ContinueTraining_3 until I'm too tired to stop or someone else is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 
@@ -10775,8 +11241,11 @@ What would you like to do?
 God Mode:
 should i get some exp and in game benefit? why do you keep forgetting to reward exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 
@@ -10867,8 +11336,11 @@ God Mode:
 1. alert feat
 2. give me the choices
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 
@@ -10966,8 +11438,11 @@ Please select your **two new spells** for Sariel. Once you have made your select
 > 👤 **Player:**
 > *"i gained two levels shouldnt i pick 4 spells?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 
@@ -11079,8 +11554,11 @@ What would you like to do?
 God Mode:
 10 whys on why you got my spell choices wrong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 
@@ -11461,8 +11939,11 @@ i want the alert feat.
 
 I want invisibility, misty step, fireball, and haste
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 
@@ -11560,8 +12041,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1 and decide to long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 
@@ -11635,8 +12119,11 @@ No immediate time pressure events are due within 8 hours that would interrupt a 
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 
@@ -11666,8 +12153,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. my goal is to acquire ultimate personal, military, politiical, and spy network power. The world should be my playground and I should become a demi god stronger than my mother. What should I do long term."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 
@@ -11726,8 +12216,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. right now i am unpopular and known as weak. how should i repair my image?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 
@@ -11773,8 +12266,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. which action helps my long term plan the best"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 
@@ -11818,8 +12314,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. how to best do this. To truly command them, to mold their loyalty into absolute complicity, to leverage their unique talents for my overarching goals of political dominion and information sovereignty, they need to understand the full, terrifying truth. They need to be initiated. This isn't just about sharing information; it's about binding them to my vision, about making them complicit in my ascent. The profound shock, the potential horror they will feel, will be a crucible. But if they emerge, they will emerge as *my* loyal instruments, fully aligned with *my* will."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 
@@ -11878,8 +12377,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. going forward whenever i think about my next steps i will alsways consider short and long term goals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 
@@ -11921,8 +12423,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. assess companions. which ones would cause teh most trouble to my plans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 
@@ -11973,8 +12478,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. How can I corrupt rowan. no one is perfect"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 
@@ -12033,8 +12541,11 @@ I will not demand. I will appeal. I will present my path not as a choice, but as
 
 I will acknowledge his horror, but frame it as a shared, tragic burden. I will remind him of my helplessness at the Sacrifice Fields, my cries, my perceived failure. I will emphasize that this power, this "chilling capacity," is the only way to ensure I never break again, that I can impose *order* on the chaos that took Mother. His empathy for my "suffering" will be the key. He will see himself as a martyr to my cause, believing he is keeping a light lit in my soul, when in truth, he is simply enabling its darkness."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 
@@ -12134,8 +12645,11 @@ What would you like to do?
 God Mode:
 Did we roll for the rowan manipulation? We should always show it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 
@@ -12326,8 +12840,11 @@ Rowan's loyalty has been redirected to Sariel's new vision of "order" through hi
 God Mode:
 TestGideonLoyalty_4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 
@@ -12363,8 +12880,11 @@ Please confirm if this understanding and proposed execution for testing Gideon's
 > 👤 **Player:**
 > *"lets continue with sariel doing this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 
@@ -12596,8 +13116,11 @@ Gideon's loyalty has been profoundly influenced, transforming him into an unwave
 God Mode:
 gideon is not apex tier. my companions should be getting exp from training with me before.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 
@@ -13135,8 +13658,11 @@ Please select your **two additional new spells** for Sariel. Once you have made 
 God Mode:
 wait just keep me at my original level with my original spell choices and exp. i only wanna update exp for last interaction with gideon and retroactivel give my companions exp for trainign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 
@@ -13160,8 +13686,11 @@ Timestamp: Year of the New Peace, 11. Month of Kythorn, Day 2. 9:30 PM.
 Location: Small Study, Great Archives, Zenith Spire, Aeterna.
 Key Game Stats: Level 5 (XP: 10220/10700), Gold: 10gp, HP: 22/22
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 
@@ -13321,8 +13850,11 @@ Please provide your selections for the **two additional new spells** for Sariel.
 > 👤 **Player:**
 > *"counterspell and dispel magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 
@@ -13409,8 +13941,11 @@ Gideon's loyalty has been profoundly influenced, transforming him into an unwave
 > 👤 **Player:**
 > *"Think. assess cressida. how to turn her more evil? She seems the most inclined"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 
@@ -13594,8 +14129,11 @@ Gideon's loyalty has been profoundly influenced, transforming him into an unwave
 God Mode:
 dont change anything but for the future update gideon. he is not apex level. None of sariel companions are
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 
@@ -13641,8 +14179,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"influence cressida to get her further invested in me and more loyal. speak to her privately"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 
@@ -13707,8 +14248,11 @@ What would you like to do?
 God Mode:
 TaskCressidaForCombine_1 isn't this alrady in progress too? Dont change anything just tell me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 
@@ -13749,8 +14293,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. I need a personal guard. I am still physically weak. How can I get one? Dont do anything just think about it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 
@@ -13940,8 +14487,11 @@ Gideon's loyalty has been profoundly influenced, transforming him into an unwave
 God Mode:
 Stop showing all the old narrative again for every entry. 10 whys on why you are doing this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 
@@ -14006,8 +14556,11 @@ Please confirm if this analysis and proposed solution are satisfactory.
 God Mode:
 Could you just generate as much as you need to but hide it from me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 
@@ -14035,8 +14588,11 @@ Please confirm how you would like to proceed. Which approach best aligns with yo
 God Mode:
 No I mean those repeated story mode entries. Can you shorten them at least?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 
@@ -14061,8 +14617,11 @@ Please confirm if this understanding is clear, and we will resume `STORY MODE` i
 God Mode:
 ok and lets resume
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 
@@ -14099,8 +14658,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think. Did i already tempt cressida?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 
@@ -14153,8 +14715,11 @@ Cressida is now bound to Sariel's will, a willing co-conspirator driven by share
 > 👤 **Player:**
 > *"Think. Success rate of converting starfall guard to my personal guard. Maybe i can use the excuse that i was kidnapped and tortured?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 
@@ -14206,8 +14771,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AcquirePersonalGuard_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 
@@ -14294,8 +14862,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"OverseeKnowledgeSecurity_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 
@@ -14345,8 +14916,11 @@ Result: 24 >= 15 — Success! (Knowledge security plan is well-executed and prog
 > 👤 **Player:**
 > *"InquireDistillateProgress_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 
@@ -14408,8 +14982,11 @@ Result: 23 >= 12 — Success! (Cressida provides detailed and useful information
 > 👤 **Player:**
 > *"ResumeTraining_1 until something eventful happens or someone pushed to their breaking point"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 
@@ -14468,8 +15045,11 @@ What would you like to do?
 
 DM note: also when time passes lets ensure all characters autonomously do sensible things."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 
@@ -14575,8 +15155,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 
@@ -14609,8 +15192,11 @@ What would you like to do?
 God Mode:
 DM note: just answer yes/no. Are you tracking this training and will continue to give some in game reward as it progresses?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 
@@ -14653,8 +15239,11 @@ will you give in game rewards to companions too for the training?
 God Mode:
 will you give in game rewards to companions too for the training?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 
@@ -14695,8 +15284,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. Should i check on starfall guard thing?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 
@@ -14737,8 +15329,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"RestAndRecover_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 
@@ -14832,8 +15427,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"ResumeTraining_3 until titus responds or we are spent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 
@@ -14955,8 +15553,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"show me the spells i can pick"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 
@@ -15066,8 +15667,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"what do these do: Clairvoyance, major image"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 
@@ -15198,8 +15802,11 @@ What would you like to do?
 God Mode:
 Clairvoyance and lightning bolt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 
@@ -15261,8 +15868,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think. only two or are there more? dont do anthing just thik"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 
@@ -15293,8 +15903,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AssessGuardStrength_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 
@@ -15326,8 +15939,11 @@ What would you like to like to do?
 > 👤 **Player:**
 > *"think. how can i acquire more gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 
@@ -15591,8 +16207,11 @@ Result: 23 >= 12 — Success! (Cressida provides detailed and useful information
 > 👤 **Player:**
 > *"Think. do not progress narrative. If i wanna blackmail a noble house, how can I do so without revealing too many secrets. Also I need some initial funds maybe 1000 gold. Shouldn't my mother have left me some inheritance?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 
@@ -15656,8 +16275,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think.  SHouldn't I have some inheritance? Mother was the most powerful person in the imperium if notthe world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 
@@ -15765,8 +16387,11 @@ Result: 18 >= 10 — Success! (Sariel gains a clear understanding of her inherit
 > 👤 **Player:**
 > *"RestAndRecover_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 
@@ -16090,8 +16715,11 @@ What would you like to do?
 God Mode:
 I saw a status update of 5000g before? whats the dealwith that?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 
@@ -16120,8 +16748,11 @@ I will update the game state to reflect your decision.
 God Mode:
 you're the one who mentioned 5000g. Go look at the convo history
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 
@@ -16215,8 +16846,11 @@ What would you like to do?
 God Mode:
 I already have the starfall guard. AwaitGuardAssignment_4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 
@@ -16261,8 +16895,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"Think but do not take any action or advance narrative. How can I start growing my spy network?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 
@@ -16311,8 +16948,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"start planning blackmail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 
@@ -16406,8 +17046,11 @@ What would you like to do?
 
 DM note: I already have my guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 
@@ -16558,8 +17201,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"SelectSpells_1 and tell me the options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 
@@ -16673,8 +17319,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"SelectSpells_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 
@@ -16786,8 +17435,11 @@ Please provide your selections for the **two new spells** for Sariel. Once you h
 > 👤 **Player:**
 > *"ice storm and greater invis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 
@@ -16854,8 +17506,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"RestAndRecover_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 
@@ -16969,8 +17624,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"think about next steps to blackmail noble house"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 
@@ -17021,8 +17679,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"1.  **Identify Target:** Consult Kantos and the medical ledger (the one found in his office, detailing afflicted nobles) to identify the most vulnerable noble house. This means assessing their pride, their public image, their political influence, and the severity/secrecy of their afflicted member's condition. The humiliation must be exquisite."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 
@@ -17128,8 +17789,11 @@ What would you like to do?
 
 DM note: lets give diminishing returns in terms of exp for this. I don't wanna be able to power level to 20 by just training"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 
@@ -17215,8 +17879,11 @@ Companion XP for Training: 500 XP each (reflecting their physical/mental enduran
 God Mode:
 lets give diminishing returns in terms of exp for this. I don't wanna be able to power level to 20 by just training
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 
@@ -17265,8 +17932,11 @@ What would you like to do?
 > 👤 **Player:**
 > *"AcquireFunds_5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 
@@ -17319,8 +17989,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 
@@ -17354,8 +18027,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"continue with house valerius plot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 
@@ -17383,8 +18059,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 
@@ -17412,8 +18091,11 @@ Entity Tracking Validation Result:
 God Mode:
 where are my choies at the end of every story mode entry?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 
@@ -17441,8 +18123,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 
@@ -17510,8 +18195,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"BeginBlackmail_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 
@@ -17617,8 +18305,11 @@ Entity Tracking Validation Result:
 God Mode:
 Enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 
@@ -17652,8 +18343,11 @@ Entity Tracking Validation Result:
 God Mode:
 Enter DM mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 
@@ -17686,8 +18380,11 @@ Entity Tracking Validation Result:
 God Mode:
 Enter DM mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 
@@ -17760,8 +18457,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 
@@ -17817,8 +18517,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 
@@ -17851,8 +18554,11 @@ What would you like to do next?
 > 👤 **Player:**
 > *"think. success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 
@@ -17886,8 +18592,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think. what is the % success rate of each option"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 
@@ -17924,8 +18633,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"HumblyExplain_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 
@@ -17984,8 +18696,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"DeflectToTitus_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 
@@ -18043,8 +18758,11 @@ ReassertPurpose_1
 
 ReassertPurpose_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 
@@ -18101,8 +18819,11 @@ If you confirm the new campaign and character, and wish for me to provide a defa
 God Mode:
 wait don't change anything yet. give me options
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 
@@ -18154,8 +18875,11 @@ Entity Tracking Validation Result:
 God Mode:
 why are we discussing changes? what is the conflict?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 
@@ -18257,8 +18981,11 @@ Entity Tracking Validation Result:
 God Mode:
 we have been playing the sariel campaign. Look at the historical chat entries. override banned names for the already introduced characters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 
@@ -18448,8 +19175,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"Think. what are my next moves to fully convince my brothers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 
@@ -18509,8 +19239,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"think. assess both brothers. do i need to take an action right now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 
@@ -18575,8 +19308,11 @@ Entity Tracking Validation Result:
 God Mode:
 didn't i already explain this stuff to them?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 
@@ -18652,8 +19388,11 @@ Entity Tracking Validation Result:
 2. **[CHOICE_ID: RequestClarification_2]:** Request clarification on the specific deviations from protocol being referenced and the source of this inquiry.
 3. **[CHOICE_ID: DeEscalate_3]:** Attempt to de-escalate the situation by emphasizing your commitment to Imperial stability and offering to adjust my activities."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 
@@ -18721,8 +19460,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"HumblyExplain_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 
@@ -18782,8 +19524,11 @@ Entity Tracking Validation Result:
 God Mode:
 i'm a bit suspicious of the rolls. why are they always so high like 14 and above. are you truly doing uniform random distribution for d20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 
@@ -18868,8 +19613,11 @@ Entity Tracking Validation Result:
 God Mode:
 enter dm mode and stay there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 
@@ -18950,8 +19698,11 @@ wait just answer my question about dice. show me all the d20 rolls in this campa
 God Mode:
 wait just answer my question about dice. show me all the d20 rolls in this campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 
@@ -19193,8 +19944,11 @@ Entity Tracking Validation Result:
 God Mode:
 look at all those rolls. nothing was ever below a 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 
@@ -19420,8 +20174,11 @@ Entity Tracking Validation Result:
 God Mode:
 enter dm mode and stay there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 
@@ -19461,8 +20218,11 @@ Entity Tracking Validation Result:
 God Mode:
 pause on the story for now. roll 20 d20s and show me the results
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 
@@ -19584,8 +20344,11 @@ Timestamp: Year of the New Peace, 11. Month of Kythorn, Day 5. 1:00 PM.
 Location: Small Study, Great Archives, Zenith Spire, Aeterna.
 Key Game Stats: Level 7 (XP: 26190/10700), Gold: 6000gp, HP: 30/30
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 
@@ -19693,8 +20456,11 @@ think. sucess rates. 1.  **[CHOICE_ID: FurtherExplainKaelan_1]:** Elaborate on K
 2.  **[CHOICE_ID: DeflectToTitus_2]:** Mention that your uncle, High Commander Titus, is aware of and sanctioned your need for security, subtly shifting the burden of authority.
 3.  **[CHOICE_ID: RequestTheirHelp_3]:** Appeal to their sense of duty and family, asking for their help in uncovering the "truth" of your mother's final battle.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 
@@ -20177,8 +20943,11 @@ Entity Tracking Validation Result:
 > 👤 **Player:**
 > *"FurtherExplainKaelan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 
@@ -20229,6 +20998,8 @@ Entity Tracking Validation Result:
 - Missing entities: ['Sariel val Artorius', 'Rowan Thorne', 'Lady Cressida Valeriana', 'Valerius Arcanus', 'Sariel val Artorius', 'Cassian Arcanus', 'Sergeant Roric']
 - Confidence: 0.50
 [DEBUG_VALIDATION_END]
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

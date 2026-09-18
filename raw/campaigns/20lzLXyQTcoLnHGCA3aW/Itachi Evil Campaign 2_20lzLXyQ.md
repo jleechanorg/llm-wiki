@@ -12,543 +12,557 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🗺️ Scene Index & Timeline
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | Unknown |  | Roleplay |
-| **39** | Unknown |  | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Unknown |  | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | Unknown |  | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | Unknown |  | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Unknown |  | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Unknown |  | Roleplay |
-| **70** | Unknown |  | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Unknown |  | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Unknown |  | Roleplay |
-| **82** | Unknown |  | Roleplay |
-| **83** | Unknown |  | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Unknown |  | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Unknown |  | Roleplay |
-| **88** | Unknown |  | Roleplay |
-| **89** | Unknown |  | Roleplay |
-| **90** | Unknown |  | Roleplay |
-| **91** | Unknown |  | Roleplay |
-| **92** | Unknown |  | Roleplay |
-| **93** | Unknown |  | Roleplay |
-| **94** | Unknown |  | Roleplay |
-| **95** | Unknown |  | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Unknown |  | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Unknown |  | Roleplay |
-| **100** | Unknown |  | Roleplay |
-| **101** | Unknown |  | Roleplay |
-| **102** | Unknown |  | Roleplay |
-| **103** | Unknown |  | Roleplay |
-| **104** | Unknown |  | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Roleplay |
-| **107** | Unknown |  | Roleplay |
-| **108** | Unknown |  | Roleplay |
-| **109** | Unknown |  | Roleplay |
-| **110** | Unknown |  | Roleplay |
-| **111** | Unknown |  | Roleplay |
-| **112** | Unknown |  | Roleplay |
-| **113** | Unknown |  | Roleplay |
-| **114** | Unknown |  | Roleplay |
-| **115** | Unknown |  | Roleplay |
-| **116** | Unknown |  | Roleplay |
-| **117** | Unknown |  | Roleplay |
-| **118** | Unknown |  | Roleplay |
-| **119** | Unknown |  | Roleplay |
-| **120** | Unknown |  | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Unknown |  | Roleplay |
-| **123** | Unknown |  | Roleplay |
-| **124** | Unknown |  | Roleplay |
-| **125** | Unknown |  | Roleplay |
-| **126** | Unknown |  | Roleplay |
-| **127** | Unknown |  | Roleplay |
-| **128** | Unknown |  | Roleplay |
-| **129** | Unknown |  | Roleplay |
-| **130** | Unknown |  | Roleplay |
-| **131** | Unknown |  | Roleplay |
-| **132** | Unknown |  | Roleplay |
-| **133** | Unknown |  | Roleplay |
-| **134** | Unknown |  | Roleplay |
-| **135** | Unknown |  | Roleplay |
-| **136** | Unknown |  | Roleplay |
-| **137** | Unknown |  | Roleplay |
-| **138** | Unknown |  | Roleplay |
-| **139** | Unknown |  | Roleplay |
-| **140** | Unknown |  | Roleplay |
-| **141** | Unknown |  | Roleplay |
-| **142** | Unknown |  | Roleplay |
-| **143** | Unknown |  | Roleplay |
-| **144** | Unknown |  | Roleplay |
-| **145** | Unknown |  | Roleplay |
-| **146** | Unknown |  | Roleplay |
-| **147** | Unknown |  | Roleplay |
-| **148** | Unknown |  | Roleplay |
-| **149** | Unknown |  | Roleplay |
-| **150** | Unknown |  | Roleplay |
-| **151** | Unknown |  | Roleplay |
-| **152** | Unknown |  | Roleplay |
-| **153** | Unknown |  | Roleplay |
-| **154** | Unknown |  | Roleplay |
-| **155** | Unknown |  | Roleplay |
-| **156** | Unknown |  | Roleplay |
-| **157** | Unknown |  | Roleplay |
-| **158** | Unknown |  | Roleplay |
-| **159** | Unknown |  | Roleplay |
-| **160** | Unknown |  | Roleplay |
-| **161** | Unknown |  | Roleplay |
-| **162** | Unknown |  | Roleplay |
-| **163** | Unknown |  | Roleplay |
-| **164** | Unknown |  | Roleplay |
-| **165** | Unknown |  | Roleplay |
-| **166** | Unknown |  | Roleplay |
-| **167** | Unknown |  | Roleplay |
-| **168** | Unknown |  | Roleplay |
-| **169** | Unknown |  | Roleplay |
-| **170** | Unknown |  | Roleplay |
-| **171** | Unknown |  | Roleplay |
-| **172** | Unknown |  | Roleplay |
-| **173** | Unknown |  | Roleplay |
-| **174** | Unknown |  | Roleplay |
-| **175** | Unknown |  | Roleplay |
-| **176** | Unknown |  | Roleplay |
-| **177** | Unknown |  | Roleplay |
-| **178** | Unknown |  | Roleplay |
-| **179** | Unknown |  | Roleplay |
-| **180** | Unknown |  | Roleplay |
-| **181** | Unknown |  | Roleplay |
-| **182** | Unknown |  | Roleplay |
-| **183** | Unknown |  | Roleplay |
-| **184** | Unknown |  | Roleplay |
-| **185** | Unknown |  | Roleplay |
-| **186** | Unknown |  | Roleplay |
-| **187** | Unknown |  | Roleplay |
-| **188** | Unknown |  | Roleplay |
-| **189** | Unknown |  | Roleplay |
-| **190** | Unknown |  | Roleplay |
-| **191** | Unknown |  | Roleplay |
-| **192** | Unknown |  | Roleplay |
-| **193** | Unknown |  | Roleplay |
-| **194** | Unknown |  | Roleplay |
-| **195** | Unknown |  | Roleplay |
-| **196** | Unknown |  | Roleplay |
-| **197** | Unknown |  | Roleplay |
-| **198** | Unknown |  | Roleplay |
-| **199** | Unknown |  | Roleplay |
-| **200** | Unknown |  | Roleplay |
-| **201** | Unknown |  | Roleplay |
-| **202** | Unknown |  | Roleplay |
-| **203** | Unknown |  | Roleplay |
-| **204** | Unknown |  | Roleplay |
-| **205** | Unknown |  | Roleplay |
-| **206** | Unknown |  | Roleplay |
-| **207** | Unknown |  | Roleplay |
-| **208** | Unknown |  | Roleplay |
-| **209** | Unknown |  | Roleplay |
-| **210** | Unknown |  | Roleplay |
-| **211** | Unknown |  | Roleplay |
-| **212** | Unknown |  | Roleplay |
-| **213** | Unknown |  | Roleplay |
-| **214** | Unknown |  | Roleplay |
-| **215** | Unknown |  | Roleplay |
-| **216** | Unknown |  | Roleplay |
-| **217** | Unknown |  | Roleplay |
-| **218** | Unknown |  | Roleplay |
-| **219** | Unknown |  | Roleplay |
-| **220** | Unknown |  | Roleplay |
-| **221** | Unknown |  | Roleplay |
-| **222** | Unknown |  | Roleplay |
-| **223** | Unknown |  | Roleplay |
-| **224** | Unknown |  | Roleplay |
-| **225** | Unknown |  | Roleplay |
-| **226** | Unknown |  | Roleplay |
-| **227** | Unknown |  | Roleplay |
-| **228** | Unknown |  | Roleplay |
-| **229** | Unknown |  | Roleplay |
-| **230** | Unknown |  | Roleplay |
-| **231** | Unknown |  | Roleplay |
-| **232** | Unknown |  | Roleplay |
-| **233** | Unknown |  | Roleplay |
-| **234** | Unknown |  | Roleplay |
-| **235** | Unknown |  | Roleplay |
-| **236** | Unknown |  | Roleplay |
-| **237** | Unknown |  | Roleplay |
-| **238** | Unknown |  | Roleplay |
-| **239** | Unknown |  | Roleplay |
-| **240** | Unknown |  | Roleplay |
-| **241** | Unknown |  | Roleplay |
-| **242** | Unknown |  | Roleplay |
-| **243** | Unknown |  | Roleplay |
-| **244** | Unknown |  | Roleplay |
-| **245** | Unknown |  | Roleplay |
-| **246** | Unknown |  | Roleplay |
-| **247** | Unknown |  | Roleplay |
-| **248** | Unknown |  | Roleplay |
-| **249** | Unknown |  | Roleplay |
-| **250** | Unknown |  | Roleplay |
-| **251** | Unknown |  | Roleplay |
-| **252** | Unknown |  | Roleplay |
-| **253** | Unknown |  | Roleplay |
-| **254** | Unknown |  | Roleplay |
-| **255** | Unknown |  | Roleplay |
-| **256** | Unknown |  | Roleplay |
-| **257** | Unknown |  | Roleplay |
-| **258** | Unknown |  | Roleplay |
-| **259** | Unknown |  | Roleplay |
-| **260** | Unknown |  | Roleplay |
-| **261** | Unknown |  | Roleplay |
-| **262** | Unknown |  | Roleplay |
-| **263** | Unknown |  | Roleplay |
-| **264** | Unknown |  | Roleplay |
-| **265** | Unknown |  | Roleplay |
-| **266** | Unknown |  | Roleplay |
-| **267** | Unknown |  | Roleplay |
-| **268** | Unknown |  | Roleplay |
-| **269** | Unknown |  | Roleplay |
-| **270** | Unknown |  | Roleplay |
-| **271** | Unknown |  | Roleplay |
-| **272** | Unknown |  | Roleplay |
-| **273** | Unknown |  | Roleplay |
-| **274** | Unknown |  | Roleplay |
-| **275** | Unknown |  | Roleplay |
-| **276** | Unknown |  | Roleplay |
-| **277** | Unknown |  | Roleplay |
-| **278** | Unknown |  | Roleplay |
-| **279** | Unknown |  | Roleplay |
-| **280** | Unknown |  | Roleplay |
-| **281** | Unknown |  | Roleplay |
-| **282** | Unknown |  | Roleplay |
-| **283** | Unknown |  | Roleplay |
-| **284** | Unknown |  | Roleplay |
-| **285** | Unknown |  | Roleplay |
-| **286** | Unknown |  | Roleplay |
-| **287** | Unknown |  | Roleplay |
-| **288** | Unknown |  | Roleplay |
-| **289** | Unknown |  | Roleplay |
-| **290** | Unknown |  | Roleplay |
-| **291** | Unknown |  | Roleplay |
-| **292** | Unknown |  | Roleplay |
-| **293** | Unknown |  | Roleplay |
-| **294** | Unknown |  | Roleplay |
-| **295** | Unknown |  | Roleplay |
-| **296** | Unknown |  | Roleplay |
-| **297** | Unknown |  | Roleplay |
-| **298** | Unknown |  | Roleplay |
-| **299** | Unknown |  | Roleplay |
-| **300** | Unknown |  | Roleplay |
-| **301** | Unknown |  | Roleplay |
-| **302** | Unknown |  | Roleplay |
-| **303** | Unknown |  | Roleplay |
-| **304** | Unknown |  | Roleplay |
-| **305** | Unknown |  | Roleplay |
-| **306** | Unknown |  | Roleplay |
-| **307** | Unknown |  | Roleplay |
-| **308** | Unknown |  | Roleplay |
-| **309** | Unknown |  | Roleplay |
-| **310** | Unknown |  | Roleplay |
-| **311** | Unknown |  | Roleplay |
-| **312** | Unknown |  | Roleplay |
-| **313** | Unknown |  | Roleplay |
-| **314** | Unknown |  | Roleplay |
-| **315** | Unknown |  | Roleplay |
-| **316** | Unknown |  | Roleplay |
-| **317** | Unknown |  | Roleplay |
-| **318** | Unknown |  | Roleplay |
-| **319** | Unknown |  | Roleplay |
-| **320** | Unknown |  | Roleplay |
-| **321** | Unknown |  | Roleplay |
-| **322** | Unknown |  | Roleplay |
-| **323** | Unknown |  | Roleplay |
-| **324** | Unknown |  | Roleplay |
-| **325** | Unknown |  | Roleplay |
-| **326** | Unknown |  | Roleplay |
-| **327** | Unknown |  | Roleplay |
-| **328** | Unknown |  | Roleplay |
-| **329** | Unknown |  | Roleplay |
-| **330** | Unknown |  | Roleplay |
-| **331** | Unknown |  | Roleplay |
-| **332** | Unknown |  | Roleplay |
-| **333** | Unknown |  | Roleplay |
-| **334** | Unknown |  | Roleplay |
-| **335** | Unknown |  | Roleplay |
-| **336** | Unknown |  | Roleplay |
-| **337** | Unknown |  | Roleplay |
-| **338** | Unknown |  | Roleplay |
-| **339** | Unknown |  | Roleplay |
-| **340** | Unknown |  | Roleplay |
-| **341** | Unknown |  | Roleplay |
-| **342** | Unknown |  | Roleplay |
-| **343** | Unknown |  | Roleplay |
-| **344** | Unknown |  | Roleplay |
-| **345** | Unknown |  | Roleplay |
-| **346** | Unknown |  | Roleplay |
-| **347** | Unknown |  | Roleplay |
-| **348** | Unknown |  | Roleplay |
-| **349** | Unknown |  | Roleplay |
-| **350** | Unknown |  | Roleplay |
-| **351** | Unknown |  | Roleplay |
-| **352** | Unknown |  | Roleplay |
-| **353** | Unknown |  | Roleplay |
-| **354** | Unknown |  | Roleplay |
-| **355** | Unknown |  | Roleplay |
-| **356** | Unknown |  | Roleplay |
-| **357** | Unknown |  | Roleplay |
-| **358** | Unknown |  | Roleplay |
-| **359** | Unknown |  | Roleplay |
-| **360** | Unknown |  | Roleplay |
-| **361** | Unknown |  | Roleplay |
-| **362** | Unknown |  | Roleplay |
-| **363** | Unknown |  | Roleplay |
-| **364** | Unknown |  | Roleplay |
-| **365** | Unknown |  | Roleplay |
-| **366** | Unknown |  | Roleplay |
-| **367** | Unknown |  | Roleplay |
-| **368** | Unknown |  | Roleplay |
-| **369** | Unknown |  | Roleplay |
-| **370** | Unknown |  | Roleplay |
-| **371** | Unknown |  | Roleplay |
-| **372** | Unknown |  | Roleplay |
-| **373** | Unknown |  | Roleplay |
-| **374** | Unknown |  | Roleplay |
-| **375** | Unknown |  | Roleplay |
-| **376** | Unknown |  | Roleplay |
-| **377** | Unknown |  | Roleplay |
-| **378** | Unknown |  | Roleplay |
-| **379** | Unknown |  | Roleplay |
-| **380** | Unknown |  | Roleplay |
-| **381** | Unknown |  | Roleplay |
-| **382** | Unknown |  | Roleplay |
-| **383** | Unknown |  | Roleplay |
-| **384** | Unknown |  | Roleplay |
-| **385** | Unknown |  | Roleplay |
-| **386** | Unknown |  | Roleplay |
-| **387** | Unknown |  | Roleplay |
-| **388** | Unknown |  | Roleplay |
-| **389** | Unknown |  | Roleplay |
-| **390** | Unknown |  | Roleplay |
-| **391** | Unknown |  | Roleplay |
-| **392** | Unknown |  | Roleplay |
-| **393** | Unknown |  | Roleplay |
-| **394** | Unknown |  | Roleplay |
-| **395** | Unknown |  | Roleplay |
-| **396** | Unknown |  | Roleplay |
-| **397** | Unknown |  | Roleplay |
-| **398** | Unknown |  | Roleplay |
-| **399** | Unknown |  | Roleplay |
-| **400** | Unknown |  | Roleplay |
-| **401** | Unknown |  | Roleplay |
-| **402** | Unknown |  | Roleplay |
-| **403** | Unknown |  | Roleplay |
-| **404** | Unknown |  | Roleplay |
-| **405** | Unknown |  | Roleplay |
-| **406** | Unknown |  | Roleplay |
-| **407** | Unknown |  | Roleplay |
-| **408** | Unknown |  | Roleplay |
-| **409** | Unknown |  | Roleplay |
-| **410** | Unknown |  | Roleplay |
-| **411** | Unknown |  | Roleplay |
-| **412** | Unknown |  | Roleplay |
-| **413** | Unknown |  | Roleplay |
-| **414** | Unknown |  | Roleplay |
-| **415** | Unknown |  | Roleplay |
-| **416** | Unknown |  | Roleplay |
-| **417** | Unknown |  | Roleplay |
-| **418** | Unknown |  | Roleplay |
-| **419** | Unknown |  | Roleplay |
-| **420** | Unknown |  | Roleplay |
-| **421** | Unknown |  | Roleplay |
-| **422** | Unknown |  | Roleplay |
-| **423** | Unknown |  | Roleplay |
-| **424** | Unknown |  | Roleplay |
-| **425** | Unknown |  | Roleplay |
-| **426** | Unknown |  | Roleplay |
-| **427** | Unknown |  | Roleplay |
-| **428** | Unknown |  | Roleplay |
-| **429** | Unknown |  | Roleplay |
-| **430** | Unknown |  | Roleplay |
-| **431** | Unknown |  | Roleplay |
-| **432** | Unknown |  | Roleplay |
-| **433** | Unknown |  | Roleplay |
-| **434** | Unknown |  | Roleplay |
-| **435** | Unknown |  | Roleplay |
-| **436** | Unknown |  | Roleplay |
-| **437** | Unknown |  | Roleplay |
-| **438** | Unknown |  | Roleplay |
-| **439** | Unknown |  | Roleplay |
-| **440** | Unknown |  | Roleplay |
-| **441** | Unknown |  | Roleplay |
-| **442** | Unknown |  | Roleplay |
-| **443** | Unknown |  | Roleplay |
-| **444** | Unknown |  | Roleplay |
-| **445** | Unknown |  | Roleplay |
-| **446** | Unknown |  | Roleplay |
-| **447** | Unknown |  | Roleplay |
-| **448** | Unknown |  | Roleplay |
-| **449** | Unknown |  | Roleplay |
-| **450** | Unknown |  | Roleplay |
-| **451** | Unknown |  | Roleplay |
-| **452** | Unknown |  | Roleplay |
-| **453** | Unknown |  | Roleplay |
-| **454** | Unknown |  | Roleplay |
-| **455** | Unknown |  | Roleplay |
-| **456** | Unknown |  | Roleplay |
-| **457** | Unknown |  | Roleplay |
-| **458** | Unknown |  | Roleplay |
-| **459** | Unknown |  | Roleplay |
-| **460** | Unknown |  | Roleplay |
-| **461** | Unknown |  | Roleplay |
-| **462** | Unknown |  | Roleplay |
-| **463** | Unknown |  | Roleplay |
-| **464** | Unknown |  | Roleplay |
-| **465** | Unknown |  | Roleplay |
-| **466** | Unknown |  | Roleplay |
-| **467** | Unknown |  | Roleplay |
-| **468** | Unknown |  | Roleplay |
-| **469** | Unknown |  | Roleplay |
-| **470** | Unknown |  | Roleplay |
-| **471** | Unknown |  | Roleplay |
-| **472** | Unknown |  | Roleplay |
-| **473** | Unknown |  | Roleplay |
-| **474** | Unknown |  | Roleplay |
-| **475** | Unknown |  | Roleplay |
-| **476** | Unknown |  | Roleplay |
-| **477** | Unknown |  | Roleplay |
-| **478** | Unknown |  | Roleplay |
-| **479** | Unknown |  | Roleplay |
-| **480** | Unknown |  | Roleplay |
-| **481** | Unknown |  | Roleplay |
-| **482** | Unknown |  | Roleplay |
-| **483** | Unknown |  | Roleplay |
-| **484** | Unknown |  | Roleplay |
-| **485** | Unknown |  | Roleplay |
-| **486** | Unknown |  | Roleplay |
-| **487** | Unknown |  | Roleplay |
-| **488** | Unknown |  | Roleplay |
-| **489** | Unknown |  | Roleplay |
-| **490** | Unknown |  | Roleplay |
-| **491** | Unknown |  | Roleplay |
-| **492** | Unknown |  | Roleplay |
-| **493** | Unknown |  | Roleplay |
-| **494** | Unknown |  | Roleplay |
-| **495** | Unknown |  | Roleplay |
-| **496** | Unknown |  | Roleplay |
-| **497** | Unknown |  | Roleplay |
-| **498** | Unknown |  | Roleplay |
-| **499** | Unknown |  | Roleplay |
-| **500** | Unknown |  | Roleplay |
-| **501** | Unknown |  | Roleplay |
-| **502** | Unknown |  | Roleplay |
-| **503** | Unknown |  | Roleplay |
-| **504** | Unknown |  | Roleplay |
-| **505** | Unknown |  | Roleplay |
-| **506** | Unknown |  | Roleplay |
-| **507** | Unknown |  | Roleplay |
-| **508** | Unknown |  | Roleplay |
-| **509** | Unknown |  | Roleplay |
-| **510** | Unknown |  | Roleplay |
-| **511** | Unknown |  | Roleplay |
-| **512** | Unknown |  | Roleplay |
-| **513** | Unknown |  | Roleplay |
-| **514** | Unknown |  | Roleplay |
-| **515** | Unknown |  | Roleplay |
-| **516** | Unknown |  | Roleplay |
-| **517** | Unknown |  | Roleplay |
-| **518** | Unknown |  | Roleplay |
-| **519** | Unknown |  | Roleplay |
-| **520** | Unknown |  | Roleplay |
-| **521** | Unknown |  | Roleplay |
-| **522** | Unknown |  | Roleplay |
-| **523** | Unknown |  | Roleplay |
-| **524** | Unknown |  | Roleplay |
-| **525** | Unknown |  | Roleplay |
-| **526** | Unknown |  | Roleplay |
-| **527** | Unknown |  | Roleplay |
+- [🗺️ Scene Index & Timeline (527 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+| [**Scene 39**](#scene-39) | Unknown |  | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Unknown |  | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown |  | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown |  | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown |  | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown |  | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Unknown |  | Roleplay |
+| [**Scene 82**](#scene-82) | Unknown |  | Roleplay |
+| [**Scene 83**](#scene-83) | Unknown |  | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Unknown |  | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Unknown |  | Roleplay |
+| [**Scene 88**](#scene-88) | Unknown |  | Roleplay |
+| [**Scene 89**](#scene-89) | Unknown |  | Roleplay |
+| [**Scene 90**](#scene-90) | Unknown |  | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown |  | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown |  | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Unknown |  | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown |  | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown |  | Roleplay |
+| [**Scene 100**](#scene-100) | Unknown |  | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown |  | Roleplay |
+| [**Scene 102**](#scene-102) | Unknown |  | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown |  | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown |  | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown |  | Roleplay |
+| [**Scene 109**](#scene-109) | Unknown |  | Roleplay |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+| [**Scene 111**](#scene-111) | Unknown |  | Roleplay |
+| [**Scene 112**](#scene-112) | Unknown |  | Roleplay |
+| [**Scene 113**](#scene-113) | Unknown |  | Roleplay |
+| [**Scene 114**](#scene-114) | Unknown |  | Roleplay |
+| [**Scene 115**](#scene-115) | Unknown |  | Roleplay |
+| [**Scene 116**](#scene-116) | Unknown |  | Roleplay |
+| [**Scene 117**](#scene-117) | Unknown |  | Roleplay |
+| [**Scene 118**](#scene-118) | Unknown |  | Roleplay |
+| [**Scene 119**](#scene-119) | Unknown |  | Roleplay |
+| [**Scene 120**](#scene-120) | Unknown |  | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Unknown |  | Roleplay |
+| [**Scene 123**](#scene-123) | Unknown |  | Roleplay |
+| [**Scene 124**](#scene-124) | Unknown |  | Roleplay |
+| [**Scene 125**](#scene-125) | Unknown |  | Roleplay |
+| [**Scene 126**](#scene-126) | Unknown |  | Roleplay |
+| [**Scene 127**](#scene-127) | Unknown |  | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown |  | Roleplay |
+| [**Scene 129**](#scene-129) | Unknown |  | Roleplay |
+| [**Scene 130**](#scene-130) | Unknown |  | Roleplay |
+| [**Scene 131**](#scene-131) | Unknown |  | Roleplay |
+| [**Scene 132**](#scene-132) | Unknown |  | Roleplay |
+| [**Scene 133**](#scene-133) | Unknown |  | Roleplay |
+| [**Scene 134**](#scene-134) | Unknown |  | Roleplay |
+| [**Scene 135**](#scene-135) | Unknown |  | Roleplay |
+| [**Scene 136**](#scene-136) | Unknown |  | Roleplay |
+| [**Scene 137**](#scene-137) | Unknown |  | Roleplay |
+| [**Scene 138**](#scene-138) | Unknown |  | Roleplay |
+| [**Scene 139**](#scene-139) | Unknown |  | Roleplay |
+| [**Scene 140**](#scene-140) | Unknown |  | Roleplay |
+| [**Scene 141**](#scene-141) | Unknown |  | Roleplay |
+| [**Scene 142**](#scene-142) | Unknown |  | Roleplay |
+| [**Scene 143**](#scene-143) | Unknown |  | Roleplay |
+| [**Scene 144**](#scene-144) | Unknown |  | Roleplay |
+| [**Scene 145**](#scene-145) | Unknown |  | Roleplay |
+| [**Scene 146**](#scene-146) | Unknown |  | Roleplay |
+| [**Scene 147**](#scene-147) | Unknown |  | Roleplay |
+| [**Scene 148**](#scene-148) | Unknown |  | Roleplay |
+| [**Scene 149**](#scene-149) | Unknown |  | Roleplay |
+| [**Scene 150**](#scene-150) | Unknown |  | Roleplay |
+| [**Scene 151**](#scene-151) | Unknown |  | Roleplay |
+| [**Scene 152**](#scene-152) | Unknown |  | Roleplay |
+| [**Scene 153**](#scene-153) | Unknown |  | Roleplay |
+| [**Scene 154**](#scene-154) | Unknown |  | Roleplay |
+| [**Scene 155**](#scene-155) | Unknown |  | Roleplay |
+| [**Scene 156**](#scene-156) | Unknown |  | Roleplay |
+| [**Scene 157**](#scene-157) | Unknown |  | Roleplay |
+| [**Scene 158**](#scene-158) | Unknown |  | Roleplay |
+| [**Scene 159**](#scene-159) | Unknown |  | Roleplay |
+| [**Scene 160**](#scene-160) | Unknown |  | Roleplay |
+| [**Scene 161**](#scene-161) | Unknown |  | Roleplay |
+| [**Scene 162**](#scene-162) | Unknown |  | Roleplay |
+| [**Scene 163**](#scene-163) | Unknown |  | Roleplay |
+| [**Scene 164**](#scene-164) | Unknown |  | Roleplay |
+| [**Scene 165**](#scene-165) | Unknown |  | Roleplay |
+| [**Scene 166**](#scene-166) | Unknown |  | Roleplay |
+| [**Scene 167**](#scene-167) | Unknown |  | Roleplay |
+| [**Scene 168**](#scene-168) | Unknown |  | Roleplay |
+| [**Scene 169**](#scene-169) | Unknown |  | Roleplay |
+| [**Scene 170**](#scene-170) | Unknown |  | Roleplay |
+| [**Scene 171**](#scene-171) | Unknown |  | Roleplay |
+| [**Scene 172**](#scene-172) | Unknown |  | Roleplay |
+| [**Scene 173**](#scene-173) | Unknown |  | Roleplay |
+| [**Scene 174**](#scene-174) | Unknown |  | Roleplay |
+| [**Scene 175**](#scene-175) | Unknown |  | Roleplay |
+| [**Scene 176**](#scene-176) | Unknown |  | Roleplay |
+| [**Scene 177**](#scene-177) | Unknown |  | Roleplay |
+| [**Scene 178**](#scene-178) | Unknown |  | Roleplay |
+| [**Scene 179**](#scene-179) | Unknown |  | Roleplay |
+| [**Scene 180**](#scene-180) | Unknown |  | Roleplay |
+| [**Scene 181**](#scene-181) | Unknown |  | Roleplay |
+| [**Scene 182**](#scene-182) | Unknown |  | Roleplay |
+| [**Scene 183**](#scene-183) | Unknown |  | Roleplay |
+| [**Scene 184**](#scene-184) | Unknown |  | Roleplay |
+| [**Scene 185**](#scene-185) | Unknown |  | Roleplay |
+| [**Scene 186**](#scene-186) | Unknown |  | Roleplay |
+| [**Scene 187**](#scene-187) | Unknown |  | Roleplay |
+| [**Scene 188**](#scene-188) | Unknown |  | Roleplay |
+| [**Scene 189**](#scene-189) | Unknown |  | Roleplay |
+| [**Scene 190**](#scene-190) | Unknown |  | Roleplay |
+| [**Scene 191**](#scene-191) | Unknown |  | Roleplay |
+| [**Scene 192**](#scene-192) | Unknown |  | Roleplay |
+| [**Scene 193**](#scene-193) | Unknown |  | Roleplay |
+| [**Scene 194**](#scene-194) | Unknown |  | Roleplay |
+| [**Scene 195**](#scene-195) | Unknown |  | Roleplay |
+| [**Scene 196**](#scene-196) | Unknown |  | Roleplay |
+| [**Scene 197**](#scene-197) | Unknown |  | Roleplay |
+| [**Scene 198**](#scene-198) | Unknown |  | Roleplay |
+| [**Scene 199**](#scene-199) | Unknown |  | Roleplay |
+| [**Scene 200**](#scene-200) | Unknown |  | Roleplay |
+| [**Scene 201**](#scene-201) | Unknown |  | Roleplay |
+| [**Scene 202**](#scene-202) | Unknown |  | Roleplay |
+| [**Scene 203**](#scene-203) | Unknown |  | Roleplay |
+| [**Scene 204**](#scene-204) | Unknown |  | Roleplay |
+| [**Scene 205**](#scene-205) | Unknown |  | Roleplay |
+| [**Scene 206**](#scene-206) | Unknown |  | Roleplay |
+| [**Scene 207**](#scene-207) | Unknown |  | Roleplay |
+| [**Scene 208**](#scene-208) | Unknown |  | Roleplay |
+| [**Scene 209**](#scene-209) | Unknown |  | Roleplay |
+| [**Scene 210**](#scene-210) | Unknown |  | Roleplay |
+| [**Scene 211**](#scene-211) | Unknown |  | Roleplay |
+| [**Scene 212**](#scene-212) | Unknown |  | Roleplay |
+| [**Scene 213**](#scene-213) | Unknown |  | Roleplay |
+| [**Scene 214**](#scene-214) | Unknown |  | Roleplay |
+| [**Scene 215**](#scene-215) | Unknown |  | Roleplay |
+| [**Scene 216**](#scene-216) | Unknown |  | Roleplay |
+| [**Scene 217**](#scene-217) | Unknown |  | Roleplay |
+| [**Scene 218**](#scene-218) | Unknown |  | Roleplay |
+| [**Scene 219**](#scene-219) | Unknown |  | Roleplay |
+| [**Scene 220**](#scene-220) | Unknown |  | Roleplay |
+| [**Scene 221**](#scene-221) | Unknown |  | Roleplay |
+| [**Scene 222**](#scene-222) | Unknown |  | Roleplay |
+| [**Scene 223**](#scene-223) | Unknown |  | Roleplay |
+| [**Scene 224**](#scene-224) | Unknown |  | Roleplay |
+| [**Scene 225**](#scene-225) | Unknown |  | Roleplay |
+| [**Scene 226**](#scene-226) | Unknown |  | Roleplay |
+| [**Scene 227**](#scene-227) | Unknown |  | Roleplay |
+| [**Scene 228**](#scene-228) | Unknown |  | Roleplay |
+| [**Scene 229**](#scene-229) | Unknown |  | Roleplay |
+| [**Scene 230**](#scene-230) | Unknown |  | Roleplay |
+| [**Scene 231**](#scene-231) | Unknown |  | Roleplay |
+| [**Scene 232**](#scene-232) | Unknown |  | Roleplay |
+| [**Scene 233**](#scene-233) | Unknown |  | Roleplay |
+| [**Scene 234**](#scene-234) | Unknown |  | Roleplay |
+| [**Scene 235**](#scene-235) | Unknown |  | Roleplay |
+| [**Scene 236**](#scene-236) | Unknown |  | Roleplay |
+| [**Scene 237**](#scene-237) | Unknown |  | Roleplay |
+| [**Scene 238**](#scene-238) | Unknown |  | Roleplay |
+| [**Scene 239**](#scene-239) | Unknown |  | Roleplay |
+| [**Scene 240**](#scene-240) | Unknown |  | Roleplay |
+| [**Scene 241**](#scene-241) | Unknown |  | Roleplay |
+| [**Scene 242**](#scene-242) | Unknown |  | Roleplay |
+| [**Scene 243**](#scene-243) | Unknown |  | Roleplay |
+| [**Scene 244**](#scene-244) | Unknown |  | Roleplay |
+| [**Scene 245**](#scene-245) | Unknown |  | Roleplay |
+| [**Scene 246**](#scene-246) | Unknown |  | Roleplay |
+| [**Scene 247**](#scene-247) | Unknown |  | Roleplay |
+| [**Scene 248**](#scene-248) | Unknown |  | Roleplay |
+| [**Scene 249**](#scene-249) | Unknown |  | Roleplay |
+| [**Scene 250**](#scene-250) | Unknown |  | Roleplay |
+| [**Scene 251**](#scene-251) | Unknown |  | Roleplay |
+| [**Scene 252**](#scene-252) | Unknown |  | Roleplay |
+| [**Scene 253**](#scene-253) | Unknown |  | Roleplay |
+| [**Scene 254**](#scene-254) | Unknown |  | Roleplay |
+| [**Scene 255**](#scene-255) | Unknown |  | Roleplay |
+| [**Scene 256**](#scene-256) | Unknown |  | Roleplay |
+| [**Scene 257**](#scene-257) | Unknown |  | Roleplay |
+| [**Scene 258**](#scene-258) | Unknown |  | Roleplay |
+| [**Scene 259**](#scene-259) | Unknown |  | Roleplay |
+| [**Scene 260**](#scene-260) | Unknown |  | Roleplay |
+| [**Scene 261**](#scene-261) | Unknown |  | Roleplay |
+| [**Scene 262**](#scene-262) | Unknown |  | Roleplay |
+| [**Scene 263**](#scene-263) | Unknown |  | Roleplay |
+| [**Scene 264**](#scene-264) | Unknown |  | Roleplay |
+| [**Scene 265**](#scene-265) | Unknown |  | Roleplay |
+| [**Scene 266**](#scene-266) | Unknown |  | Roleplay |
+| [**Scene 267**](#scene-267) | Unknown |  | Roleplay |
+| [**Scene 268**](#scene-268) | Unknown |  | Roleplay |
+| [**Scene 269**](#scene-269) | Unknown |  | Roleplay |
+| [**Scene 270**](#scene-270) | Unknown |  | Roleplay |
+| [**Scene 271**](#scene-271) | Unknown |  | Roleplay |
+| [**Scene 272**](#scene-272) | Unknown |  | Roleplay |
+| [**Scene 273**](#scene-273) | Unknown |  | Roleplay |
+| [**Scene 274**](#scene-274) | Unknown |  | Roleplay |
+| [**Scene 275**](#scene-275) | Unknown |  | Roleplay |
+| [**Scene 276**](#scene-276) | Unknown |  | Roleplay |
+| [**Scene 277**](#scene-277) | Unknown |  | Roleplay |
+| [**Scene 278**](#scene-278) | Unknown |  | Roleplay |
+| [**Scene 279**](#scene-279) | Unknown |  | Roleplay |
+| [**Scene 280**](#scene-280) | Unknown |  | Roleplay |
+| [**Scene 281**](#scene-281) | Unknown |  | Roleplay |
+| [**Scene 282**](#scene-282) | Unknown |  | Roleplay |
+| [**Scene 283**](#scene-283) | Unknown |  | Roleplay |
+| [**Scene 284**](#scene-284) | Unknown |  | Roleplay |
+| [**Scene 285**](#scene-285) | Unknown |  | Roleplay |
+| [**Scene 286**](#scene-286) | Unknown |  | Roleplay |
+| [**Scene 287**](#scene-287) | Unknown |  | Roleplay |
+| [**Scene 288**](#scene-288) | Unknown |  | Roleplay |
+| [**Scene 289**](#scene-289) | Unknown |  | Roleplay |
+| [**Scene 290**](#scene-290) | Unknown |  | Roleplay |
+| [**Scene 291**](#scene-291) | Unknown |  | Roleplay |
+| [**Scene 292**](#scene-292) | Unknown |  | Roleplay |
+| [**Scene 293**](#scene-293) | Unknown |  | Roleplay |
+| [**Scene 294**](#scene-294) | Unknown |  | Roleplay |
+| [**Scene 295**](#scene-295) | Unknown |  | Roleplay |
+| [**Scene 296**](#scene-296) | Unknown |  | Roleplay |
+| [**Scene 297**](#scene-297) | Unknown |  | Roleplay |
+| [**Scene 298**](#scene-298) | Unknown |  | Roleplay |
+| [**Scene 299**](#scene-299) | Unknown |  | Roleplay |
+| [**Scene 300**](#scene-300) | Unknown |  | Roleplay |
+| [**Scene 301**](#scene-301) | Unknown |  | Roleplay |
+| [**Scene 302**](#scene-302) | Unknown |  | Roleplay |
+| [**Scene 303**](#scene-303) | Unknown |  | Roleplay |
+| [**Scene 304**](#scene-304) | Unknown |  | Roleplay |
+| [**Scene 305**](#scene-305) | Unknown |  | Roleplay |
+| [**Scene 306**](#scene-306) | Unknown |  | Roleplay |
+| [**Scene 307**](#scene-307) | Unknown |  | Roleplay |
+| [**Scene 308**](#scene-308) | Unknown |  | Roleplay |
+| [**Scene 309**](#scene-309) | Unknown |  | Roleplay |
+| [**Scene 310**](#scene-310) | Unknown |  | Roleplay |
+| [**Scene 311**](#scene-311) | Unknown |  | Roleplay |
+| [**Scene 312**](#scene-312) | Unknown |  | Roleplay |
+| [**Scene 313**](#scene-313) | Unknown |  | Roleplay |
+| [**Scene 314**](#scene-314) | Unknown |  | Roleplay |
+| [**Scene 315**](#scene-315) | Unknown |  | Roleplay |
+| [**Scene 316**](#scene-316) | Unknown |  | Roleplay |
+| [**Scene 317**](#scene-317) | Unknown |  | Roleplay |
+| [**Scene 318**](#scene-318) | Unknown |  | Roleplay |
+| [**Scene 319**](#scene-319) | Unknown |  | Roleplay |
+| [**Scene 320**](#scene-320) | Unknown |  | Roleplay |
+| [**Scene 321**](#scene-321) | Unknown |  | Roleplay |
+| [**Scene 322**](#scene-322) | Unknown |  | Roleplay |
+| [**Scene 323**](#scene-323) | Unknown |  | Roleplay |
+| [**Scene 324**](#scene-324) | Unknown |  | Roleplay |
+| [**Scene 325**](#scene-325) | Unknown |  | Roleplay |
+| [**Scene 326**](#scene-326) | Unknown |  | Roleplay |
+| [**Scene 327**](#scene-327) | Unknown |  | Roleplay |
+| [**Scene 328**](#scene-328) | Unknown |  | Roleplay |
+| [**Scene 329**](#scene-329) | Unknown |  | Roleplay |
+| [**Scene 330**](#scene-330) | Unknown |  | Roleplay |
+| [**Scene 331**](#scene-331) | Unknown |  | Roleplay |
+| [**Scene 332**](#scene-332) | Unknown |  | Roleplay |
+| [**Scene 333**](#scene-333) | Unknown |  | Roleplay |
+| [**Scene 334**](#scene-334) | Unknown |  | Roleplay |
+| [**Scene 335**](#scene-335) | Unknown |  | Roleplay |
+| [**Scene 336**](#scene-336) | Unknown |  | Roleplay |
+| [**Scene 337**](#scene-337) | Unknown |  | Roleplay |
+| [**Scene 338**](#scene-338) | Unknown |  | Roleplay |
+| [**Scene 339**](#scene-339) | Unknown |  | Roleplay |
+| [**Scene 340**](#scene-340) | Unknown |  | Roleplay |
+| [**Scene 341**](#scene-341) | Unknown |  | Roleplay |
+| [**Scene 342**](#scene-342) | Unknown |  | Roleplay |
+| [**Scene 343**](#scene-343) | Unknown |  | Roleplay |
+| [**Scene 344**](#scene-344) | Unknown |  | Roleplay |
+| [**Scene 345**](#scene-345) | Unknown |  | Roleplay |
+| [**Scene 346**](#scene-346) | Unknown |  | Roleplay |
+| [**Scene 347**](#scene-347) | Unknown |  | Roleplay |
+| [**Scene 348**](#scene-348) | Unknown |  | Roleplay |
+| [**Scene 349**](#scene-349) | Unknown |  | Roleplay |
+| [**Scene 350**](#scene-350) | Unknown |  | Roleplay |
+| [**Scene 351**](#scene-351) | Unknown |  | Roleplay |
+| [**Scene 352**](#scene-352) | Unknown |  | Roleplay |
+| [**Scene 353**](#scene-353) | Unknown |  | Roleplay |
+| [**Scene 354**](#scene-354) | Unknown |  | Roleplay |
+| [**Scene 355**](#scene-355) | Unknown |  | Roleplay |
+| [**Scene 356**](#scene-356) | Unknown |  | Roleplay |
+| [**Scene 357**](#scene-357) | Unknown |  | Roleplay |
+| [**Scene 358**](#scene-358) | Unknown |  | Roleplay |
+| [**Scene 359**](#scene-359) | Unknown |  | Roleplay |
+| [**Scene 360**](#scene-360) | Unknown |  | Roleplay |
+| [**Scene 361**](#scene-361) | Unknown |  | Roleplay |
+| [**Scene 362**](#scene-362) | Unknown |  | Roleplay |
+| [**Scene 363**](#scene-363) | Unknown |  | Roleplay |
+| [**Scene 364**](#scene-364) | Unknown |  | Roleplay |
+| [**Scene 365**](#scene-365) | Unknown |  | Roleplay |
+| [**Scene 366**](#scene-366) | Unknown |  | Roleplay |
+| [**Scene 367**](#scene-367) | Unknown |  | Roleplay |
+| [**Scene 368**](#scene-368) | Unknown |  | Roleplay |
+| [**Scene 369**](#scene-369) | Unknown |  | Roleplay |
+| [**Scene 370**](#scene-370) | Unknown |  | Roleplay |
+| [**Scene 371**](#scene-371) | Unknown |  | Roleplay |
+| [**Scene 372**](#scene-372) | Unknown |  | Roleplay |
+| [**Scene 373**](#scene-373) | Unknown |  | Roleplay |
+| [**Scene 374**](#scene-374) | Unknown |  | Roleplay |
+| [**Scene 375**](#scene-375) | Unknown |  | Roleplay |
+| [**Scene 376**](#scene-376) | Unknown |  | Roleplay |
+| [**Scene 377**](#scene-377) | Unknown |  | Roleplay |
+| [**Scene 378**](#scene-378) | Unknown |  | Roleplay |
+| [**Scene 379**](#scene-379) | Unknown |  | Roleplay |
+| [**Scene 380**](#scene-380) | Unknown |  | Roleplay |
+| [**Scene 381**](#scene-381) | Unknown |  | Roleplay |
+| [**Scene 382**](#scene-382) | Unknown |  | Roleplay |
+| [**Scene 383**](#scene-383) | Unknown |  | Roleplay |
+| [**Scene 384**](#scene-384) | Unknown |  | Roleplay |
+| [**Scene 385**](#scene-385) | Unknown |  | Roleplay |
+| [**Scene 386**](#scene-386) | Unknown |  | Roleplay |
+| [**Scene 387**](#scene-387) | Unknown |  | Roleplay |
+| [**Scene 388**](#scene-388) | Unknown |  | Roleplay |
+| [**Scene 389**](#scene-389) | Unknown |  | Roleplay |
+| [**Scene 390**](#scene-390) | Unknown |  | Roleplay |
+| [**Scene 391**](#scene-391) | Unknown |  | Roleplay |
+| [**Scene 392**](#scene-392) | Unknown |  | Roleplay |
+| [**Scene 393**](#scene-393) | Unknown |  | Roleplay |
+| [**Scene 394**](#scene-394) | Unknown |  | Roleplay |
+| [**Scene 395**](#scene-395) | Unknown |  | Roleplay |
+| [**Scene 396**](#scene-396) | Unknown |  | Roleplay |
+| [**Scene 397**](#scene-397) | Unknown |  | Roleplay |
+| [**Scene 398**](#scene-398) | Unknown |  | Roleplay |
+| [**Scene 399**](#scene-399) | Unknown |  | Roleplay |
+| [**Scene 400**](#scene-400) | Unknown |  | Roleplay |
+| [**Scene 401**](#scene-401) | Unknown |  | Roleplay |
+| [**Scene 402**](#scene-402) | Unknown |  | Roleplay |
+| [**Scene 403**](#scene-403) | Unknown |  | Roleplay |
+| [**Scene 404**](#scene-404) | Unknown |  | Roleplay |
+| [**Scene 405**](#scene-405) | Unknown |  | Roleplay |
+| [**Scene 406**](#scene-406) | Unknown |  | Roleplay |
+| [**Scene 407**](#scene-407) | Unknown |  | Roleplay |
+| [**Scene 408**](#scene-408) | Unknown |  | Roleplay |
+| [**Scene 409**](#scene-409) | Unknown |  | Roleplay |
+| [**Scene 410**](#scene-410) | Unknown |  | Roleplay |
+| [**Scene 411**](#scene-411) | Unknown |  | Roleplay |
+| [**Scene 412**](#scene-412) | Unknown |  | Roleplay |
+| [**Scene 413**](#scene-413) | Unknown |  | Roleplay |
+| [**Scene 414**](#scene-414) | Unknown |  | Roleplay |
+| [**Scene 415**](#scene-415) | Unknown |  | Roleplay |
+| [**Scene 416**](#scene-416) | Unknown |  | Roleplay |
+| [**Scene 417**](#scene-417) | Unknown |  | Roleplay |
+| [**Scene 418**](#scene-418) | Unknown |  | Roleplay |
+| [**Scene 419**](#scene-419) | Unknown |  | Roleplay |
+| [**Scene 420**](#scene-420) | Unknown |  | Roleplay |
+| [**Scene 421**](#scene-421) | Unknown |  | Roleplay |
+| [**Scene 422**](#scene-422) | Unknown |  | Roleplay |
+| [**Scene 423**](#scene-423) | Unknown |  | Roleplay |
+| [**Scene 424**](#scene-424) | Unknown |  | Roleplay |
+| [**Scene 425**](#scene-425) | Unknown |  | Roleplay |
+| [**Scene 426**](#scene-426) | Unknown |  | Roleplay |
+| [**Scene 427**](#scene-427) | Unknown |  | Roleplay |
+| [**Scene 428**](#scene-428) | Unknown |  | Roleplay |
+| [**Scene 429**](#scene-429) | Unknown |  | Roleplay |
+| [**Scene 430**](#scene-430) | Unknown |  | Roleplay |
+| [**Scene 431**](#scene-431) | Unknown |  | Roleplay |
+| [**Scene 432**](#scene-432) | Unknown |  | Roleplay |
+| [**Scene 433**](#scene-433) | Unknown |  | Roleplay |
+| [**Scene 434**](#scene-434) | Unknown |  | Roleplay |
+| [**Scene 435**](#scene-435) | Unknown |  | Roleplay |
+| [**Scene 436**](#scene-436) | Unknown |  | Roleplay |
+| [**Scene 437**](#scene-437) | Unknown |  | Roleplay |
+| [**Scene 438**](#scene-438) | Unknown |  | Roleplay |
+| [**Scene 439**](#scene-439) | Unknown |  | Roleplay |
+| [**Scene 440**](#scene-440) | Unknown |  | Roleplay |
+| [**Scene 441**](#scene-441) | Unknown |  | Roleplay |
+| [**Scene 442**](#scene-442) | Unknown |  | Roleplay |
+| [**Scene 443**](#scene-443) | Unknown |  | Roleplay |
+| [**Scene 444**](#scene-444) | Unknown |  | Roleplay |
+| [**Scene 445**](#scene-445) | Unknown |  | Roleplay |
+| [**Scene 446**](#scene-446) | Unknown |  | Roleplay |
+| [**Scene 447**](#scene-447) | Unknown |  | Roleplay |
+| [**Scene 448**](#scene-448) | Unknown |  | Roleplay |
+| [**Scene 449**](#scene-449) | Unknown |  | Roleplay |
+| [**Scene 450**](#scene-450) | Unknown |  | Roleplay |
+| [**Scene 451**](#scene-451) | Unknown |  | Roleplay |
+| [**Scene 452**](#scene-452) | Unknown |  | Roleplay |
+| [**Scene 453**](#scene-453) | Unknown |  | Roleplay |
+| [**Scene 454**](#scene-454) | Unknown |  | Roleplay |
+| [**Scene 455**](#scene-455) | Unknown |  | Roleplay |
+| [**Scene 456**](#scene-456) | Unknown |  | Roleplay |
+| [**Scene 457**](#scene-457) | Unknown |  | Roleplay |
+| [**Scene 458**](#scene-458) | Unknown |  | Roleplay |
+| [**Scene 459**](#scene-459) | Unknown |  | Roleplay |
+| [**Scene 460**](#scene-460) | Unknown |  | Roleplay |
+| [**Scene 461**](#scene-461) | Unknown |  | Roleplay |
+| [**Scene 462**](#scene-462) | Unknown |  | Roleplay |
+| [**Scene 463**](#scene-463) | Unknown |  | Roleplay |
+| [**Scene 464**](#scene-464) | Unknown |  | Roleplay |
+| [**Scene 465**](#scene-465) | Unknown |  | Roleplay |
+| [**Scene 466**](#scene-466) | Unknown |  | Roleplay |
+| [**Scene 467**](#scene-467) | Unknown |  | Roleplay |
+| [**Scene 468**](#scene-468) | Unknown |  | Roleplay |
+| [**Scene 469**](#scene-469) | Unknown |  | Roleplay |
+| [**Scene 470**](#scene-470) | Unknown |  | Roleplay |
+| [**Scene 471**](#scene-471) | Unknown |  | Roleplay |
+| [**Scene 472**](#scene-472) | Unknown |  | Roleplay |
+| [**Scene 473**](#scene-473) | Unknown |  | Roleplay |
+| [**Scene 474**](#scene-474) | Unknown |  | Roleplay |
+| [**Scene 475**](#scene-475) | Unknown |  | Roleplay |
+| [**Scene 476**](#scene-476) | Unknown |  | Roleplay |
+| [**Scene 477**](#scene-477) | Unknown |  | Roleplay |
+| [**Scene 478**](#scene-478) | Unknown |  | Roleplay |
+| [**Scene 479**](#scene-479) | Unknown |  | Roleplay |
+| [**Scene 480**](#scene-480) | Unknown |  | Roleplay |
+| [**Scene 481**](#scene-481) | Unknown |  | Roleplay |
+| [**Scene 482**](#scene-482) | Unknown |  | Roleplay |
+| [**Scene 483**](#scene-483) | Unknown |  | Roleplay |
+| [**Scene 484**](#scene-484) | Unknown |  | Roleplay |
+| [**Scene 485**](#scene-485) | Unknown |  | Roleplay |
+| [**Scene 486**](#scene-486) | Unknown |  | Roleplay |
+| [**Scene 487**](#scene-487) | Unknown |  | Roleplay |
+| [**Scene 488**](#scene-488) | Unknown |  | Roleplay |
+| [**Scene 489**](#scene-489) | Unknown |  | Roleplay |
+| [**Scene 490**](#scene-490) | Unknown |  | Roleplay |
+| [**Scene 491**](#scene-491) | Unknown |  | Roleplay |
+| [**Scene 492**](#scene-492) | Unknown |  | Roleplay |
+| [**Scene 493**](#scene-493) | Unknown |  | Roleplay |
+| [**Scene 494**](#scene-494) | Unknown |  | Roleplay |
+| [**Scene 495**](#scene-495) | Unknown |  | Roleplay |
+| [**Scene 496**](#scene-496) | Unknown |  | Roleplay |
+| [**Scene 497**](#scene-497) | Unknown |  | Roleplay |
+| [**Scene 498**](#scene-498) | Unknown |  | Roleplay |
+| [**Scene 499**](#scene-499) | Unknown |  | Roleplay |
+| [**Scene 500**](#scene-500) | Unknown |  | Roleplay |
+| [**Scene 501**](#scene-501) | Unknown |  | Roleplay |
+| [**Scene 502**](#scene-502) | Unknown |  | Roleplay |
+| [**Scene 503**](#scene-503) | Unknown |  | Roleplay |
+| [**Scene 504**](#scene-504) | Unknown |  | Roleplay |
+| [**Scene 505**](#scene-505) | Unknown |  | Roleplay |
+| [**Scene 506**](#scene-506) | Unknown |  | Roleplay |
+| [**Scene 507**](#scene-507) | Unknown |  | Roleplay |
+| [**Scene 508**](#scene-508) | Unknown |  | Roleplay |
+| [**Scene 509**](#scene-509) | Unknown |  | Roleplay |
+| [**Scene 510**](#scene-510) | Unknown |  | Roleplay |
+| [**Scene 511**](#scene-511) | Unknown |  | Roleplay |
+| [**Scene 512**](#scene-512) | Unknown |  | Roleplay |
+| [**Scene 513**](#scene-513) | Unknown |  | Roleplay |
+| [**Scene 514**](#scene-514) | Unknown |  | Roleplay |
+| [**Scene 515**](#scene-515) | Unknown |  | Roleplay |
+| [**Scene 516**](#scene-516) | Unknown |  | Roleplay |
+| [**Scene 517**](#scene-517) | Unknown |  | Roleplay |
+| [**Scene 518**](#scene-518) | Unknown |  | Roleplay |
+| [**Scene 519**](#scene-519) | Unknown |  | Roleplay |
+| [**Scene 520**](#scene-520) | Unknown |  | Roleplay |
+| [**Scene 521**](#scene-521) | Unknown |  | Roleplay |
+| [**Scene 522**](#scene-522) | Unknown |  | Roleplay |
+| [**Scene 523**](#scene-523) | Unknown |  | Roleplay |
+| [**Scene 524**](#scene-524) | Unknown |  | Roleplay |
+| [**Scene 525**](#scene-525) | Unknown |  | Roleplay |
+| [**Scene 526**](#scene-526) | Unknown |  | Roleplay |
+| [**Scene 527**](#scene-527) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -670,8 +684,11 @@ b.  Discuss or request adjustments to the ruleset now, even if currently conside
 God Mode:
 a)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -707,8 +724,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Why do I want to kill all the uchiha? Whats my best plan?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -745,8 +765,11 @@ My strategic analysis leans heavily on precision and control. The silent approac
 > 👤 **Player:**
 > *"Tsukuyomi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -770,8 +793,11 @@ What is Itachi's next action?
 
 DM note: make sure we do real rolls and stuff. don't leave story mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -806,8 +832,11 @@ What is Itachi's next action?
 God Mode:
 Will itachi get the other mangekyou abilities later? Also lets give him a stronger narrative reason to kill Uchiha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -860,8 +889,11 @@ God Mode:
 1. agree
 2. make it more about personal power and also 3)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -894,8 +926,11 @@ Please confirm if this revised justification for Itachi's actions is acceptable.
 God Mode:
 yes but give him some in game benefit for the massacre. dont tell me until later
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -927,8 +962,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. how to best handle? maybe kill strongest silently first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -967,8 +1005,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"IsolateKeyThreats_1 and pause if something goes wrong. do not use EP abilities automatically"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -1007,8 +1048,11 @@ What is Itachi's next action?
 God Mode:
 what is my gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -1037,8 +1081,11 @@ Do you have any further questions or requests in DM MODE, or would you like to r
 > 👤 **Player:**
 > *"stay in dm mode. What are the stats for his gear?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -1094,8 +1141,11 @@ What is Itachi's next action?
 God Mode:
 if you didn't already give itachi some special gear. it should be stronger than the typical uchiha gear. don't make it overpowered though. the nback to sotry mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -1130,8 +1180,11 @@ Do you agree with this proposed special gear and its statistics? Once confirmed,
 God Mode:
 yes add it and continue story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1184,8 +1237,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1224,8 +1280,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"RefinedStealthAmbush And let's continue to use pure physical stealth by default when success rate is high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1262,8 +1321,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"RefinedStealthAmbush_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -1300,8 +1362,11 @@ What is Itachi's next action?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1315,8 +1380,11 @@ What is your next instruction or query in DM MODE?
 God Mode:
 I'm supposed to be level 12?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1336,8 +1404,11 @@ Do you have any further questions or requests in DM MODE, or would you like to r
 God Mode:
 ok back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1363,8 +1434,11 @@ What is Itachi's next action to gain access to the archives?
 God Mode:
 enter  dm mode wait what are everyones levels im killing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1387,8 +1461,11 @@ Do you have any further questions or requests in DM MODE, or would you like to r
 God Mode:
 it makes no sense that my level is lower than those I'm easily killing. Who's the highest level in the village. Stay in DM mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -1432,8 +1509,11 @@ What is your next instruction or query in DM MODE, or would you like to return t
 God Mode:
 ok this is fine, story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1459,8 +1539,11 @@ What is Itachi's next action to gain access to the archives?
 > 👤 **Player:**
 > *"think. optios"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1501,8 +1584,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DeactivateSeals_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -1535,8 +1621,11 @@ What is Itachi's next action within the archives?
 > 👤 **Player:**
 > *"quickly read important things. balance timing with killing village"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -1558,8 +1647,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"tell me how much exp after every encoutner or kill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -1587,8 +1679,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. who to kill next. strongest jounin and ease of access? what about parents?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -1629,8 +1724,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"HuntShinobi_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -1674,8 +1772,11 @@ What is Itachi's next action?
 God Mode:
 DM note: you didnt give me exp for all my other kills?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -1725,8 +1826,11 @@ Do you have any further questions or requests in DM MODE, or would you like to r
 God Mode:
 5 whys for getting exp wrong and propose solution
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -1772,8 +1876,11 @@ Do you approve of this analysis and the proposed solution?
 God Mode:
 approve and back to story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -1812,8 +1919,11 @@ Please let me know your choice for Itachi's Expertise.
 > 👤 **Player:**
 > *"B) stealth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -1831,8 +1941,11 @@ Once you've made that choice, I will finalize Itachi's Level 2 progression and r
 > 👤 **Player:**
 > *"Investigation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -1866,8 +1979,11 @@ What is Itachi's next action?
 God Mode:
 wait I am level 3? can i choose anything? i think you got it wrong again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -1894,8 +2010,11 @@ What is your next instruction or query in DM MODE, or would you like to return t
 God Mode:
 nvm back to story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -1923,8 +2042,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"did i get exp from raiding archive?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -2003,8 +2125,11 @@ What is Itachi's next action?
 God Mode:
 you forgot my exp again for raiding archive
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -2074,8 +2199,11 @@ Do you approve of this analysis and the proposed solution?
 God Mode:
 no you said i was level 3 after raiding archive. i was actually level 3 then
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 
@@ -2114,8 +2242,11 @@ Once confirmed, we can return to STORY MODE.
 God Mode:
 it seemed like you only made me level 3 when i asked about the archive exp. double check
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -2201,8 +2332,11 @@ Once confirmed, we can finalize the Level 3 benefits (which we've already discus
 God Mode:
 continue story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -2226,8 +2360,11 @@ What is Itachi's next action as he approaches the Uchiha Main House?
 > 👤 **Player:**
 > *"Are all the jounin dead? Why are there so little uchiha jounin?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -2274,8 +2411,11 @@ What is Itachi's next action as he approaches the Uchiha Main House?
 > 👤 **Player:**
 > *"think. who  to target next?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -2325,8 +2465,11 @@ Awaiting your clarification in DM MODE.
 > 👤 **Player:**
 > *"InfiltrateDivide_1 and don't override think protocol in general"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -2375,8 +2518,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. can i attack him but leave him incapacitated and alive so i can interrogate?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -2440,8 +2586,11 @@ What is Itachi's next action?
 God Mode:
 DM note: don't make decisions for me like tsukuyomi. Let me decide. We can proceed though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -2490,8 +2639,11 @@ Do you approve of this analysis and the proposed solution?
 God Mode:
 approve and back to story. lets continue. do not rewind
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 
@@ -2537,8 +2689,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. can i attack her and incapacitate without killing? i want to conserve EP though"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -2577,8 +2732,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"SmokeBombIncap_3 and TaijutsuIncap_1 after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -2607,8 +2765,11 @@ Awaiting your decision in DM MODE.
 
 what else can i do with 1 CP"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -2646,8 +2807,11 @@ What is Itachi's next action, utilizing his remaining 1 CP?
 > 👤 **Player:**
 > *"Think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -2687,8 +2851,11 @@ My preference is for the most direct, efficient, and EP-conservative route to in
 > 👤 **Player:**
 > *"CloseForStrike_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -2714,8 +2881,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"surprise attack and try incapacitate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -2760,8 +2930,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 
@@ -2803,8 +2976,11 @@ My personal evolution and the seamless execution of my "grand experiment" demand
 > 👤 **Player:**
 > *"interrogate father for useful info"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -2837,8 +3013,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 God Mode:
 let me pick level 4 benefits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -2870,8 +3049,11 @@ Please let me know your choice for Itachi's Level 4 Advancement Choice.
 God Mode:
 pick coordination 2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -2974,8 +3156,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. what to do with parents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -3076,8 +3261,11 @@ Once confirmed, we can return to STORY MODE with the accurate game state.
 God Mode:
 No. Don't go into DM mode when I do think commands. I was just thinking about how to handle parents after incapacitating them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -3129,8 +3317,11 @@ My choice must balance absolute control with resource conservation and the seaml
 God Mode:
 DM note: let me keep level 4 and choices. Stay in story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -3187,8 +3378,11 @@ My choice must balance absolute control with resource conservation and the seaml
 > 👤 **Player:**
 > *"Think. Can i take their eyes and use them for eternal mangekyou? or do i need sasuke eyes for that?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -3232,8 +3426,11 @@ My choice must balance absolute control with resource conservation and the seaml
 > 👤 **Player:**
 > *"Think. Can I talk to my mother a bit for more info"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -3273,8 +3470,11 @@ My decision must balance the potential for new information against the risk, cos
 > 👤 **Player:**
 > *"Think. what if i tie her up and do AwakenInterrogate_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -3314,8 +3514,11 @@ My intellect favors the precision and control offered by a bound interrogation. 
 > 👤 **Player:**
 > *"BoundInterrogate_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -3348,8 +3551,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Talk to my mother. Ask her how she's doing and any last request. Explain why I did it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -3375,8 +3581,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Say did you really not see this or understand your own son?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -3400,8 +3609,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Kill her. take her eyes, loot her. Think about what to do with father. Can I talk to him while he's in tsukuyomi?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -3448,8 +3660,11 @@ My focus remains on absolute control and efficiency.
 > 👤 **Player:**
 > *"interrogate father. ask him how he's doing and any last requests"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -3473,8 +3688,11 @@ Awaiting your decision in DM MODE.
 
 pointless indulgence in cruelty."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 
@@ -3513,8 +3731,11 @@ What is Itachi's next action for handling Fugaku?
 > 👤 **Player:**
 > *"FinalEliminationFugaku_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 
@@ -3542,8 +3763,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. If i take his eyes now can i get EMS early? Or if i wait will i get a stronger EMS and let him continue his vengeance path?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -3585,8 +3809,11 @@ My intellect, despite the faint throb of fatigue, demands the more complex, agon
 > 👤 **Player:**
 > *"DelayEMS_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -3612,8 +3839,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"THink. any other strong uchiha remain?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -3655,8 +3885,11 @@ His choice must balance absolute control and thoroughness with the efficiency re
 God Mode:
 DM note: just answer yes/no. Did you already factor in how people will react to this massacre?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 
@@ -3683,8 +3916,11 @@ Do you have any further questions or requests in DM MODE, or would you like to r
 
 Think. pros/cons between clearing full compound or going back to uchiha archive to learn more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -3727,8 +3963,11 @@ My cold intellect demands efficiency and optimal resource utilization. Every dec
 > 👤 **Player:**
 > *"Think. how much time until dawn?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -3767,8 +4006,11 @@ My cold intellect demands efficiency and optimal resource utilization, especiall
 > 👤 **Player:**
 > *"think. what if i grab everything i can carry from archive first, and then clean compound"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -3812,8 +4054,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"ArchiveScavengeThenSweep_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 
@@ -3844,8 +4089,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. any uchiha i can convert to assets and help me kill others and accompany me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -3887,8 +4135,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"SoloPurge_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -3921,8 +4172,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"apply benefits"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 
@@ -3972,8 +4226,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. assess myself. how much ep and other resources are left? anything else useful to do? anyone else i should kill?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 
@@ -4023,8 +4280,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"PrepareExitCover_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 
@@ -4052,8 +4312,11 @@ What is Itachi's next action?
 God Mode:
 DM note: wait forget the cover. I want people to know Itachi did it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -4087,8 +4350,11 @@ Once confirmed, I will narrate Itachi's actions accordingly and continue the sto
 God Mode:
 wait nevermind. keep the cover
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 
@@ -4135,8 +4401,11 @@ What is Itachi's next action?
 God Mode:
 DM note: did you remember about my in game mechanic reward for uchiha massacre? Just answer yes/no
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 
@@ -4150,8 +4419,11 @@ Understood. You're asking in `GOD MODE`: "DM note: did you remember about my in 
 > 👤 **Player:**
 > *"think. will anyone believe sasuke that i did it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 
@@ -4201,8 +4473,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AkatsukiContact_1 and in parallel think/scout for an additional hidden base"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 
@@ -4246,8 +4521,11 @@ My intellect demands a base that supports both my immediate need for secure rest
 > 👤 **Player:**
 > *"SecludedWildernessBase_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 
@@ -4278,8 +4556,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"long rest and investigate all the uchiha stufff i have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 
@@ -4348,8 +4629,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 
@@ -4382,8 +4666,11 @@ Please let me know your choice for Itachi's Level 6 Expertise.
 > 👤 **Player:**
 > *"Intimidation Investigation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -4415,8 +4702,11 @@ Once clarified, I will finalize Itachi's Level 6 progression and return to STORY
 > 👤 **Player:**
 > *"**Option 1: Intimidation (new Expertise Tag) and Investigation (upgrade to Super-Advantage).**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -4453,8 +4743,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -4498,8 +4791,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. Why do i wanna do this again Konoha's Hidden Hand"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 
@@ -4541,8 +4837,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"KonohaObserve_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -4566,8 +4865,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: lets rename super advantage to something cooler. Master X where X is the skill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 
@@ -4603,8 +4905,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: I should have some gold from looting uchiha clan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -4644,8 +4949,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: there shold be some actual gold too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 
@@ -4685,8 +4993,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. anything else besides contact ataksuki?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 
@@ -4731,8 +5042,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ReinforceNarrative_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 
@@ -4754,8 +5068,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Did I make a deal with danzo? If not should I?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 
@@ -4797,8 +5114,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"CovertCooperation_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 
@@ -4818,8 +5138,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. should i rendezvous with danzo?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 
@@ -4859,8 +5182,11 @@ My intellect demands the most efficient path to consolidating power and moving i
 > 👤 **Player:**
 > *"think. who is stronger me or danzo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -4906,8 +5232,11 @@ My intellect demands the most efficient path to consolidating power and moving i
 
 CovertComm_2 and think if anything else useful while i'm close to konoha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -4967,8 +5296,11 @@ My intellect demands the most efficient path to consolidating power and moving i
 > 👤 **Player:**
 > *"MonitorFigures_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -5007,8 +5339,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. how many uchiha did i kill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 
@@ -5050,8 +5385,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"BaseDeepDive_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 
@@ -5090,8 +5428,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"DM note: when appropriate give me the option to take time skips to advance plot. Do not do it without my explicit approval. During a time skip I am still doing stuff and pursuing my goals autonomously"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -5138,8 +5479,11 @@ Please make **two** distinct choices for Itachi's Level 7 Advancement.
 > 👤 **Player:**
 > *"DM note: why didnt i get the benefit for uchiha massacre yet?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 
@@ -5189,8 +5533,11 @@ Please make **two** distinct choices for Itachi's Level 7 Advancement. For examp
 > 👤 **Player:**
 > *"DM note: wrong. Assassin Rogue and Illusion Wizard i should be like level 7 in both"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 
@@ -5259,8 +5606,11 @@ Once confirmed, please choose one of the 4th-level Illusion spells for Itachi. I
 God Mode:
 approve and back to story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 
@@ -5287,8 +5637,11 @@ Once you've made this choice, I will finalize Itachi's Level 7 progression and r
 > 👤 **Player:**
 > *"greater invis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 
@@ -5323,8 +5676,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. anything left to learn from uchiha or should i contact akatsuki?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 
@@ -5375,8 +5731,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: are you doing real rolls?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 
@@ -5415,8 +5774,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"ConstructSiphon_4 and then DecipherTablet_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 
@@ -5467,8 +5829,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"SiphonThenTablet_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 
@@ -5505,8 +5870,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"go read tablet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 
@@ -5528,8 +5896,11 @@ What is Itachi's next action to read the Stone Tablet?
 > 👤 **Player:**
 > *"read it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 
@@ -5568,8 +5939,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: now that i read the tablet will it affect the narrative? just answer yes/no"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -5599,8 +5973,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"contact akatsuki"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 
@@ -5639,8 +6016,11 @@ What is Itachi's action in combat?
 > 👤 **Player:**
 > *"auto resolve"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 
@@ -5690,8 +6070,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"pick level 8 benefits"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 
@@ -5725,8 +6108,11 @@ Please let me know your choice for Itachi's Level 8 Advancement.
 > 👤 **Player:**
 > *"2. improve int by 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 
@@ -5752,8 +6138,11 @@ Once you clarify this, I will apply the benefit and proceed with the story.
 > 👤 **Player:**
 > *"**Option A: Increase Intelligence by 2.**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 
@@ -5793,8 +6182,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. how to approach them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 
@@ -5841,8 +6233,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ObserveAkatsuki_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 
@@ -5881,8 +6276,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 
@@ -5922,8 +6320,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: shouldn't i avoid fatigure due to unfeeling resolve?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 
@@ -5962,8 +6363,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 
   **Cons:** Consumes Mangekyō EP and incurs Fatigue. Risks revealing too much of his unique abilities too soon. Could still provoke an immediate test from Akatsuki leaders."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 
@@ -5998,8 +6402,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"ControlledOffer_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 
@@ -6042,8 +6449,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. what next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 
@@ -6085,8 +6495,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InquirePhilosophy_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 
@@ -6113,8 +6526,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 
@@ -6156,8 +6572,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ProposeIntegration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 
@@ -6181,8 +6600,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 
@@ -6224,8 +6646,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AcceptDetails_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 
@@ -6247,8 +6672,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. next steps"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 
@@ -6290,8 +6718,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"PreMissionRecon_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 
@@ -6332,8 +6763,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. how to best capture"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 
@@ -6378,8 +6812,11 @@ My cold intellect demands the most efficient path to consolidating power and inf
 > 👤 **Player:**
 > *"TsukuyomiCapture_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 
@@ -6421,8 +6858,11 @@ With Yagura incapacitated, the mission was a resounding success. The Akatsuki ob
 > 👤 **Player:**
 > *"level 9"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 
@@ -6467,8 +6907,11 @@ Once you've made this choice, I will finalize Itachi's Level 9 progression and r
 > 👤 **Player:**
 > *"Think. Can i use Dream long range on sasuke?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 
@@ -6495,8 +6938,11 @@ Please choose one of the 5th-level Illusion spells for Itachi to learn at Level 
 God Mode:
 Can i use dream long range on sasuke?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 
@@ -6523,8 +6969,11 @@ Please choose one of the 5th-level Illusion spells for Itachi to learn at Level 
 God Mode:
 3. dream
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 
@@ -6581,8 +7030,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: are ytou following this?  Probability and Scaling of Complications: 1. Baseline Chance: For any action meeting the Trigger Condition (A), there is a baseline 20% chance of an "Unforeseen Complication" occurring. 2. Scaling with Challenge: This baseline 20% chance may be proportionally increased by the GM (AI) i"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 
@@ -6613,8 +7065,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"Whenever i long rest if i have remaining chakra i will use dream on Sasuke automatically to steer him. Tell me whenever I do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 
@@ -6647,8 +7102,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"InvestigateJinchuriki_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 
@@ -6687,8 +7145,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. What if later on I betray akatsuki and unlock tailed beast power for myself? I can use rinnegan to control them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 
@@ -6730,8 +7191,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DeliverJinchuriki_1 and secondary task PlanBetrayal_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 
@@ -6773,8 +7237,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 
@@ -6909,8 +7376,11 @@ After approval, I will proceed to apply Itachi's Level 10 benefits, which will i
 > 👤 **Player:**
 > *"approvd"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 
@@ -6959,8 +7429,11 @@ Once you've made this choice, I will finalize Itachi's Level 10 progression and 
 > 👤 **Player:**
 > *"mass suggestion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 
@@ -6997,8 +7470,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 
@@ -7042,8 +7518,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ReturnToHiddenBase_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 
@@ -7081,8 +7560,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: i want to automatically use dream on Sasuke if i have remaining EP before I long rest I mean. not after. its fine no need to revert but understand this for the future"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 
@@ -7159,8 +7641,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 
@@ -7205,8 +7690,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchRinnegan_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 
@@ -7247,8 +7735,11 @@ What is Itachi's next action?
 
 Days and nights blurred as Itachi immersed himself in t"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 
@@ -7299,8 +7790,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. How can I measure progress with sasuke?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 
@@ -7342,8 +7836,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"RemoteObserveSasuke_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 
@@ -7381,8 +7878,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. what benefit is chakra siphon giving me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 
@@ -7429,8 +7929,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: is chakra sipho giving me an in game benefit?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 
@@ -7498,8 +8001,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchAkatsukiPlans_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 
@@ -7548,8 +8054,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. What to do about Madara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 
@@ -7596,8 +8105,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: when do i get my passive EP? If its during a long rest its not useful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 
@@ -7640,8 +8152,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"SurveilMadara_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 
@@ -7690,8 +8205,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. how can i best gain my own spies and agents? Ataksuki?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 
@@ -7731,8 +8249,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Do this CultivateIndependent_3 and Think. What am I gaining from akatsuki? I should have access to their network too?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 
@@ -7794,8 +8315,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"RequestAkatsukiIntel_1 and SuggestMission_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 
@@ -7898,8 +8422,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: I want Programmed Illusion instead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 
@@ -7936,8 +8463,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"plan akatsuki mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 
@@ -7979,8 +8509,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"GhostlyIntel_1 and cultivate my own agents passivelt as a secondary task when opportunity presents itself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 
@@ -8021,8 +8554,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 
@@ -8062,8 +8598,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. How to mitigate risks and how much EP initially and to maintain? SubvertShinobi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 
@@ -8108,8 +8647,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"SubvertShinobi And show me all the rolls and full log. Pause if something goes wrong"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 
@@ -8199,8 +8741,11 @@ What is Itachi's next action? He is currently **undetected**, but his target is 
 > 👤 **Player:**
 > *"DM note: why is it DC 15 for dream? Shouldn't it use my spell DC? Always show me my rolls too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 
@@ -8267,8 +8812,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"DM note: why is it DC 15 for dream? Shouldn't it use my spell DC? Always show me my rolls too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 
@@ -8335,8 +8883,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"Think. Can I try dream again on him or on someone else?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 
@@ -8381,8 +8932,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"IncapacitateHaru"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 
@@ -8436,8 +8990,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Process level 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 
@@ -8467,8 +9024,11 @@ Please let me know your choice for Itachi's Level 12 Advancement.
 > 👤 **Player:**
 > *"Int by 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 
@@ -8510,8 +9070,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Int by 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 
@@ -8535,8 +9098,11 @@ Awaiting your decision in DM MODE.
 > 👤 **Player:**
 > *"Int by 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 
@@ -8562,8 +9128,11 @@ Awaiting your decision in DM MODE.
 > 👤 **Player:**
 > *"Int by 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 
@@ -8589,8 +9158,11 @@ Awaiting your decision in DM MODE.
 > 👤 **Player:**
 > *"Try to make haru an asset with genjustu"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 
@@ -8630,8 +9202,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. What next. Can I do more here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 
@@ -8669,8 +9244,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ExpandAgentNetwork_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 
@@ -8732,8 +9310,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: always show me all of itachi rolls ie. DC 17 from Dream spell;"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 
@@ -8772,8 +9353,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 
@@ -8814,8 +9398,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ActivateAgentsAndExit_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 
@@ -8845,8 +9432,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 
@@ -8891,8 +9481,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ReturnToHiddenBase_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 
@@ -8930,8 +9523,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 
@@ -8976,8 +9572,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ActivateNewAgents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 
@@ -9006,8 +9605,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Report to akatsuki"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 
@@ -9047,8 +9649,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Research madara and utilize agents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 
@@ -9101,8 +9706,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. How can i improve accuracy madara research"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 
@@ -9147,8 +9755,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AgentDirectives_4 While I research stone tablet personally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 
@@ -9208,8 +9819,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"Think. what next for rinnegan and madara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 
@@ -9252,8 +9866,11 @@ Once you've made this choice, I will finalize Itachi's Level 13 progression and 
 > 👤 **Player:**
 > *"Projected Disguise"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 
@@ -9314,8 +9931,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. how can i get more agents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 
@@ -9362,8 +9982,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: i did succeed some investigation checks against madara. Are you accounting for it or did you forget?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 
@@ -9404,8 +10027,11 @@ Please select one of these `CHOICE_ID` options for Itachi's next action. I will 
 > 👤 **Player:**
 > *"Sell valuables and utilize gold. Do CultivateCriminals_1 and TargetDisillusioned_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 
@@ -9493,8 +10119,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 
@@ -9539,8 +10168,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"RefineSiphonTraining_4 and DeployAgents_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 
@@ -9598,8 +10230,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think on options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 
@@ -9644,8 +10279,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AnalyzeAgentReports"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 
@@ -9685,8 +10323,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 
@@ -9731,8 +10372,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"EnhancedMadaraResearch_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 
@@ -9783,8 +10427,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 
@@ -9822,8 +10469,11 @@ Please choose one of these 7th-level Illusion spells for Itachi to learn at Leve
 > 👤 **Player:**
 > *"Mirage Arcane"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 
@@ -9860,8 +10510,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"plan for obito"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 
@@ -9908,8 +10561,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AgentsProbeObito_4 and in parallel AccelerateRinnegan_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 
@@ -9971,8 +10627,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Do I need EMS if i get rinnegan? How do they interact?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 
@@ -10023,8 +10682,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AccelerateEMS_1 and LeverageAgents_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 
@@ -10088,8 +10750,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 
@@ -10130,8 +10795,11 @@ Once you've made this choice, I will finalize Itachi's Level 15 progression and 
 > 👤 **Player:**
 > *"Trap Soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 
@@ -10166,8 +10834,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. how old is sasuke. how long until he can get mangekyou. what has he been up to?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 
@@ -10214,8 +10885,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"RefineSiphonTraining_4 and then PursueArtifact_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 
@@ -10279,8 +10953,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: introduce a time skip at a good time for me but let me choose"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 
@@ -10391,8 +11068,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"MeticulousScouting_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 
@@ -10430,8 +11110,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 
@@ -10469,8 +11152,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"Think. Would I win if I ambush obito and zetsu? Give me combat optoins. Can I just open with Tsukuyomi?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 
@@ -10512,8 +11198,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"Think. What about EnvironmentalTrapAmbush_3 and then TsukuyomiObitoIncapacitateZetsu_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 
@@ -10542,8 +11231,11 @@ Awaiting your clarification in DM MODE.
 > 👤 **Player:**
 > *"Think about success rate, do not execute. 3.  **Do you intend a sequence where Itachi sets a trap, and *then* waits for them, and *if* they return, he would use Tsukuyomi?** (If so, please confirm, and we would narrate the trap setting first, then manage the wait and their potential return.)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 
@@ -10596,8 +11288,11 @@ This combined strategy greatly enhances my chances compared to a direct ambush. 
 2.  **Wait for Obito and Zetsu to return to the vault and trigger the trap.**
 3.  **Upon their triggering the trap and becoming disoriented, initiate ambush with Tsukuyomi on Obito, then incapacitate Zetsu.**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 
@@ -10654,8 +11349,11 @@ What is Itachi's next action? He is in his concealed ambush position, the trap i
 > 👤 **Player:**
 > *"think. open with tsukiyomi? will i get surprise round? Also i want to make every decision, do not auto resolve"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 
@@ -10700,8 +11398,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"TsukuyomiObito_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 
@@ -10761,8 +11462,11 @@ What is Itachi's next action? He is currently **undetected** by Zetsu (due to Ma
 > 👤 **Player:**
 > *"think. what is obito level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 
@@ -10780,8 +11484,11 @@ Do you have any further questions or requests in DM MODE, or would you like to r
 > 👤 **Player:**
 > *"think. next move. what if i use tsukiyomi on zetsu"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 
@@ -10826,8 +11533,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"TsukuyomiZetsu_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 
@@ -10886,8 +11596,11 @@ What is Itachi's next action? He is currently **undetected** by Zetsu (due to Ma
 > 👤 **Player:**
 > *"think. can i do a physical attack and get surprise round or assassinate critical?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 
@@ -10934,8 +11647,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"DisruptZetsuEscape_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 
@@ -10987,8 +11703,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. how to incapacitate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 
@@ -11026,8 +11745,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"Think. Anything else I can use? What about amaretsu?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 
@@ -11067,8 +11789,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"DM note: give me amaterasu now and susanoo later. I should have at least amatersu."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 
@@ -11110,8 +11835,11 @@ God Mode:
 
 Give me susanoo later when I level up to 16
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 
@@ -11185,8 +11913,11 @@ I await your confirmation before integrating these changes and returning to STOR
 God Mode:
 final approve
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 
@@ -11245,8 +11976,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 God Mode:
 PhysicalStrikeZetsu_1 and try to incapacitate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 
@@ -11313,8 +12047,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"continue level 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 
@@ -11357,8 +12094,11 @@ Please let me know your choice for Itachi's Level 16 Advancement (the ASI or Fea
 > 👤 **Player:**
 > *"1. increase int by 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 
@@ -11398,8 +12138,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 
@@ -11444,8 +12187,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"Think. Could I do this and carry zetsu and interrogate him later? RetreatWithShard_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 
@@ -11494,8 +12240,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"WaitEPAndSusanoo_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 
@@ -11547,8 +12296,11 @@ What is Itachi's next action, from within his newly manifested Susano'o? He has 
 > 👤 **Player:**
 > *"Think. options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 
@@ -11586,8 +12338,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"StrikeObito_1 and also i should have an extra attack. let me decide how to use it, dont forget"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 
@@ -11672,8 +12427,11 @@ What is Itachi's next action? He has **4 CP remaining** and **0 EP**. Susano'o i
 > 👤 **Player:**
 > *"think. can i use susanoo to cut zetsu out of the floor, capture zetsu, loot this area, and escape?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 
@@ -11718,8 +12476,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"think. can I knock zetsu out with susanoo and then do this PrepareObitoReturn_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 
@@ -11759,8 +12520,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"think. I have done a lot of research. Does Obito or kamui have any weaknesses?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 
@@ -11803,8 +12567,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"ExploitKamui_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 
@@ -11888,8 +12655,11 @@ What is Itachi's next action? He has **2 CP remaining** and **0 EP**. Susano'o i
 > 👤 **Player:**
 > *"Think. Can i tie up obito, knock out zetsu, loot this place, and then interrogate them both? Likely they wont have backup so I can just stay here?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 
@@ -11939,8 +12709,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"Think how about. Kill zetsu, cut off obito hands, secure obito, loot, and then leave with obito"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 
@@ -11996,8 +12769,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"think. what if kill zetsu, tie up obito, cut off obito hands and feet, and then escape with obito"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 
@@ -12057,8 +12833,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"think .if i do this can i still get rinnegan aritfact? CoreControlAndExit_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 
@@ -12153,8 +12932,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"Think. I wanna do this. kill zetsu, mutilate obito, tie him up, and leave carrying obito"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 
@@ -12195,8 +12977,11 @@ Once you've made this choice, I will finalize Itachi's Level 17 progression and 
 > 👤 **Player:**
 > *"DM note: retcon that I also carried obito hands and feet for future leverage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 
@@ -12229,8 +13014,11 @@ Once you've made this choice, I will finalize Itachi's Level 17 progression and 
 > 👤 **Player:**
 > *"Weird"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 
@@ -12332,8 +13120,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. how far away is my base? Should i long rest there or somewhere closer? or can i short rest and regain some EP and come back for obito?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 
@@ -12408,8 +13199,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. What if I take two pills. Tsukoymi obito to learn everythine, greater invis, then take him back."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 
@@ -12457,8 +13251,11 @@ Itachi Uchiha (Level 17 Ninja, Age 13) stood within the ancient Uchiha vault, th
 > 👤 **Player:**
 > *"DM note: what are you doing. I am using think, stop advancing narrative"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 
@@ -12540,8 +13337,11 @@ Itachi Uchiha (Level 17 Ninja, Age 13) stood within the ancient Uchiha vault, th
 > 👤 **Player:**
 > *"ConfirmComprehensiveRetrieval_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 
@@ -12604,8 +13404,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Am i back at my base with obito now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 
@@ -12651,8 +13454,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"think. don't i alreayd know eveyrthing from obito? do i need to interrogate him? i used tsukyomi on him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 
@@ -12706,8 +13512,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"IssueAgentDirectives_4, take obito eyes, long rest, interrogate obito next day"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 
@@ -12813,8 +13622,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AwakenInterrogate_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 
@@ -12861,8 +13673,11 @@ What is Itachi's next action?
 
 Obito's remaining eye, a single, scarred Sharingan, snapped open"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 
@@ -12939,8 +13754,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. What else could obito be useful for?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 
@@ -12985,8 +13803,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ImprisonObito_1 for now. He should be helpless. and then do AnalyzeLimbsArtifact_2. Analyze the rest of him too without killing him, like a scientist taking samples"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 
@@ -13050,8 +13871,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 
@@ -13094,8 +13918,11 @@ Once you've made this choice, I will finalize Itachi's Level 18 progression and 
 > 👤 **Player:**
 > *"True Sight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 
@@ -13132,8 +13959,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. How can i get rinnegan? Obito has harashima cells or something? Can I transplant them in myself and power up?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 
@@ -13186,8 +14016,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"IntensifySpiritualTraining_3 and AgentRinneganIntel_4 for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 
@@ -13249,8 +14082,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. can my agents get me like 20 chakra pills? Whats the limit? And any other useful battle consumables"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 
@@ -13295,8 +14131,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"PillAcquisition_1 and IntensifySpiritualTraining_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 
@@ -13358,8 +14197,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"lets research obito now. also lets make my agents autonomous. They will pursue my general goals and communciate with me for important decisions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 
@@ -13423,8 +14265,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 
@@ -13454,8 +14299,11 @@ Please let me know your choice for Itachi's Level 19 Advancement.
 > 👤 **Player:**
 > *"1) increase int by 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 
@@ -13497,8 +14345,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. how do i get rinnegan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 
@@ -13545,8 +14396,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. Can i integrate senju cells first and wait on rinnegan?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 
@@ -13604,8 +14458,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InitiateSenjuIntegration_1 and ConsolidateGlobalInfluence_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 
@@ -13677,8 +14534,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. How to make senju cell integration more likely"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 
@@ -13723,8 +14583,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"HarmonizationResearch_1 and ExperimentOnObito_2 and ExternalCatalystSearch_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 
@@ -13807,8 +14670,11 @@ Now, before proceeding with Itachi's next action, let's transition to DM MODE to
 > *"DM note: shouldn't nat 20 mean success?
 *Roll Used:** 20 (Natural 20 - Critical Success!)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 
@@ -13906,8 +14772,11 @@ I await your **final approval** before integrating this change and applying Itac
 God Mode:
 final approval and lets do level 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 
@@ -13966,8 +14835,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"try integrate senju cells again and keep agents looking for senju or rinnegan related things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 
@@ -14039,8 +14911,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: shouldn't my health increase more and other things? Senju cells are a big deal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 
@@ -14112,8 +14987,11 @@ I await your confirmation and your choice before integrating these changes and p
 > 👤 **Player:**
 > *"DM note: it think it needs to be bigger like +40hp., +10EP regen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 
@@ -14156,8 +15034,11 @@ I await your confirmation and your choice before integrating these changes and p
 God Mode:
 final approval and lets continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 
@@ -14193,8 +15074,11 @@ Please select your choice for Itachi's new Expertise Tag. Once you've made this 
 God Mode:
 I should just get all of them. Senju integration makes me extremely strong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 
@@ -14242,8 +15126,11 @@ What is Itachi's next action?
 God Mode:
 Think. any more use to obito?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 
@@ -14277,8 +15164,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Think. how can i get more chakra pills, Any reminaing uchiha i should handle? what should i do with all the sharingan eyes i encountered especially the ones from obito which are mangekyou
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 
@@ -14357,8 +15247,11 @@ AgentsMonitorUchiha_3
 
 and personally do this ResearchAllSharingan_5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 
@@ -14443,8 +15336,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: should you be giving me options to use stroke of luck if I fail?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 
@@ -14487,8 +15383,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. how can i get ems without sasuke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 
@@ -14582,8 +15481,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. Could i make sasuke my minion? Convince him that obito killed the uchiha and used genjutsu on sasuke? Train sasuke until he gets mangekyou. Then trade eyes with him? He could be a powerful ally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 
@@ -14677,8 +15579,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. Can I just use dream on him every night to change his mind? Then he can come seek me out when he's good and i'll start the plan? InitiateSasukeStrategy_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 
@@ -14727,8 +15632,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Lets execute on sasuke plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 
@@ -14773,8 +15681,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"go here hidden spring of primordial chakra deep within the Land of Mountains, and an ancient, forgotten scroll mentioning "the merging of two halves for true vision"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 
@@ -14840,8 +15751,11 @@ What is Itachi's next action?
 
 Daily Dream Manipulation of Sasuke:** Over the past week, Itachi autonomously cast the `Dream` spell on Sasuke every night before resting (consuming 8 EP each time, which was then fully restored by the subsequent long rest). This psychological assault continued to shape Sasuke's hatred."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 
@@ -14873,8 +15787,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Should i just get rinnegan now or wait for EMS?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 
@@ -14918,8 +15835,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"FocusOnEMS_2 with the goal of converting sasuke. ConsolidateInfluence_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 
@@ -14989,8 +15909,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Is it time to make contact with sasuke? I want to bring him to my base and personally train him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 
@@ -15030,8 +15953,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. What if i send him a secret message that says i wanna meet him and tell no one? I know the truth of uchiha massacre"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 
@@ -15076,8 +16002,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. What if I do this SecretMessageMeet_1 and get akatsuki to back me up? I ask them to deal with anyone else. I've helped them a lot and promise i'll convert sasuke into an agent on my sides so its like they have two itachis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 
@@ -15137,8 +16066,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. what if I do SecretMessageMeet_1 and get trusted agents to help as needed? Who are my strongest agents in terms of combat and how to dthey compare to potential konoha ninjas?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 
@@ -15190,8 +16122,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Orchestrate Covert Meeting via Secret Message (Controlled First Contact, Agent-Supported) [CHOICE_ID: SecretMessageMeet_1]:**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 
@@ -15248,8 +16183,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"prepare for him and go and meet him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 
@@ -15294,8 +16232,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Dm note: why was itachi as 32ep? He should go into something important like this at full EP versus being partially prepared. **Itachi's EP:** 32 - 15 = **17 / 42 EP** remaining."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 
@@ -15463,8 +16404,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DramaticAppearance_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 
@@ -15488,8 +16432,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"execute the plan. Blame obito. Say I spent all this time and finally beat obito and he's my lab rat now. You can come take revenge on him too and kill the rest of obito network who was involved. I will train you personally and make you stronger. You weren't strong enough before to stop obito but in the future you will be much stronger. Look at me now, I am level 20 and only 13 years old."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 
@@ -15534,8 +16481,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: make sure i get a lot of dialogue and narrative from Sasuke and any key character from Naruto. Add some more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 
@@ -15572,8 +16522,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: for this 200 word guideline you can go longer, just deliver it to me in around 200 words at a time."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 
@@ -15605,8 +16558,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Itach is nice to sasuke. Says he missed him. Very powerful because it's out of characer. Itachi acts nicer than usual to sasuke, although still cold somewhat because that's his nature"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 
@@ -15632,8 +16588,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Long rest and show sasuke obito in the morning. Tell him about how danzo and other konoha elders conspired with obito to kill uchiha and back then itachi couldn't stop it. Share parts of itachi plan, absolute control through power, shadow control konoha etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 
@@ -15703,8 +16662,11 @@ What is Itachi's next action?
 
 Before commencing his deep, restorative long rest, Itachi's mind, cold and precise, reached across the miles to Konoha, forming a psychic link with his younger brother."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 
@@ -15785,8 +16747,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Tell sasuke obito will live a long life, blind, mutilated, helpless lab rat. That is his punishment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 
@@ -15808,8 +16773,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. how to best train sasuke to level him up, improve combat, and get him mangekyou"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 
@@ -15847,8 +16815,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AcceleratedForging_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 
@@ -15906,8 +16877,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"think. also not comparable to me, sasuke is a prodigy too. I will push him to learn and grow and he will get strong fast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 
@@ -15956,8 +16930,11 @@ Akatsuki missions and prepare for betraying them
 Chakra pills
 Research in spare time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 
@@ -16009,8 +16986,11 @@ Do you **confirm** this 2-year time skip plan, including the autonomous executio
 > 👤 **Player:**
 > *"First itachi gives sasuke a rare compliment. He says it in an intellectual way but it means a lot. He says "Sasuke think, how many 8 year olds had mangekyou?The only one who had it that young was me that I've ever heard of. How strong do you think you'll be in a few years?"."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 
@@ -16051,8 +17031,11 @@ Do you **confirm** this 2-year time skip plan, including the autonomous executio
 God Mode:
 Confirm2YearTimeSkip_1 and also be nice to sasuke. It's not truly fake, Itachi does care about him to some degree.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 
@@ -16233,8 +17216,11 @@ Itachi Uchiha (Level 20 Ninja, Age 15) stood within the cool, damp confines of h
 > 👤 **Player:**
 > *"DM note: itachi's agents should've acquired gold for him during this time, maybe at least a few thousand?. Also itachi should've unlocked more power from his senju blood and mangekyou."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 
@@ -16367,8 +17353,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: I didn't say this? I think there was a mistake. Rewind it InitiateEMSEyeExchange_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 
@@ -16615,8 +17604,11 @@ During this intense 2-year period, two significant complications arose:
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 
@@ -16660,8 +17652,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. any benefit to training sasuke more before InitiateEMSEyeExchange_1?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 
@@ -16721,8 +17716,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. how can the eye of the moon plan proceed without obito? Its prob fine to wait for FurtherTrainSasuke_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 
@@ -16772,8 +17770,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: itachi should've unlocked all the abilities of his mangekyou by now? like all susanoo forms. Maybe senju stuff?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 
@@ -16860,8 +17861,11 @@ I await your **final approval** before integrating these changes and proceeding 
 > 👤 **Player:**
 > *"DM note: itachi doesn't have EMS yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 
@@ -17006,8 +18010,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: itachi would've been researching stuff these past two years. I think he should've fully unlocked susanoo and other eye related things by now. Final approval just do it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 
@@ -17118,8 +18125,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. What about madara? Could we capture him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 
@@ -17169,8 +18179,11 @@ Also, a reminder that the Finalization Protocol for **[Change ID: 20240121-A]** 
 > 👤 **Player:**
 > *"Lets do ResearchTrueMadara_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 
@@ -17258,8 +18271,11 @@ What is Itachi's next action?
 God Mode:
 final approval for all changes to itachi powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 
@@ -17330,8 +18346,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. Should we just do something about the real madara for now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 
@@ -17380,8 +18399,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. What if I do this and take his body to study? PreventResurrection_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 
@@ -17430,8 +18452,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"SurveilMadara_4 and get agents to plan a way to acquire madara body"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 
@@ -17504,8 +18529,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. How to remove that thread"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 
@@ -17547,8 +18575,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"PersonalErasure_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 
@@ -17605,8 +18636,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: how come sasuke never talks to me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 
@@ -17671,8 +18705,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 DM note: plan but do not execute. What if we timeskip another 2 years until sasuke mangekyou is truly leveled up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 
@@ -17726,8 +18763,11 @@ DM note: one more personal priority for itachi
 
 Itachi - research  unlock any further sharingan and mangekyou and senju powers or any power ups at all. Tell me explicitly what powers he unlocked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 
@@ -17785,8 +18825,11 @@ Do you **confirm** this further 2-year time skip plan, including the autonomous 
 > 👤 **Player:**
 > *"ConfirmAnother2YearTimeSkip_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 
@@ -17947,8 +18990,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: tell me most important thing itach and sasuke did every month during skip. Prove to me you really simulated it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 
@@ -18192,8 +19238,11 @@ I confirm my understanding and will provide a monthly breakdown of the most sign
 > 👤 **Player:**
 > *"DM note: i should be 17"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 
@@ -18253,8 +19302,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > *"Think. I will trade my eyes with sasuke. he should be fine
 *Cons:** Sasuke would become eyeless, temporarily incapacitated, and require recovery and new eyes (e.g., from Itachi's collection of Sharingan, or some other source) to remain a functional shinobi. This is an irreversible, profound physical alteration for Sasuke."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 
@@ -18309,8 +19361,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: you ignored me. I'm giving sasuke my eyes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 
@@ -18417,8 +19472,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: wrong. Itach will take sasuke eyes. Sasuke will take itachi eyes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 
@@ -18476,8 +19534,11 @@ This is a critical juncture for establishing the exact nature of this unique pow
 
 We both gain power eyes and share each others powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 
@@ -18532,8 +19593,11 @@ I await your **final approval** before integrating these changes and proceeding 
 God Mode:
 final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 
@@ -18615,8 +19679,11 @@ ask sasuke how he feels
 
 ask sasuke how he feels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 
@@ -18644,8 +19711,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Tell sasuke we are some of the most powerful ninjas in the world right now. It's ok to enjoy it, just don't indulge. We will create everlasting peace and prosperity and bring order"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 
@@ -18683,8 +19753,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. Might as well tell him my full plan? The more he knows the better he can help me get Rinnegan and more etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 
@@ -18716,8 +19789,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"RevealFullPlan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 
@@ -18757,8 +19833,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Tell sasuke to train hard and listen well. Perhaps he will be ready for Rinnegan in the future"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 
@@ -18954,8 +20033,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 
 InitiateRinnegan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 
@@ -19027,8 +20109,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"DM note: i should get in game benefits from rinnegan that are huge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 
@@ -19173,8 +20258,11 @@ Upon successful awakening of the Rinnegan, Itachi Uchiha gains the following mon
 God Mode:
 i think it should just be like +4 to all stats?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 
@@ -19281,8 +20369,11 @@ I await your **final approval** before integrating these changes and proceeding 
 God Mode:
 prob +4 spell DC too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 
@@ -19383,8 +20474,11 @@ I await your **final approval** before integrating these changes and proceeding 
 God Mode:
 final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 
@@ -19467,8 +20561,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 DM note: to confirm people will react to my rinnegan if they see it ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 
@@ -19546,8 +20643,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Use genjutsu to hide my rinnegan
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 
@@ -19607,8 +20707,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 RinneganObitoInterrogation_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 
@@ -19681,8 +20784,11 @@ RefineTailedBeastResearch_2
 > 👤 **Player:**
 > *"RefineTailedBeastResearch_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 
@@ -19768,8 +20874,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"think. daily dream on sasuke perhaps can be different. Focus on loyalty and powering him up? Hatred not needed as much since he already has mangekyou"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 
@@ -19811,8 +20920,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. TravelToMadara_2 how to mitigate risks? useful to bring some combat agents?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 
@@ -19873,8 +20985,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DreamResilience_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 
@@ -19961,8 +21076,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: is this relevant? I already have rinnegan PreliminaryRinnegan_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 
@@ -20016,8 +21134,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"TravelToMadara_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 
@@ -20237,8 +21358,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"DM note: my agents were preparing for madara extraction plan during time skip, so once we secure him it shouldn't be too hard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 
@@ -20293,8 +21417,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"NeutralizeNinjaThenExtractFragment_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 
@@ -20530,8 +21657,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"secure prisoners and then ExtractFragment_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 
@@ -20670,8 +21800,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InterrogateNinja_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 
@@ -20742,8 +21875,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AcquireRemains_1. My agents should have a good plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 
@@ -20824,8 +21960,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: give me a special rule that I can keep leveling until level 100. Let everything scale proportionally. I am special due to rinnegan."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 
@@ -20879,8 +22018,11 @@ I await your **final approval** before integrating these changes and proceeding 
 > 👤 **Player:**
 > *"final approval"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 
@@ -20944,8 +22086,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: should I be level 21?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 
@@ -21022,8 +22167,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AcquireRemains_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 
@@ -21102,8 +22250,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"FieldResearchMadara_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 
@@ -21391,8 +22542,11 @@ What is Itachi's first action in combat? CP available: 110 (Max EP), 23 CP (Coor
 > 👤 **Player:**
 > *"ConfrontIntruder_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 
@@ -21425,8 +22579,11 @@ I await your specific command for Itachi's combat action.
 > 👤 **Player:**
 > *"DM note: stop jumping ahead. I didn't provide all those last inputs. This is fine but why are you acting for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 
@@ -21482,8 +22639,11 @@ Itachi Uchiha sat cross-legged amidst the intricate seals, eyes closed, drawing 
 > 👤 **Player:**
 > *"think. what next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 
@@ -21556,8 +22716,11 @@ I didn't want you to revert. We should be here
 Sequence ID: 124 | Timestamp: Konoha, Year 17, October 19th, Morning | Key Stats: XP 825510/846200 (Level 20, Cap Removed), Max HP: 223, Current HP: 223, Energy Points: 110/110, Fatigue: Level 0, Followers: 25 (+Haru, Hana), EP Income: +25 EP/day (plus +20 EP/hour passive), Gold: 4095 GP, Gold Income: 150 GP/month, Valuables: 0 GP, Chakra Pills: 30 | Missions: Konoha's Hidden Hand: *Manipulate Konoha's power structures from the deepest shadows.* | [HASH:F4A7C1D8]
 Location: Land of Ancestors, Madara's Vault, Morning
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 
@@ -21645,8 +22808,11 @@ What is Itachi's first action in combat?
 > 👤 **Player:**
 > *"think. what are my options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 
@@ -21717,8 +22883,11 @@ Regarding your request for a 600-word narrative with details, descriptions, and 
 > 👤 **Player:**
 > *"CastTsukuyomi_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 
@@ -21951,8 +23120,11 @@ Regarding your request for a 600-word narrative with details, descriptions, and 
 > 👤 **Player:**
 > *"RinneganShuInterrogation_1 and get agents to start on AcquireRemains_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 
@@ -22082,8 +23254,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"TransportMadaraRemains_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 
@@ -22325,8 +23500,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: we should've also brought back the body of shu"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 
@@ -22467,8 +23645,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchRemains_1 and have agent scout the strongest warriors we could acquire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 
@@ -22583,8 +23764,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"NeutralizeShuAnchor_1 AcquireScoutedWarriors_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 
@@ -22819,8 +24003,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 pick int +2 for my feat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 
@@ -22880,8 +24067,11 @@ God Mode:
 DM note: didn't i do this already?
 *Initiate Comprehensive Research on Madara's & Shu's Remains (Ultimate Knowledge)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 
@@ -22909,8 +24099,11 @@ I await your explicit decision from the `CHOICE_ID` options provided in the prev
 God Mode:
 ResearchRemains_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 
@@ -23024,8 +24217,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 I already did this NeutralizeShuAnchor_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 
@@ -23089,8 +24285,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 I already did this too ResearchRemains_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 
@@ -23149,8 +24348,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 InterrogateIwaNinja_1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 
@@ -23226,8 +24428,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 AkatsukiIntrigue_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 
@@ -23439,8 +24644,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 RefineTailedBeastResearch_4 and let sasuke handle deidara
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 
@@ -23573,8 +24781,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 AddressKonanSuspicion_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 
@@ -23654,8 +24865,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"AkatsukiIntrigue_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 
@@ -23750,8 +24964,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DM note: didn't I already kill Zetsu?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 
@@ -23867,8 +25084,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think: should I start using dream on nagato?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 
@@ -23917,8 +25137,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 I killed zetsu using susanoo. Did you forgoet?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 
@@ -24046,8 +25269,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Enter DM mode. Stay here until I say otherwise. 5 whys on why you got zetsu wrong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 
@@ -24102,8 +25328,11 @@ I am ready to receive your next instruction. Please let me know if you are satis
 God Mode:
 final approval and lets continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 
@@ -24165,8 +25394,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"think on options for MitigateKisameActions_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 
@@ -24227,8 +25459,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"DirectIntervention_1 and bring sasuke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 
@@ -24444,8 +25679,11 @@ What is Itachi's first action in combat?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 
@@ -24462,8 +25700,11 @@ you repeated yourself. Why did you send me this twice?
 **Critical Success Benefits:**
 Itachi and Sasuke's entrance is a masterpiece of intimidation and strategic timing. The raw power emanating from them is so absolute that it not only silences the raging battle but also subtly imprints a momentary, profound sense of awe and paralyzing uncertainty into the minds of Kisame, Killer Bee, and the Raikage. This grants Itachi a fleeting window of absolute control over the situation, allowing him to dictate the immediate terms without an instant, chaotic counter-attack. Furthermore, Itachi's Rinnegan instinctively discerns a subtle, physiological vulnerability within Kisame's unique Samehada bond, a precise method to sever it if needed.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 
@@ -24511,8 +25752,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this ana
 God Mode:
 continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 
@@ -24564,8 +25808,11 @@ What is Itachi's first action in combat?
 > 👤 **Player:**
 > *"think. how to best handle the scenario"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 
@@ -24634,8 +25881,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"TsukuyomiRaikage_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 
@@ -24724,8 +25974,11 @@ What is Sasuke's first action in combat?
 God Mode:
 DM note: wasn't truskuyomi 8 EP befre?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 
@@ -24756,8 +26009,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this exp
 God Mode:
 make it 8 EP. THat's what it was before unless you forgot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 
@@ -24794,8 +26050,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this cor
 God Mode:
 continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 
@@ -24876,8 +26135,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 God Mode:
 DM note: itachi had more CP right? Why did his turn end?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 
@@ -24940,8 +26202,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this ana
 > 👤 **Player:**
 > *"think. what else to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 
@@ -25019,8 +26284,11 @@ My cold intellect demands the most efficient path to consolidating power and kno
 > 👤 **Player:**
 > *"SecureBeeAndSeverKisame_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 
@@ -25103,8 +26371,11 @@ Itachi has 18 CP remaining. Do you wish to take any further actions this turn, o
 
 DM note: at the end of every story mode entry always do a planning block and give some suggested actions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 
@@ -25225,8 +26496,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ConsolidateCaptives_3 and then intimidate kisame. Tell him to fall into line or he dies. Causing too much trouble. Help us finish the fight and regroup and stop doing things on your own"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 
@@ -25297,8 +26571,11 @@ Itachi has 13 CP remaining. Do you wish to take any further actions this turn, o
 > 👤 **Player:**
 > *"Auto resolve combat and kill all enemies. Itachi sasuke and Kisame use their abilities as best they see fit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 
@@ -25405,8 +26682,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Auto resolve combat and kill all enemies. Itachi sasuke and Kisame use their abilities as best they see fit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 
@@ -25636,8 +26916,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"TransportAssets And make kisame help transport. Stop further away from my base so kisame doesn't learn where it is. Then tell kisame to go home and await further instructions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 
@@ -25904,8 +27187,11 @@ Itachi Uchiha (Level 21 Ninja, Age 17) stood within the cool, damp confines of h
 > 👤 **Player:**
 > *"TransportAssets And make kisame help transport. Stop further away from my base so kisame doesn't learn where it is. Then tell kisame to go home and await further instructions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 
@@ -26141,8 +27427,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"TransportAssets And make kisame help transport. Stop further away from my base so kisame doesn't learn where it is. Then tell kisame to go home and await further instructions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 
@@ -26247,8 +27536,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Reminder for self. Fix samehada later when kisame proves himself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 
@@ -26300,8 +27592,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchAssets_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 
@@ -26391,8 +27686,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchAssets_4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 
@@ -26560,8 +27858,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchAssets"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 
@@ -26651,8 +27952,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InterrogateAssets_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 
@@ -26748,8 +28052,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InterrogateAssets_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 
@@ -26845,8 +28152,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Shouldn't I have leveled up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 
@@ -26878,8 +28188,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this exp
 God Mode:
 You aren't saying my exp to next level anymore. Keep doing that please
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 
@@ -26929,8 +28242,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this ana
 God Mode:
 Final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 
@@ -27036,8 +28352,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Stop repeating text so much. If it's in an older story mode entry no need to say it again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 
@@ -27105,8 +28424,11 @@ I await your **final approval** before integrating these changes and returning t
 God Mode:
 Final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 
@@ -27148,8 +28470,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Why is this repeated every entry
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 
@@ -27202,8 +28527,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this ana
 > 👤 **Player:**
 > *"Also why is this repeated every entry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 
@@ -27256,8 +28584,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this ana
 > 👤 **Player:**
 > *"Why is this repeated Every entry My cold intellect demands the most efficient path to consolidating power and moving into the next phase of Konoha's Hidden Hand. Every action must serve my grand design."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 
@@ -27317,8 +28648,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this ana
 God Mode:
 Final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 
@@ -27360,8 +28694,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. Can I give sasuke senju chakra and prepare him for Rinnegan?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 
@@ -27412,8 +28749,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"IntegrateSasukeSenju_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 
@@ -27632,8 +28972,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InitiateSasukeRinnegan_1]:*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 
@@ -27863,8 +29206,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InitiateSasukeRinnegan_1]:*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 
@@ -28106,8 +29452,11 @@ Upon arrival, Itachi'
 > 👤 **Player:**
 > *"InitiateSasukeRinnegan_1]:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 
@@ -28221,8 +29570,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InitiateSasukeRinnegan_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 
@@ -28284,8 +29636,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Tell sasuke to hide his rinnegan with genjutsu"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 
@@ -28564,8 +29919,11 @@ To prevent future errors regarding redundant narrative and contextual presentati
 > 👤 **Player:**
 > *"Congratulate sasuke. Activated rinnegan at 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 
@@ -28619,8 +29977,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 We already have madara remains. You forgot Travel to Madara's Remains (Proactive Neutralization/Acquisition) [CHOICE_ID: TravelToMadara_4]:**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 
@@ -28681,8 +30042,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Is madara remains mission complete tracked in game state?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 
@@ -28716,8 +30080,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this cor
 
 AkatsukiIntrigue_2 In story mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 
@@ -28883,8 +30250,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Unforeseen complications why do we allow reroll? We should not
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 
@@ -28928,8 +30298,11 @@ Isn't this a reroll? Or what does this mean  Action:** Itachi manages Akatsuki i
 -   **DC:** 28 (Legendary Task - for complex, high-stakes manipulation of S-rank minds)
 -   **Result:** 31 >= 28 — **Automatic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 
@@ -28980,8 +30353,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this exp
 God Mode:
 Why does Itachi always roll a 20? Are you really rolling?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 
@@ -29037,8 +30413,11 @@ I am currently in DM MODE. Please let me know if you are satisfied with this exp
 God Mode:
 Let's introduce complications at a higher rate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 
@@ -29088,8 +30467,11 @@ I await your **final approval** before integrating this change and returning to 
 God Mode:
 Final approval and back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 
@@ -29172,8 +30554,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Did you rewind? I already brought the raikage back to my base?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 
@@ -29244,8 +30629,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 Still wrong. Sasuke just got rinnegan and I am managing akatsuki
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 
@@ -29309,8 +30697,11 @@ I am currently in DM MODE. Please let me know if you wish to undertake this **fu
 God Mode:
 Let's do it and store all those things explicitly in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 
@@ -29353,8 +30744,11 @@ I await your comprehensive chronological history.
 God Mode:
 No I won't give it to you. You fix this this. Right now sasuke just got rinnegan and Itachi is handling akatsuki. Just look at the last 50 story mode entries
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 
@@ -29693,8 +31087,11 @@ God Mode:
 Enter dm mode. You were close. Global Influence Consolidation (Jan-Jul Year 18):** Itachi & Sasuke actively assert control. Subvert Daimyo council member. Neutralize Hidan & Kakuzu. Solidify Kisame's subjugation. (XP Gain for Itachi).
     *   *DM Note Complication: Nagato's paranoia pushes him towards premature Gedo Mazo activation.* This never happened. And I beat killer bee and crew before Sasuke got rinnegan
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 
@@ -29750,8 +31147,11 @@ Do you approve of this precise rewind and re-execution plan to fix the chronolog
 God Mode:
 Give me a detailed prompt to generate the story summary you just did
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 
@@ -29825,8 +31225,11 @@ I await your instructions.
 > 👤 **Player:**
 > *"back to story mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 
@@ -29855,8 +31258,11 @@ I deeply regret this ongoing issue, but resolving it completely is paramount to 
 God Mode:
 AI-Driven Reconstruction Confirmatio
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 
@@ -30106,8 +31512,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"Think. can i give sasuke senju chakra and then rinnega?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 
@@ -30158,8 +31567,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"IntegrateSasukeSenju"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 
@@ -30260,8 +31672,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"InitiateSasukeRinnegan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 
@@ -30492,8 +31907,11 @@ Nagato, his own Rinnegan blazing, recoiled. His eyes, already strained from chak
 > 👤 **Player:**
 > *"Congratulate Sasuke. Young Rinnegan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 
@@ -30706,8 +32124,11 @@ Story: [CHECKPOINT BLOCK:]
 Sequence ID: 123 | Timestamp: Konoha, Year 17, October 25th, Morning | Key Stats: XP 1086320/1049325 (Level 22), Max HP: 247, Current HP: 247, Energy Points: 110/110, Fatigue: Level 0, Followers: 25 (+Haru, Hana), EP Income: +25 EP/day (plus +20 EP/hour passive), Gold: 4095 GP, Gold Income: 150 GP/month, Valuables: 0 GP, Chakra Pills: 30 | Missions: Konoha's Hidden Hand: *Manipulate Konoha's power structures from the deepest shadows.* | [HASH:F4A7C1D8]
 Location: Hidden Cave Base, Research Chamber, Morning
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 
@@ -31199,8 +32620,11 @@ CURRENT GAME STATE:
   "migration_status": "MIGRATED"
 }
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 
@@ -31248,8 +32672,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 
 Congratulate sasuke on rinnegan. He is very young."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 
@@ -31351,8 +32778,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"SubvertNagato_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 
@@ -31442,8 +32872,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 AkatsukiConsolidateControl_3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 
@@ -31820,8 +33253,11 @@ This is wrong. Nagato is defeated. Not tracked in game state?
     *   **Cons:** Does not directly secure Nagato or the Gedo Mazo. Risks being a temporary measure, with paranoia resurfacing.
     *   **Confidence:** High. A cautious approach to re-establish control without direct confrontation.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 
@@ -31875,8 +33311,11 @@ controlled itachi
 
 look at the recent chats you should see it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 
@@ -32302,8 +33741,11 @@ CURRENT GAME STATE:
 }
 ```
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 
@@ -32352,8 +33794,11 @@ enter dm mode: Can you print these?
 *   **`REFERENCE TIMELINE (SEQUENCE ID LIST)`**: This is a list of numbers (e.g., `[1, 2, 3, 5, 6]`) that represents the **canonical order of events** in the story. This is the absolute source of truth for the sequence of what has happened.
 *   **`TIMELINE LOG (FOR CONTEXT)`**:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 
@@ -32643,8 +34088,11 @@ _Likely origin:_ Early praise for achievements plus inconsistent attunement to r
 ## 9 · Closing pulse
 These observations are coordinates on the map you’ve drawn so far—tear them up, annotate them, or prove them wrong. Notice which lines quickened your pulse or tightened your jaw; that’s where the sleeping part stirs. :contentReference[oaicite:11]{index=11}
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 
@@ -33042,8 +34490,11 @@ CURRENT GAME STATE:
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 
@@ -33496,8 +34947,11 @@ Itachi began to issue new directives, flowing through Nagato. The remaining Akat
 > 👤 **Player:**
 > *"AkatsukiConsolidateControl_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 
@@ -33780,8 +35234,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchNagatoRinnegan_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 
@@ -33953,8 +35410,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 We already did this AkatsukiConsolidateControl_2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 
@@ -34011,8 +35471,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"RefineTailedBeastResearch_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 
@@ -34373,8 +35836,11 @@ The hidden cave hummed with the chilling satisfaction of absolute control. Akats
 God Mode:
 AkatsukiConsolidateControl_2 this is done. keep it in game state or something
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 
@@ -34611,8 +36077,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 God Mode:
 now you put me back in the wrong state again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 
@@ -34678,8 +36147,11 @@ I await your **final approval** before integrating this change and then providin
 God Mode:
 final approval
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 
@@ -34889,8 +36361,11 @@ CURRENT GAME STATE:
 > 👤 **Player:**
 > *"conitnue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 
@@ -34940,8 +36415,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"ResearchNagatoRinnegan_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 
@@ -35032,8 +36510,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"RefineTailedBeastResearch_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 
@@ -35126,8 +36607,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"GlobalInfluenceConsolidation_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 
@@ -35232,8 +36716,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"PurgeResistance_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 
@@ -35322,8 +36809,11 @@ What is Itachi's next action?
 
 GlobalMindControl_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 
@@ -35444,8 +36934,11 @@ My cold intellect demands the most efficient path to consolidating power and mov
 > 👤 **Player:**
 > *"GlobalMindControl_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 
@@ -35703,8 +37196,11 @@ CURRENT GAME STATE:
 God Mode:
 EstablishGlobalInfrastructure_3 and the game state is fine lets continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 
@@ -36179,8 +37675,11 @@ PrepareDefensesIntelligence_3 and RefinePersonalAbilities_2 in the meantime
 God Mode:
 PrepareDefensesIntelligence_3 and RefinePersonalAbilities_2 in the meantime
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 
@@ -36216,8 +37715,11 @@ I await your confirmation before proceeding to `STORY MODE`.
 1.  **Primary Focus: Prepare Defenses & Intelligence (`PrepareDefensesIntelligence_3`):** Itachi will dedicate his primary, immediate efforts to this critical, time-sensitive task of addressing the incoming Otsutsuki Watcher. This involves directing his networks, gathering intelligence, and setting up defenses.
 2.  **Secondary Background Focus: Refine Personal Abilities (`RefinePersonalAbilities_2`):** During the time elapsed by the primary action, Itachi (and Sasuke, if relevant to the specific research) will *autonomously* dedicate any available mental processing capacity and regenerated energy to this research in the background. The progress for this secondary action will be somewhat slower than if it were a primary focus, and its XP reward (if any) might be slightly adjusted to reflect this background effort. This allows for continuous growth while prioritizing the immediate threat."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 
@@ -36639,8 +38141,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Thikn. When is this watcher coming?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 
@@ -36900,8 +38405,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. when is the watcher coming"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 
@@ -36971,8 +38479,11 @@ What is Itachi's next action?
 
 Think. when is the watcher coming"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 
@@ -37056,8 +38567,11 @@ What is Itachi's next action?
 God Mode:
 my server crashed, relist your last response and give me all the core memories to update"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-501"></a>
 #### Scene 501
 
 > 
@@ -37305,8 +38819,11 @@ I await your command to continue.
 God Mode:
 Give me just core memories updates in GOD_MODE_SET format please
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-502"></a>
 #### Scene 502
 
 > 
@@ -37346,8 +38863,11 @@ custom_campaign_state.core_memories.append = "Otsutsuki Watcher's precise arriva
 God Mode:
 back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-503"></a>
 #### Scene 503
 
 > 
@@ -37604,8 +39124,11 @@ CURRENT GAME STATE:
 God Mode:
 give me the game state set command the proper way please
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-504"></a>
 #### Scene 504
 
 > 
@@ -37840,8 +39363,11 @@ Once you have applied this, please provide your next input, beginning with `PLAY
 > 👤 **Player:**
 > *"continue story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-505"></a>
 #### Scene 505
 
 > 
@@ -37927,8 +39453,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"InfiniteTsukuyomi_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-506"></a>
 #### Scene 506
 
 > 
@@ -38285,8 +39814,11 @@ Itachi and Sasuke are currently incapacitated. Their consciousness is needed for
 > 👤 **Player:**
 > *"TimeSkipRecovery_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-507"></a>
 #### Scene 507
 
 > 
@@ -38361,8 +39893,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"AnalyzeCosmicWeaver_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-508"></a>
 #### Scene 508
 
 > 
@@ -38719,8 +40254,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"Think. If we loosen up infinite tsukuyomi will it reduce attention? We can give everyone back free will and only stop them from breaking laws or doing something chaotic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-509"></a>
 #### Scene 509
 
 > 
@@ -38782,8 +40320,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"MergeTenTails_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-510"></a>
 #### Scene 510
 
 > 
@@ -39149,8 +40690,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"CounterCosmicWeaver_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-511"></a>
 #### Scene 511
 
 > 
@@ -39399,8 +40943,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"CounterCosmicWeaver_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-512"></a>
 #### Scene 512
 
 > 
@@ -39693,8 +41240,11 @@ CURRENT GAME STATE:
 > 👤 **Player:**
 > *"think. how long can i prepare before forced to fight matriarch? sasuke can help me too?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-513"></a>
 #### Scene 513
 
 > 
@@ -39756,8 +41306,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"PerfectCosmicTimelines_3 until it seems like I am forced into a fight and then do ConfrontPrimeMatriarch_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-514"></a>
 #### Scene 514
 
 > 
@@ -39878,8 +41431,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"ConfrontPrimeMatriarch_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-515"></a>
 #### Scene 515
 
 > 
@@ -40020,8 +41576,11 @@ What happens now?
 > *"think. how to de-risk
 EngageExtraCosmicObserver_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-516"></a>
 #### Scene 516
 
 > 
@@ -40121,8 +41680,11 @@ The narrative ends here, with Itachi Uchiha's ultimate victory. His "Great Unify
 > 👤 **Player:**
 > *"think. success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-517"></a>
 #### Scene 517
 
 > 
@@ -40151,8 +41713,11 @@ Awaiting your decision in DM MODE.
 > 👤 **Player:**
 > *"**Write an Extended Epilogue:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-518"></a>
 #### Scene 518
 
 > 
@@ -40189,8 +41754,11 @@ let me continue the campaign and mess around even without an antagonist
 
 let me continue the campaign and mess around even without an antagonist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-519"></a>
 #### Scene 519
 
 > 
@@ -40259,8 +41827,11 @@ What is Itachi's next action in this state of absolute dominion?
 > 👤 **Player:**
 > *"HarmonizeTimelines_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-520"></a>
 #### Scene 520
 
 > 
@@ -40545,8 +42116,11 @@ What is Itachi's next action in this state of absolute dominion?
 > 👤 **Player:**
 > *"tell sasuke I killed the uchiha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-521"></a>
 #### Scene 521
 
 > 
@@ -40769,8 +42343,11 @@ The universe, in its perfect stillness, registered the integration of this final
 > 👤 **Player:**
 > *"lets give people back free will"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-522"></a>
 #### Scene 522
 
 > 
@@ -40852,8 +42429,11 @@ What is Itachi's next action?
 > 👤 **Player:**
 > *"ReintroduceFreeWill_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-523"></a>
 #### Scene 523
 
 > 
@@ -41091,8 +42671,11 @@ What is Itachi's next action in this state of absolute dominion with newly reint
 > 👤 **Player:**
 > *"Think. Sasuke is rinnegan level. Can I make him six sage level or close to me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-524"></a>
 #### Scene 524
 
 > 
@@ -41159,8 +42742,11 @@ What is Itachi's next action in this state of absolute dominion?
 > 👤 **Player:**
 > *"ExperimentReality_2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-525"></a>
 #### Scene 525
 
 > 
@@ -41450,8 +43036,11 @@ What is Itachi's next action in this state of absolute dominion with limited fre
 > 👤 **Player:**
 > *"ElevateSasuke_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-526"></a>
 #### Scene 526
 
 > 
@@ -41589,8 +43178,11 @@ What is Itachi's next action in this state of absolute dominion with a newly asc
 > 👤 **Player:**
 > *"IntroduceControlledChallenges_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-527"></a>
 #### Scene 527
 
 > 
@@ -41704,6 +43296,8 @@ What is Itachi's next action in this state of absolute dominion with a newly asc
 }
 [END_STATE_UPDATES_PROPOSED]
 ```
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

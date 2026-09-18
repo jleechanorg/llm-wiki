@@ -12,55 +12,71 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (34 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Setting: I wanna be a blacksmith in baldurs gate after events bg3 and let’s do no or minimal combat to start.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown | , DR (00:00) | Roleplay |
-| **03** | Baldur's Gate - The Lower City | Hammer 1, 1492 DR (12:00) | Roleplay |
-| **04** | Baldur's Gate - The Iron-Wrought Forge | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **05** | Iron-Wrought Forge | Hammer 1, 1492 DR (09:00) | Roleplay |
-| **06** | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:00) | Roleplay |
-| **07** | The Iron-Wrought Forge | Hammer 1, 1493 DR (12:00) | Roleplay |
-| **08** | The Iron-Wrought Forge | Hammer 1, 1493 DR (12:00) | Roleplay |
-| **09** | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:00) | Roleplay |
-| **10** | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:00) | Roleplay |
-| **11** | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:15) | Roleplay |
-| **12** | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:15) | Roleplay |
-| **13** | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:30) | Social Challenge |
-| **14** | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:00) | Roleplay |
-| **15** | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:15) | Roleplay |
-| **16** | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:25) | Roleplay |
-| **17** | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:25) | Roleplay |
-| **18** | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:25) | Roleplay |
-| **19** | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:45) | Roleplay |
-| **20** | The Iron-Wrought Forge | Hammer 1, 1493 DR (10:30) | Roleplay |
-| **21** | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:00) | Roleplay |
-| **22** | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:15) | Boss Surrender |
-| **23** | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:15) | Roleplay |
-| **24** | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:15) | Roleplay |
-| **25** | The Heavy Hammer | Hammer 1, 1493 DR (11:30) | Roleplay |
-| **26** | The Heavy Hammer | Hammer 4, 1493 DR (09:00) | Roleplay |
-| **27** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 5, 1493 DR (08:00) | Roleplay |
-| **28** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 5, 1493 DR (08:00) | Roleplay |
-| **29** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
-| **30** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
-| **31** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
-| **32** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
-| **33** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
-| **34** | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Baldur's Gate - The Lower City | Hammer 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Baldur's Gate - The Iron-Wrought Forge | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Iron-Wrought Forge | Hammer 1, 1492 DR (09:00) | Roleplay |
+| [**Scene 06**](#scene-6) | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:00) | Roleplay |
+| [**Scene 07**](#scene-7) | The Iron-Wrought Forge | Hammer 1, 1493 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | The Iron-Wrought Forge | Hammer 1, 1493 DR (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:00) | Roleplay |
+| [**Scene 10**](#scene-10) | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:00) | Roleplay |
+| [**Scene 11**](#scene-11) | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:15) | Roleplay |
+| [**Scene 12**](#scene-12) | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:15) | Roleplay |
+| [**Scene 13**](#scene-13) | The Iron-Wrought Forge | Hammer 1, 1493 DR (08:30) | Social Challenge |
+| [**Scene 14**](#scene-14) | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:00) | Roleplay |
+| [**Scene 15**](#scene-15) | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:15) | Roleplay |
+| [**Scene 16**](#scene-16) | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:25) | Roleplay |
+| [**Scene 17**](#scene-17) | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:25) | Roleplay |
+| [**Scene 18**](#scene-18) | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:25) | Roleplay |
+| [**Scene 19**](#scene-19) | The Iron-Wrought Forge | Hammer 1, 1493 DR (09:45) | Roleplay |
+| [**Scene 20**](#scene-20) | The Iron-Wrought Forge | Hammer 1, 1493 DR (10:30) | Roleplay |
+| [**Scene 21**](#scene-21) | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:00) | Roleplay |
+| [**Scene 22**](#scene-22) | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:15) | Boss Surrender |
+| [**Scene 23**](#scene-23) | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:15) | Roleplay |
+| [**Scene 24**](#scene-24) | The Iron-Wrought Forge | Hammer 1, 1493 DR (11:15) | Roleplay |
+| [**Scene 25**](#scene-25) | The Heavy Hammer | Hammer 1, 1493 DR (11:30) | Roleplay |
+| [**Scene 26**](#scene-26) | The Heavy Hammer | Hammer 4, 1493 DR (09:00) | Roleplay |
+| [**Scene 27**](#scene-27) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 5, 1493 DR (08:00) | Roleplay |
+| [**Scene 28**](#scene-28) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 5, 1493 DR (08:00) | Roleplay |
+| [**Scene 29**](#scene-29) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
+| [**Scene 30**](#scene-30) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
+| [**Scene 31**](#scene-31) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
+| [**Scene 32**](#scene-32) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
+| [**Scene 33**](#scene-33) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
+| [**Scene 34**](#scene-34) | The Iron-Wrought Forge / The Heavy Hammer | Hammer 8, 1493 DR (08:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -70,8 +86,11 @@ Setting: I wanna be a blacksmith in baldurs gate after events bg3 and let’s do
 > 👤 **Player:**
 > *"Give me a random name and backstory. Let’s assume my parents died and I needed to inherit the shop early"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Fighter | HP: 13/13 | XP: 0/300** &nbsp;|&nbsp; ✨ **None**
@@ -106,8 +125,11 @@ Based on your request for a random name and backstory, here is a character conce
 > 👤 **Player:**
 > *"Make me custom class maybe blacksmith cleric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Baldur's Gate - The Lower City** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Blacksmith Cleric | HP: 10/10 | Gold: 15gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Cantrips: 3/3**
@@ -151,8 +173,11 @@ A "Blacksmith Cleric" is a powerful choice for a re-emerging Baldur's Gate. In t
 > 👤 **Player:**
 > *"show me level progression up to 30 and make me like a war cleric but with additional blacksmith abilities/skills"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Baldur's Gate - The Iron-Wrought Forge** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric | HP: 10/10 | Gold: 15gp | XP: 0/300** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -189,8 +214,11 @@ To bridge the gap between a Divine Smith and a War Cleric, your progression emph
 > 👤 **Player:**
 > *"ok accept progression and make sure i have proper initial gear/items/skills and give me 1000g and various blacksmith inventory to start and give me even number ability scores and focus on wis/str/cha for stats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Iron-Wrought Forge, Lower City, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric | HP: 10/10 | Gold: 1000gp | XP: 0/300**
@@ -228,8 +256,11 @@ Does this character meet your approval for the story of the Iron-Wrought Forge, 
 > 👤 **Player:**
 > *"give me an interesting backstory and generate at least 20 different secondary characters and various factions and then start game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric | HP: 10/10 | Gold: 1000gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Smith's Tools: Expertise | Exhaustion: 0**
@@ -274,8 +305,11 @@ lets assume there's a smiths guild and I'm just an apprenteice, give me 5 differ
 
 give me two younger siblings I am looking after
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 1000gp | XP: 0/300**
@@ -296,8 +330,11 @@ Administrative updates complete. The world state has been adjusted to reflect yo
 God Mode:
 make me pretty good looking, like top 5% of humanoids. 16 str, 16 wis, 8 dex, 14 con, 12 cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Gold: 1000gp | XP: 0/300**
@@ -310,8 +347,11 @@ Administrative Summary:
 > 👤 **Player:**
 > *"narrate beginning scene, i open shop for business and siblings are helping me, remember no combat for now, focus on trade"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric | HP: 10/10 | Gold: 1000gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Slots: 2/2, Smithing Stock: 20 Iron / 10 Steel** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -329,8 +369,11 @@ Your first customer arrives before the shutters are even fully latched: Sergeant
 > 👤 **Player:**
 > *"THINK:how to make him a regular customer? maybe discount and display forge smith arts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Rank: Apprentice | Gold: 1,000gp | XP: 0/300**
@@ -340,8 +383,11 @@ Wisdom (Insight) Check: 14 vs DC 8 — Success. Your natural intuition (WIS 16) 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neighborhood Professional Rate - Offer the 3gp rate but frame it as a 'First Responder' courtesy for those rebuilding the Gate. Ask him to mention the shop to his squad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 1000gp | XP: 25/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Smithing: Regular Use** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -363,8 +409,11 @@ Tilda (Lvl 1) quickly scratches the three gold pieces into the ledger, her quill
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Community Pillar' Strategy (Synergistic) - Offer the discount AND perform the Forge Arts while Tilda manages the paperwork. Frame it as the Iron-Wroughts supporting the Flaming Fist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith Cleric | HP: 10/10 | Gold: 1,002gp | XP: 30/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -380,8 +429,11 @@ As the metal yields beneath your father's hammer, glowing with a soft, sanctifie
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Masterwork Finish - Focus entirely on the tempering process. Use your expertise to make the steel harder than it was before the dent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Iron-Wrought Forge,rought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 1002gp | XP: 65/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Guidance: At-Will | Smith's Tools: Expertise** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -409,8 +461,11 @@ Outside, you notice a shadow lingering across the street. Thrum Bone-Breaker (Lv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare for the Rush - If Gauntlet talks, we might get more Fist guards soon. Organize the iron ingots and prep the secondary anvil for Bram to assist with basic straightening.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Gold: 1,002gp | XP: 75/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -428,8 +483,11 @@ Despite the minor chaos, you spend the next half hour training Bram on how to st
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Approaching Merchant - A well-dressed merchant is slowing down near the shop, eyeing the blue-tempered steel you left on the display rack. Engage him professionally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Gold: 1002gp | XP: 75/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Smith's Stock: 20 Iron/10 Steel/50 Coal** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -449,8 +507,11 @@ Master Horgun lingers for a moment, his eyes drifting back to the blue-tempered 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Five-Minute Challenge - Challenge Horgun to time you. Take a raw iron rod and use 'Artisan's Blessing' or pure skill to forge a perfect crane-hook in minutes, proving efficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric | HP: 10/10 | Gold: 1,002gp | XP: 120/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Channel Divinity: 0/0 (Lvl 2+) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -480,8 +541,11 @@ As the merchant steps inside to finalize the preliminary paperwork with Tilda (L
 > 👤 **Player:**
 > *"THINK:How handle guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Gold: 1,002gp | XP: 120/300** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -491,8 +555,11 @@ Wisdom (Planning) Check: 12 vs DC 13 — Failed by 1. Your instincts are sharp, 
 > 👤 **Player:**
 > *"THINK:Could I make better deal guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Gold: 1,002gp | XP: 120/300** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -502,8 +569,11 @@ Wisdom (Planning) Check: 19 vs DC 11 — Success. Your sharp intuition (WIS 16) 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Exclusivity Offer - Meet the collector and offer a lower 5% tithe plus a 'Divine Warranty'—you will personally sanctify the Guild's own safehouse locks and vault hinges, making them near-unbreakable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric | HP: 10/10 | Gold: 1,002gp | XP: 120/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Slots: L1 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -523,8 +593,11 @@ Across the street, Thrum Bone-Breaker (Lvl 5) doesn't hide his grin this time. H
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Master's Mediation - Send Silfy to the Forge of the Nine. Ask Dammon to vouch for the Iron-Wrought quality to the Guild. Varek won't listen to an apprentice, but he'll listen to the man who supplied the High Hall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 1,002gp | XP: 135/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -546,8 +619,11 @@ Across the street, Thrum Bone-Breaker lets out a low, predatory whistle. He’s 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Settle the Guild Debt - Don't wait for sundown. Count out the 50gp and send Tilda to the Guild office now. If Horgun sees the Guild is 'satisfied,' he might believe the risk is managed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 952gp | XP: 135/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Gold: 952gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -565,8 +641,11 @@ Across the street, Thrum Bone-Breaker (Lvl 5) watches Tilda return an hour later
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ignore the Rivalry - Double down on the technical discussion. Walk Horgun through the specific metallurgical improvements you can offer for the harbor's unique salt-water environment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 952gp | XP: 165/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Smith's Tools: Expertise | Coal: 49/50** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -595,8 +674,11 @@ You gain **30 XP** for securing the harbor contract through technical mastery an
 > 👤 **Player:**
 > *"THINK:How can I stop this thrum rivalry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Gold: 952gp | XP: 165/300**
@@ -606,8 +688,11 @@ You pause, the rhythm of your hammer slowing as you look across the street towar
 > 👤 **Player:**
 > *"THINK:Offer shared partnership and flatter him a bit as he’s a level 5. Say we can both profit and I’ll focus on specialized pieces and he can handle the large volume I don’t have the scale for. Propose I join one of his contracts and he joins one of mine. How about this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Iron-Wrought Forge, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith | HP: 10/10 | Gold: 952gp | XP: 165/300**
@@ -617,8 +702,11 @@ You lean against your anvil, watching the rhythmic rise and fall of Thrum's hamm
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Flattered Foundryman (Recommended) - Cross the street with the harbor hook. Acknowledge his seniority ('Thrum, an apprentice knows when he's outmatched in scale') and propose he handles the structural casting while you finish with your divine tempering. Offer to let him take the lead on the Guild manifests.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 1, 1493 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 952gp | XP: 195/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -636,8 +724,11 @@ The half-orc smith looks at the hook, then at his own journeymen, who have slowe
 > 👤 **Player:**
 > *"Finalize logistics with thrum and let him see my smith work on contracts that he brings me in on. Time skip a few days and roll for how it goes. Try to stay humble as an “apprentice” who needs his guidance and protection from the guild and impress him and show him that I’m an asset"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 4, 1493 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 973gp | XP: 235/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -664,8 +755,11 @@ However, the morning's work has been tense. A batch of crane-hooks cooled with a
 > 👤 **Player:**
 > *"Long rest and work normal hours both forges and see if I can impress him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 5, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | Gold: 973gp | XP: 265/300** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -683,8 +777,11 @@ Despite your failure to truly 'impress' him with your divine mastery, the work i
 God Mode:
 Did you forget to roll guidance? Always roll it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 5, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) | HP: 10/10 | XP: 265/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2**
@@ -696,8 +793,11 @@ Starting from the next story turn, I will include a 1d4 roll in the `action_reso
 > 👤 **Player:**
 > *"Time skip a few days and try impress him again. Focus on doing g things his volume way for now to first prove I can follow his direction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 8, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith (Lvl 2 available) | HP: 10/10 | Gold: 973gp | XP: 305/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Guidance: At-Will, Lay on Hands: N/A** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -715,8 +815,11 @@ You feel a surge of divine clarity as you strike your own anvil this morning—t
 God Mode:
 Did you forget guidance here? 1d20+5 = 8 vs DC 12 - Failure (Work Efficiency (Smith's Tools + STR))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 8, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Forge Smith Cleric (Lvl 2 available) | HP: 10/10 | Gold: 973gp | XP: 305/300** &nbsp;|&nbsp; ⚠️ **Exhaustion (1) | Inspiration: No**
@@ -737,8 +840,11 @@ Administrative Correction: Roll recorded for the previous work cycle.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Commune with the Soul of the Forge to gain your Level 2 features, including Channel Divinity: Artisan's Blessing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 8, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) (Lvl 2 available) | HP: 10/10 | Gold: 973gp | XP: 305/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2 pending), Gold: 973** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -751,8 +857,11 @@ The heavy heat of Thrum's foundry seems to draw back as you focus inward, the rh
 > 👤 **Player:**
 > *"What spells optimal for black smithing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 8, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Lvl 2 available) | HP: 10/10 | Gold: 973gp | XP: 305/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2 pending), Gold: 973gp**
@@ -771,8 +880,11 @@ Optimal blacksmithing spells for a Forge Smith:
 > 👤 **Player:**
 > *"Apply recommended especially smithing spells and return to game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 8, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) (Lvl 2 available) | HP: 17/17 | Gold: 973gp | XP: 305/300** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Channel Divinity: 1/1, Lay on Hands: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -788,8 +900,11 @@ Across the street, the rhythm of 'The Heavy Hammer' has resumed its relentless p
 > 👤 **Player:**
 > *"Apply recommended especially smithing spells and return to game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Iron-Wrought Forge / The Heavy Hammer** &nbsp;|&nbsp; ⏳ **Hammer 8, 1493 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Cleric (Forge Smith) (Lvl 2 available) | HP: 17/17 | Gold: 973gp | XP: 305/300** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Channel Divinity: 1/1, Lay on Hands: No, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -801,6 +916,8 @@ The cool, white radiance of the Forge Soul fades, leaving you standing in the sw
 You exhale, the soot-laden air of the foundry feeling less oppressive. You've prepared the blessings of the forge: *Shield of Faith* to protect your workspace, *Bless* to steady your siblings' hands, and the curative magics necessary to mend the inevitable burns and scrapes of the trade. More importantly, you feel the potential of the *Artisan's Blessing* stirring—the ability to draw upon the divine to transform raw metal into finished works of art with a mere hour of ritual. 
 
 Across the street, the rhythm of 'The Heavy Hammer' has resumed its relentless pace. Thrum is watching you from the shadows of his doorway, a massive structural beam cooling beside him. The first week of the harbor contract is nearly complete, and the Lower City is beginning to take notice of the blue-tempered steel bearing the Iron-Wrought mark.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

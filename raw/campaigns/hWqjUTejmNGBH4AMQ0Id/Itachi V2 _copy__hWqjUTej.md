@@ -12,130 +12,144 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🗺️ Scene Index & Timeline
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Konohagakure - ANBU Headquarters | Month 1, 55 AF (Day 1) | Roleplay |
-| **02** | Konohagakure - ANBU Headquarters | Month 1, 55 DR (Day 1) | Roleplay |
-| **03** | Konohagakure - ANBU Headquarters | Month 1, 55 AF (Day 1) | Roleplay |
-| **04** | Iron Fern Valley - Primary Geyser Cluster | Month 1 Day 1, 55 DR (23:15) | Roleplay |
-| **05** | Iron Fern Valley - Primary Geyser Cluster | Month 1, 55 DR (Day 1) | Roleplay |
-| **06** | Uchiha District - Naka River Pier | Month 1, Year 55 (Day 2) | Roleplay |
-| **07** | Uchiha District - Naka River Pier | Month 1, 55 DR (Day 2) | Roleplay |
-| **08** | Uchiha District - Naka River Pier | Month 1 Day 2, 55 DR (05:15) | Roleplay |
-| **09** | Uchiha District - Naka Shrine | Month 1 Day 2, 55 DR (07:30) | Roleplay |
-| **10** | Uchiha Estate - Private Quarters | Month 1, 55 DR (Day 2) | Roleplay |
-| **11** | Uchiha Estate - Private Quarters | Month 1 Day 2, 55 DR (13:15) | Roleplay |
-| **12** | Uchiha District - Naka Shrine | Month 1 Day 2, 55 DR (18:15) | Roleplay |
-| **13** | Uchiha District - Naka Shrine Archives | 1 2, 55 DR (19:35) | Roleplay |
-| **14** | Uchiha District - Naka Shrine Archives |  | Roleplay |
-| **15** | Uchiha District - Tactical Planning Room | 1 Month, 55 Year (2 Day) | Roleplay |
-| **16** | Uchiha District Perimeter | 1 Month 2, 55 Year (20:52) | Roleplay |
-| **17** | Konohagakure - Hokage's Residence Perimeter | Month 1, 55 DR (Day 2) | Roleplay |
-| **18** | Cedar Forest - Retreat Path | Month 1, 55 AF (Day 2) | Social Challenge |
-| **19** | Naka River Cliffside | Month 1 Day 2, 55 DR (23:35) | Roleplay |
-| **20** | Naka River Cliffside | Month 1 Day 2, 55 DR (23:35) | Roleplay |
-| **21** | Naka River Forest | Month 1 Day 2, 55 DR (23:45) | Roleplay |
-| **22** | Naka River - High Ridges | Month 1 Day 3, 55 DR (01:30) | Roleplay |
-| **23** | Uchiha Estate - Fugaku's Study | Month 1, 55 AF (Day 3) | Roleplay |
-| **24** | Uchiha Estate - Fugaku's Study | Month 1, 55 DR (Day 3) | Boss Surrender |
-| **25** | Uchiha District - Naka Shrine | 1 Month 3, 55 Year (01:46) | Roleplay |
-| **26** | Administrative District - Root Sector Entrance | Month 1, 55 DR (Day 3) | Roleplay |
-| **27** | Root Logistical Sector - Intermediate Level | 1 Month 3, 55 Year (02:03) | Roleplay |
-| **28** | Root Logistical Sector - Command Sanctum | Month 1, Year 55 (Day 3) | Roleplay |
-| **29** | Root Logistical Sector - Command Sanctum | 1 3, 55 DR (02:10) | Roleplay |
-| **30** | Hokage Tower | Month 1, Year 55 (Day 3) | Roleplay |
-| **31** | Uchiha District - Naka Shrine | Month 1, 55 DR (Day 3) | Roleplay |
-| **32** | Konoha Northern Perimeter - Relay Point | Month 1 Day 3, 55 DR (14:00) | Roleplay |
-| **33** | Uchiha Estate - Study | Month 4, Year 55 (Day 3) | Roleplay |
-| **34** | Hokage Tower - Office | 4 3, 55 DR (19:00) | Social Challenge |
-| **35** | Hokage Tower - Office | Month 4, 55 DR (Day 3) | Roleplay |
-| **36** | Port of Haze - Southern Coast | Month 4, 55 Year (Day 4) | Roleplay |
-| **37** | Port of Haze - Southern Coast | Month 4, Year 55 (Day 4) | Roleplay |
-| **38** | Port of Haze - Southern Coast | 4 Month 4, 55 Year (06:15) | Roleplay |
-| **39** | Kirigakure - Mizukage Estate (Konoha Command) | Month 12, Year 55 (Day 3) | Roleplay |
-| **40** | Uchiha District - Main Hall | Month 6, Year 55 (Day 10) | Roleplay |
-| **41** | Uchiha District - Main Hall | Month 6, Year 55 (Day 10) | Roleplay |
-| **42** | Hokage Tower | Month 6, 57 DR (Day 10) | Roleplay |
-| **43** | Hokage Tower - Rooftop | Month 1, Year 58 (Day 10) | Roleplay |
-| **44** | Hokage Tower - Rooftop | Month 10, Year 55 (Day 10) | Social Challenge |
-| **45** | Hokage Tower - Study | Month 1, Year 58 (Day 10) | Social Challenge |
-| **46** | Hokage Tower - Study | Month 10, Year 55 (Day 10) | Social Challenge |
-| **47** | Northern Border - Land of Frost | Month 1, 58 DR (Day 10) | Social Challenge |
-| **48** | Land of Frost Ravine | Month 1, 58 DR (Day 10) | Social Challenge |
-| **49** | Land of Frost Ravine | Month 1, 58 DR (Day 10) | Roleplay |
-| **50** | Hokage Tower - Study | Month 1, Year 58 (Day 11) | Roleplay |
-| **51** | Hokage Tower - Study | Month 1, Year 58 (Day 11) | Social Challenge |
-| **52** | Konoha Academy Training Grounds | Day 10, 61 Leaf (12:00) | Roleplay |
-| **53** | Hokage Tower - Fifth's Study | Autumn, Year 64 (Day 10) | Roleplay |
-| **54** | Neutral Zone - Iron Country Borders | Spring, Year 65 (Day 17) | Social Challenge |
-| **55** | Neutral Zone - Summit Fortress Hall | Spring 17, 61 DR (11:00) | Roleplay |
-| **56** | Neutral Zone - Summit Fortress Hall | Spring 17, 61 DR (11:05) | Social Challenge |
-| **57** | Konohagakure - Hokage Tower Roof | Spring, 61 DR (Day 45) | Boss Surrender |
-| **58** | Amenominaka: Core Dimension | Spring, Year 62 DR (Day 5) | Social Challenge |
-| **59** | Amenominaka: Core Dimension | Spring, Year 62 DR (13:05) | Social Challenge |
-| **60** | Land of Iron - The Frost-Bitten Grave | Spring, 65 DR (Day 16) | Roleplay |
-| **61** | Konohagakure - Training Ground 7 | Spring 15, 71 DR (12:00) | Roleplay |
-| **62** | Konohagakure - Training Ground 7 | Spring, Year 71 (Day 15) | Roleplay |
-| **63** | Uchiha Estate - Main Hall | Spring 15, 71 DR (21:00) | Social Challenge |
-| **64** | Training Ground 7 | Spring, 71 DR (Day 36) | Social Challenge |
-| **65** | Forest of Death - Observation Tower | Spring, Year 71 DR (14:30) | Roleplay |
-| **66** | Uchiha District - Main Hall | Spring 39, 71 DR (19:50) | Boss Surrender |
-| **67** | Land of Valleys - Forest Perimeter | Spring, 71 DR (Day 39) | Roleplay |
-| **68** | Uchiha Estate - Private Dojo | Spring 39, 71 DR (19:40) | Social Challenge |
-| **69** | Hokage Tower - Briefing Room 1 | Spring 40, 71 DR (09:05) | Social Challenge |
-| **70** | Land of Valleys - Iron Fang Gorge | Autumn 21, 71 DR (19:00) | Roleplay |
-| **71** | Land of Valleys - Iron Fang Gorge | Autumn, 71 DR (Day 21) | Roleplay |
-| **72** | Land of Valleys - Iron Fang Gorge | Autumn 21, 71 DR (19:45) | Social Challenge |
-| **73** | Land of Valleys - Iron Fang Gorge (Camp) | Autumn, 71 DR (Day 21) | Boss Surrender |
-| **74** | Land of Valleys - Iron Fang Gorge (Camp) | Autumn 21, 71 DR (20:20) | Social Challenge |
-| **75** | Northwestern Perimeter - High Command Camp | Autumn 64, 71 DR (08:00) | Roleplay |
-| **76** | Stone Supply Hub 'Titan's Rib' | Autumn 64, 71 DR (23:45) | Social Challenge |
-| **77** | Stone Supply Hub 'Titan's Rib' | Autumn, 71 DR (Day 64) | Social Challenge |
-| **78** | Stone Supply Hub 'Titan's Rib' | Autumn 64, 71 DR (23:47) | Social Challenge |
-| **79** | Hokage Tower - Office | Autumn, 71 DR (Day 65) | Boss Surrender |
-| **80** | Whispering Reef (Southern Coastal Sector ) | Winter, 71 DR (14:30) | Roleplay |
-| **81** | Southern Trade Road - Land of Fire | Winter, 71 DR (Day 155) | Roleplay |
-| **82** | Uchiha Estate - Garden | Winter 15, 75 DR (02:40) | Social Challenge |
-| **83** | Uchiha Estate - Garden | Winter, 75 DR (Month 1) | Roleplay |
-| **84** | Uchiha Estate - Garden | Winter, 75 DR (Month 1) | Roleplay |
-| **85** | Land of Frost - Gedo Ravine | Winter, 75 DR (Month 1) | Roleplay |
-| **86** | Uchiha Estate - Private Dojo | Winter, 78 DR (Month 1) | Roleplay |
-| **87** | Uchiha Estate - Private Dojo | Winter, 78 DR (Month 1) | Boss Surrender |
-| **88** | Uchiha Estate - Private Dojo | Winter, 78 DR (Month 1) | Boss Surrender |
-| **89** | Konohagakure - War Room | Winter, 78 DR (Month 1) | Roleplay |
-| **90** | Konohagakure - War Room | Winter, 78 DR (Month 1) | Social Challenge |
-| **91** | Konohagakure - War Room | Winter, 75 DR (Month 1) | Social Challenge |
-| **92** | Uchiha District - Assembly Hall | Winter, 78 DR (Month 4) | Social Challenge |
-| **93** | Uchiha Estate - Private Dojo | Spring, 78 DR (Month 1) | Social Challenge |
-| **94** | Uchiha Estate - Private Dojo | Spring, 78 DR (Month 1) | Social Challenge |
-| **95** | Uchiha Estate - Garden | Spring, 78 DR (Month 2) | Roleplay |
-| **96** | Hokage Tower - Briefing Room 1 | Spring, 78 DR (Month 1) | Social Challenge |
-| **97** | Hokage Tower - Briefing Room 1 | Spring, 78 DR (Month 4) | Social Challenge |
-| **98** | Hokage Tower - Briefing Room 1 | Spring, 78 DR (Day 4) | Boss Surrender |
-| **99** | Summit of the Five Nations - Land of Iron | Spring, 80 DR (Month 3) | Roleplay |
-| **100** | Uchiha God-Citadel (Imperial Dining Hall) | Spring, 85 DR (Month 1) | Social Challenge |
-| **101** | Uchiha God-Citadel (Imperial Dining Hall) | Spring, 85 DR (Month 1) | Boss Surrender |
-| **102** | Uchiha God-Citadel - Observation Balcony | Summer, 85 DR (Month 4) | Boss Surrender |
-| **103** | Uchiha God-Citadel - Observation Balcony | Summer, 85 DR (Month 1) | Social Challenge |
-| **104** | Uchiha Estate - Garden | Spring, 92 DR (Month 4) | Roleplay |
-| **105** | Uchiha Estate - Garden | Autumn, 95 DR (Month 3) | Roleplay |
-| **106** | Uchiha Estate - Garden | Winter, 100 DR (Month 1) | Roleplay |
-| **107** | Uchiha Estate - Private Dojo | Autumn, 108 DR (Month 9) | Boss Surrender |
-| **108** | Hokage Tower - Office of the Fifth | Autumn, 108 DR (Month 1) | Boss Surrender |
-| **109** | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Boss Surrender |
-| **110** | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Roleplay |
-| **111** | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Roleplay |
-| **112** | The Pan-Substrate | Winter, 125 DR (Month 1) | Roleplay |
-| **113** | The Pan-Substrate | Winter, 125 DR (Month 1) | Roleplay |
-| **114** | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Roleplay |
+- [🗺️ Scene Index & Timeline (114 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Konohagakure - ANBU Headquarters | Month 1, 55 AF (Day 1) | Roleplay |
+| [**Scene 02**](#scene-2) | Konohagakure - ANBU Headquarters | Month 1, 55 DR (Day 1) | Roleplay |
+| [**Scene 03**](#scene-3) | Konohagakure - ANBU Headquarters | Month 1, 55 AF (Day 1) | Roleplay |
+| [**Scene 04**](#scene-4) | Iron Fern Valley - Primary Geyser Cluster | Month 1 Day 1, 55 DR (23:15) | Roleplay |
+| [**Scene 05**](#scene-5) | Iron Fern Valley - Primary Geyser Cluster | Month 1, 55 DR (Day 1) | Roleplay |
+| [**Scene 06**](#scene-6) | Uchiha District - Naka River Pier | Month 1, Year 55 (Day 2) | Roleplay |
+| [**Scene 07**](#scene-7) | Uchiha District - Naka River Pier | Month 1, 55 DR (Day 2) | Roleplay |
+| [**Scene 08**](#scene-8) | Uchiha District - Naka River Pier | Month 1 Day 2, 55 DR (05:15) | Roleplay |
+| [**Scene 09**](#scene-9) | Uchiha District - Naka Shrine | Month 1 Day 2, 55 DR (07:30) | Roleplay |
+| [**Scene 10**](#scene-10) | Uchiha Estate - Private Quarters | Month 1, 55 DR (Day 2) | Roleplay |
+| [**Scene 11**](#scene-11) | Uchiha Estate - Private Quarters | Month 1 Day 2, 55 DR (13:15) | Roleplay |
+| [**Scene 12**](#scene-12) | Uchiha District - Naka Shrine | Month 1 Day 2, 55 DR (18:15) | Roleplay |
+| [**Scene 13**](#scene-13) | Uchiha District - Naka Shrine Archives | 1 2, 55 DR (19:35) | Roleplay |
+| [**Scene 14**](#scene-14) | Uchiha District - Naka Shrine Archives |  | Roleplay |
+| [**Scene 15**](#scene-15) | Uchiha District - Tactical Planning Room | 1 Month, 55 Year (2 Day) | Roleplay |
+| [**Scene 16**](#scene-16) | Uchiha District Perimeter | 1 Month 2, 55 Year (20:52) | Roleplay |
+| [**Scene 17**](#scene-17) | Konohagakure - Hokage's Residence Perimeter | Month 1, 55 DR (Day 2) | Roleplay |
+| [**Scene 18**](#scene-18) | Cedar Forest - Retreat Path | Month 1, 55 AF (Day 2) | Social Challenge |
+| [**Scene 19**](#scene-19) | Naka River Cliffside | Month 1 Day 2, 55 DR (23:35) | Roleplay |
+| [**Scene 20**](#scene-20) | Naka River Cliffside | Month 1 Day 2, 55 DR (23:35) | Roleplay |
+| [**Scene 21**](#scene-21) | Naka River Forest | Month 1 Day 2, 55 DR (23:45) | Roleplay |
+| [**Scene 22**](#scene-22) | Naka River - High Ridges | Month 1 Day 3, 55 DR (01:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Uchiha Estate - Fugaku's Study | Month 1, 55 AF (Day 3) | Roleplay |
+| [**Scene 24**](#scene-24) | Uchiha Estate - Fugaku's Study | Month 1, 55 DR (Day 3) | Boss Surrender |
+| [**Scene 25**](#scene-25) | Uchiha District - Naka Shrine | 1 Month 3, 55 Year (01:46) | Roleplay |
+| [**Scene 26**](#scene-26) | Administrative District - Root Sector Entrance | Month 1, 55 DR (Day 3) | Roleplay |
+| [**Scene 27**](#scene-27) | Root Logistical Sector - Intermediate Level | 1 Month 3, 55 Year (02:03) | Roleplay |
+| [**Scene 28**](#scene-28) | Root Logistical Sector - Command Sanctum | Month 1, Year 55 (Day 3) | Roleplay |
+| [**Scene 29**](#scene-29) | Root Logistical Sector - Command Sanctum | 1 3, 55 DR (02:10) | Roleplay |
+| [**Scene 30**](#scene-30) | Hokage Tower | Month 1, Year 55 (Day 3) | Roleplay |
+| [**Scene 31**](#scene-31) | Uchiha District - Naka Shrine | Month 1, 55 DR (Day 3) | Roleplay |
+| [**Scene 32**](#scene-32) | Konoha Northern Perimeter - Relay Point | Month 1 Day 3, 55 DR (14:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Uchiha Estate - Study | Month 4, Year 55 (Day 3) | Roleplay |
+| [**Scene 34**](#scene-34) | Hokage Tower - Office | 4 3, 55 DR (19:00) | Social Challenge |
+| [**Scene 35**](#scene-35) | Hokage Tower - Office | Month 4, 55 DR (Day 3) | Roleplay |
+| [**Scene 36**](#scene-36) | Port of Haze - Southern Coast | Month 4, 55 Year (Day 4) | Roleplay |
+| [**Scene 37**](#scene-37) | Port of Haze - Southern Coast | Month 4, Year 55 (Day 4) | Roleplay |
+| [**Scene 38**](#scene-38) | Port of Haze - Southern Coast | 4 Month 4, 55 Year (06:15) | Roleplay |
+| [**Scene 39**](#scene-39) | Kirigakure - Mizukage Estate (Konoha Command) | Month 12, Year 55 (Day 3) | Roleplay |
+| [**Scene 40**](#scene-40) | Uchiha District - Main Hall | Month 6, Year 55 (Day 10) | Roleplay |
+| [**Scene 41**](#scene-41) | Uchiha District - Main Hall | Month 6, Year 55 (Day 10) | Roleplay |
+| [**Scene 42**](#scene-42) | Hokage Tower | Month 6, 57 DR (Day 10) | Roleplay |
+| [**Scene 43**](#scene-43) | Hokage Tower - Rooftop | Month 1, Year 58 (Day 10) | Roleplay |
+| [**Scene 44**](#scene-44) | Hokage Tower - Rooftop | Month 10, Year 55 (Day 10) | Social Challenge |
+| [**Scene 45**](#scene-45) | Hokage Tower - Study | Month 1, Year 58 (Day 10) | Social Challenge |
+| [**Scene 46**](#scene-46) | Hokage Tower - Study | Month 10, Year 55 (Day 10) | Social Challenge |
+| [**Scene 47**](#scene-47) | Northern Border - Land of Frost | Month 1, 58 DR (Day 10) | Social Challenge |
+| [**Scene 48**](#scene-48) | Land of Frost Ravine | Month 1, 58 DR (Day 10) | Social Challenge |
+| [**Scene 49**](#scene-49) | Land of Frost Ravine | Month 1, 58 DR (Day 10) | Roleplay |
+| [**Scene 50**](#scene-50) | Hokage Tower - Study | Month 1, Year 58 (Day 11) | Roleplay |
+| [**Scene 51**](#scene-51) | Hokage Tower - Study | Month 1, Year 58 (Day 11) | Social Challenge |
+| [**Scene 52**](#scene-52) | Konoha Academy Training Grounds | Day 10, 61 Leaf (12:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Hokage Tower - Fifth's Study | Autumn, Year 64 (Day 10) | Roleplay |
+| [**Scene 54**](#scene-54) | Neutral Zone - Iron Country Borders | Spring, Year 65 (Day 17) | Social Challenge |
+| [**Scene 55**](#scene-55) | Neutral Zone - Summit Fortress Hall | Spring 17, 61 DR (11:00) | Roleplay |
+| [**Scene 56**](#scene-56) | Neutral Zone - Summit Fortress Hall | Spring 17, 61 DR (11:05) | Social Challenge |
+| [**Scene 57**](#scene-57) | Konohagakure - Hokage Tower Roof | Spring, 61 DR (Day 45) | Boss Surrender |
+| [**Scene 58**](#scene-58) | Amenominaka: Core Dimension | Spring, Year 62 DR (Day 5) | Social Challenge |
+| [**Scene 59**](#scene-59) | Amenominaka: Core Dimension | Spring, Year 62 DR (13:05) | Social Challenge |
+| [**Scene 60**](#scene-60) | Land of Iron - The Frost-Bitten Grave | Spring, 65 DR (Day 16) | Roleplay |
+| [**Scene 61**](#scene-61) | Konohagakure - Training Ground 7 | Spring 15, 71 DR (12:00) | Roleplay |
+| [**Scene 62**](#scene-62) | Konohagakure - Training Ground 7 | Spring, Year 71 (Day 15) | Roleplay |
+| [**Scene 63**](#scene-63) | Uchiha Estate - Main Hall | Spring 15, 71 DR (21:00) | Social Challenge |
+| [**Scene 64**](#scene-64) | Training Ground 7 | Spring, 71 DR (Day 36) | Social Challenge |
+| [**Scene 65**](#scene-65) | Forest of Death - Observation Tower | Spring, Year 71 DR (14:30) | Roleplay |
+| [**Scene 66**](#scene-66) | Uchiha District - Main Hall | Spring 39, 71 DR (19:50) | Boss Surrender |
+| [**Scene 67**](#scene-67) | Land of Valleys - Forest Perimeter | Spring, 71 DR (Day 39) | Roleplay |
+| [**Scene 68**](#scene-68) | Uchiha Estate - Private Dojo | Spring 39, 71 DR (19:40) | Social Challenge |
+| [**Scene 69**](#scene-69) | Hokage Tower - Briefing Room 1 | Spring 40, 71 DR (09:05) | Social Challenge |
+| [**Scene 70**](#scene-70) | Land of Valleys - Iron Fang Gorge | Autumn 21, 71 DR (19:00) | Roleplay |
+| [**Scene 71**](#scene-71) | Land of Valleys - Iron Fang Gorge | Autumn, 71 DR (Day 21) | Roleplay |
+| [**Scene 72**](#scene-72) | Land of Valleys - Iron Fang Gorge | Autumn 21, 71 DR (19:45) | Social Challenge |
+| [**Scene 73**](#scene-73) | Land of Valleys - Iron Fang Gorge (Camp) | Autumn, 71 DR (Day 21) | Boss Surrender |
+| [**Scene 74**](#scene-74) | Land of Valleys - Iron Fang Gorge (Camp) | Autumn 21, 71 DR (20:20) | Social Challenge |
+| [**Scene 75**](#scene-75) | Northwestern Perimeter - High Command Camp | Autumn 64, 71 DR (08:00) | Roleplay |
+| [**Scene 76**](#scene-76) | Stone Supply Hub 'Titan's Rib' | Autumn 64, 71 DR (23:45) | Social Challenge |
+| [**Scene 77**](#scene-77) | Stone Supply Hub 'Titan's Rib' | Autumn, 71 DR (Day 64) | Social Challenge |
+| [**Scene 78**](#scene-78) | Stone Supply Hub 'Titan's Rib' | Autumn 64, 71 DR (23:47) | Social Challenge |
+| [**Scene 79**](#scene-79) | Hokage Tower - Office | Autumn, 71 DR (Day 65) | Boss Surrender |
+| [**Scene 80**](#scene-80) | Whispering Reef (Southern Coastal Sector ) | Winter, 71 DR (14:30) | Roleplay |
+| [**Scene 81**](#scene-81) | Southern Trade Road - Land of Fire | Winter, 71 DR (Day 155) | Roleplay |
+| [**Scene 82**](#scene-82) | Uchiha Estate - Garden | Winter 15, 75 DR (02:40) | Social Challenge |
+| [**Scene 83**](#scene-83) | Uchiha Estate - Garden | Winter, 75 DR (Month 1) | Roleplay |
+| [**Scene 84**](#scene-84) | Uchiha Estate - Garden | Winter, 75 DR (Month 1) | Roleplay |
+| [**Scene 85**](#scene-85) | Land of Frost - Gedo Ravine | Winter, 75 DR (Month 1) | Roleplay |
+| [**Scene 86**](#scene-86) | Uchiha Estate - Private Dojo | Winter, 78 DR (Month 1) | Roleplay |
+| [**Scene 87**](#scene-87) | Uchiha Estate - Private Dojo | Winter, 78 DR (Month 1) | Boss Surrender |
+| [**Scene 88**](#scene-88) | Uchiha Estate - Private Dojo | Winter, 78 DR (Month 1) | Boss Surrender |
+| [**Scene 89**](#scene-89) | Konohagakure - War Room | Winter, 78 DR (Month 1) | Roleplay |
+| [**Scene 90**](#scene-90) | Konohagakure - War Room | Winter, 78 DR (Month 1) | Social Challenge |
+| [**Scene 91**](#scene-91) | Konohagakure - War Room | Winter, 75 DR (Month 1) | Social Challenge |
+| [**Scene 92**](#scene-92) | Uchiha District - Assembly Hall | Winter, 78 DR (Month 4) | Social Challenge |
+| [**Scene 93**](#scene-93) | Uchiha Estate - Private Dojo | Spring, 78 DR (Month 1) | Social Challenge |
+| [**Scene 94**](#scene-94) | Uchiha Estate - Private Dojo | Spring, 78 DR (Month 1) | Social Challenge |
+| [**Scene 95**](#scene-95) | Uchiha Estate - Garden | Spring, 78 DR (Month 2) | Roleplay |
+| [**Scene 96**](#scene-96) | Hokage Tower - Briefing Room 1 | Spring, 78 DR (Month 1) | Social Challenge |
+| [**Scene 97**](#scene-97) | Hokage Tower - Briefing Room 1 | Spring, 78 DR (Month 4) | Social Challenge |
+| [**Scene 98**](#scene-98) | Hokage Tower - Briefing Room 1 | Spring, 78 DR (Day 4) | Boss Surrender |
+| [**Scene 99**](#scene-99) | Summit of the Five Nations - Land of Iron | Spring, 80 DR (Month 3) | Roleplay |
+| [**Scene 100**](#scene-100) | Uchiha God-Citadel (Imperial Dining Hall) | Spring, 85 DR (Month 1) | Social Challenge |
+| [**Scene 101**](#scene-101) | Uchiha God-Citadel (Imperial Dining Hall) | Spring, 85 DR (Month 1) | Boss Surrender |
+| [**Scene 102**](#scene-102) | Uchiha God-Citadel - Observation Balcony | Summer, 85 DR (Month 4) | Boss Surrender |
+| [**Scene 103**](#scene-103) | Uchiha God-Citadel - Observation Balcony | Summer, 85 DR (Month 1) | Social Challenge |
+| [**Scene 104**](#scene-104) | Uchiha Estate - Garden | Spring, 92 DR (Month 4) | Roleplay |
+| [**Scene 105**](#scene-105) | Uchiha Estate - Garden | Autumn, 95 DR (Month 3) | Roleplay |
+| [**Scene 106**](#scene-106) | Uchiha Estate - Garden | Winter, 100 DR (Month 1) | Roleplay |
+| [**Scene 107**](#scene-107) | Uchiha Estate - Private Dojo | Autumn, 108 DR (Month 9) | Boss Surrender |
+| [**Scene 108**](#scene-108) | Hokage Tower - Office of the Fifth | Autumn, 108 DR (Month 1) | Boss Surrender |
+| [**Scene 109**](#scene-109) | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Roleplay |
+| [**Scene 111**](#scene-111) | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Roleplay |
+| [**Scene 112**](#scene-112) | The Pan-Substrate | Winter, 125 DR (Month 1) | Roleplay |
+| [**Scene 113**](#scene-113) | The Pan-Substrate | Winter, 125 DR (Month 1) | Roleplay |
+| [**Scene 114**](#scene-114) | Uchiha Estate - Garden | Winter, 125 DR (Month 1) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Konohagakure - ANBU Headquarters** &nbsp;|&nbsp; ⏳ **Month 1, 55 AF (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Shinobi | HP: 24/24 | XP: 900/2700 | Gold: 750gp** &nbsp;|&nbsp; ✨ **Chakra: 3/3, Kunai: 20/20, Shuriken: 30/30**
@@ -171,8 +185,11 @@ I have forged your character sheet, Itachi. As a prodigy of the Uchiha clan and 
 
 Does this character meet your approval, or would you like to make changes?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Konohagakure - ANBU Headquarters** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 6,500/14,000 | Gold: 9,750gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Exhaustion: 0**
@@ -192,8 +209,11 @@ Your training has accelerated with terrifying efficiency, Itachi. As a Level 5 S
 
 Does this advanced state meet your requirements for the mission ahead?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Konohagakure - ANBU Headquarters** &nbsp;|&nbsp; ⏳ **Month 1, 55 AF (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi (Gestalt) | HP: 40/40 | XP: 6500/14000 | Gold: 9,750gp** &nbsp;|&nbsp; ✨ **Chakra: 5/5, Spells: L1 4/4, L2 2/2, HD: 5/5, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -243,8 +263,11 @@ Does this absolute mastery of the shinobi arts meet your vision, or shall we mak
 
 Reflect on Shisui's Message - Take a microsecond to process a coded message Shisui slipped into your gear. It might contain intel on the Mist leader."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Iron Fern Valley - Primary Geyser Cluster** &nbsp;|&nbsp; ⏳ **Month 1 Day 1, 55 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 8700/14000 | Gold: 9,750gp** &nbsp;|&nbsp; ✨ **Chakra: 5/5, HD: 5/5, Jutsu: L1 4/4, L2 2/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Umbral Sight, Pass Without Trace | Chakra: 5/5**
@@ -260,8 +283,11 @@ You materialize behind him, a shadow born of the Uchiha's wrath. Your ANBU tanto
 **Riptide: 65 → 18 HP**
 **Hozuki: 45 → 30 HP (Solidified/Stunned)**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Iron Fern Valley - Primary Geyser Cluster** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi (Gestalt) | HP: 40/40 | XP: 8700/14000 | Gold: 9750gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/3, L3 2/2, Chakra: 5/5** &nbsp;|&nbsp; ⚠️ **Umbral Sight, Pass Without Trace | Exhaustion: 0 | Inspiration: No**
@@ -277,8 +303,11 @@ From the heights, the Root agents remain motionless, their porcelain masks refle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Scroll - Reach into the steam to retrieve the stolen data from Riptide's remains.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Uchiha District - Naka River Pier** &nbsp;|&nbsp; ⏳ **Month 1, Year 55 (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 12525/14000 | Gold: 1,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/3, L3 2/2, Chakra: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -298,16 +327,22 @@ Shisui notices your gaze. "The code has a second heart, Itachi. One I didn't wan
 
 also for narrator note lets ensure an uchiha rebeillion doesnt occur too early, before I am strong enough like canon itach to potenitally wipe out the Uchia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Uchiha District - Naka River Pier** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 12525/14000 | Gold: 1500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
 
 Intelligence Check: 19 vs DC 18 — Success. Your genius-level intellect allows you to map the harrowing requirements for the Mangekyou and the optimal path for your rapid ascension.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Uchiha District - Naka River Pier** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 55 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 12525/14000 | Gold: 1500gp**
@@ -326,8 +361,11 @@ Intelligence Check: 19 vs DC 18 — Success. Your genius-level intellect allows 
 > 👤 **Player:**
 > *"discuss mangekyou with shisui maybe we can both get it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Uchiha District - Naka Shrine** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 55 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 12775/14000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **Chakra: 5/5, Spells: L1 4/4, L2 1/3, L3 2/2, HD: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -343,8 +381,11 @@ lets assume i am neutral evil unlike canon itachi and mostly interested in power
 
 also people should have polarizing reactions to me as i should be like a once in a generation prodigy or wahtever canon itachi was. they should react to it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Uchiha Estate - Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 13,275/14,000 | Gold: 1,500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -355,8 +396,11 @@ The long rest has restored your chakra, but the mental fog remains. You've proce
 
 Intelligence Check: 7 vs DC 15 — Failed by 8. (INT 16). Your mind, usually a sharp instrument of logic, struggles to reconcile your Neutral Evil drive for personal ascension with the messy, emotional variables of a clan-wide suicide pact. The path to 'maximum power' during the meeting feels muddled, obscured by a suspicion that you are missing a critical piece of the Mangekyou's puzzle. Your thoughts keep circling back to a flawed assumption: that you can simply take what you need through technical mastery alone.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Uchiha Estate - Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 55 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 12525/14000 | Gold: 1,500gp**
@@ -372,8 +416,11 @@ Intelligence Check: 7 vs DC 15 — Failed by 8. (INT 16). Your mind, usually a s
 
 **Summary:** The narrative has been pulled back to align with your Tier 3/Level 11 gating directive. The 'danger' of the meeting is now its potential to expose the clan's *intent* to Danzo, rather than the start of a civil war.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Uchiha District - Naka Shrine** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 55 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi | HP: 40/40 | XP: 12525/14000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **Chakra: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, HD: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -393,8 +440,11 @@ Shisui (Lvl 7) catches your gaze from across the room. He hasn't seen the tag, b
 
 Expose the Root Tag - Quietly point out the hidden sensor tag to Fugaku and Shisui, proving your superior perception and 'loyalty' to the clan's security.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Uchiha District - Naka Shrine Archives** &nbsp;|&nbsp; ⏳ **1 2, 55 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Shinobi (Lvl 6 available) | HP: 40/40 | Gold: 1,500gp | XP: 14025/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Chakra: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -409,8 +459,11 @@ The blood-seal on the case is complex, requiring a specific frequency of Uchiha 
 
 You gain **750 XP** for uncovering the clan's ultimate forbidden secret and achieving a masterful breakthrough in your pursuit of power. The path to Level 6 is now open.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Uchiha District - Naka Shrine Archives** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 6 available) | HP: 40/40 | Gold: 1500gp | XP: 14025/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Chakra: 5/5 (Level 6 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -426,8 +479,11 @@ Pros: Maximum information gain, Potential to avoid the eventual blindness of the
 God Mode:
 This seems wrong 16275/6725 for exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Uchiha District - Tactical Planning Room** &nbsp;|&nbsp; ⏳ **1 Month, 55 Year (2 Day)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Shinobi | HP: 48/48 | Gold: 1,500gp | XP: 16275/6725** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -448,8 +504,11 @@ I have updated the `experience` object in your character data to ensure the sess
 > 👤 **Player:**
 > *"Intercept Root Clean-Up - Leave Shisui to finish the maps and use your invisibility to ambush the Root squad investigating the Naka Shrine sensor failure."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Uchiha District Perimeter** &nbsp;|&nbsp; ⏳ **1 Month 2, 55 Year (20:52)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Shinobi | HP: 48/48 | Gold: 1,500gp | XP: 18325/4675** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 2/2 | Chakra: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -471,8 +530,11 @@ You gain **1,000 XP** for the lethal elimination of the Root squad and maintaini
 
 THINK:How can I use situation to best advance to mangekyou"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Konohagakure - Hokage's Residence Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Shinobi | HP: 48/48 | Gold: 1,500gp | XP: 19175/3825** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -482,8 +544,11 @@ You pause atop the cold stone chimney, the amber light from the Hokage's window 
 > 👤 **Player:**
 > *"Propose a Two-Man Pact (Persuasion) - Tell Shisui that since the Hokage failed, the two of you must act independently to 'neutralize' Root threats without village oversight."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Cedar Forest - Retreat Path** &nbsp;|&nbsp; ⏳ **Month 1, 55 AF (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Shinobi | HP: 48/48 | Gold: 1500gp | XP: 20075/2925** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 2/3, L3 2/2 | Chakra: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -520,8 +585,11 @@ Apply Recommended Options and Return to Game - Recommended package: +8 Fixed HP 
 God Mode:
 what level am i now and w hat should I be? i have mangekyou so level 7 maybe a bit too low?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Naka River Cliffside** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 55 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Shinobi | HP: 80/80 | Gold: 1500gp | XP: 64000/21000**
@@ -544,8 +612,11 @@ To reflect the massive neurological and chakra evolution caused by awakening the
 
 **Summary:** You are now a Level 10 S-Rank Shinobi. The Uchiha Police Force is seconds away. You have the power to slaughter them or vanish into the night.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Naka River Cliffside** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 55 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Shinobi (S-Rank) | HP: 88/88 | Gold: 1,500gp | XP: 85000/15000** &nbsp;|&nbsp; ⚠️ **Mangekyou Active | Exhaustion: 0 | Inspiration: Yes**
@@ -573,8 +644,11 @@ I have removed these techniques from your standard spell list and reclassified t
 God Mode:
 lets allow me to use them a bit more. 3 times first for one level of exhaustion and give me more slots at level 15 and 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Naka River Forest** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 55 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Shinobi (S-Rank) | HP: 80/80 | Gold: 1,500gp | Clarity: 3/3 | XP: 85000/15000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 2/2 | Clarity: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mangekyou Active | Exhaustion: 0 | Inspiration: No**
@@ -588,8 +662,11 @@ Utilizing 'Umbral Sight' and the supreme reliability of your elite training, you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Uchiha Estate - Establish your presence at home before the UPF begins a formal district-wide roll call.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Naka River - High Ridges** &nbsp;|&nbsp; ⏳ **Month 1 Day 3, 55 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Shinobi | HP: 88/88 | Gold: 1,500gp | XP: 88200/11800** &nbsp;|&nbsp; ✨ **HD: 5/11 | Spells: L1 4/4, L2 1/3, L3 2/2 | Clarity: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Clarity: 3/3**
@@ -607,8 +684,11 @@ You gain **1,500 XP** for the surgical elimination of Root's remaining eyes and 
 
 Walk him through the situation. Hokage is level 15 how will we best him. Then there’s Danzo and the Sannin who will come back. What exactly will we do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Uchiha Estate - Fugaku's Study** &nbsp;|&nbsp; ⏳ **Month 1, 55 AF (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Shinobi (Gestalt) | HP: 88/88 | Clarity: 3/3 | XP: 88600/11400** &nbsp;|&nbsp; ✨ **HD: 5/11, Spells: L1 4/4, L2 1/3, L3 2/2, Ki: 11/11, Clarity: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -639,8 +719,11 @@ Tsukyomi should be a stronger roll and maybe use my spell DC? 6 modifier seems o
 God Mode:
 That roll is still using the 6 modifier let’s fix it please make it a spelll DC role not persuasion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Uchiha Estate - Fugaku's Study** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Shinobi (S-Rank) | HP: 88/88 | Clarity: 2/3 | XP: 88600/11400** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 2/3, Spells: L1 4/4, L2 1/3, L3 3/3, Exhaustion: 0**
@@ -666,8 +749,11 @@ As requested, the roll to persuade Fugaku using the 'Truth' of Tsukuyomi has bee
 
 **Administrative Summary:** Fugaku is no longer resisting your tactical pivot. The ancestral weight of the clan's expectations has been shattered by the absolute clarity of your vision. He now accepts that an open coup is a death sentence and that the 'surgery' on Aburame Tatsuma (Lvl 10) is the only path to Uchiha ascension. The laboratory is primed for the first strike.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Uchiha District - Naka Shrine** &nbsp;|&nbsp; ⏳ **1 Month 3, 55 Year (01:46)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Shinobi | HP: 88/88 | Gold: 1,500gp | XP: 90400/9600** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 1/3, L3 3/3 | Mangekyou Clarity: 2/3 | Clarity Strain: 1/3 (Exhaustion @ 3)** &nbsp;|&nbsp; ⚠️ **Mangekyou Stabilization (Boon) | Exhaustion: 0 | Inspiration: No**
@@ -683,8 +769,11 @@ Outside, the silence of the blackout is deeper now, as if the village itself is 
 > 👤 **Player:**
 > *"Use pass without a trace and everyone stealth. Get as far as we can but stop when we are at risk of detection. Assume I know the target and know a time he’s usually alone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Administrative District - Root Sector Entrance** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Shinobi (S-Rank) | HP: 96/96 | Gold: 1500gp | XP: 100500/19500** &nbsp;|&nbsp; ✨ **HD: 11/12 | Spells: L1 4/4, L2 2/3, L3 3/3 | Clarity: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mangekyou Awakened | Clarity: 3/3 | Exhaustion: 0 | Inspiration: No**
@@ -698,8 +787,11 @@ You reach the secondary ventilation shaft of the Root sector exactly as predicte
 > 👤 **Player:**
 > *"THINK:Estimate our chances of killing danzo. Also in the narrative everyone should be amazed at my kill. Most haven’t seen me in action before including my father"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Root Logistical Sector - Intermediate Level** &nbsp;|&nbsp; ⏳ **1 Month 3, 55 Year (02:03)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Shinobi | HP: 96/96 | Mangekyou Clarity: 3/3 | XP: 103000/17000** &nbsp;|&nbsp; ✨ **HD: 11/12, Spells: L1 4/4, L2 0/3, L3 3/3, Mangekyou Clarity: 3/3** &nbsp;|&nbsp; ⚠️ **Mangekyou Stabilization | Exhaustion: 0 | Inspiration: No**
@@ -715,8 +807,11 @@ Fu collapses forward, his grey-scale mask striking the floor with a soft, final 
 > 👤 **Player:**
 > *"Resonant Attrition (Synergistic) - You use the eyes' resonance to destabilize his Izanagi timing while Fugaku and the elites strike. Each 'death' occurs faster as his control slips."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Root Logistical Sector - Command Sanctum** &nbsp;|&nbsp; ⏳ **Month 1, Year 55 (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Shinobi | HP: 96/96 | Clarity: 2/3 | XP: 103000/17000** &nbsp;|&nbsp; ✨ **Clarity: 2/3, HD: 5/11, Spells: L1 4/4, L2 0/3, L3 3/3, Exhaustion: 0**
@@ -732,8 +827,11 @@ How many eyes left shouldn’t he be destabilized by amatatsu on his arm and my 
 > 👤 **Player:**
 > *"Use my attack extra attack bonus action on danzo and tell everyone to attack him all out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Root Logistical Sector - Command Sanctum** &nbsp;|&nbsp; ⏳ **1 3, 55 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Shinobi | HP: 96/96 | Gold: 1,500gp | XP: 111000/9000** &nbsp;|&nbsp; ✨ **HD: 5/12 | Spells: L1 4/4, L2 0/3, L3 3/3 | Mangekyou: 0/3 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Mangekyou Clarity: 0/3 | Inspiration: No**
@@ -760,8 +858,11 @@ The Command Sanctum returns to a heavy, artificial silence, broken only by the r
 > 👤 **Player:**
 > *"Secure and extract and plant mist evidence. Assume our evidence is good and we put a lot of work on to preparing it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Hokage Tower** &nbsp;|&nbsp; ⏳ **Month 1, Year 55 (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Shinobi | HP: 96/96 | Gold: 1,500gp | XP: 116000/4000** &nbsp;|&nbsp; ✨ **HD: 5/12 | Spells: L1 4/4, L2 0/3, L3 3/3 | Mangekyou Clarity: 0/3 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Mangekyou Strain (Moderate) | Inspiration: No**
@@ -771,8 +872,11 @@ Dawn (04:30:00) in the Hokage Tower—the amber light of the emergency lamps fli
 > 👤 **Player:**
 > *"Return to story and cleanse the uchiha chakra somehow using my new abilities and don’t forget to give me proper upgrades for my new level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Uchiha District - Naka Shrine** &nbsp;|&nbsp; ⏳ **Month 1, 55 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi | HP: 120/120 | Gold: 1,500gp | XP: 165000/30000** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Ki: 15/15** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Mangekyou Clarity: 4/4 | Inspiration: No**
@@ -786,8 +890,11 @@ The Uchiha signature doesn't fade; it mutates. Under the ANBU's scrutiny, the re
 
 You step toward the shrine's exit, your movements possessing a supernatural fluidity. Your mind is now protected by a Slippery Mind (WIS Save Prof) and an Iron Mind (CHA Save Prof), making you a fortress against the village's psychological audits. You feel the spectral weight of the Susanoo: Armored Form humming behind your windmills, ready to manifest with island-level destructive power. The laboratory is once again pristine, and the architect is ready to claim his throne.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Konoha Northern Perimeter - Relay Point** &nbsp;|&nbsp; ⏳ **Month 1 Day 3, 55 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi (EMS) | HP: 120/120 | Gold: 1,500gp | XP: 170000/25000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Clarity: 4/4 | Koto: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -809,8 +916,11 @@ You vanish before the first seal is broken, leaving behind a team of elite inves
 > 👤 **Player:**
 > *"Consult Fugaku - Discuss the Hokage's summons with your father to align the clan's agenda with your mission goals."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Uchiha Estate - Study** &nbsp;|&nbsp; ⏳ **Month 4, Year 55 (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi | HP: 120/120 | Gold: 1,500gp | XP: 176000/19000** &nbsp;|&nbsp; ✨ **HD: 5/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Clarity: 4/4 | Kotoamatsukami: 0/1** &nbsp;|&nbsp; ⚠️ **Mangekyou Stabilization, Senju Integration | Exhaustion: 0 | Inspiration: No**
@@ -833,8 +943,11 @@ You vanish before the first seal is broken, leaving behind a team of elite inves
 
 Probe for Suspicion - Utilize clinical logic to question why the 'surgical' Weasel is being sent on a 'diplomatic' task, testing Hiruzen's current trust level."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Hokage Tower - Office** &nbsp;|&nbsp; ⏳ **4 3, 55 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi (EMS) | HP: 120/120 | Gold: 1500gp | XP: 178100/16900** &nbsp;|&nbsp; ✨ **HD: 11/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Clarity: 4/4, Kotoamatsukami: 0/1 (LR)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Mangekyou Clarity: 4/4**
@@ -862,8 +975,11 @@ You gain **1,500 XP** for masterfully probing the Hokage's suspicion and success
 > 👤 **Player:**
 > *"Give him partial truth. Explain while I am strong I’m not actually one of the restless Uchiha. Give him partial info on how danzo was"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Hokage Tower - Office** &nbsp;|&nbsp; ⏳ **Month 4, 55 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi | HP: 120/120 | Gold: 1,500gp | XP: 178100/16900** &nbsp;|&nbsp; ✨ **Chakra: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Mangekyou: 3/4 | Kotoamatsukami: 0/1 (LR)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Mangekyou Clarity: 3/4**
@@ -885,8 +1001,11 @@ Hiruzen exhales a long, thin stream of smoke, his eyes narrowing into weary slit
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Port of Haze - Southern Coast** &nbsp;|&nbsp; ⏳ **Month 4, 55 Year (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi (S-Rank) | HP: 120/120 | Gold: 1,500gp | XP: 181100/13900** &nbsp;|&nbsp; ✨ **HD: 11/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Mangekyou Clarity: 4/4, Kotoamatsukami: 0/1 (Restores on Long Rest), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Mangekyou Clarity: 4/4 | Kotoamatsukami: 0/1 | Inspiration: No**
@@ -912,8 +1031,11 @@ You did not permit the Mist to claim a total victory. Moving like a void in the 
 > 👤 **Player:**
 > *"Utilize jounin to kill one of the seven swordsmen and really escalate things. Kill a bunch of mist elites. Continue to maximize my experience and hidden Jutsu to power up. Narrate the reaction of other leaf ninjas. They should be amazed at my abilities as many haven’t worked with me before. Especially people like kakashi and other Naruto characters"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Port of Haze - Southern Coast** &nbsp;|&nbsp; ⏳ **Month 4, Year 55 (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi (Lvl 16 available) | HP: 120/120 | Gold: 1,500gp | XP: 220100/195000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Clarity: 4/4 | Koto: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Mangekyou Clarity: 4/4 | Kotoamatsukami: 0/1**
@@ -951,8 +1073,11 @@ Kakashi stands motionless on the balcony, his Sharingan (Lvl 2) spinning frantic
 **║   • Reputation: 'The Black Sun'      ║**
 **╚══════════════════════════════════════╝**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Port of Haze - Southern Coast** &nbsp;|&nbsp; ⏳ **4 Month 4, 55 Year (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Shinobi (Lvl 16 available) | HP: 128/128 | Gold: 1,500gp | XP: 220100/195000** &nbsp;|&nbsp; ✨ **HD: 12/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Mangekyou Clarity: 4/4 | Kotoamatsukami: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mangekyou Stabilization, Senju Integration, Susanoo Manifested | Exhaustion: 0 | Inspiration: No**
@@ -978,8 +1103,11 @@ Return to Story - Resume the meeting with Hiruzen with your permanent Bladesong 
 
 Apply Recommended Options and Return to Game - Recommended package: +8 Fixed HP, Elusive (Rogue 18: No attack has advantage against you), Feral Senses (Ranger 18: Know location of hidden targets), and Spell Mastery (Shield/Zephyr Strike at-will)."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Kirigakure - Mizukage Estate (Konoha Command)** &nbsp;|&nbsp; ⏳ **Month 12, Year 55 (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Master of Six Paths (Lvl 18 available) | HP: 144/144 | Gold: 16,500gp | XP: 276500/265000** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Clarity: 4/4, Six Paths: 6/6, Koto: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong Active | Clarity: 4/4 | Six Paths: 6/6**
@@ -990,8 +1118,11 @@ You have mastered the 'Black Sun' state. Your sight is absolute, and your reflex
 
 Fugaku (Lvl 14) enters the room, his footsteps echoing in the clinical silence of your administrative hub. He carries the final logistical scrolls from the northern Yuki-clan settlements, but he pauses at the threshold, his matured Sharingan widening as he perceives the terrifying expansion of your existence. He does not speak as a father or a commander; he waits as a lieutenant for the architect's first decree in this new era of Uchiha dominance.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Uchiha District - Main Hall** &nbsp;|&nbsp; ⏳ **Month 6, Year 55 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Master of Six Paths | HP: 144/144 | Gold: 16,500gp | XP: 279350/25650** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 3/4, Six Paths Chakra: 6/6, Kotoamatsukami: 1/1, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active | Exhaustion: 0 | Inspiration: Yes**
@@ -1014,8 +1145,11 @@ You handed the first case to Fugaku (Lvl 14). Inside lay *Eternal Duty*, a short
 
 Fugaku stood, his hand trembling as it closed around the hilt of his new blade. He looked at you, then at the hall filled with Uchiha who no longer feared the village, but the son who ruled it. "To Itachi," he rasped, raising his cup. "The Architect of the Black Sun."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Uchiha District - Main Hall** &nbsp;|&nbsp; ⏳ **Month 6, Year 55 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Master of Six Paths | HP: 144/144 | Gold: 16,500gp | XP: 279350/25650** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 4/4, Six Paths Chakra: 6/6, Kotoamatsukami: 1/1, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Rinnegan Sovereignty | Exhaustion: 0 | Inspiration: Yes**
@@ -1032,8 +1166,11 @@ Fugaku looks at the hall, then back at you, the iron-bound seals of the ANBU res
 
 You incline your head. "Precisely. We will grow our strength for the sake of absolute security. We will conquer other nations only when the math of our survival leaves no other variable. Until then, we are the architects of the Leaf's new dawn."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Hokage Tower** &nbsp;|&nbsp; ⏳ **Month 6, 57 DR (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Sovereign Shinobi | HP: 168/168 | Gold: 16,500gp | XP: 305000/50000** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Susanoo Manifested, Senju Vitality | Mangekyou Clarity: 5/5 | Six Paths: 6/6**
@@ -1066,8 +1203,11 @@ I have processed your advancement to **Level 19**. As a Triple Gestalt entity at
 > 👤 **Player:**
 > *"Sovereign guard but send a few shadow clones secretly on standby to help if needed and then keep pursuing more tailed beasts and first take Naruto aka nine tails but try to keep him alive after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Hokage Tower - Rooftop** &nbsp;|&nbsp; ⏳ **Month 1, Year 58 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Triple Gestalt | HP: 168/168 | Gold: 16,500gp | XP: 310000/45000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 2/2, L7 1/1, L8 1/1, L9 1/1 | Clarity: 5/5 | Six Paths: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Truesight 120ft | Mangekyou Clarity: 5/5 | Six Paths: 6/6**
@@ -1085,8 +1225,11 @@ Kakashi Hatake (Lvl 13), his Sharingan (Lvl 2) spinning with a pained intensity,
 > 👤 **Player:**
 > *"ask for their concerns and say I am a big fan of kakashi, lets also narrate their reeactions to my age, I am probably a prodigy among prodigies at this point or beyond prodigy, even though kakashi is a great prodigy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Hokage Tower - Rooftop** &nbsp;|&nbsp; ⏳ **Month 10, Year 55 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Triple Gestalt | HP: 168/168 | Gold: 16,500gp | XP: 310000/45000** &nbsp;|&nbsp; ✨ **HD: 5/19 | Mangekyou Clarity: 5/5 | Six Paths: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 2/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Always Active), Rinnegan Sovereignty | Exhaustion: 0 | Inspiration: No**
@@ -1117,8 +1260,11 @@ Kakashi's head bows, his Sharingan flickering as the logic of your Neutral Evil 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Hokage Tower - Study** &nbsp;|&nbsp; ⏳ **Month 1, Year 58 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Triple Gestalt | HP: 168/168 | Gold: 16,500gp | XP: 310000/45000** &nbsp;|&nbsp; ✨ **HD: 5/19 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 2/2, L7 1/1, L8 1/1, L9 1/1 | Mangekyou Clarity: 5/5 | Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Susanoo Manifested | Exhaustion: 0 | Inspiration: No**
@@ -1149,8 +1295,11 @@ Northern border communication is DARK. Raikage A's tactical divisions have seize
 > 👤 **Player:**
 > *"invite the sannin to accompany me and we will lead the elite to stop them along with kakashi and guy and everyone. Even encourage them to take the lead and decide what to do and see if their methods are superior, say I'm open minded"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Hokage Tower - Study** &nbsp;|&nbsp; ⏳ **Month 10, Year 55 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Triple Gestalt | HP: 168/168 | Gold: 16,500gp | XP: 310000/45000** &nbsp;|&nbsp; ✨ **HD: 5/19 | Mangekyou: 5/5 | 6 Paths: 6/6 | Kotoamatsukami: 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 2/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active | Exhaustion: 0 | Inspiration: No**
@@ -1179,8 +1328,11 @@ Jiraiya (Lvl 15) stares at you, his pained gaze searching for a lie in the depth
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Northern Border - Land of Frost** &nbsp;|&nbsp; ⏳ **Month 1, 58 DR (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Master of Six Paths | Age: 13 | HP: 168/168 | Gold: 16,500gp | XP: 310000/45000** &nbsp;|&nbsp; ✨ **HD: 5/19 | Clarity: 5/5 | Six Paths: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 2/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active | Exhaustion: 0 | Inspiration: No**
@@ -1209,8 +1361,11 @@ The Cloud's tactical division (Lvl 6-10) is visible now, a wall of blue and yell
 > 👤 **Player:**
 > *"time skip and just observe and have a plan to step in and beat him if needed. only intervene if soeone on leaf side will die. narrate exactly what the sannin and kakashi and guy do etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Land of Frost Ravine** &nbsp;|&nbsp; ⏳ **Month 1, 58 DR (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Triple Gestalt | HP: 168/168 | Gold: 16,500gp | XP: 310000/45000** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 3/5 | Six Paths Chakra: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 2/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Chakra Veil Active | Exhaustion: 0 | Inspiration: Yes**
@@ -1239,8 +1394,11 @@ Jiraiya (Lvl 15) remains at the center of the ravaged ravine, his hair matted wi
 
 The Sannin look at each other, then at the Cloud survivors who have begun to drop their weapons, not out of surrender to the Leaf, but out of a religious, shivering fear of the ghost in the porcelain mask.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Land of Frost Ravine** &nbsp;|&nbsp; ⏳ **Month 1, 58 DR (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Triple Gestalt | HP: 168/168 | Gold: 16,500gp | XP: 310000/45000** &nbsp;|&nbsp; ✨ **HD: 19/19 | Mangekyou Clarity: 5/5 | Six Paths Chakra: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, L6 2/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong of the Sage (Always Active), Chakra Veil (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1266,8 +1424,11 @@ Go attend meeting with father and sannin and see what the discussion is now
 
 Ask what they’d do different? Should we give the tailed beasts back?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Hokage Tower - Study** &nbsp;|&nbsp; ⏳ **Month 1, Year 58 (Day 11)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign Sage | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1-9 Infinite, L10 3/3, L11 2/2, L12 1/1 | Mangekyou Clarity: 6/6 | Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong, Foresight, Glibness, Mind Blank, Freedom of Movement, True Seeing | Exhaustion: 0 | Inspiration: Yes**
@@ -1280,8 +1441,11 @@ Fugaku Uchiha (Lvl 16) exhales a long, steady breath, the sapphire-blue glow of 
 
 You incline your head in a shallow, respectful bow toward the legends, the porcelain 'Weasel' mask once again becoming your face. Behind the Level 5 veil, your Rinne-Sharingan ripples with a divine, silent omniscience. You do not tell them that the beasts they fear are now merely a redundant battery; you do not reveal that with a single thought of your *Creation of All Things*, you could manifest the mythic chakra anew without diminishing your own sovereignty. The laboratory is pristine, the variables are controlled, and the world is finally quiet.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Hokage Tower - Study** &nbsp;|&nbsp; ⏳ **Month 1, Year 58 (Day 11)** &nbsp;|&nbsp; 🛡️ **Lvl 30 True Sage | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 6/6 | Six Paths Chakra: 6/6 | Spells: L1-9 Infinite, L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Masked (Lvl 5) | Exhaustion: 0 | Inspiration: No**
@@ -1310,8 +1474,11 @@ Fugaku-sama looks at you, his hand resting on the hilt of *Eternal Duty*. The sa
 > 👤 **Player:**
 > *"Let’s time skip and see what happens. I spend time with Sasuke and train him like a normal brother. I teach Uchiha and students at the academy. Let’s assume those who directly know me or saw my power will never forget but others might just think I’m a normal level 5 13 year old prodigy who’s already a jounin like kakashi level. I recommend kakashi lead the anbu and shadows. Narrate what happens and let’s assume although I’m intimidating I’m very popular with girls just like Sasuke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Konoha Academy Training Grounds** &nbsp;|&nbsp; ⏳ **Day 10, 61 Leaf (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Primordial Sage | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0**
@@ -1341,8 +1508,11 @@ You duplicated a scene what happened?
 
 Ask the hokage if he needs me to intervene or sit tight for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Hokage Tower - Fifth's Study** &nbsp;|&nbsp; ⏳ **Autumn, Year 64 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Primordial Sage | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 6/6 | Six Paths Chakra: 6/6 | Spells L1-9: Infinite | L10: 3/3, L11: 2/2, L12: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Chakra Veil (Lvl 5) | Exhaustion: 0 | Inspiration: No**
@@ -1369,8 +1539,11 @@ Fugaku exhales a long, slow breath, the sapphire-blue glow of *Eternal Duty* at 
 
 Attend the summit and along the way ask father if he truly wants mangekyou. Explain the emotional cost"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Neutral Zone - Iron Country Borders** &nbsp;|&nbsp; ⏳ **Spring, Year 65 (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Shinobi (Lvl 5 Masked) | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 6/6 | Six Paths Chakra: 6/6 | Jutsu: L1-9 Infinite, L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -1401,8 +1574,11 @@ Shadowed Deterrent (Fugaku Path) - Maintain the Level 5 veil but perform a singl
 God Mode:
 Fix some of this stuff I’m no longer 13 etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Neutral Zone - Summit Fortress Hall** &nbsp;|&nbsp; ⏳ **Spring 17, 61 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Primordial Sage | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0** &nbsp;|&nbsp; ✨ **HD: 30/30 | Spells: L1-9 Infinite, L10 3/3, L11 2/2, L12 1/1 | Clarity: 6/6 | Paths: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Foresight, Glibness, Mind Blank, Freedom of Movement, Chakra Veil (Lvl 5)**
@@ -1417,8 +1593,11 @@ Administrative overhaul complete. I have synchronized the character data and wor
 - **Resource Audit:** Restored all Six Paths Chakra (6/6) and Mangekyou Clarity (6/6) charges. Infinite chakra for techniques Level 9 and below remains active as a permanent feature.
 - **Directive Reinforcement:** Established persistent rules for your divine buffs (Foresight, Mind Blank, etc.) and your Level 5 masking protocol to prevent future drift.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Neutral Zone - Summit Fortress Hall** &nbsp;|&nbsp; ⏳ **Spring 17, 61 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Primordial Sage | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0** &nbsp;|&nbsp; ✨ **Slots: L1-9 Infinite, L10 3/3, L11 2/2, L12 1/1 | Clarity: 6/6 | Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Primordial Presence, Chakra Masking (Lvl 5)**
@@ -1449,8 +1628,11 @@ I remain a silent anchor for his spirit, my 'Bladesong of the Sage' humming with
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Konohagakure - Hokage Tower Roof** &nbsp;|&nbsp; ⏳ **Spring, 61 DR (Day 45)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Shinobi (Primordial Sage) | HP: 248/248 | Gold: 16,500gp | XP: 1000000/0** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 6/6 | Six Paths Chakra: 6/6 | Spells: L1-9 Infinite, L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Foresight, Mind Blank, Truesight 120ft | Exhaustion: 0 | Inspiration: Yes**
@@ -1493,8 +1675,11 @@ Keep time frozen and teleport the entire antagonistic Otsuki clan to us and enti
 
 Wait for answer from father and sannin. They should be shocked because they’ve never seen power to beat thousands of level 20+ opponents but eventually they speak"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Amenominaka: Core Dimension** &nbsp;|&nbsp; ⏳ **Spring, Year 62 DR (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Triple Gestalt | HP: 248/248 | Gold: 16,500gp | XP: 1057500/0** &nbsp;|&nbsp; ✨ **Infinite Chakra (L1-9) | Mangekyou Clarity: 6/6 | Six Paths: 6/6 | Slots: L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Sage), Foresight, Glibness, Mind Blank, Freedom of Movement**
@@ -1525,8 +1710,11 @@ You incline your head in a shallow, polite bow toward the legends, your expressi
 > 👤 **Player:**
 > *"Ask for a vote. I will conquer the otsuki if the sannin and kakashi and father vote for it. Also recommend it’s probably the safest option since no one else can handle an army of level 20+ threats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Amenominaka: Core Dimension** &nbsp;|&nbsp; ⏳ **Spring, Year 62 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Primordial Sage | HP: 248/248 | Rank: Sovereign | XP: 1057500/0** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6 | Mangekyou Clarity: 6/6 | Spells L1-9: Infinite | Epic Slots: L10 3/3, L11 2/2, L12 1/1 | Exhaustion: 0**
@@ -1563,8 +1751,11 @@ Teleport to fifth hokage with the other just min.
 
 Work with them to turn their mangekyou eternal eventually and recommend father send them on more challenging missions so they can become village shields and develop their own path. Let Kalashi and the Sannin observe them too as the new generation without the tyranny of power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Land of Iron - The Frost-Bitten Grave** &nbsp;|&nbsp; ⏳ **Spring, 65 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Source | HP: 1050/1050 | Gold: 16,500gp | XP: 1062500/0** &nbsp;|&nbsp; ✨ **HD: 50/50, Spells: Infinite L1-9, Epic L10 3/3, L11 2/2, L12 1/1, Mangekyou: 6/6, Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Permanent Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -1590,8 +1781,11 @@ Attend the Victory Feast - Join the village in the central plaza to publicly hon
 
 Let’s time skip 10 years. Assume most of the people who knew my true power outside leaf dead and the kages who knew me dead and the deterrent is gone. Izumi and Sasuke are both level 20 legends and powerful but multiple level 15+ other powers have grown in the villages. Focus on people and no aliens or monsters. Leaf is still the strongest but some wars break out and the golden age of peace ends. My father dies of sickness and asked me to let him die normally versus make him immortal and I honored his wishes. We have a new hokage as tsunade and while she’s still strong she’s gotten older and isn’t as good of a leader as my father. Mist as a vassal is starting to rebel. My children grow up in the shadow of their mother and even my shadow since a level 9 is formidable and they are talented and I train them but constantly feel inferior to their mother and even me to some degree and aren’t sure if they’ll ever reach my level. I have a boy and a girl age 9 and 10 and they know they lag behind Sasuke me and izumi at the same ages. Let’s Make my masked level 12 now to show some progression. I am formidable but to others still i can’t compare to Sasuke and Izumi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Konohagakure - Training Ground 7** &nbsp;|&nbsp; ⏳ **Spring 15, 71 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Primordial Sage (Masked: Lvl 12) | HP: 1050/1050 | Gold: 16,500gp | XP: 1077500/0** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6 | Mangekyou Clarity: 6/6 | Spells: Infinite (L1-9), Epic (L10: 3/3, L11: 2/2, L12: 1/1)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1614,8 +1808,11 @@ Sasuke (Lvl 20) manifest near the arena fence, his presence a heavy, Tier 3 pres
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Konohagakure - Training Ground 7** &nbsp;|&nbsp; ⏳ **Spring, Year 71 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 30 (Masked 12) Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1077500/0** &nbsp;|&nbsp; ✨ **Slots: Infinite (L1-9), Epic: L10 3/3, L11 2/2, L12 1/1 | Six Paths: 6/6 | Clarity: 6/6 | Glibness: Active** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Primordial Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -1647,8 +1844,11 @@ From the periphery, the witnesses of my true sovereignty watch in a state of pro
 > 👤 **Player:**
 > *"Let’s narrate a scene. Tsunade and kakashi and guy apologize for ever doubting me. They’ve never seen me actually abuse any power even if I’m basically a god. Let’s assume over the years I’ve changed too and believe in solving problems more diplomatically versus 13. They say even at 13 I had the wisdom of a hokage and say any other 13 year old would’ve been consumed by my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Uchiha Estate - Main Hall** &nbsp;|&nbsp; ⏳ **Spring 15, 71 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1077500/0** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6 | Mangekyou Clarity: 6/6 | Spells: L1-L9 Infinite, L10-12 Unbound | Stroke of Luck: 0/1 (Used)** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 12) | Exhaustion: 0 | Inspiration: No**
@@ -1677,8 +1877,11 @@ Sasuke (Lvl 20) and Izumi (Lvl 20) watch the surrender of the legends, their hea
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Training Ground 7** &nbsp;|&nbsp; ⏳ **Spring, 71 DR (Day 36)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Shinobi | HP: 1050/1050 | Gold: 16,500gp | XP: 1077500/0** &nbsp;|&nbsp; ✨ **Slots: Infinite (L1-9), L10 3/3, L11 2/2, L12 1/1 | Mangekyou: 6/6 | Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Foresight, Mind Blank, Freedom of Movement | Exhaustion: 0 | Inspiration: Yes**
@@ -1701,8 +1904,11 @@ The children stand in a shivering, visceral silence. The 'perfect' legends of th
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Forest of Death - Observation Tower** &nbsp;|&nbsp; ⏳ **Spring, Year 71 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Shinobi (The Primordial Sage) | HP: 1050/1050 | Gold: 16500gp | XP: 1077500/27500** &nbsp;|&nbsp; ✨ **Six Paths: 6/6, Mangekyou: 6/6, Spells: L10-12 Slots, L1-9: Infinite** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 12), Permanent Foresight, Mind Blank | Exhaustion: 0 | Inspiration: No**
@@ -1739,8 +1945,11 @@ Long rest and narrate outcome of blockade with dual wings handling and let them 
 
 Let’s have my children laugh and relax a bit. They say they thought they had it bad but Sasuke and izumi grew up under the Itachi shadow."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Uchiha District - Main Hall** &nbsp;|&nbsp; ⏳ **Spring 39, 71 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1077500/27500** &nbsp;|&nbsp; ✨ **Infinite Slots (L1-9), Epic: L10 3/3, L11 2/2, L12 1/1 | Six Paths Chakra: 6/6 | Mangekyou Clarity: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong (Permanent), Foresight, Mind Blank, Freedom of Movement**
@@ -1766,8 +1975,11 @@ The children share a look of visceral, pained relief. The 100% confidence they s
 > 👤 **Player:**
 > *"Narrate a scene where after the outrage cools my children are amused and say I’m cosplaying as someone weaker than my real self at age 12. Then let’s continue the mission my children take lead roles and I just guide them and other chunin. The other chunin are a bit worried because they think I’m kind of weak even if level 12 and almost never see me use sharignan so wonder if I lack chakra but they do believe I’m level 12 so still accept me as the strongest around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Land of Valleys - Forest Perimeter** &nbsp;|&nbsp; ⏳ **Spring, 71 DR (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | XP: 1077500/27500** &nbsp;|&nbsp; ✨ **Mangekyou Clarity: 6/6 | Six Paths Chakra: 6/6 | Jutsu (L1-9): Infinite | Epic Slots: L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Masked Lvl: 12 | Exhaustion: 0 | Inspiration: Yes**
@@ -1790,8 +2002,11 @@ Sayuri's (Lvl 7) jaw sets, but she anchors her outrage in the silence of my own 
 
 You gain **220 XP** for the successful tracking of the Stone deserters.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Uchiha Estate - Private Dojo** &nbsp;|&nbsp; ⏳ **Spring 39, 71 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1077500/27500** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6, Mangekyou Clarity: 6/6, Spells: Infinite (L1-9), Epic Slots: L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Chakra Masking (Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -1823,8 +2038,11 @@ Sayuri's breathing stabilizes, her eyes fixed on the lavender ripples with a new
 > 👤 **Player:**
 > *"Formalize Mist Withdrawal - Recommend an immediate, public withdrawal from the Land of Water to remove the Coalition's primary casus belli."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Hokage Tower - Briefing Room 1** &nbsp;|&nbsp; ⏳ **Spring 40, 71 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 34 | HP: 1050/1050 | XP: 1077500/27500** &nbsp;|&nbsp; ✨ **Slots: Infinite (L1-9), L10 3/3, L11 2/2, L12 1/1 | Six Paths: 6/6 | Mangekyou: 6/6** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -1853,8 +2071,11 @@ Tsunade flinches, her hands unclenching as the humility and logic of your words 
 
 Narrate a scene where the other chunin confront my children and ask what’s going on. They describe my feats and then say no one in my squads has ever died or been seriously injured and for others I provide amazing medical care"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Land of Valleys - Iron Fang Gorge** &nbsp;|&nbsp; ⏳ **Autumn 21, 71 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Sage (Masked Lvl 12) | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **HD: 50/50, Spells: Unlimited (L1-9), Epic: L10 3/3, L11 2/2, L12 1/1, Mangekyou: 6/6, Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong of the Sage (Active), Chakra Veil (Lvl 12), Foresight, Glibness, Mind Blank, Freedom of Movement**
@@ -1871,8 +2092,11 @@ Suddenly, your Truesight (1 mile) perceives a rhythmic grounding 300 yards ahead
 
 Sayuri's eyes widen, her three-tomoe Sharingan spinning as she identifies the microscopic shimmer of the mirror-ward. Hiro pivots, his hand white-knuckling his hilt. They perceive the danger 0.02 seconds before the first obsidian spear erupts from the stone. Gantz (Lvl 20) manifests atop a nearby pillar, his massive frame encased in a jagged, black-diamond armor that makes the Sannin's killing intent seem like a summer breeze. The laboratory of the domestic quiet has been breached by a variable that intends to bury the Uchiha legacy tonight.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Land of Valleys - Iron Fang Gorge** &nbsp;|&nbsp; ⏳ **Autumn, 71 DR (Day 21)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6, Mangekyou Clarity: 6/6, Spells: Infinite (L1-9), Epic Slots: L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 12), Bladesong (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -1889,8 +2113,11 @@ Another Master (Lvl 16) steps forward, his hands forming a nervous, rhythmic sea
 
 "No," Gantz interrupts, his voice heavy with the 'False Tail' narrative that has become the world's comfort. "The Black Sun was a myth, or a man who burned his soul to ash to protect a dying village. That... that thing we saw today wasn't a sun. It was a shadow that didn't even care to look at us. He isn't a warrior. He is something else. We report this to the Tsuchikage immediately. Tell him the Leaf's 'tactician' is a variable that defies our current math."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Land of Valleys - Iron Fang Gorge** &nbsp;|&nbsp; ⏳ **Autumn 21, 71 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1-L9 Infinite, L10 3/3, L11 2/2, L12 1/1, Mangekyou Clarity: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1917,8 +2144,11 @@ Gantz looks toward the dark line of the Hidden Leaf border. "Something is fundam
 > 👤 **Player:**
 > *"Narrate a scene where i debrief the squad and i congratulate them on facing a far stronger enemy and holding our own. My children are embarrassed as they’re used to winning and the other chunin are very puzzled. Even against  level 20 I have no fear and didn’t use sharignan. They’ve only ever seen me use it when tutoring"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Land of Valleys - Iron Fang Gorge (Camp)** &nbsp;|&nbsp; ⏳ **Autumn, 71 DR (Day 21)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Uchiha | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: Infinite (L1-9), Epic: L10 3/3, L11 2/2, L12 1/1, Clarity: 6/6, Kotoamatsukami: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Masked (Lvl 12) | Exhaustion: 0 | Inspiration: No**
@@ -1944,8 +2174,11 @@ I offer a sad, minimalist smile, my gaze shifting to the embers. "The Sharingan 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Land of Valleys - Iron Fang Gorge (Camp)** &nbsp;|&nbsp; ⏳ **Autumn 21, 71 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage (Masked Lvl 12) | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6 | Mangekyou Clarity: 6/6 | Spells: Unlimited (L9 & below), L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 12), Bladesong of the Sage, Permanent Foresight | Exhaustion: 0 | Inspiration: Yes**
@@ -1972,8 +2205,11 @@ Behind me, Sasuke (Lvl 20) and Izumi (Lvl 20) share a micro-moment of visceral, 
 > 👤 **Player:**
 > *"Encourage my children and say they did well and their opponents were extremely strong. Then long rest and time skip for a few more weeks of battles. Let’s assume the rest of our war camp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Northwestern Perimeter - High Command Camp** &nbsp;|&nbsp; ⏳ **Autumn 64, 71 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Mangekyou: 6/6 | Six Paths Chakra: 6/6 | Spells: Infinite (L1-9) | HD: 50/50** &nbsp;|&nbsp; ⚠️ **Normal | Mask: Lvl 12 Jonin | Exhaustion: 0**
@@ -2008,8 +2244,11 @@ He unrolls a high-priority mission scroll, his finger pressing hard against a ma
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Stone Supply Hub 'Titan's Rib'** &nbsp;|&nbsp; ⏳ **Autumn 64, 71 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Uchiha Itachi (Masked Lvl 15) | HP: 1050/1050 | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Slots: Infinite (L1-9), L10 3/3, L11 2/2, L12 1/1 | Six Paths: 6/6 | Clarity: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong of the Sage (Permanent), Foresight, Mind Blank, Freedom of Movement | Masking: Lvl 15**
@@ -2044,8 +2283,11 @@ Beside you, Kenji and Yui strike with the efficiency of legends, their Wind and 
 > 👤 **Player:**
 > *"Stay as level 15 and let my children attempt to finish the higher level opponent but intervene if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Stone Supply Hub 'Titan's Rib'** &nbsp;|&nbsp; ⏳ **Autumn, 71 DR (Day 64)** &nbsp;|&nbsp; 🛡️ **Uchiha Itachi (Masked Lvl 15) | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Infinite Slots (L1-9), Epic: L10 3/3, L11 2/2, L12 1/1 | Mangekyou Clarity: 6/6 | Six Paths: 6/6**
@@ -2079,8 +2321,11 @@ From the periphery, Tora (Lvl 14) watches me with a shivering, visceral awe. He 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Stone Supply Hub 'Titan's Rib'** &nbsp;|&nbsp; ⏳ **Autumn 64, 71 DR (23:47)** &nbsp;|&nbsp; 🛡️ **Lvl 34 (Masked 15) Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6, Mangekyou Clarity: 6/6, Infinite L1-9 Jutsu**
@@ -2113,8 +2358,11 @@ Lead extraction back to konoha and narrate everyone’s resctions to me. Let’s
 
 Let’s go report to tsunade with the jounins and my children. This time everyone observes how tsunade reacts to me and treats me and realizes she’s acting like she’s speaking to a superior even as hokage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Hokage Tower - Office** &nbsp;|&nbsp; ⏳ **Autumn, 71 DR (Day 65)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | Masked Lvl: 12 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **HD: 5/5, Mangekyou: 6/6, Sage Chakra: 6/6, Spells: Infinite (L1-9), Epic: L10 3/3, L11 2/2, L12 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2150,8 +2398,11 @@ Sayuri and Hiro share a micro-moment of divine, shivering humor. They watch the 
 God Mode:
 I should be older than 18 now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Whispering Reef (Southern Coastal Sector )** &nbsp;|&nbsp; ⏳ **Winter, 71 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6, Mangekyou Clarity: 6/6, Spells: L10-12 6/6, L1-9 Infinite** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2183,8 +2434,11 @@ A bolt of sapphire lightning tears through the winter mist. Sasuke (Lvl 20) mani
 > 👤 **Player:**
 > *"Trust dual wings but be ready to freeze time and teleport there if something truly dangerous happens. Mt children harden their resolve. They know probably I can teleport there but their pride is on the line which they fear more than death"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Southern Trade Road - Land of Fire** &nbsp;|&nbsp; ⏳ **Winter, 71 DR (Day 155)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Six Paths Chakra: Infinite (L9) / 6/6 (Epic) | Mangekyou Clarity: 6/6 | HD: 5/5 | Spells: Unlimited (L1-12)** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -2204,8 +2458,11 @@ Hiro (Lvl 12) wipes the brine from his face, his three-tomoe Sharingan stilled a
 God Mode:
 This is wrong i was talking to Gantz
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter 15, 75 DR (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Slots: Infinite (L1-9), Epic (L10: 3/3, L11: 2/2, L12: 1/1) | Ocular Clarity: 6/6 | Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong, Foresight, Glibness, Mind Blank, Freedom of Movement**
@@ -2227,8 +2484,11 @@ This is wrong i was talking to Gantz
 
 lets time skip for months/years untli something interesting happens or a real challenge. Narrate in detail every month"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter, 75 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (L10-), Mangekyou: 6/6, Susanoo: Complete Body, Truesight: 1 mile** &nbsp;|&nbsp; ⚠️ **Foresight (Always), Mind Blank (Always), Glibness (Always) | Masking: Level 12 Jonin**
@@ -2273,8 +2533,11 @@ something was wrong with that timeskip, its some random generic thing versus ful
 God Mode:
 Why would hiro care about chunin stuff when he's level 16 now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter, 75 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 34 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1080000/25000** &nbsp;|&nbsp; ✨ **Six Paths Chakra: 6/6, Mangekyou Clarity: 6/6, HD: 50/50, Spells: Infinite (L1-10), Exhaustion: 0**
@@ -2304,8 +2567,11 @@ Give them guidance but don’t directly intervene. Narrate what happens. See if 
 
 Time skip until they win or lose"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Land of Frost - Gedo Ravine** &nbsp;|&nbsp; ⏳ **Winter, 75 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1559000/46000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: Infinite (L1-9), Clarity: 6/6, Ki: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 12) | Exhaustion: 0 | Inspiration: No**
@@ -2327,8 +2593,11 @@ Sayuri (Lvl 18) and Hiro (Lvl 16) stand in a shivering, visceral silence. They l
 
 You gain **0 XP** (Capped). Sayuri and Hiro gain **4,000 XP** and **3,000 XP** respectively for the successful rescue and neutralization of a Coalition legend.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Uchiha Estate - Private Dojo** &nbsp;|&nbsp; ⏳ **Winter, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1559000/46000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: Infinite (L9 and below), L10 1/1, L11 2/2, L12 1/1, Ocular Zenith: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong of the Sage, Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -2356,8 +2625,11 @@ I maintain the stabilization threads with surgical precision, acting as the divi
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Uchiha Estate - Private Dojo** &nbsp;|&nbsp; ⏳ **Winter, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1559000/46000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1-L9 Infinite, L10 Infinite, L11 2/2, L12 1/1, Mangekyou Clarity: 5/5, Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2394,8 +2666,11 @@ Reason: Mangekyou Sharingan Awakening and spiritual harmonization.
 
 Give them a sad smile. Explain their new perspective. When they were younger they thought the power would make them happy. However now they know the cost. Also imagine the choices I make. I could end all the wars and force peace but take away autonomy. Every choice I made whether action or inaction can cost lives and autonomy becuse I actually have the power to change things. I bear the burden for it is my duty but it is not a pleasant one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Uchiha Estate - Private Dojo** &nbsp;|&nbsp; ⏳ **Winter, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1559000/46000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (L9 and below), Six Paths: 6/6, Mangekyou Clarity: 6/6, Bladesong: 6/6**
@@ -2418,8 +2693,11 @@ Sayuri (17) and Hiro (16) stand in a shivering, religious silence. They look at 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Konohagakure - War Room** &nbsp;|&nbsp; ⏳ **Winter, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1559000/46000** &nbsp;|&nbsp; ✨ **HD: 5/50, Spells: Infinite, Ocular Zenith: 6/6, Clarity: 5/5** &nbsp;|&nbsp; ⚠️ **Masking Protocol (Lvl 20) | Exhaustion: 0 | Inspiration: Yes**
@@ -2449,8 +2727,11 @@ The room falls into a state of profound, existential vertigo. Lady Tsunade (Lvl 
 > 👤 **Player:**
 > *"Observe Council Debate - Remain silent and allow Tsunade and Kakashi to attempt to persuade the Dual Inheritors."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Konohagakure - War Room** &nbsp;|&nbsp; ⏳ **Winter, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage (Masked: Lvl 20) | HP: 1050/1050 | Gold: 16,500gp | XP: 1559000/46000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (L1-9), Six Paths: 6/6, Mangekyou Clarity: 6/6, Strokes of Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Always Active), Ocular Sovereignty | Exhaustion: 0 | Inspiration: Yes**
@@ -2476,8 +2757,11 @@ Sayuri (17) and Hiro (16) stand in a shivering, visceral silence. The natural 20
 
 Outside the tower, the rhythmic sound of hammers echoes through the plaza as workers continue to hang banners for the 'Festival of the Sage.' A hawk from the northern picket descends to the balcony, its screech a sharp needle in the morning quiet. The village celebrates a peace they believe is eternal, unaware that the laboratory of their future is currently being debated in a room full of ghosts.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Konohagakure - War Room** &nbsp;|&nbsp; ⏳ **Winter, 75 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1555000/40000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (L1-9), Six Paths: 6/6, Mangekyou: 6/6, Glibness: Active**
@@ -2501,8 +2785,11 @@ Lady Tsunade (Lvl 14) flinches, her hands trembling as the profound weight of my
 
 [Note: Persuasion roll (Total 31 vs DC 22) passed. Social HP Damage: 2]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Uchiha District - Assembly Hall** &nbsp;|&nbsp; ⏳ **Winter, 78 DR (Month 4)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1559000/46000** &nbsp;|&nbsp; ✨ **HD: 50/50 | Spells: L1-L9 Infinite, L10 Infinite, L11 2/2, L12 1/1 | Six Paths: 6/6 | Mangekyou: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2533,8 +2820,11 @@ Raiden and the others offer a shallow, somewhat stiff bow. They find my 'mindful
 > 👤 **Player:**
 > *"Narrate a scene where Sasuke and izumi get angry with me for continuing to train them. I say that above all they are my children and I will support them even if I don’t agree. Sooner or later they’ll get the power of EMS with or without me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Uchiha Estate - Private Dojo** &nbsp;|&nbsp; ⏳ **Spring, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1563000/42000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (Lvl 1-9), Ocular Zenith: 6/6, Stroke of Luck: 1/1, Susanoo: Active**
@@ -2563,8 +2853,11 @@ Sasuke (Lvl 20) and Izumi (Lvl 20) stand by the shoji screens, their sapphire-bl
 Sayuri: Lvl 23 (EMS check failed: 17 vs DC 25) | Hiro: Lvl 21 (EMS Active)
 Reason: Spiritual maturation and reconciliation with the Source's sacrifice.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Uchiha Estate - Private Dojo** &nbsp;|&nbsp; ⏳ **Spring, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1563000/42000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (Lvl 1-9), Six Paths: 6/6, Mangekyou Clarity: 6/6, Stroke of Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Always Active), Masked (Lvl 20) | Inspiration: Yes**
@@ -2596,8 +2889,11 @@ Let’s assume my children are also shocked for  second. Even through officially
 
 Continue training and then long rest. Let’s assume their imperialist fire stays but they are shocked and need a few weeks to process the new relevations."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Spring, 78 DR (Month 2)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1565000/40000** &nbsp;|&nbsp; ✨ **HD: 50/50, Spells: Infinite L1-L9, L10 1/1, L11 2/2, L12 1/1, Ocular Zenith: 6/6, Stroke of Luck: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2625,8 +2921,11 @@ Surgical Decapitation - Utilize the 'Level 25' velocity to neutralize the remain
 
 Signal the Dual Ascendants - Decline further intervention and allow Sayuri and Hiro to finalize the neutralization of the Masters."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Hokage Tower - Briefing Room 1** &nbsp;|&nbsp; ⏳ **Spring, 78 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1575000/30000** &nbsp;|&nbsp; ✨ **HD: 5/11, Spells: Infinite (L1-10), Six Paths: 6/6, Clarity: 6/6** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 20) | Inspiration: Yes**
@@ -2666,8 +2965,11 @@ I meet their gaze with the weary, respectful obsidian eyes of a father who has s
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Hokage Tower - Briefing Room 1** &nbsp;|&nbsp; ⏳ **Spring, 78 DR (Month 4)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1575000/30000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1-L10 Infinite, L11 2/2, L2 1/1, Ki: 6/6, Kotoamatsukami: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2705,8 +3007,11 @@ I meet the room's gaze with the weary, respectful obsidian eyes of a father who 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Hokage Tower - Briefing Room 1** &nbsp;|&nbsp; ⏳ **Spring, 78 DR (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1575000/30000** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 20) | Exhaustion: 0 | Inspiration: Yes**
@@ -2741,8 +3046,11 @@ From the rear of the room, Jonin Raiden (Lvl 12) and the expansionists watch me 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Summit of the Five Nations - Land of Iron** &nbsp;|&nbsp; ⏳ **Spring, 80 DR (Month 3)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1581000/24000** &nbsp;|&nbsp; ✨ **HD: 50/50 | Spells: Universal Mastery | Mangekyou Clarity: 6/6 | Six Paths: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2771,8 +3079,11 @@ The Raikage slams his fist onto the iron table, the metal groaning under his lig
 
 Explain the philosophy. Say it can go even further which is why i stepped back. Show i could rule in an even more absolute way with even more peace and less freedom. Fully reveal another level of power to my children where i defeated the thousands of otsuki instantly and show how they’re now our alien vassals defending us from extra terrestrial threats and have been a silent alien empire all along too. The sannin and dual wings already knew about this and always feared what happened to the otsuki would happen to everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Uchiha God-Citadel (Imperial Dining Hall)** &nbsp;|&nbsp; ⏳ **Spring, 85 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1581000/24000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (L1-9), Ocular Zenith: 6/6, Susanoo: Complete Body, Yasaka Magatama: Ready** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Foresight (Active), Glibness (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2803,8 +3114,11 @@ Lady Tsunade (Lvl 14) and Master Jiraiya (Lvl 14) sit in a state of pained, reli
 
 Remind them that I had already told them about the otsuki I just hadn’t shown them. Also use genjutsu to show the alternative. Anworld without antone strong enough to win. Endless war. Or maybe everyone would’ve lost to the otsuki and been enslaved. Say that end of the spectrum isn’t pleasant either r"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Uchiha God-Citadel (Imperial Dining Hall)** &nbsp;|&nbsp; ⏳ **Spring, 85 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1581000/24000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1-L9 Infinite, L10 Infinite, L11 2/2, L12 1/1, Ki: 6/6, Mangekyou Clarity: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2847,8 +3161,11 @@ We return to the obsidian table. The cherry blossoms outside have not moved a mi
 
 Long rest and time skip. See what my children decide"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Uchiha God-Citadel - Observation Balcony** &nbsp;|&nbsp; ⏳ **Summer, 85 DR (Month 4)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1585000/20000** &nbsp;|&nbsp; ✨ **HD: 50/50, Spells: Infinite (L1-L10), L11 2/2, L12 1/1, Mangekyou Clarity: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2874,8 +3191,11 @@ They look at you, their eyes reflecting the pale morning light, awaiting your au
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Uchiha God-Citadel - Observation Balcony** &nbsp;|&nbsp; ⏳ **Summer, 85 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1585000/20000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (L1-9), Six Paths: 6/6, Ocular Zenith: 6/6, Glibness: Active** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 20) | Exhaustion: 0 | Inspiration: Yes**
@@ -2900,8 +3220,11 @@ Sayuri's floral Eternal Mangekyou flickers, her breathing a rhythmic, pained gas
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Spring, 92 DR (Month 4)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1585000/20000** &nbsp;|&nbsp; ✨ **HD: 11/11, Mangekyou: 5/5, Six Paths: 6/6, Spells: Infinite L1-9, AC: 63**
@@ -2923,8 +3246,11 @@ Sayuri and Hiro manifest on the porch, their Eternal Mangekyou active but flicke
 > 👤 **Player:**
 > *"Delegate Northern Audit - Permit Sayuri and Hiro to lead a diplomatic and sensory envoy to the Iron Fang Gorge to investigate the 'Dimming' independently."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Autumn, 95 DR (Month 3)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1585000/20000** &nbsp;|&nbsp; ✨ **HD: 11/11, Ocular Reservoir: Infinite (L10-), Six Paths: 6/6, Bladesong: Always Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2948,8 +3274,11 @@ I rise from my seat, the silence of the garden finally becoming a domestic quiet
 
 Heal izumi instantly using izanagi and ask her if she’s ok. This is the first time I’ve had to teleport to save her and she’s kind of amazed even if she knew I could do it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter, 100 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1585000/20000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: Infinite L1-L10, L11 2/2, L12 1/1, OcularZenith: 6/6, SixPaths: 6/6** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 20) | Inspiration: Yes**
@@ -2968,8 +3297,11 @@ I turn my gaze toward them, my face uncovered and serene. "I task you with the d
 
 Sayuri offers a deep, respectful bow, her floral star eyes stilled. "We will find the thread, Itachi-sama. The peace you gave us will not be unraveled by a void."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Uchiha Estate - Private Dojo** &nbsp;|&nbsp; ⏳ **Autumn, 108 DR (Month 9)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1589000/16000** &nbsp;|&nbsp; ✨ **Chakra: Infinite (L10-), Mangekyou: 6/6, Susanoo: Active, Senses: Omniscience (1mi)**
@@ -3009,8 +3341,11 @@ They stand in a state of profound, existential silence, perceiving the world not
 > 👤 **Player:**
 > *"For old times sake they ask me how old I was when I got the rinnegan and i am amused and answer and they are shocked as usual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Hokage Tower - Office of the Fifth** &nbsp;|&nbsp; ⏳ **Autumn, 108 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1589000/16000** &nbsp;|&nbsp; ✨ **Six Paths: 6/6, Clarity: 6/6, Koto: 1/1, HD: 5/50** &nbsp;|&nbsp; ⚠️ **Chakra Masking (Lvl 20) | Exhaustion: 0 | Inspiration: Yes**
@@ -3046,8 +3381,11 @@ The Cloud envoy's scroll clattered to the floor, his yellow aura extinguished by
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter, 125 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1555000/16000** &nbsp;|&nbsp; ✨ **HD: 50/50, Spells: Infinite (L1-10), L11 2/2, L2 1/1, Ocular Zenith: 6/6, Stroke of Luck: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3093,8 +3431,11 @@ But the Logic is contagious. The spear shatters upon my hand, yet a splinter of 
 > 👤 **Player:**
 > *"Let’s assume at level 50 I just win every roll. I fully heal her and then stop the source of this attack and cc it and then ask it what it’s doing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter, 125 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1589000/16000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1-L9 Infinite, L10 Infinite, L11 2/2, L12 1/1, Six Paths: 6/6, Clarity: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3143,8 +3484,11 @@ RELATIONS: Emperor of Entropy: Hostile
 > 👤 **Player:**
 > *"Teleport the emperor of entropy to me, make him level 1 then ask him what he’s doing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter, 125 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1589000/16000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1-L10 Infinite, L11 2/2, L12 1/1, Ocular Zenith: 6/6, Ki: 6/6** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Passive Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -3162,8 +3506,11 @@ RELATIONS: Emperor of Entropy: Hostile
 
 **State Integrity:** Confirmed. The world remains frozen under the Primordial veil. You may now return to story mode to interrogate the entity.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Pan-Substrate** &nbsp;|&nbsp; ⏳ **Winter, 125 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1589000/16000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: Infinite L1-L9, L10: 1/1, L11: 2/2, L12: 1/1, Ocular Zenith: 6/6, Stroke of Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong of the Sage, Sovereign Masking (Lvl 20)**
@@ -3208,8 +3555,11 @@ RELATIONS: Emperor of Entropy: Hostile | Pan-Substrate: Targeted
 - Alert: The sudden deletion of a Rank 50 Conductor has triggered a 'Calamity Class' ping across the substrate.
 - Event: The Emperor of Entropy has issued a 'Logic Purge' contract against your coordinates.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Pan-Substrate** &nbsp;|&nbsp; ⏳ **Winter, 125 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Sovereign Rank: #1 | XP: 1589000/16000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: Infinite L1-L9, L10 Inf, L11 2/2, L12 1/1, Chakra: 6/6, Clarity: 6/6, Aggro: 0/10**
@@ -3227,8 +3577,11 @@ RELATIONS: Emperor of Entropy: Hostile | Pan-Substrate: Targeted
 
 **State Integrity:** Confirmed. You are the beginning and the end of the laboratory. The Pan-Substrate is now your garden.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Uchiha Estate - Garden** &nbsp;|&nbsp; ⏳ **Winter, 125 DR (Month 1)** &nbsp;|&nbsp; 🛡️ **Lvl 44 Primordial Sage | HP: 1050/1050 | Gold: 16,500gp | XP: 1589000/16000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: Infinite, Clarity: 6/6, Six Paths: 6/6, Stroke of Luck: Available** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3249,6 +3602,8 @@ I offer them a small, sad smile, the 'Bladesong of the Sage' smoothing out the f
 
 > 👤 **Player:**
 > *"True resurrection for my lunar vassals and give them their freedom then time skip until someone’s life in danger"*
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

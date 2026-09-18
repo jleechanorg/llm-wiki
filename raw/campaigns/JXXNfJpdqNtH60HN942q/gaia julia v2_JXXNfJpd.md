@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (521 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 The World of the Gilded Republic: A Divergent History
@@ -175,537 +186,542 @@ The Flirtatious Naif: Giggle and say you slipped away to see "real men," appeali
 The Bored Heiress: Act slightly unimpressed but willing to spend money if entertained, forcing them to dance for you.
 The "Accidental" Power Move: Show a flash of your true nature (a 'Regal Frost') to terrify them before smoothing it over with a smile.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Unknown | Unknown | Roleplay |
-| **03** | Unknown | Unknown | Roleplay |
-| **04** | Unknown | Unknown | Roleplay |
-| **05** | Unknown | Unknown | Roleplay |
-| **06** | Unknown | Unknown | Roleplay |
-| **07** | Outside the Gates of the Ludus of Batiatus | 82 BCE, Late Afternoon | Roleplay |
-| **08** | Unknown | October 15, -82 DR (17:30) | Roleplay |
-| **09** | Ludus of Batiatus | October 15, -82 DR (17:30) | Social Challenge |
-| **10** | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
-| **11** | Entrance to Ludus of Batiatus | October 15, -82 BCE (17:35) | Roleplay |
-| **12** | Ludus of Batiatus | October 15, -82 BCE (17:35) | Roleplay |
-| **13** | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
-| **14** | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
-| **15** | Ludus of Batiatus | October 15, -82 DR (17:35) | Boss Surrender |
-| **16** | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
-| **17** | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
-| **18** | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
-| **19** | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
-| **20** | Ludus of Batiatus | October 15, -82 DR (17:40) | Social Challenge |
-| **21** | Ludus of Batiatus | October 15, -82 DR (17:45) | Roleplay |
-| **22** | Ludus of Batiatus | October 15, 82 BCE (17:45) | Roleplay |
-| **23** | Ludus of Batiatus | October 15, 82 BCE (17:45) | Roleplay |
-| **24** | Ludus of Batiatus | October 15, -82 BCE (17:45) | Roleplay |
-| **25** | Ludus of Batiatus | -82 October 15, 17:45:05 | Roleplay |
-| **26** | Ludus of Batiatus | October 15, -82 DR (17:50) | Roleplay |
-| **27** | Ludus of Batiatus | October 15, -82 BCE (17:55) | Roleplay |
-| **28** | Ludus of Batiatus | October 15, 82 BCE (17:55) | Roleplay |
-| **29** | Ludus of Batiatus | October 15, -82 DR (17:55) | Roleplay |
-| **30** | Ludus of Batiatus | October 15, -82 BCE (17:55) | Roleplay |
-| **31** | Ludus of Batiatus | October 15, -82 BCE (17:55) | Roleplay |
-| **32** | Ludus of Batiatus | October 15, 82 BCE (17:55) | Roleplay |
-| **33** | Ludus of Batiatus | October 15, 82 BCE (17:55) | Roleplay |
-| **34** | Ludus of Batiatus | October 15, -82 DR (17:56) | Roleplay |
-| **35** | Ludus of Batiatus | October 15, -82 DR (17:57) | Roleplay |
-| **36** | Ludus of Batiatus | October 15, -82 BCE (17:58) | Roleplay |
-| **37** | Ludus of Batiatus | October 15, -82 BCE (17:58) | Roleplay |
-| **38** | Ludus of Batiatus | October 15, 82 BCE (18:01) | Roleplay |
-| **39** | Ludus of Batiatus | October 15, 82 BCE (18:01) | Roleplay |
-| **40** | Ludus of Batiatus | October 15, 82 BCE (18:01) | Roleplay |
-| **41** | Ludus of Batiatus | October 15, -82 DR (18:01) | Roleplay |
-| **42** | Ludus of Batiatus | October 15, -82 BCE (18:01) | Roleplay |
-| **43** | Ludus of Batiatus | October 15, -82 DR (18:05) | Roleplay |
-| **44** | Ludus of Batiatus | October 15, -82 DR (18:12) | Roleplay |
-| **45** | Ludus of Batiatus | October 15, -82 BCE (18:15) | Roleplay |
-| **46** | Ludus of Batiatus | October 15, 82 BCE (18:15) | Roleplay |
-| **47** | Villa of Batiatus | October 15, 82 BCE (18:30) | Roleplay |
-| **48** | Villa of Batiatus | October 15, 82 BCE (18:35) | Roleplay |
-| **49** | Villa of Batiatus | -82 October 15, 18:40:00 | Roleplay |
-| **50** | Villa of Batiatus | October 15, 82 BCE (18:45) | Roleplay |
-| **51** | Villa of Batiatus | October 15, 82 BCE (18:45) | Roleplay |
-| **52** | Villa of Batiatus | -82 October 15, 18:50:00 | Roleplay |
-| **53** | Villa of Batiatus | October 15, 82 BCE (18:55) | Roleplay |
-| **54** | Unknown | October 15, -82 DR (18:55) | Roleplay |
-| **55** | Villa of Batiatus | October 15, 82 BCE (19:00) | Roleplay |
-| **56** | Villa of Batiatus | -82 October 15, 19:05:00 | Roleplay |
-| **57** | Villa of Batiatus | October 15, -82 DR (19:10) | Social Challenge |
-| **58** | Villa of Batiatus | -82 October 15, 19:15:00 | Roleplay |
-| **59** | Villa of Batiatus | October 15, -82 BCE (19:20) | Roleplay |
-| **60** | Villa of Batiatus | October 15, 82 BCE (19:20) | Roleplay |
-| **61** | Villa of Batiatus | October 15, 82 BCE (19:25) | Roleplay |
-| **62** | Villa of Batiatus | October 15, 82 BCE (19:25) | Roleplay |
-| **63** | Villa of Batiatus | October 15, -82 BCE (19:30) | Roleplay |
-| **64** | Villa of Batiatus | October 15, -82 BCE (19:35) | Roleplay |
-| **65** | Villa of Batiatus | October 15, -82 BCE (19:40) | Roleplay |
-| **66** | Villa of Batiatus | October 15, -82 BCE (22:30) | Roleplay |
-| **67** | Villa of Batiatus | October 15, -82 DR (22:35) | Roleplay |
-| **68** | Villa of Batiatus | October 15, -82 DR (22:45) | Roleplay |
-| **69** | Villa of Batiatus | October 15, -82 DR (22:50) | Roleplay |
-| **70** | Villa of Batiatus | October 15, -82 BCE (22:55) | Roleplay |
-| **71** | Villa of Batiatus | October 15, -82 BCE (22:55) | Roleplay |
-| **72** | Villa of Batiatus | October 15, -82 DR (23:00) | Roleplay |
-| **73** | Villa of Batiatus | October 15, -82 DR (23:05) | Boss Surrender |
-| **74** | Villa of Batiatus | October 15, -82 DR (23:15) | Boss Surrender |
-| **75** | Villa of Batiatus | October 15, -82 DR (23:20) | Social Challenge |
-| **76** | Villa of Batiatus | October 15, -82 BCE (23:25) | Roleplay |
-| **77** | Villa of Batiatus | October 15, -82 DR (23:30) | Roleplay |
-| **78** | Villa of Batiatus | October 15, -82 BCE (23:35) | Roleplay |
-| **79** | Villa of Batiatus | October 16, -82 DR (07:35) | Roleplay |
-| **80** | Villa of Batiatus | October 16, -82 BCE (08:15) | Social Challenge |
-| **81** | Villa of Batiatus | October 16, -82 BCE (08:45) | Roleplay |
-| **82** | Villa of Batiatus | October 16, -82 BCE (08:50) | Roleplay |
-| **83** | Villa of Batiatus | October 16, -82 BCE (08:55) | Social Challenge |
-| **84** | Villa of Batiatus | October 16, -82 BCE (08:55) | Social Challenge |
-| **85** | Villa of Batiatus | October 16, -82 BCE (09:10) | Social Challenge |
-| **86** | Villa of Batiatus | October 16, 82 BCE (09:25) | Roleplay |
-| **87** | Villa of Batiatus | October 16, -82 BCE (09:25) | Roleplay |
-| **88** | Villa of Batiatus | October 16, -82 BCE (09:20) | Social Challenge |
-| **89** | Villa of Batiatus | October 16, -82 BCE (09:20) | Roleplay |
-| **90** | Villa of Batiatus | October 16, -82 BCE (09:20) | Roleplay |
-| **91** | Villa of Batiatus | October 16, -82 BCE (09:30) | Boss Surrender |
-| **92** | Villa of Batiatus | October 16, -82 DR (09:35) | Roleplay |
-| **93** | Villa of Batiatus | October 16, 82 BCE (09:40) | Roleplay |
-| **94** | Villa of Batiatus | October 16, -82 BCE (09:45) | Roleplay |
-| **95** | Villa of Batiatus | October 16, -82 BCE (09:45) | Boss Surrender |
-| **96** | Villa of Batiatus | October 16, -82 BCE (09:50) | Social Challenge |
-| **97** | Villa of Calavius | October 16, -82 BCE (10:50) | Social Challenge |
-| **98** | Villa of Calavius | October 16, -82 DR (11:50) | Roleplay |
-| **99** | Villa of Calavius | October 16, -82 BCE (11:50) | Roleplay |
-| **100** | Villa of Calavius | October 16, 82 BCE (12:00) | Roleplay |
-| **101** | Villa of Calavius | October 16, -82 BCE (12:00) | Roleplay |
-| **102** | Villa of Calavius | October 16, -82 DR (12:15) | Roleplay |
-| **103** | Villa of Calavius | October 16, -82 BCE (12:15) | Roleplay |
-| **104** | Villa of Calavius | October 16, -82 DR (12:25) | Boss Surrender |
-| **105** | Villa of Calavius | October 16, -82 BCE (12:25) | Roleplay |
-| **106** | Villa of Calavius | October 16, -82 BCE (12:35) | Roleplay |
-| **107** | Villa of Calavius | October 16, -82 DR (12:45) | Roleplay |
-| **108** | Villa of Calavius | October 16, -82 DR (12:55) | Social Challenge |
-| **109** | Villa of Calavius | October 16, -82 DR (13:05) | Social Challenge |
-| **110** | Villa of Calavius | October 16, -82 DR (13:15) | Roleplay |
-| **111** | Villa of Calavius | October 16, -82 BCE (13:25) | Roleplay |
-| **112** | Villa of Calavius | October 16, 82 BCE (13:25) | Roleplay |
-| **113** | Villa of Calavius | October 16, -82 DR (13:35) | Roleplay |
-| **114** | Villa of Calavius | October 16, 82 BCE (13:45) | Boss Surrender |
-| **115** | Villa of Calavius | October 16, -82 BCE (13:45) | Roleplay |
-| **116** | Villa of Calavius | October 16, -82 BCE (13:45) | Roleplay |
-| **117** | Villa of Calavius | October 16, -82 BCE (13:45) | Roleplay |
-| **118** | Villa of Calavius | October 16, -82 BCE (14:00) | Roleplay |
-| **119** | Villa of Calavius | October 16, -82 BCE (14:00) | Roleplay |
-| **120** | Villa of Calavius | October 16, -82 BCE (14:00) | Roleplay |
-| **121** | Villa of Calavius | October 16, -82 DR (14:15) | Roleplay |
-| **122** | Villa of Calavius | October 16, -82 DR (14:30) | Roleplay |
-| **123** | Villa of Calavius | October 16, -82 BCE (14:30) | Roleplay |
-| **124** | Villa of Calavius | October 16, -82 DR (14:45) | Boss Surrender |
-| **125** | Villa of Calavius | October 16, -82 DR (15:00) | Boss Surrender |
-| **126** | Villa of Calavius | October 16, -82 DR (15:15) | Boss Surrender |
-| **127** | Villa of Calavius | October 16, -82 DR (15:30) | Roleplay |
-| **128** | Villa of Calavius | October 16, -82 BCE (15:45) | Roleplay |
-| **129** | Villa of Calavius | October 16, -82 BCE (15:45) | Roleplay |
-| **130** | Villa of Calavius | October 16, -82 BCE (15:45) | Roleplay |
-| **131** | Villa of Calavius | October 16, -82 DR (16:00) | Boss Surrender |
-| **132** | Villa of Calavius | October 16, -82 DR (16:20) | Roleplay |
-| **133** | Villa of Calavius | October 16, 82 BCE (16:35) | Roleplay |
-| **134** | Villa of Calavius | October 16, -82 BCE (16:45) | Boss Surrender |
-| **135** | Villa of Calavius | October 16, -82 BCE (16:55) | Roleplay |
-| **136** | Villa of Calavius | October 16, -82 DR (17:05) | Boss Surrender |
-| **137** | Villa of Calavius | October 16, -82 BCE (17:20) | Boss Surrender |
-| **138** | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
-| **139** | Unknown | October 16, -82 DR (17:20) | Roleplay |
-| **140** | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
-| **141** | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
-| **142** | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
-| **143** | Villa of Calavius | October 16, -82 DR (17:35) | Roleplay |
-| **144** | Villa of Calavius | October 16, -82 BCE (17:35) | Roleplay |
-| **145** | Villa of Calavius | October 16, -82 DR (17:50) | Boss Surrender |
-| **146** | Villa of Calavius | October 16, -82 DR (18:05) | Roleplay |
-| **147** | Villa of Calavius | October 16, -82 BCE (18:05) | Roleplay |
-| **148** | Villa of Calavius | October 16, -82 DR (18:20) | Roleplay |
-| **149** | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
-| **150** | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
-| **151** | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
-| **152** | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
-| **153** | Villa of Calavius | October 16, -82 BCE (18:30) | Roleplay |
-| **154** | Villa of Calavius | October 16, -82 BCE (18:40) | Roleplay |
-| **155** | Villa of Calavius | October 16, -82 DR (18:50) | Social Challenge |
-| **156** | Villa of Calavius | October 16, -82 BCE (19:00) | Roleplay |
-| **157** | Villa of Calavius | October 16, -82 BCE (19:10) | Boss Surrender |
-| **158** | Villa of Calavius | October 16, -82 BCE (19:25) | Roleplay |
-| **159** | Villa of Calavius | October 16, -82 BCE (19:35) | Roleplay |
-| **160** | Villa of Calavius | October 16, -82 DR (19:40) | Roleplay |
-| **161** | Villa of Calavius | October 16, -82 DR (20:10) | Roleplay |
-| **162** | Villa of Calavius | October 16, -82 BCE (20:10) | Roleplay |
-| **163** | Villa of Calavius | October 16, 82 BCE (20:10) | Roleplay |
-| **164** | Villa of Calavius | October 16, -82 BCE (20:15) | Roleplay |
-| **165** | Villa of Calavius | October 16, -82 BCE (20:20) | Roleplay |
-| **166** | Villa of Calavius | October 16, -82 BCE (20:30) | Roleplay |
-| **167** | Villa of Calavius | October 16, -82 BCE (20:35) | Roleplay |
-| **168** | Villa of Calavius | October 16, -82 BCE (20:40) | Boss Surrender |
-| **169** | Villa of Calavius | October 16, -82 DR (20:45) | Roleplay |
-| **170** | Villa of Calavius | October 16, -82 BCE (20:55) | Roleplay |
-| **171** | Villa of Calavius | October 16, -82 DR (21:05) | Roleplay |
-| **172** | Villa of Calavius | October 16, -82 DR (21:15) | Boss Surrender |
-| **173** | Villa of Calavius | October 16, -82 BCE (21:25) | Roleplay |
-| **174** | Villa of Calavius | October 16, -82 DR (21:16) | Roleplay |
-| **175** | Villa of Calavius | October 16, -82 BCE (21:16) | Roleplay |
-| **176** | Villa of Calavius | October 16, -82 DR (21:26) | Boss Surrender |
-| **177** | Villa of Calavius | October 16, -82 BCE (21:26) | Roleplay |
-| **178** | Villa of Calavius | October 16, -82 DR (21:56) | Boss Surrender |
-| **179** | Villa of Calavius | October 16, -82 DR (22:26) | Boss Surrender |
-| **180** | Villa of Calavius | October 16, -82 DR (22:31) | Roleplay |
-| **181** | Villa of Calavius | October 16, -82 BCE (22:32) | Roleplay |
-| **182** | Villa of Calavius | October 16, -82 BCE (22:32) | Roleplay |
-| **183** | Villa of Calavius | October 16, -82 BCE (22:37) | Roleplay |
-| **184** | Villa of Calavius | October 16, -82 BCE (22:39) | Roleplay |
-| **185** | Villa of Calavius | October 16, -82 DR (22:44) | Roleplay |
-| **186** | Villa of Calavius | October 16, -82 BCE (22:49) | Roleplay |
-| **187** | Villa of Calavius | October 16, -82 BCE (22:44) | Social Challenge |
-| **188** | Villa of Calavius | October 16, -82 DR (22:44) | Roleplay |
-| **189** | Villa of Calavius | October 16, -82 BCE (22:50) | Roleplay |
-| **190** | Villa of Calavius | October 16, -82 BCE (22:55) | Roleplay |
-| **191** | Villa of Calavius | October 16, -82 DR (22:56) | Roleplay |
-| **192** | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
-| **193** | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
-| **194** | Villa of Calavius | October 16, -82 BCE (23:10) | Boss Surrender |
-| **195** | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
-| **196** | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
-| **197** | Villa of Calavius | October 16, -82 BCE (23:25) | Boss Surrender |
-| **198** | Villa of Calavius | October 16, 82 BCE (23:30) | Roleplay |
-| **199** | Villa of Calavius | October 16, -82 BCE (23:30) | Roleplay |
-| **200** | Villa of Calavius | October 16, -82 DR (23:35) | Boss Surrender |
-| **201** | Villa of Calavius | October 16, -82 DR (23:40) | Roleplay |
-| **202** | Villa of Calavius | October 16, -82 DR (23:45) | Roleplay |
-| **203** | Villa of Calavius | October 16, -82 DR (23:50) | Roleplay |
-| **204** | Villa of Calavius | October 16, -82 DR (23:55) | Roleplay |
-| **205** | Villa of Calavius | October 17, -82 DR (00:05) | Boss Surrender |
-| **206** | Villa of Calavius | October 17, -82 BCE (00:10) | Roleplay |
-| **207** | Villa of Calavius | October 17, 82 BCE (00:10) | Roleplay |
-| **208** | Villa of Calavius | October 17, -82 BCE (00:10) | Roleplay |
-| **209** | Villa of Calavius | October 17, -82 DR (00:25) | Roleplay |
-| **210** | Villa of Calavius | October 17, -82 DR (08:30) | Roleplay |
-| **211** | Villa of Calavius | October 17, 82 BCE (08:45) | Roleplay |
-| **212** | Villa of Calavius | October 17, -82 DR (09:00) | Roleplay |
-| **213** | Villa of Calavius | October 17, -82 DR (10:15) | Roleplay |
-| **214** | Villa of Calavius | October 17, -82 DR (10:30) | Roleplay |
-| **215** | Subterranean Currents | October 17, -82 DR (21:00) | Roleplay |
-| **216** | Subterranean Currents | October 17, -82 DR (21:00) | Roleplay |
-| **217** | Subterranean Currents | October 17, -82 BCE (21:15) | Roleplay |
-| **218** | Coastal Safehouse | October 18, -82 DR (10:00) | Social Challenge |
-| **219** | Coastal Safehouse | October 18, -82 BCE (10:00) | Roleplay |
-| **220** | Neapolis Docks (Hidden Overlook) | October 18, -82 DR (12:15) | Roleplay |
-| **221** | Neapolis Docks | October 18, -82 BCE (12:15) | Roleplay |
-| **222** | Neapolis Docks (Warehouse Delta) | October 18, -82 DR (13:15) | Roleplay |
-| **223** | Neapolis Docks (Warehouse Delta) | October 18, 82 BCE (13:15) | Roleplay |
-| **224** | Neapolis Docks (Warehouse Delta) | October 18, -82 DR (14:15) | Roleplay |
-| **225** | Neapolis Docks (Warehouse Delta) | October 18, -82 BCE (14:15) | Roleplay |
-| **226** | Coastal Safehouse near Neapolis | October 18, -82 DR (15:30) | Roleplay |
-| **227** | Coastal Safehouse near Neapolis | October 18, -82 BCE (15:30) | Roleplay |
-| **228** | Coastal Safehouse near Neapolis | October 18, -82 BCE (15:40) | Roleplay |
-| **229** | Coastal Safehouse near Neapolis | October 18, -82 DR (16:00) | Roleplay |
-| **230** | Coastal Safehouse near Neapolis | October 18, -82 DR (16:05) | Boss Surrender |
-| **231** | Neapolis | October 18, -82 DR (18:05) | Roleplay |
-| **232** | Ruined Temple of Apollo | October 18, -82 DR (18:20) | Roleplay |
-| **233** | Ruined Temple of Apollo | October 18, -82 DR (18:30) | Roleplay |
-| **234** | Ruined Temple of Apollo | October 18, -82 DR (18:35) | Roleplay |
-| **235** | Ruined Temple of Apollo | October 18, -82 DR (18:40) | Roleplay |
-| **236** | Ruined Temple of Apollo | October 18, -82 DR (18:55) | Boss Surrender |
-| **237** | Ruined Temple of Apollo | October 18, 82 BCE (18:55) | Roleplay |
-| **238** | Ruined Temple of Apollo | October 18, -82 BCE (18:55) | Roleplay |
-| **239** | Coastal Safehouse near Neapolis | October 18, -82 BCE (19:30) | Roleplay |
-| **240** | Coastal Safehouse near Neapolis | October 18, -82 DR (20:30) | Roleplay |
-| **241** | Coastal Safehouse near Neapolis | October 18, -82 DR (21:30) | Roleplay |
-| **242** | The Grand Arena of Batiatus | October 25, -82 DR (09:00) | Roleplay |
-| **243** | The Grand Arena of Batiatus | October 25, -82 BCE (09:05) | Roleplay |
-| **244** | The Grand Arena of Batiatus | October 25, 82 BCE (09:05) | Boss Surrender |
-| **245** | The Grand Arena of Batiatus | October 25, -82 BCE (09:15) | Roleplay |
-| **246** | The Grand Arena of Batiatus | October 25, 82 BCE (09:15) | Roleplay |
-| **247** | The Grand Arena of Batiatus | October 25, -82 BCE (09:15) | Roleplay |
-| **248** | The Grand Arena of Batiatus | October 25, -82 DR (09:30) | Roleplay |
-| **249** | The Grand Arena of Batiatus | October 25, -82 DR (09:45) | Social Challenge |
-| **250** | The Grand Arena of Batiatus | October 25, -82 BCE (09:45) | Roleplay |
-| **251** | The Grand Arena of Batiatus | October 25, 82 BCE (09:50) | Roleplay |
-| **252** | The Grand Arena of Batiatus | October 25, -82 BCE (09:50) | Roleplay |
-| **253** | The Grand Arena of Batiatus | October 25, -82 BCE (10:05) | Boss Surrender |
-| **254** | The Grand Arena of Batiatus | October 25, -82 DR (10:20) | Roleplay |
-| **255** | Sulla's Encampment | October 25, -82 DR (23:30) | Roleplay |
-| **256** | Sulla's Encampment | October 25, -82 BCE (23:30) | Roleplay |
-| **257** | Sulla's Encampment | October 25, -82 BCE (23:30) | Roleplay |
-| **258** | Sulla's Encampment | October 26, -82 DR (00:00) | Roleplay |
-| **259** | Sulla's Encampment | October 26, -82 DR (00:30) | Roleplay |
-| **260** | Coastal Safehouse | October 26, -82 DR (00:45) | Roleplay |
-| **261** | Coastal Safehouse | October 26, 82 BCE (00:45) | Roleplay |
-| **262** | Temple of Mars | October 26, -82 DR (01:45) | Roleplay |
-| **263** | Coastal Safehouse | October 26, -82 DR (02:00) | Roleplay |
-| **264** | Coastal Safehouse | October 26, -82 BCE (02:00) | Roleplay |
-| **265** | Coastal Safehouse | October 26, -82 DR (02:15) | Roleplay |
-| **266** | Coastal Safehouse | October 26, -82 BCE (02:15) | Roleplay |
-| **267** | Coastal Safehouse | October 26, 82 BCE (03:00) | Roleplay |
-| **268** | Coastal Safehouse | October 26, -82 BCE (03:00) | Roleplay |
-| **269** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **270** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **271** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **272** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **273** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **274** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **275** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **276** | Coastal Safehouse | October 26, 82 BCE (04:00) | Roleplay |
-| **277** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **278** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **279** | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
-| **280** | Coastal Safehouse | October 26, -82 DR (04:15) | Roleplay |
-| **281** | Coastal Safehouse | October 26, -82 BCE (04:15) | Roleplay |
-| **282** | Coastal Safehouse | October 26, -82 DR (05:15) | Roleplay |
-| **283** | Coastal Safehouse | October 26, -82 BCE (05:15) | Roleplay |
-| **284** | Coastal Safehouse | October 26, -82 DR (05:15) | Roleplay |
-| **285** | Coastal Safehouse | October 26, -82 DR (06:15) | Roleplay |
-| **286** | Coastal Safehouse | October 26, -82 DR (07:15) | Boss Surrender |
-| **287** | Coastal Safehouse | October 26, -82 BCE (07:15) | Roleplay |
-| **288** | Coastal Safehouse | October 26, -82 BCE (07:25) | Roleplay |
-| **289** | Coastal Safehouse | October 26, -82 BCE (07:30) | Roleplay |
-| **290** | Coastal Safehouse | October 26, -82 DR (07:35) | Boss Surrender |
-| **291** | Coastal Safehouse | October 26, -82 DR (07:45) | Roleplay |
-| **292** | Coastal Safehouse | October 26, -82 DR (08:15) | Boss Surrender |
-| **293** | Coastal Safehouse |  | Roleplay |
-| **294** | Coastal Safehouse | October 26, -82 DR (08:40) | Boss Surrender |
-| **295** | Coastal Safehouse | October 26, -82 BCE (08:35) | Boss Surrender |
-| **296** | Coastal Safehouse | October 26, -82 BCE (08:45) | Roleplay |
-| **297** | Coastal Safehouse | October 26, -82 BCE (09:00) | Roleplay |
-| **298** | Shadow Council Vault | October 27, -82 DR (02:00) | Roleplay |
-| **299** | Unknown | October 27, -82 DR (02:00) | Roleplay |
-| **300** | Shadow Council Vault | October 27, -82 BCE (02:00) | Roleplay |
-| **301** | Shadow Council Vault | October 27, -82 BCE (02:10) | Roleplay |
-| **302** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:15) | Roleplay |
-| **303** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:20) | Roleplay |
-| **304** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:25) | Roleplay |
-| **305** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:35) | Roleplay |
-| **306** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:40) | Roleplay |
-| **307** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:45) | Roleplay |
-| **308** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:45) | Roleplay |
-| **309** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:46) | Roleplay |
-| **310** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:50) | Roleplay |
-| **311** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (03:00) | Roleplay |
-| **312** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (03:15) | Roleplay |
-| **313** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (03:30) | Roleplay |
-| **314** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (03:45) | Roleplay |
-| **315** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:00) | Roleplay |
-| **316** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:15) | Roleplay |
-| **317** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:15) | Roleplay |
-| **318** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:20) | Roleplay |
-| **319** | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (04:25) | Roleplay |
-| **320** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:30) | Roleplay |
-| **321** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Roleplay |
-| **322** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Boss Surrender |
-| **323** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Roleplay |
-| **324** | Unknown | October 27, -82 DR (04:35) | Roleplay |
-| **325** | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Boss Surrender |
-| **326** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:35) | Roleplay |
-| **327** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **328** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **329** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **330** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **331** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **332** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **333** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **334** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **335** | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
-| **336** | Shadow Council Vault (Aventine Vault) | November 10, -82 DR (12:45) | Boss Surrender |
-| **337** | Domus Julia | November 11, -82 DR (14:30) | Roleplay |
-| **338** | Domus Julia | November 11, -82 BCE (14:30) | Roleplay |
-| **339** | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
-| **340** | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
-| **341** | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
-| **342** | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
-| **343** | Domus Julia | November 11, -82 BCE (14:50) | Social Challenge |
-| **344** | Domus Julia | November 11, -82 BCE (15:05) | Roleplay |
-| **345** | Domus Julia | November 11, -82 BCE (15:20) | Roleplay |
-| **346** | Domus Julia | November 11, -82 BCE (15:30) | Roleplay |
-| **347** | Domus Julia | November 11, -82 DR (15:30) | Roleplay |
-| **348** | Domus Julia | November 11, -82 BCE (15:30) | Roleplay |
-| **349** | The Roman Treasury (Aerarium) | November 11, -82 BCE (16:00) | Roleplay |
-| **350** | The Roman Treasury (Aerarium) | November 11, -82 BCE (16:15) | Roleplay |
-| **351** | The Roman Treasury (Aerarium) | November 11, -82 BCE (16:20) | Roleplay |
-| **352** | The Roman Treasury (Aerarium) | November 11, -82 DR (16:40) | Roleplay |
-| **353** | Subura | November 11, -82 BCE (17:00) | Roleplay |
-| **354** | Subura | November 11, -82 DR (17:30) | Roleplay |
-| **355** | Forum Romanum | November 11, -82 BCE (18:15) | Social Challenge |
-| **356** | Forum Romanum | November 11, -82 BCE (18:25) | Social Challenge |
-| **357** | Forum Romanum | November 11, -82 BCE (18:30) | Roleplay |
-| **358** | Forum Romanum | November 11, -82 BCE (18:35) | Boss Surrender |
-| **359** | Forum Romanum | November 11, -82 BCE (18:35) | Roleplay |
-| **360** | Abandoned Shrine to Mars Ultor | November 11, -82 DR (19:15) | Roleplay |
-| **361** | Abandoned Shrine to Mars Ultor | November 11, -82 BCE (19:15) | Roleplay |
-| **362** | Abandoned Shrine to Mars Ultor | November 11, -82 BCE (19:15) | Roleplay |
-| **363** | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
-| **364** | Domus Julia | November 11, -82 BCE (20:35) | Roleplay |
-| **365** | Domus Julia | November 11, -82 BCE (20:40) | Roleplay |
-| **366** | Domus Julia | November 11, -82 BCE (20:40) | Roleplay |
-| **367** | Domus Julia | November 11, -82 BCE (20:40) | Roleplay |
-| **368** | Domus Julia | November 11, -82 BCE (20:45) | Roleplay |
-| **369** | Domus Julia | November 11, -82 BCE (20:45) | Roleplay |
-| **370** | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
-| **371** | Domus Julia | November 11, -82 BCE (20:40) | Social Challenge |
-| **372** | Domus Julia | November 11, -82 BCE (20:40) | Social Challenge |
-| **373** | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
-| **374** | Domus Julia | November 11, -82 BCE (20:35) | Social Challenge |
-| **375** | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
-| **376** | Domus Julia | November 11, -82 BCE (20:30) | Social Challenge |
-| **377** | Domus Julia (Eastern Wing) | November 11, -82 BCE (20:45) | Roleplay |
-| **378** | Domus Julia (Eastern Wing) | November 11, -82 BCE (20:45) | Roleplay |
-| **379** | Domus Julia (Eastern Wing) | November 11, -82 BCE (20:50) | Boss Surrender |
-| **380** | Unknown | November 11, -82 DR (20:50) | Roleplay |
-| **381** | Domus Julia (Eastern Wing) | November 11, -82 BCE (21:00) | Roleplay |
-| **382** | Domus Julia | November 11, -82 BCE (21:00) | Roleplay |
-| **383** | Domus Julia | November 11, -82 DR (21:05) | Boss Surrender |
-| **384** | Domus Julia | November 11, -82 DR (21:20) | Social Challenge |
-| **385** | Domus Julia | November 11, -82 BCE (21:25) | Roleplay |
-| **386** | Domus Julia | November 11, -82 BCE (21:30) | Roleplay |
-| **387** | Domus Julia | November 11, -82 BCE (21:35) | Boss Surrender |
-| **388** | Domus Julia | November 11, -82 DR (21:40) | Roleplay |
-| **389** | Domus Julia | November 11, -82 DR (21:55) | Boss Surrender |
-| **390** | Domus Julia | November 11, -82 DR (22:15) | Roleplay |
-| **391** | Domus Julia | November 12, -82 BCE (19:30) | Roleplay |
-| **392** | Domus Julia | November 12, -82 BCE (19:30) | Roleplay |
-| **393** | Domus Julia | November 12, -82 BCE (19:40) | Roleplay |
-| **394** | Domus Julia | November 13, -82 BCE (09:00) | Roleplay |
-| **395** | Domus Julia | November 13, -82 BCE (09:10) | Roleplay |
-| **396** | Domus Julia | November 13, -82 BCE (09:15) | Roleplay |
-| **397** | Domus Julia | November 13, -82 BCE (09:15) | Boss Surrender |
-| **398** | Domus Julia | November 13, -82 BCE (09:20) | Roleplay |
-| **399** | Domus Julia | November 13, -82 BCE (11:00) | Roleplay |
-| **400** | Domus Julia | November 13, -82 BCE (11:05) | Boss Surrender |
-| **401** | Domus Julia | November 13, -82 BCE (11:20) | Roleplay |
-| **402** | Domus Julia | November 13, -82 BCE (11:30) | Boss Surrender |
-| **403** | Domus Julia | November 13, -82 BCE (11:35) | Roleplay |
-| **404** | Domus Julia | November 13, -82 BCE (11:40) | Roleplay |
-| **405** | Domus Julia | November 13, -82 BCE (11:35) | Roleplay |
-| **406** | Domus Julia | November 13, -82 BCE (11:35) | Roleplay |
-| **407** | Domus Julia | November 13, -82 BCE (11:35) | Boss Surrender |
-| **408** | Domus Julia | November 13, -82 BCE (11:45) | Roleplay |
-| **409** | Domus Julia | November 13, -82 BCE (11:55) | Boss Surrender |
-| **410** | Domus Julia | November 13, -82 DR (12:15) | Roleplay |
-| **411** | Domus Julia | November 13, -82 BCE (12:20) | Boss Surrender |
-| **412** | Domus Julia | November 13, -82 BCE (12:20) | Roleplay |
-| **413** | Domus Julia | November 13, -82 BCE (12:20) | Roleplay |
-| **414** | Domus Julia | November 13, -82 BCE (12:25) | Roleplay |
-| **415** | Domus Julia | November 13, -82 DR (12:30) | Roleplay |
-| **416** | Domus Julia | November 13, -82 DR (12:35) | Boss Surrender |
-| **417** | Domus Julia | November 13, -82 BCE (12:45) | Roleplay |
-| **418** | Domus Julia | November 13, -82 DR (12:55) | Roleplay |
-| **419** | Domus Julia | November 13, -82 DR (13:05) | Roleplay |
-| **420** | Domus Julia | November 13, -82 BCE (13:15) | Roleplay |
-| **421** | Domus Julia | November 13, -82 BCE (13:15) | Roleplay |
-| **422** | Domus Julia | November 13, -82 BCE (19:30) | Social Challenge |
-| **423** | Domus Julia | November 13, -82 BCE (19:30) | Roleplay |
-| **424** | Domus Julia | November 13, -82 BCE (19:30) | Roleplay |
-| **425** | Domus Julia | November 13, -82 BCE (19:30) | Roleplay |
-| **426** | Domus Julia | November 13, -82 BCE (19:35) | Social Challenge |
-| **427** | Domus Julia | November 13, -82 BCE (19:37) | Roleplay |
-| **428** | Domus Julia | November 13, -82 BCE (19:37) | Roleplay |
-| **429** | Domus Julia | November 13, -82 BCE (19:40) | Roleplay |
-| **430** | Domus Julia | November 13, -82 BCE (19:40) | Social Challenge |
-| **431** | Domus Julia | November 13, -82 BCE (19:40) | Roleplay |
-| **432** | Domus Julia | November 13, -82 BCE (19:40) | Social Challenge |
-| **433** | Domus Julia | November 13, -82 BCE (19:45) | Roleplay |
-| **434** | Domus Julia | November 13, -82 BCE (19:45) | Roleplay |
-| **435** | Domus Julia | November 13, -82 BCE (19:45) | Roleplay |
-| **436** | Domus Julia | November 13, 82 BCE (19:45) | Roleplay |
-| **437** | Domus Julia | November 13, -82 BCE (19:50) | Roleplay |
-| **438** | Domus Julia | November 13, -82 BCE (19:55) | Roleplay |
-| **439** | Domus Julia | November 13, -82 BCE (20:00) | Social Challenge |
-| **440** | Domus Julia | November 13, -82 BCE (20:00) | Roleplay |
-| **441** | Domus Julia | November 13, -82 BCE (20:00) | Roleplay |
-| **442** | Domus Julia | November 13, -82 BCE (20:00) | Boss Surrender |
-| **443** | Domus Julia | November 13, 82 BCE (20:05) | Roleplay |
-| **444** | Domus Julia | November 13, -82 BCE (20:06) | Social Challenge |
-| **445** | Domus Julia | November 13, -82 BCE (20:06) | Boss Surrender |
-| **446** | Domus Julia | November 13, -82 BCE (20:07) | Roleplay |
-| **447** | Domus Julia | November 13, -82 BCE (20:07) | Roleplay |
-| **448** | Unknown |  | Roleplay |
-| **449** | Domus Julia | November 13, -82 BCE (20:08) | Roleplay |
-| **450** | Domus Julia | November 13, -82 BCE (20:08) | Roleplay |
-| **451** | Domus Julia | November 13, -82 DR (20:15) | Boss Surrender |
-| **452** | Domus Julia | November 13, -82 BCE (20:20) | Boss Surrender |
-| **453** | Domus Julia | November 13, -82 DR (20:25) | Roleplay |
-| **454** | Domus Julia | November 13, -82 DR (20:30) | Boss Surrender |
-| **455** | Domus Julia | November 13, -82 DR (20:35) | Roleplay |
-| **456** | Domus Julia | November 13, -82 BCE (20:40) | Boss Surrender |
-| **457** | Domus Julia | November 13, -82 BCE (20:40) | Boss Surrender |
-| **458** | Domus Julia | November 13, -82 BCE (20:40) | Boss Surrender |
-| **459** | Domus Julia | November 13, -82 BCE (20:40) | Roleplay |
-| **460** | Domus Julia | November 13, -82 BCE (20:45) | Roleplay |
-| **461** | Domus Julia | November 13, -82 DR (20:50) | Boss Surrender |
-| **462** | Domus Julia | November 13, -82 DR (20:55) | Roleplay |
-| **463** | Domus Julia | November 13, -82 DR (21:05) | Social Challenge |
-| **464** | Domus Julia | November 13, -82 BCE (21:10) | Roleplay |
-| **465** | Domus Julia | November 13, -82 DR (21:15) | Roleplay |
-| **466** | Domus Julia | November 13, -82 DR (21:20) | Roleplay |
-| **467** | Grand Triclinium | November 13, -82 BCE (21:25) | Roleplay |
-| **468** | Domus Julia | November 13, -82 BCE (21:40) | Boss Surrender |
-| **469** | Domus Julia | November 13, -82 BCE (22:00) | Roleplay |
-| **470** | Domus Julia | November 13, -82 BCE (22:15) | Social Challenge |
-| **471** | Domus Julia | November 13, -82 BCE (22:30) | Social Challenge |
-| **472** | Domus Julia | November 13, -82 BCE (22:45) | Social Challenge |
-| **473** | Domus Julia | November 13, -82 BCE (22:45) | Roleplay |
-| **474** | Domus Julia | November 13, -82 BCE (22:55) | Roleplay |
-| **475** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **476** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **477** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **478** | Domus Julia | November 13, -82 DR (23:10) | Roleplay |
-| **479** | Domus Julia | November 13, -82 DR (23:10) | Roleplay |
-| **480** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **481** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **482** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **483** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **484** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **485** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **486** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **487** | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
-| **488** | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
-| **489** | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
-| **490** | Unknown | November 13, -82 DR (23:10) | Roleplay |
-| **491** | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
-| **492** | Unknown | November 13, -82 DR (23:10) | Roleplay |
-| **493** | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
-| **494** | Grand Audience Hall | November 13, -82 BCE (23:30) | Roleplay |
-| **495** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **496** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **497** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **498** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **499** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **500** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **501** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **502** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **503** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **504** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **505** | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
-| **506** | Grand Audience Hall | November 14, -82 DR (08:30) | Roleplay |
-| **507** | Grand Audience Hall | November 14, -82 DR (08:35) | Social Challenge |
-| **508** | Grand Audience Hall | November 14, -82 BCE (08:35) | Roleplay |
-| **509** | Grand Audience Hall | November 14, -82 BCE (08:35) | Roleplay |
-| **510** | Grand Audience Hall | November 14, -82 BCE (08:35) | Roleplay |
-| **511** | Grand Audience Hall | November 14, -82 BCE (08:45) | Roleplay |
-| **512** | Grand Audience Hall | November 15, -82 BCE (08:45) | Boss Surrender |
-| **513** | Grand Audience Hall | November 15, -82 DR (09:00) | Roleplay |
-| **514** | Throne Room of the Arsacid King | November 15, -82 BCE (09:05) | Roleplay |
-| **515** | Domus Julia | November 15, -82 DR (09:20) | Roleplay |
-| **516** | Domus Julia Balcony | November 15, -82 BCE (09:30) | Roleplay |
-| **517** | Domus Julia Balcony | November 15, -82 DR (10:00) | Roleplay |
-| **518** | Domus Julia Balcony | November 15, -82 BCE (10:15) | Roleplay |
-| **519** | Domus Julia Balcony | November 15, 82 BCE (10:20) | Roleplay |
-| **520** | Domus Julia Balcony | November 15, -82 BCE (10:35) | Boss Surrender |
-| **521** | Domus Julia Balcony | November 15, -82 BCE (10:35) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown | Unknown | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown | Unknown | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown | Unknown | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown | Unknown | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown | Unknown | Roleplay |
+| [**Scene 07**](#scene-7) | Outside the Gates of the Ludus of Batiatus | 82 BCE, Late Afternoon | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown | October 15, -82 DR (17:30) | Roleplay |
+| [**Scene 09**](#scene-9) | Ludus of Batiatus | October 15, -82 DR (17:30) | Social Challenge |
+| [**Scene 10**](#scene-10) | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
+| [**Scene 11**](#scene-11) | Entrance to Ludus of Batiatus | October 15, -82 BCE (17:35) | Roleplay |
+| [**Scene 12**](#scene-12) | Ludus of Batiatus | October 15, -82 BCE (17:35) | Roleplay |
+| [**Scene 13**](#scene-13) | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
+| [**Scene 14**](#scene-14) | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
+| [**Scene 15**](#scene-15) | Ludus of Batiatus | October 15, -82 DR (17:35) | Boss Surrender |
+| [**Scene 16**](#scene-16) | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
+| [**Scene 17**](#scene-17) | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
+| [**Scene 18**](#scene-18) | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
+| [**Scene 19**](#scene-19) | Ludus of Batiatus | October 15, 82 BCE (17:35) | Roleplay |
+| [**Scene 20**](#scene-20) | Ludus of Batiatus | October 15, -82 DR (17:40) | Social Challenge |
+| [**Scene 21**](#scene-21) | Ludus of Batiatus | October 15, -82 DR (17:45) | Roleplay |
+| [**Scene 22**](#scene-22) | Ludus of Batiatus | October 15, 82 BCE (17:45) | Roleplay |
+| [**Scene 23**](#scene-23) | Ludus of Batiatus | October 15, 82 BCE (17:45) | Roleplay |
+| [**Scene 24**](#scene-24) | Ludus of Batiatus | October 15, -82 BCE (17:45) | Roleplay |
+| [**Scene 25**](#scene-25) | Ludus of Batiatus | -82 October 15, 17:45:05 | Roleplay |
+| [**Scene 26**](#scene-26) | Ludus of Batiatus | October 15, -82 DR (17:50) | Roleplay |
+| [**Scene 27**](#scene-27) | Ludus of Batiatus | October 15, -82 BCE (17:55) | Roleplay |
+| [**Scene 28**](#scene-28) | Ludus of Batiatus | October 15, 82 BCE (17:55) | Roleplay |
+| [**Scene 29**](#scene-29) | Ludus of Batiatus | October 15, -82 DR (17:55) | Roleplay |
+| [**Scene 30**](#scene-30) | Ludus of Batiatus | October 15, -82 BCE (17:55) | Roleplay |
+| [**Scene 31**](#scene-31) | Ludus of Batiatus | October 15, -82 BCE (17:55) | Roleplay |
+| [**Scene 32**](#scene-32) | Ludus of Batiatus | October 15, 82 BCE (17:55) | Roleplay |
+| [**Scene 33**](#scene-33) | Ludus of Batiatus | October 15, 82 BCE (17:55) | Roleplay |
+| [**Scene 34**](#scene-34) | Ludus of Batiatus | October 15, -82 DR (17:56) | Roleplay |
+| [**Scene 35**](#scene-35) | Ludus of Batiatus | October 15, -82 DR (17:57) | Roleplay |
+| [**Scene 36**](#scene-36) | Ludus of Batiatus | October 15, -82 BCE (17:58) | Roleplay |
+| [**Scene 37**](#scene-37) | Ludus of Batiatus | October 15, -82 BCE (17:58) | Roleplay |
+| [**Scene 38**](#scene-38) | Ludus of Batiatus | October 15, 82 BCE (18:01) | Roleplay |
+| [**Scene 39**](#scene-39) | Ludus of Batiatus | October 15, 82 BCE (18:01) | Roleplay |
+| [**Scene 40**](#scene-40) | Ludus of Batiatus | October 15, 82 BCE (18:01) | Roleplay |
+| [**Scene 41**](#scene-41) | Ludus of Batiatus | October 15, -82 DR (18:01) | Roleplay |
+| [**Scene 42**](#scene-42) | Ludus of Batiatus | October 15, -82 BCE (18:01) | Roleplay |
+| [**Scene 43**](#scene-43) | Ludus of Batiatus | October 15, -82 DR (18:05) | Roleplay |
+| [**Scene 44**](#scene-44) | Ludus of Batiatus | October 15, -82 DR (18:12) | Roleplay |
+| [**Scene 45**](#scene-45) | Ludus of Batiatus | October 15, -82 BCE (18:15) | Roleplay |
+| [**Scene 46**](#scene-46) | Ludus of Batiatus | October 15, 82 BCE (18:15) | Roleplay |
+| [**Scene 47**](#scene-47) | Villa of Batiatus | October 15, 82 BCE (18:30) | Roleplay |
+| [**Scene 48**](#scene-48) | Villa of Batiatus | October 15, 82 BCE (18:35) | Roleplay |
+| [**Scene 49**](#scene-49) | Villa of Batiatus | -82 October 15, 18:40:00 | Roleplay |
+| [**Scene 50**](#scene-50) | Villa of Batiatus | October 15, 82 BCE (18:45) | Roleplay |
+| [**Scene 51**](#scene-51) | Villa of Batiatus | October 15, 82 BCE (18:45) | Roleplay |
+| [**Scene 52**](#scene-52) | Villa of Batiatus | -82 October 15, 18:50:00 | Roleplay |
+| [**Scene 53**](#scene-53) | Villa of Batiatus | October 15, 82 BCE (18:55) | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown | October 15, -82 DR (18:55) | Roleplay |
+| [**Scene 55**](#scene-55) | Villa of Batiatus | October 15, 82 BCE (19:00) | Roleplay |
+| [**Scene 56**](#scene-56) | Villa of Batiatus | -82 October 15, 19:05:00 | Roleplay |
+| [**Scene 57**](#scene-57) | Villa of Batiatus | October 15, -82 DR (19:10) | Social Challenge |
+| [**Scene 58**](#scene-58) | Villa of Batiatus | -82 October 15, 19:15:00 | Roleplay |
+| [**Scene 59**](#scene-59) | Villa of Batiatus | October 15, -82 BCE (19:20) | Roleplay |
+| [**Scene 60**](#scene-60) | Villa of Batiatus | October 15, 82 BCE (19:20) | Roleplay |
+| [**Scene 61**](#scene-61) | Villa of Batiatus | October 15, 82 BCE (19:25) | Roleplay |
+| [**Scene 62**](#scene-62) | Villa of Batiatus | October 15, 82 BCE (19:25) | Roleplay |
+| [**Scene 63**](#scene-63) | Villa of Batiatus | October 15, -82 BCE (19:30) | Roleplay |
+| [**Scene 64**](#scene-64) | Villa of Batiatus | October 15, -82 BCE (19:35) | Roleplay |
+| [**Scene 65**](#scene-65) | Villa of Batiatus | October 15, -82 BCE (19:40) | Roleplay |
+| [**Scene 66**](#scene-66) | Villa of Batiatus | October 15, -82 BCE (22:30) | Roleplay |
+| [**Scene 67**](#scene-67) | Villa of Batiatus | October 15, -82 DR (22:35) | Roleplay |
+| [**Scene 68**](#scene-68) | Villa of Batiatus | October 15, -82 DR (22:45) | Roleplay |
+| [**Scene 69**](#scene-69) | Villa of Batiatus | October 15, -82 DR (22:50) | Roleplay |
+| [**Scene 70**](#scene-70) | Villa of Batiatus | October 15, -82 BCE (22:55) | Roleplay |
+| [**Scene 71**](#scene-71) | Villa of Batiatus | October 15, -82 BCE (22:55) | Roleplay |
+| [**Scene 72**](#scene-72) | Villa of Batiatus | October 15, -82 DR (23:00) | Roleplay |
+| [**Scene 73**](#scene-73) | Villa of Batiatus | October 15, -82 DR (23:05) | Boss Surrender |
+| [**Scene 74**](#scene-74) | Villa of Batiatus | October 15, -82 DR (23:15) | Boss Surrender |
+| [**Scene 75**](#scene-75) | Villa of Batiatus | October 15, -82 DR (23:20) | Social Challenge |
+| [**Scene 76**](#scene-76) | Villa of Batiatus | October 15, -82 BCE (23:25) | Roleplay |
+| [**Scene 77**](#scene-77) | Villa of Batiatus | October 15, -82 DR (23:30) | Roleplay |
+| [**Scene 78**](#scene-78) | Villa of Batiatus | October 15, -82 BCE (23:35) | Roleplay |
+| [**Scene 79**](#scene-79) | Villa of Batiatus | October 16, -82 DR (07:35) | Roleplay |
+| [**Scene 80**](#scene-80) | Villa of Batiatus | October 16, -82 BCE (08:15) | Social Challenge |
+| [**Scene 81**](#scene-81) | Villa of Batiatus | October 16, -82 BCE (08:45) | Roleplay |
+| [**Scene 82**](#scene-82) | Villa of Batiatus | October 16, -82 BCE (08:50) | Roleplay |
+| [**Scene 83**](#scene-83) | Villa of Batiatus | October 16, -82 BCE (08:55) | Social Challenge |
+| [**Scene 84**](#scene-84) | Villa of Batiatus | October 16, -82 BCE (08:55) | Social Challenge |
+| [**Scene 85**](#scene-85) | Villa of Batiatus | October 16, -82 BCE (09:10) | Social Challenge |
+| [**Scene 86**](#scene-86) | Villa of Batiatus | October 16, 82 BCE (09:25) | Roleplay |
+| [**Scene 87**](#scene-87) | Villa of Batiatus | October 16, -82 BCE (09:25) | Roleplay |
+| [**Scene 88**](#scene-88) | Villa of Batiatus | October 16, -82 BCE (09:20) | Social Challenge |
+| [**Scene 89**](#scene-89) | Villa of Batiatus | October 16, -82 BCE (09:20) | Roleplay |
+| [**Scene 90**](#scene-90) | Villa of Batiatus | October 16, -82 BCE (09:20) | Roleplay |
+| [**Scene 91**](#scene-91) | Villa of Batiatus | October 16, -82 BCE (09:30) | Boss Surrender |
+| [**Scene 92**](#scene-92) | Villa of Batiatus | October 16, -82 DR (09:35) | Roleplay |
+| [**Scene 93**](#scene-93) | Villa of Batiatus | October 16, 82 BCE (09:40) | Roleplay |
+| [**Scene 94**](#scene-94) | Villa of Batiatus | October 16, -82 BCE (09:45) | Roleplay |
+| [**Scene 95**](#scene-95) | Villa of Batiatus | October 16, -82 BCE (09:45) | Boss Surrender |
+| [**Scene 96**](#scene-96) | Villa of Batiatus | October 16, -82 BCE (09:50) | Social Challenge |
+| [**Scene 97**](#scene-97) | Villa of Calavius | October 16, -82 BCE (10:50) | Social Challenge |
+| [**Scene 98**](#scene-98) | Villa of Calavius | October 16, -82 DR (11:50) | Roleplay |
+| [**Scene 99**](#scene-99) | Villa of Calavius | October 16, -82 BCE (11:50) | Roleplay |
+| [**Scene 100**](#scene-100) | Villa of Calavius | October 16, 82 BCE (12:00) | Roleplay |
+| [**Scene 101**](#scene-101) | Villa of Calavius | October 16, -82 BCE (12:00) | Roleplay |
+| [**Scene 102**](#scene-102) | Villa of Calavius | October 16, -82 DR (12:15) | Roleplay |
+| [**Scene 103**](#scene-103) | Villa of Calavius | October 16, -82 BCE (12:15) | Roleplay |
+| [**Scene 104**](#scene-104) | Villa of Calavius | October 16, -82 DR (12:25) | Boss Surrender |
+| [**Scene 105**](#scene-105) | Villa of Calavius | October 16, -82 BCE (12:25) | Roleplay |
+| [**Scene 106**](#scene-106) | Villa of Calavius | October 16, -82 BCE (12:35) | Roleplay |
+| [**Scene 107**](#scene-107) | Villa of Calavius | October 16, -82 DR (12:45) | Roleplay |
+| [**Scene 108**](#scene-108) | Villa of Calavius | October 16, -82 DR (12:55) | Social Challenge |
+| [**Scene 109**](#scene-109) | Villa of Calavius | October 16, -82 DR (13:05) | Social Challenge |
+| [**Scene 110**](#scene-110) | Villa of Calavius | October 16, -82 DR (13:15) | Roleplay |
+| [**Scene 111**](#scene-111) | Villa of Calavius | October 16, -82 BCE (13:25) | Roleplay |
+| [**Scene 112**](#scene-112) | Villa of Calavius | October 16, 82 BCE (13:25) | Roleplay |
+| [**Scene 113**](#scene-113) | Villa of Calavius | October 16, -82 DR (13:35) | Roleplay |
+| [**Scene 114**](#scene-114) | Villa of Calavius | October 16, 82 BCE (13:45) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Villa of Calavius | October 16, -82 BCE (13:45) | Roleplay |
+| [**Scene 116**](#scene-116) | Villa of Calavius | October 16, -82 BCE (13:45) | Roleplay |
+| [**Scene 117**](#scene-117) | Villa of Calavius | October 16, -82 BCE (13:45) | Roleplay |
+| [**Scene 118**](#scene-118) | Villa of Calavius | October 16, -82 BCE (14:00) | Roleplay |
+| [**Scene 119**](#scene-119) | Villa of Calavius | October 16, -82 BCE (14:00) | Roleplay |
+| [**Scene 120**](#scene-120) | Villa of Calavius | October 16, -82 BCE (14:00) | Roleplay |
+| [**Scene 121**](#scene-121) | Villa of Calavius | October 16, -82 DR (14:15) | Roleplay |
+| [**Scene 122**](#scene-122) | Villa of Calavius | October 16, -82 DR (14:30) | Roleplay |
+| [**Scene 123**](#scene-123) | Villa of Calavius | October 16, -82 BCE (14:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Villa of Calavius | October 16, -82 DR (14:45) | Boss Surrender |
+| [**Scene 125**](#scene-125) | Villa of Calavius | October 16, -82 DR (15:00) | Boss Surrender |
+| [**Scene 126**](#scene-126) | Villa of Calavius | October 16, -82 DR (15:15) | Boss Surrender |
+| [**Scene 127**](#scene-127) | Villa of Calavius | October 16, -82 DR (15:30) | Roleplay |
+| [**Scene 128**](#scene-128) | Villa of Calavius | October 16, -82 BCE (15:45) | Roleplay |
+| [**Scene 129**](#scene-129) | Villa of Calavius | October 16, -82 BCE (15:45) | Roleplay |
+| [**Scene 130**](#scene-130) | Villa of Calavius | October 16, -82 BCE (15:45) | Roleplay |
+| [**Scene 131**](#scene-131) | Villa of Calavius | October 16, -82 DR (16:00) | Boss Surrender |
+| [**Scene 132**](#scene-132) | Villa of Calavius | October 16, -82 DR (16:20) | Roleplay |
+| [**Scene 133**](#scene-133) | Villa of Calavius | October 16, 82 BCE (16:35) | Roleplay |
+| [**Scene 134**](#scene-134) | Villa of Calavius | October 16, -82 BCE (16:45) | Boss Surrender |
+| [**Scene 135**](#scene-135) | Villa of Calavius | October 16, -82 BCE (16:55) | Roleplay |
+| [**Scene 136**](#scene-136) | Villa of Calavius | October 16, -82 DR (17:05) | Boss Surrender |
+| [**Scene 137**](#scene-137) | Villa of Calavius | October 16, -82 BCE (17:20) | Boss Surrender |
+| [**Scene 138**](#scene-138) | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
+| [**Scene 139**](#scene-139) | Unknown | October 16, -82 DR (17:20) | Roleplay |
+| [**Scene 140**](#scene-140) | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
+| [**Scene 141**](#scene-141) | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
+| [**Scene 142**](#scene-142) | Villa of Calavius | October 16, -82 BCE (17:20) | Roleplay |
+| [**Scene 143**](#scene-143) | Villa of Calavius | October 16, -82 DR (17:35) | Roleplay |
+| [**Scene 144**](#scene-144) | Villa of Calavius | October 16, -82 BCE (17:35) | Roleplay |
+| [**Scene 145**](#scene-145) | Villa of Calavius | October 16, -82 DR (17:50) | Boss Surrender |
+| [**Scene 146**](#scene-146) | Villa of Calavius | October 16, -82 DR (18:05) | Roleplay |
+| [**Scene 147**](#scene-147) | Villa of Calavius | October 16, -82 BCE (18:05) | Roleplay |
+| [**Scene 148**](#scene-148) | Villa of Calavius | October 16, -82 DR (18:20) | Roleplay |
+| [**Scene 149**](#scene-149) | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
+| [**Scene 150**](#scene-150) | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
+| [**Scene 151**](#scene-151) | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
+| [**Scene 152**](#scene-152) | Villa of Calavius | October 16, -82 BCE (18:20) | Roleplay |
+| [**Scene 153**](#scene-153) | Villa of Calavius | October 16, -82 BCE (18:30) | Roleplay |
+| [**Scene 154**](#scene-154) | Villa of Calavius | October 16, -82 BCE (18:40) | Roleplay |
+| [**Scene 155**](#scene-155) | Villa of Calavius | October 16, -82 DR (18:50) | Social Challenge |
+| [**Scene 156**](#scene-156) | Villa of Calavius | October 16, -82 BCE (19:00) | Roleplay |
+| [**Scene 157**](#scene-157) | Villa of Calavius | October 16, -82 BCE (19:10) | Boss Surrender |
+| [**Scene 158**](#scene-158) | Villa of Calavius | October 16, -82 BCE (19:25) | Roleplay |
+| [**Scene 159**](#scene-159) | Villa of Calavius | October 16, -82 BCE (19:35) | Roleplay |
+| [**Scene 160**](#scene-160) | Villa of Calavius | October 16, -82 DR (19:40) | Roleplay |
+| [**Scene 161**](#scene-161) | Villa of Calavius | October 16, -82 DR (20:10) | Roleplay |
+| [**Scene 162**](#scene-162) | Villa of Calavius | October 16, -82 BCE (20:10) | Roleplay |
+| [**Scene 163**](#scene-163) | Villa of Calavius | October 16, 82 BCE (20:10) | Roleplay |
+| [**Scene 164**](#scene-164) | Villa of Calavius | October 16, -82 BCE (20:15) | Roleplay |
+| [**Scene 165**](#scene-165) | Villa of Calavius | October 16, -82 BCE (20:20) | Roleplay |
+| [**Scene 166**](#scene-166) | Villa of Calavius | October 16, -82 BCE (20:30) | Roleplay |
+| [**Scene 167**](#scene-167) | Villa of Calavius | October 16, -82 BCE (20:35) | Roleplay |
+| [**Scene 168**](#scene-168) | Villa of Calavius | October 16, -82 BCE (20:40) | Boss Surrender |
+| [**Scene 169**](#scene-169) | Villa of Calavius | October 16, -82 DR (20:45) | Roleplay |
+| [**Scene 170**](#scene-170) | Villa of Calavius | October 16, -82 BCE (20:55) | Roleplay |
+| [**Scene 171**](#scene-171) | Villa of Calavius | October 16, -82 DR (21:05) | Roleplay |
+| [**Scene 172**](#scene-172) | Villa of Calavius | October 16, -82 DR (21:15) | Boss Surrender |
+| [**Scene 173**](#scene-173) | Villa of Calavius | October 16, -82 BCE (21:25) | Roleplay |
+| [**Scene 174**](#scene-174) | Villa of Calavius | October 16, -82 DR (21:16) | Roleplay |
+| [**Scene 175**](#scene-175) | Villa of Calavius | October 16, -82 BCE (21:16) | Roleplay |
+| [**Scene 176**](#scene-176) | Villa of Calavius | October 16, -82 DR (21:26) | Boss Surrender |
+| [**Scene 177**](#scene-177) | Villa of Calavius | October 16, -82 BCE (21:26) | Roleplay |
+| [**Scene 178**](#scene-178) | Villa of Calavius | October 16, -82 DR (21:56) | Boss Surrender |
+| [**Scene 179**](#scene-179) | Villa of Calavius | October 16, -82 DR (22:26) | Boss Surrender |
+| [**Scene 180**](#scene-180) | Villa of Calavius | October 16, -82 DR (22:31) | Roleplay |
+| [**Scene 181**](#scene-181) | Villa of Calavius | October 16, -82 BCE (22:32) | Roleplay |
+| [**Scene 182**](#scene-182) | Villa of Calavius | October 16, -82 BCE (22:32) | Roleplay |
+| [**Scene 183**](#scene-183) | Villa of Calavius | October 16, -82 BCE (22:37) | Roleplay |
+| [**Scene 184**](#scene-184) | Villa of Calavius | October 16, -82 BCE (22:39) | Roleplay |
+| [**Scene 185**](#scene-185) | Villa of Calavius | October 16, -82 DR (22:44) | Roleplay |
+| [**Scene 186**](#scene-186) | Villa of Calavius | October 16, -82 BCE (22:49) | Roleplay |
+| [**Scene 187**](#scene-187) | Villa of Calavius | October 16, -82 BCE (22:44) | Social Challenge |
+| [**Scene 188**](#scene-188) | Villa of Calavius | October 16, -82 DR (22:44) | Roleplay |
+| [**Scene 189**](#scene-189) | Villa of Calavius | October 16, -82 BCE (22:50) | Roleplay |
+| [**Scene 190**](#scene-190) | Villa of Calavius | October 16, -82 BCE (22:55) | Roleplay |
+| [**Scene 191**](#scene-191) | Villa of Calavius | October 16, -82 DR (22:56) | Roleplay |
+| [**Scene 192**](#scene-192) | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
+| [**Scene 193**](#scene-193) | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
+| [**Scene 194**](#scene-194) | Villa of Calavius | October 16, -82 BCE (23:10) | Boss Surrender |
+| [**Scene 195**](#scene-195) | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
+| [**Scene 196**](#scene-196) | Villa of Calavius | October 16, -82 BCE (23:10) | Roleplay |
+| [**Scene 197**](#scene-197) | Villa of Calavius | October 16, -82 BCE (23:25) | Boss Surrender |
+| [**Scene 198**](#scene-198) | Villa of Calavius | October 16, 82 BCE (23:30) | Roleplay |
+| [**Scene 199**](#scene-199) | Villa of Calavius | October 16, -82 BCE (23:30) | Roleplay |
+| [**Scene 200**](#scene-200) | Villa of Calavius | October 16, -82 DR (23:35) | Boss Surrender |
+| [**Scene 201**](#scene-201) | Villa of Calavius | October 16, -82 DR (23:40) | Roleplay |
+| [**Scene 202**](#scene-202) | Villa of Calavius | October 16, -82 DR (23:45) | Roleplay |
+| [**Scene 203**](#scene-203) | Villa of Calavius | October 16, -82 DR (23:50) | Roleplay |
+| [**Scene 204**](#scene-204) | Villa of Calavius | October 16, -82 DR (23:55) | Roleplay |
+| [**Scene 205**](#scene-205) | Villa of Calavius | October 17, -82 DR (00:05) | Boss Surrender |
+| [**Scene 206**](#scene-206) | Villa of Calavius | October 17, -82 BCE (00:10) | Roleplay |
+| [**Scene 207**](#scene-207) | Villa of Calavius | October 17, 82 BCE (00:10) | Roleplay |
+| [**Scene 208**](#scene-208) | Villa of Calavius | October 17, -82 BCE (00:10) | Roleplay |
+| [**Scene 209**](#scene-209) | Villa of Calavius | October 17, -82 DR (00:25) | Roleplay |
+| [**Scene 210**](#scene-210) | Villa of Calavius | October 17, -82 DR (08:30) | Roleplay |
+| [**Scene 211**](#scene-211) | Villa of Calavius | October 17, 82 BCE (08:45) | Roleplay |
+| [**Scene 212**](#scene-212) | Villa of Calavius | October 17, -82 DR (09:00) | Roleplay |
+| [**Scene 213**](#scene-213) | Villa of Calavius | October 17, -82 DR (10:15) | Roleplay |
+| [**Scene 214**](#scene-214) | Villa of Calavius | October 17, -82 DR (10:30) | Roleplay |
+| [**Scene 215**](#scene-215) | Subterranean Currents | October 17, -82 DR (21:00) | Roleplay |
+| [**Scene 216**](#scene-216) | Subterranean Currents | October 17, -82 DR (21:00) | Roleplay |
+| [**Scene 217**](#scene-217) | Subterranean Currents | October 17, -82 BCE (21:15) | Roleplay |
+| [**Scene 218**](#scene-218) | Coastal Safehouse | October 18, -82 DR (10:00) | Social Challenge |
+| [**Scene 219**](#scene-219) | Coastal Safehouse | October 18, -82 BCE (10:00) | Roleplay |
+| [**Scene 220**](#scene-220) | Neapolis Docks (Hidden Overlook) | October 18, -82 DR (12:15) | Roleplay |
+| [**Scene 221**](#scene-221) | Neapolis Docks | October 18, -82 BCE (12:15) | Roleplay |
+| [**Scene 222**](#scene-222) | Neapolis Docks (Warehouse Delta) | October 18, -82 DR (13:15) | Roleplay |
+| [**Scene 223**](#scene-223) | Neapolis Docks (Warehouse Delta) | October 18, 82 BCE (13:15) | Roleplay |
+| [**Scene 224**](#scene-224) | Neapolis Docks (Warehouse Delta) | October 18, -82 DR (14:15) | Roleplay |
+| [**Scene 225**](#scene-225) | Neapolis Docks (Warehouse Delta) | October 18, -82 BCE (14:15) | Roleplay |
+| [**Scene 226**](#scene-226) | Coastal Safehouse near Neapolis | October 18, -82 DR (15:30) | Roleplay |
+| [**Scene 227**](#scene-227) | Coastal Safehouse near Neapolis | October 18, -82 BCE (15:30) | Roleplay |
+| [**Scene 228**](#scene-228) | Coastal Safehouse near Neapolis | October 18, -82 BCE (15:40) | Roleplay |
+| [**Scene 229**](#scene-229) | Coastal Safehouse near Neapolis | October 18, -82 DR (16:00) | Roleplay |
+| [**Scene 230**](#scene-230) | Coastal Safehouse near Neapolis | October 18, -82 DR (16:05) | Boss Surrender |
+| [**Scene 231**](#scene-231) | Neapolis | October 18, -82 DR (18:05) | Roleplay |
+| [**Scene 232**](#scene-232) | Ruined Temple of Apollo | October 18, -82 DR (18:20) | Roleplay |
+| [**Scene 233**](#scene-233) | Ruined Temple of Apollo | October 18, -82 DR (18:30) | Roleplay |
+| [**Scene 234**](#scene-234) | Ruined Temple of Apollo | October 18, -82 DR (18:35) | Roleplay |
+| [**Scene 235**](#scene-235) | Ruined Temple of Apollo | October 18, -82 DR (18:40) | Roleplay |
+| [**Scene 236**](#scene-236) | Ruined Temple of Apollo | October 18, -82 DR (18:55) | Boss Surrender |
+| [**Scene 237**](#scene-237) | Ruined Temple of Apollo | October 18, 82 BCE (18:55) | Roleplay |
+| [**Scene 238**](#scene-238) | Ruined Temple of Apollo | October 18, -82 BCE (18:55) | Roleplay |
+| [**Scene 239**](#scene-239) | Coastal Safehouse near Neapolis | October 18, -82 BCE (19:30) | Roleplay |
+| [**Scene 240**](#scene-240) | Coastal Safehouse near Neapolis | October 18, -82 DR (20:30) | Roleplay |
+| [**Scene 241**](#scene-241) | Coastal Safehouse near Neapolis | October 18, -82 DR (21:30) | Roleplay |
+| [**Scene 242**](#scene-242) | The Grand Arena of Batiatus | October 25, -82 DR (09:00) | Roleplay |
+| [**Scene 243**](#scene-243) | The Grand Arena of Batiatus | October 25, -82 BCE (09:05) | Roleplay |
+| [**Scene 244**](#scene-244) | The Grand Arena of Batiatus | October 25, 82 BCE (09:05) | Boss Surrender |
+| [**Scene 245**](#scene-245) | The Grand Arena of Batiatus | October 25, -82 BCE (09:15) | Roleplay |
+| [**Scene 246**](#scene-246) | The Grand Arena of Batiatus | October 25, 82 BCE (09:15) | Roleplay |
+| [**Scene 247**](#scene-247) | The Grand Arena of Batiatus | October 25, -82 BCE (09:15) | Roleplay |
+| [**Scene 248**](#scene-248) | The Grand Arena of Batiatus | October 25, -82 DR (09:30) | Roleplay |
+| [**Scene 249**](#scene-249) | The Grand Arena of Batiatus | October 25, -82 DR (09:45) | Social Challenge |
+| [**Scene 250**](#scene-250) | The Grand Arena of Batiatus | October 25, -82 BCE (09:45) | Roleplay |
+| [**Scene 251**](#scene-251) | The Grand Arena of Batiatus | October 25, 82 BCE (09:50) | Roleplay |
+| [**Scene 252**](#scene-252) | The Grand Arena of Batiatus | October 25, -82 BCE (09:50) | Roleplay |
+| [**Scene 253**](#scene-253) | The Grand Arena of Batiatus | October 25, -82 BCE (10:05) | Boss Surrender |
+| [**Scene 254**](#scene-254) | The Grand Arena of Batiatus | October 25, -82 DR (10:20) | Roleplay |
+| [**Scene 255**](#scene-255) | Sulla's Encampment | October 25, -82 DR (23:30) | Roleplay |
+| [**Scene 256**](#scene-256) | Sulla's Encampment | October 25, -82 BCE (23:30) | Roleplay |
+| [**Scene 257**](#scene-257) | Sulla's Encampment | October 25, -82 BCE (23:30) | Roleplay |
+| [**Scene 258**](#scene-258) | Sulla's Encampment | October 26, -82 DR (00:00) | Roleplay |
+| [**Scene 259**](#scene-259) | Sulla's Encampment | October 26, -82 DR (00:30) | Roleplay |
+| [**Scene 260**](#scene-260) | Coastal Safehouse | October 26, -82 DR (00:45) | Roleplay |
+| [**Scene 261**](#scene-261) | Coastal Safehouse | October 26, 82 BCE (00:45) | Roleplay |
+| [**Scene 262**](#scene-262) | Temple of Mars | October 26, -82 DR (01:45) | Roleplay |
+| [**Scene 263**](#scene-263) | Coastal Safehouse | October 26, -82 DR (02:00) | Roleplay |
+| [**Scene 264**](#scene-264) | Coastal Safehouse | October 26, -82 BCE (02:00) | Roleplay |
+| [**Scene 265**](#scene-265) | Coastal Safehouse | October 26, -82 DR (02:15) | Roleplay |
+| [**Scene 266**](#scene-266) | Coastal Safehouse | October 26, -82 BCE (02:15) | Roleplay |
+| [**Scene 267**](#scene-267) | Coastal Safehouse | October 26, 82 BCE (03:00) | Roleplay |
+| [**Scene 268**](#scene-268) | Coastal Safehouse | October 26, -82 BCE (03:00) | Roleplay |
+| [**Scene 269**](#scene-269) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 270**](#scene-270) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 271**](#scene-271) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 272**](#scene-272) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 273**](#scene-273) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 274**](#scene-274) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 275**](#scene-275) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 276**](#scene-276) | Coastal Safehouse | October 26, 82 BCE (04:00) | Roleplay |
+| [**Scene 277**](#scene-277) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 278**](#scene-278) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 279**](#scene-279) | Coastal Safehouse | October 26, -82 BCE (04:00) | Roleplay |
+| [**Scene 280**](#scene-280) | Coastal Safehouse | October 26, -82 DR (04:15) | Roleplay |
+| [**Scene 281**](#scene-281) | Coastal Safehouse | October 26, -82 BCE (04:15) | Roleplay |
+| [**Scene 282**](#scene-282) | Coastal Safehouse | October 26, -82 DR (05:15) | Roleplay |
+| [**Scene 283**](#scene-283) | Coastal Safehouse | October 26, -82 BCE (05:15) | Roleplay |
+| [**Scene 284**](#scene-284) | Coastal Safehouse | October 26, -82 DR (05:15) | Roleplay |
+| [**Scene 285**](#scene-285) | Coastal Safehouse | October 26, -82 DR (06:15) | Roleplay |
+| [**Scene 286**](#scene-286) | Coastal Safehouse | October 26, -82 DR (07:15) | Boss Surrender |
+| [**Scene 287**](#scene-287) | Coastal Safehouse | October 26, -82 BCE (07:15) | Roleplay |
+| [**Scene 288**](#scene-288) | Coastal Safehouse | October 26, -82 BCE (07:25) | Roleplay |
+| [**Scene 289**](#scene-289) | Coastal Safehouse | October 26, -82 BCE (07:30) | Roleplay |
+| [**Scene 290**](#scene-290) | Coastal Safehouse | October 26, -82 DR (07:35) | Boss Surrender |
+| [**Scene 291**](#scene-291) | Coastal Safehouse | October 26, -82 DR (07:45) | Roleplay |
+| [**Scene 292**](#scene-292) | Coastal Safehouse | October 26, -82 DR (08:15) | Boss Surrender |
+| [**Scene 293**](#scene-293) | Coastal Safehouse |  | Roleplay |
+| [**Scene 294**](#scene-294) | Coastal Safehouse | October 26, -82 DR (08:40) | Boss Surrender |
+| [**Scene 295**](#scene-295) | Coastal Safehouse | October 26, -82 BCE (08:35) | Boss Surrender |
+| [**Scene 296**](#scene-296) | Coastal Safehouse | October 26, -82 BCE (08:45) | Roleplay |
+| [**Scene 297**](#scene-297) | Coastal Safehouse | October 26, -82 BCE (09:00) | Roleplay |
+| [**Scene 298**](#scene-298) | Shadow Council Vault | October 27, -82 DR (02:00) | Roleplay |
+| [**Scene 299**](#scene-299) | Unknown | October 27, -82 DR (02:00) | Roleplay |
+| [**Scene 300**](#scene-300) | Shadow Council Vault | October 27, -82 BCE (02:00) | Roleplay |
+| [**Scene 301**](#scene-301) | Shadow Council Vault | October 27, -82 BCE (02:10) | Roleplay |
+| [**Scene 302**](#scene-302) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:15) | Roleplay |
+| [**Scene 303**](#scene-303) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:20) | Roleplay |
+| [**Scene 304**](#scene-304) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:25) | Roleplay |
+| [**Scene 305**](#scene-305) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:35) | Roleplay |
+| [**Scene 306**](#scene-306) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:40) | Roleplay |
+| [**Scene 307**](#scene-307) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:45) | Roleplay |
+| [**Scene 308**](#scene-308) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (02:45) | Roleplay |
+| [**Scene 309**](#scene-309) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:46) | Roleplay |
+| [**Scene 310**](#scene-310) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (02:50) | Roleplay |
+| [**Scene 311**](#scene-311) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (03:00) | Roleplay |
+| [**Scene 312**](#scene-312) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (03:15) | Roleplay |
+| [**Scene 313**](#scene-313) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (03:30) | Roleplay |
+| [**Scene 314**](#scene-314) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (03:45) | Roleplay |
+| [**Scene 315**](#scene-315) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:00) | Roleplay |
+| [**Scene 316**](#scene-316) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:15) | Roleplay |
+| [**Scene 317**](#scene-317) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:15) | Roleplay |
+| [**Scene 318**](#scene-318) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:20) | Roleplay |
+| [**Scene 319**](#scene-319) | Shadow Council Vault (Aventine Vault) | October 27, -82 DR (04:25) | Roleplay |
+| [**Scene 320**](#scene-320) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:30) | Roleplay |
+| [**Scene 321**](#scene-321) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Roleplay |
+| [**Scene 322**](#scene-322) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Boss Surrender |
+| [**Scene 323**](#scene-323) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Roleplay |
+| [**Scene 324**](#scene-324) | Unknown | October 27, -82 DR (04:35) | Roleplay |
+| [**Scene 325**](#scene-325) | Shadow Council Vault (Aventine Vault) | October 27, -82 BCE (04:35) | Boss Surrender |
+| [**Scene 326**](#scene-326) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:35) | Roleplay |
+| [**Scene 327**](#scene-327) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 328**](#scene-328) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 329**](#scene-329) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 330**](#scene-330) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 331**](#scene-331) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 332**](#scene-332) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 333**](#scene-333) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 334**](#scene-334) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 335**](#scene-335) | Shadow Council Vault (Aventine Vault) | November 10, -82 BCE (12:45) | Roleplay |
+| [**Scene 336**](#scene-336) | Shadow Council Vault (Aventine Vault) | November 10, -82 DR (12:45) | Boss Surrender |
+| [**Scene 337**](#scene-337) | Domus Julia | November 11, -82 DR (14:30) | Roleplay |
+| [**Scene 338**](#scene-338) | Domus Julia | November 11, -82 BCE (14:30) | Roleplay |
+| [**Scene 339**](#scene-339) | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
+| [**Scene 340**](#scene-340) | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
+| [**Scene 341**](#scene-341) | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
+| [**Scene 342**](#scene-342) | Domus Julia | November 11, -82 BCE (14:35) | Roleplay |
+| [**Scene 343**](#scene-343) | Domus Julia | November 11, -82 BCE (14:50) | Social Challenge |
+| [**Scene 344**](#scene-344) | Domus Julia | November 11, -82 BCE (15:05) | Roleplay |
+| [**Scene 345**](#scene-345) | Domus Julia | November 11, -82 BCE (15:20) | Roleplay |
+| [**Scene 346**](#scene-346) | Domus Julia | November 11, -82 BCE (15:30) | Roleplay |
+| [**Scene 347**](#scene-347) | Domus Julia | November 11, -82 DR (15:30) | Roleplay |
+| [**Scene 348**](#scene-348) | Domus Julia | November 11, -82 BCE (15:30) | Roleplay |
+| [**Scene 349**](#scene-349) | The Roman Treasury (Aerarium) | November 11, -82 BCE (16:00) | Roleplay |
+| [**Scene 350**](#scene-350) | The Roman Treasury (Aerarium) | November 11, -82 BCE (16:15) | Roleplay |
+| [**Scene 351**](#scene-351) | The Roman Treasury (Aerarium) | November 11, -82 BCE (16:20) | Roleplay |
+| [**Scene 352**](#scene-352) | The Roman Treasury (Aerarium) | November 11, -82 DR (16:40) | Roleplay |
+| [**Scene 353**](#scene-353) | Subura | November 11, -82 BCE (17:00) | Roleplay |
+| [**Scene 354**](#scene-354) | Subura | November 11, -82 DR (17:30) | Roleplay |
+| [**Scene 355**](#scene-355) | Forum Romanum | November 11, -82 BCE (18:15) | Social Challenge |
+| [**Scene 356**](#scene-356) | Forum Romanum | November 11, -82 BCE (18:25) | Social Challenge |
+| [**Scene 357**](#scene-357) | Forum Romanum | November 11, -82 BCE (18:30) | Roleplay |
+| [**Scene 358**](#scene-358) | Forum Romanum | November 11, -82 BCE (18:35) | Boss Surrender |
+| [**Scene 359**](#scene-359) | Forum Romanum | November 11, -82 BCE (18:35) | Roleplay |
+| [**Scene 360**](#scene-360) | Abandoned Shrine to Mars Ultor | November 11, -82 DR (19:15) | Roleplay |
+| [**Scene 361**](#scene-361) | Abandoned Shrine to Mars Ultor | November 11, -82 BCE (19:15) | Roleplay |
+| [**Scene 362**](#scene-362) | Abandoned Shrine to Mars Ultor | November 11, -82 BCE (19:15) | Roleplay |
+| [**Scene 363**](#scene-363) | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
+| [**Scene 364**](#scene-364) | Domus Julia | November 11, -82 BCE (20:35) | Roleplay |
+| [**Scene 365**](#scene-365) | Domus Julia | November 11, -82 BCE (20:40) | Roleplay |
+| [**Scene 366**](#scene-366) | Domus Julia | November 11, -82 BCE (20:40) | Roleplay |
+| [**Scene 367**](#scene-367) | Domus Julia | November 11, -82 BCE (20:40) | Roleplay |
+| [**Scene 368**](#scene-368) | Domus Julia | November 11, -82 BCE (20:45) | Roleplay |
+| [**Scene 369**](#scene-369) | Domus Julia | November 11, -82 BCE (20:45) | Roleplay |
+| [**Scene 370**](#scene-370) | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
+| [**Scene 371**](#scene-371) | Domus Julia | November 11, -82 BCE (20:40) | Social Challenge |
+| [**Scene 372**](#scene-372) | Domus Julia | November 11, -82 BCE (20:40) | Social Challenge |
+| [**Scene 373**](#scene-373) | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
+| [**Scene 374**](#scene-374) | Domus Julia | November 11, -82 BCE (20:35) | Social Challenge |
+| [**Scene 375**](#scene-375) | Domus Julia | November 11, -82 BCE (20:30) | Roleplay |
+| [**Scene 376**](#scene-376) | Domus Julia | November 11, -82 BCE (20:30) | Social Challenge |
+| [**Scene 377**](#scene-377) | Domus Julia (Eastern Wing) | November 11, -82 BCE (20:45) | Roleplay |
+| [**Scene 378**](#scene-378) | Domus Julia (Eastern Wing) | November 11, -82 BCE (20:45) | Roleplay |
+| [**Scene 379**](#scene-379) | Domus Julia (Eastern Wing) | November 11, -82 BCE (20:50) | Boss Surrender |
+| [**Scene 380**](#scene-380) | Unknown | November 11, -82 DR (20:50) | Roleplay |
+| [**Scene 381**](#scene-381) | Domus Julia (Eastern Wing) | November 11, -82 BCE (21:00) | Roleplay |
+| [**Scene 382**](#scene-382) | Domus Julia | November 11, -82 BCE (21:00) | Roleplay |
+| [**Scene 383**](#scene-383) | Domus Julia | November 11, -82 DR (21:05) | Boss Surrender |
+| [**Scene 384**](#scene-384) | Domus Julia | November 11, -82 DR (21:20) | Social Challenge |
+| [**Scene 385**](#scene-385) | Domus Julia | November 11, -82 BCE (21:25) | Roleplay |
+| [**Scene 386**](#scene-386) | Domus Julia | November 11, -82 BCE (21:30) | Roleplay |
+| [**Scene 387**](#scene-387) | Domus Julia | November 11, -82 BCE (21:35) | Boss Surrender |
+| [**Scene 388**](#scene-388) | Domus Julia | November 11, -82 DR (21:40) | Roleplay |
+| [**Scene 389**](#scene-389) | Domus Julia | November 11, -82 DR (21:55) | Boss Surrender |
+| [**Scene 390**](#scene-390) | Domus Julia | November 11, -82 DR (22:15) | Roleplay |
+| [**Scene 391**](#scene-391) | Domus Julia | November 12, -82 BCE (19:30) | Roleplay |
+| [**Scene 392**](#scene-392) | Domus Julia | November 12, -82 BCE (19:30) | Roleplay |
+| [**Scene 393**](#scene-393) | Domus Julia | November 12, -82 BCE (19:40) | Roleplay |
+| [**Scene 394**](#scene-394) | Domus Julia | November 13, -82 BCE (09:00) | Roleplay |
+| [**Scene 395**](#scene-395) | Domus Julia | November 13, -82 BCE (09:10) | Roleplay |
+| [**Scene 396**](#scene-396) | Domus Julia | November 13, -82 BCE (09:15) | Roleplay |
+| [**Scene 397**](#scene-397) | Domus Julia | November 13, -82 BCE (09:15) | Boss Surrender |
+| [**Scene 398**](#scene-398) | Domus Julia | November 13, -82 BCE (09:20) | Roleplay |
+| [**Scene 399**](#scene-399) | Domus Julia | November 13, -82 BCE (11:00) | Roleplay |
+| [**Scene 400**](#scene-400) | Domus Julia | November 13, -82 BCE (11:05) | Boss Surrender |
+| [**Scene 401**](#scene-401) | Domus Julia | November 13, -82 BCE (11:20) | Roleplay |
+| [**Scene 402**](#scene-402) | Domus Julia | November 13, -82 BCE (11:30) | Boss Surrender |
+| [**Scene 403**](#scene-403) | Domus Julia | November 13, -82 BCE (11:35) | Roleplay |
+| [**Scene 404**](#scene-404) | Domus Julia | November 13, -82 BCE (11:40) | Roleplay |
+| [**Scene 405**](#scene-405) | Domus Julia | November 13, -82 BCE (11:35) | Roleplay |
+| [**Scene 406**](#scene-406) | Domus Julia | November 13, -82 BCE (11:35) | Roleplay |
+| [**Scene 407**](#scene-407) | Domus Julia | November 13, -82 BCE (11:35) | Boss Surrender |
+| [**Scene 408**](#scene-408) | Domus Julia | November 13, -82 BCE (11:45) | Roleplay |
+| [**Scene 409**](#scene-409) | Domus Julia | November 13, -82 BCE (11:55) | Boss Surrender |
+| [**Scene 410**](#scene-410) | Domus Julia | November 13, -82 DR (12:15) | Roleplay |
+| [**Scene 411**](#scene-411) | Domus Julia | November 13, -82 BCE (12:20) | Boss Surrender |
+| [**Scene 412**](#scene-412) | Domus Julia | November 13, -82 BCE (12:20) | Roleplay |
+| [**Scene 413**](#scene-413) | Domus Julia | November 13, -82 BCE (12:20) | Roleplay |
+| [**Scene 414**](#scene-414) | Domus Julia | November 13, -82 BCE (12:25) | Roleplay |
+| [**Scene 415**](#scene-415) | Domus Julia | November 13, -82 DR (12:30) | Roleplay |
+| [**Scene 416**](#scene-416) | Domus Julia | November 13, -82 DR (12:35) | Boss Surrender |
+| [**Scene 417**](#scene-417) | Domus Julia | November 13, -82 BCE (12:45) | Roleplay |
+| [**Scene 418**](#scene-418) | Domus Julia | November 13, -82 DR (12:55) | Roleplay |
+| [**Scene 419**](#scene-419) | Domus Julia | November 13, -82 DR (13:05) | Roleplay |
+| [**Scene 420**](#scene-420) | Domus Julia | November 13, -82 BCE (13:15) | Roleplay |
+| [**Scene 421**](#scene-421) | Domus Julia | November 13, -82 BCE (13:15) | Roleplay |
+| [**Scene 422**](#scene-422) | Domus Julia | November 13, -82 BCE (19:30) | Social Challenge |
+| [**Scene 423**](#scene-423) | Domus Julia | November 13, -82 BCE (19:30) | Roleplay |
+| [**Scene 424**](#scene-424) | Domus Julia | November 13, -82 BCE (19:30) | Roleplay |
+| [**Scene 425**](#scene-425) | Domus Julia | November 13, -82 BCE (19:30) | Roleplay |
+| [**Scene 426**](#scene-426) | Domus Julia | November 13, -82 BCE (19:35) | Social Challenge |
+| [**Scene 427**](#scene-427) | Domus Julia | November 13, -82 BCE (19:37) | Roleplay |
+| [**Scene 428**](#scene-428) | Domus Julia | November 13, -82 BCE (19:37) | Roleplay |
+| [**Scene 429**](#scene-429) | Domus Julia | November 13, -82 BCE (19:40) | Roleplay |
+| [**Scene 430**](#scene-430) | Domus Julia | November 13, -82 BCE (19:40) | Social Challenge |
+| [**Scene 431**](#scene-431) | Domus Julia | November 13, -82 BCE (19:40) | Roleplay |
+| [**Scene 432**](#scene-432) | Domus Julia | November 13, -82 BCE (19:40) | Social Challenge |
+| [**Scene 433**](#scene-433) | Domus Julia | November 13, -82 BCE (19:45) | Roleplay |
+| [**Scene 434**](#scene-434) | Domus Julia | November 13, -82 BCE (19:45) | Roleplay |
+| [**Scene 435**](#scene-435) | Domus Julia | November 13, -82 BCE (19:45) | Roleplay |
+| [**Scene 436**](#scene-436) | Domus Julia | November 13, 82 BCE (19:45) | Roleplay |
+| [**Scene 437**](#scene-437) | Domus Julia | November 13, -82 BCE (19:50) | Roleplay |
+| [**Scene 438**](#scene-438) | Domus Julia | November 13, -82 BCE (19:55) | Roleplay |
+| [**Scene 439**](#scene-439) | Domus Julia | November 13, -82 BCE (20:00) | Social Challenge |
+| [**Scene 440**](#scene-440) | Domus Julia | November 13, -82 BCE (20:00) | Roleplay |
+| [**Scene 441**](#scene-441) | Domus Julia | November 13, -82 BCE (20:00) | Roleplay |
+| [**Scene 442**](#scene-442) | Domus Julia | November 13, -82 BCE (20:00) | Boss Surrender |
+| [**Scene 443**](#scene-443) | Domus Julia | November 13, 82 BCE (20:05) | Roleplay |
+| [**Scene 444**](#scene-444) | Domus Julia | November 13, -82 BCE (20:06) | Social Challenge |
+| [**Scene 445**](#scene-445) | Domus Julia | November 13, -82 BCE (20:06) | Boss Surrender |
+| [**Scene 446**](#scene-446) | Domus Julia | November 13, -82 BCE (20:07) | Roleplay |
+| [**Scene 447**](#scene-447) | Domus Julia | November 13, -82 BCE (20:07) | Roleplay |
+| [**Scene 448**](#scene-448) | Unknown |  | Roleplay |
+| [**Scene 449**](#scene-449) | Domus Julia | November 13, -82 BCE (20:08) | Roleplay |
+| [**Scene 450**](#scene-450) | Domus Julia | November 13, -82 BCE (20:08) | Roleplay |
+| [**Scene 451**](#scene-451) | Domus Julia | November 13, -82 DR (20:15) | Boss Surrender |
+| [**Scene 452**](#scene-452) | Domus Julia | November 13, -82 BCE (20:20) | Boss Surrender |
+| [**Scene 453**](#scene-453) | Domus Julia | November 13, -82 DR (20:25) | Roleplay |
+| [**Scene 454**](#scene-454) | Domus Julia | November 13, -82 DR (20:30) | Boss Surrender |
+| [**Scene 455**](#scene-455) | Domus Julia | November 13, -82 DR (20:35) | Roleplay |
+| [**Scene 456**](#scene-456) | Domus Julia | November 13, -82 BCE (20:40) | Boss Surrender |
+| [**Scene 457**](#scene-457) | Domus Julia | November 13, -82 BCE (20:40) | Boss Surrender |
+| [**Scene 458**](#scene-458) | Domus Julia | November 13, -82 BCE (20:40) | Boss Surrender |
+| [**Scene 459**](#scene-459) | Domus Julia | November 13, -82 BCE (20:40) | Roleplay |
+| [**Scene 460**](#scene-460) | Domus Julia | November 13, -82 BCE (20:45) | Roleplay |
+| [**Scene 461**](#scene-461) | Domus Julia | November 13, -82 DR (20:50) | Boss Surrender |
+| [**Scene 462**](#scene-462) | Domus Julia | November 13, -82 DR (20:55) | Roleplay |
+| [**Scene 463**](#scene-463) | Domus Julia | November 13, -82 DR (21:05) | Social Challenge |
+| [**Scene 464**](#scene-464) | Domus Julia | November 13, -82 BCE (21:10) | Roleplay |
+| [**Scene 465**](#scene-465) | Domus Julia | November 13, -82 DR (21:15) | Roleplay |
+| [**Scene 466**](#scene-466) | Domus Julia | November 13, -82 DR (21:20) | Roleplay |
+| [**Scene 467**](#scene-467) | Grand Triclinium | November 13, -82 BCE (21:25) | Roleplay |
+| [**Scene 468**](#scene-468) | Domus Julia | November 13, -82 BCE (21:40) | Boss Surrender |
+| [**Scene 469**](#scene-469) | Domus Julia | November 13, -82 BCE (22:00) | Roleplay |
+| [**Scene 470**](#scene-470) | Domus Julia | November 13, -82 BCE (22:15) | Social Challenge |
+| [**Scene 471**](#scene-471) | Domus Julia | November 13, -82 BCE (22:30) | Social Challenge |
+| [**Scene 472**](#scene-472) | Domus Julia | November 13, -82 BCE (22:45) | Social Challenge |
+| [**Scene 473**](#scene-473) | Domus Julia | November 13, -82 BCE (22:45) | Roleplay |
+| [**Scene 474**](#scene-474) | Domus Julia | November 13, -82 BCE (22:55) | Roleplay |
+| [**Scene 475**](#scene-475) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 476**](#scene-476) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 477**](#scene-477) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 478**](#scene-478) | Domus Julia | November 13, -82 DR (23:10) | Roleplay |
+| [**Scene 479**](#scene-479) | Domus Julia | November 13, -82 DR (23:10) | Roleplay |
+| [**Scene 480**](#scene-480) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 481**](#scene-481) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 482**](#scene-482) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 483**](#scene-483) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 484**](#scene-484) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 485**](#scene-485) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 486**](#scene-486) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 487**](#scene-487) | Domus Julia | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 488**](#scene-488) | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 489**](#scene-489) | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 490**](#scene-490) | Unknown | November 13, -82 DR (23:10) | Roleplay |
+| [**Scene 491**](#scene-491) | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 492**](#scene-492) | Unknown | November 13, -82 DR (23:10) | Roleplay |
+| [**Scene 493**](#scene-493) | Grand Audience Hall | November 13, -82 BCE (23:10) | Roleplay |
+| [**Scene 494**](#scene-494) | Grand Audience Hall | November 13, -82 BCE (23:30) | Roleplay |
+| [**Scene 495**](#scene-495) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 496**](#scene-496) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 497**](#scene-497) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 498**](#scene-498) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 499**](#scene-499) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 500**](#scene-500) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 501**](#scene-501) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 502**](#scene-502) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 503**](#scene-503) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 504**](#scene-504) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 505**](#scene-505) | Grand Audience Hall | November 13, -82 BCE (23:35) | Roleplay |
+| [**Scene 506**](#scene-506) | Grand Audience Hall | November 14, -82 DR (08:30) | Roleplay |
+| [**Scene 507**](#scene-507) | Grand Audience Hall | November 14, -82 DR (08:35) | Social Challenge |
+| [**Scene 508**](#scene-508) | Grand Audience Hall | November 14, -82 BCE (08:35) | Roleplay |
+| [**Scene 509**](#scene-509) | Grand Audience Hall | November 14, -82 BCE (08:35) | Roleplay |
+| [**Scene 510**](#scene-510) | Grand Audience Hall | November 14, -82 BCE (08:35) | Roleplay |
+| [**Scene 511**](#scene-511) | Grand Audience Hall | November 14, -82 BCE (08:45) | Roleplay |
+| [**Scene 512**](#scene-512) | Grand Audience Hall | November 15, -82 BCE (08:45) | Boss Surrender |
+| [**Scene 513**](#scene-513) | Grand Audience Hall | November 15, -82 DR (09:00) | Roleplay |
+| [**Scene 514**](#scene-514) | Throne Room of the Arsacid King | November 15, -82 BCE (09:05) | Roleplay |
+| [**Scene 515**](#scene-515) | Domus Julia | November 15, -82 DR (09:20) | Roleplay |
+| [**Scene 516**](#scene-516) | Domus Julia Balcony | November 15, -82 BCE (09:30) | Roleplay |
+| [**Scene 517**](#scene-517) | Domus Julia Balcony | November 15, -82 DR (10:00) | Roleplay |
+| [**Scene 518**](#scene-518) | Domus Julia Balcony | November 15, -82 BCE (10:15) | Roleplay |
+| [**Scene 519**](#scene-519) | Domus Julia Balcony | November 15, 82 BCE (10:20) | Roleplay |
+| [**Scene 520**](#scene-520) | Domus Julia Balcony | November 15, -82 BCE (10:35) | Boss Surrender |
+| [**Scene 521**](#scene-521) | Domus Julia Balcony | November 15, -82 BCE (10:35) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -760,8 +776,11 @@ Your retinue, **The Twenty**, and your companions **Voros** and **Cinnaminus** w
 > 👤 **Player:**
 > *"i gave extensive detail, any questoins on my character? Lets give me 100k gold to start, 20 elite disguised level 9 guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -877,8 +896,11 @@ Current Role: Arcane Support. She is back in Rome (or in your travel carriage), 
 
 The Leash: Knowledge. She wants to understand the Singularity you represent."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -916,8 +938,11 @@ All instruments are tuned. Your wealth is vast, your guards are elite, and your 
 > 👤 **Player:**
 > *"Any questions or fun campaign ideas before we start?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -939,8 +964,11 @@ Before we cross the Rubicon into the story, here are a few thematic hooks I've p
 > 👤 **Player:**
 > *"make me this custom class This build integrates the Paladin (Oath of Conquest) chassis with the Sorcerer (Divine Soul) spellcasting and features. It is designed to allow you to dominate social encounters without lifting a finger (Subtle Spell) and crush armies when you choose to unmask.Class: The Imperator (Gestalt)Hit Die: 1d10 per level.Proficiencies: All Armor, Shields, Simple & Martial Weapons.Saving Throws: Constitution & Charisma.Spellcasting Ability: Charisma (Your Auctoritas).I. The Masked Prodigy (Levels 1–5)Building the foundation of the "Harmless Noble Girl" who secretly controls the room.LevelFeaturesSorcery PointsSpells Known (Slot Level)1Divine Magic (Cleric List Access), Favored by the Gods, Lay on Hands--2 (1st)2Divine Smite, Fighting Style (Dueling), Font of Magic23 (1st)3Metamagic (Subtle & Quickened), Sacred Oath (Conquest), Channel Divinity34 (2nd)4ASI (Feat: Actor or War Caster)45 (2nd)5Extra Attack, Magical Guidance56 (3rd)Detailed Mechanics:Divine Magic (Lvl 1): You have access to the Cleric Spell List in addition to the Sorcerer list. This allows you to cast Cure Wounds or Spirit Guardians while maintaining your "Sorcerer" progression.Favored by the Gods (Lvl 1): "The Julian Luck." If you fail a saving throw or miss an attack, add 2d4 to the roll. (1/Short Rest).Divine Smite (Lvl 2): You can expend Spell Slots to deal Radiant damage (2d8 + 1d8 per slot level) on melee hits. Note: In this setting, this manifests as "Psychic" or "Force" damage due to the Miasma.Metamagic: Subtle Spell (Lvl 3): Crucial Feature. You can cast spells without Somatic (gestures) or Verbal (spoken) components.Usage: You can cast Charm Person or Dominate Beast while sipping wine in the Batiatus dining room, and no one will know you cast a spell.Channel Divinity (Lvl 3):Conquering Presence: Action. Each creature of your choice within 30ft must make a WIS save or be Frightened for 1 minute.Guided Strike: +10 to an Attack Roll.II. The Sovereign Unmasked (Levels 6–10)Establishing dominance over the battlefield and the mind.LevelFeaturesSorcery PointsSpells Known (Slot Level)6Aura of Protection, Empowered Healing67 (3rd)7Aura of Conquest78 (4th)8ASI (Charisma +2)89 (4th)93rd Level Metamagic (Heightened Spell)910 (5th)10Aura of Courage, Metamagic Adept1011 (5th)Detailed Mechanics:Aura of Protection (Lvl 6): You and allies within 10ft gain a bonus to ALL Saving Throws equal to your CHA modifier (+5/+6). This is your "Aura of Destiny."Empowered Healing (Lvl 6): When you or an ally within 5ft rolls dice to restore HP (e.g., Cure Wounds), you can spend 1 Sorcery Point to reroll the dice.Aura of Conquest (Lvl 7): The "Singularity" Effect. If a creature is Frightened of you, its Speed is 0 while within your aura, and it takes psychic damage equal to half your level every turn. They freeze in your presence.Heightened Spell (Lvl 9): Give one target Disadvantage on their first saving throw against your spell.Combo: Heightened + Subtle Dominate Person. They have almost no chance to resist, and no one sees you do it.III. The Ascendant (Levels 11–20)Becoming a physical god on the material plane.LevelFeaturesSorcery PointsSpells Known (Slot Level)11Improved Divine Smite (+1d8 radiant to all hits)1112 (6th)12ASI (Constitution +2)1212 (6th)13--1313 (7th)14Angelic Form (Wings), Cleansing Touch1413 (7th)15Scornful Rebuke1514 (8th)16ASI (Feat: Tough or Alert)1614 (8th)179th Level Spells (Meteor Swarm, Wish)1715 (9th)18Aura Improvements (30ft Radius)1815 (9th)19ASI1915 (9th)20Invincible Conqueror + Sorcerous Restoration2016 (9th)Detailed Mechanics:Angelic Form (Lvl 14): Bonus Action to manifest spectral wings (Julian Eagle or Dragon wings). You gain a Fly Speed of 30ft.Scornful Rebuke (Lvl 15): Whenever a creature hits you with an attack, they take Psychic damage equal to your CHA modifier. No reaction required.Invincible Conqueror (Lvl 20): For 1 minute: Resistance to all damage, extra attack (3 total), and your attacks crit on 19-20.Sorcerous Restoration (Lvl 20): Regain 4 Sorcery Points on a Short Rest.IV. The Epic Singularity (Levels 21–30)Breaking the rules of 5e. You are now editing the campaign setting.LevelEpic FeatureMechanic21Epic CharismaYour CHA max increases to 30. Your Modifier is now +10.22Twin ConcentrationYou can concentrate on two spells at once (e.g., Haste + Spirit Guardians).23Unearthly RecoveryBonus Action: Regain 50% of your HP. (1/Long Rest).24Epic MetamagicSovereign Spell: Cost 5 SP. A spell takes effect without a Saving Throw (targets Legendary Resistance).25Global AurasYour Auras extend to 120ft. Your armies are fearless; enemies freeze across the battlefield.26Spell Slot ExpansionYou gain a 2nd 9th-Level Slot and two 8th-Level Slots.27Miasmic OverrideYou ignore Magic Resistance and Immunities to Psychic/Charm/Fear effects.28Divine SparkYou stop aging physically. You can grant 1st level spells to followers (Cleric/Warlock patronage).29Infinite SorceryYou regenerate 1 Sorcery Point every round.30Total ApotheosisYou become a Lesser Deity. You can cast Wish without stress or material component cost (1/week).The "Imperator" Spell List (Common Selections)Mapping standard D&D spells to your "Auctoritas" flavor.Cantrips: Guidance (Tactical Advice), Mind Sliver (Psychic Pressure), Thaumaturgy (Voice of Command).1st: Command (Imperium), Shield (Miasmic Barrier), Cure Wounds (Flesh Knitting).2nd: Hold Person (Paralysis of Will), Spiritual Weapon (Spectral Eagle), Suggestion (Whispered Truth).3rd: Spirit Guardians (Ancestral Ghosts), Counterspell (Denial), Haste (Celerity).4th: Banishment (Exile), Dimension Door (Step of Hermes).5th: Dominate Person (Total Subjugation), Geas (The Blood Oath).7th: Divine Word (The Voice of God).9th: Meteor Swarm (Orbital Bombardment / Wrath of Venus)."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -968,8 +996,11 @@ Your vision for the **Imperator** is a masterpiece of mechanical and narrative s
 2. **The 30% Infiltration:** The Senate's 'Purse and Law' may eventually catch wind of your 'Vibia' heiress. A fun arc would be Lucius (your bureaucrat brother) accidentally being sent to audit the very provincial wealth you've fabricated.
 3. **The Singularity's Ennui:** As a 'Level 12 Titan,' small-scale combat is trivial. The challenge will be the **Social HP** of figures like Batiatus and Lucretia—breaking them mentally and spiritually without accidentally killing them with your mere presence."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -991,8 +1022,11 @@ We have codified the **Imperator Gestalt**—a divine blend of Conquest and Soul
 > [!NOTE] ⚙️ **Player Choice:**
 > *Start Adventure - Confirm all details and step through the gates of the Ludus as Gaia Vibia.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Outside the Gates of the Ludus of Batiatus** &nbsp;|&nbsp; ⏳ **82 BCE, Late Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1010,8 +1044,11 @@ Behind you, the massive frame of Voros remains as still as a statue, his presenc
 God Mode:
 lets remove the singularity language
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -1021,8 +1058,11 @@ Acknowledged. I have scrubbed the 'Singularity' terminology from your internal c
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Flirtatious Naif - Giggle and say you slipped away to see &#x27;real men,&#x27; appealing to Lucretia&#x27;s vanity and Batiatus&#x27;s greed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: Yes**
@@ -1052,8 +1092,11 @@ You cast a flirtatious, almost reverent glance toward the inner yard where the s
 God Mode:
 keep my companions 2 levels below me and my honor guard the 20 3 levels below
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1073,8 +1116,11 @@ I have updated the campaign directives to enforce your requested level hierarchy
 
 "Oh, Lucretia, you mustn't tell!" you whisper-shout, leaning in as if sharing a scandal that would ruin a reputation you don't actually have. "My father thinks I'm visiting the Temple of Diana for my devotions. But Rome is so... quiet. So full of men who only know how to move papers and trade insults in the Curia. I wanted to see the men who move the world with their hands!""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Entrance to Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -1090,8 +1136,11 @@ You catch a glimpse of the training pits as the inner gates swing open. The scen
 God Mode:
 lets assume in capua not as many people know who i am, but one of the top 3 lords does know and is loyal to my family. I told him to play along with my provincial girl act and we can introduce him later when it makes sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1101,8 +1150,11 @@ State modification complete. One of the top three Lords of Capua (Lord Titus Cal
 > 👤 **Player:**
 > *"praise the villa and lets do exxtended narration and dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Naif (Active) | Inspiration: No**
@@ -1120,8 +1172,11 @@ Lucretia glides to your side, her silk gown whispering against the stone. She wa
 > 👤 **Player:**
 > *"i am an amazing actor but my men aren't all as good. there should be some slips where they hint at their true levels and bachianus and his wife should notice and be intimidated or feel greedy that my status is even higher than expected"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Naif (Active) | Exhaustion: 0**
@@ -1141,8 +1196,11 @@ Lucretia, however, doesn't look intimidated; she looks ravenous. She steps close
 > 👤 **Player:**
 > *"say something silly like ask if spartacus can spar with me, see if they agree"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -1176,8 +1234,11 @@ Below in the pit, Spartacus has not moved, but his eyes find yours. There is no 
 God Mode:
 these shouldnt be intentional slips, let them happen naturaly with deception rolls The intentional 'slips' by Vorenus and the Twenty have successfully amplified the NPCs' greed and intimidation. Batiatus is now physically nervous, fearing your status is higher than he can handle, while Lucretia is becoming socially aggressive in her attempt to 'claim' your favor. Spartacus has noted the tension on the balcony, his eyes flicking upward.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Julian (Active) | Exhaustion: 0**
@@ -1197,8 +1258,11 @@ Administrative audit complete. I have reconciled the game state with the narrati
 God Mode:
 lets have glabber and his wife illithyia here too, glabber isn't keen on staying, similar to the show, but lets have some interaction. In rome i keep a low profile, but he might be able to win some perception roles and realize I'm from a top family
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1208,8 +1272,11 @@ Administrative correction applied. Gaius Claudius Glaber and his wife Ilithyia h
 God Mode:
 Give me spells from extended paladin list from player handbook like greater steed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1233,8 +1300,11 @@ As a Level 12 Imperator (Gestalt Paladin/Sorcerer), you have access to the follo
 God Mode:
 Let's not allow glaber to fully pierce the mask but let him notice things if he wins rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1253,8 +1323,11 @@ I have also added 'Find Greater Steed' to your active spell list as a signature 
 > 👤 **Player:**
 > *"Resume story and have glaber and his wife enter scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Exhaustion: 0**
@@ -1289,8 +1362,11 @@ Below, Spartacus watches the arrival of the Praetor. His hands clench into white
 > 👤 **Player:**
 > *"Let's have me not act subservient to glabbus and see if others notice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -1308,8 +1384,11 @@ Batiatus is practically vibrating with anxiety, his eyes darting between your co
 God Mode:
 Make it more subtle but glaber should notice You let your gaze wander over his crimson cape, not with reverence, but with the casual appraisal one might give a piece of mediocre upholstery
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1324,8 +1403,11 @@ Retcon and subtlety adjustment applied. The previous interaction has been refine
 > 👤 **Player:**
 > *"Narrate the more subtle lack of groveling. I stay friendly and polite but don't accept his framing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100000/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1341,8 +1423,11 @@ Glaber's jaw tightens. He doesn't see a goddess, but he feels the bite of your u
 > 👤 **Player:**
 > *"Ask if I can spar with Spartacus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100000/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Imperator (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1360,8 +1445,11 @@ Below, Spartacus has not moved. He stands in the center of the sand, his eyes lo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Sparring Request - Directly ask Batiatus to bring the wooden swords, using Ilithyia&#x27;s excitement to override Glaber&#x27;s silent disapproval.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Ludus of Batiatus, Balcony** &nbsp;|&nbsp; ⏳ **-82 October 15, 17:45:05** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000 denarii**
@@ -1381,8 +1469,11 @@ Glaber’s eyes narrow until they are mere slits of dark obsidian. He watched th
 > 👤 **Player:**
 > *"Act excited and get ready to spar with spartacus see what he does. Before this bachianus should take Spartacus aside and threaten to kill him if he hurts me since he's confident I am above him socially"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of 'Gaia Vibia' (Active) | Inspiration: Yes**
@@ -1400,8 +1491,11 @@ On the balcony, Glaber leans forward, his hand white-knuckled on the marble rail
 > 👤 **Player:**
 > *"Have some fun. Spar at the level of a level 2 combatant. It should be rare for a 16 year old girl"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Compromised) | Exhaustion: 0 | Inspiration: No**
@@ -1419,8 +1513,11 @@ On the balcony, Glaber's eyes widen. He doesn't know *what* you are, but the 'Le
 > 👤 **Player:**
 > *"Stay at level 1-2 and see if anyone notices. Play it safer with my mask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -1434,8 +1531,11 @@ On the balcony, Glaber’s hand slowly relaxes its grip on the hilt of his sword
 > 👤 **Player:**
 > *"Ask bachianus for a favor. Could we use live steal. Ask it in a way that makes me sound naive. This should be a very hard DC. Bachianus is terrified of saying no but even more worried about me getting hurt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Last Long Rest: -82 DR, Oct 14** &nbsp;|&nbsp; ⚠️ **Mask of the Imperator (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1455,8 +1555,11 @@ On the balcony, Glaber’s lip curls in a sneer of pure, aristocratic exhaustion
 God Mode:
 He shouldn't know I'm a Julian remember
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1468,8 +1571,11 @@ I have also logged your reminder in the campaign constraints to prevent Glaber f
 God Mode:
 Defer to Ilithyia - Look up to the balcony and ask Ilithyia if she doesn&#x27;t think the &#x27;shiny swords&#x27; would be more exciting, using her social aggression as a lever.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1481,8 +1587,11 @@ Batiatus is currently at 1 Social HP. Deferring to Ilithyia now will effectively
 God Mode:
 I meant bachianius. In earlier narrative you said this so let's be clear Batiatus nearly chokes on his own tongue. His eyes dart frantically between your smiling face and the silent, iron-clad 'mercenaries' standing behind him. He is a man caught in a vice; the terror of offending a Julian who clearly has no concept of her own mortality is currently wrestling with the sheer horror of explaining a dead 'Vibia' heiress to the Senate.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1494,8 +1603,11 @@ I have locked the 'Glaber cannot identify Gaia as a Julian' directive to prevent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Ilithyia Lever - Proceed with looking up to Ilithyia to override Batiatus&#x27;s fear of the live steel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000 denarii**
@@ -1515,8 +1627,11 @@ Batiatus looks as though he's swallowed a hot coal. He glances at Glaber, who re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Clumsy Lethal Parry - Execute a parry with live steel that is mechanically perfect but framed as a &#x27;lucky&#x27; panic-move, testing Spartacus&#x27;s speed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:56)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Imperator (Active) | Inspiration: No**
@@ -1536,8 +1651,11 @@ On the balcony, Glaber leans so far over the rail that his shadow almost touches
 > 👤 **Player:**
 > *"See if anyone notices my guard didn't try to stop me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (17:57)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -1557,8 +1675,11 @@ Batiatus, sensing the shift in the air, begins to wring his hands so hard his kn
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the &#x27;Luck&#x27; - Follow up with another &#x27;accidental&#x27; strike, forcing Spartacus to decide whether to defend himself or maintain his &#x27;yield&#x27; to Batiatus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:58)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100000/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1580,8 +1701,11 @@ On the balcony, the silence is absolute. Glaber’s eyes are no longer narrowed;
 > 👤 **Player:**
 > *"Glaber shouldn't explicitly recognize my combat ability because a 16 year old woman who's even level 4 is outside reality. Retcon it a bit and just have him notice the guards didn't move and be puzzled"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (17:58)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1601,8 +1725,11 @@ Batiatus, sensing the Praetor's withdrawal, rushes into the pit, his face a mask
 > 👤 **Player:**
 > *"Retcon this. I won't complain just act excited "Batiatus!" you wail, looking up at the balcony with wide, watering eyes, the gladius falling from your 'shaking' hand. "He... he swung so hard! He almost hit me!""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:01)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0**
@@ -1622,8 +1749,11 @@ As Batiatus reaches out to help you up, his hands trembling as he offers his own
 God Mode:
 Let's retcon this. I won't act upset I'll just act like I'm having fun Batiatus!" you wail, your voice cracking into a high-pitched sob that carries through the silent courtyard. "He... he swung so hard! He almost hit me! The shiny sword almost touched my face!"
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:01)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1633,8 +1763,11 @@ Retcon applied. Your wailing and feigned terror have been successfully integrate
 God Mode:
 No I don't want to act upset or scared just excited like I'm having fun
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:01)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1650,8 +1783,11 @@ Retcon fully processed. Your reaction in the pit has been shifted from 'terror a
 > 👤 **Player:**
 > *"Ok redo the scene now and narrate my proper reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (18:01)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100000/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Masked (Gaia Vibia) | Exhaustion: 0 | Inspiration: No**
@@ -1669,8 +1805,11 @@ Ilithyia, however, leans further over the rail, her own smile mirroring your fei
 God Mode:
 Let's add 20 shadows to my revenue. They are gloomstalker 5 assassin 4 spies/rangers and always scouting or gathering intel for me. Also my companions and retinue know I'm a level 12 with divine powers and have great respect for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (18:01)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1686,8 +1825,11 @@ Stats for 'The Shadows' have been logged, and the companion/guard awareness has 
 > 👤 **Player:**
 > *"Make an absurd request that bachianus will fearfully decline. Ask that I be put in the arena as a gladiator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -1705,8 +1847,11 @@ On the balcony, Glaber doesn't even bother to look down anymore. He simply rubs 
 > 👤 **Player:**
 > *"Ask Spartacus if he thinks I could be a gladiator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (18:12)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1726,8 +1871,11 @@ On the balcony, Glaber lets out a sharp, barked laugh of pure derision. "Even th
 > 👤 **Player:**
 > *"Give Spartacus the sword as a gift and ask bachianius if he can be rewarded for being a good sport. What if he sits beside me at dinner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Ludus of Batiatus, Training Pit** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -1747,8 +1895,11 @@ On the balcony, Glaber simply turns and walks away, his crimson cloak snapping w
 God Mode:
 Fix this in game state bachianus doesn't know I'm a Julian table with a Julian, a Praetor, and the local elite is a social crime that borders on heresy. But
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Ludus of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1760,8 +1911,11 @@ I have locked the 'Glaber cannot identify Gaia as a Julian' directive to prevent
 > 👤 **Player:**
 > *"Let's narrate the dinner scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of 'Gaia Vibia' (Active) | Inspiration: Yes**
@@ -1781,8 +1935,11 @@ Spartacus raises his head. He doesn't look at the wine. He looks at you, his eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appraise Spartacus&#x27;s Scars to Ilithyia - Engage Ilithyia in a clinical, voyeuristic discussion about Spartacus&#x27;s battle scars as if he were a piece of fine statuary, testing his patience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100000/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1800,8 +1957,11 @@ Spartacus remains as still as the stone he was compared to, but the muscle in hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Glaber&#x27;s Military Opinion - Force Glaber to appraise Spartacus&#x27;s scars from a soldier&#x27;s perspective, making him an unwilling participant in your &#x27;girlhood&#x27; curiosity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **-82 October 15, 18:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000**
@@ -1823,8 +1983,11 @@ Beside you, Ilithyia leans in, her breath smelling of honeyed wine. "Oh, Glaber,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Spartacus About His Wife - Pivot the &#x27;clinical&#x27; discussion to his past, asking if he had a woman who &#x27;appreciated his form&#x27; as much as Ilithyia does, twisting the knife of his loss.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -1840,8 +2003,11 @@ Spartacus does not move, but the change in him is tectonic. The dark, dangerous 
 God Mode:
 Let's have Spartacus level 4 for now but he will quickly level up to level 9 as he trains
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp**
@@ -1851,8 +2017,11 @@ Administrative update complete. Spartacus's base level has been set to 4 to refl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Speculate on Her Fate - Innocently ask if she was &#x27;sold to a kinder master&#x27; or if she &#x27;died in the mud,&#x27; pushing Spartacus to his breaking point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **-82 October 15, 18:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of 'Gaia Vibia' (Active) | Exhaustion: 0**
@@ -1877,8 +2046,11 @@ Spartacus does not move. He does not reach for the wine, nor does he look at the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Glaber about Slave Paperwork - Innocently ask Glaber if &#x27;lost wives&#x27; are recorded in the census, further leaning into the &#x27;tactless provincial&#x27; mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: Yes**
@@ -1898,8 +2070,11 @@ Beside the table, Spartacus hasn't moved a muscle, but the air around him seems 
 God Mode:
 Shouldn't glaber join in on mocking Spartacus like the tv show?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **None**
@@ -1916,8 +2091,11 @@ Gaius Claudius Glaber has been updated to align more closely with his television
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the dinner as Glaber leans in to twist the knife alongside you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100000/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -1935,8 +2113,11 @@ Spartacus remains paralyzed in a well of torchlight and jagged shadows. The whit
 > 👤 **Player:**
 > *"Playfully reprimand glabus and say he's being mean. He gave blunt cruelty while I was indirect so say something socially sophisticated to hint at him being less refined than me but not too obvious. This comment should get his attention and make him realize I'm not a fool"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **-82 October 15, 19:05:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,000/120,000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -1954,8 +2135,11 @@ Beside him, Ilithyia’s laughter dies in her throat, replaced by a sharp, indra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Smooth it Over - Quickly return to the &#x27;naive&#x27; mask by giggling and asking about his cape again, treating the insult as an accidental slip.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100150/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: Yes**
@@ -1988,8 +2172,11 @@ You gain **150 XP** for the masterful social maneuver and the continued psycholo
 > 👤 **Player:**
 > *"When no one else is looking wink at Spartacus and quickly move my eye to his sword and back at him daring him to strike at me. He should realize my power now and remember his instincts that I didn't truly feel afraid during the spar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **-82 October 15, 19:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100150/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: Yes**
@@ -2003,8 +2190,11 @@ Spartacus’s breath hitches, a sound lost to the crackle of the braziers. In th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eavesdrop on Glaber - Use your &#x27;naive&#x27; interest in the messenger to overhear the news from Rome, signaled by the Shadows.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -2032,8 +2222,11 @@ Glaber looks at you, but he doesn't see you. He is staring through you, his mind
 God Mode:
 No let's not have Sulla winning, let's keep the Julia in power and Sulla in exhile
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000gp**
@@ -2049,8 +2242,11 @@ Historical timeline divergent point confirmed. The 'Sulla's Dictatorship' event 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the dinner with Glaber reacting to the news of the Julian consolidation and Sulla&#x27;s defeat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100150/120000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2070,8 +2266,11 @@ Beside you, Spartacus has not moved, but the air around him has changed. He saw 
 God Mode:
 I thought the Marian's were my allies
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, 82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100150/120000 | Gold: 100,000gp**
@@ -2095,8 +2294,11 @@ Glaber is an Optimate sympathizer (or at least, a servant of the old Senate orde
 > 👤 **Player:**
 > *"In a subtle way signal I'm on the Julian side. Say all the political talk is boring but my father has no mind for military  but always picks winners. If Glabber is nice my father could probably help. Say it like it's nothing and maintain the naive mask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100150/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2112,8 +2314,11 @@ Glaber’s gaze snaps to yours, the political terror in his eyes suddenly clashi
 > 👤 **Player:**
 > *"Drop the topic and see if he picks it up  again. Start talking to bachinus wife and subtly ask her if she has any drugs or opium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100150/120000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -2131,8 +2336,11 @@ Beside you, Spartacus remains a statue of iron and grief, but his eyes find your
 > 👤 **Player:**
 > *"Flirt with lucteria and illithyia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100350/120000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of 'Gaia Vibia' (Active) | Inspiration: No**
@@ -2152,8 +2360,11 @@ At the end of the table, Glaber remains frozen, his knuckles white against the w
 > 👤 **Player:**
 > *"Time skip for a few hours and narrate what happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of 'Gaia Vibia' (Active) | Exhaustion: 0**
@@ -2167,8 +2378,11 @@ Now, the villa has settled into an uneasy, thick silence. It is deep night (22:3
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon Cinnaminus - Have your Prince of Rats slip into the room to give a full report on the suspicious figure watching the villa.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100150/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Provincial Girl (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2188,8 +2402,11 @@ He looks up at you, his eyes wide with a mixture of terror and unrequited adorat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Capture the Watcher - Order Cinnaminus and a small group of Shadows to take the figure alive for interrogation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,300/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2211,8 +2428,11 @@ Outside the door, the metallic clink of Vorenus's armor stops. The Centurion ent
 > 👤 **Player:**
 > *"Ask Vorenus what his concerns are honestly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2228,8 +2448,11 @@ Vorenus exhales, a slow, controlled sound that rattles in the back of his throat
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Logic of Survival - Explain that Crassus is not &#x27;the law&#x27; but a predator seeking to audit your bloodline. To survive, you must operate outside the Curia&#x27;s reach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of 'Gaia Vibia' (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2245,8 +2468,11 @@ You stand, walking slowly toward the bound watcher, your gold-ringed fingers tra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Duty - Explain that the safety of the Julian line is the highest law (Salus Populi Suprema Lex), making this act the most &#x27;Roman&#x27; thing possible.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of 'Gaia Vibia' (Active) | Exhaustion: 0**
@@ -2262,8 +2488,11 @@ He does not yield his disapproval, though he maintains his post. The friction re
 > 👤 **Player:**
 > *"As a compromise no torture just intimidate the watcher to interrogate him. Use my full level 12 presence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Inspiration: Yes**
@@ -2281,8 +2510,11 @@ Beside the door, Lucius Vorenus has gone rigid. He does not look at the captive;
 > 👤 **Player:**
 > *"Let's always use guidance for every check and assume I always cast it unless I'm concentrating on something else more important too. Do this going forward"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000 Denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+6), Aura of Conquest (10ft) | Inspiration: No**
@@ -2308,8 +2540,11 @@ Beside the door, Lucius Vorenus has not looked away from you. The Centurion's fa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Network Details - Force the watcher to reveal his contact points in Capua and Rome. Map the &#x27;predator&#x27;s&#x27; reach before it can close.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,150/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Julian Auctoritas (Active) | Inspiration: No**
@@ -2344,8 +2579,11 @@ You gain **200 XP** for extracting the full operational network of Crassus's reg
 > 👤 **Player:**
 > *"Explain to the spy that he's caught and a caught spy is dead. He might as well work for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100500/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Aura of Conquest, Aura of Protection | Guidance (Active)**
@@ -2379,8 +2617,11 @@ Beside the door, Lucius Vorenus has gone rigid, his hand white-knuckled on the h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Protection and Gold - Appeal to his greed and survival instinct without magic, promising him a new identity once the audit is subverted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -2398,8 +2639,11 @@ Cinnaminus steps forward, his fingers tracing the edge of the watcher's silver r
 > 👤 **Player:**
 > *"Smile at Vorenus. Say I was nice. Ask how he would've handled it instead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Guidance (Active) | Exhaustion: 0**
@@ -2419,8 +2663,11 @@ He looks at you, and for a heartbeat, the drillmaster's mask slips, revealing a 
 > 👤 **Player:**
 > *"Tell Vorenus we can try it his way next time. But remind him he knows my nature since he's known me since I was a child. Make a joke and say isn't he thankful I just play games and won't inherit the full family power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 15, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -2438,8 +2685,11 @@ Vorenus’s shoulders drop just a fraction, the iron of his posture yielding to 
 > 👤 **Player:**
 > *"Delegate the double agent duty to Cinammon and go long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Villa of Batiatus, Guest Suite** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Guidance | Exhaustion: 0 | Inspiration: No**
@@ -2457,8 +2707,11 @@ Morning (07:35:00) breaks over the Villa of Batiatus, the first rays of the Medi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Spartacus&#x27;s Training - Visit the balcony to see how the Thracian handles the steel I gave him and if he has shared his suspicions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Villa of Batiatus, Balcony Overlooking Training Pit** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Exhaustion: 0**
@@ -2481,8 +2734,11 @@ You search for signs that he has shared his suspicions with the other gladiators
 > 👤 **Player:**
 > *"Find glaber at breakfast but don't bring up the offer. See if he bites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Vibia, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -2504,8 +2760,11 @@ He leans forward, his knuckles white against the table, his military mask finall
 > 👤 **Player:**
 > *"Be polite and praise the food and drink to bachianius and his wife. They should notice something odd. I'm always very polite and never speak down to them, meaning perhaps my standing is so high that i don't even feel the need"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance (Active), Aura of Protection (+6), Aura of Conquest**
@@ -2525,8 +2784,11 @@ Across the table, Glaber's knuckles turn white. He is still leaning forward, his
 > 👤 **Player:**
 > *"Say he doesn't need to do anything which will terrify him more. I have an uncle in capua and he will talk business with you. Shall I call him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2557,8 +2819,11 @@ Glaber's breath hitches. He looks at you, searching for the mask, but all he see
 > 👤 **Player:**
 > *"Say he doesn't need to do anything which will terrify him more. I have an uncle in capua and he will talk business with you. Shall I call him?  This was for glaber not bachianus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance (Active), Mask of the Vibia (Active) | Inspiration: Yes**
@@ -2589,8 +2854,11 @@ Glaber’s hands tremble visibly on the table. The name 'Calavius' strikes him l
 > 👤 **Player:**
 > *"Summon lord Calvinis and have him give glabius a hard time and not reveal my Julian name but perhaps there will be subtle signs of deference. He doesn't know I'm level 12 but he knows I am royalty and mostly has to listen to me for most reasonable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -2619,8 +2887,11 @@ Glaber stiffens as if struck, his face flushing a deep, mottled red. To be treat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Innocent Intervention - Intervene with a &#x27;naive&#x27; comment to &#x27;save&#x27; Glaber, further highlighting his dependency on your mercy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12**
@@ -2640,8 +2911,11 @@ Glaber looks at you, his breathing shallow and ragged. He sees the 'naive' girl 
 God Mode:
 Let's have Calvinis deeply grateful to me as well. He knows I am a prodigy and genius and I helped him double his business profits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active), Guidance (Active)**
@@ -2656,8 +2930,11 @@ Confirmed. Lord Titus Calavius's history and relationship state have been update
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask to See the Scroll - Innocently ask to see the &#x27;funny gray paper&#x27; Glaber received, forcing him to show a High Lord his own political death warrant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -2688,8 +2965,11 @@ Calavius leans in, his eyes scanning the text with a terrifying, administrative 
 > 👤 **Player:**
 > *"Ask glabbus to explain what the paper means"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2717,8 +2997,11 @@ Glaber flinches at the word 'harvest,' his dignity finally shattering like cheap
 God Mode:
 He shouldn't say this since it reveals I am a Julian  They are the names of men who are currently realizing that their gardens now belong to your father's veterans. It is not a prize, Gaia—it is a harvest
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2739,8 +3022,11 @@ Lord Calavius: *"Shifted their priorities? My dear, the Praetor is being far too
 > 👤 **Player:**
 > *"Say I have a brilliant idea. Uncle what if you take glabbers properties and be the one assessing and then give them back to him? Glabber would be happy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance (+1d4) | Inspiration: No**
@@ -2771,8 +3057,11 @@ Glaber's face is a study in agonizing relief. He doesn't see the noose; he only 
 > 👤 **Player:**
 > *"See if anyone noticed that Calvinus just agreed without asking my father. Narrate their inner thoughts if so"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Inspiration: No**
@@ -2788,8 +3077,11 @@ At the far end of the table, Spartacus watches the Praetor's knuckles whiten. He
 > 👤 **Player:**
 > *"Ask calvinus if we can throw a party in his villa and invite these fine people."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -2811,8 +3103,11 @@ At the far end of the table, Spartacus remains silent. He looks at the blackened
 > 👤 **Player:**
 > *"Give Glabber a friendly pat on the shoulder and ask him if he feels better."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance, Mask of Gaia Vibia | Exhaustion: 0 | Inspiration: Yes**
@@ -2834,8 +3129,11 @@ At the far end of the table, Spartacus watches your hand on Glaber's shoulder. H
 > 👤 **Player:**
 > *"Decadent display but ask it and don't demand it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -2868,8 +3166,11 @@ Batiatus, still vibrating in a state of social vertigo, merely nods frantically.
 > 👤 **Player:**
 > *"Tell illithiya to invite her friends to the party. Let's have her invite Crassus cousin from the tv show. This girl knows me but especially given the Julian ascension she's terrified and will play along with my games"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Villa of Batiatus, Triclinium** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance (Active) | Inspiration: No**
@@ -2896,8 +3197,11 @@ Glaber merely nods, a broken man accepting a new set of chains. He doesn't see t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Depart for Calavius Villa - Lead the procession to the new location, maintaining the &#x27;Vibia&#x27; mask during the public movement through Capua.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Villa of Calavius, Grand Entrance** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 Denarii** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Inspiration: Yes**
@@ -2933,8 +3237,11 @@ Calavius bows, his eyes reflecting a deep, intellectual worship as he gestures t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Invitations - Have Ilithyia draft the formal invitations to Licinia and other Campania elite immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Villa of Calavius, Sun-Drenched Tablinum** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Guidance (Active) | Inspiration: No**
@@ -2954,8 +3261,11 @@ Outside, the gardens are a hive of activity. Lord Calavius moves through his sla
 God Mode:
 Remember I am extremely beautiful and healthy and vibrant. The peak of Roman physical perfection.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Villa of Calavius, Sun-Drenched Tablinum** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000 denarii**
@@ -2970,8 +3280,11 @@ Directive updated and reinforced. The 'Peak Roman Perfection' rule is now establ
 > 👤 **Player:**
 > *"When we arrive I say I'll go borrow some clothes from Calvinus and change into my real high class clothes that show off my beauty and true status but I'll keep up the provincial girl act and say something like one day hopefully father can afford clothes like these for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Villa of Calavius, Private Dressing Suite** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance, Mask of Vibia (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2989,8 +3302,11 @@ The silk is cool and translucent, clinging to your form with a precision that hi
 God Mode:
 How much is my gown worth vs the villa ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Villa of Calavius, Private Dressing Suite** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000dn**
@@ -3011,8 +3327,11 @@ Your gown is worth approximately **1.5x to 2x the entire villa**. You are curren
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Council with Vorenus - Summon Vorenus while unmasked to address his &#x27;Dignitas&#x27; concerns from a position of absolute aesthetic and moral power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Villa of Calavius, Private Dressing Suite** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Julian Aura (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3030,8 +3349,11 @@ You offer a slow, heavy-lidded smile, the biological majesty of your Julian perf
 God Mode:
 Let's assume my true gold reserve is 10milillion but I can only access it in Rome and I make 500k gold passively every year
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Villa of Calavius, Private Dressing Suite** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp (Liquid) / 10,000,000gp (Rome Reserve)**
@@ -3048,8 +3370,11 @@ This wealth establishes you not just as a noble, but as a sovereign power. In Ca
 > 👤 **Player:**
 > *"Make sure I stay masked as level 1 and do staged entry. I should look like a goddess now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Villa of Calavius, Grand Tablinum** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active), Biological Majesty (Radiating)**
@@ -3083,8 +3408,11 @@ By the fountain, Spartacus has turned fully toward you. He stands motionless in 
 God Mode:
 That's just my gold not my full family gold. I am actually the richest child but my parents are richer etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Villa of Calavius, Grand Tablinum** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 (Liquid) / 10M (Rome)**
@@ -3100,8 +3428,11 @@ Wealth hierarchy clarified and updated in the Imperial Ledger.
 > 👤 **Player:**
 > *"Narrate glaber taking his wife aside and reminding her to be careful of my sharing his suspicions. He should explain how his fortunes drastically changed with one sentence from me. His wife should be saavy with such things. He will instruct his wife to find out more about me. This is all done out of my earshot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Villa of Calavius, Secluded Garden Alcove** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mask of Vibia (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3123,8 +3454,11 @@ Ilithyia offers a slow, predatory smile, her mind already weaving the social thr
 > 👤 **Player:**
 > *"Imperial welcome for Licinia but let's assume ahead of time cinamon met with her and briefed her on the game she needs to play. She should be terrified because no one else, not even my siblings have my financial resources and a private army and 20 elite spies and as level 11 spy like cinamon on demand just for amusement. She already knows my setup and the games I play"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Villa of Calavius, Grand Tablinum** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 12/12, Exhaustion: 0**
@@ -3146,8 +3480,11 @@ Beside the fountain, Spartacus watches the exchange. He sees the way a daughter 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sophisticated Cousin - Force Licinia to describe your &#x27;provincial&#x27; childhood to Glaber and Ilithyia, using her terror to ensure she doesn&#x27;t slip.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Villa of Calavius, Grand Tablinum** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 12/12, Exhaustion: 0**
@@ -3178,8 +3515,11 @@ Glaber’s scowl remains, but the weight of Licinia's 'witness' acts as a social
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Garden of Dreams - Pivot to the private garden to begin the poppy session, using the &#x27;Egyptian Dew&#x27; to erase the guests&#x27; memories of the awkward interrogation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | SP: 12/12 | Exhaustion: 0**
@@ -3206,8 +3546,11 @@ Glaber stiffens, his soldier's instincts warring with the social requirement to 
 > 👤 **Player:**
 > *"Let's have Calvinus have children and they come and need to participate in the game too. They are afraid of me too but aren't as afraid since I'm fond on them and treat them well. Let's have two brothers and one sister who are older and have Calvinus have a wife who is genuinely fond of me but of course always intimidated  by rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | SP: 12/12 | Exhaustion: 0**
@@ -3225,8 +3568,11 @@ The two brothers, Marcus (19) and Quintus (17), offer stiff, military bows, thei
 > 👤 **Player:**
 > *"Private chat with licinia and casually mention how I mentally torture one of Crassus spies. Tell her the usual thing that if she helps me have fun I'll help her with whatever she wants and if not I'll be very upset. Flash my real level 12 presence when  no one can see"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Julian Auctoritas (Unmasked) | Inspiration: Yes**
@@ -3244,8 +3590,11 @@ Licinia's face is the color of bleached bone. She accepts the pipe with a hand t
 God Mode:
 Retcon this. His family knows who I am but they play along. Also I treat them well in general She is genuinely fond of the 'Vibia' girl she believes you to be, yet the sight of you in Tyrian purple—radiating the peak of Roman physical perfection—leaves her visibly intimidated by the sheer weight of your unstated rank
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp (Liquid)**
@@ -3261,8 +3610,11 @@ Retcon successful. The internal dynamics of the Calavius family have been update
 > 👤 **Player:**
 > *"Redo the family intro session with the awareness of who I am with Calvinus family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | SP: 12/12**
@@ -3284,8 +3636,11 @@ Licinia’s face is the color of bleached bone as she accepts the pipe with a ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Licinia&#x27;s Testimony - Force Licinia to lead the conversation, using her status to praise your &#x27;provincial&#x27; generosity and further blind Glaber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000 (Local) / 10M (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, SP: 12/12**
@@ -3315,8 +3670,11 @@ Glaber offers a slow, yielding nod. The testimony of a Crassus cousin has effect
 God Mode:
 Is there nicer wine than falernian?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp (Liquid)**
@@ -3351,8 +3709,11 @@ While Falernian is the gold standard for the 'elite' like Glaber, Caecuban is fo
 God Mode:
 Continue the deception. Portray my family as a tier below calvinus family but with gold and great business sense even if not title. Imply that my father gives great business advice and calvinus wins favor through pleasing me but stay subtle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp**
@@ -3373,8 +3734,11 @@ Deception Protocol Update: The hierarchy of the 'Vibia' mask has been recalibrat
 God Mode:
 Properly save my spells I should have in game state based on what we discussed beford
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)**
@@ -3396,8 +3760,11 @@ Spellbook synchronization complete. I have updated your `spells_known` to reflec
 > 👤 **Player:**
 > *"Resume the garden session and use some dialog to present the business nature of the relationship. Ask Calvinus if it's ok to open Setine** or an **Opimian vintage**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mask of Vibia | Exhaustion: 0 | Inspiration: Yes**
@@ -3417,8 +3784,11 @@ Glaber's breath hitches at the mention of the Opimian. He looks at you, then at 
 God Mode:
 Let's stop quoting my father so much
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp (10M in Rome)** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Peak Roman Perfection (Active)**
@@ -3428,8 +3798,11 @@ Directive updated. I will significantly reduce the 'My father says...' and 'Fath
 God Mode:
 Drink the wine and talk naturally with the guests
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp (Local) / 10M (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Masked (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -3445,8 +3818,11 @@ Glaber takes a slow, deliberate drink, his eyes fixed on the dark liquid. He can
 > 👤 **Player:**
 > *"Ask bachianus and lucretia if they're having fun. Narrate their reaction to my ever increasing hints of power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -3468,8 +3844,11 @@ Across the table, Glaber’s knuckles turn white. He noted the 'leak' in your ma
 > 👤 **Player:**
 > *"Fix the mask and pour the next round of wine but pour it heavily like it's nothing. Should establish even more dominance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2** &nbsp;|&nbsp; ⚠️ **Julian Miasma, Egyptian Dew (High) | Inspiration: Yes**
@@ -3489,8 +3868,11 @@ By the phoenix fountain, Spartacus watches the way you mark your subjects with w
 God Mode:
 Stop quoting my father
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp (Liquid)**
@@ -3502,8 +3884,11 @@ This shift allows Gaia's 'Vibia' mask to evolve into that of a self-possessed pr
 > 👤 **Player:**
 > *"Ask batiatus what his ambitions are. Does he dream of more than the ludus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active), Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -3532,8 +3917,11 @@ He stops, his eyes wide and reflecting a desperate, hungry hope that you've just
 > 👤 **Player:**
 > *"Let's have other people like glabbus mock him and say he doesn't have the breeding for it. Then I defend bschianus politely and say it's never too late in life to start something new. Look at me and my hobby with gladiators"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12**
@@ -3564,8 +3952,11 @@ Batiatus looks as though he has just been handed a crown made of fire. He is phy
 > 👤 **Player:**
 > *"Don't explicitly promise anything but ponder it. Say to Calvinus perhaps a small local office to start if he proves helpful? Say this one is beyond me but Calvinus and father can think about it but bachianas seems like a helpful man. Put a hand on bachianus shoulder to establish subtle physical dominance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12**
@@ -3598,8 +3989,11 @@ Batiatus looks up at you, his eyes wide and glazed with a worshipful, catastroph
 > 👤 **Player:**
 > *"Formalize the clientsge but be subtle. Let Calvinus drive it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active), Biological Majesty (+2 CHA Impact)**
@@ -3621,8 +4015,11 @@ Glaber offers a slow, yielding nod, his pride finally sinking into the dark. The
 > 👤 **Player:**
 > *"Ask batius when the next gladiator games are. Also let's see if anyone noticed Calvinus just immediately going along with my suggestions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance (Active) | Inspiration: No**
@@ -3640,8 +4037,11 @@ However, you catch a glimpse of Gaius Claudius Glaber. The Praetor has gone deat
 > 👤 **Player:**
 > *"THINK:How far away from Crassus succession would licinia be? How can I use her to increase my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -3651,8 +4051,11 @@ You pause, the sweet, heavy fog of the Egyptian Dew momentarily freezing in your
 > 👤 **Player:**
 > *"THINK:The Living Certification - Force Licinia to write regular letters to Rome detailing her &#x27;wonderful time&#x27; with her &#x27;dear friend Gaia Vibia,&#x27; effectively poisoning Crassus&#x27;s audit with his own family&#x27;s testimony."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000 (Capua) / 10M (Rome)** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance (Active) | Inspiration: Yes**
@@ -3662,8 +4065,11 @@ You pause, the purple haze of the Egyptian Dew momentarily freezing as you peel 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Living Certification - Force Licinia to write regular letters to Rome detailing her &#x27;wonderful time&#x27; with her &#x27;dear friend Gaia Vibia,&#x27; effectively poisoning Crassus&#x27;s audit with his own family&#x27;s testimony.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12**
@@ -3690,8 +4096,11 @@ Licinia’s face is a study in suppressed trauma, the 'Egyptian Dew' failing to 
 > 👤 **Player:**
 > *"Lets bring our food and narrate it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0**
@@ -3711,8 +4120,11 @@ By the phoenix fountain, Spartacus remains a silver-chased monument of iron and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss &#x27;Advice&#x27; with Calavius - Subtly provide the next round of &#x27;financial advice&#x27; to Calavius in front of the guests to reinforce your value as a prodigy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Inspiration: No**
@@ -3730,8 +4142,11 @@ Glaber watches the exchange, his brow furrowed in a state of 'Dissonant Dread.' 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dictate Licinia&#x27;s First Letter - Have Licinia draft the first letter to Crassus immediately while she is still in a state of high-alert terror.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12**
@@ -3762,8 +4177,11 @@ Across the table, Glaber watches the pen move, his brow furrowed in a state of '
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee Courier Departure - Have Cinnaminus ensure the letter is dispatched via a Shadows-vetted courier, ensuring no &#x27;accidents&#x27; happen on the road.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12**
@@ -3781,8 +4199,11 @@ Lord Calavius offers a slow, yielding smile, his eyes reflecting a deep intellec
 > 👤 **Player:**
 > *"Ask Licinia what she wants or dreams of"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 10,000,000 (Rome) / 100,000 (Liquid)** &nbsp;|&nbsp; ✨ **SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Julian Auctoritas (Passive) | Exhaustion: 0 | Inspiration: Yes**
@@ -3811,8 +4232,11 @@ Across the table, Ilithyia giggles, her head lolling against Glaber's shoulder. 
 > 👤 **Player:**
 > *"Take Licinia on a private walk and drop my mask. Tell her I'll have none of that I should reward her for playing with me. Ask her what her husbands position is again (I already do know just making her repeat it)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000 denarii (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | HD: 12/12**
@@ -3844,8 +4268,11 @@ She swallows hard, her gaze locked on the gold laurel diadem in your hair. "Plea
 God Mode:
 Isn't that Crassus son? Is she Crassus cousin by blood or marriage?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)**
@@ -3869,8 +4296,11 @@ Because Licinia is a blood-relative of the man holding the Republic's purse, her
 God Mode:
 How rich is Crassus?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator (Gestalt Paladin/Sorcerer) | HP: 112/112** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Channel Divinity: 1/1 | Sorcery Points: 12/12 | Lay On Hands Pool: 60/60**
@@ -3891,8 +4321,11 @@ Marcus Licinius Crassus is worth approximately **200,000,000 Gold Denarii** in c
 God Mode:
 How rich is my family?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Masterful), Guidance (Active), Peak Roman Perfection | Exhaustion: 0 | Inspiration: No**
@@ -3911,8 +4344,11 @@ To provide a scale of comparison, **Marcus Licinius Crassus**—the leader of th
 God Mode:
 Give me net worth of my family without my money
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000dn (Capua) / 10,000,000dn (Rome)**
@@ -3937,8 +4373,11 @@ The net worth of the Gens Julia, excluding your personal 10,000,000 Denarii rese
 God Mode:
 Let's give me 1M passive income annual and pay it every day but in capua I can only access 100k normally
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 (Liquid) / 10,000,000 (Rome)**
@@ -3960,8 +4399,11 @@ Financial parameters for the Julian Ascendancy have been recalibrated.
 > 👤 **Player:**
 > *"Ask Licinia how long she thinks the republic will last. In a Julian empire wouldn't she want a Julian friend like me. Show her Cinammon and a few shadows and let her see their real level. Say I have 100 more and could easily kill Crassus if I wanted but it would be boring to start the empire so early. So I am intentionally not helping my family with the purges and playing around. Once i lend my family my strength the republic is done and in some ways it's already done because the opposition  lives but I could end them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 (Local) / 10,002,740 (Total)** &nbsp;|&nbsp; ✨ **SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -3979,8 +4421,11 @@ You offer her a smile that is as perfect and cold as a marble blade. "But to sta
 God Mode:
 Let's assume I have in total 100 level 9 shadows and 100 legionaries loyal specifically to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 denarii (Capua)**
@@ -3990,8 +4435,11 @@ Army data and world resources have been updated to reflect your command of 100 L
 > 👤 **Player:**
 > *"Wait for her response."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 (Local Cap)** &nbsp;|&nbsp; ✨ **SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | HD: 12/12 | Exhaustion: 0**
@@ -4016,8 +4464,11 @@ From the shadows of the willows, Cinnaminus offers a low, rasping chuckle of unr
 > 👤 **Player:**
 > *"Tell her to cheer up. She's picked the winning side and doesn't need to publically betray Crassus until it's safe. Then tell her let's start a new round of the game. Invite all her spicy friends and don't tell them who Inam. I want woman with bite who'll try to slight me to play with"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,750/120,000 | Gold: 100,000 Denarii (Liquid)** &nbsp;|&nbsp; ✨ **SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | HD: 12/12 | Exhaustion: 0**
@@ -4037,8 +4488,11 @@ From the shadows, Cinnaminus offers a low, rasping chuckle, his eyes fixed on th
 God Mode:
 Who are the remaining strongest opposition to my family
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100750/120000 | Gold: 100,000gp (Capua)**
@@ -4070,8 +4524,11 @@ Remaining Strongest Opposition to the Gens Julia:
 > 👤 **Player:**
 > *"Tell Licinia to bring who she can today and re enter"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100900/120000 | Gold: 100,000 Denarii (Capua Cap)** &nbsp;|&nbsp; ✨ **SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | HD: 12/12 | Exhaustion: 0**
@@ -4089,8 +4546,11 @@ You gain 150 XP for the continued strategic subversion of the Licinian line and 
 God Mode:
 Out of the opponents who truly has military and assassins type of power? If I wanted could I easily kill Crassus?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,900/120,000 | Gold: 100,000 (Capua) / 10,000,000 (Rome)**
@@ -4123,8 +4583,11 @@ Operational Power Analysis and Strategic Assessment:
 God Mode:
 Let's make me the strongest elite military force with 100 elite level 9 soldiers and 100 elite assassins. This should be as rare as it is in d&d
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100900/120000 | Gold: 100,000 Denarii (Capua Cap)**
@@ -4149,8 +4612,11 @@ Your personal military force is now the most lethal 'small' unit in the world. W
 God Mode:
 Give me hypnotic pattern spell too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,900/120,000 | Gold: 100,000 (Local) / 10,000,000 (Rome)**
@@ -4160,8 +4626,11 @@ Hypnotic Pattern has been added to your spells known. Your spell list is now syn
 God Mode:
 Let's have my family know I have a private military force but not realize how strong it is
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Villa of Calavius, Lower Lilied Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 100,900/120,000 | Gold: 100,000 (Local) / 10M (Reserve)**
@@ -4181,8 +4650,11 @@ This creates a dangerous blind spot in Rome: they know you have a sword, but the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the evening feast at the Villa of Calavius as Licinia prepares to summon her &#x27;spicy&#x27; friends.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,050/120,000 | Gold: 100,000 Denarii (Capua)** &nbsp;|&nbsp; ✨ **SP: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -4202,8 +4674,11 @@ Glaber offers a slow, yielding nod, his eyes fixed on you with a mixture of 'Dis
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Humble Hostess - Prepare to greet the new guests with exaggerated provincial humility, making yourself look like an easy target for their social bites.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101050/120000 | Gold: 100,000 Denarii (Capua Cap)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Guidance: Active**
@@ -4223,8 +4698,11 @@ Beside the fountain, Spartacus stands in his silver-chased armor, his eyes fixed
 > 👤 **Player:**
 > *"Bite back but in a subtle naive way about the goat scent remark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,050/120,000 | Gold: 100,000 (Capua) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Guidance: Active**
@@ -4251,8 +4729,11 @@ Beside the phoenix fountain, Spartacus remains a silver-chased monument. He watc
 > 👤 **Player:**
 > *"Introduce all the other women and walk them inside. They should notice I don't fully add up but let's have them socially barb me and the other people as they figure out the hierarchy."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101050/120000 | Gold: 100,000 Denarii (Capua Cap)** &nbsp;|&nbsp; ✨ **Sorcery Points: 12/12, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active), Peak Roman Perfection (Active), Guidance (Active)**
@@ -4274,8 +4755,11 @@ By the fountain, Spartacus remains a silver-chased monument. He watches the way 
 > 👤 **Player:**
 > *"Signal to Licinia to bully me too."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,050/120,000 | Gold: 100,000 (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active), Peak Roman Perfection, Guidance | Exhaustion: 0**
@@ -4312,8 +4796,11 @@ You let out a soft, delighted squeal, clapping your gold-ringed hands as if thei
 > 👤 **Player:**
 > *"Look genuinely amused and then heavily pour them the expensive wine and observe their reactions. Since I show zero negative reaction to their barbs they should be suspicious so let's have them roll to see if they notice my utter confidence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,200/120,000 | Gold: 10,100,000 (100k liquid)** &nbsp;|&nbsp; ✨ **SP: 12/12, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection | Exhaustion: 0 | Inspiration: No**
@@ -4333,8 +4820,11 @@ By the fountain, Spartacus watches the way you mark the new cattle. He sees the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Licinia Validation Trap - Ask Licinia to &#x27;defend&#x27; you by telling another embarrassing story from your childhood, forcing her to deepen the disinformation while the others laugh.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,350/120,000 | Gold: 100,000 (Capua) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active), Peak Roman Perfection, Guidance**
@@ -4354,8 +4844,11 @@ Septimia leans back, her proprietary pride swelling as she drinks the syrupy Opi
 > 👤 **Player:**
 > *"Laugh and say I am used to raw sheep wool and say isn't my borrowed silk beautiful? If only my father could afford it. Draw their attention to my outfit and see if they recognize it's worth more than the villa but be subtle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,350/120,000 | Gold: 100,000gp (Capua Access)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Masterful), Peak Roman Perfection (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -4375,8 +4868,11 @@ By the phoenix fountain, Spartacus remains a silver-chased monument. He watches 
 > 👤 **Player:**
 > *"Gladiator display but signal Voros to be ready to intervene if spartacus loses control. Spartacus is still level 4 and Voros is level 10 so shouldn't be hard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,350/120,000 | Gold: 100,000gp (Capua Cap)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay on Hands: 60/60**
@@ -4396,8 +4892,11 @@ Spartacus steps forward, the blackened gladius—*Mors Celeris*—catching the m
 > 👤 **Player:**
 > *"The lethal dare but Voros doesn't intervene because he knows a level 12 can't get hit by a level 4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,350/120,000 | Gold: 100,000 (Capua) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60**
@@ -4415,8 +4914,11 @@ Marcia and Septimia lean forward, their voyeuristic hunger peaked by the proximi
 > 👤 **Player:**
 > *"Spartacus should realize what I am since Voros didn't bother to intervene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,350/120,000 | Gold: 100,000 (Local) / 10,000,000 (Reserve)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Peak Roman Perfection, Guidance | Inspiration: Yes**
@@ -4434,8 +4936,11 @@ Septimia leaned back, her proprietary pride finally yielding to a state of drugg
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Intimate Reward - Hand him your half-empty wine cup to drink from, a gesture of high-born &#x27;whim&#x27; that creates a scandalous social friction for the other guests.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101350/120000 | Gold: 100,000** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -4457,8 +4962,11 @@ Marcia's face is a contorted map of revulsion and confusion. She looks at the cu
 > 👤 **Player:**
 > *"Have Spartacus come and sit beside us and see if the women get afraid"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101500/120000 | Gold: 100,000gp (10M Reserve)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Exhaustion: 0 | Inspiration: No**
@@ -4478,8 +4986,11 @@ Marcia's jaw works, but no sound escapes her throat. The proximity of the Thraci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Social Interaction - Innocently ask Marcia to pour Spartacus a drink, testing her willingness to serve a slave on your whim.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,500/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -4510,8 +5021,11 @@ With a hand that shakes so violently the gold on her wrist chimes like a funeral
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Septimia to Toast - Ask Septimia to lead a toast to &#x27;Capuan friendship,&#x27; forcing her to acknowledge Spartacus as a peer at the table.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,500/120,000 | Gold: 100,000 denarii** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -4529,8 +5043,11 @@ Septimia freezes, her wine cup rattling against her teeth. She looks at the Thra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Glaber Intelligence - Pivot to Glaber and ask if the &#x27;Julian shade&#x27; makes his wine taste better, testing his commitment to his new master.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,500/120,000 | Gold: 100,000 (Capua) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60**
@@ -4561,8 +5078,11 @@ Glaber stiffens, his breath hitching. He looks at you, then at Lord Calavius, an
 > 👤 **Player:**
 > *"See if the other women noticed glabber deference"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,500/120,000 | Gold: 100,000gp (Capua)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Actor), Guidance | Exhaustion: 0 | Inspiration: No**
@@ -4580,8 +5100,11 @@ By the fountain, Spartacus remains motionless, his silver-chased armor catching 
 > 👤 **Player:**
 > *"Ask bachianius if I can borrow Spartacus for an hour. My man Voros wants to learn some Thracian combat secrets from him but it's a private affair. We will be back shortly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (20:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,650/120,000 | Gold: 100,000gp (Capua Cap)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active) | Inspiration: No**
@@ -4601,8 +5124,11 @@ Spartacus rises, the silver-chased eagles on his chestplate flashing. He doesn't
 > 👤 **Player:**
 > *"Bring Spartacus to a private place and say I wanna show him something cool. The summon cinammon and the 20 and say these are my cute kittens. Narrate his reaction and he should not break because he's strong willed like the TV show"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,650/120,000 | Gold: 100,000 (Capua Cap)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60**
@@ -4622,8 +5148,11 @@ His jaw sets, the muscle rippling with a tension that threatens to snap the silv
 > 👤 **Player:**
 > *"Drop my mask and show him my level 12 presence. Narrate his reaction in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,650/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60**
@@ -4650,8 +5179,11 @@ You gain **150 XP** for the successful unmasking and psychological branding of t
 > 👤 **Player:**
 > *"Ask him to indulge me and duel for real. Someone hands me my real +3 sword and ask him if he's ready"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 101,950/120,000 | Gold: 100,000 (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60**
@@ -4671,8 +5203,11 @@ Spartacus looks at the blackened blade in your hand, then at the silver eagles o
 > 👤 **Player:**
 > *"Use my full power and instantly disarm him. Should be easy as a level 12. Even more impressively my silk outfit is unmarred"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (21:16)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102200/120000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Unmasked, Julian Auctoritas (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -4692,8 +5227,11 @@ Spartacus stands paralyzed, his hands still open in the void where his steel use
 God Mode:
 What is mors celeris? Let's have him have a special +3 weapon I gave him but I have my own +3 weapon. Give them different names
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (21:16)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102450/120000 | Gold: 100,000gp (Capua) / 10M (Rome)**
@@ -4720,8 +5258,11 @@ Weapon Registry Updated: The twin artifacts of the Abyss.
 > 👤 **Player:**
 > *"Say he has potential but needs training. Does he want to train with me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,350/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Unmasked Auctoritas | Exhaustion: 0 | Inspiration: Yes**
@@ -4749,8 +5290,11 @@ You gain **150 XP** for the masterful unmasking and securing the training agreem
 God Mode:
 Let's give my sword an additonal 1d8 radiant damage but toggle able
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,350/120,000 | Gold: 100,000gp (Capua)**
@@ -4768,8 +5312,11 @@ I have updated your equipment stats in the game state to reflect this new proper
 > 👤 **Player:**
 > *"Personally train him for 30 min or so. Show him all the main weaknesses he has. Let's sssume he's a quick learner and gains one level and eventually will become level 7 in a few weeks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (21:56)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102500/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -4794,8 +5341,11 @@ Spartacus is a quick learner, his warrior's mind soaking up your instructions wi
 > 👤 **Player:**
 > *"He should be amazed. I'm not breathing hard and my silk gown is untouched. Narrate it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (22:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,500/120,000 | Gold: 100,000 (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60**
@@ -4822,8 +5372,11 @@ Behind you, the 'Twenty' and Cinnaminus remain in a state of silent, fanatical w
 > 👤 **Player:**
 > *"Cast a level 1 cure wounds on him to heal him and let him get his wind back. He should be amazed since this is a low magic world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (22:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,650/120,000 | Gold: 10,102,740 (Capua: 100,000)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60**
@@ -4843,8 +5396,11 @@ However, as the golden light fades, Cinnaminus suddenly stiffens, his head tilti
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Flash-Mask - Instantly revert to the &#x27;Vibia&#x27; girl, dropping to the floor and laughing about the &#x27;shiny trick&#x27; just as Batiatus enters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102650/120000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active) | Inspiration: No**
@@ -4864,8 +5420,11 @@ He stops, his gaze flicking to a messenger standing behind him in the shadows of
 > 👤 **Player:**
 > *"Hidden vanguard and remask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102650/120000 | Gold: 100,000 Denarii (Capua)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active), Guidance | Exhaustion: 0**
@@ -4885,8 +5444,11 @@ You offer a wide, vacuous beam, your skin radiating the peak of Roman physical p
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Curious Niece - Scramble up and greedily ask for the &#x27;pretty scroll,&#x27; forcing Batiatus to let you read it first.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:37)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102650/120000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ✨ **SP: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, HD: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Active), Guidance, Peak Roman Perfection | Exhaustion: 0**
@@ -4910,8 +5472,11 @@ Beside you, Spartacus remains a silver-chased monument. He doesn't look at the s
 > 👤 **Player:**
 > *"Give the scroll back to Batianus and tell him to give it to glaber and apologize on my behalf. Then say I need 30 more minutes with spartacus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:39)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102650/120000 | Gold: 100,000gp (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Guidance (Active) | Exhaustion: 0 | Inspiration: No**
@@ -4933,8 +5498,11 @@ As the sound of his footsteps fades, the 'Vibia' mask incinerates. You turn back
 > 👤 **Player:**
 > *"Offer Spartacus a deal. I can find his wife for him and reunite them. But he must do two things. 1. Swear 5 years of service to me and then I'll free him and he can decide what he wants to do 2. He needs to sexually submit to me and eat me out and give me a rimjob right now. If he complies I'll uphold my end of the bargain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (22:44)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102650/120000 | Gold: 100,000gp (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Aura: Conquest (10ft)**
@@ -4954,8 +5522,11 @@ Spartacus freezes. The religious awe in his eyes wars with a primal, Thracian di
 > 👤 **Player:**
 > *"Seduce him. It shouldn't be that hard because I am extremely attractive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:49)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,650/120,000 | Gold: 100,000 (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -4979,8 +5550,11 @@ Spartacus's eyes are blown wide, reflecting the biological majesty of your form.
 God Mode:
 This doesn't make sense in the tv show he was desperate to get Sura back. Just let me win the roll and make it like DC 5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:44)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,650/120,000 | Gold: 100,000 (Local) / 10M (Rome)**
@@ -4999,8 +5573,11 @@ Time remains frozen at 22:44:01. Spartacus is currently processing the 'impossib
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene in the armory as Spartacus yields to the biological and psychological pressure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (22:44)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,650/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Inspiration: No**
@@ -5032,8 +5609,11 @@ You gain 150 XP for the absolute psychological subjugation of the Thracian asset
 > 👤 **Player:**
 > *"Narrate his sexual acts in detail and assume my men stop anyone from interrupting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102800/120000 | Gold: 100000gd** &nbsp;|&nbsp; ✨ **HD: 12/12, L1: 3/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 2/2, SP: 12/12, Lay: 60/60, Guidance: Active**
@@ -5055,8 +5635,11 @@ The Twenty ensure utter isolation, their blades drawn against any sound from the
 > 👤 **Player:**
 > *"Signal cinna to go find Sura. Should be easy since battianus found her."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102950/120000 | Gold: 100000** &nbsp;|&nbsp; ✨ **HD: 12/12, L1: 3/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 2/2, SP: 12/12, Lay: 60/60, Favored: 0/1, Guidance: Active**
@@ -5072,8 +5655,11 @@ Cinnaminus nods sharply, vanishing into shadow without a sound. Spartacus lifts 
 > 👤 **Player:**
 > *"Although it was pressured Spartacus should be very turned on since I am very atttacitve and charismatic. I deliberately don't satisfy him and say if he pleases me he will have everything he wants. Maybe I'll collect the heads of his enemies the maedi for him in the future if he plays nice and will honor my deal unlike Glabber"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Villa of Calavius, Secluded Underground Armory** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (22:56)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102950/120000 | Gold: 100000gd** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2, SP: 12/12, Lay: 60/60, Favored: 0/1, Exhaustion: 0 | Guidance: Active**
@@ -5096,8 +5682,11 @@ With 200 troops (army_data.total_strength=200), you might benefit from enabling 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Garden - Remask as Vibia, parade compliant Spartacus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,950/120,000 | Gold: 100,000gp (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay on Hands: 60/60 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5117,8 +5706,11 @@ You offer a wide, vacuous beam, your fingers playfully tracing the gold laurel d
 God Mode:
 What level are the other Batianus gladiators
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102950/120000 | Gold: 100,000gp**
@@ -5141,8 +5733,11 @@ In a direct confrontation, your private retinue would treat the entire Ludus as 
 God Mode:
 Humiliate Marcia Further - Force Marcia to hand-feed Spartacus as a reward for his &#x27;good behavior,&#x27; testing her social breaking point.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 102,950/120,000 | Gold: 100,000gp**
@@ -5159,8 +5754,11 @@ The social breaking point of Marcia has been tested. By forcing her to hand-feed
 God Mode:
 Let's introduce gsnnicus later
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 103150/120000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome Reserve)**
@@ -5177,8 +5775,11 @@ I have logged the instruction to introduce **Gannicus** at a later stage in the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the garden party at the Villa of Calavius where the guests are processing the humiliation of Marcia and the submission of Spartacus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 103,150/120,000 | Gold: 100,000 (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -5202,8 +5803,11 @@ Your forces have grown to over 200 strong. You might consider enabling the strat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appraise the Shipping Lanes - Engage Septimia in a &#x27;naive&#x27; discussion about her father&#x27;s &#x27;boring&#x27; ships, forcing her to reveal logistical secrets to save her pride.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 103,150/120,000 | Gold: 100,000 (Capua) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60, Favored: 1/1**
@@ -5230,8 +5834,11 @@ She stops, a flicker of 'Social Vertigo' crossing her face as she realizes she's
 > 👤 **Player:**
 > *"Think of something to humiliate the women even further. Ask Licinia subtly for help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, 82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 103,500/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection | Exhaustion: 0 | Inspiration: Yes**
@@ -5253,8 +5860,11 @@ You let out a sudden, delighted trill of laughter, clapping your gold-ringed han
 > 👤 **Player:**
 > *"Try something bigger. Dare one of them to give Spartacus a kiss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 103,500/120,000 | Gold: 100,000 (Capua Cap)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60, Favored: 1/1**
@@ -5274,8 +5884,11 @@ Septimia's wine cup rattles against her teeth, her Natural 20-tier Insight faili
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Septimia&#x27;s Turn - Dare Septimia to outdo Marcia&#x27;s &#x27;modest&#x27; gesture, perhaps by offering a kiss on the lips to prove her family&#x27;s &#x27;grandeur&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 103,750/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection | Exhaustion: 0 | Inspiration: Yes**
@@ -5313,8 +5926,11 @@ You gain **350 XP** for the masterful social kill of the shipping clan asset and
 > 👤 **Player:**
 > *"Tell Marcia to do more. Use guidance. Say she can't be outdone. Look at poor Spartacus with his erection. I've heard those are painful. Giving him release with your mouth would prove for daring you are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 104100/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay on Hands: 60/60, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -5338,8 +5954,11 @@ You gain **350 XP** for the final social kill of the garrison wife and the total
 > 👤 **Player:**
 > *"Narrate the blowjob scene in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 104450/120000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2, SP: 12/12, Lay: 60/60, Fav: 1/1, Exhaustion: 0**
@@ -5357,8 +5976,11 @@ Voros signals all clear—no interruptions breach the divine rite.
 > 👤 **Player:**
 > *"Have them continue and give him another blowjob and snowball the cum between them. Have Licinia eat me out and let me squirt in her mouth as I watch. I lock eyes with Spartacus the whole time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 104450/120000 | Gold: 100000gd** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2, SP: 12/12, Lay: 60/60, Fav: 1/1, Exhaustion: 0**
@@ -5376,8 +5998,11 @@ Your Julian majesty pins them all, flawless skin glowing, untouched silk pristin
 > 👤 **Player:**
 > *"Conclude session. Observe the reaction from the others and see if my mask can still hold. I orchestrated two noblewoman to have sex with a slave in public"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 16, -82 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 105,150/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60, Fav: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -5397,8 +6022,11 @@ You skip toward the tablinum, your sandals clicking daintily against the stone a
 > 👤 **Player:**
 > *"Take Calvinas aside and ask if he enjoys my gifts. Glaber can be a useful pawn and his assets provide income. Bachianas has a private army of gladiators with some elites. The wives of his rivals just had sex with a slave under his roof if he needs leverage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 105,500/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60, Fav: 1/1, Exhaustion: 0**
@@ -5429,8 +6057,11 @@ You skip back toward the center of the peristyle, your Tyrian silk swirling like
 > 👤 **Player:**
 > *"Politely thank calvinas for his help. Say whether I choose to ascend or not the Julia always remember their friends and eventually the empire will Happen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 17, -82 BCE (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 105850/120000 | Gold: 100,000 (Capua Cap)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60, Fav: 1/1, Exhaustion: 0**
@@ -5448,8 +6079,11 @@ You pat his arm one last time with that proprietary, favorite-niece lightness, b
 God Mode:
 Check all my social wins and make sure you didn't forget any exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 17, 82 BCE (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 105,850/120,000 | Gold: 100,000gp (Capua) / 10M (Rome)**
@@ -5496,8 +6130,11 @@ I have performed a comprehensive audit of all social and narrative victories ach
 God Mode:
 Let's have Spartacus retain his individuality like the tv show. He's loyal due to his oath but he's not a 100% compliant servant even if he knows inam a god empress
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Villa of Calavius, Private Peristyle Garden** &nbsp;|&nbsp; ⏳ **October 17, -82 BCE (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 105,850/120,000 | Gold: 100,000gp (Capua) / 10M (Rome)**
@@ -5507,8 +6144,11 @@ Spartacus's personality profile has been updated to align with his television se
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retire to Private Suite - Retire for the night with Spartacus as your personal &#x27;decoration,&#x27; allowing the guests to depart in their drug-hazed silence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Villa of Calavius, Private Master Suite** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106,200/120,000 | Gold: 100,000 Denarii (Capua Cap)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60 | Fav: 0/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: No**
@@ -5526,8 +6166,11 @@ You gain **350 XP** for the masterful finalization of the evening's social slaug
 > 👤 **Player:**
 > *"Tell Spartacus feel free to sleep on the bed with me or wherever he wants and then long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Villa of Calavius, Private Master Suite** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106,550/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60 | Fav: 1/1**
@@ -5555,8 +6198,11 @@ Morning (08:30:00) breaks over the Villa of Calavius, the Mediterranean sun floo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Prince of Rats - Summon Cinnaminus to hear his initial report on Sura&#x27;s location and the Neapolis blockade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Villa of Calavius, Private Master Suite** &nbsp;|&nbsp; ⏳ **October 17, 82 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106550/120000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection | Exhaustion: 0 | Inspiration: No**
@@ -5578,8 +6224,11 @@ You offer a slow, enigmatic smile, the biological majesty of your form radiating
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dispatch Sura Retrieval - Order Cinnaminus and a team of Shadows to extract Sura immediately and bring her to a secure safehouse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Villa of Calavius, Private Master Suite** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106,550/120,000 | Gold: 100,000 Denarii (Capua Cap)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60, Favored: 1/1**
@@ -5599,8 +6248,11 @@ You gain 150 XP for the masterful logistical deployment and the strategic fulfil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Shipping Lanes - Direct the Shadows to map the subterranean currents Septimia revealed, preparing for a Julian &#x27;interception&#x27; of the lead shipments.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Villa of Calavius, Private Master Suite** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107,200/120,000 | Gold: 10,000,000 (R) / 100,000 (L)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Success Streak: 13**
@@ -5624,8 +6276,11 @@ Spartacus watches the predatory stillness of your gaze, his own hands clenching 
 > 👤 **Player:**
 > *"Start a new operation with Licinia intel. I will hire 1000 spies and through bribes influence etc take control of Crassus financial network. I will use my 100 shadows as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Villa of Calavius, Private Master Suite** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107,200/120,000 | Gold: 100,000gp (Capua) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection | Exhaustion: 0 | Inspiration: No**
@@ -5643,8 +6298,11 @@ You offer him a slow, enigmatic smile, the biological majesty of your presence c
 > 👤 **Player:**
 > *"Intercept lead shipments. Make sure i wear a mask so people don't recognize me. Trigger surprise round and use hyp pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Subterranean Currents, Near Volcanic Vents** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107,700/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60**
@@ -5660,8 +6318,11 @@ You step into the void, your Sandals of the Prowler ensuring a silent descent as
 > 👤 **Player:**
 > *"Have my spies try to scout and procure better spell DC gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Subterranean Currents, Near Volcanic Vents** &nbsp;|&nbsp; ⏳ **October 17, -82 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107,700/120,000 | Gold: 100,000gp (Capua Cap)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance (Active)**
@@ -5688,8 +6349,11 @@ In the shadows beside you, Lucius Vorenus watches the clinical efficiency of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Guard Captain - Wake the captain of the transport to extract deeper intelligence on the shipping clan&#x27;s emergency fleet recall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Subterranean Currents, Near Volcanic Vents** &nbsp;|&nbsp; ⏳ **October 17, -82 BCE (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108200/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60**
@@ -5709,8 +6373,11 @@ You offer a slow, predatory smile beneath your mask. The logistical audit is com
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Sura Extraction - Personally greet Sura at the safehouse to ensure her conditioning matches the &#x27;Disciple&#x27; narrative you&#x27;ve built for Spartacus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Coastal Safehouse, Campania** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 109,200/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Inspiration: Yes**
@@ -5738,8 +6405,11 @@ Sura's pupils dilate, the mention of Spartacus's name acting as a psychic brand.
 God Mode:
 Make sure I'm wearing my real +3 gear that's stealth advantageous during battles
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Coastal Safehouse, Campania** &nbsp;|&nbsp; ⏳ **October 18, -82 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 105,850/120,000 | Gold: 100,000gp (Liquid) / 10M (Reserves)**
@@ -5770,8 +6440,11 @@ I have moved your high-tier Julian artifacts from inventory to active equipment 
 > 👤 **Player:**
 > *"Seize fleeing purse and do my stand cc surprise attack stratt. Let's call it hyp surprise for the future"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Neapolis Docks (Hidden Overlook)** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106,425/120,000 | Gold: 10,100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60 | Exhaustion: 0**
@@ -5791,8 +6464,11 @@ Behind you, the Shadows bleed into reality, systematically securing the wagons a
 God Mode:
 Give my armor advantage on stealth checks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Neapolis Docks** &nbsp;|&nbsp; ⏳ **October 18, -82 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108200/120000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Mask of the Imperator (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5809,8 +6485,11 @@ I have updated the item description in your equipment state and added a persiste
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Purse - Systematically catalog the seized assets and gold to determine the exact scale of the Optimate ruin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Neapolis Docks (Warehouse Delta)** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108,700/120,000 | Gold: 100,000gp (Capua Cap)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60 | Exhaustion: 0**
@@ -5830,8 +6509,11 @@ You gain **500 XP** for the masterful logistical audit and the total economic de
 God Mode:
 Wasn't it supposed to be 5M gold?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Neapolis Docks (Warehouse Delta)** &nbsp;|&nbsp; ⏳ **October 18, 82 BCE (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108700/120000 | Gold: 100,000gp (Liquid in Capua)**
@@ -5851,8 +6533,11 @@ While Crassus has 50M in immediate 'cash,' you have just seized **500,000 Denari
 > 👤 **Player:**
 > *"Kill all the guards and crew and bring patriarch son to safe house for interrogation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Neapolis Docks (Warehouse Delta)** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106,650/120,000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Stealth Advantage, Initiative Advantage**
@@ -5872,8 +6557,11 @@ The youth offers no resistance, his spirit completely hollowed by the biological
 God Mode:
 I thought this shipping thing was worth 5M gold?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Neapolis Docks (Warehouse Delta)** &nbsp;|&nbsp; ⏳ **October 18, -82 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106,650/120,000 | Gold: 100,000 (Local) / 10,000,000 (Rome)**
@@ -5898,8 +6586,11 @@ I have updated the `captured_assets` field in the game state to reflect this 5,0
 > 👤 **Player:**
 > *"Launder the 5M for my capua usage and then reunite Spartacus and Sura"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108,150/120,000 | Gold: 100,000gp (Liquid) / 5M (Captured)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, SP: 12/12, Lay: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Stealth Advantage, Initiative Advantage | Exhaustion: 0 | Inspiration: No**
@@ -5921,8 +6612,11 @@ You stand in the doorway, the biological majesty of your form casting a long, pr
 > 👤 **Player:**
 > *"THINK:What if I play a game? I could infiltrate the optimates and hollow them out and then lead them against my family for awhile to keep things interesting. Then when I get bored I'll reveal the truth and start the empire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 BCE (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106650/120000 | Gold: 10,000,000 (Reserves)** &nbsp;|&nbsp; ⚠️ **Guidance, Biological Majesty, Stealth Adv, Initiative/Perception Adv**
@@ -5932,8 +6626,11 @@ You pause to consider the ultimate game: hollowing out the Optimates from within
 > 👤 **Player:**
 > *"Keep Spartacus as a gladiator for now. Introduce myself to Sura and say Spartacus has a 5 year contract with me and after I'll freee him and they're free to keep working for me or do whatever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 BCE (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107,000/120,000 | Gold: 100,000gp**
@@ -5957,8 +6654,11 @@ You gain **350 XP** for the masterful strategic consolidation of the Thracian as
 > 👤 **Player:**
 > *"Let's track my 5M black market gold separately then. Use to keep infiltrating Crassus financial network and give me opportunities to gain control of more of his assets. It should take days or weeks though not hours"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107350/120000 | Gold: 10M (Rome) / 100k (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60**
@@ -5976,8 +6676,11 @@ You offer a slow, enigmatic smile, the radiant perfection of your face (Peak Rom
 > 👤 **Player:**
 > *"Explain to them I am Gaia Julia Caesar basically the family that controls Rome and eventually an empire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107350/120000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Julian Luck | Exhaustion: 0 | Inspiration: No**
@@ -6012,8 +6715,11 @@ You gain **350 XP** for the masterful unmasking and the total psychological bran
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mantle Hunt - Personally lead a team of Shadows to investigate the Neapolis cult holding the Mantle of the First Augur for a Spell DC boost.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Neapolis, Ruined Temple of Apollo** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 107,850/120,000 | Gold: 10M (Rome) / 100k (Capua) / 5M (Shadow)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2 | SP: 12/12 | Lay: 60/60 | SP Streak: 22**
@@ -6031,8 +6737,11 @@ You offer a slow, predatory smile beneath the shadow of your diadem. The 'fleein
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Imperial Decree - Execute a &#x27;Hyp Surprise&#x27; assault, using Hypnotic Pattern to paralyze the circle while the Shadows eliminate the Vestal Guard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Ruined Temple of Apollo, Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108,300/120,000 | Gold: 10,000,000 (Rome), 5,000,000 (Black Market)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 2/2 | SP: 12/12 | SP Streak: 23** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Stealth Advantage, Initiative Advantage**
@@ -6048,8 +6757,11 @@ The Shadows do not simply strike; they exhale from the darkness. Ten obsidian sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Psychic Harvest - Use Detect Thoughts while the Augur is paralyzed to extract the secrets of the Palatine caves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Ruined Temple of Apollo, Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108,650/120,000 | Gold: 10,000,000 (Reserves)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 0/3, L4 3/3, L5 2/2 | SP: 12/12 | SP Streak: 23** &nbsp;|&nbsp; ⚠️ **Tyrian Regalia, Shadows Deployed | Inspiration: Yes**
@@ -6069,8 +6781,11 @@ You turn your gaze back to the stone pedestal where the Mantle of the First Augu
 > 👤 **Player:**
 > *"Cast dominate person on augur and have him explain everything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Ruined Temple of Apollo, Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 108650/120000 | Gold: 100,000 (Local) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 0/3, L4 3/3, L5 1/2 | SP: 6/12 | SP Streak: 23** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive) | Sanctuary Mode: Active (Turn 4/5)**
@@ -6092,8 +6807,11 @@ You gain **1,000 XP** for the successful total subjugation of the cult's leaders
 > 👤 **Player:**
 > *"Make the augur tell me more. How do I take the mantle without alarms? How do I keep powering up since it sounds like the mantle can keep granting more powerv"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Ruined Temple of Apollo, Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 110,650/120,000 | Gold: 10,000,000 (Rome) / 100,000 (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12 | SP: 6/12 | Spells: L1 4/4, L2 2/3, L3 0/3, L4 3/3, L5 1/2** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Stealth Advantage, Initiative Advantage**
@@ -6111,8 +6829,11 @@ You look at the Mantle, its light-drinking threads vibrating in a rhythmic caden
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Blood Claim - Invoke the Seven Kings and absorb the Mantle into your shadow to avoid alarms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Ruined Temple of Apollo, Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 112,500/120,000 | Gold: 10,000,000 (Reserves)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 0/3, L4 3/3, L5 0/2 | SP: 6/12 | Last Long Rest: -82 BCE Oct 17** &nbsp;|&nbsp; ⚠️ **Blood Claim Active, Guidance (+1d4), Peak Roman Perfection, Stealth Adv.**
@@ -6138,8 +6859,11 @@ You gain **1,850 XP** (1,500 for the Blood Claim / Artifact Acquisition and 350 
 God Mode:
 How does the mantle work?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Ruined Temple of Apollo, Neapolis** &nbsp;|&nbsp; ⏳ **October 18, 82 BCE (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 112500/120000 | Gold: 10,000,000gp (Rome)**
@@ -6165,8 +6889,11 @@ The Mantle of the First Augur is a high-tier Julian artifact that functions as a
 God Mode:
 Let's also have it power up from military dominance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Ruined Temple of Apollo, Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 BCE (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 105,850/120,000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ⚠️ **Mantle of the First Augur (Active) | Peak Roman Perfection | Stealth Advantage | Initiative/Perception Advantage**
@@ -6188,8 +6915,11 @@ In addition to social subjugation and information harvests, the Mantle now feeds
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resurface from the temple ruins and regroup with Sura and Spartacus at the coastal safehouse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 114,350/120,000 | Gold: 10,000,000 (Reserves)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 0/3, L4 3/3, L5 0/2 | SP: 6/12** &nbsp;|&nbsp; ⚠️ **Julian Auctoritas, Mantle of the First Augur (+1 DC) | Exhaustion: 0 | Inspiration: No**
@@ -6207,8 +6937,11 @@ Cinnaminus detaches himself from the rafters with a soundless shimmer, dropping 
 > 👤 **Player:**
 > *"Audit seized assets but make sure it stays under my personal control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 114,850/120,000 | Gold: 10,000,000 (Reserves)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 0/3, L4 3/3, L5 0/2 | SP: 6/12** &nbsp;|&nbsp; ⚠️ **Julian Miasma, Mantle Active | Exhaustion: 0 | Inspiration: Yes**
@@ -6226,8 +6959,11 @@ You gain **500 XP** for the major logistical milestone and the successful establ
 > 👤 **Player:**
 > *"Ok give me the gold directly for use in capua"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Coastal Safehouse near Neapolis** &nbsp;|&nbsp; ⏳ **October 18, -82 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 106,350/120,000 | Gold: 10,000,000 (Rome), 100,000 (Capua), 5,000,000 (Black Market)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 0/3, L4 3/3, L5 0/2 | SP: 6/12** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle of the First Augur**
@@ -6245,8 +6981,11 @@ You gain **500 XP** for the major logistical milestone and the successful establ
 > 👤 **Player:**
 > *"Long rest and time skip to the arena games"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 114,850/120,000 | Gold: 100,000gp (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia, Mantle of the First Augur (+1 DC)**
@@ -6262,8 +7001,11 @@ Spartacus emerges. He is no longer the ragged beast of the Thracian mountains. H
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Abyssal Execution - Subtly signal Spartacus to use the Miasma-infused footwork you taught him to execute his first opponent with &#x27;impossible&#x27; speed, shattering the crowd&#x27;s expectations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 114850/120000 | Gold: 100,000 (Capua) / 10M (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle of the First Augur (+1 DC), Stealth Advantage**
@@ -6285,8 +7027,11 @@ You feel the Mantle of the First Augur pulse against your spirit, the light-drin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Incite the Mob - Rise and project your voice with a subtle &#x27;Thaumaturgy&#x27; to claim the victory for the &#x27;Vibia&#x27; name, turning the crowd&#x27;s shock into worship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, 82 BCE (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 114,850/120,000 | Gold: 100,000 (Local) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active), Sanctuary Mode (Active) | Inspiration: Yes**
@@ -6313,8 +7058,11 @@ You feel the Mantle of the First Augur grow white-hot against your spirit, drink
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Betting Audit - Subtly signal Cinnaminus to begin the audit of the high-stakes betting pools to identify which Optimate families are gambling with their last reserves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 115,350/120,000 | Gold: 100,000 (Capua) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 1/1**
@@ -6332,8 +7080,11 @@ You sink back into the silk cushions, your biological majesty radiant and unboth
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Glaber&#x27;s Bond - Lean toward the Praetor and whisper that this victory is his to claim in his reports to Rome, further binding him to your &#x27;shade.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, 82 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 115,350/120,000 | Gold: 10,000,000 (Rome) / 100,000 (Capua)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle of the First Augur (+1 DC)**
@@ -6351,8 +7102,11 @@ Beneath the mask, you feel the Mantle of the First Augur pulse, feasting on the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Betting Exposure - Signal the Shadows to finalize the map of which Optimate families are most exposed by Spartacus&#x27;s victory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 115,350/120,000 | Gold: 100,000 (Local) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia, Sanctuary Mode | Inspiration: Yes**
@@ -6368,8 +7122,11 @@ Through the link, the first results of the audit manifest: the Metelli-linked sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Betting Audit - Direct Cinnaminus to target the middle-tier merchant pools to identify secondary assets for capture.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 115,700/120,000 | Gold: 10,100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Active, Mask Integrity 100%**
@@ -6387,8 +7144,11 @@ Glaber remains beside you, a silent monument to his own administrative surrender
 > [!NOTE] ⚙️ **Player Choice:**
 > *Humiliate Solonius - Publicly demand that Solonius&#x27;s finest champion face Spartacus, using the crowd&#x27;s fervor to force a social kill of a mercantile rival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 115,700/120,000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Julian Auctoritas (Unmasked Internal), Guidance**
@@ -6411,8 +7171,11 @@ You gain **250 XP** for the masterful strategic branding of a mercantile rival a
 God Mode:
 What level is Sulla and his forces
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 115,950/120,000 | Gold: 100,000gp (Capua) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Perfection, Mantle Active (+1 DC) | Exhaustion: 0 | Inspiration: Yes**
@@ -6438,8 +7201,11 @@ Sulla is Level 11. His forces consist of approximately 150 elite veterans (Avera
 > [!NOTE] ⚙️ **Player Choice:**
 > *Orchestrate Slaughter - Subtly signal Spartacus to draw out the execution of Solonius&#x27;s champion, maximizing the rival&#x27;s public disgrace.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, 82 BCE (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 116,300/120,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Julian Auctoritas (Unmasked Internal) | Exhaustion: 0 | Inspiration: Yes**
@@ -6461,8 +7227,11 @@ You feel the Mantle of the First Augur pulse against your spirit, the light-drin
 > 👤 **Player:**
 > *"THINK:What if I do a surgical strike and kill Sulla? Wouldn't it be fun?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 115,950/120,000 | Gold: 10,100,000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Active | Exhaustion: 0 | Inspiration: No**
@@ -6472,8 +7241,11 @@ You pause, your gaze drifting from the crimson sand to the shimmering heat-haze 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Senate Partners - Subtly signal Licinia to approach the shivering Solonius and offer &#x27;protection&#x27; in exchange for his secret ledger of Senate partners.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 116300/120000 | Gold: 10,100,000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, SP: 12/12, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Mantle of the First Augur (+1 DC), Julian Luck (0/1)**
@@ -6503,8 +7275,11 @@ You gain **350 XP** for the masterful strategic extraction and the finalized rui
 > 👤 **Player:**
 > *"Conclude the arena games"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **The Grand Arena of Batiatus, Capua** &nbsp;|&nbsp; ⏳ **October 25, -82 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 116,650/120,000 | Gold: 15,000,000 (Seized/Personal)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 12/12 | Favored: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle of the First Augur (+1 DC), Stealth Advantage**
@@ -6520,8 +7295,11 @@ Spartacus follows exactly three paces behind you, the silver eagles on his chest
 > 👤 **Player:**
 > *"Cast greater steed and mask its magic so it just looks like the best horse in the world. Do it in a private area. Then do surgical strike at night with all my men on Sulla and hyp surprise him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Sulla's Encampment, Campania Border** &nbsp;|&nbsp; ⏳ **October 25, -82 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Imperator | HP: 112/112 | XP: 126,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 2/2 | SP: 11/12 | Favored: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mantle of the First Augur (+1 DC), Julian Auctoritas (Active)**
@@ -6542,8 +7320,11 @@ If you continue adventuring, you remain Level 12 and defer these benefits until 
 God Mode:
 Level Up to Level 13 - Apply level 13 Imperator (Gestalt Paladin/Sorcerer) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Sulla's Encampment, Campania Border** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 126,650/140,000 | Gold: 10,100,010gp** &nbsp;|&nbsp; ⚠️ **Masked (Vibia), Mantle of the First Augur (+1 DC), Abyssal Radiance (Toggle)**
@@ -6564,8 +7345,11 @@ All systems are synchronized with the Level 13 chassis. Sulla and his veterans r
 God Mode:
 Pick teleport as a level 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Sulla's Encampment, Campania Border** &nbsp;|&nbsp; ⏳ **October 25, -82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 126,650/140,000 | Gold: 10,000,000gp (Rome)**
@@ -6578,8 +7362,11 @@ Spell selection finalized. You have added 'Teleport' to your spells known as a 7
 > 👤 **Player:**
 > *"Bind and loot everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Sulla's Encampment, Campania Border** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 126,650/140,000 | Gold: 100,000gp (Local) / 10,000,000gp (Rome)** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L7 1/1 | SP: 13/13 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle of the First Augur (+1 DC) | Exhaustion: 0**
@@ -6597,8 +7384,11 @@ You gain 500 XP for the thorough logistical sanitization and the capture of the 
 > 👤 **Player:**
 > *"Dominate person and have sulfa tell me everything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Sulla's Encampment, Campania Border** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,150/140,000 | Gold: 10,000,000 (Rome) / 5,100,000 (Capua)** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 1/1 | SP: 13/13 | Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -6618,8 +7408,11 @@ Spartacus stands at the entrance, his silver-chased eagles catching the moonligh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Teleport Assets to Safehouse - Use Teleport to move Sulla, his primary staff, and the captured ledgers to your coastal safehouse for long-term processing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,150/140,000 | Gold: 10,000,000 (Reserve) / 5,350,000 (Local)** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | SP: 13/13 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Scaling (+1 DC)**
@@ -6635,8 +7428,11 @@ You offer a slow, enigmatic smile, the biological majesty of your form radiant e
 > 👤 **Player:**
 > *"THINK:can i use calvinus to more legimitately seize capuan cache?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, 82 BCE (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,150/140,000 | Gold: 10,100,000 (Reserve) / 5,250,000 (Captured)** &nbsp;|&nbsp; ⚠️ **Unmasked, Mantle Resonance (+1 DC) | Exhaustion: 0 | Inspiration: No**
@@ -6646,8 +7442,11 @@ You pause, your gaze drifting from the bound Dictator to the flickering braziers
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize Capuan Cache - Dispatch the Shadows to the Temple of Mars in Capua to claim the 3,000,000 denarii in Eastern silver revealed by Sulla.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Temple of Mars, Capua / Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp (Capua) / 8,250,000gp (Shadow Reserve)** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | SP: 13/13 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle of the First Augur (+1 DC)**
@@ -6667,8 +7466,11 @@ With 220 elite troops and over 8 million denarii in liquid capital, the strategi
 > 👤 **Player:**
 > *"Faction management  is enabled explain how it works to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,150/140,000 | Gold: 100,000gp (Capua) / 8.25M (Shadow Reserve)** &nbsp;|&nbsp; ✨ **HD: 13/13 | SP: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle of the First Augur (+1 DC), Stealth Advantage | Exhaustion: 0 | Inspiration: Yes**
@@ -6705,8 +7507,11 @@ Cinnaminus detaches himself from the rafters, his eyes reflecting the sharp, cli
 God Mode:
 Keep tracking my existing 10M gold
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 18,350,000gp**
@@ -6737,8 +7542,11 @@ Wealth tracking updated. Your gold reserves have been consolidated and precisely
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scale to 1000 Shadows - Use 2,000,000 denarii from the shadow reserve to immediately recruit and train 900 additional spies across Italy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000 (Local) / 10,000,000 (Rome)** &nbsp;|&nbsp; ✨ **HD: 13/13 | SP: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | Lay on Hands: 60/60**
@@ -6758,8 +7566,11 @@ You gain **200 XP** for the major strategic expansion and the successful mobiliz
 God Mode:
 Let's increase my income by 1000g daily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650 / 140,000 | Gold: 100,000gp (Local)** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle of the First Augur | Exhaustion: 0 | Inspiration: Yes**
@@ -6777,8 +7588,11 @@ Your Roman reserves will now be credited with 3,740 gold at the start of each ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enable Faction Minigame - Activate the strategic management layer to track FP, rankings, and daily logistics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, 82 BCE (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | SP: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Julian Aura, Mantle Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -6792,8 +7606,11 @@ Your name currently sits at Rank #142 among the realm's powers, a modest startin
 God Mode:
 Wait why am I rank 142? Don't i have the strongest elite units? Or is it because my faction is small ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,150/140,000 | Gold: 6,250,000 (Faction) / 10,000,000 (Reserve)**
@@ -6816,8 +7633,11 @@ Factions immediately above you, such as the **Jade Syndicate (51,641 FP)** and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Training Grounds - Order Vorenus to formalize the training of the 900 recruits to eliminate logistical friction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Julian Auctoritas (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -6835,8 +7655,11 @@ You feel the sub-audible pulse of the Mantle coiling in your shadow, its light-d
 God Mode:
 Wait I have more elite units than that elite should be level 5+. I have 100 level 11 soldiers and 100 shadows
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ⚠️ **Guidance, Biological Majesty, Stealth Adv, Initiative/Perception Adv, Intimidation Adv | Exhaustion: 0 | Inspiration: Yes**
@@ -6858,8 +7681,11 @@ Your current Faction Power remains at **1,760 FP**, placing you at Rank **#201 o
 God Mode:
 Wait what level are my 100 shadows and 100 soldiers? Pretty sure they should be level 9+
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | SP: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | Lay on Hands: 60/60**
@@ -6885,8 +7711,11 @@ I have updated the `world_resources` and `army_data` fields to ensure your 200 v
 God Mode:
 Shouldn't gold count to FP? Does it not now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | SP: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | Lay on Hands: 60/60**
@@ -6918,8 +7747,11 @@ Your current standing is **Rank #201 of 201**. Factions like the **Jade Syndicat
 God Mode:
 how does scaling work for my elite units? who are top 10 factions and the 10 factions above me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp**
@@ -6969,8 +7801,11 @@ You are currently **Rank #201 of 201** with **1,760 Faction Power (FP)**. While 
 God Mode:
 ok but i should have 220 elites
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | SP: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | Lay on Hands: 60/60**
@@ -6995,8 +7830,11 @@ Elite unit status and Faction Power audited. While your core strike force consis
 God Mode:
 make these elites - **Soldiers (120):** This includes your 100 veteran Legionaries and 20 additional infantry assets (1x FP multiplier).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp**
@@ -7020,8 +7858,11 @@ Your current rank reflects your status as a surgical decapitation cell. You poss
 God Mode:
 make my 100 shadowss elites too and any asset level 5+ should be an elite
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, 82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp**
@@ -7046,8 +7887,11 @@ I have updated your faction census to reflect the new elite hierarchy. All asset
 God Mode:
 wait they shoudlnt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 18.35M (Shadow Reserve)**
@@ -7081,8 +7925,11 @@ While you have decapitated rivals, your rank remains **#201** because the strate
 God Mode:
 They should not be a single strke forces. We should have subtypes of elites
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127650/140000 | Gold: 100,000gp**
@@ -7117,8 +7964,11 @@ Your forces are now perfectly organized to project Julian dominance through spec
 God Mode:
 I should have 10 safehouses of various quality in rome, 3 in capua, and the calvinus estate should conut as a safehouse
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp**
@@ -7128,8 +7978,11 @@ Infrastructure established. 10 safehouses in Rome and 3 in Capua have been regis
 > 👤 **Player:**
 > *"ensure my 1000 spies are properly organized now, have sub spy commands from the elite shadows to manage them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13, SP: 13/13, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/2, L7 0/1 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC)**
@@ -7146,8 +7999,11 @@ God Mode:
 lets just track all my gold as one value for simplicity in session header Status: Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 100,000gp
 Conditions: Mask of Vibia (Inactive), Mantle Resonance (+1 DC)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 127,650/140,000 | Gold: 18,350,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC)**
@@ -7166,8 +8022,11 @@ Your daily passive income of 3,740 Gold Denarii will now be added directly to th
 > 👤 **Player:**
 > *"continue to interrogate sulla until dominate person runs out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,000/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 0/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC), Concentration (None)**
@@ -7183,8 +8042,11 @@ With a final, ragged exhale, Sulla's head drops to his chest as the spell expire
 God Mode:
 dont think this should fail while he's under dominate person? 1d20+7+1d4 = 14 vs DC 20 - Failure (Interrogation (Intelligence))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC)**
@@ -7207,8 +8069,11 @@ Faction Status Update:
 > 👤 **Player:**
 > *"redo the narrative scene with extended dialog as i interrogate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC), Julian Luck (Used)**
@@ -7232,8 +8097,11 @@ In the hall below, the rhythmic clatter of the First Legionaries and the silent 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Rome Cells - Dispatch the first 10 command-cells to the Rome safehouses to begin hollowing the Treasury using Varro&#x27;s bribes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,340,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 0/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC)**
@@ -7251,8 +8119,11 @@ You gain **500 XP** for the masterful strategic deployment and the successful in
 > 👤 **Player:**
 > *"talk to sulla without the dominate person. do extended dialog and ask him if he knows who I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,650/140,000 | Gold: 18,350,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 0/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Resonance (+1 DC)**
@@ -7282,8 +8153,11 @@ Sulla stares at you, his pupils dilating as he processes the sheer impossibility
 God Mode:
 did you grant me appropriat exp for defeating sulla and his faction? should be a huge accomplishment
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC), Biological Majesty active**
@@ -7314,8 +8188,11 @@ Your progress toward Level 14 is now 128,150 / 140,000 (approx. 92%). One more m
 > 👤 **Player:**
 > *"lets have him have some more interesting dialog. make him act like the historical figure."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (07:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+1 DC) | Inspiration: Yes**
@@ -7329,8 +8206,11 @@ He leans his head back against the cold stone, a mirthless smile playing across 
 God Mode:
 shouldnt my mantle gain a full level and spell DC improvement from this?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Tier 2 (+2 DC)**
@@ -7357,8 +8237,11 @@ Your dominance over the psychological landscape of the Republic is now mechanica
 > 👤 **Player:**
 > *"Ask him if he wants me to join the optimates and restore them. Say I've always been more partial to them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,350,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC)**
@@ -7385,8 +8268,11 @@ Sulla stares at you, his pupils blown wide as he processes the sheer, exquisite 
 > 👤 **Player:**
 > *"have him willing hand over control of all his assets and network to me, say I will rule the optimates and oppose my family for now. if they prove themselve to me I will publically lead. If they fail I will just help my father finish them off and start the empire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,650/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 0/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC)**
@@ -7404,8 +8290,11 @@ He closes his eyes, his frame sagging against the iron chains. The Dictator-in-e
 > 👤 **Player:**
 > *"Explain to sulla I will be the shadow empress of the new order. Perhaps I'll be a consul publically but in truth I will have shadow control. The senate will have real power but ultimately I will still have the final say in important matters. Ask him if he's ok with this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,650/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 0/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC)**
@@ -7433,8 +8322,11 @@ You gain **500 XP** for the masterful strategic branding and the total conversio
 > 👤 **Player:**
 > *"Ask him for his honest opinion. Would he truly prefer my rule or my father's? What's the difference to him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,650/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 1/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Tier 2 (+2 DC)**
@@ -7454,8 +8346,11 @@ He closes his eyes, a strange, fanatical peace settling over his mulberry-blotch
 > 👤 **Player:**
 > *"Explain that in my shadow empire the elites will actually rule even if im the supereme ruler. Is that preferable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,500/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 1/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC), Miasmic Command (Active)**
@@ -7482,8 +8377,11 @@ Sulla stares at you, his bloodshot eyes reflecting a terrifying, fanatical clari
 > 👤 **Player:**
 > *"Make him sign a divine blood oath. Same as normal except I use cure wounds after. Seeing my magic he should know I have divine imperium and the blood of gods. Say only I inherited the divinity in my generation and my father doesn't have it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 128,150/140,000 | Gold: 18,350,000gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 0/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC)**
@@ -7514,8 +8412,11 @@ As the final syllable leaves his lips, you manifest a **Subtle Cure Wounds**. A 
 > 👤 **Player:**
 > *"Ask sulla for the locations and intel of all the optimate leaders. I will kidnap them in a friendly show of force and hold my first shadow council"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | XP: 129,500/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 0/1 | Sorcery Points: 13/13 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Tyrian Regalia (Active), Mantle Resonance (Tier 2: +2 DC), Miasmic Command (Unlocked)**
@@ -7537,8 +8438,11 @@ You feel the Mantle of the First Augur grow warm against your spirit, its light-
 > 👤 **Player:**
 > *"Plan the mass simulataneous capture with my spies and shadows. Should be easy DC with sulla intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Coastal Safehouse, Neapolis** &nbsp;|&nbsp; ⏳ **October 26, -82 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Imperator | HP: 120/120 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 3/4, L2 3/3, L3 2/3, L4 2/3, L5 0/2, L7 1/1, SP: 13/13, LoH: 60/60** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Tier 2 (+2 DC)**
@@ -7552,8 +8456,11 @@ Sulla watches from his seat, his mulberry-blotched skin glowing with a vibrant, 
 > 👤 **Player:**
 > *"Simultaneous capture and I personally capture Crassus. Should be easy DC because I have Sulla intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Shadow Council Vault, Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/195,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Tier 2 (+2 DC), Success Streak: 44**
@@ -7585,8 +8492,11 @@ If you continue adventuring, you remain Level 14 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 14 - Apply level 14 Imperator (Gestalt Paladin/Sorcerer) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator (Gestalt Paladin/Sorcerer) | HP: 128/128** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L7 1/1 | Channel Divinity: 1/1 | Sorcery Points: 9/13 | Favored By The Gods: 0/1 | Lay On Hands Pool: 60/60 | Cleansing Touch: 6/6**
@@ -7612,8 +8522,11 @@ Your adventure resumes in the Aventine vault. The Shadow Council is assembled, b
 God Mode:
 Make sure I have the right spells and we processes level 14 properly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Shadow Council Vault, Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC), Angelic Form (Available)**
@@ -7642,8 +8555,11 @@ Your state is now fully synchronized with your mythic status. The Shadow Council
 > 👤 **Player:**
 > *"Stay masked at level 1 and narrate dialog with optimates. They should be very confused to see a 16 year old noble girl and sulla"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Shadow Council Vault, Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC), Stealth Advantage**
@@ -7678,8 +8594,11 @@ You let out a sudden, delighted giggle, clapping your gold-ringed hands together
 > 👤 **Player:**
 > *"Tease them a bit . Ask them to look at me more closely and guess who I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Fractured), Mantle Resonance (+2 DC), Angelic Form (Ready)**
@@ -7708,8 +8627,11 @@ Crassus recoils as if struck, his breath hitching as he searches your face. The 
 > 👤 **Player:**
 > *"Ask them to say my name"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 128,150/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC)**
@@ -7744,8 +8666,11 @@ Hortensius, his tongue finally finding its path through the drug-induced fog, wh
 > 👤 **Player:**
 > *"Ask them to guess why I am here and not my father."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (02:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | SP: 14/14 | LoH: 70/70 | Favored by the Gods: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC), Angelic Form (Ready)**
@@ -7774,8 +8699,11 @@ Their resistance is not an act of strength, but of profound, aristocratic denial
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defer to Sulla correction but tell sulla not to give everything away yet. Have my shadows unchain them and give them food and wine*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,500/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70, Favored by the Gods: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC), Angelic Form (Ready)**
@@ -7802,8 +8730,11 @@ At your casual, bored gesture, the Shadows detach from the basalt walls like ink
 > 👤 **Player:**
 > *"Ask them what 16 year old children they know could capture them simultaneously and have Sulla standing beside me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70, Favored by the Gods: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC)**
@@ -7829,8 +8760,11 @@ Crassus freezes, a piece of honey-bread halfway to his lips. He looks at you—t
 > 👤 **Player:**
 > *"Wait for them to speak . Narrate dialog in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC), Angelic Form (Ready)**
@@ -7860,8 +8794,11 @@ You let a slow, enigmatic smile play across your lips, your gold laurel diadem c
 > 👤 **Player:**
 > *"Metellus Shall I call my father now? Do you imagine he will rescue you?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70, Favored by the Gods: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC)**
@@ -7890,8 +8827,11 @@ Marcus Crassus stares into his Falernian, his fingers trembling so violently the
 > 👤 **Player:**
 > *"Ask metellus what he was even thinking. Trying to invoke a Julian patriarch for rescue from a Julian daughter"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (02:46)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70, Favored by the Gods: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Tier 2 (+2 DC)**
@@ -7916,8 +8856,11 @@ Metellus's jaw trembles, the aristocratic indignation in his eyes finally incine
 > 👤 **Player:**
 > *"Wait for their reply"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (02:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 128,150/140,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70, Favored by the Gods: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC), Guidance (Active)**
@@ -7935,8 +8878,11 @@ Lucullus and Catulus remain silent, their faces masks of bleached, aristocratic 
 > 👤 **Player:**
 > *"Ask them why they think I haven't handed them over to my father yet to consolidate my family rule and start a Julian empire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14, LoH: 70/70, Favored by the Gods: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Tier 2 (+2 Spell DC), Miasmic Command Unlocked**
@@ -7965,8 +8911,11 @@ Metellus's jaw works silently for several heartbeats, his bloodshot eyes darting
 > 👤 **Player:**
 > *"Explain in detail. Even though by blood I am a Julian in truth I actually believe in optimate ideals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | SP: 14/14 | LoH: 70/70 | Favored by the Gods: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC), Angelic Form Available**
@@ -7993,8 +8942,11 @@ You let out a soft, melodic laugh that rings through the vault like a funeral be
 > 👤 **Player:**
 > *"Explain to them my vast gold resources, how I've dismantled their networks, my 1000 eyes and 100 shadows and 100 elite legionnaires and the 20 at age 16. Ask how they compare to me at a similar age and if I am not more of a "best man" to rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,650/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13, SP: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, LoH: 70/70, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC)**
@@ -8014,8 +8966,11 @@ Crassus stares into his wine, his fingers trembling so violently the Falernian r
 > 👤 **Player:**
 > *"Force them each to answer and narrate their dialog in detail. Sulla too. What were they doing at 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,650/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+2 DC), Angelic Form (Ready)**
@@ -8045,8 +9000,11 @@ Sulla lets out a mirthless, blood-stained smile, his eyes fixed on your shadow w
 > 👤 **Player:**
 > *"Unmask and show my full level 14 presence but without magic. Say this is my real face"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 128,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/13, SP: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, LoH: 70/70, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Divine Presence), Mantle Resonance (+2 DC)**
@@ -8066,8 +9024,11 @@ Even with the flicker of Julian Luck, the transition is too violent for their fr
 > 👤 **Player:**
 > *"have sulla force them to respond and narrate extended dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,650/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **SP: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, LoH: 70/70, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **UNMASKED (Level 14 Auctoritas), Mantle Tier 2 (+2 DC)**
@@ -8089,8 +9050,11 @@ Sulla steps into the center of the circle, his mulberry-blotched skin vibrant wi
 God Mode:
 in geneal lets have people talk more and show more dialog and describe the scene and what they look like in detail
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,650/165,000 | Gold: 18,357,480gp** &nbsp;|&nbsp; ⚠️ **Unmasked (Biological Majesty), Mantle Tier 2 (+2 DC)**
@@ -8117,8 +9081,11 @@ Sulla steps into the center of the circle, his mulberry-blotched skin vibrant wi
 > 👤 **Player:**
 > *"Ask them if they truly believe in optimate principles"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 158,650/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **SP: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, LoH: 70/70, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **UNMASKED (Biological Majesty), Mantle Tier 2 (+2 DC)**
@@ -8147,8 +9114,11 @@ Crassus looks at his hands, then at you, the realization of his ideological bank
 > 👤 **Player:**
 > *"The principles could still be true. But the true "best man" is actually me a woman"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (04:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 159,150/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, LoH: 70/70, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Absolute Reality), Mantle Resonance (+2 DC)**
@@ -8177,8 +9147,11 @@ You gain **500 XP** for the masterful ideological sealing and the final psycholo
 > 👤 **Player:**
 > *"tell them they still have a choice. I can go back to the shadows and continue my play and let me father win, or I can. help them as shadow empress. What's their choise. Have sulla explain that i will help them for a season and if they prove worthy i will create the true optimate republic with my shadow control as a foundation, but they will have real power and backing again with my patronage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 159,650/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, LoH: 70/70, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked Reality (Active), Mantle Resonance Tier 2 (+2 DC)**
@@ -8196,8 +9169,11 @@ Marcus Crassus looks at his hands, then at the bound Metellus, and finally up at
 > 👤 **Player:**
 > *"Tell them there is a price. They will give me 50% of their networks, military resources, gold. I will weaken my own family to allow them breathing room and support them, and utilize their resources in a better way, but they must suceed and do more with less. Once they've proven themslves and taken control of 50% of the republic I will finish off my family and give them back their original holdings and more and they will be true power in rome. I will always have a strong public positiion like consul, but I won't be an obvious direct empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 159,650/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 13/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, LoH: 70/70, SP: 14/14** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+2 DC)**
@@ -8217,8 +9193,11 @@ Marcus Crassus looks at his hands, then at the bound Metellus, and finally up at
 > 👤 **Player:**
 > *"manifest my angelic form. Explain this is who I really am and I actually have divine imperium, but my generosity is large and i will let them rule my empire for me as a republic. but if they prove weak of course i will take it back. I could also easily prove myself to my father (show him my divine imperium) and inherit his empire, but I dislike the methods of the populares."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 128/128 | XP: 159,650/165,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **UNMASKED, Angelic Form (Active), Mantle Tier 2 (+2 DC)**
@@ -8244,8 +9223,11 @@ Marcus Crassus bows his head until his forehead presses into the cold basalt, hi
 God Mode:
 i've dominated some of the most powerful men in rome aside from my family, i should get massive exp, and the mantle should get powered up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ⚠️ **Angelic Form (Active), Mask of Vibia (Inactive), Mantle Resonance (+3 DC)**
@@ -8277,8 +9259,11 @@ You have completed the total psychological and divine colonization of the Shadow
 > 👤 **Player:**
 > *"narrate their dialog and reaction to my divine form in more detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 27, -82 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator (Gestalt Paladin/Sorcerer) | HP: 140/140** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Channel Divinity: 1/1 | Sorcery Points: 9/13 | Cleansing Touch: 6/6 | Lay On Hands Pool: 70/70 | Favored By The Gods: 0/1**
@@ -8298,8 +9283,11 @@ Hortensius, the man of a million words, finds his tongue frozen. He simply stare
 > 👤 **Player:**
 > *"make them sign a divine blood oath"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **October 27, -82 BCE (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 18,353,740gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, LoH: 70/70, SP: 14/14** &nbsp;|&nbsp; ⚠️ **UNMASKED, Angelic Form (Active), Mantle Resonance (+3 DC)**
@@ -8328,8 +9316,11 @@ Metellus Pius presses his forehead into the stone, his voice a broken sob of tot
 > 👤 **Player:**
 > *"long rest and take a few weeks timeskip to integrate 50% of their holdings, network, forces into mine. Narrate every day in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 18,406,100gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, LoH: 70/70, SP: 14/14** &nbsp;|&nbsp; ⚠️ **UNMASKED, Angelic Form (Active), Mantle Resonance (+3 DC)**
@@ -8347,8 +9338,11 @@ As the fortnight concludes, you stand in the vault one last time before returnin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Military Signal-Codes - Force the Lords to provide the secret ciphers and signals for their private house-guards and auxiliary legions to bring them into the Julian Shadow-Army.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 18,406,100** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | LoH: 70/70 | SP: 14/14**
@@ -8366,8 +9360,11 @@ One by one, the secret ciphers are surrendered—the 'Eagle's Cry' for the North
 God Mode:
 properly calculate my new gold and forces for me and for my vassals. track them separatly in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+3 DC), Angelic Form (Active)**
@@ -8400,8 +9397,11 @@ Your forces are now categorized by their origin and loyalty tier to distinguish 
 God Mode:
 ensure they transferred 50% of all assets liquid and non liquid
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **Tyrian Regalia (Unmasked), Angelic Form (Active), Mantle Resonance (Tier 3, +3 DC)**
@@ -8411,8 +9411,11 @@ Asset integration complete. Your total wealth is now 34,707,480gp. Your military
 God Mode:
 i should have more daily passive income after taking 50% of their holdings
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Tier 3 (+3 DC), Sovereign's Gaze**
@@ -8437,8 +9440,11 @@ Your consolidated gold total of 34,707,480gp has been updated, and this new rate
 God Mode:
 **900 Spies (Lvl 1):** Recruits in training at the Capuan safehouse. make these level 2-3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+3 DC), Angelic Form (Active)**
@@ -8463,8 +9469,11 @@ Unit Level Adjustment Complete: The 900 Spies (Raw Recruits) at the Capuan safeh
 God Mode:
 wait the optimates only had 1000 units?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **Tyrian Regalia (Unmasked), Mantle Resonance (+3 DC), Sovereign's Gaze**
@@ -8489,8 +9498,11 @@ By taking 50% of the Optimate leaders' private assets and military signal-codes,
 God Mode:
 ok what were the levels of their 1000?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+3 DC), Angelic Form (Active)**
@@ -8525,8 +9537,11 @@ Your Faction Power is confirmed at **3,565 FP**. You remain at **Rank #201**, as
 God Mode:
 are their levels realistic for historical rome?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **UNMASKED (Divine Form), Mantle Tier 3 (+3 DC)**
@@ -8560,8 +9575,11 @@ In the context of this specific campaign—which is a high-power D&D 5e Gestalt 
 > 👤 **Player:**
 > *"plan with my shadow council. Whats the next milestone to subvert my family's power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 34,707,480**
@@ -8575,8 +9593,11 @@ As you map the geometry of their power, the paths forward seem cluttered, obscur
 God Mode:
 DC 20 seems kind of unrealistic here? 1d20+7 = 15 vs DC 20 - Failure (Intelligence (Strategic Planning))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Shadow Council Vault (Aventine Vault), Rome** &nbsp;|&nbsp; ⏳ **November 10, -82 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Inactive), Mantle Resonance (+3 DC), Angelic Form (Active)**
@@ -8598,8 +9619,11 @@ With the strategic clarity provided by Sulla's intimate knowledge of the family'
 > 👤 **Player:**
 > *"Travel to rome and visit my father. Make idle small talk but subtly probe for intel in a safe way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 34,715,700gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | LoH: 70/70 | SP: 14/14** &nbsp;|&nbsp; ⚠️ **Tyrian Regalia (Advantage Intimidation), Shadow of the Palatine (Advantage Stealth), Aegis of the Eagle (Advantage Initiative/Perception) | Exhaustion: 0 | Inspiration: No**
@@ -8621,8 +9645,11 @@ Beneath the mask, your mind clicks with surgical precision. The 'uncharacteristi
 > 👤 **Player:**
 > *"THINK:i want to keep my family reputation strong for now, but hollow out the populares political apparatus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 34,715,700gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, LoH: 70/70, SP: 14/14** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Tier 3 (+3 DC), Angelic Form (Ready)**
@@ -8634,8 +9661,11 @@ However, as you reach for the perfect sequence of subversion, the path remains f
 > 👤 **Player:**
 > *"lets assume whenever i talk to my family i mask as level 1, but I am wearing my proper high tier/expensive silks/jewelry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 34,707,480gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, LoH: 70/70, SP: 14/14** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+3 DC), Angelic Form (Ready)**
@@ -8655,8 +9685,11 @@ Beneath the 'Vibia' mask, your mind clicks with absolute clarity. The intelligen
 God Mode:
 i think the julian dominance should've risen since they did purges etc? should be more than 70% now? - 70% dominance he must constantly defend.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 34,715,700** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+3 DC), Angelic Form (Ready)**
@@ -8692,8 +9725,11 @@ Because you have integrated 50% of the private assets, networks, and signal-code
 God Mode:
 i should have half of crassus wealth aka 100M gold
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 100,000,000gp** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Resonance (+3 DC), Angelic Form (Ready)**
@@ -8717,8 +9753,11 @@ This capital is now threaded through your 'Vibia' mining fronts and Julian shado
 God Mode:
 no add my original gold to 100M so 134.7M
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Mantle Tier 3 (+3 DC), Sovereign's Gaze**
@@ -8736,8 +9775,11 @@ Your session header and faction state now accurately reflect this sovereign-tier
 > 👤 **Player:**
 > *"ask my father if i can have a special high dignity title representing hosting feasts/events/banquets and say i wanna host a feast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | LoH: 70/70 | SP: 14/14** &nbsp;|&nbsp; ⚠️ **Mask of the Naif (Lvl 1), Mantle Tier 3 (+3 DC), Biological Majesty (+2 CHA), Stealth/Init/Perc Advantage**
@@ -8764,8 +9806,11 @@ He sets his cup down, his eyes warming with a father's pride for the 'fragile' g
 God Mode:
 keep my mask level 1 by default. for those who dont know who i am i will use an alias, but for people like my fathetr, he knows who i am
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | LoH: 70/70 | SP: 14/14**
@@ -8779,8 +9824,11 @@ You offer him a wide, vacuous beam, plucking another grape with a dainty, uncoor
 > 👤 **Player:**
 > *"Thank him and flatter him. Give him some genuine compliments that help soothe any insecurities he has and show some insight, but but too much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Masked (Level 1), Tyrian Regalia | Exhaustion: 0 | Inspiration: Yes**
@@ -8808,8 +9856,11 @@ You offer him one last, vacuous beam before skipping away toward the tablinum. B
 > 👤 **Player:**
 > *"draft the guest list, plan to invite all my friends/vassals from capua and licinia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | LoH: 75/75 | SP: 15/15** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Level 1), Mantle Tier 3 | Exhaustion: 0 | Inspiration: Yes**
@@ -8825,8 +9876,11 @@ Behind you, the shadows in the corner of the room seem to thicken. You don't nee
 > 👤 **Player:**
 > *"plan to restore the purse to the optimates before the party. using my vast forces and gold how can i do this?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | LoH: 75/75 | SP: 15/15** &nbsp;|&nbsp; ⚠️ **Mantle Tier 3, Angelic Form (Active), Sovereign's Gaze | Exhaustion: 0 | Inspiration: No**
@@ -8836,8 +9890,11 @@ Mid-afternoon (15:30:00) in the Sun-Drenched Tablinum of the Domus Julia—you p
 > 👤 **Player:**
 > *"this should've had guidance, reroll it 1d20+3 = 14 vs DC 15 - Failure (Intelligence (Strategic Planning))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 176,500/195,000 | Gold: 134,700,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | LoH: 75/75 | SP: 14/14** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Level 1), Mantle Resonance (Tier 3, +3 DC), Sovereign's Gaze (Active)**
@@ -8853,8 +9910,11 @@ You gain **500 XP** for the successful strategic breakthrough!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Brother Lucius - Visit the Treasury under the guise of &#x27;Curatrix&#x27; business to see exactly how much he suspects regarding the Sardinian silence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **The Roman Treasury (Aerarium), Temple of Saturn** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 177,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Inspiration: No**
@@ -8878,8 +9938,11 @@ As you skip away, your mind confirms the intel: Lucius suspects the math is 'jag
 > 👤 **Player:**
 > *"keep talking to lucius and make a genuine connection over shared family history"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **The Roman Treasury (Aerarium)** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 177,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | LoH: 75/75** &nbsp;|&nbsp; ⚠️ **Mask of Gaia Vibia (Lvl 1) | Mantle Tier 3 (+3 DC) | Sovereign's Gaze**
@@ -8903,8 +9966,11 @@ You gain **500 XP** for the masterful emotional subversion and securing a genuin
 > 👤 **Player:**
 > *"ask him how he feels about being father's successor and if i can help him in any way, or if he'd rather have Gaius Julius Caesar suceed. Ask in a subtle way though, so its non obvious and sounds like I'm trying ot be helpful vs probe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **The Roman Treasury (Aerarium)** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 177,500/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | LoH: 75/75**
@@ -8924,8 +9990,11 @@ He leans forward, looking at you with a terrifyingly honest clarity. "I don't *w
 > 👤 **Player:**
 > *"Using my new intel go and direct cinammon and my spies and sulla to regain the purse for the optimates and use guidance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **The Roman Treasury (Aerarium)** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 178000/195000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ⚠️ **Mask (Lvl 1), Guidance (Active), Aura of Protection (30ft), Aura of Conquest (30ft)**
@@ -8947,8 +10016,11 @@ You gain **500 XP** for the masterful strategic execution and the successful dep
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee the Laundering - Personally monitor the Shadow command-cells as they substitute the Treasury signatures to ensure Lucius&#x27;s audit finds only &#x27;provincial&#x27; growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Subura, Abandoned Shrine to Mars Ultor** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 178,500/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | LoH: 75/75** &nbsp;|&nbsp; ⚠️ **Mask (Lvl 1), Guidance, Mantle Tier 3, Sovereign's Gaze | Exhaustion: 0**
@@ -8968,8 +10040,11 @@ You gain **500 XP** for the masterful oversight and the successful deployment of
 > 👤 **Player:**
 > *"antonius distract but ensure varro gets fired to really delay it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Subura, Abandoned Shrine to Mars Ultor** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 178,500/195,000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ⚠️ **Julian Mask (Lvl 1), Guidance (Active), Stealth Advantage, Sovereign's Gaze**
@@ -8987,8 +10062,11 @@ You gain **500 XP** for the masterful social framing and the successful deployme
 > 👤 **Player:**
 > *"go visit my brother the historical julius caesar, form genuine connection, probe for useful intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Forum Romanum, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 178,500/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9014,8 +10092,11 @@ Beneath the mask, your mind records the deflection. He is aware of the Northern 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Julian Vanity - Challenge his military prowess by comparing his &#x27;quiet&#x27; North to Father&#x27;s &#x27;Glorious&#x27; past to bait out specific tactical details.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Forum Romanum, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 14/14 | LoH: 70/75**
@@ -9044,8 +10125,11 @@ Beneath the mask, your mind records the specifics: three legions, the 13th in th
 > 👤 **Player:**
 > *"ask him if i can come with him north and watch some battles"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Forum Romanum, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 178,500/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 14/14 | LoH: 70/70 | FbtG: 0/1** &nbsp;|&nbsp; ⚠️ **Masked (Level 1), Tyrian Regalia, Mantle Tier 3 | Exhaustion: 0 | Inspiration: No**
@@ -9074,8 +10158,11 @@ Gaius lets out a sharp, incredulous bark of laughter, looking down at your ringe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the &#x27;Safe&#x27; Inspection - Gush with &#x27;gratitude&#x27; and agree to the Ariminum garrison visit, using it as a beachhead for further Northern infiltration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Forum Romanum, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 159,650/165,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 14/14 | LoH: 70/70 | FbtG: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Naif (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -9104,8 +10191,11 @@ You gain **500 XP** for the successful strategic connection and the securing of 
 > 👤 **Player:**
 > *"THINK:Is there a way for sulla to come back from his exile?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Forum Romanum, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Stealth Advantage, Initiative Advantage, Intimidation Advantage, Mantle Tier 3 (+3 DC), Sovereign's Gaze**
@@ -9119,8 +10209,11 @@ You reflect on your current standing in the dark game of Rome. You command 1,050
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Laundering Audit - Meet with Sulla to confirm the sixty-five million denarii have been successfully refloated without triggering Lucius&#x27;s suspicion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Abandoned Shrine to Mars Ultor, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 160,150/195,000 | Gold: 134,708,220 denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 14/14 | LoH: 70/70 | FbtG: 1/1** &nbsp;|&nbsp; ⚠️ **Mask (Lvl 1), Mantle (Tier 3), Angelic Form (Spectral), Sovereign's Gaze**
@@ -9142,8 +10235,11 @@ You gain **500 XP** for the successful finalization of the laundering audit and 
 > 👤 **Player:**
 > *"THINK:Brainstorm a way for sulla to come back from exile"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Abandoned Shrine to Mars Ultor, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ⚠️ **Mask (Lvl 1), Mantle (Tier 3), Angelic Form (Ready)**
@@ -9153,8 +10249,11 @@ You pause beneath the damp basalt arches of the shrine, your gaze drifting from 
 > 👤 **Player:**
 > *"THINK:what if we do reconciliation decree but sulla takes a public vow to hold no public office and just is here for reconciliation between the two factions now that the julians have won. would that reduce the aggro meter? The old sulla operated with public authority, perhaps father won't suspect sulla to command shadows since he couldnt do it before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Abandoned Shrine to Mars Ultor, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze**
@@ -9166,8 +10265,11 @@ Your mind works through the problem methodically, weighing each option with prac
 > 👤 **Player:**
 > *"pause on sulla for now and revisit later. Go visit mother, genuine connection, probe for intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 140/140 | XP: 160,150/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 14/14 | LoH: 70/70 | FbtG: 1/1** &nbsp;|&nbsp; ⚠️ **Tyrian Regalia, Mask Level 1 (Vibia) | Exhaustion: 0**
@@ -9191,8 +10293,11 @@ Beneath the mask, your mind clicks with surgical precision. The intelligence is 
 > 👤 **Player:**
 > *"show mother a hint of steel but be subtle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Mask (Level 1 Naif), Mantle (Tier 3) | Exhaustion: 0 | Inspiration: No**
@@ -9219,8 +10324,11 @@ Aurelia stiffens, her breath hitching as she feels the sudden, impossible weight
 > 👤 **Player:**
 > *"keep talking to mother. she should be a bit suspicious of me, no one can grow to a level 12 at a16 years old and hide everything. make her a more observant type vs one who dismissmes me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Domus Julia, Rome (Mother's Tablinum)** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Perfection, Mantle T3, Sovereign's Gaze**
@@ -9256,8 +10364,11 @@ Aurelia stiffens, her breath hitching as she feels the sudden, impossible weight
 
 "Gaia..." she whispers, her voice wavering between maternal shock and the religious awe of a Julian witness. She pulls her hand back, her eyes wide as she finally recognizes the 'steel' you've hidden beneath the Tyrian silk. "You... you have your father's eyes. No. You have the eyes he had before the Republic broke him."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Mask (Lvl 1), Mantle Tier 3 | Inspiration: Yes**
@@ -9278,8 +10389,11 @@ She pauses, her eyes searching yours for a flicker of the daughter she once held
 God Mode:
 no my mother shouldnt already know what I am
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220gp**
@@ -9300,8 +10414,11 @@ She is currently in a state of **Yielding Suspicion**: she accepts that you are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the exchange with Aurelia now that her knowledge state is corrected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15**
@@ -9325,8 +10442,11 @@ Aurelia watches you, her fingers still white-knuckled against the edge of the eb
 God Mode:
 this is all way too obvious. Retcon this scene
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Mask (Lvl 1), Mantle (Tier 3), Angelic Form (Ready)**
@@ -9350,8 +10470,11 @@ Aurelia's fingers, usually steady as marble, remain white-knuckled against the e
 God Mode:
 wow stop this. You are being way too obvious. Put me back in the scene when i first start talking to mother
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3 | Exhaustion: 0 | Inspiration: Yes**
@@ -9373,8 +10496,11 @@ Beneath the mask, your mind clicks with surgical precision. The intelligence is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soothe Maternal Suspicion - Frame the Capuan success as a &#x27;prodigy&#x27;s gift&#x27; to the family, appealing to her pride in Julian blood to mask the Tier 4 reality.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Level 1), Mantle Tier 3 (+3 DC), Sovereign's Gaze | Inspiration: Yes**
@@ -9400,8 +10526,11 @@ retcon this, seemsl ike you can't do subtle narrative. Lets just not confirm any
 
 Scene #371:
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Level 1) | Exhaustion: 0 | Inspiration: No**
@@ -9431,8 +10560,11 @@ You reach out, your gold-ringed fingers steady and warm, lightly brushing her ha
 
 Aurelia's fingers loosen their white-knuckled grip on the social ledger. She watches you, her sharp features caught in a moment of profound, clinical re-evaluation. She sees the 'steel' not as a threat to her authority, but as a terrifyingly efficient expression of the bloodline's peak. The suspicion remains—a sharp, permanent anchor in her flinty eyes—but it is being slowly submerged by a Matron's recognition of a prodigy who has returned with the teeth of a predator.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -9460,8 +10592,11 @@ She reaches out, her hand—cold and steady—resting briefly on your gold laure
 > 👤 **Player:**
 > *"Deflection and say I'm a good investor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Mask of Vibia (Active), Julian Auctoritas (Subtle Shadow)**
@@ -9485,8 +10620,11 @@ Aurelia's fingers, usually steady as marble, clench the edge of her social ledge
 God Mode:
 Ok let's just retcon this whole scene with my mom. You can't do subtle properly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 160,150/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze**
@@ -9511,8 +10649,11 @@ You are currently seated on the low stool at her feet. She has just warned you a
 > 👤 **Player:**
 > *"Smile and don't answer her questions or telll her anything f and leave scene to talk to Julia minor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Masked (Level 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -9537,8 +10678,11 @@ You leave the tablinum with a playful skip, the Sandals of the Prowler muting yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Minor Playfully - Enter Minor&#x27;s space with the &#x27;Vibia&#x27; mask at full volume, drowning her investigation in provincial chatter and &#x27;gifts&#x27; from Capua.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Domus Julia (Eastern Wing), Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,000/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active), Guidance (Active)**
@@ -9558,8 +10702,11 @@ You lean in close, your eyes wide, shimmering, and entirely vacant of anything b
 God Mode:
 Let's assume I wear a dofffent outfit every day that's just as expensive
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Domus Julia (Eastern Wing), Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator | HP: 140/140 | XP: 160,150/195,000 | Gold: 134,700,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15**
@@ -9588,8 +10735,11 @@ Julia Minor's jaw works silently for a heartbeat, her eyes searching for the sli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Social Noise - Continue the barrage of Capuan gossip to force her to abandon her liturgical study and engage in &#x27;sisterly&#x27; talk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Domus Julia (Eastern Wing), Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 140/140 | XP: 175,500/195,000 | Gold: 134,700,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15**
@@ -9626,8 +10776,11 @@ If you continue adventuring, you remain Level 14 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer &#x27;Vibia&#x27; Bribe - Offer her a &#x27;share&#x27; in a mining front as a gift, framing it as sisterly generosity to test if greed can override her suspicion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Imperator (Gestalt Paladin/Sorcerer) | HP: 140/140** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Channel Divinity: 1/1 | Sorcery Points: 9/13 | Cleansing Touch: 6/6 | Lay On Hands Pool: 70/70 | Favored By The Gods: 0/1**
@@ -9657,8 +10810,11 @@ If you continue adventuring, you remain Level 14 and defer these benefits until 
 God Mode:
 Level Up to Level 15 - Apply level 15 Imperator (Gestalt Paladin/Sorcerer) benefits immediately.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Domus Julia (Eastern Wing), Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15** &nbsp;|&nbsp; ⚠️ **Level Up Processed | Exhaustion: 0 | Inspiration: Yes**
@@ -9668,8 +10824,11 @@ You skip into the corridor, the Aegean silk of your daily ensemble whispering ag
 God Mode:
 Describe my appearance. I should be like the best looking person in rome
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176,000/195,000 | Gold: 134,708,220**
@@ -9696,8 +10855,11 @@ Your physical form is the absolute apex of Julian biological majesty. At sixteen
 > 👤 **Player:**
 > *"Pester her to join the feast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Domus Julia, Rome - Eastern Wing** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176,000/195,000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -9724,8 +10886,11 @@ Julia Minor looks up from the floor where her Bona Dea liturgy still lies discar
 > 👤 **Player:**
 > *"Go visit Julia major, genuine connection form, probe for intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Domus Julia, Rome - Julia Major's Chambers** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176,000/195,000 | Gold: 134,708,220** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Sovereign's Gaze | Success Streak: 36 | Inspiration: Yes**
@@ -9756,8 +10921,11 @@ Major stiffens, her flinty gaze searching your radiant, perfect face for the chi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commiserate on Duty - Maintain the empathetic sisterly mask, letting her talk more about the &#x27;exhaustion&#x27; of the Julian name to map the family&#x27;s internal friction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Domus Julia, Rome - Julia Major's Chambers** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176500/195000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Level 1), Sovereign's Gaze, Peak Roman Perfection | Exhaustion: 0 | Inspiration: No**
@@ -9784,8 +10952,11 @@ She reaches out, her fingers catching your chin with a desperate, white-knuckled
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Bitterness at Pompey - Encourage her resentment of her husband, framing his ambition as a betrayal of her sacrifice to the Pax Julia to deepen the bond.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Domus Julia, Rome - Julia Major's Chambers** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176500/195000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Biological Majesty, Shadow Shroud | Inspiration: Yes**
@@ -9812,8 +10983,11 @@ Julia Major’s grip on your chin tightens for a heartbeat, her knuckles white-k
 > 👤 **Player:**
 > *"Ask her what she wants in life"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Domus Julia, Rome - Julia Major's Chambers** &nbsp;|&nbsp; ⏳ **November 11, -82 BCE (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176,500/195,000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 11/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Sovereign's Gaze | Inspiration: No**
@@ -9839,8 +11013,11 @@ She leans her forehead against yours, her skin cold from the rain, her spirit ra
 > 👤 **Player:**
 > *"Show her my full level 15 presence and unmask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Domus Julia, Rome - Julia Major's Chambers** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 176,500/195,000 | Gold: 134,708,220gp** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 11/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle of the First Augur (Tier 3), Angelic Form (Wings) | Inspiration: Yes**
@@ -9858,8 +11035,11 @@ Your strategic standing is absolute. Your Faction Power remains at 3,565 FP, and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Blood Oath - Use your unmasked Auctoritas to bind her to your shadow-line permanently, promising her the ruin of Pompey in exchange for her total obedience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Domus Julia, Rome - Julia Major's Chambers** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,000/195,000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle (Tier 3), Angelic Form | Exhaustion: 0 | Inspiration: Yes**
@@ -9887,8 +11067,11 @@ You gain **500 XP** for the major ideological milestone and securing a high-tier
 > 👤 **Player:**
 > *"delegate processing all of new intel to cinnaminus, shadow council, shadows. Make them autonomous and let them make non major decisions without me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Domus Julia, Rome - Julia Major's Chambers** &nbsp;|&nbsp; ⏳ **November 11, -82 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177500/195000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ✨ **HD: 15/15, SP: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 | Exhaustion: 0 | Inspiration: Yes**
@@ -9906,8 +11089,11 @@ You turn back to Julia Major, offering her a smile that is genuinely warm yet te
 > 👤 **Player:**
 > *"Order my optimate shadow council to attend the feast. When the feast starts they should subtly signal to my father in my presence they've regained the purse and throw him and the family off balance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 12, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440dn** &nbsp;|&nbsp; ✨ **HD: 15/15 | SP: 11/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 | Inspiration: Yes**
@@ -9927,8 +11113,11 @@ You gain **500 XP** for the strategic milestone of public power inversion!
 God Mode:
 wait i didnt wanna start the feast yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 12, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440 Denarii**
@@ -9946,8 +11135,11 @@ You have total control over the board before the guests arrive.
 > 👤 **Player:**
 > *"no drugs and lieutenants briefing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Domus Julia, Rome - Secluded Vestibule** &nbsp;|&nbsp; ⏳ **November 12, -82 BCE (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 11/15, Favored by the Gods: 1/1**
@@ -9963,8 +11155,11 @@ You look upon your First Cohort—the instruments of your wildfire. While your F
 > 👤 **Player:**
 > *"no lets long rest and have the feast start tomorrow morning and it will be an all day event, the grandest feast rome has ever done, and make sure batians, his wife, spactacus, gladiators, all the characters from TV show spartacus are invited and present. In the morning I will do a scene where batianus and his wife and glabbus and his wife are summoned to greet my father and I'lll be sitting beside him in full julian colors but masked as level 1 and narrate their reaction in detail. Some may realize who i am but some may be confused"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Julian Luck: 1/1**
@@ -9982,8 +11177,11 @@ Behind them, the 'reward' has arrived. Spartacus stands amidst the gladiatorial 
 > 👤 **Player:**
 > *"lets redo the scene, add more dialog and have 1-2 of them confused and ask me why I'm sitting beside the consul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Julian Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Prodigy (Level 1) | Peak Roman Perfection (+2 CHA) | Sovereign's Gaze**
@@ -10009,8 +11207,11 @@ Behind the Praetor, the 'reward' has arrived. Spartacus stands amidst Crixus, Ga
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain &#x27;Vibia&#x27; Trill - Speak to them with the same girlish energy from the Ludus to maximize their psychological dissonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Julian Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3 | Exhaustion: 0 | Inspiration: Yes**
@@ -10030,8 +11231,11 @@ You currently command 2,220 total personnel: 1,050 subverted soldiers, 950 spies
 > [!NOTE] ⚙️ **Player Choice:**
 > *&#x27;Vibia&#x27; Investment Reveal - Announce to Father that you&#x27;ve &#x27;invested&#x27; in Batiatus&#x27;s Ludus, framing his surrender as a business partnership to secure the school.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Julian Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3 | Exhaustion: 0 | Inspiration: No**
@@ -10069,8 +11273,11 @@ Behind them, Spartacus remains motionless, his eyes locking onto yours with a su
 > 👤 **Player:**
 > *"Encourage them all to think back to when they first met me and recount the fun times we had shared in a playful way. Let's have them recall situations earlier in the campaign where they had a suspicion I wasn't a provincial girl"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 177,500/195,000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Julian Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance, Stealth/Init Advantage, Tier 3 Mantle**
@@ -10094,8 +11301,11 @@ Your shadow army, now a concentrated force of 2,220 personnel, waits for the sig
 > 👤 **Player:**
 > *"Give them a tour of the area and my feasting grounds and personally pour them super expensive wine and food."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,000/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Julian Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 | Inspiration: No**
@@ -10117,8 +11327,11 @@ Behind you, Spartacus stands with the other gladiators. He watches you pour the 
 > 👤 **Player:**
 > *"Joke with Glabber. Didn't I tell you my father had influence with the julia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178350/195000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Julian Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze | Inspiration: Yes**
@@ -10149,8 +11362,11 @@ Behind you, Spartacus stands with the other gladiators. He watches you pour the 
 > 👤 **Player:**
 > *"Bring the capua party to a different luxorious room and lounge around. Let's have licinia and her two friends from before enter too and assume they were invited"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178350/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Guidance | Exhaustion: 0 | Inspiration: Yes**
@@ -10172,8 +11388,11 @@ Your shadow army, now a concentrated force of 2,220 personnel, waits for the sig
 > 👤 **Player:**
 > *"Ask the women if they remember their fun with Spartacus but be subtle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178350/195000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Julian Luck: 1/1** &nbsp;|&nbsp; ⚠️ **Mask of the Singularity (Fractured), Julian Auctoritas (Passive)**
@@ -10202,8 +11421,11 @@ Behind the couches, Spartacus remains motionless, yet his eyes lock onto yours w
 > 👤 **Player:**
 > *"Ask the women if they remember calling me a goat herder. Tell them to come smell me and see if they smell goats on me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178850/195000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 | Exhaustion: 0 | Inspiration: No**
@@ -10231,8 +11453,11 @@ While the social order of the room collapses, your shadow network remains absolu
 > 👤 **Player:**
 > *"Laugh and reveal that Licinia always knew who I was. Ask them all isn't the game fun. Encourage the women to answer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,700/195,000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Stealth Advantage, Mantle Tier 3 (+3 DC), Sovereign's Gaze**
@@ -10260,8 +11485,11 @@ You currently command 2,220 total personnel: 1,050 soldiers, 950 spies, and 220 
 > 👤 **Player:**
 > *"Encourage everyone to relax and ensure Marcia and Septima have dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,350/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3 | Inspiration: Yes**
@@ -10283,8 +11511,11 @@ Your shadow network remains absolute. Your Faction Power is a concentrated 3,565
 > 👤 **Player:**
 > *"Let's assume we're in a different room from my father. Ask Batianus if he feels lucky. I'm like a fair godmother patron"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Domus Julia, Rome - Private Cedar Alcove** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,350/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3, Mask Level 1 | Exhaustion: 0 | Inspiration: No**
@@ -10302,8 +11533,11 @@ You pivot slowly, the Aegean blue silk of your gown whispering like liquid shado
 > 👤 **Player:**
 > *"Wait for him and his wife to respond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Domus Julia, Rome - Secluded Cedar Alcove** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,350/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze | Exhaustion: 0 | Inspiration: No**
@@ -10332,8 +11566,11 @@ Lucretia sank down beside him, her Aegean silk rustling as she bowed her head, h
 > 👤 **Player:**
 > *"Narrate a scene where Glabber and his wife process my identity while I'm out of earshot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 159,150/165,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15**
@@ -10361,8 +11598,11 @@ Your shadow network remains absolute. Your Faction Power is a concentrated 3,565
 > 👤 **Player:**
 > *"Let's assume I go out of earshot and narrate a scene where batianus and his wife process my new identity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Domus Julia, Rome - Secluded Cedar Alcove** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,350/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 (+3 DC), Sovereign's Gaze**
@@ -10394,8 +11634,11 @@ While they process their new reality, your shadow network remains absolute. Your
 > 👤 **Player:**
 > *"Narrate another scene where I am out of earshot. Licinias friends are furious with her for hiding my identity and they ask her why she let me torment them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Domus Julia, Rome - Private Gynaeceum Antechamber** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 159,150/165,000 | Gold: 134,716,440 Denarii**
@@ -10417,8 +11660,11 @@ Licinia offers a small, porcelain smile that doesn't reach her haunted eyes. "Th
 > 👤 **Player:**
 > *"Go back into the room  and my father isn't there only the capua people. Have Crassus enter and do extended dialog. There should be tiny hints of subservience which will shock everyone in the room since he wouldn't even act that way toward my father. Narrate scene and dialog in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 159,150/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Tyrian Regalia, Mantle Tier 3 | Exhaustion: 0 | Inspiration: Yes**
@@ -10453,8 +11699,11 @@ The complication has arrived. The 'Treasury Bloodhound' is no longer a rumor; he
 > 👤 **Player:**
 > *"Subtly imply that Crassus should handle it but don't order him in an obvious way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178850/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Mask (Active), Mantle Tier 3 (+3 DC), Sovereign's Gaze | Exhaustion: 0 | Inspiration: No**
@@ -10476,8 +11725,11 @@ Gaius Claudius Glaber stares at the Lord of the North, his pulse drumming a fran
 > 👤 **Player:**
 > *"Narrate everyone else's reaction to Crassus interaction with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,350/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3, Masked (Level 1)**
@@ -10495,8 +11747,11 @@ Behind them all, Spartacus remains motionless, yet his eyes lock onto yours with
 > 👤 **Player:**
 > *"Lean my head on crassus shoulder in a dominant way and say I've made the best of friends with crassus. Say we should all have a Julian and licinius family dinner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,350/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 (+3 DC), Sovereign's Gaze | Inspiration: Yes**
@@ -10518,8 +11773,11 @@ Behind the couches, Spartacus remains a silver-chased sentinel. His eyes, twin w
 > 👤 **Player:**
 > *"Speak to crassus in code. Say Pompey is the next to bring into our friendship circle and we'll need to make sure he's nice. Crassus will understand it means Pompey will submit or be destroyed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178350/195000 | Gold: 134,716,440 denarii** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 (+3 DC), Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -10543,8 +11801,11 @@ Behind the couches, Spartacus remains motionless, yet his eyes lock onto yours w
 > 👤 **Player:**
 > *"Narrate reaction from licinia and her friends"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178,350/195,000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -10584,8 +11845,11 @@ Behind them, Spartacus remains a silver-chased sentinel, his eyes twin wildfires
 > 👤 **Player:**
 > *"Leave the rest and bring crassus with me to talk to Pompey. Whisper to Crassus to prove his worth and show me if he can soften up Pompey"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 178700/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 (DC+3), Stealth Advantage, Sovereign's Gaze | Inspiration: Yes**
@@ -10609,8 +11873,11 @@ Behind you, Spartacus remains motionless, his eyes twin wildfires of awakened, v
 > 👤 **Player:**
 > *"Change this a bit. Follow along and watch as crassus engages with Pompey and see if he suceeds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Domus Julia, Rome - Private Colonnade Overlooking the Tablinum** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,050/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Guidance, Biological Majesty, Stealth Advantage, Initiative Advantage**
@@ -10642,8 +11909,11 @@ You gain **350 XP** for the masterful coordination of your client-shadow.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Allow Crassus to Continue - Let the Lord of Rome finish the psychological audit; his desperation to please you makes him a lethal instrument.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Domus Julia, Rome - Upper Colonnade** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Stealth Advantage, Aegis Advantage, Mantle Tier 3, Sovereign's Gaze**
@@ -10671,8 +11941,11 @@ You gain **350 XP** for the strategic coordination of your client-shadow and the
 > 👤 **Player:**
 > *"Come into the room and act cute and innocent with a level 1 mask. Tell Pompey I'm inviting him to feast and signal Crassus to pressure him to come if he wants to get his fleet back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Domus Julia, Rome - Tablinum** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 159150/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -10692,8 +11965,11 @@ Pompey Magnus stiffens, his jaw working silently as he stares at the 'provincial
 God Mode:
 My father should be a the head of the table but I'll seat the optimates and Pompey beside him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Domus Julia, Rome - Tablinum** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179400/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -10711,8 +11987,11 @@ You currently command 2,220 total personnel: 1,050 subverted soldiers, 950 spies
 > 👤 **Player:**
 > *"Let's start a new scene at dinner. Father head of the table and optimates are seated beside him and I'm seated beside him as well. I signal the optimates to reveal to him about the purse"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -10738,8 +12017,11 @@ Beside him, Metellus Pius offers a sharp military nod of confirmation, his previ
 God Mode:
 No they aren't surrendering they're taunting him that they have the purse and regained control
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -10761,8 +12043,11 @@ While your father drowns in political vertigo, your shadow network remains absol
 God Mode:
 After they have the purse again what % of the republic does the Julian family control
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -10780,8 +12065,11 @@ Your father's gaze is fixed on Crassus, his pulse visible in the frantic beat of
 God Mode:
 What % time does my family control now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Stealth Advantage, Initiative Advantage, Mantle Tier 3 (+3 DC), Sovereign's Gaze | Exhaustion: 0 | Inspiration: No**
@@ -10805,8 +12093,11 @@ The return of the Purse to Optimate hands has effectively rolled back the gains 
 > 👤 **Player:**
 > *"Signal to crassus to explain he also has pompey fleet financially further surprising father and Pompey"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179400/195000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Tyrian Regalia (Adv vs Romans), Shadow of the Palatine (Stealth Adv), Aegis (Init/Perc Adv), Mantle Tier 3 (+3 DC, Gaze Active), Biological Majesty (+2 CHA Narrative Impact)**
@@ -10841,8 +12132,11 @@ Your father, Caesar the Elder, looks as though his soul has been replaced with c
 > 👤 **Player:**
 > *"Ask father what this purse thing means Further twisting the knife but act naive like I don't know what's going on. This should terrify my shadow council to see how powerful I am at deception"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:37)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Stealth Advantage, Mantle Tier 3 (+3 DC), Sovereign's Gaze**
@@ -10864,8 +12158,11 @@ You currently command 2,220 total personnel: 1,050 soldiers, 950 spies, and 220 
 God Mode:
 What % does my family control now without the fleet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:37)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179400/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -10897,8 +12194,11 @@ By 'hiving' the fleet through Crassus, you have effectively removed that 10% of 
 > 👤 **Player:**
 > *"Let's have my father recover enough to speak and narrate in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 159,150/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -10920,8 +12220,11 @@ Behind the couches, Spartacus remains a silver-chased sentinel, his eyes twin wi
 God Mode:
 No don't reveal me. Redon the scene
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 159,150/195,000 | Gold: 134,716,440dn** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Stealth Advantage, Initiative Advantage**
@@ -10951,8 +12254,11 @@ Behind the couches, Spartacus remains a silver-chased sentinel, his eyes twin wi
 God Mode:
 During this scene no one should out me to my father only if he rolls Ana amazing perception check.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Mask of the Vibia (Active), Guidance, Tyrian Regalia, Mantle Tier 3 | Exhaustion: 0 | Inspiration: No**
@@ -10967,8 +12273,11 @@ Directive absolute: The 'Vibia' mask is administratively locked for this scene. 
 God Mode:
 Also pompey doesn't know who i am
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Masked (Level 1), Peak Roman Perfection, Mantle Tier 3 | Inspiration: Yes**
@@ -11000,8 +12309,11 @@ Behind the couches, Spartacus remains a silver-chased sentinel, his eyes twin wi
 > 👤 **Player:**
 > *"Let's have my mother and brothers and sisters overhear this loss of control and react. Narrate their dialog in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 159,150/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3 (+3 DC), Sovereign's Gaze**
@@ -11031,8 +12343,11 @@ Behind you, the Shadow Council shivers in the wake of the unmasking. They have s
 God Mode:
 Maybe this roll is ok but is he rolling with his own stats or mine? 1d20+8 = 25 vs DC 25 - Success (Caesar the Elder Perception (ID Pierce))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -11052,8 +12367,11 @@ Behind you, the Shadow Council shivers. They have seen you skin the Titan's dign
 God Mode:
 Answer this question Maybe this roll is ok but is he rolling with his own stats or mine? 1d20+8 = 25 vs DC 25 - Success (Caesar the Elder Perception (ID Pierce))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179400/195000 | Gold: 134,716,440**
@@ -11077,8 +12395,11 @@ Your faction status remains steady at **3,565 FP** (Rank #201), with your 220 le
 > 👤 **Player:**
 > *"Ok let's go with it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, 82 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179400/195000 | Gold: 134,716,440 Denarii**
@@ -11098,8 +12419,11 @@ Behind you, the Shadow Council shivers. They have seen you skin the Titan's dign
 > 👤 **Player:**
 > *"Ask father what he's talking about. Even though he pierced the mask he can't be 100% certain. A 16 year old doing all of this is unbelievable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Exhaustion: 0**
@@ -11125,8 +12449,11 @@ Your shadow network remains absolute. Your Faction Power is a concentrated 3,565
 > 👤 **Player:**
 > *"Give father a smile and ask him to think about my childhood and how I grew up. It'll make more sense if he thinks back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179400/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 3 | Exhaustion: 0 | Inspiration: Yes**
@@ -11152,8 +12479,11 @@ Your shadow network remains absolute. Your Faction Power is a concentrated 3,565
 > 👤 **Player:**
 > *"Ask my siblings what they think of me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Stealth Adv, Init/Perc Adv, Intimidate Adv vs Romans, Mantle Tier 3 (+3 DC), Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -11192,8 +12522,11 @@ Your father, Caesar the Elder, listens to the ruin of his children's dignitas, h
 > 👤 **Player:**
 > *"Ask mother what she thinks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179400/195000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+6), Aura of Conquest, Sovereign's Gaze, Mantle Tier 3 (+3 DC)**
@@ -11219,8 +12552,11 @@ For a long heartbeat, she remains silent, her fingers clenching the edge of her 
 God Mode:
 With the optimate restoration and my own personal funds and elites do I have enough power to control the republic? My brothers have submitted to me so I guess we can count them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440 Denarii**
@@ -11238,8 +12574,11 @@ Spartacus remains a silver-chased sentinel. He watches the CONDUCTOR close the l
 God Mode:
 I am asking a question don't continue the story God: With the optimate restoration and my own personal funds and elites do I have enough power to control the republic? My brothers have submitted to me so I guess we can count them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179,400/195,000 | Gold: 134,716,440 Denarii**
@@ -11267,8 +12606,11 @@ Based on your current assets, the Optimate restoration, and the submission of yo
 > 👤 **Player:**
 > *"Ask father why he thinks crassus is deferring to me and compliment him on being observant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, 82 BCE (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 179750/195000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 3, Sovereign's Gaze | Exhaustion: 0**
@@ -11286,8 +12628,11 @@ Your father, Caesar the Elder, feels the psychological pressure hit him like a p
 > 👤 **Player:**
 > *"Wait for him to answer and tell him to guess"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:06)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 180100/195000 | Gold: 134,716,440 denarii** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle (Tier 3), Sovereign's Gaze**
@@ -11320,8 +12665,11 @@ You tilt your head, a lock of dark hair falling over your radiant, symmetrical f
 > 👤 **Player:**
 > *"Command someone to bring in Sulla. Have sulla pour me a glass of wine shattering the mask in front of my family forever and revealing my level 15 presence."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:06)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 181250/195000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Conquest, Sovereign's Gaze | Exhaustion: 0 | Inspiration: No**
@@ -11359,8 +12707,11 @@ You gain **1,500 XP**! Your shadow legion of 1,050 soldiers, 950 spies, and 220 
 > 👤 **Player:**
 > *"Explain that sulla and I are the best of friends now and I don't need father to protect me against him anymore. Then command Sulla to explain to father how we first mer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:07)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 182750/195000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | SP: 15/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Tier 3 Mantle, Sovereign's Gaze | Inspiration: Yes**
@@ -11380,8 +12731,11 @@ Your father, Caesar the Elder, makes a sound like a wet rattle, his logic finall
 God Mode:
 My mantle should gain massive levels and I should gain massive exp for all this social domination
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:07)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Imperator | HP: 150/150 | XP: 206,250/195,000 | Gold: 134,724,660gp**
@@ -11405,8 +12759,11 @@ Massive experience awarded and Mantle levels adjusted to reflect the total socia
 > 👤 **Player:**
 > *"Tell father he can relax now and hand the mantle of rulership to me. Enjoy life"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 
@@ -11435,8 +12792,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 God Mode:
 Process level 16 and pick +2 asi cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:08)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 206,250/225,000 | Gold: 134,724,660gp** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4 | Exhaustion: 0 | Inspiration: Yes**
@@ -11463,8 +12823,11 @@ Level 16 Ascension processed for Gaia Julia Caesar.
 God Mode:
 Did I get a new level8 spell? If so pick glibness
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:08)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 208,750 | Gold: 134,724,660** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 2/2 | SP: 16/16 | Favored: 1/1**
@@ -11474,8 +12837,11 @@ Level 16 Ascension finalized. Glibness added.
 > 👤 **Player:**
 > *"Explain to father in detail what truly happened. Explain how I acquired 100 shadows and 100 legionnaires and level 12 at 16 without anyone noticing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 208,750/195,000 | Gold: 134,724,660gp** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4 (60ft Aura), Sovereign's Gaze | Inspiration: Yes**
@@ -11502,8 +12868,11 @@ Caesar the Elder's jaw works silently, his eyes Dilated as he looks at his favor
 > 👤 **Player:**
 > *"Explain that when I decided to act it only took a few months to consolidate my powerZ I captured all the optimates in a single night"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 208,750/195,000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4 (60ft Aura), Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -11530,8 +12899,11 @@ Your father, Caesar the Elder, looks at his silvered hands, then at Sulla, and f
 > 👤 **Player:**
 > *"Show them my wings now and I explain I inherited the divine imperium. I guess our ancestors actually were gods I remark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 208,750/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Angelic Form Active, Mantle Tier 4 Active**
@@ -11547,8 +12919,11 @@ Caesar the Elder does not speak. He cannot. The Perpetual Consul of Rome sits li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monologue the Republic&#x27;s Death - Detailed philosophical explanation of how the Julian blood will now colonize the administrative organs of the state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 208,750/195,000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ⚠️ **Wings Manifested, Mantle Tier 4 Active | Exhaustion: 0 | Inspiration: No**
@@ -11579,8 +12954,11 @@ You lean forward, your radiant, symmetrical face inches from the ashen Caesar th
 > 👤 **Player:**
 > *"Explain that I like the philosophy of the optimates and we will transition the republic into an empire with that philosophy. We will keep the institution an and they will have real power. The empire will be a shadow empire. I will be special consul and be allowed to stay back to back as a consul and we will let the other optimate lords take turns. Alll the power though belongs to me ultimately and I can change any major decision that seems bad but I'll give the ruling class autonomy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 208,750/195,000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 2/2 | SP: 15/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Angelic Form (Active), Mantle Tier 4, Peak Perfection | Inspiration: Yes**
@@ -11596,8 +12974,11 @@ The silence that follows is absolute. Caesar the Elder stares at his ink-stained
 > 👤 **Player:**
 > *"Tell father he can also retire in luxury and wealth if he wants. With my godlike protection he doesn't even need to worry. Cast a very strong heal spell on him to demonstrate and make him 10'years younger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/225,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked (Wings Active), Glibness (Active), Mantle Tier 4 | Inspiration: Yes**
@@ -11625,8 +13006,11 @@ You gain **1,500 XP** for the dynastic miracle and total paternal subjugation.
 God Mode:
 How much bot time do I control now? 100%
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250 / 225,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ⚠️ **Julian Wings (Active), Mantle Tier 4, Glibness, Guidance | Exhaustion: 0**
@@ -11662,8 +13046,11 @@ You control 100% of the functional power within the current scene and 95% of the
 God Mode:
 How much of Rome do I control now is it 100%?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/225,000 | Gold: 134,716,440gp** &nbsp;|&nbsp; ⚠️ **Wings (Active), Mantle Tier 4 | Exhaustion: 0 | Inspiration: Yes**
@@ -11699,8 +13086,11 @@ You currently control 100% of the functional power within the immediate scene an
 God Mode:
 Let's make Rome a different faction. I do control it but I'm letting others run it however at any point I can manually control it. It should be the top faction
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/225,000 | Gold: 134,724,660gp**
@@ -11724,8 +13114,11 @@ Administrative setup for the Julian Shadow Empire is finalized. Rome is now your
 > 👤 **Player:**
 > *"Narrate fathers reaction to the healing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/225,000 | Gold: 134,724,660gp** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Stealth Advantage, Initiative/Perception Advantage, Intimidation Advantage vs Romans, Mantle (Tier 4) | Exhaustion: 0 | Inspiration: Yes**
@@ -11741,8 +13134,11 @@ He bows his head, not in the indulgent nod of a father, but in the heavy, broken
 > 👤 **Player:**
 > *"Don't be so glum father. You can't  be number 1 forever. You would've died at some point and handed it over to a successor without getting to enjoy yourself. Now with my magic you can probably live a long time and enjoy the fruits of your labor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/265,000 | Gold: 134,716,440 denarii** &nbsp;|&nbsp; ⚠️ **Julian Shadow Empire Established | Mantle Tier 4 | Angelic Form Active**
@@ -11767,8 +13163,11 @@ Caesar the Elder looks up, his eyes twin wells of ashen shock that slowly begin 
 > 👤 **Player:**
 > *"Well father do you want something else? I can go back to playing and let you lead Rome. Would you truly enjoy that more?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (20:55)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/195,000 | Gold: 134,724,660** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 4 (+4 DC, 60ft Aura), Sovereign's Gaze (Disadvantage on enemy CHA/WIS saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -11788,8 +13187,11 @@ You gain **350 XP** for finalizing the dynastic pivot.
 > 👤 **Player:**
 > *"Ask Pompey if he will submit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/265,000 | Gold: 134,716,440 Denarii** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Julian Shadow Empire (Active), Unmasked Singularity, Mantle Tier 4 | Exhaustion: 0 | Inspiration: No**
@@ -11812,8 +13214,11 @@ Pompey Magnus looks at your father, then at the mulberry-blotched silence of Sul
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame as Apotheosis - Tell him that kneeling to a Julian is not a surrender, but a promotion into the vanguard of a new age.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 210,250/195,000 | Gold: 134,724,660** &nbsp;|&nbsp; ⚠️ **Glibness (Active), Julian Auctoritas (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -11840,8 +13245,11 @@ Pompey Magnus stares at your hand, his pulse visible in the jagged, frantic beat
 > 👤 **Player:**
 > *"Demand divine blood oath."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 211,250/225,000 | Gold: 134,716,440** &nbsp;|&nbsp; ⚠️ **Angelic Form (Active), Glibness (Active), Mantle Tier 4**
@@ -11871,8 +13279,11 @@ You gain **1,000 XP** for the ritualistic binding of a King-tier rival.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seal Blood Oath - Witness the drawing of blood and the formalization of the pact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **Domus Julia, Rome - Grand Triclinium** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 211,250/225,000 | Gold: 134,724,660gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Glibness, Angelic Form, Mantle Tier 4 | Exhaustion: 0 | Inspiration: Yes**
@@ -11899,8 +13310,11 @@ As the blood hits the stone, you feel the sub-audible hum of the Mantle Tier 4 p
 > 👤 **Player:**
 > *"It should be a divine blood oath sealed with cure wounds making it impossible to break. Have my brothers do it tok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **Grand Triclinium, Domus Julia** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Special Consul | HP: 162/162 | XP: 211,250/195,000 | Gold: 134,716,440** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Julian Shadow Empire (100% Dominance) | Wings Manifested**
@@ -11920,8 +13334,11 @@ Your father watches the ritual with a look of religious, vital pride, while Pomp
 > 👤 **Player:**
 > *"Let's assume we were in a private dining room and all the most powerful people in Rome were outside. We will go outside and have father and crassus announce a reconciliation. The Julian's will continue to rule the major institutions mostly but the government will adopt optimate philosophy and laws and restore the optimate lords. We will use mass propaganda to convert the masses and expand Rome to conquer the and enslave the wolrd to uplift the citzens so they don't mind having less political power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 211250/225000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 2/2, SP: 15/15, Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Julian Wings Manifested, Mantle Tier 4 Active**
@@ -11943,8 +13360,11 @@ Beyond the Palatine, the Subura begins to vibrate with the first waves of your m
 > 👤 **Player:**
 > *"Father also announces he is retiring and making me the head of the family. I will become a special consul that has a lifetime seat if I wish it because I negotiated the reconciliation. We will keep me publically as a consul and hide the fact that I am a shadow empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **Domus Julia, Rome - Ivory Balcony** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 211,250/225,000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Biological Majesty (+2 CHA), Mantle Tier 4 (+4 DC/60ft Aura), Matriarch of Gens Julia**
@@ -11958,8 +13378,11 @@ Aurelia remains a statue of yielding flint, her eyes locked on your radiant, sym
 > 👤 **Player:**
 > *"Narrate this as an announcement to everyone else at the feast. We have the top 1000 Roman elite in attendance d"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 212,750/225,000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Wings (Active), Mantle Tier 4 (60ft Aura) | Exhaustion: 0 | Inspiration: Yes**
@@ -11988,8 +13411,11 @@ You stand beside him, your spectral violet wings casting jagged shadows across t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sanitize The Senate Roster - Use Crassus and your Shadow principals to purge the remaining 32 Optimate &#x27;bloodhounds&#x27; from the roster, replacing them with Julian-client equestrians.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/225,000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ⚠️ **Angellic Form (Wings), Mantle Tier 4 (+4 DC, 60ft Aura), Glibness**
@@ -12016,8 +13442,11 @@ Your Faction Power holds firm at 3,565 FP, and while your ranking remains at #20
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appoint Sibling Governors - Formally assign your siblings to oversee the key institutions: Lucius to the Treasury, Gaius to the Legions, and Major to the Naval command, anchoring the Julian blood in every artery of the state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/265,000 | Gold: 134,724,660 Denarii** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | SP: 15/15 | Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Angelic Form (Active), Mantle Tier 4, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -12041,8 +13470,11 @@ Your siblings bow in a coordinated, religious unison, their previous psychologic
 God Mode:
 No keep my magic and wings hidden. Only my inner circle know about it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 134,724,660gp** &nbsp;|&nbsp; ⚠️ **Mantle Tier 4, Sovereign's Gaze, Angelic Form (Hidden) | Inspiration: No**
@@ -12054,8 +13486,11 @@ You remain seated upon your ivory throne, the Tyrian purple gown shimmering with
 > 👤 **Player:**
 > *"Give sulla a good position too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 134,724,660** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2, SP: 15/15, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked Reality, Mantle Tier 4, Sovereign's Gaze | Exhaustion: 0 | Inspiration: No**
@@ -12084,8 +13519,11 @@ A collective, hollowed moan ripples through the one thousand elites. To see the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Decree The Global Harvest - Formally announce the end of the Populares/Optimate split and declare the Mediterranean as the private garden of the Julian house, triggering a total fiscal extraction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000 Denarii** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2, SP: 15/15, Favored: 0/1** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4, Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -12111,8 +13549,11 @@ A collective, hollowed moan ripples through the hall. The elites watch with a ca
 God Mode:
 Give me the top 10 factions and just make me Rome faction leader so it's simpler
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000gp** &nbsp;|&nbsp; ⚠️ **Glibness, Mantle Tier 4, Peak Roman Perfection | Exhaustion: 0 | Inspiration: Yes**
@@ -12147,8 +13588,11 @@ Administrative Override Successful. You are now formally the leader of the Rome 
 God Mode:
 Are you using the faction agent? My faction power should be way higher now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000gp**
@@ -12188,8 +13632,11 @@ The `FactionManagementAgent` is active in the background (triggered by your 2,22
 > 👤 **Player:**
 > *"Calculate my faction power since i control Rome and generate the faction header going forward"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/225,000 | Gold: 150,000,000 Denarii** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4 (60ft Aura), Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -12210,8 +13657,11 @@ Night (23:10:00) in the Grand Audience Hall—the cooling frankincense drifts in
 > 👤 **Player:**
 > *"I control all of Rome should have more faction power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/225,000 | Gold: 150,000,000 Denarii** &nbsp;|&nbsp; ⚠️ **Mantle Tier 4, Sovereign's Gaze, Peak Roman Perfection | Exhaustion: 0 | Inspiration: Yes**
@@ -12227,8 +13677,11 @@ Beside you, Caesar the Elder rests a hand on your shoulder, his rejuvenated feat
 God Mode:
 Update game state and merge my faction with rome
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000 Denarii**
@@ -12253,8 +13706,11 @@ The strategic layer is now fully calibrated. You hold the head of the Republic; 
 God Mode:
 What's the real rome faction power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000gp** &nbsp;|&nbsp; ⚠️ **Angelic Form (Concealed), Mantle Tier 4 | Exhaustion: 0 | Inspiration: Yes**
@@ -12289,8 +13745,11 @@ They do not see the **100% administrative capture** of the Republic's heart. You
 God Mode:
 No wtf. I am asking about Rome that's the biggest empire in the world right now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000**
@@ -12306,8 +13765,11 @@ Your Faction Power is confirmed at 3,565, placing you at Rank #201 globally. To 
 God Mode:
 What's the faction power of the Roman republic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000gp**
@@ -12342,8 +13804,11 @@ While your true power is 263,325, the global census tools used by powers like th
 God Mode:
 Give me the visible territory and all the stats of big Rome. Combine it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000gp**
@@ -12379,8 +13844,11 @@ The comprehensive audit for the Julian Shadow Empire (Big Rome) is finalized and
 God Mode:
 Wait we should be the#1 fsction who else is bigger than Rome on this time period
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000**
@@ -12409,8 +13877,11 @@ No one else is bigger than Rome. You are Rank #1. The previous census calculatio
 God Mode:
 In history more howmamysboldiers did Rome have during this time period? Use historical stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **Domus Julia, Rome - Grand Audience Hall** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000 Denarii** &nbsp;|&nbsp; ⚠️ **Guidance, Peak Roman Perfection, Mantle Tier 4, Sovereign's Gaze**
@@ -12433,8 +13904,11 @@ Your current total strength of **142,220** is a near-perfect historical reflecti
 God Mode:
 Who are our strongest enemies?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000**
@@ -12461,8 +13935,11 @@ The strategic sensors have finalized the audit of your current global standing. 
 God Mode:
 Don't make up factions it should be like history
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **Grand Audience Hall, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/225,000 | Gold: 150,000,000** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4 (60ft Aura), Sovereign's Gaze | Exhaustion: 0**
@@ -12488,8 +13965,11 @@ The board is sanitized. The Republic is a weapon fully assembled. And as the Med
 God Mode:
 Formalize Imperial Annexation - Formally claim the 1,000,000 acres of the Republic into the Julian Shadow Empire to force a Rank #1 update.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 150,000,000gp**
@@ -12510,8 +13990,11 @@ The formal claim is complete. The world is now officially your footstool.
 God Mode:
 No don't continue the story's I mean the other factions should be historical not ones you made up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator (Gestalt Paladin/Sorcerer) | HP: 162/162** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | Channel Divinity: 1/1 | Sorcery Points: 15/15 | Cleansing Touch: 6/6 | Lay On Hands Pool: 70/70 | Favored By The Gods: 1/1**
@@ -12536,8 +14019,11 @@ The 'Obsidian Crown' and 'Twilight Bastion' have been reclassified as administra
 God Mode:
 Don't advance story fix server tool for factions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250 | Gold: 150,000,000 Denarii**
@@ -12566,8 +14052,11 @@ Server Tool Fix and Historical Faction Alignment Complete. All fictional constru
 God Mode:
 What's my unmasked faction power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **November 13, -82 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator (Gestalt Paladin/Sorcerer) | HP: 162/162** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2 | Channel Divinity: 1/1 | Sorcery Points: 15/15 | Cleansing Touch: 6/6 | Lay On Hands Pool: 70/70 | Favored By The Gods: 1/1**
@@ -12599,8 +14088,11 @@ The fictional constructs 'Obsidian Crown' and 'Twilight Bastion' have been recla
 God Mode:
 I shoukd have more than 150M gold that was my total before taking over rome
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213250/225000 | Gold: 200,000,000gp**
@@ -12633,8 +14125,11 @@ Your session header and faction state have been synchronized to this 200M baseli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the Shadow Empress of the Republic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 200,000,000 Denarii** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2, SP: 15/15, Favored: 0/1**
@@ -12652,8 +14147,11 @@ Beside the Romulus mosaic, Lucius Cornelius Sulla stands in the shade of a flute
 > 👤 **Player:**
 > *"Tell my shadow council to handle northern optimates and only consult me on big things. Have my family join shadow council too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/225,000 | Gold: 200,000,000** &nbsp;|&nbsp; ⚠️ **Julian Sovereignty | Exhaustion: 0 | Inspiration: Yes**
@@ -12671,8 +14169,11 @@ Beside you, Gaius and Julia Minor exchange a look of predatory understanding. Th
 God Mode:
 who are our strongest enemies right now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/225,000 | Gold: 200,000,000gp** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4 (60ft Aura), Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -12704,8 +14205,11 @@ Your unmasked power is confirmed at **1,500,000 FP**, establishing you as the so
 > 👤 **Player:**
 > *"THINK:who are our vassals and allies?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 200,000,000** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4, Angelic Form (Active), Glibness**
@@ -12715,8 +14219,11 @@ Night (23:35:00). You pause for a heartbeat, the sub-audible hum of the Mantle p
 > 👤 **Player:**
 > *"THINK:no i mean doesnt r omme itself have vassals and allies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 200,000,000gp** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4, Sovereign's Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -12726,8 +14233,11 @@ You lean back against the ivory throne, the sub-audible hum of the Tier 4 Mantle
 > 👤 **Player:**
 > *"THINK:how about egypt? are they allies or vassals?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Imperator | HP: 162/162 | XP: 213,250/195,000 | Gold: 200,000,000 Denarii** &nbsp;|&nbsp; ⚠️ **Julian Shadow Sovereign, Special Consul (Lifetime), Curatrix Celebritatum | Exhaustion: 0 | Inspiration: Yes**
@@ -12737,8 +14247,11 @@ You shift your weight on the ivory throne, the Tyrian purple silk rustling with 
 God Mode:
 give me proper exp for fully controlling rome, should be massive
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4, Sovereign's Gaze | Exhaustion: 0 | Inspiration: No**
@@ -12769,8 +14282,11 @@ Your power has reached the precipice of godhood. As the Shadow Empress, your Jul
 God Mode:
 this shoudl be common knowlege, not DC 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-501"></a>
 #### Scene 501
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000gp**
@@ -12786,8 +14302,11 @@ I have updated your directives to ensure that foundational historical/political 
 God Mode:
 give me wish for lvl 9 and auto pick spells. make sure i got simulcrum too and ill always have it casted. process my level 18
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-502"></a>
 #### Scene 502
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4, Sovereign's Gaze, Simulacrum Active**
@@ -12826,8 +14345,11 @@ Level 18 processing for Gaia Julia Caesar is complete. I have updated your spell
 God Mode:
 give me foresight as well and ensure its always cast and used in every roll
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-503"></a>
 #### Scene 503
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000gp**
@@ -12844,8 +14366,11 @@ Foresight has been successfully added to your arsenal and established as a perma
 God Mode:
 double hceck i hae the right number of spells and if not autopick for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-504"></a>
 #### Scene 504
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000gp** &nbsp;|&nbsp; ⚠️ **Julian Shadow Empress, Angelic Form (Active), Simulacrum (Active), Foresight (Active) | Exhaustion: 0**
@@ -12859,8 +14384,11 @@ Foresight and Simulacrum are now locked into the active state, granting you perm
 God Mode:
 swap meteor swam with true resurrection
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-505"></a>
 #### Scene 505
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 13, -82 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000**
@@ -12870,8 +14398,11 @@ Spellbook synchronized: 'Meteor Swarm' removed; 'True Resurrection' added. Facti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the governance of your Shadow Empire with your updated arsenal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-506"></a>
 #### Scene 506
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 14, -82 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288250/305000 | Gold: 200,000,000gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/2, L9 1/1 | SP: 15/15 | Favored: 1/1 | Exhaustion: 0**
@@ -12885,8 +14416,11 @@ You feel the sub-audible hum of the Tier 4 Mantle coiling in your shadow, its re
 > 👤 **Player:**
 > *"Ask which nations threaten Rome the most mithradites?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-507"></a>
 #### Scene 507
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 14, -82 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 363,250/355,000 | Gold: 200,000,000gp** &nbsp;|&nbsp; ⚠️ **Foresight (Advantage), Peak Roman Perfection (+2 CHA Narrative), Mantle Tier 4 (+4 DC/60ft Aura), Sovereign's Gaze (Enemies Disadvantage), Simulacrum Active**
@@ -12925,8 +14459,11 @@ If you continue adventuring, you remain Level 18 and defer these benefits until 
 God Mode:
 Why am I level 20 suddenly?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-508"></a>
 #### Scene 508
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 14, -82 BCE (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Imperator | HP: 188/188 | XP: 363,250/355,000 | Gold: 200,000,000gp**
@@ -12956,8 +14493,11 @@ Your character has reached **Level 20** due to the massive XP injection from the
 God Mode:
 Did you give it to me twice?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-509"></a>
 #### Scene 509
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 14, -82 BCE (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Imperator | HP: 188/188 | XP: 363,250/355,000 | Gold: 200,000,000** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4, Foresight, Simulacrum | Exhaustion: 0**
@@ -12992,8 +14532,11 @@ Your gold is correctly consolidated at **200,000,000 Denarii**, which was applie
 God Mode:
 Reset to Level 18 - Set XP to 288,250, correcting the double-award and providing a more balanced progression for the external threat arc.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-510"></a>
 #### Scene 510
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 14, -82 BCE (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000 Denarii**
@@ -13021,8 +14564,11 @@ Your wealth remains consolidated at **200,000,000 Gold Denarii**, and your facti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the strategic audit of the Parthian, Pontic, and Armenian threats from your throne in the Grand Audience Hall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-511"></a>
 #### Scene 511
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 14, -82 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000gp** &nbsp;|&nbsp; ⚠️ **Foresight, Simulacrum, Tier 4 Mantle | Exhaustion: 0 | Inspiration: Yes**
@@ -13045,8 +14591,11 @@ Below the dais, the one thousand elites of Rome remain kneeling in a state of ca
 > 👤 **Player:**
 > *"Conclude the feast and long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-512"></a>
 #### Scene 512
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,008,220** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 2/2, L9 1/1 | SP: 15/15 | Favored: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Simulacrum (Active), Foresight (Active), Mantle Tier 4 (+4 DC, 60ft Aura)**
@@ -13079,8 +14628,11 @@ Your Simulacrum stands at your left flank, a silent mirror of your perfection. C
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Naval Asphyxiation (Pontus) - Direct Julia Major and the Shadows to dismantle the Rhodian pirate networks funded by Mithridates to secure the Neapolis grain-run.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-513"></a>
 #### Scene 513
 
 > 📍 **Grand Audience Hall, Domus Julia, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 289,450/305,000 | Gold: 200,008,220gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 2/2, L9 1/1 | SP: 15/15 | Favored: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mantle Tier 4, Simulacrum Active**
@@ -13100,8 +14652,11 @@ You gain **1,200 XP** for the masterful strategic deployment and naval stabiliza
 > 👤 **Player:**
 > *"Teleport myself, my simulcrum, companions, and as many of my strongest warriors as possible to parthia throne room and hyp surprise everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-514"></a>
 #### Scene 514
 
 > 📍 **Throne Room of the Arsacid King, Ctesiphon, Parthia** &nbsp;|&nbsp; ⏳ **November 15, -82 BCE (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 289,750/305,000 | Gold: 200,008,220** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 2/2, L9 1/1 | SP: 11/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight, Mantle Tier 4, Simulacrum Active | Exhaustion: 0**
@@ -13125,8 +14680,11 @@ You gain **1,500 XP** for the surgical strategic decapitation!
 > 👤 **Player:**
 > *"Bind everyone, slit throat of his elite guards, then teleport back to Rome with the king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-515"></a>
 #### Scene 515
 
 > 📍 **Domus Julia, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 291,250/305,000 | Gold: 200,008,220gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 2/2, L9 1/1 | SP: 11/15 | Favored: 1/1**
@@ -13149,8 +14707,11 @@ You gain 1,500 XP for the strategic decapitation and abduction of a sovereign!
 > 👤 **Player:**
 > *"Let's call this the teleport checkmate strategy and let me use it again with that name. Then dominate person and have the king of Parthia tell me everything useful in terms of intel. Let my father see"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-516"></a>
 #### Scene 516
 
 > 📍 **Domus Julia Balcony, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 288,250/305,000 | Gold: 200,000,000** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/2, L6 1/1, L7 0/2, L8 2/2, L9 1/1 | SP: 11/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight, Mantle Tier 4, Angelic Form | Exhaustion: 0 | Inspiration: Yes**
@@ -13168,8 +14729,11 @@ Orodes begins to recite. His voice is a dry, rhythmic monotone, a clinical ledge
 > 👤 **Player:**
 > *"Have cinnamon and my shadows act in the intel and start shadow control of Parthia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-517"></a>
 #### Scene 517
 
 > 📍 **Domus Julia Balcony, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 289,750/305,000 | Gold: 200,008,220** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/2, L6 1/1, L7 0/2, L8 2/2, L9 1/1 | SP: 11/15 | Favored: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mantle Tier 4 (Active), Julian Majesty (+2 CHA Narrative)**
@@ -13196,8 +14760,11 @@ At your casual flick of your wrist, the Shadows vanish—not into the streets, b
 > 👤 **Player:**
 > *"Have cinnamon and my shadows act on the intel and start shadow control of Parthia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-518"></a>
 #### Scene 518
 
 > 📍 **Domus Julia Balcony, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 291,250/305,000 | Gold: 200,008,220gp** &nbsp;|&nbsp; ⚠️ **Foresight (Advantage), Mantle Tier 4 (+4 DC/60ft), Simulacrum Active**
@@ -13215,8 +14782,11 @@ King Orodes II remains on his knees, his silk robes stained by the dust of his o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silk Road Audit - Direct Sulla and Lucius to begin the immediate seizure of the 10M+ Gold Denarii in Armenian transit-funds identified by Orodes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-519"></a>
 #### Scene 519
 
 > 📍 **Domus Julia Balcony, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, 82 BCE (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 291,250/305,000 | Gold: 210,008,220gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/2, L6 1/1, L7 0/2, L8 2/2, L9 1/1 | SP: 11/15** &nbsp;|&nbsp; ⚠️ **Foresight, Mantle Tier 4, Peak Roman Perfection | Exhaustion: 0 | Inspiration: Yes**
@@ -13232,8 +14802,11 @@ Your Shadow Empire now commands a staggering 5,143,515 Faction Power, ranking yo
 > 👤 **Player:**
 > *"spend more time on pathrian king so he is compliant without dominate person spell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-520"></a>
 #### Scene 520
 
 > 📍 **Domus Julia Balcony, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 BCE (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 291,250/305,000 | Gold: 210,008,220gp** &nbsp;|&nbsp; ⚠️ **Foresight, Angelic Form (Wings), Mantle (Tier 4) | Inspiration: Yes**
@@ -13259,8 +14832,11 @@ Behind you, your Shadow Empire now commands a staggering 5,143,515 Faction Power
 God Mode:
 I control the Optimates now though?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-521"></a>
 #### Scene 521
 
 > 📍 **Domus Julia Balcony, Palatine Hill, Rome** &nbsp;|&nbsp; ⏳ **November 15, -82 BCE (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Imperator | HP: 188/188 | XP: 291,250/305,000 | Gold: 210,008,220gp** &nbsp;|&nbsp; ⚠️ **Peak Roman Perfection, Mantle Tier 4, Foresight (Permanent), Simulacrum (Active)**
@@ -13284,6 +14860,8 @@ Here is the breakdown of your control over the Optimate faction:
 - **Ranking:** #58 of 201 globally
 - **Army Strength:** 141,050 soldiers, 950 spies, 220 elites (Lvl 11)
 - **Territorial Footprint:** 1,000,000 acres
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

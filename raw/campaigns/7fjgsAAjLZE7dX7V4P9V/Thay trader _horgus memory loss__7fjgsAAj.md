@@ -12,182 +12,198 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (161 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Aizen | Setting: Faerun after events bg3. I’m a trader from Thay. I do long trips from Thay to baldurs gate across the world. Make me an 18 year old very smart and good looking youngest bastard son of a thayan noble
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Thay | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **02** | Thay | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **03** | Thay | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **04** | Thay - Outskirts | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **05** | Thay - Outskirts (The High Road) | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **06** | Baldur's Gate - Outer City | Hammer 1, 1492 DR (08:00) | Roleplay |
-| **07** | The Coast Way - Heading East | Hammer 1, 1492 DR (11:30) | Roleplay |
-| **08** | Secluded Grove | Hammer 1, 1492 DR (12:15) | Roleplay |
-| **09** | Secluded Grove | Hammer 1, 1492 DR (12:25) | Roleplay |
-| **10** | Secluded Grove | Hammer 1, 1492 DR (12:35) | Roleplay |
-| **11** | Secluded Grove | Hammer 1, 1492 DR (12:40) | Social Challenge |
-| **12** | Secluded Grove | Hammer 1, 1492 DR (12:40) | Roleplay |
-| **13** | Secluded Grove | Hammer 1, 1492 DR (12:40) | Roleplay |
-| **14** | Secluded Grove | Hammer 1, 1492 DR (12:45) | Roleplay |
-| **15** | Coast Way | Hammer 1, 1492 DR (13:45) | Roleplay |
-| **16** | Elturgard Outskirts | Hammer 1, 1492 DR (17:45) | Roleplay |
-| **17** | Elturgard Outskirts | Hammer 1, 1492 DR (18:00) | Social Challenge |
-| **18** | Elturgard Outskirts | Hammer 1, 1492 DR (18:05) | Roleplay |
-| **19** | Elturgard Outskirts | Hammer 1, 1492 DR (18:15) | Social Challenge |
-| **20** | Elturgard Outskirts - Roadside Vineyard | Hammer 1, 1492 DR (18:20) | Roleplay |
-| **21** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:30) | Roleplay |
-| **22** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:30) | Roleplay |
-| **23** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:30) | Roleplay |
-| **24** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:35) | Roleplay |
-| **25** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:35) | Roleplay |
-| **26** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
-| **27** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
-| **28** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Social Challenge |
-| **29** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
-| **30** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Social Challenge |
-| **31** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
-| **32** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:50) | Social Challenge |
-| **33** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (19:05) | Social Challenge |
-| **34** | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (19:20) | Roleplay |
-| **35** | The Verdant Barrel Villa | Hammer 1, 1492 DR (20:00) | Roleplay |
-| **36** | The Verdant Barrel Villa | Hammer 1, 1492 DR (20:30) | Roleplay |
-| **37** | The Verdant Barrel Villa | Hammer 2, 1492 DR (03:15) | Roleplay |
-| **38** | The Verdant Barrel Villa - Courtyard | Hammer 2, 1492 (03:15) | Roleplay |
-| **39** | The Verdant Barrel Villa - Cloakroom | Hammer 2, 1492 (03:25) | Roleplay |
-| **40** | The Verdant Barrel Villa - Courtyard | Hammer 2, 1492 (03:30) | Roleplay |
-| **41** | The Verdant Barrel - Vineyards | Hammer 2, 1492 (03:31) | Roleplay |
-| **42** | The Verdant Barrel - Vineyards | Hammer 2, 1492 DR (03:31) | Roleplay |
-| **43** | The Verdant Barrel - Vineyards | Hammer 2, 1492 (03:32) | Roleplay |
-| **44** | The Verdant Barrel - Vineyards | Hammer 2, 1492 (03:33) | Roleplay |
-| **45** | The Verdant Barrel - Vineyards | Hammer 2, 1492 DR (03:33) | Roleplay |
-| **46** | The Verdant Barrel - Vineyards | Hammer 2, 1492 (04:00) | Roleplay |
-| **47** | The Verdant Barrel - Vineyards | Hammer 2, 1492 (04:00) | Roleplay |
-| **48** | The Verdant Barrel Villa - Courtyard | Hammer 2, 1492 (04:15) | Roleplay |
-| **49** | The Verdant Barrel - Courtyard | Hammer 2, 1492 DR (04:20) | Roleplay |
-| **50** | The Verdant Barrel - Villa Cellar | Hammer 2, 1492 DR (04:30) | Roleplay |
-| **51** | The Verdant Barrel - Villa Cellar | Hammer 2, 1492 (04:30) | Roleplay |
-| **52** | The Verdant Barrel - Villa Cellar | Hammer 2, 1492 (04:30) | Roleplay |
-| **53** | The High Road (East of the Verdant Barrel) | Hammer 2, 1492 DR (05:00) | Roleplay |
-| **54** | The High Road (East of the Verdant Barrel) | Hammer 2, 1492 (05:00) | Roleplay |
-| **55** | The High Road (East of the Verdant Barrel) | Hammer 2, 1492 (05:00) | Roleplay |
-| **56** | Elturel - Maiden's Leap District | Hammer 2, 1492 DR (10:15) | Roleplay |
-| **57** | Elturel - Maiden's Leap District | Hammer 2, 1492 (10:15) | Roleplay |
-| **58** | Elturel - Maiden's Leap District | Hammer 2, 1492 DR (10:20) | Roleplay |
-| **59** | Elturel Outskirts - The River-Mists | Hammer 2, 1492 DR (11:45) | Roleplay |
-| **60** | The Chionthar Banks - East of Elturel | Hammer 2, 1492 DR (18:00) | Roleplay |
-| **61** | The Chionthar Banks - East of Elturel | Hammer 2, 1492 (18:15) | Roleplay |
-| **62** | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 DR (18:25) | Roleplay |
-| **63** | Unknown |  | Skill Check / Combat |
-| **64** | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 DR (18:25) | Roleplay |
-| **65** | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 (18:26) | Roleplay |
-| **66** | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 DR (18:40) | Roleplay |
-| **67** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (18:35) | Roleplay |
-| **68** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (18:50) | Roleplay |
-| **69** | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
-| **70** | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
-| **71** | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
-| **72** | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
-| **73** | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
-| **74** | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
-| **75** | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
-| **76** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:10) | Skill Check / Combat |
-| **77** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:15) | Skill Check / Combat |
-| **78** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:15) | Roleplay |
-| **79** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:20) | Roleplay |
-| **80** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:20) | Roleplay |
-| **81** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:20) | Roleplay |
-| **82** | The Weeping Willows - Ridge | Hammer 2, 1492 (19:20) | Roleplay |
-| **83** | The Weeping Willows - Ridge | Hammer 2, 1492 (19:20) | Roleplay |
-| **84** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:35) | Roleplay |
-| **85** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:40) | Roleplay |
-| **86** | The Weeping Willows - Ridge | Hammer 2, 1492 (19:40) | Roleplay |
-| **87** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:50) | Roleplay |
-| **88** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:45) | Roleplay |
-| **89** | Unknown |  | Skill Check / Combat |
-| **90** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:50) | Roleplay |
-| **91** | The Weeping Willows - Ridge | Hammer 2, 1492 (20:00) | Social Challenge |
-| **92** | The Weeping Willows - Ridge | Hammer 2, 1492 (20:10) | Roleplay |
-| **93** | The Weeping Willows - Ridge | Hammer 2, 1492 (20:10) | Roleplay |
-| **94** | The Weeping Willows - Ridge | Hammer 2, 1492 DR (20:25) | Roleplay |
-| **95** | Scornubel | Hammer 3, 1492 DR (16:30) | Skill Check / Combat |
-| **96** | Scornubel | Hammer 3, 1492 DR (16:30) | Roleplay |
-| **97** | Scornubel | Hammer 3, 1492 (16:30) | Skill Check / Combat |
-| **98** | Scornubel - The Dusty Spire District | Hammer 3, 1492 DR (17:30) | Skill Check / Combat |
-| **99** | Scornubel - The Dusty Spire District | Hammer 4, 1492 DR (10:30) | Skill Check / Combat |
-| **100** | Scornubel - The Dusty Spire District | Hammer 3, 1492 DR (19:30) | Skill Check / Combat |
-| **101** | Scornubel - The Dusty Spire District | Hammer 3, 1492 DR (19:30) | Roleplay |
-| **102** | Scornubel - Dusty Spire District (STA Annex 4) | Hammer 3, 1492 DR (23:15) | Skill Check / Combat |
-| **103** | Scornubel - Dusty Spire District (STA Annex 4) | Hammer 3, 1492 DR (23:20) | Skill Check / Combat |
-| **104** | Scornubel - Dusty Spire District (STA Annex 4) | Hammer 3, 1492 DR (23:25) | Skill Check / Combat |
-| **105** | Scornubel - STA Deep Vaults | Hammer 3, 1492 DR (23:55) | Skill Check / Combat |
-| **106** | Scornubel - STA Deep Vaults | Hammer 3, 1492 (23:55) | Skill Check / Combat |
-| **107** | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (00:25) | Skill Check / Combat |
-| **108** | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (01:10) | Skill Check / Combat |
-| **109** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:25) | Skill Check / Combat |
-| **110** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:25) | Skill Check / Combat |
-| **111** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:25) | Roleplay |
-| **112** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:25) | Roleplay |
-| **113** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:25) | Skill Check / Combat |
-| **114** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:25) | Skill Check / Combat |
-| **115** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:30) | Skill Check / Combat |
-| **116** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:31) | Skill Check / Combat |
-| **117** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:31) | Skill Check / Combat |
-| **118** | Scornubel - Eastern Tanning Yard (Storage Shed) | Hammer 4, 1492 DR (01:50) | Skill Check / Combat |
-| **119** | Scornubel - Eastern Tanning Yard (Storage Shed) | Hammer 4, 1492 (01:50) | Skill Check / Combat |
-| **120** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:00) | Skill Check / Combat |
-| **121** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:15) | Skill Check / Combat |
-| **122** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:16) | Skill Check / Combat |
-| **123** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:30) | Skill Check / Combat |
-| **124** | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:40) | Skill Check / Combat |
-| **125** | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (03:45) | Skill Check / Combat |
-| **126** | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (03:55) | Skill Check / Combat |
-| **127** | Scornubel - STA Deep Vaults | Hammer 4, 1492 (03:55) | Skill Check / Combat |
-| **128** | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (11:55) | Skill Check / Combat |
-| **129** | Scornubel - STA Counting House | Hammer 4, 1492 DR (12:30) | Skill Check / Combat |
-| **130** | Scornubel - STA Counting House | Hammer 4, 1492 DR (12:40) | Skill Check / Combat |
-| **131** | Scornubel - The Broken Axle Tavern | Hammer 4, 1492 DR (13:45) | Skill Check / Combat |
-| **132** | Scornubel - The Broken Axle Tavern | Hammer 4, 1492 DR (14:15) | Skill Check / Combat |
-| **133** | Scornubel - The Broken Axle Tavern | Hammer 4, 1492 DR (14:30) | Skill Check / Combat |
-| **134** | Scornubel - Market Square | Hammer 4, 1492 DR (15:30) | Skill Check / Combat |
-| **135** | Scornubel - STA Council Hall | Hammer 4, 1492 DR (16:30) | Skill Check / Combat |
-| **136** | Scornubel - STA Council Hall | Hammer 4, 1492 DR (18:30) | Skill Check / Combat |
-| **137** | House Sosuke Enclave | Hammer 11, 1492 DR (18:30) | Skill Check / Combat |
-| **138** | House Sosuke Enclave | Hammer 11, 1492 (18:30) | Roleplay |
-| **139** | House Sosuke Enclave | Hammer 11, 1492 DR (18:30) | Roleplay |
-| **140** | Council Chambers | Hammer 18, 1492 DR (12:00) | Skill Check / Combat |
-| **141** | Council Chambers | Hammer 19, 1492 DR (11:30) | Skill Check / Combat |
-| **142** | Sovereign Council Chamber | Alturiak 3, 1492 DR (12:00) | Skill Check / Combat |
-| **143** | Sovereign Council Chamber | Alturiak 3, 1492 DR (12:00) | Roleplay |
-| **144** | Sovereign Council Chamber | Alturiak 3, 1492 DR (12:00) | Roleplay |
-| **145** | Darkhold Safe-house |  | Skill Check / Combat |
-| **146** | Sosuke Enclave study & Scornubel High Market | Alturiak 4, 1492 DR (11:30) | Skill Check / Combat |
-| **147** | Sosuke Enclave study & Scornubel High Market | Alturiak 4, 1492 DR (11:30) | Roleplay |
-| **148** | Sosuke Enclave |  | Skill Check / Combat |
-| **149** | Grand Dining Hall | Alturiak 4, 1492 DR (20:45) | Skill Check / Combat |
-| **150** | Grand Dining Hall | Alturiak 4, 1492 DR (20:45) | Roleplay |
-| **151** | Grand Dining Hall | Alturiak 4, 1492 DR (21:00) | Skill Check / Combat |
-| **152** | Grand Dining Hall | Alturiak 4, 1492 DR (21:15) | Skill Check / Combat |
-| **153** | Grand Dining Hall | Alturiak 4, 1492 (21:15) | Skill Check / Combat |
-| **154** | Grand Dining Hall | Alturiak 4, 1492 DR (21:25) | Skill Check / Combat |
-| **155** | Grand Dining Hall | Alturiak 4, 1492 DR (21:30) | Skill Check / Combat |
-| **156** | Grand Dining Hall | Alturiak 4, 1492 DR (21:45) | Skill Check / Combat |
-| **157** | Grand Dining Hall | Alturiak 4, 1492 DR (21:45) | Roleplay |
-| **158** | Grand Dining Hall | Alturiak 4, 1492 DR (21:45) | Roleplay |
-| **159** | Study | Alturiak 4, 1492 DR (23:00) | Skill Check / Combat |
-| **160** | Gates | Alturiak 5, 1492 DR (00:00) | Skill Check / Combat |
-| **161** | Gates | Alturiak 5, 1492 DR (00:00) | Roleplay |
+| [**Scene 01**](#scene-1) | Thay | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Thay | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Thay | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Thay - Outskirts | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Thay - Outskirts (The High Road) | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Baldur's Gate - Outer City | Hammer 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 07**](#scene-7) | The Coast Way - Heading East | Hammer 1, 1492 DR (11:30) | Roleplay |
+| [**Scene 08**](#scene-8) | Secluded Grove | Hammer 1, 1492 DR (12:15) | Roleplay |
+| [**Scene 09**](#scene-9) | Secluded Grove | Hammer 1, 1492 DR (12:25) | Roleplay |
+| [**Scene 10**](#scene-10) | Secluded Grove | Hammer 1, 1492 DR (12:35) | Roleplay |
+| [**Scene 11**](#scene-11) | Secluded Grove | Hammer 1, 1492 DR (12:40) | Social Challenge |
+| [**Scene 12**](#scene-12) | Secluded Grove | Hammer 1, 1492 DR (12:40) | Roleplay |
+| [**Scene 13**](#scene-13) | Secluded Grove | Hammer 1, 1492 DR (12:40) | Roleplay |
+| [**Scene 14**](#scene-14) | Secluded Grove | Hammer 1, 1492 DR (12:45) | Roleplay |
+| [**Scene 15**](#scene-15) | Coast Way | Hammer 1, 1492 DR (13:45) | Roleplay |
+| [**Scene 16**](#scene-16) | Elturgard Outskirts | Hammer 1, 1492 DR (17:45) | Roleplay |
+| [**Scene 17**](#scene-17) | Elturgard Outskirts | Hammer 1, 1492 DR (18:00) | Social Challenge |
+| [**Scene 18**](#scene-18) | Elturgard Outskirts | Hammer 1, 1492 DR (18:05) | Roleplay |
+| [**Scene 19**](#scene-19) | Elturgard Outskirts | Hammer 1, 1492 DR (18:15) | Social Challenge |
+| [**Scene 20**](#scene-20) | Elturgard Outskirts - Roadside Vineyard | Hammer 1, 1492 DR (18:20) | Roleplay |
+| [**Scene 21**](#scene-21) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:30) | Roleplay |
+| [**Scene 22**](#scene-22) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:30) | Roleplay |
+| [**Scene 24**](#scene-24) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:35) | Roleplay |
+| [**Scene 25**](#scene-25) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:35) | Roleplay |
+| [**Scene 26**](#scene-26) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
+| [**Scene 27**](#scene-27) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
+| [**Scene 28**](#scene-28) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Social Challenge |
+| [**Scene 29**](#scene-29) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
+| [**Scene 30**](#scene-30) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Social Challenge |
+| [**Scene 31**](#scene-31) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:40) | Roleplay |
+| [**Scene 32**](#scene-32) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (18:50) | Social Challenge |
+| [**Scene 33**](#scene-33) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (19:05) | Social Challenge |
+| [**Scene 34**](#scene-34) | Elturgard Outskirts - Fermentation Shed | Hammer 1, 1492 DR (19:20) | Roleplay |
+| [**Scene 35**](#scene-35) | The Verdant Barrel Villa | Hammer 1, 1492 DR (20:00) | Roleplay |
+| [**Scene 36**](#scene-36) | The Verdant Barrel Villa | Hammer 1, 1492 DR (20:30) | Roleplay |
+| [**Scene 37**](#scene-37) | The Verdant Barrel Villa | Hammer 2, 1492 DR (03:15) | Roleplay |
+| [**Scene 38**](#scene-38) | The Verdant Barrel Villa - Courtyard | Hammer 2, 1492 (03:15) | Roleplay |
+| [**Scene 39**](#scene-39) | The Verdant Barrel Villa - Cloakroom | Hammer 2, 1492 (03:25) | Roleplay |
+| [**Scene 40**](#scene-40) | The Verdant Barrel Villa - Courtyard | Hammer 2, 1492 (03:30) | Roleplay |
+| [**Scene 41**](#scene-41) | The Verdant Barrel - Vineyards | Hammer 2, 1492 (03:31) | Roleplay |
+| [**Scene 42**](#scene-42) | The Verdant Barrel - Vineyards | Hammer 2, 1492 DR (03:31) | Roleplay |
+| [**Scene 43**](#scene-43) | The Verdant Barrel - Vineyards | Hammer 2, 1492 (03:32) | Roleplay |
+| [**Scene 44**](#scene-44) | The Verdant Barrel - Vineyards | Hammer 2, 1492 (03:33) | Roleplay |
+| [**Scene 45**](#scene-45) | The Verdant Barrel - Vineyards | Hammer 2, 1492 DR (03:33) | Roleplay |
+| [**Scene 46**](#scene-46) | The Verdant Barrel - Vineyards | Hammer 2, 1492 (04:00) | Roleplay |
+| [**Scene 47**](#scene-47) | The Verdant Barrel - Vineyards | Hammer 2, 1492 (04:00) | Roleplay |
+| [**Scene 48**](#scene-48) | The Verdant Barrel Villa - Courtyard | Hammer 2, 1492 (04:15) | Roleplay |
+| [**Scene 49**](#scene-49) | The Verdant Barrel - Courtyard | Hammer 2, 1492 DR (04:20) | Roleplay |
+| [**Scene 50**](#scene-50) | The Verdant Barrel - Villa Cellar | Hammer 2, 1492 DR (04:30) | Roleplay |
+| [**Scene 51**](#scene-51) | The Verdant Barrel - Villa Cellar | Hammer 2, 1492 (04:30) | Roleplay |
+| [**Scene 52**](#scene-52) | The Verdant Barrel - Villa Cellar | Hammer 2, 1492 (04:30) | Roleplay |
+| [**Scene 53**](#scene-53) | The High Road (East of the Verdant Barrel) | Hammer 2, 1492 DR (05:00) | Roleplay |
+| [**Scene 54**](#scene-54) | The High Road (East of the Verdant Barrel) | Hammer 2, 1492 (05:00) | Roleplay |
+| [**Scene 55**](#scene-55) | The High Road (East of the Verdant Barrel) | Hammer 2, 1492 (05:00) | Roleplay |
+| [**Scene 56**](#scene-56) | Elturel - Maiden's Leap District | Hammer 2, 1492 DR (10:15) | Roleplay |
+| [**Scene 57**](#scene-57) | Elturel - Maiden's Leap District | Hammer 2, 1492 (10:15) | Roleplay |
+| [**Scene 58**](#scene-58) | Elturel - Maiden's Leap District | Hammer 2, 1492 DR (10:20) | Roleplay |
+| [**Scene 59**](#scene-59) | Elturel Outskirts - The River-Mists | Hammer 2, 1492 DR (11:45) | Roleplay |
+| [**Scene 60**](#scene-60) | The Chionthar Banks - East of Elturel | Hammer 2, 1492 DR (18:00) | Roleplay |
+| [**Scene 61**](#scene-61) | The Chionthar Banks - East of Elturel | Hammer 2, 1492 (18:15) | Roleplay |
+| [**Scene 62**](#scene-62) | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 DR (18:25) | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Skill Check / Combat |
+| [**Scene 64**](#scene-64) | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 DR (18:25) | Roleplay |
+| [**Scene 65**](#scene-65) | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 (18:26) | Roleplay |
+| [**Scene 66**](#scene-66) | The Weeping Willows - Chionthar Banks | Hammer 2, 1492 DR (18:40) | Roleplay |
+| [**Scene 67**](#scene-67) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 68**](#scene-68) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (18:50) | Roleplay |
+| [**Scene 69**](#scene-69) | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
+| [**Scene 70**](#scene-70) | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
+| [**Scene 71**](#scene-71) | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
+| [**Scene 72**](#scene-72) | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
+| [**Scene 73**](#scene-73) | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
+| [**Scene 74**](#scene-74) | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
+| [**Scene 75**](#scene-75) | The Weeping Willows - Ridge | Hammer 2, 1492 (18:55) | Roleplay |
+| [**Scene 76**](#scene-76) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:10) | Skill Check / Combat |
+| [**Scene 77**](#scene-77) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:15) | Skill Check / Combat |
+| [**Scene 78**](#scene-78) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:15) | Roleplay |
+| [**Scene 79**](#scene-79) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:20) | Roleplay |
+| [**Scene 80**](#scene-80) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:20) | Roleplay |
+| [**Scene 81**](#scene-81) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:20) | Roleplay |
+| [**Scene 82**](#scene-82) | The Weeping Willows - Ridge | Hammer 2, 1492 (19:20) | Roleplay |
+| [**Scene 83**](#scene-83) | The Weeping Willows - Ridge | Hammer 2, 1492 (19:20) | Roleplay |
+| [**Scene 84**](#scene-84) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:35) | Roleplay |
+| [**Scene 85**](#scene-85) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:40) | Roleplay |
+| [**Scene 86**](#scene-86) | The Weeping Willows - Ridge | Hammer 2, 1492 (19:40) | Roleplay |
+| [**Scene 87**](#scene-87) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:50) | Roleplay |
+| [**Scene 88**](#scene-88) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:45) | Roleplay |
+| [**Scene 89**](#scene-89) | Unknown |  | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (19:50) | Roleplay |
+| [**Scene 91**](#scene-91) | The Weeping Willows - Ridge | Hammer 2, 1492 (20:00) | Social Challenge |
+| [**Scene 92**](#scene-92) | The Weeping Willows - Ridge | Hammer 2, 1492 (20:10) | Roleplay |
+| [**Scene 93**](#scene-93) | The Weeping Willows - Ridge | Hammer 2, 1492 (20:10) | Roleplay |
+| [**Scene 94**](#scene-94) | The Weeping Willows - Ridge | Hammer 2, 1492 DR (20:25) | Roleplay |
+| [**Scene 95**](#scene-95) | Scornubel | Hammer 3, 1492 DR (16:30) | Skill Check / Combat |
+| [**Scene 96**](#scene-96) | Scornubel | Hammer 3, 1492 DR (16:30) | Roleplay |
+| [**Scene 97**](#scene-97) | Scornubel | Hammer 3, 1492 (16:30) | Skill Check / Combat |
+| [**Scene 98**](#scene-98) | Scornubel - The Dusty Spire District | Hammer 3, 1492 DR (17:30) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Scornubel - The Dusty Spire District | Hammer 4, 1492 DR (10:30) | Skill Check / Combat |
+| [**Scene 100**](#scene-100) | Scornubel - The Dusty Spire District | Hammer 3, 1492 DR (19:30) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Scornubel - The Dusty Spire District | Hammer 3, 1492 DR (19:30) | Roleplay |
+| [**Scene 102**](#scene-102) | Scornubel - Dusty Spire District (STA Annex 4) | Hammer 3, 1492 DR (23:15) | Skill Check / Combat |
+| [**Scene 103**](#scene-103) | Scornubel - Dusty Spire District (STA Annex 4) | Hammer 3, 1492 DR (23:20) | Skill Check / Combat |
+| [**Scene 104**](#scene-104) | Scornubel - Dusty Spire District (STA Annex 4) | Hammer 3, 1492 DR (23:25) | Skill Check / Combat |
+| [**Scene 105**](#scene-105) | Scornubel - STA Deep Vaults | Hammer 3, 1492 DR (23:55) | Skill Check / Combat |
+| [**Scene 106**](#scene-106) | Scornubel - STA Deep Vaults | Hammer 3, 1492 (23:55) | Skill Check / Combat |
+| [**Scene 107**](#scene-107) | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (00:25) | Skill Check / Combat |
+| [**Scene 108**](#scene-108) | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (01:10) | Skill Check / Combat |
+| [**Scene 109**](#scene-109) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:25) | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:25) | Skill Check / Combat |
+| [**Scene 111**](#scene-111) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:25) | Roleplay |
+| [**Scene 112**](#scene-112) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:25) | Roleplay |
+| [**Scene 113**](#scene-113) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:25) | Skill Check / Combat |
+| [**Scene 114**](#scene-114) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:25) | Skill Check / Combat |
+| [**Scene 115**](#scene-115) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (01:30) | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:31) | Skill Check / Combat |
+| [**Scene 117**](#scene-117) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 (01:31) | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | Scornubel - Eastern Tanning Yard (Storage Shed) | Hammer 4, 1492 DR (01:50) | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | Scornubel - Eastern Tanning Yard (Storage Shed) | Hammer 4, 1492 (01:50) | Skill Check / Combat |
+| [**Scene 120**](#scene-120) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:00) | Skill Check / Combat |
+| [**Scene 121**](#scene-121) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:15) | Skill Check / Combat |
+| [**Scene 122**](#scene-122) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:16) | Skill Check / Combat |
+| [**Scene 123**](#scene-123) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:30) | Skill Check / Combat |
+| [**Scene 124**](#scene-124) | Scornubel - Eastern Tanning Yard | Hammer 4, 1492 DR (02:40) | Skill Check / Combat |
+| [**Scene 125**](#scene-125) | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (03:45) | Skill Check / Combat |
+| [**Scene 126**](#scene-126) | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (03:55) | Skill Check / Combat |
+| [**Scene 127**](#scene-127) | Scornubel - STA Deep Vaults | Hammer 4, 1492 (03:55) | Skill Check / Combat |
+| [**Scene 128**](#scene-128) | Scornubel - STA Deep Vaults | Hammer 4, 1492 DR (11:55) | Skill Check / Combat |
+| [**Scene 129**](#scene-129) | Scornubel - STA Counting House | Hammer 4, 1492 DR (12:30) | Skill Check / Combat |
+| [**Scene 130**](#scene-130) | Scornubel - STA Counting House | Hammer 4, 1492 DR (12:40) | Skill Check / Combat |
+| [**Scene 131**](#scene-131) | Scornubel - The Broken Axle Tavern | Hammer 4, 1492 DR (13:45) | Skill Check / Combat |
+| [**Scene 132**](#scene-132) | Scornubel - The Broken Axle Tavern | Hammer 4, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 133**](#scene-133) | Scornubel - The Broken Axle Tavern | Hammer 4, 1492 DR (14:30) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Scornubel - Market Square | Hammer 4, 1492 DR (15:30) | Skill Check / Combat |
+| [**Scene 135**](#scene-135) | Scornubel - STA Council Hall | Hammer 4, 1492 DR (16:30) | Skill Check / Combat |
+| [**Scene 136**](#scene-136) | Scornubel - STA Council Hall | Hammer 4, 1492 DR (18:30) | Skill Check / Combat |
+| [**Scene 137**](#scene-137) | House Sosuke Enclave | Hammer 11, 1492 DR (18:30) | Skill Check / Combat |
+| [**Scene 138**](#scene-138) | House Sosuke Enclave | Hammer 11, 1492 (18:30) | Roleplay |
+| [**Scene 139**](#scene-139) | House Sosuke Enclave | Hammer 11, 1492 DR (18:30) | Roleplay |
+| [**Scene 140**](#scene-140) | Council Chambers | Hammer 18, 1492 DR (12:00) | Skill Check / Combat |
+| [**Scene 141**](#scene-141) | Council Chambers | Hammer 19, 1492 DR (11:30) | Skill Check / Combat |
+| [**Scene 142**](#scene-142) | Sovereign Council Chamber | Alturiak 3, 1492 DR (12:00) | Skill Check / Combat |
+| [**Scene 143**](#scene-143) | Sovereign Council Chamber | Alturiak 3, 1492 DR (12:00) | Roleplay |
+| [**Scene 144**](#scene-144) | Sovereign Council Chamber | Alturiak 3, 1492 DR (12:00) | Roleplay |
+| [**Scene 145**](#scene-145) | Darkhold Safe-house |  | Skill Check / Combat |
+| [**Scene 146**](#scene-146) | Sosuke Enclave study & Scornubel High Market | Alturiak 4, 1492 DR (11:30) | Skill Check / Combat |
+| [**Scene 147**](#scene-147) | Sosuke Enclave study & Scornubel High Market | Alturiak 4, 1492 DR (11:30) | Roleplay |
+| [**Scene 148**](#scene-148) | Sosuke Enclave |  | Skill Check / Combat |
+| [**Scene 149**](#scene-149) | Grand Dining Hall | Alturiak 4, 1492 DR (20:45) | Skill Check / Combat |
+| [**Scene 150**](#scene-150) | Grand Dining Hall | Alturiak 4, 1492 DR (20:45) | Roleplay |
+| [**Scene 151**](#scene-151) | Grand Dining Hall | Alturiak 4, 1492 DR (21:00) | Skill Check / Combat |
+| [**Scene 152**](#scene-152) | Grand Dining Hall | Alturiak 4, 1492 DR (21:15) | Skill Check / Combat |
+| [**Scene 153**](#scene-153) | Grand Dining Hall | Alturiak 4, 1492 (21:15) | Skill Check / Combat |
+| [**Scene 154**](#scene-154) | Grand Dining Hall | Alturiak 4, 1492 DR (21:25) | Skill Check / Combat |
+| [**Scene 155**](#scene-155) | Grand Dining Hall | Alturiak 4, 1492 DR (21:30) | Skill Check / Combat |
+| [**Scene 156**](#scene-156) | Grand Dining Hall | Alturiak 4, 1492 DR (21:45) | Skill Check / Combat |
+| [**Scene 157**](#scene-157) | Grand Dining Hall | Alturiak 4, 1492 DR (21:45) | Roleplay |
+| [**Scene 158**](#scene-158) | Grand Dining Hall | Alturiak 4, 1492 DR (21:45) | Roleplay |
+| [**Scene 159**](#scene-159) | Study | Alturiak 4, 1492 DR (23:00) | Skill Check / Combat |
+| [**Scene 160**](#scene-160) | Gates | Alturiak 5, 1492 DR (00:00) | Skill Check / Combat |
+| [**Scene 161**](#scene-161) | Gates | Alturiak 5, 1492 DR (00:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Thay** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Merchant | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Exhaustion: 0**
@@ -210,8 +226,11 @@ Welcome to character creation. Before we begin the journey across Faerûn, we ne
 > 👤 **Player:**
 > *"Make me a specialized swords bard variant and start me level 6 with extra attack. Give me some level 4 companions as merchant traveling party. Give me reasonable amount of gold and +1 gear since I’ve been relatively successful businessman."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Thay** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | Gold: 750gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -240,8 +259,11 @@ Does this character and party meet your approval, or would you like to make furt
 > 👤 **Player:**
 > *"Give me 8 str and 12 wisdom and give me stealth focussed gear and armor and spells and don’t forget my skills. Put my skills into social ones. Let’s also assume most people’s underestimate me and my crew since we are merchants but we are orettty strong and we are slave traders too secretly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Thay** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 750gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -267,8 +289,11 @@ Does this lethal, shadowed version of Aizen meet your approval?
 > 👤 **Player:**
 > *"Give me something specialized thematic to a thayan scion and let’s assume I hide my heritage so people don’t really know I am from that. Give me 5000 starting gold and assume I am leaving  that with 5 male and 5 female valuable slaves who are very atttacrive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Thay - Outskirts** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 1500gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -301,8 +326,11 @@ Does this lethal, shadowed version of Aizen meet your approval, or shall we begi
 > 👤 **Player:**
 > *"Just give me 5000g and let’s assume I made a lot of profit in baldurs gate. We kidnapped the 10 slaves so they aren’t trained and we will leave and sell them at the next city where slaves acceptable. Let’s start the game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Thay - Outskirts (The High Road)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -316,8 +344,11 @@ Thalric and Nyssa follow behind with the second wagon, keeping the pace steady. 
 God Mode:
 I wanna be leaving baldurs gate. Assume I just did my first trip from thay to baldurs gate and now wanna head back to thay but will make stops along the wayb
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Baldur's Gate - Outer City** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14000/23000**
@@ -332,8 +363,11 @@ Administrative Correction: Starting context updated. Aizen is no longer departin
 > 👤 **Player:**
 > *"Return to game and assume we are heading to the next major city east of baldurs gate and we will see if we can sell the slaves there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Coast Way - Heading East** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -347,8 +381,11 @@ Beneath the boards of your feet, the 'Gilded Ten' remain silent, though you can 
 > 👤 **Player:**
 > *"Inspect gilded ten. Narrate their descriptions physically. I strip them naked and inspect them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Secluded Grove, East of Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14350/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -368,8 +405,11 @@ Nyssa (Lvl 4 Ranger) approaches, her usual scout's composure shattered. She star
 > [!NOTE] ⚙️ **Player Choice:**
 > *Grant Nyssa Private Audience - Allow Nyssa 10 minutes to interrogate the half-elf slave privately while you and the others secure the wagons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Secluded Grove, East of Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14450/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -396,8 +436,11 @@ Meanwhile, Lukan the scholar remains perfectly still, his eyes downcast. You don
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene with Kaelith - Step in and use your own silver tongue to break Kaelith where Nyssa's sentimentality failed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Secluded Grove, East of Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14600/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -419,8 +462,11 @@ You gain 150 XP for breaking Kaelith's initial psychological resolve.
 > 👤 **Player:**
 > *"Heal mirella delegate lukan investigation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Secluded Grove, East of Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | Gold: 5000gp | XP: 14750/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -446,8 +492,11 @@ In the distance, the faint, rhythmic drumming of hooves echoes from the Coast Wa
 God Mode:
 Does flaming fist make sense elturel?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Secluded Grove, East of Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | XP: 14750/23000** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -467,8 +516,11 @@ Time remains frozen at Hammer 1, 12:40:00. No narrative advancement has occurred
 God Mode:
 Let’s assume thay has special spells and magic for slave compliance so it’s not easy for them to just ask for help
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Secluded Grove, East of Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14750/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: Yes**
@@ -484,8 +536,11 @@ I have updated your character's active effects and the campaign's global directi
 > 👤 **Player:**
 > *"Personally try to see if lukan or whatever slave trying escape"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Secluded Grove, East of Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 14750/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Gold: 5000** &nbsp;|&nbsp; ⚠️ **Deceptive Underestimation, Mark of the Red Scion | Exhaustion: 0 | Inspiration: No**
@@ -501,8 +556,11 @@ Nyssa (Lvl 4) watches you, her eyes still red-rimmed from her confrontation with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare the Merchant Facade - Have Thalric forge additional manifests to match the cargo as 'legitimate servants' and prepare your own silver tongue for the Fist guards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Coast Way, East of Chionthar Bridge** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 15600/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -528,8 +586,11 @@ You are now two miles east of the bridge, the road ahead opening into the rollin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push for Elturel - Increase the pace to reach the city's outskirts before nightfall, hoping to find a private villa or less-reputable quarter to house the merchandise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Elturgard Outskirts** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 15850/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -547,8 +608,11 @@ You take a moment to smooth your hair, the cold air stinging your cheeks, and pr
 > 👤 **Player:**
 > *"exhaustd noble and roadside hospitality"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Elturgard Outskirts** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -578,8 +642,11 @@ You gain **300 XP** for successfully initiating the social bypass of the Hellrid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Read Horgus's Ambition - Use Insight to see if the Sergeant is more motivated by duty, greed, or a desire for recognition; tailor the next argument to his specific weakness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Elturgard Outskirts** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -593,8 +660,11 @@ The silence stretches, punctuated only by the clinking of the horses' tack and t
 > 👤 **Player:**
 > *"continue the evening and keep my eye out and see if any leads present themselvves but dont push too hard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Elturgard Outskirts** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -619,8 +689,11 @@ A lone traveler, a weathered man leading a mule laden with empty crates named El
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Nyssa on Defense - Step away from the wagons for a 'private word' with your scout to see if she can identify a safer path or a defensive position in case those ridge-silhouettes return.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Elturgard Outskirts - Roadside Vineyard** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -638,8 +711,11 @@ You glance back at Sergeant Horgus (Lvl 5), who is currently finishing his wine 
 > 👤 **Player:**
 > *"Mention my zhent suspicions to horgus and ask if he can hangout with us a bit more but maybe we can inspect as we move so it doesn’t get too dark and zhent easy ambush"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0**
@@ -659,8 +735,11 @@ You have kept the law between you and the shadow, but the Sergeant is now closer
 > 👤 **Player:**
 > *"THINK:Can I trigger the zhent strike and get hellriders to help us?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000**
@@ -670,8 +749,11 @@ You pause, your eyes tracking the flickering shadows outside the shed as you wei
 > 👤 **Player:**
 > *"THINK:Synergistic Ambush (Nyssa + Aizen) - Nyssa 'spots' a scout and draws fire while Aizen uses Persuasion to 'panic' and beg Horgus for a protective charge."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | XP: 16150/23000** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4**
@@ -681,8 +763,11 @@ The story continues...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synergistic Ambush (Nyssa + Aizen) - Nyssa 'spots' a scout and draws fire while Aizen uses Persuasion to 'panic' and beg Horgus for a protective charge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -712,8 +797,11 @@ Despite your failed manipulation, Nyssa's bait has worked. More bolts hiss throu
 God Mode:
 Let’s retcon the scene I just wanted help not to manipulate him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000**
@@ -731,8 +819,11 @@ Retcon successful. The narrative framing of Aizen's interaction with Sergeant Ho
 > [!NOTE] ⚙️ **Player Choice:**
 > *Counter-Ambush Zhentarim - Lead your companions (Varkas, Nyssa) to hit the Zhentarim scouts from the flank while they engage the riders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -767,8 +858,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"I have extra attack so use it and don’t forget again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 5,000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Bardic Inspiration: 4/4 | Blade Flourish: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -801,8 +895,11 @@ YOUR TURN - ACTIONS REMAINING:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Slashing Flourish - Expend a Bardic Inspiration die to deal extra damage to the target and another creature within 5 feet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -830,8 +927,11 @@ You gracefully retreat 15 feet toward the Hellrider line, the silk of your cloak
 > 👤 **Player:**
 > *"Make sure my companions focus fire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 0/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -866,8 +966,11 @@ YOUR TURN - ACTIONS REMAINING:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execution Strike - Close the distance and use your Extra Attack to finish the Infiltrator personally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -890,8 +993,11 @@ Sergeant Horgus (Lvl 5) watches the execution from behind his shield, his jaw se
 > 👤 **Player:**
 > *"Use bonus action to kick the Zhent or break his leg"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -909,8 +1015,11 @@ Beside her, Thalric (Lvl 4) is already eyeing the leader's belt pouches with sch
 > 👤 **Player:**
 > *"Loot leader and interrogate and let horgus listen to interrogation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5000gp | XP: 17300/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **Deceptive Underestimation, Mark of the Red Scion | Exhaustion: 0 | Inspiration: Yes**
@@ -955,8 +1064,11 @@ Sergeant Horgus (Lvl 5) lets out a low whistle, his expression shifting from war
 > 👤 **Player:**
 > *"Dig baldurs gate contact and offer battle reparstions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,120gp | XP: 17300/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -983,8 +1095,11 @@ Horgus (Lvl 5) watches the purse with a look that is neither greedy nor offended
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Redirect to a Private Villa - Argue that your 'servants' are too traumatized for the city gates and suggest Horgus escort you to a private contact's villa outside the walls instead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Elturgard Outskirts - Fermentation Shed** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 17800/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1011,8 +1126,11 @@ Horgus (Lvl 5) looks from you to the Gilded Ten (Lvl 1). Kaelith (Lvl 4) is star
 > 👤 **Player:**
 > *"Let’s assume I have a real contact and proceed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Verdant Barrel Villa** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 18750/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1046,8 +1164,11 @@ In the cellar, Kaelith (Lvl 4) sits with her back to a wine cask, her emerald ey
 > [!NOTE] ⚙️ **Player Choice:**
 > *Entertain & Scrub (Synergistic) - Aizen performs in the main hall (Performance) to hold the riders' attention while Thalric and Nyssa coordinate to scrub the cellar and secure the slaves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Verdant Barrel Villa** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 5,240gp | XP: 19650/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 3/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **Sanctuary: The Verdant Barrel (14) | Exhaustion: 0 | Inspiration: Yes**
@@ -1083,8 +1204,11 @@ Horgus looks back at you, the tension in his shoulders finally beginning to blee
 > 👤 **Player:**
 > *"time skip until horgus leaves or something happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Verdant Barrel Villa** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | XP: 19650/23000** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 3/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -1112,8 +1236,11 @@ Outside, the wind picks up, carrying the faint, whistled signal of a bird that d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Orryn (Stealth) - Use your elvenkind gear to reach the postern gate silently and neutralize Orryn before he can fully open it for the Zhentarim.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Verdant Barrel Villa - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 19850/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1144,8 +1271,11 @@ Orryn freezes, his knees buckling. He doesn't struggle; the weight of your prese
 > 👤 **Player:**
 > *"bring him inside, have my men secure hima nd secure the gilded 10 so they're unlikely to be discovered, itnerrogate him and have my men defensisve scout zhetn and see how close to tattack they are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Verdant Barrel Villa - Cloakroom** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (03:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 19850/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 3/3, L3 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1163,8 +1293,11 @@ Orryn is a shivering heap at your feet, his betrayal laid bare. Outside, the win
 > 👤 **Player:**
 > *"silence cellar, wake the riders, propose riders do frontal assault while we flank surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Verdant Barrel Villa - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 20150/23000** &nbsp;|&nbsp; ✨ **HD 6/6 | Spells: L1 3/4, L2 2/3, L3 3/3 | Inspiration 4/4 | Exhaustion: 0**
@@ -1184,8 +1317,11 @@ Outside the walls, the whistled signals suddenly stop. The silence that follows 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Flank - Charge into the vineyards immediately to catch the Zhentarim before they can fully reposition, using your Extra Attack to break their scouts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Verdant Barrel - Vineyards** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (03:31)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 20150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3 | Bardic Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1203,8 +1339,11 @@ At the main gates, the Hellriders' roar and the clash of steel signal the fronta
 God Mode:
 i should have a finesse weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Verdant Barrel - Vineyards** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (03:31)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5240gp | XP: 20150/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1214,8 +1353,11 @@ Character equipment updated. Swapped 'Longsword +1' for 'Rapier +1' (1d8 piercin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish the Wounded - Focus your next attacks on the crippled scouts (Scouts 4, 5, 6) to remove them from the turn order immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Verdant Barrel - Vineyards** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (03:32)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 20150/23000**
@@ -1231,8 +1373,11 @@ At the main gates, the roar of Sergeant Horgus (Lvl 5) and the rhythmic clash of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Flank Cleanup (Synergistic) - You execute Scout 4 while Nyssa snipes Scout 6 off the ladder - clearing the rear simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Verdant Barrel - Vineyards** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (03:33)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 20250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 2/3, L3 3/3 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1250,8 +1395,11 @@ At the main gates, the rhythmic clang of Hellrider steel and the bellows of Serg
 > 👤 **Player:**
 > *"have everyone focus fire ranged"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Verdant Barrel - Vineyards** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (03:33)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 20250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 2/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1292,8 +1440,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"time skip until zhent scouts finished, make sensible decisions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Verdant Barrel - Vineyards** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,420gp | XP: 20900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3 | Inspiration: 4/4 | Silence: Active (45 min remaining)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1325,8 +1476,11 @@ Inside the villa, the 'Gilded Ten' (Lvl 1) remain anchored in the soundless void
 > 👤 **Player:**
 > *"THINK:wahts most sensible next steps to maintain facade and handle zhent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Verdant Barrel - Vineyards** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,420gp | XP: 20900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1336,8 +1490,11 @@ Intelligence Check: 17 vs DC 9 — Success. Your sharp Thayan upbringing in the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Traitor's Branding - Publicly 'discover' Zhentarim coin and the cipher in Orryn's personal quarters (using Sleight of Hand). Frame him as a Zhentarim sleeper agent who 'kidnapped' your servants to lure the Hellriders into an ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Verdant Barrel Villa - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,240gp | XP: 20400/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1364,8 +1521,11 @@ Nyssa (Lvl 4) watches you from the shadows of the guest wing, her bow slung. She
 > 👤 **Player:**
 > *"lets not take any risks and just try to resolve the situation and get these hellriders in pursuit of zhent vs around our slaves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Verdant Barrel - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,420gp | XP: 20900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 2/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1385,8 +1545,11 @@ Nyssa (Lvl 4) watches them depart, then turns to you, her voice a sharp whisper.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Disciplinarian's Hand - Enter the cellar personally and use Intimidation to break Lukan's spirit. Make an example of his failed 'freedom' to ensure the rest of the Gilded Ten remain compliant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Verdant Barrel - Villa Cellar** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,420gp | XP: 20900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 2/3, L3 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1404,8 +1567,11 @@ Outside, the two young Initiates (Lvl 2) at the gate shift their weight, their a
 > 👤 **Player:**
 > *"THINK:if i leave now is it justifiable to horgus?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Verdant Barrel - Villa Cellar** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,420gp | XP: 20900/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1415,8 +1581,11 @@ Intelligence Check: 19 vs DC 12 — Success. Your methodical Thayan education in
 > 👤 **Player:**
 > *"THINK:how do reduce DC for strategic withdrawal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Verdant Barrel - Villa Cellar** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,420gp | XP: 20900/23000**
@@ -1426,8 +1595,11 @@ Intelligence Check: 19 vs DC 11 — Success. Your methodical mind dissects the b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Optimized Strategic Withdrawal (Synergistic) - Combine the optimized paperwork and the hero's bribe for a seamless exit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **The High Road (East of the Verdant Barrel)** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | XP: 21350/23000** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 2/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -1443,8 +1615,11 @@ Beneath the boards, the 'Gilded Ten' (Lvl 1) remain silent, though the aura of y
 > 👤 **Player:**
 > *"THINK:Which city better for selling. Do we already have contacts in elturel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The High Road (East of the Verdant Barrel)** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 21350/23000**
@@ -1454,8 +1629,11 @@ Intelligence Check: 14 vs DC 9 — Success. Your Thayan education in internation
 > 👤 **Player:**
 > *"THINK:What if we head to next city but I go scout elututel for any buyers. Then if they want the slaves they gotta come outside to get them."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The High Road (East of the Verdant Barrel)** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 21350/23000**
@@ -1465,8 +1643,11 @@ Intelligence Check: 14 vs DC 11 — Success. Your methodical mind (INT 14) sifts
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hero's Inquiry - Enter Elturel as the noble victim of a Zhentarim raid. Use your rapport with the initiates to get names of 'discreet' contacts who might help a noble 'refurnish' his retinue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Elturel - Maiden's Leap District** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 21350/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 2/3, L3 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1484,8 +1665,11 @@ The rapport you built at the villa has turned brittle. The initiates do not offe
 > 👤 **Player:**
 > *"THINK:How to best recover"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Elturel - Maiden's Leap District** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 21350/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1495,8 +1679,11 @@ Intelligence Check: 19 vs DC 13 — Success. Your Thayan education in courtly da
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Philanthropic Pivot - Claim your inquiry was for 'discreet' help finding the kidnapped relatives of Nyssa or Varkas. Offer a 'bounty' for information to the initiates to prove your noble intent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Elturel - Maiden's Leap District** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 45/45 | XP: 21500/23000** &nbsp;|&nbsp; ✨ **Spells: L1 3/4, L2 2/3, L3 3/3 | Bardic Inspiration: 0/4**
@@ -1519,8 +1706,11 @@ The rapport is restored, and the 'Hero' status is reaffirmed. However, as you tu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Mists - Abandon the city inquiry for now and return to the wagons. Have Nyssa lose the tail through the crowded market while you reposition the cargo.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Elturel Outskirts - The River-Mists** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 21900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 2/3, L3 3/3, Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1541,8 +1731,11 @@ Beneath the boards, the Gilded Ten (Lvl 1) are a silent, heavy weight. You can f
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Scornubel Gambit - Head directly east toward Scornubel. If the Shadow-Caster wants the scion, give him a target—then use the Hellriders' debt to crush his local cell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **The Chionthar Banks - East of Elturel** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 21900/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 2/3, L3 3/3, Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1564,8 +1757,11 @@ He wheels his horse and vanishes back into the fog, leaving you with a fresh war
 > 👤 **Player:**
 > *"thayan counter scout but have my forces follow too an try to find shadow casper"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **The Chionthar Banks - East of Elturel** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 22050/23000**
@@ -1587,8 +1783,11 @@ Nyssa (Lvl 4) and Varkas (Lvl 4) follow the caravan's trail, their eyes fixed on
 > 👤 **Player:**
 > *"I should already be invis from last tunr, lets do coordinate nyssa circle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **The Weeping Willows - Chionthar Banks** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 22050/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 2/3, L3 3/3 | Inspiration: 4/4**
@@ -1612,8 +1811,11 @@ Disaster strikes not from your own position, but from the flank. Nyssa (Lvl 4 Ra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invisible Execution Strike - Use your invisibility to reach the ridge and deliver a devastating sneak attack with your Rapier +1 (Advantage on attack).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -1636,8 +1838,11 @@ Malakor: 34 → 28 HP. You drop into a low, defensive stance, the residual magic
 > 👤 **Player:**
 > *"Use extra attack green flame cantrip and bonus action try break his lef"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Weeping Willows - Chionthar Banks** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 22050/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3 | Inspiration: 3/4 | HD: 6/6** &nbsp;|&nbsp; ⚠️ **Defensive Flourish (+5 AC) | Exhaustion: 0 | Inspiration: 3/4**
@@ -1663,8 +1868,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"Make sure you use both of my attacks and I use bonus action try break leg again and tell others to focus fire him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Weeping Willows - Chionthar Banks** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:26)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 22050/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3 | Inspiration: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1680,8 +1888,11 @@ Malakor (Lvl 6) lies bloodied in the dirt, his leg twisted at a grotesque angle,
 > 👤 **Player:**
 > *"Non lethal knockout and bind"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The Weeping Willows - Chionthar Banks** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/45 | Gold: 5,370gp | XP: 22750/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 1/3, L3 3/3, Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/4)**
@@ -1697,8 +1908,11 @@ Sergeant Horgus (Lvl 5) watches the binding with a grim, appreciative nod, thoug
 > 👤 **Player:**
 > *"Non lethal knockout and bind"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 22450/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3 | Inspiration: 4/4 | Gold: 5,370gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1716,8 +1930,11 @@ Below the ridge, the two Hellrider Initiates, Kaelen (Lvl 2) and Aris (Lvl 2), w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Interrogation - Use the mists and your 'Hero' status to demand a private moment with the prisoner to 'assess his magical threat'. Use Deception or Intimidation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 45/45 | Gold: 5,370gp | XP: 22450/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 1/3, L3 3/3, Bardic: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1739,8 +1956,11 @@ The silence of the mists returns, heavier than before. The initiates watch you w
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Kinship Leverage - Have Nyssa (Lvl 4) approach the initiates and distract them with a 'discovery' in the reeds related to her 'lost kin,' pulling them away from the ridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Lvl 7 available) | HP: 45/45 | Gold: 5,370gp | XP: 23050/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 1/3, L3 3/3, Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1760,8 +1980,11 @@ You gain **600 XP** for concluding the Zhentarim pursuit arc and the successful 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mediate on Power (Level Up) - Take a moment to center yourself and integrate the experiences of the road, reaching Level 7.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Lvl 7 available) | HP: 45/45 | Gold: 5,370gp | XP: 23050/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 1/3, L3 3/3, Inspiration: 3/4 (Level 7 pending)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1775,8 +1998,11 @@ You take a moment to center yourself amidst the blinding, constant light of Eltu
 > 👤 **Player:**
 > *"Greater invis and finish level up and do recommended options"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 52/52 | Gold: 5,370gp | XP: 23050/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1790,8 +2016,11 @@ The world returns to its sharp, cold reality. Malakor (Lvl 6) remains bound and 
 God Mode:
 Why are these hellriders so serious about the rules? Is it lore appropriate?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5370gp | XP: 23050/34000**
@@ -1816,8 +2045,11 @@ You are a Thayan scion. In the eyes of an Elturgard Hellrider, Thay is a literal
 > 👤 **Player:**
 > *"THINK:How to get rid of these hellriders?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23050/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -1827,8 +2059,11 @@ Intelligence Check: 14 vs DC 12 — Success. Your methodical Thayan education in
 > 👤 **Player:**
 > *"THINK:What if I just kill them and blame the zhent? I have enough Zhent equipment and stuff could I pull it off?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23050/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1838,8 +2073,11 @@ Intelligence Check: 14 vs DC 14 — Success. Your Thayan upbringing in the court
 God Mode:
 is nyssa a thayan why is she so moral?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23050/34000**
@@ -1865,8 +2103,11 @@ Her morality is currently under extreme stress. Seeing Kaelith (a Green Warden) 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Zealot's Errand - Use Deception/Persuasion to convince the initiates that you've spotted Zhentarim scouts flanking the wagons. Urge them to ride to the defense of the 'merchandise' while you hold the ridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23250/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 1/1 | Inspiration: 3/4 | Exhaustion: 0**
@@ -1888,8 +2129,11 @@ You turn slowly toward Malakor (Lvl 6), your shadow stretching long and jagged a
 > 👤 **Player:**
 > *"cast command to just force him to tell me stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (College of Swords) | HP: 45/45 | XP: 23450/34000** &nbsp;|&nbsp; ✨ **Spells: L1 2/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 3/4**
@@ -1907,8 +2151,11 @@ Behind you, Varkas (Lvl 4) and Nyssa (Lvl 4) remain watchful, though Nyssa’s e
 > 👤 **Player:**
 > *"cast command to just force him to tell me stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (College of Swords) | HP: 45/45 | XP: 23250/34000** &nbsp;|&nbsp; ✨ **Spells: L1 2/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 3/4**
@@ -1924,8 +2171,11 @@ He lets out a rattling, wet laugh, seemingly emboldened by his resistance. But a
 > 👤 **Player:**
 > *"thayan whisper and then use friends on him to persuade him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23250/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 4/4 | Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -1948,8 +2198,11 @@ He closes his eyes, his breathing shallow but deliberate. The interrogation has 
 God Mode:
 isnt friends supposed to give me advantage, did you properly do that?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5370gp | XP: 23250/34000**
@@ -1976,8 +2229,11 @@ The *Friends* cantrip explicitly states: "For the duration, you have advantage o
 > 👤 **Player:**
 > *"lets redo the scene and i used charm person instead of friends, keep my other rolls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23250/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1, Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2002,8 +2258,11 @@ He closes his eyes, his breathing shallow but deliberate. The interrogation has 
 > 👤 **Player:**
 > *"THINK:any other ideas"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23250/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2013,8 +2272,11 @@ Intelligence Check: 16 vs DC 14 — Success. Your methodical mind (INT 14) disse
 > 👤 **Player:**
 > *"THINK:is there a way i can deescalate things with the zhent, i dont really wanna fight them unless ihave to"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23250/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2024,8 +2286,11 @@ Intelligence Check: 18 vs DC 16 — Success. Your methodical mind (INT 14) works
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Blood-Silk Alliance (Synergistic) - Combine the return of Malakor with a proposal for a joint venture. Offer the Zhentarim a 10% stake in your 'domestic servant' trade in exchange for total protection through the Reaching Woods.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23250/34000**
@@ -2041,8 +2306,11 @@ From the southern reeds, the rhythmic splashing of the Hellrider initiates' hors
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Master's Bounty (25%) - Increase the stake to 25% and offer a down payment from your current gold to show good faith.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,370gp | XP: 23250/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1, Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2069,8 +2337,11 @@ He closes his eyes, his breathing shallow and deliberate, retreating into a wall
 > 👤 **Player:**
 > *"THINK:How can I avoid him talking about mr"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 4,870gp | XP: 23250/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2080,8 +2351,11 @@ Intelligence Check: 14 vs DC 15 — Failed by 1. Your thoughts feel slightly slu
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Vulture's End - Quietly execute him now and blame the 'Shadow-Caster's sister' for a magical assassination from the ridges. Use your Zhentarim gear to frame the 'murder'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (College of Swords) | HP: 45/45 | XP: 23700/34000** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 3/4**
@@ -2113,8 +2387,11 @@ Your words carry the weight of a scion's conviction, and the young riders, alrea
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Vulture's End - Quietly execute him now and blame the 'Shadow-Caster's sister' for a magical assassination from the ridges. Use your Zhentarim gear to frame the 'murder'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (College of Swords) | HP: 45/45 | XP: 24300/34000** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 3/4**
@@ -2148,8 +2425,11 @@ They see a tragic assassination, not a calculated execution. The 'Hero' stands o
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Vulture's End - Quietly execute him now and blame the 'Shadow-Caster's sister' for a magical assassination from the ridges. Use your Zhentarim gear to frame the 'murder'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 
@@ -2182,8 +2462,11 @@ Nyssa (Lvl 4) watches from the treeline, her bow slung. She saw the glint of you
 God Mode:
 make sure you already gave me proper exp for defeating malachor and these social vitories
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,240gp | XP: 25300/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2208,8 +2491,11 @@ State updated. Done.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate the 'Hero' Narrative - Publicly mourn Malakor's 'assassination' and offer to lead the Hellriders to Scornubel to 'seek justice,' using them as a shield for the rest of the journey.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 38/45 | Gold: 4,870gp | XP: 25450/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -2238,8 +2524,11 @@ They stay rooted to the spot, their spears trembling. The 'Hero' has their sympa
 > 👤 **Player:**
 > *"Say we need to strike before Zalia consolidates. my crew will go ahead and we have some allies in scornbel. say the initiates are brave and they should just return to horgus and report what happened and if they wish can send me reinforcements from hellriders. if we stay here and wait for horgus we are sitting ducks and might die just like malakor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 4,870gp | XP: 25700/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1 | Inspiration: 3/4**
@@ -2273,8 +2562,11 @@ At the base of the ridge, Nyssa (Lvl 4) watches the Hellriders depart. She stand
 > 👤 **Player:**
 > *"THINK:how to probe nyssa and try to corrupt her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 4,870gp | XP: 25700/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2284,8 +2576,11 @@ Wisdom Check: 14 vs DC 15 — Failed by 1. Your instincts regarding Nyssa's inte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Nyssa's Suspicion - Speak with Nyssa privately. Use your Persuasion or Intimidation to ensure her silence about Malakor's execution.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **The Weeping Willows - Ridge** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 4,870gp | XP: 25700/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1, BI: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/4)**
@@ -2305,8 +2600,11 @@ From the distance, the wind carries the faint, rhythmic drumming of hooves. It i
 > 👤 **Player:**
 > *"head to scornubel and look for allies there, keep working on nyssa to try to corrupt her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 5,240gp | XP: 25850/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1 | Inspiration: 3/4 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 1 | Inspiration: Yes**
@@ -2335,8 +2633,11 @@ You gain 150 XP for the transition to Scornubel and the psychological pressure p
 God Mode:
 aizen is my first name, my house is called sosuke
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 4,870gp | XP: 25850/34000**
@@ -2346,8 +2647,11 @@ Administrative Correction: Identity parameters updated. Your character's name is
 > 👤 **Player:**
 > *"THINK:who are the zhent enemies in this city or different zhent factions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 4,870gp | XP: 25850/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -2359,8 +2663,11 @@ Intelligence Check: 17 vs DC 15 — Success. Your Thayan education in the histor
 > 👤 **Player:**
 > *"get pricing on shield brothers and send a scouts for zhent loyalists and free merchants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Scornubel - The Dusty Spire District** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 4,870gp | XP: 25850/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2379,8 +2686,11 @@ Nyssa (Lvl 4) slides into the booth beside you, her hood pulled low. "I've seen 
 > 👤 **Player:**
 > *"hire the 10 shield brothers and then go court the trade alliance wit hharkon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Scornubel - The Dusty Spire District** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,370gp | XP: 25850/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1, Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2410,8 +2720,11 @@ Repositioning the 'retinue' to a secure STA-affiliated warehouse, you proceed to
 > 👤 **Player:**
 > *"hire the 10 shield brothers for the month and then go court the trade alliance wit hharkon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Scornubel - The Dusty Spire District** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,670gp | XP: 28550/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1, Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -2438,8 +2751,11 @@ In the shadows of the square, Nyssa (Lvl 4) watches you with a hollow, unblinkin
 God Mode:
 what level are my 10 shield bros? lets assume by default they always come with me and participate in battles and dont forget about them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Scornubel - The Dusty Spire District** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (College of Swords) | HP: 45/45 | XP: 28550/34000** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 3/4**
@@ -2456,8 +2772,11 @@ The 10 Shield Brothers are Level 4 Heavy Infantry. I have updated your army reco
 > 👤 **Player:**
 > *"use shield bros to wait zhent into failure and try to surprise the zhent stalkers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Scornubel - Dusty Spire District (STA Annex 4)** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,670gp | XP: 29000/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, L3 3/3, L4 1/1, Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2481,8 +2800,11 @@ But the Shield Brothers do not falter. Just as two dark silhouettes drop from th
 > 👤 **Player:**
 > *"hyp pattern and just surround and have everyone bind them if it works"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Scornubel - Dusty Spire District (STA Annex 4)** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,670gp | XP: 25950/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | Inspiration: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2501,8 +2823,11 @@ The Shield Brothers (Lvl 4) move with the synchronized roar of a machine. Halber
 > 👤 **Player:**
 > *"heavy grapple and everyone else knocks them out and i vicious mockery"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Scornubel - Dusty Spire District (STA Annex 4)** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,710gp | XP: 30200/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 1/3, L3 2/3, L4 1/1 | Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2532,8 +2857,11 @@ Thalric (Lvl 4) steps forward with heavy manacles, his hands steady as he ratche
 > 👤 **Player:**
 > *"bind them, leverage with harkon, bring to secure location so zalia doesnt nkow they failed yet, interrogate them and cast command on them to try to get them to talk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,710gp | XP: 31200/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 1/3, L3 1/3, L4 1/1, Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -2565,8 +2893,11 @@ A frantic splashing of hooves echoes from the upper courtyard. A messenger in He
 > 👤 **Player:**
 > *"THINK:which zhent faction is zalia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 3, 1492 (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,710gp | XP: 31200/34000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2578,8 +2909,11 @@ Intelligence Check: 19 vs DC 15 — Success. Your Thayan education in the histor
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Political Wedge - Send a message to the local Zhentarim leadership (the Darkhold loyalists) informing them that Zalia's rogue 'Doomshaper' cell is responsible for the warehouse massacre, inviting them to 'clean their own house' or face a STA-led purge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,710gp | XP: 32150/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 1/1 | Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2607,8 +2941,11 @@ You gain **950 XP** for executing a significant political maneuver and manipulat
 > 👤 **Player:**
 > *"mind breaker inquiry and talk to STA and askthem for forces/men to coordinate a trap for zalia or strike her down. send scouts to see if we can detect zalia movements"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,710gp | XP: 33650/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 1/1 | Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2633,8 +2970,11 @@ The pieces are on the board. With the STA enforcers and your Shield Brothers for
 > 👤 **Player:**
 > *"Iron gavel first and then silent scalpel when distracted and wait for the best opportunity to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 45/45 | Gold: 3,710gp | XP: 33650/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 0/1 | Bardic Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (1 hour) | Exhaustion: 0 | Inspiration: Yes**
@@ -2657,8 +2997,11 @@ Zalia snarls, her ritual interrupted, her gaze snapping toward the heavy infantr
 > 👤 **Player:**
 > *"Scions verdict and use both attacks green flame blade bardic inspiration everything I have and use bonus action to try to break her leg"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Lvl 8 available) | HP: 45/45 | Gold: 3,710gp | XP: 34850/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 0/1 | Bardic Inspiration: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Defensive Flourish (+4 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -2684,8 +3027,11 @@ In the same fluid motion, you lash out with a brutal, low-profile kick aimed at 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrate the Victory (Level Up) - The lethal clarity of the strike has pushed your power to its next peak. Finalize your growth to Level 8 before the battle continues.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Lvl 8 available) | HP: 45/45 | Gold: 3,710gp | XP: 34850/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 0/1 | Bardic Inspiration: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -2705,8 +3051,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,710gp | XP: 34850/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 1/2 | Inspiration: 5/5 | Gold: 3,710gp** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -2720,8 +3069,11 @@ The battle resumes with a sudden, sharp clarity. Zalia (Lvl 8) is reeling, her n
 > 👤 **Player:**
 > *"Coordinate pincer and use my booming blade and two attacks and bardic inspiration to keep dps on zalia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,710gp | XP: 34850/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -2747,8 +3099,11 @@ Zalia (Lvl 8) is reeling, blood slicking her boots as she balances precariously 
 > 👤 **Player:**
 > *"THINK:Is it better to capture her or just kill her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,710gp | XP: 34850/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Booming Blade (Active) | Exhaustion: 0 | Inspiration: 4/5**
@@ -2760,8 +3115,11 @@ Deep night (01:25:20:000001) in the Scornubel Tanning Yard—the world slows to 
 > 👤 **Player:**
 > *"Knock her out and then demand surrender from the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,710gp | XP: 38350/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 4/5 | Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -2806,8 +3164,11 @@ The six veterans freeze, their dark-steel shields locked as they stare at the 'H
 > 👤 **Player:**
 > *"Iron verdict kill half and try capture half. Have everyone help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 (01:31)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 45/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 3/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2860,8 +3221,11 @@ Inside the villa vaults, the 'Gilded Ten' (Lvl 1) remain frozen, but the 'Master
 > 👤 **Player:**
 > *"THINK:Should I just kill the rest of the zhent or try ally with them ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 (01:31)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2873,8 +3237,11 @@ Intelligence Check: 19 vs DC 13 — Success. Your methodical mind (INT 14) disse
 > 👤 **Player:**
 > *"Extract zalia safe location and interrogate using thayan magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Scornubel - Eastern Tanning Yard (Storage Shed)** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 3/5** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Expiring) | Inspiration: Yes | Exhaustion: 0**
@@ -2906,8 +3273,11 @@ Nyssa (Lvl 4) steps into the shed, her bow slung but her emerald eyes cold and f
 > 👤 **Player:**
 > *"THINK:Anything better I can do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Scornubel - Eastern Tanning Yard (Storage Shed)** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2919,8 +3289,11 @@ Intelligence Check: 14 vs DC 15 — Failed by 1. Your thoughts snag on the immed
 > 👤 **Player:**
 > *"Try to get sta to help me with the watch maybe they have connections. Explain we had to act to defeat zalia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic: 3/5 | Greater Invisibility: Active** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2955,8 +3328,11 @@ In the shadows of the shed, Nyssa (Lvl 4) watches the exchange. Her emerald eyes
 > 👤 **Player:**
 > *"Show ritual site and politely ask for trade immunity. Explain the Zhent were taking over and I will help the sta restore balance and negotiate peace with the remaining Zhent who aren’t as volatile as shadow casters. This is actually all true so maybe DC should be lower"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 3/5 | Greater Invisibility (Concentration): No** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2985,8 +3361,11 @@ Captain Vane (Lvl 5) steps toward the basin, his eyes narrowing as he inspects t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Vane's Ambitions - Use Insight to determine if Vane is more motivated by duty or a desire to be seen as the one who 'saved' Scornubel from the ritual.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (02:16)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2, Inspiration: 2/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/5 Used)**
@@ -3019,8 +3398,11 @@ Outside the yard, the city's coal-smog thickens. A messenger in the dusty leathe
 > 👤 **Player:**
 > *"Architect narrative and legal shield"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 38950/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 3/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (fading) | Exhaustion: 0 | Inspiration: Yes**
@@ -3049,8 +3431,11 @@ In the shadows of the storage shed, Nyssa (Lvl 4) watches the stalemate. Her eme
 > [!NOTE] ⚙️ **Player Choice:**
 > *Produce Zalia's Ritual Ledger - Show Vane the ledger recovered from the Doomshaper to prove the magical threat to the city's trade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Scornubel - Eastern Tanning Yard** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 3/5 | Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3080,8 +3465,11 @@ You gain **1,200 XP** for securing the legal shield and legitimizing the Scornub
 > 👤 **Player:**
 > *"Keep zhalia and bring her to my hideout and keep interrogating her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 3/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3112,8 +3500,11 @@ In the tanning yard, Sergeant Horgus (Lvl 5) has returned with his four riders, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Psychic Interrogation - Utilize more advanced Thayan mental probes to shatter the remaining Zhentarim wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (03:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3, L3 2/3, L4 2/2 | Bardic Inspiration: 3/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3142,8 +3533,11 @@ Outside the iron door, Nyssa (Lvl 4) shifts her weight, the clatter of her bow a
 > 👤 **Player:**
 > *"THINK:Would the sta be willing to buy slaves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 (03:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 3,830gp | XP: 40150/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3155,8 +3549,11 @@ Intelligence Check: 16 vs DC 12 — Success. Your methodical mind (INT 14) disse
 > 👤 **Player:**
 > *"Long rest and then do sanctified trader. Frame sparing Kaelith as a favor to Nysa. Then say to kaelieth he can choose to serve me as indentured servant for 5 years and then I’ll release him or stay status quo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Scornubel - STA Deep Vaults** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 8,330gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, BI: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3177,8 +3574,11 @@ Kaelith (Lvl 4) looks from you to Nyssa, her jaw tightening. The 'Master's Comma
 > 👤 **Player:**
 > *"Ask the STA for an official rank here and say I want to be one of the leaders and use that status to negotiate with the zhent and form peace treaty to stabilize things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Scornubel - STA Counting House** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 8,330gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Inspiration: 5/5 | Gold: 8,330** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Ready) | Exhaustion: 0 | Inspiration: 5/5**
@@ -3209,8 +3609,11 @@ Nyssa (Lvl 4) and Kaelith (Lvl 4) stand in the shadows behind you, the Warden's 
 > 👤 **Player:**
 > *"Explain how we captured Zalia ourselves without him and with the sta help and we are about to go negotiate peace with the zhent. He should come to help negotiate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Scornubel - STA Counting House** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 8,330gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3241,8 +3644,11 @@ Horgus (Lvl 5) stares at you, his chest heaving with exhaustion. He looks at the
 > 👤 **Player:**
 > *"Final interrogation privately and then bring her and go negotiate with loyalists and bring horgus and harkon and shield bros"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Scornubel - The Broken Axle Tavern** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 8,330gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Expired) | Exhaustion: 0 | Inspiration: Yes**
@@ -3282,8 +3688,11 @@ He leans back, his hand resting on a heavy, iron-bound ledger. The leverage you 
 > 👤 **Player:**
 > *"Leverage ritual evidence and say we have enough allies and power to fully purge Zhent as stick. Then offer favorable trade deals as a carrot and eastern logistics from thay"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Scornubel - The Broken Axle Tavern** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 45/52 | Gold: 8,330gp | XP: 40150/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3314,8 +3723,11 @@ Torvin (Lvl 6) stares at the ledger, his scarred fingers twitching against the i
 > 👤 **Player:**
 > *"Demand concessions press economic advantage and offer zalia who should be his rigsl"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Scornubel - The Broken Axle Tavern** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 8,330gp | XP: 41400/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Waning) | Exhaustion: 0 | Inspiration: Yes**
@@ -3344,8 +3756,11 @@ Torvin (Lvl 6) stares at the Doomshaper, his scarred features twitching as he we
 > 👤 **Player:**
 > *"Finalize treaty and public execution Zalia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Scornubel - Market Square** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 12,830gp | XP: 46300/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3379,8 +3794,11 @@ You gain **4,900 XP** for finalizing the Blood-Silk Treaty and concluding the Sc
 > 👤 **Player:**
 > *"Consolidate sta rank and final corruption"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Scornubel - STA Council Hall** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 12,830gp | XP: 46300/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3404,8 +3822,11 @@ As the Council adjourns, the City of Caravans begins to breathe again. The 'merc
 > 👤 **Player:**
 > *"Establish enclave and work with the watch and STA to get a mandate for security and trade freedom to hunt bandits and Zhent remanents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Scornubel - STA Council Hall** &nbsp;|&nbsp; ⏳ **Hammer 4, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 52/52 | Gold: 12,830gp | XP: 46300/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Inspiration: 5/5 | Gold: 12,830** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -3434,8 +3855,11 @@ He signs the parchment, his signet ring pressing into the red wax beside Harkon'
 > 👤 **Player:**
 > *"Fortify enclave, negotiate with hellriders for bandit mandate too and then purge bandits and zalia remanents time skip a week and see how it goes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **House Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 11, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Lvl 9 available) | HP: 52/52 | Gold: 11,330gp | XP: 48300/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3456,8 +3880,11 @@ Now, as you stand atop the Enclave's ramparts, the city feels different. The pan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrate Sovereign Authority (Level Up) - Reflect on the week's conquests to reach Level 9, unlocking 5th-level magical secrets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **House Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 11, 1492 (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Lvl 9 available) | HP: 52/52 | Gold: 11,330gp | XP: 48300/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3477,8 +3904,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **House Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 11, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,330gp | XP: 48300/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3492,8 +3922,11 @@ Nyssa (Lvl 4) and Kaelith (Lvl 4) stand a respectful distance behind you, their 
 > 👤 **Player:**
 > *"established spy network, lobby council seat, purge the roads from scornubel to elturel of bandits and scorn to the next major area, narrate outcomes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Council Chambers, Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 18, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 9,330gp | XP: 52800/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3513,8 +3946,11 @@ Nyssa (Lvl 4) and Kaelith (Lvl 4) stand behind your council chair, their presenc
 > 👤 **Player:**
 > *"fortifyu trade lanes, diplomatic summons and ask  the loyalists to help me merge zalia remanents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Council Chambers, Scornubel** &nbsp;|&nbsp; ⏳ **Hammer 19, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,830gp | XP: 52800/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3540,8 +3976,11 @@ Expand 'Whisper Silk': Funnel more gold into the spy network to find the 'Master
 Purge the High Moor: Lead a combined Hellrider and Shield Brother strike into the High Moor to finish the remnants.
 Formalize Enclave Sovereignty: Lobby the Council for sovereign status for the Sosuke Enclave, effectively making it Thayan soil."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Sovereign Council Chamber, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 5,330gp | XP: 57800/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3565,8 +4004,11 @@ Nyssa (Lvl 4) and Kaelith (Lvl 4) stand as silent sentinels behind your chair. N
 God Mode:
 Calculate my monthly income with all these trade deals and give it to me daily and retroactively if you forgot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Sovereign Council Chamber, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 8816gp | XP: 57800/64000**
@@ -3594,8 +4036,11 @@ You have earned 3,486 gold pieces retroactively for 21 days of operation. Your n
 God Mode:
 Make sure you gave me loot for all the zhent and bandits I beat too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Sovereign Council Chamber, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 3, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,016gp | XP: 57800/64000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3613,8 +4058,11 @@ Your treasury has been updated from 8,816gp to 11,016gp. Items have been added t
 > 👤 **Player:**
 > *"Privately talk to zhent leadership and negotiate a new deal. House sosuke will exclusively use them for illegal goods like slaves and other weapons if they give us favorable trade deals and keep my name clean and give me a zhentarim leadership rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Darkhold Safe-house, Scornubel Shadow District** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,016gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3653,8 +4101,11 @@ The pact is sealed. You have traded exclusivity for a crown of shadows, cementin
 The Viper's Inquiry: Use your new rank to access Zhentarim records on Senechal Valerius to find a way to eliminate or blackmail the Baldur's Gate leak.
 Council Manipulation: Use your dual status to push for more 'security' measures that actually serve to expand Zhentarim/Sosuke control of Scornubel. and additionally look for shops to buy spell DC gear or any upgrades in scorn and surrounding areas"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Sosuke Enclave study & Scornubel High Market** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,016gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, BI: 5/5, Income: 166gp/day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3678,8 +4129,11 @@ As you emerge from the market, Nyssa (Lvl 4) and Kaelith (Lvl 4) stand as silent
 God Mode:
 calculate my monthly gold for the new zhent secret deal and give me daily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Sosuke Enclave study & Scornubel High Market** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,016gp | XP: 59400/64000**
@@ -3713,8 +4167,11 @@ The Senechal's Debt: Dispatch a Whisper Silk courier to Baldur's Gate with a 'fr
 
 I then do this Court the Rival: Invite Thavix of House Gneiss to a formal dinner at the Enclave. Use your new Council status to intimidate him into a non-aggression pact."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Sosuke Enclave, Scornubel** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,016gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 5/5, Income: 250gp/day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -3750,8 +4207,11 @@ The air in the room turns frigid. Your attempt to cow your rival has hit a wall 
 > 👤 **Player:**
 > *"probe him and see hwat he wants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,016gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3779,8 +4239,11 @@ Nyssa (Lvl 4) and Kaelith (Lvl 4) stand as silent sentinels in the shadows behin
 God Mode:
 lets have my companions always be 2 levels below me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,016gp | XP: 59400/64000**
@@ -3800,8 +4263,11 @@ I have added a directive to ensure this level gap persists automatically as you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Play the Loyal Bastard - Feign submissiveness to his 'master' narrative to lower his guard for a Deception-based probe later.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,266gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 5/5 | Daily Income: +250gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3831,8 +4297,11 @@ As the silence stretches, a faint, rhythmic splashing echoes from the courtyard 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Red Wizard Interests - Subtly inquire about the 'evolving interests' of Szass Tam to see if Scornubel is the target or a means to an end.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 59/59 | Gold: 11,016gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3859,8 +4328,11 @@ The revelation hits with the weight of a gavel. You've uncovered the true archit
 > 👤 **Player:**
 > *"THINK:how to turn this to my advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,266gp | XP: 59400/64000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3872,8 +4344,11 @@ Intelligence Check: 17 vs DC 16 — Success. Your methodical mind (INT 14) parse
 > 👤 **Player:**
 > *"logistics monolopy and position my retainersas site security"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,266gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3909,8 +4384,11 @@ The Senechal's Guarantee: Reveal that you have already secured the Senechal of B
 Offer 'Consultancy' not Command: Backtrack and suggest that you merely wish to offer your expertise in local logistics to ensure the Red Wizards' own security doesn't draw suspicion.
 Demonstrate Retainer Value: Have Varkas or Kaelith perform a display of their capabilities to prove your retainers are superior to common guards for site security."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7266gp | XP: 59400/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3940,8 +4418,11 @@ Thavix (Lvl 11) pauses, his chalice halfway to his lips. The predatory curiosity
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize 'Shadow Consultancy' - Formally accept the role as the logistical lead for the Gate project, ensuring House Sosuke controls the flow of reagents.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,016gp | XP: 61500/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3969,8 +4450,11 @@ You gain **2,100 XP** for finalizing the 'Shadow Consultancy' and securing House
 God Mode:
 what is this horgus arrival its not in the narrative?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7266gp | XP: 61500/64000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3995,8 +4479,11 @@ The world remains frozen at 21:45:00. No narrative advancement has occurred.
 God Mode:
 Planning block should not be leaking future events if not revealed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Grand Dining Hall, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 59/59 | XP: 61500/64000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 5/5**
@@ -4012,8 +4499,11 @@ The world remains frozen at 21:45:00. You are in the Grand Dining Hall with Thav
 > 👤 **Player:**
 > *"Let’s assume I finalize the deal with gneiss and then send word to my father about the situation with recommendations on how to leverage it and I ask my father if I can be legitimized so things can be efficient as I negotiate with thayans and secure more influence and power for our family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Study, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 4, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,166gp | XP: 61500/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -4044,8 +4534,11 @@ Outcome: Lord Sosuke is impressed by the leverage Aizen has built and is serious
 > 👤 **Player:**
 > *"Meet horgus and my main estate shouldn’t have anything suspicious in it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Gates, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 5, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 7,166gp | XP: 61500/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4074,8 +4567,11 @@ He looks toward Nyssa (Lvl 7) and Kaelith (Lvl 7), who stand as silent sentinels
 God Mode:
 This makes no sense. All my public estates should already be sanitized
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Gates, Sosuke Enclave, Scornubel** &nbsp;|&nbsp; ⏳ **Alturiak 5, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 59/59 | Gold: 11,016gp | XP: 61500/64000**
@@ -4092,6 +4588,8 @@ You are correct. Given Aizen's Level 9 status, Noble background, and the specifi
 3. **State Integrity**: The Enclave is confirmed as 'Sanitized' in the current world state.
 
 Done.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

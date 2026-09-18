@@ -12,184 +12,200 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (163 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Setting: Play as a farmer in the aftermath of bg3. Assume I am a hidden level 12 previous villain who has become neutral and have three children aged 16-8 two girls and one boy and a wife who doesn’t know my true past. I own a medium sized farm in a village near baldurs gate
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Thorne Farm | Eleasias 1, 1492 DR (08:00) | Roleplay |
-| **03** | Thorne Farm | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **04** | Unknown | , DR (00:00) | Roleplay |
-| **05** | The Voss Farm | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **06** | The Voss Farm | Mirtul 15, 1508 DR (12:00) | Roleplay |
-| **07** | The Voss Farm | Mirtul 15, 1508 DR (12:00) | Roleplay |
-| **08** | Millbrook Village Square | Mirtul 15, 1508 DR (14:00) | Roleplay |
-| **09** | Millbrook Village Square | Mirtul 15, 1508 DR (14:15) | Roleplay |
-| **10** | Millbrook Village Square | Mirtul 15, 1508 DR (14:30) | Roleplay |
-| **11** | Millbrook Village Square | Mirtul 15, 1508 DR (14:30) | Roleplay |
-| **12** | Voss Farmstead | Mirtul 15, 1508 DR (17:30) | Roleplay |
-| **13** | Voss Farmstead | Mirtul 15, 1508 DR (17:50) | Roleplay |
-| **14** | Voss Farmstead | Mirtul 15, 1508 DR (17:55) | Social Challenge |
-| **15** | Voss Farmstead | Mirtul 15, 1508 DR (18:10) | Boss Surrender |
-| **16** | Voss Farmstead | Mirtul 15, 1508 DR (18:20) | Roleplay |
-| **17** | Voss Farmstead - Kitchen | Mirtul 15, 1508 DR (18:30) | Social Challenge |
-| **18** | Voss Farmstead - Kitchen | Mirtul 15, 1508 DR (18:40) | Boss Surrender |
-| **19** | Voss Farmstead - The Lightning-Struck Oak | Mirtul 18, 1508 DR (05:00) | Roleplay |
-| **20** | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (05:00) | Roleplay |
-| **21** | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (06:30) | Roleplay |
-| **22** | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (06:30) | Roleplay |
-| **23** | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (06:30) | Roleplay |
-| **24** | Voss Farmstead | Mirtul 25, 1508 DR (08:30) | Roleplay |
-| **25** | Voss Farmstead | Mirtul 25, 1508 DR (08:40) | Roleplay |
-| **26** | Voss Farmstead | Mirtul 25, 1508 DR (08:40) | Roleplay |
-| **27** | Voss Farmstead | Mirtul 25, 1508 DR (08:50) | Roleplay |
-| **28** | Voss Farmstead | Mirtul 25, 1508 DR (09:00) | Roleplay |
-| **29** | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
-| **30** | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
-| **31** | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
-| **32** | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
-| **33** | Voss Farmstead | Mirtul 25, 1508 DR (10:15) | Boss Surrender |
-| **34** | Voss Farmstead | Mirtul 25, 1508 DR (10:15) | Roleplay |
-| **35** | Baldur's Gate (Lower City) | Mirtul 28, 1508 DR (14:00) | Roleplay |
-| **36** | Baldur's Gate (Lower City) | Mirtul 29, 1508 DR (18:00) | Roleplay |
-| **37** | Voss Curiosities | Mirtul 29, 1508 DR (18:10) | Social Challenge |
-| **38** | Voss Curiosities | Mirtul 29, 1508 DR (18:20) | Roleplay |
-| **39** | Voss Curiosities | Mirtul 29, 1508 DR (18:30) | Boss Surrender |
-| **40** | The Grey Harbor | Mirtul 29, 1508 DR (21:15) | Roleplay |
-| **41** | Dockmaster Farlen's Office | Mirtul 29, 1508 DR (21:30) | Roleplay |
-| **42** | Warehouse 4 | Mirtul 29, 1508 DR (21:50) | Roleplay |
-| **43** | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
-| **44** | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
-| **45** | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
-| **46** | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
-| **47** | Warehouse 4 Interior | Mirtul 29, 1508 DR (22:00) | Roleplay |
-| **48** | Warehouse 4 Interior | Mirtul 29, 1508 DR (22:10) | Roleplay |
-| **49** | Warehouse 4 Interior | Mirtul 29, 1508 DR (22:10) | Roleplay |
-| **50** | Warehouse 4 | Mirtul 29, 1508 DR (22:15) | Roleplay |
-| **51** | Warehouse 4 | Mirtul 29, 1508 DR (22:15) | Roleplay |
-| **52** | Warehouse 4 | Mirtul 29, 1508 DR (22:15) | Roleplay |
-| **53** | Warehouse 4 | Mirtul 29, 1508 DR (22:20) | Roleplay |
-| **54** | Warehouse 4 | Mirtul 29, 1508 DR (22:20) | Roleplay |
-| **55** | Warehouse 4 | Mirtul 29, 1508 DR (22:30) | Roleplay |
-| **56** | Grey Harbor |  | Social Challenge |
-| **57** | Brampton Estate | Mirtul 30, 1508 DR (00:00) | Roleplay |
-| **58** | Brampton Estate | Mirtul 30, 1508 DR (00:10) | Roleplay |
-| **59** | Voss Curiosities | Mirtul 30, 1508 DR (01:00) | Roleplay |
-| **60** | Voss Curiosities | Mirtul 30, 1508 DR (09:00) | Roleplay |
-| **61** | Voss Curiosities | Mirtul 30, 1508 DR (09:00) | Roleplay |
-| **62** | Brampton Estate | Mirtul 30, 1508 DR (08:00) | Roleplay |
-| **63** | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Social Challenge |
-| **64** | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
-| **65** | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
-| **66** | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
-| **67** | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
-| **68** | Brampton Estate | Mirtul 30, 1508 DR (08:25) | Social Challenge |
-| **69** | Brampton Estate | Mirtul 30, 1508 DR (08:45) | Social Challenge |
-| **70** | Brampton Estate Courtyard | Mirtul 30, 1508 DR (11:00) | Roleplay |
-| **71** | Solar of the Brampton Estate | Mirtul 30, 1508 DR (11:30) | Roleplay |
-| **72** | Brampton Estate Courtyard | Mirtul 30, 1508 DR (11:45) | Social Challenge |
-| **73** | Brampton Estate Courtyard | Mirtul 30, 1508 DR (11:55) | Social Challenge |
-| **74** | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:00) | Boss Surrender |
-| **75** | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:15) | Roleplay |
-| **76** | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:15) | Roleplay |
-| **77** | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:15) | Roleplay |
-| **78** | The Drowned Rat | Kythorn 1, 1508 DR (00:00) | Roleplay |
-| **79** | The Drowned Rat | Kythorn 1, 1508 DR (00:10) | Roleplay |
-| **80** | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
-| **81** | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
-| **82** | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
-| **83** | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
-| **84** | The Drowned Rat | Kythorn 1, 1508 DR (00:30) | Boss Surrender |
-| **85** | The Sunken Vault (New Nest) | Kythorn 1, 1508 DR (00:45) | Roleplay |
-| **86** | The Sunken Vault (New Nest) | Kythorn 1, 1508 DR (00:45) | Roleplay |
-| **87** | The Sunken Vault | Kythorn 1, 1508 DR (00:55) | Roleplay |
-| **88** | The Sunken Vault | Kythorn 1, 1508 DR (02:00) | Social Challenge |
-| **89** | The Sunken Vault | Kythorn 1, 1508 DR (02:00) | Roleplay |
-| **90** | The Sunken Vault | Kythorn 1, 1508 DR (02:00) | Roleplay |
-| **91** | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
-| **92** | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
-| **93** | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
-| **94** | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
-| **95** | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:15) | Roleplay |
-| **96** | Miller's Rest (Upper City Estate) | Kythorn 1, 1508 DR (18:00) | Boss Surrender |
-| **97** | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (08:00) | Roleplay |
-| **98** | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (08:00) | Roleplay |
-| **99** | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (08:00) | Roleplay |
-| **100** | Miller's Rest (Upper City Estate) | Flamerule 7, 1508 DR (10:00) | Roleplay |
-| **101** | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (10:30) | Roleplay |
-| **102** | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (09:00) | Roleplay |
-| **103** | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (11:30) | Roleplay |
-| **104** | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (14:30) | Roleplay |
-| **105** | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (14:45) | Social Challenge |
-| **106** | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (18:00) | Roleplay |
-| **107** | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (18:00) | Roleplay |
-| **108** | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (18:00) | Roleplay |
-| **109** | Heapside Rooftops (Lower City) | Flamerule 11, 1508 DR (04:30) | Roleplay |
-| **110** | Heapside District | Flamerule 11, 1508 DR (01:30) | Roleplay |
-| **111** | Heapside District | Flamerule 11, 1508 DR (01:30) | Roleplay |
-| **112** | Heapside District | Flamerule 11, 1508 DR (01:45) | Roleplay |
-| **113** | Heapside District | Flamerule 11, 1508 DR (03:30) | Roleplay |
-| **114** | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Boss Surrender |
-| **115** | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
-| **116** | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
-| **117** | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
-| **118** | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
-| **119** | Zhentarim HQ | Flamerule 11, 1508 DR (04:02) | Roleplay |
-| **120** | Zhentarim HQ | Flamerule 11, 1508 DR (04:05) | Roleplay |
-| **121** | Zhentarim HQ | Flamerule 11, 1508 DR (04:20) | Roleplay |
-| **122** | Zhentarim HQ | Flamerule 11, 1508 DR (04:30) | Boss Surrender |
-| **123** | Miller's Rest Estate | Flamerule 11, 1508 DR (12:15) | Roleplay |
-| **124** | Miller's Rest Estate | Flamerule 11, 1508 DR (13:15) | Roleplay |
-| **125** | Grey Harbor Shipyards | Flamerule 11, 1508 DR (22:30) | Roleplay |
-| **126** | The High Hall | Flamerule 12, 1508 DR (09:00) | Social Challenge |
-| **127** | The High Hall | Flamerule 12, 1508 DR (09:00) | Roleplay |
-| **128** | Miller's Rest Estate | Flamerule 12, 1508 DR (09:00) | Roleplay |
-| **129** | Lower City Slums / Undercity Threshold | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **130** | Lower City Slums / Undercity Threshold | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **131** | Lower City Slums / Undercity Threshold | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **132** | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Social Challenge |
-| **133** | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **134** | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Social Challenge |
-| **135** | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **136** | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **137** | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **138** | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
-| **139** | The Weeping Pipe | Flamerule 12, 1508 DR (21:00) | Roleplay |
-| **140** | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
-| **141** | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
-| **142** | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
-| **143** | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
-| **144** | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:00) | Roleplay |
-| **145** | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
-| **146** | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
-| **147** | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
-| **148** | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
-| **149** | Miller's Rest (Miller's Bluffs) | Flamerule 13, 1508 DR (05:15) | Roleplay |
-| **150** | Miller's Rest (Miller's Bluffs) | Flamerule 13, 1508 DR (07:15) | Roleplay |
-| **151** | Miller's Rest (Miller's Bluffs) | Flamerule 13, 1508 DR (07:15) | Roleplay |
-| **152** | Miller's Rest (Interrogation Cellar) | Flamerule 13, 1508 DR (08:15) | Roleplay |
-| **153** | Miller's Rest (Interrogation Cellar) | Flamerule 13, 1508 DR (08:25) | Roleplay |
-| **154** | Miller's Rest (Interrogation Cellar) | Flamerule 13, 1508 DR (08:35) | Roleplay |
-| **155** | Bloomridge District | Flamerule 13, 1508 DR (09:15) | Roleplay |
-| **156** | Miller's Rest | Flamerule 13, 1508 DR (11:15) | Boss Surrender |
-| **157** | Miller's Rest | Flamerule 13, 1508 DR (11:30) | Roleplay |
-| **158** | Miller's Rest | Flamerule 13, 1508 DR (11:30) | Roleplay |
-| **159** | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
-| **160** | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
-| **161** | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
-| **162** | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
-| **163** | The Undercity Ruins | Flamerule 13, 1508 DR (23:30) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Thorne Farm | Eleasias 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Thorne Farm | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 05**](#scene-5) | The Voss Farm | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | The Voss Farm | Mirtul 15, 1508 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | The Voss Farm | Mirtul 15, 1508 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Millbrook Village Square | Mirtul 15, 1508 DR (14:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Millbrook Village Square | Mirtul 15, 1508 DR (14:15) | Roleplay |
+| [**Scene 10**](#scene-10) | Millbrook Village Square | Mirtul 15, 1508 DR (14:30) | Roleplay |
+| [**Scene 11**](#scene-11) | Millbrook Village Square | Mirtul 15, 1508 DR (14:30) | Roleplay |
+| [**Scene 12**](#scene-12) | Voss Farmstead | Mirtul 15, 1508 DR (17:30) | Roleplay |
+| [**Scene 13**](#scene-13) | Voss Farmstead | Mirtul 15, 1508 DR (17:50) | Roleplay |
+| [**Scene 14**](#scene-14) | Voss Farmstead | Mirtul 15, 1508 DR (17:55) | Social Challenge |
+| [**Scene 15**](#scene-15) | Voss Farmstead | Mirtul 15, 1508 DR (18:10) | Boss Surrender |
+| [**Scene 16**](#scene-16) | Voss Farmstead | Mirtul 15, 1508 DR (18:20) | Roleplay |
+| [**Scene 17**](#scene-17) | Voss Farmstead - Kitchen | Mirtul 15, 1508 DR (18:30) | Social Challenge |
+| [**Scene 18**](#scene-18) | Voss Farmstead - Kitchen | Mirtul 15, 1508 DR (18:40) | Boss Surrender |
+| [**Scene 19**](#scene-19) | Voss Farmstead - The Lightning-Struck Oak | Mirtul 18, 1508 DR (05:00) | Roleplay |
+| [**Scene 20**](#scene-20) | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (05:00) | Roleplay |
+| [**Scene 21**](#scene-21) | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (06:30) | Roleplay |
+| [**Scene 22**](#scene-22) | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (06:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Voss Farmstead - The Lightning-Struck Oak | Mirtul 25, 1508 DR (06:30) | Roleplay |
+| [**Scene 24**](#scene-24) | Voss Farmstead | Mirtul 25, 1508 DR (08:30) | Roleplay |
+| [**Scene 25**](#scene-25) | Voss Farmstead | Mirtul 25, 1508 DR (08:40) | Roleplay |
+| [**Scene 26**](#scene-26) | Voss Farmstead | Mirtul 25, 1508 DR (08:40) | Roleplay |
+| [**Scene 27**](#scene-27) | Voss Farmstead | Mirtul 25, 1508 DR (08:50) | Roleplay |
+| [**Scene 28**](#scene-28) | Voss Farmstead | Mirtul 25, 1508 DR (09:00) | Roleplay |
+| [**Scene 29**](#scene-29) | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
+| [**Scene 30**](#scene-30) | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
+| [**Scene 31**](#scene-31) | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
+| [**Scene 32**](#scene-32) | Voss Farmstead | Mirtul 25, 1508 DR (10:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Voss Farmstead | Mirtul 25, 1508 DR (10:15) | Boss Surrender |
+| [**Scene 34**](#scene-34) | Voss Farmstead | Mirtul 25, 1508 DR (10:15) | Roleplay |
+| [**Scene 35**](#scene-35) | Baldur's Gate (Lower City) | Mirtul 28, 1508 DR (14:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Baldur's Gate (Lower City) | Mirtul 29, 1508 DR (18:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Voss Curiosities | Mirtul 29, 1508 DR (18:10) | Social Challenge |
+| [**Scene 38**](#scene-38) | Voss Curiosities | Mirtul 29, 1508 DR (18:20) | Roleplay |
+| [**Scene 39**](#scene-39) | Voss Curiosities | Mirtul 29, 1508 DR (18:30) | Boss Surrender |
+| [**Scene 40**](#scene-40) | The Grey Harbor | Mirtul 29, 1508 DR (21:15) | Roleplay |
+| [**Scene 41**](#scene-41) | Dockmaster Farlen's Office | Mirtul 29, 1508 DR (21:30) | Roleplay |
+| [**Scene 42**](#scene-42) | Warehouse 4 | Mirtul 29, 1508 DR (21:50) | Roleplay |
+| [**Scene 43**](#scene-43) | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
+| [**Scene 44**](#scene-44) | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
+| [**Scene 45**](#scene-45) | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
+| [**Scene 46**](#scene-46) | Warehouse 4 | Mirtul 29, 1508 DR (21:55) | Roleplay |
+| [**Scene 47**](#scene-47) | Warehouse 4 Interior | Mirtul 29, 1508 DR (22:00) | Roleplay |
+| [**Scene 48**](#scene-48) | Warehouse 4 Interior | Mirtul 29, 1508 DR (22:10) | Roleplay |
+| [**Scene 49**](#scene-49) | Warehouse 4 Interior | Mirtul 29, 1508 DR (22:10) | Roleplay |
+| [**Scene 50**](#scene-50) | Warehouse 4 | Mirtul 29, 1508 DR (22:15) | Roleplay |
+| [**Scene 51**](#scene-51) | Warehouse 4 | Mirtul 29, 1508 DR (22:15) | Roleplay |
+| [**Scene 52**](#scene-52) | Warehouse 4 | Mirtul 29, 1508 DR (22:15) | Roleplay |
+| [**Scene 53**](#scene-53) | Warehouse 4 | Mirtul 29, 1508 DR (22:20) | Roleplay |
+| [**Scene 54**](#scene-54) | Warehouse 4 | Mirtul 29, 1508 DR (22:20) | Roleplay |
+| [**Scene 55**](#scene-55) | Warehouse 4 | Mirtul 29, 1508 DR (22:30) | Roleplay |
+| [**Scene 56**](#scene-56) | Grey Harbor |  | Social Challenge |
+| [**Scene 57**](#scene-57) | Brampton Estate | Mirtul 30, 1508 DR (00:00) | Roleplay |
+| [**Scene 58**](#scene-58) | Brampton Estate | Mirtul 30, 1508 DR (00:10) | Roleplay |
+| [**Scene 59**](#scene-59) | Voss Curiosities | Mirtul 30, 1508 DR (01:00) | Roleplay |
+| [**Scene 60**](#scene-60) | Voss Curiosities | Mirtul 30, 1508 DR (09:00) | Roleplay |
+| [**Scene 61**](#scene-61) | Voss Curiosities | Mirtul 30, 1508 DR (09:00) | Roleplay |
+| [**Scene 62**](#scene-62) | Brampton Estate | Mirtul 30, 1508 DR (08:00) | Roleplay |
+| [**Scene 63**](#scene-63) | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Social Challenge |
+| [**Scene 64**](#scene-64) | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
+| [**Scene 65**](#scene-65) | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
+| [**Scene 66**](#scene-66) | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
+| [**Scene 67**](#scene-67) | Brampton Estate | Mirtul 30, 1508 DR (08:15) | Roleplay |
+| [**Scene 68**](#scene-68) | Brampton Estate | Mirtul 30, 1508 DR (08:25) | Social Challenge |
+| [**Scene 69**](#scene-69) | Brampton Estate | Mirtul 30, 1508 DR (08:45) | Social Challenge |
+| [**Scene 70**](#scene-70) | Brampton Estate Courtyard | Mirtul 30, 1508 DR (11:00) | Roleplay |
+| [**Scene 71**](#scene-71) | Solar of the Brampton Estate | Mirtul 30, 1508 DR (11:30) | Roleplay |
+| [**Scene 72**](#scene-72) | Brampton Estate Courtyard | Mirtul 30, 1508 DR (11:45) | Social Challenge |
+| [**Scene 73**](#scene-73) | Brampton Estate Courtyard | Mirtul 30, 1508 DR (11:55) | Social Challenge |
+| [**Scene 74**](#scene-74) | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:00) | Boss Surrender |
+| [**Scene 75**](#scene-75) | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:15) | Roleplay |
+| [**Scene 76**](#scene-76) | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:15) | Roleplay |
+| [**Scene 77**](#scene-77) | Brampton Estate Courtyard | Mirtul 30, 1508 DR (12:15) | Roleplay |
+| [**Scene 78**](#scene-78) | The Drowned Rat | Kythorn 1, 1508 DR (00:00) | Roleplay |
+| [**Scene 79**](#scene-79) | The Drowned Rat | Kythorn 1, 1508 DR (00:10) | Roleplay |
+| [**Scene 80**](#scene-80) | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
+| [**Scene 81**](#scene-81) | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
+| [**Scene 82**](#scene-82) | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
+| [**Scene 83**](#scene-83) | The Drowned Rat | Kythorn 1, 1508 DR (00:20) | Roleplay |
+| [**Scene 84**](#scene-84) | The Drowned Rat | Kythorn 1, 1508 DR (00:30) | Boss Surrender |
+| [**Scene 85**](#scene-85) | The Sunken Vault (New Nest) | Kythorn 1, 1508 DR (00:45) | Roleplay |
+| [**Scene 86**](#scene-86) | The Sunken Vault (New Nest) | Kythorn 1, 1508 DR (00:45) | Roleplay |
+| [**Scene 87**](#scene-87) | The Sunken Vault | Kythorn 1, 1508 DR (00:55) | Roleplay |
+| [**Scene 88**](#scene-88) | The Sunken Vault | Kythorn 1, 1508 DR (02:00) | Social Challenge |
+| [**Scene 89**](#scene-89) | The Sunken Vault | Kythorn 1, 1508 DR (02:00) | Roleplay |
+| [**Scene 90**](#scene-90) | The Sunken Vault | Kythorn 1, 1508 DR (02:00) | Roleplay |
+| [**Scene 91**](#scene-91) | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
+| [**Scene 92**](#scene-92) | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
+| [**Scene 93**](#scene-93) | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
+| [**Scene 94**](#scene-94) | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:00) | Roleplay |
+| [**Scene 95**](#scene-95) | Lower City / Upper City Boundary | Kythorn 1, 1508 DR (06:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Miller's Rest (Upper City Estate) | Kythorn 1, 1508 DR (18:00) | Boss Surrender |
+| [**Scene 97**](#scene-97) | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (08:00) | Roleplay |
+| [**Scene 98**](#scene-98) | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (08:00) | Roleplay |
+| [**Scene 99**](#scene-99) | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (08:00) | Roleplay |
+| [**Scene 100**](#scene-100) | Miller's Rest (Upper City Estate) | Flamerule 7, 1508 DR (10:00) | Roleplay |
+| [**Scene 101**](#scene-101) | Miller's Rest (Upper City Estate) | Flamerule 1, 1508 DR (10:30) | Roleplay |
+| [**Scene 102**](#scene-102) | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (09:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (11:30) | Roleplay |
+| [**Scene 104**](#scene-104) | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (14:30) | Roleplay |
+| [**Scene 105**](#scene-105) | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (14:45) | Social Challenge |
+| [**Scene 106**](#scene-106) | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (18:00) | Roleplay |
+| [**Scene 107**](#scene-107) | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (18:00) | Roleplay |
+| [**Scene 108**](#scene-108) | Miller's Rest (Upper City Estate) | Flamerule 10, 1508 DR (18:00) | Roleplay |
+| [**Scene 109**](#scene-109) | Heapside Rooftops (Lower City) | Flamerule 11, 1508 DR (04:30) | Roleplay |
+| [**Scene 110**](#scene-110) | Heapside District | Flamerule 11, 1508 DR (01:30) | Roleplay |
+| [**Scene 111**](#scene-111) | Heapside District | Flamerule 11, 1508 DR (01:30) | Roleplay |
+| [**Scene 112**](#scene-112) | Heapside District | Flamerule 11, 1508 DR (01:45) | Roleplay |
+| [**Scene 113**](#scene-113) | Heapside District | Flamerule 11, 1508 DR (03:30) | Roleplay |
+| [**Scene 114**](#scene-114) | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
+| [**Scene 116**](#scene-116) | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
+| [**Scene 117**](#scene-117) | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
+| [**Scene 118**](#scene-118) | Zhentarim HQ | Flamerule 11, 1508 DR (04:00) | Roleplay |
+| [**Scene 119**](#scene-119) | Zhentarim HQ | Flamerule 11, 1508 DR (04:02) | Roleplay |
+| [**Scene 120**](#scene-120) | Zhentarim HQ | Flamerule 11, 1508 DR (04:05) | Roleplay |
+| [**Scene 121**](#scene-121) | Zhentarim HQ | Flamerule 11, 1508 DR (04:20) | Roleplay |
+| [**Scene 122**](#scene-122) | Zhentarim HQ | Flamerule 11, 1508 DR (04:30) | Boss Surrender |
+| [**Scene 123**](#scene-123) | Miller's Rest Estate | Flamerule 11, 1508 DR (12:15) | Roleplay |
+| [**Scene 124**](#scene-124) | Miller's Rest Estate | Flamerule 11, 1508 DR (13:15) | Roleplay |
+| [**Scene 125**](#scene-125) | Grey Harbor Shipyards | Flamerule 11, 1508 DR (22:30) | Roleplay |
+| [**Scene 126**](#scene-126) | The High Hall | Flamerule 12, 1508 DR (09:00) | Social Challenge |
+| [**Scene 127**](#scene-127) | The High Hall | Flamerule 12, 1508 DR (09:00) | Roleplay |
+| [**Scene 128**](#scene-128) | Miller's Rest Estate | Flamerule 12, 1508 DR (09:00) | Roleplay |
+| [**Scene 129**](#scene-129) | Lower City Slums / Undercity Threshold | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Lower City Slums / Undercity Threshold | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 131**](#scene-131) | Lower City Slums / Undercity Threshold | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 132**](#scene-132) | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Social Challenge |
+| [**Scene 133**](#scene-133) | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 134**](#scene-134) | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Social Challenge |
+| [**Scene 135**](#scene-135) | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 136**](#scene-136) | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 137**](#scene-137) | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 138**](#scene-138) | The Gilded Eel | Flamerule 12, 1508 DR (13:00) | Roleplay |
+| [**Scene 139**](#scene-139) | The Weeping Pipe | Flamerule 12, 1508 DR (21:00) | Roleplay |
+| [**Scene 140**](#scene-140) | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
+| [**Scene 141**](#scene-141) | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
+| [**Scene 142**](#scene-142) | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
+| [**Scene 143**](#scene-143) | Miller's Rest Cellars | Flamerule 12, 1508 DR (21:00) | Roleplay |
+| [**Scene 144**](#scene-144) | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:00) | Roleplay |
+| [**Scene 145**](#scene-145) | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
+| [**Scene 146**](#scene-146) | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
+| [**Scene 147**](#scene-147) | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
+| [**Scene 148**](#scene-148) | The Inner Sanctum (Under the Counting House) | Flamerule 13, 1508 DR (04:30) | Roleplay |
+| [**Scene 149**](#scene-149) | Miller's Rest (Miller's Bluffs) | Flamerule 13, 1508 DR (05:15) | Roleplay |
+| [**Scene 150**](#scene-150) | Miller's Rest (Miller's Bluffs) | Flamerule 13, 1508 DR (07:15) | Roleplay |
+| [**Scene 151**](#scene-151) | Miller's Rest (Miller's Bluffs) | Flamerule 13, 1508 DR (07:15) | Roleplay |
+| [**Scene 152**](#scene-152) | Miller's Rest (Interrogation Cellar) | Flamerule 13, 1508 DR (08:15) | Roleplay |
+| [**Scene 153**](#scene-153) | Miller's Rest (Interrogation Cellar) | Flamerule 13, 1508 DR (08:25) | Roleplay |
+| [**Scene 154**](#scene-154) | Miller's Rest (Interrogation Cellar) | Flamerule 13, 1508 DR (08:35) | Roleplay |
+| [**Scene 155**](#scene-155) | Bloomridge District | Flamerule 13, 1508 DR (09:15) | Roleplay |
+| [**Scene 156**](#scene-156) | Miller's Rest | Flamerule 13, 1508 DR (11:15) | Boss Surrender |
+| [**Scene 157**](#scene-157) | Miller's Rest | Flamerule 13, 1508 DR (11:30) | Roleplay |
+| [**Scene 158**](#scene-158) | Miller's Rest | Flamerule 13, 1508 DR (11:30) | Roleplay |
+| [**Scene 159**](#scene-159) | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
+| [**Scene 160**](#scene-160) | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
+| [**Scene 161**](#scene-161) | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
+| [**Scene 162**](#scene-162) | Miller's Rest | Flamerule 13, 1508 DR (16:30) | Roleplay |
+| [**Scene 163**](#scene-163) | The Undercity Ruins | Flamerule 13, 1508 DR (23:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -199,8 +215,11 @@ Setting: Play as a farmer in the aftermath of bg3. Assume I am a hidden level 12
 > 👤 **Player:**
 > *"Keep Going - Proceed with the current step."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Thorne Farm, near Baldur's Gate** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Oathbreaker Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60**
@@ -238,8 +257,11 @@ Based on your concept, I have generated **Vaelin Thorne**, a former commander in
 > 👤 **Player:**
 > *"Make me a dex based paladin and grey morally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Thorne Farm, Outside Baldur's Gate** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 15,000gp | XP: 100000/120000**
@@ -275,8 +297,11 @@ No longer a lumbering juggernaut, Vaelin moves with a predatory grace that his n
 > 👤 **Player:**
 > *"Give me a diffrent name than the usual AI characters and adapt my equipment and stats to dex based paladin and give me a detailed backstory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Lay On Hands Pool: 60/60**
@@ -315,8 +340,11 @@ He met **Lana** while clearing debris in the Outer City. She saw a man whose sil
 > 👤 **Player:**
 > *"Start the game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Voss Farm** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Oathbreaker Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -334,8 +362,11 @@ The secret is safe, but the weight of it feels heavier today. The air carries th
 God Mode:
 Let’s assume it’s been 16 years after the absolute bg3 events so a lot of time has passed and let’s explain how every year was spent
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Voss Farm** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100000/120000**
@@ -369,8 +400,11 @@ Administrative Summary: Historical Timeline established for the 16 years followi
 God Mode:
 Let’s assume it’s unlikely people recognize me mostly since I killed my squad but I was a level 12 so the bg3 heroes and some absolute remnants or people may remember me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Voss Farm** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100000/120000**
@@ -388,8 +422,11 @@ I have added a persistent directive. Commoners and standard NPCs will never reco
 > 👤 **Player:**
 > *"Resume story and narrate a village meeting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Millbrook Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp (Stashed) | XP: 100000/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -411,8 +448,11 @@ You feel Sariel’s gaze like a needle. She knows you don't have militia papers.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Play the Clueless Farmer - Publicly agree with Lana but privately dismiss the need to register, claiming your 'injury' makes you useless to the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Millbrook Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 15,000gp | XP: 100075/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -430,8 +470,11 @@ Lieutenant Torvin begins speaking with Elder Harlen (Lvl 2) nearby, looking over
 > 👤 **Player:**
 > *"lets assume i have fake papers at home and lets observe the lieutenant Observe the Lieutenant: Linger at a nearby stall to see how Torvin handles the other veterans, looking for specific questions that might indicate he's searching for more than just militia-men."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Millbrook Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100250/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -449,8 +492,11 @@ The census is suddenly interrupted by the thunder of hooves. A messenger in the 
 God Mode:
 lets make this more slice of life vs existential threats campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Millbrook Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100250/120000**
@@ -467,8 +513,11 @@ I have updated the campaign directives to prioritize grounded, family-centric st
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Family - Resume the story in Millbrook as the family prepares to head back to the farm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100250/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -486,8 +535,11 @@ Sariel doesn't help with the ox. She stands by the lightning-struck oak, her sil
 > 👤 **Player:**
 > *"heart to heart sariel and see if she wants to serve in military"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 15,000gp | XP: 100250/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -514,8 +566,11 @@ She pushes off the fence and walks toward the house without another word, her st
 > 👤 **Player:**
 > *"give her partial truth, say you served in a more high ranked position in military vs low level militia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100325/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -543,8 +598,11 @@ Sariel: 100% → 100%
 > 👤 **Player:**
 > *"ask if she wants to join military now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 100775/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -569,8 +627,11 @@ She has yielded the truth of her ambition—not a desire for glory, but a predat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Validate Her Vision - Tell her that power is the only true currency in the Sword Coast and that you will help her find the right 'school'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 101625/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -588,8 +649,11 @@ A heavy silence follows, a pact sealed in the twilight. You feel the weight of h
 > 👤 **Player:**
 > *"Give Lana partial truth about my military past too. Explain Sariel has the same talent and may follow a similar path probably the farm isn’t her destiny"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Voss Farmstead - Kitchen** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 101625/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -616,8 +680,11 @@ Lana's hands tremble slightly as she sets the pan down. She looks at you, not wi
 > 👤 **Player:**
 > *"Explain she’s growing up and we can’t stop her. Instead I should prepare her to defend herself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Voss Farmstead - Kitchen** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1508 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 102275/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -646,8 +713,11 @@ Lana’s eyes well with tears, but she doesn't pull her hand away. Slowly, she n
 > 👤 **Player:**
 > *"Time skip a few days. Give her full training and see how she does"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Voss Farmstead - The Lightning-Struck Oak** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1508 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 15,000gp | XP: 104275/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -667,8 +737,11 @@ As the first light of the sun touches the barn roof, you see Lana (Lvl 1) watchi
 > 👤 **Player:**
 > *"time skip, keep training Sariel and narrate in detail, train her until level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Voss Farmstead - The Lightning-Struck Oak** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 15,000gp | XP: 105475/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -690,8 +763,11 @@ You gain **1,200 XP** for the intensive training and maintaining your family's s
 > 👤 **Player:**
 > *"Explain to Sariel not to let her ego get too big but she’s a level 5 at age 16 a true prodigy. Say we can join the adventures guild and do some missions. Power is achieved through military power individual and command, influence, and wealth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Voss Farmstead - The Lightning-Struck Oak** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 105475/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -715,8 +791,11 @@ Sariel's jaw sets. "Missions. Real work."
 > 👤 **Player:**
 > *"THINK:Brainstorm a way to handle investigators"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Voss Farmstead - The Lightning-Struck Oak** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15,000gp | XP: 105475/120000**
@@ -726,8 +805,11 @@ You pause, the weight of the training blade suddenly feeling like the leaden bur
 God Mode:
 Make Sariel a swords bard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Voss Farmstead - The Lightning-Struck Oak** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 15000gp | XP: 105475/120000**
@@ -743,8 +825,11 @@ Administrative Update: Sariel Voss has been successfully reclassified. Her 'Judi
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Displaced Noble' Gambit - Use the buried gold to dress the farmhouse slightly up. Present Kaelen as a wealthy, private man who fled political rivals in the city, not the war. High CHA (18) can reframe the 'suspicious aura' as 'noble arrogance' or 'guarded privacy.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 14,800gp | XP: 105475/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -764,8 +849,11 @@ Torvin produces a small, blackened stone from a pouch—a Detect Magic focus tha
 > 👤 **Player:**
 > *"Explain that I know combat well and was trained by the best. I do the same for my daughter so she can protect farm from bandits."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 14,800gp | XP: 105475/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -792,8 +880,11 @@ Sariel (Lvl 5) doesn't move, but you can feel the 'pressure' she's exerting—th
 > 👤 **Player:**
 > *"THINK:Do they really have legal authority to take me in for this?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 14,800gp | XP: 105475/120000**
@@ -803,8 +894,11 @@ Intelligence Check: 13 vs DC 12 — Success. Your mind, though more accustomed t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bribe and Legal Threat (Synergistic) - Challenge his legal authority first to rattle him, then offer the 'tax evasion' bribe as a way for him to avoid a messy political mistake. Placed last per protocol.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 13,300gp | XP: 108475/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -831,8 +925,11 @@ Torvin (Lvl 5) stares at the pouch, the violet light of his stone focus flickeri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push the Pouch Forward - Slide the gold across the table. Tell him that the sun is getting high and you have a farm to run, and he has a 'traitor' to transport.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 11,800gp | XP: 108475/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -850,8 +947,11 @@ The Flaming Fist Guards (Lvl 3) pull their horses around, the dust from their de
 > 👤 **Player:**
 > *"Explain gold to Lana and Sariel and plan next moves. Say we should open a merchant shop in the city and Sariel and I will trade adventuring loot and Lana can maintain the farm and I’ll hire a farm hand. Say we need to start acquiring more power unfortunately so the fist doesn’t harass us again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 10,300gp | XP: 108475/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -881,8 +981,11 @@ Sariel (Lvl 5) watches the exchange with the cold, analytical gaze of a student 
 God Mode:
 Make sure I have proper equipment in every slot as a former level 12 absolute general and I have all the proper paladin skills and abilities etc and a shield too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | XP: 108475/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Lay On Hands Pool: 60/60 | Divine Sense: 5/5 | Channel Divinity: 1/1**
@@ -911,8 +1014,11 @@ Administrative Update: Kaelen Voss's loadout and abilities have been fully resto
 God Mode:
 Best skills do I have
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | XP: 108475/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 60/60**
@@ -942,8 +1048,11 @@ Administrative Summary: Kaelen Voss's skill profile is optimized for Dexterity-b
 God Mode:
 What skills do I have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | XP: 108475/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 60/60**
@@ -979,8 +1088,11 @@ You have 7 primary skill proficiencies, with Stealth being your highest at +10 (
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Safety' Angle - Reframe the shop not as a power play, but as a necessary lightning rod to draw attention away from the farm and the children.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 10,300gp | XP: 110275/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1008,8 +1120,11 @@ Lana (Lvl 1) searches your face, her breath hitching as she looks for the lie. S
 God Mode:
 Give me some daily gold income from farm
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Voss Farmstead** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1508 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | XP: 110275/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 60/60**
@@ -1036,8 +1151,11 @@ Administrative Summary: Farm Economic Profile and Daily Income established.
 > 👤 **Player:**
 > *"Hire farmhand and then travel to baldurs gate. Use some gold for capital to start a merchant shop and get a permanent modest apartment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Baldur's Gate (Lower City)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1508 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 7,750gp | XP: 110275/120000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | CD: 1/1 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1053,8 +1171,11 @@ You stand in the center of the dusty storefront, the smell of old parchment and 
 > 👤 **Player:**
 > *"Let’s assume we bought some initial stock and sell things for  a day and see how well we do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Baldur's Gate (Lower City)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 7,783gp | XP: 111225/120000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1072,8 +1193,11 @@ Sariel pauses her cleaning, her hand resting naturally on the pommel of her blad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate for Information and Advance - Press Silas for exactly who 'misplaced' the crate and demand a retainer in platinum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Voss Curiosities, Baldur's Gate (Lower City)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 7983gp | XP: 112175/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1100,8 +1224,11 @@ He looks at you with a desperate hope. "Please, Master Voss. The platinum is a p
 > 👤 **Player:**
 > *"Ask how much we will be paid and ask how we can get noble protection from thieves guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Voss Curiosities, Baldur's Gate (Lower City)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 8,183gp | XP: 112175/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1128,8 +1255,11 @@ Sariel (Lvl 5) sheathes her rapier with a sharp, final *snick*. "It's a start, P
 > 👤 **Player:**
 > *"Ask to make us official retainers of the noble household with noble protection rights. Then if the guild comes after us we can ask the fist for help and they’re less likely to be troubled."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Voss Curiosities, Baldur's Gate (Lower City)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 8383gp | XP: 113025/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 60/60, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1159,8 +1289,11 @@ You gain 850 XP for securing a legal fortress in the city.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Night Scout (Stealth) - Don't wait for the papers. Head to the Grey Harbor now to identify Farlen's pier while the Guild is active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Grey Harbor, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 8383gp | XP: 114525/120000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1178,8 +1311,11 @@ You gain 1,500 XP for successfully infiltrating the Grey Harbor without detectio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate the Office - Use the roof grate to slip into Farlen's office and search for the manifest or the rings immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Dockmaster Farlen's Office, Grey Harbor** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Oathbreaker) | HP: 100/100 | Gold: 8,383gp | XP: 118525/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1199,8 +1335,11 @@ You gain **4,000 XP** for the successful infiltration and intelligence recovery.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Warehouse 4 - Head straight to the Smuggler's Run to intercept the crate before the Guild processes it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Warehouse 4, Smuggler's Run** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin | HP: 100/100 | Gold: 8383gp | XP: 119525/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Divine Sense: 5/5 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1219,8 +1358,11 @@ Discovery: The gantry lookout has noticed Sariel's position and is preparing to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silence with Whisper-Wood - Use your longbow to eliminate the lookout before he can reach the whistle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Warehouse 4, Smuggler's Run** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Lvl 13 available) | HP: 100/100 | Gold: 8,383gp | XP: 121325/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Cloak of Displacement (Active) | Inspiration: No**
@@ -1242,8 +1384,11 @@ Guild Lookout: 20 → 0 (Dead)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meditate on Power (Level 13) - Take a moment to center your focus and unlock your new 4th-level spellcasting potential.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Warehouse 4, Smuggler's Run** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 (Lvl 13 available) | HP: 100/100 | Gold: 8383gp | XP: 121325/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Spells: No 4th-level Spells Yet (Level 13 pending)** &nbsp;|&nbsp; ⚠️ **Cloak of Displacement (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1255,8 +1400,11 @@ You stand in the oppressive gloom of the Smuggler's Run, the briny air cooling t
 > 👤 **Player:**
 > *"focus on cc spells and prep them, finish recommended updates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Warehouse 4, Smuggler's Run** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin (Lvl 13 available) | HP: 108/108 | Gold: 8,383gp | XP: 121325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Cleansing Touch: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1276,8 +1424,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Warehouse 4, Smuggler's Run** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 8383gp | XP: 121325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Aura of Hate: +4 | Aura of Protection: +4** &nbsp;|&nbsp; ⚠️ **Cloak of Displacement (Active) | Inspiration: No**
@@ -1293,8 +1444,11 @@ You look at your hands, then at the massive, barnacle-encrusted door of Warehous
 > 👤 **Player:**
 > *"gantry door. do a special kind of stealth where i first scout/clear a path so its easier for sariel to come through after. this should give her a bonus to stealth if i pass my stealth check"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Warehouse 4 Interior, Gantry Catwalk** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8,383gp | XP: 121325/140000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1312,8 +1466,11 @@ Inside, the air is thick with the scent of spices, raw wool, and the unmistakabl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Floor from Catwalk - Stay on the upper level and use your high-ground advantage to locate Crate #882 visually before descending.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Warehouse 4 Interior, Gantry Catwalk** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 8,383gp | XP: 121925/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Cloak of Displacement (Active), Aura of Protection (+4), Aura of Hate (+4) | Exhaustion: 0 | Inspiration: No**
@@ -1329,8 +1486,11 @@ You gain **600 XP** for successfully scouting the warehouse floor and identifyin
 > 👤 **Player:**
 > *"THINK:Western Corridor Descent (Stealth) - Use the cargo nets to slip down to the silk-bales, following Sariel's suggested path."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Warehouse 4 Interior, Gantry Catwalk** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8,383gp | XP: 121925/140000**
@@ -1340,8 +1500,11 @@ You pause, your weight shifting infinitesimally as you analyze the vertical path
 > [!NOTE] ⚙️ **Player Choice:**
 > *Western Corridor Descent (Stealth) - Use the cargo nets to slip down to the silk-bales, following Sariel's suggested path.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Warehouse 4, Western Silk-Bales** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8383gp | XP: 122725/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1355,8 +1518,11 @@ Crate #882 sits bathed in a pool of flickering yellow light. The half-orc forema
 > 👤 **Player:**
 > *"THINK:whats the best plan, use wisdom"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Warehouse 4, Western Silk-Bales** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8,383gp | XP: 122725/140000**
@@ -1371,8 +1537,11 @@ Level 2	Aid, Magic Weapon
 Level 3	Blinding Smite, Elemental Weapon
 Level 4	Banishment, Staggering Smite
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Warehouse 4, Western Silk-Bales** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | XP: 122725/140000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -1417,8 +1586,11 @@ I have added **Command** and **Hold Person** as requested, filling your 10 flexi
 > 👤 **Player:**
 > *"trigger surprise round, cast hold person on orc, slit his throat quietly if it works. If not both sariel and i attack with silent attacks and she backstabs him which should surprise him too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Warehouse 4, Loading Bay** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8,383gp | XP: 124725/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Cloak of Displacement, Aura of Protection (+4), Aura of Hate (+4) | Exhaustion: 0 | Inspiration: No**
@@ -1434,8 +1606,11 @@ You catch the body as it falls, easing it down beside the heron-crested lid of C
 God Mode:
 give me some special black smites. they do shadow damage and are good for stealth and dont make nnoise etc, make it part of my modified oathbreaker class. also give me oathbreaking a backstory
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Warehouse 4, Loading Bay** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 8383gp | XP: 124725/140000**
@@ -1461,8 +1636,11 @@ He broke his oath when he refused the order to 'Ascend' (consume his own squad t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot Crate and Hide Body - Recover the signets and drag the foreman's body into the shadows of the silk-bales.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Warehouse 4, Loading Bay** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1508 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8,383gp | XP: 126225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Cloak of Displacement (Active), Aura of Protection (+6 Saves)**
@@ -1487,8 +1665,11 @@ You ignore the question for a heartbeat, your fingers working the latch of Crate
 > 👤 **Player:**
 > *"finish covering the body and tell her the truth but I've left that life behind. Explain the path to power usually doesnt involve keeping our hands clean. We can take different types of missions later if she wants but we need to get out of here safely. then lead her out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Grey Harbor, Smuggler's Run** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1515,8 +1696,11 @@ In the darkness, you feel her tension break, yielding to the grim weight of your
 > 👤 **Player:**
 > *"go to a secondary locaiton first and see if anyone following us, then arrive at the brampton estate and walk in publically to meet silas and ask if the retainer agreement is official now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 8383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1534,8 +1718,11 @@ Silas fumbles with a scroll tube at his side, his hands trembling with relief as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Silas for Rumors - Ask the steward what the Upper City is saying about the Inquisitors or the Nine-Fingers movements while he's still grateful.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 1/3, L3 3/3, L4 0/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1563,8 +1750,11 @@ You gain 1,500 XP for successfully extracting critical intelligence.
 > 👤 **Player:**
 > *"request audience lord brampton in the morning. then go back to the shop and have heart to heart convo with sariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Voss Curiosities, Lower City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 8,383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1588,8 +1778,11 @@ She turns and heads for the stairs without another word, her stride fluid and pr
 > 👤 **Player:**
 > *"reinforce defenses, long rest, and lets adjust this campaign. I don't think people should care that much about looking for me since it was 16 years ago, but there should be a lot of shock among the guild for how someone silently got those rings, as my level 12 abilities are rare. Lets allso assume as a level 12 commander I was al egend among the absolute forces because level 12 is the peak of bg3. so lets say that I have special nicknames/titles and beyond the judicator role I was also master of shadows and lead the elite assassins and elite scouts. Assume I treated my men well mostly so any former people I led may do us favors, offer jobs or help etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Voss Curiosities, Lower City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8,383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1607,8 +1800,11 @@ A sharp, urgent rapping at the front door breaks the silence. It is nine bells�
 God Mode:
 ets adjust this campaign. I don't think people should care that much about looking for me since it was 16 years ago, but there should be a lot of shock among the guild for how someone silently got those rings, as my level 12 abilities are rare. Lets allso assume as a level 12 commander I was al egend among the absolute forces because level 12 is the peak of bg3. so lets say that I have special nicknames/titles and beyond the judicator role I was also master of shadows and lead the elite assassins and elite scouts. Assume I treated my men well mostly so any former people I led may do us favors, offer jobs or help etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Voss Curiosities, Lower City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8383gp | XP: 128225/140000**
@@ -1631,8 +1827,11 @@ Administrative Summary: Campaign lore and character background recalibrated to '
 God Mode:
 undo this sleeping thorugh the audience thing, lets just assume i woke up in time and we go to the audience
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8,383gp | XP: 128225/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1657,8 +1856,11 @@ Administrative Summary: Narrative retcon and 'Shadow Weaver' lore integration ap
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Enter the Brampton Estate to begin the morning audience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1690,8 +1892,11 @@ lets also change the campaign a bit. I don't want anyone just detecting spell re
 
 lets also assume brampton doesn't know I'm the shadow weaver, that should be a secret unless he's a former absolute cultutst
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | XP: 128225/140000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -1716,8 +1921,11 @@ Inquisitor Lora is now in 'Suspicious Observer' mode. There is no immediate 'sen
 God Mode:
 tehre shuld be no paperwork trail because rememebr brampton didnt file a crime and wanted the rings discreetly discovered
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8383gp | XP: 128225/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1729,8 +1937,11 @@ Since Lord Brampton never filed a formal report and sought a discreet recovery, 
 God Mode:
 lets also assume brampton is rich but not that saavy in underworld, after all Silas came to our random shop to ask for help, and he wouldnt have known who i was
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 8383gp | XP: 128225/140000**
@@ -1746,8 +1957,11 @@ Administrative Update: Lord Brampton's profile and the shop's discovery lore hav
 God Mode:
 how would anyone even know a specialist was in lower city? lets just assume silas saw how i looked and knew i looked strong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | XP: 128225/140000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -1763,8 +1977,11 @@ Administrative Summary: Recruitment lore and recruitment logic refined.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the audience with Lord Brampton with this refined understanding of your recruitment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 9,383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1793,8 +2010,11 @@ Beside you, Sariel (Lvl 5) remains a statue of brooding stillness. She watches t
 > 👤 **Player:**
 > *"accept payment and negotiate the contract politely but assertively as a retainer. Ask for an estate, negotiate high income retainer, offer to train his troops. explain I'm actually a level 13 but I've been in retirement for awhile. Explain that I'm not just a blade but I can protect him in sensitive situations and help "persuade" people with my powerful presence, show him my level 13 aura. Also explain that I know the shadows/back alleys well and as great as silas is, he encountered me randomly at a curiositiies shop, and he doesnt have as much of a sense for these things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10383gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1826,8 +2046,11 @@ You gain **1,500 XP** for a masterful demonstration of power and securing a high
 
 lets make sure you give me the gold from my retainer every day and assume i hire more people for shop and expand the farm and give me the income every day for all 3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Brampton Estate Courtyard, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,453gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1849,8 +2072,11 @@ Sariel (Lvl 5) catches the look. She shifts her weight, her hand dropping to her
 > 👤 **Player:**
 > *"narrate a scene without me where lord brampton discusses me with Silas. He had no idea who I was and now he realized he hired someone truly powerful, hwich he actually wanted, but is just surprised"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Solar of the Brampton Estate, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 10,453gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1872,8 +2098,11 @@ Brampton looks back at the courtyard, his gaze fixing on the messenger who just 
 > 👤 **Player:**
 > *"dismiss guard, talk to mesenger in private, include sariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Brampton Estate Courtyard, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 10,453gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1904,8 +2133,11 @@ You watch Elias carefully (Insight: 10 vs DC 15 - Failure). His loyalty seems ge
 > 👤 **Player:**
 > *"Order Elias to recite 3 facts that only assassins/spies in my service would know but signal him not to talk about anything too brutal since my daughter here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Brampton Estate Courtyard, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 10453gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1938,8 +2170,11 @@ Your Insight check (Total 13 vs DC 14 - Failure) leaves you with a nagging doubt
 > 👤 **Player:**
 > *"Ask Elias what the remenants are doing. Explain even if I am active again I am not loyal to the absolute or remanents and its been 16 years"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Brampton Estate Courtyard, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,453gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1967,8 +2202,11 @@ You gain 1,200 XP for successfully navigating the revelation and clarifying your
 > 👤 **Player:**
 > *"Say I doubt nine fingers will find me, but I don't want forces killed. Agree to meet with the ghosts and assess the situation and how i can help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Brampton Estate Courtyard, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,453gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1990,8 +2228,11 @@ Your eyes scan Elias one last time (Insight: 11 vs DC 16 - Failure). His relief 
 God Mode:
 lets adjust this campaign. I don't think it makes sense that I would use an ability that identifies me, as i'm obviously a spy master. Lets just say that keene is purging the ghosts because she just suspects they wanted the rings and they have the ability to do silent killing. She doesnt know the actual master of ghosts is back. Lets also stop creating events like this where i do something that obviously leads back ot me but still generate challenges for other justifiable reasons
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Brampton Estate Courtyard, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10453gp | XP: 128225/140000**
@@ -2012,8 +2253,11 @@ Administrative Summary: Campaign logic and faction intelligence protocols recali
 God Mode:
 how much exp did i get during missions? sariel should be getting this exp too, dont make us level too fast, but also make sure she is leveling. if i got 13 should she be level 6 by now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Brampton Estate Courtyard, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1508 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,453gp | XP: 128225/140000**
@@ -2048,8 +2292,11 @@ You earned 15,000 XP specifically during the 'Brampton Signets' mission arc, con
 > 👤 **Player:**
 > *"make sure you auto pick her abilities and give her cc spells, extra attack, stats. track all her stats and dont forget to give her stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Drowned Rat, Undercity Ruins** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 10,523gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Cleansing Touch: 4/4** &nbsp;|&nbsp; ⚠️ **Aura of Hate, Aura of Protection, Cloak of Displacement | Exhaustion: 0 | Inspiration: No**
@@ -2065,8 +2312,11 @@ You descend into 'The Drowned Rat,' a cellar tavern carved from the bones of a p
 > 👤 **Player:**
 > *"Act like a commander but say I am not their official commander anymore and just want to help. tell me whats going on. i then introduce them to sariel and they should be amazed a 16 year old is level 6"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Drowned Rat, Undercity Ruins** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,523gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Hate (+4) | Exhaustion: 0 | Inspiration: No**
@@ -2092,8 +2342,11 @@ Kora recovers first, offering a shallow, respectful nod to Sariel before turning
 > 👤 **Player:**
 > *"ask how they're even being tracked, they shouldnt have necrotic essence on them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Drowned Rat, Undercity Ruins** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 10,523gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2111,8 +2364,11 @@ Beside you, Sariel (Lvl 6) stands perfectly still, her silvered eyes fixed on yo
 God Mode:
 wait lora isnt with the thieves guild? how does this make sense?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **The Drowned Rat, Undercity Ruins** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10523gp | XP: 128225/140000**
@@ -2144,8 +2400,11 @@ God Mode:
 i thought we purged this?
 She sees the forensic evidence (necrotic rot)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **The Drowned Rat, Undercity Ruins** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | XP: 128225/140000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -2164,8 +2423,11 @@ I have updated the background events and added a persistent constraint to ensure
 God Mode:
 ok so how is keene tracking the ghosts then?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Drowned Rat, Undercity Ruins** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10523gp | XP: 128225/140000**
@@ -2185,8 +2447,11 @@ Nine-Fingers Keene is tracking the Absolute remnants through three non-magical, 
 > 👤 **Player:**
 > *"lets redo the scene and. they explain to me how they think they're being tracked and i assess the situation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Drowned Rat, Undercity Ruins** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 10,523gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Hate (+4) | Exhaustion: 0 | Inspiration: No**
@@ -2215,8 +2480,11 @@ Sariel (Lvl 6) watches the Phantoms, her silvered eyes reflecting a mix of pity 
 > 👤 **Player:**
 > *"Secure new nest, have sariel lead to clean site, while I stay back and cover their retreat with Elias and see if anyone following. Tell them to rest and we can talk next steps after regroup"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Sunken Vault (New Nest), Heapside Sub-Levels** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,523gp | XP: 129225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1**
@@ -2241,8 +2509,11 @@ lets slow down my lveling for example this is too much for whatever i just did?
 ✨ REWARDS (encounter):
 +1000 XP | XP: 129225/140000 (46%)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **The Sunken Vault (New Nest), Heapside Sub-Levels** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10523gp | XP: 128000/140000**
@@ -2254,8 +2525,11 @@ I have added a persistent directive to the campaign state to enforce 'Slow Pacin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Scout Perimeter - Double back alone to the junction to perform a more rigorous sweep for hidden observers or marks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Sunken Vault, Heapside Sub-Levels** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,523gp | XP: 128150/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2276,8 +2550,11 @@ Reorganize the Phantoms: Establish a new command structure and begin 'scrubbing'
 Pros: Restores unit combat effectiveness, Blinds Nine-Fingers' intelligence chain
 Cons: Increases visibility in the Undercity, Deepens Kaelen's ties to the Absolute legacy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Sunken Vault, Heapside Sub-Levels** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,523gp | XP: 128375/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2306,8 +2583,11 @@ Sariel (Lvl 6) watches from the shadows, her silvered eyes tracking your every g
 > 👤 **Player:**
 > *"THINK:Why not just abandon old safe houses? Seems like they have nothing anyway"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **The Sunken Vault, Heapside Sub-Levels** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10523gp | XP: 128375/140000**
@@ -2317,8 +2597,11 @@ Wisdom Check: 19 vs DC 8 — Success. Your years as a spymaster allow you to see
 > 👤 **Player:**
 > *"THINK:What if we just do clean break, re establish new signals? If the safe houses already compromised we don’t know what guild already knows versus not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **The Sunken Vault, Heapside Sub-Levels** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10523gp | XP: 128375/140000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2328,8 +2611,11 @@ Wisdom Check: 16 vs DC 12 — Success. Your instincts as a Master of Shadows par
 > 👤 **Player:**
 > *"Tiered dispersal and only healthy phantoms will do scrubbing. We scrub together as a group and I will always scout first as I have the best stealth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Lower City / Upper City Boundary** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10,373gp | XP: 128575/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2355,8 +2641,11 @@ Lord Brampton's Audience: Head straight to the manor for the 8:00 AM meeting to 
 Pros: Solidifies the 'Influence' leg of the tripod, Leverages the night's success while Brampton is still grateful
 Cons: Requires maintaining the 'Noble' facade while exhausted
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Lower City / Upper City Boundary** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10373gp | XP: 128575/140000**
@@ -2372,8 +2661,11 @@ I have updated the mission state to reflect this completion. The narrative remai
 God Mode:
 how did you get it wrong? did you see a stale mission?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Lower City / Upper City Boundary** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10373gp | XP: 128575/140000**
@@ -2394,8 +2686,11 @@ I have manually verified that `custom_campaign_state.completed_missions` now exp
 God Mode:
 was it in active missions before?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Lower City / Upper City Boundary** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | XP: 128575/140000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -2412,8 +2707,11 @@ Yes, the mission 'The Brampton Signets' was narratively active starting from Seq
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign at dawn on Kythorn 1.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Lower City / Upper City Boundary** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 10373gp | XP: 128575/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2437,8 +2735,11 @@ then take lana aside and ensure she handled the move ok and children are ok
 
 then long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1508 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 10443gp | XP: 128575/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2477,8 +2778,11 @@ You spend the day in a state of watchful stillness, overseeing the establishment
 
 lets assume we lay low and just do safe reconnaissance, train the troops, wait am onth for things to die down. keep training sariel. maintain farm and shop through assistants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 1, 1508 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 12,543gp | XP: 128575/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1**
@@ -2500,8 +2804,11 @@ You stand on the master balcony, the scent of night-blooming jasmine finally yie
 > 👤 **Player:**
 > *"THINK:how to train these troops properly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 1, 1508 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 12,543gp | XP: 128575/140000**
@@ -2511,8 +2818,11 @@ Wisdom Check: 14 vs DC 12 — Success. Your instincts as a commander guide you, 
 > 👤 **Player:**
 > *"THINK:how to train these troops better or should i just get new ones"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 1, 1508 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 12543gp | XP: 128575/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2522,8 +2832,11 @@ Wisdom Check: 19 vs DC 12 — Success. Your high Wisdom (13) and decades of comm
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Tiered Defense Initiative (Synergistic) - Promote internal leaders for morale, hire 4 Phantom NCOs for grit, and delegate all standard drills to Kora to remove the 'Aura Pressure' from daily life.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 7, 1508 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 12043gp | XP: 128225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Aura of Protection, Aura of Hate | Exhaustion: 0 | Inspiration: No**
@@ -2541,8 +2854,11 @@ As the sun climbs higher, Silas (Lvl 3) approaches the balcony, a sealed scroll 
 > 👤 **Player:**
 > *"approach brampton with an idea. Explain that the zhent and harpers likely will go to war and what if we signal this to the fist and volunteer to help. After a few successful misions and we prove ourselves we can ask the four dukes for funding and an official mandate, empowering brampton politically and giving us resources/influence."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 1, 1508 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 12,613gp | XP: 128875/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Hate (+4) | Exhaustion: 0 | Inspiration: No**
@@ -2568,8 +2884,11 @@ From the corner of the solar, Sariel (Lvl 6) watches the pact be sealed, her sil
 
 then tmie skip and train nco and try again to scout household guard for anyone with potential. change my tactics and focus more on the carrot ie. great glory and rewards for those who help on the special zhentarium pacification mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 1508 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 108/108 | Gold: 13,313gp | XP: 129100/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2587,8 +2906,11 @@ Silas (Lvl 3) approaches you now, his face shaded by a wide-brimmed hat. 'Comman
 > 👤 **Player:**
 > *"Make Sariel a lieutenant and have her display her level 6 skills to the troops so they realize she is elite. Then take her aside and say amusingly I came out of retirement and got forced into taking power to protect us and now i can transition power to her and she can eventually grow her own tripod power. Give her a salary too."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 1508 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 13,313gp | XP: 129100/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+4), Aura of Hate (+4) | Exhaustion: 0 | Inspiration: No**
@@ -2612,8 +2934,11 @@ Sariel takes the purse, her fingers lingering on the silk. She doesn't thank you
 > 👤 **Player:**
 > *"Fist negotiation. Pre empt the farmer stuff with my cover story about being a disgraced noble retainer from somewhere far away and I’m a veteran commander. Introduce my daughter as someone following in my footsteps and let’s assume Silas and Elias are lieutenants too. A command with 3 level 6 lieutenants should impress them. Ask for fist auxiliary status so we can do our work without the paperwork"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 1508 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 13,313gp | XP: 129325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2644,8 +2969,11 @@ He leans back, his gauntlet rasping against the table. "Lord Brampton, your 'Com
 > 👤 **Player:**
 > *"Propose the commander or his men allow us to accompany them on some missions and once we prove ourselves we revisit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 1508 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 13,313gp | XP: 129325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Aura of Protection, Aura of Hate | Exhaustion: 0 | Inspiration: No**
@@ -2674,8 +3002,11 @@ Beside you, Sariel (Lvl 6) adjusts the hang of her rapier, her silvered eyes loc
 > 👤 **Player:**
 > *"Brief phantoms, go shopping for better gear and prioritize Sariel armor, my gear, and then gear for other lieutenants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 1508 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 13313gp | XP: 129325/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2697,8 +3028,11 @@ As the sun dips toward the horizon, the weight of ten thousand, five hundred gol
 God Mode:
 Swap sariel armor with stealth benefit armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 1508 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 108/108 | Gold: 2813gp | XP: 129325/140000**
@@ -2712,8 +3046,11 @@ Administrative Action: Sariel's armor has been swapped. Her 'Silksong Armor' has
 God Mode:
 Give me even stats. 14 wisdom 10 int 16 con. Give me fear level 3 spell and swap bestow curse
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Miller's Rest (Upper City Estate)** &nbsp;|&nbsp; ⏳ **Flamerule 10, 1508 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 2813gp | XP: 129325/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2736,8 +3073,11 @@ Administrative Summary: Attributes recalibrated to even values and spell manifes
 > 👤 **Player:**
 > *"Rest and then go early before the mission starts with my lieutenants and scout the area"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Heapside Rooftops (Lower City)** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 2813gp | XP: 129325/140000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Long Rested | Inspiration: No**
@@ -2757,8 +3097,11 @@ You nod, noting the pattern. You have mapped the sentry rotations and identified
 > 👤 **Player:**
 > *"Rest and then go early before the mission starts with my lieutenants and scout the area"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin (Oathbreaker) | HP: 121/121 | Gold: 2,813gp | XP: 129725/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Rested | Exhaustion: 0 | Inspiration: No**
@@ -2776,8 +3119,11 @@ You gain 400 XP for the successful pre-mission reconnaissance and identifying th
 God Mode:
 Shouldn’t I have more than 2800 gold!
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 3,100gp | XP: 129725/140000**
@@ -2810,8 +3156,11 @@ Your current total reflects the transition from a wealthy refugee to an Upper Ci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Zhent Messenger (Recommended) - Elias has spotted a messenger preparing to leave the block; capture him to learn the Zhentarim's reinforcement schedule.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 3100gp | XP: 128200/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2831,8 +3180,11 @@ Terrified and overwhelmed by the clinical efficiency of his capture, the messeng
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate with Commander Harth - Send Elias to inform the Flaming Fist, allowing them to hit the column while we infiltrate the headquarters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 3,100gp | XP: 129925/140000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Cloak of Displacement (Active), Aura of Protection (+4), Aura of Hate (+4 Damage) | Inspiration: No**
@@ -2852,8 +3204,11 @@ You feel the 'weight' of the tripod shifting once more; Might and Influence are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Two-Pronged Breach (Synergistic) - Kora and the Phantoms hit the rooftop mages while you and Sariel breach the HQ windows simultaneously - timing is keyed to the Fist's first strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 3,100gp | XP: 130225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection, Aura of Hate | Exhaustion: 0 | Inspiration: No**
@@ -2876,8 +3231,11 @@ Resistance Shown: Sariel's shock has been fully integrated into a cold, tactical
 God Mode:
 How many ASI did I get ? I think with asi probably one of my stats should be 20? If so pick cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 3100gp | XP: 130225/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2903,8 +3261,11 @@ As a Level 13 Paladin, you have received **3 Ability Score Improvements** (at le
 > 👤 **Player:**
 > *"Cast confusion on commander and his guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin | HP: 121/121 | Gold: 3100gp | XP: 130225/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Aura of Hate, Aura of Protection | Exhaustion: 0 | Inspiration: No**
@@ -2937,8 +3298,11 @@ SARIEL'S TURN - ACTIONS REMAINING:
 God Mode:
 Change my class from oathbreaker to shadow paladin. Focus on stealth, cc, debuff auras, silent killing, dark magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin (Master of Shadows) | HP: 121/121 | XP: 130225/140000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -2958,8 +3322,11 @@ Your prepared spells now prioritize battlefield control and stealth. *Pass Witho
 > 👤 **Player:**
 > *"Let the guard and commander fight. Kill the other guard, then kill the remaining guard and hold person commander and if I fail tell Sariel to do hold person commander"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 3100gp | XP: 130625/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of the Void (-5 AC/Saves to enemies), Aura of Dread | Exhaustion: 0 | Inspiration: No**
@@ -2986,8 +3353,11 @@ You gain 400 XP for the tactical neutralization of the Zhentarim command cell.
 > 👤 **Player:**
 > *"Bind him and have Sariel seize ledger, loot him and his guards"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:02)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 3610gp | XP: 130850/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Cleansing Touch: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5), Aura of the Void (-5 AC/Saves), Aura of Dread | Inspiration: No**
@@ -3005,8 +3375,11 @@ While she secures the intelligence, you systematically deconstruct the loot of t
 > 👤 **Player:**
 > *"This doesn’t make any sense. The fist we’re working with us and obviously know we did this. Let’s just open the door and say all isngood. Our lethal methods are expected here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 4,120gp | XP: 132850/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Divine Sense: 5/5 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3030,8 +3403,11 @@ You gain **2,000 XP** for the successful pacification of the Zhentarim headquart
 > 👤 **Player:**
 > *"Narrate his reaction. He should be very impressed and extra impressed by Sariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 4120gp | XP: 133200/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3065,8 +3441,11 @@ LOOT OBTAINED:
 > 👤 **Player:**
 > *"Offer to do joint training exercises if we become official comrades hinting at auxiliary status without seeming pushy and offering him value"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Zhentarim HQ, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 4120gp | XP: 133330/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3106,8 +3485,11 @@ Sariel (Lvl 6) offers a shallow, professional nod to Harth, her silvered eyes ca
 > 👤 **Player:**
 > *"Delegate Scout guild reaction and in parallel go home and long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Miller's Rest Estate, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 4172gp | XP: 133330/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3127,8 +3509,11 @@ Sariel (Lvl 6) stands by the window, her silvered eyes reflecting the midday gla
 > 👤 **Player:**
 > *"Heal my scouts and tell them to sit tight then do Brampton audience with Sariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Miller's Rest Estate, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 3,100gp | XP: 133330/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3150,8 +3535,11 @@ You take the scroll, the weight of the second leg of your tripod—Influence—f
 > 👤 **Player:**
 > *"Initiate joint training and then have only my level 6+ forces present for this. Have my scouts lead the guild drowners into a fist joint training exercise (assume we doing night time simulated operations) and don’t let the guild realize they are attacking the first. I think counter ambush and surprise the drowners and tell the fist this is no longer training and the guild really attacked us."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Grey Harbor Shipyards, Lower City** &nbsp;|&nbsp; ⏳ **Flamerule 11, 1508 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 3100gp | XP: 135130/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 65/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3175,8 +3563,11 @@ You offer a shallow, grim nod, the *Crown of the False King* catching a glint of
 > 👤 **Player:**
 > *"I tell scouts to rest and personally identify the fallen. Then escalate to high hall. Explain the guild attacked us directly during our training exercise and the zhentarim are taking over blatantly. Things are crazy and we need a legal mandate, resources, men"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **The High Hall, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 4229gp | XP: 139130/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Aura: 10ft (-5 AC/Saves)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3204,8 +3595,11 @@ Beside you, Sariel (Lvl 7) stands like a silver needle, her silvered eyes fixed 
 God Mode:
 Let’s make sure Keene doesn’t have unlimited high level troops, losing the drowners should be a big hit
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **The High Hall, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 4229gp | XP: 139130/140000**
@@ -3225,8 +3619,11 @@ Administrative Summary: Nine-Fingers Keene's elite resource pool has been formal
 > 👤 **Player:**
 > *"Recruit only trusted ghosts or people who we personally know served with us on absolute side but are clean. I personally hand pick elite level 6+ with of fist specialists of all classes and commander Garth as second in command. With our funding we try to get gear upgrades for everyone and recruit lots of low level fist too. Low level recruits don’t matter as much if they are infiltrated"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Miller's Rest Estate, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 121/121 | Gold: 4229gp | XP: 139530/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Aura: Active** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3246,8 +3643,11 @@ With the High Hall funding, you commission a massive gear-up at Gond's Forge. Ev
 > 👤 **Player:**
 > *"Use the low level fist to guard the shops and places from obvious zhentarim protection. Hide the elites for now. Personally use invisibility spell and all my stealth skills to scout the guild bosses and see who can be turned"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Lower City Slums / Undercity Threshold** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin (Lvl 14 available) | HP: 121/121 | Gold: 4,229gp | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Aura: Active** &nbsp;|&nbsp; ⚠️ **Invisible (Concentration) | Exhaustion: 0 | Inspiration: No**
@@ -3271,8 +3671,11 @@ You stand just inches from her, the 'weight' of your Level 13 soul a silent pres
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 14 - Apply Paladin Level 14 benefits, including the 'Cleansing Touch' enhancement and increased durability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Lower City Slums / Undercity Threshold** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin (Lvl 14 available) | HP: 121/121 | Gold: 4,229gp | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 0/0 (Level 14 pending)**
@@ -3290,8 +3693,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Lower City Slums / Undercity Threshold** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 130/130 | Gold: 4,229gp | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 65/65** &nbsp;|&nbsp; ⚠️ **Invisible, Aura of the Void, Aura of Dread | Inspiration: No**
@@ -3303,8 +3709,11 @@ Vala (Lvl 8) continues to trace the harbor map, her gaze predatory and focused. 
 > 👤 **Player:**
 > *"Reveal presence and negotiate. Pretend I’m not the reaper but one of his lieutenants. Show my full level 14 presence and say the reaper is like level 18 now and my boss and will take the underwood. Might as well join him he pays well."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **The Gilded Eel, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 130/130 | Gold: 4,229gp | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Invisible (Ending), Aura of the Void/Dread Active | Exhaustion: 0**
@@ -3332,8 +3741,11 @@ Mick (Lvl 7) looks ready to weep, his will crushed by the indigo pressure. Vala,
 God Mode:
 Fix my level I should be 14 and also my gold should be a lot higher think fix that too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **The Gilded Eel, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 140330/140000**
@@ -3358,8 +3770,11 @@ Your current XP (140,330) is now tracked against the Level 15 threshold of 165,0
 > 👤 **Player:**
 > *"Explain that the reaper is already backed by the patriars and the fist. Show some noble backing proof and then laugh at how an elite unit was decimated and my side took zero casualties."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **The Gilded Eel, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 130/130 | Gold: 20075gp | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1, Lay on Hands: 30/65, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Invisible (Dropped), Aura of the Void (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3390,8 +3805,11 @@ Vala (Lvl 8) stares at the High Hall seal, her predatory ambition visibly warrin
 > 👤 **Player:**
 > *"Ask for intel, main hideout location, Keene schedule, cleansing crews. Explain once they prove themselves to me they have protection and gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **The Gilded Eel, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin (Master of Shadows) | HP: 130/130 | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 0/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -3401,8 +3819,11 @@ The story continues...
 > 👤 **Player:**
 > *"Ask for intel, main hideout location, Keene schedule, cleansing crews. Explain once they prove themselves to me they have protection and gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **The Gilded Eel, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Invisible (Lapsed) | Aura: Void (-5 AC/Saves), Dread (Disadvantage) | Inspiration: No**
@@ -3431,8 +3852,11 @@ You gain **225 XP** for successfully breaking the Guild sub-bosses and securing 
 > 👤 **Player:**
 > *"Say that they’ll both stay with me while we validate intel. Send my best spies to validate it and wait with the two until it’s good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **The Gilded Eel, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 140330/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3460,8 +3884,11 @@ Vala (Lvl 8) watches you from the table, her eyes searching yours for the 'Golde
 God Mode:
 Make sure I’m really level 14 session header says 13
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **The Gilded Eel, Heapside District** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 140330/165000** &nbsp;|&nbsp; ⚠️ **Aura of the Void (-5 AC/Saves), Aura of Dread, Aura of Protection (+5)**
@@ -3485,8 +3912,11 @@ Administrative Action: Character Level formally synchronized to 14. The session 
 > 👤 **Player:**
 > *"Give them both 500g each and say there’s another 500g after we resolve the situation. Then bring them with my elites to strike the guilds elites. Cast confusion on guild elites and kill or capture a good amount and then tell them to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **The Weeping Pipe, Grey Harbor** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 19,000gp | XP: 140555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3512,8 +3942,11 @@ The remaining Guild members, paralyzed by fear and the psychic weight of your pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Interrogation - Take the elite leaders to a secure location to extract the bypass codes for the 'Inner Sanctum' warded tomb.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Miller's Rest Cellars, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 19,000gp | XP: 140805/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3535,8 +3968,11 @@ The codes remain beyond your reach for the moment, but the 'Influence' leg of yo
 God Mode:
 How many level 8 did I kill or capture? How many left now? Also I should probably get more exp for beating all of them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Miller's Rest Cellars, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 143305/165000**
@@ -3557,8 +3993,11 @@ I have awarded an additional 2,500 XP for the mass victory at the Weeping Pipe a
 God Mode:
 Wait aren’t the elite crews level 8? I just beat elites not lower levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Miller's Rest Cellars, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20000gp | XP: 148305/165000**
@@ -3578,8 +4017,11 @@ I have awarded an additional **5,000 XP** to reflect the true mechanical weight 
 > 👤 **Player:**
 > *"Lead a team to rescue his family tell the two guild bosses we recruited to spread the word, rally their gangs, and try to switch everyone to our side. Have my spies carefully assess Keene response. Then without me around narrate Keene and her leaders reaction to losing another 25% of elites they should be panicking even more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Miller's Rest Cellars, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 12, 1508 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20000gp | XP: 150805/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3609,8 +4051,11 @@ Deep beneath the city, the lead-lined vaults of the Old Cloaca vibrate with a te
 > 👤 **Player:**
 > *"Let’s ensure they also spread the word half the elites are dead or captured . Redo scene as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **The Inner Sanctum (Under the Counting House)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 150805/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1, Cleansing Touch: 5/5, Lay on Hands: 65/65**
@@ -3640,8 +4085,11 @@ Keene slams a dagger into the table, but her eyes betray her. For the first time
 > 👤 **Player:**
 > *"Bring my 30+ Brampton elites and all my lieutenants and do heart of serpent. After we unlock it have mages send summons to trigger trappers and use former guild members to prove themselves after by disarming traps. Then go stealth and try to cast confusion on all enemies to open"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **The Inner Sanctum (Under the Counting House)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 149805/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1, Lay on Hands: 30/65, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5), Aura of the Void (-5), Aura of Dread | Exhaustion: 0 | Inspiration: No**
@@ -3665,8 +4113,11 @@ You don't wait. You surge forward into the Inner Sanctum, the *Crown of the Fals
 > 👤 **Player:**
 > *"Have all my elite mages first open with up cast fireballs and ranged attacks. Tell Sariel to use ranged atyacks. I try an upcsst command grovel on both lieutenants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **The Inner Sanctum (Under the Counting House)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 150805/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of the Void, Aura of Dread | Exhaustion: 0 | Inspiration: No**
@@ -3684,8 +4135,11 @@ The room is silent now, save for the crackle of burning tapestries and the ragge
 > 👤 **Player:**
 > *"Have all my elite mages first open with up cast fireballs and ranged spells and cc spells. If a cc spell works stop ranged dps on the person . Tell Sariel to use ranged atyacks. I try an upcsst command grovel on both lieutenants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **The Inner Sanctum (Under the Counting House)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 153305/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 0/1, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5), Aura of the Void, Aura of Dread | Exhaustion: 0 | Inspiration: No**
@@ -3718,8 +4172,11 @@ But the command is redundant. Nine-Fingers Keene's head lolls forward, her eyes 
 > 👤 **Player:**
 > *"Fully bind and loot everyone. Remember the fist is on my side and I’m figuring with people in hand picked from the fist right now. Bind everyone and then interrogate them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **The Inner Sanctum (Under the Counting House)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 25,000gp | XP: 159555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3754,8 +4211,11 @@ Sariel (Lvl 7) stands at your shoulder, her silvered eyes tracking the way Keene
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Leadership to Miller's Rest - Formally arrest Keene and her lieutenants as Fist Auxiliaries and move them to your private lead-lined cellars for deep questioning.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Miller's Rest (Miller's Bluffs)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 26200gp | XP: 159555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3775,8 +4235,11 @@ Sariel (Lvl 7) stands by the cellar grate as the heavy bolts slide home. She loo
 > 👤 **Player:**
 > *"Have my converted guild members spread the word that Keene is defeated and delegate purges of other gangs and crews while I interrogate Keene and the other leaders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Miller's Rest (Miller's Bluffs)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 159555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5), Aura of the Void (-5), Aura of Dread (Disadvantage) | Exhaustion: 0**
@@ -3798,8 +4261,11 @@ Keene's smile falters for the briefest of heartbeats, a flicker of genuine alarm
 > 👤 **Player:**
 > *"Sends Kora with an elite guard showing Keene ring. In parallel do break the Queens will"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Miller's Rest (Miller's Bluffs)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 162555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3843,8 +4309,11 @@ High above, a silver-toned bell chimes in the estate. Elias (Lvl 6) returns thro
 > 👤 **Player:**
 > *"Use zone truth detector thoughts to interrogate her and see what’s going on. If I don’t have the spells have one of my mages cast it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Miller's Rest (Interrogation Cellar)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 162555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3866,8 +4335,11 @@ Sariel (Lvl 7) steps into the light, her face a mask of chillingly proud stillne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate for the Fail-Safe Bypass - Use the news of the gangs flipping to convince Keene that her 'Queen' status is dead regardless of the dossier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Miller's Rest (Interrogation Cellar)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (08:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 162555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/1, Lay on Hands: 30/65, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of the Void, Aura of Dread | Cleansing Touch: 5/5 | Inspiration: No**
@@ -3896,8 +4368,11 @@ Sariel (Lvl 7) stands by the fluted column, her silvered eyes tracking the rhyth
 > 👤 **Player:**
 > *"Use command on her to get failsafe bypass and detect thoughts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Miller's Rest (Interrogation Cellar)** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 162555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3926,8 +4401,11 @@ Sariel (Lvl 7) leans forward, her own eyes silvered with the intensity of the re
 > 👤 **Player:**
 > *"Subtle retrieval but have the direct interception team led by me ready. Have the watch and the fist stand down"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Bloomridge District, The Gilded Goblet** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 20,000gp | XP: 162555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3951,8 +4429,11 @@ The courier doesn't even look down. He simply takes a sip of his wine, unaware t
 > 👤 **Player:**
 > *"Plant misinformation then leave. Go back and keep initimidating Keene now that her plans failed and try to get her to officially hand over the guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Miller's Rest, Interrogation Cellar** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 21,200gp | XP: 164055/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Aura of the Void, Aura of Dread | Exhaustion: 0 | Inspiration: Yes**
@@ -3985,8 +4466,11 @@ Keene's silvered eyes wide, her pupils dilating as she stares at the dossier. Th
 > 👤 **Player:**
 > *"Ask what she means about the inquisitor and the styes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Miller's Rest, Interrogation Cellar** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 21,200gp | XP: 164055/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4006,8 +4490,11 @@ Sariel (Lvl 7) stands by the fluted column, her silvered eyes narrowing as she p
 > 👤 **Player:**
 > *"THINK:How to redirect Lora attention"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Miller's Rest, Interrogation Cellar** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 21200gp | XP: 164055/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1, Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Aura of the Void, Aura of Protection, Aura of Dread | Exhaustion: 0 | Inspiration: No**
@@ -4017,8 +4504,11 @@ You pause, the frigid air of the lead-lined cellar feeling like a familiar garme
 > 👤 **Player:**
 > *"Double blind and use my cha to roll and Sariel gives me bardic inspiration for the roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Miller's Rest, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 21,200gp | XP: 165555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Cleansing Touch: 5/5 | Lay on Hands: 30/65** &nbsp;|&nbsp; ⚠️ **Sanctuary (Epic) | Exhaustion: 0 | Inspiration: No**
@@ -4058,8 +4548,11 @@ Your mastery of the shadows has reached a new threshold. Would you like to level
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 15 - Open the level-up modal to apply Level 15 Shadow Paladin benefits, including increased HP and advanced class features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Miller's Rest, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 130/130 | Gold: 21,200gp | XP: 165555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1, Lay on Hands: 30/65, Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4077,8 +4570,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Miller's Rest, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin (Master of Shadows) | HP: 130/130 | XP: 165555/165000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Channel Divinity: 1/1 | Divine Sense: 5/5 | Lay On Hands Pool: 65/65**
@@ -4094,8 +4590,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Miller's Rest, Upper City** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 139/139 | Gold: 21,200gp | XP: 165555/195000** &nbsp;|&nbsp; ✨ **HD: 14/15 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/2 | Lay on Hands: 30/70 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of the Void, Aura of Dread | Exhaustion: 0 | Inspiration: No**
@@ -4109,8 +4608,11 @@ Nine-Fingers Keene (Lvl 12) remains in the lead-lined cellars below, her crown s
 > 👤 **Player:**
 > *"Consolidated harbor sovereignty. Have failsafes or assassins ready to kill any under bosses who resist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **The Undercity Ruins, Heapside Sub-Levels** &nbsp;|&nbsp; ⏳ **Flamerule 13, 1508 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Shadow Paladin | HP: 130/130 | Gold: 21,200gp | XP: 168055/195000** &nbsp;|&nbsp; ✨ **HD: 14/15 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 1/2 | Lay on Hands: 40/75 | Cleansing Touch: 5/5** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5), Aura of the Void, Aura of Dread | Exhaustion: 0 | Inspiration: Yes**
@@ -4132,6 +4634,8 @@ The remaining eight sub-bosses, including 'Silk' Vala (Lvl 8) and 'Rat-King' Mic
 "The debt is paid," you whisper, the indigo light of your *Crown* flaring one final time. "The harbor is consolidated. Now, you will tell me how we reorganize the tax-routes, or the Phantoms will finish the count."
 
 Sariel (Lvl 7) watches the carnage with a chillingly proud stillness, her silvered eyes catching the glint of the blood on the floor. She sees the 'Might' leg of the tripod being driven into the bedrock of the city through cold, calculated slaughter. The Guild is no longer headless—it has a Master, and he does not tolerate noise.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

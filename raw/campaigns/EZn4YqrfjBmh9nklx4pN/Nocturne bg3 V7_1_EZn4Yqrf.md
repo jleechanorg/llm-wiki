@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (42 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Vibe: Pitiful. Fragile.
@@ -857,58 +868,63 @@ Your Move:
  * "Serve." (Option C - Manipulation). Use her to destroy the Grove.
 Which command does the Daughter of Two Hells give?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Shattered Sanctum - Minthara's War Room | Eleasias 24, 1492 DR (22:00) | Roleplay |
-| **02** | The Shattered Sanctum | Eleasias 24, 1492 DR (22:00) | Roleplay |
-| **03** | The Shattered Sanctum - War Room | Eleasias 24, 1492 DR (22:00) | Roleplay |
-| **04** | The Shattered Sanctum - Minthara's War Room | Eleasias 24, 1492 DR (22:05) | Boss Surrender |
-| **05** | The Shattered Sanctum | Eleasias 24, 1492 DR (22:10) | Roleplay |
-| **06** | The Shattered Sanctum | Eleasias 24, 1492 DR (22:10) | Roleplay |
-| **07** | The Shattered Sanctum - War Room | Eleasias 24, 1492 DR (22:20) | Roleplay |
-| **08** | The Shattered Sanctum | Eleasias 24, 1492 DR (22:25) | Roleplay |
-| **09** | The Shattered Sanctum | Eleasias 24, 1492 DR (22:40) | Roleplay |
-| **10** | The Shattered Sanctum | Eleasias 24, 1492 DR (22:40) | Roleplay |
-| **11** | Minthara's War Room | Eleasias 24, 1492 DR (22:40) | Roleplay |
-| **12** | The Shattered Sanctum | Eleasias 24, 1492 DR (22:40) | Roleplay |
-| **13** | The Shattered Sanctum - High Priestess's Chapel | Eleasias 24, 1492 DR (23:00) | Social Challenge |
-| **14** | Minthara's War Room | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **15** | The Shattered Sanctum - Gut's Chapel | Eleasias 24, 1492 DR (23:15) | Social Challenge |
-| **16** | Gut's Private Chapel | Eleasias 24, 1492 DR (23:16) | Roleplay |
-| **17** | Gut's Private Chapel | Eleasias 24, 1492 DR (23:17) | Boss Surrender |
-| **18** | Gut's Private Chapel | Eleasias 24, 1492 DR (23:22) | Roleplay |
-| **19** | The Shattered Sanctum - Throne Room | Eleasias 24, 1492 DR (23:25) | Roleplay |
-| **20** | The Shattered Sanctum | Eleasias 24, 1492 DR (23:26) | Roleplay |
-| **21** | The Shattered Sanctum | Eleasias 24, 1492 DR (23:46) | Roleplay |
-| **22** | The Shattered Sanctum | Eleasias 25, 1492 DR (00:01) | Roleplay |
-| **23** | The Shattered Sanctum | Eleasias 25, 1492 DR (00:05) | Roleplay |
-| **24** | The Shattered Sanctum | Eleasias 25, 1492 DR (00:15) | Roleplay |
-| **25** | The Shattered Sanctum | Eleasias 25, 1492 DR (00:15) | Roleplay |
-| **26** | The Shattered Sanctum | Eleasias 25, 1492 DR (00:15) | Roleplay |
-| **27** | The Shattered Sanctum - Treasury | Eleasias 25, 1492 DR (00:15) | Roleplay |
-| **28** | The Shattered Sanctum (Ragzlin's Vault) | Eleasias 25, 1492 DR (00:16) | Roleplay |
-| **29** | The Worg Pens | Eleasias 25, 1492 DR (00:25) | Roleplay |
-| **30** | Worg Pens | Eleasias 25, 1492 DR (00:20) | Social Challenge |
-| **31** | Worg Pens | Eleasias 25, 1492 DR (00:30) | Boss Surrender |
-| **32** | Worg Pens | Eleasias 25, 1492 DR (00:30) | Roleplay |
-| **33** | Worg Pens | Eleasias 25, 1492 DR (00:45) | Roleplay |
-| **34** | Worg Pens | Eleasias 25, 1492 DR (00:45) | Roleplay |
-| **35** | Worg Pens | Eleasias 25, 1492 DR (00:55) | Roleplay |
-| **36** | Worg Pens | Eleasias 25, 1492 DR (01:05) | Roleplay |
-| **37** | Worg Pens | Eleasias 25, 1492 DR (00:50) | Roleplay |
-| **38** | Worg Pens | Eleasias 25, 1492 DR (01:00) | Boss Surrender |
-| **39** | Worg Pens | Eleasias 25, 1492 DR (01:10) | Roleplay |
-| **40** | Worg Pens / Forest Ridges | Eleasias 25, 1492 DR (01:45) | Roleplay |
-| **41** | Forest Ridges | Eleasias 25, 1492 DR (01:50) | Social Challenge |
-| **42** | Forest Ridges | Eleasias 25, 1492 DR (01:55) | Roleplay |
+| [**Scene 01**](#scene-1) | The Shattered Sanctum - Minthara's War Room | Eleasias 24, 1492 DR (22:00) | Roleplay |
+| [**Scene 02**](#scene-2) | The Shattered Sanctum | Eleasias 24, 1492 DR (22:00) | Roleplay |
+| [**Scene 03**](#scene-3) | The Shattered Sanctum - War Room | Eleasias 24, 1492 DR (22:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The Shattered Sanctum - Minthara's War Room | Eleasias 24, 1492 DR (22:05) | Boss Surrender |
+| [**Scene 05**](#scene-5) | The Shattered Sanctum | Eleasias 24, 1492 DR (22:10) | Roleplay |
+| [**Scene 06**](#scene-6) | The Shattered Sanctum | Eleasias 24, 1492 DR (22:10) | Roleplay |
+| [**Scene 07**](#scene-7) | The Shattered Sanctum - War Room | Eleasias 24, 1492 DR (22:20) | Roleplay |
+| [**Scene 08**](#scene-8) | The Shattered Sanctum | Eleasias 24, 1492 DR (22:25) | Roleplay |
+| [**Scene 09**](#scene-9) | The Shattered Sanctum | Eleasias 24, 1492 DR (22:40) | Roleplay |
+| [**Scene 10**](#scene-10) | The Shattered Sanctum | Eleasias 24, 1492 DR (22:40) | Roleplay |
+| [**Scene 11**](#scene-11) | Minthara's War Room | Eleasias 24, 1492 DR (22:40) | Roleplay |
+| [**Scene 12**](#scene-12) | The Shattered Sanctum | Eleasias 24, 1492 DR (22:40) | Roleplay |
+| [**Scene 13**](#scene-13) | The Shattered Sanctum - High Priestess's Chapel | Eleasias 24, 1492 DR (23:00) | Social Challenge |
+| [**Scene 14**](#scene-14) | Minthara's War Room | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 15**](#scene-15) | The Shattered Sanctum - Gut's Chapel | Eleasias 24, 1492 DR (23:15) | Social Challenge |
+| [**Scene 16**](#scene-16) | Gut's Private Chapel | Eleasias 24, 1492 DR (23:16) | Roleplay |
+| [**Scene 17**](#scene-17) | Gut's Private Chapel | Eleasias 24, 1492 DR (23:17) | Boss Surrender |
+| [**Scene 18**](#scene-18) | Gut's Private Chapel | Eleasias 24, 1492 DR (23:22) | Roleplay |
+| [**Scene 19**](#scene-19) | The Shattered Sanctum - Throne Room | Eleasias 24, 1492 DR (23:25) | Roleplay |
+| [**Scene 20**](#scene-20) | The Shattered Sanctum | Eleasias 24, 1492 DR (23:26) | Roleplay |
+| [**Scene 21**](#scene-21) | The Shattered Sanctum | Eleasias 24, 1492 DR (23:46) | Roleplay |
+| [**Scene 22**](#scene-22) | The Shattered Sanctum | Eleasias 25, 1492 DR (00:01) | Roleplay |
+| [**Scene 23**](#scene-23) | The Shattered Sanctum | Eleasias 25, 1492 DR (00:05) | Roleplay |
+| [**Scene 24**](#scene-24) | The Shattered Sanctum | Eleasias 25, 1492 DR (00:15) | Roleplay |
+| [**Scene 25**](#scene-25) | The Shattered Sanctum | Eleasias 25, 1492 DR (00:15) | Roleplay |
+| [**Scene 26**](#scene-26) | The Shattered Sanctum | Eleasias 25, 1492 DR (00:15) | Roleplay |
+| [**Scene 27**](#scene-27) | The Shattered Sanctum - Treasury | Eleasias 25, 1492 DR (00:15) | Roleplay |
+| [**Scene 28**](#scene-28) | The Shattered Sanctum (Ragzlin's Vault) | Eleasias 25, 1492 DR (00:16) | Roleplay |
+| [**Scene 29**](#scene-29) | The Worg Pens | Eleasias 25, 1492 DR (00:25) | Roleplay |
+| [**Scene 30**](#scene-30) | Worg Pens | Eleasias 25, 1492 DR (00:20) | Social Challenge |
+| [**Scene 31**](#scene-31) | Worg Pens | Eleasias 25, 1492 DR (00:30) | Boss Surrender |
+| [**Scene 32**](#scene-32) | Worg Pens | Eleasias 25, 1492 DR (00:30) | Roleplay |
+| [**Scene 33**](#scene-33) | Worg Pens | Eleasias 25, 1492 DR (00:45) | Roleplay |
+| [**Scene 34**](#scene-34) | Worg Pens | Eleasias 25, 1492 DR (00:45) | Roleplay |
+| [**Scene 35**](#scene-35) | Worg Pens | Eleasias 25, 1492 DR (00:55) | Roleplay |
+| [**Scene 36**](#scene-36) | Worg Pens | Eleasias 25, 1492 DR (01:05) | Roleplay |
+| [**Scene 37**](#scene-37) | Worg Pens | Eleasias 25, 1492 DR (00:50) | Roleplay |
+| [**Scene 38**](#scene-38) | Worg Pens | Eleasias 25, 1492 DR (01:00) | Boss Surrender |
+| [**Scene 39**](#scene-39) | Worg Pens | Eleasias 25, 1492 DR (01:10) | Roleplay |
+| [**Scene 40**](#scene-40) | Worg Pens / Forest Ridges | Eleasias 25, 1492 DR (01:45) | Roleplay |
+| [**Scene 41**](#scene-41) | Forest Ridges | Eleasias 25, 1492 DR (01:50) | Social Challenge |
+| [**Scene 42**](#scene-42) | Forest Ridges | Eleasias 25, 1492 DR (01:55) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Divine Scion (Bard) | HP: 33/33 | XP: 6500/14000 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5 | Trophies: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -926,8 +942,11 @@ You remain perfectly still, your porcelain-bone skin catching the torchlight wit
 God Mode:
 lets do char creation, summarize my class and stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Divine Siren | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -965,8 +984,11 @@ State synchronization complete. The world is frozen at the moment of your confro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize &amp; Return to Minthara - Confirm these stats and resume the standoff in the War Room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Shattered Sanctum - War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -989,8 +1011,11 @@ Your mother’s laughter ripples through your mind like silk on a blade. *"She c
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mother&#x27;s Mercy (Conversion) - Reach out and touch her mind, channeling Malcanthet’s love and Bhaal’s authority to shatter the Absolute&#x27;s influence. (CHA/Religion)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -1019,8 +1044,11 @@ Minthara’s knees hit the stone floor with a heavy *clack*. Her greataxe clatte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Audience: Extract Intel - Before giving orders, question your new Knight about the Moonrise Towers and the &#x27;Sister&#x27; who betrayed you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Shattered Sanctum, Minthara's War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -1042,8 +1070,11 @@ Victory is sweet. **You gain 1,200 XP** for the total subjugation and recruitmen
 God Mode:
 I have a special class I am not a normal bard, fix it Status: Lvl 5 Bard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren) | HP: 33/33 | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -1069,8 +1100,11 @@ Your character status now correctly reflects your unique divine lineage and prof
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Lips of Shendilavri - Your mother&#x27;s reward for completing the mission. Choose a new gift (Actor or Telepathic feat) as your divinity begins to restore.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Shattered Sanctum - War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 28/28 (Thrall Bonded) | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5, Thralls: 1/3 (Minthara)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -1088,8 +1122,11 @@ Minthara, still kneeling, looks up at the transformation. She doesn't see a chil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gift: The Actor - Gain the Actor feat: Advantage on Deception and Performance checks when mimicking others, and the ability to mimic speech and sounds perfectly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Shattered Sanctum, Minthara's War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 28/28 | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bonded Thrall (Minthara) | Inspiration: 5/5**
@@ -1105,8 +1142,11 @@ Minthara finally blinks, her gaze sharpening. "My Sovereign. The goblins await m
 > 👤 **Player:**
 > *"ask minthara to gather all her forces and explain I'm the new leader and then give me an accounting on the soldiers, spies, scouts, and elites and her 5 strongest warriors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Shattered Sanctum, War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren) | HP: 23/28 (Bonded Thrall: -5) | XP: 7,700/14,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -1124,8 +1164,11 @@ Minthara (Lvl 7) turns back to you, her head bowed. "The Host is yours, Sovereig
 God Mode:
 fix my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren Bard | HP: 28/28 | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -1142,8 +1185,11 @@ All spell slots (4/3/2) are verified and active.
 God Mode:
 Lets retcon things. I wanna not be public yet about controlling the goblin and minthara forces and first work on subverting/controlling/killing priestess gut and razglin
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Minthara's War Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 23/28 (Thrall Bond) | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 5/5**
@@ -1168,8 +1214,11 @@ Your total clandestine strength within the Shattered Sanctum is **297 personnel*
 > 👤 **Player:**
 > *"plan wiht minthara how to handle razglin and gut"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren) | HP: 28/23 | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bonded Thrall (Minthara) | Exhaustion: 0 | Inspiration: 5/5**
@@ -1181,8 +1230,11 @@ Minthara waits in the heavy silence, her head still slightly bowed, her shadow l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Decapitation Strike (Synergistic Parallel) - Nocturne goes to subvert Gut in her chapel while Minthara &#x27;prepares&#x27; Ragzlin by seeding rumors of his incompetence among the bugbears. As Nocturne binds Gut, Minthara triggers a judicial challenge that isolates Ragzlin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Shattered Sanctum - High Priestess's Chapel** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 28/28 | XP: 8180/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 5/5**
@@ -1207,8 +1259,11 @@ You don't blink. You don't speak. You simply step into the circle of her torchli
 > 👤 **Player:**
 > *"ask minthara for ideas"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Minthara's War Room, Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 28/28 | XP: 7,700/14,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Bonded Thrall (Minthara) | Inspiration: 5/5 | Exhaustion: 0**
@@ -1224,8 +1279,11 @@ She pauses, her fingers tracing the throne room on the map. "Ragzlin (Lvl 6) is 
 > 👤 **Player:**
 > *"isolate gut, bring minthara and her elite drow ready to striek to help me if needed, buff myself before meeting gut"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Shattered Sanctum - Gut's Chapel** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 28/23 | XP: 7700/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Friends (Buff), Bonded Thrall (Minthara) | Inspiration: 5/5**
@@ -1252,8 +1310,11 @@ Gut's hand freezes. She looks from your wine-stained lips to the shadows dancing
 > 👤 **Player:**
 > *"subtle hold person on gut, signal the elite drow and minthara to assassinate her with a surprise round if it fails"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Gut's Private Chapel, Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren) | HP: 28/28 | XP: 8510/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Inspiration: 5/5 | Exhaustion: 0 | Mother's Protection: Active**
@@ -1273,8 +1334,11 @@ You gain **810 XP** for the perfect assassination of Priestess Gut.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest Soul Trophy - Attempt to steal a trait from Gut&#x27;s soul before it fades (Soul Siphon check).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Gut's Private Chapel** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 28/28 | XP: 9320/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/3, L3 2/2 | Thralls: 1/3 (Minthara) | Trophies: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: 5/5**
@@ -1301,8 +1365,11 @@ Minthara stands over the cooling remains, her blade still dripping with Gut's da
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mimic Gut (Actor Feat) - Use your new Actor feat to mimic Gut&#x27;s voice and order her guards to stay away, buying time to plan Ragzlin&#x27;s downfall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Gut's Private Chapel, Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 28/23 | XP: 9320/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Divine Ward (Resist Necrotic/Radiant) | Exhaustion: 0 | Inspiration: Yes**
@@ -1322,8 +1389,11 @@ Minthara (Lvl 7) steps closer, her voice a low vibration. "The way is clear for 
 > 👤 **Player:**
 > *"Sneak into area and use hypnotic pattern on raz and his guards and have minthara and her drow ready to bind them. Try trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Shattered Sanctum - Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 28/28 | XP: 9320/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 1/2 | Inspiration: 5/5 | Soul Trophies: 1/1 (Divine Ward)** &nbsp;|&nbsp; ⚠️ **Divine Ward | Exhaustion: 0 | Inspiration: 5/5**
@@ -1341,8 +1411,11 @@ Ragzlin and his bugbear guards freeze, their weapons lowering as their eyes glaz
 > 👤 **Player:**
 > *"Bind all the enemies first and then gilded leash on raz"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Shattered Sanctum, Throne Room** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:26)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 27/27 | XP: 12420/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 0/2 | Inspiration: 4/5 | Thralls: 1/3 (Minthara) | Soul Strain: -13 Max HP (CR 7 + CR 6)** &nbsp;|&nbsp; ⚠️ **Divine Ward | Exhaustion: 0 | Inspiration: Yes**
@@ -1364,8 +1437,11 @@ Minthara steps into the light, her blade sheathed, her eyes fixed on the new add
 > 👤 **Player:**
 > *"Have all the goblins see minthara and razglin bow to me so they know im in charge then ensure razglin gives me all of his secrets and gear and treasures and minthara too. All their best weapons, gear, items etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Shattered Sanctum, Great Balcony** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (23:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 27/27 | XP: 13170/14000 | Gold: 1250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Bardic Inspiration: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Divine Ward | Inspiration: 4/5**
@@ -1385,8 +1461,11 @@ Without a word, Ragzlin unbuckles his heavy belt, offering up his massive warham
 > 👤 **Player:**
 > *"Designate minthara and razglin as companions and gov efhrm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Shattered Sanctum, Great Balcony** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 27/27 | XP: 13170/14000 | Gold: 450gp** &nbsp;|&nbsp; ⚠️ **Divine Ward | Exhaustion: 0 | Inspiration: Yes**
@@ -1413,8 +1492,11 @@ Suddenly, a panicked shout erupts from the main hall below. One of Ragzlin's bug
 > 👤 **Player:**
 > *"Only take items and gear I can use and give razglin and minthara back their gear. Instruct them to find my gear useful for my build like spell dc or spell attack or cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren) | HP: 27/27 | XP: 13,670/14,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Divine Ward, Mother's Protection | Exhaustion: 0 | Inspiration: Yes**
@@ -1446,8 +1528,11 @@ As they turn to execute your command, a commotion erupts below. Roar (Lvl 4), th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Raid the Treasury - Personally oversee the opening of Ragzlin&#x27;s vault to find gear for your build.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Shattered Sanctum, Ragzlin's Vault** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 27/27 | XP: 13920/14000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 0/2 | Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Divine Ward | Exhaustion: 0 | Inspiration: Yes**
@@ -1465,8 +1550,11 @@ As you secure the gold and the silver circlet, a frantic scratching sounds at th
 God Mode:
 How come visage siren isn’t in inventory ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 27/27 | XP: 13,920/14,000 | Gold: 544gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (14/15) | Inspiration: 4/5**
@@ -1484,8 +1572,11 @@ God Mode:
 @Narrator
 I want to integrate all the characters from baldurs gate 3 into the narrative somehow especially the heroes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 27/27 | XP: 13920/14000 | Gold: 544gp**
@@ -1513,8 +1604,11 @@ I have added these characters to the `npc_data` manifest and established a persi
 God Mode:
 Sounds good and letes integrate all the main characters even non playable. lets assume gale is still not trapped
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Shattered Sanctum - Treasury** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Divine Scion | HP: 27/27 | XP: 13920/14000 | Gold: 544gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 4/5**
@@ -1541,8 +1635,11 @@ All entities have been added to the game state manifest.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the standoff in the Treasury with Minthara and Ragzlin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Shattered Sanctum (Ragzlin's Vault)** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren) | HP: 27/27 | XP: 13920/14000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Sanctuary (15 turns) | Inspiration: 4/5**
@@ -1560,8 +1657,11 @@ Outside the vault, the sounds of snarling worgs and the rhythmic 'thud' of heavy
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mother&#x27;s Mercy: Subvert Halsin - Travel to the Worg Pens and attempt to shatter Halsin&#x27;s resolve as you did Minthara&#x27;s.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Worg Pens** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 27/27 | XP: 13920/14000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/3, L3 0/2 | Bardic: 4/5 | Thralls: 2/3 (Minthara, Ragzlin)** &nbsp;|&nbsp; ⚠️ **Sanctuary (14), Divine Ward | Exhaustion: 0 | Inspiration: 4/5**
@@ -1581,8 +1681,11 @@ The bear pauses, its massive frame trembling as your divine aura washes over it.
 > 👤 **Player:**
 > *"reroll and use bardic insp and hwatever abilities i have and remember to always use bardic if it will help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Worg Pens** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 27/27 | XP: 13920/14000 | CHA: 21 | AC: 17** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Inspiration: 4/5, Slots: [----|--|** &nbsp;|&nbsp; ⚠️ **Sanctuary (14), Divine Ward | Inspiration: 4/5**
@@ -1609,8 +1712,11 @@ The beast's front legs buckle. The massive head lowers until its snout brushes t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mother&#x27;s Mercy (Final Step) - Continue the conversion check to bring him to 0 Social HP without a Tether.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Worg Pens** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Abyssal Siren | HP: 27/27 | XP: 13920/14000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (14 turns) | Inspiration: 4/5**
@@ -1635,8 +1741,11 @@ Minthara and Ragzlin watch from the stairs, their own bonds thrumming in sympath
 > 👤 **Player:**
 > *"THINK:Asssess razglin. Is he better to keep alive or dead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Worg Pens** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 College of the Abyssal Siren Bard | HP: 27/27 | XP: 13,920/14,000 | Gold: 544gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 4/5**
@@ -1646,8 +1755,11 @@ You pause, your violet eyes reflecting the damp stone of the pens with a glassy,
 > 👤 **Player:**
 > *"Gather razglin and have him submit to my command"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Worg Pens** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 College of Abyssal Siren Bard | HP: 27/27 | XP: 13,920/14,000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Insp: 4/5** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: 4/5**
@@ -1669,8 +1781,11 @@ However, as the Warlord reaffirms his oath, the sharp psychic pressure of the Ab
 God Mode:
 Make sure I got proper exp rewards gear etc from all my recent wins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Worg Pens, Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 39/39 | XP: 14,880/23,000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **Bardic Inspiration: 5/5 (d8), Spells: L1 4/4, L2 3/3, L3 3/3, Soul Trophies: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expired) | Inspiration: 5/5**
@@ -1708,8 +1823,11 @@ State is now 100% accurate. You are Level 6 and standing before your three most 
 > 👤 **Player:**
 > *"Ask their opinions  how to stop the absolute suspicion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Worg Pens** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 39/39 | XP: 14880/23000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 3/3, Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1729,8 +1847,11 @@ Halsin (Lvl 6), now tall and broad-shouldered in his human form, bows his head s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Minthara&#x27;s Deception: The False Report - Order Minthara to coordinate a psychic lie through the acolytes to claim a magical anomaly occurred and was resolved.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Worg Pens, Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Abyssal Siren | HP: 39/39 | XP: 14,880/23,000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 3/3 | Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -1750,8 +1871,11 @@ Ragzlin (Lvl 6) grunts, his heavy Faithbreaker warhammer resting against his sho
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Grove Secrets from Halsin - Have the Archdruid reveal the exact weaknesses and hidden paths of the Emerald Grove.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Worg Pens** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 39/39 | XP: 14880/23000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 3/3 | Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1771,8 +1895,11 @@ Minthara (Lvl 7) and Dror Ragzlin (Lvl 6) watch from the stone steps, their own 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Grove Secrets from Halsin - Have the Archdruid reveal the exact weaknesses and hidden paths of the Emerald Grove.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Worg Pens, Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Abyssal Siren | HP: 39/39 | XP: 14,880/23,000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 3/3 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Divine Ward | Exhaustion: 0 | Inspiration: Yes**
@@ -1801,8 +1928,11 @@ Your forces within the Sanctum have grown to 297 strong: a vanguard of 240 soldi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enable Faction Minigame - Activate the strategic management system to oversee your 297 troops and track your regional ranking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Worg Pens, Shattered Sanctum** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of the Abyssal Siren) | HP: 39/39 | XP: 14,880/23,000 | Gold: 544gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 4/5**
@@ -1821,8 +1951,11 @@ Ragzlin (Lvl 6) grunts, shifting his heavy Faithbreaker. "The bugbears are restl
 > 👤 **Player:**
 > *"expand shadow network and then find mother's pet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Worg Pens / Forest Ridges** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 College of the Abyssal Siren | HP: 39/39 | XP: 14,880/23,000 | Gold: 544gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1844,8 +1977,11 @@ Instead of a pet, you find a confrontation. Emerging from the mist near the rive
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Ruined Princess&#x27;s Plea - Use your Actor feat and Siren&#x27;s allure to play the victim, convincing Wyll you&#x27;ve been forced to bind these monsters for survival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Forest Ridges** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of the Abyssal Siren) | HP: 39/39 | XP: 14,880/23,000 | Gold: 544gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 3/3, Inspiration: 4/5, Thralls: 2/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1874,8 +2010,11 @@ Wyll's rapier hand wavers. He looks from the snarling, rigid mask of Dror Ragzli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Wyll as Protector - Accept his &#x27;protection&#x27; and ask him to accompany you to safety (the Grove), further cementing the lie.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Forest Ridges** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (01:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 39/39 | XP: 14880/23000 | Gold: 544gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1891,6 +2030,8 @@ He glances back at Minthara (Lvl 7) and Dror Ragzlin (Lvl 6), his jaw setting wi
 *"Oh, sweetling,"* Malcanthet's voice purrs, a vibration of pure, intoxicating triumph in your mind. *"He's so predictable. He wants to save the princess from the tower, not realizing the princess owns the tower and the monsters guarding it. Keep him close, darling. He'll make a lovely ornament for your new court—and his blood... it smells so much better than goblin filth."*
 
 You gain **150 XP** for successfully manipulating a High-Value Asset into your service.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

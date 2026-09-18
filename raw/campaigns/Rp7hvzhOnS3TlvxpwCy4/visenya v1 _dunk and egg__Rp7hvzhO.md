@@ -12,1086 +12,1102 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (1065 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Aegon | Setting: Let's start a campaign where I play Aegon in dunk and egg except swap my gender to female and change the universe so sometimes women are squires. This is the George RR Martin short stories.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Roadside Outside Ashford | Spring, 209 AC (10:00) | Roleplay |
-| **03** | Ashford Meadow (Character Creation) | Spring, 209 AC (10:00) | Roleplay |
-| **04** | The Road to Ashford | Spring, 209 AC (10:00) | Roleplay |
-| **05** | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
-| **06** | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
-| **07** | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
-| **08** | The Road to Ashford | Mirtul 15, 209 DR (10:00) | Roleplay |
-| **09** | The Road to Ashford | Mirtul 15, 209 DR (10:00) | Roleplay |
-| **10** | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
-| **11** | The Road to Ashford | Mirtul 15, 209 DR (10:00) | Roleplay |
-| **12** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
-| **13** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
-| **14** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
-| **15** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:05) | Roleplay |
-| **16** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:05) | Roleplay |
-| **17** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:10) | Roleplay |
-| **18** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:15) | Roleplay |
-| **19** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:15) | Roleplay |
-| **20** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:20) | Roleplay |
-| **21** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:20) | Roleplay |
-| **22** | Unknown | Mirtul 15, 209 DR (10:20) | Roleplay |
-| **23** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:30) | Roleplay |
-| **24** | Unknown | Mirtul 15, 209 DR (10:30) | Roleplay |
-| **25** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:32) | Roleplay |
-| **26** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:32) | Roleplay |
-| **27** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:35) | Roleplay |
-| **28** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:40) | Roleplay |
-| **29** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:45) | Roleplay |
-| **30** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:50) | Roleplay |
-| **31** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:55) | Roleplay |
-| **32** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:00) | Roleplay |
-| **33** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:05) | Roleplay |
-| **34** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:10) | Roleplay |
-| **35** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:20) | Roleplay |
-| **36** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:25) | Roleplay |
-| **37** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:30) | Roleplay |
-| **38** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:30) | Roleplay |
-| **39** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:30) | Roleplay |
-| **40** | Unknown | Mirtul 15, 209 DR (11:30) | Roleplay |
-| **41** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:35) | Roleplay |
-| **42** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:50) | Roleplay |
-| **43** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:15) | Roleplay |
-| **44** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:20) | Roleplay |
-| **45** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:20) | Roleplay |
-| **46** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:20) | Roleplay |
-| **47** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:20) | Roleplay |
-| **48** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:25) | Roleplay |
-| **49** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:30) | Roleplay |
-| **50** | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:35) | Roleplay |
-| **51** | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:35) | Roleplay |
-| **52** | The Roadside Outside Ashford | Mirtul 15, 209 DR (12:45) | Roleplay |
-| **53** | The Road to Ashford Meadow | Mirtul 15, 209 AC (12:55) | Roleplay |
-| **54** | The Road to Ashford Meadow | Mirtul 15, 209 DR (13:00) | Roleplay |
-| **55** | The Road to Ashford Meadow | Mirtul 15, 209 DR (13:05) | Roleplay |
-| **56** | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:10) | Roleplay |
-| **57** | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:10) | Roleplay |
-| **58** | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:10) | Roleplay |
-| **59** | The Road to Ashford Meadow | Mirtul 15, 209 DR (13:15) | Roleplay |
-| **60** | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:20) | Roleplay |
-| **61** | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:25) | Roleplay |
-| **62** | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:30) | Roleplay |
-| **63** | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:45) | Roleplay |
-| **64** | The Road to Ashford Meadow | Mirtul 15, 209 AC (14:00) | Roleplay |
-| **65** | House Mertyns Camp | Mirtul 15, 209 AC (14:15) | Roleplay |
-| **66** | House Mertyns Camp | Month 5, 209 AC (Day 15) | Roleplay |
-| **67** | House Mertyns Camp | Mirtul 15, 209 AC (14:25) | Roleplay |
-| **68** | House Mertyns Camp | Month 5, 209 AC (Day 15) | Roleplay |
-| **69** | Ashford Gatehouse / Traveler's Camp | Mirtul 15, 209 AC (14:45) | Roleplay |
-| **70** | Ashford Gatehouse | Mirtul 15, 209 AC (14:50) | Roleplay |
-| **71** | Ashford Meadow | Mirtul 15, 209 AC (15:00) | Roleplay |
-| **72** | Eastern Fringe | Mirtul 15, 209 AC (15:30) | Roleplay |
-| **73** | Eastern Fringe | Mirtul 15, 209 AC (15:30) | Roleplay |
-| **74** | Eastern Fringe | Mirtul 15, 209 AC (15:35) | Roleplay |
-| **75** | Eastern Fringe | Mirtul 15, 209 AC (15:35) | Roleplay |
-| **76** | Market Row | Mirtul 15, 209 AC (15:45) | Roleplay |
-| **77** | Market Row | Month 5, 209 AC (Day 15) | Roleplay |
-| **78** | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:05) | Roleplay |
-| **79** | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:05) | Roleplay |
-| **80** | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
-| **81** | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
-| **82** | Grain Merchants' Quarter | Month 5 Day 15, 209 AC (16:15) | Roleplay |
-| **83** | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
-| **84** | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
-| **85** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
-| **86** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
-| **87** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Social Challenge |
-| **88** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Social Challenge |
-| **89** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
-| **90** | Unknown | Mirtul 15, 209 DR (16:30) | Roleplay |
-| **91** | Unknown | Mirtul 15, 209 DR (16:30) | Roleplay |
-| **92** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
-| **93** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
-| **94** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
-| **95** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:35) | Roleplay |
-| **96** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:35) | Roleplay |
-| **97** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:40) | Roleplay |
-| **98** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:40) | Roleplay |
-| **99** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
-| **100** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
-| **101** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
-| **102** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
-| **103** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
-| **104** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
-| **105** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:51) | Roleplay |
-| **106** | Briar-Path near Ashford Meadow | Mirtul 15, 209 DR (16:53) | Boss Surrender |
-| **107** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (17:05) | Roleplay |
-| **108** | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (17:10) | Roleplay |
-| **109** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:30) | Roleplay |
-| **110** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:30) | Roleplay |
-| **111** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:30) | Roleplay |
-| **112** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:40) | Roleplay |
-| **113** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:50) | Roleplay |
-| **114** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (18:00) | Boss Surrender |
-| **115** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (18:30) | Roleplay |
-| **116** | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (18:30) | Roleplay |
-| **117** | Eastern Fringe of Ashford Meadow | Mirtul 16, 209 DR (06:00) | Roleplay |
-| **118** | Eastern Fringe of Ashford Meadow | Mirtul 16, 209 AC (06:15) | Roleplay |
-| **119** | Armorers' Row | Mirtul 16, 209 AC (06:45) | Roleplay |
-| **120** | Armorers' Row | Mirtul 16, 209 AC (07:05) | Roleplay |
-| **121** | Armorers' Row | Mirtul 16, 209 AC (07:05) | Roleplay |
-| **122** | Armorers' Row | Mirtul 16, 209 AC (07:05) | Roleplay |
-| **123** | Pate's Stall | Mirtul 16, 209 AC (07:15) | Roleplay |
-| **124** | Eastern Fringe | Mirtul 16, 209 AC (12:45) | Roleplay |
-| **125** | Eastern Fringe | Mirtul 16, 209 AC (12:45) | Roleplay |
-| **126** | Tourney Grounds | Mirtul 16, 209 AC (13:15) | Roleplay |
-| **127** | Tourney Grounds | Mirtul 16, 209 AC (14:15) | Boss Surrender |
-| **128** | Eastern Fringe | Mirtul 16, 209 AC (14:35) | Roleplay |
-| **129** | Eastern Fringe | Mirtul 16, 209 AC (14:55) | Roleplay |
-| **130** | Eastern Fringe | Mirtul 16, 209 AC (15:40) | Roleplay |
-| **131** | Eastern Fringe | Mirtul 16, 209 AC (15:55) | Roleplay |
-| **132** | Eastern Fringe | Mirtul 16, 209 AC (16:10) | Boss Surrender |
-| **133** | Eastern Fringe | Mirtul 16, 209 AC (16:20) | Boss Surrender |
-| **134** | Eastern Fringe Rise | Mirtul 16, 209 AC (16:30) | Roleplay |
-| **135** | Eastern Fringe Rise | Mirtul 16, 209 AC (16:30) | Roleplay |
-| **136** | Eastern Fringe Rise | Mirtul 16, 209 AC (16:30) | Roleplay |
-| **137** | Eastern Fringe Rise | Mirtul 16, 209 AC (16:35) | Boss Surrender |
-| **138** | Unknown | Mirtul 16, 209 DR (16:35) | Roleplay |
-| **139** | Eastern Fringe Rise | Mirtul 16, 209 DR (16:50) | Roleplay |
-| **140** | Eastern Fringe Rise | Mirtul 16, 209 AC (17:05) | Roleplay |
-| **141** | Eastern Fringe Rise | Mirtul 16, 209 AC (17:35) | Roleplay |
-| **142** | Eastern Fringe Rise | Mirtul 17, 209 AC (08:30) | Roleplay |
-| **143** | Eastern Fringe Rise | Mirtul 17, 209 AC (08:30) | Social Challenge |
-| **144** | Market Row | Mirtul 17, 209 AC (10:15) | Roleplay |
-| **145** | Ashford Meadow | Mirtul 17, 209 AC (10:15) | Roleplay |
-| **146** | Eastern Fringe | Mirtul 17, 209 AC (11:00) | Roleplay |
-| **147** | Ashford Meadow | Mirtul 18, 209 DR (12:00) | Roleplay |
-| **148** | Ashford Meadow | Mirtul 18, 209 AC (12:00) | Social Challenge |
-| **149** | Ashford Meadow | Mirtul 18, 209 AC (12:02) | Roleplay |
-| **150** | Ashford Meadow | Mirtul 18, 209 AC (12:03) | Roleplay |
-| **151** | Ashford Meadow | Mirtul 18, 209 AC (12:04) | Boss Surrender |
-| **152** | Ashford Meadow | Mirtul 18, 209 AC (12:05) | Boss Surrender |
-| **153** | Ashford Meadow | Mirtul 18, 209 AC (12:06) | Roleplay |
-| **154** | Ashford Meadow | Mirtul 18, 209 AC (12:15) | Boss Surrender |
-| **155** | Ashford Meadow | Mirtul 18, 209 AC (12:08) | Boss Surrender |
-| **156** | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
-| **157** | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
-| **158** | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
-| **159** | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
-| **160** | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
-| **161** | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
-| **162** | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
-| **163** | Ashford Meadow | Mirtul 18, 209 AC (12:22) | Roleplay |
-| **164** | Ashford Meadow | Mirtul 18, 209 DR (12:25) | Roleplay |
-| **165** | Ashford Meadow | Mirtul 18, 209 DR (12:28) | Roleplay |
-| **166** | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
-| **167** | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
-| **168** | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
-| **169** | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
-| **170** | Ashford Meadow | Mirtul 18, 209 AC (12:35) | Roleplay |
-| **171** | Ashford Meadow | Mirtul 18, 209 AC (12:45) | Roleplay |
-| **172** | Ashford Meadow | Mirtul 18, 209 AC (12:45) | Roleplay |
-| **173** | Ashford Meadow | Mirtul 18, 209 AC (12:45) | Roleplay |
-| **174** | Ashford Meadow | Mirtul 18, 209 AC (12:50) | Roleplay |
-| **175** | Ashford Meadow | Mirtul 18, 209 DR (12:57) | Roleplay |
-| **176** | Ashford Meadow | Mirtul 18, 209 AC (12:57) | Roleplay |
-| **177** | Ashford Meadow | Mirtul 18, 209 AC (13:05) | Boss Surrender |
-| **178** | Ashford Meadow | Mirtul 18, 209 DR (13:13) | Roleplay |
-| **179** | Eastern Fringe | Mirtul 18, 209 DR (13:28) | Roleplay |
-| **180** | Ashford Meadow | Mirtul 18, 209 AC (13:43) | Roleplay |
-| **181** | Ashford Meadow | Mirtul 18, 209 AC (13:28) | Roleplay |
-| **182** | Ashford Meadow | Mirtul 18, 209 AC (13:58) | Roleplay |
-| **183** | Ashford Meadow | Mirtul 18, 209 AC (13:58) | Roleplay |
-| **184** | Ashford Meadow | Mirtul 18, 209 AC (13:58) | Roleplay |
-| **185** | Ashford Meadow | Mirtul 18, 209 AC (14:13) | Boss Surrender |
-| **186** | Pate's Stall | Mirtul 18, 209 AC (14:45) | Boss Surrender |
-| **187** | Pate's Stall | Mirtul 18, 209 AC (14:55) | Roleplay |
-| **188** | Armorers' Row | Mirtul 18, 209 DR (15:25) | Roleplay |
-| **189** | Pate's Stall | Mirtul 18, 209 AC (15:35) | Roleplay |
-| **190** | Pate's Stall | Mirtul 18, 209 AC (15:45) | Roleplay |
-| **191** | Pate's Stall | Mirtul 18, 209 AC (16:00) | Roleplay |
-| **192** | Pate's Stall | Mirtul 18, 209 AC (16:15) | Boss Surrender |
-| **193** | Pate's Stall | Mirtul 18, 209 AC (16:30) | Roleplay |
-| **194** | Pate's Stall | Mirtul 18, 209 AC (16:45) | Roleplay |
-| **195** | Armorers' Row | Mirtul 18, 209 AC (17:00) | Roleplay |
-| **196** | Heralds' Pavilion | Mirtul 18, 209 AC (17:20) | Roleplay |
-| **197** | Heralds' Pavilion | Mirtul 18, 209 AC (17:35) | Roleplay |
-| **198** | Puppeteers' Row | Mirtul 18, 209 DR (17:50) | Roleplay |
-| **199** | High Pavilions Perimeter | Mirtul 18, 209 AC (18:05) | Roleplay |
-| **200** | High Pavilions | Mirtul 18, 209 AC (18:05) | Roleplay |
-| **201** | High Pavilions | Mirtul 18, 209 AC (18:05) | Roleplay |
-| **202** | High Pavilions | Mirtul 18, 209 AC (18:05) | Roleplay |
-| **203** | High Pavilions | Mirtul 18, 209 AC (18:15) | Roleplay |
-| **204** | High Pavilions | Mirtul 18, 209 AC (18:15) | Roleplay |
-| **205** | High Pavilions | Mirtul 18, 209 AC (18:20) | Roleplay |
-| **206** | High Pavilions | Mirtul 18, 209 DR (18:20) | Roleplay |
-| **207** | High Pavilions | Mirtul 18, 209 AC (18:25) | Roleplay |
-| **208** | High Pavilions | Mirtul 18, 209 DR (18:30) | Roleplay |
-| **209** | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
-| **210** | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
-| **211** | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
-| **212** | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
-| **213** | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
-| **214** | High Pavilions | Mirtul 18, 209 AC (18:40) | Roleplay |
-| **215** | High Pavilions | Mirtul 18, 209 AC (18:45) | Roleplay |
-| **216** | Unknown | Mirtul 18, 209 DR (18:45) | Roleplay |
-| **217** | High Pavilions | Mirtul 18, 209 AC (18:50) | Roleplay |
-| **218** | High Pavilions | Mirtul 18, 209 AC (18:50) | Roleplay |
-| **219** | High Pavilions | Mirtul 18, 209 AC (18:55) | Social Challenge |
-| **220** | High Pavilions | Mirtul 18, 209 DR (19:10) | Roleplay |
-| **221** | High Pavilions | Mirtul 18, 209 AC (19:25) | Roleplay |
-| **222** | High Pavilions | Mirtul 18, 209 AC (19:25) | Roleplay |
-| **223** | High Pavilions | Mirtul 18, 209 AC (19:35) | Roleplay |
-| **224** | Eastern Fringe Rise | Mirtul 18, 209 AC (19:45) | Roleplay |
-| **225** | Eastern Fringe Rise | Mirtul 18, 209 AC (19:45) | Roleplay |
-| **226** | Eastern Fringe Rise | Mirtul 18, 209 AC (19:45) | Roleplay |
-| **227** | Eastern Fringe Rise | Mirtul 18, 209 DR (20:00) | Roleplay |
-| **228** | Ashford Meadow / High Pavilions | Mirtul 19, 209 AC (08:30) | Roleplay |
-| **229** | Eastern Fringe Rise | Mirtul 19, 209 DR (08:45) | Roleplay |
-| **230** | Eastern Fringe Rise | Mirtul 19, 209 AC (08:50) | Roleplay |
-| **231** | Eastern Fringe Rise | Mirtul 19, 209 AC (09:05) | Roleplay |
-| **232** | Eastern Fringe Rise | Mirtul 19, 209 AC (09:10) | Roleplay |
-| **233** | Eastern Fringe Rise | Mirtul 19, 209 AC (09:10) | Roleplay |
-| **234** | Stewards' Pavilion | Mirtul 19, 209 AC (09:10) | Roleplay |
-| **235** | Eastern Fringe Rise | Mirtul 19, 209 DR (09:15) | Roleplay |
-| **236** | Tournament Grounds | Mirtul 19, 209 AC (09:20) | Roleplay |
-| **237** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:20) | Roleplay |
-| **238** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:20) | Roleplay |
-| **239** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:25) | Roleplay |
-| **240** | Ashford Meadow Lists | Mirtul 19, 209 DR (09:25) | Roleplay |
-| **241** | Ashford Meadow Lists | Mirtul 19, 209 DR (09:30) | Social Challenge |
-| **242** | Ashford Meadow Lists | Mirtul 19, 209 DR (09:35) | Roleplay |
-| **243** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:35) | Roleplay |
-| **244** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:40) | Roleplay |
-| **245** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:45) | Roleplay |
-| **246** | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:47) | Roleplay |
-| **247** | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:47) | Roleplay |
-| **248** | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:47) | Roleplay |
-| **249** | Ashford Meadow Lists (Royal Gallery Rafters) | Mirtul 19, 209 AC (09:47) | Roleplay |
-| **250** | Ashford Meadow Lists (Royal Gallery Rafters) | Mirtul 19, 209 AC (09:47) | Roleplay |
-| **251** | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 AC (09:47) | Roleplay |
-| **252** | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:48) | Roleplay |
-| **253** | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:48) | Roleplay |
-| **254** | Ashford Meadow Lists (Royal Gallery Rafters) | Mirtul 19, 209 AC (09:48) | Roleplay |
-| **255** | Ashford Meadow Lists (Royal Gallery Exterior) | Mirtul 19, 209 DR (09:48) | Roleplay |
-| **256** | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:48) | Roleplay |
-| **257** | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:48) | Roleplay |
-| **258** | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:49) | Roleplay |
-| **259** | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:49) | Roleplay |
-| **260** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:49) | Roleplay |
-| **261** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:49) | Roleplay |
-| **262** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:49) | Roleplay |
-| **263** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **264** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 DR (09:50) | Roleplay |
-| **265** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 DR (09:50) | Roleplay |
-| **266** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **267** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **268** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **269** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **270** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **271** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **272** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
-| **273** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **274** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **275** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **276** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **277** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **278** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **279** | Unknown | Mirtul 19, 209 DR (09:51) | Roleplay |
-| **280** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **281** | Unknown | Mirtul 19, 209 DR (09:51) | Roleplay |
-| **282** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **283** | Ashford Meadow Lists | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **284** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:52) | Roleplay |
-| **285** | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:52) | Roleplay |
-| **286** | Ashford Meadow Lists (Stewards' Platform) | Mirtul 19, 209 AC (09:55) | Roleplay |
-| **287** | Ashford Meadow Lists (Stewards' Platform) | Mirtul 19, 209 AC (09:51) | Roleplay |
-| **288** | Ashford Meadow Lists (Stewards' Platform) | Mirtul 19, 209 AC (09:52) | Roleplay |
-| **289** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:07) | Roleplay |
-| **290** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:12) | Roleplay |
-| **291** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:15) | Roleplay |
-| **292** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:20) | Boss Surrender |
-| **293** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:20) | Roleplay |
-| **294** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:20) | Roleplay |
-| **295** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:25) | Roleplay |
-| **296** | Mertyns Rise | Mirtul 19, 209 DR (10:35) | Boss Surrender |
-| **297** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:45) | Roleplay |
-| **298** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:45) | Roleplay |
-| **299** | Unknown | Mirtul 19, 209 DR (10:50) | Roleplay |
-| **300** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
-| **301** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
-| **302** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
-| **303** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
-| **304** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
-| **305** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
-| **306** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
-| **307** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (11:00) | Roleplay |
-| **308** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (11:00) | Roleplay |
-| **309** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (11:00) | Roleplay |
-| **310** | Unknown | Mirtul 19, 209 DR (11:00) | Roleplay |
-| **311** | Unknown | Mirtul 19, 209 DR (11:00) | Roleplay |
-| **312** | Unknown | Mirtul 19, 209 DR (11:00) | Roleplay |
-| **313** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:10) | Roleplay |
-| **314** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
-| **315** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
-| **316** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
-| **317** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
-| **318** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
-| **319** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
-| **320** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
-| **321** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
-| **322** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
-| **323** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
-| **324** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Boss Surrender |
-| **325** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:17) | Roleplay |
-| **326** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:32) | Boss Surrender |
-| **327** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:32) | Roleplay |
-| **328** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:32) | Roleplay |
-| **329** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
-| **330** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
-| **331** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
-| **332** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
-| **333** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
-| **334** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
-| **335** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
-| **336** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **337** | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:34) | Roleplay |
-| **338** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Boss Surrender |
-| **339** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **340** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **341** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **342** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **343** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **344** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **345** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **346** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
-| **347** | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:34) | Roleplay |
-| **348** | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:35) | Social Challenge |
-| **349** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:35) | Roleplay |
-| **350** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:35) | Roleplay |
-| **351** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:36) | Roleplay |
-| **352** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:41) | Roleplay |
-| **353** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:41) | Roleplay |
-| **354** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:41) | Roleplay |
-| **355** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:42) | Roleplay |
-| **356** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:43) | Roleplay |
-| **357** | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:48) | Roleplay |
-| **358** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **359** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **360** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **361** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **362** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **363** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **364** | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:48) | Roleplay |
-| **365** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **366** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **367** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
-| **368** | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:50) | Roleplay |
-| **369** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:55) | Roleplay |
-| **370** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:55) | Roleplay |
-| **371** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (12:00) | Roleplay |
-| **372** | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (12:05) | Roleplay |
-| **373** | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (12:15) | Roleplay |
-| **374** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:25) | Roleplay |
-| **375** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:25) | Roleplay |
-| **376** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (12:35) | Roleplay |
-| **377** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:35) | Roleplay |
-| **378** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (12:45) | Roleplay |
-| **379** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (12:55) | Roleplay |
-| **380** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:55) | Roleplay |
-| **381** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (13:05) | Roleplay |
-| **382** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:05) | Roleplay |
-| **383** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (13:15) | Roleplay |
-| **384** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:15) | Roleplay |
-| **385** | Mertyns Rise | Mirtul 19, 209 AC (13:20) | Roleplay |
-| **386** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:30) | Roleplay |
-| **387** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (13:40) | Roleplay |
-| **388** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:50) | Boss Surrender |
-| **389** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:10) | Roleplay |
-| **390** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:20) | Boss Surrender |
-| **391** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:25) | Roleplay |
-| **392** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:35) | Boss Surrender |
-| **393** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:45) | Roleplay |
-| **394** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:55) | Roleplay |
-| **395** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (15:05) | Roleplay |
-| **396** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (15:15) | Roleplay |
-| **397** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (15:25) | Roleplay |
-| **398** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (15:35) | Roleplay |
-| **399** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (15:45) | Roleplay |
-| **400** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (15:55) | Roleplay |
-| **401** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (16:05) | Roleplay |
-| **402** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (16:15) | Boss Surrender |
-| **403** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (16:25) | Roleplay |
-| **404** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (16:35) | Roleplay |
-| **405** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (16:45) | Boss Surrender |
-| **406** | Mertyns Rise | Mirtul 19, 209 AC (16:55) | Roleplay |
-| **407** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (17:05) | Boss Surrender |
-| **408** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Boss Surrender |
-| **409** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
-| **410** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
-| **411** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
-| **412** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
-| **413** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (17:25) | Roleplay |
-| **414** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:25) | Roleplay |
-| **415** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (17:35) | Social Challenge |
-| **416** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:45) | Roleplay |
-| **417** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:45) | Roleplay |
-| **418** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:55) | Boss Surrender |
-| **419** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (18:05) | Roleplay |
-| **420** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:05) | Roleplay |
-| **421** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:05) | Roleplay |
-| **422** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:05) | Boss Surrender |
-| **423** | Unknown | Mirtul 19, 209 DR (18:05) | Roleplay |
-| **424** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:10) | Roleplay |
-| **425** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:20) | Roleplay |
-| **426** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (18:35) | Roleplay |
-| **427** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:35) | Roleplay |
-| **428** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:45) | Roleplay |
-| **429** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:10) | Boss Surrender |
-| **430** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:20) | Roleplay |
-| **431** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (19:25) | Boss Surrender |
-| **432** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (19:25) | Roleplay |
-| **433** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (19:35) | Roleplay |
-| **434** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:45) | Roleplay |
-| **435** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:55) | Roleplay |
-| **436** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (20:05) | Roleplay |
-| **437** | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (20:05) | Roleplay |
-| **438** | Ashford Meadow (Royal Pavilion Entrance) | Mirtul 19, 209 AC (21:30) | Roleplay |
-| **439** | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:40) | Roleplay |
-| **440** | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:50) | Roleplay |
-| **441** | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:50) | Roleplay |
-| **442** | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 DR (21:55) | Roleplay |
-| **443** | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:55) | Roleplay |
-| **444** | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (22:05) | Roleplay |
-| **445** | Ashford Meadow (Royal Pavilion / Champions' Gate) | Mirtul 19, 209 DR (22:15) | Boss Surrender |
-| **446** | Royal Pavilion / Mertyns Rise Perimeter | Mirtul 19, 209 AC (22:15) | Roleplay |
-| **447** | Mertyns Rise | Mirtul 19, 209 AC (22:25) | Roleplay |
-| **448** | Mertyns Rise | Mirtul 19, 209 AC (22:30) | Social Challenge |
-| **449** | Mertyns Rise | Mirtul 19, 209 AC (22:40) | Roleplay |
-| **450** | Mertyns Rise | Mirtul 19, 209 AC (22:50) | Social Challenge |
-| **451** | Mertyns Rise | Mirtul 19, 209 AC (22:55) | Boss Surrender |
-| **452** | Mertyns Rise | Mirtul 19, 209 AC (23:05) | Boss Surrender |
-| **453** | Mertyns Rise | Mirtul 19, 209 AC (23:15) | Roleplay |
-| **454** | Mertyns Rise / Ashford Meadow | Mirtul 19, 209 AC (23:25) | Roleplay |
-| **455** | Royal Pavilion | Mirtul 19, 209 AC (23:35) | Roleplay |
-| **456** | Royal Pavilion | Mirtul 19, 209 AC (23:45) | Roleplay |
-| **457** | Royal Pavilion | Mirtul 19, 209 AC (23:55) | Roleplay |
-| **458** | Royal Pavilion | Mirtul 20, 209 DR (00:15) | Roleplay |
-| **459** | Royal Pavilion | Mirtul 20, 209 AC (00:15) | Roleplay |
-| **460** | Training Grounds | Mirtul 20, 209 DR (08:15) | Roleplay |
-| **461** | Training Grounds | Mirtul 20, 209 DR (09:30) | Roleplay |
-| **462** | Training Grounds | Mirtul 20, 209 DR (09:35) | Roleplay |
-| **463** | Training Grounds | Mirtul 20, 209 AC (09:35) | Roleplay |
-| **464** | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
-| **465** | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
-| **466** | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
-| **467** | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
-| **468** | Unknown | Mirtul 20, 209 DR (09:40) | Roleplay |
-| **469** | Training Grounds | Mirtul 20, 209 AC (09:45) | Roleplay |
-| **470** | Training Grounds | Mirtul 20, 209 AC (09:45) | Roleplay |
-| **471** | Training Grounds | Mirtul 20, 209 DR (10:00) | Roleplay |
-| **472** | Training Grounds | Mirtul 20, 209 AC (10:15) | Roleplay |
-| **473** | Training Grounds | Mirtul 20, 209 AC (10:30) | Roleplay |
-| **474** | Training Grounds | Mirtul 20, 209 AC (10:35) | Roleplay |
-| **475** | Training Grounds | Mirtul 20, 209 AC (10:45) | Roleplay |
-| **476** | Training Grounds | Mirtul 20, 209 DR (11:00) | Roleplay |
-| **477** | Training Grounds | Mirtul 20, 209 AC (11:15) | Roleplay |
-| **478** | Training Grounds | Mirtul 20, 209 AC (11:20) | Roleplay |
-| **479** | Training Grounds | Mirtul 20, 209 AC (11:20) | Roleplay |
-| **480** | Training Grounds | Mirtul 20, 209 AC (11:20) | Social Challenge |
-| **481** | Training Grounds | Mirtul 20, 209 AC (12:20) | Roleplay |
-| **482** | Training Grounds | Mirtul 20, 209 AC (12:20) | Roleplay |
-| **483** | Royal Pavilion | Mirtul 20, 209 AC (13:20) | Roleplay |
-| **484** | Royal Pavilion | Mirtul 20, 209 AC (13:20) | Roleplay |
-| **485** | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:30) | Roleplay |
-| **486** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:35) | Roleplay |
-| **487** | Unknown | Mirtul 21, 209 DR (09:35) | Roleplay |
-| **488** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:35) | Roleplay |
-| **489** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:35) | Roleplay |
-| **490** | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:45) | Roleplay |
-| **491** | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:40) | Roleplay |
-| **492** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:45) | Roleplay |
-| **493** | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:50) | Roleplay |
-| **494** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:05) | Roleplay |
-| **495** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:05) | Roleplay |
-| **496** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:05) | Roleplay |
-| **497** | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:15) | Roleplay |
-| **498** | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (10:25) | Social Challenge |
-| **499** | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:35) | Roleplay |
-| **500** | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:35) | Roleplay |
-| **501** | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:35) | Roleplay |
-| **502** | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:45) | Roleplay |
-| **503** | Redwyne Picket (Lower Camps) | Mirtul 21, 209 DR (11:00) | Roleplay |
-| **504** | Ashford Royal Pavilion | Mirtul 21, 209 AC (11:15) | Roleplay |
-| **505** | Ashford Royal Pavilion | Mirtul 21, 209 AC (11:15) | Social Challenge |
-| **506** | Fossoway Command Tents | Mirtul 21, 209 DR (11:30) | Boss Surrender |
-| **507** | Fossoway Command Tents | Mirtul 21, 209 AC (11:30) | Roleplay |
-| **508** | Fossoway Command Tents | Mirtul 21, 209 DR (11:35) | Skill Check / Combat |
-| **509** | Fossoway Command Tents | Mirtul 21, 209 AC (11:35) | Skill Check / Combat |
-| **510** | Fossoway Command Tents | Mirtul 21, 209 AC (11:35) | Skill Check / Combat |
-| **511** | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Skill Check / Combat |
-| **512** | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Roleplay |
-| **513** | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Skill Check / Combat |
-| **514** | Redwyne Picket | Mirtul 21, 209 DR (11:40) | Skill Check / Combat |
-| **515** | Redwyne Picket | Mirtul 21, 209 AC (11:40) | Roleplay |
-| **516** | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Skill Check / Combat |
-| **517** | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Roleplay |
-| **518** | Redwyne Picket | Mirtul 21, 209 AC (11:50) | Skill Check / Combat |
-| **519** | Redwyne Picket | Mirtul 21, 209 AC (11:50) | Roleplay |
-| **520** | Fossoway Command Tents | Mirtul 21, 209 AC (12:05) | Skill Check / Combat |
-| **521** | Ashford Meadow (Base of Mertyns Rise) | Mirtul 21, 209 DR (12:15) | Skill Check / Combat |
-| **522** | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (12:45) | Skill Check / Combat |
-| **523** | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 DR (13:00) | Skill Check / Combat |
-| **524** | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 DR (13:05) | Skill Check / Combat |
-| **525** | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:10) | Skill Check / Combat |
-| **526** | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:25) | Skill Check / Combat |
-| **527** | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:35) | Skill Check / Combat |
-| **528** | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:45) | Skill Check / Combat |
-| **529** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
-| **530** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
-| **531** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
-| **532** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
-| **533** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
-| **534** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
-| **535** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
-| **536** | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:05) | Skill Check / Combat |
-| **537** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:20) | Skill Check / Combat |
-| **538** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 DR (14:30) | Skill Check / Combat |
-| **539** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:30) | Skill Check / Combat |
-| **540** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:30) | Skill Check / Combat |
-| **541** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:30) | Skill Check / Combat |
-| **542** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 DR (14:45) | Skill Check / Combat |
-| **543** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:55) | Skill Check / Combat |
-| **544** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (15:55) | Skill Check / Combat |
-| **545** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 DR (16:05) | Skill Check / Combat |
-| **546** | Unknown | Mirtul 21, 209 DR (16:05) | Skill Check / Combat |
-| **547** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (16:10) | Roleplay |
-| **548** | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (16:15) | Skill Check / Combat |
-| **549** | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 AC (16:45) | Skill Check / Combat |
-| **550** | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 AC (16:55) | Skill Check / Combat |
-| **551** | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 DR (17:10) | Skill Check / Combat |
-| **552** | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 DR (17:25) | Skill Check / Combat |
-| **553** | Unknown | Mirtul 21, 209 DR (17:35) | Skill Check / Combat |
-| **554** | Mertyns Rise (Private Chestnut Grove) | Mirtul 21, 209 AC (17:50) | Skill Check / Combat |
-| **555** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 DR (18:20) | Skill Check / Combat |
-| **556** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:35) | Skill Check / Combat |
-| **557** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:40) | Skill Check / Combat |
-| **558** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:45) | Skill Check / Combat |
-| **559** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:45) | Roleplay |
-| **560** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:45) | Roleplay |
-| **561** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 DR (18:55) | Skill Check / Combat |
-| **562** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (19:00) | Skill Check / Combat |
-| **563** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (19:05) | Skill Check / Combat |
-| **564** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (19:15) | Roleplay |
-| **565** | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 DR (19:25) | Skill Check / Combat |
-| **566** | Ashford Royal Pavilion (Dining Tent Perimeter) | Mirtul 21, 209 AC (19:40) | Skill Check / Combat |
-| **567** | Mertyns Rise (Recovery Area) | Mirtul 21, 209 DR (19:55) | Skill Check / Combat |
-| **568** | Mertyns Rise (Recovery Area) | Mirtul 21, 209 AC (20:00) | Skill Check / Combat |
-| **569** | Mertyns Rise (Recovery Area) | Mirtul 21, 209 AC (20:30) | Skill Check / Combat |
-| **570** | Mertyns Rise (Recovery Area) | Mirtul 21, 209 AC (20:30) | Roleplay |
-| **571** | The Red Mountains (Dry-Wash Approach) | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
-| **572** | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Roleplay |
-| **573** | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
-| **574** | Unknown | Mirtul 22, 209 DR (02:30) | Roleplay |
-| **575** | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
-| **576** | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
-| **577** | Widow's Crossing | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
-| **578** | Widow's Crossing (Red Mountains) | Mirtul 22, 209 AC (02:30) | Roleplay |
-| **579** | Widow's Crossing | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
-| **580** | Widow's Crossing | Mirtul 22, 209 DR (02:45) | Skill Check / Combat |
-| **581** | Widow's Crossing | Mirtul 22, 209 AC (03:00) | Skill Check / Combat |
-| **582** | Widow's Crossing | Mirtul 22, 209 DR (03:10) | Skill Check / Combat |
-| **583** | Widow's Crossing | Mirtul 22, 209 DR (03:15) | Skill Check / Combat |
-| **584** | The Jagged Pass | Mirtul 22, 209 AC (06:30) | Skill Check / Combat |
-| **585** | The Jagged Pass | Mirtul 22, 209 AC (06:45) | Skill Check / Combat |
-| **586** | Suboptimal Campsite | Mirtul 22, 209 DR (07:00) | Skill Check / Combat |
-| **587** | Sandstone Cul-de-sac | Mirtul 22, 209 AC (07:30) | Skill Check / Combat |
-| **588** | Sandstone Cul-de-sac | Mirtul 22, 209 AC (07:40) | Skill Check / Combat |
-| **589** | Sandstone Cul-de-sac | Mirtul 22, 209 AC (07:50) | Skill Check / Combat |
-| **590** | Sandstone Cul-de-sac | Mirtul 22, 209 AC (08:05) | Skill Check / Combat |
-| **591** | The Narrows | Mirtul 22, 209 DR (09:15) | Skill Check / Combat |
-| **592** | Sheltered Overhang | Mirtul 22, 209 DR (18:15) | Skill Check / Combat |
-| **593** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
-| **594** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Roleplay |
-| **595** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
-| **596** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
-| **597** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
-| **598** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
-| **599** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
-| **600** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Roleplay |
-| **601** | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Skill Check / Combat |
-| **602** | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Skill Check / Combat |
-| **603** | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Roleplay |
-| **604** | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Roleplay |
-| **605** | Unknown | Mirtul 22, 209 DR (19:45) | Roleplay |
-| **606** | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
-| **607** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:00) | Skill Check / Combat |
-| **608** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Skill Check / Combat |
-| **609** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Skill Check / Combat |
-| **610** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Roleplay |
-| **611** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Roleplay |
-| **612** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 DR (00:05) | Roleplay |
-| **613** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 DR (00:05) | Skill Check / Combat |
-| **614** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:10) | Skill Check / Combat |
-| **615** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:10) | Skill Check / Combat |
-| **616** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:15) | Skill Check / Combat |
-| **617** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:15) | Roleplay |
-| **618** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:30) | Skill Check / Combat |
-| **619** | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:35) | Skill Check / Combat |
-| **620** | Weaver's Path Bypass | Mirtul 23, 209 AC (04:35) | Skill Check / Combat |
-| **621** | Southern Mouth (Red Mountains) | Mirtul 23, 209 AC (05:35) | Skill Check / Combat |
-| **622** | The Dornish Marches (Open Plains) | Mirtul 23, 209 DR (06:35) | Skill Check / Combat |
-| **623** | Dornish Marches (White Chalk Hollow) | Mirtul 23, 209 DR (18:00) | Skill Check / Combat |
-| **624** | Dornish Marches (Emerald Swells) | Mirtul 24, 209 DR (04:00) | Skill Check / Combat |
-| **625** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:10) | Skill Check / Combat |
-| **626** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:15) | Skill Check / Combat |
-| **627** | Unknown | Mirtul 24, 209 DR (04:10) | Skill Check / Combat |
-| **628** | Unknown | Mirtul 24, 209 DR (04:10) | Roleplay |
-| **629** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:30) | Skill Check / Combat |
-| **630** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Skill Check / Combat |
-| **631** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Roleplay |
-| **632** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Roleplay |
-| **633** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Roleplay |
-| **634** | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:45) | Roleplay |
-| **635** | The Southern Plains (Serpent's Gully Exit) | Mirtul 24, 209 AC (07:45) | Skill Check / Combat |
-| **636** | The Southern Plains (Northern Marches) | Mirtul 24, 209 AC (07:45) | Roleplay |
-| **637** | Unknown | Mirtul 24, 209 DR (08:15) | Skill Check / Combat |
-| **638** | The Southern Plains (Northern Marches) | Mirtul 24, 209 AC (08:45) | Skill Check / Combat |
-| **639** | The Twin Spires (Northern Marches) | Mirtul 24, 209 AC (11:30) | Skill Check / Combat |
-| **640** | Twin Spires Narrows | Mirtul 24, 209 DR (11:45) | Skill Check / Combat |
-| **641** | Twin Spires Narrows | Mirtul 24, 209 AC (11:55) | Skill Check / Combat |
-| **642** | Twin Spires Narrows | Mirtul 24, 209 AC (12:05) | Skill Check / Combat |
-| **643** | Twin Spires Narrows | Mirtul 24, 209 AC (12:20) | Skill Check / Combat |
-| **644** | Southern Mouth of the Jagged Pass | Mirtul 24, 209 DR (13:50) | Skill Check / Combat |
-| **645** | Southern Mouth of the Jagged Pass | Mirtul 24, 209 DR (14:05) | Skill Check / Combat |
-| **646** | Southern Mouth of the Jagged Pass | Mirtul 24, 209 AC (14:05) | Skill Check / Combat |
-| **647** | The Briar-Path | Mirtul 24, 209 DR (16:30) | Skill Check / Combat |
-| **648** | Unknown | Mirtul 24, 209 DR (16:30) | Skill Check / Combat |
-| **649** | The Briar-Path | Mirtul 24, 209 DR (16:45) | Skill Check / Combat |
-| **650** | The Briar-Path | Mirtul 24, 209 AC (16:45) | Roleplay |
-| **651** | Unknown | Mirtul 24, 209 DR (16:45) | Roleplay |
-| **652** | The Briar-Path | Mirtul 24, 209 AC (16:45) | Roleplay |
-| **653** | The Briar-Path | Mirtul 24, 209 AC (16:45) | Roleplay |
-| **654** | The Briar-Path | Mirtul 24, 209 AC (17:15) | Roleplay |
-| **655** | Unknown | Mirtul 24, 209 DR (17:15) | Roleplay |
-| **656** | The Briar-Path | Mirtul 24, 209 AC (17:15) | Skill Check / Combat |
-| **657** | Unknown | Mirtul 24, 209 DR (17:15) | Roleplay |
-| **658** | The Briar-Path | Mirtul 24, 209 AC (18:30) | Skill Check / Combat |
-| **659** | The Briar-Path | Mirtul 24, 209 AC (18:30) | Roleplay |
-| **660** | The Trident-Rift Rim | Mirtul 24, 209 AC (19:30) | Skill Check / Combat |
-| **661** | The Trident-Rift Rim | Mirtul 24, 209 DR (19:35) | Skill Check / Combat |
-| **662** | The Trident-Rift Rim | Mirtul 24, 209 AC (19:45) | Skill Check / Combat |
-| **663** | Unknown | Mirtul 24, 209 DR (19:45) | Roleplay |
-| **664** | The Trident-Rift Rim | Mirtul 24, 209 AC (19:50) | Skill Check / Combat |
-| **665** | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (19:55) | Skill Check / Combat |
-| **666** | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:00) | Skill Check / Combat |
-| **667** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
-| **668** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Roleplay |
-| **669** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Roleplay |
-| **670** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Roleplay |
-| **671** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
-| **672** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
-| **673** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
-| **674** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:01) | Skill Check / Combat |
-| **675** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:01) | Skill Check / Combat |
-| **676** | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:01) | Skill Check / Combat |
-| **677** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:05) | Skill Check / Combat |
-| **678** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Skill Check / Combat |
-| **679** | Unknown | Mirtul 24, 209 DR (20:10) | Roleplay |
-| **680** | Unknown | Mirtul 24, 209 DR (20:10) | Roleplay |
-| **681** | Unknown | Mirtul 24, 209 DR (20:10) | Roleplay |
-| **682** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
-| **683** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
-| **684** | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:10) | Roleplay |
-| **685** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
-| **686** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
-| **687** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
-| **688** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Skill Check / Combat |
-| **689** | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:15) | Skill Check / Combat |
-| **690** | Unknown | Mirtul 24, 209 DR (20:15) | Roleplay |
-| **691** | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:30) | Skill Check / Combat |
-| **692** | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:15) | Skill Check / Combat |
-| **693** | Heart-Plinth (White Throat) | Mirtul 24, 209 AC (20:45) | Skill Check / Combat |
-| **694** | Perzys Sōdyon (The Heart-Plinth) | Mirtul 24, 209 AC (20:45) | Roleplay |
-| **695** | Heart-Plinth | Mirtul 24, 209 DR (20:50) | Skill Check / Combat |
-| **696** | Heart-Plinth | Mirtul 24, 209 DR (21:00) | Skill Check / Combat |
-| **697** | Heart-Plinth | Mirtul 24, 209 AC (21:05) | Roleplay |
-| **698** | Heart-Plinth | Mirtul 24, 209 AC (21:05) | Roleplay |
-| **699** | Heart-Plinth | Mirtul 24, 209 AC (21:05) | Roleplay |
-| **700** | Unknown |  | Skill Check / Combat |
-| **701** | Heart-Plinth | Mirtul 24, 209 AC (21:15) | Skill Check / Combat |
-| **702** | Heart-Plinth | Mirtul 25, 209 AC (06:15) | Skill Check / Combat |
-| **703** | Perzys Sōdyon (The White Throat) | Mirtul 25, 209 AC (06:30) | Skill Check / Combat |
-| **704** | Unknown | Mirtul 25, 209 DR (06:30) | Roleplay |
-| **705** | The White Throat | Mirtul 25, 209 AC (06:31) | Skill Check / Combat |
-| **706** | The White Throat | Mirtul 25, 209 AC (06:32) | Skill Check / Combat |
-| **707** | The White Throat | Mirtul 25, 209 AC (06:32) | Roleplay |
-| **708** | The White Throat | Mirtul 25, 209 DR (06:32) | Skill Check / Combat |
-| **709** | The White Throat | Mirtul 25, 209 AC (06:32) | Roleplay |
-| **710** | The White Throat | Mirtul 25, 209 AC (06:32) | Skill Check / Combat |
-| **711** | The White Throat | Mirtul 25, 209 AC (06:32) | Roleplay |
-| **712** | The White Throat | Mirtul 25, 209 AC (06:47) | Skill Check / Combat |
-| **713** | The White Throat Parapet | Mirtul 25, 209 AC (06:50) | Skill Check / Combat |
-| **714** | The White Throat | Mirtul 25, 209 DR (07:00) | Skill Check / Combat |
-| **715** | The White Throat | Mirtul 25, 209 AC (07:05) | Skill Check / Combat |
-| **716** | The White Throat | Mirtul 25, 209 AC (07:10) | Skill Check / Combat |
-| **717** | The White Throat | Mirtul 25, 209 AC (07:15) | Skill Check / Combat |
-| **718** | Belaerys Research Facility | Mirtul 25, 209 AC (07:45) | Skill Check / Combat |
-| **719** | Belaerys Research Facility | Mirtul 25, 209 AC (07:45) | Roleplay |
-| **720** | Belaerys Research Facility | Mirtul 25, 209 AC (08:30) | Skill Check / Combat |
-| **721** | Belaerys Research Facility | Mirtul 25, 209 DR (09:00) | Skill Check / Combat |
-| **722** | Belaerys Research Facility | Mirtul 25, 209 AC (09:15) | Skill Check / Combat |
-| **723** | Belaerys Research Facility | Mirtul 25, 209 AC (09:30) | Skill Check / Combat |
-| **724** | Belaerys Research Facility | Mirtul 25, 209 AC (10:00) | Skill Check / Combat |
-| **725** | Starpike | Mirtul 25, 209 AC (18:00) | Skill Check / Combat |
-| **726** | Starpike Courtyard | Mirtul 25, 209 AC (18:15) | Roleplay |
-| **727** | Lord's Solar | Mirtul 25, 209 AC (18:45) | Roleplay |
-| **728** | Guest Library | Mirtul 25, 209 DR (19:15) | Skill Check / Combat |
-| **729** | Great Hall | Mirtul 25, 209 DR (20:30) | Skill Check / Combat |
-| **730** | Great Hall | Mirtul 25, 209 AC (21:00) | Skill Check / Combat |
-| **731** | Great Hall | Mirtul 25, 209 AC (21:05) | Skill Check / Combat |
-| **732** | Sandstone Balcony | Mirtul 25, 209 AC (21:15) | Skill Check / Combat |
-| **733** | Sandstone Balcony | Mirtul 25, 209 AC (21:15) | Roleplay |
-| **734** | Unknown | Mirtul 25, 209 DR (21:20) | Skill Check / Combat |
-| **735** | Great Hall | Mirtul 25, 209 DR (21:35) | Skill Check / Combat |
-| **736** | Great Hall | 5th Moon, 209 AC (25) | Roleplay |
-| **737** | Great Hall | Mirtul 25, 209 DR (21:55) | Skill Check / Combat |
-| **738** | Guest Library | Mirtul 25, 209 DR (22:15) | Skill Check / Combat |
-| **739** | Ashford Meadow | Mirtul 30, 209 AC (16:30) | Skill Check / Combat |
-| **740** | Ashford Meadow - Main Gate | Mirtul 30, 209 AC (16:30) | Skill Check / Combat |
-| **741** | Ashford Meadow - Main Gate | Mirtul 30, 209 AC (16:45) | Skill Check / Combat |
-| **742** | Ashford Meadow - Main Gate | Mirtul 30, 209 AC (16:45) | Skill Check / Combat |
-| **743** | Unknown | Mirtul 30, 209 DR (16:45) | Roleplay |
-| **744** | Ashford Meadow - Main Gate | Mirtul 30, 209 DR (16:55) | Skill Check / Combat |
-| **745** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:05) | Skill Check / Combat |
-| **746** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 AC (17:10) | Skill Check / Combat |
-| **747** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:15) | Skill Check / Combat |
-| **748** | Ashford Meadow - Prince's Pavilion | Month 5, 209 AC (Day 30) | Roleplay |
-| **749** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:25) | Skill Check / Combat |
-| **750** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:30) | Roleplay |
-| **751** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:35) | Skill Check / Combat |
-| **752** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:35) | Skill Check / Combat |
-| **753** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 AC (17:45) | Skill Check / Combat |
-| **754** | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 AC (17:50) | Skill Check / Combat |
-| **755** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:00) | Skill Check / Combat |
-| **756** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:00) | Roleplay |
-| **757** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:10) | Skill Check / Combat |
-| **758** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:15) | Skill Check / Combat |
-| **759** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:15) | Skill Check / Combat |
-| **760** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:15) | Skill Check / Combat |
-| **761** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:15) | Skill Check / Combat |
-| **762** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:20) | Skill Check / Combat |
-| **763** | Ashford Meadow - Royal Pavilion (Masked) | Mirtul 30, 209 AC (20:35) | Skill Check / Combat |
-| **764** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:35) | Skill Check / Combat |
-| **765** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:45) | Skill Check / Combat |
-| **766** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:50) | Skill Check / Combat |
-| **767** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:50) | Skill Check / Combat |
-| **768** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:55) | Skill Check / Combat |
-| **769** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (21:25) | Skill Check / Combat |
-| **770** | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (21:30) | Roleplay |
-| **771** | Ashford Meadow - Camp Perimeter | Mirtul 30, 209 DR (21:35) | Skill Check / Combat |
-| **772** | Ashford Meadow - Camp Perimeter | Mirtul 30, 209 AC (21:35) | Roleplay |
-| **773** | Skies above Ashford Meadow | Mirtul 30, 209 AC (21:45) | Skill Check / Combat |
-| **774** | Skies Above Ashford Meadow | Mirtul 30, 209 DR (21:50) | Skill Check / Combat |
-| **775** | The Serpent's Gully | Mirtul 30, 209 DR (22:15) | Skill Check / Combat |
-| **776** | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:20) | Skill Check / Combat |
-| **777** | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Skill Check / Combat |
-| **778** | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
-| **779** | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
-| **780** | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
-| **781** | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
-| **782** | Unknown | Mirtul 30, 209 DR (22:45) | Skill Check / Combat |
-| **783** | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:50) | Skill Check / Combat |
-| **784** | The Serpent's Gully (Flame-Gate) | Mirtul 31, 209 AC (06:50) | Skill Check / Combat |
-| **785** | Unknown | Mirtul 31, 209 DR (06:50) | Roleplay |
-| **786** | The Serpent's Gully (Flame-Gate) | Mirtul 31, 209 AC (06:50) | Skill Check / Combat |
-| **787** | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 DR (07:05) | Skill Check / Combat |
-| **788** | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:10) | Skill Check / Combat |
-| **789** | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 DR (07:15) | Skill Check / Combat |
-| **790** | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:15) | Skill Check / Combat |
-| **791** | Unknown | Mirtul 31, 209 DR (07:15) | Roleplay |
-| **792** | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:15) | Skill Check / Combat |
-| **793** | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:15) | Skill Check / Combat |
-| **794** | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (23:30) | Skill Check / Combat |
-| **795** | Summerhall (The High Hall) | Kythorn 12, 209 AC (14:00) | Skill Check / Combat |
-| **796** | The High Solar | Kythorn 12, 223 AC (14:00) | Roleplay |
-| **797** | Summerhall | Kythorn 12, 215 AC (14:00) | Roleplay |
-| **798** | Unknown | Kythorn 12, 215 DR (14:00) | Skill Check / Combat |
-| **799** | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Roleplay |
-| **800** | Summerhall | Kythorn 12, 215 AC (14:00) | Roleplay |
-| **801** | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Roleplay |
-| **802** | Summerhall | Kythorn 12, 215 AC (14:00) | Roleplay |
-| **803** | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Roleplay |
-| **804** | Unknown | Kythorn 12, 215 DR (14:00) | Roleplay |
-| **805** | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Skill Check / Combat |
-| **806** | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
-| **807** | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Roleplay |
-| **808** | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Skill Check / Combat |
-| **809** | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Roleplay |
-| **810** | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
-| **811** | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
-| **812** | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
-| **813** | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Roleplay |
-| **814** | The Small Council Chamber | Kythorn 12, 215 AC (16:15) | Roleplay |
-| **815** | Small Council Chamber | Kythorn 12, 215 AC (16:20) | Skill Check / Combat |
-| **816** | Small Council Chamber | Kythorn 12, 215 AC (16:25) | Skill Check / Combat |
-| **817** | Small Council Chamber | Kythorn 12, 215 AC (16:35) | Skill Check / Combat |
-| **818** | Small Council Chamber | Kythorn 12, 215 AC (16:35) | Roleplay |
-| **819** | Small Council Chamber | Kythorn 12, 215 AC (16:40) | Skill Check / Combat |
-| **820** | Small Council Chamber | Kythorn 12, 215 AC (16:45) | Skill Check / Combat |
-| **821** | Small Council Chamber | Kythorn 12, 215 AC (16:45) | Roleplay |
-| **822** | Unknown | Kythorn 12, 215 DR (16:55) | Skill Check / Combat |
-| **823** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (10:30) | Skill Check / Combat |
-| **824** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:30) | Skill Check / Combat |
-| **825** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:30) | Roleplay |
-| **826** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:30) | Roleplay |
-| **827** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:45) | Skill Check / Combat |
-| **828** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:00) | Skill Check / Combat |
-| **829** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:05) | Skill Check / Combat |
-| **830** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:05) | Skill Check / Combat |
-| **831** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:15) | Skill Check / Combat |
-| **832** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:20) | Skill Check / Combat |
-| **833** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:30) | Skill Check / Combat |
-| **834** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:30) | Roleplay |
-| **835** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:30) | Skill Check / Combat |
-| **836** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:45) | Skill Check / Combat |
-| **837** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:45) | Skill Check / Combat |
-| **838** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:45) | Roleplay |
-| **839** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:55) | Skill Check / Combat |
-| **840** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (13:05) | Skill Check / Combat |
-| **841** | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (13:30) | Skill Check / Combat |
-| **842** | Riverlands Command Pavilion | Kythorn 14, 215 AC (14:00) | Skill Check / Combat |
-| **843** | Blackfyre Command Tent | Kythorn 14, 215 AC (14:15) | Roleplay |
-| **844** | Targaryen War Pavilion | Kythorn 14, 215 AC (14:15) | Roleplay |
-| **845** | Targaryen War Pavilion | Kythorn 14, 215 AC (14:30) | Skill Check / Combat |
-| **846** | Targaryen War Pavilion | Kythorn 14, 215 AC (15:10) | Skill Check / Combat |
-| **847** | Targaryen War Pavilion | Kythorn 14, 215 AC (15:30) | Skill Check / Combat |
-| **848** | Targaryen War Pavilion | Kythorn 14, 215 AC (15:30) | Roleplay |
-| **849** | Ascension Command Sanctum | Kythorn 14, 215 AC (16:00) | Skill Check / Combat |
-| **850** | Ascension Command Sanctum | Kythorn 14, 215 AC (16:15) | Skill Check / Combat |
-| **851** | Ascension Command Sanctum | Kythorn 14, 215 AC (16:15) | Skill Check / Combat |
-| **852** | Ascension Command Sanctum | Kythorn 14, 215 AC (16:30) | Roleplay |
-| **853** | Unknown | Kythorn 14, 215 DR (16:30) | Skill Check / Combat |
-| **854** | Ascension Command Sanctum | Kythorn 14, 215 AC (16:30) | Roleplay |
-| **855** | Ascension Command Sanctum | Kythorn 14, 215 AC (17:00) | Skill Check / Combat |
-| **856** | Ascension Command Sanctum | Kythorn 14, 215 AC (17:15) | Skill Check / Combat |
-| **857** | Ascension Command Sanctum | Kythorn 14, 215 AC (17:30) | Skill Check / Combat |
-| **858** | Ascension Command Sanctum | Kythorn 14, 215 AC (20:30) | Skill Check / Combat |
-| **859** | The Sun-Vein | Kythorn 16, 215 AC (04:30) | Skill Check / Combat |
-| **860** | The Sun-Vein | Kythorn 16, 215 AC (04:35) | Skill Check / Combat |
-| **861** | The Sun-Vein | Kythorn 16, 215 AC (04:35) | Skill Check / Combat |
-| **862** | The Sun-Vein | Kythorn 16, 215 AC (04:40) | Skill Check / Combat |
-| **863** | The Sun-Vein | Kythorn 16, 215 AC (04:45) | Skill Check / Combat |
-| **864** | Unknown | Kythorn 16, 215 DR (04:45) | Roleplay |
-| **865** | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Skill Check / Combat |
-| **866** | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Roleplay |
-| **867** | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Roleplay |
-| **868** | The Sun-Vein | Kythorn 16, 215 AC (20:30) | Roleplay |
-| **869** | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Roleplay |
-| **870** | The Sun-Vein | Kythorn 16, 215 AC (13:45) | Skill Check / Combat |
-| **871** | The Heart-Plinth | Afternoon, 217 AC (14:30) | Skill Check / Combat |
-| **872** | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
-| **873** | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
-| **874** | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
-| **875** | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
-| **876** | The Heart-Plinth | Hammer 12, 217 AC (14:35) | Roleplay |
-| **877** | The Heart-Plinth | Hammer 12, 217 AC (14:35) | Skill Check / Combat |
-| **878** | The Heart-Plinth | Hammer 12, 217 AC (14:40) | Skill Check / Combat |
-| **879** | The Heart-Plinth | Hammer 12, 217 AC (14:45) | Skill Check / Combat |
-| **880** | The Heart-Plinth | Hammer 12, 217 AC (14:50) | Skill Check / Combat |
-| **881** | The Heart-Plinth | Hammer 12, 217 AC (14:55) | Skill Check / Combat |
-| **882** | The Heart-Plinth | Hammer 12, 217 AC (15:05) | Skill Check / Combat |
-| **883** | The Heart-Plinth | Hammer 12, 217 AC (15:10) | Skill Check / Combat |
-| **884** | The Heart-Plinth | Hammer 12, 217 AC (15:10) | Skill Check / Combat |
-| **885** | The Heart-Plinth | Hammer 12, 217 AC (15:10) | Skill Check / Combat |
-| **886** | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Skill Check / Combat |
-| **887** | The Heart-Plinth | Hammer 12, 217 AC (15:30) | Skill Check / Combat |
-| **888** | The Heart-Plinth | Hammer 12, 217 AC (15:30) | Roleplay |
-| **889** | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
-| **890** | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
-| **891** | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
-| **892** | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
-| **893** | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
-| **894** | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
-| **895** | The Heart-Plinth | Hammer 12, 217 AC (16:00) | Roleplay |
-| **896** | The Heart-Plinth | Hammer 12, 217 AC (16:00) | Roleplay |
-| **897** | The Heart-Plinth | Hammer 12, 217 AC (16:15) | Roleplay |
-| **898** | The Palace of the Stars | Hammer 12, 217 AC (17:15) | Skill Check / Combat |
-| **899** | The Palace of the Stars | Hammer 12, 217 AC (17:30) | Skill Check / Combat |
-| **900** | The Palace of the Stars | Hammer 12, 217 AC (17:30) | Roleplay |
-| **901** | The Palace of the Stars | Hammer 12, 217 AC (17:35) | Skill Check / Combat |
-| **902** | The Palace of the Stars | Hammer 12, 217 AC (18:35) | Skill Check / Combat |
-| **903** | The Palace of the Stars | Hammer 12, 217 AC (18:45) | Skill Check / Combat |
-| **904** | Great Hall of the Palace of the Stars | Hammer 12, 217 AC (18:55) | Skill Check / Combat |
-| **905** | The Great Hall | Hammer 12, 217 AC (19:15) | Roleplay |
-| **906** | The Great Hall | Hammer 12, 217 AC (19:20) | Roleplay |
-| **907** | The Great Hall | 217 Hammer 12, 19:20:00 | Roleplay |
-| **908** | The Great Hall | Hammer 12, 217 AC (20:35) | Skill Check / Combat |
-| **909** | The Great Hall | Hammer 12, 217 AC (20:35) | Roleplay |
-| **910** | The Great Hall | Hammer 12, 217 AC (21:00) | Skill Check / Combat |
-| **911** | The Great Hall | Hammer 12, 217 AC (21:00) | Roleplay |
-| **912** | The Inner Sanctum | Hammer 12, 217 AC (21:15) | Skill Check / Combat |
-| **913** | The Inner Sanctum | Hammer 12, 217 AC (21:30) | Skill Check / Combat |
-| **914** | The Great Hall | Hammer 12, 217 AC (22:00) | Skill Check / Combat |
-| **915** | The Great Hall | Hammer 12, 217 AC (22:15) | Social Challenge |
-| **916** | The Great Hall | Hammer 12, 217 AC (22:15) | Roleplay |
-| **917** | The Great Hall | Hammer 12, 217 AC (22:30) | Skill Check / Combat |
-| **918** | The Great Hall | Hammer 12, 217 AC (22:30) | Skill Check / Combat |
-| **919** | The Great Hall | Hammer 12, 217 AC (22:45) | Skill Check / Combat |
-| **920** | The Great Hall | Hammer 12, 217 AC (22:45) | Skill Check / Combat |
-| **921** | The Great Hall | Hammer 12, 217 AC (22:50) | Skill Check / Combat |
-| **922** | The Great Hall | Hammer 12, 217 AC (23:00) | Skill Check / Combat |
-| **923** | The Great Hall | Hammer 12, 217 AC (23:00) | Roleplay |
-| **924** | The Great Hall | Hammer 12, 217 AC (23:45) | Skill Check / Combat |
-| **925** | The Great Hall & Lower Forges | Hammer 12, 217 AC (23:45) | Roleplay |
-| **926** | The Great Hall & Lower Forges | 217 Hammer 12, 23:45:00 | Roleplay |
-| **927** | The Great Hall & Lower Forges | Hammer 12, 217 AC (23:45) | Roleplay |
-| **928** | The Great Vats | Hammer 12, 217 DR (23:55) | Skill Check / Combat |
-| **929** | The Great Vats | Hammer 15, 217 AC (09:00) | Skill Check / Combat |
-| **930** | The Great Hall | Hammer 18, 217 AC (09:30) | Skill Check / Combat |
-| **931** | The Great Vats | Hammer 25, 217 AC (11:30) | Skill Check / Combat |
-| **932** | The Great Hall | Hammer 25, 217 AC (11:45) | Skill Check / Combat |
-| **933** | The Great Hall | Hammer 25, 217 AC (12:00) | Skill Check / Combat |
-| **934** | The Great Hall | Hammer 25, 217 AC (12:00) | Roleplay |
-| **935** | The Great Hall | Hammer 25, 217 DR (12:15) | Skill Check / Combat |
-| **936** | Private Solar | Hammer 25, 217 AC (23:00) | Skill Check / Combat |
-| **937** | Unknown | Hammer 25, 217 DR (23:00) | Roleplay |
-| **938** | Private Solar | Hammer 25, 217 AC (23:00) | Roleplay |
-| **939** | Private Solar | Hammer 25, 217 DR (23:15) | Skill Check / Combat |
-| **940** | Private Solar | Hammer 25, 217 DR (23:30) | Skill Check / Combat |
-| **941** | Private Solar | Hammer 25, 217 AC (23:45) | Roleplay |
-| **942** | Private Guest Wing | Hammer 26, 217 AC (08:30) | Roleplay |
-| **943** | Private Guest Wing Terrace | Hammer 26, 217 AC (08:45) | Skill Check / Combat |
-| **944** | Private Guest Wing Terrace | Hammer 26, 217 AC (08:50) | Skill Check / Combat |
-| **945** | Private Guest Wing Terrace | Hammer 26, 217 DR (09:00) | Skill Check / Combat |
-| **946** | Palace of the Stars | Hammer 26, 217 AC (09:15) | Skill Check / Combat |
-| **947** | Private Guest Wing Terrace | Hammer 27, 217 DR (09:30) | Skill Check / Combat |
-| **948** | Palace of the Stars Terrace | Hammer 26, 217 AC (09:35) | Skill Check / Combat |
-| **949** | Private Guest Wing Terrace | 26, 217 Hammer (09:40) | Skill Check / Combat |
-| **950** | Palace of the Stars Terrace | Hammer 26, 217 DR (09:50) | Skill Check / Combat |
-| **951** | Palace of the Stars Terrace | Hammer 26, 217 AC (10:00) | Skill Check / Combat |
-| **952** | Palace of the Stars | Hammer 26, 217 DR (10:15) | Skill Check / Combat |
-| **953** | Palace of the Stars | Hammer 26, 217 AC (10:30) | Skill Check / Combat |
-| **954** | Palace of the Stars | Hammer 26, 217 DR (11:00) | Skill Check / Combat |
-| **955** | Western Colonnade | Hammer 26, 217 DR (11:30) | Skill Check / Combat |
-| **956** | Palace of the Stars | Alturiak 17, 217 DR (09:00) | Roleplay |
-| **957** | King's Landing - Docks | Alturiak 24, 217 AC (14:00) | Skill Check / Combat |
-| **958** | King's Landing - Shadowblack Lane | Alturiak 24, 217 AC (14:15) | Skill Check / Combat |
-| **959** | The Red Keep - Maidenvault Solar | Alturiak 24, 217 DR (15:30) | Skill Check / Combat |
-| **960** | The Red Keep - Shadowed Cellar | Alturiak 24, 217 DR (15:45) | Skill Check / Combat |
-| **961** | Unknown | Alturiak 24, 217 DR (15:45) | Roleplay |
-| **962** | The Red Keep - Maidenvault Solar | Alturiak 24, 217 DR (15:50) | Skill Check / Combat |
-| **963** | The Red Keep - Throne Room | Alturiak 24, 217 AC (16:30) | Skill Check / Combat |
-| **964** | The Red Keep - Throne Room | Alturiak 24, 217 DR (16:45) | Skill Check / Combat |
-| **965** | The Red Keep - Throne Room | Alturiak 24, 217 DR (16:50) | Skill Check / Combat |
-| **966** | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:00) | Skill Check / Combat |
-| **967** | The Red Keep - Throne Room | Alturiak 24, 217 DR (17:15) | Skill Check / Combat |
-| **968** | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:30) | Skill Check / Combat |
-| **969** | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:35) | Skill Check / Combat |
-| **970** | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:45) | Skill Check / Combat |
-| **971** | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:45) | Roleplay |
-| **972** | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:45) | Skill Check / Combat |
-| **973** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:15) | Skill Check / Combat |
-| **974** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:30) | Skill Check / Combat |
-| **975** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:45) | Skill Check / Combat |
-| **976** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:50) | Skill Check / Combat |
-| **977** | The Red Keep - Hand's Solar | Day 24, 217 Alturiak (18:50) | Skill Check / Combat |
-| **978** | The Red Keep - Hand's Solar | Day 24, 217 Alturiak (18:45) | Skill Check / Combat |
-| **979** | The Red Keep - Hand's Solar | Alturiak 24, 217 DR (18:50) | Skill Check / Combat |
-| **980** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:05) | Skill Check / Combat |
-| **981** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:10) | Skill Check / Combat |
-| **982** | The Red Keep - Hand's Solar | 217 Alturiak 24, 19:10:00 | Skill Check / Combat |
-| **983** | The Red Keep - Hand's Solar | Alturiak 24, 217 DR (19:15) | Skill Check / Combat |
-| **984** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:20) | Skill Check / Combat |
-| **985** | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:30) | Skill Check / Combat |
-| **986** | The Red Keep - Hand's Solar | Alturiak 24, 217 DR (19:45) | Skill Check / Combat |
-| **987** | The Palace of the Stars - Grand Library | Alturiak 24, 217 DR (20:15) | Skill Check / Combat |
-| **988** | New Valyria - Belaerys Research Facility | Alturiak 24, 217 DR (20:30) | Skill Check / Combat |
-| **989** | Belaerys Research Facility - Primary Conduction Chamber | Alturiak 24, 217 DR (20:45) | Skill Check / Combat |
-| **990** | Belaerys Medical Annex - Regeneration Sanctum | Alturiak 24, 217 AC (21:00) | Skill Check / Combat |
-| **991** | Belaerys Research Facility - Medical Annex | Alturiak 24, 217 AC (21:00) | Roleplay |
-| **992** | The Iron Throne Room | Alturiak 24, 217 DR (21:15) | Skill Check / Combat |
-| **993** | The Iron Throne Room | Alturiak 24, 217 DR (21:25) | Skill Check / Combat |
-| **994** | The Iron Throne Room | Alturiak 24, 217 AC (21:35) | Skill Check / Combat |
-| **995** | The Iron Throne Room | Alturiak 24, 217 AC (21:40) | Skill Check / Combat |
-| **996** | The Streets of King's Landing | Ches 2, 217 DR (10:00) | Skill Check / Combat |
-| **997** | The Streets of King's Landing | Ches 2, 217 AC (10:00) | Roleplay |
-| **998** | Highgarden (The Mander) | Ches 16, 217 AC (11:30) | Skill Check / Combat |
-| **999** | Highgarden (Water Gate) | Ches 16, 217 DR (11:45) | Skill Check / Combat |
-| **1000** | Highgarden (Water Gate) | Ches 16, 217 AC (12:00) | Skill Check / Combat |
-| **1001** | Highgarden (Water Gate) | Ches 16, 217 DR (12:10) | Skill Check / Combat |
-| **1002** | Highgarden (Upper Gardens) | Ches 16, 217 AC (12:25) | Skill Check / Combat |
-| **1003** | Highgarden (Upper Gardens) | Ches 16, 217 AC (12:40) | Skill Check / Combat |
-| **1004** | Highgarden (The Briar Maze) | Ches 16, 217 AC (12:55) | Skill Check / Combat |
-| **1005** | Highgarden (The Briar Maze) | Ches 16, 217 AC (13:00) | Roleplay |
-| **1006** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (12:00) | Skill Check / Combat |
-| **1007** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (12:05) | Skill Check / Combat |
-| **1008** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:05) | Skill Check / Combat |
-| **1009** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (12:15) | Skill Check / Combat |
-| **1010** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:15) | Roleplay |
-| **1011** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:15) | Roleplay |
-| **1012** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:30) | Roleplay |
-| **1013** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:35) | Skill Check / Combat |
-| **1014** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (13:35) | Skill Check / Combat |
-| **1015** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1016** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1017** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1018** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1019** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1020** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1021** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1022** | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
-| **1023** | Casterly Rock (Golden Gallery) | Mirtul 7, 217 AC (12:00) | Skill Check / Combat |
-| **1024** | Casterly Rock (The Lion's Mouth) | Mirtul 14, 217 AC (12:00) | Skill Check / Combat |
-| **1025** | Winterfell (Great Hall) | Mirtul 21, 217 AC (06:00) | Skill Check / Combat |
-| **1026** | Winterfell | Mirtul 21, 217 AC (06:15) | Skill Check / Combat |
-| **1027** | Winterfell | Mirtul 21, 217 DR (06:30) | Skill Check / Combat |
-| **1028** | Winterfell (The Ancient Forges) | Mirtul 21, 217 DR (06:45) | Skill Check / Combat |
-| **1029** | Winterfell (The Ancient Forges) | Mirtul 21, 217 DR (07:00) | Skill Check / Combat |
-| **1030** | Winterfell (The Great Hall) | Mirtul 21, 217 AC (08:00) | Skill Check / Combat |
-| **1031** | Pyke (The Iron Islands) | Mirtul 22, 217 AC (10:30) | Skill Check / Combat |
-| **1032** | Pyke (The Iron Islands) | Mirtul 22, 217 DR (10:35) | Roleplay |
-| **1033** | Pyke (The Iron Islands) | Mirtul 22, 217 DR (10:45) | Skill Check / Combat |
-| **1034** | Pyke (The Iron Islands) | 5th Month, 209 AC (Day 22) | Roleplay |
-| **1035** | Palace of the Stars (Valyria) | 8th Moon, 217 AC (22nd Day) | Skill Check / Combat |
-| **1036** | Palace of the Stars (Valyria) | 8th Moon, 209 AC (Day 22) | Roleplay |
-| **1037** | Palace of the Stars (Valyria) | 8th Moon, 209 AC (22nd Day) | Roleplay |
-| **1038** | Palace of the Stars (Valyria) | 8th Moon 22, 209 AC (09:00) | Roleplay |
-| **1039** | Palace of the Stars (Valyria) | 8th Moon 22, 217 AC (09:00) | Roleplay |
-| **1040** | Palace of the Stars (Valyria) | 8th Moon, 217 AC (22nd Day) | Skill Check / Combat |
-| **1041** | The Banks of the Upper Rhoyne | 8th Moon, 217 AC (29th Day) | Skill Check / Combat |
-| **1042** | The Banks of the Upper Rhoyne | 8th Moon, 217 AC (22nd Day) | Roleplay |
-| **1043** | The Banks of the Upper Rhoyne | Month 8, 217 AC (Day 22) | Roleplay |
-| **1044** | The Banks of the Upper Rhoyne | 8th Moon, 209 AC (22nd Day) | Roleplay |
-| **1045** | Winterfell (Great Keep / Battlements) | 8th Moon 22, 209 AC (10:30) | Skill Check / Combat |
-| **1046** | Unknown | 8 22, 209 DR (10:30) | Roleplay |
-| **1047** | Winterfell / The Kingsroad | 8th Moon, 209 AC (Day 22) | Skill Check / Combat |
-| **1048** | Castle Black | 8 22, 209 AC (12:30) | Skill Check / Combat |
-| **1049** | Castle Black | 8 22, 209 AC (12:45) | Skill Check / Combat |
-| **1050** | Palace of the Stars | 8th Moon, 209 AC (29th Day) | Skill Check / Combat |
-| **1051** | Palace of the Stars | Moon 8, 209 AC (Day 29) | Roleplay |
-| **1052** | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
-| **1053** | Palace of the Stars | 8th Moon 29, 209 AC (12:45) | Skill Check / Combat |
-| **1054** | Palace of the Stars | Month 8, 209 AC (Day 29) | Skill Check / Combat |
-| **1055** | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
-| **1056** | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
-| **1057** | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
-| **1058** | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
-| **1059** | Palace of the Stars | 8th Moon, 209 AC (29th Day) | Skill Check / Combat |
-| **1060** | Palace of the Stars | Month 8, 209 AC (Day 29) | Roleplay |
-| **1061** | Palace of the Stars | 8th Moon, 209 AC (29th Day) | Skill Check / Combat |
-| **1062** | Palace of the Stars | Month 9, 209 AC (Day 5) | Skill Check / Combat |
-| **1063** | Palace of the Stars / The Northern Rift | 9th Moon, 209 AC (Day 5) | Skill Check / Combat |
-| **1064** | The Shivering Wastes (Beyond the Wall) | 9 5, 209 AC (15:15) | Skill Check / Combat |
-| **1065** | The Shivering Wastes (Beyond the Wall) | 9 5, 209 AC (15:30) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Roadside Outside Ashford | Spring, 209 AC (10:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Ashford Meadow (Character Creation) | Spring, 209 AC (10:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The Road to Ashford | Spring, 209 AC (10:00) | Roleplay |
+| [**Scene 05**](#scene-5) | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
+| [**Scene 06**](#scene-6) | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
+| [**Scene 07**](#scene-7) | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
+| [**Scene 08**](#scene-8) | The Road to Ashford | Mirtul 15, 209 DR (10:00) | Roleplay |
+| [**Scene 09**](#scene-9) | The Road to Ashford | Mirtul 15, 209 DR (10:00) | Roleplay |
+| [**Scene 10**](#scene-10) | The Road to Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
+| [**Scene 11**](#scene-11) | The Road to Ashford | Mirtul 15, 209 DR (10:00) | Roleplay |
+| [**Scene 12**](#scene-12) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
+| [**Scene 13**](#scene-13) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
+| [**Scene 14**](#scene-14) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:00) | Roleplay |
+| [**Scene 15**](#scene-15) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:05) | Roleplay |
+| [**Scene 16**](#scene-16) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:05) | Roleplay |
+| [**Scene 17**](#scene-17) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:10) | Roleplay |
+| [**Scene 18**](#scene-18) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:15) | Roleplay |
+| [**Scene 19**](#scene-19) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:15) | Roleplay |
+| [**Scene 20**](#scene-20) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:20) | Roleplay |
+| [**Scene 21**](#scene-21) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:20) | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown | Mirtul 15, 209 DR (10:20) | Roleplay |
+| [**Scene 23**](#scene-23) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:30) | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown | Mirtul 15, 209 DR (10:30) | Roleplay |
+| [**Scene 25**](#scene-25) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:32) | Roleplay |
+| [**Scene 26**](#scene-26) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:32) | Roleplay |
+| [**Scene 27**](#scene-27) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:35) | Roleplay |
+| [**Scene 28**](#scene-28) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:40) | Roleplay |
+| [**Scene 29**](#scene-29) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:45) | Roleplay |
+| [**Scene 30**](#scene-30) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (10:50) | Roleplay |
+| [**Scene 31**](#scene-31) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (10:55) | Roleplay |
+| [**Scene 32**](#scene-32) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:00) | Roleplay |
+| [**Scene 33**](#scene-33) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:05) | Roleplay |
+| [**Scene 34**](#scene-34) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:10) | Roleplay |
+| [**Scene 35**](#scene-35) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:20) | Roleplay |
+| [**Scene 36**](#scene-36) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:25) | Roleplay |
+| [**Scene 37**](#scene-37) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:30) | Roleplay |
+| [**Scene 38**](#scene-38) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:30) | Roleplay |
+| [**Scene 39**](#scene-39) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (11:30) | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown | Mirtul 15, 209 DR (11:30) | Roleplay |
+| [**Scene 41**](#scene-41) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:35) | Roleplay |
+| [**Scene 42**](#scene-42) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (11:50) | Roleplay |
+| [**Scene 43**](#scene-43) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:15) | Roleplay |
+| [**Scene 44**](#scene-44) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:20) | Roleplay |
+| [**Scene 45**](#scene-45) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:20) | Roleplay |
+| [**Scene 46**](#scene-46) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:20) | Roleplay |
+| [**Scene 47**](#scene-47) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:20) | Roleplay |
+| [**Scene 48**](#scene-48) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:25) | Roleplay |
+| [**Scene 49**](#scene-49) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:30) | Roleplay |
+| [**Scene 50**](#scene-50) | The Roadside Inn near Ashford | Mirtul 15, 209 DR (12:35) | Roleplay |
+| [**Scene 51**](#scene-51) | The Roadside Inn near Ashford | Mirtul 15, 209 AC (12:35) | Roleplay |
+| [**Scene 52**](#scene-52) | The Roadside Outside Ashford | Mirtul 15, 209 DR (12:45) | Roleplay |
+| [**Scene 53**](#scene-53) | The Road to Ashford Meadow | Mirtul 15, 209 AC (12:55) | Roleplay |
+| [**Scene 54**](#scene-54) | The Road to Ashford Meadow | Mirtul 15, 209 DR (13:00) | Roleplay |
+| [**Scene 55**](#scene-55) | The Road to Ashford Meadow | Mirtul 15, 209 DR (13:05) | Roleplay |
+| [**Scene 56**](#scene-56) | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:10) | Roleplay |
+| [**Scene 57**](#scene-57) | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:10) | Roleplay |
+| [**Scene 58**](#scene-58) | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:10) | Roleplay |
+| [**Scene 59**](#scene-59) | The Road to Ashford Meadow | Mirtul 15, 209 DR (13:15) | Roleplay |
+| [**Scene 60**](#scene-60) | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:20) | Roleplay |
+| [**Scene 61**](#scene-61) | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:25) | Roleplay |
+| [**Scene 62**](#scene-62) | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:30) | Roleplay |
+| [**Scene 63**](#scene-63) | The Road to Ashford Meadow | Mirtul 15, 209 AC (13:45) | Roleplay |
+| [**Scene 64**](#scene-64) | The Road to Ashford Meadow | Mirtul 15, 209 AC (14:00) | Roleplay |
+| [**Scene 65**](#scene-65) | House Mertyns Camp | Mirtul 15, 209 AC (14:15) | Roleplay |
+| [**Scene 66**](#scene-66) | House Mertyns Camp | Month 5, 209 AC (Day 15) | Roleplay |
+| [**Scene 67**](#scene-67) | House Mertyns Camp | Mirtul 15, 209 AC (14:25) | Roleplay |
+| [**Scene 68**](#scene-68) | House Mertyns Camp | Month 5, 209 AC (Day 15) | Roleplay |
+| [**Scene 69**](#scene-69) | Ashford Gatehouse / Traveler's Camp | Mirtul 15, 209 AC (14:45) | Roleplay |
+| [**Scene 70**](#scene-70) | Ashford Gatehouse | Mirtul 15, 209 AC (14:50) | Roleplay |
+| [**Scene 71**](#scene-71) | Ashford Meadow | Mirtul 15, 209 AC (15:00) | Roleplay |
+| [**Scene 72**](#scene-72) | Eastern Fringe | Mirtul 15, 209 AC (15:30) | Roleplay |
+| [**Scene 73**](#scene-73) | Eastern Fringe | Mirtul 15, 209 AC (15:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Eastern Fringe | Mirtul 15, 209 AC (15:35) | Roleplay |
+| [**Scene 75**](#scene-75) | Eastern Fringe | Mirtul 15, 209 AC (15:35) | Roleplay |
+| [**Scene 76**](#scene-76) | Market Row | Mirtul 15, 209 AC (15:45) | Roleplay |
+| [**Scene 77**](#scene-77) | Market Row | Month 5, 209 AC (Day 15) | Roleplay |
+| [**Scene 78**](#scene-78) | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:05) | Roleplay |
+| [**Scene 79**](#scene-79) | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:05) | Roleplay |
+| [**Scene 80**](#scene-80) | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
+| [**Scene 81**](#scene-81) | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
+| [**Scene 82**](#scene-82) | Grain Merchants' Quarter | Month 5 Day 15, 209 AC (16:15) | Roleplay |
+| [**Scene 83**](#scene-83) | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
+| [**Scene 84**](#scene-84) | Grain Merchants' Quarter | Mirtul 15, 209 AC (16:15) | Roleplay |
+| [**Scene 85**](#scene-85) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
+| [**Scene 86**](#scene-86) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
+| [**Scene 87**](#scene-87) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Social Challenge |
+| [**Scene 88**](#scene-88) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Social Challenge |
+| [**Scene 89**](#scene-89) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Unknown | Mirtul 15, 209 DR (16:30) | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown | Mirtul 15, 209 DR (16:30) | Roleplay |
+| [**Scene 92**](#scene-92) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
+| [**Scene 93**](#scene-93) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
+| [**Scene 94**](#scene-94) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:30) | Roleplay |
+| [**Scene 95**](#scene-95) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:35) | Roleplay |
+| [**Scene 96**](#scene-96) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:35) | Roleplay |
+| [**Scene 97**](#scene-97) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:40) | Roleplay |
+| [**Scene 98**](#scene-98) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:40) | Roleplay |
+| [**Scene 99**](#scene-99) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
+| [**Scene 100**](#scene-100) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
+| [**Scene 101**](#scene-101) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
+| [**Scene 102**](#scene-102) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
+| [**Scene 103**](#scene-103) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
+| [**Scene 104**](#scene-104) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:41) | Roleplay |
+| [**Scene 105**](#scene-105) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (16:51) | Roleplay |
+| [**Scene 106**](#scene-106) | Briar-Path near Ashford Meadow | Mirtul 15, 209 DR (16:53) | Boss Surrender |
+| [**Scene 107**](#scene-107) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (17:05) | Roleplay |
+| [**Scene 108**](#scene-108) | Briar-Path near Ashford Meadow | Mirtul 15, 209 AC (17:10) | Roleplay |
+| [**Scene 109**](#scene-109) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:30) | Roleplay |
+| [**Scene 110**](#scene-110) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:30) | Roleplay |
+| [**Scene 111**](#scene-111) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:30) | Roleplay |
+| [**Scene 112**](#scene-112) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:40) | Roleplay |
+| [**Scene 113**](#scene-113) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (17:50) | Roleplay |
+| [**Scene 114**](#scene-114) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (18:00) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (18:30) | Roleplay |
+| [**Scene 116**](#scene-116) | Eastern Fringe of Ashford Meadow | Mirtul 15, 209 AC (18:30) | Roleplay |
+| [**Scene 117**](#scene-117) | Eastern Fringe of Ashford Meadow | Mirtul 16, 209 DR (06:00) | Roleplay |
+| [**Scene 118**](#scene-118) | Eastern Fringe of Ashford Meadow | Mirtul 16, 209 AC (06:15) | Roleplay |
+| [**Scene 119**](#scene-119) | Armorers' Row | Mirtul 16, 209 AC (06:45) | Roleplay |
+| [**Scene 120**](#scene-120) | Armorers' Row | Mirtul 16, 209 AC (07:05) | Roleplay |
+| [**Scene 121**](#scene-121) | Armorers' Row | Mirtul 16, 209 AC (07:05) | Roleplay |
+| [**Scene 122**](#scene-122) | Armorers' Row | Mirtul 16, 209 AC (07:05) | Roleplay |
+| [**Scene 123**](#scene-123) | Pate's Stall | Mirtul 16, 209 AC (07:15) | Roleplay |
+| [**Scene 124**](#scene-124) | Eastern Fringe | Mirtul 16, 209 AC (12:45) | Roleplay |
+| [**Scene 125**](#scene-125) | Eastern Fringe | Mirtul 16, 209 AC (12:45) | Roleplay |
+| [**Scene 126**](#scene-126) | Tourney Grounds | Mirtul 16, 209 AC (13:15) | Roleplay |
+| [**Scene 127**](#scene-127) | Tourney Grounds | Mirtul 16, 209 AC (14:15) | Boss Surrender |
+| [**Scene 128**](#scene-128) | Eastern Fringe | Mirtul 16, 209 AC (14:35) | Roleplay |
+| [**Scene 129**](#scene-129) | Eastern Fringe | Mirtul 16, 209 AC (14:55) | Roleplay |
+| [**Scene 130**](#scene-130) | Eastern Fringe | Mirtul 16, 209 AC (15:40) | Roleplay |
+| [**Scene 131**](#scene-131) | Eastern Fringe | Mirtul 16, 209 AC (15:55) | Roleplay |
+| [**Scene 132**](#scene-132) | Eastern Fringe | Mirtul 16, 209 AC (16:10) | Boss Surrender |
+| [**Scene 133**](#scene-133) | Eastern Fringe | Mirtul 16, 209 AC (16:20) | Boss Surrender |
+| [**Scene 134**](#scene-134) | Eastern Fringe Rise | Mirtul 16, 209 AC (16:30) | Roleplay |
+| [**Scene 135**](#scene-135) | Eastern Fringe Rise | Mirtul 16, 209 AC (16:30) | Roleplay |
+| [**Scene 136**](#scene-136) | Eastern Fringe Rise | Mirtul 16, 209 AC (16:30) | Roleplay |
+| [**Scene 137**](#scene-137) | Eastern Fringe Rise | Mirtul 16, 209 AC (16:35) | Boss Surrender |
+| [**Scene 138**](#scene-138) | Unknown | Mirtul 16, 209 DR (16:35) | Roleplay |
+| [**Scene 139**](#scene-139) | Eastern Fringe Rise | Mirtul 16, 209 DR (16:50) | Roleplay |
+| [**Scene 140**](#scene-140) | Eastern Fringe Rise | Mirtul 16, 209 AC (17:05) | Roleplay |
+| [**Scene 141**](#scene-141) | Eastern Fringe Rise | Mirtul 16, 209 AC (17:35) | Roleplay |
+| [**Scene 142**](#scene-142) | Eastern Fringe Rise | Mirtul 17, 209 AC (08:30) | Roleplay |
+| [**Scene 143**](#scene-143) | Eastern Fringe Rise | Mirtul 17, 209 AC (08:30) | Social Challenge |
+| [**Scene 144**](#scene-144) | Market Row | Mirtul 17, 209 AC (10:15) | Roleplay |
+| [**Scene 145**](#scene-145) | Ashford Meadow | Mirtul 17, 209 AC (10:15) | Roleplay |
+| [**Scene 146**](#scene-146) | Eastern Fringe | Mirtul 17, 209 AC (11:00) | Roleplay |
+| [**Scene 147**](#scene-147) | Ashford Meadow | Mirtul 18, 209 DR (12:00) | Roleplay |
+| [**Scene 148**](#scene-148) | Ashford Meadow | Mirtul 18, 209 AC (12:00) | Social Challenge |
+| [**Scene 149**](#scene-149) | Ashford Meadow | Mirtul 18, 209 AC (12:02) | Roleplay |
+| [**Scene 150**](#scene-150) | Ashford Meadow | Mirtul 18, 209 AC (12:03) | Roleplay |
+| [**Scene 151**](#scene-151) | Ashford Meadow | Mirtul 18, 209 AC (12:04) | Boss Surrender |
+| [**Scene 152**](#scene-152) | Ashford Meadow | Mirtul 18, 209 AC (12:05) | Boss Surrender |
+| [**Scene 153**](#scene-153) | Ashford Meadow | Mirtul 18, 209 AC (12:06) | Roleplay |
+| [**Scene 154**](#scene-154) | Ashford Meadow | Mirtul 18, 209 AC (12:15) | Boss Surrender |
+| [**Scene 155**](#scene-155) | Ashford Meadow | Mirtul 18, 209 AC (12:08) | Boss Surrender |
+| [**Scene 156**](#scene-156) | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
+| [**Scene 157**](#scene-157) | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
+| [**Scene 158**](#scene-158) | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
+| [**Scene 159**](#scene-159) | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
+| [**Scene 160**](#scene-160) | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
+| [**Scene 161**](#scene-161) | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
+| [**Scene 162**](#scene-162) | Ashford Meadow | Mirtul 18, 209 AC (12:12) | Roleplay |
+| [**Scene 163**](#scene-163) | Ashford Meadow | Mirtul 18, 209 AC (12:22) | Roleplay |
+| [**Scene 164**](#scene-164) | Ashford Meadow | Mirtul 18, 209 DR (12:25) | Roleplay |
+| [**Scene 165**](#scene-165) | Ashford Meadow | Mirtul 18, 209 DR (12:28) | Roleplay |
+| [**Scene 166**](#scene-166) | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
+| [**Scene 167**](#scene-167) | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
+| [**Scene 168**](#scene-168) | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
+| [**Scene 169**](#scene-169) | Ashford Meadow | Mirtul 18, 209 AC (12:31) | Roleplay |
+| [**Scene 170**](#scene-170) | Ashford Meadow | Mirtul 18, 209 AC (12:35) | Roleplay |
+| [**Scene 171**](#scene-171) | Ashford Meadow | Mirtul 18, 209 AC (12:45) | Roleplay |
+| [**Scene 172**](#scene-172) | Ashford Meadow | Mirtul 18, 209 AC (12:45) | Roleplay |
+| [**Scene 173**](#scene-173) | Ashford Meadow | Mirtul 18, 209 AC (12:45) | Roleplay |
+| [**Scene 174**](#scene-174) | Ashford Meadow | Mirtul 18, 209 AC (12:50) | Roleplay |
+| [**Scene 175**](#scene-175) | Ashford Meadow | Mirtul 18, 209 DR (12:57) | Roleplay |
+| [**Scene 176**](#scene-176) | Ashford Meadow | Mirtul 18, 209 AC (12:57) | Roleplay |
+| [**Scene 177**](#scene-177) | Ashford Meadow | Mirtul 18, 209 AC (13:05) | Boss Surrender |
+| [**Scene 178**](#scene-178) | Ashford Meadow | Mirtul 18, 209 DR (13:13) | Roleplay |
+| [**Scene 179**](#scene-179) | Eastern Fringe | Mirtul 18, 209 DR (13:28) | Roleplay |
+| [**Scene 180**](#scene-180) | Ashford Meadow | Mirtul 18, 209 AC (13:43) | Roleplay |
+| [**Scene 181**](#scene-181) | Ashford Meadow | Mirtul 18, 209 AC (13:28) | Roleplay |
+| [**Scene 182**](#scene-182) | Ashford Meadow | Mirtul 18, 209 AC (13:58) | Roleplay |
+| [**Scene 183**](#scene-183) | Ashford Meadow | Mirtul 18, 209 AC (13:58) | Roleplay |
+| [**Scene 184**](#scene-184) | Ashford Meadow | Mirtul 18, 209 AC (13:58) | Roleplay |
+| [**Scene 185**](#scene-185) | Ashford Meadow | Mirtul 18, 209 AC (14:13) | Boss Surrender |
+| [**Scene 186**](#scene-186) | Pate's Stall | Mirtul 18, 209 AC (14:45) | Boss Surrender |
+| [**Scene 187**](#scene-187) | Pate's Stall | Mirtul 18, 209 AC (14:55) | Roleplay |
+| [**Scene 188**](#scene-188) | Armorers' Row | Mirtul 18, 209 DR (15:25) | Roleplay |
+| [**Scene 189**](#scene-189) | Pate's Stall | Mirtul 18, 209 AC (15:35) | Roleplay |
+| [**Scene 190**](#scene-190) | Pate's Stall | Mirtul 18, 209 AC (15:45) | Roleplay |
+| [**Scene 191**](#scene-191) | Pate's Stall | Mirtul 18, 209 AC (16:00) | Roleplay |
+| [**Scene 192**](#scene-192) | Pate's Stall | Mirtul 18, 209 AC (16:15) | Boss Surrender |
+| [**Scene 193**](#scene-193) | Pate's Stall | Mirtul 18, 209 AC (16:30) | Roleplay |
+| [**Scene 194**](#scene-194) | Pate's Stall | Mirtul 18, 209 AC (16:45) | Roleplay |
+| [**Scene 195**](#scene-195) | Armorers' Row | Mirtul 18, 209 AC (17:00) | Roleplay |
+| [**Scene 196**](#scene-196) | Heralds' Pavilion | Mirtul 18, 209 AC (17:20) | Roleplay |
+| [**Scene 197**](#scene-197) | Heralds' Pavilion | Mirtul 18, 209 AC (17:35) | Roleplay |
+| [**Scene 198**](#scene-198) | Puppeteers' Row | Mirtul 18, 209 DR (17:50) | Roleplay |
+| [**Scene 199**](#scene-199) | High Pavilions Perimeter | Mirtul 18, 209 AC (18:05) | Roleplay |
+| [**Scene 200**](#scene-200) | High Pavilions | Mirtul 18, 209 AC (18:05) | Roleplay |
+| [**Scene 201**](#scene-201) | High Pavilions | Mirtul 18, 209 AC (18:05) | Roleplay |
+| [**Scene 202**](#scene-202) | High Pavilions | Mirtul 18, 209 AC (18:05) | Roleplay |
+| [**Scene 203**](#scene-203) | High Pavilions | Mirtul 18, 209 AC (18:15) | Roleplay |
+| [**Scene 204**](#scene-204) | High Pavilions | Mirtul 18, 209 AC (18:15) | Roleplay |
+| [**Scene 205**](#scene-205) | High Pavilions | Mirtul 18, 209 AC (18:20) | Roleplay |
+| [**Scene 206**](#scene-206) | High Pavilions | Mirtul 18, 209 DR (18:20) | Roleplay |
+| [**Scene 207**](#scene-207) | High Pavilions | Mirtul 18, 209 AC (18:25) | Roleplay |
+| [**Scene 208**](#scene-208) | High Pavilions | Mirtul 18, 209 DR (18:30) | Roleplay |
+| [**Scene 209**](#scene-209) | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
+| [**Scene 210**](#scene-210) | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
+| [**Scene 211**](#scene-211) | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
+| [**Scene 212**](#scene-212) | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
+| [**Scene 213**](#scene-213) | High Pavilions | Mirtul 18, 209 AC (18:35) | Roleplay |
+| [**Scene 214**](#scene-214) | High Pavilions | Mirtul 18, 209 AC (18:40) | Roleplay |
+| [**Scene 215**](#scene-215) | High Pavilions | Mirtul 18, 209 AC (18:45) | Roleplay |
+| [**Scene 216**](#scene-216) | Unknown | Mirtul 18, 209 DR (18:45) | Roleplay |
+| [**Scene 217**](#scene-217) | High Pavilions | Mirtul 18, 209 AC (18:50) | Roleplay |
+| [**Scene 218**](#scene-218) | High Pavilions | Mirtul 18, 209 AC (18:50) | Roleplay |
+| [**Scene 219**](#scene-219) | High Pavilions | Mirtul 18, 209 AC (18:55) | Social Challenge |
+| [**Scene 220**](#scene-220) | High Pavilions | Mirtul 18, 209 DR (19:10) | Roleplay |
+| [**Scene 221**](#scene-221) | High Pavilions | Mirtul 18, 209 AC (19:25) | Roleplay |
+| [**Scene 222**](#scene-222) | High Pavilions | Mirtul 18, 209 AC (19:25) | Roleplay |
+| [**Scene 223**](#scene-223) | High Pavilions | Mirtul 18, 209 AC (19:35) | Roleplay |
+| [**Scene 224**](#scene-224) | Eastern Fringe Rise | Mirtul 18, 209 AC (19:45) | Roleplay |
+| [**Scene 225**](#scene-225) | Eastern Fringe Rise | Mirtul 18, 209 AC (19:45) | Roleplay |
+| [**Scene 226**](#scene-226) | Eastern Fringe Rise | Mirtul 18, 209 AC (19:45) | Roleplay |
+| [**Scene 227**](#scene-227) | Eastern Fringe Rise | Mirtul 18, 209 DR (20:00) | Roleplay |
+| [**Scene 228**](#scene-228) | Ashford Meadow / High Pavilions | Mirtul 19, 209 AC (08:30) | Roleplay |
+| [**Scene 229**](#scene-229) | Eastern Fringe Rise | Mirtul 19, 209 DR (08:45) | Roleplay |
+| [**Scene 230**](#scene-230) | Eastern Fringe Rise | Mirtul 19, 209 AC (08:50) | Roleplay |
+| [**Scene 231**](#scene-231) | Eastern Fringe Rise | Mirtul 19, 209 AC (09:05) | Roleplay |
+| [**Scene 232**](#scene-232) | Eastern Fringe Rise | Mirtul 19, 209 AC (09:10) | Roleplay |
+| [**Scene 233**](#scene-233) | Eastern Fringe Rise | Mirtul 19, 209 AC (09:10) | Roleplay |
+| [**Scene 234**](#scene-234) | Stewards' Pavilion | Mirtul 19, 209 AC (09:10) | Roleplay |
+| [**Scene 235**](#scene-235) | Eastern Fringe Rise | Mirtul 19, 209 DR (09:15) | Roleplay |
+| [**Scene 236**](#scene-236) | Tournament Grounds | Mirtul 19, 209 AC (09:20) | Roleplay |
+| [**Scene 237**](#scene-237) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:20) | Roleplay |
+| [**Scene 238**](#scene-238) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:20) | Roleplay |
+| [**Scene 239**](#scene-239) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:25) | Roleplay |
+| [**Scene 240**](#scene-240) | Ashford Meadow Lists | Mirtul 19, 209 DR (09:25) | Roleplay |
+| [**Scene 241**](#scene-241) | Ashford Meadow Lists | Mirtul 19, 209 DR (09:30) | Social Challenge |
+| [**Scene 242**](#scene-242) | Ashford Meadow Lists | Mirtul 19, 209 DR (09:35) | Roleplay |
+| [**Scene 243**](#scene-243) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:35) | Roleplay |
+| [**Scene 244**](#scene-244) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:40) | Roleplay |
+| [**Scene 245**](#scene-245) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:45) | Roleplay |
+| [**Scene 246**](#scene-246) | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:47) | Roleplay |
+| [**Scene 247**](#scene-247) | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:47) | Roleplay |
+| [**Scene 248**](#scene-248) | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:47) | Roleplay |
+| [**Scene 249**](#scene-249) | Ashford Meadow Lists (Royal Gallery Rafters) | Mirtul 19, 209 AC (09:47) | Roleplay |
+| [**Scene 250**](#scene-250) | Ashford Meadow Lists (Royal Gallery Rafters) | Mirtul 19, 209 AC (09:47) | Roleplay |
+| [**Scene 251**](#scene-251) | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 AC (09:47) | Roleplay |
+| [**Scene 252**](#scene-252) | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:48) | Roleplay |
+| [**Scene 253**](#scene-253) | Ashford Meadow Lists (Gallery Rafters) | Mirtul 19, 209 DR (09:48) | Roleplay |
+| [**Scene 254**](#scene-254) | Ashford Meadow Lists (Royal Gallery Rafters) | Mirtul 19, 209 AC (09:48) | Roleplay |
+| [**Scene 255**](#scene-255) | Ashford Meadow Lists (Royal Gallery Exterior) | Mirtul 19, 209 DR (09:48) | Roleplay |
+| [**Scene 256**](#scene-256) | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:48) | Roleplay |
+| [**Scene 257**](#scene-257) | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:48) | Roleplay |
+| [**Scene 258**](#scene-258) | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:49) | Roleplay |
+| [**Scene 259**](#scene-259) | Ashford Meadow Lists (Commoners' Pit) | Mirtul 19, 209 AC (09:49) | Roleplay |
+| [**Scene 260**](#scene-260) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:49) | Roleplay |
+| [**Scene 261**](#scene-261) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:49) | Roleplay |
+| [**Scene 262**](#scene-262) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:49) | Roleplay |
+| [**Scene 263**](#scene-263) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 264**](#scene-264) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 DR (09:50) | Roleplay |
+| [**Scene 265**](#scene-265) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 DR (09:50) | Roleplay |
+| [**Scene 266**](#scene-266) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 267**](#scene-267) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 268**](#scene-268) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 269**](#scene-269) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 270**](#scene-270) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 271**](#scene-271) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 272**](#scene-272) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:50) | Roleplay |
+| [**Scene 273**](#scene-273) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 274**](#scene-274) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 275**](#scene-275) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 276**](#scene-276) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 277**](#scene-277) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 278**](#scene-278) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 279**](#scene-279) | Unknown | Mirtul 19, 209 DR (09:51) | Roleplay |
+| [**Scene 280**](#scene-280) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 281**](#scene-281) | Unknown | Mirtul 19, 209 DR (09:51) | Roleplay |
+| [**Scene 282**](#scene-282) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 283**](#scene-283) | Ashford Meadow Lists | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 284**](#scene-284) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:52) | Roleplay |
+| [**Scene 285**](#scene-285) | Ashford Meadow Lists (Stewards' Table) | Mirtul 19, 209 AC (09:52) | Roleplay |
+| [**Scene 286**](#scene-286) | Ashford Meadow Lists (Stewards' Platform) | Mirtul 19, 209 AC (09:55) | Roleplay |
+| [**Scene 287**](#scene-287) | Ashford Meadow Lists (Stewards' Platform) | Mirtul 19, 209 AC (09:51) | Roleplay |
+| [**Scene 288**](#scene-288) | Ashford Meadow Lists (Stewards' Platform) | Mirtul 19, 209 AC (09:52) | Roleplay |
+| [**Scene 289**](#scene-289) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:07) | Roleplay |
+| [**Scene 290**](#scene-290) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:12) | Roleplay |
+| [**Scene 291**](#scene-291) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:15) | Roleplay |
+| [**Scene 292**](#scene-292) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:20) | Boss Surrender |
+| [**Scene 293**](#scene-293) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:20) | Roleplay |
+| [**Scene 294**](#scene-294) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:20) | Roleplay |
+| [**Scene 295**](#scene-295) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:25) | Roleplay |
+| [**Scene 296**](#scene-296) | Mertyns Rise | Mirtul 19, 209 DR (10:35) | Boss Surrender |
+| [**Scene 297**](#scene-297) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:45) | Roleplay |
+| [**Scene 298**](#scene-298) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:45) | Roleplay |
+| [**Scene 299**](#scene-299) | Unknown | Mirtul 19, 209 DR (10:50) | Roleplay |
+| [**Scene 300**](#scene-300) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
+| [**Scene 301**](#scene-301) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
+| [**Scene 302**](#scene-302) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
+| [**Scene 303**](#scene-303) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
+| [**Scene 304**](#scene-304) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
+| [**Scene 305**](#scene-305) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
+| [**Scene 306**](#scene-306) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (10:50) | Roleplay |
+| [**Scene 307**](#scene-307) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (11:00) | Roleplay |
+| [**Scene 308**](#scene-308) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (11:00) | Roleplay |
+| [**Scene 309**](#scene-309) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (11:00) | Roleplay |
+| [**Scene 310**](#scene-310) | Unknown | Mirtul 19, 209 DR (11:00) | Roleplay |
+| [**Scene 311**](#scene-311) | Unknown | Mirtul 19, 209 DR (11:00) | Roleplay |
+| [**Scene 312**](#scene-312) | Unknown | Mirtul 19, 209 DR (11:00) | Roleplay |
+| [**Scene 313**](#scene-313) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:10) | Roleplay |
+| [**Scene 314**](#scene-314) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
+| [**Scene 315**](#scene-315) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
+| [**Scene 316**](#scene-316) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
+| [**Scene 317**](#scene-317) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
+| [**Scene 318**](#scene-318) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
+| [**Scene 319**](#scene-319) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:15) | Roleplay |
+| [**Scene 320**](#scene-320) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
+| [**Scene 321**](#scene-321) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
+| [**Scene 322**](#scene-322) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
+| [**Scene 323**](#scene-323) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Roleplay |
+| [**Scene 324**](#scene-324) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:16) | Boss Surrender |
+| [**Scene 325**](#scene-325) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:17) | Roleplay |
+| [**Scene 326**](#scene-326) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:32) | Boss Surrender |
+| [**Scene 327**](#scene-327) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:32) | Roleplay |
+| [**Scene 328**](#scene-328) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:32) | Roleplay |
+| [**Scene 329**](#scene-329) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
+| [**Scene 330**](#scene-330) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
+| [**Scene 331**](#scene-331) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
+| [**Scene 332**](#scene-332) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
+| [**Scene 333**](#scene-333) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
+| [**Scene 334**](#scene-334) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
+| [**Scene 335**](#scene-335) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:33) | Roleplay |
+| [**Scene 336**](#scene-336) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 337**](#scene-337) | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:34) | Roleplay |
+| [**Scene 338**](#scene-338) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Boss Surrender |
+| [**Scene 339**](#scene-339) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 340**](#scene-340) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 341**](#scene-341) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 342**](#scene-342) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 343**](#scene-343) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 344**](#scene-344) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 345**](#scene-345) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 346**](#scene-346) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:34) | Roleplay |
+| [**Scene 347**](#scene-347) | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:34) | Roleplay |
+| [**Scene 348**](#scene-348) | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:35) | Social Challenge |
+| [**Scene 349**](#scene-349) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:35) | Roleplay |
+| [**Scene 350**](#scene-350) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:35) | Roleplay |
+| [**Scene 351**](#scene-351) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:36) | Roleplay |
+| [**Scene 352**](#scene-352) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:41) | Roleplay |
+| [**Scene 353**](#scene-353) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:41) | Roleplay |
+| [**Scene 354**](#scene-354) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:41) | Roleplay |
+| [**Scene 355**](#scene-355) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:42) | Roleplay |
+| [**Scene 356**](#scene-356) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:43) | Roleplay |
+| [**Scene 357**](#scene-357) | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:48) | Roleplay |
+| [**Scene 358**](#scene-358) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 359**](#scene-359) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 360**](#scene-360) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 361**](#scene-361) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 362**](#scene-362) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 363**](#scene-363) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 364**](#scene-364) | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:48) | Roleplay |
+| [**Scene 365**](#scene-365) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 366**](#scene-366) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 367**](#scene-367) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:48) | Roleplay |
+| [**Scene 368**](#scene-368) | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (11:50) | Roleplay |
+| [**Scene 369**](#scene-369) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:55) | Roleplay |
+| [**Scene 370**](#scene-370) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (11:55) | Roleplay |
+| [**Scene 371**](#scene-371) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (12:00) | Roleplay |
+| [**Scene 372**](#scene-372) | Ashford Meadow (Royal Box) | Mirtul 19, 209 AC (12:05) | Roleplay |
+| [**Scene 373**](#scene-373) | Ashford Meadow (Royal Box) | Mirtul 19, 209 DR (12:15) | Roleplay |
+| [**Scene 374**](#scene-374) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:25) | Roleplay |
+| [**Scene 375**](#scene-375) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:25) | Roleplay |
+| [**Scene 376**](#scene-376) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (12:35) | Roleplay |
+| [**Scene 377**](#scene-377) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:35) | Roleplay |
+| [**Scene 378**](#scene-378) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (12:45) | Roleplay |
+| [**Scene 379**](#scene-379) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (12:55) | Roleplay |
+| [**Scene 380**](#scene-380) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (12:55) | Roleplay |
+| [**Scene 381**](#scene-381) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (13:05) | Roleplay |
+| [**Scene 382**](#scene-382) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:05) | Roleplay |
+| [**Scene 383**](#scene-383) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (13:15) | Roleplay |
+| [**Scene 384**](#scene-384) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:15) | Roleplay |
+| [**Scene 385**](#scene-385) | Mertyns Rise | Mirtul 19, 209 AC (13:20) | Roleplay |
+| [**Scene 386**](#scene-386) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:30) | Roleplay |
+| [**Scene 387**](#scene-387) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (13:40) | Roleplay |
+| [**Scene 388**](#scene-388) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (13:50) | Boss Surrender |
+| [**Scene 389**](#scene-389) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:10) | Roleplay |
+| [**Scene 390**](#scene-390) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:20) | Boss Surrender |
+| [**Scene 391**](#scene-391) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:25) | Roleplay |
+| [**Scene 392**](#scene-392) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:35) | Boss Surrender |
+| [**Scene 393**](#scene-393) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:45) | Roleplay |
+| [**Scene 394**](#scene-394) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (14:55) | Roleplay |
+| [**Scene 395**](#scene-395) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (15:05) | Roleplay |
+| [**Scene 396**](#scene-396) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (15:15) | Roleplay |
+| [**Scene 397**](#scene-397) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (15:25) | Roleplay |
+| [**Scene 398**](#scene-398) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (15:35) | Roleplay |
+| [**Scene 399**](#scene-399) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (15:45) | Roleplay |
+| [**Scene 400**](#scene-400) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (15:55) | Roleplay |
+| [**Scene 401**](#scene-401) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (16:05) | Roleplay |
+| [**Scene 402**](#scene-402) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (16:15) | Boss Surrender |
+| [**Scene 403**](#scene-403) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (16:25) | Roleplay |
+| [**Scene 404**](#scene-404) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (16:35) | Roleplay |
+| [**Scene 405**](#scene-405) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (16:45) | Boss Surrender |
+| [**Scene 406**](#scene-406) | Mertyns Rise | Mirtul 19, 209 AC (16:55) | Roleplay |
+| [**Scene 407**](#scene-407) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (17:05) | Boss Surrender |
+| [**Scene 408**](#scene-408) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Boss Surrender |
+| [**Scene 409**](#scene-409) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
+| [**Scene 410**](#scene-410) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
+| [**Scene 411**](#scene-411) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
+| [**Scene 412**](#scene-412) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:15) | Roleplay |
+| [**Scene 413**](#scene-413) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (17:25) | Roleplay |
+| [**Scene 414**](#scene-414) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:25) | Roleplay |
+| [**Scene 415**](#scene-415) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (17:35) | Social Challenge |
+| [**Scene 416**](#scene-416) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:45) | Roleplay |
+| [**Scene 417**](#scene-417) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:45) | Roleplay |
+| [**Scene 418**](#scene-418) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (17:55) | Boss Surrender |
+| [**Scene 419**](#scene-419) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (18:05) | Roleplay |
+| [**Scene 420**](#scene-420) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:05) | Roleplay |
+| [**Scene 421**](#scene-421) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:05) | Roleplay |
+| [**Scene 422**](#scene-422) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:05) | Boss Surrender |
+| [**Scene 423**](#scene-423) | Unknown | Mirtul 19, 209 DR (18:05) | Roleplay |
+| [**Scene 424**](#scene-424) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:10) | Roleplay |
+| [**Scene 425**](#scene-425) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:20) | Roleplay |
+| [**Scene 426**](#scene-426) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (18:35) | Roleplay |
+| [**Scene 427**](#scene-427) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:35) | Roleplay |
+| [**Scene 428**](#scene-428) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (18:45) | Roleplay |
+| [**Scene 429**](#scene-429) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:10) | Boss Surrender |
+| [**Scene 430**](#scene-430) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:20) | Roleplay |
+| [**Scene 431**](#scene-431) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (19:25) | Boss Surrender |
+| [**Scene 432**](#scene-432) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (19:25) | Roleplay |
+| [**Scene 433**](#scene-433) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (19:35) | Roleplay |
+| [**Scene 434**](#scene-434) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:45) | Roleplay |
+| [**Scene 435**](#scene-435) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (19:55) | Roleplay |
+| [**Scene 436**](#scene-436) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 DR (20:05) | Roleplay |
+| [**Scene 437**](#scene-437) | Ashford Meadow (Mertyns Rise) | Mirtul 19, 209 AC (20:05) | Roleplay |
+| [**Scene 438**](#scene-438) | Ashford Meadow (Royal Pavilion Entrance) | Mirtul 19, 209 AC (21:30) | Roleplay |
+| [**Scene 439**](#scene-439) | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:40) | Roleplay |
+| [**Scene 440**](#scene-440) | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:50) | Roleplay |
+| [**Scene 441**](#scene-441) | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:50) | Roleplay |
+| [**Scene 442**](#scene-442) | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 DR (21:55) | Roleplay |
+| [**Scene 443**](#scene-443) | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (21:55) | Roleplay |
+| [**Scene 444**](#scene-444) | Ashford Meadow (Royal Pavilion) | Mirtul 19, 209 AC (22:05) | Roleplay |
+| [**Scene 445**](#scene-445) | Ashford Meadow (Royal Pavilion / Champions' Gate) | Mirtul 19, 209 DR (22:15) | Boss Surrender |
+| [**Scene 446**](#scene-446) | Royal Pavilion / Mertyns Rise Perimeter | Mirtul 19, 209 AC (22:15) | Roleplay |
+| [**Scene 447**](#scene-447) | Mertyns Rise | Mirtul 19, 209 AC (22:25) | Roleplay |
+| [**Scene 448**](#scene-448) | Mertyns Rise | Mirtul 19, 209 AC (22:30) | Social Challenge |
+| [**Scene 449**](#scene-449) | Mertyns Rise | Mirtul 19, 209 AC (22:40) | Roleplay |
+| [**Scene 450**](#scene-450) | Mertyns Rise | Mirtul 19, 209 AC (22:50) | Social Challenge |
+| [**Scene 451**](#scene-451) | Mertyns Rise | Mirtul 19, 209 AC (22:55) | Boss Surrender |
+| [**Scene 452**](#scene-452) | Mertyns Rise | Mirtul 19, 209 AC (23:05) | Boss Surrender |
+| [**Scene 453**](#scene-453) | Mertyns Rise | Mirtul 19, 209 AC (23:15) | Roleplay |
+| [**Scene 454**](#scene-454) | Mertyns Rise / Ashford Meadow | Mirtul 19, 209 AC (23:25) | Roleplay |
+| [**Scene 455**](#scene-455) | Royal Pavilion | Mirtul 19, 209 AC (23:35) | Roleplay |
+| [**Scene 456**](#scene-456) | Royal Pavilion | Mirtul 19, 209 AC (23:45) | Roleplay |
+| [**Scene 457**](#scene-457) | Royal Pavilion | Mirtul 19, 209 AC (23:55) | Roleplay |
+| [**Scene 458**](#scene-458) | Royal Pavilion | Mirtul 20, 209 DR (00:15) | Roleplay |
+| [**Scene 459**](#scene-459) | Royal Pavilion | Mirtul 20, 209 AC (00:15) | Roleplay |
+| [**Scene 460**](#scene-460) | Training Grounds | Mirtul 20, 209 DR (08:15) | Roleplay |
+| [**Scene 461**](#scene-461) | Training Grounds | Mirtul 20, 209 DR (09:30) | Roleplay |
+| [**Scene 462**](#scene-462) | Training Grounds | Mirtul 20, 209 DR (09:35) | Roleplay |
+| [**Scene 463**](#scene-463) | Training Grounds | Mirtul 20, 209 AC (09:35) | Roleplay |
+| [**Scene 464**](#scene-464) | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
+| [**Scene 465**](#scene-465) | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
+| [**Scene 466**](#scene-466) | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
+| [**Scene 467**](#scene-467) | Training Grounds | Mirtul 20, 209 AC (09:40) | Roleplay |
+| [**Scene 468**](#scene-468) | Unknown | Mirtul 20, 209 DR (09:40) | Roleplay |
+| [**Scene 469**](#scene-469) | Training Grounds | Mirtul 20, 209 AC (09:45) | Roleplay |
+| [**Scene 470**](#scene-470) | Training Grounds | Mirtul 20, 209 AC (09:45) | Roleplay |
+| [**Scene 471**](#scene-471) | Training Grounds | Mirtul 20, 209 DR (10:00) | Roleplay |
+| [**Scene 472**](#scene-472) | Training Grounds | Mirtul 20, 209 AC (10:15) | Roleplay |
+| [**Scene 473**](#scene-473) | Training Grounds | Mirtul 20, 209 AC (10:30) | Roleplay |
+| [**Scene 474**](#scene-474) | Training Grounds | Mirtul 20, 209 AC (10:35) | Roleplay |
+| [**Scene 475**](#scene-475) | Training Grounds | Mirtul 20, 209 AC (10:45) | Roleplay |
+| [**Scene 476**](#scene-476) | Training Grounds | Mirtul 20, 209 DR (11:00) | Roleplay |
+| [**Scene 477**](#scene-477) | Training Grounds | Mirtul 20, 209 AC (11:15) | Roleplay |
+| [**Scene 478**](#scene-478) | Training Grounds | Mirtul 20, 209 AC (11:20) | Roleplay |
+| [**Scene 479**](#scene-479) | Training Grounds | Mirtul 20, 209 AC (11:20) | Roleplay |
+| [**Scene 480**](#scene-480) | Training Grounds | Mirtul 20, 209 AC (11:20) | Social Challenge |
+| [**Scene 481**](#scene-481) | Training Grounds | Mirtul 20, 209 AC (12:20) | Roleplay |
+| [**Scene 482**](#scene-482) | Training Grounds | Mirtul 20, 209 AC (12:20) | Roleplay |
+| [**Scene 483**](#scene-483) | Royal Pavilion | Mirtul 20, 209 AC (13:20) | Roleplay |
+| [**Scene 484**](#scene-484) | Royal Pavilion | Mirtul 20, 209 AC (13:20) | Roleplay |
+| [**Scene 485**](#scene-485) | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:30) | Roleplay |
+| [**Scene 486**](#scene-486) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:35) | Roleplay |
+| [**Scene 487**](#scene-487) | Unknown | Mirtul 21, 209 DR (09:35) | Roleplay |
+| [**Scene 488**](#scene-488) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:35) | Roleplay |
+| [**Scene 489**](#scene-489) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:35) | Roleplay |
+| [**Scene 490**](#scene-490) | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:45) | Roleplay |
+| [**Scene 491**](#scene-491) | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:40) | Roleplay |
+| [**Scene 492**](#scene-492) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (09:45) | Roleplay |
+| [**Scene 493**](#scene-493) | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (09:50) | Roleplay |
+| [**Scene 494**](#scene-494) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:05) | Roleplay |
+| [**Scene 495**](#scene-495) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:05) | Roleplay |
+| [**Scene 496**](#scene-496) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:05) | Roleplay |
+| [**Scene 497**](#scene-497) | Mertyns Rise Training Grounds | Mirtul 21, 209 AC (10:15) | Roleplay |
+| [**Scene 498**](#scene-498) | Mertyns Rise Training Grounds | Mirtul 21, 209 DR (10:25) | Social Challenge |
+| [**Scene 499**](#scene-499) | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:35) | Roleplay |
+| [**Scene 500**](#scene-500) | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:35) | Roleplay |
+| [**Scene 501**](#scene-501) | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:35) | Roleplay |
+| [**Scene 502**](#scene-502) | Ashford Meadow (Lower Camps) | Mirtul 21, 209 AC (10:45) | Roleplay |
+| [**Scene 503**](#scene-503) | Redwyne Picket (Lower Camps) | Mirtul 21, 209 DR (11:00) | Roleplay |
+| [**Scene 504**](#scene-504) | Ashford Royal Pavilion | Mirtul 21, 209 AC (11:15) | Roleplay |
+| [**Scene 505**](#scene-505) | Ashford Royal Pavilion | Mirtul 21, 209 AC (11:15) | Social Challenge |
+| [**Scene 506**](#scene-506) | Fossoway Command Tents | Mirtul 21, 209 DR (11:30) | Boss Surrender |
+| [**Scene 507**](#scene-507) | Fossoway Command Tents | Mirtul 21, 209 AC (11:30) | Roleplay |
+| [**Scene 508**](#scene-508) | Fossoway Command Tents | Mirtul 21, 209 DR (11:35) | Skill Check / Combat |
+| [**Scene 509**](#scene-509) | Fossoway Command Tents | Mirtul 21, 209 AC (11:35) | Skill Check / Combat |
+| [**Scene 510**](#scene-510) | Fossoway Command Tents | Mirtul 21, 209 AC (11:35) | Skill Check / Combat |
+| [**Scene 511**](#scene-511) | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Skill Check / Combat |
+| [**Scene 512**](#scene-512) | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Roleplay |
+| [**Scene 513**](#scene-513) | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Skill Check / Combat |
+| [**Scene 514**](#scene-514) | Redwyne Picket | Mirtul 21, 209 DR (11:40) | Skill Check / Combat |
+| [**Scene 515**](#scene-515) | Redwyne Picket | Mirtul 21, 209 AC (11:40) | Roleplay |
+| [**Scene 516**](#scene-516) | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Skill Check / Combat |
+| [**Scene 517**](#scene-517) | Redwyne Picket | Mirtul 21, 209 AC (11:45) | Roleplay |
+| [**Scene 518**](#scene-518) | Redwyne Picket | Mirtul 21, 209 AC (11:50) | Skill Check / Combat |
+| [**Scene 519**](#scene-519) | Redwyne Picket | Mirtul 21, 209 AC (11:50) | Roleplay |
+| [**Scene 520**](#scene-520) | Fossoway Command Tents | Mirtul 21, 209 AC (12:05) | Skill Check / Combat |
+| [**Scene 521**](#scene-521) | Ashford Meadow (Base of Mertyns Rise) | Mirtul 21, 209 DR (12:15) | Skill Check / Combat |
+| [**Scene 522**](#scene-522) | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (12:45) | Skill Check / Combat |
+| [**Scene 523**](#scene-523) | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 DR (13:00) | Skill Check / Combat |
+| [**Scene 524**](#scene-524) | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 DR (13:05) | Skill Check / Combat |
+| [**Scene 525**](#scene-525) | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:10) | Skill Check / Combat |
+| [**Scene 526**](#scene-526) | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:25) | Skill Check / Combat |
+| [**Scene 527**](#scene-527) | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:35) | Skill Check / Combat |
+| [**Scene 528**](#scene-528) | Ashford Meadow (Mertyns Rise) | Mirtul 21, 209 AC (13:45) | Skill Check / Combat |
+| [**Scene 529**](#scene-529) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 530**](#scene-530) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 531**](#scene-531) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 532**](#scene-532) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 533**](#scene-533) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 534**](#scene-534) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 535**](#scene-535) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 536**](#scene-536) | Ashford Meadow (The Lists) | Mirtul 21, 209 AC (14:05) | Skill Check / Combat |
+| [**Scene 537**](#scene-537) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:20) | Skill Check / Combat |
+| [**Scene 538**](#scene-538) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 DR (14:30) | Skill Check / Combat |
+| [**Scene 539**](#scene-539) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:30) | Skill Check / Combat |
+| [**Scene 540**](#scene-540) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:30) | Skill Check / Combat |
+| [**Scene 541**](#scene-541) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:30) | Skill Check / Combat |
+| [**Scene 542**](#scene-542) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 DR (14:45) | Skill Check / Combat |
+| [**Scene 543**](#scene-543) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (14:55) | Skill Check / Combat |
+| [**Scene 544**](#scene-544) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (15:55) | Skill Check / Combat |
+| [**Scene 545**](#scene-545) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 DR (16:05) | Skill Check / Combat |
+| [**Scene 546**](#scene-546) | Unknown | Mirtul 21, 209 DR (16:05) | Skill Check / Combat |
+| [**Scene 547**](#scene-547) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (16:10) | Roleplay |
+| [**Scene 548**](#scene-548) | Mertyns Rise (Vaelon's Station) | Mirtul 21, 209 AC (16:15) | Skill Check / Combat |
+| [**Scene 549**](#scene-549) | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 AC (16:45) | Skill Check / Combat |
+| [**Scene 550**](#scene-550) | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 AC (16:55) | Skill Check / Combat |
+| [**Scene 551**](#scene-551) | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 DR (17:10) | Skill Check / Combat |
+| [**Scene 552**](#scene-552) | Mertyns Rise (Royal Pavilion Solar) | Mirtul 21, 209 DR (17:25) | Skill Check / Combat |
+| [**Scene 553**](#scene-553) | Unknown | Mirtul 21, 209 DR (17:35) | Skill Check / Combat |
+| [**Scene 554**](#scene-554) | Mertyns Rise (Private Chestnut Grove) | Mirtul 21, 209 AC (17:50) | Skill Check / Combat |
+| [**Scene 555**](#scene-555) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 DR (18:20) | Skill Check / Combat |
+| [**Scene 556**](#scene-556) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:35) | Skill Check / Combat |
+| [**Scene 557**](#scene-557) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:40) | Skill Check / Combat |
+| [**Scene 558**](#scene-558) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:45) | Skill Check / Combat |
+| [**Scene 559**](#scene-559) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:45) | Roleplay |
+| [**Scene 560**](#scene-560) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (18:45) | Roleplay |
+| [**Scene 561**](#scene-561) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 DR (18:55) | Skill Check / Combat |
+| [**Scene 562**](#scene-562) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (19:00) | Skill Check / Combat |
+| [**Scene 563**](#scene-563) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (19:05) | Skill Check / Combat |
+| [**Scene 564**](#scene-564) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 AC (19:15) | Roleplay |
+| [**Scene 565**](#scene-565) | Ashford Royal Pavilion (Grand Dining Tent) | Mirtul 21, 209 DR (19:25) | Skill Check / Combat |
+| [**Scene 566**](#scene-566) | Ashford Royal Pavilion (Dining Tent Perimeter) | Mirtul 21, 209 AC (19:40) | Skill Check / Combat |
+| [**Scene 567**](#scene-567) | Mertyns Rise (Recovery Area) | Mirtul 21, 209 DR (19:55) | Skill Check / Combat |
+| [**Scene 568**](#scene-568) | Mertyns Rise (Recovery Area) | Mirtul 21, 209 AC (20:00) | Skill Check / Combat |
+| [**Scene 569**](#scene-569) | Mertyns Rise (Recovery Area) | Mirtul 21, 209 AC (20:30) | Skill Check / Combat |
+| [**Scene 570**](#scene-570) | Mertyns Rise (Recovery Area) | Mirtul 21, 209 AC (20:30) | Roleplay |
+| [**Scene 571**](#scene-571) | The Red Mountains (Dry-Wash Approach) | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
+| [**Scene 572**](#scene-572) | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Roleplay |
+| [**Scene 573**](#scene-573) | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
+| [**Scene 574**](#scene-574) | Unknown | Mirtul 22, 209 DR (02:30) | Roleplay |
+| [**Scene 575**](#scene-575) | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
+| [**Scene 576**](#scene-576) | Widow's Crossing Approach | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
+| [**Scene 577**](#scene-577) | Widow's Crossing | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
+| [**Scene 578**](#scene-578) | Widow's Crossing (Red Mountains) | Mirtul 22, 209 AC (02:30) | Roleplay |
+| [**Scene 579**](#scene-579) | Widow's Crossing | Mirtul 22, 209 AC (02:30) | Skill Check / Combat |
+| [**Scene 580**](#scene-580) | Widow's Crossing | Mirtul 22, 209 DR (02:45) | Skill Check / Combat |
+| [**Scene 581**](#scene-581) | Widow's Crossing | Mirtul 22, 209 AC (03:00) | Skill Check / Combat |
+| [**Scene 582**](#scene-582) | Widow's Crossing | Mirtul 22, 209 DR (03:10) | Skill Check / Combat |
+| [**Scene 583**](#scene-583) | Widow's Crossing | Mirtul 22, 209 DR (03:15) | Skill Check / Combat |
+| [**Scene 584**](#scene-584) | The Jagged Pass | Mirtul 22, 209 AC (06:30) | Skill Check / Combat |
+| [**Scene 585**](#scene-585) | The Jagged Pass | Mirtul 22, 209 AC (06:45) | Skill Check / Combat |
+| [**Scene 586**](#scene-586) | Suboptimal Campsite | Mirtul 22, 209 DR (07:00) | Skill Check / Combat |
+| [**Scene 587**](#scene-587) | Sandstone Cul-de-sac | Mirtul 22, 209 AC (07:30) | Skill Check / Combat |
+| [**Scene 588**](#scene-588) | Sandstone Cul-de-sac | Mirtul 22, 209 AC (07:40) | Skill Check / Combat |
+| [**Scene 589**](#scene-589) | Sandstone Cul-de-sac | Mirtul 22, 209 AC (07:50) | Skill Check / Combat |
+| [**Scene 590**](#scene-590) | Sandstone Cul-de-sac | Mirtul 22, 209 AC (08:05) | Skill Check / Combat |
+| [**Scene 591**](#scene-591) | The Narrows | Mirtul 22, 209 DR (09:15) | Skill Check / Combat |
+| [**Scene 592**](#scene-592) | Sheltered Overhang | Mirtul 22, 209 DR (18:15) | Skill Check / Combat |
+| [**Scene 593**](#scene-593) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 594**](#scene-594) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Roleplay |
+| [**Scene 595**](#scene-595) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 596**](#scene-596) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 597**](#scene-597) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 598**](#scene-598) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 599**](#scene-599) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 600**](#scene-600) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Roleplay |
+| [**Scene 601**](#scene-601) | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Skill Check / Combat |
+| [**Scene 602**](#scene-602) | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Skill Check / Combat |
+| [**Scene 603**](#scene-603) | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Roleplay |
+| [**Scene 604**](#scene-604) | The Weaver's Needle | Mirtul 22, 209 AC (19:46) | Roleplay |
+| [**Scene 605**](#scene-605) | Unknown | Mirtul 22, 209 DR (19:45) | Roleplay |
+| [**Scene 606**](#scene-606) | The Weaver's Needle | Mirtul 22, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 607**](#scene-607) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:00) | Skill Check / Combat |
+| [**Scene 608**](#scene-608) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Skill Check / Combat |
+| [**Scene 609**](#scene-609) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Skill Check / Combat |
+| [**Scene 610**](#scene-610) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Roleplay |
+| [**Scene 611**](#scene-611) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:05) | Roleplay |
+| [**Scene 612**](#scene-612) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 DR (00:05) | Roleplay |
+| [**Scene 613**](#scene-613) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 DR (00:05) | Skill Check / Combat |
+| [**Scene 614**](#scene-614) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:10) | Skill Check / Combat |
+| [**Scene 615**](#scene-615) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:10) | Skill Check / Combat |
+| [**Scene 616**](#scene-616) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:15) | Skill Check / Combat |
+| [**Scene 617**](#scene-617) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:15) | Roleplay |
+| [**Scene 618**](#scene-618) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:30) | Skill Check / Combat |
+| [**Scene 619**](#scene-619) | Southern Mouth of the Jagged Pass | Mirtul 23, 209 AC (00:35) | Skill Check / Combat |
+| [**Scene 620**](#scene-620) | Weaver's Path Bypass | Mirtul 23, 209 AC (04:35) | Skill Check / Combat |
+| [**Scene 621**](#scene-621) | Southern Mouth (Red Mountains) | Mirtul 23, 209 AC (05:35) | Skill Check / Combat |
+| [**Scene 622**](#scene-622) | The Dornish Marches (Open Plains) | Mirtul 23, 209 DR (06:35) | Skill Check / Combat |
+| [**Scene 623**](#scene-623) | Dornish Marches (White Chalk Hollow) | Mirtul 23, 209 DR (18:00) | Skill Check / Combat |
+| [**Scene 624**](#scene-624) | Dornish Marches (Emerald Swells) | Mirtul 24, 209 DR (04:00) | Skill Check / Combat |
+| [**Scene 625**](#scene-625) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:10) | Skill Check / Combat |
+| [**Scene 626**](#scene-626) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:15) | Skill Check / Combat |
+| [**Scene 627**](#scene-627) | Unknown | Mirtul 24, 209 DR (04:10) | Skill Check / Combat |
+| [**Scene 628**](#scene-628) | Unknown | Mirtul 24, 209 DR (04:10) | Roleplay |
+| [**Scene 629**](#scene-629) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:30) | Skill Check / Combat |
+| [**Scene 630**](#scene-630) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Skill Check / Combat |
+| [**Scene 631**](#scene-631) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Roleplay |
+| [**Scene 632**](#scene-632) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Roleplay |
+| [**Scene 633**](#scene-633) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:40) | Roleplay |
+| [**Scene 634**](#scene-634) | The Grey Sentinel (Northern Marches) | Mirtul 24, 209 AC (04:45) | Roleplay |
+| [**Scene 635**](#scene-635) | The Southern Plains (Serpent's Gully Exit) | Mirtul 24, 209 AC (07:45) | Skill Check / Combat |
+| [**Scene 636**](#scene-636) | The Southern Plains (Northern Marches) | Mirtul 24, 209 AC (07:45) | Roleplay |
+| [**Scene 637**](#scene-637) | Unknown | Mirtul 24, 209 DR (08:15) | Skill Check / Combat |
+| [**Scene 638**](#scene-638) | The Southern Plains (Northern Marches) | Mirtul 24, 209 AC (08:45) | Skill Check / Combat |
+| [**Scene 639**](#scene-639) | The Twin Spires (Northern Marches) | Mirtul 24, 209 AC (11:30) | Skill Check / Combat |
+| [**Scene 640**](#scene-640) | Twin Spires Narrows | Mirtul 24, 209 DR (11:45) | Skill Check / Combat |
+| [**Scene 641**](#scene-641) | Twin Spires Narrows | Mirtul 24, 209 AC (11:55) | Skill Check / Combat |
+| [**Scene 642**](#scene-642) | Twin Spires Narrows | Mirtul 24, 209 AC (12:05) | Skill Check / Combat |
+| [**Scene 643**](#scene-643) | Twin Spires Narrows | Mirtul 24, 209 AC (12:20) | Skill Check / Combat |
+| [**Scene 644**](#scene-644) | Southern Mouth of the Jagged Pass | Mirtul 24, 209 DR (13:50) | Skill Check / Combat |
+| [**Scene 645**](#scene-645) | Southern Mouth of the Jagged Pass | Mirtul 24, 209 DR (14:05) | Skill Check / Combat |
+| [**Scene 646**](#scene-646) | Southern Mouth of the Jagged Pass | Mirtul 24, 209 AC (14:05) | Skill Check / Combat |
+| [**Scene 647**](#scene-647) | The Briar-Path | Mirtul 24, 209 DR (16:30) | Skill Check / Combat |
+| [**Scene 648**](#scene-648) | Unknown | Mirtul 24, 209 DR (16:30) | Skill Check / Combat |
+| [**Scene 649**](#scene-649) | The Briar-Path | Mirtul 24, 209 DR (16:45) | Skill Check / Combat |
+| [**Scene 650**](#scene-650) | The Briar-Path | Mirtul 24, 209 AC (16:45) | Roleplay |
+| [**Scene 651**](#scene-651) | Unknown | Mirtul 24, 209 DR (16:45) | Roleplay |
+| [**Scene 652**](#scene-652) | The Briar-Path | Mirtul 24, 209 AC (16:45) | Roleplay |
+| [**Scene 653**](#scene-653) | The Briar-Path | Mirtul 24, 209 AC (16:45) | Roleplay |
+| [**Scene 654**](#scene-654) | The Briar-Path | Mirtul 24, 209 AC (17:15) | Roleplay |
+| [**Scene 655**](#scene-655) | Unknown | Mirtul 24, 209 DR (17:15) | Roleplay |
+| [**Scene 656**](#scene-656) | The Briar-Path | Mirtul 24, 209 AC (17:15) | Skill Check / Combat |
+| [**Scene 657**](#scene-657) | Unknown | Mirtul 24, 209 DR (17:15) | Roleplay |
+| [**Scene 658**](#scene-658) | The Briar-Path | Mirtul 24, 209 AC (18:30) | Skill Check / Combat |
+| [**Scene 659**](#scene-659) | The Briar-Path | Mirtul 24, 209 AC (18:30) | Roleplay |
+| [**Scene 660**](#scene-660) | The Trident-Rift Rim | Mirtul 24, 209 AC (19:30) | Skill Check / Combat |
+| [**Scene 661**](#scene-661) | The Trident-Rift Rim | Mirtul 24, 209 DR (19:35) | Skill Check / Combat |
+| [**Scene 662**](#scene-662) | The Trident-Rift Rim | Mirtul 24, 209 AC (19:45) | Skill Check / Combat |
+| [**Scene 663**](#scene-663) | Unknown | Mirtul 24, 209 DR (19:45) | Roleplay |
+| [**Scene 664**](#scene-664) | The Trident-Rift Rim | Mirtul 24, 209 AC (19:50) | Skill Check / Combat |
+| [**Scene 665**](#scene-665) | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (19:55) | Skill Check / Combat |
+| [**Scene 666**](#scene-666) | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:00) | Skill Check / Combat |
+| [**Scene 667**](#scene-667) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
+| [**Scene 668**](#scene-668) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Roleplay |
+| [**Scene 669**](#scene-669) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Roleplay |
+| [**Scene 670**](#scene-670) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Roleplay |
+| [**Scene 671**](#scene-671) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
+| [**Scene 672**](#scene-672) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
+| [**Scene 673**](#scene-673) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:00) | Skill Check / Combat |
+| [**Scene 674**](#scene-674) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:01) | Skill Check / Combat |
+| [**Scene 675**](#scene-675) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:01) | Skill Check / Combat |
+| [**Scene 676**](#scene-676) | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:01) | Skill Check / Combat |
+| [**Scene 677**](#scene-677) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:05) | Skill Check / Combat |
+| [**Scene 678**](#scene-678) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Skill Check / Combat |
+| [**Scene 679**](#scene-679) | Unknown | Mirtul 24, 209 DR (20:10) | Roleplay |
+| [**Scene 680**](#scene-680) | Unknown | Mirtul 24, 209 DR (20:10) | Roleplay |
+| [**Scene 681**](#scene-681) | Unknown | Mirtul 24, 209 DR (20:10) | Roleplay |
+| [**Scene 682**](#scene-682) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
+| [**Scene 683**](#scene-683) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
+| [**Scene 684**](#scene-684) | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:10) | Roleplay |
+| [**Scene 685**](#scene-685) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
+| [**Scene 686**](#scene-686) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
+| [**Scene 687**](#scene-687) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Roleplay |
+| [**Scene 688**](#scene-688) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:10) | Skill Check / Combat |
+| [**Scene 689**](#scene-689) | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:15) | Skill Check / Combat |
+| [**Scene 690**](#scene-690) | Unknown | Mirtul 24, 209 DR (20:15) | Roleplay |
+| [**Scene 691**](#scene-691) | Trident-Rift - Lower Vaults | Mirtul 24, 209 AC (20:30) | Skill Check / Combat |
+| [**Scene 692**](#scene-692) | Trident-Rift - Lower Vaults | Mirtul 24, 209 DR (20:15) | Skill Check / Combat |
+| [**Scene 693**](#scene-693) | Heart-Plinth (White Throat) | Mirtul 24, 209 AC (20:45) | Skill Check / Combat |
+| [**Scene 694**](#scene-694) | Perzys Sōdyon (The Heart-Plinth) | Mirtul 24, 209 AC (20:45) | Roleplay |
+| [**Scene 695**](#scene-695) | Heart-Plinth | Mirtul 24, 209 DR (20:50) | Skill Check / Combat |
+| [**Scene 696**](#scene-696) | Heart-Plinth | Mirtul 24, 209 DR (21:00) | Skill Check / Combat |
+| [**Scene 697**](#scene-697) | Heart-Plinth | Mirtul 24, 209 AC (21:05) | Roleplay |
+| [**Scene 698**](#scene-698) | Heart-Plinth | Mirtul 24, 209 AC (21:05) | Roleplay |
+| [**Scene 699**](#scene-699) | Heart-Plinth | Mirtul 24, 209 AC (21:05) | Roleplay |
+| [**Scene 700**](#scene-700) | Unknown |  | Skill Check / Combat |
+| [**Scene 701**](#scene-701) | Heart-Plinth | Mirtul 24, 209 AC (21:15) | Skill Check / Combat |
+| [**Scene 702**](#scene-702) | Heart-Plinth | Mirtul 25, 209 AC (06:15) | Skill Check / Combat |
+| [**Scene 703**](#scene-703) | Perzys Sōdyon (The White Throat) | Mirtul 25, 209 AC (06:30) | Skill Check / Combat |
+| [**Scene 704**](#scene-704) | Unknown | Mirtul 25, 209 DR (06:30) | Roleplay |
+| [**Scene 705**](#scene-705) | The White Throat | Mirtul 25, 209 AC (06:31) | Skill Check / Combat |
+| [**Scene 706**](#scene-706) | The White Throat | Mirtul 25, 209 AC (06:32) | Skill Check / Combat |
+| [**Scene 707**](#scene-707) | The White Throat | Mirtul 25, 209 AC (06:32) | Roleplay |
+| [**Scene 708**](#scene-708) | The White Throat | Mirtul 25, 209 DR (06:32) | Skill Check / Combat |
+| [**Scene 709**](#scene-709) | The White Throat | Mirtul 25, 209 AC (06:32) | Roleplay |
+| [**Scene 710**](#scene-710) | The White Throat | Mirtul 25, 209 AC (06:32) | Skill Check / Combat |
+| [**Scene 711**](#scene-711) | The White Throat | Mirtul 25, 209 AC (06:32) | Roleplay |
+| [**Scene 712**](#scene-712) | The White Throat | Mirtul 25, 209 AC (06:47) | Skill Check / Combat |
+| [**Scene 713**](#scene-713) | The White Throat Parapet | Mirtul 25, 209 AC (06:50) | Skill Check / Combat |
+| [**Scene 714**](#scene-714) | The White Throat | Mirtul 25, 209 DR (07:00) | Skill Check / Combat |
+| [**Scene 715**](#scene-715) | The White Throat | Mirtul 25, 209 AC (07:05) | Skill Check / Combat |
+| [**Scene 716**](#scene-716) | The White Throat | Mirtul 25, 209 AC (07:10) | Skill Check / Combat |
+| [**Scene 717**](#scene-717) | The White Throat | Mirtul 25, 209 AC (07:15) | Skill Check / Combat |
+| [**Scene 718**](#scene-718) | Belaerys Research Facility | Mirtul 25, 209 AC (07:45) | Skill Check / Combat |
+| [**Scene 719**](#scene-719) | Belaerys Research Facility | Mirtul 25, 209 AC (07:45) | Roleplay |
+| [**Scene 720**](#scene-720) | Belaerys Research Facility | Mirtul 25, 209 AC (08:30) | Skill Check / Combat |
+| [**Scene 721**](#scene-721) | Belaerys Research Facility | Mirtul 25, 209 DR (09:00) | Skill Check / Combat |
+| [**Scene 722**](#scene-722) | Belaerys Research Facility | Mirtul 25, 209 AC (09:15) | Skill Check / Combat |
+| [**Scene 723**](#scene-723) | Belaerys Research Facility | Mirtul 25, 209 AC (09:30) | Skill Check / Combat |
+| [**Scene 724**](#scene-724) | Belaerys Research Facility | Mirtul 25, 209 AC (10:00) | Skill Check / Combat |
+| [**Scene 725**](#scene-725) | Starpike | Mirtul 25, 209 AC (18:00) | Skill Check / Combat |
+| [**Scene 726**](#scene-726) | Starpike Courtyard | Mirtul 25, 209 AC (18:15) | Roleplay |
+| [**Scene 727**](#scene-727) | Lord's Solar | Mirtul 25, 209 AC (18:45) | Roleplay |
+| [**Scene 728**](#scene-728) | Guest Library | Mirtul 25, 209 DR (19:15) | Skill Check / Combat |
+| [**Scene 729**](#scene-729) | Great Hall | Mirtul 25, 209 DR (20:30) | Skill Check / Combat |
+| [**Scene 730**](#scene-730) | Great Hall | Mirtul 25, 209 AC (21:00) | Skill Check / Combat |
+| [**Scene 731**](#scene-731) | Great Hall | Mirtul 25, 209 AC (21:05) | Skill Check / Combat |
+| [**Scene 732**](#scene-732) | Sandstone Balcony | Mirtul 25, 209 AC (21:15) | Skill Check / Combat |
+| [**Scene 733**](#scene-733) | Sandstone Balcony | Mirtul 25, 209 AC (21:15) | Roleplay |
+| [**Scene 734**](#scene-734) | Unknown | Mirtul 25, 209 DR (21:20) | Skill Check / Combat |
+| [**Scene 735**](#scene-735) | Great Hall | Mirtul 25, 209 DR (21:35) | Skill Check / Combat |
+| [**Scene 736**](#scene-736) | Great Hall | 5th Moon, 209 AC (25) | Roleplay |
+| [**Scene 737**](#scene-737) | Great Hall | Mirtul 25, 209 DR (21:55) | Skill Check / Combat |
+| [**Scene 738**](#scene-738) | Guest Library | Mirtul 25, 209 DR (22:15) | Skill Check / Combat |
+| [**Scene 739**](#scene-739) | Ashford Meadow | Mirtul 30, 209 AC (16:30) | Skill Check / Combat |
+| [**Scene 740**](#scene-740) | Ashford Meadow - Main Gate | Mirtul 30, 209 AC (16:30) | Skill Check / Combat |
+| [**Scene 741**](#scene-741) | Ashford Meadow - Main Gate | Mirtul 30, 209 AC (16:45) | Skill Check / Combat |
+| [**Scene 742**](#scene-742) | Ashford Meadow - Main Gate | Mirtul 30, 209 AC (16:45) | Skill Check / Combat |
+| [**Scene 743**](#scene-743) | Unknown | Mirtul 30, 209 DR (16:45) | Roleplay |
+| [**Scene 744**](#scene-744) | Ashford Meadow - Main Gate | Mirtul 30, 209 DR (16:55) | Skill Check / Combat |
+| [**Scene 745**](#scene-745) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:05) | Skill Check / Combat |
+| [**Scene 746**](#scene-746) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 AC (17:10) | Skill Check / Combat |
+| [**Scene 747**](#scene-747) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:15) | Skill Check / Combat |
+| [**Scene 748**](#scene-748) | Ashford Meadow - Prince's Pavilion | Month 5, 209 AC (Day 30) | Roleplay |
+| [**Scene 749**](#scene-749) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:25) | Skill Check / Combat |
+| [**Scene 750**](#scene-750) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:30) | Roleplay |
+| [**Scene 751**](#scene-751) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:35) | Skill Check / Combat |
+| [**Scene 752**](#scene-752) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 DR (17:35) | Skill Check / Combat |
+| [**Scene 753**](#scene-753) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 AC (17:45) | Skill Check / Combat |
+| [**Scene 754**](#scene-754) | Ashford Meadow - Prince's Pavilion | Mirtul 30, 209 AC (17:50) | Skill Check / Combat |
+| [**Scene 755**](#scene-755) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:00) | Skill Check / Combat |
+| [**Scene 756**](#scene-756) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:00) | Roleplay |
+| [**Scene 757**](#scene-757) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:10) | Skill Check / Combat |
+| [**Scene 758**](#scene-758) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:15) | Skill Check / Combat |
+| [**Scene 759**](#scene-759) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:15) | Skill Check / Combat |
+| [**Scene 760**](#scene-760) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:15) | Skill Check / Combat |
+| [**Scene 761**](#scene-761) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:15) | Skill Check / Combat |
+| [**Scene 762**](#scene-762) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:20) | Skill Check / Combat |
+| [**Scene 763**](#scene-763) | Ashford Meadow - Royal Pavilion (Masked) | Mirtul 30, 209 AC (20:35) | Skill Check / Combat |
+| [**Scene 764**](#scene-764) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:35) | Skill Check / Combat |
+| [**Scene 765**](#scene-765) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:45) | Skill Check / Combat |
+| [**Scene 766**](#scene-766) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:50) | Skill Check / Combat |
+| [**Scene 767**](#scene-767) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (20:50) | Skill Check / Combat |
+| [**Scene 768**](#scene-768) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (20:55) | Skill Check / Combat |
+| [**Scene 769**](#scene-769) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 DR (21:25) | Skill Check / Combat |
+| [**Scene 770**](#scene-770) | Ashford Meadow - Royal Pavilion | Mirtul 30, 209 AC (21:30) | Roleplay |
+| [**Scene 771**](#scene-771) | Ashford Meadow - Camp Perimeter | Mirtul 30, 209 DR (21:35) | Skill Check / Combat |
+| [**Scene 772**](#scene-772) | Ashford Meadow - Camp Perimeter | Mirtul 30, 209 AC (21:35) | Roleplay |
+| [**Scene 773**](#scene-773) | Skies above Ashford Meadow | Mirtul 30, 209 AC (21:45) | Skill Check / Combat |
+| [**Scene 774**](#scene-774) | Skies Above Ashford Meadow | Mirtul 30, 209 DR (21:50) | Skill Check / Combat |
+| [**Scene 775**](#scene-775) | The Serpent's Gully | Mirtul 30, 209 DR (22:15) | Skill Check / Combat |
+| [**Scene 776**](#scene-776) | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:20) | Skill Check / Combat |
+| [**Scene 777**](#scene-777) | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Skill Check / Combat |
+| [**Scene 778**](#scene-778) | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
+| [**Scene 779**](#scene-779) | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
+| [**Scene 780**](#scene-780) | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
+| [**Scene 781**](#scene-781) | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:30) | Roleplay |
+| [**Scene 782**](#scene-782) | Unknown | Mirtul 30, 209 DR (22:45) | Skill Check / Combat |
+| [**Scene 783**](#scene-783) | The Serpent's Gully (Flame-Gate) | Mirtul 30, 209 AC (22:50) | Skill Check / Combat |
+| [**Scene 784**](#scene-784) | The Serpent's Gully (Flame-Gate) | Mirtul 31, 209 AC (06:50) | Skill Check / Combat |
+| [**Scene 785**](#scene-785) | Unknown | Mirtul 31, 209 DR (06:50) | Roleplay |
+| [**Scene 786**](#scene-786) | The Serpent's Gully (Flame-Gate) | Mirtul 31, 209 AC (06:50) | Skill Check / Combat |
+| [**Scene 787**](#scene-787) | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 DR (07:05) | Skill Check / Combat |
+| [**Scene 788**](#scene-788) | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:10) | Skill Check / Combat |
+| [**Scene 789**](#scene-789) | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 DR (07:15) | Skill Check / Combat |
+| [**Scene 790**](#scene-790) | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:15) | Skill Check / Combat |
+| [**Scene 791**](#scene-791) | Unknown | Mirtul 31, 209 DR (07:15) | Roleplay |
+| [**Scene 792**](#scene-792) | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:15) | Skill Check / Combat |
+| [**Scene 793**](#scene-793) | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (07:15) | Skill Check / Combat |
+| [**Scene 794**](#scene-794) | Royal Pavilion (Ashford Meadow) | Mirtul 31, 209 AC (23:30) | Skill Check / Combat |
+| [**Scene 795**](#scene-795) | Summerhall (The High Hall) | Kythorn 12, 209 AC (14:00) | Skill Check / Combat |
+| [**Scene 796**](#scene-796) | The High Solar | Kythorn 12, 223 AC (14:00) | Roleplay |
+| [**Scene 797**](#scene-797) | Summerhall | Kythorn 12, 215 AC (14:00) | Roleplay |
+| [**Scene 798**](#scene-798) | Unknown | Kythorn 12, 215 DR (14:00) | Skill Check / Combat |
+| [**Scene 799**](#scene-799) | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Roleplay |
+| [**Scene 800**](#scene-800) | Summerhall | Kythorn 12, 215 AC (14:00) | Roleplay |
+| [**Scene 801**](#scene-801) | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Roleplay |
+| [**Scene 802**](#scene-802) | Summerhall | Kythorn 12, 215 AC (14:00) | Roleplay |
+| [**Scene 803**](#scene-803) | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Roleplay |
+| [**Scene 804**](#scene-804) | Unknown | Kythorn 12, 215 DR (14:00) | Roleplay |
+| [**Scene 805**](#scene-805) | Summerhall Balcony | Kythorn 12, 215 AC (14:00) | Skill Check / Combat |
+| [**Scene 806**](#scene-806) | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
+| [**Scene 807**](#scene-807) | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Roleplay |
+| [**Scene 808**](#scene-808) | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Skill Check / Combat |
+| [**Scene 809**](#scene-809) | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Roleplay |
+| [**Scene 810**](#scene-810) | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
+| [**Scene 811**](#scene-811) | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
+| [**Scene 812**](#scene-812) | Summerhall | Kythorn 12, 215 AC (14:05) | Roleplay |
+| [**Scene 813**](#scene-813) | Summerhall Balcony | Kythorn 12, 215 AC (14:05) | Roleplay |
+| [**Scene 814**](#scene-814) | The Small Council Chamber | Kythorn 12, 215 AC (16:15) | Roleplay |
+| [**Scene 815**](#scene-815) | Small Council Chamber | Kythorn 12, 215 AC (16:20) | Skill Check / Combat |
+| [**Scene 816**](#scene-816) | Small Council Chamber | Kythorn 12, 215 AC (16:25) | Skill Check / Combat |
+| [**Scene 817**](#scene-817) | Small Council Chamber | Kythorn 12, 215 AC (16:35) | Skill Check / Combat |
+| [**Scene 818**](#scene-818) | Small Council Chamber | Kythorn 12, 215 AC (16:35) | Roleplay |
+| [**Scene 819**](#scene-819) | Small Council Chamber | Kythorn 12, 215 AC (16:40) | Skill Check / Combat |
+| [**Scene 820**](#scene-820) | Small Council Chamber | Kythorn 12, 215 AC (16:45) | Skill Check / Combat |
+| [**Scene 821**](#scene-821) | Small Council Chamber | Kythorn 12, 215 AC (16:45) | Roleplay |
+| [**Scene 822**](#scene-822) | Unknown | Kythorn 12, 215 DR (16:55) | Skill Check / Combat |
+| [**Scene 823**](#scene-823) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (10:30) | Skill Check / Combat |
+| [**Scene 824**](#scene-824) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:30) | Skill Check / Combat |
+| [**Scene 825**](#scene-825) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:30) | Roleplay |
+| [**Scene 826**](#scene-826) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:30) | Roleplay |
+| [**Scene 827**](#scene-827) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (11:45) | Skill Check / Combat |
+| [**Scene 828**](#scene-828) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:00) | Skill Check / Combat |
+| [**Scene 829**](#scene-829) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:05) | Skill Check / Combat |
+| [**Scene 830**](#scene-830) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:05) | Skill Check / Combat |
+| [**Scene 831**](#scene-831) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:15) | Skill Check / Combat |
+| [**Scene 832**](#scene-832) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:20) | Skill Check / Combat |
+| [**Scene 833**](#scene-833) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:30) | Skill Check / Combat |
+| [**Scene 834**](#scene-834) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:30) | Roleplay |
+| [**Scene 835**](#scene-835) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:30) | Skill Check / Combat |
+| [**Scene 836**](#scene-836) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:45) | Skill Check / Combat |
+| [**Scene 837**](#scene-837) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:45) | Skill Check / Combat |
+| [**Scene 838**](#scene-838) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:45) | Roleplay |
+| [**Scene 839**](#scene-839) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (12:55) | Skill Check / Combat |
+| [**Scene 840**](#scene-840) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (13:05) | Skill Check / Combat |
+| [**Scene 841**](#scene-841) | Riverlands Parley Ground (Near Stoney Sept) | Kythorn 14, 215 AC (13:30) | Skill Check / Combat |
+| [**Scene 842**](#scene-842) | Riverlands Command Pavilion | Kythorn 14, 215 AC (14:00) | Skill Check / Combat |
+| [**Scene 843**](#scene-843) | Blackfyre Command Tent | Kythorn 14, 215 AC (14:15) | Roleplay |
+| [**Scene 844**](#scene-844) | Targaryen War Pavilion | Kythorn 14, 215 AC (14:15) | Roleplay |
+| [**Scene 845**](#scene-845) | Targaryen War Pavilion | Kythorn 14, 215 AC (14:30) | Skill Check / Combat |
+| [**Scene 846**](#scene-846) | Targaryen War Pavilion | Kythorn 14, 215 AC (15:10) | Skill Check / Combat |
+| [**Scene 847**](#scene-847) | Targaryen War Pavilion | Kythorn 14, 215 AC (15:30) | Skill Check / Combat |
+| [**Scene 848**](#scene-848) | Targaryen War Pavilion | Kythorn 14, 215 AC (15:30) | Roleplay |
+| [**Scene 849**](#scene-849) | Ascension Command Sanctum | Kythorn 14, 215 AC (16:00) | Skill Check / Combat |
+| [**Scene 850**](#scene-850) | Ascension Command Sanctum | Kythorn 14, 215 AC (16:15) | Skill Check / Combat |
+| [**Scene 851**](#scene-851) | Ascension Command Sanctum | Kythorn 14, 215 AC (16:15) | Skill Check / Combat |
+| [**Scene 852**](#scene-852) | Ascension Command Sanctum | Kythorn 14, 215 AC (16:30) | Roleplay |
+| [**Scene 853**](#scene-853) | Unknown | Kythorn 14, 215 DR (16:30) | Skill Check / Combat |
+| [**Scene 854**](#scene-854) | Ascension Command Sanctum | Kythorn 14, 215 AC (16:30) | Roleplay |
+| [**Scene 855**](#scene-855) | Ascension Command Sanctum | Kythorn 14, 215 AC (17:00) | Skill Check / Combat |
+| [**Scene 856**](#scene-856) | Ascension Command Sanctum | Kythorn 14, 215 AC (17:15) | Skill Check / Combat |
+| [**Scene 857**](#scene-857) | Ascension Command Sanctum | Kythorn 14, 215 AC (17:30) | Skill Check / Combat |
+| [**Scene 858**](#scene-858) | Ascension Command Sanctum | Kythorn 14, 215 AC (20:30) | Skill Check / Combat |
+| [**Scene 859**](#scene-859) | The Sun-Vein | Kythorn 16, 215 AC (04:30) | Skill Check / Combat |
+| [**Scene 860**](#scene-860) | The Sun-Vein | Kythorn 16, 215 AC (04:35) | Skill Check / Combat |
+| [**Scene 861**](#scene-861) | The Sun-Vein | Kythorn 16, 215 AC (04:35) | Skill Check / Combat |
+| [**Scene 862**](#scene-862) | The Sun-Vein | Kythorn 16, 215 AC (04:40) | Skill Check / Combat |
+| [**Scene 863**](#scene-863) | The Sun-Vein | Kythorn 16, 215 AC (04:45) | Skill Check / Combat |
+| [**Scene 864**](#scene-864) | Unknown | Kythorn 16, 215 DR (04:45) | Roleplay |
+| [**Scene 865**](#scene-865) | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Skill Check / Combat |
+| [**Scene 866**](#scene-866) | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Roleplay |
+| [**Scene 867**](#scene-867) | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Roleplay |
+| [**Scene 868**](#scene-868) | The Sun-Vein | Kythorn 16, 215 AC (20:30) | Roleplay |
+| [**Scene 869**](#scene-869) | The Sun-Vein | Kythorn 16, 215 AC (05:45) | Roleplay |
+| [**Scene 870**](#scene-870) | The Sun-Vein | Kythorn 16, 215 AC (13:45) | Skill Check / Combat |
+| [**Scene 871**](#scene-871) | The Heart-Plinth | Afternoon, 217 AC (14:30) | Skill Check / Combat |
+| [**Scene 872**](#scene-872) | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
+| [**Scene 873**](#scene-873) | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
+| [**Scene 874**](#scene-874) | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
+| [**Scene 875**](#scene-875) | The Heart-Plinth | Hammer 12, 217 AC (14:30) | Roleplay |
+| [**Scene 876**](#scene-876) | The Heart-Plinth | Hammer 12, 217 AC (14:35) | Roleplay |
+| [**Scene 877**](#scene-877) | The Heart-Plinth | Hammer 12, 217 AC (14:35) | Skill Check / Combat |
+| [**Scene 878**](#scene-878) | The Heart-Plinth | Hammer 12, 217 AC (14:40) | Skill Check / Combat |
+| [**Scene 879**](#scene-879) | The Heart-Plinth | Hammer 12, 217 AC (14:45) | Skill Check / Combat |
+| [**Scene 880**](#scene-880) | The Heart-Plinth | Hammer 12, 217 AC (14:50) | Skill Check / Combat |
+| [**Scene 881**](#scene-881) | The Heart-Plinth | Hammer 12, 217 AC (14:55) | Skill Check / Combat |
+| [**Scene 882**](#scene-882) | The Heart-Plinth | Hammer 12, 217 AC (15:05) | Skill Check / Combat |
+| [**Scene 883**](#scene-883) | The Heart-Plinth | Hammer 12, 217 AC (15:10) | Skill Check / Combat |
+| [**Scene 884**](#scene-884) | The Heart-Plinth | Hammer 12, 217 AC (15:10) | Skill Check / Combat |
+| [**Scene 885**](#scene-885) | The Heart-Plinth | Hammer 12, 217 AC (15:10) | Skill Check / Combat |
+| [**Scene 886**](#scene-886) | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Skill Check / Combat |
+| [**Scene 887**](#scene-887) | The Heart-Plinth | Hammer 12, 217 AC (15:30) | Skill Check / Combat |
+| [**Scene 888**](#scene-888) | The Heart-Plinth | Hammer 12, 217 AC (15:30) | Roleplay |
+| [**Scene 889**](#scene-889) | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
+| [**Scene 890**](#scene-890) | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
+| [**Scene 891**](#scene-891) | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
+| [**Scene 892**](#scene-892) | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
+| [**Scene 893**](#scene-893) | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
+| [**Scene 894**](#scene-894) | The Heart-Plinth | Hammer 12, 217 AC (15:15) | Roleplay |
+| [**Scene 895**](#scene-895) | The Heart-Plinth | Hammer 12, 217 AC (16:00) | Roleplay |
+| [**Scene 896**](#scene-896) | The Heart-Plinth | Hammer 12, 217 AC (16:00) | Roleplay |
+| [**Scene 897**](#scene-897) | The Heart-Plinth | Hammer 12, 217 AC (16:15) | Roleplay |
+| [**Scene 898**](#scene-898) | The Palace of the Stars | Hammer 12, 217 AC (17:15) | Skill Check / Combat |
+| [**Scene 899**](#scene-899) | The Palace of the Stars | Hammer 12, 217 AC (17:30) | Skill Check / Combat |
+| [**Scene 900**](#scene-900) | The Palace of the Stars | Hammer 12, 217 AC (17:30) | Roleplay |
+| [**Scene 901**](#scene-901) | The Palace of the Stars | Hammer 12, 217 AC (17:35) | Skill Check / Combat |
+| [**Scene 902**](#scene-902) | The Palace of the Stars | Hammer 12, 217 AC (18:35) | Skill Check / Combat |
+| [**Scene 903**](#scene-903) | The Palace of the Stars | Hammer 12, 217 AC (18:45) | Skill Check / Combat |
+| [**Scene 904**](#scene-904) | Great Hall of the Palace of the Stars | Hammer 12, 217 AC (18:55) | Skill Check / Combat |
+| [**Scene 905**](#scene-905) | The Great Hall | Hammer 12, 217 AC (19:15) | Roleplay |
+| [**Scene 906**](#scene-906) | The Great Hall | Hammer 12, 217 AC (19:20) | Roleplay |
+| [**Scene 907**](#scene-907) | The Great Hall | 217 Hammer 12, 19:20:00 | Roleplay |
+| [**Scene 908**](#scene-908) | The Great Hall | Hammer 12, 217 AC (20:35) | Skill Check / Combat |
+| [**Scene 909**](#scene-909) | The Great Hall | Hammer 12, 217 AC (20:35) | Roleplay |
+| [**Scene 910**](#scene-910) | The Great Hall | Hammer 12, 217 AC (21:00) | Skill Check / Combat |
+| [**Scene 911**](#scene-911) | The Great Hall | Hammer 12, 217 AC (21:00) | Roleplay |
+| [**Scene 912**](#scene-912) | The Inner Sanctum | Hammer 12, 217 AC (21:15) | Skill Check / Combat |
+| [**Scene 913**](#scene-913) | The Inner Sanctum | Hammer 12, 217 AC (21:30) | Skill Check / Combat |
+| [**Scene 914**](#scene-914) | The Great Hall | Hammer 12, 217 AC (22:00) | Skill Check / Combat |
+| [**Scene 915**](#scene-915) | The Great Hall | Hammer 12, 217 AC (22:15) | Social Challenge |
+| [**Scene 916**](#scene-916) | The Great Hall | Hammer 12, 217 AC (22:15) | Roleplay |
+| [**Scene 917**](#scene-917) | The Great Hall | Hammer 12, 217 AC (22:30) | Skill Check / Combat |
+| [**Scene 918**](#scene-918) | The Great Hall | Hammer 12, 217 AC (22:30) | Skill Check / Combat |
+| [**Scene 919**](#scene-919) | The Great Hall | Hammer 12, 217 AC (22:45) | Skill Check / Combat |
+| [**Scene 920**](#scene-920) | The Great Hall | Hammer 12, 217 AC (22:45) | Skill Check / Combat |
+| [**Scene 921**](#scene-921) | The Great Hall | Hammer 12, 217 AC (22:50) | Skill Check / Combat |
+| [**Scene 922**](#scene-922) | The Great Hall | Hammer 12, 217 AC (23:00) | Skill Check / Combat |
+| [**Scene 923**](#scene-923) | The Great Hall | Hammer 12, 217 AC (23:00) | Roleplay |
+| [**Scene 924**](#scene-924) | The Great Hall | Hammer 12, 217 AC (23:45) | Skill Check / Combat |
+| [**Scene 925**](#scene-925) | The Great Hall & Lower Forges | Hammer 12, 217 AC (23:45) | Roleplay |
+| [**Scene 926**](#scene-926) | The Great Hall & Lower Forges | 217 Hammer 12, 23:45:00 | Roleplay |
+| [**Scene 927**](#scene-927) | The Great Hall & Lower Forges | Hammer 12, 217 AC (23:45) | Roleplay |
+| [**Scene 928**](#scene-928) | The Great Vats | Hammer 12, 217 DR (23:55) | Skill Check / Combat |
+| [**Scene 929**](#scene-929) | The Great Vats | Hammer 15, 217 AC (09:00) | Skill Check / Combat |
+| [**Scene 930**](#scene-930) | The Great Hall | Hammer 18, 217 AC (09:30) | Skill Check / Combat |
+| [**Scene 931**](#scene-931) | The Great Vats | Hammer 25, 217 AC (11:30) | Skill Check / Combat |
+| [**Scene 932**](#scene-932) | The Great Hall | Hammer 25, 217 AC (11:45) | Skill Check / Combat |
+| [**Scene 933**](#scene-933) | The Great Hall | Hammer 25, 217 AC (12:00) | Skill Check / Combat |
+| [**Scene 934**](#scene-934) | The Great Hall | Hammer 25, 217 AC (12:00) | Roleplay |
+| [**Scene 935**](#scene-935) | The Great Hall | Hammer 25, 217 DR (12:15) | Skill Check / Combat |
+| [**Scene 936**](#scene-936) | Private Solar | Hammer 25, 217 AC (23:00) | Skill Check / Combat |
+| [**Scene 937**](#scene-937) | Unknown | Hammer 25, 217 DR (23:00) | Roleplay |
+| [**Scene 938**](#scene-938) | Private Solar | Hammer 25, 217 AC (23:00) | Roleplay |
+| [**Scene 939**](#scene-939) | Private Solar | Hammer 25, 217 DR (23:15) | Skill Check / Combat |
+| [**Scene 940**](#scene-940) | Private Solar | Hammer 25, 217 DR (23:30) | Skill Check / Combat |
+| [**Scene 941**](#scene-941) | Private Solar | Hammer 25, 217 AC (23:45) | Roleplay |
+| [**Scene 942**](#scene-942) | Private Guest Wing | Hammer 26, 217 AC (08:30) | Roleplay |
+| [**Scene 943**](#scene-943) | Private Guest Wing Terrace | Hammer 26, 217 AC (08:45) | Skill Check / Combat |
+| [**Scene 944**](#scene-944) | Private Guest Wing Terrace | Hammer 26, 217 AC (08:50) | Skill Check / Combat |
+| [**Scene 945**](#scene-945) | Private Guest Wing Terrace | Hammer 26, 217 DR (09:00) | Skill Check / Combat |
+| [**Scene 946**](#scene-946) | Palace of the Stars | Hammer 26, 217 AC (09:15) | Skill Check / Combat |
+| [**Scene 947**](#scene-947) | Private Guest Wing Terrace | Hammer 27, 217 DR (09:30) | Skill Check / Combat |
+| [**Scene 948**](#scene-948) | Palace of the Stars Terrace | Hammer 26, 217 AC (09:35) | Skill Check / Combat |
+| [**Scene 949**](#scene-949) | Private Guest Wing Terrace | 26, 217 Hammer (09:40) | Skill Check / Combat |
+| [**Scene 950**](#scene-950) | Palace of the Stars Terrace | Hammer 26, 217 DR (09:50) | Skill Check / Combat |
+| [**Scene 951**](#scene-951) | Palace of the Stars Terrace | Hammer 26, 217 AC (10:00) | Skill Check / Combat |
+| [**Scene 952**](#scene-952) | Palace of the Stars | Hammer 26, 217 DR (10:15) | Skill Check / Combat |
+| [**Scene 953**](#scene-953) | Palace of the Stars | Hammer 26, 217 AC (10:30) | Skill Check / Combat |
+| [**Scene 954**](#scene-954) | Palace of the Stars | Hammer 26, 217 DR (11:00) | Skill Check / Combat |
+| [**Scene 955**](#scene-955) | Western Colonnade | Hammer 26, 217 DR (11:30) | Skill Check / Combat |
+| [**Scene 956**](#scene-956) | Palace of the Stars | Alturiak 17, 217 DR (09:00) | Roleplay |
+| [**Scene 957**](#scene-957) | King's Landing - Docks | Alturiak 24, 217 AC (14:00) | Skill Check / Combat |
+| [**Scene 958**](#scene-958) | King's Landing - Shadowblack Lane | Alturiak 24, 217 AC (14:15) | Skill Check / Combat |
+| [**Scene 959**](#scene-959) | The Red Keep - Maidenvault Solar | Alturiak 24, 217 DR (15:30) | Skill Check / Combat |
+| [**Scene 960**](#scene-960) | The Red Keep - Shadowed Cellar | Alturiak 24, 217 DR (15:45) | Skill Check / Combat |
+| [**Scene 961**](#scene-961) | Unknown | Alturiak 24, 217 DR (15:45) | Roleplay |
+| [**Scene 962**](#scene-962) | The Red Keep - Maidenvault Solar | Alturiak 24, 217 DR (15:50) | Skill Check / Combat |
+| [**Scene 963**](#scene-963) | The Red Keep - Throne Room | Alturiak 24, 217 AC (16:30) | Skill Check / Combat |
+| [**Scene 964**](#scene-964) | The Red Keep - Throne Room | Alturiak 24, 217 DR (16:45) | Skill Check / Combat |
+| [**Scene 965**](#scene-965) | The Red Keep - Throne Room | Alturiak 24, 217 DR (16:50) | Skill Check / Combat |
+| [**Scene 966**](#scene-966) | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:00) | Skill Check / Combat |
+| [**Scene 967**](#scene-967) | The Red Keep - Throne Room | Alturiak 24, 217 DR (17:15) | Skill Check / Combat |
+| [**Scene 968**](#scene-968) | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:30) | Skill Check / Combat |
+| [**Scene 969**](#scene-969) | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:35) | Skill Check / Combat |
+| [**Scene 970**](#scene-970) | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:45) | Skill Check / Combat |
+| [**Scene 971**](#scene-971) | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:45) | Roleplay |
+| [**Scene 972**](#scene-972) | The Red Keep - Throne Room | Alturiak 24, 217 AC (17:45) | Skill Check / Combat |
+| [**Scene 973**](#scene-973) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:15) | Skill Check / Combat |
+| [**Scene 974**](#scene-974) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:30) | Skill Check / Combat |
+| [**Scene 975**](#scene-975) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:45) | Skill Check / Combat |
+| [**Scene 976**](#scene-976) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (18:50) | Skill Check / Combat |
+| [**Scene 977**](#scene-977) | The Red Keep - Hand's Solar | Day 24, 217 Alturiak (18:50) | Skill Check / Combat |
+| [**Scene 978**](#scene-978) | The Red Keep - Hand's Solar | Day 24, 217 Alturiak (18:45) | Skill Check / Combat |
+| [**Scene 979**](#scene-979) | The Red Keep - Hand's Solar | Alturiak 24, 217 DR (18:50) | Skill Check / Combat |
+| [**Scene 980**](#scene-980) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:05) | Skill Check / Combat |
+| [**Scene 981**](#scene-981) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:10) | Skill Check / Combat |
+| [**Scene 982**](#scene-982) | The Red Keep - Hand's Solar | 217 Alturiak 24, 19:10:00 | Skill Check / Combat |
+| [**Scene 983**](#scene-983) | The Red Keep - Hand's Solar | Alturiak 24, 217 DR (19:15) | Skill Check / Combat |
+| [**Scene 984**](#scene-984) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:20) | Skill Check / Combat |
+| [**Scene 985**](#scene-985) | The Red Keep - Hand's Solar | Alturiak 24, 217 AC (19:30) | Skill Check / Combat |
+| [**Scene 986**](#scene-986) | The Red Keep - Hand's Solar | Alturiak 24, 217 DR (19:45) | Skill Check / Combat |
+| [**Scene 987**](#scene-987) | The Palace of the Stars - Grand Library | Alturiak 24, 217 DR (20:15) | Skill Check / Combat |
+| [**Scene 988**](#scene-988) | New Valyria - Belaerys Research Facility | Alturiak 24, 217 DR (20:30) | Skill Check / Combat |
+| [**Scene 989**](#scene-989) | Belaerys Research Facility - Primary Conduction Chamber | Alturiak 24, 217 DR (20:45) | Skill Check / Combat |
+| [**Scene 990**](#scene-990) | Belaerys Medical Annex - Regeneration Sanctum | Alturiak 24, 217 AC (21:00) | Skill Check / Combat |
+| [**Scene 991**](#scene-991) | Belaerys Research Facility - Medical Annex | Alturiak 24, 217 AC (21:00) | Roleplay |
+| [**Scene 992**](#scene-992) | The Iron Throne Room | Alturiak 24, 217 DR (21:15) | Skill Check / Combat |
+| [**Scene 993**](#scene-993) | The Iron Throne Room | Alturiak 24, 217 DR (21:25) | Skill Check / Combat |
+| [**Scene 994**](#scene-994) | The Iron Throne Room | Alturiak 24, 217 AC (21:35) | Skill Check / Combat |
+| [**Scene 995**](#scene-995) | The Iron Throne Room | Alturiak 24, 217 AC (21:40) | Skill Check / Combat |
+| [**Scene 996**](#scene-996) | The Streets of King's Landing | Ches 2, 217 DR (10:00) | Skill Check / Combat |
+| [**Scene 997**](#scene-997) | The Streets of King's Landing | Ches 2, 217 AC (10:00) | Roleplay |
+| [**Scene 998**](#scene-998) | Highgarden (The Mander) | Ches 16, 217 AC (11:30) | Skill Check / Combat |
+| [**Scene 999**](#scene-999) | Highgarden (Water Gate) | Ches 16, 217 DR (11:45) | Skill Check / Combat |
+| [**Scene 1000**](#scene-1000) | Highgarden (Water Gate) | Ches 16, 217 AC (12:00) | Skill Check / Combat |
+| [**Scene 1001**](#scene-1001) | Highgarden (Water Gate) | Ches 16, 217 DR (12:10) | Skill Check / Combat |
+| [**Scene 1002**](#scene-1002) | Highgarden (Upper Gardens) | Ches 16, 217 AC (12:25) | Skill Check / Combat |
+| [**Scene 1003**](#scene-1003) | Highgarden (Upper Gardens) | Ches 16, 217 AC (12:40) | Skill Check / Combat |
+| [**Scene 1004**](#scene-1004) | Highgarden (The Briar Maze) | Ches 16, 217 AC (12:55) | Skill Check / Combat |
+| [**Scene 1005**](#scene-1005) | Highgarden (The Briar Maze) | Ches 16, 217 AC (13:00) | Roleplay |
+| [**Scene 1006**](#scene-1006) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (12:00) | Skill Check / Combat |
+| [**Scene 1007**](#scene-1007) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (12:05) | Skill Check / Combat |
+| [**Scene 1008**](#scene-1008) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:05) | Skill Check / Combat |
+| [**Scene 1009**](#scene-1009) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (12:15) | Skill Check / Combat |
+| [**Scene 1010**](#scene-1010) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:15) | Roleplay |
+| [**Scene 1011**](#scene-1011) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:15) | Roleplay |
+| [**Scene 1012**](#scene-1012) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:30) | Roleplay |
+| [**Scene 1013**](#scene-1013) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (12:35) | Skill Check / Combat |
+| [**Scene 1014**](#scene-1014) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 DR (13:35) | Skill Check / Combat |
+| [**Scene 1015**](#scene-1015) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1016**](#scene-1016) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1017**](#scene-1017) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1018**](#scene-1018) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1019**](#scene-1019) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1020**](#scene-1020) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1021**](#scene-1021) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1022**](#scene-1022) | Casterly Rock (The Golden Gallery) | Tarsakh 30, 217 AC (13:35) | Roleplay |
+| [**Scene 1023**](#scene-1023) | Casterly Rock (Golden Gallery) | Mirtul 7, 217 AC (12:00) | Skill Check / Combat |
+| [**Scene 1024**](#scene-1024) | Casterly Rock (The Lion's Mouth) | Mirtul 14, 217 AC (12:00) | Skill Check / Combat |
+| [**Scene 1025**](#scene-1025) | Winterfell (Great Hall) | Mirtul 21, 217 AC (06:00) | Skill Check / Combat |
+| [**Scene 1026**](#scene-1026) | Winterfell | Mirtul 21, 217 AC (06:15) | Skill Check / Combat |
+| [**Scene 1027**](#scene-1027) | Winterfell | Mirtul 21, 217 DR (06:30) | Skill Check / Combat |
+| [**Scene 1028**](#scene-1028) | Winterfell (The Ancient Forges) | Mirtul 21, 217 DR (06:45) | Skill Check / Combat |
+| [**Scene 1029**](#scene-1029) | Winterfell (The Ancient Forges) | Mirtul 21, 217 DR (07:00) | Skill Check / Combat |
+| [**Scene 1030**](#scene-1030) | Winterfell (The Great Hall) | Mirtul 21, 217 AC (08:00) | Skill Check / Combat |
+| [**Scene 1031**](#scene-1031) | Pyke (The Iron Islands) | Mirtul 22, 217 AC (10:30) | Skill Check / Combat |
+| [**Scene 1032**](#scene-1032) | Pyke (The Iron Islands) | Mirtul 22, 217 DR (10:35) | Roleplay |
+| [**Scene 1033**](#scene-1033) | Pyke (The Iron Islands) | Mirtul 22, 217 DR (10:45) | Skill Check / Combat |
+| [**Scene 1034**](#scene-1034) | Pyke (The Iron Islands) | 5th Month, 209 AC (Day 22) | Roleplay |
+| [**Scene 1035**](#scene-1035) | Palace of the Stars (Valyria) | 8th Moon, 217 AC (22nd Day) | Skill Check / Combat |
+| [**Scene 1036**](#scene-1036) | Palace of the Stars (Valyria) | 8th Moon, 209 AC (Day 22) | Roleplay |
+| [**Scene 1037**](#scene-1037) | Palace of the Stars (Valyria) | 8th Moon, 209 AC (22nd Day) | Roleplay |
+| [**Scene 1038**](#scene-1038) | Palace of the Stars (Valyria) | 8th Moon 22, 209 AC (09:00) | Roleplay |
+| [**Scene 1039**](#scene-1039) | Palace of the Stars (Valyria) | 8th Moon 22, 217 AC (09:00) | Roleplay |
+| [**Scene 1040**](#scene-1040) | Palace of the Stars (Valyria) | 8th Moon, 217 AC (22nd Day) | Skill Check / Combat |
+| [**Scene 1041**](#scene-1041) | The Banks of the Upper Rhoyne | 8th Moon, 217 AC (29th Day) | Skill Check / Combat |
+| [**Scene 1042**](#scene-1042) | The Banks of the Upper Rhoyne | 8th Moon, 217 AC (22nd Day) | Roleplay |
+| [**Scene 1043**](#scene-1043) | The Banks of the Upper Rhoyne | Month 8, 217 AC (Day 22) | Roleplay |
+| [**Scene 1044**](#scene-1044) | The Banks of the Upper Rhoyne | 8th Moon, 209 AC (22nd Day) | Roleplay |
+| [**Scene 1045**](#scene-1045) | Winterfell (Great Keep / Battlements) | 8th Moon 22, 209 AC (10:30) | Skill Check / Combat |
+| [**Scene 1046**](#scene-1046) | Unknown | 8 22, 209 DR (10:30) | Roleplay |
+| [**Scene 1047**](#scene-1047) | Winterfell / The Kingsroad | 8th Moon, 209 AC (Day 22) | Skill Check / Combat |
+| [**Scene 1048**](#scene-1048) | Castle Black | 8 22, 209 AC (12:30) | Skill Check / Combat |
+| [**Scene 1049**](#scene-1049) | Castle Black | 8 22, 209 AC (12:45) | Skill Check / Combat |
+| [**Scene 1050**](#scene-1050) | Palace of the Stars | 8th Moon, 209 AC (29th Day) | Skill Check / Combat |
+| [**Scene 1051**](#scene-1051) | Palace of the Stars | Moon 8, 209 AC (Day 29) | Roleplay |
+| [**Scene 1052**](#scene-1052) | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
+| [**Scene 1053**](#scene-1053) | Palace of the Stars | 8th Moon 29, 209 AC (12:45) | Skill Check / Combat |
+| [**Scene 1054**](#scene-1054) | Palace of the Stars | Month 8, 209 AC (Day 29) | Skill Check / Combat |
+| [**Scene 1055**](#scene-1055) | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
+| [**Scene 1056**](#scene-1056) | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
+| [**Scene 1057**](#scene-1057) | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
+| [**Scene 1058**](#scene-1058) | Palace of the Stars | 8th Moon, 209 AC (Day 29) | Skill Check / Combat |
+| [**Scene 1059**](#scene-1059) | Palace of the Stars | 8th Moon, 209 AC (29th Day) | Skill Check / Combat |
+| [**Scene 1060**](#scene-1060) | Palace of the Stars | Month 8, 209 AC (Day 29) | Roleplay |
+| [**Scene 1061**](#scene-1061) | Palace of the Stars | 8th Moon, 209 AC (29th Day) | Skill Check / Combat |
+| [**Scene 1062**](#scene-1062) | Palace of the Stars | Month 9, 209 AC (Day 5) | Skill Check / Combat |
+| [**Scene 1063**](#scene-1063) | Palace of the Stars / The Northern Rift | 9th Moon, 209 AC (Day 5) | Skill Check / Combat |
+| [**Scene 1064**](#scene-1064) | The Shivering Wastes (Beyond the Wall) | 9 5, 209 AC (15:15) | Skill Check / Combat |
+| [**Scene 1065**](#scene-1065) | The Shivering Wastes (Beyond the Wall) | 9 5, 209 AC (15:30) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; ✨ **None**
@@ -1105,8 +1121,11 @@ Since we are using D&D 5e mechanics for this campaign, we need to translate your
 God Mode:
 Give me a female Targaryen name and AI generate a class focused on high int. Prioritize int wis cha dex and balance the rest. Give me a themed custom class that benefits from int and wis and let my cha based checks use my int or wisdom modifier when appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Roadside Outside Ashford** &nbsp;|&nbsp; ⏳ **Spring, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Level 1 Dragon Scholar | HP: 8/8 | XP: 0/300 | Gold: 10gp**
@@ -1114,8 +1133,11 @@ Give me a female Targaryen name and AI generate a class focused on high int. Pri
 God Mode:
 For ability points do round numbers and give 16 int and 16 wis
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Ashford Meadow (Character Creation)** &nbsp;|&nbsp; ⏳ **Spring, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 8/8 | XP: 0/300 | Gold: 10gp**
@@ -1123,8 +1145,11 @@ For ability points do round numbers and give 16 int and 16 wis
 God Mode:
 14 dec and 8 con and generate my whole class up to level 30 with all features
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Spring, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -1132,8 +1157,11 @@ God Mode:
 God Mode:
 Let's add a small dragon companion at level 6 and give narrative quest or reason and have it grow and also level with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1141,8 +1169,11 @@ Let's add a small dragon companion at level 6 and give narrative quest or reason
 God Mode:
 Give me full spellcaster progression and subtle spell. Make me a wizard subclass and pick the spells I get automatically
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -1150,8 +1181,11 @@ Give me full spellcaster progression and subtle spell. Make me a wizard subclass
 God Mode:
 Give me some benefit from wisdom too and make sure my class is balanced. Should be like a top meta class
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1159,8 +1193,11 @@ Give me some benefit from wisdom too and make sure my class is balanced. Should 
 God Mode:
 Is it balanced?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1168,8 +1205,11 @@ Is it balanced?
 God Mode:
 Anything we should do balance it Bette for low magic?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1177,8 +1217,11 @@ Anything we should do balance it Bette for low magic?
 God Mode:
 Sure do it and let's remove the dps spells and just focus on others
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1186,8 +1229,11 @@ Sure do it and let's remove the dps spells and just focus on others
 God Mode:
 Without the dps spells is it balanced low magic?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Road to Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1197,8 +1243,11 @@ Without the dps spells is it balanced low magic?
 > 👤 **Player:**
 > *"start campaign and narrate beginning scene where he meets me at the inn and asks me to take care of his horse"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1214,8 +1263,11 @@ He reaches out, his large hand ruffling the top of your straw hat with a clumsy 
 God Mode:
 no look at the book, he met me at the inn and didnt know me and asked me to handle the horse. Are you able to access the novella?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1225,8 +1277,11 @@ no look at the book, he met me at the inn and didnt know me and asked me to hand
 > 👤 **Player:**
 > *"Redo the scene where we meet and let's assume i am dressed like a boy. How old am I too?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Dressed as a Boy | Exhaustion: 0 | Inspiration: No**
@@ -1242,8 +1297,11 @@ He doesn't wait for an answer, assuming the natural order of things—that a boy
 God Mode:
 Let's not have my head shaved but hair is tied up. Also make me extremely good looking but when disguised people only sorta notice
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1251,8 +1309,11 @@ Let's not have my head shaved but hair is tied up. Also make me extremely good l
 God Mode:
 Remember I am a girl and princess of the blood uodate game state and eveywhere
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp**
@@ -1262,8 +1323,11 @@ Remember I am a girl and princess of the blood uodate game state and eveywhere
 > 👤 **Player:**
 > *"return to narrative. lets use the canon line and I say I'm not a stableboy and he says his canon line"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1281,8 +1345,11 @@ The giant pauses, his massive shoulders tensing before he slowly turns around. H
 > [!NOTE] ⚙️ **Player Choice:**
 > *Take the Reins (Diligently) - Pick up the copper and lead the horses to the trough. Do it with such precision and care that he notices your competence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1298,8 +1365,11 @@ Dunk is halfway to the door when he pauses, glancing back over his shoulder. He 
 God Mode:
 give me 18 int
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp 1cp** &nbsp;|&nbsp; ⚠️ **Disguised (Egg)**
@@ -1309,8 +1379,11 @@ give me 18 int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gather Grass - Find some high grass or sweet clover nearby to supplement the horses&#x27; meal, showing initiative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2**
@@ -1322,8 +1395,11 @@ However, the Reach's legendary fertility seems to have retreated from this parti
 God Mode:
 write the narrative like george rr martin style
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp, 1cp**
@@ -1331,8 +1407,11 @@ write the narrative like george rr martin style
 God Mode:
 what are my skills/proficiencies?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -1342,8 +1421,11 @@ what are my skills/proficiencies?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scavenge the Stables - Check the inn&#x27;s own small stable area for any leftover high-quality hay or spilled grain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 0/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Arcane Recovery: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1357,8 +1439,11 @@ It isn't a feast fit for a king's destrier, perhaps, but it is clean and sweet-s
 God Mode:
 is that the right modifier for investigation proficiency? 1d20+4 = 12 vs DC 10 - Success (Investigation (Scavenge Stables))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -1368,8 +1453,11 @@ is that the right modifier for investigation proficiency? 1d20+4 = 12 vs DC 10 -
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eavesdrop at the Inn - Quietly approach the open door of the inn to hear Dunk&#x27;s progress with the innkeeper.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:32)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 50/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1**
@@ -1383,8 +1471,11 @@ You freeze, your heart hammering against your ribs like a trapped bird. Through 
 God Mode:
 you're the one using +4 not me The user is querying the mechanical accuracy of a previous roll. Investigation is Intelligence-based. With 18 Intelligence (+4) and Level 1 Proficiency (+2), the total is +6. The user used +4, likely forgetting to add the proficiency bonus since they are proficient in Investigation.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:32)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 50/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ⚠️ **Disguised (Egg)**
@@ -1394,8 +1485,11 @@ you're the one using +4 not me The user is querying the mechanical accuracy of a
 > 👤 **Player:**
 > *"just go inside normally and ask dunk if he's going to the tourney"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 50/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1**
@@ -1413,8 +1507,11 @@ The innkeeper snorts, unimpressed by his size or his charm. "Tourney-goers are t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Haggle for Dunk - Use your Royal Insight to find a flaw in the innkeeper&#x27;s logic or a way to lower the price without using gold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 50/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1434,8 +1531,11 @@ Dunk blinked, looking down at you with a mixture of bafflement and newfound resp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Help Dunk with the Door - Assist Dunk with the repair to ensure it&#x27;s done quickly and well, further proving your worth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 150/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1455,8 +1555,11 @@ You scrambled to retrieve the pin, your cheeks burning with a heat that had noth
 > 👤 **Player:**
 > *"Use my int and investigation skill to see what to do and give dunk advice. Bashfully say I've never fixed a door before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 150/300 | Gold: 10gp 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1472,8 +1575,11 @@ He puts his shoulder to the oak once more. The timber groans in protest, but thi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Grease First - Quickly swipe some tallow or grease onto the pin before Dunk lifts, ensuring it slides in without friction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 100/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1, Exhaustion: 0**
@@ -1491,8 +1597,11 @@ The innkeeper watches from her counter, her arms crossed, her silence more bitin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find a Fulcrum - Use a heavy timber or the mounting block as a lever to help Dunk hold the weight while you work.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 100/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1510,8 +1619,11 @@ Dunk's breath hitches, his knuckles losing that ghostly white pallor. He looks a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Arcane Insurance - Use a Subtle-cast Mage Hand to ensure the pin seats perfectly while you &#x27;push&#x27; it, leaving nothing to chance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 100/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Arcane Recovery: 1/1** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1531,8 +1643,11 @@ The innkeeper scoffs, leaning against the doorframe. "A lever and a spell-less b
 > 👤 **Player:**
 > *"Just reroll this and assume mage hand uses my int modifier. Otherwise mage hand is pointless 1d20+2 = 5 vs DC 10 - Failure (Dexterity (Sleight of Hand with Mage Hand)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 100/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Exhaustion: 0**
@@ -1552,8 +1667,11 @@ Dunk claps a massive, grease-stained hand onto your shoulder, nearly knocking th
 > 👤 **Player:**
 > *"Probe topic of him bringing me to tourney"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 150/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1569,8 +1687,11 @@ Dunk's lopsided grin returns, though it's tempered by the pragmatism of a man wh
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Squire&#x27;s Vow - Formally accept the role with a humble but firm promise of loyalty, ensuring he sees you as reliable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 250/300 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1588,8 +1709,11 @@ Dunk's tired eyes search your soot-stained face for a long moment. He sees the g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study the Knight - Observe Dunk&#x27;s gear and mannerisms more closely to understand his true level of skill and the state of his meager resources.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 300/900 | Gold: 10gp, 1cp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1608,8 +1732,11 @@ If you continue adventuring, you remain Level 1 and defer these benefits until y
 God Mode:
 Level Up to Level 2 - Apply level 2 Dragon Scholar benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dragon Scholar | HP: 7/7 | XP: 300/300 | Gold: 10gp**
@@ -1617,8 +1744,11 @@ Level Up to Level 2 - Apply level 2 Dragon Scholar benefits immediately
 God Mode:
 give me some reasonable starting equipment for a princess disguised as a commoner
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 300/900 | Gold: 10gp**
@@ -1626,8 +1756,11 @@ give me some reasonable starting equipment for a princess disguised as a commone
 God Mode:
 lets assume i have 10 golden dragons but hidden, and 20 copper
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11** &nbsp;|&nbsp; ✨ **Spells: L1 3/3**
@@ -1637,8 +1770,11 @@ lets assume i have 10 golden dragons but hidden, and 20 copper
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the inn&#x27;s bench with Dunk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3** &nbsp;|&nbsp; ⚠️ **Disguised (Egg) | Exhaustion: 0 | Inspiration: No**
@@ -1652,8 +1788,11 @@ The light from the yard streams in, catching the dust motes dancing in the air. 
 > 👤 **Player:**
 > *"finish eating and then offer gear maintenance. lets assume i can use my int modifier for most of this s tuff since im very smart even if inexp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 350/900 | Gold: 10gp (20 total)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -1677,8 +1816,11 @@ You take the mail to a patch of sunlight by the door. Using a handful of gritty 
 > 👤 **Player:**
 > *"dunk should be very impressed about my work on the armor, then suggest selling gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 400/900 | Gold: 10gp (22gp hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -1696,8 +1838,11 @@ He turns away, his massive shoulders tensing as he begins to buckle the cleaned 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About Ser Arlan - Soften the tension by asking about the man who owned the gear, showing respect for his history.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Exhaustion: 0**
@@ -1715,8 +1860,11 @@ The giant's hand comes down on the table, not in anger, but with a finality that
 God Mode:
 I should know everything about the houses remember I am a princess of the targaryen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20gp**
@@ -1724,8 +1872,11 @@ I should know everything about the houses remember I am a princess of the targar
 God Mode:
 Let's brainstorm a new nickname for me instead of egg since I am not bald
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20gp**
@@ -1733,8 +1884,11 @@ Let's brainstorm a new nickname for me instead of egg since I am not bald
 God Mode:
 lets use silver, no one should expect a targaryen to be dressed as a commoner, even if i have silver hair. update it everywhere in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Silver: 20ss**
@@ -1744,8 +1898,11 @@ lets use silver, no one should expect a targaryen to be dressed as a commoner, e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Dunk at the inn bench, now as &#x27;Silver&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Silver: 22s** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Recovered: 0/1**
@@ -1763,8 +1920,11 @@ He looks at you, his brow furrowing with a sudden, protective thought. "Stay clo
 > 👤 **Player:**
 > *"ask dunk how he will prove his knighthood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Exhaustion: 0**
@@ -1782,8 +1942,11 @@ He lets out a heavy breath, his fingers drumming a slow, rhythmic beat against t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify the Tournament Stewards - Recall which lords or officials are likely to be overseeing the enrollments at Ashford to prepare Dunk for the questioning.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Exhaustion: 0**
@@ -1799,8 +1962,11 @@ He stands up, the bench groaning in relief as his massive weight is removed. "En
 God Mode:
 did this roll use my prof bonus? if not stop forgetting 1d20+6 = 9 vs DC 12 - Failure (History (Recall Stewards))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Roadside Inn near Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20gp**
@@ -1810,8 +1976,11 @@ did this roll use my prof bonus? if not stop forgetting 1d20+6 = 9 vs DC 12 - Fa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Dunk on Heraldic Etiquette - While riding, explain the proper way to address the heralds and stewards to minimize his &#x27;hedge&#x27; origins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Roadside Outside Ashford** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Silver Stags: 22** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Exhaustion: 0**
@@ -1836,8 +2005,11 @@ You watch him, realizing that for all his strength, the labyrinth of highborn et
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify Nearby Sigils - Shift focus to the banners currently visible on the road to give him practical, real-time heraldic identification practice.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Silver: 22s 21c** &nbsp;|&nbsp; ✨ **Spells: L1 3/3, HD: 1/1, Exhaustion: 0**
@@ -1855,8 +2027,11 @@ The tension in his shoulders begins to bleed away, replaced by the focused conce
 > 👤 **Player:**
 > *"explain that my mother used to work for a noble, but they were killed, and she taught me all this noble stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20 Dragons** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Exhaustion: 0**
@@ -1874,8 +2049,11 @@ He reaches out, his massive hand ruffling the top of your hat with a sudden, fie
 > 👤 **Player:**
 > *"give him a sad story, mom died a few years ago to disease in flea bottom"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Silver: 22st** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -1891,8 +2069,11 @@ Dunk's massive hand, which had been resting loosely on Thunder's reins, tightens
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire of Dunk&#x27;s Past - Deepen the emotional bond by asking if he remembers his own parents, potentially gaining more Insight into his character.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 12.0** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -1910,8 +2091,11 @@ There is a profound, simple honesty in his admission that cuts through the heat 
 God Mode:
 whats dunk level and stats?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20 Dragons**
@@ -1919,8 +2103,11 @@ whats dunk level and stats?
 God Mode:
 lets assume i have very distinctive royal targaryen features but people don't bother to look at me as much. however, if i stand out they'll roll a challenging perception DC check to notice them. they need to win 3 hard rolls to realize. I am a targaryen. Also if i dress up, clean up, and wear proper royal clothes itll be more obvious and they can win in one role.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 450/900 | Gold: 20gp** &nbsp;|&nbsp; ⚠️ **Disguised (Boy) | Exhaustion: 0 | Inspiration: No**
@@ -1930,8 +2117,11 @@ lets assume i have very distinctive royal targaryen features but people don't bo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Validate His Lineage - Tell him that Ser Arlan gave him a better name than any lord could, further solidifying his trust.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 500/900 | Gold: 12 Dragons (Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Inspiration: No**
@@ -1947,8 +2137,11 @@ He doesn't ruffle your hat this time. Instead, he just nods, a slow, solemn ackn
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify Ashford Outriders - Formally identify the guards to Dunk using your Heraldic Mastery, reinforcing your role as his expert guide.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 550/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -1968,8 +2161,11 @@ Dunk let out a low whistle, a slow grin spreading across his weathered face. "Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defer to Dunk - Stay half a pace behind Dunk and whisper cues to him, letting him play the role of the primary negotiator.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 550/900 | Gold: 12 Dragons** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -1995,8 +2191,11 @@ He signals his men with a sharp jerk of his chin, and the outriders part, lettin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine the &#x27;Squire-to-Knight&#x27; Story - Coach Dunk on exactly how to describe Ser Arlan&#x27;s death and his own knighting to ensure it sounds legitimate to an Ashford steward.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 550/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2016,8 +2215,11 @@ He shook his head, a frustrated huff escaping his lips. The more you tried to re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Simplify the Story - Tell Dunk to forget the script and just focus on his love for Ser Arlan when he speaks, letting his genuine grief carry the weight of his claim.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 550/900 | Gold: 20 Dragons** &nbsp;|&nbsp; ✨ **Spells: L1 3/3, HD: 1/1, Exhaustion: 0**
@@ -2039,8 +2241,11 @@ He nods, but it's a slow, heavy movement. The honesty you're asking for is a dif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout for a Familiar Sigil - Scan the growing sea of tents for a house Ser Arlan might have served, looking for a friendly face to vouch for his character.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Road to Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 600/900 | Silver: 21** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2062,8 +2267,11 @@ Dunk blinks, his eyes following your finger to the owl-marked tent. "Mertyns... 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Camp First - Circle the camp quietly to see if the current Lord Mertyns is present or if it&#x27;s just a household knight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **House Mertyns Camp, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 600/900 | Gold: 12gp, 22s, 21c** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2079,8 +2287,11 @@ It is Lord Mertyns himself, the 'Old Owl' Ser Arlan spoke of. He looks every bit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bring Dunk Forward - Signal Dunk to approach Lord Mertyns directly while he is still at his table.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **House Mertyns Camp, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Month 5, 209 AC (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 600/900 | Silver: 22st** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2104,8 +2315,11 @@ Lord Mertyns freezes, his hand hovering over a piece of dark bread. The glass ey
 > [!NOTE] ⚙️ **Player Choice:**
 > *Let Dunk Speak - Allow Dunk to finish the story of Arlan&#x27;s passing in his own words, letting his honesty do the work.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **House Mertyns Camp, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 650/900 | Gold: 12 Dragons** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2123,8 +2337,11 @@ He leans forward, the silver chain around his neck clinking. "He was a good man,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Vouch - Quietly ask Lord Mertyns if he would be willing to provide a word to the Master of Games if the stewards prove difficult.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **House Mertyns Camp, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Month 5, 209 AC (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 600/900 | Silver: 22st, 21cp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2144,8 +2361,11 @@ Dunk looks down at you, his brow furrowing in a muddle of confusion and relief. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Enrollment and Camp - Lead Dunk to the gatehouse to handle the stewards while using your knowledge of the camp layout to identify a defensible spot for your own camp nearby.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Ashford Gatehouse / Traveler's Camp** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 600/900 | Silver: 21 stags** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2161,8 +2381,11 @@ The gatehouse itself is a hive of activity. Clerks in Ashford orange sit behind 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Mertyns&#x27; Detail - Step forward and provide specific details of the vintage shared with Lord Mertyns to prove the vouch is real.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Ashford Gatehouse, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 650/900 | Silver: 22** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2182,8 +2405,11 @@ He scribbles a quick mark on the roll, his ink-stained finger tapping the parchm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Campsite - Scout the edge of the Mertyns camp for a defensible spot where their banner might offer some passive protection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Ashford Meadow, Edge of Mertyns Camp** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 700/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -2201,8 +2427,11 @@ You gain **50 XP** for successfully scouting a defensible campsite.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pitch the Camp - Stay and help Dunk with the heavy work—unloading the pack horses, gathering wood, and preparing a proper fire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Gold: 12gp, 22s, 22c** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2218,8 +2447,11 @@ As the sun dips lower, the shadows of the Mertyns owls stretch across your littl
 God Mode:
 Why does it say it's night but the time says 3pm?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Gold: 20gp**
@@ -2229,8 +2461,11 @@ Why does it say it's night but the time says 3pm?
 > 👤 **Player:**
 > *"Ask dunk if I can go to the market"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Gold: 12 dragons** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2246,8 +2481,11 @@ He reaches into his heavy leather pouch, his fingers fumbling for a moment befor
 God Mode:
 Stop this it's not night what time do you see in game state?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Gold: 20gp**
@@ -2257,8 +2495,11 @@ Stop this it's not night what time do you see in game state?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Dunk in the 3:35 PM afternoon sun, preparing to head to the market while it is still broad daylight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Market Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Gold: 12 dragons | Silver: 25 stags** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Exhaustion: 0**
@@ -2272,8 +2513,11 @@ The crowd is a churning river of humanity. Knights in colorful surcoats push pas
 God Mode:
 How much money does dunk have? Make it realistic like the books
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Market Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Month 5, 209 AC (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Silver: 25**
@@ -2283,8 +2527,11 @@ How much money does dunk have? Make it realistic like the books
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Quality Oats - Navigate toward the grain merchants&#x27; quarter to find a vendor with clean, weevil-free oats for Thunder.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Grain Merchants' Quarter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Inspiration: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -2304,8 +2551,11 @@ You feel a sudden, cold prickle on the back of your neck. The market is too loud
 God Mode:
 How much silver stags in golden dragon and how much does he have in usd equiv
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Grain Merchants' Quarter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 750/900 | Silver Stags: 25**
@@ -2315,8 +2565,11 @@ How much silver stags in golden dragon and how much does he have in usd equiv
 > 👤 **Player:**
 > *"Buy oats and then identify shoving me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Grain Merchants' Quarter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 800/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Inspiration: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -2328,8 +2581,11 @@ With the grain secured, you immediately whip your head around, your eyes darting
 God Mode:
 Did dunk have gold dragons in the books?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Grain Merchants' Quarter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 800/900 | Gold: 12 Gold Dragons (Hidden), 21 Silver Stags**
@@ -2337,8 +2593,11 @@ Did dunk have gold dragons in the books?
 God Mode:
 Ok fix the campaign I want it to be the same as the book in general
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Grain Merchants' Quarter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Month 5 Day 15, 209 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 800/900 | Silver: 25**
@@ -2346,8 +2605,11 @@ Ok fix the campaign I want it to be the same as the book in general
 God Mode:
 Let's assume I just have one gold dragon in my secret pouch and 1000 back in the Targaryen castle in kings landing or I need to officially show a banker who I am to get the rest
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Grain Merchants' Quarter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 800/900 | Gold: 0gp**
@@ -2355,8 +2617,11 @@ Let's assume I just have one gold dragon in my secret pouch and 1000 back in the
 God Mode:
 How much usd is the gold dragon?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Grain Merchants' Quarter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 11/11 | XP: 800/900 | Gold: 0gp (1 Hidden Dragon)**
@@ -2366,8 +2631,11 @@ How much usd is the gold dragon?
 > 👤 **Player:**
 > *"Resume market scene and carefully go back to camp and take different route. Let's assume I get attacked by some weak bandits level 1-2 when near camp and dunk comes to save me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 9/11 | XP: 850/900 | Silver: 19 (Stags)** &nbsp;|&nbsp; ✨ **Slots: L1 3/3 | HD: 1/1 | Hidden Gold: 1** &nbsp;|&nbsp; ⚠️ **Boy Disguise (DC 20) | Exhaustion: 0**
@@ -2393,8 +2661,11 @@ A roar like a mountain collapsing echoes through the thicket. The ground itself 
 > 👤 **Player:**
 > *"Assume dunk brought his sword and I run behind him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 9/11 | XP: 850/900 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Hidden Dragons: 1** &nbsp;|&nbsp; ⚠️ **Wounded (Arm - 2 dmg) | Exhaustion: 0 | Inspiration: No**
@@ -2423,8 +2694,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"Press intimidation and tell them to drop their weapons and money and leave"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 9/11 | XP: 850/900 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Hidden Dragons: 1** &nbsp;|&nbsp; ⚠️ **Wounded (Arm)**
@@ -2451,8 +2725,11 @@ Dunk's jaw sets, a low growl vibrating in his chest. "Silver, get back," he rumb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forceful Disarm (Mage Hand) - Use a subtle Mage Hand to violently wrench the dagger from the scarred man&#x27;s hand while he&#x27;s distracted by Dunk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 9/11 | XP: 850/900 | Gold: 0gp (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Hidden: 1 Dragon, 20 Stag, 20 Groat** &nbsp;|&nbsp; ⚠️ **Disguised, Stung (Arm) | Inspiration: No**
@@ -2479,8 +2756,11 @@ Behind him, the bandit with the broken nose doesn't wait for a second sign. He l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Step Back - You&#x27;ve done your part. Retreat and let Dunk resolve the matter with his sword.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Dragon Scholar | HP: 9/11 | XP: 900/900 | Silver: 19s | Copper: 21c** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Hidden: 1 Gold Dragon, 20 Stag, 20 Groat | Exhaustion: 0**
@@ -2516,8 +2796,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply Level 3 Dragon Scholar benefits, including 2nd-level spells.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 10/12** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -2544,8 +2827,11 @@ If you continue adventuring, you remain Level 3 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Done - Finalize level-up and return to the Briar-Path aftermath.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 10/12** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -2567,8 +2853,11 @@ Your adventure continues!
 God Mode:
 Doesn't my class get some default spells?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0 (1 Hidden Dragon)**
@@ -2578,8 +2867,11 @@ Doesn't my class get some default spells?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check the Dropped Daggers - The bandits dropped their weapons; they might be worth a few coppers to a smith.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2**
@@ -2597,8 +2889,11 @@ Dunk lets out a huff that might have been a laugh if he weren't so busy checking
 God Mode:
 How do wizards normally work. Automatic spells don't make sense because I can pick some spells and sometimes in D&D you get spells automatically without picking. What's usual for wizard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0 (1 Hidden)**
@@ -2606,8 +2901,11 @@ How do wizards normally work. Automatic spells don't make sense because I can pi
 God Mode:
 Clean Wound (Prestidigitation) - Subtly use Prestidigitation to chill and clean the wound while Dunk isn&#x27;t looking directly at your palm.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (1 Hidden Dragon)**
@@ -2623,8 +2921,11 @@ He doesn't wait for an answer, his relief overriding his suspicion as he wraps t
 God Mode:
 What are my domain spells?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (1 Hidden)**
@@ -2634,8 +2935,11 @@ What are my domain spells?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Bandit Tracks - Quickly check the direction the bandits fled to ensure they aren&#x27;t circling back.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon**
@@ -2651,8 +2955,11 @@ Dunk lets out a breath that smells of the salt beef he had for midday. He doesn'
 God Mode:
 No I should have two spells I can pick per level from any wizard spells plus domain spells maybe create new spells for my clsss that are balanced but strong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (13 Hidden Dragons)**
@@ -2662,8 +2969,11 @@ No I should have two spells I can pick per level from any wizard spells plus dom
 > [!NOTE] ⚙️ **Player Choice:**
 > *Quick Scavenge - Take one more minute to see if the bandits dropped anything else of value in their panic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (13 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon**
@@ -2679,8 +2989,11 @@ You stood, the weight of the new coin joining the daggers at your belt. The Bria
 God Mode:
 Give me new domain spells every level or every few levels like other classes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (13 Hidden)**
@@ -2688,8 +3001,11 @@ Give me new domain spells every level or every few levels like other classes
 God Mode:
 Give me 1 gold dragon hidden wealth did you forget ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon**
@@ -2697,8 +3013,11 @@ Give me 1 gold dragon hidden wealth did you forget ?
 God Mode:
 Show me all the spells up to level 30
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (Hidden: 1GD)**
@@ -2706,8 +3025,11 @@ Show me all the spells up to level 30
 God Mode:
 Give me special custom spells for level 5 too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0 (Hidden: 1gd)** &nbsp;|&nbsp; ⚠️ **Boy Disguise, Bandaged Arm**
@@ -2715,8 +3037,11 @@ Give me special custom spells for level 5 too
 God Mode:
 Keep track of all my spells and suggest using them when it makes sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ⚠️ **Boy Disguise, Hidden Identity | Exhaustion: 0 | Inspiration: No**
@@ -2726,8 +3051,11 @@ Keep track of all my spells and suggest using them when it makes sense
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the aftermath in the Briar-Path with Dunk, now with active spell tracking enabled.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (16:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0 (Hidden: 1 Gold Dragon)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon**
@@ -2741,8 +3069,11 @@ He helps you to your feet with a surprising gentleness, his massive palm acting 
 > 👤 **Player:**
 > *"Snow dunk the purse and tell him not to worry  I'm ok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 DR (16:53)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon**
@@ -2765,8 +3096,11 @@ Dunk looks from the purse to your face, his massive jaw working as the lethal ha
 > 👤 **Player:**
 > *"Let's have dunk praise my bravery during the fight. I wasn't fearless but I acquitted myself well. He hasn't seen many ten year old boys like me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon**
@@ -2782,8 +3116,11 @@ He pauses, looking at you with a lopsided, protective grin. "I don't know where 
 > 👤 **Player:**
 > *"Thank him and give him the loot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Briar-Path near Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 900/2700 | Gold: 0gp (1 hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon**
@@ -2801,8 +3138,11 @@ He claps his hand on your shoulder—careful of the bandage—and begins to lead
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Polish - Give Dunk&#x27;s hauberk one last meticulous cleaning to ensure he looks the part of a true knight for the heralds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (3 turns remaining)**
@@ -2818,8 +3158,11 @@ You don't look up, but the corners of your mouth twitch into a small, secret smi
 > 👤 **Player:**
 > *"THINK:Shoukd dunk upgrade his gear like in the book?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expires Turn 66)**
@@ -2829,8 +3172,11 @@ You pause as the campfire begins to crackle, the firelight dancing across the mi
 > 👤 **Player:**
 > *"THINK:What if I say the gold dragon is my mother's life savings. Normally wouldn't part with it, similar to dunk and see Arlan gear, but we should sell the old gear now that I've maintained it well and buy new gear more suited to dunk. Apologize for not showing him the gold dragon earlier but explain its sentimental and the only thing from my mother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold: 0 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon**
@@ -2840,8 +3186,11 @@ You sit by the crackling fire, the heavy hauberk cooling in your lap as the firs
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sentimental Sacrifice - Apologize and reveal the coin as &#x27;Mother&#x27;s Legacy&#x27;. Explain that her gear is worth more now that it&#x27;s clean, and together with the coin, he can finally be a real knight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -2870,8 +3219,11 @@ Dunk stares at the coin for a long heartbeat, then back at his master’s cleane
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shared Legacy - Propose that the new gear will be a combination of both their legacies—Arlan&#x27;s and your mother&#x27;s—marking the true start of your partnership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expires Turn 66)**
@@ -2898,8 +3250,11 @@ He finally reaches for the Gold Dragon, his fingers closing around it with a sol
 > 👤 **Player:**
 > *"Dunk should be extremely impressed and grateful that I've given him my fortune and says he's honored by the trust. I smile and joke now he's obligated to train me to be a knight and he laughs but says he'll do it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold: 1 (Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -2924,8 +3279,11 @@ Dunk lets out a sudden, resonant bark of a laugh that startles a nearby mule. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Organize Ser Arlan&#x27;s Gear - Systematically bundle the cleaned mail and leather for the morning trade to ensure a quick transaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold: 0 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Gold Dragon: 1 (Hidden)**
@@ -2943,8 +3301,11 @@ You step back, surveying the neatly organized bundles. They sit ready by the sad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify Reputable Armorer - Use your knowledge of House reputations to find a smith who won&#x27;t ask too many questions about a Gold Dragon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 209 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 950/2700 | Gold Dragon: 1 (Hidden)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Hidden Gold: 1 Dragon | Silver: 22 | Copper: 33**
@@ -2958,8 +3319,11 @@ He looks back at the fire, the silence between you heavy with the new partnershi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Full Night&#x27;s Rest - Secure the gear and get a full night&#x27;s sleep to ensure you&#x27;re sharp for the morning market haggling.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1000/2700 | Gold: 0 (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Hidden Gold: 1 Dragon | Silver: 22 | Copper: 33** &nbsp;|&nbsp; ⚠️ **Rested | Exhaustion: 0 | Inspiration: No**
@@ -2979,8 +3343,11 @@ Dawn (06:00:00) breaks over the meadow in a bruise of gold and pale pink, the mo
 > 👤 **Player:**
 > *"Tell dunk about the intruder I scared off"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Eastern Fringe of Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1000/2700 | Hidden Gold: 0 (Dunk has 1)** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Hidden Wealth: 1 Dragon (Held by Dunk)**
@@ -2998,8 +3365,11 @@ You offer him a small, confident nod, the shadow of your straw hat hiding the li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Pate the Hammer - Head straight to the armorers&#x27; row to find Pate, a smith known for sturdy, honest work.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Armorers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1000/2700 | Gold: 0 (1 Hidden Gold Dragon)** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Hidden Wealth: 1 Dragon (Held by Dunk)**
@@ -3030,8 +3400,11 @@ Dunk's jaw tightens. He reaches for the Gold Dragon, his fingers fumbling with t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mother&#x27;s Dowry - Double down on the &#x27;life savings&#x27; story, emphasizing the clean gear as proof of your family&#x27;s former service and honesty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Armorers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (07:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1000/2700 | Gold: 0 (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Hidden Wealth: 1 Dragon (Held by Dunk)**
@@ -3060,8 +3433,11 @@ Pate the Hammer looked from your small, soot-stained face to the meticulously bu
 > 👤 **Player:**
 > *"THINK:Should a full suit of armor cost a gold coin? Should we get plate instead of mail?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Armorers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (07:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1000/2700 | Gold: 0 (1 Gold Dragon hidden)**
@@ -3071,8 +3447,11 @@ You pause, the soot-laden air of Armorers' Row thick in your lungs, as you menta
 > 👤 **Player:**
 > *"THINK:Prioritize Custom Fit for Dunk - Focus the gold on ensuring whatever mail he gets is perfectly fitted to his 7-foot frame to avoid Dexterity penalties."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Armorers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (07:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1000/2700 | Gold: 0 (1 Gold Dragon held by Dunk)** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Hidden Wealth: 1 Dragon (Held by Dunk)**
@@ -3082,8 +3461,11 @@ You stand amidst the acrid smoke and rhythmic clang of Armorers' Row, your mind 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Custom-Fitted Mail - Instruct Pate to prioritize tailoring a high-quality mail hauberk specifically to Dunk&#x27;s frame using the gold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Pate's Stall, Armorers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1000/2700 | Gold: 0 (1 Hidden Gold Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden Wealth: 1 Dragon (Held by Dunk)**
@@ -3103,8 +3485,11 @@ You gain **50 XP** for a significant social victory (Custom Gear Negotiation)!
 > 👤 **Player:**
 > *"Let's assume everything goes well and we time skip and he puts on his new armor and we negotiated for a new shield too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1100/2700 | Hidden Gold: 0** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Gold: 0 (Hidden: 0), Silver: 22, Copper: 33**
@@ -3120,8 +3505,11 @@ He claps a heavy hand on your shoulder—the bandage on your arm a forgotten thi
 > 👤 **Player:**
 > *"THINK:How do we entry tourney do we need to challenge a knight?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1100/2700 | Gold: 0 (Hidden: 1)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2**
@@ -3131,8 +3519,11 @@ You pause, the soot-stained logic of your mind sifting through the protocols of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Lists - Head down to the tourney grounds to see the initial brackets and identify potential opponents for Dunk&#x27;s first tilt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Tourney Grounds, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1100/2700 | Gold: 0 (Hidden: 1GD)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Silver: 22 | Copper: 33**
@@ -3146,8 +3537,11 @@ Your efforts to identify Dunk's potential opponents are equally frustrated. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Paint and Scout - Coordinate identity and intel: find a painter for the shield while you scout the Five Champions to identify the weakest link.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Tourney Grounds, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1200/2700 | Gold: 0 (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Silver: 22 | Copper: 33** &nbsp;|&nbsp; ⚠️ **Disguised (Egg), Hidden Wealth**
@@ -3172,8 +3566,11 @@ However, your split focus comes with a cost. As you retreat from the Redwyne pic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report to Dunk - Head back to camp immediately to brief Dunk on Ser Horas Redwyne and the shield commission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1200/2700 | Hidden Gold: 1** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Gold: 0, Silver: 22, Copper: 33**
@@ -3193,8 +3590,11 @@ He stands up, his shadow looming over you like a mountain. The gratitude in his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Tactical Briefing - Explain exactly how Horas Redwyne&#x27;s arrogance manifests in his grip, using your high INT to convince Dunk of the tactical necessity of the information.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1200/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -3216,8 +3616,11 @@ You gain **50 XP** for a significant skill check success (Tactical Persuasion).
 > 👤 **Player:**
 > *"Send camp page to bring tanselle to our camp so I don't need to expose myself. Observe dunk try to flirt with her and encourage them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1300/2700 | Silver: 21** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -3247,8 +3650,11 @@ Dunk hovers near her, looking like a bear trying to decide if it's safe to pet a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Encourage Dunk - Provide small, helpful prompts to Dunk to help him overcome his shyness and engage Tanselle in conversation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1350/2700 | Gold: 0 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -3268,8 +3674,11 @@ You gain **100 XP** for a successful social interaction (Significant Skill Check
 > 👤 **Player:**
 > *"Give tanselle a subtle signal that dunk likes her but is shy. Shouldn't be hard DC and I also act cute. As  an actual girl and being very good looking I can charm her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1450/2700 | Gold: 0 (1 Gold Dragon Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -3298,8 +3707,11 @@ Dunk looks up, his jaw working as he realizes he's been 'helped.' He gives you a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Rise - Walk a slow circle around the camp to check for any more &#x27;scavengers&#x27; or curious lackeys while the light is still good.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1450/2700 | Gold: 0gp (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -3321,8 +3733,11 @@ Returning to the center of the camp, you find Dunk still hovering like a guardia
 > 👤 **Player:**
 > *"Let's assume 3 level 1-2 scavengers attack. Dunk protect us and I lead tanselle back further into a safer area and then go help dunk and let me decide what to do in combat rounds. Dunk has already killed one of tjem"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1450/2700 | Gold: 1 GD (Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -3349,8 +3764,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"Cast sleep and I think it can only impact one person? Use subtle spell. The  throw a rock at another"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1450/2700 | Gold: 0gp (1 hidden Gold Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2 | Exhaustion: 0**
@@ -3377,8 +3795,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"Let's assume I used subtle spell so people don't know I used sleep and just think the guy collapsed. I then slit his throat with my dagger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1550/2700 | Silver: 21** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -3394,8 +3815,11 @@ Dunk, however, does not miss. Seeing the opening you've created, the giant steps
 > 👤 **Player:**
 > *"Finish wounded, fully loot, then ask tansel if she's ok. She should be very grateful. Dunk and tansel should be a bit surprised by my combat ability but appreciative"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 1 hidden** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3442,8 +3866,11 @@ Tanselle emerges from the shadows of the briars, her head high despite the pallo
 God Mode:
 Retcon some of this. Peolle shouldn't realize I used magic since I used subtle spell but maybe enemies unnerved by 10 year old boy who's now comfortable with combat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -3453,8 +3880,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Complete the Elm - Encourage Tanselle to finish the painting while the adrenaline is high, ensuring the bond with Dunk deepens.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -3472,8 +3902,11 @@ You gain **100 XP** for a successful social maneuver and deepening the party bon
 > 👤 **Player:**
 > *"Perimeter sweep and while I'm gone let's narrate dunk and tanselle talking about me. Tansel says I'm am n amazing squire and then says maybe too amazing? What type of 10 year old boy is that used to combat? Perhaps she speculates had a very rough time growing up on the streets? Narrate dunk reply but my combat efficiency should stand out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0gp (1 hidden Gold Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Boy Disguise Active**
@@ -3491,8 +3924,11 @@ He looks toward the briars, his hand instinctively going to the hilt of Arlan's 
 > 👤 **Player:**
 > *"Let's assume dunk and tanselle flirt a bit more and she finishes the shield. I think ask her about the knight I had picked out for dunk. As a favor ask if she can spread some gossip to make it likely for him to challenge dunk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 209 AC (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expires Turn 91)**
@@ -3516,8 +3952,11 @@ Tanselle looks from you to Dunk, who is currently busy inspecting a saddle-strap
 > 👤 **Player:**
 > *"Prep dunk, long rest, next day ask dunk if I can buy a ranged weapon to protect bandits and some light armor."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 17, 209 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0 (1 Hidden Gold Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Coin: 28s, 52c (Hidden: 1GD, 20s, 20c)** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Inspiration: No**
@@ -3537,8 +3976,11 @@ He turns back to the horse, his jaw set. The memory of you slitting a man's thro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose a Sling - Suggest a sling as a &#x27;boy&#x27;s toy&#x27; that is actually a lethal weapon, minimizing the profile of being &#x27;armed&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 17, 209 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0 (1 Hidden GD)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Coin: 28s, 52c (Hidden: 1GD, 20s, 20c)** &nbsp;|&nbsp; ⚠️ **Boy Disguise (Silver) | Sanctuary Mode Active**
@@ -3563,8 +4005,11 @@ Dunk pauses, the brush hovering over Thunder's flank. He looks at you, his jaw w
 > 👤 **Player:**
 > *"Let's assume I find a sling and just buy some light armor anyway at reasonable prices. Then dunk sets up and waits for the challenge d"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Market Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 17, 209 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0 (Hidden: 1GD, 20s, 20c)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -3582,8 +4027,11 @@ As you begin the trek back, the herald's voice rings out across the meadow, a br
 God Mode:
 Fix my equipment in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 17, 209 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0gp (1 Hidden Gold Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -3593,8 +4041,11 @@ Fix my equipment in game state
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Ashford Meadow as the tournament deadline approaches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Eastern Fringe, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 17, 209 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon, 20 Silver, 20 Copper** &nbsp;|&nbsp; ⚠️ **Disguised (Silver), Wounded (Healing) | Exhaustion: 0 | Inspiration: No**
@@ -3610,8 +4061,11 @@ He finally looks down at you, his grey eyes searching your soot-streaked face. H
 > 👤 **Player:**
 > *"Let's assume our target knight challenges dunk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon, 20 Silver, 20 Copper** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -3638,8 +4092,11 @@ Dunk's jaw sets, the stubborn flint returning to his eyes. He looks down at you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The &#x27;Choke-Point&#x27; Reminder - Quickly remind Dunk to watch Horas&#x27;s knuckles; if they go white, he&#x27;s about to over-adjust, creating the gap for the lance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0gp (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon, 20 Silver, 20 Copper**
@@ -3663,8 +4120,11 @@ Dunk doesn't look down, but you see his shoulders drop an inch as the tactical l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Watch and Wait - Remain behind the barrier and let the tilt resolve based on Dunk&#x27;s focus and your briefing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:02)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon, 20 Silver, 20 Copper**
@@ -3678,8 +4138,11 @@ But the lists are a cruel mistress to the inexperienced. Dunk's lance, aimed for
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Pivot - Quickly scan the Redwyne retinue for their reaction while signaling Dunk to lower his lance tip by a hair&#x27;s breadth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:03)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon, 20 Silver, 20 Copper**
@@ -3693,8 +4156,11 @@ The second tilt is a collision of raw power. Without your correction, Dunk’s l
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Needle&#x27;s Eye - Run to Dunk&#x27;s side as he takes a fresh lance and give a single, crystalline command: &#x27;Wait for the twitch, then drive low.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:04)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0gp (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon, 20 Silver, 20 Copper**
@@ -3722,8 +4188,11 @@ The impact is a sound like a ship's hull splitting. Dunk’s lance catches the R
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Spoils - Remind Dunk to claim the traditional forfeit—the loser&#x27;s horse and armor—to secure your financial future.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Slots Used: None** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -3764,8 +4233,11 @@ Dunk's gaze clarifies, the muddle of the joust hardening into a slow, resolute i
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Herald&#x27;s Proof - Loudly announce Dunk&#x27;s claim to the crowd and heralds to make it a matter of public record, making it harder for the stewards to ignore.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:06)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2**
@@ -3783,8 +4255,11 @@ Ser Horas's squires, who had been moving to quietly lead the destrier away, free
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate the Ransom - Accompany Dunk to the Redwyne pavilion to negotiate a fair silver ransom for the return of the horse and armor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Ashford Meadow, Redwyne Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (Hidden: 1gd)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -3826,8 +4301,11 @@ You gain **150 XP** for a successful high-stakes negotiation!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Official Mediation - Request the Ashford stewards oversee the valuation to ensure the Redwynes don&#x27;t use their status to cheat Dunk on the ransom price.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:08)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2**
@@ -3856,8 +4334,11 @@ You give the steward a sharp, triumphant nod and hurry back to Dunk's side. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Immediate Buyout - Approach the Redwyne steward now and offer a slight discount for immediate payment in silver stags to avoid a long administrative wait.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Silver: 24, Stags: 800 (Pending)**
@@ -3877,8 +4358,11 @@ Dunk looks down at you, his jaw slightly agape as the first heavy leather purse 
 God Mode:
 Is that reasonable random for a lord horse and armor and I assume weapons too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Silver: 774** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden Gold: 1**
@@ -3891,8 +4375,11 @@ Is that reasonable random for a lord horse and armor and I assume weapons too?
 God Mode:
 Help me brainstorm an interesting arc. In the original novella dunk saves tansel and has to do trial by combat. How could that be adapted to this campaign ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0gp (Hidden: 1gd)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Silver: 774**
@@ -3900,8 +4387,11 @@ Help me brainstorm an interesting arc. In the original novella dunk saves tansel
 God Mode:
 Yeha but this sounds like a ransom for Dunk level gear. Wouldn't real lord horse and gear be like 10x or even more ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0gp (774 Silver Stags)**
@@ -3929,8 +4419,11 @@ Yeha but this sounds like a ransom for Dunk level gear. Wouldn't real lord horse
 God Mode:
 Not noble ransom but his gear prob worth a lot more
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0gp**
@@ -3958,8 +4451,11 @@ Not noble ransom but his gear prob worth a lot more
 God Mode:
 Even 10 gold dragons sounds kind of small ? Did he really buy his gear at that  price?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Silver: 2100**
@@ -3987,8 +4483,11 @@ Even 10 gold dragons sounds kind of small ? Did he really buy his gear at that  
 God Mode:
 no that doesnt make sense. it could be say 5k to 10k stags and maybe 20% discount? 90% discount seems crazy right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 0 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Silver: 2100**
@@ -3998,8 +4497,11 @@ no that doesnt make sense. it could be say 5k to 10k stags and maybe 20% discoun
 > 👤 **Player:**
 > *"return to story and narrate this massive win and the 30 dragons. dunk is overjoyed and gives me back 5 gold dragons for my personal use for my trust in him and says this is as much my victory as his"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 5 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -4019,8 +4521,11 @@ The weight of the gold is cold and substantial in your hand, a physical anchor t
 > 👤 **Player:**
 > *"dunk keeps thanking me and lists all of the small and big ways i've helped him. say he truly appreciates evertyhing and how i trusted him with my mother's life savings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 10 Dragons (5 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -4036,8 +4541,11 @@ He claps a heavy, protective hand on your shoulder, his thumb tracing the edge o
 > 👤 **Player:**
 > *"redo that scene and make it way longer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (12:28)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 15 (5 Hidden) Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Success Streak: 3**
@@ -4055,8 +4563,11 @@ He claps a heavy, protective hand on your shoulder, his thumb tracing the edge o
 > 👤 **Player:**
 > *"narrate my response. i reply with genuine warmth, happiness and excitement. Dunk doesnt know but this is my first actual serious accomplishment unrelated to my royal name and I am estatic too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:31)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 15 (5 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0**
@@ -4074,8 +4585,11 @@ Dunk looks down at you, his weathered face softening into a look of such profoun
 God Mode:
 lets assume the story i told dunk is partially true. My mother was actually from one of the top 5 families of old valaryia and my blood is more pure valarian than normal targaryens and i have stronger magic/dragon affinity and some of them escaped with the targaryens. They were betrayed by another westerose house later on (make a future plot arc) and my mother married my father as his last wife but she died from sickness/grief that the rest of her old valaria line was wiped out. Brainstorm a family name for them and generate plot hooks for later arcs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:31)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 5 Dragons (Standard), 6 Dragons (Hidden)** &nbsp;|&nbsp; ⚠️ **Disguised (Silver), Sanctuary Mode (Active until Turn 113)**
@@ -4083,8 +4597,11 @@ lets assume the story i told dunk is partially true. My mother was actually from
 God Mode:
 the mother being a servant thing was a deception for dunk FYI, not the truth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:31)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 5gd (30 party pool)** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4092,8 +4609,11 @@ the mother being a servant thing was a deception for dunk FYI, not the truth
 God Mode:
 lets assume the mainline valarians actually know about Belaerys and in some ways i am a higher tier noble than them due to ancient lineage and magic, like my mother. only my father knows and his heirs, that my line is very powerful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:31)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 5 Dragons (Personal)**
@@ -4103,8 +4623,11 @@ lets assume the mainline valarians actually know about Belaerys and in some ways
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the celebration at the lists now that your ancestral precedence is codified.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Ashford Meadow, The Lists** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1850/2700 | Gold: 5 Dragons (Personal), 25 Dragons (Shared Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden Gold: 1 Dragon** &nbsp;|&nbsp; ⚠️ **Victorious, Sanctuary Active | Exhaustion: 0 | Inspiration: Yes**
@@ -4120,8 +4643,11 @@ Beyond the barrier, the tournament continues its relentless, chaotic march. To t
 > 👤 **Player:**
 > *"Assume gold secure investigate royal commotion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Ashford Meadow, Puppeteers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1950/2700 | Gold: 5 Dragons (Hidden: 1)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden Gold: 1 Dragon**
@@ -4139,8 +4665,11 @@ Your breath catches. You see Tanselle-Too-Tall standing at the edge of the troup
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Distraction (Minor Illusion) - Use Minor Illusion to create the sound of a herald&#x27;s horn or a royal summons nearby to draw Aerion&#x27;s attention away from the puppeteers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Ashford Meadow, Puppeteers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1950/2700 | Gold: 5 (Party Pool: 30)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden Gold: 6 Dragons** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Sanctuary: Active (Turn 113)**
@@ -4162,8 +4691,11 @@ The royal guards follow him in a rhythmic clatter of plate and mail, leaving a v
 God Mode:
 Let's assume the targaryen guard dislike and don't respect Aerion due to how he is but actually respect/listen to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Ashford Meadow, Puppeteers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1950/2700 | Gold: 5gp (+6 hidden)** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4173,8 +4705,11 @@ Let's assume the targaryen guard dislike and don't respect Aerion due to how he 
 > 👤 **Player:**
 > *"Monitor squires"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Ashford Meadow, Puppeteers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1950/2700 | Gold: 5 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Hidden: 6 Gold Dragons** &nbsp;|&nbsp; ⚠️ **Disguised (Commoner) | Exhaustion: 0 | Inspiration: No**
@@ -4192,8 +4727,11 @@ Tanselle is still frozen by the stage, her slender fingers clutching a jar of pi
 > 👤 **Player:**
 > *"lead into market and distract minor illusion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Ashford Meadow, Grain Merchants' Quarter** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5 Dragons, 100 Silver, 49 Copper** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon, 20 Silver, 20 Copper** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4215,8 +4753,11 @@ You gain **100 XP** for a successful tactical evasion!
 God Mode:
 dont say this, im not truly from flea bottom With the practiced agility of a Flea Bottom stray
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Ashford Meadow, Grain Merchants' Quarter** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5 Dragons (Standard), 6 Dragons (Hidden)**
@@ -4226,8 +4767,11 @@ dont say this, im not truly from flea bottom With the practiced agility of a Fle
 > 👤 **Player:**
 > *"assume i led tansel too, now that we're safe explain to her she should flee the city"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Ashford Meadow, Shadow of the Grain Wagons** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5gp (+6 hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Hidden: 1 Gold Dragon**
@@ -4257,8 +4801,11 @@ She squeezes your hand once, her fingers cold, before vanishing into the river o
 > 👤 **Player:**
 > *"Let's assume she told me where she's going and we can meet up later if our paths cross again. She accelerated the tour schedule and gave it to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Ashford Meadow, Grain Merchants' Quarter** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (13:13)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Hidden: 1 Gold Dragon** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4274,8 +4821,11 @@ With a final, meaningful squeeze of your hand, she vanishes back into the river 
 > 👤 **Player:**
 > *"Use invis and go back to dunk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Eastern Fringe, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (13:28)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5 Dragons (30 Party Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Hidden: 1 Gold Dragon** &nbsp;|&nbsp; ⚠️ **Invisible (Concentration) | Exhaustion: 0**
@@ -4293,8 +4843,11 @@ You let the concentration lapse. The world bleeds back into color as you materia
 > 👤 **Player:**
 > *"Use invis and go back to dunk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Ashford Meadow, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5gp (11 hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Hidden: 6 Gold Dragons** &nbsp;|&nbsp; ⚠️ **Invisible | Exhaustion: 0**
@@ -4312,8 +4865,11 @@ You let the concentration lapse. The world bleeds back into color as you materia
 God Mode:
 Let's assume gold isn't an issue and we have bag holding
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Ashford Meadow, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (13:28)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 10,000gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Hidden: 6 Gold Dragons**
@@ -4323,8 +4879,11 @@ Let's assume gold isn't an issue and we have bag holding
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Dunk on Aerion - Tell Dunk about the Prince&#x27;s madness and Tanselle&#x27;s flight so he understands the rising political tension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Ashford Meadow, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 10,006gd** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2**
@@ -4346,8 +4905,11 @@ He isn't hearing the tactical nuance; the mention of Aerion's volatility has tri
 God Mode:
 No we have 30 gold dragons not 10k
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Ashford Meadow, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5 Dragons (Personal), 30 Dragons (Party Pool)**
@@ -4355,8 +4917,11 @@ No we have 30 gold dragons not 10k
 God Mode:
 Calm His Nerves - Argue that leaving now would look more suspicious and that the Mertyns vouch is our best shield.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Ashford Meadow, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (13:58)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5 (Hidden: 6)** &nbsp;|&nbsp; ⚠️ **Boy Disguise | Exhaustion: 0**
@@ -4366,8 +4931,11 @@ Calm His Nerves - Argue that leaving now would look more suspicious and that the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Calm His Nerves - Argue that leaving now would look more suspicious and that the Mertyns vouch is our best shield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Ashford Meadow, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (14:13)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2050/2700 | Gold: 5 (Hidden: 1)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spell Slots: L1 4/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0**
@@ -4394,8 +4962,11 @@ Dunk halts, his chest heaving. He looks at the blue-and-white owls fluttering ab
 > 👤 **Player:**
 > *"Let's assume no one will steal our gold. Then we go back to pate to upgrade dunk weapons and consider plate armor custom fitted. Top tier but modest looking so doesn't draw attention"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 5 (30 Party Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Subtle Casting: Enabled** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0**
@@ -4428,8 +4999,11 @@ Dunk looks down at you, his jaw slightly agape. "Plate, Silver?" he rumbles, his
 > 👤 **Player:**
 > *"if we can trade in the existing longsword and make a finesse rapier for me. And get a quote on pricing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Subtle Casting: Enabled** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -4449,8 +5023,11 @@ Dunk looks down at you, his brow furrowed. "A rapier, Silver? I thought you were
 > 👤 **Player:**
 > *"Search superior steel and then tell me the cost for dunk plate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Armorers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5 (Hidden: 1)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Subtle Casting: Enabled**
@@ -4464,8 +5041,11 @@ Dunk looks at you, his hand resting on his belt where the Redwyne purses sit. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Haggle for Speed - Offer an extra 50 stags if the armor can be finished by tomorrow evening&#x27;s feast.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5 Dragons (Hidden: 1)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Subtle Casting: Enabled** &nbsp;|&nbsp; ⚠️ **Disguised (Silver)**
@@ -4496,8 +5076,11 @@ You gain **100 XP** for a masterful social/economic victory!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Rapier Material - While Pate is focused on Dunk&#x27;s plate, personally oversee the selection of the steel for your own rapier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5 (Hidden: 1)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Subtle Casting: Enabled** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4513,8 +5096,11 @@ You let your hand drop, the cold reality of the market settling in. It will be a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Pate for Secrets - Use Persuasion/Insight to see if Pate is hiding a small &#x27;private&#x27; stash of better steel for a higher price.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5 (Personal) / 25 (Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Subtle Casting: Active** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -4532,8 +5118,11 @@ Pate froze, his jaw working as he looked from your small, soot-smeared face to t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pay for Superior Steel - Hand over the 250 silver stags (roughly 1.2 Gold Dragons) to secure the Dornish spring-steel immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 24 Dragons (after payment)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Subtle Casting: Active**
@@ -4555,8 +5144,11 @@ Pate watches you with a look of profound, professional respect. He sweeps the si
 > 👤 **Player:**
 > *"Ask for him to throw in some upgraded light armor for me since it's such a big order something with better AC than I have now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Subtle Casting: Active** &nbsp;|&nbsp; ⚠️ **Boy Disguise (Active) | Exhaustion: 0**
@@ -4593,8 +5185,11 @@ He turns back to the forge, the rhythmic 'shush' of the bellows signaling the en
 > 👤 **Player:**
 > *"Ask for discounted light armor then"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Pate's Stall, Armorers' Row** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (1,000 at Red Keep)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Subtle Casting: Active** &nbsp;|&nbsp; ⚠️ **Boy Disguise, Subtle Casting | Exhaustion: 0**
@@ -4621,8 +5216,11 @@ You take one last look at the supple, studded leather hanging in the back of the
 > 👤 **Player:**
 > *"Ok just pay full price for light armor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Armorers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Subtle Casting: Active**
@@ -4651,8 +5249,11 @@ Dunk stands over you, his massive frame casting a protective shadow as the appre
 > 👤 **Player:**
 > *"Scout final brackets. Does this mean someone can challenge dunk?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Heralds' Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Subtle Casting: Active** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4668,8 +5269,11 @@ Every landless knight and ambitious squire in the Reach has seen a hedge knight 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Potential Challengers - Linger near the pavilions to see which knights are already boasting about challenging &#x27;the Giant&#x27; tomorrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Heralds' Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: Infinite (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Exhaustion: 0**
@@ -4683,8 +5287,11 @@ The crowd surges as a group of Lannister retainers pushes through to the central
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Tanselle&#x27;s Contacts - Try to find any puppeteers who haven&#x27;t fled yet; mummers often hear the lords&#x27; private talk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Puppeteers' Row, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 29 Dragons, 7 Silver** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Dragons: 29 | Silver: 7 | Coppers: 68** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Inspiration: No**
@@ -4698,8 +5305,11 @@ You find only the empty shells of stages and the rhythmic, hollow thud of crates
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate High Pavilions - Use Invisibility to slip into the noble feast area and eavesdrop on the lords directly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **High Pavilions Perimeter, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 29 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Dragons: 29 | Silver: 7 | Coppers: 68** &nbsp;|&nbsp; ⚠️ **Invisible | Exhaustion: 0**
@@ -4713,8 +5323,11 @@ You aim for the central Targaryen pavilion, where the most dangerous secrets are
 God Mode:
 Let's generate some future plot arcs after I get my dragon. I'll have Valyrian remanents as allies and enemies. These will be powerful servants who remember my family and want to see me rule not just Westeros but the world and people who are antagonistic and remember the doom and don't want me to bring fire and blood to the world
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Invisible | Exhaustion: 0 | Inspiration: No**
@@ -4722,8 +5335,11 @@ Let's generate some future plot arcs after I get my dragon. I'll have Valyrian r
 God Mode:
 Let's assume no one has true noble blood like me but maybe very small amounts or were servant families. My magic is the strongest etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp**
@@ -4731,8 +5347,11 @@ Let's assume no one has true noble blood like me but maybe very small amounts or
 God Mode:
 lets add an interaction today with a friendly remanent they don't know if i am true blood valryian but they suspect it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Invisible | Exhaustion: 0 | Inspiration: No**
@@ -4742,8 +5361,11 @@ lets add an interaction today with a friendly remanent they don't know if i am t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of the High Pavilions and encounter the friendly remnant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 29 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Dragons: 29, Silver: 7, Coppers: 68** &nbsp;|&nbsp; ⚠️ **Invisible | Exhaustion: 0 | Inspiration: No**
@@ -4761,8 +5383,11 @@ Inside, the air is thick with the scent of old parchment and dragon-bone char. A
 God Mode:
 lets assume my family was doing an apotheosis ritual that caused the doom. my allies remanents believe we should ascend and rule the world and the antagonists rightfully fear our power. work into future plot arcs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Invisibility (Active) | Exhaustion: 0**
@@ -4772,8 +5397,11 @@ lets assume my family was doing an apotheosis ritual that caused the doom. my al
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal Partially - Drop the Invisibility but keep the hat low, using your Royal Insight to gauge his loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 29 Dragons** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/2 | Gold Dragons: 29 | Silver Stags: 5200**
@@ -4793,8 +5421,11 @@ Outside, the rhythmic clatter of Targaryen plate passes by the silk wall. Vaelon
 > 👤 **Player:**
 > *"speak a phrase only a belaerys loyalist would know in high valeryian of nobleest dialect to test him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 29 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Gold: 29 Dragons, 5200 Stags**
@@ -4819,8 +5450,11 @@ Vaelon's violet eyes widen, a flicker of profound confusion crossing his weather
 
 1d20+6 = 9 vs DC 15 - Failure (Persuasion (Noble High Valyrian Test))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 29 Dragons, 5200 Stags** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Dragons: 29, Stags: 5200**
@@ -4836,8 +5470,11 @@ Outside, the rhythmic clatter of Targaryen guards continues, oblivious to the an
 > 👤 **Player:**
 > *"explain that i do not seek a throne, just a simple life as dunk squire, among  the people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4864,8 +5501,11 @@ Vaelon slowly raises his head, his pale violet eyes searching your face with a l
 
 Then ask about house peake"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 29 Dragons (5 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2**
@@ -4891,8 +5531,11 @@ Vaelon's face pales, the name of House Peake casting a cold shadow over his feat
 God Mode:
 summarize my lineage and future plot arcs without spoilers. i wanna inject this history in another campaign too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp**
@@ -4900,8 +5543,11 @@ summarize my lineage and future plot arcs without spoilers. i wanna inject this 
 God Mode:
 no change this, house peake shouldnt know about the valyria stuff, it was just land/gold they wanted and they didnt realize who they destroyed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -4909,8 +5555,11 @@ no change this, house peake shouldnt know about the valyria stuff, it was just l
 God Mode:
 lets assume that targaryens are beautiful, but I am a step above, due to my higher tier blood
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Inspiration: No**
@@ -4918,8 +5567,11 @@ lets assume that targaryens are beautiful, but I am a step above, due to my high
 God Mode:
 lets assume i also dont know about the apotheosis ritual, my allied remanants will reveal in time, if they think my true desire is ascent and otherwise just hint at it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Disguised (Silver), Exceptional Beauty | Inspiration: No**
@@ -4929,8 +5581,11 @@ lets assume i also dont know about the apotheosis ritual, my allied remanants wi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Vaelon in the pavilion, where he has just begun to speak of the Peakes and your &#x27;God-Queen&#x27; destiny.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Hidden: 1 Gold Dragon**
@@ -4961,8 +5616,11 @@ He leans in closer, his voice dropping to a conspiratorial whisper. "They do not
 
 Vaelon's face pales, the name of House Peake casting a cold shadow over his features. He rubs his weathered hands together, his eyes darting toward the silk walls as if the very mentions of the name might draw the attention of the Stormlords. "The Peakes..." he mutters, the name sounding like a curse. "They are the architects of the silence, Princess. They do not just fear your blood; they view it as a world-ending threat. They remember the ritual that brought the ash to the sky, and they have dedicated their line to ensuring the Apex never rises again. But their knowledge is fractured, a muddle of fear and half-forgotten scrolls.""*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Hidden: 1 Gold Dragon**
@@ -4978,8 +5636,11 @@ stop this, the peaks dont know antyhing about valryia, they thought my family wa
 
 Vaelon's face pales, the name of House Peake casting a cold shadow over his features. He rubs his weathered hands together, his eyes darting toward the silk walls as if the very mentions of the name might draw the attention of the Stormlords. "The Peakes..." he mutters, the name sounding like a curse. "They are the architects of the silence, Princess. They do not just fear your blood; they view it as a world-ending threat. They remember the ritual that brought the ash to the sky, and they have dedicated their line to ensuring the Apex never rises again. But their knowledge is fractured, a muddle of fear and half-forgotten scrolls."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -4989,8 +5650,11 @@ Vaelon's face pales, the name of House Peake casting a cold shadow over his feat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Vaelon regarding House Peake&#x27;s ignorance and the watchful knights in the meadow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 5 Dragons (Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Hidden: 1 Gold Dragon (Pouch) + 5 Gold Dragons (Boot)**
@@ -5014,8 +5678,11 @@ He pauses, a bitter edge to his voice. "They do not know of the Fourteen Flames 
 God Mode:
 no lets say i am the only survior, peaks callled them all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 30 Gold Dragons**
@@ -5025,8 +5692,11 @@ no lets say i am the only survior, peaks callled them all
 > 👤 **Player:**
 > *"tell vaelon i dont need anything, live his life and forget about me. i dont even want to be a targaryen let alone a belaerys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -5053,8 +5723,11 @@ He bows his head until it touches the earth, his shoulders shaking with silent s
 > 👤 **Player:**
 > *"recast invis and try invisible scouting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (25 Party)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Exhaustion: 0**
@@ -5070,8 +5743,11 @@ You freeze, your heart hammering a frantic rhythm against your ribs. The Targary
 > 👤 **Player:**
 > *"focus on the people who might challenge dunk, forget peake for now. lets assume peake doesnt care about me that much, they just wanted the land/gold and dont assume a survivor poses a thread"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 5gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Invisible (Active), Low Resources | Exhaustion: 0 | Inspiration: No**
@@ -5091,8 +5767,11 @@ They speak of Dunk as a novelty, a weak link in the chain of gods and lions that
 God Mode:
 i am invisibile in a low magic world, i think DC 15 is kind of high here? 1d20+2 = 6 vs DC 15 - Failure (Stealth (Escape Guards))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp**
@@ -5102,8 +5781,11 @@ i am invisibile in a low magic world, i think DC 15 is kind of high here? 1d20+2
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as you slip past the confused guards and decide your next move in the High Pavilions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **High Pavilions, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5 Dragons (Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Exhaustion: 0 | Inspiration: No**
@@ -5117,8 +5799,11 @@ As you reach the edge of the pavilion row, you catch the final, biting sneer of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Briefing: The Swarm - Tell Dunk that the lords view him as the weak link and he should expect multiple aggressive challenges tomorrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 0/2 | Exhaustion: 0 | Inspiration: No**
@@ -5138,8 +5823,11 @@ Dunk is silent for a long moment, the flickering flames casting long, wavering s
 God Mode:
 what are the rules? if 20 people challenge one person thats unfair in a single day
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5147,8 +5835,11 @@ what are the rules? if 20 people challenge one person thats unfair in a single d
 God Mode:
 is that really how it works in game of thrones or history?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp**
@@ -5158,8 +5849,11 @@ is that really how it works in game of thrones or history?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the briefing on the rise and prepare for the coming &#x27;Swarm&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 18, 209 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Slots: L1 4/4, L2 0/2** &nbsp;|&nbsp; ⚠️ **Disguised (Functional Obscurity) | Exhaustion: 0 | Inspiration: No**
@@ -5177,8 +5871,11 @@ Beyond the rise, the meadow is a hive of activity. You catch the distant, rhythm
 > 👤 **Player:**
 > *"give dunk advice, long rest and then go invis scout in the morning. While I am invis it should be easier to gain intel, not harder"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Ashford Meadow / High Pavilions** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Slots: L1 4/4, L2 1/2**
@@ -5196,8 +5893,11 @@ Your eyes scan the names (Investigation: 24 vs DC 12 - Success). You see the ord
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Dunk on Order - Return to camp immediately and give Dunk the specific names and sigils of the first four challengers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2**
@@ -5211,8 +5911,11 @@ Dunk turns, his grey eyes sharpening as he absorbs the names and sigils. He nods
 > 👤 **Player:**
 > *"assume i scouted the challengers while i was invis, give dunk the intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised | Inspiration: No**
@@ -5232,8 +5935,11 @@ He turns back to Thunder, his jaw set in a line of stubborn, weary pride. The in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Lord Mertyns - Suggest that Lord Mertyns&#x27; vouch should give the marshals pause if they try to force too many consecutive tilts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (PC) / 25 (Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Dragons: 1 (Hidden) / 30 (Secured)**
@@ -5253,8 +5959,11 @@ Dunk looks from the blue-and-white owls fluttering above back down to you. The m
 > 👤 **Player:**
 > *"see if i can convince the game master or whatever he's called to enforce gentlemans rule spacig"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 5gp (Personal) / 25gp (Party Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Dragons: 1 (Hidden) / 25 (Secured Pool)**
@@ -5272,8 +5981,11 @@ You retreat toward the rise, the weight of the coming 'Swarm' feeling heavier th
 God Mode:
 did you roll for that?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -5281,8 +5993,11 @@ did you roll for that?
 God Mode:
 why di the result change?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Stewards' Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -5292,8 +6007,11 @@ why di the result change?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as Silver returns to the rise with news of the &#x27;Reasonable Interval&#x27; rule.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Eastern Fringe Rise, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (25 secured)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Dragons: 1 (Hidden) / 25 (Secured Pool)**
@@ -5309,8 +6027,11 @@ Dunk lets out a long, ragged exhale, his massive shoulders losing a mountain's w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Vantage Point - Find a spot near the lists where you can use Subtle Casting or cues to guide Dunk during the tilts without being discovered.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Tournament Grounds, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 Dragons (Secured)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Dragons: 6 (Held) / 25 (Secured)**
@@ -5322,8 +6043,11 @@ You weave through the river of silk and steel, your mind mapping the geometry of
 God Mode:
 show my full class details
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp**
@@ -5331,8 +6055,11 @@ show my full class details
 God Mode:
 show what i get level by level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24.7 Dragons** &nbsp;|&nbsp; ⚠️ **Disguised (Silver), Hidden Targaryen features | Exhaustion: 0**
@@ -5342,8 +6069,11 @@ show what i get level by level
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume at the Ashford Meadow lists where you are searching for a vantage point for the tilts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 Dragons (5 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Gold: 24 Dragons (Held), 1 Hidden**
@@ -5357,8 +6087,11 @@ From this vantage point, you can see the white knuckles of the challengers and t
 > 👤 **Player:**
 > *"evaluate each challenge and give advice to dunk with signals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 Dragons (Held), 1 Hidden** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Slots: L1 4/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -5372,8 +6105,11 @@ Dunk doesn't turn his head, but you see the slight, resolute nod of his helmet. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Hand Signals - Use small gestures with your hat or hands to confirm the timing of the challengers&#x27; over-adjustments.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (1000 at Red Keep)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2 | Slots: L1 4/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Disguised (Silver), Functional Obscurity | Inspiration: No**
@@ -5396,8 +6132,11 @@ Dunk, catching the flash of your hand in his peripheral vision, adjusts his seat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Subtle Signals - Maintain the hat-adjustment cues to alert Dunk to Ser Hardy&#x27;s quick recovery flaws.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2**
@@ -5413,8 +6152,11 @@ Dunk, catchng the flash of your hand, doesn't aim for the center of the hawk. He
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Visual Cues - Continue using hat adjustments to signal Ser Hardy&#x27;s failing left flank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Disguised | Exhaustion: 0 | Inspiration: No**
@@ -5430,8 +6172,11 @@ Dunk, catching the flash of your hand, doesn't aim for the center of the hawk. H
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal the Final Blow - Provide the precise timing for Dunk to finish Ser Hardy on the return pass.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Disguised (Silver) | Exhaustion: 0 | Inspiration: No**
@@ -5447,8 +6192,11 @@ Dunk sees the flash. He doesn't just lunge; he drives. Following your cue with t
 > 👤 **Player:**
 > *"Melt crowd and misty step to a Better place using subtle spell with a good view. Signal dunk my new place. They shouldn't be able to find me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (Hidden 1)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Exhaustion: 0**
@@ -5464,8 +6212,11 @@ However, the rafters are not as empty as you hoped. Your sudden appearance in th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Charm Person - Subtle-cast Charm Person to make the page believe you are a friend who belongs here.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Ashford Meadow Lists (Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:47)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (1 Gold Dragon hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/4, L2 0/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Invisible (Lapsed) | Exhaustion: 0 | Inspiration: No**
@@ -5483,8 +6234,11 @@ Below, the rhythmic clatter of armor pauses. The Redwyne squires, already search
 > 👤 **Player:**
 > *"Hold his tray, subtle sleep, reposition somewhere else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Ashford Meadow Lists (Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:47)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1,800/2,700 | Gold: 24 (5 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 0/2 | Exhaustion: 0**
@@ -5498,8 +6252,11 @@ You cannot stay. Below, the 'gong' of the fallen tray has turned every head. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press into the Shadows - Attempt to wedge yourself into the dark corner where the roof meets the gallery wall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Ashford Meadow Lists (Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:47)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (6 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 0/2 | Slots: L1 [2/4], L2 [0/2] | Exhaustion: 0**
@@ -5517,8 +6274,11 @@ You remain motionless, a shadow within a shadow. Below, the thunder of hooves re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Risk a Whisper (Message) - Use the Message cantrip (Subtle) to whisper the tactical cue directly into Dunk&#x27;s ear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Ashford Meadow Lists (Royal Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:47)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 0/2 | Exhaustion: 0**
@@ -5536,8 +6296,11 @@ The impact is a sound like a falling mountain. Underleaf's lance catches the top
 God Mode:
 why are you offering misty step i have no lvl 2 spell slots left?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Ashford Meadow Lists (Royal Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:47)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp**
@@ -5545,8 +6308,11 @@ why are you offering misty step i have no lvl 2 spell slots left?
 God Mode:
 going forwarwd strack my spell slots properly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Ashford Meadow Lists (Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:47)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 5 Dragons, 24 Stags**
@@ -5556,8 +6322,11 @@ going forwarwd strack my spell slots properly
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the tension in the rafters; the guard is close and you are out of teleportation magic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Ashford Meadow Lists (Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 30 Dragons (Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 0/2 | Subtle Spell: Active** &nbsp;|&nbsp; ⚠️ **Out of Level 2 Spells | Exhaustion: 0 | Inspiration: No**
@@ -5571,8 +6340,11 @@ He lunges, his spear-tip questing for the space between your ribs. You throw you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Command: &#x27;Halt&#x27; - Use a Subtle Command to force the guard to freeze at the edge of the beam, buying you time to scramble past him toward the outer scaffolding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Ashford Meadow Lists (Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp (5 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 1/4, L2 0/2, Subtle Spell: Active, Inspiration: No** &nbsp;|&nbsp; ⚠️ **Out of Level 2 Spells | Spell Slots L1: 1/4**
@@ -5590,8 +6362,11 @@ Below, the world is a thunder of hooves and the roar of the ten thousand. Ser Ut
 > [!NOTE] ⚙️ **Player Choice:**
 > *Message: &#x27;Chin Down!&#x27; - Use your final Subtle casting to whisper a tactical warning to Dunk before leaping from the heights.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Ashford Meadow Lists (Royal Gallery Rafters)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 5gp (Hidden: 1 Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 1/4, L2 0/2 | Subtle Spell: Ready | Exhaustion: 0**
@@ -5603,8 +6378,11 @@ You cannot wait to see the impact. With the guard frozen by your command behind 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Feather Fall - Use your final Level 1 slot to slow your fall as you let go, drifting safely toward the crowd below.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Ashford Meadow Lists (Royal Gallery Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Subtle Spell: Ready | Exhaustion: 0**
@@ -5618,8 +6396,11 @@ Above, the Redwyne squires reach the cross-beam where you slipped, their burgund
 > 👤 **Player:**
 > *"THINK:any way i can help dunk and avoid detection"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Ashford Meadow Lists (Commoners' Pit)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (Hidden: 1, 5)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Subtle Spell: Ready** &nbsp;|&nbsp; ⚠️ **Out of Spell Slots | Exhaustion: 0 | Inspiration: No**
@@ -5631,8 +6412,11 @@ Coordinating the pieces of this chaos is genuinely challenging. (Intelligence Ch
 > 👤 **Player:**
 > *"THINK:Weave and Signal (Synergistic) - Melt into the crowd to approach Dunk while simultaneously scanning the stewards&#x27; table to see if they&#x27;re calling for a &#x27;Reasonable Interval&#x27; medic."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Ashford Meadow Lists (Commoners' Pit)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Subtle Spell: Ready** &nbsp;|&nbsp; ⚠️ **Out of Spell Slots | Exhaustion: 0 | Inspiration: No**
@@ -5644,8 +6428,11 @@ You realize that the chaos is your greatest shield. With your magical reserves d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Weave and Signal (Synergistic) - Melt into the crowd to approach Dunk while simultaneously scanning the stewards&#x27; table for the &#x27;Reasonable Interval&#x27; call.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Ashford Meadow Lists (Commoners' Pit)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:49)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 5 Dragons (Hidden)** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 0/2 | HD: 3/3** &nbsp;|&nbsp; ⚠️ **Out of Spell Slots | Subtle Spell: Ready**
@@ -5661,8 +6448,11 @@ Across the field, the green-and-white shield of Ser Uthor Underleaf is already w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Incite the Pit - Shout for &#x27;Fair Play&#x27; or &#x27;The Interval&#x27; to draw the crowd&#x27;s attention and force the stewards to look at the list.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Ashford Meadow Lists (Commoners' Pit)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:49)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Gold: 24, Silver: 5200** &nbsp;|&nbsp; ⚠️ **Disguised (Silver), Out of Spells | Exhaustion: 0 | Inspiration: No**
@@ -5680,8 +6470,11 @@ The stewards' table remains a muddle of frantic scrolls and shouting pages, obli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sprint to Stewards&#x27; Table - Abandon the crowd and run directly for the stewards to demand the &#x27;Reasonable Interval&#x27; in person, using your noble cadence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:49)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (PC) / 25 (Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Gold: 24, Silver: 5200**
@@ -5699,8 +6492,11 @@ You are shoved back from the table, stumbling into the white dust. Across the li
 > 👤 **Player:**
 > *"THINK:what can i do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:49)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 Dragons**
@@ -5710,8 +6506,11 @@ You pause as the dust of the steward's dismissal settles, your mind racing faste
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Royal Reveal (High Risk) - Wrench the hat off and reveal your Targaryen features fully. Use your innate authority to command the steward to halt the tilt and the squires to stand down. This will almost certainly trigger recognition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:49)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Silver: 5200 | Hidden Gold: 1**
@@ -5733,8 +6532,11 @@ Across the field, Ser Uthor Underleaf does not look at the stewards' table. He i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize the Marshal&#x27;s Horn - Lunge for the herald&#x27;s horn on the table and blow the signal for &#x27;Halt&#x27; yourself; the guards are too stunned to stop a Princess.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Silver: 5200** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Gold: 24, Hidden Gold: 1**
@@ -5752,8 +6554,11 @@ Across the turf, the rhythm of the charge shatters. Underleaf, conditioned by a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Stewards - Publicly order the stewards to bring water for the champions and declare the 15-minute interval. Use your High Valyrian dialect to intimidate them further.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1800/2700 | Gold: 24 (Hidden: 1)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Exhaustion: 0**
@@ -5775,8 +6580,11 @@ You gain **200 XP** for a major social victory and publicly establishing your ro
 > 👤 **Player:**
 > *"pretend I'm not a squire and the squire was someone else and I just happened to see this unfair situation.  secure dunk and ddemand water"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2200/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Publicly Recognized, Out of Spells | Exhaustion: 0**
@@ -5796,8 +6604,11 @@ You gain **150 XP** for a masterful tactical redirection and securing the field!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tend Dunk Publicly - Use the water to personally wash the dust from Dunk&#x27;s face, cementing the image of a high-born lady caring for a champion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2200/2700 | Gold: 24 (Hidden: 1, 1000 at Red Keep)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2** &nbsp;|&nbsp; ⚠️ **Publicly Recognized (Local) | Exhaustion: 0 | Inspiration: No**
@@ -5813,8 +6624,11 @@ The crowd watches in a hushed, reverent stupor. They see the 'boy' transformed i
 > 👤 **Player:**
 > *"THINK:can i just pretend i was never the squireand the squire ran away and i came in around the same time? prob most wouldnt believe i was acting like a squire?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2200/2700 | Gold: 24 (Reserves: 1000)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Gold: 24gp**
@@ -5826,8 +6640,11 @@ You stand in the swirling white dust of the lists, the weight of ten thousand ga
 > 👤 **Player:**
 > *"THINK:Brief Dunk on &#x27;The Fled Squire&#x27; - Whisper to Dunk that &#x27;Silver&#x27; ran away and you are here to help him; ensure he understands he must treat you as a stranger of high birth."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2200/2700 | Gold: 30 dragons** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Sorcery Points: 3/3**
@@ -5837,8 +6654,11 @@ You pause amidst the settling white dust, the damp cloth in your hand a mundane 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Dunk: &#x27;The Stranger&#x27; - Whisper that he must treat you as a Lady he has never met, and that &#x27;Silver&#x27; fled when the tray fell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2350/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Publicly Recognized (Targaryen) | Exhaustion: 0 | Inspiration: No**
@@ -5856,8 +6676,11 @@ You pull back, your expression shifting instantly to that of a cool, detached Ar
 God Mode:
 give me a +2 bonus on social checks to all targaryens. They dont all know I am a higher tier valyrian, but their instincts recognize me. put it into the narrative. When people see me I am a  tier above all targaryens in beauty, grace, regalness, nobleness etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp**
@@ -5865,8 +6688,11 @@ give me a +2 bonus on social checks to all targaryens. They dont all know I am a
 God Mode:
 this onyl applies when i am unmasked and using my real idnetiy, not disguised as silver or anyone else
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp**
@@ -5874,8 +6700,11 @@ this onyl applies when i am unmasked and using my real idnetiy, not disguised as
 God Mode:
 everyone thinks i am a targaryen, except the few who know my true bloodline (mixed targaryen and baelarys)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Publicly Recognized (Targaryen) | Exhaustion: 0 | Inspiration: No**
@@ -5885,8 +6714,11 @@ everyone thinks i am a targaryen, except the few who know my true bloodline (mix
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the lists as the Royal Box reacts to the &#x27;Witness&#x27; and her dazed champion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Publicly Recognized (Targaryen) | Exhaustion: 0 | Inspiration: No**
@@ -5912,8 +6744,11 @@ Baelor raises a hand, a quiet command for silence that even Aerion cannot ignore
 God Mode:
 no baelor and everyone in the targaryen royal family knows who i am
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 29gp**
@@ -5921,8 +6756,11 @@ no baelor and everyone in the targaryen royal family knows who i am
 God Mode:
 The targaryens know I am a targearyen and know me, but all dont know about the belaerys line
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -5948,8 +6786,11 @@ The targaryens know I am a targearyen and know me, but all dont know about the b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the lists as Baelor and Aerion approach their recognized kinswoman.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24 (5 Dragons)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Out of Spell Slots | Exhaustion: 0 | Inspiration: No**
@@ -5967,8 +6808,11 @@ Dunk remains perfectly still, his head bowed so low his chin touches his gorget.
 God Mode:
 i should be takinghte place of egg in the novella. maekar is my father, aerion my brother, i have dareon as a borther too etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp**
@@ -5978,8 +6822,11 @@ i should be takinghte place of egg in the novella. maekar is my father, aerion m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formally Petition the Hand - Address Baelor as the Hand of the King and request he personally oversee Dunk&#x27;s safety during the interval.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 29 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Exhaustion: 0**
@@ -6005,8 +6852,11 @@ Beside him, Aerion's predatory smirk returns, his silver-gold hair shimmering as
 God Mode:
 Aerion is my brother not baelor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -6016,8 +6866,11 @@ Aerion is my brother not baelor
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Double Gambit (Synergistic) - Appeal to Baelor&#x27;s honor to protect Dunk while simultaneously using your Apex authority to command the guards to form a perimeter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Publicly Recognized, Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -6035,8 +6888,11 @@ At your command, the Targaryen guards scramble to obey, their boots hitting the 
 God Mode:
 Baelor knows me, stop forgetting Prince Baelor 'Breakspear' halts five paces away, his violet eyes searching yours for a name he should know, while Aerion's predatory smirk begins to sharpen into a lethal focus.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -6046,8 +6902,11 @@ Baelor knows me, stop forgetting Prince Baelor 'Breakspear' halts five paces awa
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shield and the Shame (Synergistic) - Publicly dismiss Aerion&#x27;s claims as madness while privately briefing Baelor on the &#x27;squire&#x27;s flight&#x27; to align your stories.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Apex Presence (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6057,8 +6916,11 @@ Baelor knows me, stop forgetting Prince Baelor 'Breakspear' halts five paces awa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the &#x27;Double Gambit&#x27; to secure Dunk and manage your brothers&#x27; reactions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Ashford Meadow Lists** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2250/2700 | Gold: 24 (5 Dragons)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Features: Royal Insight (Active), Eyes of the Dragon (Passive)** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0**
@@ -6076,8 +6938,11 @@ At your command, the Targaryen guards scramble to obey, their boots hitting the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hand&#x27;s Escort (Synergistic) - Order the guards to escort Dunk to safety while simultaneously pulling Baelor aside to &#x27;brief&#x27; him—using the movement to isolate Aerion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:52)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24.7gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Slots Dry, Subtle Spell Ready** &nbsp;|&nbsp; ⚠️ **Publicly Recognized (Royalty), Apex Presence Active | Exhaustion: 0 | Inspiration: Yes**
@@ -6097,8 +6962,11 @@ Baelor looks down at you, his violet eyes softening into a look of profound, pat
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Royal Decree (Synergistic) - Formalize the &#x27;Witness&#x27; role with Baelor while simultaneously ordering the guards to move the perimeter to the Mertyns rise—securing both Dunk and your new base.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Ashford Meadow Lists (Stewards' Table)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:52)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Slots Dry, Subtle Spell Ready** &nbsp;|&nbsp; ⚠️ **Apex Presence (Active) | Exhaustion: 0 | Inspiration: No**
@@ -6116,8 +6984,11 @@ The guards scramble to obey, their boots thudding in a disciplined rhythm as the
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Champion&#x27;s Honor - Tell Baelor that you recognized Dunk&#x27;s true knightly heart at the inn and chose to guide him to Ashford to prove that honor exists outside of castles.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Ashford Meadow Lists (Stewards' Platform)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24 (Party Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Slots Dry, Subtle Spell Ready** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -6133,8 +7004,11 @@ Baelor 'Breakspear' watches you, his expression a mask of profound, weary contem
 God Mode:
 lets assume i am my fathers favourite child. i actually would be the best ruler and he wishes I was his heir, but i am youngest and a daughter. He is subtle about it but work it ito the narrative. and remember my father isn't in line for the throne and I'm last in line. He actually thinks in an ideal world i would be first in line, after baelor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Ashford Meadow Lists (Stewards' Platform)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24gp**
@@ -6144,8 +7018,11 @@ lets assume i am my fathers favourite child. i actually would be the best ruler 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request to Check the &#x27;Champion&#x27; - Ask Baelor for permission to personally ensure the knight&#x27;s recovery at the rise before returning to court.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Ashford Meadow Lists (Stewards' Platform)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (09:52)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24 (PC) / 25 (Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Slots Dry, Subtle Spell Ready** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -6170,8 +7047,11 @@ Baelor 'Breakspear' looks down at you, his expression a mask of weary, legalisti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Brief Dunk on the ruse while treating his injuries, then order the captain of the guard to sweep the perimeter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:07)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24 Dragons (10 hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Exhaustion: 0**
@@ -6191,8 +7071,11 @@ The guards scramble to obey, their boots thudding rhythmically against the dry R
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Dunk&#x27;s Mind - Use a sharp, royal command (or a subtle Prestidigitation chill) to snap him out of the daze so he can listen.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:12)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24 (1 Hidden Dragon)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0**
@@ -6214,8 +7097,11 @@ Satisfied, you step back, the 'Awe' of your blood lingering in the quiet air lik
 > 👤 **Player:**
 > *"Call Valearon and ask him to heal dunk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 1700/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0**
@@ -6235,8 +7121,11 @@ Dunk flinches as the 'friendly remnant' begins his work, his eyes wide and dazed
 > 👤 **Player:**
 > *"Let's assume I didn't call silver a coward. Further explain to dunk that silver had to go hide but I saw what was going on and intervened for the sake of justice. Polish myself first and have vaelron bring me nicer clothes so I look less like silver"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1**
@@ -6264,8 +7153,11 @@ Dunk swallows hard, his eyes fixed on your face with a mixture of terror and sou
 God Mode:
 Let's assume when I'm dressed properly I really stand out. I look like some valryian goddess the ideal of Targaryen / Valyrian beauty
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Cleaned Up | Exhaustion: 0 | Inspiration: No**
@@ -6273,8 +7165,11 @@ Let's assume when I'm dressed properly I really stand out. I look like some valr
 God Mode:
 Retcon me calling silver a coward. Say he was brave but had to flee
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Properly Dressed, Apex Presence | Exhaustion: 0 | Inspiration: No**
@@ -6284,8 +7179,11 @@ Retcon me calling silver a coward. Say he was brave but had to flee
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Tactical Briefing - Ensure Dunk remembers the specific flaws of the remaining challengers (Underleaf and Fossoway).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2450/2700 | Gold: 24gp (25 Pool)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1 | Hidden Gold: 1**
@@ -6305,8 +7203,11 @@ At the base of the hill, the Fossoway guards stand in a circle of steel, their s
 > 👤 **Player:**
 > *"Spend some time calming dunk down and give him something to indicate my favor like a hankerchief or ribbon. Try to improve his morale and tone down my royal presence and act cute. He should be surprised becuse I might be one of the rare nobles who's been respectful to him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2550/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1 | Hidden Gold: 1**
@@ -6333,8 +7234,11 @@ Dunk looks down at the bit of fine silk in his hand, his jaw working as if he's 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Instruct Vaelon&#x27;s Shadowing - Give Vaelon specific instructions on how to discreetly follow the tilts from the crowd to act as an emergency backup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2550/2700 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Princess Persona | Exhaustion: 0 | Inspiration: No**
@@ -6350,8 +7254,11 @@ Satisfied, you look down at the lists. The heralds' horns are sounding, a rhythm
 God Mode:
 Give me proper exp for recent wins and events and handling my reveal without being caught or freedom restricted
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Dragon Scholar | HP: 12/12 | XP: 2550/2700 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Cleaned Up | Exhaustion: 0 | Inspiration: No**
@@ -6361,8 +7268,11 @@ Give me proper exp for recent wins and events and handling my reveal without bei
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scan the Lists - Use the height of the rise to get one last tactical look at Underleaf&#x27;s mount and gear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -6410,8 +7320,11 @@ Dunk looks from the favor in his hand to your radiant features, a slow, determin
 God Mode:
 How many challengers has dunk faced so far?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6419,8 +7332,11 @@ How many challengers has dunk faced so far?
 God Mode:
 Why wasn't Lucas unhorsed?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons, 5200 Silver** &nbsp;|&nbsp; ⚠️ **Princess (Unmasked), Properly Dressed | Exhaustion: 0**
@@ -6428,8 +7344,11 @@ Why wasn't Lucas unhorsed?
 God Mode:
 Pick asi int2 and fix my spells I should be able to pick spells? And I shouldn't have level 3 spells yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Tunic | Exhaustion: 0 | Inspiration: No**
@@ -6437,8 +7356,11 @@ Pick asi int2 and fix my spells I should be able to pick spells? And I shouldn't
 God Mode:
 I should get to pick twonspells as a wizard right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6446,8 +7368,11 @@ I should get to pick twonspells as a wizard right?
 God Mode:
 Swap mirror image with hold person
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6455,8 +7380,11 @@ Swap mirror image with hold person
 God Mode:
 Wait shouldn't my int be 20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6464,8 +7392,11 @@ Wait shouldn't my int be 20?
 God Mode:
 Did I start the campaign with 18 int or 20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6475,8 +7406,11 @@ Did I start the campaign with 18 int or 20?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative atop Mertyns Rise as you prepare to return to the Royal Box.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: Infinite (Hidden: 1000 in Red Keep)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0**
@@ -6492,8 +7426,11 @@ You signal the Fossoway Captain at the base of the rise. He snaps to attention, 
 God Mode:
 Let's not have house peake agents after me. They don't care about me unless I do something to them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6501,8 +7438,11 @@ Let's not have house peake agents after me. They don't care about me unless I do
 God Mode:
 How does the reasonable interval work? Can 20 people still challenge dunk?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 25gp**
@@ -6510,8 +7450,11 @@ How does the reasonable interval work? Can 20 people still challenge dunk?
 God Mode:
 Wait in real life or game of thrones have 20 challengers ever happened?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -6519,8 +7462,11 @@ Wait in real life or game of thrones have 20 challengers ever happened?
 God Mode:
 With reasonable interval what's the max in one day now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -6528,8 +7474,11 @@ With reasonable interval what's the max in one day now?
 God Mode:
 Let's add a mechanic where the more he wins the more challenges drop out unless truly elite
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -6539,8 +7488,11 @@ Let's add a mechanic where the more he wins the more challenges drop out unless 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative and descend the hill toward Baelor and the Royal Box.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Tunic | Exhaustion: 0 | Inspiration: Yes**
@@ -6554,8 +7506,11 @@ Baelor gives a slow, somber nod, his hand resting briefly on the hilt of his swo
 > 👤 **Player:**
 > *"Signal Vaelon to hell me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Properly Dressed | Exhaustion: 0 | Inspiration: No**
@@ -6571,8 +7526,11 @@ From the commoners' pit, a boisterous roar of laughter erupts as Ser Lyonel Bara
 > 👤 **Player:**
 > *"Make a subtle remark to mock Aerion and see if he does something to the page. I can then point it out to baelor about his coin flip madness nature"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6590,8 +7548,11 @@ You turn your head toward Baelor 'Breakspear', your expression shifting to a mas
 > [!NOTE] ⚙️ **Player Choice:**
 > *Call for the Hand&#x27;s Shield - Directly ask Baelor to command Aerion to release the page, framing it as a matter of royal dignity before the crowd.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Properly Dressed | Exhaustion: 0 | Inspiration: No**
@@ -6609,8 +7570,11 @@ Below, the thunder of hooves returns as Ser Uthor Underleaf completes his pass, 
 God Mode:
 Wait this doesn't seem
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Properly Dressed | Exhaustion: 0 | Inspiration: No**
@@ -6618,8 +7582,11 @@ Wait this doesn't seem
 God Mode:
 Wait this doesn't make sense. Baelor is his uncle and heir to the throne. I don't think he'd let Aerion kill a page in front of him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Tunic | Exhaustion: 0 | Inspiration: No**
@@ -6627,8 +7594,11 @@ Wait this doesn't make sense. Baelor is his uncle and heir to the throne. I don'
 God Mode:
 Aerion is his nephew not his brother
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6638,8 +7608,11 @@ Aerion is his nephew not his brother
 > 👤 **Player:**
 > *"Narrate Baelor commanding Aerion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 (1000 in Reserves)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -6659,8 +7632,11 @@ Baelor ignores him, his hand resting briefly on your shoulder with a weary, pate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tend the Boy - Publicly care for the page to reinforce your image as a compassionate Lady of the Blood, further shaming Aerion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Resonance Active | Exhaustion: 0 | Inspiration: No**
@@ -6686,8 +7662,11 @@ The boy scrambles to his feet, bowing so low his forehead nearly hits your knees
 God Mode:
 Let's assume the Targaryen guards respect me because I treat them well and don't respect Aerion due to his cruelty and looking down on them. They're more likely to listen to me vs Aerion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6697,8 +7676,11 @@ Let's assume the Targaryen guards respect me because I treat them well and don't
 > [!NOTE] ⚙️ **Player Choice:**
 > *Locate the Shadow - Scan the commoners&#x27; pit to ensure Vaelon is in position to protect the eastern barrier from Redwyne interference.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 (Reserves: 1000)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Dressed in Ivory & Crimson**
@@ -6712,8 +7694,11 @@ Vaelon stands within the press, his soot-grey surcoat making him look like just 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on the Tilt - Directly point out Underleaf&#x27;s high-aiming bias to Baelor to ensure he sees the &#x27;fairness&#x27; you are defending.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:16)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -6740,8 +7725,11 @@ Scanning the eastern barrier once more, you confirm that Vaelon remains a silent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Watch the Tilt - Maintain your royal composure and watch the pass to see if Dunk follows your &#x27;chin down&#x27; guidance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:17)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: Infinite** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence, Apex Resonance | Exhaustion: 0**
@@ -6761,8 +7749,11 @@ Baelor's violet eyes remain fixed on the field, his jaw tightening with a slow, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Final Interval - Formally request Baelor to enforce a full 15-minute interval for the champions to clear the dust and water the horses before the final challenge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:32)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Properly Dressed | Exhaustion: 0 | Inspiration: No**
@@ -6789,8 +7780,11 @@ As the herald's horn sounds the three long notes of the Interval, you catch Aeri
 > 👤 **Player:**
 > *"THINK:Can I just go to dunk and help him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:32)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Persona | Exhaustion: 0 | Inspiration: No**
@@ -6800,8 +7794,11 @@ You pause as the herald's horn fades, the sunlight glinting off your ivory silk 
 > 👤 **Player:**
 > *"THINK:What if I provoke Aerion in a subtle way where I won't be blamed and I get him to attack me? Then he might be banned from the tournament or punished even more if he physically attacks me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:32)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6811,8 +7808,11 @@ You pause to consider the volatility of your brother. Aerion is a tinderbox, and
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Apex Dominance Trap - Activate &#x27;Aura of the Princess&#x27; to radiate such regal superiority that Aerion feels physically &#x27;lesser,&#x27; then quietly ask why the &#x27;Dragon&#x27; is trembling in his own box.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:33)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 25.7 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence Active | Aura of the Princess: 0/1**
@@ -6839,8 +7839,11 @@ Aerion flinches, his fingers spasming against the hilt of his sword as the magic
 > 👤 **Player:**
 > *"THINK:I want him to attack me as long as he doesn't kill me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:33)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Exhaustion: 0 | Inspiration: No**
@@ -6850,8 +7853,11 @@ You pause as the cold, volcanic weight of your presence settles over the box, yo
 > 👤 **Player:**
 > *"THINK:Mock the Hunter - Quietly whisper that while he was busy strangling pages, the &#x27;Silver&#x27; boy was laughing at him from the shadows, mocking his inability to track a commoner."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:33)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Aura Active | Inspiration: No**
@@ -6861,8 +7867,11 @@ You lean toward Aerion, the volcanic heat of your presence pressing against his 
 God Mode:
 That was an accident. I meant to go through with it not do a planning roll
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:33)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -6872,8 +7881,11 @@ That was an accident. I meant to go through with it not do a planning roll
 > 👤 **Player:**
 > *"Narrate the subtle mocking scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:33)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Exhaustion: 0 | Inspiration: No**
@@ -6891,8 +7903,11 @@ Aerion doesn't flinch. He doesn't wither under the 'Awe' of your blood this time
 > 👤 **Player:**
 > *"THINK:Remember I want him to strike but I need a way to not let him kill me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:33)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Exhaustion: 0 | Inspiration: No**
@@ -6902,8 +7917,11 @@ You pause as the sulfurous air of the Royal Box seems to thicken, your gaze fixe
 > 👤 **Player:**
 > *"Walk closer toward Baelor, further out of range, then turn back and give Aerion a look of contempt. Position it so Baelor cannot see and I'm mostly of of range where a sword blow would be unlikely"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:33)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: Infinity** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -6926,8 +7944,11 @@ Aerion’s knuckles go white as he grips his hilt, his chest heaving with a rhyt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Whisper to Baelor but make it loud enough for Aerion to hear. I want it to trigger him but want it to sound innocent*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Resonance active | Exhaustion: 0 | Inspiration: No**
@@ -6950,8 +7971,11 @@ The remark is a masterpiece of indirect provocation, framed as a concern for roy
 > 👤 **Player:**
 > *"Bait the outburst and position myself so Baelor can't see my pitying smile. Be ready to dodge use the dodge action and Aerion shoukd have disadvantage on his roll if he strikes because I'm aware of his attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Exhaustion: 0 | Inspiration: No**
@@ -6969,8 +7993,11 @@ Aerion remains slumped against the railing, his silver-gold hair disheveled, his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Shame - Quietly ask Baelor if he thinks Aerion is fit to remain in the box after such a display, forcing a public demotion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of Princess: 0/1** &nbsp;|&nbsp; ⚠️ **[Unmasked, Royal Tunic] | Exhaustion: 0 | Inspiration: No**
@@ -6997,8 +8024,11 @@ Aerion lets out a sharp, choked sound—a snarl that dies in his throat as the w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Vaelon (Tactical) - Use the silver-edged handkerchief to signal Vaelon that the &#x27;Brightflame&#x27; is contained, ordering him to move to the champions&#x27; entrance for the final tilt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Purity Recognized | Exhaustion: 0 | Inspiration: No**
@@ -7016,8 +8046,11 @@ Ser Steffon Fossoway, the Green Apple, wheels his mount at the far end of the li
 God Mode:
 How close was Aerion to actually trying to kill me with his sword?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked), Apex Bloodline Resonance | Exhaustion: 0 | Inspiration: No**
@@ -7025,8 +8058,11 @@ How close was Aerion to actually trying to kill me with his sword?
 God Mode:
 This was actually an accident. Go back in time and let me try something else Press the Shame - Quietly ask Baelor if he thinks Aerion is fit to remain in the box after such a display, forcing a public demotion.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -7036,8 +8072,11 @@ This was actually an accident. Go back in time and let me try something else Pre
 > 👤 **Player:**
 > *"Make sure Baelor can't see my face and give Aerion another mocking look and do dodge action. See if he draws steel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Dodge Stance | Exhaustion: 0 | Inspiration: No**
@@ -7051,8 +8090,11 @@ You enter a rhythmic, defensive flow, taking the Dodge action as you brace for t
 God Mode:
 No don't remove him from the box. Put me in the situation before I asked him removed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -7060,8 +8102,11 @@ No don't remove him from the box. Put me in the situation before I asked him rem
 God Mode:
 No listen to me. Go to the time before I ask him removed. It's just right after he lunges for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -7071,8 +8116,11 @@ No listen to me. Go to the time before I ask him removed. It's just right after 
 > 👤 **Player:**
 > *"THINK:How can I get Aerion to draw his sword without looking like I baited him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Dodge Stance | Exhaustion: 0 | Inspiration: No**
@@ -7082,8 +8130,11 @@ You pause, your mind racing through the tactical geometry of the Royal Box. Aeri
 > 👤 **Player:**
 > *"Another dodge action but get a bit closer so I am barely in his sword range. Then do the pity play"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1** &nbsp;|&nbsp; ⚠️ **Dodge Stance, Apex Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -7110,8 +8161,11 @@ But you were waiting. As the steel clears the scabbard, you enter a rhythmic, de
 > 👤 **Player:**
 > *"Dodge action again and just stand behind Baelor and let everyone subdue aerion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:34)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Dodge | Inspiration: No**
@@ -7144,8 +8198,11 @@ Ser Roland and Ser Donnel are already moving, their white cloaks a blur as they 
 > 👤 **Player:**
 > *"Act outraged and say loudly for everyone to hear that Aerion has the Targaryen madness side of the coin. This should be reasonable since he could've killed me. Then comfort the hand to remove baiting suspicion but honestly no amount of baiting justifies trying to kill me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 0/1** &nbsp;|&nbsp; ⚠️ **Dodge Stance | Exhaustion: 0 | Inspiration: No**
@@ -7172,8 +8229,11 @@ Baelor 'Breakspear' looks down at you, his violet eyes clouding with a profound,
 > 👤 **Player:**
 > *"Signal vaelon with a subtle mage hand right beside him. This should be easy DC because I use subtle spell and no one should notice and the mage hand should be a very clear signal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Exhaustion: 0 | Inspiration: No**
@@ -7189,8 +8249,11 @@ Baelor turns to you, his face a mask of weary, paternal sorrow as he gestures to
 > 👤 **Player:**
 > *"THINK:What's the max punishment I could suggest for aerion trying to kill me. Could he be executed or exiled?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Dodge Stance (Lapsed) | Exhaustion: 0 | Inspiration: No**
@@ -7200,8 +8263,11 @@ You pause as Baelor guides you toward the seat, your mind immediately shifting f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor Redwyne Picket - Use your Eyes of the Dragon to watch for any last-minute sabotage from the Arbor squires as Dunk prepares to mount.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:36)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 (1 Hidden)** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Dodge Stance | Inspiration: No**
@@ -7219,8 +8285,11 @@ Baelor 'Breakspear' looks down at you, his violet eyes reflecting a somber, pate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Suggest Exile to Lys - Quietly suggest to Baelor that Aerion be sent to the Free Cities (Lys) to &#x27;recover his senses,&#x27; effectively removing him from Westerosi politics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:41)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence Active | Exhaustion: 0 | Inspiration: No**
@@ -7246,8 +8315,11 @@ He draws a long, heavy breath, the administrative shield returning to his gaze. 
 God Mode:
 Failing the exile roll is fine but trying to kill me isn't that a deep crime? Baelor making it sound like it's no  big deal
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:41)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Dressed in Royal Silk | Exhaustion: 0 | Inspiration: No**
@@ -7257,8 +8329,11 @@ Failing the exile roll is fine but trying to kill me isn't that a deep crime? Ba
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Messenger Intel - Use your Royal Insight to eavesdrop on the messenger&#x27;s report to Baelor, identifying the nature of the &#x27;urgent&#x27; scroll from Lord Ashford.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:41)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Dodge Stance (Active) | Exhaustion: 0 | Inspiration: No**
@@ -7272,8 +8347,11 @@ However, the world chooses that moment to conspire against your scrutiny. The cr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor Final Tilt - Abandon the messenger for now and focus entirely on signaling Dunk for the Fossoway challenge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:42)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 25 GD (Party Pool)** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 0/2 | HD: 3/3 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Princess Persona**
@@ -7289,8 +8367,11 @@ You perform a sharp, rhythmic flick of the linen against the dark velvet of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Watch Final Pass - Maintain focus on the lists to provide any last-second cues to Dunk as the charge begins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:43)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -7310,8 +8391,11 @@ Dunk gallops to the end of the lists, his chest heaving, his hand still gripping
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Final Judgment - Formally ask Baelor to declare the defense complete and Dunk&#x27;s status as a Champion of the Meadow permanent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7329,8 +8413,11 @@ He turns away, his hand tightening on the railing as he signals the herald to an
 God Mode:
 Wait I only did that action because I thought it was legal. Isn't dunk done for the day?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp**
@@ -7338,8 +8425,11 @@ Wait I only did that action because I thought it was legal. Isn't dunk done for 
 God Mode:
 Why did Baelor not agree before? That didn't make sense ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -7347,8 +8437,11 @@ Why did Baelor not agree before? That didn't make sense ?
 God Mode:
 What are the rules? Other knights could keep challenging today?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -7356,8 +8449,11 @@ What are the rules? Other knights could keep challenging today?
 God Mode:
 Let's retcon and say I didn't ask for that. I thought when I asked it was legal to declare him done
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Dressed in Ivory & Crimson Royal Tunic | Inspiration: No**
@@ -7367,8 +8463,11 @@ Let's retcon and say I didn't ask for that. I thought when I asked it was legal 
 > 👤 **Player:**
 > *"Return to story and lead the applause. The implication is that he's the champion of the princess which should dissuade swarming or other foul play types of techniquees"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Inspiration: No**
@@ -7393,8 +8492,11 @@ He turns away, his jaw set in a line of immovable Targaryen pride, signaling the
 God Mode:
 Redo this scene. I was being more subtle not explicitly saying it. Just enthusiastically cheering him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -7404,8 +8506,11 @@ Redo this scene. I was being more subtle not explicitly saying it. Just enthusia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Royal Box with the adjusted, subtler interaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -7425,8 +8530,11 @@ He turns away, his jaw set in a line of immovable Targaryen pride, signaling the
 God Mode:
 Baelor reaction doesn't make sense. Pretty sure it's fine if I cheer
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7434,8 +8542,11 @@ Baelor reaction doesn't make sense. Pretty sure it's fine if I cheer
 God Mode:
 No don't let me win the roll. Let's just say I cheer but it doesn't hit the hard and dissuade dishonorable behavior
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -7443,8 +8554,11 @@ No don't let me win the roll. Let's just say I cheer but it doesn't hit the hard
 God Mode:
 No don't let me win the roll. I am cheering and Baelor is not suspicious but my cheering doesn't have any positive effect at dissuading dishonorable behavior against dunk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked), Apex Bloodline Resonance | Exhaustion: 0**
@@ -7454,8 +8568,11 @@ No don't let me win the roll. I am cheering and Baelor is not suspicious but my 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the railing, leading the applause with Baelor&#x27;s indulgent approval.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Radiant | Exhaustion: 0 | Inspiration: No**
@@ -7480,8 +8597,11 @@ Prince Baelor 'Breakspear' shifts beside you, his violet eyes losing their legal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire About the Scroll - Pivot to the messenger and ask Baelor what &#x27;urgent&#x27; business Lord Ashford has sent to the Hand during the games.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -7501,8 +8621,11 @@ He sighs, the administrative shield returning to his gaze as he tucks the scroll
 > 👤 **Player:**
 > *"THINK:How can I get access to dunk without arousing suspicion? Could I invite him to dinner with baelor to celberate? Could pitch it as Targaryen's redeeming their image by showing honor to commoner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1**
@@ -7512,8 +8635,11 @@ You pause, the ivory silk of your sleeves settling as you turn your mind inward 
 > 👤 **Player:**
 > *"Pitch redemption dinner but informal setting so dunk is more comfortable and it doesn't look like we are summoning him. We will go to a tavern like normal people and pay for everyone's food and drinks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -7540,8 +8666,11 @@ Prince Baelor 'Breakspear' turns his head, his violet eyes searching your face w
 > 👤 **Player:**
 > *"Narrate a scene where I explain to Baelor I'll go prepare ddunk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Publicly Recognized (Targaryen) | Exhaustion: 0 | Inspiration: No**
@@ -7559,8 +8688,11 @@ You glide toward the gallery stairs, your silver-gold hair a banner of liquid mo
 > 👤 **Player:**
 > *"Narrate  a scene where I tell Baelor I'll go prepare dunk so he ain't too freaked out. Let's assume I slip away from my guards on a regular basis so it's not too crazy how I met dunk and championed him, but my father was worried and Baelor insists a kings guard and a few Targaryen elites go with me. They'll let me have my privacy but my protection is absolute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Ashford Meadow (Royal Box)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -7582,8 +8714,11 @@ You glide toward the gallery stairs, the rhythmic, metallic clank of Ser Roland'
 > 👤 **Player:**
 > *"Narrate some dialog with the kings guard and Targaryen guards. They're all very fond of me and ask if I enjoyed myself slipping away this time. I know of the names of every Targaryen guard and inquire specific details about their families in friendly convo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Kingsguard/Elite Escort | Exhaustion: 0 | Inspiration: No**
@@ -7605,8 +8740,11 @@ They walk taller now, their spears held with a renewed, fanatical discipline. To
 > 👤 **Player:**
 > *"Brief dunk warm and informal. Use my acting to fully drop the noble persona. In a cute way ask him if I look familiar and tie my hair up the way it was when I was silver and see if he catches on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Escorted | Exhaustion: 0**
@@ -7628,8 +8766,11 @@ Dunk freezes, his eyes wide and glassy as they trace the lines of your face. He 
 > 👤 **Player:**
 > *"Give him a genuine apology for the deception. Explain I had been deeply depressed by my mother's death. I wanted to help him because he seemed like an honorable fellow and preparing him for the tournament was truly my first victory ever shared with a friend where my royal name wasn't a factor. Say I wish I could be his real squire forever, but for as long as I can I'll help him anyway I can"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Kingsguard/Elite Escort | Inspiration: No**
@@ -7649,8 +8790,11 @@ Dunk finally looks up, his eyes glassy, holding a mixture of reverence and a dee
 > 👤 **Player:**
 > *"THINK:How to best ge through to him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence Active | Exhaustion: 0 | Inspiration: No**
@@ -7660,8 +8804,11 @@ You pause as the midday sun beats down upon the rise, your mind racing to bridge
 > 👤 **Player:**
 > *"Invoke the ditchbbond but use genuine emotion that doesnt sound like i was being a tourist. I went way beyond scrubbing the mail, fighting bandits, stuffing to fix the door. A slumming tourist doesn't put that much time and energy and even risk their life"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -7681,8 +8828,11 @@ Dunk's jaw works silently, a muscle jumping in his cheek as he looks down at you
 > 👤 **Player:**
 > *"Smile and say we still have work to do whether I'm a princess or a squire. Start scouring the shield with him and preparing things for tomorrow jousting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Dressed in Royal Silk | Exhaustion: 0 | Inspiration: No**
@@ -7702,8 +8852,11 @@ Dunk watches you for a long, breathless heartbeat. He looks at the sand in your 
 God Mode:
 Don't change the roll but are these rolls actually code execution?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7713,8 +8866,11 @@ Don't change the roll but are these rolls actually code execution?
 > 👤 **Player:**
 > *"Step out for a moment and ask my guards to hide behind trees so they're still near but out of sight (should be easy DC) then continue to do chores with dunk and say my mother would've liked him as we do chores. Also do the  chores to a really high level for real to remind him of what we shared"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Kingsguard Protected | Exhaustion: 0 | Inspiration: No**
@@ -7736,8 +8892,11 @@ Dunk watches your hands, his eyes glassy and distant. He hears your mention of y
 God Mode:
 Retcon and let me win my chores roll
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Unmasked, Ivory & Crimson Royal Tunic | Exhaustion: 0 | Inspiration: No**
@@ -7747,8 +8906,11 @@ Retcon and let me win my chores roll
 > 👤 **Player:**
 > *"Redo the scene and describe the chores being done well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence, Guard Escort (Hidden)**
@@ -7770,8 +8932,11 @@ Dunk watches your hands, the glassy distance in his eyes finally shattering. He 
 > 👤 **Player:**
 > *"THINK:What's the next best way to make him comfortable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Dressed in Royal Silk | Exhaustion: 0 | Inspiration: No**
@@ -7781,8 +8946,11 @@ You pause as the rhythmic scrape of the whetstone and the scrub of the sand crea
 > 👤 **Player:**
 > *"The silver command and gently tell him to call me silver when it's just us instead of my lady"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Ditchbond Restored | Exhaustion: 0 | Inspiration: No**
@@ -7802,8 +8970,11 @@ He maintains his respectful, agonizing distance, the title 'My Lady' serving as 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare and Strategize - Let the name issue rest for a moment while you order Vaelon to fetch supplies and begin the political briefing for the dinner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -7823,8 +8994,11 @@ You attempt to coordinate the move, gesturing for Dunk to continue with the gear
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Uncrowned&#x27;s Seal - Give Vaelon a specific token (like a signet or coin) to give him a clear, physical objective, reducing his confusion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons, 5200 Silver** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1**
@@ -7844,8 +9018,11 @@ You turn back to Dunk, giving him a small, stubborn smile. The giant remains hun
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Drunkard&#x27;s Variable - Brief Dunk on your brother Daeron. Tell him that if a drunkard stumbles into camp, he is to be treated with pity, not steel, as he is the key to Baelor&#x27;s mood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (13:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Ditchbond Restored | Exhaustion: 0 | Inspiration: No**
@@ -7872,8 +9049,11 @@ Dunk's whetstone pauses mid-stroke. He looks up at you, his brow furrowing as he
 > 👤 **Player:**
 > *"Brief dunk on the political situations Baelor in the shield basically"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7893,8 +9073,11 @@ Down the hill, the first of the Fossoway stewards has appeared at the perimeter 
 > 👤 **Player:**
 > *"Simplify the pitch. And then make a joke to ease the tension and say didn't he mention he wanted to serve in a great house? He has the favor of a princess of a great house. This should be easy DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Inspiration: No**
@@ -7923,8 +9106,11 @@ Dunk looks down at you, the muddle in his eyes finally beginning to clear. The m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Gear Check - Stay with Dunk for five more minutes to ensure his tunic and shield are perfect for Baelor&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1**
@@ -7960,8 +9146,11 @@ You step back, wiping a speck of imaginary dust from your ivory sleeve, satisfie
 > 👤 **Player:**
 > *"Narrate dunk internal thoughts. Now that he's more comfortable he's extremely impressed by me and devoted. He's never heard of a princess or even a prince as capable and honorable as me. I even risked my life fighting bandits, took a wound, saved tanselle twice once from bandits and once from my brother(assume I told him about that too). And all while being 10 years old and being an expert in jousting (things a woman usually doesn't know)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7986,8 +9175,11 @@ He doesn't just bow this time; he sinks to one knee with the rhythmic, heavy thu
 > 👤 **Player:**
 > *"Tell Dunk it is I who is honored. Then await the drunkard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0**
@@ -8005,8 +9197,11 @@ You settle onto the fallen chestnut log, your posture a masterpiece of Targaryen
 > 👤 **Player:**
 > *"Private greeting and welcome daeron warmly and give him some water. He should be happy to see me we are very fond of each other"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -8026,8 +9221,11 @@ He lets out a shaky, half-drunk laugh and allows you to guide him from the wagon
 > 👤 **Player:**
 > *"Narrate more internal thoughts from Dunk. He doesn't say anything out loud but just thinks back to all the moments he shared with me and he realizes that I was never a normal squire. My capabilities and bravery were far higher than even most great knights. If i was a man his age he'd stand no chance against me jousting or sparring. He realizes he saw glimpses of my true royalty and nobility and something always seemed a bit off that a 10 year old squire was like this but now it makes more sense. He even notices how i seem a tier above the other Targaryens in beauty, capabilities, and nobility of spirit. I'm only 10 now and likely as I get older and even more impressive tales and legends about me will be told for thousands of years. He seriously thinks this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Kingsguard Escort, Unmasked | Exhaustion: 0 | Inspiration: Yes**
@@ -8041,8 +9239,11 @@ He watches you now, tending to the 'Drunkard' Prince with a grace that is a tier
 > 👤 **Player:**
 > *"Sober up the prince. Also remind him that I will never judge him for his drinking. His dreams are a gift and a curse and are a heavy burden to carry. I'm the only one who doesn't judge him and it lifts his spirits to hear it again. Dunk is also impressed by my great empathy and noble character"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/3, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Properly Dressed, Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -8062,8 +9263,11 @@ Behind you, Dunk stands like a stone sentinel, his massive hand resting on the p
 > 👤 **Player:**
 > *"Introduce daeron to dunk and say dunk is probably the star I didn't let fall. Praise dunk for his tournament victories and tell daeron about them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/3 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -8081,8 +9285,11 @@ Dunk looks from the Prince to you, his weathered face a battlefield of bashful p
 > 👤 **Player:**
 > *"Ask Daeron if he feels comfortable to share anything more about his dreams or things that could help dunk and me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/3 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -8102,8 +9309,11 @@ Down the hill, the quiet of the rise is broken by the rhythmic, authoritative ch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comfort Daeron and Signal Steward - Quietly comfort Daeron to prevent a full episode while signaling the Fossoway steward to begin the table setup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/3 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8119,8 +9329,11 @@ Behind you, Dunk stands as a silent, armored monolith, his massive hand never le
 > [!NOTE] ⚙️ **Player Choice:**
 > *Polish the Drunkard - Use Prestidigitation and Vaelon&#x27;s help to quickly clean Daeron&#x27;s surcoat and hair before Baelor sees him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/3 | Aura: 0/1**
@@ -8138,8 +9351,11 @@ Behind you, Dunk stands as a silent, armored monolith, his massive hand never le
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shaded Prince - Seat Daeron with his back to the setting sun so the shadows mask the wrinkles in his surcoat and the fatigue in his eyes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1 | Sorcery: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8157,8 +9373,11 @@ Behind you, Dunk stands as a silent, armored monolith, his massive frame shieldi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate the Welcome - Direct Vaelon to handle the wine and the spill while you position Dunk as the primary greeter and you anchor Daeron&#x27;s focus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1 | Sorcery: 4/4** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -8185,8 +9404,11 @@ By the time Prince Baelor 'Breakspear' reaches the crest, the scene is a masterp
 > 👤 **Player:**
 > *"Narrate baelor internal thoughts. He should be impressed by me finding daeron and taking care of him and the table setup. And I'm only 10 years old"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -8204,8 +9426,11 @@ He turns his gaze toward Daeron, whose haloed silhouette remains steady in the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Knight&#x27;s Tale - Encourage Dunk to speak of Ser Arlan and the Pennytree, humanizing the champion to bridge the gap between Baelor and the road.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 3750/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: Yes**
@@ -8227,8 +9452,11 @@ You catch Dunk's eye and offer a small, triumphant smile. The gap has been bridg
 > 👤 **Player:**
 > *"Let's adjust baelor response. He actually remembers Ser Arlan like in the books"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1**
@@ -8253,8 +9481,11 @@ Dunk looks from the Prince to you, his weathered face a mask of profound, soul-s
 > 👤 **Player:**
 > *"Baelor broke 4 lances against ser arlan like in the book. Add that in too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1**
@@ -8272,8 +9503,11 @@ Down the hill, the chime of bells signals the start of the evening's public fest
 > 👤 **Player:**
 > *"Say that dunk is a very promising knight and unseated or defeated many other champions in the tourney. What if he took up service with house Targaryen? Let's assume I actually have the full authority to hire him if I want so I don't need permission  but if Baelor voiches for him and encourages him it'll make his transition easier since dunk is lower status etc. don't say that explicitly let it be nuanced"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance (+2 Social vs Targaryens) | Inspiration: Yes**
@@ -8300,8 +9534,11 @@ Dunk looks at you, his jaw working silently as he processes the staggering weigh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solidify the Vow - Gently confirm Dunk&#x27;s interest in service while Baelor is present, making the arrangement official in the eyes of the Hand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Sorcery: 4/4, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -8328,8 +9565,11 @@ Prince Baelor 'Breakspear' watches the exchange with a profound, startled respec
 > 👤 **Player:**
 > *"Narrate Baelor internal thoughts. He's impressed with the devotion I've cultivated and how I can be a true leader or maybe already am. He contrasts me to Aerion and Daeron and thinks it's a shame I'm not the eldest male child. These are all private internal thougths"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Apex Presence (Unmasked) | Exhaustion: 0 | Inspiration: Yes**
@@ -8341,8 +9581,11 @@ Inside Baelor’s mind, the legalistic architecture of the Seven Kingdoms is bei
 > 👤 **Player:**
 > *"Narrate further private thoughts. He loves his sons but they aren't close to me even thought they're way older. And when they were ten years old the distance was so fast it's like a different species"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -8356,8 +9599,11 @@ He remembers when Aerion was ten; even then, there was a jagged, impulsive cruel
 > 👤 **Player:**
 > *"His internal thoughts compare me to his own sons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Sorcery: 4/4, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Properly Dressed, Unmasked | Exhaustion: 0 | Inspiration: Yes**
@@ -8371,8 +9617,11 @@ Baelor realizes with a startle of profound, melancholy respect that you have byp
 > 👤 **Player:**
 > *"Internal thoughts he compares me to Valarr and Matarys in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Publicly Recognized | Exhaustion: 0 | Inspiration: No**
@@ -8388,8 +9637,11 @@ Baelor realizes with a startle of profound, melancholy respect that you possess 
 > 👤 **Player:**
 > *"A final private word. Just ask for fairness and or favoritism"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24 Dragons** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Sorcery: 4/4 | Aura: 0/1**
@@ -8407,8 +9659,11 @@ He rises then, the purple and gold of his surcoat catching the firelight as he s
 God Mode:
 Let's assume Baelor knows about my Belaerys blood too as does my father and Baelor father king dareon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8418,8 +9673,11 @@ Let's assume Baelor knows about my Belaerys blood too as does my father and Bael
 > [!NOTE] ⚙️ **Player Choice:**
 > *Quiet Inquiry with Daeron - Now that he is sober and Baelor is gone, try to gently draw more specifics about the &#x27;Graveyard&#x27; dream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8441,8 +9699,11 @@ Daeron flinches, the silver-gold matted strands of his hair shivering in the fir
 > 👤 **Player:**
 > *"Narrate baelor internal thoughts of the baelerys blood in me. He muses that perhaps they were different and he remembers my mother, but he doesn't remember my mother having capabilities like me either but she def stood out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Aura of the Princess (Cooldown) | Exhaustion: 0 | Inspiration: No**
@@ -8456,8 +9717,11 @@ Baelor muses that perhaps the Belaerys were fundamentally different from the mai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor and Listen - Don&#x27;t press for names; simply keep him talking about the &#x27;dragons&#x27; teeth&#x27; and what they felt like.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance, Apex Presence, Superior Lineage, Royal Presence**
@@ -8473,8 +9737,11 @@ Behind you, the massive shadow of Dunk remains perfectly still. The giant doesn'
 > 👤 **Player:**
 > *"Tell daeron there's a secret I should tell him. I didn't mention it before because I didn't think it would help anything but it may be related to his prophecy. Then explain my baelerys bloodline and how it might be connected to 1000 dragon teeth and 14 flames. SignalValaeron to introduce himself and reveal himself as a baelerys ally. Explain this all to dunk too so he doesn't feel excluded"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -8501,8 +9768,11 @@ Daeron stares at you, his violet eyes widening with a sudden, bone-deep realizat
 > 👤 **Player:**
 > *"Let's have Daeron stabilized and he tells us more detail about the prophecy. The bloodline info was key and he's less confused and afraid now that he knows what's going on. He's had this particular dream all his life"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -8518,8 +9788,11 @@ Dunk stands like a stone monolith at the perimeter, his massive hand resting on 
 God Mode:
 Change this house peake thing everywhere in game state. They don't know about the bloodline and didn't realize baelryrs was a special houses stop introducing them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance | Exhaustion: 0 | Inspiration: No**
@@ -8527,8 +9800,11 @@ Change this house peake thing everywhere in game state. They don't know about th
 God Mode:
 Return to Story - Resume the evening conversation with Daeron and Dunk.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 0/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance | Exhaustion: 0 | Inspiration: No**
@@ -8544,8 +9820,11 @@ He looks from you to Dunk, then to the silent Vaelon waiting in the shadows. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Map the Breathing Tower - Ask Daeron for specific geographic markers from his dream to identify the tower&#x27;s location.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 0/1, Success Streak: 12** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: Yes**
@@ -8569,8 +9848,11 @@ Behind you, Dunk stands like an armored monolith, his massive hand resting on th
 God Mode:
 Let's assume that daeron cuts down his drinking by 50% after learning about my bloodline and becomes a lot more lucid. Things that haunted him his whole life starts to make sense. As we uncover more mysteries he becomes more lucid and stronger and powerful. He's also actually not a coward when something important is at stake and has a deep desire to support and protect me. Internally he's thinking of abdicating inheritance in my favor but unfortunately there's Aerion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2**
@@ -8580,8 +9862,11 @@ Let's assume that daeron cuts down his drinking by 50% after learning about my b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Vaelon&#x27;s Lore - Ask Vaelon if his records of the Belaerys diaspora mention a tower or prison in the Dornish Marches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Aura: 1/1, Success Streak: 13** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -8599,8 +9884,11 @@ Beside the fire, Daeron's eyes widen, the lucidity you've won for him sharpening
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Laboratory Function - Ask Vaelon what the Belaerys were specifically &#x27;preserving&#x27; in the White Throat to understand the potential threat or power within.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -8618,8 +9906,11 @@ Beside you, Daeron shudders, his face pale in the firelight as the geographic ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Extraction Risks - Ask Vaelon if the lore mentions how the Belaerys intended to &#x27;wake&#x27; these embers, identifying the risks of the tower being breached.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0**
@@ -8635,8 +9926,11 @@ Dunk shifts his weight, the armor clattering softly as he maintains his perimete
 > 👤 **Player:**
 > *"Give daeron a smile and ask if he feels better now that he knows the truth. Then ask vaelon more about the embers. They are souls of dragons? How were they created? If I act as a bridge can i bring back the dragons or combine multiple souls into one dragon?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -8660,8 +9954,11 @@ Beside you, Daeron's gaze fixes on you with a profound, soul-deep support. He do
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire About the &#x27;Conductor&#x27; Ritual - Ask Vaelon for the specific requirements of the &#x27;Vogar Pelios&#x27; to understand the physical and magical cost of acting as a bridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -8677,8 +9974,11 @@ Daeron watches you with a new, somber clarity, his violet eyes sharp with the we
 > 👤 **Player:**
 > *"Ask what happened during the doom of Valeria. Was it a similar ritual gone wrong and the conductor or conductors couldn't handle it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -8707,8 +10007,11 @@ Dunk stands at the perimeter, his massive hand resting on the shooting star of h
 > 👤 **Player:**
 > *"Give daeron a proud look. Explain that I'm truly proud of him. He held on this long and now all is revealed. His dreams and knowledge will save many lives once we avoid another mini doom of Valyria"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Secret Pouch: 1 Gold Dragon** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -8726,8 +10029,11 @@ Dunk stands at the perimeter, his massive hand resting on the pommel of his swor
 > 👤 **Player:**
 > *"Ask vaelron quietly if he can reactivate the friendly remnants network. How many more are they? Tell them I will reclaim my bloodline and we need all of them to prevent the mini doom"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Secret Pouch: 1 Gold Dragon**
@@ -8753,8 +10059,11 @@ Beside you, Daeron sits tall, his lucidity holding firm as he listens to the cou
 God Mode:
 Let's assume the guards heard some stuff but not everything. They are also loyal to me so they wouldn't tell on me unless I was in danger or was gonna do something evil like kill Baelor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp**
@@ -8764,8 +10073,11 @@ Let's assume the guards heard some stuff but not everything. They are also loyal
 > 👤 **Player:**
 > *"Say we will finish the tournament and plan this expedition. We need to either bring my father and bselor in or hide it . Ask daeron if he thinks our father and baelor will go for it. He's surprised since no one ever asks him things but he does know them both well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Inspiration: No**
@@ -8785,8 +10097,11 @@ Daeron flinches, a look of profound, startled surprise crossing his face. He bli
 > 👤 **Player:**
 > *"Prep shadow expedition but I will prove my father and Baelor to get a read. This is just planning don't leave this scene yet. Let's also have the scouts or spies come to the tournament to help us smoothen things before the expedition"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1 | Dragon's Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: Yes**
@@ -8802,8 +10117,11 @@ Dunk stands beside you, a mountain of iron and fanatical devotion. He looks at t
 > 👤 **Player:**
 > *"Give dunk a choice. Tell him that this will be extremely dangerous and if he doesn't want to come it's ok. I sm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1 | Dragon's Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Apex Presence, Superior Lineage | Exhaustion: 0 | Inspiration: No**
@@ -8821,8 +10139,11 @@ Dunk stands as motionless as a stone monolith, his massive frame nearly swallowi
 > 👤 **Player:**
 > *"Propose a white lie plan. What if we say daeron has recovered from his alcoholism but it's a fragile thing. I acquired herbs and medicine from a healer but my new servant vaelon knows of a greater healer where they came from near the white throat place we are supposed to go. We ensure the Targaryens they send with us are truly loyal. They will see daeron new clarity and be convinced there's a chance he can be healed. Apologize to daeron that his condition would be used like this but we cannot allow a small doom of valaryia to kill thousands. Anyway this white lie plan is one approach we can consider if more official support unlikely"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1 | Dragon's Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance | Exhaustion: 0 | Inspiration: No**
@@ -8844,8 +10165,11 @@ Dunk gives a slow, solemn nod, his massive hand resting on the shooting star of 
 God Mode:
 Give me two older sisters like the sisters egg has from the novella
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp**
@@ -8855,8 +10179,11 @@ Give me two older sisters like the sisters egg has from the novella
 > 👤 **Player:**
 > *"Let's narrate a scene with maekar arriving without me. He travels with my sisters and he greets baelor anxious to hear I'm ok. Baelor also takes him aside and privately tells him about Aerion trying to kill me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Ashford Meadow (Royal Pavilion Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -8876,8 +10203,11 @@ Maekar freezes, his face turning a shade of grey that rivals the Ashford dust. T
 > 👤 **Player:**
 > *"Let's have maekar be relieved I'm ok and tell my sisters to go get me. He sends them away while he deals with Aerion. Narrate the scene without me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Ashford Meadow (Royal Pavilion)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1 | Dragon's Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -8895,8 +10225,11 @@ Rhae doesn't wait for a second command. She catches Daella by the wrist, her eye
 > 👤 **Player:**
 > *"Let's have another scene without meZ maekar goes with Baelor to confront Aerion and beats him until Baelor stops it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Ashford Meadow (Royal Pavilion)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: Yes**
@@ -8918,8 +10251,11 @@ Maekar freezes, his chest heaving, his knuckles slick with his son's blood. He l
 God Mode:
 How old is aerion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Ashford Meadow (Royal Pavilion)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp**
@@ -8929,8 +10265,11 @@ How old is aerion
 > 👤 **Player:**
 > *"Maekar says to Aerion I don't care if she provoked you. Even if she did she is 10 and you drew steel and attempted to kill her. What kind of madness do you have? Narrate this without me there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Ashford Meadow (Royal Pavilion)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura of the Princess: 1/1 | Dragon's Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: Yes**
@@ -8958,8 +10297,11 @@ Maekar shoves him back into the dark, turning his back with a sharp, rhythmic sn
 God Mode:
 What would be a likely punishment?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Ashford Meadow (Royal Pavilion)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp**
@@ -8969,8 +10311,11 @@ What would be a likely punishment?
 > 👤 **Player:**
 > *"Narrate another scene without me. Maekar leaves Aerion and talks to Baelor. He starts considering execution or the wall but admits as bad as Aerion is perhaps he is just mad and didn't know what he was doing. Then maekar proposes exile"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Ashford Meadow (Royal Pavilion)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 1/1 | Sight: 1/1**
@@ -8990,8 +10335,11 @@ Baelor remains silent for a long heartbeat, the administrative weight of the Cro
 > 👤 **Player:**
 > *"Let's have maekar give the order and the Targaryen household guards take him away from the tournament and on a journey to Lys. The guards are secretly overjoyed. Narrate this without me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Ashford Meadow (Royal Pavilion / Champions' Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 1/1 | Sight: 1/1**
@@ -9017,8 +10365,11 @@ He signals with a sharp, rhythmic snap of his gauntlet. Instantly, the three Tar
 God Mode:
 Let's assume some nameless guards escort Aerion in exile and keep those named guards assigned to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Royal Pavilion / Mertyns Rise Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -9028,8 +10379,11 @@ Let's assume some nameless guards escort Aerion in exile and keep those named gu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on Mertyns Rise as Daella and Rhae arrive to find you with Dunk and the lucid Daeron.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24 (10 Hidden)** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 1/1 | Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Unmasked, Apex Presence | Exhaustion: 0 | Inspiration: No**
@@ -9047,8 +10401,11 @@ Rhae follows more slowly, her eyes tracking the towering figure of Dunk and the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Daeron&#x27;s Lucidity Play - Have Daeron speak to the sisters with his newfound clarity, reinforcing the idea that he is now a protector rather than a burden.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9073,8 +10430,11 @@ Rhae watches him, her sharp curiosity warring with a sudden, profound relief. Sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Introduce the &#x27;Steward&#x27; - Present Vaelon to the sisters as the master of the White Hills who provided the restorative brew.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance | Exhaustion: 0 | Inspiration: No**
@@ -9101,8 +10461,11 @@ Daella looks from Rhae to you, her hands still trembling with joy but now cloude
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Prince&#x27;s Protection - Have Daeron intervene, claiming Vaelon saved his life and that his appearance is a result of the &#x27;trials of the high passes&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 1/1 | Sight: 1/1**
@@ -9127,8 +10490,11 @@ Rhae freezes, the skepticism in her eyes shattering like glass. She looks from D
 > 👤 **Player:**
 > *"Narrate their reaction in detail. They stop questioning it and are overjoyed. Retcon thr story a bit to say it's me who found vaelon and Daeron says I'm the hero of the day. The lie is easy to use because it is true in spirit i did find vaelon and i am responsible for daeron healing albeit not from herbs. So Dareon gratitude to me is genuine and easy for him to act"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance (+2 Social vs Targaryens) | Inspiration: No**
@@ -9155,8 +10521,11 @@ Daella lets out a sob of pure, unadulterated joy, rushing forward to pull you an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce the Need for Permanence - Explain that while Vaelon has stabilized Daeron, the &#x27;Master&#x27; in the Marches holds the secret to making this clarity permanent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4050/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 0/2 | Aura: 1/1 | Sight: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apex Presence (Active), Success Streak: 28**
@@ -9186,8 +10555,11 @@ You gain **200 XP** for reinforcing the 'White Lie' and securing the sisters' fa
 > 👤 **Player:**
 > *"Explain to sisters that a small group would be better so we don't spook the masters and best if Daeron and I go with a small guard. Say we will spend time together during the tourney and then do a quick trip to the marshes after and be back soon but we need father to agree"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4450/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9203,8 +10575,11 @@ Daella wipes a silvery tear from her cheek, her expression shifting from relief 
 > 👤 **Player:**
 > *"I go to father now with my sisters and Dareon and vaelan. Vaelon has the aura of a valryian servant so he's likely to be accepted. My father is too tired to be angry with me and just pulls me into an embrace and says he's happy I'm safe. He says to forgive my brother who's probably mad and sadly must be exiled. He then notices Daeron is healed and asks Daeron what's going on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **Mertyns Rise / Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4250/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -9222,8 +10597,11 @@ His gaze shifts then, moving past you to the figure at the head of your retinue.
 > 👤 **Player:**
 > *"Let the protector speak. Dareon actually has strong cha let him roll. Should be an easy dc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Royal Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4250/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9243,8 +10621,11 @@ Maekar looks from Daeron to you, his expression a landscape of profound, startle
 > 👤 **Player:**
 > *"Narrate more dialog from maekar. He is estatic this is one of the happiest moments of his life and he's almost afraid it won't last but he's never seen daeron whole before. Also he just lost Aerion so having his eldest son restored is like his dreams coming true. Let's assume Baelor is in the room too and also overjoyed. He says at dinner daeron had been looking better and now he truly looks well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Royal Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4250/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1**
@@ -9262,8 +10643,11 @@ Daella is weeping openly now, her head resting on Rhae's shoulder as they watch 
 > 👤 **Player:**
 > *"Daeron pitched the marches expedition with his now high cha. He's a bard but without the magic so he's good at cha checks. He says to forgive me for slipping the guards again but this time my adventure found a healer and to fully stabilize we need to find the healing master in the marches"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Royal Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 19, 209 AC (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4250/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9287,8 +10671,11 @@ Maekar turns back to you, his violet eyes brimming with a pride that makes the '
 > 👤 **Player:**
 > *"Let's have daeron truly happy and explain more things to his father. He will take up his training in arms, politics, talk to other nobles again and do everything he's supposed to do. He actually used to be talented at that stuff before the dreams. Both Baelor and maekar are overwhelmed and overjoyed. They also see how daeron looks at me as a savior. Daeron and I also persuade father to accept Dunk into the household. Even though technically as a princess I don't need permission to hire one knight it's better if father accepts him too. Baelor endorses it as well"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Royal Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4250/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 0/4, L2 0/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9310,8 +10697,11 @@ You gain **300 XP** for the masterful restoration of Daeron and securing Dunk's 
 God Mode:
 Let's assume that Daeron genuinely wants to be the heir but will usually defer to me on matters of ruler ship given the leadership he's seen from me. He wants to rule not from ambition but to serve the house. So whether he does it as official heir or lets me inherit and supports me as another ruler he's open to anything. We can see how it goes ina  future arc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Royal Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4850/6500 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -9321,8 +10711,11 @@ Let's assume that Daeron genuinely wants to be the heir but will usually defer t
 > 👤 **Player:**
 > *"Let's long rest and do a new scene. Dunk is officially accepted into the household and being trained by our world class master of arms for jousting and getting advice from me. No need to hide it anymore because he's officiallly a house night. His challengers are now only legitimate but they are elite knights"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4850/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9342,8 +10735,11 @@ Dunk looks down at you, his weathered face breaking into a slow, bashful grin of
 > 👤 **Player:**
 > *"Narrate a scene showing Dunks devotion to me and impressing gh everyone there. He tells them of my heroics and how I even fought off bandits. My sisters and daeron are also there and are impressed and also horrified I was in danger but dunk assures them it was the bandits in danger. He says I am the true great knight not him. Let's assume daeron is also being trained but melee focus and Daeron is actually quite talented. Daeron focus is on preparing for the later journey to the marches so he's focused on melee and ranged combat vs tourney"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4850/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Apex Bloodline Resonance (+2 Social vs Targaryens) | Inspiration: No**
@@ -9367,8 +10763,11 @@ Across the field, Prince Daeron lets out a sharp grunt as he parries a blow from
 > 👤 **Player:**
 > *"Dunk further explains how I saved tanselle twice. I'm a true hero to the people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4850/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/2 | Aura: 1/1 | Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Apex Presence (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -9386,8 +10785,11 @@ Prince Daeron pauses in his drill with Ser Roland, his breathing heavy and rhyth
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Daeron&#x27;s Melee - Provide Daeron with tactical advice on his footwork to reinforce your role as his mentor/savior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Dragon Scholar | HP: 16/16 | XP: 4850/6500 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Aura: 1/1, Sight: 1/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked) | Exhaustion: 0 | Inspiration: No**
@@ -9407,8 +10809,11 @@ Daeron nods, his violet eyes sharp with a newfound, sober resolve that ignores h
 God Mode:
 Give me exp for all my recent wins and events and don't doinle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 16/16 | XP: 7450/14000 | Gold: 24gp**
@@ -9416,8 +10821,11 @@ Give me exp for all my recent wins and events and don't doinle
 God Mode:
 Give me haste and counter spell for level 3 spells and process my level 5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7450/14000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9427,8 +10835,11 @@ Give me haste and counter spell for level 3 spells and process my level 5
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate the Pivot - Use your own preternatural grace to show him the exact weight distribution he needs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7450/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2 | HD: 5/5**
@@ -9446,8 +10857,11 @@ This time, his boots do not catch. Guided by your preternatural rhythm, Daeron e
 God Mode:
 Give dunk recent exp for all his weapons and he should probably be higher than level 5 now. Assign Vaelon and daeron a level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7,450/14,000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Apex Presence, Superior Lineage | Exhaustion: 0 | Inspiration: No**
@@ -9460,8 +10874,11 @@ Give dunk recent exp for all his weapons and he should probably be higher than l
 God Mode:
 Press the Advantage - Continue the melee drill with Daeron while his focus is at its peak.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 2/2**
@@ -9471,8 +10888,11 @@ Press the Advantage - Continue the melee drill with Daeron while his focus is at
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the training session now that the retinue&#x27;s power levels are established.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7450/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9492,8 +10912,11 @@ Daeron takes the hand, pulling himself up with a shaky, half-drunk laugh that ho
 God Mode:
 Make daeron a swords bard with extra attack
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7450/14000 | Gold: 24gp**
@@ -9503,8 +10926,11 @@ Make daeron a swords bard with extra attack
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reset and Simplify - Return to basic footwork drills to restore his confidence and grounding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7450/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Apex Presence (Active) | Exhaustion: 0 | Inspiration: No**
@@ -9524,8 +10950,11 @@ Daeron completes a perfect rotation, his blunted sword coming up in a defensive 
 > 👤 **Player:**
 > *"Let's narrate internal thoughts of the kings guard. Not only is a 10 year old girl training her old brother and a knight but they're both accepting it. It's truly an exceptional situation. And why does she know everything about combat, must be a great genius"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7450/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Royal Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -9539,8 +10968,11 @@ Ser Roland's thoughts are even more disciplined, yet no less startled. He watche
 > 👤 **Player:**
 > *"Let's assume that no matter how smart I am I still have more to learn from the kings guard and he's a level 12. He proposes to train me a bit and I gain some experience as we train. All the Kingsgaurd are level 12+"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7450/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9560,8 +10992,11 @@ Daeron watches from the log, his violet eyes sharp and supportive. He sees your 
 > 👤 **Player:**
 > *"Analyze the kingsguardntechnique and try again. Each time I try let's reduce the DC by 3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 7750/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Royal Presence | Exhaustion: 0 | Inspiration: No**
@@ -9579,8 +11014,11 @@ Behind you, Dunk watches with a look of fanatical pride, his hand resting on the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply to Reflexes - Try to physically mirror the &#x27;Distance&#x27; technique in a sparring drill to improve your own Armor Class or reaction time.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 8050/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Apex Presence (Active) | Exhaustion: 0 | Inspiration: No**
@@ -9607,8 +11045,11 @@ You gain **150 XP** for successfully mastering the physical application of the K
 > 👤 **Player:**
 > *"Roland is very impressed . He says we should train regularly and he's never seen anyone learn as fast as me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 8350/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Mastery of The Distance, Apex Bloodline Resonance | Exhaustion: 0 | Inspiration: No**
@@ -9634,8 +11075,11 @@ Beside him, Vaelon watches the sun's zenith with a troubled focus. "The resonanc
 > 👤 **Player:**
 > *"Ask everyone here to keep things a secret and then asknroland to spar one more time. Caste haste on myself and assume I have bladesong (cast it on myself). Then spar with him again with my fully abilities. I am still a level 5 so  no way I would win but it should be impressive and maybe I'll learn something"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 8350/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/2** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong | Exhaustion: 0 | Inspiration: No**
@@ -9661,8 +11105,11 @@ You stand gasping, the magical resonance still humming in your blood, having lea
 > 👤 **Player:**
 > *"Let's do 5 rounds of combat. See if Roland can even land a blow on me or if I can hit him. Assume bladesong gives me int modifier for melee attacks and im using a finesse rapier blunted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 8650/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Actions: 1, Bonus: 1 | Haste: Active | Bladesong: Active**
@@ -9697,8 +11144,11 @@ One final lunge. You reach into the icy marrow of your blood and pull a thread o
 > 👤 **Player:**
 > *"Narrate everyone's reaction. A level 5 10 year old would already be rare but someone with haste and bladesong in a low magic situation is legendary"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 1/19 | XP: 8,650/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/2, Actions: 1, Bonus: 1** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong | Exhaustion: 0 | Inspiration: Yes**
@@ -9735,8 +11185,11 @@ Roland stands over you, his blade lowered, his chest heaving. The silence on the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Sparring Success - Speak with Roland while he is still in shock to secure his permanent commitment as a mentor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 1/19 | XP: 8800/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/2** &nbsp;|&nbsp; ⚠️ **Haste (Exhausted), Bladesong (Faded) | Exhaustion: 1 | Inspiration: No**
@@ -9765,8 +11218,11 @@ Roland's jaw works silently, his professional armor finally shattering before th
 > 👤 **Player:**
 > *"Recover and rest. Narrate everyone's internal thoughts to my display. Roland should be amazed. He was truly trying to hit me and I actually dodged him as a 10 year old and landed a blow. If I was fully grown even with the same level of skill it could've been different and by the time I'm an adult the skill will grow a lot more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 2/19 | XP: 8800/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 4/4, L2 3/3, L3 0/2** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1) | Inspiration: No**
@@ -9784,8 +11240,11 @@ Your sisters, Daella and Rhae, are frozen in a stupor of terror and wonder. Rhae
 God Mode:
 Give me some more exp for that duel too. Landing  a blow on king guard at 10 is legendary
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **Training Grounds, Mertyns Rise** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 2/19 | XP: 9800/14000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1) | HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 0/2**
@@ -9795,8 +11254,11 @@ Give me some more exp for that duel too. Landing  a blow on king guard at 10 is 
 > 👤 **Player:**
 > *"Deep rest and recover. Let's assume Roland doesn't tell Baelor the full story but he explains he's seen a huge amount of talent in me and wants to train me whenever there's an opportunity even though I'm a woman. Narrate scene where he talks to Baelor about it without me there. He doesn't mention I landed a blow and the haste and bladesong but he does mention I learned about distance in one day"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **Royal Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Resting | Exhaustion: 0 | Inspiration: No**
@@ -9820,8 +11282,11 @@ Baelor looks at the 'Urgent' scroll on his desk, then back to the white-cloaked 
 > 👤 **Player:**
 > *"Narrate baelor internal thoughts. He wonders about my baelerys blood and the legendary tales but even he doesn't remember stories of 10 year old combat geniuses"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **Royal Pavilion, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 209 AC (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Exhaustion: 0**
@@ -9835,8 +11300,11 @@ Baelor muses on the impossibility of it. He has read the chronicles of Aegon the
 > 👤 **Player:**
 > *"Finish my sleep and I wake up and join Roland and dunk and help dunk prep for the melee"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Well Rested | Exhaustion: 0 | Inspiration: No**
@@ -9854,8 +11322,11 @@ Across the circle, Prince Daeron pauses his melee drill with Galan. He looks luc
 > 👤 **Player:**
 > *"Narrate a scene where i ask vaelon about my ancestors. Was it common they had similar capabilities as me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9875,8 +11346,11 @@ He looks toward the list where Dunk wheels Thunder, his expression shifting to o
 God Mode:
 Let's add a new plot detail but don't spoil it for me. The apotheosis ritual didn't actually fail but had a massive side effect and created me who is destined to grow into godhood because i have no level cap or experience cap. Make up a good story for it and don't tell me now but reveal it as we go on
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 0/2**
@@ -9886,8 +11360,11 @@ Let's add a new plot detail but don't spoil it for me. The apotheosis ritual did
 > 👤 **Player:**
 > *"Let's have vaelon wonder a bit about my godhood but he doesn't connect the dots yet and he doesn't know yet. Then I ask about my mothers abilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10,400/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -9903,8 +11380,11 @@ Across the field, the rhythmic 'thwack' of wood on wood continues. Ser Roland ha
 > 👤 **Player:**
 > *"Let's have Vaelon internal thoughts narrated. He muses that in some ways the remnant is lucky because perhaps they will get to serve the strongest baelerys who has ever existed and will complete the god hood ritual eventually (he doesn't know I'm already a god)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -9920,8 +11400,11 @@ He pauses, a shadow of scholarly grief crossing his features. "But she never dis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze &#x27;Convergence&#x27; Lore - Ask Vaelon if the term &#x27;Convergence&#x27; appears in any other Belaerys records to see if there&#x27;s a historical precedent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9939,8 +11422,11 @@ Across the field, Dunk pauses in his circuit of the practice lists, wiping sweat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe the Fate of the First - Ask Vaelon what happened to the last recorded vessel of the Convergence to understand the risks of your own growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9956,8 +11442,11 @@ He looks at you with a look of profound, terrified wonder, seeing in your mathem
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Ascension Timing - Ask Vaelon if the &#x27;Convergence&#x27; is a sudden event or a gradual growth, to understand how much time you have.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 0/2 | Hit Dice: 5/5** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Haste (Active), Apex Bloodline Resonance | Exhaustion: 0 | Inspiration: No**
@@ -9977,8 +11466,11 @@ Across the field, the rhythmic 'thwack' of Dunk's training drills provides a ste
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Humanity Anchors - Ask if the first Convergent used any specific methods or bonds to keep their spirit tied to the world for as long as they did.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -9996,8 +11488,11 @@ Across the field, Dunk wheels Thunder around, catching your eye with a look of f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strengthen the Ditchbonds - Spend time individually with Dunk and Daeron to reinforce their loyalty and your emotional connection to them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10013,8 +11508,11 @@ Turning toward the fire, you find Daeron sitting with a cup of water, his violet
 God Mode:
 Sisters don't know the truth so they don't need to act
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp**
@@ -10022,8 +11520,11 @@ Sisters don't know the truth so they don't need to act
 God Mode:
 make a new mechanic. after level 12 i will have an ascension meter where if i dont maintain enough mortal ties and have loved ones see me as a person i can ascend too quick and become a god. lets not make it binary but as my distant from humanity increases i have less of an ability to influence the mortal realm and if it goes to zero I "ascend" and can no longer influence mortal realm
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 25gp**
@@ -10033,8 +11534,11 @@ make a new mechanic. after level 12 i will have an ascension meter where if i do
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the training session on the rise with Dunk and Daeron.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10050,8 +11554,11 @@ You turn toward the fire where Daeron sits, finding a different kind of anchor. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reminisce with Dunk - Speak to Dunk privately about Flea Bottom or the Roadside Inn to break his formal stiffness and restore the &#x27;Ditchbond&#x27; warmth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 📍 **Mertyns Rise Training Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10,400/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0 | Inspiration: Yes**
@@ -10079,8 +11586,11 @@ As the warmth returns to your primary anchor, the world beyond the rise continue
 > 👤 **Player:**
 > *"investigate camp sickness and have my shadows investigate too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 📍 **Ashford Meadow (Lower Camps)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **Hit Dice: 5/5, Spell Slots: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0**
@@ -10098,8 +11608,11 @@ You rise, your violet eyes narrowing as you look back up toward the sanctuary of
 > 👤 **Player:**
 > *"THINK:how can i find the proof"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 📍 **Ashford Meadow (Lower Camps)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10109,8 +11622,11 @@ You pause for a heartbeat at the edge of the lower camp, the crystalline residue
 > 👤 **Player:**
 > *"THINK:Redirect Water Supply - Order Vaelon to organize the Fossoway stewards to draw from the brook instead, neutralizing the sabotage quietly."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-501"></a>
 #### Scene 501
 
 > 📍 **Ashford Meadow (Lower Camps)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24 Dragons** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10120,8 +11636,11 @@ You pause at the edge of the grain quarter, the copper tang of the page's water 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Redirect Water Supply - Order Vaelon to organize the Fossoway stewards to draw from the brook instead, neutralizing the sabotage quietly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-502"></a>
 #### Scene 502
 
 > 📍 **Ashford Meadow (Lower Camps)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10400/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0**
@@ -10139,8 +11658,11 @@ The steward's professional annoyance evaporates into a hushed, stumbling deferen
 > 👤 **Player:**
 > *"use invis to look for solid proof. have my shadows create distractions so its easier for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-503"></a>
 #### Scene 503
 
 > 📍 **Redwyne Picket (Lower Camps)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10,400/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Exhaustion: 0**
@@ -10156,8 +11678,11 @@ You have the proof. The 'Swarm' has left its signature in the dust, and you gain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Indictment - Present the parchment and salts to Prince Baelor publicly to force a disqualification or penalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-504"></a>
 #### Scene 504
 
 > 📍 **Ashford Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10900/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -10179,8 +11704,11 @@ He turns to the head steward, his voice snapping like a whip. "Summon the herald
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Restitution - Press Baelor to force House Redwyne to pay a massive fine to the Fossoways for the camp&#x27;s medical recovery.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-505"></a>
 #### Scene 505
 
 > 📍 **Ashford Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 10900/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Exhaustion: 0**
@@ -10198,8 +11726,11 @@ Roland bows his head, his white cloak snapping as he turns to execute the comman
 > 👤 **Player:**
 > *"Go to house fossway and bring Baelor to explain justice has been served. Fossway should be happy and strengthen alliance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-506"></a>
 #### Scene 506
 
 > 📍 **Fossoway Command Tents, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11150/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Royal Presence, Apex Resonance | Exhaustion: 0 | Inspiration: No**
@@ -10229,8 +11760,11 @@ You gain **250 XP** for the masterful diplomatic victory and cementing a powerfu
 God Mode:
 Let's make the levels similar to d&d level spread. Baelor being level 18 seems a bit high. Kingguard are level 12 and prob that should be the cap for most? Maybe  Baelor can be a bit higher
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-507"></a>
 #### Scene 507
 
 > 📍 **Fossoway Command Tents, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11400/14000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste (Cooldown) | Exhaustion: 0 | Inspiration: No**
@@ -10240,8 +11774,11 @@ Let's make the levels similar to d&d level spread. Baelor being level 18 seems a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surveil the Redwyne Twins - Task Vaelon (Lvl 6) and the scouts to monitor Ser Horas and Hobber&#x27;s reaction to the fine and disqualification.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-508"></a>
 #### Scene 508
 
 > 📍 **Fossoway Command Tents, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11,400/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Sorcery Points: 5/5** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Haste (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -10269,8 +11806,11 @@ As your eyes scan the Meadow, the world continues its relentless advance. The he
 > 👤 **Player:**
 > *"THINK:Should I go make peace with the redwines? I already used the stick perhaps it's time for carrot?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-509"></a>
 #### Scene 509
 
 > 📍 **Fossoway Command Tents, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11,400/14,000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10282,8 +11822,11 @@ You pause, the cool shade of the Fossoway pavilion offering a brief reprieve fro
 > 👤 **Player:**
 > *"THINK:How about this. Daeron and I go to meet with them and propose an armistice on hostilities. Explain we were behind defeating them and their current downfall but if they stop in the future they can regain favor of the crown. Perhaps a public apology and personally caring for those who got stick to start"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-510"></a>
 #### Scene 510
 
 > 📍 **Fossoway Command Tents, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11400/14000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong (Active) | Exhaustion: 0**
@@ -10295,8 +11838,11 @@ You pause within the Fossoway pavilion, the scent of cider and the distant roar 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Armistice Proposal - Meet the twins with Daeron. Admit to the &#x27;stick&#x27; but offer the &#x27;carrot&#x27; of personal care for the sick to regain royal favor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-511"></a>
 #### Scene 511
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11,400/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Sorcery Points: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10316,8 +11862,11 @@ Hobber (Lvl 4) steps forward, his gaze fixed on Daeron with a sharp, vengeful in
 God Mode:
 Don't change the roll but explain why DC 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-512"></a>
 #### Scene 512
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11,400/14,000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong, Royal Presence | Exhaustion: 0**
@@ -10327,8 +11876,11 @@ Don't change the roll but explain why DC 20
 > 👤 **Player:**
 > *"THINK:How about daereon presents a new offer. Just a public apology to house fossway. He empathizes that they wanted to regain their lost honor but the methods were too aggressive. Soften language but still a firm demand"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-513"></a>
 #### Scene 513
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | AC: 19 | XP: 11,400/14,000**
@@ -10340,8 +11892,11 @@ You pause within the stifling shadow of the Redwyne pavilion, the scent of wine-
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Empathetic Prince - Execute the proposed plan: Daeron speaks as a &#x27;peer in struggle,&#x27; allowing them to apologize for their methods while preserving the fiction of their noble intent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-514"></a>
 #### Scene 514
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11,625/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Sorcery Points: 5/5** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -10371,8 +11926,11 @@ You gain **225 XP** for the masterful empathetic leverage and advancing the Redw
 God Mode:
 Give me a -2 modifier on persuasion checks against nobles I haven't proven myself to due to my age. It goes away after I am 16 or level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-515"></a>
 #### Scene 515
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11,625/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2**
@@ -10382,8 +11940,11 @@ Give me a -2 modifier on persuasion checks against nobles I haven't proven mysel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the negotiation with Ser Horas and Ser Hobber at the Redwyne Picket.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-516"></a>
 #### Scene 516
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11625/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Sorcery Points: 5/5** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Haste (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10407,8 +11968,11 @@ He shakes his head, the purple fury returning to his cheeks. "We will not be lec
 God Mode:
 Do successful planning rolls reduce future dc when we take the action?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-517"></a>
 #### Scene 517
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11625/14000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -10418,8 +11982,11 @@ Do successful planning rolls reduce future dc when we take the action?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Withdraw and Let Daeron Seal the Deal - Step back into the shadows, allowing the Prince to finalize the verbal vow without the provocation of your presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-518"></a>
 #### Scene 518
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11850/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Apex Presence (Active), Youthful Disadvantage (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10449,8 +12016,11 @@ You gain **225 XP** for the masterful social completion and securing the Redwyne
 God Mode:
 I had  a successful planning roll earlier how much did it reduce DC?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-519"></a>
 #### Scene 519
 
 > 📍 **Redwyne Picket, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 11,850/14,000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Haste (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10460,8 +12030,11 @@ I had  a successful planning roll earlier how much did it reduce DC?
 > 👤 **Player:**
 > *"Daeron smiles and shakes their hands and welcomes them back into the fold. His new lucidity should be telling that he's a major player now. Narrate their public apology as Dareon oversees and i hide back in the shadows"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-520"></a>
 #### Scene 520
 
 > 📍 **Fossoway Command Tents, Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12075/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Haste (Expired), Bladesong (Expired) | Exhaustion: 0 | Inspiration: No**
@@ -10481,8 +12054,11 @@ The reaction from the commoners was a hushed, stunned murmur that slowly built i
 > 👤 **Player:**
 > *"Narrate a scene. I am overjoyed and tell Dareon remember how I always believed in him. He is a very true great prince. Maekar and Baelor are very impressed and come congratulate him. Dareon  is humble and says all the credit goes to me for the idea but everyone can see Dareon has a lot of potential now and is also a true noble. Maekar and Baelor are overjoyed and remark on what a strong team we are and tell Dareon that his sister always had faith in him when to their shame sometimes they did not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-521"></a>
 #### Scene 521
 
 > 📍 **Ashford Meadow (Base of Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12575/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10509,8 +12085,11 @@ As the Princes exchange looks of hushed, spiritual awe, the world continues its 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Dunk on Melee Geometry - Return to the Rise to give Dunk a tactical briefing on the multi-knight chaos of the melee, ensuring his legendary status is maintained.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-522"></a>
 #### Scene 522
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12575/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Mastery of The Distance (+1 AC) | Exhaustion: 0 | Inspiration: No**
@@ -10530,8 +12109,11 @@ Behind you, Prince Maekar (Lvl 14) and Prince Baelor (Lvl 15) stand in a silence
 > 👤 **Player:**
 > *"Narrate a scene without me. Maekar take Dareon aside. He communicates how he is overjoyed but he tells Dareon he must watch over me. I am but a child and already ascendant in power. If i were to turn to evil or madness i could destroy the realm or plunge it into darkness. He explains the baelerys coin flip is even stronger than the Targaryen. He explains that I've shown no sign of malice and hopefully never will but Dareon now that he's restored must be my guide and he sees how i look up to him. Note that I am not present in this scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-523"></a>
 #### Scene 523
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12575/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 0/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Haste (Expired), Bladesong (Expired) | Exhaustion: 0 | Inspiration: No**
@@ -10551,8 +12133,11 @@ Daeron (Lvl 6) stands with a rhythmic, royal stability that would have been impo
 > 👤 **Player:**
 > *"Keep narrating the scene without me. Maekar tells Dareon to look for signs of enjoying power too much or subtle signs of sadism. Not to defend Aerion but he wonders if Aerion exile was orchestrated by me. Aerion still deserves it but you need to see who really wanted him gone and it was definitely me at the top of the list. Say if he sees a sign don't confront me but gently remind me of the human cost. I am a great genius so potential evil I will hide well. Narrate scene without me there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-524"></a>
 #### Scene 524
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12,725/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Slots: L3 0/2** &nbsp;|&nbsp; ⚠️ **Bladesong (Expired), Haste (Expired) | Exhaustion: 0 | Inspiration: No**
@@ -10572,8 +12157,11 @@ Daeron (Lvl 6) meets his father's gaze, his posture possessed of a rhythmic, sch
 > 👤 **Player:**
 > *"Narrate some internal dialog from Dareon. He is actually smart and realizes it's very likely I orchestrated Aerion exile. It was a good thing but it showcases a scary power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-525"></a>
 #### Scene 525
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12,575/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2** &nbsp;|&nbsp; ⚠️ **Mastery of The Distance, Apex Resonance | Exhaustion: 0 | Inspiration: No**
@@ -10591,8 +12179,11 @@ It is a scary power—not the fire of the Fourteen Flames, but the cold, mathema
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Melee Preparations - Daeron rejoins the sparring while Visenya oversees Dunk’s final armor check, maintaining the public facade of the &#x27;Mended House&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-526"></a>
 #### Scene 526
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12575/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Apex Resonance, Royal Presence, Bladesong/Haste Available | Exhaustion: 0 | Inspiration: No**
@@ -10617,8 +12208,11 @@ Despite the internal friction, the public facade of the 'Mended House' holds. To
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Daeron&#x27;s Wariness - Approach Daeron directly and use your high Intelligence to subtly reassure him of your shared goals, countering the &#x27;Shadow&#x27; Maekar cast.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-527"></a>
 #### Scene 527
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12775/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -10642,8 +12236,11 @@ You gain **200 XP** for the masterful countering of the royal doubt and reinforc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Tactical Review - Gather Dunk and Daeron for one last review of the melee geometry, using your INT 20 to find a hidden weakness in the other champions&#x27; styles.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-528"></a>
 #### Scene 528
 
 > 📍 **Ashford Meadow (Mertyns Rise)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (13:45)** &nbsp;|&nbsp; 🛡️ **Visenya (Lvl 5) | HP: 19/19 | XP: 12925/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -10663,8 +12260,11 @@ Dunk (Lvl 8) and Daeron remain motionless, their eyes fixed on the dirt-map as i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to the Lists - Lead the retinue down to the tournament grounds to take your place for the Champions&#x27; Melee.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-529"></a>
 #### Scene 529
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12925/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Potions: 0, Exhaustion: 0**
@@ -10682,8 +12282,11 @@ You arrive at the Champions' Gate just as the heralds' horns blare a final, eart
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commence the Melee - Signal Dunk and Daeron to take their places and initiate the battle sequence immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-530"></a>
 #### Scene 530
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12,925/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10709,8 +12312,11 @@ Ser Duncan the Tall (Lvl 8) and Prince Daeron (Lvl 6) wheel their mounts, moving
 > [!NOTE] ⚙️ **Player Choice:**
 > *Call Out Maneuvers - Use your voice to guide Daeron into the &#x27;dead space&#x27; between Lyonel and Tybolt as planned.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-531"></a>
 #### Scene 531
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12,925/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Mastery of The Distance (+1 AC), Youthful Disadvantage | Exhaustion: 0 | Inspiration: No**
@@ -10726,8 +12332,11 @@ Dunk (Lvl 8), however, has anchored himself to the rhythm you taught him. As Ser
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal with the Handkerchief - Wave your silver-edged handkerchief to provide a visual cue for the maneuvers, bypassing the crowd noise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-532"></a>
 #### Scene 532
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12925/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Actions: 1, Bonus: 1** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste | Actions: 1, Bonus: 1**
@@ -10759,8 +12368,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"just watch and dont cheat or interfere beyond coaching"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-533"></a>
 #### Scene 533
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12,925/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Actions: 1, Bonus: 1**
@@ -10797,8 +12409,11 @@ INITIATIVE ORDER:
 God Mode:
 why are they ganging up on dunk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-534"></a>
 #### Scene 534
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 12925/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Actions: 1, Bonus: 1** &nbsp;|&nbsp; ⚠️ **Apex Resonance, Royal Presence | Exhaustion: 0**
@@ -10818,8 +12433,11 @@ Dunk reels, his massive frame swaying like a felled tree. He lunges one last tim
 > 👤 **Player:**
 > *"THINK:Claim the Fallen - Signal Galan and the Elites to enter the lists immediately and retrieve Dunk and Daeron for Vaelon&#x27;s care."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-535"></a>
 #### Scene 535
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13125/14000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Haste (Active), Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10831,8 +12449,11 @@ The roar of the ten thousand is a physical weight, but you force the world to fr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke the Hand&#x27;s Mercy - Catch Prince Baelor&#x27;s eye and point to the fallen Prince. Force the Hand to officially pause the games and send the Fossoway stewards to assist your retinue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-536"></a>
 #### Scene 536
 
 > 📍 **Ashford Meadow (The Lists)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13125/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Actions: 1, Bonus: 1** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10862,8 +12483,11 @@ The Five Champions wheel their destriers, the 'Laughing Storm' Ser Lyonel (Lvl 1
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Medical Extraction - Lead Galan and the stewards to retrieve Dunk and Daeron, bringing them directly to Vaelon&#x27;s station on the Rise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-537"></a>
 #### Scene 537
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:20)** &nbsp;|&nbsp; 🛡️ **Visenya (Lvl 5) | HP: 19/19 | XP: 13275/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Slots: 6/9, Actions: 1, Bonus: 1** &nbsp;|&nbsp; ⚠️ **Haste (Fading), Bladesong (Fading) | Exhaustion: 0 | Inspiration: No**
@@ -10881,8 +12505,11 @@ As the stewards begin the delicate work of removing Dunk's (Lvl 8) dented plate,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Vaelon on Treatment - Use your scholarship to assist Vaelon in the triage, ensuring the most efficient use of restoratives for the anchors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-538"></a>
 #### Scene 538
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13,425/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 0/2 | Actions: 1, Bonus: 1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: No**
@@ -10900,8 +12527,11 @@ Turning to Dunk (Lvl 8), you find the giant hedge knight a mountain of bruised i
 > 👤 **Player:**
 > *"THINK:anything else i can do to heal them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-539"></a>
 #### Scene 539
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13,425/14,000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Hit Dice: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2**
@@ -10913,8 +12543,11 @@ You pause, the metallic scent of your anchors' blood still sharp in the stagnant
 > 👤 **Player:**
 > *"THINK:Oversee Deep Triage - Use your own INT 20 to perform a deep medical scan, looking for hidden internal trauma that might hinder recovery."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-540"></a>
 #### Scene 540
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13425/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 0/2, Gold: 24gp**
@@ -10928,8 +12561,11 @@ You pause over the pallets, the smell of medicinal herbs and cooling blood groun
 > 👤 **Player:**
 > *"THINK:Coordinate Comprehensive Mending - Direct Vaelon to handle Daeron&#x27;s marrow while you personally oversee Dunk&#x27;s structural realignment, with Galan and the Elites providing the necessary pressure and steadying."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-541"></a>
 #### Scene 541
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13,425/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major) | Exhaustion: 0 | Inspiration: No**
@@ -10941,8 +12577,11 @@ The slanting afternoon sun (14:30:01) filters through the chestnut leaves, casti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Mending Triage - Proceed with the coordinated plan: Vaelon heals Daeron while you oversee Dunk&#x27;s realignment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-542"></a>
 #### Scene 542
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13725/14000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 0/2 | Bladesong: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major) | Exhaustion: 0 | Inspiration: No**
@@ -10961,8 +12600,11 @@ Under your combined efforts, the tremors in Daeron's hands subside, and Dunk's b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comfort Daella and Rhae - Speak to your sisters who are watching the pallets, reinforcing the &#x27;White Lie&#x27; and maintaining your mortal ties.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-543"></a>
 #### Scene 543
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Dragon Scholar | HP: 19/19 | XP: 13,875/14,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 0/2 | Bladesong: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expires Turn 370) | Exhaustion: 0 | Inspiration: No**
@@ -10982,8 +12624,11 @@ You feel the Ditchbond of your family vibrating with a renewed, mortal resonance
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest with Sisters - Remain with Daella and Rhae by the pallets, sharing stories and reinforcing your humanity through simple presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-544"></a>
 #### Scene 544
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 22/22 | XP: 0/9000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 3/3, Slots restored by Deep Rest** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expires Turn 370), Haste/Bladesong (Expired) | Inspiration: Yes**
@@ -11005,8 +12650,11 @@ The quiet of the rise is suddenly punctuated by the rhythmic, metallic crunch of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Draconic Resonance - Take the glowing coin from Vaelon and use your scholarship to commune with the awakening presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-545"></a>
 #### Scene 545
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 22/22 | XP: 14000/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active), Mastery of The Distance | Inspiration: Yes**
@@ -11037,8 +12685,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Apply level 6 Dragon Scholar benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-546"></a>
 #### Scene 546
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3**
@@ -11061,8 +12712,11 @@ Your sisters watch in hushed, spiritual awe as the silver light from the coin re
 God Mode:
 auto pick my level 3 spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-547"></a>
 #### Scene 547
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 14000/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: No**
@@ -11082,8 +12736,11 @@ At the edge of the rise, the boy Ty (Lvl 1) remains frozen, his small wooden shi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Acknowledge the Legacy - Step to the perimeter and beckon the boy Ty, using your human warmth to reassure him and advance Dunk&#x27;s mentor arc.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-548"></a>
 #### Scene 548
 
 > 📍 **Mertyns Rise (Vaelon's Station)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 14,050/23,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: No**
@@ -11113,8 +12770,11 @@ You gain **50 XP** for the meaningful character interaction and advancing the co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Hatchling Communion - Retreat to the solar to fully explore the mental link with the marrow-seed hatchling.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-549"></a>
 #### Scene 549
 
 > 📍 **Mertyns Rise (Royal Pavilion Solar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 14200/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/6, Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Bladesong/Haste (Cooldown) | Exhaustion: 0 | Inspiration: No**
@@ -11130,8 +12790,11 @@ You are no longer in a silk tent; you are standing within a cathedral of silver 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query the White Throat - Ask the hatchling for a direct geographic or psychic marker for Perzys Sōyon to refine the Marches map.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-550"></a>
 #### Scene 550
 
 > 📍 **Mertyns Rise (Royal Pavilion Solar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 14050/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3** &nbsp;|&nbsp; ⚠️ **Sanctuary (Turn 370) | Exhaustion: 0 | Inspiration: No**
@@ -11149,8 +12812,11 @@ The vision snaps back to the dim solar, leaving you gasping, your Ivory & Crimso
 > [!NOTE] ⚙️ **Player Choice:**
 > *Transcribe the Geometry - Immediately draw the trident-rift into your journal while the vision is fresh, ensuring the scouts have a perfect map.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-551"></a>
 #### Scene 551
 
 > 📍 **Mertyns Rise (Royal Pavilion Solar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 14550/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong/Haste Expired, Exhausted Marrow | Exhaustion: 0 | Inspiration: Yes**
@@ -11172,8 +12838,11 @@ Beyond the silk walls, the Meadow is transforming. Lord Ashford's heralds blare 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Vaelon on Restoratives - Task the steward with preparing a high-nutrient brew to counter the divine drain before you collapse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-552"></a>
 #### Scene 552
 
 > 📍 **Mertyns Rise (Royal Pavilion Solar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 14600/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/6 | Spells: L1 4/4, L2 3/3, L3 1/3 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Exhausted (Divine Drain - Stabilizing) | Exhaustion: 0 | Inspiration: Yes**
@@ -11193,8 +12862,11 @@ You feel the success of the mending radiating through the camp. You gain **50 XP
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Recovery Pallets - Go out to the pallets to personally check on Dunk and Daeron&#x27;s physical progress before addressing the messenger.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-553"></a>
 #### Scene 553
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3**
@@ -11218,8 +12890,11 @@ You turn your crystalline gaze to the messenger. "Tell my Father that the Prince
 > 👤 **Player:**
 > *"step outside and have vaelon follow me. go to an area where others won't oversee and hold court with the shadows and all the remanent forces available. They should see that I am special and not jsut a survivor. Explain the strategy to them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-554"></a>
 #### Scene 554
 
 > 📍 **Mertyns Rise (Private Chestnut Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 14,900/23,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Divine Stabilization (Vaelon's Brew) | Exhaustion: 0**
@@ -11240,8 +12915,11 @@ The Remnant remains silent, the strategy accepted as a solved equation. The feal
 > 👤 **Player:**
 > *"prepare for the feast, i will wear my normal royal clothes, and look extremely beautiful and regal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-555"></a>
 #### Scene 555
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15000/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0 | Inspiration: Yes**
@@ -11264,8 +12942,11 @@ Beyond the silk walls, the Meadow is transforming. Lord Ashford's daughters are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Pentoshi Merchant - Task Vaelon (who is surveilling from the staff) to identify why the merchant is cataloging your forces.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-556"></a>
 #### Scene 556
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Haste (Expired), Bladesong (Expired) | Exhaustion: 0 | Inspiration: Yes**
@@ -11283,8 +12964,11 @@ You gain **225 XP** for the masterful surveillance success and unmasking the Pea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Engage Maekar for Protection - Subtly alert your father to the &#x27;suspicious Pentoshi&#x27; to trigger a formal Kingsguard search, using his protective vigilance to your advantage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-557"></a>
 #### Scene 557
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Royal Presence (Unmasked), Apex Beauty | Exhaustion: 0 | Inspiration: Yes**
@@ -11312,8 +12996,11 @@ Roland nods, his white cloak a sharp banner of intent as he signals two Targarye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accompany to the Solar - Insist on following Maekar to the search to oversee the ledger&#x27;s contents personally, ensuring your own secrets are managed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-558"></a>
 #### Scene 558
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15,225/23,000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major) | Exhaustion: 0 | Inspiration: Yes**
@@ -11331,8 +13018,11 @@ Across the tent, the scene moves with the silent, professional speed of a Kingsg
 God Mode:
 Let's have the peakes not be focused on me like I said numerous times vs just antagonistic towards Targaryens. Why do you keep bringing it up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-559"></a>
 #### Scene 559
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15225/23000 | Gold: 24gp**
@@ -11340,8 +13030,11 @@ Let's have the peakes not be focused on me like I said numerous times vs just an
 God Mode:
 The books house peake was antagonist toward Targaryens in general I believe. Why do you keep positioning them as my personal enemy? Anything we should update in game state ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-560"></a>
 #### Scene 560
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15225/23000 | Gold: 24gp**
@@ -11351,8 +13044,11 @@ The books house peake was antagonist toward Targaryens in general I believe. Why
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the feast in the Grand Dining Tent, now that House Peake&#x27;s interest has been properly framed as political rather than personal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-561"></a>
 #### Scene 561
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15225/23000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active), Apex Presence (Unmasked) | Exhaustion: 0 | Inspiration: Yes**
@@ -11384,8 +13080,11 @@ Prince Daeron (Lvl 6) meets your eyes, his posture possessed of a rhythmic, roya
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Inquiry on Ledger - Ask Baelor if the ledger mentioned any specific &#x27;weaknesses&#x27; the Peakes found, using your INT 20 to guide him toward revealing the scout&#x27;s findings without appearing suspicious.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-562"></a>
 #### Scene 562
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15,225/23,000 | Gold: 24gd** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Haste (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -11415,8 +13114,11 @@ You gain **250 XP** for the masterful social victory and securing high-tier poli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Maekar&#x27;s Reaction - Watch Maekar (Lvl 14) as Baelor prepares to share the news. Use Insight to see if the &#x27;Soldier&#x27; in him is planning a preemptive strike against Starpike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-563"></a>
 #### Scene 563
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15475/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -11436,8 +13138,11 @@ Baelor 'Breakspear' catches the lethal edge in his brother's tone, his own expre
 God Mode:
 Let's assume maekar wants revenge on house peake for killing the baelerys his late wifes  family
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-564"></a>
 #### Scene 564
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15475/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode Active (Expires Turn 370)**
@@ -11455,8 +13160,11 @@ Prince Daeron (Lvl 6) looks at you, his eyes wide and sharp with a sudden, chill
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Daeron&#x27;s Command - Tell Baelor and Maekar that Daeron&#x27;s newfound lucidity and &#x27;vision&#x27; of the tower make him the perfect choice to lead a peacekeeping scout force into the Marches, keeping the mission under your control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-565"></a>
 #### Scene 565
 
 > 📍 **Ashford Royal Pavilion (Grand Dining Tent)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15475/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3 | Exhaustion: 0**
@@ -11476,8 +13184,11 @@ You gain **250 XP** for the masterful political maneuvering and securing Daeron'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Daeron Privately - Speak to Daeron after the feast to ensure he understands that his &#x27;vision&#x27; must remain the primary guide for the scouts, keeping the search for the tower a priority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-566"></a>
 #### Scene 566
 
 > 📍 **Ashford Royal Pavilion (Dining Tent Perimeter)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 15875/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Slots: 4/3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11507,8 +13218,11 @@ You gain **150 XP** for the masterful social victory and securing the expedition
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Check on Dunk - Return to Mertyns Rise to check on the &#x27;Giant&#x27;s&#x27; recovery and ensure his elm-tree shield is ready for the Red Mountains.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-567"></a>
 #### Scene 567
 
 > 📍 **Mertyns Rise (Recovery Area)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16125/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3 | Flicker of the Forge: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -11531,8 +13245,11 @@ You gain **250 XP** for the successful medical triage and the unmasking of the P
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Daeron on the Pincer - Immediately find Daeron and inform him of the Peake force, ensuring his &#x27;Commander&#x27; persona is ready for a potential skirmish.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-568"></a>
 #### Scene 568
 
 > 📍 **Mertyns Rise (Recovery Area)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16025/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Ki: N/A, Rage: N/A, Potions: 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Inspiration: Yes**
@@ -11552,8 +13269,11 @@ Beyond the firelight, Vaelon (Lvl 6) watches the transformation with a hushed, s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dispatch Remnant Scouts - Task the 8 Remnant scouts to range ahead and identify the exact Peake ambush coordinates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-569"></a>
 #### Scene 569
 
 > 📍 **Mertyns Rise (Recovery Area)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Potions: 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive), Haste (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -11573,8 +13293,11 @@ The geometry of the confrontation is now clear. The Peake 'Swarm' has positioned
 God Mode:
 I am level 6 now. Will I eventually get a dragon?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-570"></a>
 #### Scene 570
 
 > 📍 **Mertyns Rise (Recovery Area)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 209 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Spell Awareness, Apex Resonance | Exhaustion: 0 | Inspiration: No**
@@ -11584,8 +13307,11 @@ I am level 6 now. Will I eventually get a dragon?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order Midnight March - Mobilize the Summerhall spears and Remnant now, bypassing the Widow&#x27;s Crossing via the dry-wash.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-571"></a>
 #### Scene 571
 
 > 📍 **The Red Mountains (Dry-Wash Approach)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3 | Ki: N/A | Rage: N/A | Potions: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -11605,8 +13331,11 @@ Dunk (Lvl 8) remains a mountain of unmoving shadow on his litter, his breathing 
 God Mode:
 Give me the apex dragon at level 16 and everything earlier
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-572"></a>
 #### Scene 572
 
 > 📍 **Widow's Crossing Approach** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16,225/23,000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Haste (Active), Bladesong (Active) | Exhaustion: 0**
@@ -11616,8 +13345,11 @@ Give me the apex dragon at level 16 and everything earlier
 > 👤 **Player:**
 > *"Trigger surprise round  and use hyp pattern on all the enemies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-573"></a>
 #### Scene 573
 
 > 📍 **Widow's Crossing Approach, Red Mountains** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 0/3 | HD: 5/5** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Hypnotic Pattern (Concentration) | Exhaustion: 0**
@@ -11661,8 +13393,11 @@ Anything else, Visenya? You still have your Bonus Action and your Haste Action.
 God Mode:
 Give me the dragon physical hatchling earlier
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-574"></a>
 #### Scene 574
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/3**
@@ -11672,8 +13407,11 @@ Give me the dragon physical hatchling earlier
 > 👤 **Player:**
 > *"Use my sling on longbowmen and tell everyone to engage them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-575"></a>
 #### Scene 575
 
 > 📍 **Widow's Crossing Approach** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3**
@@ -11691,8 +13429,11 @@ However, the coordination of your forces is a jagged, imperfect equation in the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bonus Action: Flicker of the Forge - The silver coin pulses; grant Daeron +1 to his next saving throw as he enters the arrow fire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-576"></a>
 #### Scene 576
 
 > 📍 **Widow's Crossing Approach** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Concentrations: Hypnotic Pattern**
@@ -11732,8 +13473,11 @@ Visenya, the valley floor is held by your pattern, but the longbowmen are notchn
 God Mode:
 Wait shouldn't I have my own troops here not just daeron ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-577"></a>
 #### Scene 577
 
 > 📍 **Widow's Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Hypnotic Pattern (Concentration)**
@@ -11752,8 +13496,11 @@ Above, Prince Daeron (Lvl 6) lunges for the entrenched line, his rapier flashing
 God Mode:
 Don't advance narrative. There should be friendly remanent and Targaryen forces
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-578"></a>
 #### Scene 578
 
 > 📍 **Widow's Crossing (Red Mountains)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Concentration (Hypnotic Pattern)**
@@ -11763,8 +13510,11 @@ Don't advance narrative. There should be friendly remanent and Targaryen forces
 > 👤 **Player:**
 > *"My 75 men should be attacking longbow men. Shoukd be easy and the longbow men should be running away"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-579"></a>
 #### Scene 579
 
 > 📍 **Widow's Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 16225/23000 | Gold: 24gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Concentration (Hypnotic Pattern), Haste, Bladesong | Exhaustion: 0**
@@ -11785,8 +13535,11 @@ You gain **1,000 XP** for the total neutralization and dispersal of the Peake va
 > 👤 **Player:**
 > *"Bind all then people under hypnotic pattern then fully loot and strip them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-580"></a>
 #### Scene 580
 
 > 📍 **Widow's Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 17425/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Concentration: Hypnotic Pattern (Active), Bladesong (Active), Haste (Active)**
@@ -11810,8 +13563,11 @@ You watch with a scholar's clinical detachment as the Peake vanguard is reduced 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Captain - Use your Apex Presence to force the bound Captain to reveal the Peake&#x27;s strategic depth in the Marches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-581"></a>
 #### Scene 581
 
 > 📍 **Widow's Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 17625/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, Flicker: 1/1, Exhaustion: 0**
@@ -11829,8 +13585,11 @@ As he yields the truth, a sudden, violent vibration erupts from the secret pouch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with the Hatchling - Take a moment to stabilize the dragon and understand its nascent abilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-582"></a>
 #### Scene 582
 
 > 📍 **Widow's Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (03:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 17625/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Concentration: Hypnotic Pattern, Haste (Active), Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -11848,8 +13607,11 @@ Behind you, the Summerhall spears and Remnant veterans (Lvl 4-8) fall back, thei
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacrifice Resonance to Feed - Willfully channel your own magical energy into the hatchling to stabilize it, risking a level of exhaustion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-583"></a>
 #### Scene 583
 
 > 📍 **Widow's Crossing** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 17625/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, Flicker: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1, Concentration: Hypnotic Pattern | Exhaustion: 1 | Inspiration: No**
@@ -11869,8 +13631,11 @@ Behind you, the Summerhall spears and Remnant veterans (Lvl 4-8) watch the excha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order March South - Mount up and lead the retinue into the Red Mountains before the Peake scout&#x27;s news reaches Starpike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-584"></a>
 #### Scene 584
 
 > 📍 **The Jagged Pass, Red Mountains** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 17625/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/3, Flicker: 0/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -11888,8 +13653,11 @@ Behind you, Vaelon (Lvl 6) keeps his vigil, his soot-grey surcoat fluttering in 
 > 👤 **Player:**
 > *"Let someone else lead. Look for a place to make camp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-585"></a>
 #### Scene 585
 
 > 📍 **The Jagged Pass, Red Mountains** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 17625/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -11911,8 +13679,11 @@ Beside the litter, Ser Duncan (Lvl 8) lets out a sudden, rhythmic groan, his mas
 > 👤 **Player:**
 > *"Reroll that and use daeron to roll who's not exhausted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-586"></a>
 #### Scene 586
 
 > 📍 **Suboptimal Campsite, Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 17625/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -11933,8 +13704,11 @@ Beyond your cramped cul-de-sac, the 'Swarm' is mobilizing. A Peake messenger (Lv
 > 👤 **Player:**
 > *"Hold court and present the hatchling to the Targaryen and remnant forces to uplift their morale. Should be easy because historically Targaryens had dragons so having another one is a huge benefit. Make it an easy DC roll like 2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-587"></a>
 #### Scene 587
 
 > 📍 **Sandstone Cul-de-sac, Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18125/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -11971,8 +13745,11 @@ Ser Duncan (Lvl 8) falls to one knee in the red dust, his massive frame tremblin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Signal Codes - Use your new authority to force the Peake Captain to reveal the High Watch&#x27;s mirror-signal codes to avoid an ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-588"></a>
 #### Scene 588
 
 > 📍 **Sandstone Cul-de-sac, Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (07:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18125/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, Flicker: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -11998,8 +13775,11 @@ A sudden, sharp gust of wind screams through the pass, carrying the first icy bi
 > 👤 **Player:**
 > *"Reroll that and let Daeron roll to interogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-589"></a>
 #### Scene 589
 
 > 📍 **Sandstone Cul-de-sac, Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (07:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18325/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, Flicker: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -12021,8 +13801,11 @@ You watch from the shadows, your crystalline gaze noting the geometric precision
 > [!NOTE] ⚙️ **Player Choice:**
 > *Spoof High Watch Signals - Task the Remnant scouts to use mirrors to send the &#x27;All Clear&#x27; stutter, allowing the company to advance through the storm&#x27;s cover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-590"></a>
 #### Scene 590
 
 > 📍 **Sandstone Cul-de-sac, Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18525/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, Flicker: 1/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -12044,8 +13827,11 @@ Prince Daeron (Lvl 6) wheels his mount, his violet eyes sharp with the lucidity 
 > 👤 **Player:**
 > *"Push through the storm and let daeron lead and roll with his cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-591"></a>
 #### Scene 591
 
 > 📍 **The Narrows, Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18525/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -12061,8 +13847,11 @@ Ser Duncan (Lvl 8) rides Thunder beside you, his massive frame silhouetted again
 > 👤 **Player:**
 > *"Secure narrow camp and long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-592"></a>
 #### Scene 592
 
 > 📍 **Sheltered Overhang, The Narrows** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18725/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, Flicker: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Long Rest Completed | Exhaustion: 0 | Inspiration: No**
@@ -12095,8 +13884,11 @@ Evening (18:15:00) in the Sheltered Overhang finds the air crisp and clear, the 
 > 👤 **Player:**
 > *"Pattern weaver and try to have someone trigger surprise round. Try to get everyone in the pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-593"></a>
 #### Scene 593
 
 > 📍 **The Weaver's Needle, Southern Pass Exit** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18725/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, Flicker: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Concentration: Hypnotic Pattern | Exhaustion: 0 | Inspiration: No**
@@ -12142,8 +13934,11 @@ Consider this ascension points system so the game isn't too easy The Ascension P
 - **75 AP**: Capped maximum before Level 12. Generates a Fear Aura (DC 12 WIS) against mundane NPCs.
 - **100 AP**: True Apotheosis (Locked until Level 12). but adapt to this campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-594"></a>
 #### Scene 594
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18725/23000 | Gold: 229gp** &nbsp;|&nbsp; ⚠️ **Concentration (Hypnotic Pattern) | AP: 5**
@@ -12153,8 +13948,11 @@ Consider this ascension points system so the game isn't too easy The Ascension P
 > 👤 **Player:**
 > *"During the surprise round it's not just me acting. Let all my forces do an attack round on the enemies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-595"></a>
 #### Scene 595
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18725/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, Flicker: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste | AP: 10/75 | Exhaustion: 0 | Inspiration: No**
@@ -12199,8 +13997,11 @@ Prince Daeron (Lvl 6) recovers from his stumble, his violet eyes locking onto a 
 > 👤 **Player:**
 > *"You're missing my allied forces and the kingguard in the battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-596"></a>
 #### Scene 596
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18725/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Pattern Concentration | AP: 15**
@@ -12221,8 +14022,11 @@ The Iron Crown Captain (Lvl 10) reels, his shoulder caved in by Dunk's earlier s
 > 👤 **Player:**
 > *"You're missing my  forces and the kingguard in the battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-597"></a>
 #### Scene 597
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18725/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/3 | Flicker: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Pattern Concentration | AP: 15**
@@ -12263,8 +14067,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"Cast hold person on iron bound captain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-598"></a>
 #### Scene 598
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18725/23000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/3 | Flicker: 1/1 | AP: 16/75** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Concentration (Pattern) | Exhaustion: 0 | Inspiration: No**
@@ -12301,8 +14108,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"Use free action to intimidate captain with my dragon and my ascendant power and then cast command to have him surrender. If the intimidation worked I should have higher spell DC for the command"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-599"></a>
 #### Scene 599
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18,825/23,000 | AP: 17/75** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 2/3 | Flicker: 1/1 | AP: 17/75** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Concentration (Pattern)**
@@ -12344,8 +14154,11 @@ YOUR TURN - ACTIONS REMAINING:
 God Mode:
 Wait the captain had disadvantage on his roll and got 19?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-600"></a>
 #### Scene 600
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 18825/23000 | Gold: 229gp** &nbsp;|&nbsp; ⚠️ **Concentration (Hypnotic Pattern) | AP: 17/75**
@@ -12355,8 +14168,11 @@ Wait the captain had disadvantage on his roll and got 19?
 > 👤 **Player:**
 > *"Have my men kill as many enemies as possible then I will use normal intimidation to tell captain to surrender again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-601"></a>
 #### Scene 601
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:46)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Dragon Scholar | HP: 26/26 | XP: 28,625/34,000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 2/3 | Flicker: 1/1 | AP: 18/75** &nbsp;|&nbsp; ⚠️ **Concentration: Hypnotic Pattern | Exhaustion: 0 | Inspiration: No**
@@ -12390,8 +14206,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 God Mode:
 Level Up to Level 7 - Apply level 7 Dragon Scholar benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-602"></a>
 #### Scene 602
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:46)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 28,625/34,000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Flicker: 1/1 | AP: 18/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -12413,8 +14232,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) pause in their work, their eyes wi
 God Mode:
 Let's add a mechanic where my dragon increases my spell attack and DC starting at 2 now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-603"></a>
 #### Scene 603
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:46)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 28625/34000 | Gold: 229gp** &nbsp;|&nbsp; ⚠️ **Fire Resistance | AP: 18/75**
@@ -12422,8 +14244,11 @@ Let's add a mechanic where my dragon increases my spell attack and DC starting a
 God Mode:
 Let's have human actions and ditch bond actions reduce my AP. Reduce it a lot when someone reminded of my humanity
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-604"></a>
 #### Scene 604
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:46)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 28625/34000 | Gold: 229gp**
@@ -12431,8 +14256,11 @@ Let's have human actions and ditch bond actions reduce my AP. Reduce it a lot wh
 God Mode:
 For spells pick greater invis and confusion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-605"></a>
 #### Scene 605
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1**
@@ -12442,8 +14270,11 @@ For spells pick greater invis and confusion
 > 👤 **Player:**
 > *"THINK:Can we push to the mouth ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-606"></a>
 #### Scene 606
 
 > 📍 **The Weaver's Needle** &nbsp;|&nbsp; ⏳ **Mirtul 22, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 28625/34000 | AP: 18/75** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste (Concentrating: Hypnotic Pattern)**
@@ -12455,8 +14286,11 @@ You pause as the Iron Crown Captain yields, his heavy blade clattering against t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forced March to the Mouth - Order an immediate midnight push to clear the pass before the Peake reinforcements arrive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-607"></a>
 #### Scene 607
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 28625/34000 | Gold: 229gp** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, AP: 18** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1) | AP: 18/75 | Hatchling Lvl 2**
@@ -12474,8 +14308,11 @@ At the rear of the column, Ser Duncan (Lvl 8) sits Thunder like a stone monolith
 God Mode:
 assume we fully looted, stripped the iron crown guys etc and reward me with the exp for capturing htem all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-608"></a>
 #### Scene 608
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 30,125/34,000 | Gold: 369gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | AP: 18 | HD: 7/7** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1) | AP: 18/75**
@@ -12507,8 +14344,11 @@ Under your direction, the Remnant veterans and Summerhall spears strip the field
 > 👤 **Player:**
 > *"confer with my commanders whats the best approahc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-609"></a>
 #### Scene 609
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 30125/34000 | Gold: 369gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | AP: 18 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1) | AP: 18/25**
@@ -12528,8 +14368,11 @@ Vaelon (Lvl 6) lingers at the periphery, his soot-grey surcoat heavy with ice. "
 God Mode:
 why do i have exhaustion?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-610"></a>
 #### Scene 610
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 30125/34000 | Gold: 369gp** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1) | AP: 18 | Inspiration: No**
@@ -12550,8 +14393,11 @@ Breakdown of current Exhaustion Level 1:
 God Mode:
 clear exhaustion this time and make it more clear next time it'll be a potential consequence
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-611"></a>
 #### Scene 611
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 30125/34000 | Gold: 369gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -12563,8 +14409,11 @@ Regarding future warnings: I have added a persistent directive to ensure that an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the command conference at the Southern Mouth with a fresh, unburdened retinue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-612"></a>
 #### Scene 612
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 30125/34000 | Gold: 369gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | AP: 18** &nbsp;|&nbsp; ⚠️ **Fire Resistance | Exhaustion: 0 | Inspiration: No**
@@ -12586,8 +14435,11 @@ Ser Duncan (Lvl 8) stands beside Thunder, his massive frame silhouetted against 
 > 👤 **Player:**
 > *"get everyones opinion on what to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-613"></a>
 #### Scene 613
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 30125/34000 | Gold: 369gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | AP: 18** &nbsp;|&nbsp; ⚠️ **[] | Exhaustion: 0 | Inspiration: No**
@@ -12609,8 +14461,11 @@ You pause, the possibilities racing through your mind as you weigh the steel of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Radiant Banishment (L4 Magic) - Use your new 4th-level resonance to banish the lead High Watch scouts into a void, blinding the pincer&#x27;s coordination.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-614"></a>
 #### Scene 614
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 30125/34000 | Gold: 369gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, AP: 23/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | AP: 23**
@@ -12631,8 +14486,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) stare at the Ridges, then back at 
 > 👤 **Player:**
 > *"try trigger surprise round and cast hyp pattern. in the future call this strat (hyp surprise). then do coordinated breakthrough and make sure everyone gets their turn and all my allies are there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-615"></a>
 #### Scene 615
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:10)** &nbsp;|&nbsp; 🛡️ **Visenya (Silver) Lvl 7 | HP: 27/27 | XP: 30125/34000 | Gold: 369gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | AP: 28/75** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste | Exhaustion: 0 | AP: 28/75**
@@ -12653,8 +14511,11 @@ The breakthrough is a symphony of surgical violence. The High Watch infantry, tr
 > 👤 **Player:**
 > *"bind everyone we can  and then press the advantage. slit the throats of some and save officers for interrogation. shoudl be easy to throat slit helpless target"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-616"></a>
 #### Scene 616
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | AP: 28/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -12693,8 +14554,11 @@ The Sergeant collapses into a shivering heap, his will shattering like glass und
 God Mode:
 lets assume we are only carrying officer prisoners from previous battles and executed the rest too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-617"></a>
 #### Scene 617
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | Gold: 1419gp** &nbsp;|&nbsp; ⚠️ **None | AP: 28/75 | Inspiration: No**
@@ -12712,8 +14576,11 @@ This change ensures the retinue maintains maximum mobility and removes the logis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Interrogation - Dedicate time to extract specific High Watch command codes from the Sergeant to further spoof the eastern pincer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-618"></a>
 #### Scene 618
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32275/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/1 | AP: 28/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -12743,8 +14610,11 @@ Ser Roland Crakehall (Lvl 12) and Prince Daeron (Lvl 6) watch from the shadows o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal the &#x27;Hold-Position&#x27; - Coordinate Kaelen and the scouts to use the captured mirrors to signal the eastern pincer to halt at the Needle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-619"></a>
 #### Scene 619
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32275/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/1, AP: 28/75** &nbsp;|&nbsp; ⚠️ **Draconic Bond (Lvl 2) | AP: 28/75 | Exhaustion: 0**
@@ -12766,8 +14636,11 @@ Prince Daeron (Lvl 6) wheels his mount, his violet eyes sharp with the battle-re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Disciplined Advance - Maintain a steady, professional pace through the Weaver&#x27;s Path to ensure the men remain combat-ready for the plains.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-620"></a>
 #### Scene 620
 
 > 📍 **Weaver's Path Bypass** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/1, AP: 28/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -12785,8 +14658,11 @@ Behind you, Vaelon (Lvl 6) keeps his vigil, his soot-grey surcoat heavy with the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain the March - Accept the delay and keep the men fresh. Prepare to fight or use more magic if the pincer moves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-621"></a>
 #### Scene 621
 
 > 📍 **Southern Mouth (Red Mountains)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 AC (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/1, AP: 3/75** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | AP: 3/75**
@@ -12806,8 +14682,11 @@ For a heartbeat, the 'Distance' of your ascension collapses. The Ditchbond ancho
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealthy Approach (Remnant Lead) - Use the high grass and rolling hills to mask the column&#x27;s movement, relying on Kaelen&#x27;s scouts to identify Peake patrols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-622"></a>
 #### Scene 622
 
 > 📍 **The Dornish Marches (Open Plains)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 DR (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 1/3, L4 1/1, AP: 3/75** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -12826,8 +14705,11 @@ Beside you, Dunk (Lvl 8) remains a protective, silent shadow, his massive hands 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor in a Hidden Hollow - Find a deep, defensible fold in the hills to rest the men and horses until dusk, using the dragon&#x27;s hum to maintain total obscurity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-623"></a>
 #### Scene 623
 
 > 📍 **Dornish Marches (White Chalk Hollow)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 209 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | AP: 3/75** &nbsp;|&nbsp; ⚠️ **Long Rest Completed | Exhaustion: 0 | Inspiration: No**
@@ -12849,8 +14731,11 @@ Evening (18:00:00) find the shadows lengthening into long, skeletal fingers acro
 > 👤 **Player:**
 > *"make sure you let us long rest during that time, then ghost march"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-624"></a>
 #### Scene 624
 
 > 📍 **Dornish Marches (Emerald Swells)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | Gold: 1419gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, AP: 0/75** &nbsp;|&nbsp; ⚠️ **Long Rest Completed | Exhaustion: 0 | Inspiration: No**
@@ -12869,8 +14754,11 @@ However, the Peake vigilance has reached a fever pitch. A sudden, sharp glint of
 > 👤 **Player:**
 > *"find a good place to fortify, high ground ideally, then let them come to use and hyp surprise them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-625"></a>
 #### Scene 625
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Dragon Scholar | HP: 27/27 | XP: 32125/34000 | AP: 5/75** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, AP: 5/75** &nbsp;|&nbsp; ⚠️ **Bladesong (Active) | Exhaustion: 0**
@@ -12894,8 +14782,11 @@ Beyond the ridge, the prehistoric wind carries the fading, rhythmic echo of the 
 > 👤 **Player:**
 > *"focus fire on active scouts to kill them all, then bind and kill remaining, then fully loot everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-626"></a>
 #### Scene 626
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 30/30 | XP: 34,325/48,000 | Gold: 1,419gp** &nbsp;|&nbsp; ✨ **HD: 7/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | AP: 10/75** &nbsp;|&nbsp; ⚠️ **OK | Exhaustion: 0 | Inspiration: No**
@@ -12925,8 +14816,11 @@ If you continue adventuring, you remain Level 8 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Allocate Level 8 Growth - Choose between an Ability Score Improvement (+2 to one stat or +1 to two) or a new Feat to refine your resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-627"></a>
 #### Scene 627
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -12969,8 +14863,11 @@ Which path do you choose, Princess?
 > 👤 **Player:**
 > *"feat dex +2 and auto pick my spells, for lvl 5 make sure i have dominate person and hold monster"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-628"></a>
 #### Scene 628
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -12994,8 +14891,11 @@ Your adventure continues!
 > 👤 **Player:**
 > *"make sure we win the battle then fulyl loot everyone and only keep officers alive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-629"></a>
 #### Scene 629
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34,325/48,000 | Gold: 1,428gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, AP: 10/75** &nbsp;|&nbsp; ⚠️ **Ascension: 10 AP | Draconic Catalyst (L3) | Exhaustion: 0**
@@ -13017,8 +14917,11 @@ Prince Daeron (Lvl 6) wheels Thunder, his violet eyes sharp with the lucidity of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Quick Interrogation - Spend 10 minutes to break the new Sergeant for local terrain knowledge before moving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-630"></a>
 #### Scene 630
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34425/48000 | Gold: 1428gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, AP: 10/75** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Exhaustion: 0 | AP: 10/75**
@@ -13038,8 +14941,11 @@ You watch with a scholar's clinical detachment as the intel settles into your me
 God Mode:
 How many troops does hous epeak have? How about vs targaryen and allies?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-631"></a>
 #### Scene 631
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34425/34000 | Gold: 1428gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, AP: 10/75** &nbsp;|&nbsp; ⚠️ **Fire Resistance | AP: 10/75 | Dragon: Lvl 3 (+2 DC/Atk)**
@@ -13068,8 +14974,11 @@ Ser Duncan (Lvl 8) stands like a stone monolith, his massive hand resting on the
 God Mode:
 How many total forces?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-632"></a>
 #### Scene 632
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34425/48000 | Gold: 1428gp** &nbsp;|&nbsp; ⚠️ **Trace Fire Resistance, Draconic Catalyst | AP: 10/75**
@@ -13096,8 +15005,11 @@ While outnumbered nearly 3-to-1 in the immediate pincer, your retinue possesses 
 God Mode:
 how many enemies did we kill or capture?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-633"></a>
 #### Scene 633
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34425/48000 | Gold: 1428gp** &nbsp;|&nbsp; ⚠️ **Fire Resistance | Exhaustion: 0 | AP: 10/75**
@@ -13122,8 +15034,11 @@ Your retinue of 75 combatants remains at full strength. By executing the 104 ran
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the command conference atop the Grey Sentinel now that the tallies are clear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-634"></a>
 #### Scene 634
 
 > 📍 **The Grey Sentinel (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34,425 / 48,000 | Gold: 1,428gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | AP: 10/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -13139,8 +15054,11 @@ Beside the wagon where the seven officers are bound, Ser Duncan the Tall (Lvl 8)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Disciplined Advance - Move at a steady, professional pace to preserve the men&#x27;s stamina and avoid exhaustion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-635"></a>
 #### Scene 635
 
 > 📍 **The Southern Plains (Serpent's Gully Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34425/48000 | Gold: 1428gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | AP: 10**
@@ -13158,8 +15076,11 @@ Ser Duncan (Lvl 8) sits his mount like a protective mountain of iron, his weathe
 God Mode:
 lets have the hatchling/dragon level up faster than me so its eventually my level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-636"></a>
 #### Scene 636
 
 > 📍 **The Southern Plains (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34,425/48,000 | Gold: 1,428gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | AP: 8**
@@ -13174,8 +15095,11 @@ Administrative changes processed:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Interrogation - Halt the column for 30 minutes to break the remaining 6 officers for specific intel on the &#x27;Iron Crown&#x27; positions near the Rift.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-637"></a>
 #### Scene 637
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1**
@@ -13193,8 +15117,11 @@ However, the 'Distance' of your scholarship proves too wide for the grit of thes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Let Daeron Try - Have the Prince use his royal empathy and shared &#x27;muddle&#x27; history to try and break the officers (CHA-based).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-638"></a>
 #### Scene 638
 
 > 📍 **The Southern Plains (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34425/48000 | Gold: 1428gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0, AP: 8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -13216,8 +15143,11 @@ You watch from the shadows, your crystalline gaze noting the geometric precision
 > 👤 **Player:**
 > *"goat path, hyp surprise, defat the enemies, and then bring in all the loot/wagons from the front after we win"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-639"></a>
 #### Scene 639
 
 > 📍 **The Twin Spires (Northern Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 34425/48000 | Gold: 1428 Dragons** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0, AP: 13/100** &nbsp;|&nbsp; ⚠️ **Draconic Catalyst (+2 DC/Atk) | Exhaustion: 0 | Inspiration: No**
@@ -13238,8 +15168,11 @@ By the time the high Reach sun clears the eastern Spire, the narrows are yours. 
 > 👤 **Player:**
 > *"strip, loot everyone, kill everyone except captain, interrogate captain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-640"></a>
 #### Scene 640
 
 > 📍 **Twin Spires Narrows** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 41425/48000 | Gold: 1692 (Dragons)** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **AP Tracker: 18 | Hatchling (Lvl 3) Active**
@@ -13282,8 +15215,11 @@ You glide toward the bound Captain (Lvl 12), your crystalline gaze (Intimidation
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate to Daeron - Have the Prince use his shared &#x27;muddle&#x27; history to find common ground with the defeated mercenary.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-641"></a>
 #### Scene 641
 
 > 📍 **Twin Spires Narrows** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 41425/48000 | AP: 8** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | Exhaustion: 0**
@@ -13301,8 +15237,11 @@ The Captain (Lvl 12) looks at the Prince, his jaw working silently. For a heartb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Display Draconic Hunger - Allow Silverwing to physically threaten the prisoner, using primal fear to bypass his professional honor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-642"></a>
 #### Scene 642
 
 > 📍 **Twin Spires Narrows** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 41425/48000 | Gold: 1693 Dragons** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | Ascension: 8/25** &nbsp;|&nbsp; ⚠️ **Fire Resistance | AP: 8**
@@ -13335,8 +15274,11 @@ He closes his eyes, bracing for the strike, his soul anchored to a contract that
 > [!NOTE] ⚙️ **Player Choice:**
 > *Task Vaelon with Extraction - Allow the soot-lord steward to use more... &#x27;traditional&#x27; scholarly methods of information retrieval.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-643"></a>
 #### Scene 643
 
 > 📍 **Twin Spires Narrows** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 41425/48000 | Gold: 1692gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, L5 0/0, AP: 8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -13366,8 +15308,11 @@ However, the Iron Crown Captain is a man who has seen the Red Mountains turn to 
 > 👤 **Player:**
 > *"continue to the mouth and just bring him along, can try again later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-644"></a>
 #### Scene 644
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (13:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 41425/48000 | Gold: 1692gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | Slots: 4/3/3/1 | AP: 8** &nbsp;|&nbsp; ⚠️ **Ascension Tracker: 8 AP | Exhaustion: 0 | Inspiration: No**
@@ -13385,8 +15330,11 @@ Beside you, Ser Duncan (Lvl 8) sits his mount like a protective mountain, his ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Map - Gather the commanders to review the Trident-Rift Strategic Map against the current horizon, refining the final approach geometry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-645"></a>
 #### Scene 645
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 41575/48000 | Gold: 1692gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | AP: 8/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -13406,8 +15354,11 @@ Silverwing (Lvl 3) lets out a low, subsonic hum that vibrates through the humid 
 > 👤 **Player:**
 > *"THINK:whats the best strat? can i just pattern most of the 200?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-646"></a>
 #### Scene 646
 
 > 📍 **Southern Mouth of the Jagged Pass** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Dragon Scholar | HP: 28/28 | XP: 41575/48000 | AP: 8** &nbsp;|&nbsp; ⚠️ **Fire Resistance | Exhaustion: 0 | Inspiration: No**
@@ -13419,8 +15370,11 @@ You pause as the mountain wind whistles through the sandstone narrows, your crys
 > [!NOTE] ⚙️ **Player Choice:**
 > *The &#x27;Hyp Surprise&#x27; (Aggressive Combat) - Intercept the 200-man column from the flank, use Hypnotic Pattern on the officers to trigger a mass route of the levies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-647"></a>
 #### Scene 647
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 28/28 | XP: 52075/64000 | Gold: 1692gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1 | AP: 13/100** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -13448,8 +15402,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 9 - Apply level 9 Dragon Scholar benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-648"></a>
 #### Scene 648
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1**
@@ -13473,8 +15430,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) finish securing the dazed Peake of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Systematic Harvest - Oversee the total looting and culling of the 200-man route for maximum assets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-649"></a>
 #### Scene 649
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 52,575/64,000 | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1 | AP: 8/100** &nbsp;|&nbsp; ⚠️ **Bladesong/Haste (Inactive) | Exhaustion: 0 | AP: 8**
@@ -13492,8 +15452,11 @@ You watch the harvest with a scholar's clinical detachment, the 'Distance' betwe
 God Mode:
 we are actually killing al ot of people?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-650"></a>
 #### Scene 650
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 52575/64000 | Gold: 2292gp** &nbsp;|&nbsp; ⚠️ **Radiance Active | Exhaustion: 0 | AP: 8**
@@ -13524,8 +15487,11 @@ Yes, the retinue is currently conducting a high-efficiency culling of House Peak
 God Mode:
 in gameo f thrones is this enough killing for others to react and notice?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-651"></a>
 #### Scene 651
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1**
@@ -13552,8 +15518,11 @@ In the context of 'Game of Thrones' (Westeros), the current body count of **327 
 God Mode:
 for 4) i think its fine? its not like we invaded their lands? I assume we have some justification?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-652"></a>
 #### Scene 652
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 52575/64000 | Gold: 2292gp** &nbsp;|&nbsp; ⚠️ **Ascension Tracker: 8 AP | Exhaustion: 0 | Inspiration: No**
@@ -13582,8 +15551,11 @@ The reason I mentioned Baelor's reaction is because **Dunk (Lvl 8)** and **Rolan
 God Mode:
 would be companions be ok with killing hundreds of people?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-653"></a>
 #### Scene 653
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 52575/64000 | Gold: 2292gp** &nbsp;|&nbsp; ⚠️ **Ascension Tracker: 8 AP | Dragon: Silverwing (Lvl 5)**
@@ -13616,8 +15588,11 @@ Your companions are **not** morally 'okay' with it, but they are trapped by thei
 God Mode:
 ok lets assume that house targaryen members and supporters are mostly ok with it because they know the peakes are mobilizing, but other people may not be. also people should be terrified and lets give me a butcher title or some title that instills fear. someone using magic to capture and kill hundreds of soliders really stands out. lets make most soldiers afraid of me now and even my own troops, so its more realistic. lets not give house peake mage hunters, only the unfriendly remanent
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-654"></a>
 #### Scene 654
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 52575/64000 | Gold: 2432gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1 | Silverwing: Lvl 5** &nbsp;|&nbsp; ⚠️ **Apex Presence, The Silver Butcher | Exhaustion: 0 | AP: 13/75**
@@ -13633,8 +15608,11 @@ Ser Duncan (Lvl 8) stands at the perimeter of the culling, his massive hand rest
 God Mode:
 dont advance narrative. lets assume the belaerys remnant are fine, they may be afraid, but they believe i am a god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-655"></a>
 #### Scene 655
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1**
@@ -13650,8 +15628,11 @@ Confirmed. Administrative adjustments have been finalized to reflect the psychol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor Humanity (Ditchbond) - Personally assist Dunk with the horses and share a mundane meal, attempting to bridge the &#x27;Distance&#x27; and reduce AP.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-656"></a>
 #### Scene 656
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 52575/64000 | Gold: 2292gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -13675,8 +15656,11 @@ The simple reminder of your humanity anchors your spirit to the clay, the violet
 God Mode:
 always hsow my hp in session header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-657"></a>
 #### Scene 657
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1**
@@ -13686,8 +15670,11 @@ Directive added: Character HP will now always be explicitly displayed in the ses
 > 👤 **Player:**
 > *"interrogate officers, i should have an easier roll when using intimidation because they should be terrified. lets have most people who know the silver butcher name and aren't elite just have disadv on intim"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-658"></a>
 #### Scene 658
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 52775/64000 | Gold: 2292gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1, Ki: N/A, Rage: N/A, Potions: 0/0, AP: 8** &nbsp;|&nbsp; ⚠️ **Title: The Silver Butcher | Exhaustion: 0 | Inspiration: No**
@@ -13707,8 +15694,11 @@ You watch the submission with a scholar's clinical detachment. You have scoured 
 God Mode:
 always show my AP in the session header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-659"></a>
 #### Scene 659
 
 > 📍 **The Briar-Path, Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | AP: 8 | XP: 53075/64000 | Gold: 2292gp**
@@ -13722,8 +15712,11 @@ Directive added: Ascension Points (AP) will now be explicitly displayed in the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Trident Rim - Task Kaelen and the Remnant to identify the specific &#x27;Star-Spear&#x27; patrol patterns before committing the main force.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-660"></a>
 #### Scene 660
 
 > 📍 **The Trident-Rift Rim** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | AP: 8/25 | XP: 53075/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0**
@@ -13745,8 +15738,11 @@ Behind you, Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) watch the tower with a
 > [!NOTE] ⚙️ **Player Choice:**
 > *The &#x27;Hyp Surprise&#x27; Siege - Use your radiant patterns to daze the front line of Star-Spears while the Remnant executes a flanking sweep.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-661"></a>
 #### Scene 661
 
 > 📍 **The Trident-Rift Rim** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | AP: 13 | XP: 53075/64000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 1/1 | AP: 13/25** &nbsp;|&nbsp; ⚠️ **The Silver Butcher | Exhaustion: 0 | Inspiration: No**
@@ -13764,8 +15760,11 @@ You do not falter. You reach into the crystalline core of your Belaerys heritage
 > 👤 **Player:**
 > *"execute frozen, interrogate the lead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-662"></a>
 #### Scene 662
 
 > 📍 **The Trident-Rift Rim** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Dragon Scholar | HP: 30/30 | XP: 88,075/100,000 | Gold: 3,482gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Ascension Points: 13/25**
@@ -13799,8 +15798,11 @@ If you continue adventuring, you remain Level 11 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Level 10 &amp; 11 Growth - Finalize your ascension benefits before descending into the vaults.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-663"></a>
 #### Scene 663
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1**
@@ -13823,8 +15825,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) fall back five paces, their hands 
 > 👤 **Player:**
 > *"try detect thoughts o the captain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-664"></a>
 #### Scene 664
 
 > 📍 **The Trident-Rift Rim** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 9/25 | XP: 88075/100000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 9/11** &nbsp;|&nbsp; ⚠️ **The Silver Butcher | Inspiration: Yes**
@@ -13844,8 +15849,11 @@ The Captain's mind collapses into a state of spiritual shock as you withdraw, hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Radiant Entry (Aggressive) - Use Globe of Invulnerability to shield the vanguard from the Sun-Chaff while Silverwing leads a direct assault on the inner gates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-665"></a>
 #### Scene 665
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Visenya (Lvl 11) | HP: 36/36 | XP: 88,075/100,000 | AP: 19/25 (Threshold 1)** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 0/1 | Exhaustion: 0 | AP: 19**
@@ -13868,8 +15876,11 @@ You lead the vanguard through the wreckage, your crystalline gaze (Perception: 2
 > 👤 **Player:**
 > *"hold person on archamaester, he's a humanoid so should work. tell everyone else to tank the sentinel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-666"></a>
 #### Scene 666
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 20/25 | XP: 88075/100000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -13909,8 +15920,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"try hold person again with my haste again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-667"></a>
 #### Scene 667
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Visenya (Silver) (Lvl 11 Dragon Scholar) | HP: 36/36 | AP: 20/25 | XP: 88,075/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, Exhaustion: 0**
@@ -13932,8 +15946,11 @@ Round 1 ends in a symphony of steam and steel. The Archmaester's ritual continue
 God Mode:
 if i have haste cant i cast two spells in one turn?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-668"></a>
 #### Scene 668
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 20/25 | XP: 88075/100000 | Gold: 2292gp** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong | Exhaustion: 0 | Inspiration: No**
@@ -13953,8 +15970,11 @@ To cast two full spells in a single turn, you would typically need the Fighter's
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mass Suggestion (L6 Magic) - Use your Apex authority to command the Archmaester and his forces to cease their &#x27;Waking&#x27; and yield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-669"></a>
 #### Scene 669
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | XP: 88075/100000 | AP: 20/25** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1 | Exhaustion: 0**
@@ -13986,8 +16006,11 @@ YOUR TURN - ACTIONS REMAINING:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mass Suggestion (L6 Magic) - Use your Apex authority to command the Archmaester and his forces to cease their &#x27;Waking&#x27; and yield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-670"></a>
 #### Scene 670
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | XP: 88,075/100,000 | AP: 8** &nbsp;|&nbsp; ✨ **HD: 7/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong | Exhaustion: 0 | Inspiration: No**
@@ -14019,8 +16042,11 @@ YOUR TURN - ACTIONS REMAINING:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dominate Person (L5) - Seize the Archmaester&#x27;s will with 5th-level resonance (WIS Save vs DC 22)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-671"></a>
 #### Scene 671
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 30/25 (Threshold 1) | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 3/3, L5 1/2, L6 0/1 | AP: 30 | Exhaustion: 0**
@@ -14036,8 +16062,11 @@ Beside the pulsing Marrow-Well, the Threshold Sentinel (Lvl 12) vents a rhythmic
 > 👤 **Player:**
 > *"lets assuem i have a better weapon than a sling, like a +1 crossbow. I attack the archmaester with it using my haste attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-672"></a>
 #### Scene 672
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | XP: 88,075/100,000 | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/2, L6 0/1 | Exhaustion: 0**
@@ -14059,8 +16088,11 @@ Ser Roland Crakehall (Lvl 12) seizes the momentum. The white-cloaked glacier sli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Ritual Flaw - Use your INT/Investigation to find a geometric weakness in the Waking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-673"></a>
 #### Scene 673
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 30 | XP: 88,075/100,000 | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/2, L6 0/1** &nbsp;|&nbsp; ⚠️ **Haste (+2 AC, Advantage DEX saves, Extra Action) | Exhaustion: 0**
@@ -14102,8 +16134,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"dominate person archmage, free action direct silverwing and everyone to target anchor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-674"></a>
 #### Scene 674
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:01)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 40/25 (Threshold 1) | Gold: 2,292** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 0/1 | Silverwing: Lvl 9**
@@ -14127,8 +16162,11 @@ Round 3 ends in a symphony of steam and shattered stone. The Archmaester stands 
 > 👤 **Player:**
 > *"THINK:what is this ritual doing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-675"></a>
 #### Scene 675
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:01)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 40/25 | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 0/1 | Haste: Active** &nbsp;|&nbsp; ⚠️ **Haste, Concentrating (Dominate Person) | Exhaustion: 0**
@@ -14140,8 +16178,11 @@ Evening (20:01:00) in the Lower Vaults of the White Throat find the prehistoric 
 > 👤 **Player:**
 > *"tell the archmage to hae the sentinel stand down, then ask the archmage how i can safely seize the conduct"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-676"></a>
 #### Scene 676
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:01)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 40/25 (Threshold 1) | XP: 88075/100000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Concentrating (Dominate Person), Haste**
@@ -14163,8 +16204,11 @@ The Archmaester stiffens, his bronze mask reflecting your silver radiance. Throu
 > 👤 **Player:**
 > *"hae the archmage continue and gie me the ritual power, help him finish the ritual and have my remanents help too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-677"></a>
 #### Scene 677
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 50/75 | XP: 88075/100000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Concentrating (Dominate Person), Apex Aura (Visible)**
@@ -14188,8 +16232,11 @@ The 'Waking' hits one hundred percent. From the heart of the Marrow-Well, the li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Marrow-Core - Physically integrate the geometric starlight to finalize the power gain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-678"></a>
 #### Scene 678
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Dragon Scholar | HP: 36/36 | AP: 60/75 (Threshold 2: Obscurity Failing)** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 0/1** &nbsp;|&nbsp; ⚠️ **Fire Resistance, Concentrating: Dominate Person | Exhaustion: 0**
@@ -14216,8 +16263,11 @@ If you continue adventuring, you remain Level 11 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Level 12 Ascension - Apply level 12 benefits and choose your new Ability Score Improvement or Feat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-679"></a>
 #### Scene 679
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 49/49** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 3/3, L5 0/2, L6 1/1**
@@ -14244,8 +16294,11 @@ If you continue adventuring, you remain Level 12 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 12 - Apply level 12 Dragon Scholar benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-680"></a>
 #### Scene 680
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 51/51** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 3/3, L5 0/2, L6 2/2**
@@ -14267,8 +16320,11 @@ The effect is visible and absolute. The violet heat-haze around you has thickene
 God Mode:
 did you give me the con bonus twice?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-681"></a>
 #### Scene 681
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 51/51** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 3/3, L5 0/2, L6 2/2**
@@ -14292,8 +16348,11 @@ The world remains frozen in the Lower Vaults of the White Throat at 20:10:00 as 
 God Mode:
 lets give myself +2 dex instead of con and lets make sure you set all my spells in game state, i only see level 5+ ones. also auto pick  two more level 6 spells for me etc and make sure i got all the benefits from level 1-12 and you didnt miss naything
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-682"></a>
 #### Scene 682
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70 | XP: 103,075/120,000 | Gold: 2,292gp** &nbsp;|&nbsp; ⚠️ **Concentrating (Dominate Person), Functional Obscurity Failing**
@@ -14325,8 +16384,11 @@ I have populated your `spells_known` with a full suite of Dragon Scholar (Wizard
 God Mode:
 swap  mental prison with otto dance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-683"></a>
 #### Scene 683
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70 | XP: 103075/120000 | Gold: 2292gp**
@@ -14336,8 +16398,11 @@ Administrative update complete. I have modified your spell list to reflect the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Lower Vaults with your newly integrated power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-684"></a>
 #### Scene 684
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70 | Gold: 2,292 Dragons** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2 | AP: 70** &nbsp;|&nbsp; ⚠️ **Concentrating (Dominate Person), Threshold 2 Active (Obscurity Failing)**
@@ -14355,8 +16420,11 @@ Vaelon (Lvl 6) steps from the indigo shadows, his soot-grey surcoat fluttering a
 God Mode:
 you didnt give me any powers from the ritual, i should have massive powers since its a smaller doom of valryia type of thing?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-685"></a>
 #### Scene 685
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70/75 | Gold: 2,292gp** &nbsp;|&nbsp; ⚠️ **Concentrating: Dominate Person, Globe of Invulnerability (Residual Resonance)**
@@ -14374,8 +16442,11 @@ Administrative audit and power-scaling for the 'Waking' Ritual complete. You are
 God Mode:
 is that strong enough? what % of power was this compared to doom of valryia ritual?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-686"></a>
 #### Scene 686
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70/100 | Gold: 2,292gp**
@@ -14405,8 +16476,11 @@ While the powers are 'strong enough' to dominate standard mortal encounters, the
 God Mode:
 from the earlier narrative it sounded like more than 0.05% didnt we theorize it would destroy a whole area? is the area we htought about before reallt 0.05%?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-687"></a>
 #### Scene 687
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | XP: 103075/120000 | AP: 70** &nbsp;|&nbsp; ⚠️ **Functional Obscurity Failed, Fire Immunity, Truesight 120ft | Inspiration: No**
@@ -14435,8 +16509,11 @@ Because you successfully **conducted** the ritual instead of letting it explode,
 > 👤 **Player:**
 > *"interrogate the archmage and lets assume i hae the power to mask my godlike appearance, so I do so. people who already saw me will remember, but new people need to roll a strong DC deception check (DC should be either my spell DC or my deception DC)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-688"></a>
 #### Scene 688
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:10)** &nbsp;|&nbsp; 🛡️ **Visenya (Lvl 12) | HP: 39/39 | XP: 103,075/120,000 | AP: 60/75** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Fire Immunity | Truesight 120ft | Concentrating: Dominate Person**
@@ -14460,8 +16537,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) watch from the shadows, their face
 > 👤 **Player:**
 > *"ask him where the egg is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-689"></a>
 #### Scene 689
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 60/75 | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2** &nbsp;|&nbsp; ⚠️ **Concentrating: Dominate Person, Ritual Masking (DC 25) | Exhaustion: 0**
@@ -14492,8 +16572,11 @@ Prince Daeron (Lvl 6) and Ser Roland Crakehall (Lvl 12) watch from the shadows, 
 God Mode:
 does it make sense that the egg is far away from the archmage?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-690"></a>
 #### Scene 690
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 3/3, L5 0/2, L6 2/2**
@@ -14515,8 +16598,11 @@ Regarding your question about whether it 'makes sense' for the egg to be physica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Puppet the Signals - Force the Archmaester to send a &#x27;Ritual Successful/Awaiting Orders&#x27; signal to Starpike to delay Lord Peake&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-691"></a>
 #### Scene 691
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 60/25 | XP: 103075/120000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2 | HD: 9/12** &nbsp;|&nbsp; ⚠️ **Concentrating (Dominate Person), Masked (DC 25)**
@@ -14550,8 +16636,11 @@ Through your Marrow-Sight, you look down at the geometric fracture in the well's
 > 👤 **Player:**
 > *"ask him where the egg is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-692"></a>
 #### Scene 692
 
 > 📍 **Trident-Rift - Lower Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 60/100 | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2 | Silverwing (Lvl 11): Active**
@@ -14594,8 +16683,11 @@ Prince Daeron (Lvl 6) and Ser Duncan the Tall (Lvl 8) approach the edge of the p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to the Heart-Plinth - Lead the vanguard through the fracture in the well to claim the Belaerys Seed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-693"></a>
 #### Scene 693
 
 > 📍 **Heart-Plinth (White Throat)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70/25 | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 3/3, L5 0/2, L6 2/2 | AP: 70** &nbsp;|&nbsp; ⚠️ **[Concentrating: Dominate Person] | Exhaustion: 0 | Inspiration: No**
@@ -14620,8 +16712,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) descend into the chamber, their fa
 God Mode:
 wait arent we in perzys soydon?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-694"></a>
 #### Scene 694
 
 > 📍 **Perzys Sōdyon (The Heart-Plinth)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70/75 | Gold: 2,292gp** &nbsp;|&nbsp; ⚠️ **Concentrating (Dominate Person), Masked (DC 25)**
@@ -14643,8 +16738,11 @@ In short: You are standing in the **Heart-Plinth**, which is the innermost sanct
 > 👤 **Player:**
 > *"ask the archmage if we can still resurrect the baelerys dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-695"></a>
 #### Scene 695
 
 > 📍 **Heart-Plinth, Lower Vaults of the White Throat** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 70 | Gold: 2292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Concentrating (Dominate Person), Masked, Fire Immunity, Truesight**
@@ -14679,8 +16777,11 @@ You look down at the egg. Through your Marrow-Sight (Truesight), you see the fli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Blood-Flame - Channel your Level 12 resonance directly into the Seed to trigger an immediate hatching (High AP/Exhaustion risk).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-696"></a>
 #### Scene 696
 
 > 📍 **Heart-Plinth, Lower Vaults of the White Throat (Perzys Sōdyon)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 90/100 (Threshold 3: Radiance Absolute)** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1, Masking Failed**
@@ -14705,8 +16806,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) fall to their faces, unable to loo
 God Mode:
 whats the difference between my new dragon and silverwing. also give it a name
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-697"></a>
 #### Scene 697
 
 > 📍 **Heart-Plinth, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | XP: 113075/120000 | Gold: 2292gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2, AP: 90** &nbsp;|&nbsp; ⚠️ **Exhaustion Lvl 1, Radiance Absolute (Threshold 3) | AP: 90/100**
@@ -14722,8 +16826,11 @@ Silverwing watches the newcomer with a low, subsonic growl of curiosity, her Lar
 God Mode:
 dont advance narrative in god mode. explain the capabilities of the new dragon. and abilities as it levels. also gie it double exp until its the same level as me, just like the other dragon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-698"></a>
 #### Scene 698
 
 > 📍 **Heart-Plinth, Lower Vaults of the White Throat** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | XP: 113,075/120,000 | AP: 90 (Threshold 3)** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft, Exhaustion 1**
@@ -14758,8 +16865,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 no letes give it exp, not just 2 levels per my one level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-699"></a>
 #### Scene 699
 
 > 📍 **Heart-Plinth, Lower Vaults of the White Throat** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | XP: 113075/120000 | AP: 90** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on ability checks)**
@@ -14778,8 +16888,11 @@ Confirmed. I have modified the experience protocol for your dragon companions.
 > 👤 **Player:**
 > *"try to stabilize the mind of the archmage and use normal intimidation/persusasion to get him to serve me. dont use magic or somethign that givces me AP. also ask him how to reduce my AP"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-700"></a>
 #### Scene 700
 
 > 
@@ -14807,8 +16920,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) watch from the shadows, their face
 > 👤 **Player:**
 > *"wait redo this roll, while he's under dominate person i ask him the exact way to get him to be recruited after i release it. ie. keys to his heart. he has no choice but to tell me, then i utilize this knowledge after i release it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-701"></a>
 #### Scene 701
 
 > 📍 **Heart-Plinth, Lower Vaults of the White Throat** &nbsp;|&nbsp; ⏳ **Mirtul 24, 209 AC (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | XP: 113075/120000 | AP: 90** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 0/2, L6 2/2** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1, Radiance Absolute | Inspiration: No**
@@ -14841,8 +16957,11 @@ The Archmaester staggers, gasping as the liquid starlight of your command evapor
 > 👤 **Player:**
 > *"secure archmaester, long rest, prepare for ambush when peak comes. any free time i  will attempt ditchbond convos to reduce my AP"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-702"></a>
 #### Scene 702
 
 > 📍 **Heart-Plinth, Lower Vaults of the White Throat** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 60/100 (Threshold 2: Obscurity Failing)** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Restored, Well-rested | Inspiration: No**
@@ -14882,8 +17001,11 @@ Notification: A sense of geometric calm settles over the Rift as your power stab
 > 👤 **Player:**
 > *"Sovereign trap plus hyp surprise"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-703"></a>
 #### Scene 703
 
 > 📍 **Perzys Sōdyon (The White Throat)** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 75/100 (Threshold 2: Obscurity Failing)** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/2, L6 2/2 | HD: 9/9 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Active (Expires Turn 1413)**
@@ -14906,8 +17028,11 @@ Prince Daeron (Lvl 6) and Ser Roland (Lvl 12) emerge from the high grass, their 
 God Mode:
 Don't advance narrative . Going forward  i shouldn't need to unmask to cast spells unless level 7+ . For other spells I can post as a high tier mage. Keep the
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-704"></a>
 #### Scene 704
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 1/3, L4 3/3, L5 0/2, L6 2/2**
@@ -14924,8 +17049,11 @@ The story remains frozen at Dawn (06:30:00) atop the White Throat parapets, with
 > 👤 **Player:**
 > *"Bind everyone first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-705"></a>
 #### Scene 705
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 23/25 (Threshold 1: Masked)** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/2, L6 2/2** &nbsp;|&nbsp; ⚠️ **Haste (Concentration), Sanctuary Mode (Major Arc)**
@@ -14945,8 +17073,11 @@ However, the geometry of the 'Sovereign Trap' is tested by the raw weight of the
 > 👤 **Player:**
 > *"Intimidate them into surrendering. Should be easy and have advantage as the silver butcher"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-706"></a>
 #### Scene 706
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Dragon Scholar | HP: 39/39 | AP: 85/90 (Threshold 2) | Gold: 2,292gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 3/3, L5 1/2, L6 2/2** &nbsp;|&nbsp; ⚠️ **Masked (DC 25) | Exhaustion: 0 | Inspiration: No**
@@ -14974,8 +17105,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 God Mode:
 Let's have daeron and Duncan gain experience from all these events too but relative to their contributions and not as much as me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-707"></a>
 #### Scene 707
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 39/39 | AP: 85 (Threshold 2) | XP: 123,075/140,000**
@@ -14999,8 +17133,11 @@ Both companions have been updated in the world state to reflect their increased 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 - Apply level 13 Dragon Scholar benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-708"></a>
 #### Scene 708
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (06:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 85 | XP: 123,075/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | AP: 85 | Exhaustion: 0**
@@ -15020,8 +17157,11 @@ Prince Daeron (Lvl 8) and Ser Roland (Lvl 12) step back, their hands shielding t
 God Mode:
 Give me simulcrum instead of forecage
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-709"></a>
 #### Scene 709
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 123075/140000 | Gold: 2432gp**
@@ -15035,8 +17175,11 @@ Spellbook modification finalized. I have scoured 'Forcecage' from your 7th-level
 > 👤 **Player:**
 > *"Dominate person lord peake, interrogate him, get him to explain the whole history of killing baelerys, his family goals, his personal, goals, keys to his heart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-710"></a>
 #### Scene 710
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 123,075/140,000 | AP: 95 (Threshold 3: Radiance Absolute)** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -15074,8 +17217,11 @@ Prince Daeron (Lvl 8) and Ser Roland (Lvl 12) watch in hushed, spiritual terror.
 God Mode:
 What's my spell DC now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-711"></a>
 #### Scene 711
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 123,075/140,000 | AP: 95/100 (Threshold 3: Radiance Absolute)**
@@ -15098,8 +17244,11 @@ Your Spell Attack Bonus is **+16** (5 Prof + 5 INT + 6 Dragon).
 > 👤 **Player:**
 > *"Sovereigns mercy. Make him sign a divine blood oath though. It's like a normal blood oath but uses magic to heal the wound. Should intimidate him into being loyal for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-712"></a>
 #### Scene 712
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:47)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 95 (Threshold 3: Radiance Absolute)** &nbsp;|&nbsp; ⚠️ **Haste (Concentration), Truesight, Fire Immunity**
@@ -15119,8 +17268,11 @@ Prince Daeron (Lvl 8) and Ser Roland (Lvl 12) watch in a hushed, spiritual stupo
 > 👤 **Player:**
 > *"Explain my decision to my men and peake men who are now my vassals. I was forced to be the silver butcher because we were desperate and needed to reduce their numbers. However that is not who I am. I am the silver sovereign. Fire and blood to my enemies but I raise up those who kneel. Even an enemy like Peake who killed my family because peace is ultimately my goal not Vengance. However if I am betrayed lord Peake, his family, and all his men are dead. The killing you've seen so far will pale in comparison. This should be easy DC because sparing him is very generous. It should reduce my AP a lot by 50 because everyone thought I'd be a god of vengeance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-713"></a>
 #### Scene 713
 
 > 📍 **The White Throat Parapet, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 45 | XP: 123,575/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Silverwing: L13 | Aetherax: L3 | AP: 45**
@@ -15144,8 +17296,11 @@ Beneath the shadow of your hair, the ultraviolet heat-haze cools to a gentle, rh
 > 👤 **Player:**
 > *"Narrate everyone's reaction to my surprising mercy. Everyone expected the god of vengeance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-714"></a>
 #### Scene 714
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 123,575/140,000 | AP: 45 (Threshold 1)** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Silver Pulse: 1/1 | Exhaustion: 0**
@@ -15173,8 +17328,11 @@ Prince Daeron (Lvl 8) stands with his hand on the pommel of his blunted rapier, 
 > 👤 **Player:**
 > *"Further explain to everyone I don't seek glory. Let's keep the events for today a secret. I do not want the world to turn into a dragon god war. Publically you are sword to dareon and privately know that you have my protection."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-715"></a>
 #### Scene 715
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (07:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 123,575/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -15204,8 +17362,11 @@ A heavy, expectant silence falls over the dry-wash. Prince Daeron (Lvl 8) steps 
 > 👤 **Player:**
 > *"Narrate everyone's reaction to my modesty and mercy. I should lose another 30 AP."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-716"></a>
 #### Scene 716
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (07:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 124075/140000 | Gold: 2432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Turn 1431/1413) | Exhaustion: 0 | Inspiration: No**
@@ -15235,8 +17396,11 @@ Current AP: 0 (Threshold 0: Functional Obscurity Restored)
 > 👤 **Player:**
 > *"Show peake that i genuinely forgive him. Explain that if he serves well his family can be elevated and I have non need to make him feel small. Then explain let's go get his family and travel together in solidarity to the ashford tourney where he will bend the knee to daeron but be respected as a trusted ally for prioritizing peace"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-717"></a>
 #### Scene 717
 
 > 📍 **The White Throat, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 (Threshold 0)** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Functional Obscurity Restored | Inspiration: No**
@@ -15269,8 +17433,11 @@ Beside you, Ser Duncan (Lvl 9) watches with a watery, lopsided grin, his massive
 > 👤 **Player:**
 > *"We turn white throat into baelerys research facility and the archmage becomes my companion because  Peake releases his library"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-718"></a>
 #### Scene 718
 
 > 📍 **Belaerys Research Facility, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 125375/140000 | Gold: 2432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Ascension Tracker: 0 AP (Threshold 0: Functional Obscurity Restored) | Exhaustion: 0 | Inspiration: No**
@@ -15302,8 +17469,11 @@ Despite his hesitation, the transition is absolute. Under the guidance of Vaelon
 God Mode:
 Stop the faction management hints for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-719"></a>
 #### Scene 719
 
 > 📍 **Belaerys Research Facility, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 125,375/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ⚠️ **Ascension Tracker: 0 AP (Threshold 0: Functional Obscurity Restored) | Exhaustion: 0 | Inspiration: No**
@@ -15313,8 +17483,11 @@ Acknowledged. Faction management hints have been suppressed. I have updated the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Research - Spend time with Archmaester Vaelis in the new facility to begin unweaving the secrets of the Belaerys Seed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-720"></a>
 #### Scene 720
 
 > 📍 **Belaerys Research Facility, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 125,525/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion (0) | Inspiration: No**
@@ -15336,8 +17509,11 @@ You gain **150 XP** for the successful scholarly unweaving of the Belaerys Seed'
 > 👤 **Player:**
 > *"Allow Vaelis to fully research me and my dragons full access. He should be grateful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-721"></a>
 #### Scene 721
 
 > 📍 **Belaerys Research Facility, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 126,825/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Functional Obscurity (Masked) | Exhaustion: 0 | Inspiration: No**
@@ -15367,8 +17543,11 @@ You gain **1,300 XP** for the masterful recruitment and scholarly integration of
 > 👤 **Player:**
 > *"Give him the same deal as Peake. Loyalty and be uplifted. We can learn the secrets of the cosmos together r"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-722"></a>
 #### Scene 722
 
 > 📍 **Belaerys Research Facility, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 127,825/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 1/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | HD: 9/13 | Silver Pulse: 1/1**
@@ -15400,8 +17579,11 @@ Beside you, Ser Duncan (Lvl 9) lets out a long, quiet exhale, his massive hand r
 > 👤 **Player:**
 > *"Give him an ambitious goal. Can we replicate what we did here today with a real source of power? Like gain the power of the 14 flames but do it right this time. If he's able to figure that out his name and knowledge would love forever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-723"></a>
 #### Scene 723
 
 > 📍 **Belaerys Research Facility, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 127,825/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1** &nbsp;|&nbsp; ⚠️ **Functional Obscurity (Masked) | Exhaustion: 0 | Inspiration: Yes**
@@ -15423,8 +17605,11 @@ Beside the gate, Ser Duncan the Tall (Lvl 9) watches the exchange, his massive h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the &#x27;Swarm&#x27; - Personally walk the ranks of the 100 Peake men to reinforce their new loyalty to the &#x27;Sovereign&#x27; through modesty and presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-724"></a>
 #### Scene 724
 
 > 📍 **Belaerys Research Facility, Perzys Sōdyon** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 127,825/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Turn 1447/1413) | Exhaustion: 0 | Inspiration: Yes**
@@ -15454,8 +17639,11 @@ A ripple of visible relief follows your wake. The 'Distance' is still there—a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solidarity March (Synergistic) - Move the entire column to Starpike in state—showing the Marches that Peake and Targaryen are now one unit under Daeron&#x27;s banner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-725"></a>
 #### Scene 725
 
 > 📍 **Starpike, The Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 128,125/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1** &nbsp;|&nbsp; ⚠️ **Functional Obscurity (Masked) | Exhaustion: 0 | Inspiration: No**
@@ -15473,8 +17661,11 @@ As the column reaches the shadow of Starpike's outer curtain wall, the silence o
 God Mode:
 Let's assume I'm dressed like a noble now. I have a luxury hat. It doesn't make sense that I'm dressed like a commoner. I look  extremely beautiful and a  tier above normal Targaryens but I look mortal
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-726"></a>
 #### Scene 726
 
 > 📍 **Starpike Courtyard, The Dornish Marches** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 128,125/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Functional Obscurity (0 AP) | Exhaustion: 0 | Inspiration: Yes**
@@ -15492,8 +17683,11 @@ Lady Peake (Lvl 5) bows so low her silks brush the grit, her face a mask of hush
 > 👤 **Player:**
 > *"Narrate a scene without me where Peake is talking to Daereon and kingusard. He's genuinely touched and surprised at my mercy. Dareon at first says he's shocked too but then he remembers my mercy to the redwynes and tells them the tale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-727"></a>
 #### Scene 727
 
 > 📍 **Lord's Solar, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -15515,8 +17709,11 @@ Lord Peake looks at his unscarred palm, the rhythmic frequency of the blood oath
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Director - Before leaving, have a final strategy session with Vaelis regarding the &#x27;Fourteen Flames&#x27; replication goal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-728"></a>
 #### Scene 728
 
 > 📍 **Guest Library, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 128,125/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Functional Obscurity (DC 25 to pierce) | Exhaustion: 0 | Inspiration: No**
@@ -15542,8 +17739,11 @@ You nod with a scholar's detachment, committing the failure to your mental ledge
 > [!NOTE] ⚙️ **Player Choice:**
 > *Preside at the High Table - Use your extreme beauty and royal poise to cement the loyalty of the Peake kin during a formal dinner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-729"></a>
 #### Scene 729
 
 > 📍 **Great Hall, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 128,125/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Functional Obscurity | Exhaustion: 0 | Inspiration: Yes**
@@ -15571,8 +17771,11 @@ Beside you, Ser Duncan the Tall (Lvl 9) eats with a quiet, lopsided grin, his ma
 > 👤 **Player:**
 > *"Narrate reactions from his children. They should be intimidated because they've heard the silver butcher stories and see my dragons but I am genuinely warm and merciful to them so they start to esrm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-730"></a>
 #### Scene 730
 
 > 📍 **Great Hall, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | Gold: 2432gd** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1** &nbsp;|&nbsp; ⚠️ **Masked Divinity (DC 25) | Exhaustion: 0 | Inspiration: No**
@@ -15604,8 +17807,11 @@ Lord Peake (Lvl 12) watches the interaction, his weathered face etched with a so
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign&#x27;s Grace (Synergistic) - While you share tales of the road, allow Silverwing to perform a gentle, rhythmic purr to calm the room while Vaelis displays a harmless &#x27;Star-Light&#x27; illusion for the children.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-731"></a>
 #### Scene 731
 
 > 📍 **Great Hall, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 128,125/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -15633,8 +17839,11 @@ The youngest boy lets out a soft, delighted gasp, his hand reaching out to touch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Counsel with Daeron - Discuss the political implications of the &#x27;Prince&#x27;s Vanguard&#x27; facade with your brother*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-732"></a>
 #### Scene 732
 
 > 📍 **Sandstone Balcony, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 128,125/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -15654,8 +17863,11 @@ He turns to you, and your Marrow-Sight (Truesight) notes the needle-thin tremor 
 God Mode:
 Give me expertise for all cha based checks due to my power from absorbing the mouth or whatever. And remember to keep using my int modifier
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-733"></a>
 #### Scene 733
 
 > 📍 **Sandstone Balcony, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 AC (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 128,125/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ⚠️ **Functional Obscurity Restored | Exhaustion: 0 | Inspiration: No**
@@ -15673,8 +17885,11 @@ I have added a persistent directive to ensure your Intelligence modifier (+5) is
 > 👤 **Player:**
 > *"Tell him of course but ask how he's doing. The mouth and dragon embers he's dreamed about his whole life are handled now. He will be known as the peace bringer and have so much political capital he will be a great prince I've always believed in. If he protects the peakes and ensures rheir loyalty they may never need my powers to fall into line"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-734"></a>
 #### Scene 734
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1**
@@ -15696,8 +17911,11 @@ The simple, profound sincerity of his words acts as a cooling balm on your marro
 > 👤 **Player:**
 > *"Go play with the peake children and let them feed the dragons and have the dragons act cute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-735"></a>
 #### Scene 735
 
 > 📍 **Great Hall, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 125,375/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -15729,8 +17947,11 @@ Current AP: 0 (Threshold 0: Functional Obscurity Restored)
 God Mode:
 Let's assume I'm not always wearing my hat especially not inside
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-736"></a>
 #### Scene 736
 
 > 📍 **Great Hall, Starpike** &nbsp;|&nbsp; ⏳ **5th Moon, 209 AC (25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 128,125/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Functional Obscurity | Inspiration: Yes**
@@ -15746,8 +17967,11 @@ Beside the fire, Ser Duncan the Tall (Lvl 9) stretches his massive limbs, his bo
 > 👤 **Player:**
 > *"Take lady peake aside and explain all is forgiven. Then observe her and say I have a feeling you were never very enthusiastic about the plan to claim a dragon and battle the Targaryens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-737"></a>
 #### Scene 737
 
 > 📍 **Great Hall, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 128,125/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -15792,8 +18016,11 @@ Lady Peake (Lvl 5) stiffens, her breath catching in a ragged, rhythmic hitch. Sh
 > 👤 **Player:**
 > *"Study in the library Rory Vaelis and see what we learn about the 14 flames"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-738"></a>
 #### Scene 738
 
 > 📍 **Guest Library, Starpike** &nbsp;|&nbsp; ⏳ **Mirtul 25, 209 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 125,375/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -15827,8 +18054,11 @@ Beside you, the Large obsidian Silverwing (Lvl 13) lets out a low, content purr,
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Pincer (Synergistic) - Vaelis conducts the initial survey of the Gate while you and Daeron lead the main column to Ashford; the &#x27;Prince&#x27;s Vanguard&#x27; facade covers the research activity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-739"></a>
 #### Scene 739
 
 > 📍 **Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 129,925/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1** &nbsp;|&nbsp; ⚠️ **Functional Obscurity Restored | Exhaustion: 0**
@@ -15850,8 +18080,11 @@ Ser Roland Crakehall (Lvl 12) and Ser Duncan the Tall (Lvl 9) flank you like twi
 > 👤 **Player:**
 > *"Let's assume I always ride my dragon now when appropriate and not the pony. Redo the scene. Baelor my father and my sisters should be frantically greeting us at the Gate. Peake bending the knee and not one but two dragons should be shocking and great news for them but they should be wary at why this is happeninf"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-740"></a>
 #### Scene 740
 
 > 📍 **Ashford Meadow - Main Gate** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 (Threshold 0) | XP: 129,925/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -15876,8 +18109,11 @@ Baelor the Breakspear (Lvl 15) freezes, his hand tightening on his signet ring. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Family&#x27;s Shield (Synergistic) - Let Daeron handle the official Peake submission while you personally comfort your sisters, using the &#x27;Ditchbond&#x27; with family to cool the room&#x27;s tension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-741"></a>
 #### Scene 741
 
 > 📍 **Ashford Meadow - Main Gate** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 129,925/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -15907,8 +18143,11 @@ Beside you, Silverwing (Lvl 13) lets out a low, subsonic purr that vibrates thro
 God Mode:
 The otherness check should work differently. Someone  needs to roll perception when they're suspicious against my spell DC. If they win they'll realize there's more to me and see some godlike features for a second
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-742"></a>
 #### Scene 742
 
 > 📍 **Ashford Meadow - Main Gate** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 129,925/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked (DC 25), Sanctuary Active (Major Arc)**
@@ -15940,8 +18179,11 @@ Baelor catches himself, his hand white-knuckled on his signet ring as he looks f
 God Mode:
 Why do they both have such high modifiers in rheir perception rolls?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-743"></a>
 #### Scene 743
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 1/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1**
@@ -15970,8 +18212,11 @@ In sequence 1484, the roll result of 30 was achieved because Maekar rolled a **N
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mended House Protocol (Synergistic) - Let Daeron present the Peake submission officially while you maintain the emotional anchor with your sisters, using the family bond to normalize your presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-744"></a>
 #### Scene 744
 
 > 📍 **Ashford Meadow - Main Gate** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,425/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -16001,8 +18246,11 @@ Baelor's hand relaxes on his signet ring. He looks at the 175 men—a combined f
 > 👤 **Player:**
 > *"Let's have maekar take dareon aside private and ask what happened m. Narrate scene without me. Dareon maintains the story and says I genuinely don't shave a lust for power (more than he can reveal he's seen me give it up many times )"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-745"></a>
 #### Scene 745
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,425/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -16035,8 +18283,11 @@ Maekar stares into the amber depths of his wine, the granite of his expression f
 > 👤 **Player:**
 > *"Daeron further explains. He says if Visenya was all fire and blood do you think Peake would be alive and well? His kin killed her mother's family and he was actually trying to resurrect a dragon. We stopped it and the dragons turned out to be loyal to her (reduce some details so power is less godlike) and when she had all the power to enact vengeance she choose peace. Father could you have made that choice? I admit I may it have been able to"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-746"></a>
 #### Scene 746
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,425/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -16067,8 +18318,11 @@ Maekar (Lvl 15) stiffens, his jaw setting as he looks into his wine. The 'Anvil'
 > 👤 **Player:**
 > *"Narrate maekars response. He admits that if it were him he likely would not have spared peake"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-747"></a>
 #### Scene 747
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -16098,8 +18352,11 @@ You gain **450 XP** for the masterful psychological breakthrough with Prince Mae
 > 👤 **Player:**
 > *"Keep the scene going without me. Maekar reminds Dareon of his most important duty. He says right now my soul is noble and far above anyone else. We must pray it stays that way because if I change the world will burn. Far faster than anything Aegon the conqueror would've done"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-748"></a>
 #### Scene 748
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Month 5, 209 AC (Day 30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 130,875/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -16129,8 +18386,11 @@ Maekar lets out a long, ragged exhale, his hand finally dropping from Daeron’s
 > 👤 **Player:**
 > *"Let's keep the scene without me going. Maekar talks to Baelor privately about me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-749"></a>
 #### Scene 749
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 130,875/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -16160,8 +18420,11 @@ Baelor stands, his white silk surcoat rustling as he walks to the pavilion openi
 > 👤 **Player:**
 > *"Maekar elaborates. He says right now her soul is noble far above ours. Mercy for the killers if her mother's family is not the act of a butcher. But she did kill hundreds of men when forced to and she's only 10 years old. When she's older perhaps thousands or milllions will lose their lives if she loses her heart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-750"></a>
 #### Scene 750
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | Gold: 2432gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Functional Obscurity, Level 1 Exhaustion | Inspiration: No**
@@ -16193,8 +18456,11 @@ Outside, the 'Prince's Vanguard' (175 Spears) continues to set camp with a profe
 > 👤 **Player:**
 > *"Maekar says he didn't get all the details from daereon but visenya has magic that can freeze hundreds of soldiers in place. It's for over 300 peake men were killed. It might be even stronger than having a dragon because of the precision. And anyway she has two dragons  and one is a ghost type which has never been heard of. If there is a battle should we let her participate? Or can we even stop her? With her powerrs and dragons  house Targaryen will never lose a war again. Good thing our father is a man of peace and so are you"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-751"></a>
 #### Scene 751
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Ascension Tracker: 0 AP (Threshold 0: Functional Obscurity Restored) | Exhaustion: 0 | Inspiration: Yes**
@@ -16216,8 +18482,11 @@ Outside, the 'Prince's Vanguard' (175 Spears) continues to set camp with a profe
 > 👤 **Player:**
 > *"Maekar makes a joke and says he had wished he could have another go at the balckfyres but he's afraid of how his daughter would finish things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-752"></a>
 #### Scene 752
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 130,875/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -16237,8 +18506,11 @@ Outside, the 'Prince's Vanguard' (175 Spears) continues to set camp with a profe
 > 👤 **Player:**
 > *"Let's narrate a scene where maekar comes and talks to me 1on1 and politely asks me what really happened. I give some details but not the full detail."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-753"></a>
 #### Scene 753
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 130,875/140,000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | HD: 9/13 | Exhaustion: 0**
@@ -16273,8 +18545,11 @@ Maekar stands motionless for a long heartbeat, his breath a puff of cool air in 
 > 👤 **Player:**
 > *"Give maekar a smile. Explain I do have some magic and it makes a trick of the light look like the act of a god. However the light itself can change things. For example during a duel being blinded by the sun for a few momentum's is deadly. Make hypnotic pattern sound like more mundane magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-754"></a>
 #### Scene 754
 
 > 📍 **Ashford Meadow - Prince's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 130,875/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Functional Obscurity | Exhaustion: 0 | Inspiration: Yes**
@@ -16292,8 +18567,11 @@ Maekar (Lvl 15) watches you, the granite of his expression finally settling into
 > 👤 **Player:**
 > *"Narrate a feast. Peake family sits at the table with the Targaryens and he publicly credits daeron as the peace bringer. Everyone is very impressed by Daeron. Because the peaks have been rebellious forever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-755"></a>
 #### Scene 755
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1, Exhaustion: 0**
@@ -16326,8 +18604,11 @@ Beside you, Ser Duncan the Tall (Lvl 9) watches with a watery, lopsided grin, hi
 God Mode:
 Stop mentioning my hat. I no longer wear it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-756"></a>
 #### Scene 756
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 130,875/140,000**
@@ -16337,8 +18618,11 @@ Administrative update complete. I have unequipped the 'Luxury Silk Wide-Brimmed 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Toast to Baelor - Approach Baelor privately to reinforce the &#x27;scholar-sister&#x27; role and express gratitude for his guidance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-757"></a>
 #### Scene 757
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0**
@@ -16370,8 +18654,11 @@ Baelor (Lvl 15) looks down at you, his violet eyes softening with a paternal war
 > 👤 **Player:**
 > *"Telepathically ask Vaelis how to the gate is going and what would happen if I consume the magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-758"></a>
 #### Scene 758
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | Gold: 2,432gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Ascension Tracker: 0 AP (Functional Obscurity) | Exhaustion: 0 | Inspiration: Yes**
@@ -16409,8 +18696,11 @@ Your father, Prince Maekar (Lvl 15), glances at you, his soldier's instinct sens
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plan Secret Pilgrimage - Prepare to slip away from the tourney under a *Simulacrum* to consume the magic personally at the Gate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-759"></a>
 #### Scene 759
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | Gold: 932gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1 | Exhaustion: 0**
@@ -16429,8 +18719,11 @@ However, the 12-hour conduct is a treacherous equation. [Arcana: 12 vs DC 20 - F
 > 👤 **Player:**
 > *"Redo that. Simulcrum is a spell and it can't fail like that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-760"></a>
 #### Scene 760
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | Gold: 932gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1**
@@ -16463,8 +18756,11 @@ Despite your masterful poise, the sheer magnitude of the 7th-level resonance cau
 > 👤 **Player:**
 > *"Redo that. I obviously don't cast simukcrum in front of everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-761"></a>
 #### Scene 761
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 39/39 | XP: 130,875/140,000 | AP: 20** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1, Exhaustion: 0**
@@ -16483,8 +18779,11 @@ Your hair erupts into a permanent banner of ultraviolet light, and a shimmering,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Masking - Use your Haste action to weave a 2nd-level Invisibility or Illusion over the tent to dampen the leakage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-762"></a>
 #### Scene 762
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 (Temp: 0) | XP: 130,875/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | AP: 0 | Inspiration: Yes**
@@ -16513,8 +18812,11 @@ Outside, the world remains oblivious to the supernova within. A Fossoway outride
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conduct &amp; Telepathic Sync (Synergistic) - Maintain the Simulacrum&#x27;s stability while simultaneously receiving a mental map of the Gate from Vaelis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-763"></a>
 #### Scene 763
 
 > 📍 **Ashford Meadow - Royal Pavilion (Masked)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | AP: 0 (Threshold 0)** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Simulacrum Conduct (11.5 Hours Left), Invisibility (Tent Masking)**
@@ -16530,8 +18832,11 @@ Outside, Ser Duncan the Tall (Lvl 9) shifts his weight, the sound of his boots o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Resonance - Focus entirely on the duplicate&#x27;s silhouette to anchor its &#x27;Otherness&#x27; before it bleeds through the mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-764"></a>
 #### Scene 764
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | Gold: 932gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Simulacrum Conduct (11.5h) | Exhaustion: 0 | Inspiration: No**
@@ -16549,8 +18854,11 @@ Outside, the heavy, rhythmic thud of Ser Duncan's (Lvl 9) boots on the turf slow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Speak to Dunk - Provide a final human anchor to your protector before you leave, ensuring his sanity holds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-765"></a>
 #### Scene 765
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1 | Exhaustion: 0**
@@ -16585,8 +18893,11 @@ The 'Mortal Tie' (AP Reduction: -20) reinforces your humanity, cooling the last 
 > 👤 **Player:**
 > *"Go to private area and telepathically communicate with vaelis. If we do this ritual would I actually get all the power of the doom of Valriya or just a %? If so how much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-766"></a>
 #### Scene 766
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1, Exhaustion: 0**
@@ -16606,8 +18917,11 @@ You sit in the ultraviolet gloom of your tent, the weight of the percentage hang
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plan Pilgrimage Logistics - Coordinate with Vaelis to find the safest &#x27;Conduct-Point&#x27; to minimize the AP surge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-767"></a>
 #### Scene 767
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 130,875/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Conduct (11.5h), Masked (DC 25), Reinforced Masking (DC 25) | Exhaustion: 0 | Inspiration: No**
@@ -16623,8 +18937,11 @@ Outside, the world moves on. Fossoway outriders have reached the tournament peri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Obsidian Library - Abandon the direct map and instead research the diary of the last Belaerys Archon for &#x27;Conduct-Point&#x27; clues.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-768"></a>
 #### Scene 768
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (20:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 130,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1 | HD: 9/9 | Exhaustion: 0**
@@ -16640,8 +18957,11 @@ It is as if the Archon himself sought to shroud the coordinate in a 'Transcripti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synchronous Scholarly Assault (Synergistic) - Maintain the telepathic link with Vaelis while you read, allowing the &#x27;Director&#x27; to interpret the runes as you see them in real-time.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-769"></a>
 #### Scene 769
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 131,875/140,000 | Gold: 932gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1**
@@ -16675,8 +18995,11 @@ You gain **1,000 XP** for the masterful scholarly discovery of the Flame-Gate's 
 God Mode:
 lets assume my simulcrum needs to roll deception checks but it should be against my spell DC. most people shoudl not be suspicsious because level 7 spells are very rare. I also dont need to recharge it or do anything ,its just like the real D&D spell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-770"></a>
 #### Scene 770
 
 > 📍 **Ashford Meadow - Royal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 131,875/140,000 | Gold: 932gp**
@@ -16694,8 +19017,11 @@ The mountain paths of the Serpent's Gully await. You have 11.5 hours of geometri
 > 👤 **Player:**
 > *"use lvl 2 invis to depart the camp and fly silverwing while invis. itll look like he's flying arond by himself. also auditor should not be able to easily detect level 2 spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-771"></a>
 #### Scene 771
 
 > 📍 **Ashford Meadow - Camp Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 131,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 0/3, L4 3/3, L5 0/2, L6 2/2, L7 0/1, Exhaustion: 0**
@@ -16711,8 +19037,11 @@ You stand in the cool mountain draft, the spectral Aetherax (Lvl 3) flickering o
 God Mode:
 wait why dont i have level 2 spellslots?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-772"></a>
 #### Scene 772
 
 > 📍 **Ashford Meadow - Camp Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 131,875/140,000 | AP: 0**
@@ -16735,8 +19064,11 @@ I have updated the game state to reflect these corrected totals. You now have th
 > 👤 **Player:**
 > *"do my original plan with level 2 invis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-773"></a>
 #### Scene 773
 
 > 📍 **Skies above Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 131,875/140,000 | Gold: 932gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1**
@@ -16758,8 +19090,11 @@ The path to the Serpent's Gully is open. The Flame-Gate awaits, and for the firs
 > [!NOTE] ⚙️ **Player Choice:**
 > *High-Altitude Transit - Fly above the cloud layer to minimize visual detection from the ground.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-774"></a>
 #### Scene 774
 
 > 📍 **Skies Above Ashford Meadow** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 0 | XP: 131,875/140,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1 | Exhaustion: 0**
@@ -16777,8 +19112,11 @@ The Serpent's Gully lies ahead, a jagged throat of prehistoric stone visible thr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Descent (Synergistic) - Dive into the Gully while Vaelis uses the Remnant to light &#x27;Decoy-Fires&#x27; elsewhere, confusing the Auditor&#x27;s tracking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-775"></a>
 #### Scene 775
 
 > 📍 **The Serpent's Gully** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 131,875/140,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1 | Exhaustion: 0**
@@ -16796,8 +19134,11 @@ You hit the floor of the Gully with a heavy, metallic thud, the grass here scour
 God Mode:
 Wait that doesn't make sense. I am far away from auditor and landing in another area invisible on my dragon. Maybe the distraction fails but it should be impossible for auditor to detect me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-776"></a>
 #### Scene 776
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | XP: 131,875/140,000 | Gold: 932gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1** &nbsp;|&nbsp; ⚠️ **Invisibility (Self), Simulacrum Active | Exhaustion: 0 | AP: 0**
@@ -16813,8 +19154,11 @@ You touch down at the 'Conduct-Point' with the noiseless grace of falling snow. 
 God Mode:
 Synchronous Conduction (Synergistic) - Vaelis maps the flow while you anchor the blood, using the Remnant&#x27;s decoy-fires to maintain the distraction.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-777"></a>
 #### Scene 777
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Dragon Scholar | HP: 41/41 | AP: 100 | XP: 136,875/140,000 | Gold: 932gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Invisibility (Self): 45m | Threshold 3 Active**
@@ -16841,8 +19185,11 @@ Leagues away at Ashford, the decoy-fires of the Remnant are nothing but gutterin
 God Mode:
 Explain what power ups and exp I get from this. It should be huge if it's a single digit % of the doom
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-778"></a>
 #### Scene 778
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 44/44 (Exh: 1) | XP: 147,375/165,000 | AP: 100**
@@ -16878,8 +19225,11 @@ You asked for a breakdown of the power-ups and XP gained from conducting the Fla
 God Mode:
 lets also give me +4 con too and analyze is this is balanced for 1% of the doom powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-779"></a>
 #### Scene 779
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 72/72 | XP: 147,375/165,000 | Gold: 932gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Threshold 3), Flame-Gate Resonance | Exhaustion: 1 | AP: 100**
@@ -16915,8 +19265,11 @@ You asked if your current power suite is balanced for possessing ~1% of the Doom
 God Mode:
 ok lets set my  con to 18 too, since I'm like a raid boss
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-780"></a>
 #### Scene 780
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | Gold: 932gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1, AP: 100 | Threshold 3: Radiance Absolute**
@@ -16934,8 +19287,11 @@ Your physical vessel is now significantly more resilient, capable of containing 
 God Mode:
 lets also uncap all my stats and no longer level cap me at 20 etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-781"></a>
 #### Scene 781
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | Gold: 932gp**
@@ -16951,8 +19307,11 @@ Your physical vessel has been reinforced to handle these uncapped thresholds by 
 > 👤 **Player:**
 > *"brainstorm with vaelis on how to reduce my AP? what if I use all my spell slots at once that are below level 7?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-782"></a>
 #### Scene 782
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1**
@@ -16972,8 +19331,11 @@ Through your Truesight (120ft), you see the 5-mile radius hum of the 'Tectonic R
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conduct Resonance Flush - Spend all spell slots below L7 to reduce AP to ~20-30. Increases Exhaustion to Level 2. Regain Obscurity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-783"></a>
 #### Scene 783
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 209 AC (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | Gold: 932g** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/2, L7 0/1 | Exhaustion: 2** &nbsp;|&nbsp; ⚠️ **Exhaustion: 2 | AP: 25 (Obscurity Restored)**
@@ -16996,8 +19358,11 @@ You shiver in the indigo dark, your vision blurring as Exhaustion (Level 2) sets
 > 👤 **Player:**
 > *"long rest and lets have my simulcrum play my part and see if auditor notices. lets also have my firendly remanent do resource accounting and see how much gold they've amassed over the years"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-784"></a>
 #### Scene 784
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 AC (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | Gold: 10,752gd** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | AP: 25 | Obscurity: Threshold 1**
@@ -17016,8 +19381,11 @@ However, leagues away at Ashford Meadow, the 'White Lie' is failing. Your consci
 God Mode:
 for this choice why would we need to escure flame gate coords? Synchronous Deception (Synergistic): Puppet the Simulacrum to stall the Auditor while you and Vaelis quickly secure the Flame-Gate coordinates.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-785"></a>
 #### Scene 785
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 DR (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1**
@@ -17043,8 +19411,11 @@ As Vaelis warned in Sequence 1532, attempting to consume the magic at an 'un-sco
 God Mode:
 yeah so what else is there to do with the flame gate? i think i just need to throw him off?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-786"></a>
 #### Scene 786
 
 > 📍 **The Serpent's Gully (Flame-Gate)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 AC (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | Gold: 10,752gd** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1 | AP: 100** &nbsp;|&nbsp; ⚠️ **Marrow-Anchor, Tectonic Conductance, Radiance Absolute (100 AP), Exhaustion: 1**
@@ -17062,8 +19433,11 @@ You feel the needle-thin tremor of the Telepathic Sync. Leagues away, the Audito
 > 👤 **Player:**
 > *"forge logic shield and puppet simulcrum to talk to him, lets narrate a scene where i tlak to him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-787"></a>
 #### Scene 787
 
 > 📍 **Royal Pavilion (Ashford Meadow)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 DR (07:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | AP: 25 | Gold: 10,752gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1 | Flame-Gate Breath: 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Resonance Flush (L1-L6 Slots Restored)**
@@ -17097,8 +19471,11 @@ The Auditor pauses, the granite of his expression finally fracturing. He recogni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Citadel Shadow - Point out the Citadel inquiry at the gates; suggest he is being used as a pawn by Oldtown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-788"></a>
 #### Scene 788
 
 > 📍 **Royal Pavilion (Ashford Meadow)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 AC (07:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147375/165000 | AP: 25** &nbsp;|&nbsp; ✨ **HD: 9/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Threshold 1: Masked Divinity, Exhaustion: 1 | Inspiration: No**
@@ -17118,8 +19495,11 @@ The Auditor's hand remains on his pommel, but the predatory focus has shifted in
 > 👤 **Player:**
 > *"press citadel leverage and show him the peace we've achieved with the peakes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-789"></a>
 #### Scene 789
 
 > 📍 **Royal Pavilion (Ashford Meadow)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1 | Exhaustion: 1**
@@ -17149,8 +19529,11 @@ The Auditor's hand remains on his pommel, but the predatory tilt of his head slo
 > 👤 **Player:**
 > *"ask him what his true personal concerns are, not what his masters are telling him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-790"></a>
 #### Scene 790
 
 > 📍 **Royal Pavilion (Ashford Meadow)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | AP: 25** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1** &nbsp;|&nbsp; ⚠️ **Threshold 1 Active, Exhaustion Lvl 1, Simulacrum Active (11 Hours)**
@@ -17181,8 +19564,11 @@ The Auditor's hand remains on his pommel, but the predatory tilt of his head slo
 God Mode:
 whats a truth anchor token
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-791"></a>
 #### Scene 791
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1**
@@ -17209,8 +19595,11 @@ It represents a single, undeniable 'coordinate of truth' shared between two char
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expose &amp; Pivot (Synergistic) - Simultaneously expose the Citadel&#x27;s messenger to him while offering a &#x27;Truth-Anchor&#x27; token to ensure he isn&#x27;t scoured by Oldtown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-792"></a>
 #### Scene 792
 
 > 📍 **Royal Pavilion (Ashford Meadow)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | AP: 25** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active (11h), Exhaustion L1, Truth Anchor (Auditor: Emergent)**
@@ -17242,8 +19631,11 @@ The Auditor's hand remains on his pommel, but the predatory tilt of his head slo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure &amp; Redirect (Synergistic) - Establish the Truth Anchor token while directing him to &#x27;Audit&#x27; the Citadel&#x27;s own records to clear his name.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-793"></a>
 #### Scene 793
 
 > 📍 **Royal Pavilion (Ashford Meadow)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 AC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 147,375/165,000 | AP: 25** &nbsp;|&nbsp; ✨ **Slots: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/2, L7 0/1 | HD: 9/14** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1), Resonance Flush (Magically Inert L1-L6)**
@@ -17274,8 +19666,11 @@ Leagues away in the Serpent's Gully, your physical vessel lets out a long, ragge
 > 👤 **Player:**
 > *"long rest at the lab now that the auditor seems fine, then fly back on silverwing to ashford and narrate the ending of the tourney and final feast. assume i do further things to reduce my AP"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-794"></a>
 #### Scene 794
 
 > 📍 **Royal Pavilion (Ashford Meadow)** &nbsp;|&nbsp; ⏳ **Mirtul 31, 209 AC (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 148,825/165,000 | AP: 0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1 | Exhaustion: 0**
@@ -17298,8 +19693,11 @@ Now, the Meadow is quiet. You have spent the final hours of the night anchoring 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate at Summerhall - Return home with the &#x27;Prince&#x27;s Vanguard&#x27; to establish a secure base of operations and integrate the Peake assets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-795"></a>
 #### Scene 795
 
 > 📍 **Summerhall (The High Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 12, 209 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Dragon Scholar | HP: 100/100 | XP: 150,825/165,000 | Gold: 10,752gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 2/2, L7 0/1**
@@ -17317,8 +19715,11 @@ Ser Duncan the Tall (Lvl 9) stands like a mountain of iron by the hearth, his we
 > 👤 **Player:**
 > *"Lets do a time skip for 14 years. Assume i continue to grow in power and secretly keep consuming magical gates related to the doom of valyria. i keep a low profile politically and let daereon shine and don't interfere when not needed. i grow my power base including, gold, lands, estates, and my faction. I eventually assemble the firendly remanant and new zealots and rename it the ascension faction who believe in my godhood and absolute power/justice and i can perform magic in front of them without gaining AP. Also lets narrative my enemie sthe unfriendly remanent turn into the godkiller faction and power up as well and become my major threat. Lets assume i found +3 gear for all slots and have some +3 spell dc/atk gear i found. Lets also narrate a great civil war starting which will now challenge me ie. show i come out of hiding and use my god powers again or stay back. Lets assume its driven by the blackfyres and daeron the good has been kind of losing since he's not a war king so both sides are equal power in civil war. narrate this time skip in full detail and try to narrate every single month and assume all characters act atuonomous and tell me what happens. Assume i successfulyl keep my AP low and no life threatening things happen."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-796"></a>
 #### Scene 796
 
 > 📍 **The High Solar, Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 223 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Dragon Scholar | HP: 231/231 | XP: 384,825/430,000 | Gold: 9,820 (Personal) / 1,500,000 (Faction)** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Exhaustion: 0**
@@ -17365,8 +19766,11 @@ If you continue adventuring, you remain Level 21 and defer these benefits until 
 God Mode:
 wait adjust this, i meant to say 6 years not 14. so re-evaluate all these outcomes if we had enough time for them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-797"></a>
 #### Scene 797
 
 > 📍 **Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 172/172 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -17395,8 +19799,11 @@ Retcon and state adjustment successful. The time skip has been reduced from 14 y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Summerhall balcony in 215 AC as the war horns sound.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-798"></a>
 #### Scene 798
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Dragon Scholar | HP: 220/220** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1**
@@ -17420,8 +19827,11 @@ Behind him, the massive obsidian mountain of Silverwing (Lvl 18) stirs atop the 
 God Mode:
 set Aetherax to level 18 and lets assume i have 100 elite specialists (members of every class) and 100 elite shadows/spies. tell me their levels and the levels of all my forces
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-799"></a>
 #### Scene 799
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 172/172 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -17455,8 +19865,11 @@ Force structure updated and Aetherax leveled to 18. Your Ascension Faction has d
 God Mode:
 Maybe my 200 elites should be level 9 ? The kingsgaurd are around level 12 etc. let's have most of my forces be level 5-7 ie. Small elite force
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-800"></a>
 #### Scene 800
 
 > 📍 **Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 220/220 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -17473,8 +19886,11 @@ I have updated your character features and initialized formal army tracking in t
 God Mode:
 Don't spoil things but make the god killers also an elite force with shadow influence that can truly threaten us with one or more level 20 nemesis type bosses
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-801"></a>
 #### Scene 801
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Dragon Scholar | HP: 220/220 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **AP: 0 | Exhaustion: 0 | Inspiration: Yes**
@@ -17494,8 +19910,11 @@ Godkiller Faction threat profile initialized and scaled to provide a genuine cha
 God Mode:
 Let's assume the god killer faction don't actually know who I am so they're evaluating all Targaryens but I do stand out with my dragons so I'm a priority audit target
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-802"></a>
 #### Scene 802
 
 > 📍 **Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 220/220 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance | Ascension Points: 0 | Exhaustion: 0**
@@ -17512,8 +19931,11 @@ This creates a state of **Active Vigilance**; your mask is working, but the hunt
 God Mode:
 Let's not make things black and white. The god killers can genuinely be good but ruthless peolle because if I ascend I could be an evil god or destroy the world so they are kind of justified. Make my alignment neutral and let me decide how I wanna go late r
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-803"></a>
 #### Scene 803
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 220/220 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft | Exhaustion: 0 | Inspiration: No**
@@ -17528,8 +19950,11 @@ Administrative changes finalized. I have updated your moral alignment and redefi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the Summerhall balcony in 215 AC as the war horns of the Blackfyre Civil War signal the end of your silence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-804"></a>
 #### Scene 804
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Dragon Scholar | HP: 220/220** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1**
@@ -17539,8 +19964,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the Summerhall balcony in 215 AC as the war horns of the Blackfyre Civil War signal the end of your silence. Lets assume i can mask my level at level 9 and mask as a mortal etc, same mechanics as before*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-805"></a>
 #### Scene 805
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked) Dragon Scholar | HP: 220/220 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Functional Obscurity (AP 0) | Exhaustion: 0 | Inspiration: Yes**
@@ -17573,8 +20001,11 @@ Neck	Fine Silk Inner-tunic	—
 Weapon	Light Crossbow +1	1d8 ammunition, loading, two-handed, range (80/320)
 Weapon	Concealed Silver Dagger	1d4 finesse, light, thrown (20/60), silvered
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-806"></a>
 #### Scene 806
 
 > 📍 **Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 220/220 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Tectonic Resonance, Truesight, Fire Immunity | Exhaustion: 0 | Inspiration: No**
@@ -17588,8 +20019,11 @@ Weapon	Concealed Silver Dagger	1d4 finesse, light, thrown (20/60), silvered
 God Mode:
 process my level 18 properly and assume i always pick int ASI and give me glibness and wish and foresight and auto pick other spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-807"></a>
 #### Scene 807
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Exhaustion: 0**
@@ -17615,8 +20049,11 @@ Level 18 processing complete. I have updated your attributes, spell slots, and s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the balcony as the war horns of the Blackfyre Rebellion signal the start of the conflict.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-808"></a>
 #### Scene 808
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar (Masking Lvl 9) | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450 | AP: 5** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | HD: 18/18 | Exhaustion: 0**
@@ -17638,8 +20075,11 @@ Silverwing (Lvl 18) lets out a subsonic roar from the watchtower, her Large obsi
 God Mode:
 This isn't how the roll should work. Someone needs to beat my spell save DC in a perception roll 1d20+22 = 23 vs DC 25 - Failure (Deception (Masking Divinity
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-809"></a>
 #### Scene 809
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -17662,8 +20102,11 @@ The Natural 1 on Deception is scoured. In the narrative reality, your mask held 
 God Mode:
 How large are my dragons? They should be big now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-810"></a>
 #### Scene 810
 
 > 📍 **Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Threshold 0, Masked Divinity (AP 5) | Exhaustion: 0 | Inspiration: No**
@@ -17687,8 +20130,11 @@ You asked how large your dragons are after the 6-year time skip. Both Silverwing
 God Mode:
 Give me some info on the blackfyrees without full spoilers. Let's assume daemon blackfyre son fully inherited his martial abilities and charisma and sword and is level 18. He can be the same guy from the novella. The blackfryres faction are actually stronger than this time vs Targaryens but they cannot amass a large host because they're afraid of my dragons. They know Dareon the good might be too kind hearted to use them but they greatly fear and respect me. They believe the tales of the silver butcher. At some point soon in the narrative they will try to ally with me and later kill me if I don't agree. I am the key to the war with my two dragons. Assume Dareon and my faction know this too and are discussing what to do. Dareon the good doesn't want to use the dragons against a city but maekar does. Since there are no pure massed army military targets there's a moral dilemma. The balckfyres have a lot of respect for me because they know I'm the ultimate mage warrior even if they think I'm level 9 and don't know my full powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-811"></a>
 #### Scene 811
 
 > 📍 **Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft | Exhaustion: 0 | Inspiration: No**
@@ -17720,8 +20166,11 @@ Administrative dossier updated. I have initialized the Blackfyre faction paramet
 God Mode:
 Let's assume some westerosi lords allied with them but the Peakes have remained truly loyal and people are afraid to engage them due to rumors I favor them.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-812"></a>
 #### Scene 812
 
 > 📍 **Summerhall** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Threshold 1: Masked Divinity (AP 5) | Exhaustion: 0 | Inspiration: Yes**
@@ -17742,8 +20191,11 @@ Administrative update complete. I have updated the strategic landscape of the Gr
 God Mode:
 Let's assume godnkiller faction isn't fully allied with balckfyre too. They're wary of all Targaryens and think daemon might be the baelerys too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-813"></a>
 #### Scene 813
 
 > 📍 **Summerhall Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -17759,8 +20211,11 @@ Administrative update complete. I have refined the strategic intelligence regard
 > 👤 **Player:**
 > *"Resume the narrative. Let's do a scene in kingds landing war council. All the Targaryen men are there and they're debating the dragon usage. We could potentially use it against cities or towns known to be allied with blackfyre"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-814"></a>
 #### Scene 814
 
 > 📍 **The Small Council Chamber, The Red Keep, King's Landing** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | AP: 5** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Exhaustion: 0**
@@ -17782,8 +20237,11 @@ Lord Gwayne Peake (Lvl 12) stands by the door, his posture one of somber, spirit
 > 👤 **Player:**
 > *"Let's assume I've kept a low profile over this time so most people don't expect me to do as much despite the rumors. But maekar and baelor remember. I ask maekar if he's sure he wants me involved"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-815"></a>
 #### Scene 815
 
 > 📍 **Small Council Chamber, Red Keep** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Threshold 1: Masked Divinity (AP 5) | Exhaustion: 0 | Inspiration: No**
@@ -17816,8 +20274,11 @@ Maekar stiffens, the memory of his own dread at Ashford vibrating in his throat.
 > 👤 **Player:**
 > *"Ask Baelor what he thinks. Say dragon fire isn't easily set aside once started"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-816"></a>
 #### Scene 816
 
 > 📍 **Small Council Chamber, Red Keep** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:25)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Threshold 1: Masked Divinity (AP 5) | Exhaustion: 0 | Inspiration: No**
@@ -17849,8 +20310,11 @@ Maekar (Lvl 15) stiffens, his gauntleted hand clenching into a white-knuckled fi
 > 👤 **Player:**
 > *"Let's assume everyone still thinks I'm level 9 which is still crazy high. I'll say I could win the war with dragons now likely but it'll change the kingdom forever. I have 2/3 of the power of Ageon the conqueror but I would like to avoid using it. As they've seen in the last 6 years I've been a proponent of peace. Perhaps we should try to negotiate with them? I will fly my dragons past their allies to show the power but I won't burn yet until Daeron the good agrees. Then ask daeron the king if he would ever authorize the Drsgons ie. What if we were gonnn lose"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-817"></a>
 #### Scene 817
 
 > 📍 **Small Council Chamber, Red Keep** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Dragon Scholar | AP: 5 | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked Divinity (Lvl 9 Facade) | Exhaustion: 0 | Inspiration: Yes**
@@ -17891,8 +20355,11 @@ King Daeron II (Lvl 12) stares at you, his hand trembling as it rests on the tab
 God Mode:
 Let's assume during these last 6 years my ascension faction has been researching a way to truly become a god using the 14 flames like the original doom of valriya. They know enough to execute the ritual but it's not easy so make up quest arcs without spoilers if I pursue that's path
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-818"></a>
 #### Scene 818
 
 > 📍 **Small Council Chamber, Red Keep** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -17920,8 +20387,11 @@ I have established the following three quest arcs to represent the requirements 
 > 👤 **Player:**
 > *"Let's assume king dareon has never heard me speak about politics since I've kept a low profile. He knows I am a powerful mage and have the dragons but he's never seen me in my element and is surprised. However he trusts me because he knows other Targaryen's with dragons might've tried to overthrow him so he trusts me too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-819"></a>
 #### Scene 819
 
 > 📍 **Small Council Chamber, Red Keep** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Silver Pulse: 1/1** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Truth Anchor, Masked Divinity (AP 5) | Exhaustion: 0**
@@ -17953,8 +20423,11 @@ He turns to Prince Baelor (Lvl 15) and Prince Maekar (Lvl 15), his posture posse
 > 👤 **Player:**
 > *"Narrate Baelor and maekar reaction and my brother Dareon too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-820"></a>
 #### Scene 820
 
 > 📍 **Small Council Chamber, Red Keep** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450 | AP: 0** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | HD: 18/18 | Exhaustion: 0**
@@ -17983,8 +20456,11 @@ With over 1,200 troops now under your command, including the fanatical Ascension
 God Mode:
 I am level 18 fix it. Session header says 17
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-821"></a>
 #### Scene 821
 
 > 📍 **Small Council Chamber, Red Keep** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 AC (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -17994,8 +20470,11 @@ Level discrepancy corrected. Your character level has been updated to 18 in the 
 > 👤 **Player:**
 > *"Narrate maekar still arguing for the dragon use. He will say the deterrent give sthe enemy more time to prepare. Anyone else who agrees should speak out too. I think even my brother wanted to use them from previous entries ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-822"></a>
 #### Scene 822
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Kythorn 12, 215 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Dragon Scholar | HP: 148/148** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1**
@@ -18016,8 +20495,11 @@ King Daeron II (Lvl 12) looks at his son and then at his brother, the 'Anvil.' T
 > 👤 **Player:**
 > *"Let's have the elite shadows make contact and parley with the blackfyre leadership. Only show silvewing who's a normal dragon so they don't know the capabilities of the ethereal one. Try to intimidate them to terms. Then go from there and decide next steps after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-823"></a>
 #### Scene 823
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -18053,8 +20535,11 @@ Daemon II Blackfyre (Lvl 18) stands at the center of the parley, the Valyrian st
 > 👤 **Player:**
 > *"Main Character: Let's have the elite shadows make contact and parley with the blackfyre leadership. Only show silvewing who's a normal dragon so they don't know the capabilities of the ethereal one. Try to intimidate them to terms. Then go from there and decide next steps after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-824"></a>
 #### Scene 824
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | AP: 5 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Truesight 120ft, Fire Immunity | Exhaustion: 0 | Inspiration: No**
@@ -18088,8 +20573,11 @@ Daemon II Blackfyre (Lvl 18) stands at the center of the field, the Valyrian ste
 God Mode:
 Stop faction management warnings for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-825"></a>
 #### Scene 825
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft | Exhaustion: 0 | Inspiration: No**
@@ -18101,8 +20589,11 @@ I have also audited your character state to ensure Level 18 is correctly reflect
 God Mode:
 Stop telling Bg me about faction management
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-826"></a>
 #### Scene 826
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Tectonic Conductance, Fire Immunity, Truesight 120ft | Ascension Points: 5 | Exhaustion: 0**
@@ -18114,8 +20605,11 @@ I have also audited the session header and internal game state to ensure your Le
 > 👤 **Player:**
 > *"Narrate some dialog from Dameon. He says he doesn't level the scholar mask. No scholar has assassins like these. He says he respects the martial apex and my king is weak and doesn't deserve the throne. Let's assume the other blsckfyre royalty are there and let them concur with detailed dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-827"></a>
 #### Scene 827
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Truth Anchor, Threshold 1: Masked Divinity | Exhaustion: 0 | Inspiration: No**
@@ -18149,8 +20643,11 @@ The parley ground is a theatre of hushed, spiritual tension. The 15,000 men on t
 > 👤 **Player:**
 > *"Let's assume my brother dareon and Baelor are here too and have them reply while I remain silent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-828"></a>
 #### Scene 828
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Truth Anchor, Threshold 1: Masked Divinity | AP: 5**
@@ -18173,8 +20670,11 @@ Daemon II Blackfyre (Lvl 18) remains silent, his hand loosening slightly on the 
 > 👤 **Player:**
 > *"Come down from my dragon and approach them showing zero fear. This should unnerve them too. Say let's talk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-829"></a>
 #### Scene 829
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Threshold 1: Masked Divinity (AP 5) | Fire Immunity | Truesight 120ft**
@@ -18208,8 +20708,11 @@ Daemon II remains silent for a long heartbeat, his 'Marrow-Sense' wards shiverin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expose Godkiller Inquiry - Reveal that the Godkillers are auditing Daemon II as a potential target, creating a common enemy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-830"></a>
 #### Scene 830
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254825/265000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft, AP 5 | Exhaustion: 0 | Inspiration: No**
@@ -18240,8 +20743,11 @@ Aegor 'Bittersteel' Rivers (Lvl 19) narrows his one good eye, his granite-hard e
 > 👤 **Player:**
 > *"Let's narrate blackfyre inner thoughts. They see me and realize i am truly a tier above any Targaryen they've ever seen including Daemon. However it's likely the god killers would come for us both. Narrate each blackfyre lords thoughts. They also have no animosity toward me because I didn't participate in the last wars and think about how to recruit me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-831"></a>
 #### Scene 831
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft | AP: 5**
@@ -18262,8 +20768,11 @@ They stand in the mud, three men of fire and blood, realizing that the sixteen-y
 > 👤 **Player:**
 > *"Tell my Targaryen family to join us and reiterate the cease fire proposal while we first fight the god killers. Explain to everyone that two level 20 entities lead them and through surgical strikes they can easily kill me and daemon alone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-832"></a>
 #### Scene 832
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | AP: 5** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Exhaustion: 0**
@@ -18294,8 +20803,11 @@ Daemon II (Lvl 18) stands motionless, his violet eyes locking onto yours with a 
 > 👤 **Player:**
 > *"Wait for their reply. Let's narrate a counter offer. They have great respect for me becuse I am the apex of their philosophies. They say I should join them and marry daemon and rule together. Then the full force of the realm will flight the god killers. They will dismantle all the magical auditors and let me ascend with my magic powers without limit. Let's have them sincerely promise me everything I want in a very temping way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-833"></a>
 #### Scene 833
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft | AP: 5 | Exhaustion: 0**
@@ -18328,8 +20840,11 @@ You perceive the absolute sincerity in Daemon's gaze, but the sheer, blinding pe
 God Mode:
 Let's stop using mathematical terms in this campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-834"></a>
 #### Scene 834
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -18339,8 +20854,11 @@ Administrative directive established. I will immediately cease using mathematica
 > 👤 **Player:**
 > *"Narrate the reaction of house Targaryen member. Let's also have the backfires say the fact that in the one here making the decision Should be all the proof I need about my superiority. They call me a black fyre in spirit i lf not in name"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-835"></a>
 #### Scene 835
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1, Exhaustion: 0**
@@ -18376,8 +20894,11 @@ Daemon II ignores him, his gaze never leaving yours. He steps closer, the scent 
 > 👤 **Player:**
 > *"Politely decline their offer. Say the god killers won't stop at me and Daemon and wish to see all dragons dead. Explain that perhaps a marriage can happen later but it might also be them joining the Targaryens and reentering the fold under favorable terms. But first let us be comrades in arms in battle and they can see up close the power they wish to ally themselves with"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-836"></a>
 #### Scene 836
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | AP: 5 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Masked Divinity (Threshold 1) | Exhaustion: 0 | Inspiration: No**
@@ -18410,8 +20931,11 @@ You gain **1,000 XP** for successfully negotiating a ceasefire with the Blackfyr
 > 👤 **Player:**
 > *"Politely decline their offer. Say the god killers won't stop at me and Daemon and wish to see all dragons dead. Explain that perhaps a marriage can happen later but it might also be them joining the Targaryens and reentering the fold under favorable terms. But first let us be comrades in arms in battle and they can see up close the power they wish to ally themselves with"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-837"></a>
 #### Scene 837
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Threshold 1, Truesight | Exhaustion: 0 | Inspiration: Yes**
@@ -18431,8 +20955,11 @@ Prince Maekar (Lvl 15) exhales a cloud of tension, his jaw setting with a grim, 
 God Mode:
 What makes my persusssoj modifier 22
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-838"></a>
 #### Scene 838
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp**
@@ -18456,8 +20983,11 @@ Your Persuasion modifier of **+22** is derived from your status as a Tier 4 (Myt
 > 👤 **Player:**
 > *"Ask for daemon to make a divine blood oath with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-839"></a>
 #### Scene 839
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked Divinity (DC 33/35) | Ascension Points: 5 | Inspiration: No**
@@ -18479,8 +21009,11 @@ Aegor 'Bittersteel' Rivers (Lvl 19) narrows his one good eye, his granite-hard e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conduct the Blood Ritual - Prick your palms and Daemon&#x27;s to seal the pact with the fire of the Fourteen Flames.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-840"></a>
 #### Scene 840
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | AP: 5** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1, Exhaustion: 0**
@@ -18513,8 +21046,11 @@ The 'Distance' between the two dragons narrows into a shared threshold of surviv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Combined Host - Speak to the 15,000 men on the ridge to cement the ceasefire and prepare them for the Godkiller hunt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-841"></a>
 #### Scene 841
 
 > 📍 **Riverlands Parley Ground (Near Stoney Sept)** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Tectonic: 1/1**
@@ -18532,8 +21068,11 @@ A rhythmic, breathless silence follows, before a single, thunderous roar erupts 
 > 👤 **Player:**
 > *"Let's narrate a scene where i convene with my family. Maekar and Baelor now realize I am the true peace bringer and not daeron. Daeron remains humble and says he merely protected the name for me before I was ready to fully embrace it publically"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-842"></a>
 #### Scene 842
 
 > 📍 **Riverlands Command Pavilion** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Threshold 1: Masked Divinity (AP 5)**
@@ -18566,8 +21105,11 @@ You stand before them, your Ivory & Crimson silk rustling as you maintain your r
 > 👤 **Player:**
 > *"Narrate another scene. Let's assume both groups discuss things in private. First do the blackfyres and narrate scene without me and only them there. They recap recent events"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-843"></a>
 #### Scene 843
 
 > 📍 **Blackfyre Command Tent, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254825/265000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance | AP: 5 | Exhaustion: 0**
@@ -18591,8 +21133,11 @@ Daemon II didn't look up. He slowly curled his hand into a fist, feeling the pha
 > 👤 **Player:**
 > *"Narrate the reaction of the Targaryen family without me in private"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-844"></a>
 #### Scene 844
 
 > 📍 **Targaryen War Pavilion, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1, Exhaustion: 0**
@@ -18610,8 +21155,11 @@ Maekar turns toward the tent opening, looking at the distant shadow of Silverwin
 > 👤 **Player:**
 > *"Narrate baelor internal thoughts. He muses that although he would never betray his blood he wonders if the god killers are right. If the blood of the dragon creates someone like Visenya who can burn the world is the world perhaps better off without us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-845"></a>
 #### Scene 845
 
 > 📍 **Targaryen War Pavilion, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1**
@@ -18631,8 +21179,11 @@ He closes his eyes, the image of your ultraviolet radiance at the gate of Ashfor
 > 👤 **Player:**
 > *"Narrate a private scene where king Dareon is overjoyed at the news at the temporary peace. He says to my sisters and any other Targaryens around he was right tot trust me. He says he knows my heart and I will not pursue naked power versus peace"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-846"></a>
 #### Scene 846
 
 > 📍 **Targaryen War Pavilion, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | AP: 5** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Masked Divinity (Threshold 1) | Exhaustion: 0**
@@ -18664,8 +21215,11 @@ The King nods, his eyes glistening with a paternal warmth that scours the last o
 > 👤 **Player:**
 > *"Redo that scene. Maekar and Baelor are with me not dareon the king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-847"></a>
 #### Scene 847
 
 > 📍 **Targaryen War Pavilion, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 254,825/265,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -18694,8 +21248,11 @@ Daella (Lvl 3) beams, her admiration for you shining like liquid moonlight. "The
 God Mode:
 No set my level to 18 and set my exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-848"></a>
 #### Scene 848
 
 > 📍 **Targaryen War Pavilion, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 265,000/265,000 | Gold: 12,450gp**
@@ -18705,8 +21262,11 @@ Administrative level and experience correction complete. I have updated your cha
 > 👤 **Player:**
 > *"Let's do a new scene a private meeting with the ascendant faction and vaelis. I will use the joint  strike force to secure all the gates and then we go to the 14 flames to consume them and conduct the apotheosis ritual. We tell the others the power is needed to defeat the gods killers but leave out the apotheosis part"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-849"></a>
 #### Scene 849
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 265,000/305,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Truesight 120ft, Fire Immunity | Exhaustion: 0 | AP: 5**
@@ -18730,8 +21290,11 @@ Vaelis's mental image tilts, his scholarly hunger yielding to a state of profoun
 > 👤 **Player:**
 > *"Let's assume I have 10 specialists level 12+ and 10 assassins 12+ and we call them my ascendant captains"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-850"></a>
 #### Scene 850
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 265,000/305,000 | Gold: 12,450** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | HD: 18/18 | AP: 5**
@@ -18747,8 +21310,11 @@ Through the telepathic bond, Archmaester Vaelis (Lvl 18) provides the first set 
 > 👤 **Player:**
 > *"Use globness and address the joint command. Explain that while I am powerful I am only level 9 while the god killers are level 20. I need the gates to power up and deny thrillers their power. What everyone else doesn't realize is I'm  already level 18 so all these gates will make me a demingod even without the full ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-851"></a>
 #### Scene 851
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148 | XP: 265,500/305,000 | AP: 10** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 1/1 | Exhaustion: 0**
@@ -18778,8 +21344,11 @@ The lie is a masterpiece of clinical precision. Daemon II watches you with a loo
 God Mode:
 tracked my level 9 masked level in session heaeder, and my gold etc. lets assume if i do something a level 9 cannot do then the mask may be disrupted. Lets also assume i will "fake level" ie. give me masked exp tracked separately so it looks like i become level 20 evenutally but thats a mask and my real lvel higher so track both
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-852"></a>
 #### Scene 852
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Masked Lvl 9) Dragon Scholar | HP: 148/148 | Real XP: 266,000/305,000 | Masked XP: 48,000/64,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Threshold 1, Glibness | Exhaustion: 0 | Ascension Points: 10**
@@ -18794,8 +21363,11 @@ Administrative changes applied to the masking system and state tracking:
 > 👤 **Player:**
 > *"explain to the joint command where the gates are and seek advice on how to use all our troops"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-853"></a>
 #### Scene 853
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | HP: 148/148** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1**
@@ -18818,8 +21390,11 @@ Bittersteel (Lvl 19) narrows his one good eye, his granite-hard suspicion yieldi
 God Mode:
 lets have there be 5 more gates, not 12, tell me where they are
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-854"></a>
 #### Scene 854
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (16:30)** &nbsp;|&nbsp; 🛡️ **[MASKED] Lvl 9 Dragon Scholar | XP: 52,000/64,000** &nbsp;|&nbsp; ⚠️ **Glibness (55m), Foresight (8h), Threshold 1: Masked Divinity (AP 10)**
@@ -18839,8 +21414,11 @@ All 'Ascendant Captains' have been briefed on these five coordinates, and the Co
 > 👤 **Player:**
 > *"narrate a scene where the blackfyres and targaryens see my true forces and realize i have a nation killer elite army. they see the 100 specialists, the captains, and my ethereal dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-855"></a>
 #### Scene 855
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Masked Lvl 9) Dragon Scholar | HP: 148/148 | XP: 266,000/305,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Threshold 1: Masked Divinity (AP 10) | Exhaustion: 0 | Inspiration: Yes**
@@ -18873,8 +21451,11 @@ Prince Baelor (Lvl 15) and Prince Maekar (Lvl 15) stand in a state of somber, he
 > 👤 **Player:**
 > *"Make a plan with everyone on how to get each gate and where each force should go"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-856"></a>
 #### Scene 856
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar (Masked: Lvl 9) | HP: 148/148 | XP: 266,000/305,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Masked Divinity (AP 10) | Exhaustion: 0 | Inspiration: Yes**
@@ -18894,8 +21475,11 @@ Prince Maekar (Lvl 15) and Prince Baelor (Lvl 15) stand in a state of somber, he
 > 👤 **Player:**
 > *"Let's have no defense we have no time for it. Everyone goes all out securing gates. Blackfryres help me secure two and Targaryens help me secure two. They both call banners and use their vassal lords. A massive force like thisntjengodnkillers cannot handle since they are a small surgical group of elites. I will use my elites to accelerate taking the closest gate and then keep going in  order of proximity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-857"></a>
 #### Scene 857
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar (Masked: 9) | HP: 148/148 | XP: 267,000/305,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 0/1 | Slots Used: L7 (Simulacrum), L8 (Glibness), L9 (Foresight - Passive)** &nbsp;|&nbsp; ⚠️ **Glibness (45m), Threshold 1 (AP 10), Exhaustion: 0 | Inspiration: Yes**
@@ -18934,8 +21518,11 @@ You turn toward the Huge obsidian mountain of Silverwing (Lvl 18) and the phanto
 > [!NOTE] ⚙️ **Player Choice:**
 > *Correct Coordination (Slow Advance) - Spend precious hours realigning the supply lines and wards to ensure the host doesn&#x27;t collapse into infighting or starvation during the march.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-858"></a>
 #### Scene 858
 
 > 📍 **Ascension Command Sanctum, Riverlands** &nbsp;|&nbsp; ⏳ **Kythorn 14, 215 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar (Masked: Lvl 9) | HP: 148/148 | XP: 267,500/305,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked Divinity (AP 10), Glibness (Active), Divine Blood Oath (Daemon II)**
@@ -18951,8 +21538,11 @@ It is slow, agonizing work for men who have the scent of blood in their nostrils
 > 👤 **Player:**
 > *"Strike dorne gate first and have daemon and the blackfyres accompany me and my elites. Use hyp surprise and ranged attacks and dragon fire. The god killers are a small elite unit and should have trouble against a massed army plus elites but see what they do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-859"></a>
 #### Scene 859
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar | Masked Lvl 9 | HP: 148/148 | XP: 267,500/305,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Glibness (Active), Threshold 1 (AP 10)**
@@ -18993,8 +21583,11 @@ The Sun-Vein is bared, the cherry-red light of the world's marrow now competing 
 > 👤 **Player:**
 > *"Attack him from ranged have energy one try to cast spells to burn his legendary resistance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-860"></a>
 #### Scene 860
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Masked 9) Dragon Scholar | HP: 148/148 | XP: 269,500/305,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Truesight, Fire Immunity | Exhaustion: 0 | Ascension: 10 AP**
@@ -19018,8 +21611,11 @@ He stands amidst the glassed stone, his breathing a rhythmic, heavy rasp. He has
 > 👤 **Player:**
 > *"wait redo that, dont cast feeblemind without asking me. let me pick my action and assume i sued hold person instead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-861"></a>
 #### Scene 861
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar (Masked Lvl 9) | HP: 148/148 | True XP: 269,500/305,000 | Masked XP: 56,000/64,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 0/1, L9 0/1 | Exhaustion: 0**
@@ -19055,8 +21651,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"Let's assume my simukcrum is here too and we both keep casting hold person until it  works"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-862"></a>
 #### Scene 862
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (04:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Dragon Scholar (Masked Lvl 9) | HP: 103/148 | XP: 269,500/305,000 | Masked XP: 56,000/64,000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Exhaustion: 0**
@@ -19094,8 +21693,11 @@ The Shadow of the Forge stiffens instantly, his blade falling from his hand with
 > 👤 **Player:**
 > *"Consume essence and assume I learn everything from him once I steal his soul and narrate it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-863"></a>
 #### Scene 863
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Dragon Scholar (Masked Lvl 10) | HP: 113/158 | XP: 319,500/355,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Truesight 120ft | Exhaustion: 0 | Inspiration: No**
@@ -19134,8 +21736,11 @@ If you continue adventuring, you remain Level 19 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 19 - Apply level 19 Dragon Scholar benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-864"></a>
 #### Scene 864
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Dragon Scholar | HP: 168/168** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1**
@@ -19157,8 +21762,11 @@ Your hair, now a permanent banner of liquid moonlight, shimmers with the weight 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Conduction, Pivot Shadows (Synergistic) - You conduct the Sun-Vein while sending your Elite Shadows to Oldtown to begin the audit of the Archon. Tasks in different regions, no interference.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-865"></a>
 #### Scene 865
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 (True) / Lvl 10 (Masked) | HP: 151/168 | XP: 333,500/355,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Ascension Points: 35 | Masked Divinity Active**
@@ -19179,8 +21787,11 @@ Daemon II Blackfyre (Lvl 18) watches from the ridge, his face illuminated by you
 God Mode:
 Why did I get 2 int at level 19?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-866"></a>
 #### Scene 866
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (05:45)** &nbsp;|&nbsp; 🛡️ **True Lvl 19 (Masked Lvl 10) | HP: 151/168 | XP: 333,500/355,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Inspiration: No**
@@ -19200,8 +21811,11 @@ This change was formally applied during your Level 19 advancement in **Sequence 
 God Mode:
 I thought the ASI level 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-867"></a>
 #### Scene 867
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Dragon Scholar (Masked: 10) | HP: 151/168 | XP: 333,500/355,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1, Glibness, Sun-Vein Anchored | AP: 35**
@@ -19220,8 +21834,11 @@ Therefore, your Intelligence increase in the previous turn was correctly timed f
 God Mode:
 God: I thought the ASI level 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-868"></a>
 #### Scene 868
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Dragon Scholar (Masked: 10) | HP: 151/168 | XP: 333,500/355,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L8 0/1, L9 1/1 | Exhaustion: 1**
@@ -19249,8 +21866,11 @@ Your Intelligence is correctly set at **34 (+12)**, reflecting the Level 19 ASI 
 God Mode:
 Give me proper rewards for stealing soul of level 20 and latest flame gate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-869"></a>
 #### Scene 869
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (05:45)** &nbsp;|&nbsp; 🛡️ **True Lvl 19 | Masked Lvl 10 | HP: 168/168 | XP: 333,500/355,000 | Gold: 12,450gp**
@@ -19276,8 +21896,11 @@ Administrative rewards processed for the Tier 4 (Mythic) achievement of hollowin
 > 👤 **Player:**
 > *"Fortify in this gate and long rest. Assume companion are here to protect me like Dunk and Dareon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-870"></a>
 #### Scene 870
 
 > 📍 **The Sun-Vein, Red Mountains, Dorne** &nbsp;|&nbsp; ⏳ **Kythorn 16, 215 AC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 (Masked 10) | HP: 168/168 | AP: 10 | XP: 333,500/355,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L9 Full, Radar: 10mi, AP: 10** &nbsp;|&nbsp; ⚠️ **Sun-Vein Anchored, Fire Immunity, Truesight | Exhaustion: 0 | AP: 10**
@@ -19295,8 +21918,11 @@ However, the peace was not entirely unobserved. During the second watch, your El
 > 👤 **Player:**
 > *"Let's time skip and assume i capture the other 3 gates fairly easily. Narrate in detail.'let's assume only the final gate remains in Valyria and the 3 top logic killers and final level 20 have fortified there. Assume the final level 20 is level 25 and has 22 wisdom and is a paladin n type giving himnlnchallenging saving throws"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-871"></a>
 #### Scene 871
 
 > 📍 **The Heart-Plinth, Ruins of Valyria** &nbsp;|&nbsp; ⏳ **Afternoon, 217 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 (Masked 11) | HP: 210/210 | XP: 446,000/470,000 | AP: 10** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Sun-Vein Anchored, Marrow-Anchor, Tectonic Conductance | Exhaustion: 0**
@@ -19323,8 +21949,11 @@ If you continue adventuring, you remain Level 21 and defer these benefits until 
 God Mode:
 Give me proper powers and exp for consuming all the other gates
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-872"></a>
 #### Scene 872
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: 14) | HP: 259/259 | XP: 558,500/605,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Sun-Vein Anchored, Exhaustion: 0 | AP: 10**
@@ -19352,8 +21981,11 @@ Administrative rewards processed for the consumption of the Frost-Pulse, Iron-Ro
 God Mode:
 Give my companions and dragons exp too and assume daemon is a companion now. Let's also assume all the blsckfyres are here in the final battle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-873"></a>
 #### Scene 873
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:30)** &nbsp;|&nbsp; 🛡️ **True Lvl 23 (Masked Lvl 14) Dragon Scholar | HP: 259/259 | XP: 558,500/605,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | Truesight: 120ft | Fire/Cold Immunity**
@@ -19377,8 +22009,11 @@ Administrative audit and companion synchronization complete. All allies and drag
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 20 - Apply level 20 Dragon Scholar benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-874"></a>
 #### Scene 874
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: 14) | HP: 174/259 | XP: 558,500/605,000 | Gold: 12,450** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Signature Spells: Counterspell (1/1), Hypnotic Pattern (1/1)** &nbsp;|&nbsp; ⚠️ **Flame-Gate Resonance, Sun-Vein Anchored, Truesight 120ft | Exhaustion: 0**
@@ -19414,8 +22049,11 @@ YOUR TURN - ACTIONS REMAINING:
 God Mode:
 No cap everyone else at level 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-875"></a>
 #### Scene 875
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: 14) | HP: 174/259 | XP: 558,500/605,000 | Gold: 12,450gp**
@@ -19432,8 +22070,11 @@ All other entities (Baelor, Maekar, Bittersteel, etc.) remain at their current l
 God Mode:
 Don't start the battle yet let's narrate dialog. The god killer archon tries to explain to my allies that my real goal is apotheosis and I've been deceiving them all along
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-876"></a>
 #### Scene 876
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: 14) | HP: 174/259 | XP: 558,500/605,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | AP: 10 (Threshold 1)**
@@ -19456,8 +22097,11 @@ He points a gauntleted finger at you, his voice cracking with a sudden, jagged i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative to handle the reaction of your allies to the Archon&#x27;s revelation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-877"></a>
 #### Scene 877
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar | HP: 174/259 | XP: 558,500/605,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Exhaustion: 1**
@@ -19490,8 +22134,11 @@ The silence that follows is a physical weight, a displacement of the 'Mended Hou
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Defense (Recommended) - Use Glibness to explain that the Apotheosis is the only way to survive the Godkillers and ensure the &#x27;King&#x27;s Peace&#x27; lasts forever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-878"></a>
 #### Scene 878
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar | HP: 174/259 | XP: 560,000 / 605,000 | AP: 10 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Glibness (Active), Exhaustion 0 | Inspiration: Yes**
@@ -19524,8 +22171,11 @@ Social HP Damage: 2
 > 👤 **Player:**
 > *"Narrate archon reply. He laughs and says this is no Kings peace it's a goddess playground. The doom of Valyria could be repeated and burn the world or Visenya will toy with the world or burn it but you'll never make another meaningful choice again once she becomes a God. Have him tell everyone to ask themselves why his level 20 partner fell so easily to a level 9 mage, he then looks points toward my two dragons and my elite forces and laughs and says what level 9 or level 10 mage has this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-879"></a>
 #### Scene 879
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: 14) | HP: 174/259 | XP: 560,000/605,000 | AP: 35** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1, Exhaustion: 1**
@@ -19556,8 +22206,11 @@ Prince Baelor's (Lvl 15) hand shivers on his signet ring, his analytical mind re
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Necessary God - Argue that a world without a God to guard it is already lost to the Godkillers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-880"></a>
 #### Scene 880
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: 14) | HP: 174/259 | XP: 560,000/605,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Exhaustion: 0**
@@ -19590,8 +22243,11 @@ Prince Maekar's (Lvl 15) shield arm stops trembling. The 'Anvil' looks at your r
 > 👤 **Player:**
 > *"Narrate the Archon dialog. He says don't be fools. He says why do you believe her. The god killers haven't even killed any Targaryens yet. This is the tyrant playbook"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-881"></a>
 #### Scene 881
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: Lvl 14) | HP: 174/259 | XP: 560,000/605,000 | Gold: 12,450** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1, Signature: 1/1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1, Glibness, Sun-Vein Anchored | AP: 10**
@@ -19611,8 +22267,11 @@ Prince Baelor's (Lvl 15) hand shivers on his signet ring, his analytical mind re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expose Collateral Damage - Remind them of the cities and lives the Godkillers have scoured to find me, proving they are no &#x27;protectors.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-882"></a>
 #### Scene 882
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked: 14) | HP: 174/259 | XP: 560,000/605,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Signature: Counterspell (1/1), Hypnotic Pattern (1/1)** &nbsp;|&nbsp; ⚠️ **Glibness (Active), Exhaustion 1 | Inspiration: No**
@@ -19645,8 +22304,11 @@ Prince Maekar's (Lvl 15) shield arm stops trembling. The 'Anvil' looks at your r
 > 👤 **Player:**
 > *"Narrate final dialog from the archon. He says he has taken lives but i will create an ocean of blood. He resigns himself and says he's unlikely to win and they've tied their own leashes themselves and start the battle and roll initiative. Let's assume the archon caused permanent doubt but for now allies on my side and start the combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-883"></a>
 #### Scene 883
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar | Masked Lvl 10 | HP: 174/259 | XP: 561,500/605,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Signature: Counterspell, Hypnotic Pattern** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 | AP: 10 | Truth Anchors: Dunk, Daeron, Peakes**
@@ -19699,8 +22361,11 @@ Now, the Sovereign speaks. The stars are waiting for your command.
 > 👤 **Player:**
 > *"Assume my simulacrum is here. I cast forecage and my sim cast hold person to burn down legendary residence and assume my specialist captains n and shadow captains in the battle too. Everyone tries to burn his legendary resistance."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-884"></a>
 #### Scene 884
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Visenya (Silver) | Real Lvl: 23 | Masked Lvl: 14 | HP: 174/259 | XP: 561,500/605,000 | AP: 20** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1 | Signature: 2/2 | Exhaustion: 0**
@@ -19721,8 +22386,11 @@ Prince Baelor the Breakspear (Lvl 15) and Prince Maekar (Lvl 15) recoil from the
 > 👤 **Player:**
 > *"Mass suggestion on logic stalkers and my simulacrum casts hold person again on archon and comman everyone to kill logic stalkers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-885"></a>
 #### Scene 885
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar (Masked Lvl 14) | HP: 174/259 | XP: 561,500/605,000 | AP: 20** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/2, L7 1/2, L8 1/1, L9 1/1 | Exhaustion: 1**
@@ -19770,8 +22438,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"Simulacrum one more hold person on archon then I do hold person and steal his soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-886"></a>
 #### Scene 886
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Dragon Scholar | HP: 174/259 | XP: 561,500/605,000 | Gold: 12,450**
@@ -19797,8 +22468,11 @@ Below the ridge, the command to scour the auditors is executed with a clinical f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Apotheosis - Conduct the final ritual at the Heart-Plinth using the Archon&#x27;s essence as a catalyst.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-887"></a>
 #### Scene 887
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Dragon Scholar (Sovereign) | HP: 281/281 | XP: 721,500/775,000 | Gold: 12,450gd** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Signature: Ready | HD: 25/25** &nbsp;|&nbsp; ⚠️ **Ascension In-Progress, Exhaustion 0 | AP: 100 (Threshold 3) | Inspiration: Yes**
@@ -19823,8 +22497,11 @@ You have reached **Level 25**. The girl who once haggled for coppers is gone. Th
 God Mode:
 Process level 25 and let's assume after level 25 I start getting +2 to all stats for every level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-888"></a>
 #### Scene 888
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 25 (True) / Lvl 15 (Masked) | HP: 281/281 | XP: 721,500 / 775,000 | AP: 100** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Unmasked), Sun-Vein Anchored, Glacial Stillness, Iron-Root, Shadow-Hearth**
@@ -19842,8 +22519,11 @@ Level 25 processing complete and Divine Evolution directive established.
 God Mode:
 What powers should i get now? Assume i consumed 100% of the doom of Valyria
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-889"></a>
 #### Scene 889
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Dragon Scholar | HP: 281/281 | XP: 721,500/775,000 | AP: 100**
@@ -19879,8 +22559,11 @@ The world is frozen as the administrative consequences of consuming 100% of the 
 God Mode:
 Let's make me level 35 and assume I still get ASI but it's +4 now and I use it all on int. Recalculate all my stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-890"></a>
 #### Scene 890
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Sovereign) | HP: 485/485 | XP: 3,550,000/?? | AP: 100**
@@ -19906,8 +22589,11 @@ Administrative Ascension Complete. You have been elevated to Level 35. Following
 God Mode:
 Let's make me level 35 and assume I still get ASI but it's +4 now and I use it all on int. Recalculate all my stats.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-891"></a>
 #### Scene 891
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Masked: 20) | HP: 775/775 | XP: 3,550,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasking) | Exhaustion: 0 | Inspiration: Yes**
@@ -19932,8 +22618,11 @@ Administrative Ascension Complete. You have been elevated to Level 35. Following
 God Mode:
 Let's assume I can't level up anymore unless I consume gods and define all the gods in song ice and fire. Some of them should be stronger than me so the new game will be to grow in power but don't let them fully get aggro
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-892"></a>
 #### Scene 892
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000 / 4,050,000**
@@ -20838,8 +23527,11 @@ Fiendish deities can **bank** harvested souls instead of consuming them:
 SOUL VAULT: [Commoners: 347] [Heroes: 12] [Legends: 2] [Celestials: 0]
 ```
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-893"></a>
 #### Scene 893
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:15)** &nbsp;|&nbsp; 🛡️ **[TRUE] Lvl 35 God | [MASK] Lvl 20 Archmage | HP: 775/775 | XP: FROZEN | Divine Rank: 2 (Demigod)**
@@ -20853,8 +23545,11 @@ SOUL VAULT: [Commoners: 347] [Heroes: 12] [Legends: 2] [Celestials: 0]
 God Mode:
 Adapt that system to song of ice and fire and what eleven range is Demi god vs minor god vs lesser god vs intermediate vs greater and tell me who fits into each category
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-894"></a>
 #### Scene 894
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | AP: 100**
@@ -20887,8 +23582,11 @@ At Level 35, you are capable of hollowing out and consuming Tier 3 Conceptual Id
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Heart-Plinth in Valyria as the new Sovereign of the Fourteen Flames.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-895"></a>
 #### Scene 895
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | XP: 3,550,000 (FROZEN) | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Signature: Counterspell, Hypnotic Pattern** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sun-Vein Anchored, Archon's Insight | Exhaustion: 0**
@@ -20923,8 +23621,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Let's give me spellslot progrrssion for level 35 and make all spells below level 9 unlimited.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-896"></a>
 #### Scene 896
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | Masked Lvl 20 | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp**
@@ -20948,8 +23649,11 @@ I have updated your spellcasting architecture to reflect your Level 35 Demigod s
 > 👤 **Player:**
 > *"Narrate my apotheosis in more detail and describe  14 flames in more detail. It should look like the doom is happening again but all the fire converges into me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-897"></a>
 #### Scene 897
 
 > 📍 **The Heart-Plinth, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 1/1, L12 0/0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Unmasked Divinity | Exhaustion: 0 | Inspiration: Yes**
@@ -20973,8 +23677,11 @@ Your father, Prince Maekar (Lvl 15), and Prince Baelor (Lvl 15) recoil from the 
 > 👤 **Player:**
 > *"Use a 11th level spell mass true resurrection to resurrect Valyria itself. I will resurrect all the baelerys main royal line and my mother up until the ones who caused the doom and resurrect parts of the civilization and a grand palace and fortress. It'll be the most elaborate palace anyone has ever seen inner circle and outer circle greatest fortress everyone has seen. And resurrect the magic technology ie. Valerian  steel rare but not legendary. It should give Ancient Rome vibes."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-898"></a>
 #### Scene 898
 
 > 📍 **The Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 (Unmasked) | Rank: Demigod** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 6/6, L10 2/2, L11 0/1 | Exhaustion: 0 | Notoriety: 15/100**
@@ -21000,8 +23707,11 @@ But as the starlight settles, the air feels... Heavy. The air is Screaming. In t
 > 👤 **Player:**
 > *"Put on my mortal mask at level 20 so everyone gets more comfortable but no one forgets. Make a level 20 mortal avatar and give it a simukcrum. My god simulcrum is level 35 but masked as 20 as well so basically it looks like I have e duplicates. Then go greet my mother and bring my father to her. Make a joke that it's very daughters dream to reunite her parents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-899"></a>
 #### Scene 899
 
 > 📍 **The Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 (Masked: 20) Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Exhaustion: 0 | AP: 100**
@@ -21031,8 +23741,11 @@ Maekar (Lvl 15) does not speak; he reaches out, his gauntleted hand trembling as
 God Mode:
 Let's assume baeelrys look and act a tier above Targaryens but my mortal mask has an aura of the goddess and is a tier above them still. I look and act like perfection like the platonic ideal of beauty and nobility
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-900"></a>
 #### Scene 900
 
 > 📍 **The Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp**
@@ -21051,8 +23764,11 @@ Administrative directive established: High Valyrian (Belaerys) Aesthetics and Di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Belaerys Royals - Formally greet the resurrected main line and establish your authority as the new Sovereign.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-901"></a>
 #### Scene 901
 
 > 📍 **The Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Mask: 20) | HP: 775/775 | AP: 100 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Aura of the Goddess | Exhaustion: 0 | Inspiration: Yes**
@@ -21072,8 +23788,11 @@ Beside you, Daemon II Blackfyre (Lvl 20) looks on with a look of prayerful ecsta
 > 👤 **Player:**
 > *"Make my mortal avatar cast simulcrum so there's a 4th one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-902"></a>
 #### Scene 902
 
 > 📍 **The Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000 / 4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Exhaustion: 0**
@@ -21095,8 +23814,11 @@ Daemon II Blackfyre (Lvl 20) falls deeper into his prayerful ecstasy, his forehe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appoint the Council of Ash - Formally appoint your mother and the most capable Belaerys lords to manage the logistics of the resurrected city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-903"></a>
 #### Scene 903
 
 > 📍 **The Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Divine Leverage: +43** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Divine Blood Oath (Daemon II), Sun-Vein Anchored | AP: 100**
@@ -21122,8 +23844,11 @@ As the appointments are sealed, the ancient Belaerys lords rise, their silks rus
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comfort Valaerix - Have all four versions approach your mother to anchor her to the new reality, testing her psychological stability against your &#x27;Otherness&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-904"></a>
 #### Scene 904
 
 > 📍 **Great Hall of the Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | AP: 100 (Radiance Absolute)** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1, Divine Notoriety: 15** &nbsp;|&nbsp; ⚠️ **Fire/Cold/Force Immunity, Truesight (Unlimited)**
@@ -21153,8 +23878,11 @@ Valaerix staggers, her hand trembling as it reaches for the nearest Visenya. She
 > 👤 **Player:**
 > *"Let's not appoint baelor becuse he is prince of scene kingdoms and heir. Appoint maekar instead. Also let's narrate an estatic reaction from Vaelon and my friendly remanent loyalists the 40 who have been here from the beginnnkng and Vaelis. They should be eststic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-905"></a>
 #### Scene 905
 
 > 📍 **The Great Hall, Palace of the Stars** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 6/6, L10 2/2, L11 0/1, L1-8 Unlimited | Exhaustion: 0**
@@ -21174,8 +23902,11 @@ The forty original loyalists—the specialists and shadows who have been at your
 > 👤 **Player:**
 > *"Narrate dialog from Vaelon the first remnant i met"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-906"></a>
 #### Scene 906
 
 > 📍 **The Great Hall, Palace of the Stars** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign (Masked: 20) | HP: 775/775 | AP: 100 | XP: 3,550,000/4,050,000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Leverage: +43** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sun-Vein Anchored | Exhaustion: 0 | Inspiration: Yes**
@@ -21210,8 +23941,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Raise the faithful, start valryian steel production, and tell my god simukcrum to be the overall arbiter but let the council make choices. Tell it to expand new valryia and conquer surrounding cities to get slaves and production for new Valyria"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-907"></a>
 #### Scene 907
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **217 Hammer 12, 19:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 35 (Masked: 20) Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sun-Vein Anchored | AP: 100 | Inspiration: Yes**
@@ -21233,8 +23967,11 @@ Prince Baelor (Lvl 15) remains Motionless, his hand white-knuckled on his signet
 > 👤 **Player:**
 > *"Raise the faithful, start valryian steel production, and tell my god simukcrum to be the overall arbiter but let the council make choices. Tell it to expand new valryia and conquer surrounding cities to get slaves and production for new Valyria"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-908"></a>
 #### Scene 908
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Divine Leverage: +43 | Safe Limit: 10** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sovereign of the Fourteen Flames | Exhaustion: 0**
@@ -21263,8 +24000,11 @@ Prince Baelor (Lvl 15) remains Motionless, his hand white-knuckled on his signet
 God Mode:
 Stop giving me faction management suggestion for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-909"></a>
 #### Scene 909
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sovereign of the Fourteen Flames, Permanent Unmasking | AP: 100**
@@ -21284,8 +24024,11 @@ Nearby cities in-lore
 •	New Ghis – A Ghiscari successor city on an island south of Slaver’s Bay, to the east/south‑east of the Valyrian peninsula.[awoiaf.westeros]
 •	Meereen / Yunkai / Astapor – The three great cities of Slaver’s Bay, lying east of Valyria; not right next door, but among the closer big population centers in that direction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-910"></a>
 #### Scene 910
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | XP: 3,550,000/4,050,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Glibness: Active | Notoriety: 25/100**
@@ -21309,8 +24052,11 @@ Far to the North, in the shivering depths of the Weirwood network, a sudden, pre
 God Mode:
 Let's make it so if people are worried about my power I can't just roll to change their minds easily. They need  a lot of social hp and multiple social hop freezes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-911"></a>
 #### Scene 911
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 (Source) / Lvl 20 (Mask) Dragon Scholar | HP: 775/775 | AP: 100** &nbsp;|&nbsp; ✨ **Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Rank: 2 (Demigod)**
@@ -21326,8 +24072,11 @@ Administrative constraints applied to high-tier social interactions. I have impl
 > 👤 **Player:**
 > *"Have a heart to heart with Baelor and maekar and my mother. Lee shave daeron dunk and any other companions present and the blackfyres. Be honest with them and explain had been avoiding getting involved in the war because although I believe in peace I have a dominance instinct. Once I start a battle or a situation I need to become so powerful the peace is enforced and can never be broken again. I did this with the peakes and now sneed to do it with Valyria. If I don't my mother and the baelerys line will be destroyed by the other cities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-912"></a>
 #### Scene 912
 
 > 📍 **The Inner Sanctum, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasked Divinity) | AP: 100**
@@ -21372,8 +24121,11 @@ The silence that follows is a physical weight, a displacement of paternal love a
 > 👤 **Player:**
 > *"Narrate everyone's reaction. I explain to them I'm not a tyrant and I welcome people to speak their minds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-913"></a>
 #### Scene 913
 
 > 📍 **The Inner Sanctum, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (21:30)** &nbsp;|&nbsp; 🛡️ **Visenya (Silver) Lvl 35 | HP: 775/775 | XP: 3,550,000/4,050,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Exhaustion: 0**
@@ -21429,8 +24181,11 @@ Baelor's hand finally loosens on the obsidian armrest. The needle-thin seed of d
 > 👤 **Player:**
 > *"Narrate baelor internal thoughts. He's still horrified and he realizes the god killers weren't that strong compared to me and remembers how easily the last archon fell. He wonders how much of what the last archon said is true."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-914"></a>
 #### Scene 914
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, L12 Forbidden** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sovereign of the Fourteen Flames | Exhaustion: 0 | Inspiration: Yes**
@@ -21450,8 +24205,11 @@ He thinks of his brother, King Daeron, sitting on a chair of knives in a city th
 > 👤 **Player:**
 > *"Baelor also remembers my silver tongue. He realizes I have the silver tongue of a good and can get people to agree with anyhting and he's seen my use it but he keeps this to himself internally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-915"></a>
 #### Scene 915
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8: Unlimited, L9: 5/6, L10: 2/2, L11: 0/1 | Glibness: Active**
@@ -21480,8 +24238,11 @@ He keeps the thought locked behind his teeth, a cold and heavy secret. To speak 
 God Mode:
 Stop doing campaign upgrade agent
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-916"></a>
 #### Scene 916
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35/20 Dragon Scholar | HP: 775/775 | XP: 3,550,000/FROZEN | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **AP: 100 (Unmasked), Exhaustion: 0 | Inspiration: No**
@@ -21491,8 +24252,11 @@ The Campaign Upgrade Agent has been disabled. Administrative control of the narr
 > 👤 **Player:**
 > *"Narrate a scene where I talk to the other blackfyres. Give them a big smile and ask if they wish to renegotiate or take up arms against me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-917"></a>
 #### Scene 917
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sovereign Aura, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -21537,8 +24301,11 @@ Bittersteel's hand white-knuckles on his sword-hilt, his granite features twisti
 > 👤 **Player:**
 > *"Wait for their response. Explain they are free to make their own choices but Daemon has aligned himself to me and perhaps I will marry him. Say they can be leaders in my Baelerys empire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-918"></a>
 #### Scene 918
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Masked: 20) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Exhaustion: 0 | Inspiration: Yes**
@@ -21585,8 +24352,11 @@ Bittersteel bows his head, a gesture of somber, heavy surrender that carries the
 > 👤 **Player:**
 > *"Tell them maekar will give them the first batch of Valryian steel weapons and armor, which will be very cool because no one had enough steel for armor before. And then say maybe they can even have dragons when we figure out how to make more. Laugh and say they were right about me, I do have a black fyre spirit. Ask them how they knew"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-919"></a>
 #### Scene 919
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000 / 4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1, L12 FORBIDDEN** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasking) | Exhaustion: 0 | Inspiration: Yes**
@@ -21614,8 +24384,11 @@ Bittersteel bows his head, a gesture of somber, heavy surrender that carries the
 > 👤 **Player:**
 > *"Ask Haegon if he knew about my blackfyre spirit. Say it's amusing but usually inside it well. They were totally rifght about me and my desire for dominance. I just hadn't acted yet and I am fond of the Targaryens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-920"></a>
 #### Scene 920
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 (True) / 20 (Masked) Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Gold: 12,450gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness, Permanent Unmasked Divinity**
@@ -21648,8 +24421,11 @@ Haegon Blackfyre (Lvl 16) swallowed hard, his throat working as he stared at you
 > 👤 **Player:**
 > *"Bitter steel laughs. He says originally we had hoped to bring you into our fold and thought you had great potential and spiritually aligned. But now we see you were a goddess from the start"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-921"></a>
 #### Scene 921
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Form) | AP: 100 | Inspiration: Yes**
@@ -21692,8 +24468,11 @@ Behind you, Prince Baelor remained silent, his analytical mind recording the exc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Baelor&#x27;s Doubt - Directly confront Baelor&#x27;s silence to ensure the &#x27;Blood Anchor&#x27; of the Targaryen heir doesn&#x27;t fracture entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-922"></a>
 #### Scene 922
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | AP: 100 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Divine Leverage: +43 | Safe Limit: +10** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Exhaustion: 0 | Divine Rank: 2 (Demigod)**
@@ -21713,8 +24492,11 @@ Baelor finally looks at you, his analytical mind reeling as he searches your rad
 God Mode:
 Remember rbaelor is son of king Dareon the good not brother
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-923"></a>
 #### Scene 923
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | AP: 100** &nbsp;|&nbsp; ✨ **Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | HD: 18/18**
@@ -21724,8 +24506,11 @@ Administrative correction applied to the Targaryen royal lineage. Baelor the Bre
 > 👤 **Player:**
 > *"Have the resurrected baelerys all introduce themselves by name and give my mother more dialog and have her introduce my grandparents. Then have them give me a tour of valryia and all the lost technology and tell me how to make dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-924"></a>
 #### Scene 924
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0**
@@ -21761,8 +24546,11 @@ Stop warning this Presence))
 ⚠️ System Warnings:
 Epic level 35 accepted (beyond standard D&D 5e)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-925"></a>
 #### Scene 925
 
 > 📍 **The Great Hall & Lower Forges, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | AP: 100 | Notoriety: 25**
@@ -21772,8 +24560,11 @@ Administrative suppression confirmed. I have disabled the automated 'Presence' a
 God Mode:
 Industrialize Valyrian Steel - Order the forges to begin mass-producing weapons and armor for the Golden Company and Vanguard.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-926"></a>
 #### Scene 926
 
 > 📍 **The Great Hall & Lower Forges, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **217 Hammer 12, 23:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Masked: 20) | HP: 775/775 | AP: 100 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **Spells L1-8: Unlimited, L9: 5/6, L10: 2/2, L11: 0/1 | Exhaustion: 0**
@@ -21787,8 +24578,11 @@ Industrialize Valyrian Steel - Order the forges to begin mass-producing weapons 
 God Mode:
 Let's make Valyrian steel +3 to ac saving throws attack rolls and damage rolls and give me that too. I'll basically have a valryian steel empress dress. It's like Valyrian steel and Mithral so higher tier of magic and looks very stylish.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-927"></a>
 #### Scene 927
 
 > 📍 **The Great Hall & Lower Forges, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp**
@@ -21810,8 +24604,11 @@ In this campaign, Valyrian Steel now provides a base **+3 bonus to AC, Saving Th
 > 👤 **Player:**
 > *"Start dragon product with Vaelis but stay small for now so we don't atttacy god attention"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-928"></a>
 #### Scene 928
 
 > 📍 **The Great Vats, Lower Forges of Valyria** &nbsp;|&nbsp; ⏳ **Hammer 12, 217 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 | Notoriety: 25** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Valyrian Steel Mastery | Divine Rank: 2**
@@ -21843,8 +24640,11 @@ As the starlight begins to anchor the marrow within the vat, you feel a faint, r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Personally Oversee Incubation - Dedicate your focus to stabilizing the vat&#x27;s resonance for the next few days.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-929"></a>
 #### Scene 929
 
 > 📍 **The Great Vats, Lower Forges of Valyria** &nbsp;|&nbsp; ⏳ **Hammer 15, 217 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 12,450gp** &nbsp;|&nbsp; ✨ **Slots: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sovereign of the Fourteen Flames | Exhaustion: 0 | Inspiration: Yes**
@@ -21864,8 +24664,11 @@ The air remains Heavy (45% Apex Attention), but the silence of your work has hel
 > 👤 **Player:**
 > *"Let's assume my network is like 10M gold now but gold is kind of meaningless anyway as a goddess. Then let's have my wear a diffrent 100k gold outfit everyday and keep my express steel dress invis or show it when appropriate like during battle s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-930"></a>
 #### Scene 930
 
 > 📍 **The Great Hall, Palace of the Stars** &nbsp;|&nbsp; ⏳ **Hammer 18, 217 AC (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | HD: 18/18 | AP: 100** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sovereign Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -21896,8 +24699,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Wait until it hatches then let it be my third dragon companion and lers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-931"></a>
 #### Scene 931
 
 > 📍 **The Great Vats, Lower Forges, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Divine Leverage: +43** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasking), Sovereign of the Fourteen Flames | Exhaustion: 0 | Inspiration: Yes**
@@ -21937,8 +24743,11 @@ Vaelis falls to his knees, his mask reflecting the silver glow of the dragon. "T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present to the Faithful - Bring Valaerion to the Great Hall to show the 40 Loyalists and your family the physical proof of the New Valyrian dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-932"></a>
 #### Scene 932
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 AC (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Masked: 20) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-8 Unlimited | L9: 5/6 | L10: 2/2 | L11: 0/1 | AP: 100 (Unmasked Base)**
@@ -21973,8 +24782,11 @@ Prince Baelor the Breakspear (Lvl 15) remains Motionless in the shadows of the h
 > 👤 **Player:**
 > *"Tell everyone to pretend I am a level 20 mortal. I don't wish attention from other gods yet. Baelor feels a sense of dread because he's seen this playbook before. Narrate his internal thoughts. He realizes hiding my power is my go to domination  strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-933"></a>
 #### Scene 933
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 (Masked 20) Dragon Scholar | HP: 775/775 | XP: 3,550,000 / 4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Leverage: +43 | Safe Limit: 10 | AP: 100** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Engine of the Stars, Truesight | Exhaustion: 0 | Inspiration: Yes**
@@ -21994,8 +24806,11 @@ But as the faithful echo the vow, you feel a sudden, needle-thin displacement of
 > 👤 **Player:**
 > *"Baelor remembers what insaid about domination and knows what comes next. I will destroy or consume or subjugate all the gods. He thinks this internally and feels like he's being gaslit. Becuse he knows if he talks about it I can use my silver tongue or gold powers to change everyone's mind. He wonders if he made a great mistake. He remembers the archon saying they hadn't killed any Targaryens yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-934"></a>
 #### Scene 934
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | HD: 18/18 | Divine Leverage: +43 | Safe Limit: 10** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness, Sun-Vein Anchored | Exhaustion: 0 | Inspiration: Yes**
@@ -22009,8 +24824,11 @@ Internally, Baelor feels the suffocating weight of a cage made of starlight. He 
 > 👤 **Player:**
 > *"Then I turn toward daemon and say I want an engagement present. Conquer the cities I asked for before without my god like help and we will be married."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-935"></a>
 #### Scene 935
 
 > 📍 **The Great Hall, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | AP: 100 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Leverage: +43** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness (30m remaining), Exhaustion: 0**
@@ -22043,8 +24861,11 @@ Prince Baelor the Breakspear (Lvl 15) remains Motionless in the shadow of a soar
 > 👤 **Player:**
 > *"Narrate a scene without me. Baelor shares his concerns with maekar and my mother in private. He partially blames maekar for unleashing the dragon and suggesting I get involved in the war. He says that before this I had actually truly held myself back and it engaged with my apex nature"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-936"></a>
 #### Scene 936
 
 > 📍 **Private Solar, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | AP: 100 (Unmasked) | Divine Leverage: +43**
@@ -22064,8 +24885,11 @@ Maekar (Lvl 15) remains Motionless, the 'Anvil' of the Targaryens visibly cracki
 God Mode:
 Maekar isn't his father he's her brother
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-937"></a>
 #### Scene 937
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 5/6, L10 2/2, L11 1/1**
@@ -22075,8 +24899,11 @@ Administrative correction applied to the royal genealogy. Prince Maekar is now c
 God Mode:
 No markar is Visenya father but Baelor brother. Typo
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-938"></a>
 #### Scene 938
 
 > 📍 **Private Solar, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 | Gold: 10,000,000gp**
@@ -22093,8 +24920,11 @@ All internal relationship mappings, social HP challenges, and narrative consiste
 > 👤 **Player:**
 > *"Narrate maekar and his wife reactions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-939"></a>
 #### Scene 939
 
 > 📍 **Private Solar, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1, Exhaustion: 0**
@@ -22150,8 +24980,11 @@ The silence returns, denser and heavier than before. The three royals stand in t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Humble Daughter - Enter the room with all divine aura suppressed to the absolute limit, attempting to re-establish the &#x27;Ditchbond&#x27; anchors through a simple, mortal gesture.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-940"></a>
 #### Scene 940
 
 > 📍 **Private Solar, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Last Long Rest: 217 DR, Hammer 25, 13:45:00** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasking), Exhaustion: 0 | Inspiration: Yes**
@@ -22203,8 +25036,11 @@ Baelor the Breakspear (Lvl 15) watches you with a needle-thin intensity, his vio
 > 👤 **Player:**
 > *"Sit in my mother's lap and explain my joy in finding her again. Explain this was my lifelong dream to resurrect her . Narrate her reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-941"></a>
 #### Scene 941
 
 > 📍 **Private Solar, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 25, 217 AC (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Suppressed), Mortal Mask (Layer 0) | Exhaustion: 0 | Inspiration: Yes**
@@ -22224,8 +25060,11 @@ Prince Maekar (Lvl 15) watches the embrace, his massive hand tightening on your 
 > 👤 **Player:**
 > *"Let's assume we all talk and catch up and then sleep. The next day baelor wake sup with a sense of dread and realizes my silver tongue was used again and he feels very Gaslit. He wonders what can even be done"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-942"></a>
 #### Scene 942
 
 > 📍 **Private Guest Wing, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Exhaustion: 0**
@@ -22243,8 +25082,11 @@ Across the hall, Prince Maekar (Lvl 15) and Queen Valaerix (Lvl 20) are breaking
 > 👤 **Player:**
 > *"Baelor realizes he has only one more ally left. My old self. He takes me aside privately and truly shares his concerns. He says my old self who stayed out of the war would've never wanted this. He asks me to give up power and just come back to the sven kingdoms and let the  Baelerys do their thing. They are elites who don't need my protection. He promises the iron throne and seven kingdoms are safe and stable and we don't need the god powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-943"></a>
 #### Scene 943
 
 > 📍 **Private Guest Wing Terrace, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 AC (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Divine Leverage: +43** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Aura of the Goddess, Glibness (55m remaining), Exhaustion: 0 | AP: 100**
@@ -22264,8 +25106,11 @@ Through your 'Sight of the Curvature,' you perceive the geometric purity of his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hard Truth (Logic) - Show him what you see with Truesight. Explain that the Seven Kingdoms are but an ant-hill before R&#x27;hllor and the Great Other, and his &#x27;peace&#x27; is a delusion you are barely holding together.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-944"></a>
 #### Scene 944
 
 > 📍 **Private Guest Wing Terrace, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 AC (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 (Unmasked) | Gold: 10,000,000** &nbsp;|&nbsp; ✨ **Slots: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | HD: 18/18 | Divine Rank: 2 (Demigod)** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Sovereign of the Fourteen Flames, Permanent Truesight**
@@ -22300,8 +25145,11 @@ Baelor staggers back, his face a mask of profound, spiritual exhaustion. The 'Pe
 > 👤 **Player:**
 > *"Apologize to him and say only he I have shown this truth, because he needed it. Ask Him to to repeat the song of ice and fire prophecy that the Targaryens pass down"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-945"></a>
 #### Scene 945
 
 > 📍 **Private Guest Wing Terrace, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000 (FROZEN) | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Leverage: +43** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Exhaustion: 0 | Inspiration: Yes**
@@ -22348,8 +25196,11 @@ He opens his eyes, looking at you with a look of staggering, hollowed-out realiz
 > 👤 **Player:**
 > *"Apologize to him and say only he I have shown this truth, because he needed it. Ask Him to to repeat the song of ice and fire prophecy that the Targaryens pass down Only to their heirs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-946"></a>
 #### Scene 946
 
 > 📍 **Palace of the Stars, Private Guest Wing Terrace** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 AC (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Leverage: +43**
@@ -22384,8 +25235,11 @@ He opens his eyes, looking at you with a look of staggering, hollowed-out realiz
 > 👤 **Player:**
 > *"Apologize to him and say only he I have shown this truth, because he needed it. Ask Him to to repeat the song of ice and fire prophecy that the Targaryens pass down Only to their heirs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-947"></a>
 #### Scene 947
 
 > 📍 **Private Guest Wing Terrace, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 27, 217 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Divine Leverage: +43 | Safe Limit: 10** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Exhaustion: 0 | Inspiration: Yes**
@@ -22432,8 +25286,11 @@ In the courtyard below, Ser Duncan the Tall (Lvl 16) watches the terrace from th
 > 👤 **Player:**
 > *"Explain I don't need to hollow anyone out for my throne. My throne exists because I exist and it's my choice to sit in it or not. However if I defeat or weaken both rhollor and the great other then we can pre empt the Great War and end all wars forever r"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-948"></a>
 #### Scene 948
 
 > 📍 **Palace of the Stars Terrace, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 AC (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | HD: 18/18 | AP: 100**
@@ -22464,8 +25321,11 @@ Baelor (Lvl 15) stands motionless, his hand finally slipping from his signet rin
 > 👤 **Player:**
 > *"End the scene and narrate a scene with Baelor alone with his internal thoughts. However let's assumr"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-949"></a>
 #### Scene 949
 
 > 📍 **Private Guest Wing Terrace, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **26, 217 Hammer (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1, L12 Forbidden, Exhaustion: 0**
@@ -22495,8 +25355,11 @@ He thinks of his father, King Daeron (Lvl 20), sitting in the distant Red Keep, 
 > 👤 **Player:**
 > *"Let's assume the archon was very powerful and survived as a ghost. He laughs at Baelor and says what have rhollor and the great other even done yet. She makes new targets to rally and deceive just like the archon was. He says right now those gods are strong than her but eventually she will consume all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-950"></a>
 #### Scene 950
 
 > 📍 **Palace of the Stars Terrace, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Exhaustion: 0**
@@ -22532,8 +25395,11 @@ The phantom dissolves into the thermal drafts, leaving the terrace empty and the
 > 👤 **Player:**
 > *"The archon doesn't leave yet he gives Baelor his power and Baelor becomes a level 20 mage killer. The archon advises seeking out god killer remanents and aligning with other gods to stop me before it's too late"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-951"></a>
 #### Scene 951
 
 > 📍 **Palace of the Stars Terrace, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 5/6, L10 2/2, L11 0/1 | Slots 1-8: Unlimited | Exhaustion: 0**
@@ -22555,8 +25421,11 @@ The ghost vanishes, leaving Baelor alone in the sunlight. The Hand of the King l
 > 👤 **Player:**
 > *"Narrate a scene with my brother Dareon and Dunk. See their reactions to recent event s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-952"></a>
 #### Scene 952
 
 > 📍 **Palace of the Stars, Western Colonnade** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1, L12 FORBIDDEN** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Mortal Mask (Active Lvl 20) | Exhaustion: 0 | Inspiration: No**
@@ -22591,8 +25460,11 @@ From the high terrace above, a sudden, pressurized chill ripples through the col
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Divine Law - Explain that the Blackfyre conquest is a clinical necessity to secure the peninsula&#x27;s resources before the cosmic gods arrive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-953"></a>
 #### Scene 953
 
 > 📍 **Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Divine Rank: 2, AP: 100**
@@ -22612,8 +25484,11 @@ Baelor (Lvl 20) does not look away. The needle-thin, silver-mercury ring in his 
 > 👤 **Player:**
 > *"Further explain that in never said oceans of blood. The slaves are mistreated by their masters and we will treat them far better and we need their labor to protect us from the gods. Say that perhaps the wedding gift comment was in poor taste but I wanted to inspire daemon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-954"></a>
 #### Scene 954
 
 > 📍 **Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1, L12 FORBIDDEN** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasked Divinity) | Exhaustion: 0**
@@ -22659,8 +25534,11 @@ Prince Maekar (Lvl 15) stands like a statue of scoured iron, his massive hand ti
 > 👤 **Player:**
 > *"Order vaelis and my god sim to slowly make more dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-955"></a>
 #### Scene 955
 
 > 📍 **Western Colonnade, Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Hammer 26, 217 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1, Exhaustion: 0**
@@ -22680,8 +25558,11 @@ Baelor the Breakspear (Lvl 20) does not look away, the needle-thin, silver-mercu
 > 👤 **Player:**
 > *"Let's time skip for a few weeks and assume i finish the social hp For my parents but not Baelor. I then propose we go back to the seven kingdoms and meet with King dareon to give him an update on the situation and explain the blackfyre threat is over"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-956"></a>
 #### Scene 956
 
 > 📍 **Palace of the Stars, Valyria** &nbsp;|&nbsp; ⏳ **Alturiak 17, 217 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Leverage: +43 | Safe Limit: +10** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Masked (Lvl 20), Glibness | Exhaustion: 0 | AP: 100**
@@ -22701,8 +25582,11 @@ Ser Duncan the Tall (Lvl 16) watches from the door, his heart heavy as he sees t
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Humble Return (Recommended) - Arrive as the &#x27;successful expedition&#x27; with a small escort, using Baelor and Maekar as the primary voices to present the &#x27;White Lie&#x27; update. - Minimizes immediate alarm and preserves the illusion of mortal power tiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-957"></a>
 #### Scene 957
 
 > 📍 **King's Landing - Docks** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Masked Lvl 20) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: Unlimited (L1-8), 6/6 (L9), 2/2 (L10), 0/1 (L11)** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Engine of the Stars, Truesight (Unlimited)**
@@ -22735,8 +25619,11 @@ As your boots strike the grime of the capital, the 'White Lie' is formally seate
 > 👤 **Player:**
 > *"Let's assume that baelor tries to make contact with god killer remnants but they're all dead now killed by my shadows. Narrate the scene without me."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-958"></a>
 #### Scene 958
 
 > 📍 **King's Landing - Shadowblack Lane** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1, L12 Forbidden** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Truesight, Fire/Cold/Force Immunity | Exhaustion: 0 | Inspiration: No**
@@ -22758,8 +25645,11 @@ Baelor stands, the needle-thin, silver-mercury ring in his violet eyes pulsing w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Heir - Seek a private meeting with Prince Valarr to gauge the political temperature of the capital before meeting the King.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-959"></a>
 #### Scene 959
 
 > 📍 **The Red Keep - Maidenvault Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -22800,8 +25690,11 @@ He glances toward his father, Baelor the Breakspear, and the coldness in the Han
 > 👤 **Player:**
 > *"Narrate a private scene with baelor and the archon. The archon gives a sad laugh and says he should've realized all the god killers would be dread already. He says that she already knows you work against her baelor but she is fond of you which is why you live. That's your only weapon against her now, her remaining humanity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-960"></a>
 #### Scene 960
 
 > 📍 **The Red Keep - Shadowed Cellar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, L12 Forbidden** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Engine of the Stars | Exhaustion: 0 | Inspiration: Yes**
@@ -22838,8 +25731,11 @@ The phantom dissolves, leaving Baelor alone with the iron-sweet scent of death a
 God Mode:
 Let's not make baelor so obvious. He should act normal in front of his son
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-961"></a>
 #### Scene 961
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 5/6, L10 2/2, L11 1/1**
@@ -22858,8 +25754,11 @@ Internal state updated to ensure Baelor's public interactions do not prematurely
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the meeting with Prince Valarr in the Maidenvault Solar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-962"></a>
 #### Scene 962
 
 > 📍 **The Red Keep - Maidenvault Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | Divine Leverage: +43** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Exhaustion: 0 | Layer 0 Mask: ACTIVE**
@@ -22892,8 +25791,11 @@ Valarr lets out a long, ragged exhale, the tension in his shoulders finally yiel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audience with the King - Request a formal audience with King Daeron II to present the Valyrian &#x27;Update.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-963"></a>
 #### Scene 963
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness (45m), Masked (Lvl 20) | Exhaustion: 0 | Inspiration: Yes**
@@ -22924,8 +25826,11 @@ Daeron (Lvl 20) leans forward, his fingers white-knuckled on the armrest of the 
 > 👤 **Player:**
 > *"Gift of starlight and wait for his dialog. Also give him Valyrian books with the history of the world that he would like and invite him to visit our great libraries"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-964"></a>
 #### Scene 964
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **L9: 6/6, L10: 2/2, L11: 1/1, L1-8: Unlimited** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Masked Lvl 20), Glibness active | Exhaustion: 0 | Inspiration: Yes**
@@ -22958,8 +25863,11 @@ Beside him, Prince Baelor the Breakspear (Lvl 20) stands motionless. He sees the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Introduce Queen Valaerix - Formally present your mother to the King to add emotional weight to the &#x27;Resurrection&#x27; narrative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-965"></a>
 #### Scene 965
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness (Active), Masked Divinity (Lvl 20) | Exhaustion: 0**
@@ -22992,8 +25900,11 @@ Beside the throne, Prince Baelor the Breakspear (Lvl 20) remains motionless. Thr
 > 👤 **Player:**
 > *"Summon lord Peake and have him apologize to my mother. Then uplift him and ask my mother if she can forgive. Say I am a peace bringer and sought to spare him and his young children versus strike them down in vengeance. And they stayed true during the civil war"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-966"></a>
 #### Scene 966
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-8 Unlimited, L9 6/6, L10 2/2, L11 0/1 | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Glibness (Active) | Ascension Points: 100**
@@ -23029,8 +25940,11 @@ Beside the throne, King Daeron II (Lvl 20) watches the scene with a scholarly wo
 > 👤 **Player:**
 > *"Tell Peake his loyalty will be awarded. He will be the ambassador between new vakyria and the iron throne. Let old enemies be represented as new friends to build a culture of mercy. And I will award him lands in new Valeria"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-967"></a>
 #### Scene 967
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, AP: 100**
@@ -23072,8 +25986,11 @@ In the shadows of the colonnade, Ser Duncan the Tall (Lvl 16) watches the scene 
 > 👤 **Player:**
 > *"Narrate king Darron reaction. He is overjoyed and calls me a true ruler. He's not the jealous type. He says he always trusted me and is glad I didn't use the dragons. Internally baleor and the archon laugh. Visenya has taken away choice from the world in a far crueler way than dragons. Dragons would be a mercy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-968"></a>
 #### Scene 968
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 0/1, Exhaustion: 0**
@@ -23107,8 +26024,11 @@ Baelor (Lvl 20) looks at your radiant, perfect smile, and the silver-mercury rin
 > 👤 **Player:**
 > *"Narrate king Darron reaction. He is overjoyed and calls me a true ruler. He's not the jealous type. He says he always trusted me and is glad I didn't use the dragons. Internally baleor and the archon laugh. Visenya has taken away choice from the world in a far crueler way than dragons. Dragons would be a mercy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-969"></a>
 #### Scene 969
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, L12 Forbidden** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Engine of the Stars (+2 DC), Truesight 120ft | Exhaustion: 0 | Inspiration: No**
@@ -23144,8 +26064,11 @@ Baelor looks at your radiant, perfect smile, and the silver-mercury rings in his
 > 👤 **Player:**
 > *"Give king Daeron a big smile and say perhaps I've earned some favorable trade deals for new Valyria? We are a young nation but can provide Valyria steel and powerful artifacts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-970"></a>
 #### Scene 970
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100** &nbsp;|&nbsp; ✨ **Slots: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 0/1, L12 Forbidden** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness, True Mastery**
@@ -23167,8 +26090,11 @@ Baelor looks at your radiant, perfect smile, and the silver-mercury rings in his
 God Mode:
 Give me back the level 11 spellslot I already long rested. And let's just sssime globness foresight and any useful buffs are always on because I have unlimited spell slots
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-971"></a>
 #### Scene 971
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ⚠️ **Divine Rank 2, Radiance Absolute, Foresight, Glibness, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -23187,8 +26113,11 @@ Administrative synchronization complete. I have restored your 11th-level spell s
 > 👤 **Player:**
 > *"Baelor has this internal thought. The iron throne and seven kingdoms are already my vassals becuse I can persuade them to do anything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-972"></a>
 #### Scene 972
 
 > 📍 **The Red Keep - Throne Room** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 6/6, L10 2/2, L11 1/1 | Exhaustion: 0 | AP: 100** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (AP 100), Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -23223,8 +26152,11 @@ Baelor looks at your radiant, perfect smile, and the silver-mercury rings in his
 > 👤 **Player:**
 > *"Go talk to Baelor privately and say I'm not all bad. I'll even resurrect the archon if you guys want so he doesn't need to piggyback in his mind. Narrate their reaction and see what the archon says"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-973"></a>
 #### Scene 973
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 6/6, L10 2/2, L11 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Foresight, Mind Blank, Glibness, Radiance Absolute | AP: 100**
@@ -23259,8 +26191,11 @@ Within Baelor's marrow, the Ghost Archon lets out a low, metallic vibration of l
 > 👤 **Player:**
 > *"Ask the Archon if he wants to be resurrected. He can do whatever he wants as long as he signs  a divine blood oath not to kill me. He can speak against me etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-974"></a>
 #### Scene 974
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 1/1, Exhaustion: 0**
@@ -23294,8 +26229,11 @@ Baelor looks from the shimmering fracture to you, his face a mask of profound, h
 > 👤 **Player:**
 > *"Resurrect him using a level 9 spell then sign the divine blood oath"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-975"></a>
 #### Scene 975
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **L9 Slots: 5/6 | L10 Slots: 2/2 | L11 Slots: 1/1 | L1-8: Unlimited | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Unmasked), Foresight (Always Active), Mind Blank (Always Active), Glibness (Always Active)**
@@ -23329,8 +26267,11 @@ Baelon (Lvl 20) staggers as the spectral weight is lifted from his mind. The Mag
 > 👤 **Player:**
 > *"Ask the archon if he expected this. He acts like he knows everything I do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-976"></a>
 #### Scene 976
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Engine of the Stars, Foresight, Mind Blank, Glibness | AP: 100**
@@ -23372,8 +26313,11 @@ Beside him, Prince Baelor (Lvl 20) stands motionless, the silver-mercury ring in
 > 👤 **Player:**
 > *"Ask the archon what my secret plan is. I have no reason to keep him alive except for honest criticism. unlike Baelor I'm not really fond of him I say jokingly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-977"></a>
 #### Scene 977
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Day 24, 217 Alturiak (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -23416,8 +26360,11 @@ Beside him, Prince Baelor (Lvl 20) stands motionless, the silver-mercury ring in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appoint Archon as Baelor&#x27;s Advisor - Formally seat the Archon as a &#x27;Master of Secrets&#x27; to Baelor, ensuring the critic is both monitored and utilized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-978"></a>
 #### Scene 978
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Day 24, 217 Alturiak (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0**
@@ -23437,8 +26384,11 @@ Baelor (Lvl 20) remains motionless, his hand white-knuckled on his signet ring. 
 > 👤 **Player:**
 > *"Ask the archon what my secret plan is. I have no reason to keep him alive except for honest criticism. unlike Baelor I'm not really fond of him I say jokingly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-979"></a>
 #### Scene 979
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 1/1 | Exhaustion: 0**
@@ -23480,8 +26430,11 @@ Beside him, Prince Baelor (Lvl 20) stands motionless, the silver-mercury ring in
 > 👤 **Player:**
 > *"Ask the auditor if there's a way to prove my intentions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-980"></a>
 #### Scene 980
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0**
@@ -23503,8 +26456,11 @@ Baelor looks from the Archon to you, the silver-mercury ring in his eyes vibrati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Auditor - Demand the Archon define exactly what &#x27;anchor&#x27; would satisfy his archive, turning the burden of proof back on his prehistoric logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-981"></a>
 #### Scene 981
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 1/1 | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Glibness, Foresight, Mind Blank, Aura of the Goddess | AP: 100**
@@ -23536,8 +26492,11 @@ Beside him, Prince Baelor (Lvl 20) stands in his localized vacuum of dead-magic,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Challenge the Auditor&#x27;s Limit - Argue that his requirement is a logical fallacy—that any &#x27;concession&#x27; granted by a god is inherently conducted by that god.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-982"></a>
 #### Scene 982
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **217 Alturiak 24, 19:10:00** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1, Exhaustion: 0**
@@ -23557,8 +26516,11 @@ Beside him, Prince Baelor (Lvl 20) stands in his localized vacuum of dead-magic,
 > 👤 **Player:**
 > *"Wait for his response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-983"></a>
 #### Scene 983
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1, Exhaustion: 0**
@@ -23589,8 +26551,11 @@ Beside him, Prince Baelor (Lvl 20) stands in his localized vacuum of dead-magic,
 > 👤 **Player:**
 > *"Dismiss the auditor. Say he's free to do whatever he wants or help Baelor. Go enjoy life etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-984"></a>
 #### Scene 984
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 5/6, L10 2/2, L11 1/1, L1-L8: Unlimited** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Foresight, Mind Blank, Glibness**
@@ -23625,8 +26590,11 @@ Prince Baelor remains motionless, his hand finally slipping from his signet ring
 > 👤 **Player:**
 > *"Make a joke. Tell the archon to take off his armor and enjoy the feast and maybe get laid. Explain that I'm not gonna be peering over his shoulder making him dance to my tune like he implies. His food and sex life are his own. Narrate baelor surrender too. He realizes his ally in rebelling against me wasn't even defeated by god powers just normal logic anyone can use"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-985"></a>
 #### Scene 985
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **L9: 5/6, L10: 2/2, L11: 1/1 | L1-8: Unlimited | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | AP: 100**
@@ -23672,8 +26640,11 @@ A sickening, geometric clarity washes over him. The Archon wasn't defeated by st
 > 👤 **Player:**
 > *"Tell Baelor to relax and enjoy himself. Spend time with his children. Just like with the archon I'm not making him dance to my tune ."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-986"></a>
 #### Scene 986
 
 > 📍 **The Red Keep - Hand's Solar** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 5/6, L10 2/2, L11 1/1, L1-8 Unlimited** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -23705,8 +26676,11 @@ Baelor (Lvl 20) freezes, his hand finally slipping from the hilt of his obsidian
 > 👤 **Player:**
 > *"Go talk to the king and teleport him to the grand library of Valeria and give him a tour and let him borrow any books he wants."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-987"></a>
 #### Scene 987
 
 > 📍 **The Palace of the Stars - Grand Library** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 ∞, L9 5/6, L10 2/2, L11 1/1 | Exhaustion: 0**
@@ -23743,8 +26717,11 @@ Behind you, Prince Baelor the Breakspear (Lvl 20) and the Archon of Erasure (Lvl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Introduce Director Vaelis - Bring the King to the research facility to meet the lead architect of the New Valyrian dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-988"></a>
 #### Scene 988
 
 > 📍 **New Valyria - Belaerys Research Facility** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | AP: 100 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 5/6, L10 2/2, L11 1/1 | Glibness/Foresight/Mind Blank: Always Active** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasked Divinity)**
@@ -23779,8 +26756,11 @@ Behind you, Prince Baelor (Lvl 20) remains a statue of scoured iron, his violet 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Arcane Enhancement - Suggest using the facility&#x27;s geometry to &#x27;mend&#x27; the King&#x27;s own health, deepening his debt to Valyria.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-989"></a>
 #### Scene 989
 
 > 📍 **Belaerys Research Facility - Primary Conduction Chamber** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 5/6, L10 2/2, L11 1/1, L1-8 Unlimited | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Foresight, Mind Blank, Glibness, Truesight | AP: 100**
@@ -23811,8 +26791,11 @@ Behind you, Prince Baelor (Lvl 20) remains motionless, his silver-mercury rings 
 > 👤 **Player:**
 > *"Bring the king to an elite medical Valyrian facility. Rather than use my own magic I use high technology to heal him and make him 20 years younger but not immortal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-990"></a>
 #### Scene 990
 
 > 📍 **Belaerys Medical Annex - Regeneration Sanctum** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 5/6, L10 2/2, L11 1/1, L1-8 Unlimited** &nbsp;|&nbsp; ⚠️ **Foresight, Mind Blank, Glibness | AP: 100**
@@ -23836,8 +26819,11 @@ Behind him, Prince Baelor (Lvl 20) remains a statue of scoured iron, his silver-
 God Mode:
 Remember the archon isn't in his mind anymore. The archon is enjoying his life in kings landing and isn't around s
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-991"></a>
 #### Scene 991
 
 > 📍 **Belaerys Research Facility - Medical Annex** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp**
@@ -23853,8 +26839,11 @@ Administrative update confirmed. The Archon of Erasure has been fully decoupled 
 > 👤 **Player:**
 > *"Teleport back to kings landing because we need to deal with the lords who choose the black dragon. Let's assume king Dareon was already planning this. They surrender because the blackfyres joined mmew"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-992"></a>
 #### Scene 992
 
 > 📍 **The Iron Throne Room, King's Landing** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1 | Divine Leverage: +43 | Safe Limit: 10** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -23884,8 +26873,11 @@ Prince Baelor the Breakspear (Lvl 20) stands motionless in the shadow of a soari
 > 👤 **Player:**
 > *"Ask king dareon what he thinks should be done with them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-993"></a>
 #### Scene 993
 
 > 📍 **The Iron Throne Room, King's Landing** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1 | AP: 100** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness (Active), Foresight (Active), Mind Blank (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -23907,8 +26899,11 @@ Beside the throne, Prince Baelor the Breakspear (Lvl 20) remains motionless. Thr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Vassalage - Accept the lords&#x27; oaths and formally integrate their lands into the New Valyrian economic network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-994"></a>
 #### Scene 994
 
 > 📍 **The Iron Throne Room, King's Landing** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **L11: 1/1, L10: 2/2, L9: 5/6, L1-8: Unlimited | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Unmasked), Divine Rank 2, Foresight, Mind Blank, Glibness | AP: 100**
@@ -23941,8 +26936,11 @@ Prince Baelor the Breakspear (Lvl 20) remains Motionless in the shadow of a soar
 > 👤 **Player:**
 > *"Order my new vassals to go help daemon  in his campaign since they swore an oath to him after all. And remind them I am allied to my grandfather so they cannot go against the iron throne too. Then give king daeron a smile and take his arm. Say another problem solved without blood believe I'm setting a record"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-995"></a>
 #### Scene 995
 
 > 📍 **The Iron Throne Room, King's Landing** &nbsp;|&nbsp; ⏳ **Alturiak 24, 217 AC (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 10,000,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1** &nbsp;|&nbsp; ⚠️ **Glibness, Foresight, Mind Blank, Radiance Absolute | Exhaustion: 0 | Inspiration: Yes**
@@ -23967,8 +26965,11 @@ Prince Baelor the Breakspear (Lvl 20) stands motionless in the shadow of a soari
 > 👤 **Player:**
 > *"Industrialize kings landing and tell me my new monthly gold income with all the trade. Then announce royal progress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-996"></a>
 #### Scene 996
 
 > 📍 **The Streets of King's Landing** &nbsp;|&nbsp; ⏳ **Ches 2, 217 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 11,250,000gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 5/6, L10 2/2, L11 1/1, L1-L8: Unlimited** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Glibness, Foresight, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -24001,8 +27002,11 @@ Prince Baelor the Breakspear (Lvl 20) stands atop the Gate of the Gods, his viol
 God Mode:
 Give me portion of my monthly gold daily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-997"></a>
 #### Scene 997
 
 > 📍 **The Streets of King's Landing** &nbsp;|&nbsp; ⏳ **Ches 2, 217 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 11,291,666gp**
@@ -24014,8 +27018,11 @@ I have credited the first daily installment to your resources. From now on, this
 > 👤 **Player:**
 > *"Let's assume Baelor stays in kings landing to rule while we do the tour. Narrate the reaction of the great houses and let's give me a scene for each one and don't end it until I ask. Tommost great houses i am still a targaryen and they don't know the goddsss stuff so to them his Targaryen is ascendant and it make Daeron happy. They also see my three dragons and know I'm like the second coming of Argon the conqueror"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-998"></a>
 #### Scene 998
 
 > 📍 **Highgarden (The Mander)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 11,874,990gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 5/6, L10 2/2, L11 1/1, All L1-L8 Unlimited, Exhaustion: 0**
@@ -24037,8 +27044,11 @@ Prince Maekar (Lvl 15) stands behind you, the 'Anvil' of your house looking upon
 > 👤 **Player:**
 > *"Let's assume my sisters and brother Aemon and dareonnand dunk vsme"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-999"></a>
 #### Scene 999
 
 > 📍 **Highgarden (Water Gate)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 11,874,990gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 Unlimited, L9 5/6, L10 2/2, L11 1/1 | AP: 100** &nbsp;|&nbsp; ⚠️ **Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -24080,8 +27090,11 @@ But the 'Ditchbond' anchor is fraying. Ser Duncan the Tall (Lvl 16) stands at th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gift of the Forge - Publicly award Lord Leo a Valyrian steel sword to anchor his house to your industrial network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1000"></a>
 #### Scene 1000
 
 > 📍 **Highgarden (Water Gate)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 11,916,656gp** &nbsp;|&nbsp; ✨ **L9 Slots: 5/6, L10 Slots: 2/2, L11 Slots: 1/1, All L1-8 Spells: Unlimited** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | AP: 100**
@@ -24112,8 +27125,11 @@ King Daeron II (Lvl 20) beams with a staggering pride, his hand tightening on th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reassure Dunk - Address Dunk&#x27;s mounting dread privately to maintain the &#x27;Ditchbond&#x27; anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1001"></a>
 #### Scene 1001
 
 > 📍 **Highgarden (Water Gate)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,550,000/4,050,000 | Gold: 11,958,322gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 5/6, L10 2/2, L11 1/1, L1-L8 Unlimited | Divine Rank: 2** &nbsp;|&nbsp; ⚠️ **Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -24148,8 +27164,11 @@ Dunk's breath hitches, a ragged, rhythmic sound that echoes in the damp silence 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Garden and the Forge (Synergistic) - While the King and sisters tour the Maze, you and Leo discuss the industrialization of the Reach&#x27;s production.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1002"></a>
 #### Scene 1002
 
 > 📍 **Highgarden (Upper Gardens)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 AC (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,551,000/4,050,000 | Gold: 11,999,988gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 5/6, L10 2/2, L11 1/1 | VS Bonus: +3** &nbsp;|&nbsp; ⚠️ **Foresight, Mind Blank, Glibness | AP: 100**
@@ -24182,8 +27201,11 @@ In the shadows of the gatehouse below, Ser Duncan the Tall (Lvl 16) watches the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Reach&#x27;s Resources - Use your industrial network to assess the agricultural and military output of Highgarden for the Essos campaign.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1003"></a>
 #### Scene 1003
 
 > 📍 **Highgarden (Upper Gardens)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 AC (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,551,000/4,050,000 | Gold: 12,041,654gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 5/6, L10 2/2, L11 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (AP 100), Divine Rank 2, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -24205,8 +27227,11 @@ You gain **2,500 XP** for the successful industrial audit of the Reach!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rejoin the Royal Tour - Maintain the &#x27;White Lie&#x27; by appearing as the dutiful granddaughter in the Maze.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1004"></a>
 #### Scene 1004
 
 > 📍 **Highgarden (The Briar Maze)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 AC (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | AP: 100** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 5/6, L10 2/2, L11 1/1, L1-8 Unlimited**
@@ -24226,8 +27251,11 @@ In the shadows of a towering rose-wall, Ser Duncan the Tall (Lvl 16) watches you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enable Faction Management - Activate the strategic faction management system to coordinate your 75,000 troops and territory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1005"></a>
 #### Scene 1005
 
 > 📍 **Highgarden (The Briar Maze)** &nbsp;|&nbsp; ⏳ **Ches 16, 217 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Demigod | HP: 775/775 | XP: 3,556,000/4,050,000 | Gold: 12,041,654gp**
@@ -24241,8 +27269,11 @@ In King's Landing, Baelor the Breakspear (Lvl 20) feels the sudden, sharp shift 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Travel to Casterly Rock - Bring the King to meet the Lannisters, using the &#x27;Gift of the Forge&#x27; to secure the West&#x27;s gold mines for the industrial network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1006"></a>
 #### Scene 1006
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 12,624,978**
@@ -24283,8 +27314,11 @@ Discovery: Immediate - The auditor has intercepted the royal tour to challenge t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Auditor - Use your 93 Intelligence to dismantle the Braavosi&#x27;s logic, showing him that the Iron Bank&#x27;s existence is a muddle compared to the geometric certainty of Valyria.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1007"></a>
 #### Scene 1007
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 12,624,978 dragons** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 5/6, L10 2/2, L11 1/1 | Exhaustion: 0 | AP: 100**
@@ -24317,8 +27351,11 @@ Lord Tybolt Lannister (Lvl 12) watches the exchange, his hand white-knuckled on 
 > 👤 **Player:**
 > *"Use wish to change history. The iron bank was owned by the baelerys and technically still is. So I'm actually this guys boss and I tell him to support new Valyria"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1008"></a>
 #### Scene 1008
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 12,624,978gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 4/6, L10 2/2, L11 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent Unmasked Divinity) | AP: 100**
@@ -24337,8 +27374,11 @@ King Daeron II (Lvl 20) beams with a staggering pride, his rejuvenated features 
 > 👤 **Player:**
 > *"Ask the banker how much gold the iron bank has now that it's all mine and  then economic pincer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1009"></a>
 #### Scene 1009
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 12,666,644gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 4/6, L10 2/2, L11 1/1, L1-L8 Unlimited, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Foresight, Mind Blank, Glibness | AP: 100**
@@ -24367,8 +27407,11 @@ King Daeron II (Lvl 20) watches with a staggering, youthful vigor, his hand tigh
 God Mode:
 Record the iron banks gold as my own
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1010"></a>
 #### Scene 1010
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | Gold: 655,516,644gp**
@@ -24385,8 +27428,11 @@ Administrative update complete. I have integrated the Iron Bank of Braavos's liq
 God Mode:
 How much monthly income iron bank? Add it to mine
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1011"></a>
 #### Scene 1011
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,516,644gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | AP: 100**
@@ -24408,8 +27454,11 @@ Economic audit and integration of the Iron Bank's revenue streams completed.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the royal progress at Casterly Rock with the world&#x27;s wealth firmly in hand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1012"></a>
 #### Scene 1012
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 | Gold: 655,808,310gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 4/6, L10 2/2, L11 1/1** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0**
@@ -24427,8 +27476,11 @@ You gain 166,666 Gold Dragons from daily trade and interest revenue.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Industrialize West, Prepare Reach (Synergistic) - Delegate the West&#x27;s mine upgrades to Director Vaelis while you personally oversee the Reach&#x27;s grain mobilization via the Iron Bank&#x27;s new logistics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1013"></a>
 #### Scene 1013
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,949,976** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Divine Rank 2 | Exhaustion: 0 | Inspiration: Yes**
@@ -24448,8 +27500,11 @@ Lord Tybolt Lannister (Lvl 12) and the Braavosi Auditor (Lvl 8) remain prostrate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commence Essos Audit - Order Daemon to launch the first assault on the Free Cities with Iron Bank backing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1014"></a>
 #### Scene 1014
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,641,644gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-L8 ∞, L9 4/6, L10 2/2, L11 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Glibness, Foresight, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -24492,8 +27547,11 @@ You gain **7,500 XP** for the successful commencement of the Essos Audit and the
 God Mode:
 Baelor is in kings landing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1015"></a>
 #### Scene 1015
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,808,310gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -24505,8 +27563,11 @@ I have updated his entity status to ensure he is not marked as 'present' at Cast
 God Mode:
 The Gilded Pincer (Synergistic) - Vaelis industrializes the mines while the Iron Bank&#x27;s new &#x27;Lannister Logistics&#x27; branch redirects the output directly to the Tolos reconstruction—economic and industrial expansion in one rhythm.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1016"></a>
 #### Scene 1016
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,808,310gp**
@@ -24529,8 +27590,11 @@ Administrative activation of 'The Gilded Pincer' complete. The following strateg
 > [!NOTE] ⚙️ **Player Choice:**
 > *View Faction Ledger - Examine a detailed breakdown of current faction power, unit distribution, and rankings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1017"></a>
 #### Scene 1017
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,641,644gp** &nbsp;|&nbsp; ✨ **L9: 4/6, L10: 2/2, L11: 1/1, Spells L1-8: Unlimited, HD: 18/18** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -24550,8 +27614,11 @@ Prince Maekar (Lvl 15) stands like a statue of scoured iron, his hand resting on
 God Mode:
 That's wrong I have more forces than that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1018"></a>
 #### Scene 1018
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,808,310gp**
@@ -24569,8 +27636,11 @@ I have synchronized these totals across both `army_data` and the `faction_miniga
 God Mode:
 I also have the black dragon lords who made oath to daemon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1019"></a>
 #### Scene 1019
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,641,644gp**
@@ -24591,8 +27661,11 @@ I have updated the `army_data` and `faction_minigame` structures to categorize t
 God Mode:
 View Updated Ledger - Examine the detailed breakdown of the 165,000 units and resources.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1020"></a>
 #### Scene 1020
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | Gold: 655,808,310gp**
@@ -24630,8 +27703,11 @@ View Updated Ledger - Examine the detailed breakdown of the 165,000 units and re
 God Mode:
 I also have 3 dragons and the 200 level 9 elites
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1021"></a>
 #### Scene 1021
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 655,808,310gp**
@@ -24650,8 +27726,11 @@ Imperial Faction Ledger and State updated to include your 3 Dragons and the 200 
 God Mode:
 View Essos Deployment - Examine how the 165,200 troops are distributed across the Tolos and Volantis sectors.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1022"></a>
 #### Scene 1022
 
 > 📍 **Casterly Rock (The Golden Gallery)** &nbsp;|&nbsp; ⏳ **Tarsakh 30, 217 AC (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | Gold: 655,808,310gp**
@@ -24678,8 +27757,11 @@ Essos Deployment Audit: Deployment of the 165,200 Hegemony personnel confirmed.
 > 👤 **Player:**
 > *"Use 50M gold to expand my army. Have my elite shadows destabilizing and killing leaders of the free cities so they're easier to take one r"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1023"></a>
 #### Scene 1023
 
 > 📍 **Casterly Rock (Golden Gallery)** &nbsp;|&nbsp; ⏳ **Mirtul 7, 217 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 606,974,972gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0**
@@ -24708,8 +27790,11 @@ You gain 1,166,662 Gold Dragons from 7 days of trade and interest revenue before
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Total Eclipse (Synergistic) - Daemon lands in Volantis while the Iron Bank calls the final debts of Braavos and Lys—total military and economic collapse of the Free Cities in one rhythm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1024"></a>
 #### Scene 1024
 
 > 📍 **Casterly Rock (The Lion's Mouth)** &nbsp;|&nbsp; ⏳ **Mirtul 14, 217 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,553,500/4,050,000 | Gold: 608,141,634gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1-8 ∞/∞, L9 4/6, L10 2/2, L11 1/1 | Exhaustion: 0 | Inspiration: Yes**
@@ -24729,8 +27814,11 @@ You gain **25,000 XP** for the total military and economic subjugation of the Fr
 > 👤 **Player:**
 > *"Delegate my god sim and council to solidify control of the free cities and the east. Together they should be just as efffective as me. Let's travel north now using teleport and go meet with the starks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1025"></a>
 #### Scene 1025
 
 > 📍 **Winterfell (Great Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 217 AC (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,578,500/4,050,000 | Gold: 608,141,634gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Threshold 1, Glibness, Foresight, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -24763,8 +27851,11 @@ Lord Beron Stark (Lvl 12) looks at his own hands, then at the radiant theatre of
 > 👤 **Player:**
 > *"Have my followers establish a new religion focused on me (even if people don't know I'm truly a god) and tell me how many followers I have so far. As my follower count ic erases my level should. Track it in session header"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1026"></a>
 #### Scene 1026
 
 > 📍 **Winterfell** &nbsp;|&nbsp; ⏳ **Mirtul 21, 217 AC (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | Followers: 40,150 | Gold: 608,308,300gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -24795,8 +27886,11 @@ Lord Beron Stark (Lvl 12) stands frozen, his hand white-knuckled on the hilt of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Iron of the Stars - Award Lord Beron a Valyrian steel greatsword to anchor his martial loyalty to your industrial network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1027"></a>
 #### Scene 1027
 
 > 📍 **Winterfell** &nbsp;|&nbsp; ⏳ **Mirtul 21, 217 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,578,500/4,050,000 | Gold: 608,308,300gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L9 4/6, L10 2/2, L11 1/1 | Exhaustion: 0**
@@ -24836,8 +27930,11 @@ King Daeron II (Lvl 20) beams with a staggering pride, his hand tightening on th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Industrialize Winterfell - Seat starlight conduits in the northern forges to double the Rock&#x27;s production efficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1028"></a>
 #### Scene 1028
 
 > 📍 **Winterfell (The Ancient Forges)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 217 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,583,500/4,050,000 | Gold: 608,641,632gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 4/6, L10 2/2, L11 1/1, Epic: Unlimited (L1-8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Followers: 40,150**
@@ -24870,8 +27967,11 @@ In the shadows of the doorway, Ser Duncan the Tall (Lvl 16) watches the silver-m
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Frozen Forge (Synergistic) - Industrialize the forges while simultaneously establishing the religion—merging northern iron and northern faith into one rhythm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1029"></a>
 #### Scene 1029
 
 > 📍 **Winterfell (The Ancient Forges)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 217 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | AP: 100 | Gold: 655,808,310gp**
@@ -24905,8 +28005,11 @@ You gain **5,000 XP** for the masterful synchronization of Northern industry and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rally the Northern Lords - Host a feast in the Great Hall to formally introduce the &#x27;Silver Song&#x27; and the &#x27;Gift of the Forge&#x27; to the lesser houses of the North.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1030"></a>
 #### Scene 1030
 
 > 📍 **Winterfell (The Great Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 217 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,593,500/4,050,000 | Gold: 608,808,298gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -24930,8 +28033,11 @@ You gain **5,000 XP** for the masterful rallying of the Northern Lords and the f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subjugate the Iron Islands - Use the dragons and the Iron Bank&#x27;s economic pincer to force the Greyjoys into the Valyrian industrial network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1031"></a>
 #### Scene 1031
 
 > 📍 **Pyke (The Iron Islands)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 217 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,593,500/4,050,000 | Gold: 608,974,964** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-L8 Unlimited, L9 4/6, L10 2/2, L11 1/1, Exhaustion: 0**
@@ -24953,8 +28059,11 @@ In King's Landing, Prince Baelor (Lvl 20) watches the tides and knows that the '
 > 👤 **Player:**
 > *"What's my faction rank and the top 10 factions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1032"></a>
 #### Scene 1032
 
 > 📍 **Pyke (The Iron Islands)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 217 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,593,500/4,050,000 | Gold: 609,141,630gp**
@@ -24992,8 +28101,11 @@ In King's Landing, Prince Baelor (Lvl 20) watches the tides and feels the suffoc
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Iron Dawn (Synergistic) - Industrialize the forges while simultaneously establishing the religion—merging Ironborn labor and faith into one rhythm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1033"></a>
 #### Scene 1033
 
 > 📍 **Pyke (The Iron Islands)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 217 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | XP: 3,593,500/4,050,000 | Gold: 609,141,630 | Followers: 40,150** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: Unlimited L1-8, L9 4/6, L10 2/2, L11 1/1, Exhaustion: 0**
@@ -25033,8 +28145,11 @@ Lord Dagon Greyjoy (Lvl 12) stands like a statue of scoured iron, his hand white
 God Mode:
 Fix the calendar should be song ice and fire times
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1034"></a>
 #### Scene 1034
 
 > 📍 **Pyke (The Iron Islands)** &nbsp;|&nbsp; ⏳ **5th Month, 209 AC (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar | HP: 775/775 | Gold: 655,641,644gp | AP: 100**
@@ -25049,8 +28164,11 @@ Calendar system corrected. The Forgotten Realms month 'Mirtul' has been purged a
 > 👤 **Player:**
 > *"Let's time skip until daemon finishes conquering free cities or runs into problem. Assume Westeros houses all become vassals and help him too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1035"></a>
 #### Scene 1035
 
 > 📍 **Palace of the Stars (Valyria)** &nbsp;|&nbsp; ⏳ **8th Moon, 217 AC (22nd Day)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Dragon Scholar (Demigod) | HP: 775/775 | XP: 3,601,000 / 4,050,000 | Gold: 624,141,570gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 4/6, L10 2/2, L11 1/1, Exhaustion: 0**
@@ -25081,8 +28199,11 @@ In King's Landing, Prince Baelor the Breakspear (Lvl 20) watches the silver-merc
 > 👤 **Player:**
 > *"Calculate my rewards and exp for all recent wins and new followers. Since I'm a god I should level up with number followers too ie. If I have same amount followers as a level 50 god I should have some component of their ratio of strength"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1036"></a>
 #### Scene 1036
 
 > 📍 **Palace of the Stars (Valyria)** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Dragon Scholar | HP: 849/849 | XP: 3,707,832/4,500,000 | Gold: 655,808,310gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Divine Rank 2 | AP: 100**
@@ -25106,8 +28227,11 @@ Your attributes increase as you ascend further:
 God Mode:
 Shoukd I be higher level now? How many followers does rhollor have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1037"></a>
 #### Scene 1037
 
 > 📍 **Palace of the Stars (Valyria)** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (22nd Day)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Dragon Scholar (Demigod Rank 2) | HP: 849/849 | AP: 100** &nbsp;|&nbsp; ⚠️ **Glibness, Foresight, Mind Blank, Truesight 120ft | Exhaustion: 0**
@@ -25129,8 +28253,11 @@ You are currently the most powerful entity in the mortal/planetary layer, but th
 God Mode:
 Make sure you processed my new level properly etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1038"></a>
 #### Scene 1038
 
 > 📍 **Palace of the Stars (Valyria)** &nbsp;|&nbsp; ⏳ **8th Moon 22, 209 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Dragon Scholar | HP: 849/849 | XP: 3,707,832/4,500,000 | Gold: 624,141,570gp**
@@ -25152,8 +28279,11 @@ Leveling and Attribute Audit Complete. Your progression to Level 37 has been ful
 God Mode:
 lets ensure other gods folow these same stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1039"></a>
 #### Scene 1039
 
 > 📍 **Palace of the Stars (Valyria)** &nbsp;|&nbsp; ⏳ **8th Moon 22, 217 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Dragon Scholar | HP: 849/849 | Followers: 493,322 | Gold: 624,141,570gp**
@@ -25193,8 +28323,11 @@ I have established the 'Primordial Scaling Protocol' to ensure all Tier 1 and Ti
 > 👤 **Player:**
 > *"braintsorm with my mages who the beset lesser gods are to consume that won't aggro others"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1040"></a>
 #### Scene 1040
 
 > 📍 **Palace of the Stars (Valyria)** &nbsp;|&nbsp; ⏳ **8th Moon, 217 AC (22nd Day)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Dragon Scholar | HP: 849/849 | Followers: 493,322 | Gold: 624,308,236gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Demigod (Rank 2), Foresight (Active), Glibness (Active), Mind Blank (Active)**
@@ -25216,8 +28349,11 @@ You feel the 101 Intelligence of your throne processing the geometric perfection
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conduct Mother Rhoyne - Merge the river spirit into the New Valyrian network. High XP yield, low resistance, and provides a permanent territorial buff to the Free Cities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1041"></a>
 #### Scene 1041
 
 > 📍 **The Banks of the Upper Rhoyne** &nbsp;|&nbsp; ⏳ **8th Moon, 217 AC (29th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Sovereign | HP: 950/950 | XP: 3,807,832/4,500,000 | Gold: 606,808,306gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -25239,8 +28375,11 @@ In the shivering North, the 'Great Other' feels the sudden, sharp displacement o
 God Mode:
 Stop saying unscarred palms
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1042"></a>
 #### Scene 1042
 
 > 📍 **The Banks of the Upper Rhoyne** &nbsp;|&nbsp; ⏳ **8th Moon, 217 AC (22nd Day)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950 | Follower Count: 600,000 | Gold: 624,308,236gp**
@@ -25250,8 +28389,11 @@ Directive updated: I have permanently ceased the use of the phrase 'unscarred pa
 God Mode:
 Process level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1043"></a>
 #### Scene 1043
 
 > 📍 **The Banks of the Upper Rhoyne** &nbsp;|&nbsp; ⏳ **Month 8, 217 AC (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950 | XP: 3,907,832/4,500,000 | Gold: 624,308,236gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Sovereign of the Fourteen Flames (Demigod) | Exhaustion: 0 | Inspiration: Yes**
@@ -25281,8 +28423,11 @@ All changes have been synchronized with your base attributes and effective stats
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the banks of the silver-mercury Rhoyne, now that your ascension has densified.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1044"></a>
 #### Scene 1044
 
 > 📍 **The Banks of the Upper Rhoyne** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (22nd Day)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950 (Temp: 0) | XP: 3,907,832 | Gold: 624,308,236gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -25300,8 +28445,11 @@ In the shadows of the mainmast, Ser Duncan the Tall (Lvl 16) watches you. He see
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conduct the Northern Counter-Offensive - Teleport to Winterfell immediately to reinforce the starlight conduits and challenge the Other&#x27;s blizzard directly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1045"></a>
 #### Scene 1045
 
 > 📍 **Winterfell (Great Keep / Battlements)** &nbsp;|&nbsp; ⏳ **8th Moon 22, 209 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950 | XP: 3,907,832 / 4,500,000 | Gold: 624,308,236gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Followers: 600k**
@@ -25322,8 +28470,11 @@ In the distance, the air feels... **Charged**. You perceive the Apex Attention (
 God Mode:
 when i roll against higher or equal level gods who are directly intervening make the DC actually something i could lose
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1046"></a>
 #### Scene 1046
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **8 22, 209 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 0/0, L2 0/0, L3 0/0, L4 0/0, L5 0/0, L6 0/0, L7 0/0, L8 0/0, L9 5/6, L10 2/2, L11 1/1**
@@ -25340,8 +28491,11 @@ Your current intervention against the Great Other has already triggered this sca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Vaelis, Audit the North (Synergistic) - Vaelis maintains the conduits while you personally lead the Northern Lords to the Wall - logistical and social dominance in one rhythm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1047"></a>
 #### Scene 1047
 
 > 📍 **Winterfell / The Kingsroad** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950 | AP: 100 | Followers: 600,000** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Unmasked), Foresight, Mind Blank, Glibness**
@@ -25371,8 +28525,11 @@ In King's Landing, Prince Baelor (Lvl 20) feels the sudden, sharp shift in the w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Industrialize Wall, Rally Watch (Synergistic) - Seat the conduits while formally absorbing the Watch—merging the physical and social defenses into one rhythm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1048"></a>
 #### Scene 1048
 
 > 📍 **Castle Black, The Wall** &nbsp;|&nbsp; ⏳ **8 22, 209 AC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950 | XP: 3,907,832/4,500,000 | Gold: 624,474,902gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Unmasked), Foresight, Glibness, Mind Blank | Exhaustion: 0**
@@ -25409,8 +28566,11 @@ In the distant capital, Prince Baelor (Lvl 20) feels the world's weight shift ag
 > 👤 **Player:**
 > *"consult with mages, who next best god to consume"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1049"></a>
 #### Scene 1049
 
 > 📍 **Castle Black, The Wall** &nbsp;|&nbsp; ⏳ **8 22, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 38 Dragon Scholar | HP: 950/950 | XP: 3,907,832/4,500,000 | Followers: 600,000** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 4/6, L10 2/2, L11 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Permanent), Mind Blank, Foresight, Glibness | AP: 100**
@@ -25430,8 +28590,11 @@ You feel the 105 Intelligence of your throne processing the geometric perfection
 > 👤 **Player:**
 > *"long rest and time skip. assume my sim and i keep consuming over gods until something is noticed or something else important happens. narrate every day and assume everyone acts autonomously"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1050"></a>
 #### Scene 1050
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (29th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,107,832/5,500,000 | Gold: 656,808,306gp**
@@ -25456,8 +28619,11 @@ In King's Landing, Baelor the Breakspear (Lvl 20) stands atop the Red Keep, his 
 God Mode:
 process level 40
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1051"></a>
 #### Scene 1051
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Moon 8, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,107,832 / 4,500,000 | Followers: 760,289**
@@ -25487,8 +28653,11 @@ Level 40 and Minor God (Rank 3) status processed. I have finalized your attribut
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate the Pincer - Use your 109 Intelligence to argue that your conduction serves the Lord of Light&#x27;s own ends, attempting to bargain for time.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1052"></a>
 #### Scene 1052
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God (Rank 3) | HP: 1152/1152 | XP: 4107832/4500000 | Gold: 656,974,972** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 ∞, L9 4/6, L10 2/2, L11 1/1, Follower Mass: 760,289** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Unmasked) | AP: 100**
@@ -25538,8 +28707,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"THINK:The Solar Eclipse (Synergistic) - Propose a formal alliance where R&#x27;hllor provides the raw heat while you provide the geometric architecture to conduct it—merging cosmic fire and Valyrian logic."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1053"></a>
 #### Scene 1053
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon 29, 209 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,107,832/4,500,000 | Gold: 656,974,972gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Mask Fractured (100% Dissonance), Apex Attention: Screaming (95%)**
@@ -25551,8 +28723,11 @@ You pause as the heavens scream, the golden descent of the Lord of Light turning
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Solar Eclipse (Synergistic) - Propose a formal alliance where R&#x27;hllor provides raw energy and you provide the geometric architecture to focus it against the Great Other.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1054"></a>
 #### Scene 1054
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Month 8, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God (Rank 3) | HP: 1152/1152 | XP: 4,107,832/4,500,000 | Gold: 656,974,972gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 4/6, L10 2/2, L11 1/1, Epic: L1-8 Unlimited, Exhaustion: 0**
@@ -25582,8 +28757,11 @@ The golden light shivers, the clinical gold of the Lord of Light's presence fluc
 > 👤 **Player:**
 > *"propose a plan to deefeat the great other. Manifest the prince who was promised in daemona and I will marry him. Then we will have song of ice, fire, and starlight and our children will become a line of gods. Rhollor can continue to rule the heavens while i rule the mortal realm with my god marriage and god children and his support"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1055"></a>
 #### Scene 1055
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,107,832/4,500,000 | Followers: 760,289** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1-8 Unlimited, L9 4/6, L10 2/2, L11 1/1, Exhaustion: 0**
@@ -25616,8 +28794,11 @@ The 'Screaming' frequency of the air begins to settle into a heavy, resonant hum
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bestow the Fire of Prophecy - Coordinate with R&#x27;hllor to bestow the &#x27;Prince Who Was Promised&#x27; spark upon Daemon II Blackfyre, elevating his power tier.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1056"></a>
 #### Scene 1056
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,107,832/4,500,000 | Gold: 656,974,972gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Divine Blood Oath (Daemon) | Exhaustion: 0 | Inspiration: Yes**
@@ -25648,8 +28829,11 @@ The 'Solar Eclipse' alliance is no longer a proposal; it is a law seated in the 
 > 👤 **Player:**
 > *"invite rhollor to my palace to tour new valyria in a mortal avatar. should be interesting to see the greatest empire resurrected and attend my wedding"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1057"></a>
 #### Scene 1057
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,107,832/4,500,000 | Gold: 656,974,972gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Engine of the Stars | Followers: 760,289**
@@ -25697,8 +28881,11 @@ APEX ATTENTION: [Hidden]
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the God-Marriage - Formally marry the Prince Who Was Promised to anchor the &#x27;Song of Ice, Fire, and Starlight&#x27; lineage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1058"></a>
 #### Scene 1058
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God (Rank 3) | HP: 1152/1152 | XP: 4,117,832/4,500,000 | Gold: 656,974,972** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Divine Leverage (+54) | Apex Attention: Charged (85%)**
@@ -25731,8 +28918,11 @@ King Daeron II (Lvl 20) watches from the front rank, his rejuvenated features we
 > 👤 **Player:**
 > *"narrate more dialog in general, like daemon, and rhollor should be saying stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1059"></a>
 #### Scene 1059
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (29th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God (Rank 3) | HP: 1152/1152 | Followers: 760,289 | Gold: 655,808,310gp** &nbsp;|&nbsp; ✨ **Spells: L9 4/6, L10 2/2, L11 1/1, All L1-L8 Unlimited | Divine Leverage: +54 | Safe Limit: +15** &nbsp;|&nbsp; ⚠️ **Radiance Absolute (Unmasked), Glibness, Foresight, Mind Blank | Exhaustion: 0**
@@ -25766,8 +28956,11 @@ As the tour begins, the air feels **Charged** (85%). The 'Screaming' of the cosm
 God Mode:
 give me massive exp for this rhollar alliance and prince promised marraige etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1060"></a>
 #### Scene 1060
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Month 8, 209 AC (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,117,832/4,500,000 | Followers: 760,289**
@@ -25791,8 +28984,11 @@ You have successfully navigated a direct confrontation with a Tier 1 Primordial 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the tour with the Avatar of R&#x27;hllor and your new husband, Daemon, as the world adjusts to the new divine covenant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1061"></a>
 #### Scene 1061
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **8th Moon, 209 AC (29th Day)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Minor God | HP: 1152/1152 | XP: 4,417,832/4,500,000 | Followers: 760,289**
@@ -25825,8 +29021,11 @@ As the tour begins, the citizens of New Valyria drop to their knees in a synchro
 > 👤 **Player:**
 > *"Long rest and time skip with my new alliance. I will consume smaller gods until something happens. Narrate each day. Also every day I will sweet talk rhollor and reduce his social hp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1062"></a>
 #### Scene 1062
 
 > 📍 **Palace of the Stars, New Valyria** &nbsp;|&nbsp; ⏳ **Month 9, 209 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Minor God | HP: 1225/1225 | XP: 4,717,832/5,500,000 | Gold: 658,141,634gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 6/6, L10 2/2, L11 1/1, L1-L8 Unlimited, Exhaustion: 0**
@@ -25849,8 +29048,11 @@ In King's Landing, Prince Baelor (Lvl 20) watches the black-mercury clouds and f
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Stellar Ignition (Synergistic) - R&#x27;hllor provides the raw heat to stabilize the Wall while you personally conduct a surgical audit of the Void&#x27;s coordinate—stabilization and deconstruction in one rhythm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1063"></a>
 #### Scene 1063
 
 > 📍 **Palace of the Stars / The Northern Rift** &nbsp;|&nbsp; ⏳ **9th Moon, 209 AC (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Minor God | HP: 1225/1225 | XP: 4,717,832/5,500,000 | Followers: 960,289** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Engine of the Stars | Dissonance: 80% | Apex: Charged (85%)**
@@ -25872,8 +29074,11 @@ In King's Landing, Prince Baelor (Lvl 20) watches the Northern horizon glow with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Industrialize the Shivering Wastes - Use R&#x27;hllor&#x27;s heat and Vaelis&#x27;s expertise to turn the lands beyond the Wall into a geometric garden of starlight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1064"></a>
 #### Scene 1064
 
 > 📍 **The Shivering Wastes (Beyond the Wall)** &nbsp;|&nbsp; ⏳ **9 5, 209 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Dragon Scholar | HP: 1225/1225 | XP: 5,217,832/5,500,000 | Gold: 658,308,300gp** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Mask Shattered | Exhaustion: 0 | Inspiration: Yes**
@@ -25897,8 +29102,11 @@ In King's Landing, Prince Baelor (Lvl 20) watches the Northern sky glow with a b
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Stellar Ignition (Synergistic) - Daemon and the Night&#x27;s Watch secure the new garden while you and R&#x27;hllor personally audit the Great Other&#x27;s coordinate - defense and offense in one rhythm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1065"></a>
 #### Scene 1065
 
 > 📍 **The Shivering Wastes (Beyond the Wall)** &nbsp;|&nbsp; ⏳ **9 5, 209 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Minor God | HP: 1225/1225 | XP: 4767832/5500000 | Gold: 658,474,966gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L9 3/6, L10 2/2, L11 1/1, Epic Slots: Active, Divine Leverage: +54** &nbsp;|&nbsp; ⚠️ **Radiance Absolute, Foresight, Mind Blank, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -25920,6 +29128,8 @@ A blinding, heart-stopping flash of violet-white starlight incinerates the black
 R'hllor (Lvl 50+) offers a subsonic vibration of acceptance that leaches the remaining ozone from the air. "An efficient culling, Visenya. You have turned his erasure into a note in your own archive. The Great Other's audit has found a variable it cannot solve."
 
 In King's Landing, Prince Baelor (Lvl 20) watches the Northern horizon glow with a brilliance that renders the sun a mere shadow. He sees the 'Frozen Pincer' completing its rhythm and realizes that the Sovereign and the Sun have just rewritten the laws of the North. He is the broken anchor, watching the Seven Kingdoms become the absolute factory of your Silver Song.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

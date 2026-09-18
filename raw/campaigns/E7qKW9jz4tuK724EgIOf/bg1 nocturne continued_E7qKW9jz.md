@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (54 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 The Objective: I have a long-running D&D campaign. I am going to paste the chat logs/notes in several chunks. You must read and internalize every detail—mechanics, narrative, loot, NPC relationships, and homebrew rules. Do not summarize yet. Just reply "Acknowledged" after each chunk.
@@ -2039,70 +2050,75 @@ Google Terms of ServiceOpens in a new window
 Your privacy & Gemini AppsOpens in a new window
 Gemini may display inaccurate info, including about people, so double-check its responses.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **02** | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **03** | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **04** | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **11** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **12** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **13** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **14** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **15** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **16** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **17** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **18** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **19** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **20** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **21** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **22** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **23** | Baldur's Gate | Mirtul 16, 1368 DR (18:55) | Roleplay |
-| **24** | Baldur's Gate | Mirtul 16, 1368 DR (18:41) | Roleplay |
-| **25** | Baldur's Gate | Mirtul 16, 1368 DR (19:55) | Roleplay |
-| **26** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **27** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (18:12)) | Roleplay |
-| **28** | Baldur's Gate | Mirtul 16, 1368 DR (Evening (18:20)) | Roleplay |
-| **29** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **30** | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
-| **31** | Baldur's Gate | Mirtul 16, 1368 DR (Night) | Roleplay |
-| **32** | Baldur's Gate | Mirtul 16, 1368 DR (Night (20:35)) | Roleplay |
-| **33** | Baldur's Gate | Mirtul 16, 1368 DR (Night) | Roleplay |
-| **34** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
-| **35** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
-| **36** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
-| **37** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
-| **38** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
-| **39** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:40)) | Roleplay |
-| **40** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:50)) | Roleplay |
-| **41** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:50)) | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:50)) | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:55)) | Roleplay |
-| **47** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
-| **48** | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
-| **49** | Baldur's Gate | Mirtul 17, 1368 DR (05:12) | Roleplay |
-| **50** | Baldur's Gate | Mirtul 17, 1368 DR (05:06) | Roleplay |
-| **51** | Baldur's Gate | Mirtul 17, 1368 DR (05:11) | Roleplay |
-| **52** | Baldur's Gate | Mirtul 17, 1368 DR (05:15) | Roleplay |
-| **53** | Baldur's Gate | Mirtul 17, 1368 DR (05:25) | Roleplay |
-| **54** | Baldur's Gate | Mirtul 17, 1368 DR (05:35) | Roleplay |
+| [**Scene 01**](#scene-1) | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 02**](#scene-2) | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 03**](#scene-3) | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 04**](#scene-4) | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Seven Suns Coster | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 11**](#scene-11) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 12**](#scene-12) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 13**](#scene-13) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 14**](#scene-14) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 15**](#scene-15) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 16**](#scene-16) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 17**](#scene-17) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 18**](#scene-18) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 19**](#scene-19) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 20**](#scene-20) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 21**](#scene-21) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 22**](#scene-22) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 23**](#scene-23) | Baldur's Gate | Mirtul 16, 1368 DR (18:55) | Roleplay |
+| [**Scene 24**](#scene-24) | Baldur's Gate | Mirtul 16, 1368 DR (18:41) | Roleplay |
+| [**Scene 25**](#scene-25) | Baldur's Gate | Mirtul 16, 1368 DR (19:55) | Roleplay |
+| [**Scene 26**](#scene-26) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 27**](#scene-27) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (18:12)) | Roleplay |
+| [**Scene 28**](#scene-28) | Baldur's Gate | Mirtul 16, 1368 DR (Evening (18:20)) | Roleplay |
+| [**Scene 29**](#scene-29) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 30**](#scene-30) | Baldur's Gate | Mirtul 16, 1368 DR (Evening) | Roleplay |
+| [**Scene 31**](#scene-31) | Baldur's Gate | Mirtul 16, 1368 DR (Night) | Roleplay |
+| [**Scene 32**](#scene-32) | Baldur's Gate | Mirtul 16, 1368 DR (Night (20:35)) | Roleplay |
+| [**Scene 33**](#scene-33) | Baldur's Gate | Mirtul 16, 1368 DR (Night) | Roleplay |
+| [**Scene 34**](#scene-34) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
+| [**Scene 35**](#scene-35) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
+| [**Scene 36**](#scene-36) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
+| [**Scene 37**](#scene-37) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
+| [**Scene 38**](#scene-38) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
+| [**Scene 39**](#scene-39) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:40)) | Roleplay |
+| [**Scene 40**](#scene-40) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:50)) | Roleplay |
+| [**Scene 41**](#scene-41) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:50)) | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:50)) | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn (04:55)) | Roleplay |
+| [**Scene 47**](#scene-47) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
+| [**Scene 48**](#scene-48) | Baldur's Gate | Mirtul 17, 1368 DR (Dawn) | Roleplay |
+| [**Scene 49**](#scene-49) | Baldur's Gate | Mirtul 17, 1368 DR (05:12) | Roleplay |
+| [**Scene 50**](#scene-50) | Baldur's Gate | Mirtul 17, 1368 DR (05:06) | Roleplay |
+| [**Scene 51**](#scene-51) | Baldur's Gate | Mirtul 17, 1368 DR (05:11) | Roleplay |
+| [**Scene 52**](#scene-52) | Baldur's Gate | Mirtul 17, 1368 DR (05:15) | Roleplay |
+| [**Scene 53**](#scene-53) | Baldur's Gate | Mirtul 17, 1368 DR (05:25) | Roleplay |
+| [**Scene 54**](#scene-54) | Baldur's Gate | Mirtul 17, 1368 DR (05:35) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Seven Suns Coster, 2nd Floor Proprietor's Office** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 0/23000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2130,8 +2146,11 @@ Silence returns to the office. The only sound is the dripping of blood onto the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate the Leader&#x27;s Corpse - Search the doppelganger leader&#x27;s body for any additional intel or items of value.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Seven Suns Coster, 2nd Floor Proprietor's Office** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 0/23000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2161,8 +2180,11 @@ The moment of triumph is cut short by a sound from the floor below—a muffled s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold the Door, Ambush - Position Minsc and Kagain at the doorway and prepare to decapitate the first doppelganger to enter the room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Seven Suns Coster, 2nd Floor Proprietor's Office** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 0/23000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2184,8 +2206,11 @@ The trap is set. The table is cleared. And you are dealing.
 > 👤 **Player:**
 > *"wait for clear shot and try to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Seven Suns Coster, 2nd Floor Proprietor's Office** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 0/23000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2211,8 +2236,11 @@ The doorway is clear again. The immediate threat is annihilated. But from the ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Counter-Charge Downstairs - Press the attack into the main trading floor and finish the nest before they can organize a proper defense.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -2222,8 +2250,11 @@ The doorway is clear again. The immediate threat is annihilated. But from the ma
 God Mode:
 think you went to the wrong place
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Seven Suns Coster, 2nd Floor Proprietor's Office** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 0/23000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2249,8 +2280,11 @@ Then your pack hits the floor like a thunderclap. Minsc and Kagain crash into th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Spellcaster First - If one of the doppelgangers attempts to cast a spell, make it your absolute priority to interrupt them with an arrow or an attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -2260,8 +2294,11 @@ Then your pack hits the floor like a thunderclap. Minsc and Kagain crash into th
 > 👤 **Player:**
 > *"Main Character: Target Spellcaster First - If one of the doppelgangers attempts to cast a spell, make it your absolute priority to interrupt them with an arrow or an attack."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Seven Suns Coster, Main Trading Floor** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 0/23000 | Gold: 5187.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2279,8 +2316,11 @@ The spell is broken. The last remaining threat is a lone doppelganger, now caugh
 > 👤 **Player:**
 > *"loot everyting then prep for escape and escape"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -2290,8 +2330,11 @@ The spell is broken. The last remaining threat is a lone doppelganger, now caugh
 > 👤 **Player:**
 > *"loot everyting then prep for escape and escape"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Baldur's Gate, Alley behind Seven Suns Coster** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2319,8 +2362,11 @@ You ascend the ladder, push open the grate, and emerge into the cool evening air
 > 👤 **Player:**
 > *"whats next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Baldur's Gate, Alley behind Seven Suns Coster** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2332,8 +2378,11 @@ Your pack forms a silent perimeter, their senses heightened. Kagain watches the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report to Commander Scar - Go immediately to the Flaming Fist headquarters and warn Scar directly, showing him the list with his name on it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2371,8 +2420,11 @@ The commander's eyes scan the list. He reads the first name, then the third. His
 > 👤 **Player:**
 > *"Think and dont do anyting yet. How can i turn this to my advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2382,8 +2434,11 @@ The commander's eyes scan the list. He reads the first name, then the third. His
 > 👤 **Player:**
 > *"offer specialized counter int and ask for maximum gold, weapons, armor, items, and other resources and negotiate hard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2411,8 +2466,11 @@ You see the flicker of shock in his eyes. Ten thousand gold is a king's ransom. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provide the Timeline - Answer his original question about the assassination schedule for free, as a gesture of goodwill to build trust before negotiating.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2426,8 +2484,11 @@ He leans back in his chair, the leather groaning under his weight. For a long mo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provide the Timeline Generously - Confidently reveal the assassination dates, framing it as a gift that underscores the urgency and value of your services.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2437,8 +2498,11 @@ He leans back in his chair, the leather groaning under his weight. For a long mo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stand Firm on Original Terms - Reiterate your original demands for 10,000 gold, a letter of marque, and full authority. Do not back down an inch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2454,8 +2518,11 @@ You meet his gaze, your own expression unreadable. The Serpent Queen does not ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame as a Partnership - Slightly soften the tone, offering to &#x27;advise&#x27; him, which might lower the gold but gives you more long-term influence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2465,8 +2532,11 @@ You meet his gaze, your own expression unreadable. The Serpent Queen does not ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Advise: Counter-Intelligence - Suggest a plan to identify Sarevok&#x27;s other operatives in the city by feeding them false information and tracking their communication networks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 15687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2480,8 +2550,11 @@ Scar's eyes sharpen, the strategist in him recognizing the elegance of the trap.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Fist Support - Insist on dedicated Fist scribes for forgeries and surveillance squads under your direction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 15687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2499,8 +2572,11 @@ He lets the threat hang, but it's hollow. You hold his survival in your hand.
 > 👤 **Player:**
 > *"take all the resources and influence he gave me and go find the promised gear and items and equip my squad"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Baldur's Gate, Flaming Fist Armory** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 25687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2520,8 +2596,11 @@ As the armory doors clang shut behind you, the city clock tolls evening. Dawn ap
 > 👤 **Player:**
 > *"Think. dont do anything yet but how can i replace dynaheir? she's the good one and i wanna turn my party fgull evil. minsc i can probably keep tricking. How can i find a similar mercto dynaheir"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 15687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2531,8 +2610,11 @@ Your mind turns inward, calculating the composition of your pack like a merchant
 > 👤 **Player:**
 > *"look for a replacement in baldurs gate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 15687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) (Permanent until Hunger) | Exhaustion: 0 | Inspiration: Yes**
@@ -2550,8 +2632,11 @@ Night falls. Bait ready at dawn. First target tomorrow. Time to hunt replacement
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Marek - Shadowed Alley necromancer. Undead utility fits evil vision.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Baldur's Gate, Shadowed Alley** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (18:41)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 15487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2569,8 +2654,11 @@ Marek joins, his necromantic arts fitting your vision like grave dirt on a blade
 > 👤 **Player:**
 > *"go through baldurs gate and find the best items money can buy, prioritize myself first, then evil party members who have tenure, then marek, then good ones. sell any gear i dont need."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Baldur's Gate, Sorcerous Sundries & Armories** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 8547.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2588,8 +2676,11 @@ Unneeded gear (old arrows, mundane tools) sells for 3000gp. Your hoard shrinks b
 > 👤 **Player:**
 > *"cant i find a better bow?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Baldur's Gate, Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 7487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2605,8 +2696,11 @@ The pack watches, equipped and loyal. Dawn's honeypot looms, but your arsenal is
 God Mode:
 undo that. this makes no sense. Look at the bg1 game and find the best bow in teh game suited to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Baldur's Gate, Flaming Fist Headquarters** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (18:12))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 15687.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2616,8 +2710,11 @@ undo that. this makes no sense. Look at the bg1 game and find the best bow in te
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rush to Sorcerous Sundries - GOD MODE: Fast-travel to shop, buy Eldritch Longbow +2 (seeker, anti-cover). Deduct gold from state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Baldur's Gate, Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening (18:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2627,8 +2724,11 @@ undo that. this makes no sense. Look at the bg1 game and find the best bow in te
 > [!NOTE] ⚙️ **Player Choice:**
 > *Equip Eldritch Longbow - GOD MODE: Immediately equip the new bow and update combat stats (+2 att/dmg, seeker arrows).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Baldur's Gate, Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2638,8 +2738,11 @@ The Eldritch Longbow hums in your grasp as you sling it across your back, its se
 > 👤 **Player:**
 > *"think. i already have dynaheir replacement? i recruited some necromancer?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Baldur's Gate, Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2649,8 +2752,11 @@ Yes, Marek the Necromancer (npc_marek_001) is already recruited and traveling wi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Excise Dynaheir Now - Stage &#x27;accident&#x27; during night travel; blame Iron Throne spies to unify pack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Baldur's Gate, Streets (Night Travel)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2668,8 +2774,11 @@ You kneel by her, voice laced with feigned grief. "She saved you, Minsc. Iron Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Marek - Have necromancer raise undead scouts from nearby corpses for honeypot surveillance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Baldur's Gate, Streets (Night Travel)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Night (20:35))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2687,8 +2796,11 @@ Your empire stirs. Sarevok's web tightens around ghosts.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Bait Documents - Return to Fist HQ, oversee scribes planting forged schedules in Seven Suns wreckage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Baldur's Gate, Seven Suns Coster Wreckage** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1368 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2702,8 +2814,11 @@ The trap is set. Dawn will bring the first nibble.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest in Safehouse - Secure Fist-provided safehouse, long rest until dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Baldur's Gate, Fist Safehouse** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2719,8 +2834,11 @@ The coup clock ticks. Bait awaits.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief and Assign Pack - Divide tasks: Roric shadows Scar, Marek scouts Eltan, you oversee bait monitoring.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Baldur's Gate, Fist Safehouse** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2734,8 +2852,11 @@ Roric flashes a rogue's grin, cloak of elvenkind already draped. "Scar's mine. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Preempt Keldath Ornshore - Infiltrate Oghma temple, neutralize assassin before scheduled strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Baldur's Gate, Fist Safehouse** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2747,8 +2868,11 @@ Roric nods, vanishing into elvenkind cloak. Marek rasps obedience, bony fingers 
 > 👤 **Player:**
 > *"continue and try to find keldath"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Baldur's Gate, Oghma Temple District** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2764,8 +2888,11 @@ Keldath Ornshore (Priest of Oghma, Level 4 Cleric, Age 52), first on Sarevok's p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Assassinate Intruder - Roric infiltrates vestry silently, Marek&#x27;s scouts provide overwatch, slit throat before alarm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Baldur's Gate, Oghma Temple** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2783,8 +2910,11 @@ Roric emerges, wiping his dagger, a small pouch of poison vials in hand. Marek r
 Secure Keldath Ornshore: Approach priest, reveal intel/proof, place under protection or extract to safehouse.
 Set Temple Trap: Use undead scouts/Marek to booby-trap temple, draw more assassins."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Baldur's Gate, Oghma Temple** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn (04:40))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2800,8 +2930,11 @@ Temple secured, Marek grins skeletal. "Trap?" You nod. He dispatches undead scou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report to Scar - Return to HQ with Keldath/proof, update on preempt success.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Baldur's Gate, En Route to Flaming Fist HQ** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn (04:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10537.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2815,8 +2948,11 @@ The temple district fades behind as dawn strengthens, your route twisting throug
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Honeypot Monitor - Position undead scouts/Roric at Seven Suns wreckage to track first spy responders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Baldur's Gate, Flaming Fist HQ** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn (04:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10537.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2830,8 +2966,11 @@ You nod, the deployment crisp. "Seven Suns wreckage. Position the scouts in raft
 > [!NOTE] ⚙️ **Player Choice:**
 > *Preempt Scar Protection - Shadow Scar personally, neutralize inbound assassins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -2841,8 +2980,11 @@ You nod, the deployment crisp. "Seven Suns wreckage. Position the scouts in raft
 > 👤 **Player:**
 > *"Try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -2852,8 +2994,11 @@ You nod, the deployment crisp. "Seven Suns wreckage. Position the scouts in raft
 > 👤 **Player:**
 > *"Main Character: Preempt Scar Protection - Shadow Scar personally, neutralize inbound assassins."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Baldur's Gate, Flaming Fist HQ** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn (04:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10537.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2871,8 +3016,11 @@ Marek nods curtly, dismissing his two scouts back into the shadows with a gestur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate with Roric - Establish a messaging system with Roric at the Seven Suns to ensure any major spy discoveries reach you immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -2882,8 +3030,11 @@ Marek nods curtly, dismissing his two scouts back into the shadows with a gestur
 > 👤 **Player:**
 > *"try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Baldur's Gate, Flaming Fist HQ** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn (04:55))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 10537.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2903,8 +3054,11 @@ You nod to Roric, accepting the whistle and tucking it into your belt. The messa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escort Scar to Docks Briefing - Begin the protective escort, positioning yourself as Scar&#x27;s &#x27;consultant&#x27; for the harbor masters meeting at dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Baldur's Gate, Flaming Fist HQ** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2922,8 +3076,11 @@ You nod to Marek, accepting his role as the rear guard. You turn and face Scar, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escort Scar to Docks - Continue the escort through the awakening dawn streets, maintaining high alert for any sign of ambush or spying.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Baldur's Gate, En Route to the Docks** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 | XP: 1200/23000 | Gold: 5487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: Yes**
@@ -2941,8 +3098,11 @@ The route to the docks is a winding one, from the wealthier, stonework district 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss Docks Threats - Subtly ask Scar about potential threats among the harbor masters themselves or known ambush points at the docks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Baldur's Gate, Approaching the Docks** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (05:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 1200/9000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Potions: 4 (Superior), Exhaustion: 0**
@@ -2960,8 +3120,11 @@ He glances at you, a flicker of grim respect in his bloodshot eyes. 'We're five 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Fissle - During the meeting, use Insight to scrutinize Fissle&#x27;s every word and gesture for signs of doppelganger shifting or guilt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Baldur's Gate, Harbor Master's Office** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (05:06)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 1200/9000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A (Ranger), Potions: 4 (Superior), Exhaustion: 0**
@@ -2975,8 +3138,11 @@ You don't just watch him; you dissect him. Your gaze, sharpened by the Satiated 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Signal to Scar - Use a pre-arranged signal or a subtle gesture to alert Scar to the threat without Fissle noticing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Baldur's Gate, Harbor Master's Office** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (05:11)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 1200/9000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Potions: 4 (Superior), Arrows: 158 (+1), 20 (Seeker)** &nbsp;|&nbsp; ⚠️ **Satiated (+2 Stats) | Exhaustion: 0 | Inspiration: No**
@@ -2990,8 +3156,11 @@ Scar doesn't flinch. He doesn't even look at you directly. But his posture chang
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silent Elimination - Signal Scar to initiate a simultaneous strike to kill Fissle before he can shift or scream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Baldur's Gate, Harbor Master's Office** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 1200/9000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/2, Arrows: 155 (+1), 20 (Seeker), Potions: 4 (Superior)**
@@ -3009,8 +3178,11 @@ Scar stands over the corpse, his chest heaving, his blade dripping. He looks at 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Gorth and Hanza - Ensure the other harbor masters aren&#x27;t compromised and secure their cooperation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Baldur's Gate, Harbor Master's Office** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (05:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Ranger | HP: 38/38 | XP: 1200/9000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/2, Arrows: 155 (+1), 20 (Seeker), Potions: 4 (Superior), Exhaustion: 0**
@@ -3030,8 +3202,11 @@ Recognizing Scar's authority, the two harbor masters nod frantically, clinging t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Fissle&#x27;s Personal Effects - Check the doppelganger&#x27;s desk or home for more specific dock-related sabotage plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Baldur's Gate, Harbor Master's Office** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1368 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Ranger | HP: 38/38 | XP: 1200/9000 | Gold: 10487.6gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/2, Arrows: 155 (+1), 20 (Seeker), Potions: 4 (Superior), Exhaustion: 0**
@@ -3041,6 +3216,8 @@ You ignore the trembling harbor masters and the cooling grey sludge of Fissle’
 A sharp click rewards your scrutiny. A false bottom slides back, revealing a hidden cavity lined with oilcloth. Inside lies a precise map of the Grey Harbor, but it isn't for navigation. Red circles mark the oil storage vats near the East Quay and the exact mooring of the 'Iron Queen'—the very ship Fissle was just describing. Tucked into the map is a fresh note in Sarevok's cipher: 'The Queen is primed with oil-fire. When the Commander steps onto the pier, ignite the vessel. The smoke will mask the shadows for the final strike.'
 
 You stand, the map in hand, and show it to Scar. The Commander’s face goes from pale to a grim, cold fury. 'They weren't just going to kill me with a blade,' he rasps. 'They were going to burn the East Quay with me on it. The Iron Queen is a fire-trap, and she’s sitting right outside.'
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

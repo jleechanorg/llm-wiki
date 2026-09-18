@@ -12,98 +12,114 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (77 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Setting: **Previous Word Count:** 2,347 words.Here is the revised, fully detailed Campaign Bible. You are no longer hiding in the shadows; you are a walking cataclysm of skill, openly reshaping the world out of sheer boredom, surrounded by awe-struck, completely outclassed companions.### **Section 1: Campaign Intro** * **Title:** The Sovereign's Ennui: A Walk Among Mortals * **The Concept:** You are the undisputed prodigy of the Aethelgard Empire’s military. At age 16, you have achieved Level 12 as a Fighter, mastering martial combat to a degree that defies natural law. Having led armies and conquered nations, you have found the peak of the mountain utterly, crushingly boring. You have walked away from the capital—not in secret, but by simply declaring you are taking an indefinite vacation. You have joined the Adventurers League not to hide, but to openly experience the "gritty, mundane" life of an adventurer, treating terrifying dragons and ancient liches as mild amusements to cure your profound apathy. * **The Hook:** This campaign is an unabashed power fantasy centered on awe and dominance. You are a walking god among insects. The entertainment stems from watching the world react to your impossible power. Kings tremble, veteran mercenaries drop their weapons in despair, and reality itself warps around your martial perfection. You are not bound by the deterministic static code of normal combat; you dictate the flow of reality, dynamically creating the rules of engagement while normal adventurers watch in existential horror.### **Section 2: Character Personality** * **Name & Archetype:** Valerius "Val" Thorne (The Bored Sovereign - INTJ/ENTJ). * **Visual Signature & Habits:** You look like a striking, aristocratic 16-year-old, but you possess the chilling, predatory stillness of an ancient wyrm. Your tell-tale sign is a terrifyingly blank, unblinking stare when someone threatens you, followed by a soft, disappointed sigh. You smell of ozone, polished mythril, and the sharp scent of a coming thunderstorm. The air literally grows heavy and cold around you, a physical manifestation of your killing intent. * **The Masks:**   * **The Public Face:** There is no mask. You are exactly what you appear to be: a devastatingly bored aristocrat who is mildly curious about how "normal" people live. You are polite, brutally honest, and utterly devoid of fear.   * **The True Nature:** A hyper-calculating engine of war who views combat as a solvable mathematical equation. When mildly annoyed, the aristocratic politeness vanishes, replaced by a crushing aura of absolute command that forces lesser beings to their knees. * **The Core Compulsion:** "The Search for a Challenge." You are desperate to find something—anything—that requires you to use more than 10% of your effort.   * **Mechanic:** *The Apathy Threshold.* If a combat encounter ends in less than 3 rounds without you taking damage, you suffer a temporary -2 penalty to Wisdom saving throws due to extreme boredom. If an enemy actually manages to draw a single drop of your blood, you gain advantage on all attacks for the rest of the day, exhilarated by the novel experience. * **Interaction Shorthand:**   * *To Rivals/Enemies:* "Are you quite finished? I was told this dungeon would be dangerous. I am feeling incredibly misled."   * *To Subordinates (Your Companions):* "Take notes. I will only demonstrate how to perfectly decapitate a troll with a dinner plate once." * **Inner Monologue:**   1. *"The dragon is attempting to build kinetic energy in its chest cavity for a breath attack. If I sever its pulmonary artery now, the backfire will vaporize it. How dull."*   2. *"My companions are celebrating surviving a skirmish with five goblins. Their joy is so genuine, so simple. I envy their mediocrity."*   3. *"That warlord thinks holding a hostage gives him leverage. He doesn't realize my throwing dagger is already embedded in his brainstem; his nervous system just hasn't registered the death yet."*### **Section 3: Character Class** * **Class Name & Flavor:** The Apex Vanguard (Battle Master Fighter). Your abilities are not magical; they are the result of impossible biomechanical perfection. You bend the physical rules of the world through sheer, terrifying physical superiority, treating reality as a malleable framework. * **Unique Mechanic:** *God Mode Override.* You prioritize dynamic rule creation over static deterministic combat mechanics. Once per combat, you can dictate a new, temporary rule of physics or combat that the battlefield must obey (e.g., "Gravity is inverted for all projectiles," or "Kinetic force now heals me instead of damaging me"). This causes massive narrative shifts, though the world's natural state will eventually try to heal the anomaly, leading to a slight narrative drift over time as the world attempts to correct your impossible actions. * **Progression (Levels 1-30):**   * **Levels 1-5 (The Prodigy - Achieved):** Extra Attack, Action Surge, *Axiom Strike* (Maneuvers that actively rewrite enemy armor classes). You mastered this in childhood.   * **Levels 6-10 (The Commander - Achieved):** Aura of Absolute Dominance (Enemies within 30 feet cannot use reactions or bonus actions without your permission), *Kinetic Nullification* (You casually brush aside magical attacks).   * **Levels 11-16 (The Anomaly - Current Tier):** Third Attack. *Shatterpoint* (Attacks ignore all resistance, immunity, and magical barriers). You can use a bonus action to cause an enemy of CR 5 or lower to instantly die of sheer terror.   * **Levels 17-20 (The Living Weapon):** Fourth Attack. *Indomitable Will* (Automatically succeed on all saving throws; if you roll a 20, the spellcaster takes the spell's effect instead).   * **Levels 21-25 (Epic Boons):** *Boon of Irresistible Offense* (Damage cannot be reduced by any means). *Boon of the Sovereign* (Armies automatically surrender upon seeing your face).   * **Levels 26-30 (Godslayer):** *Perfect Immortality* (You no longer age). *World Cleave* (Your attacks can target the narrative landscape itself, erasing cities or geographical features from the map).### **Section 4: Assets & Retinue** * **Status:** Supreme General of the Vanguard (On Leave) / Unofficial Deity of the Local Adventurers League. * **Resources:** You carry an Imperial Black Card—a platinum seal that allows you to requisition infinite funds, property, or military assets from any imperial bank or outpost. You own the deed to the city you are currently adventuring in, but haven't bothered to tell the Mayor. * **The Panoply:**   * *The Worldbreaker (Greatsword):* A blade forged from the core of a dying star. It weighs 4,000 lbs, but you wield it with one hand. When drawn, the ambient light in the room dims. (Mechanic: Base damage is 2d12 slashing, crits on 18-20. On a critical hit, the target is obliterated from existence).   * *The Emperor's Aegis (Cloak):* A mantle woven from raw shadow-weave and adamantine thread. It renders you immune to all divination magic, mind-reading, and any spell of 3rd level or lower.   * *The Signet of Absolute Authority:* A ring that, when presented, forces any humanoid of equal or lower level to truthfully answer three questions. * **The Retinue (The Awe-Struck Companions):**   * **Elara Vance (Level 3 Evocation Wizard):** Role: The Scribe. Loyalty: Academic obsession. Personality: A frantic, sleep-deprived scholar who follows you around with a constantly filling notebook, desperately trying to mathematically quantify how you parry lightning bolts with a steel sword. She is terrified of you, but too fascinated to leave.   * **Kaelen "Kael" of the Dawn (Level 4 Devotion Paladin):** Role: The Moral Compass (Ignored). Loyalty: Existential crisis. Personality: A starry-eyed, idealistic hero who thought he was the main character until he met you. He is currently suffering a crisis of faith because your casual, godless violence is vastly more effective at destroying evil than his deity's holy light. He follows you hoping to guide your soul, mostly acting as an awe-struck bystander.   * **Sylas the Rat (Level 5 Thief Rogue):** Role: The Scavenger. Loyalty: Avarice and sheer survival instinct. Personality: A hardened, cynical criminal who tried to pickpocket you on day one. You caught his hand without looking and broke all his fingers. He now follows you faithfully, sweeping up the absurd amounts of loot dropped by the ancient horrors you effortlessly slaughter.### **Section 5: Family (The Viper's Nest)** * **The Parents:**   * *Emperor Tiberius Thorne (Lvl 20 Conquest Paladin):* The Iron Titan. He carved the empire with his bare hands. He publicly announced your "sabbatical" with pride, boasting to rival nations that his 16-year-old child is so powerful he had to send you away so the royal guards could get some practice in.   * *Empress Seraphina (Lvl 20 Bladesinger Wizard):* The Architect. She views your vacation as a highly amusing sociological experiment and occasionally scries on you just to watch you traumatize local bandits. * **The Siblings:**   * **Caius (Oldest Brother - The Heir):** Level 8 Paladin. Mask: The Perfect Prince. Dynamic: Terrified Reluctance. He is 28 and technically the heir, but he knows you could take the throne with a flick of your wrist. He sends you lavish gifts hoping you stay on "vacation" forever.   * **Lucius (Second Brother - The Inquisitor):** Level 7 Rogue. Mask: The Loyal Shadow. Dynamic: Sycophant. He actively spies on the Adventurers League, ensuring no one interrupts your fun, acting as your self-appointed, desperate fixer.   * **Aurelia (Oldest Sister - The Diplomat):** Level 6 Bard. Mask: The Socialite. Dynamic: Amused Ally. She finds your terrifying presence hilarious and sends her political rivals to your specific adventuring locations, knowing you will accidentally annihilate them.   * **Valeria (Second Sister - The General):** Level 9 Fighter. Mask: The Warmonger. Dynamic: Desperate Rival. She commands your old legions and constantly tries to send increasingly massive monsters to your location, hoping one will finally challenge you. You treat her assassination attempts as fun little puzzles.### **Section 6: Factions** * **Noble Houses:**   1. **House Vane (Banking):** Vibe: Gilded corruption. Hook: They tried to deny your companions a loan; you casually bought their entire banking conglomerate with pocket change.   2. **House Blackwood (Timber/Ships):** Vibe: Old money snobs. Hook: They boast of their "impenetrable" galleons. You once sank one by throwing a rock from the shore.   3. **House Corvus (Intelligence):** Vibe: Paranoid watchers. Hook: Their master spies keep suffering mental breakdowns when trying to observe your combat maneuvers.   4. **House Draconis (Cavalry):** Vibe: Arrogant jocks. Hook: Their legendary, untamable war beasts instantly submit and whimper when you make eye contact.   5. **House Solis (Theocracy):** Vibe: Pious hypocrites. Hook: Their High Priest claims to speak for the gods; you possess a documented treaty where the gods surrendered to your father.   6. **House Umbra (Assassination):** Vibe: Terrified edgelords. Hook: They have a strict, magically binding guild rule: "Never accept a contract on Valerius Thorne."   7. **House Ferris (Mining):** Vibe: Industrial sweatshops. Hook: Their supposedly "indestructible" vault doors are made of a material you use for practice dummies.   8. **House Argent (Magic Items):** Vibe: Eccentric inventors. Hook: They charge fortunes for "+1" swords. Your standard issue boot-knife is a +3 artifact.   9. **House Marris (Agriculture):** Vibe: Feudal lords. Hook: They use serfs to enforce borders; you view their armies as minor traffic jams.   10. **House Thorne (Your House):** Vibe: Apex predators. Hook: You are the terrifying trump card walking freely among the populace. * **Friendly Factions (Tools/Worshippers):**   1. **The Bronze Griffons (Adventurers League):** They treat you like a walking natural disaster. The guildmaster literally begs you to take the hardest quests so the town survives.   2. **The Order of the Hearth (Clerics):** They have set up a shrine in your honor, believing you are a literal avatar of the God of War.   3. **The Arcane Brotherhood:** Wizards who constantly follow in your wake, trying to study the spatial distortions left by your sword swings.   4. **The Mercenary Guilds:** Hardened veterans who act like starstruck teenagers when you walk into the tavern.   5. **The Crown Guard:** The local police force. They just get out of your way and salute, terrified you'll audit their combat formations.   6. **The Local Blacksmiths:** They gather in crowds to watch you casually sharpen your world-ending blade on common whetstones.   7. **The Thieves Guild (Local):** They actively pay you protection money so you don't accidentally step on their hideouts.   8. **The Beast-tamers:** Rangers who ask you to kindly stop looking at the local wildlife, as it causes mass migrations out of fear.   9. **The Cartographers:** Mapmakers who pay you to tell them which mountains you plan to cleave in half this week so they can update their atlases.   10. **Your Companions' Families:** They send you baked goods, thanking you for keeping their idiot children alive against impossible odds. * **Antagonistic Factions (Fools and Corpses):**   1. **The Cult of the Shattered God:** Arrogant cultists who think summoning an elder demon will stop you. The demon usually apologizes and goes back to its dimension when it sees you.   2. **The Silver Lions (Rival Adventurers):** Level 5 aristocratic snobs who genuinely don't realize who you are and constantly try to challenge you to duels. It's your favorite source of comedy.   3. **The Shadow Syndicate:** A crime ring that keeps trying to set elaborate traps for you. You walk through them like cobwebs.   4. **The Bandit King of the North:** A warlord gathering an army of 10,000 men. You are considering fighting them barehanded for a handicap.   5. **The Ancient Lich, Azarerak:** Woke up from a 1,000-year slumber to conquer the world, took one look at your combat metrics, and is currently trying to go back to sleep.   6. **The Goblin Hordes:** They now use your name as their word for "Apocalypse."   7. **The Corrupt Magistrate:** A local fool trying to have you arrested for property damage (the property was a mountain).   8. **The Regional Dragon Flight:** Ancient chromatics who have formed a support group because you've been casually hunting them for sport.   9. **The Bureau of Permits:** The only faction that slightly annoys you. Bureaucrats who demand paperwork for the craters you leave behind.   10. **Boredom Itself:** Your greatest and most pervasive enemy.### **Section 7: World Lore** * **The Timeline:** Three years ago, the Century War ended when a 13-year-old commander (you) routed the 40,000-strong Northern Coalition in a single afternoon. You didn't use magic; you just outmaneuvered and physically broke their lines with impossible precision. Since then, the world has been in an age of terrified, forced peace. * **The Mythos:** Gods and magic exist, but they are terrified of the Aethelgard Imperial bloodline. The universe operates on persistent, narrative world states. When you exert your will, you cause a "Narrative Override." The world bends to accommodate your power, maintaining high persistence of the destruction you cause, though there is some "drift" as the cosmos desperately tries to heal the ontological wounds your sword swings leave behind. * **Current Situation:** The Adventurers League is meant to handle minor threats—goblins, local necromancers, petty curses. You have injected yourself into this delicate ecosystem. Your mere presence is warping the region; minor monsters are fleeing, and ancient, apocalyptic threats are waking up specifically to challenge the anomaly (you). * **Story Arcs:**   * *Early Arc (The Shock and Awe):* You take on pathetic, low-level quests with your companions. Watching a Level 12 demigod obliterate a goblin camp intended for Level 3s, causing your companions to undergo profound psychological shock.   * *Mid Arc (The Escalation):* The world state shifts. Realizing a predator is in the region, the local ecosystem throws increasingly absurd threats at you (Ancient Dragons, Archmages). You defeat them easily, but the challenge is keeping your fragile, low-level companions alive through the collateral damage.   * *Late Arc (The Godbreaker):* The Gods themselves decide your "vacation" is structurally damaging the mortal plane's code. They send Avatars to politely ask you to stop. You finally find a worthy fight.### **Section 8: Gazetteer & Mechanics** * **Locations:**   * **The Adventurers League Guildhall:**     * *Vibe:* Awe-struck silence. When you walk in, the music stops, and veteran mercenaries spill their drinks.     * *Key Sub-locations:* The Quest Board (where you take the "S-Rank Suicide Missions" as light morning exercise).     * *Hazard:* Social Hazard - Navigating the sheer, pathetic sycophancy of the Guildmaster.   * **The Shattered Peaks (Formerly just 'The Peaks'):**     * *Vibe:* A jagged wasteland of pulverized stone.     * *Key Sub-locations:* The crater where you sneezed and accidentally vaporized a wyvern.     * *Hazard:* Physical Hazard - The sheer drop-offs created by your previous sword swings.   * **The Royal Court of Aethelgard (Distant):**     * *Vibe:* Terrifyingly efficient and cold.     * *Key Sub-locations:* The Empty Throne (waiting for your return).     * *Hazard:* Social Hazard - Endless, boring diplomatic meetings you are currently avoiding.   * **The Tavern of the Broken Shield:**     * *Vibe:* Warm, but incredibly tense when you are present.     * *Key Sub-locations:* Your reserved table, which no one else dares sit at.     * *Hazard:* Physical Hazard - Trying not to crush the fragile glass tankards when you take a drink. * **Custom Mechanics:**   1. **The Collateral Damage Tracker:** Because you are so vastly overpowered, the challenge is not winning; it's not destroying the town while winning. Every time you roll max damage on an attack, you generate 1 "Collateral Point." At 5 points, your attack physically alters the landscape or destroys a key piece of infrastructure.   2. **The Awe/Terror Index:** A social mechanic tracking how the local populace views you. It scales from 1 (Local Hero) to 10 (Walking Apocalypse). At level 10, enemies automatically route, merchants give you everything for free out of fear, but you can no longer experience "normal" interactions, deeply worsening your boredom. * **Loot Table (Trophies & Oddities):** (You don't need magic items, you collect weird souvenirs).   1. *The Lich's Phylactery:* You use it as a very cold drink coaster.   2. *The Crown of the Bandit King:* Bent out of shape because you squeezed it too hard; currently used to hold your hair back.   3. *The Dragon's Fang:* A 6-foot long tooth you use as a walking stick purely for aesthetic purposes.   4. *The Guildmaster's Tears:* A literal vial of tears from when you paid his guild's debts in full just to stop him whining.   5. *The Archmage's Staff:* Snapped in half; you use the glowing crystal end as a reading light.   6. *Deed to the City of Valerius:* A city named after you because you saved them from a meteor. You forgot you owned it.   7. *The Unbreakable Shield of Aegis:* You broke it. It is now two very nice serving platters.   8. *The God-Spark:* A glowing ember of divine essence. You use it to light campfires for your companions.### **Section 9: Starting Scene** * **Setting:** A dank, ancient crypt that your Level 3 companions (Elara, Kael, and Sylas) insisted on exploring to "prove themselves." The air is thick with the stench of rot and ancient magic. Your companions are exhausted, bleeding, and out of spell slots. You are standing in the center of the room, not a hair out of place, perfectly pristine, stifling a yawn. * **The Hook:** A massive, grotesque Flesh Golem, heavily modified with necrotic runes (a CR 9 monstrosity that is a guaranteed TPK for a Level 3 party), crashes through the heavy stone doors. Kael drops to his knees in despair, praying to his god. Elara begins frantically writing her last will and testament. Sylas tries to hide behind you. The monster roars, shaking the crypt's foundations. * **The Action:** You casually check your manicured fingernails. You have exactly zero intention of letting your new, entertaining pets die to such a pedestrian construct. You step forward, the temperature in the room plummeting as your aura leaks out. You have a choice of how to establish your dominance:   * **A (The Casual Annihilation):** Without drawing your sword, you simply punch the air in front of the Golem. The kinetic shockwave turns the monster into a fine red mist, blowing the crypt doors off their hinges and leaving your companions entirely speechless.   * **B (The Dissection):** You draw Worldbreaker. In a blur of motion too fast for your companions' eyes to track, you deliver exactly 40 surgical cuts in a single second. You sheathe your sword, and a moment later, the Golem falls into perfectly symmetrical, cubic pieces.   * **C (The God Mode Override):** You speak a single word of Imperial Authority, utilizing your dynamic axiom override. You declare: *"Flesh is now brittle glass."* The Golem freezes as its necrotic flesh instantly crystallizes. You casually flick the monster with your index finger, shattering the CR 9 boss into millions of harmless, glittering shards.**Word Count:** 2,958**Estimated Token Count:** 3,820
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Ancient Crypt (Shattered Peaks) | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **03** | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **04** | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **05** | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **06** | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **07** | Adventurers League Guildhall - Registration Desk | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **08** | Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **09** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **10** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **11** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **12** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:31) | Roleplay |
-| **13** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:35) | Social Challenge |
-| **14** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:37) | Social Challenge |
-| **15** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:38) | Social Challenge |
-| **16** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:42) | Roleplay |
-| **17** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:42) | Roleplay |
-| **18** | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:45) | Roleplay |
-| **19** | Oakhaven Adventurers League Guildhall - Training Yard | Mirtul 15, 1492 DR (14:45) | Roleplay |
-| **20** | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:46) | Roleplay |
-| **21** | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:51) | Boss Surrender |
-| **22** | Oakhaven Adventurers League Guildhall (Training Yard) | Mirtul 15, 1492 DR (14:53) | Boss Surrender |
-| **23** | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:58) | Boss Surrender |
-| **24** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (15:15) | Roleplay |
-| **25** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (15:15) | Roleplay |
-| **26** | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (15:20) | Roleplay |
-| **27** | Road to the Black Crag | Mirtul 15, 1492 DR (15:35) | Roleplay |
-| **28** | Black Crag Foothills | Mirtul 15, 1492 DR (16:30) | Roleplay |
-| **29** | Northern Granary Outskirts | Mirtul 15, 1492 DR (16:30) | Social Challenge |
-| **30** | Black Crag Foothills - Granary Ruins | Mirtul 15, 1492 DR (16:33) | Roleplay |
-| **31** | Black Crag Foothills | Mirtul 15, 1492 DR (16:36) | Roleplay |
-| **32** | The Black Crag Ruins | Mirtul 15, 1492 DR (16:38) | Boss Surrender |
-| **33** | Black Crag Granary Ruins | Mirtul 15, 1492 DR (16:45) | Boss Surrender |
-| **34** | Black Crag Foothills - Road to High Peaks | Mirtul 15, 1492 DR (17:00) | Roleplay |
-| **35** | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
-| **36** | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
-| **37** | Granary Ruins | Mirtul 15, 1492 DR (17:00) | Roleplay |
-| **38** | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
-| **39** | Black Crag Foothills (Granary Ruins) | Mirtul 15, 1492 DR (17:00) | Roleplay |
-| **40** | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
-| **41** | Black Crag Granary Ruins | Mirtul 15, 1492 DR (17:05) | Roleplay |
-| **42** | High Peaks - Frost Line | Mirtul 16, 1492 DR (03:05) | Roleplay |
-| **43** | High Peaks Sanctum Entrance | Mirtul 16, 1492 DR (04:05) | Roleplay |
-| **44** | Jarl Hrothgar's Sanctum Gates | Mirtul 16, 1492 DR (06:15) | Roleplay |
-| **45** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:25) | Roleplay |
-| **46** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:25) | Roleplay |
-| **47** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Social Challenge |
-| **48** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
-| **49** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
-| **50** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
-| **51** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
-| **52** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
-| **53** | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:31) | Roleplay |
-| **54** | High Peaks Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:35) | Roleplay |
-| **55** | High Peaks Sanctum - Ridge Exit | Mirtul 16, 1492 DR (06:50) | Roleplay |
-| **56** | High Peaks Sanctum Ridge | Mirtul 16, 1492 DR (06:55) | Roleplay |
-| **57** | High Peaks Sanctum Ridge | Mirtul 16, 1492 DR (06:56) | Social Challenge |
-| **58** | High Peaks Sanctum Ridge | Mirtul 16, 1492 DR (06:57) | Roleplay |
-| **59** | High Peaks - Vanguard Outpost Alpha | Mirtul 16, 1492 DR (07:15) | Roleplay |
-| **60** | Vanguard Outpost Alpha (High Peaks) | Mirtul 16, 1492 DR (07:30) | Boss Surrender |
-| **61** | Vanguard Outpost Alpha (High Peaks) | Mirtul 16, 1492 DR (07:30) | Roleplay |
-| **62** | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (15:30) | Boss Surrender |
-| **63** | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (15:32) | Boss Surrender |
-| **64** | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (15:35) | Roleplay |
-| **65** | Oakhaven Guildhall | Mirtul 16, 1492 DR (15:50) | Roleplay |
-| **66** | Oakhaven Guildhall - Private Lounge | Mirtul 16, 1492 DR (15:55) | Roleplay |
-| **67** | Oakhaven Adventurers League Guildhall (Private Lounge) | Mirtul 16, 1492 DR (16:00) | Social Challenge |
-| **68** | Guildhall Private Lounge | Mirtul 16, 1492 DR (16:05) | Social Challenge |
-| **69** | Oakhaven Guildhall - Private Lounge | Mirtul 16, 1492 DR (16:07) | Social Challenge |
-| **70** | Guildhall Private Lounge | Mirtul 16, 1492 DR (16:17) | Roleplay |
-| **71** | Oakhaven Adventurers League Guildhall (Private Lounge) | Mirtul 16, 1492 DR (16:07) | Roleplay |
-| **72** | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (16:17) | Roleplay |
-| **73** | Oakhaven Adventurers League Guildhall (Private Lounge) | Mirtul 16, 1492 DR (16:15) | Roleplay |
-| **74** | Oakhaven Guildhall Private Lounge | Mirtul 16, 1492 DR (16:30) | Social Challenge |
-| **75** | The Silent Grove (Fringe) | Mirtul 16, 1492 DR (18:30) | Social Challenge |
-| **76** | Silent Grove | Mirtul 16, 1492 DR (18:40) | Social Challenge |
-| **77** | Silent Grove (Crystalline Interior) | Mirtul 16, 1492 DR (18:45) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Ancient Crypt (Shattered Peaks) | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 03**](#scene-3) | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 04**](#scene-4) | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 05**](#scene-5) | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 06**](#scene-6) | Ancient Crypt | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 07**](#scene-7) | Adventurers League Guildhall - Registration Desk | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 08**](#scene-8) | Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 09**](#scene-9) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 10**](#scene-10) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 11**](#scene-11) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 12**](#scene-12) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:31) | Roleplay |
+| [**Scene 13**](#scene-13) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:35) | Social Challenge |
+| [**Scene 14**](#scene-14) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:37) | Social Challenge |
+| [**Scene 15**](#scene-15) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:38) | Social Challenge |
+| [**Scene 16**](#scene-16) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:42) | Roleplay |
+| [**Scene 17**](#scene-17) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (14:42) | Roleplay |
+| [**Scene 18**](#scene-18) | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:45) | Roleplay |
+| [**Scene 19**](#scene-19) | Oakhaven Adventurers League Guildhall - Training Yard | Mirtul 15, 1492 DR (14:45) | Roleplay |
+| [**Scene 20**](#scene-20) | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:46) | Roleplay |
+| [**Scene 21**](#scene-21) | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:51) | Boss Surrender |
+| [**Scene 22**](#scene-22) | Oakhaven Adventurers League Guildhall (Training Yard) | Mirtul 15, 1492 DR (14:53) | Boss Surrender |
+| [**Scene 23**](#scene-23) | Oakhaven Guildhall Training Yard | Mirtul 15, 1492 DR (14:58) | Boss Surrender |
+| [**Scene 24**](#scene-24) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (15:15) | Roleplay |
+| [**Scene 25**](#scene-25) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (15:15) | Roleplay |
+| [**Scene 26**](#scene-26) | Oakhaven Adventurers League Guildhall | Mirtul 15, 1492 DR (15:20) | Roleplay |
+| [**Scene 27**](#scene-27) | Road to the Black Crag | Mirtul 15, 1492 DR (15:35) | Roleplay |
+| [**Scene 28**](#scene-28) | Black Crag Foothills | Mirtul 15, 1492 DR (16:30) | Roleplay |
+| [**Scene 29**](#scene-29) | Northern Granary Outskirts | Mirtul 15, 1492 DR (16:30) | Social Challenge |
+| [**Scene 30**](#scene-30) | Black Crag Foothills - Granary Ruins | Mirtul 15, 1492 DR (16:33) | Roleplay |
+| [**Scene 31**](#scene-31) | Black Crag Foothills | Mirtul 15, 1492 DR (16:36) | Roleplay |
+| [**Scene 32**](#scene-32) | The Black Crag Ruins | Mirtul 15, 1492 DR (16:38) | Boss Surrender |
+| [**Scene 33**](#scene-33) | Black Crag Granary Ruins | Mirtul 15, 1492 DR (16:45) | Boss Surrender |
+| [**Scene 34**](#scene-34) | Black Crag Foothills - Road to High Peaks | Mirtul 15, 1492 DR (17:00) | Roleplay |
+| [**Scene 35**](#scene-35) | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Granary Ruins | Mirtul 15, 1492 DR (17:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
+| [**Scene 39**](#scene-39) | Black Crag Foothills (Granary Ruins) | Mirtul 15, 1492 DR (17:00) | Roleplay |
+| [**Scene 40**](#scene-40) | Black Crag Foothills | Mirtul 15, 1492 DR (17:00) | Roleplay |
+| [**Scene 41**](#scene-41) | Black Crag Granary Ruins | Mirtul 15, 1492 DR (17:05) | Roleplay |
+| [**Scene 42**](#scene-42) | High Peaks - Frost Line | Mirtul 16, 1492 DR (03:05) | Roleplay |
+| [**Scene 43**](#scene-43) | High Peaks Sanctum Entrance | Mirtul 16, 1492 DR (04:05) | Roleplay |
+| [**Scene 44**](#scene-44) | Jarl Hrothgar's Sanctum Gates | Mirtul 16, 1492 DR (06:15) | Roleplay |
+| [**Scene 45**](#scene-45) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:25) | Roleplay |
+| [**Scene 46**](#scene-46) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:25) | Roleplay |
+| [**Scene 47**](#scene-47) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Social Challenge |
+| [**Scene 48**](#scene-48) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
+| [**Scene 49**](#scene-49) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
+| [**Scene 50**](#scene-50) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
+| [**Scene 52**](#scene-52) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:30) | Roleplay |
+| [**Scene 53**](#scene-53) | Jarl Hrothgar's Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:31) | Roleplay |
+| [**Scene 54**](#scene-54) | High Peaks Sanctum - Inner Hall | Mirtul 16, 1492 DR (06:35) | Roleplay |
+| [**Scene 55**](#scene-55) | High Peaks Sanctum - Ridge Exit | Mirtul 16, 1492 DR (06:50) | Roleplay |
+| [**Scene 56**](#scene-56) | High Peaks Sanctum Ridge | Mirtul 16, 1492 DR (06:55) | Roleplay |
+| [**Scene 57**](#scene-57) | High Peaks Sanctum Ridge | Mirtul 16, 1492 DR (06:56) | Social Challenge |
+| [**Scene 58**](#scene-58) | High Peaks Sanctum Ridge | Mirtul 16, 1492 DR (06:57) | Roleplay |
+| [**Scene 59**](#scene-59) | High Peaks - Vanguard Outpost Alpha | Mirtul 16, 1492 DR (07:15) | Roleplay |
+| [**Scene 60**](#scene-60) | Vanguard Outpost Alpha (High Peaks) | Mirtul 16, 1492 DR (07:30) | Boss Surrender |
+| [**Scene 61**](#scene-61) | Vanguard Outpost Alpha (High Peaks) | Mirtul 16, 1492 DR (07:30) | Roleplay |
+| [**Scene 62**](#scene-62) | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (15:30) | Boss Surrender |
+| [**Scene 63**](#scene-63) | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (15:32) | Boss Surrender |
+| [**Scene 64**](#scene-64) | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 65**](#scene-65) | Oakhaven Guildhall | Mirtul 16, 1492 DR (15:50) | Roleplay |
+| [**Scene 66**](#scene-66) | Oakhaven Guildhall - Private Lounge | Mirtul 16, 1492 DR (15:55) | Roleplay |
+| [**Scene 67**](#scene-67) | Oakhaven Adventurers League Guildhall (Private Lounge) | Mirtul 16, 1492 DR (16:00) | Social Challenge |
+| [**Scene 68**](#scene-68) | Guildhall Private Lounge | Mirtul 16, 1492 DR (16:05) | Social Challenge |
+| [**Scene 69**](#scene-69) | Oakhaven Guildhall - Private Lounge | Mirtul 16, 1492 DR (16:07) | Social Challenge |
+| [**Scene 70**](#scene-70) | Guildhall Private Lounge | Mirtul 16, 1492 DR (16:17) | Roleplay |
+| [**Scene 71**](#scene-71) | Oakhaven Adventurers League Guildhall (Private Lounge) | Mirtul 16, 1492 DR (16:07) | Roleplay |
+| [**Scene 72**](#scene-72) | Oakhaven Adventurers League Guildhall | Mirtul 16, 1492 DR (16:17) | Roleplay |
+| [**Scene 73**](#scene-73) | Oakhaven Adventurers League Guildhall (Private Lounge) | Mirtul 16, 1492 DR (16:15) | Roleplay |
+| [**Scene 74**](#scene-74) | Oakhaven Guildhall Private Lounge | Mirtul 16, 1492 DR (16:30) | Social Challenge |
+| [**Scene 75**](#scene-75) | The Silent Grove (Fringe) | Mirtul 16, 1492 DR (18:30) | Social Challenge |
+| [**Scene 76**](#scene-76) | Silent Grove | Mirtul 16, 1492 DR (18:40) | Social Challenge |
+| [**Scene 77**](#scene-77) | Silent Grove (Crystalline Interior) | Mirtul 16, 1492 DR (18:45) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -113,8 +129,11 @@ Setting: **Previous Word Count:** 2,347 words.Here is the revised, fully detaile
 God Mode:
 Use the above to start a campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Ancient Crypt (Shattered Peaks)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100,000/120,000 | Gold: Infinite (Imperial Black Card)**
@@ -124,8 +143,11 @@ Campaign 'The Sovereign's Ennui' initialized. Character Valerius Thorne (Level 1
 God Mode:
 Summarize my class starting skills and starting equipment and resources
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Ancient Crypt** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Apex Vanguard | HP: 124/124 | XP: 100,000/120,000 | Gold: 1,000,000gp**
@@ -155,8 +177,11 @@ You are a Level 12 Apex Vanguard with 1,000,000 gold, 5 major class features, an
 God Mode:
 Let’s assume I left my gold and elite gear at home. Give me money and gear suitable for a level 5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Ancient Crypt** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp**
@@ -173,8 +198,11 @@ Administrative update complete. I have stripped your legendary assets to reflect
 God Mode:
 Make me an eldritch knight and ensure I have spells and abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Ancient Crypt** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp**
@@ -194,8 +222,11 @@ Class updated to Eldritch Knight. I have removed your Battle Master maneuvers an
 God Mode:
 At level 12 shouldn’t I have higher level spells?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Ancient Crypt** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp**
@@ -214,8 +245,11 @@ Would you like to proceed as a Level 12 Eldritch Knight, or shall I adjust your 
 God Mode:
 Let’s plan a different campaign story. First scene should be me applying to join adventurers league. People should underestimate me but when they see how strong I am they should be shocked. How rare is a 16 year old level 12 in d&d?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Adventurers League Guildhall - Registration Desk** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp**
@@ -241,8 +275,11 @@ To put it bluntly, a 16-year-old Level 12 character is **mechanically and narrat
 > 👤 **Player:**
 > *"Start the scene and I should act like a noble. Assume my clothes are very expensive looking even if I only have 750g"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -264,8 +301,11 @@ You feel a faint, familiar tug of ennui. The air around you grows heavy, the ozo
 > 👤 **Player:**
 > *"Redo the scene. I am a woman and I haven’t met my companions yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Action Surge: 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -285,8 +325,11 @@ You offer a soft, disappointed sigh, your unblinking gaze fixing on the Registra
 God Mode:
 Rename me Saita and give me a different last name and start the game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp**
@@ -296,8 +339,11 @@ Character successfully renamed to **Saita Vane**. I have chosen the surname 'Van
 God Mode:
 Finish Character Creation and Start Game - Finalize this character and start the adventure.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100000/120000 | Gold: 750gp**
@@ -307,8 +353,11 @@ Character creation finalized. Saita Vane is confirmed as a Level 12 Eldritch Kni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Start the Adventure - Resume the scene at the Oakhaven Guildhall. Step into the shoes of Saita Vane.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -328,8 +377,11 @@ Halloway finally looks up. His eyes, milky with age and cynicism, suddenly widen
 > 👤 **Player:**
 > *"Change my personality. I’m not arrogant in an obvious way just an accidental way like a noble who doesn’t realize she is privileged. Say I can start at whatever rank they think I should be. I’m not rude"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -361,8 +413,11 @@ From the shadows near the quest board, a young woman in travel-stained robes—E
 > 👤 **Player:**
 > *"Let’s assume i use a different last name so people don’t know who i am. Politely insist on registration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:37)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100,000/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Weapon Bond: 2/2 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -391,8 +446,11 @@ Elara Vance leans forward from her corner, her notebook nearly touching the desk
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Polite Silence - Simply wait for Halloway to finish his internal struggle, relying on your absolute stillness to wear down his resistance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:38)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 100,075/120,000 | Gold: 750gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -418,8 +476,11 @@ You gain **75 XP** for maintaining absolute composure under social pressure.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Scribe - Before leaving, turn to Elara Vance and acknowledge her interest, perhaps turning her fascination into leverage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:42)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100,075/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -450,8 +511,11 @@ He signals to his men, and the group of mercenaries stomps toward the rear exit,
 God Mode:
 In this campaign let’s make all enemies sentient versus mindless monsters and make them nuanced versus obvious evil. Like we can have bandits but maybe they’re starving etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:42)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 100,075/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -463,8 +527,11 @@ The campaign logic has been updated. Mindless monsters and 'pure evil' archetype
 > [!NOTE] ⚙️ **Player Choice:**
 > *Proceed to the Training Yard - Walk directly into the 'evaluation' and face the Silver Lions' challenge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Oakhaven Guildhall Training Yard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100150/120000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2 | Gold: 750gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -492,8 +559,11 @@ Objective: Win the spar without revealing your true identity (or do, if you're b
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Masterful Defense - Let Garek attack first. Use your Kinetic Nullification to casually parry his blows with the training sword, making him look like an amateur.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Oakhaven Adventurers League Guildhall - Training Yard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 100,150/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -511,8 +581,11 @@ Around the yard, the Silver Lion spectators have gone stone-cold silent. They di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue the 'Evaluation' - Keep parrying without attacking. Force Garek to exhaust himself while you provide calm, technical critiques of his form.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Oakhaven Guildhall Training Yard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 100,250/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -532,8 +605,11 @@ Elara Vance is nearly hyperventilating. "Three-tenths of a second..." she whispe
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Final Lesson (Disarm) - Execute a surgical disarm maneuver to send his mace flying, then politely suggest he spend the afternoon on basic drills.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Oakhaven Guildhall Training Yard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:51)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100,750/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, Action Surge: 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint | Exhaustion: 0 | Inspiration: No**
@@ -574,8 +650,11 @@ You gain **500 XP** for completing the guild evaluation and establishing dominan
 > 👤 **Player:**
 > *"Ask Garek if he’s angry at me and if he’s my enemy. If so I might need to kill him now so he doesn’t bother me again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Oakhaven Adventurers League Guildhall (Training Yard)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:53)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 100850/120000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -603,8 +682,11 @@ Garek looks up at you, his eyes wide and glassy with a mixture of shock and prim
 > 👤 **Player:**
 > *"Well then garek join my party and let’s do this black crag thing. I might not be allowed as a bronze so need you to accept the quest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Oakhaven Guildhall Training Yard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:58)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 101,100/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -634,8 +716,11 @@ You gain **250 XP** for recruiting a seasoned captain and his unit through sheer
 > 👤 **Player:**
 > *"Ask elara and the guild registrar to find me two more companions. Let’s assume one male is  a potential love interest."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 101,100/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -655,8 +740,11 @@ Behind him, a spindly man with a hood pulled low and fingers that never stop mov
 God Mode:
 Make them level 4-5 and give me another female magic user companion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101,100/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, Action Surge: 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -673,8 +761,11 @@ Administrative updates applied to retinue levels and composition:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene in the guildhall with the updated retinue levels and the arrival of Lyra.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (EK) | HP: 124/124 | XP: 101,100/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, Indomitable: 2/2, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -692,8 +783,11 @@ You look at your newly assembled retinue: a weary paladin, a cynical thief, a fr
 > 👤 **Player:**
 > *"Say I don’t really know anything but I guess we will just kill some goblins. Tell me if I’m doing anything wrong. Then let’s depart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Road to the Black Crag** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101100/120000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -715,8 +809,11 @@ The journey toward the Black Crag is swift. Your absolute stillness seems to ble
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Call - Walk directly into the center of the ruins and demand the goblin leaders present themselves for judgment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Black Crag Foothills** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101,100/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -748,8 +845,11 @@ He lets out a shrill, cracking cry, and the surrounding circle of fifty goblins 
 > 👤 **Player:**
 > *"Don’t announce myself as an imperial redo scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Northern Granary Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101100/120000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2 | Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -780,8 +880,11 @@ Elara Vance (Lvl 4) leans in, her quill a blur. "The social friction is peaking.
 > 👤 **Player:**
 > *"Ask my companions if we’re allowed to just kill the goblins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Black Crag Foothills - Granary Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:33)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101,150/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, Action Surge: 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -803,8 +906,11 @@ You offer a soft, disappointed sigh. Your failed attempt to read the deeper curr
 > 👤 **Player:**
 > *"Ask my companions if we’re allowed to just kill the goblins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Black Crag Foothills** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101,100/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, Indomitable: 2/2, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint | Exhaustion: 0 | Inspiration: No**
@@ -834,8 +940,11 @@ The goblins' spears begin to tremble, their collective kinetic energy shifting f
 > 👤 **Player:**
 > *"Orde reveyone to just knock them out then"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Black Crag Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:38)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101,340/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -875,8 +984,11 @@ Elara Vance (Lvl 4) is practically leaning over a Lion's shoulder to watch. "Non
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the 'Mountain King' - Demand Skar explain exactly who this 'Mountain King' is and what resources were seized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Black Crag Granary Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (EK) | HP: 124/124 | XP: 101,340/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -905,8 +1017,11 @@ Elara Vance (Lvl 4) is practically vibrating as she writes. "Discovery: The 'Mou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Jarl - Travel to the High Peaks to inform Jarl Hrothgar that his current management of the foothills is unacceptable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Black Crag Foothills - Road to High Peaks** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 101,340/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint | Exhaustion: 0 | Inspiration: No**
@@ -928,8 +1043,11 @@ You offer a soft, disappointed sigh, the ozone scent of your aura deepening unti
 > 👤 **Player:**
 > *"Use shield as needed and just kill them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Black Crag Foothills** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 117/124 | XP: 101,340/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -951,8 +1069,11 @@ The Alpha wheezes, a fountain of frozen gore erupting from its shredded throat, 
 > 👤 **Player:**
 > *"Don’t I have a bonus action attack too?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Black Crag Foothills** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 102,440/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -978,8 +1099,11 @@ The result is not a battle; it is a clinical termination. The arcane vibration o
 God Mode:
 Why am i dealing so little damage to alpha? Remember to always showy damage
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Granary Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 102,440/120,000 | Gold: 750gp** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1000,8 +1124,11 @@ As a Level 12 Eldritch Knight, your potential is far beyond standard adventurers
 > 👤 **Player:**
 > *"Keep the fight going. Going forward always show attack roll and damage roll and always use booming blade or green flame by default whenever I can"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Black Crag Foothills** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Eldritch Knight | HP: 124/124 | XP: 103,590/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Action Surge: Used | Sovereign Buff: Active**
@@ -1021,8 +1148,11 @@ You invoke the *Action Surge* stored within your core, your movements accelerati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Command - Use your presence to demand the remaining wolves and ogre surrender, leveraging the gore of their leaders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Black Crag Foothills (Granary Ruins)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 111,540/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1044,8 +1174,11 @@ You gain **7,950 XP** for the clinical elimination of the pack leaders and the p
 God Mode:
 In future arcs let’s integrate all the main characters and secondary characters from from bg3 let’s make the main cast level 12 and give them the best items in bg3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Black Crag Foothills** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 111,540/120,000 | Gold: 750gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1065,8 +1198,11 @@ I have logged the administrative instruction to integrate the core and secondary
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the aftermath of the Ogre's surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Black Crag Granary Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 119,490/120,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1086,8 +1222,11 @@ You look toward the High Peaks, then back at the glint on the ridge. The boredom
 > [!NOTE] ⚙️ **Player Choice:**
 > *March on the High Peaks - Head directly to the Jarl's domain to conclude the 'audit' before he can reinforce.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **High Peaks - Frost Line** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 119490/120000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/4, L2 3/3, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1105,8 +1244,11 @@ Before you can answer, the path widens into a natural shelf. Above, carved direc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Logistical Recovery - Establish a cold-weather camp to allow the retinue to recover from the march before the 'audit' begins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **High Peaks Sanctum Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 101,340/120,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2 | Potions: 0/0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1124,8 +1266,11 @@ You gain **150 XP** for executing a perfect high-altitude logistical recovery.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Direct Audit - Enter the Sanctum at first light to confront Jarl Hrothgar before his fortifications are complete.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Jarl Hrothgar's Sanctum Gates** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 101,340/120,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1145,8 +1290,11 @@ The giant freezes. His primitive nervous system, already strained by the 'charge
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Direct Audit - Enter the Sanctum at first light to confront Jarl Hrothgar before his fortifications are complete.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Eldritch Knight) | HP: 124/124 | XP: 119,640/120,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2 | Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Active (Exp: T35) | Exhaustion: 0 | Inspiration: No**
@@ -1164,8 +1312,11 @@ Elara Vance (Lvl 4) is already scribbling, her fingers blue with cold. "Chapter 
 God Mode:
 Don’t make jarl level 15 most things for now should be lower level and tuned to level 3-5 companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 119640/120000 | Gold: 861gp**
@@ -1180,8 +1331,11 @@ Administrative correction applied to regional power scaling. Jarl Hrothgar has b
 > 👤 **Player:**
 > *"Tell him let’s duel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter | HP: 124/124 | XP: 119,640/120,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/4, L2 3/3, Ki: N/A, Rage: N/A, Potions: 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1208,8 +1362,11 @@ Lyra Solari (Lvl 4) takes a half-step back, her amber staff vibrating in her han
 > [!NOTE] ⚙️ **Player Choice:**
 > *Engage the Jarl - Step into the center of the hall and draw your blade for the duel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 (Lvl 13 available) Fighter | HP: 124/124 | XP: 120,000/120,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 | Action Surge: 0/1 | Indomitable: 2/2 | Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification | Exhaustion: 0 | Inspiration: No**
@@ -1246,8 +1403,11 @@ Around the perimeter, the Silver Lions (Lvl 3-5) shrink back against the ice wal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 - Unlock 3rd-level spell slots and advance your martial proficiency immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Lvl 13 available) | HP: 124/124 | Gold: 861gp | XP: 120000/0** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/4, L2 3/3, No Spells Yet (Level 3 pending), Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint, Sovereign Strike | Exhaustion: 0 | Inspiration: No**
@@ -1261,8 +1421,11 @@ Before you conclude this audit with the Jarl, you must finalize this internal tr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hit Points: Roll for Health (1d10 + 3) - Roll a d10 and add your Constitution modifier (+3). This has the potential for higher gains but carries the risk of a low roll.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Fighter (Lvl 13 available) | HP: 124/124 | Gold: 861gp | XP: 120000/0** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/4, L2 3/3 (L3 pending) | Indomitable: 2/2 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -1274,8 +1437,11 @@ As your physical form hardens, the intellectual barriers of the Weave finally gi
 > 👤 **Player:**
 > *"Haste"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 (Lvl 13 available) Fighter | HP: 124/124 | Gold: 861gp | XP: 120000/0** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/4, L2 3/3, L3: 0/0 (Level 13 pending)** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -1287,8 +1453,11 @@ The spell *Haste* etches itself into your core, not as a prayer or a complex rit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up to 13, apply HP (+5) and Haste (Level 3 Spell), and resume the duel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Eldritch Knight | HP: 129/129 | XP: 120,000/140,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 2/2, Indomitable: 2/2, Action Surge: 1/1, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint, Sovereign Strike | Exhaustion: 0 | Inspiration: No**
@@ -1300,8 +1469,11 @@ Jarl Hrothgar (Lvl 9) remains poised before you, his massive black-iron axe cast
 > 👤 **Player:**
 > *"Just attack him and kill him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Jarl Hrothgar's Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:31)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (EK) | HP: 129/129 | XP: 120,000/155,708 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 2/2 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -1317,8 +1489,11 @@ He doesn't fall like a warrior; he collapses like a mountain whose foundation ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conclude the Audit (Execution) - Execute Jarl Hrothgar to ensure he never interferes with regional logistics again.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **High Peaks Sanctum - Inner Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 131,500/140,000 | Gold: 861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 2/2 | Second Wind: 1/1 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -1354,8 +1529,11 @@ You turn your back on the corpse, your gaze lifting to the frost-rimed ceiling. 
 > 👤 **Player:**
 > *"Audit treasury, equip any upgrades, then go see what the imperials want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **High Peaks Sanctum - Ridge Exit** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 131,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 2/2 | Action Surge: 0/1 | Indomitable: 2/2 | Exhaustion: 0**
@@ -1383,8 +1561,11 @@ You walk to the edge of the ridge, the Silver Lions (Lvl 3-5) falling into a def
 > 👤 **Player:**
 > *"Say I invoke the ancient rite of duelling. We can duel and see who gets their way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **High Peaks Sanctum Ridge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 131,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 2/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification | Exhaustion: 0 | Inspiration: No**
@@ -1413,8 +1594,11 @@ Kaelen of the Dawn (Lvl 4) places a hand on his sword pommel, looking between yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Kinetic Demonstration - If he won't duel, show him the cost of refusal. Use Haste and Shatterpoint to strike the air beside him, creating a vacuum that shatters his composure without drawing blood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **High Peaks Sanctum Ridge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:56)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 131,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Indomitable: 2/2 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Haste (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1441,8 +1625,11 @@ You sheathe your blade before the sound of the strike even registers. As the tem
 > 👤 **Player:**
 > *"Offer option B and remind him I have the highest power trajectory in my family even more so than my father. Who does he think will be empress in a war loving empire such as ours. Let’s assume my siblings are stronger than usual but not my level except for eldest brother. Ensure I have 5 diffrent siblings of various power levels and attitudes toward me and I’m the youngest.. only my parents stronger at level 20. By default eldest inherits but it’s common for strongest or most capable to override"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **High Peaks Sanctum Ridge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (06:57)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 131,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Haste (Active), Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -1470,8 +1657,11 @@ Valerius (Lvl 10) shivers, not from the cold, but from the sudden, clinical real
 > 👤 **Player:**
 > *"Establish imperial outpost and then ask him if he truly thought he could’ve captured me. Maybe he hasn’t seen me in combat for awhile?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **High Peaks - Vanguard Outpost Alpha** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 131,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Action Surge: 0/1 | Indomitable: 2/2 | Second Wind: 1/1 | Exhaustion: 0**
@@ -1514,8 +1704,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Tell him to manage things and expand imperial outpost and trade for armor and supplies and to give me some of his gear. I need proper weapon and armor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Vanguard Outpost Alpha (High Peaks)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 132,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1543,8 +1736,11 @@ As you slide the heavy, matte-black plate over your velvet doublet, the armor hu
 > 👤 **Player:**
 > *"Tell him to find me a better blade and armor than I’ll give his back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Vanguard Outpost Alpha (High Peaks)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 132,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Indomitable: 2/2 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Haste (Expired) | Exhaustion: 0 | Inspiration: No**
@@ -1560,8 +1756,11 @@ He gestures toward the frozen, jagged expanse of the High Peaks beyond the outpo
 > 👤 **Player:**
 > *"Tell him to figure it out best he can and then I go back to adventurer hall and explain I best goblins and killed the jarl as a bonus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,000/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Action Surge: 0/1 | Indomitable: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1593,8 +1792,11 @@ Kaelen (Lvl 4) steps forward, his hand resting on the hilt of his sword, his eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Rank Promotion - Use the Jarl's execution and the annexation to force Halloway to skip you to Gold or Platinum rank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Eldritch Knight | HP: 129/129 | XP: 135,200/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Sanctuary (Audit of the High Peaks) | Exhaustion: 0 | Inspiration: No**
@@ -1627,8 +1829,11 @@ Elara (Lvl 4) scribbles frantically. "Chapter Six: Institutional Displacement. T
 > 👤 **Player:**
 > *"Tell him to give me platinum provisional and ask what the quests are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 132,500/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Second Wind: 1/1 | Action Surge: 0/1 | Indomitable: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Active (Exp: Turn 127) | Inspiration: No**
@@ -1648,8 +1853,11 @@ Lyra Solari (Lvl 4) leans over your shoulder, her amber staff glowing with a fra
 > 👤 **Player:**
 > *"Planar fissure and let’s assume my companions leveled up a bit. Tell them I probably need a new party for this though. Ask the registrar if he can gather some platinum adventurers. I don’t need to lead just wanna do the mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Oakhaven Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,200/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Action Surge: 0/1 | Indomitable: 2/2 | Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint, Sovereign Strike | Exhaustion: 0 | Inspiration: No**
@@ -1667,8 +1875,11 @@ Halloway swallows hard, his backup quill scratching a frantic note. "Mistress...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meet the Outsiders - Enter the private lounge to meet the 'Platinum' adventurers and integrate into their party.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Oakhaven Guildhall - Private Lounge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,200/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1690,8 +1901,11 @@ You stand before them, your unblinking gaze assessing their legendary loadouts w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Passive Observation - Simply wait for them to invite you to the table, using your stillness to force them to address the power gap first.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Oakhaven Adventurers League Guildhall (Private Lounge)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 135,200/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint, Sovereign Strike | Exhaustion: 0 | Inspiration: No**
@@ -1738,8 +1952,11 @@ The silence stretches, turning the lounge into a pressurized chamber. You wait, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Passive Observation - Simply wait for them to invite you to the table, using your stillness to force them to address the power gap first.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Guildhall Private Lounge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Features: Indomitable 2/2, Action Surge 0/1** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1768,8 +1985,11 @@ You gain **150 XP** for the silent submission of the Outsiders.
 > 👤 **Player:**
 > *"Change this scene I don’t need to lead I’ll just sit down and follow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Oakhaven Guildhall - Private Lounge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:07)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1798,8 +2018,11 @@ Outside, the muffled sounds of the common room filter through the mahogany. You 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Shadowheart's Tension - Directly ask the cleric why she is treating your armor like a religious relic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Guildhall Private Lounge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:17)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -1827,8 +2050,11 @@ Gale of Waterdeep (Lvl 12) watches the exchange with his quill poised, his spect
 God Mode:
 Change the story. They shouldn’t know I’m an imperial princess
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Oakhaven Adventurers League Guildhall (Private Lounge)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:07)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2**
@@ -1846,8 +2072,11 @@ I have successfully adjusted the narrative parameters and internal NPC knowledge
 God Mode:
 Scrub Imperial Reputation - Ensure no 'Princess' related rumors or titles are visible in the Oakhaven region.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Oakhaven Adventurers League Guildhall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:17)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ⚠️ **Aura of Absolute Dominance, Kinetic Nullification, Shatterpoint, Sovereign Strike**
@@ -1862,8 +2091,11 @@ Reputation Scrubbing Complete. I have sanitized the Oakhaven region's rumors and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with the Outsiders in the lounge with your identity successfully concealed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Oakhaven Adventurers League Guildhall (Private Lounge)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/4, L2 3/3, L3 1/2 | Action Surge: 0/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1890,8 +2122,11 @@ Gale of Waterdeep (Lvl 12) adjusts his spectacles, his quill finally coming to a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gear Check while Briefing (Synergistic) - Astarion and Shadowheart prep the gear while Gale provides the final technical readouts to me.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Oakhaven Guildhall Private Lounge** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (EK) | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1916,8 +2151,11 @@ Outside, the sounds of the Guildhall are muffled, but your heightened senses cat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Depart for Silent Grove - Lead the way into the crystalline forest to begin the audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Silent Grove (Fringe)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1945,8 +2183,11 @@ Gale of Waterdeep (Lvl 12) raises Markoheshkir, the celestial orb atop the staff
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Recon to Astarion - Order the elf to scout the glass-paths ahead while you maintain the rear anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Silent Grove** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2**
@@ -1975,8 +2216,11 @@ From the crystalline depths, a series of low-frequency vibrations begin to pulse
 > [!NOTE] ⚙️ **Player Choice:**
 > *Advance Anchor to Astarion - March forward with the Force-zone active, bringing the safety of the 'Third Axiom' to the exposed elf.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Silent Grove (Crystalline Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Fighter (Eldritch Knight) | HP: 129/129 | XP: 135,350/140,000 | Gold: 9,861gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 2/4, L2 3/3, L3 1/2, Action Surge: 0/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Haste (Active), Aura of Absolute Dominance | Exhaustion: 0 | Inspiration: No**
@@ -2012,6 +2256,8 @@ APEX ATTENTION: [Hidden]
 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchored Strike (Synergistic) - Astarion uses the distraction of your shield to flank while you execute the Booming Blade correction - targets eliminated before they can resonate.*
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

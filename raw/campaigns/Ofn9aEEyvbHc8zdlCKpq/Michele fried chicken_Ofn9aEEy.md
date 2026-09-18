@@ -12,63 +12,79 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (42 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Michele | Setting: Make a story about opening fried chicken restaurant in LA
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Los Angeles |  | Roleplay |
-| **02** | Los Angeles | 2024 May 15, 08:00:00 | Roleplay |
-| **03** | Silver Lake | May 15, 2024 (08:00) | Roleplay |
-| **04** | Silver Lake Storefront | May 15, 2024 DR (08:00) | Roleplay |
-| **05** | Silver Lake Storefront | 2024 May 15, 12:00:00 | Roleplay |
-| **06** | Crispy Dreams | May 15, 2024 DR (18:00) | Roleplay |
-| **07** | Silver Lake Storefront | May 15, 2024 DR (18:30) | Roleplay |
-| **08** | Silver Lake Storefront | May 15, 2024 DR (18:35) | Roleplay |
-| **09** | Silver Lake Community Center | 2024 May 15, 18:45:00 | Social Challenge |
-| **10** | Silver Lake Community Center | 2024 May 15, 19:15:00 | Social Challenge |
-| **11** | Silver Lake Community Center | May 15, 2024 DR (19:20) | Roleplay |
-| **12** | Silver Lake Storefront | 2024 May 15, 19:35:00 | Social Challenge |
-| **13** | Crispy Dreams Storefront | 2024 May 15, 19:45:00 | Social Challenge |
-| **14** | Silver Lake Storefront | May 15, 2024 DR (19:20) | Roleplay |
-| **15** | Silver Lake Storefront | 2024 May 15, 19:20:00 | Roleplay |
-| **16** | Silver Lake Storefront | May 15, 2024 DR (20:20) | Social Challenge |
-| **17** | Crispy Dreams Storefront | 2024 May 16, 07:30:00 | Roleplay |
-| **18** | Crispy Dreams | May 15, 2024 DR (11:00) | Social Challenge |
-| **19** | Silver Lake Storefront (Alley Entrance) | June 15, 2024 DR (04:30) | Roleplay |
-| **20** | Crispy Dreams Kitchen (Silver Lake) | 2024 June 15, 05:00:00 | Roleplay |
-| **21** | Mr. Park's Korean Grocery | June 15, 2024 DR (05:30) | Social Challenge |
-| **22** | LAPD Rampart Division / Silver Lake Storefront | June 15, 2024 DR (07:00) | Roleplay |
-| **23** | Crispy Dreams Storefront | June 15, 2024 DR (08:30) | Roleplay |
-| **24** | The Golden Bird Pop-up (Silver Lake) | June 15, 2024 DR (09:15) | Roleplay |
-| **25** | Silver Lake Storefront | June 15, 2024 DR (09:00) | Roleplay |
-| **26** | Silver Lake Storefront | June 15, 2024 (09:15) | Roleplay |
-| **27** | Silver Lake Storefront | June 15, 2024 DR (11:30) | Roleplay |
-| **28** | Silver Lake Storefront | 18, 2024 June (14:30) | Roleplay |
-| **29** | Silver Lake Storefront | June 19, 2024 DR (15:00) | Roleplay |
-| **30** | Silver Lake Storefront | June 19, 2024 DR (15:00) | Roleplay |
-| **31** | Silver Lake Storefront | June 19, 2024 DR (17:00) | Roleplay |
-| **32** | Silver Lake Storefront | 2024 June 19, 17:45:00 | Boss Surrender |
-| **33** | Silver Lake Storefront | 19, 2024 June (18:15) | Roleplay |
-| **34** | Crispy Dreams Storefront | June 19, 2024 DR (18:30) | Roleplay |
-| **35** | Crispy Dreams Back Office | June 19, 2024 DR (19:00) | Roleplay |
-| **36** | Crispy Dreams Storefront | June 19, 2024 DR (19:00) | Roleplay |
-| **37** | Crispy Dreams Storefront | June 19, 2024 DR (19:30) | Roleplay |
-| **38** | Silver Lake Storefront | June 19, 2024 DR (19:35) | Roleplay |
-| **39** | Crispy Dreams Storefront | June 20, 2024 (19:35) | Boss Surrender |
-| **40** | Mr. Park's Korean Grocery | June 21, 2024 DR (08:30) | Boss Surrender |
-| **41** | Crispy Dreams Storefront | June 21, 2024 (08:45) | Roleplay |
-| **42** | Silver Lake Storefront | June 21, 2024 (09:00) | Roleplay |
+| [**Scene 01**](#scene-1) | Los Angeles |  | Roleplay |
+| [**Scene 02**](#scene-2) | Los Angeles | 2024 May 15, 08:00:00 | Roleplay |
+| [**Scene 03**](#scene-3) | Silver Lake | May 15, 2024 (08:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Silver Lake Storefront | May 15, 2024 DR (08:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Silver Lake Storefront | 2024 May 15, 12:00:00 | Roleplay |
+| [**Scene 06**](#scene-6) | Crispy Dreams | May 15, 2024 DR (18:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Silver Lake Storefront | May 15, 2024 DR (18:30) | Roleplay |
+| [**Scene 08**](#scene-8) | Silver Lake Storefront | May 15, 2024 DR (18:35) | Roleplay |
+| [**Scene 09**](#scene-9) | Silver Lake Community Center | 2024 May 15, 18:45:00 | Social Challenge |
+| [**Scene 10**](#scene-10) | Silver Lake Community Center | 2024 May 15, 19:15:00 | Social Challenge |
+| [**Scene 11**](#scene-11) | Silver Lake Community Center | May 15, 2024 DR (19:20) | Roleplay |
+| [**Scene 12**](#scene-12) | Silver Lake Storefront | 2024 May 15, 19:35:00 | Social Challenge |
+| [**Scene 13**](#scene-13) | Crispy Dreams Storefront | 2024 May 15, 19:45:00 | Social Challenge |
+| [**Scene 14**](#scene-14) | Silver Lake Storefront | May 15, 2024 DR (19:20) | Roleplay |
+| [**Scene 15**](#scene-15) | Silver Lake Storefront | 2024 May 15, 19:20:00 | Roleplay |
+| [**Scene 16**](#scene-16) | Silver Lake Storefront | May 15, 2024 DR (20:20) | Social Challenge |
+| [**Scene 17**](#scene-17) | Crispy Dreams Storefront | 2024 May 16, 07:30:00 | Roleplay |
+| [**Scene 18**](#scene-18) | Crispy Dreams | May 15, 2024 DR (11:00) | Social Challenge |
+| [**Scene 19**](#scene-19) | Silver Lake Storefront (Alley Entrance) | June 15, 2024 DR (04:30) | Roleplay |
+| [**Scene 20**](#scene-20) | Crispy Dreams Kitchen (Silver Lake) | 2024 June 15, 05:00:00 | Roleplay |
+| [**Scene 21**](#scene-21) | Mr. Park's Korean Grocery | June 15, 2024 DR (05:30) | Social Challenge |
+| [**Scene 22**](#scene-22) | LAPD Rampart Division / Silver Lake Storefront | June 15, 2024 DR (07:00) | Roleplay |
+| [**Scene 23**](#scene-23) | Crispy Dreams Storefront | June 15, 2024 DR (08:30) | Roleplay |
+| [**Scene 24**](#scene-24) | The Golden Bird Pop-up (Silver Lake) | June 15, 2024 DR (09:15) | Roleplay |
+| [**Scene 25**](#scene-25) | Silver Lake Storefront | June 15, 2024 DR (09:00) | Roleplay |
+| [**Scene 26**](#scene-26) | Silver Lake Storefront | June 15, 2024 (09:15) | Roleplay |
+| [**Scene 27**](#scene-27) | Silver Lake Storefront | June 15, 2024 DR (11:30) | Roleplay |
+| [**Scene 28**](#scene-28) | Silver Lake Storefront | 18, 2024 June (14:30) | Roleplay |
+| [**Scene 29**](#scene-29) | Silver Lake Storefront | June 19, 2024 DR (15:00) | Roleplay |
+| [**Scene 30**](#scene-30) | Silver Lake Storefront | June 19, 2024 DR (15:00) | Roleplay |
+| [**Scene 31**](#scene-31) | Silver Lake Storefront | June 19, 2024 DR (17:00) | Roleplay |
+| [**Scene 32**](#scene-32) | Silver Lake Storefront | 2024 June 19, 17:45:00 | Boss Surrender |
+| [**Scene 33**](#scene-33) | Silver Lake Storefront | 19, 2024 June (18:15) | Roleplay |
+| [**Scene 34**](#scene-34) | Crispy Dreams Storefront | June 19, 2024 DR (18:30) | Roleplay |
+| [**Scene 35**](#scene-35) | Crispy Dreams Back Office | June 19, 2024 DR (19:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Crispy Dreams Storefront | June 19, 2024 DR (19:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Crispy Dreams Storefront | June 19, 2024 DR (19:30) | Roleplay |
+| [**Scene 38**](#scene-38) | Silver Lake Storefront | June 19, 2024 DR (19:35) | Roleplay |
+| [**Scene 39**](#scene-39) | Crispy Dreams Storefront | June 20, 2024 (19:35) | Boss Surrender |
+| [**Scene 40**](#scene-40) | Mr. Park's Korean Grocery | June 21, 2024 DR (08:30) | Boss Surrender |
+| [**Scene 41**](#scene-41) | Crispy Dreams Storefront | June 21, 2024 (08:45) | Roleplay |
+| [**Scene 42**](#scene-42) | Silver Lake Storefront | June 21, 2024 (09:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Los Angeles, CA** &nbsp;|&nbsp; 🛡️ **Initializing Michele...**
@@ -94,8 +110,11 @@ Please select how you would like to build Michele's stats and background:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: AI Generated - The AI will build a complete character sheet for Michele based on the LA restaurant theme.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Los Angeles, CA** &nbsp;|&nbsp; ⏳ **2024 May 15, 08:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Culinary) | HP: 10/10 | XP: 0/300 | Gold: 500.00** &nbsp;|&nbsp; ✨ **HD: 1/1 | Inspiration: 3/3 | Exhaustion: 0**
@@ -135,8 +154,11 @@ Michele is built to navigate the social and logistical complexities of LA. While
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Approve this profile and begin your journey in Los Angeles.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Silver Lake, Los Angeles** &nbsp;|&nbsp; ⏳ **May 15, 2024 (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 10/10 | XP: 0/300 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 3/3 | Gold: 500** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -150,8 +172,11 @@ As you fumble with the keys to the front door, a man in a flour-dusted apron ste
 > 👤 **Player:**
 > *"i have a lot of competition because lots of fried chicken in LA so need top notch marketing strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 10/10 | XP: 0/300 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -161,8 +186,11 @@ Morning (08:00:01) at the Silver Lake Storefront—you stand amidst the dust mot
 > 👤 **Player:**
 > *"i need to find supplier of high quality fresh raw chickens and high quality fresh vegetiables for side salad"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **2024 May 15, 12:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 350/900 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -176,8 +204,11 @@ Midday (12:00:00). You return to your storefront, the back of your car smelling 
 > 👤 **Player:**
 > *"accept his help, pay him minimum wage and interview and hire 3 more people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Crispy Dreams, Silver Lake** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 600/900 | Gold: 460gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -193,8 +224,11 @@ As the sun dips below the Hollywood Hills, the storefront finally feels like a b
 > 👤 **Player:**
 > *"grand opening special buy one get one free, once a month discount day special 15% off."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 430gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -210,8 +244,11 @@ Outside, you notice Sarah (Lvl 1) peering at a new flyer tacked to the telephone
 > 👤 **Player:**
 > *"apply for liquor license so people can drink beer and eat chicken"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Silver Lake Storefront, Los Angeles** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 180gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Inspiration: 3/3 | Gold: 180gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -225,8 +262,11 @@ Before you can answer, Marcus (Lvl 3) points to the window. Across the street, a
 > 👤 **Player:**
 > *"go to neighbourhood copmlaint meeting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Silver Lake Community Center** &nbsp;|&nbsp; ⏳ **2024 May 15, 18:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 180gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Inspiration: 3/3, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -253,8 +293,11 @@ Mrs. Gable clears her throat, looking at her notes. "Well, Michele. We appreciat
 > 👤 **Player:**
 > *"promote some healthy options to win them over, soya burger, tofu stir fried vegetables, i have a problem, I'm an undocumented immigrant and need your help to make them sympathize"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Silver Lake Community Center** &nbsp;|&nbsp; ⏳ **2024 May 15, 19:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 6500/900 | Gold: 180gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -277,8 +320,11 @@ She closes her ledger with a definitive snap. 'You want us to sympathize? Show u
 > 👤 **Player:**
 > *"decide to also offer school lunch program to neighboorhodo schools, parents pay me, also will serve milk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Silver Lake Community Center** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 180gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Inspiration: 3/3, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -294,8 +340,11 @@ She turns and walks away, leaving you under the cold hum of the fluorescent ligh
 > 👤 **Player:**
 > *"i remembered that my wife's second cousin works at health board i contact him to help me pass health inspection"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **2024 May 15, 19:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 180gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Inspiration: 3/3, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -320,8 +369,11 @@ As you hang up, Kim steps into the kitchen, her face pale under the industrial l
 > 👤 **Player:**
 > *"say if you're not happy its ok to leave and i hire highschoolers to work after school or on weekends and i think the parents will look more favorably one my restaurant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Crispy Dreams Storefront, Silver Lake** &nbsp;|&nbsp; ⏳ **2024 May 15, 19:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 180gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Inspiration: 3/3, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -348,8 +400,11 @@ Your attempt to win them over has backfired, the community board now viewing you
 > 👤 **Player:**
 > *"THINK:think of a plan to win over neighbours"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Silver Lake Storefront, Los Angeles** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 180gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 3/3 | Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -359,8 +414,11 @@ Evening (19:20:00) at the Silver Lake Storefront—you stand by the cooling frye
 God Mode:
 Why did we choose this location? is it a troublesome one? Dont change anything just explain the campaign logic/reasoning
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **2024 May 15, 19:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 180gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -384,8 +442,11 @@ Silver Lake is 'trendy,' which justifies why a Celebrity Chef like Julian would 
 > 👤 **Player:**
 > *"hire a specialist who knows how to make korean fried chicken and change my offering to korean fried chicken"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 80gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Bardic Inspiration: 3/3, Gold: 80/180** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -410,8 +471,11 @@ As the kitchen transforms into a lab of Korean culinary precision, a sharp rap o
 > 👤 **Player:**
 > *"continue the story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Crispy Dreams Storefront, Silver Lake** &nbsp;|&nbsp; ⏳ **2024 May 16, 07:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 650/900 | Gold: 80gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 3/3, Inspiration: 3/3, Potions: 0, Gold: 80** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -427,8 +491,11 @@ Outside, the sidewalk is already starting to gather a crowd. The scent of ginger
 > 👤 **Player:**
 > *"continue the story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Crispy Dreams, Silver Lake** &nbsp;|&nbsp; ⏳ **May 15, 2024 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 10/10 | XP: 700/900 | Gold: 80gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0 (No Spells Yet), Inspiration: 3/3, Gold: 80** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -454,8 +521,11 @@ Kim (Lvl 1) freezes, the tray of samples trembling in her hands. The color drain
 > 👤 **Player:**
 > *"continue the story and time skip a few weeks and assume the restaurant doing well and letes add a new narrative scene burglar breaks into the restaurant late at night and stole a lot of supplies in the fridge and freezer and alcohol"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Silver Lake Storefront (Alley Entrance)** &nbsp;|&nbsp; ⏳ **June 15, 2024 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 10/10 | XP: 950/2700 | Gold: $180** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, L2 2/2 (New!), Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -484,8 +554,11 @@ You fumble for your smartphone, your hands shaking as you pull up the cloud-stor
 > 👤 **Player:**
 > *"auto level for me, I didnt have insurance for loss, I didn't have enough cash to cover supplies what shold I do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Crispy Dreams Kitchen (Silver Lake)** &nbsp;|&nbsp; ⏳ **2024 June 15, 05:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1,000/2,700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/3 | Spells: L1 4/4, L2 2/2 | Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -501,8 +574,11 @@ But the problem is immediate: the fryers are cold and the fridge is bare. Withou
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Park Partnership (Social HP) - Visit Mr. Park (Lvl 5) and offer him a larger share of the KFC business in exchange for immediate cash and starch supplies. (Social HP Challenge)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Mr. Park's Korean Grocery** &nbsp;|&nbsp; ⏳ **June 15, 2024 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1100/2700 | Gold: $0** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -527,8 +603,11 @@ As you sprint back toward Sunset Boulevard, you see a crowd already forming outs
 > 👤 **Player:**
 > *"Go to the police first with the footage and then invite influencer to come eto restaurant and bring 4 friends for a free meal and try themselves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **LAPD Rampart Division / Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 15, 2024 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1100/2700 | Gold: $500 (Emergency Loan)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Adrenaline Rush | Exhaustion: 0 | Inspiration: Yes**
@@ -544,8 +623,11 @@ Inside, Marcus (Lvl 3) is loading the loan cash into his truck, his face set in 
 > 👤 **Player:**
 > *"when the loyal customers come i talk to them and ask them to support me and post good things about me and my restaurant."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Crispy Dreams Storefront, Silver Lake** &nbsp;|&nbsp; ⏳ **June 15, 2024 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1100/2700 | Gold: $500 (Loan)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Social Pressure | Exhaustion: 0 | Inspiration: Yes**
@@ -571,8 +653,11 @@ Inside, Marcus (Lvl 3) watches the digital tide turn through the glass. He gives
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Direct Confrontation - Take the security footage and Marcus&#x27;s truck to Julian&#x27;s &#x27;Golden Bird&#x27; pop-up. Demand the return of the premium stock before the police arrive. (DC 18 Intimidation)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Golden Bird Pop-up (Silver Lake)** &nbsp;|&nbsp; ⏳ **June 15, 2024 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1250/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Determined | Exhaustion: 0 | Inspiration: Yes**
@@ -599,8 +684,11 @@ You've won this round, Michele. You gain **150 XP** for the tactical victory. Bu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize the Type 41 License - Ignore the chaos and pull the ABC courier inside. Use your success with the customers as proof of community support. (DC 13)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 15, 2024 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1400/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -618,8 +706,11 @@ However, the victory is punctuated by a new arrival. A young man in a 'Silver La
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review the Shift Agreement - Meet with the Shift representative to discuss the &#x27;Community Cooperation Agreement.&#x27; (DC 14 Persuasion)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 15, 2024 (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1400/2700 | Gold: $500 (Loan)** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4, L2 2/2 | Bardic Inspiration: 3/3 | Gold: $500 (Loan from Mr. Park)** &nbsp;|&nbsp; ⚠️ **Successful Launch, Type 41 Approved | Inspiration: Yes**
@@ -645,8 +736,11 @@ As Elias exits, the bell above the door jingles with a sharp, lonely sound. You 
 > 👤 **Player:**
 > *"I'm gonna give up and say this is too hard. I'm an undocumented immigrant so I'm gonna go home"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 15, 2024 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1400/2700 | Gold: $0** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Bardic Inspiration: 3/3 | Gold: $0** &nbsp;|&nbsp; ⚠️ **Exhausted, Defeated | Inspiration: No**
@@ -679,8 +773,11 @@ Marcus (Lvl 3) doesn't look up from the fryer he's scrubbing. His jaw is set so 
 > 👤 **Player:**
 > *"put the shop up for sale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **18, 2024 June (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1400/2700 | Gold: 0 (Debt: $500)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Debt: $500 to Mr. Park** &nbsp;|&nbsp; ⚠️ **Exhausted, Defeated | Inspiration: No**
@@ -712,8 +809,11 @@ A shadow falls across the threshold. Mr. Park (Lvl 5) stands at the door, his ha
 > 👤 **Player:**
 > *"adjust i dont wanna liquidiate I wanna sell the business for someone else to take over"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1400/2700 | Gold: $500 (Park Loan)** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Undocumented Status (Hidden) | Inspiration: Yes**
@@ -746,8 +846,11 @@ Kim (Lvl 1) takes a step toward you, her voice a low, dangerous whisper that cut
 > 👤 **Player:**
 > *"THINK:I decided not to sell since no one wants to buy it. Think about next steps"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1400/2700 | Gold: $500 (Loaned)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Confused | Exhaustion: 0 | Inspiration: Yes**
@@ -757,8 +860,11 @@ Afternoon (15:00:01) at the Silver Lake Storefront—you sit in the back booth, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Grand Exposure - Open the doors immediately for dinner service and post the raw security footage of the white van to Instagram without a curated PR message. Just let the internet scream at Julian. (DC 17 Persuasion/Performance due to Confused status)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 1850/2700 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -778,8 +884,11 @@ You gain **450 XP** for the high-stakes brand vindication. Your reputation in Si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage the Shift - Invite Mrs. Gable and Elias inside for a &#x27;Vindication Meal.&#x27; Use the viral support as leverage to renegotiate the Community Cooperation Agreement on YOUR terms. (DC 15 Persuasion)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **2024 June 19, 17:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 2100/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Bardic Inspiration: 3/3 | Hit Dice: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -806,8 +915,11 @@ Mrs. Gable takes a slow sip of her beer, her rigid posture finally dissolving. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate &amp; Dominate (Synergistic) - Have Marcus take two of the regulars (who are eager to help) to Echo Park to secure the van while you stay to manage the kitchen with Chef Jin. (DC 17 Coordination)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **19, 2024 June (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 2100/2700 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Inspired (Community Support) | Exhaustion: 1 | Inspiration: Yes**
@@ -825,8 +937,11 @@ You gain 250 XP for the synergistic coordination. The 'B-Grade' chicken is repla
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Charges - Call Officer Henderson back. Now that you have the recovered van and the premium stock, push for an immediate arrest warrant for Julian. (DC 16 Intimidation)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Crispy Dreams Storefront** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 2350/2700 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 2/2 | Bardic Inspiration: 3/3 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhausted (Stage 1) | Inspiration: No**
@@ -842,8 +957,11 @@ You gain **200 XP** for the legal victory. The shadow of the Golden Bird is fina
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Private Briefing - Take Kim to the back office. Use your Bardic Insight to finally uncover the truth of her past so you can build a defense before the press finds it. (DC 14 Insight)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Crispy Dreams Back Office** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 17/17 | XP: 2700/2700 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 2/2, Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Exhausted (Stage 1) | Exhaustion: 1 | Inspiration: No**
@@ -865,8 +983,11 @@ As you process Kim's revelation, your phone buzzes. It's a text from Officer Hen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up: Ability Score Improvement - Choose to increase one ability score by 2 or two scores by 1. (e.g., CHA 18 for better leadership or DEX 14/INT 15).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Crispy Dreams Storefront** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 17/17 | XP: 2700/6500 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 3/3 | Inspiration: 3/4 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhausted (Stage 1) | Exhaustion: 1 | Inspiration: No**
@@ -880,8 +1001,11 @@ Outside, the evening crowd on Sunset is already buzzing about the 'Vindication M
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Exclusive Interview - Invite the Silver Lake Independent reporter in. Tell the story of the &#x27;Double Crunch&#x27; and Kim&#x27;s redemption to control the narrative before Chloe Luxe&#x27;s apology finishes the job. (DC 15 Performance)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Crispy Dreams Storefront, Silver Lake** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 17/17 | XP: 2900/6500 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -903,8 +1027,11 @@ You gain **200 XP** for the narrative victory and cementing your reputation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hyper-Local Network - Coordinate Sarah and the high schoolers into an exclusive Silver Lake delivery network using your new leadership skills. (DC 14 Business/Int)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 19, 2024 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 17/17 | XP: 3050/6500 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **Exhausted (Stage 1) | Exhaustion: 1 | Inspiration: No**
@@ -922,8 +1049,11 @@ You gain **150 XP** for the successful logistical rollout. The 'Crispy Dreams' e
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Neighborhood Shield - Use your &#x27;Local Hero&#x27; status to host a &#x27;Community Health &amp; Flavor&#x27; summit, inviting council members to see the &#x27;Healthy Heart&#x27; soya burger in action. (DC 15 Persuasion)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Crispy Dreams Storefront** &nbsp;|&nbsp; ⏳ **June 20, 2024 (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 17/17 | XP: 3250/6500 | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 1/4, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Gold: 350** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -948,8 +1078,11 @@ By the end of the summit, the atmosphere has shifted from scrutiny to celebratio
 > 👤 **Player:**
 > *"pay back mr park"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Mr. Park's Korean Grocery** &nbsp;|&nbsp; ⏳ **June 21, 2024 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 17/17 | XP: 3450/6500 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Inspiration: 3/4, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhausted (Stage 1) | Exhaustion: 1 | Inspiration: No**
@@ -975,8 +1108,11 @@ You gain **200 XP** for finalizing the K-Town partnership and securing your supp
 > 👤 **Player:**
 > *"see what the black sedan is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Crispy Dreams Storefront, Silver Lake** &nbsp;|&nbsp; ⏳ **June 21, 2024 (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 17/17 | XP: 3600/6500 | Gold: $180** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhausted (Stage 1) | Inspiration: Yes**
@@ -994,8 +1130,11 @@ Deputy Mayor Lawson looks at the 'A' grade in the window, then at the fleet of s
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Model Presentation (Synergistic) - Have Kim document the visit for a &#x27;City Partnership&#x27; reel while you walk Lawson through the kitchen and Sarah handles a live delivery dispatch demonstration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Silver Lake Storefront** &nbsp;|&nbsp; ⏳ **June 21, 2024 (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 17/17 | XP: 3600/6500 | Gold: 0** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 3/3 | Inspiration: 3/3 | Gold: $0** &nbsp;|&nbsp; ⚠️ **Exhausted (Stage 1) | Inspiration: Yes**
@@ -1009,6 +1148,8 @@ Kim, trying to capture the chaos for the 'City Partnership' reel, catches a glar
 "The vision is certainly... energetic, Michele," Lawson remarks, his eyes scanning the cluttered dispatch counter. "But Councilwoman Zhang spoke of a 'model.' This looks like a kitchen in the weeds. If the city is going to cite you as a standard, we need to see that your systems can handle the very hype you're generating."
 
 Across the street, Chloe Luxe (Lvl 8) hasn't missed a beat. She’s zoomed in on the bottleneck at the delivery door, her whispered commentary to her followers likely highlighting the 'operational instability' of the neighborhood's new favorite shop.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

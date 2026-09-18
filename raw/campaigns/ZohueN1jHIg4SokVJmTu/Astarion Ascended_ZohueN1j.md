@@ -12,167 +12,181 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🗺️ Scene Index & Timeline
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown |  | Roleplay |
-| **32** | Unknown |  | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | Unknown |  | Roleplay |
-| **39** | Unknown |  | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Unknown |  | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | Unknown |  | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Unknown |  | Roleplay |
-| **58** | Unknown |  | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Unknown |  | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Unknown |  | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Unknown |  | Roleplay |
-| **70** | Unknown |  | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Unknown |  | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Unknown |  | Roleplay |
-| **75** | Unknown |  | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Unknown |  | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Unknown |  | Roleplay |
-| **82** | Unknown |  | Roleplay |
-| **83** | Unknown |  | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Unknown |  | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Unknown |  | Roleplay |
-| **88** | Unknown |  | Roleplay |
-| **89** | Unknown |  | Roleplay |
-| **90** | Unknown |  | Roleplay |
-| **91** | Unknown |  | Roleplay |
-| **92** | Unknown |  | Roleplay |
-| **93** | Unknown |  | Roleplay |
-| **94** | Unknown |  | Roleplay |
-| **95** | Unknown |  | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Unknown |  | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Unknown |  | Roleplay |
-| **100** | Unknown |  | Roleplay |
-| **101** | Unknown |  | Roleplay |
-| **102** | Unknown |  | Roleplay |
-| **103** | Unknown |  | Roleplay |
-| **104** | Unknown |  | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Roleplay |
-| **107** | Unknown |  | Roleplay |
-| **108** | Unknown |  | Roleplay |
-| **109** | Unknown |  | Roleplay |
-| **110** | Unknown |  | Roleplay |
-| **111** | Unknown |  | Roleplay |
-| **112** | Unknown |  | Roleplay |
-| **113** | Unknown |  | Roleplay |
-| **114** | Unknown |  | Roleplay |
-| **115** | Unknown |  | Roleplay |
-| **116** | Unknown |  | Roleplay |
-| **117** | Unknown |  | Roleplay |
-| **118** | Unknown |  | Roleplay |
-| **119** | Unknown |  | Roleplay |
-| **120** | Unknown |  | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Unknown |  | Roleplay |
-| **123** | Unknown |  | Roleplay |
-| **124** | Unknown |  | Roleplay |
-| **125** | Unknown |  | Roleplay |
-| **126** | Unknown |  | Roleplay |
-| **127** | Unknown |  | Roleplay |
-| **128** | Unknown |  | Roleplay |
-| **129** | Unknown |  | Roleplay |
-| **130** | Unknown |  | Roleplay |
-| **131** | Unknown |  | Roleplay |
-| **132** | Unknown |  | Roleplay |
-| **133** | Unknown |  | Roleplay |
-| **134** | Unknown |  | Roleplay |
-| **135** | Unknown |  | Roleplay |
-| **136** | Unknown |  | Roleplay |
-| **137** | Unknown |  | Roleplay |
-| **138** | Unknown |  | Roleplay |
-| **139** | Unknown |  | Roleplay |
-| **140** | Unknown |  | Roleplay |
-| **141** | Unknown |  | Roleplay |
-| **142** | Unknown |  | Roleplay |
-| **143** | Unknown |  | Roleplay |
-| **144** | Unknown |  | Roleplay |
-| **145** | Unknown |  | Roleplay |
-| **146** | Unknown |  | Roleplay |
-| **147** | Unknown |  | Roleplay |
-| **148** | Unknown |  | Roleplay |
-| **149** | Unknown |  | Roleplay |
-| **150** | Unknown |  | Roleplay |
-| **151** | Unknown |  | Roleplay |
+- [🗺️ Scene Index & Timeline (151 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown |  | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+| [**Scene 39**](#scene-39) | Unknown |  | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Unknown |  | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | Unknown |  | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Unknown |  | Roleplay |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Unknown |  | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Unknown |  | Roleplay |
+| [**Scene 70**](#scene-70) | Unknown |  | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Unknown |  | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Unknown |  | Roleplay |
+| [**Scene 75**](#scene-75) | Unknown |  | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Unknown |  | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Unknown |  | Roleplay |
+| [**Scene 82**](#scene-82) | Unknown |  | Roleplay |
+| [**Scene 83**](#scene-83) | Unknown |  | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Unknown |  | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Unknown |  | Roleplay |
+| [**Scene 88**](#scene-88) | Unknown |  | Roleplay |
+| [**Scene 89**](#scene-89) | Unknown |  | Roleplay |
+| [**Scene 90**](#scene-90) | Unknown |  | Roleplay |
+| [**Scene 91**](#scene-91) | Unknown |  | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown |  | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Unknown |  | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown |  | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown |  | Roleplay |
+| [**Scene 100**](#scene-100) | Unknown |  | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown |  | Roleplay |
+| [**Scene 102**](#scene-102) | Unknown |  | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown |  | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown |  | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Unknown |  | Roleplay |
+| [**Scene 109**](#scene-109) | Unknown |  | Roleplay |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+| [**Scene 111**](#scene-111) | Unknown |  | Roleplay |
+| [**Scene 112**](#scene-112) | Unknown |  | Roleplay |
+| [**Scene 113**](#scene-113) | Unknown |  | Roleplay |
+| [**Scene 114**](#scene-114) | Unknown |  | Roleplay |
+| [**Scene 115**](#scene-115) | Unknown |  | Roleplay |
+| [**Scene 116**](#scene-116) | Unknown |  | Roleplay |
+| [**Scene 117**](#scene-117) | Unknown |  | Roleplay |
+| [**Scene 118**](#scene-118) | Unknown |  | Roleplay |
+| [**Scene 119**](#scene-119) | Unknown |  | Roleplay |
+| [**Scene 120**](#scene-120) | Unknown |  | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Unknown |  | Roleplay |
+| [**Scene 123**](#scene-123) | Unknown |  | Roleplay |
+| [**Scene 124**](#scene-124) | Unknown |  | Roleplay |
+| [**Scene 125**](#scene-125) | Unknown |  | Roleplay |
+| [**Scene 126**](#scene-126) | Unknown |  | Roleplay |
+| [**Scene 127**](#scene-127) | Unknown |  | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown |  | Roleplay |
+| [**Scene 129**](#scene-129) | Unknown |  | Roleplay |
+| [**Scene 130**](#scene-130) | Unknown |  | Roleplay |
+| [**Scene 131**](#scene-131) | Unknown |  | Roleplay |
+| [**Scene 132**](#scene-132) | Unknown |  | Roleplay |
+| [**Scene 133**](#scene-133) | Unknown |  | Roleplay |
+| [**Scene 134**](#scene-134) | Unknown |  | Roleplay |
+| [**Scene 135**](#scene-135) | Unknown |  | Roleplay |
+| [**Scene 136**](#scene-136) | Unknown |  | Roleplay |
+| [**Scene 137**](#scene-137) | Unknown |  | Roleplay |
+| [**Scene 138**](#scene-138) | Unknown |  | Roleplay |
+| [**Scene 139**](#scene-139) | Unknown |  | Roleplay |
+| [**Scene 140**](#scene-140) | Unknown |  | Roleplay |
+| [**Scene 141**](#scene-141) | Unknown |  | Roleplay |
+| [**Scene 142**](#scene-142) | Unknown |  | Roleplay |
+| [**Scene 143**](#scene-143) | Unknown |  | Roleplay |
+| [**Scene 144**](#scene-144) | Unknown |  | Roleplay |
+| [**Scene 145**](#scene-145) | Unknown |  | Roleplay |
+| [**Scene 146**](#scene-146) | Unknown |  | Roleplay |
+| [**Scene 147**](#scene-147) | Unknown |  | Roleplay |
+| [**Scene 148**](#scene-148) | Unknown |  | Roleplay |
+| [**Scene 149**](#scene-149) | Unknown |  | Roleplay |
+| [**Scene 150**](#scene-150) | Unknown |  | Roleplay |
+| [**Scene 151**](#scene-151) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -189,8 +203,11 @@ Please specify your preference for the D&D 5e ruleset. Will you be providing the
 > 👤 **Player:**
 > *"Do your best dnd 5e ruleset. I won't upload"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -220,8 +237,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. Any companions from bg3 to ally with?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -276,8 +296,11 @@ What do you do?
 > 👤 **Player:**
 > *"What class am I"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -328,8 +351,11 @@ What do you do?
 > 👤 **Player:**
 > *"What's my level and class"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -380,8 +406,11 @@ What do you do?
 God Mode:
 Make me a level 5 gloomstalker and level 7 rogue and level 12 total. Let me pick feats and make other choices. I am an assassin rogue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -525,8 +554,11 @@ Please make your choices for Astarion's abilities. I will remain in DM MODE unti
 > 👤 **Player:**
 > *"1) ASE dex 2 times"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -618,8 +650,11 @@ Please make your remaining choices for Astarion's abilities.
 7) fog cloud, speak animals, cure wounds, longstrider
 pass without trace, spike growth, darkvision, beast sense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -705,8 +740,11 @@ God Mode:
 4 give me choices
 5 pick for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -811,8 +849,11 @@ God Mode:
 
 Also make me start gloomstalker up to level 5 and then 7 remaining assassin levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -953,8 +994,11 @@ What do you do?
 God Mode:
 As a ranger don't i get medium armor?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -1037,8 +1081,11 @@ What do you do?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -1056,8 +1103,11 @@ I am now in DM MODE. What would you like to discuss or adjust?
 God Mode:
 Sunlight Hypersensitivity* makes no sense. I am Astarion and I ascended. Are you familiar with bg3?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -1091,8 +1141,11 @@ Please review this proposed change to Astarion's character sheet. Do you **confi
 God Mode:
 more changes. Where's my necrotic damage?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1143,8 +1196,11 @@ Please review both proposed changes. Do you **confirm and approve** these modifi
 God Mode:
 I have an extra 1d10 necrotic to all attacks. Did you forget?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1188,8 +1244,11 @@ Propose some more lore appropriate buffs or abilities because Astarion is acende
 
 Ensure there are some enemies, threats, plotlines that challenge my powerful character
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1336,8 +1395,11 @@ Please review the proposed rules for **[Change ID: 20240728-D]** and **[Change I
 God Mode:
 approval all 3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -1492,8 +1554,11 @@ What do you do?
 God Mode:
 DM note: as a ranger I should have medium armor. 5 whys on why you missed this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1659,8 +1724,11 @@ What do you do?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1697,8 +1765,11 @@ approved 20240728-F
 
 And shouldn't I have medium armor since i started as a ranger?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1807,8 +1878,11 @@ What else would you like to discuss or adjust in DM MODE?
 God Mode:
 5 whys. Why did you get medium armor wrong?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1939,8 +2013,11 @@ I will remain in DM MODE until this is addressed. What else would you like to di
 God Mode:
 approve all changes and back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -2002,8 +2079,11 @@ What do you do?
 > 👤 **Player:**
 > *"ApproachGale_1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -2028,8 +2108,11 @@ What do you do?
 God Mode:
 Give me some initial followers, gold, income. I just took over everything from cazador. I might not be running it at all capacity but I should have something to start with and live in cazador mansion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -2075,8 +2158,11 @@ Please review this proposed change to Astarion's starting resources and lair. Do
 God Mode:
 approve
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -2119,8 +2205,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. plan for how to ally with gale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -2166,8 +2255,11 @@ What do you do?
 
 How. tired am i?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -2221,8 +2313,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. I want long term. Maybe I just wait and seek out other allies. Remind me if I have something better to offer him later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -2269,8 +2364,11 @@ What do you do?
 > 👤 **Player:**
 > *"D and then C and then A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -2297,8 +2395,11 @@ What do you do?
 > 👤 **Player:**
 > *"I want to scout cellars, who are my strongest warriors who can help me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -2323,8 +2424,11 @@ What do you do?
 > 👤 **Player:**
 > *"scout it out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -2349,8 +2453,11 @@ What do you do?
 > 👤 **Player:**
 > *"check it out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 
@@ -2382,8 +2489,11 @@ What do you do?
 > 👤 **Player:**
 > *"ExploitPotential_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -2418,8 +2528,11 @@ What do you do?
 > 👤 **Player:**
 > *"assess my minion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -2442,8 +2555,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. how to best use this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -2488,8 +2604,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. how much human staff do i have? Will I run out if I do this? LairSentinel_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -2520,8 +2639,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. Where can i kidnap more human staff?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -2562,8 +2684,11 @@ What do you do?
 > 👤 **Player:**
 > *"AbductSlumsDocks_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -2616,8 +2741,11 @@ What do you do?
 > 👤 **Player:**
 > *"ForgeNewConnections_3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 
@@ -2674,8 +2802,11 @@ What do you do?
 
 Do you want to make an Intelligence check to distinguish how much of your doubt is due to genuine risk versus simple exhaustion?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -2736,8 +2867,11 @@ What do you do?
 > 👤 **Player:**
 > *"DiversifyObserve_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -2782,8 +2916,11 @@ What do you do?
 > 👤 **Player:**
 > *"InvestigateFigures_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -2834,8 +2971,11 @@ What do you do?
 > 👤 **Player:**
 > *"TailCapture_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -2862,8 +3002,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. can i capture both of them. i am an ascended vampire and powerful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -2906,8 +3049,11 @@ What do you do?
 > 👤 **Player:**
 > *"ObserveRetreat_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -2952,8 +3098,11 @@ What do you do?
 > 👤 **Player:**
 > *"RiskExposure_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -3000,8 +3149,11 @@ What do you do?
 > 👤 **Player:**
 > *"DealWithUrchin_C and then think about mitigating risks for InfiltrateTownhouse_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 
@@ -3073,8 +3225,11 @@ What do you do?
 > 👤 **Player:**
 > *"Diversion_C and then MagicalProbe_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -3130,8 +3285,11 @@ What do you do?
 > 👤 **Player:**
 > *"InfiltrateNow_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -3185,8 +3343,11 @@ What do you do?
 > 👤 **Player:**
 > *"ExploreBasement_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -3229,8 +3390,11 @@ What do you do?
 God Mode:
 DisableWard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -3292,8 +3456,11 @@ What do you do?
 > 👤 **Player:**
 > *"ListenObserve_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -3348,8 +3515,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. I have a few hours. How to best handle these guys or take over their op"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -3417,8 +3587,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. What if I do InternalDiversion_D and then IncapacitateAndSubjugate_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 
@@ -3475,8 +3648,11 @@ What do you do?
 > 👤 **Player:**
 > *"DM note: give me some gear appropriate to level 12. Look at all gear from bg3 and give me the best pieces possible for my build"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -3586,8 +3762,11 @@ What do you do?
 God Mode:
 DM note: give me bhaalist amulet that gives piercing vuln
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -3720,8 +3899,11 @@ Please review this proposed addition and make your choice for Astarion's amulet.
 God Mode:
 approve and equip bhaalist amulet. back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 
@@ -3871,8 +4053,11 @@ What do you do?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -3899,8 +4084,11 @@ Missions List:
 *   **Active Missions:**
     *   **Solidify Ascended Power**: Establish a stronghold and gather resources to enhance personal influence and capabilities. [original idea]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -3958,8 +4146,11 @@ What do you do?
 God Mode:
 SubjugateAgents_A
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 
@@ -4055,8 +4246,11 @@ What do you do?
 > 👤 **Player:**
 > *"InterrogateAgents_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -4107,8 +4301,11 @@ What do you do?
 > 👤 **Player:**
 > *"Ask if Xykon is the overall leader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -4157,8 +4354,11 @@ What do you do?
 > 👤 **Player:**
 > *"charm Xykon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -4217,8 +4417,11 @@ What do you do?
 > 👤 **Player:**
 > *"IncapacitateXykon_B and get charmed agents to restrain him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -4285,8 +4488,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. Should I try to wake up him and reactivate ritual so I can use it  or bring him back to cazador palace?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -4329,8 +4535,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. what about keep him tied up, agent dagger to his throat to threaten, try charm, if fails  threaten, force him to make ritual work for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -4385,8 +4594,11 @@ What do you do?
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -4429,8 +4641,11 @@ What do you do?
 > 👤 **Player:**
 > *"MaximizeHarvest_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -4475,8 +4690,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. What if I turn xykon into my spawn now first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 
@@ -4524,8 +4742,11 @@ What do you do?
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 
@@ -4543,8 +4764,11 @@ I am now in DM MODE. What would you like to discuss or adjust?
 God Mode:
 You're ignoring my think command. I wanted to think about making him a spawn, not do it yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -4630,8 +4854,11 @@ Please review the proposed amendment **[Change ID: 20240728-J]**. Do you **confi
 God Mode:
 confirm and approve and back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 
@@ -4684,8 +4911,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. What if i make Xykon  a spawn?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -4714,8 +4944,11 @@ What do you do?
 > 👤 **Player:**
 > *"charm him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 
@@ -4772,8 +5005,11 @@ What do you do?
 > 👤 **Player:**
 > *"CommandXykonDevice_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 
@@ -4814,8 +5050,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. What if I use the device now to influence things to improve my faction in a subtle way? Get more servants, agents, warriors, gold etc?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -4866,8 +5105,11 @@ What do you do?
 > 👤 **Player:**
 > *"ConsolidateStudy_D"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -4892,8 +5134,11 @@ What do you do?
 > 👤 **Player:**
 > *"DM note: stay in story mode but answer this. Are you still doing the 20% failure chance thing?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 
@@ -4952,8 +5197,11 @@ What do you do?
 > 👤 **Player:**
 > *"InterrogateXykon_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -5000,8 +5248,11 @@ What do you do?
 > 👤 **Player:**
 > *"Ask Xykon what to do best next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -5047,8 +5298,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. how many agents do I have now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 
@@ -5094,8 +5348,11 @@ What do you do?
 
 DM note: i should only have xykon and one agent right? Don't leave story mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 
@@ -5165,8 +5422,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. if i do InfiltrateSabotage_D what can i do meantime"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 
@@ -5217,8 +5477,11 @@ What do you do?
 > 👤 **Player:**
 > *"Order my agents to proceed and I will do CultivateBrood_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -5269,8 +5532,11 @@ What do you do?
 > 👤 **Player:**
 > *"ExpandBrood_A and I will go out myself to find more human staff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 
@@ -5329,8 +5595,11 @@ What do you do?
 > 👤 **Player:**
 > *"SecurePalace_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 
@@ -5379,8 +5648,11 @@ What do you do?
 > 👤 **Player:**
 > *"InvestigatePaladin_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 
@@ -5443,8 +5715,11 @@ What do you do?
 > 👤 **Player:**
 > *"how much exp did i gain recently from taking over xython and all that stuff?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 
@@ -5531,8 +5806,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. Can i do this in a diff party of the city where paladin wont notice? MaxBrood_D"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 
@@ -5576,8 +5854,11 @@ What do you do?
 > 👤 **Player:**
 > *"MaxBroodInternal_A and keep surveilling the paladin. Use my special psychic network. Find a good time to strike and try to figure out partner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 
@@ -5632,8 +5913,11 @@ What do you do?
 God Mode:
 lets rename some of these characters. You always generate the same names like lyra as a first name or blackwood as a last name.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 
@@ -5656,8 +5940,11 @@ Please let me know how you would like to proceed with renaming characters. I wil
 God Mode:
 option C. and tell me who you renamed if my character encountered them already
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -5733,8 +6020,11 @@ Please review the options and let me know your choices for the new names. I will
 God Mode:
 Pick for me and lets keep Xykon. Just tell me what you pick
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -5781,8 +6071,11 @@ Please review these selected names. Do you **confirm and approve** these name ch
 God Mode:
 approve and go back to story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -5856,8 +6149,11 @@ What do you do?
 
 AssaultShrine_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 
@@ -5903,8 +6199,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. If i kill them will others come to followup? how can I tie this up for now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -5952,8 +6251,11 @@ What do you do?
 > 👤 **Player:**
 > *"OverwhelmDisappear_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 
@@ -6043,8 +6345,11 @@ What do you do?
 > 👤 **Player:**
 > *"CultivateMoreStaff_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -6089,8 +6394,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. who is my smartest follower?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 
@@ -6138,8 +6446,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. Will Xykon stay charmed? how can i properly control him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 
@@ -6190,8 +6501,11 @@ What do you do?
 
  **Option C: Psychological & Physical Conditioning.**"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 
@@ -6254,8 +6568,11 @@ What do you do?
 > 👤 **Player:**
 > *"tell my followers to keep a low profile for now and I do DeepenPsionics_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 
@@ -6312,8 +6629,11 @@ What do you do?
 > 👤 **Player:**
 > *"What experience did I get from recent events? Need to keep telling me explicitly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 
@@ -6399,8 +6719,11 @@ What do you do?
 > 👤 **Player:**
 > *"which of my followers are autonomous? i wanna make xykon autonomous. He is still charmed but doings things on his own accoridng to my goals and asks me if a big deicions needs to be made"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 
@@ -6463,8 +6786,11 @@ What do you do?
 > 👤 **Player:**
 > *"DevelopPsionic_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -6517,8 +6843,11 @@ What do you do?
 > 👤 **Player:**
 > *"ConsolidateOperations_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -6567,8 +6896,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. what about CrimsonGuardSabotage_C and i personally attack them while xykon does his thing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -6618,8 +6950,11 @@ What do you do?
 > 👤 **Player:**
 > *"lets approach gale with alliance first and then ask for his help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 
@@ -6666,8 +7001,11 @@ What do you do?
 > 👤 **Player:**
 > *"RetreatReevaluate_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 
@@ -6718,8 +7056,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. can i make someone automously always do this without triggering too much scrutiny? CultivateMoreStaff_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -6763,8 +7104,11 @@ What do you do?
 > 👤 **Player:**
 > *"AutomatePsionic_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 
@@ -6817,8 +7161,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. should i make her a spawn Morwen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 
@@ -6879,8 +7226,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. can i have Xykon himself plan how to turn himself loyal if charm fails"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 
@@ -6926,8 +7276,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. can Xykon himself plan to de-risk the downsides if i make him a spawn?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 
@@ -6977,8 +7330,11 @@ What do you do?
 
 Why would she lose capabilities? Did Astarion lose anything when cazador converted?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 
@@ -7041,8 +7397,11 @@ What do you do?
 > 👤 **Player:**
 > *"Have xykon plan for this  inthe background and keep thinking about ways to reduce risks. Let me know when the downside risk are like 5% Option C: Controlled Transformation (Xykon-Guided Spawn Conversion).*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 
@@ -7088,8 +7447,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. could i just make Morwen and xykon full vamp? pros/cons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 
@@ -7139,8 +7501,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. any way to reduce risks EnhancedControlledTransformation_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 
@@ -7186,8 +7551,11 @@ What do you do?
 > 👤 **Player:**
 > *"AncestralInfusion_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 
@@ -7238,8 +7606,11 @@ What do you do?
 > 👤 **Player:**
 > *"Xykon what should you do next to further my ambitions?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 
@@ -7294,8 +7665,11 @@ What do you do?
 
 in the meantime i will scout around for enemies and other allies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -7342,8 +7716,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. can is stealth first before doing this so he doesn't see me? InvestigateDockworker_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 
@@ -7388,8 +7765,11 @@ What do you do?
 > 👤 **Player:**
 > *"PersonalObserve_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 
@@ -7452,8 +7832,11 @@ What do you do?
 > 👤 **Player:**
 > *"RetreatAnalyze_B and get my agents to do CultivateStaff_D in their free time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 
@@ -7542,8 +7925,11 @@ What do you do?
 > 👤 **Player:**
 > *"DeepenPsionicsFlayer_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 
@@ -7604,8 +7990,11 @@ What do you do?
 > 👤 **Player:**
 > *"enter dm mode: this is already finished right?  While Xykon himself continued to plan for his own ultimate subjugation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 
@@ -7669,8 +8058,11 @@ What do you do?
 > 👤 **Player:**
 > *"enter dm mode and stay there. Why did we mess up xkyon? that was an important plot detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 
@@ -7805,8 +8197,11 @@ Please review the proposed amendment **[Change ID: 20240728-K.1]**. Do you **con
 God Mode:
 approved the change
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 
@@ -7867,8 +8262,11 @@ What do you do?
 > 👤 **Player:**
 > *"EliminateSentinel_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 
@@ -7971,8 +8369,11 @@ What do you do?
 God Mode:
 swap in belm instead of bloodthirst. are you familiar with the special mechanic where i can do full dmg attack with bonus action? don't make me give up a turn
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 
@@ -8109,8 +8510,11 @@ Please review this proposed equipment update for Astarion. Do you **confirm and 
 God Mode:
 approve and back to story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 
@@ -8169,8 +8573,11 @@ What do you do?
 > 👤 **Player:**
 > *"anything to mitigate risk? what if i'm careful and avoid combat? InfiltrateWarehouse_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 
@@ -8223,8 +8630,11 @@ What do you do?
 > 👤 **Player:**
 > *"InfiltrateWarehouse_Refined_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 
@@ -8327,8 +8737,11 @@ What do you do?
 > 👤 **Player:**
 > *"ObserveProbe_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 
@@ -8387,8 +8800,11 @@ What do you do?
 > 👤 **Player:**
 > *"think, why is this so low success ConfrontMindFlayer_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 
@@ -8456,8 +8872,11 @@ What do you do?
 God Mode:
 DM note: astarion was thinking as his character, did not want DM mode answer
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 
@@ -8546,8 +8965,11 @@ What do you do?
 > 👤 **Player:**
 > *"RetreatPlanXykon_C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 
@@ -8595,8 +9017,11 @@ What do you do?
 > 👤 **Player:**
 > *"PsionicCounter_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 
@@ -8655,8 +9080,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. if i knock it out can i successfully capture it? AssaultFlayer_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 
@@ -8785,8 +9213,11 @@ What do you do?
 > 👤 **Player:**
 > *"ExtractFungi_A then SecureFlayer_B"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 
@@ -8835,8 +9266,11 @@ What do you do?
 > 👤 **Player:**
 > *"Think. can i do this ReturnToPalace_Dand get agents to do to A, B, C"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 
@@ -8865,8 +9299,11 @@ What do you do?
 > 👤 **Player:**
 > *"*I will return to the palace with my prize immediately. My spawn can dispose of the devourers and any remaining fungi, ensuring no resurgence. Morwen can methodically search the entire warehouse, her keen eye missing nothing. My personal touch is no longer needed here; my agents will tie up these threads, leaving this place cleansed and cataloged, its secrets laid bare for my eventual perusal. This approach ensures maximum efficiency with minimal personal risk.*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 
@@ -8915,8 +9352,11 @@ What do you do?
 > 👤 **Player:**
 > *"think. can someone else do this? morwen? CultivateStaff_D"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 
@@ -8990,8 +9430,11 @@ What do you do?
 > 👤 **Player:**
 > *"any way to reduce risks? DissectFlayer_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 
@@ -9058,8 +9501,11 @@ With these methods of risk mitigation in mind, you were ready to proceed.
 > 👤 **Player:**
 > *"psionic shield and DissectFlayer_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 
@@ -9125,8 +9571,11 @@ What do you do?
 > 👤 **Player:**
 > *"what else can i use mindflayer for?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 
@@ -9172,8 +9621,11 @@ What do you do?
 > 👤 **Player:**
 > *"ResearchFlayer_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 
@@ -9239,8 +9691,11 @@ What do you do?
 > 👤 **Player:**
 > *"think anything else to do with mindflayer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 
@@ -9307,8 +9762,11 @@ What do you do?
 > 👤 **Player:**
 > *"Ask Xykon what to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 
@@ -9375,8 +9833,11 @@ What do you do?
 > 👤 **Player:**
 > *"ResearchFlayer_A"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 
@@ -9443,8 +9904,11 @@ What do you do?
 God Mode:
 DM note: I already chose ResearchFlayer_A. Why didn't we proceed?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 
@@ -9687,6 +10151,8 @@ Missions List:
 The plan. Meticulously crafted, chillingly precise. The illithid colony would fall, piece by piece, their own network turned against them. "Xykon," you commanded, your voice a low, resonant hum, "Phase One. Begin psychic reconnaissance. Unravel their communications. Sow discord among their thralls. Find their weaknesses. And tell me what other connections they possess."
 
 Xykon, the First Spawn, bowed his masked head in silent obedience. From within his warded chamber, his formidable psionic intellect pulsed outwards, no longer engaged in subtle staff recruitment but focused entirely on the alien network of the Undercity illithids. He became a ghost in their psychic currents, his presence shielded by your shared knowledge of illithid psionics, probing, listening, and subtly twisting the tendrils of their communication. He navigated the Elder Brain's vast mental landscape, identifying key nodes, mapping the flow of commands, and
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

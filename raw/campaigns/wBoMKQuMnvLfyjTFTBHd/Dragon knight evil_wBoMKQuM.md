@@ -12,6 +12,18 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🗺️ Scene Index & Timeline (500 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -45,6 +57,7 @@ This is your first major deployment as a newly-sworn knight in the “Argent Eag
 **Starting Abilities:**
 You begin with Level 1 Paladin abilities: Divine Sense and Lay on Hands. Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power.
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -95,516 +108,521 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Winter-Mourn Province | Kythorn 15, 40 A.G. (08:00) | Roleplay |
-| **02** | Ashwood Keep - Perimeter | Kythorn 2, 11 New Peace (05:45) | Roleplay |
-| **03** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50) | Roleplay |
-| **04** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50 (Dawn)) | Roleplay |
-| **05** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50) | Roleplay |
-| **06** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50) | Roleplay |
-| **07** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (06:10) | Roleplay |
-| **08** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (06:45) | Roleplay |
-| **09** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:15) | Roleplay |
-| **10** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:25) | Roleplay |
-| **11** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:35) | Roleplay |
-| **12** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:35) | Roleplay |
-| **13** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:45) | Roleplay |
-| **14** | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (08:15) | Roleplay |
-| **15** | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
-| **16** | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
-| **17** | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
-| **18** | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
-| **19** | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:30) | Roleplay |
-| **20** | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:35) | Roleplay |
-| **21** | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:35) | Roleplay |
-| **22** | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:45) | Roleplay |
-| **23** | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:50) | Roleplay |
-| **24** | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (08:50) | Roleplay |
-| **25** | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (09:05) | Roleplay |
-| **26** | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (09:10) | Roleplay |
-| **27** | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **28** | Ashwood Keep - Solar Corridor | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **29** | Ashwood Keep - Solar Corridor | Mirtul 15, 1492 DR (09:05) | Roleplay |
-| **30** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **31** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **32** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **33** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **34** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **35** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:15) | Roleplay |
-| **36** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:15) | Roleplay |
-| **37** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **38** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **39** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
-| **40** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:20) | Roleplay |
-| **41** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:20) | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:25) | Roleplay |
-| **44** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:25) | Roleplay |
-| **45** | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (10:15) | Roleplay |
-| **46** | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (10:45) | Roleplay |
-| **47** | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (11:15) | Roleplay |
-| **48** | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (11:20) | Roleplay |
-| **49** | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (11:30) | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (12:30) | Roleplay |
-| **53** | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (12:45) | Roleplay |
-| **54** | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (12:50) | Roleplay |
-| **55** | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (13:05) | Roleplay |
-| **56** | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:35) | Roleplay |
-| **57** | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:35) | Roleplay |
-| **58** | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:35) | Roleplay |
-| **59** | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:50) | Roleplay |
-| **60** | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (14:05) | Roleplay |
-| **61** | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (14:10) | Roleplay |
-| **62** | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (14:15) | Roleplay |
-| **63** | Ashwood Keep - Central Courtyard | Mirtul 15, 1492 DR (15:30) | Roleplay |
-| **64** | Ashwood Keep - Gatehouse Interior | Mirtul 15, 1492 DR (15:45) | Roleplay |
-| **65** | Ashwood Keep - Central Courtyard | Mirtul 15, 1492 DR (15:45) | Roleplay |
-| **66** | Ashwood Keep - Central Courtyard | Mirtul 15, 1492 DR (16:15) | Roleplay |
-| **67** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:30) | Roleplay |
-| **68** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:45) | Roleplay |
-| **69** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:30) | Roleplay |
-| **70** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:45) | Roleplay |
-| **71** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:55) | Roleplay |
-| **72** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:59) | Roleplay |
-| **73** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:30) | Roleplay |
-| **74** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:59) | Roleplay |
-| **75** | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:59) | Roleplay |
-| **76** | Ashwood Keep - Command Tent | Mirtul 16, 1492 DR (01:30) | Roleplay |
-| **77** | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (09:45) | Roleplay |
-| **78** | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (09:45) | Roleplay |
-| **79** | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:15) | Roleplay |
-| **80** | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:15) | Roleplay |
-| **81** | Aeterna - The Imperial Spire (Inner Sanctum) | Mirtul 16, 1492 DR (10:20) | Roleplay |
-| **82** | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:30) | Roleplay |
-| **83** | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:20) | Roleplay |
-| **84** | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:25) | Roleplay |
-| **85** | Aeterna - Imperial Spire Barracks | Mirtul 16, 1492 DR (11:30) | Roleplay |
-| **86** | Aeterna - Imperial Spire Archives | Mirtul 16, 1492 DR (12:45) | Roleplay |
-| **87** | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (14:30) | Roleplay |
-| **88** | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (1 midday) | Roleplay |
-| **89** | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:30) | Roleplay |
-| **90** | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:45) | Roleplay |
-| **91** | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:50) | Roleplay |
-| **92** | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:50) | Roleplay |
-| **93** | Unknown |  | Roleplay |
-| **94** | Aeterna - Principate Senate Hall | Month 12 Day 31, 2025 DR (15:50) | Roleplay |
-| **95** | Aeterna - Principate Senate Hall | Kythorn Day 2, Year 11 of the New Peace (16:15) | Roleplay |
-| **96** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:30) | Roleplay |
-| **97** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:35) | Roleplay |
-| **98** | Aeterna - Principate Senate Hall | Mirtul 31, 2025 DR (16:45) | Roleplay |
-| **99** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:50) | Roleplay |
-| **100** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:55) | Roleplay |
-| **101** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (17:10) | Roleplay |
-| **102** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (17:10) | Roleplay |
-| **103** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (17:35) | Roleplay |
-| **104** | Aeterna - Principate Senate Hall | 12 31, 2025 DR (18:15) | Roleplay |
-| **105** | Aeterna - Principate Senate Hall | Day 2, Year 11 New Peace (Midnight) | Roleplay |
-| **106** | Aeterna - Cloister of Ash | Kythorn Day 2, Year 11 of the New Peace (00:00 (Midnight)) | Roleplay |
-| **107** | Unknown |  | Roleplay |
-| **108** | Aeterna - Cloister of Ash | 2025 DR, Night | Roleplay |
-| **109** | Aeterna - Cloister of Ash | 12 31, 2025 DR (00:00) | Roleplay |
-| **110** | Aeterna - Cloister of Ash | 12 31, 2025 DR (00:05) | Roleplay |
-| **111** | Aeterna - Spire Logistics Hub | Hammer 1, 2026 DR (08:00) | Roleplay |
-| **112** | Aeterna - Spire Logistics Hub | 1 1, 2026 DR (09:00) | Roleplay |
-| **113** | Aeterna - Spire Logistics Hub | 1 1, 2026 DR (13:00) | Roleplay |
-| **114** | Aeterna - Spire Logistics Hub | January 1, 2026 DR (17:00) | Roleplay |
-| **115** | Imperial Spire - Regent's Sanctum | Month 1, 2026 DR (Day 1) | Roleplay |
-| **116** | Imperial Spire - Regent's Sanctum | Month 1, 2026 DR (Day 1) | Roleplay |
-| **117** | Imperial Spire - Regent's Sanctum | 1 1, 2026 DR (19:15) | Roleplay |
-| **118** | Imperial Spire - Regent's Sanctum | 1 1, 2026 DR (19:45) | Roleplay |
-| **119** | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (20:30) | Roleplay |
-| **120** | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (20:40) | Roleplay |
-| **121** | Imperial Spire - Southern Gatehouse | Month 1 Day 1, 2026 DR (21:00) | Roleplay |
-| **122** | Imperial Spire - Southern Gatehouse | 2026-01-01, Night | Roleplay |
-| **123** | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (21:05) | Roleplay |
-| **124** | Imperial Spire - Southern Gatehouse | Kythorn 1, 2026 DR (21:05) | Roleplay |
-| **125** | Imperial Spire - Southern Gatehouse | Month 1, 2026 DR (Day 1) | Roleplay |
-| **126** | Imperial Spire - Southern Gatehouse | Kythorn 1, 2026 DR (21:15) | Roleplay |
-| **127** | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (21:15) | Roleplay |
-| **128** | Imperial Spire - Southern Gatehouse | Kythorn 2, 2026-01-01 (21:15) | Roleplay |
-| **129** | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (21:25) | Roleplay |
-| **130** | Imperial Spire - Southern Gatehouse | 2026-01-01T21:25:00Z | Roleplay |
-| **131** | Imperial Spire - Southern Gatehouse | Month 1, 2026 DR (Day 1) | Roleplay |
-| **132** | Imperial Spire - Southern Gatehouse | Month 1 Day 1, 2026 DR (22:05) | Roleplay |
-| **133** | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (22:15) | Roleplay |
-| **134** | Imperial Spire - Southern Gatehouse | Month 1, 2026 DR (Day 1) | Roleplay |
-| **135** | Great Southern Road - Outskirts of Aeterna | 1 2, 2026 DR (05:30) | Roleplay |
-| **136** | Great Southern Road - Outskirts of Aeterna | Month 1, 2026 DR (Day 2) | Roleplay |
-| **137** | Great Southern Road - Outskirts of Aeterna | Month 1 Day 2, 2026 DR (06:30) | Roleplay |
-| **138** | Great Southern Road - Outskirts of Aeterna | 1 2, 2026 DR (06:30) | Roleplay |
-| **139** | Great Southern Road - Outskirts of Aeterna | 1 2, 2026 DR (08:30) | Roleplay |
-| **140** | Great Southern Road - Outskirts of Aeterna | Month 1, 2026 DR (Day 2) | Roleplay |
-| **141** | Great Southern Road - Outskirts of Aeterna | Kythorn 2, 2026 DR (09:30) | Roleplay |
-| **142** | Spires of Ash - Western Approach | 1 2, 2026 DR (09:45) | Roleplay |
-| **143** | Spires of Ash | 1 2, 2026 DR (09:46) | Roleplay |
-| **144** | Spires of Ash | 2026-01-02T09:47:00Z | Roleplay |
-| **145** | Spires of Ash (Occupied) | Month 1 Day 2, 2026 DR (10:15) | Roleplay |
-| **146** | Spires of Ash | 2026-01-02, Morning | Roleplay |
-| **147** | Spires of Ash (Secured Relay) | 1 2, 2026 DR (10:15) | Roleplay |
-| **148** | Spires of Ash | Month 1, 2026 DR (Day 2) | Roleplay |
-| **149** | Spires of Ash | Month 1 Day 2, 2026 DR (10:20) | Roleplay |
-| **150** | Spires of Ash (Secured Relay) | Month 1, 2026 DR (Day 2) | Roleplay |
-| **151** | Spires of Ash (Secured Relay) | 2026-01-02, 10:20:01 | Roleplay |
-| **152** | Spires of Ash | Hammer 2, 1492 DR (10:20) | Roleplay |
-| **153** | Spires of Ash | 2026-01-02, Morning | Roleplay |
-| **154** | Spires of Ash | Month 1 Day 2, 2026 DR (10:20) | Roleplay |
-| **155** | Spires of Ash | Month 1, 2026 DR (Day 2) | Roleplay |
-| **156** | Spires of Ash | 1 2, 2026 DR (10:35) | Roleplay |
-| **157** | The Iron Gates - Main Bridge | Kythorn 2, 2026 DR (11:15) | Roleplay |
-| **158** | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
-| **159** | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
-| **160** | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
-| **161** | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (11:30) | Roleplay |
-| **162** | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (12:05) | Roleplay |
-| **163** | The Iron Gates - Main Bridge | 2026-01-02, Midday | Roleplay |
-| **164** | The Iron Gates - Main Bridge | Mirtul 15, 1492 DR (12:15) | Roleplay |
-| **165** | The Iron Gates - Main Bridge | 1 2, 2026 DR (12:20) | Roleplay |
-| **166** | The Iron Gates - Main Bridge | 1 2, 2026 DR (12:35) | Roleplay |
-| **167** | The Iron Gates - Main Bridge | 1 2, 2026 DR (13:05) | Roleplay |
-| **168** | The Iron Gates - Main Bridge | 2026-01-02, Midday | Roleplay |
-| **169** | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
-| **170** | The Iron Gates - Main Bridge | 1 2, 2026 DR (13:35) | Roleplay |
-| **171** | The Iron Gates - Master Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
-| **172** | The Iron Gates - Main Bridge | 1 2, 2026 DR (14:15) | Roleplay |
-| **173** | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (14:15) | Roleplay |
-| **174** | The Iron Gates - Main Bridge | Mirtul 15, 1492 DR (14:35) | Roleplay |
-| **175** | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
-| **176** | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (14:45) | Roleplay |
-| **177** | The Iron Gates - Main Bridge | 1 2, 2026 DR (15:30) | Roleplay |
-| **178** | The Iron Gates - Main Bridge | 1 2, 2026 DR (16:00) | Roleplay |
-| **179** | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (16:30) | Roleplay |
-| **180** | The Iron Gates - Main Bridge | 2026-01-02T16:30:00Z | Roleplay |
-| **181** | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (16:30) | Roleplay |
-| **182** | The Iron Gates - Main Bridge | 2026-01-02, Afternoon | Roleplay |
-| **183** | The Iron Gates - Main Bridge | 2026-01-02T16:35:00.000001Z | Roleplay |
-| **184** | The Iron Gates - Main Bridge | Month 1, 2026 NE (Day 2) | Roleplay |
-| **185** | The Iron Gates - Southern Crags (Approaching Echo-Point Gamma) | 2026-01-02, 17:05 | Roleplay |
-| **186** | The Iron Gates - Southern Crags (Thorne Crypt Entrance) | 2026-01-02, 17:15 | Roleplay |
-| **187** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Afternoon (17:20) | Roleplay |
-| **188** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02T17:15:00.000000Z | Roleplay |
-| **189** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Afternoon | Roleplay |
-| **190** | Thorne Crypts - Level 1 (Upper Scriptorium) | Month 1, 2026 NE (Day 2) | Roleplay |
-| **191** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Afternoon | Roleplay |
-| **192** | Thorne Crypts - Level 1 (Upper Scriptorium) | Afternoon, 2026-01-02 (17:45) | Roleplay |
-| **193** | Thorne Crypts - Level 1 (Upper Scriptorium) | January 2, 2026 DR (18:00) | Roleplay |
-| **194** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 17:45 | Roleplay |
-| **195** | Thorne Crypts - Level 1 (Upper Scriptorium) | January 2, 2026 Assiah (18:00) | Roleplay |
-| **196** | Thorne Crypts - Level 1 (Upper Scriptorium) | Month 1 Day 2, 2026 AF (18:00) | Roleplay |
-| **197** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02T18:00:00.000000Z | Roleplay |
-| **198** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 18:00 | Roleplay |
-| **199** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 18:00:15 | Roleplay |
-| **200** | Thorne Crypts - Upper Scriptorium | 2026-01-02, 18:00:00 | Roleplay |
-| **201** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Evening | Roleplay |
-| **202** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02T18:00:00.000003Z (FROZEN) | Roleplay |
-| **203** | Thorne Crypts - Stairwell to Level 2 | Month 1 Day 2, 2026 AI (18:05) | Roleplay |
-| **204** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 18:00:00 | Roleplay |
-| **205** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Evening | Roleplay |
-| **206** | Thorne Crypts - Level 1 (Upper Scriptorium) | Month 1, 2026 DR (Day 2) | Roleplay |
-| **207** | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Evening (Frozen) | Roleplay |
-| **208** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, 18:20 | Roleplay |
-| **209** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02T18:20:00.000001Z | Roleplay |
-| **210** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02T18:25:00.000000Z | Roleplay |
-| **211** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, 18:25:00.000001 | Roleplay |
-| **212** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, Evening (18:40) | Roleplay |
-| **213** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02T18:40:00.000001Z | Roleplay |
-| **214** | Thorne Crypts - Level 2 (Echo-Chamber) | 1 2, 2026 Assiah (18:40) | Roleplay |
-| **215** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, Evening | Roleplay |
-| **216** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, Evening | Roleplay |
-| **217** | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, 18:50 | Roleplay |
-| **218** | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | 2026-01-02, Evening | Roleplay |
-| **219** | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | January 2, 2026 Imperial Era (19:20) | Roleplay |
-| **220** | Thorne Crypts - Level 2 (Consumed Echo-Chamber) | 2026-01-02T19:30:00Z | Roleplay |
-| **221** | Thorne Crypts - Level 2 (Secured Echo-Chamber) | 2026-01-02, 19:45 | Roleplay |
-| **222** | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | Month 1, 2026 DR (Day 2) | Roleplay |
-| **223** | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | January 2, 2026 Assiah (18:45) | Roleplay |
-| **224** | Thorne Crypts - Level 2 (Echo-Chamber) | January 02, 2026 NE (19:30) | Roleplay |
-| **225** | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | 2026-01-02T19:30:00Z | Roleplay |
-| **226** | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | Evening, 2026-01-02 (19:30) | Roleplay |
-| **227** | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, Evening (18:55) | Roleplay |
-| **228** | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02T19:15:00.000005Z | Roleplay |
-| **229** | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, 19:30 | Roleplay |
-| **230** | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, Evening (Aftermath of Consumption) | Roleplay |
-| **231** | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, Evening | Roleplay |
-| **232** | Thorne Crypts - Level 3 (Lower Ossuary) | Month 1 Day 2, 2026 NE (20:15) | Roleplay |
-| **233** | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, 20:15 (Evening) | Roleplay |
-| **234** | Thorne Crypts - Level 3 (Lower Ossuary) | Month 1 Day 2, 2026 DR (20:15) | Roleplay |
-| **235** | Thorne Crypts - Level 3 (Lower Ossuary) | Month 1, 2026 DR (Day 2) | Roleplay |
-| **236** | The Iron Gates - Command Bastion | Alturiak 1, 2026 DR (12:00) | Roleplay |
-| **237** | The Iron Gates - Command Bastion | 2026-02-01, Afternoon (14:30) | Roleplay |
-| **238** | The Iron Gates - Command Bastion | Alturiak 22, 2026 DR (16:00) | Roleplay |
-| **239** | The Iron Gates - Command Bastion | Mirtul 22, 1492 DR (16:00) | Roleplay |
-| **240** | The Iron Gates - Command Bastion | Month 2, 2026 DR (Day 22) | Roleplay |
-| **241** | The Iron Gates - Command Bastion | Month 2, 2026 DR (Day 22) | Roleplay |
-| **242** | The Iron Gates - Command Bastion | Alturiak 22, 2026 DR (16:15) | Roleplay |
-| **243** | The Iron Gates - Command Bastion | February 22, 2026 DR (16:15) | Roleplay |
-| **244** | The Iron Gates - Command Bastion | Month 2 Day 22, 2026 DR (16:20) | Roleplay |
-| **245** | The Iron Gates - Command Bastion | Month 2, 2026 DR (Day 22) | Roleplay |
-| **246** | The Iron Gates - Command Bastion | February 22, 2026 DR (16:20) | Roleplay |
-| **247** | The Iron Gates - Command Bastion (Threshold Lip) | Alturiak 22, 2026 DR (17:30) | Roleplay |
-| **248** | The Iron Gates - Command Bastion (Threshold Lip) | Alturiak 22, 2026 DR (18:00) | Roleplay |
-| **249** | Threshold Core - Void-Marrow | Month 2, 2026 DR (Day 22) | Roleplay |
-| **250** | Threshold Core - Void-Marrow | Alturiak 22, 2026 DR (18:15) | Roleplay |
-| **251** | Threshold Core - Void-Marrow | Alturiak 22, 2026 DR (18:20) | Roleplay |
-| **252** | Threshold Core - Void-Marrow | Alturiak 22, 2026 DR (18:30) | Roleplay |
-| **253** | Threshold Core - Void-Marrow | Kythorn 22, 2026 DR (18:45) | Roleplay |
-| **254** | Threshold Core - Void-Marrow | Month 2 Day 22, 2026 DR (18:45) | Roleplay |
-| **255** | Threshold Core - Void-Marrow | Month 2, 2026 DR (Day 22) | Roleplay |
-| **256** | Command Bastion - Iron Gates | February 22, 2026 DR (19:30) | Roleplay |
-| **257** | Command Bastion - Iron Gates | Month 2, 2026 DR (Day 22) | Roleplay |
-| **258** | Stone-Anvil Flagship 'Adjudicator' - Command Bridge |  | Roleplay |
-| **259** | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | February 22, 2026 DR (19:45) | Roleplay |
-| **260** | Stone-Anvil Flagship 'Adjudicator' - Bridge | 2026-02-22T20:00:00.000000Z | Roleplay |
-| **261** | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | 2026-02-22T20:05:00.000000Z | Roleplay |
-| **262** | Stone-Anvil Flagship 'Adjudicator' - Bridge (Orbiting Khordûm) | February 22, 2026 DR (21:00) | Roleplay |
-| **263** | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | February 22, 2026 DR (Night) | Roleplay |
-| **264** | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | 2026-02-22, Night | Roleplay |
-| **265** | Khordûm - Central Resonance-Vault | 2026-02-23T01:15:00.000000Z | Roleplay |
-| **266** | Khordûm - Central Resonance-Vault | 2026 February 23, 01:15 | Roleplay |
-| **267** | Khordûm - Central Resonance-Vault | Month 2, 2026 DR (Day 23) | Roleplay |
-| **268** | Khordûm - Central Resonance-Vault (Sovereign Seat) | Alturiak 23, 2026 DR (03:30) | Roleplay |
-| **269** | Khordûm - Central Resonance-Vault | 2026-02-23, 02:00 (Deep Night) | Roleplay |
-| **270** | Khordûm - Central Resonance-Vault | February 23, 2026 DR (02:15) | Roleplay |
-| **271** | Khordûm - Central Resonance-Vault | Month 2, 2026 DR (Day 23) | Roleplay |
-| **272** | Khordûm - Central Resonance-Vault | Month 2 Day 23, 2026 DR (02:15) | Roleplay |
-| **273** | Khordûm - Central Resonance-Vault | Kythorn 2, 11 NP (02:15) | Roleplay |
-| **274** | Khordûm - Sovereign Resonance-Vault | Kythorn 15, 2026 DR (12:00) | Roleplay |
-| **275** | Khordûm - Central Resonance-Vault | 2026-03-15, Midday | Roleplay |
-| **276** | Khordûm - Central Resonance-Vault | Month 4, 2026 DR (Day 5) | Roleplay |
-| **277** | Khordûm - Central Resonance-Vault | Month 4 Day 5, 2026 DR (Morning) | Roleplay |
-| **278** | Khordûm - Central Resonance-Vault | 2026-04-26T10:00:00Z | Roleplay |
-| **279** | Khordûm - Central Resonance-Vault | 2026-04-05T10:00:00.000000Z | Roleplay |
-| **280** | Khordûm - Central Resonance-Vault | Kythorn 5, 2026 DR (10:00 (Morning)) | Roleplay |
-| **281** | Khordûm - Central Resonance-Vault | Kythorn 2, 1492 DR (10:00) | Roleplay |
-| **282** | Khordûm - Central Resonance-Vault | Month 4, 2026 DR (Day 5) | Roleplay |
-| **283** | Khordûm - Central Resonance-Vault | April 5, 2026 (10:00 Morning) | Roleplay |
-| **284** | Khordûm - Central Resonance-Vault | Month 4, 2026 DR (Day 26) | Roleplay |
-| **285** | Khordûm - Central Resonance-Vault |  | Roleplay |
-| **286** | Khordûm - Central Resonance-Vault | Kythorn 18, 2026 DR (Dawn) | Roleplay |
-| **287** | Khordûm - Central Resonance-Vault | Kythorn 2, 2026 DR (09:00) | Roleplay |
-| **288** | Khordûm - Central Resonance-Vault | 4 26, 2026 DR (10:00) | Roleplay |
-| **289** | Khordûm - Central Resonance-Vault | Kythorn 17, 2026 DR (10:15) | Roleplay |
-| **290** | Khordûm - Central Resonance-Vault | 4 17, 2026 DR (10:30) | Roleplay |
-| **291** | Khordûm - Resonance-Vault Inner Sanctuary | 4 17, 2026 DR (11:30) | Roleplay |
-| **292** | Aeterna - The Zenith Spire - Imperial Audience Chamber | 4 17, 2026 DR (12:45) | Roleplay |
-| **293** | Aeterna - The Zenith Spire - Imperial Audience Chamber | 4 17, 2026 DR (13:00) | Roleplay |
-| **294** | Aeterna - The Zenith Spire - Imperial Audience Chamber | Month 4, 2026 DR (Day 17) | Roleplay |
-| **295** | Aeterna - The Zenith Spire - Imperial Audience Chamber | 4 17, 2026 DR (13:30) | Roleplay |
-| **296** | Aeterna - The Zenith Spire - Imperial Audience Chamber | April 17, 2026 DR (13:35) | Roleplay |
-| **297** | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17T13:35:00Z | Roleplay |
-| **298** | Aeterna - The Zenith Spire - Imperial Audience Chamber |  | Roleplay |
-| **299** | Aeterna - The Zenith Spire - Imperial Audience Chamber | Month 4, 2026 DR (Day 17) | Roleplay |
-| **300** | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17, 13:35:00 | Roleplay |
-| **301** | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17T13:35:00.000002Z | Roleplay |
-| **302** | Aeterna - The Zenith Spire - Imperial Audience Chamber | April 17, 2026 DR (14:15) | Roleplay |
-| **303** | Aeterna - The Zenith Spire - Imperial Audience Chamber | Month 4 Day 17, 2026 DR (14:15) | Roleplay |
-| **304** | Aeterna - The Zenith Spire - Imperial Audience Chamber | April 17, 2026 DR (14:15) | Roleplay |
-| **305** | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17, Afternoon (Day 1 of Apprenticeship) | Roleplay |
-| **306** | Aeterna - The Zenith Spire - Obsidian Antechamber | Month 4, 2026 DR (Day 17) | Roleplay |
-| **307** | Aeterna - The Zenith Spire - Obsidian Antechamber | 2026-04-17T14:45:00.000000Z | Roleplay |
-| **308** | Aeterna - The Zenith Spire - Obsidian Antechamber | 2026-04-17T14:50:00Z | Roleplay |
-| **309** | Aeterna - The Zenith Spire - Training Sanctum (The Inner Void) | 2026-04-24T14:50:00.000000Z | Roleplay |
-| **310** | Khordûm - Central Resonance-Vault | May 1, 2026 DR (19:00) | Roleplay |
-| **311** | Training Sanctum - Zenith Sphere | 2026-04-25, Dawn | Roleplay |
-| **312** | Training Sanctum - Zenith Sphere | April 25, 2026 DR (11:30 (Morning)) | Roleplay |
-| **313** | Training Sanctum - Zenith Sphere | 2026-04-26T11:45:00Z | Roleplay |
-| **314** | Training Sanctum - Zenith Sphere | April 26, 2026 DR (08:00) | Roleplay |
-| **315** | Training Sanctum - Zenith Sphere | April 26, 2026 DR (08:00) | Roleplay |
-| **316** | Training Sanctum - Zenith Sphere | April 27, 2026 AE (18:00) | Roleplay |
-| **317** | Training Sanctum - Zenith Sphere | 2026-04-27T08:00:00.000000Z | Roleplay |
-| **318** | Training Sanctum - Zenith Sphere | April 27, 2026 DR (Morning (Day 3 of Apprenticeship)) | Roleplay |
-| **319** | Training Sanctum - Zenith Sphere | April 27, 2026 DR (18:00) | Roleplay |
-| **320** | Training Sanctum - Zenith Sphere | April 28, 2026 Era of Prosperity (08:00) | Roleplay |
-| **321** | Training Sanctum - Zenith Sphere | 2026-04-29T06:00:00.000000Z | Roleplay |
-| **322** | Training Sanctum - Zenith Sphere | 2026-04-29T10:00:00.000000Z | Roleplay |
-| **323** | Training Sanctum - Zenith Sphere | 2026-04-29T10:00:00Z | Roleplay |
-| **324** | Training Sanctum - Zenith Sphere | Month 4, 2026 DR (Day 29) | Roleplay |
-| **325** | Training Sanctum - Zenith Sphere | 2026-05-01T06:00:00.000000Z | Day 6 of Apprenticeship | Roleplay |
-| **326** | Training Sanctum - Zenith Sphere | 2026-05-01, Morning | Roleplay |
-| **327** | Training Sanctum - Zenith Sphere | 2026 May 1, 00:00 (Day 7 of Apprenticeship) | Roleplay |
-| **328** | Training Sanctum - Zenith Sphere | 2026-05-01, Deep Night | Roleplay |
-| **329** | Command Bastion - Khordûm | Month 5, 2026 Harptos (Day 1) | Roleplay |
-| **330** | Command Bastion - Khordûm | 2026-05-01, Dawn | Roleplay |
-| **331** | Command Bastion - Khordûm | May 1, 2026 AE (17:00) | Roleplay |
-| **332** | Command Bastion - Khordûm | 2026-05-01, Evening | Roleplay |
-| **333** | Command Bastion - Khordûm | May 01, 2026 DR (17:00) | Roleplay |
-| **334** | Khordûm - Central Resonance-Vault | May 1, 2026 (17:05 (Evening)) | Roleplay |
-| **335** | Khordûm - Central Resonance-Vault | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **336** | Khordûm - Central Resonance-Vault | May 01, 2026 DR (20:00 (Night)) | Roleplay |
-| **337** | Khordûm - Command Bastion Mezzanine | 2026-05-01, 21:30 | Roleplay |
-| **338** | Khordûm - Command Bastion Mezzanine | Mirtul 1, 2026 DR (20:00) | Roleplay |
-| **339** | Khordûm - Command Bastion Mezzanine | 2026-05-01T20:30:00.000001Z | Roleplay |
-| **340** | Khordûm - Command Bastion Mezzanine | 2026-05-01T20:00:00.000003Z | Roleplay |
-| **341** | Khordūm - Command Bastion Mezzanine | 2026-05-01, Night (20:30:00.000004) | Roleplay |
-| **342** | Khordūm - Command Bastion Mezzanine | Month 5, 2026 DR (Day 1) | Roleplay |
-| **343** | Khordūm - Command Bastion Mezzanine |  | Roleplay |
-| **344** | Khordūm - Command Bastion Mezzanine | 2026-05-01T20:00:00.000000Z | Roleplay |
-| **345** | Khordūm - Command Bastion Mezzanine | May 01, 2026 DR (20:45) | Roleplay |
-| **346** | Khordûm - Command Bastion Mezzanine | May 1, 2026 (21:05) | Roleplay |
-| **347** | Khordûm - Command Bastion Mezzanine | Night, 2026-05-01 (21:15) | Roleplay |
-| **348** | Khordûm - Command Bastion Mezzanine | Mirtul 1, 2026 DR (22:30) | Roleplay |
-| **349** | Khordûm - The Brass Tankard (Lower Strata) | May 01, 2026 5E (23:45) | Roleplay |
-| **350** | Khordûm - The Brass Tankard | 2026-05-01T20:45:00.000000Z | Roleplay |
-| **351** | Khordûm - The Brass Tankard | Night, 2026-05-01 (21:00) | Roleplay |
-| **352** | Khordûm - The Brass Tankard | Mirtul 1, 2026 DR (22:15) | Roleplay |
-| **353** | Khordûm - The Brass Tankard | Mirtul 1, 2026 DR (22:30) | Roleplay |
-| **354** | Khordûm - The Brass Tankard | Mirtul (Month 5) 01, 2026 DR (22:45) | Roleplay |
-| **355** | Khordûm - The Brass Tankard | Mirtul 1, 2026 DR (22:45) | Roleplay |
-| **356** | Khordûm - The Brass Tankard | 2026-05-01, Night (22:45) | Roleplay |
-| **357** | Khordûm - The Brass Tankard | 2026-05-01, Night (22:45:00) | Roleplay |
-| **358** | Khordûm - The Brass Tankard | 2026-05-01, Night (23:00) | Roleplay |
-| **359** | Khordûm - The Brass Tankard | Month 5, 2026 DR (Day 1) | Roleplay |
-| **360** | Khordûm - The Brass Tankard | 2026-05-01, Night (23:20) | Roleplay |
-| **361** | Khordûm - The Brass Tankard | 2026-05-01, Night (23:25) | Roleplay |
-| **362** | Khordûm - The Brass Tankard | 2026-05-01, Night (23:20) | Roleplay |
-| **363** | Khordûm - The Brass Tankard | May 1, 2026 DR (23:25) | Roleplay |
-| **364** | Khordûm - The Brass Tankard | Night, 2026-05-01 (23:45) | Roleplay |
-| **365** | Khordûm - The Brass Tankard | May 1, 2026 DR (23:55) | Roleplay |
-| **366** | Khordûm - The Brass Tankard | 2026-05-01, Night (23:58) | Roleplay |
-| **367** | Khordûm - The Brass Tankard | 2026-05-01, Night (23:58) | Roleplay |
-| **368** | Khordûm - The Brass Tankard / City Streets | Month 5 Day 2, 2026 DR (00:15 (Deep Night)) | Roleplay |
-| **369** | Khordûm - Private Sanctum | 2026-05-02, 01:15 | Roleplay |
-| **370** | Khordûm - Private Sanctum | Deep Night, 2026-05-02 (02:30) | Roleplay |
-| **371** | Khordûm - Private Sanctum | May 02, 2026 DR (03:00) | Roleplay |
-| **372** | Khordûm - Private Sanctum | Mirtul 2, 2026 DR (03:30) | Roleplay |
-| **373** | Khordûm - Private Sanctum | Month 5 Day 2, 2026 DR (04:00 (Deep Night)) | Roleplay |
-| **374** | Khordûm - Private Sanctum | May 02, 2026 DR (04:45) | Roleplay |
-| **375** | Khordûm - Private Sanctum | 2026-05-02T04:15:00.000002Z | Roleplay |
-| **376** | Khordûm - Private Sanctum | May 2, 2026 DR (04:50) | Roleplay |
-| **377** | Khordûm - Private Sanctum | 2026-05-02, 04:55:00 | Roleplay |
-| **378** | Khordûm - Private Sanctum | 2026-05-02, Deep Night (05:05) | Roleplay |
-| **379** | Khordûm - Private Sanctum | Mirtul 2, 2026 DR (05:15) | Roleplay |
-| **380** | Khordūm - Private Sanctum | 2026-05-02T05:10:00.000000Z | Roleplay |
-| **381** | Khordûm - Private Sanctum | 2026 May 02, 05:15 (Frozen) | Roleplay |
-| **382** | Khordûm - Private Sanctum | 2026 May 2, 05:30 | Roleplay |
-| **383** | Khordûm - Private Sanctum | 2026-05-02, 09:30 | Roleplay |
-| **384** | Khordûm - Private Sanctum | 2026-05-02T09:30:00.000000Z | Roleplay |
-| **385** | Khordûm - Private Sanctum | 2026-05-02T09:30:00.000000Z | Roleplay |
-| **386** | Khordûm - Resonance-Vault / Southern Crags | May 2, 2026 DR (14:00) | Roleplay |
-| **387** | Glacial Spine Periphery | 2026-05-03, 10:00 | Roleplay |
-| **388** | Glacial Spine Periphery | 2026 May 03, 12:05 | Roleplay |
-| **389** | Glacial Spine - Silent Scriptorium Periphery | 2026-05-03, Midday | Roleplay |
-| **390** | Glacial Spine - Silent Scriptorium Periphery | Mirtul 3, 2026 DR (12:15) | Roleplay |
-| **391** | Glacial Spine - Silent Scriptorium Inner Sanctum | 2026-05-03T12:10:00.000001Z | Roleplay |
-| **392** | Glacial Spine - Silent Scriptorium Overlook | 2026-05-03, Midday (12:15) | Roleplay |
-| **393** | Glacial Spine - Silent Scriptorium (Command Overlook) | Month 5, 2026 DR (Day 3) | Roleplay |
-| **394** | Glacial Spine - Silent Scriptorium Overlook | 2026-05-03T14:00:00.000000Z | Roleplay |
-| **395** | Glacial Spine - Silent Scriptorium Overlook | 2026-05-03T14:00:00.000000Z | Roleplay |
-| **396** | Glacial Spine - Silent Scriptorium Core | 2026-05-03T14:00:00.000788Z | Roleplay |
-| **397** | Glacial Spine - Silent Scriptorium Core | 2026 May 3, 14:00:00.000788 | Roleplay |
-| **398** | Glacial Spine - Silent Scriptorium Core | 2026-05-03, Afternoon | Roleplay |
-| **399** | Glacial Spine - Silent Scriptorium Core | Kythorn 3, 2026 DR (14:15) | Roleplay |
-| **400** | Glacial Spine - Silent Scriptorium Core | Month 5, 2026 DR (Day 3) | Roleplay |
-| **401** | Glacial Spine - Silent Scriptorium Core | 2026-05-03, 14:21 | Roleplay |
-| **402** | Glacial Spine - Silent Scriptorium Core | Month 5, 2026 DR (Day 3) | Roleplay |
-| **403** | Glacial Spine - Silent Scriptorium Core | May 3, 2026 DR (15:15) | Roleplay |
-| **404** | Glacial Spine - Silent Scriptorium Core | 2026-05-03T15:00:00.000003Z | Roleplay |
-| **405** | Glacial Spine - Silent Scriptorium Core | May 03, 2026 DR (15:00) | Roleplay |
-| **406** | Glacial Spine - Silent Scriptorium Core |  | Roleplay |
-| **407** | Glacial Spine - Silent Scriptorium Core | May 3, 2026 DR (15:15) | Roleplay |
-| **408** | Glacial Spine - Silent Scriptorium Core | May 03, 2026 DR (15:15) | Roleplay |
-| **409** | Glacial Spine - Silent Scriptorium Core | May 03, 2026 DR (15:15) | Roleplay |
-| **410** | Glacial Spine - Passage to Western Basalt Shelf | May 3, 2026 DR (17:15) | Roleplay |
-| **411** | Glacial Spine - Passage to Western Basalt Shelf | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **412** | Glacial Spine - Western Basalt Shelf | May 3, 2026 DR (18:30) | Roleplay |
-| **413** | Glacial Spine - Western Basalt Shelf Perimeter | May 03, 2026 DR (19:15) | Roleplay |
-| **414** | Glacial Spine - Western Basalt Shelf Perimeter | 2026-05-03, Evening | Roleplay |
-| **415** | Glacial Spine - Western Basalt Shelf Perimeter | Mirtul 5, 2026 DR (10:45) | Roleplay |
-| **416** | Glacial Spine - Western Basalt Shelf Perimeter | May 3, 2026 DR (19:35) | Roleplay |
-| **417** | Western Basalt Shelf - Core Vault | May 3, 2026 DR (20:15) | Roleplay |
-| **418** | Western Basalt Shelf - Core Vault | May 3, 2026 DR (20:20) | Roleplay |
-| **419** | Western Basalt Shelf - Core Vault | May 3, 2026 DR (20:15) | Roleplay |
-| **420** | Western Basalt Shelf - Core Vault | 2026-05-03T20:15:00.000000Z | Roleplay |
-| **421** | Western Basalt Shelf - Marching North | 2026-05-04T02:30:00.000000Z | Roleplay |
-| **422** | Echo-Point Alpha - Perimeter | Mirtul 4, 2026 DR (03:15) | Roleplay |
-| **423** | Echo-Point Alpha - Perimeter | 2026-05-04, 03:15 | Roleplay |
-| **424** | Echo-Point Alpha - Perimeter | 2026-05-04, 03:15 (Deep Night) | Roleplay |
-| **425** | Echo-Point Alpha - Core | Mirtul 4, 2026 DR (03:20) | Roleplay |
-| **426** | Echo-Point Alpha - Core | 2026-05-04T02:30:00.000000Z | Roleplay |
-| **427** | Echo-Point Alpha - Core | Mirtul 4, 2026 DR (03:15) | Roleplay |
-| **428** | Echo-Point Alpha - Core | May 04, 2026 DR (03:15) | Roleplay |
-| **429** | Echo-Point Alpha - Core | May 4, 2026 DR (04:00) | Roleplay |
-| **430** | Echo-Point Alpha - Core | 2026-05-04T04:00:00.000000Z | Roleplay |
-| **431** | Echo-Point Alpha - Core | May 4, 2026 DR (04:00) | Roleplay |
-| **432** | Echo-Point Alpha - Core | 2026-05-04T04:00:00.000001Z | Roleplay |
-| **433** | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (04:00) | Roleplay |
-| **434** | Echo-Point Alpha - Core | Month 5 Day 4, 2026 DR (05:00) | Roleplay |
-| **435** | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (05:15) | Roleplay |
-| **436** | Echo-Point Alpha - Core | 5 4, 2026 DR (05:20) | Roleplay |
-| **437** | Echo-Point Alpha - Core | 5 4, 2026 DR (05:25) | Roleplay |
-| **438** | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (05:30) | Roleplay |
-| **439** | Echo-Point Alpha - Core | May 4, 2026 DR (05:35) | Roleplay |
-| **440** | Echo-Point Alpha - Core | May 4, 2026 DR (05:45) | Roleplay |
-| **441** | Echo-Point Alpha - Core | May 4, 2026 DR (06:15) | Roleplay |
-| **442** | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (06:30) | Roleplay |
-| **443** | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (06:45) | Roleplay |
-| **444** | Echo-Point Alpha - Core | May 4, 2026 DR (07:15) | Roleplay |
-| **445** | Echo-Point Alpha - Core | 2026-05-04, Morning | Roleplay |
-| **446** | Echo-Point Alpha - Core (Sovereign Hub) | Kythorn 4, 2026 DR (07:15) | Roleplay |
-| **447** | Echo-Point Alpha - Core | 2026-05-04T07:16:00Z | Roleplay |
-| **448** | Echo-Point Alpha - Core | May 4, 2026 DR (07:16) | Roleplay |
-| **449** | Echo-Point Alpha - Core | 5 4, 2026 DR (07:16) | Roleplay |
-| **450** | Echo-Point Alpha - Core | Kythorn 4, 40 AG (07:16) | Roleplay |
-| **451** | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
-| **452** | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
-| **453** | Echo-Point Alpha - Core | Month 5, 40 AG (Day 4) | Roleplay |
-| **454** | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
-| **455** | Echo-Point Alpha - Core | Month 5 Day 4, 70 AG (07:16) | Roleplay |
-| **456** | Echo-Point Alpha - Core | Month 5 Day 4, 70 AG (07:16) | Roleplay |
-| **457** | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
-| **458** | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
-| **459** | Echo-Point Alpha - Core | 5 4, 40 AG (07:20) | Roleplay |
-| **460** | Echo-Point Alpha - Core | 5 4, 40 AG (07:20) | Roleplay |
-| **461** | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:20) | Roleplay |
-| **462** | Echo-Point Alpha - Core | 5 4, 40 AG (07:20) | Roleplay |
-| **463** | Aeterna - Imperial Spire - Lord Regent's Private Sanctum | Month 5 Day 4, 40 AG (07:30) | Roleplay |
-| **464** | Aeterna - Imperial Spire - Lord Regent's Private Sanctum | 5 4, 40 AG (07:35) | Roleplay |
-| **465** | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:30) | Roleplay |
-| **466** | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:35) | Roleplay |
-| **467** | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:40) | Roleplay |
-| **468** | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:45) | Roleplay |
-| **469** | Aeterna - Zenith Palace (Floating above Aeterna) | 5 4, 40 AG (08:50) | Roleplay |
-| **470** | Zenith Palace - Obsidian Balcony | Kythorn 4, Year 40 After Gambit (AG) (08:50) | Roleplay |
-| **471** | Zenith Palace (High Altitude) | Month 5 Day 4, 40 AG (09:00) | Roleplay |
-| **472** | Zenith Palace - High Sanctum | 5 4, 40 AG (10:00) | Roleplay |
-| **473** | Zenith Palace - High Sanctum | Month 5 Day 4, 40 AG (10:05) | Roleplay |
-| **474** | Global (The Zenith Circuit) | Month 5 Day 4, 40 AG (12:00) | Roleplay |
-| **475** | Global (Zenith Tour) | Month 5, 40 AG (Day 4) | Roleplay |
-| **476** | Global (Zenith Tour) - High Atmosphere | Month 5 Day 4, 40 AG (13:30) | Roleplay |
-| **477** | Global (Zenith Tour) | Month 5 Day 4, 40 AG (13:35) | Roleplay |
-| **478** | Global (Zenith Palace) | Month 5 Day 4, 40 AG (Afternoon) | Roleplay |
-| **479** | Global (Zenith Palace) | Month 5 Day 4, 40 AG (13:35) | Roleplay |
-| **480** | Global (Zenith Palace) | 5 4, 40 AG (13:40) | Roleplay |
-| **481** | Global (Zenith Palace) | 5 4, 40 AG (14:15) | Roleplay |
-| **482** | Global (Zenith Palace) | Month 5 Day 4, 40 AG (Afternoon) | Roleplay |
-| **483** | Global (Zenith Palace) | Month 5 Day 4, 40 AG (14:15) | Roleplay |
-| **484** | The Zenith Palace (Stationary Coordinate) | Month 5 Day 4, 1040 AG (Midday) | Roleplay |
-| **485** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:05) | Roleplay |
-| **486** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (Midday) | Roleplay |
-| **487** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:05) | Roleplay |
-| **488** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:15) | Roleplay |
-| **489** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (Midday) | Roleplay |
-| **490** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:30) | Roleplay |
-| **491** | Global (Zenith Palace - Great Hall) | Month 5 Day 4, 1040 AG (12:30) | Roleplay |
-| **492** | Global (Zenith Palace) | Day 4 of Month 5, 1040 AG (12:30) | Roleplay |
-| **493** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:45) | Roleplay |
-| **494** | Global (Zenith Palace - Great Hall) | Month 5 Day 4, 1040 AG (13:00 (Midday)) | Roleplay |
-| **495** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (13:15) | Roleplay |
-| **496** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (13:30) | Roleplay |
-| **497** | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (13:30) | Roleplay |
-| **498** | Global (Zenith Palace) | 5 4, 1040 AG (13:45) | Roleplay |
-| **499** | Zenith Palace - Great Hall | Month 5 Day 4, 1040 AG (Afternoon) | Roleplay |
-| **500** | Zenith Palace - Great Hall | Month 5 Day 4, 1040 AG (Afternoon) | Roleplay |
+| [**Scene 01**](#scene-1) | Winter-Mourn Province | Kythorn 15, 40 A.G. (08:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Ashwood Keep - Perimeter | Kythorn 2, 11 New Peace (05:45) | Roleplay |
+| [**Scene 03**](#scene-3) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50) | Roleplay |
+| [**Scene 04**](#scene-4) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50 (Dawn)) | Roleplay |
+| [**Scene 05**](#scene-5) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50) | Roleplay |
+| [**Scene 06**](#scene-6) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (05:50) | Roleplay |
+| [**Scene 07**](#scene-7) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (06:10) | Roleplay |
+| [**Scene 08**](#scene-8) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (06:45) | Roleplay |
+| [**Scene 09**](#scene-9) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:15) | Roleplay |
+| [**Scene 10**](#scene-10) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:25) | Roleplay |
+| [**Scene 11**](#scene-11) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:35) | Roleplay |
+| [**Scene 12**](#scene-12) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:35) | Roleplay |
+| [**Scene 13**](#scene-13) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (07:45) | Roleplay |
+| [**Scene 14**](#scene-14) | Ashwood Keep - Perimeter | Mirtul 15, 1492 DR (08:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
+| [**Scene 16**](#scene-16) | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
+| [**Scene 17**](#scene-17) | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
+| [**Scene 18**](#scene-18) | Ashwood Keep - Servants' Tunnel Entrance | Mirtul 15, 1492 DR (08:15) | Roleplay |
+| [**Scene 19**](#scene-19) | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:30) | Roleplay |
+| [**Scene 20**](#scene-20) | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:35) | Roleplay |
+| [**Scene 21**](#scene-21) | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:35) | Roleplay |
+| [**Scene 22**](#scene-22) | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:45) | Roleplay |
+| [**Scene 23**](#scene-23) | Ashwood Keep - Scullery Tunnel | Mirtul 15, 1492 DR (08:50) | Roleplay |
+| [**Scene 24**](#scene-24) | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (08:50) | Roleplay |
+| [**Scene 25**](#scene-25) | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (09:05) | Roleplay |
+| [**Scene 26**](#scene-26) | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (09:10) | Roleplay |
+| [**Scene 27**](#scene-27) | Ashwood Keep - Internal Halls | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 28**](#scene-28) | Ashwood Keep - Solar Corridor | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 29**](#scene-29) | Ashwood Keep - Solar Corridor | Mirtul 15, 1492 DR (09:05) | Roleplay |
+| [**Scene 30**](#scene-30) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 31**](#scene-31) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 32**](#scene-32) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 33**](#scene-33) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 34**](#scene-34) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 35**](#scene-35) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:15) | Roleplay |
+| [**Scene 36**](#scene-36) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:15) | Roleplay |
+| [**Scene 37**](#scene-37) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 38**](#scene-38) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 39**](#scene-39) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:12) | Roleplay |
+| [**Scene 40**](#scene-40) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:20) | Roleplay |
+| [**Scene 41**](#scene-41) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:20) | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:25) | Roleplay |
+| [**Scene 44**](#scene-44) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (09:25) | Roleplay |
+| [**Scene 45**](#scene-45) | Ashwood Keep - Lady Ashwood's Solar | Mirtul 15, 1492 DR (10:15) | Roleplay |
+| [**Scene 46**](#scene-46) | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (10:45) | Roleplay |
+| [**Scene 47**](#scene-47) | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (11:15) | Roleplay |
+| [**Scene 48**](#scene-48) | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (11:20) | Roleplay |
+| [**Scene 49**](#scene-49) | Ashwood Keep - Internal Gatehouse | Mirtul 15, 1492 DR (11:30) | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (12:30) | Roleplay |
+| [**Scene 53**](#scene-53) | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (12:45) | Roleplay |
+| [**Scene 54**](#scene-54) | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (12:50) | Roleplay |
+| [**Scene 55**](#scene-55) | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (13:05) | Roleplay |
+| [**Scene 56**](#scene-56) | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:35) | Roleplay |
+| [**Scene 57**](#scene-57) | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:35) | Roleplay |
+| [**Scene 58**](#scene-58) | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:35) | Roleplay |
+| [**Scene 59**](#scene-59) | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (13:50) | Roleplay |
+| [**Scene 60**](#scene-60) | Ashwood Keep - Main Courtyard | Mirtul 15, 1492 DR (14:05) | Roleplay |
+| [**Scene 61**](#scene-61) | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (14:10) | Roleplay |
+| [**Scene 62**](#scene-62) | Ashwood Keep - Inner Gatehouse | Mirtul 15, 1492 DR (14:15) | Roleplay |
+| [**Scene 63**](#scene-63) | Ashwood Keep - Central Courtyard | Mirtul 15, 1492 DR (15:30) | Roleplay |
+| [**Scene 64**](#scene-64) | Ashwood Keep - Gatehouse Interior | Mirtul 15, 1492 DR (15:45) | Roleplay |
+| [**Scene 65**](#scene-65) | Ashwood Keep - Central Courtyard | Mirtul 15, 1492 DR (15:45) | Roleplay |
+| [**Scene 66**](#scene-66) | Ashwood Keep - Central Courtyard | Mirtul 15, 1492 DR (16:15) | Roleplay |
+| [**Scene 67**](#scene-67) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:30) | Roleplay |
+| [**Scene 68**](#scene-68) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:45) | Roleplay |
+| [**Scene 69**](#scene-69) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:30) | Roleplay |
+| [**Scene 70**](#scene-70) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:45) | Roleplay |
+| [**Scene 71**](#scene-71) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:55) | Roleplay |
+| [**Scene 72**](#scene-72) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:59) | Roleplay |
+| [**Scene 73**](#scene-73) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:59) | Roleplay |
+| [**Scene 75**](#scene-75) | Black-Hollow Monastery - Under-Cloisters | Mirtul 15, 1492 DR (23:59) | Roleplay |
+| [**Scene 76**](#scene-76) | Ashwood Keep - Command Tent | Mirtul 16, 1492 DR (01:30) | Roleplay |
+| [**Scene 77**](#scene-77) | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (09:45) | Roleplay |
+| [**Scene 78**](#scene-78) | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (09:45) | Roleplay |
+| [**Scene 79**](#scene-79) | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:15) | Roleplay |
+| [**Scene 80**](#scene-80) | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:15) | Roleplay |
+| [**Scene 81**](#scene-81) | Aeterna - The Imperial Spire (Inner Sanctum) | Mirtul 16, 1492 DR (10:20) | Roleplay |
+| [**Scene 82**](#scene-82) | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:30) | Roleplay |
+| [**Scene 83**](#scene-83) | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:20) | Roleplay |
+| [**Scene 84**](#scene-84) | Aeterna - The Imperial Spire | Mirtul 16, 1492 DR (10:25) | Roleplay |
+| [**Scene 85**](#scene-85) | Aeterna - Imperial Spire Barracks | Mirtul 16, 1492 DR (11:30) | Roleplay |
+| [**Scene 86**](#scene-86) | Aeterna - Imperial Spire Archives | Mirtul 16, 1492 DR (12:45) | Roleplay |
+| [**Scene 87**](#scene-87) | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (14:30) | Roleplay |
+| [**Scene 88**](#scene-88) | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (1 midday) | Roleplay |
+| [**Scene 89**](#scene-89) | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:45) | Roleplay |
+| [**Scene 91**](#scene-91) | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:50) | Roleplay |
+| [**Scene 92**](#scene-92) | Aeterna - Principate Senate Hall | Mirtul 16, 1492 DR (15:50) | Roleplay |
+| [**Scene 93**](#scene-93) | Unknown |  | Roleplay |
+| [**Scene 94**](#scene-94) | Aeterna - Principate Senate Hall | Month 12 Day 31, 2025 DR (15:50) | Roleplay |
+| [**Scene 95**](#scene-95) | Aeterna - Principate Senate Hall | Kythorn Day 2, Year 11 of the New Peace (16:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:30) | Roleplay |
+| [**Scene 97**](#scene-97) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:35) | Roleplay |
+| [**Scene 98**](#scene-98) | Aeterna - Principate Senate Hall | Mirtul 31, 2025 DR (16:45) | Roleplay |
+| [**Scene 99**](#scene-99) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:50) | Roleplay |
+| [**Scene 100**](#scene-100) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (16:55) | Roleplay |
+| [**Scene 101**](#scene-101) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (17:10) | Roleplay |
+| [**Scene 102**](#scene-102) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (17:10) | Roleplay |
+| [**Scene 103**](#scene-103) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (17:35) | Roleplay |
+| [**Scene 104**](#scene-104) | Aeterna - Principate Senate Hall | 12 31, 2025 DR (18:15) | Roleplay |
+| [**Scene 105**](#scene-105) | Aeterna - Principate Senate Hall | Day 2, Year 11 New Peace (Midnight) | Roleplay |
+| [**Scene 106**](#scene-106) | Aeterna - Cloister of Ash | Kythorn Day 2, Year 11 of the New Peace (00:00 (Midnight)) | Roleplay |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Aeterna - Cloister of Ash | 2025 DR, Night | Roleplay |
+| [**Scene 109**](#scene-109) | Aeterna - Cloister of Ash | 12 31, 2025 DR (00:00) | Roleplay |
+| [**Scene 110**](#scene-110) | Aeterna - Cloister of Ash | 12 31, 2025 DR (00:05) | Roleplay |
+| [**Scene 111**](#scene-111) | Aeterna - Spire Logistics Hub | Hammer 1, 2026 DR (08:00) | Roleplay |
+| [**Scene 112**](#scene-112) | Aeterna - Spire Logistics Hub | 1 1, 2026 DR (09:00) | Roleplay |
+| [**Scene 113**](#scene-113) | Aeterna - Spire Logistics Hub | 1 1, 2026 DR (13:00) | Roleplay |
+| [**Scene 114**](#scene-114) | Aeterna - Spire Logistics Hub | January 1, 2026 DR (17:00) | Roleplay |
+| [**Scene 115**](#scene-115) | Imperial Spire - Regent's Sanctum | Month 1, 2026 DR (Day 1) | Roleplay |
+| [**Scene 116**](#scene-116) | Imperial Spire - Regent's Sanctum | Month 1, 2026 DR (Day 1) | Roleplay |
+| [**Scene 117**](#scene-117) | Imperial Spire - Regent's Sanctum | 1 1, 2026 DR (19:15) | Roleplay |
+| [**Scene 118**](#scene-118) | Imperial Spire - Regent's Sanctum | 1 1, 2026 DR (19:45) | Roleplay |
+| [**Scene 119**](#scene-119) | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (20:30) | Roleplay |
+| [**Scene 120**](#scene-120) | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (20:40) | Roleplay |
+| [**Scene 121**](#scene-121) | Imperial Spire - Southern Gatehouse | Month 1 Day 1, 2026 DR (21:00) | Roleplay |
+| [**Scene 122**](#scene-122) | Imperial Spire - Southern Gatehouse | 2026-01-01, Night | Roleplay |
+| [**Scene 123**](#scene-123) | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (21:05) | Roleplay |
+| [**Scene 124**](#scene-124) | Imperial Spire - Southern Gatehouse | Kythorn 1, 2026 DR (21:05) | Roleplay |
+| [**Scene 125**](#scene-125) | Imperial Spire - Southern Gatehouse | Month 1, 2026 DR (Day 1) | Roleplay |
+| [**Scene 126**](#scene-126) | Imperial Spire - Southern Gatehouse | Kythorn 1, 2026 DR (21:15) | Roleplay |
+| [**Scene 127**](#scene-127) | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (21:15) | Roleplay |
+| [**Scene 128**](#scene-128) | Imperial Spire - Southern Gatehouse | Kythorn 2, 2026-01-01 (21:15) | Roleplay |
+| [**Scene 129**](#scene-129) | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (21:25) | Roleplay |
+| [**Scene 130**](#scene-130) | Imperial Spire - Southern Gatehouse | 2026-01-01T21:25:00Z | Roleplay |
+| [**Scene 131**](#scene-131) | Imperial Spire - Southern Gatehouse | Month 1, 2026 DR (Day 1) | Roleplay |
+| [**Scene 132**](#scene-132) | Imperial Spire - Southern Gatehouse | Month 1 Day 1, 2026 DR (22:05) | Roleplay |
+| [**Scene 133**](#scene-133) | Imperial Spire - Southern Gatehouse | 1 1, 2026 DR (22:15) | Roleplay |
+| [**Scene 134**](#scene-134) | Imperial Spire - Southern Gatehouse | Month 1, 2026 DR (Day 1) | Roleplay |
+| [**Scene 135**](#scene-135) | Great Southern Road - Outskirts of Aeterna | 1 2, 2026 DR (05:30) | Roleplay |
+| [**Scene 136**](#scene-136) | Great Southern Road - Outskirts of Aeterna | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 137**](#scene-137) | Great Southern Road - Outskirts of Aeterna | Month 1 Day 2, 2026 DR (06:30) | Roleplay |
+| [**Scene 138**](#scene-138) | Great Southern Road - Outskirts of Aeterna | 1 2, 2026 DR (06:30) | Roleplay |
+| [**Scene 139**](#scene-139) | Great Southern Road - Outskirts of Aeterna | 1 2, 2026 DR (08:30) | Roleplay |
+| [**Scene 140**](#scene-140) | Great Southern Road - Outskirts of Aeterna | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 141**](#scene-141) | Great Southern Road - Outskirts of Aeterna | Kythorn 2, 2026 DR (09:30) | Roleplay |
+| [**Scene 142**](#scene-142) | Spires of Ash - Western Approach | 1 2, 2026 DR (09:45) | Roleplay |
+| [**Scene 143**](#scene-143) | Spires of Ash | 1 2, 2026 DR (09:46) | Roleplay |
+| [**Scene 144**](#scene-144) | Spires of Ash | 2026-01-02T09:47:00Z | Roleplay |
+| [**Scene 145**](#scene-145) | Spires of Ash (Occupied) | Month 1 Day 2, 2026 DR (10:15) | Roleplay |
+| [**Scene 146**](#scene-146) | Spires of Ash | 2026-01-02, Morning | Roleplay |
+| [**Scene 147**](#scene-147) | Spires of Ash (Secured Relay) | 1 2, 2026 DR (10:15) | Roleplay |
+| [**Scene 148**](#scene-148) | Spires of Ash | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 149**](#scene-149) | Spires of Ash | Month 1 Day 2, 2026 DR (10:20) | Roleplay |
+| [**Scene 150**](#scene-150) | Spires of Ash (Secured Relay) | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 151**](#scene-151) | Spires of Ash (Secured Relay) | 2026-01-02, 10:20:01 | Roleplay |
+| [**Scene 152**](#scene-152) | Spires of Ash | Hammer 2, 1492 DR (10:20) | Roleplay |
+| [**Scene 153**](#scene-153) | Spires of Ash | 2026-01-02, Morning | Roleplay |
+| [**Scene 154**](#scene-154) | Spires of Ash | Month 1 Day 2, 2026 DR (10:20) | Roleplay |
+| [**Scene 155**](#scene-155) | Spires of Ash | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 156**](#scene-156) | Spires of Ash | 1 2, 2026 DR (10:35) | Roleplay |
+| [**Scene 157**](#scene-157) | The Iron Gates - Main Bridge | Kythorn 2, 2026 DR (11:15) | Roleplay |
+| [**Scene 158**](#scene-158) | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 159**](#scene-159) | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 160**](#scene-160) | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 161**](#scene-161) | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (11:30) | Roleplay |
+| [**Scene 162**](#scene-162) | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (12:05) | Roleplay |
+| [**Scene 163**](#scene-163) | The Iron Gates - Main Bridge | 2026-01-02, Midday | Roleplay |
+| [**Scene 164**](#scene-164) | The Iron Gates - Main Bridge | Mirtul 15, 1492 DR (12:15) | Roleplay |
+| [**Scene 165**](#scene-165) | The Iron Gates - Main Bridge | 1 2, 2026 DR (12:20) | Roleplay |
+| [**Scene 166**](#scene-166) | The Iron Gates - Main Bridge | 1 2, 2026 DR (12:35) | Roleplay |
+| [**Scene 167**](#scene-167) | The Iron Gates - Main Bridge | 1 2, 2026 DR (13:05) | Roleplay |
+| [**Scene 168**](#scene-168) | The Iron Gates - Main Bridge | 2026-01-02, Midday | Roleplay |
+| [**Scene 169**](#scene-169) | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 170**](#scene-170) | The Iron Gates - Main Bridge | 1 2, 2026 DR (13:35) | Roleplay |
+| [**Scene 171**](#scene-171) | The Iron Gates - Master Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 172**](#scene-172) | The Iron Gates - Main Bridge | 1 2, 2026 DR (14:15) | Roleplay |
+| [**Scene 173**](#scene-173) | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (14:15) | Roleplay |
+| [**Scene 174**](#scene-174) | The Iron Gates - Main Bridge | Mirtul 15, 1492 DR (14:35) | Roleplay |
+| [**Scene 175**](#scene-175) | The Iron Gates - Main Bridge | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 176**](#scene-176) | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (14:45) | Roleplay |
+| [**Scene 177**](#scene-177) | The Iron Gates - Main Bridge | 1 2, 2026 DR (15:30) | Roleplay |
+| [**Scene 178**](#scene-178) | The Iron Gates - Main Bridge | 1 2, 2026 DR (16:00) | Roleplay |
+| [**Scene 179**](#scene-179) | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (16:30) | Roleplay |
+| [**Scene 180**](#scene-180) | The Iron Gates - Main Bridge | 2026-01-02T16:30:00Z | Roleplay |
+| [**Scene 181**](#scene-181) | The Iron Gates - Main Bridge | Month 1 Day 2, 2026 DR (16:30) | Roleplay |
+| [**Scene 182**](#scene-182) | The Iron Gates - Main Bridge | 2026-01-02, Afternoon | Roleplay |
+| [**Scene 183**](#scene-183) | The Iron Gates - Main Bridge | 2026-01-02T16:35:00.000001Z | Roleplay |
+| [**Scene 184**](#scene-184) | The Iron Gates - Main Bridge | Month 1, 2026 NE (Day 2) | Roleplay |
+| [**Scene 185**](#scene-185) | The Iron Gates - Southern Crags (Approaching Echo-Point Gamma) | 2026-01-02, 17:05 | Roleplay |
+| [**Scene 186**](#scene-186) | The Iron Gates - Southern Crags (Thorne Crypt Entrance) | 2026-01-02, 17:15 | Roleplay |
+| [**Scene 187**](#scene-187) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Afternoon (17:20) | Roleplay |
+| [**Scene 188**](#scene-188) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02T17:15:00.000000Z | Roleplay |
+| [**Scene 189**](#scene-189) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Afternoon | Roleplay |
+| [**Scene 190**](#scene-190) | Thorne Crypts - Level 1 (Upper Scriptorium) | Month 1, 2026 NE (Day 2) | Roleplay |
+| [**Scene 191**](#scene-191) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Afternoon | Roleplay |
+| [**Scene 192**](#scene-192) | Thorne Crypts - Level 1 (Upper Scriptorium) | Afternoon, 2026-01-02 (17:45) | Roleplay |
+| [**Scene 193**](#scene-193) | Thorne Crypts - Level 1 (Upper Scriptorium) | January 2, 2026 DR (18:00) | Roleplay |
+| [**Scene 194**](#scene-194) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 17:45 | Roleplay |
+| [**Scene 195**](#scene-195) | Thorne Crypts - Level 1 (Upper Scriptorium) | January 2, 2026 Assiah (18:00) | Roleplay |
+| [**Scene 196**](#scene-196) | Thorne Crypts - Level 1 (Upper Scriptorium) | Month 1 Day 2, 2026 AF (18:00) | Roleplay |
+| [**Scene 197**](#scene-197) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02T18:00:00.000000Z | Roleplay |
+| [**Scene 198**](#scene-198) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 18:00 | Roleplay |
+| [**Scene 199**](#scene-199) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 18:00:15 | Roleplay |
+| [**Scene 200**](#scene-200) | Thorne Crypts - Upper Scriptorium | 2026-01-02, 18:00:00 | Roleplay |
+| [**Scene 201**](#scene-201) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Evening | Roleplay |
+| [**Scene 202**](#scene-202) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02T18:00:00.000003Z (FROZEN) | Roleplay |
+| [**Scene 203**](#scene-203) | Thorne Crypts - Stairwell to Level 2 | Month 1 Day 2, 2026 AI (18:05) | Roleplay |
+| [**Scene 204**](#scene-204) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, 18:00:00 | Roleplay |
+| [**Scene 205**](#scene-205) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Evening | Roleplay |
+| [**Scene 206**](#scene-206) | Thorne Crypts - Level 1 (Upper Scriptorium) | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 207**](#scene-207) | Thorne Crypts - Level 1 (Upper Scriptorium) | 2026-01-02, Evening (Frozen) | Roleplay |
+| [**Scene 208**](#scene-208) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, 18:20 | Roleplay |
+| [**Scene 209**](#scene-209) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02T18:20:00.000001Z | Roleplay |
+| [**Scene 210**](#scene-210) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02T18:25:00.000000Z | Roleplay |
+| [**Scene 211**](#scene-211) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, 18:25:00.000001 | Roleplay |
+| [**Scene 212**](#scene-212) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, Evening (18:40) | Roleplay |
+| [**Scene 213**](#scene-213) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02T18:40:00.000001Z | Roleplay |
+| [**Scene 214**](#scene-214) | Thorne Crypts - Level 2 (Echo-Chamber) | 1 2, 2026 Assiah (18:40) | Roleplay |
+| [**Scene 215**](#scene-215) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, Evening | Roleplay |
+| [**Scene 216**](#scene-216) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, Evening | Roleplay |
+| [**Scene 217**](#scene-217) | Thorne Crypts - Level 2 (Echo-Chamber) | 2026-01-02, 18:50 | Roleplay |
+| [**Scene 218**](#scene-218) | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | 2026-01-02, Evening | Roleplay |
+| [**Scene 219**](#scene-219) | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | January 2, 2026 Imperial Era (19:20) | Roleplay |
+| [**Scene 220**](#scene-220) | Thorne Crypts - Level 2 (Consumed Echo-Chamber) | 2026-01-02T19:30:00Z | Roleplay |
+| [**Scene 221**](#scene-221) | Thorne Crypts - Level 2 (Secured Echo-Chamber) | 2026-01-02, 19:45 | Roleplay |
+| [**Scene 222**](#scene-222) | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 223**](#scene-223) | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | January 2, 2026 Assiah (18:45) | Roleplay |
+| [**Scene 224**](#scene-224) | Thorne Crypts - Level 2 (Echo-Chamber) | January 02, 2026 NE (19:30) | Roleplay |
+| [**Scene 225**](#scene-225) | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | 2026-01-02T19:30:00Z | Roleplay |
+| [**Scene 226**](#scene-226) | Thorne Crypts - Level 2 (Hollowed Echo-Chamber) | Evening, 2026-01-02 (19:30) | Roleplay |
+| [**Scene 227**](#scene-227) | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, Evening (18:55) | Roleplay |
+| [**Scene 228**](#scene-228) | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02T19:15:00.000005Z | Roleplay |
+| [**Scene 229**](#scene-229) | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, 19:30 | Roleplay |
+| [**Scene 230**](#scene-230) | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, Evening (Aftermath of Consumption) | Roleplay |
+| [**Scene 231**](#scene-231) | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, Evening | Roleplay |
+| [**Scene 232**](#scene-232) | Thorne Crypts - Level 3 (Lower Ossuary) | Month 1 Day 2, 2026 NE (20:15) | Roleplay |
+| [**Scene 233**](#scene-233) | Thorne Crypts - Level 3 (Lower Ossuary) | 2026-01-02, 20:15 (Evening) | Roleplay |
+| [**Scene 234**](#scene-234) | Thorne Crypts - Level 3 (Lower Ossuary) | Month 1 Day 2, 2026 DR (20:15) | Roleplay |
+| [**Scene 235**](#scene-235) | Thorne Crypts - Level 3 (Lower Ossuary) | Month 1, 2026 DR (Day 2) | Roleplay |
+| [**Scene 236**](#scene-236) | The Iron Gates - Command Bastion | Alturiak 1, 2026 DR (12:00) | Roleplay |
+| [**Scene 237**](#scene-237) | The Iron Gates - Command Bastion | 2026-02-01, Afternoon (14:30) | Roleplay |
+| [**Scene 238**](#scene-238) | The Iron Gates - Command Bastion | Alturiak 22, 2026 DR (16:00) | Roleplay |
+| [**Scene 239**](#scene-239) | The Iron Gates - Command Bastion | Mirtul 22, 1492 DR (16:00) | Roleplay |
+| [**Scene 240**](#scene-240) | The Iron Gates - Command Bastion | Month 2, 2026 DR (Day 22) | Roleplay |
+| [**Scene 241**](#scene-241) | The Iron Gates - Command Bastion | Month 2, 2026 DR (Day 22) | Roleplay |
+| [**Scene 242**](#scene-242) | The Iron Gates - Command Bastion | Alturiak 22, 2026 DR (16:15) | Roleplay |
+| [**Scene 243**](#scene-243) | The Iron Gates - Command Bastion | February 22, 2026 DR (16:15) | Roleplay |
+| [**Scene 244**](#scene-244) | The Iron Gates - Command Bastion | Month 2 Day 22, 2026 DR (16:20) | Roleplay |
+| [**Scene 245**](#scene-245) | The Iron Gates - Command Bastion | Month 2, 2026 DR (Day 22) | Roleplay |
+| [**Scene 246**](#scene-246) | The Iron Gates - Command Bastion | February 22, 2026 DR (16:20) | Roleplay |
+| [**Scene 247**](#scene-247) | The Iron Gates - Command Bastion (Threshold Lip) | Alturiak 22, 2026 DR (17:30) | Roleplay |
+| [**Scene 248**](#scene-248) | The Iron Gates - Command Bastion (Threshold Lip) | Alturiak 22, 2026 DR (18:00) | Roleplay |
+| [**Scene 249**](#scene-249) | Threshold Core - Void-Marrow | Month 2, 2026 DR (Day 22) | Roleplay |
+| [**Scene 250**](#scene-250) | Threshold Core - Void-Marrow | Alturiak 22, 2026 DR (18:15) | Roleplay |
+| [**Scene 251**](#scene-251) | Threshold Core - Void-Marrow | Alturiak 22, 2026 DR (18:20) | Roleplay |
+| [**Scene 252**](#scene-252) | Threshold Core - Void-Marrow | Alturiak 22, 2026 DR (18:30) | Roleplay |
+| [**Scene 253**](#scene-253) | Threshold Core - Void-Marrow | Kythorn 22, 2026 DR (18:45) | Roleplay |
+| [**Scene 254**](#scene-254) | Threshold Core - Void-Marrow | Month 2 Day 22, 2026 DR (18:45) | Roleplay |
+| [**Scene 255**](#scene-255) | Threshold Core - Void-Marrow | Month 2, 2026 DR (Day 22) | Roleplay |
+| [**Scene 256**](#scene-256) | Command Bastion - Iron Gates | February 22, 2026 DR (19:30) | Roleplay |
+| [**Scene 257**](#scene-257) | Command Bastion - Iron Gates | Month 2, 2026 DR (Day 22) | Roleplay |
+| [**Scene 258**](#scene-258) | Stone-Anvil Flagship 'Adjudicator' - Command Bridge |  | Roleplay |
+| [**Scene 259**](#scene-259) | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | February 22, 2026 DR (19:45) | Roleplay |
+| [**Scene 260**](#scene-260) | Stone-Anvil Flagship 'Adjudicator' - Bridge | 2026-02-22T20:00:00.000000Z | Roleplay |
+| [**Scene 261**](#scene-261) | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | 2026-02-22T20:05:00.000000Z | Roleplay |
+| [**Scene 262**](#scene-262) | Stone-Anvil Flagship 'Adjudicator' - Bridge (Orbiting Khordûm) | February 22, 2026 DR (21:00) | Roleplay |
+| [**Scene 263**](#scene-263) | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | February 22, 2026 DR (Night) | Roleplay |
+| [**Scene 264**](#scene-264) | Stone-Anvil Flagship 'Adjudicator' - Command Bridge | 2026-02-22, Night | Roleplay |
+| [**Scene 265**](#scene-265) | Khordûm - Central Resonance-Vault | 2026-02-23T01:15:00.000000Z | Roleplay |
+| [**Scene 266**](#scene-266) | Khordûm - Central Resonance-Vault | 2026 February 23, 01:15 | Roleplay |
+| [**Scene 267**](#scene-267) | Khordûm - Central Resonance-Vault | Month 2, 2026 DR (Day 23) | Roleplay |
+| [**Scene 268**](#scene-268) | Khordûm - Central Resonance-Vault (Sovereign Seat) | Alturiak 23, 2026 DR (03:30) | Roleplay |
+| [**Scene 269**](#scene-269) | Khordûm - Central Resonance-Vault | 2026-02-23, 02:00 (Deep Night) | Roleplay |
+| [**Scene 270**](#scene-270) | Khordûm - Central Resonance-Vault | February 23, 2026 DR (02:15) | Roleplay |
+| [**Scene 271**](#scene-271) | Khordûm - Central Resonance-Vault | Month 2, 2026 DR (Day 23) | Roleplay |
+| [**Scene 272**](#scene-272) | Khordûm - Central Resonance-Vault | Month 2 Day 23, 2026 DR (02:15) | Roleplay |
+| [**Scene 273**](#scene-273) | Khordûm - Central Resonance-Vault | Kythorn 2, 11 NP (02:15) | Roleplay |
+| [**Scene 274**](#scene-274) | Khordûm - Sovereign Resonance-Vault | Kythorn 15, 2026 DR (12:00) | Roleplay |
+| [**Scene 275**](#scene-275) | Khordûm - Central Resonance-Vault | 2026-03-15, Midday | Roleplay |
+| [**Scene 276**](#scene-276) | Khordûm - Central Resonance-Vault | Month 4, 2026 DR (Day 5) | Roleplay |
+| [**Scene 277**](#scene-277) | Khordûm - Central Resonance-Vault | Month 4 Day 5, 2026 DR (Morning) | Roleplay |
+| [**Scene 278**](#scene-278) | Khordûm - Central Resonance-Vault | 2026-04-26T10:00:00Z | Roleplay |
+| [**Scene 279**](#scene-279) | Khordûm - Central Resonance-Vault | 2026-04-05T10:00:00.000000Z | Roleplay |
+| [**Scene 280**](#scene-280) | Khordûm - Central Resonance-Vault | Kythorn 5, 2026 DR (10:00 (Morning)) | Roleplay |
+| [**Scene 281**](#scene-281) | Khordûm - Central Resonance-Vault | Kythorn 2, 1492 DR (10:00) | Roleplay |
+| [**Scene 282**](#scene-282) | Khordûm - Central Resonance-Vault | Month 4, 2026 DR (Day 5) | Roleplay |
+| [**Scene 283**](#scene-283) | Khordûm - Central Resonance-Vault | April 5, 2026 (10:00 Morning) | Roleplay |
+| [**Scene 284**](#scene-284) | Khordûm - Central Resonance-Vault | Month 4, 2026 DR (Day 26) | Roleplay |
+| [**Scene 285**](#scene-285) | Khordûm - Central Resonance-Vault |  | Roleplay |
+| [**Scene 286**](#scene-286) | Khordûm - Central Resonance-Vault | Kythorn 18, 2026 DR (Dawn) | Roleplay |
+| [**Scene 287**](#scene-287) | Khordûm - Central Resonance-Vault | Kythorn 2, 2026 DR (09:00) | Roleplay |
+| [**Scene 288**](#scene-288) | Khordûm - Central Resonance-Vault | 4 26, 2026 DR (10:00) | Roleplay |
+| [**Scene 289**](#scene-289) | Khordûm - Central Resonance-Vault | Kythorn 17, 2026 DR (10:15) | Roleplay |
+| [**Scene 290**](#scene-290) | Khordûm - Central Resonance-Vault | 4 17, 2026 DR (10:30) | Roleplay |
+| [**Scene 291**](#scene-291) | Khordûm - Resonance-Vault Inner Sanctuary | 4 17, 2026 DR (11:30) | Roleplay |
+| [**Scene 292**](#scene-292) | Aeterna - The Zenith Spire - Imperial Audience Chamber | 4 17, 2026 DR (12:45) | Roleplay |
+| [**Scene 293**](#scene-293) | Aeterna - The Zenith Spire - Imperial Audience Chamber | 4 17, 2026 DR (13:00) | Roleplay |
+| [**Scene 294**](#scene-294) | Aeterna - The Zenith Spire - Imperial Audience Chamber | Month 4, 2026 DR (Day 17) | Roleplay |
+| [**Scene 295**](#scene-295) | Aeterna - The Zenith Spire - Imperial Audience Chamber | 4 17, 2026 DR (13:30) | Roleplay |
+| [**Scene 296**](#scene-296) | Aeterna - The Zenith Spire - Imperial Audience Chamber | April 17, 2026 DR (13:35) | Roleplay |
+| [**Scene 297**](#scene-297) | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17T13:35:00Z | Roleplay |
+| [**Scene 298**](#scene-298) | Aeterna - The Zenith Spire - Imperial Audience Chamber |  | Roleplay |
+| [**Scene 299**](#scene-299) | Aeterna - The Zenith Spire - Imperial Audience Chamber | Month 4, 2026 DR (Day 17) | Roleplay |
+| [**Scene 300**](#scene-300) | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17, 13:35:00 | Roleplay |
+| [**Scene 301**](#scene-301) | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17T13:35:00.000002Z | Roleplay |
+| [**Scene 302**](#scene-302) | Aeterna - The Zenith Spire - Imperial Audience Chamber | April 17, 2026 DR (14:15) | Roleplay |
+| [**Scene 303**](#scene-303) | Aeterna - The Zenith Spire - Imperial Audience Chamber | Month 4 Day 17, 2026 DR (14:15) | Roleplay |
+| [**Scene 304**](#scene-304) | Aeterna - The Zenith Spire - Imperial Audience Chamber | April 17, 2026 DR (14:15) | Roleplay |
+| [**Scene 305**](#scene-305) | Aeterna - The Zenith Spire - Imperial Audience Chamber | 2026-04-17, Afternoon (Day 1 of Apprenticeship) | Roleplay |
+| [**Scene 306**](#scene-306) | Aeterna - The Zenith Spire - Obsidian Antechamber | Month 4, 2026 DR (Day 17) | Roleplay |
+| [**Scene 307**](#scene-307) | Aeterna - The Zenith Spire - Obsidian Antechamber | 2026-04-17T14:45:00.000000Z | Roleplay |
+| [**Scene 308**](#scene-308) | Aeterna - The Zenith Spire - Obsidian Antechamber | 2026-04-17T14:50:00Z | Roleplay |
+| [**Scene 309**](#scene-309) | Aeterna - The Zenith Spire - Training Sanctum (The Inner Void) | 2026-04-24T14:50:00.000000Z | Roleplay |
+| [**Scene 310**](#scene-310) | Khordûm - Central Resonance-Vault | May 1, 2026 DR (19:00) | Roleplay |
+| [**Scene 311**](#scene-311) | Training Sanctum - Zenith Sphere | 2026-04-25, Dawn | Roleplay |
+| [**Scene 312**](#scene-312) | Training Sanctum - Zenith Sphere | April 25, 2026 DR (11:30 (Morning)) | Roleplay |
+| [**Scene 313**](#scene-313) | Training Sanctum - Zenith Sphere | 2026-04-26T11:45:00Z | Roleplay |
+| [**Scene 314**](#scene-314) | Training Sanctum - Zenith Sphere | April 26, 2026 DR (08:00) | Roleplay |
+| [**Scene 315**](#scene-315) | Training Sanctum - Zenith Sphere | April 26, 2026 DR (08:00) | Roleplay |
+| [**Scene 316**](#scene-316) | Training Sanctum - Zenith Sphere | April 27, 2026 AE (18:00) | Roleplay |
+| [**Scene 317**](#scene-317) | Training Sanctum - Zenith Sphere | 2026-04-27T08:00:00.000000Z | Roleplay |
+| [**Scene 318**](#scene-318) | Training Sanctum - Zenith Sphere | April 27, 2026 DR (Morning (Day 3 of Apprenticeship)) | Roleplay |
+| [**Scene 319**](#scene-319) | Training Sanctum - Zenith Sphere | April 27, 2026 DR (18:00) | Roleplay |
+| [**Scene 320**](#scene-320) | Training Sanctum - Zenith Sphere | April 28, 2026 Era of Prosperity (08:00) | Roleplay |
+| [**Scene 321**](#scene-321) | Training Sanctum - Zenith Sphere | 2026-04-29T06:00:00.000000Z | Roleplay |
+| [**Scene 322**](#scene-322) | Training Sanctum - Zenith Sphere | 2026-04-29T10:00:00.000000Z | Roleplay |
+| [**Scene 323**](#scene-323) | Training Sanctum - Zenith Sphere | 2026-04-29T10:00:00Z | Roleplay |
+| [**Scene 324**](#scene-324) | Training Sanctum - Zenith Sphere | Month 4, 2026 DR (Day 29) | Roleplay |
+| [**Scene 325**](#scene-325) | Training Sanctum - Zenith Sphere | 2026-05-01T06:00:00.000000Z | Day 6 of Apprenticeship | Roleplay |
+| [**Scene 326**](#scene-326) | Training Sanctum - Zenith Sphere | 2026-05-01, Morning | Roleplay |
+| [**Scene 327**](#scene-327) | Training Sanctum - Zenith Sphere | 2026 May 1, 00:00 (Day 7 of Apprenticeship) | Roleplay |
+| [**Scene 328**](#scene-328) | Training Sanctum - Zenith Sphere | 2026-05-01, Deep Night | Roleplay |
+| [**Scene 329**](#scene-329) | Command Bastion - Khordûm | Month 5, 2026 Harptos (Day 1) | Roleplay |
+| [**Scene 330**](#scene-330) | Command Bastion - Khordûm | 2026-05-01, Dawn | Roleplay |
+| [**Scene 331**](#scene-331) | Command Bastion - Khordûm | May 1, 2026 AE (17:00) | Roleplay |
+| [**Scene 332**](#scene-332) | Command Bastion - Khordûm | 2026-05-01, Evening | Roleplay |
+| [**Scene 333**](#scene-333) | Command Bastion - Khordûm | May 01, 2026 DR (17:00) | Roleplay |
+| [**Scene 334**](#scene-334) | Khordûm - Central Resonance-Vault | May 1, 2026 (17:05 (Evening)) | Roleplay |
+| [**Scene 335**](#scene-335) | Khordûm - Central Resonance-Vault | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 336**](#scene-336) | Khordûm - Central Resonance-Vault | May 01, 2026 DR (20:00 (Night)) | Roleplay |
+| [**Scene 337**](#scene-337) | Khordûm - Command Bastion Mezzanine | 2026-05-01, 21:30 | Roleplay |
+| [**Scene 338**](#scene-338) | Khordûm - Command Bastion Mezzanine | Mirtul 1, 2026 DR (20:00) | Roleplay |
+| [**Scene 339**](#scene-339) | Khordûm - Command Bastion Mezzanine | 2026-05-01T20:30:00.000001Z | Roleplay |
+| [**Scene 340**](#scene-340) | Khordûm - Command Bastion Mezzanine | 2026-05-01T20:00:00.000003Z | Roleplay |
+| [**Scene 341**](#scene-341) | Khordūm - Command Bastion Mezzanine | 2026-05-01, Night (20:30:00.000004) | Roleplay |
+| [**Scene 342**](#scene-342) | Khordūm - Command Bastion Mezzanine | Month 5, 2026 DR (Day 1) | Roleplay |
+| [**Scene 343**](#scene-343) | Khordūm - Command Bastion Mezzanine |  | Roleplay |
+| [**Scene 344**](#scene-344) | Khordūm - Command Bastion Mezzanine | 2026-05-01T20:00:00.000000Z | Roleplay |
+| [**Scene 345**](#scene-345) | Khordūm - Command Bastion Mezzanine | May 01, 2026 DR (20:45) | Roleplay |
+| [**Scene 346**](#scene-346) | Khordûm - Command Bastion Mezzanine | May 1, 2026 (21:05) | Roleplay |
+| [**Scene 347**](#scene-347) | Khordûm - Command Bastion Mezzanine | Night, 2026-05-01 (21:15) | Roleplay |
+| [**Scene 348**](#scene-348) | Khordûm - Command Bastion Mezzanine | Mirtul 1, 2026 DR (22:30) | Roleplay |
+| [**Scene 349**](#scene-349) | Khordûm - The Brass Tankard (Lower Strata) | May 01, 2026 5E (23:45) | Roleplay |
+| [**Scene 350**](#scene-350) | Khordûm - The Brass Tankard | 2026-05-01T20:45:00.000000Z | Roleplay |
+| [**Scene 351**](#scene-351) | Khordûm - The Brass Tankard | Night, 2026-05-01 (21:00) | Roleplay |
+| [**Scene 352**](#scene-352) | Khordûm - The Brass Tankard | Mirtul 1, 2026 DR (22:15) | Roleplay |
+| [**Scene 353**](#scene-353) | Khordûm - The Brass Tankard | Mirtul 1, 2026 DR (22:30) | Roleplay |
+| [**Scene 354**](#scene-354) | Khordûm - The Brass Tankard | Mirtul (Month 5) 01, 2026 DR (22:45) | Roleplay |
+| [**Scene 355**](#scene-355) | Khordûm - The Brass Tankard | Mirtul 1, 2026 DR (22:45) | Roleplay |
+| [**Scene 356**](#scene-356) | Khordûm - The Brass Tankard | 2026-05-01, Night (22:45) | Roleplay |
+| [**Scene 357**](#scene-357) | Khordûm - The Brass Tankard | 2026-05-01, Night (22:45:00) | Roleplay |
+| [**Scene 358**](#scene-358) | Khordûm - The Brass Tankard | 2026-05-01, Night (23:00) | Roleplay |
+| [**Scene 359**](#scene-359) | Khordûm - The Brass Tankard | Month 5, 2026 DR (Day 1) | Roleplay |
+| [**Scene 360**](#scene-360) | Khordûm - The Brass Tankard | 2026-05-01, Night (23:20) | Roleplay |
+| [**Scene 361**](#scene-361) | Khordûm - The Brass Tankard | 2026-05-01, Night (23:25) | Roleplay |
+| [**Scene 362**](#scene-362) | Khordûm - The Brass Tankard | 2026-05-01, Night (23:20) | Roleplay |
+| [**Scene 363**](#scene-363) | Khordûm - The Brass Tankard | May 1, 2026 DR (23:25) | Roleplay |
+| [**Scene 364**](#scene-364) | Khordûm - The Brass Tankard | Night, 2026-05-01 (23:45) | Roleplay |
+| [**Scene 365**](#scene-365) | Khordûm - The Brass Tankard | May 1, 2026 DR (23:55) | Roleplay |
+| [**Scene 366**](#scene-366) | Khordûm - The Brass Tankard | 2026-05-01, Night (23:58) | Roleplay |
+| [**Scene 367**](#scene-367) | Khordûm - The Brass Tankard | 2026-05-01, Night (23:58) | Roleplay |
+| [**Scene 368**](#scene-368) | Khordûm - The Brass Tankard / City Streets | Month 5 Day 2, 2026 DR (00:15 (Deep Night)) | Roleplay |
+| [**Scene 369**](#scene-369) | Khordûm - Private Sanctum | 2026-05-02, 01:15 | Roleplay |
+| [**Scene 370**](#scene-370) | Khordûm - Private Sanctum | Deep Night, 2026-05-02 (02:30) | Roleplay |
+| [**Scene 371**](#scene-371) | Khordûm - Private Sanctum | May 02, 2026 DR (03:00) | Roleplay |
+| [**Scene 372**](#scene-372) | Khordûm - Private Sanctum | Mirtul 2, 2026 DR (03:30) | Roleplay |
+| [**Scene 373**](#scene-373) | Khordûm - Private Sanctum | Month 5 Day 2, 2026 DR (04:00 (Deep Night)) | Roleplay |
+| [**Scene 374**](#scene-374) | Khordûm - Private Sanctum | May 02, 2026 DR (04:45) | Roleplay |
+| [**Scene 375**](#scene-375) | Khordûm - Private Sanctum | 2026-05-02T04:15:00.000002Z | Roleplay |
+| [**Scene 376**](#scene-376) | Khordûm - Private Sanctum | May 2, 2026 DR (04:50) | Roleplay |
+| [**Scene 377**](#scene-377) | Khordûm - Private Sanctum | 2026-05-02, 04:55:00 | Roleplay |
+| [**Scene 378**](#scene-378) | Khordûm - Private Sanctum | 2026-05-02, Deep Night (05:05) | Roleplay |
+| [**Scene 379**](#scene-379) | Khordûm - Private Sanctum | Mirtul 2, 2026 DR (05:15) | Roleplay |
+| [**Scene 380**](#scene-380) | Khordūm - Private Sanctum | 2026-05-02T05:10:00.000000Z | Roleplay |
+| [**Scene 381**](#scene-381) | Khordûm - Private Sanctum | 2026 May 02, 05:15 (Frozen) | Roleplay |
+| [**Scene 382**](#scene-382) | Khordûm - Private Sanctum | 2026 May 2, 05:30 | Roleplay |
+| [**Scene 383**](#scene-383) | Khordûm - Private Sanctum | 2026-05-02, 09:30 | Roleplay |
+| [**Scene 384**](#scene-384) | Khordûm - Private Sanctum | 2026-05-02T09:30:00.000000Z | Roleplay |
+| [**Scene 385**](#scene-385) | Khordûm - Private Sanctum | 2026-05-02T09:30:00.000000Z | Roleplay |
+| [**Scene 386**](#scene-386) | Khordûm - Resonance-Vault / Southern Crags | May 2, 2026 DR (14:00) | Roleplay |
+| [**Scene 387**](#scene-387) | Glacial Spine Periphery | 2026-05-03, 10:00 | Roleplay |
+| [**Scene 388**](#scene-388) | Glacial Spine Periphery | 2026 May 03, 12:05 | Roleplay |
+| [**Scene 389**](#scene-389) | Glacial Spine - Silent Scriptorium Periphery | 2026-05-03, Midday | Roleplay |
+| [**Scene 390**](#scene-390) | Glacial Spine - Silent Scriptorium Periphery | Mirtul 3, 2026 DR (12:15) | Roleplay |
+| [**Scene 391**](#scene-391) | Glacial Spine - Silent Scriptorium Inner Sanctum | 2026-05-03T12:10:00.000001Z | Roleplay |
+| [**Scene 392**](#scene-392) | Glacial Spine - Silent Scriptorium Overlook | 2026-05-03, Midday (12:15) | Roleplay |
+| [**Scene 393**](#scene-393) | Glacial Spine - Silent Scriptorium (Command Overlook) | Month 5, 2026 DR (Day 3) | Roleplay |
+| [**Scene 394**](#scene-394) | Glacial Spine - Silent Scriptorium Overlook | 2026-05-03T14:00:00.000000Z | Roleplay |
+| [**Scene 395**](#scene-395) | Glacial Spine - Silent Scriptorium Overlook | 2026-05-03T14:00:00.000000Z | Roleplay |
+| [**Scene 396**](#scene-396) | Glacial Spine - Silent Scriptorium Core | 2026-05-03T14:00:00.000788Z | Roleplay |
+| [**Scene 397**](#scene-397) | Glacial Spine - Silent Scriptorium Core | 2026 May 3, 14:00:00.000788 | Roleplay |
+| [**Scene 398**](#scene-398) | Glacial Spine - Silent Scriptorium Core | 2026-05-03, Afternoon | Roleplay |
+| [**Scene 399**](#scene-399) | Glacial Spine - Silent Scriptorium Core | Kythorn 3, 2026 DR (14:15) | Roleplay |
+| [**Scene 400**](#scene-400) | Glacial Spine - Silent Scriptorium Core | Month 5, 2026 DR (Day 3) | Roleplay |
+| [**Scene 401**](#scene-401) | Glacial Spine - Silent Scriptorium Core | 2026-05-03, 14:21 | Roleplay |
+| [**Scene 402**](#scene-402) | Glacial Spine - Silent Scriptorium Core | Month 5, 2026 DR (Day 3) | Roleplay |
+| [**Scene 403**](#scene-403) | Glacial Spine - Silent Scriptorium Core | May 3, 2026 DR (15:15) | Roleplay |
+| [**Scene 404**](#scene-404) | Glacial Spine - Silent Scriptorium Core | 2026-05-03T15:00:00.000003Z | Roleplay |
+| [**Scene 405**](#scene-405) | Glacial Spine - Silent Scriptorium Core | May 03, 2026 DR (15:00) | Roleplay |
+| [**Scene 406**](#scene-406) | Glacial Spine - Silent Scriptorium Core |  | Roleplay |
+| [**Scene 407**](#scene-407) | Glacial Spine - Silent Scriptorium Core | May 3, 2026 DR (15:15) | Roleplay |
+| [**Scene 408**](#scene-408) | Glacial Spine - Silent Scriptorium Core | May 03, 2026 DR (15:15) | Roleplay |
+| [**Scene 409**](#scene-409) | Glacial Spine - Silent Scriptorium Core | May 03, 2026 DR (15:15) | Roleplay |
+| [**Scene 410**](#scene-410) | Glacial Spine - Passage to Western Basalt Shelf | May 3, 2026 DR (17:15) | Roleplay |
+| [**Scene 411**](#scene-411) | Glacial Spine - Passage to Western Basalt Shelf | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 412**](#scene-412) | Glacial Spine - Western Basalt Shelf | May 3, 2026 DR (18:30) | Roleplay |
+| [**Scene 413**](#scene-413) | Glacial Spine - Western Basalt Shelf Perimeter | May 03, 2026 DR (19:15) | Roleplay |
+| [**Scene 414**](#scene-414) | Glacial Spine - Western Basalt Shelf Perimeter | 2026-05-03, Evening | Roleplay |
+| [**Scene 415**](#scene-415) | Glacial Spine - Western Basalt Shelf Perimeter | Mirtul 5, 2026 DR (10:45) | Roleplay |
+| [**Scene 416**](#scene-416) | Glacial Spine - Western Basalt Shelf Perimeter | May 3, 2026 DR (19:35) | Roleplay |
+| [**Scene 417**](#scene-417) | Western Basalt Shelf - Core Vault | May 3, 2026 DR (20:15) | Roleplay |
+| [**Scene 418**](#scene-418) | Western Basalt Shelf - Core Vault | May 3, 2026 DR (20:20) | Roleplay |
+| [**Scene 419**](#scene-419) | Western Basalt Shelf - Core Vault | May 3, 2026 DR (20:15) | Roleplay |
+| [**Scene 420**](#scene-420) | Western Basalt Shelf - Core Vault | 2026-05-03T20:15:00.000000Z | Roleplay |
+| [**Scene 421**](#scene-421) | Western Basalt Shelf - Marching North | 2026-05-04T02:30:00.000000Z | Roleplay |
+| [**Scene 422**](#scene-422) | Echo-Point Alpha - Perimeter | Mirtul 4, 2026 DR (03:15) | Roleplay |
+| [**Scene 423**](#scene-423) | Echo-Point Alpha - Perimeter | 2026-05-04, 03:15 | Roleplay |
+| [**Scene 424**](#scene-424) | Echo-Point Alpha - Perimeter | 2026-05-04, 03:15 (Deep Night) | Roleplay |
+| [**Scene 425**](#scene-425) | Echo-Point Alpha - Core | Mirtul 4, 2026 DR (03:20) | Roleplay |
+| [**Scene 426**](#scene-426) | Echo-Point Alpha - Core | 2026-05-04T02:30:00.000000Z | Roleplay |
+| [**Scene 427**](#scene-427) | Echo-Point Alpha - Core | Mirtul 4, 2026 DR (03:15) | Roleplay |
+| [**Scene 428**](#scene-428) | Echo-Point Alpha - Core | May 04, 2026 DR (03:15) | Roleplay |
+| [**Scene 429**](#scene-429) | Echo-Point Alpha - Core | May 4, 2026 DR (04:00) | Roleplay |
+| [**Scene 430**](#scene-430) | Echo-Point Alpha - Core | 2026-05-04T04:00:00.000000Z | Roleplay |
+| [**Scene 431**](#scene-431) | Echo-Point Alpha - Core | May 4, 2026 DR (04:00) | Roleplay |
+| [**Scene 432**](#scene-432) | Echo-Point Alpha - Core | 2026-05-04T04:00:00.000001Z | Roleplay |
+| [**Scene 433**](#scene-433) | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (04:00) | Roleplay |
+| [**Scene 434**](#scene-434) | Echo-Point Alpha - Core | Month 5 Day 4, 2026 DR (05:00) | Roleplay |
+| [**Scene 435**](#scene-435) | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (05:15) | Roleplay |
+| [**Scene 436**](#scene-436) | Echo-Point Alpha - Core | 5 4, 2026 DR (05:20) | Roleplay |
+| [**Scene 437**](#scene-437) | Echo-Point Alpha - Core | 5 4, 2026 DR (05:25) | Roleplay |
+| [**Scene 438**](#scene-438) | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (05:30) | Roleplay |
+| [**Scene 439**](#scene-439) | Echo-Point Alpha - Core | May 4, 2026 DR (05:35) | Roleplay |
+| [**Scene 440**](#scene-440) | Echo-Point Alpha - Core | May 4, 2026 DR (05:45) | Roleplay |
+| [**Scene 441**](#scene-441) | Echo-Point Alpha - Core | May 4, 2026 DR (06:15) | Roleplay |
+| [**Scene 442**](#scene-442) | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (06:30) | Roleplay |
+| [**Scene 443**](#scene-443) | Echo-Point Alpha - Core | Kythorn 4, 2026 DR (06:45) | Roleplay |
+| [**Scene 444**](#scene-444) | Echo-Point Alpha - Core | May 4, 2026 DR (07:15) | Roleplay |
+| [**Scene 445**](#scene-445) | Echo-Point Alpha - Core | 2026-05-04, Morning | Roleplay |
+| [**Scene 446**](#scene-446) | Echo-Point Alpha - Core (Sovereign Hub) | Kythorn 4, 2026 DR (07:15) | Roleplay |
+| [**Scene 447**](#scene-447) | Echo-Point Alpha - Core | 2026-05-04T07:16:00Z | Roleplay |
+| [**Scene 448**](#scene-448) | Echo-Point Alpha - Core | May 4, 2026 DR (07:16) | Roleplay |
+| [**Scene 449**](#scene-449) | Echo-Point Alpha - Core | 5 4, 2026 DR (07:16) | Roleplay |
+| [**Scene 450**](#scene-450) | Echo-Point Alpha - Core | Kythorn 4, 40 AG (07:16) | Roleplay |
+| [**Scene 451**](#scene-451) | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
+| [**Scene 452**](#scene-452) | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
+| [**Scene 453**](#scene-453) | Echo-Point Alpha - Core | Month 5, 40 AG (Day 4) | Roleplay |
+| [**Scene 454**](#scene-454) | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
+| [**Scene 455**](#scene-455) | Echo-Point Alpha - Core | Month 5 Day 4, 70 AG (07:16) | Roleplay |
+| [**Scene 456**](#scene-456) | Echo-Point Alpha - Core | Month 5 Day 4, 70 AG (07:16) | Roleplay |
+| [**Scene 457**](#scene-457) | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
+| [**Scene 458**](#scene-458) | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:16) | Roleplay |
+| [**Scene 459**](#scene-459) | Echo-Point Alpha - Core | 5 4, 40 AG (07:20) | Roleplay |
+| [**Scene 460**](#scene-460) | Echo-Point Alpha - Core | 5 4, 40 AG (07:20) | Roleplay |
+| [**Scene 461**](#scene-461) | Echo-Point Alpha - Core | Month 5 Day 4, 40 AG (07:20) | Roleplay |
+| [**Scene 462**](#scene-462) | Echo-Point Alpha - Core | 5 4, 40 AG (07:20) | Roleplay |
+| [**Scene 463**](#scene-463) | Aeterna - Imperial Spire - Lord Regent's Private Sanctum | Month 5 Day 4, 40 AG (07:30) | Roleplay |
+| [**Scene 464**](#scene-464) | Aeterna - Imperial Spire - Lord Regent's Private Sanctum | 5 4, 40 AG (07:35) | Roleplay |
+| [**Scene 465**](#scene-465) | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:30) | Roleplay |
+| [**Scene 466**](#scene-466) | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:35) | Roleplay |
+| [**Scene 467**](#scene-467) | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:40) | Roleplay |
+| [**Scene 468**](#scene-468) | Aeterna - Zenith Palace (Floating above Aeterna) | Month 5 Day 4, 40 AG (08:45) | Roleplay |
+| [**Scene 469**](#scene-469) | Aeterna - Zenith Palace (Floating above Aeterna) | 5 4, 40 AG (08:50) | Roleplay |
+| [**Scene 470**](#scene-470) | Zenith Palace - Obsidian Balcony | Kythorn 4, Year 40 After Gambit (AG) (08:50) | Roleplay |
+| [**Scene 471**](#scene-471) | Zenith Palace (High Altitude) | Month 5 Day 4, 40 AG (09:00) | Roleplay |
+| [**Scene 472**](#scene-472) | Zenith Palace - High Sanctum | 5 4, 40 AG (10:00) | Roleplay |
+| [**Scene 473**](#scene-473) | Zenith Palace - High Sanctum | Month 5 Day 4, 40 AG (10:05) | Roleplay |
+| [**Scene 474**](#scene-474) | Global (The Zenith Circuit) | Month 5 Day 4, 40 AG (12:00) | Roleplay |
+| [**Scene 475**](#scene-475) | Global (Zenith Tour) | Month 5, 40 AG (Day 4) | Roleplay |
+| [**Scene 476**](#scene-476) | Global (Zenith Tour) - High Atmosphere | Month 5 Day 4, 40 AG (13:30) | Roleplay |
+| [**Scene 477**](#scene-477) | Global (Zenith Tour) | Month 5 Day 4, 40 AG (13:35) | Roleplay |
+| [**Scene 478**](#scene-478) | Global (Zenith Palace) | Month 5 Day 4, 40 AG (Afternoon) | Roleplay |
+| [**Scene 479**](#scene-479) | Global (Zenith Palace) | Month 5 Day 4, 40 AG (13:35) | Roleplay |
+| [**Scene 480**](#scene-480) | Global (Zenith Palace) | 5 4, 40 AG (13:40) | Roleplay |
+| [**Scene 481**](#scene-481) | Global (Zenith Palace) | 5 4, 40 AG (14:15) | Roleplay |
+| [**Scene 482**](#scene-482) | Global (Zenith Palace) | Month 5 Day 4, 40 AG (Afternoon) | Roleplay |
+| [**Scene 483**](#scene-483) | Global (Zenith Palace) | Month 5 Day 4, 40 AG (14:15) | Roleplay |
+| [**Scene 484**](#scene-484) | The Zenith Palace (Stationary Coordinate) | Month 5 Day 4, 1040 AG (Midday) | Roleplay |
+| [**Scene 485**](#scene-485) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:05) | Roleplay |
+| [**Scene 486**](#scene-486) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (Midday) | Roleplay |
+| [**Scene 487**](#scene-487) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:05) | Roleplay |
+| [**Scene 488**](#scene-488) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:15) | Roleplay |
+| [**Scene 489**](#scene-489) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (Midday) | Roleplay |
+| [**Scene 490**](#scene-490) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:30) | Roleplay |
+| [**Scene 491**](#scene-491) | Global (Zenith Palace - Great Hall) | Month 5 Day 4, 1040 AG (12:30) | Roleplay |
+| [**Scene 492**](#scene-492) | Global (Zenith Palace) | Day 4 of Month 5, 1040 AG (12:30) | Roleplay |
+| [**Scene 493**](#scene-493) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (12:45) | Roleplay |
+| [**Scene 494**](#scene-494) | Global (Zenith Palace - Great Hall) | Month 5 Day 4, 1040 AG (13:00 (Midday)) | Roleplay |
+| [**Scene 495**](#scene-495) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (13:15) | Roleplay |
+| [**Scene 496**](#scene-496) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (13:30) | Roleplay |
+| [**Scene 497**](#scene-497) | Global (Zenith Palace) | Month 5 Day 4, 1040 AG (13:30) | Roleplay |
+| [**Scene 498**](#scene-498) | Global (Zenith Palace) | 5 4, 1040 AG (13:45) | Roleplay |
+| [**Scene 499**](#scene-499) | Zenith Palace - Great Hall | Month 5 Day 4, 1040 AG (Afternoon) | Roleplay |
+| [**Scene 500**](#scene-500) | Zenith Palace - Great Hall | Month 5 Day 4, 1040 AG (Afternoon) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Winter-Mourn Province, Edge of the Frost-Veil Forest** &nbsp;|&nbsp; ⏳ **Kythorn 15, 40 A.G. (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 5/5, Divine Sense: 4/4**
@@ -628,8 +646,11 @@ In the distance, you see a young girl among the tents, pulling a thin shawl tigh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Gratian&#x27;s Lead - Steel your heart and prepare to execute the Empress&#x27;s will to preserve the Silent Peace.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 New Peace (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 5/5, Divine Sense: 4/4**
@@ -647,8 +668,11 @@ Gratian doesn't hesitate, his heavy mace rising. Your heart feels like a lead we
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Use your presence and the might of the Argent Eaglets to force them to lay down arms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (05:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -662,8 +686,11 @@ Behind you, the Argent Eaglets fan out, their disciplined silence more threateni
 God Mode:
 Make me neutral evil and power hungry and sadistic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (05:50 (Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 250/300 | Gold: 0gp**
@@ -673,8 +700,11 @@ The user has requested a fundamental shift in the protagonist's morality. Arion 
 > 👤 **Player:**
 > *"Think. How can I improve my personal power. Can I enslave and sell these refugees"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (05:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 250/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (L2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -688,8 +718,11 @@ Improving your power requires two things: gold to grease the wheels of the burea
 God Mode:
 What are my stats? Give me 16 cha 16 str 14 int and redistribute the rest
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (05:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 250/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (L2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -699,8 +732,11 @@ The administrative logs of House Valerion flicker with a faint blue light as the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose &#x27;Labor Transfer&#x27; to Gratian - Convince the Prefect that killing them is a waste and they should be sold to the Adamant Vault mines or Imperial work-gangs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (06:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 250/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (L2+), Lay on Hands: 5/5, Divine Sense: 4/4**
@@ -718,8 +754,11 @@ He signals to his Signifer. "Hold the executions. Sort them by health and age. W
 > 👤 **Player:**
 > *"Supervise sorting, get reasonable gold estimate, then negotiate the cut"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 12/12 | XP: 550/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (L2+), Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -733,8 +772,11 @@ Gratian wipes frost from his cloak, his eyes fixed on the line of shackled men. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Insist on Twenty - Press Gratian harder, citing the Valerion influence in Aeterna to get your full 20%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 12/12 | XP: 400/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: No Spells Yet (L2+), Lay on Hands: 10/10, Divine Sense: 4/4**
@@ -748,8 +790,11 @@ Gratian’s jaw sets, a muscle leaping in his scarred cheek. He looks at you not
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the 15% - Secure the 450gp cut and maintain a working relationship with Gratian.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (07:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 12/12 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: No Spells Yet (L2+), Lay on Hands: 10/10, Divine Sense: 4/4**
@@ -767,8 +812,11 @@ As the Eaglets begin the grim task of shackling the 'assets' for the long march 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Messenger - Demand more intel on the &#x27;skirmish&#x27; and the keep&#x27;s internal defenses before moving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 12/12 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Lay on Hands: 10/10, Divine Sense: 4/4, Spells: No Spells Yet (L2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -784,8 +832,11 @@ You feel the familiar, icy satisfaction of a successful interrogation. The tacti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Think. Analyze the Messenger&#x27;s Intel - Pause to consider the risks of the tunnel and the reliability of the Shield-Breaker report.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 12/12 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Lay on Hands: 10/10, Divine Sense: 4/4, Spells: No Spells Yet (L2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -795,8 +846,11 @@ You release the messenger and step back, the rhythmic clank of your Valerion pla
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Interrogation - Press the messenger for specific names of these &#x27;Shield-Breakers&#x27; and their current positions to gauge the real threat level.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 12/12 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Lay on Hands: 10/10, Divine Sense: 4/4, Spells: No Spells Yet (L2+)**
@@ -808,8 +862,11 @@ However, as he stammers, your keen mind filters the noise. You recognize the tac
 > 👤 **Player:**
 > *"elim witness then scout serveants tunnel first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Ashwood Keep - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 12/12 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Lay on Hands: 10/10, Divine Sense: 4/4, Spells: No Spells Yet (L2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -823,8 +880,11 @@ Your eyes, sharpened by the dark thrill of the hunt, find exactly what you need.
 God Mode:
 process my level 2 think you missed it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Ashwood Keep - Servants' Tunnel Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -834,8 +894,11 @@ The user is in GOD MODE to finalize the Level 2 transition. The character state 
 God Mode:
 what do i get at level 2 and why did you miss it?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Ashwood Keep - Servants' Tunnel Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4**
@@ -845,8 +908,11 @@ The user is inquiring about Level 2 Paladin features in GOD MODE. I have verifie
 God Mode:
 5 whys on why you missed it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Ashwood Keep - Servants' Tunnel Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -856,8 +922,11 @@ The mechanical state is now synchronized with the narrative. Arion is Level 2 an
 God Mode:
 Select Fighting Style: Defense - Gain +1 bonus to AC while wearing armor (Total AC: 19).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Ashwood Keep - Servants' Tunnel Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4**
@@ -867,8 +936,11 @@ The user has finalized the Level 2 mechanical transition by selecting the 'Defen
 God Mode:
 Return to Story - Exit GOD MODE and begin the infiltration through the scullery tunnel.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Ashwood Keep - Scullery Tunnel** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -880,8 +952,11 @@ As you reach the iron grate leading into the kitchen proper, you freeze. The hea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Imperial Command - Step out and demand their submission, using your terrifying presence to break their will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Ashwood Keep - Scullery Tunnel** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -897,8 +972,11 @@ The two boys freeze. One drops his spear, the wood clattering loudly against the
 > 👤 **Player:**
 > *"command haltt the boy, and have my men kill the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Ashwood Keep - Scullery Tunnel** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4**
@@ -916,8 +994,11 @@ Behind you, the scullery tunnel remains dark, but the scent of blood has already
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enslave as Guide - Force the trembling boy to lead you through the back halls to Lady Ashwood&#x27;s solar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Ashwood Keep - Scullery Tunnel** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4**
@@ -933,8 +1014,11 @@ The boy's mouth opens, but no words come out. The sheer, overwhelming trauma of 
 > 👤 **Player:**
 > *"kill the boy and scout hallway"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Ashwood Keep - Scullery Tunnel** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4**
@@ -948,8 +1032,11 @@ You step over the bodies and slip deeper into the back halls of the keep. The st
 God Mode:
 retcon my armor and my teams armor to something more suitable for stealth, medium armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Ashwood Keep - Internal Halls** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -959,8 +1046,11 @@ The infiltration is now active within the keep's internal halls. Arion is unencu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Roll Stealth - Proceed quietly through the halls using the new medium armor*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Ashwood Keep - Internal Halls** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -972,8 +1062,11 @@ You move like a smudge of smoke against the sweating stone. [DICE: Stealth Check
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush Internal Patrol - The patrol is nearby. Eliminate them silently to clear your escape route before hitting the solar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Ashwood Keep - Internal Halls** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 400/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -993,8 +1086,11 @@ You stand over the corpses, the metallic tang of blood mixing with the scent of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Final Intel - One guard is still twitching; see if he has the key or knows who is inside with the Lady.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Ashwood Keep - Internal Halls** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 500/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -1012,8 +1108,11 @@ You rise, the iron keys jingling softly in your hand. The Obsidian Covenant. Mal
 > 👤 **Player:**
 > *"pred entry and try to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Ashwood Keep - Solar Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -1033,8 +1132,11 @@ You have lost the shadow. The doors are still closed, but the rhythm of the room
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kick Open the Door - Use your Strength to burst into the room and seize the initiative through sheer violence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Ashwood Keep - Solar Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -1054,8 +1156,11 @@ Your presence is a physical weight, but the Covenant agent is fast. He moves wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divine Smite Shadow-born - Unleash a Divine Smite on the creature of darkness to burn away its shadows.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -1071,8 +1176,11 @@ The Malakor agent sneers, his dueling blade tracing a silver arc in the air. 'Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shove Agent into Shadow - Use your Strength to shove the Malakor agent into the path of the Shadow-born&#x27;s shifting form.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -1090,8 +1198,11 @@ Behind you, the Shadow-born's low, grinding chortle intensifies. The creature se
 God Mode:
 make sure my team is also taking combat turns automatically
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -1105,8 +1216,11 @@ The Shadow-born itself looms over you, its form expanding like a rising tide of 
 God Mode:
 Slay the Agent - The agent is off-balance after his fumble. Strike him down to remove the living threat.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1120,8 +1234,11 @@ The Shadow-born lets out a high, thin screech as its mistress bleeds, the darkne
 God Mode:
 wait i should have more than one ally wtf
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1131,8 +1248,11 @@ The user is correcting the ally count in GOD MODE. A Level 2 Paladin of a Great 
 God Mode:
 replay the combat from the beginning with all 4 retainers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1146,8 +1266,11 @@ Your retainers fan out with clinical precision: two move to block the Lady's esc
 God Mode:
 Smiting the Shadow - Engage the Shadow-born directly with a Divine Smite while retainers tie up the others.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 10/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Combat Active | Exhaustion: 0 | Inspiration: No**
@@ -1161,8 +1284,11 @@ The Shadow-born, though battered, lashes back with desperate, icy malice. [DICE:
 God Mode:
 smite shadow
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 10/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2 used (0 remaining), Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1174,8 +1300,11 @@ Simultaneously, the solar becomes a chaotic dance of steel as your retainers exe
 God Mode:
 heal self, tell retainers to secure lady and try to capture the human agent, and have one attack shadow born
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10 used (10 HP healed), Exhaustion: 0**
@@ -1189,8 +1318,11 @@ At the window, the attempt to secure Lady Ashwood goes poorly; your man slips on
 God Mode:
 i attsck shadow and have everyone help me except best grappler who grapples ashwood
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/23 | XP: 650/900 | Gold: 450gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Exhaustion: 0**
@@ -1204,8 +1336,11 @@ Near the window, your best grappler, Retainer 3, lunges. There is no finesse, on
 > 👤 **Player:**
 > *"make sure shadow dead, loot everyone, interrogate everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/23 | XP: 1250/2700 | Gold: 625gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1221,8 +1356,11 @@ You turn to Lady Ashwood. She is pale, her shoulder soaked in crimson where your
 God Mode:
 make sure my character picked persuasion/intimidation as skills whenever it could and reroll intimidation if we didnt pick it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 1250/2700 | Gold: 625gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1232,8 +1370,11 @@ The user requested a skill audit in GOD MODE to ensure high social manipulation 
 God Mode:
 reroll previous intimidation attempts
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -1243,8 +1384,11 @@ The administrative rerolls have significantly changed the tactical landscape. La
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative with the broken Lady.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 1250/2700 | Gold: 625gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0**
@@ -1260,8 +1404,11 @@ She reaches out a trembling, blood-stained hand toward the bundle of corresponde
 God Mode:
 Think. Can I just open the front door and we all go kill the Anvil? Then when i open front door i give the lady to gratian?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 1250/900 | Gold: 625gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1271,8 +1418,11 @@ The player is proposing a tactical shift in GOD MODE: using the Lady as a bargai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the solar with the current state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Ashwood Keep - Lady Ashwood's Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 1250/2700 | Gold: 625gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1286,8 +1436,11 @@ You stand over her, the sightless visor of your Gryphon Helm reflecting the gutt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Surrender at Gate - Drag Lady Ashwood to the internal gatehouse and use her to command &#x27;The Anvil&#x27; to surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Ashwood Keep - Internal Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 1250/2700 | Gold: 625gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1307,8 +1460,11 @@ The Anvil looks at the Lady, then at the Imperial steel glinting in the rafters 
 > 👤 **Player:**
 > *"make sure i fully loot everyone esp anvil and his men, hand over ashwood, interrogate anvil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Ashwood Keep - Internal Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 1250/2700 | Gold: 625gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1330,8 +1486,11 @@ The big man spits a thick glob of blood onto your boot, his eyes burning with a 
 God Mode:
 Why didnt rewards agent give me exp for surrender? i should get the same exp as if i killed them all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Ashwood Keep - Internal Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 2550/2700 | Gold: 775gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1341,8 +1500,11 @@ The Keep has fallen. With the 'Anvil' in chains and the veterans disarmed, the s
 God Mode:
 Finalize Looting - Execute the detailed looting of the veterans and the Anvil&#x27;s warhammer.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Ashwood Keep - Internal Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 20/23 | XP: 3850/4800 | Gold: 859gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1352,8 +1514,11 @@ The Keep has officially fallen. In GOD MODE, I am processing the systematic loot
 God Mode:
 make sure i equp any upgrades then process my level 3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -1363,8 +1528,11 @@ Arion has successfully pacified Ashwood Keep and looted its defenders. Mechanica
 God Mode:
 pick +2 CHA ASI and prepare spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -1374,8 +1542,11 @@ The mechanical transition to Level 4 is complete. Arion's terrifying presence is
 God Mode:
 Return to Story - Exit administrative mode and begin the labor transfer march.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Ashwood Keep - Main Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 859gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1391,8 +1562,11 @@ Gratian rides up beside you, Cinder’s hooves churning the muck. 'The Adamant V
 > 👤 **Player:**
 > *"dividine and conaquer and then bring the anvil and use my cha to deceive him into revealing any weakness i can use to torture and extract info from him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Ashwood Keep - Main Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 859gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Potions: 0, Exhaustion: 0**
@@ -1408,8 +1582,11 @@ The Anvil’s jaw works silently, his eyes searching the narrow slits of your vi
 > 👤 **Player:**
 > *"assess the anvil. will he betray me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Ashwood Keep - Inner Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 859gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Exhaustion: 0**
@@ -1423,8 +1600,11 @@ The betrayal he speaks of rings true. Malakor's Covenant is built on the archite
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract More - The myrrh and stones are good, but press him for Malakor&#x27;s current coordinates using the info as leverage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Ashwood Keep - Inner Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 859gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1444,8 +1624,11 @@ The lie hits with the weight of a falling portcullis. The Anvil’s eyes widen, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gear Up First - Use your gold to buy myrrh and specialized anti-magic supplies in the camp before departing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Ashwood Keep - Main Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 759gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Gold: 759gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1461,8 +1644,11 @@ Gratian grunts, his eyes tracking the refugees. 'Black-Hollow is a tomb, Arion. 
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Ashwood Keep - Main Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 659gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1482,8 +1668,11 @@ The bitter scent of the myrrh resin clings to your gauntlets as you finish stowi
 > 👤 **Player:**
 > *"Think. whats the best plan? could i actually kill malakor with my intel?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Ashwood Keep - Main Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 659gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1493,8 +1682,11 @@ You pause amidst the efficient, grinding gears of the Imperial occupation, the b
 > 👤 **Player:**
 > *"consult gratian and plan the imperial anvil. dont start yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Ashwood Keep - Main Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 659gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1508,8 +1700,11 @@ He pushes off the pillar, the conversation closed with the finality of a slammin
 > 👤 **Player:**
 > *"Ask gratian again for more elites to help supplement the eaglets instead. Explain we cannot fail, because if we fail malakor will come and kill him and everyone too. this should be an easier arugment lol"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Ashwood Keep - Main Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 659gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1525,8 +1720,11 @@ Gratian’s gaze doesn't shift from the mud. The silence between you stretches, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Re-interrogate The Anvil - See if the captain has a secret signal or way to prove his loyalty to Gratian.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Ashwood Keep - Inner Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 659gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1544,8 +1742,11 @@ However, in his mocking defiance, you see the truth written in the way he avoids
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Gratian Appeal - One last attempt to convince Gratian to let you take the veterans as a vanguard, using the lack of signals as proof they have nowhere else to go.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Ashwood Keep - Inner Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 659gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Exhaustion: 0**
@@ -1563,8 +1764,11 @@ He signals to the Decanus in charge of the wagons. "Unshackle the veterans. Form
 > 👤 **Player:**
 > *"re-arm the vets and anvil and treat them with respect and persuade them to improve their moral. Explain that killing malakor will make us all heroes and secure our power and influence forever in the imperium. use it to improve morale among my existing men and do it very publically so other soliders overhear and might "volunteer" for this epic plan. Spend all my gold on gear/items for myself first, then for the men. Spend every penny. We are going all in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Ashwood Keep - Central Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1584,8 +1788,11 @@ You turn to the quartermaster, emptying your heavy purse of the remaining 559 go
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult &#x27;The Anvil&#x27; - Private meeting with the captain to see if he can salvage his men&#x27;s spirit before you leave.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Ashwood Keep - Gatehouse Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Potions: 2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1605,8 +1812,11 @@ He steps out into the courtyard, his voice—once a broken growl—now a booming
 > 👤 **Player:**
 > *"Think. wWhat level is the anvil and his men and my men? How many men do we have? What are our actual success chances"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Ashwood Keep - Central Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Potions: 2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1618,8 +1828,11 @@ You stand in the center of the muddy courtyard, the bitter scent of myrrh resin 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send Scouts - Send a small detachment of Shield-Breakers to verify Malakor&#x27;s position at the monastery.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Ashwood Keep - Central Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Potions: 2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1633,8 +1846,11 @@ You feel the cold thrill of the predator. The target is stationary, the weakness
 > [!NOTE] ⚙️ **Player Choice:**
 > *Night Assault with Myrrh - Launch a night strike using the myrrh resin to choke the cloisters and weaken Malakor&#x27;s casting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1652,8 +1868,11 @@ Malakor emerges onto the bell-tower balcony, his fine silks pressed against his 
 > 👤 **Player:**
 > *"everyone rushes malakor and tries to kill him and i try to shatter his staff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 3850/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **Night, Myrrh Fog (Sanctuary Breach)**
@@ -1673,8 +1892,11 @@ A shockwave of raw, uncontained shadow-energy erupts from the broken focus, thro
 > 👤 **Player:**
 > *"Think. what level was malakor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 6350/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1684,8 +1906,11 @@ You pause as the dust of the shattered obsidian staff settles, the high-pitched 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Malakor - Extract his remaining secrets before the lung-rot or the Eaglets finish him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 6350/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, L2 2/2, Lay on Hands: 20/20, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1703,8 +1928,11 @@ You release the corpse with a dismissive shove. 'Wasteful,' you hiss. You signal
 God Mode:
 shouldnt i get way more exp for killing a level 12 and winning the encounter? same for all my men
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 37/37 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3, L2 2/2 | Lay on Hands: 20/20 | Vanguard: 20/20**
@@ -1714,8 +1942,11 @@ The victory over Malakor is a turning point. You have decapitated a regional Cov
 God Mode:
 shouldnt i be level 5 now? make sure i equip the loot as useful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:59)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1729,8 +1960,11 @@ The 'Imperial Anvil' stands ready. The veterans watch as you rise, their dead ey
 God Mode:
 make sure i equp the persusasion rings etc. give me my spell loadout
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1740,8 +1974,11 @@ The user is in GOD MODE to finalize equipment and spell loadout for the Level 5 
 God Mode:
 A level 4 killed a level 12. This should make my team legendary. Give us a nickname and have me permanently raise the morale of all my men and gain some permanent perusasion bonus or use the relationshiup mechanics and fame/reputation mechanics
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:59)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **Legendary Commander | Exhaustion: 0 | Inspiration: Yes**
@@ -1751,8 +1988,11 @@ The victory at Black-Hollow is etched into the very stones of the under-cloister
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with your legendary status*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Black-Hollow Monastery - Under-Cloisters** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:59)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1764,8 +2004,11 @@ Around you, the twenty men of the 'Imperial Anvil' stand tall. The dead weight t
 > 👤 **Player:**
 > *"go back to gratian and report the success. he should be way easier to convince and extremely impressed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Ashwood Keep - Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1783,8 +2026,11 @@ Gratian stares at the obsidian shards, then up at the twenty men of the Imperial
 > 👤 **Player:**
 > *"the veterans are free now under my command. Finalize the refugee transfer to the vault then bring my men to personally report to my father and the empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Aeterna - The Imperial Spire** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1800,8 +2046,11 @@ You present the shattered obsidian staff and the report of Malakor's end. The ai
 > 👤 **Player:**
 > *"Think. Where is the empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Aeterna - The Imperial Spire** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20**
@@ -1811,8 +2060,11 @@ You stand within the impossible geometry of the Imperial Spire, the air humming 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Lord Regent Raziel - Speak with your father about the Empress&#x27;s current availability and your desire for an audience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Aeterna - The Imperial Spire** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1830,8 +2082,11 @@ He turns his back on you, the dismissal as total and absolute as a falling portc
 God Mode:
 what i did was a legendary task though. keep the failed roll but he should be more impressed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Aeterna - The Imperial Spire** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20**
@@ -1841,8 +2096,11 @@ The user is exerting administrative control via GOD MODE to adjust the narrative
 > 👤 **Player:**
 > *"amend reaction and make him actually give more dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Aeterna - The Imperial Spire (Inner Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 11250/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Vanguard: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1860,8 +2118,11 @@ He gestures to the Silent Guard, who remain as motionless as statues. 'I will al
 > 👤 **Player:**
 > *"Father a smaller favor then. Imperial pardons for the veterans and promotion of myself two levels and make all the men 1-2 ranks below me. 5000 gold for supplies and your finest +3 equpment in every slot for me and +1 equipment every slot for all the men."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Aeterna - The Imperial Spire** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20** &nbsp;|&nbsp; ⚠️ **Legendary | Exhaustion: 0 | Inspiration: Yes**
@@ -1875,8 +2136,11 @@ He signals to a silent scribe who materializes from the shadows with a tray of g
 God Mode:
 give us imperium titles for our positions too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Aeterna - The Imperial Spire** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20**
@@ -1886,8 +2150,11 @@ The user is in GOD MODE, seeking a formalization of the Imperial hierarchy for h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect New Gear - Examine the +3 equipment and equip the legendary loadout*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Aeterna - The Imperial Spire** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20**
@@ -1901,8 +2168,11 @@ You heft the Shatter-Stone Warhammer. The siege-scarred head is heavy with the w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Shadow-Breakers - Review your newly pardoned unit at the barracks and cement their loyalty with your new appearance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Aeterna - Imperial Spire Barracks** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Prefect Arion | Level 7 | HP: 58/58 | XP: 23,000/34,000 | Gold: 5,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20** &nbsp;|&nbsp; ⚠️ **None | Inspiration: No**
@@ -1920,8 +2190,11 @@ A collective shiver runs through the line, but it is not fear—it is the fanati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query the Scribes - Use your new rank as Prefect to access deeper dossiers on the southern trade route disturbances.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Aeterna - Imperial Spire Archives** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20**
@@ -1937,8 +2210,11 @@ You spread the documents across a cold marble table, your gauntleted fingers tra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Court Noble Influence - Attend a gathering of the Principate Senate to showcase your new status and the &#x27;Shadow-Breakers&#x27; to potential allies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1956,8 +2232,11 @@ Behind the sightless, predatory visor of your Seraph Helm, you dissect the room.
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (1 midday)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23,000/34,000 | Gold: 5,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20**
@@ -1989,8 +2268,11 @@ Behind the sightless, predatory visor of your Seraph Helm, you dissect the room.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Magister Kantos - Discreetly offer the Shadow-Breakers&#x27; protection in exchange for his secret historical dossiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2008,8 +2290,11 @@ Kantos's hands tremble, his gaze darting toward the Silent Guard. Then, with a s
 > 👤 **Player:**
 > *"formalize protection and then analyze dossiers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20**
@@ -2027,8 +2312,11 @@ But the abyss does not yield its secrets easily. As you unroll the ancient vellu
 > 👤 **Player:**
 > *"get kantos to help me analyze stuff and explain itto me. use my cha persuasion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2044,8 +2332,11 @@ Kantos flinches, his gaze darting to the iron-bound cylinder in your hand. He sw
 God Mode:
 is my raziel mission about a non senient enemy? just answer yes/no
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20**
@@ -2055,8 +2346,11 @@ The user is in GOD MODE inquiring about the nature of the upcoming mission assig
 God Mode:
 Investigate Alexiel&#x27;s Role - Ask about the specific nature of the feedback Alexiel triggered.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -2066,8 +2360,11 @@ The user is investigating the 'feedback' from the Starfall Gambit. This is a cor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Sariel&#x27;s Link - Examine how the feedback influenced the Empress&#x27;s development.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Month 12 Day 31, 2025 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20**
@@ -2077,8 +2374,11 @@ The user is investigating the core mystery of the 'Empyrean Resonance Oscillatio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume dialogue with Magister Kantos.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2094,8 +2394,11 @@ He closes the cylinder with a click. "The Silent Peace is a dam, Prefect. And it
 > 👤 **Player:**
 > *"formalize kantos sanctuary, then search for resonance metadata"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Shadow-Breakers: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2107,8 +2410,11 @@ Turning your focus back to the 'Year of Cracked Glass' dossiers, you lean over t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Divine Sense - Use your paladin abilities to sense the &#x27;evil&#x27; or &#x27;celestial&#x27; frequency of the resonance metadata to bypass the linguistic trap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Shadow-Breakers: 20/20**
@@ -2122,8 +2428,11 @@ But the 'Dead-Man's Switch' left by the ancient scribes is more than a simple tr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Kantos for a Key - The Magister must have a linguistic or ritual key to bypass his own order&#x27;s wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Mirtul 31, 2025 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23000/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2139,8 +2448,11 @@ The Magister’s resistance dissolves like smoke in a gale. He looks at the iron
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply the Linguistic Key - Use the &#x27;Aeterna-Fracture Echo&#x27; to safely decode the oscillation metadata in the dossiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23,200/34,000 | Gold: 5,000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2154,8 +2466,11 @@ You trace a specific entry dated Mirtul 10, Year 0. It details a secret directiv
 > 👤 **Player:**
 > *"Think. What if I get engaged to a noble woman? If she can fight and has elite soldiers she can accopmany me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Exhaustion: 0**
@@ -2169,8 +2484,11 @@ As the 'Aeterna-Fracture Echo' fades from the air, you realize that the Threshol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Kantos on Alliances - Ask the Magister which houses are currently compromised and ripe for a &#x27;rescue&#x27; marriage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Exhaustion: 0**
@@ -2184,8 +2502,11 @@ Kantos flinches, his fingers clutching the worn ledger as if it were a shield. H
 > 👤 **Player:**
 > *"Think. which houses are there? . A noble house struggling with the southern disturbances"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2195,8 +2516,11 @@ You pause within the shifting shadows of the weeping crystal columns, the white-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Formal Introduction - Force Kantos to arrange a &#x27;discreet&#x27; meeting with a Thorne representative tonight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2212,8 +2536,11 @@ Kantos gasps, the 'Aeterna-Fracture Echo' still vibrating in his own mind, makin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Valerion the Attaché - Query the archives or contacts about this &#x27;Valerion&#x27; to gain leverage before the meeting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2231,8 +2558,11 @@ However, the specific nature of his current leverage—the reason *why* a man of
 God Mode:
 Should we retcon my father raziel. If he's Sariel grandfather that's a bit weird
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Aeterna - Principate Senate Hall** &nbsp;|&nbsp; ⏳ **Day 2, Year 11 New Peace (Midnight)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2242,8 +2572,11 @@ The user is proposing a significant retcon to the relationship between Raziel an
 God Mode:
 Lead with Bloodline Identity - Reveal you know he is Caius val Valerion and offer a path back to the House in exchange for total Thorne submission.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Aeterna - Cloister of Ash** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (00:00 (Midnight))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 4900gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **Legendary Status | Exhaustion: 0 | Inspiration: No**
@@ -2265,8 +2598,11 @@ Caius staggers back, his eyes wide and glassy. The prospect of returning from th
 God Mode:
 Establish Lineage - Formally define Arion&#x27;s father and his house&#x27;s historical distance from the Lord Regent&#x27;s direct line.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -2276,8 +2612,11 @@ The user is clarifying a potential lore conflict regarding Arion's relationship 
 God Mode:
 Let's just remove Raziel from the story and replace him with valerion. The real Raziel was killed by Alexiel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Aeterna - Cloister of Ash** &nbsp;|&nbsp; ⏳ **2025 DR, Night** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Smite: 0/0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2287,8 +2626,11 @@ The user has requested a fundamental narrative retcon: replacing the current Lor
 God Mode:
 My father is the regent but obviously below the empress
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Aeterna - Cloister of Ash** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2298,8 +2640,11 @@ The user has finalized a massive narrative shift. By placing Arion's father as t
 > 👤 **Player:**
 > *"Return to story. Say I offer marriage in return for vassalage if elara and her elite forces accompany me on a dangerous mission and prove worthy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Aeterna - Cloister of Ash** &nbsp;|&nbsp; ⏳ **12 31, 2025 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 23450/34000 | Gold: 5000gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2315,8 +2660,11 @@ Caius staggers back as if the words themselves were physical blows. The sheer, c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Southern March - Begin final logistics for the Threshold mission, assuming the alliance is secured.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Aeterna - Spire Logistics Hub** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 24650/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **Legendary Commander | Exhaustion: 0 | Inspiration: No**
@@ -2336,8 +2684,11 @@ As the sun climbs over the Spire, you wait for word from the Iron Gates. [DICE: 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Squeeze the Quartermasters - Use your authority as Prefect and the Lord Regent&#x27;s son to &#x27;requisition&#x27; the Syndicate&#x27;s alchemical supplies by force or intimidation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Aeterna - Spire Logistics Hub** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 24650/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2353,8 +2704,11 @@ The Quartermaster's face turns the color of curdled milk. He looks at the facele
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Thorne Response - Give Caius a few more hours to return with Elara&#x27;s surrender/answer before committing the column.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Aeterna - Spire Logistics Hub** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 24950/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 0/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2374,8 +2728,11 @@ Note: The name 'Elara' is on our critical naming restrictions list for its overu
 God Mode:
 give me more than 300 exp, the marraige thing is a big deal
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Aeterna - Spire Logistics Hub** &nbsp;|&nbsp; ⏳ **January 1, 2026 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 26,900/34,000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 0/3, Lay on Hands: 35/35, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2385,8 +2742,11 @@ The logistical preparation is complete and the political foundation for a new dy
 > 👤 **Player:**
 > *"Go tell my father about the new vassalage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Imperial Spire - Regent's Sanctum** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 29400/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Exhaustion: 0**
@@ -2406,8 +2766,11 @@ You gain **2,500 XP** for the dynastic subjugation of House Thorne and securing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Father for Intervention - Convince the Lord Regent that the Syndicate&#x27;s interference is a direct challenge to his authority as much as yours.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Imperial Spire - Regent's Sanctum** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 31900/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2425,8 +2788,11 @@ Lord Regent Valerius remains silent for a long moment, his eyes searching yours 
 > 👤 **Player:**
 > *"Ask for more. Some of fathers elite guard so they know they've caught the official house attention. Elite rangers and one of each class around level 5"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Imperial Spire - Regent's Sanctum** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 31900/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Supreme Requisition Authority | Exhaustion: 0 | Inspiration: No**
@@ -2444,8 +2810,11 @@ He steps closer, his heavy white cloak brushing the crystal floor. 'Go now. The 
 > 👤 **Player:**
 > *"Group up and have them give me every useful buff they can especially the cha buff. Then summon high auditor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Imperial Spire - Regent's Sanctum** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 31900/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Special), Aid, Shield of Faith | Exhaustion: 0**
@@ -2459,8 +2828,11 @@ The message pulses through the Spire's communication grid like a needle. The psy
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intimidate High Auditor - Focus your enhanced presence on the Auditor once he arrives to force a total legal surrender of the Syndicate&#x27;s claim.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 31900/34000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, Lay on Hands: 35/35, Supreme Requisition: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5), Shield of Faith (+2 AC)**
@@ -2486,8 +2858,11 @@ You gain **500 XP** for the total legal surrender of the Stone-Anvil Syndicate's
 > 👤 **Player:**
 > *"Demand a fine. 20,000 gold. And forced recruitment of the syndicate spies I see lurking around. Imply they're poorly trained and I will improve them. And forced recruitment of half of his heavy guard. Otherwise they all die here for violating the law"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 58/58 | XP: 32900/34000 | Gold: 20000gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, Lay on Hands: 35/35, Supreme Requisition: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -2511,8 +2886,11 @@ You gain **1,000 XP** for the total subjugation of the Syndicate Gate-Command an
 > 👤 **Player:**
 > *"Public humiliation then use my cha to subtly whisper one last threat. His family will be tortured to death unless he goes to personally apologize to my father now. But if he does it then everything is forgiven and he has my hand in friendship in the future. Imply that my friendship is powerful and my forgiveness is generous"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Month 1 Day 1, 2026 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 63/63 (Temp: 5) | XP: 35400/48000 | Gold: 40000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 3/4, L2 3/3, L3 0/0, Lay on Hands: 35/35, Requisition: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2532,8 +2910,11 @@ You gain **500 XP** for the Major Social Victory and have reached **Level 8**.
 God Mode:
 Meditate on Power (Level 8) - Finalize your Level 8 advancement: Choose an Ability Score Improvement or a Feat.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **2026-01-01, Night** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 72/72 | XP: 35400/48000 | Gold: 60000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 40/40, Requisition: Active**
@@ -2543,8 +2924,11 @@ You stand amidst the silent carnage of the Southern Gatehouse, the white-cold ra
 > 👤 **Player:**
 > *"Ask the auditor what this guy was doing. Tell him to tell me 100% right now. but a shadow flickers on the horizon—a Syndicate courier was seen breaking for the treeline during the confrontation. The Stone-Anvil will not take this 'tax' in silence."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 80000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 40/40, Requisition: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -2564,8 +2948,11 @@ You look toward the southern horizon, where the sky is the color of a bruised pl
 God Mode:
 ASI: Charisma +2 - Maximize Charisma to 20. Increases spell save DC, social bonuses, and aura effects.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Kythorn 1, 2026 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35,400/48,000 | Gold: 80,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 40/40, Requisition: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith (+2) | Exhaustion: 0 | Inspiration: No**
@@ -2575,8 +2962,11 @@ The white-cold radiance of your Aeterna Plate pulses in the dying light of the g
 God Mode:
 pick my spell loadout
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 80,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining) | LOH: 40/40 | Requisition: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2586,8 +2976,11 @@ In GOD MODE, I am finalizing the spell loadout for a Level 8 Paladin (Prefect Ar
 > 👤 **Player:**
 > *"return to story and query elara on her syndicate troubles. Ask her what her perspective is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Kythorn 1, 2026 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining), LOH: 40/40** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid, Shield of Faith | Exhaustion: 0**
@@ -2601,8 +2994,11 @@ Elara holds your gaze, her eyes sharp and unblinking. She doesn't flinch at your
 > 👤 **Player:**
 > *"Think. assess how old she is and what she looks like. How do I win her loyalty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining), LOH: 40/40**
@@ -2614,8 +3010,11 @@ Behind the sightless visor of your Seraph Helm, your mind begins to dismantle th
 God Mode:
 whats the cognitie shadow
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Kythorn 2, 2026-01-01 (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining), LOH: 40/40** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -2625,8 +3024,11 @@ The user is in GOD MODE inquiring about the specific lore of the 'Cognitive Shad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Syndicate Recruits - Use your new recruits to verify Elara&#x27;s claims about internal sabotage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 (Temp: 5) | XP: 35400/48000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 0/3, LOH: 40/40, SMITE: Ready** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -2644,8 +3046,11 @@ Elara Thorne's hand tightens on her black-iron hilt, her eyes burning with a col
 God Mode:
 add a detail. arion is very good looking. he is now a young prodigy and it should be very polarizing.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **2026-01-01T21:25:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 120,000gp** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -2655,8 +3060,11 @@ The user has added 'Good Looking' and 'Young Prodigy' as polarizing traits. Thes
 > 👤 **Player:**
 > *"Tease Elara. In one afternoon I've captured syndicate force and acquired some hard intel. What will happen in one week, one month, one year."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 20000gp (Seized)** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 0/3, LOH: 40/40, SMITE: Ready** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith | Exhaustion: 0**
@@ -2682,8 +3090,11 @@ You pull back, the heavy clatter of your gauntlets against your belt providing t
 > 👤 **Player:**
 > *"joke in a quiet voice only she can hear, no one has sovereignity anyway, with our empress."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Month 1 Day 1, 2026 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35400/48000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 40/40, SMITE: Ready** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -2703,8 +3114,11 @@ You gain **250 XP** for deepening the psychological bond with your new vassal th
 > 👤 **Player:**
 > *"Bring the syndicate spies and soldiers to me. Threaten their families and say i'll torture them to death if they disobey me. However, look at the shadow breakers. Some of them served the host and I've elevated them. My hand of ggratitude will reward them handsomely for loyal service."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **1 1, 2026 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 35650/48000 | Gold: 120,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith | Exhaustion: 0**
@@ -2726,8 +3140,11 @@ final auditor squeeze
 
 Then setup the force and chain of command. Anvil will manage the shadow breakers and Elara her own units, but Elara is still second in command."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Imperial Spire - Southern Gatehouse** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 40000/48000 | Gold: 120,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith | Exhaustion: 0**
@@ -2745,8 +3162,11 @@ Finally, you summon your commanders to the center of the gatehouse floor. The ai
 > 👤 **Player:**
 > *"begin march and do drills on the move"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Great Southern Road - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 40150/48000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40, SMITE: Ready** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2768,8 +3188,11 @@ You gain **150 XP** for the successful integration of the Obsidian Veil units du
 > 👤 **Player:**
 > *"test elara's command and in parallel have my elites clear traps and then provide bait traps for syndicate. have them use illusion magic to make syndicate scouts investigate and reveal themselves or find other ways to focus on revealing enemy scouts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Great Southern Road - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 40150/48000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40, SMITE: Ready** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -2791,8 +3214,11 @@ A volley of Spire-arrows hissed through the air, followed by a choked scream as 
 > 👤 **Player:**
 > *"systematic sweep, i personally run to pinned scout with some elites to interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Great Southern Road - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 (Temp: 5) | XP: 40,150/48,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2814,8 +3240,11 @@ While you extract the coordinates, the rest of the Obsidian Veil completes the s
 > 👤 **Player:**
 > *"Think. What if I just do deceptive diversion and bring everyone to the spire and strike team goes ahead but main force follows carefully and ready to clean up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Great Southern Road - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 40150/48000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -2825,8 +3254,11 @@ You pause as the Obsidian Veil continues its steady march, the rhythmic thud of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Reconnaissance - Send the Spire-Rangers to map the relay&#x27;s specific defenses before committing to a plan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Great Southern Road - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 (Temp: 5) | XP: 40150/48000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -2842,8 +3274,11 @@ He traces a map in the frozen mud. 'But their rear-guard is arrogant. They have 
 > 👤 **Player:**
 > *"Think. Could I combine all strategies? Deceptive divergence, pincer and elara does siege suppression too since its ranged. Then elites come up from basalt shelf disable turrets and kill everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Great Southern Road - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 (Temp: 5) | XP: 40150/48000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining) | Lay on Hands: 0/40 used (40 remaining) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2853,8 +3288,11 @@ You pull back on Cinder's reins, the rhythmic thud of the Obsidian Veil's march 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Command Council - Brief Elara and the Anvil on the plan to gauge their units&#x27; readiness for such a complex maneuver.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Great Southern Road - Outskirts of Aeterna** &nbsp;|&nbsp; ⏳ **Kythorn 2, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 40150/48000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 0/3 | Lay on Hands: 40/40 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0**
@@ -2872,8 +3310,11 @@ The Anvil strikes his breastplate, his massive warhammer resting against his sho
 > [!NOTE] ⚙️ **Player Choice:**
 > *Siege Suppression Focus - Have Elara&#x27;s units use ranged siege tactics from the road while the Strike Team handles the shelf exclusively.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Spires of Ash - Western Approach** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 40150/48000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 40/40 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC)**
@@ -2891,8 +3332,11 @@ To the west, the Specialist Strike Team is caught in the unforgiving glare of a 
 > 👤 **Player:**
 > *"anvils hammer, then divine blinding, then misty step breach myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (09:46)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 40150/48000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 1/3, L3 3/3, Lay on Hands: 40/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2910,8 +3354,11 @@ As the turret explodes in a shower of copper and glass, the vertical kill-zone m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Surrender - Use your terrifying presence and the recent turret destruction to force the enforcers to drop their weapons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **2026-01-02T09:47:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 43550/48000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 1/3, L3 3/3, Lay on Hands: 40/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Advantage), Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2929,8 +3376,11 @@ You gain **3,400 XP** for the total surrender of the Syndicate Relay and the cap
 > 👤 **Player:**
 > *"secure prisonsers, secure meetadata, interrogate leads"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Spires of Ash (Occupied)** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 78/78 | XP: 48,450/64,000 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 1/3, L3 3/3, Lay on Hands: 40/40** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -2946,8 +3396,11 @@ You gain **4,900 XP** (Encounter Victory + Metadata Secured). You have reached *
 God Mode:
 process my level up and list all my new stats/abilities and all my current ones
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **2026-01-02, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48450/64000 | Gold: 120,000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45, Exhaustion: 0**
@@ -2957,8 +3410,11 @@ The character has achieved Level 9. This level grants a proficiency bonus increa
 > 👤 **Player:**
 > *"Think. What to do next. Basically the syndicate is betraying the imperium. Maybe i should ask my father to send a full force of elite soliders, rangers, silent guard, maybe even an archangel to deal with them."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Spires of Ash (Secured Relay)** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48450/64000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -2968,8 +3424,11 @@ You stand amidst the humming siphoning machinery of the Spires of Ash, the white
 > 👤 **Player:**
 > *"Think. Does my house have any archangels? What if we just tell the empress what's happening and let her decide. It's beyond my house if they're mapping the empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48,450/64,000 | Gold: 120,000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45, Exhaustion: 0**
@@ -2983,8 +3442,11 @@ You consider the prospect of bypassing your father and going directly to Sariel.
 > 👤 **Player:**
 > *"Think. No I mean would my father want the empress told"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48,450/64,000 | Gold: 120,000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -2994,8 +3456,11 @@ You stand amidst the humming siphoning machinery, the white-cold radiance of you
 > 👤 **Player:**
 > *"Think. what are my best ROI options to resolve the situation and increase my personal power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Spires of Ash (Secured Relay)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48,450/64,000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0**
@@ -3005,8 +3470,11 @@ You stand amidst the humming, siphoning machinery, the white-cold radiance of yo
 God Mode:
 what mirror magic do i have? i'm not supposed to have that only sariel is
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Spires of Ash (Secured Relay)** &nbsp;|&nbsp; ⏳ **2026-01-02, 10:20:01** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48450/64000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -3016,8 +3484,11 @@ The user is in GOD MODE addressing a narrative inconsistency. Mirror Magic is a 
 God Mode:
 Remediate Oath - Remove Mirror Magic and restore Oath of the Crown features
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **Hammer 2, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48450/64000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45, Exhaustion: 0**
@@ -3027,8 +3498,11 @@ The user has identified a lore violation: Arion was assigned 'Mirror Magic' feat
 God Mode:
 nvm just give me back mirror magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **2026-01-02, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48450/64000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -3038,8 +3512,11 @@ The user has requested the restoration of Mirror Magic despite previous lore rem
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume gameplay with restored powers*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48450/64000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -3053,8 +3530,11 @@ Lady Elara approaches, her black-iron boots clicking against the basalt floor. S
 > 👤 **Player:**
 > *"Think. is it beneficial to tell father or should i just do surgical strike and capture varo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 53350/64000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 45/45 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Inspiration: No**
@@ -3068,8 +3548,11 @@ Lady Elara approaches, her black-iron boots clicking against the basalt floor. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Lead Enforcer - The captured lead enforcer showed resentment. Break him to learn the exact frequency of Varo&#x27;s sleeper signal to prevent the bridge collapse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Spires of Ash** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48450/64000 | Gold: 140000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3087,8 +3570,11 @@ You release him with a dismissive shove, his head hitting the basalt with a heav
 > 👤 **Player:**
 > *"surgical strike t o capture varo. bring all my elites who can move fast. swap into my +3 medium armor and be ready to use the signal if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 2026 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 53850/64000 | Gold: 140,000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/2, Lay on Hands: 45/45, Requisition: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Advantage), Mirror Magic Active**
@@ -3108,8 +3594,11 @@ You are faster. You vault from Cinder mid-stride, the Shatter-Stone Warhammer er
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Guards Surrender - Use your terrifying presence and Varo&#x27;s capture to force the remaining guards to stand down.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 48,950/64,000 | Gold: 140,000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/2, Lay on Hands: 45/45**
@@ -3129,8 +3618,11 @@ You gain **750 XP** for the tactical surrender of the Iron Gates bridge and the 
 God Mode:
 shouldnt i get more than 750, how many guards surrendered and hwat level was varo?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 51950/64000 | Gold: 140000gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 0/4, L2 0/3, L3 1/2 | Lay on Hands: 45/45 | Smite: Used (L2)** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3140,8 +3632,11 @@ You pause at the bridge's edge, the wind howling up from the Deep as you process
 God Mode:
 Extract Override Codes - Pressure Varo to surrender the decryption keys for the ledger-cells before the data is lost.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 57650/64000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/2, Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3151,8 +3646,11 @@ The user is in GOD MODE to correct the administrative oversight regarding reward
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Override Codes - Force Varo to surrender the decryption keys for the ledger-cells*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 63350/64000 | Gold: 140000gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 1/2 | Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3164,8 +3662,11 @@ Varo's face is a bruised map of terror as he dangles over the abyss, his crimson
 Final Interrogation: Have the Shadow-Breakers systematically question the 15 enforcers for local bolt-holes.
 Process Ledger Data: Examine the decrypted ledger-cells for the locations of resonance experiments."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Paladin | HP: 86/86 | XP: 63350/64000 | Gold: 140000gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 1/2, Lay on Hands: 45/45, Exhaustion: 0**
@@ -3181,8 +3682,11 @@ Lady Elara approaches the console, her eyes tracing the digital coordinates with
 God Mode:
 process my level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **2026-01-02, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 65750/85000 | Gold: 140000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 50/50, Exhaustion: 0**
@@ -3192,8 +3696,11 @@ Level 10 processing in GOD MODE. Arion gains HP, spell slot expansion, and the A
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative at the Iron Gates
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 65750/85000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Aura of Devotion, Aura of Protection, Aura of Courage | Exhaustion: 0**
@@ -3207,8 +3714,11 @@ Lady Elara approaches the central console, her face a mask of cold, sharp angles
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Varo Personally - Use your Mirror Magic or Intimidation to pull deeper secrets from Varo regarding the Syndicate&#x27;s board members.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 66550/85000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -3224,8 +3734,11 @@ You release your psychic grip, and Varo slumps into a catatonic heap. The names 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Enforcers for Auditor Data - Use the Shadow-Breakers to squeeze the 15 enforcers for specific combat capabilities of the Silent Auditor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 67350/85000 | Gold: 120000gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -3239,8 +3752,11 @@ You lean in, the Seraph Helm amplifying your voice into a heavy, grinding decree
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Thorne Turncoats - Publicly execute Varo and his men to cement morale before the final battle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70650/85000 | Gold: 140000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3260,8 +3776,11 @@ You gain **3,300 XP** for the public execution of the Thorne Turncoats and the l
 God Mode:
 Switch my +3 with +3 medium armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **2026-01-02, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70650/85000 | Gold: 120,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 2/2 | Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -3271,8 +3790,11 @@ The user has requested a swap to a standard +3 Medium Armor. The previous 'Aeter
 God Mode:
 Secure Local Bolt-Holes - Dispatch the Shadow-Breakers to seize the four mapped caches to eliminate rear-guard threats.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70650/85000 | Gold: 120,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining), L3 0/2 used (2 remaining) | Lay on Hands: 0/50 used (50 remaining)** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3282,8 +3804,11 @@ The user is in GOD MODE executing a strategic maneuver to neutralize the Syndica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Process Bolt-Hole Loot - Systematically inventory the siphoned focus-stones and copper-plate gear found in the caches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70650/85000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 0/4, L2 0/3, L3 0/2, Lay on Hands: 0/50, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC)**
@@ -3297,8 +3822,11 @@ The Focus-Stones hum with a low, oily frequency, a physical vibration that reson
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mirror Analysis - Use Mirror Magic to tune into the Focus-Stones and sense their connection to Echo-Point Gamma.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **The Iron Gates - Master Bridge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 (Temp: 5) | XP: 70650/85000 | Gold: 125000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 0/4, L2 0/3, L3 0/2, Lay on Hands: 0/50, Exhaustion: 0**
@@ -3316,8 +3844,11 @@ You pull back from the trance, the Focus-Stone in your hand now glowing with a f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Sabotage - Use the captured Focus-Stones and your Mirror Magic to jam the siphoning frequency from the bridge, forcing the Auditor to emerge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70,650/85,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 50/50, Focus-Stones: 40, Salts: 10** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -3337,8 +3868,11 @@ The air at the center of the bridge deck fractures like cracked porcelain. From 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shatter Resonance (Frequency Strike) - Use Mirror Magic to project the Aeterna-Fracture Echo directly at the Auditor to disable his Void Shield.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70650/85000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3354,8 +3888,11 @@ The Auditor's form ripples like static on a dying screen. Your strike is precise
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Distraction - Order Elara and the Shadow-Breakers to engage in melee to force the Void Shield into kinetic absorption mode.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70650/85000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC)**
@@ -3376,8 +3913,11 @@ The air around the Auditor screams as the shield reaches its saturation point. H
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shatter Resonance (Echo Strike) - Unleash the Aeterna-Fracture Echo while the shield is kinetically saturated to unravel his form.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 70650/85000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 1/2, Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3395,8 +3935,11 @@ You gain **4,500 XP** for the tactical dismantling of the Silent Auditor's reson
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Unraveling Form - Attempt to extract the final decryption for the &#x27;Trauma Switch&#x27; at Echo-Point Gamma before he dissipates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 75150/85000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 1/2, Lay on Hands: 50/50** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -3412,8 +3955,11 @@ As the final syllable leaves his flickering lips, the Silent Auditor dissolves i
 > 👤 **Player:**
 > *"Do all 3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 84450/85000 | Gold: 145000gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining), L3 1/2 used (1 remaining) | Lay on Hands: 0/50 used (50 remaining)** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3431,8 +3977,11 @@ Elara meets your gaze, the grief in her eyes hardening into a lethal, focused re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Systematic Interrogation - Use the Shadow-Breakers to squeeze the remaining 15 enforcers for the layout of the crypts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **1 2, 2026 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Paladin | HP: 96/96 | XP: 84450/85000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 1/2, Lay on Hands: 50/50, Exhaustion: 0**
@@ -3450,8 +3999,11 @@ You turn to Lady Elara, her black-iron blade reflecting the grey sky. 'The layou
 > 👤 **Player:**
 > *"Level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 104/104 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3463,8 +4015,11 @@ Lady Elara looks at you, her own blade reflecting the silver-white pulse of your
 God Mode:
 Wait I'm level 11 not 12 right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **2026-01-02T16:30:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 104/104 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0**
@@ -3474,8 +4029,11 @@ The user has identified a character level discrepancy. According to the experien
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and proceed with the mission at Level 11*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 104/104 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -3487,8 +4045,11 @@ Lady Elara stands beside you, her gaze fixed on the southern crags where the Tho
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Command Council - Brief Elara and The Anvil on the &#x27;Trauma Switch&#x27; mechanics before moving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **2026-01-02, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 104/104 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -3508,8 +4069,11 @@ The Anvil strikes his breastplate, a thunderous crack of steel. 'The Shadow-Brea
 God Mode:
 Respec to take 2 paladin levels, and 9 swords bard levels. Auto pick my spells and focus on control. For paladin spells pick bless command and auto pick the rest. Swap my str for dex. Feel free to give my further suggestions to adapt to my new build
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **2026-01-02T16:35:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2 / Swords Bard 9 | HP: 79/79 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, BI: 5/5, Lay on Hands: 10/10** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3519,8 +4083,11 @@ The user has requested a complete character respec to Paladin 2 / Swords Bard 9,
 God Mode:
 Give me a +3 magic finesse weapon as strong as shatter stone. Keep fighting style defense. Give me +3 magic ranged weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **The Iron Gates - Main Bridge** &nbsp;|&nbsp; ⏳ **Month 1, 2026 NE (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2/Bard 9 | HP: 83/83 | XP: 101,150/120,000 | Gold: 142,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | BI: 5/5 | Lay on Hands: 10/10**
@@ -3530,8 +4097,11 @@ The character has been respec-ed to a Paladin 2 / Swords Bard 9 build. Attribute
 God Mode:
 Return to Story - Exit GOD MODE and proceed toward Echo-Point Gamma.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **The Iron Gates - Southern Crags (Approaching Echo-Point Gamma)** &nbsp;|&nbsp; ⏳ **2026-01-02, 17:05** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2 / Bard 9 | HP: 86/86 | XP: 101,150/120,000 | Gold: 145,000gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, BI: 5/5, Lay on Hands: 55/55**
@@ -3545,8 +4115,11 @@ You reach the heavy, soot-stained basalt doors of the crypts. The 'Sariel-Regret
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ancestral Rite - Have Lady Elara perform a Thorne blood-rite at the entrance to temporarily confuse the siphoning machinery&#x27;s targeting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **The Iron Gates - Southern Crags (Thorne Crypt Entrance)** &nbsp;|&nbsp; ⏳ **2026-01-02, 17:15** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2 / Bard 9 | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, BI: 5/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0**
@@ -3560,8 +4133,11 @@ As her blood touches the ancient basalt, she begins a low, guttural Thorne blood
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Insertion - Lead the Spire-Stalkers and Elara in silently to disable the local relay station.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, Afternoon (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Bard | HP: 86/86 | XP: 101,150 / 120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, BI: 5/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3577,8 +4153,11 @@ Your Unseeing Eyes trace the tangle of wires, but the air is thick with a cloyin
 God Mode:
 Make sure I picked the spell right invis
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02T17:15:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, BI: 5/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3588,8 +4167,11 @@ The player is verifying their spell list in GOD MODE. 'Invisibility' is a signat
 > 👤 **Player:**
 > *"Trigger surprise round on sentries and eliminate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Bard | HP: 86/86 | XP: 101,150/120,000 | Gold: 142,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, BI: 4/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Aid (+5 Temp HP), Shield of Faith (+2 AC), Invisibility | Exhaustion: 0**
@@ -3605,8 +4187,11 @@ The two enforcers are subtracted from the ledger in a heartbeat, their blood siz
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Final Breaths - Use Lay on Hands to keep one enforcer barely alive for a final interrogation on Level 2 defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 NE (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2/Bard 9 | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, BI: 4/5, Lay on Hands: 54/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3624,8 +4209,11 @@ You pull your hand back, the golden light extinguishing. The enforcer's final br
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Relay Sabotage - Ensure the Level 1 relay is completely disabled to cut off the Auditor&#x27;s residual link.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Bard | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3639,8 +4227,11 @@ The Level 1 relay is disabled, but the messy conclusion has sent a ripple throug
 God Mode:
 How rare is a level 11 16 year old in assiah
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **Afternoon, 2026-01-02 (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2/Bard 9 | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3652,8 +4243,11 @@ Your presence is not merely 'rare'; it is a localized violation of the natural o
 God Mode:
 How do I compare to Lucifer Alexiel or Sariel in trajectory
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **January 2, 2026 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2/Bard 9 | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3663,8 +4257,11 @@ The user is asking for a meta-analysis of Arion's trajectory compared to the leg
 God Mode:
 Interesting. Probably the other character should be reacting to me even more? I'm almost level 12 too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, 17:45** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Bard | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Inspiration: Yes**
@@ -3674,8 +4271,11 @@ Arion's trajectory is compared to the three titans of Assiah's history. Administ
 God Mode:
 Alexiel Comparison - Analysis vs The Mortal Star
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **January 2, 2026 Assiah (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Bard 10 | HP: 95/95 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes (d10)**
@@ -3685,8 +4285,11 @@ The user is analyzing his power scaling relative to the setting's titans. Arion 
 God Mode:
 ASI+2 dex
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 AF (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 95/95 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3696,8 +4299,11 @@ The character has now reached the numerical peak of Tier 3 power. With a Dexteri
 God Mode:
 Pick spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02T18:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2/Bard 9 | HP: 86/86 | AC: 26 | XP: 101,150/120,000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | BI: 5/5 | Lay on Hands: 53/55 | Exhaustion: 0**
@@ -3707,8 +4313,11 @@ Character respec and spell loadout finalized in GOD MODE. Arion is now a Tier 3 
 God Mode:
 Wait why is my dex 22
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, 18:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Bard 9 | HP: 86/86 | XP: 101150/120000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3718,8 +4327,11 @@ The user is questioning why their Dexterity is 22. In the previous level-up to 1
 God Mode:
 No wait my dex should've been 18 not 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, 18:00:15** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 86/86 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3729,8 +4341,11 @@ The user has requested a correction to their Dexterity score, opting to adhere t
 God Mode:
 For level 12 I pick asi dex+2 so dex is 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Thorne Crypts - Upper Scriptorium** &nbsp;|&nbsp; ⏳ **2026-01-02, 18:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard/Paladin | HP: 93/93 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55, Exhaustion: 0**
@@ -3742,8 +4357,11 @@ The Shadow-Breakers and Spire-Stalkers maintain their perimeter, their eyes fixe
 God Mode:
 Let me pick spells for level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 10 | HP: 102/102 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | BI: 5/5 | Lay on Hands: 53/55 | Exhaustion: 0**
@@ -3755,8 +4373,11 @@ Your Dexterity has been honed to a peerless 20, granting you a physical grace th
 God Mode:
 As I'm now level 12 and pretty much the only level 12 16 year old in history I should be very polarizing. Elara should be a mixture of afraid attracted worshipful (secretly)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02T18:00:00.000003Z (FROZEN)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 102/102 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3766,8 +4387,11 @@ The industrial hum of the scriptorium remains suspended in a clinical silence as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Polarization - Finalize the &#x27;Young Prodigy&#x27; social modifiers for all future NPC encounters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Thorne Crypts - Stairwell to Level 2** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 AI (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 101,150/140,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3785,8 +4409,11 @@ You sense the conflict within her: the primal fear of the monster you have becom
 God Mode:
 What level is my father ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, 18:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Bard 9 | HP: 102/102 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3796,8 +4423,11 @@ The user is in GOD MODE asking about their father's level. Based on the establis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout with Mirror Magic - Use your innate resonance to project a sensory echo into the stairwell to map the Sentinels&#x27; positions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3814,8 +4444,11 @@ They are currently immobile, tuned to the 'grief' frequency of the crypts, but y
 God Mode:
 What level is sariel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Bard 9 | HP: 102/102 | XP: 101150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3825,8 +4458,11 @@ The administrative dossiers of the Imperial Spire pulse with a cold, silver-whit
 God Mode:
 Generate a good plot reason for me having mirror magic but don't tell me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Thorne Crypts - Level 1 (Upper Scriptorium)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening (Frozen)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 101,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5 Temp), Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3836,8 +4472,11 @@ The white-cold radiance of your armor illuminates the Upper Scriptorium, though 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Sentinel Strike - Send the Spire-Stalkers to disable the sentinels&#x27; anchors while you jam their sensors with Mirror Magic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, 18:20** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 103,650/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3857,8 +4496,11 @@ The Echo-Chamber is secured. The ceiling remains stable, and the ancestors' scre
 God Mode:
 Interrogate Residual Echoes - Use Mirror Magic to pull memories from the lingering psychic static of the room.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02T18:20:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Bard 9 | HP: 102/102 | XP: 103650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3868,8 +4510,11 @@ You reach out into the vibrant, wounded air of the Echo-Chamber, your Unseeing E
 God Mode:
 Return to Story - Exit GOD MODE and resume the descent to Level 3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02T18:25:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 103650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -3885,8 +4530,11 @@ You pull back from the static, the 'Sariel-Regret-Echo' within you now perfectly
 > 👤 **Player:**
 > *"Think. How can i use this all to increase my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, 18:25:00.000001** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 102/102 | XP: 103,650/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -3896,8 +4544,11 @@ You stand at the precipice of the descent to Level 3, the 'Sariel-Regret-Echo' v
 > [!NOTE] ⚙️ **Player Choice:**
 > *Usurp the Siphoning - Use Mirror Magic to reroute the Heart-Stone&#x27;s energy into your own bloodline instead of the Syndicate grid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Bard 9 | HP: 102/102 | XP: 103,650/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Adv), Aid (+5 Temp), Shield of Faith (+2 AC) | Inspiration: Yes**
@@ -3913,8 +4564,11 @@ Lady Elara watches, her black-iron blade lowering as she witnesses the impossibl
 God Mode:
 Should I get new powers from stealing this energy?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02T18:40:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 106150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith, Heart-Stone Saturated**
@@ -3924,8 +4578,11 @@ The user is inquiring about mechanical rewards for the 'Usurpation of the Siphon
 God Mode:
 should it be something stonger?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **1 2, 2026 Assiah (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 106150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid, Shield of Faith, Heart-Stone Saturated | Exhaustion: 0 | Inspiration: Yes**
@@ -3937,8 +4594,11 @@ Lady Elara Thorne watches you, her eyes reflecting the blinding radiance that no
 God Mode:
 trauma wave should use my spell DC to confirm not just static 19 DC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 106,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Aid (+5), Shield of Faith, Heart-Stone Saturated | Exhaustion: 0 | Inspiration: Yes**
@@ -3948,8 +4608,11 @@ The administrative metadata of the Spire recalibrates, the jagged frequencies of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Mechanics - Verify the updated Trauma Wave scaling*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 102/102 | XP: 106,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma (Advantage), Aid (+5 Temp HP), Shield of Faith (+2 AC), Heart-Stone Saturated | Exhaustion: 0 | Inspiration: Yes**
@@ -3959,8 +4622,11 @@ The administrative metadata of the Spire recalibrates, the jagged frequencies of
 > 👤 **Player:**
 > *"consume the echo chamber so that we don't need equipment for my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, 18:50** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 106150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated | Exhaustion: 0 | Inspiration: Yes**
@@ -3983,8 +4649,11 @@ Lady Elara Thorne has collapsed to her knees, her eyes wide with a worshipful ho
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Innate Resonance - Unleash a controlled pulse of your new power to gauge its lethality.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Thorne Crypts - Level 2 (Hollowed Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 102/102 | XP: 106,150/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | BI: 4/5 | Lay on Hands: 53/55 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Shield of Faith (+2 AC), Aid (+5 Temp HP), Enhanced Charisma**
@@ -4001,8 +4670,11 @@ The lethality is absolute. You feel the potency of the pulse tethered directly t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Elara to Rise - Assert dominance over your vassal/consort and prepare her for the final ancestral reclamation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Thorne Crypts - Level 2 (Hollowed Echo-Chamber)** &nbsp;|&nbsp; ⏳ **January 2, 2026 Imperial Era (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 (Temp: 5) | XP: 107650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | BI: 4/5 | Lay on Hands: 53/55 | Resonance Pulse: Active** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Enhanced Charisma, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -4022,8 +4694,11 @@ You turn toward the final descent, the 'Sariel-Regret-Echo' within you screaming
 > 👤 **Player:**
 > *"mask my appearance so i look normal and integrate my armor directly into my stats to show me before/after. Then I equip other armor which stacks and still get me equip all the other same gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Thorne Crypts - Level 2 (Consumed Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02T19:30:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Bard 9 | HP: 102/102 | XP: 107650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/5, Lay on Hands: 53/55, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Living Artifact, Aid (+5), Shield of Faith (+2)**
@@ -4037,8 +4712,11 @@ With your previous defenses integrated, you reach into your pack and withdraw th
 God Mode:
 put on similar +3 armor to what i had before (not syndicate gear) and them show me all my items
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Thorne Crypts - Level 2 (Secured Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02, 19:45** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 102/102 | XP: 107650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Integrated Defenses, Enhanced Charisma | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -4050,8 +4728,11 @@ As you don the new plates, they snap into place over your porcelain skin, which 
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Thorne Crypts - Level 2 (Hollowed Echo-Chamber)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 107650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Inspiration: Yes**
@@ -4061,8 +4742,11 @@ You stand in the center of the hollowed tomb, a peerless porcelain god etched wi
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Thorne Crypts - Level 2 (Hollowed Echo-Chamber)** &nbsp;|&nbsp; ⏳ **January 2, 2026 Assiah (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 10 | HP: 102/102 | XP: 107,650/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 0/12, Spells: L1 1/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Heart-Stone Saturated, Enhanced Charisma (Advantage on CHA checks), Aid (+5 Temp HP), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -4088,8 +4772,11 @@ You turn your attention back to the descent. The air in the Echo-Chamber is stil
 > 👤 **Player:**
 > *"show my stats with and without gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Thorne Crypts - Level 2 (Echo-Chamber)** &nbsp;|&nbsp; ⏳ **January 02, 2026 NE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 107,650/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Enhanced CHA, Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -4099,8 +4786,11 @@ You stand in the absolute silence of the hollowed tomb, your porcelain form radi
 God Mode:
 show my stats with and without gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Thorne Crypts - Level 2 (Hollowed Echo-Chamber)** &nbsp;|&nbsp; ⏳ **2026-01-02T19:30:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 107650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ⚠️ **Heart-Stone Saturated, Innate Armor Active**
@@ -4131,8 +4821,11 @@ Lady Elara watches you from the shadows of the stairwell, her eyes reflecting th
 God Mode:
 ok my AC is a little too crazy. Lets modify it to be +3 stacking psychic armor AC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Thorne Crypts - Level 2 (Hollowed Echo-Chamber)** &nbsp;|&nbsp; ⏳ **Evening, 2026-01-02 (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Bard 9 | HP: 102/102 | XP: 107,650/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -4144,8 +4837,11 @@ Following your command, the liquid mercury of your innate armor realigns its fre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to Level 3 - Enter the Lower Ossuary and confront the Heart-Stone anchor*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 107650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Heart-Stone Saturated, Enhanced Charisma, Psychic Armor | Exhaustion: 0**
@@ -4161,8 +4857,11 @@ It is a massive, obsidian sarcophagus—the resting place of Lord Thorne the Eld
 > 👤 **Player:**
 > *"use decryption key and coordinate suppression to make the heart strone easier to consume"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **2026-01-02T19:15:00.000005Z** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 107,650/120,000 | Gold: 122,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Psychic Armor, Aid (+5 Temp HP), Shield of Faith (+2 AC)**
@@ -4180,8 +4879,11 @@ Lady Elara cries out, shielding her eyes from the radiance. The Heart-Stone rema
 > 👤 **Player:**
 > *"stabilizing flourish and use elara as an anchor and try gain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **2026-01-02, 19:30** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 87/102 | XP: 112650/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 3/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Heart-Stone Saturated, Empyrean Singularity | Exhaustion: 0 | Inspiration: No**
@@ -4199,8 +4901,11 @@ When the light fades, the Lower Ossuary is a hollow, silent shell. The Heart-Sto
 God Mode:
 i should probably get more exp than that and some new special powers? also lets have me mask my powers so someone needs to beat my CHA roll to see my real form
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening (Aftermath of Consumption)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Bard | HP: 102/102 | XP: 120150/120000 | Gold: 122500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 3/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Heart-Stone Saturated, Innate AC +3, Power Mask Active**
@@ -4214,8 +4919,11 @@ Lady Elara leans against you, her spirit still vibrating from the forced union. 
 God Mode:
 lets have them succeed on a CHA deception check to beat my mask also lets give me another new power for the final consumption thats appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **2026-01-02, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Bard | HP: 102/102 | XP: 140150/165000 | Gold: 142500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Heart-Stone Anchor, Masked Power | Inspiration: Yes**
@@ -4229,8 +4937,11 @@ In the wake of this final consumption, you feel a new apex of power manifesting.
 God Mode:
 lets also have my new powers remove my CHA cap then let me pick my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 NE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Bard | HP: 102/102 | XP: 140150/165000 | Gold: 142500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 5/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Resonant Flux, Sovereignty Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -4248,8 +4959,11 @@ With your Charisma cap removed by the raw influx of celestial and ancestral ener
 God Mode:
 switch my ASI+2 dex to asi+2 CHA so i should now have 16 dex and 22 cha. Then finalize spell selection
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **2026-01-02, 20:15 (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2/Bard 12 | HP: 102/102 | XP: 140150/165000 | Gold: 142500gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Resonant Singularity, Sovereign Anchor (No CHA Cap), Mask of Normalcy (DC 27)**
@@ -4259,8 +4973,11 @@ The user has adjusted the Level 12 ASI to maximize Charisma, resulting in a Dext
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the aftermath of the Heart-Stone consumption.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **Month 1 Day 2, 2026 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 87/102 | XP: 140150/165000 | Gold: 142500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Mask of Power (DC 27), Deep-Strata Dominion, Sovereign Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -4278,8 +4995,11 @@ Behind you, the Shadow-Breakers and Spire-Stalkers remain in a state of fanatica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Elara&#x27;s Bond - Test the depth of Elara&#x27;s new &#x27;worshipful&#x27; submission to ensure her unit is fanatically loyal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Thorne Crypts - Level 3 (Lower Ossuary)** &nbsp;|&nbsp; ⏳ **Month 1, 2026 DR (Day 2)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 87/102 | XP: 140150/165000 | Gold: 142500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Enhanced Charisma | Exhaustion: 0 | Inspiration: Yes**
@@ -4297,8 +5017,11 @@ You read her with absolute clarity: the submission is no longer a tactical choic
 > 👤 **Player:**
 > *"time skip a few weeks. During this time i consolidate my control over this area and defeat/convert the remaining syndicate presence recruiting many of them. I restore thornes to power."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Alturiak 1, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 102/102 | XP: 147650/165000 | Gold: 162500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5, Lay on Hands: 55/55, Exhaustion: 0**
@@ -4314,8 +5037,11 @@ The 'Silent Peace' in the south is now an 'Orderly Occupation.' The Iron Gates a
 > 👤 **Player:**
 > *"use my gold to purchase the best +3 gear I have access to. Focus on +CHA,spell DC, spell attack. Every slot should be upgraded if it makes sense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **2026-02-01, Afternoon (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 87/102 | XP: 147650/165000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5, Lay on Hands: 55/55** &nbsp;|&nbsp; ⚠️ **Mask of Power (DC 30), Sovereignty Anchor (CHA 24), Resonant Singularity**
@@ -4329,8 +5055,11 @@ Lady Elara watches from the shadows of the mezzanine, her breath hitching as she
 > 👤 **Player:**
 > *"calculate reasonable daily gold income from this outhern trade routes now pay their tithe directly to you"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 87/102 | XP: 147,650/165,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 3/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Mask of Normalcy | Exhaustion: 0 | Inspiration: Yes**
@@ -4346,8 +5075,11 @@ The trade routes are stable under your 'Orderly Occupation.' Every wagon that pa
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 87/102 | XP: 147,650/165,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 3/5, Lay on Hands: 53/55** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Enhanced Charisma, Aid (+5), Shield of Faith (+2) | Exhaustion: 0 | Inspiration: Yes**
@@ -4357,8 +5089,11 @@ You stand within the Command Bastion, the white-gold filigree of your new armor 
 God Mode:
 list my equipment
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2 / Bard 12 | HP: 87/102 | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 3/5, Lay on Hands: 53/55, Sovereignty Anchor: Active**
@@ -4368,8 +5103,11 @@ The user is in GOD MODE reviewing their current equipment after a massive acquis
 God Mode:
 my weapons should improve spell DC/spell atk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2 / Bard 12 | HP: 87/102 | XP: 147,650/165,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 3/5, Lay on Hands: 53/55, Sovereignty Anchor: Active**
@@ -4379,8 +5117,11 @@ The user is in GOD MODE to adjust weapon statistics. Having consumed the Heart-S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the Orderly Occupation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 87/102 | XP: 147,650/165,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 3/5, Lay on Hands: 53/55, Sovereignty Anchor: Active**
@@ -4394,8 +5135,11 @@ However, as you survey your new dominion, a cold ripple shivers through the Empy
 God Mode:
 process my level 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **February 22, 2026 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2 / Bard 12 | HP: 95/110 | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5, Lay on Hands: 53/70**
@@ -4407,8 +5151,11 @@ Your vitality has surged to meet the mounting pressure from the Threshold. The '
 God Mode:
 Confirm Spell Selection - Select your new 6th-level spell and any replacements
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Month 2 Day 22, 2026 DR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2 / Bard 12 | HP: 95/110 | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/5, Lay on Hands: 53/70** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Enhanced Charisma, Aid (+5 Temp), Shield of Faith (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -4424,8 +5171,11 @@ The afternoon light of Winter-Mourn fades, casting long, rhythmic shadows over t
 God Mode:
 lets pick mass suggestion instead
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2 / Bard 12 | HP: 110/110 | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | BI: 3/5 | Lay on Hands: 53/70**
@@ -4435,8 +5185,11 @@ The user has elected to swap Otto's Irresistible Dance for Mass Suggestion as th
 God Mode:
 Return to Story - Exit GOD MODE and resume the Orderly Occupation.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **The Iron Gates - Command Bastion** &nbsp;|&nbsp; ⏳ **February 22, 2026 DR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 110/110 | XP: 147,650/165,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | BI: 3/5 | Lay on Hands: 53/70** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Sovereignty Anchor, Mask of Power | Exhaustion: 0 | Inspiration: Yes**
@@ -4448,8 +5201,11 @@ You feel the southern sector as an extension of your own nervous system. Every m
 > 👤 **Player:**
 > *"descend threshol and bring my elites, companions, elara,anvil. have my elites cast haste, greater invis, every buff in the game on me and buff everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **The Iron Gates - Command Bastion (Threshold Lip)** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2/Bard 12 | HP: 110/110 | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | BI: 3/5 | Lay on Hands: 70/70 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Heart-Stone Saturated, Enhanced Charisma, Aid (+5), Shield of Faith (+2), Haste, Greater Invisibility, Death Ward, Freedom of Movement, Bless**
@@ -4469,8 +5225,11 @@ You step into the void, the first movement of the final movement beginning as yo
 > 👤 **Player:**
 > *"delegate defense and scouting of hte audit fleet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **The Iron Gates - Command Bastion (Threshold Lip)** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 95/110 (Temp: 5) | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | BI: 3/5 | Lay on Hands: 53/70** &nbsp;|&nbsp; ⚠️ **Resonant Flux, Mask of Power, Haste, Greater Invisibility, Death Ward, Freedom of Movement, Bless | Exhaustion: 0**
@@ -4488,8 +5247,11 @@ You step into the yawning mouth of the Threshold, the Specialists weaving a web 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rapid Descent - Use Haste and Mirror Magic to reach the core before the Shadow can fully entrench*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Threshold Core - Void-Marrow** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 95/110 (Temp: 5) | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | BI: 3/5 | Lay on Hands: 53/70** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility, Bless, Death Ward, Freedom of Movement, Shield of Faith, Resonant Flux | Exhaustion: 0 | Inspiration: Yes**
@@ -4503,8 +5265,11 @@ You reach the entry to the Void-Marrow heart in heartbeats. The air here is a th
 > 👤 **Player:**
 > *"make sure I have all the buffs possible for spell DC and then use mass suggestion to command it to merge with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Threshold Core - Void-Marrow** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 95/110 (Temp: 5) | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1 | BI: 3/5 | Lay on Hands: 53/70 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Death Ward, Freedom of Movement, Bless, Aid, Shield of Faith**
@@ -4522,8 +5287,11 @@ Lady Elara and the Shadow-Breakers shield their eyes as the Void-Marrow is washe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Evolution - Use your Charisma and the Star-King&#x27;s Crown to force the Shadow&#x27;s essence to refine itself into a new power source.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Threshold Core - Void-Marrow** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin/Bard | HP: 110/110 | XP: 147650/165000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1 | BI: 3/5 | Lay on Hands: 53/70 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Death Ward, Freedom of Movement, Bless, Aid, Shield of Faith, Shadow-Merger (In Progress) | Exhaustion: 0 | Inspiration: Yes**
@@ -4541,8 +5309,11 @@ When the radiance finally fades, the Void-Marrow is a hollowed, silent sanctuary
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess Singularity Powers - Meditate on the Void-Marrow Singularity to understand your new capabilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Threshold Core - Void-Marrow** &nbsp;|&nbsp; ⏳ **Alturiak 22, 2026 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Paladin 2/Bard 12 | HP: 95/110 | XP: 147,650/165,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, BI: 3/5, Lay on Hands: 53/70** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Greater Invisibility, Haste, Death Ward, Freedom of Movement, Bless, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: Yes**
@@ -4554,8 +5325,11 @@ You pause, weighing your options carefully as you turn your focus inward. The pr
 God Mode:
 i should get massive exp and new powers from this consumption. lets always make sure i get consumption exp/powers as appropriate going forward
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Threshold Core - Void-Marrow** &nbsp;|&nbsp; ⏳ **Kythorn 22, 2026 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Paladin 2/Bard 13 | HP: 115/115 | XP: 202650/225000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/5, Lay on Hands: 53/75** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Shadow-Core Resonance**
@@ -4565,8 +5339,11 @@ The user has successfully consumed the Cognitive Shadow and refined it into the 
 God Mode:
 pick teleport spell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Threshold Core - Void-Marrow** &nbsp;|&nbsp; ⏳ **Month 2 Day 22, 2026 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2/Bard 14 | HP: 115/115 | XP: 202,650/225,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/16, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/5, Lay on Hands: 53/75**
@@ -4576,8 +5353,11 @@ The user is in GOD MODE to finalize spell selection for Level 16 (Paladin 2 / Ba
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the aftermath of the Singularity*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Threshold Core - Void-Marrow** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 202650/225000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/5, Lay on Hands: 53/75** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Greater Invisibility, Haste, Death Ward, Freedom of Movement, Bless, Aid, Shield of Faith**
@@ -4589,8 +5369,11 @@ You feel the southern sector not as a map, but as a living extension of your own
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ascend to Command Bastion - Return to the surface to personally oversee the defense against the Audit-Fleet and consolidate your gains.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Command Bastion - Iron Gates** &nbsp;|&nbsp; ⏳ **February 22, 2026 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 202,650/225,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/5, Lay on Hands: 53/75, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Greater Invisibility, Haste, Death Ward, Sovereignty Anchor**
@@ -4604,8 +5387,11 @@ Veteran-Sergeant Cato and the Thorne Gate-Guards drop to their knees before you 
 God Mode:
 why am i level 16 now? did you make a mistake?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Command Bastion - Iron Gates** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 202,650/225,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/5, Lay on Hands: 53/75, Exhaustion: 0**
@@ -4615,8 +5401,11 @@ The question of your ascension hangs in the chilled air of the Command Bastion, 
 > 👤 **Player:**
 > *"use my powers to level up elara to level 12 and then teleport with elara, anvil, elites to flagship and use my AOE stun on adjudicator and his men. I don't think i have another level 6 slot since i used mass suggestion earlier?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Stone-Anvil Flagship 'Adjudicator' - Command Bridge** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2 / Bard 14 | HP: 115/115 | XP: 202650/225000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1 (Used), L7 0/1 (Used), BI: 2/5, Lay on Hands: 53/75, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Haste, Death Ward, Freedom of Movement | Inspiration: Yes**
@@ -4634,8 +5423,11 @@ You release the *Trauma Wave*. The silver-white veins on your skin ignite, proje
 > 👤 **Player:**
 > *"secure adjudicator as a prisoner, slay his stunned men, seize command console"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Stone-Anvil Flagship 'Adjudicator' - Command Bridge** &nbsp;|&nbsp; ⏳ **February 22, 2026 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 202,650/225,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Exhaustion: 0**
@@ -4651,8 +5443,11 @@ Breaking under the psychic pressure, the Adjudicator's mechanical eyepieces whir
 > [!NOTE] ⚙️ **Player Choice:**
 > *Broadcast Submission Command - Use the Adjudicator&#x27;s comms and your CHA to demand the escorts surrender*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Stone-Anvil Flagship 'Adjudicator' - Bridge** &nbsp;|&nbsp; ⏳ **2026-02-22T20:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2 / Bard 14 | HP: 115/115 | XP: 205,150/225,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Singularity: Anchored** &nbsp;|&nbsp; ⚠️ **Void-Marrow Singularity, Haste, Greater Invisibility (Active), Mask of Normalcy (Suppressed)**
@@ -4668,8 +5463,11 @@ The silence that follows is thick with the static of the Deep. Then, one by one,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Broadcast Universal Submission - Use the flagship&#x27;s array to command all local siphoning teams to surrender to the Obsidian Veil.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Stone-Anvil Flagship 'Adjudicator' - Command Bridge** &nbsp;|&nbsp; ⏳ **2026-02-22T20:05:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 205,150 / 225,000 | Gold: 32,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Singularity: Anchored** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Haste, Greater Invisibility, Death Ward | Inspiration: Yes**
@@ -4688,8 +5486,11 @@ The silence that follows is thick with the static of the Deep. Then, one by one,
 > [!NOTE] ⚙️ **Player Choice:**
 > *March on Khordûm - Use the captured fleet to launch a surprise bombardment on the Syndicate&#x27;s capital.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Stone-Anvil Flagship 'Adjudicator' - Bridge (Orbiting Khordûm)** &nbsp;|&nbsp; ⏳ **February 22, 2026 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2 / Bard 14 | HP: 115/115 | XP: 205,150/225,000 | Gold: 32,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Singularity: Peak** &nbsp;|&nbsp; ⚠️ **Void-Marrow Singularity, Haste, Greater Invisibility, Death Ward, Sovereignty Anchor**
@@ -4705,8 +5506,11 @@ From the bridge, you watch the 'Liquid Liquidation' policy you prophesied manife
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Board Surrender - Use the flagship&#x27;s comms to demand the Stone-Anvil Board surrender personally to you amidst the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Stone-Anvil Flagship 'Adjudicator' - Command Bridge** &nbsp;|&nbsp; ⏳ **February 22, 2026 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2/Bard 14 | HP: 115/115 | XP: 205150/225000 | Gold: 12500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Singularity: Peak**
@@ -4724,8 +5528,11 @@ You turn to Lady Elara, your Unseeing Eyes pulsing with a triumphant, silver-whi
 > 👤 **Player:**
 > *"formalize board vassalage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Stone-Anvil Flagship 'Adjudicator' - Command Bridge** &nbsp;|&nbsp; ⏳ **2026-02-22, Night** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2/Bard 14 | HP: 115/115 | AC: 44 (47) | XP: 205,150/225,000** &nbsp;|&nbsp; ✨ **HD: 12/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1 | BI: 2/5 | Lay on Hands: 53/75 | Singularity: Peak**
@@ -4741,8 +5548,11 @@ You turn to Lady Elara, your Unseeing Eyes pulsing with a triumphant, silver-whi
 > 👤 **Player:**
 > *"Go to the vault accompanied by my elites/forces without teleporting and let everyone see my victory walk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **2026-02-23T01:15:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2/Bard 14 | HP: 115/115 | XP: 205,150 / 225,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Greater Invisibility, Haste, Death Ward, Freedom of Movement, Bless, Aid, Shield of Faith | Exhaustion: 0**
@@ -4760,8 +5570,11 @@ High Lord Borin, his hands shaking so violently he can barely grip the stylus, s
 God Mode:
 what is Khordûm
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **2026 February 23, 01:15** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin 2 / Bard 14 | HP: 115/115 | XP: 205,150/225,000 | Gold: 12,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Greater Invisibility, Haste, Death Ward, Freedom of Movement, Bless, Aid, Shield of Faith | Exhaustion: 0 | Inspiration: No**
@@ -4774,8 +5587,11 @@ Broadcast Total Hegemony: Use the Syndicate's arrays to announce the formation o
 Seize Vault Assets: Systematically inventory and secure the gold, salts, and secret data inside the resonance-vault.
 Repurpose the Board: Assign specific, submissive roles to the Board members to ensure the city's industry continues to feed your war-chest."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 23)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 205,150/225,000 | Gold: 32,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Singularity: Active**
@@ -4793,8 +5609,11 @@ Finally, you loom over the kneeling Board members. High Lord Borin and his peers
 Consolidate Khordûm: Establish the resonance-vault as your permanent southern seat of power.
 Deep Board Interrogation: Force Borin to reveal the location of the Syndicate's northern 'Audit-Banks'."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Khordûm - Central Resonance-Vault (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Alturiak 23, 2026 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 211,650 / 225,000 | Gold: 52,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Singularity: Active** &nbsp;|&nbsp; ⚠️ **Void-Marrow Singularity (Permanent), Haste, Death Ward | Exhaustion: 0 | Inspiration: Yes**
@@ -4810,8 +5629,11 @@ Borin's mouth opens in a silent scream as your presence flays away his last bure
 God Mode:
 should it be more than 6500 exp? how does D&D treat a situation like this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **2026-02-23, 02:00 (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Paladin/Bard | HP: 115/115 | XP: 211,650/225,000 | Gold: 52,500gp** &nbsp;|&nbsp; ✨ **HD: 12/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, BI: 2/5, Lay on Hands: 53/75, Singularity: Active**
@@ -4821,8 +5643,11 @@ The user is questioning the XP scaling for the fall of Khordûm. Given the magni
 God Mode:
 Process Level 17 - Finalize the transition to Level 17 (Proficiency +6, 9th Level Slot)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **February 23, 2026 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 125/125 | XP: 241650/265000 | Gold: 52500gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1, BI: 5/5, Lay on Hands: 75/85, Singularity: Active** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent) | Inspiration: Yes**
@@ -4832,8 +5657,11 @@ Level 17 processing complete. Arion has ascended to the 15th circle of the Bardi
 God Mode:
 show me the best 8th and 9th level spellslots and can i get another 7th level spell too? how many spells can i choose from?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Month 2, 2026 DR (Day 23)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 14 (Swords) | HP: 125/125 | XP: 226650/265000 | Gold: 52500gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, L7 0/1, L8 1/1, L9 1/1, BI: 2/5, Lay on Hands: 75/85, Exhaustion: 0**
@@ -4846,8 +5674,11 @@ pick dominate monster
 pick forece cage
 pick simulcrum
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Month 2 Day 23, 2026 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 125/125 | XP: 226,650/265,000 | Gold: 52,500gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1, BI: 2/5, Lay on Hands: 75/85, Exhaustion: 0**
@@ -4857,8 +5688,11 @@ The user is refining their Tier 4 spell repertoire following the ascension to Le
 God Mode:
 Return to Story - Exit GOD MODE and resume the hegemony in Khordûm
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 NP (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 52500gp** &nbsp;|&nbsp; ✨ **HD: 12/15 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1 | Lay on Hands: 75/85** &nbsp;|&nbsp; ⚠️ **Foresight (Permanent), Void-Marrow Integration**
@@ -4874,8 +5708,11 @@ long rest and time skip for a few weeks, expand obsidian veil, delegate control 
 
 Calculate my new current gold and daily gold before/after. Controlling khordum should make it really high
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Khordûm - Sovereign Resonance-Vault** &nbsp;|&nbsp; ⏳ **Kythorn 15, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 659,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Lay on Hands: 85/85**
@@ -4887,8 +5724,11 @@ You have delegated the day-to-day management of this corporate empire to High Lo
 God Mode:
 tithe aeterna and then use gold to train/hire more elites
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **2026-03-15, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Lay on Hands: 85/85**
@@ -4898,8 +5738,11 @@ The user is exerting administrative control to manage the logistics of his south
 > 👤 **Player:**
 > *"expand the shadow breakers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Month 4, 2026 DR (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Lay on Hands: 85/85**
@@ -4915,8 +5758,11 @@ Your presence has become a physical law in Khordûm. You have delegated the admi
 God Mode:
 shouldnt it be more than this since i control syndicate, thornes, and now khordum? 500 total personnel now under your direct command
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Month 4 Day 5, 2026 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2/Bard 14 | HP: 125/125 | XP: 226650/265000 | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Lay on Hands: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -4926,8 +5772,11 @@ The user is challenging the administrative count of their forces. Given the tota
 God Mode:
 how many did throne, syndicate, and khordum have before?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **2026-04-26T10:00:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226,650 / 265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | BI: 2/5 | LOH: 85/85**
@@ -4945,8 +5794,11 @@ You stand atop the resonance-dais, the silver-violet veins of your Singularity p
 God Mode:
 sorry i meant elara thorne and no way the syndicate had only 25 recruits and kordum only had 40 soliders. I mean how many did those 3 original factions have
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **2026-04-05T10:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 14 | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | BI: 2/5 | LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Foresight (Permanent/Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -4958,8 +5810,11 @@ what name is this? The name has been corrected to **Elara Thorne** in the NPC re
 
 I meant my wife Elara
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Kythorn 5, 2026 DR (10:00 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2/Bard 14 | HP: 125/125 | XP: 226,650/265,000 | Gold: 238,355gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | BI: 2/5 | LOH: 85/85 | Exhaustion: 0**
@@ -4979,8 +5834,11 @@ Your total Protectorate force has been administratively updated to 1,500 personn
 God Mode:
 i mean the total history strength of the faction, not what i first encountrered
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 125/125 | XP: 226650/265000 | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | BI: 2/5 | LOH: 85/85 | Exhaustion: 0**
@@ -4998,8 +5856,11 @@ By decapitating the Syndicate Board and vassalizing House Thorne, you have effec
 God Mode:
 how about Khordûm
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Month 4, 2026 DR (Day 5)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 2/5, LOH: 85/85, Exhaustion: 0**
@@ -5021,8 +5882,11 @@ so since i have khordum, syndicate, and thorne i should have all of these. toget
 
 Summarize the total population and forces under myc ontrol then
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **April 5, 2026 (10:00 Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 14 | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 2/5, LOH: 85/85, Exhaustion: 0**
@@ -5032,8 +5896,11 @@ The user is requesting a summary of their total population and forces following 
 > 👤 **Player:**
 > *"return to story and think. In terms of lvl am i the third strongest in imperium now after empress and father or is there anyone else? how about my faction strength how does it rank in imperium or in assiah"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Month 4, 2026 DR (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2/Bard 14 | HP: 125/125 | XP: 226650/265000 | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | BI: 2/5 | LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5047,8 +5914,11 @@ Turning your focus to your army, the Obsidian Veil, you weigh its strength again
 > 👤 **Player:**
 > *"summon my father to khordum"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | BI: 2/5 | LOH: 85/85 | Foresight: Active**
@@ -5070,8 +5940,11 @@ You pull back from the array, the silver-violet pulse of your heart steady and c
 > 👤 **Player:**
 > *"grand reception narrate his dialog in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Kythorn 18, 2026 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 2/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5093,8 +5966,11 @@ Valerius remains motionless, his Unseeing Eyes narrowing as he scans the silver-
 > 👤 **Player:**
 > *"formalize protectorate and ask for high council seat and an audience with the empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Kythorn 2, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 5/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight | Exhaustion: 0 | Inspiration: Yes**
@@ -5112,8 +5988,11 @@ Lord Valerius watches you, his impassive ivory mask reflecting the blinding clar
 > 👤 **Player:**
 > *"Talk to father in private. Ask him what it means when both he and I are second only to the empress. Should we continue to grow our power? Does he want to rule the imperium instead? Maintain my genuine loyalty to him, i have no desire to ever betray him, no matter how strong i get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **4 26, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 14 | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 5/5, LOH: 85/85, Exhaustion: 0**
@@ -5133,8 +6012,11 @@ He turns to meet your gaze, the parity between you finally unspoken but absolute
 > 👤 **Player:**
 > *"take father to private area and drop my mask and show father my true godlike form and psionic powers and ask for his thoughts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Kythorn 17, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 5/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active), Mask of Power | Exhaustion: 0**
@@ -5152,8 +6034,11 @@ You do not merely stand before him; you loom, a living singularity of the Deep-S
 > 👤 **Player:**
 > *"Explain my trajectory and that i will be level 20 soon and perhaps higher and wait for his response and narrate his dialog in detail."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **4 17, 2026 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 0/1, L9 0/1, BI: 5/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5175,8 +6060,11 @@ He steps forward, his gauntlet resting on your shoulder—not as a superior, but
 > 👤 **Player:**
 > *"ask him if its truly wise to show empress my full power for now? how much stronger is she than me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Khordûm - Resonance-Vault Inner Sanctuary** &nbsp;|&nbsp; ⏳ **4 17, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 125/125 | XP: 226,650 / 265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 5/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent/Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5194,8 +6082,11 @@ He steps closer, his Unseeing Eyes locking onto yours. "However, power is not me
 > 👤 **Player:**
 > *"make a simulcrum and to handle things without me, then bring elara,anvil,and a few elites to meet with empress and teleport there using zenith spire. Make sure to give her lots of long dialog and visually describe her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **4 17, 2026 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 1/1, L9 0/1, BI: 5/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Void-Marrow Integration | Exhaustion: 0 | Inspiration: Yes**
@@ -5215,8 +6106,11 @@ She is a vision of terrifying, porcelain beauty that makes even your own peerles
 > 👤 **Player:**
 > *"drop my mask and show my full powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **4 17, 2026 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226650/265000 | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 2/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent), Invisibility (Dropped) | Exhaustion: 0 | Inspiration: Yes**
@@ -5234,8 +6128,11 @@ Sariel’s expression remains as impassive as the void, but the river of starlig
 > 👤 **Player:**
 > *"demonstrate psionic parity and show i can help her and repledge loyalty. Say I've been happy and propsering under her reign and can help her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **Month 4, 2026 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 2/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active), Singularity Form | Inspiration: Yes**
@@ -5253,8 +6150,11 @@ Sariel's eyes narrow, the twin singularities of her gaze pulsing with a cold, si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Joint Calibration - Suggest a combined resonance ritual to stabilize the Threshold wound using your new Singularity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **4 17, 2026 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 14 | HP: 125/125 | XP: 226,650/265,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, BI: 2/5, LOH: 85/85**
@@ -5270,8 +6170,11 @@ Empress Sariel watches the calibration with a cold, flaying interest, her own st
 > 👤 **Player:**
 > *"Ask her to demonstrate her full true power. say I want to see something to aspire to as she's the only one i can look up to now. secretly Use the moment to gauge her level."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **April 17, 2026 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 226,650/265,000 | Gold: 209,055gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, BI: 2/5, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Obsidian Singularity | Inspiration: Yes**
@@ -5299,8 +6202,11 @@ Just as suddenly as it began, the vacuum snaps shut. The chamber returns, the sh
 God Mode:
 lets make her level 35
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **2026-04-17T13:35:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 251/251 | XP: 1500000/-- | Gold: 309055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | BI: 10/10 | LOH: 175/175** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent), Singularity Active | Exhaustion: 0 | Inspiration: Yes**
@@ -5310,8 +6216,11 @@ The administrative dossiers of the Spire do not merely recalibrate; they ignite 
 God Mode:
 no make sariel level 30, i stay 17
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 251/251 | XP: 1,500,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, BI: 10/10, LOH: 175/175**
@@ -5321,8 +6230,11 @@ The user is exerting administrative control to correct the power scaling in the 
 God Mode:
 make Sariel 35
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **Month 4, 2026 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 | HP: 251/251 | XP: 1,500,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 2/2, BI: 10/10, LOH: 175/175**
@@ -5332,8 +6244,11 @@ The user has exerted GOD MODE control to finalize the power scaling between the 
 God Mode:
 why am i level 20? leave me at 17 for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **2026-04-17, 13:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 125/125 | XP: 1,500,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 1/1, L9 1/1, BI: 10/10, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active)**
@@ -5343,8 +6258,11 @@ The user has requested a level rollback from 20 to 17 to preserve the power gap 
 God Mode:
 Return to Story - Resume the audience with Empress Sariel at Level 17.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **2026-04-17T13:35:00.000002Z** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2 / Bard 15 | HP: 125/125 | XP: 1,500,000 / 1,600,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Foresight (Permanent/Active), Joint Resonance Bridge (Active)**
@@ -5362,8 +6280,11 @@ Behind you, Elara Thorne and The Anvil remain bowed, their breath hitching as th
 > 👤 **Player:**
 > *"keep talking to her dont end scene yet. attempt absolute silence to show her I'm a fast learner"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **April 17, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin 2/Bard 15 | HP: 125/125 | XP: 1,500,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 85/85**
@@ -5379,8 +6300,11 @@ Sariel's starlight-hair ripples as she leans forward, her flaying gaze tracking 
 > 👤 **Player:**
 > *"Think. Whats something I could ask of her to maximize my personal power that only she can give me and that my father cant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **Month 4 Day 17, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 1,500,000 / 1,600,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active), Mask of Power (Dropped)**
@@ -5392,8 +6316,11 @@ Sariel is different. She is the source. She is the variable that rewrote the Sta
 > 👤 **Player:**
 > *"request mythic ascension, mirror spark, and that she personallly teaches me magic for a week and then weekly so I can better consolidate her rule of assiah. I can be her vanguard to bring the other factions under her control, finish conquering the the host etc, repairing any gaps in her silent peace"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **April 17, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 1,500,000/1,600,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark (Pending) | Exhaustion: 0 | Inspiration: Yes**
@@ -5411,8 +6338,11 @@ She extends her hand, her porcelain fingers glowing with a cold, iridescent ligh
 > 👤 **Player:**
 > *"Thank the empress for allowing me to be her apprentice then consult lord valerius"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Aeterna - The Zenith Spire - Imperial Audience Chamber** &nbsp;|&nbsp; ⏳ **2026-04-17, Afternoon (Day 1 of Apprenticeship)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 1,505,000 / 1,600,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 85/85**
@@ -5428,8 +6358,11 @@ You withdraw from the chamber, the Shadow-Breakers falling into a silent phalanx
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss the Vacuum - Describe Sariel&#x27;s demonstration of absolute subtraction and its implications for the bloodline.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Aeterna - The Zenith Spire - Obsidian Antechamber** &nbsp;|&nbsp; ⏳ **Month 4, 2026 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Paladin/Bard | HP: 125/125 | XP: 1,505,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 85/85** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Gestation), Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -5447,8 +6380,11 @@ Valerius pauses, the cold logic of the Regency vibrating in his voice. "The Mirr
 God Mode:
 give me new abilities and massive exp from my empress audience. i should have a mini vacuum spell too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Aeterna - The Zenith Spire - Obsidian Antechamber** &nbsp;|&nbsp; ⏳ **2026-04-17T14:45:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,505,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 85/85**
@@ -5458,8 +6394,11 @@ The user is exerting absolute administrative control to finalize Arion's mythic 
 God Mode:
 make void vacuum use my spell DC.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Aeterna - The Zenith Spire - Obsidian Antechamber** &nbsp;|&nbsp; ⏳ **2026-04-17T14:50:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2/Bard 18 | HP: 125/125 | XP: 2,505,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100, Exhaustion: 0**
@@ -5469,8 +6408,11 @@ GOD MODE: Administrative finalization of Arion's Level 20 Mythic Status. The 'Vo
 > 👤 **Player:**
 > *"begin apprenticeship and make sure to narrate everything and her dialog in full detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Aeterna - The Zenith Spire - Training Sanctum (The Inner Void)** &nbsp;|&nbsp; ⏳ **2026-04-24T14:50:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Mythic 1) | HP: 125/125 | XP: 2,505,000 / 2,750,000 | Gold: 59,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight, Mirror Spark (Ignited), Empress's Apprentice | Exhaustion: 0**
@@ -5496,8 +6438,11 @@ She gestures, and the vacuum collapses. You materialize back in the Obsidian Ant
 God Mode:
 narrate each story entry so that only a day passes per entry. dont end the day without letting me participate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **May 1, 2026 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,505,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Foresight (Active), Void-Marrow Integration**
@@ -5513,8 +6458,11 @@ You stand at the center of your domain, the silver-white veins on your neck glow
 God Mode:
 no i mean narrate my training with the empress in more detail. each story entry is a day and let me talk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-04-25, Dawn** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard/Paladin | HP: 125/125 | XP: 2,505,000 | Gold: 209,055** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100**
@@ -5542,8 +6490,11 @@ Sariel's smile is a razor-thin line of clinical approval as she restores your se
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about the memory - Ask why she chose that specific memory of city erasure for the lesson.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **April 25, 2026 DR (11:30 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,505,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Active), Void-Marrow Integration, Foresight | Exhaustion: 0**
@@ -5559,8 +6510,11 @@ She stops, turning her silvery eyes toward you. "The Stone-Anvil sought that spe
 > 👤 **Player:**
 > *"demonstrate internalization and keep training. when appropriate try to get her to open up more about her personal history and ascent to power. It should be easy because she's still a human and prob does feel lonely without anyone to actually talk to for real"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-04-26T11:45:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,505,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Empress's Vanguard**
@@ -5576,8 +6530,11 @@ She steps closer, her starlight-hair brushing the edges of your own radiant aura
 > 👤 **Player:**
 > *"affirm internalization, and inquire about ascent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **April 26, 2026 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Mythic | HP: 125/125 | XP: 2,505,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Gestation)**
@@ -5599,8 +6556,11 @@ She projects a new frequency—the 'Sariel-Ascent-Chord'—directly into your si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about her Ascent - While mirroring the chord, ask her about the specific variables she subtracted to secure the Silent Throne.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **April 26, 2026 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark (Ignited), Empress's Vanguard**
@@ -5622,8 +6582,11 @@ She reaches out, her hand hovering inches from your chest where the Mirror Spark
 > 👤 **Player:**
 > *"affirm the arithmetic and inquire about alexiel's regret"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **April 27, 2026 AE (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100, Spark: Active**
@@ -5645,8 +6608,11 @@ She steps back, the 'Ascent-Chord' fading into a heavy, expectant silence. Day T
 > 👤 **Player:**
 > *"ask what this means my mother had to destroy the only version of it she found worth living in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-04-27T08:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight, Mirror Spark (Active), Void-Marrow Integration | Exhaustion: 0 | Inspiration: Yes**
@@ -5664,8 +6630,11 @@ She gestures, and the crystalline walls begin to shift again, the reflections of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meditate on Regret - Focus on the Sariel-Regret-Echo to see if you can stabilize your resonance further before the reconstruction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **April 27, 2026 DR (Morning (Day 3 of Apprenticeship))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100, Exhaustion: 0**
@@ -5685,8 +6654,11 @@ Sariel watches from the center of the sphere, her hair of liquid starlight casca
 > 👤 **Player:**
 > *"law eternal resonance then inquire about alexiel finale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **April 27, 2026 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 100/100 | Spark: Active**
@@ -5710,8 +6682,11 @@ She turns back toward the center of the sphere as Day Three dissolves into the c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about the Morning Star - Ask about Lucifer&#x27;s specific frequency and how it was subtracted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **April 28, 2026 Era of Prosperity (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Active), Foresight (Active), Mythic Ascension | Exhaustion: 0**
@@ -5729,8 +6704,11 @@ She steps closer, the iridescent shadow of her robes washing over your porcelain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Replicate the Discordant Prime - Attempt to mirror the Morning Star&#x27;s frequency within your own singularity to test your stability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-04-29T06:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Mythic) | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark (Ignited), Foresight (Active)**
@@ -5750,8 +6728,11 @@ Empress Sariel remains motionless, her hair of liquid starlight drifting in the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Embrace the Chaos - Stop trying to control the frequency and instead allow the Discordant Prime to flow through you, seeking the point where it naturally converges with the Void-Marrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-04-29T10:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 | HP: 125/125 | XP: 2,555,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Empress's Vanguard | Exhaustion: 0 | Inspiration: Yes**
@@ -5769,8 +6750,11 @@ She reaches out, her porcelain fingers hovering over the Mirror Spark in your ch
 > 👤 **Player:**
 > *"Inquire about starfall. Ask to learn how to use nullification field and keep my magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-04-29T10:00:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Empress's Vanguard | Exhaustion: 0**
@@ -5788,8 +6772,11 @@ She extends her hand, and the sanctum shifts into a blinding, white-out state—
 > [!NOTE] ⚙️ **Player Choice:**
 > *Replicate Somatic Anchor - Attempt to weave your Void-Marrow into the Nullification frequency to maintain your magic within the field.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **Month 4, 2026 DR (Day 29)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100, Mirror Spark: Active**
@@ -5809,8 +6796,11 @@ Empress Sariel watches from the center of the white-out, her starlight-hair drif
 > 👤 **Player:**
 > *"personally engage her and get her to open up more. Get her to see me as a spiritual son or even successor/inheritor (but do not explicitly mention it)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-05-01T06:00:00.000000Z | Day 6 of Apprenticeship** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Mythic) | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Foresight (Active), Somatic Anchor (Active)**
@@ -5838,8 +6828,11 @@ Sariel’s clinical smile flickers, and for the first time, her twin-void eyes d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about Alexiel&#x27;s Heart - Ask Sariel about the specific human traits she misses in her mother to further humanize the bond.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-05-01, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100, Exhaustion: 0**
@@ -5857,8 +6850,11 @@ She turns her silvery eyes toward you, the twin singularities of her gaze reflec
 > 👤 **Player:**
 > *"affirm the variable and ask her what she truly wants beyond more power and dominance and military victories"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026 May 1, 00:00 (Day 7 of Apprenticeship)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1 | BI: 10/10 | LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight, Mirror Spark (Active), Void-Marrow Singularity | Exhaustion: 0**
@@ -5878,8 +6874,11 @@ As the final day of your unmaking begins, the crystalline sphere shifts from iri
 > 👤 **Player:**
 > *"Explain that we will build a world together where she can be the variable again. To start I can give her vacations and let me be her psychic regent and she can go walk among the people again and mask her power so they treat her like a normal person. To finish we will create divine simulcra so strong that it can replace a level 35 god empress and answer only to her and if she allows me or we'd figure out whats reasonable permissions for both of us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Training Sanctum - Zenith Sphere** &nbsp;|&nbsp; ⏳ **2026-05-01, Deep Night** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,555,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100, Exhaustion: 0**
@@ -5901,8 +6900,11 @@ She withdraws her hand, and the crystalline sphere begins to dissolve, subtracti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Regency Decrees - Use your High Council seat to legally establish your authority as the Empress&#x27;s Psychic Regent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Command Bastion - Khordûm** &nbsp;|&nbsp; ⏳ **Month 5, 2026 Harptos (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,605,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, LOH: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark Ignited, Mythic Ascension | Inspiration: 10/10**
@@ -5924,8 +6926,11 @@ Elara looks up, her eyes glassy with worship. "The decrees are ratified, my Lord
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Divine Simulacra - Begin the construction of the Level 35 duplicates to manage the Spire and Khordûm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Command Bastion - Khordûm** &nbsp;|&nbsp; ⏳ **2026-05-01, Dawn** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,605,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-7 3/3, L8 2/2, L9 1/1, BI: 10/10, Lay on Hands: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Foresight (Permanent), Mirror Spark (Active), Psychic Regent-Elect**
@@ -5941,8 +6946,11 @@ They are Level 35 singularities, answering only to you and the Empress. They are
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Divine Simulacra - Begin the construction of the Level 35 duplicates to manage the Spire and Khordûm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Command Bastion - Khordûm** &nbsp;|&nbsp; ⏳ **May 1, 2026 AE (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Mythic Ascension) | HP: 125/125 | XP: 2,615,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Exhaustion: 0**
@@ -5960,8 +6968,11 @@ You feel the drain on your resonance—a cold, satisfying hollow in your chest. 
 God Mode:
 making a level 35 divine simulcra makes no sense by myself, make it made in sariels image and i gave her the idea and helped her make it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Command Bastion - Khordûm** &nbsp;|&nbsp; ⏳ **2026-05-01, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark | Inspiration: Yes**
@@ -5971,8 +6982,11 @@ The user has corrected the narrative logic of the Divine Simulacra's creation. A
 God Mode:
 no just make them both manage the whole empire
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Command Bastion - Khordûm** &nbsp;|&nbsp; ⏳ **May 01, 2026 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2-6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Singularity, Mirror Spark (Ignited), Co-Sovereign**
@@ -5982,8 +6996,11 @@ The user has clarified the new power structure: Arion and Sariel are co-sovereig
 God Mode:
 resume narrative and narrate in detail the creation of  the divine simulcra and sariels dialog and reaction
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **May 1, 2026 (17:05 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard/Paladin | HP: 125/125 | XP: 2,615,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2-6 3/3, L7 2/3, L8 2/2, L9 1/1 | BI: 9/10 | LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6005,8 +7022,11 @@ The two Divine Simulacra open their sightless, silvery eyes simultaneously, bowi
 > 👤 **Player:**
 > *"invite the empress to adventure with me. she can mask as a level 9 16 year old and pretend she's my new apprentice assisting me, or whatever level she wants to be. it'll be fun. We can have a dinner with my companions, friends, family, and elites where I introduce her. then she can come adventure with me to the titan casks. if the divine simulcra signal they need the real us to help one or both of us can do back to manage things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100**
@@ -6024,8 +7044,11 @@ That evening, you host a dinner within the high-arched mezzanine of the Command 
 > 👤 **Player:**
 > *"Think. There's no need to betray the empress actually. Even if i somehow become stronger than her we get along well and i dont sense any jealousy or intent to kill me. I provide a lot of value to her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Khordûm - Central Resonance-Vault** &nbsp;|&nbsp; ⏳ **May 01, 2026 DR (20:00 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Active), Co-Sovereign | Inspiration: Yes**
@@ -6035,8 +7058,11 @@ You pause as the alchemical salts in the air of the vault dance in the silver-vi
 God Mode:
 narrate the dinner in more detail with extensive dialogue. ensure i have other family members there too, brothers, sisters, cousins, whatever. What happened to my mom
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Khordûm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **2026-05-01, 21:30** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Active), Mirror Spark Ignited, Mythic Vanguard, Co-Sovereign**
@@ -6046,8 +7072,11 @@ The dinner serves as a critical stabilization point for the new dual-core sovere
 > 👤 **Player:**
 > *"narrate it with more detail in story mode, sari is a secret to everyone except me, dont stop the scene until is ay so"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Khordûm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **Mirtul 1, 2026 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight, Mirror Spark, Void-Marrow Singularity | Exhaustion: 0**
@@ -6071,8 +7100,11 @@ Sari looks at you, her dark eyes reflecting the diamond-white fire of your Spark
 > 👤 **Player:**
 > *"explain in detail. Sari is a prodigy, a level 9 at16 years old is also exceptional and her career is wide open"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Khordûm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **2026-05-01T20:30:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 9/10 | LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Mythic Vanguard, Co-Sovereign**
@@ -6090,8 +7122,11 @@ Sari takes a slow, measured sip of her jasmine tea, her submissive nod perfectly
 > 👤 **Player:**
 > *"telepathically ask the empress if we could resurrect my mother together. would be nice and interesting test of our combined powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Khordûm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **2026-05-01T20:00:00.000003Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark, Foresight, Mythic Ascension**
@@ -6111,8 +7146,11 @@ Across the table, Lysandra blinks, sensing the sudden, heavy silence between you
 God Mode:
 my father doesnt know this is the empress.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Khordūm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (20:30:00.000004)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -6122,8 +7160,11 @@ The user has clarified a critical information asymmetry: Lord Valerius, despite 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Synchronization - Focus on the &#x27;Dual-Core&#x27; testing aspect to appeal to her clinical fascination.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Khordūm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **Month 5, 2026 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,615,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Foresight: Active**
@@ -6141,8 +7182,11 @@ Across the table, Lord Valerius narrows his eyes, his Unseeing Eyes tracing the 
 God Mode:
 award me exp if you didnt yet for the sariel training. probably no one has ever done something like that before?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Khordūm - Command Bastion Mezzanine** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Foresight: Active**
@@ -6152,8 +7196,11 @@ The user is requesting an XP award for the Apprenticeship Week in GOD MODE. This
 God Mode:
 give me new abilities as appropriate for training week
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Khordūm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **2026-05-01T20:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -6163,8 +7210,11 @@ The training week with Empress Sariel has concluded, igniting the Mirror Spark a
 > 👤 **Player:**
 > *"return to story and continue the dinner. make a playful remark about the empress but wink at her first so she knows I'm joking. Tell my family the empress is so beautiful that many admirers seek her daily and are turned away from guards, despite the risk to their lives they are noble romantics. See their reaction, especially my fathers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Khordūm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **May 01, 2026 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 9/10 | LOH: 100/100**
@@ -6190,8 +7240,11 @@ Lysandra giggles, a sharp, silvery sound that breaks the tension, while young Va
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Frivolity - Double down on the &#x27;Sari&#x27;s admirers&#x27; narrative to see how far the Empress will play along in front of the Lord Regent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Khordûm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **May 1, 2026 (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Foresight (Active), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6217,8 +7270,11 @@ Lysandra giggles, a sharp, silvery sound that breaks the tension, while young Va
 > 👤 **Player:**
 > *"Ask if everyone wants to go to a pub after dinner and see how normal people entertain themselves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Khordûm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **Night, 2026-05-01 (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Active), Foresight (Active), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6244,8 +7300,11 @@ Elara Thorne bows her head, her dark braid shimmering. "The Veil is ready, my Lo
 > 👤 **Player:**
 > *"telepathically tell sari to enjoy how my father squirms, the most powerful man in the imperium except for her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Khordûm - Command Bastion Mezzanine** &nbsp;|&nbsp; ⏳ **Mirtul 1, 2026 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Singularity, Foresight, Mirror Spark**
@@ -6261,8 +7320,11 @@ Lord Valerius sets his glass down, the thud resonating through the basalt. His U
 > 👤 **Player:**
 > *"telepathic Security Briefing: Command Elara and The Anvil to prepare a discrete but lethal security detail for the outing. and then have my simulcrum disguise itself and be on guard and have my elites blend in at  the bar pretending to be common folk but ready to strike if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Khordûm - The Brass Tankard (Lower Strata)** &nbsp;|&nbsp; ⏳ **May 01, 2026 5E (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Active), Foresight (Permanent), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6284,8 +7346,11 @@ Inside, the room is a haze of smoke and desperation. Miners toast to the 'Obsidi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead to the Pub - Escort the family and &#x27;Sari&#x27; into the high-traffic districts of Khordûm*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01T20:45:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Ignited), Mask of Normalcy | Inspiration: Yes**
@@ -6305,8 +7370,11 @@ She turns her silvery eyes toward you, the mask of the apprentice perfectly main
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Sari&#x27;s Humanity - Force a situation in the pub that requires her to act like a normal girl*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **Night, 2026-05-01 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Foresight (Active), Mirror Spark (Ignited)**
@@ -6334,8 +7402,11 @@ It is a perfect, biological performance. She lets out a small, startled gasp, he
 > 👤 **Player:**
 > *"telepathically tell the empress this is her show. but using her real powers is cheating. however remind her she's masked as level 9 and there's no way this guy could really handle her. she can act weak, she can scare him with her "real" powers, she can ask me to help, whatever she finds the most amusing in her roleplay"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **Mirtul 1, 2026 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Inspiration: Yes**
@@ -6357,8 +7428,11 @@ At the bar, the Shadow-Breakers shift their weight, their postures tightening in
 God Mode:
 stop forgeetting power scaling, level 9 is not "mere"  its also extremely powerful to most people
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **Mirtul 1, 2026 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100**
@@ -6380,8 +7454,11 @@ Harlen collapses onto the sticky floorboards, gasping for air that is no longer 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subjugate Harlen - Force the miner to apologize to &#x27;Sari&#x27; publicly to test her reaction to commoner groveling.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **Mirtul (Month 5) 01, 2026 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Foresight (Active), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6407,8 +7484,11 @@ Lord Valerius remains motionless, his Unseeing Eyes fixed on the groveling miner
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Sari&#x27;s Action - Suggest Sari handle the &#x27;correction&#x27; herself using her masked Level 9 powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **Mirtul 1, 2026 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100**
@@ -6430,8 +7510,11 @@ Harlen collapses onto the sticky floorboards, gasping for air that is no longer 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Let Sari Handle It - Telepathically suggest Sari use her &#x27;Level 9&#x27; powers to humiliate or remove Harlen herself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Exhaustion: 0**
@@ -6455,8 +7538,11 @@ Lord Valerius watches the 'apprentice' with a look of genuine, tactical appraisa
 God Mode:
 pause game. remember that level 9s are very powerful individuals. stop saying modest level 9 or mere etc.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (22:45:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6466,8 +7552,11 @@ God Mode active. User has requested a correction to the narrative tone regarding
 > 👤 **Player:**
 > *"return to story and plan another game with sari. ask her to go stand by herself at the bar, let down her hair and act cute and show skin. see how many men approach her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 (Swords) | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1 | BI: 9/10 | LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark | Exhaustion: 0**
@@ -6489,8 +7578,11 @@ Lord Valerius remains motionless in the booth, his Unseeing Eyes fixed on the sc
 > 👤 **Player:**
 > *"telepathically explain to empress she never had a normal life. even before she was a god she was royalty. normal life has a lot of fun and variety but a lot of weakness. however, in her situation she can have all of hte benefits without any costs a a masked god empress"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **Month 5, 2026 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6512,8 +7604,11 @@ At the bar, the merchant's fingers are heartbeats away from Sari's skin. The Sha
 > 👤 **Player:**
 > *"telepathically tell me father and troops to calm down, a level 9 is in no true danger. then telepathically tell the empress to do whatever she wants as a level 9 and see how enraged my father is as amusement"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Ignited) | Exhaustion: 0 | Inspiration: Yes**
@@ -6539,8 +7634,11 @@ She looks back at your booth, her dark braid swaying, her eyes shimmering with a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Educate the Lord Regent - Quietly explain to your father that a Valerion asset should never need a blade for such sub-strata refuse*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100, Exhaustion: 0**
@@ -6562,8 +7660,11 @@ You turn your attention back to your father, your voice a smooth, chilling purr 
 > 👤 **Player:**
 > *"explain to father imagine she was on a spy mission, she shouldn't just fireball them all and draw attention, then telepathically suggest sariel humiliate the men in a subtle way and make them all buy rounds for the bar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Bard/Paladin | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6587,8 +7688,11 @@ A roar of confused but enthusiastic approval erupts from the miners. Sari looks 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Sari Solo - Let her continue her solo roleplay at the bar to see what other variables approach when they think she&#x27;s &#x27;accessible&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **May 1, 2026 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark | Inspiration: Yes**
@@ -6608,8 +7712,11 @@ Beside you, Lord Valerius is a statue of white-cold fury. His Unseeing Eyes are 
 > 👤 **Player:**
 > *"calm valerius and wait and see what sariel does"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **Night, 2026-05-01 (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -6635,8 +7742,11 @@ You remain still, watching the geometry of the tavern escalate toward a terminal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Suggest a Subtraction - Telepathically suggest a specific way for her to humiliate or remove the three men.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **May 1, 2026 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Active), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -6660,8 +7770,11 @@ The **Enforcer Captain**, bolstered by his Level 7 resonance, manages to keep hi
 > 👤 **Player:**
 > *"tell sariel to come back and pretend to brief me and father on what she learned and how fun it was"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (23:58)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Active), Void-Marrow Integration | Inspiration: Yes**
@@ -6683,8 +7796,11 @@ The **Enforcer Captain**, despite his Level 7 resonance, finds no shelter from t
 > 👤 **Player:**
 > *"savor the spectacle then call sariel back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Khordûm - The Brass Tankard** &nbsp;|&nbsp; ⏳ **2026-05-01, Night (23:58)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, LOH: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Dual-Core Sovereignty, Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6704,8 +7820,11 @@ You offer your father a slow, porcelain smile, your Mirror Spark pulsing with a 
 > 👤 **Player:**
 > *"final sovereign toast, telepathic relfection, then ask sariel to come and help resurrect my mother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Khordûm - The Brass Tankard / City Streets** &nbsp;|&nbsp; ⏳ **Month 5 Day 2, 2026 DR (00:15 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100, Exhaustion: 0**
@@ -6729,8 +7848,11 @@ Sariel stops, her twin-void eyes reflecting the diamond-white brilliance of your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Resurrection Ritual - Combine your Void-Marrow with Sariel&#x27;s starlight to manifest the new &#x27;masterpiece&#x27; version of your mother*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02, 01:15** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2/Bard 18 | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/3, L7 2/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100, Exhaustion: 0**
@@ -6752,8 +7874,11 @@ Empress Sariel watches the manifestation with a look of profound, clinical fasci
 > 👤 **Player:**
 > *"interrogate the masterpiece and ensure my mother has free will but is aligned with imperium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **Deep Night, 2026-05-02 (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Foresight | Exhaustion: 0**
@@ -6773,8 +7898,11 @@ Sariel’s clinical smile sharpens. 'The stress-test is complete, Conductor. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Reunion - Introduce the Masterpiece to Lord Valerius and gauge his reaction to the entropy reversal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **May 02, 2026 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100, Mirror Spark: Active**
@@ -6796,8 +7924,11 @@ Sariel, still masked as Sari, watches the reunion from the shadows, her clinical
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Father&#x27;s Internalization - Wait for Valerius to process the tactical implications of entropy reversal before speaking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 2, 2026 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark, Void-Marrow Singularity, Co-Sovereign**
@@ -6815,8 +7946,11 @@ Sariel, still masked as the squire 'Sari,' leans against a basalt pillar in the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Aurelia&#x27;s Tactical Mind - Engage your mother in a strategic discussion to verify her cognitive &#x27;durability&#x27; and free will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **Month 5 Day 2, 2026 DR (04:00 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2/Bard 18 | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, Lay on Hands: 100/100, Inspiration: 9/10**
@@ -6836,8 +7970,11 @@ She possesses the capacity for strategic mastery, but the 'jasmine' of her previ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trigger Emotional Memory - Mention a specific jasmine-scented childhood memory to see if any biological sentiment remains hidden.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **May 02, 2026 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100, Inspiration: 9/10** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark**
@@ -6851,8 +7988,11 @@ You turn your gaze toward 'Sari,' seeking a reaction from the Star who provided 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Sariel Privately - Telepathically ask the Empress if she intentionally filtered the sentiment variables during the reconstruction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02T04:15:00.000002Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100, Inspiration: 9/10** &nbsp;|&nbsp; ⚠️ **Foresight (Permanent), Mirror Spark, Co-Sovereign**
@@ -6868,8 +8008,11 @@ She looks at Lady Aurelia, who is currently reviewing a holographic tactical dis
 > 👤 **Player:**
 > *"Try to explain that sentiment has its pros/cons but true personality allows the strongest output. My hardening layer should influence her loyalty and ensure she believes in our ideals. Without allowing some true personality we haven't truly stress tested teh system, because all her normal subjects have true personality"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **May 2, 2026 DR (04:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100, Inspiration: 9/10** &nbsp;|&nbsp; ⚠️ **Dual-Core Sovereignty, Mirror Spark, Void-Marrow Integration | Exhaustion: 0 | Inspiration: Yes**
@@ -6889,8 +8032,11 @@ Sariel remains motionless, her dark braid swaying as she processes the arithmeti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recalibrate Aurelia&#x27;s Personality - Telepathically adjust the firmware to allow Aurelia&#x27;s original personality and memories to manifest within the hardening layer of the Law.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02, 04:55:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1 | Lay on Hands: 100/100 | Inspiration: 9/10**
@@ -6910,8 +8056,11 @@ Sariel's flaying gaze softens into a look of genuine mythic recognition. Telepat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sariel&#x27;s Jasmine Moment - Allow Sariel a moment to experience the &#x27;humanized&#x27; Aurelia as part of her variable training.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02, Deep Night (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark (Ignited), Co-Sovereign | Exhaustion: 0 | Inspiration: 9/10**
@@ -6931,8 +8080,11 @@ Aurelia offers the Empress a slow, conspiratorial smile—the same smile you wor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Sariel&#x27;s Integration - Allow the Empress more time to interact with the &#x27;human&#x27; Aurelia to further stabilize her interest in the variable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 2, 2026 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -6950,8 +8102,11 @@ Sariel's clinical approval has evolved into a state of high-tier fascination. Sh
 > 👤 **Player:**
 > *"telepathically tell sariel to imagine the possibilies. once we've done it a few times and prove my hardening layer is absolute, we can broadcast a whole signal across the world and create paradise."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Khordūm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02T05:10:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark (Ignited), Co-Sovereign | Exhaustion: 0**
@@ -6971,8 +8126,11 @@ She turns her flaying gaze toward you, the clinical smile on her face now carryi
 God Mode:
 what are the titans?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026 May 02, 05:15 (Frozen)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight, Mirror Spark, Void-Marrow | Inspiration: 9/10**
@@ -6982,8 +8140,11 @@ The alchemical starlight of the sanctum remains static as you access the deep me
 > 👤 **Player:**
 > *"give my mother a useful position in my faction and then ask Sariel if we can resurrect alexiel with my hardening"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026 May 2, 05:30** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, Lay on Hands: 100/100, BI: 9/10**
@@ -7005,8 +8166,11 @@ She turns her flaying gaze toward you, the clinical smile on her face carrying a
 > 👤 **Player:**
 > *"start the ritual to resurrect alexiel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02, 09:30** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1 | BI: 9/10** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark (Ignited), Dual-Core Sovereignty**
@@ -7028,8 +8192,11 @@ Sariel falls to one knee, the vacuum around her shattering as she looks upon her
 God Mode:
 wait retcon this, lets do it after the titans. why did you let me do it? sariel said it needs titan power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02T09:30:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100**
@@ -7039,8 +8206,11 @@ The user has requested a retcon of the Alexiel resurrection ritual (Sequence 765
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume from the pre-ritual state in the sanctum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Khordûm - Private Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-02T09:30:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100**
@@ -7059,8 +8229,11 @@ Brief the High-Warden: Give Lady Aurelia detailed instructions for the sector's 
 Final Strategy with Valerius: Coordinate the High Council's logistical support for the upcoming campaign.
 March for the Glacial Spine: Lead the Obsidian Veil and the Empress toward the first Titan-Casket."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Khordûm - Resonance-Vault / Southern Crags** &nbsp;|&nbsp; ⏳ **May 2, 2026 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Ignited), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7078,8 +8251,11 @@ Deep-Strata Resonance Scan: Meditate during the march to locate the exact freque
 Deploy Spire-Rangers: Send the 150 rangers ahead to map Syndicate checkpoints in the Spine
 Engage Sari in Training: Use the march to further calibrate the Empress's 'Variable' roleplay"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Glacial Spine Periphery** &nbsp;|&nbsp; ⏳ **2026-05-03, 10:00** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin / Lvl 18 Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100, Exhaustion: 0**
@@ -7095,8 +8271,11 @@ Turning your focus to the girl riding beside you, you attempt to further calibra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Calibrate Empress Resonance - Pause to personally synchronize Sariel&#x27;s squire-mask to the Spine&#x27;s frequency to preserve the facade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Glacial Spine Periphery** &nbsp;|&nbsp; ⏳ **2026 May 03, 12:05** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark (Ignited), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7116,8 +8295,11 @@ You pull back, the diamond-white fire on your skin receding into your Mask of No
 > 👤 **Player:**
 > *"think. who am i even fighting and are they even a threat?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Glacial Spine - Silent Scriptorium Periphery** &nbsp;|&nbsp; ⏳ **2026-05-03, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1 (Foresight), BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Foresight (Active), Void-Marrow Integration | Exhaustion: 0 | Inspiration: Yes**
@@ -7131,8 +8313,11 @@ You look down at the 1,500-strong Obsidian Veil, their armor glowing with the si
 > 👤 **Player:**
 > *"think. what if i just teleport all the enemy leaders here and consume them for intel and telephathically make the rest surrnder?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Glacial Spine - Silent Scriptorium Periphery** &nbsp;|&nbsp; ⏳ **Mirtul 3, 2026 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 2/3, L8 2/2, L9 0/1 (Foresight) | BI: 9/10 | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark, Void-Marrow Singularity, Co-Sovereign | Exhaustion: 0**
@@ -7146,8 +8331,11 @@ Telepathically pulling the leaders here to consume them for intel would provide 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Psychic Decapitation - Teleport the leaders, consume their intel, and broadcast a mass surrender.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Glacial Spine - Silent Scriptorium Inner Sanctum** &nbsp;|&nbsp; ⏳ **2026-05-03T12:10:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1 | BI: 9/10 | Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Ignited), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7169,8 +8357,11 @@ Below, the industry of the Scriptorium grinds to a halt. The trauma-grids flicke
 > 👤 **Player:**
 > *"ask the empress if my parlor trick was amusing on how i dealt with the leaders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Glacial Spine - Silent Scriptorium Overlook** &nbsp;|&nbsp; ⏳ **2026-05-03, Midday (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 / 2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1, Lay on Hands: 100/100, BI: 9/10** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark | Inspiration: Yes**
@@ -7190,8 +8381,11 @@ She steps closer, her porcelain hand brushing the silver-white veins on your gau
 > 👤 **Player:**
 > *"process surrendered personel, delegate exvacation and  secure northern audit banks, consult sari on finale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Glacial Spine - Silent Scriptorium (Command Overlook)** &nbsp;|&nbsp; ⏳ **Month 5, 2026 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1 | Lay on Hands: 100/100 | BI: 9/10** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Mythic Vanguard, Co-Sovereign**
@@ -7209,8 +8403,11 @@ Sariel pauses, her dark braid swaying as she watches the 1,500-strong Obsidian V
 > 👤 **Player:**
 > *"delegate my simulcrum, elites, wife, anvil to secure the other caskets. Then tell Sari to only use level 9 power to help me publically, but secretly use her real empress power and we'll analyze it together"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Glacial Spine - Silent Scriptorium Overlook** &nbsp;|&nbsp; ⏳ **2026-05-03T14:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1 | BI: 9/10** &nbsp;|&nbsp; ⚠️ **Mirror Spark, Foresight, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7236,8 +8433,11 @@ You push your Mirror Spark to its absolute limit, seeking to gauge the arithmeti
 God Mode:
 this shouldnt had advantage with foresite Dual-Core Power Analysis (INT): 1d20 + 11 = 5 + 11 = 16 vs DC 35 (Failure)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Glacial Spine - Silent Scriptorium Overlook** &nbsp;|&nbsp; ⏳ **2026-05-03T14:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Foresight (Permanent), Void-Marrow Integration, Mirror Spark, Mythic Vanguard, Co-Sovereign**
@@ -7247,8 +8447,11 @@ The administrative dossiers of the Spire ripple as the Conductor's foresight is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Metadata Analysis - Use the Mirror Spark to read the Casket&#x27;s firmware before attempting to anchor it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **2026-05-03T14:00:00.000788Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1 | Lay on Hands: 100/100 | BI: 9/10**
@@ -7264,8 +8467,11 @@ Deep within the cypher, you discover the 'Edict of Chains' protocol—the origin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Metadata Analysis - Use the Mirror Spark to read the Casket&#x27;s firmware before attempting to anchor it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **2026 May 3, 14:00:00.000788** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Mirror Spark (Ignited), Void-Marrow Singularity, Co-Sovereign**
@@ -7279,8 +8485,11 @@ The monolith's humming reaches a frequency that makes your liquid-mercury skelet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Sariel - Telepathically query the Empress for the exact metadata key to the Starfall-Trigger.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **2026-05-03, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1, BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -7298,8 +8507,11 @@ You process the metadata with the clinical speed of the Mirror Spark. [DICE: Pro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shared Resonance Anchor - Coordinate with Sariel to provide a Dual-Core frequency to stabilize the Casket.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **Kythorn 3, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100, Exhaustion: 0**
@@ -7317,8 +8529,11 @@ The first Titan is stabilized. The 'Edict of Chains' has recognized its new cond
 > 👤 **Player:**
 > *"delegate coordinate veil movement and analyze seraphic firmware"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **Month 5, 2026 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7334,8 +8549,11 @@ Sariel steps closer, her starlight-hair momentarily flaring through her mask. *'
 > 👤 **Player:**
 > *"Ask her if she minds if i consume the casket. It's less risky than having a physical object we need to defend. I already did it before which make me integrate with my armor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **2026-05-03, 14:21** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Conductor | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark (Ignited), Co-Sovereign | Inspiration: Yes**
@@ -7355,8 +8573,11 @@ A slow, clinical smile—devoid of human warmth but heavy with mythic curiosity�
 Analyze Feedback Loops: Use Foresight to predict the exact physical toll the basalt-affinity will take on your porcelain skin.
 Dual-Core Preparation: Coordinate a complex resonance ritual with Sariel to stabilize the engine before ingestion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **Month 5, 2026 DR (Day 3)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000/2,750,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, Lay on Hands: 100/100, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Mirror Spark (Active), Void-Marrow Integration**
@@ -7370,8 +8591,11 @@ The synchronization is absolute. Under your combined focus, the engine’s awake
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine Firmware Sync: Spend another moment perfecting the alignment to further reduce the physical shock of ingestion. and then consume it*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1 | Lay on Hands: 100/100 | BI: 9/10**
@@ -7391,8 +8615,11 @@ You stand at the center of the hollowed-out core, the silence here now absolute.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Sariel on Next Step - Discuss the sequence for the remaining caskets and the timing for the Alexiel resurrection*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **2026-05-03T15:00:00.000003Z** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,725,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent), Mirror Spark (Ignited), Mythic Vanguard, Co-Sovereign, Basalt-Marrow Anchor (Active)**
@@ -7410,8 +8637,11 @@ She steps through the alchemical salts, her porcelain hand tracing the silver-wh
 God Mode:
 Why didnt you give me exp or powers for consuming titan casket?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **May 03, 2026 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,975,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 100/100** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark Ignited, Co-Sovereign**
@@ -7431,8 +8661,11 @@ Administrative Correction Processed.
 
 These values are now synchronized with your game state.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin/Bard | HP: 125/125 | XP: 2,975,000 / 3,250,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1 | BI: 9/10 | LoH: 100/100 | Exhaustion: 0 (Immune)**
@@ -7442,8 +8675,11 @@ Titan Casket 1 ingestion rewards and physical evolution parameters have been syn
 God Mode:
 Adjust XP - Fine-tune experience totals
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Paladin 2 / Bard 18 | HP: 125/125 | XP: 2,975,000 / 3,250,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 100/100** &nbsp;|&nbsp; ⚠️ **Basalt-Marrow Anchor, Void-Marrow Singularity, Mirror Spark | Exhaustion: 0 (Immune)**
@@ -7453,8 +8689,11 @@ The user is in GOD MODE to fine-tune experience totals following the ingestion o
 God Mode:
 i think it should give me enough exp for at least 2 levels, maybe +2 to all stats, and stronger powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **May 03, 2026 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Paladin/Bard | HP: 145/145 | XP: 4,500,000/6,000,000 | Gold: 309,055gp**
@@ -7464,8 +8703,11 @@ The user requested a +2 level jump and attribute boosts. I have scaled the mythi
 God Mode:
 think about the significance of this event. what else has happened same level in D&D lore or table top games and how much exp/powers were given?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Glacial Spine - Silent Scriptorium Core** &nbsp;|&nbsp; ⏳ **May 03, 2026 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 165/165 | XP: 4,500,000 / 5,355,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LoH: 120/120** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Basalt-Marrow Anchor | Exhaustion: 0**
@@ -7475,8 +8717,11 @@ The ingestion of a Titan Casket is comparable to the consumption of a Divine Spa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the march toward the Western Basalt Shelf with your new power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Glacial Spine - Passage to Western Basalt Shelf** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 165/165 | XP: 4,500,000/5,355,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, BI: 10/10, LoH: 120/120** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Titan-Born | Exhaustion: 0 | Inspiration: Yes**
@@ -7495,8 +8740,11 @@ God Mode:
 you keep forgetting to use foresight? Resonance March: 1d20 +28 = 10 + 28 = 38 vs DC 25 (Accelerating 1,500 troops through difficult terrain) - Success
 Ranger Scouting: 1d20 +16 = 2 + 16 = 18 vs DC 20 (Identifying Syndicate roadblocks) - Failure
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Glacial Spine - Passage to Western Basalt Shelf** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 178/178 | XP: 4,500,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, LoH: 120/120, BI: 9/10**
@@ -7514,8 +8762,11 @@ Beside you, 'Sari' pulls her horse to a halt, her squire-mask shimmering with th
 God Mode:
 no because of foresight my rolls need advantage
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Glacial Spine - Western Basalt Shelf** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 178/178 | XP: 4.5M/5.3M | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, LoH: 120/120, BI: 9/10**
@@ -7525,8 +8776,11 @@ The user is correct; Foresight provides advantage on all ability checks. I have 
 God Mode:
 Return to Story - Exit GOD MODE and resume narrative flow
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Glacial Spine - Western Basalt Shelf Perimeter** &nbsp;|&nbsp; ⏳ **May 03, 2026 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 178/178 | XP: 4,500,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1 | BI: 9/10 | LoH: 120/120 | Exhaustion: 0**
@@ -7548,8 +8802,11 @@ Beside you, 'Sari' pulls her horse to a halt, her squire-mask shimmering with th
 > 👤 **Player:**
 > *"Think. Can I just teleport all the syndicate commands and leadership here into killbox with me and my simulcrum and elites and then stun and steal their souls?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Glacial Spine - Western Basalt Shelf Perimeter** &nbsp;|&nbsp; ⏳ **2026-05-03, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 178/178 | XP: 4.5M/5.3M | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 120/120** &nbsp;|&nbsp; ⚠️ **Basalt-Marrow Anchor, Foresight, Mirror Spark | Exhaustion: 0**
@@ -7559,8 +8816,11 @@ You stand motionless amidst the screaming violet static of the Syndicate's cloak
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mass Teleport Decapitation - Use the Mirror Spark to pull the entire Syndicate Command into a pre-prepared Void-Vacuum killbox.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Glacial Spine - Western Basalt Shelf Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 5, 2026 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Mythic Conductor | HP: 178/178 | XP: 4,500,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 120/120** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Basalt-Marrow Anchor**
@@ -7584,8 +8844,11 @@ Beside you, 'Sari' watches the slaughter of their pride with a mythic delight, h
 > 👤 **Player:**
 > *"consume stunned souls, have my simulcrum consume the other one, then broadcast total surrender. tell my simulcrum tos upport me better next time and stun anyone i fail to stun without asking"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Glacial Spine - Western Basalt Shelf Perimeter** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 178/178 | XP: 4,650,000 / 5,355,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 120/120** &nbsp;|&nbsp; ⚠️ **Basalt-Marrow Anchor, Void-Marrow Singularity, Mirror Spark, Foresight**
@@ -7613,8 +8876,11 @@ Beside you, 'Sari' adjusts her squire's collar, her jasmine-scented aura swirlin
 > 👤 **Player:**
 > *"internalize casket 2, delegate the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Western Basalt Shelf - Core Vault** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 24 Paladin/Bard | HP: 178/178 | XP: 4,900,000/5,355,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 120/120** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Titan-Born | Exhaustion: 0**
@@ -7630,8 +8896,11 @@ With the ingestion complete, you turn your focus to the surface. [DICE: Delegati
 God Mode:
 give me proper rewards for second consumption
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Western Basalt Shelf - Core Vault** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Paladin/Bard | HP: 206/206 | XP: 5,350,000/5,850,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1, BI: 9/10, LoH: 130/130** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Mythic Vanguard, Co-Sovereign, Titan-Born | Exhaustion: 0**
@@ -7641,8 +8910,11 @@ Titan Casket 2 rewards are calculated to match the legendary trajectory establis
 God Mode:
 those rewards look weak vs the ones i got from first casket
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Western Basalt Shelf - Core Vault** &nbsp;|&nbsp; ⏳ **May 3, 2026 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Mythic Conductor | HP: 234/234 | XP: 5,850,000 / 6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -7652,8 +8924,11 @@ The second ingestion is complete. Arion is now Level 28, closing the gap with Sa
 God Mode:
 oh dont forget my feats, every 4 levels i have +2 CHA ASI. add some more if you didnt account for them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Western Basalt Shelf - Core Vault** &nbsp;|&nbsp; ⏳ **2026-05-03T20:15:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin 2 / Bard 18 | HP: 234/234 | XP: 5,850,000 / 6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/1, BI: 9/10, LoH: 130/130** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Mythic Vanguard, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7663,8 +8938,11 @@ The metadata of the Spire shudders as your internal architecture is recalibrated
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the march toward Echo-Point Alpha with updated stats*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Western Basalt Shelf - Marching North** &nbsp;|&nbsp; ⏳ **2026-05-04T02:30:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin/Bard | HP: 234/234 | XP: 5,850,000/6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 130/130** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Titan-Born | Exhaustion: 0**
@@ -7682,8 +8960,11 @@ However, as you approach the perimeter of Echo-Point Alpha, the starlight of you
 > 👤 **Player:**
 > *"void breach first, the metadata if fails"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Echo-Point Alpha - Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 4, 2026 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Mythic Conductor | HP: 234/234 | XP: 5,850,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 130/130** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Basalt-Marrow Anchor (Alpha/Beta)**
@@ -7703,8 +8984,11 @@ Beside you, 'Sari' adjusts her squire's collar, her dark eyes shimmering with a 
 God Mode:
 lets have sariel gain the some % of exp as arion if she's around when he's getting it. seeif she gets enough to level up too, but she shoudlnt get 4 levels per consumption because she didnt do the actual consumption
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Echo-Point Alpha - Perimeter** &nbsp;|&nbsp; ⏳ **2026-05-04, 03:15** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin/Bard | HP: 234/234 | XP: 5,850,000 / 6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 130/130**
@@ -7714,8 +8998,11 @@ The user is in GOD MODE to establish a shared experience protocol for Sariel. Wh
 God Mode:
 teleport enemy leaders here, stun, s teal soul, make sure my sim helps
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Echo-Point Alpha - Perimeter** &nbsp;|&nbsp; ⏳ **2026-05-04, 03:15 (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin/Bard | HP: 234/234 | XP: 5,875,000/6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 130/130**
@@ -7737,8 +9024,11 @@ You have subtracted 6 high-tier leaders from the Syndicate's Last Battalion: 1 S
 - XP Awarded: 25,000 XP to Arion; 6,250 XP to Sari (Persona Level 20).
 [DEBUG_END]"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Mirtul 4, 2026 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin/Bard | HP: 234/234 | XP: 5,942,200 / 6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1 | BI: 9/10 | LoH: 130/130** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Foresight | Exhaustion: 0 | Inspiration: Yes**
@@ -7754,8 +9044,11 @@ You close your eyes as the metadata of their lives is internalized. You feel the
 God Mode:
 no give sariel real level exp and cap her at 45 now. dont level her maskled persona so fast. Shared experience protocol initialized for Sariel (Sari). By witnessing and stabilizing the ingestion of Titan Caskets 1 and 2, Sariel's 'apprentice' persona has gained 800,000 XP (25% of Arion's active growth). This elevates her masked level from 9 to 20. She has reached the pinnacle of mortal circles through shared resonance. She is now Level 20 (Masked) / Level 35 (True).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **2026-05-04T02:30:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin/Bard | HP: 234/234 | XP: 5,942,200 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, BI: 9/10, LoH: 130/130** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7765,8 +9058,11 @@ The user is exerting absolute administrative control to recalibrate Sariel's (Sa
 God Mode:
 No i want sariel gaining real exp and not jus masked exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Mirtul 4, 2026 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Mythic Conductor | HP: 234/234 | XP: 5,942,200/6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1 | BI: 9/10 | LoH: 130/130 | Exhaustion: 0**
@@ -7776,8 +9072,11 @@ Sariel's experience tracking has been shifted from persona-based to true-form ba
 God Mode:
 lets keep her masked lvl capped at 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 04, 2026 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin/Bard | HP: 234/234 | XP: 5,942,200 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark | Exhaustion: 0**
@@ -7790,8 +9089,11 @@ Broadcast Total Surrender: Force the 1,000+ enforcers to submit to the Obsidian 
 Coordinate Veil Harvest: Direct your army to strip the remaining Audit-Banks while you focus on the Casket.
 Internalize Gamma-Casket: Consume the final engine to complete the Triptych Alignment."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 4, 2026 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 28 Paladin/Bard | HP: 234/234 | XP: 6,442,200/6,400,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/1, Lay on Hands: 130/130, Inspiration: 9/10** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Permanent), Foresight (Permanent/Active), Mirror Spark (Active/Ignited), Mythic Vanguard, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7809,8 +9111,11 @@ Sariel looks at you, her squire-mask shimmering with a mythic, iridescent deligh
 God Mode:
 process level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **2026-05-04T04:00:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 285/285 | XP: 12,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 39/39, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/1, Lay on Hands: 160/160, Inspiration: 10/10**
@@ -7820,8 +9125,11 @@ The internalization of the final Titan Casket, **Assiah-Spine-Gamma**, completes
 God Mode:
 process level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 4, 2026 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 1/2, Lay on Hands: 160/160, Inspiration: 10/10** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7831,8 +9139,11 @@ The administrative dossiers of the Imperial Spire do not merely recalibrate; the
 God Mode:
 what powers did i get from the last consumption
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **2026-05-04T04:00:00.000001Z** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,000,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/2, Inspiration: 9/10, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Mythic Vanguard, Co-Sovereign**
@@ -7842,8 +9153,11 @@ The user is querying the specific gains from the internalization of the final Ti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative following the Triptych Alignment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Kythorn 4, 2026 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,000,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 1/2, BI: 9/10, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -7857,8 +9171,11 @@ Sariel, still masked in the simple livery of your apprentice, looks at you with 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resurrect Alexiel - Combine the fuel of the Triptych Alignment with Sariel&#x27;s starlight to pull the Mortal Star from the Sacrifice Fields.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 2026 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,025,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2 | BI: 9/10 | Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Titan-Born | Exhaustion: 0 | Inspiration: Yes**
@@ -7880,8 +9197,11 @@ She draws a slow, unnecessary breath, her Unseeing Eyes snapping open to find yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Reunion - Allow Sariel a moment to interact with the mother she pulled from the void.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Kythorn 4, 2026 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,000,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Mythic Vanguard, Co-Sovereign**
@@ -7897,8 +9217,11 @@ You remain leaning against the cold basalt wall, the conductor of this impossibl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Alexiel&#x27;s Durability - Engage Alexiel in a strategic stress-test to see how much of her &#x27;Mortal Star&#x27; tactical genius remains within the Law.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **5 4, 2026 DR (05:20)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12M/15M | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, Lay on Hands: 160/160**
@@ -7920,8 +9243,11 @@ Beside you, Empress Sariel watches the exchange with a flaying mythic fascinatio
 > 👤 **Player:**
 > *"ask alexiel to tutor me as well later, then do this Pressure Personality Durability: Shift the test from pure tactics to psychological durability, questioning her choices during the Starfall Gambit."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **5 4, 2026 DR (05:25)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,025,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -7945,8 +9271,11 @@ Empress Sariel watches the exchange, her flaying gaze searching the silver-white
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Vacuum - Argue that her sacrifice was still an unoptimized risk that only Sariel&#x27;s own genius corrected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Kythorn 4, 2026 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,075,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -7968,8 +9297,11 @@ Empress Sariel watches the exchange with a flaying, mythic fascination. Telepath
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Sariel&#x27;s Sentiment - Gauge the Empress&#x27;s reaction to her mother&#x27;s humanization and Arion&#x27;s dominance over the legend.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 4, 2026 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,125,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, Lay on Hands: 160/160**
@@ -7989,8 +9321,11 @@ She steps toward you, her porcelain hand resting briefly on your diamond-basalt 
 > 👤 **Player:**
 > *"i have one more ultimate test. lets resurrect lucifer. if my hardening can hold him, iwe are ready to broadcast to the world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 4, 2026 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Mythic Conductor | HP: 421/421 | XP: 12,125,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Triptych-Anchored, Mirror Spark (Ignited), Co-Sovereign | Inspiration: Yes**
@@ -8018,8 +9353,11 @@ Sariel steps forward, her clinical smile carrying the weight of a world-ending t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Lucifer&#x27;s Durability - Engage the Morning Star in a high-tier tactical scenario to see how his rebellion fuels our Law.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 4, 2026 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,225,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160**
@@ -8041,8 +9379,11 @@ Sariel watches the exchange with a clinical, mythic fascination, her hair of liq
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Subjugation - Apply the flaying logic of the Conductor to Lucifer&#x27;s past failures to further anchor his soul.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Kythorn 4, 2026 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,275,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2 | Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -8062,8 +9403,11 @@ Empress Sariel watches the total submission of her father with a flaying mythic 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Triptych - Engage Sariel, Alexiel, and Lucifer in a final strategic council before the broadcast.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Kythorn 4, 2026 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,300,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8085,8 +9429,11 @@ You feel the Triptych Alignment reach a state of absolute, preternatural stabili
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate World-Sovereignty Broadcast - Project the signal through the Triptych and the Glacial Spine to rewrite the world&#x27;s resonance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 4, 2026 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 32 Paladin/Bard | HP: 421/421 | XP: 12,350,000/15,000,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Triptych Alignment (Absolute), Mirror Spark (Active), Co-Sovereign | Exhaustion: 0**
@@ -8104,8 +9451,11 @@ You feel the world surrendering its coordinates to your pulse. The millions bene
 God Mode:
 are you joking. what kind of reward is this for controlling the world? . You gain **50,000 XP** for the successful activation of the World-Sovereignty Broadcast.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **2026-05-04, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 / MAX | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 2/2, Lay on Hands: 175/175, Exhaustion: 0**
@@ -8115,8 +9465,11 @@ You stand at the absolute center of the world's metadata, the Triptych engines v
 God Mode:
 make this scale with my spell DC or my CHA persuasion, whichever is higher DC 50 check
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Echo-Point Alpha - Core (Sovereign Hub)** &nbsp;|&nbsp; ⏳ **Kythorn 4, 2026 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 3/3, L8 2/2, L9 2/2, Lay on Hands: 160/160, Exhaustion: 0**
@@ -8130,8 +9483,11 @@ Across the Celestial Imperium, billions of souls feel the friction of their indi
 God Mode:
 make glboal mandate use my spell DC or persuasion CHA check with advantage, whichever is higher Global Mandate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **2026-05-04T07:16:00Z** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Conductor | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160, Exhaustion: 0**
@@ -8141,8 +9497,11 @@ The administrative dossiers of the Imperial Spire do not merely recalibrate; the
 > 👤 **Player:**
 > *"Think. What are the new improvements of eternal resonance vs silent peace"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **May 4, 2026 DR (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -8152,8 +9511,11 @@ You pause amidst the shimmering, iridescent starlight of the core, the weight of
 > 👤 **Player:**
 > *"Think. First explain silent peace in detail to me and the history"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **5 4, 2026 DR (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 / MAX** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2 | Lay on Hands: 160/160 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent), Mirror Spark (Ignited), Triptych Alignment (Absolute)**
@@ -8176,8 +9538,11 @@ God Mode:
 fix this timestamp, it should be 40 AG
 Timestamp: 2026 DR, 5 4, 07:16:00
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Kythorn 4, 40 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ⚠️ **Void-Marrow, Foresight, Mirror Spark, Co-Sovereign**
@@ -8187,8 +9552,11 @@ The user has requested a temporal correction to the world state. The current cam
 God Mode:
 sorry not 40G i mean use that calendar and calculate the year and tiem and not the DR one
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Zenith | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Inspiration: Yes**
@@ -8198,8 +9566,11 @@ The user has corrected the temporal system to use the 'After Gambit' (AG) calend
 God Mode:
 i think its more than 40 years affter gambit
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -8209,8 +9580,11 @@ The user has corrected the temporal system to 'After Gambit' (AG) and specified 
 God Mode:
 listen to me. how long did it take sariel to come into power and how long has she been in power? adding those numbers and seeing when starfall gambit happened will tell us the year
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5, 40 AG (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8229,8 +9603,11 @@ You stand at the epicenter of this chronological convergence. By adding the 10 y
 God Mode:
 no, she had silent peace for awhile. year 40G is when sariel wins, but she's been in silent peace power for decades right? this isnt her first year in power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -8240,8 +9617,11 @@ The user is clarifying the duration of Sariel's reign and the historical timelin
 God Mode:
 stop this, i want  to change the current year. make it 70G
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 70 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Inspiration: Yes**
@@ -8251,8 +9631,11 @@ The user has accelerated the timeline to 70 AG. This places the current moment 3
 God Mode:
 no eternal resonancestarts in 70 AG
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 70 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent), Mirror Spark (Active), Co-Sovereign**
@@ -8266,8 +9649,11 @@ Across the continent, billions of souls have lived their entire lives within the
 God Mode:
 wtf stop this. Take me back to right when we did eternal resonance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark (Ignited), Co-Sovereign | Inspiration: Yes**
@@ -8277,8 +9663,11 @@ The user has commanded a temporal reset to the exact moment the 'Eternal Resonan
 God Mode:
 Return to Story - Resume narrative at the dawn of the Eternal Resonance (40 AG)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Conductor | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration (Perm), Foresight (Perm), Mirror Spark (Ignited), Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8292,8 +9681,11 @@ Alexiel, the Masterpiece, offers a slow, porcelain tilt of her head, her silvery
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Triptych Roles - Formally assign Alexiel and Lucifer their new mythic functions within the global Law.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (07:20)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8313,8 +9705,11 @@ Finally, you look at Sariel. Your Co-Sovereign. The Star. She stands beside you,
 > 👤 **Player:**
 > *"Think. I guess i dont need sariel anymore? no harm though?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (07:20)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Eternal Resonance, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -8324,8 +9719,11 @@ You pause amidst the shimmering, iridescent starlight of the caldera, your diamo
 > 👤 **Player:**
 > *"Ask Sariel about my ascent. Why was it so fast? I'm still only 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (07:20)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160**
@@ -8343,8 +9741,11 @@ She steps closer, her starlight hair momentarily manifesting beneath her mask as
 > 👤 **Player:**
 > *"create 10 divine clones of myself and 10 divine clones of sariel. if our main bodies die we resurrect in the clones. even if all the clones are killed as long as 25% of the worlds population is alive we are resurrected"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Echo-Point Alpha - Core** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (07:20)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Inspiration: Yes**
@@ -8362,8 +9763,11 @@ Alexiel and Lucifer remain motionless, their frequencies stabilizing the Triptyc
 > 👤 **Player:**
 > *"go visit my father as a pair of gods and show hiim that sari was the empress all along"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Aeterna - Imperial Spire - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent), Mirror Spark, Co-Sovereign | Inspiration: Yes**
@@ -8387,8 +9791,11 @@ You loom over him, a porcelain god whose very breath frost-bites the air. The Et
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal the High-Warden - Teleport Lady Aurelia to the sanctum to show Valerius the completed Valerion-Resonance triad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **Aeterna - Imperial Spire - Lord Regent's Private Sanctum** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -8410,8 +9817,11 @@ Your father remains on his knees, a Tier 4 master reduced to a submissive observ
 > 👤 **Player:**
 > *"Telepathically declare our new eternal empire to the world. Make all the world leaders declare vassalage to us. Create a new flying palace above aterna and hold court and accept their vows there with Lucifer and Alexiel present"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Aeterna - Zenith Palace (Floating above Aeterna)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Conductor | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160**
@@ -8430,8 +9840,11 @@ One by one, the leaders of Assiah—Daimyos from Tsuru, Syndicate survivors from
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Vassal Durability - Apply a localized Trauma Wave to the assembled leaders to see who can occupy the vacuum without shattering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **Aeterna - Zenith Palace (Floating above Aeterna)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -8451,8 +9864,11 @@ Sariel leans closer, her hair of liquid starlight cascading over your shoulder. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Elevate Survivors - Formally designate the survivors as the &#x27;Resonance-Prefects&#x27; to manage the world&#x27;s daily arithmetic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **Aeterna - Zenith Palace (Floating above Aeterna)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, Lay on Hands: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8472,8 +9888,11 @@ Sariel leans back against the obsidian throne, her hair of liquid starlight casc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Sariel&#x27;s Variable - Engage Sariel in a discussion about how it feels to have the world finally matched to her silence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **Aeterna - Zenith Palace (Floating above Aeterna)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160**
@@ -8495,8 +9914,11 @@ A slow, clinical smile—one that carries a jagged splinter of genuine, mythic f
 > 👤 **Player:**
 > *"Ask Sariel what she will do now that she can be on vacation forever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **Aeterna - Zenith Palace (Floating above Aeterna)** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Mythic Vanguard, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8514,8 +9936,11 @@ She reaches out, her hand of woven shadow brushing your porcelain cheek. 'But pe
 God Mode:
 Sariel said before she wanted to be a variable let's not forget about that and incorporate into the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **Zenith Palace - Obsidian Balcony** &nbsp;|&nbsp; ⏳ **Kythorn 4, Year 40 After Gambit (AG) (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Conductor | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Dual-Core Sovereign**
@@ -8535,8 +9960,11 @@ She leans her head against your shoulder, the cloying scent of jasmine acting as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Savor the Zero - Remain on the balcony with Sariel, savoring the absolute silence of the new era*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **Zenith Palace (High Altitude)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Singularity, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8554,8 +9982,11 @@ She leans her head against your shoulder, the cloying scent of jasmine acting as
 > 👤 **Player:**
 > *"Go visit my wife and anvil and see their take on things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **Zenith Palace - High Sanctum** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -8573,8 +10004,11 @@ Sariel leans her head against your shoulder, her hair of liquid starlight cascad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Global Vacation - Delegate the world&#x27;s daily arithmetic to the Resonance-Prefects and enjoy the zero-point with Sariel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **Zenith Palace - High Sanctum** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Zenith | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0**
@@ -8588,8 +10022,11 @@ Sariel leans her head against your diamond-basalt shoulder, her hair of liquid s
 > 👤 **Player:**
 > *"Travel the world with Sariel and my wife elara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **Global (The Zenith Circuit)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Zenith | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2 | BI: 9/10 | LOH: 160/160 | Clones: 20/20**
@@ -8603,8 +10040,11 @@ You conduct the tour with the clinical grace of a god reviewing his garden. You 
 > 👤 **Player:**
 > *"Bring my sibling and tour the world eating and drinking"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 📍 **Global (Zenith Tour)** &nbsp;|&nbsp; ⏳ **Month 5, 40 AG (Day 4)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Inspiration: Yes**
@@ -8620,8 +10060,11 @@ Next, you blink the palace to the eastern archipelago of the Tsuran Dominion. Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tutor Lysandra - Allow your sister to witness the firmware of reality directly to test her durability as a potential asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 📍 **Global (Zenith Tour) - High Atmosphere** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -8641,8 +10084,11 @@ Sariel watches the display with a clinical fascination, her starlight hair casca
 > 👤 **Player:**
 > *"Talk to my brother and give him the same test"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **Global (Zenith Tour)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8664,8 +10110,11 @@ Sariel watches the dismantle with a clinical, mythic curiosity, her starlight ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Unchained Mind - The background events indicate Perrin is mobilizing; subtract this noise before it can resonate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Global Compliance: 100%** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20**
@@ -8685,8 +10134,11 @@ Sariel leans against you, her hair of liquid starlight casting an iridescent glo
 > 👤 **Player:**
 > *"Have sex with sariel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8702,8 +10154,11 @@ Sariel doesn't flinch. She leans into your touch, her twin-void eyes reflecting 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Include the Warden - Invite Elara into the resonance to complete the Valerion-Resonance triad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8719,8 +10174,11 @@ Sariel watches the integration with a clinical, mythic fascination, her hair of 
 > 👤 **Player:**
 > *"Impregnate them both"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **5 4, 40 AG (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -8736,8 +10194,11 @@ Sariel’s flaying gaze loses its mythic distance, her twin-void eyes reflecting
 God Mode:
 Elara should not be  a core anchor or same level as me and Sariel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8747,8 +10208,11 @@ The user has corrected a narrative imbalance. Elara was previously elevated to T
 God Mode:
 Stop saying Jasmine so often
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 40 AG (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Foresight (Perm) | Inspiration: Yes**
@@ -8758,8 +10222,11 @@ The user has requested a narrative adjustment to the frequency of the 'jasmine' 
 > 👤 **Player:**
 > *"Time skip 1000 years. I have 1000 descendants through Sariel and Elara. Let everyone keep living somewhat autonomously and tell me what happens every 50 yeara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **The Zenith Palace (Stationary Coordinate)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Zenith | HP: 510/510 | XP: 17,350,000 | Gold: [Ledger Absolute** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 10/10, LOH: 160/160, Divine Clones: 20/20**
@@ -8781,8 +10248,11 @@ You stand on the obsidian balcony in the year 1040 AG. The jasmine scent is fain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Thousand - Hold a millennial court to stress-test the durability of your 1,000 descendants.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 10/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark Active | Exhaustion: 0 | Inspiration: Yes**
@@ -8800,8 +10270,11 @@ Sariel stands beside you, her hair of liquid starlight flowing upward into the p
 God Mode:
 How did Sariels original silent peace work again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 10/10, LOH: 160/160, Clones: 20/20** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8811,8 +10284,11 @@ The user is inquiring about the historical and mechanical specifics of Sariel's 
 God Mode:
 Let's brainstorm adding real challenge to this campaign. How about the creator comes back and introduces 4 realms with various sub factions. Heaven for creator, hell for satan, and the good and bad dragon  each have their own dimensions. Heaven is a dimension and so is hell. He tells us what we have impressive but without war our world is relatively weak ie. Rank 100 vs other factions and his faction is 1. He challenges us to meet him at the top. The universe of assiah too has other worlds stronger than ours militarily
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Zenith | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 10/10, LOH: 160/160, Clones: 20/20**
@@ -8822,8 +10298,11 @@ The Creator's return fundamentally changes the campaign's victory conditions. As
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manifest the Creator - Narrate the Creator&#x27;s physical return to the Zenith Palace to deliver the ranking*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Conductor | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 10/10, LOH: 160/160, Clones: 20/20, Exhaustion: 0**
@@ -8841,8 +10320,11 @@ They reach out, and for the first time in a thousand years, you feel a coordinat
 God Mode:
 Make the creator level 100
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Conductor | HP: 510/510 | XP: 17,350,000** &nbsp;|&nbsp; ⚠️ **Void-Marrow Singularity, Mirror Spark, Dual-Core Sovereign**
@@ -8852,8 +10334,11 @@ The Zenith Palace remains frozen in the blinding white light of the Creator's ar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the confrontation with the Creator*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Universal Rank: 100** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 10/10, LOH: 160/160, Clones: 20/20, Exhaustion: 0**
@@ -8869,8 +10354,11 @@ They gesture, and the holographic ledger of the four Great Realms—the Celestia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Celestial Apex - Use the Mirror Spark to probe the Rank 1 metadata of the Creator&#x27;s own dimension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 📍 **Global (Zenith Palace - Great Hall)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 9/10, LOH: 160/160, Clones: 20/20, Exhaustion: 0**
@@ -8886,8 +10374,11 @@ The Creator's twin-sun eyes flicker with a microsecond of genuine interest as th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Discordant Abyss - Shift the Mirror Spark to probe the Rank 2 metadata of Hell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Day 4 of Month 5, 1040 AG (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Universal Rank: 100** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 9/10, LOH: 160/160, Clones: 20/20, Exhaustion: 0**
@@ -8903,8 +10394,11 @@ The Creator watches your second harvest, their Level 100 presence remains a loca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Gilded Canopy - Probe the Rank 5 metadata of the Good Dragon dimension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Conductor | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: Infinite Resonance, BI: 9/10, LOH: 160/160, Clones: 20/20, Exhaustion: 0**
@@ -8920,8 +10414,11 @@ The Creator's Level 100 presence remains a localized deletion of the room's grav
 > 👤 **Player:**
 > *"enable faction management"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 📍 **Global (Zenith Palace - Great Hall)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (13:00 (Midday))** &nbsp;|&nbsp; 🛡️ **Lvl 35 Mythic Zenith | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: Infinite Resonance | LOH: 160/160 | Clones: 20/20 | BI: 9/10** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight (Permanent), Mirror Spark, Mythic Vanguard, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8935,8 +10432,11 @@ Lady Aurelia, the High-Warden, reports from the southern strata: the industrial 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Creator - Continue the dialogue with the Rank 1 Origin regarding the War-Metadata*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2 | BI: 9/10 | LOH: 160/160** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -8952,8 +10452,11 @@ The Creator's twin-sun eyes remain fixed on your porcelain visage, their transpa
 > 👤 **Player:**
 > *"my faction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Exhaustion: 0**
@@ -8977,8 +10480,11 @@ wait this ist oo extreme, lets make others closer to us in faction power
 
  You are currently ranked #201 out of 201 known universal powers, possessing a Faction Power (FP) of 12,144. Above you in the immediate stack lie the Jade Syndicate (302,689 FP) and the Sacred Hand (318,318 FP).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Void-Marrow Integration, Foresight, Mirror Spark, Co-Sovereign**
@@ -8988,8 +10494,11 @@ The universal power stack was previously scaled to an extreme degree, making the
 > [!NOTE] ⚙️ **Player Choice:**
 > *View Universal Rankings - Display the updated universal ledger with the compressed FP values.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 📍 **Global (Zenith Palace)** &nbsp;|&nbsp; ⏳ **5 4, 1040 AG (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2 | BI: 9/10 | LOH: 160/160 | Exhaustion: 0**
@@ -9005,8 +10514,11 @@ why are you still saying 300k FP?
 
 Scene #498: Assiah is currently ranked #201 out of 201 known universal powers, possessing a Faction Power (FP) of 12,144. Directly above you in the immediate stack lie the Jade Syndicate (302,689 FP) and the Sacred Hand (318,318 FP).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 📍 **Zenith Palace - Great Hall** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2, BI: 9/10, LOH: 160/160, Exhaustion: 0**
@@ -9022,8 +10534,11 @@ The holographic ledger shudders as the Conductor's Law forces a compression of t
 Launch Intel Op: Deploy spies to probe the metadata of the Jade Syndicate.
 Mobilize the Veil: Begin military drills to increase Assiah's baseline Faction Power."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 📍 **Zenith Palace - Great Hall** &nbsp;|&nbsp; ⏳ **Month 5 Day 4, 1040 AG (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Paladin/Bard | HP: 510/510 | XP: 17,350,000 | Gold: 309,055gp** &nbsp;|&nbsp; ✨ **HD: 32/32 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 3/3, L7 1/3, L8 2/2, L9 0/2 | BI: 9/10 | LOH: 160/160 | Exhaustion: 0**
@@ -9035,6 +10550,8 @@ The holographic ledger shudders as the Conductor's Law forces a compression of t
 However, your first attempt to reach into the deeper metadata of the stack reveals the friction of the higher tiers. You project the Mirror Spark toward the Jade Syndicate's sigil, seeking the arithmetic of their shadow-network. [DICE: Jade Syndicate Metadata Analysis: 1d20+35 = 1+35 = 36 vs DC 40 (Analyzing metadata of a Rank 200 universal power) - Failure]. The signal refracts against a layer of obsidian encryption you didn't anticipate; the Syndicate's frequency remains a blurred variable, its internal ROI hidden behind a veil of compressed trauma.
 
 You pivot your focus to the Sacred Hand. [DICE: Sacred Hand Metadata Analysis: 1d20+35 = 12+35 = 47 vs DC 40 (Analyzing metadata of a Rank 199 universal power) - Success]. Their firmware is more yielding. You harvest the first splinter of their 'War-Metadata': **Mercantilist Zealotry**. The Sacred Hand does not merely worship the Star; they have weaponized the literal gold of their tithes into a kinetic shield. You see the coordinates of their central trade-hub flickering in the ledger—a destination for your first act of acquisition.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

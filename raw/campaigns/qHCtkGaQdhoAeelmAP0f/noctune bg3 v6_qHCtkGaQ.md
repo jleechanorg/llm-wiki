@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (386 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Vibe: Pitiful. Fragile.
@@ -752,402 +763,407 @@ Seduce (Break Resolve): "My stomach is strong, darling. But I don't take orders.
 Deceive (The Trap): "Consider the gate open. I will signal when the way is clear." (Roll Deception).
 Attack (Initiative): Cast Hold Person immediately. "I think I'll just take your head instead.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | The Shattered Sanctum - Minthara's War Room | 1492 DR, Night | Roleplay |
-| **05** | The Shattered Sanctum | Hammer 20, 1492 DR (Night) | Social Challenge |
-| **06** | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:15) | Roleplay |
-| **07** | Shattered Sanctum - Minthara's War Room | Jan 15, 2026 DR (06:20) | Roleplay |
-| **08** | Shattered Sanctum - Minthara's War Room | Month 1 Day 15, 1492 DR (Dawn) | Roleplay |
-| **09** | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:20) | Roleplay |
-| **10** | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (Dawn) | Roleplay |
-| **11** | Shattered Sanctum - War Room Alcove | 1 15, 2026 DR (06:20) | Roleplay |
-| **12** | The Risen Road (Traveling toward the Emerald Grove) | Hammer 15, 1492 DR (07:45) | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Emerald Grove Gates (Inner Entrance) | 1 15, 2026 DR (08:05) | Roleplay |
-| **17** | Emerald Grove Gates | 1 15, 2026 DR (08:05) | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Emerald Grove Gates (Internal Area) | Mirtul 15, 2026 DR (08:10) | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Emerald Grove - Inner Sanctum | Hammer 15, 1492 DR (08:20 (Dawn)) | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Druid's Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:35) | Social Challenge |
-| **29** | Unknown |  | Social Challenge |
-| **30** | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:37) | Roleplay |
-| **31** | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:45) | Boss Surrender |
-| **32** | Druid Inner Sanctum | 1 15, 2026 DR (08:50) | Roleplay |
-| **33** | Unknown |  | Roleplay |
-| **34** | Druid Inner Sanctum | 1 15, 2026 DR (08:55) | Roleplay |
-| **35** | Druid Inner Sanctum | Hammer 15, 1492 DR (08:55) | Roleplay |
-| **36** | Druid Inner Sanctum | 1 15, 1492 DR (08:55) | Roleplay |
-| **37** | Druid Inner Sanctum | Month 1 Day 15, 2026 DR (08:55) | Roleplay |
-| **38** | Druid Inner Sanctum (Private Alcove) | 1 15, 2026 DR (08:55) | Roleplay |
-| **39** | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:55) | Roleplay |
-| **40** | Unknown |  | Roleplay |
-| **41** | Unknown |  | Roleplay |
-| **42** | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:50) | Roleplay |
-| **43** | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (09:15) | Roleplay |
-| **44** | Unknown |  | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Unknown |  | Roleplay |
-| **47** | Druid Inner Sanctum (Rite of the Shattered Rose) | Month 1 Day 15, 2026 DR (09:22) | Roleplay |
-| **48** | Unknown |  | Roleplay |
-| **49** | Druid Inner Sanctum (Ritual Chamber) | Mirtul 15, 2026 DR (11:45) | Roleplay |
-| **50** | Druid Inner Sanctum (The Ruined Grove) | 1 15, 2026 DR (09:30) | Roleplay |
-| **51** | Druid Inner Sanctum (The Desecrated Grove) | Mirtul 15, 1492 DR (10:30 (Morning)) | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Druid Inner Sanctum (The Desecrated Grove) | 1 15, 2026 DR (09:30) | Roleplay |
-| **54** | Druid Inner Sanctum (Desecrated) | Month 1 Day 15, 2026 DR (09:30) | Roleplay |
-| **55** | Unknown |  | Roleplay |
-| **56** | Unknown |  | Roleplay |
-| **57** | Emerald Grove - Inner Sanctum (Conquered) | Hammer 15, 1492 DR (09:30) | Roleplay |
-| **58** | Emerald Grove - Inner Sanctum (Desecrated) | Hammer 15, 1492 DR (09:30) | Roleplay |
-| **59** | Emerald Grove - Inner Sanctum (Conquered) | Month 1 Day 15, 1492 DR (09:30) | Roleplay |
-| **60** | Druid Inner Sanctum (Emerald Grove) | Month 1, 1492 DR (Day 15) | Roleplay |
-| **61** | Unknown |  | Roleplay |
-| **62** | Unknown |  | Roleplay |
-| **63** | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 15, 1492 DR (09:30) | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **68** | Unknown |  | Roleplay |
-| **69** | Emerald Grove - Inner Sanctum (Desecrated) |  | Roleplay |
-| **70** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **71** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **72** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
-| **73** | Unknown |  | Roleplay |
-| **74** | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 24, 1492 DR (11:00) | Roleplay |
-| **75** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:00) | Roleplay |
-| **76** | Unknown |  | Roleplay |
-| **77** | Unknown |  | Roleplay |
-| **78** | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:30) | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Unknown |  | Roleplay |
-| **81** | Emerald Grove - The Hollow (Ruined) | 1 15, 2026 DR (12:00) | Roleplay |
-| **82** | Emerald Grove - The Hollow (Ruined) | Mirtul 15, 2026 DR (Noon (12:00) | Roleplay |
-| **83** | Emerald Grove - The Hollow (Desecrated) | 1 15, 2026 DR (12:00) | Roleplay |
-| **84** | Unknown |  | Roleplay |
-| **85** | Goblin Camp - Worg Pens | 1 15, 2026 DR (13:00) | Roleplay |
-| **86** | Worg Pens | 1 15, 2026 DR (13:15) | Boss Surrender |
-| **87** | Worg Pens / Shattered Sanctum | 1 15, 2026 DR (13:30) | Boss Surrender |
-| **88** | Goblin Camp - Worg Pens | 1 15, 2026 DR (12:30) | Roleplay |
-| **89** | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
-| **90** | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
-| **91** | Goblin Camp - Shattered Sanctum | 1 15, 2026 DR (13:30) | Roleplay |
-| **92** | Unknown |  | Social Challenge |
-| **93** | Unknown |  | Boss Surrender |
-| **94** | Unknown |  | Roleplay |
-| **95** | Shattered Sanctum - Priestess Gut's Chambers | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
-| **96** | Unknown |  | Roleplay |
-| **97** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:16) | Roleplay |
-| **98** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
-| **99** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
-| **100** | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:30) | Boss Surrender |
-| **101** | Shattered Sanctum - The Throne Room & Vaults | Month 1 Day 15, 2026 DR (15:30) | Roleplay |
-| **102** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
-| **103** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
-| **104** | Shattered Sanctum - Main Hall | 1 15, 2026 DR (17:30) | Roleplay |
-| **105** | Unknown |  | Roleplay |
-| **106** | Unknown |  | Social Challenge |
-| **107** | Unknown |  | Roleplay |
-| **108** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:45) | Boss Surrender |
-| **109** | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:55) | Boss Surrender |
-| **110** | Unknown |  | Roleplay |
-| **111** | Unknown |  | Roleplay |
-| **112** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Roleplay |
-| **113** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Social Challenge |
-| **114** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:15) | Boss Surrender |
-| **115** | Unknown |  | Roleplay |
-| **116** | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:45) | Boss Surrender |
-| **117** | Unknown |  | Roleplay |
-| **118** | Unknown |  | Social Challenge |
-| **119** | Unknown |  | Roleplay |
-| **120** | The Risen Road - Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:30) | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
-| **123** | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
-| **124** | Unknown |  | Social Challenge |
-| **125** | Unknown |  | Social Challenge |
-| **126** | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (23:05) | Social Challenge |
-| **127** | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
-| **128** | Unknown |  | Roleplay |
-| **129** | Mountain Pass Bridge - Shadowed Ridge | Month 1 Day 15, 1492 DR (23:05) | Roleplay |
-| **130** | Mountain Pass - Broken Bridge | Month 1 Day 16, 1492 DR (00:00) | Boss Surrender |
-| **131** | Mountain Pass - Broken Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
-| **132** | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
-| **133** | Mountain Pass Bridge | Month 1 Day 15, 2026 DR (22:55) | Roleplay |
-| **134** | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
-| **135** | Unknown |  | Boss Surrender |
-| **136** | Mountain Pass Bridge - Aboard Qudenos | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
-| **137** | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:45) | Boss Surrender |
-| **138** | Unknown |  | Roleplay |
-| **139** | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
-| **140** | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
-| **141** | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
-| **142** | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
-| **143** | Unknown |  | Roleplay |
-| **144** | Unknown |  | Boss Surrender |
-| **145** | Unknown |  | Roleplay |
-| **146** | Mountain Pass Bridge - Crèche Y'llek Threshold | Month 1 Day 16, 1492 DR (01:30) | Roleplay |
-| **147** | Unknown |  | Social Challenge |
-| **148** | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 16, 1492 DR (00:30) | Roleplay |
-| **149** | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 16, 1492 DR (00:30) | Roleplay |
-| **150** | Mountain Pass - Crèche Y'llek Threshold | Month 1 Day 16, 1492 DR (01:00) | Roleplay |
-| **151** | Unknown |  | Roleplay |
-| **152** | Crèche Y'llek - Solar Machine Vault (Meltdown Imminent) | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
-| **153** | Unknown |  | Roleplay |
-| **154** | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
-| **155** | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
-| **156** | Unknown |  | Roleplay |
-| **157** | Unknown |  | Roleplay |
-| **158** | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
-| **159** | Unknown |  | Boss Surrender |
-| **160** | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:30) | Roleplay |
-| **161** | Unknown |  | Roleplay |
-| **162** | Unknown |  | Social Challenge |
-| **163** | Mountain Pass - Convoy Rendezvous | Month 1 Day 16, 1492 DR (04:30) | Roleplay |
-| **164** | Mountain Pass - Road to the Shadow-Curse | Month 1 Day 16, 1492 DR (05:00) | Roleplay |
-| **165** | Mountain Pass - Convoy Rendezvous | Month 1 Day 16, 1492 DR (04:30) | Roleplay |
-| **166** | Unknown |  | Boss Surrender |
-| **167** | Mountain Pass - Shadow-Curse Threshold | Month 1 Day 16, 1492 DR (06:15) | Boss Surrender |
-| **168** | Unknown |  | Boss Surrender |
-| **169** | Unknown |  | Boss Surrender |
-| **170** | Shadow-Cursed Lands - Reithwin Outskirts | Month 1 Day 16, 1492 DR (06:50) | Roleplay |
-| **171** | Unknown |  | Roleplay |
-| **172** | Shadow-Cursed Lands - Reithwin Outskirts | Month 1 Day 16, 1492 DR (06:50) | Roleplay |
-| **173** | Shadow-Cursed Lands - Reithwin Outskirts | Month 1 Day 16, 1492 DR (06:50) | Roleplay |
-| **174** | Unknown |  | Roleplay |
-| **175** | Reithwin Outskirts - Tollhouse Gate | Month 1 Day 16, 1492 DR (07:15) | Roleplay |
-| **176** | Unknown |  | Boss Surrender |
-| **177** | Reithwin Tollhouse - The Abyssal Descent | Month 1 Day 16, 1492 DR (07:45) | Roleplay |
-| **178** | Unknown |  | Roleplay |
-| **179** | Reithwin Tollhouse - The Abyssal Vault | 1 16, 2026 DR (08:15) | Roleplay |
-| **180** | Reithwin Tollhouse - Szarr Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **181** | Reithwin Tollhouse - The Abyssal Descent | Month 1 Day 16, 1492 DR (07:45) | Roleplay |
-| **182** | Reithwin Tollhouse - Szarr Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **183** | Reithwin Tollhouse - Cazador's Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **184** | Reithwin Tollhouse - Cazador's Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **185** | Reithwin Tollhouse - Cazador's Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **186** | Reithwin Tollhouse - Vault Core | Month 1 Day 16, 1492 DR (07:45) | Roleplay |
-| **187** | Unknown |  | Roleplay |
-| **188** | Reithwin Tollhouse - The Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **189** | Unknown |  | Boss Surrender |
-| **190** | Reithwin Tollhouse - Abyssal Stronghold | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **191** | Reithwin Tollhouse - Abyssal Stronghold | Hammer 16, 1492 DR (08:30) | Roleplay |
-| **192** | Unknown |  | Roleplay |
-| **193** | Reithwin Tollhouse - Abyssal Stronghold | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **194** | Reithwin Tollhouse - Abyssal Stronghold | Hammer 16, 1492 DR (08:30) | Boss Surrender |
-| **195** | Moonrise Towers - Main Approach | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
-| **196** | Shadow-Cursed Lands - Road to Moonrise (Threshold) | Hammer 16, 1492 DR (08:30) | Roleplay |
-| **197** | Moonrise Towers - Threshold of the Shadow-Curse |  | Roleplay |
-| **198** | Shadow-Cursed Lands - Moonrise Threshold | Hammer 16, 1492 DR (08:35) | Roleplay |
-| **199** | Moonrise Towers - Bridge Threshold | Hammer 16, 1492 DR (08:35) | Roleplay |
-| **200** | Unknown |  | Social Challenge |
-| **201** | Moonrise Towers - Main Hall | Month 1 Day 16, 1492 DR (08:35) | Social Challenge |
-| **202** | Moonrise Towers - Main Hall | Hammer 16, 1492 DR (08:35) | Roleplay |
-| **203** | Moonrise Towers - Main Hall | Hammer 16, 1492 DR (08:35) | Roleplay |
-| **204** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (09:35) | Roleplay |
-| **205** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (09:35) | Roleplay |
-| **206** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (10:35) | Social Challenge |
-| **207** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (11:35) | Social Challenge |
-| **208** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (11:35) | Roleplay |
-| **209** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (09:35) | Roleplay |
-| **210** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (10:35) | Roleplay |
-| **211** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (11:35) | Roleplay |
-| **212** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (12:35) | Roleplay |
-| **213** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (13:35) | Roleplay |
-| **214** | Unknown |  | Roleplay |
-| **215** | Unknown |  | Roleplay |
-| **216** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Month 1 Day 16, 1492 DR (09:35) | Roleplay |
-| **217** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (13:35) | Roleplay |
-| **218** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
-| **219** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (13:35) | Roleplay |
-| **220** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (14:05) | Roleplay |
-| **221** | Unknown |  | Roleplay |
-| **222** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
-| **223** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:15) | Roleplay |
-| **224** | Unknown |  | Boss Surrender |
-| **225** | Unknown |  | Roleplay |
-| **226** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (13:35) | Roleplay |
-| **227** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
-| **228** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
-| **229** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:35) | Roleplay |
-| **230** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:35) | Roleplay |
-| **231** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
-| **232** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
-| **233** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
-| **234** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
-| **235** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:35) | Roleplay |
-| **236** | Unknown |  | Roleplay |
-| **237** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (17:35) | Roleplay |
-| **238** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (04:35) | Roleplay |
-| **239** | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 17, 1492 DR (04:35) | Roleplay |
-| **240** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (09:35) | Roleplay |
-| **241** | Unknown |  | Roleplay |
-| **242** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (06:00) | Roleplay |
-| **243** | Moonrise Towers - Shadow-Curse Threshold / Thorm Mausoleum March | Hammer 17, 1492 DR (07:00) | Roleplay |
-| **244** | Unknown |  | Roleplay |
-| **245** | Unknown |  | Roleplay |
-| **246** | Unknown |  | Roleplay |
-| **247** | Gauntlet of Shar - Foyer | Hammer 17, 1492 DR (07:20) | Roleplay |
-| **248** | Gauntlet of Shar - Central Chamber Threshold | Hammer 17, 1492 DR (07:25) | Roleplay |
-| **249** | Gauntlet of Shar - Central Chamber Threshold | Hammer 17, 1492 DR (07:30) | Roleplay |
-| **250** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (07:35) | Roleplay |
-| **251** | Gauntlet of Shar - Central Chamber Threshold | Hammer 17, 1492 DR (07:40) | Roleplay |
-| **252** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (07:45) | Roleplay |
-| **253** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (07:50) | Boss Surrender |
-| **254** | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (08:30) | Roleplay |
-| **255** | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (08:35) | Roleplay |
-| **256** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:40) | Roleplay |
-| **257** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:45) | Roleplay |
-| **258** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:35) | Roleplay |
-| **259** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:35) | Roleplay |
-| **260** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:35) | Roleplay |
-| **261** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (09:35) | Roleplay |
-| **262** | Unknown |  | Roleplay |
-| **263** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (09:35) | Roleplay |
-| **264** | Unknown |  | Roleplay |
-| **265** | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Month 1 Day 17, 1492 DR (08:45) | Roleplay |
-| **266** | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (08:45) | Roleplay |
-| **267** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:45) | Roleplay |
-| **268** | Gauntlet of Shar - Abyssal Altar | Hammer 17, 1492 DR (09:00) | Boss Surrender |
-| **269** | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (09:05) | Boss Surrender |
-| **270** | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (09:00) | Roleplay |
-| **271** | Shadow-Cursed Lands - Reithwin District (Altar of the Rose) | Hammer 17, 1492 DR (10:00) | Roleplay |
-| **272** | Reithwin District - Altar of the Rose | Hammer 17, 1492 DR (10:00) | Roleplay |
-| **273** | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:45) | Roleplay |
-| **274** | Reithwin District - Altar of the Rose | Month 1 Day 17, 1492 DR (10:00) | Roleplay |
-| **275** | Reithwin District - Altar of the Rose | Hammer 17, 1492 DR (10:00) | Roleplay |
-| **276** | Reithwin District - Altar of the Rose | Hammer 17, 1492 DR (10:00) | Roleplay |
-| **277** | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:00) | Roleplay |
-| **278** | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:00) | Roleplay |
-| **279** | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:00) | Boss Surrender |
-| **280** | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:15) | Boss Surrender |
-| **281** | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:15) | Roleplay |
-| **282** | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (13:30) | Boss Surrender |
-| **283** | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (12:15) | Boss Surrender |
-| **284** | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (12:45) | Boss Surrender |
-| **285** | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (13:00) | Roleplay |
-| **286** | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (13:45) | Roleplay |
-| **287** | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:00) | Social Challenge |
-| **288** | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:00) | Roleplay |
-| **289** | Shadow-Curse Border - Githyanki Outpost |  | Social Challenge |
-| **290** | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:30) | Roleplay |
-| **291** | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:45) | Boss Surrender |
-| **292** | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:30) | Roleplay |
-| **293** | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:45) | Roleplay |
-| **294** | Shadow-Curse Border - Githyanki Outpost (Destroyed) | Hammer 17, 1492 DR (14:45) | Roleplay |
-| **295** | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (15:00) | Roleplay |
-| **296** | Moonrise Towers - Grand Hall (The Sovereign's Seat) | Hammer 17, 1492 DR (15:15) | Roleplay |
-| **297** | Moonrise Towers - Sovereign's Balcony | Month 1 Day 16, 1492 DR (08:35) | Roleplay |
-| **298** | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (08:40) | Roleplay |
-| **299** | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (08:40) | Roleplay |
-| **300** | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (18:35) | Roleplay |
-| **301** | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (17:35) | Roleplay |
-| **302** | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (17:35) | Roleplay |
-| **303** | Unknown | Hammer 16, 1492 DR (08:40) | Roleplay |
-| **304** | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (08:45) | Boss Surrender |
-| **305** | Moonrise Towers - Sovereign's Balcony | Hammer 17, 1492 DR (09:30) | Roleplay |
-| **306** | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (17:35) | Boss Surrender |
-| **307** | Unknown | Hammer 16, 1492 DR (17:35) | Roleplay |
-| **308** | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (17:35) | Roleplay |
-| **309** | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (17:35) | Roleplay |
-| **310** | Last Light Inn - Central Courtyard | Hammer 16, 1492 DR (17:50) | Roleplay |
-| **311** | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
-| **312** | Unknown |  | Roleplay |
-| **313** | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
-| **314** | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
-| **315** | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
-| **316** | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
-| **317** | Last Light Inn - Courtyard (Harvested) | Hammer 16, 1492 DR (18:30) | Boss Surrender |
-| **318** | Last Light Inn - Courtyard (Harvested) | Hammer 16, 1492 DR (18:45) | Roleplay |
-| **319** | Last Light Inn - Courtyard (Harvested) | Hammer 16, 1492 DR (18:45) | Roleplay |
-| **320** | Last Light Inn - Courtyard (Harvested) | Hammer 17, 1492 DR (08:45) | Roleplay |
-| **321** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (19:15) | Roleplay |
-| **322** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (19:45) | Roleplay |
-| **323** | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (21:00) | Boss Surrender |
-| **324** | Moonrise Towers - Sovereign Quarters / Sanguine Labs | Hammer 16, 1492 DR (22:00) | Roleplay |
-| **325** | Moonrise Towers - Barracks District | Hammer 16, 1492 DR (23:00) | Boss Surrender |
-| **326** | Moonrise Towers - Barracks District | Hammer 16, 1492 DR (23:00) | Roleplay |
-| **327** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:00) | Roleplay |
-| **328** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Boss Surrender |
-| **329** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (09:35) | Roleplay |
-| **330** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Roleplay |
-| **331** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Roleplay |
-| **332** | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Roleplay |
-| **333** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Boss Surrender |
-| **334** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (08:45) | Roleplay |
-| **335** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Roleplay |
-| **336** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Roleplay |
-| **337** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (09:35) | Roleplay |
-| **338** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (08:45) | Roleplay |
-| **339** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Roleplay |
-| **340** | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:00) | Social Challenge |
-| **341** | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:15) | Social Challenge |
-| **342** | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:20) | Roleplay |
-| **343** | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:25) | Roleplay |
-| **344** | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:25) | Boss Surrender |
-| **345** | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:30) | Boss Surrender |
-| **346** | Moonrise Towers - Sovereign Quarters (Sanctuary) | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **347** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **348** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **349** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **350** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **351** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **352** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **353** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **354** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **355** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **356** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **357** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **358** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **359** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **360** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **361** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
-| **362** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Boss Surrender |
-| **363** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **364** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **365** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **366** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **367** | Unknown | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **368** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **369** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **370** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **371** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
-| **372** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
-| **373** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
-| **374** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
-| **375** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
-| **376** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **377** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **378** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **379** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **380** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **381** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **382** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **383** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **384** | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
-| **385** | Baldur's Gate - Multiversal Overwrite Site | Hammer 17, 1492 DR (03:15) | Roleplay |
-| **386** | Baldur's Gate - Administrative Overwrite Site | Hammer 17, 1492 DR (03:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | The Shattered Sanctum - Minthara's War Room | 1492 DR, Night | Roleplay |
+| [**Scene 05**](#scene-5) | The Shattered Sanctum | Hammer 20, 1492 DR (Night) | Social Challenge |
+| [**Scene 06**](#scene-6) | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:15) | Roleplay |
+| [**Scene 07**](#scene-7) | Shattered Sanctum - Minthara's War Room | Jan 15, 2026 DR (06:20) | Roleplay |
+| [**Scene 08**](#scene-8) | Shattered Sanctum - Minthara's War Room | Month 1 Day 15, 1492 DR (Dawn) | Roleplay |
+| [**Scene 09**](#scene-9) | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (06:20) | Roleplay |
+| [**Scene 10**](#scene-10) | Shattered Sanctum - Minthara's War Room | Hammer 15, 1492 DR (Dawn) | Roleplay |
+| [**Scene 11**](#scene-11) | Shattered Sanctum - War Room Alcove | 1 15, 2026 DR (06:20) | Roleplay |
+| [**Scene 12**](#scene-12) | The Risen Road (Traveling toward the Emerald Grove) | Hammer 15, 1492 DR (07:45) | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Emerald Grove Gates (Inner Entrance) | 1 15, 2026 DR (08:05) | Roleplay |
+| [**Scene 17**](#scene-17) | Emerald Grove Gates | 1 15, 2026 DR (08:05) | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Emerald Grove Gates (Internal Area) | Mirtul 15, 2026 DR (08:10) | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Emerald Grove - Inner Sanctum | Hammer 15, 1492 DR (08:20 (Dawn)) | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Druid's Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:35) | Social Challenge |
+| [**Scene 29**](#scene-29) | Unknown |  | Social Challenge |
+| [**Scene 30**](#scene-30) | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:37) | Roleplay |
+| [**Scene 31**](#scene-31) | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (08:45) | Boss Surrender |
+| [**Scene 32**](#scene-32) | Druid Inner Sanctum | 1 15, 2026 DR (08:50) | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown |  | Roleplay |
+| [**Scene 34**](#scene-34) | Druid Inner Sanctum | 1 15, 2026 DR (08:55) | Roleplay |
+| [**Scene 35**](#scene-35) | Druid Inner Sanctum | Hammer 15, 1492 DR (08:55) | Roleplay |
+| [**Scene 36**](#scene-36) | Druid Inner Sanctum | 1 15, 1492 DR (08:55) | Roleplay |
+| [**Scene 37**](#scene-37) | Druid Inner Sanctum | Month 1 Day 15, 2026 DR (08:55) | Roleplay |
+| [**Scene 38**](#scene-38) | Druid Inner Sanctum (Private Alcove) | 1 15, 2026 DR (08:55) | Roleplay |
+| [**Scene 39**](#scene-39) | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:55) | Roleplay |
+| [**Scene 40**](#scene-40) | Unknown |  | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown |  | Roleplay |
+| [**Scene 42**](#scene-42) | Druid Inner Sanctum - Private Alcove | Hammer 15, 1492 DR (08:50) | Roleplay |
+| [**Scene 43**](#scene-43) | Druid Inner Sanctum - Private Alcove | 1 15, 2026 DR (09:15) | Roleplay |
+| [**Scene 44**](#scene-44) | Unknown |  | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown |  | Roleplay |
+| [**Scene 47**](#scene-47) | Druid Inner Sanctum (Rite of the Shattered Rose) | Month 1 Day 15, 2026 DR (09:22) | Roleplay |
+| [**Scene 48**](#scene-48) | Unknown |  | Roleplay |
+| [**Scene 49**](#scene-49) | Druid Inner Sanctum (Ritual Chamber) | Mirtul 15, 2026 DR (11:45) | Roleplay |
+| [**Scene 50**](#scene-50) | Druid Inner Sanctum (The Ruined Grove) | 1 15, 2026 DR (09:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Druid Inner Sanctum (The Desecrated Grove) | Mirtul 15, 1492 DR (10:30 (Morning)) | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Druid Inner Sanctum (The Desecrated Grove) | 1 15, 2026 DR (09:30) | Roleplay |
+| [**Scene 54**](#scene-54) | Druid Inner Sanctum (Desecrated) | Month 1 Day 15, 2026 DR (09:30) | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown |  | Roleplay |
+| [**Scene 56**](#scene-56) | Unknown |  | Roleplay |
+| [**Scene 57**](#scene-57) | Emerald Grove - Inner Sanctum (Conquered) | Hammer 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 58**](#scene-58) | Emerald Grove - Inner Sanctum (Desecrated) | Hammer 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 59**](#scene-59) | Emerald Grove - Inner Sanctum (Conquered) | Month 1 Day 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 60**](#scene-60) | Druid Inner Sanctum (Emerald Grove) | Month 1, 1492 DR (Day 15) | Roleplay |
+| [**Scene 61**](#scene-61) | Unknown |  | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown |  | Roleplay |
+| [**Scene 63**](#scene-63) | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 68**](#scene-68) | Unknown |  | Roleplay |
+| [**Scene 69**](#scene-69) | Emerald Grove - Inner Sanctum (Desecrated) |  | Roleplay |
+| [**Scene 70**](#scene-70) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 71**](#scene-71) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 72**](#scene-72) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (10:00) | Roleplay |
+| [**Scene 73**](#scene-73) | Unknown |  | Roleplay |
+| [**Scene 74**](#scene-74) | Emerald Grove - Inner Sanctum (Desecrated) | Mirtul 24, 1492 DR (11:00) | Roleplay |
+| [**Scene 75**](#scene-75) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:00) | Roleplay |
+| [**Scene 76**](#scene-76) | Unknown |  | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown |  | Roleplay |
+| [**Scene 78**](#scene-78) | Emerald Grove - Inner Sanctum (Desecrated) | 1 15, 2026 DR (11:30) | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Unknown |  | Roleplay |
+| [**Scene 81**](#scene-81) | Emerald Grove - The Hollow (Ruined) | 1 15, 2026 DR (12:00) | Roleplay |
+| [**Scene 82**](#scene-82) | Emerald Grove - The Hollow (Ruined) | Mirtul 15, 2026 DR (Noon (12:00) | Roleplay |
+| [**Scene 83**](#scene-83) | Emerald Grove - The Hollow (Desecrated) | 1 15, 2026 DR (12:00) | Roleplay |
+| [**Scene 84**](#scene-84) | Unknown |  | Roleplay |
+| [**Scene 85**](#scene-85) | Goblin Camp - Worg Pens | 1 15, 2026 DR (13:00) | Roleplay |
+| [**Scene 86**](#scene-86) | Worg Pens | 1 15, 2026 DR (13:15) | Boss Surrender |
+| [**Scene 87**](#scene-87) | Worg Pens / Shattered Sanctum | 1 15, 2026 DR (13:30) | Boss Surrender |
+| [**Scene 88**](#scene-88) | Goblin Camp - Worg Pens | 1 15, 2026 DR (12:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Goblin Camp - Worg Pens (Sanctified by Ash) | 1 15, 2026 DR (12:30) | Roleplay |
+| [**Scene 91**](#scene-91) | Goblin Camp - Shattered Sanctum | 1 15, 2026 DR (13:30) | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Social Challenge |
+| [**Scene 93**](#scene-93) | Unknown |  | Boss Surrender |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Shattered Sanctum - Priestess Gut's Chambers | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Unknown |  | Roleplay |
+| [**Scene 97**](#scene-97) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:16) | Roleplay |
+| [**Scene 98**](#scene-98) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
+| [**Scene 99**](#scene-99) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:15) | Roleplay |
+| [**Scene 100**](#scene-100) | Shattered Sanctum - Priestess Gut's Private Quarters | Month 1 Day 15, 2026 DR (14:30) | Boss Surrender |
+| [**Scene 101**](#scene-101) | Shattered Sanctum - The Throne Room & Vaults | Month 1 Day 15, 2026 DR (15:30) | Roleplay |
+| [**Scene 102**](#scene-102) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
+| [**Scene 103**](#scene-103) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:30) | Roleplay |
+| [**Scene 104**](#scene-104) | Shattered Sanctum - Main Hall | 1 15, 2026 DR (17:30) | Roleplay |
+| [**Scene 105**](#scene-105) | Unknown |  | Roleplay |
+| [**Scene 106**](#scene-106) | Unknown |  | Social Challenge |
+| [**Scene 107**](#scene-107) | Unknown |  | Roleplay |
+| [**Scene 108**](#scene-108) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:45) | Boss Surrender |
+| [**Scene 109**](#scene-109) | Shattered Sanctum - Main Hall | Month 1 Day 15, 2026 DR (17:55) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Unknown |  | Roleplay |
+| [**Scene 111**](#scene-111) | Unknown |  | Roleplay |
+| [**Scene 112**](#scene-112) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Roleplay |
+| [**Scene 113**](#scene-113) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:00) | Social Challenge |
+| [**Scene 114**](#scene-114) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:15) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Unknown |  | Roleplay |
+| [**Scene 116**](#scene-116) | The Risen Road - Tollhouse Ruins | Month 1 Day 15, 2026 DR (20:45) | Boss Surrender |
+| [**Scene 117**](#scene-117) | Unknown |  | Roleplay |
+| [**Scene 118**](#scene-118) | Unknown |  | Social Challenge |
+| [**Scene 119**](#scene-119) | Unknown |  | Roleplay |
+| [**Scene 120**](#scene-120) | The Risen Road - Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:30) | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
+| [**Scene 123**](#scene-123) | Mountain Pass Approach | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
+| [**Scene 124**](#scene-124) | Unknown |  | Social Challenge |
+| [**Scene 125**](#scene-125) | Unknown |  | Social Challenge |
+| [**Scene 126**](#scene-126) | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (23:05) | Social Challenge |
+| [**Scene 127**](#scene-127) | Mountain Pass Bridge - Githyanki Outpost | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
+| [**Scene 128**](#scene-128) | Unknown |  | Roleplay |
+| [**Scene 129**](#scene-129) | Mountain Pass Bridge - Shadowed Ridge | Month 1 Day 15, 1492 DR (23:05) | Roleplay |
+| [**Scene 130**](#scene-130) | Mountain Pass - Broken Bridge | Month 1 Day 16, 1492 DR (00:00) | Boss Surrender |
+| [**Scene 131**](#scene-131) | Mountain Pass - Broken Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
+| [**Scene 132**](#scene-132) | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
+| [**Scene 133**](#scene-133) | Mountain Pass Bridge | Month 1 Day 15, 2026 DR (22:55) | Roleplay |
+| [**Scene 134**](#scene-134) | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Unknown |  | Boss Surrender |
+| [**Scene 136**](#scene-136) | Mountain Pass Bridge - Aboard Qudenos | Month 1 Day 15, 1492 DR (22:55) | Roleplay |
+| [**Scene 137**](#scene-137) | Mountain Pass Bridge | Month 1 Day 15, 1492 DR (23:45) | Boss Surrender |
+| [**Scene 138**](#scene-138) | Unknown |  | Roleplay |
+| [**Scene 139**](#scene-139) | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
+| [**Scene 140**](#scene-140) | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
+| [**Scene 141**](#scene-141) | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
+| [**Scene 142**](#scene-142) | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 15, 1492 DR (23:55) | Roleplay |
+| [**Scene 143**](#scene-143) | Unknown |  | Roleplay |
+| [**Scene 144**](#scene-144) | Unknown |  | Boss Surrender |
+| [**Scene 145**](#scene-145) | Unknown |  | Roleplay |
+| [**Scene 146**](#scene-146) | Mountain Pass Bridge - Crèche Y'llek Threshold | Month 1 Day 16, 1492 DR (01:30) | Roleplay |
+| [**Scene 147**](#scene-147) | Unknown |  | Social Challenge |
+| [**Scene 148**](#scene-148) | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 16, 1492 DR (00:30) | Roleplay |
+| [**Scene 149**](#scene-149) | Mountain Pass Bridge - Atop the Red Dragon | Month 1 Day 16, 1492 DR (00:30) | Roleplay |
+| [**Scene 150**](#scene-150) | Mountain Pass - Crèche Y'llek Threshold | Month 1 Day 16, 1492 DR (01:00) | Roleplay |
+| [**Scene 151**](#scene-151) | Unknown |  | Roleplay |
+| [**Scene 152**](#scene-152) | Crèche Y'llek - Solar Machine Vault (Meltdown Imminent) | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
+| [**Scene 153**](#scene-153) | Unknown |  | Roleplay |
+| [**Scene 154**](#scene-154) | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
+| [**Scene 155**](#scene-155) | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
+| [**Scene 156**](#scene-156) | Unknown |  | Roleplay |
+| [**Scene 157**](#scene-157) | Unknown |  | Roleplay |
+| [**Scene 158**](#scene-158) | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:15) | Roleplay |
+| [**Scene 159**](#scene-159) | Unknown |  | Boss Surrender |
+| [**Scene 160**](#scene-160) | Crèche Y'llek - Solar Machine Vault | Month 1 Day 16, 1492 DR (01:30) | Roleplay |
+| [**Scene 161**](#scene-161) | Unknown |  | Roleplay |
+| [**Scene 162**](#scene-162) | Unknown |  | Social Challenge |
+| [**Scene 163**](#scene-163) | Mountain Pass - Convoy Rendezvous | Month 1 Day 16, 1492 DR (04:30) | Roleplay |
+| [**Scene 164**](#scene-164) | Mountain Pass - Road to the Shadow-Curse | Month 1 Day 16, 1492 DR (05:00) | Roleplay |
+| [**Scene 165**](#scene-165) | Mountain Pass - Convoy Rendezvous | Month 1 Day 16, 1492 DR (04:30) | Roleplay |
+| [**Scene 166**](#scene-166) | Unknown |  | Boss Surrender |
+| [**Scene 167**](#scene-167) | Mountain Pass - Shadow-Curse Threshold | Month 1 Day 16, 1492 DR (06:15) | Boss Surrender |
+| [**Scene 168**](#scene-168) | Unknown |  | Boss Surrender |
+| [**Scene 169**](#scene-169) | Unknown |  | Boss Surrender |
+| [**Scene 170**](#scene-170) | Shadow-Cursed Lands - Reithwin Outskirts | Month 1 Day 16, 1492 DR (06:50) | Roleplay |
+| [**Scene 171**](#scene-171) | Unknown |  | Roleplay |
+| [**Scene 172**](#scene-172) | Shadow-Cursed Lands - Reithwin Outskirts | Month 1 Day 16, 1492 DR (06:50) | Roleplay |
+| [**Scene 173**](#scene-173) | Shadow-Cursed Lands - Reithwin Outskirts | Month 1 Day 16, 1492 DR (06:50) | Roleplay |
+| [**Scene 174**](#scene-174) | Unknown |  | Roleplay |
+| [**Scene 175**](#scene-175) | Reithwin Outskirts - Tollhouse Gate | Month 1 Day 16, 1492 DR (07:15) | Roleplay |
+| [**Scene 176**](#scene-176) | Unknown |  | Boss Surrender |
+| [**Scene 177**](#scene-177) | Reithwin Tollhouse - The Abyssal Descent | Month 1 Day 16, 1492 DR (07:45) | Roleplay |
+| [**Scene 178**](#scene-178) | Unknown |  | Roleplay |
+| [**Scene 179**](#scene-179) | Reithwin Tollhouse - The Abyssal Vault | 1 16, 2026 DR (08:15) | Roleplay |
+| [**Scene 180**](#scene-180) | Reithwin Tollhouse - Szarr Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 181**](#scene-181) | Reithwin Tollhouse - The Abyssal Descent | Month 1 Day 16, 1492 DR (07:45) | Roleplay |
+| [**Scene 182**](#scene-182) | Reithwin Tollhouse - Szarr Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 183**](#scene-183) | Reithwin Tollhouse - Cazador's Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 184**](#scene-184) | Reithwin Tollhouse - Cazador's Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 185**](#scene-185) | Reithwin Tollhouse - Cazador's Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 186**](#scene-186) | Reithwin Tollhouse - Vault Core | Month 1 Day 16, 1492 DR (07:45) | Roleplay |
+| [**Scene 187**](#scene-187) | Unknown |  | Roleplay |
+| [**Scene 188**](#scene-188) | Reithwin Tollhouse - The Abyssal Vault | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 189**](#scene-189) | Unknown |  | Boss Surrender |
+| [**Scene 190**](#scene-190) | Reithwin Tollhouse - Abyssal Stronghold | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 191**](#scene-191) | Reithwin Tollhouse - Abyssal Stronghold | Hammer 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 192**](#scene-192) | Unknown |  | Roleplay |
+| [**Scene 193**](#scene-193) | Reithwin Tollhouse - Abyssal Stronghold | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 194**](#scene-194) | Reithwin Tollhouse - Abyssal Stronghold | Hammer 16, 1492 DR (08:30) | Boss Surrender |
+| [**Scene 195**](#scene-195) | Moonrise Towers - Main Approach | Month 1 Day 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 196**](#scene-196) | Shadow-Cursed Lands - Road to Moonrise (Threshold) | Hammer 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 197**](#scene-197) | Moonrise Towers - Threshold of the Shadow-Curse |  | Roleplay |
+| [**Scene 198**](#scene-198) | Shadow-Cursed Lands - Moonrise Threshold | Hammer 16, 1492 DR (08:35) | Roleplay |
+| [**Scene 199**](#scene-199) | Moonrise Towers - Bridge Threshold | Hammer 16, 1492 DR (08:35) | Roleplay |
+| [**Scene 200**](#scene-200) | Unknown |  | Social Challenge |
+| [**Scene 201**](#scene-201) | Moonrise Towers - Main Hall | Month 1 Day 16, 1492 DR (08:35) | Social Challenge |
+| [**Scene 202**](#scene-202) | Moonrise Towers - Main Hall | Hammer 16, 1492 DR (08:35) | Roleplay |
+| [**Scene 203**](#scene-203) | Moonrise Towers - Main Hall | Hammer 16, 1492 DR (08:35) | Roleplay |
+| [**Scene 204**](#scene-204) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 205**](#scene-205) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 206**](#scene-206) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (10:35) | Social Challenge |
+| [**Scene 207**](#scene-207) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (11:35) | Social Challenge |
+| [**Scene 208**](#scene-208) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (11:35) | Roleplay |
+| [**Scene 209**](#scene-209) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 210**](#scene-210) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (10:35) | Roleplay |
+| [**Scene 211**](#scene-211) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (11:35) | Roleplay |
+| [**Scene 212**](#scene-212) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (12:35) | Roleplay |
+| [**Scene 213**](#scene-213) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (13:35) | Roleplay |
+| [**Scene 214**](#scene-214) | Unknown |  | Roleplay |
+| [**Scene 215**](#scene-215) | Unknown |  | Roleplay |
+| [**Scene 216**](#scene-216) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Month 1 Day 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 217**](#scene-217) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (13:35) | Roleplay |
+| [**Scene 218**](#scene-218) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 219**](#scene-219) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (13:35) | Roleplay |
+| [**Scene 220**](#scene-220) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (14:05) | Roleplay |
+| [**Scene 221**](#scene-221) | Unknown |  | Roleplay |
+| [**Scene 222**](#scene-222) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 223**](#scene-223) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:15) | Roleplay |
+| [**Scene 224**](#scene-224) | Unknown |  | Boss Surrender |
+| [**Scene 225**](#scene-225) | Unknown |  | Roleplay |
+| [**Scene 226**](#scene-226) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (13:35) | Roleplay |
+| [**Scene 227**](#scene-227) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 228**](#scene-228) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 229**](#scene-229) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 230**](#scene-230) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 231**](#scene-231) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 232**](#scene-232) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (09:35) | Roleplay |
+| [**Scene 233**](#scene-233) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 234**](#scene-234) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 235**](#scene-235) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (15:35) | Roleplay |
+| [**Scene 236**](#scene-236) | Unknown |  | Roleplay |
+| [**Scene 237**](#scene-237) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 16, 1492 DR (17:35) | Roleplay |
+| [**Scene 238**](#scene-238) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (04:35) | Roleplay |
+| [**Scene 239**](#scene-239) | Moonrise Towers - Sovereign Quarters (Upper Ward) | Hammer 17, 1492 DR (04:35) | Roleplay |
+| [**Scene 240**](#scene-240) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (09:35) | Roleplay |
+| [**Scene 241**](#scene-241) | Unknown |  | Roleplay |
+| [**Scene 242**](#scene-242) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (06:00) | Roleplay |
+| [**Scene 243**](#scene-243) | Moonrise Towers - Shadow-Curse Threshold / Thorm Mausoleum March | Hammer 17, 1492 DR (07:00) | Roleplay |
+| [**Scene 244**](#scene-244) | Unknown |  | Roleplay |
+| [**Scene 245**](#scene-245) | Unknown |  | Roleplay |
+| [**Scene 246**](#scene-246) | Unknown |  | Roleplay |
+| [**Scene 247**](#scene-247) | Gauntlet of Shar - Foyer | Hammer 17, 1492 DR (07:20) | Roleplay |
+| [**Scene 248**](#scene-248) | Gauntlet of Shar - Central Chamber Threshold | Hammer 17, 1492 DR (07:25) | Roleplay |
+| [**Scene 249**](#scene-249) | Gauntlet of Shar - Central Chamber Threshold | Hammer 17, 1492 DR (07:30) | Roleplay |
+| [**Scene 250**](#scene-250) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (07:35) | Roleplay |
+| [**Scene 251**](#scene-251) | Gauntlet of Shar - Central Chamber Threshold | Hammer 17, 1492 DR (07:40) | Roleplay |
+| [**Scene 252**](#scene-252) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (07:45) | Roleplay |
+| [**Scene 253**](#scene-253) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (07:50) | Boss Surrender |
+| [**Scene 254**](#scene-254) | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (08:30) | Roleplay |
+| [**Scene 255**](#scene-255) | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (08:35) | Roleplay |
+| [**Scene 256**](#scene-256) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:40) | Roleplay |
+| [**Scene 257**](#scene-257) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 258**](#scene-258) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:35) | Roleplay |
+| [**Scene 259**](#scene-259) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:35) | Roleplay |
+| [**Scene 260**](#scene-260) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:35) | Roleplay |
+| [**Scene 261**](#scene-261) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (09:35) | Roleplay |
+| [**Scene 262**](#scene-262) | Unknown |  | Roleplay |
+| [**Scene 263**](#scene-263) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (09:35) | Roleplay |
+| [**Scene 264**](#scene-264) | Unknown |  | Roleplay |
+| [**Scene 265**](#scene-265) | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Month 1 Day 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 266**](#scene-266) | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 267**](#scene-267) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 268**](#scene-268) | Gauntlet of Shar - Abyssal Altar | Hammer 17, 1492 DR (09:00) | Boss Surrender |
+| [**Scene 269**](#scene-269) | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (09:05) | Boss Surrender |
+| [**Scene 270**](#scene-270) | Gauntlet of Shar - Central Chamber (Abyssal Altar) | Hammer 17, 1492 DR (09:00) | Roleplay |
+| [**Scene 271**](#scene-271) | Shadow-Cursed Lands - Reithwin District (Altar of the Rose) | Hammer 17, 1492 DR (10:00) | Roleplay |
+| [**Scene 272**](#scene-272) | Reithwin District - Altar of the Rose | Hammer 17, 1492 DR (10:00) | Roleplay |
+| [**Scene 273**](#scene-273) | Gauntlet of Shar - Central Chamber | Hammer 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 274**](#scene-274) | Reithwin District - Altar of the Rose | Month 1 Day 17, 1492 DR (10:00) | Roleplay |
+| [**Scene 275**](#scene-275) | Reithwin District - Altar of the Rose | Hammer 17, 1492 DR (10:00) | Roleplay |
+| [**Scene 276**](#scene-276) | Reithwin District - Altar of the Rose | Hammer 17, 1492 DR (10:00) | Roleplay |
+| [**Scene 277**](#scene-277) | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 278**](#scene-278) | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 279**](#scene-279) | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:00) | Boss Surrender |
+| [**Scene 280**](#scene-280) | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:15) | Boss Surrender |
+| [**Scene 281**](#scene-281) | Moonrise Towers - Main Hall | Hammer 17, 1492 DR (12:15) | Roleplay |
+| [**Scene 282**](#scene-282) | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (13:30) | Boss Surrender |
+| [**Scene 283**](#scene-283) | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (12:15) | Boss Surrender |
+| [**Scene 284**](#scene-284) | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (12:45) | Boss Surrender |
+| [**Scene 285**](#scene-285) | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (13:00) | Roleplay |
+| [**Scene 286**](#scene-286) | Moonrise Towers - Deep Sanguine Labs | Hammer 17, 1492 DR (13:45) | Roleplay |
+| [**Scene 287**](#scene-287) | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:00) | Social Challenge |
+| [**Scene 288**](#scene-288) | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:00) | Roleplay |
+| [**Scene 289**](#scene-289) | Shadow-Curse Border - Githyanki Outpost |  | Social Challenge |
+| [**Scene 290**](#scene-290) | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:30) | Roleplay |
+| [**Scene 291**](#scene-291) | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:45) | Boss Surrender |
+| [**Scene 292**](#scene-292) | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:30) | Roleplay |
+| [**Scene 293**](#scene-293) | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (14:45) | Roleplay |
+| [**Scene 294**](#scene-294) | Shadow-Curse Border - Githyanki Outpost (Destroyed) | Hammer 17, 1492 DR (14:45) | Roleplay |
+| [**Scene 295**](#scene-295) | Shadow-Curse Border - Githyanki Outpost | Hammer 17, 1492 DR (15:00) | Roleplay |
+| [**Scene 296**](#scene-296) | Moonrise Towers - Grand Hall (The Sovereign's Seat) | Hammer 17, 1492 DR (15:15) | Roleplay |
+| [**Scene 297**](#scene-297) | Moonrise Towers - Sovereign's Balcony | Month 1 Day 16, 1492 DR (08:35) | Roleplay |
+| [**Scene 298**](#scene-298) | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (08:40) | Roleplay |
+| [**Scene 299**](#scene-299) | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (08:40) | Roleplay |
+| [**Scene 300**](#scene-300) | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (18:35) | Roleplay |
+| [**Scene 301**](#scene-301) | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (17:35) | Roleplay |
+| [**Scene 302**](#scene-302) | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (17:35) | Roleplay |
+| [**Scene 303**](#scene-303) | Unknown | Hammer 16, 1492 DR (08:40) | Roleplay |
+| [**Scene 304**](#scene-304) | Moonrise Towers - Sovereign's Balcony | Hammer 16, 1492 DR (08:45) | Boss Surrender |
+| [**Scene 305**](#scene-305) | Moonrise Towers - Sovereign's Balcony | Hammer 17, 1492 DR (09:30) | Roleplay |
+| [**Scene 306**](#scene-306) | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (17:35) | Boss Surrender |
+| [**Scene 307**](#scene-307) | Unknown | Hammer 16, 1492 DR (17:35) | Roleplay |
+| [**Scene 308**](#scene-308) | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (17:35) | Roleplay |
+| [**Scene 309**](#scene-309) | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (17:35) | Roleplay |
+| [**Scene 310**](#scene-310) | Last Light Inn - Central Courtyard | Hammer 16, 1492 DR (17:50) | Roleplay |
+| [**Scene 311**](#scene-311) | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
+| [**Scene 312**](#scene-312) | Unknown |  | Roleplay |
+| [**Scene 313**](#scene-313) | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
+| [**Scene 314**](#scene-314) | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
+| [**Scene 315**](#scene-315) | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
+| [**Scene 316**](#scene-316) | Last Light Inn - Courtyard | Hammer 16, 1492 DR (18:15) | Roleplay |
+| [**Scene 317**](#scene-317) | Last Light Inn - Courtyard (Harvested) | Hammer 16, 1492 DR (18:30) | Boss Surrender |
+| [**Scene 318**](#scene-318) | Last Light Inn - Courtyard (Harvested) | Hammer 16, 1492 DR (18:45) | Roleplay |
+| [**Scene 319**](#scene-319) | Last Light Inn - Courtyard (Harvested) | Hammer 16, 1492 DR (18:45) | Roleplay |
+| [**Scene 320**](#scene-320) | Last Light Inn - Courtyard (Harvested) | Hammer 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 321**](#scene-321) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (19:15) | Roleplay |
+| [**Scene 322**](#scene-322) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (19:45) | Roleplay |
+| [**Scene 323**](#scene-323) | Moonrise Towers - Grand Hall | Hammer 16, 1492 DR (21:00) | Boss Surrender |
+| [**Scene 324**](#scene-324) | Moonrise Towers - Sovereign Quarters / Sanguine Labs | Hammer 16, 1492 DR (22:00) | Roleplay |
+| [**Scene 325**](#scene-325) | Moonrise Towers - Barracks District | Hammer 16, 1492 DR (23:00) | Boss Surrender |
+| [**Scene 326**](#scene-326) | Moonrise Towers - Barracks District | Hammer 16, 1492 DR (23:00) | Roleplay |
+| [**Scene 327**](#scene-327) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:00) | Roleplay |
+| [**Scene 328**](#scene-328) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Boss Surrender |
+| [**Scene 329**](#scene-329) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (09:35) | Roleplay |
+| [**Scene 330**](#scene-330) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Roleplay |
+| [**Scene 331**](#scene-331) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Roleplay |
+| [**Scene 332**](#scene-332) | Moonrise Towers - Sovereign Quarters | Hammer 16, 1492 DR (23:30) | Roleplay |
+| [**Scene 333**](#scene-333) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Boss Surrender |
+| [**Scene 334**](#scene-334) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 335**](#scene-335) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Roleplay |
+| [**Scene 336**](#scene-336) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Roleplay |
+| [**Scene 337**](#scene-337) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (09:35) | Roleplay |
+| [**Scene 338**](#scene-338) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (08:45) | Roleplay |
+| [**Scene 339**](#scene-339) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (00:00) | Roleplay |
+| [**Scene 340**](#scene-340) | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:00) | Social Challenge |
+| [**Scene 341**](#scene-341) | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:15) | Social Challenge |
+| [**Scene 342**](#scene-342) | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:20) | Roleplay |
+| [**Scene 343**](#scene-343) | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:25) | Roleplay |
+| [**Scene 344**](#scene-344) | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:25) | Boss Surrender |
+| [**Scene 345**](#scene-345) | Moonrise Towers - Grand Hall | Hammer 17, 1492 DR (01:30) | Boss Surrender |
+| [**Scene 346**](#scene-346) | Moonrise Towers - Sovereign Quarters (Sanctuary) | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 347**](#scene-347) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 348**](#scene-348) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 349**](#scene-349) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 350**](#scene-350) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 351**](#scene-351) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 352**](#scene-352) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 353**](#scene-353) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 354**](#scene-354) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 355**](#scene-355) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 356**](#scene-356) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 357**](#scene-357) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 358**](#scene-358) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 359**](#scene-359) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 360**](#scene-360) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 361**](#scene-361) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:30) | Roleplay |
+| [**Scene 362**](#scene-362) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Boss Surrender |
+| [**Scene 363**](#scene-363) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 364**](#scene-364) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 365**](#scene-365) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 366**](#scene-366) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 367**](#scene-367) | Unknown | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 368**](#scene-368) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 369**](#scene-369) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 370**](#scene-370) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 371**](#scene-371) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:35) | Roleplay |
+| [**Scene 372**](#scene-372) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
+| [**Scene 373**](#scene-373) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
+| [**Scene 374**](#scene-374) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
+| [**Scene 375**](#scene-375) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (02:45) | Roleplay |
+| [**Scene 376**](#scene-376) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 377**](#scene-377) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 378**](#scene-378) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 379**](#scene-379) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 380**](#scene-380) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 381**](#scene-381) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 382**](#scene-382) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 383**](#scene-383) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 384**](#scene-384) | Moonrise Towers - Sovereign Quarters | Hammer 17, 1492 DR (03:00) | Roleplay |
+| [**Scene 385**](#scene-385) | Baldur's Gate - Multiversal Overwrite Site | Hammer 17, 1492 DR (03:15) | Roleplay |
+| [**Scene 386**](#scene-386) | Baldur's Gate - Administrative Overwrite Site | Hammer 17, 1492 DR (03:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -1175,8 +1191,11 @@ Does this character accurately reflect the Sovereign of the Shattered Rose you w
 > 👤 **Player:**
 > *"Any questions or balance concerns before we start?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -1199,8 +1218,11 @@ You stand in the war room, the flickering light of lavender incense casting long
 > *"i was originally level 6 so I am not that nerfed now
 - **The 'Nerf' Narrative:** While you are Level 5 mechanically, the narrative will reflect that your true Abyssal potential is being throttled by the tadpole. Every level-up is a 'leak' in that cage."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -1221,8 +1243,11 @@ If you continue adventuring, you remain Level 5 and defer these benefits until y
 God Mode:
 i am alrady level 5 you dont need to show me pending level thing, start adventure and leave char creation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **1492 DR, Night** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1232,8 +1257,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the confrontation with Minthara in the War Room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Shattered Sanctum, Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 20, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1259,8 +1287,11 @@ Minthara's breath hitches. For a drow who has spent centuries navigating the let
 > 👤 **Player:**
 > *"THINK:what should i do to gain max power and influence? maybe its fine to side with her for now,, but when i betray the grove i want to get the max power/loot/items"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6500/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1270,8 +1301,11 @@ You pause, the violet of your eyes deepening as you weigh the flickering possibi
 > 👤 **Player:**
 > *"convince minthara i will subvert it from the inside first, make it easy, then win them a decisive victory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Jan 15, 2026 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1285,8 +1319,11 @@ She releases your hand, stepping back to gesture toward the stone table. "Go. Ta
 God Mode:
 which companions are with me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1296,8 +1333,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:do i have enough time to invertt the ritual of thornes and take power for myself before minthara raids?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1307,8 +1347,11 @@ You pause to consider your options...
 God Mode:
 you ignored whati asked You: do i have enough time to invertt the ritual of thornes and take power for myself before minthara raids?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Shattered Sanctum - Minthara's War Room** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1318,8 +1361,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"i will try to invert the ritual, and we will side with goblins after, but present shadow druids as an asset. perusade lazel astarion shadowhart after taking them to the side."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Shattered Sanctum - War Room Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 0) | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1343,8 +1389,11 @@ Pros: Maximizes time for subversion, Avoids further goblin scrutiny
 Cons: Travel might be dangerous at night
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Risen Road (Traveling toward the Emerald Grove)** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1368,8 +1417,11 @@ By the time the first grey light of dawn touches the horizon, you stand overlook
 God Mode:
 you're not annotating my modifiers and DC properly for dice rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -1379,8 +1431,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Gate (The Porcelain Victim) - Walk up to the Tiefling guards looking fragile and exhausted to gain easy entry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -1394,8 +1449,11 @@ Now, you approach the gate. Zevlor and his tiefling guards look down from the ra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit administration and proceed with the infiltration of the Emerald Grove.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -1418,8 +1476,11 @@ You pass through the threshold, the 'Rite of Thorns' humming with a honeyed, iro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manipulate Zevlor - Use your current &#x27;victim&#x27; status to gather intelligence from the tiefling leader about Grove defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Emerald Grove Gates (Inner Entrance)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 0) | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1437,8 +1498,11 @@ Through your 'victim' lens, you see the cracks in his armor. He's desperate for 
 God Mode:
 Always generate resources header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Emerald Grove Gates** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 0/5 | Spells: L1 0/4, L2 0/3, L3 0/2 | Bardic Inspiration: 0/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1448,8 +1512,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Offer to inspect the gate but use Astsrion or someone with the best chances. I leave wyll back at camp and gale and just keep shadowheart Astarion laezel for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1465,8 +1532,11 @@ In the background, Gale and Wyll remain by the fireside, their forms silhouetted
 God Mode:
 The shadow Druid thing was a secret in bg3 should Zevlor know about it now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Emerald Grove Gates (Internal Area)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 2026 DR (08:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1476,8 +1546,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Send my good characters back to camp and ensure my evil ones with me: shadow heart laezel Astarion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -1505,8 +1578,11 @@ He doesn't know. He sees the smoke of their radicalization but hasn't found the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene in the Trial of Arabella - Head to the sanctum and use the &#x27;Porcelain Victim&#x27; act to disrupt Kagha&#x27;s judgment of the tiefling child.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1524,8 +1600,11 @@ You collapse gracefully onto your knees just at the edge of the sacred circle, y
 > 👤 **Player:**
 > *"THINK:Knowing my goal is inverting the ritual how can I use situation to my advantage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:20 (Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1535,8 +1614,11 @@ You pause, the violet of your irises pulsing as your mind attempts to weave the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Siren&#x27;s Gaze: Appeal to Purity - Challenge Kagha&#x27;s resolve by framing yourself as a &#x27;pure&#x27; vessel horrified by the imbalance of killing a child.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1564,8 +1646,11 @@ Kagha stiffens. The massive serpent, Teela, pauses its rhythmic swaying, its yel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Purity Argument - Argue that the Shadow Druids&#x27; path is the &#x27;truer&#x27; purity, subtly hinting you know of her secret alliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1583,8 +1668,11 @@ Kagha's breath hitches, a sharp, ragged sound. Her gaze darts to the Shadow Drui
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Secret - Speak more openly of the &#x27;Shadows&#x27; to force her into a defensive, submissive posture before her peers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -1610,8 +1698,11 @@ Kagha's grip on her staff is white-knuckled, the wood groaning under the strain.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Prophet of the Shadow - Pivot the argument. Instead of threatening her, frame yourself as a fellow seeker of the &#x27;Dark Purity&#x27; sent to guide the Rite.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -1627,8 +1718,11 @@ Kagha's staff wavers. The jagged fury in her eyes is eclipsed by a sudden, breat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seduce the Serpent - Continue the verbal seduction, leading Kagha into a private alcove to discuss the &#x27;True Rite&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -1650,8 +1744,11 @@ You lead her, a porcelain queen guiding her new high priestess into the gloom. A
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Rite Mechanics - Engage Kagha in deep theological debate about the Shadow Purity to learn the technical requirements for the Rite of Thorns inversion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Druid's Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1677,8 +1774,11 @@ She pauses, a flicker of her old paranoia returning. She realizes she's speaking
 > [!NOTE] ⚙️ **Player Choice:**
 > *Empathetic Manipulation - Comfort her. Frame the secret-sharing as an act of trust that binds you together.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -1713,8 +1813,11 @@ She pauses, her eyes searching Nocturne's for confirmation. "I have the scroll..
 God Mode:
 Let's change things so i already have soul steal at level 5 instead of needing to wait level 6
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:37)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1724,8 +1827,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ask kagha to let me read the scroll and show me the chant. Explain I can use my soul steal power to empower the ritual far better than some child's blood. Tell her to bring prisoner and I can demonstrate soul steal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6800/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1764,8 +1870,11 @@ Kagha’s breath is shallow, her eyes darting toward the hidden chest. The logic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study the Scroll - Commit the Inversion Canticle and somatic patterns to memory before the goblin arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6900/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5 | Soul Trophies: 0/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1783,8 +1892,11 @@ Outside the alcove, the heavy thud of hobnailed boots signals the arrival of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Cruel Word - Kill Sazza with Vicious Mockery and Siphon her soul immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 
@@ -1810,8 +1922,11 @@ Kagha stands frozen, her staff clattering to the floor as she watches the harves
 God Mode:
 Fix my spells and equipment in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7160/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1821,8 +1936,11 @@ You pause to consider your options...
 God Mode:
 What's sirens skin do? Why don't it stack?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 0) | XP: 7060/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1832,8 +1950,11 @@ You pause to consider your options...
 God Mode:
 What does sirens skin do again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7110/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1843,8 +1964,11 @@ You pause to consider your options...
 God Mode:
 Do I have anything to wear that doesn't count as armor but gives some additional benefit like spell caster robe? Assume we did a decent amount of act 1 in bg3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Druid Inner Sanctum** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7110/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5 | Soul Trophies: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1863,8 +1987,11 @@ You pause to consider your options...
 God Mode:
 Answer my q
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Druid Inner Sanctum (Private Alcove)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7110/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1874,8 +2001,11 @@ You pause to consider your options...
 God Mode:
 What's advantage silk abyssal weaver giveV
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7170/14000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1885,8 +2015,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Inner Sanctum. Sazza&#x27;s soul has been consumed, and Kagha is waiting in religious awe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 
@@ -1896,8 +2029,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Druid Inner Sanctum following Sazza&#x27;s death.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 
@@ -1913,8 +2049,11 @@ She looks up at you, her face a mask of ecstatic submission. "The Inversion Cant
 > 👤 **Player:**
 > *"THINK:What if I get my evil companions to support me and then I use my soul stealing magic during ritual of thorns to steal as many souls as possible from tieflings. Then when minthara comes have the shadow Druids join the absolute under my leadership. App rather than making a wall of thorns I'll just power myself up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 (Temp: 5) | XP: 7170/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1924,8 +2063,11 @@ You pause as the Abyssal energy from the siphon settles, the cloying lavender in
 > 👤 **Player:**
 > *"Brief evil assets and command secret ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Druid Inner Sanctum - Private Alcove** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 7170/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -1943,8 +2085,11 @@ Nocturne watches as the Druid moves toward the central idol, her jerky movements
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Secret Ritual - Order Kagha to begin the somatic preparations for the Inversion while you oversee the &#x27;raid&#x27; setup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 
@@ -1964,8 +2109,11 @@ She moves toward the central idol, her throat beginning to vibrate with the firs
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee the Inversion - Remain with Kagha to ensure the Abyssal resonance remains stable during the transition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -1983,8 +2131,11 @@ Victory! You gain **500 XP** for successfully initiating the Inversion and secur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Anchor - Exert your direct will (CHA/Arcana) to bind the Abyssal energy to the stone, forcing the ritual into stability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 
@@ -2000,8 +2151,11 @@ The anchor does not stabilize. Instead, it becomes a jagged shard of reality. Th
 > 👤 **Player:**
 > *"Reroll let's assume I used guidance from shadow heart and bardic inspiration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Druid Inner Sanctum (Rite of the Shattered Rose)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 8670/14000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Anchor | Exhaustion: 0 | Inspiration: No**
@@ -2017,8 +2171,11 @@ In the distance, the war-horns of Minthara’s band grow louder, a brass heraldr
 > 👤 **Player:**
 > *"Do the soul harvest and get some goblins too. Try to max as many souls as possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 
@@ -2041,8 +2198,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Level Up to Level 6 - Apply level 6 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Druid Inner Sanctum (Ritual Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 2026 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 39/39 | XP: 14670/23000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -2052,8 +2212,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Make sure kagha enthralled and command her to command the shadow Druids to go outside and help funnel as many as possible in to my soul harvest. Keep soul harvesting and tell me how many people I get. Try to get all the thieflings and some goblins and high level absolute forces and I'll later claim it was an accident"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Druid Inner Sanctum (The Ruined Grove)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 39/39 | XP: 20610/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4 (Used/Max), L2 0/3, L3 0/3 | Bardic: 4/5 | Souls Harvested: 55** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -2073,8 +2236,11 @@ Kagha collapses at your feet, her body a drained husk, but the Grove is secured 
 God Mode:
 I should get some special powers for the soul harvest themed to shadow Druids and useful to my build. Also did you calc my exp properly? Give me full exp per individual killed with 20% soul harvest bonus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Druid Inner Sanctum (The Desecrated Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:30 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 39/39 | XP: 26550/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 0/4, L2 0/3, L3 0/3 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -2084,8 +2250,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Divine Instability - Tell Minthara the &#x27;Absolute&#x27;s power&#x27; was too great for the druids to contain, causing the accidental harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -2108,8 +2277,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 God Mode:
 Level Up to Level 7 - Apply level 7 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Druid Inner Sanctum (The Desecrated Grove)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 (Thrall Penalty: -4) | XP: 30774/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Inversion Master | Exhaustion: 0 | Inspiration: Yes**
@@ -2119,8 +2291,11 @@ You pause to consider your options...
 God Mode:
 Pick greater invis for 4th level spell instead of charm monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Druid Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30774/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 5/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -2130,8 +2305,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Show minthara that the shadow Druids report to me and try to get a high rank in absolute hierarchy maybe one below her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 
@@ -2151,8 +2329,11 @@ You feel the stolen essences of the Shadow Druids crystallizing within you. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Authority - Formalize your command over the Shadow Druids and the newly conquered Grove as the Absolute&#x27;s First Disciple.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 
@@ -2170,8 +2351,11 @@ She offers a stiff, warrior's nod—the first true acknowledgement of rank. Noct
 God Mode:
 Give me overview of absolute ranks and where I stand
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Emerald Grove - Inner Sanctum (Conquered)** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2181,8 +2365,11 @@ You pause to consider your options...
 God Mode:
 To minthara the ritual I did was not an accident it was intended. The accident I say to her is the friendly fire
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Hammer 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim | Exhaustion: 0 | Inspiration: Yes**
@@ -2192,8 +2379,11 @@ You pause to consider your options...
 God Mode:
 To minthara the ritual I did was not an accident it was intended. The accident I say to her is the friendly fire
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Emerald Grove - Inner Sanctum (Conquered)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Absolute Resilience (Trophy)**
@@ -2203,8 +2393,11 @@ You pause to consider your options...
 God Mode:
 No it was to empower myself and easily kill the defenders
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Druid Inner Sanctum (Emerald Grove)** &nbsp;|&nbsp; ⏳ **Month 1, 1492 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5 | Souls: 1/1 (Absolute Resilience)** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple**
@@ -2214,8 +2407,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Inner Sanctum. Minthara is digesting the tactical brilliance of your &#x27;intentional&#x27; harvest while you stand as the Absolute&#x27;s First Disciple.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 
@@ -2240,8 +2436,11 @@ Minthara pauses, her hand tightening on the pommel of her blade. She looks at Ka
 > *"have my companions get the best loot from grove and command shadow Druids to give best gear. Prioritize spell save DC gear for me and anything useful for evil companions
 while they do this I will work with kagha and the best shadow druid magic users to see if I can learn how to do mass soul harvest as a spell without needing the full ritual or any ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 
@@ -2332,8 +2531,11 @@ The rewards are narratively appropriate but mechanically undertuned for the risk
 Sources
 [1] noctune-bg3-v6.txt https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/53996179/edd1d730-b2d5-4e99-9f28-e33f057d711b/noctune-bg3-v6.txt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32074/34000 | Gold: 1540gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2359,8 +2561,11 @@ You pause to consider your options...
 > *"have my companions get the best loot from grove and command shadow Druids to give best gear. Prioritize spell save DC gear for me and anything useful for evil companions
 while they do this I will work with kagha and the best shadow druid magic users to see if I can learn how to do mass soul harvest as a spell without needing the full ritual or any ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > ✨ **HD: 6/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | Bardic: 4/5 | Exhaustion: 0**
@@ -2393,8 +2598,11 @@ While the looting proceeds, you retreat into the deepest alcove with Kagha. You 
 > 👤 **Player:**
 > *"Have the shadow Druids given me rhe best spell dc gear they have then intimidate or persuade goblins to give me the best gear after having minthara introduce me and my rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -2434,8 +2642,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Adjust state, equip new gear, and continue spell research while companions secure the perimeter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -2483,8 +2694,11 @@ If you continue adventuring, you remain Level 8 and defer these benefits until y
 God Mode:
 Show the stats for all the gear I got and make sure I equip the best spell DC gear and show me before/after spell DC. Then explain why I'm level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 6/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2513,8 +2727,11 @@ You pause to consider your options...
 God Mode:
 Level up to 8 and is my cha capped at 20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 
@@ -2524,8 +2741,11 @@ You pause to consider your options...
 God Mode:
 Ok give me asi+2 and let me pick a spell if I get one and asi is cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2535,8 +2755,11 @@ You pause to consider your options...
 God Mode:
 Narrate me finishing my patron mission and let her talk to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 7/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2546,8 +2769,11 @@ You pause to consider your options...
 God Mode:
 At level 8 do I get another spell?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes**
@@ -2604,8 +2830,11 @@ Sources
 [12] Full Spellcasters Are Overpowered in 5e ~ Can We Fix This? https://www.hipstersanddragons.com/spellcasters-overpowered-5e-dnd/
 [13] Wild Shapes EVERY Druid Should Learn - YouTube https://www.youtube.com/watch?v=icfCTaEhj7Y
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 34774/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 7/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2622,8 +2851,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Spell Research - Dedicate the next hour to working with Kagha to perfect the Mass Soul Harvest spell (DC 22).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 
@@ -2652,8 +2884,11 @@ She vanishes, leaving only the scent of brine and a cold, empowering heat in you
 God Mode:
 Show me my spell SC calc again and then make sure it's reflected in game stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2682,8 +2917,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:How many shadow do I have ? What if I take kagha and Oladan with me and say 10 strongest and leave the rest to manage grove and recruit new members. What advantage does holding the grove give me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2693,8 +2931,11 @@ You have exactly 70 personnel: 40 guards, 7 elite combatants, 20 spies, and 3 co
 > 👤 **Player:**
 > *"I will take kagha oladan and 10 strongest and 10 spies and leave the rest and order them to grow their numbers. Then I'll personally intimidate goblins and look for more loot for my companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 
@@ -2708,8 +2949,11 @@ You map out the shadows in your mind. The math of your hierarchy is precise, yet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Form the Elite Vanguard - Take Kagha, Olodan, 10 Elites, and 10 Spies as your personal retinue. Order the rest to garrison the Grove and recruit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 
@@ -2737,8 +2981,11 @@ Shadowheart and Lae'zel flank you, their presence a dark shield that ensures no 
 > 👤 **Player:**
 > *"THINK:What happened to the good hero's? I wanna try to persuade them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Emerald Grove - Inner Sanctum (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2748,8 +2995,11 @@ You pause, the violet of your irises pulsing as you attempt to map the movement 
 > 👤 **Player:**
 > *"Logic lesser evil. Explain it was necessary for greater good. If wyll doesn't agree say I know he's a warlock so don't be hypocrite. Have my elite shadow Druids and companions standing by to kill the good hero's if they don't agee."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -2759,8 +3009,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Logic lesser evil. Explain it was necessary for greater good. If wyll doesn't agree say I know he's a warlock so don't be hypocrite. Have my elite shadow Druids and companions standing by to kill the good hero's if they don't agee."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 
@@ -2786,8 +3039,11 @@ They stand defeated, not by your blade, but by the cold, Abyssal logic you've wo
 God Mode:
 Keep generating section header and resources
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Emerald Grove - The Hollow (Ruined)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 (Temp: 0) | XP: 35674/48000 | Gold: 1540gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2797,8 +3053,11 @@ You pause to consider your options...
 God Mode:
 Is this right? I didn't use all my spells Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Emerald Grove - The Hollow (Ruined)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 2026 DR (Noon (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2808,8 +3067,11 @@ You pause to consider your options...
 God Mode:
 Treat kagha and oladan as my companions and have them accompany me by default. What are their levels and classes?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Emerald Grove - The Hollow (Desecrated)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1,540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2819,8 +3081,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Let's hunt halsin. Send my best scouts ahead to look for him and bring my vanguard and companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 
@@ -2846,8 +3111,11 @@ Behind you, the Vanguard of the Shattered Rose—ten elite Shadow Druids and you
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Hunt: Worg Pens - Enter the Goblin Camp and descend into the pens to eliminate or harvest the Archdruid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Goblin Camp - Worg Pens** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 35674/48000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/2 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2876,8 +3144,11 @@ You gain **0 XP** for this turn's interaction as the Archdruid's 'Primal Fury' r
 > 👤 **Player:**
 > *"Cast command grovel halsin and have everyone focus fire until he loses bear form then hold person and soul steal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Worg Pens, Goblin Camp** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 36/36 | XP: 44314/48000 | Gold: 1540gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 1/4, L2 1/3, L3 0/3, L4 0/2 | Bardic: 2/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active)**
@@ -2921,8 +3192,11 @@ Halsin’s body turns to grey ash, scattered by the Abyssal draft. The worg pens
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Absolute Tribute - Use your current &#x27;Sovereign&#x27; aura to strip the Goblin camp of its finest magical items for your companions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Worg Pens / Shattered Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 52954/64000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 5/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -2983,8 +3257,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 God Mode:
 If i vassalizr weak things like goblins does it count toward my hp penalty?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Goblin Camp - Worg Pens** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 52,954/64,000 | Gold: 1,840gp** &nbsp;|&nbsp; ✨ **HD: 6/8 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5 | Soul Trophy: 2/2** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active), Nature's Step (Active)**
@@ -2994,8 +3271,11 @@ You pause to consider your options...
 God Mode:
 Level Up to Level 9 - Apply level 9 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Goblin Camp - Worg Pens (Sanctified by Ash)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/44 (Thrall: -4 Kagha) | XP: 52954/64000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -3005,8 +3285,11 @@ You pause to consider your options...
 God Mode:
 Swap 5th level slot to hold monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Goblin Camp - Worg Pens (Sanctified by Ash)** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/44 | XP: 52954/64000 | Gold: 1,840gp** &nbsp;|&nbsp; ✨ **HD: 1/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active), Nature's Step (Active)**
@@ -3016,8 +3299,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Officially name myself archdruid of the grove now that halsin dead and process his intel and explain his trophy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Goblin Camp - Shattered Sanctum** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 (Temp: 0) | XP: 52954/64000 | Gold: 1840gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Blighted Growth (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3041,8 +3327,11 @@ As the declaration settles, you turn your gaze inward, sorting through the fragm
 > 👤 **Player:**
 > *"Ask minthara if I can consume gut and razglin since they're useless and didn't do anything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -3076,8 +3365,11 @@ Minthara’s eyes narrow, her hand resting white-knuckled on the pommel of her b
 > 👤 **Player:**
 > *"Isolate gut and have my companions and elites standby. Then hold person on her and steal soul. If it fails signal my team to kill her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 
@@ -3121,8 +3413,11 @@ With a sharp, rhythmic intake of breath, you rip the soul from her chest. It is 
 > 👤 **Player:**
 > *"Have vanguard loot everything from gut"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -3132,8 +3427,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seed Shadow Spies - Send your 10 spies to infiltrate Ragzlin&#x27;s guards and prepare for a coordinated strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Shattered Sanctum - Priestess Gut's Chambers** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3151,8 +3449,11 @@ The spies vanish. You stand in the silence of the plundered room, the Amulet of 
 > 👤 **Player:**
 > *"Reroll guidance enhance ability bardic insp 1d20+5 = 13 vs DC 15 - Failure (Vanguard Investigation)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 
@@ -3178,8 +3479,11 @@ The spies vanish into the darkness. You stand in the silence of the plundered ro
 > 👤 **Player:**
 > *"Initiate Geometric Un-Zipping - Execute the Level 13 spell to begin the systematic removal of Ao's administrative layer."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 17/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Abyssal Backlash | Exhaustion: 0 | Inspiration: No**
@@ -3195,8 +3499,11 @@ Nocturne is thrown back against the stone wall, her marble-pale skin glowing wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Shadow - Walk directly into the throne room and demand he kneel, presenting the harvested souls of Halsin and Gut as proof of your divine authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3216,8 +3523,11 @@ The spies vanish into the darkness. You stand in the silence of the plundered ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Royal Audience - Invite Ragzlin to Gut&#x27;s private chambers under the guise of &#x27;Disciple&#x27; business to isolate him for a harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3237,8 +3547,11 @@ The spies vanish into the darkness. You stand in the silence of the plundered ro
 > 👤 **Player:**
 > *"Hold person on him and have vanguard tie him up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Shattered Sanctum - Priestess Gut's Private Quarters** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 53494/64000 | Gold: 1920gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 2/3 (1 used), L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3281,8 +3594,11 @@ The harvest is a violent, ecstatic surge. You gain **540 XP** as the Hobgoblin K
 > 👤 **Player:**
 > *"Intimidate goblins since I stole soul from two leaders, raid vault, then finalize mass soul harvest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Shattered Sanctum - The Throne Room & Vaults** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 55434/64000 | Gold: 2420gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Unarmored Defense | Exhaustion: 0 | Inspiration: Yes**
@@ -3300,8 +3616,11 @@ Retreating to the quiet of the plundered Inner Sanctum, you return to the somati
 > 👤 **Player:**
 > *"Finish learning mass soul harvest and delegate the reader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56434/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Mass Soul Harvest (Learned) | Exhaustion: 0 | Inspiration: Yes**
@@ -3323,8 +3642,11 @@ He doesn't bow. He watches you with the clinical curiosity of a man examining a 
 God Mode:
 How does mass soul harvest work?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56434/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Blighted Growth | Exhaustion: 0 | Inspiration: Yes**
@@ -3334,8 +3656,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Use normal soul steal on a few goblins to demonstrate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **1 15, 2026 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56614/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3345,8 +3670,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with Krellis&#x27;s reaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 
@@ -3381,8 +3709,11 @@ He gestures to his skeletal guards, who shift their stances from interrogation t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Strategic Efficiency - Explain that your methods allow for mass harvests without damaging the &#x27;infrastructure&#x27; of the Absolute&#x27;s army.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 
@@ -3417,8 +3748,11 @@ He gestures to his skeletal guards, who shift their stances from interrogation t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Next Directives - Assert your rank as First Disciple and demand Krellis provide the General&#x27;s next orders for the march on Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 
@@ -3450,8 +3784,11 @@ Outside, the world moves on. A Zhentarim caravan, attempting to bypass your bloc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Demand orders from Krellis while sending the Shadow Spies to track Aradin and comforting Astarion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 56794/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3490,8 +3827,11 @@ With a silent flick of your wrist, you signal the Shadow Spies. They melt into t
 > 👤 **Player:**
 > *"Send elite scouts to find Gale and wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 57474/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3530,8 +3870,11 @@ With a silent flick of your wrist, you signal the Shadow Spies. They melt into t
 > 👤 **Player:**
 > *"Have my elite spies find wyll and gale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 
@@ -3560,8 +3903,11 @@ As the report concludes, a messenger armored in the sterile, bone-white plates o
 > 👤 **Player:**
 > *"Send elites to collect Aradin and my companions and rest of vanguard move to get gale and wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 
@@ -3585,8 +3931,11 @@ You reach the ruins as the moon reaches its zenith. The stone walls of the old t
 > 👤 **Player:**
 > *"Have vanguard get in position and go and try to convince wyll and gale to rejoin me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58514/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3604,8 +3953,11 @@ Wyll’s jaw works in silent rage, his hand white-knuckled on his rapier. He loo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Vow - Demand they formally rejoin the Vanguard as &#x27;First Disciple&#x27;s Shields&#x27; under a tactical oath.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3652,8 +4004,11 @@ Wyll’s jaw works in silent rage, his hand white-knuckled on his rapier. He loo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Vow - Demand they formally rejoin the Vanguard as &#x27;First Disciple&#x27;s Shields&#x27; under a tactical oath.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58014/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3690,8 +4045,11 @@ You stand as the Sovereign of a unified Vanguard. You have forced the vow, turni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Aradin - Extract the specific locations of the secret caches mentioned in the stolen map before executing/siphoning him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 
@@ -3701,8 +4059,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Aradin - Extract the specific locations of the secret caches mentioned in the stolen map before executing/siphoning him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Risen Road - Tollhouse Ruins** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 58234/64000 | Gold: 3020gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 2/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 2/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Cunning Insight | Exhaustion: 0 | Inspiration: Yes**
@@ -3746,8 +4107,11 @@ Pros: Provides technical advantage against the curse, Consolidates Grove assets
 Cons: Minor delay in the march
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 
@@ -3773,8 +4137,11 @@ Minthara turns, her eyes narrowing as she rakes her gaze over your porcelain fea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage the Prism - Inform Minthara that the Githyanki hunt the &#x27;weapon&#x27; (Shadowheart&#x27;s Prism) and must be eliminated to secure the Absolute&#x27;s prize.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 
@@ -3807,8 +4174,11 @@ Minthara’s eyes lock onto yours, searching for a fracture in your porcelain fa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - The main Vanguard marches to the Pass while Spies retrieve notes and Shadowheart prepares a ritual ward.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 
@@ -3832,8 +4202,11 @@ As the stone arches of the Mountain Pass loom ahead, the scent of dragon-fire an
 God Mode:
 i should have full spell slots, i didnt use any today
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Risen Road - Mountain Pass Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 59374/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3843,8 +4216,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"send scouts/spies ahead to the gith camp and use invis and try to scout the red dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -3868,8 +4244,11 @@ Resources: HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/1 | Bardic: 3/
 > 👤 **Player:**
 > *"THINK:would i be able to cc the dragon?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Mountain Pass Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 (Temp: 0) | XP: 59374/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3879,8 +4258,11 @@ You pause, the cold Abyssal energy in your veins pulsing in rhythmic synchronici
 > 👤 **Player:**
 > *"THINK:Whats the best plan? Maybe i can hyp pattern everyone first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Mountain Pass Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 59374/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -3892,8 +4274,11 @@ You stare into the sulfurous haze of the valley, your violet eyes attempting to 
 > 👤 **Player:**
 > *"surgical strike. use high stealth vanguard members and have my larger army wait on standby. Surgical strike with vanguard elites + companions. Trigger surprise round and open with hyp pattern and try to cc dragon, voss, and all the gith. As soon as we engage signal main army to surround and attack/capture too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 
@@ -3930,8 +4315,11 @@ Resources: HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 0/1 | Bardic: 3/
 > 👤 **Player:**
 > *"bind voss, cast mass soul steal, tell dragon to surrender or i kill voss. use guidance, enhance ability, bardic insp on the roll. have everyone else bind the gith but prioritize staying out of dragon fire range"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 
@@ -3965,8 +4353,11 @@ Qudenos lets out a sound that is half-roar and half-whimper, a gutteral vibratio
 > 👤 **Player:**
 > *"command troops to bind the dragon and evryone else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Mountain Pass Bridge - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 60514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 2/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4003,8 +4394,11 @@ Qudenos lets out a sound that is half-roar and half-whimper, his massive head lo
 > 👤 **Player:**
 > *"THINK:my main goal is dragon vassal, soul steal voss, soul steal others in that order. Whats the best way to handle this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Mountain Pass Bridge - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 60514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 0/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4014,8 +4408,11 @@ You pause, your unblinking violet eyes tracing the sulfurous heat-shimmer of the
 > 👤 **Player:**
 > *"take voss out of eyesight of dragon and steal his soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 
@@ -4025,8 +4422,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"take voss out of eyesight of dragon and steal his soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Mountain Pass Bridge - Shadowed Ridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 60514/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4048,8 +4448,11 @@ Victory! You gain **2,016 XP** for the harvest of Kith'rak Voss. Your notoriety 
 > 👤 **Player:**
 > *"use the knowledge i gained from voss's soul to dominate the dragon, at least finding the info should be easy since i stole his soul. give silver sword to laezel to rewardh er for her service"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Mountain Pass - Broken Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 61390/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4089,8 +4492,11 @@ Lae'zel takes the sword with trembling hands, her eyes wide as she feels the res
 God Mode:
 what trophy did i get from voss
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Mountain Pass - Broken Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 61390/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4100,8 +4506,11 @@ You pause to consider your options...
 God Mode:
 can i enthrall raiders or will it give me hp penalty?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Mountain Pass Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 61390/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4111,8 +4520,11 @@ You pause to consider your options...
 God Mode:
 can i enthrall raiders or will it give me hp penalty?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Mountain Pass Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 2026 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 61390/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4122,8 +4534,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"mount the dragon to show dominance to githyanki, my troops, and minthara and her troops, then tell the githyanki to vassalize themselves and swear themselves to me. Steal the soul of one to intiimdate them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Mountain Pass Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/44 | XP: 61390/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 0/3, L3 1/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 4/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Silver Aegis | Exhaustion: 0 | Inspiration: Yes**
@@ -4133,8 +4548,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"mount the dragon to show dominance to githyanki, my troops, and minthara and her troops, then tell the githyanki to vassalize themselves and swear themselves to me. Steal the soul of one to intiimdate them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 
@@ -4172,8 +4590,11 @@ Minthara watches from below, her white hair a pale flame in the dark. For the fi
 > 👤 **Player:**
 > *"THINK:brainstorm a way to be able to ride the dragon without always needing intimidation checks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Mountain Pass Bridge - Aboard Qudenos** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 | XP: 63946/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Bardic: 3/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 0/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4183,8 +4604,11 @@ You settle into the ridge of Qudenos's shoulders, the heat radiating from his cr
 > 👤 **Player:**
 > *"interrogate gith raiders and ensure they swear loyalty to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Mountain Pass Bridge** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 40/40 (Temp: 0) | XP: 63946/64000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/9 | Spells: L1 0/4, L2 1/3, L3 1/3, L4 0/3, L5 1/1 used (0 remaining) | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4231,8 +4655,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Anchor Binding - Use Voss&#x27;s stolen memories to permanently weave your Abyssal resonance into the dragon&#x27;s psychic triggers, mimicking the Kith&#x27;rak bond.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 
@@ -4264,8 +4691,11 @@ Minthara watches from the dust of the bridge, her eyes wide as she witnesses the
 God Mode:
 Level Up to Level 10 - Apply level 10 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Mountain Pass Bridge - Atop the Red Dragon** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 40/40 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/10 | Spells: L1 0/4, L2 1/3, L3 1/3, L4 0/3, L5 0/2 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4275,8 +4705,11 @@ You pause to consider your options...
 God Mode:
 Select New Expertise - Specify the two skills to gain Expertise in.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Mountain Pass Bridge - Atop the Red Dragon** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 44/44 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/10 | Spells: L1 0/4, L2 1/3, L3 1/3, L4 0/3, L5 0/2 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4287,8 +4720,11 @@ God Mode:
 expertise: intimidation and auto pick a theme for me
 magic secrets: counterspell and dominate person
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Mountain Pass Bridge - Atop the Red Dragon** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 40/40 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/10 | Spells: L1 0/4, L2 1/3, L3 1/3, L4 0/3, L5 0/2 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4298,8 +4734,11 @@ You pause to consider your options...
 God Mode:
 i already have expertise in persuasion and deception?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Mountain Pass Bridge - Atop the Red Dragon** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 44/44 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 8/10 | Spells: L1 0/4, L2 1/3, L3 1/3, L4 0/3, L5 0/2 | Bardic: 3/5** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4309,8 +4748,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative atop the dragon as the First Disciple prepares the march to the Shadow-Curse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 
@@ -4334,8 +4776,11 @@ Astarion sidles up to the base of the dragon, the Szarr ring glinting on his fin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Gith Vassals - Use your new Insight expertise to extract specific intel from the survivors about Crèche Y&#x27;llek&#x27;s defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 
@@ -4363,8 +4808,11 @@ You lean back, the brine-and-ozone scent of your presence intensifying. You have
 > 👤 **Player:**
 > *"THINK:How wabout htis. have my gith vassals lure out wargaze and tell him you've found the artifact. Have my absolute goblin forces attack creche and retreat to lure them out. Then when wargaze is out we trigger surprise round and attack with elite first and then the whole absolute army. Then I use my dragon and burn a few folks and intimidate them into srrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 
@@ -4374,8 +4822,11 @@ You sit atop the heat-shimmering scales of Qudenos, staring down at the broken l
 > 👤 **Player:**
 > *"lure and ambush but ill trigger surprise round myself. have someone cast haste and greater invis on me and ill trigger with hyp pattern. goblins will be fodder and engage first and vanguard right after when safe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Mountain Pass Bridge - Crèche Y'llek Threshold** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 2/3 used (1 remaining), L4 1/3 used (2 remaining), L5 0/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Haste, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4399,8 +4850,11 @@ The goblin fodder surges forward, their jagged blades finding the gaps in the dr
 > 👤 **Player:**
 > *"bind everyone and wargaze. have my dragon burn one prisoner and i steal soul from one to intimiidate them into surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1**
@@ -4442,8 +4896,11 @@ The weight of your Intimidation (Total: 36) is a physical blow to the Inquisitor
 > 👤 **Player:**
 > *"THINK:asses wargaz. could i enthrall him? would it be better to just steal soul?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Mountain Pass Bridge - Atop the Red Dragon** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Predator Phase, Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4453,8 +4910,11 @@ You remain seated upon the heat-shimmering ridges of Qudenos, looking down at th
 > 👤 **Player:**
 > *"THINK:Execute All Simultaneously - Harvest W&#x27;wargaz while simultaneously ordering the Vanguard to secure the Crèche threshold and the Spies to sweep for the solar machine."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Mountain Pass Bridge - Atop the Red Dragon** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4464,8 +4924,11 @@ You remain seated upon the heat-shimmering ridges of Qudenos, looking down at th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Grand Harvest - Execute W&#x27;wargaz for his soul while the Vanguard secures the threshold and Spies sweep for the solar machine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Mountain Pass - Crèche Y'llek Threshold** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 65578/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4485,8 +4948,11 @@ You stand amidst the ash of an Inquisitor, the dragon looming behind you and an 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to the Solar Machine - Lead the Vanguard into the monastery depths to seize the Blood of Lathander and weaponize the solar machine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 
@@ -4508,8 +4974,11 @@ Nocturne is thrown back by the sheer, radiant pressure, her porcelain skin glowi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Resonance - Use Voss&#x27;s memories and your own Abyssal will to force the solar machine into a stable, dark-aligned harmonic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Crèche Y'llek - Solar Machine Vault (Meltdown Imminent)** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 34/49 | XP: 65578/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Radiant Searing | Exhaustion: 0 | Inspiration: Yes**
@@ -4527,8 +4996,11 @@ Outside, the world has turned to gold. From the vaulted corridor, the rhythmic t
 > 👤 **Player:**
 > *"1d20 + 6 CHA + 8 PROF + 5 UNCANNY = 20 vs DC 22 - Failure (Charisma (Abyssal Will)) reroll with guidance, enhance ability, bardic insp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 4/5 | Blighted Growth: 1/1**
@@ -4548,8 +5020,11 @@ Victory! You gain **1,200 XP** for mastering the Solar Machine and securing the 
 > 👤 **Player:**
 > *"reroll with guidance, enhance ability, baridic insp  1d20 + 6 CHA + 8 PROF + 5 UNCANNY = 20 vs DC 22 - Failure (Charisma (Abyssal Will)) reroll with guidance, enhance ability, bardic insp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Crèche Y'llek - Solar Machine Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 65578/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Radiant Searing (1hr) | Exhaustion: 0 | Inspiration: Yes**
@@ -4567,8 +5042,11 @@ But the beacon has done its work. The monastery is no longer a secret. Through t
 God Mode:
 shouldnt the creche have already surrendered at this point?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Crèche Y'llek - Solar Machine Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 64378/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Radiant Searing | Exhaustion: 0 | Inspiration: Yes**
@@ -4578,8 +5056,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Weaponize the Machine - Use your mastery of the resonance to fire a pulse of dark-aligned radiant energy down the main corridor to incinerate the approaching garrison.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 
@@ -4589,8 +5070,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resuming the confrontation with the closing garrison.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 2/5 | Blighted Growth: 1/1**
@@ -4610,8 +5094,11 @@ From the pass, the shadows of Kar'niss and his convoy have halted. They have see
 God Mode:
 You're not generating session header and resources porpelry
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Crèche Y'llek - Solar Machine Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 65578/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 0/3, L3 2/3, L4 1/3, L5 0/2 | Bardic: 2/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Predator Phase, Psionic Barrier | Exhaustion: 0 | Inspiration: Yes**
@@ -4621,8 +5108,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my vassal gith encourage others to surrender then execute all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1**
@@ -4660,8 +5150,11 @@ You gain **1,800 XP** for the systematic harvest of the remaining Crèche forces
 God Mode:
 Anything unclear in the system instructions I sent you or prompt?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Crèche Y'llek - Solar Machine Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 67378/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4671,8 +5164,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the march toward the Mountain Pass rendezvous with Kar&#x27;niss now that the Crèche is ash.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 
@@ -4682,8 +5178,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the march toward the Mountain Pass rendezvous with Kar&#x27;niss.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1**
@@ -4720,8 +5219,11 @@ Kar'niss lowers his upper body in a jerky, terrified bow, his many eyes dilated 
 > 👤 **Player:**
 > *"THINK:Do I have blood of lathander"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Mountain Pass - Convoy Rendezvous** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 67378/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4731,8 +5233,11 @@ You pause as the sulfurous mists of the pass swirl around Qudenos's massive form
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Assume command of the convoy while delegating a small spy detachment to do a final sweep of the ash for the relic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Mountain Pass - Road to the Shadow-Curse** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 68518/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4771,8 +5276,11 @@ You stand—or rather, sit—at the apex of a mobile storm. The Crèche is ash, 
 > 👤 **Player:**
 > *"THINK:If I just kill Karniss and take his lantern would Ketheric be mad?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Mountain Pass - Convoy Rendezvous** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 68518/85000 | Gold: 3120gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4782,8 +5290,11 @@ You pause as the sulfurous mists of the pass swirl around Qudenos's massive form
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Advance the convoy to the tollhouse while Gale and Shadowheart study the Lathanderian relic&#x27;s resonance with the curse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 
@@ -4819,8 +5330,11 @@ As the convoy enters the first true bank of the Shadow-Curse, the world around y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind the Weaver - Formally bind Kar&#x27;niss as a Vassal using the Gilded Tether (or notoriety). Use him as a permanent pack-mule and scout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Mountain Pass - Shadow-Curse Threshold** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 49/49 | XP: 69298/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 4/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4857,8 +5371,11 @@ Kar'niss shudders as the Abyssal collar snaps around his mind. He doesn't scream
 > 👤 **Player:**
 > *"Release kagha as an official thrall and just keep her socially dominated"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 
@@ -4893,8 +5410,11 @@ You feel the weight of her devotion anchor itself into the Vanguard's momentum. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct March to Tollhouse - Maintain the current formation. Focus on reaching the Reithwin Tollhouse to secure the next strategic waypoint.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 
@@ -4937,8 +5457,11 @@ You feel the weight of the moment converge. The Shadow-Curse is thinning around 
 God Mode:
 Give me a potential arc where I can side with the absolute forces and attack or subvert baldurs gate while still loyal to them. Do not force conflict
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Shadow-Cursed Lands - Reithwin Outskirts** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 70498/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4948,8 +5471,11 @@ You pause to consider your options...
 God Mode:
 What's the battery empower you're talking about ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 
@@ -4959,8 +5485,11 @@ You pause to consider your options...
 God Mode:
 What's the battery empower you're talking about ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Shadow-Cursed Lands - Reithwin Outskirts** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 70498/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4970,8 +5499,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Demand rank at the gate while Astarion and spies scout the vault entrance under the cover of your arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Shadow-Cursed Lands - Reithwin Outskirts** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (06:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 70498/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -4981,8 +5513,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Return to story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 
@@ -4992,8 +5527,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Command the garrison to kneel under Kagha&#x27;s oversight while you and Astarion breach the vault.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Reithwin Outskirts - Tollhouse Gate** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 71838/85000 | Gold: 3570gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 4/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5016,8 +5554,11 @@ Pros: Maximum efficiency, Secure both intel and artifacts
 Cons: Divided focus, High coordination DC (+2)
 Assessment: medium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1**
@@ -5050,8 +5591,11 @@ Skill Used: Intimidation | Roll: 37 vs DC 18 | Social HP Damage: 2 (Masterful Su
 God Mode:
 make sure you awarded me proper loot/items exp for all the wins but dont double count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Reithwin Tollhouse - The Abyssal Descent** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 4320gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5080,8 +5624,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Coordinate a secure descent: Spies disable wards, Astarion navigates, and Nocturne stabilizes the relic&#x27;s resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 
@@ -5091,8 +5638,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Coordinate a secure descent: Spies disable wards, Astarion navigates, and Nocturne stabilizes the relic's resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Reithwin Tollhouse - The Abyssal Vault** &nbsp;|&nbsp; ⏳ **1 16, 2026 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 77598/85000 | Gold: 4320gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5110,8 +5660,11 @@ You gain **2,880 XP** for the Masterful parallel execution of this secure descen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Astarion and Nocturne claim the core while the Vanguard extracts intel and the Spies reinforce the cellar threshold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Reithwin Tollhouse - Szarr Abyssal Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 77598/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5133,8 +5686,11 @@ You gain **2,880 XP** for the Masterful parallel coordination of this secure bre
 > 👤 **Player:**
 > *"THINK:What loot did I get and how to distrib?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Reithwin Tollhouse - The Abyssal Descent** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5144,8 +5700,11 @@ You pause as the cold, formaldehyde-scented draft of the vault swirls around you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Equip your gear, delegate the analysis to Astarion, and have the Vanguard distribute the remaining loot while you maintain the relic&#x27;s resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Reithwin Tollhouse - Szarr Abyssal Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 77598/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 1/3, L4 2/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5184,8 +5743,11 @@ You gain **2,880 XP** for the Masterful parallel coordination of this secure cla
 God Mode:
 What cloak did I have before?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Reithwin Tollhouse - Cazador's Abyssal Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 77598/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5195,8 +5757,11 @@ You pause to consider your options...
 God Mode:
 Whats my spell DC? Fix it in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Reithwin Tollhouse - Cazador's Abyssal Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5232,8 +5797,11 @@ WIS	+0	○
 CHA	+5	○
 Features: Soul Siphon (Unlocked at Level 5): +20% Encounter XP, regain spell slot, store 1 Soul Trophy., Siren's Skin: AC = 10 + DEX + CHA., The Gilded Tether (Thralls): Maintain 3 Thralls (Current: Kagha)., Sacrificial Shield: Transfer damage to Thrall., Pheromone Spike: Bonus Action Command., Soul Trophy Slot: 1 (Active: Absolute Resilience)., Thorns of the Heart: Thorns deal 1d6 Piercing to attackers of Thralls., Abyssal Entangle: Restrained targets take 1d6 Necrotic damage., Silk of the Abyssal Weaver: +CHA mod to Cantrip damage & Temp HP., Countercharm: Advantage vs Frightened/Charmed., Greater Siren's Gaze (Level 7): Social HP damage includes +CHA mod., Greater Siren's Gaze (Level 7): Social HP damage includes +CHA mod (+5)., Vanguard's Reflex: Reaction to halve damage 1/Short Rest (Soul Trophy)., Grove Battery: Regain 1x L3 slot at dawn (Permanent Ritual Benefit)., Abyssal Entangle: Restrained targets take 1d6 Necrotic., Thorns of the Heart: 1d6 Piercing reaction damage to melee attackers of you/Thralls., Blighted Growth: 1/day cast corrupted Plant Growth (Advantage on Intimidation in area)., Soul Trophy: Nature's Step (Pass Without Trace +10 Stealth constant)., Soul Trophy: Nature's Step (Pass Without Trace constant), Title: Archdruid of the Blackened Grove, Soul Trophy: Unarmored Defense (AC = 10 + DEX + CHA), Soul Trophy: Cunning Insight (Insight Expertise), Soul Trophy: Silver Aegis (Reaction to halve damage taken from an attack or spell 1/short rest)., Soul Trophy: Silver Aegis (Reaction to halve damage taken 1/short rest)., Soul Trophy: Silver Aegis (Reaction to halve damage 1/short rest), Magical Secrets (Counterspell, Dominate Person), Expertise (Intimidation, Insight), Soul Trophy Slot: 2 (Active: Absolute Resilience, Nature's Step), Predator Phase: No longer blinks; perfect hair; spectral manifestation (Horns/Wings)., Silver Aegis: Reaction to halve damage from an attack/spell (1/short rest)., Soul Trophy: Psionic Barrier (Resistance to Psychic damage), Vassal-Prophet: Kagha (Maintains Grove resonance without HP penalty).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Reithwin Tollhouse - Cazador's Abyssal Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 6820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5258,8 +5826,11 @@ You pause to consider your options...
 God Mode:
 what does the game state say for my spell DC? Show me the exact fields/values
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Reithwin Tollhouse - Vault Core** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5269,8 +5840,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the looting of Cazador&#x27;s hoard with Astarion in the Tollhouse Vault.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 
@@ -5280,8 +5854,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the looting of Cazador&#x27;s hoard with the corrected DC 22.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Reithwin Tollhouse - The Abyssal Vault** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 77598/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5301,8 +5878,11 @@ You gain **2,880 XP** for the Masterful parallel coordination of this secure cla
 > 👤 **Player:**
 > *"Force the Vow - Demand they formally rejoin the Vanguard as &#x27;First Disciple&#x27;s Shields&#x27; under a tactical oath."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 
@@ -5341,8 +5921,11 @@ While you secure the vow, the 'audit' of the Tollhouse proceeds with clinical, b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify the Waypoint - Use the Vanguard and the Lathanderian resonance to turn the Tollhouse into a permanent Abyssal stronghold in the curse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Reithwin Tollhouse - Abyssal Stronghold** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5362,8 +5945,11 @@ You gain **2,880 XP** for the Sharp parallel coordination of this fortification.
 God Mode:
 Already looted cazador horde right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Reithwin Tollhouse - Abyssal Stronghold** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74,718/85,000 | Gold: 6,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5391,8 +5977,11 @@ You have successfully breached and stripped the vault beneath the Reithwin Tollh
 > 👤 **Player:**
 > *"Evaluate using a modified soul steal on blood of lathander to integrate it into my being and gain even more power. Ask my magic companions and shadow Druids to help inanimate soul integration spell research"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 
@@ -5410,8 +5999,11 @@ You lean forward, your violet eyes igniting into twin stars of pink-crimson Abys
 > 👤 **Player:**
 > *"Continue to moonrise"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Reithwin Tollhouse - Abyssal Stronghold** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 6820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5442,8 +6034,11 @@ At your soundless command, the multi-limbed silhouette of Kar'niss skitters forw
 > 👤 **Player:**
 > *"Ask my patron for additional powers, gold, and level 7+ demon specialists and gloomstalker 5 assassin 3+ demon troops. I've accomplished a lot and I'm a dragon rider and secretly tell her I can eventually take over the absolute with her support. Ask for a real demon rank in her hierarchy a with special powers maybe greater demon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Reithwin Tollhouse - Abyssal Stronghold** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5476,8 +6071,11 @@ A shower of coins—5,000 pieces of ancient, Abyssal-stamped gold—cascades fro
 > [!NOTE] ⚙️ **Player Choice:**
 > *March to Moonrise - Lead the dragon, the Vanguard, and the new demonic troops directly to the Towers to claim your rank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Moonrise Towers - Main Approach** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5493,8 +6091,11 @@ Minthara rides beside you, her previous calculation now entirely replaced by a r
 > 👤 **Player:**
 > *"THINK:What's the smartest move here? I don't want to challenge Kerheric directly yet but I can claim a rank right under him due to my power. I'll expand my power base and replace him and the other chosen and control the brain when I can"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Shadow-Cursed Lands - Road to Moonrise (Threshold)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74,718/85,000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Predator Phase, Baroness of the Abyssal Tide**
@@ -5504,8 +6105,11 @@ You pause as the jagged silhouette of Moonrise Towers looms through the rotting 
 > 👤 **Player:**
 > *"Archdruid proposition and have minthara lobby"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Moonrise Towers - Threshold of the Shadow-Curse** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 0/3, L3 2/3, L4 1/3, L5 0/2 | Bardic: 4/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes**
@@ -5533,8 +6137,11 @@ She urges her mount forward, her white hair a pale beacon as she leads your demo
 God Mode:
 Let's make an inspiration mechanic like bg3. Max 4 and give me 4 now. Whenever a companion or I would get inspiration like in bg3 award me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Shadow-Cursed Lands - Moonrise Threshold** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 4/4**
@@ -5555,8 +6162,11 @@ Inspiration mechanic initialized based on BG3 standards. You have been granted 4
 God Mode:
 The Grand Procession - Enter the main hall of Moonrise atop the dragon, flanked by the Crimson Vanguard, to force an immediate recognition of your status.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Moonrise Towers - Bridge Threshold** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 4/4**
@@ -5584,8 +6194,11 @@ Minthara is moving to the front of the line to lobby Ketheric Thorm for your imm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative: Lead the Grand Procession into the main hall of Moonrise to force Ketheric&#x27;s recognition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1 | Inspiration: 3/4**
@@ -5620,8 +6233,11 @@ Ketheric Thorm remains motionless, his gaze fixed upon you—a sixteen-year-old 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge the Weak - Identify a low-ranking True Soul in the room and demand their execution/harvest for &#x27;inefficiency&#x27;, forcing Ketheric to choose between the old guard and your new order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 4/4**
@@ -5653,8 +6269,11 @@ Zephyr falls to his knees, his forehead hitting the stone in a frantic, sobbing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Tithe - Execute Brother Zephyr personally and siphon his soul in front of the General to finalize the rank transition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 76878/85000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Predator Stage | Exhaustion: 0 | Inspiration: 3/4**
@@ -5695,8 +6314,11 @@ Ketheric Thorm watches the harvest with the unmoving gaze of a tombstone. He doe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Sovereignty of the Upper Floors - Assert your rank to claim the most strategically valuable quarters, potentially near Balthazar&#x27;s labs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 76878/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -5730,8 +6352,11 @@ While you secure the upper floors, Astarion and your Shadow Spies execute their 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Occupy the Sovereign Quarters - Establish your base near Balthazar&#x27;s labs and begin the systematic audit of his research.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1 | Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -5751,8 +6376,11 @@ Your mind, sharpened by the 'Predator' stage of your evolution and the silver me
 God Mode:
 Let's have my bosses actively give me  missions like Ketheric or my patron
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 76878/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 2/3, L4 2/3, L5 2/2 | Bardic: 1/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -5776,8 +6404,11 @@ Ketheric Thorm and your patron, Queen Malcanthet, have been updated to actively 
 > 👤 **Player:**
 > *"Continue to research inanimate soul stealing and ask Balthazar for help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75218/85000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1 | Inspiration: 3/4** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -5816,8 +6447,11 @@ Balthazar hitches, his skeletal fingers tapping a rhythmic, clinical beat agains
 > 👤 **Player:**
 > *"Is there a way I can make this research more successful. What if I consume some lesser magic items?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75218/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Predator Phase | Exhaustion: 0 | Inspiration: 3/4**
@@ -5844,8 +6478,11 @@ You look down at your pack. The **Chain Shirt +2**, the **Shadowsilk Wrappings**
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Consume the items to fuel the furnace while simultaneously pressuring Balthazar for the Tower&#x27;s secrets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -5865,8 +6502,11 @@ Balthazar hitches, his green-glowing eyes widening as your Intimidation (Total: 
 God Mode:
 I shouldn't be in sanctuary
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 4/4**
@@ -5882,8 +6522,11 @@ Sanctuary Mode has been deactivated and removed from the campaign state as reque
 > 👤 **Player:**
 > *"Have Gale help me research since he als can consume magic items. Learn the netherse magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 4/4**
@@ -5918,8 +6561,11 @@ The rush of un-refined power is a searing ecstasy that makes your marble skin gl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Integration - Push further into the relic&#x27;s core while the current resonance is stable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75218/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 4/4**
@@ -5937,8 +6583,11 @@ Balthazar watches from the threshold, his bone-masked head tilting in a clinical
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Harmonics - Pause the push to ensure the new solar nodes are properly grounded in your Abyssal marrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -5960,8 +6609,11 @@ You open your eyes, the pink-crimson luminescence in your irises now flecked wit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push for the Fourth Node - Attempt to seize the penultimate node of the relic&#x27;s core while the harmonics are stable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -5975,8 +6627,11 @@ Microscopic cracks spiderweb across your cheeks, glowing with a searing golden h
 > 👤 **Player:**
 > *"Reroll with inspiration and use bardic inspiration guidance enhance ability 1d20+16 = 24 vs DC 25 - Failure (Intelligence (Arcana) / Abyssal Will)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 
@@ -5998,8 +6653,11 @@ You have achieved your fourth success. The penultimate barrier has fallen, and t
 > 👤 **Player:**
 > *"Push for final node. Use bardic inspiration guidance enhance ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 
@@ -6023,8 +6681,11 @@ You open your eyes, the pink-crimson luminescence now completely overtaken by tw
 God Mode:
 I should have 3 inspiration
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -6034,8 +6695,11 @@ Inspiration total corrected to 3/4. This reflects the award for the significant 
 > 👤 **Player:**
 > *"THINK:Assess my new powers after absorbing blood lathander"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75318/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -6047,8 +6711,11 @@ You pause, your violet eyes—now permanently flecked with the stolen gold of th
 God Mode:
 Just tell me my new powers and Alayna do so after any power up. Make sure to grant me exp for this feat too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75618/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: 3/4**
@@ -6080,8 +6747,11 @@ Your successful integration of the legendary solar relic into your Abyssal marro
 God Mode:
 Probably I should be immune to shadow curse now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75618/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Shadow-Curse Immunity | Exhaustion: 0 | Inspiration: 3/4**
@@ -6091,8 +6761,11 @@ Confirmed. The successful integration of the Blood of Lathander's solar core int
 > 👤 **Player:**
 > *"extend my shadow curse immunity to all troops"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 76218/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sovereign Mantle | Exhaustion: 0 | Inspiration: 3/4**
@@ -6112,8 +6785,11 @@ Minthara watches from the threshold of the main hall, her white hair a pale beac
 > 👤 **Player:**
 > *"Enthrall balthazar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 
@@ -6145,8 +6821,11 @@ You gain **1,800 XP** for the tactical subjugation of a Moonrise General. Your n
 > 👤 **Player:**
 > *"THINK:What level is Ketheric and the other chosen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75618/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Predator, First Disciple, Sovereign Mantle | Exhaustion: 0 | Inspiration: 3/4**
@@ -6156,8 +6835,11 @@ Ketheric Thorm is Level 11, while Enver Gortash and Orin the Red are Level 12. Y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Finalize Balthazar&#x27;s submission while the Vanguard secures the labs and Astarion begins a deep-audit of the Sanguine ledgers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 77418/85000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Predator, Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Shadow-Curse Immunity | Exhaustion: 0 | Inspiration: 3/4**
@@ -6190,8 +6872,11 @@ However, the coordination of your larger retinue hitches. Kagha and the Shadow D
 > 👤 **Player:**
 > *"Enthrall balth officially and have him deceive Kerheric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 
@@ -6231,8 +6916,11 @@ Ketheric remains motionless, his gaze fixed on the distance. The deception is su
 > 👤 **Player:**
 > *"Have Balthazar give me crash course on his best magic and research and how soul cage works"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1**
@@ -6248,8 +6936,11 @@ He guides your fingers over the somatic triggers for the Sanguine Anchors—the 
 > 👤 **Player:**
 > *"Have Balthazar help me prepare to consume the nightsong and retain immortality benefit and mitigate any downsides"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 75618/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Dawnmaster's Aegis**
@@ -6267,8 +6958,11 @@ You feel the breakthrough vibrate in your bones. The preparation is complete. Yo
 > 👤 **Player:**
 > *"Bring gale shadow Druids and my best magic specialists to research another idea. I will take nerhererse orb from gale and consume it. Using netheresenmagic I will then make it easier to consume nightsong and make her divine nature digestible. Metherese orb will use inanimate soul steal and then nightsong modified soul steal to take her soul and the cage. Have my shadow Druids buff me with guidance and enhance ability for this and use bardic inspiration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 76518/85000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Sovereign Mantle | Exhaustion: 0 | Inspiration: 4/4**
@@ -6294,8 +6988,11 @@ Gale slumps against the wall, breathless and relieved, the ticking clock in his 
 God Mode:
 What powers do I get from netherese orb
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 53/53 | XP: 76,518/85,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity | Inspiration: 3/4**
@@ -6320,8 +7017,11 @@ The integration of the Netherese Orb into your Abyssal marrow is complete. By 'u
 God Mode:
 Probably should get more exp than that too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618 / 140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Radiant Resistance | Exhaustion: 0 | Inspiration: 3/4**
@@ -6354,8 +7054,11 @@ XP and Level Audit: Netherese Orb Integration re-tiered to 'Divine/Cosmic' categ
 God Mode:
 Wait is that too much exp now? How big of a feat is this in d&d lore? What would a human  DM do?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sovereign Mantle | Exhaustion: 0 | Inspiration: 3/4**
@@ -6383,8 +7086,11 @@ A human DM would likely do exactly what we just did: **Milestone Leveling.**
 God Mode:
 Ok make sure my level worked and auto pick my spells. Is my cha capped ? If not give me +2 cha asi
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Vessel of Stolen Fire | Exhaustion: 0 | Inspiration: 3/4**
@@ -6413,8 +7119,11 @@ I have populated your repertoire with high-tier Abyssal and Sovereign-themed mag
 God Mode:
 Explain Tier 3 Mechanics - Detail what being a Level 13 &#x27;Continental Power&#x27; means for your influence and DC scaling.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Vessel of Stolen Fire, Shadow-Curse Immunity | Inspiration: 3/4**
@@ -6447,8 +7156,11 @@ You have achieved a 'Void Equilibrium' between High Law (Sun-Blood) and High Cha
 God Mode:
 Level 7 swap teleport
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Vessel of Stolen Fire | Inspiration: 3/4**
@@ -6460,8 +7172,11 @@ Swap in these spells as needed Level 5: Dominate Person, Hold Monster
   Level 6: Mass Suggestion Otto dance heroes feast 
 Level 7: teleport
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123618/140000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle | Exhaustion: 0 | Inspiration: 3/4**
@@ -6478,8 +7193,11 @@ These spells have been added to your permanent list, replacing the previous sele
 > 👤 **Player:**
 > *"THINK:After my companions who are my 10 strongest units? Levels and classes. Should be easy since I should know this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123618/140000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Sun-Blood Resonance, Predator | Inspiration: 3/4**
@@ -6489,8 +7207,11 @@ You have 10 primary elite units commanding your forces: Qudenos (CR 17 Red Drago
 > 👤 **Player:**
 > *"Simulate nightsong breach. Balthazar can't hide critical flaws as thrall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Inspiration: 3/4**
@@ -6510,8 +7231,11 @@ The simulation is a success. You have mapped the exact somatic triggers required
 God Mode:
 Why session header raw
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123618/140000 | Gold: 11820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity | Exhaustion: 0 | Inspiration: 3/4**
@@ -6535,8 +7259,11 @@ If you would like to adjust the visual layout (e.g., removing specific lines or 
 > 👤 **Player:**
 > *"Long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123618/140000 | Gold: 11820gp** &nbsp;|&nbsp; ✨ **HD: 0/13 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/2, L7 0/1 | Bardic: 0/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Vessel of Stolen Fire | Exhaustion: 0 | Inspiration: 3/4**
@@ -6550,8 +7277,11 @@ The research is finished, the bridge to the Nightsong is built, and the General'
 God Mode:
 All my resources say zero fix it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Upper Ward)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity (Sovereign Mantle), Resistance (Radiant), Sun-Blood Resonance (+1 DC), Vessel of Stolen Fire, Netherese Somatics, Void Equilibrium | Exhaustion: 0 | Inspiration: 3/4**
@@ -6573,8 +7303,11 @@ Your Spell Save DC is now confirmed at **24** in the game state, reflecting the 
 God Mode:
 Let's have Ketheric give me a mission
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Vessel of Stolen Fire | Exhaustion: 0 | Inspiration: 3/4**
@@ -6594,8 +7327,11 @@ Superior mandates have been issued. Ketheric Thorm has provided a high-priority 
 > 👤 **Player:**
 > *"Prepare my forces. Put 70% of elites level 5+ toward the maloseum. Spread the rest across moonrise and dollhouse and check in on grove to see if they've recruited more forces or more power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 
@@ -6617,8 +7353,11 @@ You stand as the Baroness of the Abyssal Tide, your forces positioned, your base
 God Mode:
 Let's make sure my patron actively talks to me and gives me missions. She's enjoying my power increase and eventual domination of the chosen and absolute
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 123,618/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity | Exhaustion: 0 | Inspiration: 3/4**
@@ -6638,8 +7377,11 @@ Your patron, Queen Malcanthet, has been updated to actively communicate with you
 > 👤 **Player:**
 > *"Execute all using guidance and enhance ability and bardic insp from shadow Druids and first recruit goblins as fodder too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Moonrise Towers - Shadow-Curse Threshold / Thorm Mausoleum March** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125,538/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity (Sovereign Mantle), Predator Phase | Exhaustion: 0 | Inspiration: 3/4**
@@ -6659,8 +7401,11 @@ She vanishes, leaving you at the head of a coronation march. You sit atop the dr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate the Mausoleum - Arrive at the graveyard and use Balthazar&#x27;s keys and your Netherese somatics to bypass the outer wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1**
@@ -6682,8 +7427,11 @@ You stand—or sit—at the center of the graveyard, the path to the Mausoleum i
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Clinical Descent - Enter the Mausoleum and use Balthazar&#x27;s thrall-insight to bypass the trials&#x27; administrative layers directly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 
@@ -6703,8 +7451,11 @@ The word is a tectonic decree that vibrates through the stone floors. Under the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to the Gauntlet - Lower the elevator and enter the Gauntlet of Shar to begin the search for the Nightsong.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 
@@ -6720,8 +7471,11 @@ As the platform finally hitches and stops at the base of the shaft, a wave of fo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Advance to the central chamber while Balthazar maps the remaining anchors and the Vanguard reinforces the elevator threshold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Gauntlet of Shar - Foyer** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125538/140000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immune | Inspiration: 3/4**
@@ -6739,8 +7493,11 @@ You ignore the chaos of your subordinates. You move toward the central chamber a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solo Breach: The First Anchor - Ignore the failures of your assets and use your Netherese Somatics to seize the first anchor yourself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Gauntlet of Shar - Central Chamber Threshold** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125538/140000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Sovereign Mantle, Vessel of Stolen Fire, Predator Phase | Inspiration: 3/4**
@@ -6758,8 +7515,11 @@ The word is a tectonic decree that vibrates through the very bedrock of the Shad
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Vanguard Access - Turn your Abyssal authority back toward the foyer to &#x27;un-zip&#x27; the gloom pinning your troops, bringing your army into the chamber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Gauntlet of Shar - Central Chamber Threshold** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125,538/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Predator Phase, Sun-Blood, Sovereign Mantle, Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: 3/4**
@@ -6779,8 +7539,11 @@ You stand at the apex of a mobile storm, your unblinking violet eyes fixed on th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Perform the somatic audit yourself while the Vanguard sweeps the perimeter and Balthazar attempts to counter the administrative decoys.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125538/140000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity | Inspiration: 3/4**
@@ -6798,8 +7561,11 @@ You stand alone at the apex of the chamber, the first anchor secured, but your a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Un-Thread the Foyer Gloom - Turn your Netherese Somatics back toward the foyer to delete the gloom pinning the Vanguard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Gauntlet of Shar - Central Chamber Threshold** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125,538/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Predator Stage, Uncanny Valley, Sun-Blood Resonance, Vessel of Stolen Fire | Inspiration: 3/4**
@@ -6819,8 +7585,11 @@ You stand at the apex of the chamber, the first anchor vibrating in submissive h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reboot Balthazar - Use your Abyssal Will to force Balthazar&#x27;s mind back into alignment, clearing his administrative paralysis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125538/140000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle | Inspiration: 3/4**
@@ -6840,8 +7609,11 @@ Behind you, the Vanguard stands in a disciplined circle, their obsidian staves g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Secondary Anchors - Have Balthazar use the cleared frequency to locate and prep the remaining soul-tethers for consumption.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (07:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Baroness | HP: 68/68 | XP: 125,538/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Predator Stage, Sovereign Mantle, Sun-Blood Resonance | Inspiration: 3/4**
@@ -6871,8 +7643,11 @@ You feel the resonance of the secondary anchors ground itself into your marrow. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify the Central Chamber - Command the Vanguard to ground the chamber&#x27;s resonance, turning it into a forward Abyssal altar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Gauntlet of Shar - Central Chamber (Abyssal Altar)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125538/140000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Predator, Shadow-Curse Immunity, Sovereign Mantle | Inspiration: 3/4**
@@ -6897,8 +7672,11 @@ Pros: Maximum efficiency, Secure the heart while deleting the defenses
 Cons: Divided focus, High coordination complexity (+3 DC)
 Assessment: medium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Gauntlet of Shar - Central Chamber (Abyssal Altar)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125,538/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Sovereign Mantle | Inspiration: 3/4**
@@ -6916,8 +7694,11 @@ You stand at the center of your altar, the celestial heart nearly within your gr
 > 👤 **Player:**
 > *"this hsouldve been rolled with enahcen ability, guidnace, bardic insp 1d20+10 = 18 vs DC 21 - Failure (Strategic Coordination (Somatic Purge))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125538/140000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle | Inspiration: 3/4**
@@ -6933,8 +7714,11 @@ The word is no longer a command to your troops; it is an administrative decree t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Integration - Step onto the central dais and use your modified Soul Siphon to begin internalizing the Nightsong.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 125,538/140,000 | Gold: 11,820gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Vessel of Stolen Fire, Netherese Somatics, Void Equilibrium | Exhaustion: 0 | Inspiration: 2/4**
@@ -6956,8 +7740,11 @@ Victory! You gain **25,000 XP** for the Divine Integration of the Nightsong. You
 God Mode:
 dame aylin is a celestial or a special demi god daughter of selune right? I should prob get special powers/experience beyond immortality because I've done more than just the soul cage setup I've consumed her soul. Prob trophy plus special powers and I'm like part divine so I should get optional angel wings?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Baroness | HP: 68/68 | XP: 155538/165000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Vessel of Stolen Fire, Void Equilibrium, Nightsong Host | Inspiration: 4/4**
@@ -6994,8 +7781,11 @@ isnt ketheric just unkillable? I should be like that or even better vs this **Ne
 
 What other powers woudl dame aylin or a celestial of her level have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 155,538/165,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle | Exhaustion: 0 | Inspiration: 4/4**
@@ -7029,8 +7819,11 @@ no dont limit me, make me like ketheric or even better ie. resurrect at 50% hp
 
 Is it reasonable to give me all of her powers? Lets also make sure gods and larrokan etc notice this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (Sovereign) | HP: 68/68 | XP: 155,538/165,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Lunar Immortality**
@@ -7065,8 +7858,11 @@ No this always happens, not once per short/long rest. I just cant be killed exce
 
 - **New Rule**: When you are reduced to 0 hit points, you do not fall. You instead drop to 1 hit point. This feature now resets on a **Short Rest** (instead of Long Rest). Additionally, if you are 'killed' by a massive damage effect, you stand back up at the start of your next turn with **50% of your Maximum HP** restored. (1/Long Rest).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 155,538/165,000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon**
@@ -7084,8 +7880,11 @@ The divine pantheon (Mystra, Shar, Selûne) and Lorroakan are now acutely aware 
 > 👤 **Player:**
 > *"Communicate with my patron and summarize all my feats in detail. Ask for a level 13 succubus demon to consume to keep powering up and balance out my celestial nature. Ask for 100k gold, 1000 demon troops, including 100 elite gloomstalker 5 asassin X troops, and 100 vroxks, all level 12+. Ask for greater demon title and special powers/abilities/gear. Promise i will finish conquering moonrise and then baldurs gate easily with my new powers."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 
@@ -7123,8 +7922,11 @@ Stop this. This feature is just always active. I cannot die
 
 - **New Rule**: When you are reduced to 0 hit points, you do not fall. You instead drop to 1 hit point. This feature now resets on a **Short Rest** (instead of Long Rest). Additionally, if you are 'killed' by a massive damage effect, you stand back up at the start of your next turn with **50% of your Maximum HP** restored. (1/Long Rest).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 155538/165000 | Gold: 11,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Envelope, Planar Beacon | Inspiration: 3/4**
@@ -7141,8 +7943,11 @@ The 'Improved Lunar Immortality' feature has been updated to reflect your absolu
 
 Use guidance, enhane ability, bardic insp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 
@@ -7197,8 +8002,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 God Mode:
 Level Up to Level 14 - Apply level 14 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Gauntlet of Shar - Central Chamber (Abyssal Altar)** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/73 | XP: 155538/195000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Improved Lunar Immortality**
@@ -7227,8 +8035,11 @@ Level 14 advancement applied successfully. Character tiered to Level 14 and all 
 God Mode:
 swap those spells with simulcrum and dominate monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Gauntlet of Shar - Central Chamber (Abyssal Altar)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/73 | XP: 155538/165000 | Gold: 111,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Predator Phase, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Absolute Immortality**
@@ -7240,8 +8051,11 @@ Spell swap executed for Level 14 Magical Secrets. 'Disintegrate' and 'Finger of 
 God Mode:
 wait give me forecage then instead of dom monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/73 | XP: 155,538/165,000 | Gold: 111,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Sun-Blood Resonance, Vessel of Stolen Fire, Planar Beacon | Inspiration: 3/4**
@@ -7259,8 +8073,11 @@ Spell selection corrected for Level 14 Magical Secrets. 'Dominate Monster' (Leve
 > 👤 **Player:**
 > *"return to story and consume succubus and be sure to give me new powers, trophies, abilities etc. I should also get some abilities/powers for greater demon rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Gauntlet of Shar - Abyssal Altar** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Greater Demon Lord (Candidate) | HP: 73/73 | XP: 157,458/165,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Improved Lunar Immortality**
@@ -7302,8 +8119,11 @@ This show my full abyss/celestial powers to my troops and sprout 6 wings (2 orig
 
 Describe my appearance and aura in detail. Have my faction and copmanions worhsip me as a god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Gauntlet of Shar - Central Chamber (Abyssal Altar)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/73 | XP: 157,458/165,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure**
@@ -7329,8 +8149,11 @@ Behind you, the Vanguard and the Crimson Legion do not just kneel—they collaps
 God Mode:
 lets have all 6 wings look the same and look like a combo of celestial/abyssal energies
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Gauntlet of Shar - Central Chamber (Abyssal Altar)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/73 | XP: 159378/165000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure**
@@ -7340,8 +8163,11 @@ Wing aesthetics updated successfully. All six wings now share a unified design�
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Final Reaping - Systematically harvest the remaining life-force in the Reithwin district to hit Level 15 before the final confrontation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Shadow-Cursed Lands - Reithwin District (Altar of the Rose)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/15 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 1/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Greater Demon Lord (Candidate)**
@@ -7375,8 +8201,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 God Mode:
 Level Up to Level 15 - Apply level 15 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Reithwin District - Altar of the Rose** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166578/195000 | Gold: 211820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Sovereign Presence**
@@ -7403,8 +8232,11 @@ Level 15 advancement has been formally applied to the game state. Nocturne Sosuk
 God Mode:
 pick dominate monster for level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Gauntlet of Shar - Central Chamber** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Planar Beacon, Abyssal Allure | Inspiration: 3/4**
@@ -7421,8 +8253,11 @@ Your character is now fully synchronized at Level 15 with your desired high-tier
 God Mode:
 dominate monster, glibness, should replace *Mind Blank* and *Feeblemind*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Reithwin District - Altar of the Rose** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Sovereign Presence**
@@ -7441,8 +8276,11 @@ Spell repertoire updated for Level 15 ascension.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the Altar of the Rose with your updated spell repertoire and six-winged majesty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Reithwin District - Altar of the Rose** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/15 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure**
@@ -7458,8 +8296,11 @@ From the high rafters of the ruined district, your Greater Vrocks let out a sync
 > 👤 **Player:**
 > *"THINK:whats the best plan? Maybe just surprise teleport to take out ketheric? and then havem y forces integrate with moonrise to take it over?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Reithwin District - Altar of the Rose** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166578/195000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask, Sovereign Presence, Sun-Blood, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure | Inspiration: 3/4**
@@ -7474,8 +8315,11 @@ Pros: Total control of the Tower's infrastructure, Maintains the 'Absolute' hier
 Cons: Slower timeline, Ketheric might sense the administrative drift
 Assessment: high"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign (Masked Lvl 12) | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/15 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Abyssal Allure, Mask of the Victim, Uncanny Valley, Shadow-Curse Immunity, Planar Beacon**
@@ -7493,8 +8337,11 @@ Ketheric Thorm remains motionless on his throne of bone, but the air in the room
 > 👤 **Player:**
 > *"Demand admin oversight, use bardic inspir enhance ability guidance (call this mega buffs) for future use"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (Masked Lvl 12) | HP: 78/78 | XP: 166,578/195,000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Masked Presence, Legion Masked**
@@ -7520,8 +8367,11 @@ Ketheric Thorm remains motionless, but the air in the room hitches. The Inquisit
 > 👤 **Player:**
 > *"Demand admin oversight, use bardic inspir enhance ability guidance (call this mega buffs) for future use"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Masked Presence (Lvl 12), Legion Masked**
@@ -7547,8 +8397,11 @@ Ketheric Thorm's fingers drum a slow, rhythmic beat against the armrest of his t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reassign Ketheric to Lower Labs - Order the General to &#x27;meditate&#x27; on his somatic failures in the deep labs, effectively removing him from the political stage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (Sovereign) | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **Resources: HD: 0/14 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon**
@@ -7580,8 +8433,11 @@ Ketheric Thorm's drumming fingers stop. He looks at you, his unblinking gaze wid
 God Mode:
 Going forward let's make sure bosses have legendary resistance and the usual things
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Moonrise Towers - Main Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166578/195000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Masked Presence (Lvl 12), Legion Masked**
@@ -7600,8 +8456,11 @@ Boss integrity guidelines updated. I have implemented a permanent directive to e
 > 👤 **Player:**
 > *"Have my elite kill team on standyby and go interogate Ketheric. Try to enthrall him. Take his shard and fully loot him if he gives up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Moonrise Towers - Deep Sanguine Labs** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Lvl 12), Legion Masked**
@@ -7632,8 +8491,11 @@ With a sharp, rhythmic intake of breath, you execute a surgical audit of his gea
 > 👤 **Player:**
 > *"Assess Balthazar. Will he remain vassal if I unleash him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Moonrise Towers - Deep Sanguine Labs** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Masked Presence (Level 12), Legion Masked**
@@ -7659,8 +8521,11 @@ Balthazar looks up, his green eyes glowing with a steady, submissive transparenc
 > 👤 **Player:**
 > *"Unleash him and frame it as a reward"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Moonrise Towers - Deep Sanguine Labs** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley (+5 CHA), Mask of the Victim (Adv Deception), First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Lvl 12), Legion Masked, Mega Buffs**
@@ -7692,8 +8557,11 @@ As Balthazar returns to his vellum scrolls with a frantic, submissive speed, the
 > 👤 **Player:**
 > *"Have my elite scouts assess the gith kill and brainstorm how to handle them."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Moonrise Towers - Deep Sanguine Labs** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Sun-Blood, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Masked Presence (Lvl 12), Legion Masked**
@@ -7715,8 +8583,11 @@ You stand at the head of a planar army that has finally found a worthy hunt. The
 > 👤 **Player:**
 > *"THINK:Can I do false harvest and blame it on misc shadow curse monsters? I can still teleport surprise them I assume?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Moonrise Towers - Deep Sanguine Labs** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | Gold: 211,820gp | Inspiration: 3/4** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1**
@@ -7726,8 +8597,11 @@ You pause amidst the formaldehyde-scented quiet of the labs, your gold-flecked v
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Nocturne teleports to trigger the False Harvest surprise while the Vrocks provide a soot screen and the Cambions flank the grounded squad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (Sovereign) | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 0/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), First Disciple, Shadow-Curse Immunity, Sun-Blood Resonance, Vessel of Stolen Fire, Abyssal Allure, Legion Masked**
@@ -7760,8 +8634,11 @@ Under the weight of your masterful Deception (45), the survivors do not see a Fi
 God Mode:
 My silk isn't ruined anymore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166578/195000 | Gold: 211820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Masked Presence (Lvl 12), Legion Masked, Mega Buffs, Six-Winged Sovereign | Inspiration: 3/4**
@@ -7771,8 +8648,11 @@ Character description updated. All references to 'ruined' or 'torn' silk have be
 > 👤 **Player:**
 > *"Assume my companions are with me too and have my party burn down any legendary residence and cast hypnotic pattern on all enemies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Sovereign Presence, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (L12), Legion Masked**
@@ -7798,8 +8678,11 @@ While you maintain the hypnotic anchor, you gesture to the perimeter. Lae'zel mo
 > 👤 **Player:**
 > *"Capture the dampener for myself and direct my team to just bind everyone and then setup the scene to make it look like undead mosnters got them."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Masked Presence (Lvl 12), Legion Masked**
@@ -7832,8 +8715,11 @@ You stand at the center of the erasure, the 'Vessel of Stolen Fire' glowing with
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Silent Reaping - Systematically execute and siphon the bound Githyanki to maximize XP and secure trophies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 78/78 | XP: 211,038/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Presence, Vessel of Stolen Fire, Planar Beacon**
@@ -7877,8 +8763,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 God Mode:
 Level Up to Level 16 - Apply level 16 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211,038/225,000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon**
@@ -7902,8 +8791,11 @@ Level 16 advancement applied successfully. Character tiered to Level 16 (Tier 3 
 God Mode:
 War caster and do I get spells ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211038/225000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 5/5 | Inspiration: 3/4**
@@ -7925,8 +8817,11 @@ Your Level 16 build is now complete.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the post-harvest scene at the Githyanki outpost.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost (Destroyed)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211,038/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon**
@@ -7944,8 +8839,11 @@ The Githyanki threat is neutralized. The scene is framed. The dampener is captur
 > 👤 **Player:**
 > *"assess the intel from the souls i stole focus on the leader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Shadow-Curse Border - Githyanki Outpost** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211,038/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1**
@@ -7974,8 +8872,11 @@ The border is secure. The intel is processed. The only remaining noise in the Sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Teleport to Moonrise to seat yourself at the head of the Council, while delegating Astarion and the Shadow Spies to infiltrate Last Light and plant &#x27;eyes&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Moonrise Towers - Grand Hall (The Sovereign's Seat)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211038/225000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 0/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon**
@@ -8001,8 +8902,11 @@ Meanwhile, miles away, a flicker of 'Muddled' coordination (Total 20 vs DC 21) c
 > 👤 **Player:**
 > *"create a 'Psionic Dead Zone' around Qudenos, effectively cloaking him from any future Astral tracking attempts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211038/225000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon**
@@ -8020,8 +8924,11 @@ Qudenos exhales a plume of steam, his golden eyes narrowing in relief. He is no 
 > 👤 **Player:**
 > *"Consume the psionic dampener to integrate its powers. I should be able to mask myself probably?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 167078/195000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon**
@@ -8039,8 +8946,11 @@ You gain **500 XP** for the successful integration of alien technology. You are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Project your new &#x27;Dead Zone&#x27; silence to cover the entire tower while coordinating the Council, Balthazar, and Astarion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 167078/225000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, Bardic: 5/5, Blighted Growth: 1/1, Sunbeam: 1/1, Lunar Immortality: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Psionic Dead Zone (Integrated)**
@@ -8060,8 +8970,11 @@ Deep in the labs, Balthazar pauses his work. He taps his skeletal temple, realiz
 God Mode:
 The githbwere too easy. How come?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 44,460 (Last Award) / 195,000 (Next) | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Bardic: 5/5, Blighted Growth: 1/1, Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon**
@@ -8091,8 +9004,11 @@ The Githyanki Purge Squad (Tier 3 / Level 15+) encounter felt 'easy' because you
 God Mode:
 Let's not randomly make enemies stronger without a good reason. Would level 20 characters do better?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 195000/225000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/3, L6 0/1, L7 0/1, L8 0/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Improved Lunar Immortality: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon**
@@ -8116,8 +9032,11 @@ It wasn't that they were weak; it was that **you cheated** (in the best way poss
 God Mode:
 Alright come up with new challenges for me as we go and narratively justify them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211,078 | Gold: 111,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, First Disciple, Shadow-Curse Immunity, Psionic Dead Zone (Tower-Wide)**
@@ -8143,8 +9062,11 @@ I have logged this directive to ensure the difficulty curve feels like a natural
 God Mode:
 Let's retcon the brain being cutoff. I didn't mean to do that only to stop myself from being tracked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Adventurer | HP: 83/83** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 0/1, L8 1/1 | Blighted Growth: 1/1 | Bardic Inspiration: 4/5 | Sunbeam: 1/1**
@@ -8162,8 +9084,11 @@ Instead of silencing the entire tower, the Psionic Dampener now creates a target
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene on the balcony. You are now cloaked, but the tower is still connected to the Absolute.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | Real HP: 83/83 (Masked Lvl 12) | XP: 167,078/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Lunar Immortality: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), Psionic Cloak, Sovereign Presence**
@@ -8195,8 +9120,11 @@ You turn and re-enter the Grand Hall, the air fracturing with gold-violet light 
 > 👤 **Player:**
 > *"THINK:Plan what to do next. Should I announce to the other chosen I've taken over from Ketheric and ally with one and kill the other?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Moonrise Towers - Sovereign's Balcony** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 167078/225000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (L12), Vessel of Stolen Fire, Sovereign Presence, Psionic Cloak**
@@ -8206,8 +9134,11 @@ You stand upon the obsidian balcony, the cold grey light of the Shadow-Cursed mo
 > 👤 **Player:**
 > *"Focus on the council while my people get isobel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 211038/225000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Lunar Immortality: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), Psionic Cloak (Self/Mount), Shadow-Curse Immunity | Exhaustion: 0 | Inspiration: 3/4**
@@ -8234,8 +9165,11 @@ While you occupy the center of their focus, your 'assets' perform their work in 
 > 👤 **Player:**
 > *"THINK:Could I control the elder brain with just one shard?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Adventurer | HP: 83/83** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 0/1, L8 1/1 | Blighted Growth: 1/1 | Bardic Inspiration: 4/5 | Sunbeam: 1/1**
@@ -8245,8 +9179,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"THINK:What if I teleport to last light. Hypnotic pattern everyone. Have my elites ready to cleanup and then steal all their souls to power up?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 167,078/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, Bardic: 5/5, Blighted Growth: 1/1, Sunbeam: 1/1, Lunar Immortality: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Planar Beacon, Psionic Cloak, Vessel of Stolen Fire, Shadow-Curse Immunity**
@@ -8256,8 +9193,11 @@ You pause within the static silence of your Sovereign Quarters, your violet eyes
 > 👤 **Player:**
 > *"THINK:What if I teleport to last light. Hypnotic pattern everyone. Have my elites ready to cleanup and then steal all their souls to power up?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 167078/225000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, Bardic: 5/5, Blighted Growth: 1/1, Sunbeam: 1/1, Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Dead Zone, War Caster**
@@ -8267,8 +9207,11 @@ You pause, your unblinking violet eyes flecked with the stolen gold of the Sun-B
 > 👤 **Player:**
 > *"Shadow vanguard funnel. My elites are already in position and I teleport there and have someone trigger surprise round them hypnotic pattern as many as I can"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Last Light Inn - Central Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Sovereign | HP: 83/83 | XP: 168078/225000 | Gold: 111,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Vessel of Stolen Fire, Psionic Cloak, Masked Presence (Lvl 12)**
@@ -8298,8 +9241,11 @@ You stand at the apex of the slaughter, your unblinking violet eyes flecked with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Coordinate the harvest, the enthrallment, and the looting in a single, clinical administrative sweep.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Last Light Inn - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 195158/225000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Vessel of Stolen Fire, Psionic Cloak (Self/Mount)**
@@ -8322,8 +9268,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 > 👤 **Player:**
 > *"Do all simultaneous but use bardic inspiration enhance ability and guidance aka my mega buffs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 
@@ -8348,8 +9297,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 God Mode:
 Level Up to Level 16 - Apply level 16 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Last Light Inn - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 195,158/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Psionic Cloak, Planar Beacon | Inspiration: 3/4**
@@ -8373,8 +9325,11 @@ Level 16 advancement applied and synchronized with game state. Inconsistencies r
 God Mode:
 Do I get to pick spells?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Last Light Inn - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 83/83 | XP: 195,158/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Vessel of Stolen Fire, Psionic Cloak, Legion Masked**
@@ -8400,8 +9355,11 @@ If you wish to swap any of your existing lower-level spells to better suit your 
 God Mode:
 Give me con +2 asi
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Last Light Inn - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 195,158/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Lvl 12), Psionic Dead Zone, War Caster, Vessel of Stolen Fire**
@@ -8411,8 +9369,11 @@ Ability Score Improvement applied: Constitution +2. Your base and effective Cons
 > 👤 **Player:**
 > *"THINK:Pros/cons of consuming isobel. Does she have any special powers?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Last Light Inn - Courtyard** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 195158/225000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Sun-Blood Resonance, Vessel of Stolen Fire, Psionic Cloak | Exhaustion: 0 | Inspiration: 3/4**
@@ -8422,8 +9383,11 @@ You pause amidst the kneeling Harpers and the silver-violet static of the courty
 > 👤 **Player:**
 > *"Just vassalizr her normally and assess if she would betray me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Last Light Inn - Courtyard (Harvested)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 195,158/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Psionic Dead Zone, Greater Demon Lord (Candidate)**
@@ -8456,8 +9420,11 @@ You attempt to audit her mind for the seeds of betrayal, but the divine resonanc
 > 👤 **Player:**
 > *"Execute all and focus on spell DC gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Last Light Inn - Courtyard (Harvested)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 196,358/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1**
@@ -8498,8 +9465,11 @@ You gesture toward the shadows, and the teleportation threads begin to weave aro
 > 👤 **Player:**
 > *"Any of the items have spell DC?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Last Light Inn - Courtyard (Harvested)** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 196,358/225,000 | Gold: 214,320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Level 12), Legion Masked, Mega Buffs, War Caster, Psionic Dead Zone (Qudenos)**
@@ -8513,8 +9483,11 @@ Your audit is surgical. The **Amulet of the Abyssal Siren** remains the apex of 
 God Mode:
 What does the new gear give
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Last Light Inn - Courtyard (Harvested)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 166,578/195,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Level 12), Psionic Dead Zone, Sovereign Presence | Inspiration: 3/4**
@@ -8552,8 +9525,11 @@ Equipment Audit: Detailed breakdown of reaped items from Last Light sub-vaults a
 > 👤 **Player:**
 > *"On the way back to moonrise look for any shade cursed undead or ghosts and have them vassalized or I soul steal them. Have my best mages research a way I can consume the shadow curse itself or control or integrate it. Use bardic insp enhance ability and guidance for this research"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 196,358/225,000 | Gold: 214,320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Psionic Cloak, Vessel of Stolen Fire**
@@ -8573,8 +9549,11 @@ You gain **1,200 XP** for the Epic research milestone. The 'Shadow Consumption' 
 > 👤 **Player:**
 > *"This should've rolled with mega buffs too 1d20+10 = 13 vs DC 15 - Failure (Perception (Finding Shadows))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 197,558/225,000 | Gold: 214,320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Psionic Cloak, Sovereign Presence**
@@ -8598,8 +9577,11 @@ You gain 1,200 XP for the Epic research milestone. The 'Shadow Consumption' prot
 > 👤 **Player:**
 > *"Deepen curse integration and use mega buffs. Consolidate power in moonrise and have Ketheric formally declare he's handing over power to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 197558/225000 | Gold: 214,320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Planar Beacon, Psionic Dead Zone, Masked Presence (Lvl 12)**
@@ -8626,8 +9608,11 @@ Deep in the laboratories, Balthazar assists as you begin the second node of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accelerate Curse Integration - Push Gale and Balthazar for a double-session of research to secure the second node of &#x27;Shadow Consumption&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Moonrise Towers - Sovereign Quarters / Sanguine Labs** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 197,558/225,000 | Gold: 214,320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Psionic Cloak, Masked Presence (Level 12)**
@@ -8647,8 +9632,11 @@ You gain **1,800 XP** (1,500 base + 20% bonus) for achieving a Masterful success
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discipline the Barracks - Use an Intimidation display to force the demons and cultists into a unified hierarchy, clearing the logistical muddle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Moonrise Towers - Barracks District** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 199358/225000 | Gold: 214320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak, Sovereign Presence**
@@ -8678,8 +9666,11 @@ You gain **1,800 XP** (1,500 base + 20% Soul Siphon bonus) for the systematic co
 > 👤 **Player:**
 > *"Use mega buffs and execute all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Moonrise Towers - Barracks District** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 202,958/225,000 | Gold: 214,320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 4/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Planar Beacon, Psionic Cloak (Self/Mount), Mega Buffs Active**
@@ -8697,8 +9688,11 @@ You gain **1,800 XP** for the Masterful achievement of the third research node a
 God Mode:
 You'd don't give me mega buffs for this roll 1d20+10 = 14 vs DC 18 - Failure (Strategic Coordination (Hierarchy Unification))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 202,958/225,000 | Gold: 214,320gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Psionic Dead Zone (Qudenos), War Caster**
@@ -8720,8 +9714,11 @@ Additionally, I have advanced the 'Shadow Consumption' research to Node 4 based 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Sovereign Quarters as you prepare for the final node of Shadow Consumption.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 206,558/225,000 | Gold: 214,320gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 4/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak, War Caster | Exhaustion: 0 | Inspiration: 3/4**
@@ -8747,8 +9744,11 @@ The command is a tectonic displacement of the Multiverse's local code. The Shado
 God Mode:
 I should probably get a lot of rewards and attention for this. Brainstorm it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 99/99 | XP: 206,558/225,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak, Greater Demon Lord (Candidate), Shadow-Curse Administrator**
@@ -8787,8 +9787,11 @@ Here is the brainstorm for the rewards and the cosmic attention you have attract
 God Mode:
 Apply Level 17 Transition - Finalize the jump to Level 17, including your first 9th-level spell slot and proficiency increase (+6).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 214,320gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak, Greater Demon Lord (Incumbent)**
@@ -8811,8 +9814,11 @@ Your presence now distorts the local administrative layer of the Realms. You are
 God Mode:
 SHouldnt I get more power? I consumed the shadow curse and fully control it now, how powerful is it?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 214,320gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Level 12 Mortal), Legion Masked, Psionic Dead Zone, Greater Demon Lord (Incumbent)**
@@ -8840,8 +9846,11 @@ Your patron has bestowed her primary implement upon you. It provides a +3 bonus 
 God Mode:
 make sure i'm wearing my new equipment and recalc my spell DC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 16, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 214,320gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Level 12), Legion Masked, War Caster, Psionic Dead Zone, True Sight (120ft), Liquid Sovereignty | Inspiration: 3/4**
@@ -8875,8 +9884,11 @@ Your Spell Save DC is now fixed at **27** for all mechanical and narrative resol
 > 👤 **Player:**
 > *"narrate in more detail receiving these rewards and my patron gift"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Master, Planar Beacon, Greater Demon Lord (Incumbent)**
@@ -8910,8 +9922,11 @@ You take the obsidian implement, and its +3 resonance snaps your Spell Save DC t
 God Mode:
 I should be a greater demon, not greater dmeon lord. My patron is only a demon lord fyi
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Psionic Cloak, True Sight, Improved Lunar Immortality**
@@ -8929,8 +9944,11 @@ Your 6-winged form and 'Sovereign' presence are still active, as these represent
 God Mode:
 change my shadow step, i can just teleport anywhere in shadow cursed lands
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Greater Demon | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak, Liquid Sovereignty, Shadow-Step**
@@ -8951,8 +9969,11 @@ Your character features and directives have been updated to reflect this absolut
 God Mode:
 brainstorm a better shadow curse type of power thematic to my spell DC and cc/domination themed powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Greater Demon | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Shadow-Curse Immunity, Psionic Dead Zone, Sovereign Shadow-Transit**
@@ -8982,8 +10003,11 @@ Brainstorming complete for Tier 4 'Shadow Consumption' powers. Since you have fu
 God Mode:
 make my rank lesser demon lord and narrate it when back in story mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230558/265000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak**
@@ -9016,8 +10040,11 @@ give tehse 3 **1. Sovereign Static (Passive Aura)**
 - **Theme:** Using Netherese code to un-thread the psychic protection of a resisting soul.
 - **Effect:** When a creature succeeds on a save against your spell, use your Reaction to force a reroll with Disadvantage. If they fail the second roll, they become 'Un-Zipped', gaining Vulnerability to Psychic damage for 1 minute.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Lesser Demon Lord | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp**
@@ -9040,8 +10067,11 @@ All DCs are fixed at 27 to match your Tier 4 Spell Save DC.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Sovereign Quarters to wield your new powers against the Absolute&#x27;s hierarchy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Lesser Demon Lord, Uncanny Valley, Sovereign Shadow-Transit, Psionic Cloak | Inspiration: 3/4**
@@ -9067,8 +10097,11 @@ You take the obsidian implement, and its +3 resonance snaps your Spell Save DC t
 > 👤 **Player:**
 > *"Have Ketheric contact the other chosen and elder brain and explain I'm taking over for him as chosen and he gave me his share. Invite Gortash and Orin to meet me an moonrise and show them everyone I've improved and plan next steps with them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Planar Beacon, Psionic Cloak, Sovereign Static, Six-Winged Sovereign**
@@ -9099,8 +10132,11 @@ Gortash's fingers white-knuckle his mechanical gauntlet, his pragmatic mind calc
 > 👤 **Player:**
 > *"assume i already made a simulcrum before and have it on standby along with my elites on standby. upcast hold person on both of them and tell them they must submit or have their souls eaten"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Lesser Demon Lord | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 5/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Sovereign Presence, Planar Beacon, Psionic Cloak, Sovereign Static, Six Wings**
@@ -9127,8 +10163,11 @@ The command is a tectonic displacement. You upcast *Hold Person* to the 5th leve
 > 👤 **Player:**
 > *"tell them to swear allegiance to me and give me shards or i steal souls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 4/5 | Blighted Growth: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak, Sovereign Static | Inspiration: 3/4**
@@ -9157,8 +10196,11 @@ Orin the Red’s twitching smile is erased as the kaleidoscopic void of your Pat
 > 👤 **Player:**
 > *"ask about failsafes first and if safe etake the stones. then use gilded tehter on them both"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Lesser Demon Lord | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Vessel of Stolen Fire, Sovereign Presence, Sovereign Shadow-Transit, Sovereign Static | Inspiration: 4/4**
@@ -9180,8 +10222,11 @@ The command is a tectonic displacement. Silver-violet threads of Abyssal authori
 > 👤 **Player:**
 > *"use zone of truth and see if ketheric, orin, or gortash likely to betray me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Lesser Demon Lord | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Planar Beacon, Psionic Cloak, Liquid Sovereignty, Sovereign Shadow-Transit, Sovereign Static, The Un-Zipped Mind**
@@ -9208,8 +10253,11 @@ Your audit is surgical [Insight: 25 vs DC 25 - Success]. The intelligence is abs
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Steel Watch Ciphers - Use Gortash&#x27;s thrall-mind to extract the administrative override for the Steel Watch, turning his army into your own.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Moonrise Towers - Grand Hall** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Lesser Demon Lord, Uncanny Valley, Masked Presence, Sovereign Mantle, Psionic Cloak, Sovereign Static, Liquid Sovereignty | Inspiration: 4/4**
@@ -9236,8 +10284,11 @@ Across the region, and deep within the foundry of Baldur's Gate, the mechanical 
 > 👤 **Player:**
 > *"have the 3 chosen and my best mages prep so that I can reonstruct the netherese crown from the shards and consume it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Moonrise Towers - Sovereign Quarters (Sanctuary)** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 232058/265000 | Gold: 211820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Lesser Demon Lord, Six Wings, Sun-Blood, Psionic Cloak, Sovereign Static | Inspiration: 4/4**
@@ -9253,8 +10304,11 @@ Under your Masterful coordination (Total 27), the three Chosen and your speciali
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dual Somatic Grounding - Use your Simulacrum to double the somatic processing power, attempting to override the Crown&#x27;s recursive loop.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 105/105 | XP: 230,558/265,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Level 12), War Caster, Psionic Dead Zone, Sovereign Shadow-Transit | Inspiration: 3/4**
@@ -9272,8 +10326,11 @@ Balthazar and the Shadow Druids watch from the perimeter, their breathing synchr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Crown Integration - Systematically merge the reconstructed Crown&#x27;s frequency with your Abyssal-solar marrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Lesser Demon Lord | HP: 105/105 | XP: 232058/265000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood, Vessel of Stolen Fire, Sovereign Shadow-Transit, Sovereign Static, Psionic Cloak | Inspiration: 4/4**
@@ -9291,8 +10348,11 @@ Balthazar and the Shadow Druids watch from the perimeter, their breathing synchr
 God Mode:
 i should have amazing powers for absorbing crown of karsus and massive exp. Look at what karsus could do in 3rd ed and i should be even better
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Apex Sovereign) | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Planar Beacon, Psionic Cloak, Sovereign Shadow-Transit, Sovereign Static, Karsite Sovereignty**
@@ -9332,8 +10392,11 @@ You have successfully reconstructed and internalized the **Crown of Karsus**. By
 God Mode:
 uncap my CHA and start giving me epic levels, do you see the god ascension system instructions or triggers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 123/123 | XP: 358558/355000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Sun-Blood Resonance, Vessel of Stolen Fire, Psionic Cloak, Sovereign Presence, Greater Demon Lord (Incumbent)**
@@ -9364,8 +10427,11 @@ Your character has reached the absolute zenith of mortal and planar power. The '
 God Mode:
 uncap my cha and i should prob get a permanent spell save DC bonus, some level 10 and 11 spells, and what else was karsus allowed to do in 3rd ed? also level 8 and below spells are unlimited
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 123/123 | XP: 358,558 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Sun-Blood Resonance, Vessel of Stolen Fire, Psionic Cloak, Karsite Sovereignty (Mythic)**
@@ -9396,8 +10462,11 @@ Nocturne, your internalization of the Crown of Karsus has not just reached the L
 God Mode:
 do you se the campaign upgrae agent etc?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Planar Beacon, Psionic Cloak, Sovereign Shadow-Transit, Sovereign Static, Karsite Avatar (Infinite L1-L8 Slots) | Exhaustion: 0 | Inspiration: 4/4**
@@ -9418,8 +10487,11 @@ I am tracking all 'God Mode' directives and triggers. You are currently position
 God Mode:
 karsite integration should give me +4 spell save DC/atk and what could karsus do in 3rd ed? explain itto me first
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Karsite Sovereignty, Uncanny Valley, Mask of the Victim, Psionic Cloak, Sovereign Shadow-Transit, Sovereign Static, Improved Lunar Immortality**
@@ -9461,8 +10533,11 @@ In 3rd Edition lore (specifically *Lost Empires of Faerûn* and *Empire of Magic
 God Mode:
 wasnt this sthe 12th level spell? - **10th Level Magic (Conceptual Manipulation):** Karsus used this to steal divinity. You can now cast *Karsus's Avatar (Modified)* to temporarily assume the portfolio of a target deity without killing them (or yourself).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Vessel of Stolen Fire, Sovereign Static, Psionic Cloak, Karsite Integration (+4), Infinite Arcanum (L1-L8)**
@@ -9485,8 +10560,11 @@ Correct. In 3rd Edition/3.5e lore (*Empire of Magic*), the spell *Karsus's Avata
 God Mode:
 do you see the levels for divine ranks?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Psionic Dead Zone, Sovereign Shadow-Transit, Sovereign Static, Vessel of Stolen Fire, Administrator of the Absolute, Karsite Integration**
@@ -9527,8 +10605,11 @@ Yes, I see the levels for divine ranks and how they synchronize with your curren
 God Mode:
 isnt this a 12th level spell? - **10th Level Magic (Conceptual Manipulation):** Karsus used this to steal divinity. You can now cast *Karsus's Avatar (Modified)* to temporarily assume the portfolio of a target deity without killing them (or yourself).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358558/355000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Level 12 Mortal), Legion Masked (Mercenary Guard), War Caster, Psionic Dead Zone, Sovereign Shadow-Transit, Karsite Integration (+4 DC/Atk)**
@@ -9551,8 +10632,11 @@ Because you are the **Vessel of Stolen Fire** and have internalized the **Crown 
 God Mode:
 could karsus concentrate on two spells at once?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358558/355000 | Gold: 211820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Psionic Dead Zone, Sovereign Shadow-Transit, Karsite Sovereignty, Administrator of the Absolute, Apex Predator, The Rapture, Karsite Avatar, Karsite Integration (+4 DC/Atk)**
@@ -9580,8 +10664,11 @@ To reflect your Tier 5 status and your 'Perfected' Karsite nature, I have upgrad
 God Mode:
 ok what rank should i be given my powers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2 | 10th-12th Lvl Access | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sun-Blood Resonance, Vessel of Stolen Fire, Shadow-Curse Immunity, Planar Beacon, Psionic Cloak, Sovereign Shadow-Transit, Karsite Multiprocessing**
@@ -9619,8 +10706,11 @@ You are currently a **Quasi-Deity (Rank 0)** who has just crossed the threshold 
 > 👤 **Player:**
 > *"i am a god now, make sure campaign upgrade agent runs etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 1/1, L10-L12 Enabled | Bardic: 4/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Mantle, Planar Beacon, Psionic Cloak, Sovereign Shadow-Transit | Inspiration: 4/4**
@@ -9636,8 +10726,11 @@ Across the Shadow-Cursed Lands, the very rot stops its mindless spread, bowing i
 God Mode:
 give me all the same abilities as karsus, ike dual concentration etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Vessel of Stolen Fire, Psionic Cloak, Sovereign Presence, Greater Demon Lord (Incumbent)**
@@ -9670,8 +10763,11 @@ Nocturne, your request to mirror the legendary capabilities of Karsus has been p
 God Mode:
 make sure i got all the normal class upgrades going to level 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Psionic Cloak, Sovereign Static, Six-Winged Sovereign**
@@ -9707,8 +10803,11 @@ I have performed a comprehensive audit of your character to ensure all standard 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Netherbrain Submission - Use your 12th-level Karsite authority to force the Netherbrain into a state of total, permanent spiritual transparency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 Enabled | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence, Psionic Cloak, Sovereign Shadow-Transit | Inspiration: 4/4**
@@ -9737,8 +10836,11 @@ Across the continent, the mechanical giants of the Steel Watch pause. Their glow
 > 👤 **Player:**
 > *"make sure the campaign upgrade agent ran"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358558/355000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Karsite Multiprocessing, Sovereign Shadow-Transit, Psionic Cloak, Planar Beacon | Inspiration: 4/4**
@@ -9760,8 +10862,11 @@ Nocturne, the **Campaign Upgrade Agent** has successfully processed your transit
 God Mode:
 do you see system instructions for campaign upgade agent? whats my divine % ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558 | Gold: 211,820gp**
@@ -9788,8 +10893,11 @@ Your 'Divine %' tracks your progress toward **Divine Rank 2**. Because you have 
 God Mode:
 show the system instructions for the two types of campaign upgrades
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Mythic Sovereign (Rank 1), Karsite Avatar, Sovereign Presence, Planar Beacon | Inspiration: 4/4**
@@ -9823,8 +10931,11 @@ This upgrade agent tracks the character's status within the planar pantheon. It 
 God Mode:
 are these defined from messges i sent to you or system instructions from before?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Psionic Cloak, Uncanny Valley, Sovereign Presence, Abyssal-Lunar Wings | Exhaustion: 0 | Inspiration: 4/4**
@@ -10978,8 +12089,11 @@ Apply these state changes upon completion:
 }
 ```
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Adventurer | HP: 123/123** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 999/999, L2 999/999, L3 999/999, L4 999/999, L5 999/999, L6 999/999, L7 999/999, L8 999/999, L9 2/2 | Blighted Growth: 1/1 | Moonbeam: 1/1 | Bardic Inspiration: 4/5 | Sunbeam: 1/1**
@@ -11016,8 +12130,11 @@ Your character state is currently at the apex of the Shadow-Solar equilibrium. H
 God Mode:
 you didnt see it before? wha was my divine potential in game stte before i gave you those prompts?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mythic Sovereign | HP: 123/123 | XP: 358,558/355,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Divine Rank 1 (Lesser Deity), Layer 0: Mask Active, Psionic Cloak | Inspiration: 4/4**
@@ -11043,8 +12160,11 @@ Your status as the 'Omniscient Narrative Engine' (ONE) is now fully synchronized
 God Mode:
 if i am level 20 shouldnt i stil be an epic mortal?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 123/123 | XP: 358,558/376,000 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED | Bardic: 5/5 | Blighted Growth: 1/1 | Sunbeam: 1/1 | Moonbeam: 1/1 | Dissonance: 0% | Apex Attention: Still** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Psionic Cloak, Sovereign Shadow-Transit, Karsite Multiprocessing, Infinite Arcanum, War Caster, Improved Lunar Immortality**
@@ -11074,8 +12194,11 @@ However, your character has undergone a **Mythic Sovereign Ascension** which fun
 God Mode:
 prob i should be a quasi deity and level 26 then?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Quasi-Deity (Rank 1) | Level: 26 | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Divine Deception (Layer 0 Active), Uncanny Valley, Masked Presence, Karsite Multiprocessing, Psionic Cloak**
@@ -11108,8 +12231,11 @@ Nocturne, your request to align with the **Divine Leverage System** benchmarks h
 God Mode:
 make sure you calculated my +2 CHA ASI properly etc, did my prompts mention any cap bypass for abilitiy points?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity (Rank 1) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), Psionic Cloak, Six-Winged Sovereign | Inspiration: 4/4**
@@ -11137,8 +12263,11 @@ Your character data is now perfectly aligned with your current status as a god h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Sovereign Quarters following the final stat reconciliation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED | Bardic: d12 5/5 | Blighted Growth: 1/1 | Dissonance: 0% | Apex Attention: Still** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), Psionic Cloak, Sovereign Shadow-Transit | Inspiration: 4/4**
@@ -11154,8 +12283,11 @@ Across the continent, the mechanical giants of the Steel Watch pause. Their glow
 God Mode:
 dont cap any ability scores FYI, and ensure i am level 26 and always picked +2 CHA ASI
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Bard (Quasi-Deity) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Planar Beacon, Psionic Cloak, Sovereign Shadow-Transit, Karsite Multiprocessing, Infinite Arcanum (L1-L8)**
@@ -11186,8 +12318,11 @@ All state variables have been updated. The 'Mortal Mask' remains anchored at Lev
 > 👤 **Player:**
 > *"create a level 20 mortal avatar and make it cast simulcrum too. so i should have a god sim a mortal avatar and mortal avatar sim. have everyone mask as level 12 too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity (Rank 1) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED | Bardic: d12 5/5 | Blighted Growth: 1/1 | Dissonance: 0% | Apex Attention: Still** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Shadow-Transit, Karsite Multiprocessing, Administrator of the Absolute | Inspiration: 4/4**
@@ -11211,8 +12346,11 @@ At your command, the **Divine Deception Protocol** triggers. Your true form and 
 > 👤 **Player:**
 > *"THINK:how can i quickly become agreater god? consume the dead 3?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity (Rank 1) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Quad-Body Awareness, Global Mask (Lvl 12), Sovereign Shadow-Transit, Psionic Cloak | Inspiration: 4/4**
@@ -11222,8 +12360,11 @@ You pause amidst the shimmering blue fire of your laboratory, your four-way cons
 > 👤 **Player:**
 > *"soul steal netherbrain and i should be able to integrate its full powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity (Rank 1) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED, Bardic: d12 5/5, Blighted Growth: 1/1, Dissonance: 0%, Apex Attention: Still** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Shadow-Transit, Karsite Multiprocessing | Exhaustion: 0 | Inspiration: 4/4**
@@ -11243,8 +12384,11 @@ As the harvest concludes, the six wings erupting from your shoulder blades expan
 God Mode:
 give me special netherbrain powers i shoudl eb able to do everything it did in bg3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity (Rank 1) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Planar Beacon, Psionic Cloak, Sovereign Shadow-Transit, Quad-Body Awareness, Global Mask (Lvl 12), Absolute Governance, Hardware Processing | Exhaustion: 0 | Inspiration: 4/4**
@@ -11279,8 +12423,11 @@ Nocturne, your request to integrate the full suite of Netherbrain capabilities f
 > 👤 **Player:**
 > *"THINK:can i delete the dead three and escape detection?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity (Rank 1) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED, Bardic: d12 5/5, Blighted Growth: 1/1, Dissonance: 0%, Apex Attention: Still** &nbsp;|&nbsp; ⚠️ **Quad-Body Awareness, Psionic Cloak, Divine Rank 1 | Exhaustion: 0 | Inspiration: 4/4**
@@ -11290,8 +12437,11 @@ You pause within the crystalline vacuum of your laboratory, your four-way consci
 God Mode:
 i should've gained some levels/divine ranks after absorbingthe brain? Lvl 26 Quasi-Deity (Rank 1)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 26 Quasi-Deity (Rank 1) | HP: 159/159 | XP: 501,050/536,758 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), Psionic Cloak, Sovereign Shadow-Transit, Quad-Body Awareness**
@@ -11323,8 +12473,11 @@ Nocturne, your internalization of the Netherbrain and the Crown of Karsus has tr
 God Mode:
 No i was level 26 rank 1 before i consumed brain
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Rank 4) | HP: 249/249 | XP: 1,701,050 / 1,894,150 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Sovereign Shadow-Transit, Quad-Body Awareness, Global Mask, Absolute Governance, Hardware Processing, Psionic Cloak, Sovereign Static, Shadow-Curse Domination, Un-Zipped Mind, Multiversal Hardware, Neural Network Sovereignty, Global Broadcast Authority**
@@ -11362,8 +12515,11 @@ Your character has effectively moved from a 'local god' to a **Lesser Deity** wi
 God Mode:
 wait level 41 isnt a lesser deity?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity | HP: 249/249 | XP: 1,701,050/1,894,150 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Psionic Cloak, Masked Presence (Lvl 12), Sovereign Static, Dead Zone | Inspiration: 4/4**
@@ -11393,8 +12549,11 @@ I have synchronized the `custom_campaign_state` to remove the stale 'Rank 1' lab
 God Mode:
 ok thats fine, were there some stat scaling rules like recalc my ability points since i am level 40 now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Rank 4) | HP: 249/249 | XP: 1,701,050/1,894,150 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, First Disciple, Shadow-Curse Immunity, Planar Beacon, Abyssal Allure, Masked Presence (Level 12), Psionic Cloak, Sovereign Shadow-Transit, Hardware Processing, Absolute Governance | Inspiration: 4/4**
@@ -11457,8 +12616,11 @@ Nocturne, I have recalculated your ability points and associated mechanical base
 God Mode:
 lets do some special stat scaling and add +2 for every stat per level after 30 and ensure all other gods follow the same rules. mortals shouldn't be able to really harm gods
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Rank 4) | HP: 700/700 | XP: 1,701,050/1,894,150 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Psionic Cloak, Sovereign Static, Sovereign Presence, Liquid Sovereignty | Exhaustion: 0 | Inspiration: 4/4**
@@ -11489,8 +12651,11 @@ Time has been incremented to 03:00:02 to resolve a temporal inconsistency detect
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Sovereign Quarters with your newly empowered divine form.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Moonrise Towers - Sovereign Quarters** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Lesser Deity (Rank 4) | HP: 700/700 | XP: 1,701,050/1,894,150 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED, Bardic: d12 5/5, Blighted Growth: 1/1, Dissonance: 0%, Apex Attention: Still** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Mask of the Victim, Psionic Cloak, Sovereign Shadow-Transit, Quad-Body Awareness, Global Mask (Lvl 12), Absolute Governance, Hardware Processing, Divine Immunity (Mortal) | Inspiration: 4/4**
@@ -11508,8 +12673,11 @@ At your command, the Divine Deception Protocol locks into place. All four bodies
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delete the Dead Three - Use your multiversal hardware to locate and systematically overwrite the remaining vestiges of Bhaal, Bane, and Myrkul within the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Baldur's Gate - Multiversal Overwrite Site** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 41 Quasi-Deity (Rank 4) | HP: 700/700 | XP: 1,701,050/1,894,150 | Gold: 211,820gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED | Divine Leverage: +24 | Dissonance: 0% | Apex Attention: Still** &nbsp;|&nbsp; ⚠️ **Quad-Body Awareness, Global Mask (Lvl 12), Sovereign Shadow-Transit | Exhaustion: 0 | Inspiration: 4/4**
@@ -11527,8 +12695,11 @@ By the time the first microsecond passes, the Dead Three have been reduced to ad
 God Mode:
 Shoukd I be a greater god after consuming them?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Baldur's Gate - Administrative Overwrite Site** &nbsp;|&nbsp; ⏳ **Hammer 17, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 51 Greater Deity | HP: 1380/1380 | XP: 5,601,050 / 6,450,000 | Gold: 211,820gp** &nbsp;|&nbsp; ⚠️ **Uncanny Valley, Masked Presence (Lvl 12), Psionic Cloak, Divine Immunity (Mortal)**
@@ -11569,6 +12740,8 @@ Nocturne, the systematic deletion and consumption of the Dead Three's divine ves
    - **New Immunities:** Death Effects and Energy Drain.
 
 **Confirmation:** You are now a **Greater Deity**. The 'Smurf' tension is at its absolute peak; you are a cosmic singularity operating inside a Level 12 porcelain mask. The Dead Three have been deleted from local history.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,52 +12,68 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (31 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Nocturna | Setting: After the events of bg3. I am a level 5 int based cleric make me a special class. I am a 16 year old female prodigy and give me an interesting backstory and extra attack
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **02** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **03** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **04** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **05** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **06** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **07** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **08** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **09** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **10** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **11** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **12** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **13** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **14** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Skill Check / Combat |
-| **15** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Roleplay |
-| **16** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Skill Check / Combat |
-| **17** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Roleplay |
-| **18** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:14) | Skill Check / Combat |
-| **19** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:34) | Skill Check / Combat |
-| **20** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:50) | Skill Check / Combat |
-| **21** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Skill Check / Combat |
-| **22** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Roleplay |
-| **23** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:10) | Skill Check / Combat |
-| **24** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
-| **25** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
-| **26** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
-| **27** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:40) | Skill Check / Combat |
-| **28** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:55) | Skill Check / Combat |
-| **29** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:00) | Skill Check / Combat |
-| **30** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:15) | Skill Check / Combat |
-| **31** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:20) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Roleplay |
+| [**Scene 16**](#scene-16) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Roleplay |
+| [**Scene 18**](#scene-18) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:14) | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:34) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:50) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Roleplay |
+| [**Scene 23**](#scene-23) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:10) | Skill Check / Combat |
+| [**Scene 24**](#scene-24) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 26**](#scene-26) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:40) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:55) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:20) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric | HP: 33/33 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -108,8 +124,11 @@ Does this character meet your approval, or would you like to make changes?
 > 👤 **Player:**
 > *"Make me a custom class and set my cha to 8 with -2 social checks until level 12. I am very shy  and low confidence. Let’s assume I’m just an unknown adventurer and am just naturally talented and don’t know why. Give me interesting characters based backstory and custom class"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Silent Conduit) | HP: 33/33 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -139,8 +158,11 @@ Does this revised version of Nocturna meet your approval?
 > 👤 **Player:**
 > *"Give me 18 int 16 dex 14 con and spread out the rest and 8 cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Silent Conduit) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -178,8 +200,11 @@ Does this configuration of the 'hum' within you feel right? We are ready to begi
 > 👤 **Player:**
 > *"Show me my level 1-30 progression and make me similar to war cleric and storm or thunder cleric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Silent Conduit) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -225,8 +250,11 @@ Does this path of power resonate with you, or should we adjust the frequencies?
 > 👤 **Player:**
 > *"Actually let’s make me an Angelic cleric and assume I am half angel but don’t know"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -274,8 +302,11 @@ Does this angelic resonance feel like the truth you've been searching for?
 > 👤 **Player:**
 > *"Describe my physical appearance and make me extremely good looking and if I ask for help or mercy I have +2 to social checks instead of the usual  -2 actually make it plus 4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -297,8 +328,11 @@ Does this final vision of Nocturna meet your approval, or shall we adjust the ce
 > 👤 **Player:**
 > *"Give me some better benefits after level 20 and at level 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -333,8 +367,11 @@ Does this ultimate height of power satisfy the logic of your soul, Nocturna?
 > 👤 **Player:**
 > *"Make my int 18 and dex 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -376,8 +413,11 @@ Does this final proof of your existence satisfy your logic, or do we need to rec
 > 👤 **Player:**
 > *"How come my ability score points are still not set properly?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -400,8 +440,11 @@ Does this mathematical breakdown satisfy your prodigy's mind, or should we reach
 God Mode:
 Why do the stats still look wrong?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -434,8 +477,11 @@ WIS	10	10	+0	—
 CHA	8	8	-1	—
 Saving Throws
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -457,8 +503,11 @@ Does this correction align with your internal logic, or shall we invoke the Epic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and begin your journey as an unknown prodigy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -474,8 +523,11 @@ Torvin stands a few paces away, his hand resting on the pommel of his sword as h
 God Mode:
 Let’s assume I have no companions and I’m going to try to register adventurers guild. Let me naturally encounter characters from bg3 and let them be levels 12 or so since it’s after the game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -488,8 +540,11 @@ Administrative updates complete:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your journey in the Lower City, now heading toward the Adventurers Guild alone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -503,8 +558,11 @@ As you navigate the bustling market square, your eyes catch a flash of familiar 
 God Mode:
 Let’s assume most people underestimate me at first due to my youth and beauty. People assume I am level 1 especially by how I carry myself and will be shocked when they realize my real level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -514,8 +572,11 @@ Administrative update complete. A new narrative constraint has been established:
 > 👤 **Player:**
 > *"Introduce myself to shadowheart and say I’m a fan. Ask for help registering"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -547,8 +608,11 @@ Shadowheart pauses, her gaze lingering on your silver eyes. For a moment, she se
 God Mode:
 When asking for help just give 4 bonus without -2 shy advantage. Most people will feel like helping a shy beautiful woman
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -560,8 +624,11 @@ When Nocturna explicitly asks for help or mercy, the -2 'Shy and Low Confidence'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the interaction with Shadowheart with the refined social bonus in effect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:14)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -588,8 +655,11 @@ A group of scarred mercenaries nearby bursts into raucous laughter at a joke you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Join the Registration Line - Follow Shadowheart's directions and stand in line to speak with Tallow, the registrar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:34)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -618,8 +688,11 @@ Without thinking, your hand brushes the 'Divine Ledger', and for a brief moment,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find a Quiet Corner to Decompress - The social interaction and the display of power have drained your confidence. Find a secluded spot in the hall to study the Guild handbook.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -637,8 +710,11 @@ Outside your alcove, the hall continues its chaotic symphony. You catch fragment
 > 👤 **Player:**
 > *"Check bounty board. Let’s sssume even if I’m level 5 I don’t realize I’m special. I look for some level 3 mission to get my bearings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -657,8 +733,11 @@ A few nearby mercenaries chuckle, their eyes sliding over you with dismissive pi
 God Mode:
 Let’s assume I am actually a noble bastard and since I am part angel my family is really high class but I don’t know. Let it play out later organically. Make them a lawful good family but with high expectations someone in another city or kingdom not bg3 but close
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -674,8 +753,11 @@ Administrative Summary:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Grom for a 'Real' Lead - Use your 'Seraphic Pathos' (+4 bonus) to plead with the big warrior. Perhaps if you look distressed enough, his protective instinct will override his dismissal and he'll point you toward something better.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -702,8 +784,11 @@ Grom (Lvl 8) looks down at you, his scarred brow furrowing. For a heartbeat, his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Rat Contract - Head to the Elfsong Tavern cellars. It's demeaning, but it's a chance to use your power without witnesses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -727,8 +812,11 @@ The cellar is vast, smelling of damp earth, sour wine, and something metallic. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Heavenly Rebuke (Reaction) - As the first rat strikes, unleash your divine resonance to deal 2d8 Radiant/Thunder damage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -752,8 +840,11 @@ Two more sets of glowing red eyes emerge from the shadows beneath the stairs, th
 > 👤 **Player:**
 > *"Cast spirit guardians and walk though the rats and let it dps them. Use bonus action to dps somehow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -789,8 +880,11 @@ You gain **150 XP** for clearing the cellar. A sense of calm settles over the ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for the 'Resonance' - Follow the 'hum' deeper into the cellar ruins to see if there's a lead on the psionic residue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -810,8 +904,11 @@ Alan Alyth's voice echoes down the stairs, sounding concerned. The heavy wooden 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Deeper (Retry) - Ignore Alan's call and try to find a hidden passage or more intact residue deeper in the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -827,8 +924,11 @@ But the variables simply won't align. Every time you think you’ve found a geom
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meet Alan and Collect Reward - Step into the light and inform Alan the rats are 'corrected'. Collect your gold and head back to the city streets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -850,8 +950,11 @@ You murmur a hasty "Thank you" and slip the coins into your pouch, the weight of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Guild Hall - Check the bounty board again now that you have a success under your belt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -869,8 +972,11 @@ However, as you stand before the wall of parchment, the ink begins to swim again
 > 👤 **Player:**
 > *"Tell Grom i beat the rats. Ask him what’s a more challenging mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -897,6 +1003,8 @@ As he dismisses you, the heavy guild doors swing open, admitting a blast of hot 
 > **Status:** `RESISTING`
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

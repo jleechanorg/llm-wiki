@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (206 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 No, we do not need to generate another 5,000 words. I can consolidate the remaining critical character dossiers, faction dynamics, and campaign loop mechanics right here. This will give you a completely self-contained, highly persistent module for the Year 1509 setting, ready for immediate play.
@@ -348,222 +359,227 @@ Imagine Alexiel standing over a defeated Imperial Paladin. The Paladin fought br
 When Alexiel drives her blade through the pleading knight's chest, maintaining her cold, terrifying Harbinger mask, her internal mind fractures a little more. She is participating in Lucifer's grand calculus—committing an undeniable evil to break the cosmic wheel—but she feels the weight of every individual life extinguished to achieve it.
 **
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Western Marches - Vanguard Camp | Month 1, 1509 CS (Day 1) | Roleplay |
-| **02** | The Western Marches | Month 1, 1509 DR (Day 1) | Roleplay |
-| **03** | The Western Marches | Month 1, 1509 (Day 1) | Roleplay |
-| **04** | The Western Marches | Month 1, 1509 DR (Day 1) | Roleplay |
-| **05** | The Western Marches | Month 1, 1509 (1) | Roleplay |
-| **06** | Silverwood Approach | Month 1, 1509 AC (Day 1) | Roleplay |
-| **07** | Silverwood Approach | Month 1, 1509 DR (Day 1) | Roleplay |
-| **08** | Silverwood Approach | Month 1, 1509 DR (Day 1) | Roleplay |
-| **09** | Silverwood Gate | Month 1, 1509 DR (Day 1) | Social Challenge |
-| **10** | Silverwood Approach | Month 1, 1509 DR (Day 1) | Roleplay |
-| **11** | Silverwood Gates | Month 1, 1509 DR (Day 1) | Social Challenge |
-| **12** | Silverwood Approach | Month 1, 1509 (Day 1) | Social Challenge |
-| **13** | Silverwood Gates | Month 1, 1509 (Day 1) | Social Challenge |
-| **14** | Silverwood Gates | Month 1 Day 1, 1509 (08:50) | Boss Surrender |
-| **15** | Silverwood Central Square | Month 1 1, 1509 DR (09:00) | Roleplay |
-| **16** | Silverwood Central Square | Month 1, 1509 DR (Day 1) | Roleplay |
-| **17** | Silverwood - Main Gate | Month 1 Day 1, 1509 AC (09:05) | Boss Surrender |
-| **18** | Silverwood Central Square | Month 1, 1509 (Day 1) | Roleplay |
-| **19** | Silverwood Central Square | Month 1, Year 1509 (Day 1) | Roleplay |
-| **20** | Silverwood Governor's Manor (Host Command Post) | Month 1, 1509 DR (Day 8) | Roleplay |
-| **21** | Silverwood - Governor's Manor Balcony | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **22** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **23** | Silverwood Central Square | Month 1, 1509 (09:20) | Roleplay |
-| **24** | Silverwood Central Square | Month 1 Day 15, 1509 DR (09:25) | Roleplay |
-| **25** | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **26** | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **27** | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **28** | Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
-| **29** | Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
-| **30** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **31** | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **32** | Silverwood Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
-| **33** | Silverwood Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
-| **34** | Silverwood Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
-| **35** | Silverwood Central Square | Month 1, 1509 (Day 15) | Roleplay |
-| **36** | Silverwood Central Square | Month 1, 1509 (Day 15) | Social Challenge |
-| **37** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **38** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **39** | Silverwood Central Square | Month 1 Day 15, 1509 DR (10:05) | Social Challenge |
-| **40** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **41** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **42** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **43** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **44** | Silverwood Central Square | Month 1 Day 15, 1509 DR (10:20) | Social Challenge |
-| **45** | Silverwood Central Square | Month 1 15, 1509 DR (10:20) | Roleplay |
-| **46** | Silverwood Central Square | Month 1 15, 1509 DR (10:20) | Roleplay |
-| **47** | Silverwood Central Square | Month 1 15, 1509 (10:20) | Roleplay |
-| **48** | Silverwood Central Square | Month 1 Day 15, 1509 (10:35) | Boss Surrender |
-| **49** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **50** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **51** | Silverwood Central Square | Month 1 15, 1509 (10:35) | Roleplay |
-| **52** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **53** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **54** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **55** | Silverwood Central Square | Month 1 15, 1509 DR (10:35) | Boss Surrender |
-| **56** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **57** | Silverwood Central Square | Month 1 15, 1509 DR (10:35) | Roleplay |
-| **58** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **59** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **60** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **61** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **62** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **63** | Silverwood Central Square | Month 1 Day 15, 1509 DR (10:35) | Social Challenge |
-| **64** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **65** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **66** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **67** | Silverwood Central Square | Month 1, Year 1509 (Day 15) | Roleplay |
-| **68** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **69** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **70** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **71** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **72** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **73** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **74** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **75** | Silverwood Central Square | Month 1, 1509 (Day 15) | Roleplay |
-| **76** | Silverwood Central Square | Month 1 15, 1509 DR (11:45) | Roleplay |
-| **77** | Northern Ridge Timber Yards | Month 1 15, 1509 DR (12:00) | Boss Surrender |
-| **78** | Northern Ridge | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **79** | Northern Ridge | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **80** | Northern Ridge | Month 1, 1509 DR (Day 15) | Roleplay |
-| **81** | Northern Ridge | Month 1, 1509 (Day 15) | Roleplay |
-| **82** | Northern Ridge | Month 1 15, 1509 (12:05) | Roleplay |
-| **83** | Northern Ridge overlooking Silverwood | Month 1 Day 15, 1509 DR (12:15) | Boss Surrender |
-| **84** | Silverwood Northern Flumes | Month 1, 1509 DR (Day 15) | Roleplay |
-| **85** | Northern Timber Flumes | Month 1, 1509 DR (Day 15) | Roleplay |
-| **86** | Northern Timber Flumes | Day 15, 1509 Month 1 (12:25) | Boss Surrender |
-| **87** | Silverwood Central Square / Northern Flumes | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **88** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
-| **89** | Silverwood Central Square (STORY PAUSED) | Month 1 Day 15, 1509 DR (12:30) | Roleplay |
-| **90** | Silverwood Central Square | Month 1, 1509 (Day 15) | Roleplay |
-| **91** | Silverwood Central Square | Month 1 Day 15, 1509 DR (12:30) | Social Challenge |
-| **92** | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **93** | Silverwood - Path to Northern Perimeter | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **94** | Silverwood Northern Perimeter | Month 1 15, 1509 DR (12:35) | Roleplay |
-| **95** | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
-| **96** | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
-| **97** | Silverwood - Lower Logging Yard | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **98** | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **99** | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
-| **100** | Silverwood Northern Flumes | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **101** | Silverwood Northern Perimeter (Refugee Cellars) | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **102** | Silverwood Flume Cellars | Month 1, 1509 DR (Day 15) | Social Challenge |
-| **103** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **104** | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
-| **105** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **106** | Silverwood Governor's Manor | Month 1 Day 15, 1509 DR (19:50) | Roleplay |
-| **107** | Silverwood Governor's Manor | Month 1 15, 1509 DR (19:50) | Social Challenge |
-| **108** | Silverwood - Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **109** | Silverwood Northern Perimeter | Month 1 Day 15, 1509 DR (19:50) | Roleplay |
-| **110** | Silverwood Northern Perimeter | Month 1 15, 1509 Year 1 (19:50) | Roleplay |
-| **111** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **112** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **113** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **114** | Governor's Manor Study | Month 1, 1509 (Day 15) | Social Challenge |
-| **115** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **116** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **117** | Silverwood Governor's Manor | Month 1, 1509 (Day 15) | Roleplay |
-| **118** | Governor's Manor Study | Month 1, 1509 (Day 15) | Social Challenge |
-| **119** | Silverwood Governor's Manor | Month 1 Day 15, 1509 DR (19:50) | Roleplay |
-| **120** | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **121** | Governor's Study | Month 1 Day 15, 1509 DR (20:05) | Roleplay |
-| **122** | Silverwood Governor's Manor | Month 1 Day 15, 1509 (20:05) | Roleplay |
-| **123** | Silverwood Governor's Manor - Study | Month 1, 1509 DR (Day 15) | Boss Surrender |
-| **124** | Governor's Manor | Month 1, 1509 (Day 15) | Roleplay |
-| **125** | Governor's Study | Month 1, 1509 (Day 15) | Roleplay |
-| **126** | Silverwood Governor's Study | Month 1, 1509 DR (Day 15) | Roleplay |
-| **127** | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Roleplay |
-| **128** | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Roleplay |
-| **129** | Governor's Manor Study | Month 1, 1509 (Day 15) | Roleplay |
-| **130** | Governor's Manor | Month 1 Day 15, 1509 DR (20:20) | Roleplay |
-| **131** | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Roleplay |
-| **132** | Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
-| **133** | Unknown | Month 1 15, 1509 DR (20:20) | Roleplay |
-| **134** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Boss Surrender |
-| **135** | Silverwood Logging Camps | Month 1, 1509 DR (Day 16) | Roleplay |
-| **136** | Silverwood Manor District | Month 1, 1509 DR (Day 16) | Roleplay |
-| **137** | Governor's Manor District | Month 1, 1509 DR (Day 16) | Boss Surrender |
-| **138** | Governor's Manor | Month 1, 1509 DR (Day 16) | Boss Surrender |
-| **139** | Governor's Study | Month 1 16, 1509 (07:00) | Roleplay |
-| **140** | Governor's Manor - Study | Month 1, 1509 DR (Day 16) | Roleplay |
-| **141** | Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
-| **142** | Silverwood Governor's Manor | Month 1 Day 16, 1509 (07:00) | Roleplay |
-| **143** | Governor's Manor - Sub-Level 3 | Month 1, 1509 (Day 16) | Roleplay |
-| **144** | Silverwood - Secret Archive / Flume Cellars | Month 1 Day 16, 1509 DR (08:00) | Roleplay |
-| **145** | Silverwood Flume Cellars | Month 1, 1509 DR (Day 16) | Roleplay |
-| **146** | Silverwood flume cellars | Month 1, 1509 (Day 16) | Roleplay |
-| **147** | Silverwood Flume Cellars | Month 1, 1509 (Day 16) | Roleplay |
-| **148** | Silverwood Flume Cellars | Month 1, 1509 DR (Day 16) | Roleplay |
-| **149** | Silverwood Northern Perimeter (Flume Cellars) | Month 1, 1509 (Day 16) | Roleplay |
-| **150** | Governor's Manor Study | Month 1, 1509 DR (Day 16) | Social Challenge |
-| **151** | Governor's Manor Archive | Month 1 Day 16, 1509 DR (08:00) | Roleplay |
-| **152** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
-| **153** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
-| **154** | Silverwood Manor | Month 1, 1509 DR (Day 16) | Roleplay |
-| **155** | Silverwood Flume Cellars | Month 1, 1509 DR (Day 16) | Roleplay |
-| **156** | Silverwood Manor / Flume Cellars | Month 1, 1509 (Day 16) | Roleplay |
-| **157** | Silverwood flume cellars | Month 1, 1509 (Day 16) | Roleplay |
-| **158** | Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
-| **159** | Silverwood Governor's Manor | Month 1, 1509 (Day 16) | Roleplay |
-| **160** | Silverwood Governor's Manor | Month 1, 1509 (Day 16) | Roleplay |
-| **161** | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
-| **162** | Miller's Crossing Cloud-Dock | Month 1, Year 1509 (Day 16) | Roleplay |
-| **163** | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 18) | Social Challenge |
-| **164** | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **165** | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Roleplay |
-| **166** | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **167** | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Roleplay |
-| **168** | Miller's Crossing Cloud-Dock | Month 1 Day 17, 1509 (08:40) | Social Challenge |
-| **169** | Sovereign Will Transit Pod (High Atmosphere) | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **170** | Sovereign Will Transit Pod (En Route to Obsidian Spire) | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **171** | Sovereign Will Transit Pod (Descent to Spire) | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **172** | Obsidian Spire - High Docking Ring | Month 1, 1509 DR (Day 17) | Roleplay |
-| **173** | Obsidian Spire - Docking Bay 4-Alpha | Month 1, 1509 DR (Day 17) | Roleplay |
-| **174** | Obsidian Spire | Month 1, 1509 DR (Day 17) | Roleplay |
-| **175** | The Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **176** | Obsidian Spire | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **177** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **178** | Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **179** | Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **180** | Star-Chamber | Month 1 Day 17, 1509 DR (13:20) | Social Challenge |
-| **181** | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Roleplay |
-| **182** | Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **183** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **184** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **185** | Obsidian Spire - Star-Chamber / Ward Relay | Month 1 Day 17, 1509 DR (20:10) | Social Challenge |
-| **186** | Obsidian Spire - Star-Chamber | Month 1 Day 17, 1509 DR (13:30) | Roleplay |
-| **187** | Obsidian Spire - Star-Chamber | Month 1, 1509 Year (Day 17) | Roleplay |
-| **188** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **189** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
-| **190** | Obsidian Spire - Star-Chamber | Month 1 Day 17, 1509 DR (13:45) | Social Challenge |
-| **191** | Obsidian Spire - Star-Chamber | Month 1 Day 17, 1509 DR (13:50) | Social Challenge |
-| **192** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Boss Surrender |
-| **193** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **194** | Miller's Crossing Command Hub | Month 1, 1509 (Day 17) | Roleplay |
-| **195** | Miller's Crossing Command Gantry | Month 1, 1509 DR (Day 17) | Roleplay |
-| **196** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **197** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **198** | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
-| **199** | Obsidian Spire - Strategy Chamber | Month 1, 1509 (Day 17) | Boss Surrender |
-| **200** | Obsidian Spire - Apex Corridor | Month 1 Day 17, 1509 DR (18:10) | Social Challenge |
-| **201** | Obsidian Spire - Lower Vats (The Roots) | Month 1 Day 17, 1509 DR (19:10) | Social Challenge |
-| **202** | Obsidian Spire - Lower Vats | Month 1 Day 17, 1509 DR (19:15) | Social Challenge |
-| **203** | Obsidian Spire - Lower Vats | Month 1, 1509 DR (Day 17) | Roleplay |
-| **204** | Unknown | Month 1 17, 1509 DR (19:15) | Roleplay |
-| **205** | Unknown | Month 1 17, 1509 DR (19:15) | Roleplay |
-| **206** | Obsidian Spire - Star-Chamber | Month 1 17, 1509 (19:15) | Roleplay |
+| [**Scene 01**](#scene-1) | The Western Marches - Vanguard Camp | Month 1, 1509 CS (Day 1) | Roleplay |
+| [**Scene 02**](#scene-2) | The Western Marches | Month 1, 1509 DR (Day 1) | Roleplay |
+| [**Scene 03**](#scene-3) | The Western Marches | Month 1, 1509 (Day 1) | Roleplay |
+| [**Scene 04**](#scene-4) | The Western Marches | Month 1, 1509 DR (Day 1) | Roleplay |
+| [**Scene 05**](#scene-5) | The Western Marches | Month 1, 1509 (1) | Roleplay |
+| [**Scene 06**](#scene-6) | Silverwood Approach | Month 1, 1509 AC (Day 1) | Roleplay |
+| [**Scene 07**](#scene-7) | Silverwood Approach | Month 1, 1509 DR (Day 1) | Roleplay |
+| [**Scene 08**](#scene-8) | Silverwood Approach | Month 1, 1509 DR (Day 1) | Roleplay |
+| [**Scene 09**](#scene-9) | Silverwood Gate | Month 1, 1509 DR (Day 1) | Social Challenge |
+| [**Scene 10**](#scene-10) | Silverwood Approach | Month 1, 1509 DR (Day 1) | Roleplay |
+| [**Scene 11**](#scene-11) | Silverwood Gates | Month 1, 1509 DR (Day 1) | Social Challenge |
+| [**Scene 12**](#scene-12) | Silverwood Approach | Month 1, 1509 (Day 1) | Social Challenge |
+| [**Scene 13**](#scene-13) | Silverwood Gates | Month 1, 1509 (Day 1) | Social Challenge |
+| [**Scene 14**](#scene-14) | Silverwood Gates | Month 1 Day 1, 1509 (08:50) | Boss Surrender |
+| [**Scene 15**](#scene-15) | Silverwood Central Square | Month 1 1, 1509 DR (09:00) | Roleplay |
+| [**Scene 16**](#scene-16) | Silverwood Central Square | Month 1, 1509 DR (Day 1) | Roleplay |
+| [**Scene 17**](#scene-17) | Silverwood - Main Gate | Month 1 Day 1, 1509 AC (09:05) | Boss Surrender |
+| [**Scene 18**](#scene-18) | Silverwood Central Square | Month 1, 1509 (Day 1) | Roleplay |
+| [**Scene 19**](#scene-19) | Silverwood Central Square | Month 1, Year 1509 (Day 1) | Roleplay |
+| [**Scene 20**](#scene-20) | Silverwood Governor's Manor (Host Command Post) | Month 1, 1509 DR (Day 8) | Roleplay |
+| [**Scene 21**](#scene-21) | Silverwood - Governor's Manor Balcony | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 22**](#scene-22) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 23**](#scene-23) | Silverwood Central Square | Month 1, 1509 (09:20) | Roleplay |
+| [**Scene 24**](#scene-24) | Silverwood Central Square | Month 1 Day 15, 1509 DR (09:25) | Roleplay |
+| [**Scene 25**](#scene-25) | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 26**](#scene-26) | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 27**](#scene-27) | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 28**](#scene-28) | Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 29**](#scene-29) | Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 30**](#scene-30) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 31**](#scene-31) | Southern Granary | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 32**](#scene-32) | Silverwood Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 33**](#scene-33) | Silverwood Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 34**](#scene-34) | Silverwood Southern Granary | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 35**](#scene-35) | Silverwood Central Square | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 36**](#scene-36) | Silverwood Central Square | Month 1, 1509 (Day 15) | Social Challenge |
+| [**Scene 37**](#scene-37) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 38**](#scene-38) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 39**](#scene-39) | Silverwood Central Square | Month 1 Day 15, 1509 DR (10:05) | Social Challenge |
+| [**Scene 40**](#scene-40) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 41**](#scene-41) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 42**](#scene-42) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 43**](#scene-43) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 44**](#scene-44) | Silverwood Central Square | Month 1 Day 15, 1509 DR (10:20) | Social Challenge |
+| [**Scene 45**](#scene-45) | Silverwood Central Square | Month 1 15, 1509 DR (10:20) | Roleplay |
+| [**Scene 46**](#scene-46) | Silverwood Central Square | Month 1 15, 1509 DR (10:20) | Roleplay |
+| [**Scene 47**](#scene-47) | Silverwood Central Square | Month 1 15, 1509 (10:20) | Roleplay |
+| [**Scene 48**](#scene-48) | Silverwood Central Square | Month 1 Day 15, 1509 (10:35) | Boss Surrender |
+| [**Scene 49**](#scene-49) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 50**](#scene-50) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 51**](#scene-51) | Silverwood Central Square | Month 1 15, 1509 (10:35) | Roleplay |
+| [**Scene 52**](#scene-52) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 53**](#scene-53) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 54**](#scene-54) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 55**](#scene-55) | Silverwood Central Square | Month 1 15, 1509 DR (10:35) | Boss Surrender |
+| [**Scene 56**](#scene-56) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 57**](#scene-57) | Silverwood Central Square | Month 1 15, 1509 DR (10:35) | Roleplay |
+| [**Scene 58**](#scene-58) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 59**](#scene-59) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 60**](#scene-60) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 61**](#scene-61) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 62**](#scene-62) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 63**](#scene-63) | Silverwood Central Square | Month 1 Day 15, 1509 DR (10:35) | Social Challenge |
+| [**Scene 64**](#scene-64) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 65**](#scene-65) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 66**](#scene-66) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 67**](#scene-67) | Silverwood Central Square | Month 1, Year 1509 (Day 15) | Roleplay |
+| [**Scene 68**](#scene-68) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 69**](#scene-69) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 70**](#scene-70) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 71**](#scene-71) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 72**](#scene-72) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 73**](#scene-73) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 74**](#scene-74) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 75**](#scene-75) | Silverwood Central Square | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 76**](#scene-76) | Silverwood Central Square | Month 1 15, 1509 DR (11:45) | Roleplay |
+| [**Scene 77**](#scene-77) | Northern Ridge Timber Yards | Month 1 15, 1509 DR (12:00) | Boss Surrender |
+| [**Scene 78**](#scene-78) | Northern Ridge | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 79**](#scene-79) | Northern Ridge | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 80**](#scene-80) | Northern Ridge | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 81**](#scene-81) | Northern Ridge | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 82**](#scene-82) | Northern Ridge | Month 1 15, 1509 (12:05) | Roleplay |
+| [**Scene 83**](#scene-83) | Northern Ridge overlooking Silverwood | Month 1 Day 15, 1509 DR (12:15) | Boss Surrender |
+| [**Scene 84**](#scene-84) | Silverwood Northern Flumes | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 85**](#scene-85) | Northern Timber Flumes | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 86**](#scene-86) | Northern Timber Flumes | Day 15, 1509 Month 1 (12:25) | Boss Surrender |
+| [**Scene 87**](#scene-87) | Silverwood Central Square / Northern Flumes | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 88**](#scene-88) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 89**](#scene-89) | Silverwood Central Square (STORY PAUSED) | Month 1 Day 15, 1509 DR (12:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Silverwood Central Square | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 91**](#scene-91) | Silverwood Central Square | Month 1 Day 15, 1509 DR (12:30) | Social Challenge |
+| [**Scene 92**](#scene-92) | Silverwood Central Square | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 93**](#scene-93) | Silverwood - Path to Northern Perimeter | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 94**](#scene-94) | Silverwood Northern Perimeter | Month 1 15, 1509 DR (12:35) | Roleplay |
+| [**Scene 95**](#scene-95) | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 96**](#scene-96) | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 97**](#scene-97) | Silverwood - Lower Logging Yard | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 98**](#scene-98) | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 99**](#scene-99) | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 100**](#scene-100) | Silverwood Northern Flumes | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 101**](#scene-101) | Silverwood Northern Perimeter (Refugee Cellars) | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 102**](#scene-102) | Silverwood Flume Cellars | Month 1, 1509 DR (Day 15) | Social Challenge |
+| [**Scene 103**](#scene-103) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 104**](#scene-104) | Silverwood Northern Perimeter | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 105**](#scene-105) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 106**](#scene-106) | Silverwood Governor's Manor | Month 1 Day 15, 1509 DR (19:50) | Roleplay |
+| [**Scene 107**](#scene-107) | Silverwood Governor's Manor | Month 1 15, 1509 DR (19:50) | Social Challenge |
+| [**Scene 108**](#scene-108) | Silverwood - Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 109**](#scene-109) | Silverwood Northern Perimeter | Month 1 Day 15, 1509 DR (19:50) | Roleplay |
+| [**Scene 110**](#scene-110) | Silverwood Northern Perimeter | Month 1 15, 1509 Year 1 (19:50) | Roleplay |
+| [**Scene 111**](#scene-111) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 112**](#scene-112) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 113**](#scene-113) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 114**](#scene-114) | Governor's Manor Study | Month 1, 1509 (Day 15) | Social Challenge |
+| [**Scene 115**](#scene-115) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 116**](#scene-116) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 117**](#scene-117) | Silverwood Governor's Manor | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 118**](#scene-118) | Governor's Manor Study | Month 1, 1509 (Day 15) | Social Challenge |
+| [**Scene 119**](#scene-119) | Silverwood Governor's Manor | Month 1 Day 15, 1509 DR (19:50) | Roleplay |
+| [**Scene 120**](#scene-120) | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 121**](#scene-121) | Governor's Study | Month 1 Day 15, 1509 DR (20:05) | Roleplay |
+| [**Scene 122**](#scene-122) | Silverwood Governor's Manor | Month 1 Day 15, 1509 (20:05) | Roleplay |
+| [**Scene 123**](#scene-123) | Silverwood Governor's Manor - Study | Month 1, 1509 DR (Day 15) | Boss Surrender |
+| [**Scene 124**](#scene-124) | Governor's Manor | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 125**](#scene-125) | Governor's Study | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 126**](#scene-126) | Silverwood Governor's Study | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 127**](#scene-127) | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 128**](#scene-128) | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 129**](#scene-129) | Governor's Manor Study | Month 1, 1509 (Day 15) | Roleplay |
+| [**Scene 130**](#scene-130) | Governor's Manor | Month 1 Day 15, 1509 DR (20:20) | Roleplay |
+| [**Scene 131**](#scene-131) | Governor's Manor Study | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 132**](#scene-132) | Governor's Manor | Month 1, 1509 DR (Day 15) | Roleplay |
+| [**Scene 133**](#scene-133) | Unknown | Month 1 15, 1509 DR (20:20) | Roleplay |
+| [**Scene 134**](#scene-134) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Boss Surrender |
+| [**Scene 135**](#scene-135) | Silverwood Logging Camps | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 136**](#scene-136) | Silverwood Manor District | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 137**](#scene-137) | Governor's Manor District | Month 1, 1509 DR (Day 16) | Boss Surrender |
+| [**Scene 138**](#scene-138) | Governor's Manor | Month 1, 1509 DR (Day 16) | Boss Surrender |
+| [**Scene 139**](#scene-139) | Governor's Study | Month 1 16, 1509 (07:00) | Roleplay |
+| [**Scene 140**](#scene-140) | Governor's Manor - Study | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 141**](#scene-141) | Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 142**](#scene-142) | Silverwood Governor's Manor | Month 1 Day 16, 1509 (07:00) | Roleplay |
+| [**Scene 143**](#scene-143) | Governor's Manor - Sub-Level 3 | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 144**](#scene-144) | Silverwood - Secret Archive / Flume Cellars | Month 1 Day 16, 1509 DR (08:00) | Roleplay |
+| [**Scene 145**](#scene-145) | Silverwood Flume Cellars | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 146**](#scene-146) | Silverwood flume cellars | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 147**](#scene-147) | Silverwood Flume Cellars | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 148**](#scene-148) | Silverwood Flume Cellars | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 149**](#scene-149) | Silverwood Northern Perimeter (Flume Cellars) | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 150**](#scene-150) | Governor's Manor Study | Month 1, 1509 DR (Day 16) | Social Challenge |
+| [**Scene 151**](#scene-151) | Governor's Manor Archive | Month 1 Day 16, 1509 DR (08:00) | Roleplay |
+| [**Scene 152**](#scene-152) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 153**](#scene-153) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 154**](#scene-154) | Silverwood Manor | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 155**](#scene-155) | Silverwood Flume Cellars | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 156**](#scene-156) | Silverwood Manor / Flume Cellars | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 157**](#scene-157) | Silverwood flume cellars | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 158**](#scene-158) | Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 159**](#scene-159) | Silverwood Governor's Manor | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 160**](#scene-160) | Silverwood Governor's Manor | Month 1, 1509 (Day 16) | Roleplay |
+| [**Scene 161**](#scene-161) | Silverwood Governor's Manor | Month 1, 1509 DR (Day 16) | Roleplay |
+| [**Scene 162**](#scene-162) | Miller's Crossing Cloud-Dock | Month 1, Year 1509 (Day 16) | Roleplay |
+| [**Scene 163**](#scene-163) | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 18) | Social Challenge |
+| [**Scene 164**](#scene-164) | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 165**](#scene-165) | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 166**](#scene-166) | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 167**](#scene-167) | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 168**](#scene-168) | Miller's Crossing Cloud-Dock | Month 1 Day 17, 1509 (08:40) | Social Challenge |
+| [**Scene 169**](#scene-169) | Sovereign Will Transit Pod (High Atmosphere) | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 170**](#scene-170) | Sovereign Will Transit Pod (En Route to Obsidian Spire) | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 171**](#scene-171) | Sovereign Will Transit Pod (Descent to Spire) | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 172**](#scene-172) | Obsidian Spire - High Docking Ring | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 173**](#scene-173) | Obsidian Spire - Docking Bay 4-Alpha | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 174**](#scene-174) | Obsidian Spire | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 175**](#scene-175) | The Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 176**](#scene-176) | Obsidian Spire | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 177**](#scene-177) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 178**](#scene-178) | Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 179**](#scene-179) | Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 180**](#scene-180) | Star-Chamber | Month 1 Day 17, 1509 DR (13:20) | Social Challenge |
+| [**Scene 181**](#scene-181) | Miller's Crossing Cloud-Dock | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 182**](#scene-182) | Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 183**](#scene-183) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 184**](#scene-184) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 185**](#scene-185) | Obsidian Spire - Star-Chamber / Ward Relay | Month 1 Day 17, 1509 DR (20:10) | Social Challenge |
+| [**Scene 186**](#scene-186) | Obsidian Spire - Star-Chamber | Month 1 Day 17, 1509 DR (13:30) | Roleplay |
+| [**Scene 187**](#scene-187) | Obsidian Spire - Star-Chamber | Month 1, 1509 Year (Day 17) | Roleplay |
+| [**Scene 188**](#scene-188) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 189**](#scene-189) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Social Challenge |
+| [**Scene 190**](#scene-190) | Obsidian Spire - Star-Chamber | Month 1 Day 17, 1509 DR (13:45) | Social Challenge |
+| [**Scene 191**](#scene-191) | Obsidian Spire - Star-Chamber | Month 1 Day 17, 1509 DR (13:50) | Social Challenge |
+| [**Scene 192**](#scene-192) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Boss Surrender |
+| [**Scene 193**](#scene-193) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 194**](#scene-194) | Miller's Crossing Command Hub | Month 1, 1509 (Day 17) | Roleplay |
+| [**Scene 195**](#scene-195) | Miller's Crossing Command Gantry | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 196**](#scene-196) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 197**](#scene-197) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 198**](#scene-198) | Obsidian Spire - Star-Chamber | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 199**](#scene-199) | Obsidian Spire - Strategy Chamber | Month 1, 1509 (Day 17) | Boss Surrender |
+| [**Scene 200**](#scene-200) | Obsidian Spire - Apex Corridor | Month 1 Day 17, 1509 DR (18:10) | Social Challenge |
+| [**Scene 201**](#scene-201) | Obsidian Spire - Lower Vats (The Roots) | Month 1 Day 17, 1509 DR (19:10) | Social Challenge |
+| [**Scene 202**](#scene-202) | Obsidian Spire - Lower Vats | Month 1 Day 17, 1509 DR (19:15) | Social Challenge |
+| [**Scene 203**](#scene-203) | Obsidian Spire - Lower Vats | Month 1, 1509 DR (Day 17) | Roleplay |
+| [**Scene 204**](#scene-204) | Unknown | Month 1 17, 1509 DR (19:15) | Roleplay |
+| [**Scene 205**](#scene-205) | Unknown | Month 1 17, 1509 DR (19:15) | Roleplay |
+| [**Scene 206**](#scene-206) | Obsidian Spire - Star-Chamber | Month 1 17, 1509 (19:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Western Marches - Vanguard Camp** &nbsp;|&nbsp; ⏳ **Month 1, 1509 CS (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/14000 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Sorcery Points: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -590,8 +606,11 @@ Does this character and setting meet your approval, or would you like to make ch
 God Mode:
 What made you decide to give me so little gold and no ranged weapon? Also if I have dual blades why only main hand?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Western Marches** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/7500 | Gold: 250gp**
@@ -616,8 +635,11 @@ In the D&D 5E mechanical framework, 'Dual Blades' as a single item in the main h
 God Mode:
 My stats seem high?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Western Marches** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/7500 | Gold: 250gp**
@@ -636,8 +658,11 @@ You are correct that your attributes (STR 18, DEX 18, CON 16, INT 20, WIS 16, CH
 God Mode:
 Swap some str to dex and some str and wisdom to cha. I shoukd have  20 dex and at least 18 cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Western Marches** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/7500 | Gold: 250gp**
@@ -662,8 +687,11 @@ Your character data has been updated. You are now optimized for both the 'Assass
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize and Begin Deployment - Accept these changes and proceed to the approach at Silverwood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Western Marches** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 58/58 | XP: 6500/7500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | EP: 40/40 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -686,8 +714,11 @@ The Morning Star believes you are a cold equation in human form. Lieutenant Goro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Lock in your stats and begin the approach to Silverwood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Silverwood Approach, Western Marches** &nbsp;|&nbsp; ⏳ **Month 1, 1509 AC (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6,500/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **EP: 40/40, Spells: L1 4/4, L2 3/3, L3 2/2, HD: 5/5, Shadow Ledger: 0, Suspicion: 0/100** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -701,8 +732,11 @@ Nearby, Kaelen checks the tension on his bow, his eyes averted. The Ash-Mark und
 > [!NOTE] ⚙️ **Player Choice:**
 > *Read Lucifer's Message - Retrieve the scroll from the mechanical owl to see if the Morning Star has changed the operational parameters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Silverwood Approach** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/7500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | EP: 40/40 | Bolts: 20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -728,8 +762,11 @@ He hesitates, the Ash-Mark under his eye trembling slightly. "My sister... she w
 God Mode:
 Give me 5 older siblings 3 women two men. Some are clones and some natural born and give them various alignments and attitudes towards me. Oldest is a male and seen as the inheritor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Silverwood Approach** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, EP: 40/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -749,8 +786,11 @@ I have populated the NPC registry with your siblings, detailing their status as 
 > 👤 **Player:**
 > *"Go as the harbrinher but ask to speak to Artorius personally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Silverwood Gate** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Harbinger | HP: 58/58 | XP: 6500/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | EP: 40/40 | Spells: L1 4/4, L2 3/3, L3 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -778,8 +818,11 @@ A hush falls over Silverwood. Then, the grinding of heavy timber echoes across t
 God Mode:
 The utiltimatim is wrong. If they surrender all live. If they fight half culled
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Silverwood Approach** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/7500 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -798,8 +841,11 @@ Operational Parameters Corrected: The 50% Culling Doctrine is now conditional.
 > 👤 **Player:**
 > *"Show him ribbon but angle it in a way only he can see it and get closer to him. Explain that surrender makes sense due to the culling rule. The host forces are far greater. If later they take back the town everyone will be alive. Show him my true nature and say I am not my father and don’t believe in evil methods for noble goals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Silverwood Gates** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/7500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Energy: 40/40 | IP: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -828,8 +874,11 @@ Artorius stares at you, the golden light of his wings flickering. He looks past 
 > 👤 **Player:**
 > *"Show him ribbon but angle it in a way only he can see it and get closer to him. Explain that surrender makes sense due to the culling rule. The host forces are far greater. If later they take back the town everyone will be alive. Show him my true nature and say I am not my father and don’t believe in evil methods for noble goals. Say this all quietly so only he can hear. Also make me extremely attractive and beautiful like top 1% of society and it should help my persuasion."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Silverwood Approach** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gestalt | HP: 58/58 | XP: 6500/7500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **EP: 40/40, Spells: L1 4/4, L2 3/3, L3 2/2, HD: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -862,8 +911,11 @@ Behind you, the rhythmic grinding of whetstones stops. Lieutenant Gorok has brok
 > 👤 **Player:**
 > *"Explain Lucifer’s methodology. He uses the culling as a deterrent. The villages who surrender are spared. The army is allowed to leave. Remember how all the other villages weren’t harmed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Silverwood Gates** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 6500/7500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **EP: 40/40, Spells: L1 4/4, L2 3/3, L3 2/2, HD: 5/5, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Harbinger Mask (Active) | Exhaustion: 0 | Inspiration: No**
@@ -898,8 +950,11 @@ Suddenly, a sharp, choked gasp from behind you shatters the heavy silence of the
 > 👤 **Player:**
 > *"Tell kaelen I’ve got this and then leverage elara presence for Artorius"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Silverwood Gates** &nbsp;|&nbsp; ⏳ **Month 1 Day 1, 1509 (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 7100/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | EP: 40/40** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -936,8 +991,11 @@ He raises a gauntleted hand, signaling the archers to unstring. The violet pulse
 > 👤 **Player:**
 > *"Proclaim the town has honorably surrendered and we have to follow the rule of mercy. Let kaelen process refuges so he can ensure his sister is good. Keep gorok with me and respectfully escort Artorius and his men out. Tell gorok I understand his hatred of slavers but they are defeated and the innocent are saved. This is a win"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 1, 1509 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 7850/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | EP: 40/40 | Spells: L1 4/4, L2 3/3, L3 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -957,8 +1015,11 @@ Nearby, Kaelen (Lvl 5) has collapsed into the mud, his sister Elara (Lvl 1) clin
 God Mode:
 Adjust levels. Artorius should be the same as me level 5 and gorok should be lower level. Levels should be rare like d&d and a 16 year old level 5 like me is a true prodigy. Lucifer and Raziel level 25 and archangels and apostles (Lucifer archangels) are level 17+. Also I should get massive exp for negotiating the surrender
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 12100/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **EP: 40/40, Spells: L1 4/4, L2 3/3, L3 2/2, HD: 5/5, Exhaustion: 0**
@@ -984,8 +1045,11 @@ The 'Sacking of Silverwood' (Diplomatic Path) has been marked as completed succe
 > 👤 **Player:**
 > *"Narrate a scene. As Artorius leaves I remove my mask and say we aren’t monsters. And I remjnd him of the evils of slavery of the imperium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Silverwood - Main Gate** &nbsp;|&nbsp; ⏳ **Month 1 Day 1, 1509 AC (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer (Lvl 6 available) | HP: 58/58 | XP: 17100/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Energy Points: 40/40 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1021,8 +1085,11 @@ A sense of calm settles over the realm. The sanctuary granted by the Sacking of 
 God Mode:
 Did you give mr
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 17100/14000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Energy Points: 40/40, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1039,8 +1106,11 @@ I have provided the level-up entry point below. Please confirm if there were any
 God Mode:
 Did you give me duplicate exp rewards? Audit my exp gained since I started
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, Year 1509 (Day 1)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 11,500/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **EP: 40/40, Spells: L1 4/4, L2 3/3, L3 2/2, HD: 5/5** &nbsp;|&nbsp; ⚠️ **Sanctuary (Silverwood) | Exhaustion: 0 | Inspiration: No**
@@ -1067,8 +1137,11 @@ I have adjusted your XP to the verified total of **11,500 / 14,000**. You are no
 > 👤 **Player:**
 > *"Let’s time skip and assume I try to stabilize the town and avoid any violence. Narrate what happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Silverwood Governor's Manor (Host Command Post)** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 8)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 13,500/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **EP: 40/40 | Spells: L1 4/4, L2 3/3, L3 2/2 | HD: 5/5 | Suspicion: 50/100** &nbsp;|&nbsp; ⚠️ **Sanctuary (Silverwood) | Exhaustion: 0 | Inspiration: No**
@@ -1089,8 +1162,11 @@ Lieutenant Gorok (Lvl 4) enters the room behind you, the scent of blood and chea
 > 👤 **Player:**
 > *"Remind him that myself and Lucifer are also beautiful ones. Does he mean to leash me. I’ll accept a duel anytime if he wants to challenge me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Silverwood - Governor's Manor Balcony** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 11,500/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Energy: 40/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (Silverwood) | Exhaustion: 0 | Inspiration: No**
@@ -1126,8 +1202,11 @@ As Gorok retreats, Kaelen (Lvl 5) emerges from the manor shadows, his face pale.
 > 👤 **Player:**
 > *"Go tot he auditor and explain no culls are needed. Lucifer’s law is mercy for surrender and is just as important. Carrot and stick are needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 11,500/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, EP: 40/40** &nbsp;|&nbsp; ⚠️ **Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -1155,8 +1234,11 @@ As the tension holds, a small messenger—a human child in a tattered tunic—sl
 > 👤 **Player:**
 > *"Ask the seeker if they truly mean to challenge Lucifer’s law"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 11,500/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, EP: 40/40, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (Silverwood) | Exhaustion: 0 | Inspiration: No**
@@ -1179,8 +1261,11 @@ Before you can counter the threat, Kaelen (Lvl 5) breaks away from the human chi
 > 👤 **Player:**
 > *"Leverage theft to seeker and invite gorok and his men to come with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 11,500/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | EP: 40/40** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1210,8 +1295,11 @@ As you begin the double-time march toward the granary, a scout from the timber f
 > 👤 **Player:**
 > *"Tell the seeker to come help us in combat, since they are supposed to enforce the law too. Then  I will stealth and try to trigger a surprise round on the men who are raiding"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Southern Granary, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 11,650/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5, EP: 40/40, Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Sanctuary Active | Exhaustion: 0 | Inspiration: No**
@@ -1244,8 +1332,11 @@ Kaelen (Lvl 5) watches from the treeline, his bow drawn, his voice a frantic tel
 > 👤 **Player:**
 > *"Assassinate elara captor and signal gorok and the seeker to kill the rest. If I get the surprise round w should get a full round to act"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Southern Granary, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 11,650/14,000 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, EP: 40/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (Held), Trinity of Masks (Harbinger) | Exhaustion: 0 | Inspiration: No**
@@ -1280,8 +1371,11 @@ Source: combat | XP Gained: 750 | Current XP: 12,400 | Next Level XP: 14,000 | P
 > 👤 **Player:**
 > *"Give the seeker a smile. Say kaelen is one of our loyal troops. Then ask the seeker to accompany me as we go audit Malakor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Southern Granary, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer | HP: 58/58 | XP: 14000/14000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, EP: 40/40** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1316,8 +1410,11 @@ You gain **500 XP** for the tactical recruitment of the Inquisitor and securing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Open level 6 Rogue (Assassin) / Sorcerer (Aberrant Mind) choices; keep story paused until the finish response completes*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Southern Granary, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 6 available) Rogue/Sorcerer | HP: 58/58 | Gold: 250gp | XP: 14000/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, EP: 40/40, Spells: L1 4/4, L2 3/3, L3 2/2 (Lvl 6 pending)** &nbsp;|&nbsp; ⚠️ **Sanctuary (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1327,8 +1424,11 @@ Morning (09:30:00) at the Southern Granary. The air in Silverwood is heavy with 
 God Mode:
 Auto pick everything for me and let’s stop using EP and use normal D&D resources. Let’s assume I have shield and level 2 invis and I pick level 3 haste if I don’t have it already otherwise counterspell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Southern Granary, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Rogue/Sorcerer (Lvl 6 available) | HP: 58/58 | Gold: 295gp | XP: 14000/14000** &nbsp;|&nbsp; ✨ **EP: 40/40, Spells: (Migrating to standard slots...), HD: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1355,8 +1455,11 @@ The recent telepathic whisper and 'not my father' comments are currently being f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 14000/23000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 6/6 | Shadow Ledger: 600 saved** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1366,8 +1469,11 @@ The transition is complete. The orange-grey haze of the Western Marches seems to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Story - Let the story continue from the current scene.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Southern Granary, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 14,100/23,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sorcery Points: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1393,8 +1499,11 @@ A hidden Ward-Mage has activated an incendiary glyph. The granary is at risk of 
 > 👤 **Player:**
 > *"THINK:Any way I can quickly cc this mage?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Silverwood Southern Granary** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 6/6 | Shadow Ledger: 600 saved** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1406,8 +1515,11 @@ Beside you, Seeker Vael stands frozen in mid-step, the red glow of their optical
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Dissonance (Recommended) - Use Psionic Sorcery (1 SP) to cast Dissonant Whispers (L1) without any components. The mage will experience a sudden, terrifying psychic assault and attempt to flee the rafters immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Silverwood Southern Granary** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, SP: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1425,8 +1537,11 @@ Behind you, the sound of falling stars grows louder. You look up through the hol
 > 👤 **Player:**
 > *"execute mage, say kaelen can secure his  sister, ask the seeker to stop barachiel, the town has surrenderred and his actiosn will violate protocol"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Silverwood Southern Granary** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 66/66 | XP: 15,900/23,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sorcery Points: 6/6 | Fate: 0/0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1456,8 +1571,11 @@ As you march toward the town square, the first landing pod slams into the timber
 God Mode:
 is it realistic that all these people ignorig the peace?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sorcery Points: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1475,8 +1593,11 @@ The realism of factions ignoring the 'Rule of Mercy' in Silverwood is grounded i
 > 👤 **Player:**
 > *"2) kind of makes no sense. the culling and mercy doctrine are both one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 13,100/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 6/6 | Fate: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1512,8 +1633,11 @@ He doesn't look at the town. He doesn't look at the grain. His gaze, as golden a
 > 👤 **Player:**
 > *"act deferential but unafraid. demosntrate strategic utility and explain to the inheritor that the mercy is the important arm of lucifer's strategy as much as the culling.  if they will be culled anyway why surrender. also explain that malakor has attacked and the seeker has the proof and imply that any fine against him could be enforced by inheritor to improve his standing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 5/6 | Exhaustion: 0**
@@ -1548,8 +1672,11 @@ Barachiel stares at you, his six wings snapping closed with a sound like a thund
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present Vael's Evidence - Have Seeker Vael present the recorded logs of the granary raid to Barachiel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, SP: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1587,8 +1714,11 @@ General Malakor (Lvl 17+) has arrived at the North Gate with the Obsidian Vangua
 > 👤 **Player:**
 > *"invite malachor to come to us and see if  barachiel or the seeker speak first. give barachiel a subtle sign of deference that he can speak first given he is highest rank or I can speak"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1625,8 +1755,11 @@ Malakor's jaw sets, his gaze flickering toward you with a hatred that is viscera
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refute Logistics Argument - Use the Shadow Ledger and tactical reports to prove the Spire's forges are already over-supplied, exposing Malakor's 'hunger' as pure greed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Points: 6/6, Exhaustion: 0**
@@ -1662,8 +1795,11 @@ As the political deadlock tightens, a sudden, piercing whistle echoes from the t
 > 👤 **Player:**
 > *"signal barachiel that i defer to him on punishment and will support him if he claims malakor holdings/assets/men and lucifer questions it. barachiel knows i have some leverage and favoritism from lucifer, despite whatever misgivings he has about me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 5/6 | Inspiration: No** &nbsp;|&nbsp; ⚠️ **Masked (Harbinger) | Exhaustion: 0 | Inspiration: No**
@@ -1701,8 +1837,11 @@ As the Inquisitor's shackles are produced, a dust-covered messenger in the bone-
 > 👤 **Player:**
 > *"secure malachor rest and give barachiel intel on how to best integrate malakor holdings, then ask barachiel if he has any orders otherwise I can scout the enemy and any other towns to cull or surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 12,400/14,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1741,8 +1880,11 @@ Before he can answer, the dust-covered messenger from the Carrion Cohort screams
 God Mode:
 give me proper exp for defeating malachor, he's super high level. it should be like i killed him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer | HP: 66/66 | XP: 15900/23000 | Gold: 295gp**
@@ -1768,8 +1910,11 @@ General Malakor's holdings have been transferred to Barachiel, and the 'Social H
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 8 - Enter the character advancement modal to apply Level 7 and Level 8 benefits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Rogue/Sorcerer (Lvl 8 available) | HP: 66/66 | Gold: 295gp | XP: 42900/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sorcery Points: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1790,8 +1935,11 @@ Beneath the Harbinger's mask, your aberrant bloodline pulses with the weight of 
 > 👤 **Player:**
 > *"auto pick everyting, focus on cc spells and greater invis if i get the opportunity, give me +2 cha ASI, and then tell me what you chose"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 (Lvl 8 available) | HP: 66/66 | Gold: 295gp | XP: 42900/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | SP: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1811,8 +1959,11 @@ The world remains a frozen snapshot of ash and judgement while you finalize thes
 > 👤 **Player:**
 > *"swap polymorph for Confusion and finish level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Lvl 8 available) Rogue/Sorcerer | HP: 82/82 | Gold: 295gp | XP: 42900/34000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1826,8 +1977,11 @@ As the world resumes its motion, the groaning flumes and the judgmental gaze of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and close the modal. Do not resolve the next story beat until the next turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 82/82 | XP: 42,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 8/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1841,8 +1995,11 @@ As the world resumes its motion, the groaning flumes and the judgmental gaze of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Story - Let the story continue from the current scene.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 79/82 | XP: 42,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Ash-Mark: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1880,8 +2037,11 @@ Lieutenant Gorok (Lvl 4) steps forward, his nostrils flaring as he watches sever
 > 👤 **Player:**
 > *"authorize gorok immediately, tell inheritor about the malakor signal and leave it to him, then go intercept the dread eaters and follow after gorok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 79/82 | XP: 42,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 8/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1916,8 +2076,11 @@ You follow them, your movements a silver blur as you dash toward the base of the
 > 👤 **Player:**
 > *"THINK:before i engage think about how to keep winning over barachiel. how does he view me, what motivates him and what does he respect. he should know i stand out as a 16 year old leve 8 but still far below his level for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 82/82 | XP: 42,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 8/8 | Exhaustion: 0**
@@ -1950,8 +2113,11 @@ Barachiel watches from the square, his wings shimmering with clinical disappoint
 God Mode:
 seems like think is broken? its supposed to pause time
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 82/82 | XP: 42900/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 8/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1975,8 +2141,11 @@ combat_state.current_round = 1
 > 👤 **Player:**
 > *"les have me stealth and try to trigger a surprise round on constructs with confusion. make sure thats my first engagement with the constructs and not the earlier entry. confusion should be subtle csat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 42,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8 | Inspiration: No** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2007,8 +2176,11 @@ Seeker Vael (Lvl 6) notes the psychic resonance of your Subtle cast. "I recogniz
 God Mode:
 how is my spell dc calculated? did you take into account being a CHA based spellcaster?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 43000/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **SP: 4/8 | Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | HD: 8/8 | Exhaustion: 0**
@@ -2038,8 +2210,11 @@ When you use **Psionic Sorcery** to cast spells from your Psionic Spells list (l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assassinate DE-01 (DEX/Attack) - Utilize the surprise round to deliver a devastating dual-blade strike on the nearest construct, leveraging Assassinate for maximum physical damage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Sorcerer | HP: 79/82 | XP: 43000/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8 | Shadow Ledger: 600 saved** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2072,8 +2247,11 @@ High on the ridge, the bone-flumes begin to bleed a thick, black smoke. Malakor'
 > 👤 **Player:**
 > *"command gorok to flank and tank te others, i finish DE-01 and make sure i use my extra attack and bonus action to deal dmg as needed."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 74/82 | XP: 43,000/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 4/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2106,8 +2284,11 @@ High on the ridge, the banners of the Obsidian Vanguard are now unmistakable. Ma
 > 👤 **Player:**
 > *"execute DE-03 and if i attack from back i should have sneak attack, extra attack etc and use my bonus action to do some physical dps"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Harbinger | HP: 79/82 | XP: 43,100/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 8/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2148,8 +2329,11 @@ You strike with surgical, zero-wasted-motion grace. Your main-hand blade flashes
 > 👤 **Player:**
 > *"execute DE-03 and going forward never forget to let me use attack, extra attack, sneak atk, and bonus action offhand. Use them all and if anything lefetover use on DE-02"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 43,100/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2176,8 +2360,11 @@ Seeker Vael (Lvl 6) has directly challenged the nature of your 'Subtle' magic. T
 > 👤 **Player:**
 > *"kill de-02 first then de-03 alos gorok shouldnt be alone. his men should be helping us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Sorcerer | HP: 79/82 | XP: 43,100/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 4/8 | Dual Blades: Main/Off** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2210,8 +2397,11 @@ Behind you, Lieutenant Gorok (Lvl 4) is no longer alone. His ash-marked squad ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Assessment (Recommended) - Use your bonus action to analyze the constructs' defensive frequency and use your Extra Attack to focus purely on DE-03's damaged core.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 45,000/48,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2245,8 +2435,11 @@ Beside you, Seeker Vael (Lvl 6) halts their obsidian blade, their optical lenses
 God Mode:
 what magic residue would Vael see? id idnt use any magic and why is he even concerned about abyssal magic? Shoudlnt the host by fine with that?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Harbinger | HP: 79/82 | XP: 43100/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, SP: 4/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2271,8 +2464,11 @@ I am not a perfect weapon though
 
 Unchained host has demons right? They can use abyssal if they want
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 43,100/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2292,8 +2488,11 @@ God Mode:
 
 2) Why would i have an abyssal signature?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 43,100/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked (Harbinger) | Exhaustion: 0 | Inspiration: No**
@@ -2322,8 +2521,11 @@ npc_data.Saraphiel.relationships.player.disposition = "Scornful/Watchful"
 > 👤 **Player:**
 > *"ok lets resume confrontation. I tell the seeker to just help us kill these things first and I'll explain later. Then use all my abilities to finish the last one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 79/82 | XP: 43,100/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2351,8 +2553,11 @@ High on the ridge, the bone-flumes begin to bleed a thick, black smoke. Malakor'
 > 👤 **Player:**
 > *"focus on extinguishing the flames and order the host magic users to suprress them and leave malakor to barachiel. He should be incentized to handle it since he's going to gain the forces in theory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 44,900 / 48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 4/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2381,8 +2586,11 @@ The fire in the flumes has jumped to the nearby grain silos. The town's logistic
 > 👤 **Player:**
 > *"Command mages again. Tell them the inheritor will punish them if they dont act or reward them for handling things. Then if they still fail do targeted demo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 43400/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 4/8 | Expertise: Stealth, Deception, Insight, Intimidation** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2404,8 +2612,11 @@ Barachiel (Lvl 17+) looks at the smoldering ruins of the flumes, then at you. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Audit - Present a final logistical report to Barachiel to cement your value as an asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 45,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8 | Exhaustion: 0**
@@ -2450,8 +2661,11 @@ Beside you, Seeker Vael (Lvl 6) notes the Inheritor's approval, their obsidian v
 God Mode:
 were malakors troops still arriving? did someoneone need to handle them?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, Year 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 45,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2469,8 +2683,11 @@ No changes were made to the state beyond confirming the existing tactical variab
 > 👤 **Player:**
 > *"THINK:whats the best move to increase my power/influence and save lives?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 79/82 | XP: 45,900/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 7/8 | Shield: Prepared | Greater Invisibility: Known** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2482,8 +2699,11 @@ To Barachiel, standing on the Sovereign pod hatch, you appear to be a statue of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Tactical Salvage - Personally lead the Orc vanguard and the mages to quench the bone-fire using your 'Null' analysis of the structural harmonics. Focus purely on saving the grain and the workers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant | HP: 82/82 | XP: 46,700 / 48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, SP: 7/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2514,8 +2734,11 @@ layer2: if someone detects residue I explain that unlike most nulls I was cloned
 layer3: if someone realizes I truly have magic I will pretend there is a great physical cost
 layer4: true layer. I have full magic, just like any of my brothers and sisters and I have the nullifcation field ability
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 79/82 | XP: 46,700/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Deception Layer: 1**
@@ -2552,8 +2775,11 @@ I have implemented the **4-Layer Deception Protocol** for Alexiel's 'Null' statu
 > 👤 **Player:**
 > *"explain layer 2 to the seeker and then go to inheritor and ask for his orders. I suggest i go after the ghost elites with gorok and my rangers or if he prefers I can help with malakor hardliners"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 46700/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2581,8 +2807,11 @@ Barachiel looks at the distant ridge, then at the 5,000 troops being re-synced b
 > 👤 **Player:**
 > *"THINK:Which one makes more sense? Or can I use my forces to help with both? Maybe elites and strongest for ghost squad and the rest help barachiel? Estimate my level and my squad levels vs ghost squad"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 46,700/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2594,8 +2823,11 @@ The world is a frozen equation. Barachiel (Lvl 17+) is an anchor, but his ritual
 > 👤 **Player:**
 > *"THINK:think about how many are in the ghost squad? could i take them using my full magic if i go solo?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 46,700/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Deception: Layer 2 active**
@@ -2609,8 +2841,11 @@ Taking them solo using Layer 4 (Starfall Legacy) magic is mathematically viable 
 God Mode:
 how many troops under my command and what levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 46700/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8 | Gold: 295** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2630,8 +2865,11 @@ With over 5,000 troops under your command, the strategic faction management syst
 God Mode:
 enable faction management
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 46700/48000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2651,8 +2889,11 @@ You may now issue strategic orders, manage recruitment/buildings, and track your
 God Mode:
 Enable Faction Minigame - Activate the strategic management layer for your 5,150 troops.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 79/82 | XP: 46700/48000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2673,8 +2914,11 @@ From now on, you will see the [FACTION STATUS] header in your responses. You can
 > 👤 **Player:**
 > *"bring seeker, gorok, and my strongest 20 elites to fight the ghost rangers. Let my highest level command have 50% of the rest help the inheritor and 50% continue to stabilize the town"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Northern Ridge Timber Yards** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue/Sorcerer | HP: 82/82 | XP: 42,900/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2710,8 +2954,11 @@ You slide behind a massive, bone-sculpted log, your dual blades silver-bright in
 > 👤 **Player:**
 > *"get in position for surfical alpha strike and in parallel shadow strangulation. if someone breaks stealth then trigger surprise round and assinate squad leader. if they encircle successfully wait for it then assinate leader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Northern Ridge, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 79/82 | XP: 49000/48000 (Lvl 9 Available) | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery Points: 7/8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2746,8 +2993,11 @@ You gain **2,300 XP**! The battlefield falls into a heavy, respectful silence as
 > 👤 **Player:**
 > *"get in position for surfical alpha strike and in parallel shadow strangulation. if someone breaks stealth then trigger surprise round and assinate squad later. if they encircle successfully wait for it then assinate leader"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Northern Ridge, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 79/82 | XP: 46,700/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | SP: 7/8 | HD: 8/8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2783,8 +3033,11 @@ Large shards of sculpted bone are falling. All combatants must make a DC 13 DEX 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 9 - Open level 9 Rogue (Assassin) / Sorcerer (Aberrant Mind) choices; keep story paused until the finish response completes*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Northern Ridge, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Lvl 9 available) Rogue/Sorcerer | HP: 79/82 | Gold: 295gp | XP: 49000/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery Points: 8/8, Potions: 5/5, (Lvl 9 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2794,8 +3047,11 @@ Midday (12:05:00) on the Northern Ridge—you pause, your 'Unseeing Eyes' reflec
 > 👤 **Player:**
 > *"learn hold monster, auto pick everything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Northern Ridge** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Lvl 9 available) | HP: 79/82 | Gold: 295gp | XP: 49000/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, SP: 7/8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2805,8 +3061,11 @@ The grey ash falls silently over the corpses of the Ghost Squad, but within your
 > 👤 **Player:**
 > *"Finish Level 9 Advancement - Commit all selected Level 9 benefits (Hold Monster, Infiltration Expertise, Sneak Attack 5d6, +8 HP, +4 Proficiency) and return to the ridge."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Northern Ridge** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49000/64000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 8/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2818,8 +3077,11 @@ The transition is finished. The weapon that Lucifer forged has reached a new thr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Story - Let the story continue from the current scene.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Northern Ridge overlooking Silverwood** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Harbinger | HP: 87/90 | XP: 49000/64000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Level 9 Calibration | Exhaustion: 0 | Inspiration: No**
@@ -2849,8 +3111,11 @@ Suddenly, a razor-sharp telepathic scream erupts in your mind, so visceral it fo
 > 👤 **Player:**
 > *"race to flume cellars but dont use magic right away. assess the situation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Silverwood Northern Flumes** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49000/64000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Sneak: 5d6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2876,8 +3141,11 @@ Kaelen's telepathic pulse is a jagged scream in your mind, weakening as the necr
 > 👤 **Player:**
 > *"THINK:howto save both groups"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Northern Timber Flumes, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49,000/64,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2898,8 +3166,11 @@ Lieutenant Gorok (Lvl 4) stands a pace away, his furs scorched, his serrated axe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synergistic Split: Delegate High Yards - Authorize Gorok to take the elite veterans to the high yards while you and Seeker Vael utilize the 2,500 stabilization troops to breach the cellar. Synergistic: uses specialists for their specific motivations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Northern Timber Flumes, Silverwood** &nbsp;|&nbsp; ⏳ **Day 15, 1509 Month 1 (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 90/90 | XP: 49,000/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2938,8 +3209,11 @@ You sprint toward the cellar entrance, the bubbling black bile of the Weeping Ri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Parallel Command: Secure & Confront (Synergistic) - Task Kaelen with the refugees and Gorok with the high yards while you and Vael return to the square with the audit data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Silverwood Central Square / Northern Flumes** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49,800/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2976,8 +3250,11 @@ You and Vael march back into the square just as the third Sovereign pod vents it
 > [!NOTE] ⚙️ **Player Choice:**
 > *Quietly Intercept Child - Use a subtle psionic nudge to guide the child away before Vael identifies her as an informant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 50,300/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2997,8 +3274,11 @@ Across the square, Barachiel (Lvl 17+) stands over General Malakor (Lvl 17), his
 God Mode:
 Why is Griselda culling and who is she again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Silverwood Central Square (STORY PAUSED)** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 49,800/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3024,8 +3304,11 @@ Griselda is currently enforcing a specific type of slaughter in the northern woo
 God Mode:
 Something seems unrealistic I don’t want every 17+ in the game attacking me. Are you ignoring the sanctuary protocol?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49,800/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3057,8 +3340,11 @@ npc_data["General Griselda"].attitude_to_party = "antagonistic"
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume in Silverwood Square under the protection of Barachiel's presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49800/64000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (Major) | Exhaustion: 0 | Inspiration: No**
@@ -3091,8 +3377,11 @@ Nearby, Seeker Vael (Lvl 6) observes the scene, their obsidian visor pulsing a s
 > 👤 **Player:**
 > *"Negotiate perimeter terms and bring seeker"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Silverwood Central Square** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49,800/64,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Sneak Atk: 5d6** &nbsp;|&nbsp; ⚠️ **Sanctuary (Major) | Exhaustion: 0 | Inspiration: No**
@@ -3131,8 +3420,11 @@ Lieutenant Gorok (Lvl 4) stops you before the gate. "Alexiel. My people have see
 > 👤 **Player:**
 > *"Say I will attend but first bring seeker to Griselda to calm her down"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Silverwood - Path to Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 46,400/48,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary (Major - 14 Turns) | Deception Layer 2 | Inspiration: No**
@@ -3175,8 +3467,11 @@ A dust-covered scout from the 'Silver Ribbon' network skids into the logging cam
 God Mode:
 Give me black hair
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49,800/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (Major) | Exhaustion: 0 | Inspiration: No**
@@ -3188,8 +3483,11 @@ Alexiel's hair color has been updated to **black**. This change is now a persist
 God Mode:
 Didn’t I have sanctuary ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 49,800 / 64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (Major) | Exhaustion: 0 | Inspiration: No**
@@ -3214,8 +3512,11 @@ custom_campaign_state.sanctuary_mode.expired_turn = __DELETE__
 God Mode:
 Pause the current imperial attack
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 49,800/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (Major) | Exhaustion: 0 | Inspiration: No**
@@ -3236,8 +3537,11 @@ God mode never advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"Attend ash marked ceremony"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Silverwood - Lower Logging Yard** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 87/90 | XP: 50,500/64,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery Points: 9/9 | Sneak Attack: 5d6 | Sanctuary: Major (Active)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3289,8 +3593,11 @@ He offers the bowl to you, his hands steady. You reach out, the movement a maste
 > 👤 **Player:**
 > *"Attend ash marked rite"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 51,300/64,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Fatigue: 0** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3318,8 +3625,11 @@ The sense of calm evaporates. The sanctuary granted by the Fall of Malakor has e
 God Mode:
 Why would imperials kill the families? Weren’t these their citizens before we took over ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 50,500/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Sanctuary: Expired**
@@ -3341,8 +3651,11 @@ The logic behind the Imperial Ghost Squad's attempt to 'unmake' the families in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative at the flume flumes as the Imperial Ghost Squad breaches the cellar walls.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Silverwood Northern Flumes** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 50,500/64,000 | Gold: 295gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3371,8 +3684,11 @@ The Imperial Ghost Squad has breached the refugee cellar. Kaelen is attempting t
 > 👤 **Player:**
 > *"Shield and scalpel. Try to stealth and assassinate to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Silverwood Northern Perimeter (Refugee Cellars)** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 50,500/64,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9, SP: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3397,8 +3713,11 @@ Lieutenant Gorok (Lvl 4) pulls you aside as the Orcs begin clearing the stone. "
 > 👤 **Player:**
 > *"Authorize 20% of it and save the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Silverwood Flume Cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Harbinger | HP: 87/90 | XP: 51,300/64,000 | Gold: 295gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3431,8 +3750,11 @@ Urgency: immediate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dismiss to Private Audit - Tell Vael the message is a logistical update from the forges and retreat to the manor to read it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Assassin)/Sorcerer (Aberrant Mind) | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | T.Masks: Harbinger (+5 Intimidate/Adv Init)** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3452,8 +3774,11 @@ As the telepathic message fades, a sudden, intense flare of violet light illumin
 God Mode:
 What does that message mean
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp**
@@ -3477,8 +3802,11 @@ The Star-Eater is a continent-scaling arcane array (currently 70% primed). Ramie
 God Mode:
 You got the story totally wrong. I was supposed to be magical but I ended up a null. It doesn’t make sense they would kill me for having magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Points: 9/9** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3508,8 +3836,11 @@ custom_campaign_state.deception_protocol.layers[4].risk = "Discovery of Aberrant
 God Mode:
 Even that I’m not sure if it makes sense. But first explain why you got my null status wrong. Is there something not working with the story conduction or the request ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 52700/64000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3537,8 +3868,11 @@ npc_data.Saraphiel.motivation = "To excise the 'Empathy Defect' from the Morning
 > 👤 **Player:**
 > *"Can you summarize what you see about the story? I think we are doing compaction where we send first N story entries, corem emories, then last M story entries"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Potions: 5** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3568,8 +3902,11 @@ Before you can process the weight of your brother's warning, the study doors bur
 God Mode:
 Can you summarize what you see about the story? I think we are doing compaction where we send first N story entries, corem emories, then last M story entries
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Silverwood - Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp**
@@ -3604,8 +3941,11 @@ Can you summarize what you see about the story? I think we are doing compaction 
 God Mode:
 dont summarize it like narrative, describe the actual stuff you see in the http API response i send you
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Normal | Deception: Layer 2 (Residual Anomaly) | Suspicion: 60/100**
@@ -3641,8 +3981,11 @@ God mode never advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"describe the actual stuff you see in the http API request i send you"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Silverwood Northern Perimeter** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 Year 1 (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3682,8 +4025,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 tell me about all the iportant story details and specific details about alexiel and use around 5000 words
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp**
@@ -3773,8 +4119,11 @@ Griselda (Lvl 17) remains at the northern perimeter. Frustrated by Barachiel’s
 God Mode:
 i feel like there's too many threats too close together and it seems odd that they'd kill me for that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Sanctuary: ACTIVE (Major)**
@@ -3804,8 +4153,11 @@ npc_data["Apostate Azrael"].location = "Miller's Crossing Outskirts (Holding Pos
 God Mode:
 the host should not be some evil empire, empathy isnt necessarily a defect, just an excess or disobeying orders
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp**
@@ -3834,8 +4186,11 @@ Seeker Vael and the Apostate Azrael are utilitarian hardliners. Their 'Final Aud
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the audit in the Governor's study with a more nuanced understanding of your siblings' desperation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Governor's Manor Study, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 11,500/14,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3857,8 +4212,11 @@ Before you can finalize the audit report, the study doors burst open with a cras
 God Mode:
 too many fires/disasters whats going on? are these all living world events?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp**
@@ -3893,8 +4251,11 @@ I have adjusted the **Complication Probability** down for the next 5 turns to gi
 God Mode:
 success streak 1 isnt high?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Sanctuary: Major (Expires Turn 230)**
@@ -3923,8 +4284,11 @@ To ensure the world doesn't feel 'gamey' or unfairly punishing:
 God Mode:
 remove the burning flumes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 52700/64000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -3934,8 +4298,11 @@ Administrative Action: The burning flumes have been removed. The necrotic fire i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Governor's study now that the fire threat is removed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Governor's Manor Study, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3959,8 +4326,11 @@ He looks toward the window, where the red light of the Sovereign Will drone cont
 God Mode:
 i wanna change the story, theres still too many leel 17+ threats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant | HP: 87/90 | XP: 52700/64000 | Gold: 340gp**
@@ -3988,8 +4358,11 @@ The immediate environment of Silverwood is now dominated by **Alexiel (Lvl 9)**,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the audit in the Governor's study with the high-tier threats removed from the board.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Governor's Manor Study, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Deception: Layer 2** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4022,8 +4395,11 @@ The study doors groan as Seeker Vael (Lvl 6) enters, their obsidian armor clatte
 > 👤 **Player:**
 > *"THINK:lets brainstorm a way to send seeker vael back, he prob shoudlnt need to accopmany me indef"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Governor's Study, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Deception Layer: 2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4035,8 +4411,11 @@ Seeker Vael (Lvl 6) stands at the edge of the room, a variable of obsidian Law w
 God Mode:
 whats up with this guy? is he really allowed to stay with me the whole time and is he supposed to?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4066,8 +4445,11 @@ I have updated the planning block with choices to initiate these dismissal proto
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Terminal Audit - Attempt a high-DC Persuasion/Logic check to convince Vael that the Silverwood theater is 'Mathematically Closed' and his presence is needed to secure the data at the Spire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Silverwood Governor's Manor - Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: Yes**
@@ -4091,8 +4473,11 @@ As the Seeker turns to leave, Lieutenant Gorok (Lvl 4) steps from the shadows of
 God Mode:
 What is a null cell? What makes no sense
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Governor's Manor, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Sanctuary: Major (Expires Turn 230) | Inspiration: Yes**
@@ -4102,8 +4487,11 @@ You pause to consider your options...
 God Mode:
 You said this element. I must now secure the Shadow Ledger families and transition the town into a self-sustaining 'Null' cell before the Apostate Azrael reaches the valley
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Governor's Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4132,8 +4520,11 @@ You are now ready to resume the narrative and oversee the extraction of the Shad
 God Mode:
 Wouldn’t this reveal my special abilities to everyone ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Silverwood Governor's Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52,700/64,000 | Gold: 340gp**
@@ -4160,8 +4551,11 @@ The Sovereign Will drone is currently recording the manor. To anchor the cell sa
 God Mode:
 What families are we extracting ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Governor's Manor Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp**
@@ -4184,8 +4578,11 @@ The 850 individuals currently recorded in your Shadow Ledger represent a cross-s
 God Mode:
 What do I need to do with them though? You need to explain things better
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Governor's Manor Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 52700/64000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4222,8 +4619,11 @@ Once you have 1,000 secured lives in the 'Safe Zone,' you must perform the **Anc
 God Mode:
 Who are these 18k general citizens and why are the others different?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Governor's Manor Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4253,8 +4653,11 @@ To understand the strategic math of the Silverwood theater, you must distinguish
 God Mode:
 Why do these people need protection?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Governor's Manor, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1 Day 15, 1509 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4282,8 +4685,11 @@ With the Star-Eater array 75% primed, your father is preparing to 'subtract' the
 God Mode:
 I’m still confused why are they different than the other 18k
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Governor's Manor Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp**
@@ -4316,8 +4722,11 @@ To clear up your confusion, here is the exact distinction between these two grou
 God Mode:
 Why did I lie about them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Governor's Manor, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 52700/64000 | Gold: 340gp**
@@ -4345,8 +4754,11 @@ To establish a **Null Cell** (an invisible sanctuary), you need 1,000 individual
 God Mode:
 Ok that is interesting but you need to explain things like that better going forward. You just introduced concepts with no explanation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Month 1 15, 1509 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 87/90 | XP: 52700/11300** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -4364,8 +4776,11 @@ I have added a directive to my core instructions to ensure these explanations ar
 > 👤 **Player:**
 > *"Just long rest and wait for seeker to leave before doing anything  else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 90/90 | XP: 53,200/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | IP: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4393,8 +4808,11 @@ Lieutenant Gorok (Lvl 4) looks at the red drone light. "Alexiel. We have the Whi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Threshold - Search the logging camps for 150 more 'deviants' to reach the 1,000-life requirement for the Anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Silverwood Logging Camps** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 53,200/64,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4426,8 +4844,11 @@ Description: Brings word that the Star-Eater's violet corona is now visible on t
 God Mode:
 Does this make sense. Lucifer using star ester on a town we just conquered ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Silverwood Manor District** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 53200/64000 | Gold: 340gp**
@@ -4455,8 +4876,11 @@ Lucifer realized the war is a game for the Creator's amusement. By using the Sta
 > 👤 **Player:**
 > *"THINK:Think of the best way to get 1000 maybe multiple methods in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Governor's Manor District** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 53200/64000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4477,8 +4901,11 @@ The 'Aesthetic Pulse' still vibrating through the mud and the lingering psionic 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Internal Census Audit - Utilize your administrative authority to re-scan the 18,000 general citizens, identifying 90 'deviants' (the scarred, the empathetic, or those with Imperial ties) and misfiling them as 'culled' in your reports to the Spire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Governor's Manor, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 55,200/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4507,8 +4934,11 @@ Source: Milestone | XP Gained: 2,000 | Current XP: 55,200 | Next Level XP: 64,00
 > 👤 **Player:**
 > *"THINK:Brainstorm a way to do null anchoring but still hide my magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Governor's Study, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1 16, 1509 (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 55,200/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | IP: 0** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4520,8 +4950,11 @@ You reach inward, attempting to align the variables of the Shadow Ledger familie
 God Mode:
 Why is azrael coming?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Governor's Manor - Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 55200/64000 | Gold: 340gp**
@@ -4551,8 +4984,11 @@ Azrael is currently at Miller's Crossing. He is 'Holding Position' due to the po
 God Mode:
 Let’s not make it so blunt. He may want to kill me but he can’t just kill me due to barachiel protection and Lucifer favor for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Governor's Manor, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 55,200/64,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4586,8 +5022,11 @@ custom_campaign_state.active_constraints.append("Azrael is blocked by Barachiel'
 God Mode:
 Always show the suspicion metric in the header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1509 (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 55,200/64,000 | Gold: 340gp | Suspicion: 45/100** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: No**
@@ -4597,8 +5036,11 @@ Directive added. From now on, the Suspicion Metric will be prominently displayed
 > 👤 **Player:**
 > *"Go somewhere private and test using a small nullification field to hide any magic residue from spells I perform"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Governor's Manor - Sub-Level 3** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 55450/64000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Points: 9/9, Inspiration: No**
@@ -4612,8 +5054,11 @@ Your hyper-analytical mind records the frequency. By oscillating the field at th
 > 👤 **Player:**
 > *"Anchor the null using the nullification field to hide the magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Silverwood - Secret Archive / Flume Cellars** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1509 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 60,450/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 9/9 | IP: 5** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Suspicion: 45/100 | Sanctuary: Expired**
@@ -4631,8 +5076,11 @@ Suddenly, a violent violet flare erupts on the northwestern horizon, the Star-Ea
 God Mode:
 Prob should get more than 5000 exp for this feat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Silverwood Flume Cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 75,450/85,000 | Gold: 340gp**
@@ -4666,8 +5114,11 @@ I have reviewed the cumulative strategic weight of your actions in the Silverwoo
 God Mode:
 Prob shouldn’t more than 5000 exp for this feat?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Silverwood flume cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Sorcerer | HP: 87/90 | XP: 60,200/64,000 | Gold: 340gp**
@@ -4698,8 +5149,11 @@ I have reviewed the reward for the 'Void Anchor' milestone. You are correct that
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the flume cellars as the Void Anchor takes hold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Silverwood Flume Cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 60,200/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9, Fatigue: 0**
@@ -4715,8 +5169,11 @@ Kaelen pulls you aside, his expression shifting from relief to a new, focused pu
 God Mode:
 No other way around. I think I should get more than 5000 exp I meant that was a typo. Also audit the exp for all my deeds
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Silverwood Flume Cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 70,200 / 85,000 (Lvl 10 Available) | Gold: 340gp**
@@ -4749,8 +5206,11 @@ I have acknowledged the typo in your previous message and the request for a high
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 10 - Open Level 10 Rogue (Assassin) / Sorcerer (Aberrant Mind) choices*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Silverwood Northern Perimeter (Flume Cellars)** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer (Lvl 10 available) | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4760,8 +5220,11 @@ The Void Anchor's indigo hum resonates through your very marrow, a frequency tha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 10 - Open Level 10 Rogue (Assassin) / Sorcerer (Aberrant Mind) choices*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Governor's Manor Study** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Assassin/Aberrant Mind | HP: 87/90 | XP: 70,200/64,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 9/9** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: Yes | Suspicion: 45/100**
@@ -4785,8 +5248,11 @@ You have reached the threshold for Level 10. Select your Rogue ASI and Sorcerer 
 God Mode:
 You got this wrong again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Governor's Manor Archive** &nbsp;|&nbsp; ⏳ **Month 1 Day 16, 1509 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp**
@@ -4811,8 +5277,11 @@ You have reached Level 10. I have provided the specific mechanical choices for y
 God Mode:
 Wrong again Lucifer designed you to be a Null, a perfect silence in the symphony of the Weave
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp**
@@ -4838,8 +5307,11 @@ Your 'Rule of Mercy' is now interpreted by the Spire as a symptom of this biolog
 God Mode:
 No that’s wrong did you forget the story?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp**
@@ -4876,8 +5348,11 @@ God Mode:
 This doesn’t make sense’s if I suddenly gained magic Lucifer should be happy - Because you are a 'Null,' the discovery of any magical resonance (the 0.04% Aberrant trace) is viewed as a **Mechanical Failure/Contamination**. 
 - Saraphiel's 'Final Audit' is not about heresy; it is about **Decommissioning a Defective Tool** that has developed 'Noise' (Magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Silverwood Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 10 available) Rogue/Sorcerer | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp**
@@ -4908,8 +5383,11 @@ You have reached **Level 10 (Rogue 10 / Sorcerer 10)**. I have committed the fol
 God Mode:
 The inquisition shouldn’t know about my magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Silverwood Flume Cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Suspicion: 45/100 | Sanctuary: Expired**
@@ -4933,8 +5411,11 @@ Your secret aberrant power remains your ultimate hidden variable, unknown to all
 God Mode:
 Why did you make that up before? Narratively nothing happened to make them suspicious
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Silverwood Manor / Flume Cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp**
@@ -4968,8 +5449,11 @@ custom_campaign_state.active_constraints.append("Inquisitorial threats must mani
 > 👤 **Player:**
 > *"Auto pick my choices for level up and tell me what you choose and what spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Silverwood flume cellars** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Sorcerer | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Points: 9/9**
@@ -4979,8 +5463,11 @@ The indigo hum of the Void Anchor continues to vibrate through the cellar, maski
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up - Commit the sentinel feat, heightened metamagic, and Synaptic Static to your profile and return to the theater of war.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Governor's Manor, Silverwood** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 95/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | Sentinel: Active**
@@ -5000,8 +5487,11 @@ They both turn to you, the horizontal lines of ash beneath their eyes catching t
 God Mode:
 Is this fire a stale event?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 98/98 | XP: 70200/85000 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Ash-Mark | Suspicion: 10/100**
@@ -5031,8 +5521,11 @@ Yes, the fire mentioned in the previous turn is a **stale and contradictory even
 God Mode:
 Clean up the stale events
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp**
@@ -5060,8 +5553,11 @@ These changes ensure that your background events align perfectly with the curren
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the operational meeting with Gorok and Kaelen in the sanitized study.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Silverwood Governor's Manor** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Assassin/Aberrant | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 10/10** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Suspicion: 10/100 | Null Cell: Anchored (1,000 Ghosts)**
@@ -5084,8 +5580,11 @@ Kaelen (Lvl 5) stops you at the desk. "Mistress... my sister wants to walk the y
 > 👤 **Player:**
 > *"Authorize kaelen and leave kaelen and gorok in charge and tell them to secure and fortify the town. I ensure the null anchor protects it and then rush to the inheritor with 10 of my strongest elites (ranger/assassin types). I explain to him that father is going mad and trying to wipe out silverwood which we just conquered. The inheritor should be open to this because it makes no sense to use star eater in our own troops"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1, Year 1509 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Assassin/Sorcerer | HP: 98/98 | XP: 71,200/85,000 | Gold: 340gp**
@@ -5110,8 +5609,11 @@ Barachiel turns, his sapphire eyes narrowing behind his golden visor. The heat f
 > 👤 **Player:**
 > *"Share star eater frequency and logistical discrepancy. Do it in a way by explaining my trusted mages found frequency so he doesn’t realize I have magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Assassin/Aberrant Mind | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No | Suspicion: 10/100**
@@ -5137,8 +5639,11 @@ As the Inheritor retreats into his pod to begin the verification, a telepathic c
 > 👤 **Player:**
 > *"Propose we talk to Lucifer together and show him the data. Say it’s probably a mistaken calculation and he’ll be happy we spoke up. He’s the master of the unchained host and doesn’t believe in mindless obedience"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 10/10 | Inspiration: No**
@@ -5165,8 +5670,11 @@ An Inquisitorial 'Static-Sweep' drone has just detached from the Sovereign Will 
 > 👤 **Player:**
 > *"Let’s time skip. Depart and assume I kill  imperial rangers easily and then come back to inheritor after his mages validate the data"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 78,200/85,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 10/10** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: Yes**
@@ -5184,8 +5692,11 @@ He stops at the edge of the ramp, his hand resting on the pommel of his golden l
 > 👤 **Player:**
 > *"Subtly tell barachiel he may need to inherit the early if father goes mad. He has my support. Explain I am only level 10 but I can assist tactically and genuinely want the ideals father stands for even if father himself has strayed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 87/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 9/10 | Fatigue: 0**
@@ -5211,8 +5722,11 @@ Behind you, Kaelen (Lvl 5) steps forward, shielding his eyes from the black rain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Extraction, Focus Pact (Synergistic) - Order Gorok and your 10 elites to manage the families' move while you personally stay with Barachiel to finalize the coalition - tasks in different locations, no interference.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 72000/85000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, HD: 10/10** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Suspicion: 10/100 | Inspiration: Yes**
@@ -5228,8 +5742,11 @@ Before you can press the advantage, a breathless Orc runner, his furs drenched i
 > 👤 **Player:**
 > *"Have one of my spies show the data to azrael about star eater. Despite what he may think about me tell him to have his mages analyze it. It shouldn’t make sense to him either to actually  nuke the town."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Assassin/Aberrant Mind | HP: 87/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 9/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5264,8 +5781,11 @@ Suddenly, Kaelen's (Lvl 5) voice rings in your mind, a clear, static-free chime 
 > 👤 **Player:**
 > *"Authorize the network, have the spy reinforce to azrael that if the data was right Lucifer was about to nuke him along with silverwood then accompany barachiel to talk to father. Let barachiel handle it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Sovereign Will Transit Pod (High Atmosphere)** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 10/10**
@@ -5298,8 +5818,11 @@ Kaelen's telepathic chime is a clear, steady frequency through your psionic hub.
 > 👤 **Player:**
 > *"prioritize food supplies and then focus on barachiel and go talk to father together. tell me forces they need to make decision without me while we talk to lucifer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Sovereign Will Transit Pod (En Route to Obsidian Spire)** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 10/10**
@@ -5342,8 +5865,11 @@ As the pod begins its final descent toward the jagged black needle of the Obsidi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Inheritor's Authority - Let Barachiel broadcast his Sovereign Seal to the drones, claiming the Harbinger is under 'Direct Scion Guard'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Sovereign Will Transit Pod (Descent to Spire)** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 10/10**
@@ -5378,8 +5904,11 @@ Barachiel (Lvl 17+) pauses, his hand hovering over the docking release. "Alexiel
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Apex Distraction - Use your 'top 1%' aesthetic perfection to overwhelm the Inquisitorial witnesses, making them hesitate to perform a physical search.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Obsidian Spire - High Docking Ring** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,300/85,000 | Suspicion: 15/100** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 10/10, Inspiration: Yes**
@@ -5406,8 +5935,11 @@ Barachiel turns from the console, his golden wings twitching with a sharp, visib
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Scion Immunity - Demand that the physical search be conducted by Barachiel personally, citing Scion-tier privacy protocols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Obsidian Spire - Docking Bay 4-Alpha** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5436,8 +5968,11 @@ Barachiel (Lvl 17+) turns to you as the hydraulic ramp begins to lower. "The pat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Telepathic Reconnaissance - Use a Subtle psionic pulse to sense Lucifer's current mental state before entering the chamber.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Obsidian Spire, Star-Chamber Threshold** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Assassin/Aberrant Mind | HP: 98/98 | XP: 70,200/85,000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery Points: 10/10 | HD: 10/10**
@@ -5464,8 +5999,11 @@ In Silverwood, 5,150 souls wait for the outcome of this parley. You have left Li
 > 👤 **Player:**
 > *"Let barachiel lead the discusison. Lets assume barachiel is the strongest scion and the only level 20 and other are below him in the 17-19 range"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **The Star-Chamber, Obsidian Spire Apex** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,900/85,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | HD: 10/10 | Gold: 340gp**
@@ -5492,8 +6030,11 @@ You stand as the tactical witness, your 'Unseeing Eyes' recording every flicker 
 > 👤 **Player:**
 > *"scions plea but combine it with logistical logic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Obsidian Spire, Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Assassin/Aberrant Mind | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | Dual Blades: Ready** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5528,8 +6069,11 @@ Suddenly, the heavy obsidian doors of the chamber groan open once more. Apostate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Azrael's Verification - Call upon the Apostate Azrael to present his own mages' confirmation of the target error, forcing a triple-scion audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery Points: 10/10 | Exhaustion: 0**
@@ -5573,8 +6117,11 @@ Then explain that my methods have achieved superior results and are in alignment
 
 Also explain in detail how I've killed lots of imperial soldiers and scouts, so this mercy idea is flawed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Star-Chamber, Obsidian Spire Apex** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 87/90 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery Points: 10/10**
@@ -5617,8 +6164,11 @@ Lucifer's violet corona pulses, the atmospheric pressure in the chamber dropping
 > 👤 **Player:**
 > *"use my beauty and lucifer's fondness of me. Say that his intent is probably correct but adjust the target. Why not just aim it at the imperium capital or one of their main towns. Killing our own town makes us lose the war. We first need to win the war, defeat raziel, serize power, and then can figure out how to handle the creator. Even if the game is "rigged" killing our own troops and then losing the war doesnt help us."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Star-Chamber, Obsidian Spire Apex** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 87/98 | XP: 70,200/85,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **HD: 9/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | Inspiration: No**
@@ -5655,8 +6205,11 @@ General Barachiel (Lvl 20) slams his fist against the hololith. "The math is sym
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Strategic Advantage - Provide the coordinate-drift data required to re-aim the Star-Eater at Aeterna's outer rings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Star-Chamber, Obsidian Spire Apex** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 72,000/85,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | Gold: 340gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5690,8 +6243,11 @@ Suddenly, the silver mechanical sparrow on your shoulder chirps a sharp, high-fr
 God Mode:
 My hair was always black fix that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Miller's Crossing Cloud-Dock** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, SP: 10/10**
@@ -5701,8 +6257,11 @@ Administrative Correction: Character appearance has been updated. Alexiel's hair
 > 👤 **Player:**
 > *"Continue to push the coordinate change. Everyone should agree with me even seraphiel because if he nukes silverwood it makes no sense and her auditors will die too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Star-Chamber, Obsidian Spire Apex** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sorcery Points: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -5722,8 +6281,11 @@ Saraphiel stiffens, her visor pulsing with a frustrated, analytical crimson. She
 God Mode:
 Think you messed up azrael was already here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Assassin/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | Exhaustion: 0**
@@ -5751,8 +6313,11 @@ custom_campaign_state.active_missions = [{"mission_id": "null_cell_initiative", 
 > 👤 **Player:**
 > *"Narrate the star eater blasting aterna. Then tell saraphiel we have no time for her baseless mercy concerns. I just advocated for using the star eater on millions of people something even Lucifer hadn’t considered so my “mercy” shouldn’t be in question (should be easy dc)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 70,200/85,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **HD: 10/10 | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | Inspiration: Yes**
@@ -5790,8 +6355,11 @@ Description: The silver construct on your shoulder chirps a terminal variable: "
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Spire Wards (Logic) - Work with Barachiel's mages to reinforce the Spire's geometric defenses against the reflected beam.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Obsidian Spire - Star-Chamber / Ward Relay** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer | HP: 98/98 | XP: 71,200/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/10 | SP: 9/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1** &nbsp;|&nbsp; ⚠️ **Suspicion Metric: 10/100 | Exhaustion: 0 | Inspiration: No**
@@ -5838,8 +6406,11 @@ High Inquisitor Saraphiel (Lvl 17+) watches from the shadows, her obsidian visor
 God Mode:
 I should get massive exp for changing Lucifer’s mind and striking aterna
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer (Lvl 11 Available) | HP: 98/98 | XP: 92,000/100,000 | Suspicion: 5/100** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | SP: 10/10 | Null Field: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -5866,8 +6437,11 @@ I should get massive exp for changing Lucifer’s mind and striking aterna
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to 11 - Access Level 11 Rogue/Sorcerer mechanic choices (Reliable Talent, L6 Spell).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 Year (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Sorcerer (Lvl 11 available) | HP: 98/98 | XP: 92,000/85,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | SP: 10/10 | Exhaustion: 0**
@@ -5877,8 +6451,11 @@ Midday (13:30:00) in the Star-Chamber of the Obsidian Spire. The absolute-zero a
 > 👤 **Player:**
 > *"auto select evertyhing, except pick level 6 spell otto dance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 92,000/100,000 | Suspicion: 5/100** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 11/11 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Reliable Talent, Nullification Field (30ft) | Inspiration: No**
@@ -5890,8 +6467,11 @@ Beneath the Harbinger's mask, your aberrant bloodline resonates with a new, terr
 > 👤 **Player:**
 > *"resume story and suggest the next course of action. Say you've been working with barachiel and he is a strong leader. Ask Lucifer to allow him to fully act in his name, control 80% of our forces, and march and strike to capture aeterna now that its damaged. We can wait on using star eater again. We've demonstrated the power we have and now let it be a deterrent versus killing everyone and ruling over a graveyard."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 92,150/100,000 | Suspicion: 5/100** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/11 | HD: 11/11 | Exhaustion: 0**
@@ -5923,8 +6503,11 @@ General Barachiel (Lvl 20) looks at you, his sapphire visor reflecting an unsett
 > 👤 **Player:**
 > *"politely request to formalize command transfer, and also ask seraphiel if her audit of my mercy is finished. Someone who advocates for killing millions is not merciful for the sake of sentiment, there should be no doubt (should be easy DC and prob inheritor and azrael should back me)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 92,150/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/11 | Portents: N/A** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5960,8 +6543,11 @@ As the Inheritor speaks, a sudden shudder ripples through the Spire. The silver 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Formal Mandate - Press Lucifer to officially hand over the Command Shards to Barachiel in front of the Inquisitorial witnesses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (13:50)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 92,150/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/11 | HD: 9/9 | Inspiration: No**
@@ -5998,8 +6584,11 @@ Suddenly, the silver mechanical sparrow on your shoulder chirps a frantic, high-
 > 👤 **Player:**
 > *"Press the mandate. Explain it’s just for efficiency so barachiel can make decisions autonomously. Once we have won we can give them back. Remind Lucifer that barachiel has always been loyal and let barachiel speak for himself. Then telepathically tell gorok to use all my spies and elites to hide the ledger. Let’s assume it’s not just hanging around on the table and isn’t even in my room and is in some safe place so my agents instructed to further hide it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 92,150/100,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **Sorcery Points: 11/11, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Reliable Talent, Sentinel | Spells: L5 1/2, L6 1/1**
@@ -6046,8 +6635,11 @@ Barachiel (Lvl 20) clenches the pulsing Command Shards, his golden wings radiati
 > 👤 **Player:**
 > *"Accept vanguard command and then leave the area and talk to barachiel privately. Say we should subtly have our best healers try to heal father but also have spies watch him. This time we were lucky and able to change his mind but next time he might nuke our own forces again or nuke us after we take Aeterna. Barachiel should be extremely impressed by me. He says even without magic I am a prodigy in strategy and statesmanship and politics and I will be his right hand and promotes me to archangel rank (let’s assume I’m the first ever to hold the rank as someone without magic) and gives me greater forces to command and some of his lands and holdings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Archangel | HP: 106/106 | XP: 92,300/100,000 | Suspicion: 10/100** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery: 11/11, Ki: N/A, Rage: N/A** &nbsp;|&nbsp; ⚠️ **Ash-Marked | Exhaustion: 0 | Inspiration: Yes**
@@ -6076,8 +6668,11 @@ Description: The silver construct chirps as you accept the seal: "Saraphiel's ag
 > 👤 **Player:**
 > *"Delegate the leak, send elite scouts and spies to aterna to identify high value targets and assess situation after weapon, visit my new holding and army and organize them into general army versus elites. I will plan some surgical strikes with elites while my main vanguard force marches to aterna. Let’s assume seraphiel leaves me alone and doesn’t really believe in my mercy anymore and calls off the audit. Let’s also give me 3 more female companions and 2 male  of various classes under my command and assume they are my elites are level 9 below me.  Let’s officially make gorok and Karlen companions. And give them exp and higher level for all they did"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Miller's Crossing Command Hub** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Archangel | HP: 106/106 | XP: 92,300/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery Points: 11/11, Exhaustion: 0**
@@ -6105,8 +6700,11 @@ Valeraine (Lvl 9) steps forward, her hand resting on the hilt of a masterwork lo
 > 👤 **Player:**
 > *"Narrate a scene without me. Barachiel top generals question my appointment but he explains my utility. Narrate other reactions To my appointment and new rank. Those who know me think it makes sense and some who don’t think it’s favoritism. It should be very polarizing because non magic user has never held this rank. Also let’s assume I have a secret title among Lucifer and the scions who were in the room related to deciding to use the star eater on aterna something even Lucifer didn’t consider. Make up a title for me. Also let’s turn seraphiel into my supporter now. She respects ruthlessness and I’m more ruthless than she’s ever imagined"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Miller's Crossing Command Gantry** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Archangel | HP: 106/106 | Rank: Archangel | Suspicion: 10/100 | XP: 92300/0** &nbsp;|&nbsp; ✨ **Sorcery Points: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, HD: 11/11** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -6128,8 +6726,11 @@ Among the Scions who were in the room when the beam was redirected, a secret tit
 God Mode:
 Let’s assume only the scions and top commands know i am the one who made the decion and everyone else thinks it was lucifer. However as time goes on more people and eventually the imperium will realize and start treating me as the main opponent and villain. Let’s brainstorm a new name that sounds more evil. Like Star butcher or something give some suggestion s
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 92,300/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, SP: 11/11, Potions: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -6156,8 +6757,11 @@ Once a title is selected, I will add it to `custom_campaign_state.reputation.pub
 God Mode:
 Give me null reaper name and let’s say the scions and even Lucifer fear me a bit in terms of how ruthless I am. They agreed but I proposed the mass murder and it was the biggest ever in the 1000 year war for one event
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Archangel | HP: 106/106 | XP: 92,300/100,000 | Gold: 340gp**
@@ -6190,8 +6794,11 @@ Your level of ruthlessness has created a permanent shift in how your siblings an
 God Mode:
 Let’s assume the creator loves this. He won’t directly intervene but will help guide events to bring out even more ruthlessness from me and make it difficult choices. Don’t spoil anything but guide the campaign this way
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Archangel | HP: 106/106 | XP: 92,300/100,000 | Gold: 340gp**
@@ -6220,8 +6827,11 @@ I have added a persistent directive to ensure that the campaign's 'Living World'
 > 👤 **Player:**
 > *"Let’s narrate some leaking of the reaper. Barachiels generals are shocked and ask him to reconfirm it was my idea and not Lucifer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Obsidian Spire - Strategy Chamber** &nbsp;|&nbsp; ⏳ **Month 1, 1509 (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Archangel | HP: 106/106 | XP: 92,300/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 11/11 | Reliable Talent: Active**
@@ -6259,8 +6869,11 @@ As the meeting disperses, Kira (Lvl 9) steps out from behind a jagged obsidian p
 > 👤 **Player:**
 > *"Explain the math. Millions died but we can end the war before it becomes a 10,000 year war and the whole world will stop living in death. A necessary sacrifice and i feel bad but it was the right decision"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Obsidian Spire - Apex Corridor** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Archangel | HP: 106/106 | XP: 92,300/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, L6 1/1, SP: 11/11**
@@ -6288,8 +6901,11 @@ As the tension between you and your shadow begins to equalize, a sharp, mechanic
 > 👤 **Player:**
 > *"Rush to the vats with more elite mages and try to stabilize without revealing my magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Obsidian Spire - Lower Vats (The Roots)** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Archangel Alexiel 'The Null Reaper' | Lvl 11 (Lvl 12 available) | HP: 106/106 | XP: 92,300/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery Points: 11/11**
@@ -6322,8 +6938,11 @@ Kira (Lvl 9) watches you from the shadows, her indigo blades humming with a low,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Whitefire Injection (Tactical) - Order Thrum and the elites to inject the salvaged Whitefire into the rift's perimeter, using destructive energy to cauterize the tear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Obsidian Spire - Lower Vats** &nbsp;|&nbsp; ⏳ **Month 1 Day 17, 1509 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Assassin/Aberrant | HP: 106/106 | XP: 93,800/100,000 | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/11 | Exhaustion: 0**
@@ -6351,8 +6970,11 @@ Why do you think me having magic is treason?
 
 Forge the Truth-Pact: Take Kira aside and reveal a fraction of your aberrant nature to bind her loyalty through shared treason.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Obsidian Spire - Lower Vats** &nbsp;|&nbsp; ⏳ **Month 1, 1509 DR (Day 17)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 93,800/100,000 | Gold: 340gp**
@@ -6383,8 +7005,11 @@ I have administratively processed the **Truth-Pact** with Kira. By revealing a f
 God Mode:
 Did you forget the convo we had over abyssal magic?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Month 1 17, 1509 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 106/106 | XP: 93800/0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -6416,8 +7041,11 @@ I have not forgotten. The conversation regarding your **Abyssal Magic** (Sequenc
 God Mode:
 You keep forgetting I wasn’t designed to be a null You were designed to be the 'Perfect Silence' (Null
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Month 1 17, 1509 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue (Assassin) / Sorcerer (Aberrant Mind) | HP: 106/106 | XP: 93800/0** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -6450,8 +7078,11 @@ Your successful rolls and the 'Shadow Ledger' secrecy mean the Spire still belie
 God Mode:
 No you got it wrong again. Lucifer wanted a magical scion the null is an accident. Isn’t it in the source text?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Obsidian Spire - Star-Chamber** &nbsp;|&nbsp; ⏳ **Month 1 17, 1509 (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Rogue/Sorcerer | HP: 106/106 | XP: 93,800/100,000 | Gold: 340gp**
@@ -6477,6 +7108,8 @@ I have confirmed the source text in Sequence 1 and successfully identified the r
 - Corrected `custom_campaign_state.active_constraints` to remove the 'Intentional Null' hallucination.
 - Locked the 'Delayed Success' logic for future discovery paths.
 - Ensured the Suspicion Metric (10/100) is persistent in the header.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

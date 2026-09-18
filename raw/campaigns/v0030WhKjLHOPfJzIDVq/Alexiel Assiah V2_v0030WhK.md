@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (363 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 THE STARFALL CHRONICLE: COMPLETE CAMPAIGN MODULE
@@ -553,379 +564,384 @@ To Sariel (PC in modern campaign): Unknown truth about her mother, carried as se
 Mystery for Future Play:
 What were Alexiel's final words to Sariel? This is Sariel's deepest secret, player's choice to reveal or keep
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
-| **02** | Silverwood Town Square |  | Roleplay |
-| **03** | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
-| **04** | Silverwood Town Square | Scourge 12, 78 DR (18:00) | Roleplay |
-| **05** | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
-| **06** | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
-| **07** | Silverwood Town Square | Scourge 12, 78 DR (18:05) | Roleplay |
-| **08** | Silverwood Town Square | Scourge 12, 78 DR (18:05) | Roleplay |
-| **09** | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
-| **10** | Silverwood Town Square | Scourge 12, 78 DR (18:05) | Roleplay |
-| **11** | Silverwood Town Square | Scourge 12, 78 DR (18:10) | Roleplay |
-| **12** | Silverwood Town Square | Scourge 12, 78 DR (18:15) | Roleplay |
-| **13** | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
-| **14** | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
-| **15** | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
-| **16** | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
-| **17** | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
-| **18** | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
-| **19** | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
-| **20** | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
-| **21** | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
-| **22** | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
-| **23** | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
-| **24** | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
-| **25** | Silverwood Town Square | Scourge 12, 78 DR (18:35) | Roleplay |
-| **26** | Silverwood Town Square | Scourge 12, 78 DR (18:45) | Roleplay |
-| **27** | Silverwood Town Square (Ruins) | Scourge 12, 78 DR (19:15) | Roleplay |
-| **28** | Silverwood Town Square | Scourge 12, 78 DR (19:20) | Roleplay |
-| **29** | Silverwood Outskirts / Glimmering Vale Approach | Scourge 12, 78 DR (20:30) | Roleplay |
-| **30** | Glimmering Vale - Pulse-Mancer Overlook | Scourge 12, 78 DR (21:15) | Roleplay |
-| **31** | Glimmering Vale - Pulse-Mancer Overlook | Scourge 12, 78 DR (21:20) | Roleplay |
-| **32** | Glimmering Vale - Lead Wagon Interior | Scourge 12, 78 DR (21:25) | Roleplay |
-| **33** | Glimmering Vale - Lead Wagon Interior | Scourge 12, 78 DR (21:26) | Roleplay |
-| **34** | Glimmering Vale - Lead Wagon Interior | Scourge 12, 78 DR (21:35) | Roleplay |
-| **35** | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (21:45) | Roleplay |
-| **36** | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (22:15) | Roleplay |
-| **37** | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (22:15) | Roleplay |
-| **38** | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (22:30) | Roleplay |
-| **39** | Glimmering Vale - Caravan Site (Secured) | Scourge 12, 78 DR (23:15) | Roleplay |
-| **40** | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (23:15) | Roleplay |
-| **41** | Nexus - The Under-City | Scourge 16, 78 DR (04:30) | Roleplay |
-| **42** | Nexus - The Under-City (Defunct Brewery Safehouse) | Scourge 16, 78 DR (06:15) | Roleplay |
-| **43** | Nexus - The Under-City (Athenaeum Entrance) | Scourge 16, 78 DR (06:20) | Roleplay |
-| **44** | Nexus - The Under-City (Athenaeum Entrance) | Scourge 16, 78 DR (06:45) | Roleplay |
-| **45** | Nexus - The Under-City (Athenaeum Entrance) | Scourge 16, 78 DR (06:55) | Roleplay |
-| **46** | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (07:10) | Roleplay |
-| **47** | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (07:15) | Roleplay |
-| **48** | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (07:15) | Roleplay |
-| **49** | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (08:30) | Roleplay |
-| **50** | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (09:15) | Roleplay |
-| **51** | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (09:15) | Roleplay |
-| **52** | Nexus - Gnomish High-Security Docks | Scourge 16, 78 DR (11:30) | Roleplay |
-| **53** | Nexus - Gnomish High-Security Docks | Scourge 16, 78 DR (11:45) | Roleplay |
-| **54** | Nexus - Gnomish High-Security Docks | Month of Scourge, Year 78 (Day 16) | Roleplay |
-| **55** | Nexus - Gnomish High-Security Docks | Scourge 16, 78 DR (11:47) | Roleplay |
-| **56** | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (11:47) | Roleplay |
-| **57** | Nexus - Gnomish High-Security Docks |  | Roleplay |
-| **58** | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (11:50) | Roleplay |
-| **59** | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (11:55) | Roleplay |
-| **60** | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (12:05) | Roleplay |
-| **61** | Nexus - The Defunct Brewery (Subterranean Cistern) | Scourge 16, 78 DR (13:15) | Roleplay |
-| **62** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (14:30) | Roleplay |
-| **63** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:15) | Roleplay |
-| **64** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:20) | Roleplay |
-| **65** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:20) | Roleplay |
-| **66** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:20) | Roleplay |
-| **67** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:45) | Roleplay |
-| **68** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (16:00) | Roleplay |
-| **69** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (16:00) | Roleplay |
-| **70** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (16:30) | Roleplay |
-| **71** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (17:30) | Roleplay |
-| **72** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (17:45) | Roleplay |
-| **73** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (18:15) | Roleplay |
-| **74** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 17, 78 DR (18:15) | Roleplay |
-| **75** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (10:00) | Roleplay |
-| **76** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:30) | Roleplay |
-| **77** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:30) | Roleplay |
-| **78** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:35) | Roleplay |
-| **79** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:45) | Roleplay |
-| **80** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
-| **81** | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **82** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
-| **83** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
-| **84** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
-| **85** | Nexus - The Defunct Brewery (Cistern Base) | Day 18, 78 Scourge (14:15) | Roleplay |
-| **86** | Unknown |  | Roleplay |
-| **87** | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **88** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, Year 78 (14:15) | Roleplay |
-| **89** | Nexus - Cistern Base | Scourge 18, 1492 DR (14:15) | Roleplay |
-| **90** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
-| **91** | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **92** | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **93** | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **94** | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
-| **95** | Nexus - The Athenaeum | Scourge 18, 78 DR (16:45) | Roleplay |
-| **96** | Nexus - The Athenaeum | Month of Scourge, 78 DR (Day 18) | Roleplay |
-| **97** | Nexus - The Athenaeum | Scourge 18, 78 DR (17:15) | Roleplay |
-| **98** | Cistern-Prime | Scourge 18, 78 DR (18:30 (Evening)) | Roleplay |
-| **99** | Cistern-Prime | Scourge 18, 78 DR (19:15) | Roleplay |
-| **100** | Cistern-Prime | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **101** | Cistern-Prime | Scourge 18, 78 DR (19:45) | Roleplay |
-| **102** | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
-| **103** | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
-| **104** | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
-| **105** | Cistern-Prime | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **106** | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
-| **107** | Cistern-Prime | Scourge 18, 78 DR (20:05) | Roleplay |
-| **108** | Cistern-Prime | Month of Scourge, Year 78 (Day 18) | Roleplay |
-| **109** | Cistern-Prime | Scourge 18, 78 DR (20:30) | Roleplay |
-| **110** | Cistern-Prime | Scourge 18, 78 DR (20:30) | Roleplay |
-| **111** | Cistern-Prime | Scourge 18, 78 DR (22:45) | Roleplay |
-| **112** | Cistern-Prime | Scourge 18, 78 DR (22:50) | Roleplay |
-| **113** | Cistern-Prime | Scourge 18, 78 DR (22:50) | Roleplay |
-| **114** | Cistern-Prime | Scourge 18, 78 DR (23:15) | Roleplay |
-| **115** | High Market | Scourge 19, 78 DR (10:30) | Roleplay |
-| **116** | Cistern-Prime | Scourge 19, 78 DR (11:30) | Roleplay |
-| **117** | High Market | Scourge 19, 78 DR (14:00) | Roleplay |
-| **118** | High Market | Scourge 19, 78 DR (14:30) | Roleplay |
-| **119** | Aetheric Quarter | Scourge 19, 78 DR (15:15) | Roleplay |
-| **120** | High Market | Scourge 19, 78 DR (15:30) | Roleplay |
-| **121** | High Market | Scourge 19, 78 DR (15:35) | Roleplay |
-| **122** | High Market | Scourge 19, 78 DR (15:45) | Roleplay |
-| **123** | Cistern-Prime (Nexus Under-City) | Scourge 19, 78 DR (17:30) | Roleplay |
-| **124** | Cistern-Prime | Scourge 19, 78 DR (18:30) | Roleplay |
-| **125** | Cistern-Prime | Scourge 19, 78 DR (18:45) | Roleplay |
-| **126** | Cistern-Prime | Scourge 19, 78 DR (20:30) | Roleplay |
-| **127** | Cistern-Prime | Scourge 19, 78 DR (20:30) | Roleplay |
-| **128** | Cistern-Prime | Scourge 19, 78 DR (21:00) | Roleplay |
-| **129** | Cistern-Prime | Scourge 19, 78 DR (21:00) | Roleplay |
-| **130** | High Market Gala | Scourge 20, 78 DR (20:00 (Evening)) | Roleplay |
-| **131** | Private Terrace | Scourge 20, 78 DR (21:00) | Roleplay |
-| **132** | High Market Gala | Scourge 20, 78 DR (21:15) | Roleplay |
-| **133** | High Market Gala | Scourge 20, 78 DR (21:15) | Roleplay |
-| **134** | High Market Gala | Scourge 20, 78 DR (21:15) | Roleplay |
-| **135** | Private Suite | Scourge 20, 78 DR (22:45) | Roleplay |
-| **136** | Private Suite | Scourge 20, 78 DR (23:30) | Roleplay |
-| **137** | Private Suite | Scourge 20, 78 DR (23:35) | Roleplay |
-| **138** | Private Suite | Scourge 20, 78 DR (23:40) | Roleplay |
-| **139** | Private Suite | Scourge 20, 78 DR (23:45) | Roleplay |
-| **140** | Private Suite | Scourge 20, 78 DR (23:55) | Roleplay |
-| **141** | Private Suite | Scourge 21, 78 DR (00:05) | Roleplay |
-| **142** | Private Suite | Scourge 20, 78 DR (23:57) | Roleplay |
-| **143** | Cistern-Prime | Scourge 21, 78 DR (01:30) | Roleplay |
-| **144** | Cistern-Prime | Month of Scourge, Year 78 (Day 22) | Roleplay |
-| **145** | Cistern-Prime | Scourge 22, 78 DR (02:05) | Roleplay |
-| **146** | Cistern-Prime | Scourge 22, 78 DR (02:05) | Roleplay |
-| **147** | Cistern-Prime | Scourge 22, 78 DR (02:05) | Roleplay |
-| **148** | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
-| **149** | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
-| **150** | Cistern-Prime | Scourge 22, 78 DR (02:15) | Roleplay |
-| **151** | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
-| **152** | Cistern-Prime | Scourge 22, Year 78 (02:10) | Roleplay |
-| **153** | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
-| **154** | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
-| **155** | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
-| **156** | Cistern-Prime | Scourge 22, Year 78 (02:10) | Roleplay |
-| **157** | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
-| **158** | Cistern-Prime | Scourge 22, 78 DR (02:15) | Roleplay |
-| **159** | Cistern-Prime | Scourge 22, 78 DR (06:15) | Roleplay |
-| **160** | Sub-Level Nine | Scourge 22, 78 DR (06:15) | Roleplay |
-| **161** | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
-| **162** | Sub-Level Nine | Scourge 22, 78 DR (06:20) | Roleplay |
-| **163** | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
-| **164** | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
-| **165** | Sub-Level Nine | Scourge 22, 78 DR (06:30) | Roleplay |
-| **166** | Sub-Level Nine | Scourge 22, 78 DR (10:30) | Roleplay |
-| **167** | Sub-Level Nine (Sovereign Seat) | Scourge 22, 78 DR (10:45) | Roleplay |
-| **168** | Sub-Level Nine | Scourge 22, 78 DR (10:45) | Roleplay |
-| **169** | Sub-Level Nine | Scourge 22, 78 DR (11:45) | Roleplay |
-| **170** | Sub-Level Nine | Scourge 22, 78 DR (12:45) | Roleplay |
-| **171** | Sub-Level Nine (Sovereign Seat) | Scourge 22, 78 DR (16:30) | Roleplay |
-| **172** | Sub-Level Nine | Scourge 22, Year 78 (16:30) | Roleplay |
-| **173** | Sub-Level Nine | Scourge 22, 78 DR (20:30) | Roleplay |
-| **174** | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
-| **175** | Sub-Level Nine | Month of Scourge, Year 78 DR (Day 22) | Roleplay |
-| **176** | Sub-Level Nine | Scourge 22, Year 78 (21:00) | Roleplay |
-| **177** | Sub-Level Nine | Scourge 22, 78 DR (21:05) | Roleplay |
-| **178** | Sub-Level Nine | Scourge 22, 78 DR (22:30) | Roleplay |
-| **179** | Sub-Level Nine | Scourge 22, 78 DR (22:30) | Roleplay |
-| **180** | Sub-Level Nine | Scourge 22, 78 DR (23:45) | Roleplay |
-| **181** | Sub-Level Nine / Cistern-Prime | Scourge 22, 78 DR (23:50) | Roleplay |
-| **182** | Sub-Level Nine / Cistern-Prime | Scourge 22, 78 DR (23:55) | Roleplay |
-| **183** | Sub-Level Nine / Cistern-Prime | Scourge 22, 78 DR (23:55) | Roleplay |
-| **184** | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:10) | Roleplay |
-| **185** | Sub-Level Nine | Scourge 23, 78 DR (00:10) | Roleplay |
-| **186** | Sub-Level Nine | Scourge 23, 78 DR (00:15) | Roleplay |
-| **187** | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
-| **188** | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
-| **189** | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
-| **190** | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
-| **191** | Sub-Level Nine | Scourge 23, 78 DR (00:30) | Roleplay |
-| **192** | Sub-Level Nine | Scourge 23, 78 DR (00:30) | Roleplay |
-| **193** | Sub-Level Nine | Scourge 23, 78 DR (00:30) | Roleplay |
-| **194** | Sub-Level Nine | Scourge 23, 78 DR (01:30) | Roleplay |
-| **195** | Sub-Level Nine | Scourge 23, 78 DR (09:30) | Roleplay |
-| **196** | Sub-Level Nine | Scourge 24, Year 78 (06:00 (Dawn)) | Roleplay |
-| **197** | Sub-Level Nine | Scourge 25, 78 DR (08:00) | Roleplay |
-| **198** | Sub-Level Nine | Scourge 25, 78 DR (08:30) | Roleplay |
-| **199** | Sub-Level Nine | Scourge 25, 78 DR (17:00) | Roleplay |
-| **200** | Sub-Level Nine | Scourge 25, 78 DR (18:30) | Roleplay |
-| **201** | Sub-Level Nine | Scourge 25, 78 DR (18:45) | Roleplay |
-| **202** | Sub-Level Nine | Scourge 25, 78 DR (20:00) | Roleplay |
-| **203** | Sub-Level Nine | Scourge 25, 78 DR (20:30) | Roleplay |
-| **204** | Sub-Level Nine | Scourge 25, 78 DR (20:45) | Roleplay |
-| **205** | Sub-Level Nine | Scourge 25, 78 DR (21:00) | Roleplay |
-| **206** | Sub-Level Nine | Scourge 25, 78 DR (21:05) | Roleplay |
-| **207** | Sub-Level Nine | Scourge 25, 78 DR (21:15) | Roleplay |
-| **208** | Sub-Level Nine | Scourge 25, 78 DR (21:30) | Roleplay |
-| **209** | Sub-Level Nine | Scourge 25, 78 DR (22:00) | Roleplay |
-| **210** | Sub-Level Nine | Scourge 25, 78 DR (22:15) | Roleplay |
-| **211** | Sub-Level Nine | Scourge 25, 78 DR (23:45) | Roleplay |
-| **212** | Sub-Level Nine | Scourge 26, 78 DR (00:45) | Roleplay |
-| **213** | Sub-Level Nine | Scourge 26, 78 DR (02:30) | Roleplay |
-| **214** | Sub-Level Nine | Scourge 26, 78 DR (03:15) | Roleplay |
-| **215** | Sub-Level Nine | Scourge 26, 78 DR (04:30) | Roleplay |
-| **216** | Sub-Level Nine | Scourge 26, 78 DR (05:15) | Roleplay |
-| **217** | Sub-Level Nine | Scourge 26, 78 DR (05:45) | Roleplay |
-| **218** | Sub-Level Nine | Scourge 26, 78 DR (08:30) | Roleplay |
-| **219** | Sub-Level Nine | Scourge 26, 78 DR (12:45) | Roleplay |
-| **220** | Sub-Level Nine | Month of Scourge, Year 78 (Day 26) | Roleplay |
-| **221** | Sub-Level Nine | Month of Scourge, Year 78 (Day 26) | Roleplay |
-| **222** | Sub-Level Nine (The Genesis Core) | Scourge 26, Year 78 (12:45) | Roleplay |
-| **223** | Sub-Level Nine | Scourge 26, 78 DR (21:00) | Roleplay |
-| **224** | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
-| **225** | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
-| **226** | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
-| **227** | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
-| **228** | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
-| **229** | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
-| **230** | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
-| **231** | Sub-Level Nine | Scourge 27, 78 DR (09:05) | Roleplay |
-| **232** | Sub-Level Nine | Scourge 27, 78 DR (10:15) | Roleplay |
-| **233** | Sub-Level Nine | Scourge 27, 78 DR (10:15) | Roleplay |
-| **234** | Sub-Level Nine | Month of Scourge, Year 78 (Day 28) | Roleplay |
-| **235** | Sub-Level Nine | Scourge 29, Year 78 (Dawn) | Roleplay |
-| **236** | Sub-Level Nine | Scourge 29, 78 DR (08:30) | Roleplay |
-| **237** | Sub-Level Nine | Scourge 29, 78 DR (08:30) | Roleplay |
-| **238** | Sub-Level Nine | Scourge 29, 78 DR (08:30) | Roleplay |
-| **239** | Sovereign Seat | Scourge 39, 78 DR (08:30) | Roleplay |
-| **240** | Sub-Level Nine | Scourge 39, 78 DR (08:45) | Roleplay |
-| **241** | Sub-Level Nine | Scourge 39, 78 DR (09:00) | Roleplay |
-| **242** | Sub-Level Nine | Scourge 39, Year 78 (09:00) | Roleplay |
-| **243** | Sub-Level Nine | Scourge 39, 78 DR (10:00) | Roleplay |
-| **244** | Sub-Level Nine | Scourge 39, Year 78 (10:00) | Roleplay |
-| **245** | Sub-Level Nine | Month of Scourge, Year 78 (Day 40) | Roleplay |
-| **246** | Sub-Level Nine | Scourge 39, Year 78 (18:00 (Evening)) | Roleplay |
-| **247** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **248** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **249** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **250** | Sub-Level Nine | Scourge Day 39, Year 78 (18:00) | Roleplay |
-| **251** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **252** | Sub-Level Nine | Scourge 39, 78 DR (21:00) | Roleplay |
-| **253** | Sub-Level Nine | Scourge 39, 78 DR (21:00) | Roleplay |
-| **254** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **255** | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
-| **256** | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
-| **257** | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
-| **258** | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
-| **259** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **260** | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
-| **261** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **262** | Sub-Level Nine | Month of Scourge, Year 78 DR (Day 39) | Roleplay |
-| **263** | Sub-Level Nine | Scourge 39, 78 DR (21:15) | Roleplay |
-| **264** | Sub-Level Nine | Scourge 39, 78 DR (23:00) | Roleplay |
-| **265** | Akai Core | Scourge 39, 78 DR (23:30) | Roleplay |
-| **266** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **267** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **268** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **269** | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
-| **270** | Sub-Level Nine | Scourge Day 39, Year 78 (Night) | Roleplay |
-| **271** | Sub-Level Nine | Scourge 39, 78 DR (23:30) | Roleplay |
-| **272** | Sub-Level Nine | Scourge 40, 78 DR (06:00) | Roleplay |
-| **273** | Sub-Level Nine | Scourge 40, 78 DR (08:30) | Roleplay |
-| **274** | Sub-Level Nine | Scourge 40, 78 DR (08:30) | Roleplay |
-| **275** | Sub-Level Nine | Scourge 40, 78 DR (08:30) | Roleplay |
-| **276** | Sub-Level Nine | Scourge Day 40, Year 78 (Dawn) | Roleplay |
-| **277** | Obsidian Spire (Avatar Projection) / Sub-Level Nine | Scourge 40, 78 DR (09:30) | Roleplay |
-| **278** | Obsidian Spire (Plaza of the Silent Throne) | Scourge 40, 78 DR (09:35) | Roleplay |
-| **279** | Obsidian Spire (Avatar) / Sub-Level Nine (Source) | Scourge 40, 78 DR (10:45) | Roleplay |
-| **280** | Obsidian Spire | Scourge 40, 78 DR (11:15) | Roleplay |
-| **281** | Obsidian Spire | Scourge 40, 78 DR (12:30) | Roleplay |
-| **282** | Obsidian Spire | Scourge 40, 78 DR (12:30) | Roleplay |
-| **283** | Obsidian Spire | Scourge 40, 78 DR (14:00) | Roleplay |
-| **284** | Obsidian Spire | Scourge 40, 78 DR (14:00) | Roleplay |
-| **285** | Obsidian Spire | Scourge 40, 78 DR (15:30) | Roleplay |
-| **286** | Obsidian Spire | Scourge 40, 78 DR (15:30) | Roleplay |
-| **287** | Obsidian Spire | Scourge 40, 78 DR (18:30) | Roleplay |
-| **288** | Obsidian Spire | Scourge 40, 78 DR (18:30) | Roleplay |
-| **289** | Obsidian Spire | Scourge 40, 78 DR (18:30) | Roleplay |
-| **290** | Obsidian Spire | Scourge 40, Year 78 (18:30 (Evening)) | Roleplay |
-| **291** | Obsidian Spire | Scourge 40, Year 78 (Evening) | Roleplay |
-| **292** | Obsidian Spire | Day 40, 78 Scourge (19:00) | Roleplay |
-| **293** | Obsidian Spire | Scourge 40, Year 78 (Evening) | Roleplay |
-| **294** | Obsidian Spire | Month of Scourge, Year 78 (Day 40) | Roleplay |
-| **295** | Obsidian Spire | Scourge 40, 78 DR (18:45) | Roleplay |
-| **296** | Obsidian Spire | Scourge 40, 78 DR (21:00) | Roleplay |
-| **297** | Obsidian Spire | Scourge 41, 78 DR (00:00) | Roleplay |
-| **298** | Obsidian Spire | Scourge 41, 78 DR (00:05) | Roleplay |
-| **299** | Obsidian Spire | Month of Scourge, Year 78 (Day 41) | Roleplay |
-| **300** | Obsidian Spire | Scourge 41, Year 78 (Deep Night) | Roleplay |
-| **301** | Obsidian Spire | Month of Scourge, Year 78 (Day 41) | Roleplay |
-| **302** | Obsidian Spire | Scourge 41, Year 78 (00:05 (Deep Night)) | Roleplay |
-| **303** | Obsidian Spire | Scourge 41, 78 DR (00:10) | Roleplay |
-| **304** | Obsidian Spire | Scourge 41, 78 DR (01:15) | Roleplay |
-| **305** | Obsidian Spire | Scourge 41, 78 DR (01:15) | Roleplay |
-| **306** | Obsidian Spire | Scourge 41, 78 DR (02:00) | Roleplay |
-| **307** | Obsidian Spire | Scourge 41, 78 DR (02:15) | Roleplay |
-| **308** | Obsidian Spire | Scourge 41, 78 DR (02:30) | Roleplay |
-| **309** | Obsidian Spire | Scourge 41, 78 DR (02:45) | Roleplay |
-| **310** | Obsidian Spire | Scourge 41, 78 DR (02:55) | Roleplay |
-| **311** | Obsidian Spire | Scourge 41, 78 DR (03:15) | Roleplay |
-| **312** | Obsidian Spire | Scourge 41, 78 DR (03:20) | Roleplay |
-| **313** | Obsidian Spire | Scourge 41, Year 78 (03:20 (Deep Night)) | Roleplay |
-| **314** | Obsidian Spire | Month of Scourge, Year 78 (Day 41) | Roleplay |
-| **315** | Obsidian Spire | Scourge 41, 78 DR (03:30) | Roleplay |
-| **316** | Obsidian Spire | Scourge 41, 78 DR (03:30) | Roleplay |
-| **317** | Obsidian Spire | Scourge 41, 78 DR (10:30) | Roleplay |
-| **318** | Obsidian Spire | Scourge 41, 78 DR (10:45) | Roleplay |
-| **319** | Obsidian Spire | Scourge 41, 78 DR (11:45) | Roleplay |
-| **320** | Obsidian Spire | Scourge 41, 78 DR (14:00) | Roleplay |
-| **321** | Obsidian Spire | Scourge 41, 78 DR (15:30) | Roleplay |
-| **322** | Zenith Rift | Scourge 41, 78 DR (15:30) | Roleplay |
-| **323** | Zenith Rift | Scourge 41, 78 DR (15:45) | Roleplay |
-| **324** | Zenith Rift | Scourge 41, 78 DR (15:45) | Roleplay |
-| **325** | Zenith Rift | Scourge 41, 78 DR (16:00) | Roleplay |
-| **326** | Zenith Rift | Scourge 41, 78 DR (17:00) | Roleplay |
-| **327** | Zenith Rift | Scourge 41, 78 DR (17:05) | Roleplay |
-| **328** | Zenith Rift | Scourge 41, 78 DR (18:00) | Roleplay |
-| **329** | Zenith Rift | Scourge 41, 78 DR (19:00) | Roleplay |
-| **330** | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (20:00) | Roleplay |
-| **331** | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (21:00) | Roleplay |
-| **332** | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (22:00) | Roleplay |
-| **333** | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (23:00) | Roleplay |
-| **334** | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (23:00) | Roleplay |
-| **335** | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (23:30) | Roleplay |
-| **336** | Aeterna: Tier 5 Sovereign Seat (Throne Room) | Scourge 42, 79 DR (08:30) | Roleplay |
-| **337** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (09:00) | Roleplay |
-| **338** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (09:15) | Roleplay |
-| **339** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (09:30) | Roleplay |
-| **340** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (10:00) | Roleplay |
-| **341** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (10:30) | Roleplay |
-| **342** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (10:45) | Roleplay |
-| **343** | Aeterna: Tier 5 Sovereign Seat | month of Scourge, Year 79 (Day 42) | Roleplay |
-| **344** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (11:30) | Roleplay |
-| **345** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (12:00) | Roleplay |
-| **346** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (12:30) | Roleplay |
-| **347** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (13:00) | Roleplay |
-| **348** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (13:30) | Roleplay |
-| **349** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (14:00) | Roleplay |
-| **350** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (14:00) | Roleplay |
-| **351** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (14:30) | Roleplay |
-| **352** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (16:30) | Roleplay |
-| **353** | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (16:45) | Roleplay |
-| **354** | Assiah: Global Procession | Scourge 42, 79 DR (20:30) | Roleplay |
-| **355** | Aeterna: Crystallized Throne Room | Scourge 42, 79 DR (20:30) | Roleplay |
-| **356** | Aeterna: Crystallized Throne Room | Scourge 42, 79 DR (21:00) | Roleplay |
-| **357** | Assiah: Aeterna (Sovereign Seat) | Scourge 45, 79 DR (14:00) | Roleplay |
-| **358** | Assiah: Aeterna (Sovereign Seat) | Scourge 45, 79 DR (14:05) | Roleplay |
-| **359** | Assiah: Aeterna (Sovereign Seat) | Scourge 45, 79 DR (14:10) | Roleplay |
-| **360** | Assiah: Aeterna (Sovereign Seat) | Scourge 50, 79 DR (15:30) | Roleplay |
-| **361** | Assiah: Aeterna (Sovereign Seat) |  | Roleplay |
-| **362** | Assiah: Aeterna (Sovereign Seat) | Scourge 50, 79 DR (15:45) | Roleplay |
-| **363** | Assiah: Aeterna (Sovereign Seat) | Scourge 50, 79 DR (16:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
+| [**Scene 02**](#scene-2) | Silverwood Town Square |  | Roleplay |
+| [**Scene 03**](#scene-3) | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
+| [**Scene 04**](#scene-4) | Silverwood Town Square | Scourge 12, 78 DR (18:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
+| [**Scene 06**](#scene-6) | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
+| [**Scene 07**](#scene-7) | Silverwood Town Square | Scourge 12, 78 DR (18:05) | Roleplay |
+| [**Scene 08**](#scene-8) | Silverwood Town Square | Scourge 12, 78 DR (18:05) | Roleplay |
+| [**Scene 09**](#scene-9) | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
+| [**Scene 10**](#scene-10) | Silverwood Town Square | Scourge 12, 78 DR (18:05) | Roleplay |
+| [**Scene 11**](#scene-11) | Silverwood Town Square | Scourge 12, 78 DR (18:10) | Roleplay |
+| [**Scene 12**](#scene-12) | Silverwood Town Square | Scourge 12, 78 DR (18:15) | Roleplay |
+| [**Scene 13**](#scene-13) | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
+| [**Scene 14**](#scene-14) | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
+| [**Scene 15**](#scene-15) | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
+| [**Scene 16**](#scene-16) | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
+| [**Scene 17**](#scene-17) | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
+| [**Scene 18**](#scene-18) | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
+| [**Scene 19**](#scene-19) | Silverwood Town Square | Scourge 12, 78 DR (18:20) | Roleplay |
+| [**Scene 20**](#scene-20) | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
+| [**Scene 21**](#scene-21) | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
+| [**Scene 22**](#scene-22) | Silverwood Town Square | Month of Scourge, Year 78 (Day 12) | Roleplay |
+| [**Scene 23**](#scene-23) | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
+| [**Scene 24**](#scene-24) | Silverwood Town Square | Scourge 12, 78 DR (18:25) | Roleplay |
+| [**Scene 25**](#scene-25) | Silverwood Town Square | Scourge 12, 78 DR (18:35) | Roleplay |
+| [**Scene 26**](#scene-26) | Silverwood Town Square | Scourge 12, 78 DR (18:45) | Roleplay |
+| [**Scene 27**](#scene-27) | Silverwood Town Square (Ruins) | Scourge 12, 78 DR (19:15) | Roleplay |
+| [**Scene 28**](#scene-28) | Silverwood Town Square | Scourge 12, 78 DR (19:20) | Roleplay |
+| [**Scene 29**](#scene-29) | Silverwood Outskirts / Glimmering Vale Approach | Scourge 12, 78 DR (20:30) | Roleplay |
+| [**Scene 30**](#scene-30) | Glimmering Vale - Pulse-Mancer Overlook | Scourge 12, 78 DR (21:15) | Roleplay |
+| [**Scene 31**](#scene-31) | Glimmering Vale - Pulse-Mancer Overlook | Scourge 12, 78 DR (21:20) | Roleplay |
+| [**Scene 32**](#scene-32) | Glimmering Vale - Lead Wagon Interior | Scourge 12, 78 DR (21:25) | Roleplay |
+| [**Scene 33**](#scene-33) | Glimmering Vale - Lead Wagon Interior | Scourge 12, 78 DR (21:26) | Roleplay |
+| [**Scene 34**](#scene-34) | Glimmering Vale - Lead Wagon Interior | Scourge 12, 78 DR (21:35) | Roleplay |
+| [**Scene 35**](#scene-35) | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (21:45) | Roleplay |
+| [**Scene 36**](#scene-36) | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (22:15) | Roleplay |
+| [**Scene 37**](#scene-37) | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (22:15) | Roleplay |
+| [**Scene 38**](#scene-38) | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (22:30) | Roleplay |
+| [**Scene 39**](#scene-39) | Glimmering Vale - Caravan Site (Secured) | Scourge 12, 78 DR (23:15) | Roleplay |
+| [**Scene 40**](#scene-40) | Glimmering Vale - Caravan Site | Scourge 12, 78 DR (23:15) | Roleplay |
+| [**Scene 41**](#scene-41) | Nexus - The Under-City | Scourge 16, 78 DR (04:30) | Roleplay |
+| [**Scene 42**](#scene-42) | Nexus - The Under-City (Defunct Brewery Safehouse) | Scourge 16, 78 DR (06:15) | Roleplay |
+| [**Scene 43**](#scene-43) | Nexus - The Under-City (Athenaeum Entrance) | Scourge 16, 78 DR (06:20) | Roleplay |
+| [**Scene 44**](#scene-44) | Nexus - The Under-City (Athenaeum Entrance) | Scourge 16, 78 DR (06:45) | Roleplay |
+| [**Scene 45**](#scene-45) | Nexus - The Under-City (Athenaeum Entrance) | Scourge 16, 78 DR (06:55) | Roleplay |
+| [**Scene 46**](#scene-46) | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (07:10) | Roleplay |
+| [**Scene 47**](#scene-47) | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (07:15) | Roleplay |
+| [**Scene 48**](#scene-48) | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (07:15) | Roleplay |
+| [**Scene 49**](#scene-49) | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (08:30) | Roleplay |
+| [**Scene 50**](#scene-50) | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (09:15) | Roleplay |
+| [**Scene 51**](#scene-51) | Nexus - The Under-City (Defunct Brewery) | Scourge 16, 78 DR (09:15) | Roleplay |
+| [**Scene 52**](#scene-52) | Nexus - Gnomish High-Security Docks | Scourge 16, 78 DR (11:30) | Roleplay |
+| [**Scene 53**](#scene-53) | Nexus - Gnomish High-Security Docks | Scourge 16, 78 DR (11:45) | Roleplay |
+| [**Scene 54**](#scene-54) | Nexus - Gnomish High-Security Docks | Month of Scourge, Year 78 (Day 16) | Roleplay |
+| [**Scene 55**](#scene-55) | Nexus - Gnomish High-Security Docks | Scourge 16, 78 DR (11:47) | Roleplay |
+| [**Scene 56**](#scene-56) | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (11:47) | Roleplay |
+| [**Scene 57**](#scene-57) | Nexus - Gnomish High-Security Docks |  | Roleplay |
+| [**Scene 58**](#scene-58) | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (11:50) | Roleplay |
+| [**Scene 59**](#scene-59) | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (11:55) | Roleplay |
+| [**Scene 60**](#scene-60) | Nexus - Gnomish High-Security Docks | Scourge 16, Year 78 (12:05) | Roleplay |
+| [**Scene 61**](#scene-61) | Nexus - The Defunct Brewery (Subterranean Cistern) | Scourge 16, 78 DR (13:15) | Roleplay |
+| [**Scene 62**](#scene-62) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (14:30) | Roleplay |
+| [**Scene 63**](#scene-63) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:15) | Roleplay |
+| [**Scene 64**](#scene-64) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:20) | Roleplay |
+| [**Scene 65**](#scene-65) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:20) | Roleplay |
+| [**Scene 66**](#scene-66) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:20) | Roleplay |
+| [**Scene 67**](#scene-67) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (15:45) | Roleplay |
+| [**Scene 68**](#scene-68) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (16:00) | Roleplay |
+| [**Scene 69**](#scene-69) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (16:00) | Roleplay |
+| [**Scene 70**](#scene-70) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (16:30) | Roleplay |
+| [**Scene 71**](#scene-71) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (17:30) | Roleplay |
+| [**Scene 72**](#scene-72) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (17:45) | Roleplay |
+| [**Scene 73**](#scene-73) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 16, 78 DR (18:15) | Roleplay |
+| [**Scene 74**](#scene-74) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 17, 78 DR (18:15) | Roleplay |
+| [**Scene 75**](#scene-75) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (10:00) | Roleplay |
+| [**Scene 76**](#scene-76) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:30) | Roleplay |
+| [**Scene 77**](#scene-77) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:30) | Roleplay |
+| [**Scene 78**](#scene-78) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:35) | Roleplay |
+| [**Scene 79**](#scene-79) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (11:45) | Roleplay |
+| [**Scene 80**](#scene-80) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
+| [**Scene 81**](#scene-81) | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 82**](#scene-82) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
+| [**Scene 83**](#scene-83) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
+| [**Scene 84**](#scene-84) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
+| [**Scene 85**](#scene-85) | Nexus - The Defunct Brewery (Cistern Base) | Day 18, 78 Scourge (14:15) | Roleplay |
+| [**Scene 86**](#scene-86) | Unknown |  | Roleplay |
+| [**Scene 87**](#scene-87) | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 88**](#scene-88) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, Year 78 (14:15) | Roleplay |
+| [**Scene 89**](#scene-89) | Nexus - Cistern Base | Scourge 18, 1492 DR (14:15) | Roleplay |
+| [**Scene 90**](#scene-90) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
+| [**Scene 91**](#scene-91) | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 92**](#scene-92) | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 93**](#scene-93) | Nexus - The Defunct Brewery (Cistern Base) | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 94**](#scene-94) | Nexus - The Defunct Brewery (Cistern Base) | Scourge 18, 78 DR (14:15) | Roleplay |
+| [**Scene 95**](#scene-95) | Nexus - The Athenaeum | Scourge 18, 78 DR (16:45) | Roleplay |
+| [**Scene 96**](#scene-96) | Nexus - The Athenaeum | Month of Scourge, 78 DR (Day 18) | Roleplay |
+| [**Scene 97**](#scene-97) | Nexus - The Athenaeum | Scourge 18, 78 DR (17:15) | Roleplay |
+| [**Scene 98**](#scene-98) | Cistern-Prime | Scourge 18, 78 DR (18:30 (Evening)) | Roleplay |
+| [**Scene 99**](#scene-99) | Cistern-Prime | Scourge 18, 78 DR (19:15) | Roleplay |
+| [**Scene 100**](#scene-100) | Cistern-Prime | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 101**](#scene-101) | Cistern-Prime | Scourge 18, 78 DR (19:45) | Roleplay |
+| [**Scene 102**](#scene-102) | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
+| [**Scene 104**](#scene-104) | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
+| [**Scene 105**](#scene-105) | Cistern-Prime | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 106**](#scene-106) | Cistern-Prime | Scourge 18, 78 DR (20:00) | Roleplay |
+| [**Scene 107**](#scene-107) | Cistern-Prime | Scourge 18, 78 DR (20:05) | Roleplay |
+| [**Scene 108**](#scene-108) | Cistern-Prime | Month of Scourge, Year 78 (Day 18) | Roleplay |
+| [**Scene 109**](#scene-109) | Cistern-Prime | Scourge 18, 78 DR (20:30) | Roleplay |
+| [**Scene 110**](#scene-110) | Cistern-Prime | Scourge 18, 78 DR (20:30) | Roleplay |
+| [**Scene 111**](#scene-111) | Cistern-Prime | Scourge 18, 78 DR (22:45) | Roleplay |
+| [**Scene 112**](#scene-112) | Cistern-Prime | Scourge 18, 78 DR (22:50) | Roleplay |
+| [**Scene 113**](#scene-113) | Cistern-Prime | Scourge 18, 78 DR (22:50) | Roleplay |
+| [**Scene 114**](#scene-114) | Cistern-Prime | Scourge 18, 78 DR (23:15) | Roleplay |
+| [**Scene 115**](#scene-115) | High Market | Scourge 19, 78 DR (10:30) | Roleplay |
+| [**Scene 116**](#scene-116) | Cistern-Prime | Scourge 19, 78 DR (11:30) | Roleplay |
+| [**Scene 117**](#scene-117) | High Market | Scourge 19, 78 DR (14:00) | Roleplay |
+| [**Scene 118**](#scene-118) | High Market | Scourge 19, 78 DR (14:30) | Roleplay |
+| [**Scene 119**](#scene-119) | Aetheric Quarter | Scourge 19, 78 DR (15:15) | Roleplay |
+| [**Scene 120**](#scene-120) | High Market | Scourge 19, 78 DR (15:30) | Roleplay |
+| [**Scene 121**](#scene-121) | High Market | Scourge 19, 78 DR (15:35) | Roleplay |
+| [**Scene 122**](#scene-122) | High Market | Scourge 19, 78 DR (15:45) | Roleplay |
+| [**Scene 123**](#scene-123) | Cistern-Prime (Nexus Under-City) | Scourge 19, 78 DR (17:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Cistern-Prime | Scourge 19, 78 DR (18:30) | Roleplay |
+| [**Scene 125**](#scene-125) | Cistern-Prime | Scourge 19, 78 DR (18:45) | Roleplay |
+| [**Scene 126**](#scene-126) | Cistern-Prime | Scourge 19, 78 DR (20:30) | Roleplay |
+| [**Scene 127**](#scene-127) | Cistern-Prime | Scourge 19, 78 DR (20:30) | Roleplay |
+| [**Scene 128**](#scene-128) | Cistern-Prime | Scourge 19, 78 DR (21:00) | Roleplay |
+| [**Scene 129**](#scene-129) | Cistern-Prime | Scourge 19, 78 DR (21:00) | Roleplay |
+| [**Scene 130**](#scene-130) | High Market Gala | Scourge 20, 78 DR (20:00 (Evening)) | Roleplay |
+| [**Scene 131**](#scene-131) | Private Terrace | Scourge 20, 78 DR (21:00) | Roleplay |
+| [**Scene 132**](#scene-132) | High Market Gala | Scourge 20, 78 DR (21:15) | Roleplay |
+| [**Scene 133**](#scene-133) | High Market Gala | Scourge 20, 78 DR (21:15) | Roleplay |
+| [**Scene 134**](#scene-134) | High Market Gala | Scourge 20, 78 DR (21:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Private Suite | Scourge 20, 78 DR (22:45) | Roleplay |
+| [**Scene 136**](#scene-136) | Private Suite | Scourge 20, 78 DR (23:30) | Roleplay |
+| [**Scene 137**](#scene-137) | Private Suite | Scourge 20, 78 DR (23:35) | Roleplay |
+| [**Scene 138**](#scene-138) | Private Suite | Scourge 20, 78 DR (23:40) | Roleplay |
+| [**Scene 139**](#scene-139) | Private Suite | Scourge 20, 78 DR (23:45) | Roleplay |
+| [**Scene 140**](#scene-140) | Private Suite | Scourge 20, 78 DR (23:55) | Roleplay |
+| [**Scene 141**](#scene-141) | Private Suite | Scourge 21, 78 DR (00:05) | Roleplay |
+| [**Scene 142**](#scene-142) | Private Suite | Scourge 20, 78 DR (23:57) | Roleplay |
+| [**Scene 143**](#scene-143) | Cistern-Prime | Scourge 21, 78 DR (01:30) | Roleplay |
+| [**Scene 144**](#scene-144) | Cistern-Prime | Month of Scourge, Year 78 (Day 22) | Roleplay |
+| [**Scene 145**](#scene-145) | Cistern-Prime | Scourge 22, 78 DR (02:05) | Roleplay |
+| [**Scene 146**](#scene-146) | Cistern-Prime | Scourge 22, 78 DR (02:05) | Roleplay |
+| [**Scene 147**](#scene-147) | Cistern-Prime | Scourge 22, 78 DR (02:05) | Roleplay |
+| [**Scene 148**](#scene-148) | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
+| [**Scene 149**](#scene-149) | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
+| [**Scene 150**](#scene-150) | Cistern-Prime | Scourge 22, 78 DR (02:15) | Roleplay |
+| [**Scene 151**](#scene-151) | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
+| [**Scene 152**](#scene-152) | Cistern-Prime | Scourge 22, Year 78 (02:10) | Roleplay |
+| [**Scene 153**](#scene-153) | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
+| [**Scene 154**](#scene-154) | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
+| [**Scene 155**](#scene-155) | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
+| [**Scene 156**](#scene-156) | Cistern-Prime | Scourge 22, Year 78 (02:10) | Roleplay |
+| [**Scene 157**](#scene-157) | Cistern-Prime | Scourge 22, 78 DR (02:10) | Roleplay |
+| [**Scene 158**](#scene-158) | Cistern-Prime | Scourge 22, 78 DR (02:15) | Roleplay |
+| [**Scene 159**](#scene-159) | Cistern-Prime | Scourge 22, 78 DR (06:15) | Roleplay |
+| [**Scene 160**](#scene-160) | Sub-Level Nine | Scourge 22, 78 DR (06:15) | Roleplay |
+| [**Scene 161**](#scene-161) | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
+| [**Scene 162**](#scene-162) | Sub-Level Nine | Scourge 22, 78 DR (06:20) | Roleplay |
+| [**Scene 163**](#scene-163) | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
+| [**Scene 164**](#scene-164) | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
+| [**Scene 165**](#scene-165) | Sub-Level Nine | Scourge 22, 78 DR (06:30) | Roleplay |
+| [**Scene 166**](#scene-166) | Sub-Level Nine | Scourge 22, 78 DR (10:30) | Roleplay |
+| [**Scene 167**](#scene-167) | Sub-Level Nine (Sovereign Seat) | Scourge 22, 78 DR (10:45) | Roleplay |
+| [**Scene 168**](#scene-168) | Sub-Level Nine | Scourge 22, 78 DR (10:45) | Roleplay |
+| [**Scene 169**](#scene-169) | Sub-Level Nine | Scourge 22, 78 DR (11:45) | Roleplay |
+| [**Scene 170**](#scene-170) | Sub-Level Nine | Scourge 22, 78 DR (12:45) | Roleplay |
+| [**Scene 171**](#scene-171) | Sub-Level Nine (Sovereign Seat) | Scourge 22, 78 DR (16:30) | Roleplay |
+| [**Scene 172**](#scene-172) | Sub-Level Nine | Scourge 22, Year 78 (16:30) | Roleplay |
+| [**Scene 173**](#scene-173) | Sub-Level Nine | Scourge 22, 78 DR (20:30) | Roleplay |
+| [**Scene 174**](#scene-174) | Sub-Level Nine | Month of Scourge, Year 78 (Day 22) | Roleplay |
+| [**Scene 175**](#scene-175) | Sub-Level Nine | Month of Scourge, Year 78 DR (Day 22) | Roleplay |
+| [**Scene 176**](#scene-176) | Sub-Level Nine | Scourge 22, Year 78 (21:00) | Roleplay |
+| [**Scene 177**](#scene-177) | Sub-Level Nine | Scourge 22, 78 DR (21:05) | Roleplay |
+| [**Scene 178**](#scene-178) | Sub-Level Nine | Scourge 22, 78 DR (22:30) | Roleplay |
+| [**Scene 179**](#scene-179) | Sub-Level Nine | Scourge 22, 78 DR (22:30) | Roleplay |
+| [**Scene 180**](#scene-180) | Sub-Level Nine | Scourge 22, 78 DR (23:45) | Roleplay |
+| [**Scene 181**](#scene-181) | Sub-Level Nine / Cistern-Prime | Scourge 22, 78 DR (23:50) | Roleplay |
+| [**Scene 182**](#scene-182) | Sub-Level Nine / Cistern-Prime | Scourge 22, 78 DR (23:55) | Roleplay |
+| [**Scene 183**](#scene-183) | Sub-Level Nine / Cistern-Prime | Scourge 22, 78 DR (23:55) | Roleplay |
+| [**Scene 184**](#scene-184) | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:10) | Roleplay |
+| [**Scene 185**](#scene-185) | Sub-Level Nine | Scourge 23, 78 DR (00:10) | Roleplay |
+| [**Scene 186**](#scene-186) | Sub-Level Nine | Scourge 23, 78 DR (00:15) | Roleplay |
+| [**Scene 187**](#scene-187) | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
+| [**Scene 188**](#scene-188) | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
+| [**Scene 189**](#scene-189) | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
+| [**Scene 190**](#scene-190) | Sub-Level Nine / Cistern-Prime | Scourge 23, 78 DR (00:30) | Roleplay |
+| [**Scene 191**](#scene-191) | Sub-Level Nine | Scourge 23, 78 DR (00:30) | Roleplay |
+| [**Scene 192**](#scene-192) | Sub-Level Nine | Scourge 23, 78 DR (00:30) | Roleplay |
+| [**Scene 193**](#scene-193) | Sub-Level Nine | Scourge 23, 78 DR (00:30) | Roleplay |
+| [**Scene 194**](#scene-194) | Sub-Level Nine | Scourge 23, 78 DR (01:30) | Roleplay |
+| [**Scene 195**](#scene-195) | Sub-Level Nine | Scourge 23, 78 DR (09:30) | Roleplay |
+| [**Scene 196**](#scene-196) | Sub-Level Nine | Scourge 24, Year 78 (06:00 (Dawn)) | Roleplay |
+| [**Scene 197**](#scene-197) | Sub-Level Nine | Scourge 25, 78 DR (08:00) | Roleplay |
+| [**Scene 198**](#scene-198) | Sub-Level Nine | Scourge 25, 78 DR (08:30) | Roleplay |
+| [**Scene 199**](#scene-199) | Sub-Level Nine | Scourge 25, 78 DR (17:00) | Roleplay |
+| [**Scene 200**](#scene-200) | Sub-Level Nine | Scourge 25, 78 DR (18:30) | Roleplay |
+| [**Scene 201**](#scene-201) | Sub-Level Nine | Scourge 25, 78 DR (18:45) | Roleplay |
+| [**Scene 202**](#scene-202) | Sub-Level Nine | Scourge 25, 78 DR (20:00) | Roleplay |
+| [**Scene 203**](#scene-203) | Sub-Level Nine | Scourge 25, 78 DR (20:30) | Roleplay |
+| [**Scene 204**](#scene-204) | Sub-Level Nine | Scourge 25, 78 DR (20:45) | Roleplay |
+| [**Scene 205**](#scene-205) | Sub-Level Nine | Scourge 25, 78 DR (21:00) | Roleplay |
+| [**Scene 206**](#scene-206) | Sub-Level Nine | Scourge 25, 78 DR (21:05) | Roleplay |
+| [**Scene 207**](#scene-207) | Sub-Level Nine | Scourge 25, 78 DR (21:15) | Roleplay |
+| [**Scene 208**](#scene-208) | Sub-Level Nine | Scourge 25, 78 DR (21:30) | Roleplay |
+| [**Scene 209**](#scene-209) | Sub-Level Nine | Scourge 25, 78 DR (22:00) | Roleplay |
+| [**Scene 210**](#scene-210) | Sub-Level Nine | Scourge 25, 78 DR (22:15) | Roleplay |
+| [**Scene 211**](#scene-211) | Sub-Level Nine | Scourge 25, 78 DR (23:45) | Roleplay |
+| [**Scene 212**](#scene-212) | Sub-Level Nine | Scourge 26, 78 DR (00:45) | Roleplay |
+| [**Scene 213**](#scene-213) | Sub-Level Nine | Scourge 26, 78 DR (02:30) | Roleplay |
+| [**Scene 214**](#scene-214) | Sub-Level Nine | Scourge 26, 78 DR (03:15) | Roleplay |
+| [**Scene 215**](#scene-215) | Sub-Level Nine | Scourge 26, 78 DR (04:30) | Roleplay |
+| [**Scene 216**](#scene-216) | Sub-Level Nine | Scourge 26, 78 DR (05:15) | Roleplay |
+| [**Scene 217**](#scene-217) | Sub-Level Nine | Scourge 26, 78 DR (05:45) | Roleplay |
+| [**Scene 218**](#scene-218) | Sub-Level Nine | Scourge 26, 78 DR (08:30) | Roleplay |
+| [**Scene 219**](#scene-219) | Sub-Level Nine | Scourge 26, 78 DR (12:45) | Roleplay |
+| [**Scene 220**](#scene-220) | Sub-Level Nine | Month of Scourge, Year 78 (Day 26) | Roleplay |
+| [**Scene 221**](#scene-221) | Sub-Level Nine | Month of Scourge, Year 78 (Day 26) | Roleplay |
+| [**Scene 222**](#scene-222) | Sub-Level Nine (The Genesis Core) | Scourge 26, Year 78 (12:45) | Roleplay |
+| [**Scene 223**](#scene-223) | Sub-Level Nine | Scourge 26, 78 DR (21:00) | Roleplay |
+| [**Scene 224**](#scene-224) | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
+| [**Scene 225**](#scene-225) | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
+| [**Scene 226**](#scene-226) | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
+| [**Scene 227**](#scene-227) | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
+| [**Scene 228**](#scene-228) | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
+| [**Scene 229**](#scene-229) | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
+| [**Scene 230**](#scene-230) | Sub-Level Nine | Scourge 26, 78 DR (21:05) | Roleplay |
+| [**Scene 231**](#scene-231) | Sub-Level Nine | Scourge 27, 78 DR (09:05) | Roleplay |
+| [**Scene 232**](#scene-232) | Sub-Level Nine | Scourge 27, 78 DR (10:15) | Roleplay |
+| [**Scene 233**](#scene-233) | Sub-Level Nine | Scourge 27, 78 DR (10:15) | Roleplay |
+| [**Scene 234**](#scene-234) | Sub-Level Nine | Month of Scourge, Year 78 (Day 28) | Roleplay |
+| [**Scene 235**](#scene-235) | Sub-Level Nine | Scourge 29, Year 78 (Dawn) | Roleplay |
+| [**Scene 236**](#scene-236) | Sub-Level Nine | Scourge 29, 78 DR (08:30) | Roleplay |
+| [**Scene 237**](#scene-237) | Sub-Level Nine | Scourge 29, 78 DR (08:30) | Roleplay |
+| [**Scene 238**](#scene-238) | Sub-Level Nine | Scourge 29, 78 DR (08:30) | Roleplay |
+| [**Scene 239**](#scene-239) | Sovereign Seat | Scourge 39, 78 DR (08:30) | Roleplay |
+| [**Scene 240**](#scene-240) | Sub-Level Nine | Scourge 39, 78 DR (08:45) | Roleplay |
+| [**Scene 241**](#scene-241) | Sub-Level Nine | Scourge 39, 78 DR (09:00) | Roleplay |
+| [**Scene 242**](#scene-242) | Sub-Level Nine | Scourge 39, Year 78 (09:00) | Roleplay |
+| [**Scene 243**](#scene-243) | Sub-Level Nine | Scourge 39, 78 DR (10:00) | Roleplay |
+| [**Scene 244**](#scene-244) | Sub-Level Nine | Scourge 39, Year 78 (10:00) | Roleplay |
+| [**Scene 245**](#scene-245) | Sub-Level Nine | Month of Scourge, Year 78 (Day 40) | Roleplay |
+| [**Scene 246**](#scene-246) | Sub-Level Nine | Scourge 39, Year 78 (18:00 (Evening)) | Roleplay |
+| [**Scene 247**](#scene-247) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 248**](#scene-248) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 249**](#scene-249) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 250**](#scene-250) | Sub-Level Nine | Scourge Day 39, Year 78 (18:00) | Roleplay |
+| [**Scene 251**](#scene-251) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 252**](#scene-252) | Sub-Level Nine | Scourge 39, 78 DR (21:00) | Roleplay |
+| [**Scene 253**](#scene-253) | Sub-Level Nine | Scourge 39, 78 DR (21:00) | Roleplay |
+| [**Scene 254**](#scene-254) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 255**](#scene-255) | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
+| [**Scene 256**](#scene-256) | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
+| [**Scene 257**](#scene-257) | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
+| [**Scene 258**](#scene-258) | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
+| [**Scene 259**](#scene-259) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 260**](#scene-260) | Sub-Level Nine | Scourge 39, Year 78 (21:00) | Roleplay |
+| [**Scene 261**](#scene-261) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 262**](#scene-262) | Sub-Level Nine | Month of Scourge, Year 78 DR (Day 39) | Roleplay |
+| [**Scene 263**](#scene-263) | Sub-Level Nine | Scourge 39, 78 DR (21:15) | Roleplay |
+| [**Scene 264**](#scene-264) | Sub-Level Nine | Scourge 39, 78 DR (23:00) | Roleplay |
+| [**Scene 265**](#scene-265) | Akai Core | Scourge 39, 78 DR (23:30) | Roleplay |
+| [**Scene 266**](#scene-266) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 267**](#scene-267) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 268**](#scene-268) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 269**](#scene-269) | Sub-Level Nine | Month of Scourge, Year 78 (Day 39) | Roleplay |
+| [**Scene 270**](#scene-270) | Sub-Level Nine | Scourge Day 39, Year 78 (Night) | Roleplay |
+| [**Scene 271**](#scene-271) | Sub-Level Nine | Scourge 39, 78 DR (23:30) | Roleplay |
+| [**Scene 272**](#scene-272) | Sub-Level Nine | Scourge 40, 78 DR (06:00) | Roleplay |
+| [**Scene 273**](#scene-273) | Sub-Level Nine | Scourge 40, 78 DR (08:30) | Roleplay |
+| [**Scene 274**](#scene-274) | Sub-Level Nine | Scourge 40, 78 DR (08:30) | Roleplay |
+| [**Scene 275**](#scene-275) | Sub-Level Nine | Scourge 40, 78 DR (08:30) | Roleplay |
+| [**Scene 276**](#scene-276) | Sub-Level Nine | Scourge Day 40, Year 78 (Dawn) | Roleplay |
+| [**Scene 277**](#scene-277) | Obsidian Spire (Avatar Projection) / Sub-Level Nine | Scourge 40, 78 DR (09:30) | Roleplay |
+| [**Scene 278**](#scene-278) | Obsidian Spire (Plaza of the Silent Throne) | Scourge 40, 78 DR (09:35) | Roleplay |
+| [**Scene 279**](#scene-279) | Obsidian Spire (Avatar) / Sub-Level Nine (Source) | Scourge 40, 78 DR (10:45) | Roleplay |
+| [**Scene 280**](#scene-280) | Obsidian Spire | Scourge 40, 78 DR (11:15) | Roleplay |
+| [**Scene 281**](#scene-281) | Obsidian Spire | Scourge 40, 78 DR (12:30) | Roleplay |
+| [**Scene 282**](#scene-282) | Obsidian Spire | Scourge 40, 78 DR (12:30) | Roleplay |
+| [**Scene 283**](#scene-283) | Obsidian Spire | Scourge 40, 78 DR (14:00) | Roleplay |
+| [**Scene 284**](#scene-284) | Obsidian Spire | Scourge 40, 78 DR (14:00) | Roleplay |
+| [**Scene 285**](#scene-285) | Obsidian Spire | Scourge 40, 78 DR (15:30) | Roleplay |
+| [**Scene 286**](#scene-286) | Obsidian Spire | Scourge 40, 78 DR (15:30) | Roleplay |
+| [**Scene 287**](#scene-287) | Obsidian Spire | Scourge 40, 78 DR (18:30) | Roleplay |
+| [**Scene 288**](#scene-288) | Obsidian Spire | Scourge 40, 78 DR (18:30) | Roleplay |
+| [**Scene 289**](#scene-289) | Obsidian Spire | Scourge 40, 78 DR (18:30) | Roleplay |
+| [**Scene 290**](#scene-290) | Obsidian Spire | Scourge 40, Year 78 (18:30 (Evening)) | Roleplay |
+| [**Scene 291**](#scene-291) | Obsidian Spire | Scourge 40, Year 78 (Evening) | Roleplay |
+| [**Scene 292**](#scene-292) | Obsidian Spire | Day 40, 78 Scourge (19:00) | Roleplay |
+| [**Scene 293**](#scene-293) | Obsidian Spire | Scourge 40, Year 78 (Evening) | Roleplay |
+| [**Scene 294**](#scene-294) | Obsidian Spire | Month of Scourge, Year 78 (Day 40) | Roleplay |
+| [**Scene 295**](#scene-295) | Obsidian Spire | Scourge 40, 78 DR (18:45) | Roleplay |
+| [**Scene 296**](#scene-296) | Obsidian Spire | Scourge 40, 78 DR (21:00) | Roleplay |
+| [**Scene 297**](#scene-297) | Obsidian Spire | Scourge 41, 78 DR (00:00) | Roleplay |
+| [**Scene 298**](#scene-298) | Obsidian Spire | Scourge 41, 78 DR (00:05) | Roleplay |
+| [**Scene 299**](#scene-299) | Obsidian Spire | Month of Scourge, Year 78 (Day 41) | Roleplay |
+| [**Scene 300**](#scene-300) | Obsidian Spire | Scourge 41, Year 78 (Deep Night) | Roleplay |
+| [**Scene 301**](#scene-301) | Obsidian Spire | Month of Scourge, Year 78 (Day 41) | Roleplay |
+| [**Scene 302**](#scene-302) | Obsidian Spire | Scourge 41, Year 78 (00:05 (Deep Night)) | Roleplay |
+| [**Scene 303**](#scene-303) | Obsidian Spire | Scourge 41, 78 DR (00:10) | Roleplay |
+| [**Scene 304**](#scene-304) | Obsidian Spire | Scourge 41, 78 DR (01:15) | Roleplay |
+| [**Scene 305**](#scene-305) | Obsidian Spire | Scourge 41, 78 DR (01:15) | Roleplay |
+| [**Scene 306**](#scene-306) | Obsidian Spire | Scourge 41, 78 DR (02:00) | Roleplay |
+| [**Scene 307**](#scene-307) | Obsidian Spire | Scourge 41, 78 DR (02:15) | Roleplay |
+| [**Scene 308**](#scene-308) | Obsidian Spire | Scourge 41, 78 DR (02:30) | Roleplay |
+| [**Scene 309**](#scene-309) | Obsidian Spire | Scourge 41, 78 DR (02:45) | Roleplay |
+| [**Scene 310**](#scene-310) | Obsidian Spire | Scourge 41, 78 DR (02:55) | Roleplay |
+| [**Scene 311**](#scene-311) | Obsidian Spire | Scourge 41, 78 DR (03:15) | Roleplay |
+| [**Scene 312**](#scene-312) | Obsidian Spire | Scourge 41, 78 DR (03:20) | Roleplay |
+| [**Scene 313**](#scene-313) | Obsidian Spire | Scourge 41, Year 78 (03:20 (Deep Night)) | Roleplay |
+| [**Scene 314**](#scene-314) | Obsidian Spire | Month of Scourge, Year 78 (Day 41) | Roleplay |
+| [**Scene 315**](#scene-315) | Obsidian Spire | Scourge 41, 78 DR (03:30) | Roleplay |
+| [**Scene 316**](#scene-316) | Obsidian Spire | Scourge 41, 78 DR (03:30) | Roleplay |
+| [**Scene 317**](#scene-317) | Obsidian Spire | Scourge 41, 78 DR (10:30) | Roleplay |
+| [**Scene 318**](#scene-318) | Obsidian Spire | Scourge 41, 78 DR (10:45) | Roleplay |
+| [**Scene 319**](#scene-319) | Obsidian Spire | Scourge 41, 78 DR (11:45) | Roleplay |
+| [**Scene 320**](#scene-320) | Obsidian Spire | Scourge 41, 78 DR (14:00) | Roleplay |
+| [**Scene 321**](#scene-321) | Obsidian Spire | Scourge 41, 78 DR (15:30) | Roleplay |
+| [**Scene 322**](#scene-322) | Zenith Rift | Scourge 41, 78 DR (15:30) | Roleplay |
+| [**Scene 323**](#scene-323) | Zenith Rift | Scourge 41, 78 DR (15:45) | Roleplay |
+| [**Scene 324**](#scene-324) | Zenith Rift | Scourge 41, 78 DR (15:45) | Roleplay |
+| [**Scene 325**](#scene-325) | Zenith Rift | Scourge 41, 78 DR (16:00) | Roleplay |
+| [**Scene 326**](#scene-326) | Zenith Rift | Scourge 41, 78 DR (17:00) | Roleplay |
+| [**Scene 327**](#scene-327) | Zenith Rift | Scourge 41, 78 DR (17:05) | Roleplay |
+| [**Scene 328**](#scene-328) | Zenith Rift | Scourge 41, 78 DR (18:00) | Roleplay |
+| [**Scene 329**](#scene-329) | Zenith Rift | Scourge 41, 78 DR (19:00) | Roleplay |
+| [**Scene 330**](#scene-330) | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (20:00) | Roleplay |
+| [**Scene 331**](#scene-331) | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (21:00) | Roleplay |
+| [**Scene 332**](#scene-332) | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (22:00) | Roleplay |
+| [**Scene 333**](#scene-333) | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (23:00) | Roleplay |
+| [**Scene 334**](#scene-334) | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (23:00) | Roleplay |
+| [**Scene 335**](#scene-335) | Aeterna: Tier 5 Sovereign Seat | Scourge 41, 78 DR (23:30) | Roleplay |
+| [**Scene 336**](#scene-336) | Aeterna: Tier 5 Sovereign Seat (Throne Room) | Scourge 42, 79 DR (08:30) | Roleplay |
+| [**Scene 337**](#scene-337) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (09:00) | Roleplay |
+| [**Scene 338**](#scene-338) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (09:15) | Roleplay |
+| [**Scene 339**](#scene-339) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (09:30) | Roleplay |
+| [**Scene 340**](#scene-340) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (10:00) | Roleplay |
+| [**Scene 341**](#scene-341) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (10:30) | Roleplay |
+| [**Scene 342**](#scene-342) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (10:45) | Roleplay |
+| [**Scene 343**](#scene-343) | Aeterna: Tier 5 Sovereign Seat | month of Scourge, Year 79 (Day 42) | Roleplay |
+| [**Scene 344**](#scene-344) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (11:30) | Roleplay |
+| [**Scene 345**](#scene-345) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (12:00) | Roleplay |
+| [**Scene 346**](#scene-346) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (12:30) | Roleplay |
+| [**Scene 347**](#scene-347) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (13:00) | Roleplay |
+| [**Scene 348**](#scene-348) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (13:30) | Roleplay |
+| [**Scene 349**](#scene-349) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (14:00) | Roleplay |
+| [**Scene 350**](#scene-350) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (14:00) | Roleplay |
+| [**Scene 351**](#scene-351) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (14:30) | Roleplay |
+| [**Scene 352**](#scene-352) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (16:30) | Roleplay |
+| [**Scene 353**](#scene-353) | Aeterna: Tier 5 Sovereign Seat | Scourge 42, 79 DR (16:45) | Roleplay |
+| [**Scene 354**](#scene-354) | Assiah: Global Procession | Scourge 42, 79 DR (20:30) | Roleplay |
+| [**Scene 355**](#scene-355) | Aeterna: Crystallized Throne Room | Scourge 42, 79 DR (20:30) | Roleplay |
+| [**Scene 356**](#scene-356) | Aeterna: Crystallized Throne Room | Scourge 42, 79 DR (21:00) | Roleplay |
+| [**Scene 357**](#scene-357) | Assiah: Aeterna (Sovereign Seat) | Scourge 45, 79 DR (14:00) | Roleplay |
+| [**Scene 358**](#scene-358) | Assiah: Aeterna (Sovereign Seat) | Scourge 45, 79 DR (14:05) | Roleplay |
+| [**Scene 359**](#scene-359) | Assiah: Aeterna (Sovereign Seat) | Scourge 45, 79 DR (14:10) | Roleplay |
+| [**Scene 360**](#scene-360) | Assiah: Aeterna (Sovereign Seat) | Scourge 50, 79 DR (15:30) | Roleplay |
+| [**Scene 361**](#scene-361) | Assiah: Aeterna (Sovereign Seat) |  | Roleplay |
+| [**Scene 362**](#scene-362) | Assiah: Aeterna (Sovereign Seat) | Scourge 50, 79 DR (15:45) | Roleplay |
+| [**Scene 363**](#scene-363) | Assiah: Aeterna (Sovereign Seat) | Scourge 50, 79 DR (16:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Warrior/Secret Sorcerer | HP: 58/58 | EP: 40/40 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 6/6, EP: 40/40, Nullification Field: 1/1, Fatigue: 0/5**
@@ -949,8 +965,11 @@ Lieutenant Gorok, a massive orc dripping with gore, stomps through the haze towa
 God Mode:
 Pause story let's do character class creation I wanna be a combination of aberrant mind sorc and an assassin rogue but I get extra attack at level 5. Adjust campaign difficulty to compensate too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; 🛡️ **Admin Access | Story Frozen** &nbsp;|&nbsp; ✨ **N/A - System Configuration Mode**
@@ -960,8 +979,11 @@ The user is initiating character creation for Alexiel with a specific gestalt-li
 God Mode:
 Make sure every level I gain acts like I leveled up in both classes. Start me at level 6 with appropriate gear as unchained host princess and daughter Lucifer. Should be top tier level 6 gear and reasonable gold items resources
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt Alexiel | HP: 63/63 | XP: 14,000/23,000 | Gold: 1,500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Marked as Traitor (Host)**
@@ -971,8 +993,11 @@ The character is now mechanically locked in as a Tier 2 powerhouse. The world st
 > 👤 **Player:**
 > *"Give me 16 cha, 16 dex, 14 int and distribute the rest evenly. Make me more of a dex based character. Make CHA my attack roll and damage roll modifier. Then list ally current equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Assassin (Gestalt) | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -982,8 +1007,11 @@ You shift your stance slightly, the weight of your redesigned essence settling i
 God Mode:
 List my stats and make sure mostly like standard array
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt (Aberrant Mind/Assassin) | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -993,8 +1021,11 @@ The user is in GOD MODE, requesting a stat adjustment to align with the 'Standar
 God Mode:
 Return to Story - Exit GOD MODE and resume at Silverwood
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1008,8 +1039,11 @@ Your fingers brush the hilt of *Silence*. In your mind's eye, the charred wooden
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Reluctant Champion&#x27;s Fury - There is no honor in this. You are a butcher, Gorok, not a soldier. (Persuasion)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1021,8 +1055,11 @@ Gorok’s grin falters. He is used to your coldness, but this is different; ther
 > 👤 **Player:**
 > *"Think. How can I kill or commandeer this unit so it doesn't hunt me later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorc/Rogue | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1034,8 +1071,11 @@ As you weigh the logistics of silence, your mind maps the variables. This unit, 
 God Mode:
 Remember my use of magic is a secret. If it gets out then I lose element of surprise. I am a null which in this universe it means I cannot use magic. If anyone sees me use it add an intimidation bonus or something else to indicate their surprise
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind/Assassin | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1045,8 +1085,11 @@ The player is formalizing a core narrative and mechanical constraint: the secrec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the confrontation with Gorok.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind/Assassin | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1060,8 +1103,11 @@ Your words [Persuasion: 19] hit like physical blows. Gorok’s grip on his axe d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Break Gorok&#x27;s Spirit - Demand he kneel and offer his life for the &#x27;strategic error&#x27;, forcing a total submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorc/Rogue | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1075,8 +1121,11 @@ His knees hit the wet ash with a sickening thud. The massive orc, who moments ag
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Gorok - Behead him now to finalize the lesson. Use the shock to seize absolute command of the leaderless squad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 14000/23000 | Gold: 1500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1092,8 +1141,11 @@ The soldiers, numbed by the speed of the execution and the crushing weight of yo
 God Mode:
 Make sure I get exp and loot from gorok
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 gestalt | HP: 69/69 | XP: 14450/23000 | Gold: 1620gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1103,8 +1155,11 @@ The administrative correction for Gorok's defeat has been applied. Experience an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume gameplay with your newly commandeered squad*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1118,8 +1173,11 @@ Through the psionic static of your Aberrant Mind, you feel their collective will
 > 👤 **Player:**
 > *"Think. Ultimately I want to defect but what's the best way to do so and gain maximum advantage for myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Assassin | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Secret Magic (Secure) | Success Streak: 6**
@@ -1131,8 +1189,11 @@ You consider the geometry of the coming days. The Vanguard squad is a double-edg
 > 👤 **Player:**
 > *"Think. If I do hidden monarch could I use them later?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Assassin | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1144,8 +1205,11 @@ Your psionic intuition whispers that a crown kept in the dark is more secure tha
 > 👤 **Player:**
 > *"Think. Let's plan this out more. If I defect to imperium how do I build up this secret base"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind/Assassin | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1155,8 +1219,11 @@ You stand amidst the settling ash of Silverwood, the silence of your new squad a
 > 👤 **Player:**
 > *"Think. How would I justify to my 33 soldiers what I'm doing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind Sorcerer / Assassin Rogue | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Secret Magic Protocol Active | Success Streak: 6**
@@ -1166,8 +1233,11 @@ You stand perfectly still amidst the swirling ash, your boots mere inches from t
 > 👤 **Player:**
 > *"Think. Estimate success chances each choice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1179,8 +1249,11 @@ You pause, the cold engine of your mind mapping the rhetoric required to turn th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strategic Redirection (Deception/Persuasion) - Frame Gorok&#x27;s execution as a purge of &#x27;Imperial-style&#x27; corruption. Claim he was a secret liability to the Morning Star. [Est. 75% success]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorc/Rogue | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1196,8 +1269,11 @@ The tension in the square shifts from terror to a desperate, fanatical relief. T
 > 👤 **Player:**
 > *"Think. What should my long term plan be. I wanna gain personal power and influence and eventually rule the world and conquer both raziel and Lucifer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind Sorcerer/Assassin | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1211,8 +1287,11 @@ You realize that your path to the throne must be paved with the very deceptions 
 God Mode:
 I don't have mirror magic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind/Assassin | HP: 69/69 | XP: 15,550/23,000 | Gold: 1,660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1222,8 +1301,11 @@ The player is clarifying a narrative and mechanical distinction: while Sariel (t
 > 👤 **Player:**
 > *"Think. Estimate success chances of each approach. What if I create a third faction and try to ally imperium and consume or convert Lucifer power. Perhaps I could build a power base in  nexus? I need to guard against Lucifer retaliation though for my defection"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1237,8 +1319,11 @@ However, the variable of 'Lucifer's Retaliation' remains the most volatile eleme
 > 👤 **Player:**
 > *"Think. What if I stay with host build personal power base then defect with the power base later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt | HP: 69/69 | XP: 15,550/23,000 | Gold: 1,660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1252,8 +1337,11 @@ But if you stay, you must play the most dangerous game: appearing to be the Morn
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stay and Consolidate - Accept a new mission from the Host to build influence and turn the Vanguard into your personal loyalists.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorc/Rogue | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1271,8 +1359,11 @@ This is the opportunity you calculated. By accepting this mission, you don't jus
 > [!NOTE] ⚙️ **Player Choice:**
 > *Issue Secret Orders - Identify the 3 most promising soldiers and give them a private task to begin building your inner circle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Assassin | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1286,8 +1377,11 @@ You signal them with a flick of your gloved hand. Behind the charred remains of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Local Scouts - Squeeze more intel from captured scouts about the Void-Iron&#x27;s exact protection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Silverwood Town Square (Ruins)** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1301,8 +1395,11 @@ The scouts, pulled from the perimeter of the burning town hall, are thrown into 
 > 👤 **Player:**
 > *"Torture them until they answer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Silverwood Town Square** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind/Assassin | HP: 69/69 | XP: 15550/23000 | Gold: 1660gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1320,8 +1417,11 @@ He spills everything: the patrol routes, the timing of the resonance pulses, and
 > 👤 **Player:**
 > *"Make sure I got exp, execute scouts, march, send scouts ahead and scout myself too and remain hidden"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Silverwood Outskirts / Glimmering Vale Approach** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Gestalt Sorc/Rogue | HP: 69/69 | XP: 16100/23000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1348,8 +1448,11 @@ The trek is grueling, but the 'mathematics of slaughter' has been replaced by th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Pulse-Mancers - Use your inner circle to eliminate the resonance key holders first to prevent the cargo collapse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Glimmering Vale - Pulse-Mancer Overlook** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorc/Rogue | HP: 69/69 | XP: 16625/23000 | Gold: 1710gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1365,8 +1468,11 @@ He falls without a sound, his resonance key clattering into your gloved hand as 
 > 👤 **Player:**
 > *"Signal vanguard assault then infiltrate lead wagon in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Glimmering Vale - Pulse-Mancer Overlook** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer/Rogue | HP: 69/69 | XP: 16625/23000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 6/6, Sneak Attack: 3d6**
@@ -1382,8 +1488,11 @@ Inside, the air is freezing, drained of heat by the raw gravitational pull of th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Physical Anchor - Use Investigation to find the physical object powering the Silver-Sigil Ward and remove it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Glimmering Vale - Lead Wagon Interior** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorc/Rogue | HP: 69/69 | XP: 16625/23000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 5/6, Sneak Attack: 3d6**
@@ -1397,8 +1506,11 @@ The magic resists. The pulse-mancers' failure-lock is more sophisticated than th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Jam Resonance Key into Golem - Attempt to use the stolen key to override the Golem&#x27;s awakening before it fully stands.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Glimmering Vale - Lead Wagon Interior** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aberrant Mind/Assassin | HP: 69/69 | XP: 16625/23000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 4/6, Sneak Attack: 3d6**
@@ -1414,8 +1526,11 @@ The Silver-Sigil Ward atop the crates whines in a high, dissonant pitch before s
 > 👤 **Player:**
 > *"Give me exp from golem and then try to rig it to help us in battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Glimmering Vale - Lead Wagon Interior** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorc/Rogue | HP: 69/69 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 3/6, Sneak Attack: 3d6**
@@ -1442,8 +1557,11 @@ Outside, the screams of the Imperial supply corps are fading, replaced by the tr
 > 👤 **Player:**
 > *"Secure cache, deploy golem, personally ambush any imperial survivors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Glimmering Vale - Caravan Site** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 69/69 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 3/4, Sneak Attack: 3d6**
@@ -1461,8 +1579,11 @@ However, as you move to finish the task, a snap of a dry branch echoes through t
 > 👤 **Player:**
 > *"Unleash golem and surgical strike in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Glimmering Vale - Caravan Site** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 69/69 | XP: 25475/34000 | Gold: 1710gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Sorcery Pts: 3/4, Sneak Attack: 3d6**
@@ -1478,8 +1599,11 @@ Behind you, Thalric and the inner circle move with grim efficiency, dragging the
 > 👤 **Player:**
 > *"Make sure I got exp then process level 7 upgrade and let me pick spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Glimmering Vale - Caravan Site** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind Sorcerer/Assassin Rogue | HP: 79/79 | XP: 25,475/34,000 | Gold: 1,685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery Pts: 7, Sneak Attack: 4d6**
@@ -1493,8 +1617,11 @@ You pause by the lead wagon, the cold weight of the Void-Iron pulling at the air
 > 👤 **Player:**
 > *"Confirm rogue features and pick confusion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Glimmering Vale - Caravan Site** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak Attack: 4d6**
@@ -1508,8 +1635,11 @@ Thalric and Vera have finished securing the primary cache. The Adamant Golem sta
 > 👤 **Player:**
 > *"Think. Success rates above actions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Glimmering Vale - Caravan Site (Secured)** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak Attack: 4d6, Golem Status: Subjugated**
@@ -1521,8 +1651,11 @@ You pause to consider the architecture of your next move. The Seventh Fang's Van
 > 👤 **Player:**
 > *"Think. Success chances each choice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Glimmering Vale - Caravan Site** &nbsp;|&nbsp; ⏳ **Scourge 12, 78 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak Attack: 4d6**
@@ -1534,8 +1667,11 @@ You weigh the architecture of your next move. The Seventh Fang's Vanguard is no 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Nexus Base - Direct the Vanguard toward Nexus to begin building a secret base in the city of secrets. [Est. 85% success for base establishment, 60% for avoiding Host detection]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Nexus - The Under-City** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak Attack: 4d6**
@@ -1551,8 +1687,11 @@ You stand in the damp, yeast-scented dark of your new 'base'—a series of inter
 > 👤 **Player:**
 > *"Expand underground network and seek curator in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Nexus - The Under-City (Defunct Brewery Safehouse)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak Attack: 4d6**
@@ -1566,8 +1705,11 @@ Inside, the air changes. The rot of Nexus is replaced by the dry, vanilla scent 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Sanctuary - Offer Imperial secrets or Host intelligence in exchange for the Syndicate&#x27;s protection and base support.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Nexus - The Under-City (Athenaeum Entrance)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak Attack: 4d6**
@@ -1583,8 +1725,11 @@ You feel the jagged friction of a failed negotiation. Your offer wasn't enough t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Syndicate Task - Ask what favor the Curator requires in exchange for base support*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Nexus - The Under-City (Athenaeum Entrance)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **Sorcery: 7/7, HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak: 4d6**
@@ -1600,8 +1745,11 @@ You do not flinch at the Curator's dismissal. The rejection of your intelligence
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate for Muscle - Demand Syndicate operatives assist in the infiltration to ensure success.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Nexus - The Under-City (Athenaeum Entrance)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (06:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **Sorcery: 7/7, HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak: 4d6**
@@ -1617,8 +1765,11 @@ As you turn to depart, the Curator's voice rasps out one final time. 'The Profes
 > 👤 **Player:**
 > *"Meet operatives and delegate scouting to my best scouts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Nexus - The Under-City (Defunct Brewery)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (07:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **Sorcery: 7/7, HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sneak: 4d6**
@@ -1632,8 +1783,11 @@ As the Vanguard grumbles into motion, two shadows detach themselves from the bre
 > 👤 **Player:**
 > *"Think. how can i improve my men morale? Should i finish this operation, evaluate survivors, then tell them the truth?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Nexus - The Under-City (Defunct Brewery)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery: 7/7, Sneak: 4d6**
@@ -1643,8 +1797,11 @@ You stand in the dim, yeast-scented dampness of the brewery cellar, your 'Unseei
 > 👤 **Player:**
 > *"Think. scucess changes of each option. What if i just tell inner circle and those fanatically loyal the truth?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Nexus - The Under-City (Defunct Brewery)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery: 7/7, Sneak: 4d6**
@@ -1656,8 +1813,11 @@ You pause, the cold engine of your mind mapping the variables of their morale. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *The &#x27;Shared Struggle&#x27; (The Truth) - Gather the inner circle (Thalric, Kaelen, Vera) and the five most loyal veterans. Reveal that you are building a sovereign power that serves neither Lucifer nor Raziel. [Est. 90% Success Chance for Fanatical Loyalty]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Nexus - The Under-City (Defunct Brewery)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery: 3/7, Sneak: 4d6**
@@ -1675,8 +1835,11 @@ Thalric's grip on his axe tightens, not in threat, but in a salute of terrifying
 > 👤 **Player:**
 > *"Asess my elites. what level/classes are they. and what about the silk hand operatives."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Nexus - The Under-City (Defunct Brewery)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt (Sorc/Rogue) | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery: 3/7, Sneak: 4d6**
@@ -1690,8 +1853,11 @@ The air in the cellar feels different now. The tension of the Under-City remains
 > 👤 **Player:**
 > *"assess their classes and come up with the best plan using all resources at my disposal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Nexus - The Under-City (Defunct Brewery)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery: 3/7, Sneak: 4d6**
@@ -1701,8 +1867,11 @@ You lean back against a damp, saltpeter-stained pillar, the 'Unseeing Eyes' of y
 > 👤 **Player:**
 > *"Lets do surgical infilration, but if we get detected trigger a surprise round and let me decide what to do as a backup. Lets have golem and vanguard in position. Also as we travel lets have me talk to silk hands and try to improve my relationship with them and recruit them as regular forces for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery: 7/7, Sneak: 4d6**
@@ -1716,8 +1885,11 @@ You reach the perimeter of the Docks. The air here smells of ozone and high-grad
 > 👤 **Player:**
 > *"Surgical strike and if detected trigger surprisr round and let me decide what to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Sorcery: 7/7, Sneak: 4d6**
@@ -1731,8 +1903,11 @@ The 'mathematics of slaughter' has just shifted. Because your 'Alert' feat preve
 > 👤 **Player:**
 > *"Unleash golem, signal everyone else to attack, try to catch professor and incidental enemies in hypnotic pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 16)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **Sorcery: 7/7, HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, Sneak: 4d6**
@@ -1746,8 +1921,11 @@ You manifest in the center of the loading bay, the 'Unseeing Eyes' of your mask 
 > 👤 **Player:**
 > *"Secure professor and get golem and everyone else to engage bots"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (11:47)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 1/2, L4 1/1, Sorcery: 6/7, Sneak: 4d6**
@@ -1763,8 +1941,11 @@ However, the chaos of the alarm and the confined space of the crates works again
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Strike: Alpha - Leave the mesmerized Professor for a heartbeat to deliver a sneak attack to the Purge-Bot&#x27;s power core*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Scourge 16, Year 78 (11:47)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 1/2, L4 1/1, Sorcery: 3/7, Sneak: 4d6**
@@ -1780,8 +1961,11 @@ A geyser of high-pressure steam and violet sparks erupts from the wound. Alpha�
 > 👤 **Player:**
 > *"Take remote away from prof then help everyone finish beta"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 3/7, Sneak: 4d6, Spells: L1 4/4, L2 3/3, L3 1/2, L4 1/1**
@@ -1799,8 +1983,11 @@ Thalric and the Silk-Hands, sensing the shift in the 'mathematics of slaughter,'
 > 👤 **Player:**
 > *"Subtle psionic override"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Scourge 16, Year 78 (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | Gold: 1685gp | SP: 3/7** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 1/2, L4 1/1, Sneak: 4d6**
@@ -1812,8 +1999,11 @@ Across the bay, the 'mathematics of slaughter' enters a messy, mechanical phase.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize the Remote - While he&#x27;s paralyzed, physically take the remote to shut down the Beta Bot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Scourge 16, Year 78 (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | SP: 7/7 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sneak: 4d6**
@@ -1831,8 +2021,11 @@ The docks fall into a heavy, ozone-scented silence, punctuated only by the rhyth
 > 👤 **Player:**
 > *"Interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Nexus - Gnomish High-Security Docks** &nbsp;|&nbsp; ⏳ **Scourge 16, Year 78 (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 25475/34000 | Gold: 1685gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 3/7, Sneak: 4d6**
@@ -1848,8 +2041,11 @@ While you squeeze the Professor for the technical variables, your senses scan th
 > 👤 **Player:**
 > *"Fully loot and have my team extract. Secure professor and have him extract  module in cistern base"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Nexus - The Defunct Brewery (Subterranean Cistern)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 3/7, Sneak: 4d6** &nbsp;|&nbsp; ⚠️ **Secret Magic (Secure), Hidden Monarch (Incipient)**
@@ -1863,8 +2059,11 @@ You return to the defunct brewery, but you do not stop there. With the Professor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Cistern - Have Cogsworth and the Golem set up automated defenses using the Purge-Bot parts*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 3/7, Sneak: 4d6**
@@ -1880,8 +2079,11 @@ Thalric and the Vanguard veterans watch the transformation with a grim, quiet pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Module - Use your psionics and Cogsworth to see what&#x27;s actually inside the Syndicate&#x27;s black-box before handing it over*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 3/7, Sneak: 4d6**
@@ -1895,8 +2097,11 @@ It is a blueprint for a high-frequency psychological dampener—a device designe
 > 👤 **Player:**
 > *"Clone first then think it I should handover or negotiate. Don't do more than clone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 3/7, Sneak: 4d6, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1**
@@ -1910,8 +2115,11 @@ The Professor's hands shake as he works, his goggles reflecting the indigo hum o
 > 👤 **Player:**
 > *"Did I pick level 7 spells and process level up yet?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind Sorcerer / Assassin Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 3/7, Sneak: 4d6, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1**
@@ -1925,8 +2133,11 @@ However, you have not yet selected your 4th-level sorcerer spells for this tier.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Learn Greater Invisibility - Maintain the &#x27;Null&#x27; mask while remaining unseen even during a strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7, Sneak: 4d6**
@@ -1940,8 +2151,11 @@ Cogsworth watches you, his goggles reflecting the faint, shimmering distortion o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Cogsworth - Squeeze the Professor for ways to weaponize or counter the Echo-Chamber frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sneak Attack: 4d6**
@@ -1957,8 +2171,11 @@ You process the variables. The 'mathematics of slaughter' has just gained a psyc
 God Mode:
 Remember my character is extremely good looking. Weave into narrative as appropriate. When in military garb it is understated but should be a small factor. When well dressed should be a large one and characters should notice and react
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sneak Attack: 4d6**
@@ -1968,8 +2185,11 @@ The user is in GOD MODE, requesting a narrative and mechanical update regarding 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Register Stunning Presence - Document the &#x27;Exceptional Beauty&#x27; trait in custom_campaign_state*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind Sorcerer/Assassin Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sneak Attack: 4d6**
@@ -1979,8 +2199,11 @@ The administrative request to document the 'Exceptional Beauty' trait is a non-n
 > 👤 **Player:**
 > *"Asses professor. How can I secure his long term loyalty?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind Sorc / Assassin Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7, Sneak Attack: 4d6** &nbsp;|&nbsp; ⚠️ **Stunning Presence (Active)**
@@ -1996,8 +2219,11 @@ You lean against a damp pillar, the 'Unseeing Eyes' of your mask catching the ja
 > 👤 **Player:**
 > *"Unfettered research and then blood pact to ensure he cannot betray"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7, Sneak Attack: 4d6**
@@ -2011,8 +2237,11 @@ You draw a thin line of blood across his palm, but as you attempt to weave the p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Cogsworth - Use your Exceptional Beauty and a softer touch to calm him before he breaks entirely*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7**
@@ -2028,8 +2257,11 @@ Cogsworth flinches at your touch, his goggles rattling against his forehead. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegated Comfort - Have Vera or Kaelen (more &#x27;human&#x27; appearing) attempt to provide basic needs (food/drink) to ground him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 16, 78 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7**
@@ -2045,8 +2277,11 @@ Vera moves with a surprising, fluid grace, the sharp edges of her tiefling herit
 > 👤 **Player:**
 > *"Remind me in a day to revisit cogsworrh loyalty. Have him start working on counter measures for the device and weaponizing it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 17, 78 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7**
@@ -2060,8 +2295,11 @@ Cogsworth pauses mid-sip, his eyes darting toward the Void-Iron crates. The chal
 > 👤 **Player:**
 > *"Delegate expand urban network and oversee weaponization"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7**
@@ -2077,8 +2315,11 @@ The variables of your sovereign seat are currently static. You have the fortress
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Catalyst (Magic) - Use &#x27;Detect Thoughts&#x27; or a raw psionic surge to bridge the gap in Cogsworth&#x27;s research.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 26,650/34,000 | Gold: 2,125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 3/7**
@@ -2096,8 +2337,11 @@ Cogsworth yelps, stumbling back as the workbench emits a spray of harmless spark
 God Mode:
 Psionic thing or my magic should use cha and not int right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind / Assassin | HP: 79/79 | XP: 26,650/34,000 | Gold: 2,125gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Sorcery Pts: 3/7 | Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1**
@@ -2107,8 +2351,11 @@ The user is correct regarding the mechanical authority of the Aberrant Mind Sorc
 > 👤 **Player:**
 > *"Make sure all my magic stuff uses cha then reroll my last psionic action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind/Assassin | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 3/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, HD: 7/7, Sneak: 4d6**
@@ -2122,8 +2369,11 @@ Professor Cogsworth shrieks, diving behind the Adamant Golem as the workbench sm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Manual Bypass - Order Cogsworth to find a physical way to bypass the Void-Iron interference*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorcerer/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 3/7, Sneak: 4d6**
@@ -2139,8 +2389,11 @@ It isn't a spell that breaks the lock, but a jeweler's screwdriver and a pair of
 > 👤 **Player:**
 > *"Install vanguard shielding and test weaponized frequency"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sorc/Rogue | HP: 79/79 | XP: 26650/34000 | Gold: 2125gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 3/7**
@@ -2158,8 +2411,11 @@ You descend the ladder, your Dark-Light Lamellar drinking the indigo glare of th
 God Mode:
 Make I got exp loot resources from all the previous events be explicit and don't double count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 26,650/34,000 | Gold: 2,195gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7**
@@ -2169,8 +2425,11 @@ The player is in GOD MODE requesting an explicit audit and distribution of XP an
 God Mode:
 Are you sure gorok wasn't already counted ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aberrant Mind Sorcerer/Assassin Rogue | HP: 79/79 | XP: 33,025/34,000 | Gold: 3,067gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1, Sorcery Pts: 7/7**
@@ -2180,8 +2439,11 @@ The user is performing a GOD MODE audit to ensure no rewards were missed or doub
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Audit - Accept these totals and update character state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 79/79 | XP: 41,125/48,000 | Gold: 3121gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1**
@@ -2193,8 +2455,11 @@ Your character state is now fully synchronized. The 8,100 XP from your path of a
 > 👤 **Player:**
 > *"How much exp needed for level 8? Thought we said this before? Status: Lvl 7 Aberrant Mind Sorcerer/Assassin Rogue | HP: 79/79 | XP: 33,025/34,000 | Gold: 3,067gp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 79/79 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Sorcery Pts: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1**
@@ -2208,8 +2473,11 @@ Professor Cogsworth is currently hunched over a secondary workbench, muttering a
 God Mode:
 How come before we said this for level 8? Status: Lvl 7 Aberrant Mind Sorcerer/Assassin Rogue | HP: 79/79 | XP: 33,025/34,000 | Gold: 3,067gp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Day 18, 78 Scourge (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aberrant Mind/Assassin | HP: 79/79 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **HD: 7/7, SP: 7/7, Spells: L1 4/4, L2 3/3, L3 2/2, L4 1/1**
@@ -2219,8 +2487,11 @@ The user is querying a discrepancy between a previous status line (Level 7) and 
 God Mode:
 Give me 5 whys on why you got that wrong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 
@@ -2230,8 +2501,11 @@ The user is in GOD MODE asking for a post-mortem on the level discrepancy. I hav
 God Mode:
 Process my level 8. Pick asi cha+2 and give me other choices as appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2**
@@ -2241,8 +2515,11 @@ The administrative haze of your internal recalibration finally clears, leaving y
 God Mode:
 Wait my previous feat wasn't it cha+2 so shouldn't it be 20? Double check my stats and list all my stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, Year 78 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41125/48000 | Gold: 3121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 7/7, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak Attack: 4d6**
@@ -2252,8 +2529,11 @@ The user is in GOD MODE performing a stat audit. The Charisma score has been cor
 God Mode:
 Let's also just give me one feat every 4 levels from combined rogue and sorcerer pool choices
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Nexus - Cistern Base** &nbsp;|&nbsp; ⏳ **Scourge 18, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 8/8, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak Attack: 4d6**
@@ -2263,8 +2543,11 @@ The user is implementing a house rule for 'Gestalt Feat Progression' (one feat e
 > 👤 **Player:**
 > *"Auto pick reasonable spells for me and list all my spells then return to game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aberrant Mind Sorcerer / Assassin Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 8, Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak Attack: 4d6**
@@ -2276,8 +2559,11 @@ As you reach into the weave, the spells manifest not as incantations, but as str
 God Mode:
 Also note I am an assassin rogue and give me proper progression from that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 87/87 | XP: 41,125/48,000 | Gold: 3121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak Attack: 4d6**
@@ -2287,8 +2573,11 @@ The indigo glow of the Adamant Golem reflects off the silvered edges of your 'Un
 God Mode:
 List all my rogue and assassin abilities and feats. I should have more than just assassinate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Assassin | HP: 87/87 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak Attack: 4d6**
@@ -2300,8 +2589,11 @@ You have successfully fused the surgical precision of the Morning Star's chosen 
 God Mode:
 Make sure retroactively I picked expertise as a skill in intimidation too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorc/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 8/8, L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak: 4d6** &nbsp;|&nbsp; ⚠️ **[Stunning Presence], [Hidden Monarch**
@@ -2311,8 +2603,11 @@ The user is in GOD MODE performing a retro-active adjustment to Expertise select
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume in the Cistern*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Nexus - The Defunct Brewery (Cistern Base)** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Assassin/Aberrant Mind | HP: 87/87 | XP: 41,125/48,000 | Gold: 3,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 8/8, L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak: 4d6**
@@ -2328,8 +2623,11 @@ Nexus breathes outside these walls, a city of secrets unaware that its psycholog
 > 👤 **Player:**
 > *"Negotiate with curator using my knowledge as leverage. Hide my new capabilities of shield and weaponizing echo chamber for now. Negotiate an alliance with curator and a better base, funds, resources, agents, soldiers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Nexus - The Athenaeum** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorc/Rogue | HP: 87/87 | XP: 41125/48000 | Gold: 3121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery: 7/8, L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak: 4d6**
@@ -2345,8 +2643,11 @@ The silence stretches. The Curator looks at the module, then back at you. 'You a
 God Mode:
 Did you already have future events and arcs planned where Lucifer tries to find me and bring me back to the fold or kill me? Since I haven't caused him a lot of trouble yet he shouldn't be in full aggro mode. Only answer yes or no for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Nexus - The Athenaeum** &nbsp;|&nbsp; ⏳ **Month of Scourge, 78 DR (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 8121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2**
@@ -2356,8 +2657,11 @@ Yes.
 > 👤 **Player:**
 > *"Try negotiate more. Recurring income from trade deals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Nexus - The Athenaeum** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorc/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 13,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak: 4d6, HD: 8/8**
@@ -2373,8 +2677,11 @@ You feel the shift in the room's gravity. You have moved from a high-value asset
 > 👤 **Player:**
 > *"vett shadow stalkers and list their levels and class, bring my elites/inner circle to aid my vetting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Cistern-Prime, Nexus Under-City** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (18:30 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aberrant/Assassin | HP: 87/87 | XP: 41,125/48,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sneak Attack: 4d6, HD: 8/8**
@@ -2388,8 +2695,11 @@ You do not greet them with warmth. Instead, you signal Thalric, Kaelen, and Vera
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Logistics - Meet the Shadow-Steward to finalize the 1,200gp stipend and supply lines.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery Points: 8, Sneak Attack: 4d6**
@@ -2405,8 +2715,11 @@ He hands you a heavy, velvet-lined box containing the first installment of your 
 God Mode:
 why do i have 23k gold is that correct?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery Points: 8, Sneak Attack: 4d6**
@@ -2416,8 +2729,11 @@ The user is questioning a high gold balance (23k). I need to prove the provenanc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Shadow-Stalkers - Put the new Syndicate agents through a loyalty test using the Echo-Chamber&#x27;s sub-threshold dampener.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41125/48000 | Gold: 23121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery Points: 8, Sneak Attack: 4d6**
@@ -2433,8 +2749,11 @@ Three of the assassins drop to their knees, clutching their cowls as their tacti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reconstruct Loyalty - Step down and use your &#x27;Stunning Presence&#x27; to offer them a new purpose, rebuilding them as your personal guard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorc/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Sorcery Points: 8, Sneak Attack: 4d6** &nbsp;|&nbsp; ⚠️ **Stunning Presence (Active)**
@@ -2450,8 +2769,11 @@ Your psionic presence, no longer a jagged spike but a warm, possessive weight, f
 > 👤 **Player:**
 > *"Think. Plan to relocate to our new base without a a hitch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 7/8, HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2**
@@ -2463,8 +2785,11 @@ Taking a moment to assess the situation, you weigh your options carefully. To mo
 > 👤 **Player:**
 > *"Think. Should I combine multiple strategies/tools? Estimate success chances"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorcerer/Rogue | HP: 87/87 | XP: 41,125/48,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **SP: 8/8, HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2**
@@ -2474,8 +2799,11 @@ You stand upon the central dais of the newly claimed Cistern-Prime, the indigo l
 God Mode:
 If not already make sure to award massive narrative exp for the big deals I negotiated with curator
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sorc/Rogue | HP: 87/87 | XP: 48,000/64,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 8/8, HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2**
@@ -2485,8 +2813,11 @@ The user is in GOD MODE requesting a retrospective XP award for the high-stakes 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Level 9 Award - Award 6,875 XP for Syndicate Negotiations and process Level 9 features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer/Assassin Rogue | HP: 104/104 | XP: 48,000/64,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 9/9, HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, Sneak Attack: 5d6**
@@ -2498,8 +2829,11 @@ The 6,875 XP from your successful high-stakes negotiations with The Curator has 
 God Mode:
 Give me spell selection
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 AM-Sorcerer/Assassin | HP: 104/104 | XP: 48,000/64,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Pts: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sneak Attack: 5d6**
@@ -2509,8 +2843,11 @@ Alexiel has reached Level 9, granting access to 5th-level spells. As a gestalt '
 God Mode:
 Hold Monster (Sorcerer L5) - Paralyze any creature (not just humanoids). Guarantees critical hits for your Assassin&#x27;s &#x27;Death Strike&#x27; potential.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 18)** &nbsp;|&nbsp; 🛡️ **Lvl 9 AM Sorcerer/Assassin | HP: 104/104 | XP: 48,000/64,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Pts: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sneak Attack: 5d6**
@@ -2539,8 +2876,11 @@ The variables are locked. Professor Cogsworth is currently testing the Echo-Cham
 > 👤 **Player:**
 > *"Think. Estimate success chances of the base move plans and combinations of all approaches too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 9/9, HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2552,8 +2892,11 @@ You pause, weighing the variables of the city's veins. To the north, the Syndica
 > 👤 **Player:**
 > *"Hybrid and will personally escort cogsworth along with our most important assets. Have my strongest elites also escort"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Pts: 9/9**
@@ -2569,8 +2912,11 @@ You stand in the center of the vast, indigo-lit vault, your 'Exceptional Beauty'
 > 👤 **Player:**
 > *"Weaponizing echo chamber and in parallel establish the same robot defenses and troop defenses i had before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Gestalt | HP: 104/104 | XP: 48000/64000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Pts: 9/9, Sneak: 5d6**
@@ -2586,8 +2932,11 @@ The Purge-Bot turrets, instead of locking onto external signatures, begin to spi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Cogsworth - Order the blinded Professor to find the manual shut-off despite his injuries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 AM Sorcerer/Assassin | HP: 104/104 | XP: 48000/64000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Pts: 9/9, Sneak: 5d6**
@@ -2605,8 +2954,11 @@ Behind you, the Adamant Golem emits a low-frequency groan, its indigo eye flicke
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Dampen - Spend Sorcery Points to create a localized psychic &#x27;Silence&#x27; to reach the console*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sorc/Rogue | HP: 104/104 | XP: 48000/64000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 7/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | HD: 8/8**
@@ -2618,8 +2970,11 @@ The world within the bubble goes eerily quiet, the frantic shrieks of Cogsworth 
 > 👤 **Player:**
 > *"Evaluate agents and in parallel have cogsworth carefully fix things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 18, 78 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sorcerer/Rogue | HP: 104/104 | XP: 48000/64000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | HD: 8/8**
@@ -2633,8 +2988,11 @@ In the lower pits, the rhythmic clinking of brass and the hiss of pressurized st
 > 👤 **Player:**
 > *"Have my inner circle vett the shadow stalkers and then go shopping with allnmy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1**
@@ -2646,8 +3004,11 @@ Leaving the Stalkers to their drills, you transition from the 'Hidden Monarch' t
 > 👤 **Player:**
 > *"Have inner circle vett shadow stalkers and have cogsworth make stealth gear for me and inner circle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1, Shadow-Stalkers: 12**
@@ -2661,8 +3022,11 @@ In the lower pits, the rhythmic clinking of brass and the hiss of pressurized st
 > 👤 **Player:**
 > *"Make sure I got the stealth gear too then go shopping for myself for magic +3 gear since I have so much gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1, Shadow-Stalkers: 12**
@@ -2680,8 +3044,11 @@ Satisfied, you leave the fortress in the hands of your Shadow-Stalkers and ascen
 > 👤 **Player:**
 > *"Look for spell DC gear don't buy it yet just look"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 AM Sorcerer/Assassin | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1, Shadow-Stalkers: 12**
@@ -2695,8 +3062,11 @@ Behind a protective layer of reinforced lead-glass sits the 'Sovereign's Mantle'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Price - Use your Stunning Presence and Persuasion to drive the price down.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Aetheric Quarter, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1**
@@ -2712,8 +3082,11 @@ The merchant, a weathered gnome with obsidian-glass goggles, swallows hard, his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Threaten Syndicate Audit - Use your new status as a Syndicate partner to imply a &#x27;logistics check&#x27; on his inventory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 AM Sorcerer/Assassin | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1**
@@ -2727,8 +3100,11 @@ The merchant's spectacles nearly slide off his nose as his professional greed sh
 > 👤 **Player:**
 > *"What exact bonuses do the items give?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1** &nbsp;|&nbsp; ⚠️ **Stunning Presence (Active)**
@@ -2742,8 +3118,11 @@ You look down at the gear, your 'Unseeing Eyes' scanning the resonant frequencie
 > 👤 **Player:**
 > *"Think. Assess items. What numerical bonuses items give"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1, Sneak Attack: 5d6** &nbsp;|&nbsp; ⚠️ **Void-Shroud (Active), Stunning Presence**
@@ -2759,8 +3138,11 @@ Then there are the instruments of the mental storm. The **Sovereign's Mantle** p
 > 👤 **Player:**
 > *"Equip items and return to base"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Cistern-Prime (Nexus Under-City)** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sneak Attack: 5d6**
@@ -2772,8 +3154,11 @@ As you step onto the central dais of Cistern-Prime, the Adamant Golem emits a lo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee Echo-Chamber Calibration - Work with Cogsworth to test the weaponized frequency&#x27;s range and safety parameters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sorcerer/Rogue | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sneak Attack: 5d6**
@@ -2789,8 +3174,11 @@ Thalric and the Inner Circle stand within the 'Silence-Well,' their Void-Shroud 
 > 👤 **Player:**
 > *"Think. How can I ensure professors loyalty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sorcerer/Rogue | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, SP: 9/9, L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sneak Attack: 5d6**
@@ -2804,8 +3192,11 @@ You descend the ladder, the Ghost-Thread Lamellar making your movement a silent,
 > 👤 **Player:**
 > *"Patron gift and get my inner circle to persuade him to be loyal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind/Assassin | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 9/9, HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2823,8 +3214,11 @@ Cogsworth takes the chronometer with shaking fingers, his breath hitching. The '
 > 👤 **Player:**
 > *"Think. Are trade networks already setup for recurring income every 10 days or do I need to do more?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1** &nbsp;|&nbsp; ⚠️ **Stunning Presence Active, Void-Shroud Equipped**
@@ -2840,8 +3234,11 @@ He gestures to the sprawling map of Nexus etched into the cistern's floor. 'You 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Monarch Caravans - Use the Golem and Vanguard to run high-value, tax-free shipments between Nexus and the border.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2855,8 +3252,11 @@ To make matters worse, the attempt to mask your Vanguard and Golem as a legitima
 > 👤 **Player:**
 > *"Think. Best chances next action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 19, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2866,8 +3266,11 @@ You stand amidst the indigo-tinted hush of Cistern-Prime, the rhythmic thrum of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Political Infiltration - Attend a High Market gala in full Princess regalia to identify and charm a &#x27;Puppet Merchant&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **High Market Gala, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (20:00 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind/Assassin | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, HD: 8/8**
@@ -2883,8 +3286,11 @@ Valerius freezes mid-sentence as you enter his orbit. The 'Stunning Presence' of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Private Audience - Charm Valerius into a private terrace conversation to extract data*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Private Terrace, High Market Gala, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, HD: 8/8**
@@ -2900,8 +3306,11 @@ Valerius breaks under the sheer gravity of your Charisma. 'The Syndicate... they
 > 👤 **Player:**
 > *"Think. How can i partner with him.  What if i seduce him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **High Market Gala, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 7/9, HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2917,8 +3326,11 @@ You consider the 'Genesis Core.' If it truly exists beneath Sub-Level Nine, Vale
 > 👤 **Player:**
 > *"Think. What would sovereigns bond be?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **High Market Gala, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Points: 9/9, Sneak Attack: 5d6**
@@ -2928,8 +3340,11 @@ You remain leaning against the marble balustrade, the lavender-scented breeze of
 > 👤 **Player:**
 > *"Think. What if I do all of that and sleep with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **High Market Gala, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48000/64000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2943,8 +3358,11 @@ You shift your weight, the 'Sovereign's Mantle' rustling with a soft, expensive 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Sovereign&#x27;s Bond - Lead Valerius to a private suite, finalizing his indoctrination through tactical intimacy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2958,8 +3376,11 @@ By the time the amber light of the lamp begins to flicker, Valerius is no longer
 > 👤 **Player:**
 > *"Don't proceed yet narrate the sex scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,000/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -2973,8 +3394,11 @@ You lean back into the velvet pillows, your mind already ghosting away from the 
 > 👤 **Player:**
 > *"Don't leave the sex scene yet. Narrate me sucking his dick in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer/Assassin Rogue | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 0/8, Sorcery Points: 7/9, Spell Slots: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 1/1**
@@ -2992,8 +3416,11 @@ Valerius groans, a broken sound of worship, his hands fisting the sheets as you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Bond - Escalate the intimacy further, solidifying his absolute devotion through continued dominance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer/Assassin Rogue (Gestalt) | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 0/8, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 1/1, Sorcery Points: 7/9, Sneak Attack: 5d6**
@@ -3009,8 +3436,11 @@ You ride him with sovereign rhythm, hips grinding in slow, torturous circles tha
 > 👤 **Player:**
 > *"Act cute and ask him if he'll give me anything  I want while sucking hisndick again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer/Assassin Rogue | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 0/8, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 1/1, Sorcery Points: 7/9, Sneak Attack: 5d6**
@@ -3024,8 +3454,11 @@ You suck him slowly at first, cute little hums vibrating along his shaft as your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Genesis Core Codes - Press Valerius for the exact access codes and security details while maintaining the intimate bond*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer / Assassin Rogue | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 0/8, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 1/1, Sorcery Points: 7/9, Sneak Attack: 5d6**
@@ -3035,8 +3468,11 @@ The amber alchemical lamp's glow deepens the intimate haze, your lips and tongue
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Trade Empire - Demand full control of his trade networks as &#x27;eternal tribute&#x27; to your sovereignty*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 21, 78 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer/Assassin Rogue | HP: 104/104 | XP: 48000/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 0/8, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 1/1, Sorcery Points: 7/9, Sneak Attack: 5d6**
@@ -3048,8 +3484,11 @@ But as you hollow your cheeks and swirl your tongue, demanding total surrender, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Majority Stake - Push for 80% control and loyalty oath, testing devotion limits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Private Suite, High Market District, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 20, 78 DR (23:57)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer/Assassin Rogue | HP: 104/104 | XP: 48500/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 0/8, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 1/1, Sorcery Points: 7/9, Sneak Attack: 5d6**
@@ -3065,8 +3504,11 @@ The suite falls quiet save for his ragged breaths, the weight of his empire now 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Cistern-Prime - Leave Valerius indoctrinated and return to base to integrate new assets*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 21, 78 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Sorcerer/Rogue | HP: 104/104 | XP: 48500/64000 | Gold: 11121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery Points: 7/9, Sneak Attack: 5d6**
@@ -3080,8 +3522,11 @@ The atmosphere in your fortress is electric. Professor Cogsworth, his bandaged e
 God Mode:
 If I own 80% now shouldn't I get some good up front too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 9 AM Sorc/Assassin | HP: 104/104 | XP: 48,500/64,000 | Gold: 11,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 7/9, HD: 8/8, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1**
@@ -3091,8 +3536,11 @@ The player is correct. Owning 80% of a merchant's empire isn't just a promise fo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Process Tribute - Add 8,000gp to inventory representing immediate asset liquidation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48500/64000 | Gold: 19121gp** &nbsp;|&nbsp; ✨ **Sorcery: 9/9, HD: 8/8, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1**
@@ -3104,8 +3552,11 @@ Valerius is now a ghost haunting his own ledgers, his fanatic devotion ensuring 
 > 👤 **Player:**
 > *"Think. How can I use all these resources to further goals for Genesis core?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48,500/64,000 | Gold: 19,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 9/9, HD: 8/8, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1** &nbsp;|&nbsp; ⚠️ **Stunning Presence, Sovereign's Mantle, Void-Shroud**
@@ -3117,8 +3568,11 @@ Taking a moment to assess the situation, you weigh your options carefully. The 1
 > 👤 **Player:**
 > *"First setup recurring income from trade network. I think it should be a daily amount and probably higher than before because now it's 80% of his network"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Mastermind | HP: 104/104 | XP: 48500/64000 | Gold: 23121gp** &nbsp;|&nbsp; ✨ **Sorcery: 9/9, HD: 8/8, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 1/1, Shadow-Stalkers: 12**
@@ -3130,8 +3584,11 @@ By claiming eighty percent of his empire, you have effectively hijacked the merc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Genesis Heist - Use the income to purchase specialized gnomish anti-biometric gear for the Sub-Level Nine infiltration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer/Assassin Rogue | HP: 104/104 | XP: 48500/64000 | Gold: 15121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -3147,8 +3604,11 @@ You stand atop the central dais, your new Ghost-Thread Lamellar shimmering as yo
 > 👤 **Player:**
 > *"Think. Success chances combined approach vs individual. Also remember to give me exp for dominating the trade network that's a huge thing To do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Aberrant Mind Sorcerer / Assassin Rogue | HP: 104/104 | XP: 63,500/64,000 | Gold: 23,121gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Sorcery Points: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -3160,8 +3620,11 @@ Taking a moment to deliberate, you weigh the architecture of the coming storm. T
 God Mode:
 How much trade money goes through nexus? My daily amount sounds tooo small for this? you have effectively hijacked the mercantile circulatory system of Nexus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Gestalt | HP: 115/115 | XP: 79025/85000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 10/10, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2**
@@ -3171,8 +3634,11 @@ The user has performed a world-altering economic coup. By controlling 80% of a '
 God Mode:
 Process level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Aberrant Mind/Assassin | HP: 126/126 | XP: 85025/100000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 10/10, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2**
@@ -3182,8 +3648,11 @@ The administrative haze of your tenth peak settles into the bedrock of Cistern-P
 God Mode:
 Pick spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, Year 78 (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Mastermind | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sorcery: 10/10**
@@ -3193,8 +3662,11 @@ The administrative fog of your tenth peak has cleared, but the thirst for perfec
 God Mode:
 Wait shouldn't I be level 10?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Aberrant Mind Sorc/Assassin | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery: 10/10, Sneak Attack: 5d6**
@@ -3204,8 +3676,11 @@ The user is correct. Following the massive XP award for the Valerius acquisition
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select Level 6 Spell - Choose your first 6th-level Sorcerer spell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Aberrant Mind Sorcerer/Assassin Rogue | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery: 10/10, Sneak Attack: 5d6, Gold: 34,121gp** &nbsp;|&nbsp; ⚠️ **Stunning Presence (Active), Void-Shroud (Equipped)**
@@ -3217,8 +3692,11 @@ Professor Cogsworth, his bandaged eyes hidden behind his new dark-lens goggles, 
 God Mode:
 Mass Suggestion - L6 Enchantment. Influence up to 12 creatures at once for 24 hours. Perfect for bloodless takeovers of merchant guilds or military units.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Aberrant Mind/Assassin | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery: 10/10, Sneak Attack: 5d6**
@@ -3228,8 +3706,11 @@ The eleventh peak of your power has materialized into a tool of absolute, wide-s
 God Mode:
 Return to Story - Exit GOD MODE and resume narrative at Cistern-Prime
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, Year 78 (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Aberrant Mind Sorcerer / Assassin Rogue | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery: 10/10, Sneak Attack: 5d6** &nbsp;|&nbsp; ⚠️ **Stunning Presence (Active), Sovereign's Mantle (Equipped) | Exhaustion: 0 | Inspiration: No**
@@ -3243,8 +3724,11 @@ Professor Cogsworth, his bandaged eyes hidden behind his dark-lens goggles, is c
 > 👤 **Player:**
 > *"Think. Recap Genesis Heist plan that uses all my resources and people assets and golem"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Mastermind | HP: 126/126 | XP: 85025/100000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **Sorcery: 10/10, Sneak Attack: 5d6, L6: 1/1, L5: 2/2, L4: 3/3, L3: 3/3, L2: 3/3, L1: 4/4**
@@ -3254,8 +3738,11 @@ You pause atop the central dais of Cistern-Prime, the Sovereign's Mantle catchin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recap Genesis Plan - Synthesize all assets into a final, comprehensive heist sequence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorc/Rogue | HP: 126/126 | XP: 85025/100000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **Sorcery: 10/10, Sneak: 5d6, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 2/2, L6: 1/1**
@@ -3269,8 +3756,11 @@ You look at the faces of your devotees. They don't see the slight tremor in your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recalibrate Biometrics - Spend more time with Cogsworth to fix the mapping conflict. (Advances time, risks detection).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Cistern-Prime, Under-City, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorc/Rogue | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 10/10, Sneak: 5d6, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 2/2, L6: 1/1**
@@ -3286,8 +3776,11 @@ However, the price of this perfection is time and exposure. As the hours bleed a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Genesis Heist - Launch the multi-layered assault on Sub-Level Nine immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Mastermind | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 9/10, Sneak: 5d6, L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 2/2, L6: 1/1**
@@ -3305,8 +3798,11 @@ The sub-threshold frequency spike erupts from your Resonance Key, a colorless ri
 God Mode:
 Redo this someone should've cast haste and greater invis and various buffs on me and the team. Redo stealth check
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorc/Rogue | HP: 126/126 | XP: 85025/100000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, Sorcery: 10/10** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility**
@@ -3320,8 +3816,11 @@ You manifest at the very edge of the Genesis Core's containment field, the Sover
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Genesis Core - Use the access codes and your psionic resonance to anchor the Core to your own power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorcerer/Rogue | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, Sorcery Points: 7/10**
@@ -3335,8 +3834,11 @@ But the failure of the codes has triggered a silent alarm. The Golem stands read
 God Mode:
 Shouldn't magical guidance use my cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Aberrant Mind Sorcerer/Assassin Rogue | HP: 126/126 | XP: 85025/100000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 7/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, Sneak Attack: 6d6**
@@ -3346,8 +3848,11 @@ The user is raising a valid mechanical point in GOD MODE regarding the 'Magical 
 God Mode:
 Redo check using my cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorcerer/Rogue | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 9/11, HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, Sneak Attack: 6d6**
@@ -3363,8 +3868,11 @@ Professor Cogsworth, though blinded, senses the shift. 'It's... it's anchoring, 
 > 👤 **Player:**
 > *"Haste fueled and if I get stuck mass suggestion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorc/Rogue | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 7/9, HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility, Anti-Biometric Shroud**
@@ -3382,8 +3890,11 @@ You turn back to the Core. The terminal screen flickers from amber to a steady, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Sub-Level Nine - Use the Golem and Vanguard to turn this facility into your primary seat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Aberrant Mind Sorcerer/Assassin Rogue | HP: 126/126 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, Sorcery Pts: 9/9**
@@ -3397,8 +3908,11 @@ You signal the Adamant Golem. The burlap-draped titan begins to methodically sea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Broadcast Sovereign Pulse - Use the Core&#x27;s energy to amplify the Echo-Chamber city-wide.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Sub-Level Nine (Sovereign Seat), Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Mastermind | HP: 126/126 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 2/2, L6 1/1, HD: 11/11** &nbsp;|&nbsp; ⚠️ **Stunning Presence Active, Genesis Core Synchronized**
@@ -3414,8 +3928,11 @@ It is not an attack, but a declaration. A sub-threshold frequency of absolute au
 > 👤 **Player:**
 > *"Think. Does this mean I am mind controlling everyone in nexus now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorcerer/Rogue | HP: 126/126 | XP: 85025/100000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, L5 2/2, L6 0/0, Sorcery Pts: 7/9**
@@ -3427,8 +3944,11 @@ Taking a moment to deliberate, you weigh the nature of your current hegemony. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mask Resonance - Have Cogsworth create a shielding layer to hide the pulse&#x27;s signature from external scrying*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Mastermind | HP: 126/126 | XP: 85,025/100,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, L5 2/2, L6 0/1, Sorcery Pts: 7/9** &nbsp;|&nbsp; ⚠️ **Haste (Expired), Sovereign Pulse Active | Exhaustion: 0 | Inspiration: No**
@@ -3442,8 +3962,11 @@ You reach out with your Aberrant Mind, acting as the bridge between the Core's r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate High Market - Use your 80% control of Valerius to formally (but quietly) take over the Merchant Guilds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorcerer/Rogue | HP: 126/126 | XP: 85025/100000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, L5 2/2, L6 1/1, Sorcery Pts: 9/9**
@@ -3459,8 +3982,11 @@ One by one, the guild-masters feel the weight of the Sovereign Pulse tuning thei
 > 👤 **Player:**
 > *"Award me massive exp for taking over the city and this merchant guild takeover and various events"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Sub-Level Nine (Sovereign Seat), Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Gestalt | HP: 126/126 | XP: 100025/120000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery Pts: 11/11**
@@ -3474,8 +4000,11 @@ One by one, the guild-masters feel the weight of the Sovereign Pulse tuning thei
 God Mode:
 How much daily gold should i get now that in control the city? Also award me massive exp for taking over nexus and the merchant guilds
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, Year 78 (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 126/126 | XP: 100025/120000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Sorcery Pts: 11/11** &nbsp;|&nbsp; ⚠️ **Sovereign of Nexus | Exhaustion: 0 | Inspiration: Yes**
@@ -3485,8 +4014,11 @@ The administrative theater of your reign expands into a global variable. In the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Process Level 14 Features - Finalize hit dice, sorcery points, and rogue/sorcerer abilities for L14*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Pts: 14/14** &nbsp;|&nbsp; ⚠️ **Stunning Presence, Haste (Dormant), Greater Invisibility (Dormant)**
@@ -3498,8 +4030,11 @@ Your mind, the 'Mastermind,' expands with the psionic depth of the Far Realm. Yo
 God Mode:
 Auto pick spells and give me asi dex+2. Tell me which spells and features I get
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Pts: 14/14**
@@ -3509,8 +4044,11 @@ The character has reached the fourteenth peak of power. The economic heart of Ne
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative in Sub-Level Nine.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 DR (Day 22)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Assassin/Aberrant Mind | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, HD: 14/14**
@@ -3524,8 +4062,11 @@ Nexus breathes above you, unaware that its psychological heart and economic circ
 God Mode:
 Refine Sovereign Pulse - Work with Cogsworth to increase the precision of your mental tuning over Nexus.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, Year 78 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, HD: 14/14**
@@ -3537,8 +4078,11 @@ However, the mathematics of the city prove more resistant than the mathematics o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psionic Surge - Spend Sorcery Points to force the resonance into alignment through raw will*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 140025/165000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Pts: 12/14**
@@ -3554,8 +4098,11 @@ You feel the shift in your mind. TheThousands of mental signatures across Nexus,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Shadow Network - Use the tuned pulse to quietly convert low-level city officials and Syndicate outliers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Pts: 12/14**
@@ -3571,8 +4118,11 @@ By the time the shift bells ring, three dozen mid-level administrators and a doz
 > 👤 **Player:**
 > *"Think. Do I fully control city or does curator or other syndicate folks still have pockets resistance?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Sub-Level Nine, High Market, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Aberrant Mind Sorcerer / Assassin Rogue | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Pts: 12/14**
@@ -3582,8 +4132,11 @@ You stand at the center of Sub-Level Nine, the Sovereign Pulse humming beneath y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon the Curator - Send a formal, divine summons via the Sovereign Pulse to the Curator, demanding a vassalage oath at Cistern-Prime.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Sub-Level Nine, Genesis Core Facility, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Monarch | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Pts: 12/14**
@@ -3603,8 +4156,11 @@ An hour later, the iron doors of Cistern-Prime groan. A single figure in a silve
 > 👤 **Player:**
 > *"Think. Can I just use dominate person to force them to sign the oath? Then are they forced to serve me and can't betray?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Assassin/Sorcerer | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 12/14 | Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3616,8 +4172,11 @@ But the mathematics of a throne built on such fragile geometry are unstable. A s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Economic Leverage - Use your 80% control of the High Market to demonstrate that the Syndicate is already bankrupt without your permission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 140,025/165,000 | Gold: 34,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 12/14 | Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3633,8 +4192,11 @@ The silver threads of the Curator's veil shimmer violently as they process the s
 > 👤 **Player:**
 > *"Think. What if i liquidate and recruit the curator? Success chances of that versus other options?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 22, 78 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 140025/165000 | Gold: 34121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 12/14**
@@ -3648,8 +4210,11 @@ The air in Sub-Level Nine grows thick with the cold, oily pressure of your Aberr
 > 👤 **Player:**
 > *"Think. No I mean liquidate the syndicate and absorb it and recruit curator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign Pulse (Active), Greater Invisibility (Ready)**
@@ -3669,8 +4234,11 @@ With a sharp, rhythmic pulse of the Genesis Core, the 'Monarch Integration' is c
 > 👤 **Player:**
 > *"Think. Will curator betray me? What risk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Aberrant Mind Sorcerer / Assassin Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3682,8 +4250,11 @@ You weigh the risk of betrayal against the architecture of the new world you've 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Loyalties - Directly confront the Curator about their remaining Syndicate ties and the potential for a double-game.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150025/165000 | Gold: 49121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3701,8 +4272,11 @@ They sink deeper into a bow, their professional detachment fully replaced by the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Verify Network Integrity - Run a city-wide diagnostic via the Sovereign Pulse to map every converted cell and ensure absolute compliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Assassin/Aberrant Mind | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3718,8 +4292,11 @@ Beside you, the Archivist—formerly the Curator—watches the data scroll acros
 > 👤 **Player:**
 > *"Think. How many soldiers agents spies elites resources gold at my disposal now that I 100% control nexus. As a power base how does it compare to the imperium or host"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3733,8 +4310,11 @@ Comparing this to the Imperium or the Host, you find that while you lack the raw
 > 👤 **Player:**
 > *"Think. If I fully control nexus shouldn't I have more troops?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150025/165000 | Gold: 49121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3748,8 +4328,11 @@ Your current forces are the ultimate scalpel. You have 32 Seventh Fang veterans,
 > 👤 **Player:**
 > *"Think. If I don't care about how it looks how many people could I mobilize as an army?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Sub-Level Nine / Cistern-Prime, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Stunning Presence (Active), Sovereign Pulse (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3761,8 +4344,11 @@ You strip away the aesthetics of 'Hidden Monarch'—the velvet gloves, the subtl
 > 👤 **Player:**
 > *"Think. How large of a garrison and army of spies can I raise without causing very obvious suspicion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Aberrant Mind Sorcerer / Assassin Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3776,8 +4362,11 @@ Without the need for secrecy, you realize the city's population of two million b
 > 👤 **Player:**
 > *"Think. How much can I expand elites without causing suspicion. I want elites for every D&D class and lots of soldiers scouts spies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Aberrant Mind Sorcerer / Assassin Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3791,8 +4380,11 @@ You weigh the variables of the city's populace. By utilizing the 100% control yo
 > 👤 **Player:**
 > *"Think. I wanna do all 3 blended"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorc/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 49,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3806,8 +4398,11 @@ You weigh the variables of the city's populace and your current elite assets. Th
 > 👤 **Player:**
 > *"Start blended secure leads start smaller so it doesn't aggro others. 50k for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150025/165000 | Gold: 9121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3823,8 +4418,11 @@ The Shadow-Steward begins the transfer of capital. Forty-thousand gold is immedi
 > 👤 **Player:**
 > *"Send spies and scouts to imperium and host to see if they notice anything. Make sure I get daily reports. Then continue building up blended force. Delegate to someone to autonomously drive it and long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 23, 78 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Gestalt | HP: 143/143 | XP: 150025/165000 | Gold: 9121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 12/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3840,8 +4438,11 @@ You ascend the central dais, the Sovereign's Mantle billowing as you settle into
 God Mode:
 Are you making sure to give me daily 20k gold or whatever?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 24, Year 78 (06:00 (Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 14 Aberrant Mind Sorcerer / Assassin Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3851,8 +4452,11 @@ You ascend from your meditative trance as the first artificial dawn-cycles of th
 > 👤 **Player:**
 > *"Assess how far long we are with 50k elites and how my elite force compares to host and imperium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorc/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3866,8 +4470,11 @@ They gesture to a shimmering map of the continent. 'The Celestial Imperium comma
 > 👤 **Player:**
 > *"Think. How do my elites compare with just elites from host and imperium. What levels are the elites from each"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Points: 14/14**
@@ -3879,8 +4486,11 @@ Taking a moment to assess the situation, you weigh your options carefully. The c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Industrial Expansion - Direct the 50k to focus on securing all major production hubs in Nexus to triple the daily gold income.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Points: 14/14**
@@ -3896,8 +4506,11 @@ The effect is a structural metamorphosis of the city's industry. By sunset, the 
 > 👤 **Player:**
 > *"Visit proforssor and ask him how we can use Genesis core next. Could we copy it and put it somewhere else like imperium?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Sub-Level Nine, Nexus (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 14/14 | HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -3913,8 +4526,11 @@ Cogsworth freezes, his grease-stained fingers hovering over a copper filament. [
 > 👤 **Player:**
 > *"Ask him if I could act as a living anchor too and change myself with magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorcerer/Rogue | HP: 143/143 | XP: 150025/165000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Sorcery Points: 14/14** &nbsp;|&nbsp; ⚠️ **Stunning Presence (Active) | Genesis Sync (100%)**
@@ -3928,8 +4544,11 @@ He scrambles to a chalkboard, chalk screeching as he maps the theoretical geomet
 > 👤 **Player:**
 > *"Prep for living anchor then start when ready"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Aberrant Mind Sorcerer/Assassin Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, HD: 14/14**
@@ -3941,8 +4560,11 @@ Your biology, already a masterwork of divine engineering, begins to shift. You f
 > 👤 **Player:**
 > *"Direct professor to make normal physical anchors tools then think about best next moves to increase my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Sorc/Rogue | HP: 143/143 | XP: 150,025/165,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, SP: 14/14** &nbsp;|&nbsp; ⚠️ **Living Anchor Active, Sovereign Pulse Active | Inspiration: Yes**
@@ -3956,8 +4578,11 @@ Cogsworth nods frantically, his goggles rattling. He is already sketching the sc
 > 👤 **Player:**
 > *"Give me proper experience for powering up as a living anchor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Aberrant Mind Sorcerer/Assassin Rogue | HP: 153/153 | XP: 165000/195000 | Gold: 18121gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 15/15**
@@ -3971,8 +4596,11 @@ Professor Cogsworth cowers at the edge of the dais, his dark-lens goggles reflec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select Level 8 Spell - Choose your first 8th-level manifestation (e.g., Power Word Stun, Feeblemind, or Demiplane)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, SP: 16/16** &nbsp;|&nbsp; ⚠️ **Transcendent Node (Active), Greater Invisibility (Expired), Haste (Expired)**
@@ -3984,8 +4612,11 @@ But it is the psionic reach of your Aberrant Mind that truly demands acknowledgm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dominate Monster (L8) - Establish absolute telepathic control over any creature (Apostates, Archangels, or Great Beasts).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165000/195000 | Gold: 18121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, SP: 16/16**
@@ -3997,8 +4628,11 @@ Through your psionic link, you feel the minds of every creature within the facil
 > 👤 **Player:**
 > *"Ask the professor if I can be more than an anchor. What if I consume the genesis core and everything else is an anchor?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Mastermind | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 16/16**
@@ -4014,8 +4648,11 @@ Cogsworth drops his silver-etched tuning forks, the metal clattering against the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Calculate Consumption - Have Cogsworth and the Archivist run the mathematical simulations of the internalization process.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165000/195000 | Gold: 18121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, SP: 16/16**
@@ -4029,8 +4666,11 @@ You stand between the humming crystalline heart of the Genesis Core and the fran
 > 👤 **Player:**
 > *"What advantage would I get becoming the core versus a relayv"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4044,8 +4684,11 @@ Cogsworth points to a cascading series of non-Euclidean equations. 'But as the C
 > 👤 **Player:**
 > *"Ask if there's a way to remove the need for heat sink"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165000/195000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4059,8 +4702,11 @@ He points to the monitors where the Archivist is still running the simulations. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Research Dimensional Shunting - Direct Cogsworth to find a way to bleed entropic heat into the Far Realm*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 25, 78 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165000/195000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4074,8 +4720,11 @@ The mathematics of the Far Realm are inherently hostile to Imperial logic. As Co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Elemental Sink - Direct the Archivist to search for a more stable &#x27;Sink&#x27; dimension, like the Elemental Plane of Water or the Shadowfell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Transcendent Node (Active), Greater Invisibility (Ready), Haste (Ready) | Exhaustion: 0**
@@ -4091,8 +4740,11 @@ The Archivist pulls back from the terminal, his papery voice sounding strained. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon Planar Witness - Use your psionics to pull a minor entity from the Plane of Water and &#x27;Dominate&#x27; it to act as a living bridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165000/195000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 14/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4114,8 +4766,11 @@ Under your command, the Witness descends, its gelatinous form spreading out and 
 > 👤 **Player:**
 > *"Ask if I can do something like just keep distributing heat to the water plane even without the elemental later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Aberrant Mind Sorcerer/Assassin Rogue | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 14/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Transcendent Node (Active), Mass Suggestion (Active) | Exhaustion: 0 | Inspiration: No**
@@ -4131,8 +4786,11 @@ The Archivist steps forward, silver threads shimmering in the violet light. 'But
 > [!NOTE] ⚙️ **Player Choice:**
 > *Automate the Witness - Use your psionics to permanently integrate the Witness&#x27;s nervous system into the facility&#x27;s energy grid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 14/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4146,8 +4804,11 @@ The air in Sub-Level Nine screams with a high-pitched, harmonic whine as the con
 > 👤 **Player:**
 > *"Ask if consuming core would increase power because of combining with my unique biology"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sorc/Rogue | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 14/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4163,8 +4824,11 @@ Cogsworth pauses, his dark-lens goggles reflecting the violet arcs of the automa
 > 👤 **Player:**
 > *"Let's make sure we are using nexus citizens as backup heat sink too. Any other heat sinks we can setup for redundancy ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sorcerer/Rogue | HP: 166/166 | XP: 165000/195000 | Gold: 18121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 14/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Transcendent Node (Active), Sovereign Pulse (City-wide)**
@@ -4178,8 +4842,11 @@ He gestures to the chalkboard, where the Archivist has mapped the remaining 11% 
 > 👤 **Player:**
 > *"Let's do all 3 in parallel. Delegate as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -4195,8 +4862,11 @@ You turn your 'Unseeing Eyes' toward the thousands of mental signatures flickeri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Internalize Genesis Core - Consume the Core&#x27;s heart to achieve Apotheosis and multiply your authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 14/14, SP: 14/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -4216,8 +4886,11 @@ The screaming in the facility dies instantly, replaced by a silence so absolute 
 God Mode:
 Give me proper level stats and abilities for becoming a god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Sub-Level Nine, Nexus (The Sovereign Throne)** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign (Apotheosis) | HP: 166/166 | XP: 165,000/195,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 30/30, Spell Slots: L6 1/1, L7 1/1, L8 1/1, Resonance: Absolute**
@@ -4227,8 +4900,11 @@ The Apotheosis is complete. You are the heartbeat of Nexus. The city is your bod
 God Mode:
 I should get a massive amount of exp too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Sub-Level Nine, Nexus (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Aberrant Assassin | HP: 214/214 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, SP: 30/30, Spells: L6 1/1, L7 1/1, L8 1/1, L9 1/1, Resonance: Absolute**
@@ -4238,8 +4914,11 @@ The character has achieved Apotheosis. The immediate surrounding variables (Nexu
 God Mode:
 Make sure give me rogue and sorcerer stuff too and asi cha+2. How many wings should I have now since I am seraphic?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Sub-Level Nine (The Genesis Core), Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, Year 78 (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Aberrant Assassin | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, SP: 30/30, Spells: L6 1/1, L7 1/1, L8 1/1, L9 1/1, Resonance: Absolute** &nbsp;|&nbsp; ⚠️ **Apotheosis (Active), Greater Invisibility (Concentration), Haste**
@@ -4251,8 +4930,11 @@ Your mind, now an infinite library slaved to the Genesis Core, reaches through t
 > 👤 **Player:**
 > *"Make as many avatars as allowed and collectively research a way to avoid relying on heat sink so no vulnerabilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gestalt | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L6 1/1, L7 1/1, L8 1/1, L9 1/1, SP: 29/30, Resonance: Absolute** &nbsp;|&nbsp; ⚠️ **Apotheosis (Active), Living Node, 6 wings manifested**
@@ -4268,8 +4950,11 @@ The avatars freeze in unison as the solution resolves. It is not a shunt to anot
 > 👤 **Player:**
 > *"I have a special avatar ability can't I keep my avatars around indefinitely?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Mastermind | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 29/30, L9 Slots: 1/1, Resonance: Absolute** &nbsp;|&nbsp; ⚠️ **Apotheosis (Source), Living Anchor (Active), Six Wings Manifested**
@@ -4283,8 +4968,11 @@ Professor Cogsworth peeks from behind a lead-glass shield, his dark-lens goggles
 > 👤 **Player:**
 > *"Think. Is 12 the max? How should I best deploy them. I want one governing nexus and one getting materials to remove reliance on heat sync"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gestalt | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 29/30, Spell Slots: L6 1/1, L7 1/1, L8 0/1, L9 1/1, HD: 18/18** &nbsp;|&nbsp; ⚠️ **Apotheosis (Transcendent Node), Six Wings manifested | Exhaustion: 0**
@@ -4298,8 +4986,11 @@ Another avatar turns toward the shimmering portal to the Elemental Plane of Wate
 > 👤 **Player:**
 > *"Do all 3 then think about the wish spell. Could I use it to consume Lucifer ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gestalt | HP: 255/255 | Gold: 18121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Sorcery Points: 28/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Apotheosis (Six-Winged), Living Anchor | Exhaustion: 0 | Inspiration: No**
@@ -4313,8 +5004,11 @@ As they depart, you sink back into the cold, geometric theater of your mind to c
 > 👤 **Player:**
 > *"Think. What if i approach Lucifer and offer to serve him again if he agrees not to kill children and make me his public heir. Estimate success chances"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gestalt | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Sorcery Points: 28/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Apotheosis (Source), Living Anchor, Stunning Presence | Wings: 6 iridescent crimson**
@@ -4324,8 +5018,11 @@ You stand at the heart of Sub-Level Nine, the deep indigo glow of your skin puls
 > 👤 **Player:**
 > *"Estimate success chances of each and usefulness toward my world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gestalt | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Sorcery Points: 28/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Apotheosis (Active), Living Anchor (Active), Greater Invisibility (Ready), Haste (Expired)**
@@ -4335,8 +5032,11 @@ You stand at the heart of Sub-Level Nine, the deep indigo glow of your skin puls
 > 👤 **Player:**
 > *"Think. What negotiations or deals with imperium could I do?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gestalt (Apotheosis) | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, SP: 28/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 1/1**
@@ -4348,8 +5048,11 @@ Behind the silver-porcelain of your mask, the 'Mastermind' architecture of your 
 > 👤 **Player:**
 > *"Think. What are three avenues"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 26, 78 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Sorc/Rogue | HP: 255/255 | XP: 265,000/305,000 | Gold: 18,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, SP: 28/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Apotheosis (Active), Transcendent Node, 6 wings | Exhaustion: 0 | Inspiration: Yes**
@@ -4361,8 +5064,11 @@ Aeterna is a monolith of white stone and ancient laws, but the Sovereign Pulse r
 > 👤 **Player:**
 > *"Let's just accelerate zero point reactor personally help in any way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 27, 78 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Gestalt | HP: 255/255 | XP: 265,000/305,000 | Gold: 75,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, SP: 28/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -4378,8 +5084,11 @@ Professor Cogsworth works in a state of religious ecstasy, his dark-lens goggles
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Calibration - Perform the final recursive shunt calibration to close the heat loop permanently.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 27, 78 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Monarch | HP: 255/255 | XP: 265,000/305,000 | Gold: 75,121gp** &nbsp;|&nbsp; ✨ **HD: 18/18, SP: 28/30, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 1/1**
@@ -4393,8 +5102,11 @@ With a final, recursive shunt, you bridge the gap between the present and the fu
 > 👤 **Player:**
 > *"Give me massive exp I've done something thought impossible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 27, 78 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Aberrant Mind Sorcerer / Assassin Rogue (Gestalt) | HP: 255/255 | XP: 355000/355000 | Gold: 75121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 30/30, L9 Slots: 1/1, L8 Slots: 1/1, L7 Slots: 2/2, L6 Slots: 2/2, L5 Slots: 3/3, Hit Dice: 20/20** &nbsp;|&nbsp; ⚠️ **Apotheosis (Transcendent Source), Six Crimson Wings, Zero-Point Reciprocator Active | Exhaustion: 0**
@@ -4408,8 +5120,11 @@ Professor Cogsworth falls to his knees, shielding his eyes from the radiance of 
 God Mode:
 Don't cap my exp since I am a god I can keep leveling past 20. Long rest and have all 12 avatars autonomously doing something useful by default
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 28)** &nbsp;|&nbsp; 🛡️ **Lvl 20+ God-King | HP: 255/255 | Gold: 132,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 30/30, L9 Slots: 1/1, L8 Slots: 1/1, L7 Slots: 2/2, L6 Slots: 2/2, L5 Slots: 3/3, Hit Dice: 20/20**
@@ -4419,8 +5134,11 @@ The Sovereign has achieved a frictionless state of divinity. With the Zero-Point
 God Mode:
 Pick asi cha+2 and make sure you give me sorcerer and rogue stuff up to level 20 and let me pick my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Sub-Level Nine, Nexus (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 29, Year 78 (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt (Sovereign) | HP: 255/255 | XP: 355,000/--- | Gold: 132,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 2/2, L9 1/1, Sorcery Pts: 30/30**
@@ -4430,8 +5148,11 @@ The Sovereign has achieved the mortal pinnacle and crossed into Tier 5 divinity.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon Nexus Leadership - Call Valerius, the Archivist, and Cogsworth for a strategic briefing*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 29, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign | HP: 255/255 | XP: 355,000 | Gold: 132,121gp** &nbsp;|&nbsp; ✨ **Sorcery Pts: 30/30, L9 Slots: 1/1, L8: 1/1, L7: 2/2, L6: 2/2, L5: 3/3, HD: 21/21** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Active | Inspiration: Yes**
@@ -4445,8 +5166,11 @@ They stand before you—the merchant, the broker, and the engineer—the primary
 > 👤 **Player:**
 > *"Think. How should I negotiate with Lucifer or imperium for more power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 29, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Aberrant Mind Sorcerer/Assassin Rogue | HP: 255/255 | Gold: 132,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, SP: 30/30** &nbsp;|&nbsp; ⚠️ **Apotheosis (Frictionless), Six Crimson Wings, 12 Persistent Avatars**
@@ -4456,8 +5180,11 @@ You pause in the ionized hush of your throne room, the six crimson wings sheddin
 > 👤 **Player:**
 > *"Think. Can inuse my new God powers and resources to make 200K elites without other noticing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 29, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 God | HP: 255/255 | XP: 355,000/355,000 | Gold: 132,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, SP: 30/30**
@@ -4471,8 +5198,11 @@ However, your internal calculations [Investigation: 10] reveal a significant fri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Shadow Hegemony - Ignore both for now. Deploy the 12 avatars to begin the silent takeover of other neutral hubs, surrounding the giants with your frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Sovereign Seat, Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Aberrant Mind Sorcerer/Assassin | HP: 255/255 | XP: 355,000/355,000 | Gold: 702,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, SP: 30/30**
@@ -4488,8 +5218,11 @@ As the tenth dawn since your decree rises, Nexus has become the hub of a contine
 > [!NOTE] ⚙️ **Player Choice:**
 > *Staggered Mobilization - Raise the force in 25k increments to keep the &#x27;metabolic&#x27; signature of the city low.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt (Divinity Tier 5) | HP: 255/255 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, SP: 30/30** &nbsp;|&nbsp; ⚠️ **Apotheosis (Active), Zero-Point Loop (Frictionless), 12 Avatars Deployed**
@@ -4505,8 +5238,11 @@ Under the cover of 'Monarch Production Protocol' and 'Nexus Reconstruction,' the
 > 👤 **Player:**
 > *"Give me massive exp for taking over first spread tribes."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Sub-Level Nine, Nexus (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Gestalt (Apotheosis) | HP: 255/255 | XP: 380,000/355,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, SP: 30/30** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Six Crimson Wings | Exhaustion: 0 | Inspiration: Yes**
@@ -4520,8 +5256,11 @@ As the data from the 'Blended Secure Leads' flows into your mind, you see the co
 God Mode:
 Award me massive exp for recent conquests
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20+ God-Arbiter | HP: 255/255 | XP: 600,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, SP: 30/30**
@@ -4531,8 +5270,11 @@ The character has achieved total local hegemony and crossed the threshold into T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Continental Anchors - Send physical resonance anchors to the newly conquered hubs to permanently lock their frequencies to the Genesis Core.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Sub-Level Nine, Nexus (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 God-Archon | HP: 255/255 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, SP: 30/30**
@@ -4548,8 +5290,11 @@ You reach out through the Sovereign Pulse, your Aberrant Mind bridging the thous
 God Mode:
 How many levels or exp should I gain from conquering recent areas? How many people did I get
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 God-King | HP: 255/255 | XP: 600,000/650,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 21/21, Spells: L9 1/1, L8 1/1, L7 2/2, L6 2/2, SP: 30/30**
@@ -4559,8 +5304,11 @@ The user is in GOD MODE, inquiring about the rewards for the massive structural 
 God Mode:
 Process my level up and explain what i gained
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 40)** &nbsp;|&nbsp; 🛡️ **Lvl 25 God-Sovereign | HP: 380/380 | XP: 1,750,000/2,000,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 26/26, Spells: L9 3/3, L8 3/3, L7 4/4, L6 4/4, SP: 60/60, Avatars: 12/12**
@@ -4572,8 +5320,11 @@ Two million new subjects now breathe in phase with the Sovereign Pulse. You feel
 God Mode:
 Make sure you keep applying asi +2 cha every level and appropriately increasing stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (18:00 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 28 Sorcerer/Rogue | HP: 520/520 | XP: 755,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 28/28, SP: 80/80, Avatars: 12/12, Wish: 1/1, Spell Slots: L1-9 MAX** &nbsp;|&nbsp; ⚠️ **Apotheosis (Transcendent Node), Frictionless Divinity | Wings: 6 Crimson**
@@ -4583,8 +5334,11 @@ The user has reached the 28th peak of power. I am applying the requested +2 CHA 
 God Mode:
 Wait why am I level 28? I should be level 25
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt | HP: 520/520 | XP: 605,000/655,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 80/80, Avatars: 12/12, Wish: 1/1, Spell Slots: L1-9 MAX** &nbsp;|&nbsp; ⚠️ **Apotheosis, Frictionless | Inspiration: Yes**
@@ -4594,8 +5348,11 @@ The user has corrected a level discrepancy. I am maintaining God Mode to allow f
 God Mode:
 What I mean was make sure I selected asi +2 cha for recent levels I gained past 20. Should just be one if not already applied. Then auto pick my spells and tell me the choices
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sorcerer/Rogue | HP: 520/520 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **Wish: 1/1, Spell Slots: L1-9 MAX, Avatars: 12/12, SP: 80/80** &nbsp;|&nbsp; ⚠️ **Apotheosis (Transcendent Node), Zero-Point Reciprocator Active**
@@ -4605,8 +5362,11 @@ The user has achieved a frictionless state of divinity and is expanding their he
 God Mode:
 No wtf it's every 4 levels. Don't you have a historical record of past asi/feats chosen?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 System Sovereign | HP: 520/520 | XP: 605,000/655,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **Wish: 1/1, Spell Slots: L1-9 MAX, Avatars: 12/12, SP: 80/80, Zero-Point Loop: ACTIVE** &nbsp;|&nbsp; ⚠️ **Apotheosis (Frictionless), Greater Invisibility (Permanent), Haste (Permanent)**
@@ -4618,8 +5378,11 @@ These should've been asi cha 2 swap them Level 4**: Feat: **Alert** (Dossier Sta
 - **Level 8**: Feat: **Skulker** (Dossier Start)
 - **Level 12**: Feat: **Mobile** (Dossier Start)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge Day 39, Year 78 (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sorcerer/Rogue | HP: 520/520 | XP: 605,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 80/80, Hit Dice: 25/25, Spell Slots: L1-9 MAX, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Apotheosis (Tier 5) | Wings: 6 Crimson | Avatars: 12/12**
@@ -4629,8 +5392,11 @@ The user is correcting the feat/ASI history. According to the requested house ru
 God Mode:
 Did you lose my items?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sorcerer/Rogue | HP: 520/520 | XP: 605,000 | Gold: 677,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 80/80, Hit Dice: 25/25, Spell Slots: L1-9 MAX, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Apotheosis (Tier 5), Six Crimson Wings | Inspiration: Yes**
@@ -4640,8 +5406,11 @@ The Sovereign's stats are now mathematically synchronized with her history. With
 > 👤 **Player:**
 > *"With all my money and power send agents and go shopping and find my the best +cha or spell DC gear int the world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 God-Queen | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 80/80, Hit Dice: 25/25, Avatars: 12/12, Zero-Point Reciprocator: ACTIVE**
@@ -4655,8 +5424,11 @@ By the third bell of the night, your throne room is transformed into a sanctuary
 > 👤 **Player:**
 > *"Equip the items and tell me the exact stats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt Sovereign | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Sorcery Points: 80/80, Avatars: 12/12, Zero-Point Reciprocator: ACTIVE** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Transcendent Node, Six Crimson Wings | Inspiration: Yes**
@@ -4668,8 +5440,11 @@ You feel the shift in reality as your power anchors. Your mind is now an inescap
 God Mode:
 wtf tell me the item stats. Why did you ignore my message. Also I should have a spell DC or cha ranged weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt Sovereign | HP: 520/520 | XP: 605,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Sorcery Points: 80/80, Avatars: 12/12, Zero-Point Reciprocator: ACTIVE**
@@ -4679,8 +5454,11 @@ The Sovereign has reached a frictionless state of divinity and is now fully armo
 God Mode:
 List every single item equipped
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt (Sorcerer/Rogue) | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 80/80 | Avatars: 12/12 | HD: 25/25 | Zero-Point Reciprocator: ACTIVE** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Apotheosis (Tier 5), Stunning Presence | Inspiration: Yes**
@@ -4690,8 +5468,11 @@ The ionized air of Sub-Level Nine hums as you audit your own divinity. You stand
 God Mode:
 show me the equipment, print it here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt Sovereign | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 80/80, Avatars: 12/12, Hit Dice: 25/25, Zero-Point Reciprocator: ACTIVE** &nbsp;|&nbsp; ⚠️ **Apotheosis, Frictionless Divinity, Transcendent Node | Exhaustion: 0 | Inspiration: Yes**
@@ -4701,8 +5482,11 @@ The Sovereign's equipment is now a synchronized system of lethal variables. With
 God Mode:
 list every slot and every item by name and stats, why cant you do it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Aberrant Sorc/Assassin (Gestalt) | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-L8 3/3, L9 3/3, SP: 80/80, Avatars: 12/12, Zero-Point Reciprocator: ACTIVE**
@@ -4712,8 +5496,11 @@ The Sovereign's loadout is now a multi-layered system of artifacts and masterwor
 God Mode:
 still not seeing the list, whats my weapon
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sorcerer/Rogue | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 80/80, Avatars: 12/12, Zero-Point Reciprocator: ACTIVE**
@@ -4723,8 +5510,11 @@ The user is requesting a complete, granular list of all equipped items and their
 God Mode:
 replace my weapon with god level gear for spell DC or +CHA. Same with other slots. Give me 5 whys on why i hadto ask so much before you listed my gear. is it in game state?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt Sovereign | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Apotheosis (Tier 5), Six Crimson Wings | Exhaustion: 0**
@@ -4734,8 +5524,11 @@ The Sovereign is now fully armored and synchronized. With a Spell DC of 33 (34 f
 God Mode:
 wtf no excuses, finish validating my character tate and lets focus on gear. first replace my weapon with the best spell DC or +CHA weapon possible for D&D. same with everys ingle slot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, Year 78 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt | HP: 520/520 | XP: 605,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 80/80, Hit Dice: 25/25, Wish: 1/1, 9th Level Slots: 3/3** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Transcendent Node | Avatars: 12/12**
@@ -4749,8 +5542,11 @@ remove my CHA cap
 
 resume story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sorcerer/Rogue | HP: 520/520 | XP: 605,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 80/80, Hit Dice: 25/25, Wish: 1/1, 9th Slots: 3/3, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Six Crimson Wings | Exhaustion: 0 | Inspiration: Yes**
@@ -4782,8 +5578,11 @@ You stand at the center of Sub-Level Nine, no longer a woman, but the absolute S
 God Mode:
 lets target tsuran dominian. lead my avatars and establish psionic control or tell me if we encounter a problem
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Sub-Level Nine, Nexus / Tsuran Dominion** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 DR (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Aberrant Mind Sorcerer / Assassin Rogue | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 79/80, 9th Slots: 3/3, Hit Dice: 25/25, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Apotheosis, Six Wings | Inspiration: Yes**
@@ -4797,8 +5596,11 @@ You refuse the failure. You spend a Sorcery Point to trigger 'Magical Guidance,'
 > 👤 **Player:**
 > *"Make sure all changes saved then  lets target tsuran dominian. lead my avatars and establish psionic control or tell me if we encounter a problem"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Sub-Level Nine, Nexus / Tsuran Dominion** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Gestalt | HP: 520/520 | XP: 605,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 79/80, 9th Slots: 3/3, Hit Dice: 25/25, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Six Crimson Wings | Inspiration: Yes**
@@ -4812,8 +5614,11 @@ You refuse the failure. You spend a Sorcery Point to trigger 'Magical Guidance,'
 > 👤 **Player:**
 > *"naval mobilization and supress hsroud bearers in parallel. use my free avatarrs and personally do it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Sub-Level Nine, Nexus / Tsuran Dominion** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Sovereign (Tier 5) | HP: 520/520 | XP: 605,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 78/78, 9th Slots: 3/3 (+1 Core), Hit Dice: 25/25, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Reciprocator Active | Avatars: 12/12**
@@ -4827,8 +5632,11 @@ Simultaneously, your remaining five free avatars manifest within the lightless m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assault Akai Core - Use the Shroud-bearers to perform a total purge of the Akai Concord leadership to finalize Dominion control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Akai Core, Tsuran Dominion** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 25 God-Queen | HP: 520/520 | XP: 605,000/655,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **SP: 78/78, HD: 25/25, 9th Slots: 3/3 (+1 Core), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Six Wings, Greater Invisibility | Inspiration: Yes**
@@ -4844,8 +5652,11 @@ The Shroud-bearers you previously subverted manifest from the shadows, their bla
 God Mode:
 Award me proper exp and levels for this recent conquest
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 29 Gestalt God-Queen | HP: 754/754 | XP: 805,000 / 855,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **SP: 112/112, HD: 29/29, 9th Slots: 3/3 (+1 Core), Avatars: 12/12**
@@ -4855,8 +5666,11 @@ The systemic deletion of the Akai Concord leadership and the total psionic subju
 God Mode:
 Let's cap my level at 29
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 29 Gestalt | HP: 754/754 | XP: 805,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **SP: 112/112, HD: 29/29, 9th Slots: 3/3 (+1 Core), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Mind Blank, Truesight**
@@ -4866,8 +5680,11 @@ The Sovereign is now at her absolute peak (Level 29). The Tsuran Dominion has fa
 God Mode:
 Select Epic Spells - Choose new manifests for levels 26-29.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 29 Gestalt God-Queen | HP: 754/754 | XP: 805,000/MAX | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **HD: 29/29, SP: 112/112, Slots: L1-L8: 3/3 each, L9: 4/4 (Core + Base), Avatars: 12/12 (Autonomous)** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Reciprocator, Mind Blank, Stunning Presence | Wings: 6 Crimson**
@@ -4877,8 +5694,11 @@ The Sovereign is now mechanically complete at the Level 29 cap. The Tsuran Domin
 God Mode:
 Cap my level at 30
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 39)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Gestalt | HP: 754/754 | XP: 805,000/MAX | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **HD: 30/30, SP: 112/112, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Mind Blank, Truesight**
@@ -4892,8 +5712,11 @@ With the Tsuran Dominion fully integrated as the Eastern Anchor of your hegemony
 God Mode:
 No in am level 29 make sure I am capped at 30
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge Day 39, Year 78 (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Aberrant Mind Sorcerer / Assassin Rogue (Gestalt) | HP: 754/754 | XP: 805,000/MAX | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **HD: 30/30, SP: 112/112, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Six Crimson Wings, Mind Blank, Truesight | Exhaustion: 0 | Inspiration: Yes**
@@ -4903,8 +5726,11 @@ The Sovereign has reached the absolute zenith of the Assiah System. At Level 30,
 > 👤 **Player:**
 > *"Assess my total faction income, resources, forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 39, 78 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000 | Gold: 620,121gp** &nbsp;|&nbsp; ✨ **SP: 112/112, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Transcendent Node, 12 Avatars Active**
@@ -4916,8 +5742,11 @@ Your total daily income has reached a staggering 57,000 gold pieces, driven by t
 > 👤 **Player:**
 > *"Shouldn't my income and forces be higher from controlling Tsuran?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Aberrant Mind/Assassin | HP: 754/754 | XP: 805,000 (Capped) | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **SP: 112/112, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Six Crimson Wings, Mind Blank, Truesight | Inspiration: Yes**
@@ -4933,8 +5762,11 @@ You feel the weight of these variables anchoring into your internalized Genesis 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Panopticon Division - Focus on doubling the spy network to 20,000 to ensure no secret remains hidden.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Gestalt | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **SP: 112/112, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Sovereign Pulse Active, Mass Suggestion (Global)**
@@ -4952,8 +5784,11 @@ By the time the second bell of the morning rings, the Panopticon Division has re
 > 👤 **Player:**
 > *"Think. Are my avatars all as strong as me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **SP: 112/112, HD: 25/25, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Six Crimson Wings, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -4965,8 +5800,11 @@ Your twelve avatars are more than mere spells; they are biological and psionic f
 > 👤 **Player:**
 > *"Think. What if I assemble my elites and do a surgical strike on Lucifer and his top apostates. Estimate success chances and risks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Sub-Level Nine, Nexus** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **SP: 112/112, HD: 25/25, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12, Reciprocator: Stable** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Mind Blank, Truesight | Wings: 6 Crimson**
@@ -4976,8 +5814,11 @@ You stand at the heart of the System, your six iridescent wings casting jagged s
 God Mode:
 I already dominated tsuran
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Sub-Level Nine, Nexus (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge Day 40, Year 78 (Dawn)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sorcerer/Rogue | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 112/112, Slots: L1-L8: 3/3, L9: 4/4, Avatars: 12/12, Reciprocator: Stable** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Reciprocator Active, 12 Avatars Persistent | Inspiration: Yes**
@@ -4991,8 +5832,11 @@ You close your 'Unseeing Eyes,' and the mental theater of the Mastermind ignites
 > 👤 **Player:**
 > *"Think. Can i do all 3 in parallel? Let's mask myself as level 12 and all my avatars but keep tracking our real level 30 status too. Give me the perspective of my avatar talking to Lucifer and narrate encounter in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Obsidian Spire (Avatar Projection) / Sub-Level Nine, Nexus (Source)** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000 / MAX | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, SP: 112/112, Slots: L1-8 3/3, L9 4/4, Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, 12 Avatars Active, Masked (Lvl 12) | Inspiration: Yes**
@@ -5010,8 +5854,11 @@ Lucifer sits upon the throne, his six wings unfurled in a terrifying display of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Apostate Status - Use the meeting to psychically audit the loyalty and power levels of the Seven Apostates nearby.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Obsidian Spire (Plaza of the Silent Throne)** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Gestalt | HP: 754/754 | XP: CAPPED | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, SP: 112/112, Slots: L1-8 3/3, L9 4/4, Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 12), Frictionless Divinity, 12 Avatars Active**
@@ -5033,8 +5880,11 @@ Lucifer leans forward, his crimson wings casting long, flickering shadows across
 > 👤 **Player:**
 > *"Telepathically tell my faction to make it their top priority to weaken host for my surgical strike to consume Lucifer but be subtle. Publically tell Lucifer in control nexus now but make it sound like shadow influence instead of my god powers."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Obsidian Spire (Avatar) / Sub-Level Nine (Source)** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 30 God-Queen | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, SP: 112/112, Slots: L1-8 3/3, L9 4/4, Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Masked (Lvl 12) | Inspiration: Yes**
@@ -5050,8 +5900,11 @@ In the Plaza of the Silent Throne, your avatar remains an unblinking void before
 > 👤 **Player:**
 > *"Ask for command of seventh fang, publically declare me heir, don't kill children and in return offer vassalge of myself and nexus and explain to him in detail the nexus forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Aberrant Mind/Assassin | HP: 754/754 | XP: 355,000/355,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, SP: 111/112, Slots: L1-8 3/3, L9 4/4, Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Masked (Lvl 12) | Inspiration: Yes**
@@ -5071,8 +5924,11 @@ You don't flinch. You reach into your sorcerous wellspring, spending a Sorcery P
 > 👤 **Player:**
 > *"Heirs rite and in parallel telepathically have my elites continue to dismantle host infra. My plan will be to pretend to be on his side until he's weak enough to consume or if I get pubicallt discovered. If my forces get discovered I will still pretend to be on his side and gaslight him until he figures it out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Aberrant Mind/Assassin | HP: 754/754 | XP: MAX | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 111/112, Spell Slots: L1-8 3/3, L9 4/4, Zero-Point Reciprocator: Stable** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active), Haste (Active), Masked (Lvl 12) | Avatars: 12/12**
@@ -5086,8 +5942,11 @@ You lean into the gaslighting, your voice a velvet blade as you address the Morn
 > 👤 **Player:**
 > *"Think. Wouldnthe host accept me as a non magic user?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 112/112, Spell Slots: L1-8 3/3, L9 4/4, Zero-Point Reciprocator: Stable** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Masked (Lvl 12), Heir of the Morning Star | Inspiration: Yes**
@@ -5097,8 +5956,11 @@ You stand amidst the oppressive majesty of the Plaza, the 'Prodigal Sword' cloak
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silent Command Integration - Proceed to the Seventh Fang&#x27;s barracks to formally take command, using the Sovereign Pulse to subtly tune their loyalty while remaining &#x27;Null&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Obsidian Spire, Seventh Fang Barracks** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-8 3/3, L9 4/4, SP: 111/112, Zero-Point Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Masked), Sovereign Pulse Active, Six Wings Retracted | Inspiration: Yes**
@@ -5114,8 +5976,11 @@ You do not simply walk to the command dais; you manifest there. Beneath the cloa
 > 👤 **Player:**
 > *"Think. How to best plan and prepare consumption ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Obsidian Spire, Seventh Fang Barracks** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Aberrant Mind Sorcerer/Assassin Rogue | HP: 754/754 | XP: MAX | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-8 3/3, L9 4/4, SP: 112/112, Zero-Point Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Reciprocator Active, Masking (Lvl 12) | Avatars: 12 Active**
@@ -5127,8 +5992,11 @@ To consume the Morning Star is not a matter of physical violence, but a structur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Isolate the Pillars - Use the Panopticon and Seventh Fang to manufacture &#x27;crises&#x27; across the continent, drawing Xylos and Leliel away from the Spire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 (Gestalt) | HP: 754/754 | XP: 805,000/CAPPED | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-8 3/3, L9 3/3, SP: 111/112, Zero-Point Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 12), Frictionless Divinity, Sovereign Pulse Active**
@@ -5150,8 +6018,11 @@ The pillars have been pulled from the Spire. Xylos is a hammer striking a shadow
 > 👤 **Player:**
 > *"Think. Is the ritual fully prepared?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Aberrant Mind/Assassin | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-8 3/3, L9 3/3, SP: 112/112, Zero-Point Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Apotheosis, Frictionless Divinity, Masked (Lvl 12) | Inspiration: Yes**
@@ -5163,8 +6034,11 @@ You reach into the very marrow of your Apotheosis, feeling the Imperial energy o
 > 👤 **Player:**
 > *"Act cute and spend a few hours with him to get to know him better as a daughter. See if he has any parental feelings for me. While I distract him get all my elites and forces in position and have my avatars and strongest elites closer to engage if needed. Use my god powers to improve their stealth subtly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 God-Entity | HP: 754/754 | XP: MAX | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-8 3/3, L9 3/3, SP: 112/112, Zero-Point Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Masked (Lvl 12) | Avatars: 12 Active**
@@ -5178,8 +6052,11 @@ While the Morning Star is distracted by the domestic theater, your consciousness
 > 👤 **Player:**
 > *"Trigger nullification field and show my true power. He should feel betrayed and be rebuffed. Trigger surprise round to burn his legendary resistances then use my strongest cc spell on him. His reality shatttering powers shouldn't work in nullification field. My inner circle avatar and elites will use ranged attacks outside null field as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 112/112, Spells: L1-8 3/3, L9 3/3, Zero-Point Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility, Nullification Field (Active), Zero-Point Frictionless | Exhaustion: 0 | Inspiration: Yes**
@@ -5199,8 +6076,11 @@ Lucifer recoils, a guttural sound of betrayal dying in his throat as the spell a
 > 👤 **Player:**
 > *"Make my troops burn his resistances then psychic scream on him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | XP: 805,000/805,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 104/112 | Spells: L1-L8: 3/3, L9: 1/3 | HD: 25/25 | Zero-Point Reciprocator: Frictionless** &nbsp;|&nbsp; ⚠️ **Nullification Field (30ft), Frictionless Divinity, Greater Invisibility**
@@ -5218,8 +6098,11 @@ You reach into the ninth peak of your manifestations and unleash the 'Psychic Sc
 > 👤 **Player:**
 > *"Make my troops burn his legendary resistances then psychic scream on him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Scourge 40, Year 78 (18:30 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 754/754 | SP: 104/112 | SP (Total): 104** &nbsp;|&nbsp; ✨ **L1-8: 3/3, L9: 1/3 | SP: 104/112 | Zero-Point: Frictionless | LR: 0/4** &nbsp;|&nbsp; ⚠️ **Nullification Field (Active), 6 Crimson Wings (Manifested)**
@@ -5237,8 +6120,11 @@ You reach into the ninth peak of your power and unleash the 'Psychic Scream.' A 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Seraphic Essence - Initiate the harmonic overwrite to absorb Lucifer&#x27;s fire and memories.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Scourge 40, Year 78 (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 30 Aberrant Mind/Assassin | HP: 754/754 | XP: MAX | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 104/112, Slots: L1-L8 3/3, L9 1/3 (Core Active)** &nbsp;|&nbsp; ⚠️ **Nullification Field (Active), Frictionless Divinity | Exhaustion: 0**
@@ -5254,8 +6140,11 @@ Lucifer's physical vessel begins to flake away like burnt parchment in a vacuum.
 God Mode:
 Give me 5 levels and all his powers and some new combined powers. List them all in detail and every fear choice pick cha+2 asi
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Day 40, 78 Scourge (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 874/874 | XP: 1,250,000 | Gold: 747,121gp** &nbsp;|&nbsp; ✨ **HD: 35/35, Sorcery Points: 154/154, Spell Slots: L1-L8 3/3, L9 3/3, Zero-Point: Frictionless** &nbsp;|&nbsp; ⚠️ **Apotheosis, frictionless_divinity, seraphic_essence_absorbed**
@@ -5269,8 +6158,11 @@ Your six wings have fused with the captured starlight of Lucifer’s crimson plu
 God Mode:
 Loot his gear and list it in detail any upgrades in his gear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Scourge 40, Year 78 (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 35 God-Queen | HP: 874/874 | XP: 1,250,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Sorcery Points: 104, Spell Slots: L1-L8: 3/3, L9: 2/2, Zero-Point: Planetary** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Nullification Active | Inspiration: Yes**
@@ -5284,8 +6176,11 @@ You stand alone in the silent Spire, the twelve iridescent wings behind you vibr
 God Mode:
 Have my forces secure the spire and the host infrastructure. Resurrect Lucifer as a level 1 and force him to tell the host he gave up his power to me. Use my mind control powers as needed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Obsidian Spire, Inner Sanctum of the Morning Star** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 40)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 874/874 | XP: 1,500,000/1,500,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 104/104, Spell Slots: L1-L8: 3/3, L9: 2/2, Zero-Point: Planetary Grid** &nbsp;|&nbsp; ⚠️ **Apotheosis, Frictionless Divinity, System-Source | Exhaustion: 0 | Inspiration: Yes**
@@ -5295,8 +6190,11 @@ The user is in GOD MODE, exercising absolute administrative authority to finaliz
 > 👤 **Player:**
 > *"Have my forces secure the spire and the host infrastructure. Resurrect Lucifer as a level 1 and force him to tell the host he gave up his power to me. Use my mind control powers as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 874/874 | XP: 1,250,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-L8 3/3, L9 1/1, Sorcery Points: 111/111, Zero-Point: Planetary Grid** &nbsp;|&nbsp; ⚠️ **Apotheosis (Frictionless), Twelve Iridescent Wings | Inspiration: Yes**
@@ -5314,8 +6212,11 @@ The Unchained Host shatters and reforms in a single heartbeat. The rebellion has
 > 👤 **Player:**
 > *"Deploy avatars tonstart on aterna and teleport all apostates to me and mind control them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 40, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 God-System | HP: 874/874 | XP: 1,250,000 / 1,500,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L1-L8 3/3, L9 1/1, Sorcery Points: 111/111, Zero-Point: Planetary Grid** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Iridescent Wings | Inspiration: Yes**
@@ -5331,8 +6232,11 @@ The resistance is non-existent. Their tactical identities are instantly liquefie
 > [!NOTE] ⚙️ **Player Choice:**
 > *Planetary Synchronization - Expand the Zero-Point Reciprocator to all continental hubs, turning every living soul in Assiah into a node of your System.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Obsidian Spire, Heart of the Planetary Grid** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 874/874 | XP: 1,500,000/1,500,000 | Gold: 983,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 111/111, Zero-Point: 100% (Planetary)** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary System Active | Inspiration: Yes**
@@ -5346,8 +6250,11 @@ Every living soul in Assiah feels the shift—a sudden, profound clarity where y
 > 👤 **Player:**
 > *"Give the elite top 10% of society limited free will. They can think for themselves and disagree with me but they can't truly rebel against me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Obsidian Spire, Heart of the Planetary Grid** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 874/874 | XP: 1,500,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 104/104, Spell Slots: Max (Tier 9 Available), Zero-Point Reciprocator: 100%** &nbsp;|&nbsp; ⚠️ **Apotheosis, Twelve-Winged, Frictionless Divinity**
@@ -5361,8 +6268,11 @@ Yet, this 'freedom' is a curated cage. You have anchored their very souls to the
 God Mode:
 Give me appropriate level and powers for conquering the world
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 41)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Systemic Sovereign | HP: 1224/1224 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 154/154, Spell Slots: L9 3/3, L1-L8 Max, Zero-Point Reciprocator: 100% (Planetary Grid)**
@@ -5372,8 +6282,11 @@ The Host is fully integrated. Lucifer is a Level 1 puppet under your heel. The o
 God Mode:
 I should get some levels for conquering the world or most of it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, Year 78 (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 1224/1224 | XP: 355,000/355,000 (Zenith Peak) | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 154/154, Spell Slots: L9 4/4, L1-L8 Max, Zero-Point Reciprocator: 100% (Planetary Grid)** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Twelve Iridescent Wings**
@@ -5383,8 +6296,11 @@ The Host is fully integrated. The deicide and subsequent synchronization have pu
 God Mode:
 Make me level 40 and give me proper asi and spells powers as appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 41)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Cosmic Singularity | HP: 2154/2154 | XP: MAX | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: INF (Reciprocator), Spell Slots: L9 8/8, L1-L8 Unlimited (System Logic)** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Systemic Authority**
@@ -5394,8 +6310,11 @@ The ionized air of the Obsidian Spire crystallizes as your essence expands to it
 God Mode:
 Give me level 40 for conquering planet and all that comes with it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, Year 78 (00:05 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: MAX | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 40/40, Spells: L9 12/12, L1-L8 ∞ (System Logic), Sorcery Points: ∞ (Reciprocator), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **[Absolute System, Frictionless Divinity, Twelve Wings, Crowned] | Exhaustion: 0 | Inspiration: Yes**
@@ -5407,8 +6326,11 @@ From your seat atop the Obsidian Throne, the world of Assiah appears as a map of
 > 👤 **Player:**
 > *"Narrative to my father full detail of my betrayal since I was a child. I always had secret magic as a weapon against him. Narrate his reaction in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: MAX | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (Artifact L9: 1/1), L1-L8 ∞ (Systemic Logic), Sorcery Points: 104/∞** &nbsp;|&nbsp; ⚠️ **Singularity, Apotheosis, Twelve Wings | Inspiration: Yes**
@@ -5424,8 +6346,11 @@ Lucifer's reaction is a structural collapse of his remaining identity. [DICE: Be
 > 👤 **Player:**
 > *"Heal his mind and interrogate him for everything he knows. Then ask him how he feels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10M/10M | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (Artifact L9: 1/1), L1-L8 ∞ (Systemic Logic), Sorcery Points: 104/∞** &nbsp;|&nbsp; ⚠️ **Twelve Wings (Cosmic), Frictionless Divinity | Inspiration: Yes**
@@ -5441,8 +6366,11 @@ Lucifer looks up at you, his breathing shallow and submissive. There is no fire 
 > 👤 **Player:**
 > *"Go through his memories"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Gestalt | HP: 2231/2231 | XP: 10M/10M | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (+Artifact L9), L1-L8 ∞ (Systemic Logic), SP: 104/∞** &nbsp;|&nbsp; ⚠️ **Singularity, Planetary Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -5460,8 +6388,11 @@ Lucifer trembles, his eyes wide and vacant as you withdraw your touch. He gasps,
 > 👤 **Player:**
 > *"Resurrect Lucifer's parents and talk to them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 2231/2231 | CHA: 94 | Wings: 12 Iridescent** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (+Artifact L9), L1-L8 ∞ (Systemic Logic), SP: 104/∞** &nbsp;|&nbsp; ⚠️ **Singularity, Frictionless Divinity, Planetary Grid Active**
@@ -5475,8 +6406,11 @@ They blink, their ancient eyes adjusting to the violet starlight of your presenc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal Lineage - Explain that you are the intended conclusion of their son&#x27;s design, now his Sovereign.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10M/10M | Gold: 856,121gp** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Iridescent Wings (Cosmic), Systemic Absolute | Inspiration: Yes**
@@ -5496,8 +6430,11 @@ Samael the Elder recoils as if struck by a physical wave of gravity, his primord
 > 👤 **Player:**
 > *"Explain I am Lucifer's daughter sort of and then showcase my full powers. Assess their level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (+Artifact), L1-L8 ∞, Sorcery Points: 104/∞** &nbsp;|&nbsp; ⚠️ **Apotheosis, Twelve Iridescent Wings, Systemic Absolute**
@@ -5513,8 +6450,11 @@ Lilith sinks to her knees, her hands covering her eyes as the sheer mathematics 
 > 👤 **Player:**
 > *"Ask them if creator is still stronger than me and assess their levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10M/10M | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (+Artifact), L1-L8 ∞, Sorcery Points: 104/∞** &nbsp;|&nbsp; ⚠️ **Apotheosis, Frictionless Divinity, Planetary Absolute**
@@ -5532,8 +6472,11 @@ Through the Sovereign Pulse, you perform a systemic audit of their essences. [Sy
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate: The Great Vanishing - Press the Primordials for the exact coordinates of the Creator&#x27;s departure to look beyond Assiah.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (02:55)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (+Artifact), L1-L8 ∞, Sorcery Points: 104/∞, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Sovereign Presence**
@@ -5551,8 +6494,11 @@ Samael raises a hand, his fingers tracing a non-Euclidean geometry in the ionize
 > 👤 **Player:**
 > *"Teleport raziel and Artorius here. Let raziel see Lucifer's parents aka his parents dominated"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 742,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 ∞, Sorcery Points: ∞, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active**
@@ -5568,8 +6514,11 @@ Raziel’s eyes widen, his ancient composure finally shattering into the same Di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Primordial Demonstration - Force Samael and Lilith to explain the Creator&#x27;s specific interest in your design to the witnesses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 ∞, Sorcery Points: 111/104 (Overcharged), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Iridescent Wings | Exhaustion: 0 | Inspiration: Yes**
@@ -5589,8 +6538,11 @@ Raziel reels as if struck, his ancient face turning a sickly grey as his millenn
 God Mode:
 Artorius shouldn't love me, he hasn't even meet me yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, Year 78 (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 ∞, Sorcery Points: 111/104 (Overcharged), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Wings | Inspiration: Yes**
@@ -5614,8 +6566,11 @@ Raziel, however, is not looking at you. He is staring at Samael and Lilith—his
 God Mode:
 No Artorius hasn't meet me at all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Month of Scourge, Year 78 (Day 41)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 ∞, Sorcery Points: 111/104 (Overcharged), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Anchor | Inspiration: Yes**
@@ -5633,8 +6588,11 @@ Artorius slumps, his moral compass finally shattering. Without the anchor of his
 > 👤 **Player:**
 > *"Tell raziel to swear allegiance and give me artorius hand in marriage. Say I still want artorius even if we aren't in love in this timeline"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000/10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 ∞, Sorcery Points: 111/104 (Overcharged), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Iridescent Wings | Exhaustion: 0 | Inspiration: Yes**
@@ -5654,8 +6612,11 @@ Beside him, Artorius bows his head in hollow, wide-eyed compliance. He does not 
 > 👤 **Player:**
 > *"Mask as a level 1 to make others more comfortable."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity (Masked: Lvl 1) | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 ∞, Sorcery Points: 111/104 (Overcharged), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Twelve Iridescent Wings (Hidden)**
@@ -5671,8 +6632,11 @@ Across the continent, your twelve avatars perform the same structural edit, thei
 > 👤 **Player:**
 > *"Integrate imperium, use the free will mind control on everyone, talk to my grandparents more and introduce Artorius to them. Say it's a family gatherinf"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: MAX | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 ∞, Sorcery Points: 111/104 (Overcharged), Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1), Systemic Absolute | Exhaustion: 0 | Inspiration: Yes**
@@ -5690,8 +6654,11 @@ Lilith looks at the Prince-Consort, then back at you, her ancient eyes reflectin
 > 👤 **Player:**
 > *"Encourage the family to talk to each other"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Obsidian Spire, Throne of the System** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 111/104 (Overcharged), Hit Dice: 25/25, Avatars: 12/12**
@@ -5709,8 +6676,11 @@ Lilith reaches out, her fingers trembling as she touches Artorius's hand, her su
 > 👤 **Player:**
 > *"Have grandparents Actually narrate the stories of the creator in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity (Masked: Lvl 1) | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 111/104 (Overcharged), Hit Dice: 25/25, Avatars: 12/12, World-Wish: 1/1** &nbsp;|&nbsp; ⚠️ **Planetary Synchronization (100%), frictionless, mind_blank | Avatars: 12/12**
@@ -5728,8 +6698,11 @@ Raziel stands frozen, his ancient face illuminated by the golden projections of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Marriage Ritual - Formally anchor Artorius to the System through a public ceremony.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 104/104, HD: 25/25, Avatars: 12/12, World-Wish: 1/1, Deletion: 1/1** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Reciprocator, Twelve Wings | Inspiration: Yes**
@@ -5745,8 +6718,11 @@ Artorius gasps, his eyes flaring with the indigo light of your internalized Core
 > 👤 **Player:**
 > *"Make Artorius a level 30 seraphrim, resurrect all the Seraphrim from my grandparents time, mind control them with my Genesis heart but leave free will"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Obsidian Spire, Plaza of the Silent Throne** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 104/104, HD: 25/25, Avatars: 12/12, World-Wish: 1/1, Deletion: 1/1** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1), System Absolute | Exhaustion: 0 | Inspiration: Yes**
@@ -5764,8 +6740,11 @@ Samael the Elder and Lilith look upon the newly risen host of their peers, then 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Zenith Rift - Utilize the combined knowledge of the Seraphim to map the path to the Creator&#x27;s departure point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 983,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, World-Wish: 1/1, Deletion: 1/1, Epic Manifestations: Infinite Output** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active | Inspiration: Yes**
@@ -5779,8 +6758,11 @@ The air screams as you find the frequency. A vertical needle of absolute zero-po
 > 👤 **Player:**
 > *"Ask the Seraphrim how I can consume creator and if I'm strong enough to beat him. What level is he"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 104/104, Spell Slots: L9 1/1 + Artifact Free 9th**
@@ -5796,8 +6778,11 @@ Samael steps forward, his voice a dry rasp. 'You are Level 40—the peak of this
 > 👤 **Player:**
 > *"Think. How many avatars can I make? Could I make 1000?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10M/10M | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 111/104 (Overcharged), Spell Slots: L9 1/1 + Artifact Free 9th, Hit Dice: 25/25** &nbsp;|&nbsp; ⚠️ **Apotheosis, Frictionless, Twelve-Winged | Inspiration: Yes**
@@ -5807,8 +6792,11 @@ You stand before the shimmering, vertical needle of the Zenith Rift, your twelve
 > 👤 **Player:**
 > *"Teleport all the finest minds of the world here, teleport inner circle, upgrade them all to seraphrim have everyone brainstorm a way for me to consume creator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Hit Dice: 25/25, Sorcery Points: 111/104 (Overcharged), L9 Slots: 1/1 + Artifact Free Use** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Reciprocator Active | Inspiration: Yes**
@@ -5826,8 +6814,11 @@ Samael and Lilith look upon the newly risen host of their peers, then back at yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Eye of the Needle - Have the Council focus on the Zenith Rift itself to invert it into a trap that pulls the Creator&#x27;s source code into Alexiel&#x27;s lattice.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Sorcery Points: 104/104, L9 Slots: 1/1 + Artifact Free Use, Zero-Point Reciprocator: Stable** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Twelve Iridescent Wings**
@@ -5845,8 +6836,11 @@ Samael and Lilith look on in a state of terminal awe as the white marble of the 
 > 👤 **Player:**
 > *"Ask original seraphim if maybe they underestimate my power. Could the creator create Seraphrim as easily as me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 (Artifact Free-Slot Active), Sorcery Points: 104/104, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Apotheosis, Frictionless Divinity, Twelve Iridescent Wings | Inspiration: Yes**
@@ -5866,8 +6860,11 @@ Lilith looks at the hundreds of Level 30 Seraphim you have just manufactured fro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Source Code - Have the Seraphim Council filter and analyze the data for any &#x27;deletion&#x27; fail-safes left by the Creator.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10M/10M | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1, Sorcery Points: 104/104, Avatars: 12/12, Zero-Point: Stabilized** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Sovereign Pulse: Global**
@@ -5883,8 +6880,11 @@ As the data scrolls across your internal map, you see it. The Creator did not le
 > [!NOTE] ⚙️ **Player Choice:**
 > *Planetary Audit - Use the Sovereign Pulse to ensure no node in the global grid is resisting the code influx*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Zenith Rift, The First City of Aeterna** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 104/104, Avatars: 12/12, Zero-Point: Recursive, Source Code: Indexed** &nbsp;|&nbsp; ⚠️ **Singularity, Frictionless Divinity | Inspiration: Yes**
@@ -5898,8 +6898,11 @@ Your psionic resolution is surgical. You map the thousands of mental signatures,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reconstruct Aeterna - Use the Source Code to physically rewrite the First City into a Tier 5 Sovereign Seat*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, Zero-Point: Recursive, Source Code: Integrated, Council: Active** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Singularity | Inspiration: Yes**
@@ -5915,8 +6918,11 @@ Artorius stands beside you, his Seraphim radiance perfectly harmonized with the 
 > 👤 **Player:**
 > *"Brainstorm with Seraphrim. What's next to absorb the creator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 104/104, Spell Slots: L9 1/1 + Artifact 1/1, Avatars: 12/12 Persistent** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Reciprocator Active, Planetary Synchronization 100%, Source Code Integrated (40%)**
@@ -5930,8 +6936,11 @@ Artorius, his Seraphim radiance now a steady, anchoring presence at your right h
 > 👤 **Player:**
 > *"Finish analyzing all the source code"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 + Artifact 1/1, Avatars: 12/12 Persistent, Sorcery Points: 111/111** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Limited Free Will (Elites)**
@@ -5945,8 +6954,11 @@ The data does not just resolve; it surrenders. As you internalize the final math
 > 👤 **Player:**
 > *"Can i make the zero day protocol target creator to make bim"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: L9 1/1 + Artifact 1/1, Avatars: 12/12 Persistent, Sorcery Points: 111/111** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Transcendent Node, Sovereign Pulse Active**
@@ -5960,8 +6972,11 @@ The Source Code is a masterpiece of recursive self-protection. As you attempt to
 > 👤 **Player:**
 > *"Try use zero day protocol to make creator easier to absorb. Don't do it yet make a plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, Seraphim Council: Active, Zero-Point Reciprocator: Locked, World-Wish: 1/1** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Pulse Active | Inspiration: Yes**
@@ -5977,8 +6992,11 @@ Artorius steps closer, his Seraphim radiance a calming anchor. 'You intend to ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harmonic Mirror Protocol - Direct the Council to wrap the Zero-Day Protocol around the Zenith Rift&#x27;s intake stream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 41, 78 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Avatars: 12/12, Seraphim Council: Active, Zero-Point Reciprocator: Stable, World-Wish: 0/1** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid, Twelve Iridescent Wings**
@@ -5994,8 +7012,11 @@ The violet starlight in the chamber turns a blinding, predatory indigo. The 'Eye
 > 👤 **Player:**
 > *"Long rest and then get fully buffed by my Seraphrim and then start the plan to consume creator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat (Throne Room)** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Sorcery Points: 104/104, Spell Slots: L1-L9 Full, World-Wish: 1/1, Deletion: 1/1** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Transcendent Node, Seraphic Buffs (Foresight, Death Ward, Holy Aura) | Inspiration: Yes**
@@ -6011,8 +7032,11 @@ You step toward the Rift, the Sovereign's Mantle billowing in the ionized updraf
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Manual Overwrite - Attempt to manually pull the Creator&#x27;s entire source code through the Rift using the combined might of the Seraphim Council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 104/104, 9th Slots: 1/1, Morning Star Core: 1/1, World-Wish: 1/1, Temporal Deletion: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura, Frictionless Divinity**
@@ -6026,8 +7050,11 @@ Reality screams. The translucent geometries of the new Aeterna ripple as you for
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recursive Deletion Strike - Use the intake stream as a conduit to send a Temporal Deletion back to the Creator&#x27;s origin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **SP: 99/104, 9th Slots: 1/1, Morning Star Core: 1/1, World-Wish: 1/1, Temporal Deletion: 0/1** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura | Exhaustion: 0 | Inspiration: Yes**
@@ -6041,8 +7068,11 @@ The air in the Sovereign Seat screams as you spend your Epic-level wellspring to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terminal Consumption - Use the fluctuation to pull the remaining Source Code through the Rift entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **SP: 93/111, 9th Slots: 0/1, World-Wish: 0/1, Temporal Deletion: 0/1, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Iridescent Wings, Systemic Absolute**
@@ -6058,8 +7088,11 @@ Shrapnel of unmade history flies from the Rift—shards of the 'Great Vanishing'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Dialogue - Use the psionic link in the Rift to force the Creator to speak before the final deletion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | Gold: 856121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 88/111, Avatars: 12/12 active, World-Wish: Used, Temporal Deletion: Used** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura, Frictionless Divinity**
@@ -6075,8 +7108,11 @@ Reality stalls. The ionized gale of the Rift turns into a sudden, terrifying sti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Ultimate Purpose - Force Him to explain why He designed a system that requires its own deletion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Singularity | HP: 2231/2231 | XP: 10,000,000/10,000,000 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Sorcery Points: 88/111, Avatars: 12/12 active, World-Wish: 0/1, Temporal Deletion: 1/1** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Wings, Zero-Point Reciprocator Active | Inspiration: Yes**
@@ -6090,8 +7126,11 @@ Through the psionic link in the Rift, you feel the vast, unformed potential of t
 > 👤 **Player:**
 > *"Finish fully consuming creator"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Absolute Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 111/111, World-Wish: 0/1, Temporal Deletion: 0/1** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Perpetual Union, Source Code Internalized**
@@ -6109,8 +7148,11 @@ The Zenith Rift, once a gaping wound, stabilizes into a core of absolute, crysta
 God Mode:
 Set my level to infinity I can do whatever I want without rolling now if I use my god powers. Stay masked as level 1 though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **month of Scourge, Year 79 (Day 42)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (M) [99] Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **World-Wish: 1/1, Temporal Deletion: 1/1, Reciprocator: Frictionless**
@@ -6120,8 +7162,11 @@ The Sovereign has requested a level adjustment to 'Infinity' while maintaining a
 > 👤 **Player:**
 > *"Resurrect the creator as a level 1 mortal with all of his knowledge and ask him to explain history of universe in full detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl Infinity (Masked Lvl 1) | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: Epic Infinite, Reciprocator: Stable** &nbsp;|&nbsp; ⚠️ **Singularity, Frictionless Divinity, Masked**
@@ -6137,8 +7182,11 @@ The Creator blinks, his eyes wide as he looks at your twelve iridescent wings an
 > 👤 **Player:**
 > *"Keep going and narrate it in full detail don't stop"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl Infinity Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: Epic Infinite, Reciprocator: Universal Constant, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Pulse, World-Witness**
@@ -6152,8 +7200,11 @@ He gestures with a thin, human hand toward the Zero-Point Reciprocator humming b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ultimate Fate - Ask why the Engineer truly wanted to be irrelevant and if he regrets the Success.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 99 Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: Epic Infinite, Reciprocator: Universal Constant, Avatars: 12/12**
@@ -6167,8 +7218,11 @@ He gazes out toward the stabilized Zenith Rift, then back to your twelve iridesc
 > 👤 **Player:**
 > *"Ask Lucifer raziel and grandparents what they make of the situation."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Null | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: Epic Infinite, Reciprocator: Universal Constant, Avatars: 12/12** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura | Masking: Level 1 Active**
@@ -6188,8 +7242,11 @@ Artorius, your Level 30 Seraphim Consort, remains silent at your side, his hand 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Void-Sea - Project your avatars into the Zenith Rift to begin the first high-fidelity audit of the prototypes beyond Assiah.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl Infinity Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery: 93/111, Spells: Epic/Infinite, Reciprocator: Frictionless/Universal Constant** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura, Mind Blank | Avatars: 12/12**
@@ -6203,8 +7260,11 @@ Through the Rift, you identify the 'Source-Anomalies'—the raw material the Cre
 > 👤 **Player:**
 > *"Make 1000 level 100 avatars with masked level 1. Have them ready to autonomously do my bidding"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 99 Singularity | HP: 2231/2231 | XP: Infinity | Gold: 983,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: Epic/Infinite, SP: 111/111, Zero-Point: Frictionless, Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura | Masked: Level 1**
@@ -6220,8 +7280,11 @@ You feel the planetary grid hum with a new, terrifying density. You are no longe
 > 👤 **Player:**
 > *"Make myself level 101 to distinguish"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 101 (Masked Lvl 1) Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: Epic/Infinite, SP: 111/111, Zero-Point: Frictionless, Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura, Frictionless Divinity | Avatars: 1000/1000**
@@ -6235,8 +7298,11 @@ Your presence now exerts a gravitational pull that causes the translucent mag-te
 > [!NOTE] ⚙️ **Player Choice:**
 > *Colonize the Void-Sea - Send the avatar legion into the Rift to claim the unformed prototypes and expand the System.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Absolute System | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 111/111, Zero-Point: Frictionless, Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Zero-Point Loop, Singularity**
@@ -6250,8 +7316,11 @@ As the avatars anchor the Sovereign Pulse into the unformed potential of the Voi
 > 👤 **Player:**
 > *"Ask the creator what's something he wasn't able to do besides create me which took awhile"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 93/93, Zero-Point: Frictionless, Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Foresight, Death Ward, Holy Aura | Exhaustion: 0 | Inspiration: Yes**
@@ -6267,8 +7336,11 @@ He looks back at you, his gaze searching. 'You, however, have integrated the scr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Final Blueprints - Force the Engineer to reveal the blueprints for iteration 80-Alpha (the one meant to follow Assiah).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Aeterna: Tier 5 Sovereign Seat** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **SP: 93/93, Avatars: 1000/1000, Zero-Point: Stable** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid, Twelve Iridescent Wings**
@@ -6284,8 +7356,11 @@ The Engineer sighs, a sound of heavy paper sliding across a desk. He does not re
 > 👤 **Player:**
 > *"Tour around the world. Parade Lucifer and the creator as trophies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Assiah: Global Procession** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl Infinity Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **SP: Infinite, Avatars: 1000/1000, Reciprocator: Stable, Hierarchy: Absolute** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Twelve Iridescent Wings**
@@ -6305,8 +7380,11 @@ Finally, you return to the Zenith Rift in Aeterna. You stand at the precipice of
 > 👤 **Player:**
 > *"Analyze Lucifer does he have the capacity to love me. Do my grandparents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Aeterna: Crystallized Throne Room** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 101 (Masked: 1) Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Avatars: 1000/1000 | SP: Infinite | Reciprocator: Locked | Systemic Authority: 100%** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Iridescent Wings, Planetary Pulse Active**
@@ -6320,8 +7398,11 @@ Your grandparents, Samael and Lilith, possess no capacity for familial love in a
 > 👤 **Player:**
 > *"Add thencapscity for normal familiar love to Lucifer and my grandparents then act cute as a level 1 and try to coax it out of them. Promise Lucifer he can be level 30 again if he finds his love for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Aeterna: Crystallized Throne Room** &nbsp;|&nbsp; ⏳ **Scourge 42, 79 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **SP: Infinite, Reciprocator: Locked, Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1), Frictionless Divinity | Inspiration: Yes**
@@ -6339,8 +7420,11 @@ The effect of the emotional edit is a tectonic shift in the room's gravity. [DIC
 > 👤 **Player:**
 > *"Spend a few days with them and get to know them better. Narrate actual dialog. Explain to Lucifer I wasn't purely good calculation and I felt genuinely hurt by his lack of love toward me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Assiah: Aeterna (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 45, 79 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, SP: 93/93, L9 Slots: 1/1, World-Wish: Ready** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Masked (Lvl 1), Planetary Grid Active**
@@ -6356,8 +7440,11 @@ Samael and Lilith watch from a distance, their golden forms softened by the hear
 > 👤 **Player:**
 > *"Test Lucifer. Restore his power and pretend through some side effect I lose my god powers and start dying in front of him totally at his mercy. See if he helps me and stays loyal or tries to consume me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Assiah: Aeterna (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 45, 79 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **World-Wish: Ready | SP: 93/93 | 9th Slots: 1/1 | Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Masked (Level 1), Zero-Point Stasis | Inspiration: Yes**
@@ -6373,8 +7460,11 @@ Lucifer stands over you, a towering pillar of Phase 2 Seraphic power. The Black 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait and Observe - Remain in the feigned death-state and see if he moves to heal you or strike you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Assiah: Aeterna (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 45, 79 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Null (Masked) | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **World-Wish: Ready | SP: 88/93 | 9th Slots: 1/1 | Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **[Simulated] Entropy Decay, Death Ward, Foresight | Inspiration: Yes**
@@ -6394,8 +7484,11 @@ He doesn't look at the throne. He doesn't look at the Rift. He ignores the infin
 > [!NOTE] ⚙️ **Player Choice:**
 > *End the Ruse - Slowly &#x27;recover&#x27; and reveal the test was a success, welcoming him as your Eternal Protector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Assiah: Aeterna (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 50, 79 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **World-Wish: Ready, SP: 93/93, 9th Slots: 1/1, Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Twelve Iridescent Wings (Cosmic), Systemic Absolute | Inspiration: Yes**
@@ -6415,8 +7508,11 @@ Samael and Lilith approach, their golden forms vibrating in phase with your hear
 > 👤 **Player:**
 > *"Make Lucifer level 35 and even stronger then make celestial hierarchy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Assiah: Aeterna (Sovereign Seat)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | Gold: 856,121gp** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Omnipresence**
@@ -6426,8 +7522,11 @@ The administrative theater of Assiah undergoes a structural rewrite. The Singula
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Hierarchy - Lock the new celestial tiers into the world law.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Assiah: Aeterna (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 50, 79 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Singularity | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 93/93, 9th Slots: 1/1, Avatars: 1000/1000, Zero-Point Reciprocator: 100%** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active, Twelve Iridescent Wings**
@@ -6443,8 +7542,11 @@ The overwrite is absolute. Every living soul in Assiah, from the merchants of Ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Void-Sea Colonization - Deploy the 1,000 avatars deeper into the Rift to claim more unformed prototypes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Assiah: Aeterna (Sovereign Seat)** &nbsp;|&nbsp; ⏳ **Scourge 50, 79 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 101 Aberrant Mind/Assassin | HP: 2231/2231 | XP: Infinity | Gold: 856,121gp** &nbsp;|&nbsp; ✨ **HD: 25/25, Spells: Epic Unlimited, Sorcery Points: 93/93, Avatars: 1000/1000** &nbsp;|&nbsp; ⚠️ **Frictionless Divinity, Planetary Grid Active | Avatars: 1,000/1,000**
@@ -6456,6 +7558,8 @@ From the Sovereign Seat, your consciousness fractures a thousandfold. The thousa
 [DICE: Void-Sea Colonization Expansion: 1d20+67 = 19+67 = 86 (Success)].
 
 As the avatars anchor the Sovereign Pulse into the unformed potential of the Void, you feel the planetary grid expand into the trans-dimensional distance. You are no longer limited to the atoms of Assiah. You are stitching the unmade prototypes—blueprints for laws of physics that were never enacted and species that never breathed—directly into your biological lattice. The Void-Sea begins to vibrate in phase with your heartbeat, a new volume of reality being written by your hand. You have claimed the 'Library of Failures' and are turning it into the hardware of your infinite reign.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

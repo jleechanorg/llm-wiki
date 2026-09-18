@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (162 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 
@@ -275,178 +286,183 @@ You have 6 seconds to set the narrative for the rest of the war. What do you do?
    You stand up slowly, breaking the circle of slaves. You curtsy, despite the blood on the floor. "I am Livia. My father will pay you more gold than this villa is worth. But these people... they are part of the price. Harm them, and the gold vanishes."
    * Goal: Buy him with logic. Frame this as a business transaction.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Villa del Sole - The Atrium | September 15, 73 BCE (18:05) | Roleplay |
-| **03** | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
-| **04** | Villa del Sole - Atrium | September 15, 73 BCE (18:05) | Roleplay |
-| **05** | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
-| **06** | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
-| **07** | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
-| **08** | Villa del Sole - Atrium | September 15, 73 DR (18:06) | Roleplay |
-| **09** | Villa del Sole - Atrium | September 15, 73 DR (18:07) | Social Challenge |
-| **10** | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
-| **11** | Villa del Sole - Master Bedchamber (Offscreen: The Atrium) | September 15, 73 BCE (18:15) | Roleplay |
-| **12** | Unknown | September 15, 73 DR (18:15) | Roleplay |
-| **13** | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
-| **14** | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
-| **15** | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
-| **16** | Villa del Sole - Master Bedchamber | September 15, 73 DR (18:15) | Roleplay |
-| **17** | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
-| **18** | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
-| **19** | Rebel Camp - Kitchens/Infirmary Tents | September 16, 73 BCE (08:30) | Roleplay |
-| **20** | Rebel Camp (Infirmary) | September 16, 73 BCE (09:15) | Roleplay |
-| **21** | Rebel Camp | September 16, 73 BCE (09:15) | Roleplay |
-| **22** | Rebel Camp | September 16, 73 BCE (09:15) | Roleplay |
-| **23** | Rebel Camp | September 16, 73 BCE (09:15) | Roleplay |
-| **24** | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:25) | Roleplay |
-| **25** | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:30) | Roleplay |
-| **26** | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:35) | Roleplay |
-| **27** | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:40) | Roleplay |
-| **28** | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:45) | Roleplay |
-| **29** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:30) | Roleplay |
-| **30** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:35) | Roleplay |
-| **31** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:40) | Roleplay |
-| **32** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:40) | Roleplay |
-| **33** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:45) | Roleplay |
-| **34** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:50) | Roleplay |
-| **35** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:55) | Roleplay |
-| **36** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (12:00) | Roleplay |
-| **37** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (12:05) | Roleplay |
-| **38** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (12:05) | Roleplay |
-| **39** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (13:10) | Roleplay |
-| **40** | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (13:25) | Roleplay |
-| **41** | Unknown | September 19, 73 DR (13:25) | Roleplay |
-| **42** | Lucanian Salt Mines - Overseer's Office | September 19, 73 BCE (14:10) | Roleplay |
-| **43** | Lucanian Salt Mines - Overseer's Office | September 19, 73 BCE (14:15) | Roleplay |
-| **44** | Lucanian Salt Mines - Overseer's Office | September 19, 73 BCE (14:15) | Roleplay |
-| **45** | Lucanian Salt Mines - Overseer's Office | September 20, 73 BCE (09:00) | Roleplay |
-| **46** | Lucanian Salt Mines - Courtyard | September 20, 73 BCE (09:20) | Roleplay |
-| **47** | Lucanian Salt Mines - Courtyard | September 20, 73 BCE (11:30) | Roleplay |
-| **48** | Lucanian Salt Mines - Courtyard | September 20, 73 BCE (11:35) | Roleplay |
-| **49** | Lucanian Salt Mines - Gatehouse Shade | September 20, 73 BCE (11:45) | Roleplay |
-| **50** | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
-| **51** | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
-| **52** | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
-| **53** | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
-| **54** | Lucanian Salt Mines - Overseer's Quarters | September 20, 73 BCE (14:00) | Roleplay |
-| **55** | Unknown | September 20, 73 DR (14:00) | Roleplay |
-| **56** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (09:00) | Roleplay |
-| **57** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (09:00) | Roleplay |
-| **58** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (09:30) | Roleplay |
-| **59** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (09:45) | Roleplay |
-| **60** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (10:15) | Roleplay |
-| **61** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (10:30) | Roleplay |
-| **62** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (10:45) | Social Challenge |
-| **63** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (11:15) | Social Challenge |
-| **64** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (11:30) | Roleplay |
-| **65** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (11:45) | Roleplay |
-| **66** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (12:00) | Boss Surrender |
-| **67** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (12:00) | Roleplay |
-| **68** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (12:15) | Roleplay |
-| **69** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (12:15) | Roleplay |
-| **70** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (12:45) | Roleplay |
-| **71** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:15) | Roleplay |
-| **72** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:15) | Roleplay |
-| **73** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:15) | Roleplay |
-| **74** | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:30) | Roleplay |
-| **75** | Lucanian Salt Mines - Perimeter Gate | September 21, 73 BCE (14:00) | Boss Surrender |
-| **76** | Lucanian Salt Mines - Perimeter Gate (Marching) | September 21, 73 BCE (14:15) | Roleplay |
-| **77** | Silarus Valley Foothills (Riverbed) | September 21, 73 BCE (14:45) | Roleplay |
-| **78** | Silarus Valley - Southern Ridge | September 21, 73 DR (20:00) | Roleplay |
-| **79** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (20:15) | Roleplay |
-| **80** | Silarus Valley - Granary Courtyard | September 21, 73 DR (20:30) | Boss Surrender |
-| **81** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (20:45) | Roleplay |
-| **82** | Silarus Valley - Granary Courtyard | September 21, 73 DR (21:00) | Boss Surrender |
-| **83** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:00) | Roleplay |
-| **84** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:15) | Boss Surrender |
-| **85** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:30) | Roleplay |
-| **86** | Silarus Valley - Granary Courtyard | September 21, 73 DR (21:45) | Roleplay |
-| **87** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:45) | Roleplay |
-| **88** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:45) | Roleplay |
-| **89** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (22:00) | Roleplay |
-| **90** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:45) | Roleplay |
-| **91** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (22:00) | Roleplay |
-| **92** | Silarus Valley - Granary Courtyard | September 21, 73 DR (22:30) | Roleplay |
-| **93** | Silarus Valley - Granary Courtyard | September 21, 73 DR (22:45) | Boss Surrender |
-| **94** | Silarus Valley - Granary Courtyard | September 21, 73 DR (23:05) | Roleplay |
-| **95** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (23:25) | Roleplay |
-| **96** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (23:45) | Roleplay |
-| **97** | Silarus Valley - Granary Courtyard | September 21, 73 BCE (23:45) | Roleplay |
-| **98** | Silarus Valley - Northern Ridge | September 22, 73 BCE (12:00) | Roleplay |
-| **99** | Silarus Valley - Northern Ridge | September 22, 73 BCE (12:15) | Roleplay |
-| **100** | Silarus Valley - Northern Ridge | September 22, 73 BCE (13:00) | Roleplay |
-| **101** | Silarus Valley - Northern Ridge | September 23, 73 BCE (00:00) | Roleplay |
-| **102** | Claudian Safe House - Capua Outskirts | September 23, 73 DR (06:00) | Roleplay |
-| **103** | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (06:20) | Social Challenge |
-| **104** | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (06:40) | Social Challenge |
-| **105** | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (07:00) | Roleplay |
-| **106** | Claudian Safe House - Capua Outskirts | September 23, 73 DR (07:15) | Roleplay |
-| **107** | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (07:30) | Boss Surrender |
-| **108** | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (07:45) | Boss Surrender |
-| **109** | Claudian Safe House - Capua Outskirts | September 23, 73 DR (08:00) | Roleplay |
-| **110** | Rebel Vanguard Camp - Silarus Valley | December 23, 73 BCE (08:30) | Roleplay |
-| **111** | Rebel Vanguard Camp - Silarus Valley | December 23, 73 DR (09:00) | Roleplay |
-| **112** | Claudian Safe House - Capua Outskirts | December 23, 73 BCE (09:15) | Roleplay |
-| **113** | Claudian Safe House - Capua Outskirts | December 23, 73 BCE (09:30) | Roleplay |
-| **114** | Claudian Safe House - Capua Outskirts | March 15, 74 BCE (09:30) | Roleplay |
-| **115** | Claudian Safe House - Capua Outskirts | January 27, 74 DR (10:00) | Roleplay |
-| **116** | Claudian Safe House - Capua Outskirts | January 27, 74 BCE (10:15) | Roleplay |
-| **117** | Nola Valley - Tactical Overlook | January 27, 74 January (12:30) | Roleplay |
-| **118** | Claudian Safe House - Capua Outskirts | January 27, 74 DR (14:00) | Roleplay |
-| **119** | Claudian Safe House - Interrogation Cellars | January 27, 74 DR (14:15) | Social Challenge |
-| **120** | Claudian Safe House - Interrogation Cellars | 74 January 27, 14:30:00 | Roleplay |
-| **121** | Claudian Safe House - Interrogation Cellars | January 27, 74 DR (14:45) | Roleplay |
-| **122** | Claudian Safe House - Interrogation Cellars | Day 27, 74 January (14:45) | Roleplay |
-| **123** | Claudian Safe House - Interrogation Cellars | January 27, 74 BCE (15:00) | Roleplay |
-| **124** | Claudian Safe House - Interrogation Cellars | Day 27, 74 January (15:00) | Roleplay |
-| **125** | Silarus Riverbed - Southern Transit | January 27, 74 DR (15:15) | Roleplay |
-| **126** | Lucanian Foothills - Hidden Grotto | January 27, 74 BCE (15:30) | Roleplay |
-| **127** | Lucanian Foothills - Hidden Grotto | January 27, 74 BCE (15:45) | Social Challenge |
-| **128** | Lucanian Foothills - Hidden Grotto | January 27, 74 BCE (16:00) | Social Challenge |
-| **129** | Lucanian Foothills - Hidden Grotto | January 27, 74 DR (16:15) | Boss Surrender |
-| **130** | Lucanian Foothills - Hidden Grotto | January 27, 74 DR (16:30) | Roleplay |
-| **131** | Lucanian Foothills - Rebel Main Camp | January 27, 74 DR (17:00) | Roleplay |
-| **132** | Lucanian Foothills - Rebel Main Camp | January 27, 74 BCE (17:30) | Roleplay |
-| **133** | Nola - Administrative Forum | January 27, 74 DR (18:45) | Roleplay |
-| **134** | Nola - Administrative Forum | January 27, 74 January (18:45) | Roleplay |
-| **135** | Nola - Administrative Forum | January 27, 74 BCE (19:00) | Roleplay |
-| **136** | Nola - Administrative Forum | January 27, 74 DR (19:00) | Roleplay |
-| **137** | Nola - Administrative Forum | January 27, 74 BCE (19:15) | Roleplay |
-| **138** | Nola - Administrative Forum / Roman Command Outpost | January 27, 74 BCE (20:00) | Roleplay |
-| **139** | Roman Southern Command Outpost - General's Pavilion | January 27, 74 DR (20:15) | Social Challenge |
-| **140** | Unknown | January 27, 74 DR (20:15) | Roleplay |
-| **141** | Roman Southern Command Outpost - General's Pavilion | January 27, 74 AD (20:15) | Roleplay |
-| **142** | Pompey's Flagship - 'The Neptune' (Off the Lucanian Coast) | January 27, 74 BCE (20:30) | Roleplay |
-| **143** | Pompey's Flagship - 'The Neptune' | January 27, 74 January (20:45) | Roleplay |
-| **144** | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:00) | Boss Surrender |
-| **145** | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:15) | Roleplay |
-| **146** | Pompey's Flagship - 'The Neptune' | January 27, 74 January (21:30) | Roleplay |
-| **147** | Pompey's Flagship - 'The Neptune' | January 27, 74 DR (21:30) | Roleplay |
-| **148** | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:45) | Boss Surrender |
-| **149** | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:45) | Roleplay |
-| **150** | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (22:00) | Roleplay |
-| **151** | Crassus's Command Pavilion - Southern Italy | January 28, 74 DR (06:15) | Roleplay |
-| **152** | Crassus's Command Pavilion - Southern Italy | January 28, 74 BCE (06:45) | Roleplay |
-| **153** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (07:15) | Roleplay |
-| **154** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (07:30) | Roleplay |
-| **155** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (07:45) | Social Challenge |
-| **156** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:00) | Roleplay |
-| **157** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:15) | Roleplay |
-| **158** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:30) | Boss Surrender |
-| **159** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:30) | Roleplay |
-| **160** | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:45) | Roleplay |
-| **161** | Capua - The Appian Gate | January 28, 74 DR (09:00) | Roleplay |
-| **162** | Capua - The Appian Gate | January 28, 74 Year (09:15) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Villa del Sole - The Atrium | September 15, 73 BCE (18:05) | Roleplay |
+| [**Scene 03**](#scene-3) | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
+| [**Scene 04**](#scene-4) | Villa del Sole - Atrium | September 15, 73 BCE (18:05) | Roleplay |
+| [**Scene 05**](#scene-5) | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
+| [**Scene 06**](#scene-6) | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
+| [**Scene 07**](#scene-7) | Villa del Sole - Atrium | September 15, 73 BCE (18:06) | Roleplay |
+| [**Scene 08**](#scene-8) | Villa del Sole - Atrium | September 15, 73 DR (18:06) | Roleplay |
+| [**Scene 09**](#scene-9) | Villa del Sole - Atrium | September 15, 73 DR (18:07) | Social Challenge |
+| [**Scene 10**](#scene-10) | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
+| [**Scene 11**](#scene-11) | Villa del Sole - Master Bedchamber (Offscreen: The Atrium) | September 15, 73 BCE (18:15) | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown | September 15, 73 DR (18:15) | Roleplay |
+| [**Scene 13**](#scene-13) | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
+| [**Scene 14**](#scene-14) | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
+| [**Scene 16**](#scene-16) | Villa del Sole - Master Bedchamber | September 15, 73 DR (18:15) | Roleplay |
+| [**Scene 17**](#scene-17) | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
+| [**Scene 18**](#scene-18) | Villa del Sole - Master Bedchamber | September 15, 73 BCE (18:15) | Roleplay |
+| [**Scene 19**](#scene-19) | Rebel Camp - Kitchens/Infirmary Tents | September 16, 73 BCE (08:30) | Roleplay |
+| [**Scene 20**](#scene-20) | Rebel Camp (Infirmary) | September 16, 73 BCE (09:15) | Roleplay |
+| [**Scene 21**](#scene-21) | Rebel Camp | September 16, 73 BCE (09:15) | Roleplay |
+| [**Scene 22**](#scene-22) | Rebel Camp | September 16, 73 BCE (09:15) | Roleplay |
+| [**Scene 23**](#scene-23) | Rebel Camp | September 16, 73 BCE (09:15) | Roleplay |
+| [**Scene 24**](#scene-24) | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:25) | Roleplay |
+| [**Scene 25**](#scene-25) | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:30) | Roleplay |
+| [**Scene 26**](#scene-26) | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:35) | Roleplay |
+| [**Scene 27**](#scene-27) | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:40) | Roleplay |
+| [**Scene 28**](#scene-28) | Rebel Camp - Infirmary Tent | September 16, 73 BCE (09:45) | Roleplay |
+| [**Scene 29**](#scene-29) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:30) | Roleplay |
+| [**Scene 30**](#scene-30) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:35) | Roleplay |
+| [**Scene 31**](#scene-31) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:40) | Roleplay |
+| [**Scene 32**](#scene-32) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:40) | Roleplay |
+| [**Scene 33**](#scene-33) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:45) | Roleplay |
+| [**Scene 34**](#scene-34) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:50) | Roleplay |
+| [**Scene 35**](#scene-35) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (11:55) | Roleplay |
+| [**Scene 36**](#scene-36) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (12:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (12:05) | Roleplay |
+| [**Scene 38**](#scene-38) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (12:05) | Roleplay |
+| [**Scene 39**](#scene-39) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (13:10) | Roleplay |
+| [**Scene 40**](#scene-40) | Lucanian Salt Mines - Perimeter Gate | September 19, 73 BCE (13:25) | Roleplay |
+| [**Scene 41**](#scene-41) | Unknown | September 19, 73 DR (13:25) | Roleplay |
+| [**Scene 42**](#scene-42) | Lucanian Salt Mines - Overseer's Office | September 19, 73 BCE (14:10) | Roleplay |
+| [**Scene 43**](#scene-43) | Lucanian Salt Mines - Overseer's Office | September 19, 73 BCE (14:15) | Roleplay |
+| [**Scene 44**](#scene-44) | Lucanian Salt Mines - Overseer's Office | September 19, 73 BCE (14:15) | Roleplay |
+| [**Scene 45**](#scene-45) | Lucanian Salt Mines - Overseer's Office | September 20, 73 BCE (09:00) | Roleplay |
+| [**Scene 46**](#scene-46) | Lucanian Salt Mines - Courtyard | September 20, 73 BCE (09:20) | Roleplay |
+| [**Scene 47**](#scene-47) | Lucanian Salt Mines - Courtyard | September 20, 73 BCE (11:30) | Roleplay |
+| [**Scene 48**](#scene-48) | Lucanian Salt Mines - Courtyard | September 20, 73 BCE (11:35) | Roleplay |
+| [**Scene 49**](#scene-49) | Lucanian Salt Mines - Gatehouse Shade | September 20, 73 BCE (11:45) | Roleplay |
+| [**Scene 50**](#scene-50) | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
+| [**Scene 51**](#scene-51) | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
+| [**Scene 52**](#scene-52) | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
+| [**Scene 53**](#scene-53) | Lucanian Salt Mines - Gatehouse Shadow | September 20, 73 BCE (11:55) | Roleplay |
+| [**Scene 54**](#scene-54) | Lucanian Salt Mines - Overseer's Quarters | September 20, 73 BCE (14:00) | Roleplay |
+| [**Scene 55**](#scene-55) | Unknown | September 20, 73 DR (14:00) | Roleplay |
+| [**Scene 56**](#scene-56) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (09:00) | Roleplay |
+| [**Scene 57**](#scene-57) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (09:00) | Roleplay |
+| [**Scene 58**](#scene-58) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (09:30) | Roleplay |
+| [**Scene 59**](#scene-59) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (09:45) | Roleplay |
+| [**Scene 60**](#scene-60) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (10:15) | Roleplay |
+| [**Scene 61**](#scene-61) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (10:30) | Roleplay |
+| [**Scene 62**](#scene-62) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (10:45) | Social Challenge |
+| [**Scene 63**](#scene-63) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (11:15) | Social Challenge |
+| [**Scene 64**](#scene-64) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (11:30) | Roleplay |
+| [**Scene 65**](#scene-65) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (11:45) | Roleplay |
+| [**Scene 66**](#scene-66) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (12:00) | Boss Surrender |
+| [**Scene 67**](#scene-67) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (12:00) | Roleplay |
+| [**Scene 68**](#scene-68) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 DR (12:15) | Roleplay |
+| [**Scene 69**](#scene-69) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (12:15) | Roleplay |
+| [**Scene 70**](#scene-70) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (12:45) | Roleplay |
+| [**Scene 71**](#scene-71) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:15) | Roleplay |
+| [**Scene 72**](#scene-72) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:15) | Roleplay |
+| [**Scene 73**](#scene-73) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:15) | Roleplay |
+| [**Scene 74**](#scene-74) | Lucanian Salt Mines - Overseer's Quarters | September 21, 73 BCE (13:30) | Roleplay |
+| [**Scene 75**](#scene-75) | Lucanian Salt Mines - Perimeter Gate | September 21, 73 BCE (14:00) | Boss Surrender |
+| [**Scene 76**](#scene-76) | Lucanian Salt Mines - Perimeter Gate (Marching) | September 21, 73 BCE (14:15) | Roleplay |
+| [**Scene 77**](#scene-77) | Silarus Valley Foothills (Riverbed) | September 21, 73 BCE (14:45) | Roleplay |
+| [**Scene 78**](#scene-78) | Silarus Valley - Southern Ridge | September 21, 73 DR (20:00) | Roleplay |
+| [**Scene 79**](#scene-79) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (20:15) | Roleplay |
+| [**Scene 80**](#scene-80) | Silarus Valley - Granary Courtyard | September 21, 73 DR (20:30) | Boss Surrender |
+| [**Scene 81**](#scene-81) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (20:45) | Roleplay |
+| [**Scene 82**](#scene-82) | Silarus Valley - Granary Courtyard | September 21, 73 DR (21:00) | Boss Surrender |
+| [**Scene 83**](#scene-83) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:00) | Roleplay |
+| [**Scene 84**](#scene-84) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:15) | Boss Surrender |
+| [**Scene 85**](#scene-85) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:30) | Roleplay |
+| [**Scene 86**](#scene-86) | Silarus Valley - Granary Courtyard | September 21, 73 DR (21:45) | Roleplay |
+| [**Scene 87**](#scene-87) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:45) | Roleplay |
+| [**Scene 88**](#scene-88) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:45) | Roleplay |
+| [**Scene 89**](#scene-89) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (22:00) | Roleplay |
+| [**Scene 90**](#scene-90) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (21:45) | Roleplay |
+| [**Scene 91**](#scene-91) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (22:00) | Roleplay |
+| [**Scene 92**](#scene-92) | Silarus Valley - Granary Courtyard | September 21, 73 DR (22:30) | Roleplay |
+| [**Scene 93**](#scene-93) | Silarus Valley - Granary Courtyard | September 21, 73 DR (22:45) | Boss Surrender |
+| [**Scene 94**](#scene-94) | Silarus Valley - Granary Courtyard | September 21, 73 DR (23:05) | Roleplay |
+| [**Scene 95**](#scene-95) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (23:25) | Roleplay |
+| [**Scene 96**](#scene-96) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (23:45) | Roleplay |
+| [**Scene 97**](#scene-97) | Silarus Valley - Granary Courtyard | September 21, 73 BCE (23:45) | Roleplay |
+| [**Scene 98**](#scene-98) | Silarus Valley - Northern Ridge | September 22, 73 BCE (12:00) | Roleplay |
+| [**Scene 99**](#scene-99) | Silarus Valley - Northern Ridge | September 22, 73 BCE (12:15) | Roleplay |
+| [**Scene 100**](#scene-100) | Silarus Valley - Northern Ridge | September 22, 73 BCE (13:00) | Roleplay |
+| [**Scene 101**](#scene-101) | Silarus Valley - Northern Ridge | September 23, 73 BCE (00:00) | Roleplay |
+| [**Scene 102**](#scene-102) | Claudian Safe House - Capua Outskirts | September 23, 73 DR (06:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (06:20) | Social Challenge |
+| [**Scene 104**](#scene-104) | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (06:40) | Social Challenge |
+| [**Scene 105**](#scene-105) | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (07:00) | Roleplay |
+| [**Scene 106**](#scene-106) | Claudian Safe House - Capua Outskirts | September 23, 73 DR (07:15) | Roleplay |
+| [**Scene 107**](#scene-107) | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (07:30) | Boss Surrender |
+| [**Scene 108**](#scene-108) | Claudian Safe House - Capua Outskirts | September 23, 73 BCE (07:45) | Boss Surrender |
+| [**Scene 109**](#scene-109) | Claudian Safe House - Capua Outskirts | September 23, 73 DR (08:00) | Roleplay |
+| [**Scene 110**](#scene-110) | Rebel Vanguard Camp - Silarus Valley | December 23, 73 BCE (08:30) | Roleplay |
+| [**Scene 111**](#scene-111) | Rebel Vanguard Camp - Silarus Valley | December 23, 73 DR (09:00) | Roleplay |
+| [**Scene 112**](#scene-112) | Claudian Safe House - Capua Outskirts | December 23, 73 BCE (09:15) | Roleplay |
+| [**Scene 113**](#scene-113) | Claudian Safe House - Capua Outskirts | December 23, 73 BCE (09:30) | Roleplay |
+| [**Scene 114**](#scene-114) | Claudian Safe House - Capua Outskirts | March 15, 74 BCE (09:30) | Roleplay |
+| [**Scene 115**](#scene-115) | Claudian Safe House - Capua Outskirts | January 27, 74 DR (10:00) | Roleplay |
+| [**Scene 116**](#scene-116) | Claudian Safe House - Capua Outskirts | January 27, 74 BCE (10:15) | Roleplay |
+| [**Scene 117**](#scene-117) | Nola Valley - Tactical Overlook | January 27, 74 January (12:30) | Roleplay |
+| [**Scene 118**](#scene-118) | Claudian Safe House - Capua Outskirts | January 27, 74 DR (14:00) | Roleplay |
+| [**Scene 119**](#scene-119) | Claudian Safe House - Interrogation Cellars | January 27, 74 DR (14:15) | Social Challenge |
+| [**Scene 120**](#scene-120) | Claudian Safe House - Interrogation Cellars | 74 January 27, 14:30:00 | Roleplay |
+| [**Scene 121**](#scene-121) | Claudian Safe House - Interrogation Cellars | January 27, 74 DR (14:45) | Roleplay |
+| [**Scene 122**](#scene-122) | Claudian Safe House - Interrogation Cellars | Day 27, 74 January (14:45) | Roleplay |
+| [**Scene 123**](#scene-123) | Claudian Safe House - Interrogation Cellars | January 27, 74 BCE (15:00) | Roleplay |
+| [**Scene 124**](#scene-124) | Claudian Safe House - Interrogation Cellars | Day 27, 74 January (15:00) | Roleplay |
+| [**Scene 125**](#scene-125) | Silarus Riverbed - Southern Transit | January 27, 74 DR (15:15) | Roleplay |
+| [**Scene 126**](#scene-126) | Lucanian Foothills - Hidden Grotto | January 27, 74 BCE (15:30) | Roleplay |
+| [**Scene 127**](#scene-127) | Lucanian Foothills - Hidden Grotto | January 27, 74 BCE (15:45) | Social Challenge |
+| [**Scene 128**](#scene-128) | Lucanian Foothills - Hidden Grotto | January 27, 74 BCE (16:00) | Social Challenge |
+| [**Scene 129**](#scene-129) | Lucanian Foothills - Hidden Grotto | January 27, 74 DR (16:15) | Boss Surrender |
+| [**Scene 130**](#scene-130) | Lucanian Foothills - Hidden Grotto | January 27, 74 DR (16:30) | Roleplay |
+| [**Scene 131**](#scene-131) | Lucanian Foothills - Rebel Main Camp | January 27, 74 DR (17:00) | Roleplay |
+| [**Scene 132**](#scene-132) | Lucanian Foothills - Rebel Main Camp | January 27, 74 BCE (17:30) | Roleplay |
+| [**Scene 133**](#scene-133) | Nola - Administrative Forum | January 27, 74 DR (18:45) | Roleplay |
+| [**Scene 134**](#scene-134) | Nola - Administrative Forum | January 27, 74 January (18:45) | Roleplay |
+| [**Scene 135**](#scene-135) | Nola - Administrative Forum | January 27, 74 BCE (19:00) | Roleplay |
+| [**Scene 136**](#scene-136) | Nola - Administrative Forum | January 27, 74 DR (19:00) | Roleplay |
+| [**Scene 137**](#scene-137) | Nola - Administrative Forum | January 27, 74 BCE (19:15) | Roleplay |
+| [**Scene 138**](#scene-138) | Nola - Administrative Forum / Roman Command Outpost | January 27, 74 BCE (20:00) | Roleplay |
+| [**Scene 139**](#scene-139) | Roman Southern Command Outpost - General's Pavilion | January 27, 74 DR (20:15) | Social Challenge |
+| [**Scene 140**](#scene-140) | Unknown | January 27, 74 DR (20:15) | Roleplay |
+| [**Scene 141**](#scene-141) | Roman Southern Command Outpost - General's Pavilion | January 27, 74 AD (20:15) | Roleplay |
+| [**Scene 142**](#scene-142) | Pompey's Flagship - 'The Neptune' (Off the Lucanian Coast) | January 27, 74 BCE (20:30) | Roleplay |
+| [**Scene 143**](#scene-143) | Pompey's Flagship - 'The Neptune' | January 27, 74 January (20:45) | Roleplay |
+| [**Scene 144**](#scene-144) | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:00) | Boss Surrender |
+| [**Scene 145**](#scene-145) | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:15) | Roleplay |
+| [**Scene 146**](#scene-146) | Pompey's Flagship - 'The Neptune' | January 27, 74 January (21:30) | Roleplay |
+| [**Scene 147**](#scene-147) | Pompey's Flagship - 'The Neptune' | January 27, 74 DR (21:30) | Roleplay |
+| [**Scene 148**](#scene-148) | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:45) | Boss Surrender |
+| [**Scene 149**](#scene-149) | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (21:45) | Roleplay |
+| [**Scene 150**](#scene-150) | Pompey's Flagship - 'The Neptune' | January 27, 74 BCE (22:00) | Roleplay |
+| [**Scene 151**](#scene-151) | Crassus's Command Pavilion - Southern Italy | January 28, 74 DR (06:15) | Roleplay |
+| [**Scene 152**](#scene-152) | Crassus's Command Pavilion - Southern Italy | January 28, 74 BCE (06:45) | Roleplay |
+| [**Scene 153**](#scene-153) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (07:15) | Roleplay |
+| [**Scene 154**](#scene-154) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (07:30) | Roleplay |
+| [**Scene 155**](#scene-155) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (07:45) | Social Challenge |
+| [**Scene 156**](#scene-156) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:00) | Roleplay |
+| [**Scene 157**](#scene-157) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:15) | Roleplay |
+| [**Scene 158**](#scene-158) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:30) | Boss Surrender |
+| [**Scene 159**](#scene-159) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:30) | Roleplay |
+| [**Scene 160**](#scene-160) | The Oracles' Grotto - Phlegraean Fields | January 28, 74 DR (08:45) | Roleplay |
+| [**Scene 161**](#scene-161) | Capua - The Appian Gate | January 28, 74 DR (09:00) | Roleplay |
+| [**Scene 162**](#scene-162) | Capua - The Appian Gate | January 28, 74 Year (09:15) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin Gestalt)** &nbsp;|&nbsp; ✨ **None**
@@ -464,8 +480,11 @@ Time is currently frozen. Before we ignite the fires of the rebellion, please re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Start Adventure - Confirm your character and begin the scene in the Atrium.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Villa del Sole - The Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 0gp (500 Diamonds Hidden)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Masked (Livia) | Inspiration: No**
@@ -485,8 +504,11 @@ You let your head bow, a submissive 'Livia' hiding the sharp, golden glint of Ga
 > 👤 **Player:**
 > *"Redo the scene from the beginning when they enter and narrate it in detail with dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Villa del Sole - Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:06)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 0 (Hidden: 500 Diamonds)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5**
@@ -508,8 +530,11 @@ Spartacus’s jaw tightens. You can see the hooks of your performance sinking in
 God Mode:
 Start the scene from the beginning and let me choose my reply don't pick benevolent mother for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Villa del Sole - Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 0gp (500 Diamonds)**
@@ -524,8 +549,11 @@ The strategic layer has been initialized. While you currently hold no territory 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Atrium - Resume the scene. Spartacus stands before you, blade lowered, waiting for your first words.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Villa del Sole - Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:06)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 0gp (Hidden: 500 Diamonds)**
@@ -547,8 +575,11 @@ He stands there, a pillar of weary granite amidst the flame, waiting for your fi
 God Mode:
 Let's make me extremely beautiful even more than the slaves. Weave it into narrative but don't make it overpowering
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Villa del Sole - Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:06)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 0gp**
@@ -562,8 +593,11 @@ State modification successful. Your physical presence has been elevated to a tra
 > 👤 **Player:**
 > *"Act afraid for my life but tell my slaves to stand down. Say there's no use in dying pointlessly and to live. Say I am at the mercy of the attacks to do whatever they want with me, implying they might rape me, which helps increase the guilt of spartacus and crisis with the implication"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Villa del Sole - Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:06)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds hidden)**
@@ -581,8 +615,11 @@ The implication hangs in the air like a poisonous fog. You can see the shift in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain the Sobbing Mess - Remain on your knees, weeping silently as they decide your fate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Villa del Sole - Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 DR (18:06)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds Hidden)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Inspiration: 5/5**
@@ -602,8 +639,11 @@ Kael and Elara move instantly, their hands shaking as they lift you. You let you
 > 👤 **Player:**
 > *"Thank spartacus and apologize to crixus on behalf of all Romans. Say if he later takes his vengeance it will be just. This should make crixus and spartacus feel ridiculous that a 16 year old is responsible for all Romans further making it clear their initial instinct to kill me is immoral"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Villa del Sole - Atrium** &nbsp;|&nbsp; ⏳ **September 15, 73 DR (18:07)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100000/120000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 5/5**
@@ -635,8 +675,11 @@ The words hit like a physical blow. You watch the ripple of discomfort cross Spa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Escort - Permit Kael and Elara to carry you to the master bedchamber, maintaining the facade of total physical collapse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Villa del Sole - Master Bedchamber** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds hidden)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 5/5**
@@ -654,8 +697,11 @@ Elara and Kael lay you gently upon the massive cedar bed. The Thracian guards ta
 > 👤 **Player:**
 > *"Narrate spartacus and crixus wondering what Tod on with my offscreen where I can't hear. They don't want to kill me but I've seen too much and they can't just let me go"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Villa del Sole - Master Bedchamber (Offscreen: The Atrium)** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds)**
@@ -673,8 +719,11 @@ Crixus lets out a guttural sound of disgust, but he does not challenge the Thrac
 God Mode:
 Redo this scene remember no one knows who I am. Save that in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 15, 73 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin Gestalt)** &nbsp;|&nbsp; ✨ **None**
@@ -686,8 +735,11 @@ I have synchronized your Faction Power and Ranking data. While you currently sta
 God Mode:
 Stop talking about faction. Also it's not 100% people can discover my identity if they do a series of rolls (maybe if I fail 3 deception checks) but for anyone who hasn't met me before they don't know who I am
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Villa del Sole - Master Bedchamber** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Ring of Mind Shielding (Invisible), Masquerade Active | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -705,8 +757,11 @@ The world remains paused at 18:15:02 inside the Master Bedchamber. Elara and Kae
 God Mode:
 No if I roll poorly on a deception check or if they roll well on insight they can eventually discover but it should be hard and take multiple rolls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Villa del Sole - Master Bedchamber** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **The Masquerade (Active) | Exhaustion: 0 | Inspiration: 5/5**
@@ -723,8 +778,11 @@ I have also synchronized your faction data: You are currently **UNRANKED** with 
 God Mode:
 Insight check needs to beat a DC bashed on my deception rolls with all my bonuses and modifiers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Villa del Sole - Master Bedchamber** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds)**
@@ -753,8 +811,11 @@ I have resolved the contested Insight checks for the rebel leadership using your
 > 👤 **Player:**
 > *"Return to story with spartacus and crocus discussion and they don't know my identity they just think I'm a Roman noble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Villa del Sole - Master Bedchamber** &nbsp;|&nbsp; ⏳ **September 15, 73 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 5/5**
@@ -770,8 +831,11 @@ Crixus snarls, his curved sica blade biting into the wood of a nearby table, but
 > 👤 **Player:**
 > *"Let's assume I gave Elara orders to negotiate with them but Elara will act like it was her idea. She enters the scene. She says that she empathizes with their hatred for the Romans but she's raised me since I was a baby (make Elara older) and I'm a good person. I'm like a daughter to her. Elara will say that she and the petals will help them with logistics even if they can't fight and that I agreed to help with chores etc too. However if the rebellion fails spartacus and crixusmust allow the petals to take me to safety. If the rebellion is going on we will help them in a non combat way but the petals refuse to let me be in danger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Villa del Sole - Master Bedchamber** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 5/5**
@@ -791,8 +855,11 @@ Spartacus looks from the 'mother' to the 'daughter' lying broken on the silk. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Labor Role - Nod weakly and offer to begin chores immediately, reinforcing the &#x27;Redeemed Noble&#x27; facade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Villa del Sole - Master Bedchamber** &nbsp;|&nbsp; ⏳ **September 15, 73 BCE (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 5/5**
@@ -810,8 +877,11 @@ As the heavy door thuds shut and the iron bolt slides home, the 'Livia' mask rem
 > 👤 **Player:**
 > *"Long rest and start doing chores the  next day. Since I am a level 12 I am excellent at them. Everyone should be impressed. I'm probably the best Roman noble they've ever seen at chores just as good as my slaves. I have medical knowledge and help wounded rebels a lot and they are grateful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Rebel Camp - Kitchens/Infirmary Tents** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Gestalt) | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5**
@@ -829,8 +899,11 @@ When the morning heat begins to rise, you transition to the infirmary tents. Her
 God Mode:
 Let's make it just like the tv show circus is looking for naevia
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Rebel Camp (Infirmary)** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin) | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp**
@@ -846,8 +919,11 @@ Nearby, Elara catches your eye. She is sorting herbs, but her posture is a silen
 God Mode:
 Is this roll right? I have 18 int. Let's give me medicine expertise and reroll 1d20+3 = 6 vs DC 15 - Failure (Medicine (Healing Rebels))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Rebel Camp** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin) | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **The Masquerade (Active) | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -865,8 +941,11 @@ State corrections and mechanical overrides successfully applied.
 God Mode:
 Make my cha 18 and int 18 and dex 16 and wisdom 12 and str 8 and cons 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Rebel Camp** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin Gestalt) | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **The Masquerade (Gaia Julia Caesar identity hidden) | Exhaustion: 0**
@@ -890,8 +969,11 @@ Attribute overhaul complete and faction state synchronized. I have updated both 
 God Mode:
 Wait make my cha 22 and int 20. Assume I took asi 2 times in cha and once in int.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Rebel Camp** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin) | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -917,8 +999,11 @@ The world remains paused in the infirmary tent as Crixus looks to you for hope r
 > 👤 **Player:**
 > *"Let's respond to crixus and try to cheer him up and say people can survive the mines. Then say perhaps I can help as a noble? If we go to the mines perhaps i distract with my status if they attempt a rescue but act scared and say if things go south they can't let me get killed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Rebel Camp - Infirmary Tent** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **The Masquerade (Active) | Inspiration: 5/5**
@@ -936,8 +1021,11 @@ Crixus stares at you, the scrap of lace trembling in his hand. The idea of a Rom
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask about the Mine&#x27;s Location - Gently probe for the specific location of the mines to begin tactical planning.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Rebel Camp - Infirmary Tent** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100000/120000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Invisible Ring of Mind Shielding | Exhaustion: 0 | Inspiration: No**
@@ -955,8 +1043,11 @@ He looks at you with a desperate, newfound intensity. The suspicion that once de
 > 👤 **Player:**
 > *"Let's have my petals and spartacus overhear. Elara and the petals attempt to forbid it. Spartacus is astounded"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Rebel Camp - Infirmary Tent** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12**
@@ -978,8 +1069,11 @@ Crixus looks between you and his commander, his chest heaving. The idea that thi
 > 👤 **Player:**
 > *"Convince spartacus and the petals. Ask spartacus if he truly offers freedom? If so isn't it my choice? However explain I am not that brave. Perhaps spartacus can accompany me and rush me to safety if something goes wrong and crixus can do the rescue. I understand that ideally both spartacus and crixus would do the rescue but I am afraid and want one of the strongest warriors to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Rebel Camp - Infirmary Tent** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ⚠️ **Invisible Ring of Mind Shielding | Inspiration: Yes**
@@ -1001,8 +1095,11 @@ Spartacus exhales, a sound of profound surrender. "Fine. If this is the path you
 > 👤 **Player:**
 > *"Explain my choice. Say I understand the risk they take by letting me live and my honor would see Naevia freed. They should also notice i remember the name of a slave"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Rebel Camp - Infirmary Tent** &nbsp;|&nbsp; ⏳ **September 16, 73 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100000/120000 | Gold: 10gp (500 Diamonds hidden)** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12**
@@ -1018,8 +1115,11 @@ The silence that follows is absolute. The fact that a Roman noble remembers the 
 > 👤 **Player:**
 > *"Long rest and then time skip to the mines deception scene. Assume I've continued to do chores and provide medical relief building up more trust"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12**
@@ -1037,8 +1137,11 @@ The guard looks at his companion, then back at you, his jaw dropping. Behind the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escalate the Outrage - Demand to speak to the head overseer immediately, using your &#x27;noble&#x27; fury to draw all guards toward the gatehouse and away from the side vents.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds hidden)** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12**
@@ -1056,8 +1159,11 @@ Inside the gatehouse, a heavy iron bolt slides back. A weathered man in a centur
 > 👤 **Player:**
 > *"Demand shade and water and that all the guards see to my safety. Name drop a few more names"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12**
@@ -1075,8 +1181,11 @@ The guards scramble, their disciplined formations dissolving into a chaotic rush
 God Mode:
 Make certain demands so all the guards are boxed in and in a bad position
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **The Masquerade (Active), Subtle Supremacy**
@@ -1096,8 +1205,11 @@ Administrative manipulation successful. By leveraging your Julian authority, the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trigger Ambush - Signal Crixus to begin the attack while the guards are unarmored and carrying water jars.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 100,000/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | HD: 12/12**
@@ -1117,8 +1229,11 @@ Overseer Varus spins around, his face draining of color, but he is too slow. You
 > 👤 **Player:**
 > *"Shriek and tell varua the brigands are back confusing him and distracting him. Then when the battle is almost won give Varrus a sly smile signaling this was my trap that only varrus can see. This should make him attack me. Let him wound me in a non critical way and scream for Spartacus to save me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 103/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: d12** &nbsp;|&nbsp; ⚠️ **[Wounded] | Exhaustion: 0 | Inspiration: No**
@@ -1140,8 +1255,11 @@ Varus freezes. The realization hits him with the force of a gladius to the gut: 
 > 👤 **Player:**
 > *"Let varrus give me a deeper wound in the stomach but avoiding vital organs. As a level 12 with my dex I'm not really at risk but make it look bad"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 103/106 | XP: 100,000/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: d12** &nbsp;|&nbsp; ⚠️ **[Masquerade: Active] [Wounded: Stomach**
@@ -1159,8 +1277,11 @@ You collapse backward into the slick, red-stained dust, clutching the wound as V
 > 👤 **Player:**
 > *"Let's assume spartacus immediately kills varrus in rage as I cry and act frantic and say don't let me die. My petals are frantic and give me medical aid"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Gestalt) | HP: 103/106 | XP: 101,500/120,000 | Gold: 55gp** &nbsp;|&nbsp; ⚠️ **Wounded (Abdominal) | Inspiration: d12**
@@ -1182,8 +1303,11 @@ Crixus drops his blade, his hands—which just moments ago were scything through
 > [!NOTE] ⚙️ **Player Choice:**
 > *Whisper Naevia&#x27;s Name - Use your &#x27;last breaths&#x27; to urge Crixus to find her, cementing your image as a selfless martyr.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 103/106 | XP: 101,500/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: d12**
@@ -1203,8 +1327,11 @@ Crixus doesn't answer with words; he lets out a roar of absolute, singular purpo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Grip Spartacus&#x27;s Hand - Maintain a &#x27;conscious&#x27; but fading state, begging him not to leave you, solidifying your bond with the Thracian leader.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 103/106 | XP: 101,500/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: d12**
@@ -1220,8 +1347,11 @@ Beside you, Crixus stands frozen, the mention of Naevia’s name and your subseq
 > 👤 **Player:**
 > *"Tell crixus to go to naevia and "pass out" awake in an hour after a short rest and everyone is overjoyed to see I won't die including naevia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 101,500/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 11/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: d12**
@@ -1245,8 +1375,11 @@ Naevia reaches out, her fingers trembling as she touches the edge of your silk b
 > 👤 **Player:**
 > *"Bless the reunion and let's assume in the past i treated naevia with kindness and she remembers and adds to my heroic story. I apologize to naevia for not protecting her from the dominus raping her before and I apologize to everyone for being caught by varrus and stabbed. Everyone should be amazed by my bravery. A non combatant in a combat situation is braver than someone like spartacus or crixus fighting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin) | HP: 106/106 | XP: 101,500/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 11/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Wounded (Surface), Stable | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1266,8 +1399,11 @@ Spartacus nods slowly, his hand resting on the hilt of his gladius. He looks at 
 God Mode:
 Give me solid exp for all this social domination
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 19, 73 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin Gestalt) | HP: 106/106** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -1298,8 +1434,11 @@ Experience rewarded for the 'Saint of the Mines' social dominance arc and the ta
 God Mode:
 Let's also show my internal thoughts in narrative. I should be truly enjoying this social domination .
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Lucanian Salt Mines - Overseer's Office** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Wounded (Facade), Stable | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1319,8 +1458,11 @@ Internally, Gaia touches her throat with two fingers, checking the steady, rhyth
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess the Liberated - Weakly ask how many were saved, positioning yourself as the caretaker of the thousands of freed souls.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Lucanian Salt Mines - Overseer's Office** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Wounded (Minor), Stable | Exhaustion: 0 | Inspiration: Yes**
@@ -1344,8 +1486,11 @@ Naevia steps forward, her salt-cracked lips trembling. "They are calling you the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess the Liberated Force - Request a count of the freed miners to &#x27;ensure they are fed,&#x27; gaining your first look at your proto-army&#x27;s numbers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Lucanian Salt Mines - Overseer's Office** &nbsp;|&nbsp; ⏳ **September 19, 73 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **HD: 11/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -1369,8 +1514,11 @@ With over 500 followers under your command, the strategic faction management sys
 > 👤 **Player:**
 > *"Let's have me long rest and the next day start chores again. The rebel leaders get worried and tell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Lucanian Salt Mines - Overseer's Office** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -1394,8 +1542,11 @@ They look at each other, a silent, frantic communication passing between the two
 > 👤 **Player:**
 > *"Tell them I'll only work a half day and stop if I feel faint. Despite everyone being equal in theory the combination of me being a noble, beautiful and someone who risked their life makes them overprotective."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Lucanian Salt Mines - Courtyard** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -1415,8 +1566,11 @@ They see a Saint who should be on a throne, scrubbing the grit from their rags. 
 > 👤 **Player:**
 > *"Continue working normally and see how things go"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Lucanian Salt Mines - Courtyard** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin) | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expired) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1434,8 +1588,11 @@ Nearby, Naevia approaches with a cup of water, her eyes filled with a fanatical,
 > 👤 **Player:**
 > *"Act tired and say I'll pause for awhile. Talk to naevia as an equal and ask if she's recovered from the min ea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Lucanian Salt Mines - Courtyard** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -1455,8 +1612,11 @@ As you sit in the shade, the reality of your shadow empire begins to take shape 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About Naevia&#x27;s Past - Encourage her to speak of her life before the villa, cementing the &#x27;sisterhood&#x27; bond and gathering intelligence on her psychological triggers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Lucanian Salt Mines - Gatehouse Shade** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: d12**
@@ -1476,8 +1636,11 @@ Naevia’s fingers tighten around the water cup, her eyes softening into a dista
 > 👤 **Player:**
 > *"Let's narrate a scene without me present. Elara talks to spartacus and crixus and asks if they know understand why I am special and why the petals are so devoted to me. Elara will then remind them of their Oath and say that they will rescue me with force if needed if the rebellion fails to ensure my safety"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Lucanian Salt Mines - Gatehouse Shadow** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Livia | HP: 106/106 | XP: 114250/120000 | Faction Power: 1800** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: d12**
@@ -1499,8 +1662,11 @@ Spartacus exhales, a sound of heavy granite shifting. "I do not mistake it, woma
 God Mode:
 Remember naevia doesn't know I am a Julian
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Lucanian Salt Mines - Gatehouse Shadow** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expired), Masquerade (Active) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1519,8 +1685,11 @@ Directive confirmed and established. I have updated the Masquerade and Identity 
 > 👤 **Player:**
 > *"Let's have crixus also respond to Elara narrate in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Lucanian Salt Mines - Gatehouse Shadow** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin) | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1540,8 +1709,11 @@ Spartacus watches the exchange, his arms crossed over his leather cuirass. He do
 God Mode:
 Let's also say the petals aren't really acting. I do treat them very well and they have great respect for me even if im evil
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Lucanian Salt Mines - Gatehouse Shadow** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Gestalt) | HP: 106/106 | XP: 114250/120000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (Active), Saint of the Salt (Passive)**
@@ -1557,8 +1729,11 @@ State modification confirmed. I have fundamentally altered the internal motivati
 > 👤 **Player:**
 > *"Let's have my wound start bleeding and everyone sees it. I admit I am spent and retire for the evening"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 20, 73 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp**
@@ -1578,8 +1753,11 @@ Spartacus scoops you up as if you were a temple relic. Crixus follows, his massi
 God Mode:
 Ok you don't need to do my internal evil monologue every scene maybe  just every 10 scenes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **September 20, 73 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren (Bard/Paladin Gestalt) | HP: 106/106** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -1595,8 +1773,11 @@ Internal monologue frequency updated. Your dark reflections will now be suppress
 > 👤 **Player:**
 > *"Long rest and my reputation in the rebel camp continues to increase"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1614,8 +1795,11 @@ Crixus stands beside him, his gaze fixed on your bandaged side. "The miners... t
 God Mode:
 You repeated an old scene
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp**
@@ -1635,8 +1819,11 @@ I have corrected the narrative loop and synchronized your faction data with the 
 > 👤 **Player:**
 > *"Resume the story. Spartacus and crixus shouldn't seek my approval for next moves but they know I'm an educated noble and consult me refuse i do know things about Rome and capua"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1**
@@ -1658,8 +1845,11 @@ Spartacus nods slowly, a dark, incandescent respect lighting his eyes. He doesn'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Supply Raid - Identify a vulnerable Roman granary that could feed your 2,400 followers while they move.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,450/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Saint of the Salt (+2 Social) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1681,8 +1871,11 @@ Spartacus looks at you, a profound, incandescent respect lighting his dark eyes.
 > 👤 **Player:**
 > *"Explain I can continue to help them but I have a condition. They are not allowed to kill children and can only kill women if the women are truly a threat otherwise women must be spared. For soldiers if they surrender they cannot be killed. Say that I can't tell them how to fight their war but if I help my knowledge cannot be used for evil methods"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,450/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major - Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -1704,8 +1897,11 @@ Spartacus exhales, a sound like shifting gravel. He looks at Crixus, then at Nae
 > 👤 **Player:**
 > *"Wait for their response and narrow it. Empathize with them that the Romans have no such morals but say we can be better. Also ask for their oath that my family ot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114450/120000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Saint of the Salt (+2 Social), Sanctuary (Broken) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1729,8 +1925,11 @@ Crixus taps his sica blade against his heart in a sharp, rhythmic salute. "I swe
 > 👤 **Player:**
 > *"Ask for the lives of my parents and siblings to. Be honest and explain they aren't exceedingly evil but they are more like normal Romans and they aren't like me. But I cannot let them be killed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,450/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1759,8 +1958,11 @@ Spartacus bows his head, his voice a low, iron-wrought thrum. "A man who does no
 > 👤 **Player:**
 > *"Give them the full tactical detail of capua and Rome. Wink at them and explain I all well studied. Since my intelligence is really high and I am a Julian I actually know everything important."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,950/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Saint of the Salt (+2 Social Checks), Sanctuary Mode (Broken)**
@@ -1787,8 +1989,11 @@ Spartacus stands motionless, his hand still resting on the map of the Silarus. H
 > 👤 **Player:**
 > *"I decide to reveal my true name to them. Explain that I trust them now. Elara and the petals will try to stop me but I will proceed. Explain that it is my great shame but I am the daughter of Gaius julis Caesar the current emperor. Please keep it a secret but I will support the rebel cause as long as it remains just to build a brighter future for all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,950/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: d12** &nbsp;|&nbsp; ⚠️ **Sanctuary (Broken), Masquerade: Active (Strike 0/3) | Exhaustion: 0**
@@ -1819,8 +2024,11 @@ The silence that follows is not a void; it is a physical weight that crushes the
 > 👤 **Player:**
 > *"Wait for their response. Explain that although I have had a life of luxury I've been forced to a life of complicit immorality and have never been able to have self respect due to my birth in my immoral family. Explain that the luxury sounds nice but living every day in despair with the death of one's soul is a differnt kind of slavery. Let's have elara and the petals freak out and form a defensive ring again and plead with Spartacus and crixus not to jill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Siren | HP: 106/106 | XP: 114,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Sanctuary (Major/Broken), Saint of the Salt (+2 Social)**
@@ -1844,8 +2052,11 @@ Spartacus closes his eyes, his chest heaving. The logic of his hatred is being s
 > 👤 **Player:**
 > *"Wait for their response and apologize for the deception"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Siren | HP: 106/106 | XP: 129,950/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Expired) | Inspiration: d12**
@@ -1879,8 +2090,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 God Mode:
 Level Up to Level 13 - Apply level 13 Siren (Bard/Paladin Gestalt) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Siren (Bard/Paladin Gestalt) | HP: 114/114 | XP: 144,950/140,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Saves), Subtle Supremacy | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1904,8 +2118,11 @@ Level Up to Level 13 successfully applied. Gaia Julia Caesar has reached the nex
 > 👤 **Player:**
 > *"Ask spartacus and crixus if their vow about my family still holds. The Julian's can be disempowered and imprisoned but must not be killed unless forced even my father"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Siren | HP: 114/114 | XP: 144,950/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Saint of the Salt (+2 Social) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1933,8 +2150,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 God Mode:
 Wait I shouldn't be level 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Siren | HP: 114/114 | XP: 144,950/140,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **[None] | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -1954,8 +2174,11 @@ You are currently Rank #201 of 201 with 1,800 Faction Power. You sit just beneat
 > 👤 **Player:**
 > *"Thank them for their great honor and mercy and continue to provide full intel. Ask that they not tell others who i am for now so I can build more trust first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Siren (Gestalt) | HP: 114/114 | XP: 144,950/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1**
@@ -1978,8 +2201,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 > 👤 **Player:**
 > *"Everyone who knows my true name should gain even more respect. To give up the luxury of a goddess for morals is a position of truly high virtue. Weave it into the narrative."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Siren | HP: 114/114 | XP: 144,950/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Major), Saint of the Salt (+2 Social)**
@@ -2000,8 +2226,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 God Mode:
 Should I really be level 14?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Siren (Bard/Paladin) | HP: 114/114 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2032,8 +2261,11 @@ Confirmed at Rank **#201** with **1,800 FP**. You are currently positioned benea
 God Mode:
 Alright just give me level 14 and process it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren (Bard/Paladin) | HP: 122/122 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Secret Identity (Gaia Julia Caesar) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2057,8 +2289,11 @@ Level 14 progression processed. Gaia Julia Caesar has reached Level 14 in her Si
 > 👤 **Player:**
 > *"Explain that I'm willing to come on the raid and risk myself again to provide in the moment intel but of course at a safe distance and ask for a few warriors to defend me as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Lucanian Salt Mines - Overseer's Quarters** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Bonded (Spartacus/Crixus/Naevia) | Exhaustion: 0 | Inspiration: Yes**
@@ -2078,8 +2313,11 @@ Crixus steps forward, his gore-streaked face etched with a dark, terrifying loya
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Raid Route - Commit to the Silarus approach and begin the march toward the granaries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Saint of the Salt (+2 Social) | Exhaustion: 0**
@@ -2104,8 +2342,11 @@ As the first rhythmic thrum of 2,400 pairs of feet begins to shake the white dus
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Roman Patrols - Use your high ground and tactical knowledge to identify the first sign of Roman auxiliary movement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Lucanian Salt Mines - Perimeter Gate (Marching)** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -2123,8 +2364,11 @@ Spartacus pulls his mount alongside yours, his dark eyes searching the horizon. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Orchestrate False Trail - Suggest Spartacus split a small group of miners to create a loud, obvious trail toward the southern pass, while the main force moves into the riverbed shadows.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Silarus Valley Foothills (Riverbed)** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -2142,8 +2386,11 @@ Spartacus looks at you, his dark eyes reflecting the tactical brilliance you've 
 > 👤 **Player:**
 > *"Let Spartacus and crixus decide next steps and execute. Whether it works or not they should be grateful for the opportunity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Silarus Valley - Southern Ridge** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Inspiration: d12** &nbsp;|&nbsp; ⚠️ **[Masquerade Active: 0/3 Strikes**
@@ -2161,8 +2408,11 @@ Your Thracian guards watch the spectacle with a fanatical, quiet awe, their bron
 > 👤 **Player:**
 > *"Thank spartacus and crixus for their mercury. Talk to the 20 captives and convince them fo"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 144,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Inspiration: d12** &nbsp;|&nbsp; ⚠️ **Secret Identity (Gaia Julia Caesar), Saint of the Salt (+2 Social)**
@@ -2184,8 +2434,11 @@ The silence is brief. The combination of your transcendent beauty, the visible s
 > 👤 **Player:**
 > *"Give the captured soldiers my true name and explain my reasoning but ask them to keep my name secret. Explain that even normal Romans aren't much different than slaves their lives vulnerable to the whims of nobles. Promise a better world if they prove themselves to spartacus and crixus. Say if they serve in the vanguard in the next battle and prove their honor they will have rebellion trust"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren (Bard/Paladin Gestalt) | HP: 122/122 | XP: 145,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Secret Identity (Active) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2214,8 +2467,11 @@ One by one, the others follow. You gain **500 XP** for this mass conversion.
 > 👤 **Player:**
 > *"Ask Spartacus and crixus if this is ok. For now they are prisoners but if they prove themselves in the vanguard they should be treated with respect"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 145950/165000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2237,8 +2493,11 @@ Crixus spits into the river mist, his hand resting on the hilt of his sica. He l
 > 👤 **Player:**
 > *"Tell the prisoners to earn more trust. Give me and the rebel leaders all the intel they have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 145,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2266,8 +2525,11 @@ You gain 500 XP for the strategic intelligence extracted!
 God Mode:
 The new Roman prisoners should be be very loyal to me. They know I'm a Caesar so even if the rebellion fails if they have my favor they're set for life
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 145,950/165,000 | Gold: 10gp (Plus 500 Uncut Diamonds)** &nbsp;|&nbsp; ⚠️ **Saint of the Salt (+2 Social), Martyr's Scar | Exhaustion: 0 | Inspiration: Yes**
@@ -2284,8 +2546,11 @@ Faction data successfully synchronized with tool results. Your proto-army of 1,8
 > 👤 **Player:**
 > *"Explain the silent hand threat to crixus and Spartacus and ask for their protection"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Protected, Incognito | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2312,8 +2577,11 @@ Crixus steps forward, his massive frame shaking with a dark, terrifying loyalty.
 > 👤 **Player:**
 > *"Explain that perhaps my father seeks to kill me. The silent hand may not be tasked with rescue. However even if true and the assassins succeed I ask that then vow is upheld and my father is not killed unless no choice, even if he kills me. This should establish great moral superiors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2331,8 +2599,11 @@ Spartacus stands as if carved from the very stone of the valley, his dark eyes s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Counter-Ambush - Use Kael and the 20 Roman defectors to set a trap for the Silent Hand using yourself as bait.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2352,8 +2623,11 @@ As the last shadow falls, a silence heavier than the mist descends. Your proto-a
 God Mode:
 Is my father really trying to kill me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Saves), Subtle Supremacy**
@@ -2385,8 +2659,11 @@ Your current Faction Power is **1,820 FP**, placing you at **Rank #201 of 201**.
 God Mode:
 Wait how would he know I'm helping the rebellion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2413,8 +2690,11 @@ In Caesar's world, a captured daughter is a vulnerability. A daughter who succes
 > 👤 **Player:**
 > *"Let's have me realize my father truly meant to kill me and get very excited and ready to pull in the big guns. I will brainstorm and think about some rival families or my own siblings who would see father defeated. Let's see what I brainstormZ I won't Share it yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Inspiration (d12) | Exhaustion: 0 | Inspiration: Yes**
@@ -2432,8 +2712,11 @@ You touch your throat with two fingers, checking the pulse of your triumph. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Sibling Rivalries - Deeply contemplate the weaknesses of Octavian and Caesarion to determine who can be provoked into action.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2447,8 +2730,11 @@ You pause, weighing the fractures of your own bloodline against the iron will of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Map Claudian Loyalists - Synthesize knowledge of the House of Claudius to determine which Senators can be bought or blackmailed into a &#x27;Restoration&#x27; plot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 146,450/165,000 | Gold: 10gp (500 Diamonds)** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Saves) | Exhaustion: 0 | Inspiration: Yes**
@@ -2464,8 +2750,11 @@ Finally, your mind settles on *Marcus Claudius Marcellus*, the youth currently s
 > 👤 **Player:**
 > *"Showcase my intelligence to crixus and Spartacus. Explain that to truly win the war against my father it's better to ally with some Romans and win first then negotiate to free slaves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 147,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1**
@@ -2483,8 +2772,11 @@ Spartacus stands motionless, his dark eyes searching yours. The idea of allying 
 > 👤 **Player:**
 > *"Wait for their response and narrate their dialog"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 147,950/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Secret Identity (Active) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2508,8 +2800,11 @@ Naevia steps forward, her fingers trembling as she touches your coarse wool slee
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dispatch Claudian Messenger - Send the Decurion with a coded message to Appius Claudius Pulcher, offering debt relief for logistics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 148450/165000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Saint of the Salt (Passive +2 Social) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2531,8 +2826,11 @@ Kael approaches from the shadows of the central silo, his blackened blade sheath
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Fallen Assassins - Use Kael and the Medicine (Expertise) to examine the corpses of the Silent Hand for hidden maps or further &#x27;Hand&#x27; protocols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 148,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2552,8 +2850,11 @@ Internally, Gaia touches her throat with two fingers, checking the pulse of her 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Spoof Scrying Signal - Direct Nia to use her Bardic magic to mimic your pheromonal signature on a decoy cart heading for Neapolis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 148,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2573,8 +2874,11 @@ Nia bows, her eyes filled with a fanatical, quiet devotion. She understands the 
 God Mode:
 Fix my spells in game state and ensure I have reasonable spells of all levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Silarus Valley - Granary Courtyard** &nbsp;|&nbsp; ⏳ **September 21, 73 BCE (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren (Bard/Paladin Gestalt) | HP: 122/122 | XP: 148,450/165,000 | Gold: 10gp (500 Diamonds)**
@@ -2606,8 +2910,11 @@ Spellbook Audit and Restoration Complete. I have populated your `spells_known` l
 > 👤 **Player:**
 > *"When  onone is around cast simulcrum. Have it raise my secret safe houses and gold caches around 50kgold and start counter ambushing silent hand assassins. It's a level 12 so shouldn't be hard d"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Silarus Valley - Northern Ridge** &nbsp;|&nbsp; ⏳ **September 22, 73 BCE (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 148,450/165,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1**
@@ -2621,8 +2928,11 @@ The attempt to coordinate your secret gold caches also meets with cold frustrati
 1d20+5 = 7 vs DC 18 - Failure (Retrieve 50k Gold Caches)
 1d20+5 = 9 vs DC 15 - Failure (Simulacrum Counter-Ambush"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Silarus Valley - Northern Ridge** &nbsp;|&nbsp; ⏳ **September 22, 73 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 148,450/165,000 | Gold: 50,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1**
@@ -2638,8 +2948,11 @@ As the Silent Hand assassins attempt a final, desperate sweep of the ridge to ve
 God Mode:
 Also simulacrum shouldn't need a dc check anyway
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Silarus Valley - Northern Ridge** &nbsp;|&nbsp; ⏳ **September 22, 73 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren (Bard/Paladin) | HP: 122/122 | XP: 148,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Saves), Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -2657,8 +2970,11 @@ Mechanical correction accepted and implemented. Per D&D 5E SRD, *Simulacrum* is 
 > 👤 **Player:**
 > *"Explain to rebel leaders I need to get to a safe house and appear presentable to the claudi to negotiate alliance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Silarus Valley - Northern Ridge** &nbsp;|&nbsp; ⏳ **September 23, 73 BCE (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 148,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2674,8 +2990,11 @@ Spartacus looks at the blackened blades of the fallen assassins, then back at yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Thracian Escort Dash - Ride hard through the night with the four Thracian veterans to reach the safe house by dawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149450/165000 | Gold: 100,010gp** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1 - Mounts) | Inspiration: Yes**
@@ -2693,8 +3012,11 @@ You gain 1,000 XP for the successful nocturnal transit and social evasion!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manifest Imperial Presence - Shed the &#x27;Livia&#x27; mask and enter the safe house as Gaia Julia Caesar to command Appius Pulcher&#x27;s immediate submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 BCE (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149450/165000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2725,8 +3047,11 @@ The cup slips from Pulcher's fingers, shattering on the stone. He doesn't look f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Blood-Oath - Demand Appius sign a formal, magically-binding pact with the Julian blood to cement the alliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 BCE (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -2753,8 +3078,11 @@ Pulcher gasps, his eyes rolling back as the magical weight of the oath settles i
 > 👤 **Player:**
 > *"Use cure wounds to heal us both showing him my magic and making it a divine blood oath"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 BCE (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149450/165000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Inspiration: Yes**
@@ -2777,8 +3105,11 @@ A soft, golden radiance erupts from your palms, the 'Cure Wounds' magic flowing 
 > 👤 **Player:**
 > *"Explain what he has to gain. I battle my father for Rome and when I win my favor will put him in a much better position than he is now debt ridden"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Inspiration: Yes**
@@ -2807,8 +3138,11 @@ Despite your current standing at rank two hundred and one with 1,820 Faction Pow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Grain Redirection - Overseer the immediate redirection of the Baiae grain stores to the Silarus valley using forged Claudian seals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 BCE (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: No**
@@ -2840,8 +3174,11 @@ With a ragged exhale of total submission, Appius begins the work. You watch with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Capuan Spy Cells - Command Appius to signal his loyalist contacts in Capua to begin monitoring scrying patterns and Caesarion&#x27;s approach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 BCE (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Inspiration: Yes**
@@ -2867,8 +3204,11 @@ Outside, the four Thracian veterans adjust their bronze shields, their rhythmic 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Arcane Dampeners - Direct Pulcher&#x27;s mages to activate the scrying dampeners to ensure the safe house remains a total blind spot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **September 23, 73 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1, Exhaustion: 0**
@@ -2884,8 +3224,11 @@ Appius watches from the corner, his face pale as he realizes you have just turne
 > 👤 **Player:**
 > *"Have my simulacrum continue to autonomously weaken my enemies and advance my interests. Then go back to Spartacus and crixus with news of the Claudii alliance. They should be very impressed. Then ask them for combat training and launder my level 12 abilities by pretending to level up as I'm trained. Time skip for a few months and have them see me as a combat prodigy growing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Rebel Vanguard Camp - Silarus Valley** &nbsp;|&nbsp; ⏳ **December 23, 73 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Invisible Ring | Exhaustion: 0 | Inspiration: Yes**
@@ -2901,8 +3244,11 @@ Every time you parried with a speed that defied physics or moved with the preter
 > 👤 **Player:**
 > *"Crixus and spartacus should be amazed and think I'm a living god. In 3 months I've risen to level 12 and actually surprassed them. Narrate their amazement"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Rebel Vanguard Camp - Silarus Valley** &nbsp;|&nbsp; ⏳ **December 23, 73 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren (Gestalt) | HP: 122/122 | XP: 149,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1**
@@ -2920,8 +3266,11 @@ Internally, Gaia touches her throat with two fingers, checking the pulse of her 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Subura Intel - Retire to the safe house to receive the latest reports from the Simulacrum regarding Octavian&#x27;s movements.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **December 23, 73 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 149450/165000 | Gold: 100010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2939,8 +3288,11 @@ You touch your throat with two fingers, checking the pulse of your own escalatin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provoke Sibling Rivalry - Use the Simulacrum to leak intel to Octavian suggesting Caesarion is secretly funding the &#x27;brigands&#x27; to embarrass the Roman administration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **December 23, 73 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 150450/165000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Inspiration: Yes (d12)**
@@ -2960,8 +3312,11 @@ The double bows, its form dissolving into the shadows of the alcove as it prepar
 > 👤 **Player:**
 > *"THINK:What if I use my petals and some elite rebels on a surgical strike on Nola leadership and then capture the city easily?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **March 15, 74 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 150450/165000 | Gold: 100010gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes**
@@ -2971,8 +3326,11 @@ You pause within the starlit silence of your solar, the air cooling as the winte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claudian Strangulation - Use Appius to redirect all Nola-bound grain to the Silarus. Wait for the city to beg for &#x27;Livia&#x27;s&#x27; intervention as their savior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 150,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Saves), Simulacrum Active | Inspiration: Yes (d12)**
@@ -2992,8 +3350,11 @@ Kael enters the solar, his shadow lengthening across the mosaic serpent. "The wi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provoke Pharaoh Clash - Leaked &#x27;proof&#x27; that Caesarion&#x27;s leopards are the ones blockading Nola, forcing Octavian into an immediate military confrontation with his brother.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 150,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3009,8 +3370,11 @@ Internally, you touch your throat with two fingers, checking the pulse of the ch
 > 👤 **Player:**
 > *"Orchestrate having my two brothers engage each other in combat. Then take my petals, companions (Spartacus and crixus) and 100 elite rebel soldiers and capture them both. Use hypnotic pattern and trigger surprise round to cc them and their men. Assume in my safe houses I have some solid +1 combat gear and some spell DC gear and I've used find greater steed to make an amazing horse mount (should be like the best horse anyone has ever seen)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Nola Valley - Tactical Overlook** &nbsp;|&nbsp; ⏳ **January 27, 74 January (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 150,450/165,000 | Gold: 100,010gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma Active | Exhaustion: 0 | Inspiration: Yes**
@@ -3032,8 +3396,11 @@ Octavian (13 vs DC 20) freezes mid-sentence, his cold blue eyes glassing over as
 > 👤 **Player:**
 > *"Capture and loot everyone then transport brothers to safe house for interrogation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Claudian Safe House - Capua Outskirts** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 153450/165000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active**
@@ -3049,8 +3416,11 @@ In the theater of your mind, Gaia is savoring the exquisite geometry of the cell
 > [!NOTE] ⚙️ **Player Choice:**
 > *Break Caesarion - Use the &#x27;Miasma of Venus&#x27; to shatter the Pharaoh&#x27;s vanity and extract the Egyptian scrying frequencies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Claudian Safe House - Interrogation Cellars** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 153,700/165,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3078,8 +3448,11 @@ Your proto-army currently holds at 1,820 soldiers, maintaining Rank #201 of 201 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Humiliate Before Octavian - Force Caesarion to admit his failure in front of the Wolf to shatter the brothers&#x27; potential for cooperation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Claudian Safe House - Interrogation Cellars** &nbsp;|&nbsp; ⏳ **74 January 27, 14:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 153,950/165,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3099,8 +3472,11 @@ He breaks off into a jagged, hollow sob, his head lolling against his chest as t
 > 👤 **Player:**
 > *"Humilate Octavian's say he is no better than his brother chained at the mercy of his soft little sister"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Claudian Safe House - Interrogation Cellars** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 154200/165000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3129,8 +3505,11 @@ Kael emerges from the shadows of the stairway, his face pale in the torchlight. 
 God Mode:
 I should have more exp. I've captured both brothers who are pillars of the empire essentially
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Claudian Safe House - Interrogation Cellars** &nbsp;|&nbsp; ⏳ **Day 27, 74 January (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren (Bard/Paladin) | HP: 122/122 | XP: 171,200/165,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes**
@@ -3140,8 +3519,11 @@ XP award processed. You are now Level 15 eligible.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Extraction - Direct Kael and the elite rebels to prepare the captives for transport to the Lucanian camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Claudian Safe House - Interrogation Cellars** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Siren | HP: 122/122 | XP: 171,700/165,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Level 15 Eligible | Exhaustion: 0 | Inspiration: Yes**
@@ -3170,8 +3552,11 @@ You gain 500 XP!
 God Mode:
 Level Up to Level 15 - Apply level 15 Siren (Bard/Paladin Gestalt) benefits immediately: +8 HP, d12 Inspiration.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Claudian Safe House - Interrogation Cellars** &nbsp;|&nbsp; ⏳ **Day 27, 74 January (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren (Bard/Paladin Gestalt) | HP: 130/130 | XP: 171,700/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3194,8 +3579,11 @@ Level 15 advancement successfully processed for Gaia Julia Caesar.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth River Detour - Use the Silarus riverbed and the rising mist to bypass the main Roman picket lines. (Slower but safer)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Silarus Riverbed - Southern Transit** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 171,700/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, Exhaustion: 0**
@@ -3209,8 +3597,11 @@ By the time the sun begins to dip below the horizon, the Roman pickets have been
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secret Confinement - Keep the captives hooded and hidden in a secure cave away from the main camp, revealing their identity only to the top leadership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Lucanian Foothills - Hidden Grotto** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 171,700/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3226,8 +3617,11 @@ Kael bows, his eyes reflecting the cold fire of your triumph. He begins to arran
 > 👤 **Player:**
 > *"Extract intel from brothers and try to get them to swear allegiance to me. Use bardic inspiration and every ability I have to reduce their save DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Lucanian Foothills - Hidden Grotto** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 172450/195000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3262,8 +3656,11 @@ Octavian’s administrative poise finally fractures. He looks at Caesarion’s b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Roman Codes - Force Octavian to reveal the encryption for the southern legionary dispatches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Lucanian Foothills - Hidden Grotto** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren (Bard/Paladin Gestalt) | HP: 130/130 | XP: 173200/195000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3289,8 +3686,11 @@ Octavian’s jaw works rhythmically, his eyes darting toward the broken, yieldin
 > 👤 **Player:**
 > *"Unmask and show them my true level 15 form and lawful evil nature. They should be terrified of not just my power but the skill required for such deceit. Ask them who's scarier me or father and remind them I'm only 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Lucanian Foothills - Hidden Grotto** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 174200/195000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, Inspiration: d12** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Inspiration: Yes (d12)**
@@ -3321,8 +3721,11 @@ Octavian lets out a jagged, hollow sob, his eyes dilating until they are black p
 > 👤 **Player:**
 > *"Dictate restoration pact and use divine blood oath to further intimidate them and ensure they cannot betray me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Lucanian Foothills - Hidden Grotto** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 174,200/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 2/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, Inspiration: d12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3344,8 +3747,11 @@ Octavian lets out a jagged, hollow sob, his forehead touching the cold limestone
 > 👤 **Player:**
 > *"Instruct them to maintain the lie of the saint and bring them before the rebel leaders and all rebels. Explain I've changed their minds and they support freedom for slaves due to justice and morals. Have them work a day in the rebel camp doing chores  to prove their valor. Pretend to be concerned for their safety and ask spartacus and crixus to make sure no one kills them since they did honorably surrender and join our cause. Everyone should be amazed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Lucanian Foothills - Rebel Main Camp** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 175700/195000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 2/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Inspiration: Yes (d12)**
@@ -3365,8 +3771,11 @@ Spartacus stares at the two heirs of Rome, his jaw dropping as he realizes the m
 > 👤 **Player:**
 > *"Publically give my name now to the rebels. Explain I am Gaia julia Caesar and apologize for the deceit but explain i sought to earn rebel trust first before revealing my name. Explain I believe  in a world without slaves and have risked life and limb and turned my back on the privilege and luxury of the gods to fight for morals. Explain  I did not ask to be born a Julia and have lived in shame for my families evil my whole life but now with my brothers we will restore freedom and my family's good name. Ask them to be merciful to my brothers who have recently joined our cause"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Lucanian Foothills - Rebel Main Camp** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 177200/195000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 12/15, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3384,8 +3793,11 @@ The silence that follows is absolute, until a single Thracian veteran slams his 
 > 👤 **Player:**
 > *"Go occupy Nola now and consolidate rebel forces with the Claudii. The claudi should be extremely impressed both brothers are not only captured  knit converted. Without them my father doesn't actually have any very solid military leaders because he's old now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Nola - Administrative Forum** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 177700/195000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 12/15 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3401,8 +3813,11 @@ Spartacus and Crixus watch from the perimeter, their veterans mingling with the 
 God Mode:
 Fix my equipment in game state. I should have +1 gear and some strong spell SC gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Nola - Administrative Forum** &nbsp;|&nbsp; ⏳ **January 27, 74 January (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren (Bard/Paladin Gestalt) | HP: 130/130 | XP: 177,700/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes**
@@ -3429,8 +3844,11 @@ Equipment manifest updated and synchronized with game state. Gaia Julia Caesar i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Southern Legions - Use Octavian&#x27;s ciphers to send forged orders to Roman cohorts, directing them away from Nola.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Nola - Administrative Forum** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 176,700/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Active) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3450,8 +3868,11 @@ You offer him a slow, cold smile, the starlight silk of your gown shimmering in 
 > 👤 **Player:**
 > *"THINK:Who are my fathers best generals now withouty brothers?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Nola - Administrative Forum** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 176,700/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active**
@@ -3463,8 +3884,11 @@ You have 1,820 soldiers total: 1,800 miners and 20 Roman defectors. You currentl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Crassus&#x27;s Paranoia - Send forged orders to Crassus suggesting Pompey is planning to seize his Baiae estates, forcing him to divert troops for his own security.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Nola - Administrative Forum** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 177,450/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Subtle Supremacy Active, Miasma of Venus (Predatory) | Inspiration: 15/15**
@@ -3482,8 +3906,11 @@ You offer your brother a slow, predatory smile, the starlight silk of your gown 
 > 👤 **Player:**
 > *"Delegate running my faction to my brothers who cannot betray due to blood oath. Collect my top 20 best fighters and simulcrum and use teleport surprise attack and hypotonic pattern to cc and capture his remaining generals while I have  enough spell slots"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Nola - Administrative Forum / Roman Command Outpost** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 187,450/195,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 12/15 | Spells: L1 2/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5 Saves) | Inspiration: Yes**
@@ -3507,8 +3934,11 @@ The General and his entire staff of senior legates become statues of glowing, ho
 > 👤 **Player:**
 > *"Use my cc spells and persuasion to recruit them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Roman Southern Command Outpost - General's Pavilion** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Siren | HP: 130/130 | XP: 197,450/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 12/15 | Spells: L1 2/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3547,8 +3977,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 16 - Apply level 16 Siren (Bard/Paladin Gestalt) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren (Bard/Paladin Gestalt) | HP: 133/133** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1**
@@ -3576,8 +4009,11 @@ If you continue adventuring, you remain Level 16 and defer these benefits until 
 God Mode:
 I am already level 16 save it and move on
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Roman Southern Command Outpost - General's Pavilion** &nbsp;|&nbsp; ⏳ **January 27, 74 AD (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren | HP: 133/133 | XP: 197,450/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3602,8 +4038,11 @@ The administrative 'Level Up Available' flag has been cleared. General Valerius 
 > 👤 **Player:**
 > *"delegate integration of the generals armies to  my faction to my brothers and then let's call the teleport surprise and hypnotic pattern strategy the checkmate strategy. Then do it against pompei"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Pompey's Flagship - 'The Neptune' (Off the Lucanian Coast)** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren/Paladin | HP: 133/133 | XP: 209,450/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1 | Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3629,8 +4068,11 @@ Pompey Magnus lets out a sharp, choked intake of breath. The 'Vulture' of Rome, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Annex &#x27;The Neptune&#x27; - Formally seize the flagship and its crew, forcing the legates to swear the Restoration Pact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 January (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren | HP: 133/133 | XP: 209450/225000 | Gold: 100510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, Inspiration: 1/1** &nbsp;|&nbsp; ⚠️ **Miasma Active | Inspiration: Yes**
@@ -3657,8 +4099,11 @@ The legate's jaw trembles as he looks at the starlight-dyed silk of your gown, t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Public Pact Signing - Force Pompey Magnus to sign the Restoration Pact in front of the entire crew to cement the flagship&#x27;s defection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren | HP: 133/133 | XP: 224,450/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3688,8 +4133,11 @@ One by one, the sailors follow their commander, their foreheads touching the sal
 > 👤 **Player:**
 > *"Loot Pompeii epic gear and see if I can find some +3 combat items and +3 spell dc items"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren | HP: 133/133 | XP: 224,950/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3717,8 +4165,11 @@ As you step back onto the deck, draped in the spoils of a grounded legend, the c
 > 👤 **Player:**
 > *"Get a better weapon and shield"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 January (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren | HP: 133/133 | XP: 197,450/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes**
@@ -3732,8 +4183,11 @@ Not content with the obvious, your golden eyes narrow as you scan the room for d
 God Mode:
 Give me a +3 finesse rapier
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren | HP: 133/133 | XP: 224950/225000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3745,8 +4199,11 @@ Faction Status: Your Faction Power is confirmed at 5,320 FP. You remain at Rank 
 > 👤 **Player:**
 > *"Recruit pompei to my cause"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren | HP: 133/133 | XP: 224,950/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3773,8 +4230,11 @@ Pompey looks up, his eyes dilated and swimming with a mixture of terror and a ne
 > 👤 **Player:**
 > *"Do divine blood oath and let him see my true imperium"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren/Paladin | HP: 133/133 | XP: 224,950/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3794,8 +4254,11 @@ Pompey Magnus, the Vulture of Rome, collapses fully into the rhythmic thud of to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cement Fleet Morale - Spend time among the six hundred sailors, using your &#x27;Saintly&#x27; persona to ensure their loyalty is to you personally, not just Pompey.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Pompey's Flagship - 'The Neptune'** &nbsp;|&nbsp; ⏳ **January 27, 74 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren/Paladin | HP: 133/133 | XP: 224,950/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3811,8 +4274,11 @@ The effect is visceral. The combination of your transcendent beauty, the 'Saintl
 > 👤 **Player:**
 > *"Long rest then do the checkmate on Crassus and get him sign divine blood oath"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Crassus's Command Pavilion - Southern Italy** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 133/133 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3835,8 +4301,11 @@ If you continue adventuring, you remain Level 17 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 17 - Apply level 17 Siren (Bard/Paladin Gestalt) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Crassus's Command Pavilion - Southern Italy** &nbsp;|&nbsp; ⏳ **January 28, 74 BCE (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren (Gestalt) | HP: 141/141 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Imperium (Tier 4) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3850,8 +4319,11 @@ Behind you, the twenty Roman defectors stand as statues of fanatical devotion, t
 > 👤 **Player:**
 > *"have my faction spies scout out magic users who can use cc, find them and i will personally recruit them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 141/141 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3878,8 +4350,11 @@ Currently, your strategic power is tracked at 5,320 FP, placing you at Rank #201
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Divine Mercy - Use your high-level healing and pheromones to &#x27;cleanse&#x27; the grotto&#x27;s toxic air, showing them a Julian who mends rather than burns.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Empress | HP: 141/141 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Miasma of Venus (Enhanced) | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3906,8 +4381,11 @@ High Sybil Aurelia stands firm, her staff thumping against the stone, but her cl
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Imperial Fact - Show them that Octavian and Caesarion have already knelt, proving that even the highest Eagles serve you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 133/133 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3934,8 +4412,11 @@ High Sybil Aurelia’s staff clatters against the floor as she sees the shell-sh
 > 👤 **Player:**
 > *"telepathically show that all the major players already made a divine blood oath with me. crassus, pompei, generals, and the rebel leaders are folloiwng me too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 141/141 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Alert, Subtle Supremacy | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -3960,8 +4441,11 @@ High Sybil Aurelia gasps, her clouded eyes rolling back as the sheer weight of t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Arcane Oath - Produce the Hairpin of Venus and command they bind their crowd-control magic to the Restoration Pact immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 141/141 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes**
@@ -3986,8 +4470,11 @@ Aurelia looks up, her clouded eyes dilated as she stares at the Julian needle. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *March on Capua Preparations - Coordinate with Spartacus and Crixus to use the Sybils&#x27; crowd-control magic for the upcoming siege of Capua.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 141/141 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 17/17, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4012,8 +4499,11 @@ High Sybil Aurelia bows her clouded head one final time. "The sparrows will sing
 > 👤 **Player:**
 > *"Plan surgical strike to take over capua"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 141/141 | XP: 239,950/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -4025,8 +4515,11 @@ Morning (08:30:01) in the steaming depths of the Oracles' Grotto finds you stand
 > 👤 **Player:**
 > *"have my council take political contro lof capua first through their influence and senate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **The Oracles' Grotto - Phlegraean Fields** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 133/133 | XP: 242,450/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -4044,8 +4537,11 @@ You gain 2,500 XP for the total political subversion of Capua!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Capuan Occupation - Order the 1,820 soldiers to march on Capua immediately, using the Senate&#x27;s confusion to walk through the gates as liberators.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Capua - The Appian Gate** &nbsp;|&nbsp; ⏳ **January 28, 74 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Siren | HP: 141/141 | XP: 242,450/265,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Simulacrum Active | Exhaustion: 0 | Inspiration: Yes**
@@ -4061,8 +4557,11 @@ You offer a slow, cold smile, your golden eyes scanning the rooftops for any tra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Appian Way - Order Spartacus to use the 1,820 soldiers to establish defensive blockades on the main roads to Rome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Capua - The Appian Gate** &nbsp;|&nbsp; ⏳ **January 28, 74 Year (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Siren (Bard/Paladin Gestalt) | HP: 133/133 | XP: 197,450/225,000 | Gold: 100,510gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 3/4, L2 3/3, L3 1/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4076,6 +4575,8 @@ Spartacus nods, his dark eyes fixed on the horizon. He bellows orders that rippl
 The 1,820 soldiers are forced to split into small, isolated groups to cover the secondary paths and the vast width of the main road. You watch with a clinical detachment as your vanguard is scythed into thin, vulnerable lines. The blockades are rising, but they lack the depth to hold against a concentrated legionary charge. Your Thracian guards tighten their circle around you, sensing the tactical fragility of the position.
 
 "The line is too thin, My Lady," General Valerius rumbles, his horse shifting beneath him in the chill air. "We have blocked the path, but we have also exposed our throat. If the Eagle finds its rhythm before we reinforce these positions, the sparrows will be scattered to the winds."
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

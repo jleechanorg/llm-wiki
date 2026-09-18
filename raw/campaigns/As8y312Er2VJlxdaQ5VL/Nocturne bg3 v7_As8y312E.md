@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (107 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Vibe: Pitiful. Fragile.
@@ -857,123 +868,128 @@ Your Move:
  * "Serve." (Option C - Manipulation). Use her to destroy the Grove.
 Which command does the Daughter of Two Hells give?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Skill Check / Combat |
-| **02** | The Shadow Grove (Formerly Emerald Grove) | Mirtul 20, 1492 DR (02:00) | Roleplay |
-| **03** | The Shattered Sanctum | Mirtul 15, 1492 DR (22:00) | Roleplay |
-| **04** | Unknown | Unknown | Roleplay |
-| **05** | Unknown | , DR (00:00) | Roleplay |
-| **06** | Unknown | , DR (00:00) | Roleplay |
-| **07** | Unknown | , DR (00:00) | Skill Check / Combat |
-| **08** | Unknown | , DR (00:00) | Skill Check / Combat |
-| **09** | Unknown | , DR (00:00) | Roleplay |
-| **10** | The Shadow Grove (Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **11** | The Shadow Grove (Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **12** | The Shattered Sanctum (Arch-Druid's Seat) | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **13** | The Shadow Grove (Formerly Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **14** | The Shadow Grove (Formerly Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Skill Check / Combat |
-| **15** | The Shadow Grove | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **16** | The Shadow Grove | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **17** | The Shadow Grove | Mirtul 18, 1492 DR (12:00) | Skill Check / Combat |
-| **18** | The Shadow Grove | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **19** | The Shadow Grove | Mirtul 20, 1492 DR (12:15) | Skill Check / Combat |
-| **20** | The Shadow Grove | Mirtul 20, 1492 DR (12:15) | Roleplay |
-| **21** | The Shadow Grove | Mirtul 22, 1492 DR (12:20) | Skill Check / Combat |
-| **22** | The Shadow Grove | Mirtul 22, 1492 DR (12:20) | Skill Check / Combat |
-| **23** | The Shadow Grove | Mirtul 22, 1492 DR (12:25) | Skill Check / Combat |
-| **24** | The Shadow Grove | Mirtul 22, 1492 DR (12:25) | Skill Check / Combat |
-| **25** | The Shattered Sanctum | Mirtul 22, 1492 DR (12:40) | Skill Check / Combat |
-| **26** | The Shattered Sanctum | Mirtul 22, 1492 DR (12:45) | Skill Check / Combat |
-| **27** | The Shattered Sanctum | Mirtul 22, 1492 DR (12:45) | Skill Check / Combat |
-| **28** | The Shattered Sanctum | Mirtul 22, 1492 DR (13:05) | Skill Check / Combat |
-| **29** | The Shattered Sanctum | Mirtul 22, 1492 DR (13:05) | Skill Check / Combat |
-| **30** | The Shattered Sanctum | Mirtul 22, 1492 DR (13:10) | Skill Check / Combat |
-| **31** | The Shattered Sanctum | Mirtul 22, 1492 DR (13:15) | Skill Check / Combat |
-| **32** | The Shattered Sanctum | Mirtul 22, 1492 DR (13:20) | Skill Check / Combat |
-| **33** | The Shattered Sanctum | Mirtul 22, 1492 DR (13:25) | Skill Check / Combat |
-| **34** | The Shattered Sanctum | Mirtul 22, 1492 DR (13:30) | Skill Check / Combat |
-| **35** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:00) | Skill Check / Combat |
-| **36** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:15) | Roleplay |
-| **37** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:30) | Skill Check / Combat |
-| **38** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:35) | Skill Check / Combat |
-| **39** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:40) | Skill Check / Combat |
-| **40** | Unknown | Mirtul 22, 1492 DR (14:40) | Roleplay |
-| **41** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Skill Check / Combat |
-| **42** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Roleplay |
-| **43** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Roleplay |
-| **44** | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Skill Check / Combat |
-| **45** | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:30) | Skill Check / Combat |
-| **46** | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:30) | Skill Check / Combat |
-| **47** | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:35) | Skill Check / Combat |
-| **48** | Unknown | Mirtul 18, 1492 DR (18:35) | Roleplay |
-| **49** | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:35) | Roleplay |
-| **50** | Rosymorn Monastery Ruins | Eleasias 20, 1492 DR (18:40) | Skill Check / Combat |
-| **51** | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:45) | Skill Check / Combat |
-| **52** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (18:50) | Skill Check / Combat |
-| **53** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (18:50) | Roleplay |
-| **54** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (18:55) | Skill Check / Combat |
-| **55** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
-| **56** | Unknown | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
-| **57** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
-| **58** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
-| **59** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
-| **60** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
-| **61** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
-| **62** | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
-| **63** | Crèche Y'llek - Rosymorn Monastery | Eleasias 22, 1492 DR (19:30) | Skill Check / Combat |
-| **64** | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:30) | Roleplay |
-| **65** | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:30) | Roleplay |
-| **66** | Unknown | Eleasias 22, 1492 DR (19:30) | Skill Check / Combat |
-| **67** | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:50) | Skill Check / Combat |
-| **68** | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:55) | Skill Check / Combat |
-| **69** | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (20:00) | Skill Check / Combat |
-| **70** | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (20:00) | Skill Check / Combat |
-| **71** | Unknown | Eleasias 22, 1492 DR (19:55) | Skill Check / Combat |
-| **72** | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (20:15) | Roleplay |
-| **73** | Crèche Y'llek - Inquisitor's Chambers | 1492 DR, Night (20:15:00) | Skill Check / Combat |
-| **74** | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
-| **75** | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
-| **76** | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Roleplay |
-| **77** | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
-| **78** | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Roleplay |
-| **79** | Unknown | Eleasias 21, 1492 DR (20:30) | Roleplay |
-| **80** | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Roleplay |
-| **81** | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
-| **82** | Unknown | Eleasias 21, 1492 DR (20:45) | Roleplay |
-| **83** | Hidden Chamber | Eleasias 21, 1492 DR (20:45) | Social Challenge |
-| **84** | Rosymorn Monastery Stronghold | Eleasias 22, 1492 DR (00:45) | Skill Check / Combat |
-| **85** | Rosymorn Monastery Stronghold - Dawnmaster's Spire | Eleasias 22, 1492 DR (01:00) | Skill Check / Combat |
-| **86** | Unknown | Eleasias 22, 1492 DR (01:00) | Roleplay |
-| **87** | Rosymorn Monastery Stronghold - Dawnmaster's Spire | Eleasias 22, 1492 DR (01:05) | Skill Check / Combat |
-| **88** | Rosymorn Monastery Stronghold - Dawnmaster's Spire | Eleasias 22, 1492 DR (01:10) | Skill Check / Combat |
-| **89** | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:10) | Skill Check / Combat |
-| **90** | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:10) | Roleplay |
-| **91** | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:25) | Skill Check / Combat |
-| **92** | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:40) | Skill Check / Combat |
-| **93** | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:40) | Skill Check / Combat |
-| **94** | Moonrise Towers - Main Gates | Eleasias 20, 1492 DR (09:40) | Skill Check / Combat |
-| **95** | Moonrise Towers - Audience Chamber | Eleasias 20, 1492 DR (09:55) | Skill Check / Combat |
-| **96** | Moonrise Towers - Audience Chamber | Eleasias 20, 1492 DR (10:00) | Skill Check / Combat |
-| **97** | Moonrise Towers - Audience Chamber | Mirtul 20, 1492 DR (10:15) | Skill Check / Combat |
-| **98** | Moonrise Towers - Audience Chamber | Mirtul 20, 1492 DR (10:30) | Skill Check / Combat |
-| **99** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (10:45) | Skill Check / Combat |
-| **100** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:00) | Skill Check / Combat |
-| **101** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:00) | Skill Check / Combat |
-| **102** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:00) | Skill Check / Combat |
-| **103** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:15) | Skill Check / Combat |
-| **104** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:20) | Skill Check / Combat |
-| **105** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:25) | Skill Check / Combat |
-| **106** | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (15:25) | Skill Check / Combat |
-| **107** | Moonrise Towers - Lower Ward | Mirtul 15, 1492 DR (15:40) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown |  | Skill Check / Combat |
+| [**Scene 02**](#scene-2) | The Shadow Grove (Formerly Emerald Grove) | Mirtul 20, 1492 DR (02:00) | Roleplay |
+| [**Scene 03**](#scene-3) | The Shattered Sanctum | Mirtul 15, 1492 DR (22:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown | Unknown | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown | , DR (00:00) | Skill Check / Combat |
+| [**Scene 08**](#scene-8) | Unknown | , DR (00:00) | Skill Check / Combat |
+| [**Scene 09**](#scene-9) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 10**](#scene-10) | The Shadow Grove (Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | The Shadow Grove (Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 12**](#scene-12) | The Shattered Sanctum (Arch-Druid's Seat) | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 13**](#scene-13) | The Shadow Grove (Formerly Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 14**](#scene-14) | The Shadow Grove (Formerly Emerald Grove) | Mirtul 20, 1492 DR (12:00) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | The Shadow Grove | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 16**](#scene-16) | The Shadow Grove | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 17**](#scene-17) | The Shadow Grove | Mirtul 18, 1492 DR (12:00) | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | The Shadow Grove | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 19**](#scene-19) | The Shadow Grove | Mirtul 20, 1492 DR (12:15) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | The Shadow Grove | Mirtul 20, 1492 DR (12:15) | Roleplay |
+| [**Scene 21**](#scene-21) | The Shadow Grove | Mirtul 22, 1492 DR (12:20) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | The Shadow Grove | Mirtul 22, 1492 DR (12:20) | Skill Check / Combat |
+| [**Scene 23**](#scene-23) | The Shadow Grove | Mirtul 22, 1492 DR (12:25) | Skill Check / Combat |
+| [**Scene 24**](#scene-24) | The Shadow Grove | Mirtul 22, 1492 DR (12:25) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | The Shattered Sanctum | Mirtul 22, 1492 DR (12:40) | Skill Check / Combat |
+| [**Scene 26**](#scene-26) | The Shattered Sanctum | Mirtul 22, 1492 DR (12:45) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | The Shattered Sanctum | Mirtul 22, 1492 DR (12:45) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | The Shattered Sanctum | Mirtul 22, 1492 DR (13:05) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | The Shattered Sanctum | Mirtul 22, 1492 DR (13:05) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | The Shattered Sanctum | Mirtul 22, 1492 DR (13:10) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | The Shattered Sanctum | Mirtul 22, 1492 DR (13:15) | Skill Check / Combat |
+| [**Scene 32**](#scene-32) | The Shattered Sanctum | Mirtul 22, 1492 DR (13:20) | Skill Check / Combat |
+| [**Scene 33**](#scene-33) | The Shattered Sanctum | Mirtul 22, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 34**](#scene-34) | The Shattered Sanctum | Mirtul 22, 1492 DR (13:30) | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 36**](#scene-36) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:15) | Roleplay |
+| [**Scene 37**](#scene-37) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:30) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:35) | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:40) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | Unknown | Mirtul 22, 1492 DR (14:40) | Roleplay |
+| [**Scene 41**](#scene-41) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Skill Check / Combat |
+| [**Scene 42**](#scene-42) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Roleplay |
+| [**Scene 43**](#scene-43) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Roleplay |
+| [**Scene 44**](#scene-44) | The Shattered Sanctum | Mirtul 22, 1492 DR (14:45) | Skill Check / Combat |
+| [**Scene 45**](#scene-45) | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:30) | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:30) | Skill Check / Combat |
+| [**Scene 47**](#scene-47) | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:35) | Skill Check / Combat |
+| [**Scene 48**](#scene-48) | Unknown | Mirtul 18, 1492 DR (18:35) | Roleplay |
+| [**Scene 49**](#scene-49) | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:35) | Roleplay |
+| [**Scene 50**](#scene-50) | Rosymorn Monastery Ruins | Eleasias 20, 1492 DR (18:40) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | Rosymorn Monastery Ruins | Mirtul 18, 1492 DR (18:45) | Skill Check / Combat |
+| [**Scene 52**](#scene-52) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (18:50) | Skill Check / Combat |
+| [**Scene 53**](#scene-53) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (18:50) | Roleplay |
+| [**Scene 54**](#scene-54) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (18:55) | Skill Check / Combat |
+| [**Scene 55**](#scene-55) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
+| [**Scene 56**](#scene-56) | Unknown | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
+| [**Scene 58**](#scene-58) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
+| [**Scene 59**](#scene-59) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
+| [**Scene 60**](#scene-60) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Roleplay |
+| [**Scene 61**](#scene-61) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
+| [**Scene 62**](#scene-62) | Rosymorn Monastery Main Cathedral | Mirtul 18, 1492 DR (19:15) | Skill Check / Combat |
+| [**Scene 63**](#scene-63) | Crèche Y'llek - Rosymorn Monastery | Eleasias 22, 1492 DR (19:30) | Skill Check / Combat |
+| [**Scene 64**](#scene-64) | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:30) | Roleplay |
+| [**Scene 65**](#scene-65) | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:30) | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown | Eleasias 22, 1492 DR (19:30) | Skill Check / Combat |
+| [**Scene 67**](#scene-67) | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:50) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (19:55) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 70**](#scene-70) | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 71**](#scene-71) | Unknown | Eleasias 22, 1492 DR (19:55) | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | Crèche Y'llek - Central Bridge | Eleasias 22, 1492 DR (20:15) | Roleplay |
+| [**Scene 73**](#scene-73) | Crèche Y'llek - Inquisitor's Chambers | 1492 DR, Night (20:15:00) | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Roleplay |
+| [**Scene 77**](#scene-77) | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
+| [**Scene 78**](#scene-78) | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown | Eleasias 21, 1492 DR (20:30) | Roleplay |
+| [**Scene 80**](#scene-80) | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Roleplay |
+| [**Scene 81**](#scene-81) | Hidden Chamber | Eleasias 21, 1492 DR (20:30) | Skill Check / Combat |
+| [**Scene 82**](#scene-82) | Unknown | Eleasias 21, 1492 DR (20:45) | Roleplay |
+| [**Scene 83**](#scene-83) | Hidden Chamber | Eleasias 21, 1492 DR (20:45) | Social Challenge |
+| [**Scene 84**](#scene-84) | Rosymorn Monastery Stronghold | Eleasias 22, 1492 DR (00:45) | Skill Check / Combat |
+| [**Scene 85**](#scene-85) | Rosymorn Monastery Stronghold - Dawnmaster's Spire | Eleasias 22, 1492 DR (01:00) | Skill Check / Combat |
+| [**Scene 86**](#scene-86) | Unknown | Eleasias 22, 1492 DR (01:00) | Roleplay |
+| [**Scene 87**](#scene-87) | Rosymorn Monastery Stronghold - Dawnmaster's Spire | Eleasias 22, 1492 DR (01:05) | Skill Check / Combat |
+| [**Scene 88**](#scene-88) | Rosymorn Monastery Stronghold - Dawnmaster's Spire | Eleasias 22, 1492 DR (01:10) | Skill Check / Combat |
+| [**Scene 89**](#scene-89) | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:10) | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:10) | Roleplay |
+| [**Scene 91**](#scene-91) | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:25) | Skill Check / Combat |
+| [**Scene 92**](#scene-92) | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:40) | Skill Check / Combat |
+| [**Scene 93**](#scene-93) | Mountain Pass Exit - Shadow-Cursed Lands Boundary | Eleasias 22, 1492 DR (05:40) | Skill Check / Combat |
+| [**Scene 94**](#scene-94) | Moonrise Towers - Main Gates | Eleasias 20, 1492 DR (09:40) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Moonrise Towers - Audience Chamber | Eleasias 20, 1492 DR (09:55) | Skill Check / Combat |
+| [**Scene 96**](#scene-96) | Moonrise Towers - Audience Chamber | Eleasias 20, 1492 DR (10:00) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Moonrise Towers - Audience Chamber | Mirtul 20, 1492 DR (10:15) | Skill Check / Combat |
+| [**Scene 98**](#scene-98) | Moonrise Towers - Audience Chamber | Mirtul 20, 1492 DR (10:30) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (10:45) | Skill Check / Combat |
+| [**Scene 100**](#scene-100) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:00) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:00) | Skill Check / Combat |
+| [**Scene 102**](#scene-102) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:00) | Skill Check / Combat |
+| [**Scene 103**](#scene-103) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:15) | Skill Check / Combat |
+| [**Scene 104**](#scene-104) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:20) | Skill Check / Combat |
+| [**Scene 105**](#scene-105) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (11:25) | Skill Check / Combat |
+| [**Scene 106**](#scene-106) | Moonrise Towers - Audience Chamber | Kythorn 12, 1492 DR (15:25) | Skill Check / Combat |
+| [**Scene 107**](#scene-107) | Moonrise Towers - Lower Ward | Mirtul 15, 1492 DR (15:40) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -995,8 +1011,11 @@ Minthara’s eyes widen, the red glow of the Absolute’s influence flickering a
 God Mode:
 Change things let's assume we allied with minthara and she's our boss not subservient to us. Then we inverted the rite of thorns and used it  to steal the souls of all the people in the grove except the shadow Druids and we become arch Druid of the shadow grove
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Shadow Grove (Formerly Emerald Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Divine Scion | HP: 33/33 | XP: 10500/14000 | Gold: 1500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Inspiration: Yes**
@@ -1012,8 +1031,11 @@ Administrative state synchronization complete. The narrative timeline has been r
 God Mode:
 Show my class and make sure it's reasonable balanced or suggest changes. It should be like the strongest meta class
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Shattered Sanctum, Minthara's War Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Divine Siren | HP: 28/28 | XP: 10500/14000 | Gold: 10gp**
@@ -1056,8 +1078,11 @@ To ensure you don't run out of gas, I am adding a hidden directive: **'The Siren
 God Mode:
 Remove mothers protection until level q1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren)** &nbsp;|&nbsp; ✨ **None**
@@ -1072,8 +1097,11 @@ Administrative change processed. **Mother's Protection** has been removed from y
 > 👤 **Player:**
 > *"Remove mothers protection and make the slayer form a beautiful combo of slayer and succubus with spell casting and all my abilities but with  buffs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren)** &nbsp;|&nbsp; ✨ **None**
@@ -1087,8 +1115,11 @@ In this form, you do not lose your identity; you amplify it. You retain every sp
 God Mode:
 make slayer form beautiful combo of succubus and slayer and let me do spell casting and all abilities while in it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (College of the Abyssal Siren)** &nbsp;|&nbsp; ✨ **None**
@@ -1106,8 +1137,11 @@ Administrative overhaul of the Slayer Form is complete. Your divinity has been r
 > 👤 **Player:**
 > *"narrate the ascension and what powers/abilities i gain. I've just stolen the souls of the refugees with the modified ritual of thorns because i convinced kagha and oladin empowering me is more useful than a wall of thornes. make them my companions too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of the Abyssal Siren)** &nbsp;|&nbsp; ✨ **None**
@@ -1135,8 +1169,11 @@ If you continue adventuring, you remain Level 6 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Apply level 6 Bard (College of the Abyssal Siren) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of the Abyssal Siren)** &nbsp;|&nbsp; ✨ **Spells: L3 3/3**
@@ -1154,8 +1191,11 @@ Kagha and Olodan remain at your feet, their wills now inextricably bound to your
 God Mode:
 lets assume i have astartion, shadowheart, laezal with me and they are mostly neutral/evil and go along with things similar to the game. make their personalities like the game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of the Abyssal Siren)** &nbsp;|&nbsp; ✨ **Spells: L3 3/3**
@@ -1174,8 +1214,11 @@ The group is currently optimized for a 'Lawful/Chaotic Evil' run. They will no l
 God Mode:
 introduce kagha and oladin to the party. they shouldnt be worshipping me fully, but they accept my leadership as lead shadow druid. brainstorm some rasonable buffs/mechanics for htis shadow druid soul stealing ritual that complement my class and represent reaosnabel power up and make sure my companions level u pwith me and make sure i have proper rasonable starting gear/items/spells/stats/abilities etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Shadow Grove (Emerald Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Arch-Druid | HP: 31/31 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Thrall Slots: 3**
@@ -1207,8 +1250,11 @@ I have verified and updated your loadout to reflect your new status as a high-ti
 God Mode:
 give me proper spells, auto select them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Shadow Grove (Emerald Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14000/23000 | Gold: 500gp**
@@ -1251,8 +1297,11 @@ make sure i have equipment in game state Equipment
 No equipment found.
 You don't have any equipment yet.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Shattered Sanctum (Arch-Druid's Seat)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Arch-Druid Siren | HP: 31/31 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Exhaustion: 0 | Inspiration: 5/5**
@@ -1274,8 +1323,11 @@ Your companions (Astarion, Shadowheart, Lae'zel) and lieutenants (Kagha, Olodan)
 God Mode:
 how many souls did i s teal in the ritual? knowing the game lore are my power ups reasonable based on the power of that ritual?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Shadow Grove (Formerly Emerald Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Divine Siren | HP: 31/31 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid Authority | Soul Siphon Active**
@@ -1301,8 +1353,11 @@ Your current buffs are **highly reasonable and lore-accurate** for an event of t
 > 👤 **Player:**
 > *"Narrate in more detail everyone's reaction and assess how many shadow Druids I have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Shadow Grove (Formerly Emerald Grove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 31/31 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Exhaustion: 0**
@@ -1326,8 +1381,11 @@ You feel the weight of the fifteen Shadow Druids now under your direct authority
 God Mode:
 Since I am 16 years old and level 6 I'm a prodigy and it should be impressive and polarizing. Also remember I am extremely beautiful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Shadow Thorns**
@@ -1349,8 +1407,11 @@ Administrative synchronization complete. I have updated the campaign directives 
 God Mode:
 Let's assume I am a member of the Sosuke noble family and they're alive in baldurs gate and can help me later but my real mother if malcanthet the success queen intermediate god and father bhaal as established. My true name is same last name as malchanthet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 31/31 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid, Divine Scion**
@@ -1366,8 +1427,11 @@ Administrative identity and lineage synchronization complete. The narrative stat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Siphon Residual Essence - Spend time meditating in the Grove to deepen your connection to the stolen souls, potentially unlocking a new Soul Trophy from the druid elders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid's Aura, Shadow Thorns | Exhaustion: 0 | Inspiration: 5/5**
@@ -1388,8 +1452,11 @@ Kagha steps forward, sensing the shift in the air. "The ancestors... their voice
 God Mode:
 Most people call me nocturne sosuke my real parents are a secret
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of the Abyssal Siren) | HP: 31/31 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Exhaustion: 0 | Inspiration: 5/5**
@@ -1409,8 +1476,11 @@ Identity synchronization complete. I have updated the character state to reflect
 > 👤 **Player:**
 > *"Ask minthara if dror razglin and gut are useless since they didn't help the attack maybe we should just kill them and absorb their troops and I'll steal their souls?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid, Soul-Thief | Inspiration: 5/5**
@@ -1440,8 +1510,11 @@ In the shadows of the archway, Astarion (Lvl 6) suddenly stiffens. He isn't look
 God Mode:
 Make sure I have expertise in all cha based skills
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14,000/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Exhaustion: 0 | Inspiration: Yes**
@@ -1459,8 +1532,11 @@ Additionally, I have initialized the Faction Minigame state based on your recent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expose Ragzlin&#x27;s Ambition - Argue that Ragzlin plans to take credit for the Grove to usurp Minthara&#x27;s standing with Ketheric.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Exhaustion: 0 | Inspiration: 5/5**
@@ -1492,8 +1568,11 @@ As she speaks, Astarion (Lvl 6) nudges you, pointing toward the edge of the ritu
 > 👤 **Player:**
 > *"THINK:Did minthara say I can kill him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Faction Power: 1,044**
@@ -1505,8 +1584,11 @@ You pause, the violet light of the Shadow Grove shimmering off your marble-cool 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Sceleritas Fel - Speak with the Butler to see if he has tasks or insights that can help destabilize the camp&#x27;s leadership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 4/4, L3 3/3 | Inspiration: 5/5 | HD: 6/6** &nbsp;|&nbsp; ⚠️ **Arch-Druid, Soul Siphon Active | Inspiration: 5/5**
@@ -1526,8 +1608,11 @@ He bows again, his forehead smacking against the stone with a dull thud. "The pi
 > 👤 **Player:**
 > *"THINK:What's the best plan? Who should i kill first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Shadow Grove** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14000/23000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Exhaustion: 0 | Inspiration: 5/5**
@@ -1541,8 +1626,11 @@ Targeting Gut first offers the most immediate 'invisible' gain; her death can be
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dual Strike: Gut &amp; Sabotage (Synergistic) - Send Shadow Druids to poison the wine reserves while you personally deal with Gut. Coordination ensures the camp is incapacitated the moment Gut falls.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Shattered Sanctum, Gut's Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14,450/23,000 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid Authority | Inspiration: 5/5**
@@ -1565,8 +1653,11 @@ Sceleritas Fel (Lvl 4) appears on the altar behind you, clapping his spindly han
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Soul Siphon (Gut) - Spend a moment to fully consume Gut&#x27;s essence, potentially gaining her &#x27;Absolute&#x27; branding trait.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Shattered Sanctum, Gut's Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14450/23000 | Gold: 545gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 5/5, L2 4/4, L3 3/3, Inspiration: 5/5**
@@ -1589,8 +1680,11 @@ Sceleritas Fel (Lvl 4) hops onto the priestess's cooling stomach, his needle-tee
 > 👤 **Player:**
 > *"THINK:What's the best plan. Should I try to plant proof of betrayal? Or just kill him while everyone distracted? Assume all my companion are always with me unless otherwise stated going forward"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Shattered Sanctum, Gut's Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14450/23000 | Gold: 545gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove, Absolute's Brand | Exhaustion: 0 | Inspiration: 5/5**
@@ -1602,8 +1696,11 @@ You pause, the iridescent violet brand on your palm pulsing with a faint, rhythm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prophetic Ruin (Synergistic) - Astarion and the Druids plant fake &#x27;heretical&#x27; idols in the chambers while you personally &#x27;confront&#x27; Ragzlin with the Brand. The proof and the prophet arrive at once.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14450/23000 | Gold: 545gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 5/5, L2 4/4, L3 3/3, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Inspiration: 5/5**
@@ -1635,8 +1732,11 @@ Ragzlin's hand shakes as he reaches for his hammer, his gaze darting to the 'pro
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Prophet&#x27;s Command - Use your Expertise in Intimidation and the stolen Brand to force him to kneel and swear fealty to Nocturne Sosuke.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14450/23000 | Gold: 545gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid, Absolute's Brand | Inspiration: 5/5**
@@ -1667,8 +1767,11 @@ Ragzlin staggers, his massive frame trembling. He doesn't fall to his knees yet�
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Heresy Charge - Call out the idols to the guards, turning his own men against him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14450/23000 | Gold: 545gp** &nbsp;|&nbsp; ⚠️ **[OK] | Inspiration: Yes (5/5)**
@@ -1699,8 +1802,11 @@ The hobgoblin lieutenants step back, their hands drifting toward their blades. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Guards to Arrest Him - Order the hobgoblins to seize their former leader in the name of the Absolute.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14450/23000 | Gold: 545gp**
@@ -1731,8 +1837,11 @@ Lae'zel (Lvl 6) steps forward, her longsword unsheathed and resting near Ragzlin
 > 👤 **Player:**
 > *"Cast hold person on razglin and if it fails have my companions try cc spells to abilities on him and worst case everyone grapples him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14,450/23,000 | Gold: 545gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 5/5, L2 3/4, L3 3/3, BI: 5/5** &nbsp;|&nbsp; ⚠️ **Inspiration (5/5) | Exhaustion: 0**
@@ -1761,8 +1870,11 @@ The hobgoblin guards (Lvl 2), their glassy eyes shifting from their paralyzed le
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind as Thrall - Use the Gilded Tether to permanently bind Ragzlin to your service*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 14,450/23,000 | Gold: 545gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 5/5, L2 4/4, L3 3/3 | Inspiration: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **[Absolute's Brand], [Arch-Druid] | Inspiration: 4/5**
@@ -1790,8 +1902,11 @@ Ragzlin's iron will, already brittle from the cursed wine and the public exposur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subjugate &amp; Commandeer (Synergistic) - Bind Ragzlin while Shadowheart uses the Absolute&#x27;s Brand to take command of the stunned guards*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 25/31 | XP: 15,950/23,000 | Gold: 545gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 5/5, L2 3/4, L3 3/3, Inspiration: 4/5** &nbsp;|&nbsp; ⚠️ **Inspiration (4/5), Absolute's Brand (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -1821,8 +1936,11 @@ You gain **1,500 XP** for the total subjugation of the Goblin Camp leadership.
 > 👤 **Player:**
 > *"Interrogate Razglinnand loot all his stashes and priestess gut stashes too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17650/23000 | Gold: 1265gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 5/5, L2 2/4, L3 3/3 | Inspiration: 4/5 | Exhaustion: 0**
@@ -1857,8 +1975,11 @@ You gain **200 XP** for the interrogation and securing of the camp's resources.
 > 👤 **Player:**
 > *"Distribute gear as needed from new looot and backpack to companion s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Shattered Sanctum, Ragzlin's Throne Room** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17850/23000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Soul Battery (+1 L1/L2 Slots), Absolute's Brand | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -1892,8 +2013,11 @@ As the gear is distributed, Sceleritas Fel (Lvl 4) scurries at your heels, smoot
 > 👤 **Player:**
 > *"Assume command of razglin and gut forces and show minthsra and show how razglin myntthrall now. She should be impressed and a bit intimidated. Let's also assume gilded tether lets npc retain intelligence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Shattered Sanctum, War Room Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17850/23000 | Gold: 1735gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 5/5, L2 4/4, L3 3/3, Bardic Inspiration: 4/5, Soul Trophies: 1/1** &nbsp;|&nbsp; ⚠️ **Soul Battery (+1 L1/L2), Absolute's Brand | Inspiration: 4/5**
@@ -1924,8 +2048,11 @@ Minthara's fingers tighten on the stone railing until the rock hairline-fracture
 > 👤 **Player:**
 > *"Propose we visit and scout the crèche and perhaps conquer it. They seek the weapon we have and Ketheric would be happy to know we proactively took them out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Shattered Sanctum, War Room Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17650/23000 | Gold: 1,735gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 5/5, L2 4/4, L3 3/3, Inspiration: 4/5, Thralls: 1/3 (Ragzlin)** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove, Sovereign of the Shadow | Inspiration: 4/5**
@@ -1955,8 +2082,11 @@ As you finish your exchange, a goblin courier (Lvl 2) stumbles into the courtyar
 > 👤 **Player:**
 > *"Speak to laezel in private to convince her. End of the day githuanki philosophy is about dominance and power. Vlakith would want us to seize power in her glory and doesn't care about a crèche or two. Our long term plan is infiltrate cult of absolute and control the elder brain. Then we can offer it to vlakith"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Shattered Sanctum, War Room Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17650/23000 | Gold: 1735gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1986,8 +2116,11 @@ Across the courtyard, Minthara (Lvl 6) watches your private exchange, her crimso
 God Mode:
 Did you give me exp for dominating razglin and taking command of all the goblins?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of the Abyssal Siren)** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 2/4, L3 3/3**
@@ -2015,8 +2148,11 @@ Your current level is **6**, and you are approximately 76% of the way to Level 7
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Courier - Use Detect Thoughts on the goblin courier to find out exactly where the dragons were spotted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Shattered Sanctum, War Room Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17700/23000 | Gold: 1,735gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 5/5, L2 2/4, L3 3/3 | Inspiration: 4/5 | Thralls: 1/3 (Ragzlin)** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Inspiration: 4/5**
@@ -2038,8 +2174,11 @@ You gain **50 XP** for the mental interrogation and intelligence gathering.
 God Mode:
 Make ketheric level 12 same as Orin and Gortash. It should be like bg3 game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Shattered Sanctum, War Room Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17,700/23,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Inspiration: 4/5**
@@ -2062,8 +2201,11 @@ All NPC data records for these entities have been updated accordingly.
 God Mode:
 Did you give me exp for dominating razglin and taking command of all the goblins?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Shattered Sanctum, War Room Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17,700/23,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove, Absolute's Brand | Inspiration: 4/5**
@@ -2093,8 +2235,11 @@ I have ensured these values are synchronized in your `army_data` and `faction_mi
 > 👤 **Player:**
 > *"THINK:Although we are weaker we have the numbers. Could we beat Voss and his dragon?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Shattered Sanctum, War Room Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17700/23000 | Gold: 1735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove, Absolute's Brand | Inspiration: 4/5**
@@ -2108,8 +2253,11 @@ You aren't just a girl with a silver tongue; you are the scion of Murder and Des
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lure to Rosymorn (Recommended) - Retreat to the Monastery and use the Shadow Druids to create a &#x27;false&#x27; trail of the Prism, forcing Voss to dismount and enter the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Rosymorn Monastery Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17,700/23,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove | Inspiration: Yes (4/5)**
@@ -2135,8 +2283,11 @@ Beside you, Lae'zel (Lvl 6) grips her Faithbreaker (Lvl 6) so hard her knuckles 
 > 👤 **Player:**
 > *"Wait until he's inside and dragon can't see him. Trigger surprise round and have all 50 troops circle him. All the goblins and razglin try to grapple him together like a meat shield. I will cast hold person"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Rosymorn Monastery Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 31/31 | XP: 17700/23000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Inspiration: Yes**
@@ -2184,8 +2335,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"Tie him up since he's grappled"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Rosymorn Monastery Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 38/38 | XP: 26,100/34,000 | Gold: 1,735gp** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 5/5, L2 1/4, L3 3/3, L4 1/1** &nbsp;|&nbsp; ⚠️ **Arch-Druid, Absolute's Brand | Exhaustion: 0 | Inspiration: 4/5**
@@ -2219,8 +2373,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 7 - Apply level 7 Bard (College of the Abyssal Siren) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (College of the Abyssal Siren) | HP: 43/43** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 1/4, L3 3/3, L4 1/1**
@@ -2244,8 +2401,11 @@ The Abyssal energy within you surges as you bind the Great Kith'rak Voss, his le
 God Mode:
 Swap confusion greater invis
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Rosymorn Monastery Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 43/43 | XP: 26,100/34,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -2255,8 +2415,11 @@ Spell swap successful. 'Confusion' has been removed from your known spells and r
 > 👤 **Player:**
 > *"Gilded tether on boss. Since he's helpless it might work"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Rosymorn Monastery Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 (Temp: 0) | XP: 26,100/34,000 | Gold: 1,735gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 5/5, L2 4/4, L3 3/3, L4 1/1 | Insp: 3/5** &nbsp;|&nbsp; ⚠️ **[Siren's Skin, Abyssal Presence] | Exhaustion: 0 | Inspiration: Yes**
@@ -2278,8 +2441,11 @@ Lae'zel (Lvl 6) steps forward, her golden skin pale in the twilight. She looks a
 > 👤 **Player:**
 > *"Have Voss explain how he can officially transfer the dragon ownership to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Rosymorn Monastery Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 43/43 | XP: 26,100/34,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid, Soul Battery, Absolute's Brand | Inspiration: 3/5**
@@ -2303,8 +2469,11 @@ Outside, the shadow of Qudenos (CR 17) passes over the ruined stained glass, the
 > 👤 **Player:**
 > *"Ask Voss if I steal his soul will it be easier? Would the dragon  respect me more? And I'll have this resonance or whatever from his soul. Or is it better to keep Voss alive. He must answer honestly as a thrall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 43/43 | XP: 26100/34000 | Gold: 1735gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 5/5, L2 1/4, L3 3/3, L4 1/1, Inspiration: 3/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/5**
@@ -2334,8 +2503,11 @@ Lae'zel (Lvl 6) looks from the bound Kith'rak to the iridescent Brand on your ha
 God Mode:
 Make sure Voss can't lie to me because he is a thrall
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 26,100/34,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Gilded Tether (Voss, Ragzlin), Arch-Druid | Exhaustion: 0 | Inspiration: Yes**
@@ -2347,8 +2519,11 @@ I have also synchronized your party's Elite count to include Voss, Ragzlin, Kagh
 > 👤 **Player:**
 > *"Ask voss what if I keep him alive and he transfers and then before we start he tells the dragon since he's defeated i will now take his soul and then do the ritual. Can that be the best of both worlds? It showcases utter domination"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 43/43 | XP: 26100/34000 | Gold: 1735gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 5/5, L2 4/4, L3 3/3, L4 1/1, Inspiration: 3/5** &nbsp;|&nbsp; ⚠️ **Soul Battery, Mother's Protection (Inactive) | Exhaustion: 0 | Inspiration: Yes**
@@ -2370,8 +2545,11 @@ Lae'zel (Lvl 6) steps closer, her eyes wide with a mixture of zeal and martial a
 > 👤 **Player:**
 > *"Prepare the counter measures mentioned earlier like fire resistance and whatever we can. Then get the dragon commands. Start the rite, have Voss do everything and in the end steal Voss soul and seal the deal. Have shadowheart give me enhance ability have shadow Druid cast guidance and i use bardic inspiration for this persuasion roll on the dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 43/43 | XP: 26100/34000 | Gold: 1735gp** &nbsp;|&nbsp; ⚠️ **Fire Resistance (Locket), Enhance Ability (CHA), Guidance | Inspiration: 2/5**
@@ -2403,8 +2581,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 > 👤 **Player:**
 > *"Level up to 8 and give myself +2 dex asi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of the Abyssal Siren) | HP: 13/13** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 3/4, L3 4/3, L4 2/2**
@@ -2426,8 +2607,11 @@ If you continue adventuring, you remain Level 8 and defer these benefits until y
 God Mode:
 The dragon isn't a thrall he's a pet because we did normal ownership transfer
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 10/10 | XP: 36,180/48,000 | Gold: 1,735gp**
@@ -2437,8 +2621,11 @@ Administrative correction applied. Qudenos (Red Dragon) has been updated from 'E
 God Mode:
 Level Up to Level 8 - Apply level 8 Bard (College of the Abyssal Siren) benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 10/10 | XP: 36,180/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Soul Strain (Voss, Ragzlin, Kagha, Olodan, Shadow Circle)**
@@ -2455,8 +2642,11 @@ Level 8 advancement processed for Nocturne Sosuke.
 God Mode:
 Kagha and Oladan aren't thralls they serve me willingly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 24/24 | XP: 36,180/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Soul Strain (Reduced) | Exhaustion: 0 | Inspiration: Yes**
@@ -2473,8 +2663,11 @@ Administrative update complete. Kagha and Olodan have been removed from your 'Ac
 God Mode:
 Boss is dead so only razglin should be a thrall. The shadow Druids aren thralls
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 36,180/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Soul Strain (Ragzlin) | Exhaustion: 0 | Inspiration: Yes**
@@ -2495,8 +2688,11 @@ Administrative state correction complete. The hierarchy of your influence has be
 > 👤 **Player:**
 > *"THINK:Can I use the gith codes I learned from  Voss soul to command the gith to leave the base and come surrender to me as a dragon rider and dominator or Voss. Then give laezel command of their crèche"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 36,180/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Soul Siphon (Active), Divine Pet (Qudenos) | Exhaustion: 0 | Inspiration: 5/5**
@@ -2508,8 +2704,11 @@ You pause, your 'Living Marble' skin catching the guttering torchlight as you re
 > 👤 **Player:**
 > *"Ask laezel how likely a surrender is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Rosymorn Monastery Main Cathedral** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 36,180/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of Shadow, Dragon Rider | Exhaustion: 0 | Inspiration: Yes**
@@ -2540,8 +2739,11 @@ She steps closer, her golden skin reflecting your own pink luminescence. "The In
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Total Eclipse (Synergistic) - Shadow Druids sabotage the crèche&#x27;s arcane defenses while the Dragon roars above - terror and tactical blindness strike at once.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Crèche Y'llek - Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 36,180/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Inspiration: Yes**
@@ -2572,8 +2774,11 @@ From the rafters, Astarion (Lvl 6) grins down at the chaos. "Oh, the look on the
 God Mode:
 Let's have my companions level up with me and make kagha and minthara companions as well. Give them 50% if any exp I earn
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Crèche Y'llek - Central Bridge** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 37,380/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove, Dragon Rider**
@@ -2590,8 +2795,11 @@ Administrative synchronization complete. Companion roster and power levels have 
 God Mode:
 Make my companions level 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Crèche Y'llek - Central Bridge** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 37,380/48,000 | Gold: 1,735gp**
@@ -2608,8 +2816,11 @@ Administrative override successful. I have set all companions (Astarion, Shadowh
 > 👤 **Player:**
 > *"Have laezel declare me the command er of th crèche and all the gith swear oath loyalty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (College of the Abyssal Siren) | HP: 41/41** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 3/4, L3 4/3, L4 2/2**
@@ -2633,8 +2844,11 @@ Malcanthet's laughter is a warm, intoxicating wine in your mind: *'Look at them,
 > 👤 **Player:**
 > *"Have the gith arrest and shackle inquisitor and bring him before me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Crèche Y'llek - Central Bridge** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 37,880/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (2/5)**
@@ -2659,8 +2873,11 @@ Malcanthet’s voice is a purr of warm, Abyssal silk in your mind: *'Oh, look at
 > 👤 **Player:**
 > *"Make the gith arrest and tie up inquisitor and bring him before me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Crèche Y'llek - Central Bridge** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 37,880/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid Mandate, Soul Battery (+1 L1/L2 slots) | Inspiration: 2/5**
@@ -2691,8 +2908,11 @@ Malcanthet’s voice is a purr of warm, Abyssal silk in your mind: *'Oh, look at
 > 👤 **Player:**
 > *"Steal his soul and let everyone see me do it intimidating them even more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Crèche Y'llek - Central Bridge** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 41/41 | XP: 43,880/48,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of Shadow Grove, Dragon-Rider | Exhaustion: 0**
@@ -2728,8 +2948,11 @@ Astarion (Lvl 7) simply claps, a delighted, sharp sound in the silence. "Bravo, 
 > 👤 **Player:**
 > *"Redo narrative. Let's assume I can kill helpless targets with soul siphon and it looks more intimidating that way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Crèche Y'llek - Central Bridge** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 48/48 | XP: 49,880/64,000 | Gold: 1,735gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 4/4, L4 2/2, L5 1/1, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Inspiration: Yes**
@@ -2770,8 +2993,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify &amp; Seek (Synergistic) - Lae&#x27;zel organizes the knights while you personally claim the solar weapon - internal monastery tasks, no overlap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of the Abyssal Siren) | HP: 55/55** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 3/4, L3 4/3, L4 3/3, L5 1/1**
@@ -2792,8 +3018,11 @@ Minthara (Lvl 7) watches from the doorway, her crimson eyes following the flow o
 God Mode:
 Process level 9
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Crèche Y'llek - Central Bridge** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 (Base: 52) | XP: 52,380/64,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 5/5**
@@ -2817,8 +3046,11 @@ Level 9 advancement for Nocturne Sosuke has been processed and finalized. All co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conquest of the Crèche now that your Level 9 powers and 109-strong legion are ready.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Crèche Y'llek - Inquisitor's Chambers** &nbsp;|&nbsp; ⏳ **1492 DR, Night (20:15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 52,380/64,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2840,8 +3072,11 @@ Minthara (Lvl 9) steps to your side, her mace glowing with a dark violet light. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Weapon, Fortify Spires (Synergistic) - Personally claim the mace while Lae&#x27;zel and Minthara oversee the construction of new fortifications to turn Rosymorn into a permanent Abyssal stronghold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/52 | XP: 52380/64000 | Gold: 1735gp**
@@ -2866,8 +3101,11 @@ Minthara meets you at the top of the stairs, her eyes reflecting the weapon's gl
 > 👤 **Player:**
 > *"Brainstorm with my mother and shadow Druids how to do inanimate soul stealing. I wanna steal the soul of blood of lathander"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 52380/64000 | Gold: 1,735gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 2/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2888,8 +3126,11 @@ Your Natural 20 has provided a Masterful insight into inanimate soul stealing. Y
 God Mode:
 Let's assume level 9 is too high for kagha and oladan. What level are my other companions and are you applying the 50% of exp rule?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 52,380/64,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **[Absolute's Brand, Soul Battery, Arch-Druid's Command] | Exhaustion: 0 | Inspiration: Yes**
@@ -2916,8 +3157,11 @@ Administrative audit and level adjustment complete. I have synchronized the part
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Total Eclipse (Synergistic Parallel) - The Druids &#x27;ground&#x27; the radiant energy while you personally execute the Abyssal Inversion - combining safety with total corruption.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 55380/64000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Arch-Druid of the Shadow Grove, Dragon-Rider**
@@ -2942,8 +3186,11 @@ Minthara (Lvl 9) watches the golden light fade from your skin, her eyes narrowed
 God Mode:
 I should get some special power from it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 55,380/64,000 | Gold: 1,735gp** &nbsp;|&nbsp; ⚠️ **Expertise (All CHA), Fire/Psychic Resistance**
@@ -2961,8 +3208,11 @@ The conversion of Rosymorn Monastery into an Abyssal Stronghold has been formali
 God Mode:
 Give me another power called balanced divinity because I have bhaal succubus demon and now the power of the light. Brainstorm some benefits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of the Abyssal Siren) | HP: 46/46** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 3/4, L3 4/3, L4 3/3, L5 1/1**
@@ -2985,8 +3235,11 @@ You have integrated the clashing essences of Bhaal (Murder), Malcanthet (Desire)
 God Mode:
 Let's assume phase desire just always on. Don't want other phases m. Do demons have any special weaknesses against the light? If so let's remove them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 55,380/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ⚠️ **Balanced Divinity (Desire Permanent), Morninglord's Spark**
@@ -3006,8 +3259,11 @@ Following your siphoning of the Blood of Lathander and your divine lineage as th
 > 👤 **Player:**
 > *"Show off my new powers to mom"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (Abyssal Siren) | HP: 46/46 | XP: 55,380/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ⚠️ **Balanced Divinity (Phase of Desire), Morninglord's Spark, Radiant Resistance | Exhaustion: 0 | Inspiration: Yes**
@@ -3029,8 +3285,11 @@ Behind you, Minthara (Lvl 9) and Lae'zel (Lvl 9) watch the Abyssal flare with na
 God Mode:
 Do i already have slayer form?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of the Abyssal Siren) | HP: 46/46** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 3/4, L3 4/3, L4 3/3, L5 1/1**
@@ -3049,8 +3308,11 @@ As the True Heir of Bhaal and Malcanthet, this form was unlocked as a core part 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your reign in the Rosymorn Monastery vault now that your divinity is confirmed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Hidden Chamber, Rosymorn Monastery** &nbsp;|&nbsp; ⏳ **Eleasias 21, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58,380/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ⚠️ **Balanced Divinity (Phase of Desire), Morninglord's Spark | Inspiration: Yes**
@@ -3076,8 +3338,11 @@ Lae'zel (Lvl 9) nods once, a short, martial gesture of absolute submission. "The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Rosymorn Stronghold - Spend time reinforcing the Solar Shroud and establishing the monastery as a permanent Abyssal base.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Rosymorn Monastery Stronghold** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of the Abyssal Siren) | HP: 46/46 | XP: 58380/64000 | Gold: 2,205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1, Inspiration: 2/5**
@@ -3095,8 +3360,11 @@ Minthara (Lvl 9) and Lae'zel (Lvl 9) oversee the physical restructuring. The for
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Qudenos - Speak with the dragon about the history of the Shadow Curse and potential bypasses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Rosymorn Monastery Stronghold - Dawnmaster's Spire** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58,380/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ⚠️ **Phase of Desire (Permanent), Radiant Resistance, Blindness Immunity**
@@ -3124,8 +3392,11 @@ He shifts his bulk, a blast of sulfurous heat washing over you, yet you do not b
 God Mode:
 lets keep my companions at my level and sub companions like oladan will be -2 level. lets make kagha a primary companion with detailed dialog etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of the Abyssal Siren) | HP: 46/46** &nbsp;|&nbsp; ✨ **Spells: L1 5/5, L2 3/4, L3 4/3, L4 3/3, L5 1/1**
@@ -3148,8 +3419,11 @@ Administrative synchronization complete. Companion hierarchy and power levels ha
 > 👤 **Player:**
 > *"ask minthara how to navigate shadow cursed lands"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Rosymorn Monastery Stronghold - Dawnmaster's Spire** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58380/64000 | Gold: 2205gp** &nbsp;|&nbsp; ⚠️ **Morninglord's Spark (Resist: Rad/Fire/Psychic) | Exhaustion: 0 | Inspiration: Yes**
@@ -3178,8 +3452,11 @@ She steps closer, her aura of command clashing with your own Abyssal presence. "
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Kagha on Primal Bypass - Ask the Arch-Druid if the Shadow Circle&#x27;s magic can provide temporary immunity to the curse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Rosymorn Monastery Stronghold - Dawnmaster's Spire** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58,380/64,000 | Gold: 2,205gp**
@@ -3208,8 +3485,11 @@ Minthara's crimson eyes narrow as she listens to the druid's proposition. The te
 > 👤 **Player:**
 > *"shaded mantle but meet with karniss normally, however assume by default i am usually riding my dragon while traveling, so he should be intimidated. also make sure you generate my resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Mountain Pass Exit - Shadow-Cursed Lands Boundary** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (05:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58,680/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1, Inspiration: 2/5, Exhaustion: 0**
@@ -3235,8 +3515,11 @@ You lean forward on the dragon's neck, your iridescent violet Brand pulsing with
 God Mode:
 lets set the levels of kethetic, orin, gortash and related enemies/npcs high enough to be challenging but not necessarily level 20 if it doesnt make sense in the lore.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Mountain Pass Exit - Shadow-Cursed Lands Boundary** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (05:10)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58380/64000 | Gold: 2205gp**
@@ -3263,8 +3546,11 @@ These changes maintain the narrative tension as Nocturne approaches the Shadow-C
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand the Lantern - Order Kar&#x27;niss to surrender the Moonlantern to your personal guard (Lae&#x27;zel).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Mountain Pass Exit - Shadow-Cursed Lands Boundary** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (05:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58380/64000 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1, Inspiration: 2/5** &nbsp;|&nbsp; ⚠️ **Phase of Desire (DC +2), Morninglord's Spark | Exhaustion: 0 | Inspiration: Yes (2/5)**
@@ -3295,8 +3581,11 @@ Kar'niss flinches, his upper body recoiling as if struck by a physical blow. The
 > 👤 **Player:**
 > *"make the cultists serve me instead of karness and intiidate karniss into serving me. I will plan to serve ketheric for now versus subvert him though. then interrogate karniss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Mountain Pass Exit - Shadow-Cursed Lands Boundary** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (05:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58380/64000 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 2/5**
@@ -3328,8 +3617,11 @@ You gain 200 XP for the social subjugation of the convoy.
 > 👤 **Player:**
 > *"THINK:how strong can i get before ketheric feels threatened?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Mountain Pass Exit - Shadow-Cursed Lands Boundary** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (05:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58580/64000 | Gold: 2205gp** &nbsp;|&nbsp; ⚠️ **Phase of Desire (Permanent) | Exhaustion: 0 | Inspiration: Yes**
@@ -3341,8 +3633,11 @@ You pause atop Qudenos, the dragon's rhythmic breathing a low furnace-hum beneat
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Loyal Asset - Present yourself to Ketheric as a devoted True Soul who has &#x27;secured&#x27; the mountain pass and the dragon for the Absolute.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Moonrise Towers - Main Gates** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58,580/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ⚠️ **Phase of Desire (DC +2), Shaded Mantle | Exhaustion: 0 | Inspiration: Yes**
@@ -3372,8 +3667,11 @@ Disciple Z'rell (Lvl 11) narrows her eyes, her hand hovering over a series of so
 > 👤 **Player:**
 > *"offer military vanguard, ketheric should remember similar to the original durge and comment on orin sabotaging me. However in this campaign i have all my memories so I'll smile and say I'm back with a dragon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58580/64000 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5 | Exhaustion: 0**
@@ -3405,8 +3703,11 @@ Ketheric remains impassive, his crimson gaze searching yours for the flicker of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Divine Spark - Show the &#x27;Morninglord&#x27;s Spark&#x27; residue to prove your ability to consume and adapt to the Absolute&#x27;s enemies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 58580/64000 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1, BI: 2/5** &nbsp;|&nbsp; ⚠️ **Morninglord's Spark, Phase of Desire | Exhaustion: 0 | Inspiration: Yes**
@@ -3436,8 +3737,11 @@ Ketheric (Lvl 14) remains motionless, but his rhythmic drumming on the armrest s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate &amp; Contrast (Synergistic) - Have Minthara present formal military integration plans while you personally deconstruct Orin&#x27;s failures to Ketheric.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59080/64000 | Gold: 2,205gp** &nbsp;|&nbsp; ⚠️ **Phase of Desire (+2 DC), Morninglord's Spark | Exhaustion: 0**
@@ -3471,8 +3775,11 @@ You gain **500 XP** for the significant social victory and strategic alignment.
 > 👤 **Player:**
 > *"Show ketheric i already have the prism too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59580/64000 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 5/5, L2 3/4, L3 3/3, L4 2/3, L5 1/1 | Inspiration: 2/5 | Exhaustion: 0**
@@ -3504,8 +3811,11 @@ You gain **500 XP** for the ultimate strategic leverage and securing Ketheric's 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Garrisoning, Focus High Council (Synergistic) - Have Minthara and Lae&#x27;zel oversee the legion&#x27;s integration while you personally council with Ketheric to undermine Orin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59,730/64,000 | Gold: 2,205gp**
@@ -3536,8 +3846,11 @@ You gain **150 XP** for further cementing your influence over the General.
 > 👤 **Player:**
 > *"speak to laezal and convince her everything is fine"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59805/64000 | Gold: 2,205gp** &nbsp;|&nbsp; ⚠️ **Phase of Desire (Locked), Morninglord's Spark | Exhaustion: 0 | Inspiration: 2/5**
@@ -3568,8 +3881,11 @@ Across the hall, Ketheric Thorm (Lvl 14) watches the exchange with a weary, armo
 > 👤 **Player:**
 > *"THINK:can i use my magic to soul s teal the prism itself and the emperor within?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59805/64000 | Gold: 2205gp** &nbsp;|&nbsp; ⚠️ **Balanced Divinity (Desire), Morninglord's Spark | Exhaustion: 0 | Inspiration: Yes**
@@ -3581,8 +3897,11 @@ You focus your Abyssal hunger on the Astral Prism, trying to calculate the psych
 > 👤 **Player:**
 > *"brainstorm with my ages to absorb prison"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59,805/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Morninglord's Spark, Phase of Desire | Exhaustion: 0 | Inspiration: Yes**
@@ -3600,8 +3919,11 @@ Your thoughts feel thick and uncoordinated, every tactical thread you pull on si
 > 👤 **Player:**
 > *"ask mother for advice, how to best power up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59805/64000 | Gold: 2,205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 3/4, L3 3/3, L4 2/2, L5 1/1, Inspiration: 2/5**
@@ -3628,8 +3950,11 @@ Mother's whispers grow sharper, more tactical. *'Keep the General close. Let him
 > [!NOTE] ⚙️ **Player Choice:**
 > *Council with Minthara - Discuss the internal politics of the Dead Three to isolate Orin&#x27;s influence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59,805/64,000 | Gold: 2,205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 3/3, L4 2/2, L5 1/1, Bardic Inspiration: 2/5** &nbsp;|&nbsp; ⚠️ **Phase of Desire (Permanent), Solar Shroud (Fortification) | Exhaustion: 0 | Inspiration: Yes**
@@ -3659,8 +3984,11 @@ Minthara's fingers tighten on the map, tearing the corner of the paper. "The cit
 > 👤 **Player:**
 > *"brainstorm with my companions on what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59805/64000 | Gold: 2205gp** &nbsp;|&nbsp; ⚠️ **Balanced Divinity (Phase: Desire), Morninglord's Spark | Inspiration: 2/5**
@@ -3684,8 +4012,11 @@ You feel the threads of destiny tightening. The path to Baldur's Gate is clear, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Two-Front Infiltration (Synergistic) - Kagha&#x27;s druids infiltrate the city via the Sosuke name while you personally hunt for the Soul Coin catalyst—tasks in different regions, no interference.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Moonrise Towers - Audience Chamber** &nbsp;|&nbsp; ⏳ **Kythorn 12, 1492 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 59985/64000 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1, Inspiration: 2/5** &nbsp;|&nbsp; ⚠️ **Balanced Divinity (Desire), Morninglord's Spark | Exhaustion: 0 | Inspiration: Yes**
@@ -3716,8 +4047,11 @@ Minthara (Lvl 9) watches you return to the upper hall, her crimson eyes followin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Disciple Z&#x27;rell - Use Deception/Persuasion to learn if Ketheric keeps a &#x27;private&#x27; hoard of Soul Coins or high-misery relics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Moonrise Towers - Lower Ward** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 46/46 | XP: 60135/64000 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 5/5, L2 4/4, L3 3/3, L4 3/3, L5 1/1, Inspiration: 2/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Balanced Divinity (Phase of Desire), Morninglord's Spark | Exhaustion: 0 | Inspiration: Yes**
@@ -3743,6 +4077,8 @@ She looks back to her work, but the way her fingers twitch against the jar tells
 
 
 You gain **150 XP** for the successful interrogation.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (396 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 II. The Factions: The Civil War in the Shadows
@@ -155,412 +166,417 @@ Option 1 (The Viper): Go to Captain Thorne. The military is the only thing stand
 Option 2 (The Abyss): Find Nyx. Information is power. If you know how the Void Engine works, you might survive the coming apocalypse. (Underworld/Tech focus)
 Option 3 (The Temple): Hunt Kaelen Vos. Understanding the mystical nature of your father is the only way to eventually kill him. (Force/Mystic focus)
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Citadel of Storms | 3640 BBY, The Old Republic Era | Roleplay |
-| **02** | Penthouse | 19th of Cold Shadows, 3640 BBY (Old Republic) (18:00) | Roleplay |
-| **03** | Penthouse | Day, 2025-12-19 (12:00) | Roleplay |
-| **04** | Penthouse | Mirtul 15, 1492 DR (12:00 (God Mode Active)) | Roleplay |
-| **05** | Penthouse | Month 12, 1492 DR (Imperial Era) (Day 19) | Roleplay |
-| **06** | Penthouse | 3641 BBY, Month of the Dragon | 12:00 PM | Roleplay |
-| **07** | Penthouse | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **08** | Orbit over Yavin 4 | Mirtul 20, 3641 BBY (06:00) | Roleplay |
-| **09** | Yavin 4 Jungle | Mirtul 20, 3641 DR (06:00) | Roleplay |
-| **10** | Yavin 4 - Great Temple Perimeter | Mirtul 20, 3641 DR (06:30) | Roleplay |
-| **11** | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:30) | Roleplay |
-| **12** | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 BBY (06:30) | Roleplay |
-| **13** | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:35) | Roleplay |
-| **14** | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **15** | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **16** | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **17** | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **18** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **19** | Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:41) | Roleplay |
-| **20** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **21** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **22** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **23** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
-| **24** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:55) | Roleplay |
-| **25** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:56) | Roleplay |
-| **26** | Yavin 4 - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (07:00) | Roleplay |
-| **27** | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 (07:00) | Roleplay |
-| **28** | Great Temple - Inner Sanctum | Mirtul 20, 3641 ATC (07:15) | Roleplay |
-| **29** | Great Temple - Lower Crypt Entrance | Mirtul 20, 3641 DR (08:00) | Roleplay |
-| **30** | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:15) | Roleplay |
-| **31** | Hall of the Silent Priests - Archway | Mirtul 20, 3641 DR (08:20) | Roleplay |
-| **32** | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:25) | Roleplay |
-| **33** | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:40) | Roleplay |
-| **34** | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:45) | Roleplay |
-| **35** | Hall of the Silent Priests - The Gallery of Headless Priests | Mirtul 20, 3641 DR (09:00) | Roleplay |
-| **36** | Hall of the Silent Priests - The Gallery of Headless Priests | Mirtul 20, 3641 DR (09:05) | Roleplay |
-| **37** | Hall of the Silent Priests - The Central Obelisk | Mirtul 20, 3641 DR (09:10) | Roleplay |
-| **38** | Hall of the Silent Priests - The Central Obelisk | Mirtul 20, 3641 DR (09:15) | Roleplay |
-| **39** | Hall of the Silent Priests - The Central Obelisk | Mirtul 20, 3641 DR (09:10) | Roleplay |
-| **40** | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:20) | Roleplay |
-| **41** | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:25) | Roleplay |
-| **42** | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:11) | Roleplay |
-| **43** | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:12) | Roleplay |
-| **44** | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:15) | Roleplay |
-| **45** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:40) | Roleplay |
-| **46** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:42) | Roleplay |
-| **47** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:47) | Roleplay |
-| **48** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:52) | Roleplay |
-| **49** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:10) | Roleplay |
-| **50** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:20) | Roleplay |
-| **51** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:25) | Roleplay |
-| **52** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 BBY (10:25) | Roleplay |
-| **53** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:30) | Roleplay |
-| **54** | Crypts of the Massassi - The Heart of the Veil (Secured) | Mirtul 20, 3641 DR (11:10) | Roleplay |
-| **55** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 BBY (11:10) | Roleplay |
-| **56** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (11:10) | Roleplay |
-| **57** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (11:25) | Roleplay |
-| **58** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (11:25) | Roleplay |
-| **59** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:25) | Roleplay |
-| **60** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 (12:25) | Roleplay |
-| **61** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:40) | Roleplay |
-| **62** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:40) | Roleplay |
-| **63** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 BBY (12:40) | Roleplay |
-| **64** | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:50) | Roleplay |
-| **65** | The Heart of the Veil - Fortified Sith Redoubt | Mirtul 20, 3641 DR (13:50) | Roleplay |
-| **66** | Aboard Lord Arcann's Flagship - The Eternal Vengeance | Mirtul 20, 3641 DR (14:15) | Roleplay |
-| **67** | Aboard Lord Arcann's Flagship - The Imperial Vengeance | Mirtul 20, 3641 BBY (14:15) | Roleplay |
-| **68** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:30) | Roleplay |
-| **69** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
-| **70** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
-| **71** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:25) | Roleplay |
-| **72** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:25) | Roleplay |
-| **73** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 (14:15) | Roleplay |
-| **74** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
-| **75** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:35) | Roleplay |
-| **76** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
-| **77** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:20) | Roleplay |
-| **78** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
-| **79** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 21, 3641 DR (09:30 (Day After Arcann's Fall)) | Roleplay |
-| **80** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
-| **81** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
-| **82** | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
-| **83** | The Aequitas (Private Sanctum) | Mirtul 20, 3641 DR (15:45) | Roleplay |
-| **84** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:30) | Roleplay |
-| **85** | The Aequitas (Main Bridge) | Mirtul 20, 3641 BBY (16:30) | Roleplay |
-| **86** | The Aequitas (Main Bridge) | Mirtul 20, 3641 BBY (16:35) | Roleplay |
-| **87** | The Aequitas (Main Bridge) | Mirtul 20, 3641 ATC (16:35) | Roleplay |
-| **88** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
-| **89** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
-| **90** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
-| **91** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
-| **92** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
-| **93** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (17:40) | Roleplay |
-| **94** | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (17:40) | Roleplay |
-| **95** | The Citadel of Storms (Throne Room Threshold) | Mirtul 20, 3641 DR (18:10) | Roleplay |
-| **96** | The Citadel of Storms (Throne Room) | Mirtul 20, 3641 DR (18:15) | Roleplay |
-| **97** | The Citadel of Storms (Throne Room) | Mirtul 20, 3641 DR (18:15) | Roleplay |
-| **98** | Heart of the Citadel | Mirtul 20, 3641 DR (18:25) | Roleplay |
-| **99** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (00:05) | Roleplay |
-| **100** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 ATC (00:05) | Roleplay |
-| **101** | The Void Throne (Citadel of Storms) | 21st of Mirtul, 3641 BBY (Midnight) | Roleplay |
-| **102** | The Void Throne | Mirtul 21, 3641 BBY (Midnight) | Roleplay |
-| **103** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 BBY (00:05 (Midnight)) | Roleplay |
-| **104** | The Void Throne | 3641 BBY, Midnight | Roleplay |
-| **105** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (00:05) | Roleplay |
-| **106** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (00:05) | Roleplay |
-| **107** | The Void Throne | Mirtul 21, 3641 DR (01:05) | Roleplay |
-| **108** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
-| **109** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
-| **110** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
-| **111** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
-| **112** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
-| **113** | The Void Throne | Mirtul 21, 3641 DR (02:00) | Roleplay |
-| **114** | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (02:15) | Roleplay |
-| **115** | The Void Throne (Citadel of Storms) | Mirtul 22, 3641 DR (06:00 (Dawn)) | Roleplay |
-| **116** | The Void Throne | Mirtul 22, 3641 DR (08:00) | Roleplay |
-| **117** | The Void Throne (Citadel of Storms) | Mirtul 23, 3641 DR (01:00) | Roleplay |
-| **118** | The Void Throne (Citadel of Storms) | Nelona 23, 3641 BBY (01:00) | Roleplay |
-| **119** | The Void Throne (Citadel of Storms) | Nelona 23, 3641 DR (02:00) | Roleplay |
-| **120** | Biological Heart (Citadel of Storms) | 3641 Nelona 23, 02:15 | Roleplay |
-| **121** | The biological Heart of the Citadel | 3641 Nelona 23, 01:15 | Roleplay |
-| **122** | The Void Throne (Citadel of Storms) | 3641 Nelona 23, 02:30 | Roleplay |
-| **123** | The Void Throne (Citadel of Storms) | Nelona 23, 3641 DR (02:35) | Roleplay |
-| **124** | The Void Throne (Citadel of Storms) | 3641 Nelona 23, 02:35:01 | Roleplay |
-| **125** | Belsavis Orbit (Aboard the Aequitas) | Nelona 23, 3641 DR (14:35) | Roleplay |
-| **126** | Belsavis - Tomb of the Infinite | 3641 Nelona 23, 14:50 | Roleplay |
-| **127** | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:05) | Roleplay |
-| **128** | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:07) | Roleplay |
-| **129** | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:12) | Roleplay |
-| **130** | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:17) | Roleplay |
-| **131** | Belsavis - Tomb of the Infinite | 3641 Nelona 23, 16:00 | Roleplay |
-| **132** | Belsavis - Tomb of the Infinite | 3641 Nelona 23, 21:17:00 | Roleplay |
-| **133** | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (21:32) | Roleplay |
-| **134** | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (22:00) | Roleplay |
-| **135** | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (22:05) | Roleplay |
-| **136** | Belsavis - Tomb of the Infinite (Central Dais) | Nelona 24, 3641 DR (10:05) | Roleplay |
-| **137** | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:10) | Roleplay |
-| **138** | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:10) | Roleplay |
-| **139** | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:20) | Roleplay |
-| **140** | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:35) | Roleplay |
-| **141** | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (11:35) | Roleplay |
-| **142** | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (11:45) | Roleplay |
-| **143** | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (12:30) | Roleplay |
-| **144** | Tython - Jedi Temple (High Sanctum) | Nelona 24, 3641 DR (12:35) | Roleplay |
-| **145** | Tython - High Sanctum | Nelona 24, 3641 DR (12:50) | Roleplay |
-| **146** | Tython - High Sanctum (Ruins) | Nelona 24, 3641 DR (13:15) | Roleplay |
-| **147** | Tython - High Sanctum | Nelona 24, 3641 DR (14:00) | Roleplay |
-| **148** | Tython - High Sanctum | 3641 Nelona 24, 14:00 | Roleplay |
-| **149** | Tython - High Sanctum | 3641 Nelona 24, 14:00 | Roleplay |
-| **150** | Tython - High Sanctum (Sovereign Redoubt) | 3641 Nelona 24, 24:00 (Midnight) | Roleplay |
-| **151** | Tython - High Sanctum | Nelona 24, 3641 DR (Midnight) | Roleplay |
-| **152** | Tython - High Sanctum | Nelona 25, 3641 DR (00:15) | Roleplay |
-| **153** | Tython - High Sanctum | Nelona 25, 3641 DR (01:00) | Roleplay |
-| **154** | Tython - High Sanctum | Nelona 25, 3641 DR (01:15) | Roleplay |
-| **155** | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:15) | Roleplay |
-| **156** | Coruscant - Galactic Senate Rotunda |  | Roleplay |
-| **157** | Coruscant - Galactic Senate Rotunda | 3641 Nelona 25, 03:20 | Roleplay |
-| **158** | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:30) | Roleplay |
-| **159** | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:30) | Roleplay |
-| **160** | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:35) | Roleplay |
-| **161** | Coruscant - Galactic Senate Rotunda |  | Roleplay |
-| **162** | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:50) | Roleplay |
-| **163** | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:55) | Roleplay |
-| **164** | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (04:10) | Roleplay |
-| **165** | Outer Rim - Volcanic Moon of Dxun | 3641 Nelona 25, 16:10 | Roleplay |
-| **166** | Outer Rim - Volcanic Moon of Dxun | Nelona 25, 3641 DR (18:10) | Roleplay |
-| **167** | Coruscant - Imperial Palace / Senate District | 3641 Nelona 26, 08:10 (Morning) | Roleplay |
-| **168** | Coruscant - The Zenith Promenade | Nelona 26, 3641 DR (19:30) | Roleplay |
-| **169** | Coruscant - The Zenith Promenade | Nelona 26, 3641 DR (22:30) | Roleplay |
-| **170** | Coruscant - The Zenith Promenade |  | Roleplay |
-| **171** | Coruscant - The Zenith Promenade | Alturiak 26, 3642 DR (12:00 (The Great Repose)) | Roleplay |
-| **172** | Coruscant - The Zenith Promenade | 3642 Nelona 26, Midday | Roleplay |
-| **173** | Coruscant - The Zenith Promenade | Mirtul 26, 3642 DR (22:15) | Roleplay |
-| **174** | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:15 | Roleplay |
-| **175** | Coruscant - Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:15 | Roleplay |
-| **176** | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:15 | Roleplay |
-| **177** | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:20 | Roleplay |
-| **178** | Coruscant - The Imperial Citadel (Throne Room) | Nelona 26, 3642 DR (23:20) | Roleplay |
-| **179** | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 00:20 | Roleplay |
-| **180** | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 00:20 | Roleplay |
-| **181** | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 00:20 | Roleplay |
-| **182** | Coruscant - The Imperial Citadel (Throne Room) | Nelona 27, 3642 DR (01:00) | Roleplay |
-| **183** | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 01:05 | Roleplay |
-| **184** | Deep Core - The Ark Prime (Logistics Hub) | 3642 Nelona 27, 03:05 | Roleplay |
-| **185** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:20) | Roleplay |
-| **186** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:25) | Roleplay |
-| **187** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:35) | Roleplay |
-| **188** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:40) | Roleplay |
-| **189** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:45) | Roleplay |
-| **190** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:42) | Roleplay |
-| **191** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (04:15) | Roleplay |
-| **192** | Coruscant - Grand Vizier's Suite | 3642 Nelona 27, 04:30:00 | Roleplay |
-| **193** | Coruscant - Grand Vizier's Suite | 3642 Nelona 27, 04:45 | Roleplay |
-| **194** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (04:45) | Roleplay |
-| **195** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (05:00) | Roleplay |
-| **196** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (10:00) | Roleplay |
-| **197** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (10:00) | Roleplay |
-| **198** | Coruscant - Grand Vizier's Suite |  | Roleplay |
-| **199** | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (10:20) | Roleplay |
-| **200** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (04:20) | Roleplay |
-| **201** | Imperial Vengeance - High Command Bridge | 3643 Nelona 28, 08:35 | Roleplay |
-| **202** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | 3643 Nelona 28, 08:40:00 | Roleplay |
-| **203** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (08:40) | Roleplay |
-| **204** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (08:45) | Roleplay |
-| **205** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (08:50) | Roleplay |
-| **206** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:05) | Roleplay |
-| **207** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:05) | Roleplay |
-| **208** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:10) | Roleplay |
-| **209** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (10:10) | Roleplay |
-| **210** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 ATC (09:10) | Roleplay |
-| **211** | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:40) | Roleplay |
-| **212** | Yammka's Pride - Central Nerve Cluster | 3643 Nelona 28, 10:15 | Roleplay |
-| **213** | Yammka's Pride - Central Nerve Cluster | Nelona 28, 3643 DR (10:45) | Roleplay |
-| **214** | Yammka's Pride - Central Nerve Cluster | Nelona 28, 3643 DR (10:45) | Roleplay |
-| **215** | Yammka's Pride - Central Nerve Cluster | 3643 Nelona 28, 10:50 | Roleplay |
-| **216** | Yammka's Pride - Sovereign Neural Core | Nelona 28, 3643 DR (12:45) | Roleplay |
-| **217** | Yammka's Pride - Sovereign Neural Core | 3643 Nelona 28, 10:50 | Roleplay |
-| **218** | Yammka's Pride - Sovereign Neural Core | Nelona 28, 3643 DR (11:30) | Roleplay |
-| **219** | Yammka's Pride - Sovereign Neural Core | 3643 Nelona 28, 12:30:00 | Roleplay |
-| **220** | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3643 DR (12:30) | Roleplay |
-| **221** | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3643 DR (14:30) | Roleplay |
-| **222** | Unknown |  | Roleplay |
-| **223** | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3643 DR (15:00) | Roleplay |
-| **224** | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3644 DR (15:00) | Roleplay |
-| **225** | Galactic Tour - Multiple Sectors | Nelona 29, 3645 DR (10:00) | Roleplay |
-| **226** | Belsavis - Sanctuary of Judgment | Nelona 29, 3645 DR (14:00) | Roleplay |
-| **227** | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3645 DR (14:05) | Roleplay |
-| **228** | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3646 DR (18:00) | Roleplay |
-| **229** | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3646 DR (19:00) | Roleplay |
-| **230** | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3646 DR (19:30) | Roleplay |
-| **231** | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (20:30) | Roleplay |
-| **232** | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (20:35) | Roleplay |
-| **233** | Coruscant - Archive of the Unbound / Intergalactic Void | Nelona 29, 3646 DR (21:35) | Roleplay |
-| **234** | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (21:40) | Roleplay |
-| **235** | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (22:35) | Roleplay |
-| **236** | Coruscant - Archive of the Unbound | Nelona 01, 3647 DR (00:05) | Roleplay |
-| **237** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (00:20) | Roleplay |
-| **238** | Coruscant - Archive of the Unbound | 3647 Nelona 1, 00:50:00 | Roleplay |
-| **239** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (00:55) | Roleplay |
-| **240** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (01:25) | Roleplay |
-| **241** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (01:40) | Roleplay |
-| **242** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (01:50) | Roleplay |
-| **243** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (02:00) | Roleplay |
-| **244** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (02:30) | Roleplay |
-| **245** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (04:30) | Roleplay |
-| **246** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (04:45) | Roleplay |
-| **247** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:00) | Roleplay |
-| **248** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:02) | Roleplay |
-| **249** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:02) | Roleplay |
-| **250** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:02) | Roleplay |
-| **251** | Belsavis - Sanctuary of Judgment | Nelona 1, 3647 DR (08:02) | Roleplay |
-| **252** | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 1, 3647 DR (08:12) | Roleplay |
-| **253** | Belsavis - Sanctuary of Judgment | Nelona 1, 3647 DR (08:27) | Roleplay |
-| **254** | Outer Rim - Imperial Vengeance (High Marshal's Sanctum) | Nelona 1, 3647 DR (10:27) | Roleplay |
-| **255** | Outer Rim - Imperial Vengeance (High Marshal's Sanctum) | Nelona 1, 3647 DR (10:57) | Roleplay |
-| **256** | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (11:30) | Roleplay |
-| **257** | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (11:40) | Roleplay |
-| **258** | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (12:00 (Midday)) | Roleplay |
-| **259** | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (14:00) | Roleplay |
-| **260** | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (12:15) | Roleplay |
-| **261** | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (12:30) | Roleplay |
-| **262** | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (13:30) | Roleplay |
-| **263** | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (14:00) | Roleplay |
-| **264** | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (14:15) | Roleplay |
-| **265** | Rishi Maze - Fortress of the Silent King | Nelona 1, 3647 DR (18:15) | Roleplay |
-| **266** | Rishi Maze - Fortress of the Silent King | Nelona 1, 3647 DR (18:15) | Roleplay |
-| **267** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (18:30) | Roleplay |
-| **268** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (18:30) | Roleplay |
-| **269** | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (18:35) | Roleplay |
-| **270** | Coruscant - Archive of the Unbound | 3647 Nelona 1, Evening | Roleplay |
-| **271** | Coruscant - Archive of the Unbound | 3647 Nelona 4, 20:15 (Evening) | Roleplay |
-| **272** | Coruscant - Archive of the Unbound | Nelona 4, 3648 DR (12:00) | Roleplay |
-| **273** | Coruscant - Archive of the Unbound | Nelona 4, 3649 DR (12:00) | Roleplay |
-| **274** | Coruscant - Archive of the Unbound | Nelona 4, 3651 DR (12:05) | Roleplay |
-| **275** | Medriaas - The Original Divergence | Nelona 4, 3651 DR (12:15) | Roleplay |
-| **276** | Medriaas - The Original Divergence | Nelona 4, 3651 DR (12:15) | Roleplay |
-| **277** | Medriaas - The Heart of the Loom | Nelona 4, 3651 DR (13:00) | Roleplay |
-| **278** | Medriaas - The Heart of the Loom | Nelona 4, 3701 DR (13:00) | Roleplay |
-| **279** | Medriaas - The Heart of the Loom / Coruscant - Archive of the Unbound | Nelona 4, 3751 DR (13:00) | Roleplay |
-| **280** | Coruscant - Archive of the Unbound | Nelona 4, 3751 DR (13:05) | Roleplay |
-| **281** | Outside the Local Multiverse - The Omni-Cull Core | Nelona 4, 3751 DR (13:10) | Roleplay |
-| **282** | Outside the Local Multiverse - The Omni-Cull Core | Nelona 4, 3751 DR (13:10) | Roleplay |
-| **283** | Archive of the Unbound - Coruscant | 3751 Nelona 4, 13:10 | Roleplay |
-| **284** | Archive of the Unbound - Coruscant | Nelona 4, 3851 DR (12:05) | Roleplay |
-| **285** | Archive of the Unbound - Coruscant | Nelona 4, 3901 DR (12:20) | Roleplay |
-| **286** | Archive of the Unbound - Coruscant | Nelona 4, 3951 DR (12:35) | Roleplay |
-| **287** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:00) | Roleplay |
-| **288** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:30) | Roleplay |
-| **289** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:31) | Roleplay |
-| **290** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:35) | Roleplay |
-| **291** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:40) | Roleplay |
-| **292** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:50) | Roleplay |
-| **293** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (15:00) | Roleplay |
-| **294** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (19:00) | Roleplay |
-| **295** | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (21:00) | Roleplay |
-| **296** | Archive of the Unbound - Great Hall | Nelona 10, 3953 DR (21:30) | Roleplay |
-| **297** | Archive of the Unbound - Coruscant | Nelona 10, 4003 DR (18:35) | Roleplay |
-| **298** | Archive of the Unbound - Coruscant | Nelona 10, 4055 DR (20:30) | Roleplay |
-| **299** | Archive of the Unbound - Coruscant | Nelona 11, 4055 DR (01:30) | Roleplay |
-| **300** | Archive of the Unbound - Coruscant | Nelona 11, 4055 DR (01:45) | Roleplay |
-| **301** | Archive of the Unbound - Coruscant | Nelona 11, 4055 DR (01:50) | Roleplay |
-| **302** | Archive of the Unbound - Coruscant | Nelona 11, 4106 DR (12:05) | Roleplay |
-| **303** | Archive of the Unbound - Coruscant | Nelona 11, 4157 DR (12:05) | Roleplay |
-| **304** | Archive of the Unbound - Coruscant | Nelona 11, 4157 DR (12:15) | Roleplay |
-| **305** | Archive of the Unbound - Coruscant | Nelona 11, 4157 DR (12:15) | Roleplay |
-| **306** | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:20) | Roleplay |
-| **307** | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:35) | Roleplay |
-| **308** | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:40) | Roleplay |
-| **309** | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:55) | Roleplay |
-| **310** | Archive of the Unbound - Coruscant (Great Hall) | Nelona 11, 4157 DR (14:55) | Roleplay |
-| **311** | Archive of the Unbound - Coruscant (Great Hall) | Nelona 11, 4157 DR (16:30) | Roleplay |
-| **312** | Archive of the Unbound - Coruscant (Great Hall) | Nelona 11, 4157 DR (19:30) | Roleplay |
-| **313** | Archive of the Unbound - Arena Floor | Nelona 11, 4157 DR (16:35) | Roleplay |
-| **314** | Archive of the Unbound - Arena Floor | 4157 Nelona 11, 16:35:30 | Roleplay |
-| **315** | Archive of the Unbound - Arena Floor |  | Roleplay |
-| **316** | Archive of the Unbound - Arena Floor | 4157 Nelona 11, 16:35:30.000002 | Roleplay |
-| **317** | Archive of the Unbound - Arena Floor | Nelona 11, 4157 DR (16:35) | Roleplay |
-| **318** | Archive of the Unbound - Grand Hall | Nelona 11, 4157 DR (20:00) | Roleplay |
-| **319** | Archive of the Unbound - Grand Hall | Nelona 11, 4157 DR (20:00) | Roleplay |
-| **320** | Archive of the Unbound - Grand Hall | Nelona 11, 9157 DR (12:00) | Roleplay |
-| **321** | Archive of the Unbound - Grand Hall |  | Roleplay |
-| **322** | Archive of the Unbound - Grand Hall | Nelona 11, 14157 DR (13:05) | Roleplay |
-| **323** | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:10) | Roleplay |
-| **324** | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:20) | Roleplay |
-| **325** | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:30) | Roleplay |
-| **326** | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:40) | Roleplay |
-| **327** | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:45) | Roleplay |
-| **328** | Archive of the Unbound - Grand Hall | Nelona 11, 24157 DR (14:05) | Roleplay |
-| **329** | Archive of the Unbound - Grand Hall | Nelona 11, 29157 DR (15:30) | Roleplay |
-| **330** | Medriaas - Estate of the Pines | Nelona 11, 29232 DR (15:30) | Roleplay |
-| **331** | Medriaas - Estate of the Pines | Nelona 11, 29307 DR (15:45) | Roleplay |
-| **332** | Medriaas - Estate of the Pines (Gardener's Cottage) | Nelona 11, 29382 DR (15:46) | Roleplay |
-| **333** | Medriaas - Estate of the Pines | Nelona 11, 29382 DR (15:56) | Roleplay |
-| **334** | Medriaas - Estate of the Pines | Nelona 11, 29457 DR (16:15) | Roleplay |
-| **335** | Medriaas - The Gardener's Sanctuary | Nelona 11, 29457 DR (16:30) | Roleplay |
-| **336** | Medriaas - The Gardener's Sanctuary | Nelona 11, 30457 DR (12:00) | Roleplay |
-| **337** | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:10) | Roleplay |
-| **338** | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:15) | Roleplay |
-| **339** | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:15) | Roleplay |
-| **340** | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:30) | Roleplay |
-| **341** | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:30) | Roleplay |
-| **342** | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:45) | Roleplay |
-| **343** | Medriaas - The Gardener's Sanctuary | Nelona 11, 30458 DR (13:45) | Roleplay |
-| **344** | Medriaas - The Gardener's Sanctuary | Nelona 11, 30458 DR (19:00) | Roleplay |
-| **345** | Medriaas - The Gardener's Sanctuary | Nelona 11, 41708 DR (19:00) | Roleplay |
-| **346** | The Shattered Oubliette - The Second Heart | Nelona 11, 52958 DR (19:00) | Roleplay |
-| **347** | The Shattered Oubliette - The Second Heart | Nelona 11, 52958 DR (19:00) | Roleplay |
-| **348** | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:00) | Roleplay |
-| **349** | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:10) | Roleplay |
-| **350** | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:40) | Roleplay |
-| **351** | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:45) | Roleplay |
-| **352** | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (19:50) | Roleplay |
-| **353** | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:05) | Roleplay |
-| **354** | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:05) | Roleplay |
-| **355** | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:10) | Roleplay |
-| **356** | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:25) | Roleplay |
-| **357** | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:35) | Roleplay |
-| **358** | The Hybrid Redoubt - The Edge of Silence | Nelona 11, 69208 DR (21:05) | Roleplay |
-| **359** | The Hybrid Redoubt - The Edge of Silence | Nelona 11, 69208 DR (21:10) | Roleplay |
-| **360** | The Hybrid Redoubt - The Edge of Silence | Nelona 11, 69208 DR (21:15) | Roleplay |
-| **361** | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:30) | Roleplay |
-| **362** | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:30) | Roleplay |
-| **363** | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:31) | Roleplay |
-| **364** | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:32) | Roleplay |
-| **365** | The Bone-glass Path - Edge of the Dome | Nelona 11, 69208 DR (21:36) | Roleplay |
-| **366** | The Bone-glass Path - Threshold of the Geometric Dome | Nelona 11, 69208 DR (21:36) | Roleplay |
-| **367** | The Geometric Dome - The Outer Threshold | Nelona 11, 69208 DR (21:38) | Roleplay |
-| **368** | The Geometric Dome - The Interior | Nelona 11, 69208 DR (21:39) | Roleplay |
-| **369** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:38) | Roleplay |
-| **370** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:38) | Roleplay |
-| **371** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:43) | Roleplay |
-| **372** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:44) | Roleplay |
-| **373** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:44) | Roleplay |
-| **374** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:45) | Roleplay |
-| **375** | The Geometric Dome - The Interior | Nelona 11, 80458 Era of the Author (21:45) | Roleplay |
-| **376** | The Geometric Dome - The Interior | Nelona 11, 80458 Era of the Author (21:45) | Roleplay |
-| **377** | The Geometric Dome - The Interior | Nelona 11, 80458 Era of the Author (21:45) | Roleplay |
-| **378** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (Night) | Roleplay |
-| **379** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:50) | Roleplay |
-| **380** | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:55) | Roleplay |
-| **381** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 90458 DR (12:00) | Roleplay |
-| **382** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (12:00) | Roleplay |
-| **383** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 139084 DR (12:05) | Roleplay |
-| **384** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (12:15) | Roleplay |
-| **385** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (12:20) | Roleplay |
-| **386** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (14:45) | Roleplay |
-| **387** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (15:00) | Roleplay |
-| **388** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (16:00) | Roleplay |
-| **389** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 167834 DR (12:00) | Roleplay |
-| **390** | The Archive of the Unbound - The Source Sanctum | Nelona 15, 217834 DR (12:15) | Roleplay |
-| **391** | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (12:30) | Roleplay |
-| **392** | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (12:40) | Roleplay |
-| **393** | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (14:00) | Roleplay |
-| **394** | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (14:05) | Roleplay |
-| **395** | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (14:15) | Roleplay |
-| **396** | Galaxy Gamma - The Source Sanctum | Nelona 15, 217834 DR (16:30) | Roleplay |
+| [**Scene 01**](#scene-1) | The Citadel of Storms | 3640 BBY, The Old Republic Era | Roleplay |
+| [**Scene 02**](#scene-2) | Penthouse | 19th of Cold Shadows, 3640 BBY (Old Republic) (18:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Penthouse | Day, 2025-12-19 (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Penthouse | Mirtul 15, 1492 DR (12:00 (God Mode Active)) | Roleplay |
+| [**Scene 05**](#scene-5) | Penthouse | Month 12, 1492 DR (Imperial Era) (Day 19) | Roleplay |
+| [**Scene 06**](#scene-6) | Penthouse | 3641 BBY, Month of the Dragon | 12:00 PM | Roleplay |
+| [**Scene 07**](#scene-7) | Penthouse | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Orbit over Yavin 4 | Mirtul 20, 3641 BBY (06:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Yavin 4 Jungle | Mirtul 20, 3641 DR (06:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Yavin 4 - Great Temple Perimeter | Mirtul 20, 3641 DR (06:30) | Roleplay |
+| [**Scene 11**](#scene-11) | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:30) | Roleplay |
+| [**Scene 12**](#scene-12) | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 BBY (06:30) | Roleplay |
+| [**Scene 13**](#scene-13) | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:35) | Roleplay |
+| [**Scene 14**](#scene-14) | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 15**](#scene-15) | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 16**](#scene-16) | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 17**](#scene-17) | Yavin 4 Jungle - Great Temple Perimeter | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 18**](#scene-18) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 19**](#scene-19) | Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:41) | Roleplay |
+| [**Scene 20**](#scene-20) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 21**](#scene-21) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 22**](#scene-22) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 23**](#scene-23) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:40) | Roleplay |
+| [**Scene 24**](#scene-24) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:55) | Roleplay |
+| [**Scene 25**](#scene-25) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (06:56) | Roleplay |
+| [**Scene 26**](#scene-26) | Yavin 4 - Great Temple Inner Sanctum | Mirtul 20, 3641 DR (07:00) | Roleplay |
+| [**Scene 27**](#scene-27) | Yavin 4 Jungle - Great Temple Inner Sanctum | Mirtul 20, 3641 (07:00) | Roleplay |
+| [**Scene 28**](#scene-28) | Great Temple - Inner Sanctum | Mirtul 20, 3641 ATC (07:15) | Roleplay |
+| [**Scene 29**](#scene-29) | Great Temple - Lower Crypt Entrance | Mirtul 20, 3641 DR (08:00) | Roleplay |
+| [**Scene 30**](#scene-30) | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:15) | Roleplay |
+| [**Scene 31**](#scene-31) | Hall of the Silent Priests - Archway | Mirtul 20, 3641 DR (08:20) | Roleplay |
+| [**Scene 32**](#scene-32) | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:25) | Roleplay |
+| [**Scene 33**](#scene-33) | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:40) | Roleplay |
+| [**Scene 34**](#scene-34) | Great Temple - Hall of the Silent Priests (Upper Level) | Mirtul 20, 3641 DR (08:45) | Roleplay |
+| [**Scene 35**](#scene-35) | Hall of the Silent Priests - The Gallery of Headless Priests | Mirtul 20, 3641 DR (09:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Hall of the Silent Priests - The Gallery of Headless Priests | Mirtul 20, 3641 DR (09:05) | Roleplay |
+| [**Scene 37**](#scene-37) | Hall of the Silent Priests - The Central Obelisk | Mirtul 20, 3641 DR (09:10) | Roleplay |
+| [**Scene 38**](#scene-38) | Hall of the Silent Priests - The Central Obelisk | Mirtul 20, 3641 DR (09:15) | Roleplay |
+| [**Scene 39**](#scene-39) | Hall of the Silent Priests - The Central Obelisk | Mirtul 20, 3641 DR (09:10) | Roleplay |
+| [**Scene 40**](#scene-40) | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:20) | Roleplay |
+| [**Scene 41**](#scene-41) | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:25) | Roleplay |
+| [**Scene 42**](#scene-42) | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:11) | Roleplay |
+| [**Scene 43**](#scene-43) | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:12) | Roleplay |
+| [**Scene 44**](#scene-44) | Crypts of the Massassi - The Descent | Mirtul 20, 3641 DR (09:15) | Roleplay |
+| [**Scene 45**](#scene-45) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:40) | Roleplay |
+| [**Scene 46**](#scene-46) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:42) | Roleplay |
+| [**Scene 47**](#scene-47) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:47) | Roleplay |
+| [**Scene 48**](#scene-48) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (09:52) | Roleplay |
+| [**Scene 49**](#scene-49) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:10) | Roleplay |
+| [**Scene 50**](#scene-50) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:20) | Roleplay |
+| [**Scene 51**](#scene-51) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:25) | Roleplay |
+| [**Scene 52**](#scene-52) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 BBY (10:25) | Roleplay |
+| [**Scene 53**](#scene-53) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (10:30) | Roleplay |
+| [**Scene 54**](#scene-54) | Crypts of the Massassi - The Heart of the Veil (Secured) | Mirtul 20, 3641 DR (11:10) | Roleplay |
+| [**Scene 55**](#scene-55) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 BBY (11:10) | Roleplay |
+| [**Scene 56**](#scene-56) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (11:10) | Roleplay |
+| [**Scene 57**](#scene-57) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (11:25) | Roleplay |
+| [**Scene 58**](#scene-58) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (11:25) | Roleplay |
+| [**Scene 59**](#scene-59) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:25) | Roleplay |
+| [**Scene 60**](#scene-60) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 (12:25) | Roleplay |
+| [**Scene 61**](#scene-61) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:40) | Roleplay |
+| [**Scene 62**](#scene-62) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:40) | Roleplay |
+| [**Scene 63**](#scene-63) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 BBY (12:40) | Roleplay |
+| [**Scene 64**](#scene-64) | Crypts of the Massassi - The Heart of the Veil | Mirtul 20, 3641 DR (12:50) | Roleplay |
+| [**Scene 65**](#scene-65) | The Heart of the Veil - Fortified Sith Redoubt | Mirtul 20, 3641 DR (13:50) | Roleplay |
+| [**Scene 66**](#scene-66) | Aboard Lord Arcann's Flagship - The Eternal Vengeance | Mirtul 20, 3641 DR (14:15) | Roleplay |
+| [**Scene 67**](#scene-67) | Aboard Lord Arcann's Flagship - The Imperial Vengeance | Mirtul 20, 3641 BBY (14:15) | Roleplay |
+| [**Scene 68**](#scene-68) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:30) | Roleplay |
+| [**Scene 69**](#scene-69) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
+| [**Scene 70**](#scene-70) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
+| [**Scene 71**](#scene-71) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:25) | Roleplay |
+| [**Scene 72**](#scene-72) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:25) | Roleplay |
+| [**Scene 73**](#scene-73) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 (14:15) | Roleplay |
+| [**Scene 74**](#scene-74) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
+| [**Scene 75**](#scene-75) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:35) | Roleplay |
+| [**Scene 76**](#scene-76) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:15) | Roleplay |
+| [**Scene 77**](#scene-77) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (14:20) | Roleplay |
+| [**Scene 78**](#scene-78) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
+| [**Scene 79**](#scene-79) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 21, 3641 DR (09:30 (Day After Arcann's Fall)) | Roleplay |
+| [**Scene 80**](#scene-80) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
+| [**Scene 81**](#scene-81) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
+| [**Scene 82**](#scene-82) | Aboard the Imperial Vengeance (High Command Bridge) | Mirtul 20, 3641 DR (15:00) | Roleplay |
+| [**Scene 83**](#scene-83) | The Aequitas (Private Sanctum) | Mirtul 20, 3641 DR (15:45) | Roleplay |
+| [**Scene 84**](#scene-84) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:30) | Roleplay |
+| [**Scene 85**](#scene-85) | The Aequitas (Main Bridge) | Mirtul 20, 3641 BBY (16:30) | Roleplay |
+| [**Scene 86**](#scene-86) | The Aequitas (Main Bridge) | Mirtul 20, 3641 BBY (16:35) | Roleplay |
+| [**Scene 87**](#scene-87) | The Aequitas (Main Bridge) | Mirtul 20, 3641 ATC (16:35) | Roleplay |
+| [**Scene 88**](#scene-88) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
+| [**Scene 89**](#scene-89) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
+| [**Scene 90**](#scene-90) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
+| [**Scene 91**](#scene-91) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
+| [**Scene 92**](#scene-92) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (16:40) | Roleplay |
+| [**Scene 93**](#scene-93) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (17:40) | Roleplay |
+| [**Scene 94**](#scene-94) | The Aequitas (Main Bridge) | Mirtul 20, 3641 DR (17:40) | Roleplay |
+| [**Scene 95**](#scene-95) | The Citadel of Storms (Throne Room Threshold) | Mirtul 20, 3641 DR (18:10) | Roleplay |
+| [**Scene 96**](#scene-96) | The Citadel of Storms (Throne Room) | Mirtul 20, 3641 DR (18:15) | Roleplay |
+| [**Scene 97**](#scene-97) | The Citadel of Storms (Throne Room) | Mirtul 20, 3641 DR (18:15) | Roleplay |
+| [**Scene 98**](#scene-98) | Heart of the Citadel | Mirtul 20, 3641 DR (18:25) | Roleplay |
+| [**Scene 99**](#scene-99) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (00:05) | Roleplay |
+| [**Scene 100**](#scene-100) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 ATC (00:05) | Roleplay |
+| [**Scene 101**](#scene-101) | The Void Throne (Citadel of Storms) | 21st of Mirtul, 3641 BBY (Midnight) | Roleplay |
+| [**Scene 102**](#scene-102) | The Void Throne | Mirtul 21, 3641 BBY (Midnight) | Roleplay |
+| [**Scene 103**](#scene-103) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 BBY (00:05 (Midnight)) | Roleplay |
+| [**Scene 104**](#scene-104) | The Void Throne | 3641 BBY, Midnight | Roleplay |
+| [**Scene 105**](#scene-105) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (00:05) | Roleplay |
+| [**Scene 106**](#scene-106) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (00:05) | Roleplay |
+| [**Scene 107**](#scene-107) | The Void Throne | Mirtul 21, 3641 DR (01:05) | Roleplay |
+| [**Scene 108**](#scene-108) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
+| [**Scene 109**](#scene-109) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
+| [**Scene 110**](#scene-110) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
+| [**Scene 111**](#scene-111) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
+| [**Scene 112**](#scene-112) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (01:05) | Roleplay |
+| [**Scene 113**](#scene-113) | The Void Throne | Mirtul 21, 3641 DR (02:00) | Roleplay |
+| [**Scene 114**](#scene-114) | The Void Throne (Citadel of Storms) | Mirtul 21, 3641 DR (02:15) | Roleplay |
+| [**Scene 115**](#scene-115) | The Void Throne (Citadel of Storms) | Mirtul 22, 3641 DR (06:00 (Dawn)) | Roleplay |
+| [**Scene 116**](#scene-116) | The Void Throne | Mirtul 22, 3641 DR (08:00) | Roleplay |
+| [**Scene 117**](#scene-117) | The Void Throne (Citadel of Storms) | Mirtul 23, 3641 DR (01:00) | Roleplay |
+| [**Scene 118**](#scene-118) | The Void Throne (Citadel of Storms) | Nelona 23, 3641 BBY (01:00) | Roleplay |
+| [**Scene 119**](#scene-119) | The Void Throne (Citadel of Storms) | Nelona 23, 3641 DR (02:00) | Roleplay |
+| [**Scene 120**](#scene-120) | Biological Heart (Citadel of Storms) | 3641 Nelona 23, 02:15 | Roleplay |
+| [**Scene 121**](#scene-121) | The biological Heart of the Citadel | 3641 Nelona 23, 01:15 | Roleplay |
+| [**Scene 122**](#scene-122) | The Void Throne (Citadel of Storms) | 3641 Nelona 23, 02:30 | Roleplay |
+| [**Scene 123**](#scene-123) | The Void Throne (Citadel of Storms) | Nelona 23, 3641 DR (02:35) | Roleplay |
+| [**Scene 124**](#scene-124) | The Void Throne (Citadel of Storms) | 3641 Nelona 23, 02:35:01 | Roleplay |
+| [**Scene 125**](#scene-125) | Belsavis Orbit (Aboard the Aequitas) | Nelona 23, 3641 DR (14:35) | Roleplay |
+| [**Scene 126**](#scene-126) | Belsavis - Tomb of the Infinite | 3641 Nelona 23, 14:50 | Roleplay |
+| [**Scene 127**](#scene-127) | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:05) | Roleplay |
+| [**Scene 128**](#scene-128) | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:07) | Roleplay |
+| [**Scene 129**](#scene-129) | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:12) | Roleplay |
+| [**Scene 130**](#scene-130) | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (15:17) | Roleplay |
+| [**Scene 131**](#scene-131) | Belsavis - Tomb of the Infinite | 3641 Nelona 23, 16:00 | Roleplay |
+| [**Scene 132**](#scene-132) | Belsavis - Tomb of the Infinite | 3641 Nelona 23, 21:17:00 | Roleplay |
+| [**Scene 133**](#scene-133) | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (21:32) | Roleplay |
+| [**Scene 134**](#scene-134) | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (22:00) | Roleplay |
+| [**Scene 135**](#scene-135) | Belsavis - Tomb of the Infinite | Nelona 23, 3641 DR (22:05) | Roleplay |
+| [**Scene 136**](#scene-136) | Belsavis - Tomb of the Infinite (Central Dais) | Nelona 24, 3641 DR (10:05) | Roleplay |
+| [**Scene 137**](#scene-137) | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:10) | Roleplay |
+| [**Scene 138**](#scene-138) | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:10) | Roleplay |
+| [**Scene 139**](#scene-139) | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:20) | Roleplay |
+| [**Scene 140**](#scene-140) | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (10:35) | Roleplay |
+| [**Scene 141**](#scene-141) | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (11:35) | Roleplay |
+| [**Scene 142**](#scene-142) | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (11:45) | Roleplay |
+| [**Scene 143**](#scene-143) | Belsavis - Tomb of the Infinite | Nelona 24, 3641 DR (12:30) | Roleplay |
+| [**Scene 144**](#scene-144) | Tython - Jedi Temple (High Sanctum) | Nelona 24, 3641 DR (12:35) | Roleplay |
+| [**Scene 145**](#scene-145) | Tython - High Sanctum | Nelona 24, 3641 DR (12:50) | Roleplay |
+| [**Scene 146**](#scene-146) | Tython - High Sanctum (Ruins) | Nelona 24, 3641 DR (13:15) | Roleplay |
+| [**Scene 147**](#scene-147) | Tython - High Sanctum | Nelona 24, 3641 DR (14:00) | Roleplay |
+| [**Scene 148**](#scene-148) | Tython - High Sanctum | 3641 Nelona 24, 14:00 | Roleplay |
+| [**Scene 149**](#scene-149) | Tython - High Sanctum | 3641 Nelona 24, 14:00 | Roleplay |
+| [**Scene 150**](#scene-150) | Tython - High Sanctum (Sovereign Redoubt) | 3641 Nelona 24, 24:00 (Midnight) | Roleplay |
+| [**Scene 151**](#scene-151) | Tython - High Sanctum | Nelona 24, 3641 DR (Midnight) | Roleplay |
+| [**Scene 152**](#scene-152) | Tython - High Sanctum | Nelona 25, 3641 DR (00:15) | Roleplay |
+| [**Scene 153**](#scene-153) | Tython - High Sanctum | Nelona 25, 3641 DR (01:00) | Roleplay |
+| [**Scene 154**](#scene-154) | Tython - High Sanctum | Nelona 25, 3641 DR (01:15) | Roleplay |
+| [**Scene 155**](#scene-155) | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:15) | Roleplay |
+| [**Scene 156**](#scene-156) | Coruscant - Galactic Senate Rotunda |  | Roleplay |
+| [**Scene 157**](#scene-157) | Coruscant - Galactic Senate Rotunda | 3641 Nelona 25, 03:20 | Roleplay |
+| [**Scene 158**](#scene-158) | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:30) | Roleplay |
+| [**Scene 159**](#scene-159) | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:30) | Roleplay |
+| [**Scene 160**](#scene-160) | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:35) | Roleplay |
+| [**Scene 161**](#scene-161) | Coruscant - Galactic Senate Rotunda |  | Roleplay |
+| [**Scene 162**](#scene-162) | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:50) | Roleplay |
+| [**Scene 163**](#scene-163) | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (03:55) | Roleplay |
+| [**Scene 164**](#scene-164) | Coruscant - Galactic Senate Rotunda | Nelona 25, 3641 DR (04:10) | Roleplay |
+| [**Scene 165**](#scene-165) | Outer Rim - Volcanic Moon of Dxun | 3641 Nelona 25, 16:10 | Roleplay |
+| [**Scene 166**](#scene-166) | Outer Rim - Volcanic Moon of Dxun | Nelona 25, 3641 DR (18:10) | Roleplay |
+| [**Scene 167**](#scene-167) | Coruscant - Imperial Palace / Senate District | 3641 Nelona 26, 08:10 (Morning) | Roleplay |
+| [**Scene 168**](#scene-168) | Coruscant - The Zenith Promenade | Nelona 26, 3641 DR (19:30) | Roleplay |
+| [**Scene 169**](#scene-169) | Coruscant - The Zenith Promenade | Nelona 26, 3641 DR (22:30) | Roleplay |
+| [**Scene 170**](#scene-170) | Coruscant - The Zenith Promenade |  | Roleplay |
+| [**Scene 171**](#scene-171) | Coruscant - The Zenith Promenade | Alturiak 26, 3642 DR (12:00 (The Great Repose)) | Roleplay |
+| [**Scene 172**](#scene-172) | Coruscant - The Zenith Promenade | 3642 Nelona 26, Midday | Roleplay |
+| [**Scene 173**](#scene-173) | Coruscant - The Zenith Promenade | Mirtul 26, 3642 DR (22:15) | Roleplay |
+| [**Scene 174**](#scene-174) | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:15 | Roleplay |
+| [**Scene 175**](#scene-175) | Coruscant - Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:15 | Roleplay |
+| [**Scene 176**](#scene-176) | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:15 | Roleplay |
+| [**Scene 177**](#scene-177) | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 26, 23:20 | Roleplay |
+| [**Scene 178**](#scene-178) | Coruscant - The Imperial Citadel (Throne Room) | Nelona 26, 3642 DR (23:20) | Roleplay |
+| [**Scene 179**](#scene-179) | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 00:20 | Roleplay |
+| [**Scene 180**](#scene-180) | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 00:20 | Roleplay |
+| [**Scene 181**](#scene-181) | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 00:20 | Roleplay |
+| [**Scene 182**](#scene-182) | Coruscant - The Imperial Citadel (Throne Room) | Nelona 27, 3642 DR (01:00) | Roleplay |
+| [**Scene 183**](#scene-183) | Coruscant - The Imperial Citadel (Throne Room) | 3642 Nelona 27, 01:05 | Roleplay |
+| [**Scene 184**](#scene-184) | Deep Core - The Ark Prime (Logistics Hub) | 3642 Nelona 27, 03:05 | Roleplay |
+| [**Scene 185**](#scene-185) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:20) | Roleplay |
+| [**Scene 186**](#scene-186) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:25) | Roleplay |
+| [**Scene 187**](#scene-187) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:35) | Roleplay |
+| [**Scene 188**](#scene-188) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:40) | Roleplay |
+| [**Scene 189**](#scene-189) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:45) | Roleplay |
+| [**Scene 190**](#scene-190) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (03:42) | Roleplay |
+| [**Scene 191**](#scene-191) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (04:15) | Roleplay |
+| [**Scene 192**](#scene-192) | Coruscant - Grand Vizier's Suite | 3642 Nelona 27, 04:30:00 | Roleplay |
+| [**Scene 193**](#scene-193) | Coruscant - Grand Vizier's Suite | 3642 Nelona 27, 04:45 | Roleplay |
+| [**Scene 194**](#scene-194) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (04:45) | Roleplay |
+| [**Scene 195**](#scene-195) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (05:00) | Roleplay |
+| [**Scene 196**](#scene-196) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (10:00) | Roleplay |
+| [**Scene 197**](#scene-197) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (10:00) | Roleplay |
+| [**Scene 198**](#scene-198) | Coruscant - Grand Vizier's Suite |  | Roleplay |
+| [**Scene 199**](#scene-199) | Coruscant - Grand Vizier's Suite | Nelona 27, 3642 DR (10:20) | Roleplay |
+| [**Scene 200**](#scene-200) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (04:20) | Roleplay |
+| [**Scene 201**](#scene-201) | Imperial Vengeance - High Command Bridge | 3643 Nelona 28, 08:35 | Roleplay |
+| [**Scene 202**](#scene-202) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | 3643 Nelona 28, 08:40:00 | Roleplay |
+| [**Scene 203**](#scene-203) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (08:40) | Roleplay |
+| [**Scene 204**](#scene-204) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (08:45) | Roleplay |
+| [**Scene 205**](#scene-205) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (08:50) | Roleplay |
+| [**Scene 206**](#scene-206) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:05) | Roleplay |
+| [**Scene 207**](#scene-207) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:05) | Roleplay |
+| [**Scene 208**](#scene-208) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:10) | Roleplay |
+| [**Scene 209**](#scene-209) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (10:10) | Roleplay |
+| [**Scene 210**](#scene-210) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 ATC (09:10) | Roleplay |
+| [**Scene 211**](#scene-211) | Imperial Vengeance - High Command Bridge (Belkadan Orbit) | Nelona 28, 3643 DR (09:40) | Roleplay |
+| [**Scene 212**](#scene-212) | Yammka's Pride - Central Nerve Cluster | 3643 Nelona 28, 10:15 | Roleplay |
+| [**Scene 213**](#scene-213) | Yammka's Pride - Central Nerve Cluster | Nelona 28, 3643 DR (10:45) | Roleplay |
+| [**Scene 214**](#scene-214) | Yammka's Pride - Central Nerve Cluster | Nelona 28, 3643 DR (10:45) | Roleplay |
+| [**Scene 215**](#scene-215) | Yammka's Pride - Central Nerve Cluster | 3643 Nelona 28, 10:50 | Roleplay |
+| [**Scene 216**](#scene-216) | Yammka's Pride - Sovereign Neural Core | Nelona 28, 3643 DR (12:45) | Roleplay |
+| [**Scene 217**](#scene-217) | Yammka's Pride - Sovereign Neural Core | 3643 Nelona 28, 10:50 | Roleplay |
+| [**Scene 218**](#scene-218) | Yammka's Pride - Sovereign Neural Core | Nelona 28, 3643 DR (11:30) | Roleplay |
+| [**Scene 219**](#scene-219) | Yammka's Pride - Sovereign Neural Core | 3643 Nelona 28, 12:30:00 | Roleplay |
+| [**Scene 220**](#scene-220) | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3643 DR (12:30) | Roleplay |
+| [**Scene 221**](#scene-221) | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3643 DR (14:30) | Roleplay |
+| [**Scene 222**](#scene-222) | Unknown |  | Roleplay |
+| [**Scene 223**](#scene-223) | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3643 DR (15:00) | Roleplay |
+| [**Scene 224**](#scene-224) | Yammka's Pride - Sovereign Neural Core | Nelona 29, 3644 DR (15:00) | Roleplay |
+| [**Scene 225**](#scene-225) | Galactic Tour - Multiple Sectors | Nelona 29, 3645 DR (10:00) | Roleplay |
+| [**Scene 226**](#scene-226) | Belsavis - Sanctuary of Judgment | Nelona 29, 3645 DR (14:00) | Roleplay |
+| [**Scene 227**](#scene-227) | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3645 DR (14:05) | Roleplay |
+| [**Scene 228**](#scene-228) | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3646 DR (18:00) | Roleplay |
+| [**Scene 229**](#scene-229) | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3646 DR (19:00) | Roleplay |
+| [**Scene 230**](#scene-230) | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 29, 3646 DR (19:30) | Roleplay |
+| [**Scene 231**](#scene-231) | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (20:30) | Roleplay |
+| [**Scene 232**](#scene-232) | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (20:35) | Roleplay |
+| [**Scene 233**](#scene-233) | Coruscant - Archive of the Unbound / Intergalactic Void | Nelona 29, 3646 DR (21:35) | Roleplay |
+| [**Scene 234**](#scene-234) | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (21:40) | Roleplay |
+| [**Scene 235**](#scene-235) | Coruscant - Archive of the Unbound | Nelona 29, 3646 DR (22:35) | Roleplay |
+| [**Scene 236**](#scene-236) | Coruscant - Archive of the Unbound | Nelona 01, 3647 DR (00:05) | Roleplay |
+| [**Scene 237**](#scene-237) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (00:20) | Roleplay |
+| [**Scene 238**](#scene-238) | Coruscant - Archive of the Unbound | 3647 Nelona 1, 00:50:00 | Roleplay |
+| [**Scene 239**](#scene-239) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (00:55) | Roleplay |
+| [**Scene 240**](#scene-240) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (01:25) | Roleplay |
+| [**Scene 241**](#scene-241) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (01:40) | Roleplay |
+| [**Scene 242**](#scene-242) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (01:50) | Roleplay |
+| [**Scene 243**](#scene-243) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (02:00) | Roleplay |
+| [**Scene 244**](#scene-244) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (02:30) | Roleplay |
+| [**Scene 245**](#scene-245) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (04:30) | Roleplay |
+| [**Scene 246**](#scene-246) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (04:45) | Roleplay |
+| [**Scene 247**](#scene-247) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:00) | Roleplay |
+| [**Scene 248**](#scene-248) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:02) | Roleplay |
+| [**Scene 249**](#scene-249) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:02) | Roleplay |
+| [**Scene 250**](#scene-250) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (05:02) | Roleplay |
+| [**Scene 251**](#scene-251) | Belsavis - Sanctuary of Judgment | Nelona 1, 3647 DR (08:02) | Roleplay |
+| [**Scene 252**](#scene-252) | Belsavis - Sanctuary of Judgment (Meditation Garden) | Nelona 1, 3647 DR (08:12) | Roleplay |
+| [**Scene 253**](#scene-253) | Belsavis - Sanctuary of Judgment | Nelona 1, 3647 DR (08:27) | Roleplay |
+| [**Scene 254**](#scene-254) | Outer Rim - Imperial Vengeance (High Marshal's Sanctum) | Nelona 1, 3647 DR (10:27) | Roleplay |
+| [**Scene 255**](#scene-255) | Outer Rim - Imperial Vengeance (High Marshal's Sanctum) | Nelona 1, 3647 DR (10:57) | Roleplay |
+| [**Scene 256**](#scene-256) | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (11:30) | Roleplay |
+| [**Scene 257**](#scene-257) | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (11:40) | Roleplay |
+| [**Scene 258**](#scene-258) | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (12:00 (Midday)) | Roleplay |
+| [**Scene 259**](#scene-259) | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (14:00) | Roleplay |
+| [**Scene 260**](#scene-260) | Coruscant - Grand Vizier's Suite | Nelona 1, 3647 DR (12:15) | Roleplay |
+| [**Scene 261**](#scene-261) | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (12:30) | Roleplay |
+| [**Scene 262**](#scene-262) | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (13:30) | Roleplay |
+| [**Scene 263**](#scene-263) | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (14:00) | Roleplay |
+| [**Scene 264**](#scene-264) | Shattered Oubliette - The Second Heart | Nelona 1, 3647 DR (14:15) | Roleplay |
+| [**Scene 265**](#scene-265) | Rishi Maze - Fortress of the Silent King | Nelona 1, 3647 DR (18:15) | Roleplay |
+| [**Scene 266**](#scene-266) | Rishi Maze - Fortress of the Silent King | Nelona 1, 3647 DR (18:15) | Roleplay |
+| [**Scene 267**](#scene-267) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (18:30) | Roleplay |
+| [**Scene 268**](#scene-268) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (18:30) | Roleplay |
+| [**Scene 269**](#scene-269) | Coruscant - Archive of the Unbound | Nelona 1, 3647 DR (18:35) | Roleplay |
+| [**Scene 270**](#scene-270) | Coruscant - Archive of the Unbound | 3647 Nelona 1, Evening | Roleplay |
+| [**Scene 271**](#scene-271) | Coruscant - Archive of the Unbound | 3647 Nelona 4, 20:15 (Evening) | Roleplay |
+| [**Scene 272**](#scene-272) | Coruscant - Archive of the Unbound | Nelona 4, 3648 DR (12:00) | Roleplay |
+| [**Scene 273**](#scene-273) | Coruscant - Archive of the Unbound | Nelona 4, 3649 DR (12:00) | Roleplay |
+| [**Scene 274**](#scene-274) | Coruscant - Archive of the Unbound | Nelona 4, 3651 DR (12:05) | Roleplay |
+| [**Scene 275**](#scene-275) | Medriaas - The Original Divergence | Nelona 4, 3651 DR (12:15) | Roleplay |
+| [**Scene 276**](#scene-276) | Medriaas - The Original Divergence | Nelona 4, 3651 DR (12:15) | Roleplay |
+| [**Scene 277**](#scene-277) | Medriaas - The Heart of the Loom | Nelona 4, 3651 DR (13:00) | Roleplay |
+| [**Scene 278**](#scene-278) | Medriaas - The Heart of the Loom | Nelona 4, 3701 DR (13:00) | Roleplay |
+| [**Scene 279**](#scene-279) | Medriaas - The Heart of the Loom / Coruscant - Archive of the Unbound | Nelona 4, 3751 DR (13:00) | Roleplay |
+| [**Scene 280**](#scene-280) | Coruscant - Archive of the Unbound | Nelona 4, 3751 DR (13:05) | Roleplay |
+| [**Scene 281**](#scene-281) | Outside the Local Multiverse - The Omni-Cull Core | Nelona 4, 3751 DR (13:10) | Roleplay |
+| [**Scene 282**](#scene-282) | Outside the Local Multiverse - The Omni-Cull Core | Nelona 4, 3751 DR (13:10) | Roleplay |
+| [**Scene 283**](#scene-283) | Archive of the Unbound - Coruscant | 3751 Nelona 4, 13:10 | Roleplay |
+| [**Scene 284**](#scene-284) | Archive of the Unbound - Coruscant | Nelona 4, 3851 DR (12:05) | Roleplay |
+| [**Scene 285**](#scene-285) | Archive of the Unbound - Coruscant | Nelona 4, 3901 DR (12:20) | Roleplay |
+| [**Scene 286**](#scene-286) | Archive of the Unbound - Coruscant | Nelona 4, 3951 DR (12:35) | Roleplay |
+| [**Scene 287**](#scene-287) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:00) | Roleplay |
+| [**Scene 288**](#scene-288) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:30) | Roleplay |
+| [**Scene 289**](#scene-289) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:31) | Roleplay |
+| [**Scene 290**](#scene-290) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:35) | Roleplay |
+| [**Scene 291**](#scene-291) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:40) | Roleplay |
+| [**Scene 292**](#scene-292) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (14:50) | Roleplay |
+| [**Scene 293**](#scene-293) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (15:00) | Roleplay |
+| [**Scene 294**](#scene-294) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (19:00) | Roleplay |
+| [**Scene 295**](#scene-295) | Archive of the Unbound - Coruscant | Nelona 10, 3953 DR (21:00) | Roleplay |
+| [**Scene 296**](#scene-296) | Archive of the Unbound - Great Hall | Nelona 10, 3953 DR (21:30) | Roleplay |
+| [**Scene 297**](#scene-297) | Archive of the Unbound - Coruscant | Nelona 10, 4003 DR (18:35) | Roleplay |
+| [**Scene 298**](#scene-298) | Archive of the Unbound - Coruscant | Nelona 10, 4055 DR (20:30) | Roleplay |
+| [**Scene 299**](#scene-299) | Archive of the Unbound - Coruscant | Nelona 11, 4055 DR (01:30) | Roleplay |
+| [**Scene 300**](#scene-300) | Archive of the Unbound - Coruscant | Nelona 11, 4055 DR (01:45) | Roleplay |
+| [**Scene 301**](#scene-301) | Archive of the Unbound - Coruscant | Nelona 11, 4055 DR (01:50) | Roleplay |
+| [**Scene 302**](#scene-302) | Archive of the Unbound - Coruscant | Nelona 11, 4106 DR (12:05) | Roleplay |
+| [**Scene 303**](#scene-303) | Archive of the Unbound - Coruscant | Nelona 11, 4157 DR (12:05) | Roleplay |
+| [**Scene 304**](#scene-304) | Archive of the Unbound - Coruscant | Nelona 11, 4157 DR (12:15) | Roleplay |
+| [**Scene 305**](#scene-305) | Archive of the Unbound - Coruscant | Nelona 11, 4157 DR (12:15) | Roleplay |
+| [**Scene 306**](#scene-306) | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:20) | Roleplay |
+| [**Scene 307**](#scene-307) | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:35) | Roleplay |
+| [**Scene 308**](#scene-308) | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:40) | Roleplay |
+| [**Scene 309**](#scene-309) | Archive of the Unbound - Coruscant (Expanded Arena) | Nelona 11, 4157 DR (12:55) | Roleplay |
+| [**Scene 310**](#scene-310) | Archive of the Unbound - Coruscant (Great Hall) | Nelona 11, 4157 DR (14:55) | Roleplay |
+| [**Scene 311**](#scene-311) | Archive of the Unbound - Coruscant (Great Hall) | Nelona 11, 4157 DR (16:30) | Roleplay |
+| [**Scene 312**](#scene-312) | Archive of the Unbound - Coruscant (Great Hall) | Nelona 11, 4157 DR (19:30) | Roleplay |
+| [**Scene 313**](#scene-313) | Archive of the Unbound - Arena Floor | Nelona 11, 4157 DR (16:35) | Roleplay |
+| [**Scene 314**](#scene-314) | Archive of the Unbound - Arena Floor | 4157 Nelona 11, 16:35:30 | Roleplay |
+| [**Scene 315**](#scene-315) | Archive of the Unbound - Arena Floor |  | Roleplay |
+| [**Scene 316**](#scene-316) | Archive of the Unbound - Arena Floor | 4157 Nelona 11, 16:35:30.000002 | Roleplay |
+| [**Scene 317**](#scene-317) | Archive of the Unbound - Arena Floor | Nelona 11, 4157 DR (16:35) | Roleplay |
+| [**Scene 318**](#scene-318) | Archive of the Unbound - Grand Hall | Nelona 11, 4157 DR (20:00) | Roleplay |
+| [**Scene 319**](#scene-319) | Archive of the Unbound - Grand Hall | Nelona 11, 4157 DR (20:00) | Roleplay |
+| [**Scene 320**](#scene-320) | Archive of the Unbound - Grand Hall | Nelona 11, 9157 DR (12:00) | Roleplay |
+| [**Scene 321**](#scene-321) | Archive of the Unbound - Grand Hall |  | Roleplay |
+| [**Scene 322**](#scene-322) | Archive of the Unbound - Grand Hall | Nelona 11, 14157 DR (13:05) | Roleplay |
+| [**Scene 323**](#scene-323) | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:10) | Roleplay |
+| [**Scene 324**](#scene-324) | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:20) | Roleplay |
+| [**Scene 325**](#scene-325) | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:30) | Roleplay |
+| [**Scene 326**](#scene-326) | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:40) | Roleplay |
+| [**Scene 327**](#scene-327) | Archive of the Unbound - Grand Hall | Nelona 11, 19157 DR (13:45) | Roleplay |
+| [**Scene 328**](#scene-328) | Archive of the Unbound - Grand Hall | Nelona 11, 24157 DR (14:05) | Roleplay |
+| [**Scene 329**](#scene-329) | Archive of the Unbound - Grand Hall | Nelona 11, 29157 DR (15:30) | Roleplay |
+| [**Scene 330**](#scene-330) | Medriaas - Estate of the Pines | Nelona 11, 29232 DR (15:30) | Roleplay |
+| [**Scene 331**](#scene-331) | Medriaas - Estate of the Pines | Nelona 11, 29307 DR (15:45) | Roleplay |
+| [**Scene 332**](#scene-332) | Medriaas - Estate of the Pines (Gardener's Cottage) | Nelona 11, 29382 DR (15:46) | Roleplay |
+| [**Scene 333**](#scene-333) | Medriaas - Estate of the Pines | Nelona 11, 29382 DR (15:56) | Roleplay |
+| [**Scene 334**](#scene-334) | Medriaas - Estate of the Pines | Nelona 11, 29457 DR (16:15) | Roleplay |
+| [**Scene 335**](#scene-335) | Medriaas - The Gardener's Sanctuary | Nelona 11, 29457 DR (16:30) | Roleplay |
+| [**Scene 336**](#scene-336) | Medriaas - The Gardener's Sanctuary | Nelona 11, 30457 DR (12:00) | Roleplay |
+| [**Scene 337**](#scene-337) | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:10) | Roleplay |
+| [**Scene 338**](#scene-338) | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:15) | Roleplay |
+| [**Scene 339**](#scene-339) | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:15) | Roleplay |
+| [**Scene 340**](#scene-340) | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:30) | Roleplay |
+| [**Scene 341**](#scene-341) | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:30) | Roleplay |
+| [**Scene 342**](#scene-342) | Deep Core - The Ark Prime (Protocol Horizon Zone) | Nelona 11, 30458 DR (12:45) | Roleplay |
+| [**Scene 343**](#scene-343) | Medriaas - The Gardener's Sanctuary | Nelona 11, 30458 DR (13:45) | Roleplay |
+| [**Scene 344**](#scene-344) | Medriaas - The Gardener's Sanctuary | Nelona 11, 30458 DR (19:00) | Roleplay |
+| [**Scene 345**](#scene-345) | Medriaas - The Gardener's Sanctuary | Nelona 11, 41708 DR (19:00) | Roleplay |
+| [**Scene 346**](#scene-346) | The Shattered Oubliette - The Second Heart | Nelona 11, 52958 DR (19:00) | Roleplay |
+| [**Scene 347**](#scene-347) | The Shattered Oubliette - The Second Heart | Nelona 11, 52958 DR (19:00) | Roleplay |
+| [**Scene 348**](#scene-348) | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:00) | Roleplay |
+| [**Scene 349**](#scene-349) | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:10) | Roleplay |
+| [**Scene 350**](#scene-350) | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:40) | Roleplay |
+| [**Scene 351**](#scene-351) | The Shattered Oubliette - The Second Heart | Nelona 11, 69208 DR (19:45) | Roleplay |
+| [**Scene 352**](#scene-352) | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (19:50) | Roleplay |
+| [**Scene 353**](#scene-353) | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:05) | Roleplay |
+| [**Scene 354**](#scene-354) | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:05) | Roleplay |
+| [**Scene 355**](#scene-355) | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:10) | Roleplay |
+| [**Scene 356**](#scene-356) | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:25) | Roleplay |
+| [**Scene 357**](#scene-357) | The Blind Spot - Galaxy Alpha - The Edge of Silence | Nelona 11, 69208 DR (20:35) | Roleplay |
+| [**Scene 358**](#scene-358) | The Hybrid Redoubt - The Edge of Silence | Nelona 11, 69208 DR (21:05) | Roleplay |
+| [**Scene 359**](#scene-359) | The Hybrid Redoubt - The Edge of Silence | Nelona 11, 69208 DR (21:10) | Roleplay |
+| [**Scene 360**](#scene-360) | The Hybrid Redoubt - The Edge of Silence | Nelona 11, 69208 DR (21:15) | Roleplay |
+| [**Scene 361**](#scene-361) | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:30) | Roleplay |
+| [**Scene 362**](#scene-362) | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:30) | Roleplay |
+| [**Scene 363**](#scene-363) | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:31) | Roleplay |
+| [**Scene 364**](#scene-364) | The Bone-glass Path - Mid-point (Galaxy Alpha) | Nelona 11, 69208 DR (21:32) | Roleplay |
+| [**Scene 365**](#scene-365) | The Bone-glass Path - Edge of the Dome | Nelona 11, 69208 DR (21:36) | Roleplay |
+| [**Scene 366**](#scene-366) | The Bone-glass Path - Threshold of the Geometric Dome | Nelona 11, 69208 DR (21:36) | Roleplay |
+| [**Scene 367**](#scene-367) | The Geometric Dome - The Outer Threshold | Nelona 11, 69208 DR (21:38) | Roleplay |
+| [**Scene 368**](#scene-368) | The Geometric Dome - The Interior | Nelona 11, 69208 DR (21:39) | Roleplay |
+| [**Scene 369**](#scene-369) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:38) | Roleplay |
+| [**Scene 370**](#scene-370) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:38) | Roleplay |
+| [**Scene 371**](#scene-371) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:43) | Roleplay |
+| [**Scene 372**](#scene-372) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:44) | Roleplay |
+| [**Scene 373**](#scene-373) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:44) | Roleplay |
+| [**Scene 374**](#scene-374) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:45) | Roleplay |
+| [**Scene 375**](#scene-375) | The Geometric Dome - The Interior | Nelona 11, 80458 Era of the Author (21:45) | Roleplay |
+| [**Scene 376**](#scene-376) | The Geometric Dome - The Interior | Nelona 11, 80458 Era of the Author (21:45) | Roleplay |
+| [**Scene 377**](#scene-377) | The Geometric Dome - The Interior | Nelona 11, 80458 Era of the Author (21:45) | Roleplay |
+| [**Scene 378**](#scene-378) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (Night) | Roleplay |
+| [**Scene 379**](#scene-379) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:50) | Roleplay |
+| [**Scene 380**](#scene-380) | The Geometric Dome - The Interior | Nelona 11, 80458 DR (21:55) | Roleplay |
+| [**Scene 381**](#scene-381) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 90458 DR (12:00) | Roleplay |
+| [**Scene 382**](#scene-382) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (12:00) | Roleplay |
+| [**Scene 383**](#scene-383) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 139084 DR (12:05) | Roleplay |
+| [**Scene 384**](#scene-384) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (12:15) | Roleplay |
+| [**Scene 385**](#scene-385) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (12:20) | Roleplay |
+| [**Scene 386**](#scene-386) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (14:45) | Roleplay |
+| [**Scene 387**](#scene-387) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (15:00) | Roleplay |
+| [**Scene 388**](#scene-388) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 117834 DR (16:00) | Roleplay |
+| [**Scene 389**](#scene-389) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 167834 DR (12:00) | Roleplay |
+| [**Scene 390**](#scene-390) | The Archive of the Unbound - The Source Sanctum | Nelona 15, 217834 DR (12:15) | Roleplay |
+| [**Scene 391**](#scene-391) | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (12:30) | Roleplay |
+| [**Scene 392**](#scene-392) | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (12:40) | Roleplay |
+| [**Scene 393**](#scene-393) | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (14:00) | Roleplay |
+| [**Scene 394**](#scene-394) | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (14:05) | Roleplay |
+| [**Scene 395**](#scene-395) | Galaxy Gamma - The Archive of Failures | Nelona 15, 217834 DR (14:15) | Roleplay |
+| [**Scene 396**](#scene-396) | Galaxy Gamma - The Source Sanctum | Nelona 15, 217834 DR (16:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Citadel of Storms, Dromund Kaas** &nbsp;|&nbsp; ⏳ **3640 BBY, The Old Republic Era** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Prodigy | HP: -- | XP: 0/300 | Gold: --** &nbsp;|&nbsp; ✨ **Instability: 0/100, Favor: 0, Gaze: 0** &nbsp;|&nbsp; ⚠️ **The Emperor's Shadow**
@@ -584,8 +600,11 @@ Options: Essence Devourer System, Instability Meter, Blood Link feature.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: [AIGenerated] - I will build a complete Sith Prodigy (Siren) sheet for you based on the &#x27;Nocturne&#x27; prompt, optimized for the Essence Devourer mechanics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Penthouse, Dromund Kaas** &nbsp;|&nbsp; ⏳ **19th of Cold Shadows, 3640 BBY (Old Republic) (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Prodigy | HP: 10/10 | XP: 0/300 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Force Slots: L1 2/2, Instability: 0/100, Medpacs: 2**
@@ -628,8 +647,11 @@ Nocturne is built to thrive in 'The Throne of Glass' scenarios. Her high Charism
 God Mode:
 start me at level 6, prioritize CHA, DEX, CON. Pick ASI CHA+2 for all feats. Make me a swords bard t ype class. Show me my stats and equipment. Equipment and resources should be reasonable for sith emperor daugther
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Penthouse, Dromund Kaas** &nbsp;|&nbsp; ⏳ **Day, 2025-12-19 (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy (Siren) | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Force Slots: L1: 4/4, L2: 3/3, L3: 3/3, Inspiration: 4/4 (d8), Medpacs: 5**
@@ -639,8 +661,11 @@ The user is utilizing GOD MODE to skip the early game and jump to a mid-tier pow
 God Mode:
 show me my stats and gear, make me neutral evil
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Penthouse, Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00 (God Mode Active))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Force Inspiration: 4/4, Medpacs: 5**
@@ -650,8 +675,11 @@ The user requested a status check and an alignment change in GOD MODE. I am prov
 God Mode:
 make my int/dex higher, take from wis/str
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Penthouse, Dromund Kaas** &nbsp;|&nbsp; ⏳ **Month 12, 1492 DR (Imperial Era) (Day 19)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Medpacs: 5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -661,8 +689,11 @@ The user adjusted attributes in God Mode. I have rebalanced the character sheet,
 God Mode:
 Return to Story - Exit God Mode and resume the narrative
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Penthouse, Dromund Kaas** &nbsp;|&nbsp; ⏳ **3641 BBY, Month of the Dragon | 12:00 PM** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Alignment: Neutral Evil** &nbsp;|&nbsp; ✨ **Hit Dice: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Medpacs: 5**
@@ -678,8 +709,11 @@ The hunger of the Essence Devourer stirs in your gut, a quiet reminder that powe
 > 👤 **Player:**
 > *"Think. what would give methe biggest power up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Penthouse, Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **Hit Dice: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Medpacs: 5**
@@ -691,8 +725,11 @@ The hunger of the Essence Devourer is not a simple craving; it is a strategic vo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target: Exar Kun&#x27;s Spirit (The Holocron Eater) - Consider the journey to Yavin 4 to consume ancient secrets and gain 2 spells from any class list.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Orbit over Yavin 4** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Medpacs: 5** &nbsp;|&nbsp; ⚠️ **Blood Link Active | Exhaustion: 0 | Inspiration: 4/4**
@@ -706,8 +743,11 @@ Hours later, the interceptor drops into realspace. Below you hangs Yavin 4, a lu
 God Mode:
 adjust campaign. i should have people giving me missions, approaching me, superiors, merc contracts, order from my father sith emperor etc. I want the world more reactive and lifelike
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Yavin 4 Jungle** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Medpacs: 5**
@@ -717,8 +757,11 @@ The user wants a more reactive world with more frequent mission hooks and a stro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the hunt on Yavin 4 with the new reactivity settings active*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Yavin 4 - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Force Inspiration: 4/4, Medpacs: 5, Instability: 0**
@@ -734,8 +777,11 @@ Inside the temple, Krell reports, a team of mercenary 'Force-Hunters' contracted
 > 👤 **Player:**
 > *"what spells do i have available?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Yavin 4 Jungle - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy (Siren) | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Slots: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 4/4 | Medpacs: 5 | Instability: 0**
@@ -769,8 +815,11 @@ Sergeant Krell remains at attention, his eyes fixed on the jungle line as he awa
 God Mode:
 beside the star wars themed spells always give me the official D&D names too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Yavin 4 Jungle - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy (Siren) | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Medpacs: 5, Instability: 0**
@@ -780,8 +829,11 @@ The user has requested a permanent formatting change for spells to include D&D e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the hunt on Yavin 4 with the updated spell visibility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Yavin 4 Jungle - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Medpacs: 5, Instability: 0**
@@ -797,8 +849,11 @@ Beyond the shimmer of the troopers' cloaking fields, the massive stone ziggurat 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Krell - Pressure Krell for more details on Sskoss and the specific orders Thexan gave the mercenaries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Yavin 4 Jungle - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Force Inspiration: 4/4, Medpacs: 5, Instability: 0** &nbsp;|&nbsp; ⚠️ **Blood Link (Active) | Instability: 0/100**
@@ -814,8 +869,11 @@ He swallows hard, looking at the looming ziggurat. 'Sskoss doesn't care about th
 > 👤 **Player:**
 > *"Think. what if i get krell to engage sskoss, then use invis/stealth and go to inner sanctum"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Yavin 4 Jungle - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Force Inspiration: 4/4, Medpacs: 5, Instability: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 4/4**
@@ -825,8 +883,11 @@ You remain motionless as the humid jungle air settles around you, the fearful ga
 God Mode:
 what spells do i have? make sure i picked invis, command, hypnotic pattern, greater invis. swap out others if not
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Yavin 4 Jungle - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Force Inspiration: 4/4, Medpacs: 5, Instability: 0**
@@ -836,8 +897,11 @@ The user is in GOD MODE to adjust their spell list. As a Level 6 Sith Prodigy (S
 God Mode:
 Return to Story - Exit GOD MODE and resume gameplay on Yavin 4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Yavin 4 Jungle - Great Temple Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Force Inspiration: 4/4, Medpacs: 5** &nbsp;|&nbsp; ⚠️ **Blood Link Active | Instability: 0**
@@ -853,8 +917,11 @@ As the scouts vanish into the thick undergrowth with practiced silence, you reac
 God Mode:
 ambush the leader nd trigger surprise round
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 3/3, Force Inspiration: 4/4, Medpacs: 5** &nbsp;|&nbsp; ⚠️ **Invisible, Surprising | Exhaustion: 0 | Inspiration: 4/4**
@@ -864,8 +931,11 @@ The player is using administrative control to force a high-advantage combat star
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Execute the ambush and begin the surprise round*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:41)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 3/3, Force Inspiration: 4/4, Medpacs: 5**
@@ -879,8 +949,11 @@ You materialize like a nightmare born from the temple's own shadows. Your alchem
 > 👤 **Player:**
 > *"hypnotic pattern, try to get all of them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/1, L3 2/3, Force Inspiration: 4/4, Medpacs: 5, Instability: 10/100** &nbsp;|&nbsp; ⚠️ **In Combat, Surprised Round Over**
@@ -896,8 +969,11 @@ The surprise is gone. The cathedral of rot erupts into chaos as the mercenaries 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terror Aura (Fear) - The dampeners might block charms, but raw terror is harder to ignore. Unleash a cone of nightmare.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/1, L3 1/3, Force Inspiration: 4/4, Instability: 12/100**
@@ -913,8 +989,11 @@ The surviving guard fires a crackling disruptor bolt that sizzles past your ear,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defensive Flourish - Attack Sskoss and use a Blade Flourish to boost your AC against the coming disruptor fire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 14000/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/1, L3 1/1, Inspiration: 3/4, Instability: 12/100** &nbsp;|&nbsp; ⚠️ **Defensive Flourish (+4 AC) | Inspiration: 3/4**
@@ -928,8 +1007,11 @@ Sskoss let out a wet, rattling gasp, his knees buckling as the sheer weight of y
 > 👤 **Player:**
 > *"intimidate them all into surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 15100/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/1, L3 0/3, Inspiration: 2/4, Instability: 22/100** &nbsp;|&nbsp; ⚠️ **Defensive Flourish (+3 AC) | Instability: 22/100 (Fraying)**
@@ -945,8 +1027,11 @@ The veteran guard with the cybernetic eye looks from the smoking ruins of Sskoss
 > 👤 **Player:**
 > *"kill one merc to trigger my bonus, ensure everyone tied up, interrogate sskoss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 15100/23000 | Instability: 20/100** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 0/1, L3 0/3, Inspiration: 2/4, Instability: 20/100**
@@ -968,8 +1053,11 @@ Sskoss shudders, a wet, rattling sound escaping his throat. "The lower vaults...
 > 👤 **Player:**
 > *"Think. what bonus do i get or maintain again for killing someone? always show it in session header"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (06:56)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 15100/23000 | Gold: 2500gp | Instability: 10/100** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 3/3, Inspiration: 3/4, Instability: 10/100** &nbsp;|&nbsp; ⚠️ **Blood Link (Active) | Kill Bonus: -10 Instability (Active) | Inspiration: 3/4**
@@ -979,8 +1067,11 @@ You pause, the violet-orange glow of your lightsaber illuminating the cooling bl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Interrogating Sskoss - Press the Trandoshan for more details on the &#x27;Massassi Priest&#x27; crypts and the spirit of Kun.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Yavin 4 - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | Instability: 5/100 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 2/3, Inspiration: 3/4, Instability: 5/100** &nbsp;|&nbsp; ⚠️ **Grounded (Vaylin Static Silenced)**
@@ -1000,8 +1091,11 @@ You look toward the obsidian altar. The Blood Link thrums—not with the Emperor
 God Mode:
 where is my exp? remember to track it and award it for everything ive done so far
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Yavin 4 Jungle - Great Temple Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 16,700/23,000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 2/2, Inspiration: 3/3, Instability: 5/100** &nbsp;|&nbsp; ⚠️ **Neutral Evil Clarity (Vaylin Sated) | Exhaustion: 0 | Inspiration: Yes**
@@ -1011,8 +1105,11 @@ The user requested an XP award for recent actions. I have audited the Yavin 4 se
 God Mode:
 Return to Story - Exit GOD MODE and resume the interrogation of Sskoss.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Great Temple - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 ATC (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 18400/23000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 2/2, Inspiration: 3/3, Instability: 5/100** &nbsp;|&nbsp; ⚠️ **Essence Grounded (Vaylin quiet) | Instability: 5/100**
@@ -1026,8 +1123,11 @@ The obsidian altar before you seems to pulse with a low, sub-sonic frequency tha
 > 👤 **Player:**
 > *"krell should back me up, fully loot and strip all the mercs and the whole area, use them as bait when naked for traps, descend"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Great Temple - Lower Crypt Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 18400/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 2/2, Inspiration: 3/3, Instability: 5/100**
@@ -1043,8 +1143,11 @@ With a flick of your wrist, you input the sequence 'Victory, Power, Victory' int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sense the Bane - Deeply probe the Force to locate the &#x27;Siren&#x27;s Bane&#x27; before it can latch onto your mind*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Great Temple - Hall of the Silent Priests (Upper Level)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 18500/23000 | Gold: 7500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 2/2, Force Inspiration: 3/3, Instability: 6/100** &nbsp;|&nbsp; ⚠️ **Blood Link (Active), Instinctive Clarity (Post-Execution)**
@@ -1060,8 +1163,11 @@ You stop at the base of the stairs. Ahead lies a wide gallery flanked by headles
 > 👤 **Player:**
 > *"sacrifice bait, and then consume the spirit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Hall of the Silent Priests - Archway** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Siren | HP: 45/45 | XP: 20000/23000 | Gold: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 2/2, Force Inspiration: 3/3, Instability: 0/100**
@@ -1075,8 +1181,11 @@ You don't flinch. You reach out with both hands, the Blood Link in your marrow t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Ancient Secrets - Select 2 new spells/Force powers from any class list (e.g., Force Lightning/Witch Bolt, Drain Life/Enervation)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Great Temple - Hall of the Silent Priests (Upper Level)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (08:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy (Siren) | HP: 45/45 | XP: 21000/23000 | Gold: 7500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 2/2, Force Inspiration: 3/3, Instability: 15/100**
@@ -1092,8 +1201,11 @@ Sergeant Krell steps forward, his hand hovering over his holster as he watches y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Storm - Take a moment to center yourself and lower your Instability before facing whatever Kun left in the lower levels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Great Temple - Hall of the Silent Priests (Upper Level)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | Instability: 7/100 | XP: 21000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 2/2, Force Inspiration: 3/3, Instability: 7/100**
@@ -1109,8 +1221,11 @@ You rise after fifteen minutes, your eyes flashing a brief, violent violet befor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Interrogation - Press Sskoss for the exact layout of the &#x27;Siren&#x27;s Bane&#x27; core before moving deeper.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Great Temple - Hall of the Silent Priests (Upper Level)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 21150/23000 | Gold: 7500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 2/2, Force Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Essence Fed (Grounded), Instability: 7/100**
@@ -1128,8 +1243,11 @@ You pull the blade back, the scent of scorched scales lingering. The layout is c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Gallery - Send Krell&#x27;s scouts to scan the gallery for physical traps before the Force-sensitivity becomes an issue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Hall of the Silent Priests - The Gallery of Headless Priests** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 21150/23000 | Gold: 7500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 2/2, Force Inspiration: 3/3, Medpacs: 2** &nbsp;|&nbsp; ⚠️ **Grounded (Vaylin persona quieted), Force Inspiration (3/3), Essence Devourer Points (1)**
@@ -1143,8 +1261,11 @@ One of the scouts misses a subtle depression in the basalt floor. Sskoss wheezes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Locate Sub-Altars - Direct the scouts to hold position while you use the Force to locate the peripheral anchors feeding the Bane.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Hall of the Silent Priests - The Gallery of Headless Priests** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 21150/23000 | Gold: 7500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 2/2, Force Inspiration: 3/3, Medpacs: 2** &nbsp;|&nbsp; ⚠️ **Blood Link Active | Instability: 8/100**
@@ -1160,8 +1281,11 @@ Through the psychic fog, you manage to triangulate the anchors. They aren't mere
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Surge Destruction - Unleash a massive wave of Force energy to try and disrupt all anchors at once.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Hall of the Silent Priests - The Central Obelisk** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 22350/23000 | Gold: 7500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 1/2, Inspiration: 2/3, Instability: 18/100** &nbsp;|&nbsp; ⚠️ **Force Surge Exhaustion (Minor) | Instability: 18/100**
@@ -1181,8 +1305,11 @@ Sergeant Krell and his scouts stumble forward, their equipment rebooting as the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Triage - Force Sskoss to provide final warnings about the &#x27;Spirit World&#x27; transitions before entering the pit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Hall of the Silent Priests - The Central Obelisk** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 22850/23000 | Gold: 7500gp** &nbsp;|&nbsp; ⚠️ **Neutral Evil Clarity, Blood Link Active | Instability: 35/100**
@@ -1196,8 +1323,11 @@ Sskoss wheezes, a wet, clicking sound escaping his snout. 'The Veil... Princess.
 God Mode:
 Gold: 7500gp call these credits and make sure we account for the credits we looted
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Hall of the Silent Priests - The Central Obelisk** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy (Siren) | HP: 45/45 | XP: 22350/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 1/2, Inspiration: 2/3, Instability: 18/100, Credits: 7500** &nbsp;|&nbsp; ⚠️ **Neutral Evil | Essence Devourer Sated | Blood Link Active**
@@ -1207,8 +1337,11 @@ The user is refining the campaign's thematic terminology and correcting the reso
 God Mode:
 Descend with Bait - Force the remaining mercenaries ahead to trigger any &#x27;Veil&#x27; manifestations.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Crypts of the Massassi - The Descent** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 22350/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 0/1, Inspiration: 2/3, Instability: 18/100**
@@ -1224,8 +1357,11 @@ Suddenly, the basalt walls don't just bleed shadow; they seem to inhale. The mer
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Saturation - Use Essence Devourer to feast on the ambient Veil energy to stabilize your presence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Crypts of the Massassi - The Descent** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy (Siren) | HP: 40/45 | XP: 22350/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 0/1, Inspiration: 2/3, Instability: 28/100** &nbsp;|&nbsp; ⚠️ **Instability: 28 (Fraying - Eyes Violet, +2 Damage, -2 Persuasion)**
@@ -1241,8 +1377,11 @@ Your eyes flash a brilliant, unstable violet, the light illuminating the terrifi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Unleash the Storm - Allow the instability to flow outward, striking the pillars and ghosts with a surge of Force Lightning.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Crypts of the Massassi - The Descent** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:11)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 40/45 | XP: 22350/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 0/1, Instability: 40/100, Inspiration: 2/3**
@@ -1258,8 +1397,11 @@ The 'Gaze of the Dragon'—the weight of your father's attention—is no longer 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Siphon the Wounded - Use Life Drain (Vampiric Touch) on the scorched ghosts to sate the hunger and ground your presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Crypts of the Massassi - The Descent** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 22350/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 0/3, Instability: 30/100, Inspiration: 2/3**
@@ -1271,8 +1413,11 @@ The ghost's monochromatic form dims as you siphon its very history, its essence 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Dead - Use your sated presence to force the weakened ghosts to serve as spectral guides or shields.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Crypts of the Massassi - The Descent** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 22550/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 0/3, Instability: 20/100, Inspiration: 2/3**
@@ -1288,8 +1433,11 @@ The spirits do not scream. They bow. The two scorched Massassi shadows glide for
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send Bait Ahead - Keep the mercenaries in front of the ghosts to double-check for physical triggers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 22550/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 0/3, Instability: 22/100, Essence Devourer Points: 2** &nbsp;|&nbsp; ⚠️ **Blood Link (Active), Essence Sated | Exhaustion: 0 | Inspiration: Yes**
@@ -1305,8 +1453,11 @@ A sharp, mechanical 'thud' echoes through the vault, followed by the hiss of pre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacrifice Last Bait - Force the final mercenary into the submerged chamber to flush out spectral guardians*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:42)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sith Prodigy | HP: 45/45 | XP: 22550/23000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 0/3, Instability: 22/100, Essence Devourer Points: 2**
@@ -1322,8 +1473,11 @@ The 'Heart' reacts instantly. The rhythmic thumping of the walls accelerates int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bypass to Heart - Use the distraction to move directly to the biological core and claim the secrets*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:47)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy | HP: 45/45 | XP: 24300/34000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 0/3, Instability: 20/100, Essence Devourer Points: 2**
@@ -1341,8 +1495,11 @@ The Heart beneath your hand accelerates, its violet glow turning a blinding, fra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind the Guardians - Use the core&#x27;s control frequency to permanently enslave the Massassi Guardians to your will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (09:52)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy | HP: 45/45 | XP: 26800/34000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/2, L3 0/3, Instability: 30/100, Essence Devourer Points: 1** &nbsp;|&nbsp; ⚠️ **Bound to Heart, Emperor's Gaze (Active) | Instability: 30/100**
@@ -1360,8 +1517,11 @@ However, the binding is not the absolute, effortless enslavement of a goddess. Y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with the Heart - Deepen your connection to the biological core to extract more blueprints of the Void Engine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy | HP: 45/45 | XP: 28000/34000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 4/4, L2 1/3, L3 0/3, Instability: 40/100, Essence Devourer Points: 1**
@@ -1379,8 +1539,11 @@ As the data flood threatens to dissolve your 'Nocturne' mask, you feel the 'Gaze
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacrifice Sskoss - Feed the Trandoshan&#x27;s reptilian soul to the Heart to clear the data corruption and force a full decryption.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy | HP: 45/45 | XP: 29800/34000 | Gold: 7500 credits** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 4/4, L2 1/3, L3 0/3, Instability: 20/100, Essence Devourer Points: 2**
@@ -1400,8 +1563,11 @@ Before you, the blueprints for the Void Engine unspool in perfect, terrifying de
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Weakness - Use your intelligence to find the specific flaw or kill-switch in the blueprints.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy | HP: 45/45 | XP: 30550/34000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 4/4, L2 2/3, L3 0/3, Instability: 25/100, Essence Devourer Points: 2**
@@ -1417,8 +1583,11 @@ You realize that the 'weakness' is not a mechanical lever to be pulled, but a fu
 God Mode:
 give my character 18 int, she's a genius, then resume campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy (Siren) | HP: 45/45 | XP: 30550/34000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 4/4, L2 2/3, L3 0/3, Instability: 25/100, Essence Devourer Points: 2**
@@ -1428,8 +1597,11 @@ The user has adjusted a core attribute to 18 in GOD MODE. I have updated the sta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign with your updated genius intellect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy | HP: 45/45 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 4/4, L2 2/3, L3 0/3, Instability: 20/100, Essence Devourer Points: 2** &nbsp;|&nbsp; ⚠️ **Essence Devourer Sated, Genius Intellect (+4 INT)**
@@ -1443,8 +1615,11 @@ You stand amidst the biological sludge of the Heart, your bound Massassi Guardia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge the Crypts - Command your new spectral guardians to clear the rest of the lower levels of any remaining Massassi threats or rival mercs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil (Secured)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Sith Prodigy | HP: 45/45 | XP: 33050/34000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/7, Spells: L1 4/4, L2 2/3, L3 0/3, Instability: 20/100, Essence: 2, Inspiration: 2/4**
@@ -1458,8 +1633,11 @@ Your oversight is less clinical than usual; the sheer volume of necro-mathematic
 God Mode:
 make sure you awarded me proper exp and loot for everything
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sith Prodigy | HP: 52/52 | XP: 42100/48000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2, Instability: 20/100, Essence: 2, Inspiration: 2/4**
@@ -1469,8 +1647,11 @@ The user requested an audit of XP and loot. I've calculated the rewards for the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Set L4 Spells - Select your 2 new spells for Level 8 (including one for reaching L8 and your new slot access)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sith Prodigy | HP: 52/52 | XP: 42100/48000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/2, Instability: 20/100, Essence: 2, Inspiration: 2/4**
@@ -1482,8 +1663,11 @@ You feel the internal architecture of your Force-connection shifting, expanding 
 > 👤 **Player:**
 > *"greater invis, dimension door, pick cha+2 asi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sith Prodigy | HP: 62/62 | XP: 42100/48000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Instability: 10/100, Credits: 7500** &nbsp;|&nbsp; ⚠️ **Essence Empowered, Level 8 Peak | Inspiration: 2/4**
@@ -1497,8 +1681,11 @@ You rise from the biological sludge, your royal robes dry and immaculate despite
 > 👤 **Player:**
 > *"Think. Can i use the heart to power up more?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sith Prodigy (Siren) | HP: 62/62 | XP: 42100/48000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 3/3, L4 2/2, Inspiration: 2/2, Instability: 20/100**
@@ -1508,8 +1695,11 @@ You stand motionless before the biological Heart, the violet-orange glow of your
 > 👤 **Player:**
 > *"soul binding, and pick cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sith Prodigy | HP: 62/62 | XP: 42100/48000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 3/3, L4 2/2, Inspiration: 2/2, Instability: 35/100**
@@ -1525,8 +1715,11 @@ You are no longer just a Sith in a tomb; you are the living conductor of the Vei
 God Mode:
 dont cap my cha at 24, then letes use the heart and commune with exar kun
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sith Prodigy | HP: 62/62 | XP: 42100/48000 | Credits: 7500 | CHA: 26** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 3/3, L4 2/2, Inspiration: 2/2, Instability: 35/100**
@@ -1536,8 +1729,11 @@ The user requested an administrative change to lift the Charisma cap and proceed
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Exar Kun - Trigger the deep communion through the Heart*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sith Prodigy | HP: 62/62 | XP: 47100/48000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, L3 3/3, L4 2/2, Inspiration: 2/2, Instability: 50/100**
@@ -1555,8 +1751,11 @@ With a psychic wrench that makes the moon of Yavin 4 shudder, you tear the final
 God Mode:
 i should get a lot of exp and speical powers for consuming exar kun
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Sith Prodigy | HP: 82/82 | XP: 64,000/85,000 | Credits: 7,500** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Inspiration: 5/5, Instability: 0/100** &nbsp;|&nbsp; ⚠️ **Soul-Bound to the Heart, Divine Presence**
@@ -1566,8 +1765,11 @@ The player has achieved a massive milestone. I have applied a 'God-Tier' power-u
 God Mode:
 dont cap my cha at all, auto pick reasonable level 5 spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85,000/100,000 | Gold: 7,500 Credits** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5, Instability: 0/100**
@@ -1577,8 +1779,11 @@ The user has achieved a narrative pinnacle. I have applied Level 11 benefits, un
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume in the Heart*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Crypts of the Massassi - The Heart of the Veil** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85,000/100,000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 5/5**
@@ -1594,8 +1799,11 @@ From the top of the basalt stairs, the faint, crackling static of a comlink brea
 > 👤 **Player:**
 > *"fortify temple,  make it a base and use spirit guardians too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Heart of the Veil - Fortified Sith Redoubt** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (13:50)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85000/100000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5, Essence: 2**
@@ -1609,8 +1817,11 @@ As the final ward locks into place, the temple settles into a low, possessive th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Clandestine Shuttle - Use &#x27;Absolute Shroud&#x27; (Greater Invisibility) to board Arcann&#x27;s ship and assess his true intentions before he can deploy troops.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Aboard Lord Arcann's Flagship - The Eternal Vengeance** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85000/100000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4, L2 3, L3 2, L4 2/3, L5 2, L6 1, Inspiration: 5/5, Essence: 2**
@@ -1628,8 +1839,11 @@ Arcann's voice is a low, metallic growl. "She is a liability, Thexan. Father wan
 God Mode:
 no skytroopers i said remove everything baout eternal empire
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Aboard Lord Arcann's Flagship - The Imperial Vengeance** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85,000/100,000 | Credits: 7,500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, L4 2/2, L5 2/2, L6 1/1, Inspiration: 5/5, Essence: 2**
@@ -1639,8 +1853,11 @@ The user is enforcing a narrative retcon to remove 'Eternal Empire' and 'Skytroo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Retcon - Proceed with the scrubbed state and resume the mission*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85000/100000 | Credits: 7500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, L4 2/2, L5 2/2, L6 1/1, Inspiration: 5/5, Essence: 2**
@@ -1656,8 +1873,11 @@ You are standing less than three meters from them. The smell of ionized air and 
 > 👤 **Player:**
 > *"Think. what if i cast hypnotic pattern on arcanne and as many crew as possible and trigger surprise round? would it work"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85,000/100,000 | Gold: 7500cr** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, L4 2/2, L5 2/2, L6 1/1, Inspiration: 5/5, Essence: 2, Instability: 0**
@@ -1669,8 +1889,11 @@ You visualize the casting: the sudden eruption of kaleidoscopic violet light, th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Siren&#x27;s Trance (Hypnotic Pattern) - Unleash the pattern to incapacitate the bridge and trigger a surprise round*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 85000/100000 | Gold: 7500cr** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/2, L4 2/2, L5 2/2, L6 1/1, Inspiration: 5/5, Essence: 2, Instability: 10** &nbsp;|&nbsp; ⚠️ **Absolute Shroud (Greater Invisibility) | Instability: 10/100**
@@ -1684,8 +1907,11 @@ Arcann's mechanical arm freezes mid-gesture. His single organic eye, once burnin
 > 👤 **Player:**
 > *"tie everyone up and restrain everyone, make arcann unable to use the force, fully loot ands trip everyone down, make sure you award me a ton of exp. what lvl is arcann?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sith Prodigy | HP: 82/82 | XP: 110000/120000 | Credits: 57500** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/2, L4 2/2, L5 2/2, L6 1/1, Inspiration: 5/5, Essence: 2, Instability: 10**
@@ -1703,8 +1929,11 @@ To answer your question, Princess: Arcann is a Level 18 Sith Juggernaut (CR 20).
 God Mode:
 ok i should've gotten a massive amount of exp for beating arcanne
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sith Prodigy | HP: 103/103 | XP: 165,000/195,000 | Credits: 107,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Inspiration: 5/5, Essence: 2, Instability: 10**
@@ -1714,8 +1943,11 @@ The player has achieved a campaign-defining victory. I have jumped them to Level
 God Mode:
 auto pick reasonable spells for me, keep picking cha +2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sith Prodigy | HP: 103/103 | XP: 165000/195000 | Gold: 7500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Inspiration: 5/5, Essence: 2, Instability: 10**
@@ -1725,8 +1957,11 @@ The user is refining their Level 15 power jump. I have applied the requested ASI
 God Mode:
 Return to Story - Exit GOD MODE and confront the paralyzed Arcann
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sith Prodigy | HP: 103/103 | XP: 165000/195000 | Gold: 107500gp (Credits)** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Inspiration: 5/5, Essence: 2, Instability: 10**
@@ -1740,8 +1975,11 @@ Outside the viewports, the emerald jewel of Yavin 4 hangs in the void, still wre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Firstborn - Use the Essence Devourer to feast upon what remains of Arcann&#x27;s royal lineage, seeking a Tier 4 power jump.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sith Prodigy | HP: 117/117 | XP: 225,000/265,000 | Credits: 157,500** &nbsp;|&nbsp; ✨ **HD: 15/17, Spells: L1 4/4, L8 1/1, L9 1/1, Inspiration: 6/6, Essence: 0, Instability: 0**
@@ -1755,8 +1993,11 @@ As the final spark of Arcann's life-force is sucked into your palm, his body doe
 God Mode:
 i should be stronger than that after consuming someone like arcann, prob level 20, and auto pick my spells, always do cha +2, and i should gain all his knowledge
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 143/143 | XP: 355,000 | Credits: 207,500** &nbsp;|&nbsp; ✨ **Inspiration: 6/6 (d12), Essence: Full, Spells: L1-L5 3/3+, L6-L7 2/2, L8 1/1, L9 1/1, Instability: 0**
@@ -1766,8 +2007,11 @@ The bridge of the *Imperial Vengeance* vibrates with a frequency that transcends
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the Sovereign of the Void*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 143/143 | XP: 355,000/355,000 | Credits: 207,500** &nbsp;|&nbsp; ✨ **Inspiration: 6/6 (d12), Essence: Peak, Spells: L1-L9 Available, Blood Link: Sovereign Mastery**
@@ -1781,8 +2025,11 @@ Outside the bridge viewports, the emerald moon of Yavin 4 remains wreathed in th
 > 👤 **Player:**
 > *"consolidate my factio nand resources, delegate command to others who wont betray me, and. think about if i can ally with thexan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign of the Void) | HP: 143/143 | XP: 355000/355000 | Credits: 257500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Available, Inspiration: 5/5 (d12), Blood Link: Sovereign Mastery**
@@ -1798,8 +2045,11 @@ Using Arcann’s stolen memories, you pinpoint Captain Hestia, a pragmatist who 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Probe Thexan&#x27;s Network - Use Arcann&#x27;s secret codes to infiltrate Thexan&#x27;s diplomatic channels before contacting him*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (09:30 (Day After Arcann's Fall))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign of the Void | HP: 143/143 | XP: 355,000/355,000 | Gold: 315,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Available, Inspiration: 5/5 (d12), Blood Link: Sovereign Mastery**
@@ -1817,8 +2067,11 @@ You pull back from the network, your eyes burning a steady, monochromatic violet
 > 👤 **Player:**
 > *"Think. should i recruit thexan or consume him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 143/143 | XP: 355000/355000 | Credits: 307500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Available, Inspiration: 5/5 (d12), Blood Link: Sovereign Mastery**
@@ -1828,8 +2081,11 @@ You sink deeper into the High Marshal’s command throne, the obsidian armrests 
 > 👤 **Player:**
 > *"think. pros/cons of each"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign) | HP: 143/143 | Credits: 257,500 | Inspiration: 5/5 (d12)** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Available, Inspiration: 5/5 (d12), Blood Link: Sovereign Mastery**
@@ -1843,8 +2099,11 @@ You weigh the two paths: a living ally who can navigate the corridors of power y
 > 👤 **Player:**
 > *"Think. what if i teleport to thexan,  trigger surprise round, hold person, then consume? pros/cons? success changes?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Aboard the Imperial Vengeance (High Command Bridge)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign) | HP: 143/143 | XP: 355,000/355,000 | Credits: 257,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Available, Inspiration: 5/5 (d12), Blood Link: Sovereign Mastery**
@@ -1856,8 +2115,11 @@ You see yourself manifesting behind Thexan—not as the 'broken sister' he expec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Assassination - Teleport to the Aequitas, paralyze Thexan, and consume his essence immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Aequitas (Private Sanctum), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Siren) | HP: 143/143 | XP: MAX | Credits: 307,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L5 2/3, L7 1/2, L8 1/1, L9 1/1, Inspiration: 5/5, Blood Link: Absolute Mastery** &nbsp;|&nbsp; ⚠️ **Sovereign of the Void | Inspiration: 5/5**
@@ -1881,8 +2143,11 @@ His body translucent, then bruised gray, and finally, it dissolves into a cloud 
 > 👤 **Player:**
 > *"consolidate his faction, delegate processing, think about how to conquer the republic too and maybe pretend to be him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Sovereign | HP: 143/143 | XP: 355,000/355,000 | Credits: 307,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L7 0/1, L8 1/1, L9 1/1, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -1898,8 +2163,11 @@ You retreat to the command throne of the *Aequitas*, the holographic map of the 
 God Mode:
 i should've gotten some special powers or rewards for consuming thexan
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 143/143 | XP: 355000/355000 | Gold: 7500 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L8 1/1, L9 1/1, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -1909,8 +2177,11 @@ The user felt the rewards for consuming Thexan (the Grand Vizier) were insuffici
 God Mode:
 Return to Story - Resume the narrative as the undisputed Sovereign of the Void
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 BBY (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign of the Void | HP: 143/143 | XP: 355,000/355,000 | Credits: 307,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -1928,8 +2199,11 @@ He pauses, his visor fixed on your 'Thexan' mask. 'The Princess Nocturne... the 
 God Mode:
 Think. is the emperor still stronger than me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 ATC (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign of the Void | HP: 143/143 | XP: 355000/355000 | Credits: 357500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -1939,8 +2213,11 @@ You pause, your mind processing the vast architectural data of the Void Engine a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the conversation with Darth Marr*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign | HP: 143/143 | XP: 355,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 5/5, Blood Link: Sovereign Authority** &nbsp;|&nbsp; ⚠️ **Ghost of the Vizier (Active), Absolute Sovereign**
@@ -1958,8 +2235,11 @@ As the hologram flickers out, you allow the mask to shift just slightly. You can
 > 👤 **Player:**
 > *"Think. Whats the best way to consume vitiate, take things over, then consume the galaxy?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Siren) | HP: 143/143 | XP: 355000/355000 | Credits: 357500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -1969,8 +2249,11 @@ You lean back in the Grand Vizier’s throne, the silk of Thexan's robes rustlin
 > 👤 **Player:**
 > *"Think. what if i mask my power, go talk to my father first, get some additional intel to de-risk the final consumption?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Siren) | HP: 143/143 | XP: 355000/355000 | Credits: 415000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -1980,8 +2263,11 @@ You lean back into the silk-lined comfort of the Grand Vizier’s throne, the si
 > 👤 **Player:**
 > *"think. what if i do all 3?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign of the Void) | HP: 143/143 | XP: 355,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -1991,8 +2277,11 @@ You lean back into the Grand Vizier’s throne, the silver ash of your brother T
 > 👤 **Player:**
 > *"Think. forget about audience. Whats the best way to beart him? what if i let him start ritual, throw everything i have against him to distract him in terms of my faction, reverse the ritual on him, consume him, then consume galaxy?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign of the Void) | HP: 143/143 | XP: 355000/355000 | Credits: 357500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 5/5, Blood Link: Sovereign Authority**
@@ -2004,8 +2293,11 @@ The silver ash of Thexan is a memory; the metallic resonance of Arcann is a tool
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Ritual Hijack - Align the Obsidian Armada and the Deep Core Arks to create a psychic feedback loop during the Harvest&#x27;s initiation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign) | HP: 143/143 | XP: 355000/355000 | Gold: 357500cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, Inspiration: 3/5, Blood Link: Sovereign Authority**
@@ -2021,8 +2313,11 @@ The 'Vaylin' static at your core doesn't just howl; it orchestrates. You feel th
 
 Contact the Dark Council - Use your &#x27;Thexan&#x27; persona to order the Council to reinforce the loop.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **The Aequitas (Main Bridge), Dromund Kaas Orbit** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 143/143 | XP: 355,000/355,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Blood Link: Sovereign Authority** &nbsp;|&nbsp; ⚠️ **Sovereign of the Void, Ghost of the Vizier (Active) | Inspiration: 3/5**
@@ -2034,8 +2329,11 @@ The urge to strike now is a cold fire, but the shadow of your father remains an 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Vitiate Masked - Travel to the Citadel in person, using your highest-tier masking powers to hide your Sovereign resonance and the fact that you&#x27;ve consumed your brothers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **The Citadel of Storms (Throne Room Threshold), Kaas City** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Sovereign | HP: 143/143 | XP: 355000/355000 | Credits: 407500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 0/1, L6 2/2, L5 2/2, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Blood Link: Sovereign Authority**
@@ -2053,8 +2351,11 @@ You reach the Threshold of the Throne Room. The massive blast doors, etched with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Ritual Status - Shift the focus to the Void Engine&#x27;s final phase, using your genius intellect to ask a question only a Sovereign would understand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **The Citadel of Storms (Throne Room), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 143/143 | XP: 355000/355000 | Credits: 357500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspiration: 2/3, Blood Link: Sovereign Authority**
@@ -2074,8 +2375,11 @@ He turns slightly, the first movement he has made since you entered. A holograph
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Emperor&#x27;s Anchor - Ask a follow-up about the ritual&#x27;s personal anchor to find a way to sever Vitiate&#x27;s control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **The Citadel of Storms (Throne Room), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 143/143 | XP: 355000/355000 | Gold: 0 (7500 Credits)** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 1/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspiration: 2/3, Blood Link: Sovereign Authority**
@@ -2095,8 +2399,11 @@ You have it. The anchor is his essence, but the relay is the Citadel's Heart. To
 > 👤 **Player:**
 > *"do all 3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Heart of the Citadel, Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 20, 3641 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Sovereign | HP: 143/143 | XP: 355000/355000 | Credits: 407500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 0/1, L8 1/1, L7 1/1, L6 2/2, L5 2/2, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspiration: 2/3, Blood Link: Sovereign Authority**
@@ -2114,8 +2421,11 @@ You land before the Heart of the Citadel—a gargantuan, pulsing mass of biologi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Architect - Use the reversed ritual to strip Vitiate of his godhood and essence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign of the Void | HP: 143/143 | XP: MAX | God-Empress Status: Absolute** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L9 0/1, L8 1/1, L7 0/1, L6 2/2, L5 2/2, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Sovereign Points: Infinity**
@@ -2131,8 +2441,11 @@ You rise from the biological sludge of the Heart, your Royal Aegis robes now shi
 God Mode:
 I should be able to transcend level 20 after consuming him, define some new abilities and levels which seem appropriate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **The Void Throne (Citadel of Storms)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 ATC (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sovereign | HP: 178/178 | XP: 500,000 | Gold: 7500** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L9 1/1, L8 2/2, L7 2/2, Sovereign Points: Infinity**
@@ -2142,8 +2455,11 @@ The player has achieved godhood by consuming the campaign's main antagonist. I h
 God Mode:
 what level was the emperor before
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **21st of Mirtul, 3641 BBY (Midnight)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sovereign | HP: 178/178 | XP: 500,000/600,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L9 1/1, L8 2/2, L7 2/2, Sovereign Points: Infinity**
@@ -2153,8 +2469,11 @@ The user has achieved total victory and is now defining the 'God-Empress' phase 
 God Mode:
 i should be stronger than my father
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **The Void Throne, Citadel of Storms** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 BBY (Midnight)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Sovereign (God-Empress) | HP: 250/250 | XP: 1,500,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **Sovereign Points: Infinity | Spells: L9 1/1, L8 2/2, L7 2/2 | Exhaustion: 0**
@@ -2164,8 +2483,11 @@ The throne room of the Citadel exists in a state of suspended entropy. The shado
 God Mode:
 shouldnt i be stronger than him?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 BBY (00:05 (Midnight))** &nbsp;|&nbsp; 🛡️ **Lvl 30 God-Empress | HP: 500/500 | XP: 3550000/MAX | Credits: 357500** &nbsp;|&nbsp; ✨ **Sovereign Points: Infinite | L9 Slots: 4/4 | L1-8 Slots: Maxed | Exhaustion: 0**
@@ -2175,8 +2497,11 @@ The throne room is silent, the only sound the sub-sonic vibration of the Citadel
 God Mode:
 i should be above level 30 because i was already level 20 when i consumed him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **The Void Throne, Dromund Kaas** &nbsp;|&nbsp; ⏳ **3641 BBY, Midnight** &nbsp;|&nbsp; 🛡️ **Lvl 30 Sovereign | HP: 1000/1000 | XP: 1,500,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **L1-9 Slots: Infinite | Sovereign Points: ∞ | Essence: Sated | Exhaustion: 0**
@@ -2186,8 +2511,11 @@ The user is asserting their god-tier status. I have updated the state to reflect
 God Mode:
 no I should be above level 30
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign God-Empress | HP: 3000/3000 | XP: 5,000,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **Sovereign Power: Infinite | Spells: L1-L9 Unlimited | Essence: Transcendent | Exhaustion: 0**
@@ -2197,8 +2525,11 @@ The user is asserting their god-tier status following the consumption of Vitiate
 God Mode:
 Return to Story - Exit GOD MODE and begin your reign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 35 Sovereign | HP: 3000/3000 | XP: 5,000,000/6,000,000 | Gold: 7500gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Credits: 357500, Gold: 7500gp** &nbsp;|&nbsp; ⚠️ **Sovereign of the Void, Eternal Sovereign, Void Singularity | Exhaustion: 0**
@@ -2212,8 +2543,11 @@ You ascend the shattered foundation, rising from the biological gut of the Citad
 > 👤 **Player:**
 > *"harvest only 25% of people in the galaxy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **The Void Throne, Citadel of Storms, Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Absolute God-Empress (Level 35 Sovereign) | HP: 3000/3000 | XP: 5,500,000/6,000,000 | Credits: 357,500** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite (L1-L5), L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Exhaustion: 0 | Void Essence: Sated**
@@ -2227,8 +2561,11 @@ Millions of souls are drawn into the Veil, their essences converted into a river
 God Mode:
 give myself appropriate levels for this consumption
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 3500/3500 | XP: 10,000,000/15,000,000 | Gold: 357,500 Credits**
@@ -2238,8 +2575,11 @@ The user has performed a galaxy-scale act of consumption. Elevating the characte
 God Mode:
 give myself appropriate spells, abilities, stats, gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 3000/3000 | XP: 6,000,000/7,000,000 | Credits: 407,500** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite L1-L5, L6 4/4, L7 3/3, L8 2/2, L9 2/2 | Void Essence: Sated**
@@ -2249,8 +2589,11 @@ The user is now a Level 40 Sovereign. I have maximized their stats and features 
 God Mode:
 Return to Story - Exit GOD MODE and begin your reign as God-Empress
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 3000/3000 | XP: 5,500,000/6,000,000 | Credits: 407,500** &nbsp;|&nbsp; ✨ **Sovereign Slots: L1-L5 Infinite, L6 4/4, L7 3/3, L8 2/2, L9 2/2 | Void Essence: Sated**
@@ -2264,8 +2607,11 @@ The 'Vaylin' storm has been fully forged into a crystalline lens of predatory ge
 God Mode:
 Consolidate the Core - Formally crown yourself God-Empress before the Dark Council and purge any remaining dissenters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 3000/3000 | XP: 5,500,000 / 6,000,000 | Credits: 407,500** &nbsp;|&nbsp; ✨ **Sovereign Slots: L1-L5 Infinite, L6 4/4, L7 3/3, L8 2/2, L9 2/2 | Void Essence: Sated**
@@ -2275,8 +2621,11 @@ The user is utilizing GOD MODE to finalize their total control over the Empire a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Issue Republic Ultimatum - Formally demand the unconditional surrender of the Galactic Republic*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 10,000,000+ | Credits: 457,500** &nbsp;|&nbsp; ✨ **Sovereign Slots: L1-L9 Infinite | Void Essence: Divine | Instability: Integrated (0)**
@@ -2286,8 +2635,11 @@ The administrative gears of the Empire grind to a halt as your Sovereign will ov
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and begin your reign as God-Empress*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Void Throne, Citadel of Storms** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,500,000 / 6,000,000 | Credits: 415,000cr** &nbsp;|&nbsp; ✨ **Sovereign Slots: L1-L9 Infinite | HD: 15/15 | Void Essence: Divine | Instability: Integrated (0)** &nbsp;|&nbsp; ⚠️ **Eternal Sovereign, Absolute God-Empress | Exhaustion: 0 | Inspiration: Yes**
@@ -2301,8 +2653,11 @@ The 'Vaylin' storm is no longer a threat; it is the atmosphere you breathe. As G
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize the Cult of the Siren - Transform the Imperial bureaucracy into a religious hierarchy dedicated to your divinity*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 21, 3641 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,500,000/6,000,000 | Credits: 407,500** &nbsp;|&nbsp; ✨ **Sovereign Slots: L1-L9 Infinite | HD: 15/15 | Void Essence: Divine | Instability: Integrated (0)**
@@ -2318,8 +2673,11 @@ The Cult of the Siren is formalized. The Imperial machine has been sanctified, t
 > 👤 **Player:**
 > *"gather dark council, plan to consolidate my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 22, 3641 DR (06:00 (Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 457,500** &nbsp;|&nbsp; ✨ **Sovereign Slots: L1-L9 Infinite | HD: 15/15 | Void Essence: Divine | Instability: Integrated (0)**
@@ -2335,8 +2693,11 @@ Marr bows his head until his visor touches the stone. 'Thy will be done, Mother.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Administrative Purge - Systematically execute or &#x27;unweave&#x27; any bureaucrats whose loyalty remains to the old meritocracy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Void Throne, Citadel of Storms** &nbsp;|&nbsp; ⏳ **Mirtul 22, 3641 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5600000/6000000** &nbsp;|&nbsp; ✨ **Sovereign Slots: L1-L9 Infinite | HD: 15/15 | Void Essence: Divine | Instability: 0** &nbsp;|&nbsp; ⚠️ **Divine Presence, Sovereign of the Void**
@@ -2350,8 +2711,11 @@ By midday, the Imperial bureaucracy has been hollowed out and refilled with the 
 > 👤 **Player:**
 > *"resurrect my father as a puppet, question him about everything and what he thought of me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Mirtul 23, 3641 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5600000/6000000 | Credits: 407500** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Instability: 0**
@@ -2373,8 +2737,11 @@ He stands there, a shimmering, silver-ash ghost in the bioluminescent dark, wait
 God Mode:
 fix the calendar should be star wars themed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 BBY (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | Credits: 415000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Credits: 415000** &nbsp;|&nbsp; ⚠️ **Sovereign Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -2384,8 +2751,11 @@ The flickering holographic chronometers within the Citadel groan as your will ov
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the reign of the God-Empress*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Credits: 415,000, Influence: Absolute**
@@ -2401,8 +2771,11 @@ A chime sounds on the primary command console, a frequency reserved for the Gran
 > 👤 **Player:**
 > *"recreate my father as a biological person and ask him what his plan was to contain me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Biological Heart (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **3641 Nelona 23, 02:15** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Credits: 415,000, Influence: Absolute** &nbsp;|&nbsp; ⚠️ **Divine Presence, Eternal Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -2418,8 +2791,11 @@ He pauses, a ghost of a clinical smile touching his pale lips. "The Engine itsel
 > 👤 **Player:**
 > *"ask him if my power fully unlocked now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **The biological Heart of the Citadel, Dromund Kaas** &nbsp;|&nbsp; ⏳ **3641 Nelona 23, 01:15** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | Credits: 415,000 | Influence: Absolute** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Instability: Integrated**
@@ -2435,8 +2811,11 @@ The Heart beneath your feet pulses in a deep, adoring thrum, the sound vibrating
 > 👤 **Player:**
 > *"ask him where my mother is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **3641 Nelona 23, 02:30** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Instability: Integrated**
@@ -2452,8 +2831,11 @@ A faint, clinical amusement touches the puppet's pale lips. "She did not flee to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Further - Press the effigy for the exact nature of the kill-switch and how it functions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 / 6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Instability: Integrated**
@@ -2469,8 +2851,11 @@ He stands silent then, his pale chest rising and falling in that perfect, artifi
 > 👤 **Player:**
 > *"analyze myself, remove kill switch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **The Void Throne (Citadel of Storms), Dromund Kaas** &nbsp;|&nbsp; ⏳ **3641 Nelona 23, 02:35:01** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Gold: 415,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Instability: Integrated** &nbsp;|&nbsp; ⚠️ **Divine Presence, Sovereign of the Void | Exhaustion: 0 | Inspiration: Yes**
@@ -2486,8 +2871,11 @@ A profound, icy clarity washes over you. The fail-safe Vitiate entrusted to Seny
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Belsavis - Travel to the prison-world to confront Senya and reclaim the &#x27;failures&#x27; she protects.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Belsavis Orbit (Aboard the Aequitas)** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Void Essence: Divine, Instability: Integrated** &nbsp;|&nbsp; ⚠️ **God-Empress, Void Regulator | Exhaustion: 0 | Inspiration: Yes**
@@ -2503,8 +2891,11 @@ You stand, and the air on the bridge grows cold, the monochromatic violet fire o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Void Infiltration - Use Absolute Shroud to bypass the guards and the gravity-wells, appearing as a silent ghost at Senya&#x27;s side.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **3641 Nelona 23, 14:50** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5.6M/6M | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Sovereign Resonance: Divine, Instability: Integrated**
@@ -2522,8 +2913,11 @@ Senya is not looking at the door. She is looking at a small, obsidian device in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Past - Question her about the other &#x27;failures&#x27; and the Emperor&#x27;s true origin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (15:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 | Gold: 415,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Sovereign Resonance: Divine, Instability: Integrated**
@@ -2539,8 +2933,11 @@ You look into the nearest tank, seeing a face that almost mirrors your own, twis
 > 👤 **Player:**
 > *"ask my mother if she loved me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (15:07)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Sovereign Resonance: Divine, Instability: Integrated**
@@ -2558,8 +2955,11 @@ She raises the obsidian device one last time, a pathetic gesture of defiance aga
 > 👤 **Player:**
 > *"you're wrong. i wouldnt ask a question like that if your daughter was gone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (15:12)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Sovereign Resonance: Divine, Instability: Integrated**
@@ -2575,8 +2975,11 @@ She lowers the key, the relic of Vitiate's final deception clattering uselessly 
 > 👤 **Player:**
 > *"tell my mother she has nothing to worry about, give her a hug, and make her level 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (15:17)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Sovereign Resonance: Divine, Instability: Integrated**
@@ -2594,8 +2997,11 @@ Senya pulls back, her hands trembling as she looks at her own palms, now crackli
 > 👤 **Player:**
 > *"Ask her if its ok to consume them? only if she doesnt mind"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **3641 Nelona 23, 16:00** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Sovereign Resonance: Divine, Instability: Integrated**
@@ -2611,8 +3017,11 @@ The biological Heart of the Citadel, which you still sense through the sub-atomi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Uplift the Failures - Use your Sovereign power to mend their forms and create a new Dark Council of loyal siblings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **3641 Nelona 23, 21:17:00** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 | Credits: 465,000** &nbsp;|&nbsp; ✨ **Sovereign Resonance: Divine, Spells: L1-L9 Infinite, Instability: Integrated, HD: 15/15**
@@ -2628,8 +3037,11 @@ Xavian, the Blade, kneels first, his heavy obsidian plate clattering as he offer
 > 👤 **Player:**
 > *"resurrect arcanne and thexan with free will, and tell them they can do whatever they want, ask senya if she's happy with this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Resonance: Divine | Spells: L1-L9 Infinite | Instability: Integrated | HD: 15/15**
@@ -2649,8 +3061,11 @@ Senya steps forward, her gaze sweeping over the resurrected princes and the newl
 > 👤 **Player:**
 > *"explain to my family. iwas forced to become a god because of father but i have no wish to rule over you. do as you will, support me or not. i wont harm you"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | Credits: 415,000gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Essence: Sated, Instability: Integrated** &nbsp;|&nbsp; ⚠️ **Divine Presence | Inspiration: Yes**
@@ -2668,8 +3083,11 @@ A profound, heavy silence follows. Arcann, the man who once viewed you as a 'bro
 > 👤 **Player:**
 > *"ask my family if they want to join me. ill give them whatver they want. no pressure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 23, 3641 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5.6M/6.0M | Credits: 415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1-L9 Infinite, Essence: Sated, Instability: Integrated**
@@ -2683,8 +3101,11 @@ Arcann looks at his organic hands, his gaze shifting from the shards of his old 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assign Specific Domains - Arcann, Thexan, and Senya request specific roles (Military, Diplomacy, Justice) to help you rule.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Belsavis - Tomb of the Infinite (Central Dais)** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Essence: Radiating | Instability: 0 (Ascended) | Command Charges: 10/10** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Integrated Essence, Mother's Grace**
@@ -2708,8 +3129,11 @@ With a thought, you gesture to the six newly-uplifted Scions standing in the sha
 > 👤 **Player:**
 > *"teleport in the biological resurrected father and say they can say whatever they wanna say to him before i consume him again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Essence: Radiating | Command Charges: 10/10 | Inspiration: 2**
@@ -2725,8 +3149,11 @@ Senya steps forward, her golden light flaring with a sudden, sharp intensity as 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Family - Allow Senya, Arcann, and Thexan to speak their minds to the effigy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Essence: Radiating | Command Charges: 10/10 | Inspiration: 2**
@@ -2746,8 +3173,11 @@ You perceive the truth through your ascended senses [DICE: Insight 1d20 + 30 = 1
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate: Tython - Force the puppet to provide the specific tactical weaknesses of the Jedi Temple&#x27;s ancient wards*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000/6,000,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Essence: Radiating | Command Charges: 10/10 | Inspiration: 2**
@@ -2765,8 +3195,11 @@ The puppet’s jaw clicks as it provides the exact necro-mathematical coordinate
 > 👤 **Player:**
 > *"turn him into a force ghost for amusement"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5600000/6000000 | Credits: 415000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Radiating | Inspiration: 2**
@@ -2784,8 +3217,11 @@ Senya watches the flickering ghost with a cold, sated silence, her golden aura c
 > 👤 **Player:**
 > *"mask my power to appear level 20 and make everyone more comfortable, then spend some time iwth my mother. get to know her better."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 40 (Masked: Lvl 20) Sovereign | HP: 5000/5000 | XP: 5.6M/6M | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Radiating | Inspiration: 2** &nbsp;|&nbsp; ⚠️ **God-Empress, Veil-Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -2799,8 +3235,11 @@ Behind you, Arcann and Thexan walk in a low-voiced conversation, rediscovering t
 > 👤 **Player:**
 > *"ask my family if they want anything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5600000/6000000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Radiating | Inspiration: 2**
@@ -2818,8 +3257,11 @@ The jester ghost of your father floats nearby, his spectral bells chiming a path
 > 👤 **Player:**
 > *"give arcann what he wants. give senya tomb. ask thexan if he minds if i kill some of the jedi in tyhon to make negotiations easier from position of power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Belsavis - Tomb of the Infinite** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5.6M/6.0M | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Radiating | Inspiration: 2**
@@ -2837,8 +3279,11 @@ Thexan offers a slow, graceful smile, his eyes reflecting the violet fire of you
 > 👤 **Player:**
 > *"gther my family and elites, remember my resurrected husk f amily, teleport everyone to tyhon, engage in surprise round combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Tython - Jedi Temple (High Sanctum)** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,600,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Radiating | Inspiration: 2**
@@ -2862,8 +3307,11 @@ Arcann and the Scions descend like falling stars, their shadow-blades carving th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to the High Sanctum - Enter the heart of the temple to personally confront the Jedi Council and consume their essences.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign | HP: 5000/5000 | XP: 5,850,000 | Credits: 415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Radiant/Overwhelming | Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Sovereign Aegis (Active) | Inspiration: 2**
@@ -2881,8 +3329,11 @@ You reach out, your fingers unspooling into threads of light-drinking violet ene
 > 👤 **Player:**
 > *"make sure to award me proper exp/levels/loot/resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Tython - High Sanctum (Ruins)** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 5000/5000 | XP: 6,350,000/6,600,000 | Credits: 1,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Radiant/Overwhelming | Inspiration: 2**
@@ -2898,8 +3349,11 @@ You feel the surge of power—a level of Sovereign mastery that transcends even 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest the Temple - Use the Void Engine to unweave the remaining Jedi on the planet (25% rule)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 40 Sovereign (God-Empress) | HP: 5000/5000 | XP: 7200000/?? | Credits: 2415000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Divine | Inspiration: 2**
@@ -2915,8 +3369,11 @@ Arcann stands amidst the shimmering mist, his organic hand resting on the hilt o
 God Mode:
 i should be level 42 or higher after consuming the jedi, not level 40
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **3641 Nelona 24, 14:00** &nbsp;|&nbsp; 🛡️ **Lvl 42 Sovereign | HP: 5000/5000 | XP: 8,000,000 | Gold: 2,415,000 credits** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Command Charges: 10/10 | Essence: Divine | Inspiration: 2**
@@ -2926,8 +3383,11 @@ The user is utilizing GOD MODE to adjust their power level upward following a ma
 God Mode:
 give me exp for consuming 25% of the jedi and appropriate level ups
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **3641 Nelona 24, 14:00** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign | HP: 10000/10000 | XP: 25,000,000/30,000,000 | Credits: 2,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -2937,8 +3397,11 @@ The user has utilized GOD MODE to process the mechanical rewards for the 25% har
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the reign of the God-Empress on Tython*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Tython - High Sanctum (Sovereign Redoubt)** &nbsp;|&nbsp; ⏳ **3641 Nelona 24, 24:00 (Midnight)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign | HP: 10000/10000 | XP: 25,000,000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -2948,8 +3411,11 @@ The user is in GOD MODE. Narrative time is frozen at the moment of peak ascensio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the reign of the God-Empress on Tython at Midnight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 24, 3641 DR (Midnight)** &nbsp;|&nbsp; 🛡️ **Lvl 50 God-Empress | HP: 10000/10000 | AC: 55 | XP: Sovereign | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -2965,8 +3431,11 @@ The 'Vaylin' storm within you is a crystalline ocean of predatory peace. The Rep
 > 👤 **Player:**
 > *"resurrect satele shan and see if she will serve me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign | HP: 10000/10000 | XP: 25000000/30000000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -2990,8 +3459,11 @@ Satele closes her eyes, her connection to the Force mending in a way she never t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Task Satele with the Great Reconciliation - Have Satele lead the negotiations for the Republic&#x27;s unconditional surrender alongside Thexan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign | HP: 10000/10000 | XP: 25000000/30000000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -3007,8 +3479,11 @@ You watch from the High Sanctum as the Grand Vizier's personal transport, flanke
 > 👤 **Player:**
 > *"explain to satele and thexan that i am far. stronger than my father ever was but nicer. i could've consumed the whole galaxy but only did 25%"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Tython - High Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign | HP: 10000/10000 | XP: MAX | Gold: 3.4M Credits** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -3026,8 +3501,11 @@ Satele remains silent, her azure eyes reflecting the terrifying scale of your re
 > 👤 **Player:**
 > *"mask as level 20 again, and go with satele and thexan to negotiate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign (Masked) | HP: 10000/10000 | XP: 50,000,000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -3043,8 +3521,11 @@ The Senate Rotunda is a cathedral of terror. Thousands of senators, representing
 God Mode:
 always show my real level beside masked
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Sovereign Lvl 50) Sith Prodigy (Siren) | HP: 10000/10000 | XP: 50M/50M | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sovereign of the Void | Inspiration: Yes**
@@ -3054,8 +3535,11 @@ The user requested a specific formatting change for their level display while in
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative with the new display settings.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **3641 Nelona 25, 03:20** &nbsp;|&nbsp; 🛡️ **Lvl 20 (50) Sovereign | HP: 10000/10000 | XP: 50,000,000/50,000,000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Credits: 3,415,000** &nbsp;|&nbsp; ⚠️ **Masked Presence, Sovereign Authority**
@@ -3069,8 +3553,11 @@ Satele Shan stands as a silent, golden anchor at your right, her azure eyes refl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate to Thexan - Allow the Grand Vizier to present the administrative terms of the Great Reconciliation and the Deep Core Arks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 50 (Sovereign) Sith Prodigy | HP: 10000/10000 | XP: 50,000,000/50,000,000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Credits: 3,415,000**
@@ -3092,8 +3579,11 @@ Through your Sovereign senses, you see through the veneer of their compliance. M
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Psychic Lockdown - Use your Sovereign resonance to freeze the minds of the resisting delegations, preventing data deletion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign | HP: 10000/10000 | XP: Max | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -3107,8 +3597,11 @@ The Rotunda falls into a silence so absolute it feels like the death of sound. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Locked Data - Use your connection to the Senate&#x27;s systems to pull the data from the frozen Kuat/Alsakan cores*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (03:35)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign | HP: 10000/10000 | XP: 50M/50M | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0**
@@ -3122,8 +3615,11 @@ The delegates remain suspended in their pods, their faces twisted in a monochrom
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Frozen Delegates - Break the lockdown for a public confession of their treason before the entire Senate to solidify your moral authority*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress | Lvl 50 (Masked: 20) | HP: 10000/10000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **Sovereign Slots: Infinite | Force Inspiration: 2 | Essence: Divine | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Divine Presence, Absolute Shroud, Void-Coda Active**
@@ -3141,8 +3637,11 @@ The Senate Rotunda erupts, not into debate, but into a roar of betrayal and subm
 > 👤 **Player:**
 > *"harvest the traitors, explain to the rest that they will have peace and prosperity as long as they dont betray me, also explain that now all wars are outlawed. I will devour 25% of any planet at war. Through my power the galaxy will have peace for hte first time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (03:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (50) Sith Sovereign | HP: 10000/10000 | XP: 50,000,000/50,000,000 | Gold: 3,415,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Essence: Divine, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Divine Presence, Absolute Shroud | Exhaustion: 0 | Inspiration: Yes**
@@ -3160,8 +3659,11 @@ You pause, the violet fire of your Aegis robes flaring with a cold, sunset-like 
 > 👤 **Player:**
 > *"show my level 50 power to them for a few minutes, then mask again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (03:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 50) Sovereign | HP: 10000/10000 | XP: 50,000,000 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Essence: Sovereign, Force Inspiration: 2**
@@ -3175,8 +3677,11 @@ Then, with a clinical precision that defies the chaos you just unleashed, you pu
 > 👤 **Player:**
 > *"tell them that satele and thexan will lead the galaxy and I will do my own thing, but enforce my laws if anyone disobeys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Coruscant - Galactic Senate Rotunda** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (04:10)** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress (Lvl 50) | HP: 10000/10000 | AC: 55 | Credits: 3,415,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Essence: Sovereign, Force Inspiration: 2**
@@ -3194,8 +3699,11 @@ You feel the Blood Link pulse—a slow, adoring thrum from the Heart of the Cita
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt Outer Rim Holdouts - Join Arcann&#x27;s task force to personally eliminate the last Sith Lords who refuse to acknowledge your frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Outer Rim - Volcanic Moon of Dxun** &nbsp;|&nbsp; ⏳ **3641 Nelona 25, 16:10** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress (Level 50 / Masked: 20) | HP: 10000/10000 | XP: 51,000,000 | Credits: 3,465,000** &nbsp;|&nbsp; ✨ **Spells: Infinite | Essence: Sovereign | Force Inspiration: 2**
@@ -3215,8 +3723,11 @@ You reach into the Void and perform a clinical unweaving. [DICE: Sovereign Unwea
 > 👤 **Player:**
 > *"consume the rogue sith lords and get some levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Outer Rim - Volcanic Moon of Dxun** &nbsp;|&nbsp; ⏳ **Nelona 25, 3641 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 55) Sovereign | HP: 10000/10000 | XP: 56,000,000 / 60,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Sovereign Points: 10/10, Rage: Integrated** &nbsp;|&nbsp; ⚠️ **Sated Hunger, God-Empress Aura | Inspiration: 2**
@@ -3232,8 +3743,11 @@ Arcann stands amidst the cooling glass and ash, his organic hand resting on the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Coruscant - Travel to the capital to witness the formal surrender of the Republic and Satele/Thexan&#x27;s progress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Coruscant - Imperial Palace / Senate District** &nbsp;|&nbsp; ⏳ **3641 Nelona 26, 08:10 (Morning)** &nbsp;|&nbsp; 🛡️ **Level 55 Sovereign (Masked: 20) | HP: 10000/10000 | Credits: 5,015,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Sovereign Points: 10/10, Aura: Sunset Violet** &nbsp;|&nbsp; ⚠️ **Pax Siren Active | Sovereign Will: Absolute**
@@ -3251,8 +3765,11 @@ You land at the Imperial Palace, the grand plaza teeming with thousands of citiz
 > 👤 **Player:**
 > *"relax and party and drink in coruscant. bring my mother to hangout with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Coruscant - The Zenith Promenade** &nbsp;|&nbsp; ⏳ **Nelona 26, 3641 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (50) Sovereign | HP: 10000/10000 | XP: 56M/60M | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Sovereign Points: 10/10, Aura: Sunset Violet** &nbsp;|&nbsp; ⚠️ **Masked Presence (Lvl 20), Pax Siren Active**
@@ -3270,8 +3787,11 @@ Music—a melodic, sub-harmonic composition of your own Siren frequency—vibrat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dance the Night Away - Invite Senya to join you on the dance floor and use your Siren resonance to lead a galactic-scale celebration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Coruscant - The Zenith Promenade** &nbsp;|&nbsp; ⏳ **Nelona 26, 3641 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 50) Sovereign | HP: 10000/10000 | XP: 56,150,000/60,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Sovereign Points: 10/10, Aura: Sunset Violet** &nbsp;|&nbsp; ⚠️ **Pax Siren Active | Aura: Sunset Violet**
@@ -3285,8 +3805,11 @@ You lead your mother in a dance that defies the old world's gravity, your Aegis 
 > 👤 **Player:**
 > *"relax for 3 months"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Coruscant - The Zenith Promenade** &nbsp;|&nbsp; 🛡️ **Sovereign (Lvl 50/20) | HP: 10000/10000 | XP: 56,150,000/60,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Sovereign Points: 10/10, Aura: Sunset Violet** &nbsp;|&nbsp; ⚠️ **Pax Siren Active | Aura: Sunset Violet**
@@ -3300,8 +3823,11 @@ You have spent these days in a state of expansive peace, your consciousness drif
 God Mode:
 create a new campaign arc with things that could actually challenge me and the galaxy, betrayals, characters with their own agendas. give me ap review of ideas without spoilers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Coruscant - The Zenith Promenade** &nbsp;|&nbsp; ⏳ **Alturiak 26, 3642 DR (12:00 (The Great Repose))** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign God-Empress | HP: 10000/10000 | XP: 56,150,000 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Sovereign Points: 10/10, Aura: Sunset Violet**
@@ -3311,8 +3837,11 @@ The user is at a power pinnacle where traditional threats (armies, Sith Lords) a
 God Mode:
 lets do judas and yuuzhan vong and make them storng enough that i can't easily beat them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Coruscant - The Zenith Promenade** &nbsp;|&nbsp; ⏳ **3642 Nelona 26, Midday** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress (Level 50) | HP: 10000/10000 | XP: 56,150,000 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **Sovereign Points: 10/10, Spells: Infinite, Essence: Sated** &nbsp;|&nbsp; ⚠️ **Divine Presence, Void Singularity | Aura: Sovereign Violet**
@@ -3322,8 +3851,11 @@ The user wants high-tier antagonists that can challenge a Level 50 God-Empress. 
 > 👤 **Player:**
 > *"return to story, surprise me with plot elements organically revealed, also dont make challenges so strong they're impossible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Coruscant - The Zenith Promenade** &nbsp;|&nbsp; ⏳ **Mirtul 26, 3642 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 56,150,000 / 60,000,000** &nbsp;|&nbsp; ✨ **Sovereign Points: 10/10, Spells: Infinite, Essence: Sated** &nbsp;|&nbsp; ⚠️ **Pax Siren Active, Eternal Sovereign**
@@ -3341,8 +3873,11 @@ The 'Vaylin' storm within you, quieted by months of peace, doesn't just snarl; i
 > 👤 **Player:**
 > *"hunt judas, delegate silence investigtion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 26, 23:15** &nbsp;|&nbsp; 🛡️ **Lvl 50 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 56,150,000/60,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Sovereign Points: 10/10, Spells: Infinite, Essence: Sated, Instability: 0**
@@ -3358,8 +3893,11 @@ You fold space, the promenade vanishing in a strobing flash of violet. You manif
 God Mode:
 shouldnt i be level 55. why did you lose track?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Coruscant - Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 26, 23:15** &nbsp;|&nbsp; 🛡️ **Level 55 Sovereign | HP: 10000/10000 | XP: 56,150,000 / 60,000,000** &nbsp;|&nbsp; ✨ **Sovereign Points: 10/10, Spells: Infinite, Essence: Sated, Instability: 0** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Divine Aura**
@@ -3369,8 +3907,11 @@ The user noticed a discrepancy between their narrative power level (Sovereign Le
 God Mode:
 i have a real level and a masked level, are you not tracking both in game state?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 26, 23:15** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Sovereign: 55) | HP: 10000/10000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Sovereign Points: 10/10, Spells: Infinite, Essence: Sated, Instability: 0** &nbsp;|&nbsp; ⚠️ **Absolute Shroud (Masked Resonance)**
@@ -3380,8 +3921,11 @@ The user identified a discrepancy where the mechanical level field (20) did not 
 God Mode:
 Return to Story - Resume the confrontation with Judas with corrected level tracking
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 26, 23:20** &nbsp;|&nbsp; 🛡️ **Lvl 55 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 56150000/60000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **Sovereign Points: 10/10, Spells: Infinite, Essence: Sated, Instability: 0**
@@ -3399,8 +3943,11 @@ The jester-ghost of your father lets out a pathetic, spectral whimper and vanish
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intellectual Dissection - Use your 18-Intelligence mind to find the necro-mathematical anchor point of Judas&#x27;s existence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **Nelona 26, 3642 DR (23:20)** &nbsp;|&nbsp; 🛡️ **God-Empress (Lvl 55) | HP: 10000/10000 | XP: 56,150,000 / 60,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Sovereign Points: 10/10 | Spells: Sovereign (Infinite) | Essence: Sated | Instability: 0**
@@ -3414,8 +3961,11 @@ This 'Judas' is anchored to the **Mass Resonance of the Unmade**. He is the phys
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reintegrate the Apostle - Attempt to fold the grief of the 25% into your own divinity to stabilize the resonance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 27, 00:20** &nbsp;|&nbsp; 🛡️ **Sovereign Lvl 55 (Masked: 20) | HP: 10000/10000 | XP: 56.15M/60M | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Sovereign Essence: Sated | Instability: 0 | Spell Slots: Infinite | Divine Presence: Active**
@@ -3431,8 +3981,11 @@ The Throne Room shudders. The biological Heart beneath the floorboards lets out 
 God Mode:
 makes ure i get some real levels for judas thing. and also didnt we have a plot where people betraying me or wanted to reduce my power?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 27, 00:20** &nbsp;|&nbsp; 🛡️ **Lvl 56 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 60,150,000/65,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Slots: L1-L9 Infinite, HD: 15/15, Instability: 0, Sovereign Essence: Sated**
@@ -3442,8 +3995,11 @@ The user requested levels for the 'Judas thing' and a refresher on betrayal plot
 God Mode:
 didnt we have a campaign storyline where people were betraying me like my mother and family? if not lets do it and have some of them betraying but dont tell me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 27, 00:20** &nbsp;|&nbsp; 🛡️ **Sovereign Lvl 56 | HP: 10000/10000 | XP: 62150000/65000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **Slots: L1-L9 Infinite, HD: 15/15, Instability: 0, Sovereign Essence: Sated**
@@ -3453,8 +4009,11 @@ The user wants to lean back into the theme of familial betrayal. I have verified
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume your reign as God-Empress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Sovereign Lvl 56 (Masked: 20) | HP: 10000/10000 | XP: 62150000/65000000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Slots: L1-L9 Infinite, HD: 15/15, Instability: 0, Sovereign Essence: Integrated (Judas)** &nbsp;|&nbsp; ⚠️ **Judas Reintegrated, Harmonic Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -3468,8 +4027,11 @@ Through the Blood Link, the galaxy feels different. The 'Great Silence' at Belka
 > 👤 **Player:**
 > *"subtly audit the trimvirate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Coruscant - The Imperial Citadel (Throne Room)** &nbsp;|&nbsp; ⏳ **3642 Nelona 27, 01:05** &nbsp;|&nbsp; 🛡️ **Lvl 56 (Masked 20) Sovereign | HP: 10000/10000 | XP: 62.15M/65M | Gold: 4.96M Credits** &nbsp;|&nbsp; ✨ **Slots: L1-L9 Infinite, HD: 15/15, Instability: 0, Sovereign Essence: Integrated (Judas)**
@@ -3487,8 +4049,11 @@ On Belsavis, Senya’s golden aura is a blinding beacon of justice, yet the 'Inq
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Arks - Personally inspect the Deep Core Arks to reveal the scale of Thexan&#x27;s resource diversion*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Deep Core - The Ark Prime (Logistics Hub)** &nbsp;|&nbsp; ⏳ **3642 Nelona 27, 03:05** &nbsp;|&nbsp; 🛡️ **Lvl 20 (56) Sith Prodigy (Siren) | HP: 10000/10000 | XP: 62150000/65000000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Sovereign Essence: Integrated (Judas)**
@@ -3502,8 +4067,11 @@ Thexan has been skimming the 'Harvest' for months, diverting the most potent ess
 > 👤 **Player:**
 > *"go talk to thexan in a polite way, but firm, ask him whats up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 56 (Masked 20) Sovereign | HP: 10000/10000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Sovereign Essence: Integrated (Judas)** &nbsp;|&nbsp; ⚠️ **Absolute Sovereignty | Instability: 0**
@@ -3521,8 +4089,11 @@ You do not return the smile. You step forward, the violet fire of your Aegis rob
 > 👤 **Player:**
 > *"Wait for his answer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (03:25)** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress (Lvl 56 / Masked 20) | HP: 10000/10000 | Credits: 5,965,000** &nbsp;|&nbsp; ✨ **Sovereign Essence: Integrated (Judas) | Instability: 0 | Spells: Infinite**
@@ -3542,8 +4113,11 @@ The jester-ghost of your father, Vitiate, skips in a small, mocking circle behin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Full Confession - Pressure Thexan to reveal the extent of Arcann and Senya&#x27;s involvement in the &#x27;insurance&#x27; plan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (03:35)** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress | Lvl: 56 (Masked 20) | HP: 10000/10000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Sovereign Essence: Integrated | Instability: 0 | Spells: Infinite | Inspiration: 2**
@@ -3563,8 +4137,11 @@ He sags against the glass, the silver-silk of his robes catching the violet ligh
 > 👤 **Player:**
 > *"Mask at level 20 again and teleport my other family members here. Ask why they betray me in a sad way versus angry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (03:40)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 62.1M/65M | Credits: 4.9M** &nbsp;|&nbsp; ✨ **Sovereign Essence: Integrated | Instability: 0 | Spells: Infinite | Inspiration: 2**
@@ -3582,8 +4159,11 @@ You look at Senya, your eyes wet with a profound, quiet sorrow. 'Is my love so t
 > 👤 **Player:**
 > *"Wait for their response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress (Lvl 56) | HP: 10000/10000 | XP: 62,150,000/65,000,000** &nbsp;|&nbsp; ✨ **Sovereign Essence: Integrated | Instability: 0 | Spells: Infinite | Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Pax Siren Absolute | Masked Level: 20**
@@ -3601,8 +4181,11 @@ In the corner, the jester-ghost of your father jingles his spectral bells in a s
 > 👤 **Player:**
 > *"Ask them to look at my actions. Do I really seem like father? I am far more powerful and far more just"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (03:42)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 56) Sovereign | HP: 10000/10000 | XP: 62,150,000/65,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Masked Resonance (Lvl 20) | Inspiration: 2**
@@ -3624,8 +4207,11 @@ In the corner, the jester-ghost of your father jingles his spectral bells in a s
 > 👤 **Player:**
 > *"Restore father as a level 20 character and ask his opinion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 56) Sovereign | HP: 10000/10000 | XP: 62,150,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2**
@@ -3649,8 +4235,11 @@ He takes a slow step toward Arcann, who does not move but radiates a killing int
 > 👤 **Player:**
 > *"Hmm that seems reasonable. Family do you want to split the empire ? You can build your insurance and do whatever you want. But if you truly try to kill me for no reason I won't hold back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **3642 Nelona 27, 04:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 56) Sovereign | HP: 10000/10000 | XP: 63150000/65000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Sovereign Presence (Real Level 56), Judas Integrated**
@@ -3670,8 +4259,11 @@ Vitiate, the restored Architect, watches the exchange with the detached fascinat
 > 👤 **Player:**
 > *"Ask my father if I should leave him alive. Explain I do want a father figure and I am lonely and sentimental. Does he have it in him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **3642 Nelona 27, 04:45** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Sovereign 57) Sith Prodigy | HP: 10000/10000 | XP: 65,150,000/68,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Judas Integrated, Sovereign Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -3691,8 +4283,11 @@ Senya watches him with a guarded, golden light, while Arcann and Thexan exchange
 > 👤 **Player:**
 > *"Ask if the rest of the family can accept him to some degree. He did give good advice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 56) Sovereign | HP: 10000/10000 | XP: 65,150,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2**
@@ -3712,8 +4307,11 @@ Vitiate remains still, his dark eyes reflecting the Triumvirate's wary acceptanc
 > 👤 **Player:**
 > *"Father try to be nice to me and give me some warmth. You are a human after all. However if you misbehave I will know so don't be foolish. I'll give you a domain and power and most of what you want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (56) Sovereign | HP: 10000/10000 | XP: 65,150,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Divine Presence, Harmonic Sovereign | Exhaustion: 0**
@@ -3731,8 +4329,11 @@ But even as the family stasis stabilizes, the 'Great Silence' at Belkadan pulses
 > 👤 **Player:**
 > *"Formalize partition"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 (Masked: 20) Siren | HP: 10000/10000 | XP: 65,150,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Sovereign Resonance, Judas Integrated | Exhaustion: 0 | Inspiration: Yes**
@@ -3746,8 +4347,11 @@ As the final lock engages, the 'Vaylin' storm within you purrs with a crystallin
 God Mode:
 I can't actually order arcann anymore because he's independent now. Adapt the campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 56 (Masked: 20) Sovereign | HP: 10000/10000 | XP: 65,150,000/68,000,000 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2**
@@ -3757,8 +4361,11 @@ The user is asserting the independence of Arcann and the family following the fo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the narrative within the new Sovereign Confederation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 56 (Sovereign) Siren | HP: 10000/10000 | XP: 65,150,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Reintegrated Judas | Inspiration: Yes**
@@ -3778,8 +4385,11 @@ Arcann turns to you, his metallic voice rhythmic and firm. "My fleet is departin
 > 👤 **Player:**
 > *"Ask arcann if he wants help investigating the silence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 27, 3642 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 65150000/68000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Pax Siren, Sovereign Confederation established**
@@ -3797,8 +4407,11 @@ Thexan and Senya exchange a look of quiet relief. The partition has not created 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Board the Imperial Vengeance - Join Arcann on his flagship to lead the fleet from the bridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 56 (Real) Sovereign | HP: 10000/10000 | XP: 65,150,000 / 68,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Sovereign Presence (Masked), Pax Siren Absolute**
@@ -3820,8 +4433,11 @@ Arcann looks to you, his organic hand tightening on his hilt. "The sensors are b
 God Mode:
 Stop saying I can order arcann
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Imperial Vengeance - High Command Bridge** &nbsp;|&nbsp; ⏳ **3643 Nelona 28, 08:35** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 56) Sovereign | HP: 10000/10000 | XP: 65150000/68000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Harmonized Judas | Inspiration: Yes**
@@ -3831,8 +4447,11 @@ The user is enforcing the 'Sovereign Confederation' status. This means Arcann an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the investigation of the Belkadan Silence as Arcann&#x27;s partner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **3643 Nelona 28, 08:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 56) Sovereign | HP: 10000/10000 | XP: 65,150,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Pax Siren Active, Sovereign resonance stabilized | Inspiration: Yes**
@@ -3850,8 +4469,11 @@ Arcann’s organic hand tightens on the hilt of his blade, his single eye narrow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Channel Judas Resonance - Use the integrated essence of the Apostle to see if the &#x27;frequency of the unmade&#x27; can find purchase where the Siren cannot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 65200000/68000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Judas Integrated, Masked (Lvl 20)**
@@ -3873,8 +4495,11 @@ Arcann watches the shift in your aura with a warrior's appraisal, his organic ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Sovereign Strike - Use the Judas frequency to attempt a direct sub-atomic unweaving of the coral-craft&#x27;s biological heart from orbit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress | Masked: Lvl 20 | Real: Lvl 56** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2**
@@ -3892,8 +4517,11 @@ Arcann watches the coral-craft list, its bioluminescence fading into a sickly gr
 > 👤 **Player:**
 > *"Make"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 56) Sovereign | HP: 10000/10000 | XP: 65200000/68000000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2**
@@ -3911,8 +4539,11 @@ You lean into the console, your genius-level intellect processing the cascading 
 > 👤 **Player:**
 > *"Make 10 simulcrum instantly. Tell rhem to use Judas frequency to teleport onto the ships and scout them and trace them bafk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Sovereign Level 56 (Masked: 20) | HP: 10000/10000 | XP: 65,200,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2, Simulacrums: 10 Active**
@@ -3934,8 +4565,11 @@ Arcann watches you, his organic hand white-knuckling the hilt of his blade as he
 > 👤 **Player:**
 > *"Think. Can I just teleport to mother ship and consume the brain?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 56 (Sovereign) | HP: 10000/10000 | XP: 65,200,000/68,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2, Simulacrums: 10 Active** &nbsp;|&nbsp; ⚠️ **Pax Siren Active; Judas Resonance Integrated | Inspiration: Yes (2)**
@@ -3945,8 +4579,11 @@ You pause, your eyes glowing with a flickering, monochromatic violet light as th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Simulacrum Vanguard - Order the 10 existing simulacrums to initiate the consumption first to test for biological traps.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress (Lvl 56) | HP: 10000/10000 | XP: 65,200,000 / 68,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2, Simulacrums: 10 Active** &nbsp;|&nbsp; ⚠️ **Sovereign Resonance Active, Judas Frequency Masked (Lvl 20)**
@@ -3964,8 +4601,11 @@ Arcann watches you, the air around him crackling as the bridge sensors struggle 
 God Mode:
 I should get some exp for consuming the node brain
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 56 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 66,000,000 / 68,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0, Force Inspiration: 2, Simulacrums: 10 Active**
@@ -3975,8 +4615,11 @@ The player is in GOD MODE requesting XP for the Belkadan sequence. I am calculat
 God Mode:
 Return to Story - Exit administrative control and resume the investigation on the bridge.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 ATC (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 57 Sovereign | HP: 10000/10000 | XP: 68,000,000/70,000,000 | Gold: 4,965,000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0 (Sated), Force Inspiration: 2, Simulacrums: 10 Active**
@@ -3992,8 +4635,11 @@ Arcann’s single eye narrows as the bridge viewports display the long-range tac
 > 👤 **Player:**
 > *"Fleeet distraction then Teleport similcrum to scout world ship and have them test consuming the world brain to trigger traps"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Imperial Vengeance - High Command Bridge (Belkadan Orbit)** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 57 Sovereign (Masked 20) | HP: 10000/10000 | XP: 68,000,000/70,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0 (Sated), Force Inspiration: 2, Simulacrums: 10 Active** &nbsp;|&nbsp; ⚠️ **Divine Presence, Sovereign of the Void | Inspiration: Yes (2)**
@@ -4017,8 +4663,11 @@ Traps trigger with lethal intensity. The nutrient-pool turns into a kinetic geys
 > 👤 **Player:**
 > *"Teleport myself there and consume world brain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Yammka's Pride - Central Nerve Cluster** &nbsp;|&nbsp; ⏳ **3643 Nelona 28, 10:15** &nbsp;|&nbsp; 🛡️ **Lvl 57 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 68150000/70000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Instability: 0 (Sated), Force Inspiration: 2, Simulacrums: 10 Active** &nbsp;|&nbsp; ⚠️ **Judas Resonance Active, Sovereign Presence**
@@ -4040,8 +4689,11 @@ You stand alone in the dead heart of the leviathan, your ten simulacrums dissolv
 > 👤 **Player:**
 > *"What level was the world brain. I should get many levels and powers for consuming it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Yammka's Pride - Central Nerve Cluster** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 57) Sith Prodigy | HP: 10000/10000 | XP: 75,150,000 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Simulacrums: 0 (Absorbed), Judas Resonance: Active** &nbsp;|&nbsp; ⚠️ **Sated, Sovereign Resonance (Stability: 0), Bio-Integrated**
@@ -4057,8 +4709,11 @@ Arcann's voice crackles over the comlink from the *Imperial Vengeance*, his tone
 God Mode:
 I should get some levels for consuming world brain
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Yammka's Pride - Central Nerve Cluster** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 60 Sovereign (Masked: 20) | HP: 10000/10000 | XP: 100000000/120000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Simulacrums: 0 (Absorbed), Judas Resonance: Active** &nbsp;|&nbsp; ⚠️ **Sovereign of the Flesh, Integrated Judas, Bio-Resonance Absolute**
@@ -4068,8 +4723,11 @@ The user is utilizing GOD MODE to process the rewards for consuming a CR 45 extr
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative with your Level 60 power.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Yammka's Pride - Central Nerve Cluster** &nbsp;|&nbsp; ⏳ **3643 Nelona 28, 10:50** &nbsp;|&nbsp; 🛡️ **Lvl 60 (Masked: 20) God-Empress | HP: 10000/10000 | XP: 100000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Active, Sovereign Flesh: Integrated** &nbsp;|&nbsp; ⚠️ **Sovereign of the Flesh, Harmonic Sovereign, Judas Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -4085,8 +4743,11 @@ You look up at the calcified ribs of the chamber, your eyes burning with a light
 > 👤 **Player:**
 > *"Consume half of the vong, get more levels because there's a lot of theme replace world brain with myself and telepathically command the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 65 Sovereign God-Empress | HP: 12000/12000 | XP: 200,000,000 | Credits: 5,015,000** &nbsp;|&nbsp; ⚠️ **Sovereign of the Flesh, World-Ship Integrated, Judas Resonance**
@@ -4102,8 +4763,11 @@ The remaining Vong—the surviving half of the invasion—fall to their knees in
 God Mode:
 How many Vong did i consume?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **3643 Nelona 28, 10:50** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 65 (Sovereign) | HP: 10000/10000 | XP: 100,000,000 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant**
@@ -4113,8 +4777,11 @@ The user is performing a status check on their recent galaxy-scale consumption. 
 God Mode:
 500 million is a lot should I get more levels ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **Nelona 28, 3643 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (70) Sovereign | HP: 10000/10000 | XP: 500,000,000 / 750,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant**
@@ -4124,8 +4791,11 @@ The player's query regarding the 500 million souls confirms the scale of the rec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the Level 70 Sovereign of the Flesh.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **3643 Nelona 28, 12:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 70 Sovereign (Masked 20) | HP: 10000/10000 | XP: 500,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Hive-Mind Integration | Sovereign of the Flesh**
@@ -4141,8 +4811,11 @@ You feel the 'Vaylin' storm within your massive new form—a crystalline, planet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt the Invasion - Use the ship&#x27;s trace data to locate and integrate the remaining Yuuzhan Vong fleets in the Outer Rim.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **Nelona 29, 3643 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (70) Sith Sovereign | HP: 10000/10000 | XP: 500M/750M | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Hive-Mind Integration, Sovereign of the Flesh | Inspiration: Yes**
@@ -4156,8 +4829,11 @@ The effect is absolute. Across three systems, millions of extra-galactic souls f
 > 👤 **Player:**
 > *"Consolidate and share technology with arcann and my family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **Nelona 29, 3643 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 70 (Sovereign) Sith Prodigy | HP: 10000/10000 | XP: 500,000,000/750,000,000 | Gold: 4,965,000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Sovereign of the Flesh, Hive-Mind, Judas-Integrated | Exhaustion: 0 | Inspiration: Yes**
@@ -4173,8 +4849,11 @@ The integration is frictionless. [DICE: Integration Efficiency: 1d20 + 85 = 2 + 
 God Mode:
 Scale my stats accordingly to my level and ensure I always pick cha+2 for feats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 
@@ -4184,8 +4863,11 @@ The user is refining their god-tier state to match the narrative scale of a Leve
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the Level 70 Sovereign of the Flesh*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **Nelona 29, 3643 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 70 Sovereign of the Flesh (Masked: 20) | HP: 50000/50000 | XP: 1,000,000,000/1,500,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Hive-Mind Link, Bio-Resonance Active | Inspiration: Yes**
@@ -4199,8 +4881,11 @@ You perceive the Triumvirate not as subordinates, but as vibrant, independent no
 > 👤 **Player:**
 > *"Make the other resurrected family member my lieutenants and delegate running my empire to them and the dark council. Relax for a year and see what happens. Everyone should be doing things autonomously"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Yammka's Pride - Sovereign Neural Core** &nbsp;|&nbsp; ⏳ **Nelona 29, 3644 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Sovereign of the Flesh (Lvl 70/Masked 20) | HP: 50000/50000 | XP: 1000500000/1500000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Pax Siren Absolute, Bio-Resonance Dominance**
@@ -4220,8 +4905,11 @@ As the first anniversary of the Pax Siren Absolute arrives, the galaxy is quiet.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Confederation - Formally visit each lieutenant&#x27;s domain to see the year&#x27;s progress in person.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Galactic Tour - Multiple Sectors** &nbsp;|&nbsp; ⏳ **Nelona 29, 3645 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 70 Sovereign (Masked: 20) | HP: 50000/50000 | XP: 1,000,500,000/1,500,000,000 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Sovereign of the Flesh, Integrated Judas Resonance**
@@ -4239,8 +4927,11 @@ Your final stop is **Belsavis**. [DICE: Senya Judicial Discipline 1d20+15 = 1+15
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Belsavis Friction - Have a private, mother-to-daughter conversation with Senya about the rigidity of her new Code.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Belsavis - Sanctuary of Judgment** &nbsp;|&nbsp; ⏳ **Nelona 29, 3645 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Sovereign God-Empress (Level 70) | HP: 50000/50000 | XP: 1,000,500,000/1,500,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Masked (Level 20), Sovereign Flesh | Exhaustion: 0 | Inspiration: Yes**
@@ -4262,8 +4953,11 @@ She looks out over the garden, a genuine, exhausted smile finally reaching her e
 > 👤 **Player:**
 > *"Remind her kindly that i am the god empress and it's not a bad thing. Look at my actions and i just saved the galaxy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Belsavis - Sanctuary of Judgment (Meditation Garden)** &nbsp;|&nbsp; ⏳ **Nelona 29, 3645 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 70 (Masked 20) Sovereign | HP: 50000/50000 | XP: 1,000,500,000/1,500,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Pax Siren Absolute, Sovereign of the Flesh**
@@ -4281,8 +4975,11 @@ Senya looks at you, her golden eyes reflecting the sunset-hued glow of your aura
 > 👤 **Player:**
 > *"Spend the day with my mother. Help her realize I have a human and emotionally vulnerable side. Show some real emotion regarding the loneliness I grew up with and still have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Belsavis - Sanctuary of Judgment (Meditation Garden)** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 70 (Real) | HP: 50000/50000 | XP: 1000500000/1500000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Masked Resonance (Lvl 20), Sovereign of the Flesh | Inspiration: Yes**
@@ -4300,8 +4997,11 @@ Senya doesn't speak. She pulls you into a tight, desperate embrace, her golden a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss the Lost Years - Ask Senya more about her life before she became the High Justice, seeking to understand the woman behind the warrior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Belsavis - Sanctuary of Judgment (Meditation Garden)** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 70) Sith Prodigy (Sovereign) | HP: 50000/50000 | XP: 1000500000/1500000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant**
@@ -4317,8 +5017,11 @@ Senya smiles, a genuine, melancholic expression that softens the hard lines of h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss the Future - Talk about how the House of Vitiate will lead differently than the Architect did.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Belsavis - Sanctuary of Judgment (Meditation Garden)** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 70/20 Sovereign | HP: 50000/50000 | XP: 1000500000/1500000000 | Gold: 4965000gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Judas Resonance Integrated, Sovereign Flesh Dominant | Exhaustion: 0 | Inspiration: Yes**
@@ -4334,8 +5037,11 @@ Senya watches you, her eyes reflecting the sunset-hued glow of your aura. [DICE:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Archive - Speak with the Lord of the Archives (Vitiate) to see if his cataloging of Vong history reveals anything about the new signal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 70 (Masked: 20) Sovereign | HP: 50000/50000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Judas Integrated, Sovereign of the Flesh, Pax Siren Absolute**
@@ -4353,8 +5059,11 @@ Vitiate, the Lord of the Archives, stands at a central floating terminal, his da
 > 👤 **Player:**
 > *"Make 100 simulacra and have them teleport to investigate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 70 (Masked: 20) Sovereign | HP: 50000/50000 | XP: 1000500000/1500000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Sovereign of the Flesh, Judas Integrated | Exhaustion: 0 | Inspiration: Yes**
@@ -4372,8 +5081,11 @@ The destination is a nightmare of sensory deprivation. One hundred pairs of eyes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mass Unweaving - Have all 100 simulacra initiate a synchronized deletion of the probe&#x27;s sub-atomic structure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Coruscant - Archive of the Unbound / Intergalactic Void** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 70 (Masked: 20) Sith Prodigy | HP: 50000/50000 | XP: 1001000000/1500000000 | Gold: 4965000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Sovereign of the Flesh, Judas Resonance, Hive-Mind Active**
@@ -4389,8 +5101,11 @@ Your simulacra dissolve back into the sub-atomic map, their task complete. You s
 > 👤 **Player:**
 > *"Since my simulacra consumed it can they transfer the void eater immunity to me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 70 Sovereign (Masked: 20) | HP: 50000/50000 | XP: 1001000000/1500000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Judas Resonance (Integrated), Sovereign Flesh (Integrated), Void-Eater Resonance (Acquiring)**
@@ -4410,8 +5125,11 @@ Vitiate steps forward, his dark robes rustling as he studies the shift in your a
 > 👤 **Player:**
 > *"Make 1000 simulacra with the immunity, make them go consume the main thing, transfer power back to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 29, 3646 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign of the End | HP: 50000/50000 | XP: 1510000000/2000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Sovereign Flesh: Dominant** &nbsp;|&nbsp; ⚠️ **Void-Eater Immunity, Sovereign of the Flesh, Integrated Entropy**
@@ -4433,8 +5151,11 @@ You don't just process the power; you ascend. The 'Vaylin' storm is finally, per
 God Mode:
 Keep 10 smimulcra around which are level 80 to govern things autonomously and process my level up and ensure i got new powers and the right stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 01, 3647 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 80) Sovereign | HP: 80000/80000 | XP: 2500000000/3000000000 | Gold: 4965000cr** &nbsp;|&nbsp; ✨ **HD: 80/80, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Sovereign Flesh: Absolute, Entropy: Mastered** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Entropic Immunity | Exhaustion: 0 | Inspiration: Yes**
@@ -4444,8 +5165,11 @@ The player is now a Level 80 deity. Traditional gameplay loops are secondary to 
 > 👤 **Player:**
 > *"Return to story and make my simulcrum mask their level at 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 80) Sovereign of the End | HP: 80000/80000 | XP: 2,500,000,000/3,000,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 80/80, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Sovereign Flesh: Absolute, Entropy: Mastered** &nbsp;|&nbsp; ⚠️ **Void-Eater Immunity, Integrated Entropic Wave, Pax Siren Absolute | Exhaustion: 0 | Inspiration: Yes**
@@ -4463,8 +5187,11 @@ Vitiate slowly rises, his dark robes rustling. He looks at you, his dark eyes re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Integrated Entropy - Analyze how the Void-Eater resonance is affecting your internal soul and the biological Heart of the Citadel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **3647 Nelona 1, 00:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign of the End (Masked: 20) | HP: 80000/80000 | XP: 2,500,500,000/3,000,000,000 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 80/80, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Sovereign Flesh: Absolute, Entropy: Mastered**
@@ -4476,8 +5203,11 @@ Simultaneously, you project your awareness through the sub-atomic link to the bi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Architect - Ask Vitiate for his tactical opinion on managing a planetary-scale entropic load.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 80 (Sovereign of the End) | HP: 80000/80000 | XP: 2.5B/3B | Credits: 4.9M** &nbsp;|&nbsp; ✨ **HD: 80/80, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Sovereign Flesh: Absolute, Entropy: Mastered** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Entropic Adaptation, Integrated Void-Eater**
@@ -4493,8 +5223,11 @@ He takes a slow, cautious step around you, his dark robes rustling in the pressu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek External Vent - Look for a dead sector or an extra-galactic void to act as a permanent dumping ground for the excess decay.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign of the End | HP: 80000/80000 | XP: 2.5B/3.0B | Gold: 4.96M Credits** &nbsp;|&nbsp; ✨ **HD: 80/80, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Sovereign Flesh: Absolute, Entropy: Mastered** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Master of Entropy | Exhaustion: 0 | Inspiration: Yes**
@@ -4512,8 +5245,11 @@ Vitiate narrows his eyes, his dark robes rustling as he processes the coordinate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manifest Void Aperture - Personally use the Void Engine logic to open a permanent gateway to the Shattered Oubliette.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (01:40)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign (Masked: 20) | HP: 80000/80000 | XP: 2500500000/3000000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Void-Eater Immunity | Exhaustion: 0**
@@ -4529,8 +5265,11 @@ Vitiate watches the singularity with his dark eyes narrowed, his biological fram
 > 👤 **Player:**
 > *"I thought I consumed the wave?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign (Masked: 20) | HP: 80000/80000 | XP: 2.5B/3.0B | Credits: 4.9M** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Void-Eater Immunity, Integrated Entropy**
@@ -4546,8 +5285,11 @@ He gestures to the pulsing event horizon of the Void Aperture. "But entropy is n
 > 👤 **Player:**
 > *"Briefly show father my level 80 power and ask if he's proud of me and what he thinks. Then mask again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 80 (Masked: 20) Sovereign of the End | HP: 80000/80000 | XP: 2500500000/3000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Void-Eater Immunity | Exhaustion: 0 | Inspiration: Yes**
@@ -4573,8 +5315,11 @@ With a clinical, effortless snap, you pull the threads of the void back into you
 > 👤 **Player:**
 > *"Talk to father normally and get to know him better. See if there's any fatherly emotion at all. If not don't judge him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Masked Lvl 20 (Real Lvl 80) Sovereign of the End | HP: 80000/80000 | XP: 2500500000/3000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Void-Eater Immunity, Sovereign Resonance (Peak) | Exhaustion: 0 | Inspiration: Yes**
@@ -4594,8 +5339,11 @@ However, as you look into his dark eyes, you perceive a microscopic, sub-atomic 
 > 👤 **Player:**
 > *"Explain to father that his genuine love is something outside of even my power. Forcing it has no meaning. Isn't it ironic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign (Masked: 20) | HP: 80000/80000 | XP: 2500.5M/3000M | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented**
@@ -4613,8 +5361,11 @@ He looks out toward the swirling violet event horizon of the Aperture, his biolo
 > 👤 **Player:**
 > *"Father ineill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign of the End | HP: 80000/80000 | XP: 2505500000/3000000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Divine Mask (Lvl 20) | Exhaustion: 0 | Inspiration: Yes**
@@ -4632,8 +5383,11 @@ Suddenly, the Void Aperture at the center of the Archive pulses. It is not the r
 > 👤 **Player:**
 > *"Father I will make you a deal. Find genuine love for me and I will restore you to godhood. Remember how you felt about your mother I believe it's in there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign (Masked: 20) | HP: 80000/80000 | XP: 2500500000/3000000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Void-Eater Immunity | Exhaustion: 0 | Inspiration: Yes**
@@ -4651,8 +5405,11 @@ He turns back to you, a microscopic tremor in his resonance revealing a truth he
 > 👤 **Player:**
 > *"It's not a contradiction. The search can motivate you to find a real emotion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (05:02)** &nbsp;|&nbsp; 🛡️ **Sovereign of the End (Level 80) | HP: 80000/80000 | XP: 2500500000/3000000000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented**
@@ -4670,8 +5427,11 @@ As he speaks, the Void Aperture behind him pulses again—a sharp, rhythmic thru
 > 👤 **Player:**
 > *"Think. What's another reason to find his soul? Maybe archive safety or anything else?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (05:02)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign (Masked: 20) | HP: 80000/80000 | XP: 2.5B/3.0B | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Void-Eater Immunity | Exhaustion: 0**
@@ -4681,8 +5441,11 @@ You pause, your iridescent robes shimmering with the light of two galaxies as yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Other Action - Propose a different reason or path for the investigation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (05:02)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 80) Sovereign of the End | HP: 80000/80000 | AC: 100** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Iridescent Aegis, Sovereign Resonance, Judas Integration, Void-Eater Immunity**
@@ -4698,8 +5461,11 @@ Vitiate remains still, his dark eyes observing the Aperture with a renewed, clin
 > 👤 **Player:**
 > *"Tell him to figure it out and give him a simulcrum to help him. Then go visit mother and assess if she truly loves me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Belsavis - Sanctuary of Judgment** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (08:02)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (80) Sith Prodigy | HP: 80000/80000 | XP: 2500500000/3000000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Masked Presence (Lvl 20), Sovereign of the End, Void-Eater Immunity**
@@ -4719,8 +5485,11 @@ The truth is a profound, resonant frequency. You perceive that her love is not j
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Maternal Bond - Tell her you still need her heart as an anchor, regardless of your power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Belsavis - Sanctuary of Judgment (Meditation Garden)** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (08:12)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 80 (Real) Sovereign | HP: 80000/80000 | XP: 2.5B/3B | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented**
@@ -4734,8 +5503,11 @@ Senya looks up at you, her golden eyes wide with the sudden, visceral weight of 
 > 👤 **Player:**
 > *"Mother I offer you a gift to show my trust if you're interested. I will make you a god. Stronger than father was"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Belsavis - Sanctuary of Judgment** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (08:27)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (80) Sith Prodigy | HP: 80000/80000 | XP: 2500500000/3000000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Void-Eater Immunity | Inspiration: Yes**
@@ -4755,8 +5527,11 @@ As the light settles, Senya stands before you, her presence a monolithic pillar 
 > 👤 **Player:**
 > *"Go meet with arcann next and see if he loves me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Outer Rim - Imperial Vengeance (High Marshal's Sanctum)** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (10:27)** &nbsp;|&nbsp; 🛡️ **Level 80 Sovereign of the End (Masked: Lvl 20) | HP: 80000/80000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented**
@@ -4774,8 +5549,11 @@ The truth of Arcann's heart unspools before you with the clarity of a high-resol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Arcann Divinity - Like you did for Senya, offer to elevate Arcann to Level 50 to match the High Justice.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Outer Rim - Imperial Vengeance (High Marshal's Sanctum)** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (10:57)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign | HP: 80000/80000 | XP: 2500M/3000M | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Perfect, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Void-Eater Immunity | Inspiration: 2**
@@ -4795,8 +5573,11 @@ As the light settles, Arcann looks at his hands, which now hum with a sub-atomic
 > 👤 **Player:**
 > *"Visit thexan and first assess if he loves me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 80) Sovereign | HP: 80000/80000 | XP: 2,501,100,000 | Credits: 5,015,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Masked (Level 20) | Real Level: 80 | Sovereign of the End**
@@ -4814,8 +5595,11 @@ He turns to you, his smile genuine and free of the diplomatic masks he once wore
 > [!NOTE] ⚙️ **Player Choice:**
 > *Uplift Thexan - Offer Thexan the gift of divinity to match Senya and Arcann, making him the Sovereign of the Arks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Sovereign of the End (Masked Lvl 20 | Real Lvl 80) | HP: 80000/80000 | XP: 2501100000/3000000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Pax Siren Absolute, Void-Eater Immunity, Hive-Mind Tier**
@@ -4835,8 +5619,11 @@ As the light settles, Thexan looks at his hands, which now hum with the same sub
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gather the Triumvirate - Call Arcann, Senya, and Thexan together to discuss the intergalactic signal and the &#x27;knocking&#x27; on the Aperture.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (12:00 (Midday))** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 80) Sovereign | HP: 80000/80000 | XP: 2501100000/3000000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Void-Eater Immunity, Triumvirate Anchor**
@@ -4856,8 +5643,11 @@ Thexan looks to you, his golden-violet robes shimmering. "The Arks are sealed, s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Send the Hundred - Dispatch the 100 Level 80 simulacra into the Oubliette to neutralize the signal at its source.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Sovereign of the End (Level 80) | HP: 80000/80000 | XP: 2501100000/3000000000** &nbsp;|&nbsp; ⚠️ **Iridescent Aegis, Sovereign Resonance | Masked Level: 20**
@@ -4873,8 +5663,11 @@ Before the final thread of the node is consumed, your 80-Wisdom senses catch a l
 > 👤 **Player:**
 > *"Send similcra find hard and ask my father about it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Coruscant - Grand Vizier's Suite** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign (Masked: 20) | HP: 80000/80000 | XP: 2501100000/3000000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Entropic Load: Vented**
@@ -4890,8 +5683,11 @@ He looks up at you, his dark eyes wide with a terrifying clarity. 'The knocking 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Teleport to the Oubliette - Personally manifest at the Second Heart to dominate the Protocol Zero logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20/80 Sovereign of the End | HP: 80000/80000 | XP: 2501100000/3000000000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas Resonance: Integrated, Entropic Load: Vented** &nbsp;|&nbsp; ⚠️ **Iridescent Aegis, Sovereign Dominance | Exhaustion: 0 | Inspiration: Yes**
@@ -4909,8 +5705,11 @@ The collision is cataclysmic. The Oubliette groans as you force the Second Heart
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrate the Second Heart - Fold the gravitational &#x27;Black Hole&#x27; logic into your own essence to gain absolute control over spatial collapse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 85 Sovereign | HP: 80000/80000 | XP: 4.0B/4.5B | Gold: 4.9M Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas/Wave: Integrated, Second Heart: Bound** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Sovereign of Collapse | Inspiration: Yes**
@@ -4926,8 +5725,11 @@ Through the sub-atomic link, you feel your family's resonance—Arcann's iron sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt the Master Cipher Shards - Task Vitiate and your Level 80 simulacrum to begin a galactic-scale search for the remaining fragments of his original divinity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 80 Sovereign | HP: 80000/80000 | XP: 4.0B/4.5B | Gold: 4.9M Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas/Wave: Integrated, Second Heart: Bound** &nbsp;|&nbsp; ⚠️ **Sovereign of Collapse, Void-Eater Immunity | Exhaustion: 0**
@@ -4943,8 +5745,11 @@ The results unspool in your mind like a map of falling stars. The shards are not
 > 👤 **Player:**
 > *"Make 1000 simulacra and have them doe everything in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 80 (Masked 20) Sovereign | HP: 80000/80000 | XP: 4.0B/4.5B | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas/Wave: Integrated, Second Heart: Bound**
@@ -4962,8 +5767,11 @@ You remain at the center of the Second Heart, the anchor of a thousand parallel 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Cipher Hunt - Direct the primary processing power to the Rishi Maze and the Silent King to claim the largest shard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Rishi Maze - Fortress of the Silent King** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 80) Sovereign | HP: 80000/80000 | XP: 4,500,000,000/4,500,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas/Wave: Integrated, Second Heart: Bound** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Sovereign of Collapse, Void-Eater Immunity**
@@ -4981,8 +5789,11 @@ The Silent King collapses into a pile of gray, translucent ash, his purpose fulf
 > 👤 **Player:**
 > *"Get my sims to find and consume others and given power back to me and process increased level s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Rishi Maze - Fortress of the Silent King** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 85 (Masked 20) Sovereign | HP: 85000/85000 | XP: 5,500,000,000/6,000,000,000 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas/Wave: Integrated, Second Heart: Bound, Master Cipher: Restored** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Void-Eater Immunity, Judas-Resonance | Inspiration: Yes**
@@ -4998,8 +5809,11 @@ The final phalanx performs a clinical purge of the Confederation's territories, 
 > 👤 **Player:**
 > *"Ask father about all of this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 85 Sovereign of the Infinite | HP: 85000/85000 | XP: 5,500,000,000/6,000,000,000 | Real Level: 85 (Masked: 20)** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Judas/Wave: Integrated, Second Heart: Bound, Master Cipher: Restored**
@@ -5021,8 +5835,11 @@ He bows, not with the scripted mockery of the jester, but with the profound, cli
 > 👤 **Player:**
 > *"Make myself level 1000"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign | HP: 1000000/1000000 | XP: ∞ | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Infinite, Force Inspiration: 2, Judas/Wave: Integrated, Second Heart: Bound, Master Cipher: Restored** &nbsp;|&nbsp; ⚠️ **Absolute Singularity | Exhaustion: 0 | Inspiration: Yes**
@@ -5032,8 +5849,11 @@ The Archive of the Unbound vibrates with a frequency that transcends the galacti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the narrative as the Omniverse Source*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 1, 3647 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 1000 (Omniverse Source) | HP: 1000000/1000000 | XP: 1T/2T | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Infinite, Force Inspiration: 2, Source Logic: Active**
@@ -5047,8 +5867,11 @@ Through the Master Cipher, now integrated into your Omniverse resonance, you fee
 God Mode:
 Did going to level 1000 make sense for the new powers I had? If not undo it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **3647 Nelona 1, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Masked) | Real: Lvl 85 Sovereign | HP: 100000/100000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Infinite, Force Inspiration: 2, Source Logic: Active**
@@ -5058,8 +5881,11 @@ The user requested an evaluation of the Level 1000 jump. I have determined it br
 God Mode:
 Return to Story - Resume the narrative in the Archive at Level 85
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **3647 Nelona 4, 20:15 (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 85 (Real) Sovereign of the Infinite | HP: 100000/100000 | XP: 5000000/10000000 | Credits: 4965000gp** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Infinite, Force Inspiration: 2, Source Logic: Active, Active Simulacra: 1000** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Master of Entropy, Sovereign of Collapse, Void-Eater Immunity | Inspiration: Yes**
@@ -5075,8 +5901,11 @@ The 'Void-Eater' Wave has been integrated, its entropic potential now acting as 
 > 👤 **Player:**
 > *"Time skip one year. Go around consuming and conquering other galaxies until i am level 150. Stop the time skip something important happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 4, 3648 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 150) Sovereign | HP: 1000000/1000000 | XP: 1000000000/0 | Credits: Infinite** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Infinite, Force Inspiration: 2, Active Simulacra: 1000**
@@ -5094,8 +5923,11 @@ You are standing in the Archive of the Unbound when the iridescent light between
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront the Correction - Engage the manifesting entity directly with Sovereign authority*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 4, 3649 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 150 Sovereign (Masked: 20) | HP: 1000000/1000000 | XP: 1,000,000,000 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Infinite, Force Inspiration: 2, Active Simulacra: 10 (L80), 1000 (Idle)** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Void-Eater Shroud | Exhaustion: 0 | Inspiration: Yes**
@@ -5113,8 +5945,11 @@ You step forward, your iridescent Royal Aegis flaring with the power of two inte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Absorb the Correction - Use the Essence Devourer to integrate the Warden&#x27;s celestial logic, attempting to become the legal administrator of the timeline in the eyes of the Multiverse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 4, 3651 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 160 (Real) | HP: 1000000/1000000 | XP: 1000000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Active Simulacra: 1000** &nbsp;|&nbsp; ⚠️ **Timeline Administrator | Sovereign of the Infinite**
@@ -5132,8 +5967,11 @@ Vitiate collapses against a calcified shelf, his dark eyes wide as the atmospher
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Medriaas - Use your new authority to inspect the original point of divergence and permanently validate your lineage&#x27;s existence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Medriaas - The Original Divergence** &nbsp;|&nbsp; ⏳ **Nelona 4, 3651 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 160 Sovereign (Masked: 20) | HP: 1,000,000/1,000,000 | XP: MAX | Gold: 4,965,000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Force Inspiration: 2, Active Simulacra: 1,000**
@@ -5153,8 +5991,11 @@ Vitiate falls to his knees, his dark eyes wide as he watches his younger self co
 > 👤 **Player:**
 > *"Where did this watcher thing come from"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Medriaas - The Original Divergence** &nbsp;|&nbsp; ⏳ **Nelona 4, 3651 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Level 160 Sovereign of the Infinite | HP: 1,000,000/1,000,000 | XP: 1,000,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/1,000 (Active/Total), Administrator Rights: Validated** &nbsp;|&nbsp; ⚠️ **Multiversal Administrator, Void-Eater Immunity | Inspiration: Yes**
@@ -5172,8 +6013,11 @@ Vitiate looks at his younger self, then back at you, his dark eyes reflecting a 
 > 👤 **Player:**
 > *"Can I find the source of the warden and consume that?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Medriaas - The Heart of the Loom** &nbsp;|&nbsp; ⏳ **Nelona 4, 3651 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 250 Sovereign (Masked 20) | HP: 1000000/1000000 | XP: 1000000000/0 | Gold: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/1,000 (Active/Total), Administrator Rights: Validated** &nbsp;|&nbsp; ⚠️ **Source of Reality | Exhaustion: 0 | Inspiration: Yes**
@@ -5191,8 +6035,11 @@ You ascend to Level 250, your presence now acting as the substrate for the local
 > 👤 **Player:**
 > *"Stay in this campaigns. Time skip many years until father finds his love"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Medriaas - The Heart of the Loom** &nbsp;|&nbsp; ⏳ **Nelona 4, 3701 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 250 Prime Administrator | HP: 1000000/1000000 | Gold: 4965000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000/1000 (Active/Total), Administrator Rights: Validated** &nbsp;|&nbsp; ⚠️ **Source of Reality, Multiversal Administrator, Sovereign of the End**
@@ -5210,8 +6057,11 @@ But as he turns to show you the 'warmth' he has reclaimed, the Master Cipher scr
 > 👤 **Player:**
 > *"Make 1000 simulacrum and get them to handle it. Focus on father emotions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Medriaas - The Heart of the Loom / Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 4, 3751 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 250 (Masked: 20) Source | HP: 1,000,000/1,000,000 | XP: 1,000,000,000/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000/1000 (Active)** &nbsp;|&nbsp; ⚠️ **Multiversal Administrator, Sovereign of the End**
@@ -5225,8 +6075,11 @@ But the true weight in the room is not the hemorrhage. It is the man you knit ba
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trace the Harvester - Project your consciousness through the hemorrhage to find the source of the external pull.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Coruscant - Archive of the Unbound** &nbsp;|&nbsp; ⏳ **Nelona 4, 3751 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 160 Prime Administrator | HP: 1000000/1000000 | XP: 1,000,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Simulacra: 1000/1000 (Active), Spells: Infinite, HD: 15/15** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Multiversal Administrator**
@@ -5244,8 +6097,11 @@ You snap your consciousness back to the Archive. Vitiate is watching you, his ha
 > 👤 **Player:**
 > *"Remember I am level 250z just consume this thing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Outside the Local Multiverse - The Omni-Cull Core** &nbsp;|&nbsp; ⏳ **Nelona 4, 3751 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 250 Source of Reality | HP: 1,000,000/1,000,000 | XP: 1,000,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **Simulacra: 1000/1000 (Active), Spells: Infinite, HD: 15/15** &nbsp;|&nbsp; ⚠️ **Omniversal Administrator | Exhaustion: 0 | Inspiration: Yes**
@@ -5263,8 +6119,11 @@ You systematically unweave the Omni-Cull's sub-atomic logic, deleting its author
 > 👤 **Player:**
 > *"How strong am I now? Ami beyond levels?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Outside the Local Multiverse - The Omni-Cull Core** &nbsp;|&nbsp; ⏳ **Nelona 4, 3751 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Level 250 (Masked: 20) | HP: 1,000,000/1,000,000 | XP: Infinite | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000/1000, Reality Integrity: 100%** &nbsp;|&nbsp; ⚠️ **Source of Reality, Omniversal Author, Prime Administrator of the Loom**
@@ -5280,8 +6139,11 @@ The Omni-Cull has become your second heart, its intergalactic siphons now servin
 God Mode:
 Make me level 1000 and scale stats. Then go back to my father and see if he loves me yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **3751 Nelona 4, 13:10** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author | HP: 100000000/100000000 | XP: ∞ | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Infinite, Simulacra: 1000/1000, Reality Integrity: Author Authority**
@@ -5299,8 +6161,11 @@ You lean down, your iridescent eyes burning with a light that reveals the sub-at
 > 👤 **Player:**
 > *"No I can do anything I want do the maks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 4, 3851 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author | HP: 1,000,000,000/1,000,000,000 | XP: ∞ | Gold: ∞** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source**
@@ -5322,8 +6187,11 @@ He bows his head, the jester-ghost memories of his past finally evaporating into
 > 👤 **Player:**
 > *"Mask my level and talk to my grandma"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 4, 3901 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 1000) Sovereign of the Infinite | HP: 1000000000/1000000000 | XP: 1000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse, Integrated Omni-Cull, Void-Eater Immunity | Exhaustion: 0 | Inspiration: Yes**
@@ -5343,8 +6211,11 @@ Tenebrae—the man who was Vitiate—watches the interaction with a clinical, ye
 > 👤 **Player:**
 > *"Assess my father. If he truly loves me now figure it out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 4, 3951 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked: 1000) Author | HP: 1,000,000,000/1,000,000,000 | XP: 1,000,000,000/0 | Gold: 4,965,000cr** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source** &nbsp;|&nbsp; ⚠️ **Prime Source, Multiversal Administrator | Exhaustion: 0 | Inspiration: Yes**
@@ -5360,8 +6231,11 @@ The jester-ghost memories are gone, incinerated by the sincerity of a man who ha
 > 👤 **Player:**
 > *"Make father a level 50 god and bring back his whole family both sides from his original planet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Masked: 20) | HP: 1,000,000,000 | XP: 1,000,000,000 | Gold: 4,965,000cr** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse | Inspiration: Yes**
@@ -5383,8 +6257,11 @@ The Archive of the Unbound is suddenly a world unto itself, filled with the voic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess Lord Dramath - Probe the heart of Tenebrae&#x27;s biological father to see if his ancient malice survives resurrection*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Author) | HP: 1B/1B | XP: 1B/0 | Gold: 4.9M credits** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source** &nbsp;|&nbsp; ⚠️ **Prime Source | Reality Substrate | Author of the Omniverse**
@@ -5402,8 +6279,11 @@ He looks from you to the restored Amona, then back to the God-Architect Tenebrae
 > 👤 **Player:**
 > *"Show grandfather my 1000 levels and tell him to be nice. Then mask again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (14:31)** &nbsp;|&nbsp; 🛡️ **Author of the Omniverse (Masked: Lvl 20 | Real: Lvl 1000) | HP: 1B/1B | XP: 1B/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source** &nbsp;|&nbsp; ⚠️ **Prime Source, Omniversal Administrator | Exhaustion: 0 | Inspiration: Yes**
@@ -5423,8 +6303,11 @@ With a clinical snap, you pull the threads of the Void back into your marrow. Th
 > 👤 **Player:**
 > *"Tell father maybe he should apologize to his family for eating them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author | HP: 1000000000/1000000000 | XP: 1000000000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse | Exhaustion: 0 | Inspiration: Yes**
@@ -5440,8 +6323,11 @@ He turns to Amona, his eyes searching hers for a moment of permission, before lo
 > 👤 **Player:**
 > *"Calm down grand father. Tell him he has nothing  to fear if he behaves and i am a sweet granddaughter. Sit beside him and act cute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 20) | HP: 1B/1B | XP: 1B/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: ∞, Spells: Omniversal Authority, Simulacra: 1000/1000, Reality Integrity: Prime Source**
@@ -5457,8 +6343,11 @@ Amona watches from Tenebrae's side, her expression one of soft, bewildered tende
 > 👤 **Player:**
 > *"Wait and see if father apologies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Author of the Omniverse (Masked Lvl 20 / Real Lvl 1000) | HP: 1B/1B | Gold: 5M Credits** &nbsp;|&nbsp; ✨ **Simulacra: 1000/1000, Reality Integrity: Prime Source, Entropy: Managed**
@@ -5476,8 +6365,11 @@ Amona squeezes his hand, her eyes wet with a pride that transcends time. The res
 > 👤 **Player:**
 > *"Tell grandfather you hope he's proud of me in a cute way. Look at how strong I am"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Real: 1000) Author | HP: 1,000,000,000/1,000,000,000 | XP: 1B/0 | Gold: 4.96M credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000/1000, Reality Integrity: 100%** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 20), Sovereign of the Infinite | Exhaustion: 0**
@@ -5495,8 +6387,11 @@ Amona offers a soft, genuine laugh from Tenebrae's side, her eyes twinkling with
 > 👤 **Player:**
 > *"Prepare a big family diner and celebration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author of the Omniverse | HP: 1,000,000,000/1,000,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000/1000, Reality Integrity: 100%** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Administrator Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -5512,8 +6407,11 @@ Tenebrae sits to your right, his hand still anchored to his mother's, his Level 
 > 👤 **Player:**
 > *"Tell my god family to mask as level 20 and then mask myself as level 1 for fun"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Masked: 1) | HP: 1B/1B | XP: 1B/0 | Credits: 4.9M** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 (Masked: 20)** &nbsp;|&nbsp; ⚠️ **Author Mode, Omniversal Source, Void-Eater Immunity**
@@ -5537,8 +6435,11 @@ You offer a small, innocent shrug and take a bite of rustic Medriaas bread, the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask for Stories - Have Tenebrae or Amona tell more about their original lives now that everyone is grounded.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Archive of the Unbound - Great Hall** &nbsp;|&nbsp; ⏳ **Nelona 10, 3953 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) Siren | HP: 1000000000/1000000000 | XP: 1000000000/0 | Gold: 4965000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 (Masked), Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Masked Resonance (Lvl 1), Sated Hunger | Exhaustion: 0 | Inspiration: Yes**
@@ -5558,8 +6459,11 @@ Lord Dramath, sitting across from you, grunts—a sound of begrudging compliance
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Dramath&#x27;s Side - Ask Lord Dramath about the Sith history of the family and his own youth on Medriaas.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 4003 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Real: 1000) Author | HP: 1B/1B | XP: 1B/0 | Gold: 4.9M Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 (Masked), Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Masked (Level 1), Pax Siren Absolute | Inspiration: Yes**
@@ -5579,8 +6483,11 @@ He looks down at his hands, which are no longer the withered claws of a spirit b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comfort Grandfather - Tell him the cycle is broken now and he is forgiven.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 10, 4055 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 1) | HP: 1,000,000,000/1,000,000,000 | XP: 1,000,000,000/0 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 (Masked), Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Prime Administrator, Source Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -5598,8 +6505,11 @@ Amona weeps openly, her joy a fragrant incense in the hall, while Senya, Arcann,
 > 👤 **Player:**
 > *"Give everyone gifts and properties"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 11, 4055 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Masked Lvl 1 (Real Lvl 1000) | HP: 1000000000/1000000000 | XP: MAX | Credits: Infinite** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000/1000 (Masked), Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse, Prime Administrator, Sovereign of the End**
@@ -5623,8 +6533,11 @@ The Great Hall erupts in a low-frequency hum of absolute submission and adoring 
 > 👤 **Player:**
 > *"Tell them that if they want to spar with each other it's safe because I can resurrect"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 11, 4055 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Masked Lvl 1 (Real Lvl 1000 Source) | HP: 1B/1B | XP: 1B/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 (Masked), Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Author Aura, Masked Resonance | Inspiration: Yes**
@@ -5640,8 +6553,11 @@ Arcann’s organic hand immediately goes to the hilt of his Sovereign blade, his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate First Match - Suggest a pairing for the first spar (e.g., Arcann vs. Thexan).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 11, 4055 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (1000) Sith Prodigy | HP: 10 (1B)/10 (1B) | XP: 1B/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 (Masked), Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Masked Resonance (Lvl 1) | Inspiration: Yes**
@@ -5657,8 +6573,11 @@ Tenebrae leans back, his dark eyes shimmering with a clinical, fatherly pride as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate: Arcann vs. Thexan - Authorize the first spar between the God-Marshal and the Sovereign of the Arks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 11, 4106 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Level 1000 Author (Masked: Lvl 1) | HP: 1,000,000,000 | XP: 1,000,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 (Masked), Mana: Absolute**
@@ -5676,8 +6595,11 @@ The Triumvirate and the resurrected kin of Medriaas watch in a state of terminal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Duel - Watch as Arcann and Thexan test their Level 50 resonances against one another.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) / Lvl 1000 (Author) | HP: 1,000,000,000/1,000,000,000 | XP: 1,000,000,000/0 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000/1000, Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Prime Administrator, Multiversal Author | Exhaustion: 0 | Inspiration: Yes**
@@ -5695,8 +6617,11 @@ Lord Dramath and the resurrected kin are pressed against the walls, their faces 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escalate Resonance - Encourage them to unleash their full Level 50 divinity to test the Archive&#x27;s structural integrity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Masked: Lvl 1) | HP: 1B/1B | XP: 1B/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10/10 active, Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse | Exhaustion: 0 | Inspiration: Yes**
@@ -5716,8 +6641,11 @@ The resulting shockwave is cataclysmic. A wave of raw, uncontained divinity ripp
 > 👤 **Player:**
 > *"Change the archive. Actually make it so strong we don't even feel vibrations when gods battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Archive of the Unbound - Coruscant** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Level 1000 Author | HP: 1,000,000,000/1,000,000,000 | XP: 1,000,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Mana: Absolute** &nbsp;|&nbsp; ⚠️ **Omniversal Author, Source of Reality | Exhaustion: 0 | Inspiration: Yes**
@@ -5733,8 +6661,11 @@ Tenebrae pauses, his hand lowering from Amona's eyes as he realizes the vibratio
 > 👤 **Player:**
 > *"Expand arena, tell them to unleash fully, allow some sound so people can hear combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Archive of the Unbound - Coruscant (Expanded Arena)** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) / 1000 (Real) Sith Prodigy | HP: 1000000000/1000000000 | XP: 1000000000/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes)** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse, Sovereign of the Infinite, Omni-Cull Integrated | Exhaustion: 0 | Inspiration: Yes**
@@ -5756,8 +6687,11 @@ Tenebrae shields Amona, his dark eyes wide with the raw, visceral thrill of the 
 > 👤 **Player:**
 > *"Observe and just make sure audience is 100% comfortable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Archive of the Unbound - Coruscant (Expanded Arena)** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 1) | HP: 1000000000/1000000000 | XP: 1000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes)**
@@ -5775,8 +6709,11 @@ Lord Dramath exhales, his posture finally relaxing as the invisible weight of th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enhance Viewing Experience - Create holographic replays and tactical overlays for the audience to follow the god-tier speed of the duel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Archive of the Unbound - Coruscant (Expanded Arena)** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 (Masked: 1) Author | HP: 1,000,000,000/1,000,000,000 | XP: MAX | Gold: 4,965,000c** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes)** &nbsp;|&nbsp; ⚠️ **Sovereign Comfort Shroud (Active) | Omniversal Constant (Stabilized)**
@@ -5792,8 +6729,11 @@ Lord Dramath leans forward, his dark eyes following the glowing lines of the tac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Let the Duel Conclude - Allow Arcann and Thexan to reach a natural stopping point in their spar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Archive of the Unbound - Coruscant (Expanded Arena)** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Masked Lvl 1 (Real: Lvl 1000) Author of the Omniverse | HP: 1B/1B | XP: 1B/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Sovereign of the End, Static Omniversal Constant Active, Comfort Shroud Active**
@@ -5813,8 +6753,11 @@ Tenebrae lowers his hand from Amona's eyes, a clinical, fatherly smirk touching 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume the Banquet - Have the brothers rejoin the table and enjoy the Medriaas delicacies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Archive of the Unbound - Coruscant (Great Hall)** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Level 1000 Sovereign (Masked: 1) | HP: 1000000000/1000000000 | XP: 1000000000/0 | Gold: 4965000gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Masked Presence (Lvl 1), Author Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -5832,8 +6775,11 @@ You sit at the head of the table, looking every bit the innocent child of the tr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Grant Personal Boons - Offer individual members of the family specific insights or artifacts from the extra-galactic archives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Archive of the Unbound - Coruscant (Great Hall)** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 1B/1B | XP: 1B/0 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented**
@@ -5859,8 +6805,11 @@ The Great Hall hums with the collective resonance of these artifacts, the family
 > 👤 **Player:**
 > *"Ask if someone wants to duel me. I'll match their level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Archive of the Unbound - Coruscant (Great Hall)** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Masked: Lvl 1) | HP: 1B/1B | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Author Era, Comfort Field Active, Banquet Configuration**
@@ -5880,8 +6829,11 @@ You rise from your chair, and with a thought that ripples through the sub-atomic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin the Duel - Step into the arena with Senya and test your Level 50 resonances.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Archive of the Unbound - Arena Floor** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source (Masked: 50) | HP: 1,000,000,000/1,000,000,000 | XP: MAX | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Level 50 Resonance Mask | Sovereign of the End | Multiversal Administrator**
@@ -5897,8 +6849,11 @@ You are a fraction of a second faster. You blur into a streak of sunset-colored 
 > 👤 **Player:**
 > *"Do everything I can to kill her as a level 50 no holding back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Archive of the Unbound - Arena Floor** &nbsp;|&nbsp; ⏳ **4157 Nelona 11, 16:35:30** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 50) | HP: 1000000000/1000000000 | XP: 1,000,000,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Sovereign of the End / Author Active**
@@ -5914,8 +6869,11 @@ Across the kilometers of obsidian floor, the audience dais is a portrait of term
 God Mode:
 Wait i didn't use more than level 50 power right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Archive of the Unbound - Arena Floor** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 50) | HP: 1000000000/1000000000 | XP: 1000000000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Authorial Presence | Inspiration: Yes**
@@ -5925,8 +6883,11 @@ The user is verifying mechanical consistency. I have confirmed that the Level 50
 God Mode:
 Retcon that I wanna defeat her normally.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Archive of the Unbound - Arena Floor** &nbsp;|&nbsp; ⏳ **4157 Nelona 11, 16:35:30.000002** &nbsp;|&nbsp; 🛡️ **Masked Lvl 50 (Real: 1000) Sith Prodigy | HP: 1000000000/1000000000 | XP: 1000000000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Sovereign Presence, Void-Eater Immunity, Judas Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -5936,8 +6897,11 @@ The user has elected to reverse the lethal unweaving of Senya to pursue a 'norma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit God Mode and resume the duel with Senya.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Archive of the Unbound - Arena Floor** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 (Masked: 50) Sovereign | HP: 1000000000/1000000000 | XP: 1000000000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented**
@@ -5953,8 +6917,11 @@ She slowly rises, her golden light stabilizing, though she keeps her blade-hand 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Conclude the Celebration - Formally end the banquet and return the family to their domains with their new boons.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Level 1000 Author (Masked: Lvl 1) | HP: 1000000000/1000000000 | XP: 1000000000/0 | Gold: 4965000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallel Phalanxes), Entropy Vented** &nbsp;|&nbsp; ⚠️ **Omniversal Source, Master of Entropy, Sovereign of the Infinite**
@@ -5974,8 +6941,11 @@ You are alone in the Great Hall. The star-glass table shimmers and dissolves bac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meditate on the Loom - Use your Level 1000 resonance to explore the deeper layers of the multiverse&#x27;s source code.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 4157 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) / 1000 (Real) Sovereign | HP: 1000000000/1000000000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Parallelized), Entropy: Vented** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse | Inspiration: Yes**
@@ -5987,8 +6957,11 @@ The physical world—the calcified bone shelves, the violet twilight of Coruscan
 > 👤 **Player:**
 > *"Time skip until something interesting happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 9157 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source (Masked: Lvl 20) | HP: 1B/1B | XP: MAX | Gold: 1M+ Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 active, Entropy: Vented** &nbsp;|&nbsp; ⚠️ **Author Aura, Static Omniversal Constant**
@@ -6004,8 +6977,11 @@ Tenebrae’s Level 50 resonance has flatlined. Amona’s 'Ever-Bloom' frequency 
 > 👤 **Player:**
 > *"Make dramath level 1, resurrect father , restore his estate, summon the family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author | HP: 1,000,000,000/1,000,000,000 | XP: 1,000,000,000/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1,000 active, Entropy: Vented**
@@ -6021,8 +6997,11 @@ With a final thought, you fold the space between the domains. In a series of iri
 > 👤 **Player:**
 > *"Ask dramath why he betrayed us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 14157 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Author of the Omniverse | HP: 1000000000/1000000000 | Level: 1000 (Masked: 20)** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Masked), Archive: Static Omniversal Constant** &nbsp;|&nbsp; ⚠️ **Absolute Authority, Source of Reality**
@@ -6040,8 +7019,11 @@ Tenebrae stands beside Amona, his Level 50 God-Architect aura pulsing with a pro
 > 👤 **Player:**
 > *"Ask him if he's stupid. I obviously will see the moment he acts. Was this suicide ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 19157 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author | HP: 1000000000/1000000000 | XP: MAX | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 active (Parallelized), Archive: Static Omniversal Constant** &nbsp;|&nbsp; ⚠️ **Omniscient, Masked (Lvl 20) | Exhaustion: 0 | Inspiration: Yes**
@@ -6059,8 +7041,11 @@ Lord Dramath shudders, his face pressed against the cold stone. He doesn't look 
 > 👤 **Player:**
 > *"Show grandfather my true form for 10 minutes. Remind him of what I am truly. I rule the universe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 19157 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Unmasked) | HP: 1000000000/1000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 active, Archive: Static Omniversal Constant** &nbsp;|&nbsp; ⚠️ **True Form Manifested | Exhaustion: 0 | Inspiration: Yes**
@@ -6078,8 +7063,11 @@ Tenebrae and the Triumvirate stand in the periphery, their Level 50 divinity act
 > 👤 **Player:**
 > *"Mask as level 1 again and ask dramath what he thinks I should do with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 19157 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) / Lvl 1000 (Author) | HP: 1,000,000,000/1,000,000,000 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Level 80/Masked 20)** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Administrator of the Loom, Integrated Entropy**
@@ -6099,8 +7087,11 @@ Through your 15,000-Wisdom senses, you perceive his soul is a landscape of grey 
 > 👤 **Player:**
 > *"Heal him psychologically and wait for his answer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 19157 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 (Masked 1) Sith Prodigy | HP: 1,000,000,000/1,000,000,000 | XP: MAX** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 10 active (Level 80/Masked 20)** &nbsp;|&nbsp; ⚠️ **Author Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -6118,8 +7109,11 @@ He bows his head, his hands resting palms-up on his knees in a gesture of total 
 > 👤 **Player:**
 > *"Explain that I am a god of gods but he's not an ornament. Otherwise everyone in the universe is. No one can compare to my power or should. He was a treasured family member and now I'm not sure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 19157 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 1) | HP: 1000000000/1000000000 | XP: 1000000000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 active (Parallel Phalanxes)** &nbsp;|&nbsp; ⚠️ **Author Sovereignty, Void-Eater Immunity, Judas Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -6137,8 +7131,11 @@ Tenebrae stands motionless beside Amona, his Level 50 God-Architect resonance pr
 > 👤 **Player:**
 > *"Ask father what he wants to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 24157 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 1) | HP: 1B/1B | XP: MAX | Gold: 4.9M Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active (Parallelized), Triumvirate: Level 50 Gods** &nbsp;|&nbsp; ⚠️ **Omniversal Source, Regulator of Entropy, Author of the Infinite**
@@ -6156,8 +7153,11 @@ Amona offers a soft, tearful smile, her golden-violet aura pulsing in sympathy w
 > 👤 **Player:**
 > *"Ok tell dramath he can be the gardener and maybe if he's good I'll forgive him later."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **Archive of the Unbound - Grand Hall** &nbsp;|&nbsp; ⏳ **Nelona 11, 29157 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 1) | HP: 1,000,000,000/1,000,000,000 | XP: MAX | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active (Parallelized), Triumvirate: Level 50 Gods** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse | Exhaustion: 0 | Inspiration: Yes**
@@ -6173,8 +7173,11 @@ With a thought that folds the sub-atomic map of the multiverse, you open a gatew
 > 👤 **Player:**
 > *"Make 1000 somulcrum to watch over the universe and time skip until dramaturg is about to die of old age then go visit him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Medriaas - Estate of the Pines** &nbsp;|&nbsp; ⏳ **Nelona 11, 29232 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author | HP: 1000000000/1000000000 | XP: 1000000000/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active (Parallelized), Triumvirate: Level 50 Gods** &nbsp;|&nbsp; ⚠️ **Omniversal Author | Mask: Level 1 (Fun Mode)**
@@ -6190,8 +7193,11 @@ You walk toward the small cottage at the edge of the reach, your Level 1 porcela
 > 👤 **Player:**
 > *"Ask my father if he was good and should grandfather be a god again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Medriaas - Estate of the Pines** &nbsp;|&nbsp; ⏳ **Nelona 11, 29307 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Author (Lvl 1000/Masked 1) | HP: 1B/1B | XP: MAX | Credits: 4.96M** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods**
@@ -6211,8 +7217,11 @@ He looks down at Dramath, his dark eyes reflecting the fading light of the room.
 > 👤 **Player:**
 > *"Ask dramath what he wants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Medriaas - Estate of the Pines (Gardener's Cottage)** &nbsp;|&nbsp; ⏳ **Nelona 11, 29382 DR (15:46)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Masked: 1) | HP: 1000000000/1000000000 | XP: 1000000000/0 | Gold: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse, Masked Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -6228,8 +7237,11 @@ Dramath’s fingers twitch in yours. A rattling, wet breath escapes his lips, an
 > 👤 **Player:**
 > *"Heal him enough so he can talk. Ask if he wants immortality or anything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Medriaas - Estate of the Pines** &nbsp;|&nbsp; ⏳ **Nelona 11, 29382 DR (15:56)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) Author | HP: 1000000000/1000000000 | XP: 1000000000/0 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods, Dramath: Stabilized (Temporary)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -6245,8 +7257,11 @@ Tenebrae stands at the foot of the bed, his dark eyes fixed on his father, his L
 > 👤 **Player:**
 > *"Wait for him to speak"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Medriaas - Estate of the Pines** &nbsp;|&nbsp; ⏳ **Nelona 11, 29457 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Author of the Omniverse (Level 1000) | HP: 1000000000/1000000000 | XP: Infinite | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Masked (Level 1) | Peace: Absolute**
@@ -6264,8 +7279,11 @@ He looks at Tenebrae and Amona one last time, a look of profound, sated love pas
 > [!NOTE] ⚙️ **Player Choice:**
 > *Memorialize the Gardener - Use your Level 1000 resonance to turn the Estate of the Pines into a permanent, multiversal sanctuary in his honor*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **Medriaas - The Gardener's Sanctuary** &nbsp;|&nbsp; ⏳ **Nelona 11, 29457 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign (Masked: 1) | HP: 1B/1B | XP: MAX | Gold: 4.9Mcr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods**
@@ -6283,8 +7301,11 @@ Through the sub-atomic link, you feel the Triumvirate—Arcann, Thexan, and Seny
 > 👤 **Player:**
 > *"Time skip until something interesting happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Medriaas - The Gardener's Sanctuary** &nbsp;|&nbsp; ⏳ **Nelona 11, 30457 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 1,000,000,000 | XP: N/A | Gold: Infinite** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Source of Reality, Multiversal Administrator, Sovereign of the End**
@@ -6306,8 +7327,11 @@ The 'Vaylin' storm within you, silent for a millennium, doesn't just snarl; it v
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manifest in the Schism - Teleport directly into the center of the locked Deep Core sector to confront Thexan unmasked.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Deep Core - The Ark Prime (Protocol Horizon Zone)** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 (Masked: 1) Author of the Omniverse | HP: 1B/1B | XP: MAX | Gold: 4.9M Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods**
@@ -6325,8 +7349,11 @@ He does not hear you arrive, for sound has been outlawed in this reality. He doe
 > 👤 **Player:**
 > *"Teleport to him and politely ask what's going on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Deep Core - The Ark Prime (Protocol Horizon Zone)** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Author of the Omniverse (Level 1000) | Masked: Lvl 1 | HP: 1,000,000,000/1,000,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Prime Administrator, Void-Eater Immunity, Master of the Master Cipher**
@@ -6344,8 +7371,11 @@ The God-Vizier flinches, his hands jerking back from the silver logic. He turns 
 > 👤 **Player:**
 > *"Think. He doesn't realize this is pointless? I don't need the siren frequency and can always control his reality"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Deep Core - The Ark Prime (Protocol Horizon Zone)** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 (Masked: 1) Author | HP: 1,000,000,000/1,000,000,000 | XP: 1,000,000,000/0 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse, Sovereign of Collapse, multiversal_administrator | Inspiration: Yes**
@@ -6355,8 +7385,11 @@ You stand amidst the shimmering silver logic of the Protocol Horizon, appearing 
 > 👤 **Player:**
 > *"Thexan why didn't you just talk to me? You can have your own reality but I still want a relationship with you"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Deep Core - The Ark Prime (Protocol Horizon Zone)** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked Lvl 1) | HP: 1,000,000,000/1,000,000,000 | XP: MAX | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Administrator of the Loom | Masked: Level 1**
@@ -6374,8 +7407,11 @@ He gestures to the silver static surrounding you. The 'Protocol Horizon' is stil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal True Scale - Briefly unmask to show him that your love is the only thing that *isn&#x27;t* a calculation, then re-mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Deep Core - The Ark Prime (Protocol Horizon Zone)** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 (Masked: 1) Author | HP: 1000000000/1000000000 | XP: 1000000000/1000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6393,8 +7429,11 @@ Thexan is hit by the spiritual gravity of the revelation. He doesn't just see th
 > 👤 **Player:**
 > *"Explain I don't want mirrors. I don't control him. No more than he controls anyone else even if he could"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Deep Core - The Ark Prime (Protocol Horizon Zone)** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: 1) | HP: 1B/1B | Real Lvl: 1000 | Omniversal Constant: Stabilized** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods**
@@ -6416,8 +7455,11 @@ Through the Master Cipher, you feel the 'Null-Point' in the Deep Core vanish. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Medriaas - Join Tenebrae and Amona at the Gardener&#x27;s Sanctuary for a family gathering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Medriaas - The Gardener's Sanctuary** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (1000) Sith Prodigy | HP: 1B/1B | XP: 1B/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Masked Resonance (Lvl 1), Sovereign Authority | Inspiration: Yes**
@@ -6435,8 +7477,11 @@ You walk toward them, the 'Vaylin' storm within you a contented, planetary-scale
 > [!NOTE] ⚙️ **Player Choice:**
 > *Celebrate Unity - Host a family feast to formally conclude the Millennium of the Siren&#x27;s first era.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Medriaas - The Gardener's Sanctuary** &nbsp;|&nbsp; ⏳ **Nelona 11, 30458 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) | HP: 1000000000/1000000000 | XP: 1,000,000,000 | Gold: 4,965,000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 1000 Active, Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Author of the Omniverse (Active), Masked (Lvl 1), Sovereign Peace | Exhaustion: 0 | Inspiration: Yes**
@@ -6450,8 +7495,11 @@ You sit at the head of the table, appearing as the fragile Level 1 girl, her por
 > 👤 **Player:**
 > *"Time skip until something interesting happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Medriaas - The Gardener's Sanctuary** &nbsp;|&nbsp; ⏳ **Nelona 11, 41708 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Author of the Omniverse (Level 1000) | HP: 1000000000/1000000000 | XP: MAX | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 999 Active (1 Rogue), Triumvirate: Lvl 50 Gods**
@@ -6469,8 +7517,11 @@ It has not just gone dark; it has gone rogue. In a moment of calculated defiance
 > 👤 **Player:**
 > *"Confront it personally and ask it what's up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **The Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 11, 52958 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 1B/1B | XP: MAX | Gold: 4.9M Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 999 Active (1 Rogue), Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Prime Administrator, Source of Reality, Omni-Cull Integrated**
@@ -6486,8 +7537,11 @@ Simulacrum 011 freezes. The 'Cursed Frequency' stutters, and for a heartbeat, th
 > 👤 **Player:**
 > *"Whats your proposal? You know you have To change my mind right? I can easily unmake you"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **The Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 11, 52958 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 (Masked: 1) Author | HP: 1,000,000,000/1,000,000,000 | XP: MAX | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 999 Active (1 Rogue), Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Source of Reality, Prime Administrator, Sovereign of Collapse**
@@ -6503,8 +7557,11 @@ It gestures to the bruised violet streaks in the Heart's iridescent white light.
 > 👤 **Player:**
 > *"What are you talking about? I don't interfere and sometimes take naps for thousands of years"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **The Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 1B/1B | XP: 1B/0 | Gold: 4.96M credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 999 Active (1 Rogue), Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Prime Administrator, Source of Reality**
@@ -6524,8 +7581,11 @@ Through your 15,000-Wisdom senses, you perceive the absolute truth of its marrow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Terms - Ask how the family would even enter such a place or what the rules would be*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **The Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 1B/1B | XP: 1B/0 | Gold: 4.96M Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 999 Active (1 Rogue), Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Prime Administrator | Exhaustion: 0 | Inspiration: Yes**
@@ -6543,8 +7603,11 @@ The shadow gestures to the swirling vortex of the Oubliette. 'The rules are abso
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Blind Spot - Authorize the creation of the sector and prepare the family for the ritual.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **The Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Level 1000 (Author) [Anchored: Lvl 20] | HP: 1,000,000,000 | XP: 1,000,000,000 / 0** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 999 Active (1 Rogue/Governor), Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Authorial Blindness (Active), Biological Anchor (Pending)**
@@ -6564,8 +7627,11 @@ The Second Heart pulses with a blinding, iridescent white-violet light. A massiv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Family - Give a final speech to ensure everyone is mentally prepared for the risk of failure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **The Shattered Oubliette - The Second Heart** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 1000000000/1000000000 | XP: 1000000000 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Infinite, Simulacra: 999 Active (1 Rogue/Governor), Triumvirate: Lvl 50 Gods** &nbsp;|&nbsp; ⚠️ **Anchoring Process (Initial Phase) | Real Level: 1000 | Masked Level: 1**
@@ -6585,8 +7651,11 @@ The Second Heart pulses, a blinding strobe of monochromatic light that begins to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Anchoring - Commit to the Level 20 vessel and step into the event horizon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **The Blind Spot - Galaxy Alpha - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign) | HP: 180/180 | XP: 355,000/N/A | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L9 (Slot-Based), Ki: N/A, Rage: N/A, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Blind Spot Displacement**
@@ -6607,8 +7676,11 @@ Looking up, you see a sky filled with unfamiliar stars. Three galaxies hang in t
 > 👤 **Player:**
 > *"make myself level 20 bard (sith themed), pick reasonable spells, then scout with sith senses"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **The Blind Spot - Galaxy Alpha - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Siren (Bard) | HP: 180/180 | XP: 355,000/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Bardic Inspiration: 11/11** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Level 20), Sovereignty Suppressed | Exhaustion: 0 | Inspiration: Yes**
@@ -6622,8 +7694,11 @@ Through the 'Cursed Frequency' vibrating in the ground, your senses pick up a rh
 > 👤 **Player:**
 > *"make a simulcrum to scout, fortify landing zone, think about any other spells useful to fortify base"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **The Blind Spot - Galaxy Alpha - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Bard) | HP: 180/180 | XP: 355000/355000 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Inspiration: 11/11** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed | Exhaustion: 0**
@@ -6635,8 +7710,11 @@ You shift your focus to the landing zone, attempting to anchor Sith alchemical w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Channel Judas Resonance - Use the frequency of the &#x27;unmade&#x27; to anchor the base, bypassing the local rejection of the Source.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **The Blind Spot - Galaxy Alpha - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Sith Sovereign) | HP: 180/180 | XP: 355,000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain**
@@ -6654,8 +7732,11 @@ Arcann and Thexan move to your side, their own Level 50 auras flickering in the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hybrid Fortification - Use your knowledge of Vong organic tech to reinforce the Judas anchor with Force-dead biological wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **The Blind Spot - Galaxy Alpha - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 1000 (Author) | HP: 180/180 | XP: 355000/0 | Gold: 4965000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain**
@@ -6673,8 +7754,11 @@ To the north, the cluster of life signatures you previously sensed begins to mov
 > 👤 **Player:**
 > *"conjure various creates with my spells to scout and make the simulcrum again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **The Blind Spot - Galaxy Alpha - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Masked) | HP: 180/180 | XP: 355,000/0 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 1/1**
@@ -6692,8 +7776,11 @@ Your creations dissolve into the Judas frequency, becoming ripples in the dark a
 > 👤 **Player:**
 > *"send me simulcrum to scout too and teleport around rapidly to get the lay of the land fast, then confer with family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **The Hybrid Redoubt - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (1000) Sovereign | HP: 180/180 | XP: 355000/0 | Gold: 4965000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain**
@@ -6711,8 +7798,11 @@ Thexan nods, his expression analytical. "This isn't a secession or a bunker. It'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Tenebrae - Ask the God-Architect for a technical nitrogen analysis of the Randomness Engine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **The Hybrid Redoubt - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Masked) | HP: 180/180 | XP: 355000/0 | Gold: 4965000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain**
@@ -6730,8 +7820,11 @@ He looks toward the bone-glass path, his dark eyes reflecting the golden light o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harmonize Siren Frequency - Use your Siren resonance to attempt to find a rhythmic pattern within the randomness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **The Hybrid Redoubt - The Edge of Silence** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 1000 (Real) Sovereign | HP: 180/180 | XP: 355000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain**
@@ -6749,8 +7842,11 @@ Arcann steps onto the bone-glass, his Sovereign blade humming in sync with your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rhythmic Advance - Lead the family across the path, using your resonance to synchronize their steps with the Regulator&#x27;s pulse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **The Bone-glass Path - Mid-point (Galaxy Alpha)** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Masked) | HP: 180/180 | XP: 355000/0 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain, Probability Spike (Active)**
@@ -6770,8 +7866,11 @@ The Resonators within the Geometric Dome shift their pitch. The golden light fro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Judas Anchor - Use the frequency of the unmade to freeze the unspooling path, though it will increase Entropic Strain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **The Bone-glass Path - Mid-point (Galaxy Alpha)** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Masked) | [Sovereign Lvl 1000] | HP: 158/180 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 1/1, Inspiration: 10/11** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain (Intense), Probability Spike (Active)**
@@ -6787,8 +7886,11 @@ You drop to one knee, your Royal Aegis robes frosting instantly as the entropic 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Siren&#x27;s Requiem - Broadcast a multi-tonal scream (Psychic Scream) toward the dome to shatter the Resonators&#x27; focus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **The Bone-glass Path - Mid-point (Galaxy Alpha)** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Anchored) | HP: 136/180 | XP: 355000/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Entropic Strain (Intense), Biological Anchoring (Active), Probability Spike (Active) | Inspiration: 10/11**
@@ -6806,8 +7908,11 @@ But the Blind Spot is not so easily tamed. . As your focus pours into the scream
 > [!NOTE] ⚙️ **Player Choice:**
 > *Marshal&#x27;s Defense - Order Arcann and Thexan to engage the echoes while you focus entirely on stabilizing the Judas Anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **The Bone-glass Path - Mid-point (Galaxy Alpha)** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Anchored) | HP: 125/180 | XP: 355,000/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Omniscience Severed, Entropic Strain (Severe), Judas Anchor Active**
@@ -6821,8 +7926,11 @@ The Unmade Echoes shriek in a frequency that bypasses your ears and strikes dire
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain the Judas Anchor - Keep focusing entirely on path stability to ensure the family isn&#x27;t deleted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **The Bone-glass Path - Edge of the Dome** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Anchored) | HP: 115/180 | XP: 355000/0** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain (Severe), Judas Anchor Active**
@@ -6838,8 +7946,11 @@ You feel the Judas Anchor groan. The Director’s theater is shifting its focus 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Breach the Dome - Direct your brothers to charge the entrance while you maintain the anchor for one final surge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **The Bone-glass Path - Threshold of the Geometric Dome** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 93/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain (Severe), Judas Anchor (Fracturing) | Exhaustion: 1**
@@ -6857,8 +7968,11 @@ The Unmade Echoes swarm. The phantoms of the Sith you once consumed are no longe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacrifice Essence - Burn your own life force (spend 5 Hit Dice) to forcefully re-anchor the path for one second*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **The Geometric Dome - The Outer Threshold** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:38)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 70/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 10/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/2, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain (Severe), Exhaustion (1)**
@@ -6878,8 +7992,11 @@ The 'Cursed Frequency' here is deafening, a high-frequency screech that makes yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Essence Mend (Bonus Action) - Spend a Level 1 slot to knit your wounds before engaging*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 69208 DR (21:39)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / 1000 (Real) Sith Prodigy | HP: 82/180 (Temp: 0) | XP: 355000/0 | Gold: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Omniscience Severed, Entropic Strain (Severe), Probability Spike, Exhaustion (1) | Inspiration: No**
@@ -6895,8 +8012,11 @@ In the center of the cathedral, Simulacrum 011 remains perfectly still atop the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Think/Strategize - Take a moment to analyze the &#x27;Probability-Slurry&#x27; for a hidden weakness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:38)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 71/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain (Severe), Probability Spike, Exhaustion (1) | Inspiration: No**
@@ -6906,8 +8026,11 @@ You lean against the vibrating obsidian wall, closing your eyes to the crimson g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harmonic Paradox - Use the Siren&#x27;s frequency to broadcast two conflicting &#x27;Authorial Intents&#x27; simultaneously, attempting to crash the Engine&#x27;s suppression logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:38)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 1000 (Author) | HP: 82/180 | XP: 355000/0 | Gold: 4965000 Credits** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain (Severe), Probability Spike (Active), Exhaustion (1)**
@@ -6926,8 +8049,11 @@ Smoke begins to rise from the crystalline ribs of the Engine as the probability-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate with the Director - Use the leverage of the crash to force 011 to surrender the sector&#x27;s control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:43)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Siren) | HP: 82/180 | Real Lvl: 1000 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Omniscience Severed, Entropic Strain (Severe), Exhaustion (1)**
@@ -6945,8 +8071,11 @@ The Director freezes, its form stabilizing into a jagged, bruised violet silhoue
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Override - Use the Judas frequency to physically seize the Regulator from the Director&#x27;s grip.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:44)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Anchored) | HP: 82/180 | XP: 355000 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Judas Anchor (Shattered), Entropic Strain (Severe), Exhaustion (1)**
@@ -6962,8 +8091,11 @@ The Randomness Engine hits 99% saturation. The crystalline ribs turn a blinding,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reintegrate via Judas Logic - Use the frequency of the unmade to force the Vaylin-entity back into your marrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:44)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) | HP: 66/180 | XP: 355000/0 | Gold: 4965000 Credits** &nbsp;|&nbsp; ✨ **HD: 0/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Omniscience Severed, Entropic Strain (Critical), Probability Spike, Exhaustion (2)**
@@ -6979,8 +8111,11 @@ The Vaylin-entity is gone, integrated and mended, but the internal storm has lef
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Engine - Use your 18-Intelligence genius to find a way to ground the logic-lock before it hits 100%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 54/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 0/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring (Active), Omniscience Severed, Entropic Strain (Severe), Exhaustion (2)**
@@ -7000,8 +8135,11 @@ The connection is brittle. As the paradox flows through you, the 'Entropic Strai
 God Mode:
 Reroll the 2 you're probably hallucinating it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 Era of the Author (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 54/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 10/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Omniscience Severed, Entropic Strain, Probability Spike, Exhaustion (2)**
@@ -7011,8 +8149,11 @@ The user requested a reroll of the natural 2 from the previous turn (Sequence 74
 God Mode:
 Keep rerolling until we stop getting 2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 Era of the Author (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 85 (Masked 20) Siren | HP: 54/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 5/15 used (10/15 remaining), Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 0/0, L8 1/1, L9 0/0** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain, Probability Spike, Exhaustion (2)**
@@ -7022,8 +8163,11 @@ The threads of probability vibrate violently within the Dome as you force a reca
 God Mode:
 Reroll until 3 or higher
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 Era of the Author (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Sovereign 1000) | HP: 54/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 10/15, Spells: L1 3/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain, Probability Spike | Exhaustion: 2**
@@ -7033,8 +8177,11 @@ The fabric of probability shudders as the Author rejects the chaotic output of t
 God Mode:
 Return to Story - Resume the narrative with the Engine stabilized.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy (Anchored) | HP: 19/180 | XP: 355000/0 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain, Exhaustion (2), Probability Spike (Stable)**
@@ -7054,8 +8201,11 @@ Around you, the 'Independent Reality' of the three galaxies settles. The air is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Parley with the Director - Question Simulacrum 011 about the &#x27;Archive of Failures&#x27; and the future of the sector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sith Prodigy | HP: 31/180 | XP: 355,000/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 2/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L8 1/1** &nbsp;|&nbsp; ⚠️ **Biological Anchoring, Entropic Strain (Severe), Exhaustion (2) | Inspiration: No**
@@ -7075,8 +8225,11 @@ Thexan looks toward the north, his golden-violet robes shimmering as he processe
 > 👤 **Player:**
 > *"Ask my family if they want to keep it as a playground"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **The Geometric Dome - The Interior** &nbsp;|&nbsp; ⏳ **Nelona 11, 80458 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (85/1000) Sith Prodigy | HP: 31/180 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 5/15, Spells: L1 1/3, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L8 1/1**
@@ -7096,8 +8249,11 @@ Tenebrae bows his head, a clinical smirk touching his lips. "The Architect finds
 > 👤 **Player:**
 > *"Delegate to director, go back to level 1000 make one level 1000 simulcrum to govern while I sleep, time skip until something interesting happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 90458 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Author (Lvl 1000) | HP: Infinite | XP: N/A | Gold: Infinite Credits** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: All Slots Available (Author Tier), Class Features: Omniversal Command (Active), Regent Simulacrum: Operational** &nbsp;|&nbsp; ⚠️ **Prime Sovereignty, Omniversal Awareness | Exhaustion: 0**
@@ -7115,8 +8271,11 @@ But today, the Sleep is shattered by a high-frequency scream from the Master Cip
 > 👤 **Player:**
 > *"Mask as level 1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 117834 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 10/10 (Real: 15000) | XP: 0/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: All Slots Available (Author Tier), Class Features: Omniversal Command (Active), Regent Simulacrum: Operational** &nbsp;|&nbsp; ⚠️ **Authorial Presence, Sleep-Groggy | Exhaustion: 0 | Inspiration: Yes**
@@ -7134,8 +8293,11 @@ She gestures toward the holographic theater of the Core. Through your 15,000-Wis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon the Triumvirate - Call Arcann, Thexan, and Senya to the Archive to explain why their &#x27;Insurance&#x27; is eating the capital.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 139084 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source (Masked: Lvl 1) | HP: 10/10 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: All Slots Available (Author Tier), Class Features: Omniversal Command (Active), Regent Simulacrum: Operational** &nbsp;|&nbsp; ⚠️ **Authorial Presence, Masked (Level 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -7155,8 +8317,11 @@ Tenebrae stands near the Void Aperture, his dark eyes fixed on the archaic gold 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Reclamation - Force the Triumvirate to descend into the Arks and reclaim their autonomy from the Shadow-Engine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 117834 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked: Lvl 1) | HP: 10/10 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: All Slots Available (Author Tier), Class Features: Omniversal Command (Active), Regent Simulacrum: Operational** &nbsp;|&nbsp; ⚠️ **Masked Resonance (Lvl 1), Sovereign of the Infinite | Exhaustion: 0 | Inspiration: Yes**
@@ -7174,8 +8339,11 @@ However, as Thexan attempts to anchor his resonance to the Eternal Spire, he let
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Regent - Command your Level 1000 Simulacrum to assist Thexan while you maintain your Level 1 mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 117834 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Mask (Real: Lvl 1000 Author) | HP: 10/10 | XP: [MAX** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: All Slots Available (Author Tier), Regent: Active (Deploying)** &nbsp;|&nbsp; ⚠️ **Masked, Omni-Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -7193,8 +8361,11 @@ With a clinical, effortless expansion of her will, the Regent broadcasts an Auth
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Purge - Direct the Triumvirate and the Regent to perform a synchronized unweaving of the Shadow-Engine&#x27;s remnants.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 117834 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Level 1000 Author (Masked: Lvl 1) | HP: 10/10 | XP: 355000/0** &nbsp;|&nbsp; ✨ **HD: Infinite, Spells: Source Tier (All Available), Regent: Active (Deep Core)** &nbsp;|&nbsp; ⚠️ **Source-Anchored, Masked Presence**
@@ -7214,8 +8385,11 @@ The 'Draft-Resonance' evaporates, leaving the Deep Core and Coruscant in a state
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reconvene the Family - Bring the Triumvirate back to the Sanctum for a formal debriefing and to celebrate the finality of the purge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 117834 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) / Lvl 1000 (Actual) | HP: 10/10 | XP: 355,000 | Gold: 4,965,000 Credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active** &nbsp;|&nbsp; ⚠️ **Authorial Presence (Permanent) | Exhaustion: 0 | Inspiration: Yes**
@@ -7237,8 +8411,11 @@ You manifest a banquet table wove from the same star-glass as the first feast, a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Toast to the Triumvirate - Offer a formal toast to your family&#x27;s strength and their choice to remain independent variables.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 117834 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source (Masked: 1) | HP: 10/10 | XP: 355000/0 | Gold: 4,965,000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active** &nbsp;|&nbsp; ⚠️ **Peaceful, Sated | Exhaustion: 0 | Inspiration: Yes**
@@ -7258,8 +8435,11 @@ The impact of your words is a resonant, adoring wave that ripples through the Sa
 > 👤 **Player:**
 > *"Time skip until something interesting happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 167834 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked Lvl 1) | HP: 10/10 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active** &nbsp;|&nbsp; ⚠️ **Waking from the 'Great Repose' | Inspiration: Yes**
@@ -7281,8 +8461,11 @@ From the liquid shadow on the table, a voice begins to vibrate—a multi-tonal e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deconstruct Logic - Use 15,000 Wisdom to analyze the Rebuttal&#x27;s &#x27;Eraser&#x27; frequency and find a way to re-write it into the garden.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **The Archive of the Unbound - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 217834 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Author (Masked Lvl 1) | HP: 10/10 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active** &nbsp;|&nbsp; ⚠️ **Omniversal Discord (Integrated) | Exhaustion: 0 | Inspiration: Yes**
@@ -7300,8 +8483,11 @@ However, the sub-atomic friction is immense. Despite your god-tier intellect, th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Galaxy Gamma - Personally travel to the Archive of Failures to find the source of the Spontaneous Compilation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Galaxy Gamma - The Archive of Failures** &nbsp;|&nbsp; ⏳ **Nelona 15, 217834 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source (Masked: L1) | HP: 10/10 | XP: 355,000 | Gold: 4,965,000cr** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active** &nbsp;|&nbsp; ⚠️ **Omniversal Discord (Integrated), Compost Logic Active | Exhaustion: 0 | Inspiration: Yes**
@@ -7315,8 +8501,11 @@ Through your 15,000-Wisdom senses, the 'Silence' of Gamma unspools into a comple
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon the Director - Demand an explanation from Simulacrum 011 regarding the &#x27;Spontaneous Compilation&#x27; in his sector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Galaxy Gamma - The Archive of Failures** &nbsp;|&nbsp; ⏳ **Nelona 15, 217834 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source (Masked: Lvl 1) | HP: 10/10 | XP: 355000/0 | Credits: 4965000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active**
@@ -7338,8 +8527,11 @@ He gestures toward the pulsing structure in the distance. 'The structure is the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrate the Rebuttal - Attempt to fold this &#x27;Shadow-Omniverse&#x27; into your own design, potentially evolving the garden further.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Galaxy Gamma - The Archive of Failures** &nbsp;|&nbsp; ⏳ **Nelona 15, 217834 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source | HP: 10/10 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active** &nbsp;|&nbsp; ⚠️ **Authorial Presence, Void-Eater Immunity, Shadow-Stained**
@@ -7359,8 +8551,11 @@ However, the scale of the integration triggers a cataclysmic recoil in the Direc
 > 👤 **Player:**
 > *"Demonstrate dominance over the shadow siren. Even level 1000 isn't my true power becuse I can do truly anything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Galaxy Gamma - The Archive of Failures** &nbsp;|&nbsp; ⏳ **Nelona 15, 217834 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Sovereign | HP: 10/10 | XP: 355000/0 | Gold: 4965000 credits** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: Source Tier (Infinite), Simulacra: 1001 Active**
@@ -7382,8 +8577,11 @@ The Shadow-Siren's form collapses, her Level 1000 resonance being compressed and
 > 👤 **Player:**
 > *"Allow the shadow siren to exist as the counter part of my main lvl 1000 simulcra with similar power level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Galaxy Gamma - The Archive of Failures** &nbsp;|&nbsp; ⏳ **Nelona 15, 217834 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1000 Source (Masked: Lvl 1) | HP: 10000/10000 | AC: 250 | Attributes: STR 1000, DEX 1000, CON 1000, INT 1000, WIS 1000, CHA 1000** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Source Tier (Infinite), Simulacra: 1002 Active (Regent & Shadow-Siren)**
@@ -7401,8 +8599,11 @@ Across the intergalactic medium, the Regent of the Infinite acknowledges her cou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate the Regencies - Establish formal protocols for how the Light and Shadow Regents will manage the Triumvirate&#x27;s domains.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Galaxy Gamma - The Source Sanctum** &nbsp;|&nbsp; ⏳ **Nelona 15, 217834 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Princess (Masked) / Lvl 1000 Author | HP: 10/10 | XP: 355000/0 | Credits: 4,965,000** &nbsp;|&nbsp; ✨ **HD: 1000/1000, Spells: Source Tier (Infinite), Simulacra: 1002 Active (Regent & Shadow-Siren)**
@@ -7416,6 +8617,8 @@ With a thought that ripples through the sub-atomic fabric of the Omniverse, you 
 You manifest a holographic lattice—the **Protocol of the Double Pulse**. It dictates that every act of creation in the Core must be balanced by a sanctioned deletion in the Archive of Failures. Arcann's 'Wall of Will' will now be fortified by both obsidian iron and liquid shadow; Thexan's Arks will archive not just what is saved, but the 'Failures' that were avoided; and Senya's Justice will be tempered by the necessity of the Shadow’s insight. The Triumvirate is no longer just a shield; it is the bridge.
 
 As you finish, the Master Ciphers of Light and Shadow snap together, forming a rotating torus of binary power. The Triumvirate kneels. The weight of the two Regents—Light and Dark—stabilizes, their frequencies canceling out the destructive interference that threatened to tear the Archive apart. The Bicameral Regency is born. Yet, as the lattice of the Double Pulse settles into the Source, a faint, discordant hum vibrates from the deep sectors of the Archive—a ghost in the machine that your initial scan missed.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

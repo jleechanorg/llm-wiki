@@ -12,68 +12,82 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🗺️ Scene Index & Timeline
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Silvershield Annex | Eleasias 24, 1492 DR (21:20) | Roleplay |
-| **02** | Silvershield Annex | Eleasias 24, 1492 DR (21:25) | Roleplay |
-| **03** | Silvershield Annex | Eleasias 24, 1492 DR (21:35) | Social Challenge |
-| **04** | Silvershield Annex | Eleasias 24, 1492 DR (21:40) | Social Challenge |
-| **05** | Silvershield Annex (Main Hall) | Eleasias 24, 1492 DR (21:40) | Roleplay |
-| **06** | Silvershield Annex | Eleasias 24, 1492 DR (21:45) | Roleplay |
-| **07** | Gray Harbor | Eleasias 24, 1492 DR (22:00) | Social Challenge |
-| **08** | Gray Harbor | Eleasias 24, 1492 DR (22:15) | Social Challenge |
-| **09** | Gray Harbor to Silvershield Annex | Eleasias 24, 1492 DR (22:15) | Skill Check / Combat |
-| **10** | The Silvershield Annex | Eleasias 24, 1492 DR (22:30) | Boss Surrender |
-| **11** | The Silvershield Annex | Eleasias 24, 1492 DR (22:45) | Roleplay |
-| **12** | The Silvershield Annex Courtyard | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **13** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **14** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **15** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **16** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **17** | The Silvershield Annex | Eleasias 25, 1492 DR (07:00) | Roleplay |
-| **18** | The Silvershield Annex (War Room) | Eleasias 25, 1492 DR (08:30) | Social Challenge |
-| **19** | The Silvershield Annex - War Room | Day 25, 1492 Eleasias (08:45) | Social Challenge |
-| **20** | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:15) | Social Challenge |
-| **21** | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:30) | Boss Surrender |
-| **22** | The Silvershield Annex | Eleasias 25, 1492 DR (11:30) | Roleplay |
-| **23** | The Silvershield Annex | Eleasias 25, 1492 DR (12:00) | Roleplay |
-| **24** | The Silvershield Annex | Eleasias 26, 1492 DR (12:00) | Social Challenge |
-| **25** | The Silvershield Annex | Eleasias 29, 1492 DR (09:00) | Roleplay |
-| **26** | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Social Challenge |
-| **27** | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Roleplay |
-| **28** | The Low Lantern | Eleasias 29, 1492 DR (20:15) | Roleplay |
-| **29** | The Gray Harbor Wharf | Eleasias 29, 1492 DR (20:30) | Roleplay |
-| **30** | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:31) | Boss Surrender |
-| **31** | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
-| **32** | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
-| **33** | Little Calimshan Ghost-Warehouse | Eleasias 29, 1492 DR (20:35) | Roleplay |
-| **34** | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:45) | Social Challenge |
-| **35** | The Silvershield Annex | Eleasias 29, 1492 DR (20:45) | Roleplay |
-| **36** | The Silvershield Annex | Eleasias 29, 1492 DR (20:35) | Social Challenge |
-| **37** | The Silvershield Annex Cellar | Eleasias 29, 1492 DR (20:50) | Boss Surrender |
-| **38** | The Low Lantern / Silvershield Annex | Eleasias 29, 1492 DR (22:45) | Boss Surrender |
-| **39** | The Counting House (Vault Level) | Eleasias 29, 1492 DR (23:45) | Roleplay |
-| **40** | The Silvershield Annex | Eleasias 30, 1492 DR (00:15) | Roleplay |
-| **41** | The Silvershield Annex | Eleasias 30, 1492 DR (00:35) | Roleplay |
-| **42** | The Upper City | Eleasias 30, 1492 DR (00:55) | Roleplay |
-| **43** | Gray Harbor Customs House | Eleasias 31, 1492 DR (09:00) | Roleplay |
-| **44** | Gray Harbor Customs House | Eleasias 31, 1492 DR (14:00) | Social Challenge |
-| **45** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:15) | Roleplay |
-| **46** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
-| **47** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (15:15) | Roleplay |
-| **48** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
-| **49** | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
-| **50** | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
-| **51** | Silvershield Annex | Eleasias 31, 1492 DR (19:30) | Social Challenge |
-| **52** | Silvershield Annex | Eleint 1, 1492 DR (03:30) | Social Challenge |
+- [🗺️ Scene Index & Timeline (52 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Silvershield Annex | Eleasias 24, 1492 DR (21:20) | Roleplay |
+| [**Scene 02**](#scene-2) | Silvershield Annex | Eleasias 24, 1492 DR (21:25) | Roleplay |
+| [**Scene 03**](#scene-3) | Silvershield Annex | Eleasias 24, 1492 DR (21:35) | Social Challenge |
+| [**Scene 04**](#scene-4) | Silvershield Annex | Eleasias 24, 1492 DR (21:40) | Social Challenge |
+| [**Scene 05**](#scene-5) | Silvershield Annex (Main Hall) | Eleasias 24, 1492 DR (21:40) | Roleplay |
+| [**Scene 06**](#scene-6) | Silvershield Annex | Eleasias 24, 1492 DR (21:45) | Roleplay |
+| [**Scene 07**](#scene-7) | Gray Harbor | Eleasias 24, 1492 DR (22:00) | Social Challenge |
+| [**Scene 08**](#scene-8) | Gray Harbor | Eleasias 24, 1492 DR (22:15) | Social Challenge |
+| [**Scene 09**](#scene-9) | Gray Harbor to Silvershield Annex | Eleasias 24, 1492 DR (22:15) | Skill Check / Combat |
+| [**Scene 10**](#scene-10) | The Silvershield Annex | Eleasias 24, 1492 DR (22:30) | Boss Surrender |
+| [**Scene 11**](#scene-11) | The Silvershield Annex | Eleasias 24, 1492 DR (22:45) | Roleplay |
+| [**Scene 12**](#scene-12) | The Silvershield Annex Courtyard | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 13**](#scene-13) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 14**](#scene-14) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 15**](#scene-15) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 16**](#scene-16) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 17**](#scene-17) | The Silvershield Annex | Eleasias 25, 1492 DR (07:00) | Roleplay |
+| [**Scene 18**](#scene-18) | The Silvershield Annex (War Room) | Eleasias 25, 1492 DR (08:30) | Social Challenge |
+| [**Scene 19**](#scene-19) | The Silvershield Annex - War Room | Day 25, 1492 Eleasias (08:45) | Social Challenge |
+| [**Scene 20**](#scene-20) | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:15) | Social Challenge |
+| [**Scene 21**](#scene-21) | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:30) | Boss Surrender |
+| [**Scene 22**](#scene-22) | The Silvershield Annex | Eleasias 25, 1492 DR (11:30) | Roleplay |
+| [**Scene 23**](#scene-23) | The Silvershield Annex | Eleasias 25, 1492 DR (12:00) | Roleplay |
+| [**Scene 24**](#scene-24) | The Silvershield Annex | Eleasias 26, 1492 DR (12:00) | Social Challenge |
+| [**Scene 25**](#scene-25) | The Silvershield Annex | Eleasias 29, 1492 DR (09:00) | Roleplay |
+| [**Scene 26**](#scene-26) | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Social Challenge |
+| [**Scene 27**](#scene-27) | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Roleplay |
+| [**Scene 28**](#scene-28) | The Low Lantern | Eleasias 29, 1492 DR (20:15) | Roleplay |
+| [**Scene 29**](#scene-29) | The Gray Harbor Wharf | Eleasias 29, 1492 DR (20:30) | Roleplay |
+| [**Scene 30**](#scene-30) | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:31) | Boss Surrender |
+| [**Scene 31**](#scene-31) | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
+| [**Scene 32**](#scene-32) | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
+| [**Scene 33**](#scene-33) | Little Calimshan Ghost-Warehouse | Eleasias 29, 1492 DR (20:35) | Roleplay |
+| [**Scene 34**](#scene-34) | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:45) | Social Challenge |
+| [**Scene 35**](#scene-35) | The Silvershield Annex | Eleasias 29, 1492 DR (20:45) | Roleplay |
+| [**Scene 36**](#scene-36) | The Silvershield Annex | Eleasias 29, 1492 DR (20:35) | Social Challenge |
+| [**Scene 37**](#scene-37) | The Silvershield Annex Cellar | Eleasias 29, 1492 DR (20:50) | Boss Surrender |
+| [**Scene 38**](#scene-38) | The Low Lantern / Silvershield Annex | Eleasias 29, 1492 DR (22:45) | Boss Surrender |
+| [**Scene 39**](#scene-39) | The Counting House (Vault Level) | Eleasias 29, 1492 DR (23:45) | Roleplay |
+| [**Scene 40**](#scene-40) | The Silvershield Annex | Eleasias 30, 1492 DR (00:15) | Roleplay |
+| [**Scene 41**](#scene-41) | The Silvershield Annex | Eleasias 30, 1492 DR (00:35) | Roleplay |
+| [**Scene 42**](#scene-42) | The Upper City | Eleasias 30, 1492 DR (00:55) | Roleplay |
+| [**Scene 43**](#scene-43) | Gray Harbor Customs House | Eleasias 31, 1492 DR (09:00) | Roleplay |
+| [**Scene 44**](#scene-44) | Gray Harbor Customs House | Eleasias 31, 1492 DR (14:00) | Social Challenge |
+| [**Scene 45**](#scene-45) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:15) | Roleplay |
+| [**Scene 46**](#scene-46) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
+| [**Scene 47**](#scene-47) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (15:15) | Roleplay |
+| [**Scene 48**](#scene-48) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
+| [**Scene 49**](#scene-49) | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
+| [**Scene 50**](#scene-50) | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
+| [**Scene 51**](#scene-51) | Silvershield Annex | Eleasias 31, 1492 DR (19:30) | Social Challenge |
+| [**Scene 52**](#scene-52) | Silvershield Annex | Eleint 1, 1492 DR (03:30) | Social Challenge |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3338/6500 | Gold: 230gp** &nbsp;|&nbsp; ⚠️ **Biological Integration Penalty (-75% XP) | Exhaustion: 0 | Inspiration: Yes**
@@ -83,8 +97,11 @@ Intelligence Check: 3 vs DC 15 — Failed by 12 (Confused). Your Aethelgardian m
 > 👤 **Player:**
 > *"Explain he keeps his autonomy but alliance helps both of us and I’ve already established grain trade. I was attacked by an assassin and almost by zhentarim and I handled it fine but his other citizens may not, so aethelgard help couldn’t hurt. And we wouldn’t take over our trading partner. Plus we are elite and I’m actually the weakest of our warriors and i handled level 5 threat easily"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Silvershield Annex, Upper City** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3338/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 2/3, Inspiration: 3/3, Potions: 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -107,8 +124,11 @@ He steps into the center of the hall, the elite Flaming Fist veterans behind him
 > 👤 **Player:**
 > *"Shield of the helpless and explain my empire is powerful but not invincible. We would profit from more grain and can help stabilize city. We only sent me a small envoy since we have lots of other concerns. There’s no risk to baldurs gate autonomy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Silvershield Annex, Upper City** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3338/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 2/3 | Inspiration: 3/3 | Favor: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -134,8 +154,11 @@ You gain **25 XP** for the successful diplomatic pivot (Reduced by biological in
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shadow Ledger (Intelligence Sharing) - Offer to share the 'Vanguard's' intelligence on Zhentarim movements and Cadet Branch insurgents currently operating in the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Silvershield Annex, Upper City** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3376/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 2/3 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -161,8 +184,11 @@ You gain **38 XP** for the masterful intelligence trade (Adjusted for biological
 > 👤 **Player:**
 > *"THINK:What’s easiest thing to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Silvershield Annex (Main Hall)** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3376/6500 | Gold: 230gp** &nbsp;|&nbsp; ⚠️ **Biological Integration Penalty (-75% XP) | Exhaustion: 0 | Inspiration: Yes**
@@ -172,8 +198,11 @@ Intelligence Check: 20 vs DC 15 — Success. Your methodical mind (INT 14) slice
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Intelligence Raid (Easiest) - Offer to lead Ravengard's own elite guard to a secondary Zhentarim node identified in the Shadow Ledger immediately. Use Kaelen as the 'tactical advisor.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3376/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 2/3 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -191,8 +220,11 @@ The negotiation yields to the mechanical precision of a strike team. You feel th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Tactical Oversight - Accompany the raid personally to ensure the 'biological superiority' of Aethelgard is visible to Ravengard's men.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Gray Harbor, Warehouse 7** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3414/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 2/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 3/3**
@@ -224,8 +256,11 @@ You gain **38 XP** for the tactical success.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Stasis (Hold Person) - Use your biological frequency to paralyze the Zhentarim leader before Ravengard, demonstrating effortless control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Gray Harbor, Warehouse 7** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3464/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 1/3, Inspiration: 3/3, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/3**
@@ -255,8 +290,11 @@ He looks down at the black ledger Lara clutches, then back at the frozen quarter
 > 👤 **Player:**
 > *"have someone keep tailing grog mar, assess prisoners to see if any breeders, then do this Return to the Silvershield Annex: Escort Duke Ravengard back to your safehouse to finalize and sign the Joint Defense Pact in absolute security."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Gray Harbor to Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3739/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -287,8 +325,11 @@ You gain **150 XP** for the tactical demonstration and successful prisoner asses
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Blood of Aethelgard (Intimidation) - Prick your finger and seal the document with a drop of your silver-threaded blood, claiming it creates a biological link to the Emperor's will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald (Bard) | HP: 29/29 | XP: 3839/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -322,8 +363,11 @@ You gain **100 XP** for successfully sealing the Joint Defense Pact and concludi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify the Annex Gates - Instruct Kaelen to coordinate with Ravengard's remaining elite guard to fortify the Annex entryways against the impending Zhentarim cleanup crew.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -339,8 +383,11 @@ Kaelen (Lvl 4) steps into the rain, his single eye burning with cold, profession
 > 👤 **Player:**
 > *"Funnel cleanup crew into courtyard, orchestratrate flank, try to trigger surprise round and cast command grovel on two strongest enemies to try to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 0/3 | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -358,8 +405,11 @@ The command is an absolute physical weight. Both Enforcers freeze mid-stride, th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Absolute Surrender - Step into the light of the torches and use the absolute terror of the paralyzed leaders to force the remaining four thugs to drop their weapons immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 0/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -381,8 +431,11 @@ Cons: May kill the targets instantly, preventing interrogation or genetic screen
 
 Try to keep the leader alive, and command grovel two most important ones again*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Saita (Lvl 4 Ascendant Herald) | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 2/4, L2 0/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -401,8 +454,11 @@ The two wounded mercenaries stagger back, their cries drowned out by the thunder
 > 👤 **Player:**
 > *"flank and execute, command grovel two top ranking, keep fighting until they surrender and tie them up. try to capture leaders alive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4082/6500 | Gold: 326gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 1/4, L2 0/3, BI: 3/3, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -423,8 +479,11 @@ Seeing their vanguard executed and their massive leaders paralyzed in the mire, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Annex Fortifications - Coordinate with Duke Ravengard's (Lvl 16) remaining Fist guards to repair the broken gates and establish permanent defensive patrols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald (Bard) | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -448,8 +507,11 @@ Seeing their vanguard executed and their massive leaders paralyzed in the mire, 
 > 👤 **Player:**
 > *"Long rest and delegate everything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -467,8 +529,11 @@ Your fortress is secure, the treaty is signed, and the dawn belongs to Aethelgar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Grain Logistics - Meet with Duke Ulder Ravengard to draft the specific transport routes, secure the grain silos, and fulfill the monthly imperial quota.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Silvershield Annex (War Room)** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Facade: 10/10** &nbsp;|&nbsp; ⚠️ **Sanctuary (Expires Turn 54) | Exhaustion: 0 | Inspiration: Yes**
@@ -499,8 +564,11 @@ You gain **75 XP** for securing the grain logistics and fulfilling the quota.
 > 👤 **Player:**
 > *"Imperial rebuke and delegate interrogation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Day 25, 1492 Eleasias (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -535,8 +603,11 @@ Kaelen nods, his single eye reflecting the cold light of the room. "As you decre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Imperial Confrontation - Travel personally to the North Pier to publicly rebuke and 'recalibrate' the Viper, demonstrating absolute authority to the rioting merchants.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Gray Harbor North Pier** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Auctoritas Active | Exhaustion: 0 | Inspiration: Yes**
@@ -562,8 +633,11 @@ You gain **38 XP** for the successful public correction (Adjusted for biological
 > 👤 **Player:**
 > *"Oversee restitution and evaluate viper to see if he’ll listen to orders in the future or not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Gray Harbor North Pier** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4345/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **Bardic Inspiration: 3/3, Spells: L1 4/4, L2 3/3, HD: 4/4, Inspiration: No**
@@ -590,8 +664,11 @@ You turn your back on him, the silence of your departure a louder decree than an
 > 👤 **Player:**
 > *"Capture the viper and interrogate him to learn his infrastructure and then go finalize things with the duke and get use of his troops and stuff."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4457/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -615,8 +692,11 @@ You gain **112 XP** (Adjusted for biological integration bottleneck) for the int
 > 👤 **Player:**
 > *"Finish interrogating viper and then take over his holdings and network. Utilize my fist recruits and also delegate trade and transport of breeding material back to athelguard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4532/6500 | Gold: 621gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 3/3 | Auctoritas: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -634,8 +714,11 @@ Baldur's Gate is beginning to feel the weight of your shadow. The Viper's networ
 > 👤 **Player:**
 > *"Velvet indivitation and delegate everything else. Let’s assume my staff runs things autonomously and only alert me when there’s problems. Also recount my forces and daily gold income and don’t forget to award it every day"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 26, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4532/6500 | Gold: 651gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -670,8 +753,11 @@ You feel the steady pulse of your growing infrastructure. By consolidating the V
 > 👤 **Player:**
 > *"Time skip until Keene responds and use invis to scout the zhentarim. See if I can take over the local cell and prove to zhent regional leadership I should rule. Have my scouts or spies asssist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4532/6500 | Gold: 741gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 0/3, BI: 3/3** &nbsp;|&nbsp; ⚠️ **Invisible (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -692,8 +778,11 @@ Upon your return to the Annex, a 'Dove' from the Undercity awaited you. Nine-Fin
 > 👤 **Player:**
 > *"Meet with Keene. Offer alliance against her zhent enemies. Explain the leverage I have over zhent and ask for her forces to help. After I take over I’ll trade with her and give her some earnings from zhent holdings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Low Lantern, Gray Harbor** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4657/6500 | Gold: 831gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0**
@@ -721,8 +810,11 @@ You gain **125 XP** for the masterful strategic leverage (Adjusted for biologica
 God Mode:
 Keene shouldn’t be level 18. Make most people max level 12 like in bg3 and the main characters from the game can level up a bit as time goes on like the main playable characters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Low Lantern** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 29/29 | XP: 4657/6500 | Gold: 831gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -732,8 +824,11 @@ Administrative recalibration complete. Nine-Fingers Keene has been adjusted to L
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the negotiation with Nine-Fingers Keene aboard the Low Lantern now that the character levels have been corrected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Low Lantern, Gray Harbor** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4657/6500 | Gold: 831gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -766,8 +861,11 @@ As the terms hang in the salt-heavy air, a muffled commotion rises from the deck
 > 👤 **Player:**
 > *"Bring doves early and ambush auditor and try to hold person on him and trigger surprise round. Use bardic inspiration and every buff I can. Invite Keene on the attack too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Gray Harbor Wharf** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4798/6500 | Gold: 831gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | Bardic Inspiration: 2/3 | net +30gp/day** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -793,8 +891,11 @@ You gain **94 XP** for the successful tactical escalation and securing Keene's d
 > 👤 **Player:**
 > *"Bind Vanis and any officers and kill the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Little Calimshan Warehouse** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 7348/14000 | Gold: 1371gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | Bardic Inspiration: 2/3 | Net Daily Income: +30gp** &nbsp;|&nbsp; ⚠️ **Concentrating (Hold Person) | Exhaustion: 0 | Inspiration: Yes**
@@ -827,8 +928,11 @@ You gain **2,550 XP** for the total takeover of the Zhentarim cell and the Audit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 5 - Open level 5 Ascendant Herald (Bard) choices; keep story paused until the finish response completes*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 (Lvl 5 available) | HP: 29/29 | Gold: 1371gp | XP: 7348/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 (Lvl 5 pending) | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -838,8 +942,11 @@ A sudden, violent surge of kinetic energy ripples through your marrow, the silve
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frequency: Resonant Trance (Hypnotic Pattern) - Create a swirling pattern of imperial light that locks the nervous systems of mayflies. (L3 Spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 (Lvl 5 available) Ascendant Herald (Bard) | HP: 29/29 | Gold: 1371gp | XP: 7348/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -849,8 +956,11 @@ The sub-vocal harmonics of your Auctoritas shift as the silver threads in your b
 > 👤 **Player:**
 > *"Auto pick everything  else and tell me what I get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Little Calimshan Ghost-Warehouse** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 5 available) Ascendant Herald | HP: 35/35 | Gold: 1,416gp | XP: 7348/6500** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Auctoritas: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -867,8 +977,11 @@ Neural Audit (Interrogation): Use your newly expanded Auctoritas to peel back Va
 
 delegate everything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Little Calimshan Warehouse** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 5 available) Ascendant Herald | HP: 41/41 | Gold: 1416gp | XP: 7423/6500** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration (d8): 5/5 | Exhaustion: 0**
@@ -894,8 +1007,11 @@ You gain **75 XP** for the successful Neural Audit (Adjusted for biological bott
 God Mode:
 finish my level 5 level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7423/14000 | Gold: 1416gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -915,8 +1031,11 @@ All administrative level-up flags have been cleared. The character is now fully 
 > 👤 **Player:**
 > *"CHOICE:godreturn_story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7423/14000 | Gold: 1416gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -941,8 +1060,11 @@ In the cellar, Korth Vanis (Lvl 8) remains bound in imperial stone, his eyes wid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Neural Audit - Push through Vanis's remaining mental barricades to secure the precise Athkatla banking seals immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Silvershield Annex Cellar** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7423/14000 | Gold: 1416gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -968,8 +1090,11 @@ You gain **150 XP** for the finalization of the Neural Audit and the total subve
 > 👤 **Player:**
 > *"go meet with keene, finalize terms of alliance, negotiate favorable trade deals with thieves guild, send a message to zhent high command and justify my takeover and ask them to validate it, delegate everything else and send an elite team ahead to scout the bank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Low Lantern / Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7673/13000 | Gold: 1446gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5, Font: Short Rest** &nbsp;|&nbsp; ⚠️ **Auctoritas Active | Exhaustion: 0 | Inspiration: Yes**
@@ -1005,8 +1130,11 @@ You gain **100 XP** for the masterful trade negotiation and successful bank reco
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pincer Audit (Synergistic) - Direct the Guild Doves to fortify the Annex while you personally lead Kaelen to the Counting House - leverage the Guild distraction to hit the bank while the Zhentarim focus on your safehouse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Counting House (Vault Level)** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7773/14000 | Gold: 1446gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1036,8 +1164,11 @@ You gain **100 XP** for the masterful synergistic heist.
 > 👤 **Player:**
 > *"Keep the gold on me and counter ambush zhentarim at tjhe annex and try to trigger surprise round by using invis and then hypnotic pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7773/14000 | Gold: 6,946gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Auctoritas: d8 | Rage: N/A** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1065,8 +1196,11 @@ Victory! You gain **150 XP** for the successful counter-ambush and total incapac
 > 👤 **Player:**
 > *"bind them all, fully loot, interrogate, asses for breeding"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8373/14000 | Gold: 9,746gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Auctoritas: 5/5 | Net Daily: +30gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 5/5**
@@ -1092,8 +1226,11 @@ You gain **450 XP** for the total neutralization of the Erasure Team and the sec
 > 👤 **Player:**
 > *"raid safe box, i am allied with the duke so watch should be fine, delegate the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Upper City, High Hall District** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8373/14000 | Gold: 12,246gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Inspiration: 5/5 (d8) | Exhaustion: 0**
@@ -1111,8 +1248,11 @@ You gain **150 XP** for the successful raid and tactical liquidation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Harbor Monopoly - Use the secured funds and Guild alliance to seize the remaining independent docks, finalizing total control of Baldur's Gate's trade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Gray Harbor Customs House** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8757/14000 | Gold: 11,436gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1134,8 +1274,11 @@ By the time the harbor bells toll for the ninth hour, the monopoly is absolute. 
 > 👤 **Player:**
 > *"interrogate the eraser, delegate the rest, have someone scout to find me gear upgrades especially +cha and +spell dc/atk, and scout to find 10 level 5 gloomstalkers and 10 level 3 gloomstalkers we can hire/recruit/draft into aethelguard and maybe pay less but give them official position, and see how many footsoldiers and normal staff we can hire to build up the apex"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Gray Harbor Customs House** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8757/14000 | Gold: 11,436gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1173,8 +1316,11 @@ Cons: Delays gear acquisition, High resource expenditure for continuous vigilanc
 
 mobilize reinforcements from flaming fist and guild too to help. try to use invis and hyp pattern to trigger surprise round when zhent phase in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8757/14000 | Gold: 11,036gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Bardic Inspiration: 3/5 | Aethelgard Command: Ready** &nbsp;|&nbsp; ⚠️ **Invisibility (Concentrating) | Exhaustion: 0 | Inspiration: Yes**
@@ -1196,8 +1342,11 @@ Across the city, your spy returns from the High Hall, a heavy purse of 100 gold 
 > 👤 **Player:**
 > *"tie up zhent, fully loot them, have one of my gloomstalkers blackmail patriar for that gear we found, hae someone else go shopping for gear for me, equip anything useful, then do this The Sovereign's Judgment (Diplomacy): Summon Duke Ravengard and Nine-Fingers Keene to the Annex immediately to witness the 'unrivaled' defense of the Aethelgard Herald."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9407/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3, L3 1/2 | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1217,8 +1366,11 @@ Ravengard (Lvl 14) stares at the captured Xalthar, his one good eye wide with a 
 > 👤 **Player:**
 > *"subtly imply to ravenguard and keene that my force is still "small" compared to aethelguard might and I'm the "weakest" of my noble line, to further build up our reputation, then after they leave interrogate xalthar and process prioners for genetic material and ship them back if anyone eligible and ensure everyone else we captured shipped back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9454/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Bardic: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Imperial Bluff (Temp HP) | Exhaustion: 0 | Inspiration: Yes**
@@ -1248,8 +1400,11 @@ Dismissing the failure with a sharp, clinical exhale, you turn to Lara Vance (Lv
 God Mode:
 make sure my equipment shows the spell dc and double check it. it says 16 but i think is hould be 18 or 17 after i got the spell dc gear? also cha should be raised if i got that gear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9454/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3, L3 1/2 | Bardic Inspiration: 3/3 | Exhaustion: 0**
@@ -1276,8 +1431,11 @@ I have updated your `attributes` and `equipment` metadata in the state to reflec
 > 👤 **Player:**
 > *"i use intimidation with bardic insp and buffs to keep interrogating xalathor and in parallel i send a message to aethelguard explaining our success and asking for new orders. i suggest bringing some military strength here to bolster our presence to continue to receive gold/grain/trade. in parallel i have my spies assess how the other scions are doing and see if I'm doing the best and providing the most resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9554/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Auctoritas: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1305,8 +1463,11 @@ You gain **100 XP** for the successful interrogation progress (Adjusted for biol
 God Mode:
 ok lets space out these zhent attacks, once per week max maybe. Also they can't have unlimited soldiers/troops i've killed so many and even beat a level 9, there should be a more realistic response and perhaps they might agree to let me act as a zhent ally provided i pay them some proceeds etc, not guaranteed, but it shouldnt just be mindless more threats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9454/14000 | Gold: 11,316gp**
@@ -1323,8 +1484,11 @@ Administrative recalibration complete. The following directives have been applie
 
 then send my spies/gloomstalkers as envoys to darkhold and ask for a meeting on neutral ground, explain it can be more profitable to trade and act as a zhent overseer in baldurs gate and i have the backing of the empire, guild, and fist, and patriars under control, so i wont be easily beaten"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9454/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 1/3, L3 1/2, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1356,8 +1520,11 @@ You gain **75 XP** for the successful religious indoctrination and securing the 
 > 👤 **Player:**
 > *"Assess my faction forces and prep for summit. Delegate the rest and also long rest. Keep interrogating Xalathar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9529/14000 | Gold: 11,416gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Long Rested | Exhaustion: 0 | Inspiration: Yes**
@@ -1378,6 +1545,8 @@ Your treasury has swelled by **100 gold pieces** from the day's dockside revenue
 > Resistance Shown: "You have the location, Herald... but you don't have the key. The weavers will see you coming before you even reach the gates."
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

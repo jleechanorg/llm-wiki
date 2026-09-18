@@ -12,6 +12,18 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🗺️ Scene Index & Timeline (230 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -45,6 +57,7 @@ This is your first major deployment as a newly-sworn knight in the “Argent Eag
 **Starting Abilities:**
 You begin with Level 1 Paladin abilities: Divine Sense and Lay on Hands. Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power.
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -95,246 +108,251 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Winter-Mourn Province | Kythorn 15, 40 A.G. (08:00) | Roleplay |
-| **02** | Winter-Mourn Province | Kythorn 2, 11 New Peace (08:00) | Roleplay |
-| **03** | Winter-Mourn Province - Ridge Overlooking Ashwood Settlement | Kythorn Day 2, 11 New Peace (12:00) | Roleplay |
-| **04** | Winter-Mourn Ridge | Kythorn Day 2, 11 New Peace (12:05) | Roleplay |
-| **05** | Winter-Mourn Ridge | Kythorn 2, 1492 DR (12:05) | Roleplay |
-| **06** | Refugee Camp Perimeter | Kythorn 2, 1492 DR (12:15) | Roleplay |
-| **07** | Refugee Camp Center | Kythorn 2, 1492 DR (12:20) | Roleplay |
-| **08** | Refugee Camp Center | Kythorn Day 2, 11 New Peace (12:25) | Roleplay |
-| **09** | Refugee Camp Center | Kythorn 2, 11 DR (12:35) | Roleplay |
-| **10** | Refugee Camp Center | Kythorn 2, 11 DR (12:45) | Roleplay |
-| **11** | Refugee Camp Center | Kythorn 2, 11 DR (13:05) | Roleplay |
-| **12** | Refugee Camp Center | Kythorn 2, 11 DR (13:10) | Roleplay |
-| **13** | Refugee Camp | Kythorn Day 2, 11 New Peace (13:10) | Roleplay |
-| **14** | Refugee Camp Center | Kythorn 2, 11 DR (13:15) | Roleplay |
-| **15** | Refugee Camp Center | Kythorn 2, 11 DR (13:20) | Roleplay |
-| **16** | Refugee Camp Center | Kythorn 2, 11 DR (13:25) | Roleplay |
-| **17** | Refugee Camp Center | Kythorn 2, 11 DR (13:35) | Roleplay |
-| **18** | Refugee Camp Center | Kythorn 2, 11 DR (13:40) | Roleplay |
-| **19** | Refugee Camp Center | Kythorn 2, 11 DR (13:55) | Roleplay |
-| **20** | Refugee Camp Center | Kythorn 2, 11 DR (14:10) | Roleplay |
-| **21** | Refugee Camp Center | Kythorn Day 2, 11 New Peace (14:15) | Roleplay |
-| **22** | Refugee Camp Center | Kythorn 2, 11 New Peace (14:15) | Roleplay |
-| **23** | Refugee Camp Center | Kythorn 2, 11 DR (14:15) | Roleplay |
-| **24** | Refugee Camp Center | Kythorn 2, 11 DR (14:10) | Roleplay |
-| **25** | Refugee Camp Center | Kythorn 2, 11 DR (14:25) | Roleplay |
-| **26** | Command Tent | Kythorn 2, 11 DR (14:45) | Roleplay |
-| **27** | Command Tent | Kythorn 2, 11 DR (14:50) | Roleplay |
-| **28** | Command Tent | Kythorn 2, 11 DR (14:55) | Roleplay |
-| **29** | Command Tent | Kythorn 2, 11 DR (14:55) | Roleplay |
-| **30** | Command Tent | Kythorn 2, 11 DR (15:10) | Roleplay |
-| **31** | Command Tent Perimeter | Kythorn 2, 11 DR (15:25) | Roleplay |
-| **32** | Command Tent Perimeter | Kythorn 2, 11 DR (15:35) | Roleplay |
-| **33** | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (16:45) | Roleplay |
-| **34** | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:05) | Roleplay |
-| **35** | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:10) | Roleplay |
-| **36** | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:06) | Roleplay |
-| **37** | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:15) | Roleplay |
-| **38** | Winter-Mourn Ridge Slopes (Treeline Approach) | Kythorn 2, 11 DR (17:30) | Roleplay |
-| **39** | Winter-Mourn Ridge Slopes (Treeline Approach) | Kythorn Day 2, 11 New Peace (17:35) | Roleplay |
-| **40** | Winter-Mourn Ridge Slopes (Treeline Approach) | Kythorn 2, 11 DR (17:35) | Roleplay |
-| **41** | Winter-Mourn Ridge (Treeline Approach) | Kythorn Day 2, 11 New Peace (17:45) | Roleplay |
-| **42** | Winter-Mourn Ridge (Treeline Approach) | Kythorn 2, 11 DR (18:30) | Roleplay |
-| **43** | Winter-Mourn Ridge (Deep Treeline) | Kythorn 2, 11 DR (18:45) | Roleplay |
-| **44** | Winter-Mourn Ridge (Deep Treeline - Hidden Shrine Approach) | Kythorn 2, 11 DR (20:15) | Roleplay |
-| **45** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (21:15) | Roleplay |
-| **46** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, Year 11 (Night) | Roleplay |
-| **47** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (21:20) | Roleplay |
-| **48** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (21:45) | Roleplay |
-| **49** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (22:00) | Roleplay |
-| **50** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (22:15) | Roleplay |
-| **51** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 New Peace (22:20) | Roleplay |
-| **52** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn Day 2, 11 New Peace (22:25) | Roleplay |
-| **53** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (22:30) | Roleplay |
-| **54** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 New Peace (23:45) | Roleplay |
-| **55** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (23:15) | Roleplay |
-| **56** | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (23:45) | Roleplay |
-| **57** | Ice-Fall Tunnel (Western Ridge) | Kythorn 3, 11 DR (01:15) | Roleplay |
-| **58** | Ice-Fall Tunnel (Western Ridge) | Kythorn 3, 11 DR (02:30) | Roleplay |
-| **59** | Ice-Fall Tunnel (Western Ridge) | Kythorn 3, 11 DR (03:15) | Roleplay |
-| **60** | Ashwood Keep (Lower Cellars) | Kythorn 3, 11 DR (04:30) | Roleplay |
-| **61** | Ashwood Keep (Lower Cellars) | Kythorn 3, 11 DR (05:45) | Roleplay |
-| **62** | Ashwood Keep (Lower Cellars) | Kythorn 3, 11 DR (05:55) | Roleplay |
-| **63** | Ashwood Keep (The Solar Approach) | Kythorn 3, 11 DR (07:15) | Roleplay |
-| **64** | Ashwood Keep (The Solar Approach) | Kythorn 3, 11 DR (08:30) | Roleplay |
-| **65** | Ashwood Keep (The Solar) | Kythorn 3, 11 DR (08:45) | Roleplay |
-| **66** | Ashwood Keep (The Solar) | Kythorn 3, 11 DR (09:15) | Roleplay |
-| **67** | Ashwood Keep (The Solar) | Kythorn 3, 11 DR (09:30) | Roleplay |
-| **68** | Ashwood Keep | Kythorn 3, 11 DR (10:15) | Roleplay |
-| **69** | Ashwood Keep - Solar | Kythorn 3, 11 New Peace (10:15 (Morning)) | Roleplay |
-| **70** | Solar of Ashwood Keep | Kythorn 3, 11 DR (11:30) | Roleplay |
-| **71** | Ashwood Keep - Sally Port | Kythorn 3, 11 DR (12:15) | Roleplay |
-| **72** | Mountain Fissure - Ice-Fall Approach | Kythorn 3, 11 DR (12:45) | Roleplay |
-| **73** | Mountain Fissure - Ice-Fall Approach | Kythorn 3, 11 DR (13:15) | Roleplay |
-| **74** | Mountain Fissure - Ice-Fall Approach | Kythorn 3, 11 DR (13:20) | Roleplay |
-| **75** | Mountain Fissure - Ice-Fall Tunnel Entrance | Day 3, Year 11 Kythorn (13:25) | Roleplay |
-| **76** | Mountain Fissure - Ice-Fall Tunnel Entrance | Kythorn 3, 11 New Peace (14:30) | Roleplay |
-| **77** | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, Year 11 (14:40) | Roleplay |
-| **78** | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 1492 DR (14:40) | Roleplay |
-| **79** | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (14:45) | Roleplay |
-| **80** | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (14:45) | Roleplay |
-| **81** | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (15:45) | Roleplay |
-| **82** | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (16:15) | Roleplay |
-| **83** | Mountain Fissure - Ice-Fall Tunnel | Kythorn Day 3, 11 New Peace (16:15) | Roleplay |
-| **84** | Mountain Fissure - Ice-Fall Tunnel | Kythorn Day 3, 11 New Peace (Afternoon) | Roleplay |
-| **85** | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 New Peace (17:15) | Roleplay |
-| **86** | Imperial Refugee Camp - High-Security Perimeter | Kythorn 2, 11 DR (01:10 (Night)) | Roleplay |
-| **87** | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (01:15) | Roleplay |
-| **88** | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (01:25) | Roleplay |
-| **89** | Imperial Refugee Camp - Central | Kythorn 1, 11 DR (01:45) | Roleplay |
-| **90** | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (02:15) | Roleplay |
-| **91** | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (02:20) | Roleplay |
-| **92** | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (02:45) | Roleplay |
-| **93** | Imperial Refugee Camp - Command Center | Kythorn 1, 11 DR (02:50) | Roleplay |
-| **94** | Ice-Fall Tunnel - Entrance | Kythorn 1, 11 DR (03:05) | Roleplay |
-| **95** | Ice-Fall Tunnel - Entrance | Kythorn 1, 11 DR (03:15) | Roleplay |
-| **96** | Ice-Fall Tunnel - Deep Interior | Kythorn 1, 11 DR (04:00) | Roleplay |
-| **97** | Ice-Fall Tunnel - Deep Interior | Kythorn 1, 11 DR (04:05) | Roleplay |
-| **98** | Ice-Fall Tunnel - Deep Interior | Kythorn 1, 11 DR (04:35) | Roleplay |
-| **99** | Ice-Fall Tunnel - Iron Grate | Kythorn 1, 11 DR (05:05) | Roleplay |
-| **100** | Ashwood Keep - Solar | Kythorn 1, 11 DR (05:30) | Roleplay |
-| **101** | Ashwood Keep - Solar | Kythorn 1, 11 New Peace (05:45) | Roleplay |
-| **102** | Ashwood Keep - Solar | Kythorn 1, 11 DR (05:45) | Roleplay |
-| **103** | Unknown |  | Roleplay |
-| **104** | Ashwood Keep - Solar | Day 1, 11 Kythorn (05:45) | Roleplay |
-| **105** | Ashwood Keep - Solar | Year 11, 11 Kythorn (05:45) | Roleplay |
-| **106** | Ashwood Keep - Solar | Kythorn 1, 11 DR (06:15) | Roleplay |
-| **107** | Ashwood Keep - Solar | Kythorn 1, 1492 DR (06:15) | Roleplay |
-| **108** | Ashwood Keep - Hidden Quarters | Day 1, 11 Kythorn (07:15) | Roleplay |
-| **109** | Ashwood Keep - The Solar | Kythorn 1, 11 DR (08:30) | Roleplay |
-| **110** | Ashwood Keep - The Solar | Kythorn 1, 11 DR (08:35) | Roleplay |
-| **111** | Ashwood Keep - The Solar | Day 1, 11 Kythorn (08:35) | Roleplay |
-| **112** | Ashwood Keep - The Solar | Kythorn 1, 11 DR (08:35) | Roleplay |
-| **113** | Ashwood Keep - The Solar | Kythorn 1, 11 DR (10:45) | Roleplay |
-| **114** | Ashwood Keep - The Solar | Kythorn 1, 11 Assiah (11:30) | Roleplay |
-| **115** | Ashwood Keep - The Solar | Kythorn 1, 11 A.G. (11:35) | Roleplay |
-| **116** | Ashwood Keep - The Solar | Kythorn 1, 11 DR (11:35) | Roleplay |
-| **117** | Ashwood Keep - The Solar | Year 11, 11 Kythorn (11:30) | Roleplay |
-| **118** | Ashwood Keep - The Solar | Kythorn 1, 11 DR (11:30) | Roleplay |
-| **119** | Ashwood Keep - The Solar | 11 Kythorn, Morning | Roleplay |
-| **120** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
-| **121** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:35) | Roleplay |
-| **122** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
-| **123** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
-| **124** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
-| **125** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
-| **126** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:50) | Roleplay |
-| **127** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:50) | Roleplay |
-| **128** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (12:30) | Roleplay |
-| **129** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (12:45) | Roleplay |
-| **130** | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (Midday) | Roleplay |
-| **131** | Ashwood Keep - The Solar | Kythorn 2, 1492 DR (08:30) | Roleplay |
-| **132** | Ashwood Keep - The Solar | Kythorn 2, 1492 DR (08:30) | Roleplay |
-| **133** | Frost-Spur Slopes | Kythorn 2, 1492 DR (09:30) | Roleplay |
-| **134** | Frost-Spur Slopes (Frozen) | 1492 Kythorn 2, 09:30 | Roleplay |
-| **135** | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:00) | Roleplay |
-| **136** | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:00) | Roleplay |
-| **137** | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:00) | Roleplay |
-| **138** | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:15) | Roleplay |
-| **139** | Frost-Spur Slopes | Kythorn 2, 1492 DR (11:30) | Roleplay |
-| **140** | Ridge Hold Perimeter | Kythorn 2, 1492 DR (12:30) | Roleplay |
-| **141** | Ridge Hold Perimeter | Kythorn 2, 1492 DR (Midday) | Roleplay |
-| **142** | Ridge Hold Perimeter | Kythorn 2, 1492 DR (12:45) | Roleplay |
-| **143** | Ridge Hold Perimeter | Kythorn 2, 1492 DR (13:00) | Boss Surrender |
-| **144** | Ridge Hold Perimeter | Kythorn 2, 1492 DR (13:45) | Roleplay |
-| **145** | Ridge Hold Perimeter | Kythorn 2, 1492 DR (13:35 (Midday)) | Roleplay |
-| **146** | Ridge Hold Perimeter | Kythorn 2, 1492 DR (14:10) | Roleplay |
-| **147** | Ridge Hold Perimeter / Southern Pass | Kythorn 2, 1492 DR (14:15) | Roleplay |
-| **148** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (16:45) | Roleplay |
-| **149** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (17:00) | Roleplay |
-| **150** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (17:55) | Roleplay |
-| **151** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (17:55) | Roleplay |
-| **152** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:15) | Roleplay |
-| **153** | Southern Pass (Kill Box) | Kythorn 2, 1492 DR (18:20 (Evening)) | Roleplay |
-| **154** | Southern Pass (Canyon Throat) | Kythorn 2, 1492 DR (18:30) | Roleplay |
-| **155** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **156** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **157** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **158** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (Evening) | Roleplay |
-| **159** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **160** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (Midday) | Roleplay |
-| **161** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **162** | Southern Pass (Ambush Site) | Kythorn Day 2, Year 11 New Peace (18:35) | Roleplay |
-| **163** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **164** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **165** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **166** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (Evening) | Roleplay |
-| **167** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
-| **168** | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:45) | Roleplay |
-| **169** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (20:30) | Roleplay |
-| **170** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:00) | Roleplay |
-| **171** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:05) | Roleplay |
-| **172** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:35) | Roleplay |
-| **173** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:40) | Roleplay |
-| **174** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:15) | Roleplay |
-| **175** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:30) | Roleplay |
-| **176** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:35) | Roleplay |
-| **177** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:45) | Roleplay |
-| **178** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (23:15) | Roleplay |
-| **179** | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (23:30) | Roleplay |
-| **180** | Azure Peak Trail (Ascending) | Kythorn 3, 1492 DR (08:00) | Roleplay |
-| **181** | Azure Peak Trail | Kythorn 3, 1492 DR (08:00) | Roleplay |
-| **182** | Azure Peak Trail | Kythorn 4, 1492 DR (10:00) | Roleplay |
-| **183** | Azure Peak Trail | Kythorn 5, 1492 DR (08:00) | Roleplay |
-| **184** | Azure Peak Trail | Kythorn 5, 1492 DR (08:30) | Roleplay |
-| **185** | Azure Peak Trail | Kythorn 5, 1492 DR (09:30) | Roleplay |
-| **186** | Azure Peak Trail | Kythorn 5, 1492 DR (10:15) | Roleplay |
-| **187** | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (10:45) | Roleplay |
-| **188** | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (11:30) | Roleplay |
-| **189** | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (12:45) | Roleplay |
-| **190** | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (12:50) | Roleplay |
-| **191** | Azure Peak Outposts #2 & #3 | Kythorn 5, 1492 DR (13:30) | Roleplay |
-| **192** | Outpost #3 | Kythorn 5, 1492 DR (14:15) | Roleplay |
-| **193** | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (14:00) | Roleplay |
-| **194** | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (15:15) | Roleplay |
-| **195** | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (16:30) | Roleplay |
-| **196** | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (17:00) | Roleplay |
-| **197** | Azure Peak - Cloisters Exterior | Kythorn 5, 1492 DR (17:30) | Roleplay |
-| **198** | Azure Peak - Upper Cloisters | Kythorn 5, 1492 DR (18:30) | Roleplay |
-| **199** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (20:45) | Roleplay |
-| **200** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (18:45) | Roleplay |
-| **201** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (20:30) | Roleplay |
-| **202** | Azure Peak - Central Spire (Pioneer Hub) | Kythorn 5, 1492 DR (20:45) | Roleplay |
-| **203** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:00) | Roleplay |
-| **204** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:00) | Roleplay |
-| **205** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:15) | Roleplay |
-| **206** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:30) | Roleplay |
-| **207** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:45) | Roleplay |
-| **208** | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:55) | Roleplay |
-| **209** | Azure Peak - Whispering Gate | Kythorn 5, 1492 DR (22:30) | Roleplay |
-| **210** | Black Salt Flats - Threshold | Kythorn 5, 1492 DR (23:15) | Roleplay |
-| **211** | Black Salt Flats - Threshold | Kythorn 5, 1492 DR (23:45) | Roleplay |
-| **212** | The Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:30) | Roleplay |
-| **213** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:45) | Roleplay |
-| **214** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:35) | Roleplay |
-| **215** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:30) | Roleplay |
-| **216** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:30) | Roleplay |
-| **217** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:35 (Deep Night)) | Roleplay |
-| **218** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:35) | Roleplay |
-| **219** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:40) | Roleplay |
-| **220** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (03:15) | Roleplay |
-| **221** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (03:45) | Roleplay |
-| **222** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:05) | Roleplay |
-| **223** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:25) | Roleplay |
-| **224** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:25) | Roleplay |
-| **225** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:35) | Roleplay |
-| **226** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:45) | Roleplay |
-| **227** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:00) | Roleplay |
-| **228** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:15) | Roleplay |
-| **229** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:30) | Roleplay |
-| **230** | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:40) | Roleplay |
+| [**Scene 01**](#scene-1) | Winter-Mourn Province | Kythorn 15, 40 A.G. (08:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Winter-Mourn Province | Kythorn 2, 11 New Peace (08:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Winter-Mourn Province - Ridge Overlooking Ashwood Settlement | Kythorn Day 2, 11 New Peace (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Winter-Mourn Ridge | Kythorn Day 2, 11 New Peace (12:05) | Roleplay |
+| [**Scene 05**](#scene-5) | Winter-Mourn Ridge | Kythorn 2, 1492 DR (12:05) | Roleplay |
+| [**Scene 06**](#scene-6) | Refugee Camp Perimeter | Kythorn 2, 1492 DR (12:15) | Roleplay |
+| [**Scene 07**](#scene-7) | Refugee Camp Center | Kythorn 2, 1492 DR (12:20) | Roleplay |
+| [**Scene 08**](#scene-8) | Refugee Camp Center | Kythorn Day 2, 11 New Peace (12:25) | Roleplay |
+| [**Scene 09**](#scene-9) | Refugee Camp Center | Kythorn 2, 11 DR (12:35) | Roleplay |
+| [**Scene 10**](#scene-10) | Refugee Camp Center | Kythorn 2, 11 DR (12:45) | Roleplay |
+| [**Scene 11**](#scene-11) | Refugee Camp Center | Kythorn 2, 11 DR (13:05) | Roleplay |
+| [**Scene 12**](#scene-12) | Refugee Camp Center | Kythorn 2, 11 DR (13:10) | Roleplay |
+| [**Scene 13**](#scene-13) | Refugee Camp | Kythorn Day 2, 11 New Peace (13:10) | Roleplay |
+| [**Scene 14**](#scene-14) | Refugee Camp Center | Kythorn 2, 11 DR (13:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Refugee Camp Center | Kythorn 2, 11 DR (13:20) | Roleplay |
+| [**Scene 16**](#scene-16) | Refugee Camp Center | Kythorn 2, 11 DR (13:25) | Roleplay |
+| [**Scene 17**](#scene-17) | Refugee Camp Center | Kythorn 2, 11 DR (13:35) | Roleplay |
+| [**Scene 18**](#scene-18) | Refugee Camp Center | Kythorn 2, 11 DR (13:40) | Roleplay |
+| [**Scene 19**](#scene-19) | Refugee Camp Center | Kythorn 2, 11 DR (13:55) | Roleplay |
+| [**Scene 20**](#scene-20) | Refugee Camp Center | Kythorn 2, 11 DR (14:10) | Roleplay |
+| [**Scene 21**](#scene-21) | Refugee Camp Center | Kythorn Day 2, 11 New Peace (14:15) | Roleplay |
+| [**Scene 22**](#scene-22) | Refugee Camp Center | Kythorn 2, 11 New Peace (14:15) | Roleplay |
+| [**Scene 23**](#scene-23) | Refugee Camp Center | Kythorn 2, 11 DR (14:15) | Roleplay |
+| [**Scene 24**](#scene-24) | Refugee Camp Center | Kythorn 2, 11 DR (14:10) | Roleplay |
+| [**Scene 25**](#scene-25) | Refugee Camp Center | Kythorn 2, 11 DR (14:25) | Roleplay |
+| [**Scene 26**](#scene-26) | Command Tent | Kythorn 2, 11 DR (14:45) | Roleplay |
+| [**Scene 27**](#scene-27) | Command Tent | Kythorn 2, 11 DR (14:50) | Roleplay |
+| [**Scene 28**](#scene-28) | Command Tent | Kythorn 2, 11 DR (14:55) | Roleplay |
+| [**Scene 29**](#scene-29) | Command Tent | Kythorn 2, 11 DR (14:55) | Roleplay |
+| [**Scene 30**](#scene-30) | Command Tent | Kythorn 2, 11 DR (15:10) | Roleplay |
+| [**Scene 31**](#scene-31) | Command Tent Perimeter | Kythorn 2, 11 DR (15:25) | Roleplay |
+| [**Scene 32**](#scene-32) | Command Tent Perimeter | Kythorn 2, 11 DR (15:35) | Roleplay |
+| [**Scene 33**](#scene-33) | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (16:45) | Roleplay |
+| [**Scene 34**](#scene-34) | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:05) | Roleplay |
+| [**Scene 35**](#scene-35) | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:10) | Roleplay |
+| [**Scene 36**](#scene-36) | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:06) | Roleplay |
+| [**Scene 37**](#scene-37) | Winter-Mourn Ridge Slopes | Kythorn 2, 11 DR (17:15) | Roleplay |
+| [**Scene 38**](#scene-38) | Winter-Mourn Ridge Slopes (Treeline Approach) | Kythorn 2, 11 DR (17:30) | Roleplay |
+| [**Scene 39**](#scene-39) | Winter-Mourn Ridge Slopes (Treeline Approach) | Kythorn Day 2, 11 New Peace (17:35) | Roleplay |
+| [**Scene 40**](#scene-40) | Winter-Mourn Ridge Slopes (Treeline Approach) | Kythorn 2, 11 DR (17:35) | Roleplay |
+| [**Scene 41**](#scene-41) | Winter-Mourn Ridge (Treeline Approach) | Kythorn Day 2, 11 New Peace (17:45) | Roleplay |
+| [**Scene 42**](#scene-42) | Winter-Mourn Ridge (Treeline Approach) | Kythorn 2, 11 DR (18:30) | Roleplay |
+| [**Scene 43**](#scene-43) | Winter-Mourn Ridge (Deep Treeline) | Kythorn 2, 11 DR (18:45) | Roleplay |
+| [**Scene 44**](#scene-44) | Winter-Mourn Ridge (Deep Treeline - Hidden Shrine Approach) | Kythorn 2, 11 DR (20:15) | Roleplay |
+| [**Scene 45**](#scene-45) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (21:15) | Roleplay |
+| [**Scene 46**](#scene-46) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, Year 11 (Night) | Roleplay |
+| [**Scene 47**](#scene-47) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (21:20) | Roleplay |
+| [**Scene 48**](#scene-48) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (21:45) | Roleplay |
+| [**Scene 49**](#scene-49) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (22:00) | Roleplay |
+| [**Scene 50**](#scene-50) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (22:15) | Roleplay |
+| [**Scene 51**](#scene-51) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 New Peace (22:20) | Roleplay |
+| [**Scene 52**](#scene-52) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn Day 2, 11 New Peace (22:25) | Roleplay |
+| [**Scene 53**](#scene-53) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (22:30) | Roleplay |
+| [**Scene 54**](#scene-54) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 New Peace (23:45) | Roleplay |
+| [**Scene 55**](#scene-55) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (23:15) | Roleplay |
+| [**Scene 56**](#scene-56) | Ancient Shrine (Winter-Mourn Ridge) | Kythorn 2, 11 DR (23:45) | Roleplay |
+| [**Scene 57**](#scene-57) | Ice-Fall Tunnel (Western Ridge) | Kythorn 3, 11 DR (01:15) | Roleplay |
+| [**Scene 58**](#scene-58) | Ice-Fall Tunnel (Western Ridge) | Kythorn 3, 11 DR (02:30) | Roleplay |
+| [**Scene 59**](#scene-59) | Ice-Fall Tunnel (Western Ridge) | Kythorn 3, 11 DR (03:15) | Roleplay |
+| [**Scene 60**](#scene-60) | Ashwood Keep (Lower Cellars) | Kythorn 3, 11 DR (04:30) | Roleplay |
+| [**Scene 61**](#scene-61) | Ashwood Keep (Lower Cellars) | Kythorn 3, 11 DR (05:45) | Roleplay |
+| [**Scene 62**](#scene-62) | Ashwood Keep (Lower Cellars) | Kythorn 3, 11 DR (05:55) | Roleplay |
+| [**Scene 63**](#scene-63) | Ashwood Keep (The Solar Approach) | Kythorn 3, 11 DR (07:15) | Roleplay |
+| [**Scene 64**](#scene-64) | Ashwood Keep (The Solar Approach) | Kythorn 3, 11 DR (08:30) | Roleplay |
+| [**Scene 65**](#scene-65) | Ashwood Keep (The Solar) | Kythorn 3, 11 DR (08:45) | Roleplay |
+| [**Scene 66**](#scene-66) | Ashwood Keep (The Solar) | Kythorn 3, 11 DR (09:15) | Roleplay |
+| [**Scene 67**](#scene-67) | Ashwood Keep (The Solar) | Kythorn 3, 11 DR (09:30) | Roleplay |
+| [**Scene 68**](#scene-68) | Ashwood Keep | Kythorn 3, 11 DR (10:15) | Roleplay |
+| [**Scene 69**](#scene-69) | Ashwood Keep - Solar | Kythorn 3, 11 New Peace (10:15 (Morning)) | Roleplay |
+| [**Scene 70**](#scene-70) | Solar of Ashwood Keep | Kythorn 3, 11 DR (11:30) | Roleplay |
+| [**Scene 71**](#scene-71) | Ashwood Keep - Sally Port | Kythorn 3, 11 DR (12:15) | Roleplay |
+| [**Scene 72**](#scene-72) | Mountain Fissure - Ice-Fall Approach | Kythorn 3, 11 DR (12:45) | Roleplay |
+| [**Scene 73**](#scene-73) | Mountain Fissure - Ice-Fall Approach | Kythorn 3, 11 DR (13:15) | Roleplay |
+| [**Scene 74**](#scene-74) | Mountain Fissure - Ice-Fall Approach | Kythorn 3, 11 DR (13:20) | Roleplay |
+| [**Scene 75**](#scene-75) | Mountain Fissure - Ice-Fall Tunnel Entrance | Day 3, Year 11 Kythorn (13:25) | Roleplay |
+| [**Scene 76**](#scene-76) | Mountain Fissure - Ice-Fall Tunnel Entrance | Kythorn 3, 11 New Peace (14:30) | Roleplay |
+| [**Scene 77**](#scene-77) | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, Year 11 (14:40) | Roleplay |
+| [**Scene 78**](#scene-78) | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 1492 DR (14:40) | Roleplay |
+| [**Scene 79**](#scene-79) | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (14:45) | Roleplay |
+| [**Scene 80**](#scene-80) | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (14:45) | Roleplay |
+| [**Scene 81**](#scene-81) | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (15:45) | Roleplay |
+| [**Scene 82**](#scene-82) | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 DR (16:15) | Roleplay |
+| [**Scene 83**](#scene-83) | Mountain Fissure - Ice-Fall Tunnel | Kythorn Day 3, 11 New Peace (16:15) | Roleplay |
+| [**Scene 84**](#scene-84) | Mountain Fissure - Ice-Fall Tunnel | Kythorn Day 3, 11 New Peace (Afternoon) | Roleplay |
+| [**Scene 85**](#scene-85) | Mountain Fissure - Ice-Fall Tunnel | Kythorn 3, 11 New Peace (17:15) | Roleplay |
+| [**Scene 86**](#scene-86) | Imperial Refugee Camp - High-Security Perimeter | Kythorn 2, 11 DR (01:10 (Night)) | Roleplay |
+| [**Scene 87**](#scene-87) | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (01:15) | Roleplay |
+| [**Scene 88**](#scene-88) | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (01:25) | Roleplay |
+| [**Scene 89**](#scene-89) | Imperial Refugee Camp - Central | Kythorn 1, 11 DR (01:45) | Roleplay |
+| [**Scene 90**](#scene-90) | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (02:15) | Roleplay |
+| [**Scene 91**](#scene-91) | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (02:20) | Roleplay |
+| [**Scene 92**](#scene-92) | Imperial Refugee Camp - Perimeter | Kythorn 1, 11 DR (02:45) | Roleplay |
+| [**Scene 93**](#scene-93) | Imperial Refugee Camp - Command Center | Kythorn 1, 11 DR (02:50) | Roleplay |
+| [**Scene 94**](#scene-94) | Ice-Fall Tunnel - Entrance | Kythorn 1, 11 DR (03:05) | Roleplay |
+| [**Scene 95**](#scene-95) | Ice-Fall Tunnel - Entrance | Kythorn 1, 11 DR (03:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Ice-Fall Tunnel - Deep Interior | Kythorn 1, 11 DR (04:00) | Roleplay |
+| [**Scene 97**](#scene-97) | Ice-Fall Tunnel - Deep Interior | Kythorn 1, 11 DR (04:05) | Roleplay |
+| [**Scene 98**](#scene-98) | Ice-Fall Tunnel - Deep Interior | Kythorn 1, 11 DR (04:35) | Roleplay |
+| [**Scene 99**](#scene-99) | Ice-Fall Tunnel - Iron Grate | Kythorn 1, 11 DR (05:05) | Roleplay |
+| [**Scene 100**](#scene-100) | Ashwood Keep - Solar | Kythorn 1, 11 DR (05:30) | Roleplay |
+| [**Scene 101**](#scene-101) | Ashwood Keep - Solar | Kythorn 1, 11 New Peace (05:45) | Roleplay |
+| [**Scene 102**](#scene-102) | Ashwood Keep - Solar | Kythorn 1, 11 DR (05:45) | Roleplay |
+| [**Scene 103**](#scene-103) | Unknown |  | Roleplay |
+| [**Scene 104**](#scene-104) | Ashwood Keep - Solar | Day 1, 11 Kythorn (05:45) | Roleplay |
+| [**Scene 105**](#scene-105) | Ashwood Keep - Solar | Year 11, 11 Kythorn (05:45) | Roleplay |
+| [**Scene 106**](#scene-106) | Ashwood Keep - Solar | Kythorn 1, 11 DR (06:15) | Roleplay |
+| [**Scene 107**](#scene-107) | Ashwood Keep - Solar | Kythorn 1, 1492 DR (06:15) | Roleplay |
+| [**Scene 108**](#scene-108) | Ashwood Keep - Hidden Quarters | Day 1, 11 Kythorn (07:15) | Roleplay |
+| [**Scene 109**](#scene-109) | Ashwood Keep - The Solar | Kythorn 1, 11 DR (08:30) | Roleplay |
+| [**Scene 110**](#scene-110) | Ashwood Keep - The Solar | Kythorn 1, 11 DR (08:35) | Roleplay |
+| [**Scene 111**](#scene-111) | Ashwood Keep - The Solar | Day 1, 11 Kythorn (08:35) | Roleplay |
+| [**Scene 112**](#scene-112) | Ashwood Keep - The Solar | Kythorn 1, 11 DR (08:35) | Roleplay |
+| [**Scene 113**](#scene-113) | Ashwood Keep - The Solar | Kythorn 1, 11 DR (10:45) | Roleplay |
+| [**Scene 114**](#scene-114) | Ashwood Keep - The Solar | Kythorn 1, 11 Assiah (11:30) | Roleplay |
+| [**Scene 115**](#scene-115) | Ashwood Keep - The Solar | Kythorn 1, 11 A.G. (11:35) | Roleplay |
+| [**Scene 116**](#scene-116) | Ashwood Keep - The Solar | Kythorn 1, 11 DR (11:35) | Roleplay |
+| [**Scene 117**](#scene-117) | Ashwood Keep - The Solar | Year 11, 11 Kythorn (11:30) | Roleplay |
+| [**Scene 118**](#scene-118) | Ashwood Keep - The Solar | Kythorn 1, 11 DR (11:30) | Roleplay |
+| [**Scene 119**](#scene-119) | Ashwood Keep - The Solar | 11 Kythorn, Morning | Roleplay |
+| [**Scene 120**](#scene-120) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
+| [**Scene 121**](#scene-121) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:35) | Roleplay |
+| [**Scene 122**](#scene-122) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
+| [**Scene 123**](#scene-123) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
+| [**Scene 124**](#scene-124) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
+| [**Scene 125**](#scene-125) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:45) | Roleplay |
+| [**Scene 126**](#scene-126) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:50) | Roleplay |
+| [**Scene 127**](#scene-127) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (11:50) | Roleplay |
+| [**Scene 128**](#scene-128) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (12:30) | Roleplay |
+| [**Scene 129**](#scene-129) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (12:45) | Roleplay |
+| [**Scene 130**](#scene-130) | Ashwood Keep - The Solar | Kythorn 1, 1492 DR (Midday) | Roleplay |
+| [**Scene 131**](#scene-131) | Ashwood Keep - The Solar | Kythorn 2, 1492 DR (08:30) | Roleplay |
+| [**Scene 132**](#scene-132) | Ashwood Keep - The Solar | Kythorn 2, 1492 DR (08:30) | Roleplay |
+| [**Scene 133**](#scene-133) | Frost-Spur Slopes | Kythorn 2, 1492 DR (09:30) | Roleplay |
+| [**Scene 134**](#scene-134) | Frost-Spur Slopes (Frozen) | 1492 Kythorn 2, 09:30 | Roleplay |
+| [**Scene 135**](#scene-135) | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:00) | Roleplay |
+| [**Scene 136**](#scene-136) | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:00) | Roleplay |
+| [**Scene 137**](#scene-137) | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:00) | Roleplay |
+| [**Scene 138**](#scene-138) | Frost-Spur Slopes | Kythorn 2, 1492 DR (10:15) | Roleplay |
+| [**Scene 139**](#scene-139) | Frost-Spur Slopes | Kythorn 2, 1492 DR (11:30) | Roleplay |
+| [**Scene 140**](#scene-140) | Ridge Hold Perimeter | Kythorn 2, 1492 DR (12:30) | Roleplay |
+| [**Scene 141**](#scene-141) | Ridge Hold Perimeter | Kythorn 2, 1492 DR (Midday) | Roleplay |
+| [**Scene 142**](#scene-142) | Ridge Hold Perimeter | Kythorn 2, 1492 DR (12:45) | Roleplay |
+| [**Scene 143**](#scene-143) | Ridge Hold Perimeter | Kythorn 2, 1492 DR (13:00) | Boss Surrender |
+| [**Scene 144**](#scene-144) | Ridge Hold Perimeter | Kythorn 2, 1492 DR (13:45) | Roleplay |
+| [**Scene 145**](#scene-145) | Ridge Hold Perimeter | Kythorn 2, 1492 DR (13:35 (Midday)) | Roleplay |
+| [**Scene 146**](#scene-146) | Ridge Hold Perimeter | Kythorn 2, 1492 DR (14:10) | Roleplay |
+| [**Scene 147**](#scene-147) | Ridge Hold Perimeter / Southern Pass | Kythorn 2, 1492 DR (14:15) | Roleplay |
+| [**Scene 148**](#scene-148) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (16:45) | Roleplay |
+| [**Scene 149**](#scene-149) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (17:00) | Roleplay |
+| [**Scene 150**](#scene-150) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (17:55) | Roleplay |
+| [**Scene 151**](#scene-151) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (17:55) | Roleplay |
+| [**Scene 152**](#scene-152) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:15) | Roleplay |
+| [**Scene 153**](#scene-153) | Southern Pass (Kill Box) | Kythorn 2, 1492 DR (18:20 (Evening)) | Roleplay |
+| [**Scene 154**](#scene-154) | Southern Pass (Canyon Throat) | Kythorn 2, 1492 DR (18:30) | Roleplay |
+| [**Scene 155**](#scene-155) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 156**](#scene-156) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 157**](#scene-157) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 158**](#scene-158) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (Evening) | Roleplay |
+| [**Scene 159**](#scene-159) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 160**](#scene-160) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (Midday) | Roleplay |
+| [**Scene 161**](#scene-161) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 162**](#scene-162) | Southern Pass (Ambush Site) | Kythorn Day 2, Year 11 New Peace (18:35) | Roleplay |
+| [**Scene 163**](#scene-163) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 164**](#scene-164) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 165**](#scene-165) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 166**](#scene-166) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (Evening) | Roleplay |
+| [**Scene 167**](#scene-167) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:35) | Roleplay |
+| [**Scene 168**](#scene-168) | Southern Pass (Ambush Site) | Kythorn 2, 1492 DR (18:45) | Roleplay |
+| [**Scene 169**](#scene-169) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (20:30) | Roleplay |
+| [**Scene 170**](#scene-170) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:00) | Roleplay |
+| [**Scene 171**](#scene-171) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:05) | Roleplay |
+| [**Scene 172**](#scene-172) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:35) | Roleplay |
+| [**Scene 173**](#scene-173) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (21:40) | Roleplay |
+| [**Scene 174**](#scene-174) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:15) | Roleplay |
+| [**Scene 175**](#scene-175) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:30) | Roleplay |
+| [**Scene 176**](#scene-176) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:35) | Roleplay |
+| [**Scene 177**](#scene-177) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (22:45) | Roleplay |
+| [**Scene 178**](#scene-178) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (23:15) | Roleplay |
+| [**Scene 179**](#scene-179) | Ridge Hold (Southern Pass) | Kythorn 2, 1492 DR (23:30) | Roleplay |
+| [**Scene 180**](#scene-180) | Azure Peak Trail (Ascending) | Kythorn 3, 1492 DR (08:00) | Roleplay |
+| [**Scene 181**](#scene-181) | Azure Peak Trail | Kythorn 3, 1492 DR (08:00) | Roleplay |
+| [**Scene 182**](#scene-182) | Azure Peak Trail | Kythorn 4, 1492 DR (10:00) | Roleplay |
+| [**Scene 183**](#scene-183) | Azure Peak Trail | Kythorn 5, 1492 DR (08:00) | Roleplay |
+| [**Scene 184**](#scene-184) | Azure Peak Trail | Kythorn 5, 1492 DR (08:30) | Roleplay |
+| [**Scene 185**](#scene-185) | Azure Peak Trail | Kythorn 5, 1492 DR (09:30) | Roleplay |
+| [**Scene 186**](#scene-186) | Azure Peak Trail | Kythorn 5, 1492 DR (10:15) | Roleplay |
+| [**Scene 187**](#scene-187) | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (10:45) | Roleplay |
+| [**Scene 188**](#scene-188) | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (11:30) | Roleplay |
+| [**Scene 189**](#scene-189) | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (12:45) | Roleplay |
+| [**Scene 190**](#scene-190) | Azure Peak Outpost #1 | Kythorn 5, 1492 DR (12:50) | Roleplay |
+| [**Scene 191**](#scene-191) | Azure Peak Outposts #2 & #3 | Kythorn 5, 1492 DR (13:30) | Roleplay |
+| [**Scene 192**](#scene-192) | Outpost #3 | Kythorn 5, 1492 DR (14:15) | Roleplay |
+| [**Scene 193**](#scene-193) | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (14:00) | Roleplay |
+| [**Scene 194**](#scene-194) | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (15:15) | Roleplay |
+| [**Scene 195**](#scene-195) | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (16:30) | Roleplay |
+| [**Scene 196**](#scene-196) | Azure Peak - Outpost #2 | Kythorn 5, 1492 DR (17:00) | Roleplay |
+| [**Scene 197**](#scene-197) | Azure Peak - Cloisters Exterior | Kythorn 5, 1492 DR (17:30) | Roleplay |
+| [**Scene 198**](#scene-198) | Azure Peak - Upper Cloisters | Kythorn 5, 1492 DR (18:30) | Roleplay |
+| [**Scene 199**](#scene-199) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (20:45) | Roleplay |
+| [**Scene 200**](#scene-200) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (18:45) | Roleplay |
+| [**Scene 201**](#scene-201) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (20:30) | Roleplay |
+| [**Scene 202**](#scene-202) | Azure Peak - Central Spire (Pioneer Hub) | Kythorn 5, 1492 DR (20:45) | Roleplay |
+| [**Scene 203**](#scene-203) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:00) | Roleplay |
+| [**Scene 204**](#scene-204) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:00) | Roleplay |
+| [**Scene 205**](#scene-205) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:15) | Roleplay |
+| [**Scene 206**](#scene-206) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:30) | Roleplay |
+| [**Scene 207**](#scene-207) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:45) | Roleplay |
+| [**Scene 208**](#scene-208) | Azure Peak - Central Spire | Kythorn 5, 1492 DR (21:55) | Roleplay |
+| [**Scene 209**](#scene-209) | Azure Peak - Whispering Gate | Kythorn 5, 1492 DR (22:30) | Roleplay |
+| [**Scene 210**](#scene-210) | Black Salt Flats - Threshold | Kythorn 5, 1492 DR (23:15) | Roleplay |
+| [**Scene 211**](#scene-211) | Black Salt Flats - Threshold | Kythorn 5, 1492 DR (23:45) | Roleplay |
+| [**Scene 212**](#scene-212) | The Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:30) | Roleplay |
+| [**Scene 213**](#scene-213) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:45) | Roleplay |
+| [**Scene 214**](#scene-214) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:35) | Roleplay |
+| [**Scene 215**](#scene-215) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:30) | Roleplay |
+| [**Scene 216**](#scene-216) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:30) | Roleplay |
+| [**Scene 217**](#scene-217) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:35 (Deep Night)) | Roleplay |
+| [**Scene 218**](#scene-218) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:35) | Roleplay |
+| [**Scene 219**](#scene-219) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (02:40) | Roleplay |
+| [**Scene 220**](#scene-220) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (03:15) | Roleplay |
+| [**Scene 221**](#scene-221) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (03:45) | Roleplay |
+| [**Scene 222**](#scene-222) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:05) | Roleplay |
+| [**Scene 223**](#scene-223) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:25) | Roleplay |
+| [**Scene 224**](#scene-224) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:25) | Roleplay |
+| [**Scene 225**](#scene-225) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:35) | Roleplay |
+| [**Scene 226**](#scene-226) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (04:45) | Roleplay |
+| [**Scene 227**](#scene-227) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:00) | Roleplay |
+| [**Scene 228**](#scene-228) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:15) | Roleplay |
+| [**Scene 229**](#scene-229) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:30) | Roleplay |
+| [**Scene 230**](#scene-230) | Black Salt Flats - The Ghost Barrens | Kythorn 6, 1492 DR (05:40) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Winter-Mourn Province, Imperial Road** &nbsp;|&nbsp; ⏳ **Kythorn 15, 40 A.G. (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -390,8 +408,11 @@ From the paladin list, pick two. With your concept:
 - *Persuasion* – mandatory; leverages high Charisma for talking people down.[3][4]
 - *Intimidation* – second pick to fit your “imposing paladin” vibe.[4]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Winter-Mourn Province, Outskirts of Ashwood Keep** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 New Peace (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 0/1 used (1 remaining) | Divine Sense: 0/4 used (4 remaining) | Lay on Hands: 0/5 used (5 remaining)** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -401,8 +422,11 @@ The user has provided a specific mechanical build for Ser Arion, transitioning t
 God Mode:
 Confirm Build - Lock in the STR 16, CON 14, CHA 16 Paladin build and return to the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Winter-Mourn Province - Ridge Overlooking Ashwood Settlement** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 0/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -416,8 +440,11 @@ Your hand rests on the cold steel of Duty's Edge. The leather of your glove crea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Gratian - Use your Persuasion to argue that the refugees could be integrated as labor rather than slaughtered.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -440,8 +467,11 @@ Gratian’s head turns slowly, the eye-slits of his bone-white mask fixed on you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Temporary Detention - Propose securing the camp first for &#x27;processing&#x27; to buy time for a more &#x27;efficient&#x27; solution.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -453,8 +483,11 @@ Gratian’s bone-white mask remains fixed on the valley, but the slight tilt of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead the Vanguard - Obey the order and lead the Eaglets into the camp to minimize the chaos through disciplined force.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Refugee Camp Perimeter, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -466,8 +499,11 @@ You spur your horse forward, the heavy rhythmic thud of hooves striking the froz
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize the Center - Ride to the center of the camp and use your Intimidation to force a halt to the fighting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -481,8 +517,11 @@ But the terror is too deep, and your command lacks the crushing weight of Prefec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Guard a Huddle - Position yourself over a group of non-combatants and declare them Imperial property to be &#x27;processed&#x27; later.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -496,8 +535,11 @@ The Eaglets falter. The logic of 'property' and 'processing' is a language they 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fain Interrogation - Begin a loud, public interrogation of the refugees to maintain the ruse that you are extracting intelligence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -511,8 +553,11 @@ However, the ruse is thin. In your effort to protect these people, your 'interro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Processing - Order the Eaglets to begin binding and searching everyone, emphasizing the &#x27;search for Host documents.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -528,8 +573,11 @@ The younger knights hesitate for a moment, the blood-lust in their eyes clashing
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify a Leader - Find an elder or leader among the refugees to &#x27;interrogate&#x27; privately, hoping to coordinate a better story.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -549,8 +597,11 @@ She stares at you, her eyes hard as flint. 'A cage is still a cage, little crow,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Remove the Helm - Remove your Gryphon Helm to speak face-to-face, showing your youth and shared humanity*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -568,8 +619,11 @@ The elder woman's flinty gaze softens, if only by a fraction. She looks at the s
 God Mode:
 you didnt use my persuasion expertise Persuasion (Show Humanity): 1d20+3 = 7+3 = 10 vs DC 15 (Failure)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Refugee Camp, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -579,8 +633,11 @@ The user is in GOD MODE correcting a mechanical oversight regarding their Persua
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the conversation with the elder woman.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -596,8 +653,11 @@ She turns back to the shivering children, her back straight and unyielding even 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief the Eaglets - Instruct your squires on the &#x27;official&#x27; discovery of the Host cell and the transition to processing*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **Unmasked | Exhaustion: 0 | Inspiration: No**
@@ -613,8 +673,11 @@ The young knights stop, ropes in hand, but their eyes remain fixed on the huddle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enforce Discipline - Use Intimidation to silence the squires&#x27; questioning and assert your command*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -630,8 +693,11 @@ From the ridge, the bone-white mask of Prefect Gratian remains motionless. He ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plant Evidence - Secretly place an Imperial-coded &#x27;Host&#x27; document to validate your lie before Gratian arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -643,8 +709,11 @@ You stoop as if adjusting a strap on your greave, pressing the document into the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Elder - Ensure the elder woman is moved to a &#x27;high-security&#x27; tent to prevent her from contradicting the plant*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **Faceless (Visor Down) | Exhaustion: 0 | Inspiration: No**
@@ -660,8 +729,11 @@ You shove her into the tent, the heavy canvas muffling the sounds of the blizzar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Orchestrate Discovery - Direct a squire to &#x27;search&#x27; the wagon where you planted the document while Gratian watches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -679,8 +751,11 @@ Gratian leans forward in his saddle, the eye-slits of his mask narrowing. He loo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present the Evidence - Formally present the &#x27;Host document&#x27; to Gratian to secure his approval for the labor transition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -700,8 +775,11 @@ Gratian is silent for a long moment, the wind whipping his heavy cloak. Then, he
 God Mode:
 process my level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 23/23 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -713,8 +791,11 @@ You feel your vitality surge as you settle into your role as a protector in shad
 God Mode:
 Choose Defense Style - While you are wearing armor, you gain a +1 bonus to AC.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 New Peace (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -726,8 +807,11 @@ Your level-up to Level 2 is finalized. Your maximum HP has increased to 26 (prev
 God Mode:
 Prepare Spells - Select your prepared Paladin spells for the day (Charisma mod + half Paladin level = 4 spells).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -737,8 +821,11 @@ The user is in GOD MODE selecting prepared spells for their Level 2 Paladin. As 
 > 👤 **Player:**
 > *"bless,command,cure wounds, divine favor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -752,8 +839,11 @@ As the last of the incantations settles into your mind, you rise. The blizzard i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Laborers - Walk the lines of captives to maintain the persona and check on the Elder&#x27;s progress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Refugee Camp Center, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -771,8 +861,11 @@ The ruse is taking root. You overhear a young man tell a squire, with a convinci
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secret Conference with Elder - Slip back into the command tent to coordinate the next phase of the lie as the blizzard peaks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Command Tent, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Exhaustion: 0**
@@ -788,8 +881,11 @@ You lean closer, trying to impress upon her the next phase of this desperate gam
 > 👤 **Player:**
 > *"Ask her for a secret signal to show to lady ashwood. I will defect and rally ashwood forces to save them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Command Tent, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Divine Smite: Unlocked** &nbsp;|&nbsp; ⚠️ **Blizzard (Heavily Obscured) | Exhaustion: 0 | Inspiration: No**
@@ -807,8 +903,11 @@ She freezes, her eyes widening as she searches the narrow slits of your visor fo
 > 👤 **Player:**
 > *"Think. Which of my men do I absolutely trust? Who would actually defect?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Command Tent, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Divine Smite: Unlocked**
@@ -826,8 +925,11 @@ And then there is **Gareth**. Not a squire, but a veteran sergeant assigned to '
 > 👤 **Player:**
 > *"Think. Can't I just say I'll scout the keep?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Command Tent, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -837,8 +939,11 @@ You pause, the weight of the sea glass in your pouch feeling like a leaden ancho
 > 👤 **Player:**
 > *"Consult Gareth and probe him. Just say we wanna pursue diplomatic solution for now. When it comes to defection I will play by ear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Command Tent, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -862,8 +967,11 @@ He looks around, ensuring no squires are within earshot. "If you want to talk th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Loyalty Further - Hint at the &#x27;Star-Sailor’s Heart&#x27; token to see if he recognizes elven symbols of trust.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Command Tent Perimeter, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4, Inspiration: No**
@@ -879,8 +987,11 @@ Gareth’s eyes narrow, tracking the subtle movement of your hand. He doesn't lo
 > 👤 **Player:**
 > *"Have Gareth come with me and now try tonight pulse check ash field"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Command Tent Perimeter, Winter-Mourn Ridge** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -896,8 +1007,11 @@ Ashfield flinches at the sharpness, but his eyes don't drop. He looks at the hud
 > [!NOTE] ⚙️ **Player Choice:**
 > *Depart for Ashwood with Gareth and ashfield. Probe for goodness in ash field on the journey*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Winter-Mourn Ridge Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Blizzard (Heavy), Dim Light | Exhaustion: 0 | Inspiration: No**
@@ -913,8 +1027,11 @@ Suddenly, the path beneath Gareth's mount gives way. [DICE: Survival (Navigation
 > 👤 **Player:**
 > *"Cast bless then save gareth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Winter-Mourn Ridge Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/2 used (1 remaining), Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Blizzard | Exhaustion: 0 | Inspiration: No**
@@ -928,8 +1045,11 @@ You spur your mount toward the edge where Gareth is vanishing. You reach out, yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command: &#x27;OBEY&#x27; - Use your &#x27;Command&#x27; spell to force Ashfield out of his stupor to help pull Gareth up.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Winter-Mourn Ridge Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2 used (0 remaining), Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Bless (Concentration) | Exhaustion: 0 | Inspiration: No**
@@ -947,8 +1067,11 @@ The ledge groans. The snow-pack beneath your feet is too slick, too unstable. Ev
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infuse Gareth with Vitality - Use Lay on Hands to give Gareth the strength to pull himself up while you hold the line.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Winter-Mourn Ridge Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (17:06)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 5/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -962,8 +1085,11 @@ Gareth’s eyes snap open, the gray tint leaving his skin. He lets out a ragged,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Toward Ashwood - Force a march through the whiteout using Ashfield&#x27;s local knowledge while the &#x27;Bless&#x27; persists.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Winter-Mourn Ridge Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Bless (Target: Arion, Gareth, Ashfield) | Exhaustion: 0 | Inspiration: No**
@@ -979,8 +1105,11 @@ You don't wait for the ledge to finish its collapse. You spur your mount forward
 > 👤 **Player:**
 > *"Try to reassure ashfield."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Winter-Mourn Ridge Slopes (Treeline Approach)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -998,8 +1127,11 @@ Ashfield flinches, withdrawing into the shell of his armor. He nods, a jerky, me
 God Mode:
 Why was that treason?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Winter-Mourn Ridge Slopes (Treeline Approach)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1009,8 +1141,11 @@ The user is in GOD MODE asking for clarification on the 'treason' mentioned in t
 God Mode:
 lets retcon that. everyone can use their spells and abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Winter-Mourn Ridge Slopes (Treeline Approach)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1020,8 +1155,11 @@ The user has requested a mechanical retcon to allow full use of spells and abili
 God Mode:
 ashfield should be less worried since i didnt commit treason
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Winter-Mourn Ridge (Treeline Approach)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1031,8 +1169,11 @@ The user is clarifying the legal and social status of their actions. In the eyes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the trek toward Ashwood Keep with the updated context*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Winter-Mourn Ridge (Treeline Approach)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1046,8 +1187,11 @@ The white wall of the blizzard swallows the lights of the refugee camp as you, G
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Divine Sense - Seek the presence of any celestial or hallowed ground (like Ashwood&#x27;s ancient shrines) to find direction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Winter-Mourn Ridge (Deep Treeline)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Divine Sense: 3/4**
@@ -1063,8 +1207,11 @@ You center yourself, ignoring the bite of the frost against your neck. You reach
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push to the Shrine - Force a hard march toward the celestial resonance to find shelter and direction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Winter-Mourn Ridge (Deep Treeline - Hidden Shrine Approach)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/2, Lay on Hands: 0/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **Exhaustion 0 | Inspiration: No**
@@ -1080,8 +1227,11 @@ As you stumble into the lee of the structure's massive plinth, the roar of the b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Short Rest - Use the sanctuary to recover stamina and speak with Ashfield while he&#x27;s vulnerable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2 used (1 remaining), Spells: L1 2/2 used (0 remaining), Lay on Hands: 10/10 used (0 remaining), Divine Sense: 2/4 used (2 remaining)** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -1097,8 +1247,11 @@ You lean back against the marble, 'Duty's Edge' resting across your lap. The 'St
 God Mode:
 did you use my persusasion expertise? did you did no worries Persuasion (Bonding with Ashfield): 1d20 +5 = 4 +5 = 9 vs DC 15 (Failure)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, Year 11 (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2, LoH: 10/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **Exhausted (Level 1) | Inspiration: No**
@@ -1108,8 +1261,11 @@ The user is in GOD MODE correcting the narrative interpretation of their previou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Expertise Retcon - Adjust Ashfield&#x27;s disposition based on the corrected math (9 + 2 PROF = 11 vs DC 15 is still a failure, but the narrative will soften to &#x27;guarded&#x27; rather than &#x27;fearful&#x27;)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2, LoH: 10/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1123,8 +1279,11 @@ He doesn't smile—the weight of the day is too heavy for that—but he reaches 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Perimeter - Check for the scouts you saw earlier; ensure the blizzard hasn&#x27;t brought unwanted guests to the shrine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1138,8 +1297,11 @@ You find them. Fifty paces down the slope, huddled in the lee of a jagged outcro
 > 👤 **Player:**
 > *"Think. Could we just head for ashwood keep and outrun them? They're trying to be stealthy and haven't seen us yet so as long as we get there first we can show the lady the sigil and be good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4, Exhaustion: 0**
@@ -1151,8 +1313,11 @@ You pause, your hand tightening on the pommel of Duty's Edge as you calculate th
 > 👤 **Player:**
 > *"Get my men in defensive position and ready to attack. Then I go ambush the scouts and try trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2 used (0 remaining), LoH: 10/10 used (0 remaining), Divine Sense: 2/4 used** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1170,8 +1335,11 @@ The surprise you hoped for vanishes into the gale. Steel rings out against the h
 > 👤 **Player:**
 > *"Divine favor then divine smite scout 1. Tell my men to focus fire him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 New Peace (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2 used (0 remaining), LoH: 10/10, Divine Sense: 2/4**
@@ -1185,8 +1353,11 @@ Behind you, Gareth moves with a veteran's cold efficiency. [DICE: Gareth Attack:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Use your Intimidation (+5) to force the remaining scouts to lay down arms*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, 11 New Peace (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 450/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 10/10, Divine Sense: 2/4**
@@ -1204,8 +1375,11 @@ Gareth steps forward, his broadsword ready but held low, while Ashfield keeps hi
 > 👤 **Player:**
 > *"secure captives and interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 650/900 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2 used (0 remaining), LoH: 5/10 used (5 remaining), Divine Sense: 2/4 used (2 remaining)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1221,8 +1395,11 @@ Gareth steps forward, his hand resting on the pommel of his broadsword. 'They're
 God Mode:
 make sure to give me exp for capturing them and fully loot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 New Peace (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 26/26 | XP: 950/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2 used (0 remaining), LoH: 5/10 used (5 remaining), Divine Sense: 2/4 used (2 remaining)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1232,8 +1409,11 @@ Administrative synchronization to process combat rewards. The Veiled scouts have
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Clemency - Remove your helm and offer them a chance to live if they guide you to Ashwood safely*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1251,8 +1431,11 @@ The scout who spoke before looks from the blue glass to your unmasked face. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the interrogation of the bound scouts with your new spoils.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Ancient Shrine (Winter-Mourn Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1550/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1266,8 +1449,11 @@ You stand, looking at Gareth and Ashfield. The veteran sergeant is already gathe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealthy Departure - Don the looted Veiled cloaks and follow the scouts to the ice-fall tunnel*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Ice-Fall Tunnel (Western Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1550/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1283,8 +1469,11 @@ Disaster strikes mid-ascent. A shelf of ancient, brittle ice shatters beneath yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divine Surge - Channel your remaining Paladin resolve to ignite a brief burst of radiant power to propel yourself back to a handhold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Ice-Fall Tunnel (Western Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1300,8 +1489,11 @@ Gareth exhales a ragged breath, his eyes wide behind his visor as he secures his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter the Ice-Fall Tunnel - Lead the group into the darkness of the hidden passage toward Ashwood Keep.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Ice-Fall Tunnel (Western Ridge)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **Veiled Cloak (+5 Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -1315,8 +1507,11 @@ After an hour of claustrophobic descent, the tunnel widens. The smell of woodsmo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal the Heart - Step into the light and present the Elder&#x27;s sea glass token to the guards immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Ashwood Keep (Lower Cellars)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1332,8 +1527,11 @@ The guards freeze, their eyes darting from the glowing blue glass to the noble c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Explain the Ruse - Briefly explain the situation at the refugee camp to build trust with the guards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Ashwood Keep (Lower Cellars)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4**
@@ -1347,8 +1545,11 @@ The senior guard exhales, the steam of his breath swirling in the orange light o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Gareth and Ashfield - Take a moment to ensure your companions are prepared for the political theater ahead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Ashwood Keep (Lower Cellars)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (05:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1362,8 +1563,11 @@ Gareth nods, his weathered face set in a grim, appreciative mask. Ashfield strai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present Token Humbly - Offer the sea glass as a sign of respect and shared humanity to de-escalate her suspicion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Ashwood Keep (The Solar Approach)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1383,8 +1587,11 @@ You step through the threshold, the warmth of the keep's deeper vents finally re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Private Council - Ask the guards to bring the Lady to a private chamber first to avoid the prying eyes of her court.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Ashwood Keep (The Solar Approach)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1400,8 +1607,11 @@ He gestures for you to follow him up the winding stone stairs. The transition fr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present the Heart - Show the sky-blue sea glass immediately to prove your connection to the Elder.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Ashwood Keep (The Solar)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1421,8 +1631,11 @@ She reaches out, her fingers brushing the glowing glass with the reverence of so
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose the Rescue - Outline the plan to use Ashwood&#x27;s &#x27;Veiled&#x27; scouts to liberate the refugees under the cover of the storm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Ashwood Keep (The Solar)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1440,8 +1653,11 @@ Annalise watches the flickering sea glass, then looks to the door where her guar
 > 👤 **Player:**
 > *"Ask the lady for better gear suited for stealth, ideally magic medium armor, anything that can help. We'll need to sneak around a lot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Ashwood Keep (The Solar)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1462,8 +1678,11 @@ Brief Gareth and Ashfield: Ensure your men are ready for the gear shift and the 
 Coordinate the Veiled: Speak with the Ashwood scouts to plan the silent extraction of the refugees.
 Equip Stealth Gear: Switch from Valerion Plate to the Shadow-Glass Studded Leather for the mission."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Ashwood Keep** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1485,8 +1704,11 @@ did this use my expertise? stop forgetting it
 
 Persuasion (Coordinate Scouts): 1d20+5 = 2+5 = 7 vs DC 15 (Failure)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 New Peace (10:15 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1496,8 +1718,11 @@ The user is in GOD MODE correcting a recurring mechanical oversight regarding th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Annalise - Ask the Lady of the Keep for a final tactical insight or authority boost to sway the scouts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Solar of Ashwood Keep** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1513,8 +1738,11 @@ She places a hand on your leather-clad shoulder, her eyes burning with a sudden,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Exit - Have the Veiled scouts check the sally port perimeter for Imperial sensors before moving the whole group.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Ashwood Keep - Sally Port** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1528,8 +1756,11 @@ You signal a halt as you approach the sally port perimeter. The scouts melt into
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Personally - Use your Shadow-Glass armor to personally verify the path ahead, trusting your Divine Sense over the scouts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Mountain Fissure - Ice-Fall Approach** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1543,8 +1774,11 @@ The world of ice flickers into a psychic landscape. You feel the cold, mechanica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draw the Threat Out - Use yourself as bait to reveal the hidden malice while the Veiled scouts provide overwatch*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Mountain Fissure - Ice-Fall Approach** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4, Inspiration: No**
@@ -1560,8 +1794,11 @@ Out of the swirling whiteout, the 'threat' reveals itself. It is not an Imperial
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Overwatch - Drop to the ground to give the Veiled scouts a clear volley at the creature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Mountain Fissure - Ice-Fall Approach** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4, Inspiration: No**
@@ -1573,8 +1810,11 @@ From the jagged overhang, three black-shafted arrows hiss through the gale in a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Withdraw to Tunnel - The creature is powerful; use the distraction to pull back into the defensible tunnel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel Entrance** &nbsp;|&nbsp; ⏳ **Day 3, Year 11 Kythorn (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2, LoH: 5/10, Divine Sense: 1/4, Inspiration: No** &nbsp;|&nbsp; ⚠️ **Shadow-Glass Camouflage | Exhaustion: 0 | Inspiration: No**
@@ -1588,8 +1828,11 @@ You slide back into the jagged throat of the defensible tunnel, the iron-cold wa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Set Chokepoint Ambush - Lure the creature into the narrow tunnel where its flight is restricted and finish it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel Entrance** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 New Peace (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1700/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/3, Spells: L1 0/3 used (3 remaining), LoH: 5/15, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1603,8 +1846,11 @@ You don't flee. You plant your Soft-Step boots and brace yourself against a narr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Scout Volley - Step back and allow the Veiled scouts to rain arrows into the trapped target.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn 3, Year 11 (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1250/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2 used (0 remaining), Lay on Hands: 10/10 used (0 remaining), Divine Sense: 3/4 used (1 remaining)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1620,8 +1866,11 @@ The Bone-Stalker lets out a final, rattling screech—a sound of ice cracking on
 God Mode:
 only 250 exp?'
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 1500/2700 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2 used (2 remaining), Lay on Hands: 0/15 used (15 remaining), Divine Sense: 1/4 used (3 remaining)**
@@ -1631,8 +1880,11 @@ The user is in GOD MODE questioning the XP reward for the Bone-Stalker encounter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the mission with the current state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 26/26 | XP: 2850/5000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/2 used (2 remaining), Lay on Hands: 0/15 used (15 remaining), Divine Sense: 1/4 used (3 remaining)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1646,8 +1898,11 @@ You feel the surge of growth within you—the 700 XP from the creature, combined
 God Mode:
 level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 0/3 used (3 remaining), Lay on Hands: 0/20 used (20 remaining), Divine Sense: 1/4 used (3 remaining)**
@@ -1659,8 +1914,11 @@ With this advancement comes a pivotal choice for your character's growth. You ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ability Score Improvement (+2 Charisma) - Increase Charisma to 18 (+4 mod). Increases Persuasion/Intimidation and Spell DC.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1672,8 +1930,11 @@ As you commit to the path of Charisma, the air around you seems to shimmer and t
 > 👤 **Player:**
 > *"Auto pick my spells and continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 3/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1687,8 +1948,11 @@ With your spirit fortified, you turn your attention to the scrolls and prayers y
 God Mode:
 Why am I near ashwood keep? Shouldn't I be going to save the refugees?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn Day 3, 11 New Peace (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4, Smite: Unlocked**
@@ -1698,8 +1962,11 @@ The user is confused about their current location (Ashwood Keep) versus their ob
 God Mode:
 Return to Story - Exit GOD MODE and continue the stealthy extraction.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn Day 3, 11 New Peace (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4**
@@ -1713,8 +1980,11 @@ From the darkness above, you hear the sharp, metallic snap of an Imperial crossb
 God Mode:
 Metallic Command - Use your Charisma and the tunnel&#x27;s acoustics to impersonate a faceless superior and order the sentry back to his post.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Mountain Fissure - Ice-Fall Tunnel** &nbsp;|&nbsp; ⏳ **Kythorn 3, 11 New Peace (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 3700/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1730,8 +2000,11 @@ You stand in the renewed darkness, your heart a rhythmic hammer against the Shad
 God Mode:
 Reach the Elder - Navigate to the high-security tent where the Elder is held to begin the signal.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Imperial Refugee Camp - High-Security Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 11 DR (01:10 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4, Inspiration: No**
@@ -1743,8 +2016,11 @@ The camp is a landscape of shifting shadows and the muffled groans of the blizza
 > 👤 **Player:**
 > *"Sabotage alarm bells and signal veiled"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Imperial Refugee Camp - Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4, Inspiration: No**
@@ -1764,8 +2040,11 @@ Disaster strikes with the cold bite of iron. As you reach up to dampen the clapp
 > 👤 **Player:**
 > *"Pretend I'm doing a drilll. Reprimand them all for letting me sneak back in with stealth gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Imperial Refugee Camp - Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1783,8 +2062,11 @@ The Eaglets stand paralyzed, their bloodlust replaced by a stinging, red-faced s
 > 👤 **Player:**
 > *"Reassign patrols then coordinate gareth when safe to move refugees. Coordinate with the elder when on the move"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Imperial Refugee Camp - Central** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1798,8 +2080,11 @@ You duck into the tent, the heavy canvas muffling the frantic energy outside. Th
 > 👤 **Player:**
 > *"Distract gratian signal the veiled"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Imperial Refugee Camp - Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4**
@@ -1815,8 +2100,11 @@ As the armored mass of the Eaglets surges away toward the dark silhouettes of th
 > 👤 **Player:**
 > *"Think. During the confusion could I kill gratian and get away? What level is he"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Imperial Refugee Camp - Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 1/4, Exhaustion: 0**
@@ -1828,8 +2116,11 @@ But as you look at him, you see the way the Eaglets respond to his voice—not j
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stick to the Extraction - Focus on moving the refugees; Gratian is too strong to take head-on right now.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Imperial Refugee Camp - Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 1/4 | Exhaustion: 0**
@@ -1845,8 +2136,11 @@ One by one, the refugees emerge—not as the loud, panicked mass that arrived, b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Face the Prefect - Stay behind to &#x27;report&#x27; the Host attack to Gratian, buying minutes of confusion before attempting a final escape.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Imperial Refugee Camp - Command Center** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (02:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 2850/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1862,8 +2156,11 @@ You salute, a sharp, silver-etched motion in the dark. As the Prefect and his pe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Collapse the Entrance - Use a Divine Smite to bring down the tunnel mouth, sealing the path behind you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Ice-Fall Tunnel - Entrance** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (03:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 4050/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 2/3 | Lay on Hands: 20/20 | Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1879,8 +2176,11 @@ The impact is a physical shock that vibrates through your Shadow-Glass leather. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soothe the Panic - The roar of the collapse has terrified the refugees; use your Charisma to prevent a stampede in the dark.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Ice-Fall Tunnel - Entrance** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 4050/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Lay on Hands: 20/20, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1896,8 +2196,11 @@ The frantic movement halts. The jagged edge of their terror blunts against the i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest and Rally - Pause briefly to allow the refugees to recover their breath and distribute the looted mountain supplies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Ice-Fall Tunnel - Deep Interior** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 4050/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Lay on Hands: 15/20, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1911,8 +2214,11 @@ You attempt to project a sense of calm, rallying their spirits for the final leg
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perform a Rite of Light - Use a minor manifestation of your &#x27;Silent Peace&#x27; to provide light and comfort to the huddle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Ice-Fall Tunnel - Deep Interior** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 4050/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Lay on Hands: 15/20, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1926,8 +2232,11 @@ A soft, golden radiance begins to bleed through the azure runes of your Shadow-G
 > 👤 **Player:**
 > *"Lead the march. It shouldn't be that hard since we just came form there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Ice-Fall Tunnel - Deep Interior** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 4050/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Lay on Hands: 15/20, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1941,8 +2250,11 @@ The march is a rhythmic, haunting procession. The only sounds are the soft shuff
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal the Keep - Send Gareth ahead to the iron grate to give the signal to Lady Annalise&#x27;s guards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Ice-Fall Tunnel - Iron Grate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 4050/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Lay on Hands: 15/20, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1956,8 +2268,11 @@ From the other side, the heavy clatter of a crossbar being lifted echoes through
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report to Lady Annalise - Formally brief the Lady on the status of the refugees and the tunnel collapse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 4050/6500 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 2/3 | Lay on Hands: 15/20 | Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1979,8 +2294,11 @@ She gestures toward a steaming carafe of mulled wine. "Rest now. My healers are 
 God Mode:
 Give me a massive amount  of exp for saving those refugees
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 New Peace (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Lay on Hands: 15/20, Divine Sense: 1/4, Exhaustion: 0**
@@ -1994,8 +2312,11 @@ You feel a profound resonance within your spirit, the 'Silent Peace' expanding t
 God Mode:
 Am I level 5 threshold?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 2/3, Lay on Hands: 20/25, Divine Sense: 1/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2005,8 +2326,11 @@ The user is asking about their level threshold in GOD MODE. I have verified thei
 God Mode:
 Process my level 5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 
@@ -2053,8 +2377,11 @@ Narrative Significance: This reward represents the third path — neither relyin
 
 GM Note: When presenting this reward, make it clear to the player that they earned this because they never relied on dragon assistance. This is the game's acknowledgment of their independence — they won without needing a patron. The dialogue should feel like recognition of their self-reliance: "You could have accepted Aurum's protection. You could have taken Umbrax's bargain. Instead, you stood alone. That is why you are worthy of this legacy."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Day 1, 11 Kythorn (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2064,8 +2391,11 @@ The user is in GOD MODE awarding the 'Champion's Inheritance' for maintaining in
 God Mode:
 Convert my plate armor to medium armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Year 11, 11 Kythorn (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2075,8 +2405,11 @@ The user is in GOD MODE and has requested a mechanical conversion of their prima
 > 👤 **Player:**
 > *"Narrate ashwood giving me this gear and explaining the history"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 2/2 | Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2092,8 +2425,11 @@ She lifts **Dawnbreaker**, the blade glowing with a soft, sun-like warmth the mo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Dawnbreaker - Meditate on the heirloom to unlock its deeper history or hidden powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Ashwood Keep - Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2107,8 +2443,11 @@ The connection is elusive. You feel the blade's history—a frantic montage of c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit the Elder - Check on the refugees&#x27; transition into the Keep&#x27;s hidden living quarters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Ashwood Keep - Hidden Quarters** &nbsp;|&nbsp; ⏳ **Day 1, 11 Kythorn (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4**
@@ -2124,8 +2463,11 @@ You speak with her, your voice carrying the melodic, undeniable weight of your h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study Alexiel&#x27;s Lore - Return to the Solar to search for clues on how to fully awaken Dawnbreaker&#x27;s hidden powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2139,8 +2481,11 @@ You pick up the blade once more, its golden hilt warm against your palm. You fee
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Lady Annalise - Ask the Lady of the Keep if she knows where the rest of the &#x27;Trials&#x27; scroll might be.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Heir of Alexiel, Champion of the Unbroken Oath | Inspiration: No**
@@ -2158,8 +2503,11 @@ She rises, moving toward the window where the blizzard has finally begun to thin
 God Mode:
 Wait why did my mother have Alexiel armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Day 1, 11 Kythorn (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -2169,8 +2517,11 @@ The user is asking for narrative clarification in GOD MODE regarding the lineage
 God Mode:
 Let's have lady ashwood narratively explain I'm related to Sariel and why I share her mirror magic or explain I might get it from her
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2186,8 +2537,11 @@ Annalise gestures to Dawnbreaker. 'She took the Champion's Armory—the very gea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discuss Mirror Magic - Ask Annalise how to control or hide this potential power from the Empress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2201,8 +2555,11 @@ She stops and looks at the Crown of Clarity resting on the table. 'The Empress u
 > 👤 **Player:**
 > *"Discuss what to do when gratian realizes the refugees escaped and are probably here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 Assiah (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2218,8 +2575,11 @@ Annalise paces to the window, watching the grey morning light struggle against t
 > 👤 **Player:**
 > *"Keep discussing. Even if we kill gratian the imperium will just send more eventually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 A.G. (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2231,8 +2591,11 @@ She turns from the map, her eyes searching yours. 'The only way to truly save th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe for Gratian&#x27;s Ambition - Ask Annalise if the Prefect has any personal rivalries or desires that could be used to lure him away.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2246,8 +2609,11 @@ She looks back at the map, her expression darkening. 'As for rivalries... he loa
 > 👤 **Player:**
 > *"What spells do I have to use"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Year 11, 11 Kythorn (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2261,8 +2627,11 @@ You feel the weight of the incantations ready in your mind—the absolute author
 God Mode:
 What are all the spells I have available
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 11 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2272,8 +2641,11 @@ The user is in GOD MODE inquiring about their available spells. As a Level 5 Pal
 > 👤 **Player:**
 > *"Pick zone of truth and auto pick a spell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **11 Kythorn, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2287,8 +2659,11 @@ You reach for **Zone of Truth**, the absolute boundary that forces the tongues o
 > 👤 **Player:**
 > *"Ask ashwood if she has host allies. They could attack Gratian and lure him away for the right price perhaps . And what's her long term perspective on imperium versus host"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2300,8 +2675,11 @@ She turns back to you, her aristocratic features sharpening with a lethal clarit
 God Mode:
 Is autumn the dragon a part of this campaign? Will he ever talk to me ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2311,8 +2689,11 @@ The administrative veil of Assiah remains thin as you ponder the golden dragon's
 God Mode:
 Let's just have aurum contact me now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2322,8 +2703,11 @@ The player is in GOD MODE and has requested an immediate contact from Aurum, the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume gameplay*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2343,8 +2727,11 @@ Annalise stumbles back, her eyes wide as she looks at the golden distortion surr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question the King - Ask Aurum what his &#x27;Freedom&#x27; costs and why he didn&#x27;t intervene sooner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4**
@@ -2362,8 +2749,11 @@ The golden light fluctuates, the hum in the room rising to a fever pitch. The Gi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Specifics - Ask what his &#x27;New World&#x27; actually looks like for the common people.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2379,8 +2769,11 @@ He leans closer, his presence a roaring forge that makes Dawnbreaker thrum on yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Burden - Acknowledge that true freedom requires the risk of failure and commit to shattering the mirror.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4**
@@ -2398,8 +2791,11 @@ The golden light implodes, vanishing into the Signet of House Ardent on your fin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek a Middle Path - Propose a world that provides safety without psychic dominance—Alexiel&#x27;s original dream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, LoH: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -2419,8 +2815,11 @@ The golden light collapses inward, vanishing into the Signet on your finger with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Host Attack - Ask Annalise to use her contacts to lure Gratian away with a phantom rebel threat*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2438,8 +2837,11 @@ She crosses to a small, unassuming writing desk and begins to pen a series of ci
 > 👤 **Player:**
 > *"ask ashwood for her elite forces to help with azure peak. Need 10 elite scouts and a level 5 companion of every class, in addition to ashfield and gareth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2457,8 +2859,11 @@ She signals Elian, who has been waiting in the shadows of the corridor. 'Rallly 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Strategy Session - Coordinate with Annalise and the specialists to finalize the &#x27;Phantom Vanguard&#x27; distraction timing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2476,8 +2881,11 @@ The Specialists exchange glances of grim respect. They see the heir of Alexiel n
 > 👤 **Player:**
 > *"Brainstorm with annalise. What if i do a surgical strike and kill Gratian and make it look like a host battle? Pros/cons/risks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4**
@@ -2491,8 +2899,11 @@ She leans over the map, pointing to the ridge where the Imperial command tent wa
 > 👤 **Player:**
 > *"Think. What if i go power up in Azure peak first, have the host use guerilla tactics to keep gratian busy and tired. Then I come back stronger and do a more reliable surgical strike on Gratian"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Ashwood Keep - The Solar** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2506,8 +2917,11 @@ Annalise sets her cup down, her expression sharp and analytical. 'It is a sound 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Distraction - Signal the shadow-dancers to begin the pincer movement while you depart for Azure Peak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Frost-Spur Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Crown of Clarity, Champion's Armory | Exhaustion: 0**
@@ -2525,8 +2939,11 @@ On the ridge above, the bone-white mask of Prefect Gratian snaps toward the soun
 God Mode:
 this seems unrealsitic. how would he know its me and why would i travel in a direction where i would see him?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Frost-Spur Slopes (Frozen)** &nbsp;|&nbsp; ⏳ **1492 Kythorn 2, 09:30** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Hidden (Compromised) | Exhaustion: 0 | Inspiration: No**
@@ -2536,8 +2953,11 @@ The player is disputing the logic of the 'spot' by Gratian. I need to offer path
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Detection - Proceed with the current narrative where Gratian has identified you. (Initiate Combat/Interaction)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Frost-Spur Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4**
@@ -2563,8 +2983,11 @@ He spurs his horse forward a single, predatory step. 'Explain this theatrical tr
 > 👤 **Player:**
 > *"Think. who's there? is it only gratian?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Frost-Spur Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Crown of Clarity (Active), Mantle of the Dragon Knight (Equipped) | Exhaustion: 0 | Inspiration: No**
@@ -2590,8 +3013,11 @@ He spurs his horse forward a single, predatory step. 'Explain this theatrical tr
 > 👤 **Player:**
 > *"Think. Whats the chances we can win and kill him quickly. I have recent +3 gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Frost-Spur Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Crown of Clarity (+3 Wis Saves), Aegis (Fear Immune) | Exhaustion: 0 | Inspiration: No**
@@ -2601,8 +3027,11 @@ You pause, your breath hitching against the cold interior of your Shadow-Glass l
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Ardent Defense - Use your high Charisma and mirror-magic potential to argue that this is a deeper intelligence operation Gratian isn&#x27;t cleared for.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Frost-Spur Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Masked (Shadow-Glass) | Exhaustion: 0 | Inspiration: No**
@@ -2620,8 +3049,11 @@ Gratian’s warhorse shifts restlessly, but the Prefect remains motionless. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Collaboration - Invite him to &#x27;support&#x27; the operation by holding the ridge while you move on the Azure Peak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Frost-Spur Slopes** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2641,8 +3073,11 @@ As the bone-white knights thunder away into the treeline, the Specialists exhale
 > 👤 **Player:**
 > *"begin ascent, establish comms, scout ridge hold, tell annalise and the host we now need a larger force for surgical strike on gratian but can lead him into an ambush easier"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Ridge Hold Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4**
@@ -2658,8 +3093,11 @@ You reach the jagged outcroppings overlooking Ridge Hold. [DICE: Perception: 1d2
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate Sentries - Order the Veiled scouts to silently remove the lookouts at Ridge Hold before the main force arrives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Ridge Hold Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6,800/14,000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2673,8 +3111,11 @@ However, the mountain is a fickle ally. As the lead scout ghosts toward the prim
 > 👤 **Player:**
 > *"since gratian is gone i go in personally and command the scouts and say we need to fortify here better. i manipulate the imperials into good positions and then let me elite scouts trigger a surprise round and kill them with my help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Ridge Hold Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2690,8 +3131,11 @@ Then, you move. Dawnbreaker clears its scabbard with a golden chime that drowns 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Use the shock of the ambush to force the remaining soldiers to yield*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Ridge Hold Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 6800/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **[None] | Exhaustion: 0 | Inspiration: No**
@@ -2714,8 +3158,11 @@ You gain **700 XP** for Neutralizing the Holding Force.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Aide - Find the highest-ranking survivor to learn Gratian&#x27;s exact orders and the timing of the second cohort&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Ridge Hold Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2733,8 +3180,11 @@ He gasps, his eyes darting toward the maps. 'Prefect Gratian... his orders were 
 > 👤 **Player:**
 > *"Think. If I fortify the ridge could we actually beat 300 heavy infantry if we get reinforcements?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Ridge Hold Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (13:35 (Midday))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2746,8 +3196,11 @@ You pause, your Soft-Step boots crunching in the slush as you weigh the maps aga
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Interrogation - Search the dispatch case for specific codes or psychic frequencies that could be used to confuse the incoming cohort.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Ridge Hold Perimeter** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8900/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2761,8 +3214,11 @@ Your fingers trace a series of rhythmic, geometric patterns on a separate, obsid
 > 👤 **Player:**
 > *"call for the anvil and then force redirect somehwere far away from ashwood keep, back in the original direction of imperium capital"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Ridge Hold Perimeter / Southern Pass** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8900/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2778,8 +3234,11 @@ With Gareth leading the rear and the Specialists providing arcane and tactical s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divide and Conquer - Try to use the decoded ciphers to send the Cohort&#x27;s scouts on a wild goose chase, separating them from the main body.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4, Inspiration: No**
@@ -2797,8 +3256,11 @@ However, as you attempt to flood the Pioneers' broader network with static to ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Shroud - Use the Crown of Clarity to bury your presence in the mountain&#x27;s natural resonance, hoping they attribute the glitch to the storm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Crowned, Shrouded | Exhaustion: 0 | Inspiration: No**
@@ -2808,8 +3270,11 @@ You close your eyes, the cool weight of the Crown of Clarity acting as a lens fo
 > 👤 **Player:**
 > *"Setup kill box with ashwood wedge tos tart raining down arrows and ranged attacks and then use ciphers to send a screeching signal to the cohort to disorient them. Then have my elite scouts try to use ranged attacks to kill pioneer lead while I assess surgical strike odds. Also wait for host reinforcements"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Crown of Clarity Active | Exhaustion: 0 | Inspiration: No**
@@ -2833,8 +3298,11 @@ You look down, assessing the odds for your surgical strike. [DICE: Surgical Stri
 God Mode:
 put on a mask so people don't know who I am. also gratian shouldn't be near the cohort, he's somewhere else where the host is diverting him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Masked, Divine Sense Active | Exhaustion: 0 | Inspiration: No**
@@ -2844,8 +3312,11 @@ The user has entered GOD MODE to adjust the tactical and narrative state. Arion 
 > 👤 **Player:**
 > *"psychic overload and keep diverting gratian"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Masked, Psychic Shroud | Exhaustion: 0 | Inspiration: No**
@@ -2861,8 +3332,11 @@ At the southern border, the distraction holds with terrifying efficacy. [DICE: G
 > 👤 **Player:**
 > *"total ranged surpression, in parallel specialist breakthrough, in parallel await host reinforcements"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Southern Pass (Kill Box)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:20 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Physically Masked, Mirror Resonance Active**
@@ -2878,8 +3352,11 @@ You sit in the shadows, your eyes fixed on the southern horizon. The shadow-danc
 > 👤 **Player:**
 > *"wait for host to flank then lead wedge charge. Unmask and showcase alexiel's full gear. Persuade men to surrender and explain that this is the true path not the evil empress's control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Southern Pass (Canyon Throat)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 45/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -2901,8 +3378,11 @@ The 300 men of the Second Cohort do not surrender. Instead, the sight of your fu
 > 👤 **Player:**
 > *"signal host vanguard, thunderous smite"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 2/4 used (2 remaining), L2 0/2 used (2 remaining), Lay on Hands: 5/45 used, Divine Sense: 3/4 used** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -2922,8 +3402,11 @@ As the Centurion falls, the first wave of Host reinforcements hits the Cohort's 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead the Ashwood Charge - Order the Wedge to exploit the breach and push into the Cohort&#x27;s heart*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 1/2, Lay on Hands: 5/45, Divine Sense: 3/4** &nbsp;|&nbsp; ⚠️ **Masked, Champion's Armory Bonded | Exhaustion: 0 | Inspiration: No**
@@ -2945,8 +3428,11 @@ The grey-clad guards of Ashwood answer with a unified shout, their heavy wedge d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Wedge - Lead the Ashwood guards deeper into the Cohort&#x27;s center to divide them into smaller, manageable pockets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 1/4, L2 2/2, Lay on Hands: 40/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Physically Masked, Ardent Legacy Awakened | Inspiration: No**
@@ -2962,8 +3448,11 @@ The Ashwood Wedge holds its form, grinding into the center of the Cohort. You se
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Mass Surrender - With the line broken, use your full Charisma and Alexiel&#x27;s gear to force a total surrender of the remaining pockets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 8200/14000 | Gold: 28gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 1/4, L2 2/2, Lay on Hands: 40/45, Divine Sense: 1/4** &nbsp;|&nbsp; ⚠️ **Masked | Inspiration: No**
@@ -2977,8 +3466,11 @@ The effect is like a physical shockwave. The remaining pockets of Imperial resis
 God Mode:
 300 or sized cohort surrendered, i shold get the exp i would've gotten from killing them. I should have way more loot than 450g
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 327700/355000 | Gold: 16883gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 1/4, L2 2/2, Lay on Hands: 40/45, Divine Sense: 1/4, Exhaustion: 0**
@@ -2988,8 +3480,11 @@ The user has corrected the rewards for the mass surrender of the Second Cohort. 
 God Mode:
 ok wait level 19 is too crazy. In a standard D&D scenario how much would someone get for winning a battle and getting the remaining enemy to surrender?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 31/31 | XP: 327,700/355,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 1/4, L2 2/2, Lay on Hands: 40/45, Divine Sense: 1/4, Exhaustion: 0**
@@ -2999,8 +3494,11 @@ The user is questioning the massive XP jump from Level 5 to 19 (315,000 XP) for 
 God Mode:
 Lets do this and process my level up for multiple levels. - **Suggested Adjustment**: Set total XP to **85,000 (Level 11)**. This marks you as a Regional Hero who has officially entered the Continental Tier of power, but leaves room for the Azure Peak and Black Salt Flats to remain challenging.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 79/79 | XP: 85,000/100,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, Lay on Hands: 75/75, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3010,8 +3508,11 @@ The user has opted for a balanced progression at Level 11 (85,000 XP) to maintai
 God Mode:
 give me pros/cons of this respect for the campaign. what if i do 2 paladnin and 9 warlock and make sure i pick a warlock subclass that lets me use CHA for hit/dmg. Then I put my two ASI in CHA, and focus on base stats 16 CHA 16 dex, 14 int, rest spread out
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 New Peace (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 79/79 | XP: 85,000/100,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 75/75 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -3023,8 +3524,11 @@ is this an official D&D rule? **Multiclass Rule:** You MUST have at least **13 S
 
 yeah lets do con 14 instead of int 14
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 79/79 | XP: 85,000/100,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, LoH: 95/95, Sense: 5/5, Exhaustion: 0**
@@ -3034,8 +3538,11 @@ The user is refining the character's mechanical foundation for high-level play. 
 God Mode:
 Lets bring str to 13 and put points into dex. Lets put all my ASI into CHA so it should be 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 79/79 | XP: 85,000/100,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3 | LoH: 95/95 | Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -3045,8 +3552,11 @@ The user is in GOD MODE performing a major mechanical reorganization of Ser Ario
 God Mode:
 what are my stats now then
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin | HP: 79/79 | XP: 85,000/100,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3 | LoH: 75/75 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -3056,8 +3566,11 @@ The user has completed a major mechanical respec in GOD MODE to prepare for a fu
 God Mode:
 make me 2 paladin, and rest in hexblade as discussed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Paladin 2 / Hexblade 9) | HP: 81/81 | XP: 85000/100000 | Gold: 16883gp** &nbsp;|&nbsp; ✨ **HD: 2d10/9d8, Spells: P-L1 2/2, W-L5 2/2, LoH: 30/30, Divine Sense: 6/6**
@@ -3067,8 +3580,11 @@ Administrative synchronization for the multiclass respec to Paladin 2 / Hexblade
 God Mode:
 auto pick invocations
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2/Warlock 9 | HP: 81/81 | XP: 85,000/100,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 2d10/9d8, Spells: P-L1 2/2, W-L5 2/2, LoH: 30/30, Divine Sense: 6/6** &nbsp;|&nbsp; ⚠️ **Masked, Hidden | Inspiration: No**
@@ -3078,8 +3594,11 @@ The user has requested to automatically pick Eldritch Invocations for the Warloc
 > 👤 **Player:**
 > *"return to story, convince the surrendered imperium units to integrate into my army"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Southern Pass (Ambush Site)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2 / Warlock 9 | HP: 81/81 | XP: 85,000/100,000 | Gold: 16,883gp** &nbsp;|&nbsp; ✨ **HD: 2d10/9d8, Spells: P-L1 2/2, W-L5 2/2, LoH: 30/30, Divine Sense: 5/5, Exhaustion: 0**
@@ -3097,8 +3616,11 @@ A low murmur ripples through the kneeling ranks. The Imperial Pioneers, their gl
 > 👤 **Player:**
 > *"secure army, fortify ridge hold, bring a surgical kill team of elites from host,ashwood,former imperium to handle gratian. I will set up an ambush for him using persusasion and trigger a kill box"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 85,000/100,000 | Gold: 33,738gp** &nbsp;|&nbsp; ✨ **HD: 2d10/9d8, Spells: P-L1 2/2, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3114,8 +3636,11 @@ You lead this team back toward Ridge Hold, moving through the jagged limestone w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trigger Ambush (Persuasion) - Step into the light and use your Charisma to lure Gratian into the center of the kill box before signaling the strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 85,000/100,000 | Gold: 33,738gp** &nbsp;|&nbsp; ✨ **HD: 2d10/9d8, Spells: P-L1 2/2, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked, Ambush Readied | Exhaustion: 0 | Inspiration: No**
@@ -3139,8 +3664,11 @@ With a sharp, two-fingered whistle, the shadows of the ridge come alive. From th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Surrender - Use the overwhelming force of the Vanguard and your Charisma to demand a bloodless surrender before the melee starts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 85,000/100,000 | Gold: 33,738gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: P-L1 2/2, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5**
@@ -3158,8 +3686,11 @@ He raises his blade, the black steel drinking the golden light of Dawnbreaker. "
 > 👤 **Player:**
 > *"use a high level hold person on gratian and as many of his men as possible, signal my forces to kill anyone who isn't held"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Pal/War | HP: 81/81 | XP: 85000/100000 | Gold: 33738gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: P-L1 2/2, W-L5 1/2 | LoH: 95/95 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked | Inspiration: No**
@@ -3179,8 +3710,11 @@ From the limestone ledges and the foxholes, the response is instantaneous and ov
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Mind - Use your proximity and the Crown of Clarity to probe his paralyzed mind for the Empress&#x27;s hidden ciphers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 85,000/100,000 | Gold: 33,738gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: P-L1 2/2, W-L5 0/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked | Inspiration: No**
@@ -3198,8 +3732,11 @@ Around you, the melee is short and brutal. The Ardent Vanguard moves with the ef
 > 👤 **Player:**
 > *"secure prisoners, fully look them (gratian should have good gear), persuade gratian to join me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 85000/100000 | Gold: 50593gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: P-L1 2/2, W-L5 0/2, LoH: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3217,8 +3754,11 @@ You reach for the seals of Gratian's mask, hissing with the release of psychic p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Psychic Leverage - Use the Argent Ciphers to show him exactly how the Empress intended to replace him with Inquisitor Vane.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2/Warlock 9 | HP: 81/81 | XP: 86,800/100,000 | Gold: 50,593gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/2, L2 3/3, L3 3/3, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked, Psychic Shielding | Exhaustion: 0 | Inspiration: No**
@@ -3236,8 +3776,11 @@ He doesn't reach for his sword, but the 'Social HP' of his conviction remains hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Personal Leverage - Dig deeper into the dispatch case for personal letters or secrets that Gratian might value more than the Mandate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 86,800/100,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/2, L2 3/3, L3 3/3 | W-L5 2/2 | LoH: 95/95 | Divine Sense: 5/5 | Exhaustion: 0**
@@ -3261,8 +3804,11 @@ Gratian's breath hitches, his gaze fixed on the letters, but the 18 you rolled i
 > 👤 **Player:**
 > *"offer salve immediately and force sanctioned orders without asking for anything in return. He can have this whether he joins me or not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 86,800/100,000 | Gold: 50,593gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/2, L2 3/3, L3 3/3, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -3282,8 +3828,11 @@ Gratian stares at the vial, then at your unmasked face. The 'Social HP' of his c
 > 👤 **Player:**
 > *"integrate gratian and explain my vision of the middle path. A world with true freedom where everyone can thrive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin/Warlock | HP: 81/81 | XP: 86800/100000 | Gold: 50593gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/2, L2 3/3, L3 3/3, W-L5 0/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -3303,8 +3852,11 @@ Gratian bows his head deeply, the jasmine-scented letters of his daughter tucked
 God Mode:
 why didnt you give me exp for converting gratian, that was huge
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Ridge Hold (Southern Pass)** &nbsp;|&nbsp; ⏳ **Kythorn 2, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Paladin 2 / Warlock 9 | HP: 81/81 | XP: 86,800/100,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/2, L2 3/3, L3 3/3, W-L5 0/2, LoH: 95/95, Divine Sense: 5/5, Inspiration: No**
@@ -3317,8 +3869,11 @@ Consolidate the Vanguard: Organize the 300 former Imperials and Ashwood guards i
 Establish Northern Base: Work with Gratian and Annalise to turn Ridge Hold into a permanent fortified sanctuary.
 Deep Dive decryption: Use the Argent-Tier keys to intercept Vane's current location and orders.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Azure Peak Trail (Ascending)** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 2/2, L2 3/3, L3 3/3, W-L5 2/2 | LoH: 95/95 | Divine Sense: 5/5**
@@ -3328,8 +3883,11 @@ The user has executed a massive strategic reorganization in GOD MODE. Arion has 
 > 👤 **Player:**
 > *"pick alert as my feat and then let me pick spells for lvl 12"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Azure Peak Trail** &nbsp;|&nbsp; ⏳ **Kythorn 3, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Warlock 10 | HP: 81/81 | XP: 103800/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -3341,8 +3899,11 @@ With your level-up to Level 12 (Warlock 10) finalized, you feel your connection 
 God Mode:
 hold monster, booming blade, then how rare is a 16 year old level 12? Adjust narrative and characters reactions accordingly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Azure Peak Trail** &nbsp;|&nbsp; ⏳ **Kythorn 4, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W-L5 0/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Alert | Inspiration: No**
@@ -3363,8 +3924,11 @@ The characters' reactions have been adjusted: The Specialists watch you with a s
 God Mode:
 wait wtf are you doing. dont do that to gratian, i meant i pick those spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Azure Peak Trail** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Warlock 10 | HP: 81/81 | XP: 103800/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Alert, Crowned | Exhaustion: 0 | Inspiration: No**
@@ -3376,8 +3940,11 @@ Sergeant Gareth and the Specialists watch you in a heavy, reverent silence. They
 > 👤 **Player:**
 > *"remember gratian is still happy and on my side, then address the unit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Azure Peak Trail** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Hexblade 9 | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/2, L2 3/3, L3 3/3, W-L5 2/2 | LoH: 95/95 | Divine Sense: 5/5**
@@ -3393,8 +3960,11 @@ A unified strike of spear-butts against the stone echoes through the pass—a so
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Gratian - Ask the former Prefect for any tactical intelligence he has on the Monastery&#x27;s defenses or wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Azure Peak Trail** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W-L5 2/2, LoH: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3408,8 +3978,11 @@ He points toward the high, slender arches of the cloisters visible against the p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Strike on Pioneers - Identify and neutralize the forward Pioneer outposts before they can signal the summit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Azure Peak Trail** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Paladin: L1 2/2, L2 3/3 | Warlock: L5 2/2 | LoH: 95/95 | Divine Sense: 5/5 | Exhaustion: 0**
@@ -3425,8 +3998,11 @@ They haven't sounded the alarm. The 'Report' Gratian warned about is a breath aw
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Suppression - Use the Crown of Clarity and your Mirror Magic to &#x27;blind&#x27; the Pioneer&#x27;s scan while the specialists move in.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Azure Peak Outpost #1** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 2/2, LoH: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3440,8 +4016,11 @@ Kaelen and Vesper lead the charge, their boots making no more sound than the fal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Pioneer - Force the Pioneer Lead to reveal the secondary ward handshakes for the summit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Azure Peak Outpost #1** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 2/2, LoH: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3457,8 +4036,11 @@ The Pioneer's resistance shatters like thin ice. His eyes fly open, pupils blown
 > 👤 **Player:**
 > *"spoof psychic network, then neutralize remaining"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Azure Peak Outpost #1** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 2/2, LoH: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3474,8 +4056,11 @@ With the network spoofed, you signal the specialists to finish the work. Kaelen 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Booming Blade Strike - Use Booming Blade to shatter the sentry before he can shout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Azure Peak Outpost #1** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 2/2, LoH: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Alert, Shadow-Glass Concealment | Exhaustion: 0 | Inspiration: No**
@@ -3491,8 +4076,11 @@ Behind you, the Pioneer Lead remains slumped, his mind a shattered mirror of you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sweep Remaining Outposts - Systematically neutralize Outposts #2 and #3 to ensure no alarms are raised from the flanks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Azure Peak Outposts #2 & #3** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: P L1 2/2, L2 3/3, W L5 0/2 | Lay on Hands: 95/95 | Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked, Stealthy | Inspiration: Yes**
@@ -3512,8 +4100,11 @@ Far above, the Monastery of the Azure Peak pulses with a rhythmic, cerulean ligh
 God Mode:
 my team should be fighting with me, not me alone
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Outpost #3, Azure Peak Path** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3537,8 +4128,11 @@ Time remains frozen as the Monastery above begins to pulse with high-frequency p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Withdrawal - Fall back to Outpost #2 and use the specialists to sabotage the alarm network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Azure Peak - Outpost #2** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked, Alert | Exhaustion: 0 | Inspiration: No**
@@ -3554,8 +4148,11 @@ A high-pitched whine, audible only to those with psychic sensitivity, ripples th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush the Pursuit - Wait for the Eaglet reinforcements to reach Outpost #2 and eliminate them in the chokepoint.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Azure Peak - Outpost #2** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103800/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5**
@@ -3571,8 +4168,11 @@ You look at Gareth and the ten Veiled Scouts. They have taken up positions at th
 > 👤 **Player:**
 > *"ambush investigators and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Azure Peak - Outpost #2** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 103,800/120,000 | Gold: 84,303gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3594,8 +4194,11 @@ As his body hits the shale, the Veiled Scouts release their volley. Four Eaglets
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push to the Monastery - Exploit the blind spot and move directly for the summit while the network is down.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Azure Peak - Outpost #2** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Hexblade | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Physically Masked, Unit Fully Active | Inspiration: No**
@@ -3607,8 +4210,11 @@ From the heights, the Veiled Scouts continue their lethal rain. You see Vesper d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Cloisters - Send Vesper and the scouts ahead to identify the entry point for the &#x27;Mind&#x27; fragment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Azure Peak - Cloisters Exterior** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked, Stealthing | Exhaustion: 0 | Inspiration: No**
@@ -3626,8 +4232,11 @@ You move up to the secondary ledge, your Shadow-Glass boots finding traction on 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synchronize Resonance - Use the 3-7-1-9 handshake and your Mirror Magic to mask the unit&#x27;s psychic signature as they enter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Azure Peak - Upper Cloisters** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked, Stealthy | Inspiration: No**
@@ -3641,8 +4250,11 @@ Closing your eyes, you visualize the 3-7-1-9 harmonic. You aren't just inputting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neutralize Pioneer Hub - The Pioneers in the central spire are the biggest threat; take them out while the network is glitched.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked, Shadow-Glass | Inspiration: No**
@@ -3664,8 +4276,11 @@ Whirling, you bring the blade around in a horizontal arc, catching the second Pi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Surrender - Use your unmasked presence and unyielding authority to demand the remaining Imperial units yield while they are psychically blind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: P L1 2/2, L2 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5**
@@ -3679,8 +4294,11 @@ The Pioneers, stripped of their mental armor and faced with the terrifying certa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Lead Pioneer - Extract local override codes and the location of any hidden caches or traps.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5**
@@ -3698,8 +4316,11 @@ You signal Vesper and the Veiled Scouts to secure the alcove. [DICE: Investigati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Override Code - Use the 9-4-2-2 code to seize control of the monastery&#x27;s internal systems (gates, vents, suppression fields).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Azure Peak - Central Spire (Pioneer Hub)** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3715,8 +4336,11 @@ A deep, harmonic thrum vibrates through the floor, drowning out the frantic clic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot High-Clearance Cache - Carefully bypass the kinetic trap and secure the contents of the Imperial supply locker.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Physically Masked | Inspiration: No**
@@ -3728,8 +4352,11 @@ You reach the Imperial supply locker, its surface etched with the silver sigil o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Mind Fragment - Abandon the looting for now and push directly for the central spire&#x27;s heart to claim the fragment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5, Exhaustion: 0**
@@ -3743,8 +4370,11 @@ As you lunge toward the alcove, the floor beneath you groans. A secondary coolan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Call for Specialists - Have Luthier stabilize the venting pipes while Kaelen helps clear the physical path.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 1/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked | Exhaustion: 0 | Inspiration: No**
@@ -3756,8 +4386,11 @@ However, the physical debris remains a jagged barrier. Kaelen, your Warder, lung
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eldritch Bypass - Use Misty Step or a similar movement ability to bypass the debris alone and secure the fragment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Hexadin | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked, Alert | Inspiration: No**
@@ -3773,8 +4406,11 @@ You reach into the pulsating heart of the pylon. The resonance is deafening in y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Fragment - Attempt to use the fragment and the Crown to see Sariel&#x27;s current plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Alert, True Seeing (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3790,8 +4426,11 @@ But there is more. You feel a sharp, cold spike of alarm from the capital. Sarie
 > 👤 **Player:**
 > *"sabotage and then seek third fragment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Azure Peak - Central Spire** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Physically Masked, Unit Active | Inspiration: No**
@@ -3805,8 +4444,11 @@ You move back to the primary console, your Shadow-Glass gauntlets dancing over t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Host Guide - Request a specialized shadow-dancer guide from the Shattered Host to navigate the Salt Flats&#x27; nihilistic landscape.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Azure Peak - Whispering Gate** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 0/2, Lay on Hands: 95/95, Divine Sense: 5/5**
@@ -3824,8 +4466,11 @@ The shadow-dancers exchange a silent glance. The one who spoke bows their head, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Specialists - Speak with Luthier and Kaelen about preparing psychic defenses for the Flats.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Black Salt Flats - Threshold** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2 / Warlock 10 | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 2/2, Lay on Hands: 95/95, Divine Sense: 5/5, Inspiration: No**
@@ -3843,8 +4488,11 @@ Kaelen, the Warder, nods, his hand resting on the pommel of his heavy blade. 'I 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Threshold - Establish a more permanent psychic blind spot at the entrance to the Flats to mask the Vanguard&#x27;s rear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Black Salt Flats - Threshold** &nbsp;|&nbsp; ⏳ **Kythorn 5, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 2/2, Lay on Hands: 95/95, Divine Sense: 5/5, Inspiration: No**
@@ -3858,8 +4506,11 @@ You personally step into the center of the geometric array, drawing upon the 'Mi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend into the Flats - Follow Sylas into the white-salt expanse toward the Warden&#x27;s domain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **The Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 2/2, Lay on Hands: 95/95, Divine Sense: 5/5** &nbsp;|&nbsp; ⚠️ **Masked, Void-Anchor Active | Inspiration: No**
@@ -3877,8 +4528,11 @@ Sylas stops, his veil fluttering as he looks back at the disarray. The 'Ghost Ba
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pulse Divine Sense - Use your aura to locate the source of the clicking beneath the salt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105150/120000 | Gold: 67448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 2/2, Lay on Hands: 95/95, Divine Sense: 4/5, Exhaustion: 0**
@@ -3894,8 +4548,11 @@ Its multi-jointed legs are clicking in a pre-programmed hunting pattern, triangu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Thunderous Preemptive Strike - Drive Dawnbreaker into the salt with a Thunderous Smite to shatter the creature&#x27;s core before it breaches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/2, L2 3/3, L3 3/3, W L5 1/2 | Lay on Hands: 95/95 | Divine Sense: 4/5 | Inspiration: No**
@@ -3913,8 +4570,11 @@ A metallic screech, muffled by tons of pulverized salt, echoes beneath your feet
 God Mode:
 wheres my extra attack?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Warlock 9 | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 1/2, LoH: 95/95, Divine Sense: 4/5, Inspiration: No**
@@ -3924,8 +4584,11 @@ The user is in GOD MODE inquiring about their 'Extra Attack' feature. As a Palad
 > 👤 **Player:**
 > *"why didnt you use it or let me decide to use it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, W L5 1/2, LoH: 95/95, Divine Sense: 4/5, Inspiration: No**
@@ -3942,8 +4605,11 @@ The construct shrieks as the radiant edge of your mother's blade bites through i
 > 👤 **Player:**
 > *"Think. whats happening now, do i have the third fragment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:35 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin/Warlock | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **Hit Dice: 12/12 | Spells: L1 2/2, L2 3/3, L3 3/3 | Warlock L5: 0/2 | Lay on Hands: 95/95 | Divine Sense: 4/5**
@@ -3957,8 +4623,11 @@ According to the fragmented lore you recovered in Ashwood, the Trial of the Will
 God Mode:
 did you forget to give me any exp/loot/rewards? if not do so but make sure you dont double give
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Paladin 2/Warlock 10 | HP: 81/81 | XP: 105,150/120,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 2/2, L2 3/3, L3 3/3, Pact L5 1/2, LoH: 95/95, Divine Sense: 4/5, Exhaustion: 0**
@@ -3974,8 +4643,11 @@ I will now process the Salt-Warden XP and the Monastery Narrative Milestone rewa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Award Salt-Warden Rewards - Award 5,900 XP for CR 10 construct + 1,500gp in alchemical copper scrap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin 2 / Warlock 11 | HP: 81/81 | XP: 125,450/140,000 | Gold: 68,948gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 2/2, L2 3/3, L3 3/3 | Pact L5: 3/3 | Mystic Arcanum: 1/1 | LoH: 95/95 | Divine Sense: 4/5 | Exhaustion: 0**
@@ -4003,8 +4675,11 @@ You stand at the threshold of the deep flats, your Shadow-Glass armor drinking t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Level 13 - Select your 6th-level Mystic Arcanum and update your pact slots.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin 2/Warlock 11 | HP: 88/88 | XP: 125,450/140,000 | Gold: 68,948gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/2, L2 3/3, L3 3/3 | Pact L5: 3/3 | Mystic Arcanum: 1/1 | LoH: 95/95 | Divine Sense: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Physically Masked, Ghost Commander Ruse Active | Exhaustion: 0 | Inspiration: No**
@@ -4018,8 +4693,11 @@ As the starlight reflects off the polished surface of the Black Salt, four disti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mystic Arcanum: Mass Suggestion - The peak of Mirror Magic. Influence up to 12 creatures with a single, reasonable-sounding psychic command. Lasts 24 hours without concentration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125450/140000 | Gold: 68948gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 2/2, L2 3/3, L3 3/3 | Pact L5: 3/3 | Mystic Arcanum: 1/1 | LoH: 95/95 | Divine Sense: 4/5 | Exhaustion: 0**
@@ -4039,8 +4717,11 @@ You gain **10,900 XP** for the Salt-Warden victory and the Monastery Milestone. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Mind Fragment - Use your improved level-13 focus to extract more specific data on the Erasers&#x27; location and composition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125,450/140,000 | Gold: 68,948gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Pact Slots: L5 3/3 | Mystic Arcanum: 1/1 | LoH: 95/95 | Divine Sense: 4/5 | Exhaustion: 0**
@@ -4058,8 +4739,11 @@ Sylas watches you, his veil-covered face twitching as the azure light of the fra
 > 👤 **Player:**
 > *"do i have all mind fragments now? shouldnt i get some power up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (04:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125,450/140,000 | Gold: 68,948gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Pact Slots: L5 3/3, Spells: L1 2/2, L2 3/3, L3 3/3, LoH: 95/95, Divine Sense: 4/5, Mystic Arcanum: 1/1** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -4075,8 +4759,11 @@ You feel the vibration in your boots intensify. The Erasers are three miles out,
 > 👤 **Player:**
 > *"Think. should i counter ambush? What forces do i have now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (04:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125,450/140,000 | Gold: 68,948gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Pact Slots: L5 3/3, Spells: L1 2/2, L2 3/3, L3 3/3, LoH: 95/95, Divine Sense: 4/5, Mystic Arcanum: 1/1** &nbsp;|&nbsp; ⚠️ **Physically Masked, Unit Active | Exhaustion: 0 | Inspiration: No**
@@ -4090,8 +4777,11 @@ As you weigh the odds of a counter-ambush against the need for the final fragmen
 > 👤 **Player:**
 > *"prep counter ambush try to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125450/140000 | Gold: 68948gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Pact Slots: L5 3/3 | Spells: L1 2/2, L2 3/3, L3 3/3 | LoH: 95/95 | Divine Sense: 4/5 | Mystic Arcanum: 1/1** &nbsp;|&nbsp; ⚠️ **Physically Masked, Unit Fully Active | Exhaustion: 0 | Inspiration: No**
@@ -4112,8 +4802,11 @@ They stop exactly thirty paces from your kill box. Malphas raises a gauntlet, hi
 > 👤 **Player:**
 > *"mass suggestion and get them to surrender to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin 2 / Warlock 11 | HP: 88/88 | XP: 125,450/140,000 | Gold: 68,948gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Pact Slots: L5 2/3 | Spells: L1 2/2, L2 3/3, L3 3/3 | LoH: 95/95 | Divine Sense: 4/5 | Arcanum: 0/1** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: Yes**
@@ -4127,8 +4820,11 @@ Malphas, the monolith of bone-white plate, freezes. His 120-foot suppression fie
 > 👤 **Player:**
 > *"Secure erasers, fully loot them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125450/140000 | Gold: 70148gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Pact Slots: L5 2/3 | Spells: L1 2/2, L2 3/3, L3 3/3 | LoH: 95/95 | Divine Sense: 4/5 | Arcanum: 0/1** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: No**
@@ -4144,8 +4840,11 @@ The 'Mass Suggestion' has turned the Empress's most lethal hunters into willing 
 > 👤 **Player:**
 > *"Deep interrogation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125,450/140,000 | Gold: 70,148gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Pact Slots: L5 2/3 | Spells: L1 0/2, L2 0/3, L3 0/3 | LoH: 95/95 | Divine Sense: 4/5 | Arcanum: 1/1 used** &nbsp;|&nbsp; ⚠️ **Physically Masked, Unit Active | Exhaustion: 0 | Inspiration: No**
@@ -4163,8 +4862,11 @@ Beside him, Vesper-9 and Kael-X remain frozen in their dreamlike state, but the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Mind Fragment Resonance - Use the Azure Peak fragment to mimic a high-clearance &#x27;Empress&#x27; signal to bypass his firewall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125,450/140,000 | Gold: 67,448gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Pact Slots: L5 2/3, Spells: L1 0/2, L2 0/3, L3 0/3, LoH: 95/95, Divine Sense: 4/5, Arcanum: 0/1** &nbsp;|&nbsp; ⚠️ **Physically Masked | Exhaustion: 0 | Inspiration: Yes**
@@ -4182,8 +4884,11 @@ The 'Mass Suggestion' holds—the Erasers remain your dreamlike captives—but t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Vesper-9 or Kael-X - Attempt to extract data from the subordinates, who may have weaker firewalls than the Lead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Black Salt Flats - The Ghost Barrens** &nbsp;|&nbsp; ⏳ **Kythorn 6, 1492 DR (05:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Paladin/Warlock | HP: 88/88 | XP: 125450/140000 | Gold: 70148gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Pact Slots: L5 2/3, Spells: L1 0/2, L2 0/3, L3 0/3, LoH: 95/95, Divine Sense: 4/5, Arcanum: 0/1** &nbsp;|&nbsp; ⚠️ **Physically Masked | Inspiration: No**
@@ -4203,6 +4908,8 @@ Sylas steps forward, his veil whipping in the sulfurous wind. "The Desolation Pi
 - **Immediate Event**: Host Sabotage. Sylas's cell reports they have successfully collapsed the primary salt-bridge leading to your position, buying you 15 more minutes before Vane's ground forces can reach the Desolation.
 - **Immediate Event**: Environmental Shift. A massive salt-storm is brewing to the west; visibility will drop to zero in 3 turns, but it will also mask your psychic heat-signature.
 - **Long-Term Event**: The Silent Throne's Focus. Sariel has officially declared the Northern Reach a 'Dead Zone,' authorizing the use of reality-warping weaponry to stabilize the province in 50 turns.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

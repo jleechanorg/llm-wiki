@@ -12,81 +12,97 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (60 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Player (freeform):
 Option 1: AI Generated - Let the AI build a complete character sheet for Nocturne based on your concept (Class, Stats, Spells, and Gear ready to play).
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Golden Spire | Tertius 01, 42000 DR (08:05) | Roleplay |
-| **02** | The Golden Spire | Tertius 1, 42000 DR (08:45) | Roleplay |
-| **03** | Sanctum of Stars | Tertius 1, 42000 DR (09:05) | Roleplay |
-| **04** | Sanctum of Stars | Tertius 1, 42000 DR (09:21) | Roleplay |
-| **05** | The Sanctum of Stars | Tertius 1, 42000 DR (09:26) | Social Challenge |
-| **06** | Sanctum of Stars | Tertius 1, 42000 DR (09:22) | Roleplay |
-| **07** | Sanctum of Stars | Tertius 1, 42000 DR (09:22) | Roleplay |
-| **08** | Sanctum of Stars | 42000 Tertius 1, 09:22:00 | Roleplay |
-| **09** | The Sanctum of Stars | Tertius 1, 42000 DR (09:22) | Social Challenge |
-| **10** | The Sanctum of Stars | Tertius 1, 42000 DR (09:24) | Social Challenge |
-| **11** | The Sanctum of Stars | Day 1, 42000 Tertius (09:25) | Boss Surrender |
-| **12** | The Obsidian Wing | Tertius 1, 42000 DR (10:40) | Boss Surrender |
-| **13** | The Obsidian Wing | Tertius 1, 42000 DR (12:30) | Social Challenge |
-| **14** | The Obsidian Wing | Tertius 1, 42000 DR (12:30) | Roleplay |
-| **15** | The Obsidian Wing | Tertius 1, 42000 (12:45) | Roleplay |
-| **16** | The Obsidian Wing | Tertius 1, 42000 DR (13:05) | Roleplay |
-| **17** | The Sanctum of Stars | Tertius 22, 42000 DR (09:00) | Roleplay |
-| **18** | The Whisperer's Sanctum | 22, 42000 Tertius (12:35) | Roleplay |
-| **19** | Aurelian Pleasure Moon - Ludus Batiatus Terrace | Tertius 15, 42000 DR (08:00) | Roleplay |
-| **20** | Aurelian Pleasure Moon - Batiatus Estate | 42000 Tertius 15, 08:15:00 | Roleplay |
-| **21** | Province of Capua-Prime | Tertius 15, 42000 DR (08:20) | Roleplay |
-| **22** | Province of Capua-Prime | Tertius 15, 42000 DR (08:30) | Roleplay |
-| **23** | Province of Capua-Prime | Tertius 15, 42000 (08:45) | Roleplay |
-| **24** | Province of Capua-Prime | 42000 Tertius 15, 08:46:00 | Roleplay |
-| **25** | Province of Capua-Prime | Tertius 15, 42000 DR (09:00) | Boss Surrender |
-| **26** | Batiatus Estate Terrace | 42000 Tertius 15, 10:40:00 | Roleplay |
-| **27** | Guest Sanctum | 42000 Tertius 15, 12:15:00 | Boss Surrender |
-| **28** | Batiatus Estate - Capua-Prime | Tertius 15, 42000 DR (12:20) | Boss Surrender |
-| **29** | Batiatus Estate Terrace | Tertius 15, 42000 DR (12:20) | Roleplay |
-| **30** | Meridian Prime - The Gilded Atrium | Quartus 15, 42000 DR (09:15) | Social Challenge |
-| **31** | Unknown |  | Roleplay |
-| **32** | Obsidian Ballroom | Quartus 15, 42000 DR (09:00) | Roleplay |
-| **33** | Krios IV - The Obsidian Ballroom | Quartus 15, 42000 (20:20) | Roleplay |
-| **34** | Krios IV - The Obsidian Ballroom | Quartus 15, 42000 DR (20:50) | Roleplay |
-| **35** | Krios IV - The Obsidian Ballroom | Quartus 15, 42000 DR (21:00) | Social Challenge |
-| **36** | Krios IV - The Iron Cathedral | Quartus 30, 42000 DR (21:10) | Social Challenge |
-| **37** | Obsidian Spire-Gardens | Day 21, 42000 Quintus (19:45) | Social Challenge |
-| **38** | Obsidian Spire-Gardens | 42000 Quintus 21, 19:45:01 | Roleplay |
-| **39** | Regent's Observatory | 42000 Quintus 28, 20:25:00 | Boss Surrender |
-| **40** | Regent's Observatory | Quintus 28, 42000 DR (21:05) | Roleplay |
-| **41** | The Regent's Observatory | 42000 Quintus 28, 20:50:00 | Boss Surrender |
-| **42** | Sector Theta Dead Zone - Valthor's Reach Command Deck | Day 28, 42000 Quintus (22:55) | Roleplay |
-| **43** | Sector Theta - The Dead Zone | Quintus 28, 42000 (23:00) | Roleplay |
-| **44** | The Aethel-Bridge | Quintus 28, 42000 DR (23:35) | Boss Surrender |
-| **45** | Aethel-Bridge | Day 28, 42000 Quintus (23:55) | Roleplay |
-| **46** | Command Deck | Sextus 12, 42000 DR (00:05) | Roleplay |
-| **47** | Command Bridge | Day 12, 42000 Sextus (00:30) | Roleplay |
-| **48** | The Ghost Fortress | 42000 Sextus 12, 01:05:00 | Boss Surrender |
-| **49** | The Ghost Fortress | Sextus 12, 42000 DR (01:10) | Roleplay |
-| **50** | The Ghost Fortress | Sextus 12, 42000 DR (01:15) | Social Challenge |
-| **51** | The Ghost Fortress | Day 12, 42000 Sextus (01:15) | Roleplay |
-| **52** | The Ghost Fortress | 12, 42000 Sextus (00:45) | Roleplay |
-| **53** | Nox-Prime | Bridge of 'The Gilded Spear' | Sextus 12, 42000 DR (01:25) | Roleplay |
-| **54** | Bridge of 'The Gilded Spear' | Sextus 12, 42000 DR (01:30) | Boss Surrender |
-| **55** | The Ghost Fortress | Sextus 12, 42000 DR (01:30) | Roleplay |
-| **56** | The Ghost Fortress | 42000 Sextus 12, 01:30:00 | Roleplay |
-| **57** | The Ghost Fortress | 42000 Sextus 12, 01:30:00:000001 | Roleplay |
-| **58** | The Ghost Fortress | 42000 Sextus 12, 01:50:00 | Boss Surrender |
-| **59** | The Ghost Fortress | 42000 Sextus 12, 02:25:00 | Roleplay |
-| **60** | Krios IV Orbit - Flagship 'Gilded Vengeance' | Sextus 19, 42000 DR (02:35) | Roleplay |
+| [**Scene 01**](#scene-1) | The Golden Spire | Tertius 01, 42000 DR (08:05) | Roleplay |
+| [**Scene 02**](#scene-2) | The Golden Spire | Tertius 1, 42000 DR (08:45) | Roleplay |
+| [**Scene 03**](#scene-3) | Sanctum of Stars | Tertius 1, 42000 DR (09:05) | Roleplay |
+| [**Scene 04**](#scene-4) | Sanctum of Stars | Tertius 1, 42000 DR (09:21) | Roleplay |
+| [**Scene 05**](#scene-5) | The Sanctum of Stars | Tertius 1, 42000 DR (09:26) | Social Challenge |
+| [**Scene 06**](#scene-6) | Sanctum of Stars | Tertius 1, 42000 DR (09:22) | Roleplay |
+| [**Scene 07**](#scene-7) | Sanctum of Stars | Tertius 1, 42000 DR (09:22) | Roleplay |
+| [**Scene 08**](#scene-8) | Sanctum of Stars | 42000 Tertius 1, 09:22:00 | Roleplay |
+| [**Scene 09**](#scene-9) | The Sanctum of Stars | Tertius 1, 42000 DR (09:22) | Social Challenge |
+| [**Scene 10**](#scene-10) | The Sanctum of Stars | Tertius 1, 42000 DR (09:24) | Social Challenge |
+| [**Scene 11**](#scene-11) | The Sanctum of Stars | Day 1, 42000 Tertius (09:25) | Boss Surrender |
+| [**Scene 12**](#scene-12) | The Obsidian Wing | Tertius 1, 42000 DR (10:40) | Boss Surrender |
+| [**Scene 13**](#scene-13) | The Obsidian Wing | Tertius 1, 42000 DR (12:30) | Social Challenge |
+| [**Scene 14**](#scene-14) | The Obsidian Wing | Tertius 1, 42000 DR (12:30) | Roleplay |
+| [**Scene 15**](#scene-15) | The Obsidian Wing | Tertius 1, 42000 (12:45) | Roleplay |
+| [**Scene 16**](#scene-16) | The Obsidian Wing | Tertius 1, 42000 DR (13:05) | Roleplay |
+| [**Scene 17**](#scene-17) | The Sanctum of Stars | Tertius 22, 42000 DR (09:00) | Roleplay |
+| [**Scene 18**](#scene-18) | The Whisperer's Sanctum | 22, 42000 Tertius (12:35) | Roleplay |
+| [**Scene 19**](#scene-19) | Aurelian Pleasure Moon - Ludus Batiatus Terrace | Tertius 15, 42000 DR (08:00) | Roleplay |
+| [**Scene 20**](#scene-20) | Aurelian Pleasure Moon - Batiatus Estate | 42000 Tertius 15, 08:15:00 | Roleplay |
+| [**Scene 21**](#scene-21) | Province of Capua-Prime | Tertius 15, 42000 DR (08:20) | Roleplay |
+| [**Scene 22**](#scene-22) | Province of Capua-Prime | Tertius 15, 42000 DR (08:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Province of Capua-Prime | Tertius 15, 42000 (08:45) | Roleplay |
+| [**Scene 24**](#scene-24) | Province of Capua-Prime | 42000 Tertius 15, 08:46:00 | Roleplay |
+| [**Scene 25**](#scene-25) | Province of Capua-Prime | Tertius 15, 42000 DR (09:00) | Boss Surrender |
+| [**Scene 26**](#scene-26) | Batiatus Estate Terrace | 42000 Tertius 15, 10:40:00 | Roleplay |
+| [**Scene 27**](#scene-27) | Guest Sanctum | 42000 Tertius 15, 12:15:00 | Boss Surrender |
+| [**Scene 28**](#scene-28) | Batiatus Estate - Capua-Prime | Tertius 15, 42000 DR (12:20) | Boss Surrender |
+| [**Scene 29**](#scene-29) | Batiatus Estate Terrace | Tertius 15, 42000 DR (12:20) | Roleplay |
+| [**Scene 30**](#scene-30) | Meridian Prime - The Gilded Atrium | Quartus 15, 42000 DR (09:15) | Social Challenge |
+| [**Scene 31**](#scene-31) | Unknown |  | Roleplay |
+| [**Scene 32**](#scene-32) | Obsidian Ballroom | Quartus 15, 42000 DR (09:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Krios IV - The Obsidian Ballroom | Quartus 15, 42000 (20:20) | Roleplay |
+| [**Scene 34**](#scene-34) | Krios IV - The Obsidian Ballroom | Quartus 15, 42000 DR (20:50) | Roleplay |
+| [**Scene 35**](#scene-35) | Krios IV - The Obsidian Ballroom | Quartus 15, 42000 DR (21:00) | Social Challenge |
+| [**Scene 36**](#scene-36) | Krios IV - The Iron Cathedral | Quartus 30, 42000 DR (21:10) | Social Challenge |
+| [**Scene 37**](#scene-37) | Obsidian Spire-Gardens | Day 21, 42000 Quintus (19:45) | Social Challenge |
+| [**Scene 38**](#scene-38) | Obsidian Spire-Gardens | 42000 Quintus 21, 19:45:01 | Roleplay |
+| [**Scene 39**](#scene-39) | Regent's Observatory | 42000 Quintus 28, 20:25:00 | Boss Surrender |
+| [**Scene 40**](#scene-40) | Regent's Observatory | Quintus 28, 42000 DR (21:05) | Roleplay |
+| [**Scene 41**](#scene-41) | The Regent's Observatory | 42000 Quintus 28, 20:50:00 | Boss Surrender |
+| [**Scene 42**](#scene-42) | Sector Theta Dead Zone - Valthor's Reach Command Deck | Day 28, 42000 Quintus (22:55) | Roleplay |
+| [**Scene 43**](#scene-43) | Sector Theta - The Dead Zone | Quintus 28, 42000 (23:00) | Roleplay |
+| [**Scene 44**](#scene-44) | The Aethel-Bridge | Quintus 28, 42000 DR (23:35) | Boss Surrender |
+| [**Scene 45**](#scene-45) | Aethel-Bridge | Day 28, 42000 Quintus (23:55) | Roleplay |
+| [**Scene 46**](#scene-46) | Command Deck | Sextus 12, 42000 DR (00:05) | Roleplay |
+| [**Scene 47**](#scene-47) | Command Bridge | Day 12, 42000 Sextus (00:30) | Roleplay |
+| [**Scene 48**](#scene-48) | The Ghost Fortress | 42000 Sextus 12, 01:05:00 | Boss Surrender |
+| [**Scene 49**](#scene-49) | The Ghost Fortress | Sextus 12, 42000 DR (01:10) | Roleplay |
+| [**Scene 50**](#scene-50) | The Ghost Fortress | Sextus 12, 42000 DR (01:15) | Social Challenge |
+| [**Scene 51**](#scene-51) | The Ghost Fortress | Day 12, 42000 Sextus (01:15) | Roleplay |
+| [**Scene 52**](#scene-52) | The Ghost Fortress | 12, 42000 Sextus (00:45) | Roleplay |
+| [**Scene 53**](#scene-53) | Nox-Prime | Bridge of 'The Gilded Spear' | Sextus 12, 42000 DR (01:25) | Roleplay |
+| [**Scene 54**](#scene-54) | Bridge of 'The Gilded Spear' | Sextus 12, 42000 DR (01:30) | Boss Surrender |
+| [**Scene 55**](#scene-55) | The Ghost Fortress | Sextus 12, 42000 DR (01:30) | Roleplay |
+| [**Scene 56**](#scene-56) | The Ghost Fortress | 42000 Sextus 12, 01:30:00 | Roleplay |
+| [**Scene 57**](#scene-57) | The Ghost Fortress | 42000 Sextus 12, 01:30:00:000001 | Roleplay |
+| [**Scene 58**](#scene-58) | The Ghost Fortress | 42000 Sextus 12, 01:50:00 | Boss Surrender |
+| [**Scene 59**](#scene-59) | The Ghost Fortress | 42000 Sextus 12, 02:25:00 | Roleplay |
+| [**Scene 60**](#scene-60) | Krios IV Orbit - Flagship 'Gilded Vengeance' | Sextus 19, 42000 DR (02:35) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Golden Spire, Aeterna (Ecumenopolis)** &nbsp;|&nbsp; ⏳ **Tertius 01, 42000 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Psionicist | HP: 6/6 | XP: 0/300 | Gold: 500gp**
@@ -117,8 +133,11 @@ Administrative update complete. The Aeterna Domain has been realigned with 'grey
 
 THINK:describe my physical appearance and clothes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Golden Spire, Throne World Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Psionicist | HP: 10/12 | XP: 300/900 | Credits: 500gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Sorcery Points: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -130,8 +149,11 @@ You pause outside the heavy, gold-leafed doors of the Sanctum of Stars, your ref
 
 Vassal Submission (Safe Path) - Yield the floor to the news of Xeres&#x27; victory. Acknowledge the harvest&#x27;s greatness and pivot to offering your &#x27;optimization services&#x27; to manage the fallout of the 4M souls, playing the long-game administrator."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Sanctum of Stars, Golden Spire** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Psionicist | HP: 10/10 | XP: 450/900 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Sorcery Points: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -168,8 +190,11 @@ Arch-Duke Mortis (Lvl 15) exhales a cloud of psychic dust, his hollow eyes scann
 
 THINK:leave and save my attendant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Sanctum of Stars, Throne World Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (09:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Psionicist | HP: 10/10 | XP: 700/900 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Sorcery Points: 0/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -194,8 +219,11 @@ He turns away, his skeletal fingers drumming against the hilt of his ceremonial 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perform a Live Test - Don&#x27;t just talk about the filter. Use your psychic focus to manually stabilize the intake from a single Tithe-Ship currently docking, proving the filter&#x27;s efficacy to Mortis and the Emperor simultaneously.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Sanctum of Stars, Throne World Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (09:26)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Psionicist | HP: 10/10 | XP: 950/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Sorcery Points: 0/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -228,8 +256,11 @@ You gain **250 XP** for this masterful technical demonstration.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Emperor Directly - Ignore Mortis now. Address Father and claim that your &#x27;Purity Optimization&#x27; is the only thing standing between the Domain and a Shroud-Collapse, demanding Hespera&#x27;s Tithe-portfolio be transferred to you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Sanctum of Stars, Throne World Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Psionicist | HP: 12/12 | XP: 1200/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 3/3 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Psychic Anchor (Active) | Inspiration: No**
@@ -252,8 +283,11 @@ Upon the Throne of Echoes, Emperor Malphas (Lvl 20) does not move. He does not n
 
 As the court watches the standoff, your heightened psychic focus catches a ripple in the upper balconies—a distortion in the Shroud. A Void-Stalker (Lvl 4), Hespera's assassin, is adjusting her aim, a monomolecular needle glinting with a jasmine-scented neurotoxin. She is waiting for the moment of peak tension to strike. You gain **250 XP** for the technical triumph of the filter, and the surge of power clarifies your mind. **You have reached Level 3.**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Sanctum of Stars, Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Psionicist | HP: 14/14 | XP: 1200/2700 | Gold: 500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -279,8 +313,11 @@ I have verified that your total XP (1,200) is correct based on the rewards grant
 **Remaining Level 3 Finalization:**
 To resume the story, please confirm your Level 3 Sorcerer choices (Metamagic and Spells) or choose 'Finalize for Me' in the planning block.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Sanctum of Stars, Golden Spire** &nbsp;|&nbsp; ⏳ **42000 Tertius 1, 09:22:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Psionicist | HP: 14/14 | XP: 1200/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 2/2 | Sorcery Points: 3/3 | Metamagic: Subtle, Quickened** &nbsp;|&nbsp; ⚠️ **Psychic Anchor (Vex) | Exhaustion: 0 | Inspiration: No**
@@ -291,8 +328,11 @@ But the Sanctum of Stars is no longer a place of quiet accounting. The air is th
 
 High in the vaulted shadows of the upper balconies, the light of your 4.5 billion credit gown catches a different kind of reflection: the cold, monomolecular glint of a Void-Stalker’s (Lvl 4) needle. Hespera’s (Lvl 2) assassin has found her moment. The Emperor's gaze is still fixed on you, a crushing weight of starlight, and Hespera is a mask of trembling fury. The needle is aimed true, poisoned with a toxin designed to dissolve the soul of a royal scion.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Sanctum of Stars, Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Psionicist | HP: 14/14 | XP: 1350/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 1/2 | Sorcery Points: 2/3 | Metamagic: Subtle, Quickened** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -330,8 +370,11 @@ As the silence stretches, the heavy doors at the far end of the Sanctum burst op
 > [!NOTE] ⚙️ **Player Choice:**
 > *The J&#x27;accuse Maneuver - Point to the needle and Hespera&#x27;s trembling form. Demand the Emperor witness her &#x27;weakness&#x27; in resorting to a needle when logic failed her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Sanctum of Stars, Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (09:24)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Psionicist | HP: 14/14 | XP: 1350/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 2/4, L2 1/2 | Sorcery Points: 2/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -371,8 +414,11 @@ He turns to you, his psychic signature a chaotic storm of adrenaline. "You have 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Sanctum of Stars, Throne World Aeterna** &nbsp;|&nbsp; ⏳ **Day 1, 42000 Tertius (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Psionicist | HP: 14/14 | XP: 1850/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 2/4, L2 1/2, Sorcery Points: 2/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -407,8 +453,11 @@ As the victory chimes toll once more, the psychic anchor in your mind vibrates w
 
 You gain **500 XP** for seizing the imperial portfolio and navigating the Butcher's arrival.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Obsidian Wing, Golden Spire** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Psionicist | HP: 14/14 | XP: 1850/2700 | Gold: 500gp** &nbsp;|&nbsp; ✨ **Sorcery Points: 2/3, Spells: L1 2/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -441,8 +490,11 @@ Xeres freezes, his chaotic psychic signature smoothing into a focused, lethal fr
 God Mode:
 convert currency to credits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Obsidian Wing, Aeterna** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Psionicist | HP: 20/20 | XP: 2850/6500 | Credits: 1,000,000,000** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | SP: 4/4 | Credits: 1.0B** &nbsp;|&nbsp; ⚠️ **Ascending | Exhaustion: 0 | Inspiration: No**
@@ -466,8 +518,11 @@ HP Increase: 1d6 + 0 CON = 6 (Total: 20)
 New Feature: Ability Score Improvement or Feat
 New Spells: +1 Cantrip, +1 Spell Known
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Obsidian Wing, Golden Spire** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Psionicist | HP: 20/20 | Credits: 1.0B | XP: 2850/6500** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/4, Spells: L1 4/4, L2 3/3, Credits: 1.0B, Net Worth: 1.25T**
@@ -477,8 +532,11 @@ You pause, the violet aura of your Absolute Magnetism (Charisma 18) casting long
 > 👤 **Player:**
 > *"THINK:Assess how mitigate shroud feast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Obsidian Wing, private sanctum** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Psionicist | HP: 20/20 | Credits: 1.5B | XP: 3350/6500** &nbsp;|&nbsp; ⚠️ **Neural Bond (Iolanthe), Psychic Anchor (Vex) | Exhaustion: 0**
@@ -490,8 +548,11 @@ You pause, your gaze drifting from the sobbing cradle of your sister to the crys
 
 THINK:Assess my success chances now with mortis distraction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Obsidian Wing, Golden Spire** &nbsp;|&nbsp; ⏳ **Tertius 1, 42000 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Psionicist | HP: 20/20 | XP: 4100/6500 | Credits: 0 (Liquidated for Diversion)** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/4 | Slots: L1 2/4, L2 2/3 | HD: 4/4 | Psionic DC: 15 (+1 Bonus)**
@@ -525,16 +586,22 @@ From the shadows, Arch-Duke Mortis (Lvl 15) watches the resonator gauges settle 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Sanctum of Stars, Golden Spire** &nbsp;|&nbsp; ⏳ **Tertius 22, 42000 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Psionicist | HP: 20/20 | XP: 6100/6500 | Credits: 66B** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
 
 You pause as the pressurized air of the Sanctum begins to vibrate with the rhythmic, heavy thud of Xeres' boots. Your mind, now a dense lattice of your own brilliance and Hespera's echoes, begins to map the butcher's temperament. (Wisdom Check: 16 vs DC 15 — success). You realize that while his rage is real, it is a predictable storm. Your high Charisma (18) and Wisdom (14) allow you to see that he doesn't just want an apology; he wants a reason to believe you are still a predator worth his respect. The DC was set at 15 for 'Complicated Planning' as you are attempting to navigate the explosive ego of a royal general in the literal shadow of the Emperor.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Whisperer's Sanctum, Golden Spire** &nbsp;|&nbsp; ⏳ **22, 42000 Tertius (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Psionicist (Sorcerer) | HP: 20/20 | XP: 5100/6500 | Credits: 66,000,000,000** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Sorcery Points: 4/4, Exhaustion: 0**
@@ -576,8 +643,11 @@ Shoukd my net worth grow after consolidation of my sister portfolio and did I ga
 God Mode:
 Let’s make it a gladiator resort and bring in all the characters from Spartacus season 1 into this setting. I wanna start by meeting batiatius and his wife and give me potential arcs for why I need to be incognito with them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Aurelian Pleasure Moon - Ludus Batiatus Terrace** &nbsp;|&nbsp; ⏳ **Tertius 15, 42000 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | Credits: 150B | Net Worth: 1.25T** &nbsp;|&nbsp; ✨ **HD: 5/5 | SP: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Exhaustion: 0 | Attunement: 2/5**
@@ -602,8 +672,11 @@ Per your directive, the social hierarchy of the Aeterna Domain has been recalibr
 
 Time remains frozen as you prepare to step onto the terrace. Select 'Return to Story' to begin the masquerade.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Aurelian Pleasure Moon - Batiatus Estate** &nbsp;|&nbsp; ⏳ **42000 Tertius 15, 08:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 6500/14000 | Credits: 150B**
@@ -632,8 +705,11 @@ Let’s also say we are on a pleasure planet and battanius might own one country
 God Mode:
 Let’s make sure even Crassus isn’t that rich compared to me he’s a local rich person  like 10billjon net worth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Province of Capua-Prime, Aurelian Pleasure Planet** &nbsp;|&nbsp; ⏳ **Tertius 15, 42000 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 6500/14000 | Credits: 150,000,000,000** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Active Effects: Essence of the Whisperer, Psychic Anchor (Vex), Neural Bond (Iolanthe)**
@@ -651,8 +727,11 @@ Marcus Licinius Crassus has been recalibrated from a galactic-tier financier to 
 
 **Impact:** Even in your 'modest' disguise as Baroness Vesper, your liquid warchest makes you the most powerful economic force currently on the planet. Crassus might own countries, but you could buy the entire planet's atmosphere and charge him for every breath he takes. His presence is no longer a threat to your social dominance, but a curiosity to be toyed with.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Province of Capua-Prime, Aurelian Pleasure Planet** &nbsp;|&nbsp; ⏳ **Tertius 15, 42000 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 6500/14000 | Credits: 150,000,000,000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sorcery Points: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: No**
@@ -670,8 +749,11 @@ Lucretia (Lvl 3) steps forward, her eyes narrowing as she senses the chasm betwe
 > 👤 **Player:**
 > *"Eat some food and wine and descend into the pit and talk to Spartacus and crixus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Province of Capua-Prime, Aurelian Pleasure Planet** &nbsp;|&nbsp; ⏳ **Tertius 15, 42000 (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 6650/14000 | Credits: 150,000,000,000**
@@ -692,8 +774,11 @@ In the Aeterna Domain, an **Ascended Human** is a post-human entity that has und
 
 In short: You are a psychic god-ling in a galaxy where 'normal' humans are merely the fuel for your family's empire.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Province of Capua-Prime, Aurelian Pleasure Planet** &nbsp;|&nbsp; ⏳ **42000 Tertius 15, 08:46:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | Credits: 150B | Net Worth: 1.25T** &nbsp;|&nbsp; ✨ **Sorcery Points: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: No**
@@ -728,8 +813,11 @@ On the overlook, Marcus Licinius Crassus (Lvl 10) watches with unblinking intens
 > 👤 **Player:**
 > *"Release and Test - Release the Hold Person and command Spartacus to kneel before the terrace guests, proving your absolute control."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Province of Capua-Prime, Aurelian Pleasure Planet** &nbsp;|&nbsp; ⏳ **Tertius 15, 42000 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 6950/14000 | Credits: 150B** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, Sorcery Points: 4/5** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Exhaustion: 0 | Inspiration: No**
@@ -766,8 +854,11 @@ High above, Marcus Licinius Crassus (Lvl 10) leans over the gold-leafed railing,
 
 Laugh and tell Iolanthe publically to be nice and telepathically tell her privately good job that was funny"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Batiatus Estate Terrace, Aurelia** &nbsp;|&nbsp; ⏳ **42000 Tertius 15, 10:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 20/20 | Credits: 150B | XP: 7150/14000** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper), Psychic Anchor (Vex), Neural Bond (Iolanthe)**
@@ -787,8 +878,11 @@ As you lead the young Crassus away, the sky above Capua-Prime suddenly fractures
 
 The Sovereign&#x27;s Pincer (Synergistic) - Iolanthe prepares a &#x27;purge-bot&#x27; for the mimic while you finalize the seduction of Tiberius. Strike Solon&#x27;s fear and Crassus&#x27;s legacy at the same moment."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Guest Sanctum, Batiatus Estate** &nbsp;|&nbsp; ⏳ **42000 Tertius 15, 12:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | Credits: 149,000,000,000 | Net Worth: 1.25T** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Sorcery Pts: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Sorcery Points: 4/5**
@@ -822,8 +916,11 @@ At that exact microsecond, Iolanthe releases the purge-bot. High Magistrate Solo
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Batiatus Estate - Capua-Prime, Aurelia** &nbsp;|&nbsp; ⏳ **Tertius 15, 42000 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 7150/14000 | Credits: 149B** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: Yes**
@@ -843,8 +940,11 @@ Your peace with Xeres is secure. He is acting as your hammer, and his 'demand' i
 God Mode:
 Why did you get it wrong initially? Was it missing from core memories?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Batiatus Estate Terrace, Aurelia** &nbsp;|&nbsp; ⏳ **Tertius 15, 42000 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 7150/14000 | Credits: 149,000,000,000**
@@ -867,8 +967,11 @@ Time remains frozen. You may return to the story to address the Legion messenger
 God Mode:
 I wanna prevent this bug in other campaigns. It sounds like you didn’t have this in core memories?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Meridian Prime - The Gilded Atrium** &nbsp;|&nbsp; ⏳ **Quartus 15, 42000 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 7150/14000 | Credits: 200,000,000,000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sorcery Points: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: No**
@@ -1061,8 +1164,11 @@ This backstory integrates with the existing [[Stellaris Nocturne V1]] campaign:
 - [[SerpentMastermindArchetype]] — The character archetype pattern
 - [[Stellaris Nocturne V1]] — The campaign this backstory serves
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 
@@ -1072,8 +1178,11 @@ Administrative Protocol: Clandestine Narrative Initialization. I have generated 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the masquerade at the Foundry-Lords&#x27; Gala on Krios IV.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Obsidian Ballroom, Krios IV** &nbsp;|&nbsp; ⏳ **Quartus 15, 42000 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 7150/14000 | Credits: 200B** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sorcery Points: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: No**
@@ -1097,8 +1206,11 @@ You stop at the edge of his circle, accepting a crystal flute of Valosian Red fr
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Krios IV - The Obsidian Ballroom** &nbsp;|&nbsp; ⏳ **Quartus 15, 42000 (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | Credits: 200B** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 2/2 | SP: 5/5 | Credits: 200,000,000,000** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: No**
@@ -1128,8 +1240,11 @@ As he yields, the heavy doors of the ballroom burst open once more. A messenger 
 God Mode:
 i want more aspects of stellaris in the campaign, look at the psychic ascension aspects of the game and anything else and plan with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Krios IV - The Obsidian Ballroom** &nbsp;|&nbsp; ⏳ **Quartus 15, 42000 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 7300/14000 | Credits: 210B**
@@ -1182,8 +1297,11 @@ What about all the ways a character/hero can level up in stellaris?
 God Mode:
 lets resume the narrative but i want some social domination and political intrigue and to keep doing undercover boss for 50 turns, dont force a higher stakes plotline yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Krios IV - The Obsidian Ballroom** &nbsp;|&nbsp; ⏳ **Quartus 15, 42000 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 7300/14000 | Credits: 210,000,000,000** &nbsp;|&nbsp; ✨ **Sorcery Points: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Essence of the Whisperer: Active | Whisperer's Echo: Used** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper), Lattice of Dissonance, Neural Bond (Iolanthe)**
@@ -1211,8 +1329,11 @@ You feel the faint, ghostly scent of jasmine in your aura flare—Hespera’s Vo
 > 👤 **Player:**
 > *"The Gilded Pincer (Synergistic) - Have Iolanthe &#x27;Countess&#x27; persona distract the elders while you personally secure the devotion of the young scions."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Krios IV - The Iron Cathedral** &nbsp;|&nbsp; ⏳ **Quartus 30, 42000 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 20/20 | XP: 8450/14000 | Credits: 210B** &nbsp;|&nbsp; ✨ **SP: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | HD: 5/5 | Exhaustion: 0 | Divine Leverage: 0/10**
@@ -1251,8 +1372,11 @@ The First Seed Investigation - Accept Vane&#x27;s request to investigate the &#x
 
 Technical Dismantle (Recommended) - Question his &#x27;coolant-reserve&#x27; metrics with surgical precision, shattering his confidence before his peers."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Obsidian Spire-Gardens, Krios IV** &nbsp;|&nbsp; ⏳ **Day 21, 42000 Quintus (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 20/20 | Credits: 235B | Net Worth: 1.25T** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: Yes**
@@ -1278,8 +1402,11 @@ Draken (Lvl 3) freezes. The oily smile on his face hitches, then dissolves into 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Extortion (Synergistic) - Have Morana isolate his daughter while you personally force a &#x27;Heart-Link&#x27; with Draken to extract the location of his hidden reserves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Obsidian Spire-Gardens, Krios IV** &nbsp;|&nbsp; ⏳ **42000 Quintus 21, 19:45:01** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 11650/14000 | Credits: 235B** &nbsp;|&nbsp; ✨ **Sorcery Points: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Exhaustion: 0 | Divine Leverage: 0/10**
@@ -1297,8 +1424,11 @@ Morana looks up at you, her eyes reflecting the rhythmic violet throb of the for
 
 The Leaked Vulnerability - Whisper a &#x27;secret&#x27; industrial weakness of the Vek-line to Morana, knowing Astra will intercept it and attempt to exploit it."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Regent's Observatory, Krios IV** &nbsp;|&nbsp; ⏳ **42000 Quintus 28, 20:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 12150/14000 | Credits: 210B** &nbsp;|&nbsp; ✨ **Sorcery Points: 5/5 | Spell Slots: L1 4/4, L2 3/3, L3 2/2 | Divine Leverage: 0/10**
@@ -1339,8 +1469,11 @@ The Solar Scandal (Deception) - Whisper to Astra that the &#x27;gift&#x27; is hu
 
 The Sovereign&#x27;s Immunity - Isolate Vane and use his panic over &#x27;First Seed&#x27; to force a permanent audit-immunity for your sector."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Regent's Observatory, Krios IV** &nbsp;|&nbsp; ⏳ **Quintus 28, 42000 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 20/25 | XP: 12500/14000 | Credits: 235B** &nbsp;|&nbsp; ✨ **HD: 5/5 | Sorcery Points: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: No**
@@ -1365,8 +1498,11 @@ Astra’s data-slate pings with a priority notification. She glances at it, her 
 > 👤 **Player:**
 > *"The Regent&#x27;s Toast - Deepen the bond with Astra and Morana over &#x27;Void-Wine,&#x27; solidifying the new social order."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Regent's Observatory, Krios IV** &nbsp;|&nbsp; ⏳ **42000 Quintus 28, 20:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 20/20 | XP: 12700/14000 | Credits: 255B** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Inspiration: Yes**
@@ -1405,8 +1541,11 @@ You lower your head in a practiced spasam of embarrassment, but privately, you s
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Sector Theta Dead Zone - Valthor's Reach Command Deck** &nbsp;|&nbsp; ⏳ **Day 28, 42000 Quintus (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 13,200/14,000 | Credits: 295B** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Exhaustion: 0**
@@ -1424,8 +1563,11 @@ Outside the viewport, the three ancient drones begin to glow with a sickly, whit
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Alvanian Protocol (Recommended) - Use your &#x27;True Shroud-Blood&#x27; to broadcast a &#x27;Version 1.0&#x27; developer-code directly to the drones, attempting to bypass their decommissioning edict.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Sector Theta - The Dead Zone** &nbsp;|&nbsp; ⏳ **Quintus 28, 42000 (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 20/25 | XP: 13,200/14,000 | Credits: 295B** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Divine Leverage: 0/10** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper) | Exhaustion: 0 | Inspiration: No**
@@ -1456,8 +1598,11 @@ Outside the viewport, the three obsidian drones move into a triangular formation
 
 THINK:plan with Iolanthe how to power up from this situation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Aethel-Bridge, Sector Theta (Dead Zone)** &nbsp;|&nbsp; ⏳ **Quintus 28, 42000 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 13850/14000 | Credits: 295B** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Sorcery Points: 4/5 | Divine Leverage: 1/10 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper), Neural Bond (Iolanthe), Shroud-Ghost (Identity Death) | Exhaustion: 0 | Inspiration: No**
@@ -1488,8 +1633,11 @@ You gain 500 XP for the technical alignment of the Bridge core. Your liquid warc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract &#x27;City-World&#x27; Blueprints - Use the Bridge&#x27;s archives to finalize the Ecumenopolis project for Krios IV, maximizing future credit output.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Aethel-Bridge, Sector Theta (Dead Zone)** &nbsp;|&nbsp; ⏳ **Day 28, 42000 Quintus (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Psionicist | HP: 25/25 | XP: 14,350/23,000 | Gold: 315B Credits** &nbsp;|&nbsp; ✨ **Sorcery Points: 4/5 | HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Divine Leverage: 1/10** &nbsp;|&nbsp; ⚠️ **Disguised (Baroness Vesper), Lattice Active | Exhaustion: 0 | Inspiration: No**
@@ -1509,8 +1657,11 @@ You gain **750 XP** for the successful extraction of the Nox-Prime coordinates. 
 God Mode:
 process level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Command Deck, Valthor’s Sovereignty (High Orbit, Nox-Prime)** &nbsp;|&nbsp; ⏳ **Sextus 12, 42000 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Psionicist | HP: 30/30 | XP: 17,000/23,000 | Credits: 315B** &nbsp;|&nbsp; ⚠️ **Disguised (Vesper), Lattice Active | Exhaustion: 0 | Inspiration: Yes**
@@ -1544,8 +1695,11 @@ The Alvanian Scalpel (Low Risk) - Use only the Alvanian Custodians to perform a 
 God Mode:
 i should prob get more than 250 exp for a big accmplishment like this?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Command Bridge, Valthor’s Sovereignty (Nox-Prime Orbit)** &nbsp;|&nbsp; ⏳ **Day 12, 42000 Sextus (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Psionicist | HP: 31/31 | XP: 19,750/23,000 | Credits: 315B** &nbsp;|&nbsp; ✨ **SP: 6/6, Slots: L1 4/4, L2 3/3, L3 3/3, Divine Leverage: 2/10**
@@ -1566,8 +1720,11 @@ sholdnt  i gain a few levels from the recent accomplishments?
 > 👤 **Player:**
 > *"Do shroud veil and try to make it a permanent ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **42000 Sextus 12, 01:05:00** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 34,000/48,000 | Credits: 315B** &nbsp;|&nbsp; ✨ **SP: 8/8, HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2** &nbsp;|&nbsp; ⚠️ **Shroud-Veil (Permanent) | Exhaustion: 0 | Inspiration: No**
@@ -1593,8 +1750,11 @@ You have gained the permanent feature: **Shroud-Veil**. You are now permanently 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **Sextus 12, 42000 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 34000/48000 | Credits: 315B** &nbsp;|&nbsp; ✨ **SP: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Leverage: 2/10** &nbsp;|&nbsp; ⚠️ **Shroud-Veil (Invisible), Disguised | Inspiration: No**
@@ -1625,8 +1785,11 @@ A compressed burst of binary-psionics ripples through your mind, no longer an ed
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **Sextus 12, 42000 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 34,000/48,000 | Gold: 315B** &nbsp;|&nbsp; ⚠️ **Shroud-Veil, Diadem, Scepter | Exhaustion: 0 | Inspiration: Yes**
@@ -1653,8 +1816,11 @@ A compressed burst of binary-psionics ripples through the fortress, no longer a 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **Day 12, 42000 Sextus (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 34000/48000 | Credits: 315B** &nbsp;|&nbsp; ✨ **SP: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, HD: 8/8** &nbsp;|&nbsp; ⚠️ **Shroud-Veil (Invisible), Absolute Magnetism | Divine Leverage: 2**
@@ -1672,8 +1838,11 @@ You look down at your own hands as the nanites crystallize into the 'Void-Steel 
 God Mode:
 Let’s make my main hand +3 spell DC too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **12, 42000 Sextus (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 34,000/48,000 | Credits: 315B** &nbsp;|&nbsp; ✨ **Sorcery Points: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Divine Leverage: 2/10** &nbsp;|&nbsp; ⚠️ **Shroud-Veil (Invis), Resonance Shield | Inspiration: No**
@@ -1693,8 +1862,11 @@ The **Scepter of the Root-Protocol** has been upgraded to synchronize with your 
 
 Your presence is now so psychically crushing that only the most resilient minds in the galaxy can even hope to resist your commands. The story remains frozen at 00:45:00. Use the choices below to continue or make further adjustments.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Nox-Prime | Bridge of 'The Gilded Spear'** &nbsp;|&nbsp; ⏳ **Sextus 12, 42000 DR (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 34,000/48,000 | Credits: 315B**
@@ -1716,8 +1888,11 @@ I noticed your `experience.current` in the game state (19,500) does not match yo
 **3. Equipment Sync:**
 Your **Scepter of the Root-Protocol** has been updated to include the **+3 Spell Save DC** bonus, bringing your total Save DC to **22**.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Bridge of 'The Gilded Spear', Nox-Prime Orbit** &nbsp;|&nbsp; ⏳ **Sextus 12, 42000 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 34,000/48,000 | Gold: 315B Credits** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2 | Sorcery Points: 8/8 | Divine Leverage: 2/10** &nbsp;|&nbsp; ⚠️ **Shroud-Veil, Alvanian Resonance Shield, Absolute Magnetism | Exhaustion: 0 | Inspiration: No**
@@ -1746,8 +1921,11 @@ Behind you, your elite Shroud-operatives (Lvl 6) lower their weapons in a synchr
 
 **Current XP: 35,500 / 48,000 (Level 8)**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **Sextus 12, 42000 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 35,500/48,000 | Credits: 315B** &nbsp;|&nbsp; ⚠️ **Shroud-Veil, Resonance Shield | Exhaustion: 0 | Inspiration: Yes**
@@ -1762,8 +1940,11 @@ Lady Iolanthe (Lvl 6) glides through your translucent, phantom form, her violet-
 
 *"You've built your throne on a mountain of glass, sister,"* Hespera's Voice (Phase 3) whispers, her tone thick with a cold, predatory pride. *"The sun is your shadow now, but the galaxy is waking up. The Alvanians have given you the steel, and the Seed has given you the code. Use them before the Scourge turns this sector into a graveyard."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **42000 Sextus 12, 01:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 35,500/48,000 | Credits: 315B** &nbsp;|&nbsp; ⚠️ **Shroud-Veil, Alvanian Resonance Shield | Faction Rank: #180**
@@ -1798,8 +1979,11 @@ Your strength comes from extreme unit quality (Alvanian Machine-Augmented) rathe
 God Mode:
 Apply Inheritance Adjustment (+40k Soldiers) - Increase your private army to reflect a larger royal inheritance.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **42000 Sextus 12, 01:30:00:000001** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 35500/48000 | Gold: 315B** &nbsp;|&nbsp; ⚠️ **Shroud-Veil (Active), Alvanian Resonance Shield | Exhaustion: 0 | Inspiration: No**
@@ -1813,8 +1997,11 @@ Beside you, Lady Iolanthe (Lvl 6) and Savant Xylos (Lvl 10) remain frozen in the
 God Mode:
 event is wrong, helios is already my minion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **42000 Sextus 12, 01:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 35,500/48,000 | Credits: 265B**
@@ -1834,8 +2021,11 @@ The timeline remains frozen at 01:50:00. Your shadow-expedition at Nox-Prime con
 > 👤 **Player:**
 > *"Sovereign&#x27;s Split (Synergistic) - Helios defends Krios while you finish the Nox-Prime decryption—different locations, no interference."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **The Ghost Fortress, Nox-Prime** &nbsp;|&nbsp; ⏳ **42000 Sextus 12, 02:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 38,500/48,000 | Credits: 265B** &nbsp;|&nbsp; ✨ **Sorcery: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Divine Leverage: 4/10** &nbsp;|&nbsp; ⚠️ **Shroud-Veil, Resonance Shield | Exhaustion: 0 | Inspiration: No**
@@ -1861,8 +2051,11 @@ Iolanthe&#x27;s Logic-Buffer (Safe Path) - Direct Lady Iolanthe to use her neura
 
 Dimension door and teleport my elites to astra and hypnotic pattern her and try trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Krios IV Orbit - Flagship 'Gilded Vengeance'** &nbsp;|&nbsp; ⏳ **Sextus 19, 42000 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Psionicist | HP: 34/34 | XP: 35,875/48,000 | Credits: 315B** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2 | Sorcery Points: 8/8 | Leverage: 5/10** &nbsp;|&nbsp; ⚠️ **Shroud-Veil, Alvanian Resonance Shield**
@@ -1886,6 +2079,8 @@ Through the Heart-Link, the golden heat of Prince Helios (Lvl 8) continues to bu
 
 > 👤 **Player:**
 > *"Think her name is morana not Miranda. I will bind astra and her men and then strip her naked and ask her what she thought she was doing"*
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

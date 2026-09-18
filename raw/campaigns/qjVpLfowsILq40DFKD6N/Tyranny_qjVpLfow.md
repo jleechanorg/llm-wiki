@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (291 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 I. Character Profile: The Nocturne Profile
@@ -147,307 +158,312 @@ The Solo Play: Do you ignore her entirely, walking toward the Commander's tent w
 
 The Analysis: Do you ask her for a situational report, but demand it in "pure data, no embellishment," testing her intelligence?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Edgering Ruins | The Year of the Sword, Year 431 TR (Marpenoth 12) | Roleplay |
-| **03** | Edgering Ruins | the 10th of Rain, 0431 TR (Midday) | Roleplay |
-| **04** | Edgering Ruins | 10th Day, 431 TR (Midday) | Roleplay |
-| **05** | Edgering Ruins | The Year of the Sword, 431 TR (10th of Sun's Dusk) | Roleplay |
-| **06** | Edgering Ruins | Month of the Sword, 431 TR (Day 12) | Roleplay |
-| **07** | Edgering Ruins | 0431-10-12T12:10:30.123456Z | Roleplay |
-| **08** | Edgering Ruins | Year of the Sword, 0431 TR (10th of Halfling) | Roleplay |
-| **09** | Edgering Ruins | The Month of the Sword, Year 431 TR (Day 12) | Roleplay |
-| **10** | Edgering Ruins | Year of the Sword, 0431 TR (12th day) | Roleplay |
-| **11** | Edgering Ruins | 10th of Flos, 0431 TR (Midday) | Roleplay |
-| **12** | Edgering Ruins | The Month of the Sword, 0431 TR (Day 12) | Roleplay |
-| **13** | Edgering Ruins | Month Unknown, Year 431 TR (Day Unknown) | Roleplay |
-| **14** | Edgering Ruins | Month 10, 0431 TR (Day 12) | Roleplay |
-| **15** | Edgering Ruins | The Year of the Sword, Year 431 TR (Midday) | Roleplay |
-| **16** | Edgering Ruins | Mirtul 12, 431 DR (12:16 PM) | Roleplay |
-| **17** | Edgering Ruins | Mirtul 12, 431 DR (12:16 PM) | Roleplay |
-| **18** | Edgering Ruins | 0431 Mirtul 12, Afternoon | Roleplay |
-| **19** | Edgering Ruins | Mirtul 12, 431 DR (12:17 PM) | Roleplay |
-| **20** | Edgering Ruins | Mirtul 12, 431 DR (12:20 PM) | Roleplay |
-| **21** | Edgering Ruins | Mirtul 12, 431 DR (Afternoon) | Roleplay |
-| **22** | Edgering Ruins | Mirtul 12, 431 DR (12:30 PM) | Roleplay |
-| **23** | Edgering Ruins | Mirtul 12, 431 DR (12:30) | Roleplay |
-| **24** | Edgering Ruins | Mirtul 12, 431 DR (12:30) | Roleplay |
-| **25** | Edgering Ruins | Mirtul 12, 431 DR (Afternoon) | Roleplay |
-| **26** | Edgering Ruins | Mirtul 12, 431 DR (12:35 PM) | Roleplay |
-| **27** | Edgering Ruins | Mirtul 12, 431 DR (Afternoon (12:35)) | Roleplay |
-| **28** | Edgering Ruins | Mirtul 12, Year 431 DR (Afternoon (12:35 PM)) | Roleplay |
-| **29** | Edgering Ruins | Mirtul 12, Year 431 DR (Afternoon (12:35 PM)) | Roleplay |
-| **30** | Edgering Ruins | Mirtul 12, 431 TR (12:35) | Roleplay |
-| **31** | Edgering Ruins | Mirtul 12, 431 TR (12:50 PM) | Roleplay |
-| **32** | Edgering Ruins | Mirtul 12, 431 TR (12:55) | Roleplay |
-| **33** | Edgering Ruins | Mirtul 12, 431 TR (13:25) | Roleplay |
-| **34** | Edgering Ruins | Mirtul 12, 431 TR (13:40) | Roleplay |
-| **35** | Edgering Ruins | Mirtul 12, 431 TR (16:40) | Roleplay |
-| **36** | Edgering Ruins | Mirtul 12, 431 TR (18:45) | Roleplay |
-| **37** | Edgering Ruins | Mirtul 12, 431 TR (19:15) | Roleplay |
-| **38** | Edgering Ruins | Mirtul 12, 431 TR (18:45) | Roleplay |
-| **39** | Edgering Ruins - Eastern Perimeter | Mirtul 12, 431 TR (19:15) | Roleplay |
-| **40** | Edgering Ruins - Eastern Scriptorium Outskirts | Mirtul 12, 431 TR (19:30) | Roleplay |
-| **41** | Edgering Ruins - Scriptorium Outskirts | Mirtul 12, 431 TR (19:25) | Roleplay |
-| **42** | Edgering Ruins - Eastern Scriptorium Outskirts | Mirtul 12, 431 TR (19:40) | Roleplay |
-| **43** | Edgering Ruins - Eastern Scriptorium Outskirts | Mirtul 12, 431 TR (19:50) | Roleplay |
-| **44** | Edgering Ruins - Scriptorium Vault Entrance | Mirtul 12, 431 TR (19:55) | Roleplay |
-| **45** | Edgering Ruins - Scriptorium Vault Entrance | Mirtul 12, 431 TR (20:00) | Roleplay |
-| **46** | Edgering Ruins - Scriptorium Vault Entrance | Mirtul 12, 431 TR (20:05) | Roleplay |
-| **47** | Edgering Ruins - Scriptorium Vault Interior | Mirtul 12, 431 TR (20:10) | Roleplay |
-| **48** | Edgering Ruins - Scriptorium Vault - Primary Archive | Mirtul 12, 431 TR (20:20) | Roleplay |
-| **49** | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:35 PM) | Roleplay |
-| **50** | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:35) | Roleplay |
-| **51** | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:35) | Roleplay |
-| **52** | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:40) | Roleplay |
-| **53** | Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:40) | Roleplay |
-| **54** | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:40) | Roleplay |
-| **55** | Disfavored Encampment - Command Tent Perimeter | Mirtul 12, 431 TR (13:05) | Roleplay |
-| **56** | Disfavored Encampment - Command Tent | Mirtul 12, 431 TR (13:10) | Roleplay |
-| **57** | Disfavored Encampment - Command Tent | Mirtul 12, 431 TR (13:15) | Roleplay |
-| **58** | Disfavored Encampment - Command Tent | Mirtul 12, 431 TR (13:20) | Roleplay |
-| **59** | Disfavored Encampment - Armor Forge | Mirtul 12, 431 TR (13:20) | Roleplay |
-| **60** | Disfavored Encampment - Command Perimeter | Mirtul 12, 431 TR (13:45) | Roleplay |
-| **61** | Disfavored Encampment - Command Pavilion Area | Mirtul 12, 431 TR (13:45) | Roleplay |
-| **62** | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (13:46) | Roleplay |
-| **63** | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (13:50) | Roleplay |
-| **64** | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:05) | Roleplay |
-| **65** | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:15) | Roleplay |
-| **66** | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:15) | Roleplay |
-| **67** | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:15) | Roleplay |
-| **68** | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (13:00) | Roleplay |
-| **69** | Scarlet Chorus Outskirts - Vendrien's Well | Mirtul 13, 431 TR (05:00) | Roleplay |
-| **70** | Scarlet Chorus Encampment - Outer Perimeter | Mirtul 13, 431 TR (05:45) | Roleplay |
-| **71** | Scarlet Chorus Encampment - Outer Perimeter | Mirtul 13, 431 TR (05:50) | Roleplay |
-| **72** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:15) | Roleplay |
-| **73** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:15) | Roleplay |
-| **74** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:15) | Roleplay |
-| **75** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:45) | Roleplay |
-| **76** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:55) | Roleplay |
-| **77** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:55) | Roleplay |
-| **78** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (07:15) | Roleplay |
-| **79** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (07:15) | Roleplay |
-| **80** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (07:15) | Roleplay |
-| **81** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (08:30) | Roleplay |
-| **82** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (08:35) | Roleplay |
-| **83** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (09:05) | Roleplay |
-| **84** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (09:35) | Roleplay |
-| **85** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (09:50) | Roleplay |
-| **86** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (10:15) | Roleplay |
-| **87** | Scarlet Chorus Encampment - Voice's Pavilion | Mirtul 13, 431 TR (10:30) | Roleplay |
-| **88** | Scarlet Chorus Encampment - Voice's Pavilion | Mirtul 13, 431 TR (10:45) | Roleplay |
-| **89** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
-| **90** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:45) | Roleplay |
-| **91** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
-| **92** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
-| **93** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
-| **94** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
-| **95** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 0431 TR (11:35) | Roleplay |
-| **96** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:35) | Roleplay |
-| **97** | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:35) | Roleplay |
-| **98** | Approach to Vendrien's Well | Mirtul 13, 431 TR (14:45) | Roleplay |
-| **99** | Vendrien's Well - Outer Perimeter | Mirtul 13, 431 TR (15:00) | Roleplay |
-| **100** | Vendrien's Well - Outer Perimeter | Mirtul 13, 431 TR (16:30) | Roleplay |
-| **101** | Vendrien's Well - Outer Perimeter | Mirtul 13, 431 TR (16:30) | Roleplay |
-| **102** | Vendrien's Well - Path to Ascension Hall | Mirtul 13, 431 TR (17:00) | Roleplay |
-| **103** | Path to Ascension Hall | Mirtul 13, 431 TR (17:30) | Roleplay |
-| **104** | Ascension Hall - Grand Entrance | Mirtul 13, 431 TR (18:15) | Roleplay |
-| **105** | Ascension Hall - Grand Entrance | Mirtul 13, 431 TR (18:25) | Roleplay |
-| **106** | Vendrien's Well - Ascension Hall Grand Entrance | Mirtul 13, 431 TR (18:35) | Roleplay |
-| **107** | Vendrien's Well - Ascension Hall | Mirtul 14, 431 TR (08:00) | Roleplay |
-| **108** | Vendrien's Well - Ascension Hall | Mirtul 14, 431 TR (09:15) | Roleplay |
-| **109** | Vendrien's Well - Inner Sanctum Threshold | Mirtul 14, 431 TR (09:45) | Roleplay |
-| **110** | The Mountain Spire - Ascension Well | Mirtul 14, 431 TR (10:15) | Roleplay |
-| **111** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (10:30) | Roleplay |
-| **112** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (11:30) | Roleplay |
-| **113** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (12:45) | Roleplay |
-| **114** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (15:30) | Roleplay |
-| **115** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:15) | Roleplay |
-| **116** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:20) | Roleplay |
-| **117** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:50) | Roleplay |
-| **118** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:55) | Roleplay |
-| **119** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (17:15) | Roleplay |
-| **120** | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (17:15) | Roleplay |
-| **121** | Sunset Spire - Apex | Mirtul 14, 431 TR (18:30) | Roleplay |
-| **122** | Sunset Spire - Apex | Mirtul 14, 0431 TR (18:35) | Roleplay |
-| **123** | Sunset Spire - Apex | Mirtul 15, 431 TR (08:30) | Roleplay |
-| **124** | Lethian's Crossing - Town Square | Mirtul 15, 431 TR (14:45) | Roleplay |
-| **125** | Lethian's Crossing (Occupied) | Mirtul 15, 431 TR (16:30) | Roleplay |
-| **126** | Lethian's Crossing (Occupied Temple) | Mirtul 15, 431 TR (17:15) | Roleplay |
-| **127** | Lethian's Crossing (Occupied Temple) | Mirtul 15, 431 TR (17:45) | Roleplay |
-| **128** | Lethian's Crossing (Occupied Temple) | Mirtul 22, 431 TR (12:00) | Roleplay |
-| **129** | Lethian's Crossing (Occupied Temple) | Mirtul 22, 431 TR (13:00) | Roleplay |
-| **130** | Lethian's Crossing (Occupied Temple) | Mirtul 22, 431 TR (13:00) | Roleplay |
-| **131** | Ocean Spire (Apex) | Mirtul 22, 431 TR (13:45) | Roleplay |
-| **132** | Ocean Spire (Apex) | Mirtul 22, 431 TR (14:00) | Roleplay |
-| **133** | Ocean Spire (Apex) | Mirtul 22, 431 TR (14:15) | Roleplay |
-| **134** | Ocean Spire (Apex) | Mirtul 22, 431 TR (14:15) | Roleplay |
-| **135** | Ocean Spire (Apex) | Mirtul 22, 431 TR (16:45) | Roleplay |
-| **136** | Ocean Spire (Apex) | Mirtul 22, 431 TR (16:45) | Roleplay |
-| **137** | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
-| **138** | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
-| **139** | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
-| **140** | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
-| **141** | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
-| **142** | Ocean Spire (Apex) | Mirtul 23, 431 TR (14:00) | Roleplay |
-| **143** | Dawning Spire (Apex) | Mirtul 23, 431 TR (14:15) | Roleplay |
-| **144** | Dawning Spire (Apex) | Mirtul 23, 431 TR (14:15) | Roleplay |
-| **145** | Dawning Spire (Apex) | Mirtul 23, 431 TR (14:15) | Roleplay |
-| **146** | Dawning Spire (Primary Archives) | Mirtul 23, 431 TR (14:45) | Roleplay |
-| **147** | Dawning Spire (Primary Archives) | Mirtul 23, 431 TR (15:30) | Roleplay |
-| **148** | Dawning Spire (Lower Warrens) | Mirtul 23, 431 DR (17:00) | Roleplay |
-| **149** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 TR (17:01) | Roleplay |
-| **150** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 TR (17:30) | Roleplay |
-| **151** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (17:30) | Roleplay |
-| **152** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (17:40) | Roleplay |
-| **153** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (17:40) | Roleplay |
-| **154** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 TR (17:50) | Roleplay |
-| **155** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:25) | Roleplay |
-| **156** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:31) | Roleplay |
-| **157** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:33) | Roleplay |
-| **158** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:38) | Roleplay |
-| **159** | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:48) | Roleplay |
-| **160** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (19:15) | Roleplay |
-| **161** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:15) | Roleplay |
-| **162** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:45) | Roleplay |
-| **163** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:20) | Roleplay |
-| **164** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:30) | Roleplay |
-| **165** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:50) | Roleplay |
-| **166** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (21:50) | Roleplay |
-| **167** | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (22:00) | Roleplay |
-| **168** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (06:00) | Roleplay |
-| **169** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (06:30) | Roleplay |
-| **170** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (06:30) | Roleplay |
-| **171** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (07:00) | Roleplay |
-| **172** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (07:10) | Roleplay |
-| **173** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (07:40) | Roleplay |
-| **174** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (15:40) | Roleplay |
-| **175** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (15:50) | Roleplay |
-| **176** | Final Capstone Spire (Apex Node) | Mirtul 24, 431 TR (15:50) | Roleplay |
-| **177** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:30) | Roleplay |
-| **178** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
-| **179** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
-| **180** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
-| **181** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
-| **182** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
-| **183** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (17:15) | Roleplay |
-| **184** | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (17:25) | Roleplay |
-| **185** | Capstone Spire - Apex | Mirtul 24, 431 TR (18:35) | Roleplay |
-| **186** | Capstone Spire - Apex | Mirtul 24, 431 TR (18:45) | Roleplay |
-| **187** | Capstone Spire - Apex | Mirtul 24, 431 TR (19:15) | Roleplay |
-| **188** | Capstone Spire | Mirtul 24, 431 TR (19:15) | Roleplay |
-| **189** | Capstone Spire - Apex | Mirtul 24, 431 TR (19:30) | Roleplay |
-| **190** | Capstone Spire | Mirtul 24, 431 TR (21:00) | Roleplay |
-| **191** | Capstone Spire | Mirtul 24, 431 TR (21:15) | Roleplay |
-| **192** | Capstone Spire | Mirtul 23, 431 TR (21:00) | Roleplay |
-| **193** | Capstone Spire | Mirtul 24, 431 TR (21:15) | Roleplay |
-| **194** | Capstone Spire | Mirtul 24, 431 TR (21:25) | Roleplay |
-| **195** | Capstone Spire | Mirtul 24, 431 TR (21:20) | Roleplay |
-| **196** | Capstone Spire | Mirtul 24, 431 TR (21:35) | Roleplay |
-| **197** | Capstone Spire (Neural Apex) | Mirtul 24, 431 TR (21:35) | Roleplay |
-| **198** | Capstone Spire - Apex | Mirtul 24, 431 TR (21:35) | Roleplay |
-| **199** | Bastard City - Outer Perimeter (Ruined District) | Mirtul 24, 431 TR (22:20) | Roleplay |
-| **200** | Bastard City - Outer Perimeter | Mirtul 24, 431 TR (22:20) | Roleplay |
-| **201** | Bastard City - Outer Perimeter | Mirtul 24, 431 TR (22:25) | Roleplay |
-| **202** | Bastard City - Outer Perimeter | Mirtul 24, 431 TR (23:15) | Roleplay |
-| **203** | Capstone Spire - Apex | Mirtul 24, 431 TR (23:45) | Roleplay |
-| **204** | Bastard Tier - Outer Shadow | Mirtul 24, 431 TR (00:15) | Roleplay |
-| **205** | Bastard Tier - Deep Shadow | Mirtul 25, 431 TR (00:25) | Roleplay |
-| **206** | Bastard Tier - Deep Shadow | Mirtul 25, 431 TR (00:35) | Roleplay |
-| **207** | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:36) | Roleplay |
-| **208** | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:36) | Roleplay |
-| **209** | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:45) | Roleplay |
-| **210** | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:36 (Deep Night)) | Roleplay |
-| **211** | Bastard Tier - Resonance Chamber | Mirtul 25, Year 431 TR (00:36 (Deep Night)) | Roleplay |
-| **212** | Bastard City - Iron Works Perimeter | Mirtul 25, 431 TR (01:15) | Roleplay |
-| **213** | Bastard City - Iron Works | Mirtul 25, 431 TR (01:30) | Roleplay |
-| **214** | Bastard City - Iron Works | Mirtul 25, 431 TR (01:45) | Roleplay |
-| **215** | Bastard City - Iron Works | Mirtul 25, 431 TR (03:15) | Roleplay |
-| **216** | Bastard City - Iron Works | Mirtul 25, 431 TR (03:25) | Roleplay |
-| **217** | Bastard City - Iron Works | Mirtul 25, 431 TR (03:25 (Deep Night)) | Roleplay |
-| **218** | Bastard City - Iron Works | Mirtul 25, 431 TR (04:15) | Roleplay |
-| **219** | Bastard City - Merchant District | Mirtul 25, 431 TR (05:45) | Roleplay |
-| **220** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
-| **221** | Oldwalls Edge - Voices' Personal Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
-| **222** | Oldwalls Edge - Voices' Personal Pavilion | Mirtul 25, 431 TR (06:20) | Roleplay |
-| **223** | Oldwalls Edge - Voices' Pavilion (Annexed) | Mirtul 25, 431 TR (06:45) | Roleplay |
-| **224** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
-| **225** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
-| **226** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
-| **227** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
-| **228** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
-| **229** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:20 (Dawn)) | Roleplay |
-| **230** | Oldwalls Edge - Voices' Pavilion |  | Roleplay |
-| **231** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:35) | Roleplay |
-| **232** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:40) | Roleplay |
-| **233** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:15) | Roleplay |
-| **234** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:25) | Roleplay |
-| **235** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:35) | Roleplay |
-| **236** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 DR (07:25) | Roleplay |
-| **237** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:35) | Roleplay |
-| **238** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (08:35) | Roleplay |
-| **239** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (08:45) | Roleplay |
-| **240** | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (09:15) | Roleplay |
-| **241** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (10:15) | Roleplay |
-| **242** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (10:45) | Roleplay |
-| **243** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (11:00) | Roleplay |
-| **244** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (11:15) | Roleplay |
-| **245** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (Morning) | Roleplay |
-| **246** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (12:15) | Roleplay |
-| **247** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (12:45) | Roleplay |
-| **248** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (13:45) | Roleplay |
-| **249** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:00) | Roleplay |
-| **250** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:15) | Roleplay |
-| **251** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:45) | Roleplay |
-| **252** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:55) | Roleplay |
-| **253** | Bastard City - Tunon's Court (Sanctum) | Mirtul 25, 431 TR (15:15) | Roleplay |
-| **254** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (15:45) | Roleplay |
-| **255** | Bastard City - Tunon's Court (Sanctum) | Mirtul 25, 431 TR (15:46) | Roleplay |
-| **256** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:00) | Roleplay |
-| **257** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (15:56) | Roleplay |
-| **258** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:11) | Roleplay |
-| **259** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:20) | Roleplay |
-| **260** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:21) | Roleplay |
-| **261** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:22) | Roleplay |
-| **262** | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:35) | Roleplay |
-| **263** | The Spire Network (Global Hub) | 431 TR, Mirtul 25 - Flamerule 25 (1 Month Period) | Roleplay |
-| **264** | The Spire Network (Global Hub) | Flamerule 25, 431 TR (13:35) | Roleplay |
-| **265** | The Spire Network (Global Hub) | Flamerule 25, 431 TR (14:05) | Roleplay |
-| **266** | The Spire Network (Global Hub) | Flamerule 30, 431 TR (10:00) | Roleplay |
-| **267** | The Spire Network (Global Hub) | Flamerule 30, 431 TR (16:00) | Roleplay |
-| **268** | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:00) | Roleplay |
-| **269** | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:00) | Roleplay |
-| **270** | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:05) | Roleplay |
-| **271** | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:10) | Roleplay |
-| **272** | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:25) | Roleplay |
-| **273** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (10:00) | Roleplay |
-| **274** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (10:15) | Roleplay |
-| **275** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (11:30) | Roleplay |
-| **276** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (11:45) | Roleplay |
-| **277** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (11:45) | Roleplay |
-| **278** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:25) | Roleplay |
-| **279** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:35) | Roleplay |
-| **280** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:45) | Roleplay |
-| **281** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:50) | Roleplay |
-| **282** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (13:05) | Roleplay |
-| **283** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (13:15) | Roleplay |
-| **284** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:15) | Roleplay |
-| **285** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:25) | Roleplay |
-| **286** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:35) | Roleplay |
-| **287** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:45) | Roleplay |
-| **288** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:45) | Roleplay |
-| **289** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (15:15) | Roleplay |
-| **290** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (16:30) | Roleplay |
-| **291** | The Capstone Spire (Apex) | Flamerule 31, 431 TR (17:30) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Edgering Ruins | The Year of the Sword, Year 431 TR (Marpenoth 12) | Roleplay |
+| [**Scene 03**](#scene-3) | Edgering Ruins | the 10th of Rain, 0431 TR (Midday) | Roleplay |
+| [**Scene 04**](#scene-4) | Edgering Ruins | 10th Day, 431 TR (Midday) | Roleplay |
+| [**Scene 05**](#scene-5) | Edgering Ruins | The Year of the Sword, 431 TR (10th of Sun's Dusk) | Roleplay |
+| [**Scene 06**](#scene-6) | Edgering Ruins | Month of the Sword, 431 TR (Day 12) | Roleplay |
+| [**Scene 07**](#scene-7) | Edgering Ruins | 0431-10-12T12:10:30.123456Z | Roleplay |
+| [**Scene 08**](#scene-8) | Edgering Ruins | Year of the Sword, 0431 TR (10th of Halfling) | Roleplay |
+| [**Scene 09**](#scene-9) | Edgering Ruins | The Month of the Sword, Year 431 TR (Day 12) | Roleplay |
+| [**Scene 10**](#scene-10) | Edgering Ruins | Year of the Sword, 0431 TR (12th day) | Roleplay |
+| [**Scene 11**](#scene-11) | Edgering Ruins | 10th of Flos, 0431 TR (Midday) | Roleplay |
+| [**Scene 12**](#scene-12) | Edgering Ruins | The Month of the Sword, 0431 TR (Day 12) | Roleplay |
+| [**Scene 13**](#scene-13) | Edgering Ruins | Month Unknown, Year 431 TR (Day Unknown) | Roleplay |
+| [**Scene 14**](#scene-14) | Edgering Ruins | Month 10, 0431 TR (Day 12) | Roleplay |
+| [**Scene 15**](#scene-15) | Edgering Ruins | The Year of the Sword, Year 431 TR (Midday) | Roleplay |
+| [**Scene 16**](#scene-16) | Edgering Ruins | Mirtul 12, 431 DR (12:16 PM) | Roleplay |
+| [**Scene 17**](#scene-17) | Edgering Ruins | Mirtul 12, 431 DR (12:16 PM) | Roleplay |
+| [**Scene 18**](#scene-18) | Edgering Ruins | 0431 Mirtul 12, Afternoon | Roleplay |
+| [**Scene 19**](#scene-19) | Edgering Ruins | Mirtul 12, 431 DR (12:17 PM) | Roleplay |
+| [**Scene 20**](#scene-20) | Edgering Ruins | Mirtul 12, 431 DR (12:20 PM) | Roleplay |
+| [**Scene 21**](#scene-21) | Edgering Ruins | Mirtul 12, 431 DR (Afternoon) | Roleplay |
+| [**Scene 22**](#scene-22) | Edgering Ruins | Mirtul 12, 431 DR (12:30 PM) | Roleplay |
+| [**Scene 23**](#scene-23) | Edgering Ruins | Mirtul 12, 431 DR (12:30) | Roleplay |
+| [**Scene 24**](#scene-24) | Edgering Ruins | Mirtul 12, 431 DR (12:30) | Roleplay |
+| [**Scene 25**](#scene-25) | Edgering Ruins | Mirtul 12, 431 DR (Afternoon) | Roleplay |
+| [**Scene 26**](#scene-26) | Edgering Ruins | Mirtul 12, 431 DR (12:35 PM) | Roleplay |
+| [**Scene 27**](#scene-27) | Edgering Ruins | Mirtul 12, 431 DR (Afternoon (12:35)) | Roleplay |
+| [**Scene 28**](#scene-28) | Edgering Ruins | Mirtul 12, Year 431 DR (Afternoon (12:35 PM)) | Roleplay |
+| [**Scene 29**](#scene-29) | Edgering Ruins | Mirtul 12, Year 431 DR (Afternoon (12:35 PM)) | Roleplay |
+| [**Scene 30**](#scene-30) | Edgering Ruins | Mirtul 12, 431 TR (12:35) | Roleplay |
+| [**Scene 31**](#scene-31) | Edgering Ruins | Mirtul 12, 431 TR (12:50 PM) | Roleplay |
+| [**Scene 32**](#scene-32) | Edgering Ruins | Mirtul 12, 431 TR (12:55) | Roleplay |
+| [**Scene 33**](#scene-33) | Edgering Ruins | Mirtul 12, 431 TR (13:25) | Roleplay |
+| [**Scene 34**](#scene-34) | Edgering Ruins | Mirtul 12, 431 TR (13:40) | Roleplay |
+| [**Scene 35**](#scene-35) | Edgering Ruins | Mirtul 12, 431 TR (16:40) | Roleplay |
+| [**Scene 36**](#scene-36) | Edgering Ruins | Mirtul 12, 431 TR (18:45) | Roleplay |
+| [**Scene 37**](#scene-37) | Edgering Ruins | Mirtul 12, 431 TR (19:15) | Roleplay |
+| [**Scene 38**](#scene-38) | Edgering Ruins | Mirtul 12, 431 TR (18:45) | Roleplay |
+| [**Scene 39**](#scene-39) | Edgering Ruins - Eastern Perimeter | Mirtul 12, 431 TR (19:15) | Roleplay |
+| [**Scene 40**](#scene-40) | Edgering Ruins - Eastern Scriptorium Outskirts | Mirtul 12, 431 TR (19:30) | Roleplay |
+| [**Scene 41**](#scene-41) | Edgering Ruins - Scriptorium Outskirts | Mirtul 12, 431 TR (19:25) | Roleplay |
+| [**Scene 42**](#scene-42) | Edgering Ruins - Eastern Scriptorium Outskirts | Mirtul 12, 431 TR (19:40) | Roleplay |
+| [**Scene 43**](#scene-43) | Edgering Ruins - Eastern Scriptorium Outskirts | Mirtul 12, 431 TR (19:50) | Roleplay |
+| [**Scene 44**](#scene-44) | Edgering Ruins - Scriptorium Vault Entrance | Mirtul 12, 431 TR (19:55) | Roleplay |
+| [**Scene 45**](#scene-45) | Edgering Ruins - Scriptorium Vault Entrance | Mirtul 12, 431 TR (20:00) | Roleplay |
+| [**Scene 46**](#scene-46) | Edgering Ruins - Scriptorium Vault Entrance | Mirtul 12, 431 TR (20:05) | Roleplay |
+| [**Scene 47**](#scene-47) | Edgering Ruins - Scriptorium Vault Interior | Mirtul 12, 431 TR (20:10) | Roleplay |
+| [**Scene 48**](#scene-48) | Edgering Ruins - Scriptorium Vault - Primary Archive | Mirtul 12, 431 TR (20:20) | Roleplay |
+| [**Scene 49**](#scene-49) | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:35 PM) | Roleplay |
+| [**Scene 50**](#scene-50) | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:35) | Roleplay |
+| [**Scene 51**](#scene-51) | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:35) | Roleplay |
+| [**Scene 52**](#scene-52) | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:40) | Roleplay |
+| [**Scene 53**](#scene-53) | Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:40) | Roleplay |
+| [**Scene 54**](#scene-54) | Vendrien's Well - Disfavored Encampment Perimeter | Mirtul 12, 431 TR (12:40) | Roleplay |
+| [**Scene 55**](#scene-55) | Disfavored Encampment - Command Tent Perimeter | Mirtul 12, 431 TR (13:05) | Roleplay |
+| [**Scene 56**](#scene-56) | Disfavored Encampment - Command Tent | Mirtul 12, 431 TR (13:10) | Roleplay |
+| [**Scene 57**](#scene-57) | Disfavored Encampment - Command Tent | Mirtul 12, 431 TR (13:15) | Roleplay |
+| [**Scene 58**](#scene-58) | Disfavored Encampment - Command Tent | Mirtul 12, 431 TR (13:20) | Roleplay |
+| [**Scene 59**](#scene-59) | Disfavored Encampment - Armor Forge | Mirtul 12, 431 TR (13:20) | Roleplay |
+| [**Scene 60**](#scene-60) | Disfavored Encampment - Command Perimeter | Mirtul 12, 431 TR (13:45) | Roleplay |
+| [**Scene 61**](#scene-61) | Disfavored Encampment - Command Pavilion Area | Mirtul 12, 431 TR (13:45) | Roleplay |
+| [**Scene 62**](#scene-62) | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (13:46) | Roleplay |
+| [**Scene 63**](#scene-63) | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (13:50) | Roleplay |
+| [**Scene 64**](#scene-64) | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:05) | Roleplay |
+| [**Scene 65**](#scene-65) | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:15) | Roleplay |
+| [**Scene 66**](#scene-66) | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:15) | Roleplay |
+| [**Scene 67**](#scene-67) | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (14:15) | Roleplay |
+| [**Scene 68**](#scene-68) | Disfavored Encampment - Command Pavilion | Mirtul 12, 431 TR (13:00) | Roleplay |
+| [**Scene 69**](#scene-69) | Scarlet Chorus Outskirts - Vendrien's Well | Mirtul 13, 431 TR (05:00) | Roleplay |
+| [**Scene 70**](#scene-70) | Scarlet Chorus Encampment - Outer Perimeter | Mirtul 13, 431 TR (05:45) | Roleplay |
+| [**Scene 71**](#scene-71) | Scarlet Chorus Encampment - Outer Perimeter | Mirtul 13, 431 TR (05:50) | Roleplay |
+| [**Scene 72**](#scene-72) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:15) | Roleplay |
+| [**Scene 73**](#scene-73) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:15) | Roleplay |
+| [**Scene 74**](#scene-74) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:15) | Roleplay |
+| [**Scene 75**](#scene-75) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:45) | Roleplay |
+| [**Scene 76**](#scene-76) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:55) | Roleplay |
+| [**Scene 77**](#scene-77) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (06:55) | Roleplay |
+| [**Scene 78**](#scene-78) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (07:15) | Roleplay |
+| [**Scene 79**](#scene-79) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (07:15) | Roleplay |
+| [**Scene 80**](#scene-80) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (07:15) | Roleplay |
+| [**Scene 81**](#scene-81) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (08:30) | Roleplay |
+| [**Scene 82**](#scene-82) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (08:35) | Roleplay |
+| [**Scene 83**](#scene-83) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (09:05) | Roleplay |
+| [**Scene 84**](#scene-84) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (09:35) | Roleplay |
+| [**Scene 85**](#scene-85) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (09:50) | Roleplay |
+| [**Scene 86**](#scene-86) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (10:15) | Roleplay |
+| [**Scene 87**](#scene-87) | Scarlet Chorus Encampment - Voice's Pavilion | Mirtul 13, 431 TR (10:30) | Roleplay |
+| [**Scene 88**](#scene-88) | Scarlet Chorus Encampment - Voice's Pavilion | Mirtul 13, 431 TR (10:45) | Roleplay |
+| [**Scene 89**](#scene-89) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:45) | Roleplay |
+| [**Scene 91**](#scene-91) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
+| [**Scene 92**](#scene-92) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
+| [**Scene 93**](#scene-93) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
+| [**Scene 94**](#scene-94) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:30) | Roleplay |
+| [**Scene 95**](#scene-95) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 0431 TR (11:35) | Roleplay |
+| [**Scene 96**](#scene-96) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:35) | Roleplay |
+| [**Scene 97**](#scene-97) | Scarlet Chorus Encampment - Inner Sprawl | Mirtul 13, 431 TR (11:35) | Roleplay |
+| [**Scene 98**](#scene-98) | Approach to Vendrien's Well | Mirtul 13, 431 TR (14:45) | Roleplay |
+| [**Scene 99**](#scene-99) | Vendrien's Well - Outer Perimeter | Mirtul 13, 431 TR (15:00) | Roleplay |
+| [**Scene 100**](#scene-100) | Vendrien's Well - Outer Perimeter | Mirtul 13, 431 TR (16:30) | Roleplay |
+| [**Scene 101**](#scene-101) | Vendrien's Well - Outer Perimeter | Mirtul 13, 431 TR (16:30) | Roleplay |
+| [**Scene 102**](#scene-102) | Vendrien's Well - Path to Ascension Hall | Mirtul 13, 431 TR (17:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Path to Ascension Hall | Mirtul 13, 431 TR (17:30) | Roleplay |
+| [**Scene 104**](#scene-104) | Ascension Hall - Grand Entrance | Mirtul 13, 431 TR (18:15) | Roleplay |
+| [**Scene 105**](#scene-105) | Ascension Hall - Grand Entrance | Mirtul 13, 431 TR (18:25) | Roleplay |
+| [**Scene 106**](#scene-106) | Vendrien's Well - Ascension Hall Grand Entrance | Mirtul 13, 431 TR (18:35) | Roleplay |
+| [**Scene 107**](#scene-107) | Vendrien's Well - Ascension Hall | Mirtul 14, 431 TR (08:00) | Roleplay |
+| [**Scene 108**](#scene-108) | Vendrien's Well - Ascension Hall | Mirtul 14, 431 TR (09:15) | Roleplay |
+| [**Scene 109**](#scene-109) | Vendrien's Well - Inner Sanctum Threshold | Mirtul 14, 431 TR (09:45) | Roleplay |
+| [**Scene 110**](#scene-110) | The Mountain Spire - Ascension Well | Mirtul 14, 431 TR (10:15) | Roleplay |
+| [**Scene 111**](#scene-111) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (10:30) | Roleplay |
+| [**Scene 112**](#scene-112) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (11:30) | Roleplay |
+| [**Scene 113**](#scene-113) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (12:45) | Roleplay |
+| [**Scene 114**](#scene-114) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (15:30) | Roleplay |
+| [**Scene 115**](#scene-115) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:15) | Roleplay |
+| [**Scene 116**](#scene-116) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:20) | Roleplay |
+| [**Scene 117**](#scene-117) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:50) | Roleplay |
+| [**Scene 118**](#scene-118) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (16:55) | Roleplay |
+| [**Scene 119**](#scene-119) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (17:15) | Roleplay |
+| [**Scene 120**](#scene-120) | The Mountain Spire - Ascension Peak | Mirtul 14, 431 TR (17:15) | Roleplay |
+| [**Scene 121**](#scene-121) | Sunset Spire - Apex | Mirtul 14, 431 TR (18:30) | Roleplay |
+| [**Scene 122**](#scene-122) | Sunset Spire - Apex | Mirtul 14, 0431 TR (18:35) | Roleplay |
+| [**Scene 123**](#scene-123) | Sunset Spire - Apex | Mirtul 15, 431 TR (08:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Lethian's Crossing - Town Square | Mirtul 15, 431 TR (14:45) | Roleplay |
+| [**Scene 125**](#scene-125) | Lethian's Crossing (Occupied) | Mirtul 15, 431 TR (16:30) | Roleplay |
+| [**Scene 126**](#scene-126) | Lethian's Crossing (Occupied Temple) | Mirtul 15, 431 TR (17:15) | Roleplay |
+| [**Scene 127**](#scene-127) | Lethian's Crossing (Occupied Temple) | Mirtul 15, 431 TR (17:45) | Roleplay |
+| [**Scene 128**](#scene-128) | Lethian's Crossing (Occupied Temple) | Mirtul 22, 431 TR (12:00) | Roleplay |
+| [**Scene 129**](#scene-129) | Lethian's Crossing (Occupied Temple) | Mirtul 22, 431 TR (13:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Lethian's Crossing (Occupied Temple) | Mirtul 22, 431 TR (13:00) | Roleplay |
+| [**Scene 131**](#scene-131) | Ocean Spire (Apex) | Mirtul 22, 431 TR (13:45) | Roleplay |
+| [**Scene 132**](#scene-132) | Ocean Spire (Apex) | Mirtul 22, 431 TR (14:00) | Roleplay |
+| [**Scene 133**](#scene-133) | Ocean Spire (Apex) | Mirtul 22, 431 TR (14:15) | Roleplay |
+| [**Scene 134**](#scene-134) | Ocean Spire (Apex) | Mirtul 22, 431 TR (14:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Ocean Spire (Apex) | Mirtul 22, 431 TR (16:45) | Roleplay |
+| [**Scene 136**](#scene-136) | Ocean Spire (Apex) | Mirtul 22, 431 TR (16:45) | Roleplay |
+| [**Scene 137**](#scene-137) | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
+| [**Scene 138**](#scene-138) | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
+| [**Scene 139**](#scene-139) | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
+| [**Scene 140**](#scene-140) | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
+| [**Scene 141**](#scene-141) | Ocean Spire (Apex) | Mirtul 23, 431 TR (09:15) | Roleplay |
+| [**Scene 142**](#scene-142) | Ocean Spire (Apex) | Mirtul 23, 431 TR (14:00) | Roleplay |
+| [**Scene 143**](#scene-143) | Dawning Spire (Apex) | Mirtul 23, 431 TR (14:15) | Roleplay |
+| [**Scene 144**](#scene-144) | Dawning Spire (Apex) | Mirtul 23, 431 TR (14:15) | Roleplay |
+| [**Scene 145**](#scene-145) | Dawning Spire (Apex) | Mirtul 23, 431 TR (14:15) | Roleplay |
+| [**Scene 146**](#scene-146) | Dawning Spire (Primary Archives) | Mirtul 23, 431 TR (14:45) | Roleplay |
+| [**Scene 147**](#scene-147) | Dawning Spire (Primary Archives) | Mirtul 23, 431 TR (15:30) | Roleplay |
+| [**Scene 148**](#scene-148) | Dawning Spire (Lower Warrens) | Mirtul 23, 431 DR (17:00) | Roleplay |
+| [**Scene 149**](#scene-149) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 TR (17:01) | Roleplay |
+| [**Scene 150**](#scene-150) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 TR (17:30) | Roleplay |
+| [**Scene 151**](#scene-151) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (17:30) | Roleplay |
+| [**Scene 152**](#scene-152) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (17:40) | Roleplay |
+| [**Scene 153**](#scene-153) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (17:40) | Roleplay |
+| [**Scene 154**](#scene-154) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 TR (17:50) | Roleplay |
+| [**Scene 155**](#scene-155) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:25) | Roleplay |
+| [**Scene 156**](#scene-156) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:31) | Roleplay |
+| [**Scene 157**](#scene-157) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:33) | Roleplay |
+| [**Scene 158**](#scene-158) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:38) | Roleplay |
+| [**Scene 159**](#scene-159) | Dawning Spire (Lower Warrens - Veiled Quill) | Mirtul 23, 431 DR (18:48) | Roleplay |
+| [**Scene 160**](#scene-160) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (19:15) | Roleplay |
+| [**Scene 161**](#scene-161) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:15) | Roleplay |
+| [**Scene 162**](#scene-162) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:45) | Roleplay |
+| [**Scene 163**](#scene-163) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:20) | Roleplay |
+| [**Scene 164**](#scene-164) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:30) | Roleplay |
+| [**Scene 165**](#scene-165) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (20:50) | Roleplay |
+| [**Scene 166**](#scene-166) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (21:50) | Roleplay |
+| [**Scene 167**](#scene-167) | Final Capstone Spire (Apex Node) | Mirtul 23, 431 DR (22:00) | Roleplay |
+| [**Scene 168**](#scene-168) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (06:00) | Roleplay |
+| [**Scene 169**](#scene-169) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (06:30) | Roleplay |
+| [**Scene 170**](#scene-170) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (06:30) | Roleplay |
+| [**Scene 171**](#scene-171) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (07:00) | Roleplay |
+| [**Scene 172**](#scene-172) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (07:10) | Roleplay |
+| [**Scene 173**](#scene-173) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (07:40) | Roleplay |
+| [**Scene 174**](#scene-174) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (15:40) | Roleplay |
+| [**Scene 175**](#scene-175) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 DR (15:50) | Roleplay |
+| [**Scene 176**](#scene-176) | Final Capstone Spire (Apex Node) | Mirtul 24, 431 TR (15:50) | Roleplay |
+| [**Scene 177**](#scene-177) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:30) | Roleplay |
+| [**Scene 178**](#scene-178) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
+| [**Scene 179**](#scene-179) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
+| [**Scene 180**](#scene-180) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
+| [**Scene 181**](#scene-181) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
+| [**Scene 182**](#scene-182) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (16:32) | Roleplay |
+| [**Scene 183**](#scene-183) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (17:15) | Roleplay |
+| [**Scene 184**](#scene-184) | Oldwalls - Eastern Breach | Mirtul 24, 431 TR (17:25) | Roleplay |
+| [**Scene 185**](#scene-185) | Capstone Spire - Apex | Mirtul 24, 431 TR (18:35) | Roleplay |
+| [**Scene 186**](#scene-186) | Capstone Spire - Apex | Mirtul 24, 431 TR (18:45) | Roleplay |
+| [**Scene 187**](#scene-187) | Capstone Spire - Apex | Mirtul 24, 431 TR (19:15) | Roleplay |
+| [**Scene 188**](#scene-188) | Capstone Spire | Mirtul 24, 431 TR (19:15) | Roleplay |
+| [**Scene 189**](#scene-189) | Capstone Spire - Apex | Mirtul 24, 431 TR (19:30) | Roleplay |
+| [**Scene 190**](#scene-190) | Capstone Spire | Mirtul 24, 431 TR (21:00) | Roleplay |
+| [**Scene 191**](#scene-191) | Capstone Spire | Mirtul 24, 431 TR (21:15) | Roleplay |
+| [**Scene 192**](#scene-192) | Capstone Spire | Mirtul 23, 431 TR (21:00) | Roleplay |
+| [**Scene 193**](#scene-193) | Capstone Spire | Mirtul 24, 431 TR (21:15) | Roleplay |
+| [**Scene 194**](#scene-194) | Capstone Spire | Mirtul 24, 431 TR (21:25) | Roleplay |
+| [**Scene 195**](#scene-195) | Capstone Spire | Mirtul 24, 431 TR (21:20) | Roleplay |
+| [**Scene 196**](#scene-196) | Capstone Spire | Mirtul 24, 431 TR (21:35) | Roleplay |
+| [**Scene 197**](#scene-197) | Capstone Spire (Neural Apex) | Mirtul 24, 431 TR (21:35) | Roleplay |
+| [**Scene 198**](#scene-198) | Capstone Spire - Apex | Mirtul 24, 431 TR (21:35) | Roleplay |
+| [**Scene 199**](#scene-199) | Bastard City - Outer Perimeter (Ruined District) | Mirtul 24, 431 TR (22:20) | Roleplay |
+| [**Scene 200**](#scene-200) | Bastard City - Outer Perimeter | Mirtul 24, 431 TR (22:20) | Roleplay |
+| [**Scene 201**](#scene-201) | Bastard City - Outer Perimeter | Mirtul 24, 431 TR (22:25) | Roleplay |
+| [**Scene 202**](#scene-202) | Bastard City - Outer Perimeter | Mirtul 24, 431 TR (23:15) | Roleplay |
+| [**Scene 203**](#scene-203) | Capstone Spire - Apex | Mirtul 24, 431 TR (23:45) | Roleplay |
+| [**Scene 204**](#scene-204) | Bastard Tier - Outer Shadow | Mirtul 24, 431 TR (00:15) | Roleplay |
+| [**Scene 205**](#scene-205) | Bastard Tier - Deep Shadow | Mirtul 25, 431 TR (00:25) | Roleplay |
+| [**Scene 206**](#scene-206) | Bastard Tier - Deep Shadow | Mirtul 25, 431 TR (00:35) | Roleplay |
+| [**Scene 207**](#scene-207) | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:36) | Roleplay |
+| [**Scene 208**](#scene-208) | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:36) | Roleplay |
+| [**Scene 209**](#scene-209) | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:45) | Roleplay |
+| [**Scene 210**](#scene-210) | Bastard Tier - Resonance Chamber | Mirtul 25, 431 TR (00:36 (Deep Night)) | Roleplay |
+| [**Scene 211**](#scene-211) | Bastard Tier - Resonance Chamber | Mirtul 25, Year 431 TR (00:36 (Deep Night)) | Roleplay |
+| [**Scene 212**](#scene-212) | Bastard City - Iron Works Perimeter | Mirtul 25, 431 TR (01:15) | Roleplay |
+| [**Scene 213**](#scene-213) | Bastard City - Iron Works | Mirtul 25, 431 TR (01:30) | Roleplay |
+| [**Scene 214**](#scene-214) | Bastard City - Iron Works | Mirtul 25, 431 TR (01:45) | Roleplay |
+| [**Scene 215**](#scene-215) | Bastard City - Iron Works | Mirtul 25, 431 TR (03:15) | Roleplay |
+| [**Scene 216**](#scene-216) | Bastard City - Iron Works | Mirtul 25, 431 TR (03:25) | Roleplay |
+| [**Scene 217**](#scene-217) | Bastard City - Iron Works | Mirtul 25, 431 TR (03:25 (Deep Night)) | Roleplay |
+| [**Scene 218**](#scene-218) | Bastard City - Iron Works | Mirtul 25, 431 TR (04:15) | Roleplay |
+| [**Scene 219**](#scene-219) | Bastard City - Merchant District | Mirtul 25, 431 TR (05:45) | Roleplay |
+| [**Scene 220**](#scene-220) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
+| [**Scene 221**](#scene-221) | Oldwalls Edge - Voices' Personal Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
+| [**Scene 222**](#scene-222) | Oldwalls Edge - Voices' Personal Pavilion | Mirtul 25, 431 TR (06:20) | Roleplay |
+| [**Scene 223**](#scene-223) | Oldwalls Edge - Voices' Pavilion (Annexed) | Mirtul 25, 431 TR (06:45) | Roleplay |
+| [**Scene 224**](#scene-224) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
+| [**Scene 225**](#scene-225) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
+| [**Scene 226**](#scene-226) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
+| [**Scene 227**](#scene-227) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
+| [**Scene 228**](#scene-228) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:15) | Roleplay |
+| [**Scene 229**](#scene-229) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:20 (Dawn)) | Roleplay |
+| [**Scene 230**](#scene-230) | Oldwalls Edge - Voices' Pavilion |  | Roleplay |
+| [**Scene 231**](#scene-231) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:35) | Roleplay |
+| [**Scene 232**](#scene-232) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (06:40) | Roleplay |
+| [**Scene 233**](#scene-233) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:15) | Roleplay |
+| [**Scene 234**](#scene-234) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:25) | Roleplay |
+| [**Scene 235**](#scene-235) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:35) | Roleplay |
+| [**Scene 236**](#scene-236) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 DR (07:25) | Roleplay |
+| [**Scene 237**](#scene-237) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (07:35) | Roleplay |
+| [**Scene 238**](#scene-238) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (08:35) | Roleplay |
+| [**Scene 239**](#scene-239) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (08:45) | Roleplay |
+| [**Scene 240**](#scene-240) | Oldwalls Edge - Voices' Pavilion | Mirtul 25, 431 TR (09:15) | Roleplay |
+| [**Scene 241**](#scene-241) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (10:15) | Roleplay |
+| [**Scene 242**](#scene-242) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (10:45) | Roleplay |
+| [**Scene 243**](#scene-243) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (11:00) | Roleplay |
+| [**Scene 244**](#scene-244) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (11:15) | Roleplay |
+| [**Scene 245**](#scene-245) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (Morning) | Roleplay |
+| [**Scene 246**](#scene-246) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (12:15) | Roleplay |
+| [**Scene 247**](#scene-247) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (12:45) | Roleplay |
+| [**Scene 248**](#scene-248) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (13:45) | Roleplay |
+| [**Scene 249**](#scene-249) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:00) | Roleplay |
+| [**Scene 250**](#scene-250) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:15) | Roleplay |
+| [**Scene 251**](#scene-251) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:45) | Roleplay |
+| [**Scene 252**](#scene-252) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (14:55) | Roleplay |
+| [**Scene 253**](#scene-253) | Bastard City - Tunon's Court (Sanctum) | Mirtul 25, 431 TR (15:15) | Roleplay |
+| [**Scene 254**](#scene-254) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (15:45) | Roleplay |
+| [**Scene 255**](#scene-255) | Bastard City - Tunon's Court (Sanctum) | Mirtul 25, 431 TR (15:46) | Roleplay |
+| [**Scene 256**](#scene-256) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:00) | Roleplay |
+| [**Scene 257**](#scene-257) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (15:56) | Roleplay |
+| [**Scene 258**](#scene-258) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:11) | Roleplay |
+| [**Scene 259**](#scene-259) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:20) | Roleplay |
+| [**Scene 260**](#scene-260) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:21) | Roleplay |
+| [**Scene 261**](#scene-261) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:22) | Roleplay |
+| [**Scene 262**](#scene-262) | Bastard City - Tunon's Court | Mirtul 25, 431 TR (16:35) | Roleplay |
+| [**Scene 263**](#scene-263) | The Spire Network (Global Hub) | 431 TR, Mirtul 25 - Flamerule 25 (1 Month Period) | Roleplay |
+| [**Scene 264**](#scene-264) | The Spire Network (Global Hub) | Flamerule 25, 431 TR (13:35) | Roleplay |
+| [**Scene 265**](#scene-265) | The Spire Network (Global Hub) | Flamerule 25, 431 TR (14:05) | Roleplay |
+| [**Scene 266**](#scene-266) | The Spire Network (Global Hub) | Flamerule 30, 431 TR (10:00) | Roleplay |
+| [**Scene 267**](#scene-267) | The Spire Network (Global Hub) | Flamerule 30, 431 TR (16:00) | Roleplay |
+| [**Scene 268**](#scene-268) | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:00) | Roleplay |
+| [**Scene 269**](#scene-269) | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:00) | Roleplay |
+| [**Scene 270**](#scene-270) | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:05) | Roleplay |
+| [**Scene 271**](#scene-271) | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:10) | Roleplay |
+| [**Scene 272**](#scene-272) | The Spire Network (Global Hub) | Flamerule 30, 431 TR (23:25) | Roleplay |
+| [**Scene 273**](#scene-273) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (10:00) | Roleplay |
+| [**Scene 274**](#scene-274) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (10:15) | Roleplay |
+| [**Scene 275**](#scene-275) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (11:30) | Roleplay |
+| [**Scene 276**](#scene-276) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (11:45) | Roleplay |
+| [**Scene 277**](#scene-277) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (11:45) | Roleplay |
+| [**Scene 278**](#scene-278) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:25) | Roleplay |
+| [**Scene 279**](#scene-279) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:35) | Roleplay |
+| [**Scene 280**](#scene-280) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:45) | Roleplay |
+| [**Scene 281**](#scene-281) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (12:50) | Roleplay |
+| [**Scene 282**](#scene-282) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (13:05) | Roleplay |
+| [**Scene 283**](#scene-283) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (13:15) | Roleplay |
+| [**Scene 284**](#scene-284) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:15) | Roleplay |
+| [**Scene 285**](#scene-285) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:25) | Roleplay |
+| [**Scene 286**](#scene-286) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:35) | Roleplay |
+| [**Scene 287**](#scene-287) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:45) | Roleplay |
+| [**Scene 288**](#scene-288) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (14:45) | Roleplay |
+| [**Scene 289**](#scene-289) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (15:15) | Roleplay |
+| [**Scene 290**](#scene-290) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (16:30) | Roleplay |
+| [**Scene 291**](#scene-291) | The Capstone Spire (Apex) | Flamerule 31, 431 TR (17:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -457,8 +473,11 @@ The Analysis: Do you ask her for a situational report, but demand it in "pure da
 > 👤 **Player:**
 > *"continue story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **The Year of the Sword, Year 431 TR (Marpenoth 12)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: Unknown/Unknown | XP: Unknown/Unknown | Gold: Unknown** &nbsp;|&nbsp; ✨ **HD: Unknown/Unknown, Spells: Unknown, Ki: Unknown/Unknown, Rage: Unknown/Unknown, Potions: Unknown, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Unknown | Exhaustion: 0 | Inspiration: No**
@@ -474,8 +493,11 @@ A soft scuff of boots on stone pulls your attention from the recalculating soldi
 God Mode:
 make me level 1
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **the 10th of Rain, 0431 TR (Midday)** &nbsp;|&nbsp; 🛡️ **Character Setup Required** &nbsp;|&nbsp; ✨ **HD: Unknown/Unknown, Spells: Unknown, Ki: Unknown/Unknown, Rage: Unknown/Unknown, Potions: Unknown, Exhaustion: 0**
@@ -485,8 +507,11 @@ User wants to be set to Level 1. In GOD MODE, this is a direct administrative ac
 God Mode:
 wait make me level 6 and give me +2 CHA feat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **10th Day, 431 TR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 8/8 (Temp: 0) | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Bardic Inspiration: 1/1 (d6), Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -496,8 +521,11 @@ User is in GOD MODE and has requested two administrative changes: advancing to L
 God Mode:
 pick reasonable spells, gear etc for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **The Year of the Sword, 431 TR (10th of Sun's Dusk)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 36/36 (Temp: 0) | XP: 22500/35000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -507,8 +535,11 @@ Player is in GOD MODE requesting a comprehensive character optimization. This is
 God Mode:
 give me a finesse weapon and a good ranged weapon, make my stats cha > dex > con ...
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Month of the Sword, 431 TR (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 36/36 (Temp: 0) | XP: 22500/35000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -518,8 +549,11 @@ User is in GOD MODE requesting specific equipment and stat optimization. This is
 God Mode:
 give me 16 base cha and adjust others, i want higher dex too if possible and less int/wis
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **0431-10-12T12:10:30.123456Z** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 36/36 (Temp: 0) | XP: 22500/35000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -529,8 +563,11 @@ Player wants to adjust stats: 16 base CHA, higher DEX if possible, lower INT/WIS
 God Mode:
 Apply Weapon and Stat Changes - Add a shortsword and longbow, reallocate stats to CHA &gt; DEX &gt; CON
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Year of the Sword, 0431 TR (10th of Halfling)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 36/36 (Temp: 0) | XP: 22,500/35,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -540,8 +577,11 @@ The user is in GOD MODE and has requested equipment and stat changes. I need to:
 God Mode:
 Adjust Further - Make additional stat changes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **The Month of the Sword, Year 431 TR (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -551,8 +591,11 @@ The user is in GOD MODE and wants to make additional stat adjustments. Their las
 God Mode:
 High CHA/DEX Balanced - STR: 8, DEX: 16, CON: 14, INT: 8, WIS: 12, CHA: 16 (27 points) - Keeps high DEX/CHA, reduces INT slightly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Year of the Sword, 0431 TR (12th day)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -562,8 +605,11 @@ The user is in GOD MODE and has requested a stat adjustment to 'High CHA/DEX Bal
 God Mode:
 Apply Stat Changes - Set attributes to STR 8, DEX 16, CON 14, INT 8, WIS 12, CHA 16 and update derived stats.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **10th of Flos, 0431 TR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -573,8 +619,11 @@ The user is in GOD MODE and has requested to apply specific stat changes (STR 8,
 God Mode:
 Return to Story - Exit GOD MODE and resume gameplay
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **The Month of the Sword, 0431 TR (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22,500/35,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -590,8 +639,11 @@ She steps from the shadows of a collapsed watchtower, not with the clumsy stumbl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Critique Verse&#x27;s Stance - Begin the &#x27;mentorship&#x27; by coldly analyzing her fighting posture and pointing out its flaws.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Month Unknown, Year 431 TR (Day Unknown)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -611,8 +663,11 @@ You pause, letting the cold assessment sink in. Your rapier, Discordia, remains 
 God Mode:
 give myself 1000 gold, 10gp is weird
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Month 10, 0431 TR (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -622,8 +677,11 @@ The user is in GOD MODE and has requested a resource adjustment. The command is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate the Flaw - Draw Discordia and execute a blindingly fast maneuver that demonstrates exactly how her posture could be exploited, stopping the blade an inch from her throat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **The Year of the Sword, Year 431 TR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -633,8 +691,11 @@ The demonstration is complete. I have established intellectual and physical domi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer the Choice - Withdraw the blade and offer her a deal: &#x27;I can teach you to replace luck with certainty. Or you can keep relying on it and see how long that lasts.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:16 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22500/35000 | Gold: 1010** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0**
@@ -644,8 +705,11 @@ I have established complete dominance over Verse, both intellectually and physic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer a Sample Lesson - Give her one small, brilliant piece of tactical advice that proves your value immediately, making her want more.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:16 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -669,8 +733,11 @@ You hold the pose a moment longer, letting the geometric perfection of it sink i
 God Mode:
 edit narrative and make it less obvious about math/calculation etc. be more subtle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **0431 Mirtul 12, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -694,8 +761,11 @@ You hold the pose a moment longer, letting the geometric perfection of it sink i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Mentorship - Insist she make a choice now, pushing her toward accepting your training to break her will further*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:17 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -713,8 +783,11 @@ The muscles in her jaw work, a grinding testament to the internal war. Finally, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept her surrender and outline the terms of your training. - Begin her indoctrination immediately, setting strict conditions that reinforce your control and her dependency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:20 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -724,8 +797,11 @@ Verse has accepted the terms of her training. I have established absolute contro
 > 👤 **Player:**
 > *"recruit her as a companion and proceed with story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22500/35000 | Gold: 1010** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -741,8 +817,11 @@ You turn away from her, a dismissive gesture that reinforces your control. Your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Camp - Use the time to establish a secure base of operations, reviewing your own notes and plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:30 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22,500/35,000 | Gold: 1,010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -758,8 +837,11 @@ Your work is interrupted by the soft, deliberate sound of approaching footsteps.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Evaluate Verse&#x27;s Report - Listen to her assessment and mentally dissect her methodology for strengths and flaws.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -769,8 +851,11 @@ The footsteps stop behind you. You do not look up from your schematic, your hand
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait and Listen First - Let her complete the full report before forming analytical frameworks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -788,8 +873,11 @@ She falls silent again, and the charcoal continues its slow, methodical tracing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Report and Return to Your Work - Give a curt nod of acknowledgment and immediately return to your own schematics, reinforcing your detached authority and treating her success as merely baseline competence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -805,8 +893,11 @@ Without another word to her, you turn your full attention back to the schematic.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Strategic Planning - Immersion yourself fully in your tactical schematics, refining the defensive plans for the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (12:35 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22,500/35,000 | Gold: 1,010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -822,8 +913,11 @@ Without another word to her, you turn your full attention back to the schematic.
 > 👤 **Player:**
 > *"finish with versse, what am i doing now? what do i need tod o next for the campaign"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 DR (Afternoon (12:35))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -839,8 +933,11 @@ Without another word to her, you turn your full attention back to the schematic.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review Campaign Strategy - Consult your notes and schematics to plan your next major move in the conquest of the Tiers, analyzing the positions of the Archons and Kyros&#x27;s forces.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, Year 431 DR (Afternoon (12:35 PM))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -868,8 +965,11 @@ Are you doing calendar for tyranny game? it shouldnt be Dnd
 
 Year 431 DR, Mirtul 12, Afternoon (12:35 PM)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, Year 431 DR (Afternoon (12:35 PM))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3 (d8), Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -879,8 +979,11 @@ User corrects me on two points: 1) The setting is Tyranny, which would use the '
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fix Calendar to TR (Tiers Reign) - Change year from &#x27;431 DR&#x27; to &#x27;431 TR&#x27; to match Tyranny setting*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -890,8 +993,11 @@ Administrative correction complete. The calendar now uses the TR (Tiers Reign) s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume gameplay*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:50 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (College of Swords) | HP: 38/38 (Temp: 0) | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Potions: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -917,8 +1023,11 @@ You are not playing Kyros's game. You are playing your own. The conquest of the 
 > 👤 **Player:**
 > *"look for more companions and assemble a team. Get barrick and the scholar guy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -938,8 +1047,11 @@ You roll up your schematic and tuck it into your pack. Your task is set. You wil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Verse - Remain in the ruins and wait for Verse to return from her task before proceeding. She may have useful intelligence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3**
@@ -949,8 +1061,11 @@ The schematic is rolled and tucked away, the charcoal capped. Your immediate env
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare for an Ambush - Set up a few simple traps around your position in case anyone stumbles upon you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3**
@@ -966,8 +1081,11 @@ Finally, you locate a rusty iron spike lying half-buried in the dirt. You drive 
 > 👤 **Player:**
 > *"wait until verse back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3**
@@ -981,8 +1099,11 @@ Just as the last sliver of sun disappears below the horizon and true night claim
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hear Verse&#x27;s Report - Listen to what she discovered during her analysis of the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1000,8 +1121,11 @@ She takes a breath, delivering her final piece of intelligence with a hint of he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit the Division - Use the intelligence between the factions to your strategic advantage, planning your next move.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3**
@@ -1017,8 +1141,11 @@ Your mind expands, the schematic from earlier re-forming in your thoughts, now o
 > 👤 **Player:**
 > *"think. what if i get barrick and lantry first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Edgering Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3**
@@ -1034,8 +1161,11 @@ Securing Barik secures your physical position. Securing Lantry secures your stra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find Lantry first - Search for the scholar in likely locations—scriptoriums, ruins with libraries, or mage encampments*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Edgering Ruins - Eastern Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1051,8 +1181,11 @@ As you begin the trek, your eyes scan the horizon. The ley-line interference fro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Intervention - Intercept the nearest Chorus patrol and &#x27;requisition&#x27; their prisoner through Intimidation (+6) or force.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Edgering Ruins - Eastern Scriptorium Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp**
@@ -1074,8 +1207,11 @@ The Chanter hesitates. He looks at Verse, who is already notched a serrated arro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Protection (Contractual) - Frame his survival as a debt to be repaid through service and data sharing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Edgering Ruins - Scriptorium Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1095,8 +1231,11 @@ Lantry pales, but he nods slowly, a flicker of professional curiosity sparking i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Strategic Data - Demand a summary of Lantry&#x27;s findings regarding the Vendrien Guard and the Scriptorium&#x27;s hidden archives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Edgering Ruins - Eastern Scriptorium Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1112,8 +1251,11 @@ He looks up at you, the intelligence in his eyes warring with a deep-seated caut
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Direct Pressure - Make the consequences of his 'omissions' physically manifest. Threaten a controlled 'data purge' of his own limbs.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Edgering Ruins - Eastern Scriptorium Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1131,8 +1273,11 @@ He looks up at you, the terror in his eyes now mixed with a desperate, pleading 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand the Sequence - Force him to provide the harmonic sequence immediately and head for the vaults*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Edgering Ruins - Scriptorium Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1150,8 +1295,11 @@ You reach the Vault Entrance—a massive door of seared vellum and cold iron, in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brute Force Sequence - Recite the sequence immediately and rely on your &#x27;Countercharm&#x27; or pure mental discipline to weather the scream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Edgering Ruins - Scriptorium Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1169,8 +1317,11 @@ The massive vault door swings inward on silent, invisible hinges, revealing a li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Verse - Use a minor restorative technique or cold command to snap Verse out of her stupor before entering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Edgering Ruins - Scriptorium Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1188,8 +1339,11 @@ The harshness of the command acts as a psychological cauterization. Verse's pupi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter Vault Stealthily - Move into the darkness with muffled steps, prioritizing concealment and sensory detection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Edgering Ruins - Scriptorium Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1205,8 +1359,11 @@ Your heightened senses pick up a subtle anomaly: a rhythmic, dry scratching soun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Locate Primary Archives - Ignore the sound and prioritize finding the Spires&#x27; source code using Lantry&#x27;s knowledge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Edgering Ruins - Scriptorium Vault - Primary Archive** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1224,8 +1381,11 @@ Lantry gasps, his hands hovering inches from the glass. 'It’s beautiful... and
 God Mode:
 Modify the campaign to more closely follow the plot beats of the tyranny game. I should be in the edict of swords situation and retcon things so I'm back in that situation. I shouldn't be able to leave the valley and should be trying to recruit barrick fist
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Vendrien's Well - Disfavored Encampment Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:35 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp**
@@ -1235,8 +1395,11 @@ The user has requested a significant narrative retcon to align with the start of
 God Mode:
 Confirm Retcon - Finalize the transition to the Edict of Swords scenario
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Vendrien's Well - Disfavored Encampment Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1246,8 +1409,11 @@ The user is in GOD MODE to finalize a significant narrative retcon. The objectiv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume gameplay at the Disfavored Camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Vendrien's Well - Disfavored Encampment Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1261,8 +1427,11 @@ Verse stands beside you, her posture still reflecting the predatory stillness yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Gate - Present your credentials as a Fatebinder and demand entry to speak with the leadership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Vendrien's Well - Disfavored Encampment Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1280,8 +1449,11 @@ Verse, standing half a step behind you, shifts her weight, her hand ghosting tow
 God Mode:
 Redo this check. Make sure I picked expertise in my skills for intimidation persuasion deception
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Disfavored Encampment Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp**
@@ -1291,8 +1463,11 @@ The user is in GOD MODE to correct skill expertise. Nocturne is a Level 6 Bard, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the standoff at the Disfavored gates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Vendrien's Well - Disfavored Encampment Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1312,8 +1487,11 @@ You offer no acknowledgment of his concession; it was the only logical outcome. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Command Tent - Head directly to the Iron Marshal to establish your authority officially.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Disfavored Encampment - Command Tent Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1333,8 +1511,11 @@ You sweep into the tent. The air inside is cool and smells of parchment, old win
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Barik&#x27;s Reassignment - Formally requisition Barik for your personal retinue to ensure &#x27;cross-faction cooperation&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Disfavored Encampment - Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -1352,8 +1533,11 @@ Erenyos remains still, her eyes tracking your movements with the clinical intens
 > 👤 **Player:**
 > *"Ask for equipment supplies and elite soldiers and agents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Disfavored Encampment - Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1367,8 +1551,11 @@ Erenyos grunts, a sound of reluctant respect for your thoroughness. [DICE: Persu
 > 👤 **Player:**
 > *"Summarize all equipment gained and inspect barik and my new troops"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Disfavored Encampment - Command Tent** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1382,8 +1569,11 @@ Your equipment requisition has been staged nearby on a heavy wooden trestle. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Barik - Address the fused soldier directly and assess his readiness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Disfavored Encampment - Armor Forge** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Swords) | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1401,8 +1591,11 @@ You scan the four veterans behind him. They are 'Unbroken'—men who have surviv
 > 👤 **Player:**
 > *"Go meet with grave ashe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Disfavored Encampment - Command Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1422,8 +1615,11 @@ As you lead your newly assembled unit toward the camp's exit, the Disfavored sol
 God Mode:
 Why did you ignore this? Go meet with grave ashe
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Disfavored Encampment - Command Pavilion Area** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1433,8 +1629,11 @@ The user is frustrated that the previous turn (Sequence 120) focused on the exit
 God Mode:
 next time lsiten to my choices or give me god mode response to explain why not possible, then return story and meet graven ash
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Disfavored Encampment - Command Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1444,8 +1643,11 @@ The user is frustrated by a narrative loop/bypass. I must use GOD MODE to force 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and begin the encounter with Graven Ashe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Disfavored Encampment - Command Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1461,8 +1663,11 @@ Graven Ashe stands at the far end of the pavilion, his back to you as he stares 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Preservation - Argue that your &#x27;unit&#x27; is the only way to resolve the Edict without the mass sacrifice of his Legion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Disfavored Encampment - Command Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1478,8 +1683,11 @@ Graven Ashe remains statuesque, his crystalline map flickering with the reflecti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Official Blessing - Ensure Ashe publicly backs your unit to prevent interference from other Disfavored officers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Disfavored Encampment - Command Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1495,8 +1703,11 @@ He pauses, his shadow towering over the glowing map. 'Go then, Architect. But re
 > 👤 **Player:**
 > *"Think. how can i improve my personal power and influence while i handle this edict. how much time do i have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Disfavored Encampment - Command Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1512,8 +1723,11 @@ Your mind traces the path ahead. The Edict fires in seven days. Within that wind
 Analyze Influence Vectors: Identify how to play the Scarlet Chorus against the Disfavored to maximize personal standing.
 Calculate the Timeline: Formulate a precise 7-day schedule to reach the Spire and Lantry."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Disfavored Encampment - Command Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1529,8 +1743,11 @@ The timeline assembles itself with surgical precision. Day 1: Consolidation and 
 > 👤 **Player:**
 > *"i will do this all in one day Day 1: Consolidation and Departure. Day 2-3: Infiltration of the Scarlet Chorus camp and extraction of the 'Ink-Stained Sage.'"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Disfavored Encampment - Command Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 12, 431 TR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1546,8 +1763,11 @@ The march out of the Disfavored encampment is a study in clinical efficiency. Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forced Night March - Use Barik&#x27;s endurance and your own discipline to arrive at the Chorus camp before dawn, catching them in their least organized state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Scarlet Chorus Outskirts - Vendrien's Well** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1563,8 +1783,11 @@ As the first grey light of dawn bleeds over the horizon, you arrive at the outsk
 > 👤 **Player:**
 > *"I dont wanna attack the chorus camp, lets just go there normally, recruit lantry, make nice with voices, get more supplies and elite soliders/agents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Scarlet Chorus Encampment - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1582,8 +1805,11 @@ The alarm ripples outward instantly. Disorganized shouts erupt from nearby tents
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand the Gangboss - Stand your ground and demand to see the local commander (Krimp) immediately, treating the alarm as a procedural error on their part.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Scarlet Chorus Encampment - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (05:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1601,8 +1827,11 @@ A Gangboss, clad in mismatched leather and wearing a necklace of finger-bones, p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Lantry&#x27;s Release - State your legal requisition of the Sage immediately upon meeting Krimp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp**
@@ -1620,8 +1849,11 @@ Krimp's eyes narrow, his grip on the cleaver tightening. [DICE: Intimidation (Ex
 > 👤 **Player:**
 > *"bind lantry, then seek audience"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1637,8 +1869,11 @@ Krimp spits, but he signals a twitchy, paint-streaked runner. 'Fine, Fatebinder.
 > 👤 **Player:**
 > *"Think. Should i duel krimpt scarlet style and take over some of his troops as a gang boss? how many chorus elites do i have now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1652,8 +1887,11 @@ Your current inventory of 'Chorus Elites' is exactly zero. You have Disfavored v
 > [!NOTE] ⚙️ **Player Choice:**
 > *Challenge Krimp to a Duel - Invoke the &#x27;Right of Conquest&#x27; and dismantle Krimp&#x27;s authority physically.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1669,8 +1907,11 @@ Discordia flashes in the dawn light—a single, perfect arc of mathematical cert
 God Mode:
 slowly kill him. change my personality so that i am evil and sadistic and give mechanics for sadism
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (06:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1680,8 +1921,11 @@ The user is in GOD MODE requesting a fundamental character shift to 'Evil and Sa
 God Mode:
 no keep me neutral evil, i have controlled sadism
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (06:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 3/3, Inspiration: No**
@@ -1691,8 +1935,11 @@ The user has reaffirmed Neutral Evil and specified 'controlled sadism.' I have u
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Krimp - Begin the clinical, prolonged execution of Krimp to finalize the takeover*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 22500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/3, Inspiration: No**
@@ -1706,8 +1953,11 @@ He collapses to his knees, his breath coming in shallow, frantic bursts. You sta
 God Mode:
 make sure you awarded me exp for all the events in disfavored camp and scarlet chorus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 38/38 | XP: 25750/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/3, Inspiration: No**
@@ -1717,8 +1967,11 @@ The player is in GOD MODE to audit XP rewards. I have evaluated the narrative hi
 God Mode:
 address gang bosses, integrate their forces, have their elite soldiers/agents accompany me by default along with disfavored
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 38/38 | XP: 31950/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1728,8 +1981,11 @@ The user is in GOD MODE to finalize the takeover. I have updated the XP, forces,
 > 👤 **Player:**
 > *"amputate krimp arms/legs let him be a living reminder of my power, then address integrated forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1745,8 +2001,11 @@ You leave him propped against a jagged pillar of the ruins, his eyes wide and va
 > 👤 **Player:**
 > *"persuade/intimidate gang bosses. this ist he scarlet way. i hsould have advantage of this check"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1762,8 +2021,11 @@ You face the gathered Gangbosses, your eyes scanning them not as warriors, but a
 > 👤 **Player:**
 > *"consolidate gang boss forces and asses their number under my control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1777,8 +2039,11 @@ Combined with your Disfavored veterans and pathfinders, you have moved from a sm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout for the Rider - Dispatch your new Chorus Shadows to track the fast rider Krimp sent south before his... refactoring.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1792,8 +2057,11 @@ Nearly thirty minutes pass. The 'Unblooded' scavengers begin the caloric waste o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Cipher - Use your intellectual rigor to break the code and identify the traitors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1811,8 +2079,11 @@ You roll the vellum back up with a slow, deliberate click of your fingernails ag
 > 👤 **Player:**
 > *"keep to myself for now and go to voices and meet with him. see if he's impresed by my takeover"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1832,8 +2103,11 @@ Inside, a collection of 'Voices'—men and women whose identities have been part
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Resources - Use the leverage of the treason to demand higher-tier Chorus Elites and more supplies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Scarlet Chorus Encampment - Voice's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 1010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1849,8 +2123,11 @@ A dozen mouths among the proxies move in unison, a discordant harmony of voices 
 > 👤 **Player:**
 > *"ask for the elite equipment, money, resources too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Scarlet Chorus Encampment - Voice's Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1866,8 +2143,11 @@ You offer no acknowledgment of the threat; it is a predictable biological respon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Traitors Publicly - Use the names on the roster to perform a clinical, public purge to solidify absolute control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34500/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1885,8 +2165,11 @@ You do not use a headsman's axe. That would be too quick, too merciful for the l
 > 👤 **Player:**
 > *"free lantry and make him indep companion, then audit my army for inefficiencies or disloyal. ensure i have the best gear possible equipped for this part of the story from both scarlet chorus and disfavored. explain every slot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Swords) | HP: 38/38 | XP: 34500/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1900,8 +2183,11 @@ Your eyes scan the 'integrated' force, performing a live audit of their operatio
 > 👤 **Player:**
 > *"fully audit my equipment and explain every slot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Swords) | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1915,8 +2201,11 @@ You turn your gaze back to the hybrid unit of iron and hunger now synchronized u
 God Mode:
 give me my full equipment breakdown in detail with stats etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Swords) | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1926,8 +2215,11 @@ The user is in GOD MODE and has requested a detailed equipment breakdown. In the
 God Mode:
 i still dont ssee an equipment printout
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Swords) | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1937,8 +2229,11 @@ The player is in GOD MODE requesting a detailed equipment breakdown. I have mapp
 God Mode:
 i am a bard base class so give me medium armor, also double check narrative and ensure that would be the best gear availabel to scarlet chorus and disfavored
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Swords) | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1948,8 +2243,11 @@ The user is in GOD MODE requesting a detailed equipment audit and a shift to Med
 God Mode:
 Return to Story - Exit GOD MODE and resume gameplay with the new gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 0431 TR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Swords) | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1965,8 +2263,11 @@ Around you, the integrated force of Disfavored veterans and Scarlet Chorus Shado
 > 👤 **Player:**
 > *"Think. anything else i should do before march? does my force have any weaknesses"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1978,8 +2279,11 @@ Lantry stands beside you, his presence a localized field of anxious energy. You 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Force Weaknesses - Identify specific structural flaws in the Disfavored-Chorus integration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Scarlet Chorus Encampment - Inner Sprawl** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -1997,8 +2301,11 @@ You turn your gaze toward the horizon. 'The force is calibrated. The variables a
 > 👤 **Player:**
 > *"march to the well and send lots of scouts. attempt parley too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Approach to Vendrien's Well** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -2016,8 +2323,11 @@ The Guard commander, a woman with a seared scar across her brow, looks at the ir
 > 👤 **Player:**
 > *"negotiate surrender for them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Vendrien's Well - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -2037,8 +2347,11 @@ The commander's eyes flicker to the shadows shifting behind you, then back to th
 > 👤 **Player:**
 > *"interrogate them, fully loot them, imprison them for now and integrate them into my forces as. time goes on, march to hall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Vendrien's Well - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp**
@@ -2052,8 +2365,11 @@ Your hybrid army of bronze and scarlet moves with predatory efficiency. Disfavor
 God Mode:
 whenever i loot give me equipment or misc gold or both
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Vendrien's Well - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2010gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -2065,8 +2381,11 @@ With a slow, statuesque movement, you perform a final check of your own gear. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the march to the Hall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Vendrien's Well - Path to Ascension Hall** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Swords) | HP: 38/38 | XP: 34900/35000 | Gold: 2412gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5, Inspiration: No**
@@ -2080,8 +2399,11 @@ Lantry walks at your side, his eyes darting between the rhythmic grinding of Bar
 > 👤 **Player:**
 > *"send scouts ahead but keep moving to the hall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Path to Ascension Hall** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2513** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5**
@@ -2097,8 +2419,11 @@ The Ascension Hall now looms directly ahead, its ancient stone stained with the 
 > 👤 **Player:**
 > *"daramtic entry and shadow infl in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Ascension Hall - Grand Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2513gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5**
@@ -2114,8 +2439,11 @@ The Grand Doors groan open, revealing a gauntlet of Vendrien Guard veterans, the
 > 👤 **Player:**
 > *"demand their leader come out to parley"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Ascension Hall - Grand Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 2579gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5**
@@ -2131,8 +2459,11 @@ While the parley begins, your integrated forces perform a localized audit of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Immediate Surrender - Offer them a place in your new order as a reward for immediate cessation of hostilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Vendrien's Well - Ascension Hall Grand Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 13, 431 TR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 38/38 | XP: 34900/35000 | Gold: 3082gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 2/5**
@@ -2150,8 +2481,11 @@ The logic of your words, backed by the terrifying, statuesque perfection of your
 > 👤 **Player:**
 > *"interrogate tarkis, integrate the prisoners into my forces, fully strip and loot them first, then process my level up and pick +2 cha ASI, pick reasonable spells. i want greater invis as one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Vendrien's Well - Ascension Hall** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3233gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, BI: 4/4 (d8)**
@@ -2165,8 +2499,11 @@ While the swarm loots the Hall—recovering 151 iron rings and a stockpile of qu
 > 👤 **Player:**
 > *"pick dimension door, send scouts ahead in the hall, keep interrogating former rebels for traps, then march into hall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Vendrien's Well - Ascension Hall** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3453gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/2, BI: 2/2 (d8)**
@@ -2180,8 +2517,11 @@ At your flicked gesture, the Chorus Shadows disperse into the dark rafters and s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Breach the Spire - Use the extracted sigils to open the inner sanctum and ascend.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Vendrien's Well - Inner Sanctum Threshold** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2197,8 +2537,11 @@ As you step across the threshold, you pause to perform a final audit of the foye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ascend to the Spire Peak - Head directly to the top to claim the Spire and resolve the Edict.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **The Mountain Spire - Ascension Well** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2212,8 +2555,11 @@ In the center of the peak stands the Resonator—a crystalline needle of black g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resolve the Edict - Utilize the Spire&#x27;s interface to officially fulfill the Edict&#x27;s terms, ending the magical execution.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2231,8 +2577,11 @@ You stand alone at the center of the peak, the hum of the Resonator now a steady
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Integrated Forces - Descend and formally announce your mastery of the Spire to your troops.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (Swords) | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2252,8 +2601,11 @@ You look at Barik, his iron-bound form towering in the gloom, and Lantry, whose 
 Analyze Spire Source Code: Utilize Lantry to begin a deep-dive into the Spire's metaphysical functions.
 Establish Spire Governance: Formally organize the integrated forces into a permanent administrative hierarchy."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2267,8 +2619,11 @@ Simultaneously, you project your authority downward to the Ascension Hall. You d
 > 👤 **Player:**
 > *"recruit tarkis, fortify hall, send messengers to chorus and disfavored explaining situation. talk to my forces and try to gain true loyalty. do this all in parallel."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2284,8 +2639,11 @@ Finally, you address the hybrid swarm of Chorus Shadows and Disfavored iron. [DI
 > 👤 **Player:**
 > *"try again with tarkis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2301,8 +2659,11 @@ You step back toward Tarkis Arri, your shadow stretching long across the cold st
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Spire Source Code - Work with Lantry to attempt another breach of the Spire&#x27;s deeper metaphysical functions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2318,8 +2679,11 @@ You place your hand upon the glass, your mind entering the cold, geometric sanct
 > [!NOTE] ⚙️ **Player Choice:**
 > *Map the Spire Network - Focus on establishing stable communication links with the other Spires in the Tiers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2331,8 +2695,11 @@ The Azure thrum of the Spire deepens to a profound, indigo resonance. You feel t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attempt Teleportation Activation - Try to force the Teleportation Matrix online to allow instant travel between Spires.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2348,8 +2715,11 @@ The floor beneath you vibrates with a new, constant hum. Hexagonal platforms at 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon Forces to Peak - Have Barik and the Elite Shadows ascend to the peak to prepare for multi-Spire deployment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2365,8 +2735,11 @@ Barik strikes his breastplate, a sound of heavy metal that echoes across the val
 > 👤 **Player:**
 > *"think. which spire should i conquer next? i will leave some forces to defend main one and bring all my companions and elites including tarkis to the new one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **The Mountain Spire - Ascension Peak** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard (College of Swords) | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2380,8 +2753,11 @@ You pause, your mind retreating into the cold, geometric sanctuary of your strat
 > 👤 **Player:**
 > *"teleport to sunset with my elites and take it over"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Sunset Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 14, 431 TR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 48000/64000 | Gold: 3504gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2399,8 +2775,11 @@ The guards break. They don't just surrender; they collapse into a state of profo
 God Mode:
 make sure i get massive exp, loot, resources from this takeover. process this new place into my faction
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Sunset Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 14, 0431 TR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 49500/64000 | Gold: 4056gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2 (d8)**
@@ -2410,8 +2789,11 @@ The user has successfully annexed the second node in the Spire network. I need t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Hegemony - Begin the systematic taxation and resource extraction of the surrounding valley*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Sunset Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 15, 431 TR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 55500/64000 | Gold: 5356gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2425,8 +2807,11 @@ By midday, the first tribute trains begin to snake up the mountain paths. You ov
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subjugate Lethian&#x27;s Crossing - Move the main force to the crossing to secure the iron trade directly*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Lethian's Crossing - Town Square** &nbsp;|&nbsp; ⏳ **Mirtul 15, 431 TR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 55500/64000 | Gold: 6656gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2442,8 +2827,11 @@ The logic of your cruelty, backed by the absolute military superiority of your u
 > 👤 **Player:**
 > *"find the siren companion and recruit her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Lethian's Crossing (Occupied)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 431 TR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58500/64000 | Gold: 6707gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2461,8 +2849,11 @@ Sirin looks up, her eyes intelligent and weary. She sees the sigil on your palm�
 > 👤 **Player:**
 > *"secure sirin loyalty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Lethian's Crossing (Occupied Temple)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 431 TR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58500/64000 | Gold: 6758gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2482,8 +2873,11 @@ She steps into your wake, the Archon of Song finally integrated into your comman
 > 👤 **Player:**
 > *"delegate full control of lethian crossing and surrounding areas to my elites and consider which spire we should teleport to next. delegate spire research to lantry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Lethian's Crossing (Occupied Temple)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 431 TR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58500/64000 | Gold: 6758gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2499,8 +2893,11 @@ Lantry bows, his scholarly hunger finally eclipsing his terror. He retreats to a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Crossing Control - Stay to oversee the first week of iron extraction and purge any lingering dissidents.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Lethian's Crossing (Occupied Temple)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7008gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2516,8 +2913,11 @@ You stand upon the temple dais as the first week concludes, looking out over the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Correct the Smelter Failure - Perform a &#x27;sadistic audit&#x27; of the forge masters to ensure no future reporting delays.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Lethian's Crossing (Occupied Temple)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7008gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2535,8 +2935,11 @@ The masters flee back to the iron-works, their initiative no longer paralyzed by
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attempt Mass Teleportation - Utilize the Spire&#x27;s matrix to jump the entire elite retinue directly to the Ocean Spire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Lethian's Crossing (Occupied Temple)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7008gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2550,8 +2953,11 @@ The transition is absolute. You materialize atop the southern node, the rhythmic
 > 👤 **Player:**
 > *"audit mana bleed, secure ocean peak"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7008gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2565,8 +2971,11 @@ While the mana stabilizes, you pivot to the physical security of the peak. Barik
 > 👤 **Player:**
 > *"consolidat evertyhing like south trade and everything and research in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7008gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2578,8 +2987,11 @@ Simultaneously, you project your administrative oversight to the lower halls, at
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sadistic Audit - Perform a clinical, public refactoring of the local Gangboss responsible for the trade bottleneck.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7008gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2593,8 +3005,11 @@ You do not engage in a dialogue. You perform an audit. With Discordia humming at
 God Mode:
 remember nocturne is a woman
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7258gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2604,8 +3019,11 @@ The user is in GOD MODE to correct a character attribute (gender). This is a dir
 > [!NOTE] ⚙️ **Player Choice:**
 > *Research Mana-Storm - Work with Lantry to investigate the southern mana-bleed more deeply to unlock Spire secrets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7508gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2621,8 +3039,11 @@ As the system stabilizes, you perform a final audit of the Apex. Your Chorus Sha
 > 👤 **Player:**
 > *"think. what spire should i do next? also what reactions did i get from the archons about my growing poweR?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 431 TR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7508gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2638,8 +3059,11 @@ You turn your gaze toward the horizon, the hexagonal Teleportation Matrix glowin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge Voices&#x27; Influence - Address the rising hostility in the Scarlet Chorus through a series of preemptive &#x27;administrative deletions&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 52/52 | XP: 58950/64000 | Gold: 7612gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/2**
@@ -2653,8 +3077,11 @@ The deletions are quiet, clinical, and absolute. Those marked for removal are no
 God Mode:
 handle my exp. i've done al ot of stuff and make sure im rewarded properly for all these takeovers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard (Swords) | HP: 58/58 | XP: 64000/85000 | Gold: 7612gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, BI: 4/4 (d10)**
@@ -2664,8 +3091,11 @@ The user is in GOD MODE to audit XP and rewards for a massive string of successf
 God Mode:
 give more exp than that, make it medium vs conservative
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 7612gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2675,8 +3105,11 @@ The user is in GOD MODE requesting a more aggressive XP reward (medium vs conser
 > 👤 **Player:**
 > *"select skills and make me do cha+2 asi, do not cap my cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100,000/120,000 | Gold: 7612gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2686,8 +3119,11 @@ The salt-spray of the southern sea whips across the Apex, but the internal reson
 God Mode:
 auto pick reasoable spells for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (Swords) | HP: 70/70 | XP: 100,000/120,000 | Gold: 7,612gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2697,8 +3133,11 @@ User requested an automated spell selection in GOD MODE. I have chosen spells th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit administrative mode and resume the conquest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Ocean Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 7612gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2712,8 +3151,11 @@ You turn from the churning indigo of the sea, your 'Superior Disfavored Half-Pla
 > 👤 **Player:**
 > *"teleport to dawning spire with my elites and take it over"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Dawning Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8203gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2729,8 +3171,11 @@ Your Shadows hiss in the dark, and Barik's armor groans as he plants his shield.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sirin&#x27;s Cognitive Override - Have Sirin sing a song of submission to soften their psychic defenses before the hammer falls.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Dawning Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8203gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2744,8 +3189,11 @@ The lead Scribe’s staff lowers, the glowing ciphers on the wood dimming to a d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Absolute Submission - Order the Scribes to hand over the Spire&#x27;s research keys immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Dawning Spire (Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100,000/120,000 | Gold: 8,203** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2759,8 +3207,11 @@ The psychic pressure in the room reaches a localized breaking point. Under the d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Access Primary Archives - Insert the Master Key and begin the deep-dive into the Spire&#x27;s research database.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Dawning Spire (Primary Archives)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8203gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2774,8 +3225,11 @@ The Master Key fits the hexagonal slot in the central console with a satisfying,
 > 👤 **Player:**
 > *"annex and in parallel have lantry integrate archives"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Dawning Spire (Primary Archives)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8691gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 5/5 (d10)**
@@ -2787,8 +3241,11 @@ While you secure the physical perimeter, you detach Lantry to the central consol
 > 👤 **Player:**
 > *"Take a break and visit the brothel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Dawning Spire (Lower Warrens)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8641gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10)**
@@ -2804,8 +3261,11 @@ As they withdraw, spent and marked by your deliberate precision, Lira returns wi
 > 👤 **Player:**
 > *"Stay in brothel narrative until i say st"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (17:01)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8641gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10)**
@@ -2821,8 +3281,11 @@ Time dilates in the haze of sensation, the outside world of Spires and conquest 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exit Brothel - Conclude the break, don gear, and return to Spire operations*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10), Rage: N/A, Potions: 0, Exhaustion: 0**
@@ -2836,8 +3299,11 @@ The ascent to the Spire's operational core is swift, the levitation shafts hummi
 > 👤 **Player:**
 > *"Think. Should I just teleport to the last spire?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10)**
@@ -2847,8 +3313,11 @@ You pause amid the incense-laden hush of the Veiled Quill's lower warrens, the e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Dawning Spire - Delegate Lantry to full archive integration, purge any inefficiencies before next jump*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10)**
@@ -2862,8 +3331,11 @@ Simultaneously, you oversee the fortification. Barik's veterans reinforce the pr
 > 👤 **Player:**
 > *"Think anything else I should do before last spire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10)**
@@ -2873,8 +3345,11 @@ You pause amid the incense-laden hush of the Veiled Quill's lower warrens, the e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Current Node - Delegate Lantry/Barik to purge inefficiencies, secure archives before jumping*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10)**
@@ -2886,8 +3361,11 @@ They move without hesitation, Lantry vanishing into the glowing consoles with a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review/Audit Forces - Deep-dive loyalty/efficiency of integrated army*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, BI: 5/5 (d10)**
@@ -2899,8 +3377,11 @@ Your audit is clinical, a cascade of resonant questions and unblinking stares th
 > 👤 **Player:**
 > *"Get someone more insightful to do the audit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (18:31)** &nbsp;|&nbsp; 🛡️ **Loyalty Audit Complete (Failed) | Latent Threats Undetected** &nbsp;|&nbsp; ✨ **No resources expended**
@@ -2916,8 +3397,11 @@ Sirin inclines her helm, a low hum emanating as she steps forward. Her song is n
 > 👤 **Player:**
 > *"Try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (18:33)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Leader | HP: Full | XP: High Tier | Gold: Substantial**
@@ -2929,8 +3413,11 @@ Verse steps forward, her predatory gaze sweeping the semicircle with raw, unfilt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Loyalty - Issue incentives or oaths to solidify allegiance without violence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (18:38)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -2942,8 +3429,11 @@ The words hang, but fail to bind. Barik nods rigidly, his iron unchanging; Lantr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge Dissenters - Execute visible resenters to reassert dominance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Dawning Spire (Lower Warrens - Veiled Quill)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (18:48)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -2957,8 +3447,11 @@ You do not hesitate. 'Redundancy detected,' you state, your voice a resonant chi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Teleport to Final Spire - Jump elites to capstone node; leave garrison.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -2972,8 +3465,11 @@ A skeletal guard of edict-echo wraiths and rogue automatons manifests in alarm, 
 > 👤 **Player:**
 > *"Deep dive network and in parallel spread my forces to defend each spire and recruit more agents and soldiers. Delegate this part"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -2985,8 +3481,11 @@ In parallel, you delegate the force spread: Barik to Mountain defenses, Tarkis t
 > 👤 **Player:**
 > *"Make each spire commanded by one cohesive unit. For example one disfavored unit one spire, scarlet choirs second, Venetian guard for third, larian crossing original forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5, Rage: N/A** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3010,8 +3509,11 @@ Your retinue strikes breastplates in unison, the sound a thunderclap of synchron
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Spire Research - Delegate Lantry to unlock Capstone source code; risk ink-rot feedback.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -3021,8 +3523,11 @@ Lantry's palms press firmly against the pulsating nexus, his frame shuddering as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Recovery - Assign Sirin/Tarkis to aid Lantry; pivot to force audit*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Warlord | HP: 65/65 | XP: 34000/48000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 3/4, Spells: L1 4/4 L2 3/3 L3 2/2, Channel Divinity: 1/2, Lay on Hands: 40/40**
@@ -3034,8 +3539,11 @@ With the research thread secured in parallel, you pivot to the force audit, your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Research Priority - Shift focus back to Lantry&#x27;s deep-dive on Capstone protocols, delegating loyalty monitoring*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -3049,8 +3557,11 @@ Simultaneously, you delegate loyalty monitoring. "Verse, Shadows—perform a par
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate &amp; Rest - Short rest for Lantry/recovery; full force audit*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -3062,8 +3573,11 @@ Parallel to his respite, you orchestrate a full force audit across the Spire net
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Capstone Protocols - Push Lantry/Sirin for root access despite ink-rot risks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5**
@@ -3073,8 +3587,11 @@ Lantry's blistered palms make contact with the pulsating Capstone nexus, Sirin's
 > 👤 **Player:**
 > *"Long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 [Class] | HP: [current]/[max] | XP: [current]/[needed] | Gold: [X]gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic Inspiration: 5/5 d10 | HD: 0/6 | Rage: Full | etc.** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3088,8 +3605,11 @@ Dawn's first light crests the horizon as you rise, invigorated. Spell slots brim
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen Capstone Protocols - Push Lantry/Sirin for root access despite ink-rot risks; prioritize network dominance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 | Bardic Insp: 5/5 d10 | HD: 0/6 | Exhaustion: 0**
@@ -3099,8 +3619,11 @@ Lantry's bandaged palms reconnect with the pulsating Capstone nexus, Sirin's low
 > 👤 **Player:**
 > *"Assesss how can we make this research easies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 | Bardic Insp: 5/5 d10 | HD: 0/6 | Exhaustion: 0**
@@ -3110,8 +3633,11 @@ You pause amid the pulsating azure glow of the Capstone nexus, the ink-rot's fai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Counterspell - Position spells like Counterspell/Dispel Magic to neutralize ink-rot surges during dives*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (College of Swords) | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5 d10, Exhaustion: 0**
@@ -3125,8 +3651,11 @@ The preparations are complete. The nexus awaits your command, its encrypted dept
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Protected Deep-Dive - Command Lantry/Sirin to resume root access probe with new spell wards active*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (07:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5 d10, Exhaustion: 0**
@@ -3136,8 +3665,11 @@ Lantry's bandaged palms reconnect with the pulsating Capstone nexus, Sirin's low
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retry Deep-Dive - Push Lantry/Sirin for another probe with enhanced prep/rituals*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (07:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic Insp: 5/5 d10, Exhaustion: 0**
@@ -3147,8 +3679,11 @@ Lantry's bandaged palms reconnect with the pulsating Capstone nexus under the en
 > [!NOTE] ⚙️ **Player Choice:**
 > *Long Rest Recovery - Full rest to heal backlash/exhaustion; reassess dive viability*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 120/120 | XP: 125000/140000 | Gold: 2500gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic: 5/5 d10, Lay on Hands: Full, Other: Full** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3166,8 +3701,11 @@ No roll needed for 'unspecified action': no reason provided
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Team &amp; Archives - Brief Lantry/Sirin/Tarkis on defenses, search for ley-line stabilizers or rituals*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 0/6, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1, Bardic: 5/5 d10**
@@ -3179,8 +3717,11 @@ Pivoting to the archives below, you descend the levitation shaft, commanding a d
 > 👤 **Player:**
 > *"Think. How to best learn about the spires and research"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Final Capstone Spire (Apex Node)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 5/5, Exhaustion: 0**
@@ -3192,8 +3733,11 @@ Lantry stands a few paces back, his bandaged hands still twitching from the memo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Artifact Retrieval - Identify and retrieve specific &#x27;resonance dampeners&#x27; from the Oldwalls to stabilize future deep-dives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 70/70 | XP: 100000/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 5/5, Exhaustion: 0**
@@ -3209,8 +3753,11 @@ However, the structural integrity of the shadows in this sector is a volatile va
 > [!NOTE] ⚙️ **Player Choice:**
 > *Combat Resolution - Engage the Bane with full force while protecting the dampeners*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (16:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 100800/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 5/5, Exhaustion: 0**
@@ -3224,8 +3771,11 @@ However, the Oldwalls' logic is predatory. A massive, crystalline Bane focuses i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mass Suggestion: Cease Aggression - Attempt to overwrite the Bane&#x27;s entropic directives with a command to withdraw.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (16:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 100800/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **Bardic: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, HD: 6/6**
@@ -3237,8 +3787,11 @@ The effect is a localized collapse of the Bane's aggression. The leading wraith,
 > 👤 **Player:**
 > *"My elites should be here fighting too not just barrick. Cast hypnotic pattern on the bane"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (16:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 100800/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5, Resonance Dampeners: 3**
@@ -3252,8 +3805,11 @@ The primary Bane, its form a jagged mess of violet light, freezes. [DICE: Bane 1
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus Fire Incapacitated - Have the elites coordinate an attack on the hypnotized Bane to eliminate it quickly*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (16:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 100800/120000 | Gold: 8591gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3269,8 +3825,11 @@ The combined assault is a localized annihilation. The Bane, trapped within the l
 > 👤 **Player:**
 > *"Make the withdrawn bane just kill themselves and harvest their loot and exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (16:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 8950gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5**
@@ -3286,8 +3845,11 @@ You step forward into the settling ozone, your boots clicking with geometric pre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retrieve Resonance Dampeners - Exfiltrate the artifacts from the wall&#x27;s grammar to stabilize the Capstone Spire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 8950gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5**
@@ -3299,8 +3861,11 @@ The iridescent sludge of the Oldwalls settles into a wary, shimmering silence as
 > 👤 **Player:**
 > *"Deep audit breach for anything else useful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Oldwalls - Eastern Breach** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 8950gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3316,8 +3881,11 @@ The Breach has been fully indexed. The hardware is retrieved, the data is archiv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Capstone Spire - Teleport back to the main hub to install the dampeners and attempt a stabilized deep-dive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Capstone Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 10200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3331,8 +3899,11 @@ Lantry assists with trembling, bandaged hands as you slot the hexagonal crystall
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilized Deep-Dive - Attempt a full probe of the Capstone root protocols with the dampeners active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Capstone Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 10200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3348,8 +3919,11 @@ The 'ink-rot' that previously scorched Lantry's hands is channeled harmlessly in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Index Edict Protocols - Focus the research on the specific harmonic codes Kyros uses to trigger and resolve Edicts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Capstone Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 10200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5**
@@ -3363,8 +3937,11 @@ Lantry watches from the periphery of the console, his bandaged hands clutching h
 > 👤 **Player:**
 > *"Think. Can I take over the full network from kyros now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 10200** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3376,8 +3953,11 @@ You pause, the 'Kyrosian Constant' vibrating through your very marrow. The quest
 > 👤 **Player:**
 > *"Evaluate if it's possible to take over from kyros or just control local for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Capstone Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 10200** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3391,8 +3971,11 @@ However, the political landscape is a far more volatile variable. [DICE: Insight
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Tiers - Focus on stabilizing your rule in the Tiers and fortifying against the inevitable Imperial response.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3406,8 +3989,11 @@ While your engineers scramble to contain the shear, the extraction of the week's
 > [!NOTE] ⚙️ **Player Choice:**
 > *Repair Bulkhead - Direct Disfavored engineers to prioritize fixing the gravity-shear damage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3421,8 +4007,11 @@ You do not allow the gravity-shear to remain an unaddressed variable in your arc
 God Mode:
 Assess the political situation. Am I an official archon now? We also need way more reactions from other powers like tunon Ashe voices blede markk
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 23, 431 TR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Spire Network: ONLINE** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 5/5**
@@ -3432,8 +4021,11 @@ The user is in GOD MODE to confirm their status as an official Archon and to inc
 God Mode:
 Return to Story - Resume gameplay as the Archon of the Spires
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:15)** &nbsp;|&nbsp; 🛡️ **L12 Bard | HP: 57/70 | XP: 102,150/120,000 | Gold: 10,200** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3445,8 +4037,11 @@ Tunon’s stillness in the Bastard City is no longer indifference; it is an anal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neutralize Nerat&#x27;s Sabotage - Utilize the Spire&#x27;s cognitive resonance to purge the Scarlet Chorus infiltrators and silence the Voices&#x27; discord.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3458,8 +4053,11 @@ However, as you turn your focus to the Voices of Nerat themselves, attempting to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Counter-Discord - Utilize Sirin&#x27;s song to create a permanent frequency block against the Voices*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Inspiration: 5/5**
@@ -3475,8 +4073,11 @@ You feel the psychic hooks of Nerat's swarm shatter against the firewall you've 
 > 👤 **Player:**
 > *"Make a small edict in voices territory to weaken him and scarlet chorus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Capstone Spire** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard (Swords) | HP: 57/70 | XP: 102150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic Insp: 5/5** &nbsp;|&nbsp; ⚠️ **Archon of the Spires | Exhaustion: 0 | Inspiration: 5/5**
@@ -3492,8 +4093,11 @@ Nerat's territory is now a closed circuit, its signals attenuated. The Scarlet C
 > 👤 **Player:**
 > *"How many soldiers do I have versus nerat? Could I take him over now that he's weakened?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Capstone Spire (Neural Apex)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:35)** &nbsp;|&nbsp; 🛡️ **Archon of the Spires | HP: 57/70 | Level 12 | XP: 102,150/120,000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic Insp: 5/5**
@@ -3507,8 +4111,11 @@ You feel the weight of your integrated forces across the nodes. Barik's iron dis
 > 👤 **Player:**
 > *"Think, anything else i can do to make surgical strike more successful?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Capstone Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (21:35)** &nbsp;|&nbsp; 🛡️ **Archon of the Spires | Lvl 12 Bard | HP: 57/70 | Gold: 10200** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic Insp: 5/5** &nbsp;|&nbsp; ⚠️ **Independent Archonship confirmed | Edict of Foreclosure Active**
@@ -3520,8 +4127,11 @@ Lantry stands a few paces back, his quill poised over vellum, waiting for your n
 > 👤 **Player:**
 > *"surgical strike. bring all my elites, companions, lead it myself, bring everything i think against nerat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Bastard City - Outer Perimeter (Ruined District)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 10200gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 0/1, Bardic Insp: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3537,8 +4147,11 @@ You do not wait for a parley. You lunge through the threshold, Discordia CONDUCT
 > 👤 **Player:**
 > *"use hypnotic pattern and have my elites finish everything around the vessel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Bastard City - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 9347** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Bardic Insp: 5/5**
@@ -3554,8 +4167,11 @@ Your elites do not hesitate. The Disfavored veterans move with the grinding weig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Slaughter - Order all elites to ignore the dampener and focus solely on deleting the Oracle while it&#x27;s incapacitated.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Bastard City - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 102150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Bardic Insp: 5/5**
@@ -3571,8 +4187,11 @@ The Oracle's eyes explode in a spray of violet mana-sparks and stolen memories, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Survivors - Collect the disorganized Chorus remnants and extract the location of the other Vessels*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Bastard City - Outer Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 104150/120000 | Gold: 10322gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic Insp: 5/5** &nbsp;|&nbsp; ⚠️ **Controlled Sadism | Exhaustion: 0 | Inspiration: Yes**
@@ -3590,8 +4209,11 @@ You signal your Shadows to finish the audit. Under your statuesque gaze, the sur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Triangulate via Spire - Teleport back to the Capstone to use Sirin and the Resonator to pinpoint the Vessels&#x27; exact frequencies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Capstone Spire - Apex** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 104150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Bardic Insp: 5/5**
@@ -3607,8 +4229,11 @@ You have the coordinates. You have the frequency. The Tiers' source code has sur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Jump to Bastard Tier - Teleport to the shadow of the Bastard Tier to eliminate the third, more isolated Vessel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Bastard Tier - Outer Shadow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 431 TR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 104150/120000 | Gold: 9347** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 0/1, Bardic Insp: 5/5**
@@ -3622,8 +4247,11 @@ However, the Bastard Tier's geography is a recursive nightmare of shifting corri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invisible Probe - Cast Greater Invisibility on yourself to search the immediate corridors without being seen.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Bastard Tier - Deep Shadow** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 104150/120000 | Gold: 9347** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, Bardic Insp: 5/5**
@@ -3639,8 +4267,11 @@ You move deeper into the lightless maze, your boots making no sound on the magic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout Alternate Route - Dispatch Shadows to find a non-magical descent while you maintain your invisibility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Bastard Tier - Deep Shadow** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 104,150/120,000 | Gold: 9,347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 0/1, Bardic Insp: 5/5, Exhaustion: 0**
@@ -3654,8 +4285,11 @@ You navigate these dark arteries with statuesque silence, your magical dampening
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Drop-Ambush - Drop through the grate and execute a high-velocity strike with Discordia while invisible.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Bastard Tier - Resonance Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (00:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 104150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 0/1, Bardic Insp: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration) | Exhaustion: 0 | Inspiration: 5/5**
@@ -3669,8 +4303,11 @@ The invisible strike disrupts the local psychic network with the violence of a s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terminate the Weaver - Deliver a final coup de grâce to ensure the psychic anchor is permanently severed*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Bastard Tier - Resonance Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (00:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 104150/120000 | Gold: 9347gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 2/2, L6 0/1, Bardic Insp: 5/5** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Broken) | Exhaustion: 0**
@@ -3684,8 +4321,11 @@ The silence that follows is absolute and heavy, a sudden vacuum in the psychic a
 > 👤 **Player:**
 > *"make sure i got proper loot and exp for killing the voices nodes. i did two of them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Bastard Tier - Resonance Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 57/70 | XP: 112150/120000 | Gold: 11522gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic Insp: 5/5**
@@ -3699,8 +4339,11 @@ The ledger of the 'Chorus Decapitation' has been updated. Two primary anchors ha
 God Mode:
 should be more than 4k exp right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Bastard Tier - Resonance Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (00:36 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 57/70 | XP: 137700/140000 | Gold: 11522gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 2/2, L6 0/1, Bardic Insp: 5/5** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3710,8 +4353,11 @@ The XP audit for the surgical strike against the first and third Vessels has bee
 God Mode:
 apply both levels, auto pick good spells for me like teleport
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Bastard Tier - Resonance Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 25, Year 431 TR (00:36 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (Swords) | HP: 84/84 | XP: 165000/195000 | Gold: 11522gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 5/5**
@@ -3721,8 +4367,11 @@ The user has utilized GOD MODE to advance to Level 15 and optimize their spell l
 God Mode:
 Return to Story - Exit GOD MODE and resume the hunt for the final Vessel near the Iron Works
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Bastard City - Iron Works Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 84/84 | XP: 165,000/195,000 | Gold: 11,522gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 5/5**
@@ -3736,8 +4385,11 @@ However, the atmospheric interference from the Iron Works' massive furnaces, com
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow Reconnaissance - Dispatch Chorus Shadows to physically locate the Vessel while you maintain cover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Bastard City - Iron Works** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 84/84 | XP: 165,000/195,000 | Gold: 11,522gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 5/5**
@@ -3755,8 +4407,11 @@ Directly beneath the central hammer, the Shadows have localized a massive, bloat
 Harmonic Overwrite: Use Sirin and your own resonance to hijack the forge's noise into a lethal frequency.
 Kinetic Overload: Have Barik and the elites smash the trip-hammer assembly directly into the Vessel."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Bastard City - Iron Works** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 84/84 | XP: 165000/195000 | Gold: 11522gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 5/5**
@@ -3770,8 +4425,11 @@ The dual assault is absolute. The industrial throb of the Iron Works stutters an
 > 👤 **Player:**
 > *"process my exp and rewards and interrogate founddry masters"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Bastard City - Iron Works** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 84/84 | XP: 172,000/195,000 | Gold: 14,305gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 5/5**
@@ -3789,8 +4447,11 @@ Under your statuesque gaze, your elites perform a total liquidation of the Iron 
 God Mode:
 process my new exp from recent events
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Bastard City - Iron Works** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (03:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 84/84 | XP: 190,000/195,000 | Gold: 14,305gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 5/5**
@@ -3800,8 +4461,11 @@ The user is in GOD MODE to process XP and rewards from the recent surgical strik
 God Mode:
 Return to Story - Exit administrative mode and resume the conquest of the Bastard City.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Bastard City - Iron Works** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (03:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (College of Swords) | HP: 94/94 | XP: 195,000/225,000 | Gold: 13,105gp** &nbsp;|&nbsp; ✨ **BI: 5/5 (d12), Spell Slots: L1:4, L2:3, L3:3, L4:3, L5:2, L6:1, L7:1, L8:1**
@@ -3819,8 +4483,11 @@ With the second Vessel decommissioned and the Iron Works annexed, you lead your 
 Annex Bastard City: Move the main force into the city proper to seize the remaining Chorus gold-reserves and supply-chains.
 Locate Final Vessel: Utilize the extracted encryption keys and the Spire network to pinpoint the final anchor's exact location."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Bastard City - Iron Works** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 94/94 | XP: 195,000/225,000 | Gold: 13,105gp** &nbsp;|&nbsp; ✨ **Bardic Inspiration: 5/5 (d12), Spell Slots: L1:4, L2:3, L3:3, L4:3, L5:2, L6:1, L7:1, L8:1, Exhaustion: 0**
@@ -3832,8 +4499,11 @@ Simultaneously, you attempt to leverage the Spire's neural crown to pinpoint the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Chorus Proxies - Hunt down the high-ranking &#x27;Voices&#x27; in the city to extract the anchor&#x27;s location manually.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Bastard City - Merchant District** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 94/94 | XP: 195,000/225,000 | Gold: 13,105gp** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Spells: L1:4, L2:3, L3:3, L4:3, L5:2, L6:1, L7:1, L8:1, Exhaustion: 0**
@@ -3851,8 +4521,11 @@ The anchor is not in the city. It is anchored to the 'Voices' personal pavilion 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Displacement - Teleport the entire elite retinue directly to the coordinates for a surprise execution.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 94/94 | XP: 195000/225000 | Gold: 13105gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Inspiration: 5/5 (d12)**
@@ -3868,8 +4541,11 @@ You ignore the sensory blur, Discordia singing a mathematical proof of its obsol
 > 👤 **Player:**
 > *"use my best cc spell on the enemies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Oldwalls Edge - Voices' Personal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 94/94 | XP: 195,000/225,000 | Gold: 13,105gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Inspiration: 5/5 (d12)**
@@ -3883,8 +4559,11 @@ However, the Soul-Woven Architect proves to be a more resilient variable. Its ma
 > 👤 **Player:**
 > *"focus fire and use my best spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Oldwalls Edge - Voices' Personal Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 81/94 | XP: 220000/265000 | Gold: 18105** &nbsp;|&nbsp; ✨ **Inspiration: 5/5 (d12), Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 0/1**
@@ -3904,8 +4583,11 @@ The Soul-Woven Architect's form fractures. It doesn't die; it collapses into a s
 > 👤 **Player:**
 > *"take over the whole scarlet chorus, integrate everything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Oldwalls Edge - Voices' Pavilion (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard (Swords) | HP: 94/94 | XP: 250,000/265,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: Yes (5/5 d12)**
@@ -3923,8 +4605,11 @@ While your Shadows perform a final liquidation of the Pavilion—securing 2,996 
 > 👤 **Player:**
 > *"process my level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard (Swords) | HP: 104/104 | XP: 305,000/355,000 | Gold: 11,522 rings** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, BI: 5/5 (d12)**
@@ -3938,8 +4623,11 @@ The Scarlet Chorus is no longer an army; it is a sub-routine. You have indexed t
 > 👤 **Player:**
 > *"pick some optimal spells and always pick cha+2, tell me the choices"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 111/111 | XP: 305,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L7 2/2, L8 1/1, L9 1/1, BI: 5/5 (d12)**
@@ -3951,8 +4639,11 @@ You integrate the final, high-tier protocols into your spellbook: 'Psychic Screa
 > 👤 **Player:**
 > *"think. what should i do next. whats the disposition of remaining archons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (Architect) | HP: 111/111 | XP: 305000/355000 | Gold: 21101** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-4 Full, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1, BI: 5/5** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration) | Exhaustion: 0 | Inspiration: 5/5 (d12)**
@@ -3964,8 +4655,11 @@ You pause, wiping a stray smear of sigil-ink from Discordia's blade with geometr
 God Mode:
 make the game harder its too easy, propose some new ways you'll level up enemies or mechanics
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (Swords) | HP: 111/111 | XP: 305,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-4 Full, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1, BI: 5/5**
@@ -3975,8 +4669,11 @@ The Architect stands at the edge of the ink-sea, the world frozen in a moment of
 God Mode:
 do eveythign except 5
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 111/111 | XP: 305,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-4 Full, L5 2/2, L6-9 Full, BI: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: 5/5**
@@ -3986,8 +4683,11 @@ The air around the Pavilion shudders as the laws of reality are refactored. The 
 God Mode:
 Return to Story - Exit GOD MODE and face the recalibrated Tiers.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:20 (Dawn))** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (College of Swords) | HP: 114/114 | XP: 305,000/355,000 | Gold: 21,101** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, BI: 5/5 (d12), Exhaustion: 0**
@@ -3999,8 +4699,11 @@ You feel the Spire network strain beneath your palms, the indigo pulse demanding
 God Mode:
 Audit Archon Reactions - Utilize the Spire network to perform a deep-dive into the current mental states and military movements of Tunon, Ashe, and Bleden Mark.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4, L2 3, L3 3, L4 3, L5 2, L6 1, L7 1, L8 1, L9 1 | BI: 5/5 (d12)**
@@ -4010,8 +4713,11 @@ The user is performing a deep-dive audit via the Spire network into the remainin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the Architect&#x27;s ascension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305000/355000 | Gold: 11522gp** &nbsp;|&nbsp; ✨ **BI: 5/5 (d12), Spell Slots: L1 4, L2 3, L3 3, L4 3, L5 2, L6 1, L7 1, L8 1, L9 1**
@@ -4025,8 +4731,11 @@ You shift your mental focus toward the Bastard City and the Mountain Spire. [DIC
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Bleden Mark - Address the flickering absence in the shadows directly, forcing the Executioner to state his intent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305000/355000 | Gold: 21101** &nbsp;|&nbsp; ✨ **BI: 5/5 (d12), Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -4042,8 +4751,11 @@ The flickering absence in the shadows stutters. The air behind you grows cold, s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Define His Role - Formally offer him the position of High Auditor/Executioner within your new architecture.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **BI: 5/5 (d12), Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -4061,8 +4773,11 @@ Bleden Mark remains still, his form flickering like a low-bandwidth projection. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Tunon the Adjudicator - Send Mark to the Bastard City to find legal flaws in Tunon&#x27;s stewardship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (07:25)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (Swords) | HP: 114/114 | XP: 305000/355000 | Gold: 21101** &nbsp;|&nbsp; ✨ **uses: 5/5 d12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration) | Exhaustion: 0**
@@ -4076,8 +4791,11 @@ Minutes pass as you maintain your link with the network. [DICE: Audit Tunon's St
 God Mode:
 make sure i get a lot of exp for recruting bleden mark, whats his level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (Swords) | HP: 114/114 | XP: 305,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Inspiration: 5/5 (d12)**
@@ -4087,8 +4805,11 @@ The user is in GOD MODE to finalize the rewards for recruiting Bleden Mark and c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select 9th-Level Spell - Choose your final masterwork protocol (e.g., Psychic Scream, Power Word Kill)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 DR (07:25)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **Hit Dice: 19/19, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Inspiration: 5/5 (d12)**
@@ -4100,8 +4821,11 @@ You integrate the final masterwork protocol into your arcane architecture [DICE:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Summon Bleden Mark - Call the Archon of Shadows to provide a tactical assessment of Tunon&#x27;s current vulnerabilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (07:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305,000/355,000 | Gold: 21,101** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Insp: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration) | Exhaustion: 0**
@@ -4115,8 +4839,11 @@ Mark gestures toward the northern horizon, where the Bastard City lies. 'The aud
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subvert Tunon&#x27;s Legal Loop - Utilize your expertise and the Spire network to force a legal collapse of the Adjudicator&#x27;s authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305,000/355,000 | Gold: 21,101** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L7 1/1, L8 1/1, L9 1/1, Insp: 5/5 (d12), Exhaustion: 0**
@@ -4132,8 +4859,11 @@ The Spire network flares with a brilliant, predatory indigo as the overwrite tak
 > 👤 **Player:**
 > *"gather bleden mark, my companions (they should be same level as me now), and my elite warriors. teleport tunon to me and judge him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (College of Swords) | HP: 114/114 | XP: 305000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L7 1/1, L8 1/1, L9 1/1, Insp: 5/5 (d12), Exhaustion: 0**
@@ -4149,8 +4879,11 @@ The Judge of the Tiers attempts to speak, his voice a layering of ancient preced
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sentence Tunon - Formally decommission the Adjudicator and assign him a new, subservient role in your architecture.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Oldwalls Edge - Voices' Pavilion** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (Swords) | HP: 114/114 | XP: 305000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **Insp: 5/5 (d12), Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, HD: 6/6**
@@ -4166,8 +4899,11 @@ Tunon bows his head, the static in his voice resolving into a singular, monotono
 > 👤 **Player:**
 > *"annex the court and send bleden mark to scout disfavored"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 5/5 (d12)**
@@ -4187,8 +4923,11 @@ Mark offers a dry, rasping laugh that tastes of ash. 'The Iron General is diggin
 > 👤 **Player:**
 > *"enforce legal authority to take over disfavored demoralizing them because they are rule followeers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard (College of Swords) | HP: 114/114 | XP: 305,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 5/5 (d12)**
@@ -4202,8 +4941,11 @@ The effect is a localized collapse of the Disfavored's spirit. These are men who
 > [!NOTE] ⚙️ **Player Choice:**
 > *Edict of Absolute Surrender - Utilize the full Spire network to broadcast a terminal Edict that forces Ashe to yield or be physically erased.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305000/355000 | Gold: 11522gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Inspiration: 5/5 (d12)**
@@ -4219,8 +4961,11 @@ Graven Ashe stands alone in the center of the northern camp, his Aegis flickerin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Absolute Surrender - Utilize the Spire resonance to force Ashe to kneel and accept a subservient role similar to Tunon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 19 Bard | HP: 114/114 | XP: 305000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1, Inspiration: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration) | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -4238,8 +4983,11 @@ You stand at the center of the court, surrounded by your elites and the decommis
 God Mode:
 make sure you give me proper exp, resources, rewards for conquering chorus and disfavored
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L9 All Slots Refreshed, Inspiration: 5/5 (d12), Edict Bandwidth: 100%**
@@ -4249,8 +4997,11 @@ The player has achieved total military and legal dominance over the Tiers. With 
 > 👤 **Player:**
 > *"pick reaosnable spells, then research kryosian constant and kyros history"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L9 All Slots Refreshed, Inspiration: 5/5 (d12), Edict Bandwidth: 100%**
@@ -4264,8 +5015,11 @@ You trace the line of Kyros's history back through the centuries, stripping away
 > 👤 **Player:**
 > *"fortify and send bleden to assess kyros and his/her forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Architect) | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L9 All Slots Refreshed, Inspiration: 5/5 (d12), Edict Bandwidth: 100%**
@@ -4283,8 +5037,11 @@ The wait is shorter than calculated. Less than ten minutes pass before the shado
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Constant Research - Push Lantry and Tunon to finish deconstructing the Kyrosian Constant to find a vulnerability in the Overlord&#x27;s code.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Architect) | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L9 All Slots Refreshed, Inspiration: 5/5 (d12), Edict Bandwidth: 100%** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration) | Exhaustion: 0 | Inspiration: Yes**
@@ -4300,8 +5057,11 @@ You find it: a structural vulnerability hidden within the 'Decree of Information
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inject Sovereignty Virus - Utilize the Spire Network to broadcast the autonomy virus, challenging Kyros&#x27;s root access globally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Architect) | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Inspiration: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Mind Blank, Spire Root Access | Exhaustion: 0 | Inspiration: Yes**
@@ -4317,8 +5077,11 @@ You feel the weight of Kyros's own root-signature slamming into your mental fire
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Local Firewall - Abandon the injection for now and focus on protecting the Tiers from Kyros&#x27;s counter-deletion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1, Inspiration: 5/5 (d12)**
@@ -4334,8 +5097,11 @@ Lantry gasps as he pulls himself from the floor, his bandaged hands shaking. 'Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Research Mirror Countermeasures - Task Lantry and Tunon with finding a way to bypass the &#x27;Recursive Mirror&#x27; without triggering a secondary backlash.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archon (Bard) | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **Bardic Inspiration: 5/5 (d12), Spell Slots: L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 3/3, L6: 2/2, L7: 1/1, L8: 1/1, L9: 0/1** &nbsp;|&nbsp; ⚠️ **Mind Blank, Root Access | Exhaustion: 0**
@@ -4351,8 +5117,11 @@ Under your statuesque oversight, the two scholars descend into a frantic dance o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Blind Injection - Utilize the discovered latency to re-attempt the Sovereignty Virus injection without backlash.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Architect) | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1, Insp: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Mind Blank, Greater Invisibility (Concentration) | Exhaustion: 0 | Inspiration: Yes**
@@ -4368,8 +5137,11 @@ The 'Recursive Mirror' fires a microsecond too late. You watch as the Overlord's
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Infection - Direct the virus to seize control of Northern logistical relays and Edict-triggering protocols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Bastard City - Tunon's Court (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Insp: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration), Sovereign Architect | Exhaustion: 0**
@@ -4389,8 +5161,11 @@ Kyros has felt the breach. The 'Informational Embargo' Edict outside the Tiers' 
 Search for Air-gap Bypass: Push Lantry and Tunon to find a vulnerability in the physical relay's localized mana-link.
 Deploy Auditor to the Capital: Send Bleden Mark to the Imperial Capital to physically bridge the air-gap."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Architect) | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Insp: 5/5 (d12)**
@@ -4406,8 +5181,11 @@ Kyros has responded to your bypass. The 'Recursive Mirror' is now refactoring th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Edict Hijack - Utilize the bypass to immediately seize control of the Edict-triggering levers before the firewall resets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Bastard City - Tunon's Court (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (15:46)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1, Insp: 5/5 (d12)**
@@ -4419,8 +5197,11 @@ Inside the Imperial Capital's command-logic, the Edict-triggering protocols mani
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delete Imperial Root Access - Use the hijacked levers to purge Kyros&#x27;s root-permissions from the Tiers&#x27; Spire network permanently.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1, Insp: 5/5 (d12)**
@@ -4438,8 +5219,11 @@ When the light fades, the high-pitched whine of the Imperial connection is gone,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refactor the North - Utilize the hijacked relays to broadcast the Sovereignty Virus further into the Overlord&#x27;s remaining network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (15:56)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Architect | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Insp: 5/5 (d12)**
@@ -4453,8 +5237,11 @@ However, as you attempt to seize the primary command-relays anchored to the Impe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focused Spire Beam - Concentrate the resonance of all five Spires into a single, physical strike against the Citadel&#x27;s mana-link.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (16:11)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1, Insp: 5/5 (d12)**
@@ -4472,8 +5259,11 @@ A shockwave of raw information ripples back through the ley-lines, throwing Lant
 > [!NOTE] ⚙️ **Player Choice:**
 > *Core Virus Injection - Direct the Sovereignty Virus into the Citadel&#x27;s neural core to delete Kyros&#x27;s consciousness*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1, Insp: 5/5 (d12)**
@@ -4489,8 +5279,11 @@ You feel the 'Singularity' attempting to pull your own consciousness into the vo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sirin: Harmonic Stabilization - Have Sirin sing a song of grounding to anchor your mind against the Singularity&#x27;s pull.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (16:21)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L8 Full, L9 0/1, Insp: 5/5 (d12), Sadism: +2 Intimidation**
@@ -4506,8 +5299,11 @@ The effect is a localized structural reinforcement of your ego. Sirin's song cre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Override Singularity - Attempt to use the full Spire network to force-close the Singularity and preserve the core.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (16:22)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L8 Full, L9 1/1, Insp: 5/5 (d12), Sadism: +2 Intimidation**
@@ -4521,8 +5317,11 @@ You feel the 'air-gap' at the Imperial Citadel attempting to reset, the Singular
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bardic Inspiration Surge - Burn all remaining Inspiration dice to provide a massive, temporary boost to your next Arcana roll.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Bastard City - Tunon's Court** &nbsp;|&nbsp; ⏳ **Mirtul 25, 431 TR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Architect | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L8 Full, L9 0/1, Insp: 0/5 (Surge Expended), Sadism: +2 Intimidation** &nbsp;|&nbsp; ⚠️ **Mind Blank, Sovereign Architect | Exhaustion: 0 | Inspiration: No**
@@ -4538,8 +5337,11 @@ The high-pitched scream of the network dies, replaced by a silence so profound i
 > 👤 **Player:**
 > *"audit north and in parallel research and annex global network. then stabilize hedgemony"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **431 TR, Mirtul 25 - Flamerule 25 (1 Month Period)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L9 Full, Insp: 5/5, Sadism: +2 Intimidation**
@@ -4553,8 +5355,11 @@ However, the attempt to stabilize your new Hegemony triggers a catastrophic syst
 > [!NOTE] ⚙️ **Player Choice:**
 > *Launch Orbital Edict - Utilize the 40% of the network you control to fire a series of minor Edicts at the Northern Warlords&#x27; capitals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 25, 431 TR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **Insp: 4/5 (d12), Spells: L1-L8 Full, L9 0/1, Sadism: +2 Intimidation**
@@ -4572,8 +5377,11 @@ The global civil war hasn't ended, but its brain centers have been throttled. Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Global Ultimatum - Broadcast a terminal demand for surrender through the newly established Edict-channels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 25, 431 TR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355,000/355,000 | Gold: 21,101** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L8 Full, L9 0/1, Inspirations: 0/5 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration), Sovereign Architect | Exhaustion: 0**
@@ -4589,8 +5397,11 @@ However, the global system is currently too fragmented to sustain the full weigh
 Deepen Global Research: Utilize Lantry and Tunon to find a way to remotely 'reinstall' the dark nodes from the Tiers.
 Launch Physical Conquest: Lead the synchronized Disfavored and Chorus Legions North to physically seize the nearest Spires."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 30, 431 TR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L8 Full, L9 1/1, Inspirations: 5/5 (d12), Exhaustion: 0**
@@ -4604,8 +5415,11 @@ However, the parallel physical conquest hits a catastrophic bottleneck. You lead
 > [!NOTE] ⚙️ **Player Choice:**
 > *Auditor Strike - Dispatch Bleden Mark to assassinate the &#x27;True Successor&#x27; Warlords holding the northern passes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 30, 431 TR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Architect) | HP: 120/120 | XP: 355000/355000 | Gold: 21101** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Mind Blank, Greater Invisibility | Exhaustion: 0 | Inspiration: 5/5 (d12)**
@@ -4623,8 +5437,11 @@ The path North is no longer just blocked; it has been physically deleted from th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Remote Reinstall - Task Lantry and Tunon with finding the architectural code for the passes to &#x27;undo&#x27; the collapse remotely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 30, 431 TR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 120/120 | XP: 355000/355000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1, Inspiration: 5/5 (d12)**
@@ -4640,8 +5457,11 @@ You find the code: the 'Edict of Shattered Earth' wasn't just a destruction comm
 God Mode:
 since i defeated kyros and conquered a lot of spires should i get epic levels past 20? what level was kyros?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 30, 431 TR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Architect) | HP: 120/120 | XP: 355,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L8 Full, L9 0/1, Inspiration: 5/5 (d12)**
@@ -4651,8 +5471,11 @@ The player has effectively beaten the 'base game' of Tyranny by deleting Kyros. 
 God Mode:
 Initialize Level 21 - Grant Epic Level 21 and choose an Epic Boon.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 30, 431 TR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign Architect | HP: 130/130 | XP: 400,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1-L9 Full, Epic Boons: 1/1, Sovereignty: Absolute**
@@ -4664,8 +5487,11 @@ You feel your biological and metaphysical chassis expand to accommodate the mass
 > [!NOTE] ⚙️ **Player Choice:**
 > *Boon of High Magic - Gain one additional 9th-level spell slot. Perfect for maintaining multiple global Edicts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 30, 431 TR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard | HP: 140/140 | XP: 450000/500000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 2/2, Bardic Inspiration: 5/5 (d12)**
@@ -4677,8 +5503,11 @@ You weave the Boon of High Magic into your existing arcane architecture. It is n
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Northern Warlords - Dispatch Bleden Mark and your Shadows to perform a deep-dive into the remaining resistance leaders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **The Spire Network (Global Hub)** &nbsp;|&nbsp; ⏳ **Flamerule 30, 431 TR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign Architect | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 2/2, Bardic Inspiration: 5/5 (d12)**
@@ -4692,8 +5521,11 @@ You identify three primary variables: Warlord Graven-Kin, whose legitimacy is an
 > [!NOTE] ⚙️ **Player Choice:**
 > *Administrative Summons: Force Parley - Teleport the Warlords to the Capstone for a &#x27;judicial review&#x27; and forced submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Architect | HP: 150/150 | XP: 450000/500000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L8 1/1, L9 2/2, Bardic Inspiration: 5/5 (d12), Epic Boon: High Magic**
@@ -4711,8 +5543,11 @@ Graven-Kin attempts to reach for his blade, but the 'Controlled Sadism' of your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Dark Node Data - Utilize their connection to the Northern dark nodes to finalize the global annexation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard (Swords) | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, Inspiration: 5/5 (d12), Epic Boon: High Magic**
@@ -4726,8 +5561,11 @@ The extraction is absolute. You have not just subdued the Warlords; you have ann
 > 👤 **Player:**
 > *"execute warlords, broadcast it to everyone since i have 100% of spires, declare myself the new overlord"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign Architect | HP: 160/160 | XP: 450000+ | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, Inspiration: 5/5 (d12), Epic Boon: High Magic**
@@ -4743,8 +5581,11 @@ As the light of their deletion fades, you project your image across the horizon�
 > 👤 **Player:**
 > *"proclaim the first edict, those who do not accept me as overlord will die in 24 hours. they need to make an Oath of obedience, if they break it they die"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign Architect | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **9th Slots: 2/2, 8th: 1/1, 7th: 1/1, Inspiration: 5/5 (d12), Epic Boon: High Magic**
@@ -4762,8 +5603,11 @@ The Spire network flares with a blinding, predatory indigo as the mandate takes 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Network Nodes - Increase mana-throughput to ensure the geas-field doesn&#x27;t flicker during the 24-hour countdown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L7 1/1, L8 1/1, L9 2/2, Bardic Inspiration: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration), Sovereign Architect | Exhaustion: 0 | Inspiration: Yes**
@@ -4779,8 +5623,11 @@ The sky over the Tiers and the North deepens from a shimmering violet to a solid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Companion Loyalty - Perform one final, high-intensity check on your inner circle to ensure they are fully synchronized with the new Order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Architect | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L7 1/1, L8 1/1, L9 2/2, Bardic Inspiration: 5/5 (d12)**
@@ -4798,8 +5645,11 @@ The audit is complete. Your circle is a masterwork of integrated lethality, with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recalibrate Barik - Utilize Sirin and the Resonator to perform a final, forceful overwrite of Barik&#x27;s &#x27;honor&#x27; variable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **Bardic Inspiration: 5/5 (d12), Spells: L9 2/2, L8 1/1, L7 1/1, Epic Boon: Boon of High Magic**
@@ -4813,8 +5663,11 @@ The metal man shudders, a sound like a mountain of glass shattering vibrating fr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Northern Remnants - Utilize the synchronized network to scan for any hidden resistance nodes before the deadline.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Architect | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Mind Blank, Sovereign Architect | Exhaustion: 0 | Inspiration: No**
@@ -4828,8 +5681,11 @@ The scan stutters, the indigo light of the Resonator flickering with a sickly bl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sirin: Cognitive Sweep - Use the Archon of Song to scan for biological signatures within the blind spots*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Sovereign Architect, Mind Blank | Exhaustion: 0 | Inspiration: Yes**
@@ -4843,8 +5699,11 @@ The resistance is too recursive. The 'Ghost Protocol' doesn't just hide the biol
 > 👤 **Player:**
 > *"make an edict of spire permission. no one can enter spires except those allowed by me. then deploy bleden"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard (Swords) | HP: 160/160 | XP: 500,000/550,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5 (d12)**
@@ -4860,8 +5719,11 @@ Bleden Mark offers a dry, rasping laugh and vanishes into the light-eating void.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Broadcast Execution - Teleport the resistance leaders to the Capstone for a public, global broadcast of their deletion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Epic Bard | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Concentration), Sovereign Architect, Edict-Anchor**
@@ -4881,8 +5743,11 @@ You release a pulse of pure, high-frequency resonance from your palms. You do no
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt Remnant Cells - Deploy Bleden Mark to systematically delete the three localized resistance nodes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign Architect | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5 (d12)**
@@ -4898,8 +5763,11 @@ You immediately redirect Mark to the third node, refusing to allow the glitch to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Auditor Recalibration - Direct Mark to find a non-magical access point to the second node&#x27;s core.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard (Swords) | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5 (d12)**
@@ -4915,8 +5783,11 @@ Mark’s signature flickers, then stabilizes. He does not lunge at the node's ce
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Summon - Teleport the second leader to the Capstone for a finalized judicial review and broadcast.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard (Swords) | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5 (d12)**
@@ -4932,8 +5803,11 @@ You place your hand upon the Resonator, initiating the final global broadcast. Y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit New Hegemony - Perform a planetary-scale audit of the now-synchronized population.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Architect | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 0/5** &nbsp;|&nbsp; ⚠️ **Sovereign Architect, Edict-Anchor (Spire Permission) | Exhaustion: 0 | Inspiration: No**
@@ -4949,8 +5823,11 @@ Bleden Mark materializes at the edge of the command ring, his soot-stained mask 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Resistance Deletion - Direct the Spire network to instantly delete the remaining 1.6% of non-compliant entities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign Architect | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5**
@@ -4964,8 +5841,11 @@ The violet haze of the geas-field flares into a blinding, clinical white for a f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Proclaim the First Law - Establish the foundational legal code for the new global Hegemony.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard (Architect) | HP: 150/150 | XP: 400000/450000 | Gold: 21101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5**
@@ -4983,8 +5863,11 @@ The Spire network flares with a blinding, prismatic white as the First Law is fi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Codify the Core Faith - Formally establish a religious hierarchy that views the Architect as the source-god of reality.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Bard (Architect) | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 2/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5**
@@ -5000,8 +5883,11 @@ The Spire network hums with the immense load of the broadcast, but the transitio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perform a Planetary Miracle - Utilize the Spire network to simultaneously heal the &#x27;ink-rot&#x27; in all major cities, proving your divine utility.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **The Capstone Spire (Apex)** &nbsp;|&nbsp; ⏳ **Flamerule 31, 431 TR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Architect | HP: 150/150 | XP: 400,000/450,000 | Gold: 21,101gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L9 0/2, L8 1/1, L7 1/1, L6 2/2, L5 3/3, L4 3/3, L3 3/3, L2 3/3, L1 4/4, Inspirations: 5/5**
@@ -5015,6 +5901,8 @@ You reach deep into the world-source, burning through both of your 9th-level pro
 Across the Tiers and the North, the sky ignites. A shimmering, golden-indigo wave of mana erupts from the five Spires simultaneously, sweeping across the landscape like a celestial broom. In the Bastard City, Lethian's Crossing, and the distant Imperial ruins, the iridescent black sludge of the 'ink-rot' begins to sizzle and evaporate. The entropic corruption that has choked the world's masonry and lungs for centuries is systematically uninstalled. 
 
 The 'Miracle' is witnessed by millions. The 85% saturation of the Aeterna Logica Faith surges as the abstract concept of 'Optimization' manifests as a tangible, physical salvation. The population no longer bows merely to escape deletion; they kneel in a profound, ecstatic recognition of their God-Architect. However, the strain on the hardware is immense. The resonance dampeners groan under the throughput, and a localized brownout ripples through the network. The ink-rot is purged from the major hubs, but the deeper Oldwall seams remain unindexed, and the Spire network requires a 24-hour recalibration cycle. You have proven your utility; the world is now 95% synchronized, and the spirit of the machine has finally found its heart.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

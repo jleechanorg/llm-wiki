@@ -12,192 +12,208 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (171 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Bran | Setting: Game of thrones TV show. Play as Bran when he revisits winterfell. Let’s assume I take the lordship of winterfell after Sansa offers
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
-| **02** | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
-| **03** | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
-| **04** | Winterfell - Great Hall | 1 1, 300 DR (08:00) | Roleplay |
-| **05** | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
-| **06** | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
-| **07** | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
-| **08** | Winterfell - Great Hall | 1 1, 300 AC (08:10) | Skill Check / Combat |
-| **09** | Winterfell - Great Hall | 1 1, 300 AC (08:20) | Skill Check / Combat |
-| **10** | Winterfell - Great Hall | 1 1, 300 AC (08:30) | Skill Check / Combat |
-| **11** | Winterfell - Great Hall / Crypts | 1 1, 300 AC (09:30) | Skill Check / Combat |
-| **12** | Winterfell - Great Hall / Rookery | 1 1, 300 AC (10:00) | Skill Check / Combat |
-| **13** | Winterfell - Solar | 1 1, 300 AC (10:30) | Skill Check / Combat |
-| **14** | Winterfell - Solar | 1 1, 300 AC (10:50) | Skill Check / Combat |
-| **15** | Winterfell - Solar | 1 1, 300 AC (10:50) | Skill Check / Combat |
-| **16** | Winterfell - Solar | 1 1, 300 AC (11:50) | Skill Check / Combat |
-| **17** | Winterfell - Solar | 1 1, 300 AC (12:10) | Skill Check / Combat |
-| **18** | Winterfell - Great Hall | 1 1, 300 AC (12:45) | Skill Check / Combat |
-| **19** | Winterfell - Great Hall | 1 1, 300 AC (13:00) | Skill Check / Combat |
-| **20** | Winterfell - Great Hall | 1 1, 300 AC (13:15) | Skill Check / Combat |
-| **21** | Winterfell - Great Hall | 1 1, 300 AC (13:30) | Skill Check / Combat |
-| **22** | Winterfell - Great Hall | 1 1, 300 AC (13:30) | Roleplay |
-| **23** | Winterfell - Courtyard | 1 15, 300 AC (13:30) | Skill Check / Combat |
-| **24** | Winterfell - Solar | 1 15, 300 AC (14:15) | Skill Check / Combat |
-| **25** | Winterfell - Solar | 1 15, 300 AC (14:15) | Roleplay |
-| **26** | Winterfell - Solar | 1 15, 300 AC (14:15) | Roleplay |
-| **27** | Winterfell - Solar | 1 15, 300 AC (14:45) | Skill Check / Combat |
-| **28** | Winterfell - Solar | 1 15, 300 AC (15:15) | Skill Check / Combat |
-| **29** | Winterfell - Solar | 1 15, 300 AC (15:30) | Skill Check / Combat |
-| **30** | Winterfell - Solar | 1 15, 300 AC (15:40) | Skill Check / Combat |
-| **31** | Winterfell - Solar | 1 15, 300 AC (16:00) | Skill Check / Combat |
-| **32** | Winterfell - Solar | 1 15, 300 AC (16:15) | Skill Check / Combat |
-| **33** | Winterfell - Solar | 1 15, 300 AC (16:30) | Skill Check / Combat |
-| **34** | Winterfell - Solar | 1 15, 300 AC (17:30) | Skill Check / Combat |
-| **35** | Winterfell - Solar | 1 15, 300 AC (17:45) | Skill Check / Combat |
-| **36** | Winterfell - Great Hall | 1 15, 300 AC (18:15) | Skill Check / Combat |
-| **37** | Winterfell - Courtyard | 1 15, 300 AC (18:25) | Skill Check / Combat |
-| **38** | Winterfell - Courtyard | 1 15, 300 AC (18:35) | Skill Check / Combat |
-| **39** | Winterfell - Courtyard | 1 15, 300 AC (18:45) | Skill Check / Combat |
-| **40** | Winterfell - Great Hall | 1 15, 300 AC (19:00) | Skill Check / Combat |
-| **41** | Winterfell - Solar |  | Skill Check / Combat |
-| **42** | Winterfell - Solar |  | Skill Check / Combat |
-| **43** | Winterfell - Solar |  | Skill Check / Combat |
-| **44** | Winterfell - Solar |  | Roleplay |
-| **45** | Winterfell - Great Hall |  | Skill Check / Combat |
-| **46** | Winterfell - Great Hall |  | Skill Check / Combat |
-| **47** | Winterfell - Great Hall |  | Skill Check / Combat |
-| **48** | Winterfell - Great Hall | 2 3, 300 AC (10:00) | Roleplay |
-| **49** | Winterfell - Great Hall | 2 3, 300 AC (10:00) | Roleplay |
-| **50** | Winterfell - Perimeter | 2 3, 300 AC (14:00) | Skill Check / Combat |
-| **51** | Winterfell - Perimeter | 2 3, 300 AC (14:15) | Skill Check / Combat |
-| **52** | Winterfell - Perimeter |  | Roleplay |
-| **53** | Winterfell - Perimeter | 2 3, 300 AC (14:15) | Roleplay |
-| **54** | Winterfell - Perimeter | 2 3, 300 AC (14:15) | Roleplay |
-| **55** | Winterfell - Perimeter | 2 3, 300 DR (14:15) | Roleplay |
-| **56** | Winterfell - Perimeter (The Kill Zone) |  | Skill Check / Combat |
-| **57** | Winterfell - Perimeter (The Kill Zone) |  | Skill Check / Combat |
-| **58** | Winterfell - Perimeter (The Kill Zone) |  | Skill Check / Combat |
-| **59** | Winterfell - Great Hall |  | Skill Check / Combat |
-| **60** | Winterfell - Great Hall | 2 3, 300 DR (19:00) | Roleplay |
-| **61** | Winterfell - Lord's Solar | 2 3, 300 AC (20:00) | Skill Check / Combat |
-| **62** | Winterfell - Lord's Solar |  | Skill Check / Combat |
-| **63** | Winterfell - Lord's Solar | 2 3, 300 AC (22:00) | Roleplay |
-| **64** | Winterfell - Lord's Solar |  | Skill Check / Combat |
-| **65** | Winterfell - Lord's Solar | 2 3, 300 AC (22:15) | Skill Check / Combat |
-| **66** | Winterfell - Lord's Solar | 2 3, 300 AC (22:30) | Skill Check / Combat |
-| **67** | Winterfell - Lord's Solar |  | Skill Check / Combat |
-| **68** | Winterfell - Lord's Solar | 2 3, 300 AC (23:00) | Skill Check / Combat |
-| **69** | Winterfell - Lord's Solar | 2 3, 300 DR (23:00) | Roleplay |
-| **70** | The Kingsroad - South of the Neck |  | Skill Check / Combat |
-| **71** | The Kingsroad - South of the Neck |  | Skill Check / Combat |
-| **72** | The Kingsroad - South of the Neck |  | Skill Check / Combat |
-| **73** | Allied Camp - Outskirts of King's Landing |  | Skill Check / Combat |
-| **74** | King's Landing - The Iron Throne Room |  | Skill Check / Combat |
-| **75** | King's Landing - Queen's Solar |  | Skill Check / Combat |
-| **76** | King's Landing - Queen's Solar |  | Skill Check / Combat |
-| **77** | King's Landing - Queen's Solar | 3 6, 300 AC (19:00) | Roleplay |
-| **78** | King's Landing - Red Keep |  | Skill Check / Combat |
-| **79** | King's Landing - Red Keep Gardens |  | Skill Check / Combat |
-| **80** | King's Landing - Red Keep Solar |  | Skill Check / Combat |
-| **81** | King's Landing - Red Keep Solar |  | Skill Check / Combat |
-| **82** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **83** | King's Landing - The Red Keep | 3 27, 300 AC (12:00) | Roleplay |
-| **84** | King's Landing - The Red Keep | 3 27, 300 AC (12:00) | Roleplay |
-| **85** | King's Landing - The Red Keep | 3 27, 300 AC (18:00) | Skill Check / Combat |
-| **86** | Winterfell - The Great Hall |  | Skill Check / Combat |
-| **87** | Winterfell - The Great Hall | 4 1, 300 AC (10:00) | Roleplay |
-| **88** | Winterfell - The Great Hall | 4 1, 300 AC (10:00) | Roleplay |
-| **89** | Winterfell - The Outer Gates |  | Skill Check / Combat |
-| **90** | Winterfell - The Outer Gates | 4 21, 300 DR (12:00) | Roleplay |
-| **91** | Winterfell - The Great Hall / Courtyard |  | Skill Check / Combat |
-| **92** | Winterfell - The Great Hall / Courtyard | 4 21, 300 AC (17:00) | Skill Check / Combat |
-| **93** | Winterfell - The Great Hall / Courtyard | 4 21, 300 AC (17:00) | Roleplay |
-| **94** | Winterfell - The Great Hall / Courtyard | 4 21, 300 AC (17:00) | Roleplay |
-| **95** | Winterfell - The Great Hall / Courtyard | 4 22, 300 AC (08:00) | Skill Check / Combat |
-| **96** | Winterfell - The Great Hall / Courtyard | 4 23, 300 AC (08:00) | Skill Check / Combat |
-| **97** | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (10:00) | Skill Check / Combat |
-| **98** | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (10:00) | Roleplay |
-| **99** | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (10:00) | Roleplay |
-| **100** | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (11:00) | Skill Check / Combat |
-| **101** | Winterfell - The Obsidian Courtyard |  | Skill Check / Combat |
-| **102** | Winterfell - The Senate Amphitheater |  | Skill Check / Combat |
-| **103** | Winterfell - The Senate Amphitheater |  | Skill Check / Combat |
-| **104** | Winterfell - The Senate Amphitheater | 1 10, 301 AC (12:00) | Roleplay |
-| **105** | Winterfell - The Senate Amphitheater | 1 10, 301 AC (14:00) | Skill Check / Combat |
-| **106** | Winterfell - The Library of Time |  | Skill Check / Combat |
-| **107** | Winterfell - The Library of Time | 2 21, 301 AC (10:00) | Skill Check / Combat |
-| **108** | Winterfell - The Library of Time | 2 21, 301 AC (10:00) | Roleplay |
-| **109** | Winterfell - The Library of Time |  | Skill Check / Combat |
-| **110** | Winterfell - The Library of Time | 2 21, 301 AC (12:00) | Skill Check / Combat |
-| **111** | Winterfell - The Godswood |  | Skill Check / Combat |
-| **112** | Winterfell - The Godswood |  | Skill Check / Combat |
-| **113** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **114** | King's Landing - The Red Keep | 3 7, 301 DR (10:00) | Roleplay |
-| **115** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **116** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **117** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **118** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **119** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **120** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **121** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **122** | Coastal Village near Lannisport |  | Skill Check / Combat |
-| **123** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **124** | King's Landing - The Red Keep | 3 22, 301 DR (18:00) | Roleplay |
-| **125** | King's Landing - The Red Keep |  | Skill Check / Combat |
-| **126** | Winterfell - The Silver Citadel |  | Skill Check / Combat |
-| **127** | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
-| **128** | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
-| **129** | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
-| **130** | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
-| **131** | Winterfell - The Silver Citadel | 4 12, 302 AC (13:00) | Skill Check / Combat |
-| **132** | Winterfell - The Silver Citadel | 4 12, 302 AC (16:00) | Skill Check / Combat |
-| **133** | Winterfell - The Crypts | 4 12, 302 AC (16:00) | Skill Check / Combat |
-| **134** | Winterfell - The Great Hall of the Senate | 4 15, 302 AC (10:00) | Skill Check / Combat |
-| **135** | Winterfell - The Great Hall of the Senate | 4 15, 302 AC (10:30) | Skill Check / Combat |
-| **136** | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Skill Check / Combat |
-| **137** | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
-| **138** | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
-| **139** | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
-| **140** | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
-| **141** | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
-| **142** | Winterfell - The Godswood | 5 27, 302 AC (10:30) | Skill Check / Combat |
-| **143** | Winterfell - The Godswood | 5 27, 302 AC (11:30) | Skill Check / Combat |
-| **144** | Winterfell - The Godswood | 5 27, 302 AC (11:35) | Skill Check / Combat |
-| **145** | Winterfell - The Godswood | 5 30, 302 AC (11:35) | Skill Check / Combat |
-| **146** | Winterfell - The Godswood | 5 30, 302 AC (11:35) | Skill Check / Combat |
-| **147** | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
-| **148** | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
-| **149** | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
-| **150** | Far North - The White Eye | 5 30, 302 AC (16:30) | Social Challenge |
-| **151** | Far North - The White Eye | 5 30, 302 AC (16:30) | Social Challenge |
-| **152** | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
-| **153** | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
-| **154** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **155** | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
-| **156** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **157** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **158** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **159** | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
-| **160** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **161** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **162** | Far North - The White Eye | 5 30, 302 DR (16:30) | Roleplay |
-| **163** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **164** | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
-| **165** | Far North - The White Eye | 5 30, 302 AC (16:40) | Roleplay |
-| **166** | Far North - The White Eye | 5 30, 302 AC (16:40) | Skill Check / Combat |
-| **167** | Far North - The White Eye | 5 30, 302 AC (16:40) | Roleplay |
-| **168** | Far North - The White Eye | 5 30, 302 AC (16:40) | Roleplay |
-| **169** | Far North - The White Eye | 5 30, 302 AC (16:50) | Skill Check / Combat |
-| **170** | Far North - The White Eye | 5 30, 302 AC (16:50) | Roleplay |
-| **171** | Far North - The White Eye / Winterfell | 5 30, 302 AC (17:00) | Roleplay |
+| [**Scene 01**](#scene-1) | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Winterfell - Great Hall | 1 1, 300 DR (08:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Winterfell - Great Hall | 1 1, 300 AC (08:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Winterfell - Great Hall | 1 1, 300 AC (08:10) | Skill Check / Combat |
+| [**Scene 09**](#scene-9) | Winterfell - Great Hall | 1 1, 300 AC (08:20) | Skill Check / Combat |
+| [**Scene 10**](#scene-10) | Winterfell - Great Hall | 1 1, 300 AC (08:30) | Skill Check / Combat |
+| [**Scene 11**](#scene-11) | Winterfell - Great Hall / Crypts | 1 1, 300 AC (09:30) | Skill Check / Combat |
+| [**Scene 12**](#scene-12) | Winterfell - Great Hall / Rookery | 1 1, 300 AC (10:00) | Skill Check / Combat |
+| [**Scene 13**](#scene-13) | Winterfell - Solar | 1 1, 300 AC (10:30) | Skill Check / Combat |
+| [**Scene 14**](#scene-14) | Winterfell - Solar | 1 1, 300 AC (10:50) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | Winterfell - Solar | 1 1, 300 AC (10:50) | Skill Check / Combat |
+| [**Scene 16**](#scene-16) | Winterfell - Solar | 1 1, 300 AC (11:50) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | Winterfell - Solar | 1 1, 300 AC (12:10) | Skill Check / Combat |
+| [**Scene 18**](#scene-18) | Winterfell - Great Hall | 1 1, 300 AC (12:45) | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | Winterfell - Great Hall | 1 1, 300 AC (13:00) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | Winterfell - Great Hall | 1 1, 300 AC (13:15) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | Winterfell - Great Hall | 1 1, 300 AC (13:30) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | Winterfell - Great Hall | 1 1, 300 AC (13:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Winterfell - Courtyard | 1 15, 300 AC (13:30) | Skill Check / Combat |
+| [**Scene 24**](#scene-24) | Winterfell - Solar | 1 15, 300 AC (14:15) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | Winterfell - Solar | 1 15, 300 AC (14:15) | Roleplay |
+| [**Scene 26**](#scene-26) | Winterfell - Solar | 1 15, 300 AC (14:15) | Roleplay |
+| [**Scene 27**](#scene-27) | Winterfell - Solar | 1 15, 300 AC (14:45) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Winterfell - Solar | 1 15, 300 AC (15:15) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Winterfell - Solar | 1 15, 300 AC (15:30) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | Winterfell - Solar | 1 15, 300 AC (15:40) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | Winterfell - Solar | 1 15, 300 AC (16:00) | Skill Check / Combat |
+| [**Scene 32**](#scene-32) | Winterfell - Solar | 1 15, 300 AC (16:15) | Skill Check / Combat |
+| [**Scene 33**](#scene-33) | Winterfell - Solar | 1 15, 300 AC (16:30) | Skill Check / Combat |
+| [**Scene 34**](#scene-34) | Winterfell - Solar | 1 15, 300 AC (17:30) | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | Winterfell - Solar | 1 15, 300 AC (17:45) | Skill Check / Combat |
+| [**Scene 36**](#scene-36) | Winterfell - Great Hall | 1 15, 300 AC (18:15) | Skill Check / Combat |
+| [**Scene 37**](#scene-37) | Winterfell - Courtyard | 1 15, 300 AC (18:25) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | Winterfell - Courtyard | 1 15, 300 AC (18:35) | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | Winterfell - Courtyard | 1 15, 300 AC (18:45) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | Winterfell - Great Hall | 1 15, 300 AC (19:00) | Skill Check / Combat |
+| [**Scene 41**](#scene-41) | Winterfell - Solar |  | Skill Check / Combat |
+| [**Scene 42**](#scene-42) | Winterfell - Solar |  | Skill Check / Combat |
+| [**Scene 43**](#scene-43) | Winterfell - Solar |  | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | Winterfell - Solar |  | Roleplay |
+| [**Scene 45**](#scene-45) | Winterfell - Great Hall |  | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | Winterfell - Great Hall |  | Skill Check / Combat |
+| [**Scene 47**](#scene-47) | Winterfell - Great Hall |  | Skill Check / Combat |
+| [**Scene 48**](#scene-48) | Winterfell - Great Hall | 2 3, 300 AC (10:00) | Roleplay |
+| [**Scene 49**](#scene-49) | Winterfell - Great Hall | 2 3, 300 AC (10:00) | Roleplay |
+| [**Scene 50**](#scene-50) | Winterfell - Perimeter | 2 3, 300 AC (14:00) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | Winterfell - Perimeter | 2 3, 300 AC (14:15) | Skill Check / Combat |
+| [**Scene 52**](#scene-52) | Winterfell - Perimeter |  | Roleplay |
+| [**Scene 53**](#scene-53) | Winterfell - Perimeter | 2 3, 300 AC (14:15) | Roleplay |
+| [**Scene 54**](#scene-54) | Winterfell - Perimeter | 2 3, 300 AC (14:15) | Roleplay |
+| [**Scene 55**](#scene-55) | Winterfell - Perimeter | 2 3, 300 DR (14:15) | Roleplay |
+| [**Scene 56**](#scene-56) | Winterfell - Perimeter (The Kill Zone) |  | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | Winterfell - Perimeter (The Kill Zone) |  | Skill Check / Combat |
+| [**Scene 58**](#scene-58) | Winterfell - Perimeter (The Kill Zone) |  | Skill Check / Combat |
+| [**Scene 59**](#scene-59) | Winterfell - Great Hall |  | Skill Check / Combat |
+| [**Scene 60**](#scene-60) | Winterfell - Great Hall | 2 3, 300 DR (19:00) | Roleplay |
+| [**Scene 61**](#scene-61) | Winterfell - Lord's Solar | 2 3, 300 AC (20:00) | Skill Check / Combat |
+| [**Scene 62**](#scene-62) | Winterfell - Lord's Solar |  | Skill Check / Combat |
+| [**Scene 63**](#scene-63) | Winterfell - Lord's Solar | 2 3, 300 AC (22:00) | Roleplay |
+| [**Scene 64**](#scene-64) | Winterfell - Lord's Solar |  | Skill Check / Combat |
+| [**Scene 65**](#scene-65) | Winterfell - Lord's Solar | 2 3, 300 AC (22:15) | Skill Check / Combat |
+| [**Scene 66**](#scene-66) | Winterfell - Lord's Solar | 2 3, 300 AC (22:30) | Skill Check / Combat |
+| [**Scene 67**](#scene-67) | Winterfell - Lord's Solar |  | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | Winterfell - Lord's Solar | 2 3, 300 AC (23:00) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | Winterfell - Lord's Solar | 2 3, 300 DR (23:00) | Roleplay |
+| [**Scene 70**](#scene-70) | The Kingsroad - South of the Neck |  | Skill Check / Combat |
+| [**Scene 71**](#scene-71) | The Kingsroad - South of the Neck |  | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | The Kingsroad - South of the Neck |  | Skill Check / Combat |
+| [**Scene 73**](#scene-73) | Allied Camp - Outskirts of King's Landing |  | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | King's Landing - The Iron Throne Room |  | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | King's Landing - Queen's Solar |  | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | King's Landing - Queen's Solar |  | Skill Check / Combat |
+| [**Scene 77**](#scene-77) | King's Landing - Queen's Solar | 3 6, 300 AC (19:00) | Roleplay |
+| [**Scene 78**](#scene-78) | King's Landing - Red Keep |  | Skill Check / Combat |
+| [**Scene 79**](#scene-79) | King's Landing - Red Keep Gardens |  | Skill Check / Combat |
+| [**Scene 80**](#scene-80) | King's Landing - Red Keep Solar |  | Skill Check / Combat |
+| [**Scene 81**](#scene-81) | King's Landing - Red Keep Solar |  | Skill Check / Combat |
+| [**Scene 82**](#scene-82) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 83**](#scene-83) | King's Landing - The Red Keep | 3 27, 300 AC (12:00) | Roleplay |
+| [**Scene 84**](#scene-84) | King's Landing - The Red Keep | 3 27, 300 AC (12:00) | Roleplay |
+| [**Scene 85**](#scene-85) | King's Landing - The Red Keep | 3 27, 300 AC (18:00) | Skill Check / Combat |
+| [**Scene 86**](#scene-86) | Winterfell - The Great Hall |  | Skill Check / Combat |
+| [**Scene 87**](#scene-87) | Winterfell - The Great Hall | 4 1, 300 AC (10:00) | Roleplay |
+| [**Scene 88**](#scene-88) | Winterfell - The Great Hall | 4 1, 300 AC (10:00) | Roleplay |
+| [**Scene 89**](#scene-89) | Winterfell - The Outer Gates |  | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Winterfell - The Outer Gates | 4 21, 300 DR (12:00) | Roleplay |
+| [**Scene 91**](#scene-91) | Winterfell - The Great Hall / Courtyard |  | Skill Check / Combat |
+| [**Scene 92**](#scene-92) | Winterfell - The Great Hall / Courtyard | 4 21, 300 AC (17:00) | Skill Check / Combat |
+| [**Scene 93**](#scene-93) | Winterfell - The Great Hall / Courtyard | 4 21, 300 AC (17:00) | Roleplay |
+| [**Scene 94**](#scene-94) | Winterfell - The Great Hall / Courtyard | 4 21, 300 AC (17:00) | Roleplay |
+| [**Scene 95**](#scene-95) | Winterfell - The Great Hall / Courtyard | 4 22, 300 AC (08:00) | Skill Check / Combat |
+| [**Scene 96**](#scene-96) | Winterfell - The Great Hall / Courtyard | 4 23, 300 AC (08:00) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (10:00) | Skill Check / Combat |
+| [**Scene 98**](#scene-98) | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (10:00) | Roleplay |
+| [**Scene 99**](#scene-99) | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (10:00) | Roleplay |
+| [**Scene 100**](#scene-100) | Winterfell - The Great Hall of the Senate | 8 23, 300 AC (11:00) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Winterfell - The Obsidian Courtyard |  | Skill Check / Combat |
+| [**Scene 102**](#scene-102) | Winterfell - The Senate Amphitheater |  | Skill Check / Combat |
+| [**Scene 103**](#scene-103) | Winterfell - The Senate Amphitheater |  | Skill Check / Combat |
+| [**Scene 104**](#scene-104) | Winterfell - The Senate Amphitheater | 1 10, 301 AC (12:00) | Roleplay |
+| [**Scene 105**](#scene-105) | Winterfell - The Senate Amphitheater | 1 10, 301 AC (14:00) | Skill Check / Combat |
+| [**Scene 106**](#scene-106) | Winterfell - The Library of Time |  | Skill Check / Combat |
+| [**Scene 107**](#scene-107) | Winterfell - The Library of Time | 2 21, 301 AC (10:00) | Skill Check / Combat |
+| [**Scene 108**](#scene-108) | Winterfell - The Library of Time | 2 21, 301 AC (10:00) | Roleplay |
+| [**Scene 109**](#scene-109) | Winterfell - The Library of Time |  | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Winterfell - The Library of Time | 2 21, 301 AC (12:00) | Skill Check / Combat |
+| [**Scene 111**](#scene-111) | Winterfell - The Godswood |  | Skill Check / Combat |
+| [**Scene 112**](#scene-112) | Winterfell - The Godswood |  | Skill Check / Combat |
+| [**Scene 113**](#scene-113) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 114**](#scene-114) | King's Landing - The Red Keep | 3 7, 301 DR (10:00) | Roleplay |
+| [**Scene 115**](#scene-115) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 117**](#scene-117) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 120**](#scene-120) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 121**](#scene-121) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 122**](#scene-122) | Coastal Village near Lannisport |  | Skill Check / Combat |
+| [**Scene 123**](#scene-123) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 124**](#scene-124) | King's Landing - The Red Keep | 3 22, 301 DR (18:00) | Roleplay |
+| [**Scene 125**](#scene-125) | King's Landing - The Red Keep |  | Skill Check / Combat |
+| [**Scene 126**](#scene-126) | Winterfell - The Silver Citadel |  | Skill Check / Combat |
+| [**Scene 127**](#scene-127) | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
+| [**Scene 128**](#scene-128) | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
+| [**Scene 129**](#scene-129) | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Winterfell - The Silver Citadel | 4 12, 302 AC (09:00) | Roleplay |
+| [**Scene 131**](#scene-131) | Winterfell - The Silver Citadel | 4 12, 302 AC (13:00) | Skill Check / Combat |
+| [**Scene 132**](#scene-132) | Winterfell - The Silver Citadel | 4 12, 302 AC (16:00) | Skill Check / Combat |
+| [**Scene 133**](#scene-133) | Winterfell - The Crypts | 4 12, 302 AC (16:00) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Winterfell - The Great Hall of the Senate | 4 15, 302 AC (10:00) | Skill Check / Combat |
+| [**Scene 135**](#scene-135) | Winterfell - The Great Hall of the Senate | 4 15, 302 AC (10:30) | Skill Check / Combat |
+| [**Scene 136**](#scene-136) | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Skill Check / Combat |
+| [**Scene 137**](#scene-137) | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
+| [**Scene 138**](#scene-138) | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
+| [**Scene 139**](#scene-139) | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
+| [**Scene 140**](#scene-140) | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
+| [**Scene 141**](#scene-141) | Winterfell - The Silver Citadel | 5 6, 302 AC (10:30) | Roleplay |
+| [**Scene 142**](#scene-142) | Winterfell - The Godswood | 5 27, 302 AC (10:30) | Skill Check / Combat |
+| [**Scene 143**](#scene-143) | Winterfell - The Godswood | 5 27, 302 AC (11:30) | Skill Check / Combat |
+| [**Scene 144**](#scene-144) | Winterfell - The Godswood | 5 27, 302 AC (11:35) | Skill Check / Combat |
+| [**Scene 145**](#scene-145) | Winterfell - The Godswood | 5 30, 302 AC (11:35) | Skill Check / Combat |
+| [**Scene 146**](#scene-146) | Winterfell - The Godswood | 5 30, 302 AC (11:35) | Skill Check / Combat |
+| [**Scene 147**](#scene-147) | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
+| [**Scene 148**](#scene-148) | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
+| [**Scene 149**](#scene-149) | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
+| [**Scene 150**](#scene-150) | Far North - The White Eye | 5 30, 302 AC (16:30) | Social Challenge |
+| [**Scene 151**](#scene-151) | Far North - The White Eye | 5 30, 302 AC (16:30) | Social Challenge |
+| [**Scene 152**](#scene-152) | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
+| [**Scene 153**](#scene-153) | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
+| [**Scene 154**](#scene-154) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 155**](#scene-155) | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
+| [**Scene 156**](#scene-156) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 157**](#scene-157) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 158**](#scene-158) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 159**](#scene-159) | Far North - The White Eye | 5 30, 302 AC (16:30) | Skill Check / Combat |
+| [**Scene 160**](#scene-160) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 161**](#scene-161) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 162**](#scene-162) | Far North - The White Eye | 5 30, 302 DR (16:30) | Roleplay |
+| [**Scene 163**](#scene-163) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 164**](#scene-164) | Far North - The White Eye | 5 30, 302 AC (16:30) | Roleplay |
+| [**Scene 165**](#scene-165) | Far North - The White Eye | 5 30, 302 AC (16:40) | Roleplay |
+| [**Scene 166**](#scene-166) | Far North - The White Eye | 5 30, 302 AC (16:40) | Skill Check / Combat |
+| [**Scene 167**](#scene-167) | Far North - The White Eye | 5 30, 302 AC (16:40) | Roleplay |
+| [**Scene 168**](#scene-168) | Far North - The White Eye | 5 30, 302 AC (16:40) | Roleplay |
+| [**Scene 169**](#scene-169) | Far North - The White Eye | 5 30, 302 AC (16:50) | Skill Check / Combat |
+| [**Scene 170**](#scene-170) | Far North - The White Eye | 5 30, 302 AC (16:50) | Roleplay |
+| [**Scene 171**](#scene-171) | Far North - The White Eye / Winterfell | 5 30, 302 AC (17:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: --/-- | Gold: -- | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Character Creation)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -233,8 +249,11 @@ How would you like to build Bran?
 > 👤 **Player:**
 > *"AI generated and let’s give me permanent foresight and the crippled status assume I’m in a wheelchair"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Crippled | Inspiration: No**
@@ -278,8 +297,11 @@ Does this character meet your approval, Lord Stark?
 > 👤 **Player:**
 > *"Let’s make me a special custom class with a divination wizard and cleric combo and make my spell casting stat wisdom and show my level 1-30 progression"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Crippled | Inspiration: No**
@@ -309,8 +331,11 @@ Does this Sovereign path align with your vision, my Lord?
 > 👤 **Player:**
 > *"Make me gestalt class wizard cleric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Greenseer Sovereign | HP: 9/9 | XP: 0/300** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -320,8 +345,11 @@ The story continues...
 > 👤 **Player:**
 > *"Make me gestalt class wizard cleric And show exactly what I get every level and from level 1 give me permanent foresight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Crippled | Inspiration: No**
@@ -379,8 +407,11 @@ Does this absolute mastery of time and faith satisfy you, my Lord?
 > 👤 **Player:**
 > *"Permanent foresight should be like the full real spell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -411,8 +442,11 @@ Does this absolute power meet your requirements for the Lord of Winterfell?
 > 👤 **Player:**
 > *"Start the game and narrate scene where Sansa says I should be lord winterfell and I accept. She will be one of my companions and protective of me. She should be level 5 or higher. Make everyone else a reasonable level but I can be level 1 because assume my powers awakening"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -432,8 +466,11 @@ Sansa placed a hand on your shoulder, a gesture of both support and shield. "The
 > 👤 **Player:**
 > *"Ask Sansa for advice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -451,8 +488,11 @@ Through your Insight, heightened by the threads of time, you could see the truth
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Lords in the Hall - Call the lords back and speak of their secret fears and hopes for the winter, proving your power to all.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 30/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -486,8 +526,11 @@ A ripple of unease passed through the lords. Glover’s defiance was crumbling, 
 > 👤 **Player:**
 > *"Use my future seeing abilities to give them all useful intel as a gift. Say if we work together we can stengthen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 60/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -524,8 +567,11 @@ Sansa is asking for your mystical assistance to secure the very foundations of y
 > 👤 **Player:**
 > *"Formalize oath, the handle crypts with Sansa"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Winterfell - Great Hall / Crypts** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 100/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -557,8 +603,11 @@ Sansa exhaled, a breath she seemed to have been holding for a lifetime. "You tru
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reach Out to House Karstark and Umber - Send ravens to the northernmost houses. They have been distant and decimated; they need a Stark's guidance to return to the fold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Winterfell - Great Hall / Rookery** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 100/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -576,8 +625,11 @@ Furthermore, your visions flicker with a troubling complication. One of the rave
 > [!NOTE] ⚙️ **Player Choice:**
 > *Vision and Provision (Synergistic) - Warg to find the interceptor while your physical body sits with Sansa to oversee the granary inventory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -612,8 +664,11 @@ A sense of calm settles over Winterfell. Your immediate consolidation of the cas
 > 👤 **Player:**
 > *"Private council with Sansa. Tell her about Jon snow and everything I know about his lineage and the future. Ask her where Jon snow is now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -637,8 +692,11 @@ Sansa froze. The color drained from her face, leaving her as pale as the snow ou
 > 👤 **Player:**
 > *"THINK:How to best deliver the news? Darnerys I am concerned about her being a rival and killing jon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -650,8 +708,11 @@ Intelligence Check: 20 vs DC 15 — Masterful Success. Your mind, expanded by th
 > 👤 **Player:**
 > *"Summon samwell and for now use my telepathy to give Jon some intel Daenerys would want. Tell her everything I can using my foresight to help her win the throne"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -678,8 +739,11 @@ Back in the Solar, you exhaled, your eyes clearing. Sansa was staring at you, he
 > 👤 **Player:**
 > *"Ask Sansa how she’s doing. Explain that I understand she wants official power to protect. Say perhaps she should be regent and command mostly worldly and martial matters while I use my foresight to help. Even if on paper I am the lord we can be a partnership of equals but sometimes perhaps she should ultimately defer to me due to my foresight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -711,8 +775,11 @@ Even as the pact was sealed between you, your mind touched the Weirwood roots. Y
 > 👤 **Player:**
 > *"Meet them with Sansa and warg ahead of time to scout them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -753,8 +820,11 @@ Torrhen did not kneel. He stood his ground, trembling, caught between the urge t
 > 👤 **Player:**
 > *"Remind him of the stark rich history of greener. And wouldn’t he rather have a magical ally? Other people have great armies and daneryes has dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -785,8 +855,11 @@ Torrhen's hand, which had been white-knuckled against the parchment in his tunic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provision and Protection (Synergistic) - Sansa offers the grain and trade terms while you simultaneously project a vision of the Karhold walls standing strong against the blizzard—showing them the future you can provide.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 165/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -819,8 +892,11 @@ The effect was instantaneous and devastatingly effective. The coordination betwe
 > 👤 **Player:**
 > *"Formalize oath and explain about the night king and say we need to remain strong and united"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 205/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -856,8 +932,11 @@ You pulled back, returning to the Solar. Torrhen gasped, collapsing forward unti
 God Mode:
 Let’s assume in this timeline Jon isn’t the king in the north or our leader and he can’t make a huge decision like vassalize us to Daenerys  without Sansa and he expects me to lead and will be loyal etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 1, 300 AC (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 205/300** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -872,8 +951,11 @@ State Updates:
 > 👤 **Player:**
 > *"Let’s long rest and time skip until Jon returns and he’s overjoyed to see me. Assume i autonomously handle umbers and night king intel and roll for outcomes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Winterfell - Courtyard** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 280/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -898,8 +980,11 @@ Behind him, the Karstark and Manderly men stand in silent respect, witnessing th
 > 👤 **Player:**
 > *"Declare to the lords Sansa is regent and Jon head of military then plan next moves with them privately. Use my foresight to seek allies and then telepathically talk to Daenerys and broadcast vision of night king and white walkers as proof. Explain she should come in person to discuss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark (Lvl 2 available) | HP: 9/9 | Gold: 25 | XP: 310/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -930,8 +1015,11 @@ Across the distance, you felt her stagger, her mental defenses shattered by the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Integrate your growing Sovereign powers and unlock new gestalt features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bran Stark (Lvl 2 available) | HP: 9/9 | Gold: 25 | XP: 310/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -952,8 +1040,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -969,8 +1060,11 @@ You look at them both, your double-vision showing the paths they will walk. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Debrief Jon Snow - Hear Jon's full report on his time at Dragonstone and his assessment of Daenerys's council (Tyrion and Varys).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -994,8 +1088,11 @@ Sansa stood by the window, her silhouette sharp against the grey sky. "Then we m
 > 👤 **Player:**
 > *"Explain Jon true heritage to him. Narrate the reaction in detail. Say he probably needs to marry her and official renounce his claim and become king consort. We will support her for the throne provided we are essentially a sovereign territory and just pay some tax and help with only emergency wars"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1037,8 +1134,11 @@ Jon turned back to you, his eyes searching yours. Through your Insight, you saw 
 > 👤 **Player:**
 > *"Explain that by renouncing his claim and marrying we will obtain her trust. We can be a sovereign territory with lots of protections but ultimately swear fealty to the iron throne, however it won’t be an unlimited power monarchy like before. It should satisfy Daenerys and with our help she can win the throne in return for defeating nihght king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1065,8 +1165,11 @@ Jon stood by the hearth, the orange light of the embers playing across his weath
 > 👤 **Player:**
 > *"Say it’s up to him. But I already know he likes her anyway and this can spare him an awkward courtship I say as a joke. Plus we should publically say what your birthright is and then marry her as king consort so you gain everyone’s respect. And you don’t like power anyway"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1095,8 +1198,11 @@ Jon looked down at his boots, then back at the fire. The RIGIDITY in his posture
 > 👤 **Player:**
 > *"Ask Jon what he thinks. Say it’s up to him but this would preserve the most lives and protect us all. And we all already know he likes daenerys. Politely show him a vision of the alternative future where he’s forced to kill her and she turns evil and say failure to act sadly has its consequences but do it gently"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1133,8 +1239,11 @@ He didn't wait for your leave. He turned and strode from the Solar, the heavy do
 > 👤 **Player:**
 > *"Ask Sansa to talk to him. Let’s narrate a shift in them. They will always be loyal since they are stark but they will come to fear me as time goes on and realize I might be like a god and have even more absolute power than dragons or the night king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1161,8 +1270,11 @@ She slipped out of the room, leaving you alone with the fire and the infinite th
 > 👤 **Player:**
 > *"Scry to see how Sansa convo goes with Jon. They should fully trust me as starks and know I mean well and are 100% loyal but they should also fear me and feel kind of violated without privacy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 390/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1190,8 +1302,11 @@ You felt the weight of their fear—a cold, jagged shard of reality that pierced
 > 👤 **Player:**
 > *"Wait for Jon to return and try to comfort them. Explain that I’ll do my best not to scry on them and I do have the ability to not always watch them. I do love and care for them but I also have these powers I didn’t ask for and they don’t make me happy but I have a duty to the north and the realm to pursue peace"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 390/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1226,8 +1341,11 @@ You felt the failure of the connection like a cold draft. You had given them the
 > 👤 **Player:**
 > *"Ask Jon if he’s ready to make his decision. And if not ask him to not reveal the heritage to Daenerys unless she specifically asks and she should have no reason to. Say I won’t order him to marry or lie but it’s very important for him to consider this decision which can save us all. Ask Sansa for her perspective too and apologize to Jon for showing him the vision but explain that if our positions were reversed probably he would wanto tell me the truth versus hide it even if it’s a terrifying vision"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 420/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1264,8 +1382,11 @@ You felt the Social HP of his resistance buckle. He was still wavering, still af
 > 👤 **Player:**
 > *"Receive the Targaryen messengers and danaerys and don’t talk about sovereign north yet. If she asks us to bend the knee say we are open but need to discuss terms. In parallel send ravens to all the world leaders to ask for help against night king. Add in special knowledge for each world leaders to prove my foresight. Especially focus on Cersei and Jaime and give them individual letters"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 450/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1298,8 +1419,11 @@ She was here.
 > 👤 **Player:**
 > *"Receive Daenerys in the courtyard and be respectful and call her Queen."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Winterfell - Courtyard** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 450/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1332,8 +1456,11 @@ She looked up at the battlements, where the Stark banners snapped in the wind. "
 > 👤 **Player:**
 > *"Stay polite and respectful. As a gift give her some more foresight intel but nothing too invasive. She should be impressed by me since I’m a young boy but leading a large faction and have foresight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Winterfell - Courtyard** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 450/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1369,8 +1496,11 @@ Daenerys froze. Behind her, Tyrion Lannister stepped forward, his eyes wide. The
 > 👤 **Player:**
 > *"Let’s assume Daenerys is secretly flattered and narrate her reaction. I think I’m the only one who proactively called her queen in Westeros and actually gave her the most welcoming greeting but from a position of power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Winterfell - Courtyard** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 450/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1403,8 +1533,11 @@ Sansa's eyes narrowed slightly, her political instincts sensing the subtle shift
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hospitality and Intelligence (Synergistic) - Lead her to the hall for guest right while simultaneously warging into a raven to show her the precise movement of the Dead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **1 15, 300 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 510/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1443,8 +1576,11 @@ You felt the resistance in her spirit hold firm. The gift of hospitality had sec
 > 👤 **Player:**
 > *"Demonstrate more power. Hold a private council and ask Tyrion and Varys to quiz me and show I can know all their secret intel with foresight. Explain once we beat the night king I can help them easily win the war. Use my insight to see the best way to convince her of sovereign north."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 610/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1487,8 +1623,11 @@ Daenerys leaned forward, her hand resting on the table. She looked at Tyrion and
 > 👤 **Player:**
 > *"Amend my statement. Say we can swear fealty but need a vow of sovereignty and self governance. We can do taxes and help in defensive wars and reclaiming 7 kingdoms but no further conquering however we won’t stop further conquering if she goes that route. We will be strong allies especially with foresight. Let’s have daenerys and Tyrion and Varys start to fear me too. They realize no matter what the vassal status is perhaps my existence just means i rule the world whether I say so or not. Let it develop naturally though versus some simple reaction let it progress as I use my powers but my initial demonstration should provide ontological shock"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 9/9 | Gold: 25 | XP: 660/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1523,8 +1662,11 @@ Daenerys looked down at her hands, then back at you, her violet eyes clouded wit
 > 👤 **Player:**
 > *"Explain to Daenerys she is still my queen and I will follow orders within the agreed upon framework. Despite my powers I am a stark and my word is my bond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 710/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1556,8 +1698,11 @@ You felt the weight of her political resistance drop further. She had moved from
 God Mode:
 Let’s assume we’re still in the earlier part of the story not the night king attack yet. So this is when bran first returned to winterfell and now we have the opportunity to potentially do an advanced strike. However the night king is strong and make me roll for scrying him versus auto win for others.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Winterfell - Solar** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 15/15 | XP: 710/900**
@@ -1572,8 +1717,11 @@ Administrative Summary:
 > 👤 **Player:**
 > *"Let’s time skip a few days and we plan an advanced strike. We mine as much dragon glass as possible and make millions of dragon glass arrows. One arrow can actually kill the night king. Warn daenerys that the night king can kill or hurt her dragons using ice lances. Propose we assassinate the night king. I will also secretly prepare to absorb the night king’s power and let’s give him a special backstory where he’s actually a special type of warg and a stark so he’s compatible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 9/9 | Gold: 25 | XP: 710/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1611,8 +1759,11 @@ Daenerys watched you, the terrifying utility of your foresight outweighing her i
 > 👤 **Player:**
 > *"Let’s time skip a few days and we plan an advanced strike. We mine as much dragon glass as possible and make millions of dragon glass arrows. One arrow can actually kill the night king. Warn daenerys that the night king can kill or hurt her dragons using ice lances. Propose we assassinate the night king. I will also secretly prepare to absorb the night king’s power and let’s give him a special backstory where he’s actually a special type of warg and a stark so he’s compatible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark | HP: 9/9 | Gold: 25 | XP: 860/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1647,8 +1798,11 @@ As the council adjourned to finalize the strike team, you secretly felt the reso
 > 👤 **Player:**
 > *"Prepare psychic vessel and plan the assassination. Let’s assume although I can’t directly scry night king easily I can scry his army and know things in general. I propose a plan where we lure night king into the open and rain down thousands of dragon glass arrows on his white walkers from archers and catapults and dragons flying in the sky and out of reach of ice lances. If I see an ice lance with the queens permission I will telepathically alert a dragon. Just one arrow kills him. Jon on dragon back will also try to make the shot. Other dragon can burn his army at safe distances. Plan this all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark (Lvl 3 available) | HP: 9/9 | Gold: 25 | XP: 960/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1688,8 +1842,11 @@ Your experience has reached 960/900. You have unlocked the next tier of the Gree
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Fully integrate your new Sovereign powers and ritual gains before the battle begins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bran Stark (Lvl 3 available) | HP: 9/9 | Gold: 25 | XP: 960/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1710,8 +1867,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bran Stark | HP: 15/15 | XP: 960/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Portent: 2/2 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1721,8 +1881,11 @@ Morning (10:00:01). The ontological weight of the Three-Eyed Raven deepens withi
 > 👤 **Player:**
 > *"Also prepare thousands of ravens as my eyes and they also carry dragon class. Scry the night kings army to see if they’ve changed their pattern and if not prepare the lure and execute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Winterfell - Perimeter** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bran Stark | HP: 15/15 | Gold: 25 | XP: 1140/2700** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1756,8 +1919,11 @@ The horizon began to blur. The wind died down, replaced by a silence that felt l
 > 👤 **Player:**
 > *"Wait for the night king to get into good position then total raven strike use everything we have. Every turn use my foresight on him and all my abilities to improve my dice and guidance since I am a cleric too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Winterfell - Perimeter** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bran Stark | HP: 15/15 | Gold: 25 | XP: 1740/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Portent: 2/2 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1789,8 +1955,11 @@ But as the lords and the Queen begin to cheer, you feel the vacancy. The Night K
 God Mode:
 I should get massive exp and new powers and a new gestalt class sorcery from absorbing night king
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Winterfell - Perimeter** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bran Stark (Lvl 6 available) | HP: 15/15 | XP: 16740/2700** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1809,8 +1978,11 @@ Administrative Summary:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Enter the level-up modal to distribute your new attribute points and select spells for levels 4, 5, and 6.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Winterfell - Perimeter** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bran Stark (Lvl 6 available) | HP: 15/15 | Gold: 25 | XP: 16740/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1833,8 +2005,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Winterfell - Perimeter** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bran Stark | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight | Inspiration: No**
@@ -1850,8 +2025,11 @@ You look past her, toward the south. The dead in this clearing are gone, but the
 God Mode:
 lets devise a dissonance mechanic as a visibly use powers people get more afraid at at 100% they go into ontological shock and start a crusade to kill me. My stark family will never go hostile even at 100% but at 100% they may shut down or break their morale. Lets track everyones 100% individually.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Winterfell - Perimeter** &nbsp;|&nbsp; ⏳ **2 3, 300 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer (Wizard/Cleric/Sorcerer) | HP: 33/33 | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Sorcery Points: 6/6**
@@ -1878,8 +2056,11 @@ I have established a custom tracking system for **Ontological Dissonance** (0-10
 > 👤 **Player:**
 > *"narrate eveyrones reaction. the elites saw a legendary battle and the night king who people feared for thousands of years was destroyed easily by me in one battle. lets assum everyone is overjoyed but also now even more afraid of me.  for now only the elites and leaders of our alliance truly understand my power but word will spread. People compare me to robb, jon, daenerys but I am in incomprehensible power, the god in the north. Even the three eyed raven of the past wasnt as powerful as me and didnt defeat the night king as easily. Although people are overjoyed lets have some ruminate and think in some ways the night king was the last "protection" against me. Daenerys should be very eager for me to swear vassalage because she probably realizes only my honor can ever bind my power. Lets have everyone roll to determine their reactions/outcomes. it should only be the people present at the battle at first, but my terrifying legend should grow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Winterfell - Perimeter (The Kill Zone)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -1918,8 +2099,11 @@ Behind her, Varys and Tyrion share a look of absolute, soul-deep dread. In their
 
 Lets have everyone think privately to themselves and narrate it. They've never heard of someone in the history of the world with as much power as me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Winterfell - Perimeter (The Kill Zone)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -1965,8 +2149,11 @@ As you are lifted back into your chair, the Ontological Dissonance that threaten
 > 👤 **Player:**
 > *"narrate daenerys reaction. lets sassume despite her great fear of me she is honored a god chose her as queen, as essentially it was my choice to hand over rulership of 7 kingdoms to her. not only am i the first friendly westerosi lord but I am a god who decided she is worthy. She's secretly even more honored than she lets on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Winterfell - Perimeter (The Kill Zone)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -1998,8 +2185,11 @@ She takes a long, shaky breath, her posture straightening. The relief is palpabl
 
 Lets narrate a great victory feast in winterfell and any other lords or leaders who answered the call, maybe jaime, should arrive and be shocked at the night kings defeat. I remain humble and down play my part but the soliders who witnessed it will spread the tales intimidatingt he other lords and people who werent there. roll to see if cersei comes too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2033,8 +2223,11 @@ Jaime's gaze finds yours, and he freezes. He remembers the letter you sent—the
 > 👤 **Player:**
 > *"private audience with jaime, daenrys, jon, sansa. Explain to jaime what happened and tell him some polite secrets about himself dressed up as safe foresight. lets launder it thourhg varys and tyrion and pretend its from all 3 of our "spy" networks but give Jaime a wink so he knows its my foresight. Thank Jaime for saving the city from Aerys and then politely ask him to bend the knee to daenerys like I have. With my "spy" network and daenrys dragons and both our armies the 7 kingdoms are already conquered essentially"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Winterfell - Great Hall** &nbsp;|&nbsp; ⏳ **2 3, 300 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer (Wizard/Cleric/Sorcerer) | HP: 33/33 | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Sorcery Points: 6/6**
@@ -2044,8 +2237,11 @@ The story continues...
 > 👤 **Player:**
 > *"private audience with jaime, daenrys, jon, sansa. Explain to jaime what happened and tell him some polite secrets about himself dressed up as safe foresight. lets launder it thourhg varys and tyrion and pretend its from all 3 of our "spy" networks but give Jaime a wink so he knows its my foresight. Thank Jaime for saving the city from Aerys and then politely ask him to bend the knee to daenerys like I have. With my "spy" network and daenrys dragons and both our armies the 7 kingdoms are already conquered essentially"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2098,8 +2294,11 @@ Jaime looks at the hearth, then at you, and finally at Daenerys. He slowly sinks
 
 spread the word that Jaime is not the kingslayer. He is the shield of the realm who saved the city from being burned by Aerys and sacrificed his honor for the greater good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2137,8 +2336,11 @@ Jaime looks at you, his eyes brimming with a relief so profound it looks like pa
 God Mode:
 no lets make my foresight against mortals always win. Instead lets roll and if the roll fails its because people arent able to perfectly act
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Sorcery Points: 6/6**
@@ -2158,8 +2360,11 @@ This preservation of your 'God-tier' status ensures that even when the dice are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign with Absolute Foresight active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2194,8 +2399,11 @@ He tries to hide it—his face is a mask of Lannister stoicism—but your Insigh
 > 👤 **Player:**
 > *"redo the scene with absolute foresight and lets narrate the scene and preserve their shock about commanding the dead. They realize I have the night king powers by my casual use. Lets assume I reassure them and just say that despite it sounding scary the dead will help the free folk a lot who are massacred"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Sorcery Points: 6/6**
@@ -2232,8 +2440,11 @@ A collective, jagged silence falls over the Solar. The sheer, casual nature of y
 > 👤 **Player:**
 > *"Give them a smile and say I can see their shock without scrying them. Explain I actually am a helpless cripple and they could kill me now and i won't resist, but I choose to risk my life to help the free folk with the dead which will save many lives. Obviously i knew they might be threatened and kill me, and if they chose it i respect their decision, but i will always preserve life. Explain even if they kill me the world will be in a better place and my commands on rallying behind daenerys remain and sovereign north treaty"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2275,8 +2486,11 @@ The tension in the room doesn't vanish, but it shifts. It transforms from the ra
 > 👤 **Player:**
 > *"narrate their external and internal reactions in more detail. lets assume jon and sansa will not allow anyone to kill me even at 100%"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2312,8 +2526,11 @@ The Ontological Shock that threatened to shatter the alliance begins to crystall
 > 👤 **Player:**
 > *"narrate their verbal reactions, the should be ok for now but privaely everyone realizes I'm actually the new night king."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; ⏳ **2 3, 300 AC (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2355,8 +2572,11 @@ lets assume the free folk are grateful enough that they dont crusade with the de
 
 lets have two religions start. One religion starts that worships the god in the north even if i dont want it. Another crusade relgiion st arts and it says that the night king was the world's secret immune system against my tyranny. I tricked everyone and now the end of freedom is happening with my divine existence. the hostile one will grow in power and should eventually threaten me somehow, brainstorm some ideas. Both should be weak and small for now though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Winterfell - Lord's Solar** &nbsp;|&nbsp; ⏳ **2 3, 300 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer (Wizard/Cleric/Sorcerer) | HP: 33/33 | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 1/1 | Sorcery Points: 6/6**
@@ -2384,8 +2604,11 @@ As requested, here are potential ways this hostile group could eventually threat
 > 👤 **Player:**
 > *"time skip and narrate the next few weeks. lets narrate how all the leaders of the 7 kingdoms react to my summons with secret intel to prove my powers. I ask them to come and bend the knee to daenerys. I send another summons to cersei and ask jaime to publically declare loyalty to daenerys and bring lannister forces to our side. in parallel we send our best spies to stop the wildfire stuff and let me use all my rolls, dice, divitinty powers, guidance, evertyhing in all my classes to ensure the rolls suceed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Kingsroad - South of the Neck** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2421,8 +2644,11 @@ As the army marches, the silence around your chair grows heavier. The 'Safe Fore
 > 👤 **Player:**
 > *"i think you messed up this roll. rmember i hve guidance, divine dice from wizard subclass and ot her abilities 2d20kh1+7 = 18 vs DC 19 - Failure (Spy mission to disable the wildfire caches in King's Landing using Bran's absolute map)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Kingsroad - South of the Neck** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 16740/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2460,8 +2686,11 @@ Yet, as the Seven Kingdoms fall into place like cards in a deck you've already s
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Gaze (Synergistic) - Locate Euron's fleet for the dragons while simultaneously warging into the Red Keep to monitor Cersei's final actions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **The Kingsroad - South of the Neck** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 17640/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2499,8 +2728,11 @@ Tyrion Lannister watches your unblinking eyes, his hands trembling as he realize
 > 👤 **Player:**
 > *"march to kings landing and have my spies capture cersei alive, also telepathically tell arya how to fnish her faceless man training and toc ome home because things are safe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Allied Camp - Outskirts of King's Landing** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 19140/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2542,8 +2774,11 @@ Jon Snow reached forward and pulled back the cloth. Cersei Lannister looked up a
 
 Explain to daenerys that she truly does hold the power now by my honor. The north will be mostly sovereign territory as agreed but she is the official queen. I can go back to the north or stay here as her advisor if she wants, whatever makes her comfortble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **King's Landing - The Iron Throne Room** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 20140/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2590,8 +2825,11 @@ The effect is crystalline. The Ontological Shock that had paralyzed the room dis
 
 Wait to see daenerys orders. Give her some private advice beforehand too."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **King's Landing - Queen's Solar** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 20140/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2618,8 +2856,11 @@ Outside, the bells of the city begin to ring, not for war, but for the transitio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare for Arya's Arrival - Warg into a gull in the harbor to guide Arya's ship through the clearing storms, ensuring her safe return.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **King's Landing - Queen's Solar** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 20340/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2659,8 +2900,11 @@ You pull your consciousness back, the warmth of the solar returning to your skin
 God Mode:
 Let’s give people reasonable levels per show lore. Like Jon and Sansa and Arya should probably be level 12+ and daenerys too. Keep me at 6 and don’t actively activate the crusader religion faction fully and give them all the tools against me until I am level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **King's Landing - Queen's Solar** &nbsp;|&nbsp; ⏳ **3 6, 300 AC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 20340/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2689,8 +2933,11 @@ I have updated the NPC data to reflect their legendary status per show lore and 
 > 👤 **Player:**
 > *"Meet Arya at the docks and then keep working on Jon to reduce his social hp for the marriage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **King's Landing - Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 20440/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -2738,8 +2985,11 @@ Jon looks into the fire, his jaw set. You can feel the Social HP of his resistan
 > 👤 **Player:**
 > *"Time skip and gently keep persuading Jon. Encourage natural moments with daenerys so his genuine attraction can grow. And then explain that now that the crisis is over we are honor bound to tell her soon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **King's Landing - Red Keep Gardens** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 20590/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2776,8 +3026,11 @@ Jon closes his eyes, exhaling a long, shaky breath. The Social HP of his resista
 > 👤 **Player:**
 > *"Truth and treaty. Explain to Daenerys we didn’t tell her earlier since it was a n emergency and let Jon tell her the secret and explain he will renounce his claim and marry her if she desires. I recommend it and say we will be bound by honor and blood and she will have the loyalty and support of the strongest kingdom. Let’s assume north is  by far strongest kingdom because we also have the free folk and as a nuclear option that only a few know we also have wights and probably daenerys suspects i could make white walkers etc and now have all the dragon glass too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **King's Landing - Red Keep Solar** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 21690/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -2826,8 +3079,11 @@ She reaches out, her hand trembling slightly as she touches Jon's cheek, then tu
 > 👤 **Player:**
 > *"Narrate her private thoughts she realizes in some way because of my existence blood inheritance to iron throne doesn’t matter that much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **King's Landing - Red Keep Solar** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer | HP: 33/33 | Gold: 25gp | XP: 21790/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1**
@@ -2870,8 +3126,11 @@ A profound, quiet peace settles over her features. The fear of being a 'usurper'
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Imperial Transition (Synergistic) - Plan the Royal Wedding while simultaneously guiding Arya's first strikes against the Immune Order leadership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer (Lvl 7 available) | HP: 33/33 | Gold: 25gp | XP: 23000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 2/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -2924,8 +3183,11 @@ Would you like to level up now?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 7 - Open the level-up modal to integrate 4th-level mysteries and class features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; ⏳ **3 27, 300 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Triple-Gestalt Sovereign Greenseer (Lvl 7 available) | HP: 33/33 | Gold: 25gp | XP: 23000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Portent: 3/3 | Sorcery Points: 6/6 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -2946,8 +3208,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; ⏳ **3 27, 300 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 23000/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Inspiration: No**
@@ -2961,8 +3226,11 @@ Sansa glances at you, sensing the shift in the air, the way the shadows seem to 
 > 👤 **Player:**
 > *"Wait for daenerys decision to see if she wants me to stay in kings landing or return to the north"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; ⏳ **3 27, 300 AC (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 23000/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Inspiration: No**
@@ -2984,8 +3252,11 @@ Arya stands in the shadows behind your chair, her grey eyes already scanning the
 > 👤 **Player:**
 > *"Brief Sansa, scrying thing, and return north. Let’s have daenerys hold a grand farewell feast for me. I downplay my role but the leadership know it was my victory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Winterfell - The Great Hall** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 24290/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1**
@@ -3015,8 +3286,11 @@ Morning (10:00:00), Winterfell. Four days later, the air is sharp and carries th
 God Mode:
 Let’s assume the antagonistic religion can never truly die even if i prune it. Make it happen at some random time in full force after level 12 and if I prune a cell we can delay it but never stop it. At level 20 it is forced if it doesn’t happen and eventually it turns into a world war where other countries fear the apocalypse of ice and and fire. Rather than  a song of ice and fire it’s the dragon vassal queen controlled by the god of the north who will destroy the world
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Winterfell - The Great Hall** &nbsp;|&nbsp; ⏳ **4 1, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | XP: 24290/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3**
@@ -3041,8 +3315,11 @@ I have implemented your directives into the campaign's core logic. The 'Order of
 God Mode:
 It might be countries in the east or someone else too if 7 kingdoms stable. Let’s assume in some ways it is true and the gods foresaw my awakening and if I am not stopped I will become a new  god that conquers all even if I am good
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Winterfell - The Great Hall** &nbsp;|&nbsp; ⏳ **4 1, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | XP: 24290/34000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3**
@@ -3068,8 +3345,11 @@ I have updated the campaign's structural destiny and metaphysical rules to refle
 > 👤 **Player:**
 > *"Narrate my return to winterfill and reuniting with Arya and free folk leaders. Jon and Sansa remain to help Daenerys. Let’s sssume I time skip and continue to grow my powers as I travel. Let’s assume Arya is special and always has zero dissonance as she fully trusts me and believes she must protect me because I am self sacrificing and might let someone  kill me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Winterfell - The Outer Gates** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 25500/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1**
@@ -3094,8 +3374,11 @@ He stops, his blue eyes narrowing as he looks at you—not with fear, but with t
 God Mode:
 Let’s assume free folk will never crusade and accept me fully and only crazy things spike their dissonance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Winterfell - The Outer Gates** &nbsp;|&nbsp; ⏳ **4 21, 300 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer (Wizard/Cleric/Sorcerer) | HP: 39/39 | XP: 25500/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Channel Divinity: 1/1 | Sorcery Points: 7/7**
@@ -3119,8 +3402,11 @@ I have updated the campaign's social and metaphysical parameters to reflect the 
 > 👤 **Player:**
 > *"Narratecfree folk leadership acceptance. I am the green god and the true god in the north and protector of their people. They will always appreciate how I revealed my wight powers to help them rebuild even if the south fears me. Let’s assume as time progresses the free folk area becomes an advanced civilization with my knowledge and undead labor as time goes on g(not yet)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Winterfell - The Great Hall / Courtyard** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 26000/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 2/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1**
@@ -3152,8 +3438,11 @@ Arya stands just behind your chair, her hand resting habitually on the pommel of
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign's Shadow (Synergistic) - Feast with the Free Folk to build rapport while simultaneously warging into a network of ravens to monitor the Immune Order safehouse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Winterfell - The Great Hall / Courtyard** &nbsp;|&nbsp; ⏳ **4 21, 300 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 26350/34000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 2/3 | Sorcery Points: 7/7**
@@ -3187,8 +3476,11 @@ Arya stands near the fire, her eyes catching the flicker of the flames. She hasn
 God Mode:
 Remember I shoukd always have guidance and all the divination wizard dice and remember to use them on my rolls I think you forgot just give me permanent guidance 2d20kh1+8 = 14 vs DC 16 - Failure (Persuasion: Bonding with Free Folk Council
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Winterfell - The Great Hall / Courtyard** &nbsp;|&nbsp; ⏳ **4 21, 300 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 26350/34000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3**
@@ -3210,8 +3502,11 @@ Your character state and directives have been updated to reflect these permanent
 God Mode:
 Let’s not spawn these immune events so often
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Winterfell - The Great Hall / Courtyard** &nbsp;|&nbsp; ⏳ **4 21, 300 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 26350/34000**
@@ -3229,8 +3524,11 @@ I have adjusted the narrative pacing and world-event logic to reduce the frequen
 > 👤 **Player:**
 > *"Let’s assume Arya proactively hunts down immune order. I work with the free folk to start building a great northern civilization that would rival Valyria and I have all the knowledge from all eras. Get it started"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Winterfell - The Great Hall / Courtyard** &nbsp;|&nbsp; ⏳ **4 22, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 27150/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3269,8 +3567,11 @@ She vanishes into the snowy twilight before the first wight-giant strikes the ea
 > 👤 **Player:**
 > *"Do all of them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Winterfell - The Great Hall / Courtyard** &nbsp;|&nbsp; ⏳ **4 23, 300 AC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Triple-Gestalt Sovereign Greenseer | HP: 39/39 | Gold: 25gp | XP: 28200/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3304,8 +3605,11 @@ Meanwhile, the shadow of the Stark is at work. Arya has become a ghost within th
 > 👤 **Player:**
 > *"Trade and scry and time skip a few months and see what happens. Assume I continue to build a great free republic in the north where Inam not an absolute ruler but there are elected senators and I act as consul like Ancient Rome but I am also lord of the northern Westeros part and I am the unoffciosl"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Winterfell - The Great Hall of the Senate** &nbsp;|&nbsp; ⏳ **8 23, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bran Stark (Lvl 8 available) | HP: 39/39 | Gold: 15,250gp | XP: 34200/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3340,8 +3644,11 @@ You feel your connection to the weirwood network deepening. Your powers are no l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 8 - Fully integrate your growing Sovereign powers and select new mysteries (spells) and an Ability Score Improvement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Winterfell - The Great Hall of the Senate** &nbsp;|&nbsp; ⏳ **8 23, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bran Stark (Lvl 8 available) | HP: 39/39 | Gold: 15,250gp | XP: 34200/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Portent: 3/3 | Sorcery Points: 7/7 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3360,8 +3667,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Winterfell - The Great Hall of the Senate** &nbsp;|&nbsp; ⏳ **8 23, 300 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 34200/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3375,8 +3685,11 @@ As the light fades, you look out over the senators—the lords in their furs, th
 > 👤 **Player:**
 > *"Expand watchers and narrate what happened with Daenerys last frw months from her perspective and see what she does and if Sansa came back.lets always narrate what happens with Daenerys every time skip"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Winterfell - The Great Hall of the Senate** &nbsp;|&nbsp; ⏳ **8 23, 300 AC (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 34200/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3394,8 +3707,11 @@ At your command, the first cohort of the **Order of Watchers**—twelve men and 
 > 👤 **Player:**
 > *"Send a raven and ask Daenerys if she wants me to reduce my intel so she has more autonomy and let Sansa rule the north in my stead for all day to day matters. Let’s call the new free folk areas the northern republic and also give Sansa a tour of the area which should provide ontological shock and impress her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Winterfell - The Obsidian Courtyard** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 34200/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3418,8 +3734,11 @@ Later, in the quiet of the rookery, you compose a message to Daenerys. The 'Perm
 > 👤 **Player:**
 > *"Let’s roll to see if sansa is elected consul too and we both rule. Let’s assume the northern republic doesn’t mind if we always win elections. So sansa and I in theory control the full north which is by far the strongest country or kingdom in the whole world now. Let’s time skip a few months and narrate what happens with Daenerys and my areas and the world in general. Assume I focus on my magical powers to gain more exp and try to level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Winterfell - The Senate Amphitheater** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 36000/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3453,8 +3772,11 @@ The North is now, by any measure, the most powerful sovereign state in the known
 > 👤 **Player:**
 > *"Narrate daenerys decision on less “help” let’s assume I also offer to share technology to reduce their dependence but without my permanent  help they’ll never be as advanced as the north. The north should now be like as tech advanced an Ancient Rome and within a year will be like valryia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Winterfell - The Senate Amphitheater** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 36700/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3487,8 +3809,11 @@ But the shadow in the East grows. Your Watchers in Braavos report that the Iron 
 God Mode:
 Wait I’m not level 12 yet delay them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Winterfell - The Senate Amphitheater** &nbsp;|&nbsp; ⏳ **1 10, 301 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 36700/48000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3506,8 +3831,11 @@ I have placed a hard administrative lock on the 'Coalition Invasion' event. The 
 > 👤 **Player:**
 > *"Let’s have my great mage smiths start making Valyrian steel and other weapons of war in case we get attacked and train an elite praetorian guard and start training legionnaires etc Roman style. The free folk remain free so this is all voluntary"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Winterfell - The Senate Amphitheater** &nbsp;|&nbsp; ⏳ **1 10, 301 AC (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 37100/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3530,8 +3858,11 @@ By the time the session concludes, the first cohorts are already forming in the 
 > 👤 **Player:**
 > *"Start some secret research into the creation of dragons time skip a few weeks and narrate things from daenerys perspective too and see how she likes her autonomy and absence scrying anchor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Winterfell - The Library of Time** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 37100/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3555,8 +3886,11 @@ The research into the dragons has stalled, the ancient blood-magic requiring a c
 > 👤 **Player:**
 > *"Let’s assume i only use dead as laborers for now so people don’t get afraid. Continue to train and arm republic and continue to focus on growing my magical powers. Since I have the full knowledge of the night king see if I can learn how to create a variation of dragons which are ice dragons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Winterfell - The Library of Time** &nbsp;|&nbsp; ⏳ **2 21, 301 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 38500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 3/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -3591,8 +3925,11 @@ The Republic is armed and the people are fed. You have the mind of a god and the
 God Mode:
 Don’t forget to use my portent dice 2d20kh1+7+1d4 = 16 vs DC 25 - Failure (Intelligence: Researching Ice Dragon Creation via Night King Memories)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Winterfell - The Library of Time** &nbsp;|&nbsp; ⏳ **2 21, 301 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 39000/48000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 2/3 | Guidance: Active**
@@ -3614,8 +3951,11 @@ The timeline has been reconciled. You now possess the knowledge to create the le
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative with the Ice Dragon secrets now fully unlocked.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Winterfell - The Library of Time** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 39000/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 2/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 2/3 | Guidance: Active**
@@ -3645,8 +3985,11 @@ In the courtyards of Winterfell, the transition to the 'New Valyria' tier of civ
 > 👤 **Player:**
 > *"Send Tyrion a raven. Say it’s obvious what he’s doing and encourage him to come meet me in winterfell and we can discuss his concerns. Say I can’t hide his activities to Daenerys so unless he stops I gotta tell on him and send a raven to varys to ask his position"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Winterfell - The Library of Time** &nbsp;|&nbsp; ⏳ **2 21, 301 AC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 39000/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 2/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 2/3 | Guidance: Active**
@@ -3684,8 +4027,11 @@ Sansa enters the library as the ravens take flight. She looks at the empty windo
 > 👤 **Player:**
 > *"Scry and meditate and in parallel narrate Tyrion Nd Varys reaction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Winterfell - The Godswood** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 39500/48000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked, Psychically Strained | Portent: 2/3 | Guidance: Active**
@@ -3725,8 +4071,11 @@ You gasp, your eyes snapping open as your consciousness slams back into your phy
 > 👤 **Player:**
 > *"Reroll using my portent dice and stop forgetting 2d20kh1+8+1d4 = 27 vs DC 28 - Failure (Parallel Action: Scry Braavosi Council & Meditate for Ice Hatching also narrate Tyrion and varys decision"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Winterfell - The Godswood** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 40500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 1/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 1/3 | Guidance: Active**
@@ -3765,8 +4114,11 @@ Varys, however, reacts with the grace of a man who has always known the gods wou
 > 👤 **Player:**
 > *"Travel with arya and a light guard to Daenerys in secret and tell her the news of the betrayal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 40500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 1/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 1/3 | Guidance: Active**
@@ -3804,8 +4156,11 @@ She looks at you, and for the first time, the fear of your power is eclipsed by 
 God Mode:
 Let’s assume that I have elite +3 gear and armor and gear that helps my spell DC and spell attack and arya and sansa and my elite guard all have elite +3 magical Valyrian steel gear. Even my wheelchair is Valyrian steel and is now very advanced
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; ⏳ **3 7, 301 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Triple-Gestalt Sovereign Greenseer (Wizard/Cleric/Sorcerer) | HP: 45/45 | XP: 40500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 3/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8**
@@ -3826,8 +4181,11 @@ All items are now persisted in your character and NPC data.
 > 👤 **Player:**
 > *"Intercept and confront synergistic. Recommend mercy to daenerys but say it’s her decision. Say I regret our reunion couldn’t be a happy occasion. Let’s bring in Jaime too and recmmmend he advocates for mercy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 41500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 0/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 0/3 | Guidance: Active**
@@ -3874,8 +4232,11 @@ Daenerys looks at Tyrion, then at you. The 'Sovereign's Gaze' is no longer a sha
 > 👤 **Player:**
 > *"Ask Tyrion to speak. Say his position is understandable but he would start a world war. Ask him what he would do in my position and to empathize with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 41500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 0/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 0/3 | Guidance: Active**
@@ -3914,8 +4275,11 @@ Jaime places a hand on the table, his gold fingers tapping rhythmically against 
 > 👤 **Player:**
 > *"Ask Tyrion to speak. Say his position is understandable but he would start a world war. Ask him what he would do in my position and to empathize with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 41500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 0/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 0/3 | Guidance: Active**
@@ -3947,8 +4311,11 @@ Daenerys watches him, her expression a mask of frozen grief. Jaime places a hand
 > 👤 **Player:**
 > *"show Tyrion the original future where daenerys descended into madness and he betrayed her and just became king of westeros anyway. Explain that if I wanted power I could’ve just let things play out but I seek a happier ending. Wait for him to respond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 42000/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 0/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 0/3 | Guidance: Active**
@@ -3987,8 +4354,11 @@ Tyrion looks up, the 'Crusader' light in his eyes completely extinguished. The '
 > 👤 **Player:**
 > *"Recommend Tyrion leverage the confession and be stripped of title and lands but not killed or imprisoned. He can work for me and try to reduce eastern aggression. Roll to persuade Daenerys but say it’s her decision. Also apologize for using my foresight on Tyrion but explain it was an emergency. I will limit my power use while I’m here and negotiate some improved trade deals and teach daenerys new technology if she wishes or I can return north if she’s uncomfortable. Also invite her to visit the north whenever she wants. Offer to send some of my best mages and technologists to help her too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 43500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 0/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 0/3 | Guidance: Active**
@@ -4024,8 +4394,11 @@ You incline your head to Daenerys. "You are always welcome in Winterfell, Daener
 > 👤 **Player:**
 > *"Narrate their internal thoughts they should be impressed by my mercy and honor. Others may even admit to themselves I am far more wise and merciful than they would be Tyrion included"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 43500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 0/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 0/3 | Guidance: Active**
@@ -4049,8 +4422,11 @@ Midday (12:00:00). The harsh southern sun pours through the windows of the solar
 > 👤 **Player:**
 > *"Also forgive jaime for pushing me out of the window and empathize with him."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 43500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery Points: 8/8 | Portent: 0/3 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 0/3 | Guidance: Active**
@@ -4101,8 +4477,11 @@ Tyrion finally speaks, his voice steady for the first time. "I accept your mercy
 > 👤 **Player:**
 > *"Long rest and then go with Tyrion to visit Tysha and let him heal his heart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Coastal Village near Lannisport** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 43500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 11, 7, 5 | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -4134,8 +4513,11 @@ But the healing you sought is not instantaneous. Sara—Tysha—does not run to 
 > 👤 **Player:**
 > *"Narrate me and my technologists teaching people in kings landing and freely spread technology. Roll to see how effective it is. Time skip a few weeks and assume we feast and teach and I spend time consolidating partnership with daenerys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 44620/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 11, 7, 5 | Sorcery Points: 8/8 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -4155,8 +4537,11 @@ But as the sun sets on the day after the Vernal Equinox, the festive atmosphere 
 God Mode:
 Remember you’re supposed to delay this until after level 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; ⏳ **3 22, 301 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Triple-Gestalt Sovereign Greenseer (Wizard/Cleric/Sorcerer) | HP: 45/45 | XP: 44620/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 3/3 | Channel Divinity: 1/1 | Sorcery Points: 8/8**
@@ -4176,8 +4561,11 @@ This constraint is now firmly part of the operational logic.
 > 👤 **Player:**
 > *"Narrate next few weeks. See if the technology transfer holds and if Tyrion reconciles with Tysha. Ask Daenerys if she wants the benefit of my foresight for now and say I can reveal all future threats and opportunities to her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **King's Landing - The Red Keep** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark | HP: 45/45 | Gold: 15,250gp | XP: 46120/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 11, 7, 5 | Sorcery Points: 8/8 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 3/3 | Guidance: Active**
@@ -4213,8 +4601,11 @@ Daenerys looks at you, her silver hair shimmering in the torchlight. She thinks 
 > 👤 **Player:**
 > *"Let’s assume the foresight sharing was a  one time thing and not a permanent thing. This gives daenerys a baby foresight and she can gain arrange on any roll 3 times per long rest. Let’s sssume I return to the north and time skip for a year. The north becomes as advanced as Valyria and I create some dragons successfully but they are still babies. Roll for outcomes. Through her foresight daenerys decides she needs to attack the east to stop their grand crusade before it happens. She also wants to resume freeing slaves and a part of her wants a conquest of her own without me due to her fire and blood nature. She doesn’t go full mad queen but there is some aggression. Let Tyrion roll to see how effective he is at stopping a  world war. If successful all the eastern countries will not unite to defend the slave cities and if he fails they unite. Let’s assume I try to level up as much as possible and integrate my powers and night king powers. As promised the north doesn’t help Daenerys in the offensive war but we keep trading and indirectly support it. The north is very divided about our support and it’s a controversial topic. Narrate all of this in detail and roll for outcomes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark (Lvl 20 available) | HP: 163/163 | Gold: 1,250,000gp | XP: 367906/400000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L9 | Channel Divinity: 3/3 | Sorcery Points: 20/20 | Divine Intervention: Auto** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | Guidance: Active**
@@ -4240,8 +4631,11 @@ Sansa, now Co-Consul, enters the spire, her furs trimmed with Valyrian silver. "
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 20 - Open the level-up modal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **4 12, 302 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bran Stark (Lvl 20 available) | HP: 45/45 | Gold: 1,250,000gp | XP: 367906/400000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Portent: 0/3 (Lvl 20 pending) | Sorcery Points: 8/8** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Inspiration: No**
@@ -4262,8 +4656,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **4 12, 302 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 367906/400000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4302,8 +4699,11 @@ RELATIONS: Daenerys Targaryen: Bonded
 God Mode:
 Don’t do this sovereign stuff just keep on the divine campaign not multi verse
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **4 12, 302 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 367906/400000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4**
@@ -4326,8 +4726,11 @@ You remain the Level 20 Master of the North, commanding wights, Ice Dragons, and
 God Mode:
 Why would the east be killing my people? Some of my people live there?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **4 12, 302 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 367906/400000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4**
@@ -4361,8 +4764,11 @@ You asked why the East would be killing your people, especially since Northern c
 > 👤 **Player:**
 > *"Hold a senate discussion about intervention versus not and ask sansa and arya perspective. Also later privately tell them i can resurrect Rickon with true resurrection and get their thoughts on it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **4 12, 302 AC (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 367906/400000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | Sorcery Points: 20/20**
@@ -4431,8 +4837,11 @@ The silence that follows is thick with the weight of the impossible. Arya's eyes
 > 👤 **Player:**
 > *"Say perhaps we can say rickon is someone else. Or we just double down and be obvious about my powers. See their thoughts. Let’s assume both sansa and arya leveled up a lot past level 12 and roll for their outcomes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **4 12, 302 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 367906/400000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L9 | Channel Divinity: 3/3 | Divine Intervention: Auto** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | Sorcery Points: 20/20**
@@ -4490,8 +4899,11 @@ You look at them, the 'Permanent Foresight' revealing the ripples of both paths.
 > 👤 **Player:**
 > *"Resurrect first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Winterfell - The Crypts** &nbsp;|&nbsp; ⏳ **4 12, 302 AC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 382906/400000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Full, L9 0/1 | Portent: 11, 7, 5, 18 | Sorcery Points: 20/20** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | Spell Slots: L9 0/1**
@@ -4550,8 +4962,11 @@ Arya is the first to move, falling to her knees and pulling him into a fierce, s
 > 👤 **Player:**
 > *"Private integration and then revisit senate discussion and see which way they lean. Also say Arya and her elites could purge the leadership of only the cities that executed our people as a middle ground"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Winterfell - The Great Hall of the Senate** &nbsp;|&nbsp; ⏳ **4 15, 302 AC (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 382906/400000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4608,8 +5023,11 @@ Tonight, the East wakes to find its leadership decapitated, and the North wakes 
 > 👤 **Player:**
 > *"Try to calm senate down and issue official warning to all the eastern countries. We will not actively attack but anyone who attacks us or our people will be destroyed."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Winterfell - The Great Hall of the Senate** &nbsp;|&nbsp; ⏳ **4 15, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark | HP: 163/163 | Gold: 1,250,000gp | XP: 397906/400000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4654,8 +5072,11 @@ Across the sea, the Coalition mages stagger, their psychic wards shattered by th
 > 👤 **Player:**
 > *"Let’s narrate reactions to my warning and Daenerys reaction and narrate how her war is going with her and Jon and her dragons and let her roll for outcomes and time skip a few weeks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **5 6, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark (Lvl 21 available) | HP: 163/163 | Gold: 1,500,000gp | XP: 407906/400000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4694,8 +5115,11 @@ APEX ATTENTION: [Hidden]
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 21 - Claim your Epic Mortal status and select an Epic Boon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **5 6, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bran Stark (Lvl 22 available) | HP: 163/163 | Gold: 1,500,000gp | XP: 407906/400000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1-L8 Full, L9 0/1 (Level 22 pending) | Portent: 4/4 | Sorcery Points: 20/20** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4**
@@ -4716,8 +5140,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **5 6, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 407906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Sorcery Points: 22/22** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4733,8 +5160,11 @@ Sansa nods, her eyes reflecting the white light of the Heart Tree visible throug
 God Mode:
 Let’s brainstorm some new challenging mechanics. Let’s assume the other gods start directly intervening and make my own rolls more challenging with divine DC from opposing gods who realize my ascent will probably eventually destroy them. Give me a quest to ally with the northern old gods or declare vassalization so I can get allies
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **5 6, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 407906/505000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4764,8 +5194,11 @@ You have been granted a new Primary Quest to secure your divinity through the on
 God Mode:
 Who is the great other again? Is that the night king or some god of the night king?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **5 6, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 407906/505000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4794,8 +5227,11 @@ The Old Gods are distinct from the Great Other. They are the collective spirits 
 God Mode:
 Beyond just the divine DC let’s have the gods start actively supporting factions in the east. And let’s assume their fear is legit and I am prophecy of the apocalypse of ice and fire. I was already the prince who was promised but I recovered my own agency and may eventually consume all the gods as a defensive measure. Make a good arc for this and assume the gods start manifesting level 20+ avatars to directly challenge me eventually
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Winterfell - The Silver Citadel** &nbsp;|&nbsp; ⏳ **5 6, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 407906/505000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Masked | Portent: 4/4 | GP: +7**
@@ -4833,8 +5269,11 @@ You have been granted a primary quest to fulfill your defensive consumption stra
 > 👤 **Player:**
 > *"Narrate a few weeks timeskip. Narrate what happens when I try to parley with the old gods and narrate how Daenerys war goes. Roll for outcomes and remember to use all my abilities on my rolls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Winterfell - The Godswood** &nbsp;|&nbsp; ⏳ **5 27, 302 AC (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 424906/505000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis | Portent: 4/4 | GP: +8**
@@ -4886,8 +5325,11 @@ In Winterfell, the 'Frost-Bleed' complication has manifested. The Great Other, d
 > 👤 **Player:**
 > *"Communes with the old gods and narrate their dialog. Ask them for help in defeating the great other. Explain I seek to stabilize the north and peace and not to consume alll Gods. Let’s assume my cap is level 25 until I consume great other or another deity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Winterfell - The Godswood** &nbsp;|&nbsp; ⏳ **5 27, 302 AC (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 426906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L8 Full, L9 0/1 | Portent: 11, 7, 5, 18 | Sorcery Points: 22/22** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis | Portent: 4/4 | GP: +8**
@@ -4938,8 +5380,11 @@ The connection fades, leaving you alone in the Godswood. Beside you, Rickon's sh
 > 👤 **Player:**
 > *"Did you use the portent dice? If not use them and reroll 2d20kh1+14+1d4 = 23 vs DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Winterfell - The Godswood** &nbsp;|&nbsp; ⏳ **5 27, 302 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 428906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L8 Full, L9 0/1 | Portent: 11, 7, 5 | Sorcery Points: 22/22** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis | Portent: 3/4 | GP: +8**
@@ -4989,8 +5434,11 @@ You feel the bond with the Old Gods deepen. They have not yet joined your war in
 > 👤 **Player:**
 > *"Fix rickon add then start making a plan to consume great over. Time skip a few days and narrate how Daenerys war goes too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Winterfell - The Godswood** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 429906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L8 Full, L9 0/1 | Portent: 11, 7, 5 | Sorcery Points: 22/22** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis | Portent: 3/4 | GP: +8**
@@ -5040,8 +5488,11 @@ In the East, the three-day skip reveals a war of grinding attrition. Queen Daene
 > 👤 **Player:**
 > *"THINK:Thinks bout the best plan and utilize my elite forces dragons and mages to so this first great other step"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Winterfell - The Godswood** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 429906/505000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis | Portent: 3/4 | GP: +8**
@@ -5053,8 +5504,11 @@ Wisdom Check: 31 vs DC 15 — Masterful. Your transcendent mind aligns the varia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Operation: White-Out - Deploy the Ice Dragons to create a permanent blizzard over the White Eye, trapping the Great Other's essence while the Praetorian Guard secures the perimeter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 431906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L8 Full, L9 0/1 | Portent: 11, 7, 5 | Sorcery Points: 22/22** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis | Portent: 3/4 | GP: +8**
@@ -5109,8 +5563,11 @@ Rickon sits safely in the Silver Citadel, shielded by your Aegis, but here at th
 > 👤 **Player:**
 > *"Keep going and try to consume great other himself through his avatar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark | HP: 177/177 | Gold: 1,500,000gp | XP: 432906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L8 Full, L9 0/1 | Portent: 11, 7, 5 | Sorcery Points: 22/22** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis | Portent: 3/4 | GP: +8**
@@ -5162,8 +5619,11 @@ Your Dissonance spikes to 73% as your divine signature flares like a supernova i
 > *"Reroll and make sure you used portent dice 
 2d20kh1+14+1d4 = 30 vs DC 35 - Failure (Consuming the Essence of the Great Other)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark (Lvl 23 available) | HP: 45/45 | Gold: 1,500,000gp | XP: 1437906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L8 Full, L9 0/1 | Portent: 9, 5, 1 | Sorcery Points: 22/22** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, Mask Fracture (89%) | Portent: 3/4 | GP: +8**
@@ -5201,8 +5661,11 @@ The Sentinel of the Void remains standing, but it is hollowed—a shattered shel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ascend to Level 25 - Process the 1M XP immediately to hit your current level cap and unlock Tier 4 Sovereign powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bran Stark (Lvl 25 available) | HP: 45/45 | Gold: 1,500,000gp | XP: 1437906/505000** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1-L8 Full, L9 0/1 | Portent: 3/4 (Level 25 pending)** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, Mask Fracture (89%) | Portent: 3/4 | GP: +8**
@@ -5234,8 +5697,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Bran Stark | HP: 66/66 | Gold: 1,500,000gp | XP: 1437906/655000** &nbsp;|&nbsp; ✨ **HD: 25/25 | Spells: L1-L8 Full, L9 1/1 | Portent: 9, 5, 1 | Sorcery Points: 25/25 | Divine Leverage: +14** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, Mask Fracture (89%), Level Cap (25) | Portent: 3/4 | GP: +8**
@@ -5275,8 +5741,11 @@ The Sentinel of the Void reels, its featureless mask vibrating with the shock of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shatter the Shell - Unleash your Level 25 magic and your Ice Dragons to physically destroy the Sentinel and expose the Great Other's heart.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Bran Stark | HP: 66/66 | Gold: 1,500,000gp | XP: 1444906/655000** &nbsp;|&nbsp; ✨ **HD: 25/25 | Spells: L1-L8 Full, L9 1/1 | Portent: 9, 5, 1 | Sorcery Points: 25/25 | Divine Leverage: +14** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, Mask Fracture (99%), Level Cap (25) | Portent: 3/4 | GP: +14**
@@ -5331,8 +5800,11 @@ The heart is before you. The 'Devouring Path' is at its end. One more step, and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Heart of the Great Other - Reach into the rift and swallow the primordial essence to unlock Level 26 (Quasi-Deity) and secure the North forever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Bran Stark (Lvl 26 available) | HP: 66/66 | Gold: 1,500,000gp | XP: 1444906/655000** &nbsp;|&nbsp; ✨ **HD: 25/25 | Spells: L1-L8 Full, L9 1/1 | Portent: 9, 5, 1 | Sorcery Points: 25/25 | Divine Leverage: +14** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK FRACTURE (100%), Quasi-Deity | Portent: 3/4 | GP: +14**
@@ -5383,8 +5855,11 @@ In the East, the temple fires of R'hllor turn black as the Lord of Light screams
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 37 - Process 1.4M XP to reach the Demigod tier, unlocking Rank 2 bonuses and reality-warping features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 25 Bran Stark (Lvl 26 available) | HP: 66/66 | Gold: 1,500,000gp | XP: 1444906/655000** &nbsp;|&nbsp; ✨ **HD: 25/25 | Spells: L1-L8 Full, L9 1/1 | Portent: 9, 5, 1 | Sorcery Points: 25/25 | Divine Rank: Quasi-Deity (#1)** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK FRACTURE (100%), Quasi-Deity | Portent: 3/4 | GP: +14**
@@ -5407,8 +5882,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Demigod Bran Stark | HP: 129/129 | Gold: 1,500,000gp | XP: 1444906/1255000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK FRACTURE (100%), Demigod | Portent: 4/4 | GP: +15**
@@ -5460,8 +5938,11 @@ You sit in the center of the White Eye, your wheelchair now forged from Valyrian
 God Mode:
 Disable all the multi verse stuff and do you see the divine campaign content? I think you need to fix my stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Demigod Bran Stark | HP: 262/262 | Gold: 1,500,000gp | XP: 1444906/1255000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK FRACTURE (100%), Demigod | Portent: 4/4 | GP: +15**
@@ -5481,8 +5962,11 @@ The world is frozen at the base of the White Eye rift. You are fully exposed (10
 God Mode:
 Do you see the divine campaign protocols? I think my ability scores should be higher
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Minor God Bran Stark | HP: 706/706 | Gold: 1,500,000gp | XP: 1444906/1255000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK FRACTURE (100%), Minor God | Portent: 4/4 | GP: +25**
@@ -5508,8 +5992,11 @@ The North is frozen. Your true divine self is fully exposed to the Pantheon. You
 God Mode:
 Why didn’t you apply the divine leverage stuff automatically?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Minor God Bran Stark | HP: 706/706 | Gold: 1,500,000gp | XP: 1444906/1255000** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK FRACTURE (100%), Minor God | Portent: 4/4 | GP: +25**
@@ -5533,8 +6020,11 @@ I have updated your `god_power` in the state to 25 to reflect this new reality. 
 > 👤 **Player:**
 > *"Let’s assume I try to mask through my avatar. I make an avatar which makes a simulacrum and I make a god simulacrum. I announce my godhood only to my close family and alloes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Minor God Bran Stark (Lvl 40 available) | HP: 706/706 | Gold: 1,500,000gp | XP: 1944906/1769607** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-L9 Full | Portent: 4/4 | Divine Leverage: +25 | Dissonance: 70%** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK REPAIRED (70%), Minor God | Portent: 4/4 | GP: +25**
@@ -5577,8 +6067,11 @@ DISSONANCE: [███████░░░░░] 70%
 God Mode:
 Let’s assume the other gods start a holy crusade on me and old gods are my allies. How can we make the campaign mechanically interesting? Let’s assume we usually need to fight through avatars since neither side wants to destroy world maybe? But at some point god to god combat should happen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Minor God Bran Stark (Lvl 40 available) | HP: 706/706 | Gold: 1,500,000gp | XP: 1944906/1769607** &nbsp;|&nbsp; ⚠️ **Masked (70%), Portent: 4/4 | Rank #3 Minor God | Leverage: +25**
@@ -5615,8 +6108,11 @@ To make the Holy Crusade mechanically interesting without destroying the setting
 God Mode:
 Why is level 40 available?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Minor God Bran Stark (Lvl 40 available) | HP: 706/706 | Gold: 1,500,000gp | XP: 1944906/1594000** &nbsp;|&nbsp; ⚠️ **Masked (70%), Portent: 4/4 | Rank #3 Minor God | Leverage: +25**
@@ -5648,8 +6144,11 @@ In summary: You have earned enough power from your Great Works and the consumpti
 God Mode:
 I thought I was level 37 ? What made me level 40 breakdown my exp gains
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Quasi-Deity Sovereign Greenseer (Lvl 42 available) | HP: 706/706 | XP: 1944906/1894150** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Portent: 4/4 | Channel Divinity: 1/1 | Sorcery Points: 20/20**
@@ -5685,8 +6184,11 @@ According to the 15% exponential scaling curve for Divine Levels (26+):
 God Mode:
 Why do you keep giving me more and more exp every time k talk to you? Is there some bug where exp is replaying ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 37 Minor God Bran Stark (Lvl 42 available) | HP: 706/706 | Gold: 1,500,000gp | XP: 1944906/1894150** &nbsp;|&nbsp; ⚠️ **Masked (70%), Portent: 4/4 | Rank #3 Minor God | Leverage: +25**
@@ -5717,8 +6219,11 @@ The state is stable. You are simply in a high-power divine tier where milestones
 God Mode:
 Ok jus do my level up to 42 and auto pick stufd
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Deity Bran Stark | HP: 1011/1011 | Gold: 1,500,000gp | XP: 1944906/2228140** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, MASK REPAIRED (70%), Lesser Deity | Portent: 4/4 | Leverage: +34**
@@ -5748,8 +6253,11 @@ All stats are now synced to the Lesser Deity tier. The story remains paused at t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene as a Rank #4 Lesser Deity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Deity Bran Stark | HP: 1011/1011 | Gold: 1,500,000gp | XP: 1944906/2228140** &nbsp;|&nbsp; ⚠️ **Crippled, Foresight, Old Gods' Aegis, Masked (70%), Lesser Deity | Portent: 4/4 | Leverage: +34**
@@ -5780,8 +6288,11 @@ DISSONANCE: [███████░░░░░] 70%
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Communion with the Old Gods - Request that the Old Gods grant you a portion of their 'World-Memory' to increase your Divine Rank to #5.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Intermediate Deity Bran Stark (Lvl 43 available) | HP: 1011/1011 | XP: 2444906/2519692** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-L9 Full | Portent: 4/4 | Divine Leverage: +35 | Dissonance: 77%** &nbsp;|&nbsp; ⚠️ **Masked (77%), Portent: 4/4 | Rank #5 Intermediate Deity | Leverage: +35**
@@ -5819,8 +6330,11 @@ DISSONANCE: [████████░░░░] 77%
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 43 - Integrate your new Rank #5 power, updating your Divine Bonus to +5 and unlocking Intermediate Deity features.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 42 Lesser Deity Bran Stark (Lvl 43 available) | HP: 1011/1011 | Gold: 1,500,000gp | XP: 2444906/2519692** &nbsp;|&nbsp; ✨ **HD: 37/37 | Spells: L1-L9 Full | Portent: 4/4 | Divine Leverage: +35 | Dissonance: 77%** &nbsp;|&nbsp; ⚠️ **Masked (77%), Portent: 4/4 | Rank #5 Intermediate Deity | Leverage: +35**
@@ -5841,8 +6355,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:40)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate Deity Bran Stark | HP: 1079/1079 | Gold: 1,500,000gp | XP: 2444906/2519692** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-L9 Full, L10 4/4, L11 2/2 | Portent: 4/4 | Divine Leverage: +36 | Dissonance: 77%** &nbsp;|&nbsp; ⚠️ **Masked (77%), Portent: 4/4 | Rank #5 Intermediate Deity | Leverage: +36**
@@ -5856,8 +6373,11 @@ However, the Logic Flare you emitted during the ascension has left a lingering e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scry the Red Vanguard - Use your 72 Wisdom to pierce the volcanic mists surrounding R'hllor's fleet and identify their exact landing point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate Deity Bran Stark | HP: 1079/1079 | Gold: 1,500,000gp | XP: 2477682/2512865** &nbsp;|&nbsp; ✨ **HD: 43/43 | Spells: L1-L9 Full, L10 4/4, L11 2/2 | Portent: 4/4 | Divine Leverage: +36 | Dissonance: 80%** &nbsp;|&nbsp; ⚠️ **Masked (80%), Portent: 4/4 | Rank #5 Intermediate Deity | Leverage: +36**
@@ -5890,8 +6410,11 @@ DISSONANCE: [████████░░░░] 80%
 God Mode:
 How can we make this god war mechanically interesting? Are we following faction management? Brainstorm some fun mechanic s
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Far North - The White Eye** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate Deity Bran Stark | HP: 1079/1079 | XP: 2477682/2512865** &nbsp;|&nbsp; ⚠️ **Masked (80%), Portent: 4/4 | Rank #5 Intermediate Deity | Leverage: +36**
@@ -5927,8 +6450,11 @@ To make this conflict mechanically distinct from standard D&D combat, I propose 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene at the White Eye with the new Divine War mechanics active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Far North - The White Eye / Winterfell** &nbsp;|&nbsp; ⏳ **5 30, 302 AC (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 43 Intermediate Deity Bran Stark | HP: 1079/1079 | Gold: 1,500,000gp | XP: 2477682/2512865** &nbsp;|&nbsp; ⚠️ **Masked (77%), Portent: 4/4 | Rank #5 Intermediate Deity | Leverage: +36**
@@ -5955,6 +6481,8 @@ DISSONANCE: [████████░░░░] 77%
   > STATUS: Investigation (Logic Flare detected by R'hllor)
   > VIBE: Screaming (The substrate is vibrating)
 =========================================
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

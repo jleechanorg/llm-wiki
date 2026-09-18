@@ -12,69 +12,83 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🗺️ Scene Index & Timeline
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
-| **02** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Social Challenge |
-| **03** | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Roleplay |
-| **04** | Oakhaven Village - Northern Watchtower | Kythorn 25, 1495 DR (23:30) | Roleplay |
-| **05** | Crossroad Guild-Hall | Kythorn 30, 1492 DR (08:00) | Roleplay |
-| **06** | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Social Challenge |
-| **07** | Iron Crag Fortress - Great Hall | Kythorn 31, 1495 DR (14:00) | Roleplay |
-| **08** | Iron Crag Fortress - Great Hall | Flamerule 7, 1495 DR (10:00) | Boss Surrender |
-| **09** | Crossroad - Mayor Silas's Manor | Flamerule 29, 1492 DR (19:15) | Roleplay |
-| **10** | Crossroad - Mayor Silas's Manor | Flamerule 29, 1495 DR (19:20) | Roleplay |
-| **11** | Aglarond Borderlands - The Shattered Thicket | Flamerule 29, 1495 DR (20:10) | Roleplay |
-| **12** | Aglarond Borderlands - The Shattered Thicket | Flamerule 29, 1495 DR (20:15) | Social Challenge |
-| **13** | The Iron Crag - High Command Chamber | Uktar 1, 1495 DR (10:22) | Boss Surrender |
-| **14** | Shattered Thicket - Eastern Frontier | Uktar 1, 1495 DR (14:40) | Social Challenge |
-| **15** | The Shattered Thicket | Uktar 5, 1495 DR (06:00) | Roleplay |
-| **16** | The Iron Crag | Kythorn 21, 1495 DR (00:00) | Roleplay |
-| **17** | The Iron Crag (High Command Chamber) | Kythorn 21, 1495 DR (00:10) | Social Challenge |
-| **18** | The Obsidian Outpost | Kythorn 21, 1495 DR (00:15) | Roleplay |
-| **19** | Plateau Foothills (Gorge) | Kythorn 21, 1495 DR (05:25) | Roleplay |
-| **20** | The Obsidian Spire | Flamerule 15, 1495 DR (23:05) | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | High Command Chamber | Uktar 5, 1495 DR (12:00) | Social Challenge |
-| **23** | The Vault of Erasure | Uktar 5, 1495 DR (12:20) | Roleplay |
-| **24** | The Vault of Erasure | Uktar 5, 1495 DR (12:25) | Roleplay |
-| **25** | High Command Chamber | Uktar 26, 1495 DR (13:00) | Roleplay |
-| **26** | High Command Chamber | Uktar 26, 1495 DR (13:30) | Social Challenge |
-| **27** | Forward Observation Post | Uktar 30, 1495 DR (16:45) | Social Challenge |
-| **28** | Forward Observation Post | Uktar 30, 1495 DR (16:45) | Roleplay |
-| **29** | Whispering Chasm | Uktar 30, 1495 DR (17:55) | Roleplay |
-| **30** | High Command Chamber | Nightal 1, 1495 DR (00:30) | Social Challenge |
-| **31** | High Command Chamber | Nightal 1, 1495 DR (00:55) | Roleplay |
-| **32** | High Command Chamber | Nightal 1, 1495 DR (00:55) | Roleplay |
-| **33** | Necropolis of Eltabbar | Mirtul 17, 1496 DR (12:00) | Roleplay |
-| **34** | Merchant District | Mirtul 25, 1496 DR (15:00) | Social Challenge |
-| **35** | Merchant District | Mirtul 25, 1496 DR (15:15) | Social Challenge |
-| **36** | The Vault of Erasure | Mirtul 25, 1496 DR (16:00) | Social Challenge |
-| **37** | The High Command Chamber | Kythorn 1, 1496 DR (12:00) | Roleplay |
-| **38** | The High Command Chamber | Kythorn 1, 1496 DR (13:45) | Roleplay |
-| **39** | Obsidian Spire | Marpenoth 1, 1496 DR (12:00) | Social Challenge |
-| **40** | Obsidian Spire | Marpenoth 1, 1496 DR (14:15) | Roleplay |
-| **41** | Obsidian Spire | Marpenoth 1, 1496 DR (14:15) | Roleplay |
-| **42** | Obsidian Spire | Marpenoth 1, 1496 DR (15:30) | Roleplay |
-| **43** | The Star-Gazer Circle | Marpenoth 1, 1496 DR (18:30) | Roleplay |
-| **44** | The Star-Gazer Circle | Marpenoth 1, 1496 DR (18:30) | Boss Surrender |
-| **45** | The Shimmering Court | Mirtul 10, 1496 DR (22:25) | Roleplay |
-| **46** | The Gilded Spire | Mirtul 10, 1496 DR (22:50) | Roleplay |
-| **47** | Maintenance Shafts | Mirtul 10, 1496 DR (22:52) | Roleplay |
-| **48** | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:10) | Social Challenge |
-| **49** | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:25) | Social Challenge |
-| **50** | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:50) | Roleplay |
-| **51** | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:50) | Roleplay |
-| **52** | Seventh Fang Manor | Uktar 16, 1496 DR (12:00) | Roleplay |
-| **53** | Seventh Fang Manor | Uktar 24, 1496 DR (11:00) | Roleplay |
+- [🗺️ Scene Index & Timeline (53 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Social Challenge |
+| [**Scene 03**](#scene-3) | Abandoned Temple of Myrkul | Kythorn 20, 1495 DR (09:05) | Roleplay |
+| [**Scene 04**](#scene-4) | Oakhaven Village - Northern Watchtower | Kythorn 25, 1495 DR (23:30) | Roleplay |
+| [**Scene 05**](#scene-5) | Crossroad Guild-Hall | Kythorn 30, 1492 DR (08:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Crossroad Guild-Hall | Kythorn 30, 1495 DR (10:15) | Social Challenge |
+| [**Scene 07**](#scene-7) | Iron Crag Fortress - Great Hall | Kythorn 31, 1495 DR (14:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Iron Crag Fortress - Great Hall | Flamerule 7, 1495 DR (10:00) | Boss Surrender |
+| [**Scene 09**](#scene-9) | Crossroad - Mayor Silas's Manor | Flamerule 29, 1492 DR (19:15) | Roleplay |
+| [**Scene 10**](#scene-10) | Crossroad - Mayor Silas's Manor | Flamerule 29, 1495 DR (19:20) | Roleplay |
+| [**Scene 11**](#scene-11) | Aglarond Borderlands - The Shattered Thicket | Flamerule 29, 1495 DR (20:10) | Roleplay |
+| [**Scene 12**](#scene-12) | Aglarond Borderlands - The Shattered Thicket | Flamerule 29, 1495 DR (20:15) | Social Challenge |
+| [**Scene 13**](#scene-13) | The Iron Crag - High Command Chamber | Uktar 1, 1495 DR (10:22) | Boss Surrender |
+| [**Scene 14**](#scene-14) | Shattered Thicket - Eastern Frontier | Uktar 1, 1495 DR (14:40) | Social Challenge |
+| [**Scene 15**](#scene-15) | The Shattered Thicket | Uktar 5, 1495 DR (06:00) | Roleplay |
+| [**Scene 16**](#scene-16) | The Iron Crag | Kythorn 21, 1495 DR (00:00) | Roleplay |
+| [**Scene 17**](#scene-17) | The Iron Crag (High Command Chamber) | Kythorn 21, 1495 DR (00:10) | Social Challenge |
+| [**Scene 18**](#scene-18) | The Obsidian Outpost | Kythorn 21, 1495 DR (00:15) | Roleplay |
+| [**Scene 19**](#scene-19) | Plateau Foothills (Gorge) | Kythorn 21, 1495 DR (05:25) | Roleplay |
+| [**Scene 20**](#scene-20) | The Obsidian Spire | Flamerule 15, 1495 DR (23:05) | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | High Command Chamber | Uktar 5, 1495 DR (12:00) | Social Challenge |
+| [**Scene 23**](#scene-23) | The Vault of Erasure | Uktar 5, 1495 DR (12:20) | Roleplay |
+| [**Scene 24**](#scene-24) | The Vault of Erasure | Uktar 5, 1495 DR (12:25) | Roleplay |
+| [**Scene 25**](#scene-25) | High Command Chamber | Uktar 26, 1495 DR (13:00) | Roleplay |
+| [**Scene 26**](#scene-26) | High Command Chamber | Uktar 26, 1495 DR (13:30) | Social Challenge |
+| [**Scene 27**](#scene-27) | Forward Observation Post | Uktar 30, 1495 DR (16:45) | Social Challenge |
+| [**Scene 28**](#scene-28) | Forward Observation Post | Uktar 30, 1495 DR (16:45) | Roleplay |
+| [**Scene 29**](#scene-29) | Whispering Chasm | Uktar 30, 1495 DR (17:55) | Roleplay |
+| [**Scene 30**](#scene-30) | High Command Chamber | Nightal 1, 1495 DR (00:30) | Social Challenge |
+| [**Scene 31**](#scene-31) | High Command Chamber | Nightal 1, 1495 DR (00:55) | Roleplay |
+| [**Scene 32**](#scene-32) | High Command Chamber | Nightal 1, 1495 DR (00:55) | Roleplay |
+| [**Scene 33**](#scene-33) | Necropolis of Eltabbar | Mirtul 17, 1496 DR (12:00) | Roleplay |
+| [**Scene 34**](#scene-34) | Merchant District | Mirtul 25, 1496 DR (15:00) | Social Challenge |
+| [**Scene 35**](#scene-35) | Merchant District | Mirtul 25, 1496 DR (15:15) | Social Challenge |
+| [**Scene 36**](#scene-36) | The Vault of Erasure | Mirtul 25, 1496 DR (16:00) | Social Challenge |
+| [**Scene 37**](#scene-37) | The High Command Chamber | Kythorn 1, 1496 DR (12:00) | Roleplay |
+| [**Scene 38**](#scene-38) | The High Command Chamber | Kythorn 1, 1496 DR (13:45) | Roleplay |
+| [**Scene 39**](#scene-39) | Obsidian Spire | Marpenoth 1, 1496 DR (12:00) | Social Challenge |
+| [**Scene 40**](#scene-40) | Obsidian Spire | Marpenoth 1, 1496 DR (14:15) | Roleplay |
+| [**Scene 41**](#scene-41) | Obsidian Spire | Marpenoth 1, 1496 DR (14:15) | Roleplay |
+| [**Scene 42**](#scene-42) | Obsidian Spire | Marpenoth 1, 1496 DR (15:30) | Roleplay |
+| [**Scene 43**](#scene-43) | The Star-Gazer Circle | Marpenoth 1, 1496 DR (18:30) | Roleplay |
+| [**Scene 44**](#scene-44) | The Star-Gazer Circle | Marpenoth 1, 1496 DR (18:30) | Boss Surrender |
+| [**Scene 45**](#scene-45) | The Shimmering Court | Mirtul 10, 1496 DR (22:25) | Roleplay |
+| [**Scene 46**](#scene-46) | The Gilded Spire | Mirtul 10, 1496 DR (22:50) | Roleplay |
+| [**Scene 47**](#scene-47) | Maintenance Shafts | Mirtul 10, 1496 DR (22:52) | Roleplay |
+| [**Scene 48**](#scene-48) | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:10) | Social Challenge |
+| [**Scene 49**](#scene-49) | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:25) | Social Challenge |
+| [**Scene 50**](#scene-50) | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:50) | Roleplay |
+| [**Scene 51**](#scene-51) | The Citadel of Szass Tam | Eleasias 15, 1496 DR (00:50) | Roleplay |
+| [**Scene 52**](#scene-52) | Seventh Fang Manor | Uktar 16, 1496 DR (12:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Seventh Fang Manor | Uktar 24, 1496 DR (11:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Mythic Surge: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -137,8 +151,11 @@ exported_from: "https://worldarchitect.ai"
 * **The Hook:** Vespera stands over Master Alchemist Varon. He was sent to poison her camp. Malakor has a blade ready. House Murkh's recovery squad is splashing through the marsh outside.
 * **The Action:** Varon spits blood: *"Nameless bastard... My House knows where you sleep. Kill me, and your men rot."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Abandoned Temple of Myrkul** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Mythic: 5/5, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -159,8 +176,11 @@ Varon’s gravelly defiance falters. His breathing hitches as the weight of your
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Abandoned Temple of Myrkul, Surmarsh** &nbsp;|&nbsp; ⏳ **Kythorn 20, 1495 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 750gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Mythic Power: 5/5 | Lay on Hands: 25/25 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -275,8 +295,11 @@ Other Notable Mechanics:
 	•	Quest rewards: Potions of Immolation, totems, artifacts for extra powers/summons (Dracolich scythe, Focus of the Lich King artillery, etc.).36
 For the absolute latest/full details (including exact numbers, interactions, or changelog), check the mod page directly (Nexus or mod.io), as it receives updates. Builds often emphasize melee with summons, soul management, and items like the Bone Staff or Reaper’s Embrace. It’s highly customizable with other mods (5e Spells, Animate Dead++, etc.). Enjoy commanding the dead! 🪦"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Oakhaven Village - Northern Watchtower** &nbsp;|&nbsp; ⏳ **Kythorn 25, 1495 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 1450gp | XP: 11050/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 1/2 | Lay on Hands: 25/25 | Essence: 0/9** &nbsp;|&nbsp; ⚠️ **Invisible (Concentration), Soul Shield (+0 AC) | Exhaustion: 0 | Inspiration: No**
@@ -305,8 +328,11 @@ Sergeant Harl (Lvl 3) emerges from the guardhouse across the way, lantern raised
 
 The Raven's Welcome - Utilize the hidden armory to equip your new thralls and set a lethal ambush for Korg's arrival."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 12500/14000** &nbsp;|&nbsp; ⚠️ **Soul Shield (+3 AC) | Exhaustion: 0 | Inspiration: No**
@@ -316,8 +342,11 @@ Administrative Summary: Character appearance update processed. Vespera Thul's ha
 God Mode:
 Assume I have medium armor mail good for stealth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Crossroad Guild-Hall** &nbsp;|&nbsp; ⏳ **Kythorn 30, 1495 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Onyx Shadow-Stalker | HP: 44/44 | Gold: 3450gp | XP: 12500/14000** &nbsp;|&nbsp; ✨ **L1 Spells: 4/4, L2 Spells: 1/2, Lay on Hands: 25/25, Essence: 7/9** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -363,8 +392,11 @@ Explain that necromancy is a diffrent kind of power but no less deadly or effedt
 
 Explain as long as they don’t betray me it’s fine. The iron king as an enemy so it’s different. Besides think about me. I am 16 and I killed the iron king someone everyone’s feared. When I’m grown up how powerful do you think will be and those in my army"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Iron Crag Fortress - Great Hall** &nbsp;|&nbsp; ⏳ **Kythorn 31, 1495 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Onyx Shadow-Stalker | HP: 52/52 | Gold: 9350gp | XP: 14300/23000**
@@ -391,8 +423,11 @@ Your total military strength is **84 units**, categorized as follows:
 - **Equipped:** The Midnight Razor (+2 Rapier), Onyx Shadow-Mail (+1 Medium), The Gaze of the Unseen (Monocle).
 - **Notable Loot:** Anti-Magic Rod, The King's Flail, Inquisitor's Supply Manifests, Gold-Washed Plate (Salvage).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Iron Crag Fortress - Great Hall** &nbsp;|&nbsp; ⏳ **Flamerule 7, 1495 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Onyx Shadow-Stalker | HP: 52/52 | Gold: 11,850gp | XP: 14300/23000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | Essence: 7/9 | Thralls: 1/4 (Iron King) | Lay on Hands: 30/30** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -422,8 +457,11 @@ A rhythmic splashing from the mountain path signals the return of your escort. H
 God Mode:
 Does eveyeone know I’m a thayan noble?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Crossroad - Mayor Silas's Manor** &nbsp;|&nbsp; ⏳ **Flamerule 29, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Onyx Shadow-Stalker | HP: 52/52 | Gold: 15,000gp | XP: 15800/23000**
@@ -449,8 +487,11 @@ To answer your query regarding who knows your true identity as a Thayan noble, h
 
 **Conclusion:** The name 'Thul' is known to the leaders, but the 'Paladin of Justice' mask is successfully filtering their interpretation of your intent. To most, you are a Thayan who chose 'Justice' over the Red Wizards.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Crossroad - Mayor Silas's Manor** &nbsp;|&nbsp; ⏳ **Flamerule 29, 1495 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Onyx Shadow-Stalker | HP: 52/52 | Gold: 17350gp | XP: 15800/23000**
@@ -465,8 +506,11 @@ Administrative recalibration of social mechanics complete:
 > 👤 **Player:**
 > *"THINK:What if we have elara blackmail Draven and force a meeting with him. He might just bring a small force or come himself since he thinks he just needs to take her back by force"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Aglarond Borderlands - The Shattered Thicket** &nbsp;|&nbsp; ⏳ **Flamerule 29, 1495 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Onyx Shadow-Stalker | HP: 52/52 | Gold: 17350gp | XP: 18300/23000** &nbsp;|&nbsp; ⚠️ **Soul Shield (+3 AC), Necrotic Armaments | Exhaustion: 0 | Inspiration: No**
@@ -482,8 +526,11 @@ Following your directive, I have recalculated the rewards for the tactical subju
 
 Your experience has been updated from 15,800 to 18,300. You are now 79.5% of the way to Level 7. The world remains frozen in the Shattered Thicket as you continue to sip Draven's willpower.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Aglarond Borderlands - The Shattered Thicket** &nbsp;|&nbsp; ⏳ **Flamerule 29, 1495 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Onyx Shadow-Stalker | HP: 52/52 | Gold: 14,850gp | XP: 18300/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/2, Essence: 9/11, Thralls: 1/4, Daily Income: +150gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -508,8 +555,11 @@ Draven’s eyes are wide, the pupils blown as the Aura of Enthrallment and your 
 > 👤 **Player:**
 > *"THINK:What if I let Malakor kill and i soul steal and resurrect"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Iron Crag - High Command Chamber** &nbsp;|&nbsp; ⏳ **Uktar 1, 1495 DR (10:22)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Onyx Shadow-Stalker | HP: 60/60 | Gold: 30,600gp | XP: 26525/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3 | Essence: 6/11 | Thralls: 4/4 | Net Income: +300gp/day** &nbsp;|&nbsp; ⚠️ **Aura of Enthrallment, Aura of Defilement | Exhaustion: 0 | Inspiration: No**
@@ -552,8 +602,11 @@ You slide the signet onto your finger, feeling the sudden, cold vacuum of its wa
 God Mode:
 If I have 10 high tier souls and I give them to father do I lose my spell DC?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Shattered Thicket - Eastern Frontier** &nbsp;|&nbsp; ⏳ **Uktar 1, 1495 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Onyx Shadow-Stalker | HP: 68/68 | Gold: 40600gp | XP: 34375/34000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40, Essence: 6/12** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -584,8 +637,11 @@ Sovereign Indoctrination - Use the retreat time to personally break Valerius's r
 
 Let’s time skip for a few days and keep rolling to plan it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Shattered Thicket** &nbsp;|&nbsp; ⏳ **Uktar 5, 1495 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Onyx Shadow-Stalker (Paladin) | HP: 68/68 | XP: 35500/48000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3 | Sovereign Decree: 0/1 | Lay On Hands Pool: 35/35**
@@ -597,8 +653,11 @@ Intelligence Check: 19 vs DC 10 — Success. Your methodical mind (INT 15) parse
 
 Narrate joint strike on cache. Assume i am wearing a mask and elven armor and my men the same. Use the iron bound men so they aren’t thayans. I’ll look like a human auxiliary for the elves."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Iron Crag** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1495 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Onyx Shadow-Stalker (Paladin) | HP: 68/68 | XP: 35500/48000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3 | Sovereign Decree: 0/1 | Lay On Hands Pool: 35/35**
@@ -612,8 +671,11 @@ FIRST SENTENCE: God mode NEVER advances the narrative; the story is frozen while
 - **Status Audit:** Your Level 8 status, 400-unit Legion, and the 'Reformers Secret' alliance with Aglarond are all preserved as the primary campaign state.
 - **Correction Persisted:** A core memory correction has been added to invalidate the Surmarsh regression and anchor the Steel Border/Aglarond arc as the true path.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Iron Crag (High Command Chamber)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1495 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Onyx Shadow-Stalker | HP: 68/68 | Gold: 37,700gp | XP: 35500/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Essence: 6/12 | Daily Income: +500gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -635,8 +697,11 @@ You offer a thin, intoxicating smile, the ruby in your Sovereign's Sigil (Lvl 8)
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Obsidian Outpost** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1495 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Onyx Shadow-Stalker (Paladin) | HP: 68/68 | XP: 35500/48000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3 | Sovereign Decree: 0/1 | Lay On Hands Pool: 35/35**
@@ -648,8 +713,11 @@ Intelligence Check: 19 vs DC 10 — Success. Your methodical intelligence (INT 1
 
 Delegate execute defsctor and focus on interrogating my brother. Threaten to broadcast his naked humiliation to thay to make him talk. He should fear that more than death with his ego"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Plateau Foothills (Gorge)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1495 DR (05:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Onyx Shadow-Stalker | HP: 68/68 | Gold: 38,250gp | XP: 35500/48000** &nbsp;|&nbsp; ✨ **Essence: 6/12, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35** &nbsp;|&nbsp; ⚠️ **Aura of Defilement, Aura of Enthrallment | Exhaustion: 0 | Inspiration: No**
@@ -697,8 +765,11 @@ Narrate sex scene Julian Thorne and his mistress. Let’s assume we had three so
 God Mode:
 Wait I thought only had one anchor? Where is the netherse anchor and what is it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Obsidian Spire, High Solar** &nbsp;|&nbsp; ⏳ **Flamerule 15, 1495 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Onyx Shadow-Stalker (Paladin) | HP: 96/96 | XP: 70500/100000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L1 4/4, L2 3/3, L2 3/3, L3 3/3, L3 3/3, L4 0/0 | Sovereign Decree: 1/1 | Lay On Hands Pool: 60/60**
@@ -714,8 +785,11 @@ Level set to 12. Done.
 - XP: 70,500 / 100,000 (to next level)
 - Target Level: 13
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/0 | Sovereign Decree: 1/1 | Lay on Hands: 60/60 | Sovereign Essence: 8/12**
@@ -749,8 +823,11 @@ Order Julian to clean me off and put on my real thayan noble clothes and fetch m
 
 Mass indoctrination and soul steal a few more so it looks like the battle was catastrophic. See if jaheira can be turned to my side interrogate her too."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **High Command Chamber, Obsidian Spire (Thay)** &nbsp;|&nbsp; ⏳ **Uktar 5, 1495 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker | HP: 96/96 (Temp: 24) | Gold: 104,950gp | XP: 107750/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Essence: 10/13 | Void-Sap: 221/500** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -776,8 +853,11 @@ You glide toward the descent-lift, the silver-streaked black of your hair rippli
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Vault of Erasure, Obsidian Spire (Thay)** &nbsp;|&nbsp; ⏳ **Uktar 5, 1495 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker (Paladin) | HP: 96/96 | Gold: 121750gp | XP: 112750/120000** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/0 | Sovereign Decree: 1/1 | Lay On Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -797,8 +877,11 @@ Jaheira’s jaw works with a slow, agonizing effort, her breath a dry rattle aga
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Vault of Erasure, Obsidian Spire (Thay)** &nbsp;|&nbsp; ⏳ **Uktar 5, 1495 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker (Paladin) | HP: 96/96 (Temp: 24) | Gold: 121,750gp | XP: 112750/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Sovereign Decree: 1/1 | Lay On Hands: 60/60 | Essences: 14/15** &nbsp;|&nbsp; ⚠️ **Sovereign's Mandate (Adv CHA) | Exhaustion: 0 | Inspiration: No**
@@ -822,8 +905,11 @@ You offer a slow, geometric smile, your violet eyes reflecting the total victory
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **High Command Chamber, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Uktar 26, 1495 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker | HP: 96/96 (Temp: 24) | Gold: 138,550gp | XP: 113750/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sovereign Decree: 1/1 | Lay on Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Sovereign's Mandate | Exhaustion: 0 | Inspiration: No**
@@ -840,8 +926,11 @@ Magister Zass leans in, his eyes wide. "I have the financial vectors, Sovereign.
 
 Your Council is unified in one truth: Nevron is a variable that cannot be reasoned with, only manipulated or bypassed. The math of the third harvest is becoming clear.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **High Command Chamber, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Uktar 26, 1495 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker (Paladin) | HP: 96/96 (Temp: 24) | Gold: 138,550gp | XP: 113750/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sovereign Decree: 1/1 | Lay On Hands: 60/60** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -865,8 +954,11 @@ Julian Thorne (Lvl 13) glances at you, his hand tightening on his blade. He sees
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Forward Observation Post, Sword Mountains Underdark** &nbsp;|&nbsp; ⏳ **Uktar 30, 1495 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker (Paladin) | HP: 96/96 (Temp: 24) | Gold: 138,550gp | XP: 113750/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3 | Lay on Hands: 60/60 | Sovereign Decree: 1/1 | Essences: 14/15** &nbsp;|&nbsp; ⚠️ **Sovereign's Mandate, Aura of Defilement | Exhaustion: 0 | Inspiration: No**
@@ -890,8 +982,11 @@ Malakor the Silent (Lvl 6) manifests from the indigo gloom like a stain of ink, 
 God Mode:
 Am i no longer gaining exp I didn’t get this? 113750/120000
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Forward Observation Post, Sword Mountains Underdark** &nbsp;|&nbsp; ⏳ **Uktar 30, 1495 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker (Paladin) | HP: 96/96 | Gold: 138,550 | XP: 115000/120000** &nbsp;|&nbsp; ⚠️ **Obsidian Heart-Plate, Sovereign's Mandate | Essence: 14/15**
@@ -920,8 +1015,11 @@ I have updated your state to reflect these gains. The story remains frozen at th
 
 total liquidation, frame it as harpers attacked the drow, only leave harper survivors and ensure all hearper survivors are black harpers or converts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Whispering Chasm, Sword Mountains Underdark** &nbsp;|&nbsp; ⏳ **Uktar 30, 1495 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Onyx Shadow-Stalker (Paladin) | HP: 96/96 (Temp: 24) | Gold: 138,550gp | XP: 116250/120000** &nbsp;|&nbsp; ⚠️ **Obsidian Heart-Plate active | Exhaustion: 0 | Inspiration: No**
@@ -950,8 +1048,11 @@ You walk the perimeter, the metal of your boots clicking against the blood-slick
 > 👤 **Player:**
 > *"maintain the ritual and focus on diverting zulkdir nevron"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **High Command Chamber, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Onyx Shadow-Stalker (Paladin) | HP: 104/104 (Temp: 24) | Gold: 138,550gp | XP: 128250/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sovereign Decree: 1/1 | Lay On Hands: 65/65 | Soul Essence: 15/15** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -974,8 +1075,11 @@ Outside, the shadow-pulse you transmitted through the Sovereign's Sigil has succ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manufacture Internal 'Sabotage' - Order a minor explosion in the lower fonts to make the 'accident' more believable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **High Command Chamber, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Onyx Shadow-Stalker (Paladin) | HP: 104/104 (Temp: 24) | Gold: 138,550gp | XP: 135750/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Lay on Hands: 65/65 | Sovereign Decree: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign's Mandate (Advantage CHA) | Exhaustion: 0 | Inspiration: Yes**
@@ -998,8 +1102,11 @@ enable faction management if not already enabeld but lets flavor it for thayan l
 God Mode:
 remember we have the steel border western area, worldwide spies, black harpers, and all the holdings from my thay holdings, former thalric, and my father
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **High Command Chamber, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Nightal 1, 1495 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Onyx Shadow-Stalker | HP: 112/112 (Temp: 24) | Gold: 221850gp | XP: 140000/175000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1047,8 +1154,11 @@ The Shadow Singularity (Synergistic Parallel) - Delegate the Sorn provocation to
 God Mode:
 Why is this a failure 1d20+5 = 20 vs DC 16 - Failure (Sovereign Synthesis Progress (Vespera INT))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Necropolis of Eltabbar** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1496 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Exarch | HP: 112/112 (Temp: 28) | Gold: 571,850gp | XP: 143500/175000** &nbsp;|&nbsp; ⚠️ **Void-Touch (Resist Poison/Necrotic) | Exhaustion: 0 | Inspiration: Yes**
@@ -1074,8 +1184,11 @@ You gain **3,000 XP** for the successful heist of a Zulkir's Soul-Anchor.
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Merchant District, Eltabbar** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1496 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Exarch | HP: 112/112 (Temp: 24) | Gold: 671,850gp | XP: 145500/175000** &nbsp;|&nbsp; ⚠️ **Void-Touch (Res: Poison/Necrotic) | Exhaustion: 0 | Inspiration: Yes**
@@ -1106,8 +1219,11 @@ You gain 500 XP (Slowed) for the successful execution of the Sovereign Pincer.
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Casket - Offer Vane a 'cure' for his addiction—a specialized Void-Sap frequency that will stabilize his mind while binding his soul to your service as a Dread-General.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Merchant District, Eltabbar** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1496 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Onyx Shadow-Stalker | HP: 112/112 (Temp: 24) | Gold: 671850gp | XP: 146000/175000** &nbsp;|&nbsp; ⚠️ **Void-Touch: Res(Necrotic/Poison) | Exhaustion: 0 | Inspiration: No**
@@ -1129,8 +1245,11 @@ He looks up at you, no longer a paranoiac chief of security, but a hollowed icon
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Vault of Erasure, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1496 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Exarch | HP: 112/112 (Temp: 12) | Gold: 671,850gp | XP: 146750/175000** &nbsp;|&nbsp; ⚠️ **Void-Touch (Resist Poison/Necrotic) | Exhaustion: 0 | Inspiration: No**
@@ -1165,8 +1284,11 @@ isnt jaheira level 14?
 
 convene war council and invite father for his guidance too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The High Command Chamber, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1496 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sovereign of the Abyssal Grave (Full Caster Gestalt) | HP: 136/136 | XP: 226000/265000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1 | Lay On Hands Pool: 65/65 | Sovereign Decree: 1/1**
@@ -1183,16 +1305,22 @@ All state updates have been applied to ensure your retinue's mechanical weight m
 > 👤 **Player:**
 > *"The Heresy Protocol - Direct Jaheira and the Black Harpers to plant evidence of an alliance between Zulkir Aznar Thrul and the elven Silver Shields within Sorn's divination pools."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The High Command Chamber, Obsidian Spire** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1496 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sovereign | HP: 136/136 | Gold: 2,316,850gp | XP: 226000/265000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
 
 Intelligence Check: 19 vs DC 14 — Success. Your methodical mind filters the Star-Gazer Circle's ward-cadence through your Lvl 17 strategic interface, identifying the exact threshold where your personal Abyssal frequency can bypass their 'Silver-Sight' sensors.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Obsidian Spire, Eltabbar** &nbsp;|&nbsp; ⏳ **Marpenoth 1, 1496 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sovereign of the Abyssal Grave | HP: 136/136 (Temp: 12) | Gold: 6,866,850gp | XP: 243000/265000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: Yes**
@@ -1219,8 +1347,11 @@ Beside you, Jaheira (Lvl 15) adjusts the strategic markers, her emerald eyes ref
 > 👤 **Player:**
 > *"gather reports from all elite spies and plan next steps with father and council"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Obsidian Spire, Eltabbar** &nbsp;|&nbsp; ⏳ **Marpenoth 1, 1496 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sovereign | HP: 136/136 | Gold: 6,866,850 | XP: 243000/265000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
@@ -1232,16 +1363,22 @@ Intelligence Check: 19 vs DC 14 — Success. (Margin: +5, Sharp Tier). Your cold
 
 THINK:You :THINK:: THINK:Can I have thrul pointed to one of my enemies and have them attack each other and then cleanup generals in a surgical strike? how strong are my forces versus theirs? i want them all distriacted and then get the commanders alone ideally, how many are tehre and ho feasible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Obsidian Spire, Eltabbar** &nbsp;|&nbsp; ⏳ **Marpenoth 1, 1496 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sovereign | HP: 136/136 | Gold: 6,866,850gp | XP: 243000/265000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
 
 Intelligence Check: 20 vs DC 17 — Success. (INT 15) Your mind works through the problem methodically, weighing each option with practiced logic. The DC 17 reflected the complexity of kingdom-scale military manipulation.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Obsidian Spire, Eltabbar** &nbsp;|&nbsp; ⏳ **Marpenoth 1, 1496 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sovereign of the Abyssal Grave | HP: 136/136 (Temp: 12) | Gold: 6,916,850gp | XP: 245000/265000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
@@ -1301,8 +1438,11 @@ APEX ATTENTION: [Hidden]
 
 Force the Blood-Oath - Utilize the silver quill and your Abyssal Majesty to bind Sorn's soul before she recovers her intuition."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Star-Gazer Circle, Eltabbar** &nbsp;|&nbsp; ⏳ **Marpenoth 1, 1496 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Sovereign | HP: 136/136 (Temp: 12) | Gold: 12,032,850gp | XP: 265750/265000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
@@ -1315,8 +1455,11 @@ As you draw the frequency into your own marrow, the Abyssal salt in your blood v
 
 Would you like to level up now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Star-Gazer Circle, Eltabbar** &nbsp;|&nbsp; ⏳ **Marpenoth 1, 1496 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Sovereign | HP: 144/144 | Gold: 12,032,850gp | XP: 265750/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1 | Essence: 19 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
@@ -1336,8 +1479,11 @@ Outside, the Merchant District remains a storm of manufactured Dragonborn fire a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Consolidation (Synergistic) - You search the archives while Vane integrates the Bulwark and Julian prunes the witnesses—total control of the aftermath.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Shimmering Court, Eltabbar** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1496 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Sovereign | HP: 144/144 (Temp: 12) | Gold: 12,532,850gp | XP: 268850/305000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1 | Lay on Hands: 65/65 | Essence: 19/25** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
@@ -1359,8 +1505,11 @@ Mythrellaa (Lvl 20) staggers, her hand clutching the narrow gap in her illusory 
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Gilded Spire, Eltabbar** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1496 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Sovereign of the Abyssal Grave | HP: 144/144 (Temp: 12) | Gold: 13,332,850gp | XP: 272100/305000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
@@ -1390,8 +1539,11 @@ APEX ATTENTION: [Hidden]
   > VIBE: The air feels... Charged
 =========================================
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Maintenance Shafts, The Gilded Spire, Eltabbar** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1496 DR (22:52)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Sovereign of the Abyssal Grave | HP: 144/144 (Temp: 12) | Gold: 13,332,850 | XP: 272100/305000** &nbsp;|&nbsp; ✨ **Essence: 18, Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: No**
@@ -1409,8 +1561,11 @@ The internal maintenance arteries of the Gilded Spire are a labyrinth of cold st
 > 👤 **Player:**
 > *"sovereign execution and steal his soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Citadel of Szass Tam, Eltabbar** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1496 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign of the Abyssal Grave | HP: 160/160 | Gold: 15,833,285gp | XP: 356500/405000** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 1/1, L7 1/1, L8 1/1, L9 2/2 | Soul Essence: 0/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Presence, Sovereign Immortality | Exhaustion: 0 | Inspiration: Yes**
@@ -1437,8 +1592,11 @@ He chokes, his jaw clicking shut as he fights the final collapse of his bunker. 
 
 You gain **1,500 XP** (Paced/Slowed) for the successful application of the Divine Domination protocol.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Citadel of Szass Tam, Eltabbar** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1496 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Sovereign | HP: 160/160 (Temp: 12) | Gold: 15,833,285gp | XP: 358000/405000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: Yes**
@@ -1462,8 +1620,11 @@ You perceive the geometric truth of his revelation—the coordinates are precise
 
 
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **The Citadel of Szass Tam, Eltabbar** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1496 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Quasi-Deity | HP: 208/208 | Gold: 15,833,285gp | XP: 501050/705000** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Dissonance: 100% (Mask Shattered)**
@@ -1488,8 +1649,11 @@ I agree; a Rank #1 World Power and Quasi-Deity who has consumed Szass Tam deserv
 God Mode:
 shuld i get a few more +5 items? also i feel like the spells i gained arent super great?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **The Citadel of Szass Tam, Eltabbar** &nbsp;|&nbsp; ⏳ **Eleasias 15, 1496 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Sovereign of the Abyssal Grave (Full Caster Gestalt) | HP: 208/208 | XP: 470000/705000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/3, L6 1/1, L7 1/1, L8 1/1, L9 2/2, L10 1/1 | Lay On Hands Pool: 65/65 | Sovereign Decree: 1/1**
@@ -1530,8 +1694,11 @@ give me the levels of vlakiith and zariel in canon
 God Mode:
 make sure glibness, foresight, and simulcrum always active. assume i just cast them every day
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Seventh Fang Manor, Steel Border** &nbsp;|&nbsp; ⏳ **Uktar 16, 1496 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Sovereign | HP: 208/208 (Temp: 12) | Gold: 20,433,285gp | XP: 471000/705000** &nbsp;|&nbsp; ⚠️ **Layer 1 Mask (Lvl 12) | Exhaustion: 0 | Inspiration: Yes**
@@ -1552,8 +1719,11 @@ no, i am silver baron not the daughter of the lich. redo this scene and stop for
 
 The Curated Tour - Lead Torvin through Crossroad, ensuring he meets only 'reformed' citizens who praise your leadership."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Seventh Fang Manor, Steel Border** &nbsp;|&nbsp; ⏳ **Uktar 24, 1496 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Sovereign | HP: 208/208 | Gold: 20,433,285gp | XP: 472000/705000** &nbsp;|&nbsp; ✨ **Essence: 15/12 (Overflow), Sovereign Essence: 30, Spells: L9 2/2, L10 1/1, Command: 1/1, HD: 25/25** &nbsp;|&nbsp; ⚠️ **Undying Transcendence, Sovereign Immortality | Exhaustion: 0 | Inspiration: Yes**
@@ -1573,6 +1743,8 @@ Let’s assume Gale turned evil and is Demi god of ambition. Heronparty is gathe
 
 God Mode:
 Make sure all the bg3 playable characters are accounted for like halsin minthara dark urge and we have at least 3-4 god ones. Also change my character and make me more grey morally and less black and white. Perhaps the environment I grew up in was kill or be killed and only my sister cassandra supported me.  Make up some potential backstories for me . Also make gale level 30
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

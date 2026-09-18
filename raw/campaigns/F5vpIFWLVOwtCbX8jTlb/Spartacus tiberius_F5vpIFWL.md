@@ -12,100 +12,116 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (79 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Tiberius | Setting: Spartacus TV show STARs. Last season. I wanna play as Tiberius the son of Marcus crassus. Make everything like the tv show
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Unknown | Unknown | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown | , DR (12:00) | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown | , DR (12:00) | Roleplay |
-| **07** | Unknown | , DR (12:00) | Roleplay |
-| **08** | Unknown | , DR (12:00) | Roleplay |
-| **09** | Unknown | , DR (12:00) | Roleplay |
-| **10** | Unknown | , DR (12:00) | Roleplay |
-| **11** | Unknown | , DR (12:00) | Roleplay |
-| **12** | Sinuessa en Pitta - Overlooking the Docks | Late Autumn, 72 BC (17:30) | Skill Check / Combat |
-| **13** | Sinuessa en Pitta - Docks | October 15, 1492 DR (17:35) | Skill Check / Combat |
-| **14** | Sinuessa en Pitta - Overlooking the Docks | October 15, -72 BC (17:35) | Roleplay |
-| **15** | Sinuessa en Pitta - Overlooking the Docks | October 15, -72 DR (17:35) | Skill Check / Combat |
-| **16** | Sinuessa en Pitta - Docks | October 15, -72 BC (17:35) | Skill Check / Combat |
-| **17** | Unknown | October 15, -72 DR (17:35) | Roleplay |
-| **18** | Unknown | October 15, -72 DR (17:35) | Roleplay |
-| **19** | Sinuessa en Pitta - Overlooking the Docks | October 15, -72 BC (17:35) | Skill Check / Combat |
-| **20** | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:50) | Skill Check / Combat |
-| **21** | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:55) | Skill Check / Combat |
-| **22** | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:50) | Roleplay |
-| **23** | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:55) | Skill Check / Combat |
-| **24** | Crassus's Command Villa - Sinuessa Outskirts | October 15, -72 DR (21:00) | Skill Check / Combat |
-| **25** | Crassus's Command Tent - Sinuessa Outskirts | -72 October 15, 21:15:00 | Roleplay |
-| **26** | Unknown | October 15, -72 DR (21:15) | Roleplay |
-| **27** | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BC (21:20) | Skill Check / Combat |
-| **28** | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 DR (21:25) | Skill Check / Combat |
-| **29** | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BC (21:25) | Roleplay |
-| **30** | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BCE (21:25) | Roleplay |
-| **31** | Unknown | October 15, -72 DR (21:25) | Roleplay |
-| **32** | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BCE (21:25) | Skill Check / Combat |
-| **33** | Sinuessa en Pitta - The Docks | October 15, 72 BC (21:55) | Roleplay |
-| **34** | Sinuessa en Pitta - The Docks | -72 October 15, 21:55:00 | Skill Check / Combat |
-| **35** | Sinuessa en Pitta - The Docks | 15, -72 Oct (22:15) | Skill Check / Combat |
-| **36** | Sinuessa en Pitta - The Docks | October 15, -72 BC (22:15) | Skill Check / Combat |
-| **37** | Sinuessa en Pitta - The Docks | October 15, -72 DR (22:25) | Skill Check / Combat |
-| **38** | Sinuessa en Pitta - The Docks | 15, -72 October (23:00) | Skill Check / Combat |
-| **39** | Sinuessa en Pitta - The Docks | 15, -72 October (23:10) | Skill Check / Combat |
-| **40** | Sinuessa en Pitta - The Docks (Heracleo's Flagship) | October 15, -72 DR (23:25) | Skill Check / Combat |
-| **41** | Sinuessa en Pitta - Heracleo's Flagship | October 15, -72 DR (23:40) | Skill Check / Combat |
-| **42** | Unknown | October 15, -72 DR (23:40) | Roleplay |
-| **43** | Sinuessa en Pitta - Heracleo's Flagship | -72 October 15, 23:55:00 | Skill Check / Combat |
-| **44** | Command Tent of Marcus Crassus | October 16, -72 BC (00:15) | Skill Check / Combat |
-| **45** | Command Tent of Marcus Crassus | October 16, -72 BCE (00:20) | Skill Check / Combat |
-| **46** | Command Tent of Marcus Crassus | October 16, -72 DR (00:25) | Skill Check / Combat |
-| **47** | Unknown | October 16, -72 DR (00:25) | Roleplay |
-| **48** | Command Tent of Marcus Crassus | October 16, -72 DR (00:30) | Skill Check / Combat |
-| **49** | Secondary Shoreline Landing Point | -72 October 16, 01:15:00 | Skill Check / Combat |
-| **50** | Command Tent | October 16, -72 BC (01:45) | Skill Check / Combat |
-| **51** | Command Tent | -72 October 16, 02:00:00 | Skill Check / Combat |
-| **52** | The Gorgon's Breath - Docks | October 16, -72 DR (02:15) | Skill Check / Combat |
-| **53** | The Gorgon's Breath - Docks | -72 October 16, 02:15:00 | Skill Check / Combat |
-| **54** | The Gorgon's Breath - Docks | -72 October 16, 02:25:00 | Skill Check / Combat |
-| **55** | The Gorgon's Breath - Docks | -72 October 16, 02:25:00 | Skill Check / Combat |
-| **56** | Command Tent - Roman Camp | 16, -72 Oct (03:05) | Skill Check / Combat |
-| **57** | Command Tent - Roman Camp | -72 October 16, 04:05:00 | Skill Check / Combat |
-| **58** | Command Tent / Shoreline Lookout | -72 October 16, 04:15:00 | Skill Check / Combat |
-| **59** | Sinuessa Cliffs / Tunnel Entrance | October 16, -72 DR (04:30) | Skill Check / Combat |
-| **60** | Sinuessa Cliffs / Northern Bluff | October 16, -72 DR (04:35) | Skill Check / Combat |
-| **61** | Unknown | October 16, -72 DR (04:35) | Roleplay |
-| **62** | Unknown | October 16, -72 DR (04:35) | Roleplay |
-| **63** | Sinuessa Cliffs / Northern Bluff | October 16, -72 BC (04:35) | Skill Check / Combat |
-| **64** | Sinuessa Cliffs / Northern Bluff | October 16, -72 DR (04:35) | Skill Check / Combat |
-| **65** | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 04:50:11 | Skill Check / Combat |
-| **66** | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 05:05:11 | Skill Check / Combat |
-| **67** | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 DR (05:05) | Skill Check / Combat |
-| **68** | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 AC (05:05) | Skill Check / Combat |
-| **69** | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 05:05:29 | Skill Check / Combat |
-| **70** | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 05:05:35 | Skill Check / Combat |
-| **71** | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 AC (05:05) | Skill Check / Combat |
-| **72** | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 DR (05:05) | Skill Check / Combat |
-| **73** | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 DR (05:05) | Skill Check / Combat |
-| **74** | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 Oct (05:15) | Skill Check / Combat |
-| **75** | Alleys near the Southern Gate | -72 October 16, 05:25:47 | Skill Check / Combat |
-| **76** | Alleys near the Southern Gate | October 16, -72 BC (05:25) | Roleplay |
-| **77** | Unknown | October 16, -72 DR (05:25) | Roleplay |
-| **78** | Alleys near the Southern Gate | October 16, -72 DR (05:25) | Skill Check / Combat |
-| **79** | Alleys near the Southern Gate | 16, -72 October (05:30) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown | Unknown | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown | , DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown | , DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown | , DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown | , DR (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown | , DR (12:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown | , DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown | , DR (12:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Sinuessa en Pitta - Overlooking the Docks | Late Autumn, 72 BC (17:30) | Skill Check / Combat |
+| [**Scene 13**](#scene-13) | Sinuessa en Pitta - Docks | October 15, 1492 DR (17:35) | Skill Check / Combat |
+| [**Scene 14**](#scene-14) | Sinuessa en Pitta - Overlooking the Docks | October 15, -72 BC (17:35) | Roleplay |
+| [**Scene 15**](#scene-15) | Sinuessa en Pitta - Overlooking the Docks | October 15, -72 DR (17:35) | Skill Check / Combat |
+| [**Scene 16**](#scene-16) | Sinuessa en Pitta - Docks | October 15, -72 BC (17:35) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | Unknown | October 15, -72 DR (17:35) | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown | October 15, -72 DR (17:35) | Roleplay |
+| [**Scene 19**](#scene-19) | Sinuessa en Pitta - Overlooking the Docks | October 15, -72 BC (17:35) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:50) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:55) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:50) | Roleplay |
+| [**Scene 23**](#scene-23) | Sinuessa en Pitta - Southern Shoreline | October 15, -72 DR (17:55) | Skill Check / Combat |
+| [**Scene 24**](#scene-24) | Crassus's Command Villa - Sinuessa Outskirts | October 15, -72 DR (21:00) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | Crassus's Command Tent - Sinuessa Outskirts | -72 October 15, 21:15:00 | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown | October 15, -72 DR (21:15) | Roleplay |
+| [**Scene 27**](#scene-27) | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BC (21:20) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 DR (21:25) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BC (21:25) | Roleplay |
+| [**Scene 30**](#scene-30) | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BCE (21:25) | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown | October 15, -72 DR (21:25) | Roleplay |
+| [**Scene 32**](#scene-32) | Crassus's Command Tent - Sinuessa Outskirts | October 15, -72 BCE (21:25) | Skill Check / Combat |
+| [**Scene 33**](#scene-33) | Sinuessa en Pitta - The Docks | October 15, 72 BC (21:55) | Roleplay |
+| [**Scene 34**](#scene-34) | Sinuessa en Pitta - The Docks | -72 October 15, 21:55:00 | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | Sinuessa en Pitta - The Docks | 15, -72 Oct (22:15) | Skill Check / Combat |
+| [**Scene 36**](#scene-36) | Sinuessa en Pitta - The Docks | October 15, -72 BC (22:15) | Skill Check / Combat |
+| [**Scene 37**](#scene-37) | Sinuessa en Pitta - The Docks | October 15, -72 DR (22:25) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | Sinuessa en Pitta - The Docks | 15, -72 October (23:00) | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | Sinuessa en Pitta - The Docks | 15, -72 October (23:10) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | Sinuessa en Pitta - The Docks (Heracleo's Flagship) | October 15, -72 DR (23:25) | Skill Check / Combat |
+| [**Scene 41**](#scene-41) | Sinuessa en Pitta - Heracleo's Flagship | October 15, -72 DR (23:40) | Skill Check / Combat |
+| [**Scene 42**](#scene-42) | Unknown | October 15, -72 DR (23:40) | Roleplay |
+| [**Scene 43**](#scene-43) | Sinuessa en Pitta - Heracleo's Flagship | -72 October 15, 23:55:00 | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | Command Tent of Marcus Crassus | October 16, -72 BC (00:15) | Skill Check / Combat |
+| [**Scene 45**](#scene-45) | Command Tent of Marcus Crassus | October 16, -72 BCE (00:20) | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | Command Tent of Marcus Crassus | October 16, -72 DR (00:25) | Skill Check / Combat |
+| [**Scene 47**](#scene-47) | Unknown | October 16, -72 DR (00:25) | Roleplay |
+| [**Scene 48**](#scene-48) | Command Tent of Marcus Crassus | October 16, -72 DR (00:30) | Skill Check / Combat |
+| [**Scene 49**](#scene-49) | Secondary Shoreline Landing Point | -72 October 16, 01:15:00 | Skill Check / Combat |
+| [**Scene 50**](#scene-50) | Command Tent | October 16, -72 BC (01:45) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | Command Tent | -72 October 16, 02:00:00 | Skill Check / Combat |
+| [**Scene 52**](#scene-52) | The Gorgon's Breath - Docks | October 16, -72 DR (02:15) | Skill Check / Combat |
+| [**Scene 53**](#scene-53) | The Gorgon's Breath - Docks | -72 October 16, 02:15:00 | Skill Check / Combat |
+| [**Scene 54**](#scene-54) | The Gorgon's Breath - Docks | -72 October 16, 02:25:00 | Skill Check / Combat |
+| [**Scene 55**](#scene-55) | The Gorgon's Breath - Docks | -72 October 16, 02:25:00 | Skill Check / Combat |
+| [**Scene 56**](#scene-56) | Command Tent - Roman Camp | 16, -72 Oct (03:05) | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | Command Tent - Roman Camp | -72 October 16, 04:05:00 | Skill Check / Combat |
+| [**Scene 58**](#scene-58) | Command Tent / Shoreline Lookout | -72 October 16, 04:15:00 | Skill Check / Combat |
+| [**Scene 59**](#scene-59) | Sinuessa Cliffs / Tunnel Entrance | October 16, -72 DR (04:30) | Skill Check / Combat |
+| [**Scene 60**](#scene-60) | Sinuessa Cliffs / Northern Bluff | October 16, -72 DR (04:35) | Skill Check / Combat |
+| [**Scene 61**](#scene-61) | Unknown | October 16, -72 DR (04:35) | Roleplay |
+| [**Scene 62**](#scene-62) | Unknown | October 16, -72 DR (04:35) | Roleplay |
+| [**Scene 63**](#scene-63) | Sinuessa Cliffs / Northern Bluff | October 16, -72 BC (04:35) | Skill Check / Combat |
+| [**Scene 64**](#scene-64) | Sinuessa Cliffs / Northern Bluff | October 16, -72 DR (04:35) | Skill Check / Combat |
+| [**Scene 65**](#scene-65) | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 04:50:11 | Skill Check / Combat |
+| [**Scene 66**](#scene-66) | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 05:05:11 | Skill Check / Combat |
+| [**Scene 67**](#scene-67) | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 DR (05:05) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 AC (05:05) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 05:05:29 | Skill Check / Combat |
+| [**Scene 70**](#scene-70) | Sinuessa en Pitta - Southern Gate Interior | -72 October 16, 05:05:35 | Skill Check / Combat |
+| [**Scene 71**](#scene-71) | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 AC (05:05) | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 DR (05:05) | Skill Check / Combat |
+| [**Scene 73**](#scene-73) | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 DR (05:05) | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | Sinuessa en Pitta - Southern Gate Interior | October 16, -72 Oct (05:15) | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | Alleys near the Southern Gate | -72 October 16, 05:25:47 | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | Alleys near the Southern Gate | October 16, -72 BC (05:25) | Roleplay |
+| [**Scene 77**](#scene-77) | Unknown | October 16, -72 DR (05:25) | Roleplay |
+| [**Scene 78**](#scene-78) | Alleys near the Southern Gate | October 16, -72 DR (05:25) | Skill Check / Combat |
+| [**Scene 79**](#scene-79) | Alleys near the Southern Gate | 16, -72 October (05:30) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > ✨ **Resources: HD: N/A | Spells: N/A | Exhaustion: 0**
@@ -131,8 +147,11 @@ I've pre-set your name in the character data. To proceed, choose a creation meth
 > [!NOTE] ⚙️ **Player Choice:**
 > *3. Custom Class/Full Control - Tell me your vision: custom class (e.g., Roman Legate, Scheming Patrician), exact stats, multiclass, or homebrew. I&#x27;ll build to D&amp;D 5e rules while fitting Spartacus vibe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 3 Custom (Pending)** &nbsp;|&nbsp; ✨ **None**
@@ -161,8 +180,11 @@ Once built, we'll review equipment/spells/personality, then launch!
 > 👤 **Player:**
 > *"how about a modified paladin in low magic setting?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > ✨ **Resources: HD 0/3 | No spell slots (Low Magic) | Lay on Hands: 15/15**
@@ -201,8 +223,11 @@ AI Personalities: narrative, mechanics
 > 👤 **Player:**
 > *"make me a dex based paladin, 16 cha, 16 dex, 14 con, sprad out the rest."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -241,8 +266,11 @@ AI Personalities: narrative, mechanics
 > 👤 **Player:**
 > *"he doesnt fight in the arena and to be clear this is tiberius and not spartcus the chracter"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -276,8 +304,11 @@ AI Personalities: narrative, mechanics
 > 👤 **Player:**
 > *"give me some special themes/abilities/mechanics for this campaign vs standard paladin and show me level progression up to 30. I want my aura to help AC and saving throws too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -317,8 +348,11 @@ Understood. To fully realize **Tiberius** as the ruthless, commanding heir of Cr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Add Expertise - Since he is a schemer, add Expertise in Deception or Persuasion to reflect Crassus&#x27;s tutelage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -354,8 +388,11 @@ We have the machine built. Now, let's breathe life into the man. Tell me about h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Define Personality Traits - Describe Tiberius&#x27;s specific behaviors, like his ruthless ambition or his need for his father&#x27;s approval.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -384,8 +421,11 @@ How do these traits sit with you? Should we lean harder into his **resentment of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept and Review - Proceed to the final character review before starting the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -399,8 +439,11 @@ Here is the final profile of your character. Review his capabilities and equipme
 > [!NOTE] ⚙️ **Player Choice:**
 > *Define Bonds &amp; Flaws - What ties him to Rome/Crassus? What is his &#x27;fatal flaw&#x27;—hubris, cruelty, or impulsiveness?*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -422,8 +465,11 @@ However, your fatal flaw is your greatest enemy. Your **Hubris** makes you blind
 > 👤 **Player:**
 > *"lets remove my hubris, make me sadistic, cruel, but also charmisatic and intelligent. I wanna be smarter than the TV show tiberius, and insecure for my fathers approval"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -445,8 +491,11 @@ Your **Cruelty** is now a sharpened tool, manifesting as a **Sadistic** streak u
 > 👤 **Player:**
 > *"start adventure and lets make the first scene where I'm scouting the gladitors and the pirates doing their deal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Sinuessa en Pitta - Overlooking the Docks** &nbsp;|&nbsp; ⏳ **Late Autumn, 72 BC (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp**
@@ -464,8 +513,11 @@ You watch with a sadistic smirk. The rebels think themselves clever, bartering w
 > 👤 **Player:**
 > *"have my main force stand further back so they aren't alerted and keep a small elite detachment who are stealth firendly and sabinus to keep observing. letes have all our armor be stealth friendly too assume we did that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Sinuessa en Pitta - Docks** &nbsp;|&nbsp; ⏳ **October 15, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Smites: 3/3, Lay on Hands: 15/15, Potions: 5**
@@ -499,8 +551,11 @@ lay on hands	15/15
   • Lay On Hands: 15/15
   • Divine Smite Uses: 3/3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Sinuessa en Pitta - Overlooking the Docks** &nbsp;|&nbsp; ⏳ **October 15, -72 BC (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Modified) | HP: 28/28 | XP: 900/2700 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **Stealthy, Observing | Exhaustion: 0 | Inspiration: No**
@@ -523,8 +578,11 @@ Your character data is perfectly synced with these values.
 > 👤 **Player:**
 > *"THINK:i already know where the rebels are located, whats the advantage of tailing vs leaing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Sinuessa en Pitta - Overlooking the Docks** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Modified Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **Stealthy, Cloaked | Exhaustion: 0 | Inspiration: No**
@@ -536,8 +594,11 @@ You narrow your eyes as you watch the exchange below, your mind working through 
 God Mode:
 give me the same or similar but weaker abilities a paladin normally has, except insteda of spells call them somthing else. ie. i still want bless etc, just no dps spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Sinuessa en Pitta - Docks** &nbsp;|&nbsp; ⏳ **October 15, -72 BC (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **Cloaked (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -551,8 +612,11 @@ Sabinus shifts beside you, his presence a silent reminder of the authority you w
 God Mode:
 stop advancing the narrative. clarify my spells and abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -582,8 +646,11 @@ Your character data has been updated to reflect these 'Shouts' while maintaining
 God Mode:
 ok thats good and always show the original ability side by side so i remember what they are
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -597,8 +664,11 @@ Your character's 'Aura of Roman Discipline' is also tracked and will automatical
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the observation of the docks at Sinuessa en Pitta. Heracleo and the rebels are still concluding their transaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Sinuessa en Pitta - Overlooking the Docks** &nbsp;|&nbsp; ⏳ **October 15, -72 BC (17:35)** &nbsp;|&nbsp; 🛡️ **Tiberius (Lvl 3) Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5 | Exhaustion: 0**
@@ -614,8 +684,11 @@ Heracleo barks a laugh, slapping the Thracian on the shoulder. 'Tell your master
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tail the Skiff - Follow the rebel boat from the shoreline to identify their specific landing point and storage site.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Sinuessa en Pitta - Southern Shoreline** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -633,8 +706,11 @@ A cold, sadistic thrill courses through you. They have not just built a nest; th
 God Mode:
 make this more nuanced A cold, sadistic thrill courses through you. They have not just built a nest; they have built a tomb. By identifying this exact location, you have the means to seal them in or burn them out at your leisure. You take note of a secondary path winding down from the upper villas—a backdoor into their sanctuary that they likely believe is secure. The intelligence is complete; Marcus Crassus will find no fault in his son's vision tonight.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Sinuessa en Pitta - Southern Shoreline** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5**
@@ -651,8 +727,11 @@ Your gaze shifts upward, tracing the jagged logic of the cliffside to the second
 God Mode:
 dont advance narrative. i mean in the narrative describe my sadism more nuanced not so obvious
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Sinuessa en Pitta - Southern Shoreline** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1150/2700 | Gold: 250gp**
@@ -670,8 +749,11 @@ Understood. I have refined the narrative approach for Tiberius's personality. Go
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the observation of the sea cave with the newly refined, nuanced personality for Tiberius.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Sinuessa en Pitta - Southern Shoreline** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1150/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5** &nbsp;|&nbsp; ⚠️ **Hidden | Exhaustion: 0 | Inspiration: No**
@@ -687,8 +769,11 @@ Sabinus (Lvl 3) watches you, his eyes searching your face for the expected order
 > 👤 **Player:**
 > *"exit and report all the intel to crassus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Crassus's Command Villa - Sinuessa Outskirts** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -705,8 +790,11 @@ Inside, Marcus Crassus (Lvl 15) sits surrounded by maps and ledgers, the flicker
 > 👤 **Player:**
 > *"narrate his dialog. he should be happy with the intel and that i followed orders unlike the show. also he should be in a command tent, not a villa"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Crassus's Command Tent - Sinuessa Outskirts** &nbsp;|&nbsp; ⏳ **-72 October 15, 21:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5**
@@ -734,8 +822,11 @@ lay on hands	15/15
   • Lay On Hands: 15/15
   • Divine Smite Uses: 3/3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -745,8 +836,11 @@ I have updated your class resources to reflect the 'Legion's Vindicator' (Modifi
 God Mode:
 lets not have my deciding what to do overall. my father should decide and give me orders/proposals and ask for my opinion but if i needto change orders i need to persuade him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Crassus's Command Tent - Sinuessa Outskirts** &nbsp;|&nbsp; ⏳ **October 15, -72 BC (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **Crassus's Favor | Exhaustion: 0 | Inspiration: No**
@@ -764,8 +858,11 @@ You feel the weight of his question. Your father has laid out a path of economic
 > 👤 **Player:**
 > *"suggest crassus personally go and convince the pirate to betray spartacus. its a key aspect of the plan and crassus personally doing it will ensure it works. then i can prepare for a two pronged attack. We have elite roman soldiers inside the pirate ship (like on the tv show) and they rendevouswith julius caesar. Then in parallel i lead an elite stealth team into those same tunnels i scouted and try to get the gate open. Our main force can be on standby to enter if gate opens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Crassus's Command Tent - Sinuessa Outskirts** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **Crassus's Favor (Wavering) | Exhaustion: 0 | Inspiration: No**
@@ -783,8 +880,11 @@ He looks back at you, his sadistic intellect now directed toward your own pride.
 God Mode:
 His reaction seems ab it uncharacteristic vs the tv show? in the real tv show did he negotiate personally with the pirae?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Crassus's Command Tent - Sinuessa Outskirts** &nbsp;|&nbsp; ⏳ **October 15, -72 BC (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp**
@@ -806,8 +906,11 @@ Crassus in the show is a master of using his status as a tool. While he *did* ne
 God Mode:
 keep the roll failed thats fine, but make the narrative more closely resemble the tv show. in the tv show he doesnt feel the need to reassert dominance and the plan i said is already similar to his real plan. make him act more in character for example he might just say I'm already thinking that way, but I would do it later, and i want you to do XYZ instead vs rejecting it as a "stupid" plan when its his actual TV show plan. let mek now if you understand
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Crassus's Command Tent - Sinuessa Outskirts** &nbsp;|&nbsp; ⏳ **October 15, -72 BCE (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp**
@@ -821,8 +924,11 @@ I have updated the DM Notes and character directives to ensure his personality r
 God Mode:
 in the tv show would he send his son?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -841,8 +947,11 @@ He isn't rejecting your 'Caesar in the cargo' or 'tunnel infiltration' ideas—h
 > 👤 **Player:**
 > *"ok resume story and redo the scene where he's acting more in character. he should like the plan actually but since my roll failed he'll adjust it vs just accepting it etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Crassus's Command Tent - Sinuessa Outskirts** &nbsp;|&nbsp; ⏳ **October 15, -72 BCE (21:25)** &nbsp;|&nbsp; 🛡️ **Tiberius (Lvl 3) | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -860,8 +969,11 @@ He stands, towering over the map table. 'I will meet with Heracleo, but on my te
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Task with Grace - Agree to his terms immediately, gathering 500gp from the treasury to meet Heracleo (Lvl 5) at the docks under the cover of night.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Sinuessa en Pitta - The Docks** &nbsp;|&nbsp; ⏳ **October 15, 72 BC (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Vindicator) | HP: 28/28 | XP: 1400/2700 | Gold: 240gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5**
@@ -879,8 +991,11 @@ You do not take offense; his words are merely a variable to be discarded. You al
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer a &#x27;Partnership&#x27; (Persuasion) - Frame the bribe not as a one-time payment, but as the beginning of a lucrative relationship with the future masters of Rome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Sinuessa en Pitta - The Docks** &nbsp;|&nbsp; ⏳ **-72 October 15, 21:55:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp (Personal) | 500gp (Bribe)** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5**
@@ -900,8 +1015,11 @@ Heracleo's jagged grin falters, replaced by a look of genuine, greedy contemplat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Introduce the &#x27;Cargo&#x27; - Hint that a special shipment (Caesar and the elite detachment) will be arriving soon and must be handled with &#x27;special care.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Sinuessa en Pitta - The Docks** &nbsp;|&nbsp; ⏳ **15, -72 Oct (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0**
@@ -919,8 +1037,11 @@ Heracleo’s eyes narrow, the greed momentarily flickering into a sharp, animal 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Crassus Wealth - Remind him that whatever the &#x27;risk&#x27; he perceives, the Crassus family can pay for its solution tenfold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Sinuessa en Pitta - The Docks** &nbsp;|&nbsp; ⏳ **October 15, -72 BC (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0**
@@ -942,8 +1063,11 @@ Heracleo exhales a long, ragged breath, the tension in his shoulders beginning t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Blockade Confirmation - Ensure his fleet is ready to cut the rebels off from the sea once the signal is given.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Sinuessa en Pitta - The Docks** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -971,8 +1095,11 @@ You gain **150 XP** for successfully securing the blockade commitment.
 > 👤 **Player:**
 > *"do small talk for 30 min, and talk about the wealth of my family etc to get him excited and have a drink with him to make him like me, then finalize tunnel signals and the roman elite ambush once its 23:00 and i can reduce his social hp again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Sinuessa en Pitta - The Docks** &nbsp;|&nbsp; ⏳ **15, -72 October (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1700/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0**
@@ -989,8 +1116,11 @@ However, as you delve into the precise timing of the flare and the handoff of Ca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reiterate Tactical Signals - Force him to repeat the signals back to you until they are burned into his mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Sinuessa en Pitta - The Docks** &nbsp;|&nbsp; ⏳ **15, -72 October (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1020,8 +1150,11 @@ The pirate is yours. Sinuessa's harbor is now a cage, and you hold the key.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Fleet - Board Heracleo&#x27;s flagship to personally scout the &#x27;cargo&#x27; storage areas before Caesar&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Sinuessa en Pitta - The Docks (Heracleo's Flagship)** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1039,8 +1172,11 @@ Behind a false bulkhead of spice crates and amphorae, you identify a space large
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Fleet - Board Heracleo&#x27;s flagship to personally scout the &#x27;cargo&#x27; storage areas before Caesar&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Sinuessa en Pitta - Heracleo's Flagship** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5/5**
@@ -1060,8 +1196,11 @@ You run a gloved hand along the rough-hewn beam, feeling the ship's vibration. T
 God Mode:
 Don't advance narrative. Let's assume I have a good relationship with Caesar since I'm smart unlike in the tv show
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 15, -72 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -1071,8 +1210,11 @@ Understood. I have updated the campaign state to reflect your high-intelligence,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the hold of the Gorgon&#x27;s Breath, where you have just finished your inspection and are ready to finalize the &#x27;cargo&#x27; arrival with your new ally Caesar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Sinuessa en Pitta - Heracleo's Flagship** &nbsp;|&nbsp; ⏳ **-72 October 15, 23:55:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0**
@@ -1092,8 +1234,11 @@ You feel the bond of mutual competence between yourself and Caesar across the di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report to Crassus - Exit the docks and return to the Command Tent to finalize the timeline for the two-pronged assault with your father.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Command Tent of Marcus Crassus** &nbsp;|&nbsp; ⏳ **October 16, -72 BC (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1111,8 +1256,11 @@ Crassus nods, a thin, predatory smile touching his lips. 'Then the first stone i
 God Mode:
 lets assume caesar is already in the city, like on the tv show, and he will help the ambush
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Command Tent of Marcus Crassus** &nbsp;|&nbsp; ⏳ **October 16, -72 BCE (00:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1128,8 +1276,11 @@ Crassus (Lvl 15) offers a slow, measured nod of approval. 'Then the lion is alre
 > 👤 **Player:**
 > *"crassus should compliment me on securing the pirate bribe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Command Tent of Marcus Crassus** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1147,8 +1298,11 @@ You take the cup, feeling the weight of the silver and the subtle, intoxicating 
 God Mode:
 i think his father did treat him warmly at times? dont make this cookie cutter, make crassus exactly like tv show
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -1160,8 +1314,11 @@ I have added a directive to ensure this balance is maintained: Crassus will show
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the briefing in the Command Tent, where Crassus&#x27;s praise for your success with Heracleo carries a more authentic paternal weight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Command Tent of Marcus Crassus** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0**
@@ -1177,8 +1334,11 @@ You feel the intoxicating heat of his validation, a sensation more potent than t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rendezvous with Caesar - Travel to the secondary landing point to meet Caesar (Lvl 8) and finalize the &#x27;cargo&#x27; boarding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Secondary Shoreline Landing Point** &nbsp;|&nbsp; ⏳ **-72 October 16, 01:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **Stealth-Friendly Armor | Exhaustion: 0**
@@ -1199,8 +1359,11 @@ You attempt to read the man (Insight: 3), seeking some sign of the legendary ego
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Assault Prep - Return briefly to the camp to verify the readiness of the main force and take a moment of rest before the dawn breach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Command Tent, Roman Camp** &nbsp;|&nbsp; ⏳ **October 16, -72 BC (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2100/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0**
@@ -1220,8 +1383,11 @@ You feel a quiet, sadistic satisfaction as you take the cup. The intelligence is
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Elite Wedge - Personally inspect every blade and strap of the scouts who will enter the tunnels, asserting your authority and ensuring perfection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Command Tent, Roman Camp** &nbsp;|&nbsp; ⏳ **-72 October 16, 02:00:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2200/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **Stealth-Friendly Armor | Exhaustion: 0 | Inspiration: No**
@@ -1237,8 +1403,11 @@ You move from man to man, your fingers tracing the edges of their gladii and the
 > 👤 **Player:**
 > *"Execute Secret Boarding Drill - Force a small group of your scouts to practice entering the hidden hold while the pirates watch, ensuring the &#x27;lion&#x27;s strike&#x27; is flawless."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **The Gorgon's Breath - Docks** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2200/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1255,8 +1424,11 @@ Sabinus (Lvl 3) and the four scouts move with a terrifying, ghost-like efficienc
 > 👤 **Player:**
 > *"THINK:pros/cons of punishing insolence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **The Gorgon's Breath - Docks** &nbsp;|&nbsp; ⏳ **-72 October 16, 02:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2200/2700 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1270,8 +1442,11 @@ You stand on the salt-slicked deck of the *Gorgon's Breath*, your eyes tracking 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Punish the Insolence - Select the loudest pirate for a &#x27;demonstration&#x27; of Roman justice to ensure total silence during the actual ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The Gorgon's Breath - Docks** &nbsp;|&nbsp; ⏳ **-72 October 16, 02:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2200/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, HD: 3/3**
@@ -1287,8 +1462,11 @@ You intend to make an example of him, to show these mongrels that Roman iron is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lictor&#x27;s Decree (Command) - Use your authority to force the loudest pirate to grovel, reasserting Roman dominance through a direct order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The Gorgon's Breath - Docks** &nbsp;|&nbsp; ⏳ **-72 October 16, 02:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2200/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 2/3, Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1308,8 +1486,11 @@ There is a nuanced, sadistic pleasure in the absolute stillness that follows. Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Command Tent - Leave the ship in its state of terrified compliance and return to your father to signal readiness for the dawn strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Command Tent - Roman Camp** &nbsp;|&nbsp; ⏳ **16, -72 Oct (03:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2300/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 1/3, Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1327,8 +1508,11 @@ By the time you reach the Command Tent (03:05:00), the early morning air has tur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest and Meditate - Take a short rest to recover your focus and strength before the physical demands of the tunnel breach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Command Tent - Roman Camp** &nbsp;|&nbsp; ⏳ **-72 October 16, 04:05:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2300/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **Restless | Exhaustion: 0 | Inspiration: No**
@@ -1344,8 +1528,11 @@ Though your body remains still, your mind is already in the tunnels, tasting the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Signal to Caesar - Send a coded light signal toward the Gorgon&#x27;s Breath to ensure the Lion is ready to wake.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Command Tent / Shoreline Lookout** &nbsp;|&nbsp; ⏳ **-72 October 16, 04:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2300/2700 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Exhaustion: 0**
@@ -1363,8 +1550,11 @@ Far below, amidst the masts of the pirate fleet, a single pinprick of orange lig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Simultaneous Breach (Synergistic) - Direct Sabinus to the sea cave while you personally oversee the gate signal - hitting both points at once to overwhelm rebel sensors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Sinuessa Cliffs / Tunnel Entrance** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2500/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Stealth-Friendly Armor | Exhaustion: 0 | Inspiration: No**
@@ -1394,8 +1584,11 @@ Sabinus (Lvl 3) pauses at the mouth of the tunnel, adjusting the strap of his sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Command - Stay on the heights to direct the main cohorts into the breach as it opens, maximizing the tactical overview.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Sinuessa Cliffs / Northern Bluff** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2750/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1422,8 +1615,11 @@ If you continue adventuring, you remain Level 3 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 4 - Apply level 4 Paladin 3 (Modified Low-Magic DEX Variant) benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -1449,8 +1645,11 @@ If you continue adventuring, you remain Level 4 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *+2 Charisma - Increase CHA to 18. This improves your Persuasion/Intimidation (+8), Command DC (14), and prepares for a massive Aura of Discipline bonus at Level 6 (+4).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -1473,8 +1672,11 @@ Your rest is over, Tiberius. The city is bleeding, and the rebel on the heights 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lictor&#x27;s Decree (Command): &#x27;HALT!&#x27; - Use your newly enhanced authority (DC 14) to freeze the scout in his tracks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Sinuessa Cliffs / Northern Bluff** &nbsp;|&nbsp; ⏳ **October 16, -72 BC (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2750/6500 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1492,8 +1694,11 @@ Marcus Crassus (Lvl 15) watches from a few paces back, a faint, proud smile touc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silent Execution - Step forward and use your gladius to end him while he cannot resist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Sinuessa Cliffs / Northern Bluff** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2750/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Shouts: 2/3, Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1512,8 +1717,11 @@ Marcus Crassus (Lvl 15) watches the execution from the edge of the lamp-glow, hi
 > 👤 **Player:**
 > *"Descend to tunnels and have my father attack main gate once we open it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **-72 October 16, 04:50:11** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2900/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/4, Shouts: 2/3, Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Inspiration: No**
@@ -1542,8 +1750,11 @@ Through the gate's heavy slats, you see the silhouettes of your father's legiona
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defend and Force (Synergistic) - Sabinus holds the inner door while you personally force the lever - keeping the work area clear of distractions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **-72 October 16, 05:05:11** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2850/6500 | Gold: 260gp** &nbsp;|&nbsp; ✨ **HD: 3/4 | Shouts: 1/3 (Divine Smite/Spells) | Field Medicine: 15/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1566,8 +1777,11 @@ You gain **100 XP** for forcing the gate mechanism and securing the Roman breach
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Gatehouse - Help Sabinus eliminate the rebels pressing against the inner door to ensure the path remains clear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2850/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/4 | Shouts: 1/3 (Divine Smite/Spells) | Field Medicine: 15/15 | Exhaustion: 0**
@@ -1583,8 +1797,11 @@ The impact vibrates up your arm, and for a heartbeat, you are off-balance, your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lictor&#x27;s Decree: &#x27;FLEE!&#x27; - Use your Commanding Shout (Command) to shatter the will of the lead rebel, forcing him to turn and block his own reinforcements.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **October 16, -72 AC (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2850/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 3/4, Shouts: 0/3 (Lictor's Decree/Command), Field Medicine: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1602,8 +1819,11 @@ The lead rebel (Lvl 3), a man with a jagged scar across his throat, momentarily 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brute Force Recovery - Slam your own shield into the door alongside Sabinus, using your combined weight to crush the rebels in the doorway.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **-72 October 16, 05:05:29** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2850/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Shouts: 0/3, Lay on Hands: 15/15, Smites: 0/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1619,8 +1839,11 @@ Your shield hits the wood with a dull thud, but the momentum of the desperate re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Field Medicine (Lay on Hands) - Pour 10 HP of your medical pool into Sabinus&#x27;s straining muscles, effectively forcing his body to ignore the fatigue and hold the line.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **-72 October 16, 05:05:35** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2850/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Medicine Pool: 5/15, Shouts: 0/3, Smites: 0/3, HD: 4/4**
@@ -1638,8 +1861,11 @@ Sabinus's eyes clear, the glaze of fatigue vanishing as your 10-point infusion h
 > 👤 **Player:**
 > *"THINK:whats the best move"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **October 16, -72 AC (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2850/6500 | Gold: 250gp** &nbsp;|&nbsp; ⚠️ **Stressed | Exhaustion: 0 | Inspiration: No**
@@ -1653,8 +1879,11 @@ You pause, the roar of the rebels and the grinding of the gatehouse mechanism ec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Thrust - Signal Sabinus to drop low while you strike high, using the Roman &#x27;check-and-thrust&#x27; tactic to clear the immediate doorway.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 2850/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Shouts: 0/3 | Smites: 0/3 | Field Medicine: 5/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -1670,8 +1899,11 @@ Your blade flashes high, aiming for the exposed throat of the lead rebel (Lvl 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold the Gap - Lock shields with Sabinus to maintain the bottleneck, acting as the anchor for the arriving legionaries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (05:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 3000/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Shouts: 0/3 | Smites: 0/3 | Field Medicine: 5/15 | Exhaustion: 0**
@@ -1689,8 +1921,11 @@ Behind you, the tunnel erupts in a rhythmic, deafening clatter of hobnailed boot
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate with Caesar - Send a scout to the harbor to ensure the &#x27;Lion&#x27; is meeting the blockade as planned, maintaining your tactical overview.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Sinuessa en Pitta - Southern Gate Interior** &nbsp;|&nbsp; ⏳ **October 16, -72 Oct (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 3050/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Field Medicine: 5/15, Commanding Shouts: 0/3, Smites: 0/3** &nbsp;|&nbsp; ⚠️ **Out of Shouts/Smites | Exhaustion: 0 | Inspiration: No**
@@ -1708,8 +1943,11 @@ In the courtyard below, the screams of the rebels are shifting from defiance to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt Crixus - Utilize the elite scouts to track the movement of the &#x27;Gaul&#x27;s Wrath&#x27; unit, seeking a surgical strike against Crixus himself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Alleys near the Southern Gate** &nbsp;|&nbsp; ⏳ **-72 October 16, 05:25:47** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 3050/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **Field Medicine: 5/15, Shouts: 0/3, Smites: 0/3** &nbsp;|&nbsp; ⚠️ **Low Resources | Exhaustion: 0 | Inspiration: No**
@@ -1729,8 +1967,11 @@ A heavy paving stone crashes into the street inches from your boots, and a volle
 God Mode:
 Let's make Caesar level 12 and Spartacus level 13 and crixus level 12. Caesar should be similar in martial power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Alleys near the Southern Gate** &nbsp;|&nbsp; ⏳ **October 16, -72 BC (05:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | XP: 3050/6500 | Gold: 250gp**
@@ -1740,8 +1981,11 @@ Administrative update complete. The power levels of the primary campaign actors 
 God Mode:
 Let's make Caesar level 12 and Spartacus level 13 and crixus level 12. Caesar should be similar in martial power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (05:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin 3 (Modified Low-Magic DEX Variant)** &nbsp;|&nbsp; ✨ **None**
@@ -1758,8 +2002,11 @@ These changes ensure that Tiberius (Lvl 4) must rely on his charismatic intellig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the smoke-filled alleys where the rebels have just spotted you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Alleys near the Southern Gate** &nbsp;|&nbsp; ⏳ **October 16, -72 DR (05:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 30/36 | XP: 3050/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Shouts: 0/3 | Field Medicine: 5/15 | Smites: 0/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1776,8 +2023,11 @@ Sabinus (Lvl 3) roars a challenge, his shield locked with yours as the elite sco
 > [!NOTE] ⚙️ **Player Choice:**
 > *Phalanx Retreat - Order the scouts to lock shields in a tight turtle and move backward toward the Southern Gate, using discipline to weather the storm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Alleys near the Southern Gate** &nbsp;|&nbsp; ⏳ **16, -72 October (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 23/36 | XP: 3050/6500 | Gold: 250gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Shouts (Spell Slots): 0/3, Smite: 0/3, Field Medicine (Lay on Hands): 5/15** &nbsp;|&nbsp; ⚠️ **Wounded (Shoulder/Side) | Exhaustion: 0 | Inspiration: No**
@@ -1791,6 +2041,8 @@ Dawn (05:30:47) in the smoke-choked alleys near the Southern Gate—the architec
 As you navigate a narrow choke-point between two overhanging balconies, a jagged section of a fallen cart catches the rim of your shield. The formation stutters; for a lethal heartbeat, the Roman wall is breached. A rebel skirmisher (Lvl 3) on the heights seizes the fracture, hurling a rusted javelin with a guttural scream of vengeance. You attempt to shift your weight, but your previous shoulder wound slows your reaction. The iron point finds a gap in your Lorica Hamata (Scale Mail) at your side, a sharp, cold shock of piercing heat (7 damage) following the searing pain as it bites deep into Roman silk and flesh.
 
 "Dominus!" Sabinus (Lvl 3) bellows, his own shield taking a heavy paving stone that sends sparks flying into the mist. He lunges forward to close the gap, his gladius a blur of desperate defensive strikes. The elite wedge is being squeezed into the stone throat of the alley, the rebels pressing their advantage from above and below. The path to the Southern Gate is visible through the smoke—a sliver of silver light where the Vanguard (Lvl 5) is regrouping—but the perimeter of your life is shrinking with every frantic breath.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,19 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)
+- [🗺️ Scene Index & Timeline (38 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -60,6 +73,7 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 ---
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -125,6 +139,7 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="special-mechanics"></a>
 ## 🔮 Part III: Special Mechanics & Artifacts
 <details>
 <summary><b>Campaign Mechanics</b></summary>
@@ -171,54 +186,59 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Unknown |  | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | Unknown |  | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Unknown |  | Roleplay |
-| **12** | Unknown |  | Roleplay |
-| **13** | Unknown |  | Roleplay |
-| **14** | Unknown |  | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | Unknown |  | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | Unknown |  | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | Unknown |  | Roleplay |
-| **26** | Unknown |  | Roleplay |
-| **27** | Unknown |  | Roleplay |
-| **28** | Unknown |  | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | Unknown |  | Roleplay |
-| **31** | Unknown | , DR (00:00) | Roleplay |
-| **32** | Unknown | , DR (00:00) | Roleplay |
-| **33** | Unknown | , DR (00:00) | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | Unknown |  | Roleplay |
-| **37** | Unknown | , DR (00:00) | Roleplay |
-| **38** | Unknown |  | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Unknown |  | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown |  | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Unknown |  | Roleplay |
+| [**Scene 12**](#scene-12) | Unknown |  | Roleplay |
+| [**Scene 13**](#scene-13) | Unknown |  | Roleplay |
+| [**Scene 14**](#scene-14) | Unknown |  | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | Unknown |  | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | Unknown |  | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | Unknown |  | Roleplay |
+| [**Scene 26**](#scene-26) | Unknown |  | Roleplay |
+| [**Scene 27**](#scene-27) | Unknown |  | Roleplay |
+| [**Scene 28**](#scene-28) | Unknown |  | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 32**](#scene-32) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | Unknown |  | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Unknown |  | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12** &nbsp;|&nbsp; ✨ **None**
@@ -230,8 +250,11 @@ I have prepared your character profile based on the Imperial records. Please rev
 > 👤 **Player:**
 > *"probe action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -276,8 +299,11 @@ Greetings, Ser Arion. You stand ready to depart for your first mission in the se
 > 👤 **Player:**
 > *"probe action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 
@@ -310,8 +336,11 @@ Does this character reflect your vision, or should we refine your training and e
 > 👤 **Player:**
 > *"probe via form submit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 
@@ -344,8 +373,11 @@ Does this character reflect your vision, or should we refine your training and e
 > 👤 **Player:**
 > *"probe via form submit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -378,8 +410,11 @@ Does this character reflect your vision, or should we refine your training and e
 > 👤 **Player:**
 > *"probe with error capture"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 
@@ -419,8 +454,11 @@ Does this character reflect your vision, or should we refine your training and e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Start Adventure - Confirm and begin your journey.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -436,8 +474,11 @@ As the company crests the final ridge, you see the settlement: a sprawling, desp
 > 👤 **Player:**
 > *"Request a Parley - Ask Prefect Gratian for permission to ride ahead and demand Lady Annalise&#x27;s surrender before the main force engages."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -467,8 +508,11 @@ You spur your horse forward, leaving the disciplined line of the Eaglets behind.
 > 👤 **Player:**
 > *"Formal Demand - Address the refugees and the keep guards with Imperial authority, demanding immediate surrender to the Empress&#x27;s will."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 
@@ -500,8 +544,11 @@ A heavy silence follows. The refugees below the walkway shrink back, mothers pul
 > 👤 **Player:**
 > *"stream display json probe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -511,8 +558,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"stream raw-json probe 1770631465079"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 
@@ -528,8 +578,11 @@ Beyond the walls, you can see the silver cloaks of the Argent Eaglets on the rid
 > 👤 **Player:**
 > *"stream ui probe 1770631977617"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 
@@ -547,8 +600,11 @@ On the horizon, a silver flare catches the light. Gratian (Lvl 12) is signaling.
 > 👤 **Player:**
 > *"evidence-local-stream-1770632879407"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 
@@ -562,8 +618,11 @@ The parley continues under the shadow of the ridge, where the Argent Eaglets' si
 > 👤 **Player:**
 > *"beads-fix-local-1770633280288"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 
@@ -583,8 +642,11 @@ The twenty-minute window is closing. Every second spent in silence is a second c
 > 👤 **Player:**
 > *"full-proof-app-1770637088104"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 
@@ -594,8 +656,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"full-proof-app-1770637264502"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -605,8 +670,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"full-final-proof-1770637425340"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 
@@ -624,8 +692,11 @@ On the ridge, the silver line of the company begins to shift. They are mounting 
 > 👤 **Player:**
 > *"browser streaming test 1: scout ahead silently"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -643,8 +714,11 @@ On the ridge, the Argent Eaglets are no longer just mounting; they have formed i
 > 👤 **Player:**
 > *"browser validation action 1: scout the northern ridge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -674,8 +748,11 @@ Behind you, the refugees (Lvl 0) have realized the danger. The rhythmic thud of 
 > 👤 **Player:**
 > *"browser manual proof 1: scout north ridge and report"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 
@@ -703,8 +780,11 @@ Behind them, you spot the **Imperial Signalers** readying fire-pots. They don't 
 > 👤 **Player:**
 > *"browser manual proof 2: consult ally for tactical advicebrowser manual proof 3: advance and inspect trail markers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -734,8 +814,11 @@ You advance toward the inner perimeter, your gaze sweeping the slush-covered gro
 > 👤 **Player:**
 > *"browser strict proof 1: recon north gate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -753,8 +836,11 @@ The air is filled with the high-pitched screams of terrified horses and the deep
 > 👤 **Player:**
 > *"browser strict proof 2: brief allied scout"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -774,8 +860,11 @@ Prefect Gratian (Lvl 12) is now less than two hundred yards away. The first fire
 > 👤 **Player:**
 > *"browser strict proof 3: inspect trail marker"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -805,8 +894,11 @@ Prefect Gratian (Lvl 12) is now less than a hundred yards away. His black charge
 > 👤 **Player:**
 > *"browser strict3 proof 1 20260210T: recon north gate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 
@@ -838,8 +930,11 @@ Lady Annalise (Lvl 8) sees the chains glinting in the snow. Her face pales. The 
 > 👤 **Player:**
 > *"browser strict3 proof 2 20260210T: brief allied scout"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 
@@ -863,8 +958,11 @@ You feel the heat even from the gateway. You have reached a pinnacle of tactical
 
 browser strict3b proof 1: recon north gate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 
@@ -899,8 +997,11 @@ Select your **Fighting Style** (Defense, Dueling, Great Weapon Fighting, Protect
 > 👤 **Player:**
 > *"browser strict3b proof 2: brief allied scout"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 
@@ -918,8 +1019,11 @@ In this moment of absolute crisis, the weight of your duty and the fire in your 
 > 👤 **Player:**
 > *"browser verify raw-json suppression now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -941,8 +1045,11 @@ You must now choose a Fighting Style to define your martial prowess. Please sele
 > 👤 **Player:**
 > *"THINK:planning block probe in think mode"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -958,8 +1065,11 @@ To complete this transition, you must choose your **Fighting Style**. This choic
 > 👤 **Player:**
 > *"pb-check"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
@@ -981,8 +1091,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > 👤 **Player:**
 > *"direct api planning block check"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12** &nbsp;|&nbsp; ✨ **None**
@@ -992,8 +1105,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"pb-check"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20** &nbsp;|&nbsp; ✨ **None**
@@ -1012,8 +1128,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > 👤 **Player:**
 > *"THINK:ocr planning block check prompt 2026-02-10"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -1038,8 +1157,11 @@ Once these selections are confirmed, we will immediately process your advancemen
 > 👤 **Player:**
 > *"THINK:reload-repro planning block turn 2026-02-10"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -1066,8 +1188,11 @@ Ser Arion, as you stand within the gates of Ashwood Keep, the clash between your
 > 👤 **Player:**
 > *"THINK:reload-repro planning block turn 2026-02-10"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 
@@ -1077,8 +1202,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"THINK:reload-repro planning block turn 2026-02-10"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20** &nbsp;|&nbsp; ✨ **None**
@@ -1099,8 +1227,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > 👤 **Player:**
 > *"THINK:bead-validation-turn-1770705359380"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 
@@ -1123,6 +1254,8 @@ Once your Level 2 foundations are set, you will officially take your Oath, grant
 - **Hit Points:** Your maximum health will surge from 20 to 28.
 
 **Which Fighting Style will you adopt, and which 4 Spells will you prepare for the defense of Ashwood Keep (Lvl 8)?**
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

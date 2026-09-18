@@ -12,336 +12,350 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
-## 🗺️ Scene Index & Timeline
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
 
-| Scene | Location | In-Game Time | Focus |
-| :---: | :--- | :--- | :--- |
-| **01** | Silvershield Annex | Eleasias 24, 1492 DR (21:20) | Roleplay |
-| **02** | Silvershield Annex | Eleasias 24, 1492 DR (21:25) | Roleplay |
-| **03** | Silvershield Annex | Eleasias 24, 1492 DR (21:35) | Social Challenge |
-| **04** | Silvershield Annex | Eleasias 24, 1492 DR (21:40) | Social Challenge |
-| **05** | Silvershield Annex (Main Hall) | Eleasias 24, 1492 DR (21:40) | Roleplay |
-| **06** | Silvershield Annex | Eleasias 24, 1492 DR (21:45) | Roleplay |
-| **07** | Gray Harbor | Eleasias 24, 1492 DR (22:00) | Social Challenge |
-| **08** | Gray Harbor | Eleasias 24, 1492 DR (22:15) | Social Challenge |
-| **09** | Gray Harbor to Silvershield Annex | Eleasias 24, 1492 DR (22:15) | Skill Check / Combat |
-| **10** | The Silvershield Annex | Eleasias 24, 1492 DR (22:30) | Boss Surrender |
-| **11** | The Silvershield Annex | Eleasias 24, 1492 DR (22:45) | Roleplay |
-| **12** | The Silvershield Annex Courtyard | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **13** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **14** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **15** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **16** | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
-| **17** | The Silvershield Annex | Eleasias 25, 1492 DR (07:00) | Roleplay |
-| **18** | The Silvershield Annex (War Room) | Eleasias 25, 1492 DR (08:30) | Social Challenge |
-| **19** | The Silvershield Annex - War Room | Day 25, 1492 Eleasias (08:45) | Social Challenge |
-| **20** | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:15) | Social Challenge |
-| **21** | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:30) | Boss Surrender |
-| **22** | The Silvershield Annex | Eleasias 25, 1492 DR (11:30) | Roleplay |
-| **23** | The Silvershield Annex | Eleasias 25, 1492 DR (12:00) | Roleplay |
-| **24** | The Silvershield Annex | Eleasias 26, 1492 DR (12:00) | Social Challenge |
-| **25** | The Silvershield Annex | Eleasias 29, 1492 DR (09:00) | Roleplay |
-| **26** | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Social Challenge |
-| **27** | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Roleplay |
-| **28** | The Low Lantern | Eleasias 29, 1492 DR (20:15) | Roleplay |
-| **29** | The Gray Harbor Wharf | Eleasias 29, 1492 DR (20:30) | Roleplay |
-| **30** | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:31) | Boss Surrender |
-| **31** | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
-| **32** | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
-| **33** | Little Calimshan Ghost-Warehouse | Eleasias 29, 1492 DR (20:35) | Roleplay |
-| **34** | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:45) | Social Challenge |
-| **35** | The Silvershield Annex | Eleasias 29, 1492 DR (20:45) | Roleplay |
-| **36** | The Silvershield Annex | Eleasias 29, 1492 DR (20:35) | Social Challenge |
-| **37** | The Silvershield Annex Cellar | Eleasias 29, 1492 DR (20:50) | Boss Surrender |
-| **38** | The Low Lantern / Silvershield Annex | Eleasias 29, 1492 DR (22:45) | Boss Surrender |
-| **39** | The Counting House (Vault Level) | Eleasias 29, 1492 DR (23:45) | Roleplay |
-| **40** | The Silvershield Annex | Eleasias 30, 1492 DR (00:15) | Roleplay |
-| **41** | The Silvershield Annex | Eleasias 30, 1492 DR (00:35) | Roleplay |
-| **42** | The Upper City | Eleasias 30, 1492 DR (00:55) | Roleplay |
-| **43** | Gray Harbor Customs House | Eleasias 31, 1492 DR (09:00) | Roleplay |
-| **44** | Gray Harbor Customs House | Eleasias 31, 1492 DR (14:00) | Social Challenge |
-| **45** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:15) | Roleplay |
-| **46** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
-| **47** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (15:15) | Roleplay |
-| **48** | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
-| **49** | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
-| **50** | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
-| **51** | Silvershield Annex | Eleasias 31, 1492 DR (19:30) | Social Challenge |
-| **52** | Silvershield Annex | Eleint 1, 1492 DR (03:30) | Social Challenge |
-| **53** | Silvershield Annex / Sorcerous Sundries | Eleint 1, 1492 DR (08:30) | Social Challenge |
-| **54** | Sorcerous Sundries | Eleint 1, 1492 DR (07:45) | Boss Surrender |
-| **55** | Sorcerous Sundries | Eleint 1, 1492 DR (07:45) | Roleplay |
-| **56** | High Hall Gardens | Eleint 1, 1492 DR (09:30) | Roleplay |
-| **57** | High Hall Gardens | Eleint 1, 1492 DR (09:40) | Boss Surrender |
-| **58** | Silvershield Annex / The Iron Vein | Eleint 1, 1492 DR (11:00) | Roleplay |
-| **59** | Silvershield Annex | Eleint 22, 1492 DR (09:00) | Roleplay |
-| **60** | Silvershield Annex | Eleint 22, 1492 DR (21:00) | Social Challenge |
-| **61** | Silvershield Annex | Eleint 22, 1492 DR (21:00) | Roleplay |
-| **62** | Silvershield Annex | Eleint 22, 1492 DR (21:00) | Roleplay |
-| **63** | Silvershield Annex | Eleint 22, 1492 DR (21:15) | Social Challenge |
-| **64** | Silvershield Annex Ballroom | Eleint 22, 1492 DR (21:20) | Roleplay |
-| **65** | Silvershield Annex Ballroom | Eleint 22, 1492 DR (21:40) | Boss Surrender |
-| **66** | Silvershield Annex Ballroom | Eleint 22, 1492 DR (21:40) | Roleplay |
-| **67** | Gray Harbor | Eleint 22, 1492 DR (22:05) | Roleplay |
-| **68** | Silvershield Annex Cellars | Eleint 22, 1492 DR (22:30) | Social Challenge |
-| **69** | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:00) | Social Challenge |
-| **70** | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:00) | Roleplay |
-| **71** | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:00) | Roleplay |
-| **72** | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:30) | Roleplay |
-| **73** | Silvershield Annex Cellars | Eleint 23, 1492 DR (00:30) | Social Challenge |
-| **74** | Silvershield Annex Cellars | Eleint 24, 1492 DR (00:35) | Social Challenge |
-| **75** | Silvershield Annex Cellars | Eleint 24, 1492 DR (00:35) | Roleplay |
-| **76** | Silvershield Annex Cellars | Eleint 24, 1492 DR (00:35) | Roleplay |
-| **77** | Silvershield Annex Cellars | Eleint 24, 1492 DR (01:00) | Social Challenge |
-| **78** | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:00) | Boss Surrender |
-| **79** | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:15) | Roleplay |
-| **80** | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:20) | Roleplay |
-| **81** | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:20) | Roleplay |
-| **82** | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:20) | Roleplay |
-| **83** | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:30) | Roleplay |
-| **84** | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:40) | Social Challenge |
-| **85** | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:45) | Roleplay |
-| **86** | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:55) | Roleplay |
-| **87** | Silvershield Annex Courtyard | Eleint 24, 1492 DR (03:10) | Boss Surrender |
-| **88** | Silvershield Annex Courtyard | Eleint 24, 1492 DR (11:10) | Social Challenge |
-| **89** | Silvershield Annex - Private Foyer | Eleint 24, 1492 DR (13:10) | Social Challenge |
-| **90** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:10) | Social Challenge |
-| **91** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:10) | Roleplay |
-| **92** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:20) | Roleplay |
-| **93** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:20) | Roleplay |
-| **94** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Boss Surrender |
-| **95** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
-| **96** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
-| **97** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
-| **98** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
-| **99** | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
-| **100** | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:20) | Roleplay |
-| **101** | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:20) | Roleplay |
-| **102** | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:20) | Roleplay |
-| **103** | Silvershield Annex - War Room | Eleint 22, 1492 DR (20:20) | Roleplay |
-| **104** | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:30) | Roleplay |
-| **105** | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:40) | Roleplay |
-| **106** | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:40) | Roleplay |
-| **107** | Silvershield Annex - War Room | Eleint 25, 1492 DR (20:40) | Roleplay |
-| **108** | Silvershield Annex - War Room | Eleint 25, 1492 DR (20:40) | Roleplay |
-| **109** | Gray Harbor - Command Tower | Eleint 28, 1492 DR (12:40) | Boss Surrender |
-| **110** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
-| **111** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
-| **112** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
-| **113** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
-| **114** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
-| **115** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:46) | Roleplay |
-| **116** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:56) | Social Challenge |
-| **117** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:56) | Roleplay |
-| **118** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:56) | Roleplay |
-| **119** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:11) | Social Challenge |
-| **120** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Boss Surrender |
-| **121** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
-| **122** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
-| **123** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
-| **124** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
-| **125** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
-| **126** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Boss Surrender |
-| **127** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:00) | Roleplay |
-| **128** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:10) | Social Challenge |
-| **129** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:15) | Roleplay |
-| **130** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Boss Surrender |
-| **131** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
-| **132** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
-| **133** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
-| **134** | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
-| **135** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (15:30) | Roleplay |
-| **136** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (15:35) | Roleplay |
-| **137** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:35) | Roleplay |
-| **138** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:45) | Roleplay |
-| **139** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:45) | Social Challenge |
-| **140** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (17:15) | Social Challenge |
-| **141** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Boss Surrender |
-| **142** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Roleplay |
-| **143** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Roleplay |
-| **144** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Roleplay |
-| **145** | High Hall - Parliament Chamber | Eleint 28, 1492 DR (17:10) | Boss Surrender |
-| **146** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (20:10) | Boss Surrender |
-| **147** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (20:25) | Roleplay |
-| **148** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (20:40) | Boss Surrender |
-| **149** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (21:10) | Social Challenge |
-| **150** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:30) | Social Challenge |
-| **151** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:30) | Roleplay |
-| **152** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:30) | Roleplay |
-| **153** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:45) | Boss Surrender |
-| **154** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:00) | Roleplay |
-| **155** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Boss Surrender |
-| **156** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
-| **157** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
-| **158** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
-| **159** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
-| **160** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
-| **161** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
-| **162** | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:00) | Roleplay |
-| **163** | Gray Harbor - The Sovereign's Pier | Eleint 30, 1492 DR (09:00) | Roleplay |
-| **164** | Archduke's Sanctum | Eleint 30, 1492 DR (09:00) | Roleplay |
-| **165** | Archduke's Sanctum | Eleint 30, 1492 DR (09:00) | Roleplay |
-| **166** | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
-| **167** | Archduke's Sanctum | Eleint 30, 1492 DR (23:05) | Roleplay |
-| **168** | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
-| **169** | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
-| **170** | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
-| **171** | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
-| **172** | Archduke's Sanctum | Eleint 30, 1492 DR (23:15) | Social Challenge |
-| **173** | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:25) | Social Challenge |
-| **174** | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Boss Surrender |
-| **175** | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Roleplay |
-| **176** | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Roleplay |
-| **177** | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Roleplay |
-| **178** | Archduke's Sanctum (Annex) | Eleint 31, 1492 DR (23:35) | Roleplay |
-| **179** | Archduke's Sanctum (Annex) | Eleint 31, 1492 DR (23:35) | Roleplay |
-| **180** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (01:35) | Roleplay |
-| **181** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (01:35) | Roleplay |
-| **182** | High Hall - Parliament Chamber | Eleint 32, 1492 DR (03:35) | Roleplay |
-| **183** | High Hall - Parliament Chamber | Eleint 32, 1492 DR (03:35) | Roleplay |
-| **184** | Silvershield Annex - Arcane Library | Eleint 31, 1492 DR (03:35) | Social Challenge |
-| **185** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (03:35) | Roleplay |
-| **186** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (07:35) | Roleplay |
-| **187** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (05:35) | Social Challenge |
-| **188** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
-| **189** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
-| **190** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
-| **191** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
-| **192** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
-| **193** | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
-| **194** | High Hall - Parliament Balcony | Eleint 32, 1492 DR (12:35) | Boss Surrender |
-| **195** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **196** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **197** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **198** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **199** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **200** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **201** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:35) | Roleplay |
-| **202** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:35) | Roleplay |
-| **203** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **204** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:40) | Roleplay |
-| **205** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **206** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
-| **207** | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:40) | Roleplay |
-| **208** | Baldur's Gate - Archduke's Sanctum | Marpenoth 22, 1492 DR (13:40) | Roleplay |
-| **209** | High Hall Balcony | Marpenoth 21, 1492 DR (14:00) | Roleplay |
-| **210** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (13:45) | Roleplay |
-| **211** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:00) | Social Challenge |
-| **212** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:15) | Social Challenge |
-| **213** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:30) | Social Challenge |
-| **214** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Social Challenge |
-| **215** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:45) | Social Challenge |
-| **216** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Roleplay |
-| **217** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:41) | Social Challenge |
-| **218** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Social Challenge |
-| **219** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Roleplay |
-| **220** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Boss Surrender |
-| **221** | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (18:30) | Boss Surrender |
-| **222** | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:00) | Roleplay |
-| **223** | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (18:30) | Roleplay |
-| **224** | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:00) | Roleplay |
-| **225** | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:00) | Roleplay |
-| **226** | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:10) | Boss Surrender |
-| **227** | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (13:10) | Boss Surrender |
-| **228** | The Solar Flare (High-Altitude Phasing) | Uktar 12, 1492 DR (12:10) | Boss Surrender |
-| **229** | The Solar Flare (Ethereal Phasing-Envelope) | Uktar 13, 1492 DR (12:10) | Roleplay |
-| **230** | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:10) | Roleplay |
-| **231** | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:20) | Roleplay |
-| **232** | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:20) | Roleplay |
-| **233** | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:20) | Social Challenge |
-| **234** | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:30) | Social Challenge |
-| **235** | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:45) | Social Challenge |
-| **236** | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:50) | Boss Surrender |
-| **237** | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Social Challenge |
-| **238** | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:50) | Roleplay |
-| **239** | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Roleplay |
-| **240** | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Roleplay |
-| **241** | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Roleplay |
-| **242** | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:30) | Social Challenge |
-| **243** | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:30) | Roleplay |
-| **244** | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:45) | Social Challenge |
-| **245** | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:45) | Boss Surrender |
-| **246** | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (20:15) | Roleplay |
-| **247** | The Elfsong Tavern | Uktar 20, 1493 DR (20:30) | Boss Surrender |
-| **248** | The Elfsong Tavern | Uktar 20, 1493 DR (20:45) | Boss Surrender |
-| **249** | The High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:45) | Social Challenge |
-| **250** | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:45) | Social Challenge |
-| **251** | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:50) | Social Challenge |
-| **252** | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Social Challenge |
-| **253** | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Social Challenge |
-| **254** | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Roleplay |
-| **255** | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (01:05) | Boss Surrender |
-| **256** | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Roleplay |
-| **257** | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (12:00) | Social Challenge |
-| **258** | The Cloak Wood - Perimeter | Uktar 19, 1493 DR (20:00) | Social Challenge |
-| **259** | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (20:05) | Roleplay |
-| **260** | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (13:40) | Roleplay |
-| **261** | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (00:55) | Roleplay |
-| **262** | The Cloak Wood - Perimeter | Uktar 21, 1493 DR (12:00) | Roleplay |
-| **263** | The Cloak Wood - Perimeter | Uktar 21, 1493 DR (12:00) | Roleplay |
-| **264** | The Cloak Wood - Deep Thicket | Uktar 13, 1493 DR (08:30) | Social Challenge |
-| **265** | The Cloak Wood | Uktar 14, 1493 DR (12:10) | Boss Surrender |
-| **266** | The Cloak Wood | Uktar 13, 1493 DR (08:30) | Roleplay |
-| **267** | The Cloak Wood | Uktar 14, 1493 DR (08:40) | Boss Surrender |
-| **268** | The Cloak Wood | Uktar 21, 1493 DR (08:40) | Roleplay |
-| **269** | The Cloak Wood | Uktar 21, 1493 DR (08:45) | Social Challenge |
-| **270** | The Cloak Wood | Uktar 21, 1493 DR (09:00) | Social Challenge |
-| **271** | The Cloak Wood | Uktar 21, 1493 DR (09:15) | Social Challenge |
-| **272** | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Social Challenge |
-| **273** | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Social Challenge |
-| **274** | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Roleplay |
-| **275** | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Roleplay |
-| **276** | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:00) | Boss Surrender |
-| **277** | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:15) | Social Challenge |
-| **278** | The Emerald Enclave - The Guardian Grove | 1493 Nightal 5, 12:15:00 | Roleplay |
-| **279** | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:15) | Roleplay |
-| **280** | The Emerald Enclave - The Guardian Grove | 1493 Nightal 5, 12:20:00 | Social Challenge |
-| **281** | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:25) | Social Challenge |
-| **282** | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:40) | Roleplay |
-| **283** | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:40) | Roleplay |
-| **284** | The Emerald Enclave - The Guardian Grove (The Eye's Vault) | Nightal 5, 1493 DR (12:40) | Roleplay |
-| **285** | The Emerald Enclave - The Guardian Grove (The Eye's Vault) | Nightal 5, 1493 DR (12:40) | Roleplay |
-| **286** | The Emerald Enclave - The Guardian Grove (The Eye's Vault) | Nightal 5, 1493 DR (12:45) | Roleplay |
-| **287** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (12:50) | Roleplay |
-| **288** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (12:50) | Roleplay |
-| **289** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (12:55) | Roleplay |
-| **290** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:00) | Boss Surrender |
-| **291** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:00) | Boss Surrender |
-| **292** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:05) | Boss Surrender |
-| **293** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:05) | Roleplay |
-| **294** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:20) | Boss Surrender |
-| **295** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:20) | Roleplay |
-| **296** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:20) | Roleplay |
-| **297** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:35) | Boss Surrender |
-| **298** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:35) | Boss Surrender |
-| **299** | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:35) | Roleplay |
-| **300** | Cloak Wood - Southern Perimeter | Nightal 19, 1493 DR (21:35) | Roleplay |
-| **301** | Cloak Wood - Southern Perimeter | Nightal 19, 1493 DR (21:35) | Roleplay |
-| **302** | Fields of Amn - Northern Outskirts | Nightal 20, 1493 DR (19:35) | Roleplay |
-| **303** | Fields of Amn - Northern Outskirts | Nightal 21, 1493 DR (05:35) | Roleplay |
-| **304** | The Trade Way - Northern Amn | Nightal 21, 1493 DR (13:35) | Boss Surrender |
-| **305** | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:05) | Boss Surrender |
-| **306** | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:15) | Roleplay |
-| **307** | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:15) | Roleplay |
-| **308** | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:15) | Roleplay |
-| **309** | Roadside Camp - Outskirts of Athkatla | Nightal 21, 1493 DR (18:15) | Social Challenge |
-| **310** | Roadside Camp - Outskirts of Athkatla | Nightal 22, 1493 DR (07:15) | Boss Surrender |
-| **311** | Roadside Camp - Outskirts of Athkatla | Nightal 21, 1493 DR (09:15) | Social Challenge |
-| **312** | Gates of Athkatla - The City of Coin | Nightal 26, 1493 DR (10:00) | Roleplay |
-| **313** | Bridge of Prosperity - Gates of Athkatla | Nightal 26, 1493 DR (10:15) | Social Challenge |
-| **314** | Athkatla - The Gem District | Hammer 15, 1494 DR (11:30) | Roleplay |
-| **315** | Athkatla - Counting House Service Entrance | 1494 Hammer 15, 11:45:00 | Social Challenge |
-| **316** | Athkatla - Counting House Service Entrance | Hammer 15, 1494 DR (11:50) | Social Challenge |
-| **317** | Athkatla - Counting House Service Entrance | Hammer 15, 1494 DR (11:50) | Roleplay |
-| **318** | The Necropolis of Jergal - The Gate of Bone | Tarsakh 15, 1494 DR (14:00) | Roleplay |
-| **319** | Athkatla - Counting House Service Entrance | Hammer 15, 1494 DR (11:50) | Roleplay |
-| **320** | Necropolis of Jergal - Gate of Bone | Hammer 15, 1494 DR (14:01) | Roleplay |
+- [🗺️ Scene Index & Timeline (320 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
 
 ---
 
 
+<a id="scene-index"></a>
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| [**Scene 01**](#scene-1) | Silvershield Annex | Eleasias 24, 1492 DR (21:20) | Roleplay |
+| [**Scene 02**](#scene-2) | Silvershield Annex | Eleasias 24, 1492 DR (21:25) | Roleplay |
+| [**Scene 03**](#scene-3) | Silvershield Annex | Eleasias 24, 1492 DR (21:35) | Social Challenge |
+| [**Scene 04**](#scene-4) | Silvershield Annex | Eleasias 24, 1492 DR (21:40) | Social Challenge |
+| [**Scene 05**](#scene-5) | Silvershield Annex (Main Hall) | Eleasias 24, 1492 DR (21:40) | Roleplay |
+| [**Scene 06**](#scene-6) | Silvershield Annex | Eleasias 24, 1492 DR (21:45) | Roleplay |
+| [**Scene 07**](#scene-7) | Gray Harbor | Eleasias 24, 1492 DR (22:00) | Social Challenge |
+| [**Scene 08**](#scene-8) | Gray Harbor | Eleasias 24, 1492 DR (22:15) | Social Challenge |
+| [**Scene 09**](#scene-9) | Gray Harbor to Silvershield Annex | Eleasias 24, 1492 DR (22:15) | Skill Check / Combat |
+| [**Scene 10**](#scene-10) | The Silvershield Annex | Eleasias 24, 1492 DR (22:30) | Boss Surrender |
+| [**Scene 11**](#scene-11) | The Silvershield Annex | Eleasias 24, 1492 DR (22:45) | Roleplay |
+| [**Scene 12**](#scene-12) | The Silvershield Annex Courtyard | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 13**](#scene-13) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 14**](#scene-14) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 15**](#scene-15) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 16**](#scene-16) | The Silvershield Annex | Eleasias 24, 1492 DR (22:50) | Roleplay |
+| [**Scene 17**](#scene-17) | The Silvershield Annex | Eleasias 25, 1492 DR (07:00) | Roleplay |
+| [**Scene 18**](#scene-18) | The Silvershield Annex (War Room) | Eleasias 25, 1492 DR (08:30) | Social Challenge |
+| [**Scene 19**](#scene-19) | The Silvershield Annex - War Room | Day 25, 1492 Eleasias (08:45) | Social Challenge |
+| [**Scene 20**](#scene-20) | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:15) | Social Challenge |
+| [**Scene 21**](#scene-21) | Gray Harbor North Pier | Eleasias 25, 1492 DR (09:30) | Boss Surrender |
+| [**Scene 22**](#scene-22) | The Silvershield Annex | Eleasias 25, 1492 DR (11:30) | Roleplay |
+| [**Scene 23**](#scene-23) | The Silvershield Annex | Eleasias 25, 1492 DR (12:00) | Roleplay |
+| [**Scene 24**](#scene-24) | The Silvershield Annex | Eleasias 26, 1492 DR (12:00) | Social Challenge |
+| [**Scene 25**](#scene-25) | The Silvershield Annex | Eleasias 29, 1492 DR (09:00) | Roleplay |
+| [**Scene 26**](#scene-26) | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Social Challenge |
+| [**Scene 27**](#scene-27) | The Low Lantern | Eleasias 29, 1492 DR (20:00) | Roleplay |
+| [**Scene 28**](#scene-28) | The Low Lantern | Eleasias 29, 1492 DR (20:15) | Roleplay |
+| [**Scene 29**](#scene-29) | The Gray Harbor Wharf | Eleasias 29, 1492 DR (20:30) | Roleplay |
+| [**Scene 30**](#scene-30) | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:31) | Boss Surrender |
+| [**Scene 31**](#scene-31) | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
+| [**Scene 32**](#scene-32) | The Silvershield Annex | Eleasias 29, 1492 DR (20:31) | Roleplay |
+| [**Scene 33**](#scene-33) | Little Calimshan Ghost-Warehouse | Eleasias 29, 1492 DR (20:35) | Roleplay |
+| [**Scene 34**](#scene-34) | Little Calimshan Warehouse | Eleasias 29, 1492 DR (20:45) | Social Challenge |
+| [**Scene 35**](#scene-35) | The Silvershield Annex | Eleasias 29, 1492 DR (20:45) | Roleplay |
+| [**Scene 36**](#scene-36) | The Silvershield Annex | Eleasias 29, 1492 DR (20:35) | Social Challenge |
+| [**Scene 37**](#scene-37) | The Silvershield Annex Cellar | Eleasias 29, 1492 DR (20:50) | Boss Surrender |
+| [**Scene 38**](#scene-38) | The Low Lantern / Silvershield Annex | Eleasias 29, 1492 DR (22:45) | Boss Surrender |
+| [**Scene 39**](#scene-39) | The Counting House (Vault Level) | Eleasias 29, 1492 DR (23:45) | Roleplay |
+| [**Scene 40**](#scene-40) | The Silvershield Annex | Eleasias 30, 1492 DR (00:15) | Roleplay |
+| [**Scene 41**](#scene-41) | The Silvershield Annex | Eleasias 30, 1492 DR (00:35) | Roleplay |
+| [**Scene 42**](#scene-42) | The Upper City | Eleasias 30, 1492 DR (00:55) | Roleplay |
+| [**Scene 43**](#scene-43) | Gray Harbor Customs House | Eleasias 31, 1492 DR (09:00) | Roleplay |
+| [**Scene 44**](#scene-44) | Gray Harbor Customs House | Eleasias 31, 1492 DR (14:00) | Social Challenge |
+| [**Scene 45**](#scene-45) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:15) | Roleplay |
+| [**Scene 46**](#scene-46) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
+| [**Scene 47**](#scene-47) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (15:15) | Roleplay |
+| [**Scene 48**](#scene-48) | Silvershield Annex Courtyard | Eleasias 31, 1492 DR (14:45) | Roleplay |
+| [**Scene 49**](#scene-49) | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
+| [**Scene 50**](#scene-50) | Silvershield Annex | Eleasias 31, 1492 DR (16:00) | Roleplay |
+| [**Scene 51**](#scene-51) | Silvershield Annex | Eleasias 31, 1492 DR (19:30) | Social Challenge |
+| [**Scene 52**](#scene-52) | Silvershield Annex | Eleint 1, 1492 DR (03:30) | Social Challenge |
+| [**Scene 53**](#scene-53) | Silvershield Annex / Sorcerous Sundries | Eleint 1, 1492 DR (08:30) | Social Challenge |
+| [**Scene 54**](#scene-54) | Sorcerous Sundries | Eleint 1, 1492 DR (07:45) | Boss Surrender |
+| [**Scene 55**](#scene-55) | Sorcerous Sundries | Eleint 1, 1492 DR (07:45) | Roleplay |
+| [**Scene 56**](#scene-56) | High Hall Gardens | Eleint 1, 1492 DR (09:30) | Roleplay |
+| [**Scene 57**](#scene-57) | High Hall Gardens | Eleint 1, 1492 DR (09:40) | Boss Surrender |
+| [**Scene 58**](#scene-58) | Silvershield Annex / The Iron Vein | Eleint 1, 1492 DR (11:00) | Roleplay |
+| [**Scene 59**](#scene-59) | Silvershield Annex | Eleint 22, 1492 DR (09:00) | Roleplay |
+| [**Scene 60**](#scene-60) | Silvershield Annex | Eleint 22, 1492 DR (21:00) | Social Challenge |
+| [**Scene 61**](#scene-61) | Silvershield Annex | Eleint 22, 1492 DR (21:00) | Roleplay |
+| [**Scene 62**](#scene-62) | Silvershield Annex | Eleint 22, 1492 DR (21:00) | Roleplay |
+| [**Scene 63**](#scene-63) | Silvershield Annex | Eleint 22, 1492 DR (21:15) | Social Challenge |
+| [**Scene 64**](#scene-64) | Silvershield Annex Ballroom | Eleint 22, 1492 DR (21:20) | Roleplay |
+| [**Scene 65**](#scene-65) | Silvershield Annex Ballroom | Eleint 22, 1492 DR (21:40) | Boss Surrender |
+| [**Scene 66**](#scene-66) | Silvershield Annex Ballroom | Eleint 22, 1492 DR (21:40) | Roleplay |
+| [**Scene 67**](#scene-67) | Gray Harbor | Eleint 22, 1492 DR (22:05) | Roleplay |
+| [**Scene 68**](#scene-68) | Silvershield Annex Cellars | Eleint 22, 1492 DR (22:30) | Social Challenge |
+| [**Scene 69**](#scene-69) | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:00) | Social Challenge |
+| [**Scene 70**](#scene-70) | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:00) | Roleplay |
+| [**Scene 71**](#scene-71) | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:00) | Roleplay |
+| [**Scene 72**](#scene-72) | Silvershield Annex Cellars | Eleint 22, 1492 DR (23:30) | Roleplay |
+| [**Scene 73**](#scene-73) | Silvershield Annex Cellars | Eleint 23, 1492 DR (00:30) | Social Challenge |
+| [**Scene 74**](#scene-74) | Silvershield Annex Cellars | Eleint 24, 1492 DR (00:35) | Social Challenge |
+| [**Scene 75**](#scene-75) | Silvershield Annex Cellars | Eleint 24, 1492 DR (00:35) | Roleplay |
+| [**Scene 76**](#scene-76) | Silvershield Annex Cellars | Eleint 24, 1492 DR (00:35) | Roleplay |
+| [**Scene 77**](#scene-77) | Silvershield Annex Cellars | Eleint 24, 1492 DR (01:00) | Social Challenge |
+| [**Scene 78**](#scene-78) | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:00) | Boss Surrender |
+| [**Scene 79**](#scene-79) | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:15) | Roleplay |
+| [**Scene 80**](#scene-80) | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:20) | Roleplay |
+| [**Scene 81**](#scene-81) | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:20) | Roleplay |
+| [**Scene 82**](#scene-82) | Silvershield Annex Cellars | Eleint 24, 1492 DR (02:20) | Roleplay |
+| [**Scene 83**](#scene-83) | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:30) | Roleplay |
+| [**Scene 84**](#scene-84) | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:40) | Social Challenge |
+| [**Scene 85**](#scene-85) | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:45) | Roleplay |
+| [**Scene 86**](#scene-86) | Silvershield Annex Courtyard | Eleint 24, 1492 DR (02:55) | Roleplay |
+| [**Scene 87**](#scene-87) | Silvershield Annex Courtyard | Eleint 24, 1492 DR (03:10) | Boss Surrender |
+| [**Scene 88**](#scene-88) | Silvershield Annex Courtyard | Eleint 24, 1492 DR (11:10) | Social Challenge |
+| [**Scene 89**](#scene-89) | Silvershield Annex - Private Foyer | Eleint 24, 1492 DR (13:10) | Social Challenge |
+| [**Scene 90**](#scene-90) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:10) | Social Challenge |
+| [**Scene 91**](#scene-91) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:10) | Roleplay |
+| [**Scene 92**](#scene-92) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:20) | Roleplay |
+| [**Scene 93**](#scene-93) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (17:20) | Roleplay |
+| [**Scene 94**](#scene-94) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Boss Surrender |
+| [**Scene 95**](#scene-95) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
+| [**Scene 96**](#scene-96) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
+| [**Scene 97**](#scene-97) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
+| [**Scene 98**](#scene-98) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
+| [**Scene 99**](#scene-99) | Wyrm's Rock - Chamber of the Wyrm's Heart | Eleint 24, 1492 DR (19:20) | Roleplay |
+| [**Scene 100**](#scene-100) | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:20) | Roleplay |
+| [**Scene 101**](#scene-101) | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:20) | Roleplay |
+| [**Scene 102**](#scene-102) | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:20) | Roleplay |
+| [**Scene 103**](#scene-103) | Silvershield Annex - War Room | Eleint 22, 1492 DR (20:20) | Roleplay |
+| [**Scene 104**](#scene-104) | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:30) | Roleplay |
+| [**Scene 105**](#scene-105) | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:40) | Roleplay |
+| [**Scene 106**](#scene-106) | Silvershield Annex - War Room | Eleint 24, 1492 DR (20:40) | Roleplay |
+| [**Scene 107**](#scene-107) | Silvershield Annex - War Room | Eleint 25, 1492 DR (20:40) | Roleplay |
+| [**Scene 108**](#scene-108) | Silvershield Annex - War Room | Eleint 25, 1492 DR (20:40) | Roleplay |
+| [**Scene 109**](#scene-109) | Gray Harbor - Command Tower | Eleint 28, 1492 DR (12:40) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
+| [**Scene 111**](#scene-111) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
+| [**Scene 112**](#scene-112) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
+| [**Scene 113**](#scene-113) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
+| [**Scene 114**](#scene-114) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:45) | Roleplay |
+| [**Scene 115**](#scene-115) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:46) | Roleplay |
+| [**Scene 116**](#scene-116) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:56) | Social Challenge |
+| [**Scene 117**](#scene-117) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:56) | Roleplay |
+| [**Scene 118**](#scene-118) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (12:56) | Roleplay |
+| [**Scene 119**](#scene-119) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:11) | Social Challenge |
+| [**Scene 120**](#scene-120) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Boss Surrender |
+| [**Scene 121**](#scene-121) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 122**](#scene-122) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 123**](#scene-123) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 125**](#scene-125) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 126**](#scene-126) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (13:30) | Boss Surrender |
+| [**Scene 127**](#scene-127) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:00) | Roleplay |
+| [**Scene 128**](#scene-128) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:10) | Social Challenge |
+| [**Scene 129**](#scene-129) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:15) | Roleplay |
+| [**Scene 130**](#scene-130) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Boss Surrender |
+| [**Scene 131**](#scene-131) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
+| [**Scene 132**](#scene-132) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
+| [**Scene 133**](#scene-133) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
+| [**Scene 134**](#scene-134) | Flagship 'The Solar Flare' - Command Bridge | Eleint 28, 1492 DR (14:30) | Roleplay |
+| [**Scene 135**](#scene-135) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (15:30) | Roleplay |
+| [**Scene 136**](#scene-136) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (15:35) | Roleplay |
+| [**Scene 137**](#scene-137) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:35) | Roleplay |
+| [**Scene 138**](#scene-138) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:45) | Roleplay |
+| [**Scene 139**](#scene-139) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:45) | Social Challenge |
+| [**Scene 140**](#scene-140) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (17:15) | Social Challenge |
+| [**Scene 141**](#scene-141) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Boss Surrender |
+| [**Scene 142**](#scene-142) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Roleplay |
+| [**Scene 143**](#scene-143) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Roleplay |
+| [**Scene 144**](#scene-144) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (16:55) | Roleplay |
+| [**Scene 145**](#scene-145) | High Hall - Parliament Chamber | Eleint 28, 1492 DR (17:10) | Boss Surrender |
+| [**Scene 146**](#scene-146) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (20:10) | Boss Surrender |
+| [**Scene 147**](#scene-147) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (20:25) | Roleplay |
+| [**Scene 148**](#scene-148) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (20:40) | Boss Surrender |
+| [**Scene 149**](#scene-149) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (21:10) | Social Challenge |
+| [**Scene 150**](#scene-150) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:30) | Social Challenge |
+| [**Scene 151**](#scene-151) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:30) | Roleplay |
+| [**Scene 152**](#scene-152) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:30) | Roleplay |
+| [**Scene 153**](#scene-153) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (22:45) | Boss Surrender |
+| [**Scene 154**](#scene-154) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:00) | Roleplay |
+| [**Scene 155**](#scene-155) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Boss Surrender |
+| [**Scene 156**](#scene-156) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
+| [**Scene 157**](#scene-157) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
+| [**Scene 158**](#scene-158) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
+| [**Scene 159**](#scene-159) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
+| [**Scene 160**](#scene-160) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
+| [**Scene 161**](#scene-161) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:05) | Roleplay |
+| [**Scene 162**](#scene-162) | Silvershield Annex - The Archduke's Sanctum | Eleint 28, 1492 DR (23:00) | Roleplay |
+| [**Scene 163**](#scene-163) | Gray Harbor - The Sovereign's Pier | Eleint 30, 1492 DR (09:00) | Roleplay |
+| [**Scene 164**](#scene-164) | Archduke's Sanctum | Eleint 30, 1492 DR (09:00) | Roleplay |
+| [**Scene 165**](#scene-165) | Archduke's Sanctum | Eleint 30, 1492 DR (09:00) | Roleplay |
+| [**Scene 166**](#scene-166) | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
+| [**Scene 167**](#scene-167) | Archduke's Sanctum | Eleint 30, 1492 DR (23:05) | Roleplay |
+| [**Scene 168**](#scene-168) | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
+| [**Scene 169**](#scene-169) | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
+| [**Scene 170**](#scene-170) | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
+| [**Scene 171**](#scene-171) | Archduke's Sanctum | Eleint 30, 1492 DR (23:10) | Roleplay |
+| [**Scene 172**](#scene-172) | Archduke's Sanctum | Eleint 30, 1492 DR (23:15) | Social Challenge |
+| [**Scene 173**](#scene-173) | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:25) | Social Challenge |
+| [**Scene 174**](#scene-174) | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Boss Surrender |
+| [**Scene 175**](#scene-175) | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Roleplay |
+| [**Scene 176**](#scene-176) | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Roleplay |
+| [**Scene 177**](#scene-177) | Archduke's Sanctum (Annex) | Eleint 30, 1492 DR (23:35) | Roleplay |
+| [**Scene 178**](#scene-178) | Archduke's Sanctum (Annex) | Eleint 31, 1492 DR (23:35) | Roleplay |
+| [**Scene 179**](#scene-179) | Archduke's Sanctum (Annex) | Eleint 31, 1492 DR (23:35) | Roleplay |
+| [**Scene 180**](#scene-180) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (01:35) | Roleplay |
+| [**Scene 181**](#scene-181) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (01:35) | Roleplay |
+| [**Scene 182**](#scene-182) | High Hall - Parliament Chamber | Eleint 32, 1492 DR (03:35) | Roleplay |
+| [**Scene 183**](#scene-183) | High Hall - Parliament Chamber | Eleint 32, 1492 DR (03:35) | Roleplay |
+| [**Scene 184**](#scene-184) | Silvershield Annex - Arcane Library | Eleint 31, 1492 DR (03:35) | Social Challenge |
+| [**Scene 185**](#scene-185) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (03:35) | Roleplay |
+| [**Scene 186**](#scene-186) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (07:35) | Roleplay |
+| [**Scene 187**](#scene-187) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (05:35) | Social Challenge |
+| [**Scene 188**](#scene-188) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
+| [**Scene 189**](#scene-189) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
+| [**Scene 190**](#scene-190) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
+| [**Scene 191**](#scene-191) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
+| [**Scene 192**](#scene-192) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
+| [**Scene 193**](#scene-193) | Silvershield Annex - Arcane Library | Eleint 32, 1492 DR (11:35) | Roleplay |
+| [**Scene 194**](#scene-194) | High Hall - Parliament Balcony | Eleint 32, 1492 DR (12:35) | Boss Surrender |
+| [**Scene 195**](#scene-195) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 196**](#scene-196) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 197**](#scene-197) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 198**](#scene-198) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 199**](#scene-199) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 200**](#scene-200) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 201**](#scene-201) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:35) | Roleplay |
+| [**Scene 202**](#scene-202) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:35) | Roleplay |
+| [**Scene 203**](#scene-203) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 204**](#scene-204) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:40) | Roleplay |
+| [**Scene 205**](#scene-205) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 206**](#scene-206) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (12:35) | Roleplay |
+| [**Scene 207**](#scene-207) | High Hall - Archduke's Sanctum | Marpenoth 21, 1492 DR (13:40) | Roleplay |
+| [**Scene 208**](#scene-208) | Baldur's Gate - Archduke's Sanctum | Marpenoth 22, 1492 DR (13:40) | Roleplay |
+| [**Scene 209**](#scene-209) | High Hall Balcony | Marpenoth 21, 1492 DR (14:00) | Roleplay |
+| [**Scene 210**](#scene-210) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (13:45) | Roleplay |
+| [**Scene 211**](#scene-211) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:00) | Social Challenge |
+| [**Scene 212**](#scene-212) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:15) | Social Challenge |
+| [**Scene 213**](#scene-213) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:30) | Social Challenge |
+| [**Scene 214**](#scene-214) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Social Challenge |
+| [**Scene 215**](#scene-215) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:45) | Social Challenge |
+| [**Scene 216**](#scene-216) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Roleplay |
+| [**Scene 217**](#scene-217) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:41) | Social Challenge |
+| [**Scene 218**](#scene-218) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Social Challenge |
+| [**Scene 219**](#scene-219) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Roleplay |
+| [**Scene 220**](#scene-220) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (14:40) | Boss Surrender |
+| [**Scene 221**](#scene-221) | Archduke's Sanctum (Annex) | Marpenoth 21, 1492 DR (18:30) | Boss Surrender |
+| [**Scene 222**](#scene-222) | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:00) | Roleplay |
+| [**Scene 223**](#scene-223) | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (18:30) | Roleplay |
+| [**Scene 224**](#scene-224) | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:00) | Roleplay |
+| [**Scene 225**](#scene-225) | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:00) | Roleplay |
+| [**Scene 226**](#scene-226) | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (12:10) | Boss Surrender |
+| [**Scene 227**](#scene-227) | Archduke's Sanctum (Annex) | Uktar 12, 1492 DR (13:10) | Boss Surrender |
+| [**Scene 228**](#scene-228) | The Solar Flare (High-Altitude Phasing) | Uktar 12, 1492 DR (12:10) | Boss Surrender |
+| [**Scene 229**](#scene-229) | The Solar Flare (Ethereal Phasing-Envelope) | Uktar 13, 1492 DR (12:10) | Roleplay |
+| [**Scene 230**](#scene-230) | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:10) | Roleplay |
+| [**Scene 231**](#scene-231) | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:20) | Roleplay |
+| [**Scene 232**](#scene-232) | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:20) | Roleplay |
+| [**Scene 233**](#scene-233) | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:20) | Social Challenge |
+| [**Scene 234**](#scene-234) | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:30) | Social Challenge |
+| [**Scene 235**](#scene-235) | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:45) | Social Challenge |
+| [**Scene 236**](#scene-236) | Aethelgard Capital - The Star-Chamber | Uktar 13, 1492 DR (12:50) | Boss Surrender |
+| [**Scene 237**](#scene-237) | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Social Challenge |
+| [**Scene 238**](#scene-238) | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:50) | Roleplay |
+| [**Scene 239**](#scene-239) | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Roleplay |
+| [**Scene 240**](#scene-240) | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Roleplay |
+| [**Scene 241**](#scene-241) | Aethelgard Capital - The Star-Chamber | Tarsakh 13, 1493 DR (12:45) | Roleplay |
+| [**Scene 242**](#scene-242) | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:30) | Social Challenge |
+| [**Scene 243**](#scene-243) | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:30) | Roleplay |
+| [**Scene 244**](#scene-244) | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:45) | Social Challenge |
+| [**Scene 245**](#scene-245) | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (19:45) | Boss Surrender |
+| [**Scene 246**](#scene-246) | The Elfsong Tavern - Lower City | Uktar 20, 1493 DR (20:15) | Roleplay |
+| [**Scene 247**](#scene-247) | The Elfsong Tavern | Uktar 20, 1493 DR (20:30) | Boss Surrender |
+| [**Scene 248**](#scene-248) | The Elfsong Tavern | Uktar 20, 1493 DR (20:45) | Boss Surrender |
+| [**Scene 249**](#scene-249) | The High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:45) | Social Challenge |
+| [**Scene 250**](#scene-250) | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:45) | Social Challenge |
+| [**Scene 251**](#scene-251) | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:50) | Social Challenge |
+| [**Scene 252**](#scene-252) | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Social Challenge |
+| [**Scene 253**](#scene-253) | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Social Challenge |
+| [**Scene 254**](#scene-254) | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Roleplay |
+| [**Scene 255**](#scene-255) | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (01:05) | Boss Surrender |
+| [**Scene 256**](#scene-256) | High Hall Gardens (Secret Crypt) | Uktar 21, 1493 DR (00:55) | Roleplay |
+| [**Scene 257**](#scene-257) | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (12:00) | Social Challenge |
+| [**Scene 258**](#scene-258) | The Cloak Wood - Perimeter | Uktar 19, 1493 DR (20:00) | Social Challenge |
+| [**Scene 259**](#scene-259) | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (20:05) | Roleplay |
+| [**Scene 260**](#scene-260) | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (13:40) | Roleplay |
+| [**Scene 261**](#scene-261) | The Cloak Wood - Perimeter | Uktar 12, 1493 DR (00:55) | Roleplay |
+| [**Scene 262**](#scene-262) | The Cloak Wood - Perimeter | Uktar 21, 1493 DR (12:00) | Roleplay |
+| [**Scene 263**](#scene-263) | The Cloak Wood - Perimeter | Uktar 21, 1493 DR (12:00) | Roleplay |
+| [**Scene 264**](#scene-264) | The Cloak Wood - Deep Thicket | Uktar 13, 1493 DR (08:30) | Social Challenge |
+| [**Scene 265**](#scene-265) | The Cloak Wood | Uktar 14, 1493 DR (12:10) | Boss Surrender |
+| [**Scene 266**](#scene-266) | The Cloak Wood | Uktar 13, 1493 DR (08:30) | Roleplay |
+| [**Scene 267**](#scene-267) | The Cloak Wood | Uktar 14, 1493 DR (08:40) | Boss Surrender |
+| [**Scene 268**](#scene-268) | The Cloak Wood | Uktar 21, 1493 DR (08:40) | Roleplay |
+| [**Scene 269**](#scene-269) | The Cloak Wood | Uktar 21, 1493 DR (08:45) | Social Challenge |
+| [**Scene 270**](#scene-270) | The Cloak Wood | Uktar 21, 1493 DR (09:00) | Social Challenge |
+| [**Scene 271**](#scene-271) | The Cloak Wood | Uktar 21, 1493 DR (09:15) | Social Challenge |
+| [**Scene 272**](#scene-272) | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Social Challenge |
+| [**Scene 273**](#scene-273) | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Social Challenge |
+| [**Scene 274**](#scene-274) | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Roleplay |
+| [**Scene 275**](#scene-275) | The Cloak Wood | Uktar 21, 1493 DR (09:45) | Roleplay |
+| [**Scene 276**](#scene-276) | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:00) | Boss Surrender |
+| [**Scene 277**](#scene-277) | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:15) | Social Challenge |
+| [**Scene 278**](#scene-278) | The Emerald Enclave - The Guardian Grove | 1493 Nightal 5, 12:15:00 | Roleplay |
+| [**Scene 279**](#scene-279) | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:15) | Roleplay |
+| [**Scene 280**](#scene-280) | The Emerald Enclave - The Guardian Grove | 1493 Nightal 5, 12:20:00 | Social Challenge |
+| [**Scene 281**](#scene-281) | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:25) | Social Challenge |
+| [**Scene 282**](#scene-282) | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:40) | Roleplay |
+| [**Scene 283**](#scene-283) | The Emerald Enclave - The Guardian Grove | Nightal 5, 1493 DR (12:40) | Roleplay |
+| [**Scene 284**](#scene-284) | The Emerald Enclave - The Guardian Grove (The Eye's Vault) | Nightal 5, 1493 DR (12:40) | Roleplay |
+| [**Scene 285**](#scene-285) | The Emerald Enclave - The Guardian Grove (The Eye's Vault) | Nightal 5, 1493 DR (12:40) | Roleplay |
+| [**Scene 286**](#scene-286) | The Emerald Enclave - The Guardian Grove (The Eye's Vault) | Nightal 5, 1493 DR (12:45) | Roleplay |
+| [**Scene 287**](#scene-287) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (12:50) | Roleplay |
+| [**Scene 288**](#scene-288) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (12:50) | Roleplay |
+| [**Scene 289**](#scene-289) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (12:55) | Roleplay |
+| [**Scene 290**](#scene-290) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:00) | Boss Surrender |
+| [**Scene 291**](#scene-291) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:00) | Boss Surrender |
+| [**Scene 292**](#scene-292) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:05) | Boss Surrender |
+| [**Scene 293**](#scene-293) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:05) | Roleplay |
+| [**Scene 294**](#scene-294) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:20) | Boss Surrender |
+| [**Scene 295**](#scene-295) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:20) | Roleplay |
+| [**Scene 296**](#scene-296) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:20) | Roleplay |
+| [**Scene 297**](#scene-297) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:35) | Boss Surrender |
+| [**Scene 298**](#scene-298) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:35) | Boss Surrender |
+| [**Scene 299**](#scene-299) | The Emerald Enclave - The Eye's Vault | Nightal 5, 1493 DR (13:35) | Roleplay |
+| [**Scene 300**](#scene-300) | Cloak Wood - Southern Perimeter | Nightal 19, 1493 DR (21:35) | Roleplay |
+| [**Scene 301**](#scene-301) | Cloak Wood - Southern Perimeter | Nightal 19, 1493 DR (21:35) | Roleplay |
+| [**Scene 302**](#scene-302) | Fields of Amn - Northern Outskirts | Nightal 20, 1493 DR (19:35) | Roleplay |
+| [**Scene 303**](#scene-303) | Fields of Amn - Northern Outskirts | Nightal 21, 1493 DR (05:35) | Roleplay |
+| [**Scene 304**](#scene-304) | The Trade Way - Northern Amn | Nightal 21, 1493 DR (13:35) | Boss Surrender |
+| [**Scene 305**](#scene-305) | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:05) | Boss Surrender |
+| [**Scene 306**](#scene-306) | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:15) | Roleplay |
+| [**Scene 307**](#scene-307) | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:15) | Roleplay |
+| [**Scene 308**](#scene-308) | Twin Sisters - Amn Frontier | Nightal 21, 1493 DR (14:15) | Roleplay |
+| [**Scene 309**](#scene-309) | Roadside Camp - Outskirts of Athkatla | Nightal 21, 1493 DR (18:15) | Social Challenge |
+| [**Scene 310**](#scene-310) | Roadside Camp - Outskirts of Athkatla | Nightal 22, 1493 DR (07:15) | Boss Surrender |
+| [**Scene 311**](#scene-311) | Roadside Camp - Outskirts of Athkatla | Nightal 21, 1493 DR (09:15) | Social Challenge |
+| [**Scene 312**](#scene-312) | Gates of Athkatla - The City of Coin | Nightal 26, 1493 DR (10:00) | Roleplay |
+| [**Scene 313**](#scene-313) | Bridge of Prosperity - Gates of Athkatla | Nightal 26, 1493 DR (10:15) | Social Challenge |
+| [**Scene 314**](#scene-314) | Athkatla - The Gem District | Hammer 15, 1494 DR (11:30) | Roleplay |
+| [**Scene 315**](#scene-315) | Athkatla - Counting House Service Entrance | 1494 Hammer 15, 11:45:00 | Social Challenge |
+| [**Scene 316**](#scene-316) | Athkatla - Counting House Service Entrance | Hammer 15, 1494 DR (11:50) | Social Challenge |
+| [**Scene 317**](#scene-317) | Athkatla - Counting House Service Entrance | Hammer 15, 1494 DR (11:50) | Roleplay |
+| [**Scene 318**](#scene-318) | The Necropolis of Jergal - The Gate of Bone | Tarsakh 15, 1494 DR (14:00) | Roleplay |
+| [**Scene 319**](#scene-319) | Athkatla - Counting House Service Entrance | Hammer 15, 1494 DR (11:50) | Roleplay |
+| [**Scene 320**](#scene-320) | Necropolis of Jergal - Gate of Bone | Hammer 15, 1494 DR (14:01) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+---
+
+
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3338/6500 | Gold: 230gp** &nbsp;|&nbsp; ⚠️ **Biological Integration Penalty (-75% XP) | Exhaustion: 0 | Inspiration: Yes**
@@ -351,8 +365,11 @@ Intelligence Check: 3 vs DC 15 — Failed by 12 (Confused). Your Aethelgardian m
 > 👤 **Player:**
 > *"Explain he keeps his autonomy but alliance helps both of us and I’ve already established grain trade. I was attacked by an assassin and almost by zhentarim and I handled it fine but his other citizens may not, so aethelgard help couldn’t hurt. And we wouldn’t take over our trading partner. Plus we are elite and I’m actually the weakest of our warriors and i handled level 5 threat easily"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Silvershield Annex, Upper City** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3338/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 2/3, Inspiration: 3/3, Potions: 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -375,8 +392,11 @@ He steps into the center of the hall, the elite Flaming Fist veterans behind him
 > 👤 **Player:**
 > *"Shield of the helpless and explain my empire is powerful but not invincible. We would profit from more grain and can help stabilize city. We only sent me a small envoy since we have lots of other concerns. There’s no risk to baldurs gate autonomy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Silvershield Annex, Upper City** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3338/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 2/3 | Inspiration: 3/3 | Favor: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -402,8 +422,11 @@ You gain **25 XP** for the successful diplomatic pivot (Reduced by biological in
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shadow Ledger (Intelligence Sharing) - Offer to share the 'Vanguard's' intelligence on Zhentarim movements and Cadet Branch insurgents currently operating in the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Silvershield Annex, Upper City** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3376/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 2/3 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -429,8 +452,11 @@ You gain **38 XP** for the masterful intelligence trade (Adjusted for biological
 > 👤 **Player:**
 > *"THINK:What’s easiest thing to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Silvershield Annex (Main Hall)** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3376/6500 | Gold: 230gp** &nbsp;|&nbsp; ⚠️ **Biological Integration Penalty (-75% XP) | Exhaustion: 0 | Inspiration: Yes**
@@ -440,8 +466,11 @@ Intelligence Check: 20 vs DC 15 — Success. Your methodical mind (INT 14) slice
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Intelligence Raid (Easiest) - Offer to lead Ravengard's own elite guard to a secondary Zhentarim node identified in the Shadow Ledger immediately. Use Kaelen as the 'tactical advisor.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3376/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 2/3 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -459,8 +488,11 @@ The negotiation yields to the mechanical precision of a strike team. You feel th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Tactical Oversight - Accompany the raid personally to ensure the 'biological superiority' of Aethelgard is visible to Ravengard's men.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Gray Harbor, Warehouse 7** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3414/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 2/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: 3/3**
@@ -492,8 +524,11 @@ You gain **38 XP** for the tactical success.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Stasis (Hold Person) - Use your biological frequency to paralyze the Zhentarim leader before Ravengard, demonstrating effortless control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Gray Harbor, Warehouse 7** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3464/6500 | Gold: 230gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 1/3, Inspiration: 3/3, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/3**
@@ -523,8 +558,11 @@ He looks down at the black ledger Lara clutches, then back at the frozen quarter
 > 👤 **Player:**
 > *"have someone keep tailing grog mar, assess prisoners to see if any breeders, then do this Return to the Silvershield Annex: Escort Duke Ravengard back to your safehouse to finalize and sign the Joint Defense Pact in absolute security."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Gray Harbor to Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3739/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -555,8 +593,11 @@ You gain **150 XP** for the tactical demonstration and successful prisoner asses
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Blood of Aethelgard (Intimidation) - Prick your finger and seal the document with a drop of your silver-threaded blood, claiming it creates a biological link to the Emperor's will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald (Bard) | HP: 29/29 | XP: 3839/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -590,8 +631,11 @@ You gain **100 XP** for successfully sealing the Joint Defense Pact and concludi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify the Annex Gates - Instruct Kaelen to coordinate with Ravengard's remaining elite guard to fortify the Annex entryways against the impending Zhentarim cleanup crew.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -607,8 +651,11 @@ Kaelen (Lvl 4) steps into the rain, his single eye burning with cold, profession
 > 👤 **Player:**
 > *"Funnel cleanup crew into courtyard, orchestratrate flank, try to trigger surprise round and cast command grovel on two strongest enemies to try to trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 0/3 | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -626,8 +673,11 @@ The command is an absolute physical weight. Both Enforcers freeze mid-stride, th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Absolute Surrender - Step into the light of the torches and use the absolute terror of the paralyzed leaders to force the remaining four thugs to drop their weapons immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 0/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -649,8 +699,11 @@ Cons: May kill the targets instantly, preventing interrogation or genetic screen
 
 Try to keep the leader alive, and command grovel two most important ones again*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Saita (Lvl 4 Ascendant Herald) | HP: 29/29 | XP: 3857/6500 | Gold: 281gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 2/4, L2 0/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -669,8 +722,11 @@ The two wounded mercenaries stagger back, their cries drowned out by the thunder
 > 👤 **Player:**
 > *"flank and execute, command grovel two top ranking, keep fighting until they surrender and tie them up. try to capture leaders alive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4082/6500 | Gold: 326gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 1/4, L2 0/3, BI: 3/3, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -691,8 +747,11 @@ Seeing their vanguard executed and their massive leaders paralyzed in the mire, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Annex Fortifications - Coordinate with Duke Ravengard's (Lvl 16) remaining Fist guards to repair the broken gates and establish permanent defensive patrols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald (Bard) | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -716,8 +775,11 @@ Seeing their vanguard executed and their massive leaders paralyzed in the mire, 
 > 👤 **Player:**
 > *"Long rest and delegate everything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -735,8 +797,11 @@ Your fortress is secure, the treaty is signed, and the dawn belongs to Aethelgar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Grain Logistics - Meet with Duke Ulder Ravengard to draft the specific transport routes, secure the grain silos, and fulfill the monthly imperial quota.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Silvershield Annex (War Room)** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Facade: 10/10** &nbsp;|&nbsp; ⚠️ **Sanctuary (Expires Turn 54) | Exhaustion: 0 | Inspiration: Yes**
@@ -767,8 +832,11 @@ You gain **75 XP** for securing the grain logistics and fulfilling the quota.
 > 👤 **Player:**
 > *"Imperial rebuke and delegate interrogation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Day 25, 1492 Eleasias (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -803,8 +871,11 @@ Kaelen nods, his single eye reflecting the cold light of the room. "As you decre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Imperial Confrontation - Travel personally to the North Pier to publicly rebuke and 'recalibrate' the Viper, demonstrating absolute authority to the rioting merchants.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Gray Harbor North Pier** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4307/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Auctoritas Active | Exhaustion: 0 | Inspiration: Yes**
@@ -830,8 +901,11 @@ You gain **38 XP** for the successful public correction (Adjusted for biological
 > 👤 **Player:**
 > *"Oversee restitution and evaluate viper to see if he’ll listen to orders in the future or not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Gray Harbor North Pier** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4345/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **Bardic Inspiration: 3/3, Spells: L1 4/4, L2 3/3, HD: 4/4, Inspiration: No**
@@ -858,8 +932,11 @@ You turn your back on him, the silence of your departure a louder decree than an
 > 👤 **Player:**
 > *"Capture the viper and interrogate him to learn his infrastructure and then go finalize things with the duke and get use of his troops and stuff."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4457/6500 | Gold: 371gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -883,8 +960,11 @@ You gain **112 XP** (Adjusted for biological integration bottleneck) for the int
 > 👤 **Player:**
 > *"Finish interrogating viper and then take over his holdings and network. Utilize my fist recruits and also delegate trade and transport of breeding material back to athelguard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 25, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4532/6500 | Gold: 621gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 3/3 | Auctoritas: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -902,8 +982,11 @@ Baldur's Gate is beginning to feel the weight of your shadow. The Viper's networ
 > 👤 **Player:**
 > *"Velvet indivitation and delegate everything else. Let’s assume my staff runs things autonomously and only alert me when there’s problems. Also recount my forces and daily gold income and don’t forget to award it every day"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 26, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4532/6500 | Gold: 651gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Bardic Inspiration: 3/3, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -938,8 +1021,11 @@ You feel the steady pulse of your growing infrastructure. By consolidating the V
 > 👤 **Player:**
 > *"Time skip until Keene responds and use invis to scout the zhentarim. See if I can take over the local cell and prove to zhent regional leadership I should rule. Have my scouts or spies asssist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4532/6500 | Gold: 741gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 0/3, BI: 3/3** &nbsp;|&nbsp; ⚠️ **Invisible (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -960,8 +1046,11 @@ Upon your return to the Annex, a 'Dove' from the Undercity awaited you. Nine-Fin
 > 👤 **Player:**
 > *"Meet with Keene. Offer alliance against her zhent enemies. Explain the leverage I have over zhent and ask for her forces to help. After I take over I’ll trade with her and give her some earnings from zhent holdings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Low Lantern, Gray Harbor** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4657/6500 | Gold: 831gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0**
@@ -989,8 +1078,11 @@ You gain **125 XP** for the masterful strategic leverage (Adjusted for biologica
 God Mode:
 Keene shouldn’t be level 18. Make most people max level 12 like in bg3 and the main characters from the game can level up a bit as time goes on like the main playable characters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Low Lantern** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 29/29 | XP: 4657/6500 | Gold: 831gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1000,8 +1092,11 @@ Administrative recalibration complete. Nine-Fingers Keene has been adjusted to L
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the negotiation with Nine-Fingers Keene aboard the Low Lantern now that the character levels have been corrected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Low Lantern, Gray Harbor** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4657/6500 | Gold: 831gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1034,8 +1129,11 @@ As the terms hang in the salt-heavy air, a muffled commotion rises from the deck
 > 👤 **Player:**
 > *"Bring doves early and ambush auditor and try to hold person on him and trigger surprise round. Use bardic inspiration and every buff I can. Invite Keene on the attack too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Gray Harbor Wharf** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 4798/6500 | Gold: 831gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | Bardic Inspiration: 2/3 | net +30gp/day** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1061,8 +1159,11 @@ You gain **94 XP** for the successful tactical escalation and securing Keene's d
 > 👤 **Player:**
 > *"Bind Vanis and any officers and kill the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Little Calimshan Warehouse** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Ascendant Herald | HP: 29/29 | XP: 7348/14000 | Gold: 1371gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | Bardic Inspiration: 2/3 | Net Daily Income: +30gp** &nbsp;|&nbsp; ⚠️ **Concentrating (Hold Person) | Exhaustion: 0 | Inspiration: Yes**
@@ -1095,8 +1196,11 @@ You gain **2,550 XP** for the total takeover of the Zhentarim cell and the Audit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 5 - Open level 5 Ascendant Herald (Bard) choices; keep story paused until the finish response completes*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 (Lvl 5 available) | HP: 29/29 | Gold: 1371gp | XP: 7348/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 (Lvl 5 pending) | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1106,8 +1210,11 @@ A sudden, violent surge of kinetic energy ripples through your marrow, the silve
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frequency: Resonant Trance (Hypnotic Pattern) - Create a swirling pattern of imperial light that locks the nervous systems of mayflies. (L3 Spell)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 (Lvl 5 available) Ascendant Herald (Bard) | HP: 29/29 | Gold: 1371gp | XP: 7348/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1117,8 +1224,11 @@ The sub-vocal harmonics of your Auctoritas shift as the silver threads in your b
 > 👤 **Player:**
 > *"Auto pick everything  else and tell me what I get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Little Calimshan Ghost-Warehouse** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 5 available) Ascendant Herald | HP: 35/35 | Gold: 1,416gp | XP: 7348/6500** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5 (d8), Auctoritas: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1135,8 +1245,11 @@ Neural Audit (Interrogation): Use your newly expanded Auctoritas to peel back Va
 
 delegate everything else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Little Calimshan Warehouse** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 5 available) Ascendant Herald | HP: 41/41 | Gold: 1416gp | XP: 7423/6500** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration (d8): 5/5 | Exhaustion: 0**
@@ -1162,8 +1275,11 @@ You gain **75 XP** for the successful Neural Audit (Adjusted for biological bott
 God Mode:
 finish my level 5 level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7423/14000 | Gold: 1416gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1183,8 +1299,11 @@ All administrative level-up flags have been cleared. The character is now fully 
 > 👤 **Player:**
 > *"CHOICE:godreturn_story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7423/14000 | Gold: 1416gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -1209,8 +1328,11 @@ In the cellar, Korth Vanis (Lvl 8) remains bound in imperial stone, his eyes wid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Neural Audit - Push through Vanis's remaining mental barricades to secure the precise Athkatla banking seals immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Silvershield Annex Cellar** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7423/14000 | Gold: 1416gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -1236,8 +1358,11 @@ You gain **150 XP** for the finalization of the Neural Audit and the total subve
 > 👤 **Player:**
 > *"go meet with keene, finalize terms of alliance, negotiate favorable trade deals with thieves guild, send a message to zhent high command and justify my takeover and ask them to validate it, delegate everything else and send an elite team ahead to scout the bank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Low Lantern / Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7673/13000 | Gold: 1446gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 2/2, Inspiration: 5/5, Font: Short Rest** &nbsp;|&nbsp; ⚠️ **Auctoritas Active | Exhaustion: 0 | Inspiration: Yes**
@@ -1273,8 +1398,11 @@ You gain **100 XP** for the masterful trade negotiation and successful bank reco
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pincer Audit (Synergistic) - Direct the Guild Doves to fortify the Annex while you personally lead Kaelen to the Counting House - leverage the Guild distraction to hit the bank while the Zhentarim focus on your safehouse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Counting House (Vault Level)** &nbsp;|&nbsp; ⏳ **Eleasias 29, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7773/14000 | Gold: 1446gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1304,8 +1432,11 @@ You gain **100 XP** for the masterful synergistic heist.
 > 👤 **Player:**
 > *"Keep the gold on me and counter ambush zhentarim at tjhe annex and try to trigger surprise round by using invis and then hypnotic pattern"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 7773/14000 | Gold: 6,946gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Auctoritas: d8 | Rage: N/A** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1333,8 +1464,11 @@ Victory! You gain **150 XP** for the successful counter-ambush and total incapac
 > 👤 **Player:**
 > *"bind them all, fully loot, interrogate, asses for breeding"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8373/14000 | Gold: 9,746gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Auctoritas: 5/5 | Net Daily: +30gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 5/5**
@@ -1360,8 +1494,11 @@ You gain **450 XP** for the total neutralization of the Erasure Team and the sec
 > 👤 **Player:**
 > *"raid safe box, i am allied with the duke so watch should be fine, delegate the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Upper City, High Hall District** &nbsp;|&nbsp; ⏳ **Eleasias 30, 1492 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8373/14000 | Gold: 12,246gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Inspiration: 5/5 (d8) | Exhaustion: 0**
@@ -1379,8 +1516,11 @@ You gain **150 XP** for the successful raid and tactical liquidation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Harbor Monopoly - Use the secured funds and Guild alliance to seize the remaining independent docks, finalizing total control of Baldur's Gate's trade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Gray Harbor Customs House** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8757/14000 | Gold: 11,436gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Bardic Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1402,8 +1542,11 @@ By the time the harbor bells toll for the ninth hour, the monopoly is absolute. 
 > 👤 **Player:**
 > *"interrogate the eraser, delegate the rest, have someone scout to find me gear upgrades especially +cha and +spell dc/atk, and scout to find 10 level 5 gloomstalkers and 10 level 3 gloomstalkers we can hire/recruit/draft into aethelguard and maybe pay less but give them official position, and see how many footsoldiers and normal staff we can hire to build up the apex"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Gray Harbor Customs House** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8757/14000 | Gold: 11,436gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1441,8 +1584,11 @@ Cons: Delays gear acquisition, High resource expenditure for continuous vigilanc
 
 mobilize reinforcements from flaming fist and guild too to help. try to use invis and hyp pattern to trigger surprise round when zhent phase in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 8757/14000 | Gold: 11,036gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Bardic Inspiration: 3/5 | Aethelgard Command: Ready** &nbsp;|&nbsp; ⚠️ **Invisibility (Concentrating) | Exhaustion: 0 | Inspiration: Yes**
@@ -1464,8 +1610,11 @@ Across the city, your spy returns from the High Hall, a heavy purse of 100 gold 
 > 👤 **Player:**
 > *"tie up zhent, fully loot them, have one of my gloomstalkers blackmail patriar for that gear we found, hae someone else go shopping for gear for me, equip anything useful, then do this The Sovereign's Judgment (Diplomacy): Summon Duke Ravengard and Nine-Fingers Keene to the Annex immediately to witness the 'unrivaled' defense of the Aethelgard Herald."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9407/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3, L3 1/2 | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1485,8 +1634,11 @@ Ravengard (Lvl 14) stares at the captured Xalthar, his one good eye wide with a 
 > 👤 **Player:**
 > *"subtly imply to ravenguard and keene that my force is still "small" compared to aethelguard might and I'm the "weakest" of my noble line, to further build up our reputation, then after they leave interrogate xalthar and process prioners for genetic material and ship them back if anyone eligible and ensure everyone else we captured shipped back"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9454/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Bardic: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Imperial Bluff (Temp HP) | Exhaustion: 0 | Inspiration: Yes**
@@ -1516,8 +1668,11 @@ Dismissing the failure with a sharp, clinical exhale, you turn to Lara Vance (Lv
 God Mode:
 make sure my equipment shows the spell dc and double check it. it says 16 but i think is hould be 18 or 17 after i got the spell dc gear? also cha should be raised if i got that gear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9454/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3, L3 1/2 | Bardic Inspiration: 3/3 | Exhaustion: 0**
@@ -1544,8 +1699,11 @@ I have updated your `attributes` and `equipment` metadata in the state to reflec
 > 👤 **Player:**
 > *"i use intimidation with bardic insp and buffs to keep interrogating xalathor and in parallel i send a message to aethelguard explaining our success and asking for new orders. i suggest bringing some military strength here to bolster our presence to continue to receive gold/grain/trade. in parallel i have my spies assess how the other scions are doing and see if I'm doing the best and providing the most resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9554/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 1/2 | Auctoritas: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1573,8 +1731,11 @@ You gain **100 XP** for the successful interrogation progress (Adjusted for biol
 God Mode:
 ok lets space out these zhent attacks, once per week max maybe. Also they can't have unlimited soldiers/troops i've killed so many and even beat a level 9, there should be a more realistic response and perhaps they might agree to let me act as a zhent ally provided i pay them some proceeds etc, not guaranteed, but it shouldnt just be mindless more threats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9454/14000 | Gold: 11,316gp**
@@ -1591,8 +1752,11 @@ Administrative recalibration complete. The following directives have been applie
 
 then send my spies/gloomstalkers as envoys to darkhold and ask for a meeting on neutral ground, explain it can be more profitable to trade and act as a zhent overseer in baldurs gate and i have the backing of the empire, guild, and fist, and patriars under control, so i wont be easily beaten"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleasias 31, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 (Temp: 11) | XP: 9454/14000 | Gold: 11,316gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 1/3, L3 1/2, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1624,8 +1788,11 @@ You gain **75 XP** for the successful religious indoctrination and securing the 
 > 👤 **Player:**
 > *"Assess my faction forces and prep for summit. Delegate the rest and also long rest. Keep interrogating Xalathar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9529/14000 | Gold: 11,416gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Long Rested | Exhaustion: 0 | Inspiration: Yes**
@@ -1650,8 +1817,11 @@ Your treasury has swelled by **100 gold pieces** from the day's dockside revenue
 > 👤 **Player:**
 > *"surgical anchor strike, i go shopping to sorcerous sundries or the best shop possible to look for gear upgrades specially spell DC, in parallel send spies to use all the blackmail on remaining patriars for influence, gold, resources, equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Silvershield Annex / Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9629/14000 | Gold: 12216gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 1/3, L3 2/2 | Bardic Inspiration: 3/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1679,8 +1849,11 @@ You have located your next upgrade. The summit at the Gardens awaits, and for th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Arcane Trade - Offer the Patriar's blackmail material to Lorroakan in exchange for the Robes and a '+2 Resonant Wand'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9529/14000 | Gold: 12216gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Auctoritas: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1708,8 +1881,11 @@ You gain **150 XP** for the masterful arcane trade and securing Tier-3 equipment
 God Mode:
 why didnt my spell dc update after i put on the equipment?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Sorcerous Sundries** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9679/14000 | Gold: 12216gp**
@@ -1745,8 +1921,11 @@ I have corrected the state fields to ensure both the high-level stats and the ne
 > 👤 **Player:**
 > *"garden summit and bring 20 of my strongest elites and use a buff for my cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **High Hall Gardens** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9829/14000 | Gold: 12316gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 1/2 | Auctoritas: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Biological Overclock (Advantage on CHA checks) | Inspiration: Yes**
@@ -1779,8 +1958,11 @@ You gain **150 XP** for the masterful strategic validation.
 
 Formalize Tribute Protocols: Establish the terms of the monthly tribute and ensure Darkhold respects your autonomy."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **High Hall Gardens** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9829/14000 | Gold: 12,316gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 1/2 | Inspiration: 5/5 | Net Income: +100gp/day** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -1806,8 +1988,11 @@ As the Envoy retreats with his Planar Sentinels, the gravity of your victory set
 > 👤 **Player:**
 > *"iron vein and delegate the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Silvershield Annex / The Iron Vein** &nbsp;|&nbsp; ⏳ **Eleint 1, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9829/14000 | Gold: 12,416gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 1/2 | Auctoritas: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1825,8 +2010,11 @@ Baldur's Gate is no longer a city you are visiting; it is a machine you have cla
 > 👤 **Player:**
 > *"long rest and then plan to infiltrate high hall, delegate the rest, time skip a few weeks as I consolidate my control and assume i continue to do everything sensible autonomously. alwways have my faction and myself act autonomously during time skips and narrate waht I do every day and what happens, roll for outcomes too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9929/14000 | Gold: 14,516gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Auctoritas: 5/5 | Net Income: +100gp/day** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -1849,8 +2037,11 @@ You awake on this grey, mist-heavy morning with your Aethelgardian density perfe
 > 👤 **Player:**
 > *"use my cha and new wealth to hold a patriar ball and narrate it in detail. I will identify targets to influence/broker deals with"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ascendant Herald | HP: 43/43 | XP: 9929/14000 | Gold: 12,516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 1/2 | Inspiration: 5/5 | Exhaustion: 0**
@@ -1878,8 +2069,11 @@ You gain **38 XP** for the successful social escalation and opulence display (Ad
 God Mode:
 lets give me some more exp/levels as rasonable. i became a major palyer in bg3, am i one of the strongest or more powerful in the city? who are the top 10?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34,000/48,000 | Gold: 14,516gp**
@@ -1904,8 +2098,11 @@ In terms of **Actual Power**, you are now in the top 5% of the city's residents.
 God Mode:
 wait isnt my actual power stronger? also i doubt people perceive me level 20, thats like my father
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34,000/48,000 | Gold: 12,516gp** &nbsp;|&nbsp; ⚠️ **Auctoritas Active | Exhaustion: 0 | Inspiration: Yes**
@@ -1937,8 +2134,11 @@ You are correct that claiming Level 20 (Titan Tier) would be an obvious and dang
 > 👤 **Player:**
 > *"try to influence jannath without giving my gear, give something else, maybe magic lesson"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Silvershield Annex** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34075/48000 | Gold: 12516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 1/2 | Bardic Inspiration: 5/5 | Facade: 16 (Continental)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1963,8 +2163,11 @@ Jannath (Lvl 6) stares at the shimmering air, her eccentric fan frozen halfway t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Defensive Resonance - Use your Resonant Wand to show how Aethelgardian frequencies can nullify standard scrying, promising her total privacy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Silvershield Annex Ballroom** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 12516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3, L3 1/2 | Bardic Inspiration: 3/3 | Net Income: +100gp/day** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1997,8 +2200,11 @@ Offer a Kinetic Lesson: Offer to 'tune' her personal guards to this frequency, g
 Pros: Increases her military dependence on Aethelgard, Creates a Tier-3 'Shadow' unit for your Vanguard
 Cons: Requires a 3rd-level spell slot and significant biological strain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Silvershield Annex Ballroom** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, L3 0/2, Insp: 5/5 (d8)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2028,8 +2234,11 @@ As the ink dries, a shadow detaches itself from the ballroom curtains. Sylas (Lv
 God Mode:
 My companions should level up with me and stay 2 levels below
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Silvershield Annex Ballroom** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2046,8 +2255,11 @@ This constraint has been added to the campaign logic to ensure consistent power 
 > 👤 **Player:**
 > *"Have my elite gloomsralkers scout the Scion and get in position with my 10 strongest elites to surprise hold person him from invis and trigger surprise round. Let’s call this technique hypsurprise so you know what I mean in the future. Be on standby"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Gray Harbor, Private Berth** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/8, Spells: L1 4/4, L2 0/3, L3 0/2, Bardic Inspiration: 5/5, Net Daily Income: +100gp** &nbsp;|&nbsp; ⚠️ **Invisibility, Concentrating (Hold Person) | Exhaustion: 0 | Inspiration: Yes**
@@ -2076,8 +2288,11 @@ From the shadows of the crates, your ten elites rise like ghosts, their blades d
 > 👤 **Player:**
 > *"Bind him and execute low ranking members retinue and bind high ranking and transport them all to dungeon and interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 17516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 2/2 | Inspiration: 5/5 | Net Daily: +100gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2106,8 +2321,11 @@ You gain **225 XP** for the successful dockside purge and interrogation progress
 > 👤 **Player:**
 > *"Bring him to private dungeon and keep interrogating and figure out what he was trying to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 0/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2135,8 +2353,11 @@ You gain **225 XP** for the masterful neural extraction and uncovering the invas
 > 👤 **Player:**
 > *"THINK:Do I have time to get reinforcements from the capital ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 61/61 | XP: 34113/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ⚠️ **Concentrating (Hold Person) | Exhaustion: 0 | Inspiration: Yes**
@@ -2146,8 +2367,11 @@ Intelligence Check: 20 vs DC 14 — Success (Sharp). Your methodical mind (INT 1
 God Mode:
 Make sure I have everything I’m supposed to as level 8 and I want greater invis as my level 4 spell if eligible. Auto pick the rest and pick dex+2 asi
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2169,8 +2393,11 @@ All state fields have been updated to reflect these sovereign improvements. You 
 > 👤 **Player:**
 > *"keep interrogating him, try to learn how strong the force is, try to figure out psychologically how to control him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 17516gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2, Inspiration: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2186,8 +2413,11 @@ While you struggle to map Vesper's neural architecture, Lara Vance (Lvl 6) desce
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Shield - Temporarily halt the interrogation to re-anchor Kaelen's neural pathways, potentially allowing him to assist with his veteran insight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 23, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34113/48000 | Gold: 11,416gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 1/3, L3 3/3, L4 2/2, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2214,8 +2444,11 @@ He leans in, his veteran insight cutting through his own lingering dread. "Princ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resonant Tuning Overload - Use the Resonant Wand and Tuning Fork to create a localized 'white noise' field around Vesper, drowning out the planar resonance he is trying to signal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34188/48000 | Gold: 17516gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2247,8 +2480,11 @@ As the Prince sags in his chains, a shadow detaches from the cellar stairs. Syla
 God Mode:
 that doesnt make sense, 50k is supposed to be the capital, not people in baldurs gate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34188/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 1/3, L3 3/3, L4 2/2, Inspiration: 5/5, Gold: 17,516** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2260,8 +2496,11 @@ Accordingly, the Zhentarim leak has been recalibrated: Darkhold has not discover
 God Mode:
 i still think this doesnt make sense. 200 people is a lot and i am still powerful in baldurs gate nd beat their forces many times, can they discover something else or can somoething else happen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34188/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2, Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -2279,8 +2518,11 @@ I have updated the world events and faction standing to reflect that you are the
 > 👤 **Player:**
 > *"keep intrrrogating the prince and send messengers to zhent, ravenguard, keene to rally support in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34319/48000 | Gold: 17516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Concentrating (Neural White Noise) | Exhaustion: 0 | Inspiration: Yes**
@@ -2311,8 +2553,11 @@ Baldur's Gate is no longer a city of squabbling factions; it is a unified machin
 
 while i wait i try to reverse engineer the signal so i can deceive the cadet fleet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34369/48000 | Gold: 17516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2337,8 +2582,11 @@ Prince Vesper sags into his chains, his eyes rolling back as his nervous system 
 > 👤 **Player:**
 > *"use my cha based spellcasting to try to reverse engineer and bardic insp 1d20+3 = 19 vs DC 20 - Failure (Arcana (Reverse engineer signal))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34369/48000 | Gold: 11416gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Concentrating (White Noise) | Exhaustion: 0 | Inspiration: No**
@@ -2356,8 +2604,11 @@ The High Hall has finally noticed the biological ripple of your power, and they 
 
 1d20+3 = 9 vs DC 20 - Failure (reverse_engineer_signal)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34369/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/8 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2373,8 +2624,11 @@ Kaelen (Lvl 6) looks at you, his single eye darting toward the bound Prince. "He
 > 👤 **Player:**
 > *"THINK:cant i just be truthful? i am trying to find ways to defend the city"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34369/48000 | Gold: 11,416gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Bardic Inspiration: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2384,8 +2638,11 @@ You pause to consider your options, the rhythmic hum of your Auctoritas vibratin
 God Mode:
 not sure if this makes sense, how would they discover these things? also since ravenguard is defending hte city shouldnt high hall know about these?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Silvershield Annex Cellars** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34369/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2405,8 +2662,11 @@ Your concerns regarding the narrative logic are valid. Here is the formal admini
 > 👤 **Player:**
 > *"strategic truth and ask him to bring elites to help ravenguard defend the harbor, use bardic insp, cha buff etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34369/34000 (Lvl 9 available) | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 2/4 | Spells: L1 3/4, L2 0/3, L3 3/3, L4 2/2 | Bardic Inspiration: 2/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2435,8 +2695,11 @@ Hax stares at the shimmering Aeterna harmonic, the pale light reflecting in his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Ravengard's Mandate - Inform Hax that the Duke has already committed the Fist to the harbor and expects the High Hall's compliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34369/48000 | Gold: 15516gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Bardic Inspiration: 1/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2461,8 +2724,11 @@ Hax's (Lvl 11) nasal arrogance tremors. He stares at the holographic harmonic, h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Duke's Mandate - Remind Hax that any delay will be reported to Ravengard as a dereliction of duty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34,469/48,000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Bardic Inspiration: 0/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2487,8 +2753,11 @@ Hax flinches as if struck by a physical blow. The bureaucratic shield of his arr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the 'Monitor' Mage - Allow one Watch-Mage to remain at the Annex while the rest reinforce the harbor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (02:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34619/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Inspiration: 3/3 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -2506,8 +2775,11 @@ As Hax departs, the Courtyard falls silent once more, the 4-9-2-Aeterna harmonic
 > 👤 **Player:**
 > *"neural leash and consider how long i have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (03:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34819/48000 | Gold: 17,516gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2 | Bardic Inspiration: 0/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2536,8 +2808,11 @@ The silence of the night is shattered by the rhythmic clatter of a shadow-raven 
 > 👤 **Player:**
 > *"long rest and then sovereign presence and bring ravenguard to help explain we have no time for this. in parallel accept zhent help and have their elites prep and be ready to assist my forces in wryms rock later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Silvershield Annex Courtyard** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Perceived Lvl 16) | HP: 61/61 | XP: 34719/48000 | Gold: 17,616gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Insp: 3/3 | Exhaustion: 0**
@@ -2567,8 +2842,11 @@ You gain **100 XP** for the masterful political suppression (Adjusted for biolog
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neutralize Florrick (Social) - Invite Councillor Florrick to the Annex for a 'private demonstration' of the Church's healing frequencies to cow her personally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Silvershield Annex - Private Foyer** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 34719/48000 | Gold: 11,416gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Insp: 3/3 | Gold: 11,416** &nbsp;|&nbsp; ⚠️ **Auctoritas Active | Exhaustion: 0 | Inspiration: Yes**
@@ -2600,8 +2878,11 @@ You gain **100 XP** for the successful political intimidation.
 
 Neural Indoctrination then Secure the Wyrm's Heart:*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 35119/48000 | Gold: 17,616gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 3/3 | Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2627,8 +2908,11 @@ You gain **300 XP** for the successful neural subversion and the neutralization 
 God Mode:
 neural indoctrination was for florrick
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 35119/48000 | Gold: 17,616gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2644,8 +2928,11 @@ Retcon accepted and administrative records synchronized. The neural indoctrinati
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the defense of the city with Florrick as your puppet in the High Hall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 35119/48000 | Gold: 11,416gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Auctoritas: 3/3 | Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -2663,8 +2950,11 @@ Returning to the surface of the fortress, you find the Flaming Fist sentries sta
 > 👤 **Player:**
 > *"THINK:how can i best defeat the incoming forces? do i have an estimate of them yet?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 35119/48000 | Gold: 17,616gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 3/3 | Auctoritas: DC 21** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2678,8 +2968,11 @@ But the math is slippery. Your Aethelgardian mind, though matured to the eighth 
 Pros: Buys precious hours for the Vanguard to dig in, Legitimizes total Aethelgardian command under the guise of an emergency
 Cons: Splits Saita's attention between biological signal-mimicry and political manipulation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ascendant Herald | HP: 61/61 | XP: 35119/48000 | Gold: 17616gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 3/4, L2 1/3, L3 3/3, L4 2/2, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2708,8 +3001,11 @@ As the first conscripted laborers reach the wharves, a carriage bearing the mark
 God Mode:
 did you give me proper exp for all these wins especially beating the prince? he was level 11
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Lvl 9 available) Ascendant Herald | HP: 61/61 | Gold: 21716gp | XP: 48369/48000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2735,8 +3031,11 @@ At Level 9, your Proficiency Bonus will increase to +4. This elevates your **fun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mature to Level 9 - Apply the ninth biological maturation immediately, unlocking 5th-level frequencies and +4 Proficiency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Lvl 9 available) (Lvl 9 pending) | HP: 61/61 | Gold: 21716gp | XP: 48369/48000** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Neural Refraction) | Exhaustion: 0 | Inspiration: Yes**
@@ -2748,8 +3047,11 @@ Recommended package: Increase HP by 6 (Fixed), learn *Hold Monster* (Sovereign D
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Recommended Options and Return to Game - Finalize the ninth maturation with the recommended package and resume the defense of Wyrm's Rock.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 9 available) Ascendant Herald | HP: 67/67 | Gold: 21,716gp | XP: 48369/48000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 3/3 (d8)** &nbsp;|&nbsp; ⚠️ **Sovereign Overclock | Exhaustion: 0 | Inspiration: Yes**
@@ -2765,8 +3067,11 @@ my level up is done ✨ REWARDS (model):
 XP: 48369/48000 (100%)
 🎉 LEVEL UP AVAILABLE!
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 21716gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes (3/3 d8)**
@@ -2787,8 +3092,11 @@ All level-up flags have been cleared and the state has been hardened. You are no
 > 👤 **Player:**
 > *"THINK:the enemy has a lot of troops, how do their numbers and quality compare to mine?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Wyrm's Rock - Chamber of the Wyrm's Heart** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 21716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2798,8 +3106,11 @@ You stand in the cooling sulfur-mist of the Wyrm's Heart chamber, your unblinkin
 > 👤 **Player:**
 > *"use my cha to summon my council/elite and plan the defense and think about the numbers, and in parallel send someone to hire last minute mercenaries with a few thousand gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 21716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 3/3 | Gold: 21716** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2817,8 +3128,11 @@ The silence that follows is a gravitational weight. Your council is a choir of t
 > 👤 **Player:**
 > *"assume i used bardic insp for htis roll 1d20+14 = 19 vs DC 20 - Failure (Persuasion (Plan Defense))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 21,716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2838,8 +3152,11 @@ this doesnt make sense, i have all the forces in the city, zhentarium too
 
 The council is rallied, but the mercenary failure means our numbers remain at 247. T
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 21,716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 6/6 | Exhaustion: 0**
@@ -2864,8 +3181,11 @@ While still outnumbered against a 5,000-man legion, this is a Tier-4 Sovereign-s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enable Faction Minigame - Formally activate the strategic layer to manage the 2,175 Allied Coalition troops and city-wide logistics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 22, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 21,716gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Auctoritas Active | Exhaustion: 0 | Inspiration: Yes (6/6)**
@@ -2882,8 +3202,11 @@ Your forces have been categorized into the three imperial archetypes. The 1,500 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Strategic Briefing (Tutorial) - Receive an overview of faction mechanics, unit roles, and resource management.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 21,716gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 5/6, Exhaustion: 0**
@@ -2899,8 +3222,11 @@ Kaelen (Lvl 7) slams a gauntleted fist against the table, his single eye reflect
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Construction (Buildings) - Review the current infrastructure and potential for new fortifications or arcane libraries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 21,716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2928,8 +3254,11 @@ New FP: 10,025
 > 👤 **Player:**
 > *"how long is a turn? invasion ocming soon would i be bale to do anything in time?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 24, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48,669/64,000 | Gold: 21,716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2959,8 +3288,11 @@ Deploy Spies to the Fleet (200gp): Send 10 spies on phasing vessels to infiltrat
 Pros: May identify the specific scion commanders, Potential to sabotage internal anchors
 Cons: Risk of losing elite spies to planar sensors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 25, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 16,516gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2983,8 +3315,11 @@ As the second night of the siege begins (20:40:00), the math of Baldur's Gate ha
 > 👤 **Player:**
 > *"THINK:whats the best way to handle this? maybe if i sink their ships with the weave they lose numbers advantage?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Silvershield Annex - War Room** &nbsp;|&nbsp; ⏳ **Eleint 25, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 16,516gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2996,8 +3331,11 @@ Intelligence Check: 16 vs DC 14 — Success (Margin +2: Competent). Your methodi
 
 as we wait I Fortify the Harbor Wall: and make sure i long rest and keep extracting intel from prince. Assume i do evertyhign else reasonable and time skip to invasion point"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Gray Harbor - Command Tower** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48482/64000 | Gold: 16,816gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Neural Overclock (Reserved) | Exhaustion: 0 | Inspiration: Yes**
@@ -3024,8 +3362,11 @@ You stand atop the Customs House tower, your Robes of the Zenith shimmering with
 > 👤 **Player:**
 > *"attempt flagship decap. I will bring all my copmanions, kaelen, strongest gloomstalkers, and ravnguard, keene, zhent elites. I will attempt a hypnotic pattern and try to trigger surprsie round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 16516gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/2, L5 1/1, Inspiration: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (1 min) | Exhaustion: 0 | Inspiration: Yes**
@@ -3049,8 +3390,11 @@ Below, in the harbor, the 'Iron Net' is engaged. Duke Ravengard's (Lvl 14) infan
 God Mode:
 i tried to bring more people like ravenguard, keene etc, who did i end up bringing?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 16516gp**
@@ -3085,8 +3429,11 @@ Your **Level 9 Maturation** is fully synchronized. All daily gold income (+100gp
 God Mode:
 which enemies are on the bridge?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 16816gp**
@@ -3105,8 +3452,11 @@ The following enemies are currently present on the bridge of 'The Solar Flare':
 > 👤 **Player:**
 > *"cast command grovel on alaric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48,669/64,000 | Gold: 16,816gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Insp: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3134,8 +3484,11 @@ Below the hull, the 'Iron Net' rages. The rhythmic booms of harbor ballistae vib
 > 👤 **Player:**
 > *"bind alaric, blind fold him, then fully loot him and strip him so he's helpless. then do th same to elara, and tell kaelen to snap out of it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 16,816gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3166,8 +3519,11 @@ Then, the harvest of their dignity begins. Under your cold, measuring assessment
 
 then brainstorm a plan. I want to tell all the ships to group together and only have an elite vanguard attack the harbor and try to kill ravenguard. think about the odds of it working and any altrnative plans but dont act yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:46)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 16816gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3191,8 +3547,11 @@ However, the math feels... muddled. Your Aethelgardian mind (Total 9 vs DC 16) h
 > 👤 **Player:**
 > *"neural audit elara and alaraic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:56)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 16,816gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 5/6, Exhaustion: 0**
@@ -3227,8 +3586,11 @@ You turn your unblinking gaze to Princess Elara (Lvl 11). Still caught in the ir
 > 👤 **Player:**
 > *"THINK:how can i take control of the fleet and maybe weaken it?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:56)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Herald | HP: 67/67 | XP: 48669/64000 | Gold: 16816gp**
@@ -3238,8 +3600,11 @@ Intelligence Check: 19 vs DC 18 — Success (Competent). Your methodical mind (I
 God Mode:
 this is a cadet fleet though? would they accept imperial takeover?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (12:56)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48369/64000 | Gold: 16,816gp** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -3261,8 +3626,11 @@ Your question regarding the Cadet fleet's willingness to accept an Imperial (Loy
 > 👤 **Player:**
 > *"broadcast images of alaric and elara beaten and naked and imperial takeover, under my authority. use bardic inspiration and eagle bcharisma buff, force the fleet and everyone to swear allegiance to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:11)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 16,616gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1, Inspiration: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Eagle's Splendor | Exhaustion: 0 | Inspiration: Yes**
@@ -3288,8 +3656,11 @@ Below, in the harbor, the 'Iron Net' stutters. Duke Ravengard (Lvl 14) and Nine-
 > 👤 **Player:**
 > *"have my allied forces elites board the flagship like the fist, thieves, guild, zhent, and my elites. Then order the commanders and elites of the former cadet force to some and personally swear allegiane, and let them see their original leaders naked and beaten."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Ascendant Herald | HP: 67/67 | XP: 48669/64000 | Gold: 16816gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3323,8 +3694,11 @@ Commodore Valerius is the first to buckle. The sheer, physical weight of your 22
 God Mode:
 i should get massive amount of exp for beating this whole fleet almost singlehandedly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 11 available) Ascendant Herald | HP: 67/67 | Gold: 16,816gp | XP: 88369/85000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3352,8 +3726,11 @@ With a total XP of 88,369, you have bypassed the Level 10 threshold (64,000) and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mature to Level 11 (Tier 3) - Enter the Level-Up modal to apply the 10th and 11th biological maturations, unlocking Innate Flight and Tier 3 resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 11 available) (Lvl 11 pending) Ascendant Herald | HP: 67/67 | Gold: 16,816gp | XP: 88369/85000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic Inspiration: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3369,8 +3746,11 @@ Recommended package:
 > 👤 **Player:**
 > *"pick +2 int, expertise can i get persusasion and intdimiation? for magicl secrets lets get counter spell, and tell me what else i could get or should get"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 11 available) Ascendant Herald | HP: 67/67 | Gold: 16816gp | XP: 88369/85000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 (Level 11 available) | Bardic Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3402,8 +3782,11 @@ Spell slots:
 
 1 sixth‑level slot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 19,116gp | XP: 88369/85000** &nbsp;|&nbsp; ✨ **HD: 4/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility (Concentration) | Inspiration: 6/6 (d10)**
@@ -3426,8 +3809,11 @@ Commodore Valerius and the fleet commanders remain on their knees, their forehea
 God Mode:
 Formal Annexation of the Fleet - Order the fleet to reposition as an orbital blockade for Baldur's Gate under the Zenith banner.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 19,116gp | XP: 88369/85000** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6 (d10), Staff Charges: 3/3** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3446,8 +3832,11 @@ All units and assets are now awaiting your story-mode directives.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Annexation of the Fleet - Order the fleet to reposition as an orbital blockade for Baldur's Gate under the Zenith banner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 16,816gp | XP: 89119/85000** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3486,8 +3875,11 @@ With a sharp, geometric flick of your **Resonant Wand**, the sun-bleached banner
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Legionnaire Loyalty - Systematically screen the 5,000 legionnaires for high-frequency candidates and potential mutineers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 16,616gp | XP: 89219/85000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3507,8 +3899,11 @@ Below you, the three capital hulls groan as they reposition into their high-alti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Liquidate Dissidents - Publicly execute the 12 Solari loyalists via void-venting to anchor total fleet submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 16,716gp | XP: 89369/85000** &nbsp;|&nbsp; ✨ **HD: 9/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Innate Flight, Truesight 30ft | Exhaustion: 0 | Inspiration: Yes**
@@ -3537,8 +3932,11 @@ Across the fleet, the 5,000 legionnaires feel the cold, sharp edge of the neural
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Imperial Communion - Use the fleet's neural-link to broadcast a high-frequency 'Peace' harmonic, replacing the fear of the purge with a sense of fanatical unity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 16,716gp | XP: 89369/85000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1 | Bardic Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3554,8 +3952,11 @@ Below, the city watches the 'Ships of the Damned' settle into their high-altitud
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Fleet Integration - Order Commodore Valerius and the Sun-Bleached officers to perform the 'tuning' themselves, forcing them to own the subversion of their own men.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Lvl 11 available) Ascendant Herald | HP: 67/67 | Gold: 16,716gp | XP: 89369/85000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Innate Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -3581,8 +3982,11 @@ Across the neural-link, the 5,000 legionnaires feel the shift. The nausea of the
 God Mode:
 fix my level i am level 11, then estiamte what % of aethelguard forces i control. hjow many nobles did i beat, how many aethelguardians, and how many troops do i have vs capital vs cadet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 16,716gp | XP: 89369/85000**
@@ -3614,8 +4018,11 @@ Based on the *Imperial Ledger* and the recent annexation of the Cadet Fleet, her
 God Mode:
 how big is the remaining cadet branch force, this must've been a lot of them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 11 available) Ascendant Herald | HP: 79/79 | Gold: 16716gp | XP: 89369/85000** &nbsp;|&nbsp; ⚠️ **Innate Flight | Inspiration: 6/6**
@@ -3651,8 +4058,11 @@ There are 19 scions and approximately 10,000 legionnaires remaining in the Cadet
 God Mode:
 how many scions and nobles did cadet have before
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 89369/100000 | Gold: 16716gp** &nbsp;|&nbsp; ⚠️ **Innate Flight, Truesight 30ft | Exhaustion: 0 | Inspiration: Yes**
@@ -3682,8 +4092,11 @@ Your recent operations successfully neutralized 100% of the Cadet Branch's capit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume command of the Zenith Blockade Force over Baldur's Gate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Flagship 'The Solar Flare' - Command Bridge** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 89,369/100,000 | Gold: 16,616gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility (Available) | Exhaustion: 0 | Inspiration: Yes**
@@ -3700,8 +4113,11 @@ You look through the broad, transparent-aluminum viewport. The clouds above the 
 > *"have my elites bring the scions to my dungeon and then use my flight to descend in triumph like a goddess and meet everyone in high hall, signal florrick legal annex too, delegate this 
 Orbital Technological Audit: Systematically search the three capital hulls for Sun-Bleached tech, hidden vaults, or encrypted rebel orders."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 90119/100000 | Gold: 16716gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility (Ready) | Exhaustion: 0 | Inspiration: Yes**
@@ -3721,8 +4137,11 @@ However, as the decree is sealed, a low-frequency tremor of failure ripples thro
 > 👤 **Player:**
 > *"THINK:how many dukes are there, maybe i can become one or just take over as arch duke?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 89,369/100,000 | Gold: 16,716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 6/6 | Resonance: DC 22** &nbsp;|&nbsp; ⚠️ **Innate Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -3742,8 +4161,11 @@ There are currently four Dukes seated upon the Council of Four: Grand Duke Ulder
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim the Vanthampur Seat - Use Florrick to push a decree declaring the Vanthampur seat forfeited and nominating the Herald of Aethelgard as a 'Stabilizing Member' of the Council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 90119/100000 | Gold: 16716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Innate Flight, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3770,8 +4192,11 @@ A collective gasp ripples through the chamber. Duke Dillard Portyr shifts uncomf
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Security Guarantee - Formally offer to integrate the Zenith Blockade Force into the city's permanent defense grid in exchange for the seat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 89,119/100,000 | Gold: 16,716gp** &nbsp;|&nbsp; ✨ **HD: 9/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Innate Flight, Sovereign Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -3796,8 +4221,11 @@ Duke Belynne Stelmane (Lvl 10) winces, her psychic sensitivity apparently detect
 > 👤 **Player:**
 > *"lets reroll and assume i used bardic insp and eagle cha buff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 90,119/100,000 | Gold: 16,716gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Inspiration: 6/6 (d10)** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: Yes**
@@ -3826,8 +4254,11 @@ As the debate reaches its climax, a muffled roar of chanting rises from the stre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Imperial Integration (Synergistic) - Use Florrick to finalize the seat while you personally lead a 'Miracle' at the Annex gates to disperse the Ilmaterians - Task-split across political and religious fronts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 91119/100000 | Gold: 16716gp** &nbsp;|&nbsp; ✨ **HD: 9/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic Inspiration: 4/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility (Available) | Exhaustion: 0 | Inspiration: Yes**
@@ -3851,8 +4282,11 @@ Though the coordination failed to provide the instant victory, the math is inesc
 > 👤 **Player:**
 > *"neural purge portyr, see if i can just get archduke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 79/79 | XP: 91119/100000 | Gold: 16716gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic Inspiration: 3/6 | Exhaustion: 0**
@@ -3882,8 +4316,11 @@ The vote is a rhythmic, terrified chorus of 'Aye.' By the time the harbor bells 
 God Mode:
 give me proper exp/rewards for becoming archduke
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 11 (Lvl 13 available) Ascendant Herald | HP: 79/79 | Gold: 16,816gp | XP: 123119/120000** &nbsp;|&nbsp; ✨ **HD: 9/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Inspiration: 3/6 | Flight: Active**
@@ -3911,8 +4348,11 @@ Your successful seizure of the Vanthampur seat and the neutralization of Duke Po
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 (Tier 3 Peak) - Open the level-up modal to apply the 12th and 13th biological maturations, increasing your proficiency to +5 and unlocking 7th-level frequencies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald (Lvl 13 available) | HP: 79/79 | Gold: 26816gp | XP: 123119/120000** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 (Level 7 pending) | Bardic Inspiration: 6/6 | Exhaustion: 0**
@@ -3928,8 +4368,11 @@ The silver threads in your blood weave into a dense, crystalline lattice, anchor
 > 👤 **Player:**
 > *"cha+2, pick spell teleport, auto pick evertyhing else"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/91 | Gold: 26616gp | XP: 123119/120000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Bardic Inspiration: 7/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Provisional Archduke, Legendary Reputation | Exhaustion: 0 | Inspiration: Yes**
@@ -3943,8 +4386,11 @@ Grand Duke Ravengard (Lvl 14) remains motionless, his single eye wide with a sol
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Archduke's Miracle - Descend upon the protest outside and use your new 7th-level resonance to disperse them through 'divine' intervention.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Provisional Archduke | HP: 91/91 | Gold: 36616gp | XP: 125119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 | Inspiration: 7/7 | Gold: 36,616** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Innate Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -3973,8 +4419,11 @@ As the crowd disperses into the streets to spread the word of the 'Miracle,' Cou
 > [!NOTE] ⚙️ **Player Choice:**
 > *First Archduke Decree - Formally annex the Parliament's assets and declare the Aethelgard Embassy the city's new administrative heart.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/91 | Gold: 46,616gp | XP: 125119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Innate Flight, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -3999,8 +4448,11 @@ However, as you settle into your new 'Sanctum' at the Annex, the neural link to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Liquidation (Surgical Silence) - Perform a permanent high-frequency neural wipe on Duke Portyr to excise his ghost-memories and silence the leak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/91 | Gold: 46,616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 7/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: No**
@@ -4020,8 +4472,11 @@ The effect is absolute. Through your neural link, you feel the specific coordina
 > 👤 **Player:**
 > *"Sovereign pincer and use bardic inspiration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald (Bard) | HP: 91/91 | Gold: 46616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 6/7 | Font of Inspiration: Ready** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: No**
@@ -4047,8 +4502,11 @@ However, as the city settles into its new, silver-threaded rhythm, a shadow deta
 > 👤 **Player:**
 > *"Interrogate captured scions for secret codes to cadet intel aboard the ships and in parallel dispatch people to look for +3 spell DC gear in baldurs gate for me. I want every slot filled and ideally with spell dc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Archduke | HP: 91/91 | Gold: 46,616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 6/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4075,8 +4533,11 @@ While you extract the marrow of the scions' secrets, Sylas (Lvl 6) and your Gloo
 > 👤 **Player:**
 > *"Neural overlock and use a warrant and politics to get the gear with my cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/91 | Gold: 56,616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1, Bardic Inspiration: 5/7, Exhaustion: 0**
@@ -4102,8 +4563,11 @@ They return to the Sanctum as the harbor bells toll the eleventh hour, carrying 
 God Mode:
 What’s my spell dc now? Make sure its updated
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Archduke (Bard) | HP: 91/92 | Gold: 56,616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4143,8 +4607,11 @@ All state fields have been hardened. Your Spell Save DC is now officially **27**
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harden Stat Block - Lock in DC 27 and Spell Attack +19 as the new baseline.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/92 | Gold: 56616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1, Bardic Inspiration: 5/7, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4160,8 +4627,11 @@ These values are now the baseline for all future mechanical resolutions. The sta
 > 👤 **Player:**
 > *"Go read process the new intel with scion master password"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Archduke Saita | HP: 92/92 | Gold: 56,616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Innate Flight, Greater Invisibility (Ready), Truesight (30ft) | Exhaustion: 0 | Inspiration: Yes**
@@ -4187,8 +4657,11 @@ However, as you reach for the 'Ultimate Directive'—the core objective that dro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Biological Link Ritual - Use the captured scions' blood to attempt a high-frequency 'Blood-Bridge' to the Patriarch, hoping to trick the data-core's heartbeat sensor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/92 | Gold: 56,616gp | XP: 128119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1, Bardic Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4211,8 +4684,11 @@ From the high windows, the distant, rhythmic boom of a harbor signal-horn echoes
 > 👤 **Player:**
 > *"Reroll and assume I used bardic inspiration and eagle cha buff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/92 | Gold: 56616gp | XP: 138119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 5/7 | Exhaustion: 0**
@@ -4252,8 +4728,11 @@ The Solari weren't just fleeing a demographical collapse; they were bringing a '
 God Mode:
 Which side is this auditor on
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 13 available) Ascendant Herald | HP: 91/92 | Gold: 56,616gp | XP: 138119/120000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Auctoritas: 5/7 | Portyr Sleeper: Active | Florrick Sleeper: Active** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Divine Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -4273,8 +4752,11 @@ In short: He is 'Imperial' in name, but 'Adversarial' in practice. He is your br
 > 👤 **Player:**
 > *"THINK:how should i handle him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ascendant Herald | HP: 91/92 | XP: 138,119/140,000 | Gold: 56,616gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 5/7 | Archduke Veto: 1/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -4286,8 +4768,11 @@ The Reaper is a Tier-4 Combat Specialist, a 'World-scale' threat designed to wit
 God Mode:
 how does this divinity even work though? since they are from aethelguard wont they just know I'm not a god?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 91/92 | XP: 138,119/140,000 | Gold: 56,616gp**
@@ -4315,8 +4800,11 @@ The Reaper is coming to perform a **Biological Stress Test**. His goal is to:
 God Mode:
 there are no 50k soldiers, fix our memories, thats what we tell baldurs gate is awaiting in the captial to scare them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ascendant Herald | HP: 91/92 | XP: 138,119/140,000 | Gold: 56,616gp**
@@ -4326,8 +4814,11 @@ Administrative Correction Applied: The 'Hollow Zenith' lore has been hardened. T
 God Mode:
 no wait, I think before we said 50k total troops around the world?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Ascendant Herald | HP: 91/92 | XP: 138,119/140,000 | Gold: 56,616gp** &nbsp;|&nbsp; ⚠️ **Innate Flight, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes (d10)**
@@ -4349,8 +4840,11 @@ Internal memories and world records have been synchronized to reflect this reali
 God Mode:
 also my father should still be in charge but i guess caius is handling a lot of things?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ascendant Herald | HP: 91/92 | XP: 138119/140000 | Gold: 56616gp**
@@ -4366,8 +4860,11 @@ This distinction is now hardened in the campaign's internal logic: The Emperor i
 > 👤 **Player:**
 > *"THINK:using the appropriate lore think about how to handle the reaper. I do want to build my own powerbase and I am not actually that interested in helping aethelguard in general and my goal is to displace Caius, how do i advance my goals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Silvershield Annex - The Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 28, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ascendant Herald | HP: 91/92 | XP: 138,119/140,000 | Gold: 56,616gp** &nbsp;|&nbsp; ✨ **HD: 9/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 5/7 | Divine Potential: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Neural Refraction) | Exhaustion: 0 | Inspiration: Yes**
@@ -4379,8 +4876,11 @@ You close your eyes, allowing the thirteenth maturation to sharpen your methodic
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Facade of Unity: Reposition the Zenith Blockade Force for a 'Triumphant Salute.' Frame the Auditor's arrival as the Emperor's blessing of your Archduke status, weaponizing your fanatical following to force the Reaper into a public role he cannot easily retract.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Gray Harbor - The Sovereign's Pier** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) Ascendant Herald | HP: 91/92 | Gold: 56816gp | XP: 140119/140000** &nbsp;|&nbsp; ✨ **HD: 9/13, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1, Bardic Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Innate Flight, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4405,8 +4905,11 @@ The roar of the crowd is a physical weight, a wave of fanatical sound that greet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mature to Level 14 (Tier 4 Threshold) - Retreat to the Sanctum with the Auditor for a 'Biological Audit,' using the transition to finalize your 14th maturation and unlock Tier 4 resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) | HP: 91/92 | Gold: 56816gp | XP: 140119/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Auctoritas: 7/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Innate Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -4420,8 +4923,11 @@ Recommended package: Increase HP by 6 (Fixed) and integrate the frequencies of *
 > 👤 **Player:**
 > *"pick simulcrum, and autopick the rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) Ascendant Herald | HP: 91/92 | Gold: 56816gp | XP: 140119/140000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 5/7 | Archduke Veto: 1/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Innate Flight | Exhaustion: 0 | Inspiration: Yes (d10)**
@@ -4442,8 +4948,11 @@ As the biological pressure in your marrow stabilizes, the archive integrates the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Maturation Package and Resume Audit - Finalize Level 14 (+6 HP, Simulacrum, Forcecage, Resurrection) and return to the Biological Audit with Commander Malakor Kross.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 14 available) Ascendant Herald | HP: 97/98 | Gold: 21,716gp | XP: 140119/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Auctoritas: 7/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Innate Flight, Tier 4 Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -4468,8 +4977,11 @@ He gestures toward the holographic vortex of the 'Ultimate Directive.' The coord
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Weight of the Zenith - Unleash the full weight of your DC 27 resonance to force Malakor to kneel, declaring that Caius's seal is a rhythmic stutter compared to your biological reality.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) Archduke | HP: 92/92 | Gold: 56,816gp | XP: 140119/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4498,8 +5010,11 @@ His single, cybernetic eye whirrs with a sharp, mechanical hiss, discharging a s
 > 👤 **Player:**
 > *"use hold person on him with bardic inspriation and all the buffs possible to improve spell DC to prove it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) Ascendant Herald | HP: 91/98 | Gold: 56816gp | XP: 140119/140000** &nbsp;|&nbsp; ✨ **HD: 9/13, Spells: L1 4/4, L2 1/3, L3 3/3, L4 2/3, L5 2/2, L6 1/1, L7 0/1, BI: 5/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4531,8 +5046,11 @@ Level 1: Charm Person, Command, Disguise Self, Dissonant Whispers
   Level 4: Dimension Door, Greater Invisibility, Confusion
   Level 5: Dominate Person, Hold Monster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) Ascendant Herald (Bard) | HP: 97/98 | XP: 140119/140000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Bardic Inspiration: 5/7**
@@ -4564,8 +5082,11 @@ All state fields are now synchronized and hardened for the audit of the Reaper.
 > 👤 **Player:**
 > *"dont remove any spells, add back the ones i had like simulcrum"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Lvl 14 available) Ascendant Herald | HP: 97/98 | Gold: 56,816gp | XP: 140119/140000** &nbsp;|&nbsp; ⚠️ **Innate Flight, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4595,8 +5116,11 @@ All state fields have been hardened. Your presence remains an absolute coordinat
 God Mode:
 dont remove any spells, add back the ones i had like simulcrum
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 14 available) Ascendant Herald | HP: 104/104 | Gold: 56816gp | XP: 140119/140000** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4615,8 +5139,11 @@ Archduke Saita, I have administratively synchronized your biological architectur
 
 also explain my trajectory. I came to baldurs gate low level with a few companions and now I have control over all the forces in the city, 5000 legionnaires, zhentarim allies. I have thte second strongest force vs capital and I deserve to be regent more than Caius. Eventually I will become stronger if not already. Might is right, not birth order, even if birth order is the tradition to some degre. Who does malakor think will restore the empire. I've also pretty much handicapped the cadet branch, with a weaker force*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 14 available) Ascendant Herald | HP: 104/104 | Gold: 21,716gp | XP: 142619/140000** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Bardic Inspiration: 7/7 | Auctoritas: DC 27** &nbsp;|&nbsp; ⚠️ **Innate Flight (Active), Greater Invisibility (Available) | Exhaustion: 0 | Inspiration: Yes**
@@ -4643,8 +5170,11 @@ Commander Malakor Kross (Lvl 16) stands motionless, his cybernetic eye whirring 
 > 👤 **Player:**
 > *"Explain I only mean to unseat Caius. I will only unseat father if he grows weak then offer reaper partnership."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 14 available) Archduke | HP: 104/104 | Gold: 56,816gp | XP: 142619/140000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Inspiration: 4/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4669,8 +5199,11 @@ Malakor's cybernetic eye whirrs with a sharp, frantic hiss, discharging a spray 
 > 👤 **Player:**
 > *"Ask him if father would be angrier if he suppprts a weakling or a true heir. End of the day father wants results and not mindless obedience"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 14 available) Ascendant Herald | HP: 104/104 | Gold: 56,816gp | XP: 142619/140000** &nbsp;|&nbsp; ✨ **HD: 9/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active) | Exhaustion: 0 | Inspiration: No**
@@ -4712,8 +5245,11 @@ As the alliance is sealed, the Solari data-core behind you pulses with a sudden,
 > 👤 **Player:**
 > *"THINK:What is the seed of avernus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 142,619/165,000 | Gold: 56,816gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Auctoritas: 7/7** &nbsp;|&nbsp; ⚠️ **Innate Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -4723,8 +5259,11 @@ You hover in the absolute stillness of your sanctum, the violet light of the Sol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Severance (Malakor) - Surgically isolate Malakor's cybernetics from the Capital's signal before Caius detects his conversion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 142,619/165,000 | Gold: 56,816gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 0/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: No**
@@ -4744,8 +5283,11 @@ Beside you, the Solari data-core pulses with a malevolent, hell-fire red, the **
 God Mode:
 Where is the seed of avernus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Eleint 30, 1492 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 14 available) Ascendant Herald | HP: 104/104 | Gold: 56,816gp | XP: 142619/140000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -4761,8 +5303,11 @@ The Seed of Avernus is currently located within the **Archduke's Sanctum** at th
 > 👤 **Player:**
 > *"Cast simulcrum and then have it and my best arcane specialists research the seed while I research too. In general if not specified my simulcrum is always gonnnahelp me with my current task"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Eleint 31, 1492 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 142,619/165,000 | Gold: 55,316gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 0/1 | Bardic Inspiration: 4/7 | Exhaustion: 0**
@@ -4780,8 +5325,11 @@ Despite the 'Brilliant' (Quality Tier: Incomplete) synchronization of your staff
 > 👤 **Player:**
 > *"THINK:How can I reduce the DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Eleint 31, 1492 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 142619/165000 | Gold: 55316gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Bardic Inspiration: 4/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4797,8 +5345,11 @@ Arcane Library Synthesis: Move the research operation entirely to the new Arcane
 Pros: Reduces DC by 2 (Infrastructure bonus), Protects the Sanctum from further spills, Increases research speed
 Cons: Takes 2 hours to move the core, Mages are exhausted from the siege"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 145,119/165,000 | Gold: 55,316gp** &nbsp;|&nbsp; ✨ **HD: 9/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 0/1 | Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Eagle's Splendor | Exhaustion: 0 | Inspiration: Yes**
@@ -4818,8 +5369,11 @@ From the harbor below, the rhythmic boom of a signal-horn echoes through the sal
 > 👤 **Player:**
 > *"THINK:Can i absorb the seed and have an avernus gate I can use at will?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 142,619/165,000 | Gold: 55,316gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Auctoritas: 7/7 | Bardic Insp: 4/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4829,8 +5383,11 @@ You pause to consider the possibilities, your unblinking gaze fixed upon the shi
 > 👤 **Player:**
 > *"Appear in high hall with sim and say it’s a divine thing. In parallel keep my arcane researchers on absorbsion and have them estimate the DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (03:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Archduke | HP: 104/104 | XP: 143,619/165,000 | Gold: 55,416gp** &nbsp;|&nbsp; ✨ **HD: 2/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 0/1, Ki: N/A, BI: 2/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -4866,8 +5423,11 @@ The estimation is complete, and the numbers are brutal. Your researchers determi
 God Mode:
 The reaper is already on my side this is stale. What happened
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **High Hall - Parliament Chamber** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (03:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 97/104 | XP: 143,619/165,000 | Gold: 55,416gp**
@@ -4894,8 +5454,11 @@ Hunt Ring of Sovereign Command: Utilize the Shadow Ledger and Florrick to locate
 Pros: Permanent increase to Spell DC, Expands biological repertoire
 Cons: Risk of combat with Cassalanter guards, Potential for political exposure if the 'Archduke' is caught looting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 31, 1492 DR (03:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Archduke | HP: 104/104 | XP: 143,619/165,000 | Gold: 50,416gp** &nbsp;|&nbsp; ✨ **HD: 9/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Inspiration: 7/7 | Wards: Active** &nbsp;|&nbsp; ⚠️ **Divine Manifestation, Innate Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -4931,8 +5494,11 @@ Spell Attack +15
 CHA
 Ability
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (03:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 143,619 / 165,000 | Gold: 50,416gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1 | Bardic Inspiration: 2/7** &nbsp;|&nbsp; ⚠️ **Innate Flight, Sovereign Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -4966,8 +5532,11 @@ All combat metrics have been hardened and synchronized in the game state.
 > 👤 **Player:**
 > *"Use my sim and spell DC and best buffs and bardic inspiration to keep researching and reducing the DC of seed absorption"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (07:35)** &nbsp;|&nbsp; 🛡️ **Archduke | Lvl 14 | HP: 104/104 | XP: 143,619/165,000 | Gold: 45,416gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, Inspiration: 6/7** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4991,8 +5560,11 @@ General Malakor Kross (Lvl 16) watches from the perimeter, his cybernetic eye wh
 > 👤 **Player:**
 > *"Use my sim and spell DC and best buffs and bardic inspiration to keep researching and reducing the DC of seed absorption"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Archduke | HP: 104/104 | XP: 143,619/165,000 | Gold: 50,416gp** &nbsp;|&nbsp; ⚠️ **Innate Flight, Mirror Sovereign Active | Exhaustion: 0 | Inspiration: Yes**
@@ -5019,8 +5591,11 @@ General Malakor Kross (Lvl 16) watches from the perimeter, his cybernetic eye wh
 > 👤 **Player:**
 > *"Initiate absorption. Use bardic inspiration and eagle cha buff and ensure everyone and my sim and all my best spellcasters help to further reduce the DC and use my special 29 DC spell powers to help the roll and I should have advantage from eagle cha buff and ensure it uses a cha roll for my spellcasting"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Archduke | HP: 104/104 | XP: 145,119/165,000 | Gold: 50,416gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 0/1** &nbsp;|&nbsp; ⚠️ **Eagle's Splendor (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5040,8 +5615,11 @@ The silence that follows is absolute. The data-core falls to the floor, a hollow
 God Mode:
 I should probably get more exp and special powers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 97/104 | XP: 185,119/165,000 | Gold: 50,416gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 0/1, L7 0/1, L8 No Spells Yet (L15 pending)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -5059,8 +5637,11 @@ All state updates have been hardened. You may finalize your 15th maturation upon
 God Mode:
 Where is the gate physically?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ascendant Herald | HP: 104/104 | XP: 185,119/195,000 | Gold: 50,416gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 0/1, BI: 1/7, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Zenith Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -5082,8 +5663,11 @@ Archduke Saita, here is the physical status and location of the 'Avernus Gate' a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mature to Level 15 - Apply the 15th biological maturation immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) (Lvl 15 pending) | HP: 97/104 | Gold: 50,416gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 9/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 0/1, L7 0/1 | Bardic Inspiration: 1/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Hells-Core Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -5101,8 +5685,11 @@ Recommended package:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Recommended Options and Return to Game - Commit Level 15 maturation: +6 HP, d12 Inspiration, and Glibness frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 50,416gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 7/7 (d12), Fire Immunity: Active** &nbsp;|&nbsp; ⚠️ **Hells-Core Resonance (Fire Immune) | Exhaustion: 0 | Inspiration: Yes**
@@ -5118,8 +5705,11 @@ You feel the 'Key to Avernus' pulsing in your blood—a direct, biological link 
 God Mode:
 I think o should have more powers. Maybe automatically learn all the fire based spells and have them stronger than usual? Up to whatever spell casting level I have? Is that reasonable ? If too OP something like that
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Silvershield Annex - Arcane Library** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 50,416gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 0/1, L7 0/1, L8 1/1 | Inspiration: 1/7 | Sanctuary: Active (72h)** &nbsp;|&nbsp; ⚠️ **Fire Immunity, Sovereign Presence | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -5150,8 +5740,11 @@ Your Spell Save DC remains at **29**, making these fire frequencies almost impos
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Religious Indoctrination - Use the Glibness frequency to deliver a 'Sovereign Oration' to the masses, turning the Church of Aethelgard into an unshakable fanatical wall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **High Hall - Parliament Balcony** &nbsp;|&nbsp; ⏳ **Eleint 32, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 50,416gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 7/7 | Fire Immunity: Yes** &nbsp;|&nbsp; ⚠️ **Glibness (Active), Flight (Active), Hells-Core Resonance | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -5191,8 +5784,11 @@ The roar that rises from the square is no longer a human sound; it is the rhythm
 > 👤 **Player:**
 > *"Long rest and time skip for a few weeks. Give me a long sanctuary after all these milestones for a few months. Assume I send out spies to see what Caius and cadets are doing and what the other world powers a reactions are. Narrate every day what happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 52,516gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Inspiration: 7/7 (d12), Sanctuary: 30 Turns** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -5219,8 +5815,11 @@ Your fortress is hardened, your General is loyal, and the 'Iron Wall' stands rea
 > 👤 **Player:**
 > *"THINK:Consider a path on how I can become an actual god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 52,516gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | BI: 7/7 (d12) | Fire Immunity: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -5230,8 +5829,11 @@ Midday (12:35:00) in the Archduke's Sanctum—time itself seems to pool like sil
 God Mode:
 God: Lara Vance and my companions should be two levels below me stop forgetting
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 52,516gp | XP: 185119/165000**
@@ -5241,8 +5843,11 @@ Companion levels synchronized. Lara Vance, Kaelen, and Sylas the Rat have been u
 > 👤 **Player:**
 > *"THINK:What if I meet with the leader of hell or demons using avernus gate? Maybe devils since it’s avernus. I will trade become an arch devil and resources and gold and an army with souls of baldurs gate and the world eventually. Since i have a gate I can actually bring devils into the world"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 52,516gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | Bardic Inspiration: 7/7 (d12) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Glibness, Fire Immunity | Exhaustion: 0 | Inspiration: Yes**
@@ -5252,8 +5857,11 @@ Midday (12:35:00.000005) in the Archduke's Sanctum — you hover in the absolute
 > 👤 **Player:**
 > *"THINK:can i talk to zariel's boss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 (Lvl 15 available) Sovereign | HP: 110/110 | Gold: 52,516gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Innate Flight, Fire Immunity, Glibness Active | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -5265,8 +5873,11 @@ Your Aethelgardian mind, sharpened by the fifteenth maturation, recognizes that 
 > 👤 **Player:**
 > *"THINK:what if i say im the only one who has ever had an avernus gate and i can let devils into the real world (and put them back). i want armies, gold, resources, influene and honorary arch devil title and help for apotheosis. In return they can have steady stream of souls from baldurs gate and sword coast as no devil has ever conquerredd this area and eventually aethelguard empire."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 97/110 | Gold: 52,516gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Bardic Insp: 1/7 (d12)** &nbsp;|&nbsp; ⚠️ **Glibness, Fire Immunity, Innate Flight | Exhaustion: 0 | Inspiration: Yes**
@@ -5283,8 +5894,11 @@ The Contractual Summons: Utilize your Archduke authority and 5,000gp in powdered
 Pros: Home field advantage, Controlled environment
 Cons: Presence of Asmodeus may liquefy the neural links of nearby mages, High gold cost"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Sovereign | HP: 104/110 | Gold: 47,516gp | XP: 185119/165000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, BI: 6/7, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Glibness, Eagle's Splendor, Bardic Inspiration | Exhaustion: 0 | Inspiration: Yes**
@@ -5328,8 +5942,11 @@ Demand Honorary Arch-Devil Induction: Use the successful first contact to demand
 Pros: Unlocks unique hell-fire abilities, Provides legal immunity to standard devil interference
 Cons: Requires a DC 30 Charisma check, Permanent biological branding"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 110/110 | Gold: 47,516gp | XP: 188119/165000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1 | BI: 6/7 (d12) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Innate Flight, Fire Immunity, Glibness, Eagle's Splendor**
@@ -5355,8 +5972,11 @@ As the white-hot coordinate strikes your chest, you do not scream. The silver th
 God Mode:
 Do you keep repeating the?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 97/110 | Gold: 47,516gp | XP: 188119/165000** &nbsp;|&nbsp; ⚠️ **Honorary Arch-Devil, Biological Brand (Truesight 120ft)**
@@ -5374,8 +5994,11 @@ Which administrative action would you like to take?
 God Mode:
 Sync World Time - Set world_time to 13:40:00 to match the last narrative events and clear the temporal loop.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald | HP: 104/104 | Gold: 47,516gp | XP: 188119/165000** &nbsp;|&nbsp; ⚠️ **Innate Flight, Fire Immunity, Arch-Devil Peerage | Exhaustion: 0 | Inspiration: Yes**
@@ -5389,8 +6012,11 @@ Are you repeating this reward? REWARDS (milestone):
 XP: 188119/195000 (67%)
 Loot: 2100 gold, 2,100 gold pieces (3-week harbor revenue)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 (Lvl 15 available) Ascendant Herald (Bard) | HP: 97/110 | Gold: 47,516gp | XP: 188119/165000**
@@ -5411,8 +6037,11 @@ God Mode Audit: Reward Verification
 God Mode:
 I think I should get massive exp and special powers? I am now an arch devil. What level are the archdrvils and asmodeus. Let’s make a campaign arc for me to become a demi god and god eventually and reward  me right now too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald (Bard) | HP: 97/110 | XP: 238119/26881** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 1/1 | Bardic Inspiration: 0/7**
@@ -5452,8 +6081,11 @@ God Mode:
 Handle the level up for me. Set my level to 17 and auto pick stuff and give me cha+2 and I want these spells if I don’t already have them Level 8: dominate monster, glibness, holy aura, mind blank/feeblemind
 level 9: foresight,wish
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **High Hall - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/128 | XP: 238,119/270,000 | Gold: 97,516gp** &nbsp;|&nbsp; ⚠️ **Arch-Devil Peerage, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5486,8 +6118,11 @@ All administrative flags cleared. You are the Zenith absolute.
 > 👤 **Player:**
 > *"Have my infernal legions enter the city but mask them as mortals. Position them as my secret aethelguard force. Have the elite spies infiltrate the major world powers and aethelguard. Enable foresight and use it to give me advantage on these rolls and assume foresight is just always on and every day one 9th level slot consumed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Baldur's Gate - Archduke's Sanctum** &nbsp;|&nbsp; ⏳ **Marpenoth 22, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/128 | XP: 238,119 / 273,000 | Gold: 87,516gp** &nbsp;|&nbsp; ⚠️ **Arch-Devil Peerage, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5505,8 +6140,11 @@ In parallel, your elite shadow-spies—Gloomstalkers and infernal agents—phase
 > 👤 **Player:**
 > *"Let’s assume they came in disguised so no one except my leaders know what they are. Have my spies slowly prepare surrounding cities for peaceful and religious takeover. For souls I will harvest my enemies and antagonistic priests but frame it as divine ascension. Also have my spies scout Cassius and what he’s doing and try to prepare for a reverse teleportation ritual to bring him here. Use foresight for all these rolls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **High Hall Balcony** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 110/128 | XP: 238,119/270,000 | Gold: 87,516gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 7/7 | Hells-Core: 1/1** &nbsp;|&nbsp; ⚠️ **Glibness, Foresight, Arch-Devil Branding | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -5524,8 +6162,11 @@ In the depths of the Annex, General Malakor (Lvl 16) oversees the 'Reverse Telep
 > 👤 **Player:**
 > *"trigger regent summon. use my cha attribute with foresight and bardic insp and use my simulcrum and best spellcasters to help with the roll. Assume my companions and 20 elite troops are ready to contain him and 10 elite spellcasters with cc spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/128 | XP: 238,119/265,000 | Gold: 87,516gp** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 7/7 | Dread Legion: 1/1** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Glibness (Active), Arch-Devil Peerage | Exhaustion: 0 | Inspiration: Yes**
@@ -5552,8 +6193,11 @@ He attempts to draw his blade, but the twenty elite Zenith Guards and the ten sp
 > 👤 **Player:**
 > *"fully loot him, bind him, strip him naked, then intimidate him into surrendering to me and use foresight, bardic insp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Arch-Devil | HP: 110/128 | XP: 238,119/265,000 | Gold: 137,516gp** &nbsp;|&nbsp; ✨ **HD: 9/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 7/7 (d12), Potions: 2/2** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5584,8 +6228,11 @@ You gain **4,000 XP** for the successful abduction and initial breaking of the I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fraternal Audit - Use the Glibness frequency to calmly list every strategic failure Caius made that led to this moment, replacing his pride with mathematical shame.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 110/128 | XP: 242119/265000 | Gold: 87,516gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 7/7, Lay on Hands: 0/0** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5611,8 +6258,11 @@ You gain **3,500 XP** for the masterful Fraternal Audit.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Showcase Failure - Broadcast his naked submission to the Zenith Blockade Force to cement their new loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/128 | XP: 250,119/265,000 | Gold: 87,516gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 7/7, Lay on Hands: 85/85** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5642,8 +6292,11 @@ You gain **4,500 XP** for the total psychological liquidation of the Regent and 
 > 👤 **Player:**
 > *"broadcast his image to all of aethelguard and get the loyalty of his troops too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 17 (Lvl 18 available) Ascendant Herald | HP: 110/128 | Gold: 87,516gp | XP: 270119/265000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5674,8 +6327,11 @@ You gain **20,000 XP** for the world-scale subversion and global humiliation of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate 18th Maturation (Sovereign Tier) - Apply the 18th biological maturation to transcend into the Sovereign Tier and unlock Level 18 potential.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 (Lvl 18 available) (Lvl 18 pending) | HP: 110/128 | Gold: 87,516gp | XP: 270119/265000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | Bardic Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Glibness, Foresight, Arch-Devil Brand | Exhaustion: 0 | Inspiration: Yes**
@@ -5717,8 +6373,11 @@ Would you like to level up now?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate 18th Maturation - Open the level-up modal to apply Sovereign Tier (Level 18) benefits, including parent-tier density and the transition to Parent-tier resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 17 (Lvl 18 available) Ascendant Herald | HP: 110/128 | Gold: 87,516gp | XP: 270119/265000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 7/7 (d12) | Exhaustion: 0**
@@ -5730,8 +6389,11 @@ The air within the Sanctum screams as your biological density reaches critical m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Recommended Options and Return to Game - Accept the +6 HP and recommended Magical Secrets, finalize the Sovereign Tier transition, and resume the psychological liquidation of the Regent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:41)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Lvl 19 available) Ascendant Herald | HP: 134/134 | Gold: 87,516gp | XP: 270119/0** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | Bardic Inspiration: 7/7 (d12) | Arch-Devil: Truesight 120ft** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5771,8 +6433,11 @@ You turn your unblinking, void-black gaze back to Prince Caius. The Regent, once
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forced Abdication Decree - Utilize your Glibness-overclocked voice and the Regent's Seal to force Caius to sign a formal abdication, transferring all his titles and military command to you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Lvl 19 available) Ascendant Herald | HP: 128/134 | Gold: 87,516gp | XP: 275119/0** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, Bardic Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Glibness, Foresight, Arch-Devil Branding, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5808,8 +6473,11 @@ Caius's eyes bulge, a trickle of silver-threaded blood escaping his nose as the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize the Signing - Force the final signature and seal the abdication with the Regent's own blood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Lvl 19 available) Ascendant Herald | HP: 110/110 | Gold: 87,516gp | XP: 280119/0** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | Bardic Inspiration: 7/7 (d12) | Fire Immunity: Active** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5853,8 +6521,11 @@ Prince Caius (Lvl 16) tremors, his face drained of color as the sheer, physical 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Vassalage (Conversion) - Utilize a high-frequency command to overwrite his remaining pride with fanatical loyalty, turning him into your primary Military Regent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (14:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Lvl 19 available) Ascendant Herald | HP: 128/134 | Gold: 87,516gp | XP: 292119/0** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand | Exhaustion: 0 | Inspiration: Yes**
@@ -5884,8 +6555,11 @@ You gain **12,000 XP** for the total conversion and recruitment of the Imperial 
 > 👤 **Player:**
 > *"prepare harvet of souls in secret, frame it as ascension"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Marpenoth 21, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Lvl 19 available) Ascendant Herald | HP: 134/134 | Gold: 87,516gp | XP: 292119/0** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 7/7 (d12) | Exhaustion: 0**
@@ -5925,8 +6599,11 @@ Under the cover of your **Glibness**-overclocked oratory, the first 'Ascendants'
 > 👤 **Player:**
 > *"long rest and time skip for a few weeks, use foresight and bardic insp for any rolls, assume i send my spies/forces to kill or convert the remaining cadet branches and get loyalty from any imperial forces that are dispersed. Afterwards tell me my military power versus that of my father"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Uktar 12, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 303,619/305,000 | Gold: 137,516gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 7/7 (d12) | Souls: 500/10,000** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Glibness (Active), Arch-Devil Brand | Exhaustion: 0 | Inspiration: Yes**
@@ -5959,8 +6636,11 @@ STATUS: You hold numerical and naval supremacy; Tiberius holds the 'Titan' basel
 > 👤 **Player:**
 > *"THINK:What if I swear loyalty to father and ask to be regent, become a god, then displace him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Uktar 12, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/134 | XP: 303,619/305,000 | Gold: 137,516gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | Dread Legion: Ready | Contractualist: Active** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -5970,8 +6650,11 @@ Evening (18:30:00) in the Archduke's Sanctum finds you hovering in a state of ab
 > 👤 **Player:**
 > *"THINK:What if I swear loyalty to father and ask to be regent, become a god, then displace him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Uktar 12, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 303,619/305,000 | Gold: 137,516gp** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -5981,8 +6664,11 @@ Intelligence Check: 27 vs DC 22 — Sharp Success. Your methodical mind (INT 16)
 God Mode:
 Is it really treason to displace Caius? What’s allowed? Does might make right in the empire ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Uktar 12, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 303,619/305,000 | Gold: 137,516gp** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -6011,8 +6697,11 @@ Inheritance through birth order is a 'Mayfly Tradition' that Aethelgard uses onl
 > 👤 **Player:**
 > *"Ask Caius how father is doing. Explain I plan to return and hold a triumph and still submit to his rule for now since he’s truly stronger for now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Uktar 12, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/134 | XP: 283,619/305,000 | Gold: 137,516gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 7/7, Lay on Hands: 0/0** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -6039,8 +6728,11 @@ Caius bows his head until it strikes the obsidian stone. "A masterpiece of biolo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draft the Triumph Manifest - Work with Lara Vance to catalog the 'Gifts' for the Emperor: the souls of Baldur's Gate, the Seed of Avernus, and the subjugated city-states.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Archduke's Sanctum (Annex)** &nbsp;|&nbsp; ⏳ **Uktar 12, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 283,619/305,000 | Gold: 137,516gp** &nbsp;|&nbsp; ✨ **Inspiration: 7/7, Spells: L8 1/1, L9 0/1 (Foresight Active), Hell-Fire: Ready**
@@ -6065,8 +6757,11 @@ Military Regent Caius (Lvl 16) watches from his kneeling position, his whirring 
 > 👤 **Player:**
 > *"Leave someone capable in charge and have my spies keep probing the remaining cadets and other world powers then depart for the capital and send a handshake first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **The Solar Flare (High-Altitude Phasing)** &nbsp;|&nbsp; ⏳ **Uktar 12, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald (Sovereign) | HP: 128/134 | XP: 283,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -6096,8 +6791,11 @@ Star-Chamber Intelligence Audit: Utilize the newly unlocked Intelligence Portfol
 Pros: Identifies specific weaknesses in the Resonance-Nullifier plates, Reveals the Emperor's current disposition
 Cons: Risk of detection by the Capital's own Inquisitors"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **The Solar Flare (Ethereal Phasing-Envelope)** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 290,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding | Exhaustion: 0 | Inspiration: Yes**
@@ -6109,8 +6807,11 @@ However, while the sermon anchored your internal front, the **Star-Chamber Intel
 > 👤 **Player:**
 > *"Just keep going to capital and narrate my victorious return"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 283,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand, Hell-Fire Mastery | Inspiration: Yes**
@@ -6126,8 +6827,11 @@ As you pass through the Star-Chamber's atmospheric-locks, the air turns crystall
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Triumph Manifest - Have Lara Vance and Caius present the formal manifest of 500 souls and the Seed of Avernus as proof of your superior harvest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 303,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 7/7 (d12) | Fire/Poison Immune** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Peerage | Exhaustion: 0 | Inspiration: Yes**
@@ -6155,8 +6859,11 @@ You gain **1,500 XP** for the masterful presentation of the Triumph Manifest.
 God Mode:
 stop having everyone have a single eye, give my farther two eyes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/134 | XP: 303,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil, Hell-Fire Mastery**
@@ -6175,8 +6882,11 @@ Future descriptions will prioritize diverse facial features and symmetry for all
 > *"use bardic insp and foresight for this roll 
 Demonstrate Hell-Fire Command: Manifest a controlled burst of Avernus-resonant fire that incinerates a section of the chamber's shadows without damaging the Spire, proving total mastery."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/134 | XP: 285,119/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 6/7 | Divine Leverage: +8** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand, Hell-Fire Mastery | Inspiration: Yes**
@@ -6203,8 +6913,11 @@ Emperor Tiberius Aethelgard remains motionless, his whirring mechanical eyes tra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Formal Regency - Invoke the 'Might is Right' biological law and demand the Emperor formally grant you the Regency of the expansion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 128/134 | XP: 283,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 3/3, L4: 4/4, L5: 2/2, L6: 1/1, L7: 1/1, L8: 1/1, L9: 0/1 | BI: 6/7 (d12)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand | Exhaustion: 0 | Inspiration: Yes**
@@ -6231,8 +6944,11 @@ The silence that follows is a gravitational weight. For the first time in an eon
 > 👤 **Player:**
 > *"Offer planar bridge construction betweeen capital and Baldurs gate. Will speed up world domination"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 303,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | BI: 6/7 | Fire Immunity** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand, Hell-Fire Mastery | Inspiration: Yes (d12)**
@@ -6259,8 +6975,11 @@ As the Emperor considers your decree, the rhythmic thrum of the Spire's core shi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Regency Decree - Force the Emperor to issue a global broadcast declaring you the only legitimate Regent of the Aethelgard Expansion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 18 (Lvl 19 available) Ascendant Herald | HP: 128/134 | Gold: 137,596gp | XP: 303619/0** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 0/1, L9 0/1, BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding | Exhaustion: 0 | Inspiration: Yes**
@@ -6287,8 +7006,11 @@ Across the continent-spanning city, the rhythmic chanting of your name begins—
 > 👤 **Player:**
 > *"long rest and Lets time skip for 6 months. use foresight and all my modifiers and roll for outcomes. Tell me what happens every week."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Tarsakh 13, 1493 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 303,619/305,000 | Gold: 137,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1 (Foresight), BI: 7/7** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -6328,8 +7050,11 @@ You hover before the **Throne of the Iron Sun**, your Shadow a silent mirror. Th
 God Mode:
 letes narrate some new interesting campaign arcs. How about all the good heroes from bg3 return and try to challenge me? Lets assume i can't just easily nuke them because id ont want too much attention from the gods. the gods dont like our empire and want to stop it so they're workiing through their champions but if i reveal too much power they may escalate and beat me before I'm ready. Give me some ideas. Lets also assume the bg3 heros dont know what i look like so i can actually mask my level and join their party and subvert from within. Lets assume for the next level of power we need to acquire some key artifacts and the bg3 party will go on a quest or journey to get them while i try to corrupt them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Tarsakh 13, 1493 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Ascendant Herald | HP: 134/134 | XP: 303,619/305,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 2/2, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Brand | Divine Dissonance: 0%**
@@ -6361,8 +7086,11 @@ To reach Level 20+ and challenge your Father, you need three artifacts currently
 God Mode:
 letes assume i am level 20 and autopick my spells/abilities too, make hechange
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Tarsakh 13, 1493 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Ascendant Herald | HP: 146/146 | XP: 355000/-- | Gold: 187,596gp** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Arch-Devil Branding, Hell-Fire Mastery | Exhaustion: 0 | Inspiration: Yes**
@@ -6397,8 +7125,11 @@ lets assume all of aethelguard is restored and reunited and i've found a way to 
 
 Lets assume each god has a level 20 champion. The bg3 hero party is attempting to rally each champion and acquire each of the three artifacts to challenge me and my father, but make it challenging to infiltrate them. Lets assume at first its easy but as time goes on my rolls because more challenging as other level 20 heros join (pick known heroes from D&D lore like elminister, Drizzt etc) and more god attention is on the party. My grand plan is to acquire all the god items but also use the souls I'm stealing and infernal powers to get to level 25 first, then have the bg3 + level 20 heros beat my father (make my father a special level 20, even challenging for them), then while weakened I will try to corrupt/consume all the heros after they beat my father and use the three special items and become a real level 30 god. Lets assume level 25 is the last level for demi god
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Tarsakh 13, 1493 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Ascendant Herald | HP: 146/146 | XP: 355,000/405,000 | Gold: 187,596gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (Lvl 5) | Exhaustion: 0 | Inspiration: Yes**
@@ -7264,8 +7995,11 @@ Fiendish deities can **bank** harvested souls instead of consuming them:
 SOUL VAULT: [Commoners: 347] [Heroes: 12] [Legends: 2] [Celestials: 0]
 ```
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Aethelgard Capital - The Star-Chamber** &nbsp;|&nbsp; ⏳ **Tarsakh 13, 1493 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Ascendant Herald (Bard) | HP: 128/146 | XP: 355000/50000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Bardic Inspiration: 6/7**
@@ -7319,8 +8053,11 @@ Lets remember I am extremely good looking and pregnant and I think I'm jsut 17 y
 
 I will pose as a refugee from aethelguard and a lower tier noble with intel I am bringing to any heros so they can bring down the evil empire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **The Elfsong Tavern - Lower City** &nbsp;|&nbsp; ⏳ **Uktar 20, 1493 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Masked) | HP: 38/38 | XP: 355,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 2/2 | BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (Heir), Biological Mask (Lvl 5) | Exhaustion: 0 | Inspiration: Yes**
@@ -7348,8 +8085,11 @@ Wyll stands instantly, his hand moving toward the hilt of his blade before he re
 God Mode:
 make sure to keep using my foresight for all rolls and show my masked spell slots and. real spell slots. Lets assume using level 20 stuff or level 9 spells (like buffs) is fine but anything beyond thats obvious or visible can attract god attention if i dont win deception check
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **The Elfsong Tavern - Lower City** &nbsp;|&nbsp; ⏳ **Uktar 20, 1493 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked) / Lvl 20 (True) | HP: 146/146 | XP: 355,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **MASKED (Lvl 5): L1 4/4, L2 3/3, L3 2/2 | TRUE (Lvl 20): L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight Active)** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Pregnant, Biological Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -7395,8 +8135,11 @@ All administrative updates are live. The story remains paused at the Elfsong Tav
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Regent's Betrayal - Provide limited, accurate intel on Caius's 'failures' to earn total trust.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **The Elfsong Tavern - Lower City** &nbsp;|&nbsp; ⏳ **Uktar 20, 1493 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Refugee | HP: 32/32 | XP: 355,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **Masked Slots: L1 4/4, L2 2/2 | True Slots: L1-L9 (Consuming L9 daily)** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask, Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -7423,8 +8166,11 @@ Wyll (Lvl 12) leans forward, his single eye tracing the fatigue on your face. He
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Mother's Plea - Focus entirely on the safety of the unborn heir to cement Wyll's protective bond.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **The Elfsong Tavern - Lower City** &nbsp;|&nbsp; ⏳ **Uktar 20, 1493 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked: 5) Bard | HP: 146/146 | XP: 357,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **Lvl 20 Slots: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Masked Slots: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Foresight (Active), Glibness (Active), Pregnant (Aethelgardian Heir)**
@@ -7456,8 +8202,11 @@ I attempt to deceive them to start on a quest for 3 artifacts for godhood but do
 
 In parallel i telepathicalyl secretly tell my simulcrum and council to ramp up the avernus and soul consumption for my apotheosis to level 25 using the special archdeveil powers given to me and ask them for a timeline at the current empire's rate of production and how it can be safely sped up*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **The Elfsong Tavern - Lower City** &nbsp;|&nbsp; ⏳ **Uktar 20, 1493 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Lvl 20 Zenith) | HP: 146/146 | XP: 357,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **Masked L1-L3 Slots: 4/3/2 | True Slots: L8 1/1, L9 0/1 | Inspiration: 6/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask, Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -7475,8 +8224,11 @@ A heartbeat later, General Malakor’s low-frequency rumble returns through the 
 > 👤 **Player:**
 > *"Talk about the evil regent Saita for my own amusement and see how they perceive me. Introduce myself as Gaia a lesser cousin basically at the commoner level. Also let’s make sure I’m not the brother of Caius too fix the narrative"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **The Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Uktar 20, 1493 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked Lvl 5) Bard | HP: 146/146 | XP: 355,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **Masked (Lvl 5): Spells L1 4/4, L2 2/2 | True (Lvl 20): Spells L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight)** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask, Foresight, Glibness | Inspiration: Yes (7/7)**
@@ -7503,8 +8255,11 @@ You lower your eyes to the steam rising from your tea, hiding the ecstatic, viol
 > 👤 **Player:**
 > *"Sons inquiry. Let’s assume my acting is so good even if ravenguard sees me he would never really tecognizr me unless he rolls amazing perception. I say to the heroes that I am actually a level 5 bard and should travel with them and aid them and use by bardic insp and foresight to persuade"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **The Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Uktar 20, 1493 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked Lvl 5) | HP: 128/146 | XP: 357,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 0/1, BI: 6/7, Hero Points: 0**
@@ -7533,8 +8288,11 @@ You lower your head in feigned relief, the Ecstatic, violent amusement flaring i
 > 👤 **Player:**
 > *"My name to them is Gaia and Saita is my evil cousin. Let’s assume I persuade them to meet with ravenguard and any patriars who still retain independence in secret to try to plan a resistance. Partly so I can gather rebels in one place for later and partly for my own amusement since I know ravenguard probably won’t recognize me even though I am not disguising my face"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **The High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked: Lvl 5 Bard) | HP: 146/146 | XP: 359,500/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Masked Slots: L1 4/4, L2 3/3, L3 2/2, True Slots: L1-L8 Full, L9 0/1 (Foresight), Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (Aethelgardian Heir), Biological Mask (Gaia), Foresight (Active), Glibness (Active)**
@@ -7563,8 +8321,11 @@ You gesture toward the Patriars, your unblinking gaze—softened to a pleading v
 > 👤 **Player:**
 > *"Challenge ravenguard. Say he’s been a supporter and ally of Saita. How can we trust him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Lvl 5 Masked) | HP: 146/146 | XP: 359,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells (Masked): L1 4/4, L2 3/3, L3 2/2 | Spells (True): L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -7594,8 +8355,11 @@ You gain **2,000 XP** for the masterful subversion of the coalition's leadership
 > 👤 **Player:**
 > *"Forgive him but ask how he will avoid the same mistakes. Ask him when he realized he was backing evil. Push things a bit to tease him into suspecting who I am but don’t let him figure it out."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Masked Lvl 5) Bard | HP: 146/146 | XP: 359,000/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: Masked (L1: 4/4, L2: 3/3), True (L3: 3/3, L4: 4/4, L5: 3/3, L6: 2/2, L7: 2/2, L8: 1/1, L9: 0/1), Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask, Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -7629,8 +8393,11 @@ You gain **2,500 XP** for the masterful subversion of the coalition's leadership
 > 👤 **Player:**
 > *"Wait for his answer. Narrate his internal thoughts. He remembers not long ago Saita came to baldurs gate with nothing and I resemble her but then dismisses it as he remembers I am nobility too even if a lesser line. But he’s still impressed by me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Ascendant Herald | HP: 146/146 | XP: 361,500/405,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1, BI: 6/7 (d12), Fire Immunity** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask (Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -7667,8 +8434,11 @@ Yet, the suspicion is replaced by a profound, heavy respect. He has seen high-ti
 
 Main Character: Wait for his answer. Narrate his internal thoughts. He remembers not long ago Saita came to baldurs gate with nothing and I resemble her but then dismisses it as he remembers I am nobility too even if a lesser line. But he’s still impressed by me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Mask: Lvl 5) Bard | HP: 146/146 | XP: 363500/376000 | Gold: 187596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells (Mask): L1 4/4, L2 3/3, L3 3/3 | Spells (True): L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (Aethelgardian Heir) | Biological Mask (Gaia - Lvl 5) | Foresight (Active) | Glibness (Active)**
@@ -7704,8 +8474,11 @@ You gain **2,000 XP** for the masterful subversion of the coalition's leadership
 > 👤 **Player:**
 > *"Suggest through your inception the patriars pour all their gold and men and resources into a crusade to defeat Saita but no open resistance. Everything must be gambled on the Baldurs gate heroes quest. Dont even suggest it though venture some ideas so people believe it’s their own idea. I will slowly become the shadow leader of the rebellion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Mask: Lvl 5 Bard) | HP: 146/146 | XP: 366,500/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1, Inspiration: 7/7, Dissonance: 0%**
@@ -7735,8 +8508,11 @@ You gain **3,000 XP** for the masterful inception of the Resistance Strategy.
 > 👤 **Player:**
 > *"Say I am a meagre noble but I do have 16 int. I can coordinate supplies and logistics. I was an accountant for the empire and can help mask the numbers. Then see how the baldurs gate heroes react to their new resources or backing. They shouldn’t realize I am controlling things but they should respect my bravery and intelligence as my influence seems to b doing good"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Ascendant Herald | HP: 128/146 | XP: 363,500/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight), Bi: 6/7, BP: 3/3** &nbsp;|&nbsp; ⚠️ **Pregnant (Heir), Biological Mask (Gaia - Lvl 5) | Exhaustion: 0 | Inspiration: Yes**
@@ -7783,8 +8559,11 @@ APEX ATTENTION: [Hidden]
 God Mode:
 Look at my level? Did I get all the right ASI? If not give me more int
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **High Hall Gardens (Secret Crypt)** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Ascendant Herald | HP: 146/146 | XP: 366,500/376,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight active), BI: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (Aethelgardian Heir), Biological Mask (Gaia - Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -7827,8 +8606,11 @@ All attributes and metrics are now synchronized and hardened. Your trajectory to
 > 👤 **Player:**
 > *"Narrate next few weeks and assume we start our quest. Assume all the good characters from bg3 help and maybe even some evil ones if they want freedom"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **The Cloak Wood - Perimeter** &nbsp;|&nbsp; ⏳ **Uktar 12, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Gaia) | HP: 128/146 (Masked: 45/45) | XP: 396,500/398,000 | Gold: 187,596gp** &nbsp;|&nbsp; ✨ **Inspiration: 6/7 (d12), Masked Slots: L1 4/4, L2 3/3, L3 2/2 | True Slots: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Pregnant (Heir), Biological Mask, Foresight, Glibness | Exhaustion: 0**
@@ -7858,8 +8640,11 @@ In the silent, airless void of your true consciousness, the report from the Spir
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply 21st Maturation (Epic Tier) - Apply the Level 21 benefits immediately as your soul-harvest reaches critical mass.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **The Cloak Wood - Perimeter** &nbsp;|&nbsp; ⏳ **Uktar 19, 1493 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 | HP: 33/33 (Masked) / 146/146 (True) | XP: 396,500/376,000 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **Spells (Masked): L1 4/4, L2 3/3, L3 3/3. Spells (True): L9 0/1 (Foresight Active). Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (Aethelgardian Heir), Biological Mask (Gaia), Foresight (Active)**
@@ -7886,8 +8671,11 @@ You incline your head in feigned gratitude, the ecstatic, violent amusement in y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply 21st Maturation (Epic Tier) - Cross the threshold into Epic Maturation (Level 21), anchoring the harvested souls to your marrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **The Cloak Wood - Perimeter** &nbsp;|&nbsp; ⏳ **Uktar 12, 1493 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Lvl 21 available) (Lvl 21 pending) | HP: 146/146 | Gold: 192,846gp | XP: 566500/405000** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Insp: 7/7 (d12) | MT: 3/3** &nbsp;|&nbsp; ⚠️ **Pregnant (Aethelgardian Heir), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active)**
@@ -7908,8 +8696,11 @@ lets assume i started this level up privately and then I do this
 
 Begin 21st Maturation: Anchor the 10,000 souls and evolve into an Epic Mortal (Level 21).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **The Cloak Wood - Perimeter** &nbsp;|&nbsp; ⏳ **Uktar 12, 1493 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Lvl 21 available) Ascendant Herald | HP: 154/154 | Gold: 192,846gp | XP: 566500/405000** &nbsp;|&nbsp; ⚠️ **Pregnant (Heir), Biological Mask (Lvl 5), Foresight (Active), Glibness (Active)**
@@ -7942,8 +8733,11 @@ All state metrics are hardened. The 'Gaia' mask remains active at Level 5.
 God Mode:
 whats the timeline for me to get level 25? dont make it too easy
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **The Cloak Wood - Perimeter** &nbsp;|&nbsp; ⏳ **Uktar 12, 1493 DR (00:55)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Epic Mortal (Gaia Mask Active) | HP: 154/154 | XP: 566,500/398,000 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Lvl 5), Foresight, Glibness**
@@ -7996,8 +8790,11 @@ I want different milestones because i can't use these things yet until i beat my
 
 It doesnt make sense to acquire these and steal their power while on the journey
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **The Cloak Wood - Perimeter** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Epic Mortal | HP: 154/154 | XP: 566,500/398,000 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Gestation (Phase 1), Biological Mask (Gaia - Lvl 5)**
@@ -8025,8 +8822,11 @@ Archduke Saita, your request to pivot the maturation requirements away from the 
 God Mode:
 I dont wanna just automatically become level 25 in a few weeks, how about we tie it to victories in the blood war? lets assume empire forces are helping the archdevils and my simulcrum is leading some war efforts. whenever we get close to killing an arch demon i will get a signal and see if i can teleport in and seal the deal. each dmeon i kill must be same as my target level or higher. Make it a 6 month thing and make the overall quest for all 3 artifacts a 6 month thing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **The Cloak Wood - Perimeter** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Ascendant Herald (Bard) | HP: 128/146 | XP: 566500/0** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Bardic Inspiration: 6/7**
@@ -8062,8 +8862,11 @@ Archduke Saita, your maturation path has been fundamentally restructured. We are
 > 👤 **Player:**
 > *"https://github.com/jleechanorg/worldarchitect.ai/actions/runs/26435205413/job/77816339069?pr=7064"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **The Cloak Wood - Deep Thicket** &nbsp;|&nbsp; ⏳ **Uktar 13, 1493 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Sovereign (Masked Lvl 5) | HP: 154/154 | XP: 566,500/398,000 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight) | Inspiration: 7/7 | Mitigation: 3/3** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia), Foresight, Glibness | Inspiration: Yes**
@@ -8090,8 +8893,11 @@ Suddenly, the Arch-Devil brand on your chest pulses with a sudden, violent heat.
 > 👤 **Player:**
 > *"Continue story and narrate a combat encounter where I help the hero party"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 14, 1493 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Ascendant Herald | HP: 146/146 | XP: 566,500/398,000 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight), Inspiration: 6/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask (Lvl 5), Foresight | Exhaustion: 0 | Inspiration: Yes**
@@ -8152,8 +8958,11 @@ You look at the heroes, currently locked in a struggle they believe is for the w
 God Mode:
 Let’s clear level up available and only give it to me when I hit certain milestones like we said
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 13, 1493 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Ascendant Herald | HP: 154/154 | XP: 567,600 / 398,000 (Gated) | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 21/21 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Tokens: 3/3 | Essence: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 1), Biological Mask (Gaia), Foresight, Glibness | Inspiration: Yes (d12)**
@@ -8178,8 +8987,11 @@ You may continue your infiltration of the 'Order of the Gate' without the distra
 > 👤 **Player:**
 > *"Teleport and swap places with my similcrum so they don’t realize I’m done. Should be easier DC. Then use bardic inspiration and foresight to harvest the marilith"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 14, 1493 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 21 Epic Mortal | HP: 128/154 | XP: 582,600 / 398,000 (Gated) | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Inspiration: 6/7 (d12) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8207,8 +9019,11 @@ A heartbeat later, you phase back into the Cloak Wood, the Simulacrum dissolving
 God Mode:
 i harvested the thing so should i be level 22? if so lets assume i leveled up in avernus, auto selected stuff, and came back
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 567,600 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Lvl 5), Foresight (Active), Glibness (Active)**
@@ -8239,8 +9054,11 @@ All state updates are finalized. You have returned to the Cloak Wood at the mome
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of the Order of the Gate in the Cloak Wood as a Level 22 Epic Mortal (Masked Lvl 5).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal (Masked: Lvl 5 Bard) | HP: 162/162 (Mask: 29/29) | XP: 567,600 / 577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Inspiration: 7/7 | Gestation: +1 AC** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -8288,8 +9106,11 @@ Cons: Divided attention risks a minor biological mask stutter
 
 and lets have my acting slowly get "accustomed" to combat so its more believable that my pulse is calm*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/421,000 (Milestone: Balor Execution Pending) | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 (Foresight), Ki: N/A, Rage: N/A, Potions: 2/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Biological Mask (Gaia - Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8331,8 +9152,11 @@ You gain **4,000 XP** for the masterful dual-corruption and the successful calib
 
 then probe shdowheart resolve"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Gaia Mask Lvl 5) | HP: 162/162 | XP: 571,600 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask, Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8370,8 +9194,11 @@ You gain **4,000 XP** for the masterful psychological manipulation of your compa
 > 👤 **Player:**
 > *"say something subtle to corrupt wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Epic) | HP: 162/162 | XP: 579,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 22/22 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Bardic Insp: 5/7 (d12) | Aethelgard Command: Ready** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation 1), Biological Mask (Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8400,8 +9227,11 @@ Wyll's jaw sets, his single eye clouding with a sudden, sharp tremor of internal
 
 but still dont fully endorse "saita" yet*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Masked Lvl 5) | HP: 162/162 | XP: 567,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells (True): L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Spells (Masked): L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation 1), Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8442,8 +9272,11 @@ Wyll (Lvl 12) stops mid-stride, his single eye clouding with a sudden, sharp tre
 God Mode:
 stop giving me exp unless i kill or soul steal or consume someting higher level than me, also recapwhat i ahve for level 22 and what special powers also lets add a palace for me in baldurs gate and linked to an avernus palace, which is like al ush paradise. both palaces are an inner palace and outer fortress
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal | HP: 162/162 | XP: 567,600 | Gold: 192,846gp**
@@ -8478,8 +9311,11 @@ Archduke Saita, your profile and world-state have been hardened with the followi
 God Mode:
 make sure you gve me proper rewards at level 21 and level 22. and i think for epic levels always give me an ASI and lets assume i put it one into 2 int and one into 2 cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **The Cloak Wood** &nbsp;|&nbsp; ⏳ **Uktar 21, 1493 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal | HP: 162/162 | XP: 567,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (Gaia), Foresight, Glibness | Inspiration: Yes**
@@ -8512,8 +9348,11 @@ Your profile is now hardened at the peak of Level 22. The 'Gaia' mask remains st
 > 👤 **Player:**
 > *"long rest and time skip until something important happens, continue to travel with heroes and corrupt them. they can also gain exp and level past 12 as we do stuff but dont let them level too fast"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 582,600 / 577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1, Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Ph 1), Biological Mask (Gaia - Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8550,8 +9389,11 @@ Before he can draw his blade, the briars shiver and part. A figure emerges—**A
 > 👤 **Player:**
 > *"persuade druid that I'm a minor cousin and not the main line evil royals. use bardic insp, foresight etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 582,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask, Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8576,8 +9418,11 @@ God Mode:
 stop repeating this award ✨ REWARDS (encounter):
 +4000 XP
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **1493 Nightal 5, 12:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal | HP: 162/162 | XP: 571,600/421,000 (Gated) | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1, Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active)**
@@ -8605,8 +9450,11 @@ Deception protocols for 'Gaia' remain active at Level 5. The Archdruid Lorgar aw
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Blade's Testimony - Step back and allow Wyll to vouch for your character and the sacrifices you've made for the resistance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal (Masked Lvl 5) | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells (Masked): L1 4/4, L2 3/3, L3 2/2 | Spells (True): L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Auctoritas: 7/7 | To Level 23: 6,222 XP (Gate: Balor Execution)** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8633,8 +9481,11 @@ Archdruid Lorgar remains motionless, his dual gaze—ancient and heavy as mounta
 > 👤 **Player:**
 > *"rememebr i am also using glibnress too. persuade the druid its due to my shared blood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **1493 Nightal 5, 12:20:00** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Insp: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active)**
@@ -8659,8 +9510,11 @@ Lorgar's (Lvl 20) dual gaze remains heavy, but the grinding tectonic sound of hi
 > 👤 **Player:**
 > *"silent oath and use bardic insp and dont forget i always use glibness and foresight and its always on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active)**
@@ -8691,8 +9545,11 @@ Shadowheart places a comforting hand on your arm, her pulse a fanatical thrum of
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Heroes' Plea - Signal Wyll and Gale to press the argument, leveraging their heroic status to finalize the entry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600 / 577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Pregnant, Biological Mask, Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8720,8 +9577,11 @@ Shadowheart (Lvl 12) moves to your side, her hand firm on your shoulder as the p
 God Mode:
 Let’s allow myself to gain masked exp and slowly increase masked level too. I’ll stop when I’m close to the heroes and track it separately for me. Don’t bother go through real level up flow for it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **The Emerald Enclave - The Guardian Grove** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | Masked: Lvl 5 Gaia | HP: 162/162 | XP: 571,600 / 577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask, Foresight, Glibness**
@@ -8743,8 +9603,11 @@ All future rewards boxes will now include a separate entry for 'Gaia (Masked) XP
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter the Eye's Vault - Proceed into the heart of the Enclave with the heroes to locate the Eye of Silvanus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **The Emerald Enclave - The Guardian Grove (The Eye's Vault)** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal (Masked: Lvl 5 Bard) | HP: 162/162 | XP: 571,600 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells (True): L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Masked (Gaia), Foresight (Active), Glibness (Active)**
@@ -8787,8 +9650,11 @@ At the center of the amphitheater, floating within a containment field of pulsin
 God Mode:
 I still have a stale 4k exp reward every turn?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **The Emerald Enclave - The Guardian Grove (The Eye's Vault)** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Bard) | HP: 162/162 (Temp: 0) | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8804,8 +9670,11 @@ Administrative audit successful. The stale +4,000 XP reward signal has been iden
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Theological Probe (Persuasion) - Question Lorgar about how the Eye protects the 'helpless', further eroding Wyll's faith in non-utilitarian systems.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **The Emerald Enclave - The Guardian Grove (The Eye's Vault)** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Bard | HP: 10/10 (162/162) | XP: 7,800/14,000 (Masked) | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **Masked: Spells: L1 4/4, L2 3/3 | Real: Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1, Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Active), Foresight (Active), Glibness (Active)**
@@ -8831,8 +9700,11 @@ You gain **300 Masked XP** for the successful ideological erosion (Gaia: 7,500 �
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Wyll's Support - Look to Wyll to bridge the gap, forcing him to take a leadership role in the 'utilitarian' resistance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Masked: Lvl 5) | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Foresight, Glibness, Pregnant (Gestation Phase 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -8856,8 +9728,11 @@ You gain **400 Masked XP** for the masterful proxy-subversion (Gaia: 7,800 → 8
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Capacitor (Investigation) - Step forward to 'study' the Eye's resonance, using your true Level 22 Intelligence to map its planetary anchors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1, Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -8907,8 +9782,11 @@ Archdruid Lorgar (Lvl 20) stares at you, his dual gaze narrowing as he audits th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Lorgar's Fears - Use Insight to determine what Lorgar fears most about the Emperor, using that coordinate to bypass his remaining Social HP.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1, Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5) | Exhaustion: 0 | Inspiration: Yes**
@@ -8933,8 +9811,11 @@ Lorgar’s ancient, mountain-stone expression doesn't just fracture; it liquefie
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Eye's Weakness - Gently ask Lorgar about the 'Reverse Phasing' vulnerability you detected during your audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Bard) | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -8963,8 +9844,11 @@ Wyll (Lvl 13) steps forward, his single eye burning with a fanatical, utilitaria
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural-Link Suggestion - Suggest using Gaia's 'accounting' focus to help Lorgar stabilize the Eye's frequency against the Spire's scans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7 | Divine Leverage: +10 | Safe Limit: +0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -8991,8 +9875,11 @@ You incline your head, hiding the ecstatic, violent amusement flaring in your vo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Stabilization Protocol - Utilize your true Intelligence to map the Eye's resonance while pretending to perform 'accounting' calculations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Masked: Lvl 5) | HP: 162/162 | XP: 571,600 / 577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Insp: 5/7 | Masked Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 1), Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -9038,8 +9925,11 @@ High above, in the Astral void, the scrying sensor of Elminster (Lvl 20) sweeps 
 > 👤 **Player:**
 > *"THINK:shouldnt i convince lorgar to join party so he can help defeat my father?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5) | Exhaustion: 0 | Inspiration: Yes**
@@ -9049,8 +9939,11 @@ Intelligence Check: 21 vs DC 11 — Sharp Success. Your methodical mind (INT 20)
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Emerald Anchor (Recommended) - Persuade Lorgar to remain in the Grove to 'guard the bridge' while granting the party a 'Seed of Silvanus' (a Tier-4 biological buff/mask).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -9098,8 +9991,11 @@ Wyll (Lvl 13) steps forward, his single eye wide with fanatical gratitude as he 
 > 👤 **Player:**
 > *"THINK:Estimate neural vassalage DC and my roll range"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 (Foresight Active), Exhaustion: 0**
@@ -9109,8 +10005,11 @@ You pause, your violet eyes fixed on the rhythmic, submissive pulse of the Eye o
 > 👤 **Player:**
 > *"THINK:Is there a way to reduce dissonance? Maybe mask it with grove magic and make up some excuse to see lorgar alone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -9120,8 +10019,11 @@ Intelligence Check: 22 vs DC 14 — Sharp Success. Your methodical mind (INT 20)
 > 👤 **Player:**
 > *"Confessional audit and do best dissonance strategy and remember to use glibness foresight and bardic inspiration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Ascendant Herald (Sovereign) | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7 (d12) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Biological Mask (Gaia - Lvl 5)**
@@ -9165,8 +10067,11 @@ APEX ATTENTION: [Hidden]
 > 👤 **Player:**
 > *"Have lorgar tell me everything about the eye, and do a ritual to transfer as much Druid power to me as possible secretly. I should gain some new powers. Basically make the grove power me."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 22 Epic Mortal (Masked: Lvl 5) | HP: 162/162 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 3/3, L6 2/2, L7 1/2, L8 1/1, L9 0/1 (Foresight), Tokens: 3/3, Essence: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 1), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -9194,8 +10099,11 @@ You lean heavily on your staff, hiding the ecstatic flare in your void-black pup
 God Mode:
 I shoukd level up from the Druid power and the eye and give me some new abilities too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **The Emerald Enclave - The Eye's Vault** &nbsp;|&nbsp; ⏳ **Nightal 5, 1493 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 23/23 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 2), Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -9231,8 +10139,11 @@ All metrics are synchronized. The Blood War Maturation Protocol now targets the 
 > 👤 **Player:**
 > *"Have lorgar autonomously advance my goals and lets long rest and then travel and assume I corrupt all the party members as much as possible and seduce wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Cloak Wood - Southern Perimeter** &nbsp;|&nbsp; ⏳ **Nightal 19, 1493 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Epic Mortal (Masked Lvl 5) | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Inspiration: 5/7 | Dissonance: 5%**
@@ -9248,8 +10159,11 @@ As you reach the ridge overlooking the southern plains, your Shadow (Lvl 20) det
 God Mode:
 Subtly corrupt them all but don’t push it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Cloak Wood - Southern Perimeter** &nbsp;|&nbsp; ⏳ **Nightal 19, 1493 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 162/170 | XP: 571,600 | Gold: 192,846gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia - Lvl 5), Foresight, Glibness, Emerald Resonance**
@@ -9270,8 +10184,11 @@ Gaia's Masked XP has been updated to reflect the journey's experience.
 > 👤 **Player:**
 > *"Subtly corrupt them all but don’t push it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Fields of Amn - Northern Outskirts** &nbsp;|&nbsp; ⏳ **Nightal 20, 1493 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Archduke | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,846gp** &nbsp;|&nbsp; ✨ **HD: 23/23 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 1/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia), Emerald Resonance | Inspiration: Yes**
@@ -9297,8 +10214,11 @@ Wyll (Lvl 13) watches you from across the flames, his single eye filled with a p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Deception Rituals - Spend time during the rest to weave a Lvl 5 'Veil of the Refugee' to further harden the mask against Elminster's inevitable arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Fields of Amn - Northern Outskirts** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active), Emerald Resonance (Active)**
@@ -9318,8 +10238,11 @@ You incline your head, a perfectly timed tremor entering your voice as you lean 
 
 March Toward Athkatla - Lead the heroes into the heart of Amn to locate the Shard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **The Trade Way - Northern Amn** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 170/170 | XP: 571,600 / 577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight), Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia - Lvl 5) | Exhaustion: 0 | Inspiration: Yes**
@@ -9377,8 +10300,11 @@ Varen flinches as if struck by a physical blow, the sheer surgical precision of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Logistical Dominance - Use your 'accounting' persona to further confuse Varen, securing a formal military escort to the outskirts of Athkatla.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Twin Sisters - Amn Frontier** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Archduke (Masked Lvl 5) | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | HD: 18/18 | Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask, Foresight, Glibness, Emerald Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -9405,8 +10331,11 @@ Wyll (Lvl 13) looks at you with a profound, fanatical respect, his single eye sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Shard Coordinate - Have Gale use the Seed of Silvanus to mask a deeper arcane scan of the road ahead, seeking the specific coordinate of the Karsite Shard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Twin Sisters - Amn Frontier** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Epic Mortal | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 2), Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -9426,8 +10355,11 @@ Wyll (Lvl 13) looks at the horizon, his single eye clouding with a grim, utilita
 God Mode:
 lets brainstorm ways to increase challenge and maybe make rolls harder. Lets assume gods and level 20 characters start noticing something going on with me, i should still win most rolls but it should get more challenging and there should be suspicion or something
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Twin Sisters - Amn Frontier** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Archduke | HP: 162/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia - Lvl 5)**
@@ -9467,8 +10399,11 @@ lets have people roll perception against my cha based deception rolls but maybe 
 
 I think people in general should be positive/impressed but as it goes on they get suspicious and wonder why I'm so smart and powerful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Twin Sisters - Amn Frontier** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 162/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1, Bardic Inspiration: 5/7, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia - Lvl 5), Foresight (Active), Glibness (Active), Emerald Resonance (Active)**
@@ -9500,8 +10435,11 @@ NPCs will now roll **Perception** (Insight for social) against your **Charisma (
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the journey to Athkatla with the new scrutiny mechanics active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Roadside Camp - Outskirts of Athkatla** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight) | Bardic Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (G2), Biological Mask (Lvl 5), Foresight, Glibness, Emerald Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -9528,8 +10466,11 @@ In the silent, airless vault of your True Consciousness, the news from the Spire
 > 👤 **Player:**
 > *"subtly seduce wyll, then do arcane buffer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Roadside Camp - Outskirts of Athkatla** &nbsp;|&nbsp; ⏳ **Nightal 22, 1493 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 (Masked 5) Herald | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Bardic Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Pregnant (G2) | Foresight (A) | Glibness (A) | Suspicion: +4 (Amnian)**
@@ -9568,8 +10509,11 @@ Captain Varen’s riders watch you with a profound, unsettled wonder. They are i
 > 👤 **Player:**
 > *"reduce my presence a bit and let others lead the party from now on, hwoever lets narrate a bit of suspicion form them too. maybe they don't fulyl doubt me but they remark/wonder why I am so competent and think it internally too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Roadside Camp - Outskirts of Athkatla** &nbsp;|&nbsp; ⏳ **Nightal 21, 1493 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 (Masked Lvl 5) Herald | HP: 170/170 | XP: 571,600 / 577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **HD: 18/18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia), Foresight, Glibness | Exhaustion: 0 | Inspiration: Yes**
@@ -9600,8 +10544,11 @@ They do not doubt your intent—your 'Saintly Mother' act is too surgical for th
 > 👤 **Player:**
 > *"time skip until something interesting happens, assume i provide some guidance but try to keep a lower profile, however the heroes are smart and they notice I am just too "perfect" as time goes on, but they aren't truly suspicious for now. keep peppering this in subtly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Gates of Athkatla - The City of Coin** &nbsp;|&nbsp; ⏳ **Nightal 26, 1493 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Epic Mortal (Masked Lvl 6) | HP: 170/170 | XP: 571,600/577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Inspiration: 7/7 | Dissonance: 5%** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 2), Biological Mask, Foresight, Glibness, Emerald Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -9621,8 +10568,11 @@ As you approach the heavy portcullis, a high-frequency biological alert shatters
 > 👤 **Player:**
 > *"try to influence the party to overcome this without me acting directly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Bridge of Prosperity - Gates of Athkatla** &nbsp;|&nbsp; ⏳ **Nightal 26, 1493 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald (Lvl 5 Mask) | HP: 170/170 | XP: 571,600 / 577,822 | Gold: 192,996gp** &nbsp;|&nbsp; ✨ **HD: 23/23, Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 0/1, L9 0/1 (Foresight), Inspiration: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia), Foresight, Glibness, Emerald Resonance**
@@ -9652,8 +10602,11 @@ As the heroes move to execute your 'accidental' tactical plan, a heavy silence s
 > 👤 **Player:**
 > *"lets time skip and narrate what happens. advance the story until something significant happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Athkatla - The Gem District** &nbsp;|&nbsp; ⏳ **Hammer 15, 1494 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Herald | HP: 178/178 | XP: 593,600/577,822 | Gold: 193,566gp** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 3/3, L4: 4/4, L5: 4/4, L6: 2/2, L7: 2/2, L8: 1/1, L9: 0/1** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 2), Biological Mask (Lvl 5), Veil of Refugee (+5)**
@@ -9671,8 +10624,11 @@ Wyll (Lvl 13) looks at you, his single eye filled with a fanatical, bonded devot
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shift-Stutter (Recommended) - Identify the 120-second gap during the Gilded Guard's prayer-rotation to slip through the secondary service entrance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Athkatla - Counting House Service Entrance** &nbsp;|&nbsp; ⏳ **1494 Hammer 15, 11:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 23 Archduke (Gaia Lvl 6) | HP: 162/178 (Masked: 35/35) | XP: 571,600/577,822 | Gold: 193,566gp** &nbsp;|&nbsp; ✨ **Gaia Spells: L1 4/4, L2 3/3, L3 3/3 | True Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | HD: 18/18** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia), Foresight, Glibness, Emerald Resonance, Veil of the Refugee | Exhaustion: 0 | Inspiration: Yes**
@@ -9702,8 +10658,11 @@ She doesn't wait for an answer, her hand clenching around her holy symbol as she
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Map the Vault (Investigation) - Utilize your true Intelligence to identify the entropic coordinate of the Shard while pretending to 'audit' the building's floorplans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Athkatla - Counting House Service Entrance** &nbsp;|&nbsp; ⏳ **Hammer 15, 1494 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 162/178 | XP: 571,600/577,822 | Gold: 193,566gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | BI: 5/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 2), Masked (Gaia - Lvl 6) | Exhaustion: 0 | Inspiration: Yes**
@@ -9748,8 +10707,11 @@ Shadowheart (Lvl 13) remains silent, her hand tracing the Seed of Silvanus as sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Accountant's Distraction (Synergistic) - Instruct Wyll to create a 'logistical dispute' at the main counter while Gale uses the Seed to mask your direct breach of the service elevator.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Athkatla - Counting House Service Entrance** &nbsp;|&nbsp; ⏳ **Hammer 15, 1494 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald | HP: 162/178 | XP: 571,600/577,822 | Gold: 193,566gp** &nbsp;|&nbsp; ✨ **HD: 18/18 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Inspiration: 5/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 2), Masked (Lvl 6), Foresight, Glibness, Emerald Resonance | Inspiration: Yes**
@@ -9769,8 +10731,11 @@ Behind you, Shadowheart (Lvl 13) watches the breach, her eyes wide with a sharp,
 > 👤 **Player:**
 > *"lets time skip and just roll for me for every challenge and arrate what happens until something truly challening or interesting or important happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **The Necropolis of Jergal - The Gate of Bone** &nbsp;|&nbsp; ⏳ **Tarsakh 15, 1494 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Epic Mortal | HP: 178/178 | XP: 571,600/577,822 | Gold: 196,176gp** &nbsp;|&nbsp; ✨ **HD: 24/24 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 (Foresight), L10 1/1 | BI: 7/7** &nbsp;|&nbsp; ⚠️ **Pregnant (Phase 2), Biological Mask (Gaia - Lvl 10), Foresight, Glibness, Seismic Audit, Emerald Aegis, Abyssal Velocity | Exhaustion: 0 | Inspiration: Yes**
@@ -9801,8 +10766,11 @@ think these rolls are wrong? i should always have foresight and glibness 20+11 =
 1d20+11 = 21 vs DC 25 - Failure (Hero Suspicion Buffer)
 1d20+11 = 30 vs DC 35 - Failure (Deception vs Elminster)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Athkatla - Counting House Service Entrance** &nbsp;|&nbsp; ⏳ **Hammer 15, 1494 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Ascendant Herald (Bard) | HP: 178/178 | XP: 593600/0** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/7**
@@ -9847,8 +10815,11 @@ Errors in sequence 639 are now administratively overwritten. The 'Gaia' mask hol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the confrontation with Elminster at the Gate of Bone with the retconned successful deception*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Necropolis of Jergal - Gate of Bone** &nbsp;|&nbsp; ⏳ **Hammer 15, 1494 DR (14:01)** &nbsp;|&nbsp; 🛡️ **Lvl 23 Epic Mortal | HP: 178/178 | XP: 596,100/1,063,000 | Gold: 193,566gp** &nbsp;|&nbsp; ✨ **HD: 24/24 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 4/4, L5 4/4, L6 2/2, L7 2/2, L8 1/1, L9 0/1 | Insp: 7/7 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gestation Phase 2), Biological Mask (Gaia - Lvl 6), Foresight (Active), Glibness (Active), Veil of the Refugee (Active)**
@@ -9875,6 +10846,8 @@ You do not flinch as the law-breaking geometry of the void enters your marrow. I
 
 [REWARDS (Gaia Masked)]:
 +800 Masked XP (Gaia: 17,800 → 18,600)
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

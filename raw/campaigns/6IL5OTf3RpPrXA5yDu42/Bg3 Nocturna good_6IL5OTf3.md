@@ -12,206 +12,222 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (185 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Nocturna | Setting: After the events of bg3. I am a level 5 int based cleric make me a special class. I am a 16 year old female prodigy and give me an interesting backstory and extra attack
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **02** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **03** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **04** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **05** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **06** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **07** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **08** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **09** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **10** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **11** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **12** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **13** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **14** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Skill Check / Combat |
-| **15** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Roleplay |
-| **16** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Skill Check / Combat |
-| **17** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Roleplay |
-| **18** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:14) | Skill Check / Combat |
-| **19** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:34) | Skill Check / Combat |
-| **20** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:50) | Skill Check / Combat |
-| **21** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Skill Check / Combat |
-| **22** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Roleplay |
-| **23** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:10) | Skill Check / Combat |
-| **24** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
-| **25** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
-| **26** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
-| **27** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:40) | Skill Check / Combat |
-| **28** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:55) | Skill Check / Combat |
-| **29** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:00) | Skill Check / Combat |
-| **30** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:15) | Skill Check / Combat |
-| **31** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:20) | Skill Check / Combat |
-| **32** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:22) | Skill Check / Combat |
-| **33** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:22) | Roleplay |
-| **34** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:27) | Skill Check / Combat |
-| **35** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:32) | Skill Check / Combat |
-| **36** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:32) | Roleplay |
-| **37** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:34) | Skill Check / Combat |
-| **38** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:39) | Skill Check / Combat |
-| **39** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:41) | Skill Check / Combat |
-| **40** | The 'Runner's Nest' | Eleasias 1, 1492 DR (14:56) | Skill Check / Combat |
-| **41** | The 'Runner's Nest' | Eleasias 1, 1492 DR (15:01) | Skill Check / Combat |
-| **42** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (19:01) | Skill Check / Combat |
-| **43** | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (19:15) | Skill Check / Combat |
-| **44** | Steel Watch Foundry Wreckage | Eleasias 1, 1492 DR (19:35) | Skill Check / Combat |
-| **45** | Steel Watch Foundry - Internal Ruins | Eleasias 1, 1492 DR (19:45) | Skill Check / Combat |
-| **46** | Steel Watch Foundry - Internal Ruins | Eleasias 1, 1492 DR (19:55) | Skill Check / Combat |
-| **47** | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:10) | Skill Check / Combat |
-| **48** | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:25) | Skill Check / Combat |
-| **49** | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:25) | Roleplay |
-| **50** | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:30) | Skill Check / Combat |
-| **51** | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:30) | Skill Check / Combat |
-| **52** | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:30) | Skill Check / Combat |
-| **53** | Steel Watch Foundry - Internal Ruins | Eleasias 1, 1492 DR (20:35) | Skill Check / Combat |
-| **54** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (20:45) | Skill Check / Combat |
-| **55** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (20:55) | Skill Check / Combat |
-| **56** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:10) | Skill Check / Combat |
-| **57** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:25) | Skill Check / Combat |
-| **58** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:25) | Skill Check / Combat |
-| **59** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:30) | Skill Check / Combat |
-| **60** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:45) | Skill Check / Combat |
-| **61** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (22:00) | Skill Check / Combat |
-| **62** | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (22:00) | Roleplay |
-| **63** | Steel Watch Foundry - Sub-floor Drainage | Eleasias 1, 1492 DR (22:10) | Skill Check / Combat |
-| **64** | Steel Watch Foundry - Sub-floor Drainage | Eleasias 1, 1492 DR (22:10) | Roleplay |
-| **65** | Steel Watch Foundry - Sub-floor Drainage | Eleasias 1, 1492 DR (22:10) | Skill Check / Combat |
-| **66** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (06:30) | Skill Check / Combat |
-| **67** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (07:30) | Skill Check / Combat |
-| **68** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (07:30) | Skill Check / Combat |
-| **69** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
-| **70** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
-| **71** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
-| **72** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
-| **73** | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:05) | Skill Check / Combat |
-| **74** | Steel Watch Foundry - Drainage Arteries | Eleasias 2, 1492 DR (08:15) | Skill Check / Combat |
-| **75** | Steel Watch Foundry - Drainage Arteries | Eleasias 2, 1492 DR (08:15) | Skill Check / Combat |
-| **76** | Steel Watch Foundry - Drainage Arteries | Eleasias 2, 1492 DR (08:15) | Roleplay |
-| **77** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:20) | Skill Check / Combat |
-| **78** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:35) | Skill Check / Combat |
-| **79** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:40) | Skill Check / Combat |
-| **80** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
-| **81** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
-| **82** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
-| **83** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
-| **84** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:46) | Skill Check / Combat |
-| **85** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:46) | Roleplay |
-| **86** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:50) | Roleplay |
-| **87** | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:55) | Skill Check / Combat |
-| **88** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:10) | Skill Check / Combat |
-| **89** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:10) | Roleplay |
-| **90** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:20) | Skill Check / Combat |
-| **91** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:25) | Skill Check / Combat |
-| **92** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:25) | Skill Check / Combat |
-| **93** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:25) | Roleplay |
-| **94** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:35) | Skill Check / Combat |
-| **95** | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:40) | Skill Check / Combat |
-| **96** | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:45) | Skill Check / Combat |
-| **97** | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:45) | Roleplay |
-| **98** | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:46) | Skill Check / Combat |
-| **99** | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:55) | Skill Check / Combat |
-| **100** | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (10:00) | Skill Check / Combat |
-| **101** | Basilisk Gate - Marketplace (Alleyway) | Eleasias 2, 1492 DR (10:10) | Skill Check / Combat |
-| **102** | Upper City - House Solandis Annex | Eleasias 2, 1492 DR (10:40) | Skill Check / Combat |
-| **103** | Upper City - House Solandis Annex | Eleasias 2, 1492 DR (11:55) | Skill Check / Combat |
-| **104** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:00) | Skill Check / Combat |
-| **105** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:00) | Roleplay |
-| **106** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:05) | Skill Check / Combat |
-| **107** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:35) | Skill Check / Combat |
-| **108** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:50) | Skill Check / Combat |
-| **109** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:00) | Skill Check / Combat |
-| **110** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:00) | Roleplay |
-| **111** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:00) | Roleplay |
-| **112** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:05) | Skill Check / Combat |
-| **113** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:15) | Skill Check / Combat |
-| **114** | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:25) | Skill Check / Combat |
-| **115** | Upper City - High Road (In Transit) | Eleasias 2, 1492 DR (13:45) | Skill Check / Combat |
-| **116** | Upper City - High Road (Ambush | Eleasias 2, 1492 DR (14:05) | Skill Check / Combat |
-| **117** | Upper City - High Road (Armored Carriage) | Eleasias 2, 1492 DR (14:05) | Skill Check / Combat |
-| **118** | Upper City - High Road (Inside Armored Carriage) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
-| **119** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
-| **120** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
-| **121** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
-| **122** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
-| **123** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
-| **124** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:20) | Skill Check / Combat |
-| **125** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:20) | Roleplay |
-| **126** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:20) | Skill Check / Combat |
-| **127** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:21) | Skill Check / Combat |
-| **128** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:21) | Roleplay |
-| **129** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:21) | Roleplay |
-| **130** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:26) | Skill Check / Combat |
-| **131** | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:26) | Skill Check / Combat |
-| **132** | Upper City - High Road (Ambush Site Aftermath) | Eleasias 2, 1492 DR (14:36) | Skill Check / Combat |
-| **133** | Upper City - High House of Wonders | Eleasias 2, 1492 DR (14:51) | Skill Check / Combat |
-| **134** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:06) | Skill Check / Combat |
-| **135** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:06) | Skill Check / Combat |
-| **136** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:10) | Skill Check / Combat |
-| **137** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:25) | Skill Check / Combat |
-| **138** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:40) | Skill Check / Combat |
-| **139** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:45) | Skill Check / Combat |
-| **140** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:45) | Skill Check / Combat |
-| **141** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:45) | Skill Check / Combat |
-| **142** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:50) | Skill Check / Combat |
-| **143** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Skill Check / Combat |
-| **144** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
-| **145** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
-| **146** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
-| **147** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Skill Check / Combat |
-| **148** | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
-| **149** | Upper City - High House of Wonders (Bronze Doors) | Eleasias 2, 1492 DR (16:00) | Skill Check / Combat |
-| **150** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:20) | Skill Check / Combat |
-| **151** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:21) | Skill Check / Combat |
-| **152** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:22) | Skill Check / Combat |
-| **153** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:23) | Skill Check / Combat |
-| **154** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:23) | Skill Check / Combat |
-| **155** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:28) | Skill Check / Combat |
-| **156** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:29) | Skill Check / Combat |
-| **157** | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:30) | Skill Check / Combat |
-| **158** | Lower City - The Steelyard (Laboratory Entrance) | Eleasias 2, 1492 DR (16:45) | Skill Check / Combat |
-| **159** | Malakor's Laboratory - Primary Mainframe Hall | Eleasias 2, 1492 DR (16:55) | Skill Check / Combat |
-| **160** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:15) | Skill Check / Combat |
-| **161** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
-| **162** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
-| **163** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
-| **164** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
-| **165** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:40) | Skill Check / Combat |
-| **166** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:40) | Roleplay |
-| **167** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:50) | Skill Check / Combat |
-| **168** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:50) | Roleplay |
-| **169** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:50) | Roleplay |
-| **170** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:05) | Skill Check / Combat |
-| **171** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:05) | Skill Check / Combat |
-| **172** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:15) | Skill Check / Combat |
-| **173** | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:15) | Skill Check / Combat |
-| **174** | Steelyard Depths - Mainframe Hall | Eleasias 2, 1492 DR (18:30) | Skill Check / Combat |
-| **175** | Upper City - House Solandis Annex | Eleasias 3, 1492 DR (06:30) | Roleplay |
-| **176** | Upper City - House Solandis Annex | Eleasias 3, 1492 DR (07:00) | Skill Check / Combat |
-| **177** | Elturgard Capital - Elturel (Solandis Estate) | Eleasias 24, 1492 DR (09:00) | Skill Check / Combat |
-| **178** | Elturgard Outskirts - The North Road | Eleasias 27, 1492 DR (09:00) | Skill Check / Combat |
-| **179** | Elturel - House Solandis Estate | Eleasias 27, 1492 DR (20:00) | Skill Check / Combat |
-| **180** | Elturgard Outskirts - The North Road | Eleasias 28, 1492 DR (08:00) | Skill Check / Combat |
-| **181** | Elturel - Adventurers Guild Hall | Eleasias 28, 1492 DR (09:15) | Skill Check / Combat |
-| **182** | Elturgard Frontier - Camp Solandis | Eleasias 28, 1492 DR (09:15) | Skill Check / Combat |
-| **183** | Elturgard Frontier - Solandis Outpost Alpha | Eleint 29, 1492 DR (10:00) | Skill Check / Combat |
-| **184** | Elturgard Frontier - Solandis Outpost Alpha | Eleint 29, 1492 DR (10:00) | Roleplay |
-| **185** | Elturgard Frontier - Solandis Outpost Alpha | Eleint 29, 1492 DR (10:30) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Skill Check / Combat |
+| [**Scene 15**](#scene-15) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:10) | Roleplay |
+| [**Scene 16**](#scene-16) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Skill Check / Combat |
+| [**Scene 17**](#scene-17) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:12) | Roleplay |
+| [**Scene 18**](#scene-18) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:14) | Skill Check / Combat |
+| [**Scene 19**](#scene-19) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:34) | Skill Check / Combat |
+| [**Scene 20**](#scene-20) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (12:50) | Skill Check / Combat |
+| [**Scene 21**](#scene-21) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Skill Check / Combat |
+| [**Scene 22**](#scene-22) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:05) | Roleplay |
+| [**Scene 23**](#scene-23) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:10) | Skill Check / Combat |
+| [**Scene 24**](#scene-24) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 25**](#scene-25) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 26**](#scene-26) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 27**](#scene-27) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:40) | Skill Check / Combat |
+| [**Scene 28**](#scene-28) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (13:55) | Skill Check / Combat |
+| [**Scene 29**](#scene-29) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:00) | Skill Check / Combat |
+| [**Scene 30**](#scene-30) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 31**](#scene-31) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:20) | Skill Check / Combat |
+| [**Scene 32**](#scene-32) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:22) | Skill Check / Combat |
+| [**Scene 33**](#scene-33) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:22) | Roleplay |
+| [**Scene 34**](#scene-34) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:27) | Skill Check / Combat |
+| [**Scene 35**](#scene-35) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:32) | Skill Check / Combat |
+| [**Scene 36**](#scene-36) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:32) | Roleplay |
+| [**Scene 37**](#scene-37) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:34) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:39) | Skill Check / Combat |
+| [**Scene 39**](#scene-39) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (14:41) | Skill Check / Combat |
+| [**Scene 40**](#scene-40) | The 'Runner's Nest' | Eleasias 1, 1492 DR (14:56) | Skill Check / Combat |
+| [**Scene 41**](#scene-41) | The 'Runner's Nest' | Eleasias 1, 1492 DR (15:01) | Skill Check / Combat |
+| [**Scene 42**](#scene-42) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (19:01) | Skill Check / Combat |
+| [**Scene 43**](#scene-43) | Baldur's Gate - Lower City | Eleasias 1, 1492 DR (19:15) | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | Steel Watch Foundry Wreckage | Eleasias 1, 1492 DR (19:35) | Skill Check / Combat |
+| [**Scene 45**](#scene-45) | Steel Watch Foundry - Internal Ruins | Eleasias 1, 1492 DR (19:45) | Skill Check / Combat |
+| [**Scene 46**](#scene-46) | Steel Watch Foundry - Internal Ruins | Eleasias 1, 1492 DR (19:55) | Skill Check / Combat |
+| [**Scene 47**](#scene-47) | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:10) | Skill Check / Combat |
+| [**Scene 48**](#scene-48) | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:25) | Skill Check / Combat |
+| [**Scene 49**](#scene-49) | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:25) | Roleplay |
+| [**Scene 50**](#scene-50) | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:30) | Skill Check / Combat |
+| [**Scene 51**](#scene-51) | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:30) | Skill Check / Combat |
+| [**Scene 52**](#scene-52) | Steel Watch Foundry - Stabilization Chamber Entrance | Eleasias 1, 1492 DR (20:30) | Skill Check / Combat |
+| [**Scene 53**](#scene-53) | Steel Watch Foundry - Internal Ruins | Eleasias 1, 1492 DR (20:35) | Skill Check / Combat |
+| [**Scene 54**](#scene-54) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (20:45) | Skill Check / Combat |
+| [**Scene 55**](#scene-55) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (20:55) | Skill Check / Combat |
+| [**Scene 56**](#scene-56) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:10) | Skill Check / Combat |
+| [**Scene 57**](#scene-57) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:25) | Skill Check / Combat |
+| [**Scene 58**](#scene-58) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:25) | Skill Check / Combat |
+| [**Scene 59**](#scene-59) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:30) | Skill Check / Combat |
+| [**Scene 60**](#scene-60) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (21:45) | Skill Check / Combat |
+| [**Scene 61**](#scene-61) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (22:00) | Skill Check / Combat |
+| [**Scene 62**](#scene-62) | Steel Watch Foundry - Stabilization Chamber | Eleasias 1, 1492 DR (22:00) | Roleplay |
+| [**Scene 63**](#scene-63) | Steel Watch Foundry - Sub-floor Drainage | Eleasias 1, 1492 DR (22:10) | Skill Check / Combat |
+| [**Scene 64**](#scene-64) | Steel Watch Foundry - Sub-floor Drainage | Eleasias 1, 1492 DR (22:10) | Roleplay |
+| [**Scene 65**](#scene-65) | Steel Watch Foundry - Sub-floor Drainage | Eleasias 1, 1492 DR (22:10) | Skill Check / Combat |
+| [**Scene 66**](#scene-66) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (06:30) | Skill Check / Combat |
+| [**Scene 67**](#scene-67) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (07:30) | Skill Check / Combat |
+| [**Scene 68**](#scene-68) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (07:30) | Skill Check / Combat |
+| [**Scene 69**](#scene-69) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
+| [**Scene 70**](#scene-70) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
+| [**Scene 71**](#scene-71) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
+| [**Scene 72**](#scene-72) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:00) | Skill Check / Combat |
+| [**Scene 73**](#scene-73) | Steel Watch Foundry - Deep Cisterns | Eleasias 2, 1492 DR (08:05) | Skill Check / Combat |
+| [**Scene 74**](#scene-74) | Steel Watch Foundry - Drainage Arteries | Eleasias 2, 1492 DR (08:15) | Skill Check / Combat |
+| [**Scene 75**](#scene-75) | Steel Watch Foundry - Drainage Arteries | Eleasias 2, 1492 DR (08:15) | Skill Check / Combat |
+| [**Scene 76**](#scene-76) | Steel Watch Foundry - Drainage Arteries | Eleasias 2, 1492 DR (08:15) | Roleplay |
+| [**Scene 77**](#scene-77) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:20) | Skill Check / Combat |
+| [**Scene 78**](#scene-78) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:35) | Skill Check / Combat |
+| [**Scene 79**](#scene-79) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:40) | Skill Check / Combat |
+| [**Scene 80**](#scene-80) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
+| [**Scene 81**](#scene-81) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
+| [**Scene 82**](#scene-82) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
+| [**Scene 83**](#scene-83) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:45) | Skill Check / Combat |
+| [**Scene 84**](#scene-84) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:46) | Skill Check / Combat |
+| [**Scene 85**](#scene-85) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:46) | Roleplay |
+| [**Scene 86**](#scene-86) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:50) | Roleplay |
+| [**Scene 87**](#scene-87) | Lower City Sewers - Primary Artery | Eleasias 2, 1492 DR (08:55) | Skill Check / Combat |
+| [**Scene 88**](#scene-88) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:10) | Skill Check / Combat |
+| [**Scene 89**](#scene-89) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:10) | Roleplay |
+| [**Scene 90**](#scene-90) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:20) | Skill Check / Combat |
+| [**Scene 91**](#scene-91) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:25) | Skill Check / Combat |
+| [**Scene 92**](#scene-92) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:25) | Skill Check / Combat |
+| [**Scene 93**](#scene-93) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:25) | Roleplay |
+| [**Scene 94**](#scene-94) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:35) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Lower City - Surface (Near Basilisk Gate) | Eleasias 2, 1492 DR (09:40) | Skill Check / Combat |
+| [**Scene 96**](#scene-96) | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:45) | Skill Check / Combat |
+| [**Scene 97**](#scene-97) | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:45) | Roleplay |
+| [**Scene 98**](#scene-98) | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:46) | Skill Check / Combat |
+| [**Scene 99**](#scene-99) | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (09:55) | Skill Check / Combat |
+| [**Scene 100**](#scene-100) | Basilisk Gate - Marketplace | Eleasias 2, 1492 DR (10:00) | Skill Check / Combat |
+| [**Scene 101**](#scene-101) | Basilisk Gate - Marketplace (Alleyway) | Eleasias 2, 1492 DR (10:10) | Skill Check / Combat |
+| [**Scene 102**](#scene-102) | Upper City - House Solandis Annex | Eleasias 2, 1492 DR (10:40) | Skill Check / Combat |
+| [**Scene 103**](#scene-103) | Upper City - House Solandis Annex | Eleasias 2, 1492 DR (11:55) | Skill Check / Combat |
+| [**Scene 104**](#scene-104) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:00) | Skill Check / Combat |
+| [**Scene 105**](#scene-105) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:00) | Roleplay |
+| [**Scene 106**](#scene-106) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:05) | Skill Check / Combat |
+| [**Scene 107**](#scene-107) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:35) | Skill Check / Combat |
+| [**Scene 108**](#scene-108) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (12:50) | Skill Check / Combat |
+| [**Scene 109**](#scene-109) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:00) | Skill Check / Combat |
+| [**Scene 110**](#scene-110) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:00) | Roleplay |
+| [**Scene 111**](#scene-111) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:00) | Roleplay |
+| [**Scene 112**](#scene-112) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:05) | Skill Check / Combat |
+| [**Scene 113**](#scene-113) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:15) | Skill Check / Combat |
+| [**Scene 114**](#scene-114) | Upper City - House Solandis Annex (Solar) | Eleasias 2, 1492 DR (13:25) | Skill Check / Combat |
+| [**Scene 115**](#scene-115) | Upper City - High Road (In Transit) | Eleasias 2, 1492 DR (13:45) | Skill Check / Combat |
+| [**Scene 116**](#scene-116) | Upper City - High Road (Ambush | Eleasias 2, 1492 DR (14:05) | Skill Check / Combat |
+| [**Scene 117**](#scene-117) | Upper City - High Road (Armored Carriage) | Eleasias 2, 1492 DR (14:05) | Skill Check / Combat |
+| [**Scene 118**](#scene-118) | Upper City - High Road (Inside Armored Carriage) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 119**](#scene-119) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 120**](#scene-120) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 121**](#scene-121) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 122**](#scene-122) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 123**](#scene-123) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:15) | Skill Check / Combat |
+| [**Scene 124**](#scene-124) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:20) | Skill Check / Combat |
+| [**Scene 125**](#scene-125) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:20) | Roleplay |
+| [**Scene 126**](#scene-126) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:20) | Skill Check / Combat |
+| [**Scene 127**](#scene-127) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:21) | Skill Check / Combat |
+| [**Scene 128**](#scene-128) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:21) | Roleplay |
+| [**Scene 129**](#scene-129) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:21) | Roleplay |
+| [**Scene 130**](#scene-130) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:26) | Skill Check / Combat |
+| [**Scene 131**](#scene-131) | Upper City - High Road (Carriage Ambush) | Eleasias 2, 1492 DR (14:26) | Skill Check / Combat |
+| [**Scene 132**](#scene-132) | Upper City - High Road (Ambush Site Aftermath) | Eleasias 2, 1492 DR (14:36) | Skill Check / Combat |
+| [**Scene 133**](#scene-133) | Upper City - High House of Wonders | Eleasias 2, 1492 DR (14:51) | Skill Check / Combat |
+| [**Scene 134**](#scene-134) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:06) | Skill Check / Combat |
+| [**Scene 135**](#scene-135) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:06) | Skill Check / Combat |
+| [**Scene 136**](#scene-136) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:10) | Skill Check / Combat |
+| [**Scene 137**](#scene-137) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:25) | Skill Check / Combat |
+| [**Scene 138**](#scene-138) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:40) | Skill Check / Combat |
+| [**Scene 139**](#scene-139) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:45) | Skill Check / Combat |
+| [**Scene 140**](#scene-140) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:45) | Skill Check / Combat |
+| [**Scene 141**](#scene-141) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:45) | Skill Check / Combat |
+| [**Scene 142**](#scene-142) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:50) | Skill Check / Combat |
+| [**Scene 143**](#scene-143) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Skill Check / Combat |
+| [**Scene 144**](#scene-144) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
+| [**Scene 145**](#scene-145) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
+| [**Scene 146**](#scene-146) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
+| [**Scene 147**](#scene-147) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Skill Check / Combat |
+| [**Scene 148**](#scene-148) | Upper City - High House of Wonders (Deep Sanctum) | Eleasias 2, 1492 DR (15:55) | Roleplay |
+| [**Scene 149**](#scene-149) | Upper City - High House of Wonders (Bronze Doors) | Eleasias 2, 1492 DR (16:00) | Skill Check / Combat |
+| [**Scene 150**](#scene-150) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:20) | Skill Check / Combat |
+| [**Scene 151**](#scene-151) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:21) | Skill Check / Combat |
+| [**Scene 152**](#scene-152) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:22) | Skill Check / Combat |
+| [**Scene 153**](#scene-153) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:23) | Skill Check / Combat |
+| [**Scene 154**](#scene-154) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:23) | Skill Check / Combat |
+| [**Scene 155**](#scene-155) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:28) | Skill Check / Combat |
+| [**Scene 156**](#scene-156) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:29) | Skill Check / Combat |
+| [**Scene 157**](#scene-157) | Lower City - The Steelyard Perimeter | Eleasias 2, 1492 DR (16:30) | Skill Check / Combat |
+| [**Scene 158**](#scene-158) | Lower City - The Steelyard (Laboratory Entrance) | Eleasias 2, 1492 DR (16:45) | Skill Check / Combat |
+| [**Scene 159**](#scene-159) | Malakor's Laboratory - Primary Mainframe Hall | Eleasias 2, 1492 DR (16:55) | Skill Check / Combat |
+| [**Scene 160**](#scene-160) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:15) | Skill Check / Combat |
+| [**Scene 161**](#scene-161) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
+| [**Scene 162**](#scene-162) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
+| [**Scene 163**](#scene-163) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
+| [**Scene 164**](#scene-164) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:35) | Skill Check / Combat |
+| [**Scene 165**](#scene-165) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:40) | Skill Check / Combat |
+| [**Scene 166**](#scene-166) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:40) | Roleplay |
+| [**Scene 167**](#scene-167) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:50) | Skill Check / Combat |
+| [**Scene 168**](#scene-168) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:50) | Roleplay |
+| [**Scene 169**](#scene-169) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (17:50) | Roleplay |
+| [**Scene 170**](#scene-170) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:05) | Skill Check / Combat |
+| [**Scene 171**](#scene-171) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:05) | Skill Check / Combat |
+| [**Scene 172**](#scene-172) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:15) | Skill Check / Combat |
+| [**Scene 173**](#scene-173) | Malakor's Inner Sanctum - The Resonance Throne | Eleasias 2, 1492 DR (18:15) | Skill Check / Combat |
+| [**Scene 174**](#scene-174) | Steelyard Depths - Mainframe Hall | Eleasias 2, 1492 DR (18:30) | Skill Check / Combat |
+| [**Scene 175**](#scene-175) | Upper City - House Solandis Annex | Eleasias 3, 1492 DR (06:30) | Roleplay |
+| [**Scene 176**](#scene-176) | Upper City - House Solandis Annex | Eleasias 3, 1492 DR (07:00) | Skill Check / Combat |
+| [**Scene 177**](#scene-177) | Elturgard Capital - Elturel (Solandis Estate) | Eleasias 24, 1492 DR (09:00) | Skill Check / Combat |
+| [**Scene 178**](#scene-178) | Elturgard Outskirts - The North Road | Eleasias 27, 1492 DR (09:00) | Skill Check / Combat |
+| [**Scene 179**](#scene-179) | Elturel - House Solandis Estate | Eleasias 27, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 180**](#scene-180) | Elturgard Outskirts - The North Road | Eleasias 28, 1492 DR (08:00) | Skill Check / Combat |
+| [**Scene 181**](#scene-181) | Elturel - Adventurers Guild Hall | Eleasias 28, 1492 DR (09:15) | Skill Check / Combat |
+| [**Scene 182**](#scene-182) | Elturgard Frontier - Camp Solandis | Eleasias 28, 1492 DR (09:15) | Skill Check / Combat |
+| [**Scene 183**](#scene-183) | Elturgard Frontier - Solandis Outpost Alpha | Eleint 29, 1492 DR (10:00) | Skill Check / Combat |
+| [**Scene 184**](#scene-184) | Elturgard Frontier - Solandis Outpost Alpha | Eleint 29, 1492 DR (10:00) | Roleplay |
+| [**Scene 185**](#scene-185) | Elturgard Frontier - Solandis Outpost Alpha | Eleint 29, 1492 DR (10:30) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric | HP: 33/33 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -262,8 +278,11 @@ Does this character meet your approval, or would you like to make changes?
 > 👤 **Player:**
 > *"Make me a custom class and set my cha to 8 with -2 social checks until level 12. I am very shy  and low confidence. Let’s assume I’m just an unknown adventurer and am just naturally talented and don’t know why. Give me interesting characters based backstory and custom class"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Silent Conduit) | HP: 33/33 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -293,8 +312,11 @@ Does this revised version of Nocturna meet your approval?
 > 👤 **Player:**
 > *"Give me 18 int 16 dex 14 con and spread out the rest and 8 cha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Silent Conduit) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -332,8 +354,11 @@ Does this configuration of the 'hum' within you feel right? We are ready to begi
 > 👤 **Player:**
 > *"Show me my level 1-30 progression and make me similar to war cleric and storm or thunder cleric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Silent Conduit) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -379,8 +404,11 @@ Does this path of power resonate with you, or should we adjust the frequencies?
 > 👤 **Player:**
 > *"Actually let’s make me an Angelic cleric and assume I am half angel but don’t know"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No**
@@ -428,8 +456,11 @@ Does this angelic resonance feel like the truth you've been searching for?
 > 👤 **Player:**
 > *"Describe my physical appearance and make me extremely good looking and if I ask for help or mercy I have +2 to social checks instead of the usual  -2 actually make it plus 4"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -451,8 +482,11 @@ Does this final vision of Nocturna meet your approval, or shall we adjust the ce
 > 👤 **Player:**
 > *"Give me some better benefits after level 20 and at level 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -487,8 +521,11 @@ Does this ultimate height of power satisfy the logic of your soul, Nocturna?
 > 👤 **Player:**
 > *"Make my int 18 and dex 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -530,8 +567,11 @@ Does this final proof of your existence satisfy your logic, or do we need to rec
 > 👤 **Player:**
 > *"How come my ability score points are still not set properly?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -554,8 +594,11 @@ Does this mathematical breakdown satisfy your prodigy's mind, or should we reach
 God Mode:
 Why do the stats still look wrong?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -588,8 +631,11 @@ WIS	10	10	+0	—
 CHA	8	8	-1	—
 Saving Throws
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -611,8 +657,11 @@ Does this correction align with your internal logic, or shall we invoke the Epic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and begin your journey as an unknown prodigy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -628,8 +677,11 @@ Torvin stands a few paces away, his hand resting on the pommel of his sword as h
 God Mode:
 Let’s assume I have no companions and I’m going to try to register adventurers guild. Let me naturally encounter characters from bg3 and let them be levels 12 or so since it’s after the game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Baldur's Gate - Lower City** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -642,8 +694,11 @@ Administrative updates complete:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your journey in the Lower City, now heading toward the Adventurers Guild alone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -657,8 +712,11 @@ As you navigate the bustling market square, your eyes catch a flash of familiar 
 God Mode:
 Let’s assume most people underestimate me at first due to my youth and beauty. People assume I am level 1 especially by how I carry myself and will be shocked when they realize my real level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -668,8 +726,11 @@ Administrative update complete. A new narrative constraint has been established:
 > 👤 **Player:**
 > *"Introduce myself to shadowheart and say I’m a fan. Ask for help registering"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -701,8 +762,11 @@ Shadowheart pauses, her gaze lingering on your silver eyes. For a moment, she se
 God Mode:
 When asking for help just give 4 bonus without -2 shy advantage. Most people will feel like helping a shy beautiful woman
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -714,8 +778,11 @@ When Nocturna explicitly asks for help or mercy, the -2 'Shy and Low Confidence'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the interaction with Shadowheart with the refined social bonus in effect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:14)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -742,8 +809,11 @@ A group of scarred mercenaries nearby bursts into raucous laughter at a joke you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Join the Registration Line - Follow Shadowheart's directions and stand in line to speak with Tallow, the registrar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:34)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -772,8 +842,11 @@ Without thinking, your hand brushes the 'Divine Ledger', and for a brief moment,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find a Quiet Corner to Decompress - The social interaction and the display of power have drained your confidence. Find a secluded spot in the hall to study the Guild handbook.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -791,8 +864,11 @@ Outside your alcove, the hall continues its chaotic symphony. You catch fragment
 > 👤 **Player:**
 > *"Check bounty board. Let’s sssume even if I’m level 5 I don’t realize I’m special. I look for some level 3 mission to get my bearings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -811,8 +887,11 @@ A few nearby mercenaries chuckle, their eyes sliding over you with dismissive pi
 God Mode:
 Let’s assume I am actually a noble bastard and since I am part angel my family is really high class but I don’t know. Let it play out later organically. Make them a lawful good family but with high expectations someone in another city or kingdom not bg3 but close
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -828,8 +907,11 @@ Administrative Summary:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Grom for a 'Real' Lead - Use your 'Seraphic Pathos' (+4 bonus) to plead with the big warrior. Perhaps if you look distressed enough, his protective instinct will override his dismissal and he'll point you toward something better.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -856,8 +938,11 @@ Grom (Lvl 8) looks down at you, his scarred brow furrowing. For a heartbeat, his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Rat Contract - Head to the Elfsong Tavern cellars. It's demeaning, but it's a chance to use your power without witnesses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -881,8 +966,11 @@ The cellar is vast, smelling of damp earth, sour wine, and something metallic. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Heavenly Rebuke (Reaction) - As the first rat strikes, unleash your divine resonance to deal 2d8 Radiant/Thunder damage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6500/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -906,8 +994,11 @@ Two more sets of glowing red eyes emerge from the shadows beneath the stairs, th
 > 👤 **Player:**
 > *"Cast spirit guardians and walk though the rats and let it dps them. Use bonus action to dps somehow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -943,8 +1034,11 @@ You gain **150 XP** for clearing the cellar. A sense of calm settles over the ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for the 'Resonance' - Follow the 'hum' deeper into the cellar ruins to see if there's a lead on the psionic residue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -964,8 +1058,11 @@ Alan Alyth's voice echoes down the stairs, sounding concerned. The heavy wooden 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Deeper (Retry) - Ignore Alan's call and try to find a hidden passage or more intact residue deeper in the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern Cellars** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -981,8 +1078,11 @@ But the variables simply won't align. Every time you think you’ve found a geom
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meet Alan and Collect Reward - Step into the light and inform Alan the rats are 'corrected'. Collect your gold and head back to the city streets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Baldur's Gate - Lower City, Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1004,8 +1104,11 @@ You murmur a hasty "Thank you" and slip the coins into your pouch, the weight of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Guild Hall - Check the bounty board again now that you have a success under your belt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1023,8 +1126,11 @@ However, as you stand before the wall of parchment, the ink begins to swim again
 > 👤 **Player:**
 > *"Tell Grom i beat the rats. Ask him what’s a more challenging mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1055,8 +1161,11 @@ As he dismisses you, the heavy guild doors swing open, admitting a blast of hot 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow the Messenger - Ignore Grom's dismissal and move closer to the registrar's desk to hear what the man from Elturel is reporting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1079,8 +1188,11 @@ Your breath hitches, the 'hum' within you spiking into a sharp, terrifying chord
 God Mode:
 Remove my brother torvin that’s an older version of the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:22)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1090,8 +1202,11 @@ Administrative Change: Torvin has been removed from the campaign state. All refe
 > 👤 **Player:**
 > *"Ask what the reward is for finding this person"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:27)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1122,8 +1237,11 @@ The messenger is breathing heavily now, his hand slowly reaching for a leather s
 > 👤 **Player:**
 > *"Plead for help. Say I’m poor and I wanna collect the reward for finding myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:32)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1151,8 +1269,11 @@ He glances at the messenger, who is still blinking in a daze. "Quiet, you," Tall
 God Mode:
 Remember I wanted my family to be good they shouldn’t be trying to kill me. Is the LLM ignoring my instructions?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:32)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 3/4**
@@ -1169,8 +1290,11 @@ The story model will now respect the 'Good Family' constraint moving forward.
 > 👤 **Player:**
 > *"Resume the story. Say with the bounty if it turns bad at least I’ll have resources to protect myself. Let’s sssume I don’t really know their intentions so I am worried"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:34)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1201,8 +1325,11 @@ You feel a cold spike of dread. You don't know this Overseer, and you certainly 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask for a Guild 'Safe House' - Forget the bounty for now. Ask Tallow if the Guild has a place where 'un-registered' assets can hide until the heat dies down.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:39)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1231,8 +1358,11 @@ The messenger nods frantically, his face pale. "Yes, sir. Vanished. She... she w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request a Disguise - Ask Tallow if he has a Guild cloak or something to better hide your hair and eyes before you step back outside.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Baldur's Gate - Lower City, Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:41)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1259,8 +1389,11 @@ You feel the weight of Grom's heavy, judgmental gaze like a physical pressure on
 > [!NOTE] ⚙️ **Player Choice:**
 > *Flee to the 'Runner's Nest' - Duck into the crowd and use the side exit Tallow mentioned to reach the safe house in Bloomridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The 'Runner's Nest', Bloomridge District** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (14:56)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1278,8 +1411,11 @@ You reach the 'Runner's Nest'—a nondescript, windowless stone building tucked 
 > 👤 **Player:**
 > *"Try to disguise myself and see if Grom or anyone saw me enter the actual hideout"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The 'Runner's Nest', Bloomridge District** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (15:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1298,8 +1434,11 @@ He looks frustrated, his jaw working as he scans the crowd. He clearly knows you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Nightfall - Stay hidden in the dark until the sun sets, hoping Grom loses patience or the shadows become thick enough to mask your escape.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Baldur's Gate - Lower City, Bloomridge District Alleys** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (19:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6800/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1317,8 +1456,11 @@ You pull your new gray travel cloak tight, the wide brim of your felt hat shadow
 > 👤 **Player:**
 > *"Try to disguise myself better somehow using magic or physical means or both"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Baldur's Gate - Lower City, Bloomridge District Alleys** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1337,8 +1479,11 @@ From the street above, you hear the rhythmic clank of heavy armor. Not the Guild
 > [!NOTE] ⚙️ **Player Choice:**
 > *Slip Toward the Foundry - Utilize your Stealth (+6) to weave through the lower alleys toward the Steel Watch wreckage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Steel Watch Foundry Wreckage** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 6875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1354,8 +1499,11 @@ The air here is heavy with the scent of ozone and burnt oil, a sharp resonance t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Resonance Infiltration (Synergistic) - Simultaneously map the psionic frequencies while utilizing those very 'null-zones' as a path to infiltrate the heart of the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Steel Watch Foundry - Internal Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7625/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1376,8 +1524,11 @@ You gain **750 XP** for your masterful infiltration and mapping of the psionic r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Gondian Locker - Use your Intelligence (Investigation) to safely open and study the contents of the ticking locker Blink found.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Steel Watch Foundry - Internal Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7725/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1397,8 +1548,11 @@ You gain **100 XP** for successfully opening the Gondian locker and recovering t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Hidden Workshop - The ledger mentions a 'Stabilization Chamber' deeper in the wreckage. Search for the entrance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber Entrance** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7975/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1417,8 +1571,11 @@ You gain **250 XP** for deciphering the Gondian schematics and locating the hidd
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solve the Harmonic Seal - Use your Intelligence (Arcana) to carefully align the runes and unlock the hatch silently.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber Entrance** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7975/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1434,8 +1591,11 @@ Beside you, Blink (Lvl 2) lets out a low, warning hiss. His tails lash the air a
 God Mode:
 who is blink
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber Entrance** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7975/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1464,8 +1624,11 @@ Recalibrate and Retry: The variables have shifted. Take a moment to re-study the
 Pros: Maintains stealth, Potential to unlock the door properly
 Cons: DC has increased to 16 due to the 'scrambled' defensive state, Takes more time while scouts are closing in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber Entrance** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7975/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1484,8 +1647,11 @@ Behind you, the silence of the Foundry ruins is shattered by the faint, distinct
 > 👤 **Player:**
 > *"THINK:can i kill them or stun them and get away"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber Entrance** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7975/14000**
@@ -1497,8 +1663,11 @@ Intelligence Check: 21 vs DC 13 — Success (Beat by 8: Sharp). Your mind instan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lethal Calculation - Cast Spirit Guardians immediately. Use your Extra Attack to strike the swordsman twice with your Fine Steel Mace while the spirits shred the crossbowman.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber Entrance** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 7975/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 0/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1523,8 +1692,11 @@ The crossbowman fares no better; the spirits dive through him, his eyes glazing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Surrender - Utilize your Seraphic Pathos (+4 bonus) to demand they drop their weapons and flee before you unleash the full storm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Steel Watch Foundry - Internal Ruins** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 8175/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 0/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1549,8 +1721,11 @@ You gain **200 XP** for defeating the Zhentarim scouts.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify Emergency Bypass - The ledger mentions an 'Architect's Keycode' for emergencies. Use Investigation (+4) to find the override.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 8325/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 0/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -1571,8 +1746,11 @@ You gain **150 XP** for identifying the Architect's Keycode and successfully bre
 > 👤 **Player:**
 > *"Close door so it looks like no one came in then scout chamber to see how it works and analyze console"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (20:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 8425/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 0/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -1593,8 +1771,11 @@ You gain **100 XP** for deciphering the Stabilization Chamber's primary controls
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Bedrock Venting - Use the console to safely bleed the violet resonance into the earth, stabilizing the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 8925/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 0/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -1615,8 +1796,11 @@ You gain **500 XP** for stabilizing the psionic core and completing the Foundry'
 > 👤 **Player:**
 > *"commune with the core and tr to power up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 27/38 | Gold: 510gp | XP: 8925/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1638,8 +1822,11 @@ Nocturna: 38 → 27 HP (11 Psychic Damage)
 > 👤 **Player:**
 > *"THINK:think about how to reduce commune dc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 27/38 | Gold: 510gp | XP: 8925/14000**
@@ -1651,8 +1838,11 @@ Intelligence Check: 14 vs DC 14 — Success. Your mind, though reeling from the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacrificial Spell Buffer (-4 DC) - Expend a 2nd-level spell slot (like Aid) to create a temporary layer of divine energy to absorb the core's initial backlash.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 18/38 | Gold: 510gp | XP: 8925/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 0/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -1676,8 +1866,11 @@ Nocturna: 27 → 18 HP (9 Psychic Damage)
 Reeling from a second failed communion; Core remains unstable but closer to alignment.
 Engage Resonance Dampeners (-2 DC): Stop trying to tank the backlash. Use the console to physically tighten the magnetic cage and filter the noise before trying one last time."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 13/38 | Gold: 510gp | XP: 8925/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 1/3, L3 0/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1705,8 +1898,11 @@ Nocturna: 18 → 24 (Heal) → 13 HP (11 Psychic Damage)
 > 👤 **Player:**
 > *"heal level 1 spell, i still have one level 2 spell buffer, final variable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 20/38 | Gold: 510gp | XP: 8925/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 0/3, L3 0/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1732,8 +1928,11 @@ The azure signature on the door flares one last time before the silver runes beg
 God Mode:
 shoudlnt i get some better special powers from integrating with netherbrain stuff if that was it? or what did i integrate with
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Steel Watch Foundry - Stabilization Chamber** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 20/38 | XP: 8925/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 3/4**
@@ -1754,8 +1953,11 @@ Your character state and core memories have been updated to reflect this deeper 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Architect's Exit - Now that you are integrated with the core, you can see the 'logic' of the floor plates. Use Investigation to find the maintenance tunnel that leads to the harbor drainage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Steel Watch Foundry - Sub-floor Drainage** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 20/38 | Gold: 510gp | XP: 9025/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 0/3, L3 0/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1776,8 +1978,11 @@ You gain **100 XP** for finding the Architect's Exit and successfully ghosting t
 God Mode:
 How much exp did I get for commune cord
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Steel Watch Foundry - Sub-floor Drainage** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 20/38 | XP: 9525/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 0/3, L3 0/2 | Radiant Strike: 3/4**
@@ -1801,8 +2006,11 @@ Administrative Note: While the narrative in Sequence 122 focused on your power-u
 > 👤 **Player:**
 > *"THINK:Where can I safely long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Steel Watch Foundry - Sub-floor Drainage** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 20/38 | XP: 9525/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1814,8 +2022,11 @@ Intelligence Check: 21 vs DC 11 — Success. Your mind, though weary and battere
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Deep Cisterns (Safe) - Navigate deeper into the bedrock using the Ledger's maps to find an unmapped Gondian cistern. The psionic static here masks your resonance perfectly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 9525/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1834,8 +2045,11 @@ You wake hours later to the sound of distant, echoing drips. The mental fog has 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Ledger for 'Lost Resonance' - Take another hour in safety to cross-reference the Ledger's proofs with the resonance you felt in the core, searching for any mention of 'Elturel' or 'Aurelian'.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 9675/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1856,8 +2070,11 @@ You gain **150 XP** for deciphering the Solandis proof and confirming your link 
 > 👤 **Player:**
 > *"THINK:Think about my past who am i"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | XP: 9675/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1869,8 +2086,11 @@ Intelligence Check: 21 vs DC 12 — Success. Your mind, sharp and analytical, sl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cross-Reference Elturel Nobility - Use the Ledger and your History (+7) to identify the current status of House Solandis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 9925/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1893,8 +2113,11 @@ You gain **250 XP** for cross-referencing your heritage and uncovering the statu
 > 👤 **Player:**
 > *"THINK:How can I safely scout these seekers and see if they’re actually friendly or not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 9925/14000**
@@ -1906,8 +2129,11 @@ Intelligence Check: 19 vs DC 12 — Success. Your mind, bolstered by the new cry
 > 👤 **Player:**
 > *"THINK:Psionic Conduit Sensing - Touch the copper conduits and use your 18 Intelligence to 'read' the rhythmic vibrations of the search party's movement above."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 9925/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1919,8 +2145,11 @@ Intelligence Check: 21 vs DC 10 — Success. Your methodical mind, now permanent
 > 👤 **Player:**
 > *"THINK:The Distant Cry - Use Thaumaturgy to create the sound of a girl's sob in a distant pipe to see if they rush to help or assume a combat formation."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 9925/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1932,8 +2161,11 @@ Intelligence Check: 13 vs DC 12 — Success (Margin: +1). Your mind works throug
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Distant Cry - Project the sound of a sob 30ft into a northern pipe and observe their reaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Steel Watch Foundry - Deep Cisterns** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10075/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1953,8 +2185,11 @@ You gain **150 XP** for the successful execution of the 'Distant Cry' gambit and
 > 👤 **Player:**
 > *"Ghost north but keep observing the paladins. From what I see think if I should reveal myself or not"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Steel Watch Foundry - Drainage Arteries** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10125/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1973,8 +2208,11 @@ But as you watch them, you feel a different vibration through the floor—a cold
 > 👤 **Player:**
 > *"THINK:If they are looking for me could the city be at risk? Maybe I should just help them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Steel Watch Foundry - Drainage Arteries** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10125/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1986,8 +2224,11 @@ Intelligence Check: 14 vs DC 11 — Success. Your mind, though racing with the a
 God Mode:
 Don’t spoil it but if there’s risk to the city let’s assume it’s sentient threat versus some natural disaster type  of thing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Steel Watch Foundry - Drainage Arteries** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10125/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -1997,8 +2238,11 @@ Lore adjustment confirmed. The 'Equation' of the city's instability is no longer
 > [!NOTE] ⚙️ **Player Choice:**
 > *Free-Agent Variable - Assume the city isn't at *immediate* risk and prioritize escaping the pincer to find your own solution to the Anchor project.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10325/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2017,8 +2261,11 @@ You gain **200 XP** for successfully evading both the Heralds and the Zhentarim 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Sewer Resonance - Take a moment to see if the 'Sentient Threat' has left any traces in the city's primary psionic drainage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10625/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2038,8 +2285,11 @@ You gain **300 XP** for successfully isolating the sentient signature and identi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bribe Grizzel for Masking - Offer Grizzel 10gp to lead you through a 'scent-masking' route that will throw off the Zhentarim tracker.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10625/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2064,8 +2314,11 @@ He leans closer, the scent of rot and old grease overpowering. "You're the 'Sola
 > [!NOTE] ⚙️ **Player Choice:**
 > *Increase the Bribe (25gp) - Double the offer to 25 gold pieces. Utilize your vulnerability (+4 bonus) again to convince him this is his last chance for a quick payout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10625/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2092,8 +2345,11 @@ He hasn't fled yet, but his resistance has hardened. He isn't just greedy anymor
 > 👤 **Player:**
 > *"Radiant ambush try trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10725/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2120,8 +2376,11 @@ You gain **100 XP** for initiating the counter-ambush and damaging the Zhentarim
 > 👤 **Player:**
 > *"THINK:How can I beat him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 10725/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2133,8 +2392,11 @@ Intelligence Check: 14 vs DC 13 — Success. Your mind, sharp and analytical des
 > 👤 **Player:**
 > *"Spirit weapon with bonus action to dps him then resonant burst"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 17/38 | Gold: 510gp | XP: 10725/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2172,8 +2434,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"Storm last stand but only on zhent then heal myself and run to paladins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 24/38 | Gold: 510gp | XP: 10725/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2208,8 +2473,11 @@ But as the Heralds form a protective semi-circle around you, the 'Equation' of t
 God Mode:
 Don’t call it a sentient threat. I mean I want a humanoid type of villain not a natural distaster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 24/38 | Gold: 510gp | XP: 10725/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2219,8 +2487,11 @@ Lore refinement confirmed. The abstract 'Sentient Threat' label has been removed
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the campaign with the refined lore in place.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 24/38 | Gold: 510gp | XP: 10825/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No**
@@ -2236,8 +2507,11 @@ You gain **100 XP** for successfully reaching the Heralds' protection during the
 > 👤 **Player:**
 > *"Try to persuade Valerius but it should be hard. Use guidance. Let’s assume someone like me is basically royalty and with seraphic powers I’m like a royal goddess someone who properly developed could’ve stopped the descent into avernus if I was grown up and trained. Even if he believes me he would be very reluctant to risk me. The paladins know my great magic power so they won’t underestimate my raw power but may underestimate my competence since I am young g"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Lower City Sewers - Primary Artery** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 24/38 | Gold: 510gp | XP: 10825/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2265,8 +2539,11 @@ He looks toward his vanguard, signaling for a formation change. "We move to the 
 > 👤 **Player:**
 > *"Heal myself and just go along with them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 29/38 | Gold: 510gp | XP: 10825/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No**
@@ -2286,8 +2563,11 @@ You feel the 'hum' shift as you move further from the sewers. The jagged, sentie
 God Mode:
 Let’s add some special lore like someone like me when fully grown could truly protect the city from anything and be a legendary hero. So paladins or people who know who I am will be very protective and sacrifice their lives for me if they are the heroic type
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 29/38 | Gold: 510gp | XP: 10825/14000**
@@ -2303,8 +2583,11 @@ These directives have been persisted to ensure consistent NPC behavior and narra
 > 👤 **Player:**
 > *"Let’s assume personality wise I am shy and also very considerate. I thank them for the help and politely ask what’s going on. I apologize and say I was afraid of them initially but then realized they meant well. Ask if they’re sure I’m that important as I’m an orphan girl even if I am a noble bastard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 29/38 | Gold: 510gp | XP: 10825/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2335,8 +2618,11 @@ Valerius's hand drops to the pommel of his sun-blessed longsword. The air around
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Fist's Motive - Use your 18 Intelligence and Harmonious Integration to scan the Sergeant. Is he truly following protocol, or does he have the violet psionic 'Architect' signature?*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 29/38 | Gold: 510gp | XP: 10825/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2354,8 +2640,11 @@ The Sergeant's hand is white-knuckled on his halberd, his pupils dilated. He is 
 > 👤 **Player:**
 > *"Desperate plea but don’t cry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 29/38 | Gold: 510gp | XP: 10875/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2375,8 +2664,11 @@ Blink (Lvl 2) hisses, his tentacles lashing the air as the 'hum' of the city bec
 God Mode:
 You should let me roll guidance too?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 29/38 | Gold: 510gp | XP: 10875/14000** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2390,8 +2682,11 @@ Regarding the last check: Even with a *Guidance* roll, the DC 18 was specificall
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plead with the Guards - Ignore the observer and focus on the panicked guards. Use your +4 Pathos bonus to convince them you aren't the cause of the Sergeant's collapse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 29/38 | Gold: 510gp | XP: 10875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2412,8 +2707,11 @@ Valerius (Lvl 9) doesn't miss the opening. "Formation shift! Vanguard, suppress 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Calculate the Counter-Signal - Use your 18 Intelligence and Harmonious Integration to send a disruptive pulse back up the tether toward the observer's device.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Lower City - Surface (Near Basilisk Gate)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 25/38 | Gold: 510gp | XP: 10875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2439,8 +2737,11 @@ Captain Valerius (Lvl 9) roars a command, his longsword finally clearing its sca
 > 👤 **Player:**
 > *"Buff my allies and me with bless and use spirit weapon to attack observer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Basilisk Gate - Marketplace** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 25/38 | Gold: 510gp | XP: 10875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Bless (Conc.) | Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2468,8 +2769,11 @@ Captain Valerius roars a command, but his words are lost in the psionic scream. 
 God Mode:
 I think you are forgetting to let everyone besides me take their turns?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Basilisk Gate - Marketplace** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 25/38 | Gold: 510gp | XP: 10875/14000**
@@ -2481,8 +2785,11 @@ From now on, I will ensure that every 'turn' includes the actions of relevant en
 > 👤 **Player:**
 > *"Let everyone else take their turns"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Basilisk Gate - Marketplace** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 21/38 | Gold: 510gp | XP: 10875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Bless (Conc. - Round 2) | Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2515,8 +2822,11 @@ The Seraphic Beacon: Step into the spice clouds and flare your resonance. Use yo
 Pros: Turns the Flaming Fist from obstacles into allies, Maximizes your divine presence to end the riot
 Cons: Makes you an absolute target for any hidden snipers, Verbal communication is still impossible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Basilisk Gate - Marketplace** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 21/38 | Gold: 510gp | XP: 11625/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Bless (Conc.) | Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2544,8 +2854,11 @@ You gain **750 XP** for neutralizing the threat and rallying the city's defender
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recover the Device - Slip into the alleyway while the Heralds are securing the square to retrieve the observer's psionic device.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Basilisk Gate - Marketplace** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 21/38 | Gold: 510gp | XP: 11625/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Bless (Conc.) | Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2567,8 +2880,11 @@ To the west, the rhythmic rhythmic thud of armored boots signals the arrival of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plead for the Body (Mercy Bonus) - Use your +4 Pathos bonus to convince Valerius to let you examine the dead observer or the crates before leaving. Insist there is a 'corruption' only you can see.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Basilisk Gate - Marketplace (Alleyway)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 21/38 | Gold: 510gp | XP: 11875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Bless (Conc.) | Shy & Low Confidence (-2 Social / +4 Pathos) | Exhaustion: 0 | Inspiration: No**
@@ -2592,8 +2908,11 @@ Valerius looms over you, his longsword reflecting the smoke-veiled sun. "Ten sec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hide the Key, Follow Valerius - Slip the obsidian key into your rags and allow the Heralds to extract you to the Upper City. You can find a way to escape Solandis custody later.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Upper City - House Solandis Annex** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 21/38 | Gold: 510gp | XP: 11875/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2619,8 +2938,11 @@ He bows stiffly and exits, leaving two Elturian guards at the door. You are alon
 
 also lets stop all this signature stuff if its not a part of D&D lore"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Upper City - House Solandis Annex** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 34/38 | Gold: 510gp | XP: 11875/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2648,8 +2970,11 @@ As you find a moment of peace, the heavy oak doors of the solar swing open witho
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plead for Dignity (Mercy Bonus) - Look Vaelra in the eye, your silver eyes shimmering with exhaustion and vulnerability. Use your +4 Pathos bonus to argue that after the trauma of the riot, a physical search feels like a second assault.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 34/38 | Gold: 510gp | XP: 11875/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2672,8 +2997,11 @@ She turns to leave, pausing only at the threshold. "Rest. The healers will be he
 God Mode:
 someting is kind of weird? why is she so mean? I think this faction sohuld be overjoyed I am recovered and I am probably like the last of the noble line?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 34/38 | Gold: 510gp | XP: 11875/14000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2690,8 +3018,11 @@ Expect the 'severity' of Vaelra and others to melt into overwhelming (and perhap
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene with Vaelra and the Heralds now treating you with the reverence due to the last Solandis scion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 34/38 | Gold: 510gp | XP: 11875/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2713,8 +3044,11 @@ You find yourself blinking in the sudden light of their devotion. The urchin ins
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Care and Question Lineage - Allow the healers to tend to your wounds and quietly ask Vaelra why they believe you are the 'last of the line.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 11875/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2741,8 +3075,11 @@ Cons: Vaelra may try to shield you from the 'ugly' details, May reveal your inte
 
 and request better equipment and spell DC gear*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12025/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2765,8 +3102,11 @@ You gain **150 XP** for uncovering the tactical nature of the Unbound Architects
 > 👤 **Player:**
 > *"gear request again and frame it as a help request, for defense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12125/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2792,8 +3132,11 @@ then I want to be an adventurer in baldurs gate and eltugard. lets assume after 
 
 then a final arc to get to level 12 with higher cosmic stakes and a new villain, i dont like these current villains as much. maybe some forces of hell/abyss or canonical villains of the seraphrim/angels and let me lean into angel heritage an show for some rason i am stronger than most of my line etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12125/14000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2812,8 +3155,11 @@ actually lets do 3) after level 12 like level 13, i wanna do misc interesting vi
 
 once I get to level 20 brainstorm a way for me to do a quest ot bypass my level cap and I have divine potential etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | XP: 12125/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2**
@@ -2830,8 +3176,11 @@ Directives and Core Memories have been updated to ensure the AI maintains this s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene at the moment of the ward breach, moving toward a faster resolution of the Architect threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12325/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2858,8 +3207,11 @@ You gain **200 XP** for repelling the retrieval unit.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand All Data on the 'Master of Gears' - Use your proven value to demand Vaelra share everything the House knows about the scavenger Grizzel's lead. If you are the scion, you should know who the real Master is.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12475/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2**
@@ -2882,8 +3234,11 @@ You gain **150 XP** for identifying the Arch-Mechanic Malakor as the primary ant
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question the Messenger - Demand exact details on the 'siphoning.' Use your +4 Pathos to get the truth: are the Artificers being killed, or are their frequencies being indexed?*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Upper City - House Solandis Annex (Solar)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12525/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2**
@@ -2903,8 +3258,11 @@ You gain **50 XP** for extracting critical tactical data regarding Malakor's 'In
 > 👤 **Player:**
 > *"tactical transparency, counter solve pulse, board carriage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Upper City - High Road (In Transit)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12675/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2929,8 +3287,11 @@ You gain **150 XP** for successfully counter-solving the Architects' siphoning p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the 'Dissonance' Proofs - Use the 20-minute transit to deep-dive into the Master Engineer's Ledger. Try to find the specific 'error' Malakor is exploiting before you reach the Sanctum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Upper City - High Road (Ambush** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12700/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2956,8 +3317,11 @@ You gain **25 XP** for your intensive, if incomplete, analysis of the Ledger.
 > 👤 **Player:**
 > *"THINK:How to reduce DC force equation or just solving jt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Upper City - High Road (Armored Carriage)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12700/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 1/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2969,8 +3333,11 @@ You pause, the Master Engineer's Ledger trembling in your porcelain hands. The '
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sacrifice Frequency (Lvl 2 Spell Slot) - Burn your final 2nd-level spell slot to act as a 'firewall.' Brute-force the equation by letting the slot take the psychic backlash instead of your mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Upper City - High Road (Inside Armored Carriage)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12750/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 2/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2994,8 +3361,11 @@ You gain **50 XP** for discovering the recursive nature of Malakor's adversarial
 > 👤 **Player:**
 > *"Spirit guardian level 3 slot and spiritual weapon level 1 slot and join the battle and walk through enemies to dps them. Let’s assume I have a shield now and got some improved armor from my faction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 510gp | XP: 12750/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 1/2 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3033,8 +3403,11 @@ Ignoring the internal struggle, you kick open the carriage door and step onto th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Resonance Strike (Bonus Action) - Use your Seraphic Storm feature to make a melee attack with your Fine Steel Mace as a bonus action.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | AC: 18 | XP: 12750/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 1/2 | Radiant Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Exhaustion: 0 | Inspiration: No**
@@ -3054,8 +3427,11 @@ You stand your ground on the open road, the Heralds forming a protective semi-ci
 > 👤 **Player:**
 > *"walk through the enemies and use all my attacks and bonus attack on null shade"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | AC: 18 | XP: 12750/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 1/2 | Radiant Strike: 1/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Exhaustion: 0 | Inspiration: No**
@@ -3098,8 +3474,11 @@ The creature is reeling, its form flickering violently as it struggles to mainta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deliver the Final Proof - Close the distance and use your remaining movement to crush the glass core of Null-Shade 003 before it can phase out.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 36/38 | AC: 18 | XP: 13400/14000** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Exhaustion: 0 | Inspiration: No**
@@ -3146,8 +3525,11 @@ High Justiciar Vaelra (Lvl 10) cleaves through the violet smoke to stand beside 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify the Master Spike - Use your 18 Intelligence and High-Resonance to pinpoint the physical device causing the Dead Zone and attempt to 'solve' its shutdown sequence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 36/38 | AC: 18 | XP: 13400/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 1/2 | Radiant Strike: 1/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Frequency Feedback | Inspiration: No**
@@ -3167,8 +3549,11 @@ You stumble back against the cold steel of the carriage, your head throbbing. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recenter Resonance (Wisdom) - Stop thinking and start feeling. Close your eyes and use your Wisdom to find the calm center of the storm, attempting to purge the violet static from your mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 36/38 | AC: 18 | XP: 13400/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 1/2 | Radiant Strike: 1/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Frequency Feedback | Inspiration: No**
@@ -3192,8 +3577,11 @@ You look up. From the ornate stone balconies of the Upper City estates, three mo
 God Mode:
 stop all these mathematical descriptions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 36/38 | Gold: 510gp | XP: 13400/14000** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Frequency Feedback | Inspiration: No**
@@ -3203,8 +3591,11 @@ Understood. The 'mathematical' and 'geometric equation' flavoring for Nocturna's
 > 👤 **Player:**
 > *"THINK:how to resolve this encounter"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) | HP: 36/38 | AC: 18 | XP: 13400/14000** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Frequency Feedback | Inspiration: No**
@@ -3216,8 +3607,11 @@ Intelligence Check: 19 vs DC 15 — Success. You allow the violet static to wash
 > [!NOTE] ⚙️ **Player Choice:**
 > *Beacon of the Host (Synergistic) - Plead for Vaelra to shield you (+4 Pathos) while you move to the Spike. She draws the Binders' fire while you strike the device.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:21)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) (Lvl 6 available) | HP: 36/38 | AC: 18 | XP: 14150/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 1/2 | Radiant Strike: 1/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Inspiration: No**
@@ -3252,8 +3646,11 @@ You have achieved Level 6! Your celestial resonance deepens as you master the pa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to 6 - Deepen your connection to the Seraphic Storm and unlock Thunderbolt Strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:21)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Cleric (Seraphic Storm) (Lvl 6 available) | HP: 36/38 | AC: 18 | XP: 14150/14000** &nbsp;|&nbsp; ✨ **HD: 2/5 | Spells: L1 1/4, L2 0/3, L3 1/2 (Level 6 pending) | Radiant Strike: 1/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Inspiration: No**
@@ -3272,8 +3669,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:21)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Spirit Guardians Active | Inspiration: No**
@@ -3285,8 +3685,11 @@ With the Master Spike shattered, the Heralds' formation tightens with renewed pu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Spike Shards - Take a moment to collect and analyze the remains of the Master Spike using your 18 Intelligence to learn more about Architect tech.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:26)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3306,8 +3709,11 @@ You slip the vibrating shards into your pouch, the faint hum a reminder of the t
 > 👤 **Player:**
 > *"THINK:how can i interrogate shards and reduce DC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Upper City - High Road (Carriage Ambush)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:26)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3319,8 +3725,11 @@ Intelligence Check: 20 vs DC 13 — Success. You hold the obsidian fragments in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Data-Sweep (Synergistic) - Vaelra shields the area while you use the shards as a directional compass to lead the Heralds to the relay source.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Upper City - High Road (Ambush Site Aftermath)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:36)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3343,8 +3752,11 @@ The device goes dark, its internal data-core intact. You have not just found the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dash for the High House - Don't stop to talk. Signal the Heralds to move at a gallop to reach the safety of the High House's permanent wards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Upper City - High House of Wonders** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (14:51)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3366,8 +3778,11 @@ You step onto the cool stone, the 'hum' of the High House rising to meet your ow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Proceed to the Deep Sanctum - Follow Vaelra to begin the Aurelian Rite. Prove your lineage and unlock the Solandis noble regalia.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3395,8 +3810,11 @@ You stand before the smoking pedestal, your hand still tingling from the rejecti
 > 👤 **Player:**
 > *"THINK:how can i easily explain it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 18 | XP: 14150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3408,8 +3826,11 @@ Intelligence Check: 22 vs DC 8 — Success. You realize that your shyness is you
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Clumsy Apology (Pathos +4) - Look at the floor, wring your hands, and whisper that you 'hit it too hard' because you were scared. Let the +4 bonus carry the weight of his belief.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3431,8 +3852,11 @@ Habbakuk scurries back to the central pedestal, muttering about 'harmonic stress
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Sanctum Architecture - While Habbakuk is busy, use your Investigation to study the ancient Solandis murals in the Deep Sanctum. Look for clues about how your grandfather (G0) originally intended the Anchor to function.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3452,8 +3876,11 @@ You pull your hand back, the dust of the past clinging to your fingertips. The m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synchronized Audit (Compatible) - Vaelra documents the murals while you and Habbakuk finalize the Resonator's calibration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3479,8 +3906,11 @@ Vaelra steps forward, her hand moving to her hilt as she glares at the intruder.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Pathos: Plead with the Messenger - Use your Seraphic Pathos (+4) to explain that the city is in danger from Malakor. Ask him for help rather than fighting him.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3510,8 +3940,11 @@ High Artificer Habbakuk (Lvl 8) stands frozen by the smoking Resonator, his wren
 > 👤 **Player:**
 > *"THINK:how to best change his mind"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 18 | XP: 14150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3523,8 +3956,11 @@ Intelligence Check: 21 vs DC 12 — Success (Sharp). Your analytical mind dissec
 > 👤 **Player:**
 > *"THINK:The Liability Trap (Intelligence) - Show the messenger the captured relay. Explain that by freezing the Regalia, he is assuming personal legal liability for Malakor's next attack."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 18 | XP: 14150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3536,8 +3972,11 @@ Intelligence Check: 21 vs DC 12 — Success. You realize that your shyness is yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Liability Trap (Intelligence) - Show the messenger the captured relay. Explain that by freezing the Regalia, he is assuming personal legal liability for Malakor's next attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 18 | XP: 14150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3571,8 +4010,11 @@ High Artificer Habbakuk (Lvl 8) is already stepping forward, his goggles glintin
 > 👤 **Player:**
 > *"finalize waiver and equip regalia in paralle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 19 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3596,8 +4038,11 @@ You stand in the center of the sanctum, no longer the shivering urchin of the gu
 God Mode:
 The regalia should prob be stronger ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 20 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3618,8 +4063,11 @@ Understood. The Solandis Regalia has been upgraded to reflect its status as a hi
 God Mode:
 What’s the history of this regalia
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2**
@@ -3641,8 +4089,11 @@ The Regalia is 'Adaptive Artifact' tier. As you grow in power (Levels 12, 20, an
 God Mode:
 Sounds like it should be at least +3 equipment?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2**
@@ -3663,8 +4114,11 @@ Your presence now carries the weight of a divine storm, and the 'Equation' you r
 > 👤 **Player:**
 > *"THINK:How to handle the villain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000**
@@ -3676,8 +4130,11 @@ Intelligence Check: 16 vs DC 17 — Failed by 1 (Incomplete). Your mind races th
 God Mode:
 What’s the motivation and history of this villain
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Upper City - High House of Wonders (Deep Sanctum)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2**
@@ -3701,8 +4158,11 @@ Malakor has been monitoring your development since you were an urchin. He allowe
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Emergency Protocol (Social) - Use your 'Seraphic Pathos' (+4) to plead with the Fist guards at the door. Explain that Malakor is a common enemy and ask them to act as your escort to the Steelyard to protect the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Upper City - High House of Wonders (Bronze Doors)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Shy & Low Confidence (-2 Social / +4 Mercy) | Inspiration: No**
@@ -3736,8 +4196,11 @@ Kray’s halberd wavers. He looks at your face, then at the True Artifact armor 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Siege and Sabotage (Synergistic) - Broadcast a 'Static Flare' from the Rod to blind Malakor's sensors while Kray's squad simultaneously breaches the Steelyard's western wall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3765,8 +4228,11 @@ However, the massive discharge of your flare has acted as a lighthouse in the ps
 > [!NOTE] ⚙️ **Player Choice:**
 > *Blind and Bind (Synergistic) - Use Thaumaturgy to blind the Surveyor's secondary sensors while Kray's squad simultaneously uses their halberds to trip its multi-limbed chassis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:21)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3793,8 +4259,11 @@ The carriage's rear wheel drops into the azure-rimmed pit with a violent jolt th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Executional Overload - Don't free the carriage yet. Leap from the roof and deliver a 'Wrath of the Seraph' strike directly into the Surveyor's lens to destroy it before it can fire again.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:22)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3823,8 +4292,11 @@ Sergeant Kray (Lvl 4) and his squad surge forward, using the butt-ends of their 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Sinkhole (Intelligence) - Use the Rod to broadcast a 'Phase-Solid' frequency into the sinkhole to help the guards lift the wheel out faster.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:23)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3844,8 +4316,11 @@ Sergeant Kray (Lvl 4) and his squad heave against the carriage frame, their boot
 > 👤 **Player:**
 > *"THINK:use my normal int, try to find a lever"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:23)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000**
@@ -3857,8 +4332,11 @@ Intelligence Check: 20 vs DC 12 — Success (Sharp). Your mind, tuned to the int
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Fulcrum Strategy - Direct Kray's squad to use the Gondian crane arm as a lever. Use your Intelligence to guide their placement to the exact millimeter to bypass the psionic tension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:28)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3880,8 +4358,11 @@ The failure hasn't just cost you time; it has cost you your anonymity. The 'Reso
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Volley - Order Kray's squad to switch to crossbows while you use 'Radiant Strike' to stun the lead Binder, attempting to break their formation before they land.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:29)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 14600/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3920,8 +4401,11 @@ Nocturna: 45 → 42 HP (3 Psychic Feedback Damage).
 > 👤 **Player:**
 > *"Executional resonance and use my bonus action for extra attack or something g useful too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Lower City - The Steelyard Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 42/45 | AC: 21 | Gold: 510gp | XP: 15250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 3/4 | Resonance Strike: 3/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3956,8 +4440,11 @@ The second Binder's energy shroud is shredded, its form nearly transparent as it
 > 👤 **Player:**
 > *"Time skip and assume I use my best abilities without spell slots to win and then fix carriage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Lower City - The Steelyard (Laboratory Entrance)** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 42/45 | AC: 21 | Gold: 510gp | XP: 16150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2**
@@ -3989,8 +4476,11 @@ You gain 900 XP.
 > 👤 **Player:**
 > *"Time skip and assume I use my best abilities without spell slots to win and then fix carriage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Malakor's Laboratory - Primary Mainframe Hall** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (16:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 34/45 | AC: 21 | Gold: 510gp | XP: 17150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -4012,8 +4502,11 @@ You gain 1000 XP for breaching the laboratory and clearing the Mainframe Hall.
 > 👤 **Player:**
 > *"Let’s time skip and assume I preserve my spell slots and we just do whatever is intelligent and eventually get to the confrontation with the main villain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 29/45 | AC: 21 | Gold: 510gp | XP: 18150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -4040,8 +4533,11 @@ High Justiciar Vaelra and Sergeant Kray are pinned against the far wall by a shi
 > 👤 **Player:**
 > *"Let’s time skip and assume I preserve my spell slots and we just do whatever is intelligent and eventually get to the confrontation with the main villain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 27/45 | AC: 21 | Gold: 510gp | XP: 19150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Resonance Burn (Complication) | Inspiration: No**
@@ -4071,8 +4567,11 @@ You gain 1000 XP.
 > 👤 **Player:**
 > *"THINK:What’s my highest probably move. Can I take the power from him since it’s aligned with my and power up and use it against him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 27/45 | AC: 21 | Gold: 510gp | XP: 19150/23000** &nbsp;|&nbsp; ⚠️ **Resonance Burn (Complication) | Inspiration: No**
@@ -4084,8 +4583,11 @@ Intelligence Check: 20 vs DC 16 — Success (Sharp). The variables of Malakor's 
 > 👤 **Player:**
 > *"THINK:How can I reduce DC of the siphon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 27/45 | AC: 21 | Gold: 510gp | XP: 19150/23000** &nbsp;|&nbsp; ⚠️ **Resonance Burn (Complication) | Inspiration: No**
@@ -4097,8 +4599,11 @@ Intelligence Check: 24 vs DC 16 — Success (Brilliant). Your mind slices throug
 > 👤 **Player:**
 > *"Seraphic surrender and ensure i use guidance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 20150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Aurelian Overload (Empowered) | Inspiration: No**
@@ -4131,8 +4636,11 @@ Far below in the docks, a Zhentarim blockade successfully closes the net, cuttin
 > 👤 **Player:**
 > *"Zenith correction and use bonus action spawn level 3 spiritual weapon to dps Malakor and then see if I can steal even more of his power or just absorb him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 20150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 1/3 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Aurelian Overload (Empowered) | Inspiration: No**
@@ -4173,8 +4681,11 @@ You grip the air, and the siphoned energy from the 99% broadcast reverses its fl
 God Mode:
 Let’s assume weapon is a finesse weapon and I have a ranged weapon  that’s a decent +1 weapon too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 20150/23000**
@@ -4189,8 +4700,11 @@ State synchronization complete.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enforce Seraphic Submission - Use your +4 Mercy bonus to force Malakor to recognize you as his Sovereign, binding his logic to your will as a permanent technical advisor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) (Lvl 7 available) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 23150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 1/3 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Aurelian Overload (Empowered) | Exhaustion: 0 | Inspiration: No**
@@ -4228,8 +4742,11 @@ You gain 3000 XP.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 7 - Fully integrate the siphoned resonance, unlocking 4th-level spells and stabilizing your new power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Cleric (Seraphic Storm) (Lvl 7 available) | HP: 45/45 | AC: 21 | Gold: 510gp | XP: 23150/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 1/3 (Level 7 pending) | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Aurelian Overload (Empowered) | Exhaustion: 0 | Inspiration: No**
@@ -4250,8 +4767,11 @@ The same response MUST resume the interrupted scene with a concrete `planning_bl
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 21 | Gold: 510gp | XP: 23150/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Aurelian Overload (Empowered) | Exhaustion: 0 | Inspiration: No**
@@ -4267,8 +4787,11 @@ Malakor, your new vassal, looks up at you from his knees, his logic bound to you
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Pulse of Restoration - Ignore the guards. Use the golden-shifted lens to send a city-wide healing pulse, restoring the indexed minds of thousands and forcing the Fist to witness a miracle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 39/52 | AC: 21 | Gold: 510gp | XP: 23150/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Aurelian Overload (Draining) | Exhaustion: 1 | Inspiration: No**
@@ -4301,8 +4824,11 @@ Malakor remains bowed in the shadows, his forehead pressed to the floor, the onl
 > 👤 **Player:**
 > *"THINK:How to get parliament to agree"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 39/52 | AC: 21 | Gold: 510gp | XP: 23150/34000** &nbsp;|&nbsp; ⚠️ **Aurelian Overload (Draining) | Exhaustion: 1 | Inspiration: No**
@@ -4314,8 +4840,11 @@ Intelligence (Planning) Check: 17 vs DC 18 — Failed by 1 (Incomplete). You pau
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Seraphic Pathos (+4 Bonus) - Plead for the 'Mercy of the City,' using your exhaustion and beauty to make an arrest look like an atrocity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 39/52 | AC: 21 | Gold: 510gp | XP: 23250/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage) | Saviour of the Lower City | Inspiration: No**
@@ -4346,8 +4875,11 @@ The Sanctuary of the moment remains, preventing immediate bloodshed, but the pol
 > 👤 **Player:**
 > *"THINK:How do I get out of thjst"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Malakor's Inner Sanctum - The Resonance Throne** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 39/52 | AC: 21 | Gold: 510gp | XP: 23250/34000** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Saviour of the Lower City | Inspiration: No**
@@ -4359,8 +4891,11 @@ Intelligence Check: 17 vs DC 14 — Success. Your mind, though heavy with the we
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command the Honor Guard - Address the soldiers directly, ignoring the Legalist. Use your 'Saviour' status and Seraphic Pathos to command them to escort the city's healer to safety, framing the Parliament's order as a betrayal of the people.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Steelyard Depths - Mainframe Hall** &nbsp;|&nbsp; ⏳ **Eleasias 2, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 39/52 | AC: 21 | Gold: 510gp | XP: 23250/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1 | Radiant Strike: 2/4 | Resonance Strike: 2/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Saviour of the Lower City | Sanctuary Active**
@@ -4391,8 +4926,11 @@ As the phalanx marches you out of the Steelyard, you catch a glimpse of the sky 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to the Annex and Rest - Utilize the Fist escort to reach the Solandis Annex safely and complete a Long Rest to clear your Exhaustion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Upper City - House Solandis Annex** &nbsp;|&nbsp; ⏳ **Eleasias 3, 1492 DR (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 21 | Gold: 510gp | XP: 23250/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Saviour of the Lower City | Sanctuary Active | Inspiration: No**
@@ -4408,8 +4946,11 @@ A light tap comes at your door, and Vaelra's voice carries through, unusually so
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Crowds - Step onto the Annex balcony and show yourself to the citizens, cementing your 'Saviour' reputation and making a Parliament arrest politically impossible.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Upper City - House Solandis Annex** &nbsp;|&nbsp; ⏳ **Eleasias 3, 1492 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 21 | Gold: 510gp | XP: 24350/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Saviour of the Lower City | Sanctuary Active | Inspiration: No**
@@ -4442,8 +4983,11 @@ You gain 1,100 XP for this social victory.
 > 👤 **Player:**
 > *"I am bored. lets just time skip a few weeks, assume i successfully resole this, and then narrate a scene where we go back to elturgard capital and we talk about our successes and next steps and i propose i need to see the world as an adventueror. i permanenlty become a noble as well and get income from my holdings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Elturgard Capital - Elturel (Solandis Estate)** &nbsp;|&nbsp; ⏳ **Eleasias 24, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 21 | Gold: 854gp | XP: 26350/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4** &nbsp;|&nbsp; ⚠️ **Noble Status | Saviour of the Lower City | Sanctuary Active**
@@ -4467,8 +5011,11 @@ You gain 2,000 XP for the masterful resolution of the Baldur's Gate crisis and 3
 > 👤 **Player:**
 > *"explain that i will travel incognito and only use my noble name if truly needed, i will dress like a middle class commoner but lets asume i take 10k g and get solid +3 legendary gear in every slot from our noble armory and ask my staff/council to recruit a noble retinue. 10 gloomstalker/assassin type scouts and 3 named companions of various copmlementary classes. time skip a few days and roll for outcomes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Elturgard Outskirts - The North Road** &nbsp;|&nbsp; ⏳ **Eleasias 27, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 24 | Gold: 10,854gp | XP: 26350/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4** &nbsp;|&nbsp; ⚠️ **Noble Status (Incognito) | Saviour of the Lower City | Sanctuary Active**
@@ -4490,8 +5037,11 @@ As the sun rises over the Elturgard outskirts, you look back at the white walls 
 > 👤 **Player:**
 > *"give detailed personalities and background sto my companions and then lets narrate a goodbye dinner scene with the other nobles/elites of elturel and see how they react to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Elturel - House Solandis Estate** &nbsp;|&nbsp; ⏳ **Eleasias 27, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 29 | Gold: 10,854gp | XP: 26350/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4** &nbsp;|&nbsp; ⚠️ **Noble Status | Saviour of the Lower City | Sanctuary Active**
@@ -4522,8 +5072,11 @@ Morvayn’s jaw tightens. He looks at Caelia and Halden, seeing the way they hav
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Chancellor's Terms - Formally accept the 'Equation' of the journey, securing Elturgard's long-term support and your noble income.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Elturgard Outskirts - The North Road** &nbsp;|&nbsp; ⏳ **Eleasias 28, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 29 | Gold: 10,854gp | XP: 27450/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4 | Holdings: 100gp/week** &nbsp;|&nbsp; ⚠️ **Noble Status | Saviour of the Lower City | Sanctuary Active**
@@ -4556,8 +5109,11 @@ Ten **Aurelian Stalkers** have already vanished into the treeline ahead, their G
 > 👤 **Player:**
 > *"checkin incogitno with the main eluturel adventurers guild, register as level 7, check mission board"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Elturel - Adventurers Guild Hall** &nbsp;|&nbsp; ⏳ **Eleasias 28, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 29 | Gold: 10,854gp | XP: 27650/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4 | Holdings: 100gp/week** &nbsp;|&nbsp; ⚠️ **Noble Status (Incognito) | Saviour of the Lower City | Sanctuary Active**
@@ -4593,8 +5149,11 @@ You turn toward the mission board, trying to ignore the weight of his gaze. The 
 > 👤 **Player:**
 > *"lets time skip a few weeks and i do simple quests to build myself up, ggive me sanctuary for a few months i dont want random antagnonistic events"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Elturgard Frontier - Camp Solandis** &nbsp;|&nbsp; ⏳ **Eleasias 28, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 29 | Gold: 13,087gp | XP: 30332/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4 | Holdings: 100gp/week** &nbsp;|&nbsp; ⚠️ **Noble Status (Incognito) | Saviour of the Lower City | Sanctuary Active (Epic)**
@@ -4616,8 +5175,11 @@ You gain 2,682 XP and 2,233gp from your weeks of successful frontier work. A sen
 > 👤 **Player:**
 > *"make a regional outpost and ask adventurers guild to upgrade my rank, they shoudl be impressed and somehwat wiling and they wont relase im really level 7 but should realize i am stronger than lee l1"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Elturgard Frontier - Solandis Outpost Alpha** &nbsp;|&nbsp; ⏳ **Eleint 29, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 29 | Gold: 10,587gp | XP: 31132/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4 | Holdings: 100gp/week** &nbsp;|&nbsp; ⚠️ **Noble Status (Incognito) | Sanctuary Active (Epic) | Guild Rank: Veteran (Lvl 4)**
@@ -4646,8 +5208,11 @@ You gain 800 XP for the masterful guild negotiation and the successful establish
 God Mode:
 whats my noble income and soldiers,spies, elites for my noble estate and whats my noble rank? ltes assume theres ranks like knight,baron,count,marquis,duke,archduke,king
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Elturgard Frontier - Solandis Outpost Alpha** &nbsp;|&nbsp; ⏳ **Eleint 29, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | XP: 31132/34000** &nbsp;|&nbsp; ✨ **Weekly Holding Income: 100/100 | HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Channel Divinity: 2/2 | Resonance Strike: 4/4**
@@ -4666,8 +5231,11 @@ You have 0 soldiers, 10 spies, 3 elites, and a weekly income of 100gp. Your curr
 > 👤 **Player:**
 > *"the adventuerer ranks should be like bronze, silver ,... platinum etc. maybe S rank is platinum and SSS diamond etc? letes narrate my metal rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Elturgard Frontier - Solandis Outpost Alpha** &nbsp;|&nbsp; ⏳ **Eleint 29, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cleric (Seraphic Storm) | HP: 52/52 | AC: 29 | Gold: 10,587gp | XP: 31132/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Radiant Strike: 4/4 | Resonance Strike: 4/4 | Holdings: 100gp/week** &nbsp;|&nbsp; ⚠️ **Noble Status (Incognito) | Sanctuary Active (Epic) | Rank: Platinum (S-Rank)**
@@ -4693,6 +5261,8 @@ Though your true power remains Mithral-tier, the **Platinum S-Rank** badge provi
 [LIVING WORLD ADVANCEMENT: Turn 126]
 
 As you pin the platinum disc to your commoner's cloak, Thalessa approaches with a report from the perimeter. The world outside your 'Epic Sanctuary' is shifting. The Zhentarim signal you sensed in the Guild Hall failed to reach its mark—Vesper's psionic static was a perfect correction—but in the High Hall, the Parliament has successfully drafted the 'Sanctity of Research' act. The legal net is tightening, even as you prepare to vanish into the High Moor.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,77 +12,93 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (56 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Setting: I wanna play a character who’s strong or special like one of those iseki reborn anime characters but not too OP. Can make me 16 and a level 6
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown |  | Roleplay |
-| **02** | Character Creation Realm | Hammer 1, 1492 DR (00:00) | Roleplay |
-| **03** | Unknown |  | Roleplay |
-| **04** | Character Creation Realm |  | Roleplay |
-| **05** | Character Creation Realm | Unknown | Roleplay |
-| **06** | Unknown | , DR (00:00) | Roleplay |
-| **07** | Character Creation Realm | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **08** | Character Creation Realm | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **09** | Unknown |  | Roleplay |
-| **10** | Kingdom of Solis - House Vane Estate | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **11** | Kingdom of Solis - Vane Estate | Mirtul 15, 1492 DR (08:00) | Roleplay |
-| **12** | Kingdom of Solis - Vane Estate | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **13** | Kingdom of Solis - Vane Estate | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **14** | Kingdom of Solis - House Vane | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **15** | Unknown |  | Roleplay |
-| **16** | Vane Manor Training Yard | Mirtul 15, 1492 DR (08:00) | Roleplay |
-| **17** | Vane Estate | Mirtul 15, 1492 DR (08:00) | Roleplay |
-| **18** | Vane Manor - The Solar | 1492 Mirtul 15, 08:15:00 | Roleplay |
-| **19** | Unknown | , DR (08:15) | Roleplay |
-| **20** | Vane Estate Solar | Mirtul 15, 1492 DR (08:20) | Roleplay |
-| **21** | Vane Estate Solar | Mirtul 15, 1492 DR (08:20) | Roleplay |
-| **22** | Vane Estate Solar | Mirtul 15, 1492 DR (08:25) | Roleplay |
-| **23** | Vane Estate Solar | Mirtul 15, 1492 DR (08:30) | Roleplay |
-| **24** | Vane Estate - East Gallery | Mirtul 15, 1492 DR (08:45) | Roleplay |
-| **25** | Vane Estate - East Gallery | Mirtul 15, 1492 DR (08:45) | Roleplay |
-| **26** | Vane Estate - East Gallery | Mirtul 15, 1492 DR (08:55) | Roleplay |
-| **27** | Vane Estate - Archive Corridor | Mirtul 15, 1492 DR (09:05) | Roleplay |
-| **28** | Vane Estate - Archive Corridor | Mirtul 15, 1492 DR (09:05) | Roleplay |
-| **29** | Vane Estate - Archive Corridor | Mirtul 15, 1492 DR (09:10) | Roleplay |
-| **30** | Vane Estate - Archive | Mirtul 15, 1492 DR (09:15) | Roleplay |
-| **31** | Vane Estate - Archive | Mirtul 15, 1492 DR (09:30) | Roleplay |
-| **32** | Vane Estate - Archive | Mirtul 15, 1492 DR (09:50) | Roleplay |
-| **33** | Vane Estate - Archive | Mirtul 15, 1492 DR (10:15) | Roleplay |
-| **34** | Vane Estate - Archive | Mirtul 15, 1492 DR (10:20) | Roleplay |
-| **35** | Estate Gardens | Mirtul 15, 1492 DR (10:35) | Roleplay |
-| **36** | Estate Gardens | Mirtul 15, 1492 DR (10:40) | Roleplay |
-| **37** | Estate Gardens | Mirtul 15, 1492 DR (10:45) | Roleplay |
-| **38** | Estate Gardens | Mirtul 15, 1492 DR (10:55) | Roleplay |
-| **39** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **40** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **41** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:05) | Roleplay |
-| **42** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:05) | Roleplay |
-| **43** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:15) | Roleplay |
-| **44** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:20) | Roleplay |
-| **45** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:25) | Roleplay |
-| **46** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:35) | Roleplay |
-| **47** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:45) | Roleplay |
-| **48** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:50) | Roleplay |
-| **49** | Unknown |  | Skill Check / Combat |
-| **50** | Vane Manor - Great Hall | Mirtul 15, 1492 DR (13:10) | Roleplay |
-| **51** | Vane Manor - East Wing Library | Mirtul 15, 1492 DR (15:30) | Roleplay |
-| **52** | Old Chapel Ruins | Mirtul 15, 1492 DR (19:30) | Roleplay |
-| **53** | Old Chapel Ruins | Mirtul 15, 1492 DR (19:35) | Roleplay |
-| **54** | Old Chapel Ruins | Mirtul 15, 1492 DR (19:45) | Roleplay |
-| **55** | Old Chapel Ruins - White Vault Entrance | Mirtul 15, 1492 DR (20:00) | Skill Check / Combat |
-| **56** | White Vault - Entry Stairs | Mirtul 15, 1492 DR (20:05) | Skill Check / Combat |
+| [**Scene 01**](#scene-1) | Unknown |  | Roleplay |
+| [**Scene 02**](#scene-2) | Character Creation Realm | Hammer 1, 1492 DR (00:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Unknown |  | Roleplay |
+| [**Scene 04**](#scene-4) | Character Creation Realm |  | Roleplay |
+| [**Scene 05**](#scene-5) | Character Creation Realm | Unknown | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown | , DR (00:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Character Creation Realm | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 08**](#scene-8) | Character Creation Realm | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Unknown |  | Roleplay |
+| [**Scene 10**](#scene-10) | Kingdom of Solis - House Vane Estate | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Kingdom of Solis - Vane Estate | Mirtul 15, 1492 DR (08:00) | Roleplay |
+| [**Scene 12**](#scene-12) | Kingdom of Solis - Vane Estate | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Kingdom of Solis - Vane Estate | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Kingdom of Solis - House Vane | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 15**](#scene-15) | Unknown |  | Roleplay |
+| [**Scene 16**](#scene-16) | Vane Manor Training Yard | Mirtul 15, 1492 DR (08:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Vane Estate | Mirtul 15, 1492 DR (08:00) | Roleplay |
+| [**Scene 18**](#scene-18) | Vane Manor - The Solar | 1492 Mirtul 15, 08:15:00 | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown | , DR (08:15) | Roleplay |
+| [**Scene 20**](#scene-20) | Vane Estate Solar | Mirtul 15, 1492 DR (08:20) | Roleplay |
+| [**Scene 21**](#scene-21) | Vane Estate Solar | Mirtul 15, 1492 DR (08:20) | Roleplay |
+| [**Scene 22**](#scene-22) | Vane Estate Solar | Mirtul 15, 1492 DR (08:25) | Roleplay |
+| [**Scene 23**](#scene-23) | Vane Estate Solar | Mirtul 15, 1492 DR (08:30) | Roleplay |
+| [**Scene 24**](#scene-24) | Vane Estate - East Gallery | Mirtul 15, 1492 DR (08:45) | Roleplay |
+| [**Scene 25**](#scene-25) | Vane Estate - East Gallery | Mirtul 15, 1492 DR (08:45) | Roleplay |
+| [**Scene 26**](#scene-26) | Vane Estate - East Gallery | Mirtul 15, 1492 DR (08:55) | Roleplay |
+| [**Scene 27**](#scene-27) | Vane Estate - Archive Corridor | Mirtul 15, 1492 DR (09:05) | Roleplay |
+| [**Scene 28**](#scene-28) | Vane Estate - Archive Corridor | Mirtul 15, 1492 DR (09:05) | Roleplay |
+| [**Scene 29**](#scene-29) | Vane Estate - Archive Corridor | Mirtul 15, 1492 DR (09:10) | Roleplay |
+| [**Scene 30**](#scene-30) | Vane Estate - Archive | Mirtul 15, 1492 DR (09:15) | Roleplay |
+| [**Scene 31**](#scene-31) | Vane Estate - Archive | Mirtul 15, 1492 DR (09:30) | Roleplay |
+| [**Scene 32**](#scene-32) | Vane Estate - Archive | Mirtul 15, 1492 DR (09:50) | Roleplay |
+| [**Scene 33**](#scene-33) | Vane Estate - Archive | Mirtul 15, 1492 DR (10:15) | Roleplay |
+| [**Scene 34**](#scene-34) | Vane Estate - Archive | Mirtul 15, 1492 DR (10:20) | Roleplay |
+| [**Scene 35**](#scene-35) | Estate Gardens | Mirtul 15, 1492 DR (10:35) | Roleplay |
+| [**Scene 36**](#scene-36) | Estate Gardens | Mirtul 15, 1492 DR (10:40) | Roleplay |
+| [**Scene 37**](#scene-37) | Estate Gardens | Mirtul 15, 1492 DR (10:45) | Roleplay |
+| [**Scene 38**](#scene-38) | Estate Gardens | Mirtul 15, 1492 DR (10:55) | Roleplay |
+| [**Scene 39**](#scene-39) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 40**](#scene-40) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 41**](#scene-41) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| [**Scene 42**](#scene-42) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| [**Scene 43**](#scene-43) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:15) | Roleplay |
+| [**Scene 44**](#scene-44) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:20) | Roleplay |
+| [**Scene 45**](#scene-45) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:25) | Roleplay |
+| [**Scene 46**](#scene-46) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:35) | Roleplay |
+| [**Scene 47**](#scene-47) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:45) | Roleplay |
+| [**Scene 48**](#scene-48) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (12:50) | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Skill Check / Combat |
+| [**Scene 50**](#scene-50) | Vane Manor - Great Hall | Mirtul 15, 1492 DR (13:10) | Roleplay |
+| [**Scene 51**](#scene-51) | Vane Manor - East Wing Library | Mirtul 15, 1492 DR (15:30) | Roleplay |
+| [**Scene 52**](#scene-52) | Old Chapel Ruins | Mirtul 15, 1492 DR (19:30) | Roleplay |
+| [**Scene 53**](#scene-53) | Old Chapel Ruins | Mirtul 15, 1492 DR (19:35) | Roleplay |
+| [**Scene 54**](#scene-54) | Old Chapel Ruins | Mirtul 15, 1492 DR (19:45) | Roleplay |
+| [**Scene 55**](#scene-55) | Old Chapel Ruins - White Vault Entrance | Mirtul 15, 1492 DR (20:00) | Skill Check / Combat |
+| [**Scene 56**](#scene-56) | White Vault - Entry Stairs | Mirtul 15, 1492 DR (20:05) | Skill Check / Combat |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 
@@ -92,8 +108,11 @@ Setting: I wanna play a character who’s strong or special like one of those is
 > 👤 **Player:**
 > *"Listen to my prompt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Character Creation Realm** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 | HP: --/-- | Gold: -- | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: --/6 | Spells: --**
@@ -120,8 +139,11 @@ How would you like to proceed with building your character?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: [AIGenerated] - Let the AI craft a balanced 'Reborn' character with unique traits and optimized Level 6 stats based on your prompt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 🛡️ **Lvl 6 Sorcerer | HP: 38/38 | Gold: 600gp | XP: 14000/23000**
@@ -152,8 +174,11 @@ Does this character meet your approval, or would you like to make any adjustment
 > 👤 **Player:**
 > *"Let’s make me a reincarnation of a great demon lord. However make me grey rather black and white evil morally. Let’s assume I killed half the worlds population but I had a good reason and I was level 25 but a band of heroes finally defeated me but I only lost because my child’s life was in danger during battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Character Creation Realm** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer | HP: 38/38 | Gold: 600gp | XP: 14000/23000**
@@ -187,8 +212,11 @@ Does this darker, more complex origin satisfy your vision for Renjiro, or shall 
 > 👤 **Player:**
 > *"Let’s give me some progression in adventuerrr ranks and noble ranks like I start as a squire then knight baron etc all the way to duke or king"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Character Creation Realm** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer | HP: 38/38 | Gold: 600gp | XP: 14000/23000**
@@ -216,8 +244,11 @@ Your goal is clear: climb these ladders of power to reclaim the influence you on
 > 👤 **Player:**
 > *"Make  a SSS rank adventurer and let’s customize my class some more. I wanna be like a bladesinger but a sorceror and I want some special abilities because I used to be a level 25 demon king. Maybe advantage on all combat rolls?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer (Sovereign Blade) | HP: 38/38 | XP: 14000/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -253,8 +284,11 @@ Does this Sovereign Blade evolution and your new SSS-Rank status align with your
 > 👤 **Player:**
 > *"No I mean make sss rank exist but start me at F rann"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Character Creation Realm** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer | HP: 38/38 | Gold: 600gp | XP: 14000/23000**
@@ -291,8 +325,11 @@ Are you ready to awaken in your new body and begin the climb back to your former
 > 👤 **Player:**
 > *"I think bladesong longer than one minute? Also make me extremely good looking"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Character Creation Realm** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer | HP: 38/38 | Gold: 600gp | XP: 14000/23000**
@@ -326,8 +363,11 @@ Does this perfected version of Renjiro meet your approval, or are there any fina
 > 👤 **Player:**
 > *"Let’s assume I am not a squire yet and I am just an apprentice and need for be accepted a saomeines squire but I am a noble even if 5th son. Flesh out my parents and siblings make them morally grey like game thrones style and flesh out kingdom and faction s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 🛡️ **Level 6 Sorcerer (Sovereign Blade) | HP: 38/38 | Gold: 600gp | XP: 14000/23000**
@@ -362,8 +402,11 @@ Does this Game of Thrones-style family dynamic and your new starting position as
 > 👤 **Player:**
 > *"How rare is a 16 year old level 6? Let’s assume I don’t even realize how rare I am and we use d&d standards for level rarity. Since I am a noble give me reasonable starting weapon like rapier and stealth friendly light armor and ranged weapon"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Kingdom of Solis - House Vane Estate** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Blade | HP: 38/38 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sorcery Points: 6/6 | Exhaustion: 0**
@@ -398,8 +441,11 @@ Does this finalized loadout and the realization of your 'hidden' genius satisfy 
 > 👤 **Player:**
 > *"Give me proper ability points probably 18 cha 16 dex spread out the rest even numbers and remember to give me all the spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Kingdom of Solis - Vane Estate** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sorcerer | HP: 38/38 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sorcery Points: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -435,8 +481,11 @@ Does this optimized version of Renjiro meet your approval, or shall we begin you
 > 👤 **Player:**
 > *"Actually let’s make me a demon based cleric and cha based with bladesinger elements. My god can be my old self. Once I hit level 25 I become a gestalt class with all my old abilities and consider giving me and others mythic powers like pathfinder and make me a pathfinder type cleric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Kingdom of Solis - Vane Estate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 2/2 | Mythic Power: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -478,8 +527,11 @@ Are you ready to step into the Kingdom of Solis and begin the long climb back to
 > 👤 **Player:**
 > *"Am I too OP? Let’s ensure some special allies and opponents have mythic powers too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Kingdom of Solis - Vane Estate** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Power: 3/3 | HD: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -502,8 +554,11 @@ Does this balance of power and the presence of Mythic rivals meet your approval?
 > 👤 **Player:**
 > *"I mean my class itself. Show me the progression up to level 30 and show me the gestalt I get level 25. It only needs to be balanced up to level 20. Let’s assume to get past level 12 and past level 20 I need to do special quests versus exp normal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Kingdom of Solis - House Vane** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000**
@@ -544,8 +599,11 @@ Does this roadmap to Level 30 and the Level 25 Gestalt mechanics satisfy your vi
 > 👤 **Player:**
 > *"Make sure I get all the base cleric abilities. Is the clsss too OP? Compare it to other ideal d&d builds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 🛡️ **Level 6 Sovereign Apostle | CHA: 18 | AC: 15 (19 in Trance) | Mythic Tier 1 | XP: 14000/23000** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 3/3 | Channel Divinity: 2/2 | Mythic Surge: 3/3**
@@ -575,8 +633,11 @@ Are you ready to begin your ascension in the Kingdom of Solis?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Vane Manor Training Yard** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Channel Divinity: 2/2, Mythic Surge: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -592,8 +653,11 @@ Your sovereign instincts prickle. Lord Hektor is a powerful man, but your gaze d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Vane Estate, Kingdom of Solis** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 2/2 | Mythic Surge: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -607,8 +671,11 @@ A sharp rap at the door interrupts your thoughts. "Renjiro!" the voice of a serv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Adopt a Humble Guise - Attend the meeting as the dutiful, quiet fifth son, hiding your true competence to observe your family's motives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Vane Manor - The Solar** &nbsp;|&nbsp; ⏳ **1492 Mirtul 15, 08:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -626,8 +693,11 @@ You watch them, your eyes hooded. You feel the ripples of their intent, but the 
 God Mode:
 Future plot arc where I meet my child again from when I was a demon lord. She’s now level 20 and will be primary antagonist for an arc. Let’s sssume my parents were squires of the hero party that killed me and the hero party died. It was 20 years ago. Also make my parents generally good but ruthless. Even when they were squires they were strong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | XP: 14000/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -643,8 +713,11 @@ These facts have been persisted to Core Memories and Directives to ensure narrat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deflect with False Humility - Comment that Gideon's glory is so great that any squire would look like a child in comparison, using flattery to distract them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Vane Estate Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 2/2 | Mythic Surge: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -662,8 +735,11 @@ Lord Cyprian does not join in the laughter. Instead, he leans forward, his gaze 
 God Mode:
 Let’s give this light harem elements
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Vane Estate Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000**
@@ -681,8 +757,11 @@ Directive added: 'Incorporate light harem elements through recurring NPCs with r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about Hektor - Ask specifically what Lord Hektor is looking for, shifting the conversation to the selection criteria rather than your own perceived weakness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Vane Estate Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Mythic Surge: 3/3, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -700,8 +779,11 @@ Before you can press further, the heavy doors of the solar are thrown open. A me
 > 👤 **Player:**
 > *"Volunteer to help battle under gideons guidance. Say might as well learn at some ppont"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Vane Estate Solar** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 2/2 | Mythic Surge: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -729,8 +811,11 @@ He turns back to the messenger, his eyes cold and focused. "Tell House Gneiss we
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Lysandra - Seek out your sister Lysandra (Lvl 7). If anyone knows the true political motive behind Hektor's visit or the Circle's sudden Purge, it is her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Vane Estate - East Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **Spell Slots: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 2/2 | Mythic Power: 3/3 | Hit Dice: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -748,8 +833,11 @@ Lysandra finally turns, her gaze searching your face with a predatory curiosity.
 God Mode:
 Doesn’t our system instructions say to stop this signature stuff?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Vane Estate - East Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000**
@@ -768,8 +856,11 @@ Your presence remains hidden, but the threat is now one of investigation and pol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Lysandra in the East Gallery with the retconned lore in place.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Vane Estate - East Gallery** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 3/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -785,8 +876,11 @@ A distant horn blast echoes through the gallery—a low, mournful sound that sig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Records Room - Attempt to slip into the manor's archive to see exactly what the house records say about your 'rebirth' after the fever.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Vane Estate - Archive Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Channel Divinity: 2/2, Mythic Surge: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -804,8 +898,11 @@ Elowen doesn't move to draw her blade, but she doesn't relax either. There is a 
 God Mode:
 Change this auditor thing it’s dumb. New plot arc let’s make the auditor not threatening to me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Vane Estate - Archive Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | XP: 14000/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -822,8 +919,11 @@ I have updated the background events, core memories, faction objectives, and dir
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the encounter with Captain Elowen under the new non-threatening lore.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Vane Estate - Archive Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | XP: 14000/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -837,8 +937,11 @@ She doesn't move from the door, but her stance is less an accusation and more a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Persuade via Professionalism (CHA) - Explain that you wish to review your own academic records to ensure you don't embarrass the House during Hektor's 'substance' check.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Vane Estate - Archive** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14800/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Channel Divinity: 2/2, Mythic Surge: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -866,8 +969,11 @@ She turns the heavy iron key in the lock and the massive oak doors groan open, r
 > 👤 **Player:**
 > *"Since no one is auditing me just look for any useful info"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Vane Estate - Archive** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 14950/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 2/2 | Mythic Power: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -883,8 +989,11 @@ You gain 150 XP for uncovering these fragments of your hidden history.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Hero Party Archives - Look for the specific mission reports of the hero party that defeated your past self twenty years ago, searching for mentions of Cyprian and Morgana's roles.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Vane Estate - Archive** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 15150/23000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3 | Channel Divinity: 2/2 | Mythic Surge: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -898,8 +1007,11 @@ Your sovereign instincts hum with frustration. A History check (Total 11 vs DC 2
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Bastian's Notes - Instead of the official records, look for your brother Bastian's personal research or pilfered notes which might contain the 'forbidden' info he's known to hoard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Vane Estate - Archive** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | XP: 15150/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -927,8 +1039,11 @@ Renjiro attempted to search Bastian's hidden notes but failed to bypass the DC 1
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Kira as an Ally - Admit you're searching for the truth about the Hero Party and suggest that two 'competent' aspirants are better than one house full of liars.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Vane Estate - Archive** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 15300/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 3/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -946,8 +1061,11 @@ You gain 150 XP for successfully recruiting Kira as an ally.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find Tyrus in the Gardens - Follow Kira's lead to locate the old gardener and question him about the heroes' return twenty years ago.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Estate Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 15500/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 3/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -976,8 +1094,11 @@ You gain **200 XP** for navigating the estate security and securing a primary wi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Kira's Reaction - Turn to Kira to see how she processes this information—her reaction might reveal her own connection to the Demon Lord's fall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Estate Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 15500/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 3/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -993,8 +1114,11 @@ Tyrus (Lvl 2) bows his head, his gnarled fingers digging into the damp soil. "No
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Kira on the Legend - Ask Kira exactly what the 'Laughing Queen' rhymes say about the child's fate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Estate Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | XP: 15500/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -1023,8 +1147,11 @@ Mythic Surge: 1d6 = 2 (Total 11 - Failure)[DEBUG_ROLL_END]
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about the 'White Vault' - Ask Tyrus if he knows where or what the 'White Vault' is within the estate grounds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Estate Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 15650/23000**
@@ -1052,8 +1179,11 @@ Renjiro successfully extracted the location of the 'White Vault' from Tyrus. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attend the Feast and Scout Later - Play the role of the dutiful son at the midday meal to lower suspicion, then move under the cover of night.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 16500/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Mythic Surge: 2/3, Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1074,8 +1204,11 @@ Lord Hektor has called for a 'demonstration of spirit.' He places a hand on the 
 God Mode:
 Let’s assume in the past I was morally grey but leaned toward evil and now morally grey again but lean toward good. I especially regret killing children in my past life and will refuse to let any die or be sacrificed even for greater good etc. anyone under age 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | XP: 16500/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -1092,8 +1225,11 @@ These updates have been persisted to your character data, core memories, and act
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Calculated Will - Project the disciplined, sharp mind of a scholar, resisting the probe with mental focus rather than raw power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 17300/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 2/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1111,8 +1247,11 @@ Lord Cyprian (Lvl 12) looks between you and Hektor, his cold eyes narrowing as h
 God Mode:
 Let’s make my old title demon king. The demon race is ruthless but also morally grey.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 17300/23000**
@@ -1127,8 +1266,11 @@ Administrative architecture updated. Your past title has been solidified as the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attribute Success to Discipline - Modestly explain that the archives require a patient mind, reinforcing your 'useful scholar' guise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | XP: 19100/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3**
@@ -1144,8 +1286,11 @@ Lord Cyprian (Lvl 12) remains silent, but the clinical detachment in his gaze ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Covenant's Gift - Watch closely as Lord Hektor fully reveals the contents of the cold-iron chest, looking for any clues about its true origin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19100/23000**
@@ -1159,8 +1304,11 @@ Beside you, Kira (Lvl 5) leans in, her voice a barely audible whisper over the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Kira for a Private Meeting - Use a subtle gesture to indicate you wish to meet Kira at the Old Chapel after the feast concludes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle (Cleric) | HP: 45/45 | Gold: 600gp | XP: 19200/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 2/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1176,8 +1324,11 @@ You gain 100 XP for the successful clandestine coordination.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Engage Lysandra - Try to draw more information from Lysandra about the 'Laughing Queen' before the courtiers disperse, leveraging the feast's noise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19200/23000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 2/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1197,8 +1348,11 @@ The conversation is effectively severed. Lysandra returns to her meal with a col
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Gideon and Hektor - Shift your focus to the high table, carefully analyzing the rapport between your brother and the Grand Knight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19200/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 2/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1212,8 +1366,11 @@ To your sovereign eyes, the rapport appears seamless—perhaps too seamless. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Reconnect with Kira - Catch Kira's eye again to ensure she's still committed to the Old Chapel meeting despite her earlier terror.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19250/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 2/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1227,8 +1384,11 @@ The pact is re-anchored. Despite the terror of the White Vault, she will be at t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Reconnect with Kira - Catch Kira's eye again to ensure she's still committed to the Old Chapel meeting despite her earlier terror.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -1244,8 +1404,11 @@ Beside you, the magnetic pull of your peerless beauty seems to bounce off her li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Kira After the Feast - Find a moment when the courtiers are dispersing to speak with her directly, using your sovereign presence to anchor her resolve.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Vane Manor - Great Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19200/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 1/3 | Channel Divinity: 2/2 | SP: N/A** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1265,8 +1428,11 @@ She slips past you into the corridor, her stride regained. You have anchored her
 > 👤 **Player:**
 > *"Time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Vane Manor - East Wing Library** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19200/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 2/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1280,8 +1446,11 @@ A floorboard creaks behind you. You don't turn, but you recognize the scent of b
 > 👤 **Player:**
 > *"Time skip until we go to vault"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Old Chapel Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19200/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 2/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1297,8 +1466,11 @@ Kira (Lvl 5) is already here, leaning against the remains of the stone altar. Sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout for Pursuers - Before opening the vault, take a moment to scan the perimeter and ensure you weren't followed from the manor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Old Chapel Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19200/23000**
@@ -1314,8 +1486,11 @@ You turn your attention back to the altar, the iron-and-salt seals Tyrus mention
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout for Pursuers - Before opening the vault, take a moment to scan the perimeter and ensure you weren't followed from the manor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Old Chapel Ruins** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19200/23000**
@@ -1331,8 +1506,11 @@ You turn back to the altar, the iron-and-salt seals Tyrus mentioned hidden somew
 > [!NOTE] ⚙️ **Player Choice:**
 > *Investigate Altar Mechanism (Investigation) - Systematically search for the iron and salt seals Tyrus described, attempting to bypass the vault's lockdown without alerting the manor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Old Chapel Ruins - White Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19450/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 1/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1352,8 +1530,11 @@ You gain 250 XP for deciphering the ancient seals and locating the hidden entran
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reseal the Altar from Inside - Descend and attempt to pull the slab back into place or set a temporary illusion to mask the open entrance from any pursuers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **White Vault - Entry Stairs** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Sovereign Apostle | HP: 45/45 | Gold: 600gp | XP: 19450/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Mythic Surge: 1/3 | Channel Divinity: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1367,6 +1548,8 @@ You reach back, gripping the inner lip of the heavy basalt altar slab. In your p
 Kira (Lvl 5) watches your struggle from a few steps below, her face pale in the darkness. "Renjiro (Lvl 6), it's stuck," she whispers, her voice echoing unnaturally in the confined space. "If we stay here, we're leaving a trail. If that shadow you felt earlier is real, they'll find the open tomb in minutes." She glances down into the lightless depths of the stairs, then back up at the sliver of night still visible above. "We either go down and hope the dark hides us, or we spend more mana trying to force it. Which is it?"
 
 The entrance remains ajar, a jagged mouth of shadow that practically invites discovery.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

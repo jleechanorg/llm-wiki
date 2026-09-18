@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (163 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 ```
@@ -828,179 +839,184 @@ A crumbling, ancient stone ritual platform surrounded by a boiling, swirling lak
 **Word Count:** 3,145 words
 **Estimated Token Count:** 4,160 tokens
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Capital Adventurer's Guild | Mirtul 15, 1492 DR (09:00) | Roleplay |
-| **02** | Capital Adventurer's Guild | Mirtul 15, 1492 DR (09:00) | Roleplay |
-| **03** | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:00) | Roleplay |
-| **04** | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:00) | Roleplay |
-| **05** | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:00) | Roleplay |
-| **06** | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:02) | Roleplay |
-| **07** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:10) | Roleplay |
-| **08** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:10) | Roleplay |
-| **09** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:12) | Social Challenge |
-| **10** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Social Challenge |
-| **11** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
-| **12** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
-| **13** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
-| **14** | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
-| **15** | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:20) | Social Challenge |
-| **16** | Capital Streets (Outside Guild Hall) | Mirtul 15, 1492 DR (09:30) | Social Challenge |
-| **17** | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:40) | Social Challenge |
-| **18** | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:45) | Roleplay |
-| **19** | Whispering Crags - Entrance | Mirtul 15, 1492 DR (13:45) | Social Challenge |
-| **20** | Whispering Crags - Entrance | Mirtul 15, 1492 DR (13:55) | Roleplay |
-| **21** | Whispering Crags - Mapping Cave Entrance | Mirtul 15, 1492 DR (14:00) | Roleplay |
-| **22** | Whispering Crags - Cave Depths | Mirtul 15, 1492 DR (14:10) | Social Challenge |
-| **23** | Whispering Crags - Cave Depths | Mirtul 15, 1492 DR (14:10) | Roleplay |
-| **24** | Whispering Crags - Cave Depths | Mirtul 15, 1492 DR (14:15) | Roleplay |
-| **25** | Whispering Crags - Ritual Chamber Edge | Mirtul 15, 1492 DR (14:20) | Social Challenge |
-| **26** | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:20) | Social Challenge |
-| **27** | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:21) | Social Challenge |
-| **28** | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:31) | Social Challenge |
-| **29** | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:41) | Boss Surrender |
-| **30** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
-| **31** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
-| **32** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
-| **33** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
-| **34** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:05) | Boss Surrender |
-| **35** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:05) | Boss Surrender |
-| **36** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:05) | Boss Surrender |
-| **37** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
-| **38** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
-| **39** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
-| **40** | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
-| **41** | Hidden Gully near Forest Road | Mirtul 15, 1492 DR (22:06) | Roleplay |
-| **42** | Hidden Gully near the Forest Road | Mirtul 15, 1492 DR (23:06) | Roleplay |
-| **43** | Capital Outskirts - Northern Gate | Mirtul 16, 1492 DR (02:06) | Roleplay |
-| **44** | Silford Estate - Secret Laboratory | Mirtul 16, 1492 DR (03:15) | Roleplay |
-| **45** | Silford Estate - Private Wing | Mirtul 16, 1492 DR (03:30) | Roleplay |
-| **46** | Silford Estate - Private Wing |  | Roleplay |
-| **47** | Silford Estate - Private Wing | Mirtul 16, 1492 DR (03:15) | Roleplay |
-| **48** | Silford Estate - Private Wing | Mirtul 16, 1492 DR (03:45) | Roleplay |
-| **49** | Silford Estate - Sarah's Chambers | Mirtul 16, 1492 DR (03:46) | Roleplay |
-| **50** | Silford Estate - Sarah's Chambers | Mirtul 16, 1492 DR (03:46) | Roleplay |
-| **51** | Royal Magic Academy - Training Grounds | Kythorn 1, 1492 DR (10:00) | Roleplay |
-| **52** | Royal Magic Academy - Training Grounds | Kythorn 1, 1492 DR (10:00) | Roleplay |
-| **53** | Royal Magic Academy - Training Grounds | Azure Moon 1, Year 525 EK (10:00) | Roleplay |
-| **54** | Royal Magic Academy - Training Grounds | Azure Moon 1, Year 525 EK (10:00) | Roleplay |
-| **55** | Royal Magic Academy Training Grounds | Azure Moon 1, Year 525 EK (10:01) | Social Challenge |
-| **56** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:01) | Social Challenge |
-| **57** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
-| **58** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Social Challenge |
-| **59** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
-| **60** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
-| **61** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
-| **62** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:01) | Roleplay |
-| **63** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:05) | Roleplay |
-| **64** | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:05) | Roleplay |
-| **65** | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:10) | Roleplay |
-| **66** | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:10) | Roleplay |
-| **67** | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:10) | Roleplay |
-| **68** | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:12) | Social Challenge |
-| **69** | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:17) | Social Challenge |
-| **70** | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:22) | Boss Surrender |
-| **71** | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:22) | Roleplay |
-| **72** | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:25) | Boss Surrender |
-| **73** | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:25) | Roleplay |
-| **74** | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:25) | Roleplay |
-| **75** | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:25) | Roleplay |
-| **76** | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:25) | Roleplay |
-| **77** | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:27) | Social Challenge |
-| **78** | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:35) | Social Challenge |
-| **79** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, Year 525 EK (19:00) | Social Challenge |
-| **80** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:15) | Social Challenge |
-| **81** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:16) | Social Challenge |
-| **82** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (10:35) | Roleplay |
-| **83** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:30) | Social Challenge |
-| **84** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:30) | Roleplay |
-| **85** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:35) | Social Challenge |
-| **86** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, Year 525 EK (19:40) | Social Challenge |
-| **87** | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:55) | Boss Surrender |
-| **88** | Silford Estate - Sylphina's Chambers | Azure Moon 2, 525 EK (07:30) | Roleplay |
-| **89** | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:00) | Social Challenge |
-| **90** | Royal Magic Academy - Great Hall | Azure Moon 2, Year 525 EK (10:15) | Social Challenge |
-| **91** | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:20) | Social Challenge |
-| **92** | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:20) | Roleplay |
-| **93** | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:25) | Social Challenge |
-| **94** | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (11:30) | Roleplay |
-| **95** | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:25) | Roleplay |
-| **96** | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (10:45) | Roleplay |
-| **97** | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (10:45) | Roleplay |
-| **98** | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, Year 525 EK (11:30) | Social Challenge |
-| **99** | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (11:45) | Social Challenge |
-| **100** | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (11:50) | Social Challenge |
-| **101** | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (11:50) | Social Challenge |
-| **102** | Royal Magic Academy - S-Class Lecture Hall | Day 2, 525 Azure Moon (11:55) | Social Challenge |
-| **103** | Royal Magic Academy - S-Class Lecture Hall | Day 2, 525 Azure Moon (12:00) | Social Challenge |
-| **104** | Royal Magic Academy - S-Class Lecture Hall | Day 2, 525 Azure Moon (12:15) | Roleplay |
-| **105** | Royal Magic Academy - Refectory | Azure Moon 2, 525 AC (13:15) | Roleplay |
-| **106** | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:20) | Social Challenge |
-| **107** | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:20) | Roleplay |
-| **108** | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:20) | Social Challenge |
-| **109** | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:25) | Social Challenge |
-| **110** | Royal Magic Academy - Refectory | Azure Moon 2, 525 DR (13:30) | Social Challenge |
-| **111** | S-Class Dormitory Entrance | Azure Moon 3, 525 AC (08:30) | Roleplay |
-| **112** | S-Class Dormitory Entrance | Azure Moon 3, 08:30:00 | Roleplay |
-| **113** | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (08:30) | Social Challenge |
-| **114** | Royal Magic Academy - S-Class Lecture Hall | Day 4, 525 Azure Moon (11:55) | Roleplay |
-| **115** | Royal Magic Academy - Inner Gardens | Azure Moon 3, 08:35:00 | Roleplay |
-| **116** | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (08:45) | Social Challenge |
-| **117** | Royal Magic Academy - Inner Gardens | Azure Moon 3, 525 DR (09:00) | Social Challenge |
-| **118** | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:15) | Social Challenge |
-| **119** | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:20) | Social Challenge |
-| **120** | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:20) | Roleplay |
-| **121** | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:25) | Roleplay |
-| **122** | Royal Magic Academy - Inner Gardens | 525 Azure Moon 3, 09:25:00 | Roleplay |
-| **123** | Gideon's Home - Lower Capital District | Day 3, 525 Azure Moon (17:15) | Boss Surrender |
-| **124** | Gideon's Home - Lower Capital District | Day 3, 525 Azure Moon (17:15) | Roleplay |
-| **125** | Gideon's Home - Lower Capital District | Azure Moon 3, 525 DR (17:30) | Social Challenge |
-| **126** | Gideon's Home - Lower Capital District | Azure Moon 3, 17:30:00 | Boss Surrender |
-| **127** | Gideon's Home - Lower Capital District | Day 3, 525 Azure Moon (17:30) | Boss Surrender |
-| **128** | Gideon's Home - Lower Capital District | Azure Moon 3, 525 DR (18:15) | Social Challenge |
-| **129** | Royal Magic Academy (Transit) | Day 3, 525 Azure Moon (20:00) | Roleplay |
-| **130** | Royal Magic Academy Dormitories | Day 4, 525 Azure Moon (06:00) | Roleplay |
-| **131** | Royal Magic Academy Dormitories | Day 4, 525 Azure Moon (21:00) | Social Challenge |
-| **132** | Academy Gardens | Day 5, 525 Azure Moon (06:15) | Social Challenge |
-| **133** | Academy Gardens | Day 5, 525 Azure Moon (09:30) | Social Challenge |
-| **134** | Academy Gardens | Day 6, 525 Azure Moon (09:30) | Roleplay |
-| **135** | Academy Gardens | Day 5, 525 Azure Moon (09:30) | Roleplay |
-| **136** | S-Class Lecture Hall | Day 5, 525 Azure Moon (11:55) | Boss Surrender |
-| **137** | Academy West Training Grounds | Azure Moon 5, 525 DR (14:00) | Social Challenge |
-| **138** | Academy West Training Grounds | Azure Moon 5, 525 DR (14:10) | Social Challenge |
-| **139** | Academy West Training Grounds | Azure Moon 5, 525 DR (14:30) | Social Challenge |
-| **140** | Academy West Training Grounds | Day 5, 525 Azure Moon (14:45) | Social Challenge |
-| **141** | Academy West Training Grounds -> Academy S-Class Lecture Wing | Day 5, 525 Azure Moon (16:45) | Boss Surrender |
-| **142** | Academy S-Class Lecture Wing | Day 5, 525 Azure Moon (17:00) | Social Challenge |
-| **143** | West Wing Royal Library | Day 5, 525 Azure Moon (19:00) | Social Challenge |
-| **144** | West Wing Royal Library | Day 5, 525 Azure Moon (19:15) | Social Challenge |
-| **145** | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Boss Surrender |
-| **146** | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
-| **147** | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
-| **148** | Academy Front Gates | Day 10, 525 Azure Moon (08:00) | Roleplay |
-| **149** | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
-| **150** | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Social Challenge |
-| **151** | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
-| **152** | Academy Front Gates | Day 10, 525 Azure Moon (08:15) | Social Challenge |
-| **153** | Academy Front Gates | Azure Moon 10, 525 DR (09:45) | Social Challenge |
-| **154** | Academy Front Gates | Azure Moon 10, 525 (09:50) | Social Challenge |
-| **155** | Academy Front Gates | Day 10, 525 Azure Moon (10:00) | Roleplay |
-| **156** | Academy Front Gates | Azure Moon 10, 525 DR (10:05) | Social Challenge |
-| **157** | Academy Front Gates | Azure Moon 10, 525 DR (10:10) | Roleplay |
-| **158** | Academy Front Gates | Day 10, 525 Azure Moon (10:30) | Roleplay |
-| **159** | Academy Front Gates | 10, 525 Azure Moon (10:30) | Roleplay |
-| **160** | Academy Front Gates | Day 10, 525 Azure Moon (10:40) | Roleplay |
-| **161** | Academy Front Gates | Day 10, 525 Azure Moon (10:40) | Roleplay |
-| **162** | Academy Front Gates | Azure Moon 10, 525 DR (10:40) | Roleplay |
-| **163** | Academy Front Gates | Azure Moon 10, 525 DR (10:40) | Roleplay |
+| [**Scene 01**](#scene-1) | Capital Adventurer's Guild | Mirtul 15, 1492 DR (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Capital Adventurer's Guild | Mirtul 15, 1492 DR (09:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:02) | Roleplay |
+| [**Scene 07**](#scene-7) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:10) | Roleplay |
+| [**Scene 08**](#scene-8) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:10) | Roleplay |
+| [**Scene 09**](#scene-9) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:12) | Social Challenge |
+| [**Scene 10**](#scene-10) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Social Challenge |
+| [**Scene 11**](#scene-11) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
+| [**Scene 12**](#scene-12) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
+| [**Scene 13**](#scene-13) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
+| [**Scene 14**](#scene-14) | Capital Adventurer's Guild Underground Arena | Mirtul 15, 1492 DR (09:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:20) | Social Challenge |
+| [**Scene 16**](#scene-16) | Capital Streets (Outside Guild Hall) | Mirtul 15, 1492 DR (09:30) | Social Challenge |
+| [**Scene 17**](#scene-17) | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:40) | Social Challenge |
+| [**Scene 18**](#scene-18) | Capital Adventurer's Guild Hall | Mirtul 15, 1492 DR (09:45) | Roleplay |
+| [**Scene 19**](#scene-19) | Whispering Crags - Entrance | Mirtul 15, 1492 DR (13:45) | Social Challenge |
+| [**Scene 20**](#scene-20) | Whispering Crags - Entrance | Mirtul 15, 1492 DR (13:55) | Roleplay |
+| [**Scene 21**](#scene-21) | Whispering Crags - Mapping Cave Entrance | Mirtul 15, 1492 DR (14:00) | Roleplay |
+| [**Scene 22**](#scene-22) | Whispering Crags - Cave Depths | Mirtul 15, 1492 DR (14:10) | Social Challenge |
+| [**Scene 23**](#scene-23) | Whispering Crags - Cave Depths | Mirtul 15, 1492 DR (14:10) | Roleplay |
+| [**Scene 24**](#scene-24) | Whispering Crags - Cave Depths | Mirtul 15, 1492 DR (14:15) | Roleplay |
+| [**Scene 25**](#scene-25) | Whispering Crags - Ritual Chamber Edge | Mirtul 15, 1492 DR (14:20) | Social Challenge |
+| [**Scene 26**](#scene-26) | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:20) | Social Challenge |
+| [**Scene 27**](#scene-27) | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:21) | Social Challenge |
+| [**Scene 28**](#scene-28) | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:31) | Social Challenge |
+| [**Scene 29**](#scene-29) | Whispering Crags - Ritual Chamber | Mirtul 15, 1492 DR (14:41) | Boss Surrender |
+| [**Scene 30**](#scene-30) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
+| [**Scene 31**](#scene-31) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
+| [**Scene 32**](#scene-32) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
+| [**Scene 33**](#scene-33) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:00) | Roleplay |
+| [**Scene 34**](#scene-34) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:05) | Boss Surrender |
+| [**Scene 35**](#scene-35) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:05) | Boss Surrender |
+| [**Scene 36**](#scene-36) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:05) | Boss Surrender |
+| [**Scene 37**](#scene-37) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
+| [**Scene 38**](#scene-38) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
+| [**Scene 39**](#scene-39) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
+| [**Scene 40**](#scene-40) | Forested Road back to Capital | Mirtul 15, 1492 DR (22:06) | Roleplay |
+| [**Scene 41**](#scene-41) | Hidden Gully near Forest Road | Mirtul 15, 1492 DR (22:06) | Roleplay |
+| [**Scene 42**](#scene-42) | Hidden Gully near the Forest Road | Mirtul 15, 1492 DR (23:06) | Roleplay |
+| [**Scene 43**](#scene-43) | Capital Outskirts - Northern Gate | Mirtul 16, 1492 DR (02:06) | Roleplay |
+| [**Scene 44**](#scene-44) | Silford Estate - Secret Laboratory | Mirtul 16, 1492 DR (03:15) | Roleplay |
+| [**Scene 45**](#scene-45) | Silford Estate - Private Wing | Mirtul 16, 1492 DR (03:30) | Roleplay |
+| [**Scene 46**](#scene-46) | Silford Estate - Private Wing |  | Roleplay |
+| [**Scene 47**](#scene-47) | Silford Estate - Private Wing | Mirtul 16, 1492 DR (03:15) | Roleplay |
+| [**Scene 48**](#scene-48) | Silford Estate - Private Wing | Mirtul 16, 1492 DR (03:45) | Roleplay |
+| [**Scene 49**](#scene-49) | Silford Estate - Sarah's Chambers | Mirtul 16, 1492 DR (03:46) | Roleplay |
+| [**Scene 50**](#scene-50) | Silford Estate - Sarah's Chambers | Mirtul 16, 1492 DR (03:46) | Roleplay |
+| [**Scene 51**](#scene-51) | Royal Magic Academy - Training Grounds | Kythorn 1, 1492 DR (10:00) | Roleplay |
+| [**Scene 52**](#scene-52) | Royal Magic Academy - Training Grounds | Kythorn 1, 1492 DR (10:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Royal Magic Academy - Training Grounds | Azure Moon 1, Year 525 EK (10:00) | Roleplay |
+| [**Scene 54**](#scene-54) | Royal Magic Academy - Training Grounds | Azure Moon 1, Year 525 EK (10:00) | Roleplay |
+| [**Scene 55**](#scene-55) | Royal Magic Academy Training Grounds | Azure Moon 1, Year 525 EK (10:01) | Social Challenge |
+| [**Scene 56**](#scene-56) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:01) | Social Challenge |
+| [**Scene 57**](#scene-57) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
+| [**Scene 58**](#scene-58) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Social Challenge |
+| [**Scene 59**](#scene-59) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
+| [**Scene 60**](#scene-60) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
+| [**Scene 61**](#scene-61) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, Year 525 EK (10:01) | Roleplay |
+| [**Scene 62**](#scene-62) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:01) | Roleplay |
+| [**Scene 63**](#scene-63) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:05) | Roleplay |
+| [**Scene 64**](#scene-64) | Royal Magic Academy Training Grounds - Eastern Groves | Azure Moon 1, 525 EK (10:05) | Roleplay |
+| [**Scene 65**](#scene-65) | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:10) | Roleplay |
+| [**Scene 66**](#scene-66) | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:10) | Roleplay |
+| [**Scene 67**](#scene-67) | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:10) | Roleplay |
+| [**Scene 68**](#scene-68) | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:12) | Social Challenge |
+| [**Scene 69**](#scene-69) | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:17) | Social Challenge |
+| [**Scene 70**](#scene-70) | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:22) | Boss Surrender |
+| [**Scene 71**](#scene-71) | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:22) | Roleplay |
+| [**Scene 72**](#scene-72) | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:25) | Boss Surrender |
+| [**Scene 73**](#scene-73) | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:25) | Roleplay |
+| [**Scene 74**](#scene-74) | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:25) | Roleplay |
+| [**Scene 75**](#scene-75) | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:25) | Roleplay |
+| [**Scene 76**](#scene-76) | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:25) | Roleplay |
+| [**Scene 77**](#scene-77) | Royal Magic Academy - Eastern Groves | Azure Moon 1, 525 EK (10:27) | Social Challenge |
+| [**Scene 78**](#scene-78) | Royal Magic Academy - Eastern Groves | Azure Moon 1, Year 525 EK (10:35) | Social Challenge |
+| [**Scene 79**](#scene-79) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, Year 525 EK (19:00) | Social Challenge |
+| [**Scene 80**](#scene-80) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:15) | Social Challenge |
+| [**Scene 81**](#scene-81) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:16) | Social Challenge |
+| [**Scene 82**](#scene-82) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (10:35) | Roleplay |
+| [**Scene 83**](#scene-83) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:30) | Social Challenge |
+| [**Scene 84**](#scene-84) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:30) | Roleplay |
+| [**Scene 85**](#scene-85) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:35) | Social Challenge |
+| [**Scene 86**](#scene-86) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, Year 525 EK (19:40) | Social Challenge |
+| [**Scene 87**](#scene-87) | Royal Palace of Esfort - Star-Bloom Terrace | Azure Moon 1, 525 EK (19:55) | Boss Surrender |
+| [**Scene 88**](#scene-88) | Silford Estate - Sylphina's Chambers | Azure Moon 2, 525 EK (07:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:00) | Social Challenge |
+| [**Scene 90**](#scene-90) | Royal Magic Academy - Great Hall | Azure Moon 2, Year 525 EK (10:15) | Social Challenge |
+| [**Scene 91**](#scene-91) | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:20) | Social Challenge |
+| [**Scene 92**](#scene-92) | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:20) | Roleplay |
+| [**Scene 93**](#scene-93) | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:25) | Social Challenge |
+| [**Scene 94**](#scene-94) | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (11:30) | Roleplay |
+| [**Scene 95**](#scene-95) | Royal Magic Academy - Great Hall | Azure Moon 2, 525 EK (10:25) | Roleplay |
+| [**Scene 96**](#scene-96) | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (10:45) | Roleplay |
+| [**Scene 97**](#scene-97) | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (10:45) | Roleplay |
+| [**Scene 98**](#scene-98) | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, Year 525 EK (11:30) | Social Challenge |
+| [**Scene 99**](#scene-99) | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (11:45) | Social Challenge |
+| [**Scene 100**](#scene-100) | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (11:50) | Social Challenge |
+| [**Scene 101**](#scene-101) | Royal Magic Academy - S-Class Lecture Hall | Azure Moon 2, 525 EK (11:50) | Social Challenge |
+| [**Scene 102**](#scene-102) | Royal Magic Academy - S-Class Lecture Hall | Day 2, 525 Azure Moon (11:55) | Social Challenge |
+| [**Scene 103**](#scene-103) | Royal Magic Academy - S-Class Lecture Hall | Day 2, 525 Azure Moon (12:00) | Social Challenge |
+| [**Scene 104**](#scene-104) | Royal Magic Academy - S-Class Lecture Hall | Day 2, 525 Azure Moon (12:15) | Roleplay |
+| [**Scene 105**](#scene-105) | Royal Magic Academy - Refectory | Azure Moon 2, 525 AC (13:15) | Roleplay |
+| [**Scene 106**](#scene-106) | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:20) | Social Challenge |
+| [**Scene 107**](#scene-107) | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:20) | Roleplay |
+| [**Scene 108**](#scene-108) | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:20) | Social Challenge |
+| [**Scene 109**](#scene-109) | Royal Magic Academy - Refectory | Day 2, 525 Azure Moon (13:25) | Social Challenge |
+| [**Scene 110**](#scene-110) | Royal Magic Academy - Refectory | Azure Moon 2, 525 DR (13:30) | Social Challenge |
+| [**Scene 111**](#scene-111) | S-Class Dormitory Entrance | Azure Moon 3, 525 AC (08:30) | Roleplay |
+| [**Scene 112**](#scene-112) | S-Class Dormitory Entrance | Azure Moon 3, 08:30:00 | Roleplay |
+| [**Scene 113**](#scene-113) | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (08:30) | Social Challenge |
+| [**Scene 114**](#scene-114) | Royal Magic Academy - S-Class Lecture Hall | Day 4, 525 Azure Moon (11:55) | Roleplay |
+| [**Scene 115**](#scene-115) | Royal Magic Academy - Inner Gardens | Azure Moon 3, 08:35:00 | Roleplay |
+| [**Scene 116**](#scene-116) | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (08:45) | Social Challenge |
+| [**Scene 117**](#scene-117) | Royal Magic Academy - Inner Gardens | Azure Moon 3, 525 DR (09:00) | Social Challenge |
+| [**Scene 118**](#scene-118) | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:15) | Social Challenge |
+| [**Scene 119**](#scene-119) | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:20) | Social Challenge |
+| [**Scene 120**](#scene-120) | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:20) | Roleplay |
+| [**Scene 121**](#scene-121) | Royal Magic Academy - Inner Gardens | Day 3, 525 Azure Moon (09:25) | Roleplay |
+| [**Scene 122**](#scene-122) | Royal Magic Academy - Inner Gardens | 525 Azure Moon 3, 09:25:00 | Roleplay |
+| [**Scene 123**](#scene-123) | Gideon's Home - Lower Capital District | Day 3, 525 Azure Moon (17:15) | Boss Surrender |
+| [**Scene 124**](#scene-124) | Gideon's Home - Lower Capital District | Day 3, 525 Azure Moon (17:15) | Roleplay |
+| [**Scene 125**](#scene-125) | Gideon's Home - Lower Capital District | Azure Moon 3, 525 DR (17:30) | Social Challenge |
+| [**Scene 126**](#scene-126) | Gideon's Home - Lower Capital District | Azure Moon 3, 17:30:00 | Boss Surrender |
+| [**Scene 127**](#scene-127) | Gideon's Home - Lower Capital District | Day 3, 525 Azure Moon (17:30) | Boss Surrender |
+| [**Scene 128**](#scene-128) | Gideon's Home - Lower Capital District | Azure Moon 3, 525 DR (18:15) | Social Challenge |
+| [**Scene 129**](#scene-129) | Royal Magic Academy (Transit) | Day 3, 525 Azure Moon (20:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Royal Magic Academy Dormitories | Day 4, 525 Azure Moon (06:00) | Roleplay |
+| [**Scene 131**](#scene-131) | Royal Magic Academy Dormitories | Day 4, 525 Azure Moon (21:00) | Social Challenge |
+| [**Scene 132**](#scene-132) | Academy Gardens | Day 5, 525 Azure Moon (06:15) | Social Challenge |
+| [**Scene 133**](#scene-133) | Academy Gardens | Day 5, 525 Azure Moon (09:30) | Social Challenge |
+| [**Scene 134**](#scene-134) | Academy Gardens | Day 6, 525 Azure Moon (09:30) | Roleplay |
+| [**Scene 135**](#scene-135) | Academy Gardens | Day 5, 525 Azure Moon (09:30) | Roleplay |
+| [**Scene 136**](#scene-136) | S-Class Lecture Hall | Day 5, 525 Azure Moon (11:55) | Boss Surrender |
+| [**Scene 137**](#scene-137) | Academy West Training Grounds | Azure Moon 5, 525 DR (14:00) | Social Challenge |
+| [**Scene 138**](#scene-138) | Academy West Training Grounds | Azure Moon 5, 525 DR (14:10) | Social Challenge |
+| [**Scene 139**](#scene-139) | Academy West Training Grounds | Azure Moon 5, 525 DR (14:30) | Social Challenge |
+| [**Scene 140**](#scene-140) | Academy West Training Grounds | Day 5, 525 Azure Moon (14:45) | Social Challenge |
+| [**Scene 141**](#scene-141) | Academy West Training Grounds -> Academy S-Class Lecture Wing | Day 5, 525 Azure Moon (16:45) | Boss Surrender |
+| [**Scene 142**](#scene-142) | Academy S-Class Lecture Wing | Day 5, 525 Azure Moon (17:00) | Social Challenge |
+| [**Scene 143**](#scene-143) | West Wing Royal Library | Day 5, 525 Azure Moon (19:00) | Social Challenge |
+| [**Scene 144**](#scene-144) | West Wing Royal Library | Day 5, 525 Azure Moon (19:15) | Social Challenge |
+| [**Scene 145**](#scene-145) | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Boss Surrender |
+| [**Scene 146**](#scene-146) | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
+| [**Scene 147**](#scene-147) | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
+| [**Scene 148**](#scene-148) | Academy Front Gates | Day 10, 525 Azure Moon (08:00) | Roleplay |
+| [**Scene 149**](#scene-149) | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
+| [**Scene 150**](#scene-150) | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Social Challenge |
+| [**Scene 151**](#scene-151) | Academy Front Gates | Azure Moon 10, 525 DR (08:00) | Roleplay |
+| [**Scene 152**](#scene-152) | Academy Front Gates | Day 10, 525 Azure Moon (08:15) | Social Challenge |
+| [**Scene 153**](#scene-153) | Academy Front Gates | Azure Moon 10, 525 DR (09:45) | Social Challenge |
+| [**Scene 154**](#scene-154) | Academy Front Gates | Azure Moon 10, 525 (09:50) | Social Challenge |
+| [**Scene 155**](#scene-155) | Academy Front Gates | Day 10, 525 Azure Moon (10:00) | Roleplay |
+| [**Scene 156**](#scene-156) | Academy Front Gates | Azure Moon 10, 525 DR (10:05) | Social Challenge |
+| [**Scene 157**](#scene-157) | Academy Front Gates | Azure Moon 10, 525 DR (10:10) | Roleplay |
+| [**Scene 158**](#scene-158) | Academy Front Gates | Day 10, 525 Azure Moon (10:30) | Roleplay |
+| [**Scene 159**](#scene-159) | Academy Front Gates | 10, 525 Azure Moon (10:30) | Roleplay |
+| [**Scene 160**](#scene-160) | Academy Front Gates | Day 10, 525 Azure Moon (10:40) | Roleplay |
+| [**Scene 161**](#scene-161) | Academy Front Gates | Day 10, 525 Azure Moon (10:40) | Roleplay |
+| [**Scene 162**](#scene-162) | Academy Front Gates | Azure Moon 10, 525 DR (10:40) | Roleplay |
+| [**Scene 163**](#scene-163) | Academy Front Gates | Azure Moon 10, 525 DR (10:40) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Capital Adventurer's Guild** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 47/47 | Gold: 6000gp | XP: 14000/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Superiority: 4/4, Inspiration: No** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1038,8 +1054,11 @@ Options: Gestalt Progression, Arcane Heat Index (AHI), Multi-Tiered Initiative.
 > 👤 **Player:**
 > *"Give me some stronger stats to suit my character"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Capital Adventurer's Guild** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6000gp | XP: 14000/9000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Spoofed Status Board | Inspiration: No**
@@ -1069,8 +1088,11 @@ Does this elevated power level meet your satisfaction, or shall we refine your g
 > 👤 **Player:**
 > *"Finish and start the game. And in the campaign let’s have people constantly underestimate me due to my age"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Capital Adventurer's Guild Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 14000/9000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1100,8 +1122,11 @@ The stone doesn't glow. It screams. A violent obsidian-purple light erupts, blin
 God Mode:
 Make sure we have all the proper stats and abilities and spells and spell slots and give me 2 dex asi and give me some reasonable starter light armor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Capital Adventurer's Guild Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 14000/9000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sup. Dice: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1119,8 +1144,11 @@ The character is now fully optimized to 'Divine Blessing' standards. The 'Spoofe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Capital Adventurer's Guild Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 14000/9000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Spoofed Status Board | Exhaustion: 0 | Inspiration: No**
@@ -1140,8 +1168,11 @@ He gestures toward a heavy iron trapdoor at the back of the hall, his hand resti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scan the Arena Entrance - Use your advanced sensory circuits to analyze the mana-reinforced walls of the trapdoor and determine the arena's structural limits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Capital Adventurer's Guild Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:02)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6000gp | XP: 14100/8900** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1159,8 +1190,11 @@ You blink, the geometric overlays vanishing from your vision as you return to yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Guild Master Els - Walk calmly toward the trapdoor and descend into the testing arena.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 14100/8900** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sup. Dice: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1188,8 +1222,11 @@ Initiative: Sylphina (28), Millie (14), Nina (11) vs Bone Collector (15)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dread Ambusher: Absolute Deletion - Use Action Surge and Assassinate to execute six high-speed strikes in the first turn, ending the fight instantly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 15000/8000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Superiority: 2/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Umbral Sight | Exhaustion: 0 | Inspiration: No**
@@ -1223,8 +1260,11 @@ You gain **900 XP** for a flawless combat victory.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Millie about the Sigil - Notice her distress and ask about the black mark you saw on the bone collector's remains.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:12)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 15180/7820** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1 | AHI: 8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1254,8 +1294,11 @@ You gain **180 XP** for advancing the investigation into Millie's past.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Guild Master Els - Pivot to the Guild Master to secure your adventurer card and see how he reacts to the monster's 'mutated' state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 15380/7620** &nbsp;|&nbsp; ✨ **Superiority Dice: 2/4 | Spell Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Arcane Heat: 8/21** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1288,8 +1331,11 @@ He reaches into his heavy leather coat and produces a unique, matte-black Advent
 God Mode:
 Shouldn’t it be more than G rank?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 15380/7620** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1310,8 +1356,11 @@ Would you like to maintain this 'Hidden Dragon' G-rank profile, or shall I force
 God Mode:
 What would my normal rank be? The guild has no reason to hide my powern
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6000gp | XP: 15380/7620**
@@ -1336,8 +1385,11 @@ If Guild Master Els (an S-rank veteran) were to register you based solely on you
 God Mode:
 Would my actual power really be S rank? Im only level 6?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 15380/7620** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1361,8 +1413,11 @@ Administrative power-scaling analysis for Lady Sylphina von Silford:
 God Mode:
 What’s the type of card for A rank or S rank
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Capital Adventurer's Guild Underground Arena** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6000gp | XP: 15380/7620** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1401,8 +1456,11 @@ In the Kingdom of Esfort, an Adventurer's Card is more than an ID; it is a mana-
 > 👤 **Player:**
 > *"Ok accept black stamped card"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Capital Adventurer's Guild Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6000gp | XP: 15380/7620** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Arcane Heat: 8** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1431,8 +1489,11 @@ Outside, the crisp morning air of the Royal Capital hits you, carrying the scent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Millie's Morale - Engage Millie in a private conversation to probe the 'Black Sun' connection and reduce her trauma-induced rigidity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Capital Streets (Outside Guild Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 15380/7620** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Sup Dice: 2/4 | Action Surge: 0/1 | AHI: 8**
@@ -1457,8 +1518,11 @@ Nina catches your eye and shakes her head subtly, her elven ears drooping in sym
 > 👤 **Player:**
 > *"go back to the board an see what the most fun adventure looks like"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Capital Adventurer's Guild Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 6,000gp | XP: 15380/7620** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Arcane Heat: 8 | Inspiration: No**
@@ -1486,8 +1550,11 @@ Outcome: You have identified a 'G-Rank' quest that is actually a front for high-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept 'Cave Mapping' (The Fun Choice) - The quest is listed as G-Rank mapping, but its resonance suggests high-tier ley-line corruption. Perfect for research.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Capital Adventurer's Guild Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 6000gp | XP: 16660/6340** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1519,8 +1586,11 @@ You approach the reception desk, where the same receptionist from before is stil
 > 👤 **Player:**
 > *"buy some gear upgrades for myself and companions, focus on optimizing my build, then continue on to the quest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Whispering Crags - Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 16660/6340** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Rage: N/A | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1547,8 +1617,11 @@ You look toward the yawning mouth of the mapping target cave. The corrupted ley-
 > 👤 **Player:**
 > *"I shouldn’t lose perception checks with my foresight and all my level 30 modifiers. Let’s just track if I have to break level 5 mask to reveal or act on things. Rewrite the scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Whispering Crags - Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 (Secret Lvl 30 Gestalt) | HP: 58/58 | Gold: 1,700gp | XP: 16660/6340** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Masked (Level 5) | Exhaustion: 0 | Inspiration: No**
@@ -1566,8 +1639,11 @@ You remain perfectly still, a silver-haired doll in a violet dress. The choice i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Infiltration (Pass Without Trace) - Cast Pass Without Trace to ghost into the caves. DC 15 Stealth (+21 modifier).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Whispering Crags - Mapping Cave Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 16910/6090** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (+10 Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -1585,8 +1661,11 @@ You gain **250 XP** for successfully ghosting the Inquisitorial Shadows.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Infiltration (Pass Without Trace) - Cast Pass Without Trace to ghost into the caves. DC 15 Stealth (+21 modifier).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Whispering Crags - Cave Depths** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 17160/5840** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (+10 Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -1610,8 +1689,11 @@ Millie’s hand is a tremor she can no longer hide. She stares at a glowing junc
 God Mode:
 I should not have level 30 stuff or foresight that as accident prompt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Whispering Crags - Cave Depths** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 17160/5840** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (+10 Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -1628,8 +1710,11 @@ The story remains frozen at the moment you entered the cave depths. Millie remai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Shadow Ravens - Send your spectral familiars into the deeper tunnels to map the enemy presence and terrain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Whispering Crags - Cave Depths** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 17360/5640** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1645,8 +1730,11 @@ The mapping is complete. You have a perfect geometric blueprint of the 'glitch' 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silent Infiltration - Utilize the Pass Without Trace void to reach the chamber edge for a surprise round.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Whispering Crags - Ritual Chamber Edge** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 17525/5475** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (Active), Umbral Sight (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1673,8 +1761,11 @@ Beside you, Millie (Lvl 6) is a coiled spring of suppressed trauma. Her eyes are
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Omni-Strike (Surprise Attack) - Activate Dusk-Weaver's Sonata and execute a high-speed burst to delete the Cultists and Inquisitor before they can react.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Whispering Crags - Ritual Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 17775/5225** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 2/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Pass Without Trace | Exhaustion: 0 | Inspiration: No**
@@ -1718,8 +1809,11 @@ Nina (Lvl 6) is already running her own diagnostic, her eyes wide. "Statisticall
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terminate Shadow Demons - Utilize your remaining high-speed attacks to finish the wounded demons before they can slip back into the MATERIAL plane.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Whispering Crags - Ritual Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:21)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 18675/4325** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, SD: 1/4, AS: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Pass Without Trace | Exhaustion: 0 | Inspiration: No**
@@ -1756,8 +1850,11 @@ ENEMIES DEFEATED:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rewrite Ley-Line Code - Use your Arcana (+11) to manually patch the corrupted mana loops in the crystal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Whispering Crags - Ritual Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:31)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 18975/4025** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 1/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1791,8 +1888,11 @@ You gain **300 XP** for successfully debugging the ley-line node and purifying t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Millie for Details - Use the purified atmosphere to gently ask Millie about her time in the northern peaks and the Black Sun's supposed demise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Whispering Crags - Ritual Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:41)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 18975/4025** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 1/4 | Action Surge: 0/1 | Heat: 11/20** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Pass Without Trace (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1820,8 +1920,11 @@ You gain **350 XP** for uncovering the origin of the Black Sun and its connectio
 > 👤 **Player:**
 > *"time skip until someting interesting or challenging happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 19025/3975** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority: 4/4 | Action Surge: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **AHI: 11 | Exhaustion: 0 | Inspiration: No**
@@ -1863,8 +1966,11 @@ YOUR TURN - ACTIONS REMAINING:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synergistic Deletion (+0 DC) - Activate Dusk-Weaver Sonata (Bladesong) while executing a high-speed melee intercept on Kaelen. Your rotating magic circles provide cover while you strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 19025/3975** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, Superiority: 4/4, Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Bladesong Active | Exhaustion: 0 | Inspiration: No**
@@ -1882,8 +1988,11 @@ You slide to a halt between the bleeding Nina and the phantom hunter, your viole
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terminate Kaelen - Commit all remaining parallel circuits to delete the Nemesis before he can act at Phase 10.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 20225/2775** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Action Surge: 0/1 | Superiority Dice: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong Active | Exhaustion: 0 | Inspiration: No**
@@ -1907,8 +2016,11 @@ You gain 1,200 XP for deleting a Nemesis and neutralizing the immediate threat.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize Nina - Nina is critically wounded (10 HP) and poisoned. Use Lesser Restoration or a high-tier healing circuit to save her before the poison takes hold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 20225/2775** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, Superiority: 3/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Pass Without Trace (Active) | Exhaustion: 0 | Inspiration: No**
@@ -1924,8 +2036,11 @@ Behind you, the two Crimson Veil Assassins (Lvl 3) recover from their shock, lev
 > 👤 **Player:**
 > *"try to get her healing potion or use bonus action to heal her then stand in front of her to proect her with my AC"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 20225/2775** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, Superiority: 3/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Arcane Heat: 21 (Critical) | Inspiration: No**
@@ -1962,8 +2077,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"are you forgettign to let me allies take their turns? do martial sweep and have everyone attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | AC: 23 | Gold: 1,700gp | XP: 20225/2775** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 3/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active | Exhaustion: 0 | Inspiration: No**
@@ -1995,8 +2113,11 @@ The survivors are no longer assassins; they are variables awaiting deletion. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Deletion - Execute the remaining two assassins to ensure no witnesses remain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21605/1395** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, Sup. Dice: 3/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Arcane Heat: Critical (21) | Inspiration: No**
@@ -2030,8 +2151,11 @@ ENEMIES DEFEATED:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Intel - Quickly loot the assassins for clues regarding House Malves' specific orders.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 20505/1395** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 3/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Arcane Heat: 21 (Critical) | Exhaustion: 0 | Inspiration: No**
@@ -2051,8 +2175,11 @@ You gain **100 XP** for successfully retrieving the House Malves directives.
 > 👤 **Player:**
 > *"THINK:how strong is malakai can we win?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | AHI: 21 (Critical) | XP: 21605/1395**
@@ -2062,8 +2189,11 @@ Intelligence Check: 23 vs DC 10 — Success. Your methodical mind slices through
 God Mode:
 why do these inquisitors chase me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21605/1395** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 1/3, L3 3/3, L4 1/1, Superiority: 3/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong Active, Critical Heat (AHI 21) | Exhaustion: 0 | Inspiration: No**
@@ -2079,8 +2209,11 @@ Administrative brief on Inquisitorial pursuit of Subject 7-Silford:
 God Mode:
 lets assume these guys arent just gonna instantly kill me, they may wanna study me or t hey may decide I am ok. i  dont want random things attacking me that arent lore accurate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Forested Road back to Capital** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 21605/1395**
@@ -2096,8 +2229,11 @@ Administrative directives updated. The operational logic for antagonistic factio
 > 👤 **Player:**
 > *"use dimenson door and escape with my party"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Hidden Gully near Forest Road** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 20605/1395** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Superiority: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Arcane Heat: 26 (Critical) | Exhaustion: 0 | Inspiration: No**
@@ -2115,8 +2251,11 @@ You gain **200 XP** for the successful structural modification and escape.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sanctuary Recovery - Utilize the temporary sanctuary to stabilize Nina and vent my Arcane Heat through zero-magic meditation (1d6 reduction).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Hidden Gully near the Forest Road** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 21605/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 0/1 | Superiority: 3/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Arcane Heat (21) | Exhaustion: 0 | Inspiration: No**
@@ -2130,8 +2269,11 @@ You do not respond with words. You engage the 'Aperture Venting' protocol, a zer
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Transit to Capital - Move the carriage through the back trails using Pass Without Trace to avoid the containment squad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Capital Outskirts - Northern Gate** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 21605/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, Superiority Dice: 3/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong (Inactive) | Exhaustion: 0 | Inspiration: No**
@@ -2145,8 +2287,11 @@ As the stone walls of the capital's northern perimeter come into view, a soft fl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Transit to Capital - Move the carriage through the back trails using Pass Without Trace to avoid the containment squad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Silford Estate - Secret Laboratory** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21905/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, Superiority: 3/4, Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2162,8 +2307,11 @@ As the stone floor of the laboratory rises to meet you, your internal sensors de
 > 👤 **Player:**
 > *"lets assume so remove the magic lock, then ask mother and research in parallel whats going on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Silford Estate - Private Wing** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21905/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority: 3/4 | Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2302,8 +2450,11 @@ Template Metadata
 Word Count: 1,029 words
 Estimated Token Count: ~1,390 tokens
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Silford Estate - Private Wing** &nbsp;|&nbsp; 🛡️ **Template Integration Active | Character Dossiers: Processing | XP: 21905/23000**
@@ -2341,8 +2492,11 @@ I have mapped the party members and the protagonist to your new 'System-Agnostic
 God Mode:
 flesh out 10-15 more secondary characgers like my family members, antagonists, neutral
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Silford Estate - Private Wing** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 21905/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Bladesong: 2/3 | Superiority: 3/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2430,8 +2584,11 @@ God mode never advances the narrative; the story is frozen while you perform adm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrated Social-Research Sweep (Synergistic) - Run mental research loops while actively engaging Mother. Use your Intelligence to bridge her anecdotes with technical data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Silford Estate - Private Wing** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21905/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 1/1 | Superiority: 3/4 | Action Surge: 0/1 | Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2456,8 +2613,11 @@ Lady Sarah (Lvl 2) pauses, her hand hesitating for a fraction of a second. She l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Academic Curiosity (Persuasion) - Frame the question as a research problem from your tutors to bypass her 'child-protection' instinct.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Silford Estate - Sarah's Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:46)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21905/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 3/4, L2 1/3, L3 3/3, L4 1/1 | Bladesong: 2/3 | Superiority Dice: 3/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2480,8 +2640,11 @@ Lady Sarah (Lvl 2) stills, her fingers pausing against your silver hair. The pro
 God Mode:
 i'm a bit bored of this campaign arc, can we brainstorm some new ones? I wanna adventure and power up and fight sentient opponents and always have friendlies, neutral, allies understimate it, maybe similar to other iseki of this genre. and i want things to be very cahracter driven and my companions should be fully fleshed out and give me one more male adventurer companion maybe a tank
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Silford Estate - Sarah's Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:46)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 21905/23000**
@@ -2533,8 +2696,11 @@ Lets do this arc 1), when we go back to story lets assume the black sun and anta
 
 Lets also setup some sitaution where I save  a prince and duke son from some monsters/bad guys except make them sentient and connect them with overarching antagonists. should be like the real seventh son manga. summarize and recap so i konw
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Royal Magic Academy - Training Grounds** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 21905/23000** &nbsp;|&nbsp; ⚠️ **Normal | Arcane Heat: 0 (Reset) | Mask: Level 5 Active**
@@ -2562,8 +2728,11 @@ I have successfully reconfigured the campaign state to move into **Arc 1: The Ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Story - Begin the Academy field trip and the Gilded Hand ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Royal Magic Academy - Training Grounds** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21905/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Superiority Dice: 3/4 | Action Surge: 1/1 | Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2596,8 +2765,11 @@ God Mode:
 fix calendar to make it more lore appropriate SESSION_HEADER]
 Timestamp: 1492 DR, Kythorn 1, 10:00:00
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Royal Magic Academy - Training Grounds** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 1700gp | XP: 21905/23000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2613,8 +2785,11 @@ Calendar synchronization successful. Shifted from Forgotten Realms (DR) to the E
 God Mode:
 I am not a princess and also lets assume people think i got in youngto the academy due to nepotism vs my magic ability since i'm too young to enroll normally
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Royal Magic Academy - Training Grounds** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21905/23000**
@@ -2628,8 +2803,11 @@ Administrative updates complete.
 > 👤 **Player:**
 > *"use shield to tank the door and haste and try to trigger surprise round to assinate enemies and melee them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Royal Magic Academy Training Grounds** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 21905/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 2/3, L4 1/1, Sup. Dice: 3/4, Bladesong: 2/3, Arcane Heat: 3** &nbsp;|&nbsp; ⚠️ **Haste (Concentration), Bladesong | Exhaustion: 0 | Inspiration: Yes**
@@ -2660,8 +2838,11 @@ You slide to a halt between the mercenaries and the cowering heirs, your violet 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terminate Captain - Use your hasted action to execute a final, lethal strike on the wounded Captain.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 | Gold: 1,700gp | XP: 22355/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 2/3, L4 1/1, Superiority: 3/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong | Exhaustion: 0 | Inspiration: No**
@@ -2697,8 +2878,11 @@ You gain **450 XP** for critically wounding the Gilded Hand Captain and maintain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Vanguard Sweep - Pivot to the four Gilded Hand mercenaries, using your remaining movement and Extra Attack to disrupt their lines.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bladesinger | HP: 58/58 (Temp: 5) | Gold: 1,700gp | XP: 22355/23000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 3/4, L2 1/3, L3 2/3, L4 1/1, Ki: N/A, Rage: N/A, Potions: 1/2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste, Shield | Exhaustion: 0 | Inspiration: No**
@@ -2738,8 +2922,11 @@ Desperation takes over the mercenaries. "Grab the brat! Forget the guard!" one s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Captain - Use your next hasted action to delete the Captain, ending the leadership link.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger | HP: 58/58 (5 Temp) | Gold: 1850gp | XP: 22805/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 2/3, L4 1/1 | Superiority: 3/4 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong | Exhaustion: 0 | Inspiration: No**
@@ -2768,8 +2955,11 @@ The remaining four mercenaries scramble, their formation in shambles as they rea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Surrender - Use the Captain's deletion to break the mercenaries' morale, forcing them to surrender for interrogation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger (Lvl 7 available) | HP: 58/58 (5 Temp) | Gold: 1,850gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 1/3, L3 2/3, L4 1/1 | Superiority Dice: 3/4 | Action Surge: 0/1 | Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Haste (1 min), Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -2812,8 +3002,11 @@ Nina (Lvl 6) coughs, her elven ears twitching as she looks at you with a mix of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Optimize Grimoire Circuits (Level Up) - Enter the Level-Up modal to apply Level 7 gestalt features and upgrade your mana matrix.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger (Lvl 7 available) | HP: 58/58 (Temp: 5) | Gold: 2090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 2/4, L2 1/3, L3 2/3, L4 1/1 | Superiority Dice: 3/4 | Action Surge: 0/1 | Bladesong: 2/3 | Arcane Heat: 11** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong | Exhaustion: 0 | Inspiration: No**
@@ -2827,8 +3020,11 @@ Recommended package: Apply Fixed HP (+9), integrate the Bladesinger's Extra Atta
 > 👤 **Player:**
 > *"Don’t I already have those spells?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Aegis-Grimoire Bladesinger (Lvl 7 available) | HP: 58/58 (5 Temp) | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 1/3, L3 2/3, L4 1/1, Superiority: 3/4, Action Surge: 0/1, Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Haste, Bladesong, Pass Without Trace | Exhaustion: 0 | Inspiration: No**
@@ -2853,8 +3049,11 @@ This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target l
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
 [/SELECTED_CHOICE_CONTEXT]*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2874,8 +3073,11 @@ Prince Eric (Lvl 1) and Julian Santana (Lvl 2) are staring at you as if you're a
 > 👤 **Player:**
 > *"Ask the prince and duke son if they’re ok. They should be amazed as they actually saw the battle. Give them the same personality template there should massive atttaction and inferiority and jealously of my powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority Dice: 4/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Haste (1 min), Bladesong (1 min) | Exhaustion: 0 | Inspiration: No**
@@ -2903,8 +3105,11 @@ Gideon Vane (Lvl 6) rumbles forward, his massive shield planting itself between 
 God Mode:
 Mask I should mask level 1 or 2? What’s a normal for academy student ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Royal Magic Academy Training Grounds - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **Superiority Dice: 4/4, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Haste | Exhaustion: 0 | Inspiration: No**
@@ -2931,8 +3136,11 @@ If you choose Level 1, I will update your 'Spoofed Status Board' to permanently 
 > 👤 **Player:**
 > *"Mask level 1 and narrate new scene where I ask prince and duke son if they’re ok. They should have mixed reactions. Massive attraction since I’m amazingly good looking and impressive but also feel inferior. If you didn’t already give them detailed personality template"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Bladesong (Active), Haste (Active - 1 min), Mask: Level 1 | Inspiration: No**
@@ -2982,8 +3190,11 @@ Julian Santana (Lvl 2) is even worse. His ENTJ analytical mind is currently expe
 God Mode:
 Adjust this a bit. Dont make them evil they should be neutral or good and not overtly antagonistic. The jealously should be subtle.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority Dice: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **[None] | Exhaustion: 0 | Inspiration: No**
@@ -3008,8 +3219,11 @@ Confirmed: All 'Evil' or 'Antagonistic' tags have been purged from their dossier
 > 👤 **Player:**
 > *"Redo narrative with their new personalities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, Action Surge: 1/1, Exhaustion: 0**
@@ -3038,8 +3252,11 @@ Gideon Vane (Lvl 6) rumbles forward, his massive shield planting itself between 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Prisoners - Utilize the surrendering mercenaries' primal fear of you to extract the name of their contractor before Gideon interferes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:12)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 25605/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sup. Dice: 4/4 | Bladesong: 3/3 | AHI: 16**
@@ -3080,8 +3297,11 @@ Gideon's interference creates a sudden 'data-collision.' The mercenaries, seeing
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Nina (Social) - Subtly signal Nina to use her 'resonance' to intimidate them into speaking, making it look like her idea.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:17)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 25855/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Sup. Dice: 4/4, Bladesong: 2/3** &nbsp;|&nbsp; ⚠️ **Haste (Concentration), Dusk-Weaver Sonata (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3114,8 +3334,11 @@ Nearby, Prince Eric (Lvl 1) and Julian Santana (Lvl 2) are frozen in a tableau o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Nina (Social) - Subtly signal Nina to use her 'resonance' to intimidate them into speaking, making it look like her idea.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:22)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3147,8 +3370,11 @@ You gain **1,100 XP** for extracting the contractor's identity and securing the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Inquisitor Data - Press the mercenaries for the exact arrival time and strength of Malakai's containment squad.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:22)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3 | Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Haste (Concentration) | Exhaustion: 0 | Inspiration: No**
@@ -3182,8 +3408,11 @@ Nearby, Prince Eric (Lvl 1) stares at you with a face as red as a summer berry, 
 > 👤 **Player:**
 > *"Tell the prince and duke son what I heard about Malakai and say the noble family he represents probably has it inside them and in parallel signal Nina to keep interrogating. Give the guards an intimating look too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Haste (Active), Bladesong (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3220,8 +3449,11 @@ In parallel, you execute a sharp, two-finger tap against your Mythril rapier. Th
 God Mode:
 Something doesn’t make sense. Malaki is a public figure I don’t think he’d kidnap the prince’s when the advance squad failed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Haste (Active), Dusk-Weaver's Sonata | Exhaustion: 0 | Inspiration: No**
@@ -3241,8 +3473,11 @@ Administrative logic recalibration successful. You are correct: Grand Inquisitor
 God Mode:
 Did i use that much magic? I think you just forgot to reset my AHI?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Action Surge: 1/1 | Heat: 5/21** &nbsp;|&nbsp; ⚠️ **Haste (Active), Dusk-Weaver Sonata (Active) | Exhaustion: 0 | Inspiration: No**
@@ -3259,8 +3494,11 @@ Administrative correction acknowledged. You are correct, Lady Sylphina. While yo
 God Mode:
 just give me ASI points per spell slot level ie. 3rd level spell slot is 3 points, lets also assuume malaki abandons his plan since the initial thing failed, he cant just capture me and a duke and a prince now that the original cannon fodder squad failed. before he was planning on arrving too late to save people then redirecting invistigation into our kidnapping
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3 | Action Surge: 1/1 | Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **Haste (Active), Bladesong (Active) | AHI: 5**
@@ -3284,8 +3522,11 @@ Grand Inquisitor Malakai has abandoned the 'Protective Custody' protocol. Upon r
 God Mode:
 no undo those ASI points, I meant the attention points. if i cast a level 3 spell i get 3 attention points. At 25 points suspiciosn and 50 peopel seek me and 75+ i really stand out across city and 100 a country
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (5 Temp) | Attention: 5/100 | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 2/2, Superiority: 4/4, Action Surge: 1/1, Attention: 5/100**
@@ -3312,8 +3553,11 @@ Administrative rollback and system recalibration successful.
 God Mode:
 shield should be level 1 and cantrips are free, lets resume narrate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:27)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Haste (1 min), Bladesong (1 min) | Exhaustion: 0 | Inspiration: No**
@@ -3342,8 +3586,11 @@ He begins ushering you all toward the grove's exit, his massive shield held high
 > 👤 **Player:**
 > *"accept offer to speak to king and lets assume both princes will try to court me and compete and they both invite me to dinner and to meet their fathers. narrate their age too they should be older since they are normal academy studuents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Royal Magic Academy - Eastern Groves** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Sup. Dice: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Mask: Lvl 1 Novice | Attention: 5/100**
@@ -3378,8 +3625,11 @@ Gideon Vane (Lvl 6) rumbles from behind his shield, entirely oblivious to the pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Prince Eric's Palace Dinner - Visit the Royal Palace to meet King Rex and secure a sovereign-level anchor against House Malves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3423,8 +3673,11 @@ From the center of the terrace, King Rex von Esfort (Lvl 16) watches the tableau
 > 👤 **Player:**
 > *"lets assume the heirs tell their parents I actaully am strong and saved them, narrate it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Attention: 5/100** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3451,8 +3704,11 @@ King Rex (Lvl 16) remains motionless, his hand tightening slightly on the railin
 > 👤 **Player:**
 > *"acck the truth. Explain I've been gifted with magic since i was young"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (19:16)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3492,8 +3748,11 @@ Duke Santana leans forward, his eyes narrowed with the financial intensity of a 
 God Mode:
 lets remove my mathematical language, make me sound more normal and more like a modest noble
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3513,8 +3772,11 @@ State constraints updated to reflect the 'Modest Noble' persona.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Strategic Alliance - Offer your 'research insights' to the King in exchange for absolute sovereign protection from House Malves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3598,8 +3860,11 @@ gold	2090
   • Gold: 2090
   • Backpack: ['__DELETE__', {'used': 1, 'name': 'Healing Potion (Greater)'}]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Attention: 5/100 | XP: 26955/34000** &nbsp;|&nbsp; ✨ **Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -3615,8 +3880,11 @@ Administrative restoration of magical circuits and class features complete for L
 > 👤 **Player:**
 > *"use dimension door to prove my maigc and lets also assume my attention points and reduced after short rest and halfed after long rest and over time they decay, make up some reasonable numbers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3645,8 +3913,11 @@ King Rex (Lvl 16) exhales a long, slow breath, his pragmatic gaze finally acknow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solidify the Sovereign Pact - Press the King for an explicit decree of protection while he is still reeling from the display.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, Year 525 EK (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 26955/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3671,8 +3942,11 @@ Nearby, Julian Santana (16, Lvl 2) is staring at you with a hunger that is no lo
 > 👤 **Player:**
 > *"Demonstrate absolute containment and mask my level and mana again. Also this shouldn’t be that hard. I’m some noble girl and king shouldn’t be that against protecting me from a house that tried to kidnap the price and duke son"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Royal Palace of Esfort - Star-Bloom Terrace** &nbsp;|&nbsp; ⏳ **Azure Moon 1, 525 EK (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 (Temp: 5) | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3, L3 3/3, L4 2/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3711,8 +3985,11 @@ Julian Santana (16, Lvl 2) is breathless, his eyes burning with an attraction th
 > 👤 **Player:**
 > *"Long rest and narrate my first day school. Let’s slow things down and make it more slice of life vs extistential threats"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Silford Estate - Sylphina's Chambers** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Attention: 4/100** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3732,8 +4009,11 @@ You offer a small, shy smile. The Architect is well-hidden beneath the silver-ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attend the Opening Ceremony - Sit quietly in the 'remedial' section and endure the Headmaster's long speech to reinforce your mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Royal Magic Academy - Great Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3766,8 +4046,11 @@ Eric is seated three rows ahead in the 'High-Noble' block, but he has spent more
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Acknowledgement (Eric) - Give the Prince a small, shy smile when he next looks back. This will likely overload his ISFP sensitivity but cement your social anchor with the Royal family.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Royal Magic Academy - Great Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, Year 525 EK (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3805,8 +4088,11 @@ By the exit, Gideon Vane (Lvl 6) rumbles a quiet, disapproving huff, his hand re
 > 👤 **Player:**
 > *"Analyze faculty but look for anything that stands out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Royal Magic Academy - Great Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Level 1 Mask (Active) | Attention Points: 5/100**
@@ -3838,8 +4124,11 @@ Malakor doesn't look at the Headmaster. His eyes drift across the sea of student
 God Mode:
 lets make this house malves thing more subtle or generate existential threats and plot elements later, ii want it more slice of life where i can enjoy my main characters secret power and people understimating her
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Royal Magic Academy - Great Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Ki: N/A, Rage: N/A, Potions: 1/1, Exhaustion: 0**
@@ -3870,8 +4159,11 @@ I have successfully reconfigured the campaign's structural narrative to prioriti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Malakor via Julian - Subtly nudge Julian's intellectual jealousy by asking him about Malakor's 'unique' history as a researcher, letting him do the digging for you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Royal Magic Academy - Great Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4 | Attention: 4/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3900,8 +4192,11 @@ By the exit, Gideon Vane (Lvl 6) lets out a quiet, disapproving grunt, his hand 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Endure the Ceremony - Continue sitting quietly to reinforce your 'remedial' status and allow your Attention Points to decay.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Royal Magic Academy - Great Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3919,8 +4214,11 @@ Around you, the whispers of students turn from the Headmaster to the news filter
 God Mode:
 i dont think i should be a remedial student because of my age. technically I am an "advanced" student but people doubt me and think its just some nepotism that got me in. Also who is gideon?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Royal Magic Academy - Great Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Attention Points: 3 (Low) | Inspiration: No**
@@ -3947,8 +4245,11 @@ Your placement has been corrected. You are NOT in a remedial class. Technically,
 > 👤 **Player:**
 > *"narrate my first class, i just g oto normal classes and i dont really get to choose i have to go to them in order. if i dont go them I am "skipping" and technicalyl shouldnt do it too much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Superiority: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Attention: 3/100**
@@ -3968,8 +4269,11 @@ He doesn't look at you directly, but you feel his clinical, cold presence scanni
 God Mode:
 lets assume everyone thinks I'm rich and spoiled, because even the prince and duke's son dont have guards actually inside the school
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Ki: 0/0 | Rage: 0/0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Level 1 Mask (Novice) | Attention: 3 (Low) | Inspiration: No**
@@ -3988,8 +4292,11 @@ The story remains frozen at the start of Professor Malakor's lecture. Ready to r
 > 👤 **Player:**
 > *"try to find any hidden lessons and read between the lines"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, Year 525 EK (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4016,8 +4323,11 @@ Julian Santana (16, Lvl 2) is hunched over his notes, his quill moving in a fran
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtly Probe Julian's Notes - Ask Julian for 'help' with a specific passage, using his notes to see how much of the hidden logic he has successfully decoded.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Attention: 2/100**
@@ -4046,8 +4356,11 @@ Sylphina feels a cold, distant 'Null' gaze occasionally flickering from the Cath
 > [!NOTE] ⚙️ **Player Choice:**
 > *Nudge the Solution - Point to a 'random' ink smudge on his notes that actually highlights the error in his recursive loop, helping him solve it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1, Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4084,8 +4397,11 @@ From the dais, Professor Malakor (Lvl 9) stops mid-sentence. The matte-black sto
 > [!NOTE] ⚙️ **Player Choice:**
 > *Academic Diversion - Raise your hand and ask Professor Malakor a 'naive' but technically complex question about the First King's blizzards to force his focus back onto the lecture and away from Julian's notes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 EK (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4124,8 +4440,11 @@ Beside you, Gideon Vane (Lvl 6) lets out a proud, quiet huff, his shadow falling
 > 👤 **Player:**
 > *"feign confusion and then ask some other questions to actually learn magical secrets from professor by make it seem accidental"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Day 2, 525 Azure Moon (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority Dice: 4/4, Bladesong: 3/3, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4164,8 +4483,11 @@ Beside you, Gideon Vane (Lvl 6) lets out a soft, proud huff, his shadow falling 
 > 👤 **Player:**
 > *"keep going, ask some questions to learn more powerful spells or useful magic things but masked as dumb questions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Day 2, 525 Azure Moon (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27455/34000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **Level 1 Mask (Active) | Attention Points: 2/100 | Inspiration: Yes**
@@ -4204,8 +4526,11 @@ He begins to detail the foundational frequency for `Mind Blank` and `Nondetectio
 > 👤 **Player:**
 > *"keep going but back off if he gets too suspicion, try to learn as much as  Ican and gain exp from the magic and maybe even a new spell or two"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Day 2, 525 Azure Moon (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 27905/34000** &nbsp;|&nbsp; ✨ **Superiority Dice: 4/4, Bladesong: 3/3, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Attention: 4/100** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4240,8 +4565,11 @@ You have extracted enough code to understand the concept of 'Ghost Anchors.' Whi
 > 👤 **Player:**
 > *"lets assume i have a photographic memory, i process all the new info in the background and see what i can learn and give me exp thats reasonable. Then I do lunch with adoring heirs, lets assume others are jealous, especially women, and create some slice of life rivals/antagonists. They are jealous of my beauty and noble tier, even if they think I'm incompetent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Royal Magic Academy - Refectory** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 AC (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 29105/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4266,8 +4594,11 @@ Nearby, Gideon rumbles a low, warning growl in his chest, his hand resting on th
 > 👤 **Player:**
 > *"modest noble deflection, and see if eric or julian say something. lets assume gideon is further away and doesnt hear. He's always in eyesight of me or has one of my other companions watching but doesnt always just stand right next to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Royal Magic Academy - Refectory** &nbsp;|&nbsp; ⏳ **Day 2, 525 Azure Moon (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 29105/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Attention: 1**
@@ -4306,8 +4637,11 @@ Beatrice's face pales as the two most powerful heirs in the room turn on her. Sh
 God Mode:
 lets assume sometimes gideon is around and if he hears something obviously mean he will always verbally defend, but sometimes he won't notice subtle social barbs and other times he ight be. futher away and not realize whats going on
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Royal Magic Academy - Refectory** &nbsp;|&nbsp; ⏳ **Day 2, 525 Azure Moon (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 29105/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, AP: 2/25** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4324,8 +4658,11 @@ This update ensures that your 'Modest Noble' persona can engage in complex socia
 > 👤 **Player:**
 > *"give my rivals a quiet smile and shrug, maintain the mask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Royal Magic Academy - Refectory** &nbsp;|&nbsp; ⏳ **Day 2, 525 Azure Moon (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 29105/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4 | Attention: 1/100** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4354,8 +4691,11 @@ Ten paces away, Gideon Vane (Lvl 6) remains stationary by the marble pillar. He 
 > 👤 **Player:**
 > *"compliment them both, acting above it all. Lets assume I can use my int modifier for intellectual based social checks. I give them compliments on their magical tchnique"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Royal Magic Academy - Refectory** &nbsp;|&nbsp; ⏳ **Day 2, 525 Azure Moon (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Gestalt | HP: 67/67 | Gold: 2090gp | XP: 29105/34000** &nbsp;|&nbsp; ✨ **Superiority: 4/4, Bladesong: 3/3, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, AP: 2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4392,8 +4732,11 @@ Suddenly, the heavy ivory doors of the refectory swing open. A group of excited 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Feign Excitement for the Saintess - Join the student gossip about Saintess Hinata to further humanize your mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Royal Magic Academy - Refectory** &nbsp;|&nbsp; ⏳ **Azure Moon 2, 525 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Ki: N/A, Rage: N/A, Potions: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4433,8 +4776,11 @@ You gain **350 XP** for successfully humanizing the mask and outmaneuvering the 
 > 👤 **Player:**
 > *"Accept eric escort and observe prep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **S-Class Dormitory Entrance** &nbsp;|&nbsp; ⏳ **Azure Moon 3, 525 AC (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Attention: 1/100** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4454,8 +4800,11 @@ Prince Eric (15, Lvl 1) arrives exactly on time, his royal cloak meticulously br
 God Mode:
 You’re too obvious with Myers Briggs stop mentioning it explicitly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **S-Class Dormitory Entrance** &nbsp;|&nbsp; ⏳ **Azure Moon 3, 08:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4467,8 +4816,11 @@ I have added an absolute constraint to the campaign state to ensure this rule is
 > 👤 **Player:**
 > *"Scan entourage and proceed ceremony with Eric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1, Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4509,8 +4861,11 @@ Hidden beneath the ceremonial silks of the Saintess's personal guard, you detect
 God Mode:
 Make Gideon less one dimensional. Let’s assume he is a lawful good and man of honor but secretly resents nobles for their privileges. However he notices I never look down on him or anyone else and truly has loyalty and respect for me even if he doesn’t believe I am powerful. Flesh him out a bit
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Royal Magic Academy - S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Day 4, 525 Azure Moon (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Attention: 3 | XP: 29455/34000** &nbsp;|&nbsp; ✨ **Superiority Dice: 4/4, Bladesong: 3/3, Action Surge: 1/1, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1**
@@ -4539,8 +4894,11 @@ Because he respects your character so deeply, his desire to protect you is now p
 God Mode:
 Let’s assume he’s a complex character. He doesn’t want to serve most nobles but he will do it for a paycheck and show zero resentment however he honestly hopes my father will retain him and he can serve me for the rest of his life and he enjoys servitude of “true nobility”
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Azure Moon 3, 08:35:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority: 4/4 | Attention: 3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4556,8 +4914,11 @@ Gideon Vane's psychological profile has been updated to the 'Devoted Servant' ma
 > 👤 **Player:**
 > *"Subtle ward sabotage and signal my magic tutors to sabotage and then proceed with ceremony. Do an act of kindness for Gideon like bring him a glass of water and some food since I noticed he didn’t eat yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1, Superiority: 4/4, Attention: 2/100** &nbsp;|&nbsp; ⚠️ **Masked (Lvl 1) | Exhaustion: 0 | Inspiration: No**
@@ -4597,8 +4958,11 @@ You catch Nina's (Lvl 6) eye through the crowd of white-robed priests. You execu
 > 👤 **Player:**
 > *"Observe the blessing. In parallel inquire Gideon about his daughter. Let’s assume he has a sick daughter and it’s expensive to take care of her but due to his pride he wouldn’t take extra money from me since he’s worried I would get in trouble. Let’s assume I also say perhaps I can learn some healing magic here or ask a teacher to help her. Gideon is honored by my intent but he doesn’t truly believe I can use advanced healing magic or convince a teacher to help for free but he truly does appreciate it. I actually remind him of his daughter and was the only noble to ever visit her so it makes him appreciate me more"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Azure Moon 3, 525 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Attention: 2/100** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4628,8 +4992,11 @@ Suddenly, the carriage doors swing open. Saintess Hinata (Lvl 15) emerges, a vis
 > 👤 **Player:**
 > *"Press argument with Gideon. Tell him I can give him all my gold to help. He is genuinely touched but he knows my father would be angry and cannot accept so he politely declines. Then let’s assume when I greet the saint I say something about her magic that makes me stand out. I then ask about his daughters condition without being explicit and ask the saint if such conditions can be healed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **Bladesong: 3/3, Superiority Dice: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, AP: 2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4670,8 +5037,11 @@ On the far dais, Professor Malakor (Lvl 9) suddenly turns his ashen-grey eyes to
 > 👤 **Player:**
 > *"I think my roll should be better and use my int modifier in a persuasion attempt? Let’s also assume o used some magic like friends 1d20+6 = 4 vs DC 15 - Failure (Saintess Greeting (Intellectual Insight))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 29455/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Superiority: 4/4** &nbsp;|&nbsp; ⚠️ **Modest Mask, 'Friends' Active | Exhaustion: 0 | Inspiration: No**
@@ -4705,8 +5075,11 @@ You gain **450 XP** for successfully intriguing the Saintess with your intellect
 God Mode:
 Remember I am not remedial I am in S class. Let’s also give my other two tutors complex back stories
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 29455/34000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Attention: 2 (Low)**
@@ -4733,8 +5106,11 @@ I have successfully reinforced your Academy status and generated complex, multi-
 > 👤 **Player:**
 > *"Inquire more with the saintess and ask if perhaps I could learn from her after class. Say I want to heal a good friend of mine. Let’s assume this is easy DC since the saintess likes helping people and she might even offer to personally help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1, Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4770,8 +5146,11 @@ You gain **800 XP** for securing the Saintess's personal assistance and teaching
 God Mode:
 Stop saying remedial student you keep getting it wrong
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Royal Magic Academy - Inner Gardens** &nbsp;|&nbsp; ⏳ **525 Azure Moon 3, 09:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Superiority Dice: 4/4, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4790,8 +5169,11 @@ Administrative correction applied. I apologize for the persistent error regardin
 > 👤 **Player:**
 > *"Accept visit gracefully and time skip through class and narrate what happens in between. Assume during class I also a lot of intelligent questions to learn healing magic and Malakor isn’t around so no one gets suspicious. Then on the journey I keep asking questions. I decide not to mask so the saintess realizes I am actually a prodigy. Then narrate her visit to gideons home"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Gideon's Home - Lower Capital District** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Superiority: 4/4 | Attention: 6** &nbsp;|&nbsp; ⚠️ **Unmasked Presence (High Resonance) | Exhaustion: 0 | Inspiration: No**
@@ -4827,8 +5209,11 @@ Celia (Lvl 1), a girl with silver hair that mirrors your own but lacks its luste
 God Mode:
 Reduce Malakor attention I want this to be more like slice of life
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Gideon's Home - Lower Capital District** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Attention: 1/100** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4851,8 +5236,11 @@ Confirmed: Professor Malakor is no longer a localized threat to your mask.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Scan: Celia's Resonance - Use your unmasked perception to identify the exact structural error in her blood before any magic is spent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Gideon's Home - Lower Capital District** &nbsp;|&nbsp; ⏳ **Azure Moon 3, 525 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, AP: 16/100** &nbsp;|&nbsp; ⚠️ **Unmasked (True Mana Radiating) | Exhaustion: 0 | Inspiration: Yes**
@@ -4881,8 +5269,11 @@ Gideon Vane (Lvl 6) sinks to his knees, his forehead touching the floor as he we
 > 👤 **Player:**
 > *"Harmonic guidance and in parallel learn as much as I can from the saint. Since the saint is level 15 let’s assukr"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Gideon's Home - Lower Capital District** &nbsp;|&nbsp; ⏳ **Azure Moon 3, 17:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | SD: 4/4** &nbsp;|&nbsp; ⚠️ **Unmasked (Sovereign Resonance) | Inspiration: Yes**
@@ -4918,8 +5309,11 @@ You gain **1,540 XP** for saving Celia and absorbing the Saintess's high-tier re
 > 👤 **Player:**
 > *"Reinforce mask with saintess and try to deflect credit. Let’s assume it sort of works but it’s obvious to her I’m a prodigy. Narrate Gideon external and internal reaction. Externally he’s overjoyed and internally he realizes beyond  a noble heart I am  truly capable. Most 12 year old girls wouldn’t be able to get a saintess to help and assist with healing magic. He won’t believe in my combat potential for now but he can see me becoming a true ruler and benefiting humanity he thinks internally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Gideon's Home - Lower Capital District** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1, Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4954,8 +5348,11 @@ Internally, however, the honorable cynic's mind is executing a far more complex 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Speak with Celia and let’s assume has servants ready to bring her food and make her comfortable. I personally feed her and ask her how she’s doing. Let’s assume Celia really looks up to me and sees through my mask from the beginning and knows I have elite capabilities and has some child wisdom/perception*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Gideon's Home - Lower Capital District** &nbsp;|&nbsp; ⏳ **Azure Moon 3, 525 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -4993,8 +5390,11 @@ Saintess Hinata (Lvl 15) stands by the door, her radiant eyes fixed on you with 
 > 👤 **Player:**
 > *"Return tot he academy and tell Gideon to take the day off and Millie and the other tutor can watch me. And the saintess can protect me. Let’s assume he accepts and on the way back I keep learning from saintess about divine magic. Even if I am talented let’s assume she does know more than me as a level 15. She encourages me and knows I’ll be a major player as I grow older. Narrate Gideon internal thoughts too. He realizes perhaps I will be one of the greatest nobles of my age"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Royal Magic Academy (Transit)** &nbsp;|&nbsp; ⏳ **Day 3, 525 Azure Moon (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5018,8 +5418,11 @@ As the carriage passes through the Academy gates, the rhythmic pressure of the c
 > 👤 **Player:**
 > *"Analyze divine restoration. Long rest. Narrate a scene without me. Gideon is overjoyed at his daughter’s recovery. He then tells her that will be an important force of good in the world and both he and his daughter should support me. And to think of me as a role model. Narrate this scene without me there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Royal Magic Academy Dormitories** &nbsp;|&nbsp; ⏳ **Day 4, 525 Azure Moon (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 30255/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Well-Rested | Exhaustion: 0 | Inspiration: No**
@@ -5049,8 +5452,11 @@ Gideon closes his eyes, a silent vow of absolute, unwavering support anchoring h
 > 👤 **Player:**
 > *"Let’s assume my father isn’t an evil noble but isn’t particularly nice to servants and hirlings either and is like a normal noble. So Gideon Millie and the other tutors don’t resent him but don’t love him either. However they all know I’m different. Narrate a scene without me where they all discuss me and Gideon happily recounts the miracle of how i got the saint to heal his daughter and even assisted with magic. The others are shocked I could assist a level 15 saint"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Royal Magic Academy Dormitories** &nbsp;|&nbsp; ⏳ **Day 4, 525 Azure Moon (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Attention: 1 | XP: 30255/34000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bladesong: 3/3 | Action Surge: 1/1 | Superiority: 4d8**
@@ -5086,8 +5492,11 @@ Millie and Nina share a long, heavy look. The 'laboratory' of their lives has ju
 > 👤 **Player:**
 > *"Seek saintess mentorship. Assume it’s easy DC. The saintess knows I am a legendary genius."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Academy Gardens** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30405/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1, SD: 4/4, AP: 0** &nbsp;|&nbsp; ⚠️ **Level 1 Mask (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5115,8 +5524,11 @@ You gain **150 XP** for internalizing the Saintess's restorative logic over the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Prince Eric as Social Cover - Invite Prince Eric to join your 'study sessions' with the Saintess, using his royal status to provide a legitimate excuse for frequent meetings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Academy Gardens** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30905/34000** &nbsp;|&nbsp; ✨ **Bladesong: 3/3, Action Surge: 1/1, Superiority Dice: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5154,8 +5566,11 @@ You gain 500 XP for securing a Royal social anchor.
 God Mode:
 Omg stop this remedial thing
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Academy Gardens** &nbsp;|&nbsp; ⏳ **Day 6, 525 Azure Moon (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30905/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Ki: 0/0, Rage: 0/0, Potions: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -5175,8 +5590,11 @@ I hear you loud and clear. The 'remedial' tag has been causing a logic loop that
 God Mode:
 Purge 'Remedial' Logic - Permanently ban the term 'remedial' and enforce S-Class Elite standing in all future turns.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Academy Gardens** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30905/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bladesong: 3/3, Action Surge: 1/1, Superiority Dice: 4/4, Attention: 1/100** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5198,8 +5616,11 @@ The campaign's structural logic has been successfully sanitized to align with yo
 > 👤 **Player:**
 > *"Give Julian some attention too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **S-Class Lecture Hall** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30905/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Ki: N/A, Rage: N/A, Potions: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Level 1 Mask, S-Class Elite | Exhaustion: 0 | Inspiration: No**
@@ -5234,8 +5655,11 @@ Julian's breath hitches, his heart rate spiking as the 'social anchor' clicks in
 > 👤 **Player:**
 > *"time skip this class and narrate another class, I'm t ired of malakor classes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Academy West Training Grounds** &nbsp;|&nbsp; ⏳ **Azure Moon 5, 525 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 30905/34000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5265,8 +5689,11 @@ Gideon Vane (Lvl 6) remains ten paces back, his shadow stretching across the gra
 > 👤 **Player:**
 > *"analyze training dummies, then do it the right way, but aim for top 10% of class vs true power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Academy West Training Grounds** &nbsp;|&nbsp; ⏳ **Azure Moon 5, 525 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 30905/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, AP: 1/100** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5303,8 +5730,11 @@ As you finish the drill, the Academy's bells toll a deep, resonant note. A colum
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Tenebris about 'Advanced Threading' - Use your success to ask a technically complex but 'innocently' phrased question about mana-fiber elasticity to extract more data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Academy West Training Grounds** &nbsp;|&nbsp; ⏳ **Azure Moon 5, 525 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 31305/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5338,8 +5768,11 @@ She begins to detail the mathematical coefficients of mana-fiber resonance, fram
 > 👤 **Player:**
 > *"for all of these insights i think when i learn stuff i should get new spells or improved spells. lets have me keep asking advanced questions but roll deception checks to mask them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Academy West Training Grounds** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 32405/34000** &nbsp;|&nbsp; ✨ **Superiority Dice: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Attention: 1/100** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5378,8 +5811,11 @@ You gain **1,100 XP** for successfully extracting high-tier combat logic while m
 > 👤 **Player:**
 > *"keep asking questions but stay subtle, narrate how it goes, time skip to next class"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Academy West Training Grounds -> Academy S-Class Lecture Wing** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 33655/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5429,8 +5865,11 @@ As the class concludes, you notice a man in a sharp, slate-grey House Malves coa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate the Heirs' Favor - Invite Prince Eric and Julian to a 'study circle' to discuss the morning's lessons, further anchoring them as my social shields.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Academy S-Class Lecture Wing** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 33695/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, Bladesong: 3/3, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5461,8 +5900,11 @@ As you glide toward the dormitory, your photographic memory executes a backgroun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initialize Study Session - Begin the first formal meeting of the study circle, focusing on 'Vector Acceleration' research while pretending to struggle with basic bolt-weaving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **West Wing Royal Library** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2,090gp | XP: 35095/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -5493,8 +5935,11 @@ Status: 85% Compiled. One more successful session or practical test required to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Santana Secrets - Subtly ask Julian about his father's 'mining ledgers' under the guise of wondering where the Mythril for the dummies comes from.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **West Wing Royal Library** &nbsp;|&nbsp; ⏳ **Day 5, 525 Azure Moon (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger | HP: 67/67 | Gold: 2090gp | XP: 35095/34000** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Superiority: 4/4, Bladesong: 3/3, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5528,8 +5973,11 @@ Beside him, Prince Eric (15, Lvl 1) nods frantically, his bashful face set with 
 > 👤 **Player:**
 > *"conclude study session, time skip until weekend where I will go adventurig, narrate in detail what happens"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger (Lvl 8 available) | HP: 67/67 | Gold: 2,090gp | XP: 35095/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Superiority Dice: 4/4 | Action Surge: 1/1 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5574,8 +6022,11 @@ Inside your mind, the 'Vector Acceleration' script reaches 100% compilation. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 8 - Commit to Level 8 advancement immediately to unlock 'Runic Overdrive' and extra HP before entering the Crags.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 (Lvl 8 available) | HP: 67/67 | Gold: 2,090gp | XP: 35095/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 (Level 8 pending) | Superiority Dice: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5593,8 +6044,11 @@ Recommended package:
 > 👤 **Player:**
 > *"dont i get an ASI? if so I do cha +2"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Aegis-Grimoire Bladesinger (Lvl 8 available) | HP: 67/67 | Gold: 2,090gp | XP: 35095/34000** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3 | Superiority Dice: 4/4 | Bladesong: 3/3 | Action Surge: 1/1 | AP: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5614,8 +6068,11 @@ How shall we optimize your eighth circle, Lady Sylphina?
 God Mode:
 undo this, i want ASI/feats at normal levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Day 10, 525 Azure Moon (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aegis-Grimoire Bladesinger | HP: 76/76 | Gold: 2090gp | XP: 35095/48000**
@@ -5634,8 +6091,11 @@ Your character is now fully synchronized at Level 8 with the standard ASI progre
 God Mode:
 Keep everything else the same for my custom clsss but give me asi at normal times
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aegis-Grimoire Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 35095/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Superiority Dice: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5658,8 +6118,11 @@ I have successfully anchored the rule that Lady Sylphina will follow standard D&
 > 👤 **Player:**
 > *"Return to story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aegis-Grimoire Bladesinger | HP: 76/76 | Gold: 2090gp | XP: 35095/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1, Superiority Dice: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5683,8 +6146,11 @@ You board the carriage, and as the wheels begin to turn toward the jagged silhou
 God Mode:
 think we were adventuring?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aegis-Grimoire Bladesinger | HP: 76/76 | Gold: 2090gp | XP: 35095/48000**
@@ -5707,8 +6173,11 @@ The story is currently paused at the moment the carriage door closes. You are re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the departure for the Whispering Crags.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Day 10, 525 Azure Moon (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 35095/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5735,8 +6204,11 @@ Inside your mind, the 'Vector Acceleration' script is a masterpiece of completed
 > 👤 **Player:**
 > *"prepare and then start the quest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 35095/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Level 1 Mask Active | Exhaustion: 0 | Inspiration: No**
@@ -5763,8 +6235,11 @@ You attempt to project a surgical sensory probe into the cave mouth to map the s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ghost Entry (Pass Without Trace) - Utilize your +21 Stealth to lead the party into the primary shaft undetected by the 'mirror' script.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2090gp | XP: 35095/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5793,8 +6268,11 @@ Inside, the shaft descends at a steep, 45-degree angle. The walls are not stone,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Deconstruction - Use your parallel circuits to silently 'un-stitch' the siphon's anchor points one by one.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Day 10, 525 Azure Moon (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 35895/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5827,8 +6305,11 @@ With each clinical deletion, the oppressive pressure in the room drops. The rhyt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest Mythril Specimen - Collect a sample of the North Gracia mythril for your alchemical spell-ink research.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 36195/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Ki: 0/0 | Rage: 0/0 | Potions: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5864,8 +6345,11 @@ With a precise, soundless twist, you pry a fist-sized cluster of iridescent, sil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comfort Millie - Notice her continued distress and offer a kind, modest word to lower her social defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2090gp | XP: 36195/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Superiority: 4/4 | Action Surge: 1/1 | Bladesong: 3/3 | Gold: 2090gp** &nbsp;|&nbsp; ⚠️ **Pass Without Trace | Exhaustion: 0 | Inspiration: No**
@@ -5897,8 +6381,11 @@ Nearby, Gideon Vane (Lvl 6) watches the interaction, his armored chest-plate let
 > [!NOTE] ⚙️ **Player Choice:**
 > *Explore Deeper - Use your sensory circuits to find where the 'Black Sun' signature leads deeper into the crags.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Day 10, 525 Azure Moon (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aegis-Grimoire Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 36495/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1 | Superiority: 4/4 | Bladesong: 3/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5925,8 +6412,11 @@ Nina (Lvl 6) leans in, her elven ears twitching as she surreptitiously probes th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Gate Logic (Think Mode) - Enter Think Mode to perform a deep-system audit of the displacement script for potential exploits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **10, 525 Azure Moon (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aegis-Grimoire Bladesinger | HP: 76/76 | Gold: 2090gp | XP: 36495/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, L5 1/1 | Bladesong: 3/3 | Superiority: 4/4 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5938,8 +6428,11 @@ Your parallel circuits perform a Masterful audit of the granite facade. The logi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit Temporal Drift (Recommended) - Utilize your 12.8ms lag window to lead the party through the refraction without touching the code. Absolute stealth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Day 10, 525 Azure Moon (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 36870/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1, Superiority: 4/4, Exhaustion: 0**
@@ -5980,8 +6473,11 @@ Below, dark-robed Cultists of Aaron (Lvl 4-5) move with clinical precision, over
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Ambush - Use your Assassinate protocol to neutralize the primary overseers before they can activate the factory's defensive scripts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Day 10, 525 Azure Moon (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Aegis-Grimoire Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 36870/48000** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1 | Superiority: 4/4 | Surge: 0/1 | Heat: 0** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (+10 Stealth), Umbral Sight (Invisible), Hasted | Inspiration: Yes**
@@ -6010,8 +6506,11 @@ Note: The Leviathan is immune to Critical Hits and its AC increases by +2 for ev
 > [!NOTE] ⚙️ **Player Choice:**
 > *Precision Strike (Battle Master) - Use a Superiority Die to find a structural flaw in the Leviathan's plating, attempting to Trip or Disarm it before its Count 10 turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 36870/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1, Superiority: 3/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Pass Without Trace | Exhaustion: 0 | Inspiration: No**
@@ -6041,8 +6540,11 @@ Leviathan STR Save: 1d20 + 8 = 15 vs DC 17 - **FAILURE**
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synchronized Deletion (Synergistic) - I strike the core while Millie and Nina launch a combined pincer attack on the leg joints.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Academy Front Gates** &nbsp;|&nbsp; ⏳ **Azure Moon 10, 525 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bladesinger | HP: 76/76 | Gold: 2,090gp | XP: 36870/48000** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2, L5 1/1, Superiority: 2/4, Action Surge: 0/1** &nbsp;|&nbsp; ⚠️ **Bladesong, Pass Without Trace | Exhaustion: 0 | Inspiration: No**
@@ -6063,6 +6565,8 @@ The Runic Leviathan's red light fades instantly. The massive chassis settles int
 
 [SYNERGY BONUS: Structural Lockdown]
 Your coordination has stilled the Leviathan's Count 10 turn entirely. It remains Prone and stilled for the remainder of this round, unable to activate its 'Kinetic Shock Absorption' increase.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

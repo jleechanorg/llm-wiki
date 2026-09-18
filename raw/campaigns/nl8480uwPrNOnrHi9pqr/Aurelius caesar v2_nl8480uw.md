@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (283 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Campaign Intro
@@ -366,299 +377,304 @@ The Action: You are standing in Piso's command tent. He has just given the order
 What do you do?
 A. The Tyrant: Use The Emperor's Voice. Terrify Piso into giving you better troops. B. The Seducer: Bribe the Centurions with your personal wealth to bypass Piso’s authority. C. The Warlord: Accept the mission with a smile, march out, and turn the "suicide mission" into a legendary victory using your Auctoritas.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Unknown | Unknown | Roleplay |
-| **02** | Capua | October 14, 40 BCE (10:15) | Roleplay |
-| **03** | Capua Sewers (Rebel Hideout) | September 12, 40 BCE (22:45) | Roleplay |
-| **04** | Capua Sewers (Lower Levels) | April 15, 40 BCE (09:15) | Roleplay |
-| **05** | Unknown | Unknown | Roleplay |
-| **06** | Unknown | Unknown | Roleplay |
-| **07** | Rebel Forest Camp (Vesuvius Slopes) | October 18, 40 BCE (06:30) | Roleplay |
-| **08** | Rebel Camp (Vesuvius Slopes) | April 18, 40 BCE (06:15) | Roleplay |
-| **09** | Rebel Camp (Vesuvius Slopes) | 40 BCE, Dawn (06:15:00) | Roleplay |
-| **10** | Rebel Camp (Vesuvius Slopes) | 40 BCE, Dawn (06:20:00) | Roleplay |
-| **11** | Lucullus Salt Mines (Perimeter) | April 18, 40 BCE (09:30) | Roleplay |
-| **12** | Lucullus Salt Mines (Ventilation Shafts) | 40 BCE, Morning (09:40:00) | Roleplay |
-| **13** | Lucullus Salt Mines (Ventilation Shafts) | Octobris 18, 40 BCE (09:45) | Roleplay |
-| **14** | Lucullus Salt Mines - Lower Maintenance Gallery | 40 BCE, Morning (09:47:30) | Roleplay |
-| **15** | Lucullus Salt Mines - Lower Maintenance Gallery | 40 BCE, Morning (09:49:15) | Roleplay |
-| **16** | Lucullus Salt Mines - Lower Maintenance Gallery | 10th Day, 40 BCE (09:50) | Roleplay |
-| **17** | Lucullus Salt Mines - Lower Maintenance Gallery | BCE 10, 40 BCE (09:55) | Roleplay |
-| **18** | Lucullus Salt Mines - Lower Maintenance Gallery | 10th Day, 40 BCE (09:56) | Roleplay |
-| **19** | Lucullus Salt Mines - High-Security Gatehouse | Mirtul 10, 40 BCE (09:58) | Roleplay |
-| **20** | Lucullus Salt Mines - High-Security Gatehouse | BCE 10, 40 BCE (09:58) | Roleplay |
-| **21** | Lucullus Salt Mines - High-Security Gatehouse | Day 10, 40 BCE (09:59) | Roleplay |
-| **22** | Lucullus Salt Mines - High-Security Gatehouse | Mirtul 10, 40 BCE (10:00) | Roleplay |
-| **23** | Lucullus Salt Mines - High-Security Gatehouse | Month 10, 40 BCE (Day 10) | Roleplay |
-| **24** | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | Month 10, 40 BCE (Day 10) | Roleplay |
-| **25** | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | 40 BCE, Morning 10:00:36 | Roleplay |
-| **26** | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | 40 BCE, Morning 10:00:42 | Roleplay |
-| **27** | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | BCE 10, 40 BCE (10:00) | Roleplay |
-| **28** | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | BCE 10, 40 BCE (10:00) | Roleplay |
-| **29** | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | 40 BCE, Morning (10:01:00) | Roleplay |
-| **30** | Lucullus Salt Mines - High-Security Cell Block | Day 10, 40 BCE (10:02) | Roleplay |
-| **31** | Lucullus Salt Mines - High-Security Cell Block | BCE 10, 40 BCE (10:02) | Roleplay |
-| **32** | Lucullus Salt Mines - High-Security Cell Block | BCE 10, 40 BCE (10:02) | Roleplay |
-| **33** | Lucullus Salt Mines - High-Security Cell Block | Day 10, 40 BCE (10:02) | Roleplay |
-| **34** | Lucullus Salt Mines - High-Security Cell Block | Mirtul 10, 40 BCE (10:02) | Roleplay |
-| **35** | Lucullus Salt Mines - High-Security Cell Block | Morning, 40 BCE (10:02) | Roleplay |
-| **36** | Lucullus Salt Mines - High-Security Cell Block (Collapsed Ruins) | Morning, 40 BCE (10:04) | Roleplay |
-| **37** | Lucullus Salt Mines - High-Security Cell Block (Collapsed Ruins) | Mirtul 10, 40 BCE (10:04) | Roleplay |
-| **38** | Lucullus Salt Mines - Collapsed High-Security Block | Month 10, 40 BCE (Day 10) | Roleplay |
-| **39** | Lucullus Salt Mines - Collapsed High-Security Block | Day 10, 40 BCE (10:25) | Roleplay |
-| **40** | Lucullus Salt Mines - Maintenance Crawlways | BCE 10, 40 DR (10:30) | Roleplay |
-| **41** | Lucullus Salt Mines - Upper Crawlways | 10, 40 BCE (10:45) | Roleplay |
-| **42** | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 BCE (10:45) | Roleplay |
-| **43** | Unknown | BCE 10, 40 DR (10:45) | Roleplay |
-| **44** | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 DR (10:45) | Roleplay |
-| **45** | Lucullus Salt Mines - Upper Crawlways | 40 BCE, 10:45:31 | Roleplay |
-| **46** | Unknown | BCE 10, 40 DR (10:45) | Roleplay |
-| **47** | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 DR (10:50) | Roleplay |
-| **48** | Lucullus Salt Mines - Upper Crawlways | 40 BCE, 10:50:00 | Roleplay |
-| **49** | Lucullus Salt Mines - Upper Crawlways | 10 Mirtul, 40 BCE (10:50) | Roleplay |
-| **50** | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 BCE (10:50) | Roleplay |
-| **51** | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 BCE (10:50) | Roleplay |
-| **52** | Unknown | BCE 10, 40 DR (10:50) | Roleplay |
-| **53** | Lucullus Salt Mines - Upper Crawlways (Junction) | Morning, 40 BCE (10:50) | Roleplay |
-| **54** | Lucullus Salt Mines - Upper Crawlways (Junction) | 40 BCE, Morning (10:50:48) | Roleplay |
-| **55** | Lucullus Salt Mines - Upper Crawlways (Junction) | Mirtul 10, 40 BCE (10:50) | Roleplay |
-| **56** | Lucullus Salt Mines - Upper Crawlways (Junction) | 40 BCE, Morning (10:51:00) | Roleplay |
-| **57** | Lucullus Salt Mines - Upper Crawlways (Junction) | Morning, 40 BCE (10:51) | Roleplay |
-| **58** | Lucullus Salt Mines - Upper Crawlways (Junction) | BCE 10, 40 BCE (10:52) | Roleplay |
-| **59** | Lucullus Salt Mines - Upper Crawlways (Junction) | BCE 10, 40 DR (10:52) | Roleplay |
-| **60** | Lucullus Salt Mines - Upper Crawlway Junction | BCE 10, 40 DR (10:52) | Roleplay |
-| **61** | Lucullus Salt Mines - Upper Ventilation Shaft | BCE 10, 40 DR (10:53) | Roleplay |
-| **62** | Mount Vesuvius - Upper Slopes | BCE 10, 40 BCE (10:53) | Roleplay |
-| **63** | Mount Vesuvius - Lower Treeline | BCE 10, 40 DR (10:55) | Roleplay |
-| **64** | Mount Vesuvius - Lower Treeline | October 10, 40 BCE (10:55) | Roleplay |
-| **65** | Mount Vesuvius - Lower Treeline | Day 10, 40 BCE (11:10) | Roleplay |
-| **66** | Mount Vesuvius - Limestone Caves | BCE 10, 40 DR (12:45) | Roleplay |
-| **67** | Mount Vesuvius - Limestone Caves | Day 10, 40 BCE (13:00) | Social Challenge |
-| **68** | Mount Vesuvius - Limestone Caves | BCE 10, 40 DR (21:00) | Social Challenge |
-| **69** | Unknown | BCE 10, 40 DR (21:00) | Roleplay |
-| **70** | Limestone Caves | 40 BCE, Night (21:00:01) | Roleplay |
-| **71** | Mount Vesuvius - Limestone Caves | Night, 40 BCE (21:00) | Roleplay |
-| **72** | Mount Vesuvius - Slopes toward Northwest Gulch | Night 10, 40 BCE (21:25) | Roleplay |
-| **73** | Mount Vesuvius - The Limestone Cleft | BCE 10, 40 DR (21:30) | Roleplay |
-| **74** | Mount Vesuvius - The Limestone Cleft | Night, 40 BCE (21:35) | Roleplay |
-| **75** | Mount Vesuvius - The Limestone Cleft | Night, 40 BCE (21:35) | Roleplay |
-| **76** | Mount Vesuvius - The Limestone Cleft | BCE 10, 40 BCE (21:36) | Roleplay |
-| **77** | Mount Vesuvius - The Northwest Gulch | 40 BCE, Night 21:40:00 | Roleplay |
-| **78** | Mount Vesuvius - The Northwest Gulch | BCE 10, 40 DR (22:40) | Roleplay |
-| **79** | Mount Vesuvius - The Northwest Gulch | BCE 10, 40 DR (22:50) | Roleplay |
-| **80** | Mount Vesuvius - The Northwest Gulch | BCE 10, 40 BCE (22:50) | Roleplay |
-| **81** | Mount Vesuvius - The Northwest Gulch | Night, 40 BCE (22:50) | Roleplay |
-| **82** | Mount Vesuvius - The Northwest Gulch | Night, 40 BCE (22:50) | Roleplay |
-| **83** | Mount Vesuvius - The Northwest Gulch | Night, 40 BCE (22:50) | Roleplay |
-| **84** | Mount Vesuvius - The Northwest Gulch Bottleneck | Day 10, 40 BCE (22:51) | Roleplay |
-| **85** | Northwest Gulch Bottleneck | Night, 40 BCE (22:51) | Roleplay |
-| **86** | Mount Vesuvius - Northwest Gulch Bottleneck | 40 BCE, Night 22:51:36 | Roleplay |
-| **87** | Mount Vesuvius - Northwest Gulch Bottleneck | Night, 40 BCE (22:51) | Roleplay |
-| **88** | Mount Vesuvius - Northwest Gulch | Day 10, 40 BCE (22:51) | Roleplay |
-| **89** | Mount Vesuvius - Northwest Gulch | Night, 40 BCE (22:51) | Boss Surrender |
-| **90** | Mount Vesuvius - Northwest Gulch | BCE 10, 40 BCE (22:52) | Roleplay |
-| **91** | Mount Vesuvius - Northwest Gulch | BCE 10, 40 DR (23:05) | Roleplay |
-| **92** | Mount Vesuvius - Northwest Gulch | BCE 10, 40 BCE (23:05) | Roleplay |
-| **93** | Mount Vesuvius - Northwest Gulch | October 10, 40 BCE (23:15) | Roleplay |
-| **94** | Mount Vesuvius - Northwest Gulch | Night, 40 BCE (23:15) | Roleplay |
-| **95** | Mount Vesuvius - Northwest Gulch | Night, 40 BCE (23:15) | Roleplay |
-| **96** | Mount Vesuvius - Northwest Gulch | BCE 10, 40 DR (23:25) | Roleplay |
-| **97** | Mount Vesuvius - Northwest Ridges | BCE 10, 40 BCE (23:25) | Roleplay |
-| **98** | Mount Vesuvius - Northwest Ridges | Night 10, 40 BCE (23:35) | Roleplay |
-| **99** | Mount Vesuvius - Northwest Ridges | BCE 10, 40 BCE (23:35) | Roleplay |
-| **100** | Mount Vesuvius - Northwest Ridges | Day 11, 40 BCE (00:05) | Roleplay |
-| **101** | Unknown | BCE 11, 40 DR (00:15) | Roleplay |
-| **102** | Mount Vesuvius - The Black Spires (Cliffs) | Day 11, 40 BCE (00:25) | Roleplay |
-| **103** | Mount Vesuvius - Southern Ridge | BCE 11, 40 BCE (00:25) | Roleplay |
-| **104** | Mount Vesuvius - Southern Ridge | Day 11, 40 BCE (00:25) | Roleplay |
-| **105** | Mount Vesuvius - Southern Ridge (Lower Slopes) | BCE 11, 40 BCE (00:40) | Roleplay |
-| **106** | Mount Vesuvius - Southern Ridge (Mist-Choked Gully) | BCE 11, 40 DR (00:45) | Roleplay |
-| **107** | Mount Vesuvius - Southern Ridge (Limestone Chimney) | 11, 40 BCE (00:50) | Roleplay |
-| **108** | Mount Vesuvius - Southern Ridge (High Ledge) | 11, 40 BCE (01:05) | Roleplay |
-| **109** | Mount Vesuvius - Southern Ridge (High Ledge) | BCE 11, 40 BCE (01:10) | Roleplay |
-| **110** | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:15) | Roleplay |
-| **111** | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:15) | Roleplay |
-| **112** | Mount Vesuvius - Black Spires (Windward Ledge) | 11, 40 BCE (01:25) | Roleplay |
-| **113** | Mount Vesuvius - Black Spires (Windward Ledge) | BCE 11, 40 DR (01:35) | Roleplay |
-| **114** | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:35) | Roleplay |
-| **115** | Mount Vesuvius - Black Spires (Windward Ledge) | BCE 11, 40 BCE (01:35) | Roleplay |
-| **116** | Mount Vesuvius - Black Spires (Windward Ledge) | BCE 11, 40 BCE (01:35) | Roleplay |
-| **117** | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:35) | Roleplay |
-| **118** | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:35) | Roleplay |
-| **119** | Mount Vesuvius - Rebel Hidden Camp | 40 BCE, Deep Night (02:21:18) | Roleplay |
-| **120** | Mount Vesuvius - Rebel Hidden Camp | Day 11, 40 BCE (02:21) | Roleplay |
-| **121** | Unknown | BCE 11, 40 DR (02:21) | Roleplay |
-| **122** | Mount Vesuvius - Rebel Hidden Camp | Day 11, 40 BCE (04:30) | Boss Surrender |
-| **123** | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (04:30) | Roleplay |
-| **124** | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (11:15) | Roleplay |
-| **125** | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (11:25) | Roleplay |
-| **126** | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (11:35) | Roleplay |
-| **127** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (11:55) | Roleplay |
-| **128** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (12:15) | Roleplay |
-| **129** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (12:15) | Roleplay |
-| **130** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (12:30) | Roleplay |
-| **131** | Mount Vesuvius - Western Barricade | Day 11, 40 BCE (13:00) | Roleplay |
-| **132** | Mount Vesuvius - Command Grotto / Western Barricade | Day 11, 40 BCE (13:00) | Roleplay |
-| **133** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (13:15) | Roleplay |
-| **134** | Mount Vesuvius - Command Grotto / Western Cleft | Day 11, 40 BCE (13:25) | Roleplay |
-| **135** | Mount Vesuvius - Western Cleft Vanguard Post | BCE 11, 40 DR (13:30) | Roleplay |
-| **136** | Mount Vesuvius - Western Cleft Vanguard Post | Day 11, 40 BCE (13:40) | Roleplay |
-| **137** | Mount Vesuvius - Western Cleft Vanguard Post | Afternoon, 11 BCE (13:40) | Roleplay |
-| **138** | Mount Vesuvius - Western Cleft Vanguard Post | Day 11, 40 BCE (13:40) | Roleplay |
-| **139** | Mount Vesuvius - Western Cleft Vanguard Post | Day 11, 40 BCE (13:45) | Roleplay |
-| **140** | Mount Vesuvius - Command Grotto (Interior) | Day 11, 40 BCE (21:45) | Roleplay |
-| **141** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (21:55) | Roleplay |
-| **142** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (22:05) | Roleplay |
-| **143** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (22:15) | Roleplay |
-| **144** | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (22:15) | Roleplay |
-| **145** | Mount Vesuvius - Command Grotto | BCE 11, 40 BCE (22:25) | Roleplay |
-| **146** | Command Grotto | Day 11, 40 BCE (22:35) | Roleplay |
-| **147** | Command Grotto | BCE 11, 40 BCE (22:45) | Roleplay |
-| **148** | Command Grotto | BCE 11, 40 BCE (23:05) | Roleplay |
-| **149** | Command Grotto | Day 11, 40 BCE (23:25) | Roleplay |
-| **150** | Command Grotto | Day 11, 40 BCE (23:45) | Roleplay |
-| **151** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **152** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **153** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **154** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **155** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:25) | Roleplay |
-| **156** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **157** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:35) | Roleplay |
-| **158** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:36) | Roleplay |
-| **159** | Unknown | BCE 12, 40 DR (00:36) | Roleplay |
-| **160** | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (00:41) | Roleplay |
-| **161** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:51) | Roleplay |
-| **162** | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (01:05) | Roleplay |
-| **163** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:15) | Roleplay |
-| **164** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:15) | Roleplay |
-| **165** | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (00:15) | Roleplay |
-| **166** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **167** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **168** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
-| **169** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:20) | Roleplay |
-| **170** | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (01:20) | Roleplay |
-| **171** | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (01:25) | Roleplay |
-| **172** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:30) | Roleplay |
-| **173** | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:35) | Roleplay |
-| **174** | Sacred Grove Flue | Day 12, 40 BCE (01:35) | Roleplay |
-| **175** | Sacred Grove - Mount Vesuvius Sanctuary | BCE 12, 40 BCE (01:45) | Roleplay |
-| **176** | Sacred Grove Sanctuary | BCE 12, 40 BCE (01:45) | Roleplay |
-| **177** | Sacred Grove Sanctuary | Day 12, 40 BCE (01:45) | Roleplay |
-| **178** | Sacred Grove Sanctuary | Day 12, 40 BCE (02:00) | Roleplay |
-| **179** | Sacred Grove Sanctuary - Command Alcove | BCE 12, 40 DR (03:30) | Roleplay |
-| **180** | Command Alcove | Day 12, 40 BCE (03:45) | Roleplay |
-| **181** | Command Alcove | Day 12, 40 BCE (04:00) | Roleplay |
-| **182** | Sacred Grove Sanctuary | Day 12, 40 BCE (08:30) | Roleplay |
-| **183** | Sacred Grove Sanctuary | Day 12, 40 BCE (08:45) | Roleplay |
-| **184** | Sacred Grove Sanctuary - Command Grotto | Day 12, 40 BCE (09:00) | Roleplay |
-| **185** | Sacred Grove Sanctuary | Day 12, 40 BCE (09:15) | Social Challenge |
-| **186** | Sacred Grove Sanctuary | Day 12, 40 BCE (09:15) | Social Challenge |
-| **187** | Command Grotto | BCE 12, 40 BCE (09:15) | Social Challenge |
-| **188** | Command Grotto | Day 12, 40 BCE (09:30) | Social Challenge |
-| **189** | Command Grotto | Day 12, 40 BCE (09:45) | Roleplay |
-| **190** | Villa Lucullus Perimeter | Day 12, 40 BCE (19:30) | Roleplay |
-| **191** | Villa Lucullus - Kitchen Courtyard | BCE 12, 40 DR (19:45) | Roleplay |
-| **192** | Villa Lucullus - Kitchen Courtyard | Day 12, 40 BCE (19:45) | Roleplay |
-| **193** | Villa Lucullus - Kitchen Courtyard | Day 12, 40 BCE (19:46) | Roleplay |
-| **194** | Villa Lucullus - Kitchen Courtyard | Evening, 40 BCE (12 Day) | Roleplay |
-| **195** | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:51) | Roleplay |
-| **196** | Villa Lucullus - Inner Atrium | BCE 12, 40 BCE (19:51) | Roleplay |
-| **197** | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:55) | Roleplay |
-| **198** | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:56) | Roleplay |
-| **199** | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:58) | Roleplay |
-| **200** | Villa Lucullus - Staff Quarters | Day 12, 40 BCE (19:59) | Roleplay |
-| **201** | Villa Lucullus - Staff Quarters | BCE 12, 40 BCE (19:59) | Roleplay |
-| **202** | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:15) | Roleplay |
-| **203** | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:15) | Roleplay |
-| **204** | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:15) | Roleplay |
-| **205** | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Boss Surrender |
-| **206** | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Roleplay |
-| **207** | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Roleplay |
-| **208** | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Roleplay |
-| **209** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (20:45) | Roleplay |
-| **210** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:00) | Social Challenge |
-| **211** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:15) | Social Challenge |
-| **212** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:30) | Social Challenge |
-| **213** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:45) | Boss Surrender |
-| **214** | Cypress Grove outside Villa Lucullus | BCE 12, 40 BCE (21:45) | Roleplay |
-| **215** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (22:00) | Roleplay |
-| **216** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:45) | Roleplay |
-| **217** | Cypress Grove outside Villa Lucullus | Night, 40 BCE (22:00) | Roleplay |
-| **218** | Cypress Grove outside Villa Lucullus | Night 12, 40 BCE (22:15) | Roleplay |
-| **219** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (22:30) | Roleplay |
-| **220** | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (22:45) | Roleplay |
-| **221** | Cypress Grove Secret Garrison | Day 13, 40 BCE (02:30) | Roleplay |
-| **222** | Cypress Grove outside Villa Lucullus | Day 13, 40 BCE (23:30) | Roleplay |
-| **223** | Appian Way Outskirts | Day 14, 40 BCE (10:30) | Roleplay |
-| **224** | Appian Way Outskirts | 40 BCE, Morning 10:45:00 | Roleplay |
-| **225** | Appian Way Outskirts | Day 14, 40 BCE (10:45) | Roleplay |
-| **226** | Appian Way Outskirts - Limestone Crags | Day 14, 40 BCE (10:45) | Roleplay |
-| **227** | Appian Way Outskirts - Limestone Crags | BCE 14, 40 BCE (10:45) | Roleplay |
-| **228** | Appian Way Outskirts - Limestone Crags | BCE 14, 40 BCE (10:45) | Roleplay |
-| **229** | Appian Way Outskirts - Limestone Crags | BCE 14, 40 BCE (10:45) | Roleplay |
-| **230** | Appian Way Outskirts - Limestone Crags | Day 14, 40 BCE (10:45) | Roleplay |
-| **231** | Appian Way Outskirts - Limestone Crags | Day 14, 40 BCE (10:45) | Roleplay |
-| **232** | Limestone Crags - Secret Meeting | Day 14, 40 BCE (11:30) | Roleplay |
-| **233** | Black Ridge Caves - Secondary Hideout | BCE 14, 40 DR (14:00) | Roleplay |
-| **234** | Black Ridge Caves - Secondary Hideout | Day 14, 40 BCE (14:15) | Roleplay |
-| **235** | Black Ridge Caves - Secondary Hideout | Day 14, 40 BCE (14:30) | Roleplay |
-| **236** | Unknown | BCE 14, 40 DR (14:30) | Roleplay |
-| **237** | Black Ridge Caves - Secondary Hideout | Day 14, 40 BCE (14:45) | Roleplay |
-| **238** | Black Ridge Caves - Private Command Alcove | Day 14, 40 BCE (15:00) | Roleplay |
-| **239** | Black Ridge Caves - Private Command Alcove | Day 14, 40 BCE (15:15) | Roleplay |
-| **240** | Foot of the Alps - Northern Vanguard Camp | Day 24, 40 BCE (09:00) | Roleplay |
-| **241** | Foot of the Alps - Northern Vanguard Camp | Day 24, 40 BCE (09:00) | Roleplay |
-| **242** | Foot of the Alps - Northern Vanguard Camp | Day 24, 40 BCE (09:15) | Roleplay |
-| **243** | Northern Vanguard Camp - Foot of the Alps | Day 24, 40 BCE (09:30) | Roleplay |
-| **244** | Northern Vanguard Camp - Foot of the Alps | Day 24, 40 BCE (10:00) | Roleplay |
-| **245** | Getae Borderlands - High Alpine Passes | Day 25, 40 BCE (06:30) | Roleplay |
-| **246** | Getae Borderlands - The Throat of the North | Day 26, 40 BCE (06:45) | Roleplay |
-| **247** | Getae Borderlands - The Gorge Path | Day 26, 40 BCE (07:00) | Roleplay |
-| **248** | Getae Borderlands - The Gorge Path | Day 26, 40 BCE (07:15) | Roleplay |
-| **249** | Getae Borderlands - Basalt Gorge | Day 26, 40 BCE (07:30) | Roleplay |
-| **250** | Getae Borderlands - Basalt Gorge | Day 26, 40 BCE (07:45) | Roleplay |
-| **251** | Getae Borderlands - High Seat Gates | Day 26, 40 BCE (08:00) | Roleplay |
-| **252** | Getae High Seat - Central Square | Day 26, 40 BCE (08:15) | Roleplay |
-| **253** | Getae High Seat - Central Square | Day 26, 40 BCE (08:30) | Roleplay |
-| **254** | Getae High Seat - Central Square | BCE 26, 40 BCE (08:35) | Roleplay |
-| **255** | Getae High Seat - Central Square | BCE 26, 40 BCE (08:50) | Roleplay |
-| **256** | Getae High Seat - Central Square | Day 26, 40 BCE (09:05) | Roleplay |
-| **257** | Getae High Seat - Central Square | Day 26, 40 BCE (09:20) | Roleplay |
-| **258** | Getae High Seat - Central Square | Day 26, 40 BCE (09:35) | Roleplay |
-| **259** | Getae High Seat - Central Square | BCE 26, 40 DR (09:50) | Roleplay |
-| **260** | Alpine Foothills - Ambuscade Ridge | Day 26, 40 BCE (10:15) | Roleplay |
-| **261** | Alpine Foothills - Ambuscade Ridge | Day 26, 40 BCE (10:15) | Roleplay |
-| **262** | Alpine Foothills - Ambuscade Ridge | Month 26, 40 BCE (10:15) | Roleplay |
-| **263** | Alpine Foothills - Ambuscade Ridge | BCE 26, 40 BCE (10:15) | Roleplay |
-| **264** | Alpine Foothills - Basalt Gorge | 40 BCE, Morning (10:16:00) | Roleplay |
-| **265** | Alpine Foothills - Basalt Gorge | Morning, 40 BCE (10:16) | Roleplay |
-| **266** | Alpine Foothills - Basalt Gorge | Month 12, 40 BCE (Day 26) | Boss Surrender |
-| **267** | Unknown | BCE 26, 40 DR (10:16) | Roleplay |
-| **268** | Alpine Foothills - Basalt Gorge | BCE 26, 40 BCE (10:20) | Roleplay |
-| **269** | Alpine Foothills - High Seat Approach | Month 10, 40 BCE (Day 26) | Roleplay |
-| **270** | Getae High Seat - Central Square | Day 26, 40 BCE (12:45) | Roleplay |
-| **271** | The High Seat of the North | Month 2, 40 BCE (Day 26) | Roleplay |
-| **272** | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Roleplay |
-| **273** | Getae High Seat - Central Square | BCE 26, 40 DR (13:15) | Roleplay |
-| **274** | Unknown | BCE 26, 40 DR (13:15) | Roleplay |
-| **275** | Getae High Seat - Central Square | BCE 26, 40 DR (13:30) | Roleplay |
-| **276** | Getae High Seat - Central Square | BCE 26, 40 DR (13:30) | Social Challenge |
-| **277** | Getae High Seat - Central Square | 40 BCE 26, 13:30:45 | Roleplay |
-| **278** | Unknown | BCE 26, 40 DR (13:30) | Roleplay |
-| **279** | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Boss Surrender |
-| **280** | Getae High Seat - Central Square | BCE 26, 40 BCE (14:00) | Boss Surrender |
-| **281** | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Roleplay |
-| **282** | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Roleplay |
-| **283** | Getae High Seat - Central Square | Day 26, 40 BCE (14:30) | Roleplay |
+| [**Scene 01**](#scene-1) | Unknown | Unknown | Roleplay |
+| [**Scene 02**](#scene-2) | Capua | October 14, 40 BCE (10:15) | Roleplay |
+| [**Scene 03**](#scene-3) | Capua Sewers (Rebel Hideout) | September 12, 40 BCE (22:45) | Roleplay |
+| [**Scene 04**](#scene-4) | Capua Sewers (Lower Levels) | April 15, 40 BCE (09:15) | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown | Unknown | Roleplay |
+| [**Scene 06**](#scene-6) | Unknown | Unknown | Roleplay |
+| [**Scene 07**](#scene-7) | Rebel Forest Camp (Vesuvius Slopes) | October 18, 40 BCE (06:30) | Roleplay |
+| [**Scene 08**](#scene-8) | Rebel Camp (Vesuvius Slopes) | April 18, 40 BCE (06:15) | Roleplay |
+| [**Scene 09**](#scene-9) | Rebel Camp (Vesuvius Slopes) | 40 BCE, Dawn (06:15:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Rebel Camp (Vesuvius Slopes) | 40 BCE, Dawn (06:20:00) | Roleplay |
+| [**Scene 11**](#scene-11) | Lucullus Salt Mines (Perimeter) | April 18, 40 BCE (09:30) | Roleplay |
+| [**Scene 12**](#scene-12) | Lucullus Salt Mines (Ventilation Shafts) | 40 BCE, Morning (09:40:00) | Roleplay |
+| [**Scene 13**](#scene-13) | Lucullus Salt Mines (Ventilation Shafts) | Octobris 18, 40 BCE (09:45) | Roleplay |
+| [**Scene 14**](#scene-14) | Lucullus Salt Mines - Lower Maintenance Gallery | 40 BCE, Morning (09:47:30) | Roleplay |
+| [**Scene 15**](#scene-15) | Lucullus Salt Mines - Lower Maintenance Gallery | 40 BCE, Morning (09:49:15) | Roleplay |
+| [**Scene 16**](#scene-16) | Lucullus Salt Mines - Lower Maintenance Gallery | 10th Day, 40 BCE (09:50) | Roleplay |
+| [**Scene 17**](#scene-17) | Lucullus Salt Mines - Lower Maintenance Gallery | BCE 10, 40 BCE (09:55) | Roleplay |
+| [**Scene 18**](#scene-18) | Lucullus Salt Mines - Lower Maintenance Gallery | 10th Day, 40 BCE (09:56) | Roleplay |
+| [**Scene 19**](#scene-19) | Lucullus Salt Mines - High-Security Gatehouse | Mirtul 10, 40 BCE (09:58) | Roleplay |
+| [**Scene 20**](#scene-20) | Lucullus Salt Mines - High-Security Gatehouse | BCE 10, 40 BCE (09:58) | Roleplay |
+| [**Scene 21**](#scene-21) | Lucullus Salt Mines - High-Security Gatehouse | Day 10, 40 BCE (09:59) | Roleplay |
+| [**Scene 22**](#scene-22) | Lucullus Salt Mines - High-Security Gatehouse | Mirtul 10, 40 BCE (10:00) | Roleplay |
+| [**Scene 23**](#scene-23) | Lucullus Salt Mines - High-Security Gatehouse | Month 10, 40 BCE (Day 10) | Roleplay |
+| [**Scene 24**](#scene-24) | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | Month 10, 40 BCE (Day 10) | Roleplay |
+| [**Scene 25**](#scene-25) | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | 40 BCE, Morning 10:00:36 | Roleplay |
+| [**Scene 26**](#scene-26) | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | 40 BCE, Morning 10:00:42 | Roleplay |
+| [**Scene 27**](#scene-27) | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | BCE 10, 40 BCE (10:00) | Roleplay |
+| [**Scene 28**](#scene-28) | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | BCE 10, 40 BCE (10:00) | Roleplay |
+| [**Scene 29**](#scene-29) | Lucullus Salt Mines - High-Security Gatehouse (Threshold) | 40 BCE, Morning (10:01:00) | Roleplay |
+| [**Scene 30**](#scene-30) | Lucullus Salt Mines - High-Security Cell Block | Day 10, 40 BCE (10:02) | Roleplay |
+| [**Scene 31**](#scene-31) | Lucullus Salt Mines - High-Security Cell Block | BCE 10, 40 BCE (10:02) | Roleplay |
+| [**Scene 32**](#scene-32) | Lucullus Salt Mines - High-Security Cell Block | BCE 10, 40 BCE (10:02) | Roleplay |
+| [**Scene 33**](#scene-33) | Lucullus Salt Mines - High-Security Cell Block | Day 10, 40 BCE (10:02) | Roleplay |
+| [**Scene 34**](#scene-34) | Lucullus Salt Mines - High-Security Cell Block | Mirtul 10, 40 BCE (10:02) | Roleplay |
+| [**Scene 35**](#scene-35) | Lucullus Salt Mines - High-Security Cell Block | Morning, 40 BCE (10:02) | Roleplay |
+| [**Scene 36**](#scene-36) | Lucullus Salt Mines - High-Security Cell Block (Collapsed Ruins) | Morning, 40 BCE (10:04) | Roleplay |
+| [**Scene 37**](#scene-37) | Lucullus Salt Mines - High-Security Cell Block (Collapsed Ruins) | Mirtul 10, 40 BCE (10:04) | Roleplay |
+| [**Scene 38**](#scene-38) | Lucullus Salt Mines - Collapsed High-Security Block | Month 10, 40 BCE (Day 10) | Roleplay |
+| [**Scene 39**](#scene-39) | Lucullus Salt Mines - Collapsed High-Security Block | Day 10, 40 BCE (10:25) | Roleplay |
+| [**Scene 40**](#scene-40) | Lucullus Salt Mines - Maintenance Crawlways | BCE 10, 40 DR (10:30) | Roleplay |
+| [**Scene 41**](#scene-41) | Lucullus Salt Mines - Upper Crawlways | 10, 40 BCE (10:45) | Roleplay |
+| [**Scene 42**](#scene-42) | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 BCE (10:45) | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown | BCE 10, 40 DR (10:45) | Roleplay |
+| [**Scene 44**](#scene-44) | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 DR (10:45) | Roleplay |
+| [**Scene 45**](#scene-45) | Lucullus Salt Mines - Upper Crawlways | 40 BCE, 10:45:31 | Roleplay |
+| [**Scene 46**](#scene-46) | Unknown | BCE 10, 40 DR (10:45) | Roleplay |
+| [**Scene 47**](#scene-47) | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 DR (10:50) | Roleplay |
+| [**Scene 48**](#scene-48) | Lucullus Salt Mines - Upper Crawlways | 40 BCE, 10:50:00 | Roleplay |
+| [**Scene 49**](#scene-49) | Lucullus Salt Mines - Upper Crawlways | 10 Mirtul, 40 BCE (10:50) | Roleplay |
+| [**Scene 50**](#scene-50) | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 BCE (10:50) | Roleplay |
+| [**Scene 51**](#scene-51) | Lucullus Salt Mines - Upper Crawlways | BCE 10, 40 BCE (10:50) | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown | BCE 10, 40 DR (10:50) | Roleplay |
+| [**Scene 53**](#scene-53) | Lucullus Salt Mines - Upper Crawlways (Junction) | Morning, 40 BCE (10:50) | Roleplay |
+| [**Scene 54**](#scene-54) | Lucullus Salt Mines - Upper Crawlways (Junction) | 40 BCE, Morning (10:50:48) | Roleplay |
+| [**Scene 55**](#scene-55) | Lucullus Salt Mines - Upper Crawlways (Junction) | Mirtul 10, 40 BCE (10:50) | Roleplay |
+| [**Scene 56**](#scene-56) | Lucullus Salt Mines - Upper Crawlways (Junction) | 40 BCE, Morning (10:51:00) | Roleplay |
+| [**Scene 57**](#scene-57) | Lucullus Salt Mines - Upper Crawlways (Junction) | Morning, 40 BCE (10:51) | Roleplay |
+| [**Scene 58**](#scene-58) | Lucullus Salt Mines - Upper Crawlways (Junction) | BCE 10, 40 BCE (10:52) | Roleplay |
+| [**Scene 59**](#scene-59) | Lucullus Salt Mines - Upper Crawlways (Junction) | BCE 10, 40 DR (10:52) | Roleplay |
+| [**Scene 60**](#scene-60) | Lucullus Salt Mines - Upper Crawlway Junction | BCE 10, 40 DR (10:52) | Roleplay |
+| [**Scene 61**](#scene-61) | Lucullus Salt Mines - Upper Ventilation Shaft | BCE 10, 40 DR (10:53) | Roleplay |
+| [**Scene 62**](#scene-62) | Mount Vesuvius - Upper Slopes | BCE 10, 40 BCE (10:53) | Roleplay |
+| [**Scene 63**](#scene-63) | Mount Vesuvius - Lower Treeline | BCE 10, 40 DR (10:55) | Roleplay |
+| [**Scene 64**](#scene-64) | Mount Vesuvius - Lower Treeline | October 10, 40 BCE (10:55) | Roleplay |
+| [**Scene 65**](#scene-65) | Mount Vesuvius - Lower Treeline | Day 10, 40 BCE (11:10) | Roleplay |
+| [**Scene 66**](#scene-66) | Mount Vesuvius - Limestone Caves | BCE 10, 40 DR (12:45) | Roleplay |
+| [**Scene 67**](#scene-67) | Mount Vesuvius - Limestone Caves | Day 10, 40 BCE (13:00) | Social Challenge |
+| [**Scene 68**](#scene-68) | Mount Vesuvius - Limestone Caves | BCE 10, 40 DR (21:00) | Social Challenge |
+| [**Scene 69**](#scene-69) | Unknown | BCE 10, 40 DR (21:00) | Roleplay |
+| [**Scene 70**](#scene-70) | Limestone Caves | 40 BCE, Night (21:00:01) | Roleplay |
+| [**Scene 71**](#scene-71) | Mount Vesuvius - Limestone Caves | Night, 40 BCE (21:00) | Roleplay |
+| [**Scene 72**](#scene-72) | Mount Vesuvius - Slopes toward Northwest Gulch | Night 10, 40 BCE (21:25) | Roleplay |
+| [**Scene 73**](#scene-73) | Mount Vesuvius - The Limestone Cleft | BCE 10, 40 DR (21:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Mount Vesuvius - The Limestone Cleft | Night, 40 BCE (21:35) | Roleplay |
+| [**Scene 75**](#scene-75) | Mount Vesuvius - The Limestone Cleft | Night, 40 BCE (21:35) | Roleplay |
+| [**Scene 76**](#scene-76) | Mount Vesuvius - The Limestone Cleft | BCE 10, 40 BCE (21:36) | Roleplay |
+| [**Scene 77**](#scene-77) | Mount Vesuvius - The Northwest Gulch | 40 BCE, Night 21:40:00 | Roleplay |
+| [**Scene 78**](#scene-78) | Mount Vesuvius - The Northwest Gulch | BCE 10, 40 DR (22:40) | Roleplay |
+| [**Scene 79**](#scene-79) | Mount Vesuvius - The Northwest Gulch | BCE 10, 40 DR (22:50) | Roleplay |
+| [**Scene 80**](#scene-80) | Mount Vesuvius - The Northwest Gulch | BCE 10, 40 BCE (22:50) | Roleplay |
+| [**Scene 81**](#scene-81) | Mount Vesuvius - The Northwest Gulch | Night, 40 BCE (22:50) | Roleplay |
+| [**Scene 82**](#scene-82) | Mount Vesuvius - The Northwest Gulch | Night, 40 BCE (22:50) | Roleplay |
+| [**Scene 83**](#scene-83) | Mount Vesuvius - The Northwest Gulch | Night, 40 BCE (22:50) | Roleplay |
+| [**Scene 84**](#scene-84) | Mount Vesuvius - The Northwest Gulch Bottleneck | Day 10, 40 BCE (22:51) | Roleplay |
+| [**Scene 85**](#scene-85) | Northwest Gulch Bottleneck | Night, 40 BCE (22:51) | Roleplay |
+| [**Scene 86**](#scene-86) | Mount Vesuvius - Northwest Gulch Bottleneck | 40 BCE, Night 22:51:36 | Roleplay |
+| [**Scene 87**](#scene-87) | Mount Vesuvius - Northwest Gulch Bottleneck | Night, 40 BCE (22:51) | Roleplay |
+| [**Scene 88**](#scene-88) | Mount Vesuvius - Northwest Gulch | Day 10, 40 BCE (22:51) | Roleplay |
+| [**Scene 89**](#scene-89) | Mount Vesuvius - Northwest Gulch | Night, 40 BCE (22:51) | Boss Surrender |
+| [**Scene 90**](#scene-90) | Mount Vesuvius - Northwest Gulch | BCE 10, 40 BCE (22:52) | Roleplay |
+| [**Scene 91**](#scene-91) | Mount Vesuvius - Northwest Gulch | BCE 10, 40 DR (23:05) | Roleplay |
+| [**Scene 92**](#scene-92) | Mount Vesuvius - Northwest Gulch | BCE 10, 40 BCE (23:05) | Roleplay |
+| [**Scene 93**](#scene-93) | Mount Vesuvius - Northwest Gulch | October 10, 40 BCE (23:15) | Roleplay |
+| [**Scene 94**](#scene-94) | Mount Vesuvius - Northwest Gulch | Night, 40 BCE (23:15) | Roleplay |
+| [**Scene 95**](#scene-95) | Mount Vesuvius - Northwest Gulch | Night, 40 BCE (23:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Mount Vesuvius - Northwest Gulch | BCE 10, 40 DR (23:25) | Roleplay |
+| [**Scene 97**](#scene-97) | Mount Vesuvius - Northwest Ridges | BCE 10, 40 BCE (23:25) | Roleplay |
+| [**Scene 98**](#scene-98) | Mount Vesuvius - Northwest Ridges | Night 10, 40 BCE (23:35) | Roleplay |
+| [**Scene 99**](#scene-99) | Mount Vesuvius - Northwest Ridges | BCE 10, 40 BCE (23:35) | Roleplay |
+| [**Scene 100**](#scene-100) | Mount Vesuvius - Northwest Ridges | Day 11, 40 BCE (00:05) | Roleplay |
+| [**Scene 101**](#scene-101) | Unknown | BCE 11, 40 DR (00:15) | Roleplay |
+| [**Scene 102**](#scene-102) | Mount Vesuvius - The Black Spires (Cliffs) | Day 11, 40 BCE (00:25) | Roleplay |
+| [**Scene 103**](#scene-103) | Mount Vesuvius - Southern Ridge | BCE 11, 40 BCE (00:25) | Roleplay |
+| [**Scene 104**](#scene-104) | Mount Vesuvius - Southern Ridge | Day 11, 40 BCE (00:25) | Roleplay |
+| [**Scene 105**](#scene-105) | Mount Vesuvius - Southern Ridge (Lower Slopes) | BCE 11, 40 BCE (00:40) | Roleplay |
+| [**Scene 106**](#scene-106) | Mount Vesuvius - Southern Ridge (Mist-Choked Gully) | BCE 11, 40 DR (00:45) | Roleplay |
+| [**Scene 107**](#scene-107) | Mount Vesuvius - Southern Ridge (Limestone Chimney) | 11, 40 BCE (00:50) | Roleplay |
+| [**Scene 108**](#scene-108) | Mount Vesuvius - Southern Ridge (High Ledge) | 11, 40 BCE (01:05) | Roleplay |
+| [**Scene 109**](#scene-109) | Mount Vesuvius - Southern Ridge (High Ledge) | BCE 11, 40 BCE (01:10) | Roleplay |
+| [**Scene 110**](#scene-110) | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:15) | Roleplay |
+| [**Scene 111**](#scene-111) | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:15) | Roleplay |
+| [**Scene 112**](#scene-112) | Mount Vesuvius - Black Spires (Windward Ledge) | 11, 40 BCE (01:25) | Roleplay |
+| [**Scene 113**](#scene-113) | Mount Vesuvius - Black Spires (Windward Ledge) | BCE 11, 40 DR (01:35) | Roleplay |
+| [**Scene 114**](#scene-114) | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:35) | Roleplay |
+| [**Scene 115**](#scene-115) | Mount Vesuvius - Black Spires (Windward Ledge) | BCE 11, 40 BCE (01:35) | Roleplay |
+| [**Scene 116**](#scene-116) | Mount Vesuvius - Black Spires (Windward Ledge) | BCE 11, 40 BCE (01:35) | Roleplay |
+| [**Scene 117**](#scene-117) | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:35) | Roleplay |
+| [**Scene 118**](#scene-118) | Mount Vesuvius - Black Spires (Windward Ledge) | Day 11, 40 BCE (01:35) | Roleplay |
+| [**Scene 119**](#scene-119) | Mount Vesuvius - Rebel Hidden Camp | 40 BCE, Deep Night (02:21:18) | Roleplay |
+| [**Scene 120**](#scene-120) | Mount Vesuvius - Rebel Hidden Camp | Day 11, 40 BCE (02:21) | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown | BCE 11, 40 DR (02:21) | Roleplay |
+| [**Scene 122**](#scene-122) | Mount Vesuvius - Rebel Hidden Camp | Day 11, 40 BCE (04:30) | Boss Surrender |
+| [**Scene 123**](#scene-123) | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (04:30) | Roleplay |
+| [**Scene 124**](#scene-124) | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (11:15) | Roleplay |
+| [**Scene 125**](#scene-125) | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (11:25) | Roleplay |
+| [**Scene 126**](#scene-126) | Mount Vesuvius - Rebel Main Base | Day 11, 40 BCE (11:35) | Roleplay |
+| [**Scene 127**](#scene-127) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (11:55) | Roleplay |
+| [**Scene 128**](#scene-128) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (12:15) | Roleplay |
+| [**Scene 129**](#scene-129) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (12:15) | Roleplay |
+| [**Scene 130**](#scene-130) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (12:30) | Roleplay |
+| [**Scene 131**](#scene-131) | Mount Vesuvius - Western Barricade | Day 11, 40 BCE (13:00) | Roleplay |
+| [**Scene 132**](#scene-132) | Mount Vesuvius - Command Grotto / Western Barricade | Day 11, 40 BCE (13:00) | Roleplay |
+| [**Scene 133**](#scene-133) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (13:15) | Roleplay |
+| [**Scene 134**](#scene-134) | Mount Vesuvius - Command Grotto / Western Cleft | Day 11, 40 BCE (13:25) | Roleplay |
+| [**Scene 135**](#scene-135) | Mount Vesuvius - Western Cleft Vanguard Post | BCE 11, 40 DR (13:30) | Roleplay |
+| [**Scene 136**](#scene-136) | Mount Vesuvius - Western Cleft Vanguard Post | Day 11, 40 BCE (13:40) | Roleplay |
+| [**Scene 137**](#scene-137) | Mount Vesuvius - Western Cleft Vanguard Post | Afternoon, 11 BCE (13:40) | Roleplay |
+| [**Scene 138**](#scene-138) | Mount Vesuvius - Western Cleft Vanguard Post | Day 11, 40 BCE (13:40) | Roleplay |
+| [**Scene 139**](#scene-139) | Mount Vesuvius - Western Cleft Vanguard Post | Day 11, 40 BCE (13:45) | Roleplay |
+| [**Scene 140**](#scene-140) | Mount Vesuvius - Command Grotto (Interior) | Day 11, 40 BCE (21:45) | Roleplay |
+| [**Scene 141**](#scene-141) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (21:55) | Roleplay |
+| [**Scene 142**](#scene-142) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (22:05) | Roleplay |
+| [**Scene 143**](#scene-143) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (22:15) | Roleplay |
+| [**Scene 144**](#scene-144) | Mount Vesuvius - Command Grotto | Day 11, 40 BCE (22:15) | Roleplay |
+| [**Scene 145**](#scene-145) | Mount Vesuvius - Command Grotto | BCE 11, 40 BCE (22:25) | Roleplay |
+| [**Scene 146**](#scene-146) | Command Grotto | Day 11, 40 BCE (22:35) | Roleplay |
+| [**Scene 147**](#scene-147) | Command Grotto | BCE 11, 40 BCE (22:45) | Roleplay |
+| [**Scene 148**](#scene-148) | Command Grotto | BCE 11, 40 BCE (23:05) | Roleplay |
+| [**Scene 149**](#scene-149) | Command Grotto | Day 11, 40 BCE (23:25) | Roleplay |
+| [**Scene 150**](#scene-150) | Command Grotto | Day 11, 40 BCE (23:45) | Roleplay |
+| [**Scene 151**](#scene-151) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 152**](#scene-152) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 153**](#scene-153) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 154**](#scene-154) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 155**](#scene-155) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:25) | Roleplay |
+| [**Scene 156**](#scene-156) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 157**](#scene-157) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:35) | Roleplay |
+| [**Scene 158**](#scene-158) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:36) | Roleplay |
+| [**Scene 159**](#scene-159) | Unknown | BCE 12, 40 DR (00:36) | Roleplay |
+| [**Scene 160**](#scene-160) | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (00:41) | Roleplay |
+| [**Scene 161**](#scene-161) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:51) | Roleplay |
+| [**Scene 162**](#scene-162) | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (01:05) | Roleplay |
+| [**Scene 163**](#scene-163) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:15) | Roleplay |
+| [**Scene 164**](#scene-164) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:15) | Roleplay |
+| [**Scene 165**](#scene-165) | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 166**](#scene-166) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 167**](#scene-167) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 168**](#scene-168) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (00:15) | Roleplay |
+| [**Scene 169**](#scene-169) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:20) | Roleplay |
+| [**Scene 170**](#scene-170) | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (01:20) | Roleplay |
+| [**Scene 171**](#scene-171) | Sacred Grove Entry - Mount Vesuvius | BCE 12, 40 BCE (01:25) | Roleplay |
+| [**Scene 172**](#scene-172) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:30) | Roleplay |
+| [**Scene 173**](#scene-173) | Sacred Grove Entry - Mount Vesuvius | Day 12, 40 BCE (01:35) | Roleplay |
+| [**Scene 174**](#scene-174) | Sacred Grove Flue | Day 12, 40 BCE (01:35) | Roleplay |
+| [**Scene 175**](#scene-175) | Sacred Grove - Mount Vesuvius Sanctuary | BCE 12, 40 BCE (01:45) | Roleplay |
+| [**Scene 176**](#scene-176) | Sacred Grove Sanctuary | BCE 12, 40 BCE (01:45) | Roleplay |
+| [**Scene 177**](#scene-177) | Sacred Grove Sanctuary | Day 12, 40 BCE (01:45) | Roleplay |
+| [**Scene 178**](#scene-178) | Sacred Grove Sanctuary | Day 12, 40 BCE (02:00) | Roleplay |
+| [**Scene 179**](#scene-179) | Sacred Grove Sanctuary - Command Alcove | BCE 12, 40 DR (03:30) | Roleplay |
+| [**Scene 180**](#scene-180) | Command Alcove | Day 12, 40 BCE (03:45) | Roleplay |
+| [**Scene 181**](#scene-181) | Command Alcove | Day 12, 40 BCE (04:00) | Roleplay |
+| [**Scene 182**](#scene-182) | Sacred Grove Sanctuary | Day 12, 40 BCE (08:30) | Roleplay |
+| [**Scene 183**](#scene-183) | Sacred Grove Sanctuary | Day 12, 40 BCE (08:45) | Roleplay |
+| [**Scene 184**](#scene-184) | Sacred Grove Sanctuary - Command Grotto | Day 12, 40 BCE (09:00) | Roleplay |
+| [**Scene 185**](#scene-185) | Sacred Grove Sanctuary | Day 12, 40 BCE (09:15) | Social Challenge |
+| [**Scene 186**](#scene-186) | Sacred Grove Sanctuary | Day 12, 40 BCE (09:15) | Social Challenge |
+| [**Scene 187**](#scene-187) | Command Grotto | BCE 12, 40 BCE (09:15) | Social Challenge |
+| [**Scene 188**](#scene-188) | Command Grotto | Day 12, 40 BCE (09:30) | Social Challenge |
+| [**Scene 189**](#scene-189) | Command Grotto | Day 12, 40 BCE (09:45) | Roleplay |
+| [**Scene 190**](#scene-190) | Villa Lucullus Perimeter | Day 12, 40 BCE (19:30) | Roleplay |
+| [**Scene 191**](#scene-191) | Villa Lucullus - Kitchen Courtyard | BCE 12, 40 DR (19:45) | Roleplay |
+| [**Scene 192**](#scene-192) | Villa Lucullus - Kitchen Courtyard | Day 12, 40 BCE (19:45) | Roleplay |
+| [**Scene 193**](#scene-193) | Villa Lucullus - Kitchen Courtyard | Day 12, 40 BCE (19:46) | Roleplay |
+| [**Scene 194**](#scene-194) | Villa Lucullus - Kitchen Courtyard | Evening, 40 BCE (12 Day) | Roleplay |
+| [**Scene 195**](#scene-195) | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:51) | Roleplay |
+| [**Scene 196**](#scene-196) | Villa Lucullus - Inner Atrium | BCE 12, 40 BCE (19:51) | Roleplay |
+| [**Scene 197**](#scene-197) | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:55) | Roleplay |
+| [**Scene 198**](#scene-198) | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:56) | Roleplay |
+| [**Scene 199**](#scene-199) | Villa Lucullus - Inner Atrium | Day 12, 40 BCE (19:58) | Roleplay |
+| [**Scene 200**](#scene-200) | Villa Lucullus - Staff Quarters | Day 12, 40 BCE (19:59) | Roleplay |
+| [**Scene 201**](#scene-201) | Villa Lucullus - Staff Quarters | BCE 12, 40 BCE (19:59) | Roleplay |
+| [**Scene 202**](#scene-202) | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:15) | Roleplay |
+| [**Scene 203**](#scene-203) | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:15) | Roleplay |
+| [**Scene 204**](#scene-204) | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:15) | Roleplay |
+| [**Scene 205**](#scene-205) | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Boss Surrender |
+| [**Scene 206**](#scene-206) | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Roleplay |
+| [**Scene 207**](#scene-207) | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Roleplay |
+| [**Scene 208**](#scene-208) | Villa Lucullus - Perimeter | Day 12, 40 BCE (20:30) | Roleplay |
+| [**Scene 209**](#scene-209) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (20:45) | Roleplay |
+| [**Scene 210**](#scene-210) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:00) | Social Challenge |
+| [**Scene 211**](#scene-211) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:15) | Social Challenge |
+| [**Scene 212**](#scene-212) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:30) | Social Challenge |
+| [**Scene 213**](#scene-213) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:45) | Boss Surrender |
+| [**Scene 214**](#scene-214) | Cypress Grove outside Villa Lucullus | BCE 12, 40 BCE (21:45) | Roleplay |
+| [**Scene 215**](#scene-215) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (22:00) | Roleplay |
+| [**Scene 216**](#scene-216) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (21:45) | Roleplay |
+| [**Scene 217**](#scene-217) | Cypress Grove outside Villa Lucullus | Night, 40 BCE (22:00) | Roleplay |
+| [**Scene 218**](#scene-218) | Cypress Grove outside Villa Lucullus | Night 12, 40 BCE (22:15) | Roleplay |
+| [**Scene 219**](#scene-219) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (22:30) | Roleplay |
+| [**Scene 220**](#scene-220) | Cypress Grove outside Villa Lucullus | Day 12, 40 BCE (22:45) | Roleplay |
+| [**Scene 221**](#scene-221) | Cypress Grove Secret Garrison | Day 13, 40 BCE (02:30) | Roleplay |
+| [**Scene 222**](#scene-222) | Cypress Grove outside Villa Lucullus | Day 13, 40 BCE (23:30) | Roleplay |
+| [**Scene 223**](#scene-223) | Appian Way Outskirts | Day 14, 40 BCE (10:30) | Roleplay |
+| [**Scene 224**](#scene-224) | Appian Way Outskirts | 40 BCE, Morning 10:45:00 | Roleplay |
+| [**Scene 225**](#scene-225) | Appian Way Outskirts | Day 14, 40 BCE (10:45) | Roleplay |
+| [**Scene 226**](#scene-226) | Appian Way Outskirts - Limestone Crags | Day 14, 40 BCE (10:45) | Roleplay |
+| [**Scene 227**](#scene-227) | Appian Way Outskirts - Limestone Crags | BCE 14, 40 BCE (10:45) | Roleplay |
+| [**Scene 228**](#scene-228) | Appian Way Outskirts - Limestone Crags | BCE 14, 40 BCE (10:45) | Roleplay |
+| [**Scene 229**](#scene-229) | Appian Way Outskirts - Limestone Crags | BCE 14, 40 BCE (10:45) | Roleplay |
+| [**Scene 230**](#scene-230) | Appian Way Outskirts - Limestone Crags | Day 14, 40 BCE (10:45) | Roleplay |
+| [**Scene 231**](#scene-231) | Appian Way Outskirts - Limestone Crags | Day 14, 40 BCE (10:45) | Roleplay |
+| [**Scene 232**](#scene-232) | Limestone Crags - Secret Meeting | Day 14, 40 BCE (11:30) | Roleplay |
+| [**Scene 233**](#scene-233) | Black Ridge Caves - Secondary Hideout | BCE 14, 40 DR (14:00) | Roleplay |
+| [**Scene 234**](#scene-234) | Black Ridge Caves - Secondary Hideout | Day 14, 40 BCE (14:15) | Roleplay |
+| [**Scene 235**](#scene-235) | Black Ridge Caves - Secondary Hideout | Day 14, 40 BCE (14:30) | Roleplay |
+| [**Scene 236**](#scene-236) | Unknown | BCE 14, 40 DR (14:30) | Roleplay |
+| [**Scene 237**](#scene-237) | Black Ridge Caves - Secondary Hideout | Day 14, 40 BCE (14:45) | Roleplay |
+| [**Scene 238**](#scene-238) | Black Ridge Caves - Private Command Alcove | Day 14, 40 BCE (15:00) | Roleplay |
+| [**Scene 239**](#scene-239) | Black Ridge Caves - Private Command Alcove | Day 14, 40 BCE (15:15) | Roleplay |
+| [**Scene 240**](#scene-240) | Foot of the Alps - Northern Vanguard Camp | Day 24, 40 BCE (09:00) | Roleplay |
+| [**Scene 241**](#scene-241) | Foot of the Alps - Northern Vanguard Camp | Day 24, 40 BCE (09:00) | Roleplay |
+| [**Scene 242**](#scene-242) | Foot of the Alps - Northern Vanguard Camp | Day 24, 40 BCE (09:15) | Roleplay |
+| [**Scene 243**](#scene-243) | Northern Vanguard Camp - Foot of the Alps | Day 24, 40 BCE (09:30) | Roleplay |
+| [**Scene 244**](#scene-244) | Northern Vanguard Camp - Foot of the Alps | Day 24, 40 BCE (10:00) | Roleplay |
+| [**Scene 245**](#scene-245) | Getae Borderlands - High Alpine Passes | Day 25, 40 BCE (06:30) | Roleplay |
+| [**Scene 246**](#scene-246) | Getae Borderlands - The Throat of the North | Day 26, 40 BCE (06:45) | Roleplay |
+| [**Scene 247**](#scene-247) | Getae Borderlands - The Gorge Path | Day 26, 40 BCE (07:00) | Roleplay |
+| [**Scene 248**](#scene-248) | Getae Borderlands - The Gorge Path | Day 26, 40 BCE (07:15) | Roleplay |
+| [**Scene 249**](#scene-249) | Getae Borderlands - Basalt Gorge | Day 26, 40 BCE (07:30) | Roleplay |
+| [**Scene 250**](#scene-250) | Getae Borderlands - Basalt Gorge | Day 26, 40 BCE (07:45) | Roleplay |
+| [**Scene 251**](#scene-251) | Getae Borderlands - High Seat Gates | Day 26, 40 BCE (08:00) | Roleplay |
+| [**Scene 252**](#scene-252) | Getae High Seat - Central Square | Day 26, 40 BCE (08:15) | Roleplay |
+| [**Scene 253**](#scene-253) | Getae High Seat - Central Square | Day 26, 40 BCE (08:30) | Roleplay |
+| [**Scene 254**](#scene-254) | Getae High Seat - Central Square | BCE 26, 40 BCE (08:35) | Roleplay |
+| [**Scene 255**](#scene-255) | Getae High Seat - Central Square | BCE 26, 40 BCE (08:50) | Roleplay |
+| [**Scene 256**](#scene-256) | Getae High Seat - Central Square | Day 26, 40 BCE (09:05) | Roleplay |
+| [**Scene 257**](#scene-257) | Getae High Seat - Central Square | Day 26, 40 BCE (09:20) | Roleplay |
+| [**Scene 258**](#scene-258) | Getae High Seat - Central Square | Day 26, 40 BCE (09:35) | Roleplay |
+| [**Scene 259**](#scene-259) | Getae High Seat - Central Square | BCE 26, 40 DR (09:50) | Roleplay |
+| [**Scene 260**](#scene-260) | Alpine Foothills - Ambuscade Ridge | Day 26, 40 BCE (10:15) | Roleplay |
+| [**Scene 261**](#scene-261) | Alpine Foothills - Ambuscade Ridge | Day 26, 40 BCE (10:15) | Roleplay |
+| [**Scene 262**](#scene-262) | Alpine Foothills - Ambuscade Ridge | Month 26, 40 BCE (10:15) | Roleplay |
+| [**Scene 263**](#scene-263) | Alpine Foothills - Ambuscade Ridge | BCE 26, 40 BCE (10:15) | Roleplay |
+| [**Scene 264**](#scene-264) | Alpine Foothills - Basalt Gorge | 40 BCE, Morning (10:16:00) | Roleplay |
+| [**Scene 265**](#scene-265) | Alpine Foothills - Basalt Gorge | Morning, 40 BCE (10:16) | Roleplay |
+| [**Scene 266**](#scene-266) | Alpine Foothills - Basalt Gorge | Month 12, 40 BCE (Day 26) | Boss Surrender |
+| [**Scene 267**](#scene-267) | Unknown | BCE 26, 40 DR (10:16) | Roleplay |
+| [**Scene 268**](#scene-268) | Alpine Foothills - Basalt Gorge | BCE 26, 40 BCE (10:20) | Roleplay |
+| [**Scene 269**](#scene-269) | Alpine Foothills - High Seat Approach | Month 10, 40 BCE (Day 26) | Roleplay |
+| [**Scene 270**](#scene-270) | Getae High Seat - Central Square | Day 26, 40 BCE (12:45) | Roleplay |
+| [**Scene 271**](#scene-271) | The High Seat of the North | Month 2, 40 BCE (Day 26) | Roleplay |
+| [**Scene 272**](#scene-272) | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Roleplay |
+| [**Scene 273**](#scene-273) | Getae High Seat - Central Square | BCE 26, 40 DR (13:15) | Roleplay |
+| [**Scene 274**](#scene-274) | Unknown | BCE 26, 40 DR (13:15) | Roleplay |
+| [**Scene 275**](#scene-275) | Getae High Seat - Central Square | BCE 26, 40 DR (13:30) | Roleplay |
+| [**Scene 276**](#scene-276) | Getae High Seat - Central Square | BCE 26, 40 DR (13:30) | Social Challenge |
+| [**Scene 277**](#scene-277) | Getae High Seat - Central Square | 40 BCE 26, 13:30:45 | Roleplay |
+| [**Scene 278**](#scene-278) | Unknown | BCE 26, 40 DR (13:30) | Roleplay |
+| [**Scene 279**](#scene-279) | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Boss Surrender |
+| [**Scene 280**](#scene-280) | Getae High Seat - Central Square | BCE 26, 40 BCE (14:00) | Boss Surrender |
+| [**Scene 281**](#scene-281) | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Roleplay |
+| [**Scene 282**](#scene-282) | Getae High Seat - Central Square | Month 2, 40 BCE (Day 26) | Roleplay |
+| [**Scene 283**](#scene-283) | Getae High Seat - Central Square | Day 26, 40 BCE (14:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2 | Lay On Hands: 25/25 | Channel Divinity: 1/1**
@@ -682,8 +698,11 @@ I have pre-generated your character based on your detailed prompt. Please review
 God Mode:
 New starting scene and give me +1 gear and reasonable items. Let's have Spartacus and his top gladiators like from the recent TV show attack glabber in the square. Due to my morals I take the side of the slaves and heal aurelia (varros wife his dead friend from the tv show) and retreat with the rebels into the sewer. Narrate this scene in detail with dialog and have them argue about what to do with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Capua, The Great Sewers** &nbsp;|&nbsp; ⏳ **October 14, 40 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Alignment: Lawful Good**
@@ -713,8 +732,11 @@ Minutes later, the humidity of the Capua sewers closes around you. The stench of
 God Mode:
 Let shave them not realize I'm a caesar save it in game state. They think I'm a normal roman noble
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Capua Sewers (Rebel Hideout)** &nbsp;|&nbsp; ⏳ **September 12, 40 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ⚠️ **Hidden | Identity Secret: Active**
@@ -736,8 +758,11 @@ Spartacus steps forward, the tip of his blade resting inches from your throat. '
 > 👤 **Player:**
 > *"Say that slavery is immoral but I was too afraid to act until I saw aurelia rescue attempt. Say I still need to heal her but if they wish to take vengeance upon me for all Romans I welcome it. I did not ask to be born a Roman and have lived a life of luxury but also secret shame and truly began to live today when i took action. Spartacus and Aurelia should be more favorable to be convicned"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Capua Sewers (Lower Levels)** &nbsp;|&nbsp; ⏳ **April 15, 40 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Secret Identity Maintained | HP: 44/44 | XP: 6500/14000**
@@ -759,8 +784,11 @@ As you channel the warm, restorative power of your *Auctoritas* into Aurelia’s
 God Mode:
 When make a user message you're supposed to narrate my dialog too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2 | Channel Divinity: 1/1 | Lay On Hands: 15/25**
@@ -778,8 +806,11 @@ The rebels fall into line behind him. Agron and the others maintain a protective
 > 👤 **Player:**
 > *"Lead them to a safe area and offer to surrender my weapons but ask that I get them back if there's a battle. Keep healing Aurelia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2 | Channel Divinity: 1/1 | Lay On Hands: 5/25**
@@ -797,8 +828,11 @@ Aurelius reaches out, his hand resting briefly on her shoulder—a gesture of ow
 > 👤 **Player:**
 > *"Time skip a few days z with my healing Aurelia is fully restored and I heal others in the camp. People should be amazed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Rebel Forest Camp (Vesuvius Slopes)** &nbsp;|&nbsp; ⏳ **October 18, 40 BCE (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000** &nbsp;|&nbsp; ✨ **Lay on Hands (0/25) | Divine Smite (Ready)**
@@ -818,8 +852,11 @@ He hands you your steel, the weight of the Damascus blade returning to your grip
 > 👤 **Player:**
 > *"Say I have no wish to lead and probably they're tired of Romans ordering them around. However address crxius and say I've heard of his plight with naevia and how she's in the mines. I volunteer to follow crixus if he wants to attempt a rescue and I ask for volunteers to join me. I explain that it is risky but we cannot lose our hearts or morals. One life is everything m. Again I stress crixus should lead if people agree to the rescue and I will follow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Rebel Camp (Vesuvius Slopes)** &nbsp;|&nbsp; ⏳ **April 18, 40 BCE (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -839,8 +876,11 @@ Spartacus watches from the periphery, his eyes narrowing. He sees the shift in p
 God Mode:
 Let's assume I don't have any companions like cinnamus.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Rebel Camp (Vesuvius Slopes)** &nbsp;|&nbsp; ⏳ **40 BCE, Dawn (06:15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6650/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -856,8 +896,11 @@ Aurelia steps to your side, her jaw set. "I am with the Golden One. My life is a
 God Mode:
 Lets change my aura to also give bonus AC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Rebel Camp (Vesuvius Slopes)** &nbsp;|&nbsp; ⏳ **40 BCE, Dawn (06:20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ⚠️ **Secret Identity (Noble) | Aura: Sovereignty (+2 AC)**
@@ -871,8 +914,11 @@ According to the ledgers of the world, your **Faction Power is 0 FP**. You comma
 > 👤 **Player:**
 > *"Initiate the rescue and assume a we long rested"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Lucullus Salt Mines (Perimeter)** &nbsp;|&nbsp; ⏳ **April 18, 40 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ⚠️ **Aura of Sovereignty (+2 AC) | Exhaustion: 0 | Inspiration: No**
@@ -888,8 +934,11 @@ You reach the shadow of the fissure undetected. Crixus looks at you, a flicker o
 God Mode:
 Ensure my gear is good for stealth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Lucullus Salt Mines (Ventilation Shafts)** &nbsp;|&nbsp; ⏳ **40 BCE, Morning (09:40:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ⚠️ **Aura of Sovereignty (+2 AC) | Muted Armor (Stealth Optimized)**
@@ -903,8 +952,11 @@ Below you, the shaft drops nearly eighty feet. The air rising from the depths is
 God Mode:
 Quiet Descent - Slowly climb the rungs, timing your movement with the pump cycles.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Lucullus Salt Mines (Ventilation Shafts)** &nbsp;|&nbsp; ⏳ **Octobris 18, 40 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000gp** &nbsp;|&nbsp; ⚠️ **Muted Armor, Aura of Sovereignty (AC Bonus) | Exhaustion: 0 | Inspiration: No**
@@ -920,8 +972,11 @@ You freeze, hanging by your fingertips forty feet above the stone floor. Crixus 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Throw Voice/Object - Toss a stone further down the corridor to lead the guard away from the shaft base.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Lucullus Salt Mines - Lower Maintenance Gallery** &nbsp;|&nbsp; ⏳ **40 BCE, Morning (09:47:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Exhaustion: 0**
@@ -935,8 +990,11 @@ Crixus doesn't wait for a command. He drops from the rungs, landing with the sil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Quiet Ambush - The two distracted guards will return shortly. Subdue them silently to take their keys and uniforms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Lucullus Salt Mines - Lower Maintenance Gallery** &nbsp;|&nbsp; ⏳ **40 BCE, Morning (09:49:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6500/14000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -950,8 +1008,11 @@ You lunge from the shadows just as the first guard passes, your gloved hand reac
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lethal Strike - Abandon the attempt to subdue and use Veritas to end the struggle quickly, even at the risk of blood-spatter and noise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Lucullus Salt Mines - Lower Maintenance Gallery** &nbsp;|&nbsp; ⏳ **10th Day, 40 BCE (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6700/14000 | Gold: 2000gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Inspiration: No**
@@ -967,8 +1028,11 @@ Crixus finishes his own struggle nearby, his hands locked around the second guar
 > 👤 **Player:**
 > *"Press to the cells. Crixus and the gladiators should be very impressed by me. Not only am i a warrior but I am 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Lucullus Salt Mines - Lower Maintenance Gallery** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -986,8 +1050,11 @@ Aurelia moves to your side, her hand resting briefly on your arm. She alone seem
 > 👤 **Player:**
 > *"They should also be very impressed by my morals. I'm the only free man fighting with them for now. Narrate their inner thoughts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Lucullus Salt Mines - Lower Maintenance Gallery** &nbsp;|&nbsp; ⏳ **10th Day, 40 BCE (09:56)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor | Inspiration: No**
@@ -1005,8 +1072,11 @@ Crixus finally breaks the silence, his voice a low, gravelly rasp. "Your 'morals
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead Silent Incursion - Use the keys to open the gate while Crixus and the others prepare for a coordinated ambush on the internal guards.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 10, 40 BCE (09:58)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7100/14000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -1020,8 +1090,11 @@ The sound is like a scream in the silence. Instantly, the bored murmurs from the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Aura of Submission - Channel your Channel Divinity to crush the guards&#x27; will to resist, freezing them in place.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (09:58)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Channel Divinity: 0/1 | Inspiration: No**
@@ -1037,8 +1110,11 @@ However, these are not the soft city-watch of Rome. They are grizzled veterans o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lethal Vanguard - Engage the whistle-blower with Veritas and Divine Smite to end him instantly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (09:59)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 25/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -1052,8 +1128,11 @@ Beside you, Crixus is a storm of iron. "Die, Roman dog!" he snarls, his heavy bl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Survivor - Strike the wounded guard to clear our immediate path to the cells.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 10, 40 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2010** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1 | Exhaustion: 0**
@@ -1069,8 +1148,11 @@ Aurelia and the three gladiators step over the bodies, their faces set in grim m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Simultaneously - Command Crixus and the gladiators to charge the cells while you hold the door alone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse** &nbsp;|&nbsp; ⏳ **Month 10, 40 BCE (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -1086,8 +1168,11 @@ The guard sneers, seeing the opening. "A gilded brat in the mud!" he barks, sign
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shield Bash - Use the Aegis of Julia to knock the lead guard back into his comrades, clogging the doorway.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse (Threshold)** &nbsp;|&nbsp; ⏳ **Month 10, 40 BCE (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Julian Radiance | Exhaustion: 0 | Inspiration: No**
@@ -1103,8 +1188,11 @@ Behind you, the sound of iron striking iron echoes from the cell block—Crixus 
 God Mode:
 Disable the faction mini game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse (Threshold)** &nbsp;|&nbsp; ⏳ **40 BCE, Morning 10:00:36** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp**
@@ -1114,8 +1202,11 @@ The faction minigame has been disabled. The strategic layer and faction headers 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divine Smite Thrust - Abandon the defensive focus to drive Veritas into the lead guard with a burst of radiant fury.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse (Threshold)** &nbsp;|&nbsp; ⏳ **40 BCE, Morning 10:00:42** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 (Personal War Chest)** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1 | Exhaustion: 0**
@@ -1131,8 +1222,11 @@ Behind you, the sound of the cell locks giving way echoes through the chamber. C
 God Mode:
 Make sure you're giving me my extra attack and bonus actions during combat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse (Threshold)** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp**
@@ -1142,8 +1236,11 @@ Acknowledged. I have noted your tactical requirements for combat resolution. Fro
 God Mode:
 Let's assume my character usually has a haunted guilty look and always volunteers for the most dangerous missions who doesn't value his life
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse (Threshold)** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp**
@@ -1153,8 +1250,11 @@ Character traits updated. Aurelius now possesses the 'Haunted Guilt' and 'Death-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push to the Cells - Move into the cell block to reunite with the gladiators and secure Naevia personally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Lucullus Salt Mines - High-Security Gatehouse (Threshold)** &nbsp;|&nbsp; ⏳ **40 BCE, Morning (10:01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2,000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -1170,8 +1270,11 @@ You attempt to roar a final warning at the reinforcements scrambling at the barr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Form Defensive Wall - Organize the gladiators into a shield wall at the cell block entrance to hold back the reinforcements while Crixus enters the cell.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Julian Aura | Exhaustion: 0 | Inspiration: No**
@@ -1185,8 +1288,11 @@ As Crixus tears at the lock of Naevia's cell, you lunge through the gaps in the 
 > 👤 **Player:**
 > *"THINK:Thinks about the next best move"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Haunted, Death-Seeker | Exhaustion: 0 | Inspiration: No**
@@ -1200,8 +1306,11 @@ You try to visualize the exit route, to time the rotation of your line, but the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Volunteer for Rear Guard - Order the others to flee with Naevia while you remain alone to collapse the tunnel or hold the narrowest point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Death-Seeker, Haunted | Exhaustion: 0**
@@ -1219,8 +1328,11 @@ You turn back to the advancing line, your Aegis of Julia locked into the narrowe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Solar Flare Detonation - Burn your remaining Julian essence to create a blinding flash, disorienting the guards while you strike the pillar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Haunted, Death-Seeker | Exhaustion: 0 | Inspiration: No**
@@ -1234,8 +1346,11 @@ The stone groans—a deep, tectonic shudder that vibrates through your very marr
 God Mode:
 Stop having people call me Caesar they shouldn't know who I am unless they pass 3 high DC perception checks and have knowledge of Roman nobility
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block** &nbsp;|&nbsp; ⏳ **Mirtul 10, 40 BCE (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp**
@@ -1249,8 +1364,11 @@ I have updated your active constraints to reflect this 'Deep Cover' status.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seismic Discharge - Use your Bonus Action to channel one last burst of power into the floor, creating a shockwave to knock back the recovering guards before the rocks fall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block** &nbsp;|&nbsp; ⏳ **Morning, 40 BCE (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 6900/14000 | Gold: 2000gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Haunted, Death-Seeker, Deep Cover | Exhaustion: 0 | Inspiration: No**
@@ -1264,8 +1382,11 @@ Through the swirling grit, you see the three gladiators hauling Naevia and Crixu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stalk the Dust - Use the zero-visibility and your knowledge of the layout to eliminate the dazed guards silently before they find their bearings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block (Collapsed Ruins)** &nbsp;|&nbsp; ⏳ **Morning, 40 BCE (10:04)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 2/2, Lay on Hands: 25/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Haunted | Exhaustion: 0 | Inspiration: No**
@@ -1296,8 +1417,11 @@ You stand alone in the wreckage of your own making. The rebels are gone, the pat
 God Mode:
 Give me the proper spells and class features in game statev
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Lucullus Salt Mines - High-Security Cell Block (Collapsed Ruins)** &nbsp;|&nbsp; ⏳ **Mirtul 10, 40 BCE (10:04)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44 | XP: 7025/14000 | Gold: 2000gp**
@@ -1331,8 +1455,11 @@ I have updated the game state to include your correct Paladin class features and
 > 👤 **Player:**
 > *"Fully loot them and then look for a way out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Lucullus Salt Mines - Collapsed High-Security Block** &nbsp;|&nbsp; ⏳ **Month 10, 40 BCE (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Entombed | Exhaustion: 0 | Inspiration: No**
@@ -1348,8 +1475,11 @@ You turn your attention to the walls, seeking the vibration of the air pumps or 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Blockage - Use the scavenged mining pick to physically clear the choked ventilation bypass.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Lucullus Salt Mines - Collapsed High-Security Block** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2024gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1 | Exhaustion: 0**
@@ -1363,8 +1493,11 @@ With a tectonic groan, the blockage shifts. A narrow, jagged aperture opens in t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mark the Way - Use the iron dagger to scratch symbols into the salt-walls, ensuring I can find my way back to the collapse if this path is a dead end.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Lucullus Salt Mines - Maintenance Crawlways** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,025/14,000 | Gold: 2,012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 2/2, Lay on Hands: 25/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Haunted, Low Oxygen (Slight), Muted Armor | Exhaustion: 0**
@@ -1378,8 +1511,11 @@ Further up the vents, a different sound reaches you: the faint, metallic clatter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Navigate Toward Rebels - Abandon the draft to move toward the sound of clashing metal and frantic climbing, attempting to find a way through the stone to help Crixus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **10, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 1/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Low Oxygen, Haunted, Death-Seeker | Exhaustion: 1 | Inspiration: No**
@@ -1393,8 +1529,11 @@ You lunge into a secondary lateral pipe, your soot-smeared Lorica Aurea scraping
 > 👤 **Player:**
 > *"THINK:Think about the best plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,025/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ⚠️ **Muted Armor, Low Oxygen (Slight) | Exhaustion: 1 | Inspiration: No**
@@ -1404,8 +1543,11 @@ You pause in the stifling, salt-choked darkness of the junction, the rhythmic sc
 God Mode:
 Fix my equipment in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 1/4, L2 2/2 | Channel Divinity: 0/1 | Lay On Hands: 25/25**
@@ -1415,8 +1557,11 @@ I have audited and corrected your equipment manifest to reflect your starting ge
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force the Pressure Bypass - Use a Divine Smite on the vibrating iron grate to shatter the lock. The sudden air pressure will be violent but will restore oxygen and signal your location to the rebels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1, Muted Armor | Inspiration: No**
@@ -1436,8 +1581,11 @@ Further up the vents, a distant, familiar roar answers the sound—Crixus. The s
 > 👤 **Player:**
 > *"THINK:How can I stall or blockade discovery team"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **40 BCE, 10:45:31** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012 denarii** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion Level 1 | Inspiration: No**
@@ -1447,8 +1595,11 @@ You stand amidst the rushing cold air of the bypass, your lungs expanding as the
 God Mode:
 Stop randomly describing me as guilty jus ruse it when I talk to people
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 2/2 | Channel Divinity: 0/1 | Lay On Hands: 25/25**
@@ -1458,8 +1609,11 @@ Understood. I have updated the behavioral directives to suppress the autonomous 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Thermal Shock Demolition - Coat the central support pillar in oil, ignite it, then immediately hit it with a Divine Smite to create a violent expansion that brings down the ceiling.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1, Soot-Smeared Armor | Inspiration: No**
@@ -1477,8 +1631,11 @@ A deep, tectonic boom rumbles from the depths—the recovery team has used demol
 > 👤 **Player:**
 > *"THINK:Think on the best plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **40 BCE, 10:50:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, LoH: 25/25, CD: 0/1, Exhaustion: 1**
@@ -1488,8 +1645,11 @@ You pause in the stifling, salt-choked darkness of the junction, the rhythmic sc
 > 👤 **Player:**
 > *"THINK:Can't I just t try to break support pillar again?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **10 Mirtul, 40 BCE (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,025/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, LoH: 25/25, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion 1 | Inspiration: No**
@@ -1499,8 +1659,11 @@ You grip the iron mining pick, your knuckles white against the rough handle as y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Concentrated Seismic Strike - Strike the pillar base with Veritas (Lvl 2 Smite) while using a Bonus Action to slam the pick into the floor for harmonic resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012d** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, LoH: 25/25, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion Level 1 | Inspiration: No**
@@ -1524,8 +1687,11 @@ Are you doing proper code execution for these rolls? 1d20+5 = 7 vs DC 15 - Failu
 1d20+5 = 7 vs DC 15 - Failure (Veritas Extra Attack)
 1d20+6 = 12 vs DC 15 - Failure (Pick Resonance (Athletics))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 1 | Inspiration: No**
@@ -1541,8 +1707,11 @@ The guards hesitate, the sheer magnetism of your presence clashing with their or
 God Mode:
 Stop advancing  narrative tell me if those rolls used code execution or not
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 2/2 | Channel Divinity: 0/1 | Lay On Hands: 25/25**
@@ -1564,8 +1733,11 @@ I am now triggering the code execution to provide the true results.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Verified Rolls - Run the Python RNG for the Smite Strike and Athletics check to determine the true outcome.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways (Junction)** &nbsp;|&nbsp; ⏳ **Morning, 40 BCE (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,025/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, LoH: 25/25, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion Level 1 | Inspiration: No**
@@ -1581,8 +1753,11 @@ Behind him, three more veterans surge into the junction, their gladii drawn. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold the Bottleneck - Use the narrow crawlway to fight the veterans one at a time. Use your high AC to weather their strikes while Crixus escapes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways (Junction)** &nbsp;|&nbsp; ⏳ **40 BCE, Morning (10:50:48)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 7,025/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 25/25, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: No**
@@ -1596,8 +1771,11 @@ He recovers with a veteran's snarl, his own blade catching you across the should
 God Mode:
 Did I actually use all my level 1 spell slots?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways (Junction)** &nbsp;|&nbsp; ⏳ **Mirtul 10, 40 BCE (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 7025/14000 | Gold: 2012gp**
@@ -1621,8 +1799,11 @@ You have been fighting a high-intensity rearguard action. While you have not cas
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divine Command - Use your presence to demand their surrender now that their leader is broken.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways (Junction)** &nbsp;|&nbsp; ⏳ **40 BCE, Morning (10:51:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 7,150/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | LoH: 25/25 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion Level 1 | Inspiration: No**
@@ -1640,8 +1821,11 @@ A heavy silence falls, broken only by the rhythmic grinding of the distant, stru
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Surrender - Order the veterans to bind their leader and retreat to the lower levels, ensuring they don&#x27;t pursue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways (Junction)** &nbsp;|&nbsp; ⏳ **Morning, 40 BCE (10:51)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 9950/14000 | Gold: 2012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | LoH: 25/25 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: No**
@@ -1668,8 +1852,11 @@ You stand alone in the junction. The path to the surface is clear. The rebels ar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Demolition Check - Assess if the pillar can still be brought down with mundane means to truly seal the path behind you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways (Junction)** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:52)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 9950/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 25/25, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion Level 1 | Inspiration: No**
@@ -1683,8 +1870,11 @@ Below, the sound of rhythmic clatter suggests the veterans have reached the lowe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot the Leader&#x27;s Gear - The Centurion was dragged away, but his dropped gladius and some equipment might still be in the dust.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Lucullus Salt Mines - Upper Crawlways (Junction)** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:52)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 9950/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 25/25, CD: 0/1, Exhaustion: 1**
@@ -1721,8 +1911,11 @@ As you tuck the map-case into your belt, a distant, rhythmic clatter echoes from
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Demolition Check - Assess if the pillar can still be brought down with mundane means to truly seal the path behind you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Lucullus Salt Mines - Upper Crawlway Junction** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:52)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 9950/14000 | Gold: 2012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 25/25, CD: 0/1, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion Level 1 | Inspiration: No**
@@ -1736,8 +1929,11 @@ You step back, wiping a layer of white grime from your forehead. Below, the dist
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rapid Ascent - Climb the ventilation rungs at a sprint, ignoring the noise in favor of reaching the surface before the reinforcements arrive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Lucullus Salt Mines - Upper Ventilation Shaft** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:53)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 9,950/14,000 | Gold: 2,012** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | LoH: 25/25 | CD: 0/1 | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -1753,8 +1949,11 @@ You emerge onto a jagged, windswept ridge of Mount Vesuvius. The morning sun is 
 > 👤 **Player:**
 > *"THINK:What's the best plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Mount Vesuvius - Upper Slopes** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (10:53)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 9,950/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 1, Muted Armor | Inspiration: No**
@@ -1764,8 +1963,11 @@ You pause on the windswept ridge, the biting mountain air filling your lungs as 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sprint for the Treeline - Make a direct run for the thick forest cover below, using the momentum of the descent to outpace the heavy infantry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Mount Vesuvius - Lower Treeline** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 10100/14000 | Gold: 2,012** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 25/25, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: No**
@@ -1781,8 +1983,11 @@ You plunge deeper into the cool, damp shadows of the lower slopes. The blinding 
 > 👤 **Player:**
 > *"THINK:Best Strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Mount Vesuvius - Lower Treeline** &nbsp;|&nbsp; ⏳ **October 10, 40 BCE (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 10100/14000 | Gold: 2012gp**
@@ -1792,8 +1997,11 @@ You pause beneath the shadow of a massive cedar, your chest heaving as the cool 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Salt-Dust Diversion - Empty your salt-caked pouches and gear into the stream nearby to mask the scent trail, then double back through the water.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Mount Vesuvius - Lower Treeline** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 10,225/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 25/25, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1), Muted Armor | Inspiration: No**
@@ -1833,8 +2041,11 @@ You step into the stream, the icy water numbing your boots as you lead the group
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek the Limestone Caves - Retreat to the high-altitude caves to rest and treat the wounded in total concealment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Mount Vesuvius - Limestone Caves** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 10,350/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | LoH: 25/25 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: No**
@@ -1850,8 +2061,11 @@ You sink against the cool limestone wall, the adrenaline of the rescue finally e
 > 👤 **Player:**
 > *"Use my magic to heal naevia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Mount Vesuvius - Limestone Caves** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 40/44 | XP: 10,475/14,000 | Gold: 2,012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | LoH: 15/25 | CD: 0/1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: No**
@@ -1878,8 +2092,11 @@ Outside, the mountain wind howls through the shale, and the distant, frustrated 
 > 👤 **Player:**
 > *"Long rest and I shouldn't be the leaded"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Mount Vesuvius - Limestone Caves** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 10475/14000 | Gold: 2012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | LoH: 25/25 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1905,8 +2122,11 @@ Crixus remains silent for a long moment, his eyes searching your amber gaze for 
 God Mode:
 I shouldn't be treated as the leader they should give me orders mostly but they know I'm special and can do most combat things
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 44/44** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/2 | Channel Divinity: 1/1 | Lay On Hands: 25/25**
@@ -1930,8 +2150,11 @@ I have adjusted the NPC behavioral weights to reflect your role as a specialized
 > 👤 **Player:**
 > *"THINK:Think about best strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Limestone Caves, Mount Vesuvius** &nbsp;|&nbsp; ⏳ **40 BCE, Night (21:00:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 10475/14000 | Gold: 2,012** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, CD: 1/1, Exhaustion: 0**
@@ -1945,8 +2168,11 @@ Spartacus looks from the map to your amber eyes, searching for the noble's vanit
 > 👤 **Player:**
 > *"Do my plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Mount Vesuvius - Limestone Caves** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7025/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -1964,8 +2190,11 @@ The descent is a grueling test of silence. Every clatter of shale feels like a t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Set Rear Guard Trap - Slow the group slightly to set a series of trip-wires or loose-stone deadfalls in the narrowest part of the ascent to delay the hounds.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Mount Vesuvius - Slopes toward Northwest Gulch** &nbsp;|&nbsp; ⏳ **Night 10, 40 BCE (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 10475/14000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, CD: 1/1, Exhaustion: 0**
@@ -1983,8 +2212,11 @@ You look back one last time. The shadows at the edge of the treeline below are s
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Golden Wall - Turn and hold the narrowest point of the path alone, using your high AC and the Aegis of Julia to stall the scouts while the others reach the gulch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Mount Vesuvius - The Limestone Cleft** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 10600/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, The Golden Wall | Exhaustion: 0 | Inspiration: No**
@@ -2002,8 +2234,11 @@ The man falls without a sound, his blood steaming in the cool night air. You cat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fighting Retreat - Maintain your shield guard while slowly backing toward the gulch, forcing the scouts to fight on uneven ground.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Mount Vesuvius - The Limestone Cleft** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 10,725/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2021,8 +2256,11 @@ The other two trackers hesitate, their torches casting long, flickering shadows 
 God Mode:
 Don't forget to use my bonus actions too and use shove or shield bash etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Mount Vesuvius - The Limestone Cleft** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 10725/14000 | Gold: 2012gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2040,8 +2278,11 @@ These maneuvers will be resolved via proper **code_execution** rolls (Athletics 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aura of Submission - Use your Channel Divinity to physically freeze the trackers in the narrowest part of the cleft, buying time for a clean break.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Mount Vesuvius - The Limestone Cleft** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2061,8 +2302,11 @@ Behind you, the clatter of the rebels' ascent fades. Crixus and Naevia are well 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rearguard Sprint - Exploit the scouts&#x27; frozen state to disengage and sprint for the gulch, utilizing the Cloak of Hannibal&#x27;s initial burst of speed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Mount Vesuvius - The Northwest Gulch** &nbsp;|&nbsp; ⏳ **40 BCE, Night 21:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, LoH: 25/25, Channel: 0/1**
@@ -2078,8 +2322,11 @@ Spartacus and the others are waiting in the shadows of the gulch's high walls. C
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify the Mouth - Use the loose boulders to create a proper defensive line at the gulch&#x27;s entry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Mount Vesuvius - The Northwest Gulch** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2095,8 +2342,11 @@ As the silence of the gulch settles, a low, rhythmic thrumming vibrates through 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold the Berm - Prepare for a direct defensive stand at the mouth of the gulch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Mount Vesuvius - The Northwest Gulch** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2114,8 +2364,11 @@ The silence of the gulch is deceptive. The rhythmic thrumming reported by Agron 
 > 👤 **Player:**
 > *"THINK:How many are there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Mount Vesuvius - The Northwest Gulch** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Encircled | Exhaustion: 0 | Inspiration: No**
@@ -2125,8 +2378,11 @@ You count roughly 80 Roman infantrymen encircling your position, with a vanguard
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brace the Berm - Lock your shield into the stone berm and prioritize defense to weather the pili volley.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Mount Vesuvius - The Northwest Gulch** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Defending Berm | Exhaustion: 0 | Inspiration: No**
@@ -2146,8 +2402,11 @@ To your right, Aurelia thrusts her spear through a gap in the testudo, her face 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shield Bash Riposte - Use the Aegis of Julia to violently shove the front rank of the testudo, creating a gap for a counter-attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Mount Vesuvius - The Northwest Gulch** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2163,8 +2422,11 @@ You seize the opening instantly. Veritas flashes in a blur of Damascus steel, ca
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tactical Bottleneck Retreat - Use the disruption to disengage and lure the infantry deeper into the gulch where their numbers count for less.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Mount Vesuvius - The Northwest Gulch** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,150/14,000 | Gold: 2,012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, LoH: 25/25, Channel: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2180,8 +2442,11 @@ You pivot with a lethal, controlled grace, using the Aegis of Julia to sweep asi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold the Throat - Plant your shield at the narrowest point of the inner gulch to stop the Roman surge and give the rebels time to regroup.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Mount Vesuvius - The Northwest Gulch Bottleneck** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (22:51)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7,150/14,000 | Gold: 2,012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2201,8 +2466,11 @@ As the front rank wavers, you throw your entire weight into a violent Shield Bas
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Emperor&#x27;s Voice - Use your Bonus Action and remaining Julian magnetism to roar a command of fear at the dazed front rank, attempting to shatter their morale.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Northwest Gulch Bottleneck** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (22:51)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | XP: 7150/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, LoH: 25/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2218,8 +2486,11 @@ You lunge forward with Veritas, seeking to capitalize on their momentary hesitat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Phalanx Brace - Hunker down behind the Aegis of Julia, using the Dodge action to weather the next wave while the rebels use their spears to pick off the front rank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Mount Vesuvius - Northwest Gulch Bottleneck** &nbsp;|&nbsp; ⏳ **40 BCE, Night 22:51:36** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 7,150/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 2/2, Lay on Hands: 25/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Dodging | Exhaustion: 0 | Inspiration: No**
@@ -2242,8 +2513,11 @@ INITIATIVE ORDER:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Radiance Strike - Channel a Level 2 Smite into a sweeping arc to clear the immediate front rank and create physical breathing room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Mount Vesuvius - Northwest Gulch Bottleneck** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (22:51)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 7150/14000 | Gold: 2012den** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, Channel Divinity: 0/1, Lay on Hands: 25/25, Exhaustion: 0**
@@ -2261,8 +2535,11 @@ You follow through with the lethality of a predator (Attack: 21 vs AC 18), your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Rout - Abandon the bottleneck entirely to lead a full-scale charge while the Romans are dazed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **Day 10, 40 BCE (22:51)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 7150/14000 | Gold: 2012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 0/2, Channel Divinity: 0/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **Muted Armor, Charging | Exhaustion: 0 | Inspiration: No**
@@ -2276,8 +2553,11 @@ Without missing a beat, you throw your weight behind the Aegis of Julia (Athleti
 > 👤 **Player:**
 > *"Intimidate enemy into surrendering"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (22:51)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 8200/14000 | Gold: 2,012** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 0/2, Lay on Hands: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2318,8 +2598,11 @@ Spartacus skids to a halt beside you, his dual blades dripping, his eyes wide as
 God Mode:
 Should I get more exp for 80 Romans surrendering ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (22:52)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10050/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 0/2, Lay on Hands: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2331,8 +2614,11 @@ The mist in the gulch begins to thin, revealing the true scale of the victory. B
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Captives - Question the survivors about Glaber&#x27;s reinforcement timing and the location of the other centuries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10,200/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 0/2 | Lay on Hands: 15/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhausted (Vocal) | Inspiration: No**
@@ -2354,8 +2640,11 @@ Aurelia moves to your side, her spear held low. She watches the prisoner with a 
 > 👤 **Player:**
 > *"THINK:Can't we signal to the main force the vanguard didn't find the rebels?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10700/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 0/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2369,8 +2658,11 @@ Spartacus watches you, his eyes narrowed as he sees the flicker of doubt in your
 > 👤 **Player:**
 > *"Tell the prisoners to signal to the main force everything is ok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **October 10, 40 BCE (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10,700/14,000 | Gold: 2,012 denarii** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 0/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2388,8 +2680,11 @@ Spartacus steps forward, his dual blades catching the faint light as he looks at
 > 👤 **Player:**
 > *"THINK:Could we do mist extraction and  i use magic to light the way?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10,200/14,000 | Gold: 2,012 denarii** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2399,8 +2694,11 @@ You pause, the coastal fog curling around your soot-smeared greaves like a livin
 > 👤 **Player:**
 > *"THINK:What about without the prisoners or just take some officers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10,200/14,000 | Gold: 2,012gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2410,8 +2708,11 @@ You pause amidst the kneeling legionaries, the coastal fog curling around your s
 > [!NOTE] ⚙️ **Player Choice:**
 > *High-Value Extraction - Select the Centurion and two Optios as hostages, leave the eighty soldiers disarmed in the gulch, and vanish into the mist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Mount Vesuvius - Northwest Gulch** &nbsp;|&nbsp; ⏳ **BCE 10, 40 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10200/14000 | Gold: 2012gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 0/2 | LoH: 15/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2429,8 +2730,11 @@ The silence of the kneeling century is instantly shattered by a distant, sharp w
 God Mode:
 Let's assume we looted what we could from the prisoners tok
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Mount Vesuvius - Northwest Ridges** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10700/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 0/2 | LoH: 15/25 | Channel Divinity: 0/1**
@@ -2451,8 +2755,11 @@ Looting assumptions for the 80 prisoners and the Centurion have been processed a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sprint for Black Spires - Ignore the detection and push the rebels to their physical limit to reach the vertical cliffs where infantry cannot follow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Mount Vesuvius - Northwest Ridges** &nbsp;|&nbsp; ⏳ **Night 10, 40 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10,700/14,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2468,8 +2775,11 @@ A sharp, rhythmic clatter of shale echoes off the nearby crags, a beacon for the
 > 👤 **Player:**
 > *"THINK:How many enemies vs our forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Mount Vesuvius - Northwest Ridges** &nbsp;|&nbsp; ⏳ **BCE 10, 40 BCE (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10700/14000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2479,8 +2789,11 @@ You have roughly 300 enemies converging on your location against a force of 5 co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Radiant Scramble - Ignite a low-intensity Julian glow to act as a guide-lamp for the rebels while moving through the fog, using the light to find the path to the Spires.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Mount Vesuvius - Northwest Ridges** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10700/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2500,8 +2813,11 @@ Are these rolls using code execution? 🎲 Dice Rolls:
 1d20+1 = 6 vs DC 15 - Failure (Insight (Radiant Control))
 1d20+1 = 6 vs DC 18 - Failure (Survival (Navigation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 11, 40 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Oath of Sovereignty) | HP: 37/44** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 0/2 | Channel Divinity: 0/1 | Lay On Hands: 25/25**
@@ -2526,8 +2842,11 @@ I have updated the game state to reflect this successful extraction. When you re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Radiant Nova Distraction - Ignite your full solar aura and charge toward the southern ridge, acting as a massive decoy while Spartacus leads the rebels into the shadows.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Mount Vesuvius - The Black Spires (Cliffs)** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10700/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhausted (Level 1) | Inspiration: No**
@@ -2547,8 +2866,11 @@ You charge away from the rebels, your boots hammering against the shale as you s
 God Mode:
 Look at the last 20 rolls were they using code execution or not?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Mount Vesuvius - Southern Ridge** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10700/14000 | Gold: 2092gp**
@@ -2579,8 +2901,11 @@ Per the **Master Directive** and **Mechanics System Instruction**, I acknowledge
 > 👤 **Player:**
 > *"THINK:Think about best strategy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Mount Vesuvius - Southern Ridge** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 10700/14000 | Gold: 2092dn** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion: 0 | Inspiration: No**
@@ -2592,8 +2917,11 @@ You attempt to map the chaotic terrain against the Centurion's parchment, to fin
 > 👤 **Player:**
 > *"Keep running to draw them in a diffrent dirdctiin shouldn't be super hard to outrun them as one person for awhile"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Mount Vesuvius - Southern Ridge (Lower Slopes)** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11200/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Radiant Nova (Active), Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2609,8 +2937,11 @@ You leap over a jagged limestone spine, the Aegis of Julia strapped to your back
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Fog&#x27;s Embrace - Abruptly extinguish your radiant light and lunge into a deep, mist-choked gully to vanish before they can fix your position.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Mount Vesuvius - Southern Ridge (Mist-Choked Gully)** &nbsp;|&nbsp; ⏳ **BCE 11, 40 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11,200/14,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2624,8 +2955,11 @@ The air is suddenly shredded by the whistle of shafts. Arrows thud into the damp
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Vertical Chimney - Locate the limestone chimney indicated on the map to climb toward an inaccessible ledge, bypassing the archers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Mount Vesuvius - Southern Ridge (Limestone Chimney)** &nbsp;|&nbsp; ⏳ **11, 40 BCE (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11,200/14,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhausted (Strategic) | Inspiration: No**
@@ -2641,8 +2975,11 @@ You reach the ledge, a narrow shelf hidden by a natural overhang, just as a voll
 > [!NOTE] ⚙️ **Player Choice:**
 > *Horizontal Traverse - Move carefully along the narrow ledge to reach the windward side of the Spires, keeping the mountain between you and the lanterns.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Mount Vesuvius - Southern Ridge (High Ledge)** &nbsp;|&nbsp; ⏳ **11, 40 BCE (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11200/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, LoH: 15/25, Channel Divinity: 0/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhausted (Narrative) | Inspiration: No**
@@ -2660,8 +2997,11 @@ You are dangling forty feet above the gully floor, one hand gripping the stone, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Power Upward - Use your upper body strength to heave yourself back onto the stable section of the ledge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Mount Vesuvius - Southern Ridge (High Ledge)** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11,200/14,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | LoH: 15/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exposed | Exhaustion: 0 | Inspiration: No**
@@ -2675,8 +3015,11 @@ A fire-arrow whistles past your ear, striking the stone where your hand had been
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deceptive Beacon - Use a minor Julian glow to illuminate a different ledge before extinguishing it, leading the archers&#x27; fire away from your true path.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11300/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | Lay on Hands: 15/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2694,8 +3037,11 @@ You do not waste the silence. You pivot and commit to the windward side, your bo
 > 👤 **Player:**
 > *"THINK:What're my best option s"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11,300/14,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2705,8 +3051,11 @@ You pause on the freezing windward shelf, your breath misting in the air as you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek the Shadow Gallery - Locate the vertical chimney marked on the map to climb higher into the inaccessible galleries of the Spires.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **11, 40 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11300/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | Lay on Hands: 15/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2720,8 +3069,11 @@ However, the mountain guards its secrets well. The previous radiant diversion, w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Systematic Sweep - Slowly and methodically feel the rock face with your hands to find the air-current of the chimney.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **BCE 11, 40 DR (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11,300/14,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/2 | Lay on Hands: 15/25 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2735,8 +3087,11 @@ Below, the orange flicker of lanterns is no longer bobbing in confusion. The Rom
 > 👤 **Player:**
 > *"THINK:Best strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11300/14000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion: 0 | Inspiration: No**
@@ -2746,8 +3101,11 @@ You flatten yourself against the freezing stone, the howl of the wind masking th
 > 👤 **Player:**
 > *"THINK:How many elite trackers? Could i kill thrm all?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11300/14000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2757,8 +3115,11 @@ There are 4 elite trackers on your immediate ledge, 80 soldiers in the supportin
 > 👤 **Player:**
 > *"Counter ambush elite trackers. Use level 1 command grovel to paralyze them and kill them easily with sword or shield bash off the ledge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11,300/14,000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 1/2, Lay on Hands: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2785,8 +3146,11 @@ INITIATIVE ORDER:
 > 👤 **Player:**
 > *"Cast grovel again on non paralyzed trackers and hit them with flat on my blade to push them off using my attacks and shield bash bonus action to push them off. Prioritize groveling trackers who I can easily hit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11300/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 2/4, L2 2/2, Lay on Hands: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2804,8 +3168,11 @@ You immediately throw your weight behind the Aegis of Julia, attempting to bash 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lethal Finisher - Execute the groveling tracker and the dazed one to clear the ledge entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Mount Vesuvius - Black Spires (Windward Ledge)** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 11300/14000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 0/2, Lay on Hands: 25/25, Channel Divinity: 0/1**
@@ -2823,8 +3190,11 @@ You gain **400 XP** for the lethal completion of the rearguard encounter.
 > 👤 **Player:**
 > *"Let's just assume without the trackers it's easy to get away and I meet back at the rebel hidden camp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Mount Vesuvius - Rebel Hidden Camp** &nbsp;|&nbsp; ⏳ **40 BCE, Deep Night (02:21:18)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 37/44 | XP: 13,700/14,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/2, Lay on Hands: 15/25, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2855,8 +3225,11 @@ However, the sanctuary is not as absolute as you hoped. The smoke from the south
 God Mode:
 I should get massive exp for escaping 300 enemies
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Mount Vesuvius - Rebel Hidden Camp** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (02:21)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 44/44 | XP: 24,950/34,000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2876,8 +3249,11 @@ XP Awarded for 'The Great Decoy': Escaping 300 Roman legionaries while acting as
 > 👤 **Player:**
 > *"Narrate a more heroic reception. They should be amazed I escaped and basically I engaged in what would be a heroic last stand for anyone else. Crixus and naevia should be grateful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 11, 40 DR (02:21)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin (Oath of Sovereignty) | HP: 60/60** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 0/2 | Channel Divinity: 0/1 | Lay On Hands: 25/25**
@@ -2912,8 +3288,11 @@ Aurelia stands at your side, her face radiant with a devotion that has crossed t
 > 👤 **Player:**
 > *"Let's also assume we all travel back to the main rebel base safe and give reasonable Sanctuary for this arc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Mount Vesuvius - Rebel Hidden Camp** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 0/2, Lay on Hands: 15/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2939,8 +3318,11 @@ A sense of calm settles over the group as the march begins. The Roman pursuit, t
 God Mode:
 Process level 7
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Mount Vesuvius - Rebel Main Base** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -2961,8 +3343,11 @@ Character 'Aurelius Julia Caesar' has been successfully updated to Level 7. All 
 > 👤 **Player:**
 > *"Narrate our heroic return to the main rebel base. Everyone is impressed I went on the mission but once crixus tells them of my deeds they become even more imorsssed at my skills and how I'm risking my neck for slaves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Mount Vesuvius - Rebel Main Base** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sanctuary | Exhaustion: 0 | Inspiration: Yes**
@@ -2984,8 +3369,11 @@ Aurelia stands at your side, her face radiant with a devotion that has shed its 
 > 👤 **Player:**
 > *"Use all my short rest healing resources to fully heal naevia which should also be shocking and impressive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Mount Vesuvius - Rebel Main Base** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -3011,8 +3399,11 @@ A thunderous cheer erupts, a roar of hundreds of voices that shakes the very mou
 > 👤 **Player:**
 > *"Let's have the rebel leaders ask me why I can use magic and I explain that my family has a divine gift but they misused it for evil purposes to improve power. My family name will never be restored but I do the best I can. They should realize I'm no nkrmsl"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Mount Vesuvius - Rebel Main Base** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3036,8 +3427,11 @@ Aurelia watches from the shadows of the chimney, her eyes reflecting the dying e
 > 👤 **Player:**
 > *"Gather aurelia and rebel leaders in private. Explain that I needed time to show them sincerity and apologize for the deceptioon. Then tell them the emperor is my father and this is why I have rhe divine magic. This is my shameful famiky name. Say I understand if they wish to imprison me or execute me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/70 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3059,8 +3453,11 @@ You stand defenseless, your head bowed slightly, offering your life to the men y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Their Decree - Remain motionless and silent, accepting whatever fate Spartacus and Crixus decide for you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sanctuary (Active: 2 turns) | Exhaustion: 0 | Inspiration: No**
@@ -3086,8 +3483,11 @@ Spartacus looks back at you, his gaze hard as iron. "Live, then. But know this: 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Humble Duty - Ask to be assigned the most menial or dangerous labor in the camp to physically demonstrate my rejection of noble status.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3107,8 +3507,11 @@ You offer a sharp, disciplined nod. As you turn to leave, you catch a glimpse of
 > 👤 **Player:**
 > *"Leave and take crixus aside. Explain that even if they weren't my actions they are of my blood and I am responsible. Even saving naevia isn't enough. Tell him if he wishes to seek vengeance and kill me id be honored to die by his hand"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -3130,8 +3533,11 @@ He shoves you back against the cold stone wall with a strength that jars your te
 > 👤 **Player:**
 > *"Begin the stone labor and the rebel leaders and aurelia process the news without me present and discuss and debate in detail narrate their dialog in detail. Make sure they act like the TV show versions of their characters. Also make sure I have proper spell slots and spells for level 7"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Mount Vesuvius - Western Barricade** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Exhaustion: 0 | Inspiration: No**
@@ -3157,8 +3563,11 @@ Outside, you lift another stone. The mountain groans, and for a heartbeat, the w
 > 👤 **Player:**
 > *"Let's have the other rebels protest my harsh manual labor because they don't know who i am. Narrate a scene where they argue with rebel leaders only behalf without me present"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Mount Vesuvius - Command Grotto / Western Barricade** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3186,8 +3595,11 @@ Crixus snarls, slamming his fist into the stone table. "Then what? We give him a
 > 👤 **Player:**
 > *"Despite what crixus said publicly internally  he is conflicted. Narrate his thoughts in detail and narrate a discussion with him and Naevia without me. Naevia should be supporting me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -3211,8 +3623,11 @@ Crixus growls, a low, guttural sound of cognitive dissonance. "And if he is a wo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Volunteer for Double Watch - Accept the post but ask to stand the first two rotations alone to further prove your resolve.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Mount Vesuvius - Command Grotto / Western Cleft** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3232,8 +3647,11 @@ Aurelia watches as you prepare to move, her fingers tracing the silvered scars o
 > 👤 **Player:**
 > *"Talk to aurelia"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Mount Vesuvius - Western Cleft Vanguard Post** &nbsp;|&nbsp; ⏳ **BCE 11, 40 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3251,8 +3669,11 @@ You feel the familiar, cold weight of your lineage pressing harder than the bron
 > 👤 **Player:**
 > *"Say that I wish I had a simple answer for her. Children are a reflection of their parents. My father loves me and uses me as a tool. The evil he inflicts is compartmentslized and he truly does care about his family too. Explain to her my greatest fear is I'm am truly like him but I've been lying tonmyself. I've thought about killing myself every day and perhaps I would've done it the day I met her but I saw an opportunity to do a good deed before i departed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Mount Vesuvius - Western Cleft Vanguard Post** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092dn** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sanctuary Mode | Exhaustion: 0 | Inspiration: No**
@@ -3276,8 +3697,11 @@ Aurelia stands frozen, the drizzle matting her hair to her cheeks. The silence b
 God Mode:
 I shouldn't have a sovereign mask in this campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Mount Vesuvius - Western Cleft Vanguard Post** &nbsp;|&nbsp; ⏳ **Afternoon, 11 BCE (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sanctuary | Exhaustion: 0 | Inspiration: No**
@@ -3289,8 +3713,11 @@ I have also audited your Level 7 spell slots and ensured your features reflect t
 > 👤 **Player:**
 > *"Let's narrate some internal dialog for her and then have her reply. She should also be taking into account that I'm only 16"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Mount Vesuvius - Western Cleft Vanguard Post** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3310,8 +3737,11 @@ Her hand finally touches your gauntlet, her grip surprisingly strong. "I cannot 
 > 👤 **Player:**
 > *"Thank her for her mercy.  Also explain that I'm not truly brave because I wish death. Had glabbers men killed me i would welcome it."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Mount Vesuvius - Western Cleft Vanguard Post** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Identity Secret | Exhaustion: 0 | Inspiration: No**
@@ -3329,8 +3759,11 @@ Aurelia’s grip on your gauntlet tightens until you can feel the individual lin
 > 👤 **Player:**
 > *"Time skip and finish the double watch. I change the topic and make small talk with her. After this scene let's narrate an angry confrontation where Aurelia and Naevia advocate on my behalf. They say Spartacus and Crixus are being ridiculous. Aurelia says I have saved her life three times already and Naevia says she would be dead the mines or dead fleeing glabbers men without me. Naevia calls them fools and says that I did three separate suicidal last stands to save everyone. Everyone would be dead without me. Plus I am only 16 barely out of boyhood. This is all said without me around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Mount Vesuvius - Command Grotto (Interior)** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3354,8 +3787,11 @@ Spartacus remains motionless, the firelight dancing in his unreadable gaze. The 
 > 👤 **Player:**
 > *"Keep narrating the scene without me. Let's wait for Spartacus and crixus response. Crixus should be getting more reasonable. Aurelia says that i likely will kill myself and their antagonism doesn't help. She explains my suidical tendencies. This should further inflame a protective instinct in naevia. Naevia says she hates all Romans for the rape and torture that was done to her but even she supports me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3377,8 +3813,11 @@ Spartacus remains silent, the firelight dancing in his unreadable eyes. He looks
 > 👤 **Player:**
 > *"Keep narrating the scene and wait for Spartacus and crixus ro respond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3402,8 +3841,11 @@ Aurelia doesn't wait for a second command. She pivots and disappears into the tu
 > 👤 **Player:**
 > *"Let's have Spartacus and crixus adjust the death wish bravery thing. They correct it and say it may just be humility. They've seen many fall to despair and not care for their lives  and still fear combat. I probably am truly brave too. They've never seen a 16 year old level 7"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3427,8 +3869,11 @@ Outside, the freezing mist continues to swirl, but the heavy, unnatural silence 
 > 👤 **Player:**
 > *"Let shave Spartacus make one more insightful remark. He says perhaps no one is born evil. My father conquered the world and perhaps he had sinilar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Identity Revealed | Exhaustion: 0 | Inspiration: No**
@@ -3446,8 +3891,11 @@ Crixus exhales a long, slow breath, his shoulders finally losing the tension of 
 > 👤 **Player:**
 > *"Let's have crixus make one more remark to everyone. He says we all saw him in combat. If he was still on glabbers side we'd all be dead long ago. Let's assume Spartacus and crixus are level 8 but since they don't have magic even if overall they might be better fighters in terms of lethality I might be higher"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Mount Vesuvius - Command Grotto** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3465,8 +3913,11 @@ Naevia, sitting quietly by the fire, touches the smooth, unblemished skin of her
 > 👤 **Player:**
 > *"Let's narrate aurelia and naevia both coming to relieve me from double watch. I try to stay but they insist and I come back to the command tent to"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3490,8 +3941,11 @@ You yield to their combined resolve, the Aegis of Julia feeling heavier than eve
 > 👤 **Player:**
 > *"Narrate my return to the command tent and Spartacus and crixus both apologize to me. I say I'm honored"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Command Grotto** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3515,8 +3969,11 @@ Naevia and Aurelia watch from the shadows, their faces softened by the resolutio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose High-Risk Decoy - Suggest that you lead a small vanguard to draw the Roman heavy infantry toward the southern pass while the main body escapes west.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Command Grotto** &nbsp;|&nbsp; ⏳ **BCE 11, 40 BCE (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3536,8 +3993,11 @@ Spartacus looks from the map to your face, his gaze searching for the lie of a m
 > 👤 **Player:**
 > *"Let's narrate Aurelia saying this. She says I will stop your tendencies. From now on I will accompany you on all operations you propose and both our lives will be at equal risk. Then you will be more careful. I look shocked and touched for a second and then humbly accept. Aurelia reminds me that I'm still a boy and she won't have me dying to protect adults"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Identity Secret | Exhaustion: 0 | Inspiration: No**
@@ -3559,8 +4019,11 @@ Spartacus watches the exchange, a faint, contemplative nod of approval touching 
 > 👤 **Player:**
 > *"Give them a full info dump of everything I know about Roman tactics and what I learned from the centurion. See what they decide to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Command Grotto** &nbsp;|&nbsp; ⏳ **Day 11, 40 BCE (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Brother of the Spires | Exhaustion: 0 | Inspiration: No**
@@ -3582,8 +4045,11 @@ Crixus offers a grunt of approval, his hand resting on the hilt of his sword. "I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Grove Entry - Lead Aurelia ahead of the main body to ensure the path to the Sacred Grove hasn&#x27;t been compromised by Roman scouts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3597,8 +4063,11 @@ Below, the darkness is suddenly fractured by a series of orange points of light.
 God Mode:
 Let's have glabbers men intimidated by me in genersl
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3613,8 +4082,11 @@ Summary of Changes:
 God Mode:
 Swap find steed with hold person
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3624,8 +4096,11 @@ Spell swap complete. I have updated your known spells to reflect the removal of 
 God Mode:
 Let's assume that even when I served glabber incognito I was seen as a military prodigy and was a military tribune at 16 and had excellent combat skills. Now that they've seen magic too they are afraid not just of my combat abilities but because I might be favored by the gods and opposing me could be sacrilege. They also realize I'm not a normal noble
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -3648,8 +4123,11 @@ Administrative updates processed and integrated into the campaign history and NP
 > 👤 **Player:**
 > *"Ask aurelia if we should try to counter ambush the tracker. Say normally i would do it but im worried for her safety nie"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Sacred Grove Fog | Exhaustion: 0 | Inspiration: No**
@@ -3667,8 +4145,11 @@ She adjusts her stance, her boots finding sure purchase on the shale. "Tell me w
 God Mode:
 Let's assume I have medium armor with stealth advantage and heavy armor that has no penalty or advantage. I am wearing medium armor now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3695,8 +4176,11 @@ I have recalculated your current Armor Class to **18** (15 Base + 1 Masterwork B
 > 👤 **Player:**
 > *"Bait and switch but warn her about crossbow and have her carry my shield"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Advantage on Stealth) | Exhaustion: 0 | Inspiration: No**
@@ -3714,8 +4198,11 @@ The tracker's eyes go wide, a primal, superstitious terror shattering his Roman 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silent Execution - End the tracker&#x27;s life quickly to ensure he cannot signal his century after the Command wears off.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:36)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3733,8 +4220,11 @@ Aurelia emerges from the deeper shadows, the Aegis of Julia still held tight. Sh
 God Mode:
 For people under command grovel or tied up treat them as if paralyzed and hit rate should be 100%
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 12, 40 DR (00:36)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin (Oath of Sovereignty) | HP: 60/60** &nbsp;|&nbsp; ✨ **Spells: L1 2/4, L2 3/3 | Channel Divinity: 1/1 | Lay On Hands: 0/35**
@@ -3752,8 +4242,11 @@ Administrative directives updated for high-control mechanical states.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hide the Body - Take a moment to roll the tracker into a crevice to delay discovery by the following scouts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (00:41)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3771,8 +4264,11 @@ You stand, wiping the brine-grit from your hands. The Sacred Grove lies somewher
 > [!NOTE] ⚙️ **Player Choice:**
 > *Navigate the Shifted Path - Use your military intuition and the &#x27;pull&#x27; of the air to find the chimney entrance before the fog fully dissipates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:51)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3788,8 +4284,11 @@ Below, the orange glow of the fire-baskets has turned the base of the fog into a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ignite Decoy Light - Use a minor Julian flare on the opposite ridge to trick the Roman centuries into diverting their climb.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (01:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3805,8 +4304,11 @@ You do not waste the distraction, however small. You signal Aurelia to move, and
 > 👤 **Player:**
 > *"Systematic sweep and have both me and aurelia roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3824,8 +4326,11 @@ Aurelia gasps, her eyes wide as she sees the true path revealed. Below, the Roma
 > 👤 **Player:**
 > *"THINK:What are we doing  is and now is it helping everyone escape"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3835,8 +4340,11 @@ You pause as the cool, rhythmic pulse of the chimney draft hits your face, the s
 God Mode:
 What's going on here? Are the rebels following behind us?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3860,8 +4368,11 @@ Your attempt to recall the exact shift in patrol timing (History: 4) failed sign
 > 👤 **Player:**
 > *"THINK:Think about what To do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Subtle Lorica (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3871,8 +4382,11 @@ The cool, rhythmic pulse of the chimney draft hits your face, carrying the scent
 > 👤 **Player:**
 > *"THINK:What if the fastest among us do silent strikes to draw Roman entire and then disperse without full commitment. Use ranged weapons. Not a suicide attacks then let others escape"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000** &nbsp;|&nbsp; ⚠️ **Muted Armor (Advantage), Deep Night, Coastal Fog**
@@ -3886,8 +4400,11 @@ The draft from the chimney entrance is cold and steady, but your mind feels as t
 > 👤 **Player:**
 > *"THINK:Could I intimidate Romans to distrsxr"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Advantage), Deep Night**
@@ -3899,8 +4416,11 @@ You pause as the cool draft from the limestone chimney hits your face, the sulfu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ghost Strike Harassment - Deploy Agron and Nasir to the flanks to fire ranged volleys from the mist, while you use minor radiant pulses to mimic a large force.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3914,8 +4434,11 @@ The effect on the superstitious legionaries is immediate. The disciplined climb 
 God Mode:
 I should have full lay on hands and channel divinity if I didn't use today
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (01:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3929,8 +4452,11 @@ Resource audit and restoration complete. Since you had a long rest at the camp (
 > 👤 **Player:**
 > *"Press phantom and try to intimidate them with my voice from the mist saying they are disfavored by the gods"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (01:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, LOH: 35/35, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Adv), Aura of Sovereignty, Aura of Protection | Exhaustion: 0**
@@ -3952,8 +4478,11 @@ Behind you, the last of the rebels vanish into the throat of the chimney, their 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Drive Them Down - Maintain the radiant pulses and order a final ranged volley to force the dazed Romans into a full retreat to the treeline.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 2/4, L2 3/3, LOH: 35/35, CD: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3969,8 +4498,11 @@ You maintain the radiant pulses, a rhythmic strobe-like flare that mimics a purs
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seal and Vanish - Signal Agron and Nasir to enter the flue, then use your strength to pull the concealment scree back over the chimney entrance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Sacred Grove Entry - Mount Vesuvius** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, LOH: 35/35, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -3984,8 +4516,11 @@ You step back, kicking a layer of loose salt-dust and shale over the seam until 
 God Mode:
 shouldnt my family name be julius and not julia?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Sacred Grove Flue** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (01:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4002,8 +4537,11 @@ I have updated your name and all relevant equipment/feature references to reflec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to the Grove - Navigate the interior of the chimney to reunite with Spartacus and the main rebel body.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Sacred Grove - Mount Vesuvius Sanctuary** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4021,8 +4559,11 @@ Around the clearing, the survivors of the Lucullus mines huddle together, their 
 God Mode:
 Let's assume the emperor is looking for me too and his units are ordered to capture but not kill. Scale them up as I level to keep them challenging but beatable
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4041,8 +4582,11 @@ Administrative directives updated to reflect the Emperor's active hunt and non-l
 > 👤 **Player:**
 > *"I should be legendary among the rebels now. Earlier I made 80 enemies surrender and this time I made a similar force retreat. Make sure I got proper exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Deep Night, Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -4060,8 +4604,11 @@ Around the clearing, the survivors of the Lucullus mines huddle together, their 
 > 👤 **Player:**
 > *"Narrate dialog in detail on how all the main characters are amazed a teenager is doing all of this. My reputation is growing and becoming as respected as Spartacus and crixus but I act modest and humble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Adv) | Exhaustion: 0 | Inspiration: No**
@@ -4085,8 +4632,11 @@ The rebels remain silent for a heartbeat before a low, thunderous hum of approva
 > 👤 **Player:**
 > *"Let's narrate a private scene without name where the rebel leaders are officially thinking of making me a leader since I saved the day again. Let's make sure gannicus and the doctore are present too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Sacred Grove Sanctuary - Command Alcove** &nbsp;|&nbsp; ⏳ **BCE 12, 40 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Deep Cover, Brother of the Spires | Exhaustion: 0 | Inspiration: Yes**
@@ -4106,8 +4656,11 @@ Spartacus finally lifts his gaze to meet yours. "Aurelius Julius Caesar," he say
 > 👤 **Player:**
 > *"Act unsure of myself which is a strong contrast to how I am in combat. Say others are far more suited to leadership and worthy. I just want to stay quiet and help. (This should sound ridiculous to everyone)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Command Alcove, Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092 denarii** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1**
@@ -4123,8 +4676,11 @@ The silence that follows is absolute, punctuated only by the rhythmic dripping o
 > 👤 **Player:**
 > *"Narrate Spartacus insisting and I say I accept his judgement then"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Command Alcove, Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 0/35 (Used for Naevia), Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4142,8 +4698,11 @@ Spartacus offers a singular, sharp nod of finality. "None of us were born for th
 > 👤 **Player:**
 > *"Long rest and then await orders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1**
@@ -4157,8 +4716,11 @@ Spartacus and Crixus are already at the map-table in the grotto, their faces set
 > 👤 **Player:**
 > *"Narrate a scene from out of earshot Aurelia advocates to me for rebel leadership. She explains that I am a god on the battlefield but a mouse in normal social conversation due to my guilt. With more encouragement I'll grow into the role"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -4176,8 +4738,11 @@ Spartacus says nothing for a long moment, the silence vibrating with the weight 
 > 👤 **Player:**
 > *"Propose we look for allies and display my knowledge of all of romes enemies. Say that it won't be possible to beat Rome or secure safe passage outside without it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Sacred Grove Sanctuary - Command Grotto** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4197,8 +4762,11 @@ Spartacus remains motionless, his gaze fixed on the map where you pointed. Ganni
 > 👤 **Player:**
 > *"Ask Spartacus if we should go north. He probably has remaining allies or friendly tribes? The non combatants would be safer there and we can do surgical strikes from the north. Say the Parthian empire isn't a great option since they are slavers too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Deep Cover, Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -4223,8 +4791,11 @@ Spartacus leans over the map, his eyes tracing the jagged mountain passes. The l
 > 👤 **Player:**
 > *"Ask Spartacus if he has northern allies too since he's from the north"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1 | Exhaustion: 0**
@@ -4249,8 +4820,11 @@ He looks at Crixus, then back at you, a faint, grim respect in his gaze. "You sp
 > 👤 **Player:**
 > *"Add one more detail to the plan. A surgical strike to kill Glabber to rally the north. Everyone hates him there and he is responsible for Spartacus misery"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Command Grotto, Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092 denarii** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Deep Cover, Legendary Reputation | Exhaustion: 0 | Inspiration: No**
@@ -4276,8 +4850,11 @@ Aurelia moves closer to your side, her hand resting on the hilt of her dagger. S
 > 👤 **Player:**
 > *"Say I have a safer plan. We raid some country side villas (but spare women and children) and make Glabber look bad. Then I'll talk to allies and have noble lords in capua get angry and summon him. He will leave to capua villa with a small guard and we intercept him there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Command Grotto, Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Deep Cover, General of the Spires | Inspiration: No**
@@ -4308,8 +4885,11 @@ Aurelia moves to your side, her hand resting briefly on your gauntlet. "A plan t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Spread Republic Propaganda - Leave Julian markings and messages explaining that the raids are a response to Glaber&#x27;s corruption, not Roman citizens.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Command Grotto, Sacred Grove Sanctuary** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4327,8 +4907,11 @@ You finish the sketches, the charcoal staining your raw, stone-worn fingers. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strike Villa Lucullus - Target the primary estate of the mine owner to avenge the &#x27;Salt-Wives&#x27; and secure massive supplies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Villa Lucullus Perimeter, Capua Countryside** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4344,8 +4927,11 @@ You scale the wall with a practiced, fluid motion, the Aegis of Julius strapped 
 > 👤 **Player:**
 > *"Granaries first then plan on how save slaves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Villa Lucullus - Kitchen Courtyard** &nbsp;|&nbsp; ⏳ **BCE 12, 40 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24950/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4359,8 +4945,11 @@ You move with a clinical, predatory grace toward the heavy oak doors of the stor
 > 👤 **Player:**
 > *"Surprise round, command grovel, kill and loot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Villa Lucullus - Kitchen Courtyard** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 24,950/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4378,8 +4967,11 @@ With the guard silenced, you strip him of his utility with a clinical speed. You
 > 👤 **Player:**
 > *"Counter ambush guards first and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Villa Lucullus - Kitchen Courtyard** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:46)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25100/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4397,8 +4989,11 @@ With the guard silenced, you strip him of his utility with clinical speed. You s
 God Mode:
 Why are these salt wives
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Villa Lucullus - Kitchen Courtyard** &nbsp;|&nbsp; ⏳ **Evening, 40 BCE (12 Day)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25,100/34,000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -4418,8 +5013,11 @@ There are 18 'Salt-Wives' total currently held within the Villa Lucullus staff q
 > [!NOTE] ⚙️ **Player Choice:**
 > *Breach Slave Quarters - Push immediately into the villa to find and liberate the &#x27;Salt-Wives&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Villa Lucullus - Inner Atrium** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:51)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25100/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4439,8 +5037,11 @@ The silence of the villa is shattered by the frantic banging of shields and the 
 > 👤 **Player:**
 > *"Let's assume Spartacus and one more elite gladiator with one and others are raiding other villas in parallel."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Villa Lucullus - Inner Atrium** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (19:51)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25100/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4456,8 +5057,11 @@ Behind the heavy cedar door at the end of the hall, the muffled screams of the S
 > 👤 **Player:**
 > *"Sovereign demand. Explain I am a more true noble than their current master. Defer me to and my mercy and I will remember them. Their cannot stand against me and their master is dead. If they don't agree I use command grovel to showcase magic"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Villa Lucullus - Inner Atrium** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25100/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 3/3 | Lay on Hands: 0/35 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Adv), Aura of Sovereignty, Aura of Protection**
@@ -4481,8 +5085,11 @@ You gain 300 XP for the major social victory and tactical subdual of the atrium 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Intel - Before entering, demand the groveling guards reveal how many men are inside the staff quarters and if any traps are set.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Villa Lucullus - Inner Atrium** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:56)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25450/34000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 1/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4502,8 +5109,11 @@ Beyond the mirrored walls, the orange plumes of smoke from Spartacus's parallel 
 > 👤 **Player:**
 > *"Noble entry and show that the other guards already surrendered. Tell them to surrender to true noble blood tell the guards and the noble dominus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Villa Lucullus - Inner Atrium** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:58)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25400/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 1/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Advantage) | Inspiration: No**
@@ -4521,8 +5131,11 @@ The guards hesitate, their eyes darting between your amber furnace-gaze and the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command: Kneel - Use your last 1st-level slot to force the lead guards into submission, showcasing your divine right.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Villa Lucullus - Staff Quarters** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (19:59)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25,400/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, Lay on Hands: 35/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4540,8 +5153,11 @@ From the shadows of the weaving hall, eighteen women—the Salt-Wives—emerge w
 God Mode:
 Let's assume I don't say my actual name but say i have divine noble blood
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Villa Lucullus - Staff Quarters** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (19:59)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25400/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4559,8 +5175,11 @@ You stand at the threshold of the staff quarters. Ten guards are kneeling in sub
 > 👤 **Player:**
 > *"Secure supplies and organize extraction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Villa Lucullus - Perimeter** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25400/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -4577,8 +5196,11 @@ You have successfully extracted 18 non-combatants and secured massive supplies: 
 God Mode:
 Are the guards slaves? Let's assume we captured the dominus of the villla and tied up women and children nobles but they will be ok later
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Villa Lucullus - Perimeter** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25850/34000 | Gold: 2092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4602,8 +5224,11 @@ No, the household guards you encountered are not slaves. Historically and in thi
 > 👤 **Player:**
 > *"THINK:How can I recruit these guards permanently without looking like a noble to the rebel slaves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Villa Lucullus - Perimeter** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25,850/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4613,8 +5238,11 @@ You pause as the smoke from the villa rises behind you, looking at the ten guard
 > 👤 **Player:**
 > *"Finish extraction and think again on what to do about guards when possible. Brainstorm with Aurelia too and apologize for invoking noble status but thought it best to avoid bloodshed (say this privately away from the guards)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Villa Lucullus - Perimeter** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25850/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4641,8 +5269,11 @@ You lean closer, your mind racing through the recruitment of the guards. "The te
 > 👤 **Player:**
 > *"THINK:What if I send them to garrison with a trusted ally in capua and tell Spartacus about them later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Villa Lucullus - Perimeter** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25,850/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, Lay on Hands: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4658,8 +5289,11 @@ Aurelia watches you, her hand resting on the hilt of her spear. She sees the 'Ge
 > 👤 **Player:**
 > *"THINK:Can I trust Quintus?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Villa Lucullus - Perimeter** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25850/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, LOH: 35/35, Channel Divinity: 0/1, Exhaustion: 0**
@@ -4669,8 +5303,11 @@ You pause beneath the deep shadow of an ancient cedar, the orange glow of the bu
 > 👤 **Player:**
 > *"THINK:Do i know anyone in capua who knows my true name?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Villa Lucullus - Perimeter** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 10,700/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, LOH: 35/35, Channel Divinity: 1/1, Exhaustion: 0**
@@ -4682,8 +5319,11 @@ Names and faces blur into a chaotic mosaic of Roman pride. You recall many who w
 > 👤 **Player:**
 > *"split up. explain plan to aurelia. i will send her back with salt wives. once the raids are finished and spartacus sends me a singal of glabber movement, i will come help ambush him with these recruited guards. have aurelia explain i was forced to use my noble status to recruit them. in the meantime i will tlak to the guards and ascertain their trust. if they are trustworhy i willl bring him in the glabber operation to help and if not i will leave them and do glabbero peration alone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25,850/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, LOH: 0/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4707,8 +5347,11 @@ However, the air between you remains thick with a dazed, uncoordinated silence. 
 > 👤 **Player:**
 > *"show them my divine magic and heal one of them using lay on hands blood and explain my right to rule. however tell them i would only have honest men serve me and take the oath. for those who wish to leave once it is a convenient time i will let them go"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 10700/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, LOH: 30/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4737,8 +5380,11 @@ A heavy, stunned silence settles over the grove. The veterans look at the healed
 > 👤 **Player:**
 > *"ask them how i felt when i. gave them the choice vs commanding them. I am a noble of the highest divine blood (from the gods) but i lead with loyalty and not force. ask if their old masters ever game them a similar. choice. explain this is how it feels to be a slave, but even worse. I seek to end slavery and bring the true justice of the gods as their divine blood representative with the blood of venus. Explain my family name is secret for now but it will be revealed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25850/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, LOH: 30/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4769,8 +5415,11 @@ The lead guard bows his head, his shoulders trembling. He is no longer resisting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Grant Time for Reflection - Tell them to guard the perimeter while you wait for the signal, allowing the silence of the night to do the work of conviction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25850/34000 | Gold: 2092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, LOH: 30/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Deep Cover, Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -4795,8 +5444,11 @@ However, the silence of the night does not work the conviction you hoped for. As
 > 👤 **Player:**
 > *"lead the spires oath, tell them not to worry about choice for now but just understand i am merciful. if they want to leave my service later i will be fair to them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 25,850/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, LOH: 30/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -4822,8 +5474,11 @@ The effect is profound. The lead veteran (Persuasion: 19 vs DC 15) looks up, his
 God Mode:
 give me proper exp for all my wins and dont double count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **BCE 12, 40 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4852,8 +5507,11 @@ I have performed a comprehensive audit of your experience gains from the Salt Mi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Dominus Lucullus - Question the bound master of the villa for specific intel on Glaber&#x27;s personal habits or the location of his local safe-houses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, LOH: 30/35, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -4879,8 +5537,11 @@ He shuts his eyes tight, trembling violently as he waits for a blow or a command
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Him to Watch the Garrison - Bring the recruited guards into his line of sight to show him that his authority is truly dead, shattering his last hope of rescue.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,092dn** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, LOH: 15/35, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4898,8 +5559,11 @@ Lucullus's jaw trembles. He looks at the guards, then back at your amber eyes, a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Intel - Now that his hope is gone, demand the specific locations of Glaber&#x27;s safe-houses again.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Night, 40 BCE (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,092gp** &nbsp;|&nbsp; ✨ **LOH: 35/35, Spells: L1 0/4, L2 3/3, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4915,8 +5579,11 @@ He collapses into a trembling heap, sobbing into the dirt of the grove. The psyc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer a Bridge of Mercy - Speak softly, offering him a chance to save his life and a small portion of his dignity if he provides the locations now.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Night 12, 40 BCE (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,092** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, Lay on Hands: 35/35, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -4932,8 +5599,11 @@ Lucullus shudders, the high-pitched keening in his throat slowly giving way to a
 > 👤 **Player:**
 > *"press for locations and prep a 50g escape pouch for him. explain that when its safe i will let him go"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,042gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, Lay on Hands: 15/35, CD: 1/1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -4953,8 +5623,11 @@ You offer a slow, disciplined nod, the silver wire of the Centurion's gladius ca
 > 👤 **Player:**
 > *"ask aurelia how spartacus and rebel leaders responded to my noble ruse to recruit the guards and if they understood"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 12, 40 BCE (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,042gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 3/3, Lay on Hands: 15/35, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -4972,8 +5645,11 @@ She pauses, her gaze softening as she looks at your smooth, soot-smeared face. "
 > 👤 **Player:**
 > *"lets assume i raid glabber safehouses and it succeeeds easily but roll to see the quality of the loot we are able to salvage. assume i recruit more guards i a similar way and givem the proper loot, gold, exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Cypress Grove Secret Garrison** &nbsp;|&nbsp; ⏳ **Day 13, 40 BCE (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 31,450/34,000 | Gold: 2,542gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -4991,8 +5667,11 @@ You gather your expanded secret garrison in the deep shadows of the grove. You p
 > 👤 **Player:**
 > *"assume villa crassus raid suceeds and just make similar rolls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Cypress Grove outside Villa Lucullus** &nbsp;|&nbsp; ⏳ **Day 13, 40 BCE (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 31,450/34,000 | Gold: 2,542gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/35, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5006,8 +5685,11 @@ However, the recruitment at this site was a harsher lesson in Roman discipline. 
 > 👤 **Player:**
 > *"long rest and prep ambush site and wait for glabber to move on his own. plan an ambush to start with ranged weapons to force some guards to split up and try to save glabber, then the main force counter ambushes and triggers surprise attack using our best stealth elites. Then i use command grovel on glabber to disable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Appian Way Outskirts, South of Capua** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 31450/34000 | Gold: 2542gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 3/4, L2 3/3, Lay on Hands: 35/35, CD: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5035,8 +5717,11 @@ Around him, your secret garrison strikes. The dazed Praetorians, already intimid
 > 👤 **Player:**
 > *"lets assume all the main sspartacus tv show characters came to the glabber raid to help fight including spartacus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Appian Way Outskirts** &nbsp;|&nbsp; ⏳ **40 BCE, Morning 10:45:00** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,542gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3 | Lay on Hands: 35/35 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -5054,8 +5739,11 @@ The Legate’s marrow turns to lead. His legs buckle with a sickening thud, and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Glaber - Use your second attack to grapple the paralyzed Legate and pull him into the deeper shadows.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Appian Way Outskirts** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,542gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 3/4, L2 3/3 | Lay on Hands: 35/35 | CD: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -5071,8 +5759,11 @@ With a grunt of exertion, you heave his dead weight from the cobbles. You drag t
 > 👤 **Player:**
 > *"command grovel on praetorians and intimidate them into surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Appian Way Outskirts - Limestone Crags** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 27,450/34,000 | Gold: 2,542gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 2/4, L2 3/3 | Lay on Hands: 35/35 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5090,8 +5781,11 @@ The lead centurion, his face a mask of religious terror, lets his gladius slip f
 God Mode:
 what levels are glabber and the praetorians we just beat. give me proper exp/loot if they are elites
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Appian Way Outskirts - Limestone Crags** &nbsp;|&nbsp; ⏳ **BCE 14, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Paladin | HP: 60/60 | XP: 37450/48000 | Gold: 2842gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 0/3, LoH: 0/35, Channel Divinity: 0/1**
@@ -5121,8 +5815,11 @@ Following the successful ambush of Legate Glaber and his elite escort on the App
 God Mode:
 Process Level 8 ASI - Add +2 to one stat or +1 to two stats, or select a new feat.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Appian Way Outskirts - Limestone Crags** &nbsp;|&nbsp; ⏳ **BCE 14, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,450/48,000 | Gold: 2,842gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5158,8 +5855,11 @@ Aurelius has reached Level 8 (37,450 XP). Per D&D 5E rules, you gain an Ability 
 God Mode:
 give me asi cha+2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Appian Way Outskirts - Limestone Crags** &nbsp;|&nbsp; ⏳ **BCE 14, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,450/48,000 | Gold: 2,092gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5176,8 +5876,11 @@ ADMINISTRATIVE UPDATE: Level 8 Ability Score Improvement (ASI) applied. Your Cha
 > 👤 **Player:**
 > *"make sure i gain proper spells/spell slots as needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Appian Way Outskirts - Limestone Crags** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,450/48,000 | Gold: 2,842gp** &nbsp;|&nbsp; ✨ **Lay on Hands: 35/40, Spells: L1 0/4, L2 3/3, Channel Divinity: 0/1**
@@ -5189,8 +5892,11 @@ You have gained an additional 2nd-level spell slot, and your 'Aura of Protection
 > 👤 **Player:**
 > *"try to recruit the praetorians and use my typical noble blood. however say its more of a divine right for servant leadership of the world vs rule by tyranny. say i am from a family with divine blood but it is a secret for now. do the usual lay on hands to heal one guard to recruit them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Appian Way Outskirts - Limestone Crags** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,450/48,000 | Gold: 2,842gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 2/3, LoH: 35/40, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -5208,8 +5914,11 @@ The young soldier looks at his mended side, then up at your amber eyes, and fina
 > 👤 **Player:**
 > *"privately confer with rebel leadership, ask spartacus how he wants to process glabber and say i suggest an extraction but not to the main rebel base. the new praetorians are loyal but would freak everyone out. Spartacus and the rebel leaders say to me, even they are freaked out, but more about how i was able to so easily recruit praetorians. they should be wary but very imrpessed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Limestone Crags - Secret Meeting** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,450/48,000 | Gold: 2,842gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, LoH: 30/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5227,8 +5936,11 @@ Spartacus offers a singular, sharp nod of finality. "A wise precaution. A Caesar
 > 👤 **Player:**
 > *"extract and then interrogate glaber personally, showcasing my noble status and how its probably above his without revealing my full name. should make it easier because he's used to deferring to high tier nobles"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Black Ridge Caves - Secondary Hideout** &nbsp;|&nbsp; ⏳ **BCE 14, 40 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,450/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/4 | LoH: 35/40 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Divine Fervor (Adv. on CHA checks) | Exhaustion: 0 | Inspiration: No**
@@ -5248,8 +5960,11 @@ You stand tall, the Aegis of Julius reflecting a faint, golden glow. The Legate 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forced Mouthpiece - Compel Glaber to write a series of &#x27;official&#x27; orders to his centuries, commanding them to stand down or redirect to false targets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Black Ridge Caves - Secondary Hideout** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,450/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 4/4, Lay on Hands: 35/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Divine Fervor (Advantage on CHA checks) | Exhaustion: 0 | Inspiration: No**
@@ -5267,8 +5982,11 @@ He begins to write, the stylus scratching frantically against the vellum. You wa
 > 👤 **Player:**
 > *"leave glabber and privately talk to the rebel leadership. explain glabber has surrended with honor and given intel. perhaps he can at least have an honorable death? Either swift execution or duel with spartacus (assume spartcus is a lot stronger, asdjust glabber level if needed). Say the decision is spartucus and defer to him, but say torture of an evil person feels unclear like we are evil ourselves"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Black Ridge Caves - Secondary Hideout** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,450/48,000 | Gold: 2,442gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 4/4, Lay on Hands: 35/40, Channel Divinity: 1/1**
@@ -5288,8 +6006,11 @@ Spartacus looks from the Gaul back to you, his expression one of grim, tactical 
 God Mode:
 is it realistic for tv show spartacus to keep him alive? he should really wanna kil him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 14, 40 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin (Oath of Sovereignty) | HP: 60/60** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 3/3 | Channel Divinity: 0/1 | Lay On Hands: 20/35**
@@ -5309,8 +6030,11 @@ In short: Glaber is currently worth more to the rebels' survival than he is to t
 
 narrate a scene where spartacus and rebel leadership give me public acclaim for glabber capture"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Black Ridge Caves - Secondary Hideout** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,450/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 4/4, Lay on Hands: 35/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Divine Fervor (Adv. CHA), Deep Cover | Exhaustion: 0 | Inspiration: No**
@@ -5332,8 +6056,11 @@ Aurelia watches from the periphery, her fingers tracing the silver scars on her 
 > 👤 **Player:**
 > *"narrate some more private convo with the rebel leadership without me present, they realize now just as one caesar (my father) chained the world, perhaps another will free it. They recognize the power and muse about how perhaps my father had a similar ascent and used it for evil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Black Ridge Caves - Private Command Alcove** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,450/48,000 | Gold: 3,142** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 4/4, LOH: 35/40, Divinity: 1/1**
@@ -5353,8 +6080,11 @@ Spartacus nods slowly, the dual blades at his back catching a faint amber glint.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Praetorians - Spend time reinforcing the &#x27;Servant Leadership&#x27; oath with your new garrison to ensure their loyalty holds during the move.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Black Ridge Caves - Private Command Alcove** &nbsp;|&nbsp; ⏳ **Day 14, 40 BCE (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37600/48000 | Gold: 3,142gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5370,8 +6100,11 @@ The air in the cave seems to warm, the residual Miasma in your blood reacting to
 > 👤 **Player:**
 > *"lets assume the false orderrs were dispatched and time skip for the march north, assume its succcessful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Foot of the Alps - Northern Vanguard Camp** &nbsp;|&nbsp; ⏳ **Day 24, 40 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,600/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -5389,8 +6122,11 @@ Crixus offers a sharp, silent Roman salute—a gesture he has adopted specifical
 God Mode:
 remove sanctuary if its enabled
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Foot of the Alps - Northern Vanguard Camp** &nbsp;|&nbsp; ⏳ **Day 24, 40 BCE (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37600/48000 | Gold: 3,142gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -5400,8 +6136,11 @@ Sanctuary Mode has been manually disabled as requested. The world is no longer s
 > 👤 **Player:**
 > *"lets wait for spartacus orders and see if he asks my my counsel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Foot of the Alps - Northern Vanguard Camp** &nbsp;|&nbsp; ⏳ **Day 24, 40 BCE (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | LOH: 35/40 | Divinity: 1/1 | Exhaustion: 0**
@@ -5417,8 +6156,11 @@ He gestures toward the frozen horizon. "I would have your counsel, General. You 
 > 👤 **Player:**
 > *"propose start humble, use divine lineage if needed, also tell them we have glaber but dont pre-emptively display"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Northern Vanguard Camp - Foot of the Alps** &nbsp;|&nbsp; ⏳ **Day 24, 40 BCE (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | XP: 37,600/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | LOH: 35/40 | Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5436,8 +6178,11 @@ Spartacus remains silent for a long moment, his dual blades resting against his 
 > 👤 **Player:**
 > *"propose we start with the geatae and take a small party of gladiators who are diplomatic and smart and a few praetorian elites to guard us but dressed down in normal clothes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Northern Vanguard Camp - Foot of the Alps** &nbsp;|&nbsp; ⏳ **Day 24, 40 BCE (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 35/40, Divinity: 1/1, Exhaustion: 0**
@@ -5457,8 +6202,11 @@ Despite the strategic rejection, the camp begins to prepare for the midday move.
 > 👤 **Player:**
 > *"propose we go without other romans then, time skip until we find them and narrate the scene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Getae Borderlands - High Alpine Passes** &nbsp;|&nbsp; ⏳ **Day 25, 40 BCE (06:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | LOH: 35/40 | Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5476,8 +6224,11 @@ Among the massive, dark cedars, you see them: three Getae sentries. They are tal
 > 👤 **Player:**
 > *"humble group approach and shoudlnt spartacus approach them? nasir is not their kin?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Getae Borderlands - The Throat of the North** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (06:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,450/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | LOH: 35/40 | Divinity: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5499,8 +6250,11 @@ He offers a sharp, tribal salute, pounding his fist against his fur-clad chest. 
 > 👤 **Player:**
 > *"Explain that there is hope for freedom. Explain we've captured Glabber and defeated hundred of legionnaires and recruited some"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Getae Borderlands - The Gorge Path** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (07:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5518,8 +6272,11 @@ The lead sentry, his ritual scars stark against his pale, wind-burned skin, offe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Nasir on Protocol - Whisper to Nasir to ensure he continues as the primary voice for Spartacus while you maintain the silent, &#x27;divine&#x27; presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Getae Borderlands - The Gorge Path** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37600/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -5533,8 +6290,11 @@ Nasir offers a sharp, subtle nod, his eyes fixed on the path ahead. He understan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Project Sovereign Calm - Focus on your Julian blood to radiate a soft, reassuring warmth to any tribesmen encountered on the path.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Getae Borderlands - Basalt Gorge** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5548,8 +6308,11 @@ One elder, his hair as white as the snow on the peaks, stops to watch you pass. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Nasir Presents Glaber Intel - Have Nasir lead the conversation by mentioning the capture of Glaber to establish immediate leverage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Getae Borderlands - Basalt Gorge** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,450/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5567,8 +6330,11 @@ The lead sentry skids to a halt at the heavy timber gate, his eyes darting from 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Divine Silence - Allow Nasir to negotiate the terms of entry while you act as the &#x27;Judging Deity&#x27; in the background.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Getae Borderlands - High Seat Gates** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37600/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Deep Cover, Subtle Lorica (Stealth Adv) | Exhaustion: 0 | Inspiration: No**
@@ -5584,8 +6350,11 @@ The crowd within the gates is a sea of furs, bone ornaments, and hard, wind-burn
 > 👤 **Player:**
 > *"display glabber briefly as prove, but not ina boastful way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,450/48,000 | Gold: 3,142 Denarii** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor, Deep Cover | Exhaustion: 0 | Inspiration: No**
@@ -5599,8 +6368,11 @@ Legate Glaber sits bound and hollowed, his silk subarmalis stained with the dust
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Divine Silence - Remain the silent, judging anchor while Nasir presents the formal terms of alliance to the Chief.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142 Denarii** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, LOH: 35/40, Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5616,8 +6388,11 @@ The Chief leans forward, his furs creaking, his gaze moving from the bound Glabe
 > 👤 **Player:**
 > *"privately ask nasir and spartacus on the best culutral next step"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **BCE 26, 40 BCE (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37600/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3 | Lay on Hands: 35/40 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5635,8 +6410,11 @@ Nasir glances toward the war-captains, his brow furrowing. "My insight is muddle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Issue a Warrior&#x27;s Challenge - Challenge the Chief&#x27;s strongest captain to a non-lethal trial of strength to prove your merit beyond magic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **BCE 26, 40 BCE (08:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37600/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 3/3 | Lay on Hands: 35/40 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5656,8 +6434,11 @@ You gain 200 XP for the Warrior's Challenge and the cultural breakthrough.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request the Shared Cup - Invite the Chief to share a ritual drink, using the Falernian &#x27;Opimian&#x27; Vintage as a tribute of respect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 35/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5673,8 +6454,11 @@ He drinks deep, his weathered face softening as the legendary wine hits his tong
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Alliance Terms - Work with Nasir and the elders to define the specific boundaries of the northern sanctuary and joint defense protocols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,600/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, Lay on Hands: 35/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5694,8 +6478,11 @@ Aurelia watches from the periphery, her hand resting on the hilt of her spear. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Scouting Riders - Ask the Chief to deploy Getae riders to coordinate with Agron&#x27;s scouts for an early warning system.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37600/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, Lay on Hands: 35/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5713,8 +6500,11 @@ Berig offers you a sharp, warrior's nod, his previously suspicious eyes now hold
 > 👤 **Player:**
 > *"ask to coordinate surgical strikes on romans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **BCE 26, 40 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37600/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 3/3, Lay on Hands: 35/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5734,8 +6524,11 @@ You gain 150 XP for the tactical coordination and deepening the strategic allian
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead First Strike - Personally lead a combined force of Getae and Spires to ambush the nearest Audit Team.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Alpine Foothills - Ambuscade Ridge** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,750/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/3, Lay on Hands: 35/40, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Adv), Deep Cover | Exhaustion: 0 | Inspiration: No**
@@ -5751,8 +6544,11 @@ You do not wait for their net to close. You are a solar flare in the grey mounta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aura of Submission - Use your Channel Divinity to freeze the surrounding Romans in place, preventing them from deploying their nets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Alpine Foothills - Ambuscade Ridge** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,750/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3 | Lay on Hands: 35/40 | Channel Divinity: 0/1 | Exhaustion: 0**
@@ -5768,8 +6564,11 @@ Berig and the Getae war-captains let out a low, appreciative rumble as they see 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Surrender - Utilize the shock of their paralysis to demand the entire unit lay down their arms and yield to the &#x27;True Rome&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Alpine Foothills - Ambuscade Ridge** &nbsp;|&nbsp; ⏳ **Month 26, 40 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37750/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 2/3, Lay on Hands: 35/40, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5795,8 +6594,11 @@ They do not surrender. They remain anchored to the earth, their spirits wavering
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Strike on Leader - Move with Extra Attack to strike the paralyzed Audit Leader, using Divine Smite to end him before the troopers recover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Alpine Foothills - Ambuscade Ridge** &nbsp;|&nbsp; ⏳ **BCE 26, 40 BCE (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,750/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 1/3, Lay on Hands: 35/40, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5814,8 +6616,11 @@ Around you, the Audit troopers remain anchored to the earth by the weight of you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Unit Surrender - Use your Bonus Action (The Emperor&#x27;s Voice) to command the troopers to drop their arms while their leader is broken.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Alpine Foothills - Basalt Gorge** &nbsp;|&nbsp; ⏳ **40 BCE, Morning (10:16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37750/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3 | Lay on Hands: 35/40 | Channel Divinity: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Inspiration: No**
@@ -5842,8 +6647,11 @@ They do not drop their arms. Instead, they close ranks around their fallen leade
 > 👤 **Player:**
 > *"signal getae charge and have my troops kill half, then ask for surrender again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Alpine Foothills - Basalt Gorge** &nbsp;|&nbsp; ⏳ **Morning, 40 BCE (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,750/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3 | Lay on Hands: 35/40 | Channel Divinity: 0/1 | Exhaustion: 0**
@@ -5865,8 +6673,11 @@ However, the Imperial machine is a stubborn beast. Even as they stare into the m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subdue Survivors (Manacles) - Order your Praetorians to use the Romans&#x27; own manacles to bind the survivors while they are Speed 0.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Alpine Foothills - Basalt Gorge** &nbsp;|&nbsp; ⏳ **Month 12, 40 BCE (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,750/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 1/3, Lay on Hands: 35/40, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Aura of Sovereignty, Aura of Protection | Exhaustion: 0 | Inspiration: No**
@@ -5890,8 +6701,11 @@ You step over the broken forms to reach the Audit Leader. He attempts to rise, a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Leader - Question the broken commander for details on the secondary &#x27;Audit&#x27; layers and the Speculator agent&#x27;s location.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 26, 40 DR (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin (Oath of Sovereignty) | HP: 60/60** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 1/3 | Channel Divinity: 0/1 | Lay On Hands: 20/35**
@@ -5901,8 +6715,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Leader - Question the broken commander for details on the secondary 'Audit' layers and the Speculator agent's location.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Alpine Foothills - Basalt Gorge** &nbsp;|&nbsp; ⏳ **BCE 26, 40 BCE (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 37,750/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 1/3, Lay on Hands: 35/40, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5925,8 +6742,11 @@ He laughs, a wet, rattling sound that ends in a jagged choke. Despite the weight
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Captives Immediately - Abandon the interrogation for now and lead the captives back to the Getae stronghold for a formal trial.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Alpine Foothills - High Seat Approach** &nbsp;|&nbsp; ⏳ **Month 10, 40 BCE (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 45250/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 1/3 | Lay on Hands: 35/40 | Channel Divinity: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -5956,8 +6776,11 @@ As you lead the ascent, your amber eyes catch a sudden, sharp glint on the high 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Tribal Trial - Present the Audit Leader to the Getae Chief for a public trial, allowing the tribe to witness Roman &#x27;kings&#x27; answering for their crimes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 45,250/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 1/3, Lay on Hands: 35/40, Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -5973,8 +6796,11 @@ The Chief leans forward, his topographical face set in a mask of grim, vengeful 
 > 👤 **Player:**
 > *"Let's time skip a few months and assume we make allies wowrh every northern tribe and they help subvert Rome. Narrate every week in detail and make sure I long rest and act autonomously"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **The High Seat of the North** &nbsp;|&nbsp; ⏳ **Month 2, 40 BCE (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 45,250/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40, Channel Divinity: 1/1**
@@ -5996,8 +6822,11 @@ Two months have passed since you brought Legate Glaber into the smoke-stained ha
 > 👤 **Player:**
 > *"Try to convince the holdouts again and show I have the other tribes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Month 2, 40 BCE (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 45,250/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3 | Lay on Hands: 40/40 | Channel Divinity: 1/1**
@@ -6023,8 +6852,11 @@ He turns his back on you, the furs of his cloak sweeping the dirt. A heavy, cool
 > 👤 **Player:**
 > *"Challenge the suebi king to a duel to decide the matyer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **BCE 26, 40 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin (Oath of Sovereignty) | HP: 60/60 | XP: 45250/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 1/3, Lay on Hands: 20/40, Channel Divinity: 0/1, Exhaustion: 0**
@@ -6038,8 +6870,11 @@ The square erupts in a roar of furs and bone, warriors pounding shields. Berig g
 > 👤 **Player:**
 > *"Intimidate and then win the duel normally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 26, 40 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin (Oath of Sovereignty) | HP: 60/60** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 1/3 | Channel Divinity: 0/1 | Lay On Hands: 20/35**
@@ -6049,8 +6884,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Intimidate and then win the duel normally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **BCE 26, 40 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin (Oath of Sovereignty) | HP: 60/60 | XP: 45250/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4 L2 1/3, Lay on Hands: 20/40, Channel Divinity: 1/1**
@@ -6062,8 +6900,11 @@ Veritas flashes (Attack: 1d20+6=23 hit, dmg 11), biting deep into his wolf-pelt 
 > 👤 **Player:**
 > *"Just hold person him and have him surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **BCE 26, 40 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 45,250/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 0/3 | Lay on Hands: 20/40 | Channel Divinity: 0/1** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -6086,8 +6927,11 @@ The Thracian and Germanic warriors gasp as Wulfric freezes in a rigid, agonizing
 > [!NOTE] ⚙️ **Player Choice:**
 > *Non-Lethal Execution - Strike Wulfric with a pommel-blow to knock him unconscious, ending the duel decisively.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **40 BCE 26, 13:30:45** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 | Temp HP: 40 | XP: 45250/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 0/3 | Lay on Hands: 25/40 | Channel Divinity: 0/1 | Exhaustion: 0**
@@ -6108,8 +6952,11 @@ This Turn: Non-lethal pommel crit (Paralyzed auto-hit) drops HP to 0, unconsciou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Suebi Oath - Leverage victory to force Suebi integration into Northern Storm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Unknown** &nbsp;|&nbsp; ⏳ **BCE 26, 40 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin (Oath of Sovereignty) | HP: 60/60** &nbsp;|&nbsp; ✨ **Spells: L1 0/4, L2 0/3 | Channel Divinity: 0/1 | Lay On Hands: 20/35**
@@ -6119,8 +6966,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Suebi Oath - Leverage victory to force Suebi integration into Northern Storm.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Month 2, 40 BCE (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 45,750/48,000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 0/3 | Lay on Hands: 25/40 | Channel Divinity: 0/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Aura of Protection (+5), Aura of Sovereignty | Exhaustion: 0 | Inspiration: No**
@@ -6148,8 +6998,11 @@ You gain 500 XP for the full unification of the Northern tribes and the completi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Heal Wulfric &amp; Seal Oath - Use Lay on Hands to revive the Suebi king and have him personally swear the oath before his people.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **BCE 26, 40 BCE (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 40) | XP: 45750/48000 | Gold: 3,142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 0/3, Lay on Hands: 20/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -6170,8 +7023,11 @@ Resistance: The King has taken the oath; the Suebi are unified.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Unified Host - Give an Inspiring Leader speech to the gathered kings to cement the &#x27;Servant Leadership&#x27; philosophy across the tribes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Month 2, 40 BCE (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 13) | XP: 45750/48000 | Gold: 3,142** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 0/4, L2 0/3 | Lay on Hands: 30/40 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -6191,8 +7047,11 @@ The roar of acclaim that follows is absolute, a continental uprising finally fin
 > 👤 **Player:**
 > *"THINK:should we stay small and try to get more allies or a roman ally first before we do anything major?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Month 2, 40 BCE (Day 26)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 13) | XP: 46250/48000 | Gold: 3142gp** &nbsp;|&nbsp; ⚠️ **Muted Armor (Stealth Advantage) | Exhaustion: 0 | Inspiration: No**
@@ -6202,8 +7061,11 @@ You pause amidst the settling dust of the unification ritual, your amber eyes tr
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Continental Bloc - Instead of striking Rome, march to the Cimbri and Bastarnae borders to absorb them, creating a Northern front so large Rome cannot ignore it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Getae High Seat - Central Square** &nbsp;|&nbsp; ⏳ **Day 26, 40 BCE (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Paladin | HP: 60/60 (Temp: 13) | XP: 46250/48000 | Gold: 3142gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 0/4, L2 0/3, Lay on Hands: 30/40, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Muted Armor | Exhaustion: 0 | Inspiration: No**
@@ -6217,6 +7079,8 @@ However, as you attempt to visualize the logistical nightmare of moving thousand
 Spartacus watches you, his dual blades crossed over his chest. "The scope is grand, Aurelius," he rasps, his eyes reflecting a cautious doubt. "But a front that large is a front that is thin. If we spread our strength from the Rhine to the Danube before our roots are deep, we may find ourselves fractured by the very weight of the line we've drawn."
 
 Crixus pounds a fist against a timber pillar. "Let the Romans come! Let them see the North as a single shield!" But even the Gaul's fervor cannot hide the confusion among the lesser war-captains. They are ready to bleed for you, but they do not yet understand how to march as one nation.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,19 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)
+- [🗺️ Scene Index & Timeline (32 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -102,6 +115,7 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 ---
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -171,6 +185,7 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="special-mechanics"></a>
 ## 🔮 Part III: Special Mechanics & Artifacts
 <details>
 <summary><b>Campaign Mechanics</b></summary>
@@ -491,48 +506,53 @@ This reward represents the *third path* — neither relying on Aurum's protectio
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
-| **02** | The King's Ribbon | Frost-Fall 12, 95 DR (09:15) | Roleplay |
-| **03** | The King's Ribbon | Frost-Fall 12, 95 AG (09:20) | Roleplay |
-| **04** | The King's Ribbon | 12, 95 Frost-Fall (09:20) | Roleplay |
-| **05** | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 A.G. (09:30) | Roleplay |
-| **06** | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 AG (09:45) | Social Challenge |
-| **07** | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 AF (09:45) | Roleplay |
-| **08** | Gates of Winter-Mourn Keep | Day 12, 95 Frost-Fall (09:55) | Social Challenge |
-| **09** | Gates of Winter-Mourn Keep | Day 12, 95 Frost-Fall (09:57) | Social Challenge |
-| **10** | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 AG (09:57) | Roleplay |
-| **11** | Gates of Winter-Mourn Keep | Day 12, 95 Frost-Fall (10:02) | Roleplay |
-| **12** | Great Hall | Day 12, 95 Frost-Fall (10:05) | Social Challenge |
-| **13** | Great Hall | 12, 95 Frost-Fall (10:15) | Social Challenge |
-| **14** | Great Hall | 12, 95 Frost-Fall (10:15) | Roleplay |
-| **15** | Great Hall | Frost-Fall 12, 95 A.G. (10:15) | Roleplay |
-| **16** | Great Hall | Frost-Fall 12, 95 AG (10:15) | Roleplay |
-| **17** | Great Hall | Frost-Fall 12, 95 DR (10:25) | Social Challenge |
-| **18** | Great Hall | Frost-Fall 12, 95 DR (10:35) | Roleplay |
-| **19** | Great Hall | Frost-Fall 12, 95 AG (10:45) | Roleplay |
-| **20** | Great Hall | Frost-Fall 12, 95 DR (10:55) | Boss Surrender |
-| **21** | Great Hall | Day 12, 95 Frost-Fall (10:55) | Roleplay |
-| **22** | Great Hall | Day 12, 95 Frost-Fall (10:55) | Roleplay |
-| **23** | Great Hall | 12, 95 Frost-Fall (10:55) | Roleplay |
-| **24** | Great Hall | Day 12, 95 Frost-Fall (11:05) | Boss Surrender |
-| **25** | Winter-Mourn Gates | Day 12, 95 Frost-Fall (11:20) | Boss Surrender |
-| **26** | Winter-Mourn Gates | Frost-Fall 12, 95 AG (11:21) | Boss Surrender |
-| **27** | Winter-Mourn Gates | Frost-Fall 12, 95 AG (11:21) | Roleplay |
-| **28** | Winter-Mourn Gates | 12, 95 Frost-Fall (11:21) | Roleplay |
-| **29** | Winter-Mourn Gates | Day 12, 95 Frost-Fall (11:22) | Boss Surrender |
-| **30** | Convoy Rear (Winter-Mourn Gates) | Day 12, 95 Frost-Fall (11:22) | Roleplay |
-| **31** | Convoy Rear (Winter-Mourn Gates) | Day 12, 95 Frost-Fall (11:22) | Roleplay |
-| **32** | Convoy Rear (Winter-Mourn Gates) | Day 12, 95 Frost-Fall (11:22) | Roleplay |
+| [**Scene 01**](#scene-1) | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | The King's Ribbon | Frost-Fall 12, 95 DR (09:15) | Roleplay |
+| [**Scene 03**](#scene-3) | The King's Ribbon | Frost-Fall 12, 95 AG (09:20) | Roleplay |
+| [**Scene 04**](#scene-4) | The King's Ribbon | 12, 95 Frost-Fall (09:20) | Roleplay |
+| [**Scene 05**](#scene-5) | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 A.G. (09:30) | Roleplay |
+| [**Scene 06**](#scene-6) | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 AG (09:45) | Social Challenge |
+| [**Scene 07**](#scene-7) | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 AF (09:45) | Roleplay |
+| [**Scene 08**](#scene-8) | Gates of Winter-Mourn Keep | Day 12, 95 Frost-Fall (09:55) | Social Challenge |
+| [**Scene 09**](#scene-9) | Gates of Winter-Mourn Keep | Day 12, 95 Frost-Fall (09:57) | Social Challenge |
+| [**Scene 10**](#scene-10) | Gates of Winter-Mourn Keep | Frost-Fall 12, 95 AG (09:57) | Roleplay |
+| [**Scene 11**](#scene-11) | Gates of Winter-Mourn Keep | Day 12, 95 Frost-Fall (10:02) | Roleplay |
+| [**Scene 12**](#scene-12) | Great Hall | Day 12, 95 Frost-Fall (10:05) | Social Challenge |
+| [**Scene 13**](#scene-13) | Great Hall | 12, 95 Frost-Fall (10:15) | Social Challenge |
+| [**Scene 14**](#scene-14) | Great Hall | 12, 95 Frost-Fall (10:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Great Hall | Frost-Fall 12, 95 A.G. (10:15) | Roleplay |
+| [**Scene 16**](#scene-16) | Great Hall | Frost-Fall 12, 95 AG (10:15) | Roleplay |
+| [**Scene 17**](#scene-17) | Great Hall | Frost-Fall 12, 95 DR (10:25) | Social Challenge |
+| [**Scene 18**](#scene-18) | Great Hall | Frost-Fall 12, 95 DR (10:35) | Roleplay |
+| [**Scene 19**](#scene-19) | Great Hall | Frost-Fall 12, 95 AG (10:45) | Roleplay |
+| [**Scene 20**](#scene-20) | Great Hall | Frost-Fall 12, 95 DR (10:55) | Boss Surrender |
+| [**Scene 21**](#scene-21) | Great Hall | Day 12, 95 Frost-Fall (10:55) | Roleplay |
+| [**Scene 22**](#scene-22) | Great Hall | Day 12, 95 Frost-Fall (10:55) | Roleplay |
+| [**Scene 23**](#scene-23) | Great Hall | 12, 95 Frost-Fall (10:55) | Roleplay |
+| [**Scene 24**](#scene-24) | Great Hall | Day 12, 95 Frost-Fall (11:05) | Boss Surrender |
+| [**Scene 25**](#scene-25) | Winter-Mourn Gates | Day 12, 95 Frost-Fall (11:20) | Boss Surrender |
+| [**Scene 26**](#scene-26) | Winter-Mourn Gates | Frost-Fall 12, 95 AG (11:21) | Boss Surrender |
+| [**Scene 27**](#scene-27) | Winter-Mourn Gates | Frost-Fall 12, 95 AG (11:21) | Roleplay |
+| [**Scene 28**](#scene-28) | Winter-Mourn Gates | 12, 95 Frost-Fall (11:21) | Roleplay |
+| [**Scene 29**](#scene-29) | Winter-Mourn Gates | Day 12, 95 Frost-Fall (11:22) | Boss Surrender |
+| [**Scene 30**](#scene-30) | Convoy Rear (Winter-Mourn Gates) | Day 12, 95 Frost-Fall (11:22) | Roleplay |
+| [**Scene 31**](#scene-31) | Convoy Rear (Winter-Mourn Gates) | Day 12, 95 Frost-Fall (11:22) | Roleplay |
+| [**Scene 32**](#scene-32) | Convoy Rear (Winter-Mourn Gates) | Day 12, 95 Frost-Fall (11:22) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -556,8 +576,11 @@ Before the first gate of Winter-Mourn Keep appears on the horizon, we must final
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Accept the provided build for Ser Arion (STR 16, CON 14, CHA 16, Lvl 1 Paladin) and begin the mission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Divine Sense: 4/4 | Lay on Hands: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -575,8 +598,11 @@ You feel the weight of 'Duty's Edge' at your side. Ahead, the gates of the Keep 
 
 Continue Story - Let the story continue from the current scene."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2 pending)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -602,8 +628,11 @@ As you reach the outskirts of the settlement, the smell of woodsmoke and unwashe
 God Mode:
 every dice roll give me 34% of exp to the next level. Do not do it during god mode or turns where. time doesn't advance. If level 2 is at 300 xp and level 3 is what we're moving toward and is 700 exp it hsould be 0.34 * (600-300) = 102
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **12, 95 Frost-Fall (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells Yet (Level 2+)**
@@ -622,8 +651,11 @@ This directive has been added to the campaign state and will be applied to all f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press to the Gates - Ignore the camp for now and ride directly to the Keep gates to demand an audience with Lady Annalise Ashwood (Lvl 5).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Gates of Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -650,8 +682,11 @@ Behind you, Ser Elian (Lvl 1) suddenly gasps, his horse rearing slightly. He is 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press the Demand (Intimidation) - Invoke the full authority of House Valerion and the Argent Eaglets to cow the guards into opening the gate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Gates of Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 102/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Divine Sense: 4/4 | Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -683,8 +718,11 @@ You gain **102 XP** for cowing the Keep's defenders and asserting Imperial autho
 God Mode:
 very successful or failed dice roll give me 34% of exp to the next level. Do not do it during god mode or turns where. time doesn't advance. If level 2 is at 300 xp and level 3 is what we're moving toward and is 700 exp it hsould be 0.34 * (600-300) = 102
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Gates of Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AF (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 102/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Lay on Hands: 5/5, Divine Sense: 4/4, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -706,8 +744,11 @@ This rule specifically excludes God Mode and Think Mode (where time is frozen). 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Parley - Now that the guards are cowed, offer them a final chance to surrender and act as intermediaries with Lady Ashwood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Gates of Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 204/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -736,8 +777,11 @@ The gates are open, but the shadow of the Prefect's vanguard looms on the southe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Kaelen on Passages - Quickly ask the old steward about the rumors of a secret crypt passage before entering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Gates of Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (09:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 2 available) Paladin | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay on Hands: 5/5 | Spells: No Spells Yet (Level 2 available)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -782,8 +826,11 @@ Would you like to level up now?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 2 - Apply Paladin level 2 benefits: gain Spellcasting, Divine Smite, and a Fighting Style.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Gates of Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Lvl 2 available) Paladin | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Lay on Hands: 5/5 | Divine Sense: 4/4 | Spells: No Spells Yet (Level 2 available)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -793,8 +840,11 @@ As you pass through the heavy shadow of the Keep's portcullis, the air seems to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected recommended updates, and close the modal. Continue the story with normal gameplay choices in this same response.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Gates of Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | XP: 306/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Lay on Hands: 10/10 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -808,8 +858,11 @@ Ser Vespera (Lvl 1) watches the refugees with a hawk-like intensity, her hand ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter the Great Hall - Proceed directly to the parley with Lady Ashwood while the guards' morale is low.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | XP: 510/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -847,8 +900,11 @@ You gain **204 XP** for initiating the parley with Lady Ashwood and demonstratin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Controlled Resettlement - Suggest moving the refugees to a registered Imperial work-colony where they can be tracked and 'productive,' satisfying the Mandate without slaughter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **12, 95 Frost-Fall (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 (Lvl 3 available) Paladin | HP: 20/20 | Gold: 25gp | XP: 918/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Divine Sense: 4/4, Lay on Hands: 10/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -884,8 +940,11 @@ You gain **408 XP** for the mechanical resolution of your proposal and swaying y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Attain the third rank of your order immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **12, 95 Frost-Fall (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/900** &nbsp;|&nbsp; ✨ **Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -908,8 +967,11 @@ Recommended package:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Fixed HP (+8) - Increase maximum HP from 20 to 28 (6 class + 2 CON modifier).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 (Lvl 3 available) Paladin | HP: 28/28 | Gold: 25gp | XP: 918/900** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -925,8 +987,11 @@ The Great Hall feels smaller now, the shadows pressing in as the noon deadline a
 God Mode:
 Make sure we finish level 3 level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 918/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Divine Health | Exhaustion: 0 | Inspiration: No**
@@ -947,8 +1012,11 @@ The campaign state is now synchronized. You may return to the story to continue 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the parley with Lady Ashwood as a Level 3 Paladin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 1530/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -976,8 +1044,11 @@ You gain **612 XP** for your impassioned defense of the resettlement plan and yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Gratian's Proximity - Point out the window at the rising dust of the vanguard. Remind her that your 'chains' are better than the Prefect's fire.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2142/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Channel Divinity: 1/1 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1005,8 +1076,11 @@ You gain **612 XP** for the mechanical resolution of your attempt to leverage th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Compassion - Lower your voice and speak to her as a fellow protector, emphasizing the lives of Miri and Kaelen over the laws of the Mandate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | XP: 2754/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Channel Divinity: 1/1 | Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1034,8 +1108,11 @@ You gain **612 XP** for your successful appeal to Lady Ashwood's compassion.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Registry - Have Lady Ashwood sign the document immediately and prepare to present it to Gratian.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 4 available) Paladin | HP: 28/28 | Gold: 25gp | XP: 3366/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1062,8 +1139,11 @@ You gain **612 XP** for securing Lady Ashwood's signature on the resettlement re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Your New Power (Level 4) - Take a moment to center your spirit and attain the fourth rank of your order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 4 available) Paladin | HP: 28/28 | Gold: 25gp | XP: 3366/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Channel Divinity: 1/1 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1077,8 +1157,11 @@ Recommended package:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Increase Charisma by 2 - Boost your presence and holy power (CHA 16 -> 18).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 3366/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4, Divine Health: Active** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1088,8 +1171,11 @@ You feel the golden warmth of the Empyrean bloodline surge, but it is tempered n
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Recommended Options and Return to Game - Commit to +8 HP and +2 Charisma (to 18), finalizing your rank and resuming the parley.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **12, 95 Frost-Fall (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 4 available) Paladin | HP: 36/36 | Gold: 25gp | XP: 3366/2700** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 5/5, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1105,8 +1191,11 @@ Outside, the first horns of the Imperial vanguard echo through the valley, a col
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hand Registry to Vespera - Allow Ser Vespera to present the submission while you organize the refugees.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Great Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 4 available) Paladin | HP: 36/36 | Gold: 25gp | XP: 4658/2700** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1135,8 +1224,11 @@ The parley is won, but the arrival of the main force brings a new, more claustro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Convoy and Defense (Synergistic) - Task Elian with the camp organization while you personally oversee the gate security and keep a lookout for the Host.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 4 available) Paladin | HP: 36/36 | Gold: 25gp | XP: 5950/2700** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 5/5 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1176,8 +1268,11 @@ From your vantage point on the ramparts, your eyes drift to the pine groves. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Radiant Flare - Use your holy power to create a burst of light to blind the scouts and warn the camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (11:21)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 7242/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 2/3 | Lay on Hands: 20/20 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1219,8 +1314,11 @@ Would you like to level up now?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 5 - Open the level-up modal to attain the fifth rank (Extra Attack, 2nd Level Spells) before engaging.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (11:21)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 7242/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3 (Level 5 pending), Channel Divinity: 1/1, Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1239,8 +1337,11 @@ Recommended package:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Recommended Options and Return to Game - Commit to +8 HP, Extra Attack, and 2nd Level Spells, then lead the defense against the Host ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **12, 95 Frost-Fall (11:21)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 5 available) | HP: 44/44 | Gold: 25gp | XP: 7242/6500** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1256,8 +1357,11 @@ You look down at your gauntleted hands, feeling the surge of Extra Attack and th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead the Charge - Leap from the ramparts (or take the stairs at a sprint) and charge directly into the Host scouts to draw their attention.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (11:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 52/52 | XP: 9792/14000 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/3, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1282,8 +1386,11 @@ You gain **2550 XP** for your daring leap and successful disruption of the ambus
 > [!NOTE] ⚙️ **Player Choice:**
 > *Unleash Extra Attack - Utilize your new martial prowess to strike down two scouts in a single flurry.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Convoy Rear (Winter-Mourn Gates)** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (11:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 6 available) Paladin | HP: 52/52 | Gold: 25gp | XP: 19992/14000** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 2/3, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1301,8 +1408,11 @@ You gain **10,200 XP** for your martial display and successful disruption of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 6 - Unlock Aura of Protection and increase your stamina.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Convoy Rear (Winter-Mourn Gates)** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (11:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 6 available) Paladin | HP: 52/52 | Gold: 25gp | XP: 19992/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 2/4, L2 2/2 | Lay on Hands: 25/25 | Divine Sense: 4/4 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Protection (Pending) | Exhaustion: 0 | Inspiration: No**
@@ -1312,8 +1422,11 @@ The radiant fury of your descent into the Shattered Host scouts begins to settle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Paladin Level 6 Benefits - Increase Max HP by 8 (to 60) and unlock Aura of Protection (+4 bonus to all saving throws for self and allies within 10 feet).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Convoy Rear (Winter-Mourn Gates)** &nbsp;|&nbsp; ⏳ **Day 12, 95 Frost-Fall (11:22)** &nbsp;|&nbsp; 🛡️ **Lvl 3 (Lvl 6 available) Paladin | HP: 60/60 | Gold: 25gp | XP: 19992/14000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Aura of Protection | Exhaustion: 0 | Inspiration: No**
@@ -1321,6 +1434,8 @@ The radiant fury of your descent into the Shattered Host scouts begins to settle
 Morning (11:22:12) at the Convoy Rear—as you stand in the blood-stained slush, the golden light of your Oath doesn't just flare and fade; it anchors, spreading outward from your Valerion Plate in a shimmering, protective tide. You feel the ancestral strength of the Empyrean bloodline manifesting as a tangible weight of authority, a bulwark that shields not just your own spirit, but the hearts of all who stand within your reach. The air seems to grow warmer, the biting northern wind losing its edge as your Aura of Protection (Lvl 6) takes hold. 
 
 "Stand firm!" you call to the guards and families nearby, your voice now carrying an undeniable, resonant clarity that bolsters their failing courage. The refugees see the shimmering field surrounding you and find their own hands steadying on their carts, the panic that threatened to shatter the convoy subsiding before your radiant presence. You have attained the sixth rank of your order, and you have become a sanctuary in the midst of the ambush.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

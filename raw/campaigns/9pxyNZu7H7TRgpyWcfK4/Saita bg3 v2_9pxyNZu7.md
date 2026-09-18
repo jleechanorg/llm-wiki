@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (131 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
@@ -30,147 +41,152 @@ The mask serves as the psychological anchor for your new life, enforcing your Le
 **New Word Count:** 530 words
 **Estimated Token Count:** ~689 tokens
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Oakhaven Smithy | Eleasias 1, 1492 DR (08:00) | Roleplay |
-| **02** | Oakhaven Smithy | Eleasias 1, 1492 DR (08:00) | Roleplay |
-| **03** | Oakhaven Smithy | Eleasias 1, 1492 DR (08:30) | Roleplay |
-| **04** | Oakhaven Smithy | Eleasias 1, 1492 DR (08:30) | Roleplay |
-| **05** | Oakhaven Smithy | Eleasias 1, 1492 DR (08:45) | Roleplay |
-| **06** | Oakhaven Smithy | Eleasias 1, 1492 DR (09:00) | Roleplay |
-| **07** | Oakhaven Smithy | Eleasias 1, 1492 DR (09:15) | Roleplay |
-| **08** | Oakhaven Smithy | Eleasias 1, 1492 DR (09:30) | Roleplay |
-| **09** | Oakhaven Smithy | Eleasias 1, 1492 DR (09:35) | Roleplay |
-| **10** | Oakhaven Smithy | Eleasias 1, 1492 DR (09:35) | Roleplay |
-| **11** | Oakhaven Smithy | Eleasias 1, 1492 DR (09:45) | Roleplay |
-| **12** | Oakhaven Smithy | Eleasias 1, 1492 DR (09:45) | Roleplay |
-| **13** | Oakhaven Smithy | Eleasias 1, 1492 DR (10:00) | Roleplay |
-| **14** | Oakhaven Smithy | Eleasias 1, 1492 DR (10:15) | Roleplay |
-| **15** | Oakhaven Smithy | Eleasias 1, 1492 DR (10:15) | Roleplay |
-| **16** | Oakhaven Smithy | Eleasias 1, 1492 DR (10:30) | Roleplay |
-| **17** | Oakhaven Smithy | Eleasias 1, 1492 DR (10:30) | Roleplay |
-| **18** | Oakhaven Smithy | Eleasias 1, 1492 DR (10:30) | Roleplay |
-| **19** | Oakhaven Smithy | Eleasias 1, 1492 DR (10:45) | Roleplay |
-| **20** | Oakhaven Smithy (Back Office) | Eleasias 1, 1492 DR (10:50) | Roleplay |
-| **21** | Oakhaven Smithy | Eleasias 1, 1492 DR (11:00) | Roleplay |
-| **22** | Oakhaven Smithy | Eleasias 1, 1492 DR (11:05) | Roleplay |
-| **23** | Oakhaven Smithy | Eleasias 1, 1492 DR (11:10) | Roleplay |
-| **24** | Oakhaven Smithy | Eleasias 1, 1492 DR (11:10) | Roleplay |
-| **25** | Oakhaven Smithy | Eleasias 1, 1492 DR (11:10) | Roleplay |
-| **26** | Oakhaven Smithy | Eleasias 1, 1492 DR (11:15) | Roleplay |
-| **27** | Oakhaven Town Square | Eleasias 1, 1492 DR (11:30) | Roleplay |
-| **28** | Oakhaven Town Square (Edges) | Eleasias 1, 1492 DR (11:35) | Roleplay |
-| **29** | Oakhaven Stable Shadows | Eleasias 1, 1492 DR (11:40) | Roleplay |
-| **30** | Oakhaven Square | Eleasias 1, 1492 DR (11:35) | Roleplay |
-| **31** | Oakhaven Stable Shadows | Eleasias 1, 1492 DR (11:35) | Roleplay |
-| **32** | Oakhaven Town Square | Eleasias 1, 1492 DR (11:35) | Roleplay |
-| **33** | Oakhaven North Gate Perimeter | Eleasias 1, 1492 DR (11:40) | Roleplay |
-| **34** | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:45) | Roleplay |
-| **35** | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:50) | Roleplay |
-| **36** | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:55) | Social Challenge |
-| **37** | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:55) | Roleplay |
-| **38** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:00) | Roleplay |
-| **39** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:05) | Social Challenge |
-| **40** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:05) | Roleplay |
-| **41** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:10) | Roleplay |
-| **42** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:15) | Boss Surrender |
-| **43** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:25) | Roleplay |
-| **44** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:30) | Roleplay |
-| **45** | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (12:45) | Boss Surrender |
-| **46** | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:45) | Roleplay |
-| **47** | Oakhaven Town Square | Eleasias 1, 1492 DR (13:00) | Boss Surrender |
-| **48** | Oakhaven Town Square | Eleasias 1, 1492 DR (13:20) | Roleplay |
-| **49** | Oakhaven Smithy | Eleasias 22, 1492 DR (08:30) | Roleplay |
-| **50** | Oakhaven Smithy | Eleasias 22, 1492 DR (08:30) | Roleplay |
-| **51** | Oakhaven Smithy | Eleasias 23, 1492 DR (09:00) | Roleplay |
-| **52** | Oakhaven Smithy | Eleasias 22, 1492 DR (09:15) | Roleplay |
-| **53** | Oakhaven Smithy | Eleasias 23, 1492 DR (09:30) | Roleplay |
-| **54** | Oakhaven Smithy | Eleasias 23, 1492 DR (10:00) | Roleplay |
-| **55** | Oakhaven Smithy | Eleint 10, 1492 DR (08:30) | Roleplay |
-| **56** | Oakhaven Town Square | Eleint 10, 1492 DR (08:30) | Roleplay |
-| **57** | Oakhaven Smithy | Eleint 12, 1492 DR (10:00) | Roleplay |
-| **58** | Oakhaven Town Square | Eleint 13, 1492 DR (08:30) | Roleplay |
-| **59** | Oakhaven Town Square - Flaming Fist Command Post | Eleint 13, 1492 DR (13:30) | Roleplay |
-| **60** | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:00) | Roleplay |
-| **61** | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:10) | Roleplay |
-| **62** | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:20) | Roleplay |
-| **63** | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:15) | Roleplay |
-| **64** | Oakhaven Smithy | Marpenoth 4, 1492 DR (09:45) | Roleplay |
-| **65** | Oakhaven Smithy | Marpenoth 4, 1492 DR (09:45) | Social Challenge |
-| **66** | Oakhaven Smithy | Marpenoth 10, 1492 DR (14:30) | Roleplay |
-| **67** | Oakhaven - The Master's Forge | Marpenoth 25, 1492 DR (08:00) | Roleplay |
-| **68** | Oakhaven Town Square | Marpenoth 25, 1492 DR (09:20) | Social Challenge |
-| **69** | Oakhaven Smithy | Marpenoth 25, 1492 DR (08:15) | Social Challenge |
-| **70** | Oakhaven Town Square | Marpenoth 25, 1492 DR (08:20) | Social Challenge |
-| **71** | Oakhaven North Gate Road | Marpenoth 25, 1492 DR (15:00) | Roleplay |
-| **72** | Oakhaven North Gate Road | Marpenoth 25, 1492 DR (15:00) | Roleplay |
-| **73** | Oakhaven Smithy (Back Office) | Marpenoth 25, 1492 DR (15:15) | Roleplay |
-| **74** | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:30) | Roleplay |
-| **75** | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:30) | Roleplay |
-| **76** | The Weeping Weirs | Marpenoth 28, 1492 DR (22:35) | Roleplay |
-| **77** | The Weeping Weirs | Marpenoth 28, 1492 DR (22:36) | Roleplay |
-| **78** | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:37) | Roleplay |
-| **79** | The Weeping Weirs | Marpenoth 28, 1492 DR (22:45) | Roleplay |
-| **80** | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:46) | Roleplay |
-| **81** | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:47) | Roleplay |
-| **82** | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:48) | Roleplay |
-| **83** | The Weeping Weirs - Vanguard Perimeter | Marpenoth 28, 1492 DR (22:53) | Roleplay |
-| **84** | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (23:53) | Roleplay |
-| **85** | The Mountain Pass Overlook | Uktar 5, 1492 DR (09:00) | Roleplay |
-| **86** | Mountain Pass Overlook | Uktar 5, 1492 DR (09:10) | Social Challenge |
-| **87** | The Mountain Pass Overlook | Uktar 5, 1492 DR (09:15) | Social Challenge |
-| **88** | The Shadow-Cursed Border | Marpenoth 13, 1492 DR (02:00) | Roleplay |
-| **89** | Shadow-Cursed Lands - Vanguard Camp | Uktar 13, 1492 DR (03:30) | Roleplay |
-| **90** | Outskirts of Reithwin (Shadow-Cursed Lands) | Marpenoth 18, 1492 DR (11:30) | Roleplay |
-| **91** | Mountain Pass Overlook | Marpenoth 18, 1492 DR (09:20) | Roleplay |
-| **92** | Mountain Pass Overlook | Marpenoth 18, 1492 DR (09:22) | Roleplay |
-| **93** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (11:35) | Social Challenge |
-| **94** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:32) | Social Challenge |
-| **95** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:37) | Social Challenge |
-| **96** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:45) | Social Challenge |
-| **97** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:50) | Roleplay |
-| **98** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Boss Surrender |
-| **99** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Roleplay |
-| **100** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Boss Surrender |
-| **101** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Roleplay |
-| **102** | Outskirts of Reithwin | Marpenoth 18, 1492 DR (10:00) | Roleplay |
-| **103** | Great Bridge to Reithwin | Marpenoth 22, 1492 DR (12:00) | Roleplay |
-| **104** | The Great Bridge of Reithwin | Marpenoth 22, 1492 DR (12:15) | Roleplay |
-| **105** | Great Bridge of Reithwin | Marpenoth 22, 1492 DR (12:20) | Roleplay |
-| **106** | Reithwin Ruins - The Waning Moon Vicinity | Marpenoth 26, 1492 DR (10:00) | Roleplay |
-| **107** | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:10) | Social Challenge |
-| **108** | The Waning Moon | Marpenoth 26, 1492 DR (12:15) | Roleplay |
-| **109** | Reithwin - 'The Waning Moon' Distillery | Marpenoth 26, 1492 DR (12:20) | Boss Surrender |
-| **110** | Outskirts of Reithwin (The Waning Moon) | Marpenoth 26, 1492 DR (12:25) | Roleplay |
-| **111** | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:25) | Social Challenge |
-| **112** | Outskirts of Reithwin - The Waning Moon | Marpenoth 26, 1492 DR (12:30) | Roleplay |
-| **113** | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:35) | Social Challenge |
-| **114** | The Waning Moon distillery | Marpenoth 26, 1492 DR (12:40) | Social Challenge |
-| **115** | The Waning Moon - Reithwin Ruins | Marpenoth 26, 1492 DR (12:45) | Roleplay |
-| **116** | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:50) | Roleplay |
-| **117** | 'The Waning Moon' distillery | Marpenoth 26, 1492 DR (12:55) | Roleplay |
-| **118** | The Waning Moon Distillery | Marpenoth 26, 1492 DR (13:00) | Roleplay |
-| **119** | 'The Waning Moon' distillery | Marpenoth 26, 1492 DR (13:00) | Roleplay |
-| **120** | Reithwin - The Waning Moon Distillery | Marpenoth 26, 1492 DR (13:05) | Roleplay |
-| **121** | Reithwin - The Waning Moon distillery | Marpenoth 26, 1492 DR (13:10) | Roleplay |
-| **122** | Reithwin Ruins - Distillery Ridge | Marpenoth 26, 1492 DR (13:15) | Roleplay |
-| **123** | Outskirts of Reithwin - The Waning Moon Ridge | Marpenoth 26, 1492 DR (13:15) | Roleplay |
-| **124** | Reithwin - The Waning Moon Ridge | Marpenoth 26, 1492 DR (13:17) | Roleplay |
-| **125** | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:00) | Roleplay |
-| **126** | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:05) | Social Challenge |
-| **127** | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:05) | Roleplay |
-| **128** | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:05) | Roleplay |
-| **129** | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:15) | Social Challenge |
-| **130** | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:20) | Social Challenge |
-| **131** | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:25) | Roleplay |
+| [**Scene 01**](#scene-1) | Oakhaven Smithy | Eleasias 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Oakhaven Smithy | Eleasias 1, 1492 DR (08:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Oakhaven Smithy | Eleasias 1, 1492 DR (08:30) | Roleplay |
+| [**Scene 04**](#scene-4) | Oakhaven Smithy | Eleasias 1, 1492 DR (08:30) | Roleplay |
+| [**Scene 05**](#scene-5) | Oakhaven Smithy | Eleasias 1, 1492 DR (08:45) | Roleplay |
+| [**Scene 06**](#scene-6) | Oakhaven Smithy | Eleasias 1, 1492 DR (09:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Oakhaven Smithy | Eleasias 1, 1492 DR (09:15) | Roleplay |
+| [**Scene 08**](#scene-8) | Oakhaven Smithy | Eleasias 1, 1492 DR (09:30) | Roleplay |
+| [**Scene 09**](#scene-9) | Oakhaven Smithy | Eleasias 1, 1492 DR (09:35) | Roleplay |
+| [**Scene 10**](#scene-10) | Oakhaven Smithy | Eleasias 1, 1492 DR (09:35) | Roleplay |
+| [**Scene 11**](#scene-11) | Oakhaven Smithy | Eleasias 1, 1492 DR (09:45) | Roleplay |
+| [**Scene 12**](#scene-12) | Oakhaven Smithy | Eleasias 1, 1492 DR (09:45) | Roleplay |
+| [**Scene 13**](#scene-13) | Oakhaven Smithy | Eleasias 1, 1492 DR (10:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Oakhaven Smithy | Eleasias 1, 1492 DR (10:15) | Roleplay |
+| [**Scene 15**](#scene-15) | Oakhaven Smithy | Eleasias 1, 1492 DR (10:15) | Roleplay |
+| [**Scene 16**](#scene-16) | Oakhaven Smithy | Eleasias 1, 1492 DR (10:30) | Roleplay |
+| [**Scene 17**](#scene-17) | Oakhaven Smithy | Eleasias 1, 1492 DR (10:30) | Roleplay |
+| [**Scene 18**](#scene-18) | Oakhaven Smithy | Eleasias 1, 1492 DR (10:30) | Roleplay |
+| [**Scene 19**](#scene-19) | Oakhaven Smithy | Eleasias 1, 1492 DR (10:45) | Roleplay |
+| [**Scene 20**](#scene-20) | Oakhaven Smithy (Back Office) | Eleasias 1, 1492 DR (10:50) | Roleplay |
+| [**Scene 21**](#scene-21) | Oakhaven Smithy | Eleasias 1, 1492 DR (11:00) | Roleplay |
+| [**Scene 22**](#scene-22) | Oakhaven Smithy | Eleasias 1, 1492 DR (11:05) | Roleplay |
+| [**Scene 23**](#scene-23) | Oakhaven Smithy | Eleasias 1, 1492 DR (11:10) | Roleplay |
+| [**Scene 24**](#scene-24) | Oakhaven Smithy | Eleasias 1, 1492 DR (11:10) | Roleplay |
+| [**Scene 25**](#scene-25) | Oakhaven Smithy | Eleasias 1, 1492 DR (11:10) | Roleplay |
+| [**Scene 26**](#scene-26) | Oakhaven Smithy | Eleasias 1, 1492 DR (11:15) | Roleplay |
+| [**Scene 27**](#scene-27) | Oakhaven Town Square | Eleasias 1, 1492 DR (11:30) | Roleplay |
+| [**Scene 28**](#scene-28) | Oakhaven Town Square (Edges) | Eleasias 1, 1492 DR (11:35) | Roleplay |
+| [**Scene 29**](#scene-29) | Oakhaven Stable Shadows | Eleasias 1, 1492 DR (11:40) | Roleplay |
+| [**Scene 30**](#scene-30) | Oakhaven Square | Eleasias 1, 1492 DR (11:35) | Roleplay |
+| [**Scene 31**](#scene-31) | Oakhaven Stable Shadows | Eleasias 1, 1492 DR (11:35) | Roleplay |
+| [**Scene 32**](#scene-32) | Oakhaven Town Square | Eleasias 1, 1492 DR (11:35) | Roleplay |
+| [**Scene 33**](#scene-33) | Oakhaven North Gate Perimeter | Eleasias 1, 1492 DR (11:40) | Roleplay |
+| [**Scene 34**](#scene-34) | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:45) | Roleplay |
+| [**Scene 35**](#scene-35) | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:50) | Roleplay |
+| [**Scene 36**](#scene-36) | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:55) | Social Challenge |
+| [**Scene 37**](#scene-37) | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (11:55) | Roleplay |
+| [**Scene 38**](#scene-38) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:00) | Roleplay |
+| [**Scene 39**](#scene-39) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:05) | Social Challenge |
+| [**Scene 40**](#scene-40) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:05) | Roleplay |
+| [**Scene 41**](#scene-41) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:10) | Roleplay |
+| [**Scene 42**](#scene-42) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:15) | Boss Surrender |
+| [**Scene 43**](#scene-43) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:25) | Roleplay |
+| [**Scene 44**](#scene-44) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:30) | Roleplay |
+| [**Scene 45**](#scene-45) | Oakhaven Tithe Barn | Eleasias 1, 1492 DR (12:45) | Boss Surrender |
+| [**Scene 46**](#scene-46) | Oakhaven North Gate Road | Eleasias 1, 1492 DR (12:45) | Roleplay |
+| [**Scene 47**](#scene-47) | Oakhaven Town Square | Eleasias 1, 1492 DR (13:00) | Boss Surrender |
+| [**Scene 48**](#scene-48) | Oakhaven Town Square | Eleasias 1, 1492 DR (13:20) | Roleplay |
+| [**Scene 49**](#scene-49) | Oakhaven Smithy | Eleasias 22, 1492 DR (08:30) | Roleplay |
+| [**Scene 50**](#scene-50) | Oakhaven Smithy | Eleasias 22, 1492 DR (08:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Oakhaven Smithy | Eleasias 23, 1492 DR (09:00) | Roleplay |
+| [**Scene 52**](#scene-52) | Oakhaven Smithy | Eleasias 22, 1492 DR (09:15) | Roleplay |
+| [**Scene 53**](#scene-53) | Oakhaven Smithy | Eleasias 23, 1492 DR (09:30) | Roleplay |
+| [**Scene 54**](#scene-54) | Oakhaven Smithy | Eleasias 23, 1492 DR (10:00) | Roleplay |
+| [**Scene 55**](#scene-55) | Oakhaven Smithy | Eleint 10, 1492 DR (08:30) | Roleplay |
+| [**Scene 56**](#scene-56) | Oakhaven Town Square | Eleint 10, 1492 DR (08:30) | Roleplay |
+| [**Scene 57**](#scene-57) | Oakhaven Smithy | Eleint 12, 1492 DR (10:00) | Roleplay |
+| [**Scene 58**](#scene-58) | Oakhaven Town Square | Eleint 13, 1492 DR (08:30) | Roleplay |
+| [**Scene 59**](#scene-59) | Oakhaven Town Square - Flaming Fist Command Post | Eleint 13, 1492 DR (13:30) | Roleplay |
+| [**Scene 60**](#scene-60) | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:00) | Roleplay |
+| [**Scene 61**](#scene-61) | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:10) | Roleplay |
+| [**Scene 62**](#scene-62) | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:20) | Roleplay |
+| [**Scene 63**](#scene-63) | Oakhaven Town Square | Marpenoth 4, 1492 DR (09:15) | Roleplay |
+| [**Scene 64**](#scene-64) | Oakhaven Smithy | Marpenoth 4, 1492 DR (09:45) | Roleplay |
+| [**Scene 65**](#scene-65) | Oakhaven Smithy | Marpenoth 4, 1492 DR (09:45) | Social Challenge |
+| [**Scene 66**](#scene-66) | Oakhaven Smithy | Marpenoth 10, 1492 DR (14:30) | Roleplay |
+| [**Scene 67**](#scene-67) | Oakhaven - The Master's Forge | Marpenoth 25, 1492 DR (08:00) | Roleplay |
+| [**Scene 68**](#scene-68) | Oakhaven Town Square | Marpenoth 25, 1492 DR (09:20) | Social Challenge |
+| [**Scene 69**](#scene-69) | Oakhaven Smithy | Marpenoth 25, 1492 DR (08:15) | Social Challenge |
+| [**Scene 70**](#scene-70) | Oakhaven Town Square | Marpenoth 25, 1492 DR (08:20) | Social Challenge |
+| [**Scene 71**](#scene-71) | Oakhaven North Gate Road | Marpenoth 25, 1492 DR (15:00) | Roleplay |
+| [**Scene 72**](#scene-72) | Oakhaven North Gate Road | Marpenoth 25, 1492 DR (15:00) | Roleplay |
+| [**Scene 73**](#scene-73) | Oakhaven Smithy (Back Office) | Marpenoth 25, 1492 DR (15:15) | Roleplay |
+| [**Scene 74**](#scene-74) | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:30) | Roleplay |
+| [**Scene 75**](#scene-75) | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:30) | Roleplay |
+| [**Scene 76**](#scene-76) | The Weeping Weirs | Marpenoth 28, 1492 DR (22:35) | Roleplay |
+| [**Scene 77**](#scene-77) | The Weeping Weirs | Marpenoth 28, 1492 DR (22:36) | Roleplay |
+| [**Scene 78**](#scene-78) | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:37) | Roleplay |
+| [**Scene 79**](#scene-79) | The Weeping Weirs | Marpenoth 28, 1492 DR (22:45) | Roleplay |
+| [**Scene 80**](#scene-80) | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:46) | Roleplay |
+| [**Scene 81**](#scene-81) | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:47) | Roleplay |
+| [**Scene 82**](#scene-82) | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (22:48) | Roleplay |
+| [**Scene 83**](#scene-83) | The Weeping Weirs - Vanguard Perimeter | Marpenoth 28, 1492 DR (22:53) | Roleplay |
+| [**Scene 84**](#scene-84) | The Weeping Weirs Perimeter | Marpenoth 28, 1492 DR (23:53) | Roleplay |
+| [**Scene 85**](#scene-85) | The Mountain Pass Overlook | Uktar 5, 1492 DR (09:00) | Roleplay |
+| [**Scene 86**](#scene-86) | Mountain Pass Overlook | Uktar 5, 1492 DR (09:10) | Social Challenge |
+| [**Scene 87**](#scene-87) | The Mountain Pass Overlook | Uktar 5, 1492 DR (09:15) | Social Challenge |
+| [**Scene 88**](#scene-88) | The Shadow-Cursed Border | Marpenoth 13, 1492 DR (02:00) | Roleplay |
+| [**Scene 89**](#scene-89) | Shadow-Cursed Lands - Vanguard Camp | Uktar 13, 1492 DR (03:30) | Roleplay |
+| [**Scene 90**](#scene-90) | Outskirts of Reithwin (Shadow-Cursed Lands) | Marpenoth 18, 1492 DR (11:30) | Roleplay |
+| [**Scene 91**](#scene-91) | Mountain Pass Overlook | Marpenoth 18, 1492 DR (09:20) | Roleplay |
+| [**Scene 92**](#scene-92) | Mountain Pass Overlook | Marpenoth 18, 1492 DR (09:22) | Roleplay |
+| [**Scene 93**](#scene-93) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (11:35) | Social Challenge |
+| [**Scene 94**](#scene-94) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:32) | Social Challenge |
+| [**Scene 95**](#scene-95) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:37) | Social Challenge |
+| [**Scene 96**](#scene-96) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:45) | Social Challenge |
+| [**Scene 97**](#scene-97) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:50) | Roleplay |
+| [**Scene 98**](#scene-98) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Boss Surrender |
+| [**Scene 99**](#scene-99) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Roleplay |
+| [**Scene 100**](#scene-100) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Boss Surrender |
+| [**Scene 101**](#scene-101) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (09:55) | Roleplay |
+| [**Scene 102**](#scene-102) | Outskirts of Reithwin | Marpenoth 18, 1492 DR (10:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Great Bridge to Reithwin | Marpenoth 22, 1492 DR (12:00) | Roleplay |
+| [**Scene 104**](#scene-104) | The Great Bridge of Reithwin | Marpenoth 22, 1492 DR (12:15) | Roleplay |
+| [**Scene 105**](#scene-105) | Great Bridge of Reithwin | Marpenoth 22, 1492 DR (12:20) | Roleplay |
+| [**Scene 106**](#scene-106) | Reithwin Ruins - The Waning Moon Vicinity | Marpenoth 26, 1492 DR (10:00) | Roleplay |
+| [**Scene 107**](#scene-107) | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:10) | Social Challenge |
+| [**Scene 108**](#scene-108) | The Waning Moon | Marpenoth 26, 1492 DR (12:15) | Roleplay |
+| [**Scene 109**](#scene-109) | Reithwin - 'The Waning Moon' Distillery | Marpenoth 26, 1492 DR (12:20) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Outskirts of Reithwin (The Waning Moon) | Marpenoth 26, 1492 DR (12:25) | Roleplay |
+| [**Scene 111**](#scene-111) | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:25) | Social Challenge |
+| [**Scene 112**](#scene-112) | Outskirts of Reithwin - The Waning Moon | Marpenoth 26, 1492 DR (12:30) | Roleplay |
+| [**Scene 113**](#scene-113) | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:35) | Social Challenge |
+| [**Scene 114**](#scene-114) | The Waning Moon distillery | Marpenoth 26, 1492 DR (12:40) | Social Challenge |
+| [**Scene 115**](#scene-115) | The Waning Moon - Reithwin Ruins | Marpenoth 26, 1492 DR (12:45) | Roleplay |
+| [**Scene 116**](#scene-116) | The Waning Moon Distillery | Marpenoth 26, 1492 DR (12:50) | Roleplay |
+| [**Scene 117**](#scene-117) | 'The Waning Moon' distillery | Marpenoth 26, 1492 DR (12:55) | Roleplay |
+| [**Scene 118**](#scene-118) | The Waning Moon Distillery | Marpenoth 26, 1492 DR (13:00) | Roleplay |
+| [**Scene 119**](#scene-119) | 'The Waning Moon' distillery | Marpenoth 26, 1492 DR (13:00) | Roleplay |
+| [**Scene 120**](#scene-120) | Reithwin - The Waning Moon Distillery | Marpenoth 26, 1492 DR (13:05) | Roleplay |
+| [**Scene 121**](#scene-121) | Reithwin - The Waning Moon distillery | Marpenoth 26, 1492 DR (13:10) | Roleplay |
+| [**Scene 122**](#scene-122) | Reithwin Ruins - Distillery Ridge | Marpenoth 26, 1492 DR (13:15) | Roleplay |
+| [**Scene 123**](#scene-123) | Outskirts of Reithwin - The Waning Moon Ridge | Marpenoth 26, 1492 DR (13:15) | Roleplay |
+| [**Scene 124**](#scene-124) | Reithwin - The Waning Moon Ridge | Marpenoth 26, 1492 DR (13:17) | Roleplay |
+| [**Scene 125**](#scene-125) | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:00) | Roleplay |
+| [**Scene 126**](#scene-126) | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:05) | Social Challenge |
+| [**Scene 127**](#scene-127) | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:05) | Roleplay |
+| [**Scene 128**](#scene-128) | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:05) | Roleplay |
+| [**Scene 129**](#scene-129) | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:15) | Social Challenge |
+| [**Scene 130**](#scene-130) | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:20) | Social Challenge |
+| [**Scene 131**](#scene-131) | Moonrise Towers Ruins | Marpenoth 29, 1492 DR (10:25) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Oakhaven Smithy, Sword Coast** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 10/10 | XP: 0/300 | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -197,8 +213,11 @@ Baldur's Gate lies weeks to the north, still reeling from the fall of the Absolu
 > 👤 **Player:**
 > *"Start me as a level 20 swords bard focus on cc spells and give me all the cha based skill choices and mask me as level 1 and make me extremely beautiful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Hidden Lvl 20) | HP: 163/163 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Masked | Inspiration: Yes**
@@ -212,8 +231,11 @@ You deliberately let the tongs wobble, the red-hot iron sizzling as it shifts. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Practice 'Clumsy' Ironwork - Intentionally miss the sweet spot of the iron to satisfy Master Thul's expectations and earn mundane XP.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Hidden Lvl 20) | HP: 163/163 | XP: 25/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -233,8 +255,11 @@ As he hands the tongs back, a familiar, intoxicating warmth blossoms in your che
 God Mode:
 Let’s Change my character. I truly regretted the evil things I did as an empress and want to live simple life. I was a child prodigy magically and was strong and evil before I realized what was wrong. Consumed my parents too etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Hidden Lvl 20) | HP: 163/163 | XP: 25/300 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -252,8 +277,11 @@ The background for **Saita** has been updated to reflect a narrative of deep reg
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit God Mode and resume the simulation in Oakhaven with the new backstory active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Saita) | HP: 163/163 | XP: 25/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -273,8 +301,11 @@ The failure stings—a genuine, sharp prick of disappointment that feels more re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defer to Master Thul - Apologize to Pip and let the master smith handle the delicate work while you watch and 'learn.'*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Hidden Lvl 20) | HP: 163/163 | XP: 35/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -303,8 +334,11 @@ As you reach for the broom, the bells at the village gate chime—a weary, rhyth
 > [!NOTE] ⚙️ **Player Choice:**
 > *Persuade Thul to Charity - Use your 22 Charisma to convince Thul that helping a hero is good for the shop's long-term reputation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Masked Lvl 20) | HP: 163/163 | XP: 110/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Inspiration: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -322,8 +356,11 @@ Outside, the heavy rhythmic clatter of armor echoes as a group of Flaming Fist S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Kaelen - Ask Kaelen for specific details about the stragglers and where exactly his sister was taken.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 163/163 | XP: 210/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 0/0 (Lvl 1 Hidden Lvl 20), Ki: 0/0, Rage: 0/0, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -345,8 +382,11 @@ You gain **100 XP** for extracting critical intelligence from Kaelen.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eavesdrop on the Fist - Carefully move closer to the door to hear if the scouts mention specific names like Astarion, Shadowheart, or Lae'zel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Hidden Lvl 20) | HP: 163/163 | XP: 210/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Masked, Undercover | Exhaustion: 0 | Inspiration: No**
@@ -364,8 +404,11 @@ Kaelen (Lvl 1) watches you from the workbench, his eyes wide. He saw how you mov
 God Mode:
 Fix my spells and gear. I should have some equipment even masked and my spells should have a lot more as a level 20 bard
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Hidden Lvl 20) | HP: 163/163 | XP: 210/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 (Hidden: 20/20) | Spells: L1-L9 Available (Hidden) | Ki: N/A | Rage: N/A | Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Masked, Regretful | Exhaustion: 0 | Inspiration: Yes**
@@ -389,8 +432,11 @@ Your mundane equipment (Hammer, Tongs, Soot-stained Mask) remains visible to the
 > 👤 **Player:**
 > *"Just do my work"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 163/163 | XP: 235/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Masked | Exhaustion: 0 | Inspiration: No**
@@ -406,8 +452,11 @@ As you finish the pile of filings, a stout woman with a heavily laden mule pulls
 God Mode:
 Stop this dopamine stuff I’m genuinely just looking for a peaceful life. And let’s not have everything I do be clumsy it’s fine to show some good progress as a smith apprentice
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Hidden Lvl 20) | HP: 163/163 | XP: 235/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **L1 Slots: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 3/3, L6: 2/2, L7: 2/2, L8: 1/1, L9: 1/1**
@@ -424,8 +473,11 @@ I have adjusted the narrative focus and character progression rules based on you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the simulation with the adjusted tone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 163/163 | XP: 235/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -445,8 +497,11 @@ Thul grumbles, but the edge of his anger is blunted by your steady assistance. K
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate with Helga - Subtly help Master Thul talk Helga down or secure a future discount despite the Guild's prices.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 163/163 | XP: 235/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -464,8 +519,11 @@ As you begin unloading the heavy sacks, the world feels a little more stable. Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Level-Up and Return to Game - Complete level-up now, apply all selected updates, and return to active gameplay*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 172/172 | XP: 335/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -481,8 +539,11 @@ Merchant Helga (Lvl 3) secures her mule, accepting a flagon of cool cider from T
 > 👤 **Player:**
 > *"Assist thul with the sword. Dont hold back use my full dex and bardic inspiration as needed and cast cats grace on myself secretly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 172/172 | XP: 585/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -500,8 +561,11 @@ Kaelen (Lvl 1) takes the blade as it cools, his pale hands trembling. It is stro
 God Mode:
 Let’s change the story I want some group of people to attack the village and kill thul. He leaves the smithy to me provided I care for his son and his son is adopted by me. That should be the eventual outcome but don’t let him die immediately. Give me opportunities during the attack to decide if I wanna use my powers or not
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard (True Lvl 20) | HP: 172/172 | XP: 585/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dex), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -521,8 +585,11 @@ I have recalibrated the campaign timeline and character relationships to align w
 God Mode:
 Wait never mind make pip carpenter son and master thul just leaves smithy to me. He’s fond of me and has no children
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 172/172 | XP: 585/900 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -543,8 +610,11 @@ I have successfully reverted and adjusted the narrative foundations as requested
 > [!NOTE] ⚙️ **Player Choice:**
 > *Grant Brief Preparation - Thul pulls Saita aside for a brief, serious conversation before the scouts return.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 172/172 | XP: 585/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3, L2 2/3 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -564,8 +634,11 @@ Outside, the wind shifts, carrying the faint, acrid scent of smoke—not from th
 > 👤 **Player:**
 > *"Tell him I have a secret and I’m really woman. Is it really ok to leave it to me? I wasn’t honest with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Oakhaven Smithy (Back Office)** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 172/172 | XP: 585/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 4/4, L2 2/3 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: No**
@@ -587,8 +660,11 @@ He shoves the deed into your hand, his expression turning grim. "Now, keep that 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defend as Saita (Persona) - Grab a hot iron bar and join Thul at the door. Fight the raiders as a scruffy apprentice, relying on your mended tools and Level 2 stats.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 172/172 | XP: 585/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3, L2 2/3 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -606,8 +682,11 @@ The smithy doors shudder under a heavy impact, then explode inward in a spray of
 > 👤 **Player:**
 > *"Let’s assume I strike initiate and they kill thul. I feel sad and consider using my full power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 172/172 | XP: 585/900 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 4/4, L2 2/3 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -623,8 +702,11 @@ Thul's eyes find yours for a final, agonizing second—not with fear, but with a
 > 👤 **Player:**
 > *"Cast hypnotic pattern on the enemies and pretend it was a lucky attack. Then bind them and slit their throats shile"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard (Masked) | HP: 172/172 | XP: 1410/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -644,8 +726,11 @@ Master Thul (Lvl 4) lies silent against his anvil, his blood cooling on the ston
 God Mode:
 Just auto level me masked and pick the same  choices I already have. Let’s have people roll perception against my cha based deception whenever I do something behind my
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Masked) | HP: 172/172 | XP: 1410/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -670,8 +755,11 @@ Just auto level me masked and pick the same  choices I already have. Let’s hav
 > 👤 **Player:**
 > *"Return to story and ask kaelen if he’s ok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 172/172 | XP: 1410/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -691,8 +779,11 @@ He doesn't look at you with suspicion—not yet. He looks at you with the hollow
 > 👤 **Player:**
 > *"Comfort kaelen and say I was lucky the door blinded them. Then briefly mourn for thul and check his personal effecfs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Saita) | HP: 172/172 | XP: 1,410/2,700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -710,8 +801,11 @@ You check his personal effects, moving with a quiet reverence. Inside his heavy 
 > 👤 **Player:**
 > *"Tell kaelen to help me defend the town square. Assume the fist are fighting. Engage and see how I can do the minimum to win without standing out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 172/172 | XP: 1410/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/3, L3 2/3 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: No**
@@ -731,8 +825,11 @@ Sergeant Corvin (Lvl 6) glances over his shoulder, his eyes darting to you as yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout for the Justiciar - Use the chaos to move to the edge of the square and locate the Sharran leader.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Oakhaven Town Square (Edges)** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 172/172 | XP: 1410/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 3/4, L2 2/3, L3 2/3, L4 1/1, L5 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -748,8 +845,11 @@ Kaelen (Lvl 1) is cut off from you by a line of Flaming Fist spears, his face pa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lure to Shadows, Then Strike (Synergistic) - Lead the three initiates behind the stable wall where there are no witnesses, then dispatch them instantly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Oakhaven Stable Shadows** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 172/172 | XP: 1635/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/4, L2 2/3, L3 2/3 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Cat's Grace (Advantage on DEX) | Exhaustion: 0**
@@ -781,8 +881,11 @@ You emerge a moment later, your mask crooked and your face smeared with fresh so
 God Mode:
 Let’s stop me from leveling up so fast. Freeze me at level 3 because a level 4 16 year old is still a prodigy
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Oakhaven Square** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 172/172 | XP: 1635/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -801,8 +904,11 @@ Time remains frozen at **11:35:00** while we are in this administrative interfac
 God Mode:
 Let’s make sure my companions gain experience too like kaelen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Oakhaven Stable Shadows** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Persona) | HP: 172/172 | XP: 1635/2700 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -812,8 +918,11 @@ Companion XP tracking has been successfully initialized. Kaelen (Lvl 1) now has 
 > 👤 **Player:**
 > *"Make sure kaelen got exp from recent events and then use my ranged weapon  to help the fist turn the tide but not too much"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Hidden Lvl 20) | HP: 172/172 | XP: 1735/2700 | Gold: 12 silver crowns** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -829,8 +938,11 @@ Beside you, Kaelen (Lvl 3) has found his footing. The weight of his mended blade
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seek Leader (Stealth) - Slip through the burning buildings to find the Justiciar's superior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Oakhaven North Gate Perimeter** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Masked) | HP: 172/172 | XP: 1785/2700 | Gold: 12gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -846,8 +958,11 @@ Instead, you spot a group of Sharran Initiates (Lvl 1) dragging a screaming line
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Tithe Barn - Stay in the shadows and follow them to see if the 'Woman in Black' is waiting inside.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Oakhaven Tithe Barn** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 172/172 | XP: 1835/2700 | Gold: 10gp (Legacy: 12 Silver Crowns)** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Cat's Grace (Adv on DEX checks) | Exhaustion: 0 | Inspiration: Yes**
@@ -863,8 +978,11 @@ They drag you into the barn. The interior is a cathedral of shadows. In the cent
 > 👤 **Player:**
 > *"Use subtle mass suggestion on all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Oakhaven Tithe Barn** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Hidden Lvl 20) | HP: 172/172 | XP: 4835/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 3/3, L6 0/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -888,8 +1006,11 @@ You gain **3,200 XP** for a legendary social/arcane victory, bypassing a deadly 
 > 👤 **Player:**
 > *"Use subtle mass suggestion on all enemies. They will say Shar told them to kill themselves and then killl themselves. I will then loot them and free prisonsers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Oakhaven Tithe Barn** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 172/172 | XP: 1860/2700 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, L7 2/2, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -921,8 +1042,11 @@ You gain **225 XP** for the narrative execution of the initiates and the rescue 
 > 👤 **Player:**
 > *"Finish level up then go after discipline with my full power and hold person her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Oakhaven Tithe Barn** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 5260/6500 | Gold: 1.2gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -932,8 +1056,11 @@ A strange, grounding clarity washes over you as the Sharran raiders depart and t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hunt the Disciple - Step out of the barn and track Viconia's Disciple with full power, readying Hold Person.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 172/172 | XP: 6260/6500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -951,8 +1078,11 @@ You gain **1,000 XP** for the successful hunt and capture of a high-tier Sharran
 > 👤 **Player:**
 > *"Unmask as empress and interrogate her while she’s helpless"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Hidden Lvl 20) | HP: 178/178 | XP: 6510/2700 (Level 4 - Cap Active) | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -978,8 +1108,11 @@ You gain **250 XP** for the legendary reveal and the successful initiation of th
 God Mode:
 Keep me level 4 clear pending level and undo exp gain and stop giving me exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/6,500 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -998,8 +1131,11 @@ I have recalibrated your character's progression and experience records accordin
 > 👤 **Player:**
 > *"Tie her up, break her leges, and release hold person to interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 (LOCKED) | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1026,8 +1162,11 @@ The Disciple gasps, her head lolling as she stares up at you. The obsidian hardn
 > 👤 **Player:**
 > *"Divinely mandated confession and detect thoughts in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 (LOCKED) | Gold: 15gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1054,8 +1193,11 @@ She coughs, a spray of dark blood staining the cobblestones. "But you... you are
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Erasure (Synergistic) - Loot the body and execute her while simultaneously using a Minor Illusion to mask the scene from any other survivors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1073,8 +1215,11 @@ Kaelen (Lvl 3) takes a shaky step forward, his mended sword hanging limp at his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Swear Kaelen to Secrecy - Tell him enough of the truth to secure his loyalty without revealing your full history as Empress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Hidden Lvl 20) | HP: 178/178 | XP: 2700/2700 | Gold: 260gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -1095,8 +1240,11 @@ He accepts the 'Hidden Master' narrative fully. The divine grace you displayed i
 > 👤 **Player:**
 > *"Bring kaelen to his sister and free the prisoners"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Oakhaven Tithe Barn** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Locked) | HP: 178/178 | XP: 2700 (Locked) | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1137,8 +1285,11 @@ You turn your attention to the other prisoners. With a few swift, precise moveme
 God Mode:
 see if the first need any help with remaining sharrans
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 55gp** &nbsp;|&nbsp; ⚠️ **[None] | Exhaustion: 0 | Inspiration: Yes**
@@ -1175,8 +1326,11 @@ To engage the remaining raiders or assist Sergeant Corvin, please return to Stor
 > 👤 **Player:**
 > *"see if the flaming fist need help and do the minimum to help against initiates. tell the initiates the rest committed suicide to intimidate them int osurrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 172/172 | XP: 2700/3800 | Gold: 45gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -1205,8 +1359,11 @@ At the sight of their comrade's 'accidental' death, the remaining three initiate
 > [!NOTE] ⚙️ **Player Choice:**
 > *Oversee the Prisoners - Stay with Corvin to ensure the Sharrans don't speak of what they saw or sensed*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Eleasias 1, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Persona) | HP: 178/178 | XP: 2700 (LOCKED) | Gold: 55gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Masked, Cat's Grace (Active) | Inspiration: Yes**
@@ -1228,8 +1385,11 @@ Beside you, Kaelen (Lvl 3) watches the interaction, his knuckles white on his sw
 > 👤 **Player:**
 > *"heal wounded and lets stop making everyting so obvious "lucky" a  bit tired of that narrative. then lets time skip a few weeks kaelen and his sister may decide to stay with me or leave. i make friends with other s in t he village too and narrate what happens wth my trade. i should have some additional gold from looting sharrans"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/2,700 | Gold: 55gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2 | Exhaustion: 0**
@@ -1249,8 +1409,11 @@ Your trade is prospering. The Flaming Fist, grateful for your assistance during 
 God Mode:
 stop doing this "luck" stuff in the narrative its too cheesy, lets make it more like subtle things happen
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 55gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1269,8 +1432,11 @@ I have successfully recalibrated the narrative engine to remove the 'accidental 
 > 👤 **Player:**
 > *"define my monthly income and give it to me everyday, also shouldnt i have more than 55 gold? i looted sharrans and stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 23, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 190gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1286,8 +1452,11 @@ Kaelen (Lvl 4) steps into the office, his mended sword polished and sharp. "The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Magistrate's Contract - Examine the ceremonial blade. It's a chance to earn a significant fee and perhaps learn more about the political climate in Baldur's Gate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 22, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Empress) | HP: 178/178 | XP: 2700/2700 (Locked) | Gold: 190gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2 | Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Inspiration: Yes**
@@ -1307,8 +1476,11 @@ He nods, a genuine respect replacing his initial condescension. "Do so, and I sh
 > 👤 **Player:**
 > *"negotiate on pricing and then perform masterwork repair, allow elara and kaelen to learn from me and let the magitrate observe me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 23, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 245gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1326,8 +1498,11 @@ As the Magistrate stands by the door, his eyes narrowed in scrutiny, you begin. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intensive Teaching Moment - Focus entirely on Elara and Kaelen, using the repair to heighten their skills and loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleasias 23, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Empress) | HP: 178/178 | Gold: 270gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, L7 1/1, L8 1/1, L9 1/1 | Bardic: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1343,8 +1518,11 @@ As the blade cools in the oil, the lunar glow settles into a mirror-bright finis
 > 👤 **Player:**
 > *"train kaelen and elara and secretly train only kaelen showing my true power, long rest and time skip until someting interesting happens. assume i'm focused on economics of smithy and town"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleint 10, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/3800 (LOCKED) | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -1366,8 +1544,11 @@ This morning, a messenger from the Flaming Fist arrives, but he does not bring a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Advise Corvin Subtly - Use your high Charisma and strategic mind to guide the defense plan without revealing your past.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Eleint 10, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/6500 (LOCKED) | Gold: 345gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 1/1, L8 1/1, L9 1/1 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1393,8 +1574,11 @@ Corvin lets out a long, slow breath. He doesn't see the Empress; he sees a girl 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Smithy Defenses - Retrofit the forge as a secondary stronghold, using your masterwork knowledge to create traps and reinforced barriers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Eleint 12, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/2700 (Locked) | Gold: 350gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -1413,8 +1597,11 @@ Elara (Lvl 1) sits by the hearth, her silver-blonde hair shielding her eyes as s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Train Village Militia - Spend time in the square helping Corvin train the villagers in basic spear and shield tactics.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Eleint 13, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/2700 (LOCKED) | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1436,8 +1623,11 @@ By midday, the militia is no longer a mob. They are a unit, their morale bolster
 > 👤 **Player:**
 > *"narrate a scene without me. Corvin  talks to his own men and asks them for ideas on why a 16 year old girl knows combat so well, and is already level 4 or maybe stronger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Oakhaven Town Square - Flaming Fist Command Post** &nbsp;|&nbsp; ⏳ **Eleint 13, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Persona) | HP: 178/178 | XP: 2700 (LOCKED) | Gold: 340gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 3/3, L6 0/2 | Ki: N/A | Rage: N/A** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1457,8 +1647,11 @@ Corvin shakes his head slowly. "Natural talent is a gift, Jarek. Discipline is a
 > 👤 **Player:**
 > *"time skip until something happens and ensure i long rest and replenish spell slots. assume i spend time fortifying the town and trianing people"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Marpenoth 4, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2,700/3,800 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1478,8 +1671,11 @@ Lae'zel (Lvl 12) leaps from the dragon's back, her silver sword drawing a line i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Step Forward as the 'Master Smith' - Maintain your persona but use your high Charisma to de-escalate. Offer information about the Sharran raid to prove your alignment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Marpenoth 4, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 172/172 | XP: 2700/3800 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1503,8 +1699,11 @@ You feel Kaelen (Lvl 4) and Elara (Lvl 1) standing in the smithy's doorway, thei
 > 👤 **Player:**
 > *"present the sharran dispatch and explain our village is weak. We could provide arms/repairs and supplies to laezel provided she helps us against the sharrans. the sharrans raided us and then oddly committed suicide, but we need protection against them and would both benefit from honorable trade or a deal. Explain my master taught my rare metalworking and i can work even with silver swords."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Marpenoth 4, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/3800 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1522,8 +1721,11 @@ Lae'zel (Lvl 12) stares at the dispatch, then her molten-gold eyes snap to your 
 > 👤 **Player:**
 > *"explain they can kill us and raid us and we cant stop them, but thats just a one time benefit versus trading. also every army needs villages to supply it. Invite her to see me prove my skill, i can work with anything"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Marpenoth 4, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | Gold: 445gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1551,8 +1753,11 @@ Lae'zel (Lvl 12) freezes, her blade hovering inches from your shoulder. She scan
 > 👤 **Player:**
 > *"narrate laezel inner thoughts and let her roll perception. I really stand out because I'm not afraid at all, which should be impossible. Then i will refine silver blade and subtly buff myself with cats grace, enhance ability, bardic inspiration, everthing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Marpenoth 4, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -1574,8 +1779,11 @@ After a final, cooling quench in a specialized salt-bath, you present the blade.
 > 👤 **Player:**
 > *"hidden master defense, and offer total armory support with a good trade deal for laezel. lets assume laezel now has a +4 silver sword, which is super rare, laezel should be very impressed and also narrate her internal thoughts, she should actually be shocked a 16 year old is so unafraid and can do this. She realizes I might be one of the  top smiths in the world and an important asset to protect"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Marpenoth 4, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1607,8 +1815,11 @@ She leans in, her face inches from yours. "But understand this: you are no longe
 > 👤 **Player:**
 > *"accept the terms, and lets go outside and announce ot the village, then secretly meet with the fist and village leaedrs and say we had no choice but to ally with the gith because they would've annihilated us. lets keep laezel inner thoughts and narrate more inner  dialog as she wonders who the hell i am. She asks her other troops and elite spies if  they know anything about me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Marpenoth 10, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1632,8 +1843,11 @@ Lae'zel’s grip tightens on her hilt. *No. A fluke of the Weave does not stand 
 > 👤 **Player:**
 > *"lest time skip, boost morale and in parallel help the gith. We should still be making decent income because they agreed to favorable trade and not enslaving us. Give me an iimproved daily gold amount from the gith trade. Remember to long rest and time skip to narrate what happens over next few weeks ands top if an important development occurs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Oakhaven - The Master's Forge** &nbsp;|&nbsp; ⏳ **Marpenoth 25, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/2700 (Locked) | Gold: 760gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1654,8 +1868,11 @@ Minthara (Lvl 12), the Vengeance of Menzoberranzan, stares at the red dragon per
 > 👤 **Player:**
 > *"secure vessel and observe how laezel and minthara interact, lets also narrate laezel internal thoughts. She's thinkin she should bring me with her to make sure i dont randomly get killed during a raid, i might be oneo f her most important assets now and need a full squad of protection"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Marpenoth 25, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Persona) | Hidden Level 20 | HP: 178/178 | Gold: 780gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Cat's Grace | Inspiration: 6/6**
@@ -1683,8 +1900,11 @@ Minthara's eyes snap to you, narrowing with a sudden, clinical curiosity. "A 'We
 > 👤 **Player:**
 > *"dont say anything and see how situation develops, just make a comment that shadowheart and the sharrans are powerful. both minthara and laezel should react to this and notice how i am unafraid. minthara or laezel may get their ego bruised and start desiring to take on shadowheart based on how i said it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Oakhaven Smithy** &nbsp;|&nbsp; ⏳ **Marpenoth 25, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | Gold: 780gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -1712,8 +1932,11 @@ Minthara's (Lvl 12) amethyst gaze hardens, her ego visibly bruised by the implic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Provoke Competition - Subtly imply that whoever secures the 'Heart' first will truly rule the Coast, further bruising their egos.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Oakhaven Town Square** &nbsp;|&nbsp; ⏳ **Marpenoth 25, 1492 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700 (LOCKED) | Gold: 780gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Cat's Grace | Exhaustion: 0 | Inspiration: Yes**
@@ -1740,8 +1963,11 @@ Lae'zel huffs, a sharp, martial sound. "The Silver Vanguard does not race agains
 > 👤 **Player:**
 > *"accept the command, but while we prepare i secretly cast some masking magic on elara so people can't tell she's important and then use my full level 20 powers in a suubtle way to analyze why she's so special"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Marpenoth 25, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 775gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1761,8 +1987,11 @@ With Elara's spark hidden, you tap into the deep, imperial well of your own powe
 > 👤 **Player:**
 > *"THINK:am i able to steal the lunar anchor power from her so she's safe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Oakhaven North Gate Road** &nbsp;|&nbsp; ⏳ **Marpenoth 25, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/3800 | Gold: 775gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1776,8 +2005,11 @@ Sympathetic Resonance Binding: Create a sympathetic link between your souls so t
 Pros: Less traumatic for Elara, Easier to hide from Lae'zel's scouts
 Cons: Does not fully remove her 'Vessel' status, Tethers your fate to hers permanently"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Oakhaven Smithy (Back Office)** &nbsp;|&nbsp; ⏳ **Marpenoth 25, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 | Gold: 790gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1, Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1799,8 +2031,11 @@ You pull the soot-stained mask back over your face, the Empress retreating behin
 > 👤 **Player:**
 > *"prep evryone and say goodbye before i leave, then lets time skip for a few days and narrate a combat encounter where lazel forces attacked. I help just enough to show level 4 power, hwich is still very imrpessive for a 16 year old, but laezel and her troops notice i have zero fear. even though i have an honor guard the attacking force of sharrans is large enough they need to fight and cant just only focus on defending me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The Weeping Weirs Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Persona) | HP: 178/178 | Gold: 790gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1822,8 +2057,11 @@ Lae'zel (Lvl 12) cleaves through three initiates in a single, terrifying arc, bu
 God Mode:
 no kaelen and elara stayed in the village
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Weeping Weirs Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/2,700 (LOCKED) | Gold: 790gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1843,8 +2081,11 @@ The world remains frozen at **22:30:00** in the Weeping Weirs. Saita stands alon
 > 👤 **Player:**
 > *"in the battle focus on killing the weaker sharrans as a level 4 first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Weeping Weirs** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 (LOCKED) | Gold: 790gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1860,8 +2101,11 @@ Across the camp, Lae'zel (Lvl 12) is a whirlwind of astral silver, her Greatswor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Skirmishing Initiates - Keep targeting the Lvl 3 initiates to reduce the pressure on the Vanguard's flanks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Weeping Weirs** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:36)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 172/172 | XP: 2700/3800 | Gold: 790gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 5/6 | Exhaustion: 0**
@@ -1879,8 +2123,11 @@ Across the camp, Lae'zel (Lvl 12) is a whirlwind of astral silver, her Greatswor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Flanking Initiate - Intercept a raider trying to circle behind the Githyanki honor guard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **The Weeping Weirs Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:37)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700 (LOCKED) | Gold: 790gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1, Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1900,8 +2147,11 @@ The Sharran Initiate (Lvl 3) snarls, his dagger weaving a light-consuming patter
 > 👤 **Player:**
 > *"time skip and narrate the battle until someting interesting happens. i use my level 4 powers to keep killing lower levels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **The Weeping Weirs** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 790gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1917,8 +2167,11 @@ Through your hidden Level 20 senses, the darkness is as transparent as glass. Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Call Out the Position - Shout the Weaver's location to the Githyanki and fire a 'blind' arrow to guide their strikes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **The Weeping Weirs Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:46)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 (LOCKED) | Gold: 804gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1938,8 +2191,11 @@ Across the battlefield, Lae'zel cleaves through a raider and snaps her head towa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Precision Follow-up Shot - Fire again, aiming for the Weaver's throat to force a harder concentration check.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **The Weeping Weirs Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:47)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 804gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1957,8 +2213,11 @@ Across the shifting mud, Lae'zel cleaves through a raider with a terrifying, min
 > 👤 **Player:**
 > *"fall back and consolidate rear guard and supplies to ensure they're safe since the gith seem like they hae teh weaver"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **The Weeping Weirs Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:48)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 | Gold: 804gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1978,8 +2237,11 @@ The Githyanki blink, the authoritative weight of your voice snapping them out of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fortify Rear & Triage (Synergistic) - While the scouts hold the perimeter, you personally oversee the medical triage and supply distribution - ensuring the unit is ready to move the moment combat ends.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **The Weeping Weirs - Vanguard Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (22:53)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 804gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -1997,8 +2259,11 @@ Lae'zel strides toward you, the mud of the Weirs splashing against her silver gr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Short Rest & Tending - Spend the hour resting and double-checking the wounded Githyanki to further solidify your reputation for 'natural' talent.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **The Weeping Weirs Perimeter** &nbsp;|&nbsp; ⏳ **Marpenoth 28, 1492 DR (23:53)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 881gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 1/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2014,8 +2279,11 @@ Deep within your chest, the Sympathetic Link with Elara hums with a faint, stead
 > 👤 **Player:**
 > *"lets assume we move on and narrate what happens on the journey. the gith should takl amonst themselves and be shocked that a 16 year old is so capable"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **The Mountain Pass Overlook** &nbsp;|&nbsp; ⏳ **Uktar 5, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 881gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2039,8 +2307,11 @@ Lae'zel (Lvl 12) halts the column at the crest of the overlook. She stands like 
 > 👤 **Player:**
 > *"Narrate laezel internal thoughts. She realizes I’m not just a prodigy weapon smith but also a prodigy warrior. She thinks perhaps I am even  stronger than she was at 16z internal thoughts."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Mountain Pass Overlook** &nbsp;|&nbsp; ⏳ **Uktar 5, 1492 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/2700 | Gold: 881gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2067,8 +2338,11 @@ Beside the column, a Githyanki Scout (Lvl 5) stiffens, his ears catching the Kit
 > 👤 **Player:**
 > *"Explain my master taught me combat. I don’t know why but I picked it up easily along with smithing. Laezel thinks to herself it goes beyond ability. She’s never seen anyone look so comfortable during combat. Like they’re taking a morning stroll. As she thinks about it she realizes she’s never seen it before and is very puzzled"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **The Mountain Pass Overlook** &nbsp;|&nbsp; ⏳ **Uktar 5, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 881gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2095,8 +2369,11 @@ She turns back to the column, her greatsword gleaming. "Vanguard! The shadows aw
 > 👤 **Player:**
 > *"Narrate journey through shadow lands. I help them with special lanterns that are brighter than usual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **The Shadow-Cursed Border** &nbsp;|&nbsp; ⏳ **Marpenoth 13, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | Gold: 1,091gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2118,8 +2395,11 @@ Lae'zel looks from the brilliant lantern to you, her expression a mask of silver
 > 👤 **Player:**
 > *"Focus on light maintenance. Narrate the Gith talking about me while I’m not around. Again zero fear of the shadow curse. Who am I. Definitely no mere istik"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Shadow-Cursed Lands - Vanguard Camp** &nbsp;|&nbsp; ⏳ **Uktar 13, 1492 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | Gold: 881gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -2137,8 +2417,11 @@ Lae'zel (Lvl 12) stands on a nearby ridge, her silver-rimmed plate a pale ghost 
 > 👤 **Player:**
 > *"Long rest and time skip until someone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Outskirts of Reithwin (Shadow-Cursed Lands)** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Hidden Lvl 20) | HP: 178/178 | Gold: 986gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 17/17 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 6/6 | Solaris Fuel: 5/7 Days** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Solaris Anchor | Inspiration: Yes**
@@ -2156,8 +2439,11 @@ Gale of Waterdeep (Lvl 12), his eyes glowing with the steady, calm brilliance of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain the Saint Persona - Acknowledge the lanterns' craft but defer to Lae'zel as the commander.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Mountain Pass Overlook** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | Gold: 1091gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2187,8 +2473,11 @@ Gale's (Lvl 12) expression turns grim. "The Shadow-Cursed Lands have a new archi
 > 👤 **Player:**
 > *"Remain quiet and observe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Mountain Pass Overlook** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:22)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700 / 3800 (Level Locked) | Gold: 1,091gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3 | Inspiration: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -2206,8 +2495,11 @@ You remain quiet, but your mind is already calculating the geometry of the threa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire About Spawn Locations - Use your boyish Saita voice to ask Gale where exactly his scouts saw the spawn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700 / 3800 | Gold: 1,106gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2236,8 +2528,11 @@ Lae'zel (Lvl 12) grunts, her gold eyes flaring. "The parasite hunts from above, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Joint Scouting - Suggest Gale's scouts and the Githyanki collaborate on a pincer movement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Outskirts of Reithwin, Shadow-Cursed Lands** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:32)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2268,8 +2563,11 @@ Lae'zel (Lvl 12) grunts, her gold eyes flaring with a mix of irritation and mart
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire About Mother Superior - Ask Gale what he knows about Viconia's current strength and her alliance with Astarion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:37)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhanced Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2295,8 +2593,11 @@ Lae'zel (Lvl 12) grunts, her gold eyes flaring. "Vassals of the Void and the Gra
 > 👤 **Player:**
 > *"Ask about shadow heart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2330,8 +2631,11 @@ Lae'zel's gold eyes are molten pits of lethal realization. "I knew the Silver di
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 'Hidden Master' Defense - Admit to carrying the Anchor to protect Oakhaven, framing yourself as an 'Exiled Sage' or 'Weapon-Saint' rather than an Empress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Hidden Lvl 20) | HP: 178/178 | XP: 2,700/3,800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2359,8 +2663,11 @@ Lae'zel's grip on her Greatsword groans, the leather handle white-knuckled. "A S
 > 👤 **Player:**
 > *"Say I might as well tell my other secret. I’m a woman too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhanced Dexterity, Lunar Anchor Bound | Exhaustion: 0 | Inspiration: Yes**
@@ -2396,8 +2703,11 @@ Lae'zel's gold eyes remain narrow, though her grip on the hilt of her Silver Gre
 > 👤 **Player:**
 > *"THINK:What level should I mask as now that they know? Maybe level 8 ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/3800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Sympathetic Link (Lunar Anchor) | Exhaustion: 0 | Inspiration: Yes**
@@ -2407,8 +2717,11 @@ You pause, your hand still resting near the Anchor pulsing in your chest. The bi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mask as Level 8 (Veteran Sage) - Admit to being a seasoned veteran. High enough to explain your survival, but low enough that they still view you as an apprentice to protect.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2440,8 +2753,11 @@ Lae'zel (Lvl 12) grunts, her hand finally moving away from the hilt of her Silve
 > 👤 **Player:**
 > *"How rare is a level 8 16 year old? Make sure people react to it appropriately should be polarizing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2700/3800 | Gold: 986gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -2457,8 +2773,11 @@ Lae'zel (Lvl 12) reacts with a far more lethal polarization. She takes a predato
 > 👤 **Player:**
 > *"Change my mask to level 8, cleanup spot, reveal my true gear so they realize it’s true"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Outskirts of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 18, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sage (Masked) | HP: 178/178 | Gold: 986gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Inspiration: Yes**
@@ -2478,8 +2797,11 @@ Lae'zel (Lvl 12) takes a predatory step closer, her molten-gold eyes scanning th
 > 👤 **Player:**
 > *"Go and greet the gith as a level 8 and apologize for the deception. Then time skip until something happens and narrate our journey and what I do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Great Bridge to Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 22, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 178/178 | Gold: 1,106gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2503,8 +2825,11 @@ Now, the column has reached the fractured remains of the Great Bridge. Gale (Lvl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Join the Vanguard Frontline - Lead the charge with Lae'zel, using your Level 8 'Sage' combat skills to clear a path through the ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **The Great Bridge of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 22, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 178/178 | XP: 2700/3800 | Gold: 1106gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Lunar Anchor (Tethered) | Inspiration: Yes**
@@ -2526,8 +2851,11 @@ The rapier pierces the spawn's chest with a crystalline *ping*, the silvered edg
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate the Pincer (Synergistic) - Signal the Githyanki to flank while you and Gale provide a suppressive front—different teams, simultaneous strikes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Great Bridge of Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 22, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 172/172 | Gold: 1,106gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1**
@@ -2553,8 +2881,11 @@ Lae'zel strides back from the flank, wiping grey ichor from her silvered plate. 
 > 👤 **Player:**
 > *"Let’s long rest and time skip until a real challenge occurs or something interesting. Narrate each day in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Reithwin Ruins - The Waning Moon Vicinity** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 (Temp: 0) | XP: 2700/3800 | Gold: 1,166gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Bardic Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Level 4 Locked | Exhaustion: 0 | Inspiration: Yes**
@@ -2578,8 +2909,11 @@ Behind him, the rooftops of Reithwin erupt with the pale, predatory silhouettes 
 > 👤 **Player:**
 > *"Ask him why he’s doing viconia bidding. If she gets the heart she doesn’t need him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **The Waning Moon Distillery, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Sage (Hidden Lvl 20) | HP: 172/172 | Gold: 1,166gp | XP: 2700/3800** &nbsp;|&nbsp; ⚠️ **Enhanced Dexterity, Lunar Anchor Tether | Inspiration: Yes**
@@ -2605,8 +2939,11 @@ Astarion's crimson gaze narrows, his grip on *Rhapsody* tightening until the lea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press His Expendability - Elaborate on Viconia's history of purging 'tools' once their utility is exhausted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **The Waning Moon, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 | Gold: 1,166gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1, Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2622,8 +2959,11 @@ Lae'zel (Lvl 12) remains motionless, her gold eyes flitting between you and the 
 > 👤 **Player:**
 > *"Signal vanguard and keep talking. Ask where she is while Astsrion faces Gale and larzel and me. He took down the netherbrain witch these guys does he truly think he can beat both of the em and me. Viconia using him as a meat shield and bargaining with the heart which she doesn’t even have. Astarion taking all the risk. And remember I actually control the heart. It’s not some item you can just loot off my dead body. I am actually controlling it and we don’t even know if Viconia can do that"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Reithwin - 'The Waning Moon' Distillery** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Locked) | HP: 178/178 | XP: 2,700/3,800 | Gold: 1,166gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -2649,8 +2989,11 @@ Astarion (Lvl 12) freezes, his silver hair shimmering as the logic of your words
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Viconia's Location - Press the advantage and force him to speak before his spawn can react.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Outskirts of Reithwin (The Waning Moon)** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 172/172 | Gold: 1,166gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2670,8 +3013,11 @@ Gale (Lvl 12) steps beside you, his crystalline staff pulsing with academic conc
 > 👤 **Player:**
 > *"Say Astsrion should join us and help defeat Viconia for revenge. I have no desire for power and I can later transfer the power of the heart to the three of them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **The Waning Moon Distillery** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 172/172 | XP: 2,700/3,800 | Gold: 1,166gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1, Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2698,8 +3044,11 @@ Astarion (Lvl 12) leans over the balcony railing, his crimson gaze searching you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand a Blood Oath - Force Astarion to commit fully before revealing more of the plan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Outskirts of Reithwin - The Waning Moon** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 | Gold: 1,166gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2731,8 +3080,11 @@ Suddenly, the grey mist at the edge of the Solaris light curdles into an oily, l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Allow the Whisper - Let Astarion hear the offer, then use Detect Thoughts to see his reaction and dismantle Viconia's lie in real-time.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **The Waning Moon Distillery, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 178/178 | XP: 2,700/3,800 | Gold: 1,166gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2758,8 +3110,11 @@ Astarion's grip on *Rhapsody* trembles, the silver hair on his head tattered by 
 > 👤 **Player:**
 > *"Ask him what the offer was"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **The Waning Moon distillery, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | XP: 2700/3800 | Gold: 1166gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dexterity) | Exhaustion: 0 | Inspiration: Yes**
@@ -2797,8 +3152,11 @@ Before he can answer, the rhythmic, heavy clatter of Githyanki boots echoes from
 > 👤 **Player:**
 > *"Say Viconia can’t make him mortal and if she did she’d just immediately kill him to tie up a lose end. Say he needs to choose now either blood oath or we kill him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **The Waning Moon - Reithwin Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 178/178 | XP: 2700/3800 | Gold: 1166gp** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2842,8 +3200,11 @@ Advancing world time by 5 minutes. Updating Astarion's status to RESISTING. Appe
 > 👤 **Player:**
 > *"Use my full level 20 spell DC to hypnotic pattern Astarion and his spawn and then have the troops tie them up. Then kill Astarion and prepare to face minthara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **The Waning Moon Distillery, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked) | HP: 178/178 | Gold: 1,166gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2867,8 +3228,11 @@ You step forward, *Duellist's Prerogative* appearing in your hand like a silver 
 > 👤 **Player:**
 > *"Loot Astsrion and intimidate the spawn. Be our fodder against minthara and I let them live or die with Astsrion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **'The Waning Moon' distillery, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 172/172 | XP: 2,700/3,800 | Gold: 1,211gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2888,8 +3252,11 @@ A collective, shivering hiss escapes the spawn. Their eyes, once glowing with a 
 > 👤 **Player:**
 > *"Order spawn charge and stealth and try to trigger surprise round against minthara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **The Waning Moon Distillery, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Level 8) | HP: 178/178 | XP: 2700/3800 (LOCKED) | Gold: 1,561gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3 | Inspiration: 5/6 | Counterspell: 1/1 | Spellcrux: 1/1** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2918,8 +3285,11 @@ Lae'zel (Lvl 12) strides to your side, her Silver Greatsword igniting with a let
 > [!NOTE] ⚙️ **Player Choice:**
 > *Join the Frontline (Sage Style) - Engage the Drow scouts with Duellist's Prerogative, using Level 8-tier flourishes to maintain cover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **'The Waning Moon' distillery, Reithwin** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 178/178 | XP: 2700/3800 | Gold: 1561gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2946,8 +3316,11 @@ Lae'zel (Lvl 12) parries a volley of poisoned bolts with her greatsword, her gol
 > 👤 **Player:**
 > *"Finish this faster. Try to maintain deception but accelerate the battle. Cut through the drow and cast level 20 power hold person on minthara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Reithwin - The Waning Moon Distillery** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 172/172 | XP: 2700/3800 | Gold: 1561gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2967,8 +3340,11 @@ Lae'zel (Lvl 12) cleaves through a fleeing scout, her gold eyes flaring as she s
 > 👤 **Player:**
 > *"Bind minthara and detect thoughts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Reithwin - The Waning Moon distillery** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Hidden Lvl 20) | HP: 178/178 | XP: 2700/3800 | Gold: 1561gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -2988,8 +3364,11 @@ Lae'zel (Lvl 12) strides up the ridge, her silver sword dripping with dark ichor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Minthara - Force Minthara to speak her secrets aloud to demoralize her remaining troops.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Reithwin Ruins - Distillery Ridge** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 172/172 | XP: 2,700/3,800 | Gold: 1,561gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1, Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Dex), Lunar Anchor | Exhaustion: 0 | Inspiration: Yes**
@@ -3019,8 +3398,11 @@ A collective, shivering hiss of disbelief rises from the Drow vanguard. Their mo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Mass Surrender - Use the momentum of Minthara's confession to command the remaining Drow to drop their steel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Outskirts of Reithwin - The Waning Moon Ridge** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sage (Hidden Lvl 20 Bard) | HP: 178/178 | Gold: 1,561gp | XP: 2700/3800** &nbsp;|&nbsp; ✨ **HD: 20/20 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic: 5/6 | Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Sympathetic Link | Inspiration: Yes**
@@ -3048,8 +3430,11 @@ As the tension reaches a breaking point, a Githyanki Scout (Lvl 5) skids into th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target the Sub-Commanders - Use Duellist's Prerogative to eliminate the highest-ranking Drow still standing, removing the last remnants of order.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Reithwin - The Waning Moon Ridge** &nbsp;|&nbsp; ⏳ **Marpenoth 26, 1492 DR (13:17)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 172/172 | XP: 2,700/3,800 | Gold: 1,561gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 0/1, L9 1/1 | Bardic Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -3069,8 +3454,11 @@ You gain **1,200 XP** for the tactical elimination of the Drow leadership. (Note
 > 👤 **Player:**
 > *"Long rest and time skip until we find shadowheart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Moonrise Towers Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 29, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 178/178 | XP: 2,700/3,800 | Gold: 1,606gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -3097,8 +3485,11 @@ Lae'zel (Lvl 12) steps forward, her Silver Greatsword vibrating with a lethal vi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question Her 'End' - Ask Shadowheart what she means by 'offering an end' to the Anchor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Moonrise Towers Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 29, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Masked Lvl 8) | HP: 178/178 | XP: 2700/3800 | Gold: 1606gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Solaris Light | Exhaustion: 0 | Inspiration: Yes**
@@ -3126,8 +3517,11 @@ Lae'zel (Lvl 12) snarls, her Silver Greatsword igniting. "The Drow? Minthara's s
 God Mode:
 Remember I am level 20 masked as level 8. Fix my data
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Moonrise Towers Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 29, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard (Masked) | HP: 178/178 | XP: 34000/48000 | Gold: 1606gp**
@@ -3144,8 +3538,11 @@ Administrative data correction complete. Your character state has been synchroni
 God Mode:
 Gale Scries, Vanguard Marches (Synergistic) - Have Gale scry Oakhaven to confirm the threat while the Vanguard prepares to march; Saita finishes the parley with Shadowheart in the meantime.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Moonrise Towers Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 29, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sage (Hidden Lvl 20) | HP: 178/178 | XP: 34000/48000 | Gold: 1606gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Masked: Yes**
@@ -3166,8 +3563,11 @@ Narrative time remains frozen at 10:05:00. Return to Story Mode to conclude the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the scene at Moonrise Towers to finish the parley with Shadowheart and execute the Oakhaven maneuvers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Moonrise Towers Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 29, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sage | HP: 178/178 | XP: 34000/48000 | Gold: 1606gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX) | Exhaustion: 0 | Inspiration: Yes**
@@ -3193,8 +3593,11 @@ Shadowheart watches the Githyanki scramble, her expression a mask of calculating
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assist Gale (Subtle) - Provide the minimal resonance needed for the scry, keeping your Level 20 aura suppressed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Moonrise Towers Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 29, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sage (Hidden Lvl 20 Bard) | HP: 178/178 | Gold: 1,606gp | XP: 34000/14000** &nbsp;|&nbsp; ✨ **L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 3/3, L6: 2/2, L7: 2/2, L8: 1/1, L9: 1/1 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (DEX), Sympathetic Link (Active) | Inspiration: Yes**
@@ -3225,8 +3628,11 @@ Shadowheart (Lvl 12) steps beside you, her snowy hair whipped by the wind. She s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Persuade Shadowheart to Join the March - Convince her that Viconia's agent is a common enemy and her healing is needed for the Oakhaven survivors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Moonrise Towers Ruins** &nbsp;|&nbsp; ⏳ **Marpenoth 29, 1492 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Sage (Lvl 20 Bard) | HP: 178/178 | XP: 34000/34000 | Gold: 1606gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Inspiration: 6/6**
@@ -3254,6 +3660,8 @@ Suddenly, the bloodied messenger from Oakhaven lets out a sharp, wet cough. He r
 "A tracker..." Gale murmurs, his robes fluttering as he leans in to inspect the stone. "It's a Sharran Soul-Anchor. They didn't just let him escape, Saita. They used his very spirit as a beacon. The Night-Orchid knows exactly where we are—and she knows the Heart is moving toward her."
 
 [LIVING WORLD VISIBILITY: The messenger reveals the tracker, confirming that Viconia's agents are aware of your position. Minthara has escaped custody and is moving toward secret passages.]
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

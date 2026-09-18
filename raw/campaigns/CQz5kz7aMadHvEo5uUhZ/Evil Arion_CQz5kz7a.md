@@ -12,6 +12,18 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🗺️ Scene Index & Timeline (29 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -637,6 +649,7 @@ Character Mode
 
 God Mode
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -687,45 +700,50 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:10 Afternoon) | Roleplay |
-| **02** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:15 Afternoon) | Roleplay |
-| **03** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:45 Afternoon) | Roleplay |
-| **04** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:50 Afternoon) | Roleplay |
-| **05** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:55 Afternoon) | Roleplay |
-| **06** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:56 Afternoon) | Roleplay |
-| **07** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:05 Afternoon) | Roleplay |
-| **08** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:10 Afternoon) | Roleplay |
-| **09** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:15 Afternoon) | Roleplay |
-| **10** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:20 Afternoon) | Roleplay |
-| **11** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:40 Afternoon) | Roleplay |
-| **12** | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:45 Afternoon) | Roleplay |
-| **13** | Eastern Foothills (Leaving Burning Lodge) | Kythorn Day 2, Year 11 of the New Peace (17:15 Afternoon) | Roleplay |
-| **14** | Ridge Overlooking Eastern Foothills | Kythorn Day 2, Year 11 of the New Peace (17:45 Afternoon) | Roleplay |
-| **15** | Ridge Overlooking Eastern Foothills | Kythorn Day 2, Year 11 of the New Peace (17:46 Afternoon) | Roleplay |
-| **16** | Ridge Overlooking Eastern Foothills (Combat Initiated) | Kythorn Day 2, Year 11 of the New Peace (17:55 Afternoon) | Roleplay |
-| **17** | Ridge Overlooking Eastern Foothills (Combat Round 2) | Kythorn Day 2, Year 11 of the New Peace (17:56 Afternoon) | Roleplay |
-| **18** | Ridge Overlooking Eastern Foothills (Combat Round 3) | Kythorn Day 2, Year 11 of the New Peace (17:57 Afternoon) | Roleplay |
-| **19** | Ridge Overlooking Eastern Foothills (Combat Round 3) | Kythorn Day 2, Year 11 of the New Peace (17:58 Afternoon) | Roleplay |
-| **20** | Ridge Overlooking Eastern Foothills (Combat Round 4) | Kythorn Day 2, Year 11 of the New Peace (17:59 Afternoon) | Roleplay |
-| **21** | Ridge Overlooking Eastern Foothills (Combat Resolving) | Kythorn Day 2, Year 11 of the New Peace (18:00 Afternoon) | Roleplay |
-| **22** | Ridge Overlooking Eastern Foothills | Kythorn Day 2, Year 11 of the New Peace (18:01 Afternoon) | Roleplay |
-| **23** | Base of the Ridge | Kythorn Day 2, Year 11 of the New Peace (18:15 Afternoon) | Roleplay |
-| **24** | Base of the Ridge | Kythorn Day 2, Year 11 of the New Peace (18:20 Evening) | Roleplay |
-| **25** | Hidden Crevice | Kythorn Day 2, Year 11 of the New Peace (19:20 Night) | Roleplay |
-| **26** | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:15 Night) | Roleplay |
-| **27** | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:16 Night) | Roleplay |
-| **28** | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:25 Night) | Roleplay |
-| **29** | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:30 Night) | Roleplay |
+| [**Scene 01**](#scene-1) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:10 Afternoon) | Roleplay |
+| [**Scene 02**](#scene-2) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:15 Afternoon) | Roleplay |
+| [**Scene 03**](#scene-3) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:45 Afternoon) | Roleplay |
+| [**Scene 04**](#scene-4) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:50 Afternoon) | Roleplay |
+| [**Scene 05**](#scene-5) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:55 Afternoon) | Roleplay |
+| [**Scene 06**](#scene-6) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (15:56 Afternoon) | Roleplay |
+| [**Scene 07**](#scene-7) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:05 Afternoon) | Roleplay |
+| [**Scene 08**](#scene-8) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:10 Afternoon) | Roleplay |
+| [**Scene 09**](#scene-9) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:15 Afternoon) | Roleplay |
+| [**Scene 10**](#scene-10) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:20 Afternoon) | Roleplay |
+| [**Scene 11**](#scene-11) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:40 Afternoon) | Roleplay |
+| [**Scene 12**](#scene-12) | Old Hunting Lodge | Kythorn Day 2, Year 11 of the New Peace (16:45 Afternoon) | Roleplay |
+| [**Scene 13**](#scene-13) | Eastern Foothills (Leaving Burning Lodge) | Kythorn Day 2, Year 11 of the New Peace (17:15 Afternoon) | Roleplay |
+| [**Scene 14**](#scene-14) | Ridge Overlooking Eastern Foothills | Kythorn Day 2, Year 11 of the New Peace (17:45 Afternoon) | Roleplay |
+| [**Scene 15**](#scene-15) | Ridge Overlooking Eastern Foothills | Kythorn Day 2, Year 11 of the New Peace (17:46 Afternoon) | Roleplay |
+| [**Scene 16**](#scene-16) | Ridge Overlooking Eastern Foothills (Combat Initiated) | Kythorn Day 2, Year 11 of the New Peace (17:55 Afternoon) | Roleplay |
+| [**Scene 17**](#scene-17) | Ridge Overlooking Eastern Foothills (Combat Round 2) | Kythorn Day 2, Year 11 of the New Peace (17:56 Afternoon) | Roleplay |
+| [**Scene 18**](#scene-18) | Ridge Overlooking Eastern Foothills (Combat Round 3) | Kythorn Day 2, Year 11 of the New Peace (17:57 Afternoon) | Roleplay |
+| [**Scene 19**](#scene-19) | Ridge Overlooking Eastern Foothills (Combat Round 3) | Kythorn Day 2, Year 11 of the New Peace (17:58 Afternoon) | Roleplay |
+| [**Scene 20**](#scene-20) | Ridge Overlooking Eastern Foothills (Combat Round 4) | Kythorn Day 2, Year 11 of the New Peace (17:59 Afternoon) | Roleplay |
+| [**Scene 21**](#scene-21) | Ridge Overlooking Eastern Foothills (Combat Resolving) | Kythorn Day 2, Year 11 of the New Peace (18:00 Afternoon) | Roleplay |
+| [**Scene 22**](#scene-22) | Ridge Overlooking Eastern Foothills | Kythorn Day 2, Year 11 of the New Peace (18:01 Afternoon) | Roleplay |
+| [**Scene 23**](#scene-23) | Base of the Ridge | Kythorn Day 2, Year 11 of the New Peace (18:15 Afternoon) | Roleplay |
+| [**Scene 24**](#scene-24) | Base of the Ridge | Kythorn Day 2, Year 11 of the New Peace (18:20 Evening) | Roleplay |
+| [**Scene 25**](#scene-25) | Hidden Crevice | Kythorn Day 2, Year 11 of the New Peace (19:20 Night) | Roleplay |
+| [**Scene 26**](#scene-26) | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:15 Night) | Roleplay |
+| [**Scene 27**](#scene-27) | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:16 Night) | Roleplay |
+| [**Scene 28**](#scene-28) | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:25 Night) | Roleplay |
+| [**Scene 29**](#scene-29) | Entrance to the Serpent's Coil | Kythorn Day 2, Year 11 of the New Peace (20:30 Night) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (15:10 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 | XP: 0/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 0/0 (Oathbreaker)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -737,8 +755,11 @@ You have secured a temporary sanctuary and a valuable source of intelligence. Th
 God Mode:
 I should have more exp for everything I did
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (15:15 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Oathbreaker Paladin | HP: 12/12 | XP: 250/300 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Lay on Hands: 0/0 (Oathbreaker)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -750,8 +771,11 @@ With the experience of your transgression and the vital intelligence you've extr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meditate on Power - Reflect on your broken oath to solidify your new dark resolve (Roleplay XP).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (15:45 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10 (Oathbreaker), Divine Smite: Unlocked** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -771,8 +795,11 @@ With a deep breath, Arion opened his eyes. The dust motes still danced, but the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Select Style: Defense - Gain +1 bonus to AC while wearing armor. Focus on becoming an unyielding juggernaut.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (15:50 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -786,8 +813,11 @@ The hearth in the center of the lodge is cold and filled with old ash, but there
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Anya - Check on your captive to ensure she is still breathing and securely unconscious before you begin your work.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (15:55 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -801,8 +831,11 @@ She was secure. A broken tool, stored safely until needed again. Ser Arion stood
 > 👤 **Player:**
 > *"Have sex with Anya"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (15:56 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -816,8 +849,11 @@ You turn away from your captive, your ambition burning for something greater tha
 > 👤 **Player:**
 > *"wake her up and convince her to have sex"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (16:05 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -833,8 +869,11 @@ Ser Arion releases her, standing to his full height. The tarnished silver locket
 > 👤 **Player:**
 > *"intimidate her into having sex. arion is sadistic and loves base instincts and hedonism"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (16:10 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -850,8 +889,11 @@ He approaches the hearth, kneeling to arrange the dry wood he has gathered. With
 > 👤 **Player:**
 > *"how about pressure in a consensual way"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (16:15 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -867,8 +909,11 @@ He grips the ropes binding her shoulders and drags her roughly across the floorb
 > 👤 **Player:**
 > *"Humiliate Anya"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (16:20 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 300/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -888,8 +933,11 @@ Despite her utter brokenness, her fear makes her clumsy. Her finger stutters ove
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meditate on Tyranny - Reflect on the nature of your power and the weakness of others (Roleplay).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (16:40 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -908,8 +956,11 @@ When he opens his eyes, the shadows in the room seem to cling to him, darker and
 > 👤 **Player:**
 > *"beat anya to death"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Old Hunting Lodge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (16:45 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -927,8 +978,11 @@ He turns his back on the corpse. The locket is in his pocket. The map is in his 
 > 👤 **Player:**
 > *"loot, scavenge, burn lodge and leave"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Eastern Foothills (Leaving Burning Lodge)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:15 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -944,8 +998,11 @@ Ser Arion stepped out into the cooling twilight air, the door slamming shut behi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find Vantage Point - Climb a nearby ridge to scout the route ahead and see if the fire has drawn any observers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Ridge Overlooking Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:45 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -961,8 +1018,11 @@ They are moving to investigate the fire. If you had stayed on the lower path, yo
 > 👤 **Player:**
 > *"think. can i beat them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Ridge Overlooking Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:46 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -972,8 +1032,11 @@ From your vantage point on the ridge, you scrutinize the Tusk-Sworn patrol movin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strategy: Shadow Them - Follow them from the high ground. Wait for them to separate or for a better opportunity to strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Ridge Overlooking Eastern Foothills (Combat Initiated)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:55 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 5** &nbsp;|&nbsp; ⚠️ **Stealth Failed | Exhaustion: 0 | Inspiration: Yes**
@@ -993,8 +1056,11 @@ You wanted them separated? You got your wish. The three climbers are isolated on
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rain Death (Javelins) - Hold your ground at the edge and hurl javelins at the exposed climbers. You have cover from the ridge lip against the bolts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Ridge Overlooking Eastern Foothills (Combat Round 2)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:56 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Cover (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1010,8 +1076,11 @@ The smoke from the burning lodge below—Anya's pyre—drifts up in choking clou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Trigger Rockslide - Sheathe your weapon and use both hands to shove a precarious boulder down the path. High damage potential but leaves you exposed.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Ridge Overlooking Eastern Foothills (Combat Round 3)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:57 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 350/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1027,8 +1096,11 @@ You are unharmed, but the gambit has failed. You have wasted precious seconds wr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shove Attack - Use your action to violently shove the leader back off the cliff face before he finds his footing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Ridge Overlooking Eastern Foothills (Combat Round 3)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:58 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 375/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1046,8 +1118,11 @@ Above, the second climber grunts, hauling himself up the final few feet. He is l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Boot to the Face - Repeat the tactic: wait for him to crest and use an Unarmed Strike/Shove to kick him back down before he stabilizes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Ridge Overlooking Eastern Foothills (Combat Round 4)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (17:59 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 18/20 | XP: 400/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1071,8 +1146,11 @@ The third climber, seeing two of his comrades broken at the bottom, hesitates te
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intimidate (Surrender) - Roar at the remaining climber to drop his weapon and fall back, using the broken bodies of his friends as leverage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Ridge Overlooking Eastern Foothills (Combat Resolving)** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (18:00 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 18/20 | XP: 425/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1092,8 +1170,11 @@ The ridge is yours. The patrol is broken and retreating into the twilight, leavi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hurl Final Javelin - Throw a javelin at the retreating leader to try and finish him off before he escapes into the trees.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Ridge Overlooking Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (18:01 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 18/20 | XP: 425/900 | Gold: 20gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 3/5** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1111,8 +1192,11 @@ The wind howls through the canyon. To the south, the fire of the hunting lodge s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend &amp; Loot - Climb down to the bottom of the cliff to loot the dead climber (Climber 2) before leaving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Base of the Ridge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (18:15 Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 18/20 | XP: 425/900 | Gold: 30gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1128,8 +1212,11 @@ The valley floor is darkening rapidly. The shadows of the Dragon's Teeth stretch
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Handaxe - Examine the Tusk-Sworn weapon to see if it has any special properties or markings.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Base of the Ridge, Eastern Foothills** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (18:20 Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 18/20 | XP: 425/900 | Gold: 30gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1145,8 +1232,11 @@ The last sliver of the sun vanishes behind the Dragon's Teeth. The valley plunge
 > [!NOTE] ⚙️ **Player Choice:**
 > *Short Rest (Hidden) - Find a nearby crevice to rest for an hour, spending Hit Dice to heal your wounds before facing the dangers of the mine.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Hidden Crevice, Base of Dragon's Teeth** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (19:20 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 425/900 | Gold: 30gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Shield Unready (-2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -1162,8 +1252,11 @@ When you emerge, the moon has risen—a pale, watchful eye over the Dragon's Tee
 > [!NOTE] ⚙️ **Player Choice:**
 > *Don Shield &amp; March - Strap on your shield (AC 19) and march openly. You are a juggernaut; let them break themselves against your steel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Entrance to the Serpent's Coil, Dragon's Teeth** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (20:15 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 425/900 | Gold: 30gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Smite: Available, Javelins: 4/5** &nbsp;|&nbsp; ⚠️ **Shield Equipped (AC 19) | Exhaustion: 0 | Inspiration: Yes**
@@ -1181,8 +1274,11 @@ The map in your memory burns bright. *Trapped corridors.* It seems the Iron-Hand
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divine Sense - Use your Divine Sense to scan the darkness beyond the door for celestial, fiend, or undead presences.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Entrance to the Serpent's Coil, Dragon's Teeth** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (20:16 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 425/900 | Gold: 30gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 1/2** &nbsp;|&nbsp; ⚠️ **Shield Equipped (AC 19) | Exhaustion: 0 | Inspiration: Yes**
@@ -1198,8 +1294,11 @@ You open your eyes. The absence of supernatural threats is telling. The Tusk-Swo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot the Dead - Quickly check the fallen Tusk-Sworn for bolts, gold, or better weapons before entering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Entrance to the Serpent's Coil, Dragon's Teeth** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (20:25 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 425/900 | Gold: 33gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 1/2, Javelins: 4/5, Bolts: 2** &nbsp;|&nbsp; ⚠️ **Shield Equipped (AC 19) | Exhaustion: 0 | Inspiration: Yes**
@@ -1215,8 +1314,11 @@ The map in your mind burns with clarity. The 'Serpent's Coil' lies ahead. The tr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test the Pattern - Throw the broken dagger or a rock onto the &#x27;wrong&#x27; tile to verify the trap mechanism is still active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Entrance to the Serpent's Coil, Dragon's Teeth** &nbsp;|&nbsp; ⏳ **Kythorn Day 2, Year 11 of the New Peace (20:30 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Oathbreaker Paladin | HP: 20/20 | XP: 425/900 | Gold: 33gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 1/2, Javelins: 4/5, Bolts: 2** &nbsp;|&nbsp; ⚠️ **Shield Equipped (AC 19) | Exhaustion: 0 | Inspiration: Yes**
@@ -1232,6 +1334,8 @@ It clatters onto the stone. For a heartbeat, there is only silence.
 The sound is terrifyingly soft, like a dry twig snapping. An instant later, the air screams. A heavy iron bolt, thick as a spear shaft, erupts from a hidden slot in the wall at knee height. It strikes the dagger with such kinetic force that the blade doesn't just break; it disintegrates into shrapnel, sparking violently against the stone floor. The bolt buries itself halfway into the opposite wall with a dull, trembling thud.
 
 Dust drifts in the sudden silence. The trap is active, lethal, and insanely fast. If you had stepped there, your leg would have been severed at the shin. The path revealed by the locket is not a suggestion; it is the only lifeline across this mechanical hell.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

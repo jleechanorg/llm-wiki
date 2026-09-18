@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (204 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 Class: Level 1 Rogue/Ranger Prodigy (Gloomstalker/Assassin hybrid traits enabled narratively).
@@ -41,220 +52,225 @@ Walking up the incline toward your group is Shane Florence, a prison officer who
 
 "The target is Richard Harris," Bex says, naming the first escapee. "He's in the wind. Sariel, the Bureau put you on this team because you see the board differently. Look at the blast radius and the perimeter gaps. Where does he go first?
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Cheyenne |  | Roleplay |
-| **02** | Cheyenne | January 19, 2025 (04:00) | Roleplay |
-| **03** | Cheyenne | January 19, 2025 (04:00) | Roleplay |
-| **04** | Cheyenne | January 19, 2025 (04:00) | Roleplay |
-| **05** | Cheyenne | January 19, 2025 (04:00) | Roleplay |
-| **06** | Cheyenne | January 19, 2025 (04:00) | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Cheyenne | January 19, 2025 (04:00) | Roleplay |
-| **09** | Cheyenne | January 19, 2025 (04:00) | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | Cheyenne | January 19, 2025 (04:05) | Roleplay |
-| **12** | Cheyenne | January 19, 2025 AD (04:05) | Roleplay |
-| **13** | Cheyenne | January 19, 2025 DR (04:10) | Roleplay |
-| **14** | En Route to 4th and O'Neil - Cheyenne | January 19, 2025 (04:20) | Roleplay |
-| **15** | Industrial Sector - SUV en route to 4th and O'Neil | January 19, 2025 (04:20) | Roleplay |
-| **16** | Industrial Sector - 4th and O'Neil | January 19, 2025 (04:25) | Roleplay |
-| **17** | Industrial Sector - 4th and O'Neil | January 19, 2025 DR (04:30) | Roleplay |
-| **18** | Industrial Sector | January 19, 2025 (04:30) | Roleplay |
-| **19** | Industrial Sector | January 19, 2025 DR (04:30) | Roleplay |
-| **20** | Industrial Sector - Cold Storage Facility | January 19, 2025 (04:30) | Roleplay |
-| **21** | Industrial Sector | January 19, 2025 (04:35) | Roleplay |
-| **22** | Industrial Sector | January 19, 2025 (04:30) | Roleplay |
-| **23** | Industrial Sector | 2025 Jan 19, 04:30:45 | Roleplay |
-| **24** | Industrial Sector | January 19, 2025 (04:35) | Roleplay |
-| **25** | Cheyenne Field Office - Mobile Command Unit | January 19, 2025 (05:30) | Roleplay |
-| **26** | Cheyenne Mobile Command Unit | January 19, 2025 (05:30) | Roleplay |
-| **27** | Cheyenne Field Office - Underground Tactical Range | January 19, 2025 DR (06:15) | Roleplay |
-| **28** | Cheyenne Field Office - Tactical Range | January 19, 2025 DR (06:20) | Roleplay |
-| **29** | Cheyenne Field Office - Underground Tactical Range | January 19, 2025 DR (06:25) | Social Challenge |
-| **30** | Unknown |  | Roleplay |
-| **31** | Cheyenne Field Office - Command Hub | January 19, 2025 DR (14:25) | Roleplay |
-| **32** | Cheyenne Field Office - Tactical Hub | January 19, 2025 (18:30) | Roleplay |
-| **33** | Cheyenne Field Office Command Hub | January 19, 2025 (18:30) | Roleplay |
-| **34** | Cheyenne Field Office Command Hub | 2025 January 19, 18:30:00 | Roleplay |
-| **35** | Cheyenne Field Office - Command Hub | January 19, 2025 DR (18:45) | Roleplay |
-| **36** | Armored SUV - En route to Horse Creek Dam | January 19, 2025 DR (19:15) | Roleplay |
-| **37** | Horse Creek Dam - Tactical Overwatch Van | January 19, 2025 (19:35) | Roleplay |
-| **38** | Horse Creek Dam - Command Van | January 19, 2025 DR (19:40) | Roleplay |
-| **39** | Horse Creek Dam | 2025 January 19, 19:40:00 | Roleplay |
-| **40** | Horse Creek Dam - Intake Tunnel | January 19, 2025 (19:40) | Roleplay |
-| **41** | Horse Creek Dam - Turbine Hall (Upper Level) | January 19, 2025 DR (19:40) | Roleplay |
-| **42** | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:40) | Roleplay |
-| **43** | Horse Creek Dam Turbine Hall | January 19, 2025 (19:40) | Roleplay |
-| **44** | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:40) | Roleplay |
-| **45** | Horse Creek Dam | January 19, 2025 (19:40) | Roleplay |
-| **46** | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
-| **47** | Horse Creek Dam Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
-| **48** | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
-| **49** | Unknown |  | Roleplay |
-| **50** | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
-| **51** | Horse Creek Dam | 2025 January 19, 19:40:54 | Roleplay |
-| **52** | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Social Challenge |
-| **53** | Horse Creek Dam Turbine Hall | January 19, 2025 (19:40) | Social Challenge |
-| **54** | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:41) | Social Challenge |
-| **55** | Horse Creek Dam Turbine Hall | January 19, 2025 (19:41) | Roleplay |
-| **56** | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:42) | Social Challenge |
-| **57** | Horse Creek Dam - Turbine Hall | January 19, 2025 (20:15) | Social Challenge |
-| **58** | Unknown |  | Roleplay |
-| **59** | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:45) | Roleplay |
-| **60** | Horse Creek Dam - Mobile Command Van | January 19, 2025 DR (19:55) | Roleplay |
-| **61** | Horse Creek Dam - Command Van | January 19, 2025 (19:55) | Roleplay |
-| **62** | Horse Creek Dam - Command Van | January 19, 2025 DR (20:20) | Social Challenge |
-| **63** | Unknown |  | Roleplay |
-| **64** | The Rusty Spur - Cheyenne | January 19, 2025 (21:30) | Roleplay |
-| **65** | The Rusty Spur | January 19, 2025 DR (21:45) | Roleplay |
-| **66** | The Rusty Spur | January 19, 2025 DR (21:55) | Roleplay |
-| **67** | The Rusty Spur | January 19, 2025 DR (22:10) | Roleplay |
-| **68** | The Rusty Spur | January 19, 2025 (22:15) | Roleplay |
-| **69** | The Rusty Spur | January 19, 2025 DR (22:20) | Roleplay |
-| **70** | The Rusty Spur | January 19, 2025 (22:20) | Roleplay |
-| **71** | The Rusty Spur | January 19, 2025 (22:25) | Roleplay |
-| **72** | The Rusty Spur | January 19, 2025 (22:35) | Roleplay |
-| **73** | The Rusty Spur (Alleyway) | January 19, 2025 (22:40) | Roleplay |
-| **74** | The Rusty Spur (Alley/Street) | January 19, 2025 (22:42) | Roleplay |
-| **75** | The Rusty Spur | January 19, 2025 DR (22:45) | Social Challenge |
-| **76** | The Rusty Spur | 1 19, 2025 DR (22:50) | Roleplay |
-| **77** | The Rusty Spur | January 19, 2025 (23:15) | Roleplay |
-| **78** | FBI Cheyenne Field Office - Secure Lockers | January 20, 2025 (00:05) | Roleplay |
-| **79** | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 (09:00) | Roleplay |
-| **80** | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 DR (09:00) | Roleplay |
-| **81** | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 DR (09:15) | Boss Surrender |
-| **82** | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 DR (09:20) | Roleplay |
-| **83** | FBI Cheyenne Field Office - Interrogation Suite | Month 1 Day 20, 2025 (09:25) | Roleplay |
-| **84** | FBI Cheyenne Field Office - Corridor | January 20, 2025 DR (09:30) | Roleplay |
-| **85** | Cheyenne Field Office - Parking Garage | January 20, 2025 (09:45) | Roleplay |
-| **86** | Cheyenne Field Office - Strategic Operations Center | February 10, 2025 (08:30) | Roleplay |
-| **87** | Cheyenne Field Office - Strategic Ops | 2 10, 2025 DR (08:30) | Roleplay |
-| **88** | Cheyenne Field Office - Strategic Ops | February 10, 2025 DR (08:35) | Roleplay |
-| **89** | Strategic Operations Center | 2 10, 2025 DR (09:15) | Roleplay |
-| **90** | Cheyenne Field Office - Strategic Ops | 2025 February 10, 09:15:00 | Roleplay |
-| **91** | Strategic Operations Center | February 10, 2025 (09:15) | Roleplay |
-| **92** | Strategic Operations Center | February 10, 2025 (09:16) | Roleplay |
-| **93** | Mercury Building | February 10, 2025 DR (11:30) | Roleplay |
-| **94** | Mercury Building Exterior | February 10, 2025 DR (11:31) | Roleplay |
-| **95** | Mercury Building Exterior | 2025 February 10, 11:31:00 | Roleplay |
-| **96** | Mercury Building Exterior | 2025-02-10 11:31:00:000003 | Roleplay |
-| **97** | Mercury Building Basement | 2 10, 2025 DR (11:31) | Roleplay |
-| **98** | Mercury Building Subway Level | February 10, 2025 (11:31) | Roleplay |
-| **99** | Mercury Building Subway Level | February 10, 2025 DR (11:31) | Roleplay |
-| **100** | Mercury Building Subway Level | February 10, 2025 (11:31) | Roleplay |
-| **101** | Mercury Building Subway Level | February 10, 2025 DR (11:32) | Roleplay |
-| **102** | Mercury Building Subway Level | February 10, 2025 DR (11:32) | Roleplay |
-| **103** | Secondary Rally Point (Secure Basement) | February 10, 2025 DR (11:47) | Boss Surrender |
-| **104** | Secure Basement Rally Point | February 10, 2025 DR (11:55) | Roleplay |
-| **105** | Secondary Rally Point (Secure Basement) | February 10, 2025 DR (12:05) | Roleplay |
-| **106** | The Glass House (Penthouse) | February 10, 2025 DR (12:30) | Roleplay |
-| **107** | Secondary Rally Point (Secure Basement) | February 10, 2025 DR (12:05) | Roleplay |
-| **108** | Denver Performing Arts Complex | February 10, 2025 (12:30) | Roleplay |
-| **109** | Denver Performing Arts Complex | February 10, 2025 DR (12:45) | Roleplay |
-| **110** | Secure Basement - Denver | February 10, 2025 (12:35) | Boss Surrender |
-| **111** | Secure Basement - Denver | February 10, 2025 (12:45) | Roleplay |
-| **112** | Secure Basement | February 10, 2025 DR (12:50) | Roleplay |
-| **113** | Secure Basement | 2 10, 2025 DR (12:50) | Roleplay |
-| **114** | Denver - Secure Basement | February 10, 2025 CE (13:00) | Roleplay |
-| **115** | Denver Performing Arts Complex | February 10, 2025 (13:00) | Roleplay |
-| **116** | Denver Performing Arts Complex (Perimeter) | February 10, 2025 (12:05) | Roleplay |
-| **117** | Secure Basement | 2 10, 2025 DR (12:10) | Roleplay |
-| **118** | Denver Secure Basement | February 10, 2025 DR (12:15) | Social Challenge |
-| **119** | Boettcher Concert Hall | February 10, 2025 DR (12:45) | Roleplay |
-| **120** | Boettcher Concert Hall | February 10, 2025 (12:47) | Roleplay |
-| **121** | Boettcher Concert Hall | February 10, 2025 (12:48) | Roleplay |
-| **122** | Boettcher Concert Hall | February 10, 2025 (12:47) | Roleplay |
-| **123** | Denver Performing Arts Complex - Boettcher Hall | February 10, 2025 DR (12:48) | Roleplay |
-| **124** | Boettcher Concert Hall | February 10, 2025 (12:49) | Roleplay |
-| **125** | Boettcher Concert Hall | February 10, 2025 (12:54) | Social Challenge |
-| **126** | Boettcher Concert Hall | February 10, 2025 DR (13:00) | Social Challenge |
-| **127** | Denver Performing Arts Complex - Boettcher Hall | February 10, 2025 DR (13:00) | Roleplay |
-| **128** | Boettcher Concert Hall | February 10, 2025 (13:00) | Roleplay |
-| **129** | Boettcher Concert Hall | February 10, 2025 (13:00) | Roleplay |
-| **130** | Denver Performing Arts Complex | February 10, 2025 DR (13:00) | Roleplay |
-| **131** | Boettcher Concert Hall | February 10, 2025 (13:00) | Roleplay |
-| **132** | Boettcher Concert Hall | February 10, 2025 (13:01) | Social Challenge |
-| **133** | Boettcher Concert Hall | February 10, 2025 DR (13:01) | Roleplay |
-| **134** | Denver Performing Arts Complex - Boettcher Hall | February 10, 2025 DR (13:02) | Roleplay |
-| **135** | Boettcher Concert Hall | February 10, 2025 DR (13:02) | Roleplay |
-| **136** | Denver Performing Arts Complex | February 10, 2025 DR (13:02) | Roleplay |
-| **137** | Denver Performing Arts Complex | February 10, 2025 DR (13:02) | Roleplay |
-| **138** | Denver Performing Arts Complex | February 10, 2025 DR (13:02) | Roleplay |
-| **139** | Boettcher Concert Hall | February 10, 2025 (13:02) | Roleplay |
-| **140** | Boettcher Concert Hall | February 10, 2025 DR (13:02) | Roleplay |
-| **141** | Boettcher Concert Hall | February 10, 2025 DR (13:32) | Roleplay |
-| **142** | Boettcher Concert Hall | February 10, 2025 (13:32) | Roleplay |
-| **143** | Denver Performing Arts Complex - Perimeter Secure | February 10, 2025 DR (14:00) | Roleplay |
-| **144** | Boettcher Concert Hall (Exterior) | February 10, 2025 DR (14:00) | Roleplay |
-| **145** | Boettcher Concert Hall Perimeter | February 10, 2025 (14:15) | Roleplay |
-| **146** | Denver Performing Arts Complex - Triage Tent | February 10, 2025 (14:20) | Boss Surrender |
-| **147** | Boettcher Hall Triage Area | February 10, 2025 DR (14:20) | Roleplay |
-| **148** | Boettcher Concert Hall Triage Perimeter | February 10, 2025 DR (14:25) | Roleplay |
-| **149** | Boettcher Concert Hall Perimeter | February 10, 2025 (14:30) | Social Challenge |
-| **150** | Boettcher Concert Hall triage perimeter | February 10, 2025 DR (14:30) | Social Challenge |
-| **151** | Boettcher Concert Hall Triage Perimeter | February 10, 2025 DR (14:35) | Social Challenge |
-| **152** | The Rusty Spur (Private Back Room) | February 10, 2025 DR (15:15) | Social Challenge |
-| **153** | The Rusty Spur (Private Room) | February 10, 2025 (15:15) | Social Challenge |
-| **154** | The Rusty Spur (Private Back Room) | February 10, 2025 DR (15:20) | Roleplay |
-| **155** | The Rusty Spur - Private Sanctuary | February 10, 2025 (15:25) | Roleplay |
-| **156** | The Rusty Spur | February 10, 2025 (15:30) | Roleplay |
-| **157** | The Rusty Spur (Private Room) | February 10, 2025 (15:35) | Social Challenge |
-| **158** | The Rusty Spur (Back Room) | February 10, 2025 (15:35) | Social Challenge |
-| **159** | The Rusty Spur - Private Back Room | February 10, 2025 (15:35) | Roleplay |
-| **160** | Sariel's Penthouse | February 10, 2025 (21:00) | Roleplay |
-| **161** | Sariel's Penthouse | February 10, 2025 DR (21:05) | Roleplay |
-| **162** | Sariel's Penthouse | February 10, 2025 (21:10) | Social Challenge |
-| **163** | Sariel's Penthouse | February 10, 2025 DR (21:15) | Social Challenge |
-| **164** | Sariel's Penthouse | 2 10, 2025 DR (21:20) | Social Challenge |
-| **165** | Sariel's Penthouse | February 10, 2025 (21:25) | Social Challenge |
-| **166** | Sariel's Penthouse | 2025 February 10, 21:25:00 | Social Challenge |
-| **167** | Sariel's Penthouse | February 10, 2025 DR (21:26) | Boss Surrender |
-| **168** | Sariel's Penthouse | February 10, 2025 DR (21:31) | Boss Surrender |
-| **169** | Sariel's Penthouse | February 10, 2025 (21:31) | Roleplay |
-| **170** | Sterling-Tier Penthouse | February 10, 2025 DR (21:30) | Roleplay |
-| **171** | Sariel's Penthouse | February 10, 2025 DR (21:31) | Roleplay |
-| **172** | Sariel's Penthouse | February 10, 2025 (21:32) | Roleplay |
-| **173** | Sariel's Penthouse | February 10, 2025 (21:35) | Social Challenge |
-| **174** | Sariel's Penthouse | February 10, 2025 (21:35) | Social Challenge |
-| **175** | Sariel's Penthouse | February 10, 2025 (21:36) | Social Challenge |
-| **176** | Sariel's Penthouse | February 10, 2025 DR (21:40) | Social Challenge |
-| **177** | Sariel's Penthouse | February 10, 2025 DR (21:41) | Social Challenge |
-| **178** | Sariel's Penthouse | February 10, 2025 (21:42) | Social Challenge |
-| **179** | Sariel's Penthouse | February 10, 2025 (21:42) | Roleplay |
-| **180** | Sariel's Penthouse | February 10, 2025 (21:44) | Social Challenge |
-| **181** | Sariel's Penthouse | February 10, 2025 (21:44) | Social Challenge |
-| **182** | Sariel's Penthouse | February 10, 2025 (21:45) | Social Challenge |
-| **183** | Sterling-Tier Penthouse | February 10, 2025 DR (21:46) | Social Challenge |
-| **184** | Sariel's Penthouse | February 10, 2025 (21:51) | Social Challenge |
-| **185** | Sariel's Penthouse | February 10, 2025 DR (21:46) | Social Challenge |
-| **186** | Sterling-Tier Penthouse | February 10, 2025 DR (21:50) | Roleplay |
-| **187** | Sterling-Tier Penthouse | February 10, 2025 (22:00) | Roleplay |
-| **188** | Armored Limousine | Month 2 Day 10, 2025 DR (22:15) | Roleplay |
-| **189** | Sterling Global Limousine (En Route) | February 10, 2025 DR (22:15) | Roleplay |
-| **190** | Sterling-Tier Penthouse | February 10, 2025 DR (22:15) | Social Challenge |
-| **191** | Sterling-Tier Penthouse | February 11, 2025 (06:15) | Social Challenge |
-| **192** | Sariel's Penthouse | February 11, 2025 DR (06:15) | Roleplay |
-| **193** | Private Airstrip | March 04, 2025 DR (04:00) | Roleplay |
-| **194** | Sterling Global Airstrip | March 4, 2025 DR (04:00) | Roleplay |
-| **195** | Sterling Global Private Airstrip | March 4, 2025 DR (04:00) | Social Challenge |
-| **196** | Baltimore Old Hospital - Rooftop/Archives | March 4, 2025 DR (04:15) | Social Challenge |
-| **197** | Baltimore Old Hospital - Archives/Lab | 3 4, 2025 DR (04:20) | Social Challenge |
-| **198** | Baltimore Old Hospital - Fourth Floor Elevator Bank | March 4, 2025 DR (04:25) | Roleplay |
-| **199** | Baltimore Old Hospital - Rooftop/Archives | March 4, 2025 DR (04:25) | Roleplay |
-| **200** | Baltimore Old Hospital - 4th Floor Elevator Bank | March 4, 2025 DR (04:30) | Roleplay |
-| **201** | Baltimore Old Hospital - Elevator Shaft (Sub-level Descent) | 3 4, 2025 DR (04:35) | Roleplay |
-| **202** | Baltimore Old Hospital - Sub-Level Cradle | 3 4, 2025 DR (04:40) | Roleplay |
-| **203** | Baltimore Old Hospital - Sub-Level Cradle | March 4, 2025 DR (04:40) | Roleplay |
-| **204** | Baltimore Old Hospital - The Cradle | 3 4, 2025 DR (04:45) | Social Challenge |
+| [**Scene 01**](#scene-1) | Cheyenne |  | Roleplay |
+| [**Scene 02**](#scene-2) | Cheyenne | January 19, 2025 (04:00) | Roleplay |
+| [**Scene 03**](#scene-3) | Cheyenne | January 19, 2025 (04:00) | Roleplay |
+| [**Scene 04**](#scene-4) | Cheyenne | January 19, 2025 (04:00) | Roleplay |
+| [**Scene 05**](#scene-5) | Cheyenne | January 19, 2025 (04:00) | Roleplay |
+| [**Scene 06**](#scene-6) | Cheyenne | January 19, 2025 (04:00) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Cheyenne | January 19, 2025 (04:00) | Roleplay |
+| [**Scene 09**](#scene-9) | Cheyenne | January 19, 2025 (04:00) | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | Cheyenne | January 19, 2025 (04:05) | Roleplay |
+| [**Scene 12**](#scene-12) | Cheyenne | January 19, 2025 AD (04:05) | Roleplay |
+| [**Scene 13**](#scene-13) | Cheyenne | January 19, 2025 DR (04:10) | Roleplay |
+| [**Scene 14**](#scene-14) | En Route to 4th and O'Neil - Cheyenne | January 19, 2025 (04:20) | Roleplay |
+| [**Scene 15**](#scene-15) | Industrial Sector - SUV en route to 4th and O'Neil | January 19, 2025 (04:20) | Roleplay |
+| [**Scene 16**](#scene-16) | Industrial Sector - 4th and O'Neil | January 19, 2025 (04:25) | Roleplay |
+| [**Scene 17**](#scene-17) | Industrial Sector - 4th and O'Neil | January 19, 2025 DR (04:30) | Roleplay |
+| [**Scene 18**](#scene-18) | Industrial Sector | January 19, 2025 (04:30) | Roleplay |
+| [**Scene 19**](#scene-19) | Industrial Sector | January 19, 2025 DR (04:30) | Roleplay |
+| [**Scene 20**](#scene-20) | Industrial Sector - Cold Storage Facility | January 19, 2025 (04:30) | Roleplay |
+| [**Scene 21**](#scene-21) | Industrial Sector | January 19, 2025 (04:35) | Roleplay |
+| [**Scene 22**](#scene-22) | Industrial Sector | January 19, 2025 (04:30) | Roleplay |
+| [**Scene 23**](#scene-23) | Industrial Sector | 2025 Jan 19, 04:30:45 | Roleplay |
+| [**Scene 24**](#scene-24) | Industrial Sector | January 19, 2025 (04:35) | Roleplay |
+| [**Scene 25**](#scene-25) | Cheyenne Field Office - Mobile Command Unit | January 19, 2025 (05:30) | Roleplay |
+| [**Scene 26**](#scene-26) | Cheyenne Mobile Command Unit | January 19, 2025 (05:30) | Roleplay |
+| [**Scene 27**](#scene-27) | Cheyenne Field Office - Underground Tactical Range | January 19, 2025 DR (06:15) | Roleplay |
+| [**Scene 28**](#scene-28) | Cheyenne Field Office - Tactical Range | January 19, 2025 DR (06:20) | Roleplay |
+| [**Scene 29**](#scene-29) | Cheyenne Field Office - Underground Tactical Range | January 19, 2025 DR (06:25) | Social Challenge |
+| [**Scene 30**](#scene-30) | Unknown |  | Roleplay |
+| [**Scene 31**](#scene-31) | Cheyenne Field Office - Command Hub | January 19, 2025 DR (14:25) | Roleplay |
+| [**Scene 32**](#scene-32) | Cheyenne Field Office - Tactical Hub | January 19, 2025 (18:30) | Roleplay |
+| [**Scene 33**](#scene-33) | Cheyenne Field Office Command Hub | January 19, 2025 (18:30) | Roleplay |
+| [**Scene 34**](#scene-34) | Cheyenne Field Office Command Hub | 2025 January 19, 18:30:00 | Roleplay |
+| [**Scene 35**](#scene-35) | Cheyenne Field Office - Command Hub | January 19, 2025 DR (18:45) | Roleplay |
+| [**Scene 36**](#scene-36) | Armored SUV - En route to Horse Creek Dam | January 19, 2025 DR (19:15) | Roleplay |
+| [**Scene 37**](#scene-37) | Horse Creek Dam - Tactical Overwatch Van | January 19, 2025 (19:35) | Roleplay |
+| [**Scene 38**](#scene-38) | Horse Creek Dam - Command Van | January 19, 2025 DR (19:40) | Roleplay |
+| [**Scene 39**](#scene-39) | Horse Creek Dam | 2025 January 19, 19:40:00 | Roleplay |
+| [**Scene 40**](#scene-40) | Horse Creek Dam - Intake Tunnel | January 19, 2025 (19:40) | Roleplay |
+| [**Scene 41**](#scene-41) | Horse Creek Dam - Turbine Hall (Upper Level) | January 19, 2025 DR (19:40) | Roleplay |
+| [**Scene 42**](#scene-42) | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:40) | Roleplay |
+| [**Scene 43**](#scene-43) | Horse Creek Dam Turbine Hall | January 19, 2025 (19:40) | Roleplay |
+| [**Scene 44**](#scene-44) | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:40) | Roleplay |
+| [**Scene 45**](#scene-45) | Horse Creek Dam | January 19, 2025 (19:40) | Roleplay |
+| [**Scene 46**](#scene-46) | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
+| [**Scene 47**](#scene-47) | Horse Creek Dam Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
+| [**Scene 48**](#scene-48) | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
+| [**Scene 49**](#scene-49) | Unknown |  | Roleplay |
+| [**Scene 50**](#scene-50) | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Roleplay |
+| [**Scene 51**](#scene-51) | Horse Creek Dam | 2025 January 19, 19:40:54 | Roleplay |
+| [**Scene 52**](#scene-52) | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:40) | Social Challenge |
+| [**Scene 53**](#scene-53) | Horse Creek Dam Turbine Hall | January 19, 2025 (19:40) | Social Challenge |
+| [**Scene 54**](#scene-54) | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:41) | Social Challenge |
+| [**Scene 55**](#scene-55) | Horse Creek Dam Turbine Hall | January 19, 2025 (19:41) | Roleplay |
+| [**Scene 56**](#scene-56) | Horse Creek Dam - Turbine Hall | January 19, 2025 DR (19:42) | Social Challenge |
+| [**Scene 57**](#scene-57) | Horse Creek Dam - Turbine Hall | January 19, 2025 (20:15) | Social Challenge |
+| [**Scene 58**](#scene-58) | Unknown |  | Roleplay |
+| [**Scene 59**](#scene-59) | Horse Creek Dam - Turbine Hall | January 19, 2025 (19:45) | Roleplay |
+| [**Scene 60**](#scene-60) | Horse Creek Dam - Mobile Command Van | January 19, 2025 DR (19:55) | Roleplay |
+| [**Scene 61**](#scene-61) | Horse Creek Dam - Command Van | January 19, 2025 (19:55) | Roleplay |
+| [**Scene 62**](#scene-62) | Horse Creek Dam - Command Van | January 19, 2025 DR (20:20) | Social Challenge |
+| [**Scene 63**](#scene-63) | Unknown |  | Roleplay |
+| [**Scene 64**](#scene-64) | The Rusty Spur - Cheyenne | January 19, 2025 (21:30) | Roleplay |
+| [**Scene 65**](#scene-65) | The Rusty Spur | January 19, 2025 DR (21:45) | Roleplay |
+| [**Scene 66**](#scene-66) | The Rusty Spur | January 19, 2025 DR (21:55) | Roleplay |
+| [**Scene 67**](#scene-67) | The Rusty Spur | January 19, 2025 DR (22:10) | Roleplay |
+| [**Scene 68**](#scene-68) | The Rusty Spur | January 19, 2025 (22:15) | Roleplay |
+| [**Scene 69**](#scene-69) | The Rusty Spur | January 19, 2025 DR (22:20) | Roleplay |
+| [**Scene 70**](#scene-70) | The Rusty Spur | January 19, 2025 (22:20) | Roleplay |
+| [**Scene 71**](#scene-71) | The Rusty Spur | January 19, 2025 (22:25) | Roleplay |
+| [**Scene 72**](#scene-72) | The Rusty Spur | January 19, 2025 (22:35) | Roleplay |
+| [**Scene 73**](#scene-73) | The Rusty Spur (Alleyway) | January 19, 2025 (22:40) | Roleplay |
+| [**Scene 74**](#scene-74) | The Rusty Spur (Alley/Street) | January 19, 2025 (22:42) | Roleplay |
+| [**Scene 75**](#scene-75) | The Rusty Spur | January 19, 2025 DR (22:45) | Social Challenge |
+| [**Scene 76**](#scene-76) | The Rusty Spur | 1 19, 2025 DR (22:50) | Roleplay |
+| [**Scene 77**](#scene-77) | The Rusty Spur | January 19, 2025 (23:15) | Roleplay |
+| [**Scene 78**](#scene-78) | FBI Cheyenne Field Office - Secure Lockers | January 20, 2025 (00:05) | Roleplay |
+| [**Scene 79**](#scene-79) | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 (09:00) | Roleplay |
+| [**Scene 80**](#scene-80) | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 DR (09:00) | Roleplay |
+| [**Scene 81**](#scene-81) | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 DR (09:15) | Boss Surrender |
+| [**Scene 82**](#scene-82) | FBI Cheyenne Field Office - Interrogation Suite | January 20, 2025 DR (09:20) | Roleplay |
+| [**Scene 83**](#scene-83) | FBI Cheyenne Field Office - Interrogation Suite | Month 1 Day 20, 2025 (09:25) | Roleplay |
+| [**Scene 84**](#scene-84) | FBI Cheyenne Field Office - Corridor | January 20, 2025 DR (09:30) | Roleplay |
+| [**Scene 85**](#scene-85) | Cheyenne Field Office - Parking Garage | January 20, 2025 (09:45) | Roleplay |
+| [**Scene 86**](#scene-86) | Cheyenne Field Office - Strategic Operations Center | February 10, 2025 (08:30) | Roleplay |
+| [**Scene 87**](#scene-87) | Cheyenne Field Office - Strategic Ops | 2 10, 2025 DR (08:30) | Roleplay |
+| [**Scene 88**](#scene-88) | Cheyenne Field Office - Strategic Ops | February 10, 2025 DR (08:35) | Roleplay |
+| [**Scene 89**](#scene-89) | Strategic Operations Center | 2 10, 2025 DR (09:15) | Roleplay |
+| [**Scene 90**](#scene-90) | Cheyenne Field Office - Strategic Ops | 2025 February 10, 09:15:00 | Roleplay |
+| [**Scene 91**](#scene-91) | Strategic Operations Center | February 10, 2025 (09:15) | Roleplay |
+| [**Scene 92**](#scene-92) | Strategic Operations Center | February 10, 2025 (09:16) | Roleplay |
+| [**Scene 93**](#scene-93) | Mercury Building | February 10, 2025 DR (11:30) | Roleplay |
+| [**Scene 94**](#scene-94) | Mercury Building Exterior | February 10, 2025 DR (11:31) | Roleplay |
+| [**Scene 95**](#scene-95) | Mercury Building Exterior | 2025 February 10, 11:31:00 | Roleplay |
+| [**Scene 96**](#scene-96) | Mercury Building Exterior | 2025-02-10 11:31:00:000003 | Roleplay |
+| [**Scene 97**](#scene-97) | Mercury Building Basement | 2 10, 2025 DR (11:31) | Roleplay |
+| [**Scene 98**](#scene-98) | Mercury Building Subway Level | February 10, 2025 (11:31) | Roleplay |
+| [**Scene 99**](#scene-99) | Mercury Building Subway Level | February 10, 2025 DR (11:31) | Roleplay |
+| [**Scene 100**](#scene-100) | Mercury Building Subway Level | February 10, 2025 (11:31) | Roleplay |
+| [**Scene 101**](#scene-101) | Mercury Building Subway Level | February 10, 2025 DR (11:32) | Roleplay |
+| [**Scene 102**](#scene-102) | Mercury Building Subway Level | February 10, 2025 DR (11:32) | Roleplay |
+| [**Scene 103**](#scene-103) | Secondary Rally Point (Secure Basement) | February 10, 2025 DR (11:47) | Boss Surrender |
+| [**Scene 104**](#scene-104) | Secure Basement Rally Point | February 10, 2025 DR (11:55) | Roleplay |
+| [**Scene 105**](#scene-105) | Secondary Rally Point (Secure Basement) | February 10, 2025 DR (12:05) | Roleplay |
+| [**Scene 106**](#scene-106) | The Glass House (Penthouse) | February 10, 2025 DR (12:30) | Roleplay |
+| [**Scene 107**](#scene-107) | Secondary Rally Point (Secure Basement) | February 10, 2025 DR (12:05) | Roleplay |
+| [**Scene 108**](#scene-108) | Denver Performing Arts Complex | February 10, 2025 (12:30) | Roleplay |
+| [**Scene 109**](#scene-109) | Denver Performing Arts Complex | February 10, 2025 DR (12:45) | Roleplay |
+| [**Scene 110**](#scene-110) | Secure Basement - Denver | February 10, 2025 (12:35) | Boss Surrender |
+| [**Scene 111**](#scene-111) | Secure Basement - Denver | February 10, 2025 (12:45) | Roleplay |
+| [**Scene 112**](#scene-112) | Secure Basement | February 10, 2025 DR (12:50) | Roleplay |
+| [**Scene 113**](#scene-113) | Secure Basement | 2 10, 2025 DR (12:50) | Roleplay |
+| [**Scene 114**](#scene-114) | Denver - Secure Basement | February 10, 2025 CE (13:00) | Roleplay |
+| [**Scene 115**](#scene-115) | Denver Performing Arts Complex | February 10, 2025 (13:00) | Roleplay |
+| [**Scene 116**](#scene-116) | Denver Performing Arts Complex (Perimeter) | February 10, 2025 (12:05) | Roleplay |
+| [**Scene 117**](#scene-117) | Secure Basement | 2 10, 2025 DR (12:10) | Roleplay |
+| [**Scene 118**](#scene-118) | Denver Secure Basement | February 10, 2025 DR (12:15) | Social Challenge |
+| [**Scene 119**](#scene-119) | Boettcher Concert Hall | February 10, 2025 DR (12:45) | Roleplay |
+| [**Scene 120**](#scene-120) | Boettcher Concert Hall | February 10, 2025 (12:47) | Roleplay |
+| [**Scene 121**](#scene-121) | Boettcher Concert Hall | February 10, 2025 (12:48) | Roleplay |
+| [**Scene 122**](#scene-122) | Boettcher Concert Hall | February 10, 2025 (12:47) | Roleplay |
+| [**Scene 123**](#scene-123) | Denver Performing Arts Complex - Boettcher Hall | February 10, 2025 DR (12:48) | Roleplay |
+| [**Scene 124**](#scene-124) | Boettcher Concert Hall | February 10, 2025 (12:49) | Roleplay |
+| [**Scene 125**](#scene-125) | Boettcher Concert Hall | February 10, 2025 (12:54) | Social Challenge |
+| [**Scene 126**](#scene-126) | Boettcher Concert Hall | February 10, 2025 DR (13:00) | Social Challenge |
+| [**Scene 127**](#scene-127) | Denver Performing Arts Complex - Boettcher Hall | February 10, 2025 DR (13:00) | Roleplay |
+| [**Scene 128**](#scene-128) | Boettcher Concert Hall | February 10, 2025 (13:00) | Roleplay |
+| [**Scene 129**](#scene-129) | Boettcher Concert Hall | February 10, 2025 (13:00) | Roleplay |
+| [**Scene 130**](#scene-130) | Denver Performing Arts Complex | February 10, 2025 DR (13:00) | Roleplay |
+| [**Scene 131**](#scene-131) | Boettcher Concert Hall | February 10, 2025 (13:00) | Roleplay |
+| [**Scene 132**](#scene-132) | Boettcher Concert Hall | February 10, 2025 (13:01) | Social Challenge |
+| [**Scene 133**](#scene-133) | Boettcher Concert Hall | February 10, 2025 DR (13:01) | Roleplay |
+| [**Scene 134**](#scene-134) | Denver Performing Arts Complex - Boettcher Hall | February 10, 2025 DR (13:02) | Roleplay |
+| [**Scene 135**](#scene-135) | Boettcher Concert Hall | February 10, 2025 DR (13:02) | Roleplay |
+| [**Scene 136**](#scene-136) | Denver Performing Arts Complex | February 10, 2025 DR (13:02) | Roleplay |
+| [**Scene 137**](#scene-137) | Denver Performing Arts Complex | February 10, 2025 DR (13:02) | Roleplay |
+| [**Scene 138**](#scene-138) | Denver Performing Arts Complex | February 10, 2025 DR (13:02) | Roleplay |
+| [**Scene 139**](#scene-139) | Boettcher Concert Hall | February 10, 2025 (13:02) | Roleplay |
+| [**Scene 140**](#scene-140) | Boettcher Concert Hall | February 10, 2025 DR (13:02) | Roleplay |
+| [**Scene 141**](#scene-141) | Boettcher Concert Hall | February 10, 2025 DR (13:32) | Roleplay |
+| [**Scene 142**](#scene-142) | Boettcher Concert Hall | February 10, 2025 (13:32) | Roleplay |
+| [**Scene 143**](#scene-143) | Denver Performing Arts Complex - Perimeter Secure | February 10, 2025 DR (14:00) | Roleplay |
+| [**Scene 144**](#scene-144) | Boettcher Concert Hall (Exterior) | February 10, 2025 DR (14:00) | Roleplay |
+| [**Scene 145**](#scene-145) | Boettcher Concert Hall Perimeter | February 10, 2025 (14:15) | Roleplay |
+| [**Scene 146**](#scene-146) | Denver Performing Arts Complex - Triage Tent | February 10, 2025 (14:20) | Boss Surrender |
+| [**Scene 147**](#scene-147) | Boettcher Hall Triage Area | February 10, 2025 DR (14:20) | Roleplay |
+| [**Scene 148**](#scene-148) | Boettcher Concert Hall Triage Perimeter | February 10, 2025 DR (14:25) | Roleplay |
+| [**Scene 149**](#scene-149) | Boettcher Concert Hall Perimeter | February 10, 2025 (14:30) | Social Challenge |
+| [**Scene 150**](#scene-150) | Boettcher Concert Hall triage perimeter | February 10, 2025 DR (14:30) | Social Challenge |
+| [**Scene 151**](#scene-151) | Boettcher Concert Hall Triage Perimeter | February 10, 2025 DR (14:35) | Social Challenge |
+| [**Scene 152**](#scene-152) | The Rusty Spur (Private Back Room) | February 10, 2025 DR (15:15) | Social Challenge |
+| [**Scene 153**](#scene-153) | The Rusty Spur (Private Room) | February 10, 2025 (15:15) | Social Challenge |
+| [**Scene 154**](#scene-154) | The Rusty Spur (Private Back Room) | February 10, 2025 DR (15:20) | Roleplay |
+| [**Scene 155**](#scene-155) | The Rusty Spur - Private Sanctuary | February 10, 2025 (15:25) | Roleplay |
+| [**Scene 156**](#scene-156) | The Rusty Spur | February 10, 2025 (15:30) | Roleplay |
+| [**Scene 157**](#scene-157) | The Rusty Spur (Private Room) | February 10, 2025 (15:35) | Social Challenge |
+| [**Scene 158**](#scene-158) | The Rusty Spur (Back Room) | February 10, 2025 (15:35) | Social Challenge |
+| [**Scene 159**](#scene-159) | The Rusty Spur - Private Back Room | February 10, 2025 (15:35) | Roleplay |
+| [**Scene 160**](#scene-160) | Sariel's Penthouse | February 10, 2025 (21:00) | Roleplay |
+| [**Scene 161**](#scene-161) | Sariel's Penthouse | February 10, 2025 DR (21:05) | Roleplay |
+| [**Scene 162**](#scene-162) | Sariel's Penthouse | February 10, 2025 (21:10) | Social Challenge |
+| [**Scene 163**](#scene-163) | Sariel's Penthouse | February 10, 2025 DR (21:15) | Social Challenge |
+| [**Scene 164**](#scene-164) | Sariel's Penthouse | 2 10, 2025 DR (21:20) | Social Challenge |
+| [**Scene 165**](#scene-165) | Sariel's Penthouse | February 10, 2025 (21:25) | Social Challenge |
+| [**Scene 166**](#scene-166) | Sariel's Penthouse | 2025 February 10, 21:25:00 | Social Challenge |
+| [**Scene 167**](#scene-167) | Sariel's Penthouse | February 10, 2025 DR (21:26) | Boss Surrender |
+| [**Scene 168**](#scene-168) | Sariel's Penthouse | February 10, 2025 DR (21:31) | Boss Surrender |
+| [**Scene 169**](#scene-169) | Sariel's Penthouse | February 10, 2025 (21:31) | Roleplay |
+| [**Scene 170**](#scene-170) | Sterling-Tier Penthouse | February 10, 2025 DR (21:30) | Roleplay |
+| [**Scene 171**](#scene-171) | Sariel's Penthouse | February 10, 2025 DR (21:31) | Roleplay |
+| [**Scene 172**](#scene-172) | Sariel's Penthouse | February 10, 2025 (21:32) | Roleplay |
+| [**Scene 173**](#scene-173) | Sariel's Penthouse | February 10, 2025 (21:35) | Social Challenge |
+| [**Scene 174**](#scene-174) | Sariel's Penthouse | February 10, 2025 (21:35) | Social Challenge |
+| [**Scene 175**](#scene-175) | Sariel's Penthouse | February 10, 2025 (21:36) | Social Challenge |
+| [**Scene 176**](#scene-176) | Sariel's Penthouse | February 10, 2025 DR (21:40) | Social Challenge |
+| [**Scene 177**](#scene-177) | Sariel's Penthouse | February 10, 2025 DR (21:41) | Social Challenge |
+| [**Scene 178**](#scene-178) | Sariel's Penthouse | February 10, 2025 (21:42) | Social Challenge |
+| [**Scene 179**](#scene-179) | Sariel's Penthouse | February 10, 2025 (21:42) | Roleplay |
+| [**Scene 180**](#scene-180) | Sariel's Penthouse | February 10, 2025 (21:44) | Social Challenge |
+| [**Scene 181**](#scene-181) | Sariel's Penthouse | February 10, 2025 (21:44) | Social Challenge |
+| [**Scene 182**](#scene-182) | Sariel's Penthouse | February 10, 2025 (21:45) | Social Challenge |
+| [**Scene 183**](#scene-183) | Sterling-Tier Penthouse | February 10, 2025 DR (21:46) | Social Challenge |
+| [**Scene 184**](#scene-184) | Sariel's Penthouse | February 10, 2025 (21:51) | Social Challenge |
+| [**Scene 185**](#scene-185) | Sariel's Penthouse | February 10, 2025 DR (21:46) | Social Challenge |
+| [**Scene 186**](#scene-186) | Sterling-Tier Penthouse | February 10, 2025 DR (21:50) | Roleplay |
+| [**Scene 187**](#scene-187) | Sterling-Tier Penthouse | February 10, 2025 (22:00) | Roleplay |
+| [**Scene 188**](#scene-188) | Armored Limousine | Month 2 Day 10, 2025 DR (22:15) | Roleplay |
+| [**Scene 189**](#scene-189) | Sterling Global Limousine (En Route) | February 10, 2025 DR (22:15) | Roleplay |
+| [**Scene 190**](#scene-190) | Sterling-Tier Penthouse | February 10, 2025 DR (22:15) | Social Challenge |
+| [**Scene 191**](#scene-191) | Sterling-Tier Penthouse | February 11, 2025 (06:15) | Social Challenge |
+| [**Scene 192**](#scene-192) | Sariel's Penthouse | February 11, 2025 DR (06:15) | Roleplay |
+| [**Scene 193**](#scene-193) | Private Airstrip | March 04, 2025 DR (04:00) | Roleplay |
+| [**Scene 194**](#scene-194) | Sterling Global Airstrip | March 4, 2025 DR (04:00) | Roleplay |
+| [**Scene 195**](#scene-195) | Sterling Global Private Airstrip | March 4, 2025 DR (04:00) | Social Challenge |
+| [**Scene 196**](#scene-196) | Baltimore Old Hospital - Rooftop/Archives | March 4, 2025 DR (04:15) | Social Challenge |
+| [**Scene 197**](#scene-197) | Baltimore Old Hospital - Archives/Lab | 3 4, 2025 DR (04:20) | Social Challenge |
+| [**Scene 198**](#scene-198) | Baltimore Old Hospital - Fourth Floor Elevator Bank | March 4, 2025 DR (04:25) | Roleplay |
+| [**Scene 199**](#scene-199) | Baltimore Old Hospital - Rooftop/Archives | March 4, 2025 DR (04:25) | Roleplay |
+| [**Scene 200**](#scene-200) | Baltimore Old Hospital - 4th Floor Elevator Bank | March 4, 2025 DR (04:30) | Roleplay |
+| [**Scene 201**](#scene-201) | Baltimore Old Hospital - Elevator Shaft (Sub-level Descent) | 3 4, 2025 DR (04:35) | Roleplay |
+| [**Scene 202**](#scene-202) | Baltimore Old Hospital - Sub-Level Cradle | 3 4, 2025 DR (04:40) | Roleplay |
+| [**Scene 203**](#scene-203) | Baltimore Old Hospital - Sub-Level Cradle | March 4, 2025 DR (04:40) | Roleplay |
+| [**Scene 204**](#scene-204) | Baltimore Old Hospital - The Cradle | 3 4, 2025 DR (04:45) | Social Challenge |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Cheyenne, Wyoming** &nbsp;|&nbsp; 🛡️ **Initializing sariel_001...**
@@ -287,8 +303,11 @@ How would you like to proceed with your character design?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: [AIGenerated] - I will build Sariel&#x27;s full sheet (Level 1) based on your prompt, including INT-based Ranger stats and hybrid traits.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Prodigy | HP: 11/11 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: No**
@@ -323,8 +342,11 @@ Sariel represents the perfect fusion of federal authority and lethal efficiency.
 > 👤 **Player:**
 > *"give me proper equipment and spell slots"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue/Ranger Prodigy | HP: 11/11 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Inspiration: No**
@@ -340,8 +362,11 @@ Your **Equipment** has been standardized to high-grade Bureau issue, providing y
 > 👤 **Player:**
 > *"i should ahve melee, ranged weapons, armor, items, rings etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue/Ranger | HP: 11/11 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -362,8 +387,11 @@ Your **FBI Field Kit** contains forensic tools, zip-ties (manacles), a high-lume
 > 👤 **Player:**
 > *"give me a pistol and keep crossbot for silent killings, then start game. narrate everyones reaction to my youth and prodigy status, it should be polarizing and since i'm a young and attractive woman people should feel protective of me too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Rogue/Ranger Prodigy | HP: 11/11 | XP: 0/300 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Sneak Attack: 1d6 | Pistol Rounds: 15/15** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -379,8 +407,11 @@ Bex Henderson (Lvl 8), however, ignores the tension. She watches you with the cl
 God Mode:
 make me level 9, but my masked level is level 1. keep track of both. I wanna smurf and hide my true capabilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 1) | HP: 67/67 | XP: 48000/64000 | Gold: 10gp**
@@ -392,8 +423,11 @@ I have established a persistent directive to track your 'masked level' as 1. Thi
 God Mode:
 setup my spells, feats, abilities. assume i max dex then int using ASI
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -410,8 +444,11 @@ Admin Update: Character mechanical progression synchronized for Level 9 (5 Range
 God Mode:
 give me some int based spells like hacking etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 1) | HP: 67/67 | XP: 48,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -428,8 +465,11 @@ Admin Update: Modern 'Hacking' and 'Electronic Warfare' spells integrated into S
 God Mode:
 my equpment is gone? fix it in game state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked Lvl 1) | HP: 67/67 | XP: 48000/64000 | Gold: 10gp**
@@ -453,8 +493,11 @@ Backpack	Forensic/Thieves' Tools	Specialized kit for lockpicking and evidence co
 ▸ Keys:
   • Forensic/Thieves' Tools (Specialized kit for lockpicking and evidence collection)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -485,8 +528,11 @@ Equipment manifest synchronized and deduplicated. The previous display issue was
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your analysis of the perimeter gaps with your full tactical loadout verified.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Prodigy (True Lvl 9) | HP: 67/67 | XP: 48,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Rest: 04:00:00** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -502,8 +548,11 @@ Bex Henderson (Lvl 8) ignored the chivalry and the skepticism alike. She watched
 God Mode:
 odell seems kind of low level, make him level 8 too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Cheyenne, Wyoming - Above "The Pit"** &nbsp;|&nbsp; ⏳ **January 19, 2025 AD (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 1) Prodigy | HP: 67/67 | XP: 48,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -513,8 +562,11 @@ Administrative Update: Oliver Odell has been promoted to Level 8. His health, pr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Signal Detection - Utilize your tactical smartwatch to scan for anomalous cellular pings or encrypted bursts in the industrial sector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Cheyenne, Wyoming - The Pit Perimeter** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Prodigy (Masked) | HP: 67/67 | XP: 48000/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -534,8 +586,11 @@ Your watch vibrates with a sharp, haptic pulse. In the sea of industrial EM inte
 > 👤 **Player:**
 > *"dont let me lead, other peple make the decisions. i only suggeset. I suggest tactial approach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **En Route to 4th and O'Neil - Cheyenne, Wyoming** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Prodigy (Masked) | HP: 67/67 | XP: 48000/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -555,8 +610,11 @@ The tires crunch over the frozen gravel as the SUV lurches forward, heading towa
 God Mode:
 lets change my character. I am a prodigy and level 9 which is amazing, but i'm not very confident and act that way until level 12. However as I gain more success i should build trust with people who know me, and i get persusasion bonuses with them. Also lets introduce a heat mechanic. As I perform big wins and feats my masked level grows and as it grows my fame and positive and negative attention with allies and enemies grows. A level 9 17 year old should be extremely rare in this universe, just like D&D
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Industrial Sector - SUV en route to 4th and O'Neil** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 1) | HP: 67/67 | XP: 48000/64000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -583,8 +641,11 @@ I have updated the `directives` and `custom_campaign_state` to track these value
 > 👤 **Player:**
 > *"return to story and lets narrate a combat encounter and let me decide what to do. The serial killer comes ina. different way and i'm forced to fight him. I'm not really scared since I am a level 9, but I'm shy and not confident among allies. Howeer, the most evil and violent and serial killers can sense I am strong and I've already killed 100 evil violent criminals and serial killers so evil people can sense me to some degree and lower level ones are intidimaed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Industrial Sector - 4th and O'Neil** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 1) Prodigy | HP: 67/67 | XP: 48,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Sidearm Ammo: 20 | Pistol Ammo: 15 | Trust: Bex (Neutral), Odell (Protective/Friendly)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -606,8 +667,11 @@ His gaze sweeps over the vehicle, passing over the seasoned agents as if they we
 > 👤 **Player:**
 > *"narrate a scene. harris shoots the tires and the vehicle falls over. I am ok though and i left the vehicle and engage in combat with harris. harris verbally recognizes me as a predator and is amused that I'm not confident"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Industrial Sector - 4th and O'Neil** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 1) Rogue/Ranger | HP: 67/67 | XP: 48,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Heat: 5 | Masked Lvl: 1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -629,8 +693,11 @@ You feel the familiar, cold weight of the Service Sidearm in your hand. Your hea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assassination Strike (High Heat) - Utilize Dread Ambusher and Sneak Attack to put two suppressed rounds into Harris&#x27;s center mass before he can react.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Industrial Sector, Cheyenne, Wyoming** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked Lvl 1) | HP: 67/67 | XP: 48,000/64,000 | Heat: 20** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Action: USED | Bonus: AVAILABLE | Reaction: AVAILABLE** &nbsp;|&nbsp; ⚠️ **Hidden, Umbral Sight | Exhaustion: 0**
@@ -652,8 +719,11 @@ Inside the vehicle, Oliver Odell (Lvl 8) is struggling against his seatbelt, his
 God Mode:
 lets make me the bastard daughter of a rich family thats like royalty and do some arcs later on, my father truly cares about me and my mother was a prostitute, give me 2 older half sisters and 2 older half brothers. reveal it gradually
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Industrial Sector, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked 1) | HP: 67/67 | XP: 48000/64000 | Gold: 10gp**
@@ -678,8 +748,11 @@ I have updated Sariel's core identity to reflect her status as the bastard daugh
 > 👤 **Player:**
 > *"adjust the narrative oliver is a bit too protective. dont make it black and white. take one more shot and kill him but make it look like elf defense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Industrial Sector - Cold Storage Facility** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 1) | HP: 67/67 | XP: 48,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Sidearm Ammo: 17/20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -703,8 +776,11 @@ Odell stares at the body of the most dangerous man in Wyoming, then at you. The 
 > 👤 **Player:**
 > *"narrate everyones reaction to my kill in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Industrial Sector, Cheyenne, Wyoming** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (9) Prodigy | HP: 67/67 | XP: 53000/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 2/2, Smokes: 2/2, Zip-ties: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -724,8 +800,11 @@ He pulls you into a protective embrace, his tactical vest smelling of gun oil an
 God Mode:
 lets add shane to the scene and make eveyrone act like tv show. shane and morales should be nice to me, thats in character. hasani should be skeptical, oliver protective but dont overdo it. bex should be nice. The nice people might be a bit paternalistic and condescending but not truly mean
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Industrial Sector, Cheyenne, Wyoming** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 1) | HP: 67/67 | XP: 53000/64000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -745,8 +824,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 God Mode:
 lets assume only odell knows i am a sterling
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Industrial Sector, Cheyenne** &nbsp;|&nbsp; ⏳ **2025 Jan 19, 04:30:45** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Ranger | HP: 67/67 | XP: 53000/64000**
@@ -763,8 +845,11 @@ The world remains frozen at 04:30:45. No narrative time has passed.
 > 👤 **Player:**
 > *"narrate my response. I say I've been training firearms since i was a teenager (which is ironic because I still am a teenager) and say i've practiced hours every day but first time i've had to kill someone, feels bad"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Industrial Sector, Cheyenne - Above the wreckage** &nbsp;|&nbsp; ⏳ **January 19, 2025 (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Prodigy (Masked) | HP: 67/67 | XP: 53,000/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 2/2, Special: Heat (45), Confidence: Low** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -784,8 +869,11 @@ Bex Henderson (Lvl 8) steps through the smoke, her expression clinical but not u
 > 👤 **Player:**
 > *"narrate next scene, we regroup at base, narrate the others talking about the kill and debating without me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Cheyenne Field Office - Mobile Command Unit** &nbsp;|&nbsp; ⏳ **January 19, 2025 (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 1) | HP: 67/67 | XP: 53,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 2/2, Action Surge: 1/1, Rage: 0/0, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -809,8 +897,11 @@ Jacob lets out a frustrated, hissing breath. "Fine. But keep her away from my se
 God Mode:
 jacob shouldn't know about sterling, make my int 18 too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Cheyenne Mobile Command Unit** &nbsp;|&nbsp; ⏳ **January 19, 2025 (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy | HP: 67/67 | XP: 53000/64000 | Gold: 10gp**
@@ -823,8 +914,11 @@ Administrative updates processed:
 > 👤 **Player:**
 > *"lets narrate a scene where hasani takes me to the shooting range to verify my skills, i use my full skills and peopel see I truly am an amazing shot."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Cheyenne Field Office - Underground Tactical Range** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked Lvl 2) Prodigy | HP: 67/67 | XP: 53,000/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -852,8 +946,11 @@ Silence falls over the range. Jacob Hassani slowly pulls the target back, his fa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Downplay the Success - Attribute the shots to the Bureau&#x27;s advanced simulation training and &#x27;beginner&#x27;s luck.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Cheyenne Field Office - Tactical Range** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 3) Prodigy | HP: 67/67 | XP: 53,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Sidearm: 20/20 | Pistol: 15/15 | Zip-ties: 10/10** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -875,8 +972,11 @@ Jacob doesn't join the group as they lead you toward the exit. He stays by the r
 > 👤 **Player:**
 > *"lets retcon this a bit. real agents train with real guns so i say i've practiced a lot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Cheyenne Field Office - Underground Tactical Range** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (06:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked Lvl 3) | HP: 67/67 | XP: 53,000/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Potion: 0/0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -902,8 +1002,11 @@ Jacob Hassani (Lvl 7) doesn't join the pity party. He stares at the single, ragg
 God Mode:
 lets change my intentions. i know i should hide some abilities or my past as a vigilante, but some of my lack of confidence is real and not just acting. i dont actully realize i am a genius and combat prodigy. i think im normal, my IQ is also 200 and my int cap is 24
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 
@@ -919,8 +1022,11 @@ Summary of Changes:
 > 👤 **Player:**
 > *"i long rest and others discuss me without me present and my shooting abilities, some may remakr that perhaps there's a good reason a teenager is here and i did save everyones life"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Cheyenne Field Office - Command Hub** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked Lvl 1) | HP: 67/67 | XP: 53000/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sidearm: 20/20 | Pistol: 15/15 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -942,8 +1048,11 @@ You sit up slowly, the shyness flaring up as you realize they're talking about y
 > 👤 **Player:**
 > *"narrate a scene where we have a small celebration and they buy pizza to celebrate me saving everyone, then start next missions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Cheyenne Field Office - Tactical Hub** &nbsp;|&nbsp; ⏳ **January 19, 2025 (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 3) | HP: 67/67 | XP: 53000/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -963,8 +1072,11 @@ As the laughter of the veterans fills the room, Bex eventually clears her throat
 God Mode:
 make shane level 3 and let him level up a bit as time goes on
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Cheyenne Field Office Command Hub** &nbsp;|&nbsp; ⏳ **January 19, 2025 (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy | HP: 67/67 | XP: 53150/64000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -974,8 +1086,11 @@ Administrative Update: Shane Florence (npc_shane_florence_001) has been updated 
 God Mode:
 lets make the serial killers all the canon ones from tv show
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Cheyenne Field Office Command Hub** &nbsp;|&nbsp; ⏳ **2025 January 19, 18:30:00** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 3) | HP: 67/67 | XP: 53150/64000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -996,8 +1111,11 @@ I have updated the `custom_campaign_state.active_missions` and the `Decrypted Ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the briefing on Elias Thorne (The Clockmaker) now that the manifest is updated.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Cheyenne Field Office - Command Hub** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Ranger (Masked: Lvl 3) | HP: 67/67 | XP: 53150/64000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 2/2 | HD: 9/9 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -1021,8 +1139,11 @@ Jacob's head snaps toward you. He stares at the map, then at the dam icon near t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Dam Blueprints - Use your manifest tablet to pull the schematics for the Horse Creek Dam to identify potential trap locations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Armored SUV - En route to Horse Creek Dam** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 3) | HP: 67/67 | XP: 53,250/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1046,8 +1167,11 @@ You nod quickly, looking back down at the screen. "I... I gain 100 XP?" you ask 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate from Command Van - Follow Odell&#x27;s advice and remain in the vehicle to provide overwatch and data analysis while the others breach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Horse Creek Dam - Tactical Overwatch Van** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 3) Prodigy | HP: 67/67 | XP: 53250/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -1067,8 +1191,11 @@ Inside the quiet, insulated cocoon of the van, the monitors flicker to life. You
 > 👤 **Player:**
 > *"narrate a new complication. the serial killers start working in teams and there are more and they amush my team. I'm forced to leave the van to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Horse Creek Dam - Command Van** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Rogue/Ranger | HP: 67/67 | XP: 53250/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1090,8 +1217,11 @@ You look at the door of the van. You’re just an intern. You’re just a lucky 
 God Mode:
 change the story a bit, my official rank is actually special agent, but everyone forgets and assumes i am an intern and i dont correct them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Horse Creek Dam** &nbsp;|&nbsp; ⏳ **2025 January 19, 19:40:00** &nbsp;|&nbsp; 🛡️ **Lvl 9 Special Agent (Masked Lvl 3) | HP: 67/67 | XP: 53,250/64,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1110,8 +1240,11 @@ Per your request, Sariel's genuine lack of confidence prevents her from correcti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Flank via Intake Tunnel - Use your Stealth (+9) to slip through the service entrance and reach the turbine hall&#x27;s upper level.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Horse Creek Dam - Intake Tunnel** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Intern (Masked) / Lvl 9 Agent | HP: 67/67 | XP: 53,250/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sidearm: 20/20 | Pistol: 15/15** &nbsp;|&nbsp; ⚠️ **Hidden | Exhaustion: 0 | Inspiration: No**
@@ -1145,8 +1278,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"THINK:how can i stop the dps to the team and prioritize their safety vs killing for now, any way to stun or mitigate the lethality of foyet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Horse Creek Dam - Turbine Hall (Upper Level)** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked: 1) Special Agent | HP: 67/67 | XP: 53,250/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/2 | Sidearm Ammo: 20/20 | 9mm Ammo: 15/15** &nbsp;|&nbsp; ⚠️ **Umbral Sight (Active), Hidden | Exhaustion: 0 | Inspiration: No**
@@ -1160,8 +1296,11 @@ Oliver (Lvl 8) and Jacob (Lvl 7) are pinned. If Foyet continues his cadence, he 
 > 👤 **Player:**
 > *"cast fog cloud on thorne and shoot into it using his last known location and estimated trajectory"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Intern? (Mkd) / Lvl 9 Agent | HP: 67/67 | XP: 58,250/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Potion: 0/0 | Exhaustion: 0**
@@ -1183,8 +1322,11 @@ He stops, staring at the fog cloud. He doesn't understand how a 'panicked intern
 > 👤 **Player:**
 > *"THINK:how can i disable foyet dps now, what spells do i have? i am a level 9 so i should have decent spells/abilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Horse Creek Dam Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Intern? (Lvl 9 Agent) | HP: 67/67 | XP: 58,250/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 2/2, Hacking: Ready** &nbsp;|&nbsp; ⚠️ **Exposed, Fog Cloud Active (Concentration) | Exhaustion: 0 | Inspiration: No**
@@ -1198,8 +1340,11 @@ To any observer, you are a terrified teenager caught in a crossfire. In your min
 God Mode:
 lets assume I'm not actually terrified in combat since I've killed over 100, just afraid of allies socially. evil people i am not afrid of at all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Special Agent (Masked Lvl 3) | HP: 67/67 | XP: 58250/64000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1216,8 +1361,11 @@ Administrative Update: Sariel's internal confidence framework has been refined.
 God Mode:
 Electronic Warfare: HUD Jammer - Cast Signal Jammer (Silence) on Foyet&#x27;s ridge. Narratively, use your smartwatch to flood his digital scope&#x27;s frequency with static.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Horse Creek Dam** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy | HP: 67/67 | XP: 58250/64000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1238,8 +1386,11 @@ The Horse Creek Dam remains frozen in time at 19:40:36. The team is pinned, Thor
 > *"accident, i mean to do that in char mode. Redo it with the roll
  Electronic Warfare: HUD Jammer - Cast Signal Jammer (Silence) on Foyet's ridge. Narratively, use your smartwatch to flood his digital scope's frequency with static."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Intern? (Masked) | HP: 67/67 | XP: 58,250/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Smartwatch: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1255,8 +1406,11 @@ Jacob Hassani (Lvl 7) watches you from his position behind the generator, his ey
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Morales - Suggest a flanking route to Jennifer while Jacob is distracted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Horse Creek Dam Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Special Agent (Masked Lvl 1) | HP: 67/67 | XP: 58,250/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1272,8 +1426,11 @@ Jacob grunts, his eyes never leaving you, but he shifts his fire toward the ridg
 > [!NOTE] ⚙️ **Player Choice:**
 > *Keep Pressure on Thorne - Fire another trajectory shot to ensure the Clockmaker doesn&#x27;t regain control of the console.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Intern (Masked) | HP: 67/67 | XP: 58,250/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Sidearm Ammo: 17/20 | 9mm Ammo: 15/15** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1309,8 +1466,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"cunning action, sneak attack thorne in the fog, try to slit his throat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 
@@ -1320,8 +1480,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"cunning action, sneak attack thorne in the fog, try to slit his throat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 (Masked) / Lvl 9 (True) Prodigy | HP: 67/67 | XP: 58,250/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Sneak Attack: 2d6 | Cunning Action: Available** &nbsp;|&nbsp; ⚠️ **Internally Clinical | Socially Anxious**
@@ -1343,8 +1506,11 @@ You let out a sharp, high-pitched scream of your own—one that sounds like pure
 God Mode:
 my acting sounds dumb, i dont need to pretend to be that helpless, remember i am confident in combat, just not socially
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Horse Creek Dam** &nbsp;|&nbsp; ⏳ **2025 January 19, 19:40:54** &nbsp;|&nbsp; 🛡️ **Lvl 9 Special Agent | HP: 67/67 | XP: 61150/64000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1360,8 +1526,11 @@ God mode NEVER advances the narrative; the story is frozen while you perform adm
 > 👤 **Player:**
 > *"i explain to the team that I took out thorne, and I'm coming to help with foyet. I sneak attack foyet now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 4) | HP: 67/67 | XP: 62800/64000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Slots: S1 [3/4], S2 [1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1392,8 +1561,11 @@ The suppressed round is a clinical whisper in the mechanical roar. It strikes Fo
 > 👤 **Player:**
 > *"letes not overdo the oliver protectiveness, during combat he knows i can help and will use me but carefully"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Horse Creek Dam Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 9 (Masked 4) Special Agent | HP: 67/67 | XP: 62,800/64,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Class Features: Cunning Action, Assassinate, Umbral Sight** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1435,8 +1607,11 @@ YOUR TURN - ACTIONS REMAINING:
 > 👤 **Player:**
 > *"coordinated breach, narrate foyet internal thoughts, he hasnt seen me yet so he wondering who the hell is so good at combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:41)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Prodigy (Masked: 4) | HP: 67/67 | XP: 62,800/64,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Sneak Attack: 5d6 | Heat: 205** &nbsp;|&nbsp; ⚠️ **Umbral Sight Active | Exhaustion: 0 | Inspiration: No**
@@ -1465,8 +1640,11 @@ Jacob Hassani (Lvl 7) watches the coordination from below, his rifle forgotten i
 > 👤 **Player:**
 > *"help my team capture him alive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Horse Creek Dam Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:41)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Agent (Masked: 4) | HP: 67/67 | XP: 62800/64000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Sidearm: 18/20, Pistol: 15/15** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1486,8 +1664,11 @@ Jacob Hassani (Lvl 7) watches from below, his rifle lowered. He sees a seventeen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Deferral - Quickly call for Oliver to take command and secure the prisoner, acting as if you&#x27;re unsure of what to do next.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:42)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Special Agent (Masked Lvl 5) | HP: 67/67 | XP: 67100/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Smartwatch: Active, Tactical Smartwatch: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1521,8 +1702,11 @@ Jacob Hassani (Lvl 7) remains below, standing perfectly still. He doesn't move t
 > 👤 **Player:**
 > *"narrate hasani internal thoughts. he's seen special forces and warzones and I'm up there with top tier combatants. he tries to estiamte my real level"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 67600/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **L1 Slots: 3/4, L2 Slots: 1/2, Hit Dice: 9/9, Sidearm: 17/20, Pistol: 15/15** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1550,8 +1734,11 @@ Jacob’s internal scale for you shifts. He isn't just skeptical anymore; he's m
 God Mode:
 lets make my acting less obvious and i need to roll deception checks to act. by default I will not pretend to be afraid or deceive, instead i just act like its ordinary. in general i will try to not use my full abilities though unless needed since i dont wanna stand out. I do know that I am strong, but socially i am just not confident
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 
@@ -1572,8 +1759,11 @@ Administrative Update: Sariel's internal framework and behavioral directives hav
 > 👤 **Player:**
 > *"narrate everyones internl thoughts and then public r eaction to me saving the day again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Horse Creek Dam - Turbine Hall** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 67600/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1601,8 +1791,11 @@ Jacob's eyes never leave you. He doesn't say thank you. He just watches the way 
 > 👤 **Player:**
 > *"go back to the command van, and let them discuss me without me there. they are all amazed and they wonder why an intern is this good, odell reminds them that technically i am a special agent, maye youngest in history, i just dont correct them to be polite"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Horse Creek Dam - Mobile Command Van** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68,100/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Smartwatch: Active** &nbsp;|&nbsp; ⚠️ **Focused | Exhaustion: 0 | Inspiration: No**
@@ -1626,8 +1819,11 @@ Jacob watches you from the doorway, his silence louder than the wind. He knows t
 > 👤 **Player:**
 > *"redo narrative. intern isnt a label, they just assumed I was an intern. my public rank is special agent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Horse Creek Dam - Command Van** &nbsp;|&nbsp; ⏳ **January 19, 2025 (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 75/75 | XP: 68,100/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1649,8 +1845,11 @@ Jacob stands in the doorway, his silhouette blocking the dim dawn light. He isn'
 > 👤 **Player:**
 > *"narrate everyones internal reaction, they should be amazed i am a special agent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Horse Creek Dam - Command Van** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68100/85000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Signature Dampening: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1682,8 +1881,11 @@ As you speak, your tactical smartwatch vibrates with a persistent, encrypted pul
 God Mode:
 lets not have my father be highly involved with missioins and stuff. let assume even he doesnt know about my full abilities or vigilantism, he just helped bend the rules for me because he knows i am a prodigy but doesnt know the full extent and he's not evil or nefarious, just a normal political power broker etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 
@@ -1702,8 +1904,11 @@ I have updated the `directives` and `custom_campaign_state` to ensure his future
 > 👤 **Player:**
 > *"narrate a scene where the team treats me to dinner and drinks (I use a fake ID, which everyone finds funny). They try to get to know me and hassani steps out and orders some background checks on me and remains grateful too but suspcisious. Let them all gently probe me about my history. i mostly answer honestly but omit my parentage and vigilantism"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **The Rusty Spur - Cheyenne, WY** &nbsp;|&nbsp; ⏳ **January 19, 2025 (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68,100/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1721,8 +1926,11 @@ Jacob Hassani (Lvl 7) stands near the jukebox, his back to the group. He’s gra
 > 👤 **Player:**
 > *"narrate more dialog from them, let them ask me questions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy (Masked: 5) | HP: 75/75 | XP: 68100/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Action Surge: 1/1, Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1744,8 +1952,11 @@ Through the frost-covered window, you see Jacob Hassani (Lvl 7) standing in the 
 > 👤 **Player:**
 > *"redo narrative, sterling sholdn't be my last name officially becaues then they'd know who myu father is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 75/75 | XP: 68,100/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1769,8 +1980,11 @@ Through the frost-covered window, you see Jacob Hassani (Lvl 7) standing in the 
 > 👤 **Player:**
 > *"give them a sanitized version of my life story. i skipped most of elementary school and high school due to being in a gifted academic program and earned a PHD in criminal studies at around 14. then spent 2 years in the academy. I grew up in a crime ridden area so always wanted to be in law enforcement"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 75/75 | XP: 68,100/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Slots: S1 [3/4], S2 [1/2** &nbsp;|&nbsp; ⚠️ **Focused | Exhaustion: 0 | Inspiration: No**
@@ -1792,8 +2006,11 @@ Through the window, you see Jacob Hassani (Lvl 7) end his call. He stands in the
 > 👤 **Player:**
 > *"narrate bex internal thoughts, she's friendlt outwardly but is suspiscious and starts profiling me. See whhat she finds"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68,200/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Slots: L1 3/4, L2 1/2 | HD: 9/9 | Focus: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1811,8 +2028,11 @@ She pauses, her gaze flickering to the tactical smartwatch on your wrist. "Tell 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lean into the &#x27;Ghetto&#x27; Trauma - Admit that the &#x27;bad area&#x27; involved seeing things a child shouldn&#x27;t, providing a &#x27;dark&#x27; but non-vigilante reason for your coldness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68,200/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Slots: L1 3/4, L2 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1832,8 +2052,11 @@ Outside, the alley door creaks open. Jacob Hassani (Lvl 7) walks back in, the Wy
 > 👤 **Player:**
 > *"narrate bex internal thoughts, she mostly beleives me but she also knows kids from bad neighborhoods, I am acting really calm"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy (Masked: 5) | HP: 75/75 | XP: 68,200/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Tactical Smartwatch: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -1851,8 +2074,11 @@ The alley door creaks open, letting in a blast of sub-zero air that cuts through
 > 👤 **Player:**
 > *"redo this narrative, jacob wouldnt tell me the results of the investigtion publically. also lets assume my record looks normal, because i did somewhat live a normal childhood with secret vigilantism. no one actually knows in the fbi, only some people from the streets"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68,200/85,000 | Heat: 335** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1874,8 +2100,11 @@ He doesn't push further, but the suspicion is there, buried under a layer of beg
 > 👤 **Player:**
 > *"narrate some more harmless small talk, bex mostly believe me since i passed the rollls, but still is curious how such skills truly developed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68200/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Focused, Socially Anxious | Masked Level: 5 | Heat: 335**
@@ -1897,8 +2126,11 @@ He gives you a meaningful look, his hand moving to cover yours on the table. He'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Odell&#x27;s &#x27;Out&#x27; - Excuse yourself to &#x27;recalibrate&#x27; the watch, using the fresh air as an excuse to step into the alley and check the Sterling contact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **The Rusty Spur (Alleyway), Cheyenne, WY** &nbsp;|&nbsp; ⏳ **January 19, 2025 (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68,200/85,000 | Heat: 335** &nbsp;|&nbsp; ✨ **Slots: L1 3/4, L2 1/2 | HD: 9/9 | Ammo: Sidearm 17, Pistol 15** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -1923,8 +2155,11 @@ You look up at the dark mouth of the alley. Somewhere in the distance, a black s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept the Courier - Move to the street corner and flag down the vehicle before it reaches the entrance. Tell them to drop the &#x27;gift&#x27; at the Field Office instead.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **The Rusty Spur (Alley/Street), Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 (22:42)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68200/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Masked Level: 5 | Heat: 345**
@@ -1942,8 +2177,11 @@ The courier hesitates for a fraction of a second, caught in the gravity of your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Explain the &#x27;Static&#x27; - Tell Jacob and Bex that the dam&#x27;s EM interference was worse than you thought, and you had to walk a block away to get a clear satellite handshake.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 67/67 | XP: 68200/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1970,8 +2208,11 @@ Jacob Hassani (Lvl 7) doesn't look away from his glass, but you can see the refl
 > 👤 **Player:**
 > *"shouldnt this be a success? 1d20+6 = 21 vs DC 18 - Failure (Deception (Explain the Static))"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **1 19, 2025 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger Prodigy | HP: 67/67 (Temp: 0) | XP: 68350/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -1989,8 +2230,11 @@ You gain **150 XP** for the successful social navigation and neutralizing Jacob'
 > [!NOTE] ⚙️ **Player Choice:**
 > *Endure the Dinner - Stay and eat. Listen to Shane&#x27;s stories and wait for the natural conclusion of the meal to avoid appearing eager to leave.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **The Rusty Spur, Cheyenne** &nbsp;|&nbsp; ⏳ **January 19, 2025 (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68500/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Action Surge: 1/1, Sneak Attack: 2d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2010,8 +2254,11 @@ Across the table, Jacob Hassani (Lvl 7) has finally leaned back, his posture rel
 > 👤 **Player:**
 > *"stay for ifnal round, then check delivery"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **FBI Cheyenne Field Office - Secure Lockers** &nbsp;|&nbsp; ⏳ **January 20, 2025 (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68600/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0/0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2029,8 +2276,11 @@ You feel a sharp pang of genuine shyness, even alone in the dark. Your father th
 > 👤 **Player:**
 > *"integrate windbreaker and then go t osleep and long rest. next day narrate an interrogation with the capured serial killer and he should react to me in the room but dont make it black and white"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **FBI Cheyenne Field Office - Interrogation Suite** &nbsp;|&nbsp; ⏳ **January 20, 2025 (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent (Masked: Lvl 5) | HP: 75/75 | XP: 68,600/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Inspiration: No** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2052,8 +2302,11 @@ But through the glass, Foyet sees the clinical stillness in your eyes. He knows 
 God Mode:
 list all the remaining killers and make them canon from the show, but they are teaming up now and they have helpers. lets define some nemesis organization powerting them up (this can be non canon) but dont spoil it for me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **FBI Cheyenne Field Office - Interrogation Suite** &nbsp;|&nbsp; ⏳ **January 20, 2025 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 68600/85000 | Gold: 10gp**
@@ -2082,8 +2335,11 @@ Manifest 'The Pit' has been administratively updated. There are 4 primary target
 > 👤 **Player:**
 > *"engage with foyet in dialog and see if i can have him reveal things, he should be intimidated, roll dice to check but should be easy, and he should try to "out" me but its a hard persuasion roll for him against my team"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **FBI Cheyenne Field Office - Interrogation Suite** &nbsp;|&nbsp; ⏳ **January 20, 2025 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 75/75 | XP: 68,600/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Focused, Zero-Signature Windbreaker Active**
@@ -2116,8 +2372,11 @@ You nod slowly, your expression remaining that of a shy, helpful intern. "Thank 
 > 👤 **Player:**
 > *"give foyet a secret signal to confirm his suspicions, should be hard for anyone else to notice, if it works itlll give even more intel becauseh e's afraid of an anomaly. he'll say something liek I belong in the pit more than him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **FBI Cheyenne Field Office - Interrogation Suite** &nbsp;|&nbsp; ⏳ **January 20, 2025 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 75/75 | XP: 71,250/85,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2139,8 +2398,11 @@ You gain 150 XP for the critical intel on the 'Cleaner' and the 'Family' project
 > 👤 **Player:**
 > *"leave the room and foyet starts laughing. he wonders if he was a test for me and if hte overture knows about me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **FBI Cheyenne Field Office - Interrogation Suite** &nbsp;|&nbsp; ⏳ **Month 1 Day 20, 2025 (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 71,400/85,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2160,8 +2422,11 @@ You nod, ducking your head to hide the lack of a tremor. "I... I'm okay. I just.
 > 👤 **Player:**
 > *"narrate more of foyets dialog which most of the team ignores. he laughs and yells after the team that they've welcomed the greatest serial killer in existence into their ranks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **FBI Cheyenne Field Office - Corridor** &nbsp;|&nbsp; ⏳ **January 20, 2025 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Sariel (Lvl 10) | HP: 75/75 | XP: 71,550/85,000 | Masked Lvl: 5** &nbsp;|&nbsp; ✨ **HD: 9/10, Spells: L1 3/4, L2 1/2, Hacking: 2/3** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2183,8 +2448,11 @@ Jacob watches the floor numbers tick up, his silence unreadable. He’s dismisse
 > 👤 **Player:**
 > *"narrate bex internal thoughts, although she's seen similar tactics before something does seem more genuine about foyet reaction but she can't pin it down"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Cheyenne Field Office - Parking Garage** &nbsp;|&nbsp; ⏳ **January 20, 2025 (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy (Masked: 5) | HP: 75/75 | XP: 71550/85000 | Heat: 140** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Cunning Action: Ready | Sneak Attack: 2d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2204,8 +2472,11 @@ Jacob Hassani (Lvl 7) remains silent in the back with you, his eyes fixed on the
 > 👤 **Player:**
 > *"time skip for a few weeks and lets assume we face some hard combat encounters and i prove myself many times. The rest of the team of 150 are starting to learn too and are amazed."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Cheyenne Field Office - Strategic Operations Center** &nbsp;|&nbsp; ⏳ **February 10, 2025 (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 75/75 | XP: 81,550/85,000 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 3/4, L2 2/2 | Focus: Algorithmic Efficiency | Heat: 515** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Masked Level: 7**
@@ -2225,8 +2496,11 @@ You look down at the data, the 'intern' shyness flaring up as you feel the colle
 > 👤 **Player:**
 > *"redo this narrative, sterling blood has nothing to do with it, we are a rich family not a miltiary family"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Cheyenne Field Office - Strategic Ops** &nbsp;|&nbsp; ⏳ **2 10, 2025 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 75/75 | XP: 81550/85000 | Masked Lvl: 7** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2244,8 +2518,11 @@ Across the room, Jacob Hassani (Lvl 7) and Jennifer Morales (Lvl 6) are leading 
 > 👤 **Player:**
 > *"I shouldnt be the commander, but everyone now knows I am a special agent and not an intern. Lets narrat a challenging mission with 5 serial killers teaming up, which has never happened before"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Cheyenne Field Office - Strategic Ops** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 75/75 | XP: 81550/85000 | Heat: 515** &nbsp;|&nbsp; ✨ **L1 Slots: 3/4, L2 Slots: 2/2, HD: 9/9** &nbsp;|&nbsp; ⚠️ **Sanctuary Active (The Dam Breach) | Inspiration: Yes**
@@ -2265,8 +2542,11 @@ Oliver Odell (Lvl 8) steps forward, placing a protective hand on your shoulder. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *High-Density Data Crunch - Stay at the Ops Center and use the full server farm to force a resolution on the Overture relay.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Strategic Operations Center, Cheyenne** &nbsp;|&nbsp; ⏳ **2 10, 2025 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 67/67 | XP: 81850/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Heat: 525 | Masked Lvl: 7**
@@ -2286,8 +2566,11 @@ You shrink back into your seat, the 'Sarah Miller' mask providing a thin layer o
 God Mode:
 process level 10
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Cheyenne Field Office - Strategic Ops** &nbsp;|&nbsp; ⏳ **2025 February 10, 09:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 10 Agent | HP: 81/81 | XP: 81550/85000 | Gold: 10gp**
@@ -2305,8 +2588,11 @@ Character stats are now fully synchronized with your current level and XP.
 > 👤 **Player:**
 > *"THINK:use my full int and think about the best plan, assum they know about me now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Strategic Operations Center, Cheyenne** &nbsp;|&nbsp; ⏳ **February 10, 2025 (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 81850/85000** &nbsp;|&nbsp; ✨ **L1: 3/4, L2: 1/2, HD: 9/9, Sneak Attack: 3d6, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Muddled | Exhaustion: 0 | Inspiration: No**
@@ -2316,8 +2602,11 @@ You stand before the tactical display, the blue light of the Denver grid mapping
 > 👤 **Player:**
 > *"brainstorm the strategy with the team, remember im not hte leader so i just suggest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Strategic Operations Center, Cheyenne** &nbsp;|&nbsp; ⏳ **February 10, 2025 (09:16)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 81850/85000** &nbsp;|&nbsp; ✨ **L1 Spells: 3/4, L2 Spells: 1/2, Hit Dice: 9/9, Ammo: 20/20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2337,8 +2626,11 @@ As they talk, the variables begin to settle. The shyness is still there, making 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synergized Pincer (High Success) - Deploy Odell and Morales through the drainage pipes while Hassani leads a decoy breach on the roof to distract Spector.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Mercury Building, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 81800/85000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 2/2 | Sidearm: 20/20 | Pistol: 15/15** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2352,8 +2644,11 @@ You gain **250 XP** for the masterful tactical coordination of the multi-agency 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Remote Counter-Hack - Utilize the Sterling data-chip and the server farm&#x27;s power to remotely block the data-wipe protocol.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Mercury Building Exterior, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (11:31)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 81550/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/10 | Spells: L1 3/4, L2 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2369,8 +2664,11 @@ Jacob Hassani (Lvl 7) barks through the static from the roof. "Miller, what do y
 > 👤 **Player:**
 > *"THINK:whats the best strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Mercury Building Exterior, Denver** &nbsp;|&nbsp; ⏳ **2025 February 10, 11:31:00** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 81800/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/10, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2380,8 +2678,11 @@ You stand in the biting Denver wind, the crimson 'MERCURY_WIPE' screen reflectin
 > 👤 **Player:**
 > *"THINK:The Ghost Protocol (Synergistic) - Guide Morales to the cache via comms while you personally drop into the basement to neutralize Mitchell—using your Zero-Signature traits to move through the building undetected."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Mercury Building Exterior, Denver** &nbsp;|&nbsp; ⏳ **2025-02-10 11:31:00:000003** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 81850/85000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Ki: N/A, Rage: N/A, Potions: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Focused, Zero-Signature Active**
@@ -2391,8 +2692,11 @@ You pause in the biting Denver wind, the crimson 'MERCURY_WIPE' screen reflectin
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Ghost Protocol (Synergistic) - Guide Morales to the cache via comms while you personally drop into the basement to neutralize Mitchell—using your Zero-Signature traits to remain undetected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Mercury Building Basement, Denver** &nbsp;|&nbsp; ⏳ **2 10, 2025 DR (11:31)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 83450/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 2/2, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Focused, Zero-Signature Active | Inspiration: No**
@@ -2414,8 +2718,11 @@ You stand perfectly still, your sidearm leveled at his center mass. "The manual 
 > 👤 **Player:**
 > *"kill mitchell because i dont have time to tie him up, then intercept foundation threat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Mercury Building Subway Level, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (11:31)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85950/100000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Ammo: 17/20 (Service), 15/15 (Pistol)** &nbsp;|&nbsp; ⚠️ **Focused | Exhaustion: 0 | Inspiration: No**
@@ -2431,8 +2738,11 @@ You hit the ground in a silent, algorithmic roll, your Umbral Sight rendering th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Electronic Warfare: Detonator Jam - Use your Signal Jammer (Silence) to flood the detonator&#x27;s frequency, buying time to neutralize The Cleaner.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Mercury Building Subway Level, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (11:31)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 81550/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 0/2 | Sidearm Ammo: 15/20 | Zip-ties: 10/10** &nbsp;|&nbsp; ⚠️ **Focused, Social Anxiety | Exhaustion: 0 | Inspiration: No**
@@ -2442,8 +2752,11 @@ Late morning (11:31:50) in the Mercury Building Subway Level, Denver—the humid
 > 👤 **Player:**
 > *"THINK:Catwalk Flank (Stealth) - Slip into the upper maintenance vents to reach a blind spot above The Cleaner, preparing a sneak attack while he&#x27;s focused on your last known position."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Mercury Building Subway Level, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (11:31)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | Conditions: Focused**
@@ -2453,8 +2766,11 @@ You pause as the low-frequency rumble of the impending collapse vibrates through
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dual-Threat Protocol (Synergistic) - Remotely trigger the building&#x27;s emergency fire suppression (Hacking) to create a visual and acoustic barrier while you execute the catwalk flank.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Mercury Building Subway Level** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (11:32)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 81850/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active | Exhaustion: 0 | Inspiration: No**
@@ -2480,8 +2796,11 @@ The muzzle flashes are brief blossoms in the mist. The rounds enter the Cleaner'
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sterling Scrub - Utilize the terminal at the support pillar to execute the final data-wipe of your father&#x27;s involvement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Mercury Building Subway Level, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (11:32)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 83250/85000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Smartwatch: Active | Windbreaker: Sig-Zero** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2501,8 +2820,11 @@ You look up at him, the 'Sarah Miller' mask sliding back into place as you offer
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Ghost Vanish (Synergistic) - Coordinate a smoke-screen extraction for Odell and Morales via the lobby while you slip through the vents to the subway, reuniting at the secondary rally point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Secondary Rally Point (Secure Basement), Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (11:47)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2542,8 +2864,11 @@ A sense of calm settles over the realm. Your clinical precision has secured a te
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Debrief via Comms - Accept the Director&#x27;s call and present the &#x27;logical&#x27; summary of the mission, reinforcing your image as a high-IQ but socially shy asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Secure Basement Rally Point, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2565,8 +2890,11 @@ You lower the tablet as the line goes dead, your cheeks flushing with a genuine 
 > 👤 **Player:**
 > *"narrate a scene where the team thinks about next steps to locate the remaining 3 killers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Secondary Rally Point (Secure Basement), Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2584,8 +2912,11 @@ You look down at the tablet, your 200 IQ brain already filtering out the noise o
 > 👤 **Player:**
 > *"narrate the 3 serial killers discussing recent events (without us present) and planning next steps with the overture organization"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **The Glass House (Penthouse), Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Ready | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2607,8 +2938,11 @@ Red John (Lvl 13+) nods, his finger tracing a smiley face into the condensation 
 God Mode:
 lets add a new plot arc. the overture knows about me and the 100+ i've killed (since i killd more people) and they actually want to recruit me too as a side objective
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Secondary Rally Point (Secure Basement), Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Heat: 565**
@@ -2624,8 +2958,11 @@ Admin Update: New Plot Arc 'The Invitation' integrated. The Overture is now offi
 > 👤 **Player:**
 > *"narrae new dialog with serial killers as they wonder how to recruit me, and they compare their kill counts to mine, and act amused that the greatest serial killer is on the other side. lets have killers lower level than me intimidated but nothigher level ones"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Denver Performing Arts Complex** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Masked Level: 7 | Heat: 565**
@@ -2645,8 +2982,11 @@ Spector (Lvl 7) flinches as a pipe groans in the ceiling. The 'Belfast Strangler
 > 👤 **Player:**
 > *"narrate how hannibal as a plan. if they just expose me, ill go back to being a vigilante and probably just keep fighting them. They need to create conditions where i get naturally exposed and the FBI turns against me. Then give me more and more fodder to kill to unlock my latest potential and let me realize my real hunger. Lets assume I actually am a serial killer too, i just dont know it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Denver Performing Arts Complex** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 (Temp: 0) | XP: 85950/100000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2666,8 +3006,11 @@ Inside the Boettcher hall, the silence is absolute, save for the rhythmic *snick
 > 👤 **Player:**
 > *"narrate a scene where i get an invitation and ask the team what to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Secure Basement - Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/10, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2696,8 +3039,11 @@ Bex Henderson (Lvl 8) watches your reaction, her profiler's gaze tracing the mic
 > 👤 **Player:**
 > *"propose i go to the invitation and they counter ambush"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Secure Basement - Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Masked Lvl: 5** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Uncanny Dodge: Ready, Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Focused, Zero-Signature Active | Heat: 575 | Inspiration: Yes**
@@ -2726,8 +3072,11 @@ Jacob watches you, his silence no longer skeptical but intensely focused. He see
 > 👤 **Player:**
 > *"lets have otehrs react narratively to oliver slip. I admit my heritage and apologize for the deception, i say i wanted people to assess me as myself and not by a rich faily, then i say many will die if i dont do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Secure Basement, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 85,950/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -2743,8 +3092,11 @@ Oliver Odell (Lvl 8) stares at you, his jaw tight. For a long, agonizing second,
 > 👤 **Player:**
 > *"explain I'm also a bastard child and not the heir, but then people have internal thoughts and they realize based on my capabilities I probably am the chosen child"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Secure Basement, Denver** &nbsp;|&nbsp; ⏳ **2 10, 2025 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 81/81 | XP: 86,100/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Heat: 575** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2764,8 +3116,11 @@ Oliver Odell (Lvl 8) remains silent, but he steps closer to you, his shadow a ph
 > 👤 **Player:**
 > *"lets assume bex and shane and everyone is here. narrate their reactions too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Denver - Secure Basement** &nbsp;|&nbsp; ⏳ **February 10, 2025 CE (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Heat: 565, Masked Lvl: 7** &nbsp;|&nbsp; ⚠️ **Focused | Exhaustion: 0 | Inspiration: No**
@@ -2787,8 +3142,11 @@ You feel the familiar, genuine flush of shyness rising as the ultimatum hits. Th
 God Mode:
 go through all my wins and make sure i got proper exp, but dont double count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Denver Performing Arts Complex** &nbsp;|&nbsp; ⏳ **February 10, 2025 (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp**
@@ -2810,8 +3168,11 @@ XP Audit Complete. Your current total of 85,950 XP is correct and reflects all m
 God Mode:
 nothing missed?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Denver Performing Arts Complex (Perimeter)** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Masked Level: 7 | Heat: 565**
@@ -2832,8 +3193,11 @@ All systems are green. The board is set for the Denver Symphony encounter.
 > 👤 **Player:**
 > *"accept the bait role, everyone should be very impressed and jacob should gain even more respect"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Secure Basement, Denver** &nbsp;|&nbsp; ⏳ **2 10, 2025 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 86,250/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/10, Spells: L1 3/4, L2 1/2, Uncanny Dodge: Available, Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Focused | Exhaustion: 0 | Inspiration: No**
@@ -2851,8 +3215,11 @@ He is physically blocking your path to the equipment, his devotion to your safet
 > 👤 **Player:**
 > *"press logical argument and utilize jacob and appeal to bex too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Denver Secure Basement** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/10, Spells: L1 3/4, L2 1/2, Sneak: 3d6, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2879,8 +3246,11 @@ Oliver's jaw works in a hard, grinding rhythm. He looks at your porcelain face, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Traditional Entrance - Walk through the main lobby doors alone, utilizing Red John&#x27;s love for theater to draw him out into the open.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 86,250/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Ready | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active | Masked Level: 7 | Heat: 575**
@@ -2896,8 +3266,11 @@ In your ear, the static of Jacob's (Lvl 7) jammer begins to hiss. The window is 
 > 👤 **Player:**
 > *"Analyze the art to delay as long as possible then fully drop my mask. I'm socially comfortable Among killers. Narrate their reactions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:47)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 81/81 | XP: 86,450/100,000** &nbsp;|&nbsp; ✨ **HD: 9/10, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -2917,8 +3290,11 @@ You gain **500 XP** for the tactical analysis and the psychological suppression 
 > 👤 **Player:**
 > *"Wait for their reply. Let's give them some dialog before combat starts. They try to subtly entice me to join but they aren't too obvious yet. They imply I'm a serial killer too and that who else would kil over 100"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:48)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 86,950/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Uncanny Dodge: Available** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active | Mask Dropped (Clinical Focus)**
@@ -2938,8 +3314,11 @@ In your ear, Jacob’s voice is a jagged spike of reality. "Handshake confirmed.
 God Mode:
 Why are peoples lives at risk again?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:47)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp**
@@ -2964,8 +3343,11 @@ Lives are at risk because Red John has created a situation where standard tactic
 > 👤 **Player:**
 > *"Let them roll a persuasion check on me. They try to get me a to admit I'm more comfortable around them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Denver Performing Arts Complex - Boettcher Hall** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (12:48)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 81/81 | XP: 85,950/100,000 | Conditions: Focused** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Action Surge: 1/1, Inspiration: Yes**
@@ -2985,8 +3367,11 @@ You look at Hannibal, then up toward the shadows where the theatrical killer hid
 > 👤 **Player:**
 > *"Challenge Hannibal elegance and signal to my team to wait and I can draw this out longer. I want them to wait for the perfect time to sabotage so hostages are safe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:49)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 81/81 | XP: 86,450/100,000 | Heat: 615** &nbsp;|&nbsp; ✨ **L1: 3/4, L2: 1/2, HD: 9/9, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active, Umbral Sight | Inspiration: Yes**
@@ -3006,8 +3391,11 @@ In your ear, Jacob's voice is a ghost of a whisper. "Signal received. Ghosting a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deconstruct Red John&#x27;s &#x27;Theater&#x27; - Shift the critique to Red John&#x27;s need for an audience, labeling it as a psychological weakness that Hannibal would never permit in his own work.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (12:54)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Conditions: Zero-Signature** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 (Reaction) | Heat: 615**
@@ -3034,8 +3422,11 @@ In your ear, Jacob Hassani's (Lvl 7) voice is a ghost of a whisper. "Handshake a
 > 👤 **Player:**
 > *"Taunt them about their overture masters. say they pull. the strings and control hostages and overture controls them. try to get more intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active | Exhaustion: 0 | Inspiration: No**
@@ -3062,8 +3453,11 @@ In your ear, Jacob’s (Lvl 7) voice is a ghost of a whisper. "Signal ghosting a
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 101st Audit - Challenge Red John to explain the &#x27;Overture&#x27; encryption logic, implying he doesn&#x27;t actually understand the tools he&#x27;s using.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Denver Performing Arts Complex - Boettcher Hall** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 86,450/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Focused, Zero-Signature | Exhaustion: 0 | Inspiration: No**
@@ -3081,8 +3475,11 @@ In your ear, Jacob’s (Lvl 7) voice is a triumphant, high-pressure whisper. "Si
 > 👤 **Player:**
 > *"do a scene where hannibal tells red john to calm down and not let me get to him. He compliments me, and says imagine every day is like this. I can be among my own kind and kill as I please. let him roll persuasion. I do have morals so I wouldn't join him but emotionally i might be tempted if he wins the roll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 86,450/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3102,8 +3499,11 @@ In your ear, Jacob's voice is a frantic, distant buzz. "Sterling, pulse spike! Y
 God Mode:
 Let's make Hannibal level 20 secretly. He's an end boss but even overtire doesn't know his true power
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Boettcher Concert Hall** &nbsp;|&nbsp; ⏳ **February 10, 2025 (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3115,8 +3515,11 @@ I have also integrated your internal predatory identity: your 100+ kills were no
 God Mode:
 Make Hannibal a silver tongue bard variant
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Denver Performing Arts Complex** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Prodigy | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Focused, Sterling Mask (Sarah Miller) | Exhaustion: 0 | Inspiration: No**
@@ -3135,8 +3538,11 @@ This change aligns his 'Chesapeake Ripper' elegance with a mechanical framework 
 God Mode:
 Change this pulse monitor people can't monitor my pulse and no one is paying super close attention to my reactions since they're focused on saving I g hostage a
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **[Zero-Signature Active] | Exhaustion: 0 | Inspiration: No**
@@ -3153,8 +3559,11 @@ I have updated the game state to reflect that Sariel's biometrics are now comple
 > 👤 **Player:**
 > *"Let me roll to asssess Hannibal. If I do I try to put his level 20 nature to John to make John feel insecure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (13:01)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 85,950/100,000** &nbsp;|&nbsp; ⚠️ **Normal | Inspiration: No**
@@ -3180,8 +3589,11 @@ In your ear, Jacob Hassani's (Lvl 7) voice is a triumphant, high-pressure whispe
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Overture&#x27;s Favorite - Suggest that the Overture only funds Red John to keep Hannibal&#x27;s true work off the Bureau&#x27;s radar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:01)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Focused, Zero-Signature | Exhaustion: 0 | Inspiration: No**
@@ -3197,8 +3609,11 @@ In your ear, Jacob Hassani's (Lvl 7) voice is a triumphant, high-pressure hiss. 
 > 👤 **Player:**
 > *"Ask red John if he's a fool. Truly compare himself to Hannibal. Does he measure up? Why is Hannibal reporting to him? Maybe the overture is actually Hannibal's organization and he's playing around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Denver Performing Arts Complex - Boettcher Hall** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:02)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Rogue/Ranger | HP: 81/81 | XP: 86,450/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3216,8 +3631,11 @@ In your ear, Jacob Hassani's (Lvl 7) voice is a triumphant, high-pressure hiss. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The 101st Orchestration (Synergistic) - Signal Jacob to initiate the burn while you personally drop Red John from the rafters with a trajectory shot—utilizing the EMP&#x27;s acoustic surge to mask your muzzle flash.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:02)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Special Agent | HP: 81/81 | XP: 86,650/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Uncanny Dodge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3239,8 +3657,11 @@ In your ear, Jacob’s voice is a roar of relief. "Detonators neutralized! The g
 God Mode:
 I see level up am I level 11 now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Denver Performing Arts Complex** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:02)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Focused | Masked Level: 9 | Heat: 660**
@@ -3263,8 +3684,11 @@ Your stats are now fully synchronized.
 God Mode:
 Prioritize hostage extraction and tell my team not to engage Hannibal. We won't win. Let's narrate an outcome where Hannibal disappears and kills one member of my team to prove his power.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Denver Performing Arts Complex** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:02)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3281,8 +3705,11 @@ Shane's death serves as the clinical proof of Hannibal's apex status, ensuring t
 God Mode:
 Give me level 12 asi and process level up. I want int +2 and ensure I am an it based spell caster
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Denver Performing Arts Complex** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:02)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3304,8 +3731,11 @@ All mechanical systems are now synchronized for Level 12. Intelligence is now ma
 > 👤 **Player:**
 > *"I attack with my full powers the other serial killer who's still alive and don't engage Hannibal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (13:02)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 1/2 | Sneak Attack: 3d6 | Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active | Exhaustion: 0 | Inspiration: No**
@@ -3327,8 +3757,11 @@ You look at Oliver, the 'Sarah Miller' mask sliding back into place as you allow
 God Mode:
 Add anew plot arc. I'm actually Hannibal's grand daughter and my mother was his daughter who had sex with my father to try to produce a super child. Gradually reveal it later. Also Hannibal has actually killed thousands of people
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:02)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3347,8 +3780,11 @@ The world remains frozen in the immediate aftermath of the EMP and Shane's death
 > 👤 **Player:**
 > *"Surgical cleanup and narrate a scene where I am genuinely sad about Shane. I explain Hannibal is far stronger than we thought"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (13:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/12, Spells: L1 3/4, L2 1/2, Uncanny Dodge: Ready, Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3370,8 +3806,11 @@ Jacob Hassani (Lvl 7) descends from the mezzanine, his rifle slung low and his f
 God Mode:
 I'm now self confident since I'm level 12 remember
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Boettcher Concert Hall, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (13:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Confident (Threshold Met)**
@@ -3390,8 +3829,11 @@ I have updated the character description, directives, and custom state flags to 
 > 👤 **Player:**
 > *"Let's assume hasani is my supporter now whatever my origins. He says don't let Hannibal's words get to me I'm not an evil person and i risked my life and we saved 200 hostages"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Denver Performing Arts Complex - Perimeter Secure** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 101,650/120,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Sneak Attack: 3d6 | Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3411,8 +3853,11 @@ Jacob blinks, momentarily taken aback by the sheer, icy confidence in your tone.
 > 👤 **Player:**
 > *"Redo that narrative. I genuinely care about people so I wouldn't say that. Don't make me some robot and I'm sad about Shane"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Boettcher Concert Hall (Exterior)** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3434,8 +3879,11 @@ Across the lot, Bex Henderson (Lvl 8) is watching you. She notes the way you're 
 > 👤 **Player:**
 > *"narrate a scene where bex and everyone consoles me. despite my abilities i am a teenager and shane's death is the first friend i've actually lost. to cheer me up hasani decides to break protocol and introduce my to the hostages, although doesnt use my real name, to show me the lives I've saved and how it was still a win"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Boettcher Concert Hall Perimeter, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Ready | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Grieving, Analytical | Inspiration: No**
@@ -3455,8 +3903,11 @@ You stand there, your 200 IQ brain suddenly unable to find the equation for the 
 > 👤 **Player:**
 > *"Add more dialog. Let's assume the hostages were able to see me stalling Hannibal and red John. They try to encourage me and tell me Hannibal was just trying to get to me and I'm not evil, I'm a superhero. They say sorry about Shane"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Denver Performing Arts Complex - Triage Tent** &nbsp;|&nbsp; ⏳ **February 10, 2025 (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **Spell Slots: L1 3/4, L2 1/2 | HD: 12/12** &nbsp;|&nbsp; ⚠️ **Grieving, Post-Mission Focus | Inspiration: Yes**
@@ -3487,8 +3938,11 @@ Jacob gives your shoulder a firm squeeze, looking at the Bureau agents entering 
 > 👤 **Player:**
 > *"Let's add another scene. One of the hostages is actually someone i saved before as a vigilante and knows my history. They give me a secret smile and subtly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Boettcher Hall Triage Area** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Agent | HP: 92/92 | XP: 86,200/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3517,8 +3971,11 @@ Bex’s eyes immediately flicker from your face to the man and back. Her pupils 
 > 👤 **Player:**
 > *"Narrate a scene where Eli Vance comes up and thanks me for saving his life and says I eat for free for life at his shop. Other people offer me similar things and praise me for my bravery. Eli doesn't reveal he already knows me."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Boettcher Concert Hall Triage Perimeter** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 86,200/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3547,8 +4004,11 @@ Bex Henderson (Lvl 8) watches from the shadow of the command SUV. She marks the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Normalize the Bond - Publicly tell Eli that his shop sounds like the perfect place for a post-op meal, treating him like any other grateful citizen to dilute the recognition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Boettcher Concert Hall Perimeter** &nbsp;|&nbsp; ⏳ **February 10, 2025 (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 85,950/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3576,8 +4036,11 @@ You gain **150 XP** for successfully normalizing the social anomaly with Eli Van
 > 👤 **Player:**
 > *"Let's assume I had a title "Blood angel" but innocent people use it with reverence from the streets and criminals are afraid. Most people don't actually know who I am but eli and a few other hostages do know me. They privately discuss me where no one else can see and wonder how they can help me. They say I carry a huge weight ever since I was a kid"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Boettcher Concert Hall triage perimeter** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,200/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Cunning Action: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3606,8 +4069,11 @@ Jacob Hassani (Lvl 7) gives your shoulder a final, grounding squeeze before movi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reference Sterling Philanthropy - Casually mention that Sterling Global has heavily funded South Side St. Louis redevelopment, implying Eli Vance recognizes you from corporate PR rather than the streets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Boettcher Concert Hall Triage Perimeter** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger Prodigy | HP: 92/92 | XP: 86,100/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Available** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -3635,8 +4101,11 @@ You gain **150 XP** for successfully normalizing the social anomaly with Eli Van
 > 👤 **Player:**
 > *"Narrate us going to Eli restaurant and we honor shane"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **The Rusty Spur (Private Back Room)** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 86,100/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3671,8 +4140,11 @@ You gain **150 XP** for the emotional navigation of Shane's memorial and the Ste
 > 👤 **Player:**
 > *"Redo narrative eli shouldn't look at me with terror"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **The Rusty Spur (Private Room), Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,100/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3707,8 +4179,11 @@ You look at Bex, your Level 12 confidence acting as a surgical shield. "The manu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defend Shane&#x27;s Humanity - Challenge Arthur&#x27;s &#x27;regrettable variable&#x27; comment. It cements your bond with the team and makes you look less like the clinical &#x27;weapon&#x27; Bex is profiling.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **The Rusty Spur (Private Back Room)** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 86,100/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Ready | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3728,8 +4203,11 @@ You gain **150 XP** for the successful moral stand and strengthening the team's 
 > 👤 **Player:**
 > *"Engage in small talk with my father. He asks me about the missions and how I'm doing. From his dialog it'll be clear in the favorite child and inheritor even if I don't realize it. I'm genuinely fond of him but also resent how he's always focused on money and power, but he's not truly an evil person vs a power player"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **The Rusty Spur - Private Sanctuary** &nbsp;|&nbsp; ⏳ **February 10, 2025 (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,100/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3749,8 +4227,11 @@ You feel the weight of his words—the heavy, unspoken declaration that you, the
 > 👤 **Player:**
 > *"Redo narrative make it more subtle shown through dialog and not explicit dialog and then narrate everyone's reactions. Narrate their internal thoughts and dialog. They realize I am like royalty even if I normally act modest. Despite being level 12 I'll still act polite and modest even if I'm confident now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **The Rusty Spur, Private Sanctuary** &nbsp;|&nbsp; ⏳ **February 10, 2025 (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 86,100/100,000** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Slots (Used/Max): L1: 1/4, L2: 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3781,8 +4262,11 @@ Across the table, Jacob Hassani (Lvl 7) and Jennifer Morales (Lvl 6) watch the e
 > 👤 **Player:**
 > *"Probe for Hannibal intelligence and ask for resources to gain more. Say Hannibal is everything. After enough interactions I realized he's the leader of overture. If we can kill him, since capture isn't realistic, we will save the country"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **The Rusty Spur (Private Room)** &nbsp;|&nbsp; ⏳ **February 10, 2025 (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 86,100/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -3809,8 +4293,11 @@ Arthur slowly exhales a plume of smoke, looking at you with a terrifying, soulfu
 > 👤 **Player:**
 > *"Let's narrate everyone's internal thoughts. They notice I'm comfortable around my father and we have similar mannerisms. My father is also a famous genius although he doesn't knew combat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **The Rusty Spur (Back Room), Cheyenne** &nbsp;|&nbsp; ⏳ **February 10, 2025 (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Confident, Zero-Signature Active | Inspiration: No**
@@ -3841,8 +4328,11 @@ Arthur smiles—a thin, genuine expression of pride that chills the air more tha
 > 👤 **Player:**
 > *"Narrate everyone's internal reaction to me straight up saying we should assassinate Hannibal and ignoring the law and my father agreeinf"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **The Rusty Spur - Private Back Room** &nbsp;|&nbsp; ⏳ **February 10, 2025 (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,250/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Sneak Attack: 3d6 | Uncanny Dodge: Available** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3864,8 +4354,11 @@ Inside the room, the air feels as though it has been sucked out of a vacuum. **J
 > 👤 **Player:**
 > *"I retire to my apartment which is very fancy and worth like millions. I am alone. My mother enters with Hannibal. They don't tell me I'm the granddaughter but they say it's time to talk. My mother is evil and I hate her. I see her like once every 5 years"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,400/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Available | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3900,8 +4393,11 @@ You feel the familiar, genuine pulse of hatred for the woman who abandoned you t
 > 👤 **Player:**
 > *"Wait to see what they say. I don't bother to raise my guard since Hannibal could instantly kill me if he wanted so might as well relax and see what's happening. Hannibal acts amused and notices my "elegance" and says not afraid"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,400/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -3932,8 +4428,11 @@ He smiles, a thin, predatory expression that carries the weight of thousands of 
 > 👤 **Player:**
 > *"Pour myself a drink. Ask my mother what she wants. Say now what Hannibal wants but what does she have to do with him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Ready | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Focused | Exhaustion: 0 | Inspiration: No**
@@ -3971,8 +4470,11 @@ Lydia’s hand tightens on her glass, the ice clinking with a sharp, frantic rhy
 > 👤 **Player:**
 > *"Ask what she means."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,400/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4005,8 +4507,11 @@ Hannibal Lecter (Lvl 20) offers a slow, elegant incline of his head, his dark ey
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Locket - Use your 200 IQ to visually scan the locket for microscopic indicators of Overture tech or genetic data.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **2 10, 2025 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,400/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4042,8 +4547,11 @@ Hannibal Lecter (Lvl 20) lets out a low, vibrant sound of genuine delight, his h
 > 👤 **Player:**
 > *"Mock my mother. Ask her why she's acting like she has any agency when she was just biological material"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 85,950/100,000 | Gold: 1,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 3/4, L2 1/2 | Arrows: 20 | 9mm: 15** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active | Exhaustion: 0 | Inspiration: Yes**
@@ -4080,8 +4588,11 @@ Hannibal Lecter (Lvl 20) lets out a soft, rhythmic sound of genuine, terrifying 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate the Locket Key - Utilize your tactical smartwatch to bridge the locket&#x27;s array while they are distracted by the social friction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **2025 February 10, 21:25:00** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 86,400/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/12, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4115,8 +4626,11 @@ On your watch, a string of hexadecimal code scrolls in a faint, green blur. *Han
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Node Download - Force a high-speed data dump of the Overture archives while Lydia is reeling.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 86,400/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Ready | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4151,8 +4665,11 @@ Lydia (Lvl 12) lets out a choked, uncomprehending sound, her glass shattering on
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Mother - Force the broken Lydia to explain the &#x27;Project&#x27; details before Hannibal can stabilize her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 87,650/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4189,8 +4706,11 @@ Hannibal smiles, a thin, genuine expression of pride that chills the room more t
 > 👤 **Player:**
 > *"Ask them why they gave me the locked. I now have lots of info on overture"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 85,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4216,8 +4736,11 @@ Hannibal smiles, a thin, genuine expression of pride that chills the room more t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Vesalius Journal - Utilize the freshly dumped data to cross-reference the &#x27;Vesalius&#x27; name with Hannibal&#x27;s historical kills to find his true objective.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Sterling-Tier Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger Prodigy | HP: 92/92 | XP: 87,950/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Signature Dampening: Active** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4237,8 +4760,11 @@ You feel the weight of the data—the names of thousands who died so your math c
 > 👤 **Player:**
 > *"Let's assume I realize Hannibal is my grandfather from this. I don't react normally I just say I guess that makes sense. Then I ask them both why are they so confident they can recruit me. I do have morals and maybe they messed up designing me. Rather than a normal person I just instantly accept the new info about myself and I'm actually more comfortable around people like Hannibal or my mother than normal people because I don't need to mask"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 87,950/100,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4256,8 +4782,11 @@ On your wrist, your tactical smartwatch vibrates with a sharp, high-priority pul
 > 👤 **Player:**
 > *"Ignore the call and say why is he so confident about it? Then let's let Hannibal roll his super persuasion with glibness and everything against me. He asks me when do i truly feel alive. When killing or when victims are happy and thanking me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue | HP: 92/92 | XP: 87,950/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4286,8 +4815,11 @@ He leans in, his dark eyes shimmering with the weight of thousands of lives. "Wh
 > 👤 **Player:**
 > *"Narrate my reactions let's assume he starts getting to me now. I already realize he saw my reaction so I'm forced to admit i love killing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 101,650/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Available | Sneak Attack: 3d6** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -4316,8 +4848,11 @@ Hannibal Lecter (Lvl 20) offers a slow, elegant incline of his head, his eyes sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query the Next Movement - Ask Hannibal what the Overture&#x27;s next objective is, now that &#x27;The Prototype&#x27; is self-aware.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 102,300/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4346,8 +4881,11 @@ Hannibal doesn't look at her. He simply offers you a thin, surgical smile. "The 
 > 👤 **Player:**
 > *"Narrate another persuasion attempt where Hannibal attempts to corrupt me. I start to get uncomfortable becuse i start doing the Math and realize he's right I am a serial killer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 102,300/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Uncanny Dodge: Available** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4379,8 +4917,11 @@ Hannibal smiles, a thin, surgical expression of pride that feels more intimate t
 > 👤 **Player:**
 > *"Let Hannibal roll again. He says I felt uncomfortable around normal people before not lole a normal shy person but because a part of me knew i was a serial killer. And the normal people gave me cognitive dissonance becuse it gave me a clue. Most shy people aren't comfortable around evil people or violent criminals. I am comfortable around my own kind"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 102,300/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Identity Realization, High Heat | Exhaustion: 0 | Inspiration: No**
@@ -4410,8 +4951,11 @@ You gain **250 XP** for the breakthrough in your internal killer identity.
 > 👤 **Player:**
 > *"Take a minute to process and accept this. It's very impressive that I do it this fast because most people would have an identity crisis. I then reply that yes I am a serial killer but i can still be moral. A human being is not just base emotional and instinct. They can still believe in higher concepts even if they crave killing. I was simply born with these evil desires but I still have free will."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:41)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 102,300/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Identity Realization | Exhaustion: 0 | Inspiration: No**
@@ -4437,8 +4981,11 @@ You gain **250 XP** for the rapid psychological integration and the assertion of
 > 👤 **Player:**
 > *"Narrate hannibal amusement. He says it's true about morals but people change. I will kill thousands in the name of justice. Perhaps at some point the blood will speak to me more than justice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:42)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 102,550/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/12, Spells: L1 3/4, L2 1/2, Uncanny Dodge: Available** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4464,8 +5011,11 @@ For a moment, the Level 20 weight of his Silver Tongue (Eloquence) presses again
 God Mode:
 Let's assume Hannibal still has a master plan to corrupt me. Thenmorals mean I can control myself which is a key skill for killers but he has a plan to turn me evil
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:42)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 102,550/120,000 | Gold: 10gp**
@@ -4484,8 +5034,11 @@ The world remains frozen at 21:42:00. Time has not advanced.
 > 👤 **Player:**
 > *"Turn to my mother. Ask her how it feels to be irrelevant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:44)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 102,550/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4516,8 +5069,11 @@ On your wrist, the tactical smartwatch vibrates with a frantic, rhythmic overrid
 > 👤 **Player:**
 > *"Roll a Hannibal corruption check. He says i seem to enjoy hurting my mother. What justice does that serve. This forces me to admit my sadism"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:44)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 102,550/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4548,8 +5104,11 @@ Hannibal smiles, a thin, surgical expression that feels like a coronation. "A ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Overture Hierarchy - Ask Hannibal who he answers to within the Overture, testing if he truly is the &#x27;Architecture&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 102,550/120,000 | Intelligence: 20 | Masked Level: 9** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 1/2, Inspiration: No, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Level 12 Confidence Active | Biometric Lockdown**
@@ -4585,8 +5144,11 @@ He smiles, a thin, surgical expression of pride that reflects in your own unblin
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sterling Override - Answer the watch and use your Level 12 authority to tell Arthur the &#x27;breach&#x27; was a false positive from the Overture dump.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Sterling-Tier Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 102,750/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Zero-Signature Active | Exhaustion: 0 | Inspiration: No**
@@ -4615,8 +5177,11 @@ The line goes dead. Silence returns to the penthouse, save for the rhythmic, exp
 > 👤 **Player:**
 > *"Hannibal rolls another persuasion check. He's been following my kills. He notes half of them I didn't need to make the kill and could've captured. He shows me videos overture took of my smiling face a few times. This does unsettle me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (21:51)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 86,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/12, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **[Undetectable Biometrics] | Exhaustion: 0 | Inspiration: No**
@@ -4651,8 +5216,11 @@ Lydia (Lvl 12) watches you from the shadows, her voice a hollow, jagged rasp. "H
 > 👤 **Player:**
 > *"Admit that I loved it but I still serve a higher purpose. I say I saved future people. Hannibal laughs and says why was I smiling then or why didn't I cripple them. I am forced to admit he's right. Hannibal says imagine a life where I torture myself to fit in vs imagine a life where I embrace my true nature. He says he had even more kills than me at my age but in a way he has less potential because he doesn't have  my discipline. He says he wants an inheritor to see the great work of his blood continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 102,750/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/12 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Ready | Assassinate: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4681,8 +5249,11 @@ Lydia (Lvl 12) watches from the chair, her breath a shallow, broken rhythm. Hann
 > 👤 **Player:**
 > *"Let Hannibal roll another persuasion check and this really starts turning me on and I realize I'm forced to admit it because it's too obvious. He says imagine a world of blood. Millions or billions dead or tortured by my hand. They can still be "criminals" if that's how I want to express my style. He describes it in Vivid detail. The world can become my murder paradise and I can go further than him due to my discipline and abilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Sterling-Tier Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger Prodigy | HP: 92/92 | XP: 102,750/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4714,8 +5285,11 @@ You gain **500 XP** for the total psychological integration and the admission of
 > 👤 **Player:**
 > *"Let's assume i admit I would emotionally love but I will hold firm to my morals and see him in Baltimore. He laughs and withdraws with my mother"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Sterling-Tier Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 103,750/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4735,8 +5309,11 @@ They vanish into the dead zone of your security array, leaving the air tasting o
 > 👤 **Player:**
 > *"Narrate Hannibal taking to my mother without me. Hannibal tells her not to fret, not everyone will shape the world and she knew she was making the super child. He explains that my sadism is how I express my love for her and hate is the other side of love. The mental torture I do is no different than a big hug from a normal daughter r"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Armored Limousine, Denver Streets** &nbsp;|&nbsp; ⏳ **Month 2 Day 10, 2025 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 103,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/12, Spells: L1 3/4, L2 1/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4758,8 +5335,11 @@ Lydia lets out a soft, broken sob, turning her head away. Hannibal simply leans 
 > 👤 **Player:**
 > *"Hannibal laughs. He says your daughter would keep you close and "torture" you forever. That's the way our family does intimacy. But we've succeeded. She realizes what she is. No true alcoholic can keep drinking and avoid the consequences. And a super serial killer can't keep killing without changing. She loved the murder paradise idea"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Sterling Global Limousine (En Route)** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 103,250/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 3/4, L2 1/2 | Uncanny Dodge: Available | Cunning Action: Available** &nbsp;|&nbsp; ⚠️ **Self-Aware, Disciplined | Exhaustion: 0 | Inspiration: No**
@@ -4779,8 +5359,11 @@ Lydia lets out a soft, broken sob, turning her head away. Hannibal simply leans 
 > 👤 **Player:**
 > *"Analyze all the data and then distribute to my father and team to dismantle overture networks. Explain the Baltimore mission"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Sterling-Tier Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 10, 2025 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 103,250/120,000 | Gold: 1,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 1/2, Sneak Attack: 3d6, Cunning Action: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -4813,8 +5396,11 @@ Arthur Sterling (Lvl 18) steps through the primary seal as it hisses open. He st
 > 👤 **Player:**
 > *"Long rest and narrate a scene where I frantically masterbate and orgasm multiple times in my bedroom. The murder paradise idea is stuck in my head and moving me to evil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Sterling-Tier Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 11, 2025 (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 103,550/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/2 | Cunning Action: Available** &nbsp;|&nbsp; ⚠️ **Long Rest Completed | Exhaustion: 0 | Inspiration: No**
@@ -4836,8 +5422,11 @@ Dawn (06:15:00) breaks over the Denver skyline, a cold, clinical grey. You wake 
 God Mode:
 Change this ting about Lydia. She's gone now and my father didn't see her
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Sariel's Penthouse, Denver** &nbsp;|&nbsp; ⏳ **February 11, 2025 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 103,550/120,000 | Gold: 10gp**
@@ -4852,8 +5441,11 @@ Administrative Retcon Complete. The timeline has been adjusted regarding Lydia's
 > 👤 **Player:**
 > *"Time skip for a few weeks before Baltimore. Let's assume Hannibal has engineered situations where I'm forced to kill lots of people because overture forces and entrenched as we take out their bases and either I kill or my team or other innocent die. I gain 20 more kills. I realize he leaked this overture stuff to feed me kills"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Private Airstrip, Sterling Global (En route to Baltimore)** &nbsp;|&nbsp; ⏳ **March 04, 2025 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 118,550/120,000 | Gold: 1,500gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 2/2, Uncanny Dodge: Ready** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: Yes**
@@ -4869,8 +5461,11 @@ Oliver Odell (Lvl 8) stands near the boarding ramp of the Sterling-Tier private 
 God Mode:
 Give me some more spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Sterling Global Airstrip, Denver** &nbsp;|&nbsp; ⏳ **March 4, 2025 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Special Agent | HP: 92/92 | XP: 118,550/120,000 | Gold: 10gp** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4886,8 +5481,11 @@ Administrative Update: Sariel's tactical spell list has been expanded with high-
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sterling Pincer (Synergistic) - Jacob leads the underground breach as a diversion while you and Odell execute the orbital drop to secure the archives.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Sterling Global Private Airstrip, Denver** &nbsp;|&nbsp; ⏳ **March 4, 2025 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 118,550/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 2/2, Adrenaline: 1/1, Heat: High (Masked Lvl 11)** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4929,8 +5527,11 @@ You gain **200 XP** for the successful tactical coordination of the Sterling Pin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Pincer Execution (Synergistic) - Use your tactical smartwatch to synchronize Jacob&#x27;s breach with your drop, ensuring total sensory overload for the Overture.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Baltimore Old Hospital - Rooftop/Archives** &nbsp;|&nbsp; ⏳ **March 4, 2025 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 118,750/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/2 | Adrenaline: 1/1 | Thermal Decoy: 1/1** &nbsp;|&nbsp; ⚠️ **Umbral Sight, Confidence Active | Exhaustion: 0 | Inspiration: No**
@@ -4963,8 +5564,11 @@ You gain **200 XP** for the successful tactical coordination of the Sterling Pin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Automated Audit (Synergistic) - Odell holds the stairwell while you use your smartwatch to bridge the server room remotely while physically searching the lab.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Baltimore Old Hospital - Archives/Lab** &nbsp;|&nbsp; ⏳ **3 4, 2025 DR (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Prodigy | HP: 92/92 | XP: 119,350/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -4992,8 +5596,11 @@ You gain **600 XP** for the masterful execution of the Automated Audit and secur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Sanitization Team - Utilize Umbral Sight to ambush the mercs at the elevator bank and retrieve the physical data-cores they are carrying.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Baltimore Old Hospital - Fourth Floor Elevator Bank** &nbsp;|&nbsp; ⏳ **March 4, 2025 DR (04:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rogue/Ranger | HP: 92/92 | XP: 119,350/120,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/2 | Sidearm Ammo: 17/20 | Pistol Ammo: 15/15** &nbsp;|&nbsp; ⚠️ **Focused, Umbral Sight | Exhaustion: 0 | Inspiration: No**
@@ -5013,8 +5620,11 @@ The first round enters the lead merc's visor; the second catches the core-carrie
 God Mode:
 process level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Baltimore Old Hospital - Rooftop/Archives** &nbsp;|&nbsp; ⏳ **March 4, 2025 DR (04:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Prodigy (Masked: 10) | HP: 99/99 | XP: 120,550/140,000 | Gold: 10gp**
@@ -5035,8 +5645,11 @@ All state variables have been updated to reflect your new power tier. You are no
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the Baltimore hospital audit with your new Level 13 capabilities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Baltimore Old Hospital - 4th Floor Elevator Bank** &nbsp;|&nbsp; ⏳ **March 4, 2025 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Prodigy | HP: 99/99 | XP: 120,550/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3 | Iron Mind: Active | Signature: Zero** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5060,8 +5673,11 @@ You gain **2,100 XP** (3x CR 3 Mercs) plus a **1,050 XP** Player Agency Bonus (+
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow Descent (Stealth) - Use Light-Refractive Camouflage and the elevator shaft cables to bypass the main floor guardians and enter the Cradle undetected.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Baltimore Old Hospital - Elevator Shaft (Sub-level Descent)** &nbsp;|&nbsp; ⏳ **3 4, 2025 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue/Ranger | HP: 99/99 | XP: 123,700/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3 | Adrenaline Overdrive: 1/1 | Thermal Decoy: 3/3 | Light-Refractive Camouflage: 1/1** &nbsp;|&nbsp; ⚠️ **Adrenaline Overdrive (+12 Temp HP), Light-Refractive Camouflage | Exhaustion: 0 | Inspiration: No**
@@ -5079,8 +5695,11 @@ You reach the sub-basement ceiling, braking your descent with a surgical clamp o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Odell Overwatch / Direct Interface (Synergistic) - Odell provides high-ground cover from the cables while you execute the manual bridge under thermal concealment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Baltimore Old Hospital - Sub-Level Cradle** &nbsp;|&nbsp; ⏳ **3 4, 2025 DR (04:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Prodigy | HP: 99/99 | XP: 126,850/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 2/3, Adrenaline: 1/1, Signature Dampening: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -5100,8 +5719,11 @@ Bex Henderson's (Lvl 8) voice crackles in your ear, her tone a mix of relief and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Genetic Integration - Stay at the monolith to download the unredacted files on your &#x27;Super Child&#x27; parameters, risking detection by the drones.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Baltimore Old Hospital - Sub-Level Cradle** &nbsp;|&nbsp; ⏳ **March 4, 2025 DR (04:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue/Ranger | HP: 99/99 | XP: 123,700/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 2/3, Adrenaline Overdrive: 1/1, Signature Dampening: 1/1** &nbsp;|&nbsp; ⚠️ **Invisibility (Light-Refractive Camouflage) | Exhaustion: 0 | Inspiration: No**
@@ -5121,8 +5743,11 @@ Bex Henderson's (Lvl 8) voice is a jagged rasp in your ear. "Data's secured, Ste
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kinetic Shroud Extraction - Utilize &#x27;Kinetic Redirection&#x27; to absorb the imminent nitrogen explosion and use the shockwave to launch yourself toward the upper cables.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Baltimore Old Hospital - The Cradle** &nbsp;|&nbsp; ⏳ **3 4, 2025 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Rogue/Ranger | HP: 99/99 | XP: 125,200/140,000 | Gold: 10gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 3/4, L2 3/3, Active: Light-Refractive Camouflage** &nbsp;|&nbsp; ⚠️ **Invisibility, Light-Refractive Camouflage | Exhaustion: 0 | Inspiration: No**
@@ -5147,6 +5772,8 @@ Bex Henderson (Lvl 8) remains silent for a long three seconds, her profiling of 
 > Resistance Shown: Bex is noting the absolute lack of biological stress markers after a near-lethal explosion.
 
 
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

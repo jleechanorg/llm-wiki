@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (47 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 The Objective: I have a long-running D&D campaign. I am going to paste the chat logs/notes in several chunks. You must read and internalize every detail—mechanics, narrative, loot, NPC relationships, and homebrew rules. Do not summarize yet. Just reply "Acknowledged" after each chunk.
@@ -2706,63 +2717,68 @@ Google Terms of ServiceOpens in a new window
 Your privacy & Gemini AppsOpens in a new window
 Gemini may display inaccurate info, including about people, so double-check its responses.
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Dragon Throne | Kythorn 1, 1492 DR (Evening) | Roleplay |
-| **02** | The Dragon Throne | Kythorn 1, 1492 DR (Evening) | Roleplay |
-| **03** | The Dragon Throne | Kythorn 1, 1492 DR (Evening) | Roleplay |
-| **04** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Evening) | Roleplay |
-| **05** | Unknown |  | Roleplay |
-| **06** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **07** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **08** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **09** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **10** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **11** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **12** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **13** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
-| **14** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:31) | Roleplay |
-| **15** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (20:31) | Roleplay |
-| **16** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:31) | Roleplay |
-| **17** | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (20:31) | Roleplay |
-| **18** | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
-| **19** | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
-| **20** | The Dragon Throne | Kythorn 1, 1492 DR (20:33) | Roleplay |
-| **21** | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
-| **22** | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
-| **23** | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
-| **24** | The Dragon Throne | Kythorn 1, 1492 DR (Night (20:33) | Roleplay |
-| **25** | The Dragon Throne | Kythorn 1, 1492 DR (20:33) | Roleplay |
-| **26** | The Dragon Throne | Kythorn 1, 1492 DR (20:33) | Roleplay |
-| **27** | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
-| **28** | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
-| **29** | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
-| **30** | The Dragon Throne | Kythorn 1, 1492 DR (Night (20:34) | Roleplay |
-| **31** | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
-| **32** | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
-| **33** | The Dragon Throne | Kythorn 1, 1492 DR (20:35) | Roleplay |
-| **34** | The Dragon Throne | Kythorn 1, 1492 DR (20:35) | Roleplay |
-| **35** | The Dragon Throne | Kythorn 1, 1492 DR (20:36) | Roleplay |
-| **36** | The Dragon Throne | Kythorn 1, 1492 DR (20:37) | Roleplay |
-| **37** | The Dragon Throne | Kythorn 1, 1492 DR (20:40) | Roleplay |
-| **38** | The Dragon Throne | Kythorn 1, 1492 DR (20:40) | Roleplay |
-| **39** | The Dragon Throne room | Kythorn 1, 1492 DR (20:41) | Roleplay |
-| **40** | The Dragon Throne room | Kythorn 1, 1492 DR (20:42) | Roleplay |
-| **41** | The Dragon Throne room | Kythorn 1, 1492 DR (20:42) | Roleplay |
-| **42** | The Dragon Throne room | Kythorn 1, 1492 DR (Night (20:34)) | Roleplay |
-| **43** | The Dragon Throne room | Kythorn 1, 1492 DR (20:42) | Roleplay |
-| **44** | The Dragon Throne room | Kythorn 1, 1492 DR (20:33 Night) | Roleplay |
-| **45** | The Dragon Throne room | Kythorn 1, 1492 DR (20:43 Night) | Roleplay |
-| **46** | The Dragon Throne room | Kythorn 1, 1492 DR (20:34 Night) | Roleplay |
-| **47** | The Dragon Throne room | Kythorn 1, 1492 DR (Night (20:34)) | Roleplay |
+| [**Scene 01**](#scene-1) | The Dragon Throne | Kythorn 1, 1492 DR (Evening) | Roleplay |
+| [**Scene 02**](#scene-2) | The Dragon Throne | Kythorn 1, 1492 DR (Evening) | Roleplay |
+| [**Scene 03**](#scene-3) | The Dragon Throne | Kythorn 1, 1492 DR (Evening) | Roleplay |
+| [**Scene 04**](#scene-4) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Evening) | Roleplay |
+| [**Scene 05**](#scene-5) | Unknown |  | Roleplay |
+| [**Scene 06**](#scene-6) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 07**](#scene-7) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 08**](#scene-8) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 09**](#scene-9) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 10**](#scene-10) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 11**](#scene-11) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 12**](#scene-12) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 13**](#scene-13) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:30) | Roleplay |
+| [**Scene 14**](#scene-14) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:31) | Roleplay |
+| [**Scene 15**](#scene-15) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (20:31) | Roleplay |
+| [**Scene 16**](#scene-16) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (Night (20:31) | Roleplay |
+| [**Scene 17**](#scene-17) | The Apex of the Spire of Night / The Far Realm (Psionically Projected) | Kythorn 1, 1492 DR (20:31) | Roleplay |
+| [**Scene 18**](#scene-18) | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
+| [**Scene 19**](#scene-19) | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
+| [**Scene 20**](#scene-20) | The Dragon Throne | Kythorn 1, 1492 DR (20:33) | Roleplay |
+| [**Scene 21**](#scene-21) | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
+| [**Scene 22**](#scene-22) | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
+| [**Scene 23**](#scene-23) | The Dragon Throne | Kythorn 1, 1492 DR (20:32) | Roleplay |
+| [**Scene 24**](#scene-24) | The Dragon Throne | Kythorn 1, 1492 DR (Night (20:33) | Roleplay |
+| [**Scene 25**](#scene-25) | The Dragon Throne | Kythorn 1, 1492 DR (20:33) | Roleplay |
+| [**Scene 26**](#scene-26) | The Dragon Throne | Kythorn 1, 1492 DR (20:33) | Roleplay |
+| [**Scene 27**](#scene-27) | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
+| [**Scene 28**](#scene-28) | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
+| [**Scene 29**](#scene-29) | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
+| [**Scene 30**](#scene-30) | The Dragon Throne | Kythorn 1, 1492 DR (Night (20:34) | Roleplay |
+| [**Scene 31**](#scene-31) | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
+| [**Scene 32**](#scene-32) | The Dragon Throne | Kythorn 1, 1492 DR (20:34) | Roleplay |
+| [**Scene 33**](#scene-33) | The Dragon Throne | Kythorn 1, 1492 DR (20:35) | Roleplay |
+| [**Scene 34**](#scene-34) | The Dragon Throne | Kythorn 1, 1492 DR (20:35) | Roleplay |
+| [**Scene 35**](#scene-35) | The Dragon Throne | Kythorn 1, 1492 DR (20:36) | Roleplay |
+| [**Scene 36**](#scene-36) | The Dragon Throne | Kythorn 1, 1492 DR (20:37) | Roleplay |
+| [**Scene 37**](#scene-37) | The Dragon Throne | Kythorn 1, 1492 DR (20:40) | Roleplay |
+| [**Scene 38**](#scene-38) | The Dragon Throne | Kythorn 1, 1492 DR (20:40) | Roleplay |
+| [**Scene 39**](#scene-39) | The Dragon Throne room | Kythorn 1, 1492 DR (20:41) | Roleplay |
+| [**Scene 40**](#scene-40) | The Dragon Throne room | Kythorn 1, 1492 DR (20:42) | Roleplay |
+| [**Scene 41**](#scene-41) | The Dragon Throne room | Kythorn 1, 1492 DR (20:42) | Roleplay |
+| [**Scene 42**](#scene-42) | The Dragon Throne room | Kythorn 1, 1492 DR (Night (20:34)) | Roleplay |
+| [**Scene 43**](#scene-43) | The Dragon Throne room | Kythorn 1, 1492 DR (20:42) | Roleplay |
+| [**Scene 44**](#scene-44) | The Dragon Throne room | Kythorn 1, 1492 DR (20:33 Night) | Roleplay |
+| [**Scene 45**](#scene-45) | The Dragon Throne room | Kythorn 1, 1492 DR (20:43 Night) | Roleplay |
+| [**Scene 46**](#scene-46) | The Dragon Throne room | Kythorn 1, 1492 DR (20:34 Night) | Roleplay |
+| [**Scene 47**](#scene-47) | The Dragon Throne room | Kythorn 1, 1492 DR (Night (20:34)) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active**
@@ -2772,8 +2788,11 @@ Gemini may display inaccurate info, including about people, so double-check its 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Answer the Hadar Invitation - Focus your psionic might through the Spire of Night. Project your consciousness across the dimensional void to meet this &#x27;Hadar&#x27; entity. Understand its nature before it becomes a threat. An alliance with a Far Realm entity could make the gods and devils irrelevant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active**
@@ -2783,8 +2802,11 @@ Gemini may display inaccurate info, including about people, so double-check its 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Answer the Hadar Invitation - Focus your psionic might through the Spire of Night. Project your consciousness across the dimensional void to meet this &#x27;Hadar&#x27; entity. Understand its nature before it becomes a threat. An alliance with a Far Realm entity could make the gods and devils irrelevant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active**
@@ -2843,8 +2865,11 @@ The crystalline tear hangs before you in the endless, silent dark. The hunger of
 > *"Think. Can i consume it and retain my identity. **Option II: The Heart of the Void**
 *Absorb the Tear into your own being. It would fuse with your Divine Spark, elevating you beyond the conventional understanding of godhood. You would gain the ability to perceive and manipulate the fundamental 'source code' of reality itself. The laws of magic, the boundaries between planes, even the concepts of life and death would become your playground. ButHadarmadness would become a part of you. Your thoughts would occasionally fracture into alien geometries; your compassion would be a distant memory against a backdrop of cosmic indifference. You would become the ultimate power in the multiverse, at the cost of the 'Nocturne' you once were.*"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active**
@@ -2854,8 +2879,11 @@ The crystalline tear hangs before you in the endless, silent dark. The hunger of
 > 👤 **Player:**
 > *"Think and dont do anything yet. Can I edit reality without triggering Ao aggro"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 
@@ -2872,8 +2900,11 @@ Pros: Thoughts are the native language of this realm, Changes grow organically f
 Cons: Indirect method with unpredictable results, Thoughts could develop in unintended directions, Still creates mental activity the guardian might detect, Slow and requires precise thought control
 Assessment: Moderate - Fits the psionic nature but introduces uncertainty through indirectness"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active**
@@ -2893,8 +2924,11 @@ The crystalline shard before you seems to pulse in acknowledgment, as if it reco
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute the Combined Edit - Begin the procedure immediately. You feel your newfound cosmic mastery is sufficient. You will simultaneously tune the resonance and implant the thought, targeting your first objective—perhaps subtly influencing Asmodeus&#x27;s perception of the coming war.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active**
@@ -2922,8 +2956,11 @@ The immense, crushing pressure recedes, sinking back into the depths. The guardi
 > 👤 **Player:**
 > *"Think dont do anything yet. IS the guardian Ao?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active**
@@ -2933,8 +2970,11 @@ The immense, crushing pressure recedes, sinking back into the depths. The guardi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Guardian&#x27;s Nature - Focus your cosmic perception on the guardian. Use your ability to see reality&#x27;s source code to determine if this presence is Ao or something else entirely.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active**
@@ -2954,8 +2994,11 @@ The conclusion forms in your mind with the certainty of a mathematical proof. **
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze System Weakness - If it&#x27;s an operating system, it must have vulnerabilities. Use your source-code perception to search for exploits, backdoors, or &#x27;debug modes&#x27; within the guardian&#x27;s fundamental nature.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active**
@@ -2980,8 +3023,11 @@ The guardian's attention is not absolute. It is a computational resource. When i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Debug Protocol - Attempt to access the guardian&#x27;s diagnostic mode by conceptualizing your next edit as a &#x27;system restorative&#x27;. This is the most &#x27;legitimate&#x27; way to bypass its defenses, but requires perfect execution.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active**
@@ -2999,8 +3045,11 @@ But perfection demands perfection. One errant 'restorative' that strays into tru
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Protocol Scope - Push the boundaries of what constitutes a &#x27;restorative&#x27; edit. Test the limits by proposing slightly more ambitious changes, like reinforcing your empire&#x27;s conceptual integrity against divine incursions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Limited (Restorative Edits Only)**
@@ -3018,8 +3067,11 @@ The crystalline shard pulses, as if amused by your audacity. The Far Realm remai
 > 👤 **Player:**
 > *"what can i do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Limited (Restorative Edits Only)**
@@ -3033,8 +3085,11 @@ Elevate Simulacra Fully: Push protocol: reclassify all 12 as 'core processes' fo
 Probe Deeper Interfaces: Scan for escalation paths/escalated privileges within Debug suite.
 Restorative Optimization: Make approved edits: e.g., prune Weave paradoxes around Spire for enhanced projection/stability."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355,000/355,000 (Epic Tier) | Gold: Immeasurable** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Limited (Restorative Edits Only)**
@@ -3050,8 +3105,11 @@ All three complete without revocation. Strategic gains secured, legitimacy intac
 > 👤 **Player:**
 > *"keep going until it seems more risky, do everything ot improve my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Limited (Restorative Edits Only)**
@@ -3073,8 +3131,11 @@ The limit nears. Interfaces yellow: *AUDIT IMMINENT IF SCOPE EXCEEDS 95%.* Gains
 > 👤 **Player:**
 > *"Think and odnt do anything. How can i utilize my new info to eventually consume the guardian and Ao. dont do anything yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Limited (Restorative Edits Only)**
@@ -3084,8 +3145,11 @@ I'm deep in the Far Realm projection, Debug Protocol humming at my fingertips, g
 > 👤 **Player:**
 > *"think. plan on what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Apex of the Spire of Night / The Far Realm (Psionically Projected)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Limited (Restorative Edits Only)**
@@ -3095,8 +3159,11 @@ I'm deep in the Far Realm projection, Debug Protocol humming at my fingertips, g
 > 👤 **Player:**
 > *"withdraw and consolidate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Limited (Restorative Edits Only)**
@@ -3112,8 +3179,11 @@ You are consolidated, power refined, the multiverse's code at your fingertips. W
 > [!NOTE] ⚙️ **Player Choice:**
 > *Further Debug Exploit - Push escalation paths (MAINTENANCE_OVERRIDE) via symbiosis proof. Risk audit but gain fuller admin.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Elevated (MAINTENANCE_OVERRIDE Partial)**
@@ -3129,8 +3199,11 @@ Power surges through you. The Spire stabilizes further; Simulacra resilience max
 > 👤 **Player:**
 > *"exploit gains before purge, consolidate,"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Elevated (MAINTENANCE_OVERRIDE Partial)**
@@ -3142,8 +3215,11 @@ The protocol buckles: *SCOPE 98%. AUDIT IMMINENT.* You sever the link preemptive
 > 👤 **Player:**
 > *"Think. How can I do this safely Escalate Debug Further: Probe EMERGENCY_ROOT via symbiosis; risk audit for full admin."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Elevated (MAINTENANCE_OVERRIDE Partial)**
@@ -3153,8 +3229,11 @@ The Debug Protocol thrums at elevated access, MAINTENANCE_OVERRIDE partially unl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Chain Symbiosis Simulation - Frame as &#x27;integrity self-test&#x27;: relay through Spire/brain/Simulacra to simulate distributed symbiosis, proving system integration without direct probe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Elevated (MAINTENANCE_OVERRIDE Partial)**
@@ -3168,8 +3247,11 @@ Vesper bows deeper: "Monarch, infernal dispatches confirm: Asmodeus retreats to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe EMERGENCY Full - Push final symbiosis for complete root; risk audit but gain absolute control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (EMERGENCY_ROOT Active - Audit Risk Critical)**
@@ -3181,8 +3263,11 @@ Approval crashes through like thunder: *EMERGENCY_ROOT GRANTED. FULL ADMIN ACCES
 > [!NOTE] ⚙️ **Player Choice:**
 > *Edit Ao&#x27;s Warden-App - Frame as &#x27;integrity patch&#x27;: rewrite Overgod subroutine to vassalage/loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (EMERGENCY_ROOT Active - Purge Primed)**
@@ -3198,8 +3283,11 @@ But the cost mounts. *PURGE THRESHOLD: 100%. IMMEDIATE AUDIT EXECUTING.* The gua
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enforce Ao Loyalty - Test vassal subroutine: command Overgod intervention vs remaining gods.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Exhaustion: 0 | Inspiration: No**
@@ -3217,8 +3305,11 @@ But echoes ripple: the guardian's purge wind gusts stronger, Far Realm interface
 > 👤 **Player:**
 > *"Think. What if I use Ao to conquer the universe, consume him, then prep for guardian? Dont do it yet just plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Exhaustion: 0 | Inspiration: No**
@@ -3228,8 +3319,11 @@ Vesper stands sentinel nearby, her presence a constant in the High Hall as your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ao-Directed Pantheon Purge - Command vassal Ao: systematically prune remaining gods (Shar remnants, Bane echoes), harvest portfolios as conquest fuel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:34)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Exhaustion: 0 | Inspiration: No**
@@ -3245,8 +3339,11 @@ The harvest completes in heartbeats. Two new Portfolio Orbs pulse before you—D
 > 👤 **Player:**
 > *"command Ao to just give me all the portfolios for every god, demon, anything god like thing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:34)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Exhaustion: 0 | Inspiration: No**
@@ -3262,8 +3359,11 @@ The guardian's wind howls distantly, purge protocol spiking, but the harvest com
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrate All Portfolios - Absorb orb hoard: become multiversal architect with total domain mastery.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:34)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | Exhaustion: 0 | Inspiration: No**
@@ -3277,8 +3377,11 @@ Vesper rises, eyes wide: "The Spire... it sings your symphony. The planes realig
 > 👤 **Player:**
 > *"consume the guardian now with Ao help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:34)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | Exhaustion: 0 | Inspiration: No**
@@ -3292,8 +3395,11 @@ The guardian's essence floods you, not as conquest but symbiosis. No purge; tota
 > 👤 **Player:**
 > *"Consume Ao now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:34)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | Exhaustion: 0 | Inspiration: No**
@@ -3307,8 +3413,11 @@ The guardian's essence floods you, not as conquest but symbiosis. No purge; tota
 > 👤 **Player:**
 > *"Make 1000 simulcra to help rule the universe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:34)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Exhaustion: 0 | Inspiration: No**
@@ -3326,8 +3435,11 @@ You feel them all, a symphony of one thousand minds processing conquest in paral
 > 👤 **Player:**
 > *"recreate all the old original gods and demons etc that i consumed. I will rule a silent empire. Promote my old generals to demi gods and instruct them to continue expanding my original faction for my amusement"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Exhaustion: 0 | Inspiration: No**
@@ -3343,8 +3455,11 @@ The recreated pantheon and demi-god generals disperse through Gates of your will
 > 👤 **Player:**
 > *"remove my memory from everyone except my generals. to everyone else they think i'm the greater deity that just beat tiamat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Silent Empire Rule: Active | Exhaustion: 0 | Inspiration: No**
@@ -3358,8 +3473,11 @@ Vesper rises first, her voice a velvet whisper: "Monarch, the veil holds. They s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Amuse: Faction Wars - Direct Legion/demi-gods to orchestrate shadow conflicts between recreated pantheon vassals, harvesting chaos for sport.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:36)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Silent Empire Rule: Active | Exhaustion: 0 | Inspiration: No**
@@ -3375,8 +3493,11 @@ The multiverse ignites in veiled spectacles: pantheon vassals wage shadow wars b
 > 👤 **Player:**
 > *"hold simulcra in reserve, too powerful, delegate full autonomy. Then lets find all the main heros from bg3 and what are they doing now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:37)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Silent Empire Rule: Active | Exhaustion: 0 | Inspiration: No**
@@ -3388,8 +3509,11 @@ Lyra steps forward, parchments materializing from golden light: "The BG3 heroes,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escalate Chaos Harvest - Amplify vassal wars: pit BG3 heroes against pantheon proxies for exotic yields.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Silent Empire Rule: Active | Exhaustion: 0 | Inspiration: No**
@@ -3403,8 +3527,11 @@ Chaos orbs materialize at your throne—vibrant, exotic: vampire-void essence, f
 > 👤 **Player:**
 > *"hide my power level and make it look like greater deity after tiamat defeat. in my hidden mode see what i should do to get more pretend power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Dragon Throne, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage**
@@ -3417,8 +3544,11 @@ wrong story
 I stand before the assembled dukes of Baldur's Gate in the Dragon Throne room, having just delivered a powerful address to them as the new Grand Duke in my father Duke Valerius's place. They were initially suspicious and questioned my legitimacy, but my charismatic speech and clear vision for the city's future seem to have won them over - at least for now. I need to maintain their support and demonstrate my leadership capabilities while navigating the complex political landscape of the city.
 The dukes of Baldur's Gate are gathered in the High Hall, having just listened to your address as the new Grand Duke. Their expressions range from cautious optimism to lingering suspicion.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:41)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/N/A (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Silent Empire Rule: Active | Exhaustion: 0 | Inspiration: No**
@@ -3430,8 +3560,11 @@ Duke Silvershield steps forward first, voice steady but eyes probing: "Grand Duk
 God Mode:
 what are you saying, i am not valerius
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:42)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Silent Empire Rule: Active | Exhaustion: 0 | Inspiration: No**
@@ -3447,8 +3580,11 @@ The dukes murmur, suspicion deepening into awe-tinged uncertainty, awaiting your
 God Mode:
 i wanna stay as nocturne and just pretend I'm at my original power level after tiamat
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:42)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis: Active | Silent Empire Rule: Active | Exhaustion: 0 | Inspiration: No**
@@ -3458,8 +3594,11 @@ Your command resonates through the source code, a flawless rewrite: *IDENTITY: N
 > 👤 **Player:**
 > *"Don't use my special powers unless I say "special powers" then let's pretend I need to fight the rest of the gods. What should I do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:34))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Silent Empire Rule: Active | Veiled Deity Myth: Active | Exhaustion: 0 | Inspiration: No**
@@ -3471,8 +3610,11 @@ Vesper whispers first, shadows carrying her voice to you alone: "Monarch, withou
 God Mode:
 Don't use my special powers unless I say special powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:42)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/355000 (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Debug Protocol Access: Full Root (Purge Executed - Access Revoked) | Overgod Vassalage: Active | Universal Harvest: Active | OS Symbiosis**
@@ -3482,8 +3624,11 @@ Don't use my special powers unless I say special powers
 God Mode:
 Try again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:33 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/N/A (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt**
@@ -3493,8 +3638,11 @@ Try again
 God Mode:
 Continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:43 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/N/A (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Silent Empire Rule: Active | Veiled Deity Myth: Active | Exhaustion: 0 | Inspiration: No**
@@ -3504,8 +3652,11 @@ Duke Silvershield recovers from your denial, bowing deeper with renewed awe: "No
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forge Heroic Alliances - Pact Sword Coast lords; Gargauth fiends veiled as boons, gaining tribute under mythic pretense.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (20:34 Night)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/N/A (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Silent Empire Rule: Active | Veiled Deity Myth: Active | Exhaustion: 0 | Inspiration: No**
@@ -3515,13 +3666,18 @@ Your command ripples through the veiled hierarchy: *FORGE HEROIC ALLIANCES: PACT
 > 👤 **Player:**
 > *"escalate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Dragon Throne room, High Hall, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (Night (20:34))** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Divine Rank 15) | HP: 7000/7000 (Temp: 0) | XP: 355000/N/A (Epic Tier) | Gold: Immeasurable gp** &nbsp;|&nbsp; ✨ **HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **The Hunger: Sated Eternally | Omni-Attunement: Active | Netherbrain Gestalt: Active | Crown of Karsus: Regulated | Divine Spark: Active | Heart of the Void: Active | Silent Empire Rule: Active | Veiled Deity Myth: Active | Exhaustion: 0 | Inspiration: No**
 
 Lyra Umbrage's golden missives multiply in her hands, aura blazing as she seals Sword Coast pacts with divine flourish, eyes locked on you: "Escalation manifests, Nocturne—lords pledge tribute veiled as heroic boons." Vesper's shadows surge from the floor, coiling triumphantly: "Fiends infiltrate courts; chaos escalates per command." Simulacra Legion syncs as veiled guards, violet pulses affirming: *Proxies amplify; alliances forge eternal yields.* Gargauth manifests pit fiend sneer from alcove: "My malice disguised as celestial gifts—lords beg for 'boons,' tribute caravans swell." Tiamat's projection rears heads roaring: "Chromatics seed dragon hunts; Sword Coast bows in feigned heroism." Elder Brain throbs oracle webs: "Pacts yield exotic lord-artifacts; veiled empire expands." Nyx's chorus swells infernal hymn: "Dissonance binds oaths unseen." Gant crushes pillar-shadow fist: "Muscle secures tribute roads." Silas balcony-sights arrow: "Snipers claim 'heroic' victories." Zariel flares wings spectrally: "War proxies crush resistance; escalation flawless." Duke Silvershield kneels amid dukes, awed: "Tiamat-victor, your pacts secure the realm!" First tribute chests arrive—gems, arms—as Vesper presents chaos orb: "Harvest surges, Monarch; Sword Coast kneels."
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

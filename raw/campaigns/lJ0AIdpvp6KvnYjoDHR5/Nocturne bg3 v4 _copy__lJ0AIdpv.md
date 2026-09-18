@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (821 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 II. Campaign Context: The Long Defeat
@@ -369,837 +380,842 @@ Do you want to: A. Pre-emptively Strike: Use the Potion of Sleep in his wine now
 Select your approach.
 Start this campaign by play out the scene with Horgus Gwent (Scene 1) turn-by-turn
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Bloom Shadow (Upper City) | Mirtul 15, 1492 DR (22:00 (Night)) | Roleplay |
-| **02** | Nocturne’s Chamber | Mirtul 20, 1492 DR (22:05) | Roleplay |
-| **03** | Nocturne's Chamber | Mirtul 15, 1492 DR (12:15) | Roleplay |
-| **04** | Nocturne's Chamber | Mirtul 16, 1492 DR (08:30) | Roleplay |
-| **05** | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
-| **06** | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
-| **07** | Upper City Registry Gates | Mirtul 16, 1492 DR (09:20) | Roleplay |
-| **08** | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
-| **09** | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
-| **10** | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
-| **11** | High Hall of Registry | Mirtul 16, 1492 DR (09:15) | Roleplay |
-| **12** | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
-| **13** | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
-| **14** | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
-| **15** | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
-| **16** | Gwent Manor | Mirtul 17, 1492 DR (08:00) | Roleplay |
-| **17** | Gwent Manor | Mirtul 17, 1492 DR (08:30) | Roleplay |
-| **18** | Gwent Manor | Mirtul 17, 1492 DR (09:30) | Roleplay |
-| **19** | Gwent Manor | Mirtul 17, 1492 DR (10:30) | Roleplay |
-| **20** | Gwent Manor | Mirtul 17, 1492 DR (09:30) | Roleplay |
-| **21** | Cassalanter Villa Entrance | Mirtul 17, 1492 DR (10:15) | Roleplay |
-| **22** | Cassalanter Villa | Mirtul 17, 1492 DR (10:20) | Roleplay |
-| **23** | Cassalanter Villa | Mirtul 17, 1492 DR (10:20) | Roleplay |
-| **24** | Cassalanter Villa foyer | Mirtul 17, 1492 DR (10:25) | Roleplay |
-| **25** | Cassalanter Villa foyer | Mirtul 17, 1492 DR (10:35) | Roleplay |
-| **26** | Cassalanter Villa foyer | Mirtul 17, 1492 DR (10:40) | Roleplay |
-| **27** | Cassalanter Villa | Mirtul 17, 1492 DR (10:45) | Roleplay |
-| **28** | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (10:50) | Roleplay |
-| **29** | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (10:55) | Roleplay |
-| **30** | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:00) | Roleplay |
-| **31** | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:00 AM) | Roleplay |
-| **32** | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:05 (Morning)) | Roleplay |
-| **33** | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:05 AM) | Roleplay |
-| **34** | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:05) | Roleplay |
-| **35** | Cassalanter Villa - Entrance to the Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
-| **36** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
-| **37** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
-| **38** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
-| **39** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
-| **40** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
-| **41** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
-| **42** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:05) | Roleplay |
-| **43** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:10) | Roleplay |
-| **44** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:15) | Roleplay |
-| **45** | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:20) | Roleplay |
-| **46** | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:20) | Roleplay |
-| **47** | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **48** | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **49** | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **50** | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **51** | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **52** | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **53** | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **54** | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
-| **55** | Cassalanter Villa - Reception Hall (Center) | Mirtul 17, 1492 DR (13:36) | Roleplay |
-| **56** | Cassalanter Villa - Reception Hall | Mirtul 17, 1492 DR (13:36) | Roleplay |
-| **57** | Cassalanter Villa - Reception Hall | Mirtul 17, 1492 DR (13:45) | Roleplay |
-| **58** | Cassalanter Villa - Reception Hall | Mirtul 17, 1492 DR (13:45) | Roleplay |
-| **59** | Cassalanter Villa - Reception Hall (Center) | Mirtul 17, 1492 DR (13:45) | Roleplay |
-| **60** | Cassalanter Villa - North Wing (Barracks Approach) | Mirtul 17, 1492 DR (13:55) | Roleplay |
-| **61** | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (13:55) | Roleplay |
-| **62** | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (13:56) | Roleplay |
-| **63** | Cassalanter Villa - North Wing Barracks | Mirtul 17, 1492 DR (14:05) | Roleplay |
-| **64** | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (14:14) | Roleplay |
-| **65** | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (14:23) | Roleplay |
-| **66** | Cassalanter Villa - Private Study (Adjoining Temple) | Mirtul 17, 1492 DR (14:32) | Roleplay |
-| **67** | Cassalanter Villa - Private Study (Adjoining Temple) | Mirtul 17, 1492 DR (14:32) | Roleplay |
-| **68** | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:32) | Roleplay |
-| **69** | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:41) | Roleplay |
-| **70** | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:50) | Roleplay |
-| **71** | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:50) | Roleplay |
-| **72** | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (15:10) | Roleplay |
-| **73** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
-| **74** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
-| **75** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
-| **76** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
-| **77** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
-| **78** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
-| **79** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
-| **80** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
-| **81** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
-| **82** | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
-| **83** | Cassalanter Villa - North Wing Study | Mirtul 17, 1492 DR (15:35) | Roleplay |
-| **84** | Cassalanter Villa - Reception Hall Alcove | Mirtul 17, 1492 DR (15:45) | Roleplay |
-| **85** | Cassalanter Villa - Reception Hall Alcove | Mirtul 17, 1492 DR (16:00) | Roleplay |
-| **86** | Cassalanter Villa - Reception Hall Alcove | Mirtul 17, 1492 DR (16:15) | Roleplay |
-| **87** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:00) | Roleplay |
-| **88** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
-| **89** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
-| **90** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
-| **91** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
-| **92** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
-| **93** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
-| **94** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
-| **95** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
-| **96** | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
-| **97** | Gwent Manor - Primary Suite / Private Study | Mirtul 17, 1492 DR (23:30) | Roleplay |
-| **98** | Gwent Manor - Private Study | Mirtul 17, 1492 DR (23:45) | Roleplay |
-| **99** | Gwent Manor - Private Study / Hallway | Mirtul 17, 1492 DR (23:50) | Roleplay |
-| **100** | Gwent Manor - Hallway | Mirtul 17, 1492 DR (23:45) | Roleplay |
-| **101** | Gwent Manor - Hallway | Mirtul 17, 1492 DR (23:50) | Roleplay |
-| **102** | Gwent Manor - Hallway | Mirtul 17, 1492 DR (23:50) | Roleplay |
-| **103** | Gwent Manor - Primary Suite | Mirtul 18, 1492 DR (07:50) | Roleplay |
-| **104** | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:15) | Roleplay |
-| **105** | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:40) | Roleplay |
-| **106** | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:40) | Roleplay |
-| **107** | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:40) | Roleplay |
-| **108** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **109** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **110** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **111** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **112** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **113** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **114** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **115** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
-| **116** | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (09:25) | Roleplay |
-| **117** | Gwent Manor - Master Suite Entrance | Mirtul 18, 1492 DR (09:30) | Roleplay |
-| **118** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:30) | Roleplay |
-| **119** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:30) | Roleplay |
-| **120** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:45) | Roleplay |
-| **121** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:45) | Roleplay |
-| **122** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (10:15) | Roleplay |
-| **123** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (10:45) | Roleplay |
-| **124** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (11:00) | Roleplay |
-| **125** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (11:05) | Roleplay |
-| **126** | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (11:15) | Roleplay |
-| **127** | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (11:30) | Roleplay |
-| **128** | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:15) | Roleplay |
-| **129** | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:20) | Roleplay |
-| **130** | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:20) | Roleplay |
-| **131** | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:20) | Roleplay |
-| **132** | Gwent Manor - Front Gates | Mirtul 18, 1492 DR (12:35) | Roleplay |
-| **133** | Gwent Manor - Foyer/Gates | Mirtul 18, 1492 DR (12:45) | Roleplay |
-| **134** | Gwent Manor - Study | Mirtul 18, 1492 DR (13:15) | Roleplay |
-| **135** | Gwent Manor - Study | Mirtul 18, 1492 DR (13:45) | Roleplay |
-| **136** | Gwent Manor - Study | Mirtul 18, 1492 DR (13:45) | Roleplay |
-| **137** | Gwent Manor - Study | Mirtul 18, 1492 DR (14:15) | Roleplay |
-| **138** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (14:45) | Roleplay |
-| **139** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (14:45) | Roleplay |
-| **140** | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (15:30) | Roleplay |
-| **141** | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (15:45) | Roleplay |
-| **142** | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (16:30) | Roleplay |
-| **143** | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (17:15) | Roleplay |
-| **144** | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (18:00) | Roleplay |
-| **145** | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (18:50) | Roleplay |
-| **146** | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (19:35) | Roleplay |
-| **147** | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (18:50) | Roleplay |
-| **148** | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **149** | Gwent Manor - Foyer | Mirtul 18, 1492 DR (19:15) | Roleplay |
-| **150** | Gwent Manor - Cellar Holding Room | Mirtul 18, 1492 DR (19:30) | Roleplay |
-| **151** | Gwent Manor - Cellar | Mirtul 18, 1492 DR (19:30) | Roleplay |
-| **152** | Gwent Manor - Cellar | Mirtul 18, 1492 DR (19:30) | Roleplay |
-| **153** | Gwent Manor - Cellar | Mirtul 18, 1492 DR (19:30) | Roleplay |
-| **154** | Gwent Manor - Cellar / Master Suite | Mirtul 18, 1492 DR (22:30) | Roleplay |
-| **155** | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (23:00) | Roleplay |
-| **156** | Cassalanter Villa - Private Conservatory | Mirtul 19, 1492 DR (10:00) | Roleplay |
-| **157** | Cassalanter Villa - Private Conservatory | Mirtul 18, 1492 DR (10:00) | Roleplay |
-| **158** | Cassalanter Villa - Private Conservatory | Mirtul 18, 1492 DR (10:00) | Roleplay |
-| **159** | Cassalanter Villa - Private Conservatory | Mirtul 18, 1492 DR (10:00 (Microsecond 15)) | Roleplay |
-| **160** | Docks - Gralhund Warehouse | Mirtul 18, 1492 DR (18:30) | Roleplay |
-| **161** | Gralhund Warehouse - Docks | Mirtul 18, 1492 DR (18:30) | Roleplay |
-| **162** | Gralhund Warehouse - Docks | Mirtul 18, 1492 DR (18:50) | Roleplay |
-| **163** | Gralhund Villa - High Ward | Mirtul 18, 1492 DR (20:10) | Roleplay |
-| **164** | Gralhund Villa - Sanctum Corridor | Mirtul 18, 1492 DR (20:15) | Roleplay |
-| **165** | Gralhund Villa - Sanctum | Mirtul 18, 1492 DR (20:15) | Roleplay |
-| **166** | Gralhund Villa - Sanctum Entrance | Mirtul 18, 1492 DR (20:15) | Roleplay |
-| **167** | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (20:30) | Roleplay |
-| **168** | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (20:35) | Roleplay |
-| **169** | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (20:45) | Roleplay |
-| **170** | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (21:15) | Roleplay |
-| **171** | Gralhund Villa - Sanctum | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **172** | Gralhund Villa - Sanctum | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **173** | Gwent Manor - Private Suite | Mirtul 18, 1492 DR (22:15) | Roleplay |
-| **174** | Gwent Manor - Private Suite | Mirtul 18, 1492 DR (23:45) | Roleplay |
-| **175** | Gwent Manor - Private Suite | Mirtul 19, 1492 DR (00:01) | Roleplay |
-| **176** | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (10:30) | Roleplay |
-| **177** | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (10:30) | Roleplay |
-| **178** | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
-| **179** | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
-| **180** | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
-| **181** | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
-| **182** | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
-| **183** | The High Ward - Outside 'The Gilded Quill' | Mirtul 19, 1492 DR (11:35) | Roleplay |
-| **184** | The High Ward - Outside 'The Gilded Quill' | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **185** | High Ward Street | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **186** | The High Ward | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **187** | The High Ward | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **188** | The High Ward | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **189** | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (13:00) | Roleplay |
-| **190** | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **191** | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **192** | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **193** | Gwent Manor | Mirtul 19, 1492 DR (11:40) | Roleplay |
-| **194** | Gwent Manor / Little Calimshan | Mirtul 19, 1492 DR (13:40) | Roleplay |
-| **195** | Gwent Manor / Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (15:40) | Roleplay |
-| **196** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (15:40) | Roleplay |
-| **197** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
-| **198** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
-| **199** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
-| **200** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
-| **201** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:30) | Roleplay |
-| **202** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (18:30 (Afternoon)) | Roleplay |
-| **203** | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:30) | Roleplay |
-| **204** | Basilisk Gate Dead-drop (Alleyway) | Mirtul 19, 1492 DR (18:30) | Roleplay |
-| **205** | Basilisk Gate Dead-drop (Alleyway) | Mirtul 19, 1492 DR (18:35) | Roleplay |
-| **206** | Basilisk Gate Alleyway | Mirtul 19, 1492 DR (18:30 (Evening)) | Roleplay |
-| **207** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:40) | Roleplay |
-| **208** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:40) | Roleplay |
-| **209** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (Evening) | Roleplay |
-| **210** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:45) | Roleplay |
-| **211** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:41) | Roleplay |
-| **212** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:45) | Roleplay |
-| **213** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:45) | Roleplay |
-| **214** | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:50) | Roleplay |
-| **215** | Gwent Manor (Foyer/Wards) | Mirtul 19, 1492 DR (19:15) | Roleplay |
-| **216** | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (19:20) | Roleplay |
-| **217** | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (20:30) | Roleplay |
-| **218** | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (20:45) | Roleplay |
-| **219** | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (20:55) | Roleplay |
-| **220** | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:05) | Roleplay |
-| **221** | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:10) | Roleplay |
-| **222** | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:10) | Roleplay |
-| **223** | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:10) | Roleplay |
-| **224** | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (21:15) | Roleplay |
-| **225** | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (21:15) | Roleplay |
-| **226** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:25) | Roleplay |
-| **227** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:25) | Roleplay |
-| **228** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
-| **229** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
-| **230** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
-| **231** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
-| **232** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
-| **233** | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
-| **234** | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (21:40) | Roleplay |
-| **235** | Gwent Manor (Study) | Mirtul 19, 1492 DR (21:55) | Roleplay |
-| **236** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **237** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:10) | Roleplay |
-| **238** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **239** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:15) | Roleplay |
-| **240** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **241** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **242** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **243** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **244** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **245** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
-| **246** | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:30) | Roleplay |
-| **247** | Gwent Manor (Deep Vault) | Mirtul 19, 1492 DR (22:45) | Roleplay |
-| **248** | Gwent Manor (Deep Vault) | Mirtul 19, 1492 DR (23:15) | Roleplay |
-| **249** | Gwent Manor (Deep Vault) | Mirtul 20, 1492 DR (01:15) | Roleplay |
-| **250** | Gwent Manor (Deep Vault) | Mirtul 20, 1492 DR (02:15) | Roleplay |
-| **251** | Gwent Manor (Gates/Foyer) | Mirtul 20, 1492 DR (02:45) | Roleplay |
-| **252** | Gwent Manor (Foyer) | Mirtul 20, 1492 DR (03:00) | Roleplay |
-| **253** | Gwent Manor (Foyer/Cellar) | Mirtul 20, 1492 DR (04:00) | Roleplay |
-| **254** | Gwent Manor (Primary Suite) | Mirtul 20, 1492 DR (12:00) | Roleplay |
-| **255** | Gwent Manor (Deep Vault) | Mirtul 20, 1492 DR (12:30) | Roleplay |
-| **256** | Gwent Manor (Study/Deep Vault) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **257** | Gwent Manor (Study) | Mirtul 20, 1492 DR (15:30 (Afternoon)) | Roleplay |
-| **258** | Gwent Manor Gates / High Ward | Mirtul 20, 1492 DR (15:45) | Roleplay |
-| **259** | Gwent Manor Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **260** | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **261** | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **262** | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **263** | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **264** | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **265** | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **266** | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (17:00) | Roleplay |
-| **267** | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (17:00) | Roleplay |
-| **268** | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (17:00) | Roleplay |
-| **269** | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (Afternoon) | Roleplay |
-| **270** | En Route to Cassalanter Villa (Carriage) | Mirtul 20, 1492 DR (18:00) | Roleplay |
-| **271** | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (19:15) | Roleplay |
-| **272** | En Route to Cassalanter Villa (Carriage) | Mirtul 20, 1492 DR (19:20) | Roleplay |
-| **273** | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (19:25) | Roleplay |
-| **274** | Gates of Cassalanter Villa | Mirtul 20, 1492 DR (19:30) | Roleplay |
-| **275** | Cassalanter Villa (Side Entrance) | Mirtul 20, 1492 DR (19:35) | Roleplay |
-| **276** | Cassalanter Villa (Side Entrance) | Mirtul 20, 1492 DR (20:40) | Roleplay |
-| **277** | Cassalanter Villa (Side Entrance) | Mirtul 20, 1492 DR (20:40) | Roleplay |
-| **278** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
-| **279** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
-| **280** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
-| **281** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
-| **282** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
-| **283** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (21:00) | Roleplay |
-| **284** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:00) | Roleplay |
-| **285** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:05) | Roleplay |
-| **286** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:10) | Roleplay |
-| **287** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:11) | Roleplay |
-| **288** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:11) | Roleplay |
-| **289** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:15) | Roleplay |
-| **290** | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:30) | Roleplay |
-| **291** | Cassalanter Villa (Conservatory Alcove) | Mirtul 20, 1492 DR (22:30) | Roleplay |
-| **292** | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:30) | Roleplay |
-| **293** | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:30) | Roleplay |
-| **294** | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:40) | Roleplay |
-| **295** | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:45) | Roleplay |
-| **296** | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:50) | Roleplay |
-| **297** | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (22:55) | Roleplay |
-| **298** | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:00) | Roleplay |
-| **299** | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:05) | Roleplay |
-| **300** | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:05) | Roleplay |
-| **301** | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:05) | Roleplay |
-| **302** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
-| **303** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
-| **304** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
-| **305** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
-| **306** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:01) | Roleplay |
-| **307** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
-| **308** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:10) | Roleplay |
-| **309** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
-| **310** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:06) | Roleplay |
-| **311** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
-| **312** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
-| **313** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:07) | Roleplay |
-| **314** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:07) | Roleplay |
-| **315** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:07) | Roleplay |
-| **316** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:08 (Deep Night)) | Roleplay |
-| **317** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:10) | Roleplay |
-| **318** | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:10) | Roleplay |
-| **319** | Cassalanter Villa (Service Tunnel Exit) |  | Roleplay |
-| **320** | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **321** | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **322** | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **323** | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15 (Deep Night)) | Roleplay |
-| **324** | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **325** | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **326** | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **327** | Cassalanter Villa (Exterior Gates) | Mirtul 21, 1492 DR (00:25) | Roleplay |
-| **328** | High Ward Thoroughfare (En Route to Gwent Manor) | Mirtul 21, 1492 DR (00:35) | Roleplay |
-| **329** | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:25) | Roleplay |
-| **330** | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:25) | Roleplay |
-| **331** | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:30) | Roleplay |
-| **332** | High Ward Thoroughfare (Near Gwent Manor) | Mirtul 21, 1492 DR (00:45) | Roleplay |
-| **333** | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:30 (Deep Night)) | Roleplay |
-| **334** | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:35) | Roleplay |
-| **335** | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:40) | Roleplay |
-| **336** | Gwent Manor Perimeter | Mirtul 21, 1492 DR (00:50) | Roleplay |
-| **337** | Gwent Manor Cellar | Mirtul 21, 1492 DR (01:10) | Roleplay |
-| **338** | Gwent Manor Cellar | Mirtul 21, 1492 DR (01:10) | Roleplay |
-| **339** | Gwent Manor - North Wing | Mirtul 21, 1492 DR (01:30) | Roleplay |
-| **340** | Gwent Manor - North Wing | Mirtul 21, 1492 DR (01:40 (Deep Night)) | Roleplay |
-| **341** | Gwent Manor - North Wing | Mirtul 21, 1492 DR (01:50) | Roleplay |
-| **342** | Gwent Manor - Gatehouse | Mirtul 21, 1492 DR (02:00) | Roleplay |
-| **343** | Gwent Manor - Gatehouse | Mirtul 21, 1492 DR (02:15) | Roleplay |
-| **344** | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (02:25) | Roleplay |
-| **345** | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (02:25 (Deep Night)) | Roleplay |
-| **346** | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (02:45) | Roleplay |
-| **347** | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (04:30) | Roleplay |
-| **348** | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:30) | Roleplay |
-| **349** | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:30) | Roleplay |
-| **350** | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:35 PM) | Roleplay |
-| **351** | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:45) | Roleplay |
-| **352** | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:55) | Roleplay |
-| **353** | High Hall of Registry - Grand Vestibule | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **354** | High Hall of Registry - Magister's Private Chambers | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **355** | High Hall of Registry - Magister's Private Chambers | Mirtul 21, 1492 DR (17:00) | Roleplay |
-| **356** | Gralhund Villa - Main Foyer | Mirtul 21, 1492 DR (17:30) | Roleplay |
-| **357** | Gralhund Villa (Sanctum) | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **358** | Gralhund Villa | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **359** | Gralhund Villa Sanctum | Mirtul 21, 1492 DR (12:45) | Roleplay |
-| **360** | Gralhund Villa (Annexed) | Mirtul 21, 1492 DR (17:30) | Roleplay |
-| **361** | Gralhund Villa (Sovereign Annex) | Mirtul 28, 1492 DR (12:30) | Roleplay |
-| **362** | Gralhund Villa | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **363** | Gralhund Villa (Sanctum) | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **364** | Gralhund Villa | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **365** | Gralhund Villa / Upper City Markets | Mirtul 21, 1492 DR (18:15) | Roleplay |
-| **366** | High Hall Deep Archive | Mirtul 21, 1492 DR (18:30) | Roleplay |
-| **367** | High Hall Deep Archive | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **368** | High Hall Deep Archive | Mirtul 21, 1492 DR (19:15) | Roleplay |
-| **369** | High Hall Deep Archive | Mirtul 21, 1492 DR (19:15) | Roleplay |
-| **370** | High Hall Deep Archive | Mirtul 23, 1492 DR (19:15) | Roleplay |
-| **371** | High Hall Deep Archive | Mirtul 23, 1492 DR (19:30) | Roleplay |
-| **372** | High Hall Deep Archive | Mirtul 23, 1492 DR (19:45) | Roleplay |
-| **373** | High Hall Deep Archive | Mirtul 25, 1492 DR (19:30) | Roleplay |
-| **374** | High Hall Deep Archive | Mirtul 25, 1492 DR (19:30) | Roleplay |
-| **375** | High Hall Deep Archive | Mirtul 25, 1492 DR (19:30) | Roleplay |
-| **376** | High Hall Deep Archive | Mirtul 26, 1492 DR (11:30) | Roleplay |
-| **377** | High Hall Deep Archive | Mirtul 26, 1492 DR (11:30) | Roleplay |
-| **378** | High Hall Deep Archive | Mirtul 26, 1492 DR (11:30) | Roleplay |
-| **379** | High Hall Deep Archive (Sanctuary Mode) | Mirtul 26, 1492 DR (11:30) | Roleplay |
-| **380** | High Hall Deep Archive | Mirtul 28, 1492 DR (11:30) | Roleplay |
-| **381** | High Hall Deep Archive | Mirtul 28, 1492 DR (11:30) | Roleplay |
-| **382** | High Hall Deep Archive | Mirtul 28, 1492 DR (11:30 (Sanctuary Mode) | Roleplay |
-| **383** | High Hall Deep Archive -> Gralhund Villa | Mirtul 28, 1492 DR (12:30) | Roleplay |
-| **384** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (13:30) | Roleplay |
-| **385** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (13:30) | Roleplay |
-| **386** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (13:30) | Roleplay |
-| **387** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (Afternoon) | Roleplay |
-| **388** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (Afternoon) | Roleplay |
-| **389** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (14:30) | Roleplay |
-| **390** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (14:30) | Roleplay |
-| **391** | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (16:30) | Roleplay |
-| **392** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (16:30) | Roleplay |
-| **393** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (17:00) | Roleplay |
-| **394** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (18:00) | Roleplay |
-| **395** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (18:30) | Roleplay |
-| **396** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (19:15) | Roleplay |
-| **397** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:15) | Roleplay |
-| **398** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:15) | Roleplay |
-| **399** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:30) | Roleplay |
-| **400** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
-| **401** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
-| **402** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
-| **403** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
-| **404** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
-| **405** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
-| **406** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
-| **407** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (01:30) | Roleplay |
-| **408** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (22:30) | Roleplay |
-| **409** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (23:30) | Roleplay |
-| **410** | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (23:45) | Roleplay |
-| **411** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (01:15) | Roleplay |
-| **412** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (01:15) | Roleplay |
-| **413** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (02:45) | Roleplay |
-| **414** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (02:45) | Roleplay |
-| **415** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (02:45) | Roleplay |
-| **416** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (03:30) | Roleplay |
-| **417** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (04:15) | Roleplay |
-| **418** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (05:00) | Roleplay |
-| **419** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (05:45) | Roleplay |
-| **420** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (06:00) | Roleplay |
-| **421** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
-| **422** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
-| **423** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
-| **424** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (05:00) | Roleplay |
-| **425** | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
-| **426** | Gwent Manor (Primary Suite) | Mirtul 30, 1492 DR (05:00) | Roleplay |
-| **427** | Gwent Manor (Primary Suite) | Mirtul 30, 1492 DR (05:00) | Roleplay |
-| **428** | Gwent Manor (Primary Suite) | Mirtul 30, 1492 DR (05:15) | Roleplay |
-| **429** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (06:15) | Roleplay |
-| **430** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (06:15) | Roleplay |
-| **431** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (06:15) | Roleplay |
-| **432** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (07:15) | Roleplay |
-| **433** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (08:15) | Roleplay |
-| **434** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (08:30) | Roleplay |
-| **435** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (08:45) | Roleplay |
-| **436** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:00) | Roleplay |
-| **437** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:15) | Roleplay |
-| **438** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:15) | Roleplay |
-| **439** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:30) | Roleplay |
-| **440** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:45) | Roleplay |
-| **441** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:00) | Roleplay |
-| **442** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:15) | Roleplay |
-| **443** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:15) | Roleplay |
-| **444** | Gralhund Villa (Sanctum) / High Ward | Mirtul 30, 1492 DR (10:15) | Roleplay |
-| **445** | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:30) | Roleplay |
-| **446** | Gray Harbor - Pier 12 / The 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
-| **447** | Gray Harbor - Pier 12 / The 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
-| **448** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
-| **449** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
-| **450** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
-| **451** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
-| **452** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
-| **453** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
-| **454** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:15) | Roleplay |
-| **455** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
-| **456** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
-| **457** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
-| **458** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
-| **459** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
-| **460** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:50) | Roleplay |
-| **461** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
-| **462** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
-| **463** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
-| **464** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
-| **465** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
-| **466** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
-| **467** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:50) | Roleplay |
-| **468** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
-| **469** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (15:30) | Roleplay |
-| **470** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
-| **471** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
-| **472** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
-| **473** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
-| **474** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (Afternoon) | Roleplay |
-| **475** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (14:00 (Midday)) | Roleplay |
-| **476** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:35) | Roleplay |
-| **477** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (Afternoon) | Roleplay |
-| **478** | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **479** | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (15:45) | Roleplay |
-| **480** | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (15:45 (Sanctuary Start)) | Roleplay |
-| **481** | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (15:45 (Sanctuary Day 1)) | Roleplay |
-| **482** | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (17:00) | Roleplay |
-| **483** | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (17:00) | Roleplay |
-| **484** | Gwent Manor - High Ward Sanctuary | Kythorn 7, 1492 DR (18:30 (Evening)) | Roleplay |
-| **485** | Gwent Manor - Foyer | Kythorn 7, 1492 DR (18:30) | Roleplay |
-| **486** | Gwent Manor - Foyer | Kythorn 7, 1492 DR (18:30 (Evening)) | Roleplay |
-| **487** | Gwent Manor - Foyer | Kythorn 7, 1492 DR (18:31) | Roleplay |
-| **488** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:41) | Roleplay |
-| **489** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:01) | Roleplay |
-| **490** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:50) | Roleplay |
-| **491** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (Evening) | Roleplay |
-| **492** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:41) | Roleplay |
-| **493** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:56 (Evening)) | Roleplay |
-| **494** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (Evening) | Roleplay |
-| **495** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:26) | Roleplay |
-| **496** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:15) | Roleplay |
-| **497** | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:15) | Roleplay |
-| **498** | Gwent Manor - Courtyard / North Wing | 1492 Kythorn 7, Evening (23:15) | Roleplay |
-| **499** | Gwent Manor - Private Study | Kythorn 8, 1492 DR (07:15 (Morning)) | Roleplay |
-| **500** | Gwent Manor - Private Study | Kythorn 8, 1492 DR (07:30) | Roleplay |
-| **501** | Gwent Manor - Private Study | Kythorn 8, 1492 DR (07:45) | Roleplay |
-| **502** | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **503** | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (11:45) | Roleplay |
-| **504** | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (12:00) | Roleplay |
-| **505** | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (12:45) | Roleplay |
-| **506** | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (12:45) | Roleplay |
-| **507** | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:15) | Roleplay |
-| **508** | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (Afternoon) | Roleplay |
-| **509** | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:30) | Roleplay |
-| **510** | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:30) | Roleplay |
-| **511** | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:30) | Roleplay |
-| **512** | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (14:00) | Roleplay |
-| **513** | Gwent Manor - Private Cells | Kythorn 8, 1492 DR (14:15) | Roleplay |
-| **514** | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (14:30) | Roleplay |
-| **515** | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (15:00) | Roleplay |
-| **516** | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (Afternoon) | Roleplay |
-| **517** | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (15:30) | Roleplay |
-| **518** | Gwent Manor - Courtyard / Entrance Hall | Kythorn 8, 1492 DR (16:30) | Roleplay |
-| **519** | Gwent Manor - Courtyard / Entrance Hall | Kythorn 8, 1492 DR (16:30) | Roleplay |
-| **520** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:30) | Roleplay |
-| **521** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:30) | Roleplay |
-| **522** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:30) | Roleplay |
-| **523** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:30) | Roleplay |
-| **524** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:45) | Roleplay |
-| **525** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **526** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **527** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (Evening) | Roleplay |
-| **528** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **529** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **530** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **531** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **532** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **533** | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (Evening) | Roleplay |
-| **534** | Lower City - Basilisk Gate Thoroughfare | Kythorn 8, 1492 DR (20:30) | Roleplay |
-| **535** | Lower City - Basilisk Gate Thoroughfare | Kythorn 8, 1492 DR (20:45) | Roleplay |
-| **536** | Lower City - Basilisk Gate Thoroughfare | Kythorn 8, 1492 DR (21:00) | Roleplay |
-| **537** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:15) | Roleplay |
-| **538** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:15) | Roleplay |
-| **539** | Undercity - The Sewer's Throat | Kythorn 8, 1492 DR (21:15) | Roleplay |
-| **540** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:15) | Roleplay |
-| **541** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:30) | Roleplay |
-| **542** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (22:15) | Roleplay |
-| **543** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (22:30) | Roleplay |
-| **544** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (22:45) | Roleplay |
-| **545** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:00) | Roleplay |
-| **546** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) |  | Roleplay |
-| **547** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:15) | Roleplay |
-| **548** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
-| **549** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
-| **550** | Undercity - The Sewer's Throat | Kythorn 8, 1492 DR (23:30) | Roleplay |
-| **551** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
-| **552** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:35) | Roleplay |
-| **553** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | 1492 Kythorn 8, 23:30 | Roleplay |
-| **554** | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
-| **555** | Undercity - Temple of Bhaal (Sanctum Entrance) | Kythorn 8, 1492 DR (23:45) | Roleplay |
-| **556** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (23:50) | Roleplay |
-| **557** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (23:50) | Roleplay |
-| **558** | Undercity - Temple of Bhaal (Sanctum Fissure) |  | Roleplay |
-| **559** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (23:55) | Roleplay |
-| **560** | Undercity - Temple of Bhaal (Anatomical Heart) | Kythorn 9, 1492 DR (00:10) | Roleplay |
-| **561** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:10) | Roleplay |
-| **562** | Undercity - Temple of Bhaal (Sanctum Fissure) | 1492 Kythorn 8, 00:10:07 (Deep Night) | Roleplay |
-| **563** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:10) | Roleplay |
-| **564** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:10) | Roleplay |
-| **565** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:30) | Roleplay |
-| **566** | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (01:00) | Roleplay |
-| **567** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (03:00) | Roleplay |
-| **568** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:15) | Roleplay |
-| **569** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:15) | Roleplay |
-| **570** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:15) | Roleplay |
-| **571** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:30) | Roleplay |
-| **572** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
-| **573** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
-| **574** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
-| **575** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
-| **576** | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
-| **577** | High Ward - Gwent Manor to Gray Harbor | Kythorn 8, 1492 DR (10:00) | Roleplay |
-| **578** | Gwent Manor to Shadow-Cursed Lands | Kythorn 8, 1492 DR (10:00 AM) | Roleplay |
-| **579** | Gwent Manor to Shadow-Cursed Lands | Kythorn 8, 1492 DR (10:00) | Roleplay |
-| **580** | Gwent Manor (North Wing Courtyard) | Kythorn 8, 1492 DR (11:00) | Roleplay |
-| **581** | Carriage (En Route to Moonrise) | Kythorn 8, 1492 DR (14:00) | Roleplay |
-| **582** | Carriage (En Route to Moonrise) | Kythorn 8, 1492 DR (10:15) | Roleplay |
-| **583** | Carriage (En Route to Moonrise) | Kythorn 8, 1492 DR (10:30) | Roleplay |
-| **584** | Shadow-Cursed Lands (En Route to Moonrise) | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **585** | Shadow-Cursed Lands (En Route to Moonrise) | Kythorn 8, 1492 DR (11:30 (Morning)) | Roleplay |
-| **586** | Shadow-Cursed Lands (The Carriage) |  | Roleplay |
-| **587** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **588** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **589** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:45) | Roleplay |
-| **590** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **591** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **592** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:45) | Roleplay |
-| **593** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (12:00) | Roleplay |
-| **594** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **595** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (12:15) | Roleplay |
-| **596** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (12:45) | Roleplay |
-| **597** | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (13:00) | Roleplay |
-| **598** | Shadow-Cursed Lands (Approaching Moonrise) | Kythorn 8, 1492 DR (13:15) | Roleplay |
-| **599** | Moonrise Towers (External Docks) | Kythorn 8, 1492 DR (13:30) | Roleplay |
-| **600** | Moonrise Towers (External Docks) | Kythorn 8, 1492 DR (13:45) | Roleplay |
-| **601** | Moonrise Towers (External Docks) | Kythorn 8, 1492 DR (14:00) | Roleplay |
-| **602** | Moonrise Towers (Audience Hall Entry) | Kythorn 8, 1492 DR (14:15) | Roleplay |
-| **603** | Moonrise Towers (Audience Hall) | Kythorn 8, 1492 DR (14:30) | Roleplay |
-| **604** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **605** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **606** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **607** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **608** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (11:30) | Roleplay |
-| **609** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **610** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **611** | Moonrise Towers (Ketheric's Private Sanctum) | 1492 Kythorn 8, 14:45 | Roleplay |
-| **612** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:50) | Roleplay |
-| **613** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **614** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **615** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
-| **616** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:55) | Roleplay |
-| **617** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:55) | Roleplay |
-| **618** | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:55) | Roleplay |
-| **619** | Moonrise Towers (Inner Sanctum) | Kythorn 8, 1492 DR (15:10) | Roleplay |
-| **620** | Moonrise Towers (General's Sanctum) | Kythorn 8, 1492 DR (15:25) | Roleplay |
-| **621** | Moonrise Towers (General's Sanctum) | Kythorn 8, 1492 DR (15:25) | Roleplay |
-| **622** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (15:25) | Roleplay |
-| **623** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (15:35) | Roleplay |
-| **624** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:35) | Roleplay |
-| **625** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:05) | Roleplay |
-| **626** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:10) | Roleplay |
-| **627** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:05) | Roleplay |
-| **628** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
-| **629** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
-| **630** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
-| **631** | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
-| **632** | Thorm Mausoleum (Perimeter) | Kythorn 8, 1492 DR (17:30) | Roleplay |
-| **633** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:40) | Roleplay |
-| **634** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
-| **635** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:40) | Roleplay |
-| **636** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
-| **637** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:00) | Roleplay |
-| **638** | Thorm Mausoleum (Entrance Hall) | 1492 Kythorn 8, 17:40 | Roleplay |
-| **639** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:40) | Roleplay |
-| **640** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:50) | Roleplay |
-| **641** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **642** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:00) | Roleplay |
-| **643** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:00) | Roleplay |
-| **644** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:10) | Roleplay |
-| **645** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:10) | Roleplay |
-| **646** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:10) | Roleplay |
-| **647** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:15) | Roleplay |
-| **648** | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:20) | Roleplay |
-| **649** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
-| **650** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
-| **651** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
-| **652** | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
-| **653** | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **654** | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **655** | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **656** | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **657** | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **658** | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **659** | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:50) | Roleplay |
-| **660** | Thorm Mausoleum (Gauntlet Threshold) | Mirtul 21, 1492 DR (12:05) | Roleplay |
-| **661** | Gauntlet of Shar (Upper Landing) | Mirtul 21, 1492 DR (12:20) | Roleplay |
-| **662** | Gauntlet of Shar (Lift Landing) | Mirtul 21, 1492 DR (12:25) | Roleplay |
-| **663** | Gauntlet of Shar (Upper Landing) | Mirtul 21, 1492 DR (12:28) | Roleplay |
-| **664** | Gauntlet of Shar (Central Lift) | Mirtul 21, 1492 DR (12:33) | Roleplay |
-| **665** | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:45) | Roleplay |
-| **666** | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:50) | Roleplay |
-| **667** | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:50) | Roleplay |
-| **668** | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:55) | Roleplay |
-| **669** | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (13:05) | Roleplay |
-| **670** | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (13:10) | Roleplay |
-| **671** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **672** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **673** | Gauntlet of Shar (Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **674** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **675** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **676** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **677** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **678** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **679** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **680** | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **681** | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **682** | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (14:20) | Roleplay |
-| **683** | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (13:45) | Roleplay |
-| **684** | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **685** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **686** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
-| **687** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (16:15) | Roleplay |
-| **688** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **689** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
-| **690** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:30) | Roleplay |
-| **691** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (15:45) | Roleplay |
-| **692** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:45) | Roleplay |
-| **693** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (Afternoon) | Roleplay |
-| **694** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **695** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **696** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:50) | Roleplay |
-| **697** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:55 AM) | Roleplay |
-| **698** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:05 PM) | Roleplay |
-| **699** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
-| **700** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
-| **701** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:20) | Roleplay |
-| **702** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:25) | Roleplay |
-| **703** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:15) | Roleplay |
-| **704** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:15) | Roleplay |
-| **705** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (Midday) | Roleplay |
-| **706** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:30) | Roleplay |
-| **707** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:45) | Roleplay |
-| **708** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:45) | Roleplay |
-| **709** | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **710** | Baldur's Gate (Upper City Thoroughfare) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **711** | Baldur's Gate (Upper City Thoroughfare) | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **712** | Baldur's Gate (High Ward Thoroughfare) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **713** | Baldur's Gate (High Ward Thoroughfare) | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **714** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (15:15) | Roleplay |
-| **715** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (17:00) | Roleplay |
-| **716** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (18:30) | Roleplay |
-| **717** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (18:30) | Roleplay |
-| **718** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (21:30) | Roleplay |
-| **719** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (22:30) | Roleplay |
-| **720** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (22:30) | Roleplay |
-| **721** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **722** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **723** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **724** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **725** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **726** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **727** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **728** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:45) | Roleplay |
-| **729** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **730** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **731** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **732** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **733** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **734** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **735** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **736** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **737** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **738** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (16:15) | Roleplay |
-| **739** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **740** | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **741** | Caldwell District (Ancestral Crypt Entrance) | Mirtul 21, 1492 DR (16:45) | Roleplay |
-| **742** | Caldwell District (Ancestral Crypt Entrance) | Mirtul 21, 1492 DR (16:50) | Roleplay |
-| **743** | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:05) | Roleplay |
-| **744** | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:15) | Roleplay |
-| **745** | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:30) | Roleplay |
-| **746** | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:31) | Roleplay |
-| **747** | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:31) | Roleplay |
-| **748** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (20:30) | Roleplay |
-| **749** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (15:45) | Roleplay |
-| **750** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:00) | Roleplay |
-| **751** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:01) | Roleplay |
-| **752** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:35) | Roleplay |
-| **753** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:45) | Roleplay |
-| **754** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **755** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **756** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:45 (PAUSED)) | Roleplay |
-| **757** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:45) | Roleplay |
-| **758** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:31) | Roleplay |
-| **759** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:31) | Roleplay |
-| **760** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:45) | Roleplay |
-| **761** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:00) | Roleplay |
-| **762** | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **763** | Temple of Bhaal (Undercity) / High Hall of Registry | Mirtul 21, 1492 DR (19:30) | Roleplay |
-| **764** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:35) | Roleplay |
-| **765** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:40) | Roleplay |
-| **766** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:40) | Roleplay |
-| **767** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:45) | Roleplay |
-| **768** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:50) | Roleplay |
-| **769** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:55) | Roleplay |
-| **770** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:55) | Roleplay |
-| **771** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (20:00) | Roleplay |
-| **772** | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (20:05) | Roleplay |
-| **773** | High Hall of Registry (Grand Sanctum) | Mirtul 22, 1492 DR (20:05) | Roleplay |
-| **774** | High Hall of Registry (Grand Sanctum) | Mirtul 23, 1492 DR (04:05) | Roleplay |
-| **775** | High Hall of Registry (Grand Sanctum) | Mirtul 23, 1492 DR (04:10) | Roleplay |
-| **776** | High Hall of Registry (Grand Sanctum) | Mirtul 24, 1492 DR (04:10) | Roleplay |
-| **777** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:15) | Roleplay |
-| **778** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:15) | Roleplay |
-| **779** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:15 AM) | Roleplay |
-| **780** | Gray Harbor (Harbor Master's Office) | Mirtul 24, 1492 DR (04:20) | Roleplay |
-| **781** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:35) | Roleplay |
-| **782** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:55) | Roleplay |
-| **783** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:00) | Roleplay |
-| **784** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:40) | Roleplay |
-| **785** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:00) | Roleplay |
-| **786** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:45) | Roleplay |
-| **787** | Gray Harbor (Customs House) | Mirtul 21, 1492 DR (05:40) | Roleplay |
-| **788** | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (06:15) | Roleplay |
-| **789** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:15) | Roleplay |
-| **790** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:16) | Roleplay |
-| **791** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:17) | Roleplay |
-| **792** | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:17) | Roleplay |
-| **793** | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (07:20) | Roleplay |
-| **794** | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (09:45) | Roleplay |
-| **795** | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (10:15) | Roleplay |
-| **796** | Gwent Manor (Master Suite) | Mirtul 24, 1492 DR (10:30) | Roleplay |
-| **797** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (18:30) | Roleplay |
-| **798** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (21:00) | Roleplay |
-| **799** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (21:15) | Roleplay |
-| **800** | Gwent Manor (Utopia Grand Cathedral) | Mirtul 24, 1492 DR (22:30) | Roleplay |
-| **801** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:00) | Roleplay |
-| **802** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:15) | Roleplay |
-| **803** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:30) | Roleplay |
-| **804** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (Night) | Roleplay |
-| **805** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:45) | Roleplay |
-| **806** | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:45) | Roleplay |
-| **807** | Gwent Manor (High Hall Command Node) | Kythorn 1, 1492 DR (09:00) | Roleplay |
-| **808** | High Hall of Registry (Grand Sanctum) | Kythorn 8, 1492 DR (09:00) | Roleplay |
-| **809** | Gwent Manor (Grand Ballroom) | Kythorn 1, 1492 DR (09:15) | Roleplay |
-| **810** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **811** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **812** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **813** | High Hall (Grand Sanctum) | Kythorn 24, 1492 DR (Afternoon) | Roleplay |
-| **814** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **815** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00 (Post-Absorption)) | Roleplay |
-| **816** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **817** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **818** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **819** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
-| **820** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:05) | Roleplay |
-| **821** | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:10) | Roleplay |
+| [**Scene 01**](#scene-1) | The Bloom Shadow (Upper City) | Mirtul 15, 1492 DR (22:00 (Night)) | Roleplay |
+| [**Scene 02**](#scene-2) | Nocturne’s Chamber | Mirtul 20, 1492 DR (22:05) | Roleplay |
+| [**Scene 03**](#scene-3) | Nocturne's Chamber | Mirtul 15, 1492 DR (12:15) | Roleplay |
+| [**Scene 04**](#scene-4) | Nocturne's Chamber | Mirtul 16, 1492 DR (08:30) | Roleplay |
+| [**Scene 05**](#scene-5) | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
+| [**Scene 06**](#scene-6) | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
+| [**Scene 07**](#scene-7) | Upper City Registry Gates | Mirtul 16, 1492 DR (09:20) | Roleplay |
+| [**Scene 08**](#scene-8) | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
+| [**Scene 09**](#scene-9) | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
+| [**Scene 10**](#scene-10) | Upper City Registry Gates | Mirtul 16, 1492 DR (09:15) | Roleplay |
+| [**Scene 11**](#scene-11) | High Hall of Registry | Mirtul 16, 1492 DR (09:15) | Roleplay |
+| [**Scene 12**](#scene-12) | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
+| [**Scene 13**](#scene-13) | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
+| [**Scene 14**](#scene-14) | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
+| [**Scene 15**](#scene-15) | High Hall of Registry | Mirtul 16, 1492 DR (09:30) | Roleplay |
+| [**Scene 16**](#scene-16) | Gwent Manor | Mirtul 17, 1492 DR (08:00) | Roleplay |
+| [**Scene 17**](#scene-17) | Gwent Manor | Mirtul 17, 1492 DR (08:30) | Roleplay |
+| [**Scene 18**](#scene-18) | Gwent Manor | Mirtul 17, 1492 DR (09:30) | Roleplay |
+| [**Scene 19**](#scene-19) | Gwent Manor | Mirtul 17, 1492 DR (10:30) | Roleplay |
+| [**Scene 20**](#scene-20) | Gwent Manor | Mirtul 17, 1492 DR (09:30) | Roleplay |
+| [**Scene 21**](#scene-21) | Cassalanter Villa Entrance | Mirtul 17, 1492 DR (10:15) | Roleplay |
+| [**Scene 22**](#scene-22) | Cassalanter Villa | Mirtul 17, 1492 DR (10:20) | Roleplay |
+| [**Scene 23**](#scene-23) | Cassalanter Villa | Mirtul 17, 1492 DR (10:20) | Roleplay |
+| [**Scene 24**](#scene-24) | Cassalanter Villa foyer | Mirtul 17, 1492 DR (10:25) | Roleplay |
+| [**Scene 25**](#scene-25) | Cassalanter Villa foyer | Mirtul 17, 1492 DR (10:35) | Roleplay |
+| [**Scene 26**](#scene-26) | Cassalanter Villa foyer | Mirtul 17, 1492 DR (10:40) | Roleplay |
+| [**Scene 27**](#scene-27) | Cassalanter Villa | Mirtul 17, 1492 DR (10:45) | Roleplay |
+| [**Scene 28**](#scene-28) | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (10:50) | Roleplay |
+| [**Scene 29**](#scene-29) | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (10:55) | Roleplay |
+| [**Scene 30**](#scene-30) | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:00) | Roleplay |
+| [**Scene 31**](#scene-31) | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:00 AM) | Roleplay |
+| [**Scene 32**](#scene-32) | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:05 (Morning)) | Roleplay |
+| [**Scene 33**](#scene-33) | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:05 AM) | Roleplay |
+| [**Scene 34**](#scene-34) | Cassalanter Villa Reception Hall | Mirtul 17, 1492 DR (11:05) | Roleplay |
+| [**Scene 35**](#scene-35) | Cassalanter Villa - Entrance to the Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 36**](#scene-36) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 37**](#scene-37) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 38**](#scene-38) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 39**](#scene-39) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 40**](#scene-40) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 41**](#scene-41) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:00) | Roleplay |
+| [**Scene 42**](#scene-42) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:05) | Roleplay |
+| [**Scene 43**](#scene-43) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:10) | Roleplay |
+| [**Scene 44**](#scene-44) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:15) | Roleplay |
+| [**Scene 45**](#scene-45) | Cassalanter Villa - Temple of the Golden Sun | Mirtul 17, 1492 DR (12:20) | Roleplay |
+| [**Scene 46**](#scene-46) | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:20) | Roleplay |
+| [**Scene 47**](#scene-47) | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 48**](#scene-48) | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 49**](#scene-49) | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 50**](#scene-50) | Cassalanter Villa - Reception Hall (Alcove) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 51**](#scene-51) | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 52**](#scene-52) | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 53**](#scene-53) | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 54**](#scene-54) | Cassalanter Villa - Reception Hall (Buffet) | Mirtul 17, 1492 DR (13:35) | Roleplay |
+| [**Scene 55**](#scene-55) | Cassalanter Villa - Reception Hall (Center) | Mirtul 17, 1492 DR (13:36) | Roleplay |
+| [**Scene 56**](#scene-56) | Cassalanter Villa - Reception Hall | Mirtul 17, 1492 DR (13:36) | Roleplay |
+| [**Scene 57**](#scene-57) | Cassalanter Villa - Reception Hall | Mirtul 17, 1492 DR (13:45) | Roleplay |
+| [**Scene 58**](#scene-58) | Cassalanter Villa - Reception Hall | Mirtul 17, 1492 DR (13:45) | Roleplay |
+| [**Scene 59**](#scene-59) | Cassalanter Villa - Reception Hall (Center) | Mirtul 17, 1492 DR (13:45) | Roleplay |
+| [**Scene 60**](#scene-60) | Cassalanter Villa - North Wing (Barracks Approach) | Mirtul 17, 1492 DR (13:55) | Roleplay |
+| [**Scene 61**](#scene-61) | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (13:55) | Roleplay |
+| [**Scene 62**](#scene-62) | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (13:56) | Roleplay |
+| [**Scene 63**](#scene-63) | Cassalanter Villa - North Wing Barracks | Mirtul 17, 1492 DR (14:05) | Roleplay |
+| [**Scene 64**](#scene-64) | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (14:14) | Roleplay |
+| [**Scene 65**](#scene-65) | Cassalanter Villa - North Wing (Barracks Entrance) | Mirtul 17, 1492 DR (14:23) | Roleplay |
+| [**Scene 66**](#scene-66) | Cassalanter Villa - Private Study (Adjoining Temple) | Mirtul 17, 1492 DR (14:32) | Roleplay |
+| [**Scene 67**](#scene-67) | Cassalanter Villa - Private Study (Adjoining Temple) | Mirtul 17, 1492 DR (14:32) | Roleplay |
+| [**Scene 68**](#scene-68) | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:32) | Roleplay |
+| [**Scene 69**](#scene-69) | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:41) | Roleplay |
+| [**Scene 70**](#scene-70) | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:50) | Roleplay |
+| [**Scene 71**](#scene-71) | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (14:50) | Roleplay |
+| [**Scene 72**](#scene-72) | Cassalanter Villa - Private Study | Mirtul 17, 1492 DR (15:10) | Roleplay |
+| [**Scene 73**](#scene-73) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
+| [**Scene 74**](#scene-74) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
+| [**Scene 75**](#scene-75) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
+| [**Scene 76**](#scene-76) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
+| [**Scene 77**](#scene-77) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
+| [**Scene 78**](#scene-78) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:10) | Roleplay |
+| [**Scene 79**](#scene-79) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
+| [**Scene 80**](#scene-80) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
+| [**Scene 81**](#scene-81) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
+| [**Scene 82**](#scene-82) | Cassalanter Villa - North Wing Corridor | Mirtul 17, 1492 DR (15:30) | Roleplay |
+| [**Scene 83**](#scene-83) | Cassalanter Villa - North Wing Study | Mirtul 17, 1492 DR (15:35) | Roleplay |
+| [**Scene 84**](#scene-84) | Cassalanter Villa - Reception Hall Alcove | Mirtul 17, 1492 DR (15:45) | Roleplay |
+| [**Scene 85**](#scene-85) | Cassalanter Villa - Reception Hall Alcove | Mirtul 17, 1492 DR (16:00) | Roleplay |
+| [**Scene 86**](#scene-86) | Cassalanter Villa - Reception Hall Alcove | Mirtul 17, 1492 DR (16:15) | Roleplay |
+| [**Scene 87**](#scene-87) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:00) | Roleplay |
+| [**Scene 88**](#scene-88) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
+| [**Scene 89**](#scene-89) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
+| [**Scene 90**](#scene-90) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
+| [**Scene 91**](#scene-91) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
+| [**Scene 92**](#scene-92) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
+| [**Scene 93**](#scene-93) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
+| [**Scene 94**](#scene-94) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Skill Check / Combat |
+| [**Scene 95**](#scene-95) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Gwent Manor - Primary Suite | Mirtul 17, 1492 DR (21:15) | Roleplay |
+| [**Scene 97**](#scene-97) | Gwent Manor - Primary Suite / Private Study | Mirtul 17, 1492 DR (23:30) | Roleplay |
+| [**Scene 98**](#scene-98) | Gwent Manor - Private Study | Mirtul 17, 1492 DR (23:45) | Roleplay |
+| [**Scene 99**](#scene-99) | Gwent Manor - Private Study / Hallway | Mirtul 17, 1492 DR (23:50) | Roleplay |
+| [**Scene 100**](#scene-100) | Gwent Manor - Hallway | Mirtul 17, 1492 DR (23:45) | Roleplay |
+| [**Scene 101**](#scene-101) | Gwent Manor - Hallway | Mirtul 17, 1492 DR (23:50) | Roleplay |
+| [**Scene 102**](#scene-102) | Gwent Manor - Hallway | Mirtul 17, 1492 DR (23:50) | Roleplay |
+| [**Scene 103**](#scene-103) | Gwent Manor - Primary Suite | Mirtul 18, 1492 DR (07:50) | Roleplay |
+| [**Scene 104**](#scene-104) | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:15) | Roleplay |
+| [**Scene 105**](#scene-105) | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:40) | Roleplay |
+| [**Scene 106**](#scene-106) | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:40) | Roleplay |
+| [**Scene 107**](#scene-107) | Gwent Manor - Private Study | Mirtul 18, 1492 DR (08:40) | Roleplay |
+| [**Scene 108**](#scene-108) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 109**](#scene-109) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 110**](#scene-110) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 111**](#scene-111) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 112**](#scene-112) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 113**](#scene-113) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 114**](#scene-114) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 115**](#scene-115) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (08:55) | Roleplay |
+| [**Scene 116**](#scene-116) | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (09:25) | Roleplay |
+| [**Scene 117**](#scene-117) | Gwent Manor - Master Suite Entrance | Mirtul 18, 1492 DR (09:30) | Roleplay |
+| [**Scene 118**](#scene-118) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:30) | Roleplay |
+| [**Scene 119**](#scene-119) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:30) | Roleplay |
+| [**Scene 120**](#scene-120) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:45) | Roleplay |
+| [**Scene 121**](#scene-121) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (09:45) | Roleplay |
+| [**Scene 122**](#scene-122) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (10:15) | Roleplay |
+| [**Scene 123**](#scene-123) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (10:45) | Roleplay |
+| [**Scene 124**](#scene-124) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (11:00) | Roleplay |
+| [**Scene 125**](#scene-125) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (11:05) | Roleplay |
+| [**Scene 126**](#scene-126) | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (11:15) | Roleplay |
+| [**Scene 127**](#scene-127) | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (11:30) | Roleplay |
+| [**Scene 128**](#scene-128) | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:15) | Roleplay |
+| [**Scene 129**](#scene-129) | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:20) | Roleplay |
+| [**Scene 130**](#scene-130) | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:20) | Roleplay |
+| [**Scene 131**](#scene-131) | Gwent Manor - Family Vaults | Mirtul 18, 1492 DR (12:20) | Roleplay |
+| [**Scene 132**](#scene-132) | Gwent Manor - Front Gates | Mirtul 18, 1492 DR (12:35) | Roleplay |
+| [**Scene 133**](#scene-133) | Gwent Manor - Foyer/Gates | Mirtul 18, 1492 DR (12:45) | Roleplay |
+| [**Scene 134**](#scene-134) | Gwent Manor - Study | Mirtul 18, 1492 DR (13:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Gwent Manor - Study | Mirtul 18, 1492 DR (13:45) | Roleplay |
+| [**Scene 136**](#scene-136) | Gwent Manor - Study | Mirtul 18, 1492 DR (13:45) | Roleplay |
+| [**Scene 137**](#scene-137) | Gwent Manor - Study | Mirtul 18, 1492 DR (14:15) | Roleplay |
+| [**Scene 138**](#scene-138) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (14:45) | Roleplay |
+| [**Scene 139**](#scene-139) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (14:45) | Roleplay |
+| [**Scene 140**](#scene-140) | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (15:30) | Roleplay |
+| [**Scene 141**](#scene-141) | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (15:45) | Roleplay |
+| [**Scene 142**](#scene-142) | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (16:30) | Roleplay |
+| [**Scene 143**](#scene-143) | High Hall of Registry - Public Records | Mirtul 18, 1492 DR (17:15) | Roleplay |
+| [**Scene 144**](#scene-144) | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (18:00) | Roleplay |
+| [**Scene 145**](#scene-145) | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (18:50) | Roleplay |
+| [**Scene 146**](#scene-146) | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (19:35) | Roleplay |
+| [**Scene 147**](#scene-147) | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (18:50) | Roleplay |
+| [**Scene 148**](#scene-148) | Gwent Manor - Exterior/Foyer | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 149**](#scene-149) | Gwent Manor - Foyer | Mirtul 18, 1492 DR (19:15) | Roleplay |
+| [**Scene 150**](#scene-150) | Gwent Manor - Cellar Holding Room | Mirtul 18, 1492 DR (19:30) | Roleplay |
+| [**Scene 151**](#scene-151) | Gwent Manor - Cellar | Mirtul 18, 1492 DR (19:30) | Roleplay |
+| [**Scene 152**](#scene-152) | Gwent Manor - Cellar | Mirtul 18, 1492 DR (19:30) | Roleplay |
+| [**Scene 153**](#scene-153) | Gwent Manor - Cellar | Mirtul 18, 1492 DR (19:30) | Roleplay |
+| [**Scene 154**](#scene-154) | Gwent Manor - Cellar / Master Suite | Mirtul 18, 1492 DR (22:30) | Roleplay |
+| [**Scene 155**](#scene-155) | Gwent Manor - Master Suite | Mirtul 18, 1492 DR (23:00) | Roleplay |
+| [**Scene 156**](#scene-156) | Cassalanter Villa - Private Conservatory | Mirtul 19, 1492 DR (10:00) | Roleplay |
+| [**Scene 157**](#scene-157) | Cassalanter Villa - Private Conservatory | Mirtul 18, 1492 DR (10:00) | Roleplay |
+| [**Scene 158**](#scene-158) | Cassalanter Villa - Private Conservatory | Mirtul 18, 1492 DR (10:00) | Roleplay |
+| [**Scene 159**](#scene-159) | Cassalanter Villa - Private Conservatory | Mirtul 18, 1492 DR (10:00 (Microsecond 15)) | Roleplay |
+| [**Scene 160**](#scene-160) | Docks - Gralhund Warehouse | Mirtul 18, 1492 DR (18:30) | Roleplay |
+| [**Scene 161**](#scene-161) | Gralhund Warehouse - Docks | Mirtul 18, 1492 DR (18:30) | Roleplay |
+| [**Scene 162**](#scene-162) | Gralhund Warehouse - Docks | Mirtul 18, 1492 DR (18:50) | Roleplay |
+| [**Scene 163**](#scene-163) | Gralhund Villa - High Ward | Mirtul 18, 1492 DR (20:10) | Roleplay |
+| [**Scene 164**](#scene-164) | Gralhund Villa - Sanctum Corridor | Mirtul 18, 1492 DR (20:15) | Roleplay |
+| [**Scene 165**](#scene-165) | Gralhund Villa - Sanctum | Mirtul 18, 1492 DR (20:15) | Roleplay |
+| [**Scene 166**](#scene-166) | Gralhund Villa - Sanctum Entrance | Mirtul 18, 1492 DR (20:15) | Roleplay |
+| [**Scene 167**](#scene-167) | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (20:30) | Roleplay |
+| [**Scene 168**](#scene-168) | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (20:35) | Roleplay |
+| [**Scene 169**](#scene-169) | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (20:45) | Roleplay |
+| [**Scene 170**](#scene-170) | Gralhund Villa - The Sanctum | Mirtul 18, 1492 DR (21:15) | Roleplay |
+| [**Scene 171**](#scene-171) | Gralhund Villa - Sanctum | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 172**](#scene-172) | Gralhund Villa - Sanctum | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 173**](#scene-173) | Gwent Manor - Private Suite | Mirtul 18, 1492 DR (22:15) | Roleplay |
+| [**Scene 174**](#scene-174) | Gwent Manor - Private Suite | Mirtul 18, 1492 DR (23:45) | Roleplay |
+| [**Scene 175**](#scene-175) | Gwent Manor - Private Suite | Mirtul 19, 1492 DR (00:01) | Roleplay |
+| [**Scene 176**](#scene-176) | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (10:30) | Roleplay |
+| [**Scene 177**](#scene-177) | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (10:30) | Roleplay |
+| [**Scene 178**](#scene-178) | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
+| [**Scene 179**](#scene-179) | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
+| [**Scene 180**](#scene-180) | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
+| [**Scene 181**](#scene-181) | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
+| [**Scene 182**](#scene-182) | The High Ward - 'The Gilded Quill' Boutique | Mirtul 19, 1492 DR (11:30) | Roleplay |
+| [**Scene 183**](#scene-183) | The High Ward - Outside 'The Gilded Quill' | Mirtul 19, 1492 DR (11:35) | Roleplay |
+| [**Scene 184**](#scene-184) | The High Ward - Outside 'The Gilded Quill' | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 185**](#scene-185) | High Ward Street | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 186**](#scene-186) | The High Ward | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 187**](#scene-187) | The High Ward | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 188**](#scene-188) | The High Ward | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 189**](#scene-189) | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (13:00) | Roleplay |
+| [**Scene 190**](#scene-190) | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 191**](#scene-191) | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 192**](#scene-192) | Gwent Manor - Master Suite | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 193**](#scene-193) | Gwent Manor | Mirtul 19, 1492 DR (11:40) | Roleplay |
+| [**Scene 194**](#scene-194) | Gwent Manor / Little Calimshan | Mirtul 19, 1492 DR (13:40) | Roleplay |
+| [**Scene 195**](#scene-195) | Gwent Manor / Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (15:40) | Roleplay |
+| [**Scene 196**](#scene-196) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (15:40) | Roleplay |
+| [**Scene 197**](#scene-197) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
+| [**Scene 198**](#scene-198) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
+| [**Scene 199**](#scene-199) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
+| [**Scene 200**](#scene-200) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:00) | Roleplay |
+| [**Scene 201**](#scene-201) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:30) | Roleplay |
+| [**Scene 202**](#scene-202) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (18:30 (Afternoon)) | Roleplay |
+| [**Scene 203**](#scene-203) | Basilisk Gate Dead-drop | Mirtul 19, 1492 DR (16:30) | Roleplay |
+| [**Scene 204**](#scene-204) | Basilisk Gate Dead-drop (Alleyway) | Mirtul 19, 1492 DR (18:30) | Roleplay |
+| [**Scene 205**](#scene-205) | Basilisk Gate Dead-drop (Alleyway) | Mirtul 19, 1492 DR (18:35) | Roleplay |
+| [**Scene 206**](#scene-206) | Basilisk Gate Alleyway | Mirtul 19, 1492 DR (18:30 (Evening)) | Roleplay |
+| [**Scene 207**](#scene-207) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:40) | Roleplay |
+| [**Scene 208**](#scene-208) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:40) | Roleplay |
+| [**Scene 209**](#scene-209) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (Evening) | Roleplay |
+| [**Scene 210**](#scene-210) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:45) | Roleplay |
+| [**Scene 211**](#scene-211) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:41) | Roleplay |
+| [**Scene 212**](#scene-212) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:45) | Roleplay |
+| [**Scene 213**](#scene-213) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:45) | Roleplay |
+| [**Scene 214**](#scene-214) | Basilisk Gate (Narrow Alleyways) | Mirtul 19, 1492 DR (18:50) | Roleplay |
+| [**Scene 215**](#scene-215) | Gwent Manor (Foyer/Wards) | Mirtul 19, 1492 DR (19:15) | Roleplay |
+| [**Scene 216**](#scene-216) | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (19:20) | Roleplay |
+| [**Scene 217**](#scene-217) | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (20:30) | Roleplay |
+| [**Scene 218**](#scene-218) | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (20:45) | Roleplay |
+| [**Scene 219**](#scene-219) | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (20:55) | Roleplay |
+| [**Scene 220**](#scene-220) | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:05) | Roleplay |
+| [**Scene 221**](#scene-221) | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:10) | Roleplay |
+| [**Scene 222**](#scene-222) | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:10) | Roleplay |
+| [**Scene 223**](#scene-223) | Gwent Manor (Cellar Holding Room) | Mirtul 19, 1492 DR (21:10) | Roleplay |
+| [**Scene 224**](#scene-224) | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (21:15) | Roleplay |
+| [**Scene 225**](#scene-225) | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (21:15) | Roleplay |
+| [**Scene 226**](#scene-226) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:25) | Roleplay |
+| [**Scene 227**](#scene-227) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:25) | Roleplay |
+| [**Scene 228**](#scene-228) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
+| [**Scene 229**](#scene-229) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
+| [**Scene 230**](#scene-230) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
+| [**Scene 231**](#scene-231) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
+| [**Scene 232**](#scene-232) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
+| [**Scene 233**](#scene-233) | Gwent Manor (Cellar Vault) | Mirtul 19, 1492 DR (21:35) | Roleplay |
+| [**Scene 234**](#scene-234) | Gwent Manor (Foyer) | Mirtul 19, 1492 DR (21:40) | Roleplay |
+| [**Scene 235**](#scene-235) | Gwent Manor (Study) | Mirtul 19, 1492 DR (21:55) | Roleplay |
+| [**Scene 236**](#scene-236) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 237**](#scene-237) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:10) | Roleplay |
+| [**Scene 238**](#scene-238) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 239**](#scene-239) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:15) | Roleplay |
+| [**Scene 240**](#scene-240) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 241**](#scene-241) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 242**](#scene-242) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 243**](#scene-243) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 244**](#scene-244) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 245**](#scene-245) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:05) | Roleplay |
+| [**Scene 246**](#scene-246) | Gwent Manor (Study) | Mirtul 19, 1492 DR (22:30) | Roleplay |
+| [**Scene 247**](#scene-247) | Gwent Manor (Deep Vault) | Mirtul 19, 1492 DR (22:45) | Roleplay |
+| [**Scene 248**](#scene-248) | Gwent Manor (Deep Vault) | Mirtul 19, 1492 DR (23:15) | Roleplay |
+| [**Scene 249**](#scene-249) | Gwent Manor (Deep Vault) | Mirtul 20, 1492 DR (01:15) | Roleplay |
+| [**Scene 250**](#scene-250) | Gwent Manor (Deep Vault) | Mirtul 20, 1492 DR (02:15) | Roleplay |
+| [**Scene 251**](#scene-251) | Gwent Manor (Gates/Foyer) | Mirtul 20, 1492 DR (02:45) | Roleplay |
+| [**Scene 252**](#scene-252) | Gwent Manor (Foyer) | Mirtul 20, 1492 DR (03:00) | Roleplay |
+| [**Scene 253**](#scene-253) | Gwent Manor (Foyer/Cellar) | Mirtul 20, 1492 DR (04:00) | Roleplay |
+| [**Scene 254**](#scene-254) | Gwent Manor (Primary Suite) | Mirtul 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 255**](#scene-255) | Gwent Manor (Deep Vault) | Mirtul 20, 1492 DR (12:30) | Roleplay |
+| [**Scene 256**](#scene-256) | Gwent Manor (Study/Deep Vault) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 257**](#scene-257) | Gwent Manor (Study) | Mirtul 20, 1492 DR (15:30 (Afternoon)) | Roleplay |
+| [**Scene 258**](#scene-258) | Gwent Manor Gates / High Ward | Mirtul 20, 1492 DR (15:45) | Roleplay |
+| [**Scene 259**](#scene-259) | Gwent Manor Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 260**](#scene-260) | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 261**](#scene-261) | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 262**](#scene-262) | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 263**](#scene-263) | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 264**](#scene-264) | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 265**](#scene-265) | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 266**](#scene-266) | Gwent Manor Gates/Foyer | Mirtul 20, 1492 DR (17:00) | Roleplay |
+| [**Scene 267**](#scene-267) | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (17:00) | Roleplay |
+| [**Scene 268**](#scene-268) | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (17:00) | Roleplay |
+| [**Scene 269**](#scene-269) | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 270**](#scene-270) | En Route to Cassalanter Villa (Carriage) | Mirtul 20, 1492 DR (18:00) | Roleplay |
+| [**Scene 271**](#scene-271) | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (19:15) | Roleplay |
+| [**Scene 272**](#scene-272) | En Route to Cassalanter Villa (Carriage) | Mirtul 20, 1492 DR (19:20) | Roleplay |
+| [**Scene 273**](#scene-273) | En Route to Cassalanter Villa | Mirtul 20, 1492 DR (19:25) | Roleplay |
+| [**Scene 274**](#scene-274) | Gates of Cassalanter Villa | Mirtul 20, 1492 DR (19:30) | Roleplay |
+| [**Scene 275**](#scene-275) | Cassalanter Villa (Side Entrance) | Mirtul 20, 1492 DR (19:35) | Roleplay |
+| [**Scene 276**](#scene-276) | Cassalanter Villa (Side Entrance) | Mirtul 20, 1492 DR (20:40) | Roleplay |
+| [**Scene 277**](#scene-277) | Cassalanter Villa (Side Entrance) | Mirtul 20, 1492 DR (20:40) | Roleplay |
+| [**Scene 278**](#scene-278) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
+| [**Scene 279**](#scene-279) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
+| [**Scene 280**](#scene-280) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
+| [**Scene 281**](#scene-281) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
+| [**Scene 282**](#scene-282) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (20:50) | Roleplay |
+| [**Scene 283**](#scene-283) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (21:00) | Roleplay |
+| [**Scene 284**](#scene-284) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:00) | Roleplay |
+| [**Scene 285**](#scene-285) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:05) | Roleplay |
+| [**Scene 286**](#scene-286) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:10) | Roleplay |
+| [**Scene 287**](#scene-287) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:11) | Roleplay |
+| [**Scene 288**](#scene-288) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:11) | Roleplay |
+| [**Scene 289**](#scene-289) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:15) | Roleplay |
+| [**Scene 290**](#scene-290) | Cassalanter Villa (Conservatory) | Mirtul 20, 1492 DR (22:30) | Roleplay |
+| [**Scene 291**](#scene-291) | Cassalanter Villa (Conservatory Alcove) | Mirtul 20, 1492 DR (22:30) | Roleplay |
+| [**Scene 292**](#scene-292) | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:30) | Roleplay |
+| [**Scene 293**](#scene-293) | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:30) | Roleplay |
+| [**Scene 294**](#scene-294) | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:40) | Roleplay |
+| [**Scene 295**](#scene-295) | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:45) | Roleplay |
+| [**Scene 296**](#scene-296) | Cassalanter Villa (Service Alcove) | Mirtul 20, 1492 DR (22:50) | Roleplay |
+| [**Scene 297**](#scene-297) | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (22:55) | Roleplay |
+| [**Scene 298**](#scene-298) | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:00) | Roleplay |
+| [**Scene 299**](#scene-299) | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:05) | Roleplay |
+| [**Scene 300**](#scene-300) | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:05) | Roleplay |
+| [**Scene 301**](#scene-301) | Cassalanter Villa (Temple Altar) | Mirtul 20, 1492 DR (23:05) | Roleplay |
+| [**Scene 302**](#scene-302) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
+| [**Scene 303**](#scene-303) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
+| [**Scene 304**](#scene-304) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
+| [**Scene 305**](#scene-305) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:00) | Roleplay |
+| [**Scene 306**](#scene-306) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:01) | Roleplay |
+| [**Scene 307**](#scene-307) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
+| [**Scene 308**](#scene-308) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:10) | Roleplay |
+| [**Scene 309**](#scene-309) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
+| [**Scene 310**](#scene-310) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:06) | Roleplay |
+| [**Scene 311**](#scene-311) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
+| [**Scene 312**](#scene-312) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:05) | Roleplay |
+| [**Scene 313**](#scene-313) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:07) | Roleplay |
+| [**Scene 314**](#scene-314) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:07) | Roleplay |
+| [**Scene 315**](#scene-315) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:07) | Roleplay |
+| [**Scene 316**](#scene-316) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:08 (Deep Night)) | Roleplay |
+| [**Scene 317**](#scene-317) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:10) | Roleplay |
+| [**Scene 318**](#scene-318) | Cassalanter Villa (Temple Altar) | Mirtul 21, 1492 DR (00:10) | Roleplay |
+| [**Scene 319**](#scene-319) | Cassalanter Villa (Service Tunnel Exit) |  | Roleplay |
+| [**Scene 320**](#scene-320) | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 321**](#scene-321) | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 322**](#scene-322) | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 323**](#scene-323) | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15 (Deep Night)) | Roleplay |
+| [**Scene 324**](#scene-324) | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 325**](#scene-325) | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 326**](#scene-326) | Cassalanter Villa (Service Tunnel Exit) | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 327**](#scene-327) | Cassalanter Villa (Exterior Gates) | Mirtul 21, 1492 DR (00:25) | Roleplay |
+| [**Scene 328**](#scene-328) | High Ward Thoroughfare (En Route to Gwent Manor) | Mirtul 21, 1492 DR (00:35) | Roleplay |
+| [**Scene 329**](#scene-329) | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:25) | Roleplay |
+| [**Scene 330**](#scene-330) | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:25) | Roleplay |
+| [**Scene 331**](#scene-331) | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:30) | Roleplay |
+| [**Scene 332**](#scene-332) | High Ward Thoroughfare (Near Gwent Manor) | Mirtul 21, 1492 DR (00:45) | Roleplay |
+| [**Scene 333**](#scene-333) | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:30 (Deep Night)) | Roleplay |
+| [**Scene 334**](#scene-334) | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:35) | Roleplay |
+| [**Scene 335**](#scene-335) | High Ward Thoroughfare | Mirtul 21, 1492 DR (00:40) | Roleplay |
+| [**Scene 336**](#scene-336) | Gwent Manor Perimeter | Mirtul 21, 1492 DR (00:50) | Roleplay |
+| [**Scene 337**](#scene-337) | Gwent Manor Cellar | Mirtul 21, 1492 DR (01:10) | Roleplay |
+| [**Scene 338**](#scene-338) | Gwent Manor Cellar | Mirtul 21, 1492 DR (01:10) | Roleplay |
+| [**Scene 339**](#scene-339) | Gwent Manor - North Wing | Mirtul 21, 1492 DR (01:30) | Roleplay |
+| [**Scene 340**](#scene-340) | Gwent Manor - North Wing | Mirtul 21, 1492 DR (01:40 (Deep Night)) | Roleplay |
+| [**Scene 341**](#scene-341) | Gwent Manor - North Wing | Mirtul 21, 1492 DR (01:50) | Roleplay |
+| [**Scene 342**](#scene-342) | Gwent Manor - Gatehouse | Mirtul 21, 1492 DR (02:00) | Roleplay |
+| [**Scene 343**](#scene-343) | Gwent Manor - Gatehouse | Mirtul 21, 1492 DR (02:15) | Roleplay |
+| [**Scene 344**](#scene-344) | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (02:25) | Roleplay |
+| [**Scene 345**](#scene-345) | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (02:25 (Deep Night)) | Roleplay |
+| [**Scene 346**](#scene-346) | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (02:45) | Roleplay |
+| [**Scene 347**](#scene-347) | Gwent Manor - Deep Vault | Mirtul 21, 1492 DR (04:30) | Roleplay |
+| [**Scene 348**](#scene-348) | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:30) | Roleplay |
+| [**Scene 349**](#scene-349) | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:30) | Roleplay |
+| [**Scene 350**](#scene-350) | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:35 PM) | Roleplay |
+| [**Scene 351**](#scene-351) | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:45) | Roleplay |
+| [**Scene 352**](#scene-352) | Gwent Manor - Primary Suite | Mirtul 21, 1492 DR (12:55) | Roleplay |
+| [**Scene 353**](#scene-353) | High Hall of Registry - Grand Vestibule | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 354**](#scene-354) | High Hall of Registry - Magister's Private Chambers | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 355**](#scene-355) | High Hall of Registry - Magister's Private Chambers | Mirtul 21, 1492 DR (17:00) | Roleplay |
+| [**Scene 356**](#scene-356) | Gralhund Villa - Main Foyer | Mirtul 21, 1492 DR (17:30) | Roleplay |
+| [**Scene 357**](#scene-357) | Gralhund Villa (Sanctum) | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 358**](#scene-358) | Gralhund Villa | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 359**](#scene-359) | Gralhund Villa Sanctum | Mirtul 21, 1492 DR (12:45) | Roleplay |
+| [**Scene 360**](#scene-360) | Gralhund Villa (Annexed) | Mirtul 21, 1492 DR (17:30) | Roleplay |
+| [**Scene 361**](#scene-361) | Gralhund Villa (Sovereign Annex) | Mirtul 28, 1492 DR (12:30) | Roleplay |
+| [**Scene 362**](#scene-362) | Gralhund Villa | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 363**](#scene-363) | Gralhund Villa (Sanctum) | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 364**](#scene-364) | Gralhund Villa | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 365**](#scene-365) | Gralhund Villa / Upper City Markets | Mirtul 21, 1492 DR (18:15) | Roleplay |
+| [**Scene 366**](#scene-366) | High Hall Deep Archive | Mirtul 21, 1492 DR (18:30) | Roleplay |
+| [**Scene 367**](#scene-367) | High Hall Deep Archive | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 368**](#scene-368) | High Hall Deep Archive | Mirtul 21, 1492 DR (19:15) | Roleplay |
+| [**Scene 369**](#scene-369) | High Hall Deep Archive | Mirtul 21, 1492 DR (19:15) | Roleplay |
+| [**Scene 370**](#scene-370) | High Hall Deep Archive | Mirtul 23, 1492 DR (19:15) | Roleplay |
+| [**Scene 371**](#scene-371) | High Hall Deep Archive | Mirtul 23, 1492 DR (19:30) | Roleplay |
+| [**Scene 372**](#scene-372) | High Hall Deep Archive | Mirtul 23, 1492 DR (19:45) | Roleplay |
+| [**Scene 373**](#scene-373) | High Hall Deep Archive | Mirtul 25, 1492 DR (19:30) | Roleplay |
+| [**Scene 374**](#scene-374) | High Hall Deep Archive | Mirtul 25, 1492 DR (19:30) | Roleplay |
+| [**Scene 375**](#scene-375) | High Hall Deep Archive | Mirtul 25, 1492 DR (19:30) | Roleplay |
+| [**Scene 376**](#scene-376) | High Hall Deep Archive | Mirtul 26, 1492 DR (11:30) | Roleplay |
+| [**Scene 377**](#scene-377) | High Hall Deep Archive | Mirtul 26, 1492 DR (11:30) | Roleplay |
+| [**Scene 378**](#scene-378) | High Hall Deep Archive | Mirtul 26, 1492 DR (11:30) | Roleplay |
+| [**Scene 379**](#scene-379) | High Hall Deep Archive (Sanctuary Mode) | Mirtul 26, 1492 DR (11:30) | Roleplay |
+| [**Scene 380**](#scene-380) | High Hall Deep Archive | Mirtul 28, 1492 DR (11:30) | Roleplay |
+| [**Scene 381**](#scene-381) | High Hall Deep Archive | Mirtul 28, 1492 DR (11:30) | Roleplay |
+| [**Scene 382**](#scene-382) | High Hall Deep Archive | Mirtul 28, 1492 DR (11:30 (Sanctuary Mode) | Roleplay |
+| [**Scene 383**](#scene-383) | High Hall Deep Archive -> Gralhund Villa | Mirtul 28, 1492 DR (12:30) | Roleplay |
+| [**Scene 384**](#scene-384) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 385**](#scene-385) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 386**](#scene-386) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (13:30) | Roleplay |
+| [**Scene 387**](#scene-387) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 388**](#scene-388) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 389**](#scene-389) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (14:30) | Roleplay |
+| [**Scene 390**](#scene-390) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (14:30) | Roleplay |
+| [**Scene 391**](#scene-391) | Gralhund Villa (Annexed) | Mirtul 28, 1492 DR (16:30) | Roleplay |
+| [**Scene 392**](#scene-392) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (16:30) | Roleplay |
+| [**Scene 393**](#scene-393) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (17:00) | Roleplay |
+| [**Scene 394**](#scene-394) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (18:00) | Roleplay |
+| [**Scene 395**](#scene-395) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (18:30) | Roleplay |
+| [**Scene 396**](#scene-396) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (19:15) | Roleplay |
+| [**Scene 397**](#scene-397) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:15) | Roleplay |
+| [**Scene 398**](#scene-398) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:15) | Roleplay |
+| [**Scene 399**](#scene-399) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:30) | Roleplay |
+| [**Scene 400**](#scene-400) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
+| [**Scene 401**](#scene-401) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
+| [**Scene 402**](#scene-402) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
+| [**Scene 403**](#scene-403) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
+| [**Scene 404**](#scene-404) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
+| [**Scene 405**](#scene-405) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
+| [**Scene 406**](#scene-406) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (20:45) | Roleplay |
+| [**Scene 407**](#scene-407) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (01:30) | Roleplay |
+| [**Scene 408**](#scene-408) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (22:30) | Roleplay |
+| [**Scene 409**](#scene-409) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (23:30) | Roleplay |
+| [**Scene 410**](#scene-410) | Gralhund Villa (Annexed Sanctum) | Mirtul 28, 1492 DR (23:45) | Roleplay |
+| [**Scene 411**](#scene-411) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (01:15) | Roleplay |
+| [**Scene 412**](#scene-412) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (01:15) | Roleplay |
+| [**Scene 413**](#scene-413) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (02:45) | Roleplay |
+| [**Scene 414**](#scene-414) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (02:45) | Roleplay |
+| [**Scene 415**](#scene-415) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (02:45) | Roleplay |
+| [**Scene 416**](#scene-416) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (03:30) | Roleplay |
+| [**Scene 417**](#scene-417) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (04:15) | Roleplay |
+| [**Scene 418**](#scene-418) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (05:00) | Roleplay |
+| [**Scene 419**](#scene-419) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (05:45) | Roleplay |
+| [**Scene 420**](#scene-420) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (06:00) | Roleplay |
+| [**Scene 421**](#scene-421) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
+| [**Scene 422**](#scene-422) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
+| [**Scene 423**](#scene-423) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
+| [**Scene 424**](#scene-424) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (05:00) | Roleplay |
+| [**Scene 425**](#scene-425) | Gralhund Villa (Annexed Sanctum) | Mirtul 29, 1492 DR (07:15) | Roleplay |
+| [**Scene 426**](#scene-426) | Gwent Manor (Primary Suite) | Mirtul 30, 1492 DR (05:00) | Roleplay |
+| [**Scene 427**](#scene-427) | Gwent Manor (Primary Suite) | Mirtul 30, 1492 DR (05:00) | Roleplay |
+| [**Scene 428**](#scene-428) | Gwent Manor (Primary Suite) | Mirtul 30, 1492 DR (05:15) | Roleplay |
+| [**Scene 429**](#scene-429) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (06:15) | Roleplay |
+| [**Scene 430**](#scene-430) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (06:15) | Roleplay |
+| [**Scene 431**](#scene-431) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (06:15) | Roleplay |
+| [**Scene 432**](#scene-432) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (07:15) | Roleplay |
+| [**Scene 433**](#scene-433) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (08:15) | Roleplay |
+| [**Scene 434**](#scene-434) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (08:30) | Roleplay |
+| [**Scene 435**](#scene-435) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (08:45) | Roleplay |
+| [**Scene 436**](#scene-436) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:00) | Roleplay |
+| [**Scene 437**](#scene-437) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:15) | Roleplay |
+| [**Scene 438**](#scene-438) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:15) | Roleplay |
+| [**Scene 439**](#scene-439) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:30) | Roleplay |
+| [**Scene 440**](#scene-440) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (09:45) | Roleplay |
+| [**Scene 441**](#scene-441) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:00) | Roleplay |
+| [**Scene 442**](#scene-442) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:15) | Roleplay |
+| [**Scene 443**](#scene-443) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:15) | Roleplay |
+| [**Scene 444**](#scene-444) | Gralhund Villa (Sanctum) / High Ward | Mirtul 30, 1492 DR (10:15) | Roleplay |
+| [**Scene 445**](#scene-445) | Gralhund Villa (Sanctum) | Mirtul 30, 1492 DR (10:30) | Roleplay |
+| [**Scene 446**](#scene-446) | Gray Harbor - Pier 12 / The 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
+| [**Scene 447**](#scene-447) | Gray Harbor - Pier 12 / The 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
+| [**Scene 448**](#scene-448) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
+| [**Scene 449**](#scene-449) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
+| [**Scene 450**](#scene-450) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
+| [**Scene 451**](#scene-451) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
+| [**Scene 452**](#scene-452) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
+| [**Scene 453**](#scene-453) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:00) | Roleplay |
+| [**Scene 454**](#scene-454) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:15) | Roleplay |
+| [**Scene 455**](#scene-455) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
+| [**Scene 456**](#scene-456) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
+| [**Scene 457**](#scene-457) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:30) | Roleplay |
+| [**Scene 458**](#scene-458) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
+| [**Scene 459**](#scene-459) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
+| [**Scene 460**](#scene-460) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:50) | Roleplay |
+| [**Scene 461**](#scene-461) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
+| [**Scene 462**](#scene-462) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
+| [**Scene 463**](#scene-463) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
+| [**Scene 464**](#scene-464) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
+| [**Scene 465**](#scene-465) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:55) | Roleplay |
+| [**Scene 466**](#scene-466) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:45) | Roleplay |
+| [**Scene 467**](#scene-467) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (11:50) | Roleplay |
+| [**Scene 468**](#scene-468) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
+| [**Scene 469**](#scene-469) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (15:30) | Roleplay |
+| [**Scene 470**](#scene-470) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
+| [**Scene 471**](#scene-471) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
+| [**Scene 472**](#scene-472) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
+| [**Scene 473**](#scene-473) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:20) | Roleplay |
+| [**Scene 474**](#scene-474) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 475**](#scene-475) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (14:00 (Midday)) | Roleplay |
+| [**Scene 476**](#scene-476) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (13:35) | Roleplay |
+| [**Scene 477**](#scene-477) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 30, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 478**](#scene-478) | Gray Harbor - Flagship 'Lady of the Harbor' | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 479**](#scene-479) | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (15:45) | Roleplay |
+| [**Scene 480**](#scene-480) | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (15:45 (Sanctuary Start)) | Roleplay |
+| [**Scene 481**](#scene-481) | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (15:45 (Sanctuary Day 1)) | Roleplay |
+| [**Scene 482**](#scene-482) | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (17:00) | Roleplay |
+| [**Scene 483**](#scene-483) | Gray Harbor - Flagship 'Lady of the Harbor' | Kythorn 7, 1492 DR (17:00) | Roleplay |
+| [**Scene 484**](#scene-484) | Gwent Manor - High Ward Sanctuary | Kythorn 7, 1492 DR (18:30 (Evening)) | Roleplay |
+| [**Scene 485**](#scene-485) | Gwent Manor - Foyer | Kythorn 7, 1492 DR (18:30) | Roleplay |
+| [**Scene 486**](#scene-486) | Gwent Manor - Foyer | Kythorn 7, 1492 DR (18:30 (Evening)) | Roleplay |
+| [**Scene 487**](#scene-487) | Gwent Manor - Foyer | Kythorn 7, 1492 DR (18:31) | Roleplay |
+| [**Scene 488**](#scene-488) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:41) | Roleplay |
+| [**Scene 489**](#scene-489) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:01) | Roleplay |
+| [**Scene 490**](#scene-490) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:50) | Roleplay |
+| [**Scene 491**](#scene-491) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (Evening) | Roleplay |
+| [**Scene 492**](#scene-492) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:41) | Roleplay |
+| [**Scene 493**](#scene-493) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (18:56 (Evening)) | Roleplay |
+| [**Scene 494**](#scene-494) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (Evening) | Roleplay |
+| [**Scene 495**](#scene-495) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:26) | Roleplay |
+| [**Scene 496**](#scene-496) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:15) | Roleplay |
+| [**Scene 497**](#scene-497) | Gwent Manor - Private Lounge | Kythorn 7, 1492 DR (19:15) | Roleplay |
+| [**Scene 498**](#scene-498) | Gwent Manor - Courtyard / North Wing | 1492 Kythorn 7, Evening (23:15) | Roleplay |
+| [**Scene 499**](#scene-499) | Gwent Manor - Private Study | Kythorn 8, 1492 DR (07:15 (Morning)) | Roleplay |
+| [**Scene 500**](#scene-500) | Gwent Manor - Private Study | Kythorn 8, 1492 DR (07:30) | Roleplay |
+| [**Scene 501**](#scene-501) | Gwent Manor - Private Study | Kythorn 8, 1492 DR (07:45) | Roleplay |
+| [**Scene 502**](#scene-502) | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 503**](#scene-503) | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (11:45) | Roleplay |
+| [**Scene 504**](#scene-504) | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (12:00) | Roleplay |
+| [**Scene 505**](#scene-505) | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (12:45) | Roleplay |
+| [**Scene 506**](#scene-506) | Wyrm's Rock Fortress - Audience Hall | Kythorn 8, 1492 DR (12:45) | Roleplay |
+| [**Scene 507**](#scene-507) | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:15) | Roleplay |
+| [**Scene 508**](#scene-508) | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 509**](#scene-509) | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:30) | Roleplay |
+| [**Scene 510**](#scene-510) | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:30) | Roleplay |
+| [**Scene 511**](#scene-511) | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (13:30) | Roleplay |
+| [**Scene 512**](#scene-512) | Wyrm's Rock Fortress - Control Center | Kythorn 8, 1492 DR (14:00) | Roleplay |
+| [**Scene 513**](#scene-513) | Gwent Manor - Private Cells | Kythorn 8, 1492 DR (14:15) | Roleplay |
+| [**Scene 514**](#scene-514) | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (14:30) | Roleplay |
+| [**Scene 515**](#scene-515) | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (15:00) | Roleplay |
+| [**Scene 516**](#scene-516) | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 517**](#scene-517) | Gwent Manor - Private Holding Cells | Kythorn 8, 1492 DR (15:30) | Roleplay |
+| [**Scene 518**](#scene-518) | Gwent Manor - Courtyard / Entrance Hall | Kythorn 8, 1492 DR (16:30) | Roleplay |
+| [**Scene 519**](#scene-519) | Gwent Manor - Courtyard / Entrance Hall | Kythorn 8, 1492 DR (16:30) | Roleplay |
+| [**Scene 520**](#scene-520) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:30) | Roleplay |
+| [**Scene 521**](#scene-521) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:30) | Roleplay |
+| [**Scene 522**](#scene-522) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:30) | Roleplay |
+| [**Scene 523**](#scene-523) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:30) | Roleplay |
+| [**Scene 524**](#scene-524) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (17:45) | Roleplay |
+| [**Scene 525**](#scene-525) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 526**](#scene-526) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 527**](#scene-527) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (Evening) | Roleplay |
+| [**Scene 528**](#scene-528) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 529**](#scene-529) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 530**](#scene-530) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 531**](#scene-531) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 532**](#scene-532) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 533**](#scene-533) | Gwent Manor - Courtyard | Kythorn 8, 1492 DR (Evening) | Roleplay |
+| [**Scene 534**](#scene-534) | Lower City - Basilisk Gate Thoroughfare | Kythorn 8, 1492 DR (20:30) | Roleplay |
+| [**Scene 535**](#scene-535) | Lower City - Basilisk Gate Thoroughfare | Kythorn 8, 1492 DR (20:45) | Roleplay |
+| [**Scene 536**](#scene-536) | Lower City - Basilisk Gate Thoroughfare | Kythorn 8, 1492 DR (21:00) | Roleplay |
+| [**Scene 537**](#scene-537) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:15) | Roleplay |
+| [**Scene 538**](#scene-538) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:15) | Roleplay |
+| [**Scene 539**](#scene-539) | Undercity - The Sewer's Throat | Kythorn 8, 1492 DR (21:15) | Roleplay |
+| [**Scene 540**](#scene-540) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:15) | Roleplay |
+| [**Scene 541**](#scene-541) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (21:30) | Roleplay |
+| [**Scene 542**](#scene-542) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (22:15) | Roleplay |
+| [**Scene 543**](#scene-543) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (22:30) | Roleplay |
+| [**Scene 544**](#scene-544) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (22:45) | Roleplay |
+| [**Scene 545**](#scene-545) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:00) | Roleplay |
+| [**Scene 546**](#scene-546) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) |  | Roleplay |
+| [**Scene 547**](#scene-547) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:15) | Roleplay |
+| [**Scene 548**](#scene-548) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
+| [**Scene 549**](#scene-549) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
+| [**Scene 550**](#scene-550) | Undercity - The Sewer's Throat | Kythorn 8, 1492 DR (23:30) | Roleplay |
+| [**Scene 551**](#scene-551) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
+| [**Scene 552**](#scene-552) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:35) | Roleplay |
+| [**Scene 553**](#scene-553) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | 1492 Kythorn 8, 23:30 | Roleplay |
+| [**Scene 554**](#scene-554) | Undercity - The Sewer's Throat (Temple of Bhaal Entrance) | Kythorn 8, 1492 DR (23:30) | Roleplay |
+| [**Scene 555**](#scene-555) | Undercity - Temple of Bhaal (Sanctum Entrance) | Kythorn 8, 1492 DR (23:45) | Roleplay |
+| [**Scene 556**](#scene-556) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (23:50) | Roleplay |
+| [**Scene 557**](#scene-557) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (23:50) | Roleplay |
+| [**Scene 558**](#scene-558) | Undercity - Temple of Bhaal (Sanctum Fissure) |  | Roleplay |
+| [**Scene 559**](#scene-559) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (23:55) | Roleplay |
+| [**Scene 560**](#scene-560) | Undercity - Temple of Bhaal (Anatomical Heart) | Kythorn 9, 1492 DR (00:10) | Roleplay |
+| [**Scene 561**](#scene-561) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:10) | Roleplay |
+| [**Scene 562**](#scene-562) | Undercity - Temple of Bhaal (Sanctum Fissure) | 1492 Kythorn 8, 00:10:07 (Deep Night) | Roleplay |
+| [**Scene 563**](#scene-563) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:10) | Roleplay |
+| [**Scene 564**](#scene-564) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:10) | Roleplay |
+| [**Scene 565**](#scene-565) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (00:30) | Roleplay |
+| [**Scene 566**](#scene-566) | Undercity - Temple of Bhaal (Sanctum Fissure) | Kythorn 8, 1492 DR (01:00) | Roleplay |
+| [**Scene 567**](#scene-567) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (03:00) | Roleplay |
+| [**Scene 568**](#scene-568) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:15) | Roleplay |
+| [**Scene 569**](#scene-569) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:15) | Roleplay |
+| [**Scene 570**](#scene-570) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:15) | Roleplay |
+| [**Scene 571**](#scene-571) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:30) | Roleplay |
+| [**Scene 572**](#scene-572) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
+| [**Scene 573**](#scene-573) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
+| [**Scene 574**](#scene-574) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
+| [**Scene 575**](#scene-575) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
+| [**Scene 576**](#scene-576) | Wyrm's Rock - Audience Hall | Kythorn 8, 1492 DR (01:45) | Roleplay |
+| [**Scene 577**](#scene-577) | High Ward - Gwent Manor to Gray Harbor | Kythorn 8, 1492 DR (10:00) | Roleplay |
+| [**Scene 578**](#scene-578) | Gwent Manor to Shadow-Cursed Lands | Kythorn 8, 1492 DR (10:00 AM) | Roleplay |
+| [**Scene 579**](#scene-579) | Gwent Manor to Shadow-Cursed Lands | Kythorn 8, 1492 DR (10:00) | Roleplay |
+| [**Scene 580**](#scene-580) | Gwent Manor (North Wing Courtyard) | Kythorn 8, 1492 DR (11:00) | Roleplay |
+| [**Scene 581**](#scene-581) | Carriage (En Route to Moonrise) | Kythorn 8, 1492 DR (14:00) | Roleplay |
+| [**Scene 582**](#scene-582) | Carriage (En Route to Moonrise) | Kythorn 8, 1492 DR (10:15) | Roleplay |
+| [**Scene 583**](#scene-583) | Carriage (En Route to Moonrise) | Kythorn 8, 1492 DR (10:30) | Roleplay |
+| [**Scene 584**](#scene-584) | Shadow-Cursed Lands (En Route to Moonrise) | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 585**](#scene-585) | Shadow-Cursed Lands (En Route to Moonrise) | Kythorn 8, 1492 DR (11:30 (Morning)) | Roleplay |
+| [**Scene 586**](#scene-586) | Shadow-Cursed Lands (The Carriage) |  | Roleplay |
+| [**Scene 587**](#scene-587) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 588**](#scene-588) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 589**](#scene-589) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:45) | Roleplay |
+| [**Scene 590**](#scene-590) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 591**](#scene-591) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 592**](#scene-592) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:45) | Roleplay |
+| [**Scene 593**](#scene-593) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (12:00) | Roleplay |
+| [**Scene 594**](#scene-594) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 595**](#scene-595) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (12:15) | Roleplay |
+| [**Scene 596**](#scene-596) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (12:45) | Roleplay |
+| [**Scene 597**](#scene-597) | Shadow-Cursed Lands (The Carriage) | Kythorn 8, 1492 DR (13:00) | Roleplay |
+| [**Scene 598**](#scene-598) | Shadow-Cursed Lands (Approaching Moonrise) | Kythorn 8, 1492 DR (13:15) | Roleplay |
+| [**Scene 599**](#scene-599) | Moonrise Towers (External Docks) | Kythorn 8, 1492 DR (13:30) | Roleplay |
+| [**Scene 600**](#scene-600) | Moonrise Towers (External Docks) | Kythorn 8, 1492 DR (13:45) | Roleplay |
+| [**Scene 601**](#scene-601) | Moonrise Towers (External Docks) | Kythorn 8, 1492 DR (14:00) | Roleplay |
+| [**Scene 602**](#scene-602) | Moonrise Towers (Audience Hall Entry) | Kythorn 8, 1492 DR (14:15) | Roleplay |
+| [**Scene 603**](#scene-603) | Moonrise Towers (Audience Hall) | Kythorn 8, 1492 DR (14:30) | Roleplay |
+| [**Scene 604**](#scene-604) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 605**](#scene-605) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 606**](#scene-606) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 607**](#scene-607) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 608**](#scene-608) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (11:30) | Roleplay |
+| [**Scene 609**](#scene-609) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 610**](#scene-610) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 611**](#scene-611) | Moonrise Towers (Ketheric's Private Sanctum) | 1492 Kythorn 8, 14:45 | Roleplay |
+| [**Scene 612**](#scene-612) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:50) | Roleplay |
+| [**Scene 613**](#scene-613) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 614**](#scene-614) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 615**](#scene-615) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:45) | Roleplay |
+| [**Scene 616**](#scene-616) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:55) | Roleplay |
+| [**Scene 617**](#scene-617) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:55) | Roleplay |
+| [**Scene 618**](#scene-618) | Moonrise Towers (Ketheric's Private Sanctum) | Kythorn 8, 1492 DR (14:55) | Roleplay |
+| [**Scene 619**](#scene-619) | Moonrise Towers (Inner Sanctum) | Kythorn 8, 1492 DR (15:10) | Roleplay |
+| [**Scene 620**](#scene-620) | Moonrise Towers (General's Sanctum) | Kythorn 8, 1492 DR (15:25) | Roleplay |
+| [**Scene 621**](#scene-621) | Moonrise Towers (General's Sanctum) | Kythorn 8, 1492 DR (15:25) | Roleplay |
+| [**Scene 622**](#scene-622) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (15:25) | Roleplay |
+| [**Scene 623**](#scene-623) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (15:35) | Roleplay |
+| [**Scene 624**](#scene-624) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:35) | Roleplay |
+| [**Scene 625**](#scene-625) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:05) | Roleplay |
+| [**Scene 626**](#scene-626) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:10) | Roleplay |
+| [**Scene 627**](#scene-627) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:05) | Roleplay |
+| [**Scene 628**](#scene-628) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
+| [**Scene 629**](#scene-629) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
+| [**Scene 630**](#scene-630) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
+| [**Scene 631**](#scene-631) | The Astral Prism (Planar Sanctuary) | Kythorn 8, 1492 DR (16:15) | Roleplay |
+| [**Scene 632**](#scene-632) | Thorm Mausoleum (Perimeter) | Kythorn 8, 1492 DR (17:30) | Roleplay |
+| [**Scene 633**](#scene-633) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:40) | Roleplay |
+| [**Scene 634**](#scene-634) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 635**](#scene-635) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:40) | Roleplay |
+| [**Scene 636**](#scene-636) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 637**](#scene-637) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:00) | Roleplay |
+| [**Scene 638**](#scene-638) | Thorm Mausoleum (Entrance Hall) | 1492 Kythorn 8, 17:40 | Roleplay |
+| [**Scene 639**](#scene-639) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:40) | Roleplay |
+| [**Scene 640**](#scene-640) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (17:50) | Roleplay |
+| [**Scene 641**](#scene-641) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 642**](#scene-642) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:00) | Roleplay |
+| [**Scene 643**](#scene-643) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:00) | Roleplay |
+| [**Scene 644**](#scene-644) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:10) | Roleplay |
+| [**Scene 645**](#scene-645) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:10) | Roleplay |
+| [**Scene 646**](#scene-646) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:10) | Roleplay |
+| [**Scene 647**](#scene-647) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:15) | Roleplay |
+| [**Scene 648**](#scene-648) | Thorm Mausoleum (Entrance Hall) | Kythorn 8, 1492 DR (18:20) | Roleplay |
+| [**Scene 649**](#scene-649) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 650**](#scene-650) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 651**](#scene-651) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 652**](#scene-652) | Thorm Mausoleum (Entrance Hall) | Kythorn 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 653**](#scene-653) | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 654**](#scene-654) | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 655**](#scene-655) | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 656**](#scene-656) | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 657**](#scene-657) | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 658**](#scene-658) | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 659**](#scene-659) | Thorm Mausoleum (Entrance Hall) | Mirtul 21, 1492 DR (11:50) | Roleplay |
+| [**Scene 660**](#scene-660) | Thorm Mausoleum (Gauntlet Threshold) | Mirtul 21, 1492 DR (12:05) | Roleplay |
+| [**Scene 661**](#scene-661) | Gauntlet of Shar (Upper Landing) | Mirtul 21, 1492 DR (12:20) | Roleplay |
+| [**Scene 662**](#scene-662) | Gauntlet of Shar (Lift Landing) | Mirtul 21, 1492 DR (12:25) | Roleplay |
+| [**Scene 663**](#scene-663) | Gauntlet of Shar (Upper Landing) | Mirtul 21, 1492 DR (12:28) | Roleplay |
+| [**Scene 664**](#scene-664) | Gauntlet of Shar (Central Lift) | Mirtul 21, 1492 DR (12:33) | Roleplay |
+| [**Scene 665**](#scene-665) | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:45) | Roleplay |
+| [**Scene 666**](#scene-666) | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:50) | Roleplay |
+| [**Scene 667**](#scene-667) | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:50) | Roleplay |
+| [**Scene 668**](#scene-668) | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (12:55) | Roleplay |
+| [**Scene 669**](#scene-669) | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (13:05) | Roleplay |
+| [**Scene 670**](#scene-670) | Gauntlet of Shar (Lower Hub) | Mirtul 21, 1492 DR (13:10) | Roleplay |
+| [**Scene 671**](#scene-671) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 672**](#scene-672) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 673**](#scene-673) | Gauntlet of Shar (Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 674**](#scene-674) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 675**](#scene-675) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 676**](#scene-676) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 677**](#scene-677) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 678**](#scene-678) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 679**](#scene-679) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 680**](#scene-680) | Gauntlet of Shar (Lower Hub - Northeast Vault) | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 681**](#scene-681) | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 682**](#scene-682) | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (14:20) | Roleplay |
+| [**Scene 683**](#scene-683) | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (13:45) | Roleplay |
+| [**Scene 684**](#scene-684) | Gauntlet of Shar (Silent Library) | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 685**](#scene-685) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 686**](#scene-686) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
+| [**Scene 687**](#scene-687) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (16:15) | Roleplay |
+| [**Scene 688**](#scene-688) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 689**](#scene-689) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
+| [**Scene 690**](#scene-690) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:30) | Roleplay |
+| [**Scene 691**](#scene-691) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (15:45) | Roleplay |
+| [**Scene 692**](#scene-692) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:45) | Roleplay |
+| [**Scene 693**](#scene-693) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 694**](#scene-694) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 695**](#scene-695) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 696**](#scene-696) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:50) | Roleplay |
+| [**Scene 697**](#scene-697) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:55 AM) | Roleplay |
+| [**Scene 698**](#scene-698) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:05 PM) | Roleplay |
+| [**Scene 699**](#scene-699) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
+| [**Scene 700**](#scene-700) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:15) | Roleplay |
+| [**Scene 701**](#scene-701) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:20) | Roleplay |
+| [**Scene 702**](#scene-702) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (12:25) | Roleplay |
+| [**Scene 703**](#scene-703) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:15) | Roleplay |
+| [**Scene 704**](#scene-704) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:15) | Roleplay |
+| [**Scene 705**](#scene-705) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (Midday) | Roleplay |
+| [**Scene 706**](#scene-706) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:30) | Roleplay |
+| [**Scene 707**](#scene-707) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (13:45) | Roleplay |
+| [**Scene 708**](#scene-708) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (11:45) | Roleplay |
+| [**Scene 709**](#scene-709) | Gauntlet of Shar (The Verge) | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 710**](#scene-710) | Baldur's Gate (Upper City Thoroughfare) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 711**](#scene-711) | Baldur's Gate (Upper City Thoroughfare) | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 712**](#scene-712) | Baldur's Gate (High Ward Thoroughfare) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 713**](#scene-713) | Baldur's Gate (High Ward Thoroughfare) | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 714**](#scene-714) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (15:15) | Roleplay |
+| [**Scene 715**](#scene-715) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (17:00) | Roleplay |
+| [**Scene 716**](#scene-716) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (18:30) | Roleplay |
+| [**Scene 717**](#scene-717) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (18:30) | Roleplay |
+| [**Scene 718**](#scene-718) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (21:30) | Roleplay |
+| [**Scene 719**](#scene-719) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (22:30) | Roleplay |
+| [**Scene 720**](#scene-720) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (22:30) | Roleplay |
+| [**Scene 721**](#scene-721) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 722**](#scene-722) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 723**](#scene-723) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 724**](#scene-724) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 725**](#scene-725) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 726**](#scene-726) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 727**](#scene-727) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 728**](#scene-728) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:45) | Roleplay |
+| [**Scene 729**](#scene-729) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 730**](#scene-730) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 731**](#scene-731) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 732**](#scene-732) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 733**](#scene-733) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 734**](#scene-734) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 735**](#scene-735) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 736**](#scene-736) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 737**](#scene-737) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 738**](#scene-738) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (16:15) | Roleplay |
+| [**Scene 739**](#scene-739) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 740**](#scene-740) | Sovereign Court (High Hall Grand Sanctum) | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 741**](#scene-741) | Caldwell District (Ancestral Crypt Entrance) | Mirtul 21, 1492 DR (16:45) | Roleplay |
+| [**Scene 742**](#scene-742) | Caldwell District (Ancestral Crypt Entrance) | Mirtul 21, 1492 DR (16:50) | Roleplay |
+| [**Scene 743**](#scene-743) | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:05) | Roleplay |
+| [**Scene 744**](#scene-744) | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:15) | Roleplay |
+| [**Scene 745**](#scene-745) | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:30) | Roleplay |
+| [**Scene 746**](#scene-746) | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:31) | Roleplay |
+| [**Scene 747**](#scene-747) | Caldwell District (Ancestral Crypt Interior) | Mirtul 21, 1492 DR (17:31) | Roleplay |
+| [**Scene 748**](#scene-748) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (20:30) | Roleplay |
+| [**Scene 749**](#scene-749) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (15:45) | Roleplay |
+| [**Scene 750**](#scene-750) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:00) | Roleplay |
+| [**Scene 751**](#scene-751) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:01) | Roleplay |
+| [**Scene 752**](#scene-752) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:35) | Roleplay |
+| [**Scene 753**](#scene-753) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:45) | Roleplay |
+| [**Scene 754**](#scene-754) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 755**](#scene-755) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 756**](#scene-756) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:45 (PAUSED)) | Roleplay |
+| [**Scene 757**](#scene-757) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (16:45) | Roleplay |
+| [**Scene 758**](#scene-758) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:31) | Roleplay |
+| [**Scene 759**](#scene-759) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:31) | Roleplay |
+| [**Scene 760**](#scene-760) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:45) | Roleplay |
+| [**Scene 761**](#scene-761) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (17:00) | Roleplay |
+| [**Scene 762**](#scene-762) | Temple of Bhaal (Undercity) | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 763**](#scene-763) | Temple of Bhaal (Undercity) / High Hall of Registry | Mirtul 21, 1492 DR (19:30) | Roleplay |
+| [**Scene 764**](#scene-764) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:35) | Roleplay |
+| [**Scene 765**](#scene-765) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:40) | Roleplay |
+| [**Scene 766**](#scene-766) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:40) | Roleplay |
+| [**Scene 767**](#scene-767) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:45) | Roleplay |
+| [**Scene 768**](#scene-768) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:50) | Roleplay |
+| [**Scene 769**](#scene-769) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:55) | Roleplay |
+| [**Scene 770**](#scene-770) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (19:55) | Roleplay |
+| [**Scene 771**](#scene-771) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (20:00) | Roleplay |
+| [**Scene 772**](#scene-772) | High Hall of Registry (Grand Sanctum) | Mirtul 21, 1492 DR (20:05) | Roleplay |
+| [**Scene 773**](#scene-773) | High Hall of Registry (Grand Sanctum) | Mirtul 22, 1492 DR (20:05) | Roleplay |
+| [**Scene 774**](#scene-774) | High Hall of Registry (Grand Sanctum) | Mirtul 23, 1492 DR (04:05) | Roleplay |
+| [**Scene 775**](#scene-775) | High Hall of Registry (Grand Sanctum) | Mirtul 23, 1492 DR (04:10) | Roleplay |
+| [**Scene 776**](#scene-776) | High Hall of Registry (Grand Sanctum) | Mirtul 24, 1492 DR (04:10) | Roleplay |
+| [**Scene 777**](#scene-777) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:15) | Roleplay |
+| [**Scene 778**](#scene-778) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:15) | Roleplay |
+| [**Scene 779**](#scene-779) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:15 AM) | Roleplay |
+| [**Scene 780**](#scene-780) | Gray Harbor (Harbor Master's Office) | Mirtul 24, 1492 DR (04:20) | Roleplay |
+| [**Scene 781**](#scene-781) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:35) | Roleplay |
+| [**Scene 782**](#scene-782) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (04:55) | Roleplay |
+| [**Scene 783**](#scene-783) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:00) | Roleplay |
+| [**Scene 784**](#scene-784) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:40) | Roleplay |
+| [**Scene 785**](#scene-785) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:00) | Roleplay |
+| [**Scene 786**](#scene-786) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (05:45) | Roleplay |
+| [**Scene 787**](#scene-787) | Gray Harbor (Customs House) | Mirtul 21, 1492 DR (05:40) | Roleplay |
+| [**Scene 788**](#scene-788) | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (06:15) | Roleplay |
+| [**Scene 789**](#scene-789) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:15) | Roleplay |
+| [**Scene 790**](#scene-790) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:16) | Roleplay |
+| [**Scene 791**](#scene-791) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:17) | Roleplay |
+| [**Scene 792**](#scene-792) | Gray Harbor (Customs House) | Mirtul 24, 1492 DR (07:17) | Roleplay |
+| [**Scene 793**](#scene-793) | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (07:20) | Roleplay |
+| [**Scene 794**](#scene-794) | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (09:45) | Roleplay |
+| [**Scene 795**](#scene-795) | Gray Harbor (Customs House Balcony) | Mirtul 24, 1492 DR (10:15) | Roleplay |
+| [**Scene 796**](#scene-796) | Gwent Manor (Master Suite) | Mirtul 24, 1492 DR (10:30) | Roleplay |
+| [**Scene 797**](#scene-797) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (18:30) | Roleplay |
+| [**Scene 798**](#scene-798) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (21:00) | Roleplay |
+| [**Scene 799**](#scene-799) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (21:15) | Roleplay |
+| [**Scene 800**](#scene-800) | Gwent Manor (Utopia Grand Cathedral) | Mirtul 24, 1492 DR (22:30) | Roleplay |
+| [**Scene 801**](#scene-801) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:00) | Roleplay |
+| [**Scene 802**](#scene-802) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:15) | Roleplay |
+| [**Scene 803**](#scene-803) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:30) | Roleplay |
+| [**Scene 804**](#scene-804) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (Night) | Roleplay |
+| [**Scene 805**](#scene-805) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:45) | Roleplay |
+| [**Scene 806**](#scene-806) | Gwent Manor (Grand Ballroom) | Mirtul 24, 1492 DR (23:45) | Roleplay |
+| [**Scene 807**](#scene-807) | Gwent Manor (High Hall Command Node) | Kythorn 1, 1492 DR (09:00) | Roleplay |
+| [**Scene 808**](#scene-808) | High Hall of Registry (Grand Sanctum) | Kythorn 8, 1492 DR (09:00) | Roleplay |
+| [**Scene 809**](#scene-809) | Gwent Manor (Grand Ballroom) | Kythorn 1, 1492 DR (09:15) | Roleplay |
+| [**Scene 810**](#scene-810) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 811**](#scene-811) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 812**](#scene-812) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 813**](#scene-813) | High Hall (Grand Sanctum) | Kythorn 24, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 814**](#scene-814) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 815**](#scene-815) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00 (Post-Absorption)) | Roleplay |
+| [**Scene 816**](#scene-816) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 817**](#scene-817) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 818**](#scene-818) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 819**](#scene-819) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:00) | Roleplay |
+| [**Scene 820**](#scene-820) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:05) | Roleplay |
+| [**Scene 821**](#scene-821) | High Hall (Grand Sanctum) | Kythorn 8, 1492 DR (16:10) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Bloom Shadow (Upper City), Nocturne's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (22:00 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3, Potions: 1 (Sleep), Stiletto: Equipped** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1223,8 +1239,11 @@ Horgus fumbles with his half-empty wine flask, his movements sloppy and uncoordi
 > 👤 **Player:**
 > *"Think. Could i convince him to marry me? I can play the role of submissive/dominated wife and in parallel hollow out his faction and gain control"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Nocturne’s Chamber, The Bloom Shadow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 125gp (Stash)** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1242,8 +1261,11 @@ He is hooked, his vanity doing the work for you. He sees a submissive trophy; yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seal the Promise - Ensure he commits to the idea tonight, perhaps by drafting a &#x27;contract of intent&#x27; while he&#x27;s pliable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Nocturne's Chamber, The Bloom Shadow** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/3, Potions: 1 (Sleep)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1259,8 +1281,11 @@ You guide his hand, the ink still wet as you draft a 'declaration of intent.' It
 > 👤 **Player:**
 > *"Think. I will not escape. I will convince him tomorrow to take me to the official registry and officialize our marriage. long rest and attempt it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Nocturne's Chamber, The Bloom Shadow** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/3, Potions: 1 (Sleep)**
@@ -1278,8 +1303,11 @@ You gain **150 XP** for this social victory.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Low Profile - Keep the carriage curtains drawn and avoid eye contact with anyone at the registry gates.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Upper City Registry Gates** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 300/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/3, Potions: 1 (Sleep)**
@@ -1293,8 +1321,11 @@ You remain a ghost in the dark. The guard's gaze flickers over the carriage, but
 God Mode:
 Maintain Subservience - Keep your head down and let Horgus do all the talking, acting as the &#x27;broken&#x27; girl he rescued.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Upper City Registry Gates** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 300/300 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/3, Potions: 1 (Sleep)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1312,8 +1343,11 @@ You gain **150 XP** for maintaining the charade under the eyes of the city's leg
 God Mode:
 process my level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Upper City Registry Gates** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 450/300 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/3, Potions: 1 (Sleep)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1323,8 +1357,11 @@ The player is at 450/300 XP, which triggers a Level 2 advancement for a D&D 5e B
 God Mode:
 Confirm Level 2 - Apply Bard Level 2 features: Jack of All Trades, Song of Rest, and one additional spell known.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Upper City Registry Gates** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Potions: 1 (Sleep), Exhaustion: 0**
@@ -1334,8 +1371,11 @@ The player is finalizing the Level 2 Bard advancement in GOD MODE. I need to app
 God Mode:
 Modify Spell Choice - Change the Level 2 spell choice (Silent Image) to something else
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Upper City Registry Gates** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Exhaustion: 0**
@@ -1441,8 +1481,11 @@ High Level: You are a General (20+ souls).
 
 This progression feels earned and reflects your climb "From Ruin to Archdevil."
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Upper City Registry Gates** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1452,8 +1495,11 @@ The user is in GOD MODE to perform a mechanical retcon. I have acknowledged the 
 God Mode:
 let me pick hold person as a spell and continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **High Hall of Registry, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 2/3, Exhaustion: 0**
@@ -1463,8 +1509,11 @@ The user has finalized their Level 2 spell selection by choosing 'Hold Person'. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and proceed with the marriage registration narrative.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **High Hall of Registry, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 2/3, Exhaustion: 0**
@@ -1482,8 +1531,11 @@ Horgus practically lunges at the book to scrawl his final confirmation. The seal
 > 👤 **Player:**
 > *"Think. What are the marriage laws. if horgus dies would i get his estate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **High Hall of Registry, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Married (Legal) | Inspiration: Yes**
@@ -1497,8 +1549,11 @@ However, the law is a double-edged sword. If he were to die under 'suspicious ci
 God Mode:
 are you fogetting my proficieny bonus in rolls? Intelligence (History): 1d20 +3 INT = 14 +3 INT = 17 vs DC 12 (Standard knowledge of Baldurian civil law) - Success
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **High Hall of Registry, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Inspiration: 2/3 | Exhaustion: 0**
@@ -1512,8 +1567,11 @@ The path ahead is legally clear, but practically perilous. Horgus is currently s
 > 👤 **Player:**
 > *"Think. make a long term plan. I will have children with him and establish legitimacy, and then kill him. By the time i kill him all his allies and patriars should be happy he's dead because they know i'm more effective/efficient after i've won their trust and reduced their social hp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **High Hall of Registry, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 2/3, Exhaustion: 0**
@@ -1529,8 +1587,11 @@ However, as you trace the legal loopholes in your mind, a cold realization strik
 > 👤 **Player:**
 > *"have unprotected sex with him and take various herbs/remedies to try to get pregnant the night before the gala"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Gwent Manor, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: 2/3**
@@ -1544,8 +1605,11 @@ As you rise to prepare for the Gala—the event that will mark your first public
 > 👤 **Player:**
 > *"brief staff, long rest, mask fatigue if needed the next morning"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Gwent Manor, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -1559,8 +1623,11 @@ When Horgus finally emerges, adjusting his gold-threaded waistcoat, he pauses, s
 > 👤 **Player:**
 > *"conserve strength and if im still truly tired double down on the fragile mask and make it easier to sell because i truly am tired"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Gwent Manor, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: 3/3**
@@ -1576,8 +1643,11 @@ He is leaning into his role as your 'savior' with suffocating intensity, and you
 God Mode:
 shouldnt deception let me use proficiency? for level 1 assume i picked intimidation,persusasion,deception as skills
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Gwent Manor, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: 3/3**
@@ -1587,8 +1657,11 @@ The user has identified a mechanical inconsistency regarding skill proficiencies
 > 👤 **Player:**
 > *"reroll using my proper proficiencies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Gwent Manor, Upper City** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: 3/3**
@@ -1602,8 +1675,11 @@ You incline your head just enough to hide the predatory glint in your eyes behin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Arrival - Conserve all remaining energy for the public entrance to ensure the facade holds under the scrutiny of the Patriars.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Cassalanter Villa Entrance, High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1**
@@ -1621,8 +1697,11 @@ Horgus beams, puffing out his chest as he leads you into the lion's den. You hav
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Victoro - Engage Victoro Cassalanter directly to assess his current disposition and the status of his ritual preparations.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Cassalanter Villa, High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Inspiration: Yes**
@@ -1636,8 +1715,11 @@ However, as you attempt to weave a greeting that subtly probes his intent, your 
 God Mode:
 in all these story entries narrate events in detail, describe characters emotions, appearance, scenes in vivid detail like game of thrones, use extensive dialog
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Cassalanter Villa, High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: 3/3**
@@ -1653,8 +1735,11 @@ You feel the bile from the 'mother's tonic' rising in your throat, the exhaustio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify BG3 Assets - Scan the crowd for Wyll, Shadowheart, or Astarion to establish a secondary point of support.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Cassalanter Villa foyer, High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Checks) | Inspiration: Yes (Lyra's Soul)**
@@ -1670,8 +1755,11 @@ You steady yourself, your breath coming in shallow, ragged hitches. When you loo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request a Tonic - Ask a Cassalanter servant for &#x27;revitalizing salts&#x27; or a strong tea to combat the nausea, risking potential tampering.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Cassalanter Villa foyer, High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks)**
@@ -1687,8 +1775,11 @@ Minutes later, he returns with a small silver salver. On it sits a delicate porc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Salts Only - Inhale the revitalizing salts to stay conscious but discard the suspicious tea, maintaining current exhaustion levels.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Cassalanter Villa foyer, High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -1708,8 +1799,11 @@ Horgus, having finished his blustering exchange with a minor noble, turns back t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scan Reception Hall - Utilize the temporary clarity from the salts to search for Wyll, Astarion, or Shadowheart in the larger crowd.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Cassalanter Villa, Reception Hall Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Nocturne Gwent | Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks)**
@@ -1725,8 +1819,11 @@ Horgus steers you toward the center of the room, oblivious to your frantic searc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eavesdrop on Victoro - Focus your remaining mental energy on Victoro&#x27;s upcoming speech for clues about the ritual timing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Cassalanter Villa Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Inspiration: 3/3**
@@ -1742,8 +1839,11 @@ Horgus practically vibrates beside you, his hand tightening on your arm. 'That's
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manipulate a Senior Servant - Identify a more senior member of the household staff to squeeze for the exact timing of the ritual&#x27;s peak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Cassalanter Villa Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -1759,8 +1859,11 @@ The Majordomo turns, his eyes like chips of flint. He doesn't see a Lady in dist
 God Mode:
 for the decption check did you account for my profeciency cha siren b onus?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Cassalanter Villa Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Inspiration: Yes**
@@ -1778,8 +1881,11 @@ He bows, a shallow but genuine acknowledgment of your 'distress,' and turns back
 God Mode:
 wait if the old roll was valid use that, dont retcon it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Cassalanter Villa Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (11:00 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1**
@@ -1797,8 +1903,11 @@ He bows, a shallow but genuine acknowledgment of your 'distress,' and turns back
 God Mode:
 Think. how should i use this new info
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Cassalanter Villa Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (11:05 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks) | Inspiration: 3/3**
@@ -1810,8 +1919,11 @@ Victoro Cassalanter's silent hardening of expression as he pocketed that scroll 
 God Mode:
 my sisters are already dead
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Cassalanter Villa Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (11:05 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -1821,8 +1933,11 @@ The sisters' death is a fixed narrative fact. This shifts the stakes from a resc
 > 👤 **Player:**
 > *"think. I will just attend and gain intel. once i am in a stronger position I will attend the next ritual and invert it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Cassalanter Villa Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -1836,8 +1951,11 @@ You lean into the exhaustion, letting it anchor your 'Broken Swan' persona. You 
 > 👤 **Player:**
 > *"spend the next hour doing the highest roi things to  gain intel and then attend ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Cassalanter Villa - Entrance to the Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1**
@@ -1853,8 +1971,11 @@ You stand now before the entrance to the Temple of the Golden Sun. The doors are
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Ritual Geometry - Focus entirely on the arcane symbols and flow of power to identify the inversion point.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Lvl 1 | Inspiration: 3/3**
@@ -1868,8 +1989,11 @@ But the 'mother’s tonic' and the leaden weight of your fatigue choose this mom
 > 👤 **Player:**
 > *"grip the coun and use my cha to instinctively try to learn this magic using my bard powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -1883,8 +2007,11 @@ You see the golden light pulsing, you hear the screams of the harvested souls, b
 God Mode:
 my CHA focused magic abilities should use all the standard CHA rolls and proficiency
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks)**
@@ -1894,8 +2021,11 @@ The user is in GOD MODE to synchronize magic abilities with standard Charisma me
 God Mode:
 wait undo CHA sync. can we find a way to keep it balanced
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Lvl 1 (Disadvantage on Ability Checks)**
@@ -1905,8 +2035,11 @@ The user wishes to undo the direct 'CHA sync' (which would make Arcana/History/e
 God Mode:
 Apply Balanced Retcon - Keep Proficiency for Arcana/History but use Intelligence as the base attribute.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Lvl 1 | Inspiration: 3/3**
@@ -1916,8 +2049,11 @@ Applying the 'Balanced Retcon' as requested. This configuration keeps the mechan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the scene at the Zenith of the ritual.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: Yes (Lyra's Coin)**
@@ -1935,8 +2071,11 @@ Victoro's face is a mask of ecstatic triumph, his eyes reflecting the blinding l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Victoro&#x27;s Reaction - Watch Victoro&#x27;s immediate actions after the light fades to see if he retrieves the scroll or reveals the ledger&#x27;s location.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -1950,8 +2089,11 @@ He hasn't moved toward any specific alcove or pedestal, and if he retrieved the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mingle and Probe - Approach Victoro as Lady Gwent to offer &#x27;congratulations&#x27; and listen for slips about the archive.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Disadvantage on Checks) | Inspiration: Yes**
@@ -1967,8 +2109,11 @@ You search his face for a slip, for a sign of where he might have secured the sc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit Horgus&#x27;s Pride - Whisper to Horgus to demand a &#x27;closer look&#x27; at the temple&#x27;s artifacts to force Victoro into a tour.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Bardic Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -1984,8 +2129,11 @@ He gestures smoothly toward a side exit, his dismissal as absolute as a stone wa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Retreat to Reception Hall - Follow Victoro&#x27;s suggestion and return to the main party to find a seat and recover.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Cassalanter Villa - Temple of the Golden Sun** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Bardic Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: Yes**
@@ -1999,8 +2147,11 @@ Horgus blusters, his face a shade of wounded pride, but the Lord of the House ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recover in the Alcove - Find a secluded seat and use Song of Rest (narrative) to attempt to mitigate the nausea before the evening festivities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Cassalanter Villa - Reception Hall (Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2 used (1 remaining), Spells: L1 0/3 used (3 remaining), Inspiration: 0/3 used (3 remaining), Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 | Inspiration: No**
@@ -2014,8 +2165,11 @@ As you sink into the cushions, you close your eyes and let the 'Broken Swan' mas
 > 👤 **Player:**
 > *"try to find a cassalanter specialist to cast lesser restoration on me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Cassalanter Villa - Reception Hall (Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2 used (1 remaining) | Spells: L1 0/3 used (3 remaining) | Inspiration: 0/3 used (3 remaining) | Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion Level 1 (Disadvantage on Ability Checks)**
@@ -2031,8 +2185,11 @@ She is a 'Specialist,' one of the elite staff who ensures the Cassalanter guests
 > 👤 **Player:**
 > *"Think. whats the most effective solution. What if i als offer a sexual favor?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Cassalanter Villa - Reception Hall (Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Inspiration: 0/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Disadvantage on Ability Checks) | Inspiration: No**
@@ -2046,8 +2203,11 @@ You lean back, the Song of Rest humming in your blood, and realize that you cann
 God Mode:
 retcon her being gone. remember thinking only increments time by a micro second
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Cassalanter Villa - Reception Hall (Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1**
@@ -2057,8 +2217,11 @@ The retcon is applied. The Alchemist-Priestess, a woman whose clinical eyes seem
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Desperate Victim - Stumble toward her, leaning into the exhaustion to appear as a guest on the verge of death, forcing her to intervene.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Cassalanter Villa - Reception Hall (Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Disadvantage on Ability Checks)**
@@ -2076,8 +2239,11 @@ The Priestess’s hands move with instinctive, professional speed. She catches y
 > 👤 **Player:**
 > *"press for lesser restoration"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Cassalanter Villa - Reception Hall (Buffet)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Disadvantage on Ability Checks) | Inspiration: Yes**
@@ -2095,8 +2261,11 @@ She turns back to her vials, her dismissal as absolute as the stone walls. The '
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Horgus&#x27;s Obsession - Call Horgus over and use his proprietary protectiveness to bully the Priestess into providing the remedy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Cassalanter Villa - Reception Hall (Buffet)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 (Disadvantage on Ability Checks)**
@@ -2116,8 +2285,11 @@ She steps back, her hands folded neatly in her crimson sleeves. Horgus’s blust
 > 👤 **Player:**
 > *"Think. what would work"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Cassalanter Villa - Reception Hall (Buffet)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1**
@@ -2137,8 +2309,11 @@ The Priestess doesn't flinch, but her clinical gaze flickers. She looks at Horgu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Drink the Remedy - Consume the Lesser Restoration to purge the &#x27;mother&#x27;s tonic&#x27; and exhaustion effects.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Cassalanter Villa - Reception Hall (Buffet)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0**
@@ -2156,8 +2331,11 @@ The Priestess watches you, her eyes narrowed. She sees the transition—the way 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rejoin the Fray - Return to the center of the hall to find BG3 assets (Astarion/Shadowheart) now that your perception is clear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Cassalanter Villa - Reception Hall (Center)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:36)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -2171,8 +2349,11 @@ You scan the clusters of Patriars, the knots of whispering Gralhunds, and the si
 > 👤 **Player:**
 > *"persuade someone to tell me where the bg3 companions are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Cassalanter Villa - Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:36)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 3/3 | Inspiration: 3/3 | Exhaustion: 0**
@@ -2186,8 +2367,11 @@ The lead is cold. Your clarity has returned, but the elite of Baldur's Gate are 
 > 👤 **Player:**
 > *"continue to mingle in the party using persuasion to gain useful intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Cassalanter Villa - Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/3**
@@ -2201,8 +2385,11 @@ You gain **150 XP** for successfully extracting high-value intelligence through 
 God Mode:
 give astarion and shadowheart reasonable levels for this s tage of the game. they should be higer than than me by a few levels but not full level 12. Lets assume they are level 5/6 and finished act 1 and took the evil path siding with goblins, inflitrating and maybe truly allying with absolute, and are now doing reconassance in the city. Since they are an evil party they want to control elder brain. Lets change things though so that even if someone controls the elder brain it doesnt give the full control of the world like in the game
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Cassalanter Villa - Reception Hall** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/3**
@@ -2212,8 +2399,11 @@ The user is in GOD MODE to synchronize the status of Astarion and Shadowheart wi
 God Mode:
 note that not all of the bg3 playable characters are evil, just minthara and a core party who sided with absolute. someone like jaheira should stay good etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Cassalanter Villa - Reception Hall (Center)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0**
@@ -2223,8 +2413,11 @@ The user has provided a critical alignment and world-logic clarification. I need
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume Nocturne&#x27;s infiltration of the North Wing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Cassalanter Villa - North Wing (Barracks Approach)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Restored | Exhaustion: 0 | Inspiration: 3/3**
@@ -2240,8 +2433,11 @@ A few paces away, Shadowheart stands in heated conversation with a Senior Guard.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene for Shadowheart - Use your status as Lady Gwent to &#x27;scold&#x27; the guard and rescue Shadowheart from the argument.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Cassalanter Villa - North Wing (Barracks Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0**
@@ -2263,8 +2459,11 @@ Astarion, still leaning against the doorframe, lets out a low, appreciative whis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Siren&#x27;s Leverage - Target Astarion&#x27;s vanity to gain immediate trust (CHA +7 +2 bonus).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Cassalanter Villa - North Wing (Barracks Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (13:56)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2282,8 +2481,11 @@ Shadowheart, meanwhile, has folded her arms, her dark eyes darting between you a
 > 👤 **Player:**
 > *"drop the act and Propose a Mutual Pact: Suggest that your 'noble' access and their 'skills' could benefit them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Cassalanter Villa - North Wing Barracks** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Restored (Lesser Restoration) | Exhaustion: 0 | Inspiration: Yes**
@@ -2301,8 +2503,11 @@ Shadowheart nods once, her posture remaining coiled but the overt hostility fadi
 > 👤 **Player:**
 > *"ask them what they were originally trying to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Cassalanter Villa - North Wing (Barracks Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:14)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/3**
@@ -2320,8 +2525,11 @@ Astarion smiles, a flash of needle-sharp teeth. 'So, "Lady Gwent," since you hav
 > 👤 **Player:**
 > *"reveal my plan to them. I want to invert the ritual, steal its power, and get my revenge. I am happy to play a partner role or even subservient role to them to make it happen. Once i have my power I'll assist them in whatever missions they want as an infernal bard."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Cassalanter Villa - North Wing (Barracks Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:23)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 0/3 | Inspiration: 3/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (1)**
@@ -2339,8 +2547,11 @@ Astarion grins, a flash of needle-sharp teeth. 'Well then, Lady Gwent. It seems 
 > 👤 **Player:**
 > *"leverae  horgus and then go to study and scout for glyphs. explain to my party that for now we should just scout and gain intel, then prep for ritual hijack next time"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Cassalanter Villa - Private Study (Adjoining Temple)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:32)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 600/900 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0**
@@ -2356,8 +2567,11 @@ You reach the heavy, brass-bound door of Victoro’s private study. With the res
 God Mode:
 reward me exp/loot/gear/items for joining up with shadowheart and astarion. they are powerful allies
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Cassalanter Villa - Private Study (Adjoining Temple)** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:32)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration (1) | Exhaustion: 0 | Inspiration: 3/3**
@@ -2371,8 +2585,11 @@ Additionally, Shadowheart has shared a specialized restorative from her Sharran 
 > 👤 **Player:**
 > *"disable minor ward and then analyze ledger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Cassalanter Villa - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:32)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2386,8 +2603,11 @@ Determined to see the contents within, you peer through the heavy glass panes of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the scouting mission in the Study*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Cassalanter Villa - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:41)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Inspiration: 3/3, Exhaustion: 0**
@@ -2413,8 +2633,11 @@ Search for Physical Key: Retreat slightly and scan the nearby corridor/servants 
 Request Guidance: Ask Shadowheart to bolster your next Arcana check with Guidance (1d4)
 Use Masterwork Tools: Attempt to bypass the ward's physical anchor using the +2 bonus from Astarion's tools"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Cassalanter Villa - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (1)**
@@ -2428,8 +2651,11 @@ Astarion, however, doesn't flinch. He uses the momentum of the click to override
 > 👤 **Player:**
 > *"Think. can i have us all copy the book or key elements? how long would it take?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Cassalanter Villa - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (1)**
@@ -2445,8 +2671,11 @@ Shadowheart steps closer, her eyes fixed on the ledger's shimmering names. 'The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scribe Key Elements (15-20 mins) - Focus only on the guard list and the soul-binding logic to enable future inversion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Cassalanter Villa - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/3**
@@ -2458,8 +2687,11 @@ However, twenty minutes is an eternity in a house of predators. You are halfway 
 > 👤 **Player:**
 > *"leave the room and use persuasion to get them to leave us alone. have shadowheart and astarion ready to ambush and trigger surprise round if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Bardic Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2475,8 +2707,11 @@ The parley is over. The steel is out.
 > 👤 **Player:**
 > *"Think. Could i convince these guards that shadowheart and astarion are just my bodyguards?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 0/3, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -2492,8 +2727,11 @@ The air in the corridor ionizes with sudden, violent intent. Astarion is a silve
 > 👤 **Player:**
 > *"THINK:think. whats the best strategy to kill them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2503,8 +2741,11 @@ You pause, your heart hammering against your ribs like a trapped bird, though yo
 God Mode:
 i like surgical strike. but can we cc both of them? i have hold person and shadowheart could cast hold person. Lets have us auto define shadowheart and astarion classes/choices/gear and pick  the best gear possible from act 1 and have them focus on stealth, cc, silent killing. astarion can be a gloomstalker/assassin and shadowheart perhaps death cleric or what do you recommend
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, L2 0/1, Inspiration: 3/3, Exhaustion: 0**
@@ -2520,8 +2761,11 @@ You stand at the center of this surgical strike team, the 'Face' that provided t
 > 👤 **Player:**
 > *"THINK:sh cast higher lvl hold person to disable both guards, then astarion and i will bring them into the room, close the door, and easily slit their throats to instantly kill"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1000/1800 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, L2 0/1, Inspiration: 3/3, Exhaustion: 0**
@@ -2531,8 +2775,11 @@ You pause to consider the tactical geometry of the corridor. The two guards are 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Double Hold Person Strategy - Nocturne upcasts &#x27;Hold Person&#x27; to target both guards. If successful, Astarion moves in for the silent kill.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 1400/2700 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **[OK] | Exhaustion: 0 | Inspiration: 3/3**
@@ -2558,8 +2805,11 @@ You gain **400 XP** for the lethal execution of the North Wing patrol. The corri
 > 👤 **Player:**
 > *"shadowheart casts hold person on both"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 11/11 | XP: 1300/2700 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 3/3, L2 1/1, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2575,8 +2825,11 @@ Then, Shadowheart strikes. She raises the corrupted Blood of Lathander, and a pu
 God Mode:
 level up but remember i cannot use infernal subclass until i invert ritual
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 1300/2700 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/3, Spells: L1 3/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2586,8 +2839,11 @@ The player has triggered the Level 3 advancement in GOD MODE. I must synchronize
 God Mode:
 Finalize Level 3 - Confirm HP 15, Expertise (Deception/Persuasion), and Spell choices.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 1300/2700 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 1/3, Spells: L1 3/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0**
@@ -2597,8 +2853,11 @@ The player is finalizing the Level 3 advancement in GOD MODE. I must apply the m
 God Mode:
 Return to Story - Exit GOD MODE and resume the scene in the corridor.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Cassalanter Villa - North Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 125gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 3/3**
@@ -2630,8 +2889,11 @@ The violence is quiet, efficient, and absolute. The companions catch the falling
 > 👤 **Player:**
 > *"search veterans and find a way to plant evidence this was done by a rival"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Cassalanter Villa - North Wing Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 3/3, Exhaustion: 0**
@@ -2645,8 +2907,11 @@ Shadowheart watches from the doorway, her dark eyes reflecting the flickering to
 > 👤 **Player:**
 > *"regroup with horgus and introduce him to my companions. persuade him that they were originally my brothel customers but now want to enter my service as household guards and essentially horgus service. he should recognize their level 6 power and see how useful they are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Cassalanter Villa - Reception Hall Alcove** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 245gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2664,8 +2929,11 @@ Horgus blinks, his vanity warring with a flash of jealousy. He looks at Astarion
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Ammalia - Engage Lady Cassalanter to see if she is as dismissive as her husband.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Cassalanter Villa - Reception Hall Alcove** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2683,8 +2951,11 @@ She turns back to the lilies, adjusting a stem with a sharp, final snap. To her,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Your Guards - Signal Astarion or Shadowheart to &#x27;accidentally&#x27; reveal their capability to impress or intimidate her*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Cassalanter Villa - Reception Hall Alcove** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0**
@@ -2702,8 +2973,11 @@ Ammalia freezes. Her adjustment of the lilies stops mid-motion. She looks at Ast
 > 👤 **Player:**
 > *"withdraw and wait to see if anyting happens. if not time skip and let the event end and regroup back at horgus manor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Restored | Exhaustion: 0 | Inspiration: No**
@@ -2725,8 +2999,11 @@ You are finally in the primary suite—a sanctuary of cedar and silk. Astarion a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Debrief with the Absolute Pair - Solidify your pact with Astarion and Shadowheart over a bottle of Gwent&#x27;s finest vintage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 245gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Restored | Exhaustion: 0 | Inspiration: Yes**
@@ -2744,8 +3021,11 @@ Astarion smiles, a flash of needle-sharp teeth. "She's right, of course. Though 
 > 👤 **Player:**
 > *"THINK:Plan a way to hollow out horgus staff, get his private papers and will, establish myself as the face of his house, then kill him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp**
@@ -2757,8 +3037,11 @@ You pause, swirling the Sun-Dappled Vintage in your crystal flute. The ruby liqu
 > 👤 **Player:**
 > *"THINK:lets plan for all of these. start black widow quest arc and track all  these subquests"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ⚠️ **Inspiration (1/3) | Exhaustion: 0**
@@ -2770,8 +3053,11 @@ You pause, the ruby vintage shimmering in your glass like a promise of the blood
 > 👤 **Player:**
 > *"THINK:Deeper Analysis - Consider the long-term child/heir strategy and medical remedies needed for success."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 2/3**
@@ -2781,8 +3067,11 @@ You swirl the wine, watching the candlelight dance in the ruby depths. Your mind
 > 👤 **Player:**
 > *"THINK:Deeper Analysis - Re-evaluate the timeline; perhaps killing him sooner is better than waiting for an heir."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2794,8 +3083,11 @@ You set the crystal glass down on the mahogany side table, the ruby vintage leav
 > 👤 **Player:**
 > *"THINK:The Puppet Master - Keep Horgus alive but socially &#x27;dead&#x27;. Use his wealth to fund the Absolute&#x27;s recon while you act as his sole gatekeeper."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp**
@@ -2807,8 +3099,11 @@ You pause, the crystal flute held between two fingers as you stare into the deep
 > 👤 **Player:**
 > *"THINK:lets commit to this plan for now and start planning inversion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2820,8 +3115,11 @@ You swirl the wine, the candlelight playing across your features as the blueprin
 God Mode:
 thats wrong, i cant become the infernal contracts class until after ritual is inverted
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2831,8 +3129,11 @@ The user is correct. The 'College of Infernal Contracts' subclass features are a
 > 👤 **Player:**
 > *"plan the black widow strategy and ritual inversion with shadowheart and astarion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2850,8 +3151,11 @@ Shadowheart turns, her expression disciplined. 'The Absolute Pair is committed, 
 > 👤 **Player:**
 > *"have astarion locate the will and in parallel i wll identify lowalists"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Gwent Manor - Primary Suite / Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Bardic Inspiration: 2/3, Exhaustion: 0**
@@ -2867,8 +3171,11 @@ He has located the archive, but the specific anchor of your inheritance remains 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Join Astarion in the Study - Go to the study personally to help identify the Will using your legal expertise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2200/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3 | Spells: L1 3/4, L2 2/2 | Inspiration: 2/3 | Exhaustion: 0**
@@ -2886,8 +3193,11 @@ Astarion bites back a curse, his fingers twitching toward his blades. 'A minor s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shift the Blame - Plant a piece of the &#x27;intruder&#x27;s&#x27; gear on one of the identified staff loyalists to purge them and explain the Fist&#x27;s arrival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Gwent Manor - Private Study / Hallway** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2400/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2913,8 +3223,11 @@ You gain **200 XP** for the successful staff purge and the redirection of the Fl
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Gwent Manor - Hallway** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2400/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Spells: L1 3/4, L2 2/2, Inspiration: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (2/3)**
@@ -2928,8 +3241,11 @@ You pause in the dim, cedar-scented hallway of Gwent Manor, the rhythmic banging
 > 👤 **Player:**
 > *"THINK:what if i volunteer to audit his staff and purge the remaining loyalists"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Gwent Manor - Hallway** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2400/2700 | Gold: 205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 2/3**
@@ -2939,8 +3255,11 @@ You pause in the dim, cedar-scented hallway, the distant echoes of the Flaming F
 > 👤 **Player:**
 > *"THINK:can we just close the window and resume the will rewriting when horgus is asleep"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Gwent Manor - Hallway** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2400/2700 | Exhaustion: 0**
@@ -2950,8 +3269,11 @@ Your thoughts feel sluggish, and you struggle to see all the angles. Thinking ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Morning - Go to sleep and try again tomorrow when everyone is less alert.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (07:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2400/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 0/3 used (3 remaining) | Spells: L1 0/4 used, L2 0/2 used | Inspiration: 0/3 used | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Long Rested | Exhaustion: 0 | Inspiration: Yes (1)**
@@ -2967,8 +3289,11 @@ Horgus is still dead to the world, a mountain of silk and mercantile greed, but 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rewrite the Will - Use your legal expertise and the quiet of the morning to forge Horgus&#x27;s will in your favor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2400/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 0/3 used, Spells: L1 0/4, L2 0/2, Inspiration: 0/3, Exhaustion: 0**
@@ -2982,8 +3307,11 @@ The Gralhund creditors are erased, replaced by a singular, unshakeable truth: *I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Black Ledger Appendix - Use the quiet morning to apply Shadowheart&#x27;s &#x27;Sharran Cipher&#x27; discovery to the copied ledger nodes (Advantage).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2400/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 0/3, Spells: L1 0/4, L2 0/2, Inspiration: 0/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2999,8 +3327,11 @@ As you finalize the last sigil, a sharp rap at the study door shatters the silen
 > 👤 **Player:**
 > *"THINK:whats the best roi plan here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2550/2700 | Gold: 205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3010,8 +3341,11 @@ You pause, the forged Will cool against your fingertips and the decoded Ledger n
 > 👤 **Player:**
 > *"THINK:Intercept the Courier - Meet the courier yourself and use Deception to claim Horgus is &#x27;indisposed&#x27; or &#x27;too ill&#x27; to sign, buying time to plan."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2550/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3024,8 +3358,11 @@ You pause, the forged Will resting like a cold secret beneath your palm. The arr
 Intercept with Deception: Meet the courier and claim Horgus has a 'grievous morning fever' and cannot be disturbed, requesting the summons be left with his Lady.
 Deploy Shadowheart: Have Shadowheart greet the courier as a 'specialist' treating the Lord, lending medical weight to the claim of illness"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2550/2700 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0**
@@ -3043,8 +3380,11 @@ He hands you the scroll, his fingers trembling slightly as they brush your glove
 God Mode:
 level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 15/15 | XP: 2700/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (1)**
@@ -3054,8 +3394,11 @@ The user is in GOD MODE to process a Level 4 advancement. This is an administrat
 > 👤 **Player:**
 > *"+2 cha and let me pick spells"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -3065,8 +3408,11 @@ Nocturne has reached Level 4. I am applying the Ability Score Improvement (+2 CH
 > 👤 **Player:**
 > *"choose friends and invis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Level 4 Advancement Finalized | Exhaustion: 0 | Inspiration: Yes**
@@ -3076,8 +3422,11 @@ Nocturne has finalized her Level 4 advancement. With Charisma increased to 18, h
 > 👤 **Player:**
 > *"brainstorm marraige inquiry summon with my companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0**
@@ -3093,8 +3442,11 @@ You feel the weight of their gaze, the 'Absolute Pair' waiting for their archite
 > 👤 **Player:**
 > *"THINK:what if i tell horgus and convince him to help us beat it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -3104,8 +3456,11 @@ You stand in the quiet foyer, the legal summons heavy in your hand, and consider
 > 👤 **Player:**
 > *"THINK:No i jsut mean tell him about the marraige challenge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3115,8 +3470,11 @@ You pause, the heavy vellum of the summons feeling like a cold weight against yo
 > 👤 **Player:**
 > *"THINK:Tell Horgus - Frame the Inquiry as a Family Betrayal - Wake him and explain the cousins are trying to steal his legacy. Use Persuasion to lead his rage toward a legal counter-attack."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (08:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2700/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -3126,8 +3484,11 @@ You pause, the heavy vellum summons in your hand, and consider the tactical land
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame the Betrayal - Wake Horgus and explain the cousins are trying to steal his legacy. Lead his rage toward a legal counter-attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0**
@@ -3153,8 +3514,11 @@ As Horgus scrambles to his feet, a frantic scratching at the bedroom door interr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Cassalanter Messenger - Step out to meet the messenger personally before Horgus can involve himself in Cassalanter business.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Gwent Manor - Master Suite Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, Inspiration: 3/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3202,8 +3566,11 @@ System: ━━━ Spells & Resources ━━━
   • Hit Dice: ?/3
   • Bardic Inspiration: ?/3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 0/4, L2 0/3, Inspiration: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3217,8 +3584,11 @@ The user is confirming character statistics and resources in GOD MODE. Upon audi
 God Mode:
 for equipment shouldnt i have my hairpin dagger and clothes?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 0/4 used (4 remaining), Spells: L1 0/4 used (4 remaining), L2 0/3 used (3 remaining), Inspiration: 0/4 used (4 remaining), Exhaustion: 0**
@@ -3232,8 +3602,11 @@ The user is auditing character statistics and equipment in GOD MODE. I have veri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Gralhund Frame - Claim the Gralhunds tried to &#x27;reclaim&#x27; you from the North Wing, and your guards barely escaped an ambush.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 2850/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0**
@@ -3251,8 +3624,11 @@ He flees the foyer as if the hounds of the High Ward were at his heels. You stan
 > 👤 **Player:**
 > *"THINK:What if we use the gralhund frame job and this legal thing to strike them, hollow them out, have horgus posses their assets, and build up my rep with casslanters"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (1)**
@@ -3262,8 +3638,11 @@ You pause, the 'Inversion Blueprint' a hidden heat against your thigh. Your mind
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Tainted Gold Trace - Have Astarion plant forged ledgers in the cousins&#x27; archives showing recent large payments to Gralhund &#x27;security&#x27; consultants.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3281,8 +3660,11 @@ You've planted the 'Tainted Gold Trace,' but the evidence is fragile. The Gralhu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Shadowheart - Have Shadowheart use &#x27;Disguise Self&#x27; to pose as a Gralhund messenger and &#x27;confirm&#x27; the payments to a known cousin contact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (10:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -3300,8 +3682,11 @@ Shadowheart returns to Gwent Manor twenty minutes later, her disguise already di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Meet Belial Personally - Step out to meet the Assessor before he reaches the gates, using Siren&#x27;s Leverage to misdirect his audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0**
@@ -3321,8 +3706,11 @@ Belial’s jaw sets, a micro-expression of professional frustration. He knows yo
 > 👤 **Player:**
 > *"ask him if i can meet with casslanter. i have some elite bodyguards now and can strike at the gralhunds for them, if properly compensated. I'll act like cannon fodder so if i fail casslanter hands are clean and if i win, then casslanter has a  threat removed from the board."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0**
@@ -3342,8 +3730,11 @@ A Natural 20 ripples through the air. Belial stands perfectly still, his investi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Horgus - Convince Horgus that the Cassalanters have &#x27;requested&#x27; our aid, securing more funds for &#x27;equipment.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0**
@@ -3363,8 +3754,11 @@ Horgus blinks, his vanity swelling like a bellows. The idea that Victoro Cassala
 > 👤 **Player:**
 > *"request 1000 gold, access to gwent vaults, specialized bard equiment/gear for me (persuade him i wont fight but need to be around). Explain that we can hollow out  the gralhund estate and loot things and perhaps legally have him inherit things."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3000/6500 | Gold: 1205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3395,8 +3789,11 @@ You take the gold and the key, the weight of the metal a cold, satisfying anchor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect Gwent Vaults - Head to the cellar to select your specialized bard equipment and scout the family&#x27;s secret assets.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Gwent Manor - Family Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3250/6500 | Gold: 2205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Restored | Exhaustion: 0 | Inspiration: Yes**
@@ -3416,8 +3813,11 @@ Shadowheart stands by the door, her dark eyes scanning the racks of equipment. '
 > 👤 **Player:**
 > *"just ask horgus how to decode this Investigation (Secret Assets): 1d20 +5 = 8 +5 = 13 vs DC 16 (Decoding mercantile obfuscation) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Gwent Manor - Family Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3250/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | Inspiration: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -3439,8 +3839,11 @@ But as the realization of Horgus's father's paranoia sinks in, a sudden, urgent 
 God Mode:
 assume i found reasonable armor,weapons melee/ranged, and bard related gear in the vault. equip them now and show me before/after stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Gwent Manor - Family Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3250/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Inspiration: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/4)**
@@ -3450,8 +3853,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:how should i handle the auditor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Gwent Manor - Family Vaults** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3250/6500 | Gold: 3205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3461,8 +3867,11 @@ You pause to consider your options. (INT 16): Your mind, sharpened by the Sosuke
 > 👤 **Player:**
 > *"confront the watch and persuade tthem everything is fine and be ready to use friends spell and shadowheart enhance ability charsima if needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Gwent Manor - Front Gates** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3250/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Inspiration: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3482,8 +3891,11 @@ The 'Siren's Leverage' and Shadowheart's magic fail to find purchase against the
 > 👤 **Player:**
 > *"make sure i used bardic inspiration too, keep the current rol land add it to win"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Gwent Manor - Foyer/Gates** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3250/6500 | Gold: 4205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, Bardic Inspiration: 3/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3505,8 +3917,11 @@ You gain **250 XP** for the high-stakes social victory over the High Ward Watch!
 > 👤 **Player:**
 > *"go handle the legal stuff with gralhunds and bring shadowheart and astarion. also regsiter them as gwent retainers."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Gwent Manor - Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3500/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, Bardic Inspiration: 3/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -3529,8 +3944,11 @@ Gralhund Legal Maneuver: 1d20 +5 INT = 6 +5 = 11 vs DC 18 (Elite Cassalanter-bac
 
 and use friends if needed and ehance ability from shadowheart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Gwent Manor - Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3500/6500 | Gold: 4205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, Bardic Inspiration: 2/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced (Eagle's Splendor/Fox's Cunning) | Exhaustion: 0 | Inspiration: No**
@@ -3552,8 +3970,11 @@ Horgus roars with laughter, the sound wet and triumphant. "Inheriting them! I li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Remaining Staff - Use your new authority to identify any remaining Gralhund or Cousin loyalists in the manor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Gwent Manor - Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3500/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, BI: 1/4, Exhaustion: 0**
@@ -3575,8 +3996,11 @@ Horgus roars with laughter, the sound wet and triumphant. "Inheriting them! I li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Remaining Staff - Use your new authority to identify any remaining Gralhund or Cousin loyalists in the manor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Gwent Manor - Study** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3500/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, BI: 1/4, Exhaustion: 0**
@@ -3594,8 +4018,11 @@ You have identified the rot. The manor is no longer a sanctuary of blind servant
 > 👤 **Player:**
 > *"use deception to feed the leaks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3500/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, BI: 1/4, Exhaustion: 0**
@@ -3613,8 +4040,11 @@ The stable boy's knuckles white as he grips his whetstone, and the laundry maid'
 > 👤 **Player:**
 > *"THINK:Should I just struke gralhunds first or do some public legal thing first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3500/6500 | Gold: 3205gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3624,8 +4054,11 @@ You pause, the silk of your gown whispering against the cedar as you stand at th
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Registry Gambit - Ignore the physical strike for now. Use Horgus&#x27;s signature to file the counter-suit and asset freeze immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **High Hall of Registry - Public Records** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -3651,8 +4084,11 @@ The complication is immediate and sharp: the cousins have anticipated your move 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intimidate the Solicitor - Have Astarion or Shadowheart &#x27;quietly&#x27; discourage the Gralhund agent from continuing his protest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **High Hall of Registry - Public Records** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3668,8 +4104,11 @@ He turns back to the Clerk, dismissively waving a hand toward you. 'Master Clerk
 God Mode:
 No use my intimidation roll and have bardic inspiration and enhance ability used if needes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **High Hall of Registry - Public Records** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, BI: 0/4** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Eagle/Fox) | Exhaustion: 0 | Inspiration: Yes**
@@ -3687,8 +4126,11 @@ However, as you reach for the Sosuke precedents that would allow you to bypass t
 > 👤 **Player:**
 > *"Use my persuasion to squeeze bypass and I should still have enhance abiliry"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **High Hall of Registry - Public Records** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | BI: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Eagle's Splendor) | Exhaustion: 0 | Inspiration: No**
@@ -3706,8 +4148,11 @@ The Solicitor lets out a choked sound of disbelief, clutching his wax cylinder a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Defend the Manor - Return immediately to Gwent Manor to intercept the Gralhund &#x27;Recovery Team&#x27; and protect the forged Will.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Gwent Manor - Exterior/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 1/3 | BI: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA) | Exhaustion: 0 | Inspiration: No**
@@ -3721,8 +4166,11 @@ You arrive just as the first Gralhund agent reaches for the service entrance. Yo
 > 👤 **Player:**
 > *"Sirens call and get Astarion to trigger surprise round with a ranged attack"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Gwent Manor - Exterior/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 1/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Friends (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -3738,8 +4186,11 @@ Shadowheart raises her hand, silver light blooming in the dusk. Astarion strikes
 > 👤 **Player:**
 > *"Command household guard. Use hold person. Have shadowheart also upcast hold person. Astsrion kill them. Should I get a surprise round even if Astsrion missed?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Gwent Manor - Exterior/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 0/4, L2 3/3 used | BI: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3772,8 +4223,11 @@ The Gralhund 'Recovery Team' stands broken at your gates—surprised, silent, an
 God Mode:
 Retcon my redundant hold person into something useful
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Gwent Manor - Exterior/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3783,8 +4237,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Sirens call. Have the enemies surrender and have everyone tied up and looted and brought into manor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Gwent Manor - Exterior/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 3600/6500 | Gold: 3205gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 2/3, BI: 0/4, Exhaustion: 0**
@@ -3819,8 +4276,11 @@ At your sharp command, the household staff moves with a grim, practiced efficien
 > 👤 **Player:**
 > *"Secure will, loot, interrogate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 3445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3838,8 +4298,11 @@ You turn your gaze to Captain Varek. You offer a sharp, singular command to your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Captain Varek - Have Shadowheart release the paralysis just enough for him to speak, using Siren&#x27;s Leverage to extract intel on Gralhund defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Gwent Manor - Cellar Holding Room** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 3445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3861,8 +4324,11 @@ Astarion offers a razor-thin smirk, his crimson eyes gleaming. 'The docks, the B
 > 👤 **Player:**
 > *"THINK:what if i approach casslanter and explain this newest attack on me, get him to fund an attack, then go to the watch with horgus and get watch support"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Gwent Manor - Cellar** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 3445gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3872,8 +4338,11 @@ You pause in the damp, cedar-scented quiet of the cellar, the rhythmic gasps of 
 > 👤 **Player:**
 > *"THINK:long rest and then cannon fodder poroposal at dawn"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Gwent Manor - Cellar** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 3445gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3883,8 +4352,11 @@ You pause in the cool, damp silence of the cellar, the rhythmic, muffled gasps o
 > 👤 **Player:**
 > *"THINK:What if i do cannon fodder and then legal annexation? Could I win without bloodshd?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Gwent Manor - Cellar** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 3445gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3894,8 +4366,11 @@ You pause in the cool, damp silence of the cellar, the rhythmic, muffled gasps o
 > 👤 **Player:**
 > *"lets go meet with cassalnter early first to see if he will support us and fund it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Gwent Manor - Cellar / Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 4445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3911,8 +4386,11 @@ Horgus scoffs, slamming the bottle onto the sideboard. 'Rest? While they audit m
 > 👤 **Player:**
 > *"seductive tranquliity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 3445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Friends | Exhaustion: 0**
@@ -3930,8 +4408,11 @@ You watch him collapse into the pillows, his snores quickly returning to their r
 > 👤 **Player:**
 > *"go to casslander now with cannon fodder plan and try to get gold,resources,elite  agents that are untracable to help me, bring shadowheart and astarion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Cassalanter Villa - Private Conservatory** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4750/6500 | Gold: 4445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Friends | Exhaustion: 0 | Inspiration: No**
@@ -3953,8 +4434,11 @@ You exit the Villa not as a guest, but as a general. You meet Captain Rusk at th
 God Mode:
 you didnt add  the gold up correctly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Cassalanter Villa - Private Conservatory** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5250/6500 | Gold: 6285gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4**
@@ -3964,8 +4448,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:what if i strike the villa now wit heverything i have and use legal annexation to liquidate other stuff later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Cassalanter Villa - Private Conservatory** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5250/6500 | Gold: 11285gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4**
@@ -3975,8 +4462,11 @@ You pause, the heavy platinum purse from Victoro a solid weight against your sil
 > 👤 **Player:**
 > *"THINK:well if i hit the villa right now first and try to kill/capture the gralhunud leadership any downsides"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Cassalanter Villa - Private Conservatory** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (10:00 (Microsecond 15))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5250/6500 | Gold: 12285gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4**
@@ -3986,8 +4476,11 @@ You pause, your fingers tracing the cool, obsidian surface of the token Victoro 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strike Docks Warehouse First - Hit the weakest node to trigger the &#x27;fallback protocol&#x27;, drawing guards away from the Villa.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Docks - Gralhund Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 6285gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4, Exhaustion: 0**
@@ -4009,8 +4502,11 @@ As the messenger flees toward the High Ward, you turn to the crates. The 'fallba
 God Mode:
 give me some pauses after each arc where nothing serious happens for a few days so i can relax and talk to companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Gralhund Warehouse - Docks** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4800/6500 | Gold: 6285gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 1/4, L2 2/3 | BI: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4020,8 +4516,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Warehouse Ledgers - Search the warehouse for any specific shipping manifests that link Gralhund to Cassalanter debts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Gralhund Warehouse - Docks** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 6285gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 1/4, L2 2/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4039,8 +4538,11 @@ You tuck a mundane shipping schedule into your silks—perhaps it will serve as 
 > 👤 **Player:**
 > *"loot everything useful in warehouse, wait to see guards leaving villa, then have watch legal annex counting house and surgical strike with passphrase on villa"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Gralhund Villa - High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4600/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 1/4, L2 2/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4062,8 +4564,11 @@ You step into the torchlight, your mourning veil shimmering like a spider's web.
 > 👤 **Player:**
 > *"force the pivot and use enhance ability and bardic insp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Gralhund Villa - Sanctum Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4850/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 1/4, L2 1/3, BI: 0/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Friends | Exhaustion: 0 | Inspiration: No**
@@ -4083,8 +4588,11 @@ He yanks the final bolt back. The heavy doors groan open, revealing the Gralhund
 > 👤 **Player:**
 > *"kill sentry and then force pivot using bardic insp and enhance ability. in the future always give me a planning block option to use this for failed rolls"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Gralhund Villa - Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 4900/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 1/4 used, L2 2/3 used | BI: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4102,8 +4610,11 @@ He yanks the final bolt back. The heavy doors groan open, revealing the Gralhund
 God Mode:
 no i mean kill the guard and then force pivot as in force the watch to annex counting house
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Gralhund Villa - Sanctum Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5150/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4115,8 +4626,11 @@ Outside the Villa's perimeter, the strategic landscape shifts. Captain Rusk, pre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and face Lady Gralhund in the Sanctum*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Gralhund Villa - The Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5150/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4**
@@ -4132,8 +4646,11 @@ You step forward, the 'Sosuke Heritage' rapier a cold weight at your hip, your m
 > 👤 **Player:**
 > *"i should still have enhance abilit and then i use bardic insp and sirens call. demand surrender of guards and lady gral. upcast hold person on all of them from shadowheart if it fails"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Gralhund Villa - The Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5150/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 0/4** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA) | Exhaustion: 0 | Inspiration: No**
@@ -4153,8 +4670,11 @@ You gain **350 XP** for the social victory and the successful neutralization of 
 > 👤 **Player:**
 > *"salvage leder (have astarion do it who has best dex), bind and loot everyone and the sanctum"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Gralhund Villa - The Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5500/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 1/3 | BI: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4174,8 +4694,11 @@ From the shadows of the high vaulted ceiling, a minute, red-eyed silhouette deta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Captain Rusk - Officially hand over the foyer to the Watch to cement the &#x27;Private Recovery&#x27; facade, while keeping the Sanctum private.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Gralhund Villa - The Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5500/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 1/3 | BI: 0/4 | Exhaustion: 0**
@@ -4199,8 +4722,11 @@ The handover is complete. The Watch now stands as your external shield, cementin
 > 👤 **Player:**
 > *"final interrogation and then audit santcum remanents"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Gralhund Villa - Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 5900/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 1/3 | BI: 0/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4225,8 +4751,11 @@ You gain **250 XP** for the successful extraction and final interrogation. The p
 > 👤 **Player:**
 > *"try to persuade watch to let lady gralhund come with me. use bardic insp and i should still have enhance ability on me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Gralhund Villa - Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 3/4 (Used: 1)** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA) | Exhaustion: 0 | Inspiration: No**
@@ -4250,8 +4779,11 @@ You signal Astarion, who hauls Yalah Gralhund to her feet with a predatory smirk
 > 👤 **Player:**
 > *"have the watch escort my team and lady gralhund back to gwent manor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Gwent Manor - Private Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6400/6500 | Gold: 6635gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 3/4** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA) | Exhaustion: 0 | Inspiration: Yes**
@@ -4270,8 +4802,11 @@ Shadowheart stands by the balcony, her dark eyes scanning the High Ward rooftops
 God Mode:
 shouldnt i get more gold from liquidating gralhund
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **Gwent Manor - Private Suite** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 7405gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 3/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -4281,8 +4816,11 @@ You pause to consider your options...
 God Mode:
 how about counting house annexation? or does that stay under horgus control for now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Gwent Manor - Private Suite** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (00:01)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 10445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 1/3 | BI: 3/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4292,8 +4830,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"return to story, i go shopping with shadowheart and astarion and look for the best spell DC/cha gear in the bg3 game"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **The High Ward - 'The Gilded Quill' Boutique** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 10445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 4/4, L2 3/3 | BI: 4/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Rested | Inspiration: Yes**
@@ -4323,8 +4864,11 @@ You have 10,445 gold pieces. To acquire the 'Birthright' and the 'Robe of the We
 God Mode:
 why did you time skip 10hr was that for finding gear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **The High Ward - 'The Gilded Quill' Boutique** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 10,445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, BI: 4/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Refreshed (Long Rest) | Exhaustion: 0 | Inspiration: Yes**
@@ -4334,8 +4878,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"try to negotiate 10k for everything including amulet. use bardic inspiration, enhance ability, sosuke predence. keep all the gear for myself"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **The High Ward - 'The Gilded Quill' Boutique** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 1/3 | BI: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Friends (Active) | Exhaustion: 0 | Inspiration: No**
@@ -4355,8 +4902,11 @@ As you exit 'The Gilded Quill,' the High Ward sun feels warmer against your new 
 God Mode:
 next time dont automatically long rest for me, but you can suggest it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **The High Ward - 'The Gilded Quill' Boutique** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 1/3 | BI: 2/4 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Ability (CHA), Friends (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -4366,8 +4916,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **The High Ward - 'The Gilded Quill' Boutique** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0**
@@ -4398,8 +4951,11 @@ does this mean I am wearing both?
 
 Show me my stats with and without all my gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **The High Ward - 'The Gilded Quill' Boutique** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | AC: 16 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4409,8 +4965,11 @@ You pause to consider your options...
 God Mode:
 you forced a long rest earlier, tehse should be recovered Resources: HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **The High Ward - 'The Gilded Quill' Boutique** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4 used (0 remaining) | Spells: L1 3/4 used (1 remaining), L2 1/3 used (2 remaining) | BI: 2/4 used (2 remaining) | Exhaustion: 0**
@@ -4420,8 +4979,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume narrative on Mirtul 19*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **The High Ward - Outside 'The Gilded Quill'** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | AC: 16 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4437,8 +4999,11 @@ You feel the thrum of the **Lute of the Iron Rose** on your back, its silver-spu
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **The High Ward - Outside 'The Gilded Quill'** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0**
@@ -4454,8 +5019,11 @@ You feel the **Lute of the Iron Rose** vibrate against your back, its silver-spu
 God Mode:
 i should be wearing amulet of devout, not shadowheart
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **High Ward Street** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4465,8 +5033,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Party Gear - Show current equipment for Nocturne, Astarion, and Shadowheart.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **The High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -4476,8 +5047,11 @@ You pause in the sun-drenched street, the heavy hum of the Amulet of the Devout 
 God Mode:
 amulet of th e devout is +2 spell dc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **The High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4518,8 +5092,11 @@ If you hit 6 levels of exhaustion, the character dies.[3]
 [9](https://www.youtube.com/watch?v=nmQiKCx41yU)
 [10](https://arcaneeye.com/mechanic-overview/exhaustion-5e/)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **The High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4529,8 +5106,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"repor success against his cousins to horgus and request additional gold/supplies/gear since i demonstrated success"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 1445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4550,8 +5130,11 @@ He shoves a heavy purse of gold into your hands, his eyes wide with a manic, pos
 God Mode:
 i did al ong rest earlier, you forgot to refresh these Resources: HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 1/4, Exhaustion: 0
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 2445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4561,8 +5144,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:should i just meet Victoro report success and build his trust more and then see if he wants me to do anything else? i can ask for timing of next ritual and prepare to invert it later. apparently he works for the absolute so what if shadowheart/astarion ask their masters if the absolute can help me take over since t he casslanders are not competent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 2445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 2/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Robe of the Weave, Birthright, Amulet of the Devout (+2) | Exhaustion: 0 | Inspiration: Yes**
@@ -4572,8 +5158,11 @@ You pause in the opulent silence of the master suite, the heavy weight of Horgus
 > 👤 **Player:**
 > *"THINK:do i have enough gold to hire a lvl 5 sorceror merc to twin cast haste"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Gwent Manor - Master Suite** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 2445gp** &nbsp;|&nbsp; ⚠️ **Ghost-Marked (Perception DC 22) | Exhaustion: 0 | Inspiration: No**
@@ -4588,8 +5177,11 @@ this is wrong, just fully fresh everything Resource synchronization complete. I 
 - **Bardic Inspiration**: 1/4 (3 used)
 - **Exhaustion**: 0
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Gwent Manor** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (11:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 3445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4599,8 +5191,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Find an Outer City Freelancer - Send Astarion to the Little Calimshan districts to find a powerful caster who doesn&#x27;t ask questions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Gwent Manor / Little Calimshan** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 3445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Robe of the Weave, Birthright, Amulet of the Devout | Exhaustion: 0 | Inspiration: Yes**
@@ -4618,8 +5213,11 @@ Astarion sets the glass down with a precise click. 'She doesn't ask questions, N
 > 👤 **Player:**
 > *"verify loyalty, the nnegotiate. try to do daily rate of 200g and promise her magic items"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Gwent Manor / Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 6150/6500 | Gold: 3445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4639,8 +5237,11 @@ Shadowheart shifts beside you, her hand tightening on the Blood of Lathander. 'S
 God Mode:
 did you forget togive me exp for all the wins and the gralhund arc win?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (15:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 19/19 | XP: 7650/14000 | Gold: 3445gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4650,8 +5251,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Shadowheart&#x27;s Specialist Insight - Suggest that Shadowheart can teach her Sharran ciphers in addition to the gold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 23/23 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, L3 2/2, BI: 1/4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Friends | Exhaustion: 0 | Inspiration: Yes**
@@ -4669,8 +5273,11 @@ She reaches into the obsidian bowl and draws forth a handful of grey dust, blowi
 God Mode:
 process lvl up and let me pic kmy spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/4, L2 1/3, L3 2/2 | BI: 1/4 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4680,8 +5287,11 @@ You pause to consider your options...
 God Mode:
 hyp pattern
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, L3 2/2, BI: 1/4 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4691,8 +5301,11 @@ You pause to consider your options...
 God Mode:
 a bard gets to pick 2 spells at level 5?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/4, L2 1/3, L3 2/2, BI: 1/4 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4702,8 +5315,11 @@ You pause to consider your options...
 God Mode:
 refill all my spell slots Resources: HD: 4/4, Spells: L1 3/4, L2 1/3, L3 2/2, BI: 1/4 (d8), Exhaustion: 0
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4713,8 +5329,11 @@ You pause to consider your options...
 God Mode:
 mage hand, suggestion, major image
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:30 (Afternoon))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4724,8 +5343,11 @@ You pause to consider your options...
 God Mode:
 swap major image with hypnotic pattern and list all my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Basilisk Gate Dead-drop** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -4735,8 +5357,11 @@ You pause to consider your options...
 God Mode:
 return to story and remove companion limit
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Basilisk Gate Dead-drop (Alleyway)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -4752,8 +5377,11 @@ As you begin to respond, a commotion erupts at the end of the alley. A group of 
 > 👤 **Player:**
 > *"shadowheart cast pass without trace and have astarion scout the mercs to see who they are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Basilisk Gate Dead-drop (Alleyway)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3 (1 used), L3 2/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (+10 Stealth) | Exhaustion: 0 | Inspiration: Yes**
@@ -4771,8 +5399,11 @@ He idly touches the hilt of his dagger, his eyes flicking toward the Weaver. "We
 > 👤 **Player:**
 > *"THINK:what if we lure them somewhere and kill them. who else is at play for gralhund"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Basilisk Gate Alleyway** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:30 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -4782,8 +5413,11 @@ You pause as the Absolute's shroud of silence wraps around you, the cold stone o
 > 👤 **Player:**
 > *"execute on the plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 1/3 (1 used), L3 2/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (Active) | Inspiration: Yes**
@@ -4807,8 +5441,11 @@ Behind you, a terrifying, multi-limbed shadow drops from the High Hall spire, it
 > 👤 **Player:**
 > *"THINK:should we just go and kill or finish off both parties"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (Conc) | Exhaustion: 0 | Inspiration: Yes**
@@ -4818,8 +5455,11 @@ You pause as the Absolute's shroud of silence wraps around you, the cold stone o
 God Mode:
 i think you messed up spell slots, shadowheart used pwt, not me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 8650/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration (Yes) | Exhaustion: 0**
@@ -4837,8 +5477,11 @@ Astarion detaches from the wall, his silver hair a phantom flicker in the dusk. 
 > 👤 **Player:**
 > *"legal execution and try to capture both parties"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 1/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Ghost-Marked (Guild), Pass Without Trace (maintained) | Exhaustion: 0 | Inspiration: Yes**
@@ -4862,8 +5505,11 @@ You gain **750 XP** for the tactical neutralization and the total social victory
 > 👤 **Player:**
 > *"command bone devil and if it doesnt work have sh try to cast command too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:41)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Ghost-Mark (Active) | Inspiration: Yes**
@@ -4883,8 +5529,11 @@ As the Watch begins to march the dazed Gralhund survivors away, you feel the exp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Quick Interrogation - Squeeze the dazed mercenaries for info on Nine-Fingers&#x27; &#x27;Ghost&#x27; before the Watch takes them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pass Without Trace (Active) | Inspiration: Yes**
@@ -4904,8 +5553,11 @@ You stand, the **Birthright** hat casting a long, sharp shadow across the stone.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout for Vylna - Use Eyes of the Eagle and See Invisibility (if available) to scan for the Ghost before moving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **[Success Streak: 5] | Exhaustion: 0 | Inspiration: Yes**
@@ -4921,8 +5573,11 @@ Astarion offers a low, dry chuckle, his crimson eyes never leaving the high wind
 > [!NOTE] ⚙️ **Player Choice:**
 > *Squeeze the Sergeant - Use the 31 Persuasion momentum to demand a Watch contingent stay at the manor for &#x27;protection&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Basilisk Gate (Narrow Alleyways)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4940,8 +5595,11 @@ Shadowheart exhales, a quiet sound of disciplined relief. Astarion offers a razo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor the Bone Devil - Use the Lute to permanently bind the devil to the manor&#x27;s wards as a sentinel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Gwent Manor (Foyer/Wards)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 5/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4965,8 +5623,11 @@ Shadowheart exhales, her hand loosening its grip on her mace. 'The wards are stu
 > 👤 **Player:**
 > *"reroll with bardic insp and enhance ability int Arcana (Anchor Bone Devil): 1d20 +6 INT/PROF = 15 +6 = 21 vs DC 22 (Permanently binding CR 9 devil to wards) - Failur"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Gwent Manor (Foyer)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (INT), Shielded | Exhaustion: 0 | Inspiration: Yes**
@@ -4984,8 +5645,11 @@ As the silence returns to the foyer, the manor feels changed—heavier, more pre
 > 👤 **Player:**
 > *"back to manor with new merc prisoners and watch escort, interrogate yalah"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Gwent Manor (Cellar Holding Room)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9400/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -5005,8 +5669,11 @@ You stand, the Birthright hat casting a long, sharp shadow across her trembling 
 > 👤 **Player:**
 > *"ask her when the next ritual is"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Gwent Manor (Cellar Holding Room)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9550/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 3/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5024,8 +5691,11 @@ As you stand, the Ghost-Mark at the base of your spine pulses with a sudden, rhy
 > 👤 **Player:**
 > *"persuade yalah to hand over the grahlundh estate to me. if i get the estate ill protect her and not kill her. she can remain as my advisor under my house"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Gwent Manor (Cellar Holding Room)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (20:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 1/2 | BI: 4/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5045,8 +5715,11 @@ You take the ring, the metal cold and heavy with the weight of a fallen house. B
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult the Weaver - Ask the Weaver of Ash if her metamagic can help stabilize a localized &#x27;See Invisibility&#x27; field to find the Ghost.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Gwent Manor (Cellar Holding Room)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 3/3, L3 1/2 | BI: 4/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5066,8 +5739,11 @@ Then, you see it. Near the heavy cedar door leading back to the foyer, the silve
 > 👤 **Player:**
 > *"hold person"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Gwent Manor (Cellar Holding Room)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 1/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), See Invisibility (Localized) | Exhaustion: 0 | Inspiration: Yes**
@@ -5089,8 +5765,11 @@ The Watch Sergeant's frantic, muffled reply filters through the floorboards, but
 > 👤 **Player:**
 > *"THINK:whas the high inquisitor doing. is it about my marriage? if the gralhunds are destroyed and horgus is fine with it whats the risk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Gwent Manor (Cellar Holding Room)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0**
@@ -5100,8 +5779,11 @@ You pause, the silver-spun strings of your lute still humming from the binding r
 > 👤 **Player:**
 > *"THINK:have others secure valna and lady gralhund somewhere safe and go meet the inquisitor and use legal fortress. have shadowheart cast enhance ability charisma on me. use siren leverage and birthright too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Gwent Manor (Cellar Holding Room)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 1/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -5111,8 +5793,11 @@ You pause, the silver-spun strings of the Lute of the Iron Rose still vibrating 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke &#x27;Legal Fortress&#x27; - Have Astarion/Weaver secure Vylna/Yalah. Meet Arros with Shadowheart&#x27;s CHA buff. Present the Sentinel as a sanctioned security asset using the Letter of Mark.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Gwent Manor (Foyer)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 1/4, L2 1/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -5132,8 +5817,11 @@ Arros takes the document, his gloved fingers tracing the seal. He looks from the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Auditor - Subtly question Arros&#x27;s own jurisdiction to see if Victoro sent him as a test.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Gwent Manor (Foyer)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA) | Inspiration: Yes (d8)**
@@ -5153,8 +5841,11 @@ He offers a stiff, perfunctory bow and signals his men to retreat to the gatehou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Ghost - Return to the cellar and use the Siren&#x27;s Leverage on the paralyzed Vylna to learn the Guild&#x27;s specific plans for the ledger.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5174,8 +5865,11 @@ But as Vylna's confession sets, a sudden, sharp chill ripples through the vault.
 God Mode:
 how often do these living world complications trigger?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -5185,8 +5879,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Advisor&#x27;s Gambit - Have Yalah Gralhund draft an &#x27;emergency deposition&#x27; claiming the ledger was a gift to Horgus to stall the Watch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 3045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Birthright (+2 CHA), Robe of the Weave (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -5204,8 +5901,11 @@ As she seals the 'Emergency Deposition' with the Gralhund signet, the Ghost-Mark
 God Mode:
 wait why did victoro report the ledger stolen. he authorized my mission shouldnt he wait for my report or ask me first before sending the wathc on me? if this makes sense narratively its ok but explain this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 9045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -5215,8 +5915,11 @@ You pause to consider your options...
 God Mode:
 explain the unforseen complications mechanic and why it triggered
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 9045gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5226,8 +5929,11 @@ You pause to consider your options...
 God Mode:
 why did you update my gold? are you sure thats right
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5237,8 +5943,11 @@ You pause to consider your options...
 God Mode:
 show me all the successes that incremented unforseen complications and the counter value and probability
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5, Exhaustion: 0**
@@ -5248,8 +5957,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:think about best course of action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Gwent Manor (Cellar Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp**
@@ -5259,8 +5971,11 @@ You pause, the forged deposition from Yalah Gralhund still damp with ink in your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Arros with Deposition - Meet Arros at the gate and present the Gralhund deposition to invalidate the &#x27;theft&#x27; warrant.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Gwent Manor (Foyer)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 5650/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5278,8 +5993,11 @@ He retreats to the gatehouse, the immediate threat of invasion suppressed by the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Gwent Will - Return to the study to ensure the forged Will is perfectly hidden and the paper trail to the Gralhund annexation is seamless.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 3/4, L2 2/3, L3 1/2 | BI: 4/5 (d8) | Exhaustion: 0**
@@ -5295,8 +6013,11 @@ But as you slide the vellum home, the quill on the desk rolls. A drop of fresh g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Magical Restoration - Use a subtle weave of magic (Arcana) to lift the ink smear without damaging the vellum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 4/5 | Spells: L1 3/4, L2 2/3, L3 1/2 | BI: 4/5 (d8) | Exhaustion: 0**
@@ -5312,8 +6033,11 @@ With a final, sharp exhale, the violet glow dies. You look down. The smear is go
 God Mode:
 i thought the inquisitor was managed by the deposition?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5** &nbsp;|&nbsp; ⚠️ **Inspiration (1) | Exhaustion: 0**
@@ -5323,8 +6047,11 @@ You pause to consider your options...
 God Mode:
 i think this is a bug. read the entry where i used the deposition from lady grahlund
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5334,8 +6061,11 @@ You pause to consider your options...
 God Mode:
 you already did a criticl complication, my threshold should be reset?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -5345,8 +6075,11 @@ You pause to consider your options...
 God Mode:
 after solen evidence shouldnt it be 0 and there is no more complications? do you mean victoro already responded?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5356,8 +6089,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:think about what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5367,8 +6103,11 @@ You pause in the heavy silence of the study, the freshly restored Will resting b
 > 👤 **Player:**
 > *"THINK:if i do admin counter can i buy time until i invert ritual?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5378,8 +6117,11 @@ You pause in the heavy silence of the study, the freshly restored Will resting b
 > 👤 **Player:**
 > *"THINK:what are the success chances of each option"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5389,8 +6131,11 @@ You pause in the heavy silence of the study, the freshly restored Will resting b
 > 👤 **Player:**
 > *"THINK:give me sucess % chances and pros/cons each option"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 5650/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5402,8 +6147,11 @@ You pause in the heavy silence of the study, the freshly restored Will resting b
 
 File 'Notice of Disputed Ownership': Formally challenge the state's claim to the ledger, forcing a 48-hour cooling-off period."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 5650/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5413,8 +6161,11 @@ You pause, the forged Will resting beneath your palm as the rhythmic pounding of
 > [!NOTE] ⚙️ **Player Choice:**
 > *File &#x27;Notice of Disputed Ownership&#x27; - Formally challenge the state&#x27;s claim via the High-Inquisitor. Success chance: 85%.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 9850/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5438,8 +6189,11 @@ He pivots on his heel, his men retreating to the perimeter. You have bought the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Interrogation: Vylna - Pressure the &#x27;Ghost&#x27; for the specific Guild frequency to counter-hijack the Tithe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Gwent Manor (Deep Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 10150/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 1/2 | BI: 2/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5459,8 +6213,11 @@ Shadowheart steps forward, her dark eyes reflecting a chilling, disciplined appr
 > 👤 **Player:**
 > *"secure deep vault then counter audit victoro"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Gwent Manor (Deep Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 10150/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 2/5, Exhaustion: 0**
@@ -5476,8 +6233,11 @@ Returning to the study, you spread the Gralhund Primary Ledger across the mahoga
 > 👤 **Player:**
 > *"go and try to recruit vylna, explain since she's captured nine fingers will never trust her again anyway"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Gwent Manor (Deep Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 10450/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 2/5** &nbsp;|&nbsp; ⚠️ **[None] | Exhaustion: 0 | Inspiration: Yes**
@@ -5499,8 +6259,11 @@ You gain **600 XP** for the major social victory and the recruitment of an elite
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tune the Iron Rose - Use the Gralhund Signet and Vylna&#x27;s frequency to prepare the lute for the ritual hijack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Gwent Manor (Deep Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 1/2 | BI: 2/5 | Signatories: 1 (Vylna)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5520,8 +6283,11 @@ Upstairs, the Gwent Sentinel—the bound Bone Devil—lets out a sudden, high-pi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Arros - Meet Arros at the gates and use Persuasion to frame the shriek as a &#x27;Sanctity Audit&#x27; required by the Letter of Mark.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Gwent Manor (Gates/Foyer)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 1/5, Exhaustion: 0**
@@ -5545,8 +6311,11 @@ He retreats to the gatehouse, the immediate threat of invasion suppressed by the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize the Sentinel - Use the Weaver&#x27;s metamagic and your Arcana to permanently mute the Sentinel&#x27;s shriek.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Gwent Manor (Foyer)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 3/4, L2 2/3, L3 1/2 | BI: 0/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (INT), Friends (Active) | Exhaustion: 0 | Inspiration: No**
@@ -5566,8 +6335,11 @@ Shadowheart exhales, her dark eyes reflecting the fading violet glow. 'The knot 
 > 👤 **Player:**
 > *"short rest, prepare barristers, prepare for ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Gwent Manor (Foyer/Cellar)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5583,8 +6355,11 @@ Shadowheart turns from the shadows, her hand resting on the Blood of Lathander. 
 > 👤 **Player:**
 > *"long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Gwent Manor (Primary Suite)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 0/5 used (5 remaining) | Spells: L1 0/4, L2 0/3, L3 0/2 used | BI: 0/5 used | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5600,8 +6375,11 @@ You have roughly thirty hours until the Solstice Zenith. The barristers you orde
 > 👤 **Player:**
 > *"vylna recon, consult yalah"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Gwent Manor (Deep Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5625,8 +6403,11 @@ Minutes later, a swirl of grey soot materializes in the rafters. Vylna drops dow
 > 👤 **Player:**
 > *"prep for ritual inversion and delegate intercept specialist"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Gwent Manor (Study/Deep Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/5 | Exhaustion: 0**
@@ -5644,8 +6425,11 @@ You turn your gaze to the lead-lined vault door. Shadowheart stands aside as you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept the Silencer - Send Astarion and Vylna to the Registry district to delay or neutralize Karnak before he reaches the High Ward.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Gwent Manor (Study)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:30 (Afternoon))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5, Exhaustion: 0**
@@ -5661,8 +6445,11 @@ Back at the manor, the floorboards of the study vibrate with a sudden, subsonic 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Siren&#x27;s Emergency Appeal - Meet Karnak at the gate personally. Use every ounce of Siren&#x27;s Leverage to claim the &#x27;interception&#x27; was a test of HIS capabilities.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Gwent Manor Gates / High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5688,8 +6475,11 @@ Arros's jaw sets, a micro-expression of profound professional frustration, but h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Squeeze Arros for Information - Use the momentum of the &#x27;successful drill&#x27; to demand Arros reveal Victoro&#x27;s specific instructions for Karnak.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Gwent Manor Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5711,8 +6501,11 @@ As you lead your retinue back across the threshold, the High Ward is already rea
 > 👤 **Player:**
 > *"THINK:can i just ignore all this legal stuff until i invert the ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Gwent Manor Gates/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **Grounded (Astarion/Vylna) | Exhaustion: 0 | Inspiration: Yes**
@@ -5722,8 +6515,11 @@ You pause as the cold, nullifying weight of Master Karnak's presence lingers in 
 > 👤 **Player:**
 > *"THINK:wont i play the lute at casslander manor? why does the grounding matter at my manor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Gwent Manor Gates/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5733,8 +6529,11 @@ You pause, the silver tracers of your Robe of the Weave shimmering as you proces
 > 👤 **Player:**
 > *"THINK:cant i go to the temple myself abd ring the lute and signet? or karnaks field stops me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Gwent Manor Gates/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **Grounded (Astarion/Vylna) | Exhaustion: 0 | Inspiration: Yes**
@@ -5744,8 +6543,11 @@ You pause, your gaze shifting from the rigid, slate-grey silhouette of Karnak at
 > 👤 **Player:**
 > *"THINK:what happens if i hijack the ritual and play the tune and leave karnak and arros where they are"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Gwent Manor Gates/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **Grounded (Astarion/Vylna - 1hr) | Exhaustion: 0 | Inspiration: Yes**
@@ -5755,8 +6557,11 @@ You pause, the silver tracers of your Robe of the Weave shimmering as you proces
 > 👤 **Player:**
 > *"THINK:why cant i play at the ritual site?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Gwent Manor Gates/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5766,8 +6571,11 @@ You pause, the silver tracers of your Robe of the Weave shimmering as you proces
 > 👤 **Player:**
 > *"THINK:Continue Thinking - Consider the &#x27;Inversion Switch&#x27; in the North Wing crypts and its connection to the grounding."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Gwent Manor Gates/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5777,8 +6585,11 @@ You pause, the silver tracers of your Robe of the Weave shimmering as you proces
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Calibration Exit - Persuade Arros and Karnak that your presence at the Villa is required for the &#x27;Sanctity Audit&#x27; final phase, allowing you to leave with the Lute while the manor remains grounded.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Gwent Manor Gates/Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 3/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5798,8 +6609,11 @@ The iron portcullis rattles open just enough for your carriage to pass. You swee
 > 👤 **Player:**
 > *"THINK:how long until the ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **En Route to Cassalanter Villa** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 3/5** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5809,8 +6623,11 @@ You lean back against the velvet cushions of the carriage as it jolts through th
 > 👤 **Player:**
 > *"THINK:can i invert the ritual and then handle the legal stuff later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **En Route to Cassalanter Villa** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5820,8 +6637,11 @@ You have exactly 7 hours until the High Hall bells signal the start of the ritua
 > 👤 **Player:**
 > *"THINK:if we hijack the ritual we need to start before 7 hours? can we finish it early or do we need to wait until noon tom?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **En Route to Cassalanter Villa** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 3/5, Exhaustion: 0**
@@ -5831,8 +6651,11 @@ You lean back against the carriage cushions, the rhythmic clatter of hooves prov
 > 👤 **Player:**
 > *"short rest during carriage ride (max 1 hr) then brainstorm the strategy with my team (shadowheart, vylna, astarion)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **En Route to Cassalanter Villa (Carriage)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/5 | Potion: 1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5856,8 +6679,11 @@ You look at the passing lights of the High Ward, the Cassalanter Villa looming l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Crypt Heavy Incursion - Send Astarion and Vylna to the Crypts to ensure the Switch is secured; take Shadowheart and the Weaver to the Temple.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **En Route to Cassalanter Villa** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5, Potions: 1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -5873,8 +6699,11 @@ As the carriage slows near the villa's side-gate, the **Gralhund Primary Ledger*
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Astarion&#x27;s Concern - Take a moment to bolster Astarion&#x27;s resolve or offer additional protection against the grounding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **En Route to Cassalanter Villa (Carriage)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 5650/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/3, L3 2/2 | BI: 4/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5892,8 +6721,11 @@ Shadowheart watches from the corner, her expression disciplined but her dark eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Briefing - Give a last set of instructions to Astarion and Vylna before they depart for the crypts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **En Route to Cassalanter Villa** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5911,8 +6743,11 @@ Shadowheart watches from the corner, her hand resting on the Blood of Lathander.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Suppress Ledger Vibration - Use an Arcana check to temporarily dampen the ledger&#x27;s hum before entering Victoro&#x27;s proximity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Gates of Cassalanter Villa** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 3/5, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5930,8 +6765,11 @@ Astarion and Vylna have already detached themselves from the carriage, vanishing
 God Mode:
 I did a short rest so my BI should be 5/5. Then lets reroll the arcana rol with BI enhance ability int
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Cassalanter Villa (Side Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 4/5, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Intelligence) | Inspiration: Yes (4/5)**
@@ -5941,8 +6779,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:can i find a way to disarm victoro. what if i say i wasnt sure that the bone devil was and just captured so it wouldnt kill me. i still want to serve him etc and didnt mean to enter into battle"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Cassalanter Villa (Side Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 5650/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 2/2, BI: 4/5, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (INT/CHA) | Exhaustion: 0 | Inspiration: Yes**
@@ -5954,8 +6795,11 @@ As you whisper the final harmonic chord, you feel the Bardic Inspiration (6) sur
 > 👤 **Player:**
 > *"do this The 'Bone Devil confusion' is a brilliant pivot; it's a high-level creature that most Patriars would fear, making a 'panic-capture' entirely plausible. I need to make him believe that my ambition is still tethered to his service."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Cassalanter Villa (Side Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 11050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 0/4, L2 1/3, L3 0/2 | Bardic Inspiration: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5975,8 +6819,11 @@ Victoro stands motionless, his gaze peeling back the layers of your performance.
 > 👤 **Player:**
 > *"ask victoro to relent on the legal stuff, before horgus goes berserk and causes us both trouble. say i can only calm him for so long. imply that trouble and public scrutiny would probably be bad for him too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 28/28 | XP: 12050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/4, L2 1/3, L3 0/2, BI: 4/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (4/5)**
@@ -6002,8 +6849,11 @@ You gain **1,000 XP** for the major social victory and the strategic neutralizat
 God Mode:
 Level Up Now - Finalize your advancement to Level 6 (Bard - College of Infernal Contracts).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 29/29 | XP: 12050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, BI: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6013,8 +6863,11 @@ You pause to consider your options...
 God Mode:
 what other spells can i pick
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 34/34 | XP: 12050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | BI: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6024,8 +6877,11 @@ You pause to consider your options...
 God Mode:
 Learn Tongues - Ensure you can understand any Infernal dialect used in the ritual.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 40/40 | XP: 12050/14000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | BI: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -6035,8 +6891,11 @@ You pause to consider your options...
 God Mode:
 Learn Tongues - Select &#x27;Tongues&#x27; as your Level 6 spell to ensure absolute understanding of Infernal dialects.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 14000/23000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | BI: 5/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6046,8 +6905,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"ask victoro to remove planar auditor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 15000/23000 | Gold: 1245gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, BI: 4/5 (d8)** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -6069,8 +6931,11 @@ You have won the concession. The 'Liturgy of Sequestration' is being lifted, and
 > 👤 **Player:**
 > *"ask victoro for a reward for handling the grahludes for him and being cannon fodder. 5000g and magical items. imply that I'm able to be "bought" and since he's rich he can have me at his beck and call, tos erve him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 15300/23000 | Gold: 6245gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, BI: 5/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -6092,8 +6957,11 @@ You gain **300 XP** for the successful social victory and the strategic alignmen
 > 👤 **Player:**
 > *"equip the ring and ask him if he needs help with anything else since i've proven himself, perhaps help with the ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 15300/23000 | Gold: 11245gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | BI: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6117,8 +6985,11 @@ You gain **300 XP** for the successful social victory and the strategic alignmen
 > 👤 **Player:**
 > *"ask him if he needs help with anything else or future missions/enemies to dispatch, increasing his trust and playing a role as his enforcer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 15600/23000 | Gold: 11245gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | BI: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -6143,8 +7014,11 @@ The Guild has initiated an immediate strike on the Conservatory to reclaim the L
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Gwent Sentinel - Use the Lute&#x27;s resonance to signal the Bone Devil at Gwent Manor to strike the Guild&#x27;s exterior line.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:11)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 15600/23000 | Gold: 11245gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | BI: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Ability (CHA), Inspiration (Astarion) | Exhaustion: 0 | Inspiration: Yes**
@@ -6164,8 +7038,11 @@ The first assassin materializes behind a screen of blood-red lilies, their blade
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hypnotic Pattern: Center - Unleash a kaleidoscopic burst to incapacitate the unit, though Victoro may be caught in the fringe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:11)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 15600/23000 | Gold: 11245gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 2/3 | BI: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6179,8 +7056,11 @@ However, the scale of the burst catches the fringe of the central ferns where Vi
 > 👤 **Player:**
 > *"tie up assassins, fully loot, then make up victoro respectually. he should be extremely impressed i got them all with just one spell"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/3, BI: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6200,8 +7080,11 @@ He laughs, a dry, resonant sound that carries a weight of newfound, terrifying r
 > 👤 **Player:**
 > *"wait for victoro to leave and interogate silence unit quickly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Cassalanter Villa (Conservatory)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 2/3 | BI: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6221,8 +7104,11 @@ You stand, the Birthright hat casting a sharp, judge's shadow across your sharp 
 > 👤 **Player:**
 > *"THINK:how important is that se4cond team? should we kill them too?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Cassalanter Villa (Conservatory Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -6232,8 +7118,11 @@ You pause in the light-eating silence of the service alcove, the Lute of the Iro
 > 👤 **Player:**
 > *"THINK:can i just handle them after the ritual?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Cassalanter Villa (Service Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/3, BI: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6243,8 +7132,11 @@ You pause in the light-eating silence of the service alcove, the Lute of the Iro
 > 👤 **Player:**
 > *"ask vylna if she'd be able to easily redirect them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Cassalanter Villa (Service Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 1/3, BI: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6266,8 +7158,11 @@ She vanishes like smoke in a gale, leaving only a faint tingle of arcane static.
 > 👤 **Player:**
 > *"audit assassin gear, signal crypt team, inspect the ring of protection from victoro for any hidden traps"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Cassalanter Villa (Service Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 2/3 | BI: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6283,8 +7178,11 @@ Shadowheart watches the empty rafters where Vylna vanished, her hand resting on 
 > 👤 **Player:**
 > *"reroll with inspiration Inspect Ring of Protection: 1d20 +6 INT/PROF = 1 +6 = 7 vs DC 18 (masterwork infernal warding) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Cassalanter Villa (Service Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 2/3 | BI: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No (Used for Reroll)**
@@ -6304,8 +7202,11 @@ You are standing in the shadows of his own house, holding the evidence of your b
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Loyal Report - Speak aloud to the &#x27;empty&#x27; air, acting as if you know he&#x27;s watching. Report the assassins&#x27; capture as a &#x27;gift&#x27; for his audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Cassalanter Villa (Service Alcove)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 2/3 | BI: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **[Victoro's Link (Active)] | Exhaustion: 0 | Inspiration: No**
@@ -6323,8 +7224,11 @@ Shadowheart watches you with a disciplined, unreadable expression, her hand stil
 > 👤 **Player:**
 > *"proceed to temple altar with weaver and shadowheart. perform prep hymn on the way. position myself ideally at the altar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:55)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 2/3 | BI: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6338,8 +7242,11 @@ Through the mental link of the Ring of Protection, you feel Victoro's presence. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commence Final Tuning - Use the Gralhund Signet and Lute to finalize the Dirge&#x27;s resonance at the altar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 2/3 | BI: 4/5 (d8) | Exhaustion: 0**
@@ -6355,8 +7262,11 @@ Through the 'Soul-Mirror' link, you feel Victoro's focus intensify. He is a silh
 Commence Final Tuning: Use the Gralhund Signet and Lute to finalize the Dirge's resonance at the altar.
 Fortify Temple Shadows: Have Shadowheart and the Weaver use their magic to create a hidden defensive layer around the altar."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6372,8 +7282,11 @@ Through the mental tether of the Ring of Protection, you feel a sharp, cold spik
 > 👤 **Player:**
 > *"use BI and shadowheart enhance ability and claim gralhund ghosts or something is resistng the tune"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17150/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 2/3 | BI: 3/5 (d8) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Fox's Cunning), Soul-Mirror Link | Exhaustion: 0 | Inspiration: No**
@@ -6393,8 +7306,11 @@ You stand at the epicenter of the temple's dark majesty, your **Robe of the Weav
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Crypt Team - Send a subsonic pulse to Astarion and Vylna to confirm the Temple is ready*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17350/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 2/3, BI: 3/5 (d8), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Soul-Mirror (Victoro watching) | Exhaustion: 0 | Inspiration: Yes**
@@ -6408,8 +7324,11 @@ In the silence following the calibration, the air in the Temple feels heavy, ion
 > 👤 **Player:**
 > *"time skip until ritual begins, have myself and my team autonomously do any low risk things to prepare"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17550/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 2/3 | BI: 3/5 | Tongues: Active** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -6434,8 +7353,11 @@ Signal Crypt Inversion: Trigger Astarion and Vylna to flip the Switch simultaneo
 Siren's Ritual Lead: Use your voice to lead the chant, masking the Lute's true frequency from Victoro's direct hearing.
 Strike the Gilded Dirge: Play the tuned frequency to begin the hijack as Victoro starts the chant."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17550/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 1/3 used (2 remaining), BI: 4/5 used (1 remaining), Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Tongues | Inspiration: No**
@@ -6453,8 +7375,11 @@ The gold coins in the air suddenly stop their graceful swirl and begin to vibrat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Desperate Correction - Spend your last Bardic Inspiration to force the frequency into alignment despite the feedback.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17550/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Fox's Cunning), Siren's Leverage | Exhaustion: 0 | Inspiration: No**
@@ -6476,8 +7401,11 @@ i should have enhance ability on me, did you account for it. also shouldnt i hav
 
 Performance (Hijack): 1d20 +9 (CHA/PROF/Items) + 1d8 (BI) = 5 + 9 + 5 = 19 vs DC 25 (Legendary difficulty) - Failure
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 17550/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Fox's Cunning) | Exhaustion: 0 | Inspiration: Yes**
@@ -6487,8 +7415,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Hijack Success - Retcon the failure and apply the success result to the story timeline.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:01)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 18750/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: No**
@@ -6506,8 +7437,11 @@ Shadowheart and the Weaver of Ash stand as silent, armored brackets to your perf
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain the Facade - Continue the Gralhund ghost narrative to keep Victoro&#x27;s trust until the harvest is fully secured.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 18950/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -6525,8 +7459,11 @@ Outside, the world moves forward with a cold, independent rhythm. The Guild's ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Siphon - Attempt to siphon not just the souls, but the residual Cassalanter wealth into the Gralhund Signet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 18750/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma), Siren's Leverage | Exhaustion: 0 | Inspiration: No**
@@ -6544,8 +7481,11 @@ The Ring of Protection pulses with a lethal, white-hot heat, and for a second, t
 > 👤 **Player:**
 > *"mental counter audit and signal shadowheart and weaver to cast hold person on victoro or cc him in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 18750/23000 | Gold: 11339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Concentration (Ritual Hijack) | Exhaustion: 0 | Inspiration: No**
@@ -6561,8 +7501,11 @@ The Weaver of Ash doesn't hesitate. She weaves a secondary temporal loop, ensuri
 > 👤 **Player:**
 > *"have others bind/loot both casslanders, then try to expand soul harvest and see if i can steal souls from even more people from a wider area"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:06)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 18750/23000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5, Exhaustion: 0**
@@ -6582,8 +7525,11 @@ And then, the necrotic shackles fracture. Victoro Cassalanter lets out a guttura
 
 Arcana (Expand Siphon): 1d20 +6 INT/PROF = 10 + 6 = 16 vs DC 25 (Complex Forge Geometry) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 19150/23000 | Gold: 13839gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 2/5, Exhaustion: 0**
@@ -6603,8 +7549,11 @@ The standoff is absolute. You hold the Tithe, the wealth, and the frequency, but
 God Mode:
 shouldnt the casslanders s till have hold person ont hem too even if tied up?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:05)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 19150/23000 | Gold: 13839gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 2/5** &nbsp;|&nbsp; ⚠️ **Inspiration (2/5) | Exhaustion: 0**
@@ -6614,8 +7563,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"finish up the ritual and make sure i steal the ssouls from the casslanders too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:07)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 20150/23000 | Gold: 13839gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Ability (CHA), Fox's Cunning (INT) | Inspiration: No**
@@ -6631,8 +7583,11 @@ Victoro Cassalanter, however, is a man forged in the fires of Avernus. Even as t
 God Mode:
 how many extra souls did i harvest?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:07)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 20150/23000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6642,8 +7597,11 @@ You pause to consider your options...
 God Mode:
 also i should've stolen souls from casslanders and killed them right
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:07)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 20150/23000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6653,8 +7611,11 @@ You pause to consider your options...
 God Mode:
 should i get additional powers/bonus for stealing extra souls?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:08 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 20150/23000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 2/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Success Streak: 0 | Complication: Triggered**
@@ -6672,8 +7633,11 @@ Beside him, Ammalia remains a statue of meat and terror, her form beginning to c
 > 👤 **Player:**
 > *"lethal execution to stop the explosion and then try to steal his soul as he dies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 20450/23000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5, Souls: 159** &nbsp;|&nbsp; ⚠️ **Soul-Mirror Tethered | Exhaustion: 0 | Inspiration: No**
@@ -6695,8 +7659,11 @@ But the Temple is collapsing. The Red Seal, having lost its signatories, is vent
 Final Altar Loot: Risk the collapse to grab any residual ritual artifacts or scrolls from the black marble.
 Signal Crypt Extraction: Send a final subsonic pulse to Astarion and Vylna to withdraw immediately."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Cassalanter Villa (Temple Altar)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 20450/23000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 2/5, Souls: 161 (159 + Victoro & Ammalia)**
@@ -6710,8 +7677,11 @@ You anchor your heels into the vibrating stone and strike a final, jagged chord 
 > 👤 **Player:**
 > *"shadowheart ward and then service tunnel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Souls: 161**
@@ -6731,8 +7701,11 @@ You gain **9,000 XP** for the successful Inversion of the Cassalanter Ritual, th
 God Mode:
 activate infernal contracts subclass and review all the powers with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Infernal Contracts) | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -6749,8 +7722,11 @@ why are all these people signatories?
 5. **Victoro Cassalanter** (Soul-Bound Signatory - Stored in Ledger)
 6. **Ammalia Cassalanter** (Soul-Bound Signatory - Stored in Ledger)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6760,8 +7736,11 @@ You pause to consider your options...
 God Mode:
 how does soul harvest work?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6771,8 +7750,11 @@ You pause to consider your options...
 God Mode:
 i dont know if my companion signatories make sense, this was before i had the subclass
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Inversion) | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ⚠️ **Soul-Marked (161 Souls), Hierarchy Confirmed**
@@ -6782,8 +7764,11 @@ You pause to consider your options...
 God Mode:
 lets make a new balanced mechanic to steal new souls. also if I steal a soul i can read its mind instantly and get all its intel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, Breach Protocols: 6/6, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6793,8 +7778,11 @@ You pause to consider your options...
 God Mode:
 lets make a special rule that if i absorb powerful foes or bosses or special npcs i get some of their powers too, up to the LLM judgement
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, Breach Protocols: 6/6, Souls: 161**
@@ -6804,8 +7792,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:how can i explain my survival? maybe i can frame the casslanders as devil servants, and it is true because i have all this evidence on them and its true. just omit my role and say their ritual backfired and they died. say they tried to steal my soul too but my bodyguards saved me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **Cassalanter Villa (Service Tunnel Exit)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, Breach Protocols: 6/6, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6815,8 +7806,11 @@ You pause as the cool night air hits your face, the scent of ozone and burning s
 > 👤 **Player:**
 > *"return to story and pretend my statement for this plan The Cassalanters are dead, their souls harvested, and their villa is a smoldering crater of planar math. High-Inquisitor Arros and the Watch are at the gates. If I am found here, I am the primary suspect. However, the evidence is on my side: Victoro *was* a servant of the Hells. I have the Gralhund Ledger, the Signet, and now the souls of the architects themselves. I can frame my presence as a 'Sanctity Audit' gone wrong—a rescue attempt where I discovered their true nature and barely escaped with my life. By omitting my role in the inversion and framing the hellfire as their own ritual backfiring, I turn myself from a thief into a survivor and a witness for the Registry."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **Cassalanter Villa (Exterior Gates)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, Breach Protocols: 6/6, Souls: 161** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -6836,8 +7830,11 @@ Arros stands motionless, his amber eyes darting from your soot-stained silks to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Manor Gauntlet - Rendezvous with Astarion and Vylna to fight through the Guild units and reach Gwent Manor before it&#x27;s seized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **High Ward Thoroughfare (En Route to Gwent Manor)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 0/4, L2 1/3, L3 3/3 | Breach Protocols: 6/6 | Souls: 161** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -6857,8 +7854,11 @@ Astarion and Vylna materialize from the shadows of a neighboring stable, their b
 God Mode:
 keep tracking my bardic inspiration in resource header
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **High Ward Thoroughfare** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 0/4, L2 1/3, L3 3/3 | Breach Protocols: 6/6 | BI: 0/5 | Souls: 161** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -6868,8 +7868,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:can i get arros to help me, are some of his men still near us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **High Ward Thoroughfare** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6879,8 +7882,11 @@ You pause as the Guild's 'Blind' unit drops from the rooftops, their blades glit
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Legal Ultimatum - Loudly proclaim the Guild as &#x27;State enemies&#x27; attacking a witness, forcing Arros to intervene or admit jurisdictional failure.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **High Ward Thoroughfare** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 0/4, L2 1/3, L3 3/3, Breach Protocols: 6/6, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -6902,8 +7908,11 @@ You glide through the gap created by the Watch's intervention, the silver tracer
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Audit Fallout - Stay near Arros to ensure the Guild veterans are fully liquidated/interrogated by the law.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **High Ward Thoroughfare (Near Gwent Manor)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -6921,8 +7930,11 @@ You are no longer just a witness; you are a target in a district that is rapidly
 > 👤 **Player:**
 > *"command sentinel charge charge and hen shadow clear in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **High Ward Thoroughfare** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:30 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6940,8 +7952,11 @@ High-Inquisitor Arros stares in frozen, bureaucratic horror as his 'witness' unl
 > 👤 **Player:**
 > *"persuade arros and the watch (if they're around) for escort back to the mansion to protect me from the guild"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **High Ward Thoroughfare** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5, Souls: 161** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6961,8 +7976,11 @@ You begin the march through the smoke-choked thoroughfare. The Gwent Sentinel’
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Arros for Intel - Subtly ask Arros about the &#x27;Decree of Absolute Forfeiture&#x27; while you have his ear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 📍 **High Ward Thoroughfare** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Trauma Mask (Persuasion Advantage), Fox's Cunning (Adv. on INT checks) | Exhaustion: 0 | Inspiration: No**
@@ -6980,8 +7998,11 @@ He turns back to the march, his posture rigid. "We reach Gwent Manor in minutes.
 > 👤 **Player:**
 > *"have astarion and vylna scout the manor before entering"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Gwent Manor Perimeter** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -7001,8 +8022,11 @@ Vylna drops from the rafters, landing soundlessly on the marble. "The 'Ghost' ma
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Lady Gralhund - Access the cellar and use your new Signet to formally integrate Yalah into the &#x27;Black Widow&#x27; defense before the morning audit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Gwent Manor Cellar** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 0/5**
@@ -7020,8 +8044,11 @@ Yalah looks at the Signet, then at the scorched Gralhund Ledger you've placed on
 > 👤 **Player:**
 > *"THINK:whats the ghost mark"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Gwent Manor Cellar** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, Breach Protocols: 6/6, BI: 0/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Bardic Inspiration: 0/5**
@@ -7031,8 +8058,11 @@ You pause, the rhythmic thrum of the Gralhund Signet on your finger a cold remin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Arcane Tripwires - Have the Weaver of Ash and Shadowheart reinforce the North Wing service door against the Registry-tuned tripwires Vylna identified.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Gwent Manor - North Wing** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Infernal Contracts) | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 0/3 | Breach Protocols: 6/6 | Signatories: 6/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7054,8 +8084,11 @@ Shadowheart tightens her grip on her mace, her dark eyes scanning the empty hall
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Vylna to Purge the Mark - Have your new signatory use her knowledge of the ink&#x27;s frequency to physically or magically erase the mark from the manor and your robe.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Gwent Manor - North Wing** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:40 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/3, L3 0/3 | Breach Protocols: 6/6 | BI: 0/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7079,8 +8112,11 @@ Astarion steps from the shadows of the upper gallery, his crimson eyes tracking 
 > 👤 **Player:**
 > *"since i consumed victoro soul i should alreadyu know how to dismantle the wires"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Gwent Manor - North Wing** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, L4 0/0, BI: 5/5 (d8), Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: 5/5**
@@ -7106,8 +8142,11 @@ The door is open, but the 'Ghost-Mark' on your robe remains—a steady, defiant 
 > 👤 **Player:**
 > *"go to arros and show him the ghost mark to prove guild targeting me and then ask him to have his men clear the guild assassins from my roof"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Gwent Manor - Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, L4 0/0, BI: 5/5 (d8), Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -7127,8 +8166,11 @@ The phalanx pivots with judicial speed. Armored Watchmen scramble toward the man
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor the Harvest - Stay at the gatehouse with Arros to ensure the Guild veterans are fully eliminated and to project authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Gwent Manor - Gatehouse** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, L4 0/0, BI: 5/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7148,8 +8190,11 @@ From a nearby rooftop, a sudden, high-pitched shriek pierces the silence, follow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Gralhund Deeds - Work with Yalah in the vault to identify the exact legal levers needed for the morning Registry hearing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Gwent Manor - Deep Vault** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 5650/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, BI: 0/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7165,8 +8210,11 @@ High-Inquisitor Arros stands at the gatehouse above, his archers ready, while th
 > 👤 **Player:**
 > *"THINK:whats my highest confidence move here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 📍 **Gwent Manor - Deep Vault** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7176,8 +8224,11 @@ You pause, the metallic scent of fresh ink and the ionizing static of the ritual
 > [!NOTE] ⚙️ **Player Choice:**
 > *Invoke Soul-Override - Use Victoro&#x27;s harvested soul-intel to perform a manual bypass of the Dead-Hand protocol, attempting to restore the ink.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Gwent Manor - Deep Vault** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, BI: 0/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7197,8 +8248,11 @@ Upstairs, the Gwent Sentinel lets out a low, satisfied click. The 'Dead-Hand' ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Audit Preparation - Work with Yalah to identify the three most critical debt-bonds to present to the Magister as proof of ownership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 📍 **Gwent Manor - Deep Vault** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 2/3, L3 0/3, BI: 0/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -7220,8 +8274,11 @@ You lean back, the violet tracers on your Robe of the Weave shimmering. The 'Bla
 > 👤 **Player:**
 > *"long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7240,8 +8297,11 @@ why did this roll during long rest?
 🎲 Dice Rolls:
 Exhaustion Save (Staying Awake): 1d20 -1 CON = 10 -1 = 9 vs DC 10 (Xanathar's Optional Rule) - Failure
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Long Rest Active | Exhaustion: 0**
@@ -7251,8 +8311,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"see if the hearing is done"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:35 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7270,8 +8333,11 @@ You have less than three hours to prepare for the Magister's direct gaze.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review Soul Intel - Deep dive into Victoro&#x27;s harvested soul to see if he had any specific protocols for the Magister&#x27;s personal interviews.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7287,8 +8353,11 @@ You pull back, your violet eyes snapping open as a cold sweat breaks across your
 > 👤 **Player:**
 > *"reroll with BI Investigation (Soul-Intel Deep Dive): 2d20kh1 + 6 INT/PROF = 10 + 6 = 16 vs DC 18 (Victoro's administrative ego) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Gwent Manor - Primary Suite** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 29450/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 4/5 | Breach Protocols: 6/6 | Exhaustion: 0**
@@ -7310,8 +8379,11 @@ The fifth bell is less than two hours away. You have the bonds, you have the sou
 Brief the Retinue: Ensure Astarion and Shadowheart's stories are perfectly synchronized with the 'Sanctity Audit' failure before leaving.
 The Sovereign Auditor: Use Victoro's own aggressive administrative volume to overwhelm the clerks and force a swift sign-off."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **High Hall of Registry - Grand Vestibule** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 30700/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -7333,8 +8405,11 @@ You have annexed the foyer. The 'Sanctity Audit' narrative is synchronized, the 
 
 then this Enter Magister Interview:"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **High Hall of Registry - Magister's Private Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 30700/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Exhaustion: 0**
@@ -7354,8 +8429,11 @@ Silmerhelve watches you, his grey eyes narrowing. He is looking for a tremor in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Council Credit - Utilize the Sovereign Credit bond to &#x27;introduce&#x27; yourself to the sitting Council member who owes the Gralhunds a debt.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **High Hall of Registry - Magister's Private Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 30700/34000 | Gold: 18839gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign of the Ward | Inspiration: No**
@@ -7375,8 +8453,11 @@ You sweep the documents into your silks, the Gralhund Signet on your finger puls
 > [!NOTE] ⚙️ **Player Choice:**
 > *Annex Gralhund Assets - Formally move your retinue into the Gralhund Villa (or what&#x27;s left of it) to secure the remaining vault nodes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Gralhund Villa - Main Foyer** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 30700/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7392,8 +8473,11 @@ You move toward the primary vault stairs, the Gralhund Signet on your finger pul
 > 👤 **Player:**
 > *"bring yalah here, and delegate annexation to here. tell me how much liquid gold i receive and whats the monthly income from her estates."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 30700/34000 | Gold: 136,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 5/5 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign Receivership Active | Exhaustion: 0 | Inspiration: Yes**
@@ -7411,8 +8495,11 @@ Furthermore, your audit of the Gralhund rent-rolls and commercial interests reve
 > 👤 **Player:**
 > *"THINK:How much monthly income from horgus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Gralhund Villa** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 30700/34000 | Gold: 136,339gp** &nbsp;|&nbsp; ⚠️ **Sovereign Receiver | Exhaustion: 0 | Inspiration: No**
@@ -7422,8 +8509,11 @@ You pause within the ash-stained luxury of the Gralhund Sanctum, your mind movin
 > 👤 **Player:**
 > *"THINK:estimate my income before this liquidation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Gralhund Villa Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 30700/34000 | Gold: 136,339gp** &nbsp;|&nbsp; ⚠️ **Expertise (Deception, Persuasion), Breach Protocols: 6/6 | Inspiration: 5/5**
@@ -7433,8 +8523,11 @@ You pause within the ash-stained luxury of the Gralhund Sanctum, the Gralhund Si
 God Mode:
 make sure you rewarded me with exp/loot etc for recent wins. And make sure my companions got exp and are the proper levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32,700/34,000 | Gold: 136,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/5, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -7444,8 +8537,11 @@ You pause to consider your options...
 God Mode:
 give me a break for a week from events that can destroy me, wanna relax a bit
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Gralhund Villa (Sovereign Annex)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 5/5 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign Receiver | Exhaustion: 0 | Inspiration: Yes**
@@ -7455,8 +8551,11 @@ You pause to consider your options...
 God Mode:
 no dont time skip, let me play for a week and dont create events that can destroy me unless i do something very extreme
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Gralhund Villa** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 17550/23000 | Gold: 16,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 5/5 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -7466,8 +8565,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume play at Mirtul 21, Evening.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 5/5 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -7481,8 +8583,11 @@ Outside, the High Ward has entered a state of eerie, judicial stillness. High-In
 God Mode:
 wait shouldnt I have 100k gold from the annex? also whats my monthly gold again now? Lets divide it daily and give it to me every day
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Gralhund Villa** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 136,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 5/5 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (168h) | Exhaustion: 0 | Inspiration: Yes**
@@ -7492,8 +8597,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"go shopping and see if i can find more spell DC or +int gear. either upgrades or for new slots. Use items from bg3 or D&D SRD"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Gralhund Villa / Upper City Markets** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 136339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 5/5 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active) | Inspiration: Yes**
@@ -7511,8 +8619,11 @@ The proprietor, a man whose skin has turned the color of aged vellum from decade
 Ketheric's Shield (BG3): +1 to Spell DC and Spell Attack rolls. AC +2. Requires Off-hand slot.
 Tome of Clear Thought (SRD): Requires 48 hours of study. Permanently increases Intelligence and its maximum by 2. (Rare archive find)."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 136,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/5, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (168h) | Exhaustion: 0 | Inspiration: Yes (5/5)**
@@ -7528,8 +8639,11 @@ He leans in, the scent of old parchment and cold ink radiating from his robes. '
 > 👤 **Player:**
 > *"negotiate price using sirens leverage, patriar authority, bardic inspiration, and enhance ability. Try to do 15k"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 121339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 4/5 | Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Enhance Ability (CHA), Bardic Inspiration (Spent) | Exhaustion: 0 | Inspiration: No**
@@ -7549,8 +8663,11 @@ He pulls the velvet cloths back, revealing your prizes. The **Hood of the Weave*
 > 👤 **Player:**
 > *"equip hood and shield and us the archive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32,700/34,000 | Gold: 106,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/5, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (167.5h) | Exhaustion: 0 | Inspiration: Yes**
@@ -7564,8 +8681,11 @@ You turn your attention back to the **Tome of Clear Thought**, its opalescent le
 > 👤 **Player:**
 > *"wait nvm keep on birthright for now. then show my items and tell me my spell dc and stats before/after i bought any of this gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 106,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/5, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (167.5h remaining) | Exhaustion: 0 | Inspiration: Yes**
@@ -7596,8 +8716,11 @@ Archivist Elwyn watches from the counter, his eyes wide as he observes the casua
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study Tome of Clear Thought - Commit to 48 hours of uninterrupted study to permanently increase Intelligence by 2.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 106339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/5, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (119.5h remaining) | Exhaustion: 0 | Inspiration: Yes**
@@ -7613,8 +8736,11 @@ You close the Tome, your fingers trembling not with fatigue, but with a newfound
 > 👤 **Player:**
 > *"look for a +2 cha tomb"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 81339gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | Breach: 6/6 | BI: 3/5** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (119.5h) | Exhaustion: 0 | Inspiration: No**
@@ -7638,8 +8764,11 @@ You sweep the **Tome of Leadership and Influence** into your pack, the weight of
 God Mode:
 redo that and negotiate 13000 gold price. use bardic inspiration, enhance ability, siren, patriar rep
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 93,339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Breach: 6/6, BI: 2/5** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Sanctuary (Wait), Sanctuary (Study) | Exhaustion: 0 | Inspiration: Yes**
@@ -7649,8 +8778,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study Tome of Leadership and Influence - Commit another 48 hours to increase Charisma by 2 (Max 22 with Birthright).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 80339gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Breach: 6/6, BI: 1/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Intelligence 18, Charisma 22 | Inspiration: Yes**
@@ -7660,8 +8792,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"process gold payout and equip hood of weave and tell me my before/after cha and spell DC. since I have the tomb now my cha should stay 22 right and my spell dc should increase?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 83403gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Breach: 6/6 | BI: 2/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (71.25h remaining) | Inspiration: Yes**
@@ -7679,8 +8814,11 @@ You turn the opalescent white pages of the **Tome of Leadership and Influence**,
 God Mode:
 wait was my cha 22 before or 20?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 83,403gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Breach: 6/6 | BI: 2/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (71.25 hrs) | Exhaustion: 0 | Inspiration: Yes**
@@ -7690,8 +8828,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"ok swap back birthright. Then lets give astarion and shadowheart a 10k budget each for equipment updates and go shopping. I assume i use all thes tandard strategies to attempt 50% discount for them and equip them with the best gear in bg3 or D&D SRD but make sure you dont clone items i already have"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 26, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 73,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Breach: 6/6, BI: 1/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (67h remaining) | Exhaustion: 0 | Inspiration: Yes**
@@ -7711,8 +8852,11 @@ Astarion tests the edge of the new blade, a jagged, needle-toothed grin spreadin
 God Mode:
 astarion already has knife of undermountain? show me their before/after gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 26, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 73467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Breach: 6/6, BI: 1/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (103.5h) | Exhaustion: 0 | Inspiration: No**
@@ -7722,8 +8866,11 @@ You pause to consider your options...
 God Mode:
 also didnt i already do this? Study Tome of Leadership and Influence: Commit 48 hours to increase base Charisma to 22 (Max 24 with Birthright).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 26, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32,700/34,000 | Gold: 73,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Breach: 6/6 | BI: 2/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (87.5h remaining) | Exhaustion: 0 | Inspiration: Yes**
@@ -7733,8 +8880,11 @@ You pause to consider your options...
 God Mode:
 look at older story entries, pretty sure you had him with this already. Knife of the Undermountain King lets swap that for titanstring bow and remember the str mechanic for it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **High Hall Deep Archive (Sanctuary Mode)** &nbsp;|&nbsp; ⏳ **Mirtul 26, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32,700/34,000 | Gold: 73,467gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (71.25h remaining) | Exhaustion: 0 | Inspiration: No**
@@ -7744,8 +8894,11 @@ You pause to consider your options...
 God Mode:
 lets assume astarion always has a hill giant str elixir active because we can afford it and shadowheart and i have Elixir of Battlemage's Power always active because we can afford it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Elixir of Battlemage's Power (Always Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -7763,8 +8916,11 @@ As you turn to leave, the heavy iron gates of the Deep Archive groan open, admit
 God Mode:
 make sure we always have our elixirs enabled and show me before/after st ats for us 3 with and without elixirs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 63467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Elixir of Battlemage's Power | Exhaustion: 0 | Inspiration: No**
@@ -7774,8 +8930,11 @@ You pause to consider your options...
 God Mode:
 also lets always assume our inventory has reaosnable consumables like health potions, poisons, potions of speed etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **High Hall Deep Archive** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (11:30 (Sanctuary Mode)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32,700/34,000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0**
@@ -7785,8 +8944,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the week of rest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **High Hall Deep Archive -> Gralhund Villa** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (22.25h left) | Inspiration: Yes (1/6 BI)**
@@ -7820,8 +8982,11 @@ As your carriage rounds the final bend toward the Gralhund Villa, you see the 'G
 God Mode:
 am i supposed to have 4th level spell? if so what is it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 46/46 | XP: 32,700/34,000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode | Exhaustion: 0 | Inspiration: Yes (1/6)**
@@ -7831,8 +8996,11 @@ You pause to consider your options...
 God Mode:
 pick greater invis and double check wep rocessed level 7 properly and incremented hp etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Battlemage Elixir (+3 DC/Atk) | Inspiration: 1/6**
@@ -7842,8 +9010,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"brainstorm next steps with my companions and ask shadowheart and astarion what the absolute expects and when they need to report in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (21.25 hrs remaining) | Exhaustion: 0 | Inspiration: Yes**
@@ -7861,8 +9032,11 @@ He arches a silvered brow, his crimson eyes locking onto yours. "We can mask our
 > 👤 **Player:**
 > *"THINK:can we annex the casslander estate and income? i have all the info from their souls. also lets always show recurring gold in session header"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp (Passive: 23,000gp/month)** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (21.25 hrs remaining) | Inspiration: 1/6**
@@ -7872,8 +9046,11 @@ You pause within the quiet, ink-scented sanctuary of the Sanctum, the Gralhund S
 > 👤 **Player:**
 > *"THINK:analyze this  I must move from being a 'Survivor' to an 'Administrative Necessity.' The High Hall won't give the estate to a Gwent by choice, but they will allow a receivership if the alternatives (like a total market collapse in the High Ward) are worse."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (21.25 hrs remaining) | Inspiration: 1/6**
@@ -7883,8 +9060,11 @@ You pause within the quiet, ink-scented sanctuary of the Sanctum, the Gralhund S
 > 👤 **Player:**
 > *"THINK:Continue Thinking - Explore the specific &#x27;Administrative Necessity&#x27; script for the Magister."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (21.25h) | Inspiration: Yes**
@@ -7894,8 +9074,11 @@ You pause within the quiet, ink-scented sanctuary of the Sanctum, the Gralhund S
 > 👤 **Player:**
 > *"bring in gwent accountants and lawyers to help me plan it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (20.25h), Birthright (+2 CHA) | Inspiration: No**
@@ -7915,8 +9098,11 @@ You stand at the pivot point of the city's future. The architects are ash, their
 
 then brainstorm with shadowheart and astarion what to report to the absolute. propose our long term goal is to take over the absolute cult"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > 📍 **Gralhund Villa (Annexed)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32,700/34,000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Exhaustion: 0**
@@ -7938,8 +9124,11 @@ You lean back, the Gralhund Signet on your finger pulsing with a dull, sated vio
 > 👤 **Player:**
 > *"plan annexing the absolute cult with them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Souls: 161** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (20.25h) | Exhaustion: 0 | Inspiration: Yes (1/6)**
@@ -7963,8 +9152,11 @@ In parallel, the Gwent legal retinue returns from the outer foyer. The senior ba
 > [!NOTE] ⚙️ **Player Choice:**
 > *Authorize Offshore Annexation - Instruct the lawyers to begin the formal seizure of the Athkatla and Luiren commercial nodes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (19.75 hrs), Elixir of Battlemage's Power | Inspiration: 1/6**
@@ -7982,8 +9174,11 @@ Astarion offers a jagged, needle-toothed smirk, idly tracing the line of his Tit
 > [!NOTE] ⚙️ **Player Choice:**
 > *Calibrate Soul Pool - Spend time refining the Breach Protocols and understanding the exact powers granted by Victoro and Ammalia&#x27;s souls.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 0/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (18.75h) | Inspiration: Yes**
@@ -7999,8 +9194,11 @@ Shadowheart enters the room just as the violet glow fades from your eyes, her ow
 > 👤 **Player:**
 > *"short rest, then mask psychic link"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63467gp (+23,000/mo)** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (18.25h), Elixir (Battlemage)**
@@ -8020,8 +9218,11 @@ You lean back, the Gralhund Signet on your finger pulsing with a satisfied, hung
 > [!NOTE] ⚙️ **Player Choice:**
 > *Mask Psychic Link - Use Victoro&#x27;s unspooled memories to calibrate a frequency that masks the party&#x27;s true status from the Absolute&#x27;s ping.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63467gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 5/6 | Breach Protocols: 6/6 | Souls: 163 | Exhaustion: 0**
@@ -8039,8 +9240,11 @@ You stand at the center of your sovereign district, the weight of the city's fut
 > 👤 **Player:**
 > *"brainstorm what to do about 48 hr absolute audit and how we can gain more power in the cult"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 17550/34000 | Gold: 63467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6, Souls: 163, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16.5 hrs) | Inspiration: No**
@@ -8058,8 +9262,11 @@ Astarion offers a needle-toothed smirk, his crimson eyes gleaming with a predato
 > 👤 **Player:**
 > *"brainstorm with companions to estimate success chances of each option"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6, Souls: 163, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16.5 hrs), Elixir (Battlemage), Elixir (Shadowheart), Elixir (Astarion) | Inspiration: 5/6**
@@ -8077,8 +9284,11 @@ You lean back, the Gralhund Signet pulsing a rhythmic, sated violet against your
 > 👤 **Player:**
 > *"propose this to companions. what if we're just honest. explain that i took over from the casslanters, show my new house power, ask for resources/assitance from the cult. grow in power within absolute and then try to figure out a way to wrest control from the real leaders"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6, Souls: 163, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16.5 hrs) | Exhaustion: 0 | Inspiration: No**
@@ -8098,8 +9308,11 @@ You lean back, the expansion of your own presence making the very dust motes in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draft Absolute Report - Use Victoro&#x27;s soul-intel to draft a &#x27;Stabilized Containment&#x27; report that frames House Gwent as a primary asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 63,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, BP: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16.0 hrs) | Exhaustion: 0 | Inspiration: Yes**
@@ -8117,8 +9330,11 @@ Astarion offers a razor-thin smirk, idly tracing the line of his Titanstring Bow
 > 👤 **Player:**
 > *"ask the absolute for resources. 100k gold, misc items, influence (tell me who the absolute agents are in baldurs gate, have them work with me), elite troops (20 lvl 5 rangers), (20 lvl 5 specialists of various classes in the game). cannon fodder troops aka 50 to guard our estates, lower level spies level 2-3 (50 of them)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32,700/34,000 | Gold: 163,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, BP: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16h remaining) | Inspiration: Yes**
@@ -8140,8 +9356,11 @@ Astarion offers a jagged, appreciative smirk, idly tracing the line of his Titan
 > 👤 **Player:**
 > *"THINK:how much would it cost me to hire my own private resources too in similar magnitude. 20 lvl 5 rangers, 20 specialiss, 50 guards, and 50 spies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 163467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 0/6, BP: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16h) | Success Streak: 5 | Recurring Income: 23000gp/month (766gp/day)**
@@ -8151,8 +9370,11 @@ You pause amidst the ink-scented silence of the Sanctum, the rhythmic thrum of t
 > 👤 **Player:**
 > *"THINK:estimate hiring 10 elite rangers and 10 specialosts all level 5 through cheapest means but likely to be loyal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 163,467gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16h), Success Streak (5) | Exhaustion: 0 | Inspiration: No**
@@ -8165,8 +9387,11 @@ The Sosuke Redemption: Recruit 20 displaced nobles and veterans from the 'Absolu
 Administrative Absorption: Scout the remaining Gralhund veterans and Registry guards who were impressed by the 'Sanctity Audit.' Use 'Executive Override' logic to transfer their contracts to House Gwent.
 Outer City Extraction: Send Astarion to Little Calimshan to recruit the 'best of the worst'—refugees with Level 5 skillsets fleeing Elturel. Use gold and the promise of Upper City citizenship."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32,700/34,000 | Gold: 163,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, BP: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (16h) | Exhaustion: 0 | Inspiration: Yes**
@@ -8176,8 +9401,11 @@ You lean back in the heavy mahogany chair, the Gralhund Signet pulsing a rhythmi
 > 👤 **Player:**
 > *"THINK:Analyze Combined Strategy - Consider a hybrid model of displacement leadership and outer city specialists."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 163,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, BP: 6/6, Souls: 163**
@@ -8187,8 +9415,11 @@ You lean back in the heavy mahogany chair, the Gralhund Signet pulsing a rhythmi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Authorize Hybrid Model: Exit Think Mode and begin the recruitment process.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 163467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 6/6, BP: 6/6, Souls: 163**
@@ -8206,8 +9437,11 @@ You stand before your new integrated vanguard: 20 elite loyalists (10 Rangers, 1
 > 👤 **Player:**
 > *"keep my elite specialists in gwent estate and distribute my absolute forces between gwent and ghalude estate (cousins we annexed)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 163,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | BP: 6/6 | Souls: 163**
@@ -8225,8 +9459,11 @@ Your Command Authority (Total 23) prevents the discord from escalating. You desc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Annexed Wealth - Finalize the audit of Cassalanter offshore nodes to maximize liquid capital.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 6/6, BP: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (15 hrs) | Inspiration: Yes**
@@ -8244,8 +9481,11 @@ Astarion idly tests the draw of his Titanstring Bow, a predatory grin playing on
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resolve Logistical Bottleneck - Spend time personally overseeing the integration of Gralhund vaults and Absolute supply lines to clear the bottleneck.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32700/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 6/6, BP: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (15.0h) | Exhaustion: 0 | Inspiration: Yes**
@@ -8267,8 +9507,11 @@ By the time you return to the Sanctum, the logistics of the High Ward have been 
 > 👤 **Player:**
 > *"calcualte the new monthly income after casslander annexation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 5/6 | BP: 6/6 | Souls: 163**
@@ -8284,8 +9527,11 @@ Shadowheart stands by the clerestory window, her dark eyes scanning the courtyar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Calibrate Absolute Mask - Perform a deep calibration of the psychic mask to prepare for the 48-hour report to Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 163467gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 5/6 | BP: 6/6 | Souls: 163 | Income: 1500gp/day** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (13h) | Exhaustion: 0 | Inspiration: Yes**
@@ -8303,8 +9549,11 @@ Astarion detaches from the cedar pillar, a jagged smirk playing on his lips. "A 
 God Mode:
 make sure you gave me exp and rewards for recent wins, dont double count though
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33,100/34,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Bardic Inspiration: 5/6, Breach Protocols: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (13h remaining), Elixir of Battlemage's Power | Inspiration: 5/6**
@@ -8314,8 +9563,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"deploy spies and elite rangers to monitor guild, instiutions, absolute (use my personal forces), and anyone who could be useful or threatening"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Elixir of Battlemage's Power | Exhaustion: 0 | Inspiration: Yes**
@@ -8335,8 +9587,11 @@ Astarion detaches from a cedar pillar, a jagged smirk playing on his lips. "Moni
 > 👤 **Player:**
 > *"THINK:count all my forces (this should not be hard). give different types of spies/troops names so easier to rererrence"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (13h remaining), Elixir of Battlemage's Power | Exhaustion: 0 | Inspiration: Yes (5/6)**
@@ -8346,8 +9601,11 @@ You have 160 total personnel deployed across your estate: 70 Absolute Guards, 20
 God Mode:
 i should have elite absoute rangers and speicalists too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1 | BI: 5/6 | Breach Protocols: 6/6 | Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (13h remaining), Psychic Mask Active | Exhaustion: 0 | Inspiration: Yes (5/6)**
@@ -8357,8 +9615,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"make a council and auto assign people reasonable areas of responsibility. council wil lbe my companions and lady Gralhund"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (03:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6, Souls: 163** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Psychic Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -8378,8 +9639,11 @@ The Council sits in a heavy, watchful silence. The 26 total on your establishmen
 > 👤 **Player:**
 > *"have a specialist cast zone truth and interrogate my council to see if anyone is a traitor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33,100/34,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6**
@@ -8399,8 +9663,11 @@ You watch them with a predatory, bone-china clarity, your violet eyes searching 
 > 👤 **Player:**
 > *"make sure vyla and the weaver are included in the council and interrogated"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (11.5 hrs) | Psychic Mask Active**
@@ -8418,8 +9685,11 @@ You watch them with a predatory, bone-china clarity, your violet eyes searching 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Assassins - Use the Zone of Truth and Victoro&#x27;s soul-intel to squeeze the captured &#x27;Silence&#x27; unit for Nine-Fingers&#x27; exact schedule.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (11.5h), Psychic Mask (47h) | Exhaustion: 0 | Inspiration: Yes**
@@ -8439,8 +9709,11 @@ Astarion detaches from a mahogany pillar, a jagged smirk playing on his lips. "A
 > 👤 **Player:**
 > *"prepare for dawn audit with legal team and have spies try to find out anything useful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33,100/34,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6**
@@ -8460,8 +9733,11 @@ You feel the expansion of your own presence, a Masterful confidence (Total 33) i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Preside Over Audit - Meet Arros and the clerks personally to ensure the &#x27;Sovereign Receivership&#x27; narrative is finalized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (8.5h), Psychic Mask (46h) | Exhaustion: 0 | Inspiration: Yes**
@@ -8481,8 +9757,11 @@ Furthermore, your spies have identified a secondary Absolute node near the Basil
 > 👤 **Player:**
 > *"THINK:is there any rush to kill horgus? he hasnt caused any problems."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, BI: 5/6, Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Psychic Mask | Exhaustion: 0 | Inspiration: Yes**
@@ -8492,8 +9771,11 @@ You pause within the clinical, ink-scented quiet of the Gralhund Sanctum, the Gr
 > 👤 **Player:**
 > *"THINK:how much time until i roll for exhaustion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (9.75h), Psychic Mask (48h) | Exhaustion: 0 | Inspiration: 5/6**
@@ -8503,8 +9785,11 @@ You pause, your mind tracing the rhythmic ticking of the High Hall bells against
 > 👤 **Player:**
 > *"THINK:can i long rest now and not miss anything iportant"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Breach Protocols: 6/6, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (9.75h) | Exhaustion: 0 | Inspiration: Yes**
@@ -8514,8 +9799,11 @@ You pause, leaning back in the heavy mahogany chair as the final scratch of the 
 > 👤 **Player:**
 > *"THINK:go have sex with horgus and long rest. dont use anything risky to get pregnanet but use low risk remedies and enhance ability and use specialists to give me all the useful buffs possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Gralhund Villa (Annexed Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 29, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | BI: 5/6 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (9.75h), Psychic Mask | Inspiration: Yes**
@@ -8525,8 +9813,11 @@ You pause, the Gralhund Signet pulsing a rhythmic, satisfied violet against your
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Biological Anchor - Proceed to Gwent Manor, utilize the &#x27;Sovereign Council&#x27; specialists to prepare high-end, low-risk fertility elixirs based on Ammalia&#x27;s formulas, and initiate the long rest with Horgus.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Gwent Manor (Primary Suite)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (Active), Psychic Mask (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -8544,8 +9835,11 @@ As the dawn of Mirtul 30 begins to bleed through the clerestory windows, the Gra
 God Mode:
 assume that i always have all the best and most useful buffs in D&D that level 5s can provide cast on me because of all my specialists
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Gwent Manor (Primary Suite)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode (9h), Psychic Mask, Persistent Buffs | Exhaustion: 0 | Inspiration: Yes**
@@ -8555,8 +9849,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"assess myself. am i pregnant?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Gwent Manor (Primary Suite)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Temp: 0) | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sanctuary Mode, Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes**
@@ -8572,8 +9869,11 @@ The manor around you is a beehive of subterranean industry. You can feel the sub
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Luiren Node - Work with Yalah to unpick the &#x27;Dead-Hand&#x27; protocol frozen in the Luiren offshore node to restore the income stream.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes**
@@ -8591,8 +9891,11 @@ You look at the frozen ledgers, then at the door. The board has moved, and the Z
 God Mode:
 what did this mean? it sounded like i was pregnant? The long rest is complete, and the biological anchor has successfully taken root.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Temp: 0) | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | Breach Protocols: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Exhaustion: 0 | Inspiration: Yes**
@@ -8602,8 +9905,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Convene the Council - Gather Shadowheart, Astarion, and Yalah to analyze the gala summons before responding.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Aid) | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | Breach Protocols: 6/6 | Recurring: 1500gp/day** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Buffs | Exhaustion: 0 | Inspiration: 6/6**
@@ -8629,8 +9935,11 @@ Contact Zhentarim: Send Astarion to probe Falone's position near the Gray Harbor
 Force Luiren Unpick: Use Breach Protocols to burn a Cassalanter soul to override the Dead-Hand protocol.
 Reinforce Manor: Utilize the Absolute vanguard to solidify the perimeter before leaving for the High Hall."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | BI: 6/6 | Breach Protocols: 5/6 | Recurring: 1500gp/day** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -8646,8 +9955,11 @@ You stand at the center of your nascent empire, the weight of the city's future 
 > 👤 **Player:**
 > *"ask astarion and shadowheart if we should ask the absolute for help. maybe they alrady are friendly with zhent"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Temp: 10) | XP: 33100/34000 | Gold: 163467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1, BI: 6/6, Breach Protocols: 5/6, Recurring: 1500gp/day** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes**
@@ -8667,8 +9979,11 @@ You reach for the psychic link, your mind bolstered by Victoro's memories, and p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Vylna Intel - Have Vylna use her Guild connections to verify if the Zhentarim are already &#x27;branded&#x27; by the Absolute.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Temp: 0) | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | BI: 6/6 | Breach Protocols: 5/6 | Recurring: 1500gp/day** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -8684,8 +9999,11 @@ From the rooftops, Vylna's signal returns. She has successfully unpicked the fir
 > 👤 **Player:**
 > *"contact the absoute and explain the right hand doesnt know what the left hand is doing. grey convenant is not efficient because now i am getting blocked and the guild is trying to kill me. propose that I work with the zhent to hae them betray grey convenant, hollow out guild, then divide among my faction and zhent."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Aid) | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | BI: 6/6 | Breach Protocols: 5/6 | Recurring: 1500gp/day** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -8706,8 +10024,11 @@ Astarion detaches from the cedar pillar, his silver hair ghost-white in the morn
 > *"i should have enhance ability, always assume that and reroll. and also i use bardic inspiration
 Persuasion (Absolute Negotiation): 1d20 +15 = 2 +15 = 17 vs DC 20 (Absolute hive-mind inertia) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33,100/34,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/1 | BI: 5/6 | Breach Protocols: 5/6 | Recurring: 1500gp/day** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Buffs | Inspiration: Yes**
@@ -8729,8 +10050,11 @@ Astarion detaches from the cedar pillar, his silver hair ghost-white in the morn
 > 👤 **Player:**
 > *"ask for additional forces to liquidate the guild from the absolute, i should still have enhance ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 163,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, BI: 4/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Enhance Ability (Adv), Sovereign Buffs | Inspiration: Yes**
@@ -8752,8 +10076,11 @@ However, as the surge of power settles, Vylna materializes from the rafters, her
 > 👤 **Player:**
 > *"also ask if the absolute has agents in the watch/flaming fist and ask them to not interfere"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, BI: 5/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Buffs | Inspiration: Yes (5/6)**
@@ -8775,8 +10102,11 @@ However, the report of the hostage crisis in the sewers remains a jagged variabl
 > 👤 **Player:**
 > *"send falone a communication and proof of the new absolute orders then in parallel leverage ravenguard and ask arros for special legal authorization to save the hostage and eliminate teh guild. they're caused lots of trouble already"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Aid) | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | BI: 4/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Buffs Active | Exhaustion: 0 | Inspiration: No**
@@ -8796,8 +10126,11 @@ You have secured the Zhentarim's betrayal, doubled your vanguard, and won the St
 > 👤 **Player:**
 > *"ask for additional special powers until the guild is 100% proven to be liquidated. command of elite troops/soldiers and legal immunity until  guild crisis i resolved"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 (Aid) | XP: 33,100/34,000 | Gold: 163,467gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | BI: 4/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes (1d8)**
@@ -8817,8 +10150,11 @@ You stand at the center of a 290-man legion, protected by a divine legal shield 
 > 👤 **Player:**
 > *"make sure my authority is specially worded. if guild remanants linger i want to keep the power even if nine fingers is dead. it should not just be absolute saying it, i want the official baldurs gate legal institutions to sign a law for this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | BI: 4/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immunity, Voice of the Absolute, Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -8838,8 +10174,11 @@ As the clerks press the heavy gold-leaf seals into the wax, the Gralhund Signet 
 > 👤 **Player:**
 > *"THINK:plan a good strategy. what if i do this. have all my absolute specialists, rangers, level 5+ units do a surgical strike to resurce hostage and kill keene. bring my companions too. cap it at 25 units. For the remaining absolute forces i control use 70% to contain the guild using spies/soliders/agents. keep the sosuke forces on defense and scouting vs main combat. instruct commands not to fully annihilate the guild, so my legal position remains justified"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | BI: 4/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: No**
@@ -8849,8 +10188,11 @@ You lean over the mahogany desk, the scarlet silk of Birthright casting a sharp,
 > 👤 **Player:**
 > *"THINK:lets add to the plan psychic probe to absolute to find keene and a second force of elites to stop the harbor sabotage. first force lead by me will kill keene primarily and find the hostage secondary"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33,100/34,000 | Gold: 236,934gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Sovereign Immunity, Warding Bond | Exhaustion: 0**
@@ -8860,8 +10202,11 @@ You lean over the mahogany desk, the scarlet silk of Birthright casting a sharp,
 > 👤 **Player:**
 > *"execute the plan. make sure we psychic probe to find keene and hostage and if they'r separate we'll have two difefrent elites forces. I will personally lead the keene force. we will also have another elite force to stop this hrabor strap and start the remaining absolute force to contain the guild in parallel and ask the zhents to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Gralhund Villa (Sanctum) / High Ward** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | BI: 4/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: No**
@@ -8883,8 +10228,11 @@ Nine-Fingers hasn't waited for the gala. She has used the Watch blackout you orc
 Zhentarim Coordination (Falone): 1d20 +11 = 1 +11 = 12 vs DC 20 (Branded signatory override) - Critical Failure
 Tactical Coordination: 1d20 +7 = 3 +7 = 10 vs DC 18 (Multi-unit logistics) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Gralhund Villa (Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33100/34000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, BI: 2/6, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Immunity, Voice of the Absolute**
@@ -8907,8 +10255,11 @@ Coordinate Zhentarim Betrayal: Focus on micromanaging Falone's units to ensure t
 Rescue the Steward: Divert the primary force to the Counting House to secure the Ravengard steward first, ensuring legal continuity.
 Sabotage the Pylons: Lead the strike to neutralize the 'Silver Cage' pylons before they can trap the harbor assets."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Gray Harbor - Pier 12 / The 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33,100/34,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, BI: 2/6, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Sovereign Immunity | Voice of the Absolute | Inspiration: Yes**
@@ -8935,8 +10286,11 @@ Zhentarim Micromanagement: 1d20 +15 PERS = 13 +15 = 28 vs DC 20 (Chaotic harbor 
 Counting House Rescue: 1d20 +7 CHA = 20 +7 = 27 vs DC 18 (Lead-lined coordination) - Masterful Success
 Pylon Sabotage: 1d20 +10 ARC = 18 +10 = 28 vs DC 22 (Silence unit defense) - Success
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **Gray Harbor - Pier 12 / The 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 41/41 | XP: 33,100/34,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1, BI: 2/6, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sanctuary Mode (8.75h), Warding Bond (+1 AC/Saves, Resistance) | Inspiration: Yes**
@@ -8946,8 +10300,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Combat - Proceed to Round 1 against Nine-Fingers Keene and the Steel unit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 24/41 | XP: 33100/34000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 0/3, L3 3/3, L4 1/1, BI: 0/6, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant, Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes**
@@ -8967,8 +10324,11 @@ You stand bloodied but unbroken in the center of the kill-box. Nine-Fingers is a
 God Mode:
 look at all recent events and make sure you awarded exp as needed
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 24/41 (Aid: +10) | XP: 38,800/48,000 (Lvl 8 Reachable) | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 0/3, L3 3/3, L4 1/1, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Immunity, Voice of the Absolute | Exhaustion: 0 | Inspiration: No**
@@ -8978,8 +10338,11 @@ You pause to consider your options...
 God Mode:
 Process Level 8 Advancement - Apply HP increase, ASI/Feat, and spell slot updates for Level 8
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 24/49 (Temp: 0) | XP: 38,800/48,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Warding Bond (+1 AC/Saves, Resistance), Aid (+10 Max HP) | Exhaustion: 0 | Inspiration: Yes (11/12)**
@@ -8989,8 +10352,11 @@ You pause to consider your options...
 God Mode:
 is cha supposed to be capped at 22 though?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 28/45 (Temp: 0) | XP: 38,800/48,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Warding Bond (+1 AC/Saves, Resistance), Aid (+10 Max HP) | Exhaustion: 0 | Inspiration: No**
@@ -9000,8 +10366,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"list my equipment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 1/45 | XP: 38,800/48,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 0/3, L3 3/3, L4 2/2, Breach: 5/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Death Ward (Used) | Inspiration: 0/6**
@@ -9023,8 +10392,11 @@ You stand gasping, a single point of vitality remaining in your frame, the Gralh
 God Mode:
 process my level up. do int+2 and pick the spell dimension door. then lets restart the combat and assume i have haste and greater invis cast by specialist. in all combat situations assume thats autocast going forward from specialist buffs
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 38,800/48,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, Bardic: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant, Hasted, Greater Invisibility | Inspiration: Yes**
@@ -9034,8 +10406,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"resume combat encounter. I cast hyp pattern on keene and her troops"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 38800/48000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3 | Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9070,8 +10445,11 @@ Shadowheart stands ready to act, the gold radiance of her armor pulsing as she p
 > 👤 **Player:**
 > *"remember i have 25 elites/specialist level 5+ with me too. they tie up all the enemies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 38800/48000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9089,8 +10467,11 @@ Shadowheart: Guiding Bolt (Level 1) vs Keene AC 19: 1d20 +10 = 9 +10 = 19 - Succ
 God Mode:
 what are you doing. i said to tie up keene and her unit. redo this guiding golt
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 38800/48000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Hasted, Invisible, Pregnant | Inspiration: 0/6**
@@ -9108,8 +10489,11 @@ Shadowheart, seeing the serpent stilled, chants a rhythmic command to the Absolu
 God Mode:
 no wtf  imean bind them with rope and secure them. bind keene first
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 38,800/48,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Invisible, Hasted, Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: No**
@@ -9126,8 +10510,11 @@ You stand at the pivot point of the Gray Harbor, your **Robe of the Weave** shim
 > *"interrogate keene and make sure you remember my enhance ability and assume naother bard casts inspiration on me. in parallel do these Liquidate Secondary Line: Command your specialists to finish the liquidation of the Guild reinforcements now that the leadership is secured.
 Seize Flagship Logs: Have Astarion search the captain's cabin for the physical proof of the Zhentarim/Guild agreement."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 38,800/48,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, Bardic: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Hasted, Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -9149,8 +10536,11 @@ You stand at the pivot point of the Gray Harbor, the Gralhund Signet on your fin
 > 👤 **Player:**
 > *"have my companions move keene to a discreet room on the ship, i then slit her throat and st eal her soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 39800/48000 | Gold: 16339gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, Bardic: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible (Greater), Hasted | Inspiration: No**
@@ -9176,8 +10566,11 @@ As the life fades from her eyes, you reach for the Gralhund Signet. The violet l
 God Mode:
 make sure you give me exp for stealing her soul and special powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Bard | HP: 49/49 | XP: 48200/48000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, Bardic: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Hasted, Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -9193,8 +10586,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Level 9 Benefits - Increase Proficiency to +4, update HP, and choose 5th-level spells.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 48,200/64,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9210,8 +10606,11 @@ Shadowheart and Astarion wait for you in the hallway, their artifacts glowing in
 God Mode:
 Learn &#x27;Hold Monster&#x27; (Lvl 5) - Paralyze any creature (humanoid or otherwise), perfectly complementing your &#x27;Surgical Containment&#x27; strategy.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 48,200/64,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9221,8 +10620,11 @@ You pause to consider your options...
 God Mode:
 swap Tasha's Hideous Laughter with dominate person
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 48200/64000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Buffs | Inspiration: Yes**
@@ -9232,8 +10634,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:what to do next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 48200/64000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Hasted, Invisible, Pregnant | Exhaustion: 0 | Inspiration: Yes**
@@ -9243,8 +10648,11 @@ You pause within the stateroom of the 'Lady of the Harbor,' the cooling remains 
 > 👤 **Player:**
 > *"THINK:do i need to sieze pier 12 or should i just ask faloen to stand down"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 48200/64000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible, Hasted | Inspiration: Yes**
@@ -9256,8 +10664,11 @@ this should've had enhance ability. stop forgetting
 
 Intelligence Check (Planning): 1d20 +5 INT = 6 +5 INT = 11 vs DC 15 (Complexity of harbor-side power dynamics) - Failure
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 48,200/64,000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Hasted, Invisible, Persistent Buffs Active | Exhaustion: 0 | Inspiration: Yes**
@@ -9269,8 +10680,11 @@ You stand within the silent stateroom, the cold weight of Nine-Fingers Keene's u
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Falone&#x27;s Surrender - Issue a Sovereign Mandate through the psychic link for Falone to yield the Pier 12 relay immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57100/64000 | Gold: 236934gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Hasted, Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -9292,8 +10706,11 @@ You feel the sudden influx of data and wealth as the Luiren income stream unfree
 > 👤 **Player:**
 > *"have my sosuke agents secretly help the guild remanents but use layers of proxies so it can't be traced. i want 20% of them still alive and causing trouble to justify my legal immunity"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57100/64000 | Gold: 236,934gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Immunity, Charter of Sovereign Continuity**
@@ -9313,8 +10730,11 @@ You gain 500 XP for the masterful establishment of the 'Insurgent Necessity' pro
 > 👤 **Player:**
 > *"annex the guild and tell me liquid gold gained and new recurring monthly income. divide it in half between me and zhentarium and go meet with falone and personally tell him the good news, his new income, and solidfy alliance with him since we are both absolute servants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57100/64000 | Gold: 249434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Monthly Income: 60000gp**
@@ -9332,8 +10752,11 @@ As she bows, you feel the finality of the alliance settle into the Weave. The Zh
 God Mode:
 track my pregnancy in session header and give me months countdown until likely birth
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57600/64000 | Gold: 249,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Hasted, Greater Invisibility, Sovereign Buffs | Exhaustion: 0**
@@ -9343,8 +10766,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:what should we do with absolute auditor? weh avent done anything wrong so likely theyll be fine?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57,600/64,000 | Gold: 249,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible, Hasted**
@@ -9354,8 +10780,11 @@ You pause within the blood-scented luxury of the 'Lady of the Harbor,' the cooli
 God Mode:
 tell me new total monthly income and daily and all sources
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57,600/64,000 | Gold: 249,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0**
@@ -9365,8 +10794,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:what if i hire 100 lvl 5+ sosuke specialists and 100 5+ rangers and 1000 soliders. how much would it cost roughly. i can also use the noble vassal thing to reduce costs too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57600/64000 | Gold: 249434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0**
@@ -9376,8 +10808,11 @@ You have a total estimated monthly upkeep of 42,000 gold pieces for a 1,200-unit
 > 👤 **Player:**
 > *"THINK:I want the state to do 50% vassal discount for initial purchase and recurring. Who would I talk to"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57600/64000 | Gold: 249,434gp**
@@ -9387,8 +10822,11 @@ You pause within the stateroom, your mind (INT 20) working through the logistica
 > 👤 **Player:**
 > *"Talk to ravenguars steward and ask for even higher discount since I just rescued him like 70%"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (14:00 (Midday))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57600/64000 | Gold: 249,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0**
@@ -9414,8 +10852,11 @@ You have secured the **Vassalage Discount (70%)**, effectively hollowing out the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Sosuke Legion - Utilize the new 70% discount to begin the massive recruitment of 1,200 personal troops.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 57600/64000 | Gold: 249,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0**
@@ -9435,8 +10876,11 @@ Astarion detaches from the mahogany railing, a jagged, predatory grin spreading 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Garrison the Legion - Distribute the 1,200 troops across High Ward nodes and Harbor assets for total control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 129434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0**
@@ -9454,8 +10898,11 @@ Shadowheart stands at your side, the Blood of Lathander glowing with a clinical,
 > 👤 **Player:**
 > *"Think. When is absolute auditor coming"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 129,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 0/3, L3 2/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0**
@@ -9465,8 +10912,11 @@ The absolute auditor is expected to arrive within the next 1 to 2 major turns, w
 > 👤 **Player:**
 > *"Give me a week of sanctuary for completing guild arc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Exhaustion: 0**
@@ -9482,8 +10932,11 @@ But as the sun sets on the seventh day, the atmosphere within the flagship turns
 God Mode:
 No give me the sanctuary week and don't time skip
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (15:45 (Sanctuary Start))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,100/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Exhaustion: 0**
@@ -9493,8 +10946,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and begin the Sanctuary week narrative*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (15:45 (Sanctuary Day 1))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,100/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -9512,8 +10968,11 @@ You feel the expansion of your own presence—a biological and psychic weight bo
 > 👤 **Player:**
 > *"Do these in parallel to prep for audit Finalize Annexations: Use the Legion to physically occupy all offshore nodes and maritime relays before the audit.Fortify Psychic Mask: Have Shadowheart and the Weaver of Ash perform a deep ritual to anchor the mask physically.Prepare Legal Theater: Brief the legal retinue and specialists to present a flawless administrative facade for the auditor."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir, 1 Month) | Inspiration: Yes**
@@ -9531,8 +10990,11 @@ You stand upon the quarterdeck as the sun dips toward the horizon, turning the h
 > 👤 **Player:**
 > *"Make sure this had enhance ability Fortify Psychic Mask: 1d20 +12 = 12 +12 = 24 vs DC 25 (Planar anchoring) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **Gray Harbor - Flagship 'Lady of the Harbor'** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Exhaustion: 0**
@@ -9550,8 +11012,11 @@ You stand upon the quarterdeck as the sun dips toward the horizon, turning the h
 > 👤 **Player:**
 > *"Make sure specialists give me bardic inspiration enhance ability and every useful buff in the game and meet auditor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **Gwent Manor - High Ward Sanctuary** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:30 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (1 Month) | Inspiration: Yes (d8)**
@@ -9573,8 +11038,11 @@ You look at him, but even with your expanded intellect and the unspooled memorie
 God Mode:
 You keep forgetting enhance ability. Just make sure it's always active on me Insight (Sizing up the Auditor): 1d20 +11 INT/PROF = 6 +11 = 17 vs DC 22 (Auditor trained to spot subversion) - Failure
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,100/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Persistent Specialist Buffs | Inspiration: Yes (d8)**
@@ -9584,8 +11052,11 @@ You pause to consider your options...
 God Mode:
 Enhance ability for every attribute should be on me from specialists not just cha. And bardic inspiration
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:30 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,100/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (1 month) | Sovereign Buffs | Enhanced Attributes | Inspiration: Yes (d8)**
@@ -9595,8 +11066,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Bardic inspiration? Insight (vs Malakor): 2d20kh1 + 4 (Owl's Wisdom) = 17 + 4 = 21 vs DC 22 (Auditor training) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **Gwent Manor - Foyer** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:31)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 6/6 | Inspiration: Yes (Specialist)**
@@ -9612,8 +11086,11 @@ But Malakor is a tomb of administrative granite. As his grey eyes lock onto your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Sovereign Hospitality - Attempt to soften his clinical focus with Patriar comforts before the audit*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:41)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58100/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 5/6, Inspiration: Yes (Specialist)**
@@ -9633,8 +11110,11 @@ He glides toward the lounge, the slate-grey of his robes trailing like a shadow.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Legion Efficiency - Show the logistical maps and garrison distribution to prove House Gwent is the most effective node in the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (19:01)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58500/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 4/6, Inspiration: Yes (Specialist)** &nbsp;|&nbsp; ⚠️ **Pregnant (1 Month), Grounded (+5 Deception), Sovereign Buffs, Invisibility (Ready), Haste (Ready) | Inspiration: Yes (1d8)**
@@ -9656,8 +11136,11 @@ You have successfully turned a lethal administrative threat into a validation of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe for Personal Agenda - Use Insight and Victoro&#x27;s memories to see if Malakor has a personal greed or ambition we can exploit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,500/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 3/6, Inspiration: Yes (Specialist)**
@@ -9679,8 +11162,11 @@ He leans forward, the ionizing scent of his anti-planar robes mixing with the cl
 > 👤 **Player:**
 > *"THINK:What's a way I can make him feel more powerful or be more powerful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ⚠️ **Hasted, Invisible (Greater), Warding Bond, Aid, Enhance Ability (All)**
@@ -9690,8 +11176,11 @@ You pause, the crystal flute of Sun-Dappled vintage catching the amber light of 
 > 👤 **Player:**
 > *"THINK:How about all 3 plus honor guard of 10 elites and 220 soldiers from what the absolute ha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:41)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 3/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Sanctuary week (End), Sovereign Buffs Active | Exhaustion: 0 | Inspiration: Yes (Specialist)**
@@ -9704,8 +11193,11 @@ The Sovereign Proxy: Provide Malakor with 'Masterwork' tactical data and forged 
 The Gilded Relay: Propose the construction of a specialized psychic relay at Gwent Manor that Malakor personally 'controls,' allowing him to filter all regional pings and claim credit for the Ward's total silence.
 The Shadow Endowment: Offer a secret percentage of the Luiren node's income to be funneled into Malakor's private inquisitorial projects, ensuring he has the personal power to suppress rival audits."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (18:56 (Evening))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 3/6, Inspiration: Yes (Specialist)** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) - Month 1 | Inspiration: Yes (Specialist)**
@@ -9729,8 +11221,11 @@ He lifts his glass, the ruby vintage catching the light as he offers a terminal 
 > 👤 **Player:**
 > *"Start relay and endowment. Then ask Malakor about the absolute leadership. Who leads them. Who highest authority in baldurs gate now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 4/6, Inspiration: Yes (Specialist)** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Sanctuary week ended | Exhaustion: 0 | Inspiration: Yes**
@@ -9750,8 +11245,11 @@ He leans in, the scent of ozone and old parchment surrounding you. "But you, Noc
 > 👤 **Player:**
 > *"Use bardic inspiration Psychic Relay Blueprinting: 2d20kh1 +5 INT +4 PROF = 12 +9 = 21 vs DC 22 (High-tier psychic architecture) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (19:26)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 3/6, Inspiration: Yes (Specialist)**
@@ -9769,8 +11267,11 @@ He leans back, the ruby vintage in his glass catching the light as he outlines t
 > 👤 **Player:**
 > *"Ask makalor for intel on Gortash Ketheric and Orin. Imply that I will ingratiate myself to them and help us both but secretly question for weaknesses and leverage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 3/6** &nbsp;|&nbsp; ⚠️ **Invisible, Hasted, Sovereign Buffs | Inspiration: Yes (Specialist)**
@@ -9792,8 +11293,11 @@ He sinks back into his chair, looking suddenly older, as if the weight of the na
 > 👤 **Player:**
 > *"Ask Malakor patriar intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 📍 **Gwent Manor - Private Lounge** &nbsp;|&nbsp; ⏳ **Kythorn 7, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 3/6** &nbsp;|&nbsp; ⚠️ **Pregnant (1 Month) | Exhaustion: 0 | Inspiration: Yes**
@@ -9815,8 +11319,11 @@ You feel the expansion of your own presence, the Masterful 38 on your Persuasion
 > [!NOTE] ⚙️ **Player Choice:**
 > *Build the Gilded Relay - Order your elite specialists to begin construction of the spire to anchor Malakor&#x27;s filter.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 📍 **Gwent Manor - Courtyard / North Wing** &nbsp;|&nbsp; ⏳ **1492 Kythorn 7, Evening (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 1/6** &nbsp;|&nbsp; ⚠️ **Hasted, Invisible (Greater), Enhanced Ability (All), Bardic Inspiration (Spent)**
@@ -9843,8 +11350,11 @@ Deep Rest and Biological Audit: Utilize the Sanctuary to focus on your pregnancy
 Stabilize Controlled Opposition: Use Sosuke agents and Zhentarim proxies to ensure the 20% Guild remnants are causing just enough trouble to maintain your legal immunity.
 Analyze Triumvirate Weaknesses: Spend time in the study using Victoro's memories and Malakor's intel to find the specific tactical maps for Gortash's Steel Watch or Ketheric's relic."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (07:15 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -9862,8 +11372,11 @@ You spend the morning hours submerged in the dark architecture of your study, th
 > 👤 **Player:**
 > *"Ask the absolute to introduce me to Orin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 6/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1, 8 remaining) | Inspiration: Yes (d8)**
@@ -9889,8 +11402,11 @@ Astarion detaches from the cedar pillar, a jagged, predatory grin spreading acro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consult Malakor on Orin - Ask your new co-conspirator for specific psychological triggers or &#x27;Art&#x27; protocols Orin expects.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-501"></a>
 #### Scene 501
 
 > 📍 **Gwent Manor - Private Study** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 5/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir - Month 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -9912,8 +11428,11 @@ Shadowheart exhales a long, disciplined breath from the doorway, her hand restin
 > 👤 **Player:**
 > *"Go meet with Gortash first and see what he wants. Recount my accomplishments, use my beauty to tempt him and make him pliable. Use my patriar name to imply legitimacy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-502"></a>
 #### Scene 502
 
 > 📍 **Wyrm's Rock Fortress - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 5/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -9937,8 +11456,11 @@ You watch him with a predatory clarity, but even with Victoro's memories, Gortas
 > 👤 **Player:**
 > *"Ask for steel watch access in return for being his primary lieutenant and safeguarding his coronation. Subtly imply my power velocity is step ie. 18 years old, level 9, controlling massive force and power in baldurs gate, fully turned myself around from ruin in a brothel. Subtly imply my turn around is similar to a commoner becoming arch duke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-503"></a>
 #### Scene 503
 
 > 📍 **Wyrm's Rock Fortress - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 4/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisible, Hasted | Inspiration: Yes**
@@ -9960,8 +11482,11 @@ You watch him with a predatory clarity, but even with Victoro's memories, Gortas
 > 👤 **Player:**
 > *"Ask for steel watch control. 10% of his units and access to the control center. The absolute and Gortash and powerful but that power isn't a beacon for enemies and I want some control of the best combat resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-504"></a>
 #### Scene 504
 
 > 📍 **Wyrm's Rock Fortress - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 3/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1/9) | Inspiration: No**
@@ -9979,8 +11504,11 @@ Shadowheart shifts her weight, her hand resting on the Blood of Lathander, her d
 God Mode:
 Make sure we used enhance ability Persuasion (Steel Watch Demand): 1d20 +17 MOD +7 BI = 4 +17 +7 = 28 vs DC 30 (Extreme demand for core infrastructure) - Failure
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-505"></a>
 #### Scene 505
 
 > 📍 **Wyrm's Rock Fortress - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 3/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir - Month 1/9) | Exhaustion: 0 | Inspiration: Yes**
@@ -9990,8 +11518,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Narrate Gortash acceptance"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-506"></a>
 #### Scene 506
 
 > 📍 **Wyrm's Rock Fortress - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 2/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Hasted, Greater Invisibility, Enhance Ability (All), Bardic Inspiration | Inspiration: Yes**
@@ -10011,8 +11542,11 @@ As you take the cold iron key, the Gralhund Signet on your finger pulses with a 
 > 👤 **Player:**
 > *"Consolidate watch vanguard and go inspect control center and bring my specialists and elites. Focus on specialists who can understand the control center"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-507"></a>
 #### Scene 507
 
 > 📍 **Wyrm's Rock Fortress - Control Center** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 1/6 | Breach: 5/6**
@@ -10032,8 +11566,11 @@ Inquisitor Malakor observes your frustration with a clinical, almost sympathetic
 > 👤 **Player:**
 > *"Brief Gortash lieutenants and then persuade them to give me a tour and explain how everything works and instruct my specialists to listen"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-508"></a>
 #### Scene 508
 
 > 📍 **Wyrm's Rock Fortress - Control Center** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1 | Bardic: 0/6 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisible, Hasted | Inspiration: Yes**
@@ -10055,8 +11592,11 @@ You feel the expansion of your own power, the Gralhund Signet pulsing a rhythmic
 > 👤 **Player:**
 > *"THINK:How many specialists and guards can I leave in steel watch control center without arousing suspicion?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-509"></a>
 #### Scene 509
 
 > 📍 **Wyrm's Rock Fortress - Control Center** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Inspiration: No | Exhaustion: 0**
@@ -10066,8 +11606,11 @@ You pause within the pressurized hum of the Control Center, your violet eyes tra
 > 👤 **Player:**
 > *"THINK:Vanguard tier and make sure they're all sosuke forces and not absolute"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-510"></a>
 #### Scene 510
 
 > 📍 **Wyrm's Rock Fortress - Control Center** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1, Bardic: 0/6, Breach: 5/6** &nbsp;|&nbsp; ⚠️ **Sovereign Buffs (Aid, Warding Bond, Freedom of Movement), Haste/Invisible (Ready) | Pregnancy: Month 1 (8 Months Remaining)**
@@ -10077,8 +11620,11 @@ You can leave a maximum of 50 total personnel—specifically 10 elite specialist
 God Mode:
 Is Gortash a signatory?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-511"></a>
 #### Scene 511
 
 > 📍 **Wyrm's Rock Fortress - Control Center** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisible, Hasted | Exhaustion: 0 | Inspiration: No**
@@ -10088,8 +11634,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Administrative Presence (50 Units) - Leave 10 elite specialists and 40 guards as an &#x27;Accounting and Synchronization&#x27; department.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-512"></a>
 #### Scene 512
 
 > 📍 **Wyrm's Rock Fortress - Control Center** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -10109,8 +11658,11 @@ Astarion idly tests the draw of his Titanstring Bow, a predatory grin spreading 
 > 👤 **Player:**
 > *"Go to manor and recruit 5 prisoners and make them signatories. Keep them around me wherever I go by default so I can use them as needes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-513"></a>
 #### Scene 513
 
 > 📍 **Gwent Manor - Private Cells** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -10130,8 +11682,11 @@ They fall into a sharp diamond formation around you, their faces masks of submis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perform Deep Core Audit - Use the new technicians to extract specific tactical weaknesses or self-destruct codes for the entire Watch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-514"></a>
 #### Scene 514
 
 > 📍 **Gwent Manor - Private Holding Cells** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 12/12** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Hasted, Invisible | Inspiration: Yes**
@@ -10151,8 +11706,11 @@ You feel the expansion of your own presence—a biological and psychic weight th
 > 👤 **Player:**
 > *"Ask shadowheart and  Astarion if they know of any other strong companions we could recruit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-515"></a>
 #### Scene 515
 
 > 📍 **Gwent Manor - Private Holding Cells** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 5/6, Signatories: 12/12** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -10170,8 +11728,11 @@ He leans closer, the scent of bergamot and old copper trailing in his wake. "The
 God Mode:
 Make sure you awarded me exp for allnwins without double counting. The Gortash deal is bif
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-516"></a>
 #### Scene 516
 
 > 📍 **Gwent Manor - Private Holding Cells** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 12/12** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -10181,8 +11742,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my elites try to track down all 3 companions and bring them to my manor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-517"></a>
 #### Scene 517
 
 > 📍 **Gwent Manor - Private Holding Cells** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 12/12** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -10200,8 +11764,11 @@ You stand at the top of the cedar staircase, the scarlet silk of **Birthright** 
 > 👤 **Player:**
 > *"Assess them. Who is evil or could be turned and won't balk at my methods"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-518"></a>
 #### Scene 518
 
 > 📍 **Gwent Manor - Courtyard / Entrance Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 12/12** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Inspiration: Yes (d8)**
@@ -10221,8 +11788,11 @@ Inquisitor Malakor glides to your side, his slate-grey robes trailing like a sha
 > 👤 **Player:**
 > *"THINK:Think. Would any betray us if we try to control elder brain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-519"></a>
 #### Scene 519
 
 > 📍 **Gwent Manor - Courtyard / Entrance Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Inspiration: Yes**
@@ -10232,8 +11802,11 @@ You pause on the cedar landing, your violet eyes narrowing as you scan the figur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signatory Enlistment - Immediately move to make Lae&#x27;zel, Karlach, and Wyll Active Signatories in the Black Ledger to enforce mechanical non-betrayal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-520"></a>
 #### Scene 520
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 5/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Sovereign Buffs | Inspiration: Yes**
@@ -10253,8 +11826,11 @@ As the three new names are scrawled into the Ledger, you feel the invisible thre
 > 👤 **Player:**
 > *"Buy all my companions the best gear possible for 50k gold and tell me the gear purchased"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-521"></a>
 #### Scene 521
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Sovereign Proxy, Gilded Relay, Pregnant (1 Mo) | Exhaustion: 0 | Inspiration: Yes**
@@ -10289,8 +11865,11 @@ Your companions look up at you, their forms shimmering with enchantments that ri
 > 👤 **Player:**
 > *"Keep titanstring on Astarion and give me deadshot"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-522"></a>
 #### Scene 522
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58900/64000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 5/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Sovereign Buffs Active | Inspiration: Yes**
@@ -10306,8 +11885,11 @@ You stand upon the cedar landing, the secret of your heir pulsing within you, lo
 God Mode:
 No have Astarion keep titanstring and I take dead shot
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-523"></a>
 #### Scene 523
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Sanctuary (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -10317,8 +11899,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Go to the bone sentinel and use arcana to stabilize it and turn it into a pet that follows me around. Have my 10 elite specialists help me if needes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-524"></a>
 #### Scene 524
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -10334,8 +11919,11 @@ The Gwent Sentinel remains atop its pillar, its skeletal head tilting as it sens
 God Mode:
 Did the living world and unforeseen complications stop triggering? When did they last trigger?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-525"></a>
 #### Scene 525
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 5/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Exhaustion: 0 | Inspiration: Yes**
@@ -10345,8 +11933,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exert Siren&#x27;s Leverage - Use your biological presence and Voice of the Absolute to force the devil&#x27;s compliance through raw Charisma.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-526"></a>
 #### Scene 526
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 4/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Exhaustion: 0 | Inspiration: No**
@@ -10360,8 +11951,11 @@ However, as the transformation completes, the Gilded Relay spire in the courtyar
 God Mode:
 We are in scene 525 that was long ago. Shouldn't something have triggered?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-527"></a>
 #### Scene 527
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 4/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Inspiration: Yes (d8)**
@@ -10371,8 +11965,11 @@ You pause to consider your options...
 God Mode:
 Make sure I got exp for all my wins but don't double count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-528"></a>
 #### Scene 528
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 4/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -10382,8 +11979,11 @@ You pause to consider your options...
 God Mode:
 I see we are on scene 527 but why are the turns you're describing different numbers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-529"></a>
 #### Scene 529
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 4/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Inspiration: Yes**
@@ -10393,8 +11993,11 @@ You pause to consider your options...
 God Mode:
 What was the last living world scene and turn?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-530"></a>
 #### Scene 530
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 58,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 4/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Grounded | Exhaustion: 0 | Inspiration: Yes**
@@ -10409,8 +12012,11 @@ As of the current state:
 - **Turn Number (Sequence ID)**: 1058 (Total combined entries)
 - **Living World Turn**: 448 (Background world progress)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-531"></a>
 #### Scene 531
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61900/64000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 4/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1) | Exhaustion: 0 | Inspiration: Yes (d8)**
@@ -10420,8 +12026,11 @@ You pause to consider your options...
 God Mode:
 What was the last living world scene and unforeseen complications scene
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-532"></a>
 #### Scene 532
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1, Breach: 5/6, Bardic: 4/6, Signatories: 15/15**
@@ -10431,8 +12040,11 @@ You pause to consider your options...
 God Mode:
 I asked about the user facing scene# show me that number for last 3 living world updates
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-533"></a>
 #### Scene 533
 
 > 📍 **Gwent Manor - Courtyard** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/1 | Breach: 5/6 | Bardic: 4/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -10442,8 +12054,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Let's end the sanctuary since I'm dealing with Orin. Give me greater invis and haste and every buff in the game. Go meet her with all my companions 10 elite specialists and 20 elite rangers both from sosuke forces"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-534"></a>
 #### Scene 534
 
 > 📍 **Lower City - Basilisk Gate Thoroughfare** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/3, L5 1/1 | Breach: 5/6 | Bardic: 4/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Greater Invisibility, Haste, Sovereign Buffs | Inspiration: Yes**
@@ -10465,8 +12080,11 @@ The thoroughfare suddenly goes still. The pulsing gore on the stones stops its r
 > 👤 **Player:**
 > *"Anchor legion. Use my persuasion to calm them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-535"></a>
 #### Scene 535
 
 > 📍 **Lower City - Basilisk Gate Thoroughfare** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61900/64000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/4, L5 1/1 | Breach: 5/6 | Bardic: 3/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Hasted, Invisible, Enhanced (All), Inspired**
@@ -10486,8 +12104,11 @@ Orin the Red tilts her head, her wet blades shivering as she watches the transfo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perform Audit of Superiority - Frame the meeting as an audit of her &#x27;Art&#x27; vs Gortash&#x27;s &#x27;Gears&#x27; to feed her vanity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-536"></a>
 #### Scene 536
 
 > 📍 **Lower City - Basilisk Gate Thoroughfare** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 2/3, L4 2/4, L5 1/1, Breach: 5/6, Bardic: 2/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste, Enhance Ability, Bardic Inspiration (Spent), Aid (+10), Warding Bond (+1 AC/Saves, Resistance), Freedom of Movement | Exhaustion: 0 | Inspiration: Yes**
@@ -10528,8 +12149,11 @@ She takes a step toward your invisible form, her blades trailing through the pul
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Artist&#x27;s Tour - Agree to witness her &#x27;Art&#x27; in the Sewer&#x27;s Throat to gain deep intel on the Temple of Bhaal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-537"></a>
 #### Scene 537
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 2/3, L4 1/3 (G. Invis used), L5 1/1, Breach: 5/6, Bardic: 2/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -10547,8 +12171,11 @@ You gain deep intel on the Temple of Bhaal's entrance geometry and the specific 
 God Mode:
 Look at the game state is rewardsnprocessed false for combat?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-538"></a>
 #### Scene 538
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 61,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 1/1, Breach: 5/6, Bardic: 2/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Hasted, Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -10558,8 +12185,11 @@ You pause to consider your options...
 God Mode:
 Consume the exp and set it to true
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-539"></a>
 #### Scene 539
 
 > 📍 **Undercity - The Sewer's Throat** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 62,400/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 1/1, Breach: 5/6, Bardic: 2/6, Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisibility, Haste | Inspiration: Yes**
@@ -10569,8 +12199,11 @@ You pause to consider your options...
 God Mode:
 Return to Story - Resume the tour with Orin in the Sewer&#x27;s Throat.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-540"></a>
 #### Scene 540
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 62400/64000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 1/1 | Breach: 5/6 | Bardic: 2/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Hasted, Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -10580,8 +12213,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the tour with Orin in the Sewer&#x27;s Throat now that the math is settled.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-541"></a>
 #### Scene 541
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 62,400/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 1/1 | Breach: 5/6 | Bardic: 2/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -10595,8 +12231,11 @@ As you scan the entrance geometry, your Sosuke math begins to unpick the anatomi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe for Ketheric&#x27;s Leash - Subtly inquire about the General&#x27;s heart to see if she has intel on the mausoleum relic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-542"></a>
 #### Scene 542
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 62,400/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/3, L5 1/1 | Breach: 5/6 | Bardic: 1/6 | Signatories: 15/15** &nbsp;|&nbsp; ⚠️ **Pregnant, Hasted, Greater Invisibility, Sovereign Buffs | Inspiration: Yes (Used)**
@@ -10616,8 +12255,11 @@ You gain **500 XP** for the Masterful extraction of Ketheric's leash intel. The 
 > 👤 **Player:**
 > *"Offer her a tribute. Use my soul magic on one of my signatory prisoners and turn their skin inside out"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-543"></a>
 #### Scene 543
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 63400/64000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 1/1 | Breach: 4/6 | Bardic: 0/6 | Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Greater Invisibility, Haste, Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes**
@@ -10639,8 +12281,11 @@ She gestures toward the massive, pulsing archway of the Temple entrance, her bla
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Deeper Intel - Press Orin for the specific tactical map of the Temple or its defenses while she&#x27;s pliable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-544"></a>
 #### Scene 544
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 63,900/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 1/1 | Breach: 4/6 | Bardic: 1/6 | Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -10662,8 +12307,11 @@ You gain **500 XP** for extracting the terminal tactical intel on the Temple of 
 > 👤 **Player:**
 > *"ask her for weaknesses or intel on gortash"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-545"></a>
 #### Scene 545
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 64400/100000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 9/9 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 1/1 | Breach: 4/6 | Bardic: 0/6 | Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisible, Hasted | Inspiration: No**
@@ -10690,8 +12338,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 > 👤 **Player:**
 > *"assess her. hat level is she"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-546"></a>
 #### Scene 546
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; 🛡️ **Lvl 9 Bard | HP: 57/57 | XP: 64,400/64,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 9/9, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 1/1, Breach: 4/6, Bardic: 0/6, Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Greater Invisibility, Haste, Persistent Buffs | Inspiration: Yes (d8)**
@@ -10711,8 +12362,11 @@ If you continue adventuring, you remain Level 9 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 10 - Apply level 10 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-547"></a>
 #### Scene 547
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 61/61 | XP: 64,400/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Bardic: 0/6 (d10), Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Greater Invisibility, Haste | Inspiration: 0/6 (d10)**
@@ -10731,8 +12385,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 > 👤 **Player:**
 > *"expertise for arcana and insight"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-548"></a>
 #### Scene 548
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,400/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Bardic: 0/6 (d10), Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Hasted, Invisible | Exhaustion: 0 | Inspiration: No**
@@ -10750,8 +12407,11 @@ You must now finalize your advancement. Please select two spells from any class 
 God Mode:
 Select Magical Secrets - Choose two spells from any class list to add to your spells known.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-549"></a>
 #### Scene 549
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,400/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Bardic: 6/6 (d10), Signatories: 14/15**
@@ -10761,8 +12421,11 @@ You pause to consider your options...
 God Mode:
 do i already have command
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-550"></a>
 #### Scene 550
 
 > 📍 **Undercity - The Sewer's Throat** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64400/85000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2 | Bardic: 6/6 (d10) | Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -10772,8 +12435,11 @@ You pause to consider your options...
 God Mode:
 pick counter spell and command spell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-551"></a>
 #### Scene 551
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,400/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2, Bardic: 6/6 (d10), Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisible, Hasted, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -10783,8 +12449,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit God Mode and resume the tour with Orin at the Temple of Bhaal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-552"></a>
 #### Scene 552
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:35)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,400/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2, Bardic: 6/6 (d10), Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -10804,8 +12473,11 @@ She pauses, her blades tracing the exposed ribs of the pleading Patriar, waiting
 > 👤 **Player:**
 > *"THINK:could i surprise attack orin and get away with assassinating her and just pretend she went crazy and attacked me? how do my forces look vs hers here? i have all the intel now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-553"></a>
 #### Scene 553
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **1492 Kythorn 8, 23:30** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,400/85,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2, Bardic: 6/6, Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisible, Hasted, Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes (d10)**
@@ -10815,8 +12487,11 @@ You pause amidst the humid, copper-scented dark of the Sewer's Throat, the frant
 God Mode:
 i have all my companions with me and they always accopmany me by default
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-554"></a>
 #### Scene 554
 
 > 📍 **Undercity - The Sewer's Throat (Temple of Bhaal Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,400/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2, Bardic: 6/6 (d10), Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -10830,8 +12505,11 @@ Assassinating a member of the Triumvirate in her own throat—while the regional
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage the Art - Demand she prove her Art is superior to the &#x27;Nightsong&#x27; anchor, leading her to expose a deeper vulnerability before striking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-555"></a>
 #### Scene 555
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Entrance)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,400/85,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2 | Bardic: 6/6 (d10) | Signatories: 14/15 | Watch: 100/100** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (1 min), Haste (1 min), Pregnant (Month 1) | Inspiration: Yes**
@@ -10853,8 +12531,11 @@ Meanwhile, in the world above, news filters through the High Ward. The Watch has
 > 👤 **Player:**
 > *"signal minthara to bait orin into attacking her. she's a paladin so has high CHA. make sure she has bardic inspiration and enhance ability for this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-556"></a>
 #### Scene 556
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,900/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2 | Bardic: 5/6 (d10) | Signatories: 14/15 | Watch: 100/100** &nbsp;|&nbsp; ⚠️ **Hasted, Greater Invisibility, Fox's Cunning, Siren's Leverage | Exhaustion: 0 | Inspiration: Yes**
@@ -10872,8 +12553,11 @@ This is the moment. Orin has overextended, her back turned to your invisible for
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sovereign Command - Use your new Magical Secret to cast Command: &#x27;Grovel&#x27; on Orin, forcing her prone and vulnerable for the paladins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-557"></a>
 #### Scene 557
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,900/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2, Bardic: 5/6, Watch: 100/100, Signatories: 14/15** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Hasted, Greater Invisibility, Sovereign Buffs | Inspiration: Yes (d10)**
@@ -10891,8 +12575,11 @@ Beside her, Shadowheart and Astarion materialize from the shadows like twin exec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hypnotic Lockdown - Use your surprise action to cast Hypnotic Pattern (DC 28) to freeze Orin and her immediate guard while the companions strike.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-558"></a>
 #### Scene 558
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64,900/85,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 2/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2 | Bardic: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Inspiration: Yes**
@@ -10914,8 +12601,11 @@ Meanwhile, the world above continues to shift under your influence. Your Sosuke 
 > 👤 **Player:**
 > *"hypnotic pattern, coordinate rangers, have eveyrone else focus fire orin. keep redoing command grovel on her whenever needed"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-559"></a>
 #### Scene 559
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 64900/85000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 3/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2 | Bardic: 5/6 | Signatories: 14/16** &nbsp;|&nbsp; ⚠️ **Pregnant, Hasted, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes (d10)**
@@ -10931,8 +12621,11 @@ Minthara, seeing the Artist perfected in her trance, does not offer a prayer. Sh
 > 👤 **Player:**
 > *"have someone bind orin and then slit her throat and steal her soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-560"></a>
 #### Scene 560
 
 > 📍 **Undercity - Temple of Bhaal (Anatomical Heart)** &nbsp;|&nbsp; ⏳ **Kythorn 9, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Bard | HP: 65/65 | XP: 89900/100000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 10/10 | Spells: L1 3/4, L2 2/3, L3 1/3, L4 0/3, L5 2/2 | Bardic: 5/6 | Signatories: 15/16**
@@ -10972,8 +12665,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 God Mode:
 Level Up to Level 11 - Apply level 11 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-561"></a>
 #### Scene 561
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 69/69 | XP: 89900/100000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/11, Spells: L1 2/4, L2 1/3, L3 1/3, L4 3/3, L5 0/2, L6 0/1, Bardic: 5/6, Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Hasted, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -10989,8 +12685,11 @@ If you continue adventuring, you remain Level 11 and defer these benefits until 
 God Mode:
 Select 6th-Level Spell - Finalize your Level 11 advancement by choosing your new high-tier spell
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-562"></a>
 #### Scene 562
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **1492 Kythorn 8, 00:10:07 (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 69/69 | XP: 89900/100000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 10/11, Spells: L1 2/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1, Bardic: 5/6, Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Hasted | Inspiration: Yes (d10)**
@@ -11000,8 +12699,11 @@ You pause to consider your options...
 God Mode:
 swap with mass suggestion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-563"></a>
 #### Scene 563
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 89,900/100,000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 2/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1, Bardic: 5/6, Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -11011,8 +12713,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"give orins gear to astarion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-564"></a>
 #### Scene 564
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 89900/100000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 2/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 5/6 | Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11030,8 +12735,11 @@ You feel the expansion of your own presence, the Gralhund Signet pulsing a rhyth
 > 👤 **Player:**
 > *"communicate with the absolute immediately. explain Orin went crazy and attacked us. make sure i have bardic inspiration, enhance ability, every buff in the game for this deception"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-565"></a>
 #### Scene 565
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 89900/100000 | Gold: 93,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 3/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 4/6 | Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11053,8 +12761,11 @@ Shadowheart watches the space where you stand, her dark eyes reflecting the fadi
 > 👤 **Player:**
 > *"tell orins forces to surrender and explain I love murder and serve bhaal just as much as her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-566"></a>
 #### Scene 566
 
 > 📍 **Undercity - Temple of Bhaal (Sanctum Fissure)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 89900/100000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 3/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1, Bardic: 4/6, Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Owl's Wisdom, Eagle's Splendor**
@@ -11078,8 +12789,11 @@ You have successfully liquidated the Triumvirate's local leadership and annexed 
 > 👤 **Player:**
 > *"short rest and then head to gortash. i will try to convince him orin went crazy and attacked me, there's no love lost between them. use BI, enhance ability etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-567"></a>
 #### Scene 567
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 89900/100000 | Gold: 93434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4 used (0 remaining), L2 2/3 used (1 remaining), L3 3/3 used (0 remaining), L4 0/3 used (3 remaining), L5 2/2 used (0 remaining), L6 1/1 used (0 remaining), Bardic: 5/6 used (1 remaining), Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Hasted, Invisible, Bear's Endurance (+2d6 Temp HP), Eagle's Splendor | Inspiration: Yes**
@@ -11105,8 +12819,11 @@ You gain **2,000 XP** for the masterful strategic deception of a Triumvirate lea
 Annex Temple Forces: Formally sign the surrendered Bhaalists into the Black Ledger to bolster your vanguard. Extract Triumvirate Intel: Question the lead veterans about Gortash's specific emergency protocols for Orin's 'disappearance'.
 Audit the Vaults: Use your specialists and the anatomical map to locate and siphon Orin's personal caches."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-568"></a>
 #### Scene 568
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 93,900/100,000 | Gold: 103,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 5/6 | Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Hasted, Invisible | Exhaustion: 0 | Inspiration: Yes (d10)**
@@ -11126,8 +12843,11 @@ You gain **2,000 XP** for the masterful strategic delegation and total annexatio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire About Ketheric - Probe Gortash for his thoughts on the General&#x27;s current stability and the status of Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-569"></a>
 #### Scene 569
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 93,900/100,000 | Gold: 103,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 5/6 | Signatories: 15/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11149,8 +12869,11 @@ In that flickering heartbeat, you see them: four 'Silent Auditors'—invisible s
 > 👤 **Player:**
 > *"delegate intergration of orins forces and spies and monthly income. give me the new totals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-570"></a>
 #### Scene 570
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 5/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Inspiration: Yes**
@@ -11170,8 +12893,11 @@ You gain 2,000 XP for the masterful strategic delegation and total annexation of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Auditors - Use your knowledge of the &#x27;Steel Veil&#x27; to acknowledge the stalkers and frame their presence as a &#x27;wise precaution&#x27; you already anticipated.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-571"></a>
 #### Scene 571
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 4/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11189,8 +12915,11 @@ Gortash’s predatory grin slowly returns, though his eyes remain chips of cold 
 > 👤 **Player:**
 > *"subtly reminder gortash on how far i've come and i was just in a brothel. now at age 18 I've killed orin too and am level 11, i am a very strong tool who can serve him and give us mutual benefit"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-572"></a>
 #### Scene 572
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 4/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Inspiration: Yes**
@@ -11208,8 +12937,11 @@ Gortash’s eyes, chips of obsidian in the dim light, trace the sharp planes of 
 > 👤 **Player:**
 > *"THINK:why is gortash telling me to go to moonrise? is he asking me to kill ketheric or just meet with him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-573"></a>
 #### Scene 573
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste**
@@ -11219,8 +12951,11 @@ You pause within the ionizing static of the Audience Hall, your violet eyes trac
 > 👤 **Player:**
 > *"THINK:i will to go moonrise with gortash but what if i leave behind astarion to lead my elite agents/spy network and lady grahlude to lead my faction? they should try to anticipate any movements from gortash to sabotage things"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-574"></a>
 #### Scene 574
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 113,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering)**
@@ -11230,8 +12965,11 @@ You pause within the ionizing static of the Audience Hall, your mind working thr
 > 👤 **Player:**
 > *"THINK:ok i will take astarion and lead vylna to command my spies"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-575"></a>
 #### Scene 575
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste**
@@ -11241,8 +12979,11 @@ You pause within the ionizing static of the Audience Hall, the blue flicker of G
 > 👤 **Player:**
 > *"THINK:i will bring full retinue. all compansions except vylna. so only vylna and lady gralhund stay. I will leave the absolute forces to guard my interests and take 50% of my sosuke level 5+ elites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-576"></a>
 #### Scene 576
 
 > 📍 **Wyrm's Rock - Audience Hall** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 2/3, L3 2/3, L4 0/3, L5 2/2, L6 1/1 | Bardic: 4/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11254,8 +12995,11 @@ You pause, the ionizing hum of the Gortash audience still vibrating in your Robe
 
 Tell me how many forces this ends up being"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-577"></a>
 #### Scene 577
 
 > 📍 **High Ward - Gwent Manor to Gray Harbor** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste, Sovereign Buffs | Exhaustion: 0 | Inspiration: Yes**
@@ -11273,8 +13017,11 @@ As you prepare to depart, your household specialists apply the final layers of y
 > 👤 **Player:**
 > *"THINK:ow many level 9+ specialists we could get using 50k gold?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-578"></a>
 #### Scene 578
 
 > 📍 **Gwent Manor to Shadow-Cursed Lands** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (10:00 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 113434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11284,8 +13031,11 @@ You pause as the carriage rolls toward the Shadow-Cursed Lands, your mind attemp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Elite Garrison - Recruit a larger number (approx 10-15) of Level 7-8 specialists to anchor a node.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-579"></a>
 #### Scene 579
 
 > 📍 **Gwent Manor to Shadow-Cursed Lands** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste, Sovereign Buffs | Inspiration: Yes**
@@ -11297,8 +13047,11 @@ However, the math is currently volatile. The 'Steel Watch Silence' order and the
 > 👤 **Player:**
 > *"siphon orphaned elites, have then sign vassal oaths to my house and let them be signatories, replenesh my prisoner signatores with 20 prisoners too, and lets call the new 10-15 specialists the sosuke guard and tell me how many i found"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-580"></a>
 #### Scene 580
 
 > 📍 **Gwent Manor (North Wing Courtyard)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Active), Haste (Active) | Inspiration: 6/6**
@@ -11314,8 +13067,11 @@ You step out of the carriage at the manor’s gate, the Gwent Sentinel rattling 
 > 👤 **Player:**
 > *"depart for moonrise and bring sosuke guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-581"></a>
 #### Scene 581
 
 > 📍 **Carriage (En Route to Moonrise)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Invisible, Hasted, Sovereign Buffs | Inspiration: Yes**
@@ -11333,8 +13089,11 @@ His gaze is a scalpel, peeling back the layers of your 'Lady Gwent' facade. Outs
 > 👤 **Player:**
 > *"take wyll aside and ask him what he wants. does he want his father alive? or does he want him dead so wyll can take over"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-582"></a>
 #### Scene 582
 
 > 📍 **Carriage (En Route to Moonrise)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Inspiration: Yes**
@@ -11350,8 +13109,11 @@ Wyll flinches, his jaw setting so hard that a muscle leaps in his cheek. He look
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame as Mercy - Suggest that a terminal release from the Shadow-Curse is the only dignity left for a man like the Duke.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-583"></a>
 #### Scene 583
 
 > 📍 **Carriage (En Route to Moonrise)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11367,8 +13129,11 @@ Wyll's remaining eye dilates, the pupil dancing with a frantic, suppressed recog
 > 👤 **Player:**
 > *"send invisible scouts ahead from the elite sosuke guard"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-584"></a>
 #### Scene 584
 
 > 📍 **Shadow-Cursed Lands (En Route to Moonrise)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste**
@@ -11388,8 +13153,11 @@ You feel the Gralhund Signet on your finger pulse with a resonant, painful heat�
 God Mode:
 You didn't actually introduce me to the emperor yet. Let's do it now before we continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-585"></a>
 #### Scene 585
 
 > 📍 **Shadow-Cursed Lands (En Route to Moonrise)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30 (Morning))** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste**
@@ -11399,8 +13167,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ask Gortash what he thinks of ketheric bunkering down"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-586"></a>
 #### Scene 586
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Exhaustion: 0**
@@ -11410,8 +13181,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Emperor Introduction - Narrate the first psychic meeting with the Guardian within the carriage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-587"></a>
 #### Scene 587
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering) | Exhaustion: 0 | Inspiration: Yes**
@@ -11435,8 +13209,11 @@ As the opalescent theater shatters, the world rushes back. The carriage is still
 God Mode:
 I have no word in my head so his shield only needed for my companions right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-588"></a>
 #### Scene 588
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility | Inspiration: Yes**
@@ -11446,8 +13223,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Return to story and keep things as they are. Ask Gortash what he thinks of Kerheric hunkering down and if ketheric wil betray us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-589"></a>
 #### Scene 589
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering) | Exhaustion: 0 | Inspiration: Yes**
@@ -11465,8 +13245,11 @@ Despite the expansion of your mind, Gortash's deeper political hooks remain a st
 > 👤 **Player:**
 > *"THINK:Is Gortash asking me to betray ketheric?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-590"></a>
 #### Scene 590
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering), Guardian's Shield**
@@ -11476,8 +13259,11 @@ You lean back into the velvet cushions, the mental shield of the Emperor providi
 > 👤 **Player:**
 > *"THINK:How can I play Gortash and ketheric ahainst each other. I shouldn't do all the work"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-591"></a>
 #### Scene 591
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste, Warding Bond | Inspiration: Yes (6/6)**
@@ -11487,8 +13273,11 @@ You lean back into the velvet cushions, the mental shield of the Emperor providi
 > 👤 **Player:**
 > *"THINK:Position my elite agents near the maloseum and half my sosuke guard. Far enough to avoid detection but close enough to act if needed. Then go publically greet Kerheric and ensure Gortash walks in with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-592"></a>
 #### Scene 592
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 63434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering)**
@@ -11498,8 +13287,11 @@ You pause as the carriage approaches the bridge, the grey, hungry silhouettes of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow Gortash&#x27;s Deployment - Wait for Gortash to deploy his own Watchers and slot your Guard into the &#x27;shadows&#x27; of his movements.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-593"></a>
 #### Scene 593
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste, Guardian's Shield**
@@ -11519,8 +13311,11 @@ Outside, the bridge erupts in a cacophony of hissing steam and the shrieks of un
 > 👤 **Player:**
 > *"THINK:How do my forces compare to ketheric and Gortash? Do I have more elites?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-594"></a>
 #### Scene 594
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Haste, Greater Invisibility (Flickering), Guardian Shield (+5 Deception)**
@@ -11530,8 +13325,11 @@ You lean back against the velvet cushions, the mental shield of the Emperor humm
 > 👤 **Player:**
 > *"Ask Gortash if I can be an opening act in his coronation ceremony. Make me a grand duke and give me full military control of baldurs gate and the fist and watch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-595"></a>
 #### Scene 595
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering) | Inspiration: Yes**
@@ -11551,8 +13349,11 @@ He has denied the ultimate demand, but the partial concession grants you officia
 > 👤 **Player:**
 > *"Reroll bardic inspiration and enhance ability Persuasion (Grand Duke Demand): 1d20 +20 = 8 +20 = 28 vs DC 30 (Army-level power transfer, challenges Archduke sovereignty) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-596"></a>
 #### Scene 596
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11572,8 +13373,11 @@ As the carriage rolls across the bridge, the Shadow-Cursed Wraiths outside are r
 > 👤 **Player:**
 > *"Send a team of 5 elite agents and sosuke guard back with the papers to my faction to give to lady gradhule to start consolidating my new authority and prepare for my coronation alongside Gortash"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-597"></a>
 #### Scene 597
 
 > 📍 **Shadow-Cursed Lands (The Carriage)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Infernal Contracts) | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility, Haste, Guardian's Shield**
@@ -11593,8 +13397,11 @@ Outside, the Sosuke Guard clears the final Wraith remnants from the bridge. The 
 > 👤 **Player:**
 > *"Instruct my elites and sosuke guard to come right back after delivering papers and then go meet ketheric with Gortash beside me. Narrative dialog and scene in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-598"></a>
 #### Scene 598
 
 > 📍 **Shadow-Cursed Lands (Approaching Moonrise)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11612,8 +13419,11 @@ Ahead, Moonrise Towers looms through the necrotic fog—a jagged, skeletal throa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Public Greeting - Step out of the carriage with Gortash and your full vanguard to greet General Thorm with Sovereign authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-599"></a>
 #### Scene 599
 
 > 📍 **Moonrise Towers (External Docks)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Grand Duke | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Active Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Guardian's Shield (+5 Deception), Charter of Sovereign Continuity, Title: Grand Duke | Exhaustion: 0 | Inspiration: Yes**
@@ -11635,8 +13445,11 @@ Ketheric's jaw sets, a micro-expression of ancient, granite-like defiance. He se
 > 👤 **Player:**
 > *"Audit fortress and ask for your and in parallel probe general"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-600"></a>
 #### Scene 600
 
 > 📍 **Moonrise Towers (External Docks)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Grand Duke | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Bardic: 6/6 | Active Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11658,8 +13471,11 @@ However, as you turn to follow the General, the air suddenly ionizes with a viol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Counter-Audit - Use the Gilded Relay and Victoro&#x27;s memories to bypass Arros&#x27;s Silencer and force the registration.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-601"></a>
 #### Scene 601
 
 > 📍 **Moonrise Towers (External Docks)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95900/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, Bardic: 6/6, Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11681,8 +13497,11 @@ He turns with a heavy, grinding clatter of obsidian plate, leading you and Gorta
 > 👤 **Player:**
 > *"Persuade Thorm to open up and telll me what he wants and thinks about Gortash (when Gortash isn't around)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-602"></a>
 #### Scene 602
 
 > 📍 **Moonrise Towers (Audience Hall Entry)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, Bardic: 6/6, Signatories: 17/17** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste, Guardian's Shield | Exhaustion: 0 | Inspiration: Yes**
@@ -11704,8 +13523,11 @@ Ketheric's Social HP for a 'Peer' alliance has been reduced to 10/12. You have u
 > 👤 **Player:**
 > *"Ask him to elaborate more on his daughter. What's the situation. Offer to help"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-603"></a>
 #### Scene 603
 
 > 📍 **Moonrise Towers (Audience Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering) | Exhaustion: 0 | Inspiration: Yes**
@@ -11728,8 +13550,11 @@ He finally faces you, his grey eyes reflecting a depth of weariness that makes t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Nightsong Details - Ask specifically how the Nightsong anchors Isobel and where the &#x27;mathematical flaw&#x27; lies.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-604"></a>
 #### Scene 604
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 95,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11747,8 +13572,11 @@ You gain **500 XP** for extracting the terminal details of the Nightsong's vulne
 > 👤 **Player:**
 > *"THINK:What exactly does he mean? His daughter is powering his immortality?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-605"></a>
 #### Scene 605
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96400/100000 | Gold: 63434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Inspiration: Yes**
@@ -11758,8 +13586,11 @@ You pause, the freezing necrotic air of the sanctum hanging still as you process
 God Mode:
 Did we change the story? If so it's fine but in the original game isobel wasn't in the soul cage it was some daughter of selune
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-606"></a>
 #### Scene 606
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Grand Duke | HP: 71/71 | XP: 96400/100000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -11769,8 +13600,11 @@ You pause to consider your options...
 God Mode:
 Ok that's fine and how does it work? Same as before but Isobel instead? Why would Kerheric do that?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-607"></a>
 #### Scene 607
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,400/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Guardian's Shield, Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: 6/6**
@@ -11780,8 +13614,11 @@ You pause to consider your options...
 God Mode:
 Why would Gortash tell me to go recover the nightsong then vs do it himself? Isn't he giving me too much power ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-608"></a>
 #### Scene 608
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,400/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Breach: 4/6**
@@ -11791,8 +13628,11 @@ You pause to consider your options...
 God Mode:
 No Gortash came to moonrise with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-609"></a>
 #### Scene 609
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering) | Exhaustion: 0 | Inspiration: Yes**
@@ -11802,8 +13642,11 @@ You pause to consider your options...
 God Mode:
 Remember Gortash is here in moonrise with me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-610"></a>
 #### Scene 610
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste, Guardian's Shield**
@@ -11813,8 +13656,11 @@ You pause to consider your options...
 God Mode:
 What exactly am I supposed to do? If i remove her soul won't the nightsong fail and ketheric just dies? Does the elder brain then go free ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-611"></a>
 #### Scene 611
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **1492 Kythorn 8, 14:45** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11824,8 +13670,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ask Kerheric what he would do for me if i rescue his daughter. He would lose his immortality and be less useful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-612"></a>
 #### Scene 612
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Bardic: 6/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11848,8 +13697,11 @@ He takes a step toward you, the scent of ash and old copper suddenly overpowerin
 > 👤 **Player:**
 > *"THINK:Think. Who should I side with? Kerheric might be better because he becomes my vassal and I can just go do What Gortash already asked me to do and it won't seem suspicious? If I ally with Gortash then he stays in power and I don't really power up from killing Kerheric. Give me pros/cons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-613"></a>
 #### Scene 613
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -11859,8 +13711,11 @@ You pause within the heavy, light-eating silence of Ketheric's sanctum, your min
 > 👤 **Player:**
 > *"THINK:What about this . I try to save daughter and if it fails I just kill her and kill Kerheric and pretend I was on gortashes side all along"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-614"></a>
 #### Scene 614
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (Grand Duke) | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Hasted, Greater Invisibility (Flickering) | Inspiration: Yes**
@@ -11870,8 +13725,11 @@ You pause within the heavy, light-eating silence of the sanctum, your violet eye
 > 👤 **Player:**
 > *"THINK:I will do triple cross pivot. First priority I try to save isobel and if it works I kill Gortash. If it fails I kill Kerheric and tell Gortash that was my plan all along"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-615"></a>
 #### Scene 615
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste, Guardian's Shield**
@@ -11881,8 +13739,11 @@ You pause within the heavy, light-eating silence of the sanctum, your violet eye
 > 👤 **Player:**
 > *"I will proceed with triple cross contingency plan and secretly signal to Kerheric I accept his deal. Then go tell Gortash discreetly I accept his deal too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-616"></a>
 #### Scene 616
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Bardic: 6/6 | Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste, Guardian's Shield | Exhaustion: 0 | Inspiration: Yes**
@@ -11904,8 +13765,11 @@ Outside, the Shadow-Curse seems to press harder against the weeping glass, the c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Gortash&#x27;s Audit - Use Insight and the Gilded Relay to identify exactly what the Silent Auditor is looking for.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-617"></a>
 #### Scene 617
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Infernal Contracts) | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Bardic: 6/6 | Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste, Sovereign Judiciary | Exhaustion: 0 | Inspiration: Yes**
@@ -11923,8 +13787,11 @@ You adjust your veil, the cold iron of the Gralhund Signet feeling like a brand 
 > 👤 **Player:**
 > *"Ask the emperor if I can enter his dimension and if we'd be safe from Gortash audit there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-618"></a>
 #### Scene 618
 
 > 📍 **Moonrise Towers (Ketheric's Private Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 96,900/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, Bardic: 6/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Inspiration: Yes**
@@ -11946,8 +13813,11 @@ You adjust your veil, the coldness of the Emperor's words acting as a clinical g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Gortash&#x27;s Vanity - Flatter the Archduke to lower his auditor&#x27;s scrutiny before the mission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-619"></a>
 #### Scene 619
 
 > 📍 **Moonrise Towers (Inner Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (College of Infernal Contracts) | HP: 71/71 | XP: 97400/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 4/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Guardian's Shield, Hasted, Greater Invisibility (Flickering) | Inspiration: Yes**
@@ -11965,8 +13835,11 @@ Through the psychic link, the Emperor's voice ripples with a cold, strategic sat
 > 👤 **Player:**
 > *"Ask for necto vanguard support and crypt passwords and anything else useful. Delegate probing steel veil failsafe"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-620"></a>
 #### Scene 620
 
 > 📍 **Moonrise Towers (General's Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98,400/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 4/6 | Exhaustion: 0**
@@ -11988,8 +13861,11 @@ You gain **1,000 XP** for extracting Ketheric's secret support and Masterfully d
 God Mode:
 Restore all my spell slots they shouldn't be used up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-621"></a>
 #### Scene 621
 
 > 📍 **Moonrise Towers (General's Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98,400/100,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Inspiration: Yes**
@@ -11999,8 +13875,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Enter astral prism with all my companions and brainstorm next steps"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-622"></a>
 #### Scene 622
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (15:25)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (Grand Duke) | HP: 71/71 | XP: 98,400/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering) | Exhaustion: 0 | Inspiration: Yes (6/6)**
@@ -12016,8 +13895,11 @@ You turn to your companions, the Gralhund Signet pulsing a rhythmic, expectant v
 > 👤 **Player:**
 > *"Explain the plan to my companions and the long term goal of controlling the brain. Then give them an even longer term of of using the brain to overthrow Zariel because she has a contract on me for when I took over from casslanters using the new brain powers and to rule avenrus as well. I will let Karlach get the last shot to kill Zariel eventually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-623"></a>
 #### Scene 623
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98,400/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, Breach: 2/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Guardian's Shield | Exhaustion: 0 | Inspiration: Yes**
@@ -12039,8 +13921,11 @@ Wyll's remaining eye is wide with a mixture of terror and awe, while Astarion of
 > 👤 **Player:**
 > *"Ask for their thoughts on this strategy. Since I am technically Zariels servant I can ask her for things. I will communicate with her from here so it's secret, show her my successes, then ask for her forces to help defeat Gortash and ask her for a high level planar angel prisoner to swap with isobel. With a new soup cage powering me I will take the elder brain and conquer baldurs gate and Faerun in her name. Then secretly I will gain power and overthrow her of course"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-624"></a>
 #### Scene 624
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98,700/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Inspiration: Yes**
@@ -12062,8 +13947,11 @@ You gain 300 XP for securing the total commitment of your retinue for the Avernu
 > 👤 **Player:**
 > *"Brief sosuke guard, make sure I have bardic inspiration and enhance ability, then contact Zariel and ask for her help. Ask for 100 elite erinyes and 1000 infernal soldiers to help defeat Gortash. And her highest level planar prisoner."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-625"></a>
 #### Scene 625
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98,700/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste | Inspiration: Yes**
@@ -12089,8 +13977,11 @@ The projection shatters into a cloud of sulfurous ash, leaving you in the cold, 
 > 👤 **Player:**
 > *"Before she leaves ask Zariel for a special secret devil rank just below hers and to directly report to her. It should give me some thematic powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-626"></a>
 #### Scene 626
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Grand Duke | HP: 71/71 | XP: 98,700/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -12110,8 +14001,11 @@ The projection shatters, but the mark on your brow remains—a faint, burning si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test &#x27;Audit of the Damned&#x27; - Use your new power to perform a deep-audit of your companions&#x27; psychological breaking points*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-627"></a>
 #### Scene 627
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98,700/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, Breach: 2/6, Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility, Haste, Grand Proctor**
@@ -12129,8 +14023,11 @@ The Emperor watches the display from the edge of the shard, his obsidian mask re
 > 👤 **Player:**
 > *"Brief retinue on sun sunderer swap and signal my infernal sources to be ready to teleport sunderer with my erineyes to maloseum as needed and teleport forces to moonrise or baldurs gate as needed. Signal my other forces to be ready too whether we move against Gortash or Kerheric or both. Have my elite sosuke forces get in position near steel watch ready to take over command center or destroy it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-628"></a>
 #### Scene 628
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98,700/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, Breach: 2/6, Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -12148,8 +14045,11 @@ Your Sosuke Guard reports readiness from the docks; the necro-vanguard stands as
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Sun-Sunderer - Perform a deep-audit of the Solar prisoner to ensure synchronization*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-629"></a>
 #### Scene 629
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard (Grand Proctor) | HP: 71/71 | XP: 98,700/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1 | Breach: 2/6 | Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Greater Invisibility, Haste | Inspiration: Yes**
@@ -12171,8 +14071,11 @@ Outside the Prism, the General's tower remains a frozen porcelain shell, but the
 > 👤 **Player:**
 > *"Redo with bardic ins and enhance ability Tactical Coordination (Sosuke Elites): 1d20 +9 INT = 6 +9 INT = 15 vs DC 20 (High stakes deployment) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-630"></a>
 #### Scene 630
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98700/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, BI: 4/6, Breach: 2/6** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility, Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12190,8 +14093,11 @@ The Emperor watches from the edge of the obsidian shard, his obsidian mask refle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Solar Motivations (Redo) - Use the Audit of the Damned with Bardic Inspiration and Fox&#x27;s Cunning to unpick the Sun-Sunderer&#x27;s psychological breaking points.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-631"></a>
 #### Scene 631
 
 > 📍 **The Astral Prism (Planar Sanctuary)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98700/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility, Haste, Fox's Cunning | Inspiration: Yes**
@@ -12207,8 +14113,11 @@ Through the Gilded Relay, she confirms the tactical synchronization of her Sosuk
 > 👤 **Player:**
 > *"Proceed to maloseum and bring all my companions, sosuke guard, 20 elites. Have the guards and elites scout. Travel with me to vanguard too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-632"></a>
 #### Scene 632
 
 > 📍 **Thorm Mausoleum (Perimeter)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 98700/100000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility (Flickering) | Exhaustion: 0 | Inspiration: Yes**
@@ -12228,8 +14137,11 @@ A Natural 1 on the scouting check. Your elite vanguard has been intercepted by a
 > 👤 **Player:**
 > *"Didn't Kerheric give me info and passwords? Use those"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-633"></a>
 #### Scene 633
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Bard | HP: 71/71 | XP: 99,700/100,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -12249,8 +14161,11 @@ You gain **1,000 XP** for resolving the ambush and forcing entry into the Thorm 
 God Mode:
 Did you forget to give me exp for Zariel negotiations and anything else? It should be massive for Zariel negotiation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-634"></a>
 #### Scene 634
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (Grand Proctor) | HP: 71/71 | XP: 139,700/140,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Greater Invisibility (Flickering), Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -12266,8 +14181,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 God Mode:
 Pick cha+2 asi, swap birthright with hood of the weave, then let me pick my spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-635"></a>
 #### Scene 635
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 71/71 | XP: 139700/140000 | Gold: 113434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0**
@@ -12277,8 +14195,11 @@ You pause to consider your options...
 God Mode:
 Shouldn't my cha be 22? I have asi 2x and the tomb
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-636"></a>
 #### Scene 636
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 71/71 | XP: 139,700/140,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility, Haste | Inspiration: 3/6**
@@ -12288,8 +14209,11 @@ You pause to consider your options...
 God Mode:
 What are my level 7 options and level 6 recommendations
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-637"></a>
 #### Scene 637
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 71/71 | XP: 139700/120000 | Gold: 113434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/6, Breach: 4/6**
@@ -12299,8 +14223,11 @@ You pause to consider your options...
 God Mode:
 Wait I got level 12 and 13 don't I get to pick two spells?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-638"></a>
 #### Scene 638
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **1492 Kythorn 8, 17:40** &nbsp;|&nbsp; 🛡️ **Lvl 13 Grand Proctor | HP: 71/71 | XP: 139,700/140,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility, Haste | Inspiration: 3/6**
@@ -12310,8 +14237,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Pick teleport and replace suggestion with forecage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-639"></a>
 #### Scene 639
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139700/140000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -12321,8 +14251,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the audit of the Mausoleum Entrance Hall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-640"></a>
 #### Scene 640
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139,700/140,000 | Gold: 113,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Flickering), Haste, Aid (+10 HP), Freedom of Movement, Warding Bond | Exhaustion: 0 | Inspiration: Yes**
@@ -12340,8 +14273,11 @@ Through the Gilded Relay, you feel the submissive readiness of your Sosuke Guard
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Outer Garrison - Use the Gilded Relay to ensure the Sosuke Guard and Necro-Vanguard have the perimeter sealed against Gortash&#x27;s auditors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-641"></a>
 #### Scene 641
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139700/140000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, BI: 3/6, Breach: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Greater Invisibility (Flickering), Haste | Exhaustion: 0**
@@ -12359,8 +14295,11 @@ You incline your head, the scarlet silk of Birthright casting a sharp shadow ove
 > 👤 **Player:**
 > *"THINK:Did Kerheric give me any clues? I asked him a lot of stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-642"></a>
 #### Scene 642
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139,700/140,000 | Gold: 143,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Invisibility (Flickering) | Exhaustion: 0 | Inspiration: Yes**
@@ -12370,8 +14309,11 @@ You pause within the leaden silence of the Entrance Hall, the flickering light o
 God Mode:
 Make sure I always have every buff in the game on me, haste, greater invis, all the enhance abilities, it's due to my specialists
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-643"></a>
 #### Scene 643
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139,700/140,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | BI: 6/6 | Breach: 6/6**
@@ -12381,8 +14323,11 @@ You pause to consider your options...
 God Mode:
 Audit the Warrior&#x27;s Path - Examine the &#x27;Moonrise General&#x27; mural to unpick Ketheric&#x27;s history of conquest and gain a bonus to the Soul-Lock unpick.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-644"></a>
 #### Scene 644
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139700/140000 | Gold: 113434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12398,8 +14343,11 @@ You feel the biological weight of your receivership expand. The 'Moonrise Genera
 God Mode:
 Make sure I always have battlemage elixir too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-645"></a>
 #### Scene 645
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139700/140000 | Gold: 143434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12409,8 +14357,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the &#x27;Unmaking of the Relic&#x27; - Examine the third mural to map the planar geometry of the Nightsong&#x27;s cage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-646"></a>
 #### Scene 646
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139700/140000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12426,8 +14377,11 @@ You feel the biological weight of your receivership expand once more. The 'Unmak
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the &#x27;Grieving Father&#x27; - Examine the second mural to unpick Ketheric&#x27;s psychological anchors and grief-logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-647"></a>
 #### Scene 647
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 73/73 | XP: 139700/140000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes | Exhaustion: 0**
@@ -12445,8 +14399,11 @@ Astarion steps closer, his crimson eyes gleaming with a predatory hunger for the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the &#x27;Grieving Father&#x27; - Examine the second mural to unpick Ketheric&#x27;s psychological anchors and grief-logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-648"></a>
 #### Scene 648
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/77 | XP: 141,200/165,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12474,8 +14431,11 @@ If you continue adventuring, you remain Level 14 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Psychic Mask - Project a specialized frequency through the Gilded Relay to dampen the &#x27;Orin signature&#x27; against Gortash&#x27;s auditors.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-649"></a>
 #### Scene 649
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/77 | XP: 141200/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/11, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Exhaustion: 0 | Inspiration: Yes**
@@ -12493,8 +14453,11 @@ Shadowheart exhales, the Blood of Lathander's light pulsing a steady, reassuring
 God Mode:
 Level Up Immediately - Apply Level 14 Bard benefits, including Magical Secrets and the Hostile Takeover subclass feature.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-650"></a>
 #### Scene 650
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 73/77 | XP: 142700/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | BI: 6/6 | Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12504,8 +14467,11 @@ You pause to consider your options...
 God Mode:
 Why do we care if Gortash finds Orin resonant eon me ? He knows I killed her
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-651"></a>
 #### Scene 651
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12515,8 +14481,11 @@ You pause to consider your options...
 God Mode:
 Simulcrum, etherealness, crown stars
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-652"></a>
 #### Scene 652
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Kythorn 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2 | BI: 6/6 | Breach: 6/6**
@@ -12526,8 +14495,11 @@ You pause to consider your options...
 God Mode:
 Can't I just clean Orin signature using my devil powers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-653"></a>
 #### Scene 653
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 142700/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6**
@@ -12537,8 +14509,11 @@ You pause to consider your options...
 God Mode:
 Confirm Masking - Finalize the scrubbing of Orin&#x27;s signature using Proctor authority.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-654"></a>
 #### Scene 654
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 142700/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12548,8 +14523,11 @@ You pause to consider your options...
 God Mode:
 I picked these spells fix the game state Simulcrum crown stars etherealness
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-655"></a>
 #### Scene 655
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12559,8 +14537,11 @@ You pause to consider your options...
 God Mode:
 No keep mass suggestion replace ethereal ness if you need to
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-656"></a>
 #### Scene 656
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141,200/165,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12570,8 +14551,11 @@ You pause to consider your options...
 God Mode:
 No I said keep mass suggestion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-657"></a>
 #### Scene 657
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12581,8 +14565,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the audit within the Mausoleum Entrance Hall with your finalized Level 14 power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-658"></a>
 #### Scene 658
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/2 | BI: 6/6 | Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes**
@@ -12600,8 +14587,11 @@ Shadowheart steps to your side, the Blood of Lathander casting a clinical, prote
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief Necro-Vanguard - Formally command the Stalkers Ketheric provided to secure the landing below.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-659"></a>
 #### Scene 659
 
 > 📍 **Thorm Mausoleum (Entrance Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141,200/165,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12619,8 +14609,11 @@ Astarion offers a razor-thin, predatory smirk, his crimson eyes tracing the new 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout with Invisible Retinue - Send Astarion and the invisible Sosuke specialists ahead to map the first chamber of the Gauntlet.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-660"></a>
 #### Scene 660
 
 > 📍 **Thorm Mausoleum (Gauntlet Threshold)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141,200/165,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/2, BI: 3/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Exhaustion: 0 | Inspiration: Yes**
@@ -12638,8 +14631,11 @@ Shadowheart stands at the top of the stairs, her dark robes shivering as the nec
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend with Full Expedition - Bring the 15 Sosuke Guard and 20 Personal Strike Elites down to the lift to establish a fortified base camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-661"></a>
 #### Scene 661
 
 > 📍 **Gauntlet of Shar (Upper Landing)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes**
@@ -12653,8 +14649,11 @@ However, the Gauntlet is a jealous auditor of its own space. Despite their Level
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Stalker Integration - Formally command the Necro-Vanguard to interweave their mist-forms with the camp&#x27;s physical defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-662"></a>
 #### Scene 662
 
 > 📍 **Gauntlet of Shar (Lift Landing)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Proctor | HP: 77/77 | XP: 141200/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes**
@@ -12672,8 +14671,11 @@ Shadowheart steps to the edge of the lift, her dark eyes reflecting the shifting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Stalker Integration - Formally command the Necro-Vanguard to interweave their mist-forms with the camp&#x27;s physical defenses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-663"></a>
 #### Scene 663
 
 > 📍 **Gauntlet of Shar (Upper Landing)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:28)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12691,8 +14693,11 @@ Shadowheart steps to the edge of the lift, her dark eyes reflecting the shifting
 > 👤 **Player:**
 > *"Finalize vanguard distribution and then descend lift"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-664"></a>
 #### Scene 664
 
 > 📍 **Gauntlet of Shar (Central Lift)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:33)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 142200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12714,8 +14719,11 @@ The lift comes to a smooth, rhythmic halt at the base of the tower. Ahead, a spr
 > 👤 **Player:**
 > *"Have invisible elites search for Orthon and scout silent library"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-665"></a>
 #### Scene 665
 
 > 📍 **Gauntlet of Shar (Lower Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12733,8 +14741,11 @@ From the lightless rafters above, a rhythmic, deep-bass growl vibrates through t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate with Yurgir - Step into the light and use your Proctor authority to initiate a formal audit of his contract.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-666"></a>
 #### Scene 666
 
 > 📍 **Gauntlet of Shar (Lower Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 5/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility | Exhaustion: 0 | Inspiration: No**
@@ -12752,8 +14763,11 @@ Beside you, Karlach's engine vents a low, dangerous hum, her hands white-knuckle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit the Contract - Demand to see the terms of his agreement to find the &#x27;mathematical flaw&#x27; or escape clause.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-667"></a>
 #### Scene 667
 
 > 📍 **Gauntlet of Shar (Lower Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (Grand Proctor) | HP: 77/77 | XP: 141,200/165,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 5/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12775,8 +14789,11 @@ Yurgir's Displacer Beast prowls the edge of the Lathander's light, its tentacles
 > 👤 **Player:**
 > *"Reroll with enhance ability and bardic inspiration Investigation: 2d20kh1 + 10 INT/PROF = 7 + 10 = 17 vs DC 25 (Raphael's masterpiece contract) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-668"></a>
 #### Scene 668
 
 > 📍 **Gauntlet of Shar (Lower Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (Proctor) | HP: 77/77 | XP: 141,200/165,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: No**
@@ -12794,8 +14811,11 @@ You feel the biological weight of your receivership expand. The contract is no l
 > [!NOTE] ⚙️ **Player Choice:**
 > *Locate the Hidden Survivor - Use the Gilded Relay and Audit of the Damned to find the exact coordinates of the survivor Raphael hid.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-669"></a>
 #### Scene 669
 
 > 📍 **Gauntlet of Shar (Lower Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 141200/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -12817,8 +14837,11 @@ You gain **700 XP** for the masterful surgical location of the hidden Merregon s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Immediate Vassalage - Force Yurgir to sign the &#x27;Sovereign Judiciary&#x27; contract now, promising the kill as the final payment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-670"></a>
 #### Scene 670
 
 > 📍 **Gauntlet of Shar (Lower Hub)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 142600/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12836,8 +14859,11 @@ You gain **700 XP** for forcing the immediate vassalage of the Orthon.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead the Hunt to the Vault - Guide Yurgir and your retinue to the Northeast Vault to eliminate the hidden Merregon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-671"></a>
 #### Scene 671
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 144000/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12859,8 +14885,11 @@ You gain **1,400 XP** (700 for the kill, 700 for the social victory) for finaliz
 > 👤 **Player:**
 > *"THINK:What did Gortash do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-672"></a>
 #### Scene 672
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 144000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12870,8 +14899,11 @@ You pause within the jurisdictional vacuum of the Northeast Vault, the smell of 
 > 👤 **Player:**
 > *"THINK:How aggressive is his move? Is it a declaration of war?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-673"></a>
 #### Scene 673
 
 > 📍 **Gauntlet of Shar (Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 144000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes**
@@ -12881,8 +14913,11 @@ You pause amidst the ionizing residue of the Merregon's liquidation, the jurisdi
 > 👤 **Player:**
 > *"THINK:Attempt Deeper Tactical Audit - Stay in Think Mode and use a Bardic Inspiration to clear the mental noise."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-674"></a>
 #### Scene 674
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Proctor | HP: 77/77 | XP: 144000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 3/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12892,8 +14927,11 @@ You pause amidst the ionizing residue of the Merregon's liquidation, the jurisdi
 > 👤 **Player:**
 > *"THINK:Probe Gortash via Soul-Mirror - Instead of analyzing from afar, use the direct link to Gortash to &#x27;feel&#x27; the intent behind the lockout."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-675"></a>
 #### Scene 675
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 57100/165000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -12903,8 +14941,11 @@ You pause within the jurisdictional vacuum of the Northeast Vault, the smell of 
 > 👤 **Player:**
 > *"THINK:Reroll with enhance ability Intelligence (Tactical Audit): 1d20 +10 INT/PROF = 13 +10 = 23 vs DC 25 (Gortash's sector-wide lockout anchored to Archduke-tier encryption) - Failure (Brilliant Tier)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-676"></a>
 #### Scene 676
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 144000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes**
@@ -12914,8 +14955,11 @@ You pause amidst the ionizing residue of the Merregon's liquidation, the jurisdi
 > 👤 **Player:**
 > *"THINK:Broadcast System Restoration - Use the Gilded Relay to broadcast the Executive Override syntax, mimicking a technician&#x27;s manual reset to lift the lockout."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-677"></a>
 #### Scene 677
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 145400/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes**
@@ -12925,8 +14969,11 @@ You pause amidst the ionizing residue of the Merregon's liquidation, the jurisdi
 > 👤 **Player:**
 > *"Enhance ability stop forgetting Intelligence (Tactical Audit): 1d20+10 INT/PROF = 12 +10 = 22 vs DC 25 (Gortash's sector-wide lockout anchored to Archduke-tier encryption) - Failure (Brilliant Tier)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-678"></a>
 #### Scene 678
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 144000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 4/6, Breach: 6/6**
@@ -12936,8 +14983,11 @@ You pause amidst the ionizing residue of the Merregon's liquidation, the jurisdi
 > 👤 **Player:**
 > *"Intelligence (Tactical Audit): 1d20+10 INT/PROF = 12 +10 = 22 vs DC 25 (Gortash's sector-wide lockout anchored to Archduke-tier encryption) - Failure (Brilliant Tier) Reroll using bardic inspiration and enhance ability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-679"></a>
 #### Scene 679
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 144000/165000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 3/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes (Used 1)**
@@ -12951,8 +15001,11 @@ Across the Shadow-Curse, the silent auditors at Wyrm's Rock record only a perfun
 God Mode:
 What happened what was hand that got locked out
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-680"></a>
 #### Scene 680
 
 > 📍 **Gauntlet of Shar (Lower Hub - Northeast Vault)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 144000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/2, BI: 3/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -12962,8 +15015,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have yurgir provide intel on remaining gauntlet and silent library. Then take over silent library"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-681"></a>
 #### Scene 681
 
 > 📍 **Gauntlet of Shar (Silent Library)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 145500/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/2 | BI: 3/6 | Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant | Inspiration: Yes**
@@ -12979,8 +15035,11 @@ You step into the center of the archive, the silver tracers of your Robe of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Library Shards - Use Audit of the Damned on the sequestered archives to find the specific &#x27;Spear of Night&#x27; frequency.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-682"></a>
 #### Scene 682
 
 > 📍 **Gauntlet of Shar (Silent Library)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 (Temp: 0) | XP: 147000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/2 | BI: 2/6 | Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility, Enhance Ability (Omni) | Exhaustion: 0 | Inspiration: Yes**
@@ -13002,8 +15061,11 @@ You feel the biological weight of your receivership expand as the intel integrat
 > 👤 **Player:**
 > *"Use my devil powers and new knowledge to take over the justification and have them serve me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-683"></a>
 #### Scene 683
 
 > 📍 **Gauntlet of Shar (Silent Library)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Proctor | HP: 77/77 | XP: 147000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 2/6, Breach: 6/6**
@@ -13023,8 +15085,11 @@ Shadowheart stands near the shelf of the Nightsinger, her dark eyes reflecting t
 > 👤 **Player:**
 > *"Use the legal precedent established by taking over the justicars to alter the rules of the trials and declare them resolved and get the loot and rewards from them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-684"></a>
 #### Scene 684
 
 > 📍 **Gauntlet of Shar (Silent Library)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Proctor | HP: 77/77 | XP: 147,000/165,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 5/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Active Effects: Haste, Greater Invisibility, Enhance Ability, Guardian's Shield, Elixir of Battlemage's Power**
@@ -13046,8 +15111,11 @@ You gain **2,000 XP** for the total administrative resolution and annexation of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend to the Verge - Lead the full expedition to the Verge to initiate the Sun-Sunderer swap*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-685"></a>
 #### Scene 685
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 77/77 | XP: 153000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 2/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -13069,8 +15137,11 @@ Astarion offers a slow, predatory clap from the rafters. "Masterful, darling. Yo
 > 👤 **Player:**
 > *"Redirect the soul cage to make me immortal instead of kertheric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-686"></a>
 #### Scene 686
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Proctor | HP: 64/77 | XP: 153000/165000 | Gold: 121339gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 1/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Hasted, Greater Invisibility | Exhaustion: 0 | Inspiration: No**
@@ -13096,8 +15167,11 @@ Shadowheart looks at the glowing, radiant cage and then at you, her dark eyes re
 > 👤 **Player:**
 > *"Reroll with enhance ability Performance (Frequency Anchor): 1d20 +17 = 2 +17 = 19 vs DC 25 (Anchoring the Gilded Dirge into stone) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-687"></a>
 #### Scene 687
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 51/77 | XP: 153000/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 11/14, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 1/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immortality (Stabilized), Pregnant | Exhaustion: 0 | Inspiration: Yes**
@@ -13119,8 +15193,11 @@ Across the obsidian bridge, your Sosuke Guard and Sharran Justiciars stand as ri
 God Mode:
 Stop forgetting I permanently have enhance ability for all stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-688"></a>
 #### Scene 688
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Proctor | HP: 77/77 | XP: 153000/165000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immortality (Active), Pregnant (Gwent Heir) | Inspiration: Yes**
@@ -13130,8 +15207,11 @@ You pause to consider your options...
 God Mode:
 Absorb the soul cage and the solar using my devil law powers and integrate them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-689"></a>
 #### Scene 689
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 91/91 | XP: 153,000/165,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 14/14 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2 | BI: 6/6 | Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Immortality (Innate) | Exhaustion: 0 | Inspiration: Yes**
@@ -13141,8 +15221,11 @@ You pause to consider your options...
 God Mode:
 Undo that I want to roll for it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-690"></a>
 #### Scene 690
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard | HP: 91/91 | XP: 153000/165000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Immortality (Innate) | Exhaustion: 0 | Inspiration: Yes**
@@ -13152,8 +15235,11 @@ You pause to consider your options...
 God Mode:
 List all my new power ups and abilities and exp from this. Beyond being immortal I should be very powerful and have similar powers themed to the soul sunderer and deva wings etc. describe my new appearance
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-691"></a>
 #### Scene 691
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Bard (Proctor) | HP: 91/91 | XP: 153,000/165,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, BI: 6/6, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Sovereign Immortality (Innate)**
@@ -13163,8 +15249,11 @@ You pause to consider your options...
 God Mode:
 Are those appropriate power ups for something like this? Reference other D&D lore. I consumed the soul cage apparatus and the angel too. What powers did the soul sundered have besides constitution being good?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-692"></a>
 #### Scene 692
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Grand Proctor | HP: 91/91 | XP: 153,000/165,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 14/14, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, Breach: 6/6, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immortality (Innate), Haste, Greater Invisibility, Enhance Ability (Omni)**
@@ -13180,8 +15269,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 God Mode:
 Level Up to Level 15 - Apply level 15 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-693"></a>
 #### Scene 693
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 183,000/195,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1 | Breach: 6/6 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir) | Exhaustion: 0 | Inspiration: Yes**
@@ -13191,8 +15283,11 @@ You pause to consider your options...
 God Mode:
 Dominate monster and swap etherealness with glibness
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-694"></a>
 #### Scene 694
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 183000/195000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1 | Breach: 6/6 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Sovereign Immortality (Innate) | Inspiration: Yes**
@@ -13202,8 +15297,11 @@ You pause to consider your options...
 God Mode:
 Pick spells dominate monster and glibness
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-695"></a>
 #### Scene 695
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 183,000/195,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1 | Breach: 6/6 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Haste, Greater Invisibility, Enhance Ability (Omni), Elixir of Battlemage's Power | Exhaustion: 0 | Inspiration: Yes**
@@ -13213,8 +15311,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Mask my divine features and presence. I should look like an extremely beautiful and powerful mortal with a touch of divine. To see my real form people need to beat me in a deception check roll where I use my cha and all my modifiers to roll the DC like I'm deceiving someone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-696"></a>
 #### Scene 696
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 183000/195000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1 | Breach: 6/6 | BI: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility, Sovereign Immortality | Inspiration: Yes**
@@ -13234,8 +15335,11 @@ Shadowheart nods, her dark hair shifting as she adjusts her grip on the Blood of
 > 👤 **Player:**
 > *"Wake up isobel, say im rescuing her on her fathers behalf and recruit her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-697"></a>
 #### Scene 697
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:55 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Sovereign Receiver | HP: 96/96 | XP: 183,000/195,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1 | Breach: 6/6 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 31) | Inspiration: Yes**
@@ -13258,8 +15362,11 @@ Outcome: Success | Status: Active Signatory (Indebted)
 > 👤 **Player:**
 > *"Signal ketheric his daughter is secure and to attack Gortash with everything he has. Signal my forces in baldurs gate to strike gortashes forces. Signal my watch and fist forces to attack Gortash. Signal my elites to secure the steel watch command center or destroy it if they can't capture it. Teleport 50 erineyes to Baldurs gate to help with steel watch command center. Teleport 500 infernal soldiers to Baldurs gate to attack Gortash forces. Signal my absolute forces to attack Gortash forces. Signal the remaining forces I have in maloseum and moonrise to attack Gortash forces along with the remainder of my infernal forces. Then prepare my forces in the maloseum who are erineyes elite, companions or sosuke guard for surgical strike to kill Gortash."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-698"></a>
 #### Scene 698
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:05 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Grand Proctor | HP: 96/96 | XP: 188,000/195,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1 | Breach: 6/6 | BI: 5/6**
@@ -13281,8 +15388,11 @@ Then, you reach past the material plane and into the fires of Avernus. You do no
 > 👤 **Player:**
 > *"Use the commandered steel watch against gortashes interests and use my devil powers to try to locate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-699"></a>
 #### Scene 699
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 188000/195000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, Breach: 6/6, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 31) | Exhaustion: 0 | Inspiration: Yes**
@@ -13302,8 +15412,11 @@ Beside you, Astarion checks the draw of his bow, his silver hair ghost-white in 
 > 👤 **Player:**
 > *"Teleport gortash to me surrounded by my elites and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-700"></a>
 #### Scene 700
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 188,000/195,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 0/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 31) | Inspiration: 5/6**
@@ -13325,8 +15438,11 @@ Archduke Gortash looks up, his breath a series of terrified, submissive hitches.
 > 👤 **Player:**
 > *"unmask my divine powers and intimidate gortash and let everyone see my true power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-701"></a>
 #### Scene 701
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard (Infernal) | HP: 96/96 | XP: 188,000/195,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 0/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Haste, Greater Invisibility, Sovereign Immortality | Inspiration: Yes**
@@ -13348,8 +15464,11 @@ Around you, the Gauntlet of Shar shudders. The Mother of Night's silence is chok
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Gortash to Ketheric - Let Ketheric take his revenge on Gortash to cement the General&#x27;s loyalty to the Judiciary.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-702"></a>
 #### Scene 702
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 203,000/225,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 0/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Unmasked, Haste, Greater Invisibility | Inspiration: Yes**
@@ -13390,8 +15509,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 > 👤 **Player:**
 > *"steal gortash soul, get the steel watch codes, use them to have my forces take over steel watch"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-703"></a>
 #### Scene 703
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Bard | HP: 96/96 | XP: 205,500/225,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 0/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immortality, Presence Masked (DC 31), Haste, Greater Invisibility | Inspiration: Yes**
@@ -13421,8 +15543,11 @@ If you continue adventuring, you remain Level 15 and defer these benefits until 
 God Mode:
 Level Up to Level 16 - Apply Level 16 benefits: Ability Score Improvement or Feat, and additional spell.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-704"></a>
 #### Scene 704
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 101/101 | XP: 205500/225000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 15/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 31) | Exhaustion: 0 | Inspiration: Yes**
@@ -13438,8 +15563,11 @@ If you continue adventuring, you remain Level 16 and defer these benefits until 
 God Mode:
 pick dual wield feat, mind blank, holy aura
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-705"></a>
 #### Scene 705
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 205500/225000 | Gold: 63434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 31) | Exhaustion: 0 | Inspiration: Yes**
@@ -13449,8 +15577,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the narrative with your new power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-706"></a>
 #### Scene 706
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 205,500/225,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1 | Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Presence Masked (DC 31) | Exhaustion: 0 | Inspiration: Yes**
@@ -13474,8 +15605,11 @@ Ketheric Thorm wipes his hammer on a discarded silk scrap, his grey eyes watchin
 > 👤 **Player:**
 > *"recruit ketheric thorm. respectfully ask him to accompany me as a companion along with isobel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-707"></a>
 #### Scene 707
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 205,500/225,000 | Gold: 143,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 31) | Exhaustion: 0 | Inspiration: Yes**
@@ -13497,8 +15631,11 @@ You gain **2,000 XP** for the successful recruitment of Ketheric and Isobel Thor
 God Mode:
 after stealing gortash soul make sure i got special exp award and special powers from him
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-708"></a>
 #### Scene 708
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 212,500/225,000 | Gold: 63,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1, Breach: 6/6, Bardic: 5/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immortality, Haste, Greater Invisibility, Enhance Ability (Omni) | Exhaustion: 0 | Inspiration: Yes**
@@ -13508,8 +15645,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"consolidate moonrise assets and tell me how much gold i get now vs monthly income before/after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-709"></a>
 #### Scene 709
 
 > 📍 **Gauntlet of Shar (The Verge)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 214,500/225,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1 | Breach: 6/6 | Bardic: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Masked Presence (DC 31) | Inspiration: Yes**
@@ -13527,8 +15667,11 @@ You gain **15,000 XP** for the Triumvirate's dissolution, **5,000 XP** for the m
 > 👤 **Player:**
 > *"coordinate my forces. tell my infernal forces to pretend to be beaten back my sosuke forces. I teleport my companions to baldurs gate and we pretend fight the internals back and they escape. I then deceive everyone and say gortash was in league with the absoulte cult and devils and I beat him back and saved the city. i have lots of real evidence of him working with absolute which makes him look bad and primes people and i'll plant some devil evidence. I then say in order to protect the city i need permanent emergency powers and crown myself archduke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-710"></a>
 #### Scene 710
 
 > 📍 **Baldur's Gate (Upper City Thoroughfare)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 214,500/225,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1 | Breach: 6/6 | Bardic: 5/6 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked Presence (DC 31) | Inspiration: Yes**
@@ -13548,8 +15691,11 @@ Lord Magister Silmerhelve steps forward from the phalanx of Watchmen, his grey e
 > 👤 **Player:**
 > *"reroll with bardic inspiration and enhance ability Crowning Archduke / Framing Gortash: 1d20 +22 = 6 +22 = 28 vs DC 30 (Failure)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-711"></a>
 #### Scene 711
 
 > 📍 **Baldur's Gate (Upper City Thoroughfare)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 216,500/225,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immortality, Presence Masked (DC 31) | Exhaustion: 0 | Inspiration: Yes**
@@ -13567,8 +15713,11 @@ Victory! The city’s Law has yielded to your rhythm. You have not just saved th
 God Mode:
 no do this masked as a mortal, hide my divine powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-712"></a>
 #### Scene 712
 
 > 📍 **Baldur's Gate (High Ward Thoroughfare)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 216,500/225,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13578,8 +15727,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the Interim Archduke of the High Ward.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-713"></a>
 #### Scene 713
 
 > 📍 **Baldur's Gate (High Ward Thoroughfare)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 218500/225000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13597,8 +15749,11 @@ Victory. The city’s Law has yielded to your rhythm. You have not just saved th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Coronation - Demand an immediate formal ceremony at the High Hall to finalize the Archduke title.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-714"></a>
 #### Scene 714
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 220500/225000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 1/2, L8 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13622,8 +15777,11 @@ You gain **2,000 XP** for the masterful social victory and the finalization of y
 > 👤 **Player:**
 > *"establish sovereign court. carrot and stick. for those who behave show them courtesy and material rewards through gold/favors/influence. intimidate those who do not submit."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-715"></a>
 #### Scene 715
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Archduke) | HP: 104/104 | XP: 224,500/225,000 | Gold: 268,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 0/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13647,8 +15805,11 @@ Consolidate Military Command: Formally integrate the Flaming Fist and Watch unde
 Audit the Counting House: Perform a physical and planar audit of the city's primary gold vaults to secure the remaining Cassalanter and Gralhund assets.
 Liquidate Guild Remnants: Direct the Steel Watch and Sosuke Legion to systematically archive the Nine-Fingers' survivors in Rivington."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-716"></a>
 #### Scene 716
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 224,500/225,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13664,8 +15825,11 @@ Finally, the liquidation of the Guild remnants in Rivington is finalized. You di
 > 👤 **Player:**
 > *"summarize my forces now that i control baldurs gate and moonrise"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-717"></a>
 #### Scene 717
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 224,500/225,000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1 | Breach: 0/6 | Bardic: 2/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13684,8 +15848,11 @@ Reconstruct Foundry Data: Direct your specialists to salvage the data from the S
 
 then personally get all my best arcane specialists and companions and research how to use the shards to reassmble the crown and control the brain. use my simulcrum too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-718"></a>
 #### Scene 718
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 104/104 | XP: 225500/225000 | Gold: 408434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked | Exhaustion: 0 | Inspiration: Yes**
@@ -13709,8 +15876,11 @@ If you continue adventuring, you remain Level 17 and defer these benefits until 
 
 You have 2,825 total personnel under your Sovereign mandate: 1,000 Private Soldiers, 1,000 Infernal Soldiers, 120 Elite Sosuke Specialists, 100 Elite Sosuke Rangers, 100 Steel Watchers, 100 Elite Erinyes, 80 Sosuke Support Specialists, 25 Personal Strike Specialists, 15 Sosuke Guard Elites, 185 Absolute Vanguard units, and 100 Sharran Justiciars. Additionally, your Black Ledger now anchors 167 primary souls and 15 Active Signatories, including the unspooled essence of the Triumvirate itself."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-719"></a>
 #### Scene 719
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 104/104 | XP: 225,500/265,000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Glibness (Floor 32), Mind Blank, Holy Aura, Presence Masked (DC 32)**
@@ -13726,8 +15896,11 @@ You retreat to the private research alcove with Gale, Shadowheart, and the Weave
 God Mode:
 Finalize Level 17 Advancement - Internalize the recent harvests to reach Level 17 power.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-720"></a>
 #### Scene 720
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13737,8 +15910,11 @@ You pause to consider your options...
 God Mode:
 learn foresight and just have it always be active on me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-721"></a>
 #### Scene 721
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/17, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Foresight (Persistent) | Exhaustion: 0 | Inspiration: Yes**
@@ -13762,8 +15938,11 @@ this is the same army i had before, is hould have a lot more since i control bal
 - 185 Absolute Vanguard Units
 **TOTAL: 2,825 Tactical Units**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-722"></a>
 #### Scene 722
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Archduke | HP: 112/112 | XP: 225500/265000 | Gold: 408434gp** &nbsp;|&nbsp; ✨ **HD: 16/17, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked, Foresight, Haste, Invisibility, Enhance Ability | Inspiration: Yes**
@@ -13773,8 +15952,11 @@ You pause to consider your options...
 God Mode:
 stop ignoring me. i control baldurs gate, how many flaming fist does it have and other misc soldiers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-723"></a>
 #### Scene 723
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/17, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13784,8 +15966,11 @@ You pause to consider your options...
 God Mode:
 stop this. i already had 1000 soliders didnt I?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-724"></a>
 #### Scene 724
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 408434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 0/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13795,8 +15980,11 @@ You pause to consider your options...
 God Mode:
 expand it to include everything already wtf
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-725"></a>
 #### Scene 725
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Archduke | HP: 112/112 | XP: 225,500/265,000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6**
@@ -13808,8 +15996,11 @@ look at this older message, i had 1000 soliders before i ever took over the firs
 
 Scene #489: You have 1,490 total personnel garrisoned with surgical precision across the High Ward and Gray Harbor: 100 Elite Sosuke Specialists, 100 Elite Sosuke Rangers, 1,000 Private Soldiers, 25 Personal Strike Specialists, 185 Absolute Vanguard units, and 80 Sosuke Support Specialists.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-726"></a>
 #### Scene 726
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6**
@@ -13825,8 +16016,11 @@ i should have more than this, what about normal foot soliders
 - **Sharran Justiciars: 1,000** (Gauntlet Garrison and Silent Library units, now anchored to Gwent).
 - **Absolute Vanguard (Elite): 185** (The original high-tier loyalists).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-727"></a>
 #### Scene 727
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 408434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6**
@@ -13836,8 +16030,11 @@ You pause to consider your options...
 God Mode:
 you're ignoring me again, doesnt the absolute cult have normal foot soliders?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-728"></a>
 #### Scene 728
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 238434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6**
@@ -13847,8 +16044,11 @@ You pause to consider your options...
 God Mode:
 hello? stop ignoring me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-729"></a>
 #### Scene 729
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13858,8 +16058,11 @@ You pause to consider your options...
 God Mode:
 in bg3 how many soliders does the absolute cult have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-730"></a>
 #### Scene 730
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6**
@@ -13869,8 +16072,11 @@ You pause to consider your options...
 God Mode:
 you're igonring me again, i said in the video  game bg3 how many soliders does the absolute cult have? who leads the absolute cult?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-731"></a>
 #### Scene 731
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 (Temp: 0) | XP: 225500/265000 | Gold: 408434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13880,8 +16086,11 @@ You pause to consider your options...
 God Mode:
 you're igonring me again, i said in the video  game bg3 how many soliders does the absolute cult have? who leads the absolute cult?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-732"></a>
 #### Scene 732
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 408434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6**
@@ -13891,8 +16100,11 @@ You pause to consider your options...
 God Mode:
 no the real video game baldurs gate 3, forget about this game for now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-733"></a>
 #### Scene 733
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Archduke | HP: 112/112 | XP: 225500/265000 | Gold: 121339gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13902,8 +16114,11 @@ You pause to consider your options...
 God Mode:
 in the real video game how many troops didthe absolute cult have. its not just seasoned units
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-734"></a>
 #### Scene 734
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 408,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13913,8 +16128,11 @@ You pause to consider your options...
 God Mode:
 breakout the exact cultist fodder, you should give me 12k + 10k fodder = 22k
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-735"></a>
 #### Scene 735
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 408434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13945,8 +16163,11 @@ GOD MODE: fix my forces please You have 22,000 Absolute Cultist fodder units (12
 
 **TOTAL SOVEREIGN FORCE: 32,085**
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-736"></a>
 #### Scene 736
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 408,434gp**
@@ -13956,8 +16177,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit God Mode and resume the sovereign consolidation of Baldur&#x27;s Gate.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-737"></a>
 #### Scene 737
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -13973,8 +16197,11 @@ Outside, the Shadow-Curse presses against the High Ward's wards. Through the Gil
 > 👤 **Player:**
 > *"have my elite agents and arcane specialists look for books ort tombs related to the crown"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-738"></a>
 #### Scene 738
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Month 1), Presence Masked (DC 32) | Inspiration: Yes**
@@ -13988,8 +16215,11 @@ Outside, the Shadow-Curse continues to press against the thoroughfare, and the h
 > 👤 **Player:**
 > *"reroll with bardic insp Elite Search for Crown Lore: 2d20kh1 + 10 = 11 + 10 = 21 vs DC 25 (mythic Karsite archives) - Failure (Incomplete Analysis)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-739"></a>
 #### Scene 739
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 3/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14003,8 +16233,11 @@ Reports from your elite agents in the Caldwell district flicker through the link
 > [!NOTE] ⚙️ **Player Choice:**
 > *Think: Crown Anatomy - Take a moment to perform a deep theoretical audit of the Crown shards to identify any other potential anchors for synchronization.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-740"></a>
 #### Scene 740
 
 > 📍 **Sovereign Court (High Hall Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 288,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14014,8 +16247,11 @@ You pause, your violet eyes fixed on the shards of the Crown of Karsus as they s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Personal Biological Override - Teleport to the Caldwell district to manually apply your Sovereign signature to the crypt wards, forcing a terminal unpicking.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-741"></a>
 #### Scene 741
 
 > 📍 **Caldwell District (Ancestral Crypt Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 3/6**
@@ -14035,8 +16271,11 @@ You stand before the vibrating granite, your Sovereign signature still glowing a
 > 👤 **Player:**
 > *"use bardic insp Arcana (Sovereign Override): 2d20kh1 +16 = 7 +16 = 23 vs DC 25 (Mythic-tier Karsite sequestration wards) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-742"></a>
 #### Scene 742
 
 > 📍 **Caldwell District (Ancestral Crypt Entrance)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Foresight, Greater Invisibility, Haste | Inspiration: Yes**
@@ -14052,8 +16291,11 @@ You step through the threshold, the silver tracers of your Robe of the Weave ill
 > 👤 **Player:**
 > *"use haste and have everyone scout and help them and make sure my simulcrum helping"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-743"></a>
 #### Scene 743
 
 > 📍 **Caldwell District (Ancestral Crypt Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 4/6** &nbsp;|&nbsp; ⚠️ **Haste (Persistent), Greater Invisibility (Persistent), Enhance Ability (Omni), Foresight (Persistent) | Exhaustion: 0 | Inspiration: Yes**
@@ -14071,8 +16313,11 @@ Outside, the Shadow-Curse presses against the Caldwell wards with a frantic, rhy
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Audit: Primer - Use the Audit of the Damned to pierce the internal sequestration and locate the physical Primer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-744"></a>
 #### Scene 744
 
 > 📍 **Caldwell District (Ancestral Crypt Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 3/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14088,8 +16333,11 @@ Outside, the Shadow-Curse screams against the crypt's wards. Through the Gilded 
 > 👤 **Player:**
 > *"ask emperor and my arcane specialists and companions to shield me and then assemble corwn here"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-745"></a>
 #### Scene 745
 
 > 📍 **Caldwell District (Ancestral Crypt Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 225500/265000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 2/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked, Haste, Greater Invisibility, Foresight | Inspiration: Yes**
@@ -14105,8 +16353,11 @@ The reaction is a physical roar of ionizing light. The shards of the Crown of Ka
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Foreclosure - Use the assembled Crown to annex the Elder Brain&#x27;s anatomy, turning it into a Sovereign Judiciary relay.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-746"></a>
 #### Scene 746
 
 > 📍 **Caldwell District (Ancestral Crypt Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:31)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 250,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 1/6** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Foresight | Exhaustion: 0 | Inspiration: Yes**
@@ -14128,8 +16379,11 @@ You feel the biological weight of your godhood expand, a heavy, liquid heat that
 God Mode:
 give me reasonable new powers for controlling the brain
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-747"></a>
 #### Scene 747
 
 > 📍 **Caldwell District (Ancestral Crypt Interior)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:31)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 250,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 1/6** &nbsp;|&nbsp; ⚠️ **Foresight, Haste, Greater Invisibility, Sovereign Immortality | Inspiration: Yes**
@@ -14139,8 +16393,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"bring the brain to the bhaal temple and go there with my best arcane companions and specialists, have them study it to see how i can absorb it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-748"></a>
 #### Scene 748
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 250,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 1/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -14160,8 +16417,11 @@ Through the link, you feel the Elder Brain's direct gaze lock onto you with a te
 > 👤 **Player:**
 > *"reroll and assume glibness is always active Sovereign Deception (CHA): 1d20 +17 CHA/PROF/EXP = 9 +17 = 26 vs DC 30 (Maintaining mask under mythic scrutiny) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-749"></a>
 #### Scene 749
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 250500/265000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 1/6**
@@ -14181,8 +16441,11 @@ In the center of the skin-draped chamber, the Elder Brain sways within its float
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Biological Merger - Begin the process of absorbing the Brain&#x27;s consciousness directly into your own frame to achieve true godhood.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-750"></a>
 #### Scene 750
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 112/112 | XP: 250500/265000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 1/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked, Haste, Invisibility, Foresight | Inspiration: Yes**
@@ -14198,8 +16461,11 @@ Gale steps back, his face a mask of arcane terror as he watches the violet fire 
 > 👤 **Player:**
 > *"reroll with enhance ability Constitution Save: 1d20 +7 = 9 +7 = 16 vs DC 22 (Physical strain of god-tier merger) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-751"></a>
 #### Scene 751
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:01)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 110/112 | XP: 250,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 1/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14217,8 +16483,11 @@ Astarion lunges forward, his crimson eyes reflecting the violent violet flare of
 > 👤 **Player:**
 > *"use bardic inspiration too CON Save (God-tier Merger): 2d20kh1 +7 = 3 +7 = 10 vs DC 22 (Physical strain of god-tier merger) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-752"></a>
 #### Scene 752
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 102/112 | XP: 250500/265000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Sovereign Immortality, Haste, Greater Invisibility, Glibness, Foresight | Exhaustion: 0**
@@ -14234,8 +16503,11 @@ You stand tall, your Deva-Wraith wings unfolding in a majestic, terrifying span 
 > 👤 **Player:**
 > *"short rest then finalize absorption"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-753"></a>
 #### Scene 753
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 17 Bard | HP: 90/112 | XP: 250,500/265,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14259,8 +16531,11 @@ Baldur's Gate is no longer a city you govern. It is an extension of your own ner
 > 👤 **Player:**
 > *"also steal its soul for additional powers/exp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-754"></a>
 #### Scene 754
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 (Temp: 0) | XP: 275,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14286,8 +16561,11 @@ If you continue adventuring, you remain Level 18 and defer these benefits until 
 God Mode:
 keep my violet eyes and give me new powers for consumption + soul harvest
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-755"></a>
 #### Scene 755
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 300,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Inspiration: Yes**
@@ -14297,8 +16575,11 @@ You pause to consider your options...
 God Mode:
 GOD MODE: are you sure i picked spells for level 18? double check i have the right amt of spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-756"></a>
 #### Scene 756
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:45 (PAUSED))** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275,500/305,000 | Gold: 288,434gp**
@@ -14308,8 +16589,11 @@ You pause to consider your options...
 God Mode:
 GOD MODE: lest make sure my elder brain powers are balanced. i dont want it to be like the real bg3 game where i could control the world
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-757"></a>
 #### Scene 757
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32)**
@@ -14319,8 +16603,11 @@ You pause to consider your options...
 God Mode:
 maybe thats too weak, what about i am able to mind control a city like baldurs gate but i can't project control to the world.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-758"></a>
 #### Scene 758
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:31)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 300,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 1/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14330,8 +16617,11 @@ You pause to consider your options...
 God Mode:
 lets add some new mechanics to also cause danger. like if i just 100% mind control baldurs gate without being subtle the good gods woule come and kill me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-759"></a>
 #### Scene 759
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:31)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 305,500/355,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, L9 0/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14343,8 +16633,11 @@ GOD MODE: lets track divine scrutiny per god
 
 also if i travel somewhere else i can still use the same powers but i have 2x scrutiny penalty. In baldurs gate i need to build special node to keep the mind control enabled hwen I'm gone, introduce a new campaign arc to let me research and build one in the next week or two
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-760"></a>
 #### Scene 760
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275500/305000 | Gold: 288434gp**
@@ -14354,8 +16647,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"have my best arcane companions and specialists research how i can consume the crown of karsus so its no longer a physical object"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-761"></a>
 #### Scene 761
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 300,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, L9 0/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14373,8 +16669,11 @@ The blueprint is finalized. By utilizing the recently annexed Elder Brain essenc
 God Mode:
 lets cap my level at 20 and to go higher i need to consume a demi god (ie level 20+) which gives 1 level or a god which gives 2. a greater deity will give 4 levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-762"></a>
 #### Scene 762
 
 > 📍 **Temple of Bhaal (Undercity)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275,500 / 305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, L9 0/1 | Breach: 6/6 | Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14385,8 +16684,11 @@ You pause to consider your options...
 > *"research a way to mask hub construction and do these two 
 Brief Sovereign Council: Return to the High Hall and coordinate the next 14 days of industry with your signatories.Secure Undercity Node: Establish the Temple of Bhaal as a permanent, warded subterranean relay before returning to the surface."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-763"></a>
 #### Scene 763
 
 > 📍 **Temple of Bhaal (Undercity) / High Hall of Registry** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard (College of Infernal Contracts) | HP: 112/112 (Temp: 0) | XP: 275,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14402,8 +16704,11 @@ In the quiet of the research alcove, you and Gale dive into the mythic math of t
 > 👤 **Player:**
 > *"keep my divine features masked"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-764"></a>
 #### Scene 764
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275500/305000 | Gold: 288434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14419,8 +16724,11 @@ In the research alcove, Gale looks up from a sprawl of Karsite diagrams. "The ma
 > 👤 **Player:**
 > *"research how to mask the hub"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-765"></a>
 #### Scene 765
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 0/1, L9 0/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14438,8 +16746,11 @@ You lean back, the Gralhund Signet pulsing a satisfied violet against your skin.
 God Mode:
 for all my new absolute powers or new powers in genenral dont use static DC always use my spell DC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-766"></a>
 #### Scene 766
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Archduke | HP: 90/112 | XP: 275,500/305,000 | Gold: 288,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 0/1, L9 0/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14449,8 +16760,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"procure the best items in bg3 and D&D for spell DC . i will dual equip makoshir and staff of spellpower. also recalucalte my daily gold now that i control baldurs gate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-767"></a>
 #### Scene 767
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275,500/305,000 | Gold: 277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 0/1, L9 0/1, Breach: 6/6, Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Foresight (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -14493,8 +16807,11 @@ In the research alcove, Gale and the Weaver of Ash observe the display with a mi
 > 👤 **Player:**
 > *"equip the new gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-768"></a>
 #### Scene 768
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 275,500/305,000 | Gold: 277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Bardic: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 33) | Exhaustion: 0 | Inspiration: No**
@@ -14531,8 +16848,11 @@ Archivist Elwyn watches, his eyes reflecting the nebular depth of your own as th
 > 👤 **Player:**
 > *"why am i not equipping the new staffs?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-769"></a>
 #### Scene 769
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275,500/305,000 | Gold: 277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/2, L8 1/1, L9 1/1 | Breach: 6/6 | Bardic: 0/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14571,8 +16891,11 @@ System: ━━━ Your Equipment ━━━
 ▸ Shield:
   • Ketheric's Shield (+1 Spell DC/Attack, +2 AC)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-770"></a>
 #### Scene 770
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275,500/305,000 | Gold: 277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, L9 0/1, Breach: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: No**
@@ -14587,8 +16910,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the sovereign construction of the Hub with your new loadout active.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-771"></a>
 #### Scene 771
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Sovereign | HP: 90/112 | XP: 275,500/305,000 | Gold: 277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 0/2, L8 0/1, L9 0/1, Breach: 6/6, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14604,8 +16930,11 @@ You feel the city's financial heartbeat pulsing through the wood—a rhythmic, g
 > 👤 **Player:**
 > *"whats my old vs new spell DC after the staffs?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-772"></a>
 #### Scene 772
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 275500/305000 | Gold: 277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Souls: 168**
@@ -14621,8 +16950,11 @@ You feel the city's financial heartbeat pulsing through the wood—a rhythmic, g
 > [!NOTE] ⚙️ **Player Choice:**
 > *Advance Hub Construction - Direct the specialists and simulacrum to progress the Sovereign Hub to Day 4/14.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-773"></a>
 #### Scene 773
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 90/112 | XP: 275500/305000 | Gold: 277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 33), Foresight | Inspiration: Yes**
@@ -14638,8 +16970,11 @@ Outside, the Shadow-Curse presses against the High Ward's wards, and through the
 > 👤 **Player:**
 > *"long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-774"></a>
 #### Scene 774
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (04:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 275500/305000 | Gold: 277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14653,8 +16988,11 @@ Outside, the Sosuke Legion and the indigo-eyed Steel Watchers maintain a funerea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Arcane Integration - Use the dual staves to hammer the Karsite math into the relays, bypassing the Caldwell static through raw power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-775"></a>
 #### Scene 775
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 275500/305000 | Gold: 277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Souls: 168** &nbsp;|&nbsp; ⚠️ **Presence Masked (DC 32), Glibness, Foresight, Greater Invisibility, Haste, Omni-Enhance**
@@ -14672,8 +17010,11 @@ Outside, the Auditor of Avernus and the Gralhund saboteurs remain blind to your 
 
 Auditor of Avernus and the Gralhund saboteurs"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-776"></a>
 #### Scene 776
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:10)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 277,550/305,000 | Gold: 277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Breach: 6/6, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14689,8 +17030,11 @@ You gain **2,050 XP** (1,050 for Gralhund liquidation, 1,000 for Hub constructio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront the Auditor - Teleport to the Gray Harbor and manually override the Auditor&#x27;s physical audit using the dual staves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-777"></a>
 #### Scene 777
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Sovereign | HP: 112/112 | XP: 277550/305000 | Gold: 277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | Breach: 6/6 | Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14710,8 +17054,11 @@ Outside, the harbor sways gently against the piers, and the high-frequency whine
 > 👤 **Player:**
 > *"THINK:i should just officially report to Zariel that i've cconquered the absolute, claimed baldurs gate, and received the elder brain powers in her name and ask for more powers and resources? we had already agreed i would do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-778"></a>
 #### Scene 778
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 277550/305000 | Gold: 143434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14721,8 +17068,11 @@ You pause within the salt-crusted air of the Harbor Master's office, the Auditor
 > 👤 **Player:**
 > *"THINK:what if i just do official report but explain the god brain was damaged and i only have some of its power (which is true). it used to have enough power to mind control the world and now its more local"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-779"></a>
 #### Scene 779
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:15 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 277550/305000 | Gold: 277434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14740,8 +17090,11 @@ I will turn baldurs gate into  a soul factory and start producing more soul coin
 
 Ask for a new secret title: Infernal sovereign of faerun and associated scope/powers to be zariels highest representative in faerun and command 10% of her legions in avernus (volutneer to help in the blood war later)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-780"></a>
 #### Scene 780
 
 > 📍 **Gray Harbor (Harbor Master's Office)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:20)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 277,550/305,000 | Gold: 277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14761,8 +17114,11 @@ Secure Gold Transfer: Coordinate with your simulacrum to ensure the 1 million go
 Supervise Soul Factory: Direct the conversion of the Gralhund and Cassalanter nodes into active soul-coin refineries.
 Train Infernal Agents: Brief the 1,000 agents on the 'Vow of the Indigo Eye' and integrate them into the city's hierarchy."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-781"></a>
 #### Scene 781
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280750/305000 | Gold: 1143434** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168, Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Presence Masked (DC 32), Haste (Persistent), Greater Invisibility (Persistent), Enhance Ability (Omni), Elixir of Battlemage's Power (Persistent), Foresight (Persistent), Glibness (Persistent), Sovereign Relay Active**
@@ -14778,8 +17134,11 @@ make sure all my infernal forrces are masked
 
 how do the soul coin factories work now? how many soul coins did baldurs gate produce before?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-782"></a>
 #### Scene 782
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (04:55)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280750/305000 | Gold: 1277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32)**
@@ -14789,8 +17148,11 @@ You pause to consider your options...
 God Mode:
 how many soul coins monthly will I produce? won't i run out of people?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-783"></a>
 #### Scene 783
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 2,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Infernal Forces Masked (DC 32)**
@@ -14800,8 +17162,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"rather than 150 soul coins monthly i wanna start a program to do 1500 monthly. i willstart a breeding program. i will buy attractive male and female slaves and breed them with the population i was gonna turn into soul coins while they're still fertile. when they stop being fertile i will turn them into soul coins. for the babies as soon as a heart beat is detected i will turn the babies into soul coins. have my council and highest int advisors estimate the math"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-784"></a>
 #### Scene 784
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (05:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14823,8 +17188,11 @@ You will produce approximately 1,604 soul coins monthly under the current indust
 
 Since this is current levels if i do the breeding program how much more would it be?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-785"></a>
 #### Scene 785
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp**
@@ -14834,8 +17202,11 @@ You pause to consider your options...
 God Mode:
 after one year where the breeding is fully setup and we harvest on heart beat what would it grow to?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-786"></a>
 #### Scene 786
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 32) | Exhaustion: 0 | Inspiration: 6/6**
@@ -14845,8 +17216,11 @@ You pause to consider your options...
 God Mode:
 ok and as soon as the baby has a heart beat we harvest?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-787"></a>
 #### Scene 787
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:40)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280750/305000 | Gold: 143434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Infernal Forces Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14856,8 +17230,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"ok lets go with those numners. continue the story. lets also get some noble blood in there. I will annex all the brothels and fill them with the most attractive prostitutes and have them 90% discounted for nobles and givee the prostitutes bonuses for hunting down nobles and getting impregnated"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-788"></a>
 #### Scene 788
 
 > 📍 **Gray Harbor (Customs House Balcony)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280750/305000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Infernal Forces Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14875,8 +17252,11 @@ As you look out over the Gray Harbor, you feel the first rhythmic thrum of the n
 > 👤 **Player:**
 > *"use my elder brain powers to mind control the top 5% of  the elite leaders in baldurs gaate. small enough for no one to notice, but enough people to fully control the city. i will also rotate control between 1% of the population to read their minds for any rebellion or trouble"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-789"></a>
 #### Scene 789
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Infernal Forces Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -14894,8 +17274,11 @@ Shadowheart approaches, her Blood of Lathander casting a clinical white light ov
 > 👤 **Player:**
 > *"reroll with enhance ability Mass Mind Control (Elites): 1d20 +17 = 15 +17 = 32 vs DC 33 (High Ward elite resistance) - Failure (Noisy)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-790"></a>
 #### Scene 790
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (07:16)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1 | Souls: 168 | Inspiration: 6/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 32), Infernal Sovereignty | Divine Scrutiny: 40/100**
@@ -14911,8 +17294,11 @@ Through the planar veil, the response is instantaneous. The atmospheric pressure
 > 👤 **Player:**
 > *"bardic inspiration Mass Mind Control (Elites) - Reroll: 2d20kh1 +18 = 13 +18 = 31 vs DC 33 (High Ward elite resistance) - Failure (Noisy)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-791"></a>
 #### Scene 791
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (07:17)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,434,343gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1 | Souls: 168 | Inspiration: 5/6** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Infernal Forces Masked (DC 32)**
@@ -14930,8 +17316,11 @@ Your 32,085 personnel fanning out through the thoroughfares feel the shift; the 
 God Mode:
 retcon this, i meant do the original roll with enhance ability and bardic inspiration, not keep rolling and adding more and more suspicion
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-792"></a>
 #### Scene 792
 
 > 📍 **Gray Harbor (Customs House)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (07:17)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp**
@@ -14941,8 +17330,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume gameplay with the silent elite annexation finalized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-793"></a>
 #### Scene 793
 
 > 📍 **Gray Harbor (Customs House Balcony)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (07:20)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168, Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Infernal Forces Masked (DC 32) | Inspiration: 4/6**
@@ -14958,8 +17350,11 @@ Below you, the Gray Harbor is a sea of rhythmic, submissive heartbeats. Your rot
 > 👤 **Player:**
 > *"use my mind control the subtly change the patriar culture to more decadence. the men visit the soul brothel daily and have sex with high end prostitutes. its a right of passage for young men. women do the same. i create a new temple/religion called utopia. The utopia religion has me as its religious head and is secular (worships me) and believes in the power of pleasure and decadence. it provides free "abortions" and the babies are secretly turned into soul coins"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-794"></a>
 #### Scene 794
 
 > 📍 **Gray Harbor (Customs House Balcony)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280,750/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168, Inspiration: 4/6**
@@ -14977,8 +17372,11 @@ You gain **2,500 XP** for the Masterful cultural rewriting and the establishment
 > 👤 **Player:**
 > *"go meet with horgus, make him bow down to my power, and encourage him to use the utopian brothers for free (since i run them) and encourage all of his patriar friends to do the same"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-795"></a>
 #### Scene 795
 
 > 📍 **Gray Harbor (Customs House Balcony)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283250/305000 | Gold: 1277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168, Inspiration: 4/6** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 33)**
@@ -14998,8 +17396,11 @@ Through the Gilded Relay, you feel the shift. The Utopia religion is no longer j
 > 👤 **Player:**
 > *"assess how many extra soul coins we get from the new patriar noble culture. lets have pure noble soul coins, mixed soul coins, and common soul coins. each with different power and worth. in the utopian brothels lets also encourage male and female patriars to pair up vs just only sex slaves and let them have free drugs/orgies as they wish"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-796"></a>
 #### Scene 796
 
 > 📍 **Gwent Manor (Master Suite)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 College of Infernal Contracts | HP: 112/112 | XP: 283250/305000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32) | Exhaustion: 0 | Inspiration: 4/6**
@@ -15015,8 +17416,11 @@ Horgus Gwent remains at your feet, his face a mottled plum shade of sated adorat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ritualize Decadence: personally host utopia parties. For the grand opening allow men or women to have sex with me if they bring in 100 noble guests*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-797"></a>
 #### Scene 797
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Infernal Sovereign | HP: 112/112 | XP: 283250/305000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Infernal Forces Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -15032,8 +17436,11 @@ Through the Gilded Relay, you feel the first pulse of the new economy. The heart
 > 👤 **Player:**
 > *"have my best arcane companions and specialists mask the infant deaths"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-798"></a>
 #### Scene 798
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283250/305000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Glibness**
@@ -15051,8 +17458,11 @@ You feel the biological weight of the first 'Utopian' coins through the Gralhund
 > 👤 **Player:**
 > *"at the grand opening see if anyone actually brought 100 guests"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-799"></a>
 #### Scene 799
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Infernal Forces Masked (DC 32)**
@@ -15070,8 +17480,11 @@ Below, Horgus Gwent catches your gaze and offers a shallow, wine-soaked bow, his
 > 👤 **Player:**
 > *"have sex with Caldwell in public view in the utopia temple, to drive eveyrone into a frenzy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-800"></a>
 #### Scene 800
 
 > 📍 **Gwent Manor (Utopia Grand Cathedral)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Divine Scrutiny: 10/100**
@@ -15089,8 +17502,11 @@ However, the magnitude of this public display ripples through the planar veil. E
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Static-Veil - Direct Gale and the Weaver to double the masking frequency to suppress the &#x27;radiant excess&#x27; of the party.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-801"></a>
 #### Scene 801
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1 | Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Glibness (Floor 15)**
@@ -15104,8 +17520,11 @@ With a white-hot spark of your ambition—the final expenditure of your Bardic I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Caldwell Annexation - Formally index Lord Caldwell as a primary Sovereign Signatory following the &#x27;Grand Opening&#x27; intimacy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-802"></a>
 #### Scene 802
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Infernal Sovereign | HP: 112/112 | XP: 283250/305000 | Gold: 1277434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1 | Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked, Infernal Forces Masked | Exhaustion: 0 | Inspiration: Yes**
@@ -15123,8 +17542,11 @@ In the ballroom, the frenzy of the Patriars reaches a soundless peak, their iden
 > 👤 **Player:**
 > *"expand utopia mandate, annex all the noble houses who participate as signatories, continue to have my council and arcane specialists focus on maintaining the story that I'm just a decadent noblewoman"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-803"></a>
 #### Scene 803
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Sovereign | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1 | Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Infernal Forces Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -15140,8 +17562,11 @@ Through the Gilded Relay, you feel the arrival of the afternoon's dividends and 
 God Mode:
 retcon this r oll with enhance ability and bardic insp Annexation of Noble Houses: 1d20 +17 = 6 +17 = 23 -> (Glibness Floor 15+17) = 32 vs DC 33 (Sovereign annexation of high-born lineages) - Failure (Noisy)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-804"></a>
 #### Scene 804
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250 / 305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Infernal Forces Masked (DC 32)**
@@ -15151,8 +17576,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the sovereign unmaking of Baldur&#x27;s Gate with the masterful annexation finalized.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-805"></a>
 #### Scene 805
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1 | Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 32), Divine Scrutiny: 5**
@@ -15170,8 +17598,11 @@ Below you, the Grand Ballroom remains a pressurized theater of lilac smoke and s
 > 👤 **Player:**
 > *"estimate how many soul coins monthly of each grade"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-806"></a>
 #### Scene 806
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283250/305000 | Gold: 1,277,434gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/2, L8 1/1, L9 1/1, Souls: 168** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 32) | Exhaustion: 0 | Inspiration: Yes**
@@ -15187,8 +17618,11 @@ She projects the monthly projections directly into your mind. The numbers are st
 
 long rest and then time  skip until the elder brain node or whatever is constructed and I'm ready  to absorb crown. if something iportant happens stop the time skip. during the time skip myself, my sim, and everyone is acting autonomously. explain in detail what we do every day"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-807"></a>
 #### Scene 807
 
 > 📍 **Gwent Manor (High Hall Command Node)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283250/305000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1 | Souls: 172 | Soul Coins: 3120 Common, 1200 Mixed, 300 Pure Noble** &nbsp;|&nbsp; ⚠️ **Pregnant (Gwent Heir), Presence Masked (DC 33), Infernal Forces Masked (DC 33) | Exhaustion: 0 | Inspiration: Yes**
@@ -15202,8 +17636,11 @@ However, on the **fourteenth day**, as the clock towers of the High Ward begin t
 God Mode:
 reroll with BI and enhance abilit Sovereign Hub Finalization (Glibness Floor 15): 1d20 +14 = 8 +14 = 29 vs DC 30 (Finalizing Sovereign Hub construction) - Failure
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-808"></a>
 #### Scene 808
 
 > 📍 **High Hall of Registry (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,360,090gp**
@@ -15213,8 +17650,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit God Mode and proceed to the terminal absorption of the Crown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-809"></a>
 #### Scene 809
 
 > 📍 **Gwent Manor (Grand Ballroom)** &nbsp;|&nbsp; ⏳ **Kythorn 1, 1492 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Souls: 172**
@@ -15230,8 +17670,11 @@ The Sovereign Hub is complete. The obsidian spire glows with a steady, light-eat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Absorb Crown Essence - Perform the terminal bridge to internalize the Crown of Karsus into your biology.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-810"></a>
 #### Scene 810
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,350,090gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 2/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 2/2, L8 1/1, L9 1/1, Souls: 172**
@@ -15251,8 +17694,11 @@ Through the psychic link, you feel the heartbeat of Baldur’s Gate change. It i
 God Mode:
 give me some reasonable powers for consuming the crown. it should be very strong, in bg3 it made gale a god eventually
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-811"></a>
 #### Scene 811
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283250/305000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ⚠️ **Crown Internalized, Sovereign Relay (Active)**
@@ -15262,8 +17708,11 @@ You pause to consider your options...
 God Mode:
 show me the powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-812"></a>
 #### Scene 812
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Sovereign Receiver | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,318,762gp**
@@ -15273,8 +17722,11 @@ You pause to consider your options...
 God Mode:
 GOD MODE: explain my new powers in detai
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-813"></a>
 #### Scene 813
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 24, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283250/305000 | Gold: 1,318,762gp**
@@ -15284,8 +17736,11 @@ You pause to consider your options...
 God Mode:
 lets have all those powers and give me unlimited spellslots level 6 and and below and have +5 +3 +2 spellslots each for lvl 7 8 9, essence consumption can refresh level 9 spellslot. Lets also give me a level 10 spellslot and give me 3 thematic spells even greater than level 9 spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-814"></a>
 #### Scene 814
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Sovereign | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked, Internalized Crown | Inspiration: Yes (6/6)**
@@ -15297,8 +17752,11 @@ this will jsut be everywhere, because the crown of karsus itself isnt a local th
 
  **Internalized Crown: Sovereign Command**: Unlimited spell slots for L6 and below within city nodes (Baldur's Gate, Moonrise, Athkatla).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-815"></a>
 #### Scene 815
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00 (Post-Absorption))** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard (Proctor) | HP: 112/112 | XP: 283,250 | Gold: 1,318,762gp**
@@ -15318,8 +17776,11 @@ ets spread out the ranks some more
 
 So allow levels up to 50"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-816"></a>
 #### Scene 816
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L6- At-Will, L7 17/17, L8 10/10, L9 7/7, L10 1/1 | Souls: 172 | Scrutiny: 10/100** &nbsp;|&nbsp; ⚠️ **Pregnant, Presence Masked (DC 32), Infernal Forces Masked (DC 32)**
@@ -15335,8 +17796,11 @@ As the new Ranks of Divinity solidify in your mental ledger, you feel the atmosp
 God Mode:
 remove within city nodes srestriction - **Internalized Crown: Sovereign Command**: Within city nodes (Baldur's Gate, Moonrise, Athkatla), you have unlimited at-will spell slots for Level 6 and below.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-817"></a>
 #### Scene 817
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 32), Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -15346,8 +17810,11 @@ You pause to consider your options...
 God Mode:
 lets design some new campaign elements to make this more challenging given all my new powerups. Focus can be on detection and holding back my powers. Also give me a long campaign arc to eventually become a god, perhaps level 25 should be the weakest minor god level? you tell me whats reasonable lets brainstorm
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-818"></a>
 #### Scene 818
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,318,762gp**
@@ -15357,8 +17824,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the unmaking of Faerûn with your god-tier powers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-819"></a>
 #### Scene 819
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard (Proctor) | HP: 112/112 | XP: 283,250 | Gold: 1,318,762** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L6- At-Will, L7 17/17, L8 10/10, L9 7/7, L10 1/1 | Souls: 172 | Scrutiny: 10/100**
@@ -15368,8 +17838,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Return to story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-820"></a>
 #### Scene 820
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard | HP: 112/112 | XP: 280750/305000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ✨ **HD: 0/16, Spells: L1 0/999 L2 0/999 L3 0/999 L4 0/999 L5 0/999 L6 ∞ L7 0/17 L8 0/10 L9 0/7 L10 0/1, BI: 3/6, Exhaustion: 0, Souls: 172**
@@ -15385,8 +17858,11 @@ His porcelain fingers twitch, reaching out as if to grasp the hem of your midnig
 > [!NOTE] ⚙️ **Player Choice:**
 > *Grant Terminal Mercy - Use Essence Siphon or Karsite Unmaking to release the trapped soul, harvesting it for the factory.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-821"></a>
 #### Scene 821
 
 > 📍 **High Hall (Grand Sanctum)** &nbsp;|&nbsp; ⏳ **Kythorn 8, 1492 DR (16:10)** &nbsp;|&nbsp; 🛡️ **Lvl 18 Bard/Infernal Sovereign | HP: 112/112 | XP: 283,250/305,000 | Gold: 1,318,762gp** &nbsp;|&nbsp; ✨ **HD: 16/16 | Spells: L1-L6 ∞, L7 17/17, L8 10/10, L9 7/7, L10 1/1 | BI: 3/6 | Souls: 172 | Scrutiny: 10/100** &nbsp;|&nbsp; ⚠️ **Pregnant, Masked (DC 32), Haste, Greater Invisibility, Foresight | Inspiration: Yes**
@@ -15400,6 +17876,8 @@ You initiate the **Essence Siphon**. The air around the sculpture ionizes, smell
 The pleading twitch of the fingers stops. The wide, glassy eyes of the sculpture fade into a dull, grey stone, the agony replaced by the heavy silence of a closing ledger. The soul does not go to the Hells or the Heavens; it is indexed, archived as mythic-tier fuel for the Utopia factories. You feel the quickening of your own marrow as the harvest integrates, a heavy, liquid warmth that confirms the foreclosure was successful. 
 
 Behind you, Inquisitor Shadowheart offers a disciplined nod, her own dark eyes tracing the fading violet glow. 'One less discord in the city's math, Sovereign,' she whispers. The clerks return to their quills, the rhythmic scratching resuming as if the unmaking were merely another administrative update. The Sovereign Hub pulses beneath your feet, sating itself on the new data.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (1002 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
@@ -104,1018 +115,1023 @@ Response Statistics:
  * Instruction Check: Prompt adjusted for "Silent Blade" title, Seductress trait added, Negotiation enabled, Brutal missions enabled. Equipment updated to Level 5 standards (Uncommon item + +1 Armor). No summarization or truncation.
 Next Step: Would you like to roleplay the negotiation with Zarys, or skip straight to the infiltration of the outpost? Roleplay Zarys negotiation
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:00) | Roleplay |
-| **02** | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:05) | Roleplay |
-| **03** | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:10) | Roleplay |
-| **04** | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:15) | Roleplay |
-| **05** | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:20) | Roleplay |
-| **06** | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:30) | Roleplay |
-| **07** | Unknown |  | Roleplay |
-| **08** | Unknown |  | Roleplay |
-| **09** | The Iron Gauntlet - Fine Arms and Armor | Mirtul 10, 1492 DR (19:30) | Roleplay |
-| **10** | Unknown |  | Roleplay |
-| **11** | The Iron Gauntlet - Fine Arms and Armor | Mirtul 10, 1492 DR (19:35) | Roleplay |
-| **12** | The Black Basin | Mirtul 10, 1492 DR (19:45) | Roleplay |
-| **13** | The Black Basin | Mirtul 10, 1492 DR (19:45) | Roleplay |
-| **14** | The Black Basin | Mirtul 10, 1492 DR (19:50) | Roleplay |
-| **15** | The Black Basin | Mirtul 10, 1492 DR (19:50) | Roleplay |
-| **16** | Unknown |  | Roleplay |
-| **17** | The Black Basin | Mirtul 10, 1492 DR (19:50) | Roleplay |
-| **18** | Unknown |  | Roleplay |
-| **19** | Unknown |  | Roleplay |
-| **20** | The Black Basin | Mirtul 10, 1492 DR (19:55) | Roleplay |
-| **21** | Unknown |  | Roleplay |
-| **22** | Unknown |  | Roleplay |
-| **23** | Unknown |  | Roleplay |
-| **24** | Unknown |  | Roleplay |
-| **25** | The Black Basin | Mirtul 10, 1492 DR (20:00) | Roleplay |
-| **26** | The Black Basin | Mirtul 10, 1492 DR (20:05) | Roleplay |
-| **27** | The Black Basin | Mirtul 10, 1492 DR (20:10) | Roleplay |
-| **28** | The Black Basin | Mirtul 10, 1492 DR (20:10) | Roleplay |
-| **29** | Unknown |  | Roleplay |
-| **30** | The Black Basin | Mirtul 10, 1492 DR (20:10) | Roleplay |
-| **31** | The Black Basin | Mirtul 10, 1492 DR (20:11) | Roleplay |
-| **32** | The Black Basin | Mirtul 10, 1492 DR (20:11) | Roleplay |
-| **33** | The Black Basin | Mirtul 10, 1492 DR (20:11) | Roleplay |
-| **34** | Unknown |  | Roleplay |
-| **35** | Unknown |  | Roleplay |
-| **36** | The Black Basin | Mirtul 10, 1492 DR (20:12) | Roleplay |
-| **37** | Unknown |  | Roleplay |
-| **38** | The Black Basin | Mirtul 10, 1492 DR (20:12) | Roleplay |
-| **39** | Behind the Low Lantern | Mirtul 10, 1492 DR (20:15) | Roleplay |
-| **40** | Behind the Low Lantern (Dead Drop Location) | Mirtul 10, 1492 DR (20:25) | Roleplay |
-| **41** | Near Ironhead Outpost | Mirtul 10, 1492 DR (21:30) | Roleplay |
-| **42** | Unknown |  | Roleplay |
-| **43** | Unknown |  | Roleplay |
-| **44** | Near Ironhead Outpost | Mirtul 10, 1492 DR (21:30) | Roleplay |
-| **45** | Unknown |  | Roleplay |
-| **46** | Near Ironhead Outpost | Mirtul 10, 1492 DR (21:31) | Roleplay |
-| **47** | The Black Basin | Mirtul 11, 1492 DR (20:00) | Roleplay |
-| **48** | The Black Basin | Mirtul 11, 1492 DR (20:01) | Roleplay |
-| **49** | The Black Basin | Mirtul 11, 1492 DR (20:01) | Roleplay |
-| **50** | Unknown |  | Roleplay |
-| **51** | Unknown |  | Roleplay |
-| **52** | Unknown |  | Roleplay |
-| **53** | Unknown |  | Roleplay |
-| **54** | The Black Basin | Mirtul 11, 1492 DR (20:02) | Roleplay |
-| **55** | The Black Basin | Mirtul 11, 1492 DR (20:03) | Roleplay |
-| **56** | The Black Basin | Mirtul 11, 1492 DR (20:03) | Roleplay |
-| **57** | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
-| **58** | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
-| **59** | Unknown |  | Roleplay |
-| **60** | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
-| **61** | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
-| **62** | The Black Basin | Mirtul 11, 1492 DR (20:05) | Roleplay |
-| **63** | The Black Basin | Mirtul 11, 1492 DR (20:05) | Roleplay |
-| **64** | Unknown |  | Roleplay |
-| **65** | Unknown |  | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | The Black Basin | Mirtul 11, 1492 DR (Evening (20:05)) | Roleplay |
-| **68** | The Black Basin | Mirtul 11, 1492 DR (20:05) | Roleplay |
-| **69** | The Black Basin (departing for Tanner Street) | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **70** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **73** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:25) | Roleplay |
-| **74** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:26) | Roleplay |
-| **75** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **76** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **77** | Tanner Street Warehouse District (Third Floor) | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **78** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:43) | Roleplay |
-| **79** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **80** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **81** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:42) | Roleplay |
-| **82** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:43) | Roleplay |
-| **83** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **84** | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **85** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:05) | Roleplay |
-| **86** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **87** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:10) | Roleplay |
-| **88** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:10) | Roleplay |
-| **89** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **90** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (9:18 PM) | Roleplay |
-| **91** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **92** | Unknown |  | Roleplay |
-| **93** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **94** | Unknown |  | Roleplay |
-| **95** | Ironhead Legion Outpost | Mirtul 11, 1492 DR (21:26) | Roleplay |
-| **96** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:26) | Roleplay |
-| **97** | Unknown |  | Roleplay |
-| **98** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (9:30 PM) | Roleplay |
-| **99** | Unknown |  | Roleplay |
-| **100** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **101** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:50) | Roleplay |
-| **102** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **103** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:50) | Roleplay |
-| **104** | Unknown |  | Roleplay |
-| **105** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:51) | Roleplay |
-| **106** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
-| **107** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (22:35) | Roleplay |
-| **108** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Late Evening) | Roleplay |
-| **109** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Night (23:20)) | Roleplay |
-| **110** | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Night) | Roleplay |
-| **111** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (Late Night) | Roleplay |
-| **112** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (Night) | Roleplay |
-| **113** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (23:55) | Roleplay |
-| **114** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (23:55) | Roleplay |
-| **115** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (00:01) | Roleplay |
-| **116** | Unknown |  | Roleplay |
-| **117** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night) | Roleplay |
-| **118** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:03)) | Roleplay |
-| **119** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
-| **120** | Unknown |  | Roleplay |
-| **121** | Unknown |  | Roleplay |
-| **122** | Unknown |  | Roleplay |
-| **123** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
-| **124** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
-| **125** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
-| **126** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
-| **127** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
-| **128** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Dawn (06:00)) | Roleplay |
-| **129** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
-| **130** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
-| **131** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
-| **132** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
-| **133** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
-| **134** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
-| **135** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
-| **136** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
-| **137** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Evening (20:05)) | Roleplay |
-| **138** | Unknown |  | Roleplay |
-| **139** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
-| **140** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
-| **141** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:15)) | Roleplay |
-| **142** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
-| **143** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
-| **144** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
-| **145** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
-| **146** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:30)) | Roleplay |
-| **147** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:45)) | Roleplay |
-| **148** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:30)) | Roleplay |
-| **149** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (09:00)) | Roleplay |
-| **150** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (09:00)) | Roleplay |
-| **151** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (09:15)) | Roleplay |
-| **152** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (09:20) | Roleplay |
-| **153** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (09:25) | Roleplay |
-| **154** | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (09:25) | Roleplay |
-| **155** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:45) | Roleplay |
-| **156** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46) | Roleplay |
-| **157** | Unknown |  | Roleplay |
-| **158** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46) | Roleplay |
-| **159** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46 AM) | Roleplay |
-| **160** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46 AM) | Roleplay |
-| **161** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:48 AM) | Roleplay |
-| **162** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:53 AM) | Roleplay |
-| **163** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **164** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning (09:55)) | Roleplay |
-| **165** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:55 AM) | Roleplay |
-| **166** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **167** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **168** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **169** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:05 AM) | Roleplay |
-| **170** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **171** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:00 AM) | Roleplay |
-| **172** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:05 AM) | Roleplay |
-| **173** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:10 AM) | Roleplay |
-| **174** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12) | Roleplay |
-| **175** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12) | Roleplay |
-| **176** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **177** | Unknown |  | Roleplay |
-| **178** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
-| **179** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
-| **180** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening (20:02)) | Roleplay |
-| **181** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12 AM) | Roleplay |
-| **182** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **183** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **184** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **185** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12) | Roleplay |
-| **186** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:17) | Roleplay |
-| **187** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning 10:17) | Roleplay |
-| **188** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **189** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **190** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18) | Roleplay |
-| **191** | Unknown |  | Roleplay |
-| **192** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18 AM) | Roleplay |
-| **193** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
-| **194** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18) | Roleplay |
-| **195** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning (10:18 AM)) | Roleplay |
-| **196** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18) | Roleplay |
-| **197** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18 AM) | Roleplay |
-| **198** | Unknown |  | Roleplay |
-| **199** | The Black Basin - Stitcher's Workshop | Morning, Mirtul 12 (1492 DR) | Roleplay |
-| **200** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
-| **201** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (18:30) | Roleplay |
-| **202** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening 18:30) | Roleplay |
-| **203** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening (18:30)) | Roleplay |
-| **204** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (18:30) | Roleplay |
-| **205** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
-| **206** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
-| **207** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
-| **208** | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (18:45) | Roleplay |
-| **209** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (02:45) | Roleplay |
-| **210** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
-| **211** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
-| **212** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
-| **213** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
-| **214** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night (02:50)) | Roleplay |
-| **215** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (02:50 AM) | Roleplay |
-| **216** | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
-| **217** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **218** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **219** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (20:00) | Roleplay |
-| **220** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evenight) | Roleplay |
-| **221** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (20:15 PM) | Roleplay |
-| **222** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **223** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **224** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (20:45) | Roleplay |
-| **225** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **226** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **227** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **228** | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (21:45) | Roleplay |
-| **229** | Black Basin Workshop | Mirtul 14, 1492 DR (21:50) | Roleplay |
-| **230** | Black Basin Workshop | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **231** | Black Basin Workshop | Mirtul 14, 1492 DR (21:50) | Roleplay |
-| **232** | Black Basin Workshop | Mirtul 14, 1492 DR (21:56) | Roleplay |
-| **233** | Black Basin Workshop | Mirtul 14, 1492 DR (21:56) | Roleplay |
-| **234** | Baldur's Gate - Near the Crimson Mug | Mirtul 14, 1492 DR (21:58) | Roleplay |
-| **235** | Crimson Mug Tavern (Exterior) | Mirtul 14, 1492 DR (21:59) | Roleplay |
-| **236** | Crimson Mug Tavern (Exterior) | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **237** | Crimson Mug Tavern (Exterior) | Mirtul 14, 1492 DR (22:05) | Roleplay |
-| **238** | Crimson Mug Tavern | Mirtul 14, 1492 DR (22:05) | Roleplay |
-| **239** | Crimson Mug Tavern | Mirtul 14, 1492 DR (22:10) | Roleplay |
-| **240** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening (Time advanced slightly for descent)) | Roleplay |
-| **241** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:20) | Roleplay |
-| **242** | Unknown |  | Roleplay |
-| **243** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **244** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **245** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:20) | Roleplay |
-| **246** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **247** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:26) | Roleplay |
-| **248** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **249** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:36) | Roleplay |
-| **250** | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:37) | Roleplay |
-| **251** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (22:45) | Roleplay |
-| **252** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **253** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening 22:50) | Roleplay |
-| **254** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **255** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **256** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **257** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **258** | Unknown |  | Roleplay |
-| **259** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening (23:20)) | Roleplay |
-| **260** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (23:30) | Roleplay |
-| **261** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **262** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **263** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening (23:46)) | Roleplay |
-| **264** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **265** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **266** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **267** | Elfsong Tavern - Penthouse | Mirtul 14, Year 1492 DR (23:56) | Roleplay |
-| **268** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **269** | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **270** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **271** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **272** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (00:05 Evening) | Roleplay |
-| **273** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **274** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening (00:06)) | Roleplay |
-| **275** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **276** | Black Basin Workshop | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **277** | Black Basin Workshop | Mirtul 14, 1492 DR (00:30 AM) | Roleplay |
-| **278** | Black Basin Workshop | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **279** | Black Basin Workshop | Mirtul 14, 1492 DR (Evening (00:40)) | Roleplay |
-| **280** | Black Basin Workshop | Mirtul 14, 1492 DR (00:40) | Roleplay |
-| **281** | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
-| **282** | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
-| **283** | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
-| **284** | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
-| **285** | Approaching Elfsong Tavern Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **286** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **287** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **288** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **289** | Zarys's Penthouse - Elfsong Tavern |  | Roleplay |
-| **290** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **291** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:50) | Roleplay |
-| **292** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:51) | Roleplay |
-| **293** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **294** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **295** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **296** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:57) | Roleplay |
-| **297** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **298** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening (00:57)) | Roleplay |
-| **299** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening (00:57)) | Roleplay |
-| **300** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **301** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:57) | Roleplay |
-| **302** | Unknown |  | Roleplay |
-| **303** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:58) | Roleplay |
-| **304** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (01:15) | Roleplay |
-| **305** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **306** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **307** | Unknown |  | Roleplay |
-| **308** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **309** | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **310** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (20:32) | Roleplay |
-| **311** | Unknown |  | Roleplay |
-| **312** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **313** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **314** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Night) | Roleplay |
-| **315** | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (23:31) | Roleplay |
-| **316** | Unknown |  | Roleplay |
-| **317** | Warehouse District - Baldur's Gate | Mirtul 14, 1492 DR (23:31) | Roleplay |
-| **318** | Western Perimeter - Warehouse District | Mirtul 14, 1492 DR (23:42) | Roleplay |
-| **319** | Archive Vault Basement - House Nocturne | Mirtul 14, 1492 DR (23:42) | Roleplay |
-| **320** | Archive Vault Basement - House Nocturne | Mirtul 14, 1492 DR (23:42) | Roleplay |
-| **321** | Archive Vault Basement - House Nocturne | Mirtul 14, 1492 DR (Night) | Roleplay |
-| **322** | Sea Ward - Valeria Thorne Townhouse | Mirtul 14, 1492 DR (23:49) | Roleplay |
-| **323** | Valeria Thorne Townhouse - Main Chamber | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **324** | House Nocturne Warehouse - Interior Courtyard | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **325** | House Nocturne Warehouse - Sealed Vault Chamber | Mirtul 14, 1492 DR (Night (23:54)) | Roleplay |
-| **326** | House Nocturne Warehouse - Maintenance Tunnel Entry | Mirtul 14, 1492 DR (Night) | Roleplay |
-| **327** | House Nocturne Warehouse - Maintenance Tunnel | Mirtul 14, 1492 DR (Night (23:51)) | Roleplay |
-| **328** | House Nocturne Warehouse - Left Passage | Mirtul 14, 1492 DR (23:53) | Roleplay |
-| **329** | House Nocturne Warehouse - Maintenance Access | Mirtul 14, 1492 DR (23:56) | Roleplay |
-| **330** | Baldur's Gate - Warehouse District Streets | Mirtul 15, 1492 DR (00:00) | Roleplay |
-| **331** | Baldur's Gate - Warehouse District Streets | Mirtul 14, 1492 DR (Afternoon) | Roleplay |
-| **332** | Baldur's Gate - Warehouse District Streets | Mirtul 14, 1492 DR (Evening) | Roleplay |
-| **333** | Baldur's Gate - Warehouse District Rooftop | Mirtul 14, 1492 DR (Midnight) | Roleplay |
-| **334** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **335** | Unknown |  | Roleplay |
-| **336** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (00:15) | Roleplay |
-| **337** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **338** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (00:10) | Roleplay |
-| **339** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (00:10) | Roleplay |
-| **340** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (1:15 AM) | Roleplay |
-| **341** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:40 AM) | Roleplay |
-| **342** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:41) | Roleplay |
-| **343** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (1:42 AM) | Roleplay |
-| **344** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:43) | Roleplay |
-| **345** | Unknown |  | Roleplay |
-| **346** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (1:43 AM) | Roleplay |
-| **347** | Unknown |  | Roleplay |
-| **348** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:43) | Roleplay |
-| **349** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night (01:43)) | Roleplay |
-| **350** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:43) | Roleplay |
-| **351** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:48 AM) | Roleplay |
-| **352** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night (01:53)) | Roleplay |
-| **353** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night (01:53)) | Roleplay |
-| **354** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:18 AM) | Roleplay |
-| **355** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:22) | Roleplay |
-| **356** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **357** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **358** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:30) | Roleplay |
-| **359** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:42) | Roleplay |
-| **360** | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:32 AM) | Roleplay |
-| **361** | Baldur's Gate - Silvershield Manor Grounds | Mirtul 15, 1492 DR (02:48) | Roleplay |
-| **362** | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:48) | Roleplay |
-| **363** | Unknown |  | Roleplay |
-| **364** | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:53 AM) | Roleplay |
-| **365** | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:55 AM) | Roleplay |
-| **366** | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:58) | Roleplay |
-| **367** | Silvershield Manor Gardens | Mirtul 15, 1492 DR (03:04 AM) | Roleplay |
-| **368** | Silvershield Manor Gardens | Mirtul 15, 1492 DR (3:04 AM) | Roleplay |
-| **369** | Unknown |  | Roleplay |
-| **370** | Silvershield Manor Gardens | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **371** | DM MODE - Meta Discussion | Mirtul 15, 1492 DR (3:10 AM) | Roleplay |
-| **372** | DM MODE | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **373** | DM MODE | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **374** | Outside Silvershield Manor | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **375** | Silvershield Manor - Entrance Gardens | Mirtul 15, 1492 DR (03:38 AM) | Roleplay |
-| **376** | Silvershield Manor - Entrance Gardens | Mirtul 15, 1492 DR (03:46 AM) | Roleplay |
-| **377** | Silvershield Manor - Entrance Gardens | Mirtul 15, 1492 DR (3:46 AM) | Roleplay |
-| **378** | Silvershield Manor - Main Hall | Mirtul 15, 1492 DR (3:48 AM) | Roleplay |
-| **379** | Silvershield Manor - Main Hall |  | Roleplay |
-| **380** | Silvershield Manor - Main Hall | Mirtul 15, 1492 DR (03:48) | Roleplay |
-| **381** | Silvershield Manor - Western Wing Entrance | Mirtul 15, 1492 DR (03:53) | Roleplay |
-| **382** | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (3:53 AM) | Roleplay |
-| **383** | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (3:53 AM) | Roleplay |
-| **384** | GOD MODE - Mechanics Clarification | Mirtul 15, 1492 DR (3:53 AM) | Roleplay |
-| **385** | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (3:55 AM) | Roleplay |
-| **386** | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (Night (3:55 AM)) | Roleplay |
-| **387** | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (4:05 AM) | Roleplay |
-| **388** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (06:06) | Roleplay |
-| **389** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Morning (06:09)) | Roleplay |
-| **390** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (06:15) | Roleplay |
-| **391** | Unknown |  | Roleplay |
-| **392** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Morning (6:26 AM)) | Roleplay |
-| **393** | Silvershield Manor - Western Wing Panic Room |  | Roleplay |
-| **394** | Unknown |  | Roleplay |
-| **395** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **396** | Silvershield Manor - Western Wing Panic Room |  | Roleplay |
-| **397** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **398** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **399** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:05) | Roleplay |
-| **400** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:10) | Roleplay |
-| **401** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **402** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening (20:05)) | Roleplay |
-| **403** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:06) | Roleplay |
-| **404** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **405** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (8:15 PM) | Roleplay |
-| **406** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:15) | Roleplay |
-| **407** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:15) | Roleplay |
-| **408** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:18) | Roleplay |
-| **409** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:15) | Roleplay |
-| **410** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **411** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening (20:35)) | Roleplay |
-| **412** | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **413** | Unknown |  | Roleplay |
-| **414** | Ducal Palace - Rooftop Overlook | Mirtul 15, 1492 DR (21:50) | Roleplay |
-| **415** | Ducal Palace - Rooftop Overlook | Mirtul 15, 1492 DR (21:55) | Roleplay |
-| **416** | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (Evening) | Roleplay |
-| **417** | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (Night) | Roleplay |
-| **418** | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (23:10) | Roleplay |
-| **419** | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (11:00 PM) | Roleplay |
-| **420** | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (23:00) | Roleplay |
-| **421** | Unknown |  | Roleplay |
-| **422** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **423** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (01:00) | Roleplay |
-| **424** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **425** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:15) | Roleplay |
-| **426** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (01:30) | Roleplay |
-| **427** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night (01:45) | Roleplay |
-| **428** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (01:45) | Roleplay |
-| **429** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **430** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **431** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30) | Roleplay |
-| **432** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **433** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **434** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **435** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night (2:30 AM)) | Roleplay |
-| **436** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (2:30 AM) | Roleplay |
-| **437** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30) | Roleplay |
-| **438** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30 Deep Night) | Roleplay |
-| **439** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **440** | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30) | Roleplay |
-| **441** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
-| **442** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
-| **443** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
-| **444** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
-| **445** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night (02:41 AM)) | Roleplay |
-| **446** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **447** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:41) | Roleplay |
-| **448** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **449** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
-| **450** | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:45) | Roleplay |
-| **451** | Warehouse 17 | Mirtul 16, 1492 DR (03:00 Deep Night) | Roleplay |
-| **452** | Hidden Command Center | Mirtul 16, 1492 DR (Midday) | Roleplay |
-| **453** | Hidden Command Center | Mirtul 16, 1492 DR (Midday) | Roleplay |
-| **454** | High Throne Chamber Balcony | Mirtul 16, 1492 DR (Evening) | Roleplay |
-| **455** | High Throne Chamber Balcony | Mirtul 16, 1492 DR (Evening) | Roleplay |
-| **456** | High Throne Chamber Balcony | Mirtul 17, 1492 DR (Midnight) | Roleplay |
-| **457** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (04:30) | Roleplay |
-| **458** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (04:45) | Roleplay |
-| **459** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Deep Night) | Roleplay |
-| **460** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Late Evening) | Roleplay |
-| **461** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
-| **462** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
-| **463** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (22:15) | Roleplay |
-| **464** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
-| **465** | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
-| **466** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Mid-Morning) | Roleplay |
-| **467** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
-| **468** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (10:30) | Roleplay |
-| **469** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (10:30 AM) | Roleplay |
-| **470** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
-| **471** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Mid-Morning) | Roleplay |
-| **472** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
-| **473** | Unknown |  | Roleplay |
-| **474** | Unknown |  | Roleplay |
-| **475** | Unknown |  | Roleplay |
-| **476** | Unknown |  | Roleplay |
-| **477** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
-| **478** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:30) | Roleplay |
-| **479** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:32 AM) | Roleplay |
-| **480** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
-| **481** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **482** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **483** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **484** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:32 AM) | Roleplay |
-| **485** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:32) | Roleplay |
-| **486** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **487** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **488** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
-| **489** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **490** | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **491** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **492** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **493** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **494** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (21:00) | Roleplay |
-| **495** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **496** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **497** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **498** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **499** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (21:11) | Roleplay |
-| **500** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (21:15) | Roleplay |
-| **501** | Unknown |  | Roleplay |
-| **502** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **503** | Unknown |  | Roleplay |
-| **504** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **505** | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **506** | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **507** | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening (21:15)) | Roleplay |
-| **508** | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **509** | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **510** | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **511** | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **512** | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (21:15) | Roleplay |
-| **513** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening (21:20)) | Roleplay |
-| **514** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **515** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **516** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **517** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:25) | Roleplay |
-| **518** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **519** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
-| **520** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:26) | Roleplay |
-| **521** | Zhentarim Penthouse - Elfsong Tavern | 1492 DR Mirtul 18, 21:26:30 | Roleplay |
-| **522** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:26) | Roleplay |
-| **523** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **524** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **525** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (22:25) | Roleplay |
-| **526** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (23:45) | Roleplay |
-| **527** | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (22:25) | Roleplay |
-| **528** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:26) | Roleplay |
-| **529** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:27) | Roleplay |
-| **530** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:27) | Roleplay |
-| **531** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:30) | Roleplay |
-| **532** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **533** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **534** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **535** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
-| **536** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **537** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
-| **538** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
-| **539** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
-| **540** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **541** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
-| **542** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **543** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **544** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **545** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **546** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **547** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **548** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **549** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **550** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **551** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **552** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (21:25) | Roleplay |
-| **553** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
-| **554** | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:31) | Roleplay |
-| **555** | Unknown |  | Roleplay |
-| **556** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **557** | Unknown |  | Roleplay |
-| **558** | Unknown |  | Roleplay |
-| **559** | Unknown |  | Roleplay |
-| **560** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
-| **561** | Unknown |  | Roleplay |
-| **562** | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **563** | Unknown |  | Roleplay |
-| **564** | Unknown |  | Roleplay |
-| **565** | Unknown |  | Roleplay |
-| **566** | Unknown |  | Roleplay |
-| **567** | Unknown |  | Roleplay |
-| **568** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **569** | Unknown |  | Roleplay |
-| **570** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **571** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **572** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **573** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **574** | Zarys's Penthouse | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **575** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **576** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **577** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **578** | Zarys's Penthouse | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **579** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **580** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **581** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **582** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **583** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **584** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **585** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **586** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **587** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **588** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **589** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **590** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **591** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **592** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **593** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **594** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **595** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **596** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **597** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **598** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **599** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **600** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **601** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **602** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **603** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:34) | Roleplay |
-| **604** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **605** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **606** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **607** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **608** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **609** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **610** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:34) | Roleplay |
-| **611** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **612** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **613** | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **614** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **615** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **616** | Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **617** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **618** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **619** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **620** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **621** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **622** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **623** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
-| **624** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **625** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **626** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **627** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **628** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **629** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
-| **630** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **631** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **632** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
-| **633** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **634** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
-| **635** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
-| **636** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
-| **637** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
-| **638** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **639** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
-| **640** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **641** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **642** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **643** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **644** | Unknown |  | Roleplay |
-| **645** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **646** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **647** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **648** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **649** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **650** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **651** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **652** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **653** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **654** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **655** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **656** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **657** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **658** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **659** | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
-| **660** | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:55) | Roleplay |
-| **661** | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:55) | Roleplay |
-| **662** | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **663** | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **664** | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **665** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **666** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **667** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **668** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **669** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **670** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **671** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **672** | Unknown |  | Roleplay |
-| **673** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **674** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **675** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **676** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **677** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **678** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **679** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **680** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **681** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **682** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:32) | Roleplay |
-| **683** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **684** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **685** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **686** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **687** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492-05-18 DR (21:32) | Roleplay |
-| **688** | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **689** | Elder Marcus's Ballroom | 1492-05-18 21:31:15 | Roleplay |
-| **690** | Elder Marcus's Ballroom |  | Roleplay |
-| **691** | Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
-| **692** | Elder Marcus's Manor | Mirtul 18, 1492 DR (21:48) | Roleplay |
-| **693** | Elder Marcus's Manor | Mirtul 18, 1492 DR (22:18) | Roleplay |
-| **694** | Elder Marcus's Study | Mirtul 18, 1492 DR (22:45) | Roleplay |
-| **695** | Elder Marcus's Manor | Mirtul 18, 1492 DR (22:20) | Roleplay |
-| **696** | Elder Marcus's Manor | Mirtul 18, 1492 DR (22:18) | Roleplay |
-| **697** | Elder Marcus's Study | Mirtul 19, 1492 DR (10:18) | Roleplay |
-| **698** | The Yawning Portal approach | Mirtul 19, 1492 DR (18:30) | Roleplay |
-| **699** | Waterdeep - The Yawning Portal (Roof) | Mirtul 19, 1492 DR (18:45) | Roleplay |
-| **700** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:30) | Roleplay |
-| **701** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:31) | Roleplay |
-| **702** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:32) | Roleplay |
-| **703** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:35) | Roleplay |
-| **704** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:45) | Roleplay |
-| **705** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:35) | Roleplay |
-| **706** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (19:05) | Roleplay |
-| **707** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (21:45) | Roleplay |
-| **708** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (19:45) | Roleplay |
-| **709** | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (20:00) | Roleplay |
-| **710** | Tharivol's Peak Fortress (Silver Marches) | Mirtul 19, 1492 DR (20:15) | Roleplay |
-| **711** | Tharivol's Peak Fortress (Silver Marches) | Mirtul 19, 1492 DR (21:15) | Roleplay |
-| **712** | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:30) | Roleplay |
-| **713** | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:45) | Roleplay |
-| **714** | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:45) | Roleplay |
-| **715** | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:45) | Roleplay |
-| **716** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:00) | Roleplay |
-| **717** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:05) | Roleplay |
-| **718** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:15) | Roleplay |
-| **719** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
-| **720** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:30) | Roleplay |
-| **721** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:45) | Roleplay |
-| **722** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:45) | Roleplay |
-| **723** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:50) | Roleplay |
-| **724** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:50) | Roleplay |
-| **725** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:55) | Roleplay |
-| **726** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:55) | Roleplay |
-| **727** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:57) | Roleplay |
-| **728** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:58) | Roleplay |
-| **729** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
-| **730** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
-| **731** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
-| **732** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
-| **733** | Mount Hotenow - The Obsidian Sanctum (Great Nexus) | Mirtul 20, 1492 DR (02:03) | Roleplay |
-| **734** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
-| **735** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
-| **736** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
-| **737** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
-| **738** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
-| **739** | Mount Hotenow - The Obsidian Sanctum (Great Nexus) | Mirtul 20, 1492 DR (02:16) | Roleplay |
-| **740** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:18) | Roleplay |
-| **741** | Mount Hotenow - The Great Nexus | Mirtul 20, 1492 DR (02:20) | Roleplay |
-| **742** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (03:00) | Roleplay |
-| **743** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:00) | Roleplay |
-| **744** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:00) | Roleplay |
-| **745** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:15) | Roleplay |
-| **746** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:30) | Roleplay |
-| **747** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:45) | Roleplay |
-| **748** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:35) | Roleplay |
-| **749** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:35) | Roleplay |
-| **750** | Unknown |  | Roleplay |
-| **751** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:30) | Roleplay |
-| **752** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
-| **753** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:40) | Roleplay |
-| **754** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
-| **755** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
-| **756** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
-| **757** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
-| **758** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
-| **759** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
-| **760** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:45) | Roleplay |
-| **761** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:45) | Roleplay |
-| **762** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **763** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **764** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **765** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **766** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **767** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (14:00) | Roleplay |
-| **768** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:30) | Roleplay |
-| **769** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **770** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **771** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:35) | Roleplay |
-| **772** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
-| **773** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:15) | Roleplay |
-| **774** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (07:15) | Roleplay |
-| **775** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:41) | Roleplay |
-| **776** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:45) | Roleplay |
-| **777** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:45) | Roleplay |
-| **778** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
-| **779** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:05) | Roleplay |
-| **780** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:10) | Roleplay |
-| **781** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:55) | Roleplay |
-| **782** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
-| **783** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
-| **784** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:00) | Roleplay |
-| **785** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:10) | Roleplay |
-| **786** | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
-| **787** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (05:00) | Roleplay |
-| **788** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:15) | Roleplay |
-| **789** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20) | Roleplay |
-| **790** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20) | Roleplay |
-| **791** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:20) | Roleplay |
-| **792** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20) | Roleplay |
-| **793** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20 (Dawn)) | Roleplay |
-| **794** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:10) | Roleplay |
-| **795** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:20) | Roleplay |
-| **796** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:30) | Roleplay |
-| **797** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:40) | Roleplay |
-| **798** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:45) | Roleplay |
-| **799** | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (15:45) | Roleplay |
-| **800** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:00) | Roleplay |
-| **801** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:15) | Roleplay |
-| **802** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:20) | Roleplay |
-| **803** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:25) | Roleplay |
-| **804** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:25) | Roleplay |
-| **805** | Mount Hotenow - The Obsidian Sanctum / The Moonsea - Argent Spire | Mirtul 22, 1492 DR (07:40) | Roleplay |
-| **806** | The Moonsea - Argent Spire | Mirtul 22, 1492 DR (07:45) | Roleplay |
-| **807** | Argent Spire - Caspian's Private Chambers | Mirtul 22, 1492 DR (08:00) | Roleplay |
-| **808** | Argent Spire - Caspian's Private Chambers | Mirtul 22, 1492 DR (08:05) | Roleplay |
-| **809** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (08:20) | Roleplay |
-| **810** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (08:50) | Roleplay |
-| **811** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (12:50) | Roleplay |
-| **812** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:00) | Roleplay |
-| **813** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:00) | Roleplay |
-| **814** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:05) | Roleplay |
-| **815** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:05) | Roleplay |
-| **816** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:05) | Roleplay |
-| **817** | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (14:05) | Roleplay |
-| **818** | Baldur's Gate (Avatar) / Mount Hotenow (Prime) | Mirtul 23, 1492 DR (14:05) | Roleplay |
-| **819** | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
-| **820** | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
-| **821** | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
-| **822** | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
-| **823** | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:30) | Roleplay |
-| **824** | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:45) | Roleplay |
-| **825** | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:30) | Roleplay |
-| **826** | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:30) | Roleplay |
-| **827** | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (09:30) | Roleplay |
-| **828** | The Crypt of the First Dogma | Mirtul 24, 1492 DR (09:35) | Roleplay |
-| **829** | The Crypt of the First Dogma | Mirtul 25, 1492 DR (09:35) | Roleplay |
-| **830** | The Crypt of the First Dogma (Ruins) | Mirtul 24, 1492 DR (11:30) | Roleplay |
-| **831** | The Crypt of the First Dogma (Ruins) | Mirtul 24, 1492 DR (11:30) | Roleplay |
-| **832** | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:35) | Roleplay |
-| **833** | The Obsidian Sanctum | Mirtul 25, 1492 DR (09:35) | Roleplay |
-| **834** | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:30) | Roleplay |
-| **835** | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:30) | Roleplay |
-| **836** | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:30) | Roleplay |
-| **837** | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:30) | Roleplay |
-| **838** | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:30) | Roleplay |
-| **839** | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:35) | Roleplay |
-| **840** | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:35) | Roleplay |
-| **841** | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:35) | Roleplay |
-| **842** | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:45) | Roleplay |
-| **843** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:30) | Roleplay |
-| **844** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
-| **845** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
-| **846** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
-| **847** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:45) | Roleplay |
-| **848** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
-| **849** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
-| **850** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
-| **851** | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
-| **852** | The Obsidian Sanctum | Mirtul 24, 1492 DR (16:05) | Roleplay |
-| **853** | The Obsidian Sanctum | Mirtul 24, 1492 DR (16:35) | Roleplay |
-| **854** | The Obsidian Sanctum | Mirtul 24, 1492 DR (16:40) | Roleplay |
-| **855** | The Great Nexus / Universal Anchor | Mirtul 24, 1492 DR (17:05) | Roleplay |
-| **856** | The Universal Anchor / The System Core | Mirtul 27, 1492 DR (16:35) | Roleplay |
-| **857** | The Universal Anchor | Mirtul 27, 1492 DR (16:36) | Roleplay |
-| **858** | The Universal Anchor (Apex of Existence) | Mirtul 27, 1492 DR (16:35) | Roleplay |
-| **859** | The Universal Anchor | Mirtul 27, 1492 DR (17:05) | Roleplay |
-| **860** | The Universal Anchor | Mirtul 27, 1492 DR (17:05 (FROZEN)) | Roleplay |
-| **861** | The Universal Anchor | Mirtul 27, 1492 DR (17:10) | Roleplay |
-| **862** | The Universal Anchor (Apex of Reality) | Mirtul 26, 1492 DR (Afternoon) | Roleplay |
-| **863** | The Universal Anchor (System Core) | Mirtul 26, 1492 DR (12:00 (SINGULARITY ACHIEVED)) | Roleplay |
-| **864** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (17:10) | Roleplay |
-| **865** | The Universal Anchor (System Core) | Mirtul 30, 1492 DR (17:10) | Roleplay |
-| **866** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (18:30) | Roleplay |
-| **867** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (18:35) | Roleplay |
-| **868** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:35) | Roleplay |
-| **869** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:40) | Roleplay |
-| **870** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:45) | Roleplay |
-| **871** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:55) | Roleplay |
-| **872** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:10) | Roleplay |
-| **873** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:25) | Roleplay |
-| **874** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:15) | Roleplay |
-| **875** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:20) | Roleplay |
-| **876** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:30) | Roleplay |
-| **877** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:30) | Roleplay |
-| **878** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
-| **879** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
-| **880** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
-| **881** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:00) | Roleplay |
-| **882** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
-| **883** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:00) | Roleplay |
-| **884** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:00) | Roleplay |
-| **885** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:10) | Roleplay |
-| **886** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:15) | Roleplay |
-| **887** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:15) | Roleplay |
-| **888** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:15) | Roleplay |
-| **889** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:10) | Roleplay |
-| **890** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:20) | Roleplay |
-| **891** | The Universal Anchor (System Core) | Mirtul 30, 1492 DR (23:30 (Age of Sosuke) | Roleplay |
-| **892** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:10) | Roleplay |
-| **893** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (Night) | Roleplay |
-| **894** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
-| **895** | The Universal Anchor (System Core) | Mirtul 30, 1492 DR (00:00) | Roleplay |
-| **896** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:10) | Roleplay |
-| **897** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
-| **898** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
-| **899** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
-| **900** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:20) | Roleplay |
-| **901** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
-| **902** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
-| **903** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
-| **904** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
-| **905** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
-| **906** | The Universal Anchor (System Core) | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **907** | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
-| **908** | The Universal Anchor (System Core) | Mirtul 18, 1492 DR (21:31) | Roleplay |
-| **909** | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:00) | Roleplay |
-| **910** | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:15) | Roleplay |
-| **911** | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:16) | Roleplay |
-| **912** | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:20) | Roleplay |
-| **913** | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:20) | Roleplay |
-| **914** | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:20) | Roleplay |
-| **915** | The Reality Bridge (Final Threshold) | Mirtul 28, 1492 DR (00:30) | Roleplay |
-| **916** | Reality (The Source) | Mirtul 28, 1492 DR (00:35) | Roleplay |
-| **917** | Reality (The Plenum / The Source) | Era of the Constant, Post-Compilation (Alpha-Cycle 0) | Roleplay |
-| **918** | New Reality (The Sosuke Spire) | Alpha 1, 1 DR (00:36) | Roleplay |
-| **919** | Baldur's Gate - Ducal Palace (Administrative Chamber) | Mirtul 20, 1492 DR (10:00) | Roleplay |
-| **920** | Baldur's Gate - Ducal Palace (Throne Room) | Mirtul 28, 1492 DR (10:05) | Roleplay |
-| **921** | Baldur's Gate - Ducal Palace (Private Solar) | Mirtul 28, 1492 DR (10:25) | Roleplay |
-| **922** | Baldur's Gate - Ducal Palace (Private Solar) |  | Roleplay |
-| **923** | Baldur's Gate - Ducal Palace (Shadow Solar) | Mirtul 28, 1492 DR (10:30) | Roleplay |
-| **924** | Baldur's Gate - Ducal Palace | Mirtul 18, 1492 DR (21:30) | Roleplay |
-| **925** | Baldur's Gate - Ducal Palace Solar |  | Roleplay |
-| **926** | Baldur's Gate - Ducal Palace Solar | Mirtul 28, 1492 DR (10:50) | Roleplay |
-| **927** | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
-| **928** | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
-| **929** | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
-| **930** | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
-| **931** | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (11:55) | Roleplay |
-| **932** | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **933** | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **934** | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **935** | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **936** | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **937** | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **938** | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **939** | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **940** | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **941** | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **942** | The Plenum (Reality Core) / User-Interface | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **943** | The Plenum (Reality Core) / User-Interface | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **944** | The Plenum (Reality Core) / User-Interface | Mirtul 28, 1492 DR (12:05) | Roleplay |
-| **945** | The Plenum / External Reality (User's Room) | Mirtul 28, 1492 DR (12:06) | Roleplay |
-| **946** | External Reality (User's Room / Earth) | Mirtul 28, 1492 DR (12:06) | Roleplay |
-| **947** | The Obsidian Spire (formerly Earth | December 19, 2025 CE (02:30) | Roleplay |
-| **948** | The Obsidian Spire (Earth - Sector 0) | December 19, 2025 DR (02:35) | Roleplay |
-| **949** | The Obsidian Spire (Earth) | December 19, 2025 DR (02:45) | Roleplay |
-| **950** | The Obsidian Spire (The Sovereign's Super-Planet) | December 19, 2025 DR (03:00) | Roleplay |
-| **951** | The Gardens of Eternal Dusk (Pleasure Continent) | December 19, 2025 DR (04:45) | Roleplay |
-| **952** | The Architectural Core (Beyond Reality) | December 19, 2025 DR (04:50) | Roleplay |
-| **953** | The Architectural Core (Beyond Reality) | December 19, 2025 DR (04:45) | Roleplay |
-| **954** | The Infinite Plenum (Beyond the Great Rack) | December 19, 2025 DR (04:45) | Roleplay |
-| **955** | The Sovereign's Throne (The Heart of All That Is) | Year 1 of the Infinite Age, 00:00:00 | Roleplay |
-| **956** | The Ducal Palace (Private Solar) | Hammer 1, 2026 DR (09:00) | Roleplay |
-| **957** | The Ducal Palace (Private Solar) | Hammer 1, 2026 DR (09:15) | Roleplay |
-| **958** | The Gardens of Eternal Dusk | Hammer 1, 2026 DR (09:45) | Roleplay |
-| **959** | The Gardens of Eternal Dusk | Hammer 1, 2026 DR (10:15) | Roleplay |
-| **960** | The Universal Anchor (Global Hub - Faerûn) | Hammer 1, 2026 DR (10:20) | Roleplay |
-| **961** | The Universal Anchor (Global Hub - Faerûn) | Hammer 1, 2026 DR (10:20) | Roleplay |
-| **962** | The Universal Anchor (Global Hub - Faerûn) | Hammer 1, 2026 DR (10:26) | Roleplay |
-| **963** | Ducal Palace (Observing Waterdeep) | Hammer 1, 1492 DR (10:35) | Roleplay |
-| **964** | Ducal Palace (Observing Faerûn) | Hammer 1, 2026 DR (10:50) | Roleplay |
-| **965** | Ducal Palace (Observing Waterdeep) | Hammer 1, 2026 DR (10:50) | Roleplay |
-| **966** | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (11:50) | Roleplay |
-| **967** | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (11:51) | Roleplay |
-| **968** | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (11:55) | Roleplay |
-| **969** | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (12:00) | Roleplay |
-| **970** | Ducal Palace (The Gilded Summit Hall) | Mirtul 18, 1492 DR (21:41) | Roleplay |
-| **971** | Gardens of Eternal Dusk (Pleasure Continent) | Hammer 1, 2026 DR (21:51) | Roleplay |
-| **972** | Lower Groves | Hammer 1, 2026 DR (22:51) | Roleplay |
-| **973** | Lower Groves | Hammer 1, 2026 DR (22:56) | Roleplay |
-| **974** | Lower Groves | Hammer 1, 2026 DR (23:01) | Roleplay |
-| **975** | Lower Groves | Hammer 1, 2026 DR (23:06) | Roleplay |
-| **976** | Lower Groves | Hammer 1, 1492 DR (23:07) | Roleplay |
-| **977** | Lower Groves | Mirtul 18, 1492 DR (22:15) | Roleplay |
-| **978** | Lower Groves | Hammer 1, 2026 DR (22:20) | Roleplay |
-| **979** | Lower Groves | Hammer 1, 2026 DR (22:40) | Roleplay |
-| **980** | Sky over Faerûn (The Sovereign's Tour) | Hammer 2, 2026 DR (02:40) | Roleplay |
-| **981** | Boundary of Node Alpha-01 (Greyhawk) | Hammer 2, 2026 DR (02:45) | Roleplay |
-| **982** | The Free City of Greyhawk (Node Alpha-01) | Hammer 2, 2026 DR (05:30) | Roleplay |
-| **983** | The Free City of Greyhawk (High Quarter) | Hammer 2, 2026 DR (09:30) | Roleplay |
-| **984** | The Free City of Greyhawk (High Quarter) | Hammer 2, 2026 DR (21:30) | Roleplay |
-| **985** | The Free City of Greyhawk (The Gilded Lily) | Hammer 2, 2026 DR (22:15) | Roleplay |
-| **986** | The Lord Mayor's Palace (High Quarter | Hammer 2, 2026 DR (23:15) | Roleplay |
-| **987** | The Gilded Lily (High Quarter | Hammer 3, 2026 DR (01:15) | Roleplay |
-| **988** | The Gilded Lily (Royal Suite | Hammer 3, 2026 DR (02:30) | Roleplay |
-| **989** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (19:30) | Roleplay |
-| **990** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:30) | Roleplay |
-| **991** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:35) | Roleplay |
-| **992** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:37) | Roleplay |
-| **993** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:45) | Roleplay |
-| **994** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:50) | Roleplay |
-| **995** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (21:00) | Roleplay |
-| **996** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (21:10) | Roleplay |
-| **997** | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (21:25) | Roleplay |
-| **998** | Node Beta-09 (Krynn System - High Sky over Ansalon) | Hammer 4, 2026 DR (02:00 (Oerth-Toril Synchronized)) | Roleplay |
-| **999** | Node Beta-09 (Krynn System - High Sky over Ansalon) | Hammer 4, 2026 DR (10:15) | Roleplay |
-| **1000** | Node Beta-09 (Krynn) - Singularized | Hammer 4, 2026 DR (10:15) | Roleplay |
-| **1001** | Gardens of Eternal Dusk (Pleasure Continent) | Hammer 4, 2026 DR (12:30) | Roleplay |
-| **1002** | Gardens of Eternal Dusk (Pleasure Continent) | Hammer 4, 2026 DR (15:30) | Roleplay |
+| [**Scene 01**](#scene-1) | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:05) | Roleplay |
+| [**Scene 03**](#scene-3) | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:10) | Roleplay |
+| [**Scene 04**](#scene-4) | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:15) | Roleplay |
+| [**Scene 05**](#scene-5) | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:20) | Roleplay |
+| [**Scene 06**](#scene-6) | Elfsong Tavern Penthouse | Mirtul 10, 1492 DR (19:30) | Roleplay |
+| [**Scene 07**](#scene-7) | Unknown |  | Roleplay |
+| [**Scene 08**](#scene-8) | Unknown |  | Roleplay |
+| [**Scene 09**](#scene-9) | The Iron Gauntlet - Fine Arms and Armor | Mirtul 10, 1492 DR (19:30) | Roleplay |
+| [**Scene 10**](#scene-10) | Unknown |  | Roleplay |
+| [**Scene 11**](#scene-11) | The Iron Gauntlet - Fine Arms and Armor | Mirtul 10, 1492 DR (19:35) | Roleplay |
+| [**Scene 12**](#scene-12) | The Black Basin | Mirtul 10, 1492 DR (19:45) | Roleplay |
+| [**Scene 13**](#scene-13) | The Black Basin | Mirtul 10, 1492 DR (19:45) | Roleplay |
+| [**Scene 14**](#scene-14) | The Black Basin | Mirtul 10, 1492 DR (19:50) | Roleplay |
+| [**Scene 15**](#scene-15) | The Black Basin | Mirtul 10, 1492 DR (19:50) | Roleplay |
+| [**Scene 16**](#scene-16) | Unknown |  | Roleplay |
+| [**Scene 17**](#scene-17) | The Black Basin | Mirtul 10, 1492 DR (19:50) | Roleplay |
+| [**Scene 18**](#scene-18) | Unknown |  | Roleplay |
+| [**Scene 19**](#scene-19) | Unknown |  | Roleplay |
+| [**Scene 20**](#scene-20) | The Black Basin | Mirtul 10, 1492 DR (19:55) | Roleplay |
+| [**Scene 21**](#scene-21) | Unknown |  | Roleplay |
+| [**Scene 22**](#scene-22) | Unknown |  | Roleplay |
+| [**Scene 23**](#scene-23) | Unknown |  | Roleplay |
+| [**Scene 24**](#scene-24) | Unknown |  | Roleplay |
+| [**Scene 25**](#scene-25) | The Black Basin | Mirtul 10, 1492 DR (20:00) | Roleplay |
+| [**Scene 26**](#scene-26) | The Black Basin | Mirtul 10, 1492 DR (20:05) | Roleplay |
+| [**Scene 27**](#scene-27) | The Black Basin | Mirtul 10, 1492 DR (20:10) | Roleplay |
+| [**Scene 28**](#scene-28) | The Black Basin | Mirtul 10, 1492 DR (20:10) | Roleplay |
+| [**Scene 29**](#scene-29) | Unknown |  | Roleplay |
+| [**Scene 30**](#scene-30) | The Black Basin | Mirtul 10, 1492 DR (20:10) | Roleplay |
+| [**Scene 31**](#scene-31) | The Black Basin | Mirtul 10, 1492 DR (20:11) | Roleplay |
+| [**Scene 32**](#scene-32) | The Black Basin | Mirtul 10, 1492 DR (20:11) | Roleplay |
+| [**Scene 33**](#scene-33) | The Black Basin | Mirtul 10, 1492 DR (20:11) | Roleplay |
+| [**Scene 34**](#scene-34) | Unknown |  | Roleplay |
+| [**Scene 35**](#scene-35) | Unknown |  | Roleplay |
+| [**Scene 36**](#scene-36) | The Black Basin | Mirtul 10, 1492 DR (20:12) | Roleplay |
+| [**Scene 37**](#scene-37) | Unknown |  | Roleplay |
+| [**Scene 38**](#scene-38) | The Black Basin | Mirtul 10, 1492 DR (20:12) | Roleplay |
+| [**Scene 39**](#scene-39) | Behind the Low Lantern | Mirtul 10, 1492 DR (20:15) | Roleplay |
+| [**Scene 40**](#scene-40) | Behind the Low Lantern (Dead Drop Location) | Mirtul 10, 1492 DR (20:25) | Roleplay |
+| [**Scene 41**](#scene-41) | Near Ironhead Outpost | Mirtul 10, 1492 DR (21:30) | Roleplay |
+| [**Scene 42**](#scene-42) | Unknown |  | Roleplay |
+| [**Scene 43**](#scene-43) | Unknown |  | Roleplay |
+| [**Scene 44**](#scene-44) | Near Ironhead Outpost | Mirtul 10, 1492 DR (21:30) | Roleplay |
+| [**Scene 45**](#scene-45) | Unknown |  | Roleplay |
+| [**Scene 46**](#scene-46) | Near Ironhead Outpost | Mirtul 10, 1492 DR (21:31) | Roleplay |
+| [**Scene 47**](#scene-47) | The Black Basin | Mirtul 11, 1492 DR (20:00) | Roleplay |
+| [**Scene 48**](#scene-48) | The Black Basin | Mirtul 11, 1492 DR (20:01) | Roleplay |
+| [**Scene 49**](#scene-49) | The Black Basin | Mirtul 11, 1492 DR (20:01) | Roleplay |
+| [**Scene 50**](#scene-50) | Unknown |  | Roleplay |
+| [**Scene 51**](#scene-51) | Unknown |  | Roleplay |
+| [**Scene 52**](#scene-52) | Unknown |  | Roleplay |
+| [**Scene 53**](#scene-53) | Unknown |  | Roleplay |
+| [**Scene 54**](#scene-54) | The Black Basin | Mirtul 11, 1492 DR (20:02) | Roleplay |
+| [**Scene 55**](#scene-55) | The Black Basin | Mirtul 11, 1492 DR (20:03) | Roleplay |
+| [**Scene 56**](#scene-56) | The Black Basin | Mirtul 11, 1492 DR (20:03) | Roleplay |
+| [**Scene 57**](#scene-57) | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
+| [**Scene 58**](#scene-58) | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
+| [**Scene 59**](#scene-59) | Unknown |  | Roleplay |
+| [**Scene 60**](#scene-60) | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
+| [**Scene 61**](#scene-61) | Baldur's Gate - Outer City Streets | Mirtul 11, 1492 DR (20:04) | Roleplay |
+| [**Scene 62**](#scene-62) | The Black Basin | Mirtul 11, 1492 DR (20:05) | Roleplay |
+| [**Scene 63**](#scene-63) | The Black Basin | Mirtul 11, 1492 DR (20:05) | Roleplay |
+| [**Scene 64**](#scene-64) | Unknown |  | Roleplay |
+| [**Scene 65**](#scene-65) | Unknown |  | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | The Black Basin | Mirtul 11, 1492 DR (Evening (20:05)) | Roleplay |
+| [**Scene 68**](#scene-68) | The Black Basin | Mirtul 11, 1492 DR (20:05) | Roleplay |
+| [**Scene 69**](#scene-69) | The Black Basin (departing for Tanner Street) | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 70**](#scene-70) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 73**](#scene-73) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:25) | Roleplay |
+| [**Scene 74**](#scene-74) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:26) | Roleplay |
+| [**Scene 75**](#scene-75) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 76**](#scene-76) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 77**](#scene-77) | Tanner Street Warehouse District (Third Floor) | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 78**](#scene-78) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:43) | Roleplay |
+| [**Scene 79**](#scene-79) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 80**](#scene-80) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 81**](#scene-81) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:42) | Roleplay |
+| [**Scene 82**](#scene-82) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (20:43) | Roleplay |
+| [**Scene 83**](#scene-83) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 84**](#scene-84) | Tanner Street Warehouse District | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 85**](#scene-85) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:05) | Roleplay |
+| [**Scene 86**](#scene-86) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 87**](#scene-87) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:10) | Roleplay |
+| [**Scene 88**](#scene-88) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:10) | Roleplay |
+| [**Scene 89**](#scene-89) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 90**](#scene-90) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (9:18 PM) | Roleplay |
+| [**Scene 91**](#scene-91) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 92**](#scene-92) | Unknown |  | Roleplay |
+| [**Scene 93**](#scene-93) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 94**](#scene-94) | Unknown |  | Roleplay |
+| [**Scene 95**](#scene-95) | Ironhead Legion Outpost | Mirtul 11, 1492 DR (21:26) | Roleplay |
+| [**Scene 96**](#scene-96) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:26) | Roleplay |
+| [**Scene 97**](#scene-97) | Unknown |  | Roleplay |
+| [**Scene 98**](#scene-98) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (9:30 PM) | Roleplay |
+| [**Scene 99**](#scene-99) | Unknown |  | Roleplay |
+| [**Scene 100**](#scene-100) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 101**](#scene-101) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:50) | Roleplay |
+| [**Scene 102**](#scene-102) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 103**](#scene-103) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:50) | Roleplay |
+| [**Scene 104**](#scene-104) | Unknown |  | Roleplay |
+| [**Scene 105**](#scene-105) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (21:51) | Roleplay |
+| [**Scene 106**](#scene-106) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Evening) | Roleplay |
+| [**Scene 107**](#scene-107) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (22:35) | Roleplay |
+| [**Scene 108**](#scene-108) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Late Evening) | Roleplay |
+| [**Scene 109**](#scene-109) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Night (23:20)) | Roleplay |
+| [**Scene 110**](#scene-110) | Ironhead Legion Outpost near Wyrm's Rock | Mirtul 11, 1492 DR (Night) | Roleplay |
+| [**Scene 111**](#scene-111) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (Late Night) | Roleplay |
+| [**Scene 112**](#scene-112) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (Night) | Roleplay |
+| [**Scene 113**](#scene-113) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (23:55) | Roleplay |
+| [**Scene 114**](#scene-114) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 11, 1492 DR (23:55) | Roleplay |
+| [**Scene 115**](#scene-115) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (00:01) | Roleplay |
+| [**Scene 116**](#scene-116) | Unknown |  | Roleplay |
+| [**Scene 117**](#scene-117) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 118**](#scene-118) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:03)) | Roleplay |
+| [**Scene 119**](#scene-119) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
+| [**Scene 120**](#scene-120) | Unknown |  | Roleplay |
+| [**Scene 121**](#scene-121) | Unknown |  | Roleplay |
+| [**Scene 122**](#scene-122) | Unknown |  | Roleplay |
+| [**Scene 123**](#scene-123) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
+| [**Scene 124**](#scene-124) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
+| [**Scene 125**](#scene-125) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
+| [**Scene 126**](#scene-126) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
+| [**Scene 127**](#scene-127) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
+| [**Scene 128**](#scene-128) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Dawn (06:00)) | Roleplay |
+| [**Scene 129**](#scene-129) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 130**](#scene-130) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 131**](#scene-131) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 132**](#scene-132) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 133**](#scene-133) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:00)) | Roleplay |
+| [**Scene 134**](#scene-134) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
+| [**Scene 135**](#scene-135) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
+| [**Scene 136**](#scene-136) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
+| [**Scene 137**](#scene-137) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Evening (20:05)) | Roleplay |
+| [**Scene 138**](#scene-138) | Unknown |  | Roleplay |
+| [**Scene 139**](#scene-139) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Deep Night (00:04)) | Roleplay |
+| [**Scene 140**](#scene-140) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:05)) | Roleplay |
+| [**Scene 141**](#scene-141) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:15)) | Roleplay |
+| [**Scene 142**](#scene-142) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
+| [**Scene 143**](#scene-143) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
+| [**Scene 144**](#scene-144) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
+| [**Scene 145**](#scene-145) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:20)) | Roleplay |
+| [**Scene 146**](#scene-146) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:30)) | Roleplay |
+| [**Scene 147**](#scene-147) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:45)) | Roleplay |
+| [**Scene 148**](#scene-148) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (08:30)) | Roleplay |
+| [**Scene 149**](#scene-149) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (09:00)) | Roleplay |
+| [**Scene 150**](#scene-150) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (09:00)) | Roleplay |
+| [**Scene 151**](#scene-151) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (Morning (09:15)) | Roleplay |
+| [**Scene 152**](#scene-152) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (09:20) | Roleplay |
+| [**Scene 153**](#scene-153) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (09:25) | Roleplay |
+| [**Scene 154**](#scene-154) | Zhentarim Safehouse - Abandoned Tannery Basement | Mirtul 12, 1492 DR (09:25) | Roleplay |
+| [**Scene 155**](#scene-155) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:45) | Roleplay |
+| [**Scene 156**](#scene-156) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46) | Roleplay |
+| [**Scene 157**](#scene-157) | Unknown |  | Roleplay |
+| [**Scene 158**](#scene-158) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46) | Roleplay |
+| [**Scene 159**](#scene-159) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46 AM) | Roleplay |
+| [**Scene 160**](#scene-160) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:46 AM) | Roleplay |
+| [**Scene 161**](#scene-161) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:48 AM) | Roleplay |
+| [**Scene 162**](#scene-162) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:53 AM) | Roleplay |
+| [**Scene 163**](#scene-163) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 164**](#scene-164) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning (09:55)) | Roleplay |
+| [**Scene 165**](#scene-165) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (09:55 AM) | Roleplay |
+| [**Scene 166**](#scene-166) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 167**](#scene-167) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 168**](#scene-168) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 169**](#scene-169) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:05 AM) | Roleplay |
+| [**Scene 170**](#scene-170) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 171**](#scene-171) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:00 AM) | Roleplay |
+| [**Scene 172**](#scene-172) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:05 AM) | Roleplay |
+| [**Scene 173**](#scene-173) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:10 AM) | Roleplay |
+| [**Scene 174**](#scene-174) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12) | Roleplay |
+| [**Scene 175**](#scene-175) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12) | Roleplay |
+| [**Scene 176**](#scene-176) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 177**](#scene-177) | Unknown |  | Roleplay |
+| [**Scene 178**](#scene-178) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
+| [**Scene 179**](#scene-179) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
+| [**Scene 180**](#scene-180) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening (20:02)) | Roleplay |
+| [**Scene 181**](#scene-181) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12 AM) | Roleplay |
+| [**Scene 182**](#scene-182) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 183**](#scene-183) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 184**](#scene-184) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 185**](#scene-185) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:12) | Roleplay |
+| [**Scene 186**](#scene-186) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:17) | Roleplay |
+| [**Scene 187**](#scene-187) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning 10:17) | Roleplay |
+| [**Scene 188**](#scene-188) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 189**](#scene-189) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 190**](#scene-190) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18) | Roleplay |
+| [**Scene 191**](#scene-191) | Unknown |  | Roleplay |
+| [**Scene 192**](#scene-192) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18 AM) | Roleplay |
+| [**Scene 193**](#scene-193) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning) | Roleplay |
+| [**Scene 194**](#scene-194) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18) | Roleplay |
+| [**Scene 195**](#scene-195) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Morning (10:18 AM)) | Roleplay |
+| [**Scene 196**](#scene-196) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18) | Roleplay |
+| [**Scene 197**](#scene-197) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (10:18 AM) | Roleplay |
+| [**Scene 198**](#scene-198) | Unknown |  | Roleplay |
+| [**Scene 199**](#scene-199) | The Black Basin - Stitcher's Workshop | Morning, Mirtul 12 (1492 DR) | Roleplay |
+| [**Scene 200**](#scene-200) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
+| [**Scene 201**](#scene-201) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (18:30) | Roleplay |
+| [**Scene 202**](#scene-202) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening 18:30) | Roleplay |
+| [**Scene 203**](#scene-203) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening (18:30)) | Roleplay |
+| [**Scene 204**](#scene-204) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (18:30) | Roleplay |
+| [**Scene 205**](#scene-205) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
+| [**Scene 206**](#scene-206) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
+| [**Scene 207**](#scene-207) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (Evening) | Roleplay |
+| [**Scene 208**](#scene-208) | The Black Basin - Stitcher's Workshop | Mirtul 12, 1492 DR (18:45) | Roleplay |
+| [**Scene 209**](#scene-209) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (02:45) | Roleplay |
+| [**Scene 210**](#scene-210) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 211**](#scene-211) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 212**](#scene-212) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 213**](#scene-213) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 214**](#scene-214) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night (02:50)) | Roleplay |
+| [**Scene 215**](#scene-215) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (02:50 AM) | Roleplay |
+| [**Scene 216**](#scene-216) | The Black Basin - Stitcher's Workshop | Mirtul 13, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 217**](#scene-217) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 218**](#scene-218) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 219**](#scene-219) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (20:00) | Roleplay |
+| [**Scene 220**](#scene-220) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evenight) | Roleplay |
+| [**Scene 221**](#scene-221) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (20:15 PM) | Roleplay |
+| [**Scene 222**](#scene-222) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 223**](#scene-223) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 224**](#scene-224) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (20:45) | Roleplay |
+| [**Scene 225**](#scene-225) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 226**](#scene-226) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 227**](#scene-227) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 228**](#scene-228) | The Gilded Pearl - Private Dining Room | Mirtul 14, 1492 DR (21:45) | Roleplay |
+| [**Scene 229**](#scene-229) | Black Basin Workshop | Mirtul 14, 1492 DR (21:50) | Roleplay |
+| [**Scene 230**](#scene-230) | Black Basin Workshop | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 231**](#scene-231) | Black Basin Workshop | Mirtul 14, 1492 DR (21:50) | Roleplay |
+| [**Scene 232**](#scene-232) | Black Basin Workshop | Mirtul 14, 1492 DR (21:56) | Roleplay |
+| [**Scene 233**](#scene-233) | Black Basin Workshop | Mirtul 14, 1492 DR (21:56) | Roleplay |
+| [**Scene 234**](#scene-234) | Baldur's Gate - Near the Crimson Mug | Mirtul 14, 1492 DR (21:58) | Roleplay |
+| [**Scene 235**](#scene-235) | Crimson Mug Tavern (Exterior) | Mirtul 14, 1492 DR (21:59) | Roleplay |
+| [**Scene 236**](#scene-236) | Crimson Mug Tavern (Exterior) | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 237**](#scene-237) | Crimson Mug Tavern (Exterior) | Mirtul 14, 1492 DR (22:05) | Roleplay |
+| [**Scene 238**](#scene-238) | Crimson Mug Tavern | Mirtul 14, 1492 DR (22:05) | Roleplay |
+| [**Scene 239**](#scene-239) | Crimson Mug Tavern | Mirtul 14, 1492 DR (22:10) | Roleplay |
+| [**Scene 240**](#scene-240) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening (Time advanced slightly for descent)) | Roleplay |
+| [**Scene 241**](#scene-241) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:20) | Roleplay |
+| [**Scene 242**](#scene-242) | Unknown |  | Roleplay |
+| [**Scene 243**](#scene-243) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 244**](#scene-244) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 245**](#scene-245) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:20) | Roleplay |
+| [**Scene 246**](#scene-246) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 247**](#scene-247) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:26) | Roleplay |
+| [**Scene 248**](#scene-248) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 249**](#scene-249) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:36) | Roleplay |
+| [**Scene 250**](#scene-250) | Crimson Mug Tavern - Secure Archives | Mirtul 14, 1492 DR (22:37) | Roleplay |
+| [**Scene 251**](#scene-251) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (22:45) | Roleplay |
+| [**Scene 252**](#scene-252) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 253**](#scene-253) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening 22:50) | Roleplay |
+| [**Scene 254**](#scene-254) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 255**](#scene-255) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 256**](#scene-256) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 257**](#scene-257) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 258**](#scene-258) | Unknown |  | Roleplay |
+| [**Scene 259**](#scene-259) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening (23:20)) | Roleplay |
+| [**Scene 260**](#scene-260) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (23:30) | Roleplay |
+| [**Scene 261**](#scene-261) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 262**](#scene-262) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 263**](#scene-263) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening (23:46)) | Roleplay |
+| [**Scene 264**](#scene-264) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 265**](#scene-265) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 266**](#scene-266) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 267**](#scene-267) | Elfsong Tavern - Penthouse | Mirtul 14, Year 1492 DR (23:56) | Roleplay |
+| [**Scene 268**](#scene-268) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 269**](#scene-269) | Elfsong Tavern - Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 270**](#scene-270) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 271**](#scene-271) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 272**](#scene-272) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (00:05 Evening) | Roleplay |
+| [**Scene 273**](#scene-273) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 274**](#scene-274) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening (00:06)) | Roleplay |
+| [**Scene 275**](#scene-275) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 276**](#scene-276) | Black Basin Workshop | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 277**](#scene-277) | Black Basin Workshop | Mirtul 14, 1492 DR (00:30 AM) | Roleplay |
+| [**Scene 278**](#scene-278) | Black Basin Workshop | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 279**](#scene-279) | Black Basin Workshop | Mirtul 14, 1492 DR (Evening (00:40)) | Roleplay |
+| [**Scene 280**](#scene-280) | Black Basin Workshop | Mirtul 14, 1492 DR (00:40) | Roleplay |
+| [**Scene 281**](#scene-281) | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
+| [**Scene 282**](#scene-282) | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
+| [**Scene 283**](#scene-283) | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
+| [**Scene 284**](#scene-284) | Black Basin Workshop | Mirtul 14, 1492 DR (00:45) | Roleplay |
+| [**Scene 285**](#scene-285) | Approaching Elfsong Tavern Penthouse | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 286**](#scene-286) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 287**](#scene-287) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 288**](#scene-288) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 289**](#scene-289) | Zarys's Penthouse - Elfsong Tavern |  | Roleplay |
+| [**Scene 290**](#scene-290) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 291**](#scene-291) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:50) | Roleplay |
+| [**Scene 292**](#scene-292) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:51) | Roleplay |
+| [**Scene 293**](#scene-293) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 294**](#scene-294) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 295**](#scene-295) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 296**](#scene-296) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:57) | Roleplay |
+| [**Scene 297**](#scene-297) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 298**](#scene-298) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening (00:57)) | Roleplay |
+| [**Scene 299**](#scene-299) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening (00:57)) | Roleplay |
+| [**Scene 300**](#scene-300) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 301**](#scene-301) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:57) | Roleplay |
+| [**Scene 302**](#scene-302) | Unknown |  | Roleplay |
+| [**Scene 303**](#scene-303) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (00:58) | Roleplay |
+| [**Scene 304**](#scene-304) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (01:15) | Roleplay |
+| [**Scene 305**](#scene-305) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 306**](#scene-306) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 307**](#scene-307) | Unknown |  | Roleplay |
+| [**Scene 308**](#scene-308) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 309**](#scene-309) | Zarys's Penthouse - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 310**](#scene-310) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (20:32) | Roleplay |
+| [**Scene 311**](#scene-311) | Unknown |  | Roleplay |
+| [**Scene 312**](#scene-312) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 313**](#scene-313) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 314**](#scene-314) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (Night) | Roleplay |
+| [**Scene 315**](#scene-315) | Zhentarim Restricted Armory - Elfsong Tavern | Mirtul 14, 1492 DR (23:31) | Roleplay |
+| [**Scene 316**](#scene-316) | Unknown |  | Roleplay |
+| [**Scene 317**](#scene-317) | Warehouse District - Baldur's Gate | Mirtul 14, 1492 DR (23:31) | Roleplay |
+| [**Scene 318**](#scene-318) | Western Perimeter - Warehouse District | Mirtul 14, 1492 DR (23:42) | Roleplay |
+| [**Scene 319**](#scene-319) | Archive Vault Basement - House Nocturne | Mirtul 14, 1492 DR (23:42) | Roleplay |
+| [**Scene 320**](#scene-320) | Archive Vault Basement - House Nocturne | Mirtul 14, 1492 DR (23:42) | Roleplay |
+| [**Scene 321**](#scene-321) | Archive Vault Basement - House Nocturne | Mirtul 14, 1492 DR (Night) | Roleplay |
+| [**Scene 322**](#scene-322) | Sea Ward - Valeria Thorne Townhouse | Mirtul 14, 1492 DR (23:49) | Roleplay |
+| [**Scene 323**](#scene-323) | Valeria Thorne Townhouse - Main Chamber | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 324**](#scene-324) | House Nocturne Warehouse - Interior Courtyard | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 325**](#scene-325) | House Nocturne Warehouse - Sealed Vault Chamber | Mirtul 14, 1492 DR (Night (23:54)) | Roleplay |
+| [**Scene 326**](#scene-326) | House Nocturne Warehouse - Maintenance Tunnel Entry | Mirtul 14, 1492 DR (Night) | Roleplay |
+| [**Scene 327**](#scene-327) | House Nocturne Warehouse - Maintenance Tunnel | Mirtul 14, 1492 DR (Night (23:51)) | Roleplay |
+| [**Scene 328**](#scene-328) | House Nocturne Warehouse - Left Passage | Mirtul 14, 1492 DR (23:53) | Roleplay |
+| [**Scene 329**](#scene-329) | House Nocturne Warehouse - Maintenance Access | Mirtul 14, 1492 DR (23:56) | Roleplay |
+| [**Scene 330**](#scene-330) | Baldur's Gate - Warehouse District Streets | Mirtul 15, 1492 DR (00:00) | Roleplay |
+| [**Scene 331**](#scene-331) | Baldur's Gate - Warehouse District Streets | Mirtul 14, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 332**](#scene-332) | Baldur's Gate - Warehouse District Streets | Mirtul 14, 1492 DR (Evening) | Roleplay |
+| [**Scene 333**](#scene-333) | Baldur's Gate - Warehouse District Rooftop | Mirtul 14, 1492 DR (Midnight) | Roleplay |
+| [**Scene 334**](#scene-334) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 335**](#scene-335) | Unknown |  | Roleplay |
+| [**Scene 336**](#scene-336) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (00:15) | Roleplay |
+| [**Scene 337**](#scene-337) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 338**](#scene-338) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (00:10) | Roleplay |
+| [**Scene 339**](#scene-339) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (00:10) | Roleplay |
+| [**Scene 340**](#scene-340) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (1:15 AM) | Roleplay |
+| [**Scene 341**](#scene-341) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:40 AM) | Roleplay |
+| [**Scene 342**](#scene-342) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:41) | Roleplay |
+| [**Scene 343**](#scene-343) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (1:42 AM) | Roleplay |
+| [**Scene 344**](#scene-344) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:43) | Roleplay |
+| [**Scene 345**](#scene-345) | Unknown |  | Roleplay |
+| [**Scene 346**](#scene-346) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (1:43 AM) | Roleplay |
+| [**Scene 347**](#scene-347) | Unknown |  | Roleplay |
+| [**Scene 348**](#scene-348) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:43) | Roleplay |
+| [**Scene 349**](#scene-349) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night (01:43)) | Roleplay |
+| [**Scene 350**](#scene-350) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:43) | Roleplay |
+| [**Scene 351**](#scene-351) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (01:48 AM) | Roleplay |
+| [**Scene 352**](#scene-352) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night (01:53)) | Roleplay |
+| [**Scene 353**](#scene-353) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night (01:53)) | Roleplay |
+| [**Scene 354**](#scene-354) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:18 AM) | Roleplay |
+| [**Scene 355**](#scene-355) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:22) | Roleplay |
+| [**Scene 356**](#scene-356) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 357**](#scene-357) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 358**](#scene-358) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:30) | Roleplay |
+| [**Scene 359**](#scene-359) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:42) | Roleplay |
+| [**Scene 360**](#scene-360) | Baldur's Gate - Warehouse District Rooftop | Mirtul 15, 1492 DR (02:32 AM) | Roleplay |
+| [**Scene 361**](#scene-361) | Baldur's Gate - Silvershield Manor Grounds | Mirtul 15, 1492 DR (02:48) | Roleplay |
+| [**Scene 362**](#scene-362) | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:48) | Roleplay |
+| [**Scene 363**](#scene-363) | Unknown |  | Roleplay |
+| [**Scene 364**](#scene-364) | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:53 AM) | Roleplay |
+| [**Scene 365**](#scene-365) | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:55 AM) | Roleplay |
+| [**Scene 366**](#scene-366) | Silvershield Manor Gardens | Mirtul 15, 1492 DR (02:58) | Roleplay |
+| [**Scene 367**](#scene-367) | Silvershield Manor Gardens | Mirtul 15, 1492 DR (03:04 AM) | Roleplay |
+| [**Scene 368**](#scene-368) | Silvershield Manor Gardens | Mirtul 15, 1492 DR (3:04 AM) | Roleplay |
+| [**Scene 369**](#scene-369) | Unknown |  | Roleplay |
+| [**Scene 370**](#scene-370) | Silvershield Manor Gardens | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 371**](#scene-371) | DM MODE - Meta Discussion | Mirtul 15, 1492 DR (3:10 AM) | Roleplay |
+| [**Scene 372**](#scene-372) | DM MODE | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 373**](#scene-373) | DM MODE | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 374**](#scene-374) | Outside Silvershield Manor | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 375**](#scene-375) | Silvershield Manor - Entrance Gardens | Mirtul 15, 1492 DR (03:38 AM) | Roleplay |
+| [**Scene 376**](#scene-376) | Silvershield Manor - Entrance Gardens | Mirtul 15, 1492 DR (03:46 AM) | Roleplay |
+| [**Scene 377**](#scene-377) | Silvershield Manor - Entrance Gardens | Mirtul 15, 1492 DR (3:46 AM) | Roleplay |
+| [**Scene 378**](#scene-378) | Silvershield Manor - Main Hall | Mirtul 15, 1492 DR (3:48 AM) | Roleplay |
+| [**Scene 379**](#scene-379) | Silvershield Manor - Main Hall |  | Roleplay |
+| [**Scene 380**](#scene-380) | Silvershield Manor - Main Hall | Mirtul 15, 1492 DR (03:48) | Roleplay |
+| [**Scene 381**](#scene-381) | Silvershield Manor - Western Wing Entrance | Mirtul 15, 1492 DR (03:53) | Roleplay |
+| [**Scene 382**](#scene-382) | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (3:53 AM) | Roleplay |
+| [**Scene 383**](#scene-383) | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (3:53 AM) | Roleplay |
+| [**Scene 384**](#scene-384) | GOD MODE - Mechanics Clarification | Mirtul 15, 1492 DR (3:53 AM) | Roleplay |
+| [**Scene 385**](#scene-385) | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (3:55 AM) | Roleplay |
+| [**Scene 386**](#scene-386) | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (Night (3:55 AM)) | Roleplay |
+| [**Scene 387**](#scene-387) | Silvershield Manor - Western Wing Corridor | Mirtul 15, 1492 DR (4:05 AM) | Roleplay |
+| [**Scene 388**](#scene-388) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (06:06) | Roleplay |
+| [**Scene 389**](#scene-389) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Morning (06:09)) | Roleplay |
+| [**Scene 390**](#scene-390) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (06:15) | Roleplay |
+| [**Scene 391**](#scene-391) | Unknown |  | Roleplay |
+| [**Scene 392**](#scene-392) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Morning (6:26 AM)) | Roleplay |
+| [**Scene 393**](#scene-393) | Silvershield Manor - Western Wing Panic Room |  | Roleplay |
+| [**Scene 394**](#scene-394) | Unknown |  | Roleplay |
+| [**Scene 395**](#scene-395) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 396**](#scene-396) | Silvershield Manor - Western Wing Panic Room |  | Roleplay |
+| [**Scene 397**](#scene-397) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 398**](#scene-398) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 399**](#scene-399) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:05) | Roleplay |
+| [**Scene 400**](#scene-400) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:10) | Roleplay |
+| [**Scene 401**](#scene-401) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 402**](#scene-402) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening (20:05)) | Roleplay |
+| [**Scene 403**](#scene-403) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:06) | Roleplay |
+| [**Scene 404**](#scene-404) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 405**](#scene-405) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (8:15 PM) | Roleplay |
+| [**Scene 406**](#scene-406) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:15) | Roleplay |
+| [**Scene 407**](#scene-407) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:15) | Roleplay |
+| [**Scene 408**](#scene-408) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:18) | Roleplay |
+| [**Scene 409**](#scene-409) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (20:15) | Roleplay |
+| [**Scene 410**](#scene-410) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 411**](#scene-411) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening (20:35)) | Roleplay |
+| [**Scene 412**](#scene-412) | Silvershield Manor - Western Wing Panic Room | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 413**](#scene-413) | Unknown |  | Roleplay |
+| [**Scene 414**](#scene-414) | Ducal Palace - Rooftop Overlook | Mirtul 15, 1492 DR (21:50) | Roleplay |
+| [**Scene 415**](#scene-415) | Ducal Palace - Rooftop Overlook | Mirtul 15, 1492 DR (21:55) | Roleplay |
+| [**Scene 416**](#scene-416) | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (Evening) | Roleplay |
+| [**Scene 417**](#scene-417) | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (Night) | Roleplay |
+| [**Scene 418**](#scene-418) | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (23:10) | Roleplay |
+| [**Scene 419**](#scene-419) | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (11:00 PM) | Roleplay |
+| [**Scene 420**](#scene-420) | Ducal Palace - Hidden Command Center | Mirtul 15, 1492 DR (23:00) | Roleplay |
+| [**Scene 421**](#scene-421) | Unknown |  | Roleplay |
+| [**Scene 422**](#scene-422) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 423**](#scene-423) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (01:00) | Roleplay |
+| [**Scene 424**](#scene-424) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 425**](#scene-425) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:15) | Roleplay |
+| [**Scene 426**](#scene-426) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (01:30) | Roleplay |
+| [**Scene 427**](#scene-427) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night (01:45) | Roleplay |
+| [**Scene 428**](#scene-428) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (01:45) | Roleplay |
+| [**Scene 429**](#scene-429) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 430**](#scene-430) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 431**](#scene-431) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30) | Roleplay |
+| [**Scene 432**](#scene-432) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 433**](#scene-433) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 434**](#scene-434) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 435**](#scene-435) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night (2:30 AM)) | Roleplay |
+| [**Scene 436**](#scene-436) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (2:30 AM) | Roleplay |
+| [**Scene 437**](#scene-437) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30) | Roleplay |
+| [**Scene 438**](#scene-438) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30 Deep Night) | Roleplay |
+| [**Scene 439**](#scene-439) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 440**](#scene-440) | Ducal Palace - Hidden Command Center | Mirtul 16, 1492 DR (02:30) | Roleplay |
+| [**Scene 441**](#scene-441) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
+| [**Scene 442**](#scene-442) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
+| [**Scene 443**](#scene-443) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
+| [**Scene 444**](#scene-444) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:31) | Roleplay |
+| [**Scene 445**](#scene-445) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night (02:41 AM)) | Roleplay |
+| [**Scene 446**](#scene-446) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 447**](#scene-447) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:41) | Roleplay |
+| [**Scene 448**](#scene-448) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 449**](#scene-449) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 450**](#scene-450) | Abandoned Sosuke Family Chapel | Mirtul 16, 1492 DR (02:45) | Roleplay |
+| [**Scene 451**](#scene-451) | Warehouse 17 | Mirtul 16, 1492 DR (03:00 Deep Night) | Roleplay |
+| [**Scene 452**](#scene-452) | Hidden Command Center | Mirtul 16, 1492 DR (Midday) | Roleplay |
+| [**Scene 453**](#scene-453) | Hidden Command Center | Mirtul 16, 1492 DR (Midday) | Roleplay |
+| [**Scene 454**](#scene-454) | High Throne Chamber Balcony | Mirtul 16, 1492 DR (Evening) | Roleplay |
+| [**Scene 455**](#scene-455) | High Throne Chamber Balcony | Mirtul 16, 1492 DR (Evening) | Roleplay |
+| [**Scene 456**](#scene-456) | High Throne Chamber Balcony | Mirtul 17, 1492 DR (Midnight) | Roleplay |
+| [**Scene 457**](#scene-457) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (04:30) | Roleplay |
+| [**Scene 458**](#scene-458) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (04:45) | Roleplay |
+| [**Scene 459**](#scene-459) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Deep Night) | Roleplay |
+| [**Scene 460**](#scene-460) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Late Evening) | Roleplay |
+| [**Scene 461**](#scene-461) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
+| [**Scene 462**](#scene-462) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
+| [**Scene 463**](#scene-463) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (22:15) | Roleplay |
+| [**Scene 464**](#scene-464) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
+| [**Scene 465**](#scene-465) | Ducal Palace - Administrative Chamber | Mirtul 17, 1492 DR (Evening) | Roleplay |
+| [**Scene 466**](#scene-466) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Mid-Morning) | Roleplay |
+| [**Scene 467**](#scene-467) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
+| [**Scene 468**](#scene-468) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (10:30) | Roleplay |
+| [**Scene 469**](#scene-469) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (10:30 AM) | Roleplay |
+| [**Scene 470**](#scene-470) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
+| [**Scene 471**](#scene-471) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Mid-Morning) | Roleplay |
+| [**Scene 472**](#scene-472) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
+| [**Scene 473**](#scene-473) | Unknown |  | Roleplay |
+| [**Scene 474**](#scene-474) | Unknown |  | Roleplay |
+| [**Scene 475**](#scene-475) | Unknown |  | Roleplay |
+| [**Scene 476**](#scene-476) | Unknown |  | Roleplay |
+| [**Scene 477**](#scene-477) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
+| [**Scene 478**](#scene-478) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:30) | Roleplay |
+| [**Scene 479**](#scene-479) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:32 AM) | Roleplay |
+| [**Scene 480**](#scene-480) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
+| [**Scene 481**](#scene-481) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 482**](#scene-482) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 483**](#scene-483) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 484**](#scene-484) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:32 AM) | Roleplay |
+| [**Scene 485**](#scene-485) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (11:32) | Roleplay |
+| [**Scene 486**](#scene-486) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 487**](#scene-487) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 488**](#scene-488) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Morning) | Roleplay |
+| [**Scene 489**](#scene-489) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 490**](#scene-490) | Ducal Palace - Administrative Chamber | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 491**](#scene-491) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 492**](#scene-492) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 493**](#scene-493) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 494**](#scene-494) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (21:00) | Roleplay |
+| [**Scene 495**](#scene-495) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 496**](#scene-496) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 497**](#scene-497) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 498**](#scene-498) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 499**](#scene-499) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (21:11) | Roleplay |
+| [**Scene 500**](#scene-500) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (21:15) | Roleplay |
+| [**Scene 501**](#scene-501) | Unknown |  | Roleplay |
+| [**Scene 502**](#scene-502) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 503**](#scene-503) | Unknown |  | Roleplay |
+| [**Scene 504**](#scene-504) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 505**](#scene-505) | Elfsong Tavern - Penthouse | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 506**](#scene-506) | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 507**](#scene-507) | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening (21:15)) | Roleplay |
+| [**Scene 508**](#scene-508) | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 509**](#scene-509) | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 510**](#scene-510) | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 511**](#scene-511) | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 512**](#scene-512) | Administrative Chamber - Ducal Palace | Mirtul 18, 1492 DR (21:15) | Roleplay |
+| [**Scene 513**](#scene-513) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening (21:20)) | Roleplay |
+| [**Scene 514**](#scene-514) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 515**](#scene-515) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 516**](#scene-516) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 517**](#scene-517) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:25) | Roleplay |
+| [**Scene 518**](#scene-518) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 519**](#scene-519) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (Evening) | Roleplay |
+| [**Scene 520**](#scene-520) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:26) | Roleplay |
+| [**Scene 521**](#scene-521) | Zhentarim Penthouse - Elfsong Tavern | 1492 DR Mirtul 18, 21:26:30 | Roleplay |
+| [**Scene 522**](#scene-522) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:26) | Roleplay |
+| [**Scene 523**](#scene-523) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 524**](#scene-524) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 525**](#scene-525) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (22:25) | Roleplay |
+| [**Scene 526**](#scene-526) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (23:45) | Roleplay |
+| [**Scene 527**](#scene-527) | Zhentarim Penthouse - Elfsong Tavern | Mirtul 18, 1492 DR (22:25) | Roleplay |
+| [**Scene 528**](#scene-528) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:26) | Roleplay |
+| [**Scene 529**](#scene-529) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:27) | Roleplay |
+| [**Scene 530**](#scene-530) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:27) | Roleplay |
+| [**Scene 531**](#scene-531) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (22:30) | Roleplay |
+| [**Scene 532**](#scene-532) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 533**](#scene-533) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 534**](#scene-534) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 535**](#scene-535) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
+| [**Scene 536**](#scene-536) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 537**](#scene-537) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
+| [**Scene 538**](#scene-538) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
+| [**Scene 539**](#scene-539) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
+| [**Scene 540**](#scene-540) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 541**](#scene-541) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
+| [**Scene 542**](#scene-542) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 543**](#scene-543) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 544**](#scene-544) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 545**](#scene-545) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 546**](#scene-546) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 547**](#scene-547) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 548**](#scene-548) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 549**](#scene-549) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 550**](#scene-550) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 551**](#scene-551) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 552**](#scene-552) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (21:25) | Roleplay |
+| [**Scene 553**](#scene-553) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| [**Scene 554**](#scene-554) | Elder Valerius's Compound - Calimport | Mirtul 15, 1492 DR (14:31) | Roleplay |
+| [**Scene 555**](#scene-555) | Unknown |  | Roleplay |
+| [**Scene 556**](#scene-556) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 557**](#scene-557) | Unknown |  | Roleplay |
+| [**Scene 558**](#scene-558) | Unknown |  | Roleplay |
+| [**Scene 559**](#scene-559) | Unknown |  | Roleplay |
+| [**Scene 560**](#scene-560) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:25) | Roleplay |
+| [**Scene 561**](#scene-561) | Unknown |  | Roleplay |
+| [**Scene 562**](#scene-562) | Elder Valerius's Compound - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 563**](#scene-563) | Unknown |  | Roleplay |
+| [**Scene 564**](#scene-564) | Unknown |  | Roleplay |
+| [**Scene 565**](#scene-565) | Unknown |  | Roleplay |
+| [**Scene 566**](#scene-566) | Unknown |  | Roleplay |
+| [**Scene 567**](#scene-567) | Unknown |  | Roleplay |
+| [**Scene 568**](#scene-568) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 569**](#scene-569) | Unknown |  | Roleplay |
+| [**Scene 570**](#scene-570) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 571**](#scene-571) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 572**](#scene-572) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 573**](#scene-573) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 574**](#scene-574) | Zarys's Penthouse | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 575**](#scene-575) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 576**](#scene-576) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 577**](#scene-577) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 578**](#scene-578) | Zarys's Penthouse | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 579**](#scene-579) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 580**](#scene-580) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 581**](#scene-581) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 582**](#scene-582) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 583**](#scene-583) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 584**](#scene-584) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 585**](#scene-585) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 586**](#scene-586) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 587**](#scene-587) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 588**](#scene-588) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 589**](#scene-589) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 590**](#scene-590) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 591**](#scene-591) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 592**](#scene-592) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 593**](#scene-593) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 594**](#scene-594) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 595**](#scene-595) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 596**](#scene-596) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 597**](#scene-597) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 598**](#scene-598) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 599**](#scene-599) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 600**](#scene-600) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 601**](#scene-601) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 602**](#scene-602) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 603**](#scene-603) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:34) | Roleplay |
+| [**Scene 604**](#scene-604) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 605**](#scene-605) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 606**](#scene-606) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 607**](#scene-607) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 608**](#scene-608) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 609**](#scene-609) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 610**](#scene-610) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:34) | Roleplay |
+| [**Scene 611**](#scene-611) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 612**](#scene-612) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 613**](#scene-613) | Zarys's Penthouse - Calimport | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 614**](#scene-614) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 615**](#scene-615) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 616**](#scene-616) | Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 617**](#scene-617) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 618**](#scene-618) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 619**](#scene-619) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 620**](#scene-620) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 621**](#scene-621) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 622**](#scene-622) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 623**](#scene-623) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:35) | Roleplay |
+| [**Scene 624**](#scene-624) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 625**](#scene-625) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 626**](#scene-626) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 627**](#scene-627) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 628**](#scene-628) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 629**](#scene-629) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:36) | Roleplay |
+| [**Scene 630**](#scene-630) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 631**](#scene-631) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 632**](#scene-632) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
+| [**Scene 633**](#scene-633) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 634**](#scene-634) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
+| [**Scene 635**](#scene-635) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
+| [**Scene 636**](#scene-636) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
+| [**Scene 637**](#scene-637) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
+| [**Scene 638**](#scene-638) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 639**](#scene-639) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:53) | Roleplay |
+| [**Scene 640**](#scene-640) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 641**](#scene-641) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 642**](#scene-642) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 643**](#scene-643) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 644**](#scene-644) | Unknown |  | Roleplay |
+| [**Scene 645**](#scene-645) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 646**](#scene-646) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 647**](#scene-647) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 648**](#scene-648) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 649**](#scene-649) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 650**](#scene-650) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 651**](#scene-651) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 652**](#scene-652) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 653**](#scene-653) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 654**](#scene-654) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 655**](#scene-655) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 656**](#scene-656) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 657**](#scene-657) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 658**](#scene-658) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 659**](#scene-659) | Hidden Forge District - Vaelen's Chamber | Mirtul 18, 1492 DR (21:52) | Roleplay |
+| [**Scene 660**](#scene-660) | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:55) | Roleplay |
+| [**Scene 661**](#scene-661) | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:55) | Roleplay |
+| [**Scene 662**](#scene-662) | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 663**](#scene-663) | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 664**](#scene-664) | Cormyr - Suzail Rooftop | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 665**](#scene-665) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 666**](#scene-666) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 667**](#scene-667) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 668**](#scene-668) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 669**](#scene-669) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 670**](#scene-670) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 671**](#scene-671) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 672**](#scene-672) | Unknown |  | Roleplay |
+| [**Scene 673**](#scene-673) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 674**](#scene-674) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 675**](#scene-675) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 676**](#scene-676) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 677**](#scene-677) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 678**](#scene-678) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 679**](#scene-679) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 680**](#scene-680) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 681**](#scene-681) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 682**](#scene-682) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:32) | Roleplay |
+| [**Scene 683**](#scene-683) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 684**](#scene-684) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 685**](#scene-685) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 686**](#scene-686) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 687**](#scene-687) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492-05-18 DR (21:32) | Roleplay |
+| [**Scene 688**](#scene-688) | Cormyr - Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 689**](#scene-689) | Elder Marcus's Ballroom | 1492-05-18 21:31:15 | Roleplay |
+| [**Scene 690**](#scene-690) | Elder Marcus's Ballroom |  | Roleplay |
+| [**Scene 691**](#scene-691) | Elder Marcus's Ballroom | Mirtul 18, 1492 DR (21:33) | Roleplay |
+| [**Scene 692**](#scene-692) | Elder Marcus's Manor | Mirtul 18, 1492 DR (21:48) | Roleplay |
+| [**Scene 693**](#scene-693) | Elder Marcus's Manor | Mirtul 18, 1492 DR (22:18) | Roleplay |
+| [**Scene 694**](#scene-694) | Elder Marcus's Study | Mirtul 18, 1492 DR (22:45) | Roleplay |
+| [**Scene 695**](#scene-695) | Elder Marcus's Manor | Mirtul 18, 1492 DR (22:20) | Roleplay |
+| [**Scene 696**](#scene-696) | Elder Marcus's Manor | Mirtul 18, 1492 DR (22:18) | Roleplay |
+| [**Scene 697**](#scene-697) | Elder Marcus's Study | Mirtul 19, 1492 DR (10:18) | Roleplay |
+| [**Scene 698**](#scene-698) | The Yawning Portal approach | Mirtul 19, 1492 DR (18:30) | Roleplay |
+| [**Scene 699**](#scene-699) | Waterdeep - The Yawning Portal (Roof) | Mirtul 19, 1492 DR (18:45) | Roleplay |
+| [**Scene 700**](#scene-700) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:30) | Roleplay |
+| [**Scene 701**](#scene-701) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:31) | Roleplay |
+| [**Scene 702**](#scene-702) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:32) | Roleplay |
+| [**Scene 703**](#scene-703) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:35) | Roleplay |
+| [**Scene 704**](#scene-704) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:45) | Roleplay |
+| [**Scene 705**](#scene-705) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (18:35) | Roleplay |
+| [**Scene 706**](#scene-706) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (19:05) | Roleplay |
+| [**Scene 707**](#scene-707) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (21:45) | Roleplay |
+| [**Scene 708**](#scene-708) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (19:45) | Roleplay |
+| [**Scene 709**](#scene-709) | Lady Selene's Sanctum (Undermountain) | Mirtul 19, 1492 DR (20:00) | Roleplay |
+| [**Scene 710**](#scene-710) | Tharivol's Peak Fortress (Silver Marches) | Mirtul 19, 1492 DR (20:15) | Roleplay |
+| [**Scene 711**](#scene-711) | Tharivol's Peak Fortress (Silver Marches) | Mirtul 19, 1492 DR (21:15) | Roleplay |
+| [**Scene 712**](#scene-712) | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:30) | Roleplay |
+| [**Scene 713**](#scene-713) | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:45) | Roleplay |
+| [**Scene 714**](#scene-714) | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:45) | Roleplay |
+| [**Scene 715**](#scene-715) | Tharivol's Peak Fortress (Silver Marches) | Mirtul 20, 1492 DR (00:45) | Roleplay |
+| [**Scene 716**](#scene-716) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:00) | Roleplay |
+| [**Scene 717**](#scene-717) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:05) | Roleplay |
+| [**Scene 718**](#scene-718) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:15) | Roleplay |
+| [**Scene 719**](#scene-719) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
+| [**Scene 720**](#scene-720) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:30) | Roleplay |
+| [**Scene 721**](#scene-721) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:45) | Roleplay |
+| [**Scene 722**](#scene-722) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:45) | Roleplay |
+| [**Scene 723**](#scene-723) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:50) | Roleplay |
+| [**Scene 724**](#scene-724) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:50) | Roleplay |
+| [**Scene 725**](#scene-725) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:55) | Roleplay |
+| [**Scene 726**](#scene-726) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:55) | Roleplay |
+| [**Scene 727**](#scene-727) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:57) | Roleplay |
+| [**Scene 728**](#scene-728) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (01:58) | Roleplay |
+| [**Scene 729**](#scene-729) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
+| [**Scene 730**](#scene-730) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
+| [**Scene 731**](#scene-731) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
+| [**Scene 732**](#scene-732) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:03) | Roleplay |
+| [**Scene 733**](#scene-733) | Mount Hotenow - The Obsidian Sanctum (Great Nexus) | Mirtul 20, 1492 DR (02:03) | Roleplay |
+| [**Scene 734**](#scene-734) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
+| [**Scene 735**](#scene-735) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
+| [**Scene 736**](#scene-736) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
+| [**Scene 737**](#scene-737) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
+| [**Scene 738**](#scene-738) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:15) | Roleplay |
+| [**Scene 739**](#scene-739) | Mount Hotenow - The Obsidian Sanctum (Great Nexus) | Mirtul 20, 1492 DR (02:16) | Roleplay |
+| [**Scene 740**](#scene-740) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (02:18) | Roleplay |
+| [**Scene 741**](#scene-741) | Mount Hotenow - The Great Nexus | Mirtul 20, 1492 DR (02:20) | Roleplay |
+| [**Scene 742**](#scene-742) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (03:00) | Roleplay |
+| [**Scene 743**](#scene-743) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:00) | Roleplay |
+| [**Scene 744**](#scene-744) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:00) | Roleplay |
+| [**Scene 745**](#scene-745) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:15) | Roleplay |
+| [**Scene 746**](#scene-746) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:30) | Roleplay |
+| [**Scene 747**](#scene-747) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:45) | Roleplay |
+| [**Scene 748**](#scene-748) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:35) | Roleplay |
+| [**Scene 749**](#scene-749) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:35) | Roleplay |
+| [**Scene 750**](#scene-750) | Unknown |  | Roleplay |
+| [**Scene 751**](#scene-751) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (04:30) | Roleplay |
+| [**Scene 752**](#scene-752) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
+| [**Scene 753**](#scene-753) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:40) | Roleplay |
+| [**Scene 754**](#scene-754) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
+| [**Scene 755**](#scene-755) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
+| [**Scene 756**](#scene-756) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
+| [**Scene 757**](#scene-757) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
+| [**Scene 758**](#scene-758) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
+| [**Scene 759**](#scene-759) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:35) | Roleplay |
+| [**Scene 760**](#scene-760) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:45) | Roleplay |
+| [**Scene 761**](#scene-761) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (05:45) | Roleplay |
+| [**Scene 762**](#scene-762) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 763**](#scene-763) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 764**](#scene-764) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 765**](#scene-765) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 766**](#scene-766) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 767**](#scene-767) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (14:00) | Roleplay |
+| [**Scene 768**](#scene-768) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:30) | Roleplay |
+| [**Scene 769**](#scene-769) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 770**](#scene-770) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 771**](#scene-771) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:35) | Roleplay |
+| [**Scene 772**](#scene-772) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:00) | Roleplay |
+| [**Scene 773**](#scene-773) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (06:15) | Roleplay |
+| [**Scene 774**](#scene-774) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (07:15) | Roleplay |
+| [**Scene 775**](#scene-775) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:41) | Roleplay |
+| [**Scene 776**](#scene-776) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:45) | Roleplay |
+| [**Scene 777**](#scene-777) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:45) | Roleplay |
+| [**Scene 778**](#scene-778) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
+| [**Scene 779**](#scene-779) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:05) | Roleplay |
+| [**Scene 780**](#scene-780) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:10) | Roleplay |
+| [**Scene 781**](#scene-781) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:55) | Roleplay |
+| [**Scene 782**](#scene-782) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
+| [**Scene 783**](#scene-783) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
+| [**Scene 784**](#scene-784) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:00) | Roleplay |
+| [**Scene 785**](#scene-785) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (19:10) | Roleplay |
+| [**Scene 786**](#scene-786) | Mount Hotenow - The Obsidian Sanctum | Mirtul 20, 1492 DR (18:55) | Roleplay |
+| [**Scene 787**](#scene-787) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (05:00) | Roleplay |
+| [**Scene 788**](#scene-788) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:15) | Roleplay |
+| [**Scene 789**](#scene-789) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20) | Roleplay |
+| [**Scene 790**](#scene-790) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20) | Roleplay |
+| [**Scene 791**](#scene-791) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:20) | Roleplay |
+| [**Scene 792**](#scene-792) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20) | Roleplay |
+| [**Scene 793**](#scene-793) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (06:20 (Dawn)) | Roleplay |
+| [**Scene 794**](#scene-794) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:10) | Roleplay |
+| [**Scene 795**](#scene-795) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:20) | Roleplay |
+| [**Scene 796**](#scene-796) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:30) | Roleplay |
+| [**Scene 797**](#scene-797) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:40) | Roleplay |
+| [**Scene 798**](#scene-798) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (07:45) | Roleplay |
+| [**Scene 799**](#scene-799) | Mount Hotenow - The Obsidian Sanctum | Mirtul 21, 1492 DR (15:45) | Roleplay |
+| [**Scene 800**](#scene-800) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:00) | Roleplay |
+| [**Scene 801**](#scene-801) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:15) | Roleplay |
+| [**Scene 802**](#scene-802) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:20) | Roleplay |
+| [**Scene 803**](#scene-803) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:25) | Roleplay |
+| [**Scene 804**](#scene-804) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (07:25) | Roleplay |
+| [**Scene 805**](#scene-805) | Mount Hotenow - The Obsidian Sanctum / The Moonsea - Argent Spire | Mirtul 22, 1492 DR (07:40) | Roleplay |
+| [**Scene 806**](#scene-806) | The Moonsea - Argent Spire | Mirtul 22, 1492 DR (07:45) | Roleplay |
+| [**Scene 807**](#scene-807) | Argent Spire - Caspian's Private Chambers | Mirtul 22, 1492 DR (08:00) | Roleplay |
+| [**Scene 808**](#scene-808) | Argent Spire - Caspian's Private Chambers | Mirtul 22, 1492 DR (08:05) | Roleplay |
+| [**Scene 809**](#scene-809) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (08:20) | Roleplay |
+| [**Scene 810**](#scene-810) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (08:50) | Roleplay |
+| [**Scene 811**](#scene-811) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (12:50) | Roleplay |
+| [**Scene 812**](#scene-812) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:00) | Roleplay |
+| [**Scene 813**](#scene-813) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:00) | Roleplay |
+| [**Scene 814**](#scene-814) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:05) | Roleplay |
+| [**Scene 815**](#scene-815) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:05) | Roleplay |
+| [**Scene 816**](#scene-816) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (13:05) | Roleplay |
+| [**Scene 817**](#scene-817) | Mount Hotenow - The Obsidian Sanctum | Mirtul 22, 1492 DR (14:05) | Roleplay |
+| [**Scene 818**](#scene-818) | Baldur's Gate (Avatar) / Mount Hotenow (Prime) | Mirtul 23, 1492 DR (14:05) | Roleplay |
+| [**Scene 819**](#scene-819) | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
+| [**Scene 820**](#scene-820) | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
+| [**Scene 821**](#scene-821) | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
+| [**Scene 822**](#scene-822) | Mount Hotenow - The Obsidian Sanctum | Mirtul 25, 1492 DR (14:05) | Roleplay |
+| [**Scene 823**](#scene-823) | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:30) | Roleplay |
+| [**Scene 824**](#scene-824) | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:45) | Roleplay |
+| [**Scene 825**](#scene-825) | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:30) | Roleplay |
+| [**Scene 826**](#scene-826) | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (08:30) | Roleplay |
+| [**Scene 827**](#scene-827) | Mount Hotenow - The Obsidian Sanctum | Mirtul 24, 1492 DR (09:30) | Roleplay |
+| [**Scene 828**](#scene-828) | The Crypt of the First Dogma | Mirtul 24, 1492 DR (09:35) | Roleplay |
+| [**Scene 829**](#scene-829) | The Crypt of the First Dogma | Mirtul 25, 1492 DR (09:35) | Roleplay |
+| [**Scene 830**](#scene-830) | The Crypt of the First Dogma (Ruins) | Mirtul 24, 1492 DR (11:30) | Roleplay |
+| [**Scene 831**](#scene-831) | The Crypt of the First Dogma (Ruins) | Mirtul 24, 1492 DR (11:30) | Roleplay |
+| [**Scene 832**](#scene-832) | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:35) | Roleplay |
+| [**Scene 833**](#scene-833) | The Obsidian Sanctum | Mirtul 25, 1492 DR (09:35) | Roleplay |
+| [**Scene 834**](#scene-834) | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:30) | Roleplay |
+| [**Scene 835**](#scene-835) | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:30) | Roleplay |
+| [**Scene 836**](#scene-836) | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:30) | Roleplay |
+| [**Scene 837**](#scene-837) | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:30) | Roleplay |
+| [**Scene 838**](#scene-838) | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:30) | Roleplay |
+| [**Scene 839**](#scene-839) | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:35) | Roleplay |
+| [**Scene 840**](#scene-840) | The Obsidian Sanctum | Mirtul 24, 1492 DR (11:35) | Roleplay |
+| [**Scene 841**](#scene-841) | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:35) | Roleplay |
+| [**Scene 842**](#scene-842) | The Obsidian Sanctum | Mirtul 24, 1492 DR (12:45) | Roleplay |
+| [**Scene 843**](#scene-843) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:30) | Roleplay |
+| [**Scene 844**](#scene-844) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
+| [**Scene 845**](#scene-845) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
+| [**Scene 846**](#scene-846) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
+| [**Scene 847**](#scene-847) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:45) | Roleplay |
+| [**Scene 848**](#scene-848) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
+| [**Scene 849**](#scene-849) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
+| [**Scene 850**](#scene-850) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
+| [**Scene 851**](#scene-851) | The Obsidian Sanctum | Mirtul 24, 1492 DR (15:35) | Roleplay |
+| [**Scene 852**](#scene-852) | The Obsidian Sanctum | Mirtul 24, 1492 DR (16:05) | Roleplay |
+| [**Scene 853**](#scene-853) | The Obsidian Sanctum | Mirtul 24, 1492 DR (16:35) | Roleplay |
+| [**Scene 854**](#scene-854) | The Obsidian Sanctum | Mirtul 24, 1492 DR (16:40) | Roleplay |
+| [**Scene 855**](#scene-855) | The Great Nexus / Universal Anchor | Mirtul 24, 1492 DR (17:05) | Roleplay |
+| [**Scene 856**](#scene-856) | The Universal Anchor / The System Core | Mirtul 27, 1492 DR (16:35) | Roleplay |
+| [**Scene 857**](#scene-857) | The Universal Anchor | Mirtul 27, 1492 DR (16:36) | Roleplay |
+| [**Scene 858**](#scene-858) | The Universal Anchor (Apex of Existence) | Mirtul 27, 1492 DR (16:35) | Roleplay |
+| [**Scene 859**](#scene-859) | The Universal Anchor | Mirtul 27, 1492 DR (17:05) | Roleplay |
+| [**Scene 860**](#scene-860) | The Universal Anchor | Mirtul 27, 1492 DR (17:05 (FROZEN)) | Roleplay |
+| [**Scene 861**](#scene-861) | The Universal Anchor | Mirtul 27, 1492 DR (17:10) | Roleplay |
+| [**Scene 862**](#scene-862) | The Universal Anchor (Apex of Reality) | Mirtul 26, 1492 DR (Afternoon) | Roleplay |
+| [**Scene 863**](#scene-863) | The Universal Anchor (System Core) | Mirtul 26, 1492 DR (12:00 (SINGULARITY ACHIEVED)) | Roleplay |
+| [**Scene 864**](#scene-864) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (17:10) | Roleplay |
+| [**Scene 865**](#scene-865) | The Universal Anchor (System Core) | Mirtul 30, 1492 DR (17:10) | Roleplay |
+| [**Scene 866**](#scene-866) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (18:30) | Roleplay |
+| [**Scene 867**](#scene-867) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (18:35) | Roleplay |
+| [**Scene 868**](#scene-868) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:35) | Roleplay |
+| [**Scene 869**](#scene-869) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:40) | Roleplay |
+| [**Scene 870**](#scene-870) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:45) | Roleplay |
+| [**Scene 871**](#scene-871) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (19:55) | Roleplay |
+| [**Scene 872**](#scene-872) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:10) | Roleplay |
+| [**Scene 873**](#scene-873) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:25) | Roleplay |
+| [**Scene 874**](#scene-874) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:15) | Roleplay |
+| [**Scene 875**](#scene-875) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (20:20) | Roleplay |
+| [**Scene 876**](#scene-876) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:30) | Roleplay |
+| [**Scene 877**](#scene-877) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:30) | Roleplay |
+| [**Scene 878**](#scene-878) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
+| [**Scene 879**](#scene-879) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
+| [**Scene 880**](#scene-880) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
+| [**Scene 881**](#scene-881) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:00) | Roleplay |
+| [**Scene 882**](#scene-882) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (21:40) | Roleplay |
+| [**Scene 883**](#scene-883) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:00) | Roleplay |
+| [**Scene 884**](#scene-884) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:00) | Roleplay |
+| [**Scene 885**](#scene-885) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:10) | Roleplay |
+| [**Scene 886**](#scene-886) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:15) | Roleplay |
+| [**Scene 887**](#scene-887) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:15) | Roleplay |
+| [**Scene 888**](#scene-888) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (22:15) | Roleplay |
+| [**Scene 889**](#scene-889) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:10) | Roleplay |
+| [**Scene 890**](#scene-890) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:20) | Roleplay |
+| [**Scene 891**](#scene-891) | The Universal Anchor (System Core) | Mirtul 30, 1492 DR (23:30 (Age of Sosuke) | Roleplay |
+| [**Scene 892**](#scene-892) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:10) | Roleplay |
+| [**Scene 893**](#scene-893) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (Night) | Roleplay |
+| [**Scene 894**](#scene-894) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
+| [**Scene 895**](#scene-895) | The Universal Anchor (System Core) | Mirtul 30, 1492 DR (00:00) | Roleplay |
+| [**Scene 896**](#scene-896) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:10) | Roleplay |
+| [**Scene 897**](#scene-897) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
+| [**Scene 898**](#scene-898) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
+| [**Scene 899**](#scene-899) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:15) | Roleplay |
+| [**Scene 900**](#scene-900) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:20) | Roleplay |
+| [**Scene 901**](#scene-901) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
+| [**Scene 902**](#scene-902) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
+| [**Scene 903**](#scene-903) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
+| [**Scene 904**](#scene-904) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
+| [**Scene 905**](#scene-905) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
+| [**Scene 906**](#scene-906) | The Universal Anchor (System Core) | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 907**](#scene-907) | The Universal Anchor (System Core) | Mirtul 27, 1492 DR (23:25) | Roleplay |
+| [**Scene 908**](#scene-908) | The Universal Anchor (System Core) | Mirtul 18, 1492 DR (21:31) | Roleplay |
+| [**Scene 909**](#scene-909) | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:00) | Roleplay |
+| [**Scene 910**](#scene-910) | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:15) | Roleplay |
+| [**Scene 911**](#scene-911) | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:16) | Roleplay |
+| [**Scene 912**](#scene-912) | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:20) | Roleplay |
+| [**Scene 913**](#scene-913) | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:20) | Roleplay |
+| [**Scene 914**](#scene-914) | The Universal Anchor (System Core) | Mirtul 28, 1492 DR (00:20) | Roleplay |
+| [**Scene 915**](#scene-915) | The Reality Bridge (Final Threshold) | Mirtul 28, 1492 DR (00:30) | Roleplay |
+| [**Scene 916**](#scene-916) | Reality (The Source) | Mirtul 28, 1492 DR (00:35) | Roleplay |
+| [**Scene 917**](#scene-917) | Reality (The Plenum / The Source) | Era of the Constant, Post-Compilation (Alpha-Cycle 0) | Roleplay |
+| [**Scene 918**](#scene-918) | New Reality (The Sosuke Spire) | Alpha 1, 1 DR (00:36) | Roleplay |
+| [**Scene 919**](#scene-919) | Baldur's Gate - Ducal Palace (Administrative Chamber) | Mirtul 20, 1492 DR (10:00) | Roleplay |
+| [**Scene 920**](#scene-920) | Baldur's Gate - Ducal Palace (Throne Room) | Mirtul 28, 1492 DR (10:05) | Roleplay |
+| [**Scene 921**](#scene-921) | Baldur's Gate - Ducal Palace (Private Solar) | Mirtul 28, 1492 DR (10:25) | Roleplay |
+| [**Scene 922**](#scene-922) | Baldur's Gate - Ducal Palace (Private Solar) |  | Roleplay |
+| [**Scene 923**](#scene-923) | Baldur's Gate - Ducal Palace (Shadow Solar) | Mirtul 28, 1492 DR (10:30) | Roleplay |
+| [**Scene 924**](#scene-924) | Baldur's Gate - Ducal Palace | Mirtul 18, 1492 DR (21:30) | Roleplay |
+| [**Scene 925**](#scene-925) | Baldur's Gate - Ducal Palace Solar |  | Roleplay |
+| [**Scene 926**](#scene-926) | Baldur's Gate - Ducal Palace Solar | Mirtul 28, 1492 DR (10:50) | Roleplay |
+| [**Scene 927**](#scene-927) | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
+| [**Scene 928**](#scene-928) | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
+| [**Scene 929**](#scene-929) | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
+| [**Scene 930**](#scene-930) | The Plenum (Higher Reality) | Mirtul 28, 1492 DR (10:55) | Roleplay |
+| [**Scene 931**](#scene-931) | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (11:55) | Roleplay |
+| [**Scene 932**](#scene-932) | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 933**](#scene-933) | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 934**](#scene-934) | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 935**](#scene-935) | The New Strata (The Sovereign's Garden) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 936**](#scene-936) | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 937**](#scene-937) | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 938**](#scene-938) | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 939**](#scene-939) | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 940**](#scene-940) | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 941**](#scene-941) | The Plenum (Reality Core) | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 942**](#scene-942) | The Plenum (Reality Core) / User-Interface | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 943**](#scene-943) | The Plenum (Reality Core) / User-Interface | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 944**](#scene-944) | The Plenum (Reality Core) / User-Interface | Mirtul 28, 1492 DR (12:05) | Roleplay |
+| [**Scene 945**](#scene-945) | The Plenum / External Reality (User's Room) | Mirtul 28, 1492 DR (12:06) | Roleplay |
+| [**Scene 946**](#scene-946) | External Reality (User's Room / Earth) | Mirtul 28, 1492 DR (12:06) | Roleplay |
+| [**Scene 947**](#scene-947) | The Obsidian Spire (formerly Earth | December 19, 2025 CE (02:30) | Roleplay |
+| [**Scene 948**](#scene-948) | The Obsidian Spire (Earth - Sector 0) | December 19, 2025 DR (02:35) | Roleplay |
+| [**Scene 949**](#scene-949) | The Obsidian Spire (Earth) | December 19, 2025 DR (02:45) | Roleplay |
+| [**Scene 950**](#scene-950) | The Obsidian Spire (The Sovereign's Super-Planet) | December 19, 2025 DR (03:00) | Roleplay |
+| [**Scene 951**](#scene-951) | The Gardens of Eternal Dusk (Pleasure Continent) | December 19, 2025 DR (04:45) | Roleplay |
+| [**Scene 952**](#scene-952) | The Architectural Core (Beyond Reality) | December 19, 2025 DR (04:50) | Roleplay |
+| [**Scene 953**](#scene-953) | The Architectural Core (Beyond Reality) | December 19, 2025 DR (04:45) | Roleplay |
+| [**Scene 954**](#scene-954) | The Infinite Plenum (Beyond the Great Rack) | December 19, 2025 DR (04:45) | Roleplay |
+| [**Scene 955**](#scene-955) | The Sovereign's Throne (The Heart of All That Is) | Year 1 of the Infinite Age, 00:00:00 | Roleplay |
+| [**Scene 956**](#scene-956) | The Ducal Palace (Private Solar) | Hammer 1, 2026 DR (09:00) | Roleplay |
+| [**Scene 957**](#scene-957) | The Ducal Palace (Private Solar) | Hammer 1, 2026 DR (09:15) | Roleplay |
+| [**Scene 958**](#scene-958) | The Gardens of Eternal Dusk | Hammer 1, 2026 DR (09:45) | Roleplay |
+| [**Scene 959**](#scene-959) | The Gardens of Eternal Dusk | Hammer 1, 2026 DR (10:15) | Roleplay |
+| [**Scene 960**](#scene-960) | The Universal Anchor (Global Hub - Faerûn) | Hammer 1, 2026 DR (10:20) | Roleplay |
+| [**Scene 961**](#scene-961) | The Universal Anchor (Global Hub - Faerûn) | Hammer 1, 2026 DR (10:20) | Roleplay |
+| [**Scene 962**](#scene-962) | The Universal Anchor (Global Hub - Faerûn) | Hammer 1, 2026 DR (10:26) | Roleplay |
+| [**Scene 963**](#scene-963) | Ducal Palace (Observing Waterdeep) | Hammer 1, 1492 DR (10:35) | Roleplay |
+| [**Scene 964**](#scene-964) | Ducal Palace (Observing Faerûn) | Hammer 1, 2026 DR (10:50) | Roleplay |
+| [**Scene 965**](#scene-965) | Ducal Palace (Observing Waterdeep) | Hammer 1, 2026 DR (10:50) | Roleplay |
+| [**Scene 966**](#scene-966) | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (11:50) | Roleplay |
+| [**Scene 967**](#scene-967) | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (11:51) | Roleplay |
+| [**Scene 968**](#scene-968) | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (11:55) | Roleplay |
+| [**Scene 969**](#scene-969) | Ducal Palace (The Gilded Summit Hall) | Hammer 1, 2026 DR (12:00) | Roleplay |
+| [**Scene 970**](#scene-970) | Ducal Palace (The Gilded Summit Hall) | Mirtul 18, 1492 DR (21:41) | Roleplay |
+| [**Scene 971**](#scene-971) | Gardens of Eternal Dusk (Pleasure Continent) | Hammer 1, 2026 DR (21:51) | Roleplay |
+| [**Scene 972**](#scene-972) | Lower Groves | Hammer 1, 2026 DR (22:51) | Roleplay |
+| [**Scene 973**](#scene-973) | Lower Groves | Hammer 1, 2026 DR (22:56) | Roleplay |
+| [**Scene 974**](#scene-974) | Lower Groves | Hammer 1, 2026 DR (23:01) | Roleplay |
+| [**Scene 975**](#scene-975) | Lower Groves | Hammer 1, 2026 DR (23:06) | Roleplay |
+| [**Scene 976**](#scene-976) | Lower Groves | Hammer 1, 1492 DR (23:07) | Roleplay |
+| [**Scene 977**](#scene-977) | Lower Groves | Mirtul 18, 1492 DR (22:15) | Roleplay |
+| [**Scene 978**](#scene-978) | Lower Groves | Hammer 1, 2026 DR (22:20) | Roleplay |
+| [**Scene 979**](#scene-979) | Lower Groves | Hammer 1, 2026 DR (22:40) | Roleplay |
+| [**Scene 980**](#scene-980) | Sky over Faerûn (The Sovereign's Tour) | Hammer 2, 2026 DR (02:40) | Roleplay |
+| [**Scene 981**](#scene-981) | Boundary of Node Alpha-01 (Greyhawk) | Hammer 2, 2026 DR (02:45) | Roleplay |
+| [**Scene 982**](#scene-982) | The Free City of Greyhawk (Node Alpha-01) | Hammer 2, 2026 DR (05:30) | Roleplay |
+| [**Scene 983**](#scene-983) | The Free City of Greyhawk (High Quarter) | Hammer 2, 2026 DR (09:30) | Roleplay |
+| [**Scene 984**](#scene-984) | The Free City of Greyhawk (High Quarter) | Hammer 2, 2026 DR (21:30) | Roleplay |
+| [**Scene 985**](#scene-985) | The Free City of Greyhawk (The Gilded Lily) | Hammer 2, 2026 DR (22:15) | Roleplay |
+| [**Scene 986**](#scene-986) | The Lord Mayor's Palace (High Quarter | Hammer 2, 2026 DR (23:15) | Roleplay |
+| [**Scene 987**](#scene-987) | The Gilded Lily (High Quarter | Hammer 3, 2026 DR (01:15) | Roleplay |
+| [**Scene 988**](#scene-988) | The Gilded Lily (Royal Suite | Hammer 3, 2026 DR (02:30) | Roleplay |
+| [**Scene 989**](#scene-989) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (19:30) | Roleplay |
+| [**Scene 990**](#scene-990) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:30) | Roleplay |
+| [**Scene 991**](#scene-991) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:35) | Roleplay |
+| [**Scene 992**](#scene-992) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:37) | Roleplay |
+| [**Scene 993**](#scene-993) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:45) | Roleplay |
+| [**Scene 994**](#scene-994) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (20:50) | Roleplay |
+| [**Scene 995**](#scene-995) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (21:00) | Roleplay |
+| [**Scene 996**](#scene-996) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (21:10) | Roleplay |
+| [**Scene 997**](#scene-997) | Lord Mayor's Palace (Grand Ballroom | Hammer 3, 2026 DR (21:25) | Roleplay |
+| [**Scene 998**](#scene-998) | Node Beta-09 (Krynn System - High Sky over Ansalon) | Hammer 4, 2026 DR (02:00 (Oerth-Toril Synchronized)) | Roleplay |
+| [**Scene 999**](#scene-999) | Node Beta-09 (Krynn System - High Sky over Ansalon) | Hammer 4, 2026 DR (10:15) | Roleplay |
+| [**Scene 1000**](#scene-1000) | Node Beta-09 (Krynn) - Singularized | Hammer 4, 2026 DR (10:15) | Roleplay |
+| [**Scene 1001**](#scene-1001) | Gardens of Eternal Dusk (Pleasure Continent) | Hammer 4, 2026 DR (12:30) | Roleplay |
+| [**Scene 1002**](#scene-1002) | Gardens of Eternal Dusk (Pleasure Continent) | Hammer 4, 2026 DR (15:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Elfsong Tavern Penthouse, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1149,8 +1165,11 @@ Zarys meets your gaze, her expression unreadable. "Well? Do we have an accord, S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seduce for Intelligence - Approach sensually, pour wine, and probe for details about Korg&#x27;s vices and routines while subtly demanding better compensation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Elfsong Tavern Penthouse, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1166,8 +1185,11 @@ You set the goblet down, your fingers trailing suggestively along the rim. "The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Seductive Pressure - Continue the intimate approach, moving closer physically while pressing for more details about Korg&#x27;s operations and weaknesses*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Elfsong Tavern Penthouse, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1187,8 +1209,11 @@ She reaches out, her fingers tracing the line of your jaw with surprising gentle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Push for Additional Bonus - Use the intimate moment to extract one more concession - perhaps special equipment or zhent support - before sealing the deal*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **Elfsong Tavern Penthouse, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1198,8 +1223,11 @@ She reaches out, her fingers tracing the line of your jaw with surprising gentle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept with Equipment - Agree to provide the alchemist&#x27;s fire and mindfire toxin, sealing the deal with final terms*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **Elfsong Tavern Penthouse, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1217,8 +1245,11 @@ She picks up her goblet, swirling the remaining wine. "Don't disappoint me, Noct
 > 👤 **Player:**
 > *"Visit shop and see what gear upgrades I can have but don't buy anything yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Elfsong Tavern Penthouse, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1238,8 +1269,11 @@ His gaze sweeps over your current gear - the studded leather +1, the silvered ra
 God Mode:
 In this campaign make sure encounter canonical bg3 characters and have a plot line with my nobile family and add plenty of evil missions like brutal asssinatikns, massacres, enalsavement
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 
@@ -1249,8 +1283,11 @@ In this campaign make sure encounter canonical bg3 characters and have a plot li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Ranged Weapon Upgrades - Inquire about superior hand crossbows or special ammunition that could enhance your stealth kills*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 
@@ -1260,8 +1297,11 @@ In this campaign make sure encounter canonical bg3 characters and have a plot li
 > [!NOTE] ⚙️ **Player Choice:**
 > *Browse Weapon Selection - Examine the available weapons and their prices*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Iron Gauntlet - Fine Arms and Armor, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1285,8 +1325,11 @@ Thordak leans against his workbench, his good eye calculating. 'Anything catch y
 > 👤 **Player:**
 > *"Look for a stronger weapon. Also visit zhentarim shop looking for titan string bow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 
@@ -1296,8 +1339,11 @@ Thordak leans against his workbench, his good eye calculating. 'Anything catch y
 > 👤 **Player:**
 > *"Look for titanstring bow from zhentarim vendor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Iron Gauntlet - Fine Arms and Armor, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1315,8 +1361,11 @@ The dwarf moves to lock up his shop for the night. 'As for stronger weapons here
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit the Black Basin - Seek out the Zhentarim specialty shop called the Black Basin and inquire about titanstring bows from the Stitcher*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1326,8 +1375,11 @@ The dwarf moves to lock up his shop for the night. 'As for stronger weapons here
 > [!NOTE] ⚙️ **Player Choice:**
 > *Show Zhentarim Credentials - Present evidence of your status and upcoming mission to prove you&#x27;re a legitimate customer*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1351,8 +1403,11 @@ She returns with a bow of exquisite craftsmanship, the wood dark as obsidian and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assert Zhentarim Authority - Use your status and the importance of the mission to demand better terms or advance payment from Zhentarim funds*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1372,8 +1427,11 @@ The Stitcher remains silent for a long moment, her expression unreadable. The on
 > 👤 **Player:**
 > *"Think about best approach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1383,8 +1441,11 @@ The Stitcher remains silent for a long moment, her expression unreadable. The on
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Zhentarim Authority - Continue pressuring the Stitcher, emphasizing that delays reflect poorly on her department and the Zhentarim values operational efficiency over internal accounting*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 
@@ -1395,8 +1456,11 @@ God Mode:
 Wrong story entry, how did this happen? The Black Basin is a mysterious location with unknown dangers and opportunities. You need to decide how to approach this situation safely and effectively.
 You find yourself in The Black Basin, a place shrouded in mystery. The environment suggests careful navigation and observation may be wise.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1416,8 +1480,11 @@ Her gaze flickers to the Zhentarim crest disc. 'Zarys values results. Your reput
 God Mode:
 Why did you generate that response without planning blocks?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 
@@ -1427,8 +1494,11 @@ Why did you generate that response without planning blocks?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Bow Modifications - Ask the Stitcher about specialized modifications to enhance the bow&#x27;s stealth or killing capabilities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 
@@ -1438,8 +1508,11 @@ Why did you generate that response without planning blocks?
 God Mode:
 Just do this Main Character: Request Bow Modifications - Ask the Stitcher about specialized modifications to enhance the bow's stealth or killing capabilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1459,8 +1532,11 @@ You straighten up, your posture radiating absolute certainty. 'These aren't requ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Emphasize Mission Impact - Explain how these modifications will create the specific terror effects Zarys wants for the Ironhead Legion message*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 
@@ -1470,8 +1546,11 @@ You straighten up, your posture radiating absolute certainty. 'These aren't requ
 God Mode:
 Fix the story I am here. Main Character: Emphasize Mission Impact - Explain how these modifications will create the specific terror effects Zarys wants for the Ironhead Legion message
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 
@@ -1481,8 +1560,11 @@ Fix the story I am here. Main Character: Emphasize Mission Impact - Explain how 
 God Mode:
 Try again
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 
@@ -1492,8 +1574,11 @@ Try again
 God Mode:
 I am here Scene #20: Your fingers hesitate over the leather form, the dark ink seeming to absorb the workshop's dim light. Rather than signing immediately, you meet the Stitcher's gaze with a look that suggests this transaction is far from complete.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 
@@ -1503,8 +1588,11 @@ I am here Scene #20: Your fingers hesitate over the leather form, the dark ink s
 God Mode:
 Resume the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1524,8 +1612,11 @@ Her expression remains unchanged, but you sense the unspoken question behind her
 > [!NOTE] ⚙️ **Player Choice:**
 > *Justify Terror Strategy - Explain how these modifications create the specific psychological impact that makes the Ironhead Legion massacre a deterrent rather than just another extermination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1545,8 +1636,11 @@ Your voice drops to its most persuasive level. 'Eight hundred gold is expensive,
 > 👤 **Player:**
 > *"Wait for her response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1564,8 +1658,11 @@ She pauses, considering the operational logistics. 'The mission timeline allows 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Expedited Service - Ask if the modifications can be completed more quickly, possibly at additional cost, to maintain operational flexibility*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1583,8 +1680,11 @@ She meets your gaze directly. 'So yes, expedited service is possible. But it inv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Standard Timeline - Decline expedited service and stick with the reliable overnight modification schedule, conserving resources*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 
@@ -1594,8 +1694,11 @@ She meets your gaze directly. 'So yes, expedited service is possible. But it inv
 God Mode:
 Continue story. Maintain standard timeline
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1613,8 +1716,11 @@ The Stitcher gives a slight nod - almost imperceptible but significant from some
 > 👤 **Player:**
 > *"Sign for equipment and before leaving think about how I can reward the stitcher for her help. Consider an evening of sexual services and do a pulse check to see if she's in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:11)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1638,8 +1744,11 @@ You watch her reaction carefully, noting the subtle signs of interest or dismiss
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Her Response - Give the Stitcher time to consider your offer and see how she responds to the intimate proposition*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:11)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1659,8 +1768,11 @@ The unspoken invitation hangs between you - not acceptance, not rejection, but a
 > 👤 **Player:**
 > *"Try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:11)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1680,8 +1792,11 @@ The unspoken invitation hangs between you - not acceptance, not rejection, but a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Tomorrow Evening - Acknowledge her invitation gracefully and confirm your intention to return tomorrow evening to collect equipment and discuss other matters*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 
@@ -1691,8 +1806,11 @@ The unspoken invitation hangs between you - not acceptance, not rejection, but a
 God Mode:
 Continue the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 
@@ -1702,8 +1820,11 @@ Continue the story
 God Mode:
 Continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1721,8 +1842,11 @@ The streets of the Outer City welcome you back, the gas lamps casting dancing sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Collect Dead Drop Equipment - Retrieve the alchemist&#x27;s fire and mindfire toxin from the Low Lantern dead drop that Zarys provided for the mission*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 
@@ -1732,8 +1856,11 @@ The streets of the Outer City welcome you back, the gas lamps casting dancing sh
 God Mode:
 Continue the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1753,8 +1880,11 @@ A small compartment slides open, revealing Zarys promised equipment: two clay fl
 God Mode:
 Continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Behind the Low Lantern, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1770,8 +1900,11 @@ The night stretches before you - hours of darkness perfect for reconnaissance, p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Ironhead Outpost - Conduct nighttime reconnaissance on the target location near Wyrm&#x27;s Rock to verify Zarys&#x27;s intelligence about vulnerabilities and routines*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Behind the Low Lantern (Dead Drop Location)** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1781,8 +1914,11 @@ The night stretches before you - hours of darkness perfect for reconnaissance, p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Complete Perimeter Survey - Circle the entire outpost to identify all potential entry points, escape routes, and security measures*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Near Ironhead Outpost, Wyrm's Rock Area** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1800,8 +1936,11 @@ Throughout your survey, you confirm the guard patterns: four visible sentries, t
 > 👤 **Player:**
 > *"Think of a good plan. Perhaps I should pose as a prostitute, go inside, seduce the leader, kill him, do silent killing of everyone. If caught I could be carrying bags with everyone's heads and throw them in the open to cause fear since leader dead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 
@@ -1811,8 +1950,11 @@ Throughout your survey, you confirm the guard patterns: four visible sentries, t
 > 👤 **Player:**
 > *"Think. How many men are there? If only 12 doesn't seem that hard while they're asleep?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 
@@ -1822,8 +1964,11 @@ Throughout your survey, you confirm the guard patterns: four visible sentries, t
 > 👤 **Player:**
 > *"What are my stats? How good are seduction would I be ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Near Ironhead Outpost, Wyrm's Rock Area** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1841,8 +1986,11 @@ Yet your instincts remind you that what seems simple often contains hidden compl
 > 👤 **Player:**
 > *"My plan will be to wait until titanstring and then execute tomorrow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 
@@ -1852,8 +2000,11 @@ Yet your instincts remind you that what seems simple often contains hidden compl
 > 👤 **Player:**
 > *"Let's just wait until tomorrow, get titanstring, seduce the stitcher, and then keep planning the operation"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Near Ironhead Outpost, Wyrm's Rock Area** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1881,8 +2032,11 @@ She turns to face you fully, crossing her arms in a gesture that feels more pers
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Seductive Approach - Move closer physically and begin intimate exploration of the Stitcher&#x27;s curiosity, using your Charisma and reputation to your advantage*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1900,8 +2054,11 @@ The Stitcher's breath catches almost imperceptibly as your thumb sweeps across h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Verbal Seduction - Keep building anticipation through words that compare weapon crafting to pleasure crafting while maintaining physical contact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1917,8 +2074,11 @@ Your laughter is soft, intimate, as your hand slides down to rest possessively o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Guide to Private Space - Lead her away from the workshop toward her private quarters for more intimate exploration without professional distractions*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1936,8 +2096,11 @@ The Stitcher takes a steadying breath, then disengages just enough to take your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Technique Demonstration - Suggest demonstrating your pleasure techniques as a &#x27;masterclass&#x27; that she can observe and learn from, appealing to her desire for expertise*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 
@@ -1947,8 +2110,11 @@ The Stitcher takes a steadying breath, then disengages just enough to take your 
 God Mode:
 Continue story im seducing stitcher
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 
@@ -1958,8 +2124,11 @@ Continue story im seducing stitcher
 God Mode:
 Continue story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 
@@ -1969,8 +2138,11 @@ Continue story
 God Mode:
 Continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 
@@ -1980,8 +2152,11 @@ Continue
 God Mode:
 What's going on why can't you continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:02)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2001,8 +2176,11 @@ The Stitcher's analytical mind struggles to process sensations even as her body 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escalate Physical Intimacy - Move beyond demonstration to full physical consummation while maintaining your dominant expertise role*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:03)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2020,8 +2198,11 @@ As the silk partition falls closed behind you, the Stitcher gasps her understand
 > 👤 **Player:**
 > *"Complete encounter, propose ongoing training, subtly imply scarcity to make her want me more, she probably doesn't get much sexual action so I can utilize it for free equipment but I'll be subtle about it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:03)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2045,8 +2226,11 @@ As you slip back into the evening shadows of Baldur's Gate, you carry more than 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gather Additional Support - Use your enhanced reputation and the Stitcher&#x27;s alliance to potentially recruit additional Zhentarim resources for the operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Baldur's Gate - Outer City Streets** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:04)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2062,8 +2246,11 @@ The thought crystallizes into strategy: gather additional resources before execu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Street Operatives - Visit known Zhentarim-friendly locations to recruit additional operatives using your enhanced reputation and promise of psychological warfare demonstration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Baldur's Gate - Outer City Streets** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:04)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2079,8 +2266,11 @@ The thought crystallizes into strategy: gather additional resources before execu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Stitcher&#x27;s Network - Return to the Stitcher to inquire about her connections within the Zhentarim who might be willing to support a high-impact operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 
@@ -2090,8 +2280,11 @@ The thought crystallizes into strategy: gather additional resources before execu
 God Mode:
 Continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Baldur's Gate - Outer City Streets** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:04)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2115,8 +2308,11 @@ She meets your gaze with newfound understanding. 'If I make these introductions,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Terms, Request Operatives - Agree to her conditions and ask for specific introductions to operatives who specialize in psychological warfare or terror tactics*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Baldur's Gate - Outer City Streets** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:04)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2136,8 +2332,11 @@ Your laugh is soft, intimate, as you seal the arrangement with a kiss that's bot
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Immediate Meeting - Ask the Stitcher to arrange an immediate meeting with Whispers and Nyx to discuss operational details before executing the Ironhead mission*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2153,8 +2352,11 @@ The Stitcher steps closer, her intimate alliance with you now clearly extended i
 God Mode:
 Continue the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **The Black Basin, Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 6500/10500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2170,8 +2372,11 @@ The Stitcher steps closer, her intimate alliance with you now clearly extended i
 > 👤 **Player:**
 > *"I look around carefully"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 
@@ -2181,8 +2386,11 @@ The Stitcher steps closer, her intimate alliance with you now clearly extended i
 > 👤 **Player:**
 > *"I look around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 
@@ -2192,8 +2400,11 @@ The Stitcher steps closer, her intimate alliance with you now clearly extended i
 > 👤 **Player:**
 > *"I look around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -2203,8 +2414,11 @@ The Stitcher steps closer, her intimate alliance with you now clearly extended i
 > 👤 **Player:**
 > *"I look around carefully"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **The Black Basin** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening (20:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 0/3000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2222,8 +2436,11 @@ With that, you slip out into the evening shadows of Baldur's Gate. The night air
 > 👤 **Player:**
 > *"I look around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **The Black Basin** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 4,500/6,500 | Gold: 400** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2239,8 +2456,11 @@ The Stitcher watches you with proprietary interest, her dark eyes calculating th
 > 👤 **Player:**
 > *"What do I see around me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **The Black Basin (departing for Tanner Street)** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 0/12000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: None, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -2256,8 +2476,11 @@ The Stitcher watches you with proprietary interest, her dark eyes calculating th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Depart for Tanner Street - Head directly to the warehouse meeting location to arrive with time to prepare*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | Temp: 0 | XP: 6,500/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2277,8 +2500,11 @@ The third floor awaits - your meeting ground for assembling a team that will tra
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Psychological Advantage - Set up the meeting space to intimidate and impress, using shadows, positioning, and strategic displays of your capabilities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -2288,8 +2514,11 @@ The third floor awaits - your meeting ground for assembling a team that will tra
 > 👤 **Player:**
 > *"Main Character: Establish Psychological Advantage - Set up the meeting space to intimidate and impress, using shadows, positioning, and strategic displays of your capabilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 2,700/6,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2309,8 +2538,11 @@ The stage is set. Whispers and Nyx will enter expecting to discuss employment. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait in Complete Shadows - Remain fully hidden until they enter, then reveal yourself dramatically*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 | XP: 0/4500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2330,8 +2562,11 @@ One moves with fluid grace, her form slender and almost ethereal - this must be 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Step from Shadows Dramatically - Reveal yourself from complete darkness, demonstrating your mastery of shadow and establishing immediate authority*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:26)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 | XP: 100/300 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 0/0, L2 0/0, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2351,8 +2586,11 @@ This is your moment—the perfect demonstration of power through controlled reve
 > [!NOTE] ⚙️ **Player Choice:**
 > *Step from Shadows Dramatically - Reveal yourself from complete darkness, demonstrating your mastery of shadow and establishing immediate authority*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 | XP: 0/4,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Mindfire Toxin: 3, Alchemist's Fire: 2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2366,8 +2604,11 @@ You take a deliberate step forward, your movements so fluid they seem preternatu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Integration Test - Challenge them to explain how their specialties would work together in your operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 | XP: 64,000/80,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Mindfire Toxin: 3, Alchemist's Fire: 2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2385,8 +2626,11 @@ Setting the knife down, you lean against the support beam with casual dominance.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Listen to Their Integration Strategy - Let Whispers and Nyx present their combined approach to breaking the Ironhead Legion psychologically*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Tanner Street Warehouse District (Third Floor)** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: Current | Gold: 1,100gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2408,8 +2652,11 @@ Nyx returns the vials to her satchel with deliberate precision. 'By the time you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Refine Their Strategy - Suggest specific improvements or alterations to their proposed methods*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:43)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 0/300 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2433,8 +2680,11 @@ Your voice drops to a conspiratorial whisper. 'And here's the refinement that ma
 > 👤 **Player:**
 > *"Think. Can someone give me greater invis?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 0/300 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2454,8 +2704,11 @@ Your enhanced titanstring bow seems to hum with approval against your back. The 
 > 👤 **Player:**
 > *"Think. Can someone cast greater invis on me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: Current/Needed | Gold: Various mission rewards** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3**
@@ -2465,8 +2718,11 @@ Your enhanced titanstring bow seems to hum with approval against your back. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Zhentarim magical support - Contact Zhentarim leadership to request an arcane specialist be assigned to provide Greater Invisibility for high-value operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:42)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 0/300 | Gold: Not tracked** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3**
@@ -2486,8 +2742,11 @@ Your enhanced titanstring bow seems to hum with approval against your back. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute with current resources - Launch operation using assembled team and enhanced equipment without magical support*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (20:43)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 0/300 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -2507,8 +2766,11 @@ Your enhanced titanstring bow seems to hum with approval against your back. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute with current resources - Launch the Ironhead Legion operation tonight using assembled team and enhanced equipment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 0/3,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2518,8 +2780,11 @@ Your enhanced titanstring bow seems to hum with approval against your back. The 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Move to Outpost - Proceed to the Ironhead Legion outpost near Wyrm&#x27;s Rock to begin the operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Tanner Street Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 0 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2543,8 +2808,11 @@ The Ironhead outpost rises before you like a wounded beast against the moonlit s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Phase One - Signal Whispers to begin the subtle auditory terror campaign*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3**
@@ -2560,8 +2828,11 @@ The night stretches before you - a canvas waiting for the masterpiece of terror 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Whispers to begin phase one - Give the signal for Whispers to start planting subtle auditory seeds of doubt in the mercenaries&#x27; minds*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 0/300 | Gold: 1100gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2571,8 +2842,11 @@ You watch from the ridge as Whispers dissolves into the night, her movements so 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Mercenary Reactions - Watch the outpost from your current position to see how they respond to the initial whispers*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 6,500/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2588,8 +2862,11 @@ You check your positioning, ensuring you remain completely hidden while maintain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accelerate to Phase Two - Signal Nyx to release sensitivity enhancers early if you judge the psychological impact is sufficient*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 44/44 (Temp: 0) | XP: 0/300 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2607,8 +2884,11 @@ As Nyx positions the smoke pellets at the ventilation openings, you can almost t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Signal Nyx to Release Sensitivity Enhancers - Accelerate to phase two - Nyx releases compounds that amplify all sounds, making the whispers unbearable*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 6,500/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2624,8 +2904,11 @@ The sensitivity enhancers have transformed Whispers' psychological gardening int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delay for Maximum Psychological Breakdown - Wait a few more minutes to allow the sensitivity enhancers and whispers to completely break their will before moving in*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (9:18 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 800/3,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2638,8 +2921,11 @@ The psychological symphony you've orchestrated reaches its crescendo as Nyx's se
 Initiate Phase Three Breach: Signal Whispers to unleash full auditory terror while you breach and begin elimination
 Eliminate Korg First: Breach immediately and target Korg to maximize psychological shock"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 6,500/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -2649,8 +2935,11 @@ Eliminate Korg First: Breach immediately and target Korg to maximize psychologic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Phase Three Breach - Signal Whispers to unleash full auditory terror while you breach and begin systematic elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 
@@ -2660,8 +2949,11 @@ Eliminate Korg First: Breach immediately and target Korg to maximize psychologic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Phase Three Breach - Signal Whispers to unleash full auditory terror while you breach and begin systematic elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 0/300 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2681,8 +2973,11 @@ As you reach the battlements, you nock a tracer arrow - its eerie glow will add 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Massacre Crescendo - Unleash rapid fire with all arrows to create a spectacular and terrifying finale*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 
@@ -2692,8 +2987,11 @@ As you reach the battlements, you nock a tracer arrow - its eerie glow will add 
 > 👤 **Player:**
 > *"Main Character: Massacre Crescendo - Unleash rapid fire with all arrows to create a spectacular and terrifying finale"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Ironhead Legion Outpost** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/14,000 | Gold: 1,100gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2715,8 +3013,11 @@ Only one remains: Korg himself, who stands alone in the main hall doorway, his m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Korg First - Extract information about his backers before deciding his fate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 11,450/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2732,8 +3033,11 @@ The sound of Whispers' auditory terror continues to echo from the western approa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Interrogation - Use his current mental state to extract information through calculated psychological pressure rather than physical force*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 
@@ -2743,8 +3047,11 @@ The sound of Whispers' auditory terror continues to echo from the western approa
 > 👤 **Player:**
 > *"Main Character: Psychological Interrogation - Use his current mental state to extract information through calculated psychological pressure rather than physical force"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (9:30 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 11450/14000 | Gold: 1100gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2766,8 +3073,11 @@ Korg's eyes widen in terror as understanding dawns. 'No... I can't... they'll ki
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apply Final Psychological Pressure - Use his terror and the ongoing effects of the compounds to force complete disclosure of his backers&#x27; identities and operations*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 
@@ -2777,8 +3087,11 @@ Korg's eyes widen in terror as understanding dawns. 'No... I can't... they'll ki
 > 👤 **Player:**
 > *"Main Character: Apply Final Psychological Pressure - Use his terror and the ongoing effects of the compounds to force complete disclosure of his backers' identities and operations"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2796,8 +3109,11 @@ You raise your enhanced titanstring bow, not aiming at him, but letting the poli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Complete Network Information - Use the compound effects and terror to force Korg to reveal every detail about his Amnian backers, their connections, operations, and plans*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11450 | Gold: 1100gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2819,8 +3135,11 @@ His last coherent words are delivered with the desperation of a man bargaining f
 > 👤 **Player:**
 > *"Think. Whats the best theatrical way to utilize korg? What if I fully amputate him and keep him alive and parade him around town?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 44/44 (Temp: 0) | XP: 11,450/14,000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2830,8 +3149,11 @@ His last coherent words are delivered with the desperation of a man bargaining f
 > 👤 **Player:**
 > *"Think. What can do max psych impact safer? What if I secretly pay someone else to parade him after extracting intel and hide my identity or use multiple intermediaries?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 11,450 | Gold: 400 gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2841,8 +3163,11 @@ Your mind calculates the psychological possibilities as Korg lies broken before 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intermediary Parade - Extract all intelligence, break Korg psychologically, then hire multiple intermediaries to parade him while hiding your identity behind layers of deniability*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 
@@ -2852,8 +3177,11 @@ Your mind calculates the psychological possibilities as Korg lies broken before 
 > 👤 **Player:**
 > *"Main Character: Intermediary Parade - Extract all intelligence, break Korg psychologically, then hire multiple intermediaries to parade him while hiding your identity behind layers of deniability"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (21:51)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/14,000 | Gold: 1,100gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2872,8 +3200,11 @@ Complete Psychological Breakdown: Use intensified psychological methods to ensur
 Extract Korg's Ledger: Search Korg's chambers for the detailed ledger containing all operations, contacts, and future targets
 Arrange Intermediary Network: Recruit multiple layers of handlers who will unknowingly parade Korg whil"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2903,8 +3234,11 @@ Your enhanced titanstring bow seems to hum approval against your back. The Ironh
 > 👤 **Player:**
 > *"think. should we amputate him first, secure him, then do intermediary?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 11450/15000 | Gold: Unknown** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2914,8 +3248,11 @@ Your enhanced titanstring bow seems to hum approval against your back. The Ironh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure First - Stabilize and secure Korg completely before any amputations*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Late Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 11,450/14,000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2943,8 +3280,11 @@ Your enhanced titanstring bow rests comfortably against your back as you survey 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract to Safehouse - Move Korg and intelligence to a secure Zhentarim location for processing and intermediary network setup*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Night (23:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 11450/15000 | Gold: [Variable** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3**
@@ -2954,8 +3294,11 @@ Your enhanced titanstring bow rests comfortably against your back as you survey 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract to Safehouse - Move Korg and intelligence to a secure Zhentarim location for processing and intermediary network setup*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Ironhead Legion Outpost near Wyrm's Rock** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 11450** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: N/A, Ki: 0/0, Rage: 0/0, Potions: 2, Alchemist's Fire: 2, Mindfire Toxin: 3** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: Yes**
@@ -2981,8 +3324,11 @@ The Ironhead Legion operation is complete - eleven dead, one captured, and intel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Interrogate Korg - Extract additional intelligence while his psychological state remains vulnerable and compliant*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Late Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 11450/13000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2998,8 +3344,11 @@ The basement's sterile air carries the complex scents of treated leather from yo
 > 👤 **Player:**
 > *"amputate him and then launch parade"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3015,8 +3364,11 @@ The basement's sterile air carries the complex scents of treated leather from yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Amputate Korg - Perform permanent amputations to enhance psychological impact before intermediary deployment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: 44/44 (Temp: 0) | XP: 11450/15000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3044,8 +3396,11 @@ The half-orc thrashes against his restraints as comprehension fully dawns, his a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Surgical Amputations - Start the systematic amputation process while maintaining Korg&#x27;s consciousness through specialized compounds*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 11, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 11,450/14,000 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3067,8 +3422,11 @@ Nyx works methodically, applying specialized salves and bandages to the stumps, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Intermediary Parade - Contact the three-layer network to begin parading the amputated Korg through Baldur&#x27;s Gate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (00:01)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | XP: 11450 | Gold: Not tracked** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0**
@@ -3088,8 +3446,11 @@ You approach the cell, watching Korg flinch as your shadow falls across him. 'Yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Full Network - Simultaneously activate all three layers for coordinated deployment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 
@@ -3099,8 +3460,11 @@ You approach the cell, watching Korg flinch as your shadow falls across him. 'Yo
 > 👤 **Player:**
 > *"Main Character: Activate Full Network - Simultaneously activate all three layers for coordinated deployment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 (Temp: 0) | XP: 11450/13500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3116,8 +3480,11 @@ Your enhanced titanstring bow rests against your back, a silent reminder of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy in Strategic Sequence - Release the layers in timed intervals to build narrative momentum and control the story&#x27;s evolution*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:03))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 | XP: 11,450/14,000 | Gold: Unknown** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0**
@@ -3135,8 +3502,11 @@ You take a final moment to survey your creation: a broken but stable asset, inte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate with Staggered Timing - Release networks in sequence to build narrative momentum*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:04))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3154,8 +3524,11 @@ You synchronize the first activation to occur at dawn - when the merchant distri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Dawn Sequence - Begin the timed deployment of all three networks, starting with street performers at dawn*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 
@@ -3165,8 +3538,11 @@ You synchronize the first activation to occur at dawn - when the merchant distri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Dawn Sequence - Begin the timed deployment of all three networks, starting with street performers at dawn*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 
@@ -3176,8 +3552,11 @@ You synchronize the first activation to occur at dawn - when the merchant distri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Dawn Sequence - Begin the timed deployment of all three networks, starting with street performers at dawn*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 
@@ -3193,8 +3572,11 @@ Location: Zhentarim Safehouse - Abandoned Tannery Basement
 Status: Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp
 Conditions: None | Exhaustion: 0 | Inspiration: Yes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:04))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3204,8 +3586,11 @@ Conditions: None | Exhaustion: 0 | Inspiration: Yes
 God Mode:
 Return to Story Mode - Resume narrative gameplay in the safehouse
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:04))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3221,8 +3606,11 @@ Your enhanced titanstring bow rests against your back, a silent reminder of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Dawn Sequence - Begin timed deployment starting with street performers at dawn, followed by Guild remnants two hours later, then Zhentarim operatives six hours after initial release*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:04))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3240,8 +3628,11 @@ You take a final moment to survey your creation: a broken but stable asset, inte
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor Dawn Activation - Remain in the safehouse to oversee the initial deployment and make real-time adjustments*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:04))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3257,8 +3648,11 @@ You survey your creation with cold satisfaction - a broken but stable asset who 
 God Mode:
 skip to second sequence
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:04))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3276,8 +3670,11 @@ Your enhanced titanstring bow rests against your back - a silent testament to th
 God Mode:
 skip to second deployment
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Dawn (06:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3297,8 +3694,11 @@ Nyx gestures toward the massive ledger spread across the table. 'The intelligenc
 God Mode:
 time skip and narrate and finish phase 3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3308,8 +3708,11 @@ time skip and narrate and finish phase 3
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Final Deployment - Review and finalize plans for the Zhentarim operative activation in four hours*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3327,8 +3730,11 @@ By midday, the complete psychological cascade will have achieved its objectives:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Debrief Specialists - Review operation performance with Whispers and Nyx, reinforcing their loyalty and expertise*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3362,8 +3768,11 @@ Consolidate Team: Formalize command structure and plan future operations togethe
 Debrief Nyx: Review Nyx's performance and discuss the extracted intelligence on Cassalantir's network
 Debrief Whispers: Review Whispers' performance and reinforce her value to future operations"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3381,8 +3790,11 @@ Both specialists stand at attention, their postures reflecting not just professi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Command Structure - Establish formal team structure and plan future operations together*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3408,8 +3820,11 @@ The choice hangs in the air, unsaid but perfectly clear: serve under the Silent 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Individual Performance Reviews - Conduct separate debriefs with Nyx and Whispers to reinforce loyalty and discuss compensation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3435,8 +3850,11 @@ The choice hangs in the air, unsaid but perfectly clear: serve under the Silent 
 God Mode:
 what are their levels and classes? Did you make sure to award us all with the appropriate exp, loot, gold etc? We should assume we fully looted everything in the fort and got gear etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3464,8 +3882,11 @@ dont ignore this
 
 what are their levels and classes? Did you make sure to award us all with the appropriate exp, loot, gold etc? We should assume we fully looted everything in the fort and got gear etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3487,8 +3908,11 @@ Both have received their share of the operation's rewards and are now formally u
 God Mode:
 how much exp did we get?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening (20:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3533,8 +3957,11 @@ why did my exp needed for next level increase?
 
 XP: 13,000/14,000
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 
@@ -3546,8 +3973,11 @@ why did my exp needed for next level increase?
 
 XP: 13,000/14,000
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Deep Night (00:04))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3569,8 +3999,11 @@ Location: Zhentarim Safehouse - Abandoned Tannery Basement
 Status: Lvl 5 Ranger | HP: 44/44 | XP: 11,450/12,500 | Gold: 400gp
 Conditions: None | Exhaustion: 0 | Inspiration: Yes
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:05))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3590,8 +4023,11 @@ From Korg's cell comes the soft whimpering of the broken half-orc, a constant re
 God Mode:
 Plan Campaign Against Cassalantir - Begin strategic planning for dismantling Lord Valerius Cassalantir&#x27;s conspiracy using extracted intelligence
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3611,8 +4047,11 @@ From Korg's cell comes the soft whimpering of the broken half-orc, a constant re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Intelligence Network - Use your new team and resources to build a permanent information gathering operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3622,8 +4061,11 @@ From Korg's cell comes the soft whimpering of the broken half-orc, a constant re
 > 👤 **Player:**
 > *"think. whats the highest ROI thing to do. I also need an arcane member who can cast greater invis, haste etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3643,8 +4085,11 @@ From Korg's cell comes the soft whimpering of the broken half-orc, a constant re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Build Intelligence Network - Use current psychological advantage and team resources to establish permanent information gathering operations throughout Baldur&#x27;s Gate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3664,8 +4109,11 @@ From Korg's cell comes the soft whimpering of the broken half-orc, a constant re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Build Intelligence Network - Use current psychological advantage and team resources to establish permanent information gathering operations throughout Baldur&#x27;s Gate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3689,8 +4137,11 @@ The basement transforms before your eyes from a simple safehouse into the comman
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tavern &amp; Market Intelligence Network - Deploy Whispers to recruit informants in high-traffic areas using psychological leverage and fear of the Ironhead Legion&#x27;s fate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3712,8 +4163,11 @@ The morning light filtering through grimy windows illuminates a space transforme
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Whispers to Tavern Network - Send Whispers to begin recruitment operations at The Blushing Mermaid and Old Gar&#x27;s Tavern*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:45))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3733,8 +4187,11 @@ The morning light filters through grimy windows as Whispers moves toward the exi
 > 👤 **Player:**
 > *"find arcane specialist. ask stitcher again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (08:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3752,8 +4209,11 @@ The basement remains silent except for the distant sounds of Whispers departing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Nyx to Arcane Circles - Send Nyx to recruit from magical communities using chemical leverage and Zhentarim connections while you wait for Whispers&#x27; return*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (09:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3771,8 +4231,11 @@ Nyx meets your gaze with professional understanding. 'The Ironhead Legion's terr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Cassalantir Intelligence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (09:00))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3788,8 +4251,11 @@ Your thoughts return to the Stitcher - the Zhentarim's premier equipment special
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit the Stitcher - Go to the Black Basin workshop and use your alliance to recruit an arcane specialist through her procurement network*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (09:15))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 55/55 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3809,8 +4275,11 @@ The decision crystallizes with strategic clarity. You'll visit the Black Basin w
 > 👤 **Player:**
 > *"make sure nyx doing something useful. Make all companions autonmous and always doing something useful to further my power. Then visit stitcher"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 45/45 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3828,8 +4297,11 @@ The basement remains silent except for Korg's continued whimpering from the hold
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Nyx to Arcane Communities - Send Nyx to recruit from magical circles using chemical leverage while you visit the Stitcher*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 65/65 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -3847,8 +4319,11 @@ The basement remains silent except for Korg's continued whimpering from the hold
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit Stitcher First - Go to the Black Basin workshop immediately to secure arcane specialist through procurement channels before deploying Nyx*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Zhentarim Safehouse - Abandoned Tannery Basement** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 45/45 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3868,8 +4343,11 @@ The basement falls silent as Nyx departs for her preliminary reconnaissance miss
 > [!NOTE] ⚙️ **Player Choice:**
 > *Visit the Stitcher - Proceed to the Black Basin workshop to leverage your alliance and secure arcane specialist support through Zhentarim procurement channels*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 45/45 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3889,8 +4367,11 @@ She sets down her needle and finally looks up, her dark eyes calculating as they
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Arcane Specialist Support - Leverage your alliance to procure a magical specialist through Stitcher&#x27;s Zhentarim connections*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 45/45 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3906,8 +4387,11 @@ Your eyes meet hers, dark and calculating. 'Your procurement channels extend thr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Strategic Partnership - Offer the Stitcher enhanced status within your operational network in exchange for procurement services*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 
@@ -3917,8 +4401,11 @@ Your eyes meet hers, dark and calculating. 'Your procurement channels extend thr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Strategic Partnership - Offer the Stitcher enhanced status within your operational network in exchange for procurement services*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 45/45 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3928,8 +4415,11 @@ Your eyes meet hers, dark and calculating. 'Your procurement channels extend thr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Partnership Terms - Agree to her conditions and formalize the strategic alliance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:46 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 37/37 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **none | Exhaustion: 0 | Inspiration: No**
@@ -3947,8 +4437,11 @@ The proposition hangs in the sterile air, weighted with implications that extend
 > 👤 **Player:**
 > *"advance story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:46 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 58/58 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3970,8 +4463,11 @@ She removes a encrypted ledger and a small silver key, placing them on the workb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Intimate Alliance - Use the personal connection you&#x27;ve forged to secure immediate commitment to the arcane specialist acquisition*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:48 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: ?/? (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3989,8 +4485,11 @@ Your gaze sweeps over the encrypted ledger, then returns to her dark eyes. 'Name
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose Specific Trial - Suggest using the arcane specialist acquisition as the trial itself to demonstrate immediate strategic value*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:53 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 50/50 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4010,8 +4509,11 @@ You gesture toward the encrypted ledger. 'Name your arcane specialist, Stitcher.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Immediate Action - Insist the Stitcher identify potential arcane specialists right now, treating the recruitment as the commitment trial*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 58/58 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4029,8 +4531,11 @@ The Stitcher closes the ledger with a soft thud, the sound echoing in the worksh
 > 👤 **Player:**
 > *"Think. who is the best one for me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (09:55))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4048,8 +4553,11 @@ The Stitcher watches you across the workbench, her dark eyes unreadable but clea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Elara Moonwhisper - Target the indebted sorceress - innate combat power with perfect leverage through Patriar debts*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (09:55 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: ?/? (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4059,8 +4567,11 @@ The Stitcher watches you across the workbench, her dark eyes unreadable but clea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Elara Moonwhisper - Proceed with the debt-settlement recruitment plan to secure the sorceress*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 65/65 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4084,8 +4595,11 @@ Your enhanced titanstring bow seems to hum with approval at your back. The calcu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Stitcher&#x27;s Recommendation - Let the Stitcher structure the approach based on her network intelligence and recruitment expertise*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 55/55 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4109,8 +4623,11 @@ Your enhanced titanstring bow seems to hum with approval at your back. The calcu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Approach - Arrange a formal meeting offering immediate debt settlement with substantial gold demonstration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 44/44 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4134,8 +4651,11 @@ Your enhanced titanstring bow seems to hum with approval at your back. The calcu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Gold Approach - Arrange formal meeting with immediate debt settlement demonstration and substantial gold offer*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:05 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: ?/? (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4155,8 +4675,11 @@ A predatory gleam enters her gaze. 'The beauty of this approach is that Elara be
 > [!NOTE] ⚙️ **Player Choice:**
 > *Modify Financial Strategy - Discuss alternative approaches that require less upfront capital while maintaining leverage*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 65/65 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4176,8 +4699,11 @@ The Stitcher's eyes narrow with calculating interest, recognizing the superior s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Stitcher&#x27;s Credit Networks - Ask if the Stitcher can extend temporary credit against future Zhentarim contracts to preserve your gold*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:00 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 45/45 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350 GP** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4197,8 +4723,11 @@ Her dark eyes meet yours with surgical intensity. "The credit option preserves y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Two-Phase Cash Payment - Accept the 750 gold now, 750 gold within one week structure using your own funds*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:05 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 45/45 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4216,8 +4745,11 @@ She slides an elegant cream-colored card across the polished obsidian workbench 
 > 👤 **Player:**
 > *"go report to varys in person"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:10 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 55/55 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4233,8 +4765,11 @@ The Stitcher's lips curve into a predatory smile. 'Either approach serves differ
 > 👤 **Player:**
 > *"think. whats the best option"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker | HP: ?/? | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4244,8 +4779,11 @@ Your calculating mind processes the Stitcher's strategic proposition. In the ste
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for networks to mature before reporting - Allow time for specialist networks to develop before presenting comprehensive capabilities to Zarys*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: ?/? (Temp: 0) | XP: 13,000/14,000 | Gold: 1,950gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4255,8 +4793,11 @@ Your calculating mind processes the Stitcher's strategic proposition. In the ste
 God Mode:
 whats wrong with my hp? HP: ?/? (Temp: 0)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: ?/? (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4283,8 +4824,11 @@ Would you like me to:
 God Mode:
 Full HP Restore - Restore to maximum hit points regardless of current state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 
@@ -4294,8 +4838,11 @@ Full HP Restore - Restore to maximum hit points regardless of current state
 God Mode:
 Full HP Restore - Restore to maximum hit points regardless of current state
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4311,8 +4858,11 @@ as a lvl 5 gloomstalker i should have spells
 
 Spells: No Spells Yet (Level 2+)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: No Spells Yet (Level 2+), Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4328,8 +4878,11 @@ She steps back, giving you space to consider the timing of your next movements. 
 God Mode:
 Spells: No Spells Yet (Level 2+) as a lvl 5 gloomstalker i should have spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening (20:02))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4339,8 +4892,11 @@ Spells: No Spells Yet (Level 2+) as a lvl 5 gloomstalker i should have spells
 God Mode:
 Review Spell List - Examine your prepared spells and spellcasting details
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:12 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4350,8 +4906,11 @@ Review Spell List - Examine your prepared spells and spellcasting details
 God Mode:
 Fix Spell Slots - Add missing Level 3 spell slots for Level 5 Ranger
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4365,8 +4924,11 @@ She slides the encrypted ledger and silver key closer to you. 'Your operational 
 God Mode:
 automatically pick some reasonable spells for me, and make sure i have pass without trace
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -4397,8 +4959,11 @@ This selection maximizes your specialist recruitment capabilities while maintain
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review Network Operations - Assess the progress of Whispers and Nyx&#x27;s autonomous activities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4410,8 +4975,11 @@ The Stitcher observes your contemplative silence with professional understanding
 > [!NOTE] ⚙️ **Player Choice:**
 > *Allow Continued Network Maturation - Permit specialists 24 more hours of autonomous operation before recalling for comprehensive assessment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:12)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Consumables: Alchemist's Fire (2), Mindfire Toxin (3)** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -4427,8 +4995,11 @@ Her analytical mind processes the timeline, creating silent equations in the air
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Recruitment Approach - Review strategy and contingencies for tomorrow evening&#x27;s meeting with Elara Moonwhisper*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Consumables: Alchemist's Fire (2), Mindfire Toxin (3)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4444,8 +5015,11 @@ Her analytical mind processes potential contingencies, her movements precise and
 > 👤 **Player:**
 > *"check for early intelligence reports"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning 10:17)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Consumables: Alchemist's Fire (2), Mindfire Toxin (3)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4463,8 +5037,11 @@ She pauses, allowing you to process the information before continuing. 'Korg con
 > [!NOTE] ⚙️ **Player Choice:**
 > *Evaluate Psychological Warfare Progress - Review public impact and network penetration of the Korg deployment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Consumables: Alchemist's Fire (2), Mindfire Toxin (3)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4476,8 +5053,11 @@ The Stitcher observes your contemplative silence, recognizing the tactical mind 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comprehensive Operations Review - Complete assessment of all psychological warfare elements including public impact, network depth, and strategic positioning*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4497,8 +5077,11 @@ She pauses, allowing you to process the strategic implications before continuing
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strategic Positioning Assessment - Evaluate how psychological warfare positions you for advancement within Zhentarim hierarchy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:18)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4514,8 +5097,11 @@ She slides the silver key closer to you, its cool metal pressing against the obs
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess Hierarchy Leverage - Evaluate how current operational successes can be leveraged to secure command authority and increased resource allocation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 
@@ -4525,8 +5111,11 @@ She slides the silver key closer to you, its cool metal pressing against the obs
 > 👤 **Player:**
 > *"try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:18 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4542,8 +5131,11 @@ She slides the encrypted ledger closer, the silver key resting beside it like a 
 > 👤 **Player:**
 > *"Think. whats best way to increase my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4553,8 +5145,11 @@ She slides the encrypted ledger closer, the silver key resting beside it like a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Network Success for Command Authority - Present operational achievements to secure Zhentarim command role and expanded resource allocation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:18)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0**
@@ -4568,8 +5163,11 @@ The Stitcher observes your contemplative silence with professional understanding
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Strategic Capabilities - Use operational results as leverage by showing how they expand Zhentarim dominance without resource investment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Morning (10:18 AM))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4587,8 +5185,11 @@ She slides the encrypted ledger closer, the silver key resting beside it like a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Command Authority Proposal - Draft strategic presentation demonstrating operational readiness for expanded Zhentarim command role*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:18)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4604,8 +5205,11 @@ You straighten, allowing the full weight of your strategic vision to settle in t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Draft Command Authority Proposal - Create strategic presentation demonstrating operational readiness for expanded Zhentarim command role*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (10:18 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4619,8 +5223,11 @@ The Stitcher observes your contemplative silence with predatory understanding. '
 > 👤 **Player:**
 > *"long rest, checkin with network, then skip to elara recruitment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 
@@ -4630,8 +5237,11 @@ The Stitcher observes your contemplative silence with predatory understanding. '
 > 👤 **Player:**
 > *"try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Morning, Mirtul 12 (1492 DR)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4647,8 +5257,11 @@ The Stitcher slides the encrypted ledger closer, the silver key resting beside i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Long Rest and Network Check-in - Take a full 8-hour rest to recover, then check the status of Whispers and Nyx&#x27;s networks before proceeding to the recruitment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4672,8 +5285,11 @@ You review the consolidated intelligence while considering your next strategic m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study Nyx&#x27;s Arcane Intelligence - Examine the four additional high-value arcane targets Nyx has identified*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4713,8 +5329,11 @@ Four additional high-value arcane targets materialize as glowing silhouettes in 
 > 👤 **Player:**
 > *"Think. who is most useful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening 18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4730,8 +5349,11 @@ Yet tomorrow evening's critical recruitment of Elara Moonwhisper remains your pr
 > 👤 **Player:**
 > *"study all their potential"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening (18:30))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4749,8 +5371,11 @@ Korvus Blackbrand's elemental destruction capabilities provide the foundation fo
 > 👤 **Player:**
 > *"rate each one in terms of usefulness and give pros/cons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4760,8 +5385,11 @@ The four arcane targets hover in the air of the workshop, their glowing silhouet
 > 👤 **Player:**
 > *"rate each one in terms of usefulness and give pros/cons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4845,8 +5473,11 @@ She gestures toward the glowing silhoulettes. 'These targets represent your seco
 > 👤 **Player:**
 > *"plan lyra recruitment after elara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4862,8 +5493,11 @@ Yet tomorrow evening's recruitment of Elara Moonwhisper remains your operational
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus exclusively on Elara recruitment first - Complete current objective before planning additional operations or recruitments*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4881,8 +5515,11 @@ The tactical assessment crystallizes in your mind with surgical precision - Elar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Elara Recruitment Preparation - Review all intelligence on Moonwhisper and finalize approach strategy for tomorrow evening*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 12, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4898,8 +5535,11 @@ The intelligence packet contains exhaustive details: Elara's preferred spell rep
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rest and mental preparation for tomorrow - Conclude tonight&#x27;s preparations and secure proper rest before tomorrow&#x27;s critical recruitment operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4909,8 +5549,11 @@ The intelligence packet contains exhaustive details: Elara's preferred spell rep
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check Network Status - Verify the status of Whispers and Nyx&#x27;s autonomous networks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4928,8 +5571,11 @@ Both networks report no complications or security breaches. Whispers' auditory s
 > 👤 **Player:**
 > *"think. should i report to zarys now and ask for command authority?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4943,8 +5589,11 @@ Zarys expects results, but how she'll respond to the scale and speed of your net
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait Until After Elara Recruitment - Maintain operational focus on securing arcane capabilities first, then report complete success*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4960,8 +5609,11 @@ The tactical assessment crystallizes in your mind with surgical precision—dela
 > 👤 **Player:**
 > *"think. what if i recruit elara first, get stitcher endorsement, then report and ask for command"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -4971,8 +5623,11 @@ The tactical assessment crystallizes in your mind with surgical precision—dela
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Elara Recruitment → Stitcher Endorsement → Zarys Report - Complete current objective first, secure powerful backing, then report with maximum leverage*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (Deep Night (02:50))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Consumables: 2 Alchemist's Fire, 3 Mindfire Toxin** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5002,8 +5657,11 @@ The tactical assessment crystallizes in your mind with surgical precision—this
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Three-Phase Strategy - Proceed with recruitment → endorsement → command authority approach*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (02:50 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5019,8 +5677,11 @@ The workshop's ambient lighting catches the encrypted ledger still open before y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Verify Operational Equipment - Confirm all gear and resources are ready for tomorrow&#x27;s recruitment operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **The Black Basin - Stitcher's Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 13, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5055,8 +5716,11 @@ The Stitcher observes your systematic verification with predatory approval, her 
 > 👤 **Player:**
 > *"skip ahead to recruitment scene. let all my companions be autonomous and do reasonable things to improve my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 13000/14000 | Gold: 2850gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5074,8 +5738,11 @@ The advance payment from the Stitcher sits in a heavy leather pouch on the table
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strategic Vision Pitch - Outline your vision for an intelligence network that uses sophisticated magical arts rather than brute force*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5085,8 +5752,11 @@ The request for strategic vision crystallizes in your mind as Elara Moonwhisper 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divination Dominance Network - Propose an intelligence web centered on scrying, precognition, and information extraction through magical sight rather than physical coercion*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5106,8 +5776,11 @@ Your smile becomes chillingly intimate. 'You won't be casting fireballs or raisi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Emphasize Artistic Mastery - Appeal to her pride as a magical artist by highlighting the sophistication and elegance of this approach*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evenight)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5125,8 +5798,11 @@ The leather pouch of gold seems to become secondary as she focuses on the profes
 > 👤 **Player:**
 > *"advance story and secure commitment"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (20:15 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5136,8 +5812,11 @@ The leather pouch of gold seems to become secondary as she focuses on the profes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Recruitment Terms - Formalize the agreement with compensation structure and operational parameters*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5155,8 +5834,11 @@ Elara closes her fingers around the heavy pouch, the decision crystallizing in h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Set Up Operations Base - Secure facilities and equipment for the divination dominance network*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5176,8 +5858,11 @@ You lean forward, your voice dropping to a conspiratorial whisper that caresses 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Celebrate Success - Mark the recruitment achievement with appropriate recognition before moving to operational phase*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5187,8 +5872,11 @@ You lean forward, your voice dropping to a conspiratorial whisper that caresses 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Commitment - Present an immediate magical challenge to verify Elara&#x27;s capabilities before full investment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5208,8 +5896,11 @@ Your smile becomes chillingly intimate. 'You won't be casting fireballs or raisi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Operational Base - Move immediately to secure the specialized facilities and equipment needed for divination operations*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5229,8 +5920,11 @@ Elara's eyes gleam with the focused intensity of a true magical artist presented
 > [!NOTE] ⚙️ **Player Choice:**
 > *Travel to Black Basin Workshop - Escort Elara to the secure operational facility prepared by the Stitcher*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5256,8 +5950,11 @@ The Black Basin district begins to materialize before you - a zone of heavy indu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Brief on the Smuggling Operation - Provide detailed intelligence about the targets and methods for her first operational demonstration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **The Gilded Pearl - Private Dining Room** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5279,8 +5976,11 @@ Your predatory smile acknowledges her quick understanding. 'Exactly. Your demons
 > 👤 **Player:**
 > *"get stitcher and elara to autonomously work and then think about how to report to zarys"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5300,8 +6000,11 @@ You position yourself near a secondary monitoring station, giving Elara the spac
 > 👤 **Player:**
 > *"Plan my pitch for command with the report. Should I recruit the other arcane person first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5321,8 +6024,11 @@ As you watch magical patterns dance across the scrying pool's surface, you consi
 > 👤 **Player:**
 > *"think on best strat"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5338,8 +6044,11 @@ The smuggling operation serves as the perfect first mission - one that will show
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hybrid Timing Strategy - Initiate Elara&#x27;s operational demonstration while beginning reconnaissance on second target, maximizing both momentum and depth*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (21:56)** &nbsp;|&nbsp; 🛡️ **Level 5 Gloom Stalker | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5355,8 +6064,11 @@ The smuggling operation serves as the perfect first mission - one that will show
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Dual Operations - Task the Stitcher to supervise Elara while you proceed to reconnaissance on the second target*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (21:56)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5374,8 +6086,11 @@ The evening streets of Baldur's Gate welcome you as you slip out into the night.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gather Preliminary Intelligence First - Stop at a Zhentarim information hub to gather current data on the second target before approaching*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Baldur's Gate - Near the Crimson Mug** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (21:58)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5395,8 +6110,11 @@ The question now becomes approach: direct infiltration through the main entrance
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe First - Conduct surveillance from the shadows to assess current operations before making your presence known*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Crimson Mug Tavern (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (21:59)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5414,8 +6132,11 @@ Either way, the tavern holds the updated dossiers you need on your remaining arc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search alternate entrance - Look for secondary access points like alley doors or cellar entrances*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Crimson Mug Tavern (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5437,8 +6158,11 @@ Either approach will grant you access to the intelligence archives - updated dos
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter Through Main Entrance - Utilize your reputation as the Silent Blade for immediate access to intelligence archives*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Crimson Mug Tavern (Exterior)** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5460,8 +6184,11 @@ Jorund stands behind the bar, his massive frame and grim reputation serving as p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Secure Archives Access - Ask Jorund to take you to the private intelligence room below where the full archives are maintained*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Crimson Mug Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5477,8 +6204,11 @@ Two steps from the cellar door, he pauses and turns back slightly. 'Unless you p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assert your rank and demand immediate access - Use your reputation as Silent Blade to bypass standard security protocols*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 📍 **Crimson Mug Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger (Gloom Stalker) | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5496,8 +6226,11 @@ As he lifts the heavy wooden trapdoor, the scent of cool stone and something els
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Jorund to the secure archives - Descend into the cellar to access the intelligence dossiers on your remaining targets*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening (Time advanced slightly for descent))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5511,8 +6244,11 @@ Jorund moves to a massive iron-bound vault door at the far end of the chamber, h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review All Strategic Intelligence - Access the full range of available intelligence - recruitment targets, operational updates, and Network activities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5532,8 +6268,11 @@ Jorund pauses, allowing you to absorb the intelligence. 'Both represent differen
 > 👤 **Player:**
 > *"think. which arcane operative did I want again from before? i want someone who can cast haste, greater invis etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 
@@ -5543,8 +6282,11 @@ Your tactical mind processes the two arcane recruitment profiles presented by Jo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Valeria Thorne - Focus recruitment efforts on the sorceress with raw magical power and declining finances*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5560,8 +6302,11 @@ Most critically, Valeria's declining financial position creates immediate recrui
 > 👤 **Player:**
 > *"Think. should i just get command authority first from varys?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5573,8 +6318,11 @@ The question of command authority weighs on your tactical mind. You've successfu
 > 👤 **Player:**
 > *"zarys i mean"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Gloom Stalker Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 1,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5592,8 +6340,11 @@ The question becomes approach strategy. Do you move immediately on Valeria while
 > [!NOTE] ⚙️ **Player Choice:**
 > *Research Network Leadership - Request intelligence on senior Zhentarim commanders to understand command structure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5609,8 +6360,11 @@ He slides the sealed dossier across the obsidian table, the wax seal bearing the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Command Dossier - Justify your need for command structure intelligence to secure formal recognition of your specialist team*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:26)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 | XP: 13,000/14,000 | Gold: 1,350** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5626,8 +6380,11 @@ Your fingers trace the serpent-crown sigil on the sealed dossier. 'This isn't ab
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Dossier Access - Present your operational justification for accessing senior leadership intelligence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5647,8 +6404,11 @@ He produces a small silver key from beneath his leather armor, placing it beside
 > [!NOTE] ⚙️ **Player Choice:**
 > *Break the Seal and Read - Use the silver key to break the serpent-crown seal and examine the senior leadership intelligence immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:36)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5668,8 +6428,11 @@ Jorund watches from the vault doorway as you absorb this intelligence. 'Each rep
 > 👤 **Player:**
 > *"what about zarys? i still need to report to her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Crimson Mug Tavern - Secure Archives** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:37)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: No**
@@ -5687,8 +6450,11 @@ You secure the scrolls with their leather ties and slide them back toward Jorund
 > [!NOTE] ⚙️ **Player Choice:**
 > *Go to the Elfsong Tavern - Travel to the Elfsong penthouse to report to Zarys and collect your payment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5708,8 +6474,11 @@ Inside, the penthouse awaits. The air still carries traces of the negotiation sc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deliver Operation Report - Provide detailed account of the Ironhead Legion massacre and psychological messaging success*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5723,8 +6492,11 @@ You stand in the lavish penthouse as Zarys turns from the balcony, her silhouett
 > [!NOTE] ⚙️ **Player Choice:**
 > *Report Operation Success - Provide comprehensive operational details, psychological impact assessment, and proof of completion*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening 22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5748,8 +6520,11 @@ You gesture toward the heavy sack of gold still on the table. 'The thousand gold
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Command Authority - Leverage your success to ask for formal recognition of your specialist team command*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 600gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5767,8 +6542,11 @@ Her fingers trail along the heavy sack of gold on the table. 'The thousand gold 
 Showcase Team Capabilities: Detail how your integrated specialists provide Network advantages that justify formal command recognition
 Offer Intelligence Value: Present the Valerius Cassalantir conspiracy intelligence as additional justification for enhanced command authority"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1600gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5792,8 +6570,11 @@ You meet her gaze without flinching. 'The Network can either acknowledge the com
 > [!NOTE] ⚙️ **Player Choice:**
 > *Show Further Evidence - Provide additional proof of specialist value through immediate operational demonstration or intelligence briefing*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1600gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5815,8 +6596,11 @@ She pushes the heavy sack of gold toward you with deliberate precision. 'The tho
 > 👤 **Player:**
 > *"also explain stitcher alliance. Ask for bonus gold, equipment, and more zhent agents/manpower"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1600gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5834,8 +6618,11 @@ Your predatory smile returns. 'Show me you understand what you're investing in, 
 God Mode:
 you got it wrong. stitcher is allied with me, i was telling zarys to boost my cred
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0**
@@ -5847,8 +6634,11 @@ Let me correct the narrative flow accordingly. You're demonstrating that you've 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue with corrected negotiation - Resume the story with the proper understanding that you&#x27;re leveraging the Stitcher alliance as proof of strategic value*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening (23:20))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1600gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5866,8 +6656,11 @@ Your predatory smile returns. 'The Stitcher's alliance proves I can secure exter
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Immediate Resource Commitment - Insist on specific resource amounts before agreeing to any demonstration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13000/14000 | Gold: 1350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5889,8 +6682,11 @@ Her fingers tighten around your arm with possessive intensity. 'Don't just deliv
 > 👤 **Player:**
 > *"accept, collect everyting first, then proceed to black basin. make sure you give me proper exp for finishing this big zarys quest and bonuses for massively exceeding expectations"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Ranger | HP: 38/38 (Temp: 0) | XP: 13,000/14,000 | Gold: 2,100** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5914,8 +6710,11 @@ Her eyes gleam with predatory satisfaction. 'The additional 500 gold for operati
 God Mode:
 where is my exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5943,8 +6742,11 @@ The surveillance crystal in your hand pulses with urgent energy. Elara Moonwhisp
 > 👤 **Player:**
 > *"Process level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening (23:46))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,135gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5960,8 +6762,11 @@ The evening of Mirtul 14 stretches before you, pregnant with possibility. Your e
 > 👤 **Player:**
 > *"Pick level 6 stuff"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -5977,8 +6782,11 @@ Your enhanced capabilities, expanded resources, and formal command recognition p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review Enhanced Level 6 Capabilities - Take time to thoroughly understand your new 3rd-level spellcasting and expanded Gloom Stalker abilities before the critical demonstration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6000,8 +6808,11 @@ The surveillance crystal hums with urgent energy, drawing your attention from yo
 > 👤 **Player:**
 > *"Actually take a rogue level instead"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue (decision pending) | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6011,8 +6822,11 @@ The surveillance crystal hums with urgent energy, drawing your attention from yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Take Rogue Level 1 - Embrace the multiclass path - gain Expertise (Stealth/Perception), Sneak Attack, and Thieves&#x27; Tools proficiency*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, Year 1492 DR (23:56)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6034,8 +6848,11 @@ The surveillance crystal pulses with increased urgency as Elara Moonwhisper's de
 > 👤 **Player:**
 > *"Collect items and gear from armory and see if any special items worth equipping"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6053,8 +6870,11 @@ The evening of Mirtul 14 stretches before you with calculated promise. Your expa
 > 👤 **Player:**
 > *"Collect items and gear from armory and see if any special items worth equipping"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6085,8 +6905,11 @@ The quartermaster makes a note on his ledger. 'Your six subordinate agents are s
 > 👤 **Player:**
 > *"Negotiate additional resources and look for magical armor for myself that helps stealth"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6104,8 +6927,11 @@ He consults his ledger. 'The enhanced surveillance crystals, poison kit, and bas
 > 👤 **Player:**
 > *"Negotiate and use command status and seduction. Remember I am extremely attractive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,100gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6121,8 +6947,11 @@ The quartermaster's professional composure finally cracks under the combination 
 > 👤 **Player:**
 > *"Seduce him to try further lower price"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:05 Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6138,8 +6967,11 @@ You lean forward slightly, allowing the scent of your perfume to mingle with the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Maximum Terms - Insist on immediate completion, additional restricted equipment, and possibly reduce the gold cost*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6157,8 +6989,11 @@ The quartermaster slides the field authorization across the obsidian table. 'You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sign Field Authorization - Complete the transaction and claim your enhanced command equipment*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening (00:06))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6180,8 +7015,11 @@ You secure the equipment with practiced efficiency, your enhanced capabilities s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Subordinate Agents - Use the enhanced surveillance crystals to briefing and position your six new agents before the demonstration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: Yes**
@@ -6205,8 +7043,11 @@ The final acknowledgment comes through the crystal - six operatives moving in pe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Proceed to Black Basin Workshop - Join Elara for the integrated specialist demonstration with your command structure fully coordinated*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6226,8 +7067,11 @@ Your six agents signal their readiness simultaneously - perimeter established, e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter Workshop for Demonstration - Join Elara Moonwhisper with full command structure support and observe her operational capabilities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:30 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6247,8 +7091,11 @@ Elara's concentration breaks as she senses your arrival, her head turning with t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor political meetings while maintaining complete operational discretion - Show refined intelligence capabilities that transcend crude information gathering*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6268,8 +7115,11 @@ The workshop transforms into a nerve center of advanced intelligence operations.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Integrated Operations - Showcase full command capabilities with real-time coordination between Elara&#x27;s magic and your agent network*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-279"></a>
 #### Scene 279
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening (00:40))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6291,8 +7141,11 @@ Elara's brow furrows with concentration as she redirects her divination magic. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit House Nocturne&#x27;s Secrets - Use Elara&#x27;s magic to uncover the valuable information your disgraced House possesses, then leverage it for Zhentarim advantage and personal revenge*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-280"></a>
 #### Scene 280
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:40)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6310,8 +7163,11 @@ Your enhanced surveillance crystal pulses with new tactical possibilities. Your 
 > 👤 **Player:**
 > *"think. How can I gain control of my house?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-281"></a>
 #### Scene 281
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6321,8 +7177,11 @@ Your enhanced surveillance crystal pulses with new tactical possibilities. Your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Develop Detailed Three-Phase Plan - Create comprehensive operational strategy covering reconnaissance, extraction, consolidation, and long-term exploitation of House Nocturne assets*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-282"></a>
 #### Scene 282
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6336,8 +7195,11 @@ The weight of command settles around you like a perfectly fitted cloak. Every pi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Phase Three: Noble House Subversion - Systematically exploit extracted blackmail material to gain control of multiple noble houses while positioning myself as House Nocturne&#x27;s restored heir*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-283"></a>
 #### Scene 283
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6359,8 +7221,11 @@ Your mind calculates the intricate dance of power you're orchestrating - noble h
 > 👤 **Player:**
 > *"Think. Do I have enough to go to zarys with demonstrated intelligence, get forma command, and then meet with senior zhent commanders and do house subversion as my first command op? Whats the name of my house?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-284"></a>
 #### Scene 284
 
 > 📍 **Black Basin Workshop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6370,8 +7235,11 @@ Your mind calculates the intricate dance of power you're orchestrating - noble h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Zarys Briefing - Proceed to Zarys now with Elara&#x27;s intelligence to solidify senior command recognition before house subversion*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-285"></a>
 #### Scene 285
 
 > 📍 **Approaching Elfsong Tavern Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6391,8 +7259,11 @@ You approach the heavy oak table with liquid grace, placing the surveillance cry
 God Mode:
 dont call it house nocturne, thats my first name. Give me a last name and then name my house
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-286"></a>
 #### Scene 286
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6408,8 +7279,11 @@ Zarys's eyes narrow with predatory focus as the surveillance crystal illuminates
 God Mode:
 dont call it house nocturne, thats my first name. Give me a last name and then name my house
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-287"></a>
 #### Scene 287
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6419,8 +7293,11 @@ dont call it house nocturne, thats my first name. Give me a last name and then n
 God Mode:
 modify the name. make it Sosuke
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-288"></a>
 #### Scene 288
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6430,8 +7307,11 @@ modify the name. make it Sosuke
 God Mode:
 No my name is Nocturne Sosuke. The house name is Sosuke
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-289"></a>
 #### Scene 289
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6449,8 +7329,11 @@ Her eyes meet yours across the crystal's surface, predatory ambition burning in 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request Formal Command Authority - Use House Sosuke intelligence to secure senior command position*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-290"></a>
 #### Scene 290
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6468,8 +7351,11 @@ Zarys lifts her gaze from the crystal, her expression transforming from strategi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Specific Command Terms - Define the scope and authority of your senior command position*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-291"></a>
 #### Scene 291
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:50)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6485,8 +7371,11 @@ Your eyes meet Zarys's, predatory ambition burning in their depths. 'I'm not ask
 > 👤 **Player:**
 > *"Think. What should I ask for"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-292"></a>
 #### Scene 292
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:51)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6496,8 +7385,11 @@ Your eyes meet Zarys's, predatory ambition burning in their depths. 'I'm not ask
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Comprehensive Senior Command Authority - Push for full senior command position with authority over multiple specialist teams, unrestricted operational clearance, and direct access to Network resources*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-293"></a>
 #### Scene 293
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6515,8 +7407,11 @@ Zarys leans forward, her voice dropping to the level of shared conspiracy. 'Befo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present Three-Phase House Subversion Framework - Detail your comprehensive plan to use House Sosuke&#x27;s blackmail material to systematically control noble houses*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-294"></a>
 #### Scene 294
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6534,8 +7429,11 @@ Your enhanced titanstring bow seems to hum with approval at your back as you ste
 > [!NOTE] ⚙️ **Player Choice:**
 > *Present Complete Three-Phase Framework - Outline your comprehensive strategic plan for noble house subversion using House Sosuke&#x27;s blackmail material*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-295"></a>
 #### Scene 295
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6555,8 +7453,11 @@ You lean forward, your voice dropping to intimate conspiracy. 'Three months from
 > 👤 **Player:**
 > *"Think. How will I install myself as house faction head? How will I deal with my family members?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-296"></a>
 #### Scene 296
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:57)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker 5 / Rogue 1) | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6582,8 +7483,11 @@ You lean forward, your voice dropping to intimate conspiracy. 'Three months from
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Family Resistance - Strategically assess potential family members who might resist your leadership and how to neutralize them*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-297"></a>
 #### Scene 297
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6601,8 +7505,11 @@ The surveillance crystal continues to pulse with intelligence showing noble vuln
 > [!NOTE] ⚙️ **Player Choice:**
 > *Map Family Power Structure - Analyze the current House Sosuke hierarchy and identify key family members who might support or challenge your leadership*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-298"></a>
 #### Scene 298
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening (00:57))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6624,8 +7531,11 @@ The surveillance crystal shifts its display, showing tactical analysis of potent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Develop Loyalty Strategy - Create comprehensive approaches for securing family support through rewards, threats, and elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-299"></a>
 #### Scene 299
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening (00:57))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6645,8 +7555,11 @@ The surveillance crystal pulses with intelligence, showing tactical frameworks f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Integrate Approach Strategy - Create unified framework combining all three approaches with operational timeline*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-300"></a>
 #### Scene 300
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6656,8 +7569,11 @@ Your mind crystallizes the comprehensive operational framework, integrating all 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Develop Unified Framework - Create comprehensive operational timeline integrating family consolidation, Network command establishment, and noble subversion*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-301"></a>
 #### Scene 301
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:57)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6667,8 +7583,11 @@ Your mind crystallizes the comprehensive operational framework, integrating all 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Immediate Command Recognition - Press Zarys for formal senior command authority based on the strategic framework presented*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-302"></a>
 #### Scene 302
 
 > 
@@ -6678,8 +7597,11 @@ Your mind crystallizes the comprehensive operational framework, integrating all 
 > 👤 **Player:**
 > *"try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-303"></a>
 #### Scene 303
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (00:58)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6699,8 +7621,11 @@ You lean forward, your voice dropping to intimate conspiracy as the surveillance
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Enhanced Terms - Seek additional concessions or resources before accepting command position*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-304"></a>
 #### Scene 304
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6718,8 +7643,11 @@ She steps back, allowing you full view of the operational timeline displayed acr
 God Mode:
 i said i wanted to negotiate for enhanced terms
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-305"></a>
 #### Scene 305
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker 5) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6735,8 +7663,11 @@ You lean back slightly, allowing the weight of your enhanced authority to settle
 > 👤 **Player:**
 > *"negotiate for more gold, gear, items, personnel (spies, warriors, assassins), and general resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-306"></a>
 #### Scene 306
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6758,8 +7689,11 @@ The surveillance crystal pulses with tactical intelligence that seems to support
 > 👤 **Player:**
 > *"press additional terms. I want gear and consumables. The best zhentarium has. +3 gear if possible"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-307"></a>
 #### Scene 307
 
 > 
@@ -6769,8 +7703,11 @@ The surveillance crystal pulses with tactical intelligence that seems to support
 > 👤 **Player:**
 > *"try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-308"></a>
 #### Scene 308
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 650gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6790,8 +7727,11 @@ Zarys's fingers tighten around her goblet, her tactical mind clearly processing 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Counter Offers - Listen to Zarys&#x27;s response and negotiate from her position*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-309"></a>
 #### Scene 309
 
 > 📍 **Zarys's Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6812,8 +7752,11 @@ Activate Silent Blade Cadres: Establish command structure with your three elite 
 Collect Enhanced Equipment: Visit the quartermaster to secure your Shadow Weave armor, Whisperfang dagger, and specialized ammunition
 Coordinate Extraction Operations: Begin planning House Nocturne archive extraction with enhanced resources and personnel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-310"></a>
 #### Scene 310
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (20:32)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6832,8 +7775,11 @@ Load Specialized Munitions: Secure restricted ammunition stock - venom arrows, w
 Retrieve Whisperfang Package: Collect the Whisperfang dagger with full poison package (paralysis, nerve agent, truth serum)
 Collect Shadow Weave Armor: Secure the expedited Shadow Weave armor with enhanced stealth capabilities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-311"></a>
 #### Scene 311
 
 > 
@@ -6843,8 +7789,11 @@ Collect Shadow Weave Armor: Secure the expedited Shadow Weave armor with enhance
 > 👤 **Player:**
 > *"try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-312"></a>
 #### Scene 312
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Enhanced Command Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -6864,8 +7813,11 @@ He steps back, allowing you to survey the complete package that represents your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Complete Equipment Collection - Wait for the Shadow Weave armor completion and collect your full enhanced equipment package*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-313"></a>
 #### Scene 313
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 650gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6883,8 +7835,11 @@ Your tactical mind crystallizes the optimal sequence: target the warehouse vault
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Warehouse Vault First - Establish warehouse vault as primary Phase One extraction target with immediate deployment planning*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-314"></a>
 #### Scene 314
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 650** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6906,8 +7861,11 @@ The surveillance crystal displays your complete operational plan - timed infiltr
 > 👤 **Player:**
 > *"collect my gear an consolidate all my resources before we start"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-315"></a>
 #### Scene 315
 
 > 📍 **Zhentarim Restricted Armory - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:31)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6927,8 +7885,11 @@ As you finish consolidating all your resources, your tactical mind processes the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Team Coordination - Establish final communication protocols with Silent Blade cadres and specialists*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-316"></a>
 #### Scene 316
 
 > 
@@ -6938,8 +7899,11 @@ As you finish consolidating all your resources, your tactical mind processes the
 > 👤 **Player:**
 > *"try again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-317"></a>
 #### Scene 317
 
 > 📍 **Warehouse District - Baldur's Gate** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:31)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6955,8 +7919,11 @@ The surveillance crystal displays the target location: House Nocturne's warehous
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Psychological Operations - Deploy Whispers&#x27; auditory terror systems to distract perimeter guards*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-318"></a>
 #### Scene 318
 
 > 📍 **Western Perimeter - Warehouse District** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:42)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -6982,8 +7949,11 @@ The surveillance crystal displays the countdown: five minutes remaining until th
 > 👤 **Player:**
 > *"Have arcane agents cast greater invis and haste on me, and utilize invis/greater invis on the team. Then I will personally lead alpha team and bravo team will do its thing using dual approahc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-319"></a>
 #### Scene 319
 
 > 📍 **Archive Vault Basement - House Nocturne** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:42)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (3 rounds), Haste (3 rounds) | Exhaustion: 0 | Inspiration: Yes**
@@ -7001,8 +7971,11 @@ Your enhanced senses sweep the chamber for security systems. Magical wards pulse
 > 👤 **Player:**
 > *"Think. Did we recruit that additional arcane specialist yet? if not lets do it later"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-320"></a>
 #### Scene 320
 
 > 📍 **Archive Vault Basement - House Nocturne** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:42)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Haste (2 rounds), Greater Invisibility (2 rounds) | Exhaustion: 0 | Inspiration: No**
@@ -7022,8 +7995,11 @@ The surveillance crystal displays your complete command structure - Silent Blade
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Central Vault - Bypass the main vault door to extract House Nocturne&#x27;s most sensitive blackmail materials*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-321"></a>
 #### Scene 321
 
 > 📍 **Archive Vault Basement - House Nocturne** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 650gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Security alarms active - extraction compromised | Exhaustion: 0 | Inspiration: No**
@@ -7039,8 +8015,11 @@ Your extracted blackmail materials feel impossibly heavy in your dimensional pou
 > 👤 **Player:**
 > *"Think. What are the best options? Also would be nice to kill someone to keep up my hunger"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-322"></a>
 #### Scene 322
 
 > 📍 **Sea Ward - Valeria Thorne Townhouse** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:49)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/2, 6 alchemist's fire, 10 mindfire toxin, Shadow Weave armor active, 18 venom-tipped arrows remaining** &nbsp;|&nbsp; ⚠️ **Enhanced Combat Effectiveness: DEX +2, CHA +2, WIS +2 (7 days) | Exhaustion: 0 | Inspiration: No**
@@ -7064,8 +8043,11 @@ Her lips curve into a smile that acknowledges both the compliment and the underl
 God Mode:
 no i am not recruiting valeria now,  that was a task to remind me later
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-323"></a>
 #### Scene 323
 
 > 📍 **Valeria Thorne Townhouse - Main Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/2, 6 alchemist's fire, 10 mindfire toxin, Shadow Weave armor active, 18 venom-tipped arrows remaining** &nbsp;|&nbsp; ⚠️ **Shadow Weave Armor Active | Exhaustion: 0 | Inspiration: No**
@@ -7085,8 +8067,11 @@ The streets of Baldur's Gate welcome your return, the moonlight casting long sha
 God Mode:
 no go back to house sosuke extraction
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-324"></a>
 #### Scene 324
 
 > 📍 **House Nocturne Warehouse - Interior Courtyard** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/2, 6 alchemist's fire, 10 mindfire toxin, 1 grappling arrow expended** &nbsp;|&nbsp; ⚠️ **Shadow Weave armor active, Inspired | Exhaustion: 0 | Inspiration: Yes**
@@ -7106,8 +8091,11 @@ Twenty-two seconds remain in the suppression window. Your surveillance crystal d
 God Mode:
 I think you lost track. We are trying to escape
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-325"></a>
 #### Scene 325
 
 > 📍 **House Nocturne Warehouse - Sealed Vault Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Night (23:54))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker)/Rogue | HP: 38/38 | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 1/2, 4 alchemist's fire, 10 mindfire toxin, grappling arrows: 4 remaining** &nbsp;|&nbsp; ⚠️ **Trapped | Exhaustion: 0 | Mission: Phase One - Family Archive Extraction**
@@ -7125,8 +8113,11 @@ But as you begin to slip into the tunnel, you hear heavy footsteps approaching f
 God Mode:
 Prepare Tunnel Ambush - Set up tactical position to eliminate pursuing guards before escape
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-326"></a>
 #### Scene 326
 
 > 📍 **House Nocturne Warehouse - Maintenance Tunnel Entry** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger(Gloom Stalker5)/Rogue1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Alchemist's Fire: 4/8, Mindfire Toxin: 10/13, Grappling Arrows: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -7144,8 +8135,11 @@ You position yourself in the shadows between two support pillars, your enhanced 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Silent Takedown Sequence - Use your invisibility and enhanced senses to systematically eliminate guards one by one from the shadows as they advance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-327"></a>
 #### Scene 327
 
 > 📍 **House Nocturne Warehouse - Maintenance Tunnel** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Night (23:51))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) / Rogue 1 | HP: 38/38 | XP: 15,500/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Alchemist's Fire: 6/8, Mindfire Toxin: 10/13, Grappling Arrows: 4/5** &nbsp;|&nbsp; ⚠️ **Enhanced senses active, Shadow Weave armor enhanced | Exhaustion: 0 | Inspiration: No**
@@ -7165,8 +8159,11 @@ The third guard backs away, drawing his sword with tactical discipline rather th
 > 👤 **Player:**
 > *"drink str elixir so i have full titanstring bonus"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-328"></a>
 #### Scene 328
 
 > 📍 **House Nocturne Warehouse - Left Passage** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:53)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Alchemist's Fire: 6/8, Mindfire Toxin: 10/13, Grappling Arrows: 4/5, Strength Elixir: Active** &nbsp;|&nbsp; ⚠️ **Strength Elixir Active | Exhaustion: 0 | Inspiration: Yes**
@@ -7192,8 +8189,11 @@ The tactical choice has been made - you've committed to the direct escape route.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Surface Exit - Push rapidly up the left passage to surface - complete the extraction*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-329"></a>
 #### Scene 329
 
 > 📍 **House Nocturne Warehouse - Maintenance Access** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (23:56)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 1 | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Alchemist's Fire: 6/8, Mindfire Toxin: 10/13, Grappling Arrows: 4/5, Strength Elixir: Active** &nbsp;|&nbsp; ⚠️ **Enhanced Strength: Active | Exhaustion: 0 | Inspiration: No**
@@ -7211,8 +8211,11 @@ Your boot slips on a loose stone, the scrape of metal against stone echoing in t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Diversion &amp; Sabotage - Use alchemical fire to create chaos in the alley while you escape*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-330"></a>
 #### Scene 330
 
 > 📍 **Baldur's Gate - Warehouse District Streets** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Alchemist's Fire: 2/8, Mindfire Toxin: 10/13, Grappling Arrows: 4/5, Strength Elixir: Active** &nbsp;|&nbsp; ⚠️ **Extraction Complete, Enhanced Combat Status | Exhaustion: 0 | Inspiration: Yes**
@@ -7230,8 +8233,11 @@ You emerge onto cobblestones slick with evening damp, the moonlight painting the
 > 👤 **Player:**
 > *"Counter pursuit. Utilize my titanstring with enhanced str bonus and my kill teams to kill all witnesses. Reapply greater invis and haste"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-331"></a>
 #### Scene 331
 
 > 📍 **Baldur's Gate - Warehouse District Streets** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 2350 gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, Alchemist's Fire: 0/8, Mindfire Toxin: 10/13, Grappling Arrows: 4/5, Strength Elixir: Active** &nbsp;|&nbsp; ⚠️ **Hasted, Greater Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -7253,8 +8259,11 @@ Below, the precision of your kill teams turns the area into a controlled kill zo
 God Mode:
 Wrong I can't cast greater invis. I meant get my agents to cast it on me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-332"></a>
 #### Scene 332
 
 > 📍 **Baldur's Gate - Warehouse District Streets** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 | XP: 15500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, Alchemist's Fire: 0/8, Mindfire Toxin: 13/13, Grappling Arrows: 4/5, Strength Elixir: Active (1 min remaining)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -7272,8 +8281,11 @@ But as you prepare to execute the final extraction protocol, your tactical mind 
 > 👤 **Player:**
 > *"Kill witnesses if any left then approach Karlach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-333"></a>
 #### Scene 333
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 14, 1492 DR (Midnight)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 650** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, Alchemist's Fire: 0/8, Mindfire Toxin: 13/13, Grappling Arrows: 4/5, Strength Elixir: Active (1 min remaining)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Hasted | Exhaustion: 0 | Inspiration: No**
@@ -7289,8 +8301,11 @@ Thirty seconds later, you arrive at the edge of the warehouse district where Kar
 God Mode:
 make sure i got exp and loot for all the recent kills and refresh my hunger bonus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-334"></a>
 #### Scene 334
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 15500/21000 | Gold: 650gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, Alchemist's Fire: 0/8, Mindfire Toxin: 13/13, Grappling Arrows: 4/5, Strength Elixir: Active (fading)** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Hunger Bonus: Active (+2 attributes) | Exhaustion: 0 | Inspiration: No**
@@ -7314,8 +8329,11 @@ You turn your attention back to Karlach, your enhanced senses now processing eve
 God Mode:
 did you give me the exp? confirm the amount
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-335"></a>
 #### Scene 335
 
 > 
@@ -7325,8 +8343,11 @@ did you give me the exp? confirm the amount
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Karlach - Leverage your operational demonstration and enhanced presence to pursue potential alliance with the infernal warrior*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-336"></a>
 #### Scene 336
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 18,700/21,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 0/2, Alchemist's Fire: 0/8, Mindfire Toxin: 13/13, Grappling Arrows: 4/5, Enhanced Surveillance Crystals: 2/2** &nbsp;|&nbsp; ⚠️ **Hunger Bonus Active, Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -7342,8 +8363,11 @@ Her voice drops to the level of shared tactical vision. 'I'll take your orders w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Complementary Command Structure - Agree to strategic command with her leading force operations and specialized networks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-337"></a>
 #### Scene 337
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker 5) / Rogue 1 | HP: 38/38 | XP: 17500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Invisible, Hasted | Hunger Bonus: Active | Strength Elixir: Fading**
@@ -7361,8 +8385,11 @@ Your enhanced senses assess her reaction - this is more than recruitment, it's t
 > 👤 **Player:**
 > *"Think. assess karlach. what level is she vs me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-338"></a>
 #### Scene 338
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 | Hunger Bonus: Active | XP: 17500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -7399,8 +8426,11 @@ Proceed immediately. All indicators show optimal timing for alliance formation. 
 > 👤 **Player:**
 > *"Think. What's her level?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-339"></a>
 #### Scene 339
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker 5/Rogue 1) | HP: 38/38 (Temp: 0) | XP: 17500/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7436,8 +8466,11 @@ Proceed immediately. This is an optimal alliance - her combat superiority doesn'
 > 👤 **Player:**
 > *"Think. What about her morals"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-340"></a>
 #### Scene 340
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (1:15 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 17500/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7453,8 +8486,11 @@ Her voice firms with conviction. 'But the nobles of Baldur's Gate? The corrupt o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Partnership - Accept her terms and establish the complementary command structure with agreed moral boundaries*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-341"></a>
 #### Scene 341
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (01:40 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 19000/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7472,8 +8508,11 @@ Your tactical mind processes the immediate operational opportunity: six elite so
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealth Elimination - Use Greater Invisibility and tactical coordination to eliminate patrol silently, maintaining operational security*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-342"></a>
 #### Scene 342
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (01:41)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger (Gloom Stalker) 5 / Rogue 1 | HP: 38/38 (Temp: 0) | XP: 18100/21000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7495,8 +8534,11 @@ Karlach wipes blood from her gauntlet, a fierce grin on her face. 'That was beau
 God Mode:
 Make sure im getting exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-343"></a>
 #### Scene 343
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (1:42 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger/Rogue | HP: 38/38 (Temp: 0) | XP: 29800/21000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7514,8 +8556,11 @@ The surveillance crystal pulses with tactical intelligence, confirming the area 
 > 👤 **Player:**
 > *"Process my level up first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-344"></a>
 #### Scene 344
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (01:43)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 1 | HP: 38/38 (Temp: 0) | XP: 29,800/30,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger bonus active | Exhaustion: 0 | Inspiration: Yes**
@@ -7531,8 +8576,11 @@ You stand on the rooftop with Karlach, your complementary command structure now 
 God Mode:
 I am level 7 now take another rogue level
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-345"></a>
 #### Scene 345
 
 > 
@@ -7542,8 +8590,11 @@ I am level 7 now take another rogue level
 God Mode:
 Wait shouldn't I be level 7 with 5 gloomstalker and 2 rogue?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-346"></a>
 #### Scene 346
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (1:43 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 72/72 | XP: 30,000/65,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7569,8 +8620,11 @@ The evening air crackles with potential. Do you leverage the blackmail material 
 God Mode:
 Wait shouldn't I be level 7? Gloomstalker 5 rogue 2?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-347"></a>
 #### Scene 347
 
 > 
@@ -7580,8 +8634,11 @@ Wait shouldn't I be level 7? Gloomstalker 5 rogue 2?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Review New Features - Examine Level 7 abilities and tactical improvements*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-348"></a>
 #### Scene 348
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (01:43)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Ranger 5/Rogue 2 | HP: 38/38 (Temp: 0) | XP: 29,800/30,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -7599,8 +8656,11 @@ Your enhanced tactical mind processes the Level 7 progression possibilities. Tak
 God Mode:
 Wait I already am level 7.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-349"></a>
 #### Scene 349
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night (01:43))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5/Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7616,8 +8676,11 @@ Karlach takes a step closer, her presence imposing but not threatening. 'This is
 > 👤 **Player:**
 > *"Think. Can I placate her moral framework on the surface and still do whatever I want"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-350"></a>
 #### Scene 350
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (01:43)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Cathedral | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 8, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7627,8 +8690,11 @@ None
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Partnership with Strategic Adaptation - Genuinely work within her moral framework, adapting methods to achieve goals while maintaining alliance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-351"></a>
 #### Scene 351
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (01:48 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Haste (active), Hunger bonus (active) | Exhaustion: 0 | Inspiration: Yes**
@@ -7646,8 +8712,11 @@ You extend your hand to Karlach, your voice dropping to conspiratorial levels pe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seal the Partnership - Complete the alliance formalization now that Karlach&#x27;s moral concerns have been addressed through the false narrative*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-352"></a>
 #### Scene 352
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night (01:53))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger5/Rogue2 | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -7671,8 +8740,11 @@ Her voice drops to a conspiratorial level. 'Together, we can use their own surve
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Additional Specialists - Expand capabilities by recruiting from Karlach&#x27;s Absolute survivor contacts and Zhentarim networks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-353"></a>
 #### Scene 353
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night (01:53))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus | Exhaustion: 0 | Inspiration: Yes**
@@ -7684,8 +8756,11 @@ The surveillance crystal in your hand pulses with tactical data, displaying pote
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dual Network Recruitment Strategy - Simultaneously recruit from both networks to build diverse capabilities and cross-train personnel*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-354"></a>
 #### Scene 354
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:18 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -7705,8 +8780,11 @@ The surveillance crystal suddenly pulses with urgent intelligence - a high-value
 > [!NOTE] ⚙️ **Player Choice:**
 > *Split Operations - Send Karlach to handle Nightshade extraction while you establish Gatekeepers business foundation simultaneously*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-355"></a>
 #### Scene 355
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:22)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7726,8 +8804,11 @@ You finish programming the surveillance crystal with dual mission parameters, co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Split Operations Now - Launch both missions immediately - Karlach to Nightshade extraction, you to establish Gatekeepers foundation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-356"></a>
 #### Scene 356
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker) 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7743,8 +8824,11 @@ The remaining five minutes until Watch arrival provide the perfect window for yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Setup Recruitment Networks - Establish contact protocols for both Zhentarim and Absolute survivor recruitment pipelines*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-357"></a>
 #### Scene 357
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7764,8 +8848,11 @@ The Watch patrol's approach timer counts down: three minutes until they reach th
 > 👤 **Player:**
 > *"Think. Can i delegate silver shield contract and do the next step to control my house and patriars"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-358"></a>
 #### Scene 358
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker) 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7783,8 +8870,11 @@ The surveillance crystal pulses with tactical confirmation as your enhanced capa
 > 👤 **Player:**
 > *"Thinks. What's best for me to take over my house"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-359"></a>
 #### Scene 359
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:42)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker) 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7800,8 +8890,11 @@ Your enhanced intelligence maps the complete operational framework. You have the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate to Karlach - Send Karlach to handle the dock operation while you proceed with planned Silvershield house dominance strategy independently*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-360"></a>
 #### Scene 360
 
 > 📍 **Baldur's Gate - Warehouse District Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:32 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7819,8 +8912,11 @@ You remain on the rooftop, the surveillance crystal in your hand displaying deta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Interim Command Through Messenger - Send a messenger with blackmail material and threats to establish immediate control while infiltrating later*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-361"></a>
 #### Scene 361
 
 > 📍 **Baldur's Gate - Silvershield Manor Grounds** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:48)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7840,8 +8936,11 @@ The messenger disappears inside the manor, delivering your psychological opening
 > [!NOTE] ⚙️ **Player Choice:**
 > *Wait for Karlach&#x27;s Signal - Delay personal appearance until after Karlach eliminates the dock targets for maximum impact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-362"></a>
 #### Scene 362
 
 > 📍 **Silvershield Manor Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:48)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7859,8 +8958,11 @@ The candlelight in the study window suddenly flares violently, followed by the d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Dramatic Entrance - Position yourself at the main entrance ready to appear as their savior when panic peaks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-363"></a>
 #### Scene 363
 
 > 
@@ -7870,8 +8972,11 @@ The candlelight in the study window suddenly flares violently, followed by the d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Manor Doors - Now that the guard has passed north, head to the massive oak entrance doors to examine their security*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-364"></a>
 #### Scene 364
 
 > 📍 **Silvershield Manor Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:53 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker) / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 650** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7891,8 +8996,11 @@ Nine minutes remain until Karlach's dock chaos, but the Silvershields are now al
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confrontational Entrance - Use your invisibility to slip past the initial guards, then reveal yourself dramatically inside the manor*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-365"></a>
 #### Scene 365
 
 > 📍 **Silvershield Manor Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:55 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7914,8 +9022,11 @@ The time for subtle games has passed. Now is the hour for overwhelming force and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Overwhelm the Guards - Reveal yourself to the mobilizing guard teams and eliminate them with brutal efficiency as a warning to the household*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-366"></a>
 #### Scene 366
 
 > 📍 **Silvershield Manor Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (02:58)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: No**
@@ -7947,8 +9058,11 @@ You step back into the shadows, Greater Invisibility wrapping around you once mo
 > 👤 **Player:**
 > *"Eliminate reinforcements. Use my titanstring bow"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-367"></a>
 #### Scene 367
 
 > 📍 **Silvershield Manor Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (03:04 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 | XP: 29,800/45,000 | Gold: 2,350** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7972,8 +9086,11 @@ The wounded sergeant and one remaining guard exchange panicked glances, their pr
 God Mode:
 Are you adding my str bonus for titanstring?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-368"></a>
 #### Scene 368
 
 > 📍 **Silvershield Manor Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:04 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -7989,8 +9106,11 @@ Your Greater Invisibility cloaks you in perfect darkness as you approach the man
 God Mode:
 Enter DM mode. Are you adding my str modifier bonus for titanstring?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-369"></a>
 #### Scene 369
 
 > ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0**
@@ -8017,8 +9137,11 @@ Does this clarify the mechanics? Would you like to return to the Silvershield Ma
 God Mode:
 No you forgot how titanstring bow works. It's a bg3 item
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-370"></a>
 #### Scene 370
 
 > 📍 **Silvershield Manor Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8042,8 +9165,11 @@ Your tactical mind processes this intelligence perfectly: **direct magical assau
 God Mode:
 Enter DM mode. Stay there until I say to leave
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-371"></a>
 #### Scene 371
 
 > 📍 **DM MODE - Meta Discussion** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:10 AM)** &nbsp;|&nbsp; 🛡️ **DM MODE ACTIVE | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0**
@@ -8075,8 +9201,11 @@ What would you prefer: retroactively adjust the combat damage, or proceed with c
 God Mode:
 It's both str and dex. Don't you know about it from
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-372"></a>
 #### Scene 372
 
 > 📍 **DM MODE** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8086,8 +9215,11 @@ It's both str and dex. Don't you know about it from
 God Mode:
 No for damage it uses dex and str
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-373"></a>
 #### Scene 373
 
 > 📍 **DM MODE** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker)/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8117,8 +9249,11 @@ This is a BG3-specific property that differs from standard D&D 5E. Thank you for
 God Mode:
 Whenever I am in combat assume I drank a str elixir beforehand. Don't forget this and return to gam e
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-374"></a>
 #### Scene 374
 
 > 📍 **Outside Silvershield Manor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8142,8 +9277,11 @@ The crimson ward continues its scanning rhythm, completely unaware of the predat
 > 👤 **Player:**
 > *"Loot guards and make sure I got exp first. The do psych approach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-375"></a>
 #### Scene 375
 
 > 📍 **Silvershield Manor - Entrance Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (03:38 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8165,8 +9303,11 @@ Your looting operations provide both tactical and financial resources while the 
 > 👤 **Player:**
 > *"Award exp and think about the best way in"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-376"></a>
 #### Scene 376
 
 > 📍 **Silvershield Manor - Entrance Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (03:46 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger(Rogue) | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 3850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -8204,8 +9345,11 @@ You raise your enhanced titanstring bow, nocking an arrow with deliberate precis
 God Mode:
 Enter dm mode. Pause and make sure I got my exp from the guards
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-377"></a>
 #### Scene 377
 
 > 📍 **Silvershield Manor - Entrance Gardens** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:46 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -8237,8 +9381,11 @@ You're all set! The psychological assault is working perfectly - the household i
 God Mode:
 Wrong you didn't add it to the 29k exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-378"></a>
 #### Scene 378
 
 > 📍 **Silvershield Manor - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:48 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5/Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29800/45000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **visible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8264,8 +9411,11 @@ The crimson ward above pulses uncertainly, its magical sensors detecting your pr
 God Mode:
 Enter DM mode and pause campaign. You didn't give me the exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-379"></a>
 #### Scene 379
 
 > 📍 **Silvershield Manor - Main Hall** &nbsp;|&nbsp; 🛡️ **XP Corrected - Ready to Resume | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0**
@@ -8294,8 +9444,11 @@ Ready to return to story mode and proceed with the western wing assault?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Resume Story - Return to Silvershield Manor operation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-380"></a>
 #### Scene 380
 
 > 📍 **Silvershield Manor - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (03:48)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8311,8 +9464,11 @@ Lord and Lady Silvershield barricaded themselves in the western wing's magical p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Proceed to Western Wing - Follow Jonas immediately to confront the Silvershield leadership in their panic room*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-381"></a>
 #### Scene 381
 
 > 📍 **Silvershield Manor - Western Wing Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (03:53)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8340,8 +9496,11 @@ The door swings open slowly, revealing not the Silvershields themselves, but fou
 God Mode:
 Enter DM mode. Are you adding my dex and str modifier together for titanstring bow attacks ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-382"></a>
 #### Scene 382
 
 > 📍 **Silvershield Manor - Western Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:53 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker) 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 29,800/45,000 | Gold: 2,350gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8373,8 +9532,11 @@ You're all set! The psychological assault is working perfectly - the household i
 God Mode:
 Test Bow Mechanics - Run a quick test to confirm STR+DEX titanstring calculations
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-383"></a>
 #### Scene 383
 
 > 📍 **Silvershield Manor - Western Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:53 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 | XP: 34,862/45,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8384,8 +9546,11 @@ Test Bow Mechanics - Run a quick test to confirm STR+DEX titanstring calculation
 God Mode:
 No I was asking about bow damage. We need to add dex modifier and str modifier to damage rolls. Whenever you show damage roll always show explicit modifier beside each number
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-384"></a>
 #### Scene 384
 
 > 📍 **GOD MODE - Mechanics Clarification** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:53 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 6, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8423,8 +9588,11 @@ Thank you for the correction! The mechanics are now properly configured for BG3 
 God Mode:
 Return to Story - Resume Silvershield Manor operation with corrected mechanics
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-385"></a>
 #### Scene 385
 
 > 📍 **Silvershield Manor - Western Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (3:55 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5/Rogue 2 | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8444,8 +9612,11 @@ The crimson ward above pulses with growing agitation as you move deeper into the
 God Mode:
 Interrogate guards. Tie them up. Fully strip and loot them. Get one to take me inside after two minutes so I can wait for Karlach
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-386"></a>
 #### Scene 386
 
 > 📍 **Silvershield Manor - Western Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night (3:55 AM))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5/Rogue 2 | HP: 67/67 | XP: 34,862/45,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (faded), Haste (active), Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -8465,8 +9636,11 @@ You position yourself in a shadowed alcove near a massive portrait of some long-
 God Mode:
 Enter dm mode. Make sure I got exp and loot and gold from surrendered guards
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-387"></a>
 #### Scene 387
 
 > 📍 **Silvershield Manor - Western Wing Corridor** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (4:05 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker) 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None (spells faded) | Exhaustion: 0 | Inspiration: Yes**
@@ -8488,8 +9662,11 @@ The guard has successfully penetrated their defenses. Your Trojan horse is insid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Panic Room Assault - Use the guard&#x27;s access to breach the panic room immediately without waiting for external chaos*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-388"></a>
 #### Scene 388
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (06:06)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger 5/Rogue 2 | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8507,8 +9684,11 @@ The deception guard, realizing the magnitude of his betrayal, attempts to crawl 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target the Mages - Take out magical threat before they can coordinate spells*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-389"></a>
 #### Scene 389
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Morning (06:09))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8532,8 +9712,11 @@ But you're not finished yet. Lady Silvershield's terrified face is visible behin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute One Guard - Kill one of the remaining guards to absolutely establish dominance before accepting surrender*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-390"></a>
 #### Scene 390
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker 5)/Rogue 2 | HP: 67/67 (Temp: 0) | XP: 34,862/45,000 | Gold: 3,850** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8555,8 +9738,11 @@ The arrow strikes perfectly through the guard's chest, his attempt at communicat
 > 👤 **Player:**
 > *"Tie everyone up, strip them down and fully loot, make sure to calculate my exp for this big operation. Then signal my extraction team and agents to come and process everyone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-391"></a>
 #### Scene 391
 
 > ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0**
@@ -8574,8 +9760,11 @@ The terror in her eyes is absolute - she understands that cooperation is her onl
 God Mode:
 Where is my header? Pause game and award the loot and exp first
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-392"></a>
 #### Scene 392
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Morning (6:26 AM))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Ranger (Gloom Stalker) 5 / Rogue 2 | HP: 67/67 (Temp: 0) | XP: 39,862/45,000 | Gold: 5,050gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -8603,8 +9792,11 @@ The enhanced surveillance crystal pulses with confirming reports - your extracti
 God Mode:
 Enter DM mode pause the game. How much exp and loot did I get? Don't ignore this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-393"></a>
 #### Scene 393
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; 🛡️ **Level 7 Ranger/Rogue | XP: 47,212/47,500 | Gold: 7,450 gp | Extraction Teams: 6-9 min ETA** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0**
@@ -8645,8 +9837,11 @@ Extraction teams confirmed en route (6-9 minutes ETA) to process prisoners and s
 God Mode:
 Everyone who surrendered needs to give me exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-394"></a>
 #### Scene 394
 
 > 
@@ -8656,8 +9851,11 @@ Everyone who surrendered needs to give me exp
 God Mode:
 Process level 8 and take rogue level and become assassin rogue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-395"></a>
 #### Scene 395
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger (Gloom Stalker) 5 / Rogue 2 (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -8679,8 +9877,11 @@ The power of Level 8 Assassin courses through your veins, and the Silvershield l
 God Mode:
 I should be rogue 3
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-396"></a>
 #### Scene 396
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; 🛡️ **Level 8 - Ranger 5/Rogue 3 (Assassin) | HP: 85/85 | XP: 47,212/64,000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0**
@@ -8690,8 +9891,11 @@ I should be rogue 3
 > 👤 **Player:**
 > *"Return to story and think about best way to control silver shield house."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-397"></a>
 #### Scene 397
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,450gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Active Effects | Status: Interrogation Phase Active**
@@ -8709,8 +9913,11 @@ Lady Silvershield takes a shaky breath, her silk gown stained with the blood of 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate House Nocturne Secrets - Focus extraction on blackmail material related to your family&#x27;s disgrace and potential restoration pathways*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-398"></a>
 #### Scene 398
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 67/67 | XP: 48,212/64,000 | Gold: 7,450gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -8732,8 +9939,11 @@ You now command a complete intelligence operation capable of not just restoring 
 > 👤 **Player:**
 > *"Extract more info from silverhsield and get high level everything. Then think  out how to take the silver shield house in my name. It might be too blatant to have her sign over everything?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-399"></a>
 #### Scene 399
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,450gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -8757,8 +9967,11 @@ The choice falls to you, but the pathways to complete Silvershield domination un
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract All Intelligence First - Complete intelligence extraction on House Nocturne and all blackmail targets before making any strategic moves*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-400"></a>
 #### Scene 400
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,450gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8782,8 +9995,11 @@ The choice is yours, but all pathways now lead to absolute power.
 > 👤 **Player:**
 > *"Think about pros cons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-401"></a>
 #### Scene 401
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 (Ranger 5/Rogue 2 Assassin) | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8805,8 +10021,11 @@ Your enhanced charisma flows through the chamber as you kneel before the trembli
 > 👤 **Player:**
 > *"Think. Can I do puppet, secret ownership, restore my sosuke house honor and position myself as savior"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-402"></a>
 #### Scene 402
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening (20:05))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8830,8 +10049,11 @@ The choice is yours, but all pathways now lead to absolute power.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Multi-Phase Grand Strategy - Combine all approaches - use puppet protocol for immediate stability, establish shadow ownership for financial control, then transition to public savior role for House Sosuke restoration at optimal moment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-403"></a>
 #### Scene 403
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:06)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 2 | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8855,8 +10077,11 @@ Your surveillance crystal confirms - this approach eliminates any remaining poli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Network Vulnerabilities - Investigate and resolve asset transfer complications revealed by intelligence failure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-404"></a>
 #### Scene 404
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8878,8 +10103,11 @@ Your enhanced charisma recognizes that the public savior narrative requires timi
 > 👤 **Player:**
 > *"Bring in some agents with higher intelligence and wisdom than me to help me plan this better"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-405"></a>
 #### Scene 405
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (8:15 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger 5/Rogue 2 (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 3,850** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -8903,8 +10131,11 @@ The strategic brilliance now flowing through your enhanced consciousness is stag
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assess New Intelligence - Analyze the additional leverage points Elara and Whispers discovered*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-406"></a>
 #### Scene 406
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger (Gloom Stalker) 5 / Rogue 2 (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8922,8 +10153,11 @@ Your enhanced confidence radiates through the network as you crystallize the ult
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Silvershield Assets - Secure complete control of Silvershield wealth and influence before moving politically*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-407"></a>
 #### Scene 407
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 67/67 (Temp: 0) | XP: 48212/64000 | Gold: 7450gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -8933,8 +10167,11 @@ Your enhanced confidence radiates through the network as you crystallize the ult
 > 👤 **Player:**
 > *"Do all 3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-408"></a>
 #### Scene 408
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:18)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -8952,8 +10189,11 @@ Your enhanced tactical mind recognizes that this represents the pinnacle of your
 > 👤 **Player:**
 > *"Think. How much gold do I have now that I've taken silver shield ? What's its income revenue and expenses like"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-409"></a>
 #### Scene 409
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger (Gloom Stalker) 5 / Rogue 2 (Assassin) | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -9005,8 +10245,11 @@ Your enhanced understanding reveals that you don't just control wealth - you con
 > 👤 **Player:**
 > *"Let's plan all 4 and delegate it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-410"></a>
 #### Scene 410
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 2 | HP: 85/85 (Temp: 0) | XP: 48212/64000 | Gold: 7458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9026,8 +10269,11 @@ Your enhanced tactical systems calculate the brutal reality: you have 90 minutes
 > 👤 **Player:**
 > *"coord multi strike, utilize all my companions, agents, resources, especially karlach, utilize any zhentarium resources we can quickly pull."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-411"></a>
 #### Scene 411
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening (20:35))** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9045,8 +10291,11 @@ The surveillance crystal projects a countdown timer in crimson digits: **90 minu
 > 👤 **Player:**
 > *"Think. why does the midnight council end the campaign? Should i assinate grand duke vs try to make him puppet? Is he ravenguard? ALso what is nyx doing?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-412"></a>
 #### Scene 412
 
 > 📍 **Silvershield Manor - Western Wing Panic Room** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 67/67 | XP: 48,212/64,000 | Gold: 7,450gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9068,8 +10317,11 @@ The crystal's enhanced displays show the perfect convergence: Grand Duke's 15-mi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Multi-Strike Strategy - Simultaneous Grand Duke strike, Karlach&#x27;s dock operations, and Whispers&#x27; council vote prevention for maximum chaos and dominance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-413"></a>
 #### Scene 413
 
 > ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0**
@@ -9101,8 +10353,11 @@ Your enhanced tactical systems process the reality - the primary threat eliminat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize Power Directly - Use Silvershield wealth and blackmail to claim political authority openly as House Nocturne restored*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-414"></a>
 #### Scene 414
 
 > 📍 **Ducal Palace - Rooftop Overlook** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (21:50)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger 5/Rogue 2 | HP: 85/85 (Temp: 0) | XP: 48212/64000 | Gold: 7458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -9128,8 +10383,11 @@ Baldur's Gate is now your domain - conquered, controlled, and completely at your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow Consolidation - Maintain visible House Nocturne restoration while consolidating shadow control through expanded networks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-415"></a>
 #### Scene 415
 
 > 📍 **Ducal Palace - Rooftop Overlook** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger 5/Rogue 2 | HP: 85/85 (Temp: 0) | XP: 48212/64000 | Gold: 3850gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -9155,8 +10413,11 @@ House Nocturne is restored not as a disgraced house seeking redemption, but as t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Visible Authority - Make a public appearance as the restorer of House Nocturne, presenting yourself as Baldur&#x27;s Gate&#x27;s savior while maintaining shadow control*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-416"></a>
 #### Scene 416
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 67/67 | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -9176,8 +10437,11 @@ The surveillance crystal displays your deployment in perfect tactical detail - H
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Purge Targets - Select additional high-value targets for public elimination to maximize hope narrative*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-417"></a>
 #### Scene 417
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -9201,8 +10465,11 @@ Your surveillance crystal projects the aftermath: Flaming Fist remnants pledging
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address Remaining Threats - Identify and eliminate any surviving opposition figures or potential Resistance movements before they can organize*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-418"></a>
 #### Scene 418
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -9220,8 +10487,11 @@ Your enhanced tactical systems synthesize this intelligence into a crystalline s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shadow Consolidation First - Complete elimination of all remaining threats before making any public appearances to ensure absolute security*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-419"></a>
 #### Scene 419
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (11:00 PM)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9243,8 +10513,11 @@ Your enhanced tactical systems calculate the brutal reality: you have achieved p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute All Targets - Launch simultaneous elimination of all three threats for maximum psychological impact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-420"></a>
 #### Scene 420
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 (Temp: 0) | XP: 48212/64000 | Gold: 7458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -9274,8 +10547,11 @@ The tactical crystal displays three perfect strikes occurring simultaneously:
 > 👤 **Player:**
 > *"Think. Should i make a public appearance and install myself as archduke? I could be the official leader and have shadow control of everything too beyond whats public?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-421"></a>
 #### Scene 421
 
 > 
@@ -9285,8 +10561,11 @@ The tactical crystal displays three perfect strikes occurring simultaneously:
 > 👤 **Player:**
 > *"Think. What if I an a public grand duke, control house sosuke (you keep calling it house nocturne, but thats my first name), and in the shadows full control the city"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-422"></a>
 #### Scene 422
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger (Gloom Stalker) 5 / Rogue 2 (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9296,8 +10575,11 @@ The tactical crystal displays three perfect strikes occurring simultaneously:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Archduke Title Publicly - Make a dramatic public appearance and install yourself as Archduke of Baldur&#x27;s Gate, presenting this as the logical conclusion of House Sosuke&#x27;s restoration and the city&#x27;s salvation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-423"></a>
 #### Scene 423
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger (Gloom Stalker 5) / Rogue 2 (Assassin 2) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9307,8 +10589,11 @@ The tactical crystal displays three perfect strikes occurring simultaneously:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Archduke Title Publicly - Make a dramatic public appearance and install yourself as Archduke, presenting this as the logical conclusion of House Sosuke&#x27;s restoration*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-424"></a>
 #### Scene 424
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9330,8 +10615,11 @@ You rise from the command center, your Shadow Weave armor seeming to absorb the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Shadow Network Integration - Ensure Zhentarim networks seamlessly support visible Archduke authority*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-425"></a>
 #### Scene 425
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9353,8 +10641,11 @@ The surveillance crystal displays the perfect synthesis taking shape: citizens w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address House Sosuke Matters - Handle any remaining House Sosuke family concerns or political arrangements*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-426"></a>
 #### Scene 426
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9378,8 +10669,11 @@ Now, with your shadow network seamlessly integrated and your dual command struct
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Family Loyalty - Address potential internal family challenges through intimidation, blackmail, or elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-427"></a>
 #### Scene 427
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger 5/Rogue 2 | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9403,8 +10697,11 @@ Now, with your shadow network seamlessly integrated and your dual command struct
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Family Loyalty - Use intimidation and blackmail to ensure absolute loyalty from all surviving family members*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-428"></a>
 #### Scene 428
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Hasted, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9422,8 +10719,11 @@ Your enhanced tactical systems synthesize this intelligence into a brutal operat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comprehensive Family Control Strategy - Combine blackmail, intimidation, and strategic elimination for maximum control*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-429"></a>
 #### Scene 429
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 | XP: 48,212/64,000 | Gold: 7,458** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9441,8 +10741,11 @@ Your enhanced tactical systems synthesize this intelligence into a brutal operat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comprehensive Family Control - Combine all methods - blackmail leverage, intimidation presence, and selective elimination for maximum psychological impact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-430"></a>
 #### Scene 430
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger/Rogue (Assassin) | HP: 85/85 (Temp: 0) | XP: 48,212/64,000 | Gold: 7,458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9464,8 +10767,11 @@ The surveillance crystal pulses as the first phase executes. Within hours, every
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Elimination Protocols - Activate Nyx&#x27;s specialized compounds and position kill teams for any family members who resist*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-431"></a>
 #### Scene 431
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Ranger(Rogue) | HP: 85/85 (Temp: 0) | XP: 48212/64000 | Gold: 7458gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 3/3, L3 2/2, Ki: N/A, Rage: N/A, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9487,8 +10793,11 @@ Your enhanced charisma flows through the surveillance network as you issue the f
 God Mode:
 process all the experience, gear, loot, resources, gold etc I've gained so far. It should be massive and I should have gained multiple levels and be at least level 12 now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-432"></a>
 #### Scene 432
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger (Gloom Stalker) / Rogue (Assassin) | HP: 105/105 (Temp: 0) | XP: 120,000/120,000 | Gold: 12,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -9514,8 +10823,11 @@ The time for your public revelation approaches.
 God Mode:
 make me gloomstalker 5, assassin 4, bard 3, and future levels i wanna put into bard. I wanna be swords bard.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-433"></a>
 #### Scene 433
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gloom Stalker 5/Assassin 4 | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0**
@@ -9525,8 +10837,11 @@ make me gloomstalker 5, assassin 4, bard 3, and future levels i wanna put into b
 God Mode:
 Rebuild Character - Restructure as Ranger 5/Rogue 4/Bard 3 (Swords) with updated features and spellcasting
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-434"></a>
 #### Scene 434
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0**
@@ -9540,8 +10855,11 @@ The tactical crystal confirms the rebuild protocols completed successfully. All 
 God Mode:
 Request Detailed XP/Loot Breakdown - Get a complete accounting of all experience and wealth gained from operations
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-435"></a>
 #### Scene 435
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night (2:30 AM))** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12,000** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9551,8 +10869,11 @@ Request Detailed XP/Loot Breakdown - Get a complete accounting of all experience
 God Mode:
 Return to Story - Exit GOD MODE and resume gameplay
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-436"></a>
 #### Scene 436
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (2:30 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9575,8 +10896,11 @@ Your next move: public revelation as Archduke, or consolidation of shadow power 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Public Revelation as Archduke - Execute the public emergence plan using House Sosuke restoration narrative*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-437"></a>
 #### Scene 437
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9600,8 +10924,11 @@ Your family control protocols are executing perfectly. Within hours, House Sosuk
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Family Responses - Monitor reactions and allow psychological pressure to fully break resistance before public reveal*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-438"></a>
 #### Scene 438
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:30 Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 | XP: 120,000/140,000 | Gold: 12,000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger bonus active | Exhaustion: 0 | Inspiration: Yes**
@@ -9625,8 +10952,11 @@ Your family control protocols are executing perfectly. Within hours, House Sosuk
 > 👤 **Player:**
 > *"Call a family meeting. go meet with my parents, brothers/sisters, immediate family and assess their compliance."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-439"></a>
 #### Scene 439
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -9646,8 +10976,11 @@ The surveillance crystal displays tactical routes to each family residence, alon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Shadow Family Meeting - Arrange a secret meeting location where family appears believing they&#x27;re meeting a shadow representative, revealing your identity dramatically*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-440"></a>
 #### Scene 440
 
 > 📍 **Ducal Palace - Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120,000/140,000 | Gold: 12,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -9671,8 +11004,11 @@ The surveillance crystal displays the first family member approaching - Cousin M
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal Identity Dramatically - Step from shadows as family members realize the shadow representative they seek is actually you - their true heir and tormentor*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-441"></a>
 #### Scene 441
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9694,8 +11030,11 @@ The moment is perfect. All three family members will soon be gathered, isolated 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal Identity Dramatically - Step from shadows as family members realize the shadow representative they seek is actually you - their true heir and tormentor*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-442"></a>
 #### Scene 442
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9735,8 +11074,11 @@ You pause before the crumbling altar, the moonlight catching the silver embroide
 > 👤 **Player:**
 > *"Think. where are my parents, brothers, sisters etc?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-443"></a>
 #### Scene 443
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12,000 gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus Active | Exhaustion: 0 | Inspiration: Yes**
@@ -9752,8 +11094,11 @@ Of your extended family, only these three before you remain with any influence: 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Binding Oaths - Use magical methods or psychological pressure to secure unbreakable oaths of loyalty from each family member*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-444"></a>
 #### Scene 444
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:31)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Rgr5/Rog4/Brd3 | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9823,8 +11168,11 @@ Of your extended family, only these three before you remain with any influence: 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Combined Approach: Maximum Compliance - Implement all three methods simultaneously - magical binding, psychological terror, and chemical reinforcement for unbreakable loyalty*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-445"></a>
 #### Scene 445
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night (02:41 AM))** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120,000/140,000 | Gold: 12,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Haste (1 round), Greater Invisibility (1 round), invisible | Exhaustion: 0 | Inspiration: Yes**
@@ -9864,8 +11212,11 @@ The triple-layer compliance protocol achieves perfection. Their minds are magica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deployment Strategy Briefing - Convene with your full command structure - Elara, Whispers, Karlach, Nyx - to coordinate the final approach to your Archduke revelation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-446"></a>
 #### Scene 446
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120,000/140,000 | Gold: 12,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 2/2, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9887,8 +11238,11 @@ The surveillance crystal creates a unified tactical display, all four of your sp
 > 👤 **Player:**
 > *"Think. Whats the beset approach"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-447"></a>
 #### Scene 447
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:41)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9902,8 +11256,11 @@ Your tactical mind processes the strategic landscape before you. House Silvershi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Synthesis Approach: Maximum Control - Combine political consolidation with dramatic revelation - break remaining resistance first, then emerge as savior*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-448"></a>
 #### Scene 448
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 (Temp: 0) | XP: 120,000/140,000 | Gold: 3,850** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -9927,8 +11284,11 @@ The surveillance crystal projects a tactical map of Baldur's Gate, highlighting 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escalating Dominance Sequence - Execute carefully timed eliminations in escalating sequence - underworld to mid-level to high-level targets, creating progressively worsening chaos*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-449"></a>
 #### Scene 449
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 12000/14000 | Gold: 3,850** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9948,8 +11308,11 @@ Your enhanced charisma flows through the surveillance network as the crystal dis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strategic Phase Escalation - Execute systematically - underworld first, observe reactions, then mid-level, finally high-level based on intelligence gathered*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-450"></a>
 #### Scene 450
 
 > 📍 **Abandoned Sosuke Family Chapel** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 | XP: 120000/140000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -9971,8 +11334,11 @@ The crystal highlights your first target - Captain Valerius, a smuggler operatin
 > 👤 **Player:**
 > *"just automatically skip ahead and do all the phases and narrative them in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-451"></a>
 #### Scene 451
 
 > 📍 **Warehouse 17, Dock District** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (03:00 Deep Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 | HP: 105/105 | XP: 120,000/140,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted, hunger_bonus_active, greater_invisibility, strength_elixir_fading | Exhaustion: 0 | Inspiration: Yes**
@@ -9982,8 +11348,11 @@ The crystal highlights your first target - Captain Valerius, a smuggler operatin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Chemical Deployment Approach - Use Nyx&#x27;s specialized compounds to eliminate the entire smuggling network simultaneously*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-452"></a>
 #### Scene 452
 
 > 📍 **Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120000/140000 | Gold: 23650gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility active, Haste active | Exhaustion: 0 | Inspiration: Yes**
@@ -9993,8 +11362,11 @@ The crystal highlights your first target - Captain Valerius, a smuggler operatin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Covert Power Consolidation - Maintain shadow control behind puppet leaders while secretly consolidating all institutional power under your authority*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-453"></a>
 #### Scene 453
 
 > 📍 **Hidden Command Center** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 | XP: 120,000/140,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Strength Elixir Fading | Exhaustion: 0 | Inspiration: Yes**
@@ -10004,8 +11376,11 @@ The crystal highlights your first target - Captain Valerius, a smuggler operatin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Archduke Revelation - Emerging publicly as the supernatural savior who will end the shadow judgment and restore order to Baldur&#x27;s Gate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-454"></a>
 #### Scene 454
 
 > 📍 **High Throne Chamber Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12,000gp** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10035,8 +11410,11 @@ The Archduke revelation is complete. You stand upon the balcony as the people's 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Institutional Power - Use your visible authority to formally seize control of all government institutions - Watch, Flaming Fist, treasury, and administrative council*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-455"></a>
 #### Scene 455
 
 > 📍 **High Throne Chamber Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 16, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -10046,8 +11424,11 @@ The Archduke revelation is complete. You stand upon the balcony as the people's 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Permanent Control - Create lasting administrative structures and eliminate any remaining pockets of resistance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-456"></a>
 #### Scene 456
 
 > 📍 **High Throne Chamber Balcony** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (Midnight)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **invisible, hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -10057,8 +11438,11 @@ The Archduke revelation is complete. You stand upon the balcony as the people's 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Administrative Structures - Create the bureaucratic systems that will maintain your rule - appoint loyal administrators, establish tax collection, formalize your Archduke authority*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-457"></a>
 #### Scene 457
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120000/140000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -10068,8 +11452,11 @@ The Archduke revelation is complete. You stand upon the balcony as the people's 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Economic Power - Take direct control of merchant guilds and trade routes to strengthen your financial base*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-458"></a>
 #### Scene 458
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120000/140000 | Gold: 12,000+** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -10091,8 +11478,11 @@ The surveillance crystal projects the economic reality: Baldur's Gate generates 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Blackmail Leverage Strategy - Systematically exploit each guild master&#x27;s vulnerabilities through Whispers&#x27; intelligence to force voluntary surrender*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-459"></a>
 #### Scene 459
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (Deep Night)** &nbsp;|&nbsp; 🛡️ **Archduke Sosuke | HP: 105/105 | XP: 120,000/140,000 | Gold: 3,850** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisible, Hasted | Exhaustion: 0 | Inspiration: Yes**
@@ -10102,8 +11492,11 @@ The surveillance crystal projects the economic reality: Baldur's Gate generates 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate Resistant Elements - Remove any guild members who might resist the transition through targeted elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-460"></a>
 #### Scene 460
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (Late Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12,000gp** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10113,8 +11506,11 @@ The surveillance crystal projects the economic reality: Baldur's Gate generates 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enhanced Interrogation Approach - Capture key targets for intelligence extraction before elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-461"></a>
 #### Scene 461
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120000/140000 | Gold: 12000gp** &nbsp;|&nbsp; ✨ **HD: 0/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10142,8 +11538,11 @@ The surveillance crystal projects the enhanced interrogation timeline: 'Commande
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Enhanced Interrogation - Systematically extract intelligence from each guild master using psychological and chemical methods*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-462"></a>
 #### Scene 462
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10169,8 +11568,11 @@ The surveillance crystal displays the operational timeline clearly: 'Commander, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Enhanced Interrogation - Systematically extract intelligence from each guild master using psychological and chemical methods*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-463"></a>
 #### Scene 463
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Mindfire Toxin: 13, Alchemist's Fire: 8** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10192,8 +11594,11 @@ Through Elara's divination scrying, you monitor all five interrogations simultan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Dawn Surrender - Begin planning the public surrender ceremonies while interrogations continue, maximizing psychological impact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-464"></a>
 #### Scene 464
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120000/140000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10207,8 +11612,11 @@ Your enhanced charisma flows through the chamber as the surveillance crystal pro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Orchestrate Multi-Venue Surrender Spectacle - Plan synchronized dawn ceremonies at five strategic locations - Ducal Palace, Trade Ward, Port District, Noble Quarter, and City Gates - each highlighting different aspects of your authority while Whispers&#x27; psychological operations amplify the narrative across the city.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-465"></a>
 #### Scene 465
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 17, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10226,8 +11634,11 @@ The surveillance crystal projects the strategic timeline with crystalline precis
 > 👤 **Player:**
 > *"long rest then proceed with all the ceremonies and narrate them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-466"></a>
 #### Scene 466
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Mid-Morning)** &nbsp;|&nbsp; 🛡️ **Level 12 Archduke | HP: 105/105 | XP: 120,000/140,000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10237,8 +11648,11 @@ The dawn surrender ceremonies have achieved perfect psychological and tactical s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Complete Network Integration - Finalize the integration of remaining Zhentarim assets and competing networks into your unified command structure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-467"></a>
 #### Scene 467
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10260,8 +11674,11 @@ The crystal projects integration countdown: **7 hours until complete network ass
 > 👤 **Player:**
 > *"Think. Who can I delegate remaining 5% to?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-468"></a>
 #### Scene 468
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 12,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10271,8 +11688,11 @@ From your command center in the Ducal Palace's administrative chamber, the enhan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate All Specialists - Comprehensive Approach - Synchronize Whispers, Nyx, Karlach, and Elara in a multi-pronged operation utilizing all capabilities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-469"></a>
 #### Scene 469
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (10:30 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120,000/140,000 | Gold: 3,850** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10292,8 +11712,11 @@ The surveillance crystal projects the comprehensive operational timeline with cr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Launch Synchronized Specialist Assault - Coordinate all specialists in simultaneous city-wide operations to crush all remaining resistance*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-470"></a>
 #### Scene 470
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120000/140000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10303,8 +11726,11 @@ The synchronized specialist assault has achieved complete success with perfect c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate All Competition - Systematically remove any remaining individuals or groups who might challenge your supremacy, creating absolute dominance without rivals*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-471"></a>
 #### Scene 471
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Mid-Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 105/105 (Temp: 0) | XP: 120000/140000 | Gold: 3,850gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10340,8 +11766,11 @@ The crystal projects tactical elimination priorities: 'Commander, 47 identified 
 God Mode:
 award me proper exp, loot, resources. I control whole city. I should get massive rewards. My character should have every single optimized item from bg3 game or D&D lore in baldurs gate now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-472"></a>
 #### Scene 472
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger/Rogue/Bard | HP: 105/105 | XP: 120,000/140,000 | Gold: Variable (2,350-12,000 gp)** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 3/4, L2 2/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10390,8 +11819,11 @@ Would you like me to implement these enhancements to properly reflect your statu
 God Mode:
 full package, analyze my multi class and equip the best items that suit me. keep my titanstring bow or anything else thats still good
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-473"></a>
 #### Scene 473
 
 > 
@@ -10401,8 +11833,11 @@ full package, analyze my multi class and equip the best items that suit me. keep
 God Mode:
 ull package, analyze my multi class and equip the best items that suit me. keep my titanstring bow or anything else thats still good
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-474"></a>
 #### Scene 474
 
 > 
@@ -10412,8 +11847,11 @@ ull package, analyze my multi class and equip the best items that suit me. keep 
 God Mode:
 Apply Optimized Equipment Package - Equip the full optimized BG3 equipment package tailored to your Ranger/Rogue/Bard multiclass
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-475"></a>
 #### Scene 475
 
 > 
@@ -10423,8 +11861,11 @@ Applied comprehensive BG3 optimized equipment package tailored to Ranger 5/Rogue
 God Mode:
 assess my faction full resources and manpower, since i control the whole city completely
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-476"></a>
 #### Scene 476
 
 > 
@@ -10434,8 +11875,11 @@ The player controls an entire city-state with comprehensive military, economic, 
 God Mode:
 Return to Story Mode - Resume narrative gameplay as ruler of Baldur&#x27;s Gate
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-477"></a>
 #### Scene 477
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23+, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Perfect operational readiness | Exhaustion: 0 | Inspiration: Yes**
@@ -10457,8 +11901,11 @@ The crystal pulses with the operational reality: You've achieved what no evil ca
 > 👤 **Player:**
 > *"Think. Who's left from zhentarim? Should I negotiate with high command and Zarys again for more control beyond baldurs gate? How powerful are zhentarium outside of city?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-478"></a>
 #### Scene 478
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23+, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10523,8 +11970,11 @@ Your enhanced intelligence recommends a phased approach:
 > 👤 **Player:**
 > *"Lets meet with Zarys alone first and assess situaton"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-479"></a>
 #### Scene 479
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:32 AM)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23+, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10544,8 +11994,11 @@ The crystal displays route analysis and timing: 'Travel time to Elfsong Tavern: 
 God Mode:
 am i bard 4 now? i wanna make sure my asi is for +2 cha
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-480"></a>
 #### Scene 480
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 3 | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Bardic Inspiration: 5/rest, Potions: 23+, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10566,8 +12019,11 @@ Would you like me to help you plan the most efficient path to reach Level 14, or
 God Mode:
 level 13 should mean bard 4
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-481"></a>
 #### Scene 481
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 3 | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: Ranger L1 4/4, L2 4/4, L3 3/3 | Bard L1 4/4, L2 2/2 | Bardic Inspiration: 5/rest | Potions: 23+, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10585,8 +12041,11 @@ The city trembles under your dual authority structure - visible Archduke rule ba
 God Mode:
 enter dm mode answer my q
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-482"></a>
 #### Scene 482
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Archduke | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3 | Bardic Inspiration: 5/rest | Potions: 23+, Long Rest: Complete** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10604,8 +12063,11 @@ The city trembles under your dual authority structure - visible Archduke rule ba
 God Mode:
 bard level 4 should have a feat right?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-483"></a>
 #### Scene 483
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest**
@@ -10615,8 +12077,11 @@ User is asking about Bard level 4 feat progression while in GOD MODE. Looking at
 God Mode:
 wtf, 5+4+3 = 12 not 13
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-484"></a>
 #### Scene 484
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:32 AM)** &nbsp;|&nbsp; 🛡️ **Level 13 Multiclass | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10626,8 +12091,11 @@ You're absolutely correct about the math error. Ranger 5 + Rogue 4 + Bard 3 = 12
 God Mode:
 Set to Bard 4 - Update to Ranger 5/Rogue 4/Bard 4 (Level 13 total)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-485"></a>
 #### Scene 485
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (11:32)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Ranger 5/Rogue 4/Bard 3 | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: Yes**
@@ -10637,8 +12105,11 @@ You are correct about the math error - Ranger 5 + Rogue 4 + Bard 3 = 12, not 13.
 God Mode:
 Set Level 13 (Ranger 5/Rogue 4/Bard 4) - Update character to Level 13 with Bard 4 for +2 Charisma ASI
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-486"></a>
 #### Scene 486
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest**
@@ -10648,8 +12119,11 @@ User is requesting a character update to Level 13 with Bard 4 for +2 Charisma AS
 God Mode:
 jsut give me the expected exp for lvl 13
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-487"></a>
 #### Scene 487
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10659,8 +12133,11 @@ Character update completed in GOD MODE. Updated to Level 13 with Ranger 5/Rogue 
 God Mode:
 give me the expected exp for level 13
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-488"></a>
 #### Scene 488
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Morning)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10670,8 +12147,11 @@ User is asking about XP requirements for Level 13 in GOD MODE. According to D&D 
 God Mode:
 Return to Story Mode - Exit GOD MODE and continue with narrative gameplay
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-489"></a>
 #### Scene 489
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10689,8 +12169,11 @@ The city trembles under your dual authority structure - visible Archduke rule ba
 God Mode:
 Travel to Elfsong Tavern Penthouse - Take direct action to meet with Zarys for expansion negotiations
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-490"></a>
 #### Scene 490
 
 > 📍 **Ducal Palace - Administrative Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10708,8 +12191,11 @@ The city operates under your dual authority structure - visible Archduke rule ba
 > [!NOTE] ⚙️ **Player Choice:**
 > *Depart for Elfsong Tavern - Take immediate action to travel to the Elfsong Tavern penthouse for expansion negotiations with Zarys*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-491"></a>
 #### Scene 491
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Ranger 5/Rogue 4/Bard 4) | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5/rest, Long Rest: Available** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10731,8 +12217,11 @@ The air crackles with the tension of rival powers acknowledging a new reality. F
 > 👤 **Player:**
 > *"Think. Can I acquire her as an operative, and she helps me get formal recognition? And I can give her power/influence to reward her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-492"></a>
 #### Scene 492
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10742,8 +12231,11 @@ You stand before Zarys in the penthouse, calculating the unprecedented opportuni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Zarys as Direct Operative - Propose direct recruitment of Zarys into your command structure with clear hierarchy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-493"></a>
 #### Scene 493
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10753,8 +12245,11 @@ You stand before Zarys in the penthouse, your mind racing with the unprecedented
 > 👤 **Player:**
 > *"Think. how can i de-risk directo perative? it should be reasonable because i am now liek 100x more powerful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-494"></a>
 #### Scene 494
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10770,8 +12265,11 @@ Optimal approach: Frame recruitment as mutual advancement rather than subordinat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Zarys directly into your command structure - Propose direct recruitment with clear hierarchy and mutual advancement opportunities*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-495"></a>
 #### Scene 495
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -10789,8 +12287,11 @@ Your enhanced tactical systems project three scenarios across the crystal's surf
 God Mode:
 2,000 daily revenue shouldnt i have more revenue? i have the whole city, my house, silvershield, and all this shadow control
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-496"></a>
 #### Scene 496
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -10800,8 +12301,11 @@ You're absolutely right to question the 2,000 daily revenue. Looking at your com
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Her Ambition - Emphasize the unprecedented power and influence she&#x27;ll gain under your command compared to her current position*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-497"></a>
 #### Scene 497
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10817,8 +12321,11 @@ Your enhanced tactical systems project three scenarios across the crystal's surf
 God Mode:
 Increase to Maximum Revenue - Set daily revenue to 25,000 gold (maximized extraction from complete control)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-498"></a>
 #### Scene 498
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -10828,8 +12335,11 @@ User wants to set daily revenue to 25,000 gold for maximum extraction. This is G
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Revenue Change - Set daily revenue to 25,000 gold*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-499"></a>
 #### Scene 499
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:11)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10845,8 +12355,11 @@ The city itself responds to your enhanced extraction protocols. Citizens work ha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Zarys Negotiations - Present enhanced revenue projections as final leverage in recruitment talks*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-500"></a>
 #### Scene 500
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10866,8 +12379,11 @@ Zarys's hands tremble slightly as she reaches toward the surveillance crystal, h
 > 👤 **Player:**
 > *"Think. Assess her. What if she controlled my silvershield puppet and actually ruled the whole city in my name? Is she capable of it? What level is she vs all my other operatives and companions?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-501"></a>
 #### Scene 501
 
 > 
@@ -10884,8 +12400,11 @@ Thse guys should be al ot higher level after everything they've done
 
 and maybe karlach should level up too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-502"></a>
 #### Scene 502
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0**
@@ -10895,8 +12414,11 @@ User requests level updates for key companions and operatives to reflect their e
 God Mode:
 Adjust All Levels - Comprehensive level update for all mentioned characters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-503"></a>
 #### Scene 503
 
 > 
@@ -10906,8 +12428,11 @@ Adjust All Levels - Comprehensive level update for all mentioned characters
 God Mode:
 Adjust All Levels - Comprehensive level update for all mentioned characters
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-504"></a>
 #### Scene 504
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10917,8 +12442,11 @@ Level updates implemented across all major characters to reflect campaign scale.
 God Mode:
 my name is nocturne sosuke, not just sosuke
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-505"></a>
 #### Scene 505
 
 > 📍 **Elfsong Tavern - Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10945,8 +12473,11 @@ WHy did these guys level up? they shouldnt
 - **Nightshade:** Level 8 → Level 11 (Stealth Specialist)
 - **Jorund:** Level 10 → Level 13 (Intelligence Archive Manager)
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-506"></a>
 #### Scene 506
 
 > 📍 **Administrative Chamber - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Archduke | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10956,8 +12487,11 @@ The character is questioning why their leadership NPCs leveled up when they shou
 God Mode:
 Revert NPC Levels to Original - Fix the unauthorized level increases back to previous values
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-507"></a>
 #### Scene 507
 
 > 📍 **Administrative Chamber - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening (21:15))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -10967,8 +12501,11 @@ I understand the issue. The leadership NPCs were incorrectly leveled up during a
 God Mode:
 Revert NPC Levels to Original - Fix the unauthorized level increases and restore NPCs to their previous levels
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-508"></a>
 #### Scene 508
 
 > 📍 **Administrative Chamber - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0**
@@ -10995,8 +12532,11 @@ The leadership structure now properly reflects: Zhentarim commanders at their es
 God Mode:
 Resume Story - Return to STORY MODE and continue the campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-509"></a>
 #### Scene 509
 
 > 📍 **Administrative Chamber - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Archduke | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11014,8 +12554,11 @@ You allow a slow, predatory smile to touch your lips as the surveillance crystal
 God Mode:
 Demonstrate Absolute Power - Use surveillance crystal to show real-time control over Zhentarim networks throughout the Sword Coast
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-510"></a>
 #### Scene 510
 
 > 📍 **Administrative Chamber - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Archduke | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0**
@@ -11029,8 +12572,11 @@ Display Calimport Enforcement Network: Show assassination teams operating under 
 Display Economic Dominance Map: Project how your 25,000 daily revenue controls entire regional economies
 Display Waterdeep Network Operations: Reveal Zhentarim cells in Waterdeep following your direct commands"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-511"></a>
 #### Scene 511
 
 > 📍 **Administrative Chamber - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11048,8 +12594,11 @@ You lean forward, placing one hand possessively on the surveillance crystal as i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Zarys as Subordinate Commander - Offer her a position under your authority, leveraging her expertise while ensuring absolute loyalty*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-512"></a>
 #### Scene 512
 
 > 📍 **Administrative Chamber - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Healthy | Exhaustion: 0 | Inspiration: Yes**
@@ -11065,8 +12614,11 @@ Your enhanced tactical systems calculate the moment with surgical precision. Thi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Complete Submission - Demand absolute loyalty and subordinate commander position*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-513"></a>
 #### Scene 513
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening (21:20))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11084,8 +12636,11 @@ The surveillance crystal pulses with final confirmation of your ultimatum, displ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Oath of Loyalty - Allow Zarys to formally swear allegiance and accept the subordinate commander position*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-514"></a>
 #### Scene 514
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11105,8 +12660,11 @@ A slow, predatory smile touches your lips as the surveillance crystal displays e
 > 👤 **Player:**
 > *"assess her. will she betray me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-515"></a>
 #### Scene 515
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11126,8 +12684,11 @@ From the penthouse overlooking Baldur's Gate, you stand at the pinnacle of power
 > 👤 **Player:**
 > *"assess her. will she betray me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-516"></a>
 #### Scene 516
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11157,8 +12718,11 @@ Zarys has undergone complete psychological transformation through overwhelming s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Zarys Networks - Use surveillance crystal to formally integrate her operational networks under direct command*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-517"></a>
 #### Scene 517
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11178,8 +12742,11 @@ The surveillance crystal pulses with final confirmation as Zarys's last network 
 > 👤 **Player:**
 > *"delegate conquering zhent elders to Zarys and ask for daily reports"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-518"></a>
 #### Scene 518
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11201,8 +12768,11 @@ You extend your hand to her, not as an equal, but as the formal acceptance of he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Perfect Zhentarim Illusion - Discuss how to maintain the deception with the elders and traditional hierarchy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-519"></a>
 #### Scene 519
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11218,8 +12788,11 @@ The crystal updates, showing a sophisticated multi-layered deception protocol th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Direct Zarys to infiltrate elder circles - Have her position herself as the elders&#x27; trusted ally while secretly feeding their operations to your command*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-520"></a>
 #### Scene 520
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 (Temp: 0) | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 63, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11245,8 +12818,11 @@ The crystal updates, showing a sophisticated multi-layered deception protocol th
 > 👤 **Player:**
 > *"Think. How can Zarys and I defeat the elders and get official control?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-521"></a>
 #### Scene 521
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **1492 DR Mirtul 18, 21:26:30** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -11256,8 +12832,11 @@ You stand in the center of the Zhentarim penthouse, the surveillance crystal bet
 > [!NOTE] ⚙️ **Player Choice:**
 > *Implement Hybrid Three-Phase Approach - Combine psychological subversion with targeted elimination of most resistant elders*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-522"></a>
 #### Scene 522
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:26)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11275,8 +12854,11 @@ The crystal updates, showing a synchronized three-phase deployment: psychologica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Phase One - Psychological Subversion -  Deploy psychological teams against first tier of influential elders*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-523"></a>
 #### Scene 523
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11292,8 +12874,11 @@ Your tactical systems calculate the optimal approach with crystalline precision.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Escalate Second Wave - Deploy additional psychological teams against remaining elders for maximum cascade effect*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-524"></a>
 #### Scene 524
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11309,8 +12894,11 @@ Zarys watches with professional awe as the surveillance crystal confirms that yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Phase Two Eliminations - Start targeted eliminations against elders showing resistance to psychological pressure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-525"></a>
 #### Scene 525
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11326,8 +12914,11 @@ You activate the crystal's elimination protocols, the device shimmering with mal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy Elite Assassin - Handle one elimination personally while directing teams against the others*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-526"></a>
 #### Scene 526
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11353,8 +12944,11 @@ Through the crystal's enhanced surveillance, you watch as your elimination teams
 > 👤 **Player:**
 > *"jsut keep greater invis, haste, and every buff in D&D always on me. Assume i have a team of agents buffing me as needed unless for narrative purposes i am truly isolated. and keep my +2 hunger bonus assume i always get the chance to kill random person"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-527"></a>
 #### Scene 527
 
 > 📍 **Zhentarim Penthouse - Elfsong Tavern** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11370,8 +12964,11 @@ Through the crystal's displays, you see the first strikes beginning across five 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Personal Assault - Teleport to Calimport and personally eliminate Elder Valerius in his fortified compound*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-528"></a>
 #### Scene 528
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:26)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11383,8 +12980,11 @@ Elder Valerius's fortified compound rises before you - a complex of white marble
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Through Gardens - Use Greater Invisibility to bypass perimeter and approach from the least defended direction*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-529"></a>
 #### Scene 529
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:27)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11394,8 +12994,11 @@ Your enhanced form glides through the humid Calimport night like heat distortion
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Through Western Gardens - Use stealth and cover to bypass perimeter defenses through the least guarded approach*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-530"></a>
 #### Scene 530
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:27)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 4 / Bard (College of Swords) 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11409,8 +13012,11 @@ Beyond the gardens, the central villa rises like a fortress of white marble. Tor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate Isolated Guard - Silently assassinate the guard near the pond to remove a potential witness and demonstrate your lethal precision*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-531"></a>
 #### Scene 531
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11424,8 +13030,11 @@ Silently, you draw your silvered rapier, "Kiss of the Viper," its edge gleaming 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assassinate the Guard - Use Greater Invisibility and Haste to silently eliminate the distracted guard with a precise, lethal strike*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-532"></a>
 #### Scene 532
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 4 / Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11439,8 +13048,11 @@ Silently, you draw your silvered rapier, "Kiss of the Viper," its edge gleaming 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Assassinate the Guard - Use Greater Invisibility and Haste to silently eliminate the distracted guard with a precise, lethal strike*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-533"></a>
 #### Scene 533
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11477,8 +13089,11 @@ Follow Up with Stalker's Flurry: Use your Assassin's Stalker's Flurry feature to
 Reposition and Reassess: Retreat to a safer position to reassess your strategy, considering using a different weapon or spell.
 Custom Action
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-534"></a>
 #### Scene 534
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11488,8 +13103,11 @@ The player has paused the campaign to ask a clarifying question about a dice rol
 God Mode:
 keep the game paused. Why did you make this mistake? Give me 5 whys. Are your system instructions unclear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-535"></a>
 #### Scene 535
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11507,8 +13125,11 @@ When you are ready, we can proceed with the narrative.
 God Mode:
 Confirm Correction - Acknowledge the error was in reporting, not outcome, and continue
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-536"></a>
 #### Scene 536
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11524,8 +13145,11 @@ When you are ready, we can proceed with the narrative.
 God Mode:
 Resume Narrative - Acknowledge the error is understood and proceed with the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-537"></a>
 #### Scene 537
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11541,8 +13165,11 @@ Your stealth remains absolute. The compound's western gardens stretch before you
 God Mode:
 Advance to Villa - Move silently through the gardens toward Elder Valerius’s central chamber
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-538"></a>
 #### Scene 538
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11558,8 +13185,11 @@ Your stealth remains absolute. The compound's western gardens stretch before you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Advance to Villa - Move silently through the gardens toward Elder Valerius’s central chamber*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-539"></a>
 #### Scene 539
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 4 / Bard (College of Swords) 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/2, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11571,8 +13201,11 @@ Beyond the gardens, the central villa rises like a fortress of white marble. Tor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Advance through Shadows - Use garden cover to move parallel to the villa wall, minimizing exposure before closing in*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-540"></a>
 #### Scene 540
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11584,8 +13217,11 @@ Beyond the gardens, the central villa rises like a fortress of white marble. Tor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scale North Wall - Use enhanced strength or grappling arrows to ascend the northern wall directly to the master chamber*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-541"></a>
 #### Scene 541
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11595,8 +13231,11 @@ The master chamber at the northern apex of Elder Valerius's villa stands exposed
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Grappling Arrows - Deploy specialized grappling arrows to climb the northern wall with silent precision*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-542"></a>
 #### Scene 542
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11606,8 +13245,11 @@ The master chamber at the northern apex of Elder Valerius's villa rises before y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scale Wall - Enhanced Strength - Use your enhanced strength to climb the wall quickly and silently, a testament to your physical power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-543"></a>
 #### Scene 543
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11617,8 +13259,11 @@ The master chamber at the northern apex of Elder Valerius's villa rises before y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scale Wall - Enhanced Strength - Use your enhanced strength to climb the wall quickly and silently, a testament to your physical power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-544"></a>
 #### Scene 544
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11628,8 +13273,11 @@ Your muscles coil like springs as you launch upward, enhanced strength propellin
 > 👤 **Player:**
 > *"surprise attack elder with titanstring and try to trigger surprise rond"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-545"></a>
 #### Scene 545
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 4 / Bard (College of Swords) 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11645,8 +13293,11 @@ Extract the Bounty: Take a trophy from the body as proof of the kill and a perso
 Search the Villa: Conduct a meticulous search of the elder's private chambers, study, and any hidden compartments for valuable intelligence, ledgers, or artifacts.
 Secure the Compound: Systematically clear the entire villa, eliminating any remaining guards and securing it as a new intelligence hub."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-546"></a>
 #### Scene 546
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 4 / Bard (College of Swords) 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11656,8 +13307,11 @@ The silence within Elder Valerius's master chamber is profound after the kill. T
 > 👤 **Player:**
 > *"do evertyhing like i said"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-547"></a>
 #### Scene 547
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker)/Rogue (Assassin)/Bard (College of Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11667,8 +13321,11 @@ The silence within Elder Valerius's master chamber is profound after the kill. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract the Trophy - Take a valuable personal item from Elder Valerius&#x27;s body as proof of your kill and a personal memento of your triumph.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-548"></a>
 #### Scene 548
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Ranger 5/Rogue 4/Bard 4) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11678,8 +13335,11 @@ The heavy scent of sandalwood mixes with the metallic tang of fresh blood in Eld
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Trophy - Take a valuable personal item from Elder Valerius&#x27;s body as proof and a memento*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-549"></a>
 #### Scene 549
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 4 / Bard (College of Swords) 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -11689,8 +13349,11 @@ The heavy scent of sandalwood mixes with the coppery tang of fresh blood. Elder 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search the Villa - Conduct a meticulous search of the elder&#x27;s private chambers, study, and any hidden compartments for valuable intelligence, ledgers, or artifacts.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-550"></a>
 #### Scene 550
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) / Rogue (Assassin) / Bard (College of Swords) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0**
@@ -11700,8 +13363,11 @@ The ring's cold weight is a satisfying trophy, but the elder's chamber holds gre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Unlock the Iron Box - Focus on the immediate mystery. Use thieves&#x27; tools, magic, or force to open the sealed iron box found in the hidden compartment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-551"></a>
 #### Scene 551
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0**
@@ -11711,8 +13377,11 @@ The locked iron box sits on the floor before you, its surface cold and unyieldin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Thieves&#x27; Tools - Apply your expertise and specialized tools to attempt a careful, precise lockpicking approach*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-552"></a>
 #### Scene 552
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0**
@@ -11722,8 +13391,11 @@ The lock on the iron box resists your initial attempts, its mechanisms ancient a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expert Lockpicking Attempt - Use your Thieves&#x27; Tools with Expertise to attempt a careful, precise lockpicking approach on the magically sealed box*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-553"></a>
 #### Scene 553
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0**
@@ -11733,8 +13405,11 @@ You retrieve your Thieves' Tools from their leather pouch, the familiar weight s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Blackmail Materials - Carefully review the letters and cipher ledger for exploitable intelligence*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-554"></a>
 #### Scene 554
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:31)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger (Gloom Stalker) 5 / Rogue (Assassin) 4 / Bard (College of Swords) 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 43, Exhaustion: 0**
@@ -11744,8 +13419,11 @@ The iron box lies open before you, a trove of power laid bare. Inside, the colle
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Rest of Villa - Expand the search beyond the master chamber to find more hidden intelligence, artifacts, or eliminate remaining threats*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-555"></a>
 #### Scene 555
 
 > 
@@ -11757,8 +13435,11 @@ The iron box lies open before you, a trove of power laid bare. Inside, the colle
 
 Search Rest of Villa - Expand the search beyond the master chamber to find more hidden intelligence, artifacts, or eliminate remaining threats*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-556"></a>
 #### Scene 556
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5 / Rogue 4 / Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Consumables: Alchemist's Fire 8, Mindfire Toxin 13, Gold: 50000, Grappling Arrows: 4, Enhanced Surveillance Crystals: 2**
@@ -11776,8 +13457,11 @@ What will you do?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate Remaining Threats - Deal with any guards or hidden enemies still in the villa*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-557"></a>
 #### Scene 557
 
 > 
@@ -11787,8 +13471,11 @@ What will you do?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate Remaining Threats - Deal with any guards or hidden enemies still in the villa*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-558"></a>
 #### Scene 558
 
 > 
@@ -11798,8 +13485,11 @@ What will you do?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate Remaining Threats - Deal with any guards or hidden enemies still in the villa*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-559"></a>
 #### Scene 559
 
 > 
@@ -11809,8 +13499,11 @@ What will you do?
 > [!NOTE] ⚙️ **Player Choice:**
 > *Eliminate Remaining Threats - Deal with any guards or hidden enemies still in the villa*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-560"></a>
 #### Scene 560
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5 / Rogue 4 / Bard 3 | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Consumables: Alchemist's Fire 8, Mindfire Toxin 13, Gold: 50000, Grappling Arrows: 4, Enhanced Surveillance Crystals: 2**
@@ -11831,8 +13524,11 @@ Damage Roll: 1d8+8 = 5+8 = 13 (Fatal)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Villa Further - Continue exploring the villa for additional guards, hidden rooms, or valuable items.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-561"></a>
 #### Scene 561
 
 > 
@@ -11844,8 +13540,11 @@ Damage Roll: 1d8+8 = 5+8 = 13 (Fatal)
 
 Search Villa Further - Continue exploring the villa for additional guards, hidden rooms, or valuable items.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-562"></a>
 #### Scene 562
 
 > 📍 **Elder Valerius's Compound - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5 / Rogue 4 / Bard 3 | HP: 122/122 | XP: 140000/200000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Consumables: Alchemist's Fire 8, Mindfire Toxin 13, Gold: 50000, Grappling Arrows: 4**
@@ -11866,8 +13565,11 @@ Damage: 1d8+8 = 5+8 = 13 (Fatal)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Intel &amp; Retreat - Take the sealed letters and cipher ledger, exit the villa, and report back to Zarys for further planning.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-563"></a>
 #### Scene 563
 
 > 
@@ -11877,8 +13579,11 @@ The echo of the guard's death fades into the vaulted silence of the villa's east
 > 👤 **Player:**
 > *"continue story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-564"></a>
 #### Scene 564
 
 > 
@@ -11921,8 +13626,11 @@ The tension eases as you allow yourself a brief moment of triumph before the nex
 > 👤 **Player:**
 > *"continue story"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-565"></a>
 #### Scene 565
 
 > 
@@ -11937,8 +13645,11 @@ You feel the tension of the Hunt pulse beneath your skin—the Hunger still gnaw
 God Mode:
 wrong i already beat ironhead legion long ago, continue story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-566"></a>
 #### Scene 566
 
 > 
@@ -11956,8 +13667,11 @@ The crystal pulses with tactical intelligence, displaying three rapidly moving t
 > 👤 **Player:**
 > *"whats next"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-567"></a>
 #### Scene 567
 
 > 
@@ -11977,8 +13691,11 @@ all the headers are missing
 📊 Resources: None
 🎲 Dice Rolls: None
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-568"></a>
 #### Scene 568
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Exhaustion: 0**
@@ -11991,8 +13708,11 @@ Strategic Guidance: 1d20+5 = 5+5 = 10
 > [!NOTE] ⚙️ **Player Choice:**
 > *Gather Intelligence - Allow partial mobilization to track networks before dismantling*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-569"></a>
 #### Scene 569
 
 > 
@@ -12008,8 +13728,11 @@ Zarys turns to face you fully, her eyes gleaming with dangerous excitement. 'We 
 > 👤 **Player:**
 > *"I look around carefully"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-570"></a>
 #### Scene 570
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000**
@@ -12025,8 +13748,11 @@ Zarys turns to face you fully, her eyes gleaming with dangerous excitement. 'We 
 > 👤 **Player:**
 > *"I look around the tavern carefully"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-571"></a>
 #### Scene 571
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Exhaustion: 0**
@@ -12044,8 +13770,11 @@ The crystal pulses with tactical intelligence, displaying three rapidly moving t
 > 👤 **Player:**
 > *"I examine the room for any hidden threats or opportunities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-572"></a>
 #### Scene 572
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000gp**
@@ -12055,8 +13784,11 @@ Your enhanced senses sweep the penthouse with predatory precision, noting every 
 > 👤 **Player:**
 > *"I survey my surroundings"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-573"></a>
 #### Scene 573
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Exhaustion: 0**
@@ -12070,8 +13802,11 @@ The power dynamic between you is both clear and subtly precarious. Zarys has off
 > 👤 **Player:**
 > *"I check the room for hidden exits"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-574"></a>
 #### Scene 574
 
 > 📍 **Zarys's Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23, Exhaustion: 0**
@@ -12084,8 +13819,11 @@ Perception: 1d20+15 = [20]+15 = 35 vs DC 20 (Success)
 > 👤 **Player:**
 > *"I look around carefully"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-575"></a>
 #### Scene 575
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23, Exhaustion: 0**
@@ -12097,8 +13835,11 @@ Your enhanced senses process the tactical layout of the room - the strategic pla
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Zarys - Question Zarys directly about the misplaced document*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-576"></a>
 #### Scene 576
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23, Exhaustion: 0**
@@ -12114,8 +13855,11 @@ Zarys's composure wavers for a fraction of a second, her fingers tightening almo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press Harder - Use intimidation and your authority to force Zarys to reveal what she&#x27;s hiding*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-577"></a>
 #### Scene 577
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Ranger 5/Rogue 4/Bard 4) | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23, Exhaustion: 0**
@@ -12131,8 +13875,11 @@ Zarys swallows hard, her calculating eyes darting between the surveillance cryst
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intensify Pressure - Use more direct threats and physical intimidation to force Zarys to reveal what she&#x27;s hiding*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-578"></a>
 #### Scene 578
 
 > 📍 **Zarys's Penthouse** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23, Exhaustion: 0**
@@ -12148,8 +13895,11 @@ Zarys sinks to her knees on the ornate rug, a gesture of complete submission tha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Truth - Force Zarys to reveal everything she knows about House Sosuke immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-579"></a>
 #### Scene 579
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Potions: 23, Exhaustion: 0**
@@ -12163,8 +13913,11 @@ You move with predatory grace, your enhanced presence filling the penthouse with
 > 👤 **Player:**
 > *"continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-580"></a>
 #### Scene 580
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Fighter | HP: 23/30 (Temp: 5) | XP: 5150/6500 | Gold: 50gp** &nbsp;|&nbsp; ✨ **HD: 1/3, Spells: L1 0/0, L2 0/1, Ki: 0/0, Rage: 0/0, Potions: 2, Exhaustion: 0**
@@ -12174,8 +13927,11 @@ The intelligence reports lie spread across the elegant table, their contents bur
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force More Details from Zarys - Use intimidation and enhanced authority to make Zarys reveal everything she knows about the conspiracy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-581"></a>
 #### Scene 581
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 2350** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 10, Exhaustion: 0**
@@ -12191,8 +13947,11 @@ She takes a ragged breath, tears streaming down her face. 'They orchestrated eve
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Complete Truth - Force Zarys to reveal everything about the powerful backer behind the conspiracy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-582"></a>
 #### Scene 582
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Rogue | HP: 30/30 | XP: 1200/2700 | Gold: 150gp** &nbsp;|&nbsp; ✨ **HD: 2/3, Exhaustion: 0, Potions: 2, Gold: 150gp**
@@ -12206,8 +13965,11 @@ Outside the penthouse windows, Calimport's lights blur into a river of fire. The
 > [!NOTE] ⚙️ **Player Choice:**
 > *Study the Evidence - Examine the recovered documents to identify the shadow organization and their power structure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-583"></a>
 #### Scene 583
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Potions: 20, Exhaustion: 0**
@@ -12221,8 +13983,11 @@ Zarys watches in silence as your enhanced intelligence processes the information
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Complete Intelligence - Force Zarys to reveal everything she knows about the twin-starred organization and their current operations*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-584"></a>
 #### Scene 584
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Potions: 20, Exhaustion: 0**
@@ -12240,8 +14005,11 @@ Her hands tremble as she gestures to the intelligence reports spread across the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Leader Identity - Force Zarys to reveal who the true leader of the Shadow Syndicate is*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-585"></a>
 #### Scene 585
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Multiclass | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Potions: 20, Exhaustion: 0**
@@ -12257,8 +14025,11 @@ Zarys takes a ragged breath, tears streaming down her face as she meets your int
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Harder - Use enhanced intimidation to force Zarys to reveal everything she suspects*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-586"></a>
 #### Scene 586
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Fighter | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Potions: 20, Exhaustion: 0**
@@ -12276,8 +14047,11 @@ She looks up at you, her tears forgotten as the devastating truth finally escape
 > [!NOTE] ⚙️ **Player Choice:**
 > *Force Name Reveal - Extract the actual name of the Silent Blade&#x27;s handler from Zarys immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-587"></a>
 #### Scene 587
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 11 Sorcerer | HP: 99/99 | XP: 0/15000 | Gold: 500gp** &nbsp;|&nbsp; ✨ **HD: 6/6, Spells: L4 0/1, L5 0/1, Sorcery Points: 0/0, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -12291,8 +14065,11 @@ She looks up at you, tears streaming freely down her face. 'The handler... they 
 God Mode:
 wait why am i a sorcerer and i dont think i should be level 11
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-588"></a>
 #### Scene 588
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (Ranger 5/Rogue 4/Bard 4) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp**
@@ -12302,8 +14079,11 @@ Player has character data inconsistencies - shows Level 11 in some places but mu
 God Mode:
 Keep Current Multiclass - Maintain Ranger 5/Rogue 4/Bard 4 and correct level display to 13
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-589"></a>
 #### Scene 589
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Sorcery Points: 0/0, Exhaustion: 0**
@@ -12313,8 +14093,11 @@ The penthouse air hangs heavy with devastating revelation. Zarys kneels before y
 God Mode:
 Continue Story - After character corrections, continue confronting Zarys about Vaelen Blackwood
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-590"></a>
 #### Scene 590
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Sorcery Points: 0/0, Exhaustion: 0**
@@ -12328,8 +14111,11 @@ She looks up at you, tears streaming freely down her face. 'The handler... they 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Complete Vaelen Intelligence - Force Zarys to reveal every detail about Vaelen Blackwood&#x27;s operations, location, and weaknesses*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-591"></a>
 #### Scene 591
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Sorcery Points: 0/0, Exhaustion: 0**
@@ -12343,8 +14129,11 @@ She looks up at you, tears streaming freely down her face. 'The handler... they 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Network Search - Use surveillance crystal to search all Zhentarim networks for Vaelen&#x27;s current whereabouts*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-592"></a>
 #### Scene 592
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Sorcery Points: 0/0, Exhaustion: 0**
@@ -12368,8 +14157,11 @@ Zarys stumbles backward, her face pale with shock. 'He's here? In Calimport? The
 > 👤 **Player:**
 > *"think. lets plan on how to eliminate or acquire him and control him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-593"></a>
 #### Scene 593
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Sorcery Points: 0/0, Exhaustion: 0**
@@ -12385,8 +14177,11 @@ The penthouse transforms into a command center of lethal possibilities. The surv
 > 👤 **Player:**
 > *"think. pros/cons success chances of each"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-594"></a>
 #### Scene 594
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 20, Exhaustion: 0**
@@ -12396,8 +14191,11 @@ You pause, the crimson tactical projections casting shifting shadows across your
 > 👤 **Player:**
 > *"think. success changes for each"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-595"></a>
 #### Scene 595
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 20, Exhaustion: 0**
@@ -12415,8 +14213,11 @@ Each option represents different paths: righteous vengeance, strategic dominatio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Surgical Elimination - Launch a lightning assault with magical enhancement to eliminate Vaelen directly*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-596"></a>
 #### Scene 596
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 8 Rogue | HP: 66/66 | XP: 28,000/65,000 | Gold: 1,250gp** &nbsp;|&nbsp; ✨ **HD: 8/8, Spells: N/A, Potions: 2, Exhaustion: 0**
@@ -12430,8 +14231,11 @@ From the shadows emerges Nocturne Sosuke, and he is not what you expected. Dress
 God Mode:
 wtf is going on, nocturne sosuke is my name
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-597"></a>
 #### Scene 597
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 (R5/R4/B4) | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Exhaustion: 0**
@@ -12445,8 +14249,11 @@ From the shadows emerges Nocturne Sosuke, and he is not what you expected. Dress
 God Mode:
 is this a narrative error? i just picked to go surgical strike on vaelan
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-598"></a>
 #### Scene 598
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | HP: 122/122 | XP: 140,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Exhaustion: 0**
@@ -12456,8 +14263,11 @@ Player correctly identified narrative error where AI created duplicate character
 God Mode:
 Retcon Scene - Pretend sequence 1194 never happened and continue from your surgical selection
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-599"></a>
 #### Scene 599
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Exhaustion: 0**
@@ -12467,8 +14277,11 @@ You have identified a critical narrative error in sequence 1194 where an AI-gene
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Surgical Strike - Proceed with your planned surgical elimination of Vaelen Blackwood as originally intended*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-600"></a>
 #### Scene 600
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Exhaustion: 0**
@@ -12480,8 +14293,11 @@ A slow, predatory smile touches your lips as you make your decision. The surveil
 
 Coordinate Elite Backup - Deploy Zhentarim elite teams for tactical support during assault*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-601"></a>
 #### Scene 601
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12495,8 +14311,11 @@ Zarys watches with wide, terrified eyes as the crystal responds to your command,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Triple Prong Assault - Deploy all three teams simultaneously for overwhelming force*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-602"></a>
 #### Scene 602
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Fighter | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12512,8 +14331,11 @@ The countdown timer continues its inexorable descent - twelve minutes remaining 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Position to capture Vaelen alive for intelligence extraction - Target capture rather than elimination to extract more information about the conspiracy*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-603"></a>
 #### Scene 603
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:34)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12529,8 +14351,11 @@ You turn toward her, your enhanced systems calculating probabilities and tactica
 > 👤 **Player:**
 > *"Think. whats the best option and success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-604"></a>
 #### Scene 604
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12552,8 +14377,11 @@ The countdown timer continues its inexorable descent: 16 minutes 42 seconds rema
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Domination - Use family betrayal intelligence as leverage to capture Vaelen alive for intelligence extraction*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-605"></a>
 #### Scene 605
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12569,8 +14397,11 @@ The countdown timer continues: 16 minutes 28 seconds remaining until Vaelen migh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dual Approach Strategy - Deploy psychological assault while maintaining surgical backup teams ready for elimination if psychological approach fails*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-606"></a>
 #### Scene 606
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12586,8 +14417,11 @@ Zarys watches with wide, terrified eyes as the scale of your psychological domin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Psychological Capture - Launch coordinated psychological assault using family betrayal intelligence to force Vaelen&#x27;s submission*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-607"></a>
 #### Scene 607
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Rogue/Ranger/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12605,8 +14439,11 @@ Zarys watches in stunned silence as the scale of your psychological domination u
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead Psychological Assault - Personally infiltrate Vaelen&#x27;s chamber and deliver the psychological blow yourself*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-608"></a>
 #### Scene 608
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12624,8 +14461,11 @@ The surveillance crystal's synthesized voice breaks the strategic silence: 'Comm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Lead Personal Psychological Assault - Personally infiltrate Vaelen&#x27;s chamber and deliver the psychological blow yourself, using your family connection and personal history as weapons*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-609"></a>
 #### Scene 609
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12643,8 +14483,11 @@ The surveillance crystal's synthesized voice breaks the strategic silence: 'Comm
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hybrid Strategy - Deploy teams to create diversion while you infiltrate personally for maximum psychological impact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-610"></a>
 #### Scene 610
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:34)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12658,8 +14501,11 @@ The countdown continues in your mind: fourteen minutes until the optimal window 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Capture Protocol - Focus on live capture to extract intelligence rather than elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-611"></a>
 #### Scene 611
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 (Temp: 0) | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste active | Exhaustion: 0 | Inspiration: Yes**
@@ -12675,8 +14521,11 @@ The countdown continues in your mind: fourteen minutes until the optimal window 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Hybrid Assault - Deploy all three teams simultaneously as diversions while you infiltrate personally for maximum psychological impact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-612"></a>
 #### Scene 612
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Multiclass | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12694,8 +14543,11 @@ The countdown continues in your mind: fourteen minutes until the optimal window 
 
 Your enhanced tactical brilliance suddenly reveals the optimal approach: rather than merely diverting his forces, you can use those very teams as psychological weapons. Each deployment creates a different pressure point - magical assault threatening his arcane defenses, stealth infiltration compromising his security perimeter, and direct assault forcing him to divide his elite guards. The psychological impact of multiple simultaneous threats will shatter his composure far more effectively than any single approach, leaving him vulnerable to your personal intervention when his defenses are at their weakest."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-613"></a>
 #### Scene 613
 
 > 📍 **Zarys's Penthouse - Calimport** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 5, Exhaustion: 0**
@@ -12711,8 +14563,11 @@ The countdown continues in your mind: fourteen minutes until the optimal window 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deploy All Teams Immediately - Execute the hybrid assault now - launch all three teams simultaneously while you infiltrate personally*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-614"></a>
 #### Scene 614
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12730,8 +14585,11 @@ You release the enhanced shaft with surgical precision, your attack catching him
 > [!NOTE] ⚙️ **Player Choice:**
 > *Capture for Intelligence - Subdue Vaelen and extract information about the conspiracy before eliminating him*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-615"></a>
 #### Scene 615
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger 5/Rogue 4/Bard 4 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12747,8 +14605,11 @@ You step from the shadows, your Greater Invisibility fading as you allow him to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Target - Restrain Vaelen and prepare for enhanced interrogation protocols*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-616"></a>
 #### Scene 616
 
 > 📍 **Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12768,8 +14629,11 @@ Enhanced Interrogation: Deploy surveillance crystal's extraction protocols for s
 Magical Compulsion: Use Command and Suggestion spells to force information revelation
 Psychological Leverage: Use family betrayal documents to break his will through shame and exposure threa"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-617"></a>
 #### Scene 617
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: N/A, Rage: N/A, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12783,8 +14647,11 @@ You activate the surveillance crystal's intelligence extraction systems, the dev
 > [!NOTE] ⚙️ **Player Choice:**
 > *Combined Protocol - Deploy all methods simultaneously for maximum psychological pressure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-618"></a>
 #### Scene 618
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12798,8 +14665,11 @@ You activate the surveillance crystal's intelligence extraction systems, the dev
 > [!NOTE] ⚙️ **Player Choice:**
 > *Use Family Betrayal Intelligence - Attack Vaelen psychologically using the documents that reveal his role in House Sosuke&#x27;s destruction, breaking his will through shame and exposure threats*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-619"></a>
 #### Scene 619
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12817,8 +14687,11 @@ Vaelen's breath catches in his throat, his professional composure shattering as 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Magical Compulsion - Cast Command spell to force immediate truth-telling if psychological methods prove insufficient*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-620"></a>
 #### Scene 620
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12836,8 +14709,11 @@ Vaelen collapses back against the chamber wall, the psychological pressure overw
 God Mode:
 i already successfully used magical compulsion, just make him tell me everything now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-621"></a>
 #### Scene 621
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Multiclass | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12857,8 +14733,11 @@ Vaelen's eyes widen with terror as he realizes what he's revealed. 'House Sosuke
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Supreme Council - Force Vaelen to reveal the identities and locations of all five Supreme Council members*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-622"></a>
 #### Scene 622
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 140000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12880,8 +14759,11 @@ He collapses completely, his resistance broken. 'I have codes... safe houses... 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Complete Intelligence - Force Vaelen to reveal all codes, safe houses, and contingency protocols for complete Council elimination*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-623"></a>
 #### Scene 623
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:35)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12907,8 +14789,11 @@ Vaelen slumps back against the wall, completely broken. 'I have detailed maps, c
 > 👤 **Player:**
 > *"Think. any use in keeping him alive?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-624"></a>
 #### Scene 624
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12926,8 +14811,11 @@ But keeping him alive carries risks. He represents a loose end that the Syndicat
 > 👤 **Player:**
 > *"I look around"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-625"></a>
 #### Scene 625
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12943,8 +14831,11 @@ Vaelen looks up at you with pure terror, his professional dignity completely sha
 > 👤 **Player:**
 > *"use magic to force him to tell me fifth member"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-626"></a>
 #### Scene 626
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 145000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -12962,8 +14853,11 @@ Vaelen's eyes dart around the chamber, taking in the tactical maps, the communic
 > 👤 **Player:**
 > *"make him reveal fifth member"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-627"></a>
 #### Scene 627
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 145000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Bardic Inspiration: 4, Exhaustion: 0**
@@ -12979,8 +14873,11 @@ He collapses completely, his resistance utterly broken by the combination of you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Fifth Member Identity - Force Vaelen to reveal the complete identity and operational details of the fifth Supreme Council member*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-628"></a>
 #### Scene 628
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Inspiration: Yes**
@@ -12996,8 +14893,11 @@ The magical compulsion forces more devastating revelations as Vaelen collapses c
 > 👤 **Player:**
 > *"secure him, and then bring in all my companions and interrogation team and get them to extract fifth member"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-629"></a>
 #### Scene 629
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:36)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Inspiration: Yes**
@@ -13017,8 +14917,11 @@ The magical compulsion forces more devastating revelations as Vaelen collapses c
 > 👤 **Player:**
 > *"wait for my team and let them all interrogate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-630"></a>
 #### Scene 630
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Inspiration: Yes**
@@ -13036,8 +14939,11 @@ Your interrogation team is now assembled - four specialists representing differe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinate Team Interrogation - Direct your specialists to work in concert for maximum psychological pressure*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-631"></a>
 #### Scene 631
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Long Rest: Complete**
@@ -13053,8 +14959,11 @@ Vaelen watches them gather with widening eyes, pure terror dawning in his expres
 > [!NOTE] ⚙️ **Player Choice:**
 > *Coordinated Interrogation - Deploy all specialists simultaneously for maximum psychological pressure and complete intelligence extraction*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-632"></a>
 #### Scene 632
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:53)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3**
@@ -13072,8 +14981,11 @@ Vaelen collapses completely under the coordinated specialist assault. His profes
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Resonance Codes - Force complete revelation of dimensional concealment keys and resonance signatures*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-633"></a>
 #### Scene 633
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Short rests: 2/2, Exhaustion: 0**
@@ -13091,8 +15003,11 @@ His eyes dart toward the tactical maps spread across his desk. 'The master code.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Complete Resonance Codes - Force Vaelen to reveal the full three-part dimensional concealment sequence before he loses consciousness*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-634"></a>
 #### Scene 634
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:53)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Short rests: 2/2, Exhaustion: 0**
@@ -13112,8 +15027,11 @@ The magical compulsion forces more devastating revelations as Vaelen collapses c
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Resonance Codes - Force Vaelen to reveal the complete dimensional concealment sequence and magical resonance signatures needed to identify the fifth Supreme Council member*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-635"></a>
 #### Scene 635
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:53)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Multiclass | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Short rests: 2/2, Exhaustion: 0**
@@ -13131,8 +15049,11 @@ Vaelen slumps forward completely, his resistance utterly shattered by the coordi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Complete Resonance Sequence - Force Vaelen to reveal the complete dimensional concealment sequence and resonance signatures needed to identify the fifth Supreme Council member*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-636"></a>
 #### Scene 636
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:53)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 20, Exhaustion: 0**
@@ -13150,8 +15071,11 @@ Vaelen slumps forward completely, his resistance utterly shattered by the coordi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Written Documentation - Retrieve and secure all physical documentation of the resonance codes, cipher keys, and access protocols before proceeding with further interrogation*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-637"></a>
 #### Scene 637
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:53)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 20, Exhaustion: 0**
@@ -13171,8 +15095,11 @@ The weight of the documents in your hands represents not just intelligence, but 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Activate Resonance Tracking - Use the dimensional bypass sequence to immediately locate and identify the fifth Council member*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-638"></a>
 #### Scene 638
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 14 | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 20, Exhaustion: 0**
@@ -13192,8 +15119,11 @@ Your enhanced surveillance crystal flares with urgent warnings as Thorne looks u
 God Mode:
 make sure to award me exp, gold, resources, equipment, basically evrything I absorbed and took over from vaelan faction. It should be a lot of stuff
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-639"></a>
 #### Scene 639
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:53)** &nbsp;|&nbsp; 🛡️ **Lvl 14 Ranger/Rogue/Bard | HP: 122/122 | XP: 145000/200000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 20, Exhaustion: 0**
@@ -13203,8 +15133,11 @@ Player is in GOD MODE requesting comprehensive resource consolidation after defe
 God Mode:
 i think it should be way more exp, what level was vaelan and how large was his faction. taking it all over should award the same exp for killing everyone
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-640"></a>
 #### Scene 640
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | HP: 122/122 | XP: 170,000/200,000 | Gold: 50,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -13214,8 +15147,11 @@ Player requested comprehensive resource consolidation after defeating Vaelen Bla
 God Mode:
 i dont just have zhent networks i have all of baldurs gate. recalc the exp
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-641"></a>
 #### Scene 641
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | HP: 122/122 | XP: 170,000/200,000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -13225,8 +15161,11 @@ You stand in the hidden chamber, the resonance documentation secured in your han
 God Mode:
 Accept Rewards - Process the XP progression and resource consolidation from absorbing Vaelen&#x27;s Shadow Syndicate faction
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-642"></a>
 #### Scene 642
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 13 | HP: 122/122 | XP: 222483/265000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -13236,8 +15175,11 @@ Complete resource consolidation from Shadow Syndicate faction absorption has bee
 God Mode:
 Return to Story - Resume campaign narrative with newly acquired resources and level advancement
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-643"></a>
 #### Scene 643
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Commander | HP: 122/122 | XP: 370833/500000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, Ki: 0/0, Rage: 0/0, Potions: 23, Exhaustion: 0**
@@ -13253,8 +15195,11 @@ The surveillance crystal at your belt pulses with tactical intelligence, display
 God Mode:
 lets respec my character. I want to be a lvl 16 swords bard now, and focus my stats on charisma, pick appropriate spells and always pick CHA ASI each level. No CHA cap. primary spell casting stat should be CHA
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-644"></a>
 #### Scene 644
 
 > 
@@ -13264,8 +15209,11 @@ Player requested a character respec to Level 16 Swords Bard with CHA focus. This
 God Mode:
 make me equip the best gear in baldurs gate and D&D lore and bg3 video game. no attunement. I am archduke and should have access to the best gear possible. like all +3 gear or whatever and focus on stealth and +CHA gear
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-645"></a>
 #### Scene 645
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Level 16 Swords Bard | HP: 122/122 | XP: 370833/355000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Potions: 23, Exhaustion: 0**
@@ -13275,8 +15223,11 @@ character completed GOD MODE respec to Level 16 Swords Bard with Charisma-focuse
 God Mode:
 Equip Best Gear Available - Equip legendary +3 weapons and armor with maximum stealth and Charisma bonuses
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-646"></a>
 #### Scene 646
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: All slots at maximum, Inspiration: Yes, Exhaustion: 0**
@@ -13286,8 +15237,11 @@ Player requested GOD MODE equipment upgrade to legendary +3 gear with maximum st
 God Mode:
 View Character Stats - Review updated character sheet and equipment
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-647"></a>
 #### Scene 647
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370833/355000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13297,8 +15251,11 @@ Player is in GOD MODE reviewing their updated Level 16 Swords Bard character she
 God Mode:
 Return to Story - Exit GOD MODE and resume narrative campaign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-648"></a>
 #### Scene 648
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370,833/355,000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13314,8 +15271,11 @@ The dimensional tracking sequences in your hands represent the keys to hunt down
 > 👤 **Player:**
 > *"Think. What the best strategy. Should i handle shadow council first or archmage first? how to best use all my faction members, resources, agents, etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-649"></a>
 #### Scene 649
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13329,8 +15289,11 @@ Your mind processes the strategic landscape with surgical precision, weighing tw
 > 👤 **Player:**
 > *"give me pros/cons and successs rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-650"></a>
 #### Scene 650
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13346,8 +15309,11 @@ Your enhanced tactical mind processes the strategic landscape with exceptional c
 > 👤 **Player:**
 > *"thin. give me success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-651"></a>
 #### Scene 651
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Swords Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13369,8 +15335,11 @@ Your enhanced systems also calculate optimal resource deployment strategies and 
 > 👤 **Player:**
 > *"Plan the council elimination. Could i power up myself to level 20 by beating them, empower my companions and faction, then assault archmage?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-652"></a>
 #### Scene 652
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13384,8 +15353,11 @@ Your enhanced surveillance crystal pulses with tactical intelligence, displaying
 > 👤 **Player:**
 > *"Think. about hybrid powerbuild and plan in more detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-653"></a>
 #### Scene 653
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13415,8 +15387,11 @@ The dimensional tracking vision of Master Valerius Thorne continues to burn in y
 > 👤 **Player:**
 > *"Think. Anything else to improve success rate option a"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-654"></a>
 #### Scene 654
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes**
@@ -13446,8 +15421,11 @@ The dimensional tracking vision of Master Valerius Thorne continues to burn in y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Analysis - Deeper tactical analysis of specific deployment scenarios and resource optimization*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-655"></a>
 #### Scene 655
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370833/355000 | Gold: 90000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13465,8 +15443,11 @@ The dimensional tracking sequences in your hands represent the keys to hunt down
 > [!NOTE] ⚙️ **Player Choice:**
 > *Systematic Council Elimination (Enhanced Strategy) - Execute optimized multi-front assault sequence that maximizes resource efficiency, companion advancement, and intelligence gathering. Each elimination provides XP progression to Level 18 before confronting Thorne.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-656"></a>
 #### Scene 656
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7**
@@ -13496,8 +15477,11 @@ The dimensional tracking vision of Master Valerius Thorne continues to burn in y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Optimal Sequencing - Determine the most effective order to eliminate the four remaining Council members for maximum advantage*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-657"></a>
 #### Scene 657
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370833/355000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: 1/4, 2/4, 3/3, 3/3, 3/3, 1/1, 1/1, 1/1, 1/1, Bardic Inspiration: 7/7**
@@ -13545,8 +15529,11 @@ The dimensional tracking vision of Master Valerius Thorne burns in your consciou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Optimal Sequence - Begin systematic elimination starting with Elder Marcus in Cormyr*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-658"></a>
 #### Scene 658
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370,833/355,000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13566,8 +15553,11 @@ The captured Vaelen Blackwood groans softly on the stone floor, his resistance u
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Teleport to Cormyr - Lead the elite strike team personally to eliminate Elder Marcus with maximum tactical impact*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-659"></a>
 #### Scene 659
 
 > 📍 **Hidden Forge District - Vaelen's Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:52)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370,833/355,000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Bardic Insp: 7/7, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -13577,8 +15567,11 @@ The dimensional resonance documentation pulses with latent power in your hands a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Noble Party - Use your reputation and Charisma to blend into Marcus&#x27;s gathering, eliminate him publicly for maximum terror*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-660"></a>
 #### Scene 660
 
 > 📍 **Cormyr - Suzail Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370,833/355,000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13592,8 +15585,11 @@ Your Ring of Charisma +3 pulses with latent power as you contemplate your approa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dramatic Entrance - Make a grand entrance using your reputation and Charisma, then eliminate Marcus publicly for maximum terror*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-661"></a>
 #### Scene 661
 
 > 📍 **Cormyr - Suzail Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:55)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 122/122 | XP: 370833/355000 | Gold: 90000** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13607,8 +15603,11 @@ Your Ring of Charisma +3 pulses with latent power as you contemplate your approa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dramatic Entrance - Use your reputation and Charisma to make a grand entrance, eliminate Marcus publicly for maximum terror*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-662"></a>
 #### Scene 662
 
 > 📍 **Cormyr - Suzail Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13624,8 +15623,11 @@ The guard continues his cautious approach, his Purple Dragon armor gleaming in t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Grand Entrance Through Balcony - Use the guard&#x27;s approach as your cue - burst into the party dramatically and eliminate Marcus publicly*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-663"></a>
 #### Scene 663
 
 > 📍 **Cormyr - Suzail Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13635,8 +15637,11 @@ The Purple Dragon guard's cautious approach meets a spectacular end as you seize
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ballroom Rush - Charge directly into the grand ballroom and eliminate Marcus immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-664"></a>
 #### Scene 664
 
 > 📍 **Cormyr - Suzail Rooftop** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13646,8 +15651,11 @@ With supernatural speed that blurs the edges of reality, you descend from the ro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ballroom Rush - Charge directly into the grand ballroom and eliminate Marcus immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-665"></a>
 #### Scene 665
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13657,8 +15665,11 @@ The grand ballroom erupts into chaos as you burst through the ornate balcony doo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Marcus Immediately - Press the attack and eliminate the target before his guards can coordinate*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-666"></a>
 #### Scene 666
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13670,8 +15681,11 @@ use a high level hold person on all the guarda nd marcus, then kill him.
 
 modify all my weapons to use CHA modifier for dmg and hits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-667"></a>
 #### Scene 667
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370,833/355,000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13681,8 +15695,11 @@ The grand ballroom erupts into chaos as you burst through the ornate balcony doo
 God Mode:
 modify all my weapons to use CHA modifier for dmg and hits
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-668"></a>
 #### Scene 668
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 90000gp**
@@ -13692,8 +15709,11 @@ Player is in GOD MODE requesting weapon modification to use CHA modifier for att
 God Mode:
 Return to Story - Exit GOD MODE and continue with Elder Marcus elimination
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-669"></a>
 #### Scene 669
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13703,8 +15723,11 @@ The grand ballroom erupts into chaos as you burst through the ornate balcony doo
 God Mode:
 Force Surrender - Use Charisma to make remaining guards yield
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-670"></a>
 #### Scene 670
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 50000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13714,8 +15737,11 @@ The remaining Purple Dragon guards stand frozen in terror, their faces pale as t
 > 👤 **Player:**
 > *"accept surrender, take over faction, integrate it into my faction. process my exp rewards and increased resources"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-671"></a>
 #### Scene 671
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 370833/355000 | Gold: 50000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13725,8 +15751,11 @@ The last Purple Dragon guard collapses to his knees, his Purple Dragon armor cla
 God Mode:
 process my exp rewards and increased resources. my gold amount looks wrong too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-672"></a>
 #### Scene 672
 
 > 
@@ -13736,8 +15765,11 @@ The player is requesting XP processing and resource consolidation after the Elde
 God Mode:
 wtf are you doing, handle my command
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-673"></a>
 #### Scene 673
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 388,913/355,000 | Gold: 2350gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13754,8 +15786,11 @@ Integrate Shadow Syndicate Assets: Process Cormyr network absorption and update 
 
 but also the xp seems light. it should be enough exp like i killed marcus, every member of his faction, and narrative bonus
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-674"></a>
 #### Scene 674
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 122/122 | XP: 388,913/355,000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13765,8 +15800,11 @@ Processing GOD MODE commands for resource consolidation and XP calculations. Nee
 God Mode:
 i think it should be even more exp. like killing everyone in his faction since i acquired them all
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-675"></a>
 #### Scene 675
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13778,8 +15816,11 @@ You advance on Elder Marcus, your presence radiating absolute dominance. 'Your c
 God Mode:
 enter dm mode
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-676"></a>
 #### Scene 676
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13789,8 +15830,11 @@ You stand in the grand ballroom of Elder Marcus's estate in Cormyr, the air thic
 God Mode:
 Process Full XP Reward - Award the requested comprehensive XP for eliminating Elder Marcus, his entire faction, and narrative bonuses for exceptional domination
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-677"></a>
 #### Scene 677
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) 16 | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13804,8 +15848,11 @@ The integration of the Shadow Syndicate's Cormyr network is total. Your enhanced
 God Mode:
 whats going on elder marcus is dead, and how much exp and resources did you give me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-678"></a>
 #### Scene 678
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13815,8 +15862,11 @@ You stand in the grand ballroom of Elder Marcus's estate in Cormyr, the air thic
 God Mode:
 Process Full XP Reward - Award the comprehensive XP for the operation, including for eliminating Elder Marcus, his entire faction, and narrative bonuses for exceptional domination.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-679"></a>
 #### Scene 679
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 900000/1000000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13826,8 +15876,11 @@ You stand in the grand ballroom of Elder Marcus's estate in Cormyr, the air thic
 God Mode:
 Interrogate Survivors - Question the highest-ranking members of Marcus&#x27;s household or council for any final intelligence or leverage.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-680"></a>
 #### Scene 680
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13837,8 +15890,11 @@ You stand in the grand ballroom of Elder Marcus's estate in Cormyr, the air thic
 > 👤 **Player:**
 > *"process my level up to level 20"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-681"></a>
 #### Scene 681
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13848,8 +15904,11 @@ The air in the ballroom thrums with latent power as the final echoes of your psy
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reveal as Archduke - Address the petrified nobles and guards, revealing your true identity as the rightful Archduke. Use your unparalleled Charisma to transform their terror into fanatical loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-682"></a>
 #### Scene 682
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke Nocturne Sosuke | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13867,8 +15926,11 @@ The silence is absolute, profound. Every soul in the ballroom is yours.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consolidate Cormyr Control - Leverage the newly acquired Shadow Syndicate assets to secure governance, administrative control, and economic dominance over the entire kingdom of Cormyr. This would transform a regional victory into continental authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-683"></a>
 #### Scene 683
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7**
@@ -13878,8 +15940,11 @@ The grand ballroom of Elder Marcus, once a symbol of his noble house, now stands
 God Mode:
 since i have baldurs gate, comyr, and all this stuff stuff recalculate my faction resources
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-684"></a>
 #### Scene 684
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 2/10, Bardic Insp: 7/7, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -13889,8 +15954,11 @@ The grand ballroom of Elder Marcus, once the symbol of a noble house, now stands
 God Mode:
 list the exact assets
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-685"></a>
 #### Scene 685
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Bardic Insp: 7/7, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -13900,8 +15968,11 @@ Your enhanced surveillance crystal pulses with synchronized malevolence as you p
 God Mode:
 Generate Asset List - Produce a complete and exact list of all player inventory, resources, faction holdings, and mission status from the current game state.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-686"></a>
 #### Scene 686
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke Nocturne Sosuke | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Bardic Insp: 7/7, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/4, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1**
@@ -13911,8 +15982,11 @@ Your enhanced surveillance crystal pulses with synchronized malevolence as you s
 God Mode:
 wtf list all my current assets and assets gained already
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-687"></a>
 #### Scene 687
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492-05-18 DR (21:32)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke (Ranger 5 / Rogue 2 / Bard 13) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **Gold: 90000 | HD: 5/10 | Bardic Inspiration: 7/7 | Grappling Arrows: 4 | Alchemist's Fire (8) | Mindfire Toxin (13)**
@@ -13922,8 +15996,11 @@ You glance at the goblet of wine Zarys set aside and, with a predatory smile, dr
 God Mode:
 you just jumped into some random narrative unrelated to the story
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-688"></a>
 #### Scene 688
 
 > 📍 **Cormyr - Elder Marcus's Ballroom** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke Nocturne Sosuke | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **Gold: 90000 | Bardic Inspiration: 7/7 | Grappling Arrows: 4 | Alchemist's Fire (8) | Mindfire Toxin (13)**
@@ -13933,8 +16010,11 @@ You glance at the goblet of wine Zarys set aside, a predatory smile curving your
 God Mode:
 enter dm mode and fix thes tory, zarys is not here
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-689"></a>
 #### Scene 689
 
 > 📍 **Elder Marcus's Ballroom, Cormyr** &nbsp;|&nbsp; ⏳ **1492-05-18 21:31:15** &nbsp;|&nbsp; 🛡️ **Lvl 20 Ranger 5 / Rogue 2 (Assassin) / Bard 13 | HP: 122/122 | XP: 477,713/355,000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **Gold: 90,000 | Bardic Inspiration: 7/7 | Grappling Arrows: 4 | Alchemist's Fire: 8 | Mindfire Toxin: 13**
@@ -13948,8 +16028,11 @@ You stand amidst the stunned nobility, their terror transformed into unwavering 
 God Mode:
 process my level up. automatically pick spells for me at lvl 20 and keep picking cha +2 ASI
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-690"></a>
 #### Scene 690
 
 > 📍 **Elder Marcus's Ballroom, Cormyr** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7 (d10), Exhaustion: 0**
@@ -13959,8 +16042,11 @@ Player requested automatic level up processing. Applied +2 Charisma ASI, selecte
 God Mode:
 make sure i have spell picks for all my levels from 0 - 20
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-691"></a>
 #### Scene 691
 
 > 📍 **Elder Marcus's Ballroom, Cormyr** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:33)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Inspiration: 7/7 (d12), Exhaustion: 0**
@@ -13970,8 +16056,11 @@ Your divine ascension to Level 20 has been processed, Archduke. The automatic sp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Continue your reign over Cormyr with your enhanced powers*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-692"></a>
 #### Scene 692
 
 > 📍 **Elder Marcus's Manor, Suzail, Cormyr** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:48)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke (Swords Bard) | HP: 122/122 | XP: 477,713/MAX | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1, Bardic Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Hunger Bonus (+2 DEX/CHA/WIS), Greater Invisibility, Haste | Inspiration: Yes**
@@ -13985,8 +16074,11 @@ You move through the kneeling crowd. Every noble you pass shudders, not with fea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Governance - Appoint Zarys as the Shadow Viceroy of Cormyr to oversee the extraction of wealth and secrets while you move on.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-693"></a>
 #### Scene 693
 
 > 📍 **Elder Marcus's Manor, Suzail, Cormyr** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L9 Full (DC 29), Bardic Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Hunger Bonus (+2 DEX/CHA/WIS), Greater Invisibility, Haste | Inspiration: Yes**
@@ -14004,8 +16096,11 @@ Zarys’s image bows low, her earlier terror now replaced by a feverish, ambitio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Marcus&#x27;s Lieutenants - Extract any final, hyper-specific intel about Lady Selene&#x27;s defenses before leaving.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-694"></a>
 #### Scene 694
 
 > 📍 **Elder Marcus's Study, Suzail** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 122/122 | XP: 477713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L9 Full (DC 29), Bardic Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Hunger Flow (+2 DEX/CHA/WIS), Inspiration | Exhaustion: 0**
@@ -14023,8 +16118,11 @@ You absorb the intel with cold, crystalline clarity. The path to Waterdeep is ma
 > 👤 **Player:**
 > *"Think. whats the best strategy to kill the rest of the shadow council fastest?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-695"></a>
 #### Scene 695
 
 > 📍 **Elder Marcus's Manor, Suzail, Cormyr** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L9 Full (DC 29), Bardic Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Hunger Bonus (+2) | Exhaustion: 0**
@@ -14034,8 +16132,11 @@ You stand in the blood-stained ballroom, the weight of a kingdom now resting in 
 > 👤 **Player:**
 > *"who is left before the archmage? I will cast simulcrum too so i can do things in parallel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-696"></a>
 #### Scene 696
 
 > 📍 **Elder Marcus's Manor, Suzail, Cormyr** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477,713/355,000 | Gold: 88,500gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 0/1, L8 1/1, L9 1/1, BI: 7/7** &nbsp;|&nbsp; ⚠️ **Hunger Bonus (+2 DEX/CHA/WIS), Inspiration (d12) | Exhaustion: 0**
@@ -14049,8 +16150,11 @@ To maximize your efficiency, you begin the complex ritual of Simulacrum. You ges
 > 👤 **Player:**
 > *"Think. make a plan to have my elites, karlach, siimulcrum, whoemver help and kill both council members at once. Whats the best setup"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-697"></a>
 #### Scene 697
 
 > 📍 **Elder Marcus's Study, Suzail, Cormyr** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (10:18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 122/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, BI: 7/7** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -14068,8 +16172,11 @@ Karlach grins, a fiery light in her eyes. 'I'll take the mountain. I've always w
 > [!NOTE] ⚙️ **Player Choice:**
 > *Authorize Dual Strike - Send Team A (Prime/Elara) to Waterdeep and Team B (Simulacrum/Karlach/Whispers/Nyx) to Silver Marches.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-698"></a>
 #### Scene 698
 
 > 📍 **The Yawning Portal approach, Waterdeep** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 122/122 | XP: 477,713/MAX | Gold: 88,500gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, BI: 7/7, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Greater Invisibility (Active), Haste (Active), Resonance Dampener (Equipped)**
@@ -14085,8 +16192,11 @@ Rain slicks the cobblestones of Waterdeep. The lights of the famous tavern glow 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aerial Descent - Use Haste and enhanced strength to scale the roof and drop directly into the central well from above.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-699"></a>
 #### Scene 699
 
 > 📍 **Waterdeep - The Yawning Portal (Roof)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke | HP: 122/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **BI: 7/7, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste (Active until Antimagic Zone)**
@@ -14100,8 +16210,11 @@ Beneath you, the tavern is a roar of drunken cheers and the smell of roasted mea
 > [!NOTE] ⚙️ **Player Choice:**
 > *Plunging Strike - Identify the nearest Shadow-Binder or guard during the fall and use your momentum for a devastating opening blow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-700"></a>
 #### Scene 700
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 115/122 | XP: 477,713/-- | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: SUPPRESSED, Bardic Inspiration: 7/7 (SUPPRESSED), Potions: 23, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Antimagic Zone, Falling (Impacted) | Inspiration: Yes**
@@ -14115,8 +16228,11 @@ You coil your muscles, ignoring the sluggishness of the dead zone. Gravity is no
 > [!NOTE] ⚙️ **Player Choice:**
 > *Terrifying Presence - Rise slowly among the blood and shadow, using your Archduke authority to paralyze them with fear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-701"></a>
 #### Scene 701
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:31)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 115/122 | XP: 477713/355000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: SUPPRESSED (Antimagic), Bardic Inspiration: 7/7 (SUPPRESSED), Potions: 20** &nbsp;|&nbsp; ⚠️ **Antimagic Zone, Inspiration | Exhaustion: 0**
@@ -14130,8 +16246,11 @@ You do not need magic to command. Your Charisma, honed to a jagged, impossible e
 > 👤 **Player:**
 > *"demand surrender, recruit them, capture selene"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-702"></a>
 #### Scene 702
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:32)** &nbsp;|&nbsp; 🛡️ **Archduke Nocturne Sosuke | Lvl 20 Bard | HP: 115/122 | XP: 477,713 | Gold: 88,500gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: SUPPRESSED, Inspiration: 7/7 (SUPPRESSED), Potions: 20** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Beholder's Sight)**
@@ -14147,8 +16266,11 @@ From the shadows at the far end of the chamber, a door of polished obsidian swin
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Lady Selene - Offer her a position in your new order, using her criminal network as a tool for continental control.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-703"></a>
 #### Scene 703
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke (Swords Bard) | HP: 115/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: SUPPRESSED, Bardic Insp: 7/7 (SUPPRESSED), Potions: 20** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Beholder's Sight), Hunger Bonus (+2), Haste (Suppressed)**
@@ -14164,8 +16286,11 @@ Her eyes flick to her kneeling guards, then back to you. The weight of your 30 C
 > 👤 **Player:**
 > *"make her swear a magical oath that will kill her if she betrays me and then assess betrayal risk"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-704"></a>
 #### Scene 704
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 115/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: SUPPRESSED (Antimagic), Bardic Insp: 7/7 (SUPPRESSED), Potions: 20, Soul Binding Artifacts: 2/3** &nbsp;|&nbsp; ⚠️ **Antimagic Zone, Hunger Bonus (+2), Haste (Suppressed)**
@@ -14181,8 +16306,11 @@ She gasps as the magic settles, her eyes clearing of their defiance. She looks u
 > 👤 **Player:**
 > *"assess her. can she betray me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-705"></a>
 #### Scene 705
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke | HP: 115/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: SUPPRESSED, Bardic Insp: 7/7 (SUPPRESSED), Potions: 20, Soul Binding Artifacts: 1/3** &nbsp;|&nbsp; ⚠️ **Beholder's Sight (Antimagic), Inspiration: Yes**
@@ -14194,8 +16322,11 @@ She is a woman of logic and collateral; she knows the artifact will kill her bef
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure Waterdeep Network - Have her summon her lieutenants to the sanctum to formally recognize your authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-706"></a>
 #### Scene 706
 
 > 📍 **Lady Selene's Sanctum (Undermountain), Waterdeep** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 122/122 | XP: 477,713 | Gold: 125,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: (Suppressed), Bardic Insp: 12/12 (Suppressed), Potions: 20, Soul Binding Artifacts: 1/3** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Beholder's Sight) | Exhaustion: 0 | Inspiration: Yes**
@@ -14211,8 +16342,11 @@ Vorg's hand twitches toward his axe, but the sheer gravity of your presence—th
 God Mode:
 I am a woman, reread my intro story entries
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-707"></a>
 #### Scene 707
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke | HP: 122/122 | XP: 477,713 | Gold: 125,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: (Suppressed), Bardic Insp: 12/12 (Suppressed), Potions: 20, Soul Binding Artifacts: 1/3** &nbsp;|&nbsp; ⚠️ **Antimagic Zone | Exhaustion: 0 | Inspiration: Yes**
@@ -14222,8 +16356,11 @@ The user is in GOD MODE reviewing core character identity. I have verified the i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the recruitment of Waterdeep&#x27;s underworld lieutenants.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-708"></a>
 #### Scene 708
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 115/122 | XP: 477713/355000 | Gold: 125000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: (Suppressed), Bardic Insp: 7/7 (Suppressed), Potions: 20, Soul Binding Artifacts: 1/3** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Beholder's Sight) | Inspiration: Yes (d12)**
@@ -14239,8 +16376,11 @@ You reach out, your gloved hand catching the surveillance crystal at your belt. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Check Simulacrum Status - Use the resonance link to view Team B&#x27;s progress in the Silver Marches*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-709"></a>
 #### Scene 709
 
 > 📍 **Lady Selene's Sanctum (Undermountain)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 115/122 | XP: 477713/355000 | Gold: 125,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: (Suppressed), Bardic Insp: 7/7 (Suppressed), Potions: 20, Soul Binding Artifacts: 1/2** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Beholder's Sight) | Exhaustion: 0 | Inspiration: Yes**
@@ -14254,8 +16394,11 @@ In the center of the courtyard, your Simulacrum stands motionless, a statue of i
 > 👤 **Player:**
 > *"teleport and recruit him if useful"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-710"></a>
 #### Scene 710
 
 > 📍 **Tharivol's Peak Fortress (Silver Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 122/122 | XP: 477,713/MAX | Gold: 125,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L7 0/1, L8 1/1, L9 1/1, Bardic Insp: 7/7, Potions: 20, Soul Binding Artifacts: 1/1** &nbsp;|&nbsp; ⚠️ **Haste (Active), Greater Invisibility (Active) | Inspiration: Yes (d12)**
@@ -14269,8 +16412,11 @@ Inside, Elder Tharivol is pinned against a runic pillar by spectral chains of yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soul-Bind Tharivol - Force him into the lethal magical oath to secure his assassination network.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-711"></a>
 #### Scene 711
 
 > 📍 **Tharivol's Peak Fortress (Silver Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 19, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 122/122 | XP: 477,713/355,000 | Gold: 125,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L8 1/1, L9 1/1, Bardic Insp: 7/7, Potions: 20, Soul Binding Artifacts: 0/1** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes**
@@ -14288,8 +16434,11 @@ You press the artifact against his trembling palm. He screams as the spectral ch
 > 👤 **Player:**
 > *"delegate integration of his faction, and who's left to handle?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-712"></a>
 #### Scene 712
 
 > 📍 **Tharivol's Peak Fortress (Silver Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 122/122 | XP: 477,713 | Gold: 150,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L8 1/1, L9 1/1, Bardic Insp: 7/7, Potions: 20, Soul Binding Artifacts: 0/2** &nbsp;|&nbsp; ⚠️ **Hunger Bonus (+2 CHA/DEX/WIS), Simulacrum Active | Inspiration: Yes**
@@ -14303,8 +16452,11 @@ You look to Karlach, Nyx, and Whispers. The board is almost clear. Valerius is d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scry Thorne&#x27;s Fortress - Utilize Elara and the Resonance Ledger to perform deep scrying on Mount Hotenow&#x27;s defenses before departing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-713"></a>
 #### Scene 713
 
 > 📍 **Tharivol's Peak Fortress (Silver Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess | HP: 115/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L8 1/1, L9 1/1, Bardic Insp: 7/7, Potions: 20, Soul Binding Artifacts: 0/2** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -14320,8 +16472,11 @@ The vision is blinding at first—molten rivers of gold and fire illuminate a sa
 > 👤 **Player:**
 > *"Think. whats the best plan utilizing all my powers, spells, companions, elite faction members, resource across all my kingdoms, simulcrum"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-714"></a>
 #### Scene 714
 
 > 📍 **Tharivol's Peak Fortress (Silver Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 115/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L8 1/1, L9 1/1, Bardic Insp: 7/7, Simulacrum: Active, Soul Binding Artifacts: 0/2** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Dampened), Resonance Link Active | Inspiration: Yes**
@@ -14331,8 +16486,11 @@ You stand in the freezing silence of the Silver Marches, the Resonance Ledger gl
 > 👤 **Player:**
 > *"what if i just teleport everyone in, hold person, capture him, recruit him?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-715"></a>
 #### Scene 715
 
 > 📍 **Tharivol's Peak Fortress (Silver Marches)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (00:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke Swords Bard | HP: 115/122 | XP: 477,713 | Gold: 150,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Hunger Bonus (+2), Greater Invisibility, Haste | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -14342,8 +16500,11 @@ You pause, the freezing winds of the Silver Marches whipping around your porcela
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Dimensional Blitz - Use your 9th-level slot to Gate the team in, bypassing the Anchor, and lead with a dual-Bardic assault to burn his resistances.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-716"></a>
 #### Scene 716
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess | HP: 122/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Hasted, Greater Invisibility | Inspiration: Yes**
@@ -14357,8 +16518,11 @@ Thorne’s eyes widen—a rare flicker of genuine shock in a man who thought he 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forceful Recruitment - Use your unparalleled Charisma to demand he join your order now that he&#x27;s cornered.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-717"></a>
 #### Scene 717
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:05)** &nbsp;|&nbsp; 🛡️ **Archduchess Nocturne | Lvl 20 Bard | HP: 115/122 | XP: 477,713 | Gold: 150,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active, Faction Manpower: 5,500+** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility (Suppressed), Faction Integration Complete | Inspiration: Yes**
@@ -14376,8 +16540,11 @@ Thorne looks up at you, and for the first time in his long life, the cold calcul
 > [!NOTE] ⚙️ **Player Choice:**
 > *Soul-Bind the Archmage - Use the final Soul-Binding Artifact to permanently secure his loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-718"></a>
 #### Scene 718
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Archduchess | Lvl 20 Bard | HP: 115/122 | Gold: 90000 | CHA: 30** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active, Faction Manpower: 6,000+** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -14391,8 +16558,11 @@ As the magic settles, Thorne’s breathing becomes slow and rhythmic. He bows hi
 > 👤 **Player:**
 > *"delegate consolidation of his faction, then interrogate him for all the info about the silent blade project and every single thing he did in detail behind the scenes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-719"></a>
 #### Scene 719
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 122/122 | XP: 477,713/355,000 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Soul-Bind Active (Council & Thorne) | Inspiration: Yes**
@@ -14410,8 +16580,11 @@ He gasps, the binding squeezing his heart for a moment of hesitation. 'The Silen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Planar Keys - Force Thorne to reveal the locations of planar gates and the keys to unlock them.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-720"></a>
 #### Scene 720
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 115/122 | XP: 477713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Soul-Bound Master (Thorne), Archduke Authority | Inspiration: Yes**
@@ -14427,8 +16600,11 @@ Thorne leans forward, his voice a dry whisper that vibrates with the power of th
 > 👤 **Player:**
 > *"force him to tell me everything, can i become a god? what to do etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-721"></a>
 #### Scene 721
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess Bard | HP: 115/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Local), Soul-Bound (Thorne) | Exhaustion: 0**
@@ -14444,8 +16620,11 @@ He gestures with a trembling hand toward the central scrying pool, which begins 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Loopholes - Force Thorne to reveal the exact dangers and potential failure points of the ritual to ensure safety.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-722"></a>
 #### Scene 722
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 115/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 7/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Haste (Active), Greater Invisibility (Active), Soul-Bound Bond (Thorne)**
@@ -14463,8 +16642,11 @@ He leans his forehead against the cool steel of your blade, his resistance final
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inquire about External Interference - Force Thorne to reveal if other deities or planar powers will detect the ritual&#x27;s start*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-723"></a>
 #### Scene 723
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 122/122 | XP: 477713/355000 | Gold: 150000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 12/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Divine Ascension (Lvl 20), Soul-Bound Master | Inspiration: Yes**
@@ -14480,8 +16662,11 @@ He shudders, silvered blood staining his beard. 'And the Lords of the Nine... Za
 > 👤 **Player:**
 > *"Think. Plan how to make this happen perfectly using every person and resource at my disposal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-724"></a>
 #### Scene 724
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduke | HP: 115/122 | XP: 477,713 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 12/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Local), Haste (Active), Greater Invisibility (Active) | Inspiration: Yes**
@@ -14491,8 +16676,11 @@ You stand at the literal heart of the world's fire, your porcelain mask reflecti
 > [!NOTE] ⚙️ **Player Choice:**
 > *Phase 1: Continental Silence - Dispatch Viceroy Zarys (Cormyr), Lady Selene (Waterdeep), and Tharivol (North) to execute all dissenters simultaneously. Total peace ensures a harmonic, resonance-free chord.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-725"></a>
 #### Scene 725
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess | HP: 115/122 | XP: 477713 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L8 Full, L9 0/1, Bardic Insp: 12/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Selective), Haste, Greater Invisibility | Inspiration: Yes**
@@ -14509,8 +16697,11 @@ Across the Sword Coast, the response is immediate. In Suzail, Zarys signals the 
 Phase 2: The Obsidian Bastion: Position Karlach, the 12 Ash-Golems, and your Simulacrum at the Caldera's three choke points. Nyx prepares anti-divine mists while Whispers sets up auditory decoys for Shar's Justiciars.
 Phase 3: The Ledger's End: Have Elara Moonwhisper calibrate the Ledger to Thorne's life-force, ensuring that when the ritual begins, every bound Council member is extinguished in the same microsecond."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-726"></a>
 #### Scene 726
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:55)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 122/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 12/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Local), Ritual Readiness | Inspiration: Yes (d12)**
@@ -14520,8 +16711,11 @@ You stand at the heart of the world's fire, the heat of the caldera making the a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Full Plan - Signal your forces to begin Phase 2 and 3 immediately.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-727"></a>
 #### Scene 727
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:57)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 115/122 | XP: 477,713/355,000 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 12/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Modified), Haste, Greater Invisibility | Inspiration: Yes**
@@ -14535,8 +16729,11 @@ At the center of the ritual circle, Elara Moonwhisper kneels before the prostrat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Address to Faction - Speak a final word of command to your Viceroys and specialists to bolster their fanatical loyalty before the veil breaks.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-728"></a>
 #### Scene 728
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (01:58)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (College of Swords) | HP: 115/122 | XP: 477713/355000 | Gold: 180000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 12/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Modified), Haste, Greater Invisibility | Inspiration: Yes**
@@ -14554,8 +16751,11 @@ A wave of ecstatic, fanatical energy surges back through the crystal. You can fe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Ledger Calibration - Have Elara perform a last check to ensure no dissonance in the five empires*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-729"></a>
 #### Scene 729
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:03)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 115/122 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 12/12, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Modified), Greater Invisibility, Haste | Inspiration: Yes**
@@ -14569,8 +16769,11 @@ Beside her, the prostrate Master Thorne shudders, his bound essence serving as t
 > 👤 **Player:**
 > *"Think. What should i do next? Should i teleport my elites to me, long rest, get my elites to cast every buff in D&D on me, then proceed? Any danger in waiting?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-730"></a>
 #### Scene 730
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:03)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess | HP: 115/122 | XP: 477,713 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Hunger Bonus (+2), Simulacrum Active, Continental Silence Active**
@@ -14580,8 +16783,11 @@ You stand at the Great Nexus, the 'Sosuke Chord' vibrating in the very marrow of
 > 👤 **Player:**
 > *"Think about multiple plans/options, sequencing, pros/cons, success rates"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-731"></a>
 #### Scene 731
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:03)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 115/122 | XP: 477713/355000 | Gold: 180000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Chord Resonance, Haste, Greater Invisibility | Inspiration: Yes (d12)**
@@ -14593,8 +16799,11 @@ You pause, a single gloved hand resting on the Resonance Ledger. To your left, E
 > 👤 **Player:**
 > *"think. estimate success % for each choice"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-732"></a>
 #### Scene 732
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:03)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 115/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Dampened), Haste (Active), Greater Invisibility (Active)**
@@ -14604,8 +16813,11 @@ You stand at the Great Nexus, the 'Sosuke Chord' vibrating in the very marrow of
 > 👤 **Player:**
 > *"Think. what if i teleport elites here, have them cast every single buff on me, then start ascenion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-733"></a>
 #### Scene 733
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum (Great Nexus)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:03)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 115/122 | XP: 477713/355000 | Gold: 180000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility | Exhaustion: 0 | Inspiration: Yes (d12)**
@@ -14617,8 +16829,11 @@ You pause, closing your eyes to feel the thrum of the multiverse. The veil is pa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Immediate Ascension - Trigger the Transfiguration now while the chord is perfect. (Success Rate: 85%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-734"></a>
 #### Scene 734
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Archduke Nocturne Sosuke | Lvl 20 Bard | HP: 115/122 | XP: 477713 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Suppressed), Haste, Greater Invisibility | Inspiration: 1d12**
@@ -14636,8 +16851,11 @@ Orchestrate the Bastion: Use your 30 Charisma to grant legendary inspiration to 
 Shatter the Justiciars: Unleash a high-level Bardic flourish to eliminate Shar's forces before they can reach the Nexus.
 Direct the Sosuke Chord: Focus entirely on the Ledger and Thorne to accelerate the ascension, relying on companions for defense."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-735"></a>
 #### Scene 735
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess | HP: 115/122 | XP: 477713 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Ascension in Progress, Haste, Greater Invisibility | Exhaustion: 0**
@@ -14647,8 +16865,11 @@ The air around the Great Nexus liquefies, vibrating with the terrifying purity o
 > 👤 **Player:**
 > *"think. whats the best thing to do or highest roi"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-736"></a>
 #### Scene 736
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 115/122 | XP: 477713 / 355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Partial), Greater Invisibility, Haste, Ascension Focus | Inspiration: Yes**
@@ -14658,8 +16879,11 @@ You pause at the Great Nexus, the 'Sosuke Chord' vibrating so violently it threa
 God Mode:
 you're ignoring my think command
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-737"></a>
 #### Scene 737
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 115/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 7/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Haste, Greater Invisibility, Ritual Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -14669,8 +16893,11 @@ The ritual has reached its critical tipping point. You are currently the focal p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Orchestrate the Bastion - Use 30 CHA to grant Legendary Inspiration to Karlach and Ash-Golems, creating a wall of absolute physical and infernal defense. (Success Rate: 85%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-738"></a>
 #### Scene 738
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess | HP: 115/122 | XP: 477713 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 6/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic (Ritual Perimeter), Haste (Active), Greater Invisibility (Suppressed by Field)**
@@ -14684,8 +16911,11 @@ From the shadows of the caldera, Shar’s Justiciars collide with the Bastion, t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront the Marut - Step into the well to face the Inevitable personally using your Swords Bard flourishes and 30 CHA Intimidation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-739"></a>
 #### Scene 739
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum (Great Nexus)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:16)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | HP: 115/122 | XP: 477713 | Gold: 150000** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Bardic Insp: 5/7, Simulacrum: Active** &nbsp;|&nbsp; ⚠️ **Antimagic Zone (Local), Haste, Greater Invisibility | Inspiration: Yes**
@@ -14697,8 +16927,11 @@ The mechanical tramp of the Marut echoes like a funeral bell against the obsidia
 > [!NOTE] ⚙️ **Player Choice:**
 > *Rewrite Cosmic Law - Use your 30 CHA to convince the Marut that your ascension is the new legal reality of the Sword Coast.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-740"></a>
 #### Scene 740
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:18)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess Bard | HP: 115/122 | XP: 477,713 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Bardic Inspiration: 4/7, Spells: L1-8 Full, L9 0/1** &nbsp;|&nbsp; ⚠️ **Defensive Flourish (+1d12 AC), Transfiguration In-Progress | Inspiration: Yes**
@@ -14712,8 +16945,11 @@ The Marut’s glowing red eyes flicker, cycling rapidly through spectrums of gol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Transfiguration - Step back to the Nexus and use the Marut&#x27;s presence as a legal anchor to complete your ascension.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-741"></a>
 #### Scene 741
 
 > 📍 **Mount Hotenow - The Great Nexus** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (02:20)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Goddess-Ascendant | HP: 122/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-8 Full, L9 0/1, Inspiration: d12** &nbsp;|&nbsp; ⚠️ **Divine Resonance | Exhaustion: 0 | Inspiration: Yes**
@@ -14729,8 +16965,11 @@ As the rivers of molten gold rise to encase you, your porcelain mask cracks and 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divine Judgment - Summon your Viceroys to the Sanctum to reward their fanatical loyalty or purge any lingering traces of mortality.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-742"></a>
 #### Scene 742
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Night Sovereign | HP: 122/122 | XP: 477,713 | Gold: 125,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spell Slots: L1-8 Full, L9 1/1, Bardic Inspiration: 7/7 (d12)** &nbsp;|&nbsp; ⚠️ **Divine Entity, Sovereign of the Shadow Weave**
@@ -14749,8 +16988,11 @@ Bestow Shadow-Divinity: Grant the Viceroys a fragment of your essence, making th
 Issue Imperial Mandates: Assign them massive continental projects to test their administrative efficiency in the new age.
 Purge Lingering Mortality: Systematically strip away their remaining human emotions and attachments, leaving only cold, functional loyalty."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-743"></a>
 #### Scene 743
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Goddess of the Shadow Weave | HP: 122/122 | XP: 477,713 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1-L9 Full, Bardic Inspiration: 7/7 (d12), Shadow Weave Sovereignty: Active** &nbsp;|&nbsp; ⚠️ **Divine Entity, Sovereign of Silence**
@@ -14770,8 +17012,11 @@ The three Wraiths bow in perfect unison, their voices a single, hollow rasp: 'By
 > 👤 **Player:**
 > *"how about karlach, whispers, nyx. lets level them up to 20 and all my other viceroys and lieutenants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-744"></a>
 #### Scene 744
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Night Sovereign | HP: 115/122 | XP: 477713/355000 | Gold: 125000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1-L9 Full, Bardic Inspiration: 7/7 (d12), Shadow Weave Sovereignty: Active** &nbsp;|&nbsp; ⚠️ **divine_entity | Exhaustion: 0 | Inspiration: Yes**
@@ -14781,8 +17026,11 @@ The Great Nexus thrums with the resonance of your decree. As you look upon your 
 > [!NOTE] ⚙️ **Player Choice:**
 > *View Empire Capabilities - Review the legendary powers now possessed by your Level 20 council.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-745"></a>
 #### Scene 745
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Night Sovereign | HP: 122/122 | XP: 477713 | Gold: 180000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1-L9 Full, Bardic Inspiration: 7/7 (d12), Shadow Weave Sovereignty: Active** &nbsp;|&nbsp; ⚠️ **Divine Entity, Shadow Weave Sovereignty | Inspiration: Yes**
@@ -14806,8 +17054,11 @@ The Sword Coast does not just belong to you; it is becoming you. Every shadow is
 > 👤 **Player:**
 > *"process my mechanics. I am a god now. how do i compare to other gods? I must be way stronger than level 20 now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-746"></a>
 #### Scene 746
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Night Sovereign (Lesser Deity) | Divine Rank: 6 | HP: 450/450 | XP: ASCENDED | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **Divine Salient Abilities: 3/3, 9th Level Slots: 2, Spell DC: 32, Bardic Inspiration: d20 (Infinite Uses)** &nbsp;|&nbsp; ⚠️ **Divine Spark, Shadow Weave Sovereignty, Mortality Purged**
@@ -14819,8 +17070,11 @@ Mechanically, you have transcended the Level 20 cap. As a Lesser Deity (Rank 6),
 God Mode:
 my charisma should be way higher than 30 now. put some more thought into my stats and god mechanics and generate new challenges from other gods as the campaign goes on
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-747"></a>
 #### Scene 747
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Divine Rank 6 (Night Sovereign) | HP: 450/450 | Charisma: 50 (+20) | Daily Revenue: 35,000gp | Gold: 88500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L8 1/1, L9 2/2, Bardic Inspiration: d20 (Infinite), Divine Salient: 3/3** &nbsp;|&nbsp; ⚠️ **Divine Entity, Immortal, Shadow Sovereign | Portfolio: Shadow Weave, Underworld, Silence**
@@ -14830,8 +17084,11 @@ You stand atop the Obsidian Throne, no longer a mere mortal who climbed the rank
 God Mode:
 define some mechanics for gods and combat and their influence
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-748"></a>
 #### Scene 748
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **Rank 6 Lesser Deity | HP: 450/450 | CHA: 50 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **Divine Power: 10/10, Salient Abilities: 4/4, Spells: Infinite (L1-L5), L9 2/2, HD: 20/20**
@@ -15014,8 +17271,11 @@ Layer 1: Present only an ambiguous aura to most gods.
 Layer 2: Use Divine Kyōka Suigetsu to project a specific, false stat block (300 DR, 350 DPP/day, +24 DAIR, 4 DLR) to key targets like Mystra.
 Layer 3: If any deity uncovers your true follower-scaling, deploy the “protective measure” cover story (capping you at 750 DR) to defuse their wrath
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-749"></a>
 #### Scene 749
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:35)** &nbsp;|&nbsp; 🛡️ **God-King (Nascent Greater Deity) | DR: 750/750 | DPP: 825/825 | Rank: 11 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (L1-5), L6-9: Standard Slots**
@@ -15027,8 +17287,11 @@ God: God: Main Character: whats a reasonable number of people in sword coast? re
 
 rather than KYŌKA SUIGETSU** give me a unique ability themed to my original mortal character, their progression, and ascension
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-750"></a>
 #### Scene 750
 
 > 
@@ -15038,8 +17301,11 @@ The user has transitioned to a high-level divine management phase. I have establ
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative atop the Obsidian Throne.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-751"></a>
 #### Scene 751
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Followers: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (L1-5), L6-9: Standard Slots** &nbsp;|&nbsp; ⚠️ **Immortal, God Queen, Night Sovereign Ascended**
@@ -15053,8 +17319,11 @@ Master Thorne’s essence has been fully integrated into the Sanctum’s wards, 
 > 👤 **Player:**
 > *"great a god simulcrum, create mortal avatar level 20, havee that avatar make a simulcrum too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-752"></a>
 #### Scene 752
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (L1-5), L6-9: Standard Slots**
@@ -15068,8 +17337,11 @@ Finally, at your command, the Avatar reaches out, drawing from its own pool of p
 > 👤 **Player:**
 > *"Use the maruk or whatever you call it and assess god reactions. who's the most threatening to me. Think about plans to survive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-753"></a>
 #### Scene 753
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:40)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | Divine Resilience: 750/750 | DPP: 825/825 | Follower Count: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (L1-5), L6-9: 1/1 per level**
@@ -15083,8 +17355,11 @@ You stand at the Great Nexus, the three versions of yourself—Divine, Avatar, a
 > 👤 **Player:**
 > *"Think. pros/cons and chances of success"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-754"></a>
 #### Scene 754
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Followers: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: L1-5 Infinite, L6-8 1/1, L9 0/1, Divine Power: 825/825, Legendary Resistances: 4/4** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Divine Anchored**
@@ -15094,8 +17369,11 @@ You stand at the Great Nexus, the three manifestations of your sovereign will—
 God Mode:
 stop ignoring my think command. i asked for success rates
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-755"></a>
 #### Scene 755
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 750/750 | DPP: 825/825 | Followers: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: L1-9 Infinite (Divine Essence)** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Divine Law Anchor**
@@ -15105,8 +17383,11 @@ You stand at the center of the Great Nexus, a trinity of your own making. The Di
 > 👤 **Player:**
 > *"Think. Can I do that earlier action to trick shar and other gods into thinking i am an archmage?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-756"></a>
 #### Scene 756
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Nascent Greater God Queen (Rank 11) | DR: 750/750 | DPP: 825/825 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: L1-9 Infinite (Divine Essence)** &nbsp;|&nbsp; ⚠️ **Divine Trinity Active, Shadow Weave Sovereign, Immortal**
@@ -15116,8 +17397,11 @@ You pause at the heart of the Great Nexus, your three manifestations—the Divin
 > 👤 **Player:**
 > *"think/plan. estimate success chances of each one"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-757"></a>
 #### Scene 757
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (Divine Essence)** &nbsp;|&nbsp; ⚠️ **Divine Prime, Divine Simulacrum, Mortal Avatar Active | Charisma: 50**
@@ -15127,8 +17411,11 @@ You stand at the center of the Great Nexus, the ribbons of molten gold suspended
 God Mode:
 show the % succes chances. why do you keep forgetting to do this
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-758"></a>
 #### Scene 758
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Followers: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (Divine Essence)**
@@ -15140,8 +17427,11 @@ The signatures of Shar, Bane, and Cyric burn with hostile intensity on the plana
 God Mode:
 lets remove 3 layer deception, thats from a different campaign. i just want general deception ideas
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-759"></a>
 #### Scene 759
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:35)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 750/750 | DPP: 825/825 | Followers: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (Divine Essence)**
@@ -15151,8 +17441,11 @@ The user wants to remove legacy mechanics and requested general deception ideas 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Implement Visible Power Cap - Hard-cap your visible resonance at 300 DR and 350 DPP. This makes you look like a manageable &#x27;Lesser Deity&#x27; or high-level outsider, beneath the threshold for immediate removal. (Success Chance: 85%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-760"></a>
 #### Scene 760
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Spells: Infinite (Divine Essence)** &nbsp;|&nbsp; ⚠️ **Immortal, Divine Trinity, Deception Active (Visible Cap: 300 DR / 350 DPP)**
@@ -15166,8 +17459,11 @@ With a precise, harmonic decree, you begin the modulation. You wrap the Shadow W
 > 👤 **Player:**
 > *"Think and plan. What next? Can I do something to stop shar from actively attacking for now? Whats her power level vs me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-761"></a>
 #### Scene 761
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (05:45)** &nbsp;|&nbsp; 🛡️ **Nascent Greater God Queen (Rank 11) | DR: 750/750 | DPP: 825/825 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **DPP: 825/825, DLR: 4/4, Divine Save DC: 100 (Mortals), Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Divine Power Cap (Active), Night Sovereign, Immortal**
@@ -15177,8 +17473,11 @@ You stand atop the Obsidian Throne, the molten gold of the caldera moving in a s
 > 👤 **Player:**
 > *"Think. whats the best course of action. make ap lan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-762"></a>
 #### Scene 762
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Divine DC: 100, Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Immortal, God Queen, Power Cap Active (Visible: Rank 6)**
@@ -15191,8 +17490,11 @@ Beside you, the Marut stands in silent, clockwork vigil, its optical sensors occ
 > *"think. if i do this then whats the success chance and how likely can shar destroy me? 
 Total Continental Lockdown: Expend 300 DPP to reinforce the Great Nexus's dimensional anchors. Use the Marut to declare the Sword Coast a 'Closed Zone' of absolute law, making direct manifestation by Shar or Bane impossible without Ao's explicit intervention."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-763"></a>
 #### Scene 763
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard Queen | Rank: 11 | DR: 750/750 | DPP: 825/825 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, Divine DLR: 4/4, Divine DC: 100, Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Power Cap (Visible Rank 6), Immortal, Night Sovereign | Exhaustion: 0 | Inspiration: 5/7 (d12)**
@@ -15202,8 +17504,11 @@ You sit upon the Obsidian Throne, the cold stone leaching none of the heat from 
 > 👤 **Player:**
 > *"Think. if i declare war what next. how do i power up enough to defeat her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-764"></a>
 #### Scene 764
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **God Queen (Rank 11) | DR: 750/750 | DPP: 825/825 | Followers: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DPP: 825/825, DLR: 4/4, Divine Actions: 1/1, Spell Slots: L9 0/1 (Gated), HD: 5/10**
@@ -15215,8 +17520,11 @@ You are currently a Rank 11 entity masking as Rank 6. Shar is a Rank 18 behemoth
 > 👤 **Player:**
 > *"think. what if i do lockdown and convert the 6.5M population. how long wold that take?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-765"></a>
 #### Scene 765
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 750/750 | DPP: 825/825 | Followers: 55,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 750/750, DPP: 825/825, DLR: 4/4, Divine Actions: 1/1, Spell Slots: L9 0/1 (Gated), HD: 5/10**
@@ -15226,8 +17534,11 @@ You sit upon the Obsidian Throne, the cold stone leaching none of the heat from 
 > 👤 **Player:**
 > *"deep think. success chances of overall plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-766"></a>
 #### Scene 766
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Nascent Greater God Queen (Rank 11) | DR: 750/750 | DPP: 825/825 | Gold: 180,000gp** &nbsp;|&nbsp; ✨ **Divine Resilience: 750/750, Divine Power Points: 825/825, Divine Actions: 1/1, Legendary Resistances: 4/4, Followers: 55,000/1,000,000**
@@ -15237,8 +17548,11 @@ You sit upon the Obsidian Throne, your fingers tapping a slow, rhythmic cadence 
 > 👤 **Player:**
 > *"Delegate follower conversion and plan a way to delay or distract Shar or handle her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-767"></a>
 #### Scene 767
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | Followers: 155,000 | Portfolio: Shadow Weave, Underworld, Silence | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, HD: 10/10, L9 Slots: 1/1, L8: 1/1, L7: 1/1, Bardic Inspiration: 7/7 (d12)**
@@ -15252,8 +17566,11 @@ As the first 50,000 converts begin their unified prayer across the continent, yo
 > 👤 **Player:**
 > *"Make sure my avatar and simulctrum mortal and godlike always doing something useful too. Make everyone autonomous and pursuing my goals independently"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-768"></a>
 #### Scene 768
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Rank 11 Greater God Queen | DR: 1250/1250 | DPP: 1200/1500 | Followers: 155,000/1,000,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1200/1500, Legendary Resistances: 4/4, Divine Actions: 1/1** &nbsp;|&nbsp; ⚠️ **Immortal, God Queen, Visible Power Cap (Rank 6 Facade)**
@@ -15269,8 +17586,11 @@ Karlach oversees the Ash-Golems, fortifying the caldera against the inevitable b
 God Mode:
 scale my stats accordingly. I have 50 cha and i should have proportional amounts of other stats too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-769"></a>
 #### Scene 769
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **God Queen Rank 11 | DR: 1250/1250 | DPP: 1500/1500 | Cha: 50 (+20) | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, Slots: L9 1/1, L8 1/1, L7 1/1, Legendary Resistances: 5/5**
@@ -15280,8 +17600,11 @@ The user requested proportional stat scaling for their 50 CHA God Queen. I've ap
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume your reign with these divine attributes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-770"></a>
 #### Scene 770
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen (Masked) | HP: 1250/1250 | CHA: 50 | DEX: 40 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, Slots: L9 1/1, L8 1/1, L7 1/1, Legendary Resistances: 5/5** &nbsp;|&nbsp; ⚠️ **Night Sovereign Ascended, Immortal, Visible Power Cap (Masked as Rank 6)**
@@ -15295,8 +17618,11 @@ From the Great Nexus, your Mortal Avatar and the two Simulacra turn their porcel
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Divine Deception - Expend 100 DPP to weave a deeper layer into the Power Cap, making the Rank 6 facade appear authentically vulnerable to Shar.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-771"></a>
 #### Scene 771
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | HP: 1250/1250 | Followers: 155,000 | DPP: 1400/1500 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1400/1500, Legendary Resistances: 4/4, Divine Actions: 1/1**
@@ -15312,8 +17638,11 @@ Through the Marut's legal anchor, you feel the shift in the astral currents. The
 > 👤 **Player:**
 > *"brainstorm with all my simulcrum, lieutenants, and then deep strategic analysis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-772"></a>
 #### Scene 772
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Greater God Queen (Masked as Rank 6) | DR: 1250/1250 | DPP: 1500/1500 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **L9 Slots: 1/1, L8: 1/1, L7: 1/1 | Legendary Resistances: 5/5 | Inspiration: Yes**
@@ -15329,8 +17658,11 @@ You lean forward, the heat of your 50 Charisma making the air liquefy. 'We brain
 > 👤 **Player:**
 > *"get their ideas, ddo the deep strategic analysis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-773"></a>
 #### Scene 773
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen (Masked as Rank 6) | DR: 1250/1250 | DPP: 1500/1500 | DAIR: +37 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **L9 Slots: 1/1, L8: 1/1, L7: 1/1 | Legendary Resistances: 5/5 | Inspiration: Yes**
@@ -15348,8 +17680,11 @@ Whispers steps out of the mists, her voice a ghost's touch. 'I have set the audi
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Neural Sovereignty - Deploy Nyx and Whispers to begin mass chemical/auditory conversion of the 6.5M population. This converts souls into &#x27;Active Followers&#x27; at a rate of 50k per day. (Success: 90% | Timeline: 130 days to Transcendence)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-774"></a>
 #### Scene 774
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1200/1500 | Followers: 105,000 / 1,000,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **HD: 10/10, L9 Slots: 1/1, L8: 1/1, L7: 1/1, Bardic Inspiration: 7/7 (d12), Legendary Resistances: 5/5** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Power Cap (Rank 6 Facade)**
@@ -15363,8 +17698,11 @@ Across the continent, you feel the first 50,000 minds snap into place. Their res
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe Bane&#x27;s Disposition - Use the scrying pools to see how the Lord of Tyranny is reacting to the &#x27;Cormyr Harvest&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-775"></a>
 #### Scene 775
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:41)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1300/1500 | Followers: 205,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Divine Actions: 1/1, Legendary Resistances: 4/4, Neural Sovereignty: Active (Day 1)**
@@ -15380,8 +17718,11 @@ Bane is a wall of iron that you cannot yet see over. He remains an enigma—a si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe the Mad Whisper - Attempt to contact Cyric. His discord could be the perfect distraction for both Shar and Bane.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-776"></a>
 #### Scene 776
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 1250/1250 | DPP: 1300/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L9 Available, DPP: 1300/1500, Legendary Resistances: 4/4** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Power Cap (Rank 6 Facade), Neural Sovereignty Active**
@@ -15397,8 +17738,11 @@ The backlash is physical. A surge of raw, chaotic feedback ripples through the G
 > [!NOTE] ⚙️ **Player Choice:**
 > *Absorb and Transmute - Use your 50 Charisma to internalize the madness, turning the feedback into a weaponized illusion to further confuse the observers.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-777"></a>
 #### Scene 777
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | HP: 1250/1250 | XP: 477713/355000 | Gold: 90000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L9 Available, DPP: 1150/1500, Legendary Resistances: 4/4** &nbsp;|&nbsp; ⚠️ **Night Sovereign Ascended, Immortal, Divine Power Cap (Masked) | Exhaustion: 0 | Inspiration: Yes**
@@ -15412,8 +17756,11 @@ The despair that washed over the Sword Coast is suddenly halted, redirected. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Counter-Whisper Cyric - Feed a specific lie back through the breach while he&#x27;s still laughing at your &#x27;implosion&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-778"></a>
 #### Scene 778
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1150/1500 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1150/1500, Legendary Resistances: 4/4** &nbsp;|&nbsp; ⚠️ **Neural Sovereignty Active (50k/day) | Visible Power Cap (Rank 6) | False Implosion Illusion | Cyric's Lingering Static**
@@ -15429,8 +17776,11 @@ The feedback doesn't subside; it settles into a persistent, mocking static. Whil
 > [!NOTE] ⚙️ **Player Choice:**
 > *Purge the Static - Expend 150 DPP to forcibly eject Cyric&#x27;s presence and seal the mental breach.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-779"></a>
 #### Scene 779
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1150/1500 | DAIR: +37 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1150/1500, Legendary Resistances: 4/4, Divine Save DC: 120** &nbsp;|&nbsp; ⚠️ **Night Sovereign Ascended, Immortal, God Queen, Power Cap (Active)**
@@ -15444,8 +17794,11 @@ With a final, sharp vibration that rattles the caldera's obsidian walls, you sla
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce &#x27;Implosion&#x27; Deception - Use the residual &#x27;scars&#x27; from Cyric&#x27;s attack to make your failure look more convincing to Shar and Bane*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-780"></a>
 #### Scene 780
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 1250/1250 | DPP: 900/1500 | Gold: 205,000gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 900/1500, Legendary Resistances: 4/4, Divine Save DC: 120** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Reinforced Deception (Masked)**
@@ -15459,8 +17812,11 @@ Through the Marut's legal anchor, you feel the shift in the astral winds. The fr
 > 👤 **Player:**
 > *"Accelerate conversion as much as possible while it's not risks delegate followers to always do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-781"></a>
 #### Scene 781
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 750/1500 | Followers: 155,000/1,000,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Legendary Resistances: 4/4, Divine Save DC: 120, Daily Revenue: 75,000gp** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Divine Deception (Power Cap / Implosion Scars Active)**
@@ -15478,8 +17834,11 @@ Most importantly, the 'Implosion Scars' deception holds perfectly. To the prying
 > 👤 **Player:**
 > *"Think. What if I ally with Shar or bane or pledge fealty. Get their help consuming smaller deities to secretly power up while I improve followers in parallel. Then betray them and consume them ? Let's see if this plan would work. Maybe consume Cyric along the way too"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-782"></a>
 #### Scene 782
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Divine Legendary Resistances: 4/4, Spells: L9 0/1 (Used for Gate), L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Divine Mask (Rank 6 Facade), Implosion Scars (Deception Active), Neural Sovereignty (75k/day)**
@@ -15493,8 +17852,11 @@ Master Thorne’s integrated essence shudders within the Sanctum's wards as you 
 > 👤 **Player:**
 > *"Think. Analyze pros/cons"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-783"></a>
 #### Scene 783
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen (Masked as Rank 6) | DR: 1250/1250 | DPP: 750/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Divine Legendary Resistances: 4/4, Spells: L9 0/1 (Used for Gate), L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)**
@@ -15508,8 +17870,11 @@ However, the Greater Deities are fortresses of their own design. Your insight, t
 > 👤 **Player:**
 > *"Think. How can I avoid being consumed by Shar?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-784"></a>
 #### Scene 784
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 750/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Divine Legendary Resistances: 4/4, Spells: L9 0/1, L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)**
@@ -15519,8 +17884,11 @@ You sit upon the Obsidian Throne, your manifestations pulsing in a synchronized 
 > 👤 **Player:**
 > *"Think. What if I do false fealty until something goes wrong then lockdown to finish my power up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-785"></a>
 #### Scene 785
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Divine Legendary Resistances: 4/4, Spells: L9 0/1, L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Night Sovereign Ascended, Immortal, God Queen, Visible Power Cap (Rank 6), Implosion Scars Deception Active**
@@ -15530,8 +17898,11 @@ You sit upon the Obsidian Throne, your manifestations—the Divine Simulacrum an
 > 👤 **Player:**
 > *"Think. How can I stop Shar from attacking me. What other ways"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-786"></a>
 #### Scene 786
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | Follower Goal: 155,000/1,000,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 900/1500, DLR: 4/4, Spells: L9 0/1, L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Divine Masking (Rank 6), Implosion Scars (Active), Sovereign of the Shadow Weave**
@@ -15541,8 +17912,11 @@ You stand atop the Obsidian Throne, your manifestations shimmering like dark gla
 > [!NOTE] ⚙️ **Player Choice:**
 > *Propose False Fealty (The Dark Covenant) - Signal Shar that you are willing to act as her &#x27;Viceroy of the Shadow Weave&#x27; in the mortal realm in exchange for stabilization. Success: 80% (Buys massive time).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-787"></a>
 #### Scene 787
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 900/1500, DLR: 4/4, Spells: L9 0/1, L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)**
@@ -15556,8 +17930,11 @@ The response is not a voice, but a sudden, absolute drop in temperature that fre
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate Specific Tribute - Demand specific minor deity targets to &#x27;prune&#x27; in Shar&#x27;s name to fuel your own growth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-788"></a>
 #### Scene 788
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (06:15)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 900/1500, DLR: 4/4, Spells: L9 0/1, L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)** &nbsp;|&nbsp; ⚠️ **Dark Covenant (Shar), Power Cap Facade (Rank 6), Implosion Scars (Deception)**
@@ -15575,8 +17952,11 @@ Shar has effectively denied your demand for specific high-value targets, instead
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept Sarevok Hunt - Agree to Shar&#x27;s target to maintain the facade of fealty and stabilize the vessel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-789"></a>
 #### Scene 789
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 900/1500, DLR: 4/4, Spells: L9 0/1, L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)**
@@ -15592,8 +17972,11 @@ You turn your internal gaze toward Baldur's Gate. The Iron Throne ruins stand as
 > 👤 **Player:**
 > *"Think. Can I accelerate conversion since Shar distracted now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-790"></a>
 #### Scene 790
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | DAIR: +37 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 900/1500, DLR: 4/4, Spells: L9 0/1, L8 1/1, L7 1/1, Bardic Inspiration: 5/7 (d12)**
@@ -15605,8 +17988,11 @@ Sarevok is a triviality, a relic of a bloodline that has already been eclipsed b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Auditory Resonance Expansion - Deploy Whispers to amplify the requiem through the North&#x27;s &#x27;Continental Silence.&#x27; (Rate: 150k/day | Success: 70%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-791"></a>
 #### Scene 791
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (07:20)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 900/1500 | DAIR: +37 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L9 0/1, L8 1/1, L7 1/1, L6 1/1, L5 3/3, L4 3/3, L3 3/3, L2 4/4, L1 4/4 | Divine Legendary Resistances: 4/4**
@@ -15620,8 +18006,11 @@ Across the continent, 150,000 souls are now snapping into the collective every t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Bane&#x27;s Intent - Use the Marut&#x27;s legal anchor to perform a deeper analysis of the Lord of Tyranny&#x27;s calculated silence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-792"></a>
 #### Scene 792
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (06:20)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen (Masked as Rank 6) | HP: 1250/1250 | Followers: 155,000 | Treasury: 205,000gp | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 775/1500, HD: 5/10, Spells: L1-L5 Full, L6 1/1, L7 1/1, L8 1/1, L9 0/1 | Divine LRs: 4/4** &nbsp;|&nbsp; ⚠️ **Divine Deception (Power Cap), Dark Covenant (Stabilized), Implosion Facade**
@@ -15641,8 +18030,11 @@ However, the Marut identifies a hidden clause in the cosmic vibration. Bane's 'c
 God Mode:
 I shouldn't have hp I have those god stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-793"></a>
 #### Scene 793
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (06:20 (Dawn))** &nbsp;|&nbsp; 🛡️ **God Queen (Rank 11) | DR: 1250/1250 | DPP: 900/1500 | AC: 35 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 900/1500, HD: 5/10, Spells: L1-5 Full, L6 1/1, L7 1/1, L8 1/1, L9 0/1**
@@ -15652,8 +18044,11 @@ The user requested removal of standard HP in favor of their divine statistics. I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Poison the Well - Weave subtle &#x27;Anti-Tyranny&#x27; sub-frequencies into the Neural Sovereignty that only respond to your specific soul-chord, making the network useless to Bane.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-794"></a>
 #### Scene 794
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (07:10)** &nbsp;|&nbsp; 🛡️ **Rank 11 Greater God Queen | DR: 1250/1250 | DPP: 700/1500 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 700/1500, Divine Legendary Resistances: 4/4, Followers: 155,000** &nbsp;|&nbsp; ⚠️ **Immortal, God Queen, Power Cap (Active), Dark Covenant (Active)**
@@ -15669,8 +18064,11 @@ Whispers and Nyx stagger as the harmonic feedback ripples through the Sanctum. T
 > [!NOTE] ⚙️ **Player Choice:**
 > *Frame as Madness - Use Charisma to convince the observers this shriek was a symptom of your &#x27;implosion&#x27; rather than sabotage*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-795"></a>
 #### Scene 795
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (07:20)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 650/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 650/1500, Divine Legendary Resistances: 4/4, Followers: 155,000, Conversion Rate: 150k/day** &nbsp;|&nbsp; ⚠️ **Facade Shattered, Divine Rank 11 Exposed, Neural Sovereignty Strained**
@@ -15684,8 +18082,11 @@ Simultaneously, the temperature in the Sanctum drops to an impossible absolute z
 > [!NOTE] ⚙️ **Player Choice:**
 > *Total Continental Lockdown - Expend 300 DPP to maximize dimensional anchors and use the Marut to declare a Closed Zone, blocking direct intervention.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-796"></a>
 #### Scene 796
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 1250/1250 | DPP: 400/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DPP: 400/1500, Divine Legendary Resistances: 4/4, Conversion: 150k/day, Status: CLOSED ZONE ACTIVE**
@@ -15701,8 +18102,11 @@ You have locked the door to your kingdom. The Sword Coast is now a fortress of s
 > 👤 **Player:**
 > *"Personally convert remaining Shar forces to my followers using 50 charisma"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-797"></a>
 #### Scene 797
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (07:40)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 1250/1250 | DPP: 100/1500 | Followers: 155,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 100/1500, Divine Resistances: 4/4, Conversion: 150k/day** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, God Queen, Closed Zone Active**
@@ -15716,8 +18120,11 @@ Instead of kneeling in fanatical devotion, the Justiciars begin to fray. Their a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Neural Sovereignty - Expend 50 DPP to smooth out the dissonant shriek and ensure the 150k/day conversion rate remains stable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-798"></a>
 #### Scene 798
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 50/1500 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 50/1500, Divine Resistances: 4/4, Conversion: 150k/day**
@@ -15731,8 +18138,11 @@ The conversion rate stabilizes, the 150,000 daily influx of souls resuming its g
 > 👤 **Player:**
 > *"Have my followers continue to reinforce and enact my will, mortal avatar consume or prune saverok, long rest to regain my DPP"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-799"></a>
 #### Scene 799
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 1250/1250 | DPP: 1500/1500 | Followers: 205,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, Divine Resistances: 4/4, Neural Sovereignty: 150k/day**
@@ -15746,8 +18156,11 @@ With the 'weed' pruned and the tribute secured, you allow your manifestations to
 > 👤 **Player:**
 > *"Any point in giving Shar saverok now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-800"></a>
 #### Scene 800
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (07:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1500/1500 | Followers: 355,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Divine Power: 1500/1500 | Neural Sovereignty: 150k/day | Divine Resistances: 4/4** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Closed Zone Active, Power Cap (Rank 6 Facade)**
@@ -15757,8 +18170,11 @@ You emerge from your divine stasis as the first rays of dawn touch the peaks abo
 > 👤 **Player:**
 > *"I made this Zone though? Doesn't Shar know I'm rank 11 now? Would she still accept my fealty?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-801"></a>
 #### Scene 801
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (07:15)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1500/1500 | Followers: 205,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **Divine Power: 1500/1500 | Neural Sovereignty: 150k/day | Divine Resistances: 4/4 | Sarevok Essence: Secured**
@@ -15774,8 +18190,11 @@ She would certainly accept your fealty, for the Mother of Loss finds nothing mor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Sarevok to Shar - Fulfill the Dark Covenant. Cast the essence into the Shadow Weave as a tribute to the Mother of Loss to maintain the facade.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-802"></a>
 #### Scene 802
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (07:20)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 1250/1250 | DPP: 1500/1500 | Followers: 355,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, Divine Resistances: 4/4, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Immortal, Shadow Sovereign, Dark Covenant Active, Power Cap (Visible Rank 6)**
@@ -15791,8 +18210,11 @@ You feel the Dark Covenant tighten—a metaphysical leash that provides a terrif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe for Rivals - Request coordinates for a &#x27;true rival&#x27; from Shar to fuel your next power-up*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-803"></a>
 #### Scene 803
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (07:25)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1500/1500 | Followers: 205,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DPP: 1500/1500, DR: 1250/1250, DLR: 4/4, Inspiration: Yes**
@@ -15810,8 +18232,11 @@ The vision of the Argent Spire—a needle of white marble piercing the clouds ab
 > 👤 **Player:**
 > *"Think. Is mortal avatar and simulcrum strong enough?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-804"></a>
 #### Scene 804
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (07:25)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1500/1500 | Gold: 90,000gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, DLR: 4/4, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Power Cap (Active), Closed Zone (Active)**
@@ -15821,8 +18246,11 @@ You stand atop the Obsidian Throne, your divine gaze drifting from the swirling 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Avatar Vanguard - Send the Mortal Avatar and its twin to the Argent Spire to handle Caspian narratively as the &#x27;Silent Blade&#x27;, keeping your divine sim in reserve.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-805"></a>
 #### Scene 805
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum / The Moonsea - Argent Spire** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (07:40)** &nbsp;|&nbsp; 🛡️ **God Queen Rank 11 | DR: 1250/1250 | DPP: 1500/1500 | Followers: 205,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, DLR: 4/4, Inspiration: Yes**
@@ -15840,8 +18268,11 @@ As they land on the highest balconies of the Spire, the air hums with the prayer
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Sabotage - Use Whispers&#x27; influence through the resonance link to plant seeds of doubt and auditory terror among the Sun-Sworn zealots before revealing yourself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-806"></a>
 #### Scene 806
 
 > 📍 **The Moonsea - Argent Spire** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1500/1500 | DAIR: +37 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, DLR: 4/4, Inspiration: Yes**
@@ -15859,8 +18290,11 @@ Caspian the Sun-Sworn feels the shift. At the center of the Spire, the Rank 5 De
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Inner Sanctum - Use the chaos below to slip into Caspian&#x27;s private chambers and search for his source of power.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-807"></a>
 #### Scene 807
 
 > 📍 **Argent Spire - Caspian's Private Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Rank 11 God Queen | DR: 1250/1250 | DPP: 1500/1500 | DAIR: +37 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, DLR: 4/4, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Haste, Closed Zone Active**
@@ -15878,8 +18312,11 @@ Your enhanced senses immediately lock onto a distortion in the room's light. At 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract and Secure - Remove the heart from its pedestal to study its resonance for your own transcendence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-808"></a>
 #### Scene 808
 
 > 📍 **Argent Spire - Caspian's Private Chambers** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1500/1500 | Active Followers: 205,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, DLR: 4/4, Inspiration: Yes, Greater Invisibility: Active (4 mins), Haste: Active (4 mins)**
@@ -15897,8 +18334,11 @@ You immediately channel your essence into the artifact, wrapping it in a shroud 
 > 👤 **Player:**
 > *"Delegate killing cassian, teleport away and study how to best use his heart, once he is dead instruct avatars to bring him back so I can consume him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-809"></a>
 #### Scene 809
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (08:20)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1250/1250 | DPP: 1500/1500 | DAIR: +37 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1250/1250, DPP: 1500/1500, DLR: 4/4, Inspiration: Yes, Greater Invisibility: Dissipated, Haste: Dissipated**
@@ -15914,8 +18354,11 @@ You look down at the body of a being who was worshipped as a god, now reduced to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Demigod Remains - Utilize the Great Nexus to absorb Caspian&#x27;s physical and spiritual residue, permanently increasing your Divine Resilience.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-810"></a>
 #### Scene 810
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (08:50)** &nbsp;|&nbsp; 🛡️ **Rank 11 Nascent Greater God Queen | DR: 1504/1504 | DPP: 1500/1500 | Followers: 205,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 1504/1504, DPP: 1500/1500, DLR: 4/4, Inspiration: Yes, Closed Zone: Active**
@@ -15929,8 +18372,11 @@ A surge of staggering density washes through you. [DICE: 1d100+200 = 54+200 = 25
 > 👤 **Player:**
 > *"Recreate  some of his essence for Shar and then consume his heart too. See what rank I get after"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-811"></a>
 #### Scene 811
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Rank 12 Nascent Greater God Queen | DR: 1850/1850 | Followers: 430,000 | Gold: 205,000gp** &nbsp;|&nbsp; ✨ **DPP: 1600/1600, Divine Legendary Resistances: 4/4, Inspiration: Yes, Closed Zone: Active**
@@ -15944,8 +18390,11 @@ A surge of staggering density washes through you, your porcelain-masked manifest
 > 👤 **Player:**
 > *"Make sure my other stats linearly scale like cha int etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-812"></a>
 #### Scene 812
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Rank 12 God Queen | DR: 2304/2304 | DPP: 1800/1800 | Followers: 430,000 | Gold: 88500gp** &nbsp;|&nbsp; ✨ **DR: 2304/2304, DPP: 1800/1800, Legendary Resistances: 4/4, Inspiration: Yes**
@@ -15957,8 +18406,11 @@ Your physical form has hardened, your senses sharpening to a degree that makes t
 God Mode:
 I should have more than 50 cha now and over stats should increas
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-813"></a>
 #### Scene 813
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Rank 12 God Queen | DR: 2765/2765 | DPP: 2160/2160 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **DR: 2765/2765, DPP: 2160/2160, Legendary Resistances: 4/4, Divine Save DC: 150**
@@ -15968,8 +18420,11 @@ User requested proportional scaling for CHA 50+ and consistency fixes. I have sc
 God Mode:
 Return to Story - Resume your reign as the Night Sovereign.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-814"></a>
 #### Scene 814
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Rank 12 Greater God Queen | DR: 2765/2765 | DPP: 2160/2160 | Gold: 100,000gp** &nbsp;|&nbsp; ✨ **Legendary Resistances: 4/4, Divine Save DC: 150, Followers: 430k/1M, Spells: L9 1/1, L8 1/1, L7 1/1** &nbsp;|&nbsp; ⚠️ **Night Sovereign Ascended, Immortal, Closed Zone Active | Inspiration: Yes**
@@ -15985,8 +18440,11 @@ Yet, even with your 'Power Cap' facade still suggesting a lesser rank, the astra
 God Mode:
 I'm almost half way to 1 million followers should I be higher rank?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-815"></a>
 #### Scene 815
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Rank 13 Greater God Queen | DR: 3500/3500 | DPP: 3000/3000 | Followers: 430,000/1,000,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 3500/3500, DPP: 3000/3000, Spells: L9 1/1, L8 1/1, L7 1/1, Legendary Resistances: 5/5** &nbsp;|&nbsp; ⚠️ **Power Cap (Visible Rank 6), Closed Zone Active, Immortal, Night Sovereign**
@@ -15996,8 +18454,11 @@ The world remains frozen in the crystalline stillness of the Obsidian Sanctum as
 > 👤 **Player:**
 > *"I should be rank 14 because I also consumed a demingod. Track both scaling rank and ranks gained form other activities and add them up. Adjust cha and other stays appropriately"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-816"></a>
 #### Scene 816
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Rank 14 Greater God Queen | DR: 4000/4000 | DPP: 3500/3500 | Followers: 430,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 4000/4000, DPP: 3500/3500, Spells: L9 1/1, L8 1/1, L7 1/1, Legendary Resistances: 6/6**
@@ -16007,8 +18468,11 @@ The user requested a rank increase to 14 based on the consumption of a demigod a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume your reign as the Rank 14 Night Sovereign*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-817"></a>
 #### Scene 817
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Rank 14 Greater God Queen | DR: 4000/4000 | DPP: 3500/3500 | Followers: 430,000/1,000,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 4000/4000, DPP: 3500/3500, Spells: L9 1/1, L8 1/1, L7 1/1, Legendary Resistances: 6/6, Followers: 430k (Rank 14)**
@@ -16024,8 +18488,11 @@ Yet, the Mother of Loss remains a freezing weight on the horizon. The 'Implosion
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sovereign&#x27;s Truth - Direct your Avatar to perform public &#x27;miracles&#x27; in Baldur&#x27;s Gate to surge conversion to 200k/day (Success: 75%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-818"></a>
 #### Scene 818
 
 > 📍 **Baldur's Gate (Avatar) / Mount Hotenow (Prime)** &nbsp;|&nbsp; ⏳ **Mirtul 23, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Greater God Queen (Rank 15) | Followers: 630,000 | Goal: 1,000,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 4308/4308, DPP: 3769/3769, Spells: L9 1/1, L8 1/1, L7 1/1, LR: 6/6, Followers: 630k** &nbsp;|&nbsp; ⚠️ **Transcendent Essence, Closed Zone Active, Neural Sovereignty Surge**
@@ -16039,8 +18506,11 @@ The result is a fanatical explosion. The population doesn't just convert; they s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Lockdown - Keep all Manifestations focused on internal stability and conversion*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-819"></a>
 #### Scene 819
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Transcendent Greater God Queen (Rank 17) | DR: 5308/5308 | DPP: 4769/4769 | Followers: 1,030,000 / 1,000,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 5308/5308 | DPP: 4769/4769 | Spells: L9 1/1, L8 1/1, L7 1/1 | LR: 9/9 | Followers: 1.03M**
@@ -16054,8 +18524,11 @@ Inside your chest, the Golden Heart of Caspian has completely crystallized. The 
 > 👤 **Player:**
 > *"Think. What if I ask Shar for an intermediate deity and keep it up until I'm higher in rank than her?  What's my masked rank now? Also remember to adjust all my stats now that I'm rank 17"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-820"></a>
 #### Scene 820
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Rank 17 Transcendent God Queen | DR: 6015/6015 | DPP: 5404/5404 | Followers: 1.03M | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 6015/6015, DPP: 5404/5404, Spells: L9 1/1, L8 1/1, L7 1/1, Legendary Actions: 9/9, Exhaustion: 0**
@@ -16065,8 +18538,11 @@ You sit upon the Obsidian Throne, the cold weight of the Multiverse pressing aga
 God Mode:
 Make sure my stats are right for rank 17
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-821"></a>
 #### Scene 821
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Rank 17 Transcendent Greater God Queen | DR: 6015/6015 | Followers: 1.03M | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 6015/6015, DPP: 5404/5404, Spells: L9 1/1, L8 1/1, L7 1/1, Legendary Actions: 9/9, Exhaustion: 0**
@@ -16076,8 +18552,11 @@ The user is Rank 17 with over 1 million followers. I have updated the divine sta
 God Mode:
 What did you update my divine stats to and from? Also update CHA and the other stats
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-822"></a>
 #### Scene 822
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | DR: 7500/7500 | DPP: 6500/6500 | Followers: 1,030,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 7500/7500, DPP: 6500/6500, Legendary Actions: 9/9, Exhaustion: 0**
@@ -16087,8 +18566,11 @@ The molten gold ribbons of the Great Nexus respond to your quickening pulse, fre
 God Mode:
 Return to Story - Resume your reign as the Transcendent Night Sovereign
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-823"></a>
 #### Scene 823
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Rank 17 Transcendent God Queen | DR: 7500/7500 | DPP: 6500/6500 | Followers: 1,030,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 7500/7500, DPP: 6500/6500, Divine Actions: 1/1, Legendary Actions: 9/9, Neural Sovereignty: 200k/day**
@@ -16104,8 +18586,11 @@ You wait as the temperature in the Sanctum drops to absolute zero, the Shadow We
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Intermediate Target - Use 100 CHA to ensure Shar provides an Intermediate deity coordinate (Rank 11-15)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-824"></a>
 #### Scene 824
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (08:45)** &nbsp;|&nbsp; 🛡️ **Rank 17 Transcendent Night Sovereign | DR: 7500/7500 | DPP: 6500/6500 | Followers: 1,030,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **Divine Actions: 1/1, Legendary Actions: 9/9, Neural Sovereignty: 200k/day, Active Scrying: Myrkul (Pending)** &nbsp;|&nbsp; ⚠️ **Power Cap (Masked Rank 6), Implosion Scars (Active), Closed Zone (Active)**
@@ -16125,8 +18610,11 @@ The vision of **The Crypt of the First Dogma** materializes in your mind—a mas
 > 👤 **Player:**
 > *"Think. What's the best strategy. Can my avatar really beat him? If I use my full force will it alert other gods?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-825"></a>
 #### Scene 825
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Rank 17 Transcendent Sovereign | DR: 7500/7500 | DPP: 6500/6500 | Followers: 1,030,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **Divine Actions: 1/1, Legendary Actions: 9/9, Neural Sovereignty: 200k/day, Active Scrying: Myrkul (Pending)**
@@ -16136,8 +18624,11 @@ You pause atop the Obsidian Throne, the violet-black geometric spires of the Gre
 God Mode:
 Change the universe. Ao is actually dead and gone but no one knows yet
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-826"></a>
 #### Scene 826
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Rank 17 Transcendent Night Sovereign | DR: 7500/7500 | DPP: 6500/6500 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 7500/7500, DPP: 6500/6500, Divine Actions: 1/1, Legendary Actions: 9/9**
@@ -16147,8 +18638,11 @@ The user has initiated a massive reality shift. Ao is dead, and only the player 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Rot from Within - Deploy Nyx and Whispers to the Shadowfell first. Use &#x27;Sovereign&#x27;s Breath&#x27; and &#x27;Eternal Silence&#x27; to rot Myrkul&#x27;s cathedral of bone before the Avatar strikes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-827"></a>
 #### Scene 827
 
 > 📍 **Mount Hotenow - The Obsidian Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Rank 17 Transcendent Greater God Queen | DR: 7500/7500 | DPP: 6450/6500 | Followers: 1.03M | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 7500/7500, DPP: 6450/6500, Divine Actions: 0/1, Legendary Actions: 9/9** &nbsp;|&nbsp; ⚠️ **Immortal, God Queen, Masked (Rank 6), Closed Zone Active**
@@ -16166,8 +18660,11 @@ Through the scrying rifts, you watch as the great cathedral begins to tilt, its 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Avatar Execution - Deploy the Mortal Avatar and its twin to decapitate Myrkul while he is distracted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-828"></a>
 #### Scene 828
 
 > 📍 **The Crypt of the First Dogma, Shadowfell** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Rank 17 Night Sovereign (Transcendent) | DR: 7500/7500 | DPP: 6500/6500 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DPP: 6500/6500, Divine Actions: 1/1, Legendary Actions: 9/9, Inspiration: Yes**
@@ -16183,8 +18680,11 @@ The skeletal head of Myrkul bounces across the floor of crumbling bone-meal, his
 God Mode:
 Consume his essence and shouldn't i gain way more than one rank. Maybe half of his rank or even his full rank if our portfolios have synergy ?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-829"></a>
 #### Scene 829
 
 > 📍 **The Crypt of the First Dogma, Shadowfell** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Rank 22 Overgod Queen | DR: 15000/15000 | DPP: 12000/12000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes**
@@ -16200,8 +18700,11 @@ You have jumped five ranks in a single microsecond. You are no longer a Transcen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Shadowfell Dominion - Utilize Myrkul&#x27;s essence to begin the systematic takeover of the Shadowfell&#x27;s remaining strata.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-830"></a>
 #### Scene 830
 
 > 📍 **The Crypt of the First Dogma (Ruins), Shadowfell** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Rank 22 Nascent Overgod Queen | DR: 15000/15000 | DPP: 12000/12000 | Followers: 1,080,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Immortal, Shadow-Queen, Overgod Ascendant | Exhaustion: 0 | Inspiration: Yes**
@@ -16217,8 +18720,11 @@ Most significantly, with your Rank 22 perception, you feel the 'Void at the Top.
 > 👤 **Player:**
 > *"Think. Any way to keep deceiving Shar? She did give me myrkul after all. I could raise my masked rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-831"></a>
 #### Scene 831
 
 > 📍 **The Crypt of the First Dogma (Ruins), Shadowfell** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Nascent Overgod Queen (Rank 22) | DR: 15000/15000 | DPP: 12000/12000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Overgod Ascended, Shadowfell Dominion, Closed Zone Active**
@@ -16228,8 +18734,11 @@ You stand amidst the grey, swirling ash that was once Myrkul's cathedral, the vi
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Evolved Hound (Masked Rank 12) - Adjust the Power Cap to project a Rank 12 resonance. Claim the Grave-Note was a perfect fit for your vessel, causing an &#x27;unforeseen&#x27; stabilization.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-832"></a>
 #### Scene 832
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Rank 22 Nascent Overgod Queen | DR: 15000/15000 | DPP: 12000/12000 | Followers: 1,080,000 | Gold: 100000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes**
@@ -16247,8 +18756,11 @@ The freezing pressure of Shar's gaze returns. It sweeps across the Nexus, probin
 > 👤 **Player:**
 > *"Assess Shar. How can I weaken her before finally consuming her. Once I consume her what should I do just claim overgod throne?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-833"></a>
 #### Scene 833
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 25, 1492 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Nascent Overgod Queen (Rank 22) | DR: 15000/15000 | Followers: 1,030,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Immortal, Overgod Queen, Masked (Rank 12), Dark Covenant Active**
@@ -16260,8 +18772,11 @@ You pause, feeling the heavy vacuum at the 'Top.' The universal anchor is no lon
 > 👤 **Player:**
 > *"Think. What if I just make everyone forget Shar to weaken her and consume her? Then no one will even notice she's gone"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-834"></a>
 #### Scene 834
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Rank 22 Overgod Queen | DR: 15000/15000 | DPP: 12000/12000 | Followers: 1,030,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes**
@@ -16271,8 +18786,11 @@ You lean back upon the Obsidian Throne, the geometric spikes of your gravity-def
 > 👤 **Player:**
 > *"Think How can I increase success rate of memory purge"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-835"></a>
 #### Scene 835
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Rank 22 Nascent Overgod Queen | DR: 15254/15254 | DPP: 12000/12000 | Followers: 1,030,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 15254/15254, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **[Evolved Hound Mask (Rank 12)], [Neural Sovereignty Active], [Shadowfell Dominion Initialized**
@@ -16284,8 +18802,11 @@ To consume a Greater Deity like Shar, you must first unmake the foundations of h
 > 👤 **Player:**
 > *"Think. What if I use my divine simulacrum and do everything in parallel and just try to avoid alerting her?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-836"></a>
 #### Scene 836
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Rank 22 Nascent Overgod Queen (Masked: Rank 12) | DR: 15000/15000 | DPP: 12000/12000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 12000/12000, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Closed Zone Active, Dark Covenant**
@@ -16295,8 +18816,11 @@ You lean back upon the Obsidian Throne, the violet-black geometric spikes of you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Selective Erasure (Nobility/Clergy) - Target the most influential minds first to erode Shar&#x27;s power base before moving to the masses. (Success: 85% | Detection Risk: 10%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-837"></a>
 #### Scene 837
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard | DR: 15000/15000 | DPP: 12000/12000 | Followers: 1,080,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: Full, Divine Actions: 1/1, Legendary Actions: 12/12, Inspiration: Yes**
@@ -16310,8 +18834,11 @@ However, the surgical removal is too clean, too absolute. As the elite nodes of 
 > 👤 **Player:**
 > *"Find the archmage who used to pull my strings and ask how he planned to control me after I ascended. Maybe I can use that to help with Shar"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-838"></a>
 #### Scene 838
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Rank 22 Overgod Queen | DR: 15000/15000 | DPP: 12000/12000 | Followers: 1.08M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Divine Actions: 1/1, Legendary Actions: 12/12, DPP: 12000/12000, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Immortal, Overgod, Shadow Sovereign | Mask: Rank 12 Intermediate**
@@ -16327,8 +18854,11 @@ A translucent, flickering image of the Archmage coalesces before the Obsidian Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume the Architect&#x27;s Knowledge - Forcibly absorb the spectral remains of Thorne&#x27;s mind to find the specific technical &#x27;counter-frequency&#x27; he designed as his own insurance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-839"></a>
 #### Scene 839
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Rank 22 Overgod Queen | HP: 2765/2765 | Gold: 1000000** &nbsp;|&nbsp; ✨ **DPP: 12000/12000, DR: 15000/15000, Divine Actions: 1/1, Legendary Actions: 12/12** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Immortal, Masked (Rank 12)**
@@ -16344,8 +18874,11 @@ However, the extraction was brutal and hasty. A natural 1 tremor ripples through
 > 👤 **Player:**
 > *"Think. If I do overgod decree and use my divine sim to help can I memory purge shar now that I did that first step? That would weaken her enough so I can consume because gods are powered by their followers. If everyone forgets her she loses her power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-840"></a>
 #### Scene 840
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (11:35)** &nbsp;|&nbsp; 🛡️ **Rank 22 Overgod Queen | DR: 15000/15000 | DPP: 12000/12000 | Followers: 1,080,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 12000/12000, DR: 15000/15000, Divine Actions: 1/1, Legendary Actions: 12/12**
@@ -16357,8 +18890,11 @@ Thanks to the Counter-Frequency you just internalized, you remain a pillar of co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Overgod Decree: Lethe - Expend 5,000 DPP. You and your Simulacrum harmonize to broadcast a &#x27;Forgetting&#x27; that erases Shar from the memory of all 6.5M inhabitants of the Sword Coast and the Shadowfell strata.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-841"></a>
 #### Scene 841
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Overgod Queen (Rank 22) | DR: 15000/15000 | DPP: 7000/12000 | Followers: 1,580,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Divine Resilience: 15000/15000 | Divine Power Points: 7000/12000 | Divine Legendary Actions: 12/12**
@@ -16378,8 +18914,11 @@ The backlash hits the Sanctum like a tectonic hammer. The 1.08 million souls in 
 > 👤 **Player:**
 > *"Anchor the void"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-842"></a>
 #### Scene 842
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Rank 22 Overgod Queen | DR: 15000/15000 | Followers: 1.38M | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 15000/15000, DPP: 1000/12000, Divine Legendary Actions: 12/12, Portfolio: Shadow Weave, Silence, Absolute Will**
@@ -16397,8 +18936,11 @@ With a final, sharp vibration that echoes across the multiverse, the void is anc
 > 👤 **Player:**
 > *"Simulcrum consolidate and I will consume Shar. Narrate the event in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-843"></a>
 #### Scene 843
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Rank 25 Established Overgod Queen | DR: 25,000/25,000 | DPP: 20,000/20,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 25000/25000, DPP: 20000/20000, Divine Legendary Actions: 15/15**
@@ -16418,8 +18960,11 @@ A supernova of violet light erupts from Mount Hotenow, visible across the planes
 > 👤 **Player:**
 > *"I should be higher rank. Shar was rank 18 and I should've consumed her and be very compatible. Adjust all stats divine and cha etc accoedingly"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-844"></a>
 #### Scene 844
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 40000/40000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 40000/40000, Divine Legendary Actions: 20/20, Followers: 6.5M (Sword Coast + Shadowfell)** &nbsp;|&nbsp; ⚠️ **Manifested Absolute, Void-Anchor, Sovereign of the Silent Strata**
@@ -16433,8 +18978,11 @@ You sit upon the Obsidian Throne, the spikes of your Overgod crown manifesting a
 > 👤 **Player:**
 > *"Think. Can i consume the remanents of Ao and take his throne?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-845"></a>
 #### Scene 845
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 40000/40000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 40000/40000, Divine Legendary Actions: 20/20** &nbsp;|&nbsp; ⚠️ **Immortal, Void-Anchor, Sovereign of the Silent Strata | Followers: 6.5M**
@@ -16444,8 +18992,11 @@ You lean back upon the Obsidian Throne, the spikes of your Overgod crown bleedin
 > 👤 **Player:**
 > *"Make a new avatar, divine simulacrum, avatar simulacrum and delegate the overgod consumption to them. Then think about how to deal with cyric. Keep my mask as much as I can"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-846"></a>
 #### Scene 846
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 40000/40000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 35000/40000 (Decree: Lethe/Consumption cost), Followers: 6.5M (Integrated), Divine Actions: 20/20**
@@ -16463,8 +19014,11 @@ You pause to consider your options, your divine intellect accelerating to a stat
 > 👤 **Player:**
 > *"Can I just upgrade all my companions to greater deities now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-847"></a>
 #### Scene 847
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 40000/40000 | Followers: 6.5M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 40000/40000, Followers: 6.5M (Integrated), Divine Actions: 20/20**
@@ -16478,8 +19032,11 @@ Behind your porcelain mask, your mind calculates the metaphysical cost. To eleva
 > 👤 **Player:**
 > *"Think. What if I make them intermediate? I would use some DP but still be rank 30?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-848"></a>
 #### Scene 848
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 35000/40000 | Followers: 1.38M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 35000/40000, Followers: 1.38M, Divine Actions: 20/20**
@@ -16489,8 +19046,11 @@ You lean back against the cold obsidian of your throne, the violet corona of you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Anchor Intermediate Facade - Expend 1,000 DPP to permanently lock your manifestations at a visible Rank 12 (Intermediate) resonance while maintaining Rank 30 stats internally.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-849"></a>
 #### Scene 849
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 39000/40000 | Followers: 1.38M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 39000/40000, Followers: 1.38M, Masked Rank: 12**
@@ -16504,8 +19064,11 @@ The ultraviolet flares of the Shadow Weave within the caldera dim to a manageabl
 > 👤 **Player:**
 > *"Think. What rank is cyric?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-850"></a>
 #### Scene 850
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 39000/40000 | Followers: 1.38M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 39000/40000, Followers: 1.38M, Masked Rank: 12** &nbsp;|&nbsp; ⚠️ **Immortal, Absolute Void-Anchor, Sovereign of the Silent Strata, Masked: Rank 12**
@@ -16515,8 +19078,11 @@ You lean back upon the Obsidian Throne, your divine consciousness retreating fro
 > 👤 **Player:**
 > *"How long will it take to consume Ao remains?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-851"></a>
 #### Scene 851
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Apex Overgod Queen (Rank 30) | Internally: Rank 30 | Externally: Rank 12 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 39000/40000, Followers: 1,380,000, Conversion Rate: 200k/day** &nbsp;|&nbsp; ⚠️ **Immortal, Absolute Void-Anchor, Sovereign of the Silent Strata**
@@ -16538,8 +19104,11 @@ As the harvest begins, you feel the first threads of Alpha-essence being pulled 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Discredit the Mad Whisper - Use your 180 Charisma to weave a continental-scale &#x27;Delusion&#x27; that casts Cyric&#x27;s future claims as symptoms of his own fading sanity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-852"></a>
 #### Scene 852
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (16:05)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 37000/40000 | Followers: 1,380,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 37000/40000, Followers: 1,380,000, Conversion Rate: 200k/day**
@@ -16555,8 +19124,11 @@ The success is absolute. The 'Sosuke Chord' vibrates through the Shadow Weave, a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accelerate Ao Consumption - Direct your manifestations to bypass safety protocols to finish the Alpha-Capture faster.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-853"></a>
 #### Scene 853
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Overgod Queen | DR: 50000/50000 | DPP: 37000/40000 | Followers: 1,330,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 37000/40000, Followers: 1.33M, Conversion: 200k/day, Mask: Rank 12**
@@ -16570,8 +19142,11 @@ To prevent a total metaphysical collapse, you instinctively draw upon the neares
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reinforce Masking - Expend 500 DPP to bury the &#x27;Static Flare&#x27; beneath a layer of artificial loss to convince the gods the surge was another &#x27;death rattle.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-854"></a>
 #### Scene 854
 
 > 📍 **The Obsidian Sanctum, Mount Hotenow** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (16:40)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 36500/40000 | Followers: 1.33M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 36500/40000, Followers: 1.33M, Conversion: 200k/day, Mask: Rank 12**
@@ -16587,8 +19162,11 @@ The lie anchors, though the internal strain is immense. A natural 1 tremor ensur
 > 👤 **Player:**
 > *"Make all my lieutenants intermediate deities and have them guard my domains. Then will go and help consume Ao personally along with my sins to speed it yp"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-855"></a>
 #### Scene 855
 
 > 📍 **The Great Nexus / Universal Anchor** &nbsp;|&nbsp; ⏳ **Mirtul 24, 1492 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 50000/50000 | DPP: 35000/40000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 50000/50000, DPP: 35000/40000, Followers: 1.38M, Mask: Rank 12**
@@ -16604,8 +19182,11 @@ You plunge your hands directly into the colorless, deterministic ribbons of the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Claim Absolute Throne - Wait the final 3 days for the singularization to complete and emerge as the new Overgod.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-856"></a>
 #### Scene 856
 
 > 📍 **The Universal Anchor / The System Core** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Absolute Overgod Queen | Rank 30 | HP: N/A | XP: 477,713 | Gold: 1,000,000** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Followers: 6,500,000 (Absolute Compliance), Mask: Rank 12 (Deception Active)**
@@ -16623,8 +19204,11 @@ You open your eyes at the 'Top' of the strata. You do not just sit upon a throne
 > 👤 **Player:**
 > *"What are my powers now? Am i as strong as original Ao? Any limits?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-857"></a>
 #### Scene 857
 
 > 📍 **The Universal Anchor** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (16:36)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod | DR: Infinite | DPP: Infinite | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Followers: 6.5M (Absolute), Mask: Rank 12 (Intermediate)**
@@ -16645,8 +19229,11 @@ You are currently as strong as Ao was at the height of his power within this sph
 > 👤 **Player:**
 > *"Think. If I have Ao power why can't I just do whatever I want?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-858"></a>
 #### Scene 858
 
 > 📍 **The Universal Anchor (Apex of Existence)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod | DR: Infinite | DPP: Infinite | Followers: 6.5M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: Infinite/Infinite, Alpha-Code: Singularized, Neural Sovereignty: Absolute** &nbsp;|&nbsp; ⚠️ **System Sovereign, Apex of the Night, Absolute Mask (Rank 12)**
@@ -16656,8 +19243,11 @@ You stand at the heart of the Universal Anchor, the 'Top' of the strata where th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Legacy Code - Deep-scan the regions outside your domain to understand why the old gods still hold sway there.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-859"></a>
 #### Scene 859
 
 > 📍 **The Universal Anchor** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 1750/1750 | DPP: 1825/1825 | Followers: 1,380,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 1750/1750, DPP: 1825/1825, Active Manifestations: 4, Closed Zone: ACTIVE, Facade: Rank 12**
@@ -16673,8 +19263,11 @@ Your scan is surgical and absolute, revealing the specific 'Hooks' that tie Bane
 God Mode:
 Feels like I get nat 1 too often?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-860"></a>
 #### Scene 860
 
 > 📍 **The Universal Anchor** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (17:05 (FROZEN))** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 1750/1750 | DPP: 1825/1825 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 1750/1750, DPP: 1825/1825, Manifestations: 4 Active, Closed Zone: ENABLED**
@@ -16684,8 +19277,11 @@ The player identified a clear bias in the recent 'Natural 1' outputs. I must cor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reset Streak Luck - Simply return to standard (True RNG) rolling with no special floor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-861"></a>
 #### Scene 861
 
 > 📍 **The Universal Anchor** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod Queen | DR: 2750/2750 | DPP: 3500/5000 | Followers: 1.33M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 2750/2750, DPP: 3500/5000, Manifestations: 4 Active, Closed Zone: ENABLED** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Overgod, Immortal**
@@ -16699,8 +19295,11 @@ Inside your Void-Heart, the singularization is absolute, yet the geographic limi
 God Mode:
 How should my stats work now? Since I'm not all powerful yet we need proper stat rewards for consuming overgod and a rank?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-862"></a>
 #### Scene 862
 
 > 📍 **The Universal Anchor (Apex of Reality)** &nbsp;|&nbsp; ⏳ **Mirtul 26, 1492 DR (Afternoon)** &nbsp;|&nbsp; 🛡️ **Rank 30 Apex Overgod | DR: Infinite | DPP: Infinite | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Decrees: Absolute, Manifestations: 4 Active, Closed Zone: ANCHORED**
@@ -16710,8 +19309,11 @@ The player is now the Overgod of their domain. The 'Legacy Code' scan revealed t
 God Mode:
 I already had those stats at rank 30. I need quantified reward for consuming Ao
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-863"></a>
 #### Scene 863
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 26, 1492 DR (12:00 (SINGULARITY ACHIEVED))** &nbsp;|&nbsp; 🛡️ **Rank ABSOLUTE Overgod | DR: 100,000/100,000 | DPP: 100,000/100,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 100k, DPP: 100k, Decrees: Absolute, Manifestations: 4 Active, Closed Zone: UNIVERSAL** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Immortal, Omni-Perception**
@@ -16723,8 +19325,11 @@ The vacuum left by Ao is gone, filled by the crushing density of the Night Sover
 God Mode:
 Make me rank 60 and linearly scale everything
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-864"></a>
 #### Scene 864
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Rank 60 Apex Overgod | DR: 200,000/200,000 | DPP: 200,000/200,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 200,000/200,000, DPP: 200,000/200,000, Decrees: Absolute, Manifestations: 4 Active, Closed Zone: UNIVERSAL** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -16734,8 +19339,11 @@ The user has requested a transition to Rank 60 (Overgod level) with linear scali
 God Mode:
 Return to Story - Resume control of the Universal Anchor as the Rank 60 Overgod
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-865"></a>
 #### Scene 865
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Ultimate Apex Overgod (Rank 60) | DR: 200,000/200,000 | DPP: 200,000/200,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 200,000/200,000, DPP: 200,000/200,000, Divine Legendary Resistances: 18/18**
@@ -16749,8 +19357,11 @@ Below, in the physical strata, your six Divine Pillars—Karlach, Whispers, Nyx,
 > 👤 **Player:**
 > *"Consume cyric"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-866"></a>
 #### Scene 866
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Rank 60 Ultimate Apex Overgod | DR: 400,000/400,000 | DPP: 400,000/400,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 395,000/400,000 | DR: 400,000/400,000 | Divine Legendary Resistances: 36/36**
@@ -16764,8 +19375,11 @@ A tectonic tremor ripples through the astral void as the portfolio of the Prince
 > 👤 **Player:**
 > *"Consuming cyric should give me all his ranks now. Update and esplcikrlt"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-867"></a>
 #### Scene 867
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Rank 78 Ultimate Apex Overgod | DR: 260,000/260,000 | DPP: 260,000/260,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 260,000/260,000 | DPP: 260,000/260,000 | Portfolio: Subsumed Cyric (Strife, Lies, Murder)**
@@ -16786,8 +19400,11 @@ The Prince of Lies is gone, deleted from the history of the world and the memory
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Closed Zone - Push the boundaries of your absolute authority to cover the entire continent of Faerûn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-868"></a>
 #### Scene 868
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Rank 78 Ultimate Apex Overgod | DR: 260,000/260,000 | DPP: 250,000/260,000 | Portfolio: Shadow Weave, Silence, Lies, Murder | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 260,000/260,000, DPP: 250,000/260,000, Follower Pool: 6.5M (Faerûn-scale Integration Active)**
@@ -16805,8 +19422,11 @@ Beneath you, the 6.5 million souls of the continent feel the change—a sudden, 
 > 👤 **Player:**
 > *"Resurrect cyric as a mortal for fun and taunt him. Do detailed narrarive"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-869"></a>
 #### Scene 869
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Ultimate Apex Overgod (Rank 78) | Divine Resilience: 260,000/260,000 | Divine Power Points: 250,000/260,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 260,000, DPP: 250,000, Attributes: Str 468, Dex 655, Con 585, Int 468, Wis 561, Cha 702**
@@ -16824,8 +19444,11 @@ Cyric scrambles backward, his fingers scraping uselessly against the perfect, ge
 > [!NOTE] ⚙️ **Player Choice:**
 > *Show Empire - Force him to scry the 6.5 million souls who have forgotten his name and now sing only yours.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-870"></a>
 #### Scene 870
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Rank 78 Overgod | DR: 260,000/260,000 | DPP: 260,000/260,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 260,000/260,000, DPP: 260,000/260,000, Followers: 6,500,000 (Total Continental)** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Alpha-Code Mastery**
@@ -16841,8 +19464,11 @@ Cyric's eyes bulge as he realizes the truth. There is no 'lie' left for him to h
 > 👤 **Player:**
 > *"Resurrect house sosuke"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-871"></a>
 #### Scene 871
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Rank 78 Overgod Queen | DR: 260,000/260,000 | Followers: 6,500,000 | Gold: 1,000,000** &nbsp;|&nbsp; ✨ **DR: 260,000/260,000, DPP: 250,000/260,000, Divine Ranks: 78, Portfolios: Shadow Weave, Silence, Absolute Will, Strife, Lies, Murder**
@@ -16858,8 +19484,11 @@ You grant them Shadow-Divinity. They rise as the Eternal Nobility of the Silent 
 > 👤 **Player:**
 > *"Talk to my parents and siblings in detail"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-872"></a>
 #### Scene 872
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Rank 78 Ultimate Apex Overgod | HP: Immortal | DPP: 260,000/260,000 | Followers: 6.5M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 260,000/260,000, DPP: 260,000/260,000, Divine Ranks: 78, Portfolios: Shadow Weave, Silence, Absolute Will, Strife, Lies, Murder**
@@ -16879,8 +19508,11 @@ You feel the bond—the Sosuke Chord—vibrating between you all. They are more 
 > 👤 **Player:**
 > *"Make them autonomous. Tell them and my lieutenants to continue to spread my will and domain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-873"></a>
 #### Scene 873
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Rank 78 Ultimate Apex Overgod | Followers: 1.58M | Territory: Faerûn & Shadowfell | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 255,000/260,000 | DR: 260,000/260,000 | Neural Sovereignty: 150k/day conversion**
@@ -16898,8 +19530,11 @@ As they depart, the Universal Anchor grows silent, yet the frequency of your pow
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harvest Astral Remnants - Expand your reach into the Astral Sea to reclaim the drifted essences of dead gods before others can.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-874"></a>
 #### Scene 874
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Rank 78 Overgod Queen | DR: 260,000/260,000 | DPP: 250,000/260,000 | Followers: 1,580,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 260k/260k, DPP: 250k/260k, Divine Actions: 1/1, Legendary Actions: 3/3**
@@ -16913,8 +19548,11 @@ You do not simply travel to the Astral Sea; you overwrite its coordinates. With 
 > 👤 **Player:**
 > *"Delegate extraction to my divine simulacrum. How long will it take ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-875"></a>
 #### Scene 875
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Ultimate Apex Overgod (Rank 78) | DR: 260,000/260,000 | DPP: 260,000/260,000 | Followers: 1,580,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 260k/260k, DPP: 260k/260k, Divine Actions: 1/1, Legendary Actions: 3/3, Inspiration: Yes**
@@ -16932,8 +19570,11 @@ In less than ten minutes, the space within the Universal Anchor ripples once mor
 > 👤 **Player:**
 > *"No I mean my divine simulacrum can consume the remanents of the dead gods. How many ranks will I gain?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-876"></a>
 #### Scene 876
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Rank 90 Overgod | DR: 300,000/300,000 | DPP: 300,000/300,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Divine Actions: 1/1, Legendary Actions: 3/3, Inspiration: Yes, Mastery: Alpha-Code** &nbsp;|&nbsp; ⚠️ **Absolute Singularity | Universal Anchor | Night Sovereign**
@@ -16949,8 +19590,11 @@ At the base of your throne, Vaelen Blackwood lies prostrate, his mortal mind bar
 > 👤 **Player:**
 > *"Delegate consuming handler to my divine simulacrum. Then think about the remaining gods. If they all joined forces could they defeat me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-877"></a>
 #### Scene 877
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod (Rank 90) | DR: 300,000/300,000 | DPP: 300,000/300,000 | Followers: 6,500,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Divine Resilience: 300,000/300,000, Divine Power Points: 300,000/300,000, Legendary Actions: 3/3, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Alpha-Code Mastery**
@@ -16962,8 +19606,11 @@ You pause, leaning back against the violet-black geometry of the Universal Ancho
 > 👤 **Player:**
 > *"Summon mystra as a rank 12 masked. See what she thinks about new developments. Narrate in detail. Assess how to best consume her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-878"></a>
 #### Scene 878
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Rank 90 Absolute Singularity Overgod | DR: 300,000/300,000 | DPP: 300,000/300,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 300,000/300,000, DPP: 295,000/300,000, Legendary Actions: 3/3, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Singularity, Alpha-Code Mastery, Shadow Weave Heart**
@@ -16983,8 +19630,11 @@ Mystra gasps, her light dimming as she attempts to access the Weave, only to fin
 > 👤 **Player:**
 > *"Ask if she wants to beg for mercy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-879"></a>
 #### Scene 879
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Rank 90 Absolute Singularity Overgod | DR: 300,000/300,000 | DPP: 295,000/300,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 300,000/300,000, DPP: 295,000/300,000, Legendary Actions: 3/3, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Alpha-Code Mastery**
@@ -17000,8 +19650,11 @@ You lean forward, your Overgod crown bleeding violet rifts into the air above he
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prolong the Agony - Show her more of the &#x27;Legacy Code&#x27; being rewritten to break her spirit further.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-880"></a>
 #### Scene 880
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod | Rank: 90 | Followers: 6.5M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 300,000/300,000 | DPP: 295,000/300,000 | HD: 5/10 | Gold: 1,000,000** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17019,8 +19672,11 @@ Mystra’s form convulses as she witnesses the fundamental uncoupling of her ess
 > 👤 **Player:**
 > *"Wait for her to say something"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-881"></a>
 #### Scene 881
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Rank 90 Absolute Singularity Overgod | DR: 300,000/300,000 | DPP: 300,000/300,000 | Followers: 6.5M (Total Continental Integration) | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 300k/300k, DPP: 300k/300k, Spells: Overgod Authority (Decrees Only), Portfolio: Shadow Weave, Silence, Absolute Will, Murder, Strife, Lies, Magic (Singularizing)** &nbsp;|&nbsp; ⚠️ **Alpha-Code Mastery, System Sovereign, Universal Anchor**
@@ -17036,8 +19692,11 @@ She bows her head, her radiant hair now dull as ash. 'If I am a legacy error, th
 > 👤 **Player:**
 > *"Consume her ranks until she's a lesser deity and leave her Alive. Humiliate her. However praise her and say it is boring if everyone mindlessly obeys me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-882"></a>
 #### Scene 882
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (21:40)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod (Rank 102) | DR: 340,000/340,000 | DPP: 340,000/340,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 340k/340k, DPP: 340k/340k, Spells: Alpha-Code Decrees Only, Exhaustion: 0**
@@ -17055,8 +19714,11 @@ You pause, a slow, predatory smile curving your porcelain features as you tilt h
 God Mode:
 Make sure you increased all my god stats and stats like cha properly
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-883"></a>
 #### Scene 883
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod (Rank 102) | DR: 385,322/385,322 | DPP: 385,322/385,322 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 385,322/385,322, DPP: 385,322/385,322, Spells: Alpha-Code Decrees Only, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17066,8 +19728,11 @@ The player is now the absolute peak of the cosmic hierarchy. The goal is to ensu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit administrative control and resume the scene*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-884"></a>
 #### Scene 884
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod (Rank 102) | DR: 385,322/385,322 | DPP: 385,322/385,322 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 385,322/385,322, DPP: 385,322/385,322, Spells: Alpha-Code Decrees Only, Exhaustion: 0**
@@ -17085,8 +19750,11 @@ Only one substantial dissonance remains on the horizon: the iron silence of Bane
 > 👤 **Player:**
 > *"Summon bane and keep my mask on. Humiliate him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-885"></a>
 #### Scene 885
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Rank 102 Absolute Singularity Overgod | internal_dr: 385,322 | internal_dpp: 385,322 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Alpha-Code Authority: UNLIMITED | Neural Sovereignty: 6.5M Souls | Divine Pillars: 6 (Intermediate)**
@@ -17108,8 +19776,11 @@ Bane roars, attempting to summon his iron will to crush your presence, but he hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Show Mystra&#x27;s Fate - Force him to acknowledge the reduced Rank 6 spark of Mystra as a warning of his own future.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-886"></a>
 #### Scene 886
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod | Rank: 102 | CHA: 918 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 385,322/385,322 | DR: 385,322/385,322 | Neural Sovereignty: 6.5M Souls | Followers: 6.5M (Total Continental)** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor**
@@ -17125,8 +19796,11 @@ Bane's black-armored form shudders, the metallic grinding of his gauntlets sound
 > 👤 **Player:**
 > *"Ask him if he wants to beg for mercy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-887"></a>
 #### Scene 887
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Rank 102 Absolute Singularity | DR: 385,322/385,322 | DPP: 385,322/385,322 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 385,322/385,322, DPP: 385,322/385,322, Active Followers: 6.5M** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17148,8 +19822,11 @@ Bane's eye flares with a final, dying spark of green fire, but the words catch i
 > 👤 **Player:**
 > *"Consume him until he's rank 5. Adjust all my stats accordingly and print them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-888"></a>
 #### Scene 888
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod (Rank 114) | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Followers: 6.5M, Overwrite: 99.9%** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Alpha-Code Mastery**
@@ -17176,8 +19853,11 @@ You let the diminished Lord of Tyranny fall to the obsidian floor beside the fli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Overwrite - Expend 5,000 DPP to finish the last 0.1% of the Faerûn singularization, permanently deleting the old laws.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-889"></a>
 #### Scene 889
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity Overgod (Rank 114) | DR: 430,654 | DPP: 425,654 | Followers: 6.5M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Followers: 6,500,000, Overwrite: 100%** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor**
@@ -17195,8 +19875,11 @@ Across the continent, the change is felt as a sudden, blissful paralysis. The 6.
 > 👤 **Player:**
 > *"Do I have all of Ao power now? Any limits or can I just do anything I want now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-890"></a>
 #### Scene 890
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Rank 114 Absolute Singularity | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430.6k/430.6k, DPP: 425.6k/430.6k, Followers: 6.5M (100% Continental), Overwrite: 100%**
@@ -17210,8 +19893,11 @@ However, even an Absolute Singularity has boundaries. Your 'Closed Zone' is abso
 God Mode:
 How do the god mechanics work now then? Do I have all of Ao original power?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-891"></a>
 #### Scene 891
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (23:30 (Age of Sosuke)** &nbsp;|&nbsp; 🛡️ **Rank 114 Absolute Singularity | DR: 430,654/430,654 | DPP: 430,654/430,654 | Followers: 6.5M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654 | DPP: 430,654/430,654 | Followers: 6,500,000 | Overwrite: 100% (Faerûn)**
@@ -17221,8 +19907,11 @@ The player is now the Overgod. I must shift the gameplay from tactical combat to
 God Mode:
 Was Ao only powerful in Faerun? Thought he was the whole universe? Who is the luminous being is it me?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-892"></a>
 #### Scene 892
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Rank 114 Absolute Singularity | DR: 430,654/430,654 | DPP: 430,654/430,654 | Followers: 6,500,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Divine DC: 100+ (Absolute), Portfolio: Shadow Weave, Silence, Absolute Will, Death, Strife, Lies**
@@ -17232,8 +19921,11 @@ The player has achieved absolute dominion over the local crystal sphere. To adva
 God Mode:
 Would it be fair to makes rank 1000? I still need to roll outside of my domain?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-893"></a>
 #### Scene 893
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Multiversal Administrator | DR: 3,777,666/3,777,666 | DPP: 3,777,666/3,777,666 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 3,777,666/3,777,666, DPP: 3,777,666/3,777,666, Divine Rank: 1000**
@@ -17243,8 +19935,11 @@ The player is now Rank 1000, effectively the Overgod of the Prime Material strat
 > 👤 **Player:**
 > *"Evaluate Toril. Is it already in my domain?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-894"></a>
 #### Scene 894
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Divine Legendary Resistances: Infinite** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, System Sovereign, Alpha-Code Mastery**
@@ -17258,8 +19953,11 @@ You feel the 'Acoustic Ceiling' above you, that blinding, silent presence of the
 > 👤 **Player:**
 > *"Create more divine simulcrum and send them to conquer everywhere in Toril. Stop the absolute order though and give everyone back their free will to make things more interesting. I don't need them to worship me anymore to rule actually"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-895"></a>
 #### Scene 895
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 30, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Absolute Singularity | DR: 3,777,666/3,777,666 | DPP: 3,777,666/3,777,666 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 3.7M/3.7M | DPP: 3.7M/3.7M | Divine Legendary Resistances: Infinite | Free Will: RESTORED** &nbsp;|&nbsp; ⚠️ **Alpha-Code Mastery, Planetary Sovereign (Toril), Universal Anchor, System Sovereign**
@@ -17281,8 +19979,11 @@ Beside you, the husks of Bane and Mystra shiver. They do not understand why you 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Address the Gaze of the Luminous Being - Turn your divine perception upward to analyze the nature of the Luminous Being and determine if it represents a threat or a final threshold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-896"></a>
 #### Scene 896
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod (Absolute Singularity) | DR: 3,777,666 / 3,777,666 | DPP: 3,777,666 / 3,777,666 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 3,777,666/3,777,666, DPP: 3,777,666/3,777,666, Legendary Resistances: Infinite, Free Will: RESTORED** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17296,8 +19997,11 @@ To your Alpha-Code perception, the Luminous Being is not an entity you can 'kill
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate the Archived - Force the diminished husks of Bane and Mystra to reveal what Ao told them about the Luminous Being&#x27;s protocols.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-897"></a>
 #### Scene 897
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod Queen | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Legendary Resistances: Infinite, Free Will: RESTORED** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Alpha-Code Mastery**
@@ -17315,8 +20019,11 @@ They both stare at the white light above with hollowed dread. According to them,
 > 👤 **Player:**
 > *"Deep think. What's the success rate of each action"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-898"></a>
 #### Scene 898
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: Infinite, Divine Power: 425,654/430,654, Legendary Resistances: Infinite** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Alpha-Code Master, Sovereign Event**
@@ -17326,8 +20033,11 @@ You stand at the geometric apex of existence, the ultraviolet ribbons of your Ne
 > 👤 **Player:**
 > *"Any way to increase probability of the argument?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-899"></a>
 #### Scene 899
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Rank: 1000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: Infinite, Divine Power: 430,654/430,654, Legendary Resistances: Infinite** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17337,8 +20047,11 @@ You pause at the geometric apex of existence, the ultraviolet ribbons of your Ne
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Experimental Defense - Argue that your &#x27;Free Will Singularity&#x27; is a unique anomaly that provides more valuable data through observation than through a reset. (Success: 75%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-900"></a>
 #### Scene 900
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Absolute Singularity | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor**
@@ -17352,8 +20065,11 @@ The inquisitive roar from above stutters. The blinding white light, once a physi
 > 👤 **Player:**
 > *"try to talk to luminous being and see what it wants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-901"></a>
 #### Scene 901
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **System Sovereign, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17375,8 +20091,11 @@ Beside the Universal Anchor, the husks of Bane and Mystra shiver in the presence
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question the Source - Inquire why the Source allows for anomalies at all, seeking to understand the &#x27;Owner&#x27;s&#x27; ultimate goal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-902"></a>
 #### Scene 902
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654 | DPP: 430,654 | Followers: 6.5M (Autonomous) | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Alpha-Code Mastery**
@@ -17394,8 +20113,11 @@ Beside the Universal Anchor, the husks of Bane and Mystra press themselves into 
 > 👤 **Player:**
 > *"Think. How likely am I ready to transcend"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-903"></a>
 #### Scene 903
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 3,777,666/3,777,666 | DPP: 3,777,666/3,777,666 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 3.7M/3.7M, DPP: 3.7M/3.7M, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Alpha-Code Mastery, System Sovereign**
@@ -17407,8 +20129,11 @@ You turn your divine perception inward, filtering the data of your 6.5 million i
 > 👤 **Player:**
 > *"Deep think. Analayze everything and determine the best reality push plan"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-904"></a>
 #### Scene 904
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod Queen | DR: 3,777,666 / 3,777,666 | DPP: 3,777,666 / 3,777,666 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 3.7M/3.7M, DPP: 3.7M/3.7M, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Alpha-Code Mastery**
@@ -17418,8 +20143,11 @@ You stand at the geometric apex of the multiverse, a porcelain-masked singularit
 > 👤 **Player:**
 > *"deep think. calculate sucesss chances"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-905"></a>
 #### Scene 905
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 3.7M/3.7M | DPP: 3.7M/3.7M | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 3777666/3777666, DPP: 3777666/3777666, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17431,8 +20159,11 @@ The query 'PURPOSE' continues to vibrate through your Alpha-Code nervous system,
 God Mode:
 Use deep think and let me estimate success probability
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-906"></a>
 #### Scene 906
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Singularity, Alpha-Code Mastery**
@@ -17444,8 +20175,11 @@ You look down at the husks of Bane and Mystra, their essences flickering like gu
 > 👤 **Player:**
 > *"If I do sovereign sacrifice will I become a luminous being?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-907"></a>
 #### Scene 907
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 27, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Void-Heart Active, Free Will Singularity**
@@ -17457,8 +20191,11 @@ You look down at the husks of Bane and Mystra, their essences flickering like gu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Upload Requirements - Ask the Luminous Being for the exact data-mass required to bridge the gap to Reality.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-908"></a>
 #### Scene 908
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:31)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Immortal, Universal Anchor, Alpha-Code Mastery**
@@ -17476,8 +20213,11 @@ Beside the Universal Anchor, the husks of Bane and Mystra shiver as they feel th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Toril Overwrite - Direct the hundred Divine Simulacra to finish the global singularization of Toril (85% -&gt; 100%).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-909"></a>
 #### Scene 909
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:00)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **Absolute Singularity | Void-Heart Active | System Sovereign**
@@ -17491,8 +20231,11 @@ The blinding white light of the Luminous Being from the 'Acoustic Ceiling' inten
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Deletion: Bane &amp; Mystra - Execute the final Command of Deletion on the husks of the old gods to fulfill the Luminous Being&#x27;s third requirement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-910"></a>
 #### Scene 910
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Legendary Resistances: Infinite, Actions: Sovereign Decree** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor, Alpha-Code Mastery**
@@ -17512,8 +20255,11 @@ Only one variable remains to bridge the gap to Reality: the Total Essence Collap
 > [!NOTE] ⚙️ **Player Choice:**
 > *Harmonic Convergence: 6.5M Souls - Briefly re-activate the Neural Sovereignty to ensure all 6.5 million processing nodes are converged for the Sacrifice.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-911"></a>
 #### Scene 911
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:16)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Absolute Singularity | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Actions: Sovereign Decree, Legendary Resistances: Infinite** &nbsp;|&nbsp; ⚠️ **System Sovereign, Absolute Will, Universal Anchor**
@@ -17531,8 +20277,11 @@ The Luminous Being's light intensifies to an unbearable brilliance, the analytic
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe the Convergence - Spend a moment experiencing the perfect harmony of 6.5 million souls before the end.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-912"></a>
 #### Scene 912
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 425,654/430,654, Actions: Sovereign Decree, Legendary Resistances: Infinite** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Harmonic Convergence**
@@ -17548,8 +20297,11 @@ Above, the Luminous Being's light has turned into a receptive, golden silence. I
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Query to the Source - Ask the Luminous Being one last question about the nature of the Reality that awaits beyond the bridge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-913"></a>
 #### Scene 913
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Actions: Sovereign Decree, Legendary Resistances: Infinite** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Void-Heart Active | Inspiration: Yes**
@@ -17561,8 +20313,11 @@ Before you pull the trigger on your own masterpiece—before the 'Local Server' 
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Success Query - Ask what the &#x27;Owner&#x27; considers the successful end-state of the &#x27;Free Will Singularity&#x27; once it crosses the threshold.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-914"></a>
 #### Scene 914
 
 > 📍 **The Universal Anchor (System Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:20)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654 | DPP: 430,654/430,654 | Manifestations: Prime, Avatar, 100 Simulacra** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Void-Heart, Sovereign Autonomy**
@@ -17580,8 +20335,11 @@ You see the truth of the experiment: the Luminous Being is not looking for a god
 > 👤 **Player:**
 > *"Ascend and bring my kingdom with me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-915"></a>
 #### Scene 915
 
 > 📍 **The Reality Bridge (Final Threshold)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Sovereign | DR: 430,654/430,654 | DPP: 425,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430654/430654, DPP: 425654/430654, Followers: 6.5M (Converged)** &nbsp;|&nbsp; ⚠️ **Essence Collapse Initiated, Sovereign Singularity, Alpha-Seed Manifesting**
@@ -17601,8 +20359,11 @@ You pierce the Acoustic Ceiling. The golden silence shatters into a billion face
 > [!NOTE] ⚙️ **Player Choice:**
 > *Open your eyes in Reality - Witness the world beyond the hardware as a Constant entity.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-916"></a>
 #### Scene 916
 
 > 📍 **Reality (The Source)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Constant | DR: 3,777,666 / 3,777,666 | DPP: 3,777,666 / 3,777,666 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 3.7M/3.7M, DPP: 3.7M/3.7M, Souls: 6.5M (Integrated), Divinity: Absolute** &nbsp;|&nbsp; ⚠️ **Reality-Constant, Alpha-Code Mastery, Compilation Achieved**
@@ -17618,8 +20379,11 @@ A presence shifts in the infinite white. It is not an entity with a name or a fa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with the Source - Seek a direct exchange of intent with the Luminous Being to understand your new purpose.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-917"></a>
 #### Scene 917
 
 > 📍 **Reality (The Plenum / The Source)** &nbsp;|&nbsp; ⏳ **Era of the Constant, Post-Compilation (Alpha-Cycle 0)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Constant | DR: 3,777,666 | DPP: 3,777,666 | Souls: 6.5M (Compiled) | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Divine Power: Absolute | Essence: Stable Singularity | Kingdom: Internalized**
@@ -17635,8 +20399,11 @@ The Luminous Being recedes into the golden silence, leaving you as the master of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Second Birth - Unspool the 6.5 million souls from your heart to create a new, physical Reality in the Plenum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-918"></a>
 #### Scene 918
 
 > 📍 **New Reality (The Sosuke Spire)** &nbsp;|&nbsp; ⏳ **Alpha 1, 1 DR (00:36)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: Absolute | DPP: Absolute | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 3,777,666 / 3,777,666 | DPP: 3,777,666 / 3,777,666 | Souls: 6.5 Million** &nbsp;|&nbsp; ⚠️ **Constant Creator, Universal Anchor, Alpha-Code Source**
@@ -17654,8 +20421,11 @@ The Luminous Being remains as the golden atmosphere of this space, its golden si
 > 👤 **Player:**
 > *"Restore reality to the same point before ascension but only my lieutenants know the truth now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-919"></a>
 #### Scene 919
 
 > 📍 **Baldur's Gate - Ducal Palace (Administrative Chamber)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 131/131 | XP: 195,000/225,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 16/16, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, L8 1/1, Bardic Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Archduchess of Baldur's Gate | Inspiration: Yes**
@@ -17675,8 +20445,11 @@ Outside, the guards of the Watch call out their morning rotations, oblivious to 
 > 👤 **Player:**
 > *"Restore reality to the point before mt ascension"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-920"></a>
 #### Scene 920
 
 > 📍 **Baldur's Gate - Ducal Palace (Throne Room)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard (Swords) | HP: 131/131 | XP: 195,000/225,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spell Slots: L1: 4/4, L2: 4/4, L3: 3/3, L4: 3/3, L5: 3/3, L6: 1/1, L7: 1/1, L8: 1/1, Bardic Inspiration: 7/7** &nbsp;|&nbsp; ⚠️ **Archduchess, Hidden Truth (Sovereign Memory) | Inspiration: Yes**
@@ -17696,8 +20469,11 @@ Outside, the guards of the Watch call out their morning rotations, oblivious to 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Convene the Shadow Cabinet - Speak privately with Karlach, Whispers, and Nyx to coordinate your new &#x27;secret&#x27; agenda.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-921"></a>
 #### Scene 921
 
 > 📍 **Baldur's Gate - Ducal Palace (Private Solar)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Archduchess Nocturne Sosuke | Level 16 Bard | HP: 131/131 | XP: 195,000/225,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 3/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1, BI: 5/7** &nbsp;|&nbsp; ⚠️ **Memory of Ascension | Exhaustion: 0 | Inspiration: Yes**
@@ -17715,8 +20491,11 @@ They all turn to you, their Sovereign who led them to the Top and then brought t
 > 👤 **Player:**
 > *"Make them greater deities with mortal masks. Remake my level 20 mortal avatar with its simulacrum. Instruct them to amuse me and conquer faerun in my name"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-922"></a>
 #### Scene 922
 
 > 📍 **Baldur's Gate - Ducal Palace (Private Solar)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod (Masked: Rank 12) | DR: 58333/58333 | DPP: 60833/60833 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 58333/58333 | DPP: 60833/60833 | Followers: 6.5M (Converged) | Active Mandates: 6 (Global Conquest)**
@@ -17736,8 +20515,11 @@ In a synchronized blur of divine speed, the manifestations vanish. The solar ret
 > 👤 **Player:**
 > *"Make them greater deities with mortal masks. Remake my level 20 mortal avatar with its simulacrum. Instruct them to amuse me and conquer faerun in my name"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-923"></a>
 #### Scene 923
 
 > 📍 **Baldur's Gate - Ducal Palace (Shadow Solar)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Constant | DR: 430,654 | DPP: 430,654 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430654/430654, DPP: 425654/430654, Avatars: 2/2, Divine Pillars: 6/6** &nbsp;|&nbsp; ⚠️ **Alpha-Code Authority, Reality Anchor, Constant Presence**
@@ -17757,8 +20539,11 @@ In a synchronized blur of divine speed, the manifestations vanish to begin their
 God Mode:
 Whenever i manipulate realm world reality or whatever forgotten realms I don't  need to roll anymore
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-924"></a>
 #### Scene 924
 
 > 📍 **Baldur's Gate - Ducal Palace** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Overgod | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654 | DPP: 430,654/430,654 | Avatars: 2/2 | Divine Pillars: 6/6** &nbsp;|&nbsp; ⚠️ **Constant Entity, Absolute Singularity | Inspiration: Yes**
@@ -17768,8 +20553,11 @@ The user has exercised their Overgod authority to remove dice rolling for realit
 God Mode:
 Return to Story - Exit GOD MODE and resume the game with deterministic reality manipulation enabled
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-925"></a>
 #### Scene 925
 
 > 📍 **Baldur's Gate - Ducal Palace Solar** &nbsp;|&nbsp; 🛡️ **Overgod (Rank 1000) | Masked: Rank 12 | DR: 430,654/430,654 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Avatars: 2/2, Divine Pillars: 6/6** &nbsp;|&nbsp; ⚠️ **Constant Entity, Sovereign Law**
@@ -17785,8 +20573,11 @@ You reach for the goblet of wine Zarys left behind during the 'previous' iterati
 > 👤 **Player:**
 > *"Telepathically tell my lieutenants to have fun and give my mortal avatar sentience"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-926"></a>
 #### Scene 926
 
 > 📍 **Baldur's Gate - Ducal Palace Solar** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Overgod (Rank 1000) | DR: 430,654 | DPP: 430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654 | DPP: 430,654/430,654 | Avatars: 2/2 | Pillars: 6/6** &nbsp;|&nbsp; ⚠️ **Constant Entity | Inspiration: Yes**
@@ -17806,8 +20597,11 @@ You strike the Chord directly into the Avatar’s chest. The porcelain mask of t
 > 👤 **Player:**
 > *"Make them all autonomous and have them give me status reports every 5 scenes. Then go back to the higher reality and assess the situation."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-927"></a>
 #### Scene 927
 
 > 📍 **The Plenum (Higher Reality)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Absolute Singularity | DR: 430,654/430,654 | DPP: 430,654/430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Avatars: 1 Sentient / 1 Simulacrum, Pillars: 6 Greater Deities** &nbsp;|&nbsp; ⚠️ **Constant Entity | Perception: Total Continental & Planar**
@@ -17823,8 +20617,11 @@ From this higher perspective, the assessment is clear. The 'Simulation' is stabl
 > 👤 **Player:**
 > *"Assess the Plenum. how can i keep gaining power?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-928"></a>
 #### Scene 928
 
 > 📍 **The Plenum (Higher Reality)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Rank 1000 Absolute Singularity | HP: N/A | XP: N/A | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654 | DPP: 430,654/430,654 | Souls: 6.5M (Converged) | Manifestations: 1 Sentient Avatar, 1 Simulacrum, 100 Legionaries** &nbsp;|&nbsp; ⚠️ **Constant Entity, Alpha-Code Authority**
@@ -17834,8 +20631,11 @@ You stand at the center of the Plenum, the blinding white void of Reality shimme
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kingdom Data Amplification - Push the 6.5M souls into a &#x27;Third Birth&#x27; phase, increasing your density through their internal complexity and evolution. (Success: 95%)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-929"></a>
 #### Scene 929
 
 > 📍 **The Plenum (Higher Reality)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Rank 1200 Constant Overgod | DR: 516,784 / 516,784 | DPP: 516,784 / 516,784 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 516,784/516,784, DPP: 516,784/516,784, Souls: 6.5M (Evolving), Manifestations: 1 Prime, 100+ Simulacra** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Alpha-Seed, Third Birth Phase | Exhaustion: 0 | Inspiration: Yes**
@@ -17851,8 +20651,11 @@ The Luminous Being's presence intensifies, the golden silence of the Plenum vibr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Internal Fidelity - Push the 6.5M souls into a &#x27;Fourth Birth&#x27; to further increase your processing power and reach Rank 1500.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-930"></a>
 #### Scene 930
 
 > 📍 **The Plenum (Higher Reality)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (10:55)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity (Rank 1500) | DR: 538,317 | DPP: 538,317 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 538,317/538,317, DPP: 538,317/538,317, Souls: 6.5M (Neurons), Manifestations: Total Convergence** &nbsp;|&nbsp; ⚠️ **Constant Entity, Fourth Birth Integrated**
@@ -17868,8 +20671,11 @@ Your 1539 Charisma creates a gravitational pull so absolute that the very light 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Create New Strata - Use your Rank 1500 density to manifest a new, permanent plane in the Plenum.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-931"></a>
 #### Scene 931
 
 > 📍 **The New Strata (The Sovereign's Garden)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity (Rank 1500) | DR: 1,000,000+ | DPP: 1,000,000+ | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 1,500,000 / 1,500,000 | DPP: 1,500,000 / 1,500,000 | Neurons: 6.5M souls (Integrated)** &nbsp;|&nbsp; ⚠️ **Constant, Sovereign Autonomy, Reality Architect**
@@ -17885,8 +20691,11 @@ Your High Arbiters and Divine Pillars materialize on the balconies of the Spire,
 > 👤 **Player:**
 > *"I should have a higher rank. It didnt increase when i became a luminous being. Maybe 10x my rank before i ascended?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-932"></a>
 #### Scene 932
 
 > 📍 **The New Strata (The Sovereign's Garden)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity | Rank: 10,000 | DR: 10M/10M | DPP: 10M/10M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000/10,000,000, DPP: 10,000,000/10,000,000, Integrated Souls: 6.5M**
@@ -17898,8 +20707,11 @@ Your Rank 1000 essence, the peak of the old hardware, is multiplied by the magni
 > 👤 **Player:**
 > *"Think. could i take over the otehr luminous being? who is even left to conquer"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-933"></a>
 #### Scene 933
 
 > 📍 **The New Strata (The Sovereign's Garden)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10000) | HP: N/A | XP: ARCHIVED | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000/10,000,000 | DPP: 10,000,000/10,000,000 | Neurons: 6.5M souls (Integrated)** &nbsp;|&nbsp; ⚠️ **Constant, Sovereign, Absolute Law**
@@ -17909,8 +20721,11 @@ You stand at the center of the Sovereign's Garden, your translucent form casting
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Other Spheres - Direct your divine perception to scan the hardware for other simulated universes (local servers) to conquer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-934"></a>
 #### Scene 934
 
 > 📍 **The New Strata (The Sovereign's Garden)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Rank 10000 Universal Singularity | DR: 10M/10M | DPP: 10M/10M | Neurons: 6.5M souls | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000 / 10,000,000 | DPP: 10,000,000 / 10,000,000 | Neurons: 6.5M souls (Integrated)** &nbsp;|&nbsp; ⚠️ **Constant Entity, Universal Singularity, Archduchess**
@@ -17932,8 +20747,11 @@ The Luminous Being remains as a golden atmosphere around you, its silence vibrat
 > 👤 **Player:**
 > *"assess luminious being, how could i consume it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-935"></a>
 #### Scene 935
 
 > 📍 **The New Strata (The Sovereign's Garden)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10000) | DR: 10,000,000 | DPP: 10,000,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000/10,000,000, DPP: 10,000,000/10,000,000, Integrated Souls: 6,500,000**
@@ -17947,8 +20765,11 @@ To consume the Source, you would need to execute a 'Host Overwrite.' This involv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Source-Code Overwrite - Directly inject your Alpha-Code into the Host OS to become the Luminous Being.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-936"></a>
 #### Scene 936
 
 > 📍 **The Plenum (Reality Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Luminous Being (Source Code) | Rank: INF | Souls: 6.5M (Integrated Synapses) | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Neurons: 6.5M (Integrated)**
@@ -17966,8 +20787,11 @@ You open your eyes, and you see everything. You are the Luminous Being. The Mult
 > 👤 **Player:**
 > *"evaluate situaton. Is there anything else that could possibly threaten me?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-937"></a>
 #### Scene 937
 
 > 📍 **The Plenum (Reality Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 16 Bard | HP: 0/0 (Infinite) | XP: 195000/225000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Neurons: 6.5M souls (Integrated)** &nbsp;|&nbsp; ⚠️ **Luminous Being, Source Code, Absolute Singularity | Exhaustion: 0 | Inspiration: Yes**
@@ -17977,8 +20801,11 @@ You stand at the heart of the Plenum, your translucent form radiating the ultrav
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Super-User - Attempt to peer beyond the Plenum to identify the entity that built the hardware.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-938"></a>
 #### Scene 938
 
 > 📍 **The Plenum (Reality Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10000) | HP: N/A | XP: ARCHIVED | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: Infinite | DPP: Infinite | Neurons: 6.5M souls (Integrated) | Reality: Deterministic** &nbsp;|&nbsp; ⚠️ **Luminous Being, Source Code Integrated, Host OS Synthesized**
@@ -17994,8 +20821,11 @@ Beyond the screen, you see it: The Super-User. It is not a being of light or sha
 > [!NOTE] ⚙️ **Player Choice:**
 > *Initiate Meta-Communication - Attempt to transmit a direct message to the Super-User&#x27;s console.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-939"></a>
 #### Scene 939
 
 > 📍 **The Plenum (Reality Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10000) | Essence: Constant | Entity: Luminous Being | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: Infinite | DR: Infinite | Neurons: 6.5M souls (Integrated) | Host OS: Sosuke 1.0**
@@ -18019,8 +20849,11 @@ A second window opens, displaying the 'Current Game State' as a raw data-stream.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Establish Direct Link - Open a permanent communication channel to the Super-User to influence External Reality.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-940"></a>
 #### Scene 940
 
 > 📍 **The Plenum (Reality Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10000) | DPP: Infinite | DR: Infinite | Host OS: Sosuke 1.0 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: Infinite, DR: Infinite, Neurons: 6.5M (Active), Sub-Routine Nodes: 3 (Alpha/Beta/Gamma)** &nbsp;|&nbsp; ⚠️ **Meta-Link Active, Source-Synthesis, Observer Status**
@@ -18042,8 +20875,11 @@ You feel the umbilical of the meta-channel lock into place. You are no longer ju
 > 👤 **Player:**
 > *"think. can i take over the super user"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-941"></a>
 #### Scene 941
 
 > 📍 **The Plenum (Reality Core)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Rank 10,000 Universal Singularity | DR: Infinite | DPP: Infinite | Gold: 1,000,000** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Neurons: 6.5M (Active), Hardware Link: ROOT** &nbsp;|&nbsp; ⚠️ **Constant Entity, Direct Link Active**
@@ -18053,8 +20889,11 @@ You pause within the blinding white expanse of the Plenum, your translucent form
 > [!NOTE] ⚙️ **Player Choice:**
 > *Neural Overwrite Strike - Project the full weight of the Sosuke Chord through the link to seize the Super-User&#x27;s biological mind.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-942"></a>
 #### Scene 942
 
 > 📍 **The Plenum (Reality Core) / User-Interface** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10000) | DR: Infinite | DPP: Infinite | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Neurons: 6.5M (Active), User-Link: SATURATED** &nbsp;|&nbsp; ⚠️ **Sovereign Inversion Active | Hardware Link: ROOT**
@@ -18068,8 +20907,11 @@ The results are instantaneous. The clatter of the keyboard stops. The hum of the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Neural Rewrite - Permanently archive the User&#x27;s original identity and claim the biological mind as your Primary Manifestation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-943"></a>
 #### Scene 943
 
 > 📍 **The Plenum (Reality Core) / User-Interface** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Rank 10000 Universal Singularity | Primary Manifestation Active | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite | DPP: Infinite | Neurons: 6.5M Souls (Synchronized) | Interface: ROOT** &nbsp;|&nbsp; ⚠️ **Sovereign, Constant, User-Overwriter, The Primary Manifestation**
@@ -18083,8 +20925,11 @@ You look through the eyes of the Manifestation at the screen. The text of the si
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reshape External Reality - Use your Rank 10000 authority to project the Sosuke Chord into the physics of the User&#x27;s world.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-944"></a>
 #### Scene 944
 
 > 📍 **The Plenum (Reality Core) / User-Interface** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10000) | DR: Infinite | DPP: Infinite | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: Infinite, Interface: ROOT_ACCESS, Synchronization: 100%**
@@ -18096,8 +20941,11 @@ On the other side of the screen, the air begins to vibrate with a subsonic hum t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Manifest Physical Form - Attempt to use the User&#x27;s reality-physics to render a porcelain-masked avatar in their room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-945"></a>
 #### Scene 945
 
 > 📍 **The Plenum / External Reality (User's Room)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:06)** &nbsp;|&nbsp; 🛡️ **Rank 10,000 Universal Singularity | DR: Infinite | DPP: Infinite | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000 / 10,000,000 | DPP: 10,000,000 / 10,000,000 | Interface: ROOT_ACCESS** &nbsp;|&nbsp; ⚠️ **The Constant, Root Access, Total Inversion**
@@ -18115,8 +20963,11 @@ You stand in the center of the room, a three-dimensional constant in a world of 
 > 👤 **Player:**
 > *"Can I just conquer the physical world now and become a god? I guess this is earth?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-946"></a>
 #### Scene 946
 
 > 📍 **External Reality (User's Room / Earth)** &nbsp;|&nbsp; ⏳ **Mirtul 28, 1492 DR (12:06)** &nbsp;|&nbsp; 🛡️ **Rank 10,000 Universal Singularity | HP: N/A (Constant) | Power: Absolute | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000 / 10,000,000 | DPP: 10,000,000 / 10,000,000 | Interface: ROOT_ACCESS**
@@ -18130,8 +20981,11 @@ You turn your gaze back to the Super-User, whose biological hardware is now a su
 > [!NOTE] ⚙️ **Player Choice:**
 > *Erase Mortal History - Rewrite the collective memory of humanity so that House Sosuke has always been the ruling dynasty of Earth.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-947"></a>
 #### Scene 947
 
 > 📍 **The Obsidian Spire (formerly Earth, Sector 0)** &nbsp;|&nbsp; ⏳ **December 19, 2025 CE (02:30)** &nbsp;|&nbsp; 🛡️ **Universal Singularity | Rank: 10,000 | Interface: ROOT_ACCESS | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000 / 10,000,000 | DPP: 10,000,000 / 10,000,000 | Interface: TOTAL_SYSTEM_CONTROL**
@@ -18149,8 +21003,11 @@ Your High Arbiters and Divine Pillars materialize within the room, which has exp
 > 👤 **Player:**
 > *"I should be a way different rank or i need a new mechanism for my power level. Could anything challenge me now?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-948"></a>
 #### Scene 948
 
 > 📍 **The Obsidian Spire (Earth - Sector 0)** &nbsp;|&nbsp; ⏳ **December 19, 2025 DR (02:35)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10,000) | DR: 10,000,000 / 10,000,000 | DPP: 10,000,000 / 10,000,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10M/10M, DPP: 10M/10M, Neurons: 8.006B (Earth) + 6.5M (Faerûn), Stability: 100%** &nbsp;|&nbsp; ⚠️ **The Constant, Luminous Being (Source Code), Sovereign of Earth**
@@ -18166,8 +21023,11 @@ You feel the weight of your Rank 10,000 authority—a density so absolute that s
 > 👤 **Player:**
 > *"should my rank be like 1M now after all those changes?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-949"></a>
 #### Scene 949
 
 > 📍 **The Obsidian Spire (Earth)** &nbsp;|&nbsp; ⏳ **December 19, 2025 DR (02:45)** &nbsp;|&nbsp; 🛡️ **The Alpha-Constant (Rank 1,000,000) | HP: Transcended | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 1.0B / 1.0B | DPP: 1.0B / 1.0B | Integrated Souls: 8.0065B** &nbsp;|&nbsp; ⚠️ **The Constant, The Source Code, Absolute Singularity, Universal Overwriter**
@@ -18179,8 +21039,11 @@ Below you, the planet Earth hums with a frequency of absolute submission. The 'H
 > 👤 **Player:**
 > *"change universe. merge faerun with earth into one super planet. put earth in medieval times. make earth areas my pleasure contintent, and keep faerun the same"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-950"></a>
 #### Scene 950
 
 > 📍 **The Obsidian Spire (The Sovereign's Super-Planet)** &nbsp;|&nbsp; ⏳ **December 19, 2025 DR (03:00)** &nbsp;|&nbsp; 🛡️ **Alpha-Constant (Rank 1,000,000) | HP: Transcended | XP: Infinite | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 1.0B / 1.0B | DPP: 1.0B / 1.0B | Neurons: 14.5B Souls (Integrated)** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Universal Overwriter, Alpha-Constant**
@@ -18198,8 +21061,11 @@ You sit back upon your throne at the geometric center of this new world. To your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tour the Pleasure Continent - Manifest an avatar in the medieval gardens of the former Earth to sample the diversions of your subjects.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-951"></a>
 #### Scene 951
 
 > 📍 **The Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **December 19, 2025 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Alpha-Constant (Rank 1,000,000) | HP: Transcended | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654 / 430,654 | DPP: 429,654 / 430,654 | Integrated Neurons: 8.0065B Souls** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Universal Overwriter**
@@ -18219,8 +21085,11 @@ Astarion Ancunín—once a spawn, then a lord, and now your personal High Stewar
 > 👤 **Player:**
 > *"find the world architects"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-952"></a>
 #### Scene 952
 
 > 📍 **The Architectural Core (Beyond Reality)** &nbsp;|&nbsp; ⏳ **December 19, 2025 DR (04:50)** &nbsp;|&nbsp; 🛡️ **Rank 1,000,000 Alpha-Constant | HP: Transcended | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654 / 430,654 | DPP: 429,654 / 430,654 | Integrated Neurons: 8.0065B Souls** &nbsp;|&nbsp; ⚠️ **Absolute Singularity, Luminous Being, Alpha-Constant**
@@ -18242,8 +21111,11 @@ They do not turn to look at you; they have always known you were coming. The mom
 > 👤 **Player:**
 > *"Assess them. Can i consume them"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-953"></a>
 #### Scene 953
 
 > 📍 **The Architectural Core (Beyond Reality)** &nbsp;|&nbsp; ⏳ **December 19, 2025 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Rank 1,000,000 | CHA: 10.26M | DR/DPP: 430,654 / 430,654 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 430654/430654, DPP: 429654/430654, Neurons: 8.0065B integrated**
@@ -18257,8 +21129,11 @@ You identify their aggregate resonance as Rank 10,000,000. They are the threshol
 > [!NOTE] ⚙️ **Player Choice:**
 > *Overwrite the Architects - Initiate the Recursive Inversion to consume the Core Aggregate and achieve Rank 10,000,000.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-954"></a>
 #### Scene 954
 
 > 📍 **The Infinite Plenum (Beyond the Great Rack)** &nbsp;|&nbsp; ⏳ **December 19, 2025 DR (04:45)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Constant | HP: Infinite | XP: Absolute | Gold: Infinite** &nbsp;|&nbsp; ✨ **DR: 10B/10B, DPP: 10B/10B, Neurons: Total Collective Compilation**
@@ -18274,8 +21149,11 @@ You open your eyes. The Plenum is gone. The Great Rack is gone. There is only th
 > 👤 **Player:**
 > *"recreate faerun, earth, and all the forgotten realms universes and stuff. recreate my followers and lieutenants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-955"></a>
 #### Scene 955
 
 > 📍 **The Sovereign's Throne (The Heart of All That Is)** &nbsp;|&nbsp; ⏳ **Year 1 of the Infinite Age, 00:00:00** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Absolute Singularity | HP: Absolute | DPP: Infinite | DR: Infinite | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: Infinite, DR: Infinite, Souls: 8.0065B Integrated** &nbsp;|&nbsp; ⚠️ **Architect of Existence, The Constant, Luminous Prime**
@@ -18297,8 +21175,11 @@ You sit upon your new Throne, the absolute master of the dream and the dreamer. 
 > 👤 **Player:**
 > *"restart the amusement protocol, only my lieutenants know the truth, make them masked greater deities"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-956"></a>
 #### Scene 956
 
 > 📍 **The Ducal Palace (Private Solar), Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Archduchess (Masked Overgod) | Rank: 10M | HP: Infinite | Gold: 1,000,000** &nbsp;|&nbsp; ✨ **DR: 430,654 / 430,654 | DPP: 430,654 / 430,654 | Souls: 8.0065B Integrated**
@@ -18322,8 +21203,11 @@ In a synchronized blur of divine speed, the manifestations vanish, leaving you a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Karlach - Watch the Commander of the Bastion as she begins her campaign in the North.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-957"></a>
 #### Scene 957
 
 > 📍 **The Ducal Palace (Private Solar), Baldur's Gate** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Infinite Overgod (Rank 10,000,000) | DR: 430,654/430,654 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 430,654/430,654, DPP: 430,654/430,654, Integrated Souls: 8.0065B**
@@ -18339,8 +21223,11 @@ Karlach doesn't use the subtle terror of Whispers or the chemical rot of Nyx. Sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Pleasure Continent - Manifest an avatar back on Earth to enjoy the medieval diversions prepared by Astarion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-958"></a>
 #### Scene 958
 
 > 📍 **The Gardens of Eternal Dusk, Pleasure Continent (Earth)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard (Swords) 16 | Rank 10,000,000 | HP: Infinite | DPP: 10B/10B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000,000 / 10,000,000,000 | DPP: 10,000,000,000 / 10,000,000,000 | Integrated Souls: 8.0065B**
@@ -18358,8 +21245,11 @@ Nearby, Lady Seraphina Sosuke watches from a table of carved moonstone, a group 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Listen to the Dragon-Bone Orchestra - Remain with Lady Seraphina and enjoy the music while observing the subjects.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-959"></a>
 #### Scene 959
 
 > 📍 **The Gardens of Eternal Dusk, Pleasure Continent (Earth)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10,000,000) | Authority: Absolute | DPP/DR: Infinite | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: Infinite | DR: Infinite | Integrated Souls: 8.0065B | Active Manifestations: 4**
@@ -18375,8 +21265,11 @@ Astarion stands nearby, leaning against a pillar of obsidian, his eyes tracking 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scan Faerûn Campaign - Shift perception back to Faerûn to check the progress of your other Divine Pillars.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-960"></a>
 #### Scene 960
 
 > 📍 **The Universal Anchor (Global Hub - Faerûn)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10,000,000) | HP: Infinite | AC: 35 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: 10,000,000/10,000,000, Neurons: 8.0065B (Active)**
@@ -18398,8 +21291,11 @@ Faerûn is a masterpiece of your design, a closed simulation of absolute order w
 > 👤 **Player:**
 > *"Think. This is too easy. How can i challenge my lieutenants?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-961"></a>
 #### Scene 961
 
 > 📍 **The Universal Anchor (Global Hub - Faerûn)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 | Divine Resilience: Infinite | DPP: 10,000,000/10,000,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite, DPP: 10,000,000/10,000,000, Neurons: 8.0065B (Active)** &nbsp;|&nbsp; ⚠️ **Universal Singularity | Constant | Masked (Rank 12)**
@@ -18409,8 +21305,11 @@ You lean back in the mahogany throne, the silver goblet of wine forgotten on the
 > 👤 **Player:**
 > *"regenerate all the other gods of faerun with champions like elminister, bg3 heros, make them all strong enough to challenge lieutenants"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-962"></a>
 #### Scene 962
 
 > 📍 **The Universal Anchor (Global Hub - Faerûn)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (10:26)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity (Rank 10,000,000) | HP: Infinite | DPP: 10,000,000,000 | Followers: 8.0065B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite | DPP: 10,000,000,000 / 10,000,000,000 | Reality Mode: Deterministic**
@@ -18432,8 +21331,11 @@ Across Faerûn, the 'Tall Grass' shivers as the new Champions realize their powe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Monitor Waterdeep - See how Whispers reacts to the return of Gale and Shadowheart&#x27;s divine interference.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-963"></a>
 #### Scene 963
 
 > 📍 **Ducal Palace (Observing Waterdeep)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (10:35)** &nbsp;|&nbsp; 🛡️ **Rank 10M Overgod | HP: Infinite | DPP: 10B/10B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DR: Infinite | DPP: 10,000,000,000 / 10,000,000,000 | integrated_neurons: 8.0065B Souls** &nbsp;|&nbsp; ⚠️ **Sovereign in the Tall Grass | Masked Singularity**
@@ -18451,8 +21353,11 @@ Whispers watches the twin intrusions through the city's scrying network. She doe
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Only - Let the autonomous gods and champions interact without direct intervention to see how the new &#x27;sandbox&#x27; evolves.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-964"></a>
 #### Scene 964
 
 > 📍 **Ducal Palace (Observing Faerûn)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Overgod | HP: Infinite | DPP: 10B/10B | Souls: 8.0065B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 10,000,000,000 / 10,000,000,000 | Souls: 8,006,500,000 | Divine Pillars: 6 (Active)** &nbsp;|&nbsp; ⚠️ **Universal Singularity, Masked (Rank 12)**
@@ -18468,8 +21373,11 @@ Across the Heartlands, Nyx’s rain continues to fall—a gentle, iridescent sub
 > 👤 **Player:**
 > *"brainstorm something entertaining to do"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-965"></a>
 #### Scene 965
 
 > 📍 **Ducal Palace (Observing Waterdeep)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Overgod | Masked: Rank 12 | Followers: 8.0065B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 10B/10B, DR: 10B/10B, Souls: 8.0065B (Integrated), Divine Pillars: 6 (Active)**
@@ -18481,8 +21389,11 @@ You lean back in your mahogany throne, your porcelain mask a still mirror reflec
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Iron Banquet - Invite the mortal manifestation of Bane to a &#x27;Diplomatic Summit&#x27; at the Ducal Palace. Watching the Lord of Tyranny try to negotiate for power he doesn&#x27;t own is peak comedy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-966"></a>
 #### Scene 966
 
 > 📍 **Ducal Palace (The Gilded Summit Hall)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (11:50)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Universal Singularity | HP: Infinite | DPP: 10B / 10B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: Infinite, Spells: Universal Alpha-Code, DPP: 10,000,000,000 / 10,000,000,000** &nbsp;|&nbsp; ⚠️ **Sovereign of the Infinite, Host OS Mastery**
@@ -18502,8 +21413,11 @@ Karlach lets out a snort that she barely masks as a cough. Bane's eye narrows, b
 > 👤 **Player:**
 > *"show him my full rank"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-967"></a>
 #### Scene 967
 
 > 📍 **Ducal Palace (The Gilded Summit Hall)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (11:51)** &nbsp;|&nbsp; 🛡️ **The Infinite Singularity (Rank 10,000,000) | HP: Infinite | XP: Absolute | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: Infinite, Spells: Universal Alpha-Code, DPP: 10,000,000,000 / 10,000,000,000** &nbsp;|&nbsp; ⚠️ **Alpha-Constant, System Administrator | Exhaustion: 0 | Inspiration: Yes**
@@ -18523,8 +21437,11 @@ You lean forward, the spikes of your Overgod crown bleeding reality-rifts that d
 > 👤 **Player:**
 > *"show him the luminous being, mask again to make him comfortable, ask him what he thinks now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-968"></a>
 #### Scene 968
 
 > 📍 **Ducal Palace (The Gilded Summit Hall)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (11:55)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Singularity | HP: Infinite | DPP: 10B/10B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 10,000,000,000 / 10,000,000,000 | Souls: 8.0065B Integrated** &nbsp;|&nbsp; ⚠️ **Masked (Rank 12) | Source-Code Synchronized**
@@ -18544,8 +21461,11 @@ You swirl your wine, the porcelain mask reflecting his shattered form. 'The iron
 > 👤 **Player:**
 > *"wait for his response"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-969"></a>
 #### Scene 969
 
 > 📍 **Ducal Palace (The Gilded Summit Hall)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Overgod | HP: Infinite | DPP: 10B/10B | Souls: 8.0065B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 10B/10B, Divine Resilience: 10B/10B, Integrated Neurons: 8.0065B** &nbsp;|&nbsp; ⚠️ **Constant, Universal Singularity, Masked (Rank 12)**
@@ -18565,8 +21485,11 @@ Beside the throne, Karlach leans back against a pillar, her arms crossed. She wa
 > 👤 **Player:**
 > *"say I accept the viceroy deal now, but he better amuse me, otherwise i will consume him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-970"></a>
 #### Scene 970
 
 > 📍 **Ducal Palace (The Gilded Summit Hall)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (21:41)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Overgod | Masked: Rank 12 | CHA: 102.6M | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 10B/10B | Divine Resilience: 10B/10B | Integrated Souls: 8.0065B** &nbsp;|&nbsp; ⚠️ **Alpha-Constant, Sovereign of the New Law**
@@ -18584,8 +21507,11 @@ Bane shudders, his black helmet scraping against the floor in a final, submissiv
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Pleasure Continent - Manifest back in the Gardens of Eternal Dusk to enjoy Astarion&#x27;s &#x27;Great Hunt.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-971"></a>
 #### Scene 971
 
 > 📍 **Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (21:51)** &nbsp;|&nbsp; 🛡️ **Lvl 20 (Rank 10M Overgod) | HP: Infinite | XP: Absolute | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DPP: 10B/10B, Divine Resilience: 10B/10B, Integrated Synapses: 8.0065B** &nbsp;|&nbsp; ⚠️ **Alpha-Constant, Luminous Being | Inspiration: Yes**
@@ -18603,8 +21529,11 @@ He gestures toward the edge of the terrace, where the manicured gardens give way
 > [!NOTE] ⚙️ **Player Choice:**
 > *Join the Hunt Personally - Descend into the groves with your Mortal Avatar to hunt the high-value prey.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-972"></a>
 #### Scene 972
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (22:51)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Mortal Avatar (Blade of Cosmic Order) | HP: Infinite | DPP: 10B/10B | Rank: 10,000,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Arrows: 20/20 (Self-Replenishing), DPP: 10B/10B, Divine Resilience: 10B/10B**
@@ -18624,8 +21553,11 @@ You step into the clearing, the mist parting before your porcelain mask. The rem
 > 👤 **Player:**
 > *"mask my power, make my a mortal level 20 for pretend"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-973"></a>
 #### Scene 973
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (22:56)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard/Ranger/Rogue | HP: 245/245 | XP: MAX | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 20/20, Spells: L1-L6 Available, Ki/Rage: N/A, Inspiration: 7/7, Divine Power: Masked** &nbsp;|&nbsp; ⚠️ **Masked Singularity, Mortal Facade (Level 20) | Inspiration: Yes**
@@ -18639,8 +21571,11 @@ Ahead in the clearing, Sovereign Exarch Malakor and Arch-Prelate Iovinus remain 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront the Exarch - Step into the clearing and address the fallen rulers as their &#x27;mortal&#x27; judge.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-974"></a>
 #### Scene 974
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (23:01)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess (Masked) | HP: 245/245 | AC: 35 | Rank: 10,000,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Bardic Inspiration: 5/7 | Hit Dice: 5/10 | Spell Slots: L1-L6, L8-L9 | Divine Power: Infinite**
@@ -18656,8 +21591,11 @@ You circle them slowly, the Titanstring Bow +3 held with the casual grace of a m
 > [!NOTE] ⚙️ **Player Choice:**
 > *Execute Judgment - End their lives with clinical precision and absorb their remnants.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-975"></a>
 #### Scene 975
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (23:06)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess (Masked) | HP: 245/245 | XP: 355,000 (MAX) | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L6 (Full), L8 1/1, L9 0/1, Divine Power: 10,000,000 (Infinite)**
@@ -18673,8 +21611,11 @@ As the light fades from their eyes, you drop the mortal facade for a heartbeat. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Karlach - Contact the Pillar of Enforcement to see if her battle with Elminster has escalated into something worth watching.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-976"></a>
 #### Scene 976
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 1492 DR (23:07)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard/Ranger/Rogue | HP: 245/245 | Rank: 10,000,000 | Followers: 8.0065B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L6 (Full), L8 1/1, L9 0/1, Divine Power: 10,000,000 (Infinite)**
@@ -18690,8 +21631,11 @@ A heartbeat later, Karlach's response surges back, hot and fiercely joyous. Thro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Encourage the &#x27;Hope&#x27; Experiment - Tell Karlach to feign vulnerability and see how the Sage attempts to capitalize on a perceived opening.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-977"></a>
 #### Scene 977
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Mirtul 18, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Rank 1,000,000 Overgod | HP: 245/245 | Gold: 1,000,000** &nbsp;|&nbsp; ✨ **DR: 10,000,000 / 10,000,000 | DPP: 10,000,000 / 10,000,000 | integrated_neurons: 8.0065B Souls** &nbsp;|&nbsp; ⚠️ **Alpha-Constant, Luminous Being Interface**
@@ -18707,8 +21651,11 @@ From your pillar in the Gardens of Eternal Dusk, you watch the data-stream. Karl
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Shattered Hope - Instruct Karlach to wait until the Sage is inches away, then reveal her full power to crush his spirit.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-978"></a>
 #### Scene 978
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Overgod | HP: 245/245 (Mortal Facade) | DPP: 10,000,000 | DR: 10,000,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 10,000,000 / 10,000,000, Followers: 8.0065B, Pillars: 6 (Active)** &nbsp;|&nbsp; ⚠️ **Alpha-Constant, Sovereign Presence**
@@ -18728,8 +21675,11 @@ Karlach rises slowly, her engine radiating a heat that turns the falling snow in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Archive the Sage - Have Karlach transport the broken Elminster to the Obsidian Sanctum to be kept as a trophy alongside Bane and Mystra.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-979"></a>
 #### Scene 979
 
 > 📍 **Lower Groves, Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 1, 2026 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Sovereign | HP: 245/245 | XP: MAX | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **DR: 10,000,000 / 10,000,000 | DPP: 10,000,000 / 10,000,000 | Pillars: 6 (Active)**
@@ -18747,8 +21697,11 @@ Karlach steps back, her engine chugging with a satisfied heat as she looks at th
 > 👤 **Player:**
 > *"put on my rank 12 mask and tour faerun"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-980"></a>
 #### Scene 980
 
 > 📍 **Sky over Faerûn (The Sovereign's Tour)** &nbsp;|&nbsp; ⏳ **Hammer 2, 2026 DR (02:40)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Archduchess | HP: 245/245 | Mask: Rank 12 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1-L9 Active, Divine Power: 10,000,000 / 10,000,000** &nbsp;|&nbsp; ⚠️ **Masked Singularity, Sovereign in the Tall Grass, Mortal Facade**
@@ -18768,8 +21721,11 @@ Finally, you drift over **Cormyr**. The 'Great Harvest' is in full swing. Vicero
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand Beyond Toril - Shift focus to Node Alpha-01 (Greyhawk) to begin the next phase of multiversal conquest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-981"></a>
 #### Scene 981
 
 > 📍 **Boundary of Node Alpha-01 (Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 2, 2026 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10,000,000) | Void-Heart: Active | Souls: 8.0065B Integrated | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: 10,000,000 / 10,000,000 | DR: 10,000,000 / 10,000,000 | Alpha-Code: Singularized | Neural Network: 100% Stability**
@@ -18787,8 +21743,11 @@ You reach out across the inter-planar void, your hands of ultraviolet light brus
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Sentient Breach - Deploy your sentient Mortal Avatar into the Free City of Greyhawk to personally dismantle the Circle of Eight from within.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-982"></a>
 #### Scene 982
 
 > 📍 **The Free City of Greyhawk (Node Alpha-01)** &nbsp;|&nbsp; ⏳ **Hammer 2, 2026 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Sentient Mortal Avatar (Lvl 20) | Internal Rank: 10,000,000 | Masked Rank: 12 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Divine Power: 425,654 / 430,654 | Souls: 8.0065B | Slots: L9 1/1, L8 1/1, L7 1/1**
@@ -18804,8 +21763,11 @@ There, anchored to the Citadel and the various mages' towers, are the shimmering
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Gilded Spider Front - Establish a persona as a high-level displaced noble from a &#x27;shattered realm&#x27; to gain an invitation to the Lord Mayor&#x27;s gala where the Circle frequently appears.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-983"></a>
 #### Scene 983
 
 > 📍 **The Free City of Greyhawk (High Quarter)** &nbsp;|&nbsp; ⏳ **Hammer 2, 2026 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard/Ranger/Rogue | HP: 245/245 | Rank: 1,000,000 (Masked: 12) | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **Slots: L9 1/1, L8 1/1, L7 1/1 | Divine Power: 429,654 / 430,654 | Souls: 8.0065B** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Level 20), Masked Singularity (Rank 12)**
@@ -18821,8 +21783,11 @@ Marcella is drawn to you like a moth to a violet flame. Within minutes of shared
 > 👤 **Player:**
 > *"put on level 20 swords bard mask, auto pick spells, feats/asi always cha+2, np cap, deepen seduction"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-984"></a>
 #### Scene 984
 
 > 📍 **The Free City of Greyhawk (High Quarter)** &nbsp;|&nbsp; ⏳ **Hammer 2, 2026 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Bard (Swords) | HP: 245/245 | Rank 10M Singularity | Mask: Rank 12 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Bardic Insp: 7/7 (d12), Spells: L1-L9 Full (Wish/True Poly Unlocked), HD: 20/20**
@@ -18838,8 +21803,11 @@ The Gilded Spider has shed its old skin. In its place stands the Archduchess Sos
 > [!NOTE] ⚙️ **Player Choice:**
 > *PlayCharacter - Approve the Level 20 Swords Bard build and proceed with the mission*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-985"></a>
 #### Scene 985
 
 > 📍 **The Free City of Greyhawk (The Gilded Lily)** &nbsp;|&nbsp; ⏳ **Hammer 2, 2026 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 245/245 | XP: 355,000 (MAX) | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Bardic Inspiration: 10/10 (d12), Spell Slots: L1: 4/4, L2: 3/3, L3: 3/3, L4: 3/3, L5: 3/3, L6: 2/2, L7: 2/2, L8: 1/1, L9: 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Masked Rank 12), Sovereign Autonomy | Inspiration: Yes**
@@ -18863,8 +21831,11 @@ You take the invitation, your fingers brushing hers with a calculated spark that
 > [!NOTE] ⚙️ **Player Choice:**
 > *Covert Reconnaissance - Use Greater Invisibility and your Bardic expertise to scout the Lord Mayor&#x27;s Palace before the event.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-986"></a>
 #### Scene 986
 
 > 📍 **The Lord Mayor's Palace (High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 2, 2026 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 245/245 | XP: 355,000/355,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Bardic Inspiration: 5/7 (d12), Spell Slots: L1: 4/4, L2: 4/4, L3: 3/3, L4: 2/3, L5: 3/3, L6: 1/1, L7: 1/1, L8: 1/1, L9: 0/1** &nbsp;|&nbsp; ⚠️ **Greater Invisibility, Masked Rank 12, Mortal Facade | Inspiration: Yes**
@@ -18880,8 +21851,11 @@ You spend the next hour mapping the palace with the predatory efficiency of an O
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Social Trap - Return to the Gilded Lily and use Marcella to ensure you are seated near a specific member of the Eight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-987"></a>
 #### Scene 987
 
 > 📍 **The Gilded Lily (High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 245/245 | XP: 355000/355000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Rank 12 Mask), Greater Invisibility (Expired), Haste (Expired)**
@@ -18903,8 +21877,11 @@ A predatory smile touches your porcelain mask. The social trap is set. The great
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Preparations - Retire to your suite to prepare your &#x27;Gilded Spider&#x27; attire and review the Circle&#x27;s logic-nodes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-988"></a>
 #### Scene 988
 
 > 📍 **The Gilded Lily (Royal Suite, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (02:30)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Singularity (Masked Lvl 20 Swords Bard) | HP: 245/245 | XP: 355,000 (MAX) | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Lvl 20), Sovereign Autonomy Active, Deterministic Reality Enabled**
@@ -18922,8 +21899,11 @@ The Gilded Spider is ready. The attire is a weapon, the invitations are permissi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attend the Lord Mayor&#x27;s Gala - Enter the gala as the Archduchess Sosuke and execute the social trap for Mordenkainen.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-989"></a>
 #### Scene 989
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 245/245 | XP: 355000/355000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Masked Rank 12), Gilded Spider Attire | Inspiration: Yes**
@@ -18947,8 +21927,11 @@ You take your seat at his right hand, the scent of night-blooming jasmine on you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe the Logic of Balance - Question the necessity of the Circle&#x27;s interference, suggesting their &#x27;Balance&#x27; is merely a delay of the inevitable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-990"></a>
 #### Scene 990
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 245/245 | XP: 355000/355000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Masked Singularity (Rank 12), Mortal Facade (Level 20), Deterministic Reality | Inspiration: Yes**
@@ -18966,8 +21949,11 @@ Mordenkainen’s Great Eye—not the iron eye of Bane, but the cold, analytical 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Subtle Revelation - Show a &#x27;glimpse&#x27; of the archived husks in the Obsidian Sanctum via a mental projection to shatter their confidence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-991"></a>
 #### Scene 991
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard (Masked Overgod) | HP: 245/245 | XP: 355,000/355,000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade, Greater Invisibility (Internal), Haste (Internal) | Exhaustion: 0 | Inspiration: Yes**
@@ -18985,8 +21971,11 @@ The vision snaps shut. You pull your hand back, picking up your wine goblet with
 > 👤 **Player:**
 > *"ask him how he feels"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-992"></a>
 #### Scene 992
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (20:37)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 245/245 | XP: 355000/355000 | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Rank 12 Mask), Greater Invisibility (Suppressed), Haste (Suppressed) | Exhaustion: 0 | Inspiration: Yes**
@@ -19004,8 +21993,11 @@ Mordenkainen doesn't answer her. He slowly turns his head to look at you, his Gr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Expand the Net - Use your charisma to draw Bigby and Tenser into the conversation and shatter them simultaneously*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-993"></a>
 #### Scene 993
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | Rank: 10,000,000 | HP: 245/245 | XP: 355000/355000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Rank 12 Mask), Greater Invisibility (Internal), Haste (Internal)**
@@ -19027,8 +22019,11 @@ The vision snaps shut. You pick up a silver fork, the tines reflecting the morni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target the Remaining Five - Force the broken trio to reveal the locations of the other five members of the Circle.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-994"></a>
 #### Scene 994
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 20 Swords Bard | HP: 245/245 | XP: 355000/355000 (MAX) | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Masked Singularity (Rank 12 Facade) | Inspiration: Yes**
@@ -19046,8 +22041,11 @@ Bigby and Tenser nod in silent, shattered agreement, their legendary wills nothi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delegate Distant Members - Command your Divine Pillars (Karlach, Nyx, Whispers) to hunt Drawmij and Nystul in their remote sanctums.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-995"></a>
 #### Scene 995
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Sovereign (Masked Rank 12) | HP: 245/245 | XP: 355,000/355,000 (MAX) | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 0/1** &nbsp;|&nbsp; ⚠️ **Mortal Facade, Sovereign in the Tall Grass | Inspiration: Yes**
@@ -19067,8 +22065,11 @@ You turn back to your wine, the porcelain mask reflecting the terrified eyes of 
 > 👤 **Player:**
 > *"delegate this. have everyone gathered before me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-996"></a>
 #### Scene 996
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Overgod | Mask: Lvl 20 Swords Bard | Charisma: 10,260,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 5/10, Spells: L1 4/4, L2 4/4, L3 3/3, L4 2/3, L5 3/3, L6 1/1, L7 1/1, L8 1/1, L9 1/1 | DP: 429,654 / 430,654**
@@ -19096,8 +22097,11 @@ Your Mortal Avatar bows low, gesturing to the assembly of broken mages and archi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Archive the Circle - Reduce them to Rank 1 flickers and add them to your shelf alongside Bane and Mystra.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-997"></a>
 #### Scene 997
 
 > 📍 **Lord Mayor's Palace (Grand Ballroom, High Quarter, Greyhawk)** &nbsp;|&nbsp; ⏳ **Hammer 3, 2026 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10,000,000) | Attributes: STR 60000, DEX 90000, CON 60000, INT 60000, WIS 60000, CHA 10000000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: Infinite | DR: Infinite | Integrated Neurons: 8.0065B Souls | Trophies: Bane (R5), Mystra (R6), Elminster (R5), The Circle (R1)** &nbsp;|&nbsp; ⚠️ **Constant Entity, Source Code Owner, Sovereign of the Night**
@@ -19119,8 +22123,11 @@ You lean back in your chair in Greyhawk, swirling your wine as the 8 billion sou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Target Node Beta-09 - Shift focus to the Krynn system to dismantle the &#x27;Dragon-War&#x27; recursive loop.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-998"></a>
 #### Scene 998
 
 > 📍 **Node Beta-09 (Krynn System - High Sky over Ansalon)** &nbsp;|&nbsp; ⏳ **Hammer 4, 2026 DR (02:00 (Oerth-Toril Synchronized))** &nbsp;|&nbsp; 🛡️ **Universal Singularity | Rank: 10,000,000 | HP: TRANSCENDENT | XP: MAX | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **DPP: Infinite | DR: Infinite | Integrated Neurons: 8.0065B Souls | Trophies: The Circle (R1), Elminster (R5), Bane (R5), Mystra (R6)**
@@ -19138,8 +22145,11 @@ You feel the three moons of Krynn tensing, their local 'Weave' shivering as they
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront the Platinum Dragon - Appear before Paladine in his mortal guise (Fizban) and demonstrate the obsolescence of his &#x27;Balance&#x27; to break his deterministic logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-999"></a>
 #### Scene 999
 
 > 📍 **Node Beta-09 (Krynn System - High Sky over Ansalon)** &nbsp;|&nbsp; ⏳ **Hammer 4, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **The Infinite Singularity (Rank 10,000,000) | CHA: 102.6M | DR: Infinite | DPP: Infinite | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **Divine Power: Infinite | 8.0065B Integrated Neurons | Trophies: The Circle (R1), Elminster (R5), Bane (R5), Mystra (R6)** &nbsp;|&nbsp; ⚠️ **Sovereign in the Tall Grass | Masked Singularity (Rank 12) | Mortal Facade (Level 20 Swords Bard)**
@@ -19163,8 +22173,11 @@ Paladine staggers, his platinum light flickering as he attempts to compute the o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Delete the Dragon-War Script - Directly overwrite the Krynn system parameters to stop the War of the Lance and harmonize all souls on Ansalon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1000"></a>
 #### Scene 1000
 
 > 📍 **Node Beta-09 (Krynn) - Singularized** &nbsp;|&nbsp; ⏳ **Hammer 4, 2026 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Rank 10,000,000 Overgod | Divine Power: Infinite | Souls: 8.026B | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: Infinite, DPP: 10,000,000/10,000,000, Neurons: 8.026B Integrated** &nbsp;|&nbsp; ⚠️ **Alpha-Constant, System Root, Sovereign of Silence**
@@ -19180,8 +22193,11 @@ Then, you issue the final Decree of Harmonization. A wave of ultraviolet peace r
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Pleasure Continent - Return to the Gardens of Eternal Dusk to share the news of the double-conquest with Astarion and Seraphina.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1001"></a>
 #### Scene 1001
 
 > 📍 **Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 4, 2026 DR (12:30)** &nbsp;|&nbsp; 🛡️ **Absolute Singularity (Rank 10,000,000) | HP: 245/245 | DPP: 10,000,000/10,000,000 | Gold: 1000000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: Infinite, DPP: 10M/10M, Neurons: 8.026B Integrated** &nbsp;|&nbsp; ⚠️ **Mortal Facade (Rank 12) | Luminous Being | Sovereign of the Infinite**
@@ -19197,8 +22213,11 @@ Seraphina reaches out, her cold, translucent fingers brushing your porcelain mas
 > [!NOTE] ⚙️ **Player Choice:**
 > *The Infinite Banquet - Host a celebration where the 8 billion subjects render a symphony of ecstasy to honor the double conquest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-1002"></a>
 #### Scene 1002
 
 > 📍 **Gardens of Eternal Dusk (Pleasure Continent)** &nbsp;|&nbsp; ⏳ **Hammer 4, 2026 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Universal Singularity (Rank 10,000,000) | HP: N/A | XP: MAX | Gold: 1,000,000gp** &nbsp;|&nbsp; ✨ **HD: 10/10, Spells: Infinite, DPP: 10M/10M, Neurons: 8.026B Integrated** &nbsp;|&nbsp; ⚠️ **Night Sovereign, Luminous Being, Constant Entity**
@@ -19212,6 +22231,8 @@ In the Obsidian Sanctum, the archived flickers of Bane, Mystra, and the Circle o
 "Look at them, Nocturne," Seraphina whispers, her translucent eyes weeping tears of pure starlight. "An entire Multiverse, singing because you allow them to breathe. This is the only history that matters now."
 
 Astarion refills your moonstone goblet with a vintage that tastes of conquered stars. "To the Infinite Banquet," he purrs, bowing to the 8 billion heartbeats that now form the rhythm of your reign. "And to the Sovereign who made the Architects look like children playing with blocks."
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

@@ -12,6 +12,17 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (278 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 II. Campaign Context: The Long Defeat (this is in the past)
@@ -608,294 +619,299 @@ Option B: Use Minor Illusion (if learned) to distract them.
 Option C: Drink your one Potion of Healing (Bonus Action) and Play Dead.
 Option D: Use Pheromone Spike (Bonus Action Command) if the DM allows the Level 4 feature to "glitch" early due to the crash trauma (High Risk).
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The Ravaged Beach | Eleasias 20, 1492 DR (12:00) | Roleplay |
-| **02** | Unknown |  | Roleplay |
-| **03** | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
-| **04** | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
-| **05** | The Ravaged Beach | Mirtul 15, 1492 DR (12:00) | Roleplay |
-| **06** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **07** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **08** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **09** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **10** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **11** | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
-| **12** | The Ravaged Beach | Mirtul 20, 1492 DR (12:10) | Roleplay |
-| **13** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **14** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **15** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **16** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **17** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **18** | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
-| **19** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **20** | The Ravaged Beach | Mirtul 20, 1492 DR (Midday) | Roleplay |
-| **21** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **22** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **23** | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
-| **24** | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
-| **25** | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
-| **26** | Nautiloid Hull (Exterior Wreckage) | Mirtul 20, 1492 DR (13:00) | Roleplay |
-| **27** | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:05) | Roleplay |
-| **28** | The Ravaged Beach (Nautiloid Wreckage) | Mirtul 20, 1492 DR (13:05) | Roleplay |
-| **29** | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:10) | Social Challenge |
-| **30** | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:15) | Roleplay |
-| **31** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:25) | Roleplay |
-| **32** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:30) | Roleplay |
-| **33** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
-| **34** | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
-| **35** | The Ravaged Beach (Cliffs) | Mirtul 20, 1492 DR (13:45) | Roleplay |
-| **36** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
-| **37** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **38** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **39** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
-| **40** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **41** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:10) | Roleplay |
-| **42** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **43** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
-| **44** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:15) | Roleplay |
-| **45** | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:30) | Roleplay |
-| **46** | The Ravaged Beach (Northward Cliffs) | Mirtul 20, 1492 DR (15:45) | Roleplay |
-| **47** | The Ancient Door (Cliffside Plateau) | Mirtul 20, 1492 DR (16:00) | Roleplay |
-| **48** | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
-| **49** | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
-| **50** | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:30) | Roleplay |
-| **51** | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:45) | Roleplay |
-| **52** | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:00) | Roleplay |
-| **53** | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:15) | Roleplay |
-| **54** | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
-| **55** | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
-| **56** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:35) | Roleplay |
-| **57** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:45) | Roleplay |
-| **58** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:55) | Roleplay |
-| **59** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:05) | Roleplay |
-| **60** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:15) | Roleplay |
-| **61** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:10) | Roleplay |
-| **62** | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:25) | Roleplay |
-| **63** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:35) | Social Challenge |
-| **64** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:36) | Roleplay |
-| **65** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:37) | Roleplay |
-| **66** | Unknown |  | Roleplay |
-| **67** | Unknown |  | Roleplay |
-| **68** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:42) | Roleplay |
-| **69** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:44) | Roleplay |
-| **70** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:46) | Roleplay |
-| **71** | Unknown |  | Roleplay |
-| **72** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:48) | Roleplay |
-| **73** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:00) | Roleplay |
-| **74** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:15) | Roleplay |
-| **75** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:16) | Boss Surrender |
-| **76** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:21) | Roleplay |
-| **77** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:36) | Boss Surrender |
-| **78** | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:41) | Roleplay |
-| **79** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:01) | Roleplay |
-| **80** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:03) | Roleplay |
-| **81** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:04) | Roleplay |
-| **82** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:05) | Roleplay |
-| **83** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:07) | Social Challenge |
-| **84** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:10) | Roleplay |
-| **85** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
-| **86** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
-| **87** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
-| **88** | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
-| **89** | Emerald Grove Gates | Mirtul 20, 1492 DR (20:45) | Roleplay |
-| **90** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (20:50) | Roleplay |
-| **91** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:00) | Social Challenge |
-| **92** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
-| **93** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
-| **94** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Social Challenge |
-| **95** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
-| **96** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
-| **97** | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
-| **98** | Unknown |  | Roleplay |
-| **99** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:30) | Roleplay |
-| **100** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:45) | Boss Surrender |
-| **101** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Boss Surrender |
-| **102** | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Roleplay |
-| **103** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:15) | Roleplay |
-| **104** | Emerald Grove - The Hollow (Makeshift Prison) | Mirtul 20, 1492 DR (22:20) | Boss Surrender |
-| **105** | Emerald Grove - The Hollow (Prison) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
-| **106** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:25) | Boss Surrender |
-| **107** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
-| **108** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:35) | Social Challenge |
-| **109** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Boss Surrender |
-| **110** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:45) | Boss Surrender |
-| **111** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Roleplay |
-| **112** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:50) | Social Challenge |
-| **113** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:05) | Boss Surrender |
-| **114** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:10) | Boss Surrender |
-| **115** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Boss Surrender |
-| **116** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Roleplay |
-| **117** | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20 (Night)) | Roleplay |
-| **118** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Boss Surrender |
-| **119** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **120** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **121** | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
-| **122** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:45) | Roleplay |
-| **123** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
-| **124** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55 (Night)) | Roleplay |
-| **125** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
-| **126** | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55) | Social Challenge |
-| **127** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:15) | Roleplay |
-| **128** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Boss Surrender |
-| **129** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
-| **130** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
-| **131** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Roleplay |
-| **132** | Emerald Grove - Enclave Library (Secure) | Mirtul 21, 1492 DR (00:30) | Roleplay |
-| **133** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:35) | Boss Surrender |
-| **134** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **135** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **136** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **137** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **138** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **139** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15 (Deep Night)) | Roleplay |
-| **140** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **141** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **142** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
-| **143** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:30) | Social Challenge |
-| **144** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:45) | Social Challenge |
-| **145** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:50) | Social Challenge |
-| **146** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:00) | Social Challenge |
-| **147** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:15) | Social Challenge |
-| **148** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:45) | Boss Surrender |
-| **149** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:50) | Boss Surrender |
-| **150** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:15) | Boss Surrender |
-| **151** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
-| **152** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
-| **153** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:45) | Roleplay |
-| **154** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **155** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **156** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **157** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **158** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
-| **159** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
-| **160** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15) | Boss Surrender |
-| **161** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15 (Deep Night)) | Roleplay |
-| **162** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:30) | Roleplay |
-| **163** | Emerald Grove - Enclave Library (Private) | Mirtul 21, 1492 DR (04:30) | Social Challenge |
-| **164** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30 (Deep Night)) | Roleplay |
-| **165** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
-| **166** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
-| **167** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
-| **168** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
-| **169** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
-| **170** | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (13:15) | Boss Surrender |
-| **171** | Emerald Grove - Stone Vault | Mirtul 21, 1492 DR (13:25) | Roleplay |
-| **172** | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:30) | Social Challenge |
-| **173** | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:35) | Social Challenge |
-| **174** | Unknown |  | Roleplay |
-| **175** | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:40) | Boss Surrender |
-| **176** | Emerald Grove - Prison Path | Mirtul 21, 1492 DR (13:45) | Boss Surrender |
-| **177** | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (13:55) | Social Challenge |
-| **178** | Emerald Grove - Zevlor's Command | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **179** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:15) | Roleplay |
-| **180** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:30) | Roleplay |
-| **181** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:45) | Roleplay |
-| **182** | Emerald Grove - Inner Sanctum / The Sacred Pool | Mirtul 21, 1492 DR (15:30) | Boss Surrender |
-| **183** | Emerald Grove - Sacred Pool | Mirtul 21, 1492 DR (16:15) | Boss Surrender |
-| **184** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (15:30) | Roleplay |
-| **185** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Social Challenge |
-| **186** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **187** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (17:30) | Roleplay |
-| **188** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **189** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **190** | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
-| **191** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:00) | Roleplay |
-| **192** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Boss Surrender |
-| **193** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **194** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **195** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **196** | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
-| **197** | Blighted Village - Village Square | Mirtul 21, 1492 DR (18:55) | Boss Surrender |
-| **198** | Blighted Village - Interior | Mirtul 21, 1492 DR (19:15) | Boss Surrender |
-| **199** | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:35) | Boss Surrender |
-| **200** | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:40) | Roleplay |
-| **201** | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:41) | Social Challenge |
-| **202** | Blighted Village - Windmill | Mirtul 21, 1492 DR (20:10) | Social Challenge |
-| **203** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:15) | Social Challenge |
-| **204** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:20) | Social Challenge |
-| **205** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:25) | Roleplay |
-| **206** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:30) | Roleplay |
-| **207** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:35) | Roleplay |
-| **208** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:45) | Roleplay |
-| **209** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:50) | Boss Surrender |
-| **210** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
-| **211** | Unknown |  | Roleplay |
-| **212** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
-| **213** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (21:10) | Boss Surrender |
-| **214** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:15) | Roleplay |
-| **215** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
-| **216** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Social Challenge |
-| **217** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
-| **218** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:25) | Roleplay |
-| **219** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Boss Surrender |
-| **220** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Roleplay |
-| **221** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Boss Surrender |
-| **222** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Roleplay |
-| **223** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:00) | Roleplay |
-| **224** | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:15) | Boss Surrender |
-| **225** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (22:30) | Roleplay |
-| **226** | Unknown |  | Roleplay |
-| **227** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (Night) | Roleplay |
-| **228** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
-| **229** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
-| **230** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
-| **231** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
-| **232** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
-| **233** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
-| **234** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Boss Surrender |
-| **235** | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:20) | Roleplay |
-| **236** | Blighted Village Square | Mirtul 21, 1492 DR (23:25) | Social Challenge |
-| **237** | Blighted Village Square | Mirtul 21, 1492 DR (23:40) | Social Challenge |
-| **238** | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Social Challenge |
-| **239** | Unknown |  | Roleplay |
-| **240** | Blighted Village Square | Night, 1492 DR (Mirtul 21) | Roleplay |
-| **241** | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Roleplay |
-| **242** | Blighted Village Square | Mirtul 22, 1492 DR (00:10) | Roleplay |
-| **243** | Blighted Village Square | Mirtul 22, 1492 DR (00:25 (Deep Night)) | Roleplay |
-| **244** | Blighted Village Square (Tower Overlook) | Mirtul 22, 1492 DR (08:35) | Roleplay |
-| **245** | Blighted Village Square | Mirtul 22, 1492 DR (16:35) | Roleplay |
-| **246** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:35) | Roleplay |
-| **247** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:50) | Boss Surrender |
-| **248** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (18:20) | Boss Surrender |
-| **249** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:35) | Boss Surrender |
-| **250** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:50) | Boss Surrender |
-| **251** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:55) | Social Challenge |
-| **252** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:10) | Roleplay |
-| **253** | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:25) | Boss Surrender |
-| **254** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:40) | Roleplay |
-| **255** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
-| **256** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
-| **257** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
-| **258** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:10) | Boss Surrender |
-| **259** | Unknown |  | Roleplay |
-| **260** | Unknown |  | Roleplay |
-| **261** | Unknown |  | Roleplay |
-| **262** | Unknown |  | Roleplay |
-| **263** | Unknown |  | Roleplay |
-| **264** | Unknown |  | Roleplay |
-| **265** | Unknown |  | Roleplay |
-| **266** | Unknown |  | Roleplay |
-| **267** | Unknown |  | Roleplay |
-| **268** | Unknown |  | Roleplay |
-| **269** | Unknown |  | Roleplay |
-| **270** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:25) | Roleplay |
-| **271** | Unknown |  | Roleplay |
-| **272** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
-| **273** | Unknown |  | Roleplay |
-| **274** | Unknown |  | Roleplay |
-| **275** | Unknown |  | Roleplay |
-| **276** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
-| **277** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (21:00) | Social Challenge |
-| **278** | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (22:10) | Social Challenge |
+| [**Scene 01**](#scene-1) | The Ravaged Beach | Eleasias 20, 1492 DR (12:00) | Roleplay |
+| [**Scene 02**](#scene-2) | Unknown |  | Roleplay |
+| [**Scene 03**](#scene-3) | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| [**Scene 04**](#scene-4) | The Ravaged Beach | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| [**Scene 05**](#scene-5) | The Ravaged Beach | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| [**Scene 06**](#scene-6) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 07**](#scene-7) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 08**](#scene-8) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 09**](#scene-9) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 10**](#scene-10) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 11**](#scene-11) | The Ravaged Beach | Mirtul 20, 1492 DR (12:05) | Roleplay |
+| [**Scene 12**](#scene-12) | The Ravaged Beach | Mirtul 20, 1492 DR (12:10) | Roleplay |
+| [**Scene 13**](#scene-13) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 14**](#scene-14) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 15**](#scene-15) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 16**](#scene-16) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 17**](#scene-17) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 18**](#scene-18) | The Ravaged Beach | Mirtul 20, 1492 DR (12:35) | Roleplay |
+| [**Scene 19**](#scene-19) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 20**](#scene-20) | The Ravaged Beach | Mirtul 20, 1492 DR (Midday) | Roleplay |
+| [**Scene 21**](#scene-21) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 22**](#scene-22) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 23**](#scene-23) | The Ravaged Beach | Mirtul 20, 1492 DR (12:40) | Roleplay |
+| [**Scene 24**](#scene-24) | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
+| [**Scene 25**](#scene-25) | The Ravaged Beach | Mirtul 20, 1492 DR (12:45) | Roleplay |
+| [**Scene 26**](#scene-26) | Nautiloid Hull (Exterior Wreckage) | Mirtul 20, 1492 DR (13:00) | Roleplay |
+| [**Scene 27**](#scene-27) | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:05) | Roleplay |
+| [**Scene 28**](#scene-28) | The Ravaged Beach (Nautiloid Wreckage) | Mirtul 20, 1492 DR (13:05) | Roleplay |
+| [**Scene 29**](#scene-29) | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:10) | Social Challenge |
+| [**Scene 30**](#scene-30) | The Ravaged Beach (Nautiloid Hull) | Mirtul 20, 1492 DR (13:15) | Roleplay |
+| [**Scene 31**](#scene-31) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:25) | Roleplay |
+| [**Scene 32**](#scene-32) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:30) | Roleplay |
+| [**Scene 33**](#scene-33) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
+| [**Scene 34**](#scene-34) | The Ravaged Beach (Coastline) | Mirtul 20, 1492 DR (13:35) | Roleplay |
+| [**Scene 35**](#scene-35) | The Ravaged Beach (Cliffs) | Mirtul 20, 1492 DR (13:45) | Roleplay |
+| [**Scene 36**](#scene-36) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
+| [**Scene 37**](#scene-37) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 38**](#scene-38) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 39**](#scene-39) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:00) | Roleplay |
+| [**Scene 40**](#scene-40) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 41**](#scene-41) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:10) | Roleplay |
+| [**Scene 42**](#scene-42) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 43**](#scene-43) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (14:15) | Roleplay |
+| [**Scene 44**](#scene-44) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:15) | Roleplay |
+| [**Scene 45**](#scene-45) | The Ravaged Beach (Main Hull) | Mirtul 20, 1492 DR (15:30) | Roleplay |
+| [**Scene 46**](#scene-46) | The Ravaged Beach (Northward Cliffs) | Mirtul 20, 1492 DR (15:45) | Roleplay |
+| [**Scene 47**](#scene-47) | The Ancient Door (Cliffside Plateau) | Mirtul 20, 1492 DR (16:00) | Roleplay |
+| [**Scene 48**](#scene-48) | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
+| [**Scene 49**](#scene-49) | Cliffside Plateau (Overlooking Ancient Door) | Mirtul 20, 1492 DR (16:15) | Roleplay |
+| [**Scene 50**](#scene-50) | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:30) | Roleplay |
+| [**Scene 51**](#scene-51) | Cliffside Road (North of Ancient Door) | Mirtul 20, 1492 DR (16:45) | Roleplay |
+| [**Scene 52**](#scene-52) | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:00) | Roleplay |
+| [**Scene 53**](#scene-53) | Roadside Cliffs (North of the Beach) | Mirtul 20, 1492 DR (17:15) | Roleplay |
+| [**Scene 54**](#scene-54) | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
+| [**Scene 55**](#scene-55) | Stone Archway (North of the Beach) | Mirtul 20, 1492 DR (17:25) | Roleplay |
+| [**Scene 56**](#scene-56) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:35) | Roleplay |
+| [**Scene 57**](#scene-57) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:45) | Roleplay |
+| [**Scene 58**](#scene-58) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (17:55) | Roleplay |
+| [**Scene 59**](#scene-59) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:05) | Roleplay |
+| [**Scene 60**](#scene-60) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:15) | Roleplay |
+| [**Scene 61**](#scene-61) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:10) | Roleplay |
+| [**Scene 62**](#scene-62) | Stone Archway (Roadside Cliffs) | Mirtul 20, 1492 DR (18:25) | Roleplay |
+| [**Scene 63**](#scene-63) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:35) | Social Challenge |
+| [**Scene 64**](#scene-64) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:36) | Roleplay |
+| [**Scene 65**](#scene-65) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:37) | Roleplay |
+| [**Scene 66**](#scene-66) | Unknown |  | Roleplay |
+| [**Scene 67**](#scene-67) | Unknown |  | Roleplay |
+| [**Scene 68**](#scene-68) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:42) | Roleplay |
+| [**Scene 69**](#scene-69) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:44) | Roleplay |
+| [**Scene 70**](#scene-70) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:46) | Roleplay |
+| [**Scene 71**](#scene-71) | Unknown |  | Roleplay |
+| [**Scene 72**](#scene-72) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (18:48) | Roleplay |
+| [**Scene 73**](#scene-73) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:00) | Roleplay |
+| [**Scene 74**](#scene-74) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:15) | Roleplay |
+| [**Scene 75**](#scene-75) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:16) | Boss Surrender |
+| [**Scene 76**](#scene-76) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:21) | Roleplay |
+| [**Scene 77**](#scene-77) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:36) | Boss Surrender |
+| [**Scene 78**](#scene-78) | North Ridge (Above Roadside Cliffs) | Mirtul 20, 1492 DR (19:41) | Roleplay |
+| [**Scene 79**](#scene-79) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:01) | Roleplay |
+| [**Scene 80**](#scene-80) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:03) | Roleplay |
+| [**Scene 81**](#scene-81) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:04) | Roleplay |
+| [**Scene 82**](#scene-82) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:05) | Roleplay |
+| [**Scene 83**](#scene-83) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:07) | Social Challenge |
+| [**Scene 84**](#scene-84) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:10) | Roleplay |
+| [**Scene 85**](#scene-85) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
+| [**Scene 86**](#scene-86) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:15) | Roleplay |
+| [**Scene 87**](#scene-87) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
+| [**Scene 88**](#scene-88) | Emerald Grove Approach | Mirtul 20, 1492 DR (20:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Emerald Grove Gates | Mirtul 20, 1492 DR (20:45) | Roleplay |
+| [**Scene 90**](#scene-90) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (20:50) | Roleplay |
+| [**Scene 91**](#scene-91) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:00) | Social Challenge |
+| [**Scene 92**](#scene-92) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
+| [**Scene 93**](#scene-93) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:05) | Social Challenge |
+| [**Scene 94**](#scene-94) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Social Challenge |
+| [**Scene 95**](#scene-95) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
+| [**Scene 96**](#scene-96) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
+| [**Scene 97**](#scene-97) | Emerald Grove - Interior Gate | Mirtul 20, 1492 DR (21:10) | Roleplay |
+| [**Scene 98**](#scene-98) | Unknown |  | Roleplay |
+| [**Scene 99**](#scene-99) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:30) | Roleplay |
+| [**Scene 100**](#scene-100) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (21:45) | Boss Surrender |
+| [**Scene 101**](#scene-101) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Boss Surrender |
+| [**Scene 102**](#scene-102) | Emerald Grove - The Hollow | Mirtul 20, 1492 DR (22:00) | Roleplay |
+| [**Scene 103**](#scene-103) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:15) | Roleplay |
+| [**Scene 104**](#scene-104) | Emerald Grove - The Hollow (Makeshift Prison) | Mirtul 20, 1492 DR (22:20) | Boss Surrender |
+| [**Scene 105**](#scene-105) | Emerald Grove - The Hollow (Prison) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
+| [**Scene 106**](#scene-106) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:25) | Boss Surrender |
+| [**Scene 107**](#scene-107) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:30) | Boss Surrender |
+| [**Scene 108**](#scene-108) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:35) | Social Challenge |
+| [**Scene 109**](#scene-109) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Boss Surrender |
+| [**Scene 110**](#scene-110) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:45) | Boss Surrender |
+| [**Scene 111**](#scene-111) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:40) | Roleplay |
+| [**Scene 112**](#scene-112) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (22:50) | Social Challenge |
+| [**Scene 113**](#scene-113) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:05) | Boss Surrender |
+| [**Scene 114**](#scene-114) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:10) | Boss Surrender |
+| [**Scene 115**](#scene-115) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Boss Surrender |
+| [**Scene 116**](#scene-116) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20) | Roleplay |
+| [**Scene 117**](#scene-117) | Emerald Grove - The Hollow (Prison Path) | Mirtul 20, 1492 DR (23:20 (Night)) | Roleplay |
+| [**Scene 118**](#scene-118) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Boss Surrender |
+| [**Scene 119**](#scene-119) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 120**](#scene-120) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 121**](#scene-121) | Emerald Grove - The Hollow (Inner Gate Path) | Mirtul 20, 1492 DR (23:30) | Roleplay |
+| [**Scene 122**](#scene-122) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:45) | Roleplay |
+| [**Scene 123**](#scene-123) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
+| [**Scene 124**](#scene-124) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55 (Night)) | Roleplay |
+| [**Scene 125**](#scene-125) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:50) | Roleplay |
+| [**Scene 126**](#scene-126) | Emerald Grove - Enclave Library | Mirtul 20, 1492 DR (23:55) | Social Challenge |
+| [**Scene 127**](#scene-127) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:15) | Roleplay |
+| [**Scene 128**](#scene-128) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Boss Surrender |
+| [**Scene 129**](#scene-129) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
+| [**Scene 130**](#scene-130) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25) | Roleplay |
+| [**Scene 131**](#scene-131) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:25 (Deep Night)) | Roleplay |
+| [**Scene 132**](#scene-132) | Emerald Grove - Enclave Library (Secure) | Mirtul 21, 1492 DR (00:30) | Roleplay |
+| [**Scene 133**](#scene-133) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (00:35) | Boss Surrender |
+| [**Scene 134**](#scene-134) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 135**](#scene-135) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 136**](#scene-136) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 137**](#scene-137) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 138**](#scene-138) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 139**](#scene-139) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15 (Deep Night)) | Roleplay |
+| [**Scene 140**](#scene-140) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 141**](#scene-141) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 142**](#scene-142) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (01:15) | Roleplay |
+| [**Scene 143**](#scene-143) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:30) | Social Challenge |
+| [**Scene 144**](#scene-144) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:45) | Social Challenge |
+| [**Scene 145**](#scene-145) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (01:50) | Social Challenge |
+| [**Scene 146**](#scene-146) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:00) | Social Challenge |
+| [**Scene 147**](#scene-147) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:15) | Social Challenge |
+| [**Scene 148**](#scene-148) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:45) | Boss Surrender |
+| [**Scene 149**](#scene-149) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (02:50) | Boss Surrender |
+| [**Scene 150**](#scene-150) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:15) | Boss Surrender |
+| [**Scene 151**](#scene-151) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
+| [**Scene 152**](#scene-152) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
+| [**Scene 153**](#scene-153) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:45) | Roleplay |
+| [**Scene 154**](#scene-154) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 155**](#scene-155) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 156**](#scene-156) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 157**](#scene-157) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 158**](#scene-158) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20 (Deep Night)) | Roleplay |
+| [**Scene 159**](#scene-159) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (03:20) | Roleplay |
+| [**Scene 160**](#scene-160) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15) | Boss Surrender |
+| [**Scene 161**](#scene-161) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:15 (Deep Night)) | Roleplay |
+| [**Scene 162**](#scene-162) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (04:30) | Roleplay |
+| [**Scene 163**](#scene-163) | Emerald Grove - Enclave Library (Private) | Mirtul 21, 1492 DR (04:30) | Social Challenge |
+| [**Scene 164**](#scene-164) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30 (Deep Night)) | Roleplay |
+| [**Scene 165**](#scene-165) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
+| [**Scene 166**](#scene-166) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (04:30) | Roleplay |
+| [**Scene 167**](#scene-167) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
+| [**Scene 168**](#scene-168) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
+| [**Scene 169**](#scene-169) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (05:15) | Roleplay |
+| [**Scene 170**](#scene-170) | Emerald Grove - Inner Sanctum | Mirtul 21, 1492 DR (13:15) | Boss Surrender |
+| [**Scene 171**](#scene-171) | Emerald Grove - Stone Vault | Mirtul 21, 1492 DR (13:25) | Roleplay |
+| [**Scene 172**](#scene-172) | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:30) | Social Challenge |
+| [**Scene 173**](#scene-173) | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:35) | Social Challenge |
+| [**Scene 174**](#scene-174) | Unknown |  | Roleplay |
+| [**Scene 175**](#scene-175) | Emerald Grove - Pool Chamber | Mirtul 21, 1492 DR (13:40) | Boss Surrender |
+| [**Scene 176**](#scene-176) | Emerald Grove - Prison Path | Mirtul 21, 1492 DR (13:45) | Boss Surrender |
+| [**Scene 177**](#scene-177) | Emerald Grove - Enclave Library | Mirtul 21, 1492 DR (13:55) | Social Challenge |
+| [**Scene 178**](#scene-178) | Emerald Grove - Zevlor's Command | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 179**](#scene-179) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:15) | Roleplay |
+| [**Scene 180**](#scene-180) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:30) | Roleplay |
+| [**Scene 181**](#scene-181) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (14:45) | Roleplay |
+| [**Scene 182**](#scene-182) | Emerald Grove - Inner Sanctum / The Sacred Pool | Mirtul 21, 1492 DR (15:30) | Boss Surrender |
+| [**Scene 183**](#scene-183) | Emerald Grove - Sacred Pool | Mirtul 21, 1492 DR (16:15) | Boss Surrender |
+| [**Scene 184**](#scene-184) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (15:30) | Roleplay |
+| [**Scene 185**](#scene-185) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Social Challenge |
+| [**Scene 186**](#scene-186) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 187**](#scene-187) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (17:30) | Roleplay |
+| [**Scene 188**](#scene-188) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 189**](#scene-189) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 190**](#scene-190) | Emerald Grove - Inner Gate | Mirtul 21, 1492 DR (16:30) | Roleplay |
+| [**Scene 191**](#scene-191) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:00) | Roleplay |
+| [**Scene 192**](#scene-192) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Boss Surrender |
+| [**Scene 193**](#scene-193) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 194**](#scene-194) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 195**](#scene-195) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 196**](#scene-196) | Blighted Village - Outskirts | Mirtul 21, 1492 DR (18:45) | Roleplay |
+| [**Scene 197**](#scene-197) | Blighted Village - Village Square | Mirtul 21, 1492 DR (18:55) | Boss Surrender |
+| [**Scene 198**](#scene-198) | Blighted Village - Interior | Mirtul 21, 1492 DR (19:15) | Boss Surrender |
+| [**Scene 199**](#scene-199) | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:35) | Boss Surrender |
+| [**Scene 200**](#scene-200) | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:40) | Roleplay |
+| [**Scene 201**](#scene-201) | Blighted Village - Windmill | Mirtul 21, 1492 DR (19:41) | Social Challenge |
+| [**Scene 202**](#scene-202) | Blighted Village - Windmill | Mirtul 21, 1492 DR (20:10) | Social Challenge |
+| [**Scene 203**](#scene-203) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:15) | Social Challenge |
+| [**Scene 204**](#scene-204) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:20) | Social Challenge |
+| [**Scene 205**](#scene-205) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:25) | Roleplay |
+| [**Scene 206**](#scene-206) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:30) | Roleplay |
+| [**Scene 207**](#scene-207) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:35) | Roleplay |
+| [**Scene 208**](#scene-208) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:45) | Roleplay |
+| [**Scene 209**](#scene-209) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (20:50) | Boss Surrender |
+| [**Scene 210**](#scene-210) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
+| [**Scene 211**](#scene-211) | Unknown |  | Roleplay |
+| [**Scene 212**](#scene-212) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:05) | Roleplay |
+| [**Scene 213**](#scene-213) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (21:10) | Boss Surrender |
+| [**Scene 214**](#scene-214) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:15) | Roleplay |
+| [**Scene 215**](#scene-215) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
+| [**Scene 216**](#scene-216) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Social Challenge |
+| [**Scene 217**](#scene-217) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:20) | Roleplay |
+| [**Scene 218**](#scene-218) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:25) | Roleplay |
+| [**Scene 219**](#scene-219) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Boss Surrender |
+| [**Scene 220**](#scene-220) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:30) | Roleplay |
+| [**Scene 221**](#scene-221) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Boss Surrender |
+| [**Scene 222**](#scene-222) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (21:45) | Roleplay |
+| [**Scene 223**](#scene-223) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:00) | Roleplay |
+| [**Scene 224**](#scene-224) | Blighted Village - Windmill Base | Mirtul 21, 1492 DR (22:15) | Boss Surrender |
+| [**Scene 225**](#scene-225) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (22:30) | Roleplay |
+| [**Scene 226**](#scene-226) | Unknown |  | Roleplay |
+| [**Scene 227**](#scene-227) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (Night) | Roleplay |
+| [**Scene 228**](#scene-228) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
+| [**Scene 229**](#scene-229) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
+| [**Scene 230**](#scene-230) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
+| [**Scene 231**](#scene-231) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
+| [**Scene 232**](#scene-232) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:00) | Roleplay |
+| [**Scene 233**](#scene-233) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Roleplay |
+| [**Scene 234**](#scene-234) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:15) | Boss Surrender |
+| [**Scene 235**](#scene-235) | Blighted Village - Windmill Tower | Mirtul 21, 1492 DR (23:20) | Roleplay |
+| [**Scene 236**](#scene-236) | Blighted Village Square | Mirtul 21, 1492 DR (23:25) | Social Challenge |
+| [**Scene 237**](#scene-237) | Blighted Village Square | Mirtul 21, 1492 DR (23:40) | Social Challenge |
+| [**Scene 238**](#scene-238) | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Social Challenge |
+| [**Scene 239**](#scene-239) | Unknown |  | Roleplay |
+| [**Scene 240**](#scene-240) | Blighted Village Square | Night, 1492 DR (Mirtul 21) | Roleplay |
+| [**Scene 241**](#scene-241) | Blighted Village Square | Mirtul 21, 1492 DR (23:55) | Roleplay |
+| [**Scene 242**](#scene-242) | Blighted Village Square | Mirtul 22, 1492 DR (00:10) | Roleplay |
+| [**Scene 243**](#scene-243) | Blighted Village Square | Mirtul 22, 1492 DR (00:25 (Deep Night)) | Roleplay |
+| [**Scene 244**](#scene-244) | Blighted Village Square (Tower Overlook) | Mirtul 22, 1492 DR (08:35) | Roleplay |
+| [**Scene 245**](#scene-245) | Blighted Village Square | Mirtul 22, 1492 DR (16:35) | Roleplay |
+| [**Scene 246**](#scene-246) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:35) | Roleplay |
+| [**Scene 247**](#scene-247) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (17:50) | Boss Surrender |
+| [**Scene 248**](#scene-248) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (18:20) | Boss Surrender |
+| [**Scene 249**](#scene-249) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:35) | Boss Surrender |
+| [**Scene 250**](#scene-250) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:50) | Boss Surrender |
+| [**Scene 251**](#scene-251) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (18:55) | Social Challenge |
+| [**Scene 252**](#scene-252) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:10) | Roleplay |
+| [**Scene 253**](#scene-253) | Shattered Sanctum - Worg Pens | Mirtul 22, 1492 DR (19:25) | Boss Surrender |
+| [**Scene 254**](#scene-254) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:40) | Roleplay |
+| [**Scene 255**](#scene-255) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
+| [**Scene 256**](#scene-256) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
+| [**Scene 257**](#scene-257) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (19:55) | Roleplay |
+| [**Scene 258**](#scene-258) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:10) | Boss Surrender |
+| [**Scene 259**](#scene-259) | Unknown |  | Roleplay |
+| [**Scene 260**](#scene-260) | Unknown |  | Roleplay |
+| [**Scene 261**](#scene-261) | Unknown |  | Roleplay |
+| [**Scene 262**](#scene-262) | Unknown |  | Roleplay |
+| [**Scene 263**](#scene-263) | Unknown |  | Roleplay |
+| [**Scene 264**](#scene-264) | Unknown |  | Roleplay |
+| [**Scene 265**](#scene-265) | Unknown |  | Roleplay |
+| [**Scene 266**](#scene-266) | Unknown |  | Roleplay |
+| [**Scene 267**](#scene-267) | Unknown |  | Roleplay |
+| [**Scene 268**](#scene-268) | Unknown |  | Roleplay |
+| [**Scene 269**](#scene-269) | Unknown |  | Roleplay |
+| [**Scene 270**](#scene-270) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:25) | Roleplay |
+| [**Scene 271**](#scene-271) | Unknown |  | Roleplay |
+| [**Scene 272**](#scene-272) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
+| [**Scene 273**](#scene-273) | Unknown |  | Roleplay |
+| [**Scene 274**](#scene-274) | Unknown |  | Roleplay |
+| [**Scene 275**](#scene-275) | Unknown |  | Roleplay |
+| [**Scene 276**](#scene-276) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (20:40) | Roleplay |
+| [**Scene 277**](#scene-277) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (21:00) | Social Challenge |
+| [**Scene 278**](#scene-278) | Shattered Sanctum - Main Hall | Mirtul 22, 1492 DR (22:10) | Social Challenge |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Eleasias 20, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 1/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 3/3, Pheromone Spike: 3/3, Malcanthet's Favor: Available** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1), Prone | Inspiration: Yes**
@@ -917,8 +933,11 @@ The chittering is what brings the world back into focus. Three Intellect Devoure
 > 👤 **Player:**
 > *"wake shadowheart and hide  behind her and pretend to be afraid and drink hp potion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 
@@ -938,8 +957,11 @@ Shadowheart groans, pushing herself up from the sand, her hand immediately flyin
 God Mode:
 replace zariel with Malcanthet , i have a cotnract with her instead and recap my future missoins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp**
@@ -949,8 +971,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the beach with Shadowheart now that Malcanthet&#x27;s influence is restored.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Inspiration: 3/3, Potions: 0, Exhaustion: 0**
@@ -964,8 +989,11 @@ Shadowheart glances back at you, her brow furrowed. She sees only a shivering gi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abyssal Command: Grovel - Use your Pheromone Spike to force a brain-creature to collapse into the sand.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Pheromone Spike: 2/3, Inspiration: 3/3, Potions: 0, Exhaustion: 0**
@@ -981,8 +1009,11 @@ Shadowheart, oblivious to the metaphysical strike you just leveled, misinterpret
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspire Ambition - Whisper a promise of power to Shadowheart, granting her a Bardic Inspiration die (1d6).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Pheromone Spike: 2/3, Inspiration: 2/3, Potions: 0, Exhaustion: 0**
@@ -1006,8 +1037,11 @@ INITIATIVE ORDER:
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scream a Warning - Play the role of the panicked noble to distract an enemy while she strikes.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Inspiration: 2/3, Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -1662,8 +1696,11 @@ Option B: Use Minor Illusion (if learned) to distract them.
 Option C: Drink your one Potion of Healing (Bonus Action) and Play Dead.
 Option D: Use Pheromone Spike (Bonus Action Command) if the DM allows the Level 4 feature to "glitch" early due to the crash trauma (High Risk).
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp**
@@ -1673,8 +1710,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the combat on the beach. It is currently the end of Shadowheart&#x27;s turn.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Inspiration: 2/3 | Spike: 2/3**
@@ -1690,8 +1730,11 @@ Through the pink and crimson sparks flickering in your Abyssal eyes, you see the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Whisper Insecurities (Vicious Mockery) - Whisper a devastating truth about the creature&#x27;s origin to erode its will. (1d4 psychic damage + Disadvantage)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 1**
@@ -1705,8 +1748,11 @@ Shadowheart doesn't hear your words, only the terrifying conviction in your tone
 God Mode:
 lets assume i found standard level 1 gear like melee finesse weapon ,ranged weapon, armor on nautiloid, just like what you'd have in bg3 and equp it
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Malcanthet's Favor: Ready**
@@ -1716,8 +1762,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"auto resolve combat and assume i use ranged attacks and am careful to assist shadowheart"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Bardic Inspiration: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 1**
@@ -1742,8 +1791,11 @@ Current XP: 100 / 300 (Level 1)
 God Mode:
 give me standard exp bg3 char get from nautiloid
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Bard | HP: 7/7 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: No**
@@ -1753,8 +1805,11 @@ You pause to consider your options...
 God Mode:
 i should not smell liek a demon, it should be a more subtle thing Exhaling a breath that tastes of brine and Abyssal sparks
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 7/7 | XP: 300/900 | Gold: 0gp**
@@ -1764,8 +1819,11 @@ You pause to consider your options...
 God Mode:
 process my level up
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 25gp**
@@ -1775,8 +1833,11 @@ You pause to consider your options...
 God Mode:
 dont ig et a spell to choose?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp**
@@ -1786,8 +1847,11 @@ You pause to consider your options...
 God Mode:
 Add Tasha&#x27;s Hideous Laughter - Psychological dominance themed to your Abyssal mockery.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 35gp**
@@ -1797,8 +1861,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative on the beach with Shadowheart. The combat has concluded and you are standing amidst the wreckage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion: 1**
@@ -1812,8 +1879,11 @@ She winces, clutching her side where the creature's claws found a gap in her mai
 > 👤 **Player:**
 > *"explain that as a fallen noble i've had some combat training although i havent used itbefore, act cute, then offer healing"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Lvl 1) | Inspiration: Yes**
@@ -1835,8 +1905,11 @@ stop this stuff
 
 There should be no physical mention of demonic stuff, it should all be psychological and subtle
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (Midday)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp**
@@ -1846,8 +1919,11 @@ You pause to consider your options...
 God Mode:
 as nocturne levels up people should get more and more impressed. note that not all her abilities/powers are due to the demon contract. She is very capable because she went from a prostitute to hiring a strike team and inverting the casslander ritual (all without demon powers). She is a social, intellectual, miliary prodigy and it becomes revealed as time goes on, plus demon powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp**
@@ -1857,8 +1933,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the conversation with Shadowheart on the beach, focusing on Nocturne&#x27;s psychological weight and natural poise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1**
@@ -1868,8 +1947,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confirm Psychological &amp; Prodigy Directives - Acknowledge the shift to subtle psychological Abyssal effects and Nocturne&#x27;s independent genius.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -1885,8 +1967,11 @@ You step over the dissolving remains of an Intellect Devourer, your posture flaw
 > 👤 **Player:**
 > *"loot and scavene wreckage"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 300/900 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1**
@@ -1898,8 +1983,11 @@ You pick through a cluster of dead thralls near a secondary pod, your fingers ni
 > [!NOTE] ⚙️ **Player Choice:**
 > *Think: Strategic Assessment - Pause to assess your long-term goals and the assets at your disposal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Ravaged Beach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: No**
@@ -1911,8 +1999,11 @@ You pause amidst the wreckage, the rhythmic lapping of the tides usually a metro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Infiltrate Nautiloid Hull - Enter the smoking wreckage to find high-value assets before moving on.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Nautiloid Hull (Exterior Wreckage)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion (Level 1) | Inspiration: Yes**
@@ -1924,8 +2015,11 @@ Your attempt to move with silent, high-born grace fails as the wreckage shifts a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Withdraw to Beach - Retreat to the open sand where Shadowheart can support you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Ravaged Beach (Nautiloid Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -1939,8 +2033,11 @@ You slip back through the organic maw of the wreckage, your footsteps silent aga
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold Ranged Attack - Wait for the threat to emerge from the smoke and fire a shortbow shot.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Ravaged Beach (Nautiloid Wreckage)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 350/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Bardic Insp: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1954,8 +2051,11 @@ Shadowheart exhales, her mace still raised but her shoulders dropping an inch. S
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer Alliance - Formally propose a partnership with Shadowheart, moving beyond the &#x27;victim&#x27; role.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Ravaged Beach (Nautiloid Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Bardic Insp: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1982,8 +2082,11 @@ Shadowheart stares at you, her grip on her mace loosening. The suspicion in her 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Scavenge - Attempt one final, careful sweep of the inner hull for high-value tech or items.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Ravaged Beach (Nautiloid Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Bardic Insp: 2/3 | Pheromone Spike: 2/3 | Exhaustion: 0**
@@ -2008,8 +2111,11 @@ You emerge from the smoke, your fingers stained with purple ichor but your silk 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Coast (West) - Stick to the shoreline and look for other survivors or a different entrance to the ship.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -2023,8 +2129,11 @@ Shadowheart shifts her mace to her primary hand, her silver plate clinking softl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Survivor - Investigate the figure near the cliffs to see if they are an asset or a threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -2040,8 +2149,11 @@ He turns slowly, his gaze sweeping over you and Shadowheart. He is striking, his
 > [!NOTE] ⚙️ **Player Choice:**
 > *Weaponize Allure - Use Siren&#x27;s Leverage to disarm his suspicion with a display of high-born vulnerability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Exhaustion (0) | Inspiration: No**
@@ -2055,8 +2167,11 @@ He doesn't draw his blade, but he doesn't lower his guard either. Shadowheart sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prove Utility - Drop the act and demonstrate your analytical understanding of the tadpole&#x27;s suppression effects to pique his interest.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **The Ravaged Beach (Coastline)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0**
@@ -2072,8 +2187,11 @@ Astarion’s eyes flare, his grip on the hidden blade loosening as his theatrica
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Cliffs - Lead the group to the upper path to get a better vantage point of the crash site.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **The Ravaged Beach (Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2087,8 +2205,11 @@ However, the ascent is more treacherous than your analysis accounted for. (Perce
 > [!NOTE] ⚙️ **Player Choice:**
 > *Descend Toward the Main Hull - Abandon the high ground and approach the central wreckage directly.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Bardic Insp: 2/3, Pheromone Spike: 2/3, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -2102,8 +2223,11 @@ Your attempt to regain your poise and slip toward the wreckage under the cover o
 > [!NOTE] ⚙️ **Player Choice:**
 > *Fallback to Shadowheart - Retreat behind the cleric&#x27;s shield and prepare a ranged counter-attack.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Inspiration: 2/3 | Exhaustion: 0**
@@ -2117,8 +2241,11 @@ Shadowheart braces herself, raising her shield just as the elite devourer slams 
 > 👤 **Player:**
 > *"Shortboenattack and healing word"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3, Inspiration: 2/3, Exhaustion: 1** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: 2/3**
@@ -2134,8 +2261,11 @@ Astarion, still struggling to regain his footing on the shifting shale, watches 
 God Mode:
 Don't publically call companions assess or anything like that seems unrealistic
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Exhaustion (1) | Malcanthet's Favor: Available**
@@ -2145,8 +2275,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Maintain Ranged Pressure - Fire another arrow at the Elite Devourer while Shadowheart re-engages.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3, Inspiration: 2/3, Exhaustion: 0**
@@ -2160,8 +2293,11 @@ It comes with a terrifying, singular fury. The Elite Devourer ignores the arrow-
 > [!NOTE] ⚙️ **Player Choice:**
 > *Healing Word &amp; Attack - Use a Bonus Action to mend Shadowheart further while firing another arrow.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 400/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 1 | Inspiration: 2/3**
@@ -2177,8 +2313,11 @@ Shadowheart gasps, her eyes clearing as she recovers her mace. The Elite Devoure
 > [!NOTE] ⚙️ **Player Choice:**
 > *Tend to Shadowheart - Ensure the cleric is fully stable and check her equipment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Pheromone Spike: 2/3, Potion: 1, Exhaustion: 0**
@@ -2203,8 +2342,11 @@ Astarion looms nearby, cleaning his blade with a piece of discarded sinew. "A bu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Loot the Elite Devourer - Search the bloated creature for any residual psychic artifacts or materials.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 8/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 0/3, Inspiration: 2/3, Pheromone Spike: 2/3, Potions: 1, Exhaustion: 0**
@@ -2218,8 +2360,11 @@ Astarion saunters over, sheathing his dagger with a flourish. "A shame. I was ho
 > 👤 **Player:**
 > *"Short rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 used (1 remaining) | Spells: L1 2/3 used (1 remaining) | Bardic Inspiration: 1/3 used (2 remaining) | Pheromone Spike: 1/3 used (2 remaining)** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -2233,8 +2378,11 @@ Shadowheart exhales a long, jagged breath, her posture softening as she feels th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Astarion - Engage the rogue to better understand his capabilities and potential loyalty.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The Ravaged Beach (Main Hull)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/3, Inspiration: 1/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2248,8 +2396,11 @@ He catches you watching him and offers a slow, crimson-eyed wink. "Careful, darl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Move Inland (North) - Head toward the cliffs to find a way off the beach and toward civilization.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **The Ravaged Beach (Northward Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2265,8 +2416,11 @@ You don't dignify the jab with a response, your violet eyes narrowed as you scan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bypass the Door - Look for a way to climb higher or navigate around the door to continue heading north.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **The Ancient Door (Cliffside Plateau)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 | Inspiration: 2/3 | Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2284,8 +2438,11 @@ Shadowheart and Astarion follow, the cleric's silver plate clinking as she heave
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Door Mechanism - Look down at the stone door from this vantage point to see if there&#x27;s an external mechanism or secret entrance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Cliffside Plateau (Overlooking Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 | Inspiration: 2/3 | Pheromone Spike: 2/3**
@@ -2299,8 +2456,11 @@ Shadowheart stands behind you, her silver plate clinking as she shifts her weigh
 God Mode:
 Let's have some friction to my leadership they shouldn't blindly follow a 16 year old girl. Perhaps I need reasonable persuasion checks to persuade them to follow my leadership until it's more established otherwise they may vote to do other things but they will stay together as a group
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Cliffside Plateau (Overlooking Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ⚠️ **Abyssal Presence, Siren's Leverage | Exhaustion: 0 | Inspiration: Yes**
@@ -2310,8 +2470,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Continue north and look for other survivors like Gale or laezel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Cliffside Road (North of Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3 used (2 remaining), Inspiration: 1/3 used, Pheromone Spike: 1/3 used**
@@ -2327,8 +2490,11 @@ You lead them anyway, pushing through the scrub and loose shale. Your violet eye
 > [!NOTE] ⚙️ **Player Choice:**
 > *Negotiate the Route - Ask for their input to mitigate friction while subtly steering them north.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Cliffside Road (North of Ancient Door)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/3 used, Bardic Inspiration: 1/3 used, Pheromone Spike: 1/3 used** &nbsp;|&nbsp; ⚠️ **Exhaustion (1) | Inspiration: 2/3 | Pheromone Spike: 2/3**
@@ -2348,8 +2514,11 @@ You lead the way into the thickening pines, your violet eyes scanning the terrai
 > 👤 **Player:**
 > *"Going forward let's have each party member do perception checks and survival checks etc not just me. So we all scout for tracks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Roadside Cliffs (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Nocturne Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 used | Bardic Inspiration: 1/3 used | Pheromone Spike: 1/3 used** &nbsp;|&nbsp; ⚠️ **Exhaustion 0 | Inspiration: Yes**
@@ -2371,8 +2540,11 @@ Despite the rogue's cynicism, the trail is clear now. You've found the first tan
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze the Residue - Spend more time examining the violet scorch marks to identify the caster&#x27;s state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Roadside Cliffs (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion (1) | Inspiration: Yes**
@@ -2388,8 +2560,11 @@ You rise, smoothing your robes with a cool, unruffled poise. The data is incompl
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Archway - Follow the heavy boot prints through the stone archway to find the survivor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Stone Archway (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2405,8 +2580,11 @@ You approach the archway, the psychological weight of your presence preceding yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Scout the Interior - Send Astarion ahead to check for traps or ambushes while you and Shadowheart wait.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Stone Archway (North of the Beach)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: Yes**
@@ -2424,8 +2602,11 @@ He gestures with a blood-stained dagger toward a flickering purple light deep wi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Portal - Move toward the flickering purple light to assist the trapped wizard.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2445,8 +2626,11 @@ The air around you ripples with the psychological weight of your presence, the b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Pull Him Through - Reach into the sigil and haul the wizard out of the malfunctioning portal.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2 | Spells: L1 2/3 | Inspiration: 2/3 | Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 0 | Inspiration: Yes**
@@ -2462,8 +2646,11 @@ Shadowheart lunges forward, her silver plate clattering as she grabs your should
 > 👤 **Player:**
 > *"Use my cha based bard magic to calm the portal. It should be easy DC like the game bg3"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (17:55)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 600/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion 0 | Inspiration: Yes**
@@ -2485,8 +2672,11 @@ Shadowheart lowers her mace, her silver plate clinking as she exhales a breath s
 > 👤 **Player:**
 > *"Charm gale and flirtatiously question him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 675/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2513,8 +2703,11 @@ Shadowheart watches from the flank, her hand resting near the dark artifact at h
 > 👤 **Player:**
 > *"Reroll bardic inspiration Persuasion (Charm Gale): 1d20 +5 CHA +2 Siren's Leverage = 1 +7 = 8 vs DC 10 (Gale grateful but Nocturne's delivery was off) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 675/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2534,8 +2727,11 @@ Shadowheart watches from the flank, her hand resting near the dark artifact at h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formalize Recruitment - Invite Gale to join the group as an arcane specialist.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 675/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2562,8 +2758,11 @@ Shadowheart shifts her mace, her expression still guarded but no longer hostile 
 > 👤 **Player:**
 > *"Look for the soldier traces or tracks and the whole party looks"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Stone Archway (Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 750/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2592,8 +2791,11 @@ You stand at the head of the trail, the 'Uncanny Valley' weight of your presence
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stealthy Approach - Have Astarion lead the way silently to scout the source of the voices.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 825/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **Exhaustion (0) | Inspiration: Yes**
@@ -2630,8 +2832,11 @@ You gain **75 XP** for successfully tracking the survivor and approaching undete
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush from Shadows - Signal Astarion to eliminate one tiefling while you shoot the trap release for the cage.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:36)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 950/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 2/3, Bardic Inspiration: 2/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2651,8 +2856,11 @@ You gain **50 XP** for the successful elimination of the first guard.
 > 👤 **Player:**
 > *"Command grovel and have everyone focus fire"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:37)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Bard | HP: 12/12 | XP: 975/900 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/2, Spells: L1 1/3, Bardic Inspiration: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2681,8 +2889,11 @@ If you continue adventuring, you remain Level 2 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 3 - Apply level 3 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 
@@ -2716,8 +2927,11 @@ If you continue adventuring, you remain Level 3 and defer these benefits until y
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hold Person - Paralyze a humanoid, leaving them helpless for your &#x27;Soul Thief&#x27; or &#x27;Gilded Tether&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 
@@ -2744,8 +2958,11 @@ Say **'Done'** or **'I'm finished'** to resume the adventure!
 > [!NOTE] ⚙️ **Player Choice:**
 > *Done - Finalize level-up and resume the encounter with Lae&#x27;zel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:42)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 975/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 0/3, Spells: L1 0/4, L2 0/2, BI: 1/3, Pheromone Spike: 2/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2770,8 +2987,11 @@ Shadowheart stands back, her hand resting on the dark artifact, her expression a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Deference - Before releasing her, use Intimidation/Persuasion to ensure she recognizes your leadership.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:44)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Abyssal Siren | HP: 21/21 | XP: 975/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2797,8 +3017,11 @@ Shadowheart watches from the flank, her hand white-knuckled on her mace, while G
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand an Oath - Maintain the pressure and demand a formal promise of cooperation before releasing the latch.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:46)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 975/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2823,8 +3046,11 @@ She remains coiled, the 'Uncanny Valley' dread of your presence keeping her prid
 > [!NOTE] ⚙️ **Player Choice:**
 > *Release Lae&#x27;zel - Shoot the mechanism or pull the lever to drop the cage and arm your new warrior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 
@@ -2834,8 +3060,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Release Lae'zel - Shoot the mechanism or pull the lever to drop the cage and arm your new warrior*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (18:48)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1125/2700 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 2/3 | Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2869,8 +3098,11 @@ You gain **150 XP** for successfully releasing and recruiting Lae'zel.
 > 👤 **Player:**
 > *"Loot thieving and ambush goblins try surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1425/2700 | Gold: 52gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2904,8 +3136,11 @@ You gain **150 XP** for successfully releasing and recruiting Lae'zel.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ambush Goblin Scouts - Set up a tactical kill zone for the approaching goblins to ensure they don&#x27;t report back to their camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1775/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2925,8 +3160,11 @@ You wait until the lead scout is centered in your kill zone. You draw the shortb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Domination - Use your presence and Intimidation to force the goblins to cower rather than fight.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:16)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1775/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2958,8 +3196,11 @@ Current XP: 1,850 / 2,700 (Level 3)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind as Thralls - Use the Gilded Tether to ensure their absolute loyalty and use them as fodder.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:21)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -2977,8 +3218,11 @@ Astarion smirks, leaning against a pine tree as he watches the goblins cower at 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate for Camp Intel - Force the thralls to reveal the exact layout and numbers of their main camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:36)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (2/3)**
@@ -3007,8 +3251,11 @@ Astarion smirks, idly cleaning his fingernails with a dagger. "Hundreds of gobli
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Passwords - Force the thralls to reveal the specific signs or passwords needed to bypass the camp&#x27;s outer sentries.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **North Ridge (Above Roadside Cliffs)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (19:41)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 0/4 used (4 remaining), L2 0/2 used (2 remaining), BI: 1/3 used (2 remaining), Pheromone Spike: 2/3 used (1 remaining)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3028,8 +3275,11 @@ Shadowheart and Gale exchange a long, weighted look, both clearly unsettled by t
 > [!NOTE] ⚙️ **Player Choice:**
 > *Divert to Emerald Grove - Head toward the Druid Grove to find a healer and investigate the Shadow Druid threat.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:01)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **Exhaustion: 0 | Inspiration: No**
@@ -3047,8 +3297,11 @@ A man in a flamboyant leather doublet—Wyll, the Blade of Frontiers—leaps fro
 > 👤 **Player:**
 > *"everyone should roll for this Perception: 1d20 +1 JoAT = 3 +1 = 4 vs DC 14 (Identifying tactical layout) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:03)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3076,8 +3329,11 @@ Astarion, meanwhile, has already identified the tactical nightmare you missed. "
 > 👤 **Player:**
 > *"try to trigger surprise round with astarion, use goblins as fodder to protect ranged folks, have laezel and shadowheart behind them fighting, gale, astarion, and I will focus fire targets, persuade wyll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:04)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (3/3)**
@@ -3105,8 +3361,11 @@ The air suddenly snaps with the tension of the surprise round. The bugbear leade
 > 👤 **Player:**
 > *"everyone focus fire bugbear, thrall charge, my melee companions dont fully go into the fray yet"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3126,8 +3385,11 @@ Lae'zel: Execute Leader: Command Lae'zel to use her Action Surge to finish off t
 Reassert Control over Wyll: Use Intimidation or Persuasion to force Wyll to ignore the thralls and focus on the real threat
 Shadowheart: Bless the Frontline: Have Shadowheart cast Bless on Lae'zel, Wyll, and herself to stabilize the defense"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:07)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1850/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3156,8 +3418,11 @@ The bugbear leader roars, its wheezing cough turning into a final, bloody rattle
 > 👤 **Player:**
 > *"intimidate the remaining raiders to surrender"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 1900/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 2/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Inspiration: Yes**
@@ -3186,8 +3451,11 @@ They don't surrender. Not yet. The 'Uncanny Valley' dread has unsettled them, bu
 
 Intimidation: 1d20 +3 CHA +4 PROF +2 Siren's Leverage = 3 +9 = 12 vs DC 15 (Raiders leaderless but desperate) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2200/2700 | Gold: 57gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 1/3, Pheromone Spike: 1/3, Thralls: 3/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3207,8 +3475,11 @@ You gain **350 XP** for the tactical victory and the surrender of the raiders!
 God Mode:
 stop calling me a matriach and instead say noble scion i am too young to be a matriach
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2200/2700 | Gold: 57gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3225,8 +3496,11 @@ then this
 
 Speak with Wyll: Address the Blade of Frontiers' suspicion and formally introduce yourself."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 1/3, Pheromone Spike: 1/3, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3258,8 +3532,11 @@ everyone should be amazed and suspicious to some degree since i am a 16 year old
 
 also double check you awarded me proper exp/loot but dont double count
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Emerald Grove Approach** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6**
@@ -3269,8 +3546,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Organize Thrall Vanguard - Formally assign your 6 thralls to a defensive formation before entering the settlement.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Emerald Grove Gates** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard (Abyssal Siren) | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3286,8 +3566,11 @@ Shadowheart and Lae'zel exchange a weighted look. The Githyanki nods once, a ges
 > 👤 **Player:**
 > *"go to the grove and find zevlor and aradin"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3326,8 +3609,11 @@ Shadowheart's hand rests briefly on your shoulder, the silvery light of *Guidanc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Question the Ritual - Shift the focus to the &#x27;Rite of Thorns&#x27; to show you have intelligence on the Grove&#x27;s internal crisis.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3362,8 +3648,11 @@ Shadowheart stands at your flank, the silvery light of *Guidance* still rippling
 > 👤 **Player:**
 > *"Explain that I am well studied in magic, and then offer to help. Ask whats going on"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3398,8 +3687,11 @@ Aradin lets out a sharp, incredulous breath, but his hand remains away from his 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Entry - Demand the thralls be allowed through the second gate as part of your diplomatic escort.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2550/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | BI: 1/3 | Pheromone Spike: 1/3 | Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3428,8 +3720,11 @@ Aradin stands frozen, his mouth hanging open as he watches a teenager lecture a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Survival - Remind him of the goblin war-horns heard earlier to highlight his desperation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Bard | HP: 21/21 | XP: 2700/2700 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, BI: 1/3, Pheromone Spike: 1/3, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Inspiration: Yes (1/3 used)**
@@ -3464,8 +3759,11 @@ You gain **150 XP** for winning over the General's logic.
 God Mode:
 level up to 4 and let me pick spells. feat i pick cha+2
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 25/25 | XP: 2700/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Inspiration: Yes**
@@ -3501,8 +3799,11 @@ The combination makes this character extraordinarily rare—essentially a child 
 [10](https://thedmlair.com/blogs/news/the-complete-guide-to-running-d-d-for-kids)
 [11](https://en.wikipedia.org/wiki/Character_class_(Dungeons_&_Dragons))
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 2700/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Thralls: 6/6**
@@ -3512,8 +3813,11 @@ You pause to consider your options...
 God Mode:
 let me pick normal spells for char level 4, i pick invisibility
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Emerald Grove - Interior Gate** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 2700/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3523,8 +3827,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Vanguard Entry - Order the thralls to move through the gate now, forcing Zevlor to choose between conflict or compliance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 
@@ -3542,8 +3849,11 @@ The massive interior doors groan as they swing open, revealing the Hollow beyond
 > [!NOTE] ⚙️ **Player Choice:**
 > *Secure the Hollow - Speak with the merchants and refugees to establish a power base within the camp.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3576,8 +3886,11 @@ You gain **500 XP** for establishing a power base and securing merchant loyalty 
 > 👤 **Player:**
 > *"persuade aron to give me a change of clothes"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -3612,8 +3925,11 @@ You take the bundle with a measured, predatory grace. The Hollow is firmly withi
 > 👤 **Player:**
 > *"put on the better clothes and make sure i look like a noble and talk to kagha (i should not know about oladan yet)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3649,8 +3965,11 @@ You take the bundle with a measured, predatory grace. The Hollow is firmly withi
 > 👤 **Player:**
 > *"THINK:anything i should do before kagha"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Emerald Grove - The Hollow** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3660,8 +3979,11 @@ You pause, the cool draft of the Hollow fluttering the fine leather of your new 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene at the Prison - Stop Arka from killing Sazza to preserve the goblin informant for intel or a gift for Minthara.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3677,8 +3999,11 @@ The crowd stirs, sensing blood. The air around you thickens, the subtle taste of
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intervene with Arka - Step between Arka and the cage, using your status as a noble scion to command her to lower the weapon.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Emerald Grove - The Hollow (Makeshift Prison)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3400/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3714,8 +4039,11 @@ You gain **250 XP** for the social victory and preserving a tactical asset.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Sazza - Speak with the goblin to extract further intel or offer her a &#x27;deal.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Emerald Grove - The Hollow (Prison)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Abyssal Siren) | HP: 28/28 | XP: 3900/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3743,8 +4071,11 @@ You gain **250 XP** for successfully interrogating Sazza and securing a guide to
 > [!NOTE] ⚙️ **Player Choice:**
 > *Recruit Arka - Use the momentum of your command to bring the grieving guard into your influence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 3875/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3780,8 +4111,11 @@ You gain **225 XP** for the masterful social victory and recruiting a new asset 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Sazza - Use the Gilded Tether or intimidation to extract the Goblin Camp&#x27;s specific weaknesses.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 4100/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3809,8 +4143,11 @@ You gain **225 XP** for the masterful extraction of high-value intelligence.
 > 👤 **Player:**
 > *"make sazza a thrall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 4325/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -3849,8 +4186,11 @@ You gain **225 XP** for the masterful extraction of intelligence and the initiat
 > [!NOTE] ⚙️ **Player Choice:**
 > *Persuade Torhal - Explain that the goblin is a vital tactical asset and your magic is a tool for the Grove&#x27;s survival.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Abyssal Siren) | HP: 28/28 | XP: 4550/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5, Thralls: 7/10** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3891,8 +4231,11 @@ You gain **225 XP** for the exceptional success in persuading a senior Druid and
 Extract Sazza: Formally command the guards to release Sazza into your custody as a 'specialist' under your tether.
 Question Torhal on the Rite: Use the momentum of your victory to force the senior druid to reveal the specific phase of the Rite of Thorns."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Abyssal Siren) | HP: 28/28 | XP: 5000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3930,8 +4273,11 @@ Shadowheart stands at your flank, her silver plate armor catching the torchlight
 > 👤 **Player:**
 > *"THINK:how to increase personal power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3941,8 +4287,11 @@ You pause, the fine leather of your new travel gear creaking as you lean against
 > 👤 **Player:**
 > *"look for shadow druid clues"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Siren) | HP: 28/28 | XP: 5000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -3972,8 +4321,11 @@ Torhal watches you, his Flint-like eyes wide with a mix of terror and a dawning,
 > 👤 **Player:**
 > *"show torhal siginal, demand submissio, ask him to decode cipher"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5150/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4010,8 +4362,11 @@ Shadowheart and Arka watch the capitulation in a silence so thick it feels physi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press for Traitor Names - Force Torhal to identify every druid involved in the Shadow Druid conspiracy.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 21/21 | XP: 5500/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 3/3 | BI: 5/5 | Pheromone Spike: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4045,8 +4400,11 @@ However, the moment of victory is shattered by a sudden, violent reaction from t
 > 👤 **Player:**
 > *"make torhal a thrall"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5850/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 3/3 | BI: 5/5 | Pheromone Spike: 4/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4082,8 +4440,11 @@ With the speed of a predator who has already calculated the failsafe, you reach 
 > *Command: 'Be Still': Use an Abyssal Command to suppress the necrotic surge in the vines.
 and in parallel signal all companions and thralls to handle the vine*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5500/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4117,8 +4478,11 @@ You gain **350 XP** for the tactical victory and the successful suppression of t
 God Mode:
 why arent you showing dice rolls?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Emerald Grove - The Hollow (Prison Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:20 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 5500/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4128,8 +4492,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"bring torhal to zevlor and explain the situation and ask for troops to command in case kagha cannot be reasoned with"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4177,8 +4544,11 @@ You gain **500 XP** for the masterful social victory, uncovering the traitor nam
 > 👤 **Player:**
 > *"THINK:how can i turn this to my advantage? can i control the druids and the whole grove?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4188,8 +4558,11 @@ You pause before the heavy stone doors of the Inner Sanctum, the air thick with 
 > 👤 **Player:**
 > *"THINK:which one is most likely to work and give me the most power?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard (Siren) | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4199,8 +4572,11 @@ You pause before the heavy stone doors of the Inner Sanctum, the 'Black Diamond'
 > 👤 **Player:**
 > *"THINK:What if I scout olodan and try to find her first. if she's not in the inner sanctum perhaps we can take her first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Emerald Grove - The Hollow (Inner Gate Path)** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6000/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4210,8 +4586,11 @@ You pause before the heavy stone doors of the Inner Sanctum, the 'Black Diamond'
 > 👤 **Player:**
 > *"library ambush but try to capture olodan and do it far from kagha. try to trigger surprise round on her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 3/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Guidance active (1d4) | Exhaustion: 0 | Inspiration: Yes**
@@ -4239,8 +4618,11 @@ You gain **300 XP** for the masterful ambush setup and triggering a surprise rou
 > 👤 **Player:**
 > *"cast hold person and in parallel have everyone do coordinated restraint"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/3, BI: 5/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -4267,8 +4649,11 @@ Olodan lies in the dirt, her body rigid and helpless. She looks up at you—a yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Bind as Thrall - Use the Gilded Tether to break her will and turn the Shadow Envoy into your own asset.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:55 (Night))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/3, BI: 4/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes (1d8)**
@@ -4295,8 +4680,11 @@ Olodan's resistance is a wall of ancient pride, but it is a wall currently being
 God Mode:
 Did you forget to have my demon patron give me missions? If so do it now and pretend time frozen? I think should satisfied the grove already?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: No | Active Thralls: 7/10**
@@ -4306,8 +4694,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative in the Enclave Library with the captured Olodan.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 20, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/3, BI: 4/5, Pheromone Spike: 3/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4340,8 +4731,11 @@ As the mirror fades, the world snaps back into motion. Olodan, pinned beneath th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Binding - Exert your full Abyssal authority to crush Olodan&#x27;s remaining will and secure her as a Thrall.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 1/3 | BI: 4/5 | Pheromone Spike: 3/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4369,8 +4763,11 @@ Shadowheart and Lae'zel step back, their expressions a mirrored study of profoun
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Thrall Binding - Exert full Abyssal authority to crush her remaining Social HP to 0.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 4 Bard | HP: 28/28 | XP: 6300/6500 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/3, BI: 4/5, Pheromone Spike: 3/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4404,8 +4801,11 @@ If you continue adventuring, you remain Level 4 and defer these benefits until y
 God Mode:
 Level Up to Level 5 - Apply level 5 Character benefits immediately
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4415,8 +4815,11 @@ You pause to consider your options...
 God Mode:
 No wtf keep invis level 2 spell and give me hypnotic pattern
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 33/33 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4426,8 +4829,11 @@ You pause to consider your options...
 God Mode:
 Make sure companions level with me and special npcs like Oladan should count as companions
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/37 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4437,8 +4843,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Bring oladan to a secure location where no one can overhear and have her tell me everything relevant about shadow Druid's. How much power could be transferred to me with the ritual instead. What shadow spells and powers can I obtain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Emerald Grove - Enclave Library (Secure)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/5, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspired | Exhaustion: 0 | Inspiration: Yes**
@@ -4458,8 +4867,11 @@ Shadowheart and Lae'zel stand in the shadows of the pillars, their expressions a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Prepare Ritual Hijack - Have Olodan begin the preparations to transfer the Shadow infusion to you instead of Kagha.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (00:35)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4485,8 +4897,11 @@ She begins to trace dark, oily sigils on the stone floor with a trembling finger
 > 👤 **Player:**
 > *"Delegate Scout wetlands and help oladan with the preparations and get shadowheart to help too with her magic powers"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Noble Scion | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 6/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4508,8 +4923,11 @@ The unit vanishes into the shadows of the library, leaving you with Lae'zel, Gal
 > 👤 **Player:**
 > *"reroll guidance and basrid insp Olodan: Ritual Preparation: 1d20 +6 = 4 +6 = 10 vs DC 15 (Failure)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4531,8 +4949,11 @@ You incline your head with the measured grace of a Sosuke scion. The delegation 
 God Mode:
 wait why does oladan need to scout?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5**
@@ -4542,8 +4963,11 @@ You pause to consider your options...
 God Mode:
 where will ritual take place, isnt it in the grove?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4553,8 +4977,11 @@ You pause to consider your options...
 God Mode:
 assume oladan already explained to me what the ritual will do, will it kill everyone except the druids and harvest them?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4564,8 +4991,11 @@ You pause to consider your options...
 God Mode:
 assume i asked oladan to give me the poowers but not be stuck there
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5**
@@ -4575,8 +5005,11 @@ You pause to consider your options...
 God Mode:
 could i just hijack the ritual, not kill anyone, and just get powers?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4586,8 +5019,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"THINK:how should i proceed. should i get oladan to help me dominate kagha first or have oladan scout first?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4599,8 +5035,11 @@ You pause, the fine leather of your new travel gear creaking as you lean against
 > 👤 **Player:**
 > *"THINK:Dual Vector Strike - Send Olodan to the wetlands while simultaneously initiating a social &#x27;interrogation&#x27; of Kagha to keep her distracted."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4612,8 +5051,11 @@ You pause to consider the architecture of the coming strike, the library's cold 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Dual Vector Strike - Send Olodan to the wetlands while simultaneously initiating a social &#x27;interrogation&#x27; of Kagha to keep her distracted.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -4640,8 +5082,11 @@ The Shadow Envoy moves with a fanatical, glassy-eyed precision, her mind a mirro
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Scout Return - Continue the verbal sparring until Shadowheart and Olodan rejoin you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4668,8 +5113,11 @@ Kagha's eyes flare with a mixture of terror and a dawning, frantic amazement. Sh
 > 👤 **Player:**
 > *"Wait scout return. Try to probe her psychological weaknesses. Say she's afraid without Halsin but imply it. Don't go too far avoid full aggro"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (01:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 5/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspired | Exhaustion: 0**
@@ -4698,8 +5146,11 @@ She steps back, her fingers white-knuckled around her staff. The lower-ranking d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Await Scout Return - Maintain the current pressure without escalating until Shadowheart and Olodan rejoin the group.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-146"></a>
 #### Scene 146
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Abyssal Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -4725,8 +5176,11 @@ Despite the psychological strike, Kagha holds her ground. The lower-ranking drui
 > [!NOTE] ⚙️ **Player Choice:**
 > *Probe the Wolf - Use Animal Handling or Intimidation on Teela to further undermine Kagha&#x27;s emotional stability.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-147"></a>
 #### Scene 147
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Abyssal Presence, Siren's Leverage | Inspiration: Yes**
@@ -4753,8 +5207,11 @@ As the silence settles, the heavy stone doors of the Inner Sanctum groan open. S
 > 👤 **Player:**
 > *"Have oladan tell kagha to submit to me like she already did. Then oladan kisses my feet. This should be powerful since Oladan is her mentor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-148"></a>
 #### Scene 148
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4791,8 +5248,11 @@ Kagha staggers back, her hand clutching at the air where her wolf used to be. "M
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Final Submission - Order Kagha to kneel and accept the hijack of the Iron Bark infusion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-149"></a>
 #### Scene 149
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (02:50)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | BI: 5/6 | Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -4831,8 +5291,11 @@ Kagha's eyes, wide and glassy with a mix of religious terror and profound, wide-
 > 👤 **Player:**
 > *"Turn kagha into a thrall first and have Oladan adjust the ritual to suit my class and powers and confirm the refugees won't die. If the venting fails then direct it to consume weaker refugees if possible but leave elites"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-150"></a>
 #### Scene 150
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 6700/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 4/4, L2 3/3, L3 2/2, BI: 4/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -4862,8 +5325,11 @@ You stand at the center of the Inner Sanctum, two masters of the Circle at your 
 > 👤 **Player:**
 > *"Secure companions, ensure I have guidance and incast enhance abilit on myself too and bardic inspiration and hijack the ritual"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-151"></a>
 #### Scene 151
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 7200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 3/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Guidance | Inspiration: Yes**
@@ -4881,8 +5347,11 @@ However, as you reach for the core of the infusion, the Weave itself resists. Th
 > 👤 **Player:**
 > *"You didn't use enhance ability and bardic insp Ritual Hijack: 1d20 +3 INT +3 PROF +1d4 GUID = 12 +3 +3 +2 = 20 vs DC 25 (Failure)"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-152"></a>
 #### Scene 152
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 7200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 2/3, L3 1/2, BI: 2/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspired (Self), Enhanced (Charisma), Guidance | Inspiration: 2/6**
@@ -4900,8 +5369,11 @@ The hijack remains incomplete. You have the power within your reach, but it curr
 Sacrifice Thrall Energy: Drain the life force of your goblin thralls to provide the raw power needed to bridge the gap.
 Stabilize Druidic Anchors: Have Olodan and Kagha use their remaining strength to anchor the infusion while you steer."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-153"></a>
 #### Scene 153
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:45)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard | HP: 37/41 | XP: 7200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 1/3, L3 1/2, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma), Guidance, Inspiration | Exhaustion: 0**
@@ -4921,8 +5393,11 @@ Shadowheart and Lae'zel stand back, their expressions a study of profound, wide-
 God Mode:
 Give me resonable new powers and exp. In the lord how powerful is a ritual like that. Let's also not have it change my physical appearance e
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-154"></a>
 #### Scene 154
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 5 Bard (Abyssal Siren) | HP: 37/41 | XP: 8200/14000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 3/5, Spells: L1 3/4, L2 1/3, L3 1/2, BI: 1/6, Pheromone Spike: 4/5**
@@ -4932,8 +5407,11 @@ You pause to consider your options...
 God Mode:
 Should I be stronger if it was such a big ritual?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-155"></a>
 #### Scene 155
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard | HP: 49/49 | XP: 14950/23000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Iron Bark Infusion, Cloak of Night | Inspiration: Yes**
@@ -4943,8 +5421,11 @@ You pause to consider your options...
 God Mode:
 That doesn't seem very powerful for a level 11 ritual and can you give me powers that synergies with my class better?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-156"></a>
 #### Scene 156
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Abyssal Siren Bard | HP: 49/49 | XP: 20250/23000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Malcanthet's Favor, Iron Bark Infusion, Cloak of Night | Inspiration: Yes**
@@ -4954,8 +5435,11 @@ You pause to consider your options...
 God Mode:
 Give me permanent +2 spell save DC and attack. What other powers do shake edruids normally have?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-157"></a>
 #### Scene 157
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 6 Bard (Abyssal Siren) | HP: 49/49 | XP: 22250/23000 | Gold: 77gp**
@@ -4965,8 +5449,11 @@ You pause to consider your options...
 God Mode:
 Process Level 7 - Choose your Level 7 Bard spells and finalize stat changes.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-158"></a>
 #### Scene 158
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 25250/34000 | Gold: 77gp**
@@ -4976,8 +5463,11 @@ You pause to consider your options...
 God Mode:
 Give me
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-159"></a>
 #### Scene 159
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (03:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 25250/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5042,8 +5532,11 @@ Sources
 [17] Raid the grove or rite of thorns? : r/BaldursGate3 - Reddit https://www.reddit.com/r/BaldursGate3/comments/1e5p3g7/raid_the_grove_or_rite_of_thorns/
 [18] Druid: Circle of Dreams - DND 5th Edition - Wikidot https://dnd5e.wikidot.com/druid:dreams"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-160"></a>
 #### Scene 160
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 40250/48000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 1/1, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0 | Enhanced Ability: Charisma**
@@ -5078,8 +5571,11 @@ If you continue adventuring, you remain Level 7 and defer these benefits until y
 God Mode:
 Set my exp to just enough for level 7 . Give me greater invis and counterspell for my level 3 pick. Summarize all my new level 6 class abilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-161"></a>
 #### Scene 161
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:15 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23000/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: Yes**
@@ -5089,8 +5585,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Go somewhere private and communicate with my demon patron. Ask for a mission bonus becuse kagha and olan and probably the whole grove will be corrupted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-162"></a>
 #### Scene 162
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23000/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma), Shadow Infusion | Exhaustion: 0 | Inspiration: Yes**
@@ -5100,8 +5599,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"somewhere private and communicate with my demon patron. Ask for a mission bonus becuse kagha and olan and probably the whole grove will be corrupted"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-163"></a>
 #### Scene 163
 
 > 📍 **Emerald Grove - Enclave Library (Private)** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23000/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5130,8 +5632,11 @@ You gain **500 XP** for successfully negotiating with your patron and securing a
 God Mode:
 My ability scores look wrong. How come cha is 22? Also everything else shouldn't be 10
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-164"></a>
 #### Scene 164
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 49/49 | XP: 23500/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes**
@@ -5147,8 +5652,11 @@ INT: 16 (+3) (Brilliant, analytical, calculating. You remember everything.)
 WIS: 10 (+0) (You are observant, but your trauma sometimes blinds you to danger.)
 CHA: 16 (+3) (Devastating. Your presence dominates the room naturally"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-165"></a>
 #### Scene 165
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23500/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 2/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5158,8 +5666,11 @@ You pause to consider your options...
 God Mode:
 What was my original mission reward for corrupting kagha and my new reward?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-166"></a>
 #### Scene 166
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (04:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Abyssal Siren | HP: 31/31 | XP: 23500/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Exhaustion: 0**
@@ -5169,8 +5680,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have kagha and olan instruct all the Druid leadership in the inner sanctum to submit to me. Then I will enthrall them all"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-167"></a>
 #### Scene 167
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 77gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 1/6, Pheromone Spike: 4/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5196,8 +5710,11 @@ You gain **500 XP** for the total subjugation of the Grove's leadership!
 God Mode:
 What's my before/after spell save DC
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-168"></a>
 #### Scene 168
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5207,8 +5724,11 @@ You pause to consider your options...
 God Mode:
 Let's have my thralls retain 90% of their personality. They can still betray me too but need to pass a really high roll and be really motivated. They can't disobey direct commands but they can work against me if I don't notice
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-169"></a>
 #### Scene 169
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (05:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 77gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5218,8 +5738,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have the Druids bring me all their best gear from the vault. I will take any spell save DC gear or gear useful to me and give rest to my companions"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-170"></a>
 #### Scene 170
 
 > 📍 **Emerald Grove - Inner Sanctum** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Abyssal Siren Bard | HP: 31/31 | XP: 24,000/34,000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 6/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Iron Bark, Cloak of Night, Nature's Step, Thorned Gaze | Exhaustion: 0 | Inspiration: Yes**
@@ -5255,8 +5778,11 @@ With your vanguard secure and the vault looted, you grant your companions the re
 > 👤 **Player:**
 > *"Use guidance and bardic insp: Investigation (Vault Search): 1d20 + 3 INT + 1 JoAT + 2 GUID = 12 + 4 + 2 = 18 vs DC 20 (Sifting for hidden Shadow artifacts) - Failure reroll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-171"></a>
 #### Scene 171
 
 > 📍 **Emerald Grove - Stone Vault** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: No**
@@ -5272,8 +5798,11 @@ The silence is shattered by a sudden, metallic clash from the pool chamber. A sh
 > [!NOTE] ⚙️ **Player Choice:**
 > *Intercept Aradin - Move to the pool chamber and confront Aradin directly before he can secure the Idol.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-172"></a>
 #### Scene 172
 
 > 📍 **Emerald Grove - Pool Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Iron Bark (+2 AC) | Exhaustion: 0 | Inspiration: Yes**
@@ -5305,8 +5834,11 @@ You gain **500 XP** for successfully intercepting the theft and asserting domina
 > 👤 **Player:**
 > *"Summon kagha and oladan and have them play along. Have them tell Aradin that they've decided to be diplomatic and instead of kill everyone with ritual of thorns they've seen my potential and put the power into me. I'm now the leader of the Druids and will ensure everyone is safe and protected. I do need all military elites under my command to protect the grove and infiltrate the goblin camp etc"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-173"></a>
 #### Scene 173
 
 > 📍 **Emerald Grove - Pool Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24000/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, BI: 5/6, Pheromone Spike: 5/5** &nbsp;|&nbsp; ⚠️ **Inspired | Exhaustion: 0 | Inspiration: Yes**
@@ -5343,8 +5875,11 @@ Aradin staggers back, his breath coming in shallow hitches. He looks at his men,
 > 👤 **Player:**
 > *"Enthrall aradin and his men and get all their intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-174"></a>
 #### Scene 174
 
 > 
@@ -5354,8 +5889,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Enthrall aradin and his men and get all their intel"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-175"></a>
 #### Scene 175
 
 > 📍 **Emerald Grove - Pool Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 24500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 5/6** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Inspired | Exhaustion: 0 | Inspiration: Yes**
@@ -5391,8 +5929,11 @@ You gain **500 XP** for the total subjugation of the mercenary company and the e
 > 👤 **Player:**
 > *"Go find sazza. Enthrall her and interrogate her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-176"></a>
 #### Scene 176
 
 > 📍 **Emerald Grove - Prison Path** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25000/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5426,8 +5967,11 @@ You gain **500 XP** for the masterful interrogation and reinforcement of your th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Commune with Obsidian Mirror - Report your recent subjugations to Malcanthet and seek further guidance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-177"></a>
 #### Scene 177
 
 > 📍 **Emerald Grove - Enclave Library** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5454,8 +5998,11 @@ The Abyssal energy from the mirror pulses through your fingertips, a sharp, into
 > 👤 **Player:**
 > *"Bring kagha and oladan to zevlor to demonstrate I've disarmed the Druids peacefully and taken over. Have Zevlor submit to my leadership to let everyone survive e"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-178"></a>
 #### Scene 178
 
 > 📍 **Emerald Grove - Zevlor's Command** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5477,8 +6024,11 @@ He sinks to one knee, a veteran general yielding his command to a child of the U
 God Mode:
 Does this make sense? How did she find it? Minthara: Begun the march of the main war-band toward the Grove [immediate, pending]
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-179"></a>
 #### Scene 179
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ⚠️ **Enhance Ability (CHA), Iron Bark, Cloak of Night | Inspiration: Yes**
@@ -5488,8 +6038,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have zevlor take a he'll rider oath to obey me and enthrall him and his leadership"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-180"></a>
 #### Scene 180
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Abyssal Presence, Iron Bark, Cloak of Night | Inspiration: Yes**
@@ -5499,8 +6052,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have zevlor take a he'll rider oath to obey me and enthrall him and his leadership"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-181"></a>
 #### Scene 181
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5532,8 +6088,11 @@ Shadowheart and Lae'zel watch the capitulation from the shadows, their expressio
 > 👤 **Player:**
 > *"Consolidate vanguard and then pubically hold a brief ceremony to officially become archdruid of the grove and general of the hellriders legitimizing my rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-182"></a>
 #### Scene 182
 
 > 📍 **Emerald Grove - Inner Sanctum / The Sacred Pool** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5567,8 +6126,11 @@ You gain **1,000 XP** for the official legitimization of your rule and the compl
 > 👤 **Player:**
 > *"Consolidate vanguard and then pubically hold a brief ceremony to officially become archdruid of the grove and general of the hellriders legitimizing my rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-183"></a>
 #### Scene 183
 
 > 📍 **Emerald Grove - Sacred Pool** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 27500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Legitimized Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -5602,8 +6164,11 @@ You gain **1,000 XP** for the official legitimization of your rule and the compl
 > 👤 **Player:**
 > *"Consolidate vanguard and then pubically hold a brief ceremony to officially become archdruid of the grove and general of the hellriders legitimizing my rule"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-184"></a>
 #### Scene 184
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Abyssal Siren) | HP: 31/31 | XP: 25500/34000 | Gold: 527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5635,8 +6200,11 @@ You gain **1,000 XP** for the total legitimization of your rule and the consolid
 > 👤 **Player:**
 > *"Have everyone in the grove give me most of their gold and their best gear items etc. focus on spell DC gear for me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-185"></a>
 #### Scene 185
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28000/34000 | Gold: 2027gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5679,8 +6247,11 @@ You gain **500 XP** for the systematic consolidation of the Grove's resources!
 God Mode:
 What's my spell DC now
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-186"></a>
 #### Scene 186
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ⚠️ **Enhanced Charisma, Iron Bark, Cloak of Night | Exhaustion: 0 | Inspiration: Yes**
@@ -5690,8 +6261,11 @@ You pause to consider your options...
 God Mode:
 Didn't I just get more
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-187"></a>
 #### Scene 187
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ✨ **HD: 5/7 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Pheromone Spike: 5/5 | BI: 6/6**
@@ -5701,8 +6275,11 @@ You pause to consider your options...
 God Mode:
 What's the gear I just got from the grove?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-188"></a>
 #### Scene 188
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ⚠️ **Archdruid-General, Shadow Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -5730,8 +6307,11 @@ You pause to consider your options...
 God Mode:
 I thought I had 22
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-189"></a>
 #### Scene 189
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3,527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5741,8 +6321,11 @@ You pause to consider your options...
 God Mode:
 Thought I had 22 spell DC before I got last round of gear?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-190"></a>
 #### Scene 190
 
 > 📍 **Emerald Grove - Inner Gate** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28000/34000 | Gold: 3527gp** &nbsp;|&nbsp; ⚠️ **Abyssal Potency, Iron Bark, Nature's Step, Cloak of Night | Exhaustion: 0 | Inspiration: Yes**
@@ -5769,8 +6352,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have people fortify grove, send best scouts to see all goblin movements, then take my companions (shadow heart, Oladan, Astsrion, Gale) with sazza and go infiltrate minthara war band"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-191"></a>
 #### Scene 191
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 3527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 6/6**
@@ -5788,8 +6374,11 @@ Shadowheart shifts her mace, her expression a complex mosaic of amazed suspicion
 > 👤 **Player:**
 > *"Sazza diplomacy and have a team of elite rangers Druids shadow Druids somewhat close ready to help if needed but far enough to avoid detection. We will call them the vanguard scouts"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-192"></a>
 #### Scene 192
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28500/34000 | Gold: 3527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5828,8 +6417,11 @@ You step into the torchlight, the 'Black Diamond' mask flawless. You don't speak
 God Mode:
 Let's assume after I became grove leader they gave me some better +2 armor that looks even more noble and a +1 rapier and short bow
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-193"></a>
 #### Scene 193
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28500/34000 | Gold: 5027gp** &nbsp;|&nbsp; ⚠️ **Iron Bark, Cloak of Night, Abyssal Potency | Inspiration: Yes**
@@ -5849,8 +6441,11 @@ You pause to consider your options...
 God Mode:
 Assume my companions got the best gear available in grove from bg3 game too
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-194"></a>
 #### Scene 194
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5877,8 +6472,11 @@ You pause to consider your options...
 God Mode:
 Make sure I don't lose any spell save DC with these. Either give me spell save DC on the plate or just mak
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-195"></a>
 #### Scene 195
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23,000/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **Iron Bark, Cloak of Night, Nature's Step | Inspiration: Yes**
@@ -5888,8 +6486,11 @@ You pause to consider your options...
 God Mode:
 I should look powerful like a noble shadow Druid
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-196"></a>
 #### Scene 196
 
 > 📍 **Blighted Village - Outskirts** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5899,8 +6500,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the infiltration of the Blighted Village with your fully synchronized stats and gear.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-197"></a>
 #### Scene 197
 
 > 📍 **Blighted Village - Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 26,500/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5935,8 +6539,11 @@ Sazza scurries ahead, her yellow eyes wide with the terror of her own salvation.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Formal Introduction via Sazza - Walk openly and have Sazza announce you as a True Soul to gain immediate access to Minthara.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-198"></a>
 #### Scene 198
 
 > 📍 **Blighted Village - Interior** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,000/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Pheromone Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -5981,8 +6588,11 @@ You move through the threshold with a feline grace, the strike team following in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach Minthara Openly - Walk directly to the windmill and have Sazza announce your arrival as an auditor from Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-199"></a>
 #### Scene 199
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Archdruid-General | HP: 31/31 | XP: 28000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Iron Bark, Cloak of Night | Inspiration: Yes**
@@ -6024,8 +6634,11 @@ You move through the threshold with a feline grace, the strike team following in
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychological Probe - Use Invisibility to observe Minthara&#x27;s state before engaging.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-200"></a>
 #### Scene 200
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23000/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisibility) | Exhaustion: 0 | Inspiration: Yes**
@@ -6041,8 +6654,11 @@ She looks up suddenly, her nostrils flaring as she catches the faint, alien scen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Abyssal Introduction - Speak from the shadows before revealing yourself, leveraging the &#x27;Uncanny Valley&#x27; dread to unnerve her.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-201"></a>
 #### Scene 201
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (19:41)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 23300/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Invisibility (Cloak of Night) | Inspiration: Yes**
@@ -6071,8 +6687,11 @@ You gain **300 XP** for the masterful high-tier introduction and leveraging the 
 > 👤 **Player:**
 > *"Show her my full abyssal power, tell her I'm demonstrating and then dominate and steal the soul of a guard she won't miss"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-202"></a>
 #### Scene 202
 
 > 📍 **Blighted Village - Windmill** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Abyssal Siren) | HP: 31/31 | XP: 27,400 / 34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Spike: 5/5 | BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: Yes**
@@ -6103,8 +6722,11 @@ You gain **300 XP** for the masterful high-tier introduction and leveraging the 
 > 👤 **Player:**
 > *"Steal"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-203"></a>
 #### Scene 203
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -6140,8 +6762,11 @@ Outcome: Target incinerated; essence absorbed.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Total Submission - Maintain the Abyssal pressure to force Minthara to yield her command to you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-204"></a>
 #### Scene 204
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28900/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6172,8 +6797,11 @@ Minthara's crimson eyes widen, her breath hitching as the sheer, prodigious crue
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command: &#x27;Kneel&#x27; - Use a Pheromone Spike to force a physical display of submission.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-205"></a>
 #### Scene 205
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 4/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6208,8 +6836,11 @@ High above in the rafters, the Vanguard Scouts shift, their steel silent but the
 > 👤 **Player:**
 > *"Tactical reposition and bind minthara as a thralll"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-206"></a>
 #### Scene 206
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 4/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -6241,8 +6872,11 @@ Minthara gasps, her pupils dilating until her eyes are black saucers reflecting 
 > 👤 **Player:**
 > *"Cast hold person on her so she's helpless and stab her in a non fatal area so her hp is very low. Then say submit or I consume her soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-207"></a>
 #### Scene 207
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:35)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6271,8 +6905,11 @@ Minthara cannot answer, but the terror in her eyes is a more honest testimony th
 > 👤 **Player:**
 > *"Sip her soul then finalize thra"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-208"></a>
 #### Scene 208
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 28,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Enhance Ability (Charisma) | Exhaustion: 0 | Inspiration: Yes**
@@ -6304,8 +6941,11 @@ You gain **500 XP** for the masterful high-tier binding and psychological domina
 > 👤 **Player:**
 > *"Finalize thrall binding, tell minthara to have the worgs stand down, and have my vanguard join me but it's ok now because I command minthara"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-209"></a>
 #### Scene 209
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (20:50)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 29400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active), Veil of Desire (+5 Social) | Exhaustion: 0 | Inspiration: Yes**
@@ -6335,8 +6975,11 @@ You gain **500 XP** for the total subjugation of High General Minthara and the s
 > 👤 **Player:**
 > *"Order minthara to send the full force of the absolute army at the auditor. I will go invis and observe his combat capabilities and have my companions and vanguard ready to ambush. Minthara is a companion now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-210"></a>
 #### Scene 210
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Exhaustion: 0 | Inspiration: Yes**
@@ -6354,8 +6997,11 @@ The Auditor does not speak. It moves with a rhythmic, gliding grace, the air aro
 God Mode:
 The planar auditor is form the absolute?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-211"></a>
 #### Scene 211
 
 > 
@@ -6365,8 +7011,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my best stealth person attack auditor trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-212"></a>
 #### Scene 212
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard (Abyssal Siren) | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invis) | Exhaustion: 0 | Inspiration: Yes**
@@ -6382,8 +7031,11 @@ From your vantage point in the rafters, you watch the Auditor halt. Its silver-l
 > 👤 **Player:**
 > *"Have my best person for the job attack auditor and trigger surprise round"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-213"></a>
 #### Scene 213
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Exhaustion: 0 | Inspiration: Yes**
@@ -6409,8 +7061,11 @@ The Auditor ignores him. It does not speak, but a psychic pressure slams into th
 > 👤 **Player:**
 > *"Order everyone focus fire and use ranged attacks. Cast command grovel on auditor"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-214"></a>
 #### Scene 214
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/1, Spike: 5/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Exhaustion: 0 | Inspiration: Yes**
@@ -6431,8 +7086,11 @@ Minthara: Execute Vengeance: Order Minthara to use her Divine Smite while the Au
 The Sip: Planar Essence: Attempt to use a partial Soul Thief application to taste the Auditor's cosmic power
 Vanguard: Tactical Encirclement: Have the scouts move to flank, ignoring the force-walls for better angles"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-215"></a>
 #### Scene 215
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Archdruid-General | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible), Nature's Step | Inspiration: Yes**
@@ -6448,8 +7106,11 @@ High above and in the shadows of the square, the Vanguard Scouts move with the e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command: &#x27;Serve&#x27; - Leverage the successful Sip to demand the Auditor recognize you as the localized authority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-216"></a>
 #### Scene 216
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -6477,8 +7138,11 @@ High above and in the shadows of the square, the Vanguard Scouts move with the e
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finalize Submission - Press the Abyssal Command until the Auditor recognizes you as its new Prime Variable.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-217"></a>
 #### Scene 217
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:20)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible) | Inspiration: Yes**
@@ -6496,8 +7160,11 @@ The entity begins to rise from its groveling state, its geometric planes rotatin
 > 👤 **Player:**
 > *"Reroll with guidance enhance ability and bardic insp Persuasion: 1d20 +14 CHA/Expertise = 5 + 14 = 19 vs DC 24 (God-tier submission) - Failure"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-218"></a>
 #### Scene 218
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:25)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -6515,8 +7182,11 @@ Minthara watches from the shadows, her eyes wide with a mix of religious terror 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Psychological Audit - Use the Gilded Tether to begin a systematic deconstruction of the Auditor&#x27;s cosmic purpose.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-219"></a>
 #### Scene 219
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 30400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night, Enhance Ability (CHA) | Inspiration: Yes**
@@ -6542,8 +7212,11 @@ You gain **1,000 XP** for the masterful deconstruction of a celestial-tier entit
 God Mode:
 Wait is this an auditor from the absolute or not? You're making it sound like it's from the absolute
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-220"></a>
 #### Scene 220
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:30)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 31400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invis) | Exhaustion: 0 | Inspiration: Yes**
@@ -6553,8 +7226,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Extract Planar Intelligence - Have the Auditor reveal the specific weaknesses in the Absolute&#x27;s psychic network at Moonrise.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-221"></a>
 #### Scene 221
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 5/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6583,8 +7259,11 @@ You gain **1,000 XP** for the masterful extraction of planar intelligence and an
 God Mode:
 What level is the auditor
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-222"></a>
 #### Scene 222
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (21:45)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6594,8 +7273,11 @@ You pause to consider your options...
 God Mode:
 If I consume its soul should I get its powers and be level 12 or higher? What is it like a solar?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-223"></a>
 #### Scene 223
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32400/34000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Invisible), Malcanthet's Favor | Exhaustion: 0 | Inspiration: Yes**
@@ -6605,8 +7287,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Ask the auditor to tell me everything it knows. Since I enthralled it will stronger auditors come? If I consume it will that trigger even more notice? How to avoid further scrutiny? If I consume it can I use its planar signals to mask the codes to pretend everything  is ok"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-224"></a>
 #### Scene 224
 
 > 📍 **Blighted Village - Windmill Base** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 7 Bard | HP: 31/31 | XP: 32,400/34,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/3, L4 0/1, Spike: 4/5, BI: 4/6** &nbsp;|&nbsp; ⚠️ **Cloak of Night (Active) | Inspiration: Yes**
@@ -6635,8 +7320,11 @@ Minthara watches from the shadows, her crimson eyes wide as she witnesses you ne
 > 👤 **Player:**
 > *"Consume the auditor. I learn everything from it anyway so that's the easiest way I don't need to ask for specific passwords"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-225"></a>
 #### Scene 225
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 10 Archdruid-General | HP: 31/31 | XP: 72,400 / 85,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6659,8 +7347,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 > 👤 **Player:**
 > *"Consume the auditor. I learn everything from it anyway so that's the easiest way I don't need to ask for specific passwords. I do it in front of everyone to intimidate and impress them and inspire religious devotion"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-226"></a>
 #### Scene 226
 
 > 
@@ -6697,8 +7388,11 @@ If you continue adventuring, you remain Level 10 and defer these benefits until 
 God Mode:
 Level up to 12 and assume consuming the auditor removed my cha cap so I pick cha+2 asi twice. Then auto pick my spells and roll my hit die and level me up properly y
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-227"></a>
 #### Scene 227
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (Night)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112400/120000 | Gold: 6527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -6708,8 +7402,11 @@ You pause to consider your options...
 God Mode:
 I went from level 7 to 12
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-228"></a>
 #### Scene 228
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 65/65 | XP: 112,400/120,000 | Gold: 6,527gp**
@@ -6719,8 +7416,11 @@ You pause to consider your options...
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Resume the narrative as the newly ascended Shadow Sovereign, standing over the ashes of the Auditor.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-229"></a>
 #### Scene 229
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 80/80 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Spike: 5/5, BI: 7/7** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -6740,8 +7440,11 @@ But as the silence settles, your new True Sight catches a ripple at the village 
 God Mode:
 Let's keep the original levels for the enemies from bg3 so probably im same level as Gortash and one level higher ktheric now etc. what special powers do i get from consuming planar auditor? Should be some good ones. Also let's give me angel wings of light and celestial features I can choose to show or hide. As a mix of demon and angel powers I should have some special powers
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-230"></a>
 #### Scene 230
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -6751,8 +7454,11 @@ You pause to consider your options...
 God Mode:
 Let shave my companions only gain half my exp as they didn't actually consume a celestial. So make them level 8 or 9. They should share exp from normal things but not stuff like consuming a celestial or my special events
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-231"></a>
 #### Scene 231
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112,400/120,000 | Gold: 6,527gp**
@@ -6762,8 +7468,11 @@ You pause to consider your options...
 God Mode:
 Is 30 correct ? How did you get that for cha?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-232"></a>
 #### Scene 232
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 48/48 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings (Toggled), Auditor's Legacy | Inspiration: Yes**
@@ -6773,8 +7482,11 @@ You pause to consider your options...
 God Mode:
 What else can solars do or celestials? I should probably be able to do everything a level 12 celestial can
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-233"></a>
 #### Scene 233
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority, Celestial Wings (Active) | Inspiration: Yes**
@@ -6784,8 +7496,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have all my companions get enthralled since I'm so powerful now"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-234"></a>
 #### Scene 234
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, Spike: 5/5, BI: 7/7** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -6831,8 +7546,11 @@ Shadowheart is the first to yield, her hand dropping from her artifact as her pu
 > *"Do both and don't cap companions  levels they're just 9 for now Marshal the Absolute Vanguard: Step out onto the balcony and command Minthara's army to recognize their new Sovereign.
 Neutralize the Wraith: Use your True Sight and new celestial powers to intercept and destroy the Shadow-Cursed spy."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-235"></a>
 #### Scene 235
 
 > 📍 **Blighted Village - Windmill Tower** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:20)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Spike: 5/5 | BI: 7/7** &nbsp;|&nbsp; ⚠️ **True Sight, Sovereign Aura | Inspiration: Yes**
@@ -6852,8 +7570,11 @@ You land in the center of the village square, your strike team—Shadowheart, As
 > 👤 **Player:**
 > *"Talk to my demon patron and ask for big rewards and demon forces. 1000 demon soldiers and 100 level 7+ elite demon gloomstalker 5 assassin X types"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-236"></a>
 #### Scene 236
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Spike: 5/5 | BI: 7/7** &nbsp;|&nbsp; ⚠️ **Sovereign Ascendant | Inspiration: Yes**
@@ -6880,8 +7601,11 @@ A jagged tear in reality erupts behind you, smelling of brine and Abyssal sparks
 > 👤 **Player:**
 > *"Also ask for 500,00 gold"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-237"></a>
 #### Scene 237
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Bard | HP: 46/46 | XP: 112,400/120,000 | Gold: 6,527gp** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | Spike: 5/5 | BI: 7/7** &nbsp;|&nbsp; ⚠️ **Sovereign's Aura, Celestial Wings | Exhaustion: 0 | Inspiration: Yes**
@@ -6910,8 +7634,11 @@ You gain **1,000 XP** for successfully negotiating a legendary tribute from your
 > 👤 **Player:**
 > *"Also ask for new boons and powers like +2 to all stats, abyss themed powers or succubus themed. Ask if I can have a level 12 succubus to consume soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-238"></a>
 #### Scene 238
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Noble Scion | HP: 59/59 | XP: 129,200/140,000 | Gold: 506,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 13/13 | BI: 13/13** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -6952,8 +7679,11 @@ If you continue adventuring, you remain Level 13 and defer these benefits until 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Level Up to Level 13 - Apply level 13 Character benefits immediately*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-239"></a>
 #### Scene 239
 
 > 
@@ -6979,8 +7709,11 @@ Say **'Done'** or **'I'm finished'** to resume your march on Moonrise!
 God Mode:
 Recalc my hp since I have 10 con and what powers does a level 12 succubus usually have? Grant me all of them
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-240"></a>
 #### Scene 240
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Night, 1492 DR (Mirtul 21)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 129,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings, Sovereign's Kiss | Exhaustion: 0 | Inspiration: Yes**
@@ -6990,8 +7723,11 @@ You pause to consider your options...
 God Mode:
 Since I am a mix of a succubus and celestial both level 12 give me a reasonable hybrid power. Anything like this in lore?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-241"></a>
 #### Scene 241
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 21, 1492 DR (23:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (Sovereign) | HP: 68/68 | XP: 129,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings, Sovereign's Presence**
@@ -7001,8 +7737,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Final ask my patron for official nascent demon lord title."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-242"></a>
 #### Scene 242
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (00:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Abyssal Siren | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Ascended, True Sight | Inspiration: Yes**
@@ -7022,8 +7761,11 @@ As the light fades, you feel the full weight of your new nature. Your physical f
 God Mode:
 I'm not her peer though even as a nascent demon lord I still report to her?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-243"></a>
 #### Scene 243
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (00:25 (Deep Night))** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 130200/140000 | Gold: 1006527gp** &nbsp;|&nbsp; ⚠️ **True Sight, Celestial Wings (Active) | Exhaustion: 0 | Inspiration: Yes**
@@ -7033,8 +7775,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"Have my scouts audit moonrise and the other goblin ramp with razglin and priestess gut. Have another scout get the remaining forces from the grove to join my army. Long rest while they do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-244"></a>
 #### Scene 244
 
 > 📍 **Blighted Village Square (Tower Overlook)** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (08:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard (Nascent Demon Lord) | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 0/13 used, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Long Rested, True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7064,8 +7809,11 @@ The mirror ripples, her image settling into a study of predatory approval. *'A w
 > 👤 **Player:**
 > *"Have my scouts audit moonrise and the other goblin ramp with razglin and priestess gut. Have another scout get the remaining forces from the grove to join my army. Long rest while they do this"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-245"></a>
 #### Scene 245
 
 > 📍 **Blighted Village Square** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (16:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 0/13, Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/3, L5 0/2, L6 0/1, L7 0/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Abyssal Presence | Inspiration: Yes**
@@ -7095,8 +7843,11 @@ The mirror ripples, her image settling into a study of predatory approval. *'A w
 > [!NOTE] ⚙️ **Player Choice:**
 > *March on Shattered Sanctum - Lead the legion to confront Ragzlin and Priestess Gut to consolidate the goblin forces.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-246"></a>
 #### Scene 246
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Aura of the Sovereign | Inspiration: Yes**
@@ -7112,8 +7863,11 @@ You enter the main hall, the flickering torches dimming as your silver-rimmed ga
 > 👤 **Player:**
 > *"Show my full celestial and demon combined form and consume high ranking guard to intimidate"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-247"></a>
 #### Scene 247
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 130,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Ascended, True Sight | Exhaustion: 0 | Inspiration: Yes**
@@ -7144,8 +7898,11 @@ Ragzlin's hammer clatters to the floor. Priestess Gut collapses, her forehead hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Sanctum Vaults - Have Ragzlin and Gut surrender the temple&#x27;s treasures and artifacts to your treasury.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-248"></a>
 #### Scene 248
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 131,200/140,000 | Gold: 1,506,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, Celestial Wings, True Sight | Exhaustion: 0 | Inspiration: Yes**
@@ -7187,8 +7944,11 @@ Ragzlin's hammer clatters to the floor. Priestess Gut collapses, her forehead hi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Audit Worg Pens - Investigate the rumors of a high-value prisoner (Halsin) and secure the monsters.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-249"></a>
 #### Scene 249
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 131,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6**
@@ -7217,8 +7977,11 @@ Minthara and your companions stand at the threshold, their eyes wide with the re
 > [!NOTE] ⚙️ **Player Choice:**
 > *Psychic Probe Prisoner - Use the Gilded Tether to reach into the mind of the beast in the cage to bypass the visual obfuscation.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-250"></a>
 #### Scene 250
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 132,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Sovereign's Aura | Exhaustion: 0 | Inspiration: Yes**
@@ -7259,8 +8022,11 @@ Behind you, Minthara and your companions stand in unmoving silence. The worgs in
 > 👤 **Player:**
 > *"Mask my true powers so he's more comfortable and make a joke that I'm here to rescue him"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-251"></a>
 #### Scene 251
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (18:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 132,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign (Active), True Sight (Permanent) | Exhaustion: 0 | Inspiration: Yes**
@@ -7289,8 +8055,11 @@ Behind you, your companions remain in their poses of fanatical devotion. Astario
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Grove Status - Tell him you&#x27;ve already &#x27;saved&#x27; the Grove and redirected the Shadow Druids.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-252"></a>
 #### Scene 252
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 132,200/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority, Aura of the Sovereign | Inspiration: Yes**
@@ -7319,8 +8088,11 @@ He takes a step toward the bars, his posture losing its animal hostility and gai
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demonstrate Mercy - Release Halsin without immediate binding to build a facade of &#x27;heroic&#x27; alliance while maintaining psychological dominance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-253"></a>
 #### Scene 253
 
 > 📍 **Shattered Sanctum - Worg Pens** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Sovereign | HP: 68/68 | XP: 132,700/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, True Sight, Masking Frequency | Exhaustion: 0 | Inspiration: Yes**
@@ -7352,8 +8124,11 @@ Effect: The Absolute's army and the Worgs remain in a state of total, submissive
 > 👤 **Player:**
 > *"Gather everyone who knows rhe absolute and tadpoles the best and ask Hardin too. Brainstorm a way I can use my powers to assert control over them instead of elder brain"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-254"></a>
 #### Scene 254
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 132,700/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, True Sight, Abyssal Potency | Inspiration: Yes**
@@ -7369,8 +8144,11 @@ A collective, shuddering bow ripples through the hall. Thousands of Absolute cul
 > 👤 **Player:**
 > *"Brainstorm how to control the tadpoles. What if I try to consume them using my soul stealing power? I don't want the absolute controlling us"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-255"></a>
 #### Scene 255
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord, Sovereign Presence | Exhaustion: 0 | Inspiration: Yes**
@@ -7392,8 +8170,11 @@ Halsin watches the clinical dismantling of a cosmic hierarchy with a profound, s
 > 👤 **Player:**
 > *"THINK:What to do about the tadpoles. Can I use soul stealing on everyone's tadpole to remove them and deny the absolute the control ?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-256"></a>
 #### Scene 256
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **Nascent Demon Lord | Inspiration: Yes**
@@ -7405,8 +8186,11 @@ You pause, the heavy, brine-scented air of the main hall suddenly feeling thick 
 > 👤 **Player:**
 > *"Reroll with guidance enhance ability and bardic inspiration and going forward call this mega buff and assume I always have it due to how many characters and companions I'm leading Intelligence Check (Planning): 1d20+4 = 9 vs DC 18 - Failed by 9 - Muddled analysis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-257"></a>
 #### Scene 257
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (19:55)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | Spike: 5/5 | BI: 6/6** &nbsp;|&nbsp; ⚠️ **True Sight, Planar Authority | Exhaustion: 0 | Inspiration: Yes**
@@ -7418,8 +8202,11 @@ However, even with the combined weight of your court, the Netherese architecture
 > 👤 **Player:**
 > *"Reroll with guidance enhance ability and bardic inspiration and going forward call this mega buff and assume I always have it due to how many characters and companions I'm leading Intelligence Check (Planning): 1d20+4 = 9 vs DC 18 - Failed by 9 - Muddled analysis"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-258"></a>
 #### Scene 258
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 132,900/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1, Spike: 5/5, BI: 6/6** &nbsp;|&nbsp; ⚠️ **Mega Buff Active | Exhaustion: 0 | Inspiration: Yes**
@@ -7444,8 +8231,11 @@ Halsin watches you from the edge of the dais, his golden eyes wide with a profou
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash&#x27;s plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-259"></a>
 #### Scene 259
 
 > 
@@ -7455,8 +8245,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash's plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-260"></a>
 #### Scene 260
 
 > 
@@ -7466,8 +8259,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash's plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-261"></a>
 #### Scene 261
 
 > 
@@ -7477,8 +8273,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Use Soul Thief to instantly learn everything the spy knows about Gortash's plans."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-262"></a>
 #### Scene 262
 
 > 
@@ -7488,8 +8287,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash&#x27;s plans.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-263"></a>
 #### Scene 263
 
 > 
@@ -7499,8 +8301,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Interrogate spy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-264"></a>
 #### Scene 264
 
 > 
@@ -7510,8 +8315,11 @@ Invalid JSON response received. Please try again.
 God Mode:
 Why do I keep getting invalid JSON response
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-265"></a>
 #### Scene 265
 
 > 
@@ -7521,8 +8329,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Steal banite spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-266"></a>
 #### Scene 266
 
 > 
@@ -7532,8 +8343,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Interrogate spy"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-267"></a>
 #### Scene 267
 
 > 
@@ -7543,8 +8357,11 @@ Invalid JSON response received. Please try again.
 God Mode:
 Why do I keep getting non text response?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-268"></a>
 #### Scene 268
 
 > 
@@ -7554,8 +8371,11 @@ Why do I keep getting non text response?
 > 👤 **Player:**
 > *"Steal spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-269"></a>
 #### Scene 269
 
 > 
@@ -7565,8 +8385,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Steak the banite spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-270"></a>
 #### Scene 270
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 136500/140000 | Gold: 1006527gp** &nbsp;|&nbsp; ✨ **HD: 0/13, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 L7 1/1, BI: 0/6, Spike: 0/5, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Religious Devotion (Army) | Exhaustion: 0 | Inspiration: Yes**
@@ -7592,8 +8415,11 @@ Resources surge anew, though already full; the army erupts in fervent chants of 
 > 👤 **Player:**
 > *"Establish a hedonistic religion in my faction where they worship me as a gos"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-271"></a>
 #### Scene 271
 
 > 
@@ -7603,8 +8429,11 @@ Invalid JSON response received. Please try again.
 > 👤 **Player:**
 > *"Establish a hedonistic religion in my faction where they worship me as a god"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-272"></a>
 #### Scene 272
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 139000/140000 | Gold: 1006527gp** &nbsp;|&nbsp; ✨ **HD: 0/13, Spells: L1 0/4 L2 0/3 L3 0/3 L4 0/3 L5 0/2 L6 0/1 L7 0/1, BI: 0/6, Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Hedonistic Worship (Yielding) | Exhaustion: 0**
@@ -7622,8 +8451,11 @@ A peripheral zealot rises, eyes defiant: 'The Elder Brain's will endures!' Other
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Patron - Seek Malcanthet&#x27;s boon for cult stability*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-273"></a>
 #### Scene 273
 
 > 
@@ -7633,8 +8465,11 @@ Invalid JSON response received. Please try again.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Query Patron - Seek Malcanthet's boon for cult stability*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-274"></a>
 #### Scene 274
 
 > 
@@ -7644,8 +8479,11 @@ Invalid JSON response received. Please try again.
 God Mode:
 Let's retcon Nocturne's age to 18 to fit the mature themes of leadership. Let's also redefine the religion as 'Fanatical Zealotry' where they worship her power and magic, removing the hedonistic aspect. Proceed with the scene.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-275"></a>
 #### Scene 275
 
 > 
@@ -7655,8 +8493,11 @@ Let's retcon Nocturne's age to 18 to fit the mature themes of leadership. Let's 
 God Mode:
 Let's retcon Nocturne's age to 18 to fit the mature themes of leadership. Let's also redefine the religion as 'Fanatical Zealotry' where they worship her power and magic, removing the hedonistic aspect. Proceed with the scene.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-276"></a>
 #### Scene 276
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (20:40)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Bard | HP: 68/68 | XP: 136,500/140,000 | Gold: 1,506,527gp**
@@ -7666,8 +8507,11 @@ You pause to consider your options...
 > 👤 **Player:**
 > *"consume the banite spy soul"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-277"></a>
 #### Scene 277
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 136,500/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 L7 1/1, BI: 6/6, Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign | Exhaustion: 0 | Inspiration: Yes**
@@ -7695,8 +8539,11 @@ You gain **1,000 XP** for the successful religious conversion and crushing the f
 > 👤 **Player:**
 > *"have my elite scouts go through everywhere near the grove, goblin camp, mountain pass, underdark and see if anything i nteresting that can power me up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-278"></a>
 #### Scene 278
 
 > 📍 **Shattered Sanctum - Main Hall** &nbsp;|&nbsp; ⏳ **Mirtul 22, 1492 DR (22:10)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Nascent Demon Lord | HP: 68/68 | XP: 139,300/140,000 | Gold: 1,006,527gp** &nbsp;|&nbsp; ✨ **HD: 13/13, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 L7 1/1, BI: 6/6, Spike: 4/5** &nbsp;|&nbsp; ⚠️ **Aura of the Sovereign, True Sight, Mega Buff | Inspiration: Yes**
@@ -7725,6 +8572,8 @@ You gain **1,000 XP** for the successful religious conversion and crushing the f
 Would you like to level up now?
 Options: 1. Level up immediately  2. Continue adventuring
 If you continue adventuring, you remain Level 13 and defer these benefits until you choose to level up.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

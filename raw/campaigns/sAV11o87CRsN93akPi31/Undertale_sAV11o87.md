@@ -12,166 +12,182 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Background](#campaign-dossier)
+- [🗺️ Scene Index & Timeline (145 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Frisk | Setting: The video game undertale
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | Character Selection | 201X, Underground | Roleplay |
-| **02** | Beneath Mt. Ebott - The Precipice | Era of Monsters, Year Unknown | Roleplay |
-| **03** | Beneath Mt. Ebott - The Precipice | 2025-12-28, Morning (12:00) | Roleplay |
-| **04** | The Ruins - Entrance | 12 28, 2025 DR (12:05) | Roleplay |
-| **05** | The Ruins - Entrance | 12 28, 2025 DR (12:10) | Roleplay |
-| **06** | The Ruins - Entrance | 12 28, 2025 DR (12:15) | Roleplay |
-| **07** | The Ruins - Entrance | 12 28, 2025 DR (12:20) | Roleplay |
-| **08** | The Ruins - Entrance | 12 28, 2025 DR (12:25) | Roleplay |
-| **09** | The Ruins - Entrance Hall | 12 28, 2025 DR (12:35) | Roleplay |
-| **10** | The Ruins - Flowey's Room | 12 28, 2025 DR (12:40) | Roleplay |
-| **11** | The Ruins - Flowey's Room | 12 28, 2025 DR (12:45) | Roleplay |
-| **12** | The Ruins - Flowey's Room | 12 28, 2025 DR (12:46) | Roleplay |
-| **13** | The Ruins - Flowey's Room | 12 28, 2025 DR (12:46) | Roleplay |
-| **14** | The Ruins - Flowey's Room | 12 28, 2025 DR (12:48) | Roleplay |
-| **15** | The Ruins - Flowey's Room | 12 28, 2025 DR (13:00) | Roleplay |
-| **16** | The Ruins - Entrance Hall | 12 28, 2025 DR (13:15) | Roleplay |
-| **17** | The Ruins - Entrance Hall | 12 28, 2025 DR (13:20) | Roleplay |
-| **18** | The Ruins - Puzzle Room | 12 28, 2025 DR (13:25) | Roleplay |
-| **19** | The Ruins - Puzzle Room | 12 28, 2025 DR (13:35) | Roleplay |
-| **20** | The Ruins - Puzzle Room | 12 28, 2025 DR (13:40) | Roleplay |
-| **21** | The Ruins - Puzzle Room | 12 28, 2025 DR (13:45) | Roleplay |
-| **22** | The Ruins - Long Hallway | 12 28, 2025 DR (14:00) | Roleplay |
-| **23** | The Ruins - Long Hallway | 12 28, 2025 DR (14:05) | Roleplay |
-| **24** | The Ruins - Long Hallway | 12 28, 2025 DR (14:10) | Roleplay |
-| **25** | The Ruins - Long Hallway | 12 28, 2025 DR (14:15) | Roleplay |
-| **26** | The Ruins - Long Hallway | December 28, 2025 DR (14:16) | Roleplay |
-| **27** | The Ruins - Long Hallway | December 28, 2025 DR (14:20) | Roleplay |
-| **28** | The Ruins - Long Hallway | 12 28, 2025 DR (14:25) | Roleplay |
-| **29** | The Ruins - Long Hallway | 12 28, 2025 DR (14:30) | Roleplay |
-| **30** | The Ruins - Long Hallway | 12 28, 2025 DR (14:35) | Roleplay |
-| **31** | The Ruins - Long Hallway | 12 28, 2025 DR (14:45) | Roleplay |
-| **32** | The Ruins - Long Hallway | 12 28, 2025 DR (14:50) | Roleplay |
-| **33** | The Ruins - Long Hallway | 12 28, 2025 DR (14:55) | Roleplay |
-| **34** | Toriel's Home - Exterior | December 28, 2025 DR (15:10) | Roleplay |
-| **35** | Toriel's Home - Exterior | 12 28, 2025 DR (15:15) | Roleplay |
-| **36** | Toriel's Home - Exterior | 12 28, 2025 DR (15:20) | Roleplay |
-| **37** | Toriel's Home - Interior | 12 28, 2025 DR (15:35) | Roleplay |
-| **38** | Toriel's Home - Interior | 2025-12-28, 15:35 | Roleplay |
-| **39** | Toriel's Home - Interior | 2025-12-28, 15:35 | Roleplay |
-| **40** | Toriel's Home - Interior | 2025-12-28, Afternoon | Roleplay |
-| **41** | Toriel's Home - Interior | Month 12, 2025 (Day 28) | Roleplay |
-| **42** | Toriel's Home - Interior | 2025-12-28, Afternoon | Roleplay |
-| **43** | Toriel's Home - Interior | 2025-12-28, Afternoon | Roleplay |
-| **44** | Toriel's Home - Frisk's Room | 12 28, 2025 DR (16:00) | Roleplay |
-| **45** | Toriel's Home - Frisk's Room | 12 28, 2025 DR (17:15) | Roleplay |
-| **46** | Toriel's Home - Frisk's Room | 12 28, 2025 DR (18:30) | Roleplay |
-| **47** | Toriel's Home - Frisk's Room | 12 28, 2025 DR (18:30) | Roleplay |
-| **48** | Toriel's Home - Frisk's Room | 12 28, 2025 DR (18:35) | Roleplay |
-| **49** | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
-| **50** | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
-| **51** | Toriel's Home - Living Room & Library | 2025-12-28, Evening | Roleplay |
-| **52** | Toriel's Home - Living Room & Library | Month 12, 2025 (Day 28) | Roleplay |
-| **53** | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
-| **54** | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
-| **55** | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:50) | Roleplay |
-| **56** | Toriel's Home - Living Room & Library | 12 28, 2025 DR (19:15) | Roleplay |
-| **57** | Toriel's Home - Kitchen | 12 28, 2025 DR (19:20) | Roleplay |
-| **58** | Toriel's Home - Kitchen | 12 28, 2025 DR (19:45) | Roleplay |
-| **59** | Toriel's Home - Kitchen | December 28, 2025 DR (20:15) | Roleplay |
-| **60** | Toriel's Home - Kitchen | 12 28, 2025 DR (20:25) | Roleplay |
-| **61** | Toriel's Home - Kitchen/Basement Entrance | 12 28, 2025 DR (20:30) | Roleplay |
-| **62** | Toriel's Home - Hallway | December 28, 2025 DR (20:45) | Roleplay |
-| **63** | Toriel's Home - Hallway | 12 28, 2025 DR (21:00) | Roleplay |
-| **64** | Toriel's Home - Bedroom | 12 28, 2025 DR (21:05) | Roleplay |
-| **65** | Toriel's Home - Bedroom | 12 28, 2025 DR (21:10) | Roleplay |
-| **66** | Toriel's Home - Hallway | Mirtul 28, 2025 DR (21:15) | Roleplay |
-| **67** | Toriel's Home - Hallway | 12 28, 2025 DR (22:00) | Roleplay |
-| **68** | Toriel's Home - Hallway | 12 28, 2025 DR (22:15) | Roleplay |
-| **69** | Toriel's Home - Hallway | 12 28, 2025 DR (22:20) | Roleplay |
-| **70** | Toriel's Home - Hallway | 12 28, 2025 DR (22:25) | Roleplay |
-| **71** | Toriel's Home - Hallway | 12 28, 2025 DR (22:30) | Roleplay |
-| **72** | Toriel's Home - Bedroom | 12 28, 2025 DR (22:35) | Roleplay |
-| **73** | Toriel's Home - Bedroom | 12 28, 2025 DR (22:40) | Roleplay |
-| **74** | Toriel's Home - Bedroom | 12 28, 2025 DR (22:50) | Roleplay |
-| **75** | Toriel's Home - Bedroom | 12 28, 2025 DR (23:05) | Roleplay |
-| **76** | Toriel's Home - Bedroom | 12 28, 2025 DR (23:30) | Roleplay |
-| **77** | Toriel's Home - Bedroom | 12 29, 2025 DR (07:30) | Roleplay |
-| **78** | Toriel's Home - Hallway | 12 29, 2025 DR (07:45) | Roleplay |
-| **79** | Unknown |  | Roleplay |
-| **80** | Toriel's Home - Hallway | 2025-12-29, 07:46 | Roleplay |
-| **81** | Toriel's Home - Hallway | 12 29, 2025 DR (07:46) | Roleplay |
-| **82** | Toriel's Home - Hallway | 12 29, 2025 DR (08:00) | Roleplay |
-| **83** | Toriel's Home - Hallway | 12 29, 2025 DR (08:05) | Roleplay |
-| **84** | Toriel's Home - Hallway | 12 29, 2025 DR (08:10) | Roleplay |
-| **85** | Toriel's Home - Hallway | 12 29, 2025 DR (08:15) | Roleplay |
-| **86** | Toriel's Home - Hallway | 12 29, 2025 DR (08:30) | Roleplay |
-| **87** | Toriel's Home - Bedroom | 12 29, 2025 DR (16:30) | Roleplay |
-| **88** | Toriel's Home - Living Room | 12 29, 2025 DR (08:30) | Roleplay |
-| **89** | Toriel's Home - Living Room | 12 29, 2025 DR (09:15) | Roleplay |
-| **90** | Toriel's Home - Living Room | 12 29, 2025 DR (09:25) | Roleplay |
-| **91** | Toriel's Home - Living Room | December 29, 2025 (09:25) | Roleplay |
-| **92** | Toriel's Home - Living Room | 12 29, 2025 DR (09:40) | Roleplay |
-| **93** | Toriel's Home - Living Room | 12 29, 2025 DR (09:45) | Roleplay |
-| **94** | Toriel's Home - Living Room | 12 29, 2025 DR (10:05) | Roleplay |
-| **95** | Toriel's Home - Living Room | December 29, 2025 DR (10:15) | Roleplay |
-| **96** | Toriel's Home - Living Room | December 29, 2025 DR (10:20) | Roleplay |
-| **97** | Toriel's Home - Living Room | 12 29, 2025 DR (10:20) | Roleplay |
-| **98** | Toriel's Home - Living Room | 12 29, 2025 DR (10:25) | Roleplay |
-| **99** | Toriel's Home - Living Room | 12 29, 2025 DR (10:30) | Roleplay |
-| **100** | Toriel's Home - Living Room | 12 29, 2025 DR (10:30) | Roleplay |
-| **101** | Toriel's Home - Living Room | 12 29, 2025 DR (11:15) | Roleplay |
-| **102** | Toriel's Home - Living Room | 12 29, 2025 DR (11:45) | Roleplay |
-| **103** | Toriel's Home - Living Room | 2025-12-29, Morning | Roleplay |
-| **104** | Toriel's Home - Living Room | 2025-12-29, Morning 11:45 | Roleplay |
-| **105** | Toriel's Home - Living Room | December 29, 2025 DR (12:05) | Roleplay |
-| **106** | Toriel's Home - Living Room | 12 29, 2025 DR (13:45) | Roleplay |
-| **107** | Toriel's Home - Living Room | 12 29, 2025 DR (14:15) | Roleplay |
-| **108** | Toriel's Home - Living Room | 12 29, 2025 DR (14:30) | Roleplay |
-| **109** | Toriel's Home - Living Room | 12 29, 2025 DR (14:45) | Roleplay |
-| **110** | Toriel's Home - Living Room | 12 29, 2025 DR (15:00) | Roleplay |
-| **111** | Toriel's Home - Living Room | 12 29, 2025 DR (15:30) | Roleplay |
-| **112** | Toriel's Home - Living Room | 12 29, 2025 DR (16:15) | Roleplay |
-| **113** | Toriel's Home - Living Room | 12 29, 2025 DR (16:30) | Roleplay |
-| **114** | Toriel's Home - Living Room | Mirtul 29, 2025 DR (16:45) | Roleplay |
-| **115** | Toriel's Home - Living Room | 12 29, 2025 DR (16:50) | Roleplay |
-| **116** | Toriel's Home - Living Room | 12 29, 2025 DR (17:05) | Roleplay |
-| **117** | Toriel's Home - Living Room | 12 29, 2025 DR (17:10) | Roleplay |
-| **118** | Toriel's Home - Living Room | 12 29, 2025 DR (17:15) | Roleplay |
-| **119** | Toriel's Home - Living Room | December 29, 2025 DR (17:25) | Roleplay |
-| **120** | Toriel's Home - Living Room | 12 29, 2025 DR (17:45) | Roleplay |
-| **121** | Toriel's Home - Living Room | 12 29, 2025 DR (17:50) | Roleplay |
-| **122** | Toriel's Home - Living Room | December 29, 2025 DR (18:05) | Roleplay |
-| **123** | Toriel's Home - Living Room | 12 29, 2025 DR (18:05) | Roleplay |
-| **124** | Toriel's Home - Living Room | 2025-12-29, Evening | Roleplay |
-| **125** | Toriel's Home - Living Room | 2025-12-29, 18:15:00 | Roleplay |
-| **126** | Toriel's Home - Living Room | 12 29, 2025 DR (18:20) | Roleplay |
-| **127** | Toriel's Home - Toriel's Bedroom | 12 29, 2025 DR (18:35) | Roleplay |
-| **128** | Toriel's Home - Toriel's Bedroom | 12 29, 2025 DR (18:45) | Roleplay |
-| **129** | Toriel's Home - Toriel's Bedroom | 12 29, 2025 DR (18:50) | Roleplay |
-| **130** | Toriel's Home - Living Room | 12 29, 2025 DR (19:15) | Roleplay |
-| **131** | Toriel's Home - Living Room | 12 29, 2025 DR (19:20) | Roleplay |
-| **132** | Toriel's Home - Basement Entrance | Mirtul 15, 2025 DR (Evening) | Roleplay |
-| **133** | Toriel's Home - Basement | 12 29, 2025 DR (19:30) | Roleplay |
-| **134** | Toriel's Home - Basement | December 29, 2025 DR (19:31) | Roleplay |
-| **135** | Toriel's Home - Basement | December 29, 2025 DR (19:31) | Roleplay |
-| **136** | Toriel's Home - Basement | December 29, 2025 DR (19:36) | Roleplay |
-| **137** | Toriel's Home - Basement | 12 29, 2025 DR (19:40) | Roleplay |
-| **138** | Toriel's Home - Basement | 2025-12-29, Morning | Roleplay |
-| **139** | Toriel's Home - Basement | 2025-12-29T19:45:00.000000Z | Roleplay |
-| **140** | Toriel's Home - Basement | 2025-12-29, Evening | Roleplay |
-| **141** | Toriel's Home - Basement | 12 29, 2025 DR (19:46) | Roleplay |
-| **142** | Toriel's Home - Basement | 12 29, 2025 DR (19:46) | Roleplay |
-| **143** | Toriel's Home - Basement | 12 29, 2025 DR (20:00) | Roleplay |
-| **144** | Toriel's Home - Basement | 12 29, 2025 DR (20:15) | Roleplay |
-| **145** | Toriel's Home - Master Bedroom | 12 29, 2025 DR (20:30) | Roleplay |
+| [**Scene 01**](#scene-1) | Character Selection | 201X, Underground | Roleplay |
+| [**Scene 02**](#scene-2) | Beneath Mt. Ebott - The Precipice | Era of Monsters, Year Unknown | Roleplay |
+| [**Scene 03**](#scene-3) | Beneath Mt. Ebott - The Precipice | 2025-12-28, Morning (12:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The Ruins - Entrance | 12 28, 2025 DR (12:05) | Roleplay |
+| [**Scene 05**](#scene-5) | The Ruins - Entrance | 12 28, 2025 DR (12:10) | Roleplay |
+| [**Scene 06**](#scene-6) | The Ruins - Entrance | 12 28, 2025 DR (12:15) | Roleplay |
+| [**Scene 07**](#scene-7) | The Ruins - Entrance | 12 28, 2025 DR (12:20) | Roleplay |
+| [**Scene 08**](#scene-8) | The Ruins - Entrance | 12 28, 2025 DR (12:25) | Roleplay |
+| [**Scene 09**](#scene-9) | The Ruins - Entrance Hall | 12 28, 2025 DR (12:35) | Roleplay |
+| [**Scene 10**](#scene-10) | The Ruins - Flowey's Room | 12 28, 2025 DR (12:40) | Roleplay |
+| [**Scene 11**](#scene-11) | The Ruins - Flowey's Room | 12 28, 2025 DR (12:45) | Roleplay |
+| [**Scene 12**](#scene-12) | The Ruins - Flowey's Room | 12 28, 2025 DR (12:46) | Roleplay |
+| [**Scene 13**](#scene-13) | The Ruins - Flowey's Room | 12 28, 2025 DR (12:46) | Roleplay |
+| [**Scene 14**](#scene-14) | The Ruins - Flowey's Room | 12 28, 2025 DR (12:48) | Roleplay |
+| [**Scene 15**](#scene-15) | The Ruins - Flowey's Room | 12 28, 2025 DR (13:00) | Roleplay |
+| [**Scene 16**](#scene-16) | The Ruins - Entrance Hall | 12 28, 2025 DR (13:15) | Roleplay |
+| [**Scene 17**](#scene-17) | The Ruins - Entrance Hall | 12 28, 2025 DR (13:20) | Roleplay |
+| [**Scene 18**](#scene-18) | The Ruins - Puzzle Room | 12 28, 2025 DR (13:25) | Roleplay |
+| [**Scene 19**](#scene-19) | The Ruins - Puzzle Room | 12 28, 2025 DR (13:35) | Roleplay |
+| [**Scene 20**](#scene-20) | The Ruins - Puzzle Room | 12 28, 2025 DR (13:40) | Roleplay |
+| [**Scene 21**](#scene-21) | The Ruins - Puzzle Room | 12 28, 2025 DR (13:45) | Roleplay |
+| [**Scene 22**](#scene-22) | The Ruins - Long Hallway | 12 28, 2025 DR (14:00) | Roleplay |
+| [**Scene 23**](#scene-23) | The Ruins - Long Hallway | 12 28, 2025 DR (14:05) | Roleplay |
+| [**Scene 24**](#scene-24) | The Ruins - Long Hallway | 12 28, 2025 DR (14:10) | Roleplay |
+| [**Scene 25**](#scene-25) | The Ruins - Long Hallway | 12 28, 2025 DR (14:15) | Roleplay |
+| [**Scene 26**](#scene-26) | The Ruins - Long Hallway | December 28, 2025 DR (14:16) | Roleplay |
+| [**Scene 27**](#scene-27) | The Ruins - Long Hallway | December 28, 2025 DR (14:20) | Roleplay |
+| [**Scene 28**](#scene-28) | The Ruins - Long Hallway | 12 28, 2025 DR (14:25) | Roleplay |
+| [**Scene 29**](#scene-29) | The Ruins - Long Hallway | 12 28, 2025 DR (14:30) | Roleplay |
+| [**Scene 30**](#scene-30) | The Ruins - Long Hallway | 12 28, 2025 DR (14:35) | Roleplay |
+| [**Scene 31**](#scene-31) | The Ruins - Long Hallway | 12 28, 2025 DR (14:45) | Roleplay |
+| [**Scene 32**](#scene-32) | The Ruins - Long Hallway | 12 28, 2025 DR (14:50) | Roleplay |
+| [**Scene 33**](#scene-33) | The Ruins - Long Hallway | 12 28, 2025 DR (14:55) | Roleplay |
+| [**Scene 34**](#scene-34) | Toriel's Home - Exterior | December 28, 2025 DR (15:10) | Roleplay |
+| [**Scene 35**](#scene-35) | Toriel's Home - Exterior | 12 28, 2025 DR (15:15) | Roleplay |
+| [**Scene 36**](#scene-36) | Toriel's Home - Exterior | 12 28, 2025 DR (15:20) | Roleplay |
+| [**Scene 37**](#scene-37) | Toriel's Home - Interior | 12 28, 2025 DR (15:35) | Roleplay |
+| [**Scene 38**](#scene-38) | Toriel's Home - Interior | 2025-12-28, 15:35 | Roleplay |
+| [**Scene 39**](#scene-39) | Toriel's Home - Interior | 2025-12-28, 15:35 | Roleplay |
+| [**Scene 40**](#scene-40) | Toriel's Home - Interior | 2025-12-28, Afternoon | Roleplay |
+| [**Scene 41**](#scene-41) | Toriel's Home - Interior | Month 12, 2025 (Day 28) | Roleplay |
+| [**Scene 42**](#scene-42) | Toriel's Home - Interior | 2025-12-28, Afternoon | Roleplay |
+| [**Scene 43**](#scene-43) | Toriel's Home - Interior | 2025-12-28, Afternoon | Roleplay |
+| [**Scene 44**](#scene-44) | Toriel's Home - Frisk's Room | 12 28, 2025 DR (16:00) | Roleplay |
+| [**Scene 45**](#scene-45) | Toriel's Home - Frisk's Room | 12 28, 2025 DR (17:15) | Roleplay |
+| [**Scene 46**](#scene-46) | Toriel's Home - Frisk's Room | 12 28, 2025 DR (18:30) | Roleplay |
+| [**Scene 47**](#scene-47) | Toriel's Home - Frisk's Room | 12 28, 2025 DR (18:30) | Roleplay |
+| [**Scene 48**](#scene-48) | Toriel's Home - Frisk's Room | 12 28, 2025 DR (18:35) | Roleplay |
+| [**Scene 49**](#scene-49) | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
+| [**Scene 50**](#scene-50) | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
+| [**Scene 51**](#scene-51) | Toriel's Home - Living Room & Library | 2025-12-28, Evening | Roleplay |
+| [**Scene 52**](#scene-52) | Toriel's Home - Living Room & Library | Month 12, 2025 (Day 28) | Roleplay |
+| [**Scene 53**](#scene-53) | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
+| [**Scene 54**](#scene-54) | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:45) | Roleplay |
+| [**Scene 55**](#scene-55) | Toriel's Home - Living Room & Library | 12 28, 2025 DR (18:50) | Roleplay |
+| [**Scene 56**](#scene-56) | Toriel's Home - Living Room & Library | 12 28, 2025 DR (19:15) | Roleplay |
+| [**Scene 57**](#scene-57) | Toriel's Home - Kitchen | 12 28, 2025 DR (19:20) | Roleplay |
+| [**Scene 58**](#scene-58) | Toriel's Home - Kitchen | 12 28, 2025 DR (19:45) | Roleplay |
+| [**Scene 59**](#scene-59) | Toriel's Home - Kitchen | December 28, 2025 DR (20:15) | Roleplay |
+| [**Scene 60**](#scene-60) | Toriel's Home - Kitchen | 12 28, 2025 DR (20:25) | Roleplay |
+| [**Scene 61**](#scene-61) | Toriel's Home - Kitchen/Basement Entrance | 12 28, 2025 DR (20:30) | Roleplay |
+| [**Scene 62**](#scene-62) | Toriel's Home - Hallway | December 28, 2025 DR (20:45) | Roleplay |
+| [**Scene 63**](#scene-63) | Toriel's Home - Hallway | 12 28, 2025 DR (21:00) | Roleplay |
+| [**Scene 64**](#scene-64) | Toriel's Home - Bedroom | 12 28, 2025 DR (21:05) | Roleplay |
+| [**Scene 65**](#scene-65) | Toriel's Home - Bedroom | 12 28, 2025 DR (21:10) | Roleplay |
+| [**Scene 66**](#scene-66) | Toriel's Home - Hallway | Mirtul 28, 2025 DR (21:15) | Roleplay |
+| [**Scene 67**](#scene-67) | Toriel's Home - Hallway | 12 28, 2025 DR (22:00) | Roleplay |
+| [**Scene 68**](#scene-68) | Toriel's Home - Hallway | 12 28, 2025 DR (22:15) | Roleplay |
+| [**Scene 69**](#scene-69) | Toriel's Home - Hallway | 12 28, 2025 DR (22:20) | Roleplay |
+| [**Scene 70**](#scene-70) | Toriel's Home - Hallway | 12 28, 2025 DR (22:25) | Roleplay |
+| [**Scene 71**](#scene-71) | Toriel's Home - Hallway | 12 28, 2025 DR (22:30) | Roleplay |
+| [**Scene 72**](#scene-72) | Toriel's Home - Bedroom | 12 28, 2025 DR (22:35) | Roleplay |
+| [**Scene 73**](#scene-73) | Toriel's Home - Bedroom | 12 28, 2025 DR (22:40) | Roleplay |
+| [**Scene 74**](#scene-74) | Toriel's Home - Bedroom | 12 28, 2025 DR (22:50) | Roleplay |
+| [**Scene 75**](#scene-75) | Toriel's Home - Bedroom | 12 28, 2025 DR (23:05) | Roleplay |
+| [**Scene 76**](#scene-76) | Toriel's Home - Bedroom | 12 28, 2025 DR (23:30) | Roleplay |
+| [**Scene 77**](#scene-77) | Toriel's Home - Bedroom | 12 29, 2025 DR (07:30) | Roleplay |
+| [**Scene 78**](#scene-78) | Toriel's Home - Hallway | 12 29, 2025 DR (07:45) | Roleplay |
+| [**Scene 79**](#scene-79) | Unknown |  | Roleplay |
+| [**Scene 80**](#scene-80) | Toriel's Home - Hallway | 2025-12-29, 07:46 | Roleplay |
+| [**Scene 81**](#scene-81) | Toriel's Home - Hallway | 12 29, 2025 DR (07:46) | Roleplay |
+| [**Scene 82**](#scene-82) | Toriel's Home - Hallway | 12 29, 2025 DR (08:00) | Roleplay |
+| [**Scene 83**](#scene-83) | Toriel's Home - Hallway | 12 29, 2025 DR (08:05) | Roleplay |
+| [**Scene 84**](#scene-84) | Toriel's Home - Hallway | 12 29, 2025 DR (08:10) | Roleplay |
+| [**Scene 85**](#scene-85) | Toriel's Home - Hallway | 12 29, 2025 DR (08:15) | Roleplay |
+| [**Scene 86**](#scene-86) | Toriel's Home - Hallway | 12 29, 2025 DR (08:30) | Roleplay |
+| [**Scene 87**](#scene-87) | Toriel's Home - Bedroom | 12 29, 2025 DR (16:30) | Roleplay |
+| [**Scene 88**](#scene-88) | Toriel's Home - Living Room | 12 29, 2025 DR (08:30) | Roleplay |
+| [**Scene 89**](#scene-89) | Toriel's Home - Living Room | 12 29, 2025 DR (09:15) | Roleplay |
+| [**Scene 90**](#scene-90) | Toriel's Home - Living Room | 12 29, 2025 DR (09:25) | Roleplay |
+| [**Scene 91**](#scene-91) | Toriel's Home - Living Room | December 29, 2025 (09:25) | Roleplay |
+| [**Scene 92**](#scene-92) | Toriel's Home - Living Room | 12 29, 2025 DR (09:40) | Roleplay |
+| [**Scene 93**](#scene-93) | Toriel's Home - Living Room | 12 29, 2025 DR (09:45) | Roleplay |
+| [**Scene 94**](#scene-94) | Toriel's Home - Living Room | 12 29, 2025 DR (10:05) | Roleplay |
+| [**Scene 95**](#scene-95) | Toriel's Home - Living Room | December 29, 2025 DR (10:15) | Roleplay |
+| [**Scene 96**](#scene-96) | Toriel's Home - Living Room | December 29, 2025 DR (10:20) | Roleplay |
+| [**Scene 97**](#scene-97) | Toriel's Home - Living Room | 12 29, 2025 DR (10:20) | Roleplay |
+| [**Scene 98**](#scene-98) | Toriel's Home - Living Room | 12 29, 2025 DR (10:25) | Roleplay |
+| [**Scene 99**](#scene-99) | Toriel's Home - Living Room | 12 29, 2025 DR (10:30) | Roleplay |
+| [**Scene 100**](#scene-100) | Toriel's Home - Living Room | 12 29, 2025 DR (10:30) | Roleplay |
+| [**Scene 101**](#scene-101) | Toriel's Home - Living Room | 12 29, 2025 DR (11:15) | Roleplay |
+| [**Scene 102**](#scene-102) | Toriel's Home - Living Room | 12 29, 2025 DR (11:45) | Roleplay |
+| [**Scene 103**](#scene-103) | Toriel's Home - Living Room | 2025-12-29, Morning | Roleplay |
+| [**Scene 104**](#scene-104) | Toriel's Home - Living Room | 2025-12-29, Morning 11:45 | Roleplay |
+| [**Scene 105**](#scene-105) | Toriel's Home - Living Room | December 29, 2025 DR (12:05) | Roleplay |
+| [**Scene 106**](#scene-106) | Toriel's Home - Living Room | 12 29, 2025 DR (13:45) | Roleplay |
+| [**Scene 107**](#scene-107) | Toriel's Home - Living Room | 12 29, 2025 DR (14:15) | Roleplay |
+| [**Scene 108**](#scene-108) | Toriel's Home - Living Room | 12 29, 2025 DR (14:30) | Roleplay |
+| [**Scene 109**](#scene-109) | Toriel's Home - Living Room | 12 29, 2025 DR (14:45) | Roleplay |
+| [**Scene 110**](#scene-110) | Toriel's Home - Living Room | 12 29, 2025 DR (15:00) | Roleplay |
+| [**Scene 111**](#scene-111) | Toriel's Home - Living Room | 12 29, 2025 DR (15:30) | Roleplay |
+| [**Scene 112**](#scene-112) | Toriel's Home - Living Room | 12 29, 2025 DR (16:15) | Roleplay |
+| [**Scene 113**](#scene-113) | Toriel's Home - Living Room | 12 29, 2025 DR (16:30) | Roleplay |
+| [**Scene 114**](#scene-114) | Toriel's Home - Living Room | Mirtul 29, 2025 DR (16:45) | Roleplay |
+| [**Scene 115**](#scene-115) | Toriel's Home - Living Room | 12 29, 2025 DR (16:50) | Roleplay |
+| [**Scene 116**](#scene-116) | Toriel's Home - Living Room | 12 29, 2025 DR (17:05) | Roleplay |
+| [**Scene 117**](#scene-117) | Toriel's Home - Living Room | 12 29, 2025 DR (17:10) | Roleplay |
+| [**Scene 118**](#scene-118) | Toriel's Home - Living Room | 12 29, 2025 DR (17:15) | Roleplay |
+| [**Scene 119**](#scene-119) | Toriel's Home - Living Room | December 29, 2025 DR (17:25) | Roleplay |
+| [**Scene 120**](#scene-120) | Toriel's Home - Living Room | 12 29, 2025 DR (17:45) | Roleplay |
+| [**Scene 121**](#scene-121) | Toriel's Home - Living Room | 12 29, 2025 DR (17:50) | Roleplay |
+| [**Scene 122**](#scene-122) | Toriel's Home - Living Room | December 29, 2025 DR (18:05) | Roleplay |
+| [**Scene 123**](#scene-123) | Toriel's Home - Living Room | 12 29, 2025 DR (18:05) | Roleplay |
+| [**Scene 124**](#scene-124) | Toriel's Home - Living Room | 2025-12-29, Evening | Roleplay |
+| [**Scene 125**](#scene-125) | Toriel's Home - Living Room | 2025-12-29, 18:15:00 | Roleplay |
+| [**Scene 126**](#scene-126) | Toriel's Home - Living Room | 12 29, 2025 DR (18:20) | Roleplay |
+| [**Scene 127**](#scene-127) | Toriel's Home - Toriel's Bedroom | 12 29, 2025 DR (18:35) | Roleplay |
+| [**Scene 128**](#scene-128) | Toriel's Home - Toriel's Bedroom | 12 29, 2025 DR (18:45) | Roleplay |
+| [**Scene 129**](#scene-129) | Toriel's Home - Toriel's Bedroom | 12 29, 2025 DR (18:50) | Roleplay |
+| [**Scene 130**](#scene-130) | Toriel's Home - Living Room | 12 29, 2025 DR (19:15) | Roleplay |
+| [**Scene 131**](#scene-131) | Toriel's Home - Living Room | 12 29, 2025 DR (19:20) | Roleplay |
+| [**Scene 132**](#scene-132) | Toriel's Home - Basement Entrance | Mirtul 15, 2025 DR (Evening) | Roleplay |
+| [**Scene 133**](#scene-133) | Toriel's Home - Basement | 12 29, 2025 DR (19:30) | Roleplay |
+| [**Scene 134**](#scene-134) | Toriel's Home - Basement | December 29, 2025 DR (19:31) | Roleplay |
+| [**Scene 135**](#scene-135) | Toriel's Home - Basement | December 29, 2025 DR (19:31) | Roleplay |
+| [**Scene 136**](#scene-136) | Toriel's Home - Basement | December 29, 2025 DR (19:36) | Roleplay |
+| [**Scene 137**](#scene-137) | Toriel's Home - Basement | 12 29, 2025 DR (19:40) | Roleplay |
+| [**Scene 138**](#scene-138) | Toriel's Home - Basement | 2025-12-29, Morning | Roleplay |
+| [**Scene 139**](#scene-139) | Toriel's Home - Basement | 2025-12-29T19:45:00.000000Z | Roleplay |
+| [**Scene 140**](#scene-140) | Toriel's Home - Basement | 2025-12-29, Evening | Roleplay |
+| [**Scene 141**](#scene-141) | Toriel's Home - Basement | 12 29, 2025 DR (19:46) | Roleplay |
+| [**Scene 142**](#scene-142) | Toriel's Home - Basement | 12 29, 2025 DR (19:46) | Roleplay |
+| [**Scene 143**](#scene-143) | Toriel's Home - Basement | 12 29, 2025 DR (20:00) | Roleplay |
+| [**Scene 144**](#scene-144) | Toriel's Home - Basement | 12 29, 2025 DR (20:15) | Roleplay |
+| [**Scene 145**](#scene-145) | Toriel's Home - Master Bedroom | 12 29, 2025 DR (20:30) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **Character Selection** &nbsp;|&nbsp; ⏳ **201X, Underground** &nbsp;|&nbsp; 🛡️ **Lvl 1 Human | HP: 20/20 | XP: 0/10 | Gold: 0g** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: N/A, Soul: Determination**
@@ -187,8 +203,11 @@ Currently, you stand at the precipice of your journey. Before you step into the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Option 1: [AIGenerated] - Let the AI generate a balanced &#x27;Determination&#x27; build based on Frisk&#x27;s lore.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **Beneath Mt. Ebott - The Precipice** &nbsp;|&nbsp; ⏳ **Era of Monsters, Year Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Human (Determination) | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes**
@@ -224,8 +243,11 @@ This build prioritizes social interaction and survival. By maximizing Charisma a
 God Mode:
 Make my stats even numbers without changing the sum
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **Beneath Mt. Ebott - The Precipice** &nbsp;|&nbsp; ⏳ **2025-12-28, Morning (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes**
@@ -235,8 +257,11 @@ The user has requested to balance their attribute scores to even numbers while m
 God Mode:
 Play Character - Approve Frisk and begin your journey into the Ruins.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The Ruins - Entrance** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes**
@@ -246,8 +271,11 @@ The heavy stone doors of the Ruins groan open with a weight that speaks of centu
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Golden Flowers - Look closely at the patch of flowers in the center of the room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The Ruins - Entrance** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes**
@@ -259,8 +287,11 @@ Your keen eyes catch a subtle movement. These aren't just ordinary buttercups. B
 > [!NOTE] ⚙️ **Player Choice:**
 > *Touch a Petal - Gently touch one of the flowers to see how it reacts to your physical presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **The Ruins - Entrance** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes**
@@ -272,8 +303,11 @@ As your skin makes contact, the flower doesn't just react; it recoils. The entir
 > [!NOTE] ⚙️ **Player Choice:**
 > *Apologize to the Flowers - Speak softly to the plants, hoping to soothe their reaction.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **The Ruins - Entrance** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes**
@@ -285,8 +319,11 @@ As the words leave your lips, the air seems to lose its sharp, metallic edge. Th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Purple Stonework - Investigate the ancient walls and floor for clues about this place.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **The Ruins - Entrance** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes**
@@ -298,8 +335,11 @@ As you lean in to look for masons' marks or historical inscriptions, your eyes s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Continue Deeper - Walk through the large stone archway into the next room.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **The Ruins - Entrance Hall** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -311,8 +351,11 @@ Your boots scuff against a loose piece of gravel, the sound sharp in the expecta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Approach the Flower - Walk closer to the smiling flower to see if it wants to talk.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **The Ruins - Flowey's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -326,8 +369,11 @@ You step closer to the solitary flower, your footsteps soft against the purple s
 > [!NOTE] ⚙️ **Player Choice:**
 > *Listen to Flowey - Let Flowey explain how things work in the Underground.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **The Ruins - Flowey's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -341,8 +387,11 @@ He launches the pellets toward your soul. They drift slowly through the air, the
 > [!NOTE] ⚙️ **Player Choice:**
 > *Catch the Pellets - Move your soul forward to touch the shimmering &#x27;friendliness pellets.&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **The Ruins - Flowey's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:46)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 1/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -359,8 +408,11 @@ You collapse to your knees, gasping for air as your vision flickers. The warm, p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Call for Help - Cry out into the darkness of the Ruins, hoping someone—anyone—hears you.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **The Ruins - Flowey's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:46)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 1/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -374,8 +426,11 @@ Just as the pellets begin their final, lethal descent, a soft, shimmering glow a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reach for the New Light - Turn your attention toward the mysterious glow appearing in the archway.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **The Ruins - Flowey's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (12:48)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 1/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -389,8 +444,11 @@ You turn your gaze, blurred by pain and the flickering light of your dying soul,
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask about the Underground - Inquire about where you are and who else lives here.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **The Ruins - Flowey's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 1/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -406,8 +464,11 @@ She seems to hesitate, choosing her words carefully. [DICE: Persuasion (Inquiry)
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow Toriel - Accept her guidance and walk with her deeper into the Ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **The Ruins - Entrance Hall** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -423,8 +484,11 @@ She leads you toward a set of stairs, her presence acting as a shield against th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Surroundings - Stay quiet and try to memorize the patterns she is using on the tiles.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **The Ruins - Entrance Hall** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (13:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -440,8 +504,11 @@ Toriel stops at the top of the stairs, turning to give you a soft, encouraging p
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About Puzzles - Inquire why the Ruins are filled with such dangerous-looking mechanisms.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **The Ruins - Puzzle Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -457,8 +524,11 @@ You see it clearly now—the way she avoids the word 'dangerous,' the way her ey
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Levers - Look closely at the next puzzle mechanism to see how it functions.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **The Ruins - Puzzle Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -470,8 +540,11 @@ Your keen observation pays off instantly. While the stone around the levers is d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Toriel to Demonstrate - Let her show you the &#x27;correct&#x27; way to handle the tradition.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **The Ruins - Puzzle Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -487,8 +560,11 @@ With a resounding groan of ancient stone, the heavy door at the end of the hall 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About the Labels - Inquire who put the markings there and if they are for everyone to use.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **The Ruins - Puzzle Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -502,8 +578,11 @@ She looks back at you, her eyes searching your face. "They are there for everyon
 > [!NOTE] ⚙️ **Player Choice:**
 > *Walk Through the Doorway - Follow Toriel into the next part of the Ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -519,8 +598,11 @@ Toriel stops suddenly and turns to face you, her expression serious but not unki
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask Why - Ask Toriel why she needs to leave you alone for this part.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -540,8 +622,11 @@ She stands back up and gives you one last encouraging nod before turning and wal
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interact with Save Point - Touch the shimmering golden light to record your progress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Determined | Exhaustion: 0 | Inspiration: Yes**
@@ -555,8 +640,11 @@ In the center of the path, you reach the small, shimmering spark of golden light
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine Hallway Walls - Look for more markings or signs of history while you&#x27;re alone.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -570,8 +658,11 @@ The shadows play tricks on your eyes in the dim violet light. What looked like a
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Blade of Grass - Look closer at the tiny bit of life growing through the floor tiles.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **December 28, 2025 DR (14:16)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -585,8 +676,11 @@ As you lean closer, your red soul pulses with a soft, sympathetic warmth. You no
 > [!NOTE] ⚙️ **Player Choice:**
 > *Walk to the End - Complete the test of independence by walking to the pillar where Toriel is waiting.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **December 28, 2025 DR (14:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -608,8 +702,11 @@ You catch her in a moment of raw, unshielded emotion. She wasn't just 'waiting' 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About Her Worry - Gently ask why she seemed so scared while waiting*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -625,8 +722,11 @@ You see right through the maternal mask. The fear in her eyes wasn't just 'healt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Press About Others - Ask directly if other children have walked this hallway before.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -644,8 +744,11 @@ As she speaks, you don't just hear her words; you feel the crushing weight of th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask What Happened - Press further to find out where the other children went.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -661,8 +764,11 @@ Toriel's breath hitches, a sharp, ragged sound that echoes off the purple stone.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About the King - Inquire about the &#x27;King&#x27; and why his law is so dangerous*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -680,8 +786,11 @@ You sense the jagged edges of a truth she is still holding back—a connection b
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About Asgore - Inquire further about what kind of person the King used to be.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -697,8 +806,11 @@ Toriel flinches as if struck by a physical blow. [DICE: Persuasion (Inquiry into
 > [!NOTE] ⚙️ **Player Choice:**
 > *Comfort Toriel - Stop asking questions and offer a hug or a kind word to soothe her distress.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **The Ruins - Long Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (14:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -718,8 +830,11 @@ You feel the rhythm of her heartbeat slowing as she finds comfort in your presen
 > [!NOTE] ⚙️ **Player Choice:**
 > *Follow to Toriel&#x27;s Home - Walk with Toriel up the stairs to reach her residence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Toriel's Home - Exterior** &nbsp;|&nbsp; ⏳ **December 28, 2025 DR (15:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -735,8 +850,11 @@ In your eagerness to reach the warmth you feel radiating from the building, the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Inspect the Tree - Take a moment to look at the large, leafless tree in the front yard before going in.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Toriel's Home - Exterior** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (15:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -748,8 +866,11 @@ As you lean in to examine the bark, a sudden, sharp gust of wind whistles throug
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About the Tree - Ask Toriel why the tree is leafless before going inside.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Toriel's Home - Exterior** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (15:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -767,8 +888,11 @@ You see a parallel in her eyes that she doesn't voice. To her, this tree is a mi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enter the House - Step through the doorway into the warm, cinnamon-scented interior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Toriel's Home - Interior** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Determination Adept | HP: 8/8 | XP: 0/300 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Inspiration: Yes, Exhaustion: 0**
@@ -782,8 +906,11 @@ Your eyes are immediately drawn to the source of the heavenly aroma: a cooling p
 God Mode:
 Award exp as appropriate for all events
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Toriel's Home - Interior** &nbsp;|&nbsp; ⏳ **2025-12-28, 15:35** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 21/21 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: Yes, Exhaustion: 0**
@@ -793,8 +920,11 @@ The player is currently in Toriel's home after a series of intense emotional and
 God Mode:
 Any choices to make for level 3?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Toriel's Home - Interior** &nbsp;|&nbsp; ⏳ **2025-12-28, 15:35** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 21/21 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: Yes, Exhaustion: 0**
@@ -804,8 +934,11 @@ The player has reached Level 3, which is a major milestone for the Determination
 God Mode:
 Soul of Determination - Gain &#x27;Refusal&#x27;: Once per long rest, if reduced to 0 HP, drop to 1 HP instead. Boost maximum HP by 3.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Toriel's Home - Interior** &nbsp;|&nbsp; ⏳ **2025-12-28, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 24/24 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: Yes, Exhaustion: 0**
@@ -815,8 +948,11 @@ The player is finalizing their Level 3 'Determination' build. They have chosen t
 God Mode:
 Select Level 2 Spells - Choose new magical capabilities
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **Toriel's Home - Interior** &nbsp;|&nbsp; ⏳ **Month 12, 2025 (Day 28)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: Yes, Exhaustion: 0**
@@ -826,8 +962,11 @@ Frisk has reached Level 3, gaining access to 2nd-level spells. As a 'Determinati
 God Mode:
 Hold Person &amp; Misty Step - Select spells for tactical non-lethal restraint and swift movement.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **Toriel's Home - Interior** &nbsp;|&nbsp; ⏳ **2025-12-28, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Inspiration: Yes, Exhaustion: 0**
@@ -837,8 +976,11 @@ The administrative phase for Level 3 is now complete. The character has been upd
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative in Toriel&#x27;s home
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **Toriel's Home - Interior** &nbsp;|&nbsp; ⏳ **2025-12-28, Afternoon** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -852,8 +994,11 @@ You feel the hum of your SOUL—now stronger, pulsing with the new depths of you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Go to Sleep - Follow Toriel&#x27;s suggestion and head to your new room for a nap.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **Toriel's Home - Frisk's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -867,8 +1012,11 @@ You drift into a fitful, shallow sleep. In your dreams, you are back in the long
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Room - Look through the toy box or the desk to learn more about who lived here before.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **Toriel's Home - Frisk's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -882,8 +1030,11 @@ Turning your attention to the toy box in the corner, you lift the heavy lid. [DI
 > [!NOTE] ⚙️ **Player Choice:**
 > *Try to Sleep Again - Attempt to get some actual restful sleep despite the nightmares.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-46"></a>
 #### Scene 46
 
 > 📍 **Toriel's Home - Frisk's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -899,8 +1050,11 @@ You wake up when the dim light in the room has shifted to a soft, dusky orange. 
 > 👤 **Player:**
 > *"Think. How can I increase my power"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-47"></a>
 #### Scene 47
 
 > 📍 **Toriel's Home - Frisk's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -910,8 +1064,11 @@ You sit on the edge of the bed, the red quilt bunched beneath your hands. The ro
 > 👤 **Player:**
 > *"Thinks I don't mind violence I just want quicker path to power. I want to take over underworld or gain power to conquer surface"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-48"></a>
 #### Scene 48
 
 > 📍 **Toriel's Home - Frisk's Room** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -921,8 +1078,11 @@ You sit on the edge of the bed, the red quilt bunched beneath your hands as your
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search for Forbidden Knowledge - Look through Toriel&#x27;s library for mentions of soul-harvesting, the Barrier&#x27;s mechanics, or ancient dark magic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-49"></a>
 #### Scene 49
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -938,8 +1098,11 @@ Your fingers brush against a spine that feels colder than the others, tucked awa
 > [!NOTE] ⚙️ **Player Choice:**
 > *Test Soul Manipulation - Focus inward to see if your Determination can be used to command or drain energy rather than just preserve it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-50"></a>
 #### Scene 50
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -953,8 +1116,11 @@ But the soul is not a weapon that is easily reforged. As you try to twist your e
 God Mode:
 Should I be allowed to change my alignment now or in the game do I normally do evil acts first?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-51"></a>
 #### Scene 51
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **2025-12-28, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -964,8 +1130,11 @@ The player is inquiring about the mechanics of alignment shifts in relation to t
 God Mode:
 Can it happen naturally through the story? Is that part of the original game?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-52"></a>
 #### Scene 52
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **Month 12, 2025 (Day 28)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ⚠️ **Rested | Exhaustion: 0 | Inspiration: Yes**
@@ -975,8 +1144,11 @@ The player is exploring the meta-mechanics of the 'Genocide' or 'Conquest' path.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Shift Alignment: Lawful Evil - Formally adopt the &#x27;Conqueror&#x27; mindset, shifting your internal compass to Lawful Evil.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-53"></a>
 #### Scene 53
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -988,8 +1160,11 @@ The warmth of Toriel's home, once a comfort, now feels like a stagnant pond. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume gameplay with the new alignment.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-54"></a>
 #### Scene 54
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Alignment: Lawful Evil** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -1001,8 +1176,11 @@ From the kitchen, the soft, rhythmic sound of humming continues—Toriel, blissf
 > 👤 **Player:**
 > *"assess toriel and see if she can help me level up"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-55"></a>
 #### Scene 55
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -1018,8 +1196,11 @@ You realize that while she is unlikely to teach you 'conquest' directly, her kno
 > [!NOTE] ⚙️ **Player Choice:**
 > *Request &#x27;Self-Defense&#x27; Training - Approach Toriel and ask her to teach you how to use your soul magic to &#x27;protect yourself&#x27; from creatures like Flowey.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-56"></a>
 #### Scene 56
 
 > 📍 **Toriel's Home - Living Room & Library** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -1035,8 +1216,11 @@ Toriel’s eyes shimmer with a mixture of heartbreak and a protective, maternal 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Focus on Warding - Ask her to teach you how to create a protective barrier with your soul magic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-57"></a>
 #### Scene 57
 
 > 📍 **Toriel's Home - Kitchen** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes** &nbsp;|&nbsp; ⚠️ **Inspiration: Yes | Alignment: Lawful Evil**
@@ -1054,8 +1238,11 @@ Guided by her steady voice, you focus on the diamond-hard point of your Lawful i
 > [!NOTE] ⚙️ **Player Choice:**
 > *Strengthen the Ward - Focus on making the barrier more durable and reactive to threats.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-58"></a>
 #### Scene 58
 
 > 📍 **Toriel's Home - Kitchen** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: Yes**
@@ -1069,8 +1256,11 @@ Toriel claps her paws together, her eyes shining with tears of joy. 'Magnificent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Pie - Sit with Toriel and eat, using the time to subtly probe for more information about the Underground&#x27;s layout.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-59"></a>
 #### Scene 59
 
 > 📍 **Toriel's Home - Kitchen** &nbsp;|&nbsp; ⏳ **December 28, 2025 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: Yes**
@@ -1088,8 +1278,11 @@ She avoids giving you a map, but her deflection confirms a strategic truth: the 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask about the Basement - Inquire about the stairs leading down, framing it as a fear of &#x27;dark spaces&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-60"></a>
 #### Scene 60
 
 > 📍 **Toriel's Home - Kitchen** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (20:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1** &nbsp;|&nbsp; ⚠️ **Determined, Lawful Evil | Exhaustion: 0 | Inspiration: No**
@@ -1111,8 +1304,11 @@ You see the reaction for exactly what it is: a triggered trauma. Her fear isn't 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask for Comfort - Follow her and ask her to &#x27;protect&#x27; you by explaining why the basement is so scary.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-61"></a>
 #### Scene 61
 
 > 📍 **Toriel's Home - Kitchen/Basement Entrance** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: No**
@@ -1134,8 +1330,11 @@ She steps fully in front of the door, her large frame blocking the path like a f
 > 👤 **Player:**
 > *"obey for now and scout her house while she's gone for more powerups"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-62"></a>
 #### Scene 62
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **December 28, 2025 DR (20:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: No**
@@ -1153,8 +1352,11 @@ Finally, you reach the door to Toriel's own room. It is locked, but the mechanis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Hide and Wait - Conceal yourself in the hallway wardrobe and wait to see if she returns before continuing the search.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-63"></a>
 #### Scene 63
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (21:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: No**
@@ -1168,8 +1370,11 @@ Then, the sounds change. The crackle of fire stops. You hear her heavy footsteps
 > [!NOTE] ⚙️ **Player Choice:**
 > *Flicker Away - Use Misty Step to bypass her and reappear inside your bedroom before she turns around*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-64"></a>
 #### Scene 64
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (21:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1183,8 +1388,11 @@ Through the wood, you hear Toriel's breath hitch. 'Frisk?' she calls out, her vo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appear to be Sleeping - Get back in bed so when she checks the room, she&#x27;ll think she just missed you, reinforcing your &#x27;innocence&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-65"></a>
 #### Scene 65
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (21:10)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 0/2, Refusal: 1/1, Inspiration: No**
@@ -1204,8 +1412,11 @@ You let out a small, sleepy mumble, shifting just enough to look like a child di
 > [!NOTE] ⚙️ **Player Choice:**
 > *Listen for the Ghost - The living world report mentioned Napstablook in the basement. Listen at the door to see if you can communicate with this &#x27;mournful presence&#x27;.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-66"></a>
 #### Scene 66
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **Mirtul 28, 2025 DR (21:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: No**
@@ -1219,8 +1430,11 @@ You press your ear against the cold, dark wood, straining to hear past the linge
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sharpen the SOUL - Sit in the hallway and attempt to refine your magic while she&#x27;s away.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-67"></a>
 #### Scene 67
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: No**
@@ -1234,8 +1448,11 @@ You visualize the magic Toriel taught you, but instead of weaving it into a gent
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Meditation - Try again to focus, perhaps by focusing on your hatred of being &#x27;trapped&#x27;*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-68"></a>
 #### Scene 68
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:15)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1249,8 +1466,11 @@ As the cold heat of your hatred for being 'trapped' ignites, the resonance of yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deepen the Focus - Try to maintain this sharp state and see if you can hear the ghost more clearly now*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-69"></a>
 #### Scene 69
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:20)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1268,8 +1488,11 @@ The presence is right beneath you, hovering in the darkness where Toriel just fi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Project SOUL Intent - Attempt to pulse your Determination magic directly into the floor to get the ghost&#x27;s attention.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-70"></a>
 #### Scene 70
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:25)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1287,8 +1510,11 @@ The dripping stops. The low, rhythmic humming of the ghost hitches, a sharp inta
 > [!NOTE] ⚙️ **Player Choice:**
 > *Whisper to the Mist - Speak softly to the mist seeping through the floor to establish a verbal connection.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-71"></a>
 #### Scene 71
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1306,8 +1532,11 @@ The mist doesn't just dissipate; it vanishes with a sudden, vacuum-like pop. You
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Bed - Safe path: Get back under the quilt before she returns to maintain the &#x27;perfect child&#x27; mask.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-72"></a>
 #### Scene 72
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:35)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Alignment: Lawful Evil** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1321,8 +1550,11 @@ As you pivot, your bare heel catches the edge of a rug, bunching it up and causi
 > [!NOTE] ⚙️ **Player Choice:**
 > *Confront Honestly - Sit up and claim you were getting water or couldn&#x27;t sleep, abandoning the &#x27;deep sleep&#x27; ruse.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-73"></a>
 #### Scene 73
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:40)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1342,8 +1574,11 @@ The air in the room, thick with the ozone-scent of her magic, seems to deflate. 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About the &#x27;Noises&#x27; - Press her about what she was doing downstairs to see how much of the exit remains.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-74"></a>
 #### Scene 74
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (22:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1363,8 +1598,11 @@ Her grief is so immense that it clouds your ability to read the technical specif
 > [!NOTE] ⚙️ **Player Choice:**
 > *Forgive Her - Tell her you understand why she did it, further cementing her trust while she&#x27;s in this weakened state.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-75"></a>
 #### Scene 75
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (23:05)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1380,8 +1618,11 @@ Toriel flinches, but not from relief. She looks down at your hand, then back at 
 > 👤 **Player:**
 > *"assess candy first"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-76"></a>
 #### Scene 76
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 28, 2025 DR (23:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 1/2, Refusal: 1/1, Inspiration: No**
@@ -1397,8 +1638,11 @@ Through the wood, you don't just hear her footsteps; you feel the absolute colla
 > 👤 **Player:**
 > *"long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-77"></a>
 #### Scene 77
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (07:30)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: No**
@@ -1408,8 +1652,11 @@ The heavy, cloying scent of cinnamon and butterscotch lingers in the room as you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Search Toriel&#x27;s Room - Check if her door is still locked or if she left it open in her exhaustion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-78"></a>
 #### Scene 78
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (07:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Determination Adept | HP: 27/27 | XP: 1225/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 4/4, L2 2/2, Refusal: 1/1, Inspiration: No**
@@ -1423,8 +1670,11 @@ You reach for the handle, testing the latch with a slow, agonizingly steady pres
 God Mode:
 did you give me exp for all the narrative events so far?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-79"></a>
 #### Scene 79
 
 > 
@@ -1434,8 +1684,11 @@ The player is auditing their progress. I have identified four distinct narrative
 God Mode:
 Return to Story - Resume the infiltration of Toriel&#x27;s room with your updated XP.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-80"></a>
 #### Scene 80
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **2025-12-29, 07:46** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1463,8 +1716,11 @@ From the kitchen, the silence is absolute. She is likely still in the living roo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Enhance Charisma (+2) - Increase your presence and manipulative power (CHA 16 -&gt; 18).*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-81"></a>
 #### Scene 81
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (07:46)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1476,8 +1732,11 @@ As you embrace this new depth of manipulative power, you feel the 'weight' of yo
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Basement - Slip back to the basement door while she is distracted to investigate the damage and the ghost.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-82"></a>
 #### Scene 82
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1495,8 +1754,11 @@ Your heightened senses immediately identify the cause of your stumble. The floor
 > [!NOTE] ⚙️ **Player Choice:**
 > *Stabilize SOUL - Quickly project a calming frequency to mask your presence and soothe Toriel&#x27;s sudden alertness.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-83"></a>
 #### Scene 83
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (08:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Alignment: Lawful Evil** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1512,8 +1774,11 @@ The frequency is off. Instead of a soothing hum, your SOUL releases a sharp, dis
 > [!NOTE] ⚙️ **Player Choice:**
 > *Feign Sleepwalking - Keep your eyes glazed and move aimlessly, pretending you&#x27;re in a trance-like state to explain your presence.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-84"></a>
 #### Scene 84
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (08:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Alignment: Lawful Evil** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1529,8 +1794,11 @@ The tension in the air, thick with the ozone of her magic, hitches. Toriel stops
 > [!NOTE] ⚙️ **Player Choice:**
 > *Allow Guidance - Stay in the &#x27;trance&#x27; and let her lead you back to your room to fully reset her suspicion.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-85"></a>
 #### Scene 85
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (08:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No** &nbsp;|&nbsp; ⚠️ **Lawful Evil Mindset | Alignment: LE**
@@ -1546,8 +1814,11 @@ Toriel's suspicion, which had flared like an amber flame only moments ago, is co
 > [!NOTE] ⚙️ **Player Choice:**
 > *Systematic Search - Now that she&#x27;s settled, conduct a silent, methodical search of the hallway wardrobe for hidden items.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-86"></a>
 #### Scene 86
 
 > 📍 **Toriel's Home - Hallway** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1565,8 +1836,11 @@ Equipment summary: Stick, Tough Glove, Bandage, Concentrated Monster Candy (Heal
 > 👤 **Player:**
 > *"long rest"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-87"></a>
 #### Scene 87
 
 > 📍 **Toriel's Home - Bedroom** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1578,8 +1852,11 @@ Your sleep is deep and strategic. The cold, diamond-sharp beacon of your Determi
 > 👤 **Player:**
 > *"keep trying to get. toriel to train me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-88"></a>
 #### Scene 88
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (08:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Inspiration: No**
@@ -1595,8 +1872,11 @@ Toriel’s expression softens, but the maternal wall she has constructed remains
 > [!NOTE] ⚙️ **Player Choice:**
 > *Accept the Tea - Accept the tea but use the conversation to ask about her own &#x27;training&#x27; and history as a Queen.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-89"></a>
 #### Scene 89
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (09:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Misty Step: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1614,8 +1894,11 @@ She takes a long sip of her tea, her gaze drifting to the skeletal tree outside 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask About Her Subjects - Inquire about the types of monsters she led and their loyalty to the crown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-90"></a>
 #### Scene 90
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Misty Step: 1/1**
@@ -1629,8 +1912,11 @@ Toriel's expression tightens, the regal light in her eyes flickering with a sudd
 God Mode:
 make me a female, give me an age, give me a somehwat "noble" background. I can be the daughter of someone who owns a big multi national conglomerate. something where i can relate to toriel
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-91"></a>
 #### Scene 91
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **December 29, 2025 (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Misty Step: 1/1**
@@ -1640,8 +1926,11 @@ The player is using GOD MODE to retcon their character's background and identity
 > [!NOTE] ⚙️ **Player Choice:**
 > *Return to Story - Exit GOD MODE and resume the conversation with Toriel*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-92"></a>
 #### Scene 92
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 38/38 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Misty Step: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1657,8 +1946,11 @@ Toriel freezes, her paws mid-air as she reaches for the teapot. [DICE: Persuasio
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand High-Level Training - Assert that as a future leader, you must master the offensive magic she used against Flowey.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-93"></a>
 #### Scene 93
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1 recovered** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1672,8 +1964,11 @@ Toriel recoils as if you've physically struck her. She sets her teacup down with
 > [!NOTE] ⚙️ **Player Choice:**
 > *Reframe as &#x27;Neutralization&#x27; - Argue that mastering her fire is the only way to safely neutralize threats without killing them, appealing to her logic.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-94"></a>
 #### Scene 94
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1 (Monster Candy)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1693,8 +1988,11 @@ She reaches out, her palm glowing with a controlled, steady amber light. 'If you
 > [!NOTE] ⚙️ **Player Choice:**
 > *Begin Fire Training - Follow Toriel to the hearth to learn the mechanics of offensive fire magic*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-95"></a>
 #### Scene 95
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1708,8 +2006,11 @@ However, the transition from the boardroom logic of 'neutralization' to the visc
 > [!NOTE] ⚙️ **Player Choice:**
 > *Ask for Technical Theory - If the practice is failing, ask her to explain the &#x27;equations&#x27; behind the heat-soul resonance.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-96"></a>
 #### Scene 96
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1729,8 +2030,11 @@ Her explanation is cloying, draped in the same maternal sentimentality that has 
 > 👤 **Player:**
 > *"think. can i use my cha to learn this better?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-97"></a>
 #### Scene 97
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (10:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1 recovered, Monster Candy: 1, Exhaustion: 0**
@@ -1740,8 +2044,11 @@ You pause, the amber light of the hearth reflecting in your eyes as you weigh th
 > [!NOTE] ⚙️ **Player Choice:**
 > *Analyze Toriel&#x27;s Aura - Use Charisma (Persuasion/Insight) to get Toriel to demonstrate again, focusing on the &#x27;pressure&#x27; of her soul.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-98"></a>
 #### Scene 98
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (10:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1757,8 +2064,11 @@ You see it now, not with your eyes, but with the raw sensitivity of your own red
 > [!NOTE] ⚙️ **Player Choice:**
 > *Seize the Resonance - Try to &#x27;vibrate&#x27; your soul to match her pressure, attempting a more synchronized magical feat*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-99"></a>
 #### Scene 99
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1774,8 +2084,11 @@ Toriel staggers back, her breath catching in a sharp, audible gasp. Her eyes are
 > 👤 **Player:**
 > *"think. how can i keep learning"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-100"></a>
 #### Scene 100
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1 recovered, Monster Candy: 1, Exhaustion: 0**
@@ -1789,8 +2102,11 @@ You turn your gaze back to Toriel, who is still staring at your hands with a mix
 > [!NOTE] ⚙️ **Player Choice:**
 > *Leverage Toriel&#x27;s Pride - Praise her teaching and ask for the &#x27;advanced history&#x27; of the fire to learn more complex spells*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-101"></a>
 #### Scene 101
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (11:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1810,8 +2126,11 @@ With a low, mechanical hum, a compartment slides open, revealing a tome bound in
 > 👤 **Player:**
 > *"use my cha to intuiively learn it"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-102"></a>
 #### Scene 102
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 3175/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1827,8 +2146,11 @@ Toriel watches in stunned silence as the amber fire at your fingertips doesn't j
 God Mode:
 reward exp for all my wins if not already granted
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-103"></a>
 #### Scene 103
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **2025-12-29, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1838,8 +2160,11 @@ The player is in GOD MODE requesting an XP audit for recent 'wins' that haven't 
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative with the new XP totals.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-104"></a>
 #### Scene 104
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **2025-12-29, Morning 11:45** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Monster Candy: 1, Exhaustion: 0**
@@ -1851,8 +2176,11 @@ The lavender light of the Underground's morning filters through the living room 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Deep Study: Libram of Crystalline Intent - Spend more time with the book to unlock its deeper geometric secrets*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-105"></a>
 #### Scene 105
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 0/4 | Spells: L1 4/4, L2 3/3 | Refusal: 1/1 | Potions: Concentrated Monster Candy (1)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -1866,8 +2194,11 @@ The sigils resist. Your cold, analytical intent clashes against the fluid, reson
 > 👤 **Player:**
 > *"Use my cha to instinctively learn the book"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-106"></a>
 #### Scene 106
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -1883,8 +2214,11 @@ You have bypassed the academic hurdles of monster magic entirely, seizing the de
 > [!NOTE] ⚙️ **Player Choice:**
 > *Show Toriel Your Progress - Demonstrate your rapid mastery to Toriel to further cement your status as her peer or superior.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-107"></a>
 #### Scene 107
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (14:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 4/4, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -1898,8 +2232,11 @@ Toriel drops the stack of laundry she was carrying, her large paws flying to her
 > [!NOTE] ⚙️ **Player Choice:**
 > *Observe Her Silence - Maintain your poise and wait for her to acknowledge your superiority.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-108"></a>
 #### Scene 108
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 4/4, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -1915,8 +2252,11 @@ You see the shift occur in real-time. The 'Caretaker' has finally collapsed, and
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Loyal Service - Order her to prepare for your departure and provide any remaining artifacts of the crown.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-109"></a>
 #### Scene 109
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (14:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 4/4, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -1932,8 +2272,11 @@ Toriel looks up, her dark eyes shimmering with a staggering, complex grief. [DIC
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Truth - Challenge her claim that nothing remains; search her eyes for the lie*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-110"></a>
 #### Scene 110
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (15:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -1949,8 +2292,11 @@ Her pupils dilate, a sudden, jagged spike of guilt fracturing the somber dignity
 > [!NOTE] ⚙️ **Player Choice:**
 > *Break Her Resolve - Press the psychological advantage; demand she hand over the book herself.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-111"></a>
 #### Scene 111
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -1970,8 +2316,11 @@ Toriel stops, her back to you, her shoulders trembling with a sudden, violent sp
 > [!NOTE] ⚙️ **Player Choice:**
 > *Offer False Comfort - Switch back to the &#x27;innocent child&#x27; mask to coax her into letting her guard down one last time.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-112"></a>
 #### Scene 112
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -1989,8 +2338,11 @@ But the air in the living room doesn't soften. Toriel doesn't reach out to scoop
 > [!NOTE] ⚙️ **Player Choice:**
 > *Appeal to Royal Legacy - Abandon the child mask and speak to her as an heiress to a Queen once more, demanding the record as a birthright.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-113"></a>
 #### Scene 113
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (16:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2006,8 +2358,11 @@ Toriel staggers as if the sheer weight of your presence has physical mass. The h
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Architecture Record - Study the book to find the hidden path out of the Ruins.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-114"></a>
 #### Scene 114
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **Mirtul 29, 2025 DR (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2025,8 +2380,11 @@ You scan the room, looking for a physical reference to the drawings—a hidden l
 > 👤 **Player:**
 > *"persuade toriel to explain it to me"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-115"></a>
 #### Scene 115
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (16:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Warding Insight (+1 AC vs magic) | Refusal: 1/1**
@@ -2044,8 +2402,11 @@ She reaches out a paw, her singed fur trembling as she slowly pushes the book aw
 > 👤 **Player:**
 > *"use my cha and instincts to read the book"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-116"></a>
 #### Scene 116
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2059,8 +2420,11 @@ The breakthrough is absolute. The chaotic mess of runes and load-bearing equatio
 > 👤 **Player:**
 > *"keep reading the book, doesnt it have more secretS?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-117"></a>
 #### Scene 117
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (17:10)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2072,8 +2436,11 @@ As you reach the section detailing the 'Final Threshold,' the text becomes madde
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate: Reliquary - Force or manipulate Toriel into explaining the &#x27;Reliquary of the Fallen&#x27; mentioned in the book.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-118"></a>
 #### Scene 118
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2085,8 +2452,11 @@ Toriel flinches, her breath catching in a ragged, wet sound. [DICE: Interrogate 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Command Access - Order Toriel to accompany you to the basement immediately to open the Reliquary.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-119"></a>
 #### Scene 119
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (17:25)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2100,8 +2470,11 @@ Toriel flinches, her paws clutching the singed fabric of her robes. She looks up
 > [!NOTE] ⚙️ **Player Choice:**
 > *Exploit Trauma - Argue that by staying, she is merely prolonging the suffering of the &#x27;fallen&#x27; in the Reliquary*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-120"></a>
 #### Scene 120
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2117,8 +2490,11 @@ But the trauma is too deep, the wound too old. Instead of breaking, she hardens.
 > [!NOTE] ⚙️ **Player Choice:**
 > *Cast Crystalline Cage - Use your newly mastered magic to physically restrain her without damage so you can take the keys.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-121"></a>
 #### Scene 121
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (17:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Potions: 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Warding Insight (+1 AC vs magic) | Refusal: Ready**
@@ -2134,8 +2510,11 @@ You step forward, the amber glow reflecting in your eyes as you reach for the ri
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Reliquary Location - Use your position of power to force her to reveal the exact trigger for the Reliquary vault.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-122"></a>
 #### Scene 122
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2153,8 +2532,11 @@ The former Queen collapses against the shimmering bars, her spirit finally break
 > 👤 **Player:**
 > *"think. can i consume her and take her powers and memories"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-123"></a>
 #### Scene 123
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (18:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 4525/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2164,8 +2546,11 @@ You stand before the former Queen, the amber lattice of your magic humming betwe
 God Mode:
 process my exp from recent wins
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-124"></a>
 #### Scene 124
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **2025-12-29, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2184,8 +2569,11 @@ Your total experience has been updated to **6,206**. You are now significantly c
 God Mode:
 Return to Story - Exit GOD MODE and resume the narrative at the climax of the confrontation
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-125"></a>
 #### Scene 125
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **2025-12-29, 18:15:00** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Potions: 1, Exhaustion: 0**
@@ -2199,8 +2587,11 @@ Toriel slumped against the floor, the cage still holding but her presence now a 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Issue Final Ultimatum - Demand she release the magical seal on the Reliquary from here before you leave her*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-126"></a>
 #### Scene 126
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (18:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0**
@@ -2214,8 +2605,11 @@ Toriel looks up, her eyes wide and shimmering with a staggering, crystalline def
 > 👤 **Player:**
 > *"take her keys, loot the whole house then go to toriel bedroom and search there"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-127"></a>
 #### Scene 127
 
 > 📍 **Toriel's Home - Toriel's Bedroom** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (18:35)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0**
@@ -2229,8 +2623,11 @@ You pivot toward the hallway, your bare feet carrying you to the heavy wooden do
 > 👤 **Player:**
 > *"get the keys again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-128"></a>
 #### Scene 128
 
 > 📍 **Toriel's Home - Toriel's Bedroom** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (18:45)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Warding Insight (+1 AC vs magic) | Refusal (1/1)**
@@ -2242,8 +2639,11 @@ Your fingers hook the iron ring with surgical accuracy. This time, there is no d
 > [!NOTE] ⚙️ **Player Choice:**
 > *Examine the Locket - Investigate the locket&#x27;s melody and internal portrait for more leverage over Toriel.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-129"></a>
 #### Scene 129
 
 > 📍 **Toriel's Home - Toriel's Bedroom** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (18:50)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0**
@@ -2259,8 +2659,11 @@ You look at the locket, then back toward the living room where Toriel remains tr
 > [!NOTE] ⚙️ **Player Choice:**
 > *Final Interrogation - Demand Toriel explain exactly what the &#x27;Reliquary&#x27; items do before you leave*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-130"></a>
 #### Scene 130
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0**
@@ -2288,8 +2691,11 @@ Toriel flinches, her breathing a ragged, whistling sound against the humming amb
 > [!NOTE] ⚙️ **Player Choice:**
 > *Demand Locket Key - The locket is a dead end without the &#x27;royal pulse&#x27; sync. Demand she explain how to trigger it.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-131"></a>
 #### Scene 131
 
 > 📍 **Toriel's Home - Living Room** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (19:20)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0**
@@ -2305,8 +2711,11 @@ Toriel looks up, but the staggering defeat in her eyes has hardened into a britt
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Ghost for Sync - Return to the basement and demand Napstablook explain the &#x27;royal pulse&#x27; from a spectral perspective.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-132"></a>
 #### Scene 132
 
 > 📍 **Toriel's Home - Basement Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 2025 DR (Evening)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0**
@@ -2324,8 +2733,11 @@ The ghost flinches, his translucent form flickering with a sudden, electronic st
 > [!NOTE] ⚙️ **Player Choice:**
 > *Interrogate Ghost Further - Demand more details on the &#x27;Echoes&#x27; within the Reliquary.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-133"></a>
 #### Scene 133
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 2/3, Refusal: 1/1, Monster Candy (Conc): 1, Exhaustion: 0**
@@ -2341,8 +2753,11 @@ He gestures toward the floorboards where the Reliquary lies hidden. '...if you f
 > [!NOTE] ⚙️ **Player Choice:**
 > *Identify Echoes - Demand the ghost point out the exact locations of the Echoes before unsealing.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-134"></a>
 #### Scene 134
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (19:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 4/4 L2 3/3, Refusal: 1/1, Candy: 1**
@@ -2356,8 +2771,11 @@ The ghost points precisely, faint crimson glows marking the spots amid Toriel's 
 > 👤 **Player:**
 > *"Think. What should I do with toriel? Should I kill her"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-135"></a>
 #### Scene 135
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (19:31)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 4/4 L2 3/3, Refusal: 1/1, Candy: 1**
@@ -2367,8 +2785,11 @@ You pause in the dim basement, the damp chill seeping through the scorched stone
 > [!NOTE] ⚙️ **Player Choice:**
 > *Attempt Recruitment - Offer her vice-regency in your empire; leverage shared &#x27;royal&#x27; trauma for loyalty*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-136"></a>
 #### Scene 136
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **December 29, 2025 DR (19:36)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 6206/6500 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 0/4, Spells: L1 4/4 L2 3/3, Refusal: 1/1, Candy: 1**
@@ -2380,8 +2801,11 @@ She shakes her head slowly, her voice a ragged whisper echoing off the scorched 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Kill Toriel - End her (narrative victory: CR5 XP ~1800, loot keys/locket)*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-137"></a>
 #### Scene 137
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (19:40)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Determination Adept | HP: 35/35 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Candy: 1, Keys: Iron Ring**
@@ -2395,8 +2819,11 @@ Toriel looks up, her eyes wide with a staggering, final realization as the cage 
 God Mode:
 shouldnt i be level 5 now?
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-138"></a>
 #### Scene 138
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **2025-12-29, Morning** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 35/35 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 4/5, Spells: L1 4/4, L2 3/3, Refusal: 1/1, Candy: 1, Keys: Iron Ring**
@@ -2406,8 +2833,11 @@ The user is correct. Their current XP is 8,006, which exceeds the 6,500 threshol
 God Mode:
 apply level 5 and let me pick spells etc
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-139"></a>
 #### Scene 139
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **2025-12-29T19:45:00.000000Z** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 42/42 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring** &nbsp;|&nbsp; ⚠️ **[Noble Resolve] | Exhaustion: 0 | Inspiration: No**
@@ -2417,8 +2847,11 @@ The character has reached Level 5, a major power spike for the Determination Ade
 God Mode:
 pick counterspell and hypnotic pattern
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-140"></a>
 #### Scene 140
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **2025-12-29, Evening** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 49/49 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring**
@@ -2428,8 +2861,11 @@ The user has reached Level 5 and is selecting 3rd-level spells. Counterspell and
 > 👤 **Player:**
 > *"counterspell and fireball"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-141"></a>
 #### Scene 141
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (19:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 49/49 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 0/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2447,8 +2883,11 @@ A bloom of roaring orange fire erupts from your palm, a 'Fireball' born not of m
 God Mode:
 wtf i mean i pick counterspell and fireball as spells
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-142"></a>
 #### Scene 142
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (19:46)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 49/49 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2460,8 +2899,11 @@ Deep in the silence that follows the explosion, the Echoes beneath the rubble be
 > [!NOTE] ⚙️ **Player Choice:**
 > *Sync the Heart Locket - Use the residual royal pulse to fully activate the Heart Locket artifact.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-143"></a>
 #### Scene 143
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 49/49 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring**
@@ -2477,8 +2919,11 @@ A violent, rhythmic shudder passes through your arm as the locket snaps into ali
 > [!NOTE] ⚙️ **Player Choice:**
 > *Collect Boss Monster Dust - Gather the remains of the Queen for later use in alchemical or magical rituals.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-144"></a>
 #### Scene 144
 
 > 📍 **Toriel's Home - Basement** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (20:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 49/49 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring** &nbsp;|&nbsp; ⚠️ **Lawful Evil, Heart Locket Synced (+3 AC)**
@@ -2492,8 +2937,11 @@ Napstablook watches from the shadows, his translucent form shivering. '...oh... 
 > 👤 **Player:**
 > *"fully loot the house for anything useful or gear"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-145"></a>
 #### Scene 145
 
 > 📍 **Toriel's Home - Master Bedroom** &nbsp;|&nbsp; ⏳ **12 29, 2025 DR (20:30)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Determination Adept | HP: 49/49 | XP: 8006/14000 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
@@ -2507,6 +2955,8 @@ You return to the master bedroom, the door no longer a barrier. [DICE: Search To
 Descending back into the basement, you stand before the scorched stones where your Fireball tore through the masonry. You scan the floor for the exact mechanism Napstablook described. [DICE: Locate Reliquary Entrance (Perception): 1d20+5 = 2+5 = 7 vs DC 12 (Failure)]. The debris is thick, and the shadows created by the flickering lavender light from above are deceptive. You can hear the Echoes humming beneath your feet—a high, terrified vibration—but the physical threshold of the Reliquary remains obscured by the pulverized stone. The vault is open, but the debris of your own violence has created a new, physical barricade.
 
 From the corners, Napstablook's form shivers. '...you're... you're very thorough... aren't you...?'
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 
